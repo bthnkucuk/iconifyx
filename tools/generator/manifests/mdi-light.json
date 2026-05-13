@@ -1,0 +1,1550 @@
+{
+  "schemaVersion": 1,
+  "prefix": "mdi-light",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Material",
+  "subPackage": "iconifyx_mdi_light",
+  "info": {
+    "name": "Material Design Light",
+    "author": {
+      "name": "Pictogrammers",
+      "url": "https://github.com/Templarian/MaterialDesignLight"
+    },
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://github.com/Templarian/MaterialDesignLight/blob/master/LICENSE.md"
+    },
+    "total": 304
+  },
+  "fonts": [
+    {
+      "family": "MdiLight",
+      "nextCodepoint": 57648,
+      "iconCount": 304
+    }
+  ],
+  "icons": {
+    "account": {
+      "codepoint": 57344,
+      "fontFamily": "MdiLight",
+      "identifier": "account"
+    },
+    "account-alert": {
+      "codepoint": 57345,
+      "fontFamily": "MdiLight",
+      "identifier": "accountAlert"
+    },
+    "alarm": {
+      "codepoint": 57346,
+      "fontFamily": "MdiLight",
+      "identifier": "alarm"
+    },
+    "alarm-panel": {
+      "codepoint": 57347,
+      "fontFamily": "MdiLight",
+      "identifier": "alarmPanel"
+    },
+    "alarm-plus": {
+      "codepoint": 57348,
+      "fontFamily": "MdiLight",
+      "identifier": "alarmPlus"
+    },
+    "alert": {
+      "codepoint": 57349,
+      "fontFamily": "MdiLight",
+      "identifier": "alert"
+    },
+    "alert-circle": {
+      "codepoint": 57350,
+      "fontFamily": "MdiLight",
+      "identifier": "alertCircle"
+    },
+    "alert-octagon": {
+      "codepoint": 57351,
+      "fontFamily": "MdiLight",
+      "identifier": "alertOctagon"
+    },
+    "arrange-bring-forward": {
+      "codepoint": 57352,
+      "fontFamily": "MdiLight",
+      "identifier": "arrangeBringForward"
+    },
+    "arrange-bring-to-front": {
+      "codepoint": 57353,
+      "fontFamily": "MdiLight",
+      "identifier": "arrangeBringToFront"
+    },
+    "arrange-send-backward": {
+      "codepoint": 57354,
+      "fontFamily": "MdiLight",
+      "identifier": "arrangeSendBackward"
+    },
+    "arrange-send-to-back": {
+      "codepoint": 57355,
+      "fontFamily": "MdiLight",
+      "identifier": "arrangeSendToBack"
+    },
+    "arrow-down": {
+      "codepoint": 57356,
+      "fontFamily": "MdiLight",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-circle": {
+      "codepoint": 57357,
+      "fontFamily": "MdiLight",
+      "identifier": "arrowDownCircle"
+    },
+    "arrow-left": {
+      "codepoint": 57358,
+      "fontFamily": "MdiLight",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-circle": {
+      "codepoint": 57359,
+      "fontFamily": "MdiLight",
+      "identifier": "arrowLeftCircle"
+    },
+    "arrow-right": {
+      "codepoint": 57360,
+      "fontFamily": "MdiLight",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-circle": {
+      "codepoint": 57361,
+      "fontFamily": "MdiLight",
+      "identifier": "arrowRightCircle"
+    },
+    "arrow-up": {
+      "codepoint": 57362,
+      "fontFamily": "MdiLight",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-circle": {
+      "codepoint": 57363,
+      "fontFamily": "MdiLight",
+      "identifier": "arrowUpCircle"
+    },
+    "bank": {
+      "codepoint": 57364,
+      "fontFamily": "MdiLight",
+      "identifier": "bank"
+    },
+    "baseball-diamond": {
+      "codepoint": 57365,
+      "fontFamily": "MdiLight",
+      "identifier": "baseballDiamond"
+    },
+    "bell": {
+      "codepoint": 57366,
+      "fontFamily": "MdiLight",
+      "identifier": "bell"
+    },
+    "bell-off": {
+      "codepoint": 57367,
+      "fontFamily": "MdiLight",
+      "identifier": "bellOff"
+    },
+    "bell-plus": {
+      "codepoint": 57368,
+      "fontFamily": "MdiLight",
+      "identifier": "bellPlus"
+    },
+    "bluetooth": {
+      "codepoint": 57369,
+      "fontFamily": "MdiLight",
+      "identifier": "bluetooth"
+    },
+    "book": {
+      "codepoint": 57370,
+      "fontFamily": "MdiLight",
+      "identifier": "book"
+    },
+    "book-multiple": {
+      "codepoint": 57371,
+      "fontFamily": "MdiLight",
+      "identifier": "bookMultiple"
+    },
+    "book-plus": {
+      "codepoint": 57372,
+      "fontFamily": "MdiLight",
+      "identifier": "bookPlus"
+    },
+    "bookmark": {
+      "codepoint": 57373,
+      "fontFamily": "MdiLight",
+      "identifier": "bookmark"
+    },
+    "border-all": {
+      "codepoint": 57374,
+      "fontFamily": "MdiLight",
+      "identifier": "borderAll"
+    },
+    "border-bottom": {
+      "codepoint": 57375,
+      "fontFamily": "MdiLight",
+      "identifier": "borderBottom"
+    },
+    "border-horizontal": {
+      "codepoint": 57376,
+      "fontFamily": "MdiLight",
+      "identifier": "borderHorizontal"
+    },
+    "border-inside": {
+      "codepoint": 57377,
+      "fontFamily": "MdiLight",
+      "identifier": "borderInside"
+    },
+    "border-left": {
+      "codepoint": 57378,
+      "fontFamily": "MdiLight",
+      "identifier": "borderLeft"
+    },
+    "border-none": {
+      "codepoint": 57379,
+      "fontFamily": "MdiLight",
+      "identifier": "borderNone"
+    },
+    "border-outside": {
+      "codepoint": 57380,
+      "fontFamily": "MdiLight",
+      "identifier": "borderOutside"
+    },
+    "border-right": {
+      "codepoint": 57381,
+      "fontFamily": "MdiLight",
+      "identifier": "borderRight"
+    },
+    "border-top": {
+      "codepoint": 57382,
+      "fontFamily": "MdiLight",
+      "identifier": "borderTop"
+    },
+    "border-vertical": {
+      "codepoint": 57383,
+      "fontFamily": "MdiLight",
+      "identifier": "borderVertical"
+    },
+    "briefcase": {
+      "codepoint": 57384,
+      "fontFamily": "MdiLight",
+      "identifier": "briefcase"
+    },
+    "bullhorn": {
+      "codepoint": 57385,
+      "fontFamily": "MdiLight",
+      "identifier": "bullhorn"
+    },
+    "calendar": {
+      "codepoint": 57386,
+      "fontFamily": "MdiLight",
+      "identifier": "calendar"
+    },
+    "camcorder": {
+      "codepoint": 57387,
+      "fontFamily": "MdiLight",
+      "identifier": "camcorder"
+    },
+    "camera": {
+      "codepoint": 57388,
+      "fontFamily": "MdiLight",
+      "identifier": "camera"
+    },
+    "cancel": {
+      "codepoint": 57389,
+      "fontFamily": "MdiLight",
+      "identifier": "cancel"
+    },
+    "cart": {
+      "codepoint": 57390,
+      "fontFamily": "MdiLight",
+      "identifier": "cart"
+    },
+    "chart-areaspline": {
+      "codepoint": 57391,
+      "fontFamily": "MdiLight",
+      "identifier": "chartAreaspline"
+    },
+    "chart-bar": {
+      "codepoint": 57392,
+      "fontFamily": "MdiLight",
+      "identifier": "chartBar"
+    },
+    "chart-histogram": {
+      "codepoint": 57393,
+      "fontFamily": "MdiLight",
+      "identifier": "chartHistogram"
+    },
+    "chart-line": {
+      "codepoint": 57394,
+      "fontFamily": "MdiLight",
+      "identifier": "chartLine"
+    },
+    "chart-pie": {
+      "codepoint": 57395,
+      "fontFamily": "MdiLight",
+      "identifier": "chartPie"
+    },
+    "check": {
+      "codepoint": 57396,
+      "fontFamily": "MdiLight",
+      "identifier": "check"
+    },
+    "check-bold": {
+      "codepoint": 57397,
+      "fontFamily": "MdiLight",
+      "identifier": "checkBold"
+    },
+    "check-circle": {
+      "codepoint": 57398,
+      "fontFamily": "MdiLight",
+      "identifier": "checkCircle"
+    },
+    "chevron-double-down": {
+      "codepoint": 57399,
+      "fontFamily": "MdiLight",
+      "identifier": "chevronDoubleDown"
+    },
+    "chevron-double-left": {
+      "codepoint": 57400,
+      "fontFamily": "MdiLight",
+      "identifier": "chevronDoubleLeft"
+    },
+    "chevron-double-right": {
+      "codepoint": 57401,
+      "fontFamily": "MdiLight",
+      "identifier": "chevronDoubleRight"
+    },
+    "chevron-double-up": {
+      "codepoint": 57402,
+      "fontFamily": "MdiLight",
+      "identifier": "chevronDoubleUp"
+    },
+    "chevron-down": {
+      "codepoint": 57403,
+      "fontFamily": "MdiLight",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57404,
+      "fontFamily": "MdiLight",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57405,
+      "fontFamily": "MdiLight",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57406,
+      "fontFamily": "MdiLight",
+      "identifier": "chevronUp"
+    },
+    "circle": {
+      "codepoint": 57407,
+      "fontFamily": "MdiLight",
+      "identifier": "circle"
+    },
+    "clipboard": {
+      "codepoint": 57408,
+      "fontFamily": "MdiLight",
+      "identifier": "clipboard"
+    },
+    "clipboard-check": {
+      "codepoint": 57409,
+      "fontFamily": "MdiLight",
+      "identifier": "clipboardCheck"
+    },
+    "clipboard-plus": {
+      "codepoint": 57410,
+      "fontFamily": "MdiLight",
+      "identifier": "clipboardPlus"
+    },
+    "clipboard-text": {
+      "codepoint": 57411,
+      "fontFamily": "MdiLight",
+      "identifier": "clipboardText"
+    },
+    "clock": {
+      "codepoint": 57412,
+      "fontFamily": "MdiLight",
+      "identifier": "clock"
+    },
+    "closed-caption": {
+      "codepoint": 57413,
+      "fontFamily": "MdiLight",
+      "identifier": "closedCaption"
+    },
+    "cloud": {
+      "codepoint": 57414,
+      "fontFamily": "MdiLight",
+      "identifier": "cloud"
+    },
+    "cloud-download": {
+      "codepoint": 57415,
+      "fontFamily": "MdiLight",
+      "identifier": "cloudDownload"
+    },
+    "cloud-upload": {
+      "codepoint": 57416,
+      "fontFamily": "MdiLight",
+      "identifier": "cloudUpload"
+    },
+    "cog": {
+      "codepoint": 57417,
+      "fontFamily": "MdiLight",
+      "identifier": "cog"
+    },
+    "comment": {
+      "codepoint": 57418,
+      "fontFamily": "MdiLight",
+      "identifier": "comment"
+    },
+    "comment-alert": {
+      "codepoint": 57419,
+      "fontFamily": "MdiLight",
+      "identifier": "commentAlert"
+    },
+    "comment-text": {
+      "codepoint": 57420,
+      "fontFamily": "MdiLight",
+      "identifier": "commentText"
+    },
+    "console": {
+      "codepoint": 57421,
+      "fontFamily": "MdiLight",
+      "identifier": "console"
+    },
+    "content-cut": {
+      "codepoint": 57422,
+      "fontFamily": "MdiLight",
+      "identifier": "contentCut"
+    },
+    "content-duplicate": {
+      "codepoint": 57423,
+      "fontFamily": "MdiLight",
+      "identifier": "contentDuplicate"
+    },
+    "content-paste": {
+      "codepoint": 57424,
+      "fontFamily": "MdiLight",
+      "identifier": "contentPaste"
+    },
+    "content-save": {
+      "codepoint": 57425,
+      "fontFamily": "MdiLight",
+      "identifier": "contentSave"
+    },
+    "content-save-all": {
+      "codepoint": 57426,
+      "fontFamily": "MdiLight",
+      "identifier": "contentSaveAll"
+    },
+    "credit-card": {
+      "codepoint": 57427,
+      "fontFamily": "MdiLight",
+      "identifier": "creditCard"
+    },
+    "credit-card-scan": {
+      "codepoint": 57428,
+      "fontFamily": "MdiLight",
+      "identifier": "creditCardScan"
+    },
+    "crop": {
+      "codepoint": 57429,
+      "fontFamily": "MdiLight",
+      "identifier": "crop"
+    },
+    "crop-free": {
+      "codepoint": 57430,
+      "fontFamily": "MdiLight",
+      "identifier": "cropFree"
+    },
+    "currency-eur": {
+      "codepoint": 57431,
+      "fontFamily": "MdiLight",
+      "identifier": "currencyEur"
+    },
+    "currency-gbp": {
+      "codepoint": 57432,
+      "fontFamily": "MdiLight",
+      "identifier": "currencyGbp"
+    },
+    "currency-rub": {
+      "codepoint": 57433,
+      "fontFamily": "MdiLight",
+      "identifier": "currencyRub"
+    },
+    "currency-usd": {
+      "codepoint": 57434,
+      "fontFamily": "MdiLight",
+      "identifier": "currencyUsd"
+    },
+    "delete": {
+      "codepoint": 57435,
+      "fontFamily": "MdiLight",
+      "identifier": "delete"
+    },
+    "diamond": {
+      "codepoint": 57436,
+      "fontFamily": "MdiLight",
+      "identifier": "diamond"
+    },
+    "diamond-stone": {
+      "codepoint": 57437,
+      "fontFamily": "MdiLight",
+      "identifier": "diamondStone"
+    },
+    "dots-horizontal": {
+      "codepoint": 57438,
+      "fontFamily": "MdiLight",
+      "identifier": "dotsHorizontal"
+    },
+    "dots-vertical": {
+      "codepoint": 57439,
+      "fontFamily": "MdiLight",
+      "identifier": "dotsVertical"
+    },
+    "download": {
+      "codepoint": 57440,
+      "fontFamily": "MdiLight",
+      "identifier": "download"
+    },
+    "eject": {
+      "codepoint": 57441,
+      "fontFamily": "MdiLight",
+      "identifier": "eject"
+    },
+    "email": {
+      "codepoint": 57442,
+      "fontFamily": "MdiLight",
+      "identifier": "email"
+    },
+    "email-open": {
+      "codepoint": 57443,
+      "fontFamily": "MdiLight",
+      "identifier": "emailOpen"
+    },
+    "equalizer": {
+      "codepoint": 57444,
+      "fontFamily": "MdiLight",
+      "identifier": "equalizer"
+    },
+    "ereader": {
+      "codepoint": 57445,
+      "fontFamily": "MdiLight",
+      "identifier": "ereader"
+    },
+    "eye": {
+      "codepoint": 57446,
+      "fontFamily": "MdiLight",
+      "identifier": "eye"
+    },
+    "eye-off": {
+      "codepoint": 57447,
+      "fontFamily": "MdiLight",
+      "identifier": "eyeOff"
+    },
+    "face-mask": {
+      "codepoint": 57448,
+      "fontFamily": "MdiLight",
+      "identifier": "faceMask"
+    },
+    "factory": {
+      "codepoint": 57449,
+      "fontFamily": "MdiLight",
+      "identifier": "factory_"
+    },
+    "fast-forward": {
+      "codepoint": 57450,
+      "fontFamily": "MdiLight",
+      "identifier": "fastForward"
+    },
+    "file": {
+      "codepoint": 57451,
+      "fontFamily": "MdiLight",
+      "identifier": "file"
+    },
+    "file-alert": {
+      "codepoint": 57452,
+      "fontFamily": "MdiLight",
+      "identifier": "fileAlert"
+    },
+    "file-multiple": {
+      "codepoint": 57453,
+      "fontFamily": "MdiLight",
+      "identifier": "fileMultiple"
+    },
+    "file-plus": {
+      "codepoint": 57454,
+      "fontFamily": "MdiLight",
+      "identifier": "filePlus"
+    },
+    "filmstrip": {
+      "codepoint": 57455,
+      "fontFamily": "MdiLight",
+      "identifier": "filmstrip"
+    },
+    "flag": {
+      "codepoint": 57456,
+      "fontFamily": "MdiLight",
+      "identifier": "flag"
+    },
+    "flash": {
+      "codepoint": 57457,
+      "fontFamily": "MdiLight",
+      "identifier": "flash"
+    },
+    "flask": {
+      "codepoint": 57458,
+      "fontFamily": "MdiLight",
+      "identifier": "flask"
+    },
+    "flask-empty": {
+      "codepoint": 57459,
+      "fontFamily": "MdiLight",
+      "identifier": "flaskEmpty"
+    },
+    "folder": {
+      "codepoint": 57460,
+      "fontFamily": "MdiLight",
+      "identifier": "folder"
+    },
+    "folder-multiple": {
+      "codepoint": 57461,
+      "fontFamily": "MdiLight",
+      "identifier": "folderMultiple"
+    },
+    "folder-plus": {
+      "codepoint": 57462,
+      "fontFamily": "MdiLight",
+      "identifier": "folderPlus"
+    },
+    "format-align-bottom": {
+      "codepoint": 57463,
+      "fontFamily": "MdiLight",
+      "identifier": "formatAlignBottom"
+    },
+    "format-align-center": {
+      "codepoint": 57464,
+      "fontFamily": "MdiLight",
+      "identifier": "formatAlignCenter"
+    },
+    "format-align-justify": {
+      "codepoint": 57465,
+      "fontFamily": "MdiLight",
+      "identifier": "formatAlignJustify"
+    },
+    "format-align-left": {
+      "codepoint": 57466,
+      "fontFamily": "MdiLight",
+      "identifier": "formatAlignLeft"
+    },
+    "format-align-middle": {
+      "codepoint": 57467,
+      "fontFamily": "MdiLight",
+      "identifier": "formatAlignMiddle"
+    },
+    "format-align-right": {
+      "codepoint": 57468,
+      "fontFamily": "MdiLight",
+      "identifier": "formatAlignRight"
+    },
+    "format-align-top": {
+      "codepoint": 57469,
+      "fontFamily": "MdiLight",
+      "identifier": "formatAlignTop"
+    },
+    "format-bold": {
+      "codepoint": 57470,
+      "fontFamily": "MdiLight",
+      "identifier": "formatBold"
+    },
+    "format-clear": {
+      "codepoint": 57471,
+      "fontFamily": "MdiLight",
+      "identifier": "formatClear"
+    },
+    "format-float-center": {
+      "codepoint": 57472,
+      "fontFamily": "MdiLight",
+      "identifier": "formatFloatCenter"
+    },
+    "format-float-left": {
+      "codepoint": 57473,
+      "fontFamily": "MdiLight",
+      "identifier": "formatFloatLeft"
+    },
+    "format-float-none": {
+      "codepoint": 57474,
+      "fontFamily": "MdiLight",
+      "identifier": "formatFloatNone"
+    },
+    "format-float-right": {
+      "codepoint": 57475,
+      "fontFamily": "MdiLight",
+      "identifier": "formatFloatRight"
+    },
+    "format-indent-decrease": {
+      "codepoint": 57476,
+      "fontFamily": "MdiLight",
+      "identifier": "formatIndentDecrease"
+    },
+    "format-indent-increase": {
+      "codepoint": 57477,
+      "fontFamily": "MdiLight",
+      "identifier": "formatIndentIncrease"
+    },
+    "format-italic": {
+      "codepoint": 57478,
+      "fontFamily": "MdiLight",
+      "identifier": "formatItalic"
+    },
+    "format-line-spacing": {
+      "codepoint": 57479,
+      "fontFamily": "MdiLight",
+      "identifier": "formatLineSpacing"
+    },
+    "format-list-bulleted": {
+      "codepoint": 57480,
+      "fontFamily": "MdiLight",
+      "identifier": "formatListBulleted"
+    },
+    "format-list-checks": {
+      "codepoint": 57481,
+      "fontFamily": "MdiLight",
+      "identifier": "formatListChecks"
+    },
+    "format-list-numbered": {
+      "codepoint": 57482,
+      "fontFamily": "MdiLight",
+      "identifier": "formatListNumbered"
+    },
+    "format-list-numbers": {
+      "codepoint": 57483,
+      "fontFamily": "MdiLight",
+      "identifier": "formatListNumbers"
+    },
+    "format-quote-close": {
+      "codepoint": 57484,
+      "fontFamily": "MdiLight",
+      "identifier": "formatQuoteClose"
+    },
+    "format-quote-open": {
+      "codepoint": 57485,
+      "fontFamily": "MdiLight",
+      "identifier": "formatQuoteOpen"
+    },
+    "format-underline": {
+      "codepoint": 57486,
+      "fontFamily": "MdiLight",
+      "identifier": "formatUnderline"
+    },
+    "format-wrap-inline": {
+      "codepoint": 57487,
+      "fontFamily": "MdiLight",
+      "identifier": "formatWrapInline"
+    },
+    "format-wrap-square": {
+      "codepoint": 57488,
+      "fontFamily": "MdiLight",
+      "identifier": "formatWrapSquare"
+    },
+    "format-wrap-tight": {
+      "codepoint": 57489,
+      "fontFamily": "MdiLight",
+      "identifier": "formatWrapTight"
+    },
+    "format-wrap-top-bottom": {
+      "codepoint": 57490,
+      "fontFamily": "MdiLight",
+      "identifier": "formatWrapTopBottom"
+    },
+    "forum": {
+      "codepoint": 57491,
+      "fontFamily": "MdiLight",
+      "identifier": "forum"
+    },
+    "fullscreen": {
+      "codepoint": 57492,
+      "fontFamily": "MdiLight",
+      "identifier": "fullscreen"
+    },
+    "fullscreen-close": {
+      "codepoint": 57493,
+      "fontFamily": "MdiLight",
+      "identifier": "fullscreenClose"
+    },
+    "fullscreen-exit": {
+      "codepoint": 57494,
+      "fontFamily": "MdiLight",
+      "identifier": "fullscreenExit"
+    },
+    "gender-female": {
+      "codepoint": 57495,
+      "fontFamily": "MdiLight",
+      "identifier": "genderFemale"
+    },
+    "gender-male": {
+      "codepoint": 57496,
+      "fontFamily": "MdiLight",
+      "identifier": "genderMale"
+    },
+    "gender-male-female": {
+      "codepoint": 57497,
+      "fontFamily": "MdiLight",
+      "identifier": "genderMaleFemale"
+    },
+    "gender-transgender": {
+      "codepoint": 57498,
+      "fontFamily": "MdiLight",
+      "identifier": "genderTransgender"
+    },
+    "gift": {
+      "codepoint": 57499,
+      "fontFamily": "MdiLight",
+      "identifier": "gift"
+    },
+    "grid": {
+      "codepoint": 57500,
+      "fontFamily": "MdiLight",
+      "identifier": "grid"
+    },
+    "grid-large": {
+      "codepoint": 57501,
+      "fontFamily": "MdiLight",
+      "identifier": "gridLarge"
+    },
+    "grid-off": {
+      "codepoint": 57502,
+      "fontFamily": "MdiLight",
+      "identifier": "gridOff"
+    },
+    "group": {
+      "codepoint": 57503,
+      "fontFamily": "MdiLight",
+      "identifier": "group"
+    },
+    "hamburger": {
+      "codepoint": 57504,
+      "fontFamily": "MdiLight",
+      "identifier": "hamburger"
+    },
+    "heart": {
+      "codepoint": 57505,
+      "fontFamily": "MdiLight",
+      "identifier": "heart"
+    },
+    "heart-half": {
+      "codepoint": 57506,
+      "fontFamily": "MdiLight",
+      "identifier": "heartHalf"
+    },
+    "heart-off": {
+      "codepoint": 57507,
+      "fontFamily": "MdiLight",
+      "identifier": "heartOff"
+    },
+    "help": {
+      "codepoint": 57508,
+      "fontFamily": "MdiLight",
+      "identifier": "help"
+    },
+    "help-circle": {
+      "codepoint": 57509,
+      "fontFamily": "MdiLight",
+      "identifier": "helpCircle"
+    },
+    "hexagon": {
+      "codepoint": 57510,
+      "fontFamily": "MdiLight",
+      "identifier": "hexagon"
+    },
+    "home": {
+      "codepoint": 57511,
+      "fontFamily": "MdiLight",
+      "identifier": "home"
+    },
+    "image": {
+      "codepoint": 57512,
+      "fontFamily": "MdiLight",
+      "identifier": "image"
+    },
+    "inbox": {
+      "codepoint": 57513,
+      "fontFamily": "MdiLight",
+      "identifier": "inbox"
+    },
+    "information": {
+      "codepoint": 57514,
+      "fontFamily": "MdiLight",
+      "identifier": "information"
+    },
+    "label": {
+      "codepoint": 57515,
+      "fontFamily": "MdiLight",
+      "identifier": "label"
+    },
+    "layers": {
+      "codepoint": 57516,
+      "fontFamily": "MdiLight",
+      "identifier": "layers"
+    },
+    "lightbulb": {
+      "codepoint": 57517,
+      "fontFamily": "MdiLight",
+      "identifier": "lightbulb"
+    },
+    "lightbulb-on": {
+      "codepoint": 57518,
+      "fontFamily": "MdiLight",
+      "identifier": "lightbulbOn"
+    },
+    "link": {
+      "codepoint": 57519,
+      "fontFamily": "MdiLight",
+      "identifier": "link"
+    },
+    "link-variant": {
+      "codepoint": 57520,
+      "fontFamily": "MdiLight",
+      "identifier": "linkVariant"
+    },
+    "loading": {
+      "codepoint": 57521,
+      "fontFamily": "MdiLight",
+      "identifier": "loading"
+    },
+    "lock": {
+      "codepoint": 57522,
+      "fontFamily": "MdiLight",
+      "identifier": "lock"
+    },
+    "lock-open": {
+      "codepoint": 57523,
+      "fontFamily": "MdiLight",
+      "identifier": "lockOpen"
+    },
+    "lock-unlocked": {
+      "codepoint": 57524,
+      "fontFamily": "MdiLight",
+      "identifier": "lockUnlocked"
+    },
+    "login": {
+      "codepoint": 57525,
+      "fontFamily": "MdiLight",
+      "identifier": "login"
+    },
+    "logout": {
+      "codepoint": 57526,
+      "fontFamily": "MdiLight",
+      "identifier": "logout"
+    },
+    "magnify": {
+      "codepoint": 57527,
+      "fontFamily": "MdiLight",
+      "identifier": "magnify"
+    },
+    "magnify-minus": {
+      "codepoint": 57528,
+      "fontFamily": "MdiLight",
+      "identifier": "magnifyMinus"
+    },
+    "magnify-plus": {
+      "codepoint": 57529,
+      "fontFamily": "MdiLight",
+      "identifier": "magnifyPlus"
+    },
+    "map-marker": {
+      "codepoint": 57530,
+      "fontFamily": "MdiLight",
+      "identifier": "mapMarker"
+    },
+    "memory": {
+      "codepoint": 57531,
+      "fontFamily": "MdiLight",
+      "identifier": "memory"
+    },
+    "menu": {
+      "codepoint": 57532,
+      "fontFamily": "MdiLight",
+      "identifier": "menu"
+    },
+    "message": {
+      "codepoint": 57533,
+      "fontFamily": "MdiLight",
+      "identifier": "message"
+    },
+    "message-alert": {
+      "codepoint": 57534,
+      "fontFamily": "MdiLight",
+      "identifier": "messageAlert"
+    },
+    "message-image": {
+      "codepoint": 57535,
+      "fontFamily": "MdiLight",
+      "identifier": "messageImage"
+    },
+    "message-photo": {
+      "codepoint": 57536,
+      "fontFamily": "MdiLight",
+      "identifier": "messagePhoto"
+    },
+    "message-processing": {
+      "codepoint": 57537,
+      "fontFamily": "MdiLight",
+      "identifier": "messageProcessing"
+    },
+    "message-reply": {
+      "codepoint": 57538,
+      "fontFamily": "MdiLight",
+      "identifier": "messageReply"
+    },
+    "message-text": {
+      "codepoint": 57539,
+      "fontFamily": "MdiLight",
+      "identifier": "messageText"
+    },
+    "message-video": {
+      "codepoint": 57540,
+      "fontFamily": "MdiLight",
+      "identifier": "messageVideo"
+    },
+    "microphone": {
+      "codepoint": 57541,
+      "fontFamily": "MdiLight",
+      "identifier": "microphone"
+    },
+    "microphone-off": {
+      "codepoint": 57542,
+      "fontFamily": "MdiLight",
+      "identifier": "microphoneOff"
+    },
+    "minus": {
+      "codepoint": 57543,
+      "fontFamily": "MdiLight",
+      "identifier": "minus"
+    },
+    "minus-box": {
+      "codepoint": 57544,
+      "fontFamily": "MdiLight",
+      "identifier": "minusBox"
+    },
+    "minus-circle": {
+      "codepoint": 57545,
+      "fontFamily": "MdiLight",
+      "identifier": "minusCircle"
+    },
+    "monitor": {
+      "codepoint": 57546,
+      "fontFamily": "MdiLight",
+      "identifier": "monitor"
+    },
+    "monitor-multiple": {
+      "codepoint": 57547,
+      "fontFamily": "MdiLight",
+      "identifier": "monitorMultiple"
+    },
+    "music": {
+      "codepoint": 57548,
+      "fontFamily": "MdiLight",
+      "identifier": "music"
+    },
+    "music-off": {
+      "codepoint": 57549,
+      "fontFamily": "MdiLight",
+      "identifier": "musicOff"
+    },
+    "nfc": {
+      "codepoint": 57550,
+      "fontFamily": "MdiLight",
+      "identifier": "nfc"
+    },
+    "nfc-variant": {
+      "codepoint": 57551,
+      "fontFamily": "MdiLight",
+      "identifier": "nfcVariant"
+    },
+    "note": {
+      "codepoint": 57552,
+      "fontFamily": "MdiLight",
+      "identifier": "note"
+    },
+    "note-multiple": {
+      "codepoint": 57553,
+      "fontFamily": "MdiLight",
+      "identifier": "noteMultiple"
+    },
+    "note-plus": {
+      "codepoint": 57554,
+      "fontFamily": "MdiLight",
+      "identifier": "notePlus"
+    },
+    "note-text": {
+      "codepoint": 57555,
+      "fontFamily": "MdiLight",
+      "identifier": "noteText"
+    },
+    "octagon": {
+      "codepoint": 57556,
+      "fontFamily": "MdiLight",
+      "identifier": "octagon"
+    },
+    "paperclip": {
+      "codepoint": 57557,
+      "fontFamily": "MdiLight",
+      "identifier": "paperclip"
+    },
+    "pause": {
+      "codepoint": 57558,
+      "fontFamily": "MdiLight",
+      "identifier": "pause"
+    },
+    "pencil": {
+      "codepoint": 57559,
+      "fontFamily": "MdiLight",
+      "identifier": "pencil"
+    },
+    "phone": {
+      "codepoint": 57560,
+      "fontFamily": "MdiLight",
+      "identifier": "phone"
+    },
+    "picture": {
+      "codepoint": 57561,
+      "fontFamily": "MdiLight",
+      "identifier": "picture"
+    },
+    "pin": {
+      "codepoint": 57562,
+      "fontFamily": "MdiLight",
+      "identifier": "pin"
+    },
+    "pin-off": {
+      "codepoint": 57563,
+      "fontFamily": "MdiLight",
+      "identifier": "pinOff"
+    },
+    "play": {
+      "codepoint": 57564,
+      "fontFamily": "MdiLight",
+      "identifier": "play"
+    },
+    "plus": {
+      "codepoint": 57565,
+      "fontFamily": "MdiLight",
+      "identifier": "plus"
+    },
+    "plus-box": {
+      "codepoint": 57566,
+      "fontFamily": "MdiLight",
+      "identifier": "plusBox"
+    },
+    "plus-circle": {
+      "codepoint": 57567,
+      "fontFamily": "MdiLight",
+      "identifier": "plusCircle"
+    },
+    "power": {
+      "codepoint": 57568,
+      "fontFamily": "MdiLight",
+      "identifier": "power"
+    },
+    "presentation": {
+      "codepoint": 57569,
+      "fontFamily": "MdiLight",
+      "identifier": "presentation"
+    },
+    "presentation-play": {
+      "codepoint": 57570,
+      "fontFamily": "MdiLight",
+      "identifier": "presentationPlay"
+    },
+    "printer": {
+      "codepoint": 57571,
+      "fontFamily": "MdiLight",
+      "identifier": "printer"
+    },
+    "redo-variant": {
+      "codepoint": 57572,
+      "fontFamily": "MdiLight",
+      "identifier": "redoVariant"
+    },
+    "refresh": {
+      "codepoint": 57573,
+      "fontFamily": "MdiLight",
+      "identifier": "refresh"
+    },
+    "repeat": {
+      "codepoint": 57574,
+      "fontFamily": "MdiLight",
+      "identifier": "repeat"
+    },
+    "repeat-off": {
+      "codepoint": 57575,
+      "fontFamily": "MdiLight",
+      "identifier": "repeatOff"
+    },
+    "repeat-once": {
+      "codepoint": 57576,
+      "fontFamily": "MdiLight",
+      "identifier": "repeatOnce"
+    },
+    "rewind": {
+      "codepoint": 57577,
+      "fontFamily": "MdiLight",
+      "identifier": "rewind"
+    },
+    "rhombus": {
+      "codepoint": 57578,
+      "fontFamily": "MdiLight",
+      "identifier": "rhombus"
+    },
+    "rss": {
+      "codepoint": 57579,
+      "fontFamily": "MdiLight",
+      "identifier": "rss"
+    },
+    "script": {
+      "codepoint": 57580,
+      "fontFamily": "MdiLight",
+      "identifier": "script"
+    },
+    "seek-next": {
+      "codepoint": 57581,
+      "fontFamily": "MdiLight",
+      "identifier": "seekNext"
+    },
+    "seek-previous": {
+      "codepoint": 57582,
+      "fontFamily": "MdiLight",
+      "identifier": "seekPrevious"
+    },
+    "settings": {
+      "codepoint": 57583,
+      "fontFamily": "MdiLight",
+      "identifier": "settings"
+    },
+    "shape-circle": {
+      "codepoint": 57584,
+      "fontFamily": "MdiLight",
+      "identifier": "shapeCircle"
+    },
+    "shape-hexagon": {
+      "codepoint": 57585,
+      "fontFamily": "MdiLight",
+      "identifier": "shapeHexagon"
+    },
+    "shape-octagon": {
+      "codepoint": 57586,
+      "fontFamily": "MdiLight",
+      "identifier": "shapeOctagon"
+    },
+    "shape-rhombus": {
+      "codepoint": 57587,
+      "fontFamily": "MdiLight",
+      "identifier": "shapeRhombus"
+    },
+    "shape-square": {
+      "codepoint": 57588,
+      "fontFamily": "MdiLight",
+      "identifier": "shapeSquare"
+    },
+    "shape-triangle": {
+      "codepoint": 57589,
+      "fontFamily": "MdiLight",
+      "identifier": "shapeTriangle"
+    },
+    "share": {
+      "codepoint": 57590,
+      "fontFamily": "MdiLight",
+      "identifier": "share"
+    },
+    "share-variant": {
+      "codepoint": 57591,
+      "fontFamily": "MdiLight",
+      "identifier": "shareVariant"
+    },
+    "shield": {
+      "codepoint": 57592,
+      "fontFamily": "MdiLight",
+      "identifier": "shield"
+    },
+    "shuffle": {
+      "codepoint": 57593,
+      "fontFamily": "MdiLight",
+      "identifier": "shuffle"
+    },
+    "signal": {
+      "codepoint": 57594,
+      "fontFamily": "MdiLight",
+      "identifier": "signal"
+    },
+    "sim": {
+      "codepoint": 57595,
+      "fontFamily": "MdiLight",
+      "identifier": "sim"
+    },
+    "sim-alert": {
+      "codepoint": 57596,
+      "fontFamily": "MdiLight",
+      "identifier": "simAlert"
+    },
+    "sim-off": {
+      "codepoint": 57597,
+      "fontFamily": "MdiLight",
+      "identifier": "simOff"
+    },
+    "sitemap": {
+      "codepoint": 57598,
+      "fontFamily": "MdiLight",
+      "identifier": "sitemap"
+    },
+    "skip-next": {
+      "codepoint": 57599,
+      "fontFamily": "MdiLight",
+      "identifier": "skipNext"
+    },
+    "skip-previous": {
+      "codepoint": 57600,
+      "fontFamily": "MdiLight",
+      "identifier": "skipPrevious"
+    },
+    "sleep": {
+      "codepoint": 57601,
+      "fontFamily": "MdiLight",
+      "identifier": "sleep"
+    },
+    "sleep-off": {
+      "codepoint": 57602,
+      "fontFamily": "MdiLight",
+      "identifier": "sleepOff"
+    },
+    "spellcheck": {
+      "codepoint": 57603,
+      "fontFamily": "MdiLight",
+      "identifier": "spellcheck"
+    },
+    "square": {
+      "codepoint": 57604,
+      "fontFamily": "MdiLight",
+      "identifier": "square"
+    },
+    "star": {
+      "codepoint": 57605,
+      "fontFamily": "MdiLight",
+      "identifier": "star"
+    },
+    "star-half": {
+      "codepoint": 57606,
+      "fontFamily": "MdiLight",
+      "identifier": "starHalf"
+    },
+    "stop": {
+      "codepoint": 57607,
+      "fontFamily": "MdiLight",
+      "identifier": "stop"
+    },
+    "tab": {
+      "codepoint": 57608,
+      "fontFamily": "MdiLight",
+      "identifier": "tab"
+    },
+    "tab-plus": {
+      "codepoint": 57609,
+      "fontFamily": "MdiLight",
+      "identifier": "tabPlus"
+    },
+    "table": {
+      "codepoint": 57610,
+      "fontFamily": "MdiLight",
+      "identifier": "table"
+    },
+    "taco": {
+      "codepoint": 57611,
+      "fontFamily": "MdiLight",
+      "identifier": "taco"
+    },
+    "tag": {
+      "codepoint": 57612,
+      "fontFamily": "MdiLight",
+      "identifier": "tag"
+    },
+    "television": {
+      "codepoint": 57613,
+      "fontFamily": "MdiLight",
+      "identifier": "television"
+    },
+    "thumb-down": {
+      "codepoint": 57614,
+      "fontFamily": "MdiLight",
+      "identifier": "thumbDown"
+    },
+    "thumb-up": {
+      "codepoint": 57615,
+      "fontFamily": "MdiLight",
+      "identifier": "thumbUp"
+    },
+    "thumbs-up-down": {
+      "codepoint": 57616,
+      "fontFamily": "MdiLight",
+      "identifier": "thumbsUpDown"
+    },
+    "tooltip": {
+      "codepoint": 57617,
+      "fontFamily": "MdiLight",
+      "identifier": "tooltip"
+    },
+    "tooltip-text": {
+      "codepoint": 57618,
+      "fontFamily": "MdiLight",
+      "identifier": "tooltipText"
+    },
+    "triangle": {
+      "codepoint": 57619,
+      "fontFamily": "MdiLight",
+      "identifier": "triangle"
+    },
+    "trophy": {
+      "codepoint": 57620,
+      "fontFamily": "MdiLight",
+      "identifier": "trophy"
+    },
+    "truck": {
+      "codepoint": 57621,
+      "fontFamily": "MdiLight",
+      "identifier": "truck"
+    },
+    "undo-variant": {
+      "codepoint": 57622,
+      "fontFamily": "MdiLight",
+      "identifier": "undoVariant"
+    },
+    "unfold-less-horizontal": {
+      "codepoint": 57623,
+      "fontFamily": "MdiLight",
+      "identifier": "unfoldLessHorizontal"
+    },
+    "unfold-less-vertical": {
+      "codepoint": 57624,
+      "fontFamily": "MdiLight",
+      "identifier": "unfoldLessVertical"
+    },
+    "unfold-more-horizontal": {
+      "codepoint": 57625,
+      "fontFamily": "MdiLight",
+      "identifier": "unfoldMoreHorizontal"
+    },
+    "unfold-more-vertical": {
+      "codepoint": 57626,
+      "fontFamily": "MdiLight",
+      "identifier": "unfoldMoreVertical"
+    },
+    "ungroup": {
+      "codepoint": 57627,
+      "fontFamily": "MdiLight",
+      "identifier": "ungroup"
+    },
+    "upload": {
+      "codepoint": 57628,
+      "fontFamily": "MdiLight",
+      "identifier": "upload"
+    },
+    "vector-arrange-above": {
+      "codepoint": 57629,
+      "fontFamily": "MdiLight",
+      "identifier": "vectorArrangeAbove"
+    },
+    "vector-arrange-below": {
+      "codepoint": 57630,
+      "fontFamily": "MdiLight",
+      "identifier": "vectorArrangeBelow"
+    },
+    "vector-combine": {
+      "codepoint": 57631,
+      "fontFamily": "MdiLight",
+      "identifier": "vectorCombine"
+    },
+    "vector-difference": {
+      "codepoint": 57632,
+      "fontFamily": "MdiLight",
+      "identifier": "vectorDifference"
+    },
+    "vector-difference-ab": {
+      "codepoint": 57633,
+      "fontFamily": "MdiLight",
+      "identifier": "vectorDifferenceAb"
+    },
+    "vector-difference-ba": {
+      "codepoint": 57634,
+      "fontFamily": "MdiLight",
+      "identifier": "vectorDifferenceBa"
+    },
+    "vector-intersection": {
+      "codepoint": 57635,
+      "fontFamily": "MdiLight",
+      "identifier": "vectorIntersection"
+    },
+    "vector-union": {
+      "codepoint": 57636,
+      "fontFamily": "MdiLight",
+      "identifier": "vectorUnion"
+    },
+    "view-dashboard": {
+      "codepoint": 57637,
+      "fontFamily": "MdiLight",
+      "identifier": "viewDashboard"
+    },
+    "view-module": {
+      "codepoint": 57638,
+      "fontFamily": "MdiLight",
+      "identifier": "viewModule"
+    },
+    "volume": {
+      "codepoint": 57639,
+      "fontFamily": "MdiLight",
+      "identifier": "volume"
+    },
+    "volume-high": {
+      "codepoint": 57640,
+      "fontFamily": "MdiLight",
+      "identifier": "volumeHigh"
+    },
+    "volume-minus": {
+      "codepoint": 57641,
+      "fontFamily": "MdiLight",
+      "identifier": "volumeMinus"
+    },
+    "volume-mute": {
+      "codepoint": 57642,
+      "fontFamily": "MdiLight",
+      "identifier": "volumeMute"
+    },
+    "volume-off": {
+      "codepoint": 57643,
+      "fontFamily": "MdiLight",
+      "identifier": "volumeOff"
+    },
+    "volume-plus": {
+      "codepoint": 57644,
+      "fontFamily": "MdiLight",
+      "identifier": "volumePlus"
+    },
+    "wallet": {
+      "codepoint": 57645,
+      "fontFamily": "MdiLight",
+      "identifier": "wallet"
+    },
+    "wifi": {
+      "codepoint": 57646,
+      "fontFamily": "MdiLight",
+      "identifier": "wifi"
+    },
+    "xml": {
+      "codepoint": 57647,
+      "fontFamily": "MdiLight",
+      "identifier": "xml"
+    }
+  }
+}

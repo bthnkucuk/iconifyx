@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "prefix": "geo",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Flags / Maps",
+  "subPackage": "iconifyx_geo",
+  "info": {
+    "name": "GeoGlyphs",
+    "author": {
+      "name": "Sam Matthews",
+      "url": "https://github.com/cugos/geoglyphs"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/cugos/geoglyphs/blob/main/LICENSE.md"
+    },
+    "total": 30
+  },
+  "fonts": [
+    {
+      "family": "Geo",
+      "nextCodepoint": 57374,
+      "iconCount": 30
+    }
+  ],
+  "icons": {
+    "turf-along": {
+      "codepoint": 57344,
+      "fontFamily": "Geo",
+      "identifier": "turfAlong"
+    },
+    "turf-bbox-polygon": {
+      "codepoint": 57345,
+      "fontFamily": "Geo",
+      "identifier": "turfBboxPolygon"
+    },
+    "turf-bezier": {
+      "codepoint": 57346,
+      "fontFamily": "Geo",
+      "identifier": "turfBezier"
+    },
+    "turf-buffer": {
+      "codepoint": 57347,
+      "fontFamily": "Geo",
+      "identifier": "turfBuffer"
+    },
+    "turf-center": {
+      "codepoint": 57348,
+      "fontFamily": "Geo",
+      "identifier": "turfCenter"
+    },
+    "turf-centroid": {
+      "codepoint": 57349,
+      "fontFamily": "Geo",
+      "identifier": "turfCentroid"
+    },
+    "turf-concave": {
+      "codepoint": 57350,
+      "fontFamily": "Geo",
+      "identifier": "turfConcave"
+    },
+    "turf-convex": {
+      "codepoint": 57351,
+      "fontFamily": "Geo",
+      "identifier": "turfConvex"
+    },
+    "turf-destination": {
+      "codepoint": 57352,
+      "fontFamily": "Geo",
+      "identifier": "turfDestination"
+    },
+    "turf-envelope": {
+      "codepoint": 57353,
+      "fontFamily": "Geo",
+      "identifier": "turfEnvelope"
+    },
+    "turf-erased": {
+      "codepoint": 57354,
+      "fontFamily": "Geo",
+      "identifier": "turfErased"
+    },
+    "turf-explode": {
+      "codepoint": 57355,
+      "fontFamily": "Geo",
+      "identifier": "turfExplode"
+    },
+    "turf-extent": {
+      "codepoint": 57356,
+      "fontFamily": "Geo",
+      "identifier": "turfExtent"
+    },
+    "turf-intersect": {
+      "codepoint": 57357,
+      "fontFamily": "Geo",
+      "identifier": "turfIntersect"
+    },
+    "turf-kinks": {
+      "codepoint": 57358,
+      "fontFamily": "Geo",
+      "identifier": "turfKinks"
+    },
+    "turf-line-slice": {
+      "codepoint": 57359,
+      "fontFamily": "Geo",
+      "identifier": "turfLineSlice"
+    },
+    "turf-merge": {
+      "codepoint": 57360,
+      "fontFamily": "Geo",
+      "identifier": "turfMerge"
+    },
+    "turf-midpoint": {
+      "codepoint": 57361,
+      "fontFamily": "Geo",
+      "identifier": "turfMidpoint"
+    },
+    "turf-point-grid": {
+      "codepoint": 57362,
+      "fontFamily": "Geo",
+      "identifier": "turfPointGrid"
+    },
+    "turf-point-on-line": {
+      "codepoint": 57363,
+      "fontFamily": "Geo",
+      "identifier": "turfPointOnLine"
+    },
+    "turf-point-on-surface": {
+      "codepoint": 57364,
+      "fontFamily": "Geo",
+      "identifier": "turfPointOnSurface"
+    },
+    "turf-simplify": {
+      "codepoint": 57365,
+      "fontFamily": "Geo",
+      "identifier": "turfSimplify"
+    },
+    "turf-size": {
+      "codepoint": 57366,
+      "fontFamily": "Geo",
+      "identifier": "turfSize"
+    },
+    "turf-square": {
+      "codepoint": 57367,
+      "fontFamily": "Geo",
+      "identifier": "turfSquare"
+    },
+    "turf-square-grid": {
+      "codepoint": 57368,
+      "fontFamily": "Geo",
+      "identifier": "turfSquareGrid"
+    },
+    "turf-tin": {
+      "codepoint": 57369,
+      "fontFamily": "Geo",
+      "identifier": "turfTin"
+    },
+    "turf-triangle-grid": {
+      "codepoint": 57370,
+      "fontFamily": "Geo",
+      "identifier": "turfTriangleGrid"
+    },
+    "turf-union": {
+      "codepoint": 57371,
+      "fontFamily": "Geo",
+      "identifier": "turfUnion"
+    },
+    "ui-earth-east": {
+      "codepoint": 57372,
+      "fontFamily": "Geo",
+      "identifier": "uiEarthEast"
+    },
+    "ui-earth-west": {
+      "codepoint": 57373,
+      "fontFamily": "Geo",
+      "identifier": "uiEarthWest"
+    }
+  }
+}

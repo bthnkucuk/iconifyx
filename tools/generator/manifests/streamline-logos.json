@@ -1,0 +1,6840 @@
+{
+  "schemaVersion": 1,
+  "prefix": "streamline-logos",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Logos",
+  "subPackage": "iconifyx_streamline_logos",
+  "info": {
+    "name": "Logos free icons",
+    "author": {
+      "name": "Streamline",
+      "url": "https://github.com/webalys-hq/streamline-vectors"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 1362
+  },
+  "fonts": [
+    {
+      "family": "StreamlineLogos",
+      "nextCodepoint": 58706,
+      "iconCount": 1362
+    }
+  ],
+  "icons": {
+    "3ds-max-logo": {
+      "codepoint": 57344,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "n3dsMaxLogo"
+    },
+    "3ds-max-logo-block": {
+      "codepoint": 57345,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "n3dsMaxLogoBlock"
+    },
+    "3ds-max-logo-solid": {
+      "codepoint": 57346,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "n3dsMaxLogoSolid"
+    },
+    "500px-logo-1": {
+      "codepoint": 57347,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "n500pxLogo1"
+    },
+    "500px-logo-1-block": {
+      "codepoint": 57348,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "n500pxLogo1Block"
+    },
+    "500px-logo-1-solid": {
+      "codepoint": 57349,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "n500pxLogo1Solid"
+    },
+    "500px-logo-2": {
+      "codepoint": 57350,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "n500pxLogo2"
+    },
+    "500px-logo-2-block": {
+      "codepoint": 57351,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "n500pxLogo2Block"
+    },
+    "500px-logo-2-solid": {
+      "codepoint": 57352,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "n500pxLogo2Solid"
+    },
+    "about-me-logo": {
+      "codepoint": 57353,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "aboutMeLogo"
+    },
+    "about-me-logo-block": {
+      "codepoint": 57354,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "aboutMeLogoBlock"
+    },
+    "about-me-logo-solid": {
+      "codepoint": 57355,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "aboutMeLogoSolid"
+    },
+    "adobe-after-effects-logo": {
+      "codepoint": 57356,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeAfterEffectsLogo"
+    },
+    "adobe-after-effects-logo-block": {
+      "codepoint": 57357,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeAfterEffectsLogoBlock"
+    },
+    "adobe-after-effects-logo-solid": {
+      "codepoint": 57358,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeAfterEffectsLogoSolid"
+    },
+    "adobe-animate-logo": {
+      "codepoint": 57359,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeAnimateLogo"
+    },
+    "adobe-animate-logo-block": {
+      "codepoint": 57360,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeAnimateLogoBlock"
+    },
+    "adobe-animate-logo-solid": {
+      "codepoint": 57361,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeAnimateLogoSolid"
+    },
+    "adobe-audio-logo": {
+      "codepoint": 57362,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeAudioLogo"
+    },
+    "adobe-audio-logo-block": {
+      "codepoint": 57363,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeAudioLogoBlock"
+    },
+    "adobe-audio-logo-solid": {
+      "codepoint": 57364,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeAudioLogoSolid"
+    },
+    "adobe-bridge-logo": {
+      "codepoint": 57365,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeBridgeLogo"
+    },
+    "adobe-bridge-logo-block": {
+      "codepoint": 57366,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeBridgeLogoBlock"
+    },
+    "adobe-bridge-logo-solid": {
+      "codepoint": 57367,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeBridgeLogoSolid"
+    },
+    "adobe-cloud-logo": {
+      "codepoint": 57368,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeCloudLogo"
+    },
+    "adobe-cloud-logo-block": {
+      "codepoint": 57369,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeCloudLogoBlock"
+    },
+    "adobe-cloud-logo-solid": {
+      "codepoint": 57370,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeCloudLogoSolid"
+    },
+    "adobe-illustrator-logo": {
+      "codepoint": 57371,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeIllustratorLogo"
+    },
+    "adobe-illustrator-logo-block": {
+      "codepoint": 57372,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeIllustratorLogoBlock"
+    },
+    "adobe-illustrator-logo-solid": {
+      "codepoint": 57373,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeIllustratorLogoSolid"
+    },
+    "adobe-indesign-logo": {
+      "codepoint": 57374,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeIndesignLogo"
+    },
+    "adobe-indesign-logo-block": {
+      "codepoint": 57375,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeIndesignLogoBlock"
+    },
+    "adobe-indesign-logo-solid": {
+      "codepoint": 57376,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeIndesignLogoSolid"
+    },
+    "adobe-lightroom-logo": {
+      "codepoint": 57377,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeLightroomLogo"
+    },
+    "adobe-lightroom-logo-block": {
+      "codepoint": 57378,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeLightroomLogoBlock"
+    },
+    "adobe-lightroom-logo-solid": {
+      "codepoint": 57379,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeLightroomLogoSolid"
+    },
+    "adobe-logo": {
+      "codepoint": 57380,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeLogo"
+    },
+    "adobe-logo-block": {
+      "codepoint": 57381,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeLogoBlock"
+    },
+    "adobe-logo-solid": {
+      "codepoint": 57382,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeLogoSolid"
+    },
+    "adobe-photoshop-logo": {
+      "codepoint": 57383,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobePhotoshopLogo"
+    },
+    "adobe-photoshop-logo-block": {
+      "codepoint": 57384,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobePhotoshopLogoBlock"
+    },
+    "adobe-photoshop-logo-solid": {
+      "codepoint": 57385,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobePhotoshopLogoSolid"
+    },
+    "adobe-premiere-pro-logo": {
+      "codepoint": 57386,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobePremiereProLogo"
+    },
+    "adobe-premiere-pro-logo-block": {
+      "codepoint": 57387,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobePremiereProLogoBlock"
+    },
+    "adobe-premiere-pro-logo-solid": {
+      "codepoint": 57388,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobePremiereProLogoSolid"
+    },
+    "adobe-xd-logo": {
+      "codepoint": 57389,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeXdLogo"
+    },
+    "adobe-xd-logo-block": {
+      "codepoint": 57390,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeXdLogoBlock"
+    },
+    "adobe-xd-logo-solid": {
+      "codepoint": 57391,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "adobeXdLogoSolid"
+    },
+    "affinity-designer-logo": {
+      "codepoint": 57392,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "affinityDesignerLogo"
+    },
+    "affinity-designer-logo-block": {
+      "codepoint": 57393,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "affinityDesignerLogoBlock"
+    },
+    "affinity-designer-logo-solid": {
+      "codepoint": 57394,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "affinityDesignerLogoSolid"
+    },
+    "affinity-logo": {
+      "codepoint": 57395,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "affinityLogo"
+    },
+    "affinity-logo-block": {
+      "codepoint": 57396,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "affinityLogoBlock"
+    },
+    "affinity-logo-solid": {
+      "codepoint": 57397,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "affinityLogoSolid"
+    },
+    "affinity-photo-logo": {
+      "codepoint": 57398,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "affinityPhotoLogo"
+    },
+    "affinity-photo-logo-block": {
+      "codepoint": 57399,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "affinityPhotoLogoBlock"
+    },
+    "affinity-photo-logo-solid": {
+      "codepoint": 57400,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "affinityPhotoLogoSolid"
+    },
+    "affinity-publiser-logo": {
+      "codepoint": 57401,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "affinityPubliserLogo"
+    },
+    "affinity-publiser-logo-block": {
+      "codepoint": 57402,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "affinityPubliserLogoBlock"
+    },
+    "affinity-publiser-logo-solid": {
+      "codepoint": 57403,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "affinityPubliserLogoSolid"
+    },
+    "aim-logo": {
+      "codepoint": 57404,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "aimLogo"
+    },
+    "aim-logo-block": {
+      "codepoint": 57405,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "aimLogoBlock"
+    },
+    "aim-logo-solid": {
+      "codepoint": 57406,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "aimLogoSolid"
+    },
+    "alipay-logo": {
+      "codepoint": 57407,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "alipayLogo"
+    },
+    "alipay-logo-block": {
+      "codepoint": 57408,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "alipayLogoBlock"
+    },
+    "alipay-logo-solid": {
+      "codepoint": 57409,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "alipayLogoSolid"
+    },
+    "alpine-linux-logo": {
+      "codepoint": 57410,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "alpineLinuxLogo"
+    },
+    "alpine-linux-logo-block": {
+      "codepoint": 57411,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "alpineLinuxLogoBlock"
+    },
+    "alpine-linux-logo-solid": {
+      "codepoint": 57412,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "alpineLinuxLogoSolid"
+    },
+    "amazon-logo": {
+      "codepoint": 57413,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonLogo"
+    },
+    "amazon-logo-block": {
+      "codepoint": 57414,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonLogoBlock"
+    },
+    "amazon-logo-solid": {
+      "codepoint": 57415,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonLogoSolid"
+    },
+    "amazon-luna-logo": {
+      "codepoint": 57416,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonLunaLogo"
+    },
+    "amazon-luna-logo-block": {
+      "codepoint": 57417,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonLunaLogoBlock"
+    },
+    "amazon-luna-logo-solid": {
+      "codepoint": 57418,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonLunaLogoSolid"
+    },
+    "amazon-prime-video-logo-1": {
+      "codepoint": 57419,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonPrimeVideoLogo1"
+    },
+    "amazon-prime-video-logo-1-block": {
+      "codepoint": 57420,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonPrimeVideoLogo1Block"
+    },
+    "amazon-prime-video-logo-1-solid": {
+      "codepoint": 57421,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonPrimeVideoLogo1Solid"
+    },
+    "amazon-prime-video-logo-2": {
+      "codepoint": 57422,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonPrimeVideoLogo2"
+    },
+    "amazon-prime-video-logo-2-block": {
+      "codepoint": 57423,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonPrimeVideoLogo2Block"
+    },
+    "amazon-prime-video-logo-2-solid": {
+      "codepoint": 57424,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonPrimeVideoLogo2Solid"
+    },
+    "amazon-web-service-logo": {
+      "codepoint": 57425,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonWebServiceLogo"
+    },
+    "amazon-web-service-logo-block": {
+      "codepoint": 57426,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonWebServiceLogoBlock"
+    },
+    "amazon-web-service-logo-solid": {
+      "codepoint": 57427,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amazonWebServiceLogoSolid"
+    },
+    "amd-logo": {
+      "codepoint": 57428,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amdLogo"
+    },
+    "amd-logo-block": {
+      "codepoint": 57429,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amdLogoBlock"
+    },
+    "amd-logo-solid": {
+      "codepoint": 57430,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "amdLogoSolid"
+    },
+    "american-express-logo": {
+      "codepoint": 57431,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "americanExpressLogo"
+    },
+    "american-express-logo-block": {
+      "codepoint": 57432,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "americanExpressLogoBlock"
+    },
+    "american-express-logo-solid": {
+      "codepoint": 57433,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "americanExpressLogoSolid"
+    },
+    "analogue-logo": {
+      "codepoint": 57434,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "analogueLogo"
+    },
+    "analogue-logo-block": {
+      "codepoint": 57435,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "analogueLogoBlock"
+    },
+    "analogue-logo-solid": {
+      "codepoint": 57436,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "analogueLogoSolid"
+    },
+    "anchor-logo": {
+      "codepoint": 57437,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "anchorLogo"
+    },
+    "anchor-logo-block": {
+      "codepoint": 57438,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "anchorLogoBlock"
+    },
+    "anchor-logo-solid": {
+      "codepoint": 57439,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "anchorLogoSolid"
+    },
+    "android-logo": {
+      "codepoint": 57440,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "androidLogo"
+    },
+    "android-logo-block": {
+      "codepoint": 57441,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "androidLogoBlock"
+    },
+    "android-logo-solid": {
+      "codepoint": 57442,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "androidLogoSolid"
+    },
+    "androidauto-logo": {
+      "codepoint": 57443,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "androidautoLogo"
+    },
+    "androidauto-logo-block": {
+      "codepoint": 57444,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "androidautoLogoBlock"
+    },
+    "androidauto-logo-solid": {
+      "codepoint": 57445,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "androidautoLogoSolid"
+    },
+    "angular-logo": {
+      "codepoint": 57446,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "angularLogo"
+    },
+    "angular-logo-block": {
+      "codepoint": 57447,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "angularLogoBlock"
+    },
+    "angular-logo-solid": {
+      "codepoint": 57448,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "angularLogoSolid"
+    },
+    "apache-netbeans-logo": {
+      "codepoint": 57449,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "apacheNetbeansLogo"
+    },
+    "apache-netbeans-logo-block": {
+      "codepoint": 57450,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "apacheNetbeansLogoBlock"
+    },
+    "apache-netbeans-logo-solid": {
+      "codepoint": 57451,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "apacheNetbeansLogoSolid"
+    },
+    "app-store-logo": {
+      "codepoint": 57452,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appStoreLogo"
+    },
+    "app-store-logo-block": {
+      "codepoint": 57453,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appStoreLogoBlock"
+    },
+    "app-store-logo-solid": {
+      "codepoint": 57454,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appStoreLogoSolid"
+    },
+    "apple-ios-logo-1": {
+      "codepoint": 57455,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appleIosLogo1"
+    },
+    "apple-ios-logo-1-block": {
+      "codepoint": 57456,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appleIosLogo1Block"
+    },
+    "apple-ios-logo-1-solid": {
+      "codepoint": 57457,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appleIosLogo1Solid"
+    },
+    "apple-ios-logo-2": {
+      "codepoint": 57458,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appleIosLogo2"
+    },
+    "apple-ios-logo-2-block": {
+      "codepoint": 57459,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appleIosLogo2Block"
+    },
+    "apple-ios-logo-2-solid": {
+      "codepoint": 57460,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appleIosLogo2Solid"
+    },
+    "apple-ios-logo-3": {
+      "codepoint": 57461,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appleIosLogo3"
+    },
+    "apple-ios-logo-3-block": {
+      "codepoint": 57462,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appleIosLogo3Block"
+    },
+    "apple-ios-logo-3-solid": {
+      "codepoint": 57463,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appleIosLogo3Solid"
+    },
+    "apple-logo": {
+      "codepoint": 57464,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appleLogo"
+    },
+    "apple-logo-block": {
+      "codepoint": 57465,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appleLogoBlock"
+    },
+    "apple-logo-solid": {
+      "codepoint": 57466,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "appleLogoSolid"
+    },
+    "apple-podcast-logo": {
+      "codepoint": 57467,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "applePodcastLogo"
+    },
+    "apple-podcast-logo-block": {
+      "codepoint": 57468,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "applePodcastLogoBlock"
+    },
+    "apple-podcast-logo-solid": {
+      "codepoint": 57469,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "applePodcastLogoSolid"
+    },
+    "arch-linux-logo": {
+      "codepoint": 57470,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "archLinuxLogo"
+    },
+    "arch-linux-logo-block": {
+      "codepoint": 57471,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "archLinuxLogoBlock"
+    },
+    "arch-linux-logo-solid": {
+      "codepoint": 57472,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "archLinuxLogoSolid"
+    },
+    "askfm-logo": {
+      "codepoint": 57473,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "askfmLogo"
+    },
+    "askfm-logo-block": {
+      "codepoint": 57474,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "askfmLogoBlock"
+    },
+    "askfm-logo-solid": {
+      "codepoint": 57475,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "askfmLogoSolid"
+    },
+    "ati-logo": {
+      "codepoint": 57476,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "atiLogo"
+    },
+    "ati-logo-block": {
+      "codepoint": 57477,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "atiLogoBlock"
+    },
+    "ati-logo-solid": {
+      "codepoint": 57478,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "atiLogoSolid"
+    },
+    "atlassian-logo": {
+      "codepoint": 57479,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "atlassianLogo"
+    },
+    "atlassian-logo-block": {
+      "codepoint": 57480,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "atlassianLogoBlock"
+    },
+    "atlassian-logo-solid": {
+      "codepoint": 57481,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "atlassianLogoSolid"
+    },
+    "audacity-logo": {
+      "codepoint": 57482,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "audacityLogo"
+    },
+    "audacity-logo-block": {
+      "codepoint": 57483,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "audacityLogoBlock"
+    },
+    "audacity-logo-solid": {
+      "codepoint": 57484,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "audacityLogoSolid"
+    },
+    "authy-logo": {
+      "codepoint": 57485,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "authyLogo"
+    },
+    "authy-logo-block": {
+      "codepoint": 57486,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "authyLogoBlock"
+    },
+    "authy-logo-solid": {
+      "codepoint": 57487,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "authyLogoSolid"
+    },
+    "autodesk-logo-1": {
+      "codepoint": 57488,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "autodeskLogo1"
+    },
+    "autodesk-logo-1-block": {
+      "codepoint": 57489,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "autodeskLogo1Block"
+    },
+    "autodesk-logo-1-solid": {
+      "codepoint": 57490,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "autodeskLogo1Solid"
+    },
+    "autodesk-logo-2": {
+      "codepoint": 57491,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "autodeskLogo2"
+    },
+    "autodesk-logo-2-block": {
+      "codepoint": 57492,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "autodeskLogo2Block"
+    },
+    "autodesk-logo-2-solid": {
+      "codepoint": 57493,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "autodeskLogo2Solid"
+    },
+    "backbonejs-logo": {
+      "codepoint": 57494,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "backbonejsLogo"
+    },
+    "backbonejs-logo-block": {
+      "codepoint": 57495,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "backbonejsLogoBlock"
+    },
+    "backbonejs-logo-solid": {
+      "codepoint": 57496,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "backbonejsLogoSolid"
+    },
+    "badoo-logo": {
+      "codepoint": 57497,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "badooLogo"
+    },
+    "badoo-logo-block": {
+      "codepoint": 57498,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "badooLogoBlock"
+    },
+    "badoo-logo-solid": {
+      "codepoint": 57499,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "badooLogoSolid"
+    },
+    "bandcamp-logo-1": {
+      "codepoint": 57500,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bandcampLogo1"
+    },
+    "bandcamp-logo-1-block": {
+      "codepoint": 57501,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bandcampLogo1Block"
+    },
+    "bandcamp-logo-1-solid": {
+      "codepoint": 57502,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bandcampLogo1Solid"
+    },
+    "bandcamp-logo-2": {
+      "codepoint": 57503,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bandcampLogo2"
+    },
+    "bandcamp-logo-2-block": {
+      "codepoint": 57504,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bandcampLogo2Block"
+    },
+    "bandcamp-logo-2-solid": {
+      "codepoint": 57505,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bandcampLogo2Solid"
+    },
+    "basecamp-logo-1": {
+      "codepoint": 57506,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "basecampLogo1"
+    },
+    "basecamp-logo-1-block": {
+      "codepoint": 57507,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "basecampLogo1Block"
+    },
+    "basecamp-logo-1-solid": {
+      "codepoint": 57508,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "basecampLogo1Solid"
+    },
+    "basecamp-logo-2": {
+      "codepoint": 57509,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "basecampLogo2"
+    },
+    "basecamp-logo-2-block": {
+      "codepoint": 57510,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "basecampLogo2Block"
+    },
+    "basecamp-logo-2-solid": {
+      "codepoint": 57511,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "basecampLogo2Solid"
+    },
+    "bbc-iplayer-logo-1": {
+      "codepoint": 57512,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bbcIplayerLogo1"
+    },
+    "bbc-iplayer-logo-1-block": {
+      "codepoint": 57513,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bbcIplayerLogo1Block"
+    },
+    "bbc-iplayer-logo-1-solid": {
+      "codepoint": 57514,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bbcIplayerLogo1Solid"
+    },
+    "bbc-iplayer-logo-2": {
+      "codepoint": 57515,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bbcIplayerLogo2"
+    },
+    "bbc-iplayer-logo-2-block": {
+      "codepoint": 57516,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bbcIplayerLogo2Block"
+    },
+    "bbc-iplayer-logo-2-solid": {
+      "codepoint": 57517,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bbcIplayerLogo2Solid"
+    },
+    "beats-studio-logo": {
+      "codepoint": 57518,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "beatsStudioLogo"
+    },
+    "beats-studio-logo-block": {
+      "codepoint": 57519,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "beatsStudioLogoBlock"
+    },
+    "beats-studio-logo-solid": {
+      "codepoint": 57520,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "beatsStudioLogoSolid"
+    },
+    "bebo-logo": {
+      "codepoint": 57521,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "beboLogo"
+    },
+    "bebo-logo-block": {
+      "codepoint": 57522,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "beboLogoBlock"
+    },
+    "bebo-logo-solid": {
+      "codepoint": 57523,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "beboLogoSolid"
+    },
+    "behance-logo": {
+      "codepoint": 57524,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "behanceLogo"
+    },
+    "behance-logo-block": {
+      "codepoint": 57525,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "behanceLogoBlock"
+    },
+    "behance-logo-solid": {
+      "codepoint": 57526,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "behanceLogoSolid"
+    },
+    "betalist-logo": {
+      "codepoint": 57527,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "betalistLogo"
+    },
+    "betalist-logo-block": {
+      "codepoint": 57528,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "betalistLogoBlock"
+    },
+    "betalist-logo-solid": {
+      "codepoint": 57529,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "betalistLogoSolid"
+    },
+    "beyondcorp-enterprise-logo": {
+      "codepoint": 57530,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "beyondcorpEnterpriseLogo"
+    },
+    "beyondcorp-enterprise-logo-block": {
+      "codepoint": 57531,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "beyondcorpEnterpriseLogoBlock"
+    },
+    "beyondcorp-enterprise-logo-solid": {
+      "codepoint": 57532,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "beyondcorpEnterpriseLogoSolid"
+    },
+    "bilibili-logo": {
+      "codepoint": 57533,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bilibiliLogo"
+    },
+    "bilibili-logo-block": {
+      "codepoint": 57534,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bilibiliLogoBlock"
+    },
+    "bilibili-logo-solid": {
+      "codepoint": 57535,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bilibiliLogoSolid"
+    },
+    "bing-logo-1": {
+      "codepoint": 57536,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bingLogo1"
+    },
+    "bing-logo-1-block": {
+      "codepoint": 57537,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bingLogo1Block"
+    },
+    "bing-logo-1-solid": {
+      "codepoint": 57538,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bingLogo1Solid"
+    },
+    "bing-logo-2": {
+      "codepoint": 57539,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bingLogo2"
+    },
+    "bing-logo-2-block": {
+      "codepoint": 57540,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bingLogo2Block"
+    },
+    "bing-logo-2-solid": {
+      "codepoint": 57541,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bingLogo2Solid"
+    },
+    "bitbucket-logo": {
+      "codepoint": 57542,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bitbucketLogo"
+    },
+    "bitbucket-logo-block": {
+      "codepoint": 57543,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bitbucketLogoBlock"
+    },
+    "bitbucket-logo-solid": {
+      "codepoint": 57544,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bitbucketLogoSolid"
+    },
+    "blackberry-logo": {
+      "codepoint": 57545,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "blackberryLogo"
+    },
+    "blackberry-logo-block": {
+      "codepoint": 57546,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "blackberryLogoBlock"
+    },
+    "blackberry-logo-solid": {
+      "codepoint": 57547,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "blackberryLogoSolid"
+    },
+    "blogger-logo": {
+      "codepoint": 57548,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bloggerLogo"
+    },
+    "blogger-logo-block": {
+      "codepoint": 57549,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bloggerLogoBlock"
+    },
+    "blogger-logo-solid": {
+      "codepoint": 57550,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bloggerLogoSolid"
+    },
+    "bloglovin-logo": {
+      "codepoint": 57551,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bloglovinLogo"
+    },
+    "bloglovin-logo-block": {
+      "codepoint": 57552,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bloglovinLogoBlock"
+    },
+    "bloglovin-logo-solid": {
+      "codepoint": 57553,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bloglovinLogoSolid"
+    },
+    "bnter-logo": {
+      "codepoint": 57554,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bnterLogo"
+    },
+    "bnter-logo-block": {
+      "codepoint": 57555,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bnterLogoBlock"
+    },
+    "bnter-logo-solid": {
+      "codepoint": 57556,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bnterLogoSolid"
+    },
+    "bootstrap-logo": {
+      "codepoint": 57557,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bootstrapLogo"
+    },
+    "bootstrap-logo-block": {
+      "codepoint": 57558,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bootstrapLogoBlock"
+    },
+    "bootstrap-logo-solid": {
+      "codepoint": 57559,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bootstrapLogoSolid"
+    },
+    "bower-logo": {
+      "codepoint": 57560,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bowerLogo"
+    },
+    "bower-logo-block": {
+      "codepoint": 57561,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bowerLogoBlock"
+    },
+    "bower-logo-solid": {
+      "codepoint": 57562,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bowerLogoSolid"
+    },
+    "box-logo": {
+      "codepoint": 57563,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "boxLogo"
+    },
+    "box-logo-block": {
+      "codepoint": 57564,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "boxLogoBlock"
+    },
+    "box-logo-solid": {
+      "codepoint": 57565,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "boxLogoSolid"
+    },
+    "brightkite-logo": {
+      "codepoint": 57566,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "brightkiteLogo"
+    },
+    "brightkite-logo-block": {
+      "codepoint": 57567,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "brightkiteLogoBlock"
+    },
+    "brightkite-logo-solid": {
+      "codepoint": 57568,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "brightkiteLogoSolid"
+    },
+    "broadcom-logo": {
+      "codepoint": 57569,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "broadcomLogo"
+    },
+    "broadcom-logo-block": {
+      "codepoint": 57570,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "broadcomLogoBlock"
+    },
+    "broadcom-logo-solid": {
+      "codepoint": 57571,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "broadcomLogoSolid"
+    },
+    "bugsnag-logo": {
+      "codepoint": 57572,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bugsnagLogo"
+    },
+    "bugsnag-logo-block": {
+      "codepoint": 57573,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bugsnagLogoBlock"
+    },
+    "bugsnag-logo-solid": {
+      "codepoint": 57574,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "bugsnagLogoSolid"
+    },
+    "byte-logo": {
+      "codepoint": 57575,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "byteLogo"
+    },
+    "byte-logo-block": {
+      "codepoint": 57576,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "byteLogoBlock"
+    },
+    "byte-logo-solid": {
+      "codepoint": 57577,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "byteLogoSolid"
+    },
+    "c-language-logo": {
+      "codepoint": 57578,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cLanguageLogo"
+    },
+    "c-language-logo-block": {
+      "codepoint": 57579,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cLanguageLogoBlock"
+    },
+    "c-language-logo-solid": {
+      "codepoint": 57580,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cLanguageLogoSolid"
+    },
+    "c-plus-language-logo": {
+      "codepoint": 57581,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cPlusLanguageLogo"
+    },
+    "c-plus-language-logo-block": {
+      "codepoint": 57582,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cPlusLanguageLogoBlock"
+    },
+    "c-plus-language-logo-solid": {
+      "codepoint": 57583,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cPlusLanguageLogoSolid"
+    },
+    "campaign-monitor-logo": {
+      "codepoint": 57584,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "campaignMonitorLogo"
+    },
+    "campaign-monitor-logo-block": {
+      "codepoint": 57585,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "campaignMonitorLogoBlock"
+    },
+    "campaign-monitor-logo-solid": {
+      "codepoint": 57586,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "campaignMonitorLogoSolid"
+    },
+    "canonical-logo": {
+      "codepoint": 57587,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "canonicalLogo"
+    },
+    "canonical-logo-block": {
+      "codepoint": 57588,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "canonicalLogoBlock"
+    },
+    "canonical-logo-solid": {
+      "codepoint": 57589,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "canonicalLogoSolid"
+    },
+    "centos-logo": {
+      "codepoint": 57590,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "centosLogo"
+    },
+    "centos-logo-block": {
+      "codepoint": 57591,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "centosLogoBlock"
+    },
+    "centos-logo-solid": {
+      "codepoint": 57592,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "centosLogoSolid"
+    },
+    "cinema-4d-logo": {
+      "codepoint": 57593,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cinema4dLogo"
+    },
+    "cinema-4d-logo-block": {
+      "codepoint": 57594,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cinema4dLogoBlock"
+    },
+    "cinema-4d-logo-solid": {
+      "codepoint": 57595,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cinema4dLogoSolid"
+    },
+    "claris-logo": {
+      "codepoint": 57596,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "clarisLogo"
+    },
+    "claris-logo-block": {
+      "codepoint": 57597,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "clarisLogoBlock"
+    },
+    "claris-logo-solid": {
+      "codepoint": 57598,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "clarisLogoSolid"
+    },
+    "cloudsmith-logo": {
+      "codepoint": 57599,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cloudsmithLogo"
+    },
+    "cloudsmith-logo-block": {
+      "codepoint": 57600,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cloudsmithLogoBlock"
+    },
+    "cloudsmith-logo-solid": {
+      "codepoint": 57601,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cloudsmithLogoSolid"
+    },
+    "cnn-logo": {
+      "codepoint": 57602,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cnnLogo"
+    },
+    "cnn-logo-block": {
+      "codepoint": 57603,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cnnLogoBlock"
+    },
+    "cnn-logo-solid": {
+      "codepoint": 57604,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cnnLogoSolid"
+    },
+    "code-climate-logo": {
+      "codepoint": 57605,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codeClimateLogo"
+    },
+    "code-climate-logo-block": {
+      "codepoint": 57606,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codeClimateLogoBlock"
+    },
+    "code-climate-logo-solid": {
+      "codepoint": 57607,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codeClimateLogoSolid"
+    },
+    "code-sandbox-logo": {
+      "codepoint": 57608,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codeSandboxLogo"
+    },
+    "code-sandbox-logo-block": {
+      "codepoint": 57609,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codeSandboxLogoBlock"
+    },
+    "code-sandbox-logo-solid": {
+      "codepoint": 57610,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codeSandboxLogoSolid"
+    },
+    "codecov-logo": {
+      "codepoint": 57611,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codecovLogo"
+    },
+    "codecov-logo-block": {
+      "codepoint": 57612,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codecovLogoBlock"
+    },
+    "codecov-logo-solid": {
+      "codepoint": 57613,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codecovLogoSolid"
+    },
+    "codefactor-logo": {
+      "codepoint": 57614,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codefactorLogo"
+    },
+    "codefactor-logo-block": {
+      "codepoint": 57615,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codefactorLogoBlock"
+    },
+    "codefactor-logo-solid": {
+      "codepoint": 57616,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codefactorLogoSolid"
+    },
+    "codeigniter-logo": {
+      "codepoint": 57617,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codeigniterLogo"
+    },
+    "codeigniter-logo-block": {
+      "codepoint": 57618,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codeigniterLogoBlock"
+    },
+    "codeigniter-logo-solid": {
+      "codepoint": 57619,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codeigniterLogoSolid"
+    },
+    "codepen-logo": {
+      "codepoint": 57620,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codepenLogo"
+    },
+    "codepen-logo-block": {
+      "codepoint": 57621,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codepenLogoBlock"
+    },
+    "codepen-logo-solid": {
+      "codepoint": 57622,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "codepenLogoSolid"
+    },
+    "consul-logo": {
+      "codepoint": 57623,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "consulLogo"
+    },
+    "consul-logo-block": {
+      "codepoint": 57624,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "consulLogoBlock"
+    },
+    "consul-logo-solid": {
+      "codepoint": 57625,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "consulLogoSolid"
+    },
+    "coroflot-logo": {
+      "codepoint": 57626,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "coroflotLogo"
+    },
+    "coroflot-logo-block": {
+      "codepoint": 57627,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "coroflotLogoBlock"
+    },
+    "coroflot-logo-solid": {
+      "codepoint": 57628,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "coroflotLogoSolid"
+    },
+    "creative-commons-logo": {
+      "codepoint": 57629,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "creativeCommonsLogo"
+    },
+    "creative-commons-logo-block": {
+      "codepoint": 57630,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "creativeCommonsLogoBlock"
+    },
+    "creative-commons-logo-solid": {
+      "codepoint": 57631,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "creativeCommonsLogoSolid"
+    },
+    "crowdin-logo": {
+      "codepoint": 57632,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "crowdinLogo"
+    },
+    "crowdin-logo-block": {
+      "codepoint": 57633,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "crowdinLogoBlock"
+    },
+    "crowdin-logo-solid": {
+      "codepoint": 57634,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "crowdinLogoSolid"
+    },
+    "crunchyroll-logo": {
+      "codepoint": 57635,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "crunchyrollLogo"
+    },
+    "crunchyroll-logo-block": {
+      "codepoint": 57636,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "crunchyrollLogoBlock"
+    },
+    "crunchyroll-logo-solid": {
+      "codepoint": 57637,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "crunchyrollLogoSolid"
+    },
+    "cryengine-logo": {
+      "codepoint": 57638,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cryengineLogo"
+    },
+    "cryengine-logo-block": {
+      "codepoint": 57639,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cryengineLogoBlock"
+    },
+    "cryengine-logo-solid": {
+      "codepoint": 57640,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cryengineLogoSolid"
+    },
+    "cucumber-io-logo": {
+      "codepoint": 57641,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cucumberIoLogo"
+    },
+    "cucumber-io-logo-block": {
+      "codepoint": 57642,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cucumberIoLogoBlock"
+    },
+    "cucumber-io-logo-solid": {
+      "codepoint": 57643,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "cucumberIoLogoSolid"
+    },
+    "d3js-logo": {
+      "codepoint": 57644,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "d3jsLogo"
+    },
+    "d3js-logo-block": {
+      "codepoint": 57645,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "d3jsLogoBlock"
+    },
+    "d3js-logo-solid": {
+      "codepoint": 57646,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "d3jsLogoSolid"
+    },
+    "dailybooth-logo": {
+      "codepoint": 57647,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dailyboothLogo"
+    },
+    "dailybooth-logo-block": {
+      "codepoint": 57648,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dailyboothLogoBlock"
+    },
+    "dailybooth-logo-solid": {
+      "codepoint": 57649,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dailyboothLogoSolid"
+    },
+    "dailymotion-logo": {
+      "codepoint": 57650,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dailymotionLogo"
+    },
+    "dailymotion-logo-block": {
+      "codepoint": 57651,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dailymotionLogoBlock"
+    },
+    "dailymotion-logo-solid": {
+      "codepoint": 57652,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dailymotionLogoSolid"
+    },
+    "dart-logo": {
+      "codepoint": 57653,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dartLogo"
+    },
+    "dart-logo-block": {
+      "codepoint": 57654,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dartLogoBlock"
+    },
+    "dart-logo-solid": {
+      "codepoint": 57655,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dartLogoSolid"
+    },
+    "daytum-logo": {
+      "codepoint": 57656,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "daytumLogo"
+    },
+    "daytum-logo-block": {
+      "codepoint": 57657,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "daytumLogoBlock"
+    },
+    "daytum-logo-solid": {
+      "codepoint": 57658,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "daytumLogoSolid"
+    },
+    "deezer-logo": {
+      "codepoint": 57659,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deezerLogo"
+    },
+    "deezer-logo-block": {
+      "codepoint": 57660,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deezerLogoBlock"
+    },
+    "deezer-logo-solid": {
+      "codepoint": 57661,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deezerLogoSolid"
+    },
+    "deliciousing-logo": {
+      "codepoint": 57662,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deliciousingLogo"
+    },
+    "deliciousing-logo-block": {
+      "codepoint": 57663,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deliciousingLogoBlock"
+    },
+    "deliciousing-logo-solid": {
+      "codepoint": 57664,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deliciousingLogoSolid"
+    },
+    "design-bump-logo": {
+      "codepoint": 57665,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "designBumpLogo"
+    },
+    "design-bump-logo-block": {
+      "codepoint": 57666,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "designBumpLogoBlock"
+    },
+    "design-bump-logo-solid": {
+      "codepoint": 57667,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "designBumpLogoSolid"
+    },
+    "design-float-logo": {
+      "codepoint": 57668,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "designFloatLogo"
+    },
+    "design-float-logo-block": {
+      "codepoint": 57669,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "designFloatLogoBlock"
+    },
+    "design-float-logo-solid": {
+      "codepoint": 57670,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "designFloatLogoSolid"
+    },
+    "designmoo-logo": {
+      "codepoint": 57671,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "designmooLogo"
+    },
+    "designmoo-logo-block": {
+      "codepoint": 57672,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "designmooLogoBlock"
+    },
+    "designmoo-logo-solid": {
+      "codepoint": 57673,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "designmooLogoSolid"
+    },
+    "deviant-art-logo-1": {
+      "codepoint": 57674,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deviantArtLogo1"
+    },
+    "deviant-art-logo-1-block": {
+      "codepoint": 57675,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deviantArtLogo1Block"
+    },
+    "deviant-art-logo-1-solid": {
+      "codepoint": 57676,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deviantArtLogo1Solid"
+    },
+    "deviant-art-logo-2": {
+      "codepoint": 57677,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deviantArtLogo2"
+    },
+    "deviant-art-logo-2-block": {
+      "codepoint": 57678,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deviantArtLogo2Block"
+    },
+    "deviant-art-logo-2-solid": {
+      "codepoint": 57679,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deviantArtLogo2Solid"
+    },
+    "devicon-logo": {
+      "codepoint": 57680,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deviconLogo"
+    },
+    "devicon-logo-block": {
+      "codepoint": 57681,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deviconLogoBlock"
+    },
+    "devicon-logo-solid": {
+      "codepoint": 57682,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "deviconLogoSolid"
+    },
+    "digg-logo": {
+      "codepoint": 57683,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "diggLogo"
+    },
+    "digg-logo-block": {
+      "codepoint": 57684,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "diggLogoBlock"
+    },
+    "digg-logo-solid": {
+      "codepoint": 57685,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "diggLogoSolid"
+    },
+    "digital-ocean-logo": {
+      "codepoint": 57686,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "digitalOceanLogo"
+    },
+    "digital-ocean-logo-block": {
+      "codepoint": 57687,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "digitalOceanLogoBlock"
+    },
+    "digital-ocean-logo-solid": {
+      "codepoint": 57688,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "digitalOceanLogoSolid"
+    },
+    "diigo-logo-1": {
+      "codepoint": 57689,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "diigoLogo1"
+    },
+    "diigo-logo-1-block": {
+      "codepoint": 57690,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "diigoLogo1Block"
+    },
+    "diigo-logo-1-solid": {
+      "codepoint": 57691,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "diigoLogo1Solid"
+    },
+    "diigo-logo-2": {
+      "codepoint": 57692,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "diigoLogo2"
+    },
+    "diigo-logo-2-block": {
+      "codepoint": 57693,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "diigoLogo2Block"
+    },
+    "diigo-logo-2-solid": {
+      "codepoint": 57694,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "diigoLogo2Solid"
+    },
+    "diigo-logo-3": {
+      "codepoint": 57695,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "diigoLogo3"
+    },
+    "diigo-logo-3-block": {
+      "codepoint": 57696,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "diigoLogo3Block"
+    },
+    "diigo-logo-3-solid": {
+      "codepoint": 57697,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "diigoLogo3Solid"
+    },
+    "discord-logo-1": {
+      "codepoint": 57698,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "discordLogo1"
+    },
+    "discord-logo-1-block": {
+      "codepoint": 57699,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "discordLogo1Block"
+    },
+    "discord-logo-1-solid": {
+      "codepoint": 57700,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "discordLogo1Solid"
+    },
+    "discord-logo-2": {
+      "codepoint": 57701,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "discordLogo2"
+    },
+    "discord-logo-2-block": {
+      "codepoint": 57702,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "discordLogo2Block"
+    },
+    "discord-logo-2-solid": {
+      "codepoint": 57703,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "discordLogo2Solid"
+    },
+    "discourse-logo": {
+      "codepoint": 57704,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "discourseLogo"
+    },
+    "discourse-logo-block": {
+      "codepoint": 57705,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "discourseLogoBlock"
+    },
+    "discourse-logo-solid": {
+      "codepoint": 57706,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "discourseLogoSolid"
+    },
+    "disney-plus-logo": {
+      "codepoint": 57707,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "disneyPlusLogo"
+    },
+    "disney-plus-logo-block": {
+      "codepoint": 57708,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "disneyPlusLogoBlock"
+    },
+    "disney-plus-logo-solid": {
+      "codepoint": 57709,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "disneyPlusLogoSolid"
+    },
+    "docker-logo": {
+      "codepoint": 57710,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dockerLogo"
+    },
+    "docker-logo-block": {
+      "codepoint": 57711,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dockerLogoBlock"
+    },
+    "docker-logo-solid": {
+      "codepoint": 57712,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dockerLogoSolid"
+    },
+    "doctrine-logo": {
+      "codepoint": 57713,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "doctrineLogo"
+    },
+    "doctrine-logo-block": {
+      "codepoint": 57714,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "doctrineLogoBlock"
+    },
+    "doctrine-logo-solid": {
+      "codepoint": 57715,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "doctrineLogoSolid"
+    },
+    "douban-logo": {
+      "codepoint": 57716,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "doubanLogo"
+    },
+    "douban-logo-block": {
+      "codepoint": 57717,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "doubanLogoBlock"
+    },
+    "douban-logo-solid": {
+      "codepoint": 57718,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "doubanLogoSolid"
+    },
+    "dribbble-logo": {
+      "codepoint": 57719,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dribbbleLogo"
+    },
+    "dribbble-logo-block": {
+      "codepoint": 57720,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dribbbleLogoBlock"
+    },
+    "dribbble-logo-solid": {
+      "codepoint": 57721,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dribbbleLogoSolid"
+    },
+    "dropbox-logo-1": {
+      "codepoint": 57722,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dropboxLogo1"
+    },
+    "dropbox-logo-1-block": {
+      "codepoint": 57723,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dropboxLogo1Block"
+    },
+    "dropbox-logo-1-solid": {
+      "codepoint": 57724,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dropboxLogo1Solid"
+    },
+    "dropbox-logo-2": {
+      "codepoint": 57725,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dropboxLogo2"
+    },
+    "dropbox-logo-2-block": {
+      "codepoint": 57726,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dropboxLogo2Block"
+    },
+    "dropbox-logo-2-solid": {
+      "codepoint": 57727,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "dropboxLogo2Solid"
+    },
+    "drupal-logo-1": {
+      "codepoint": 57728,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "drupalLogo1"
+    },
+    "drupal-logo-1-block": {
+      "codepoint": 57729,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "drupalLogo1Block"
+    },
+    "drupal-logo-1-solid": {
+      "codepoint": 57730,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "drupalLogo1Solid"
+    },
+    "drupal-logo-2": {
+      "codepoint": 57731,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "drupalLogo2"
+    },
+    "drupal-logo-2-block": {
+      "codepoint": 57732,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "drupalLogo2Block"
+    },
+    "drupal-logo-2-solid": {
+      "codepoint": 57733,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "drupalLogo2Solid"
+    },
+    "eclipse-ide-logo": {
+      "codepoint": 57734,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "eclipseIdeLogo"
+    },
+    "eclipse-ide-logo-block": {
+      "codepoint": 57735,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "eclipseIdeLogoBlock"
+    },
+    "eclipse-ide-logo-solid": {
+      "codepoint": 57736,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "eclipseIdeLogoSolid"
+    },
+    "egnyte-logo": {
+      "codepoint": 57737,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "egnyteLogo"
+    },
+    "egnyte-logo-block": {
+      "codepoint": 57738,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "egnyteLogoBlock"
+    },
+    "egnyte-logo-solid": {
+      "codepoint": 57739,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "egnyteLogoSolid"
+    },
+    "elastic-beats-logo": {
+      "codepoint": 57740,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticBeatsLogo"
+    },
+    "elastic-beats-logo-block": {
+      "codepoint": 57741,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticBeatsLogoBlock"
+    },
+    "elastic-beats-logo-solid": {
+      "codepoint": 57742,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticBeatsLogoSolid"
+    },
+    "elastic-cloud-logo": {
+      "codepoint": 57743,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticCloudLogo"
+    },
+    "elastic-cloud-logo-block": {
+      "codepoint": 57744,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticCloudLogoBlock"
+    },
+    "elastic-cloud-logo-solid": {
+      "codepoint": 57745,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticCloudLogoSolid"
+    },
+    "elastic-logo": {
+      "codepoint": 57746,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticLogo"
+    },
+    "elastic-logo-block": {
+      "codepoint": 57747,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticLogoBlock"
+    },
+    "elastic-logo-solid": {
+      "codepoint": 57748,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticLogoSolid"
+    },
+    "elastic-logstash-logo": {
+      "codepoint": 57749,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticLogstashLogo"
+    },
+    "elastic-logstash-logo-block": {
+      "codepoint": 57750,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticLogstashLogoBlock"
+    },
+    "elastic-logstash-logo-solid": {
+      "codepoint": 57751,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticLogstashLogoSolid"
+    },
+    "elastic-search-logo": {
+      "codepoint": 57752,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticSearchLogo"
+    },
+    "elastic-search-logo-block": {
+      "codepoint": 57753,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticSearchLogoBlock"
+    },
+    "elastic-search-logo-solid": {
+      "codepoint": 57754,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticSearchLogoSolid"
+    },
+    "elastic-stack-logo": {
+      "codepoint": 57755,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticStackLogo"
+    },
+    "elastic-stack-logo-block": {
+      "codepoint": 57756,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticStackLogoBlock"
+    },
+    "elastic-stack-logo-solid": {
+      "codepoint": 57757,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticStackLogoSolid"
+    },
+    "elastic-x-pack-logo": {
+      "codepoint": 57758,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticXPackLogo"
+    },
+    "elastic-x-pack-logo-block": {
+      "codepoint": 57759,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticXPackLogoBlock"
+    },
+    "elastic-x-pack-logo-solid": {
+      "codepoint": 57760,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elasticXPackLogoSolid"
+    },
+    "electronic-arts-logo": {
+      "codepoint": 57761,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "electronicArtsLogo"
+    },
+    "electronic-arts-logo-block": {
+      "codepoint": 57762,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "electronicArtsLogoBlock"
+    },
+    "electronic-arts-logo-solid": {
+      "codepoint": 57763,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "electronicArtsLogoSolid"
+    },
+    "elixir-logo": {
+      "codepoint": 57764,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elixirLogo"
+    },
+    "elixir-logo-block": {
+      "codepoint": 57765,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elixirLogoBlock"
+    },
+    "elixir-logo-solid": {
+      "codepoint": 57766,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elixirLogoSolid"
+    },
+    "ello-logo": {
+      "codepoint": 57767,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elloLogo"
+    },
+    "ello-logo-block": {
+      "codepoint": 57768,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elloLogoBlock"
+    },
+    "ello-logo-solid": {
+      "codepoint": 57769,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "elloLogoSolid"
+    },
+    "email-logo": {
+      "codepoint": 57770,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "emailLogo"
+    },
+    "email-logo-block": {
+      "codepoint": 57771,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "emailLogoBlock"
+    },
+    "email-logo-solid": {
+      "codepoint": 57772,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "emailLogoSolid"
+    },
+    "epic-games-logo": {
+      "codepoint": 57773,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "epicGamesLogo"
+    },
+    "epic-games-logo-block": {
+      "codepoint": 57774,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "epicGamesLogoBlock"
+    },
+    "epic-games-logo-solid": {
+      "codepoint": 57775,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "epicGamesLogoSolid"
+    },
+    "esea-logo": {
+      "codepoint": 57776,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "eseaLogo"
+    },
+    "esea-logo-block": {
+      "codepoint": 57777,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "eseaLogoBlock"
+    },
+    "esea-logo-solid": {
+      "codepoint": 57778,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "eseaLogoSolid"
+    },
+    "eslint-logo": {
+      "codepoint": 57779,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "eslintLogo"
+    },
+    "eslint-logo-block": {
+      "codepoint": 57780,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "eslintLogoBlock"
+    },
+    "eslint-logo-solid": {
+      "codepoint": 57781,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "eslintLogoSolid"
+    },
+    "etsy-logo": {
+      "codepoint": 57782,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "etsyLogo"
+    },
+    "etsy-logo-block": {
+      "codepoint": 57783,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "etsyLogoBlock"
+    },
+    "etsy-logo-solid": {
+      "codepoint": 57784,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "etsyLogoSolid"
+    },
+    "evernote-logo": {
+      "codepoint": 57785,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "evernoteLogo"
+    },
+    "evernote-logo-block": {
+      "codepoint": 57786,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "evernoteLogoBlock"
+    },
+    "evernote-logo-solid": {
+      "codepoint": 57787,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "evernoteLogoSolid"
+    },
+    "eyeem-logo": {
+      "codepoint": 57788,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "eyeemLogo"
+    },
+    "eyeem-logo-block": {
+      "codepoint": 57789,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "eyeemLogoBlock"
+    },
+    "eyeem-logo-solid": {
+      "codepoint": 57790,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "eyeemLogoSolid"
+    },
+    "f-droid-logo": {
+      "codepoint": 57791,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fDroidLogo"
+    },
+    "f-droid-logo-block": {
+      "codepoint": 57792,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fDroidLogoBlock"
+    },
+    "f-droid-logo-solid": {
+      "codepoint": 57793,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fDroidLogoSolid"
+    },
+    "facebook-gaming-logo": {
+      "codepoint": 57794,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "facebookGamingLogo"
+    },
+    "facebook-gaming-logo-block": {
+      "codepoint": 57795,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "facebookGamingLogoBlock"
+    },
+    "facebook-gaming-logo-solid": {
+      "codepoint": 57796,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "facebookGamingLogoSolid"
+    },
+    "facebook-logo-1": {
+      "codepoint": 57797,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "facebookLogo1"
+    },
+    "facebook-logo-1-block": {
+      "codepoint": 57798,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "facebookLogo1Block"
+    },
+    "facebook-logo-1-solid": {
+      "codepoint": 57799,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "facebookLogo1Solid"
+    },
+    "facebook-logo-2": {
+      "codepoint": 57800,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "facebookLogo2"
+    },
+    "facebook-logo-2-block": {
+      "codepoint": 57801,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "facebookLogo2Block"
+    },
+    "facebook-logo-2-solid": {
+      "codepoint": 57802,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "facebookLogo2Solid"
+    },
+    "facebook-messenger-logo": {
+      "codepoint": 57803,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "facebookMessengerLogo"
+    },
+    "facebook-messenger-logo-block": {
+      "codepoint": 57804,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "facebookMessengerLogoBlock"
+    },
+    "facebook-messenger-logo-solid": {
+      "codepoint": 57805,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "facebookMessengerLogoSolid"
+    },
+    "fandom-logo-1": {
+      "codepoint": 57806,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fandomLogo1"
+    },
+    "fandom-logo-1-block": {
+      "codepoint": 57807,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fandomLogo1Block"
+    },
+    "fandom-logo-1-solid": {
+      "codepoint": 57808,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fandomLogo1Solid"
+    },
+    "fandom-logo-2": {
+      "codepoint": 57809,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fandomLogo2"
+    },
+    "fandom-logo-2-block": {
+      "codepoint": 57810,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fandomLogo2Block"
+    },
+    "fandom-logo-2-solid": {
+      "codepoint": 57811,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fandomLogo2Solid"
+    },
+    "feathub-logo": {
+      "codepoint": 57812,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "feathubLogo"
+    },
+    "feathub-logo-block": {
+      "codepoint": 57813,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "feathubLogoBlock"
+    },
+    "feathub-logo-solid": {
+      "codepoint": 57814,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "feathubLogoSolid"
+    },
+    "fedora-logo": {
+      "codepoint": 57815,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fedoraLogo"
+    },
+    "fedora-logo-block": {
+      "codepoint": 57816,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fedoraLogoBlock"
+    },
+    "fedora-logo-solid": {
+      "codepoint": 57817,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fedoraLogoSolid"
+    },
+    "feed-burner-logo": {
+      "codepoint": 57818,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "feedBurnerLogo"
+    },
+    "feed-burner-logo-block": {
+      "codepoint": 57819,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "feedBurnerLogoBlock"
+    },
+    "feed-burner-logo-solid": {
+      "codepoint": 57820,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "feedBurnerLogoSolid"
+    },
+    "feedly-logo": {
+      "codepoint": 57821,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "feedlyLogo"
+    },
+    "feedly-logo-block": {
+      "codepoint": 57822,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "feedlyLogoBlock"
+    },
+    "feedly-logo-solid": {
+      "codepoint": 57823,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "feedlyLogoSolid"
+    },
+    "ffffounding-logo": {
+      "codepoint": 57824,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "ffffoundingLogo"
+    },
+    "ffffounding-logo-block": {
+      "codepoint": 57825,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "ffffoundingLogoBlock"
+    },
+    "ffffounding-logo-solid": {
+      "codepoint": 57826,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "ffffoundingLogoSolid"
+    },
+    "figma-logo": {
+      "codepoint": 57827,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "figmaLogo"
+    },
+    "figma-logo-block": {
+      "codepoint": 57828,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "figmaLogoBlock"
+    },
+    "figma-logo-solid": {
+      "codepoint": 57829,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "figmaLogoSolid"
+    },
+    "firebase-logo": {
+      "codepoint": 57830,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "firebaseLogo"
+    },
+    "firebase-logo-block": {
+      "codepoint": 57831,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "firebaseLogoBlock"
+    },
+    "firebase-logo-solid": {
+      "codepoint": 57832,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "firebaseLogoSolid"
+    },
+    "fitbit-logo": {
+      "codepoint": 57833,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fitbitLogo"
+    },
+    "fitbit-logo-block": {
+      "codepoint": 57834,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fitbitLogoBlock"
+    },
+    "fitbit-logo-solid": {
+      "codepoint": 57835,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "fitbitLogoSolid"
+    },
+    "flickr-logo": {
+      "codepoint": 57836,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "flickrLogo"
+    },
+    "flickr-logo-block": {
+      "codepoint": 57837,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "flickrLogoBlock"
+    },
+    "flickr-logo-solid": {
+      "codepoint": 57838,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "flickrLogoSolid"
+    },
+    "flipboard-logo": {
+      "codepoint": 57839,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "flipboardLogo"
+    },
+    "flipboard-logo-block": {
+      "codepoint": 57840,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "flipboardLogoBlock"
+    },
+    "flipboard-logo-solid": {
+      "codepoint": 57841,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "flipboardLogoSolid"
+    },
+    "flutter-logo": {
+      "codepoint": 57842,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "flutterLogo"
+    },
+    "flutter-logo-block": {
+      "codepoint": 57843,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "flutterLogoBlock"
+    },
+    "flutter-logo-solid": {
+      "codepoint": 57844,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "flutterLogoSolid"
+    },
+    "food-spotting-logo-1": {
+      "codepoint": 57845,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foodSpottingLogo1"
+    },
+    "food-spotting-logo-1-block": {
+      "codepoint": 57846,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foodSpottingLogo1Block"
+    },
+    "food-spotting-logo-1-solid": {
+      "codepoint": 57847,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foodSpottingLogo1Solid"
+    },
+    "food-spotting-logo-2": {
+      "codepoint": 57848,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foodSpottingLogo2"
+    },
+    "food-spotting-logo-2-block": {
+      "codepoint": 57849,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foodSpottingLogo2Block"
+    },
+    "food-spotting-logo-2-solid": {
+      "codepoint": 57850,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foodSpottingLogo2Solid"
+    },
+    "formspirng-logo": {
+      "codepoint": 57851,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "formspirngLogo"
+    },
+    "formspirng-logo-block": {
+      "codepoint": 57852,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "formspirngLogoBlock"
+    },
+    "formspirng-logo-solid": {
+      "codepoint": 57853,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "formspirngLogoSolid"
+    },
+    "forrst-logo": {
+      "codepoint": 57854,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "forrstLogo"
+    },
+    "forrst-logo-block": {
+      "codepoint": 57855,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "forrstLogoBlock"
+    },
+    "forrst-logo-solid": {
+      "codepoint": 57856,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "forrstLogoSolid"
+    },
+    "foursquare-logo": {
+      "codepoint": 57857,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foursquareLogo"
+    },
+    "foursquare-logo-1": {
+      "codepoint": 57858,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foursquareLogo1"
+    },
+    "foursquare-logo-1-block": {
+      "codepoint": 57859,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foursquareLogo1Block"
+    },
+    "foursquare-logo-1-solid": {
+      "codepoint": 57860,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foursquareLogo1Solid"
+    },
+    "foursquare-logo-2": {
+      "codepoint": 57861,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foursquareLogo2"
+    },
+    "foursquare-logo-2-block": {
+      "codepoint": 57862,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foursquareLogo2Block"
+    },
+    "foursquare-logo-2-solid": {
+      "codepoint": 57863,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foursquareLogo2Solid"
+    },
+    "foursquare-logo-block": {
+      "codepoint": 57864,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foursquareLogoBlock"
+    },
+    "foursquare-logo-solid": {
+      "codepoint": 57865,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "foursquareLogoSolid"
+    },
+    "framer-logo": {
+      "codepoint": 57866,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "framerLogo"
+    },
+    "framer-logo-block": {
+      "codepoint": 57867,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "framerLogoBlock"
+    },
+    "framer-logo-solid": {
+      "codepoint": 57868,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "framerLogoSolid"
+    },
+    "friends-feed-logo": {
+      "codepoint": 57869,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "friendsFeedLogo"
+    },
+    "friends-feed-logo-block": {
+      "codepoint": 57870,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "friendsFeedLogoBlock"
+    },
+    "friends-feed-logo-solid": {
+      "codepoint": 57871,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "friendsFeedLogoSolid"
+    },
+    "funimation-logo": {
+      "codepoint": 57872,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "funimationLogo"
+    },
+    "funimation-logo-block": {
+      "codepoint": 57873,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "funimationLogoBlock"
+    },
+    "funimation-logo-solid": {
+      "codepoint": 57874,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "funimationLogoSolid"
+    },
+    "gabbr-logo": {
+      "codepoint": 57875,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gabbrLogo"
+    },
+    "gabbr-logo-block": {
+      "codepoint": 57876,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gabbrLogoBlock"
+    },
+    "gabbr-logo-solid": {
+      "codepoint": 57877,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gabbrLogoSolid"
+    },
+    "gamercastering-logo": {
+      "codepoint": 57878,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gamercasteringLogo"
+    },
+    "gamercastering-logo-block": {
+      "codepoint": 57879,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gamercasteringLogoBlock"
+    },
+    "gamercastering-logo-solid": {
+      "codepoint": 57880,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gamercasteringLogoSolid"
+    },
+    "gdgt-logo": {
+      "codepoint": 57881,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gdgtLogo"
+    },
+    "gdgt-logo-block": {
+      "codepoint": 57882,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gdgtLogoBlock"
+    },
+    "gdgt-logo-solid": {
+      "codepoint": 57883,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gdgtLogoSolid"
+    },
+    "geforce-now-logo": {
+      "codepoint": 57884,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "geforceNowLogo"
+    },
+    "geforce-now-logo-block": {
+      "codepoint": 57885,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "geforceNowLogoBlock"
+    },
+    "geforce-now-logo-solid": {
+      "codepoint": 57886,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "geforceNowLogoSolid"
+    },
+    "github-logo-1": {
+      "codepoint": 57887,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "githubLogo1"
+    },
+    "github-logo-1-block": {
+      "codepoint": 57888,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "githubLogo1Block"
+    },
+    "github-logo-1-solid": {
+      "codepoint": 57889,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "githubLogo1Solid"
+    },
+    "github-logo-2": {
+      "codepoint": 57890,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "githubLogo2"
+    },
+    "github-logo-2-block": {
+      "codepoint": 57891,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "githubLogo2Block"
+    },
+    "github-logo-2-solid": {
+      "codepoint": 57892,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "githubLogo2Solid"
+    },
+    "gog-com-logo": {
+      "codepoint": 57893,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gogComLogo"
+    },
+    "gog-com-logo-block": {
+      "codepoint": 57894,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gogComLogoBlock"
+    },
+    "gog-com-logo-solid": {
+      "codepoint": 57895,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gogComLogoSolid"
+    },
+    "google-ads-logo": {
+      "codepoint": 57896,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleAdsLogo"
+    },
+    "google-ads-logo-block": {
+      "codepoint": 57897,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleAdsLogoBlock"
+    },
+    "google-ads-logo-solid": {
+      "codepoint": 57898,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleAdsLogoSolid"
+    },
+    "google-adsense-logo": {
+      "codepoint": 57899,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleAdsenseLogo"
+    },
+    "google-adsense-logo-block": {
+      "codepoint": 57900,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleAdsenseLogoBlock"
+    },
+    "google-adsense-logo-solid": {
+      "codepoint": 57901,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleAdsenseLogoSolid"
+    },
+    "google-assistant-logo": {
+      "codepoint": 57902,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleAssistantLogo"
+    },
+    "google-assistant-logo-block": {
+      "codepoint": 57903,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleAssistantLogoBlock"
+    },
+    "google-assistant-logo-solid": {
+      "codepoint": 57904,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleAssistantLogoSolid"
+    },
+    "google-buzz-logo": {
+      "codepoint": 57905,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleBuzzLogo"
+    },
+    "google-buzz-logo-block": {
+      "codepoint": 57906,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleBuzzLogoBlock"
+    },
+    "google-buzz-logo-solid": {
+      "codepoint": 57907,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleBuzzLogoSolid"
+    },
+    "google-calendar-logo": {
+      "codepoint": 57908,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleCalendarLogo"
+    },
+    "google-calendar-logo-block": {
+      "codepoint": 57909,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleCalendarLogoBlock"
+    },
+    "google-calendar-logo-solid": {
+      "codepoint": 57910,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleCalendarLogoSolid"
+    },
+    "google-cast-logo": {
+      "codepoint": 57911,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleCastLogo"
+    },
+    "google-cast-logo-block": {
+      "codepoint": 57912,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleCastLogoBlock"
+    },
+    "google-cast-logo-solid": {
+      "codepoint": 57913,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleCastLogoSolid"
+    },
+    "google-chat-logo": {
+      "codepoint": 57914,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleChatLogo"
+    },
+    "google-chat-logo-block": {
+      "codepoint": 57915,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleChatLogoBlock"
+    },
+    "google-chat-logo-solid": {
+      "codepoint": 57916,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleChatLogoSolid"
+    },
+    "google-cloud-logo": {
+      "codepoint": 57917,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleCloudLogo"
+    },
+    "google-cloud-logo-block": {
+      "codepoint": 57918,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleCloudLogoBlock"
+    },
+    "google-cloud-logo-solid": {
+      "codepoint": 57919,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleCloudLogoSolid"
+    },
+    "google-drive-logo-1": {
+      "codepoint": 57920,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleDriveLogo1"
+    },
+    "google-drive-logo-1-block": {
+      "codepoint": 57921,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleDriveLogo1Block"
+    },
+    "google-drive-logo-1-solid": {
+      "codepoint": 57922,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleDriveLogo1Solid"
+    },
+    "google-drive-logo-2": {
+      "codepoint": 57923,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleDriveLogo2"
+    },
+    "google-drive-logo-2-block": {
+      "codepoint": 57924,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleDriveLogo2Block"
+    },
+    "google-drive-logo-2-solid": {
+      "codepoint": 57925,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleDriveLogo2Solid"
+    },
+    "google-fit-logo": {
+      "codepoint": 57926,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleFitLogo"
+    },
+    "google-fit-logo-block": {
+      "codepoint": 57927,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleFitLogoBlock"
+    },
+    "google-fit-logo-solid": {
+      "codepoint": 57928,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleFitLogoSolid"
+    },
+    "google-hangouts-chat-logo": {
+      "codepoint": 57929,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleHangoutsChatLogo"
+    },
+    "google-hangouts-chat-logo-block": {
+      "codepoint": 57930,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleHangoutsChatLogoBlock"
+    },
+    "google-hangouts-chat-logo-solid": {
+      "codepoint": 57931,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleHangoutsChatLogoSolid"
+    },
+    "google-hangouts-logo": {
+      "codepoint": 57932,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleHangoutsLogo"
+    },
+    "google-hangouts-logo-block": {
+      "codepoint": 57933,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleHangoutsLogoBlock"
+    },
+    "google-hangouts-logo-solid": {
+      "codepoint": 57934,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleHangoutsLogoSolid"
+    },
+    "google-hangouts-meet-logo": {
+      "codepoint": 57935,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleHangoutsMeetLogo"
+    },
+    "google-hangouts-meet-logo-block": {
+      "codepoint": 57936,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleHangoutsMeetLogoBlock"
+    },
+    "google-hangouts-meet-logo-solid": {
+      "codepoint": 57937,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleHangoutsMeetLogoSolid"
+    },
+    "google-home-logo": {
+      "codepoint": 57938,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleHomeLogo"
+    },
+    "google-home-logo-block": {
+      "codepoint": 57939,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleHomeLogoBlock"
+    },
+    "google-home-logo-solid": {
+      "codepoint": 57940,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleHomeLogoSolid"
+    },
+    "google-lens-logo": {
+      "codepoint": 57941,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleLensLogo"
+    },
+    "google-lens-logo-block": {
+      "codepoint": 57942,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleLensLogoBlock"
+    },
+    "google-lens-logo-solid": {
+      "codepoint": 57943,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleLensLogoSolid"
+    },
+    "google-logo": {
+      "codepoint": 57944,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleLogo"
+    },
+    "google-logo-block": {
+      "codepoint": 57945,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleLogoBlock"
+    },
+    "google-logo-solid": {
+      "codepoint": 57946,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleLogoSolid"
+    },
+    "google-mail-logo": {
+      "codepoint": 57947,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleMailLogo"
+    },
+    "google-mail-logo-block": {
+      "codepoint": 57948,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleMailLogoBlock"
+    },
+    "google-mail-logo-solid": {
+      "codepoint": 57949,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleMailLogoSolid"
+    },
+    "google-maps-logo": {
+      "codepoint": 57950,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleMapsLogo"
+    },
+    "google-maps-logo-block": {
+      "codepoint": 57951,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleMapsLogoBlock"
+    },
+    "google-maps-logo-solid": {
+      "codepoint": 57952,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleMapsLogoSolid"
+    },
+    "google-meet-logo": {
+      "codepoint": 57953,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleMeetLogo"
+    },
+    "google-meet-logo-block": {
+      "codepoint": 57954,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleMeetLogoBlock"
+    },
+    "google-meet-logo-solid": {
+      "codepoint": 57955,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleMeetLogoSolid"
+    },
+    "google-microphone-voice-search-logo": {
+      "codepoint": 57956,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleMicrophoneVoiceSearchLogo"
+    },
+    "google-microphone-voice-search-logo-block": {
+      "codepoint": 57957,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleMicrophoneVoiceSearchLogoBlock"
+    },
+    "google-microphone-voice-search-logo-solid": {
+      "codepoint": 57958,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleMicrophoneVoiceSearchLogoSolid"
+    },
+    "google-near-by-logo": {
+      "codepoint": 57959,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleNearByLogo"
+    },
+    "google-near-by-logo-block": {
+      "codepoint": 57960,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleNearByLogoBlock"
+    },
+    "google-near-by-logo-solid": {
+      "codepoint": 57961,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleNearByLogoSolid"
+    },
+    "google-news-logo": {
+      "codepoint": 57962,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleNewsLogo"
+    },
+    "google-news-logo-block": {
+      "codepoint": 57963,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleNewsLogoBlock"
+    },
+    "google-news-logo-solid": {
+      "codepoint": 57964,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleNewsLogoSolid"
+    },
+    "google-photos-logo": {
+      "codepoint": 57965,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePhotosLogo"
+    },
+    "google-photos-logo-block": {
+      "codepoint": 57966,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePhotosLogoBlock"
+    },
+    "google-photos-logo-solid": {
+      "codepoint": 57967,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePhotosLogoSolid"
+    },
+    "google-play-logo": {
+      "codepoint": 57968,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePlayLogo"
+    },
+    "google-play-logo-block": {
+      "codepoint": 57969,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePlayLogoBlock"
+    },
+    "google-play-logo-solid": {
+      "codepoint": 57970,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePlayLogoSolid"
+    },
+    "google-plus-logo-1": {
+      "codepoint": 57971,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePlusLogo1"
+    },
+    "google-plus-logo-1-block": {
+      "codepoint": 57972,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePlusLogo1Block"
+    },
+    "google-plus-logo-1-solid": {
+      "codepoint": 57973,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePlusLogo1Solid"
+    },
+    "google-plus-logo-2": {
+      "codepoint": 57974,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePlusLogo2"
+    },
+    "google-plus-logo-2-block": {
+      "codepoint": 57975,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePlusLogo2Block"
+    },
+    "google-plus-logo-2-solid": {
+      "codepoint": 57976,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePlusLogo2Solid"
+    },
+    "google-podcast-logo": {
+      "codepoint": 57977,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePodcastLogo"
+    },
+    "google-podcast-logo-block": {
+      "codepoint": 57978,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePodcastLogoBlock"
+    },
+    "google-podcast-logo-solid": {
+      "codepoint": 57979,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googlePodcastLogoSolid"
+    },
+    "google-shopping-logo": {
+      "codepoint": 57980,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleShoppingLogo"
+    },
+    "google-shopping-logo-block": {
+      "codepoint": 57981,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleShoppingLogoBlock"
+    },
+    "google-shopping-logo-solid": {
+      "codepoint": 57982,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleShoppingLogoSolid"
+    },
+    "google-stadia-logo": {
+      "codepoint": 57983,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleStadiaLogo"
+    },
+    "google-stadia-logo-block": {
+      "codepoint": 57984,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleStadiaLogoBlock"
+    },
+    "google-stadia-logo-solid": {
+      "codepoint": 57985,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleStadiaLogoSolid"
+    },
+    "google-surveys-logo": {
+      "codepoint": 57986,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleSurveysLogo"
+    },
+    "google-surveys-logo-block": {
+      "codepoint": 57987,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleSurveysLogoBlock"
+    },
+    "google-surveys-logo-solid": {
+      "codepoint": 57988,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleSurveysLogoSolid"
+    },
+    "google-tab-manager-logo": {
+      "codepoint": 57989,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleTabManagerLogo"
+    },
+    "google-tab-manager-logo-block": {
+      "codepoint": 57990,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleTabManagerLogoBlock"
+    },
+    "google-tab-manager-logo-solid": {
+      "codepoint": 57991,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleTabManagerLogoSolid"
+    },
+    "google-talk-logo": {
+      "codepoint": 57992,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleTalkLogo"
+    },
+    "google-talk-logo-block": {
+      "codepoint": 57993,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleTalkLogoBlock"
+    },
+    "google-talk-logo-solid": {
+      "codepoint": 57994,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "googleTalkLogoSolid"
+    },
+    "gowalla-logo-1": {
+      "codepoint": 57995,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gowallaLogo1"
+    },
+    "gowalla-logo-1-block": {
+      "codepoint": 57996,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gowallaLogo1Block"
+    },
+    "gowalla-logo-1-solid": {
+      "codepoint": 57997,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gowallaLogo1Solid"
+    },
+    "gowalla-logo-2": {
+      "codepoint": 57998,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gowallaLogo2"
+    },
+    "gowalla-logo-2-block": {
+      "codepoint": 57999,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gowallaLogo2Block"
+    },
+    "gowalla-logo-2-solid": {
+      "codepoint": 58000,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gowallaLogo2Solid"
+    },
+    "gowalla-logo-3": {
+      "codepoint": 58001,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gowallaLogo3"
+    },
+    "gowalla-logo-3-block": {
+      "codepoint": 58002,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gowallaLogo3Block"
+    },
+    "gowalla-logo-3-solid": {
+      "codepoint": 58003,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gowallaLogo3Solid"
+    },
+    "gowalla-logo-4": {
+      "codepoint": 58004,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gowallaLogo4"
+    },
+    "gowalla-logo-4-block": {
+      "codepoint": 58005,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gowallaLogo4Block"
+    },
+    "gowalla-logo-4-solid": {
+      "codepoint": 58006,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "gowallaLogo4Solid"
+    },
+    "grooveshark-logo": {
+      "codepoint": 58007,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "groovesharkLogo"
+    },
+    "grooveshark-logo-block": {
+      "codepoint": 58008,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "groovesharkLogoBlock"
+    },
+    "grooveshark-logo-solid": {
+      "codepoint": 58009,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "groovesharkLogoSolid"
+    },
+    "guildeding-logo": {
+      "codepoint": 58010,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "guildedingLogo"
+    },
+    "guildeding-logo-block": {
+      "codepoint": 58011,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "guildedingLogoBlock"
+    },
+    "guildeding-logo-solid": {
+      "codepoint": 58012,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "guildedingLogoSolid"
+    },
+    "hbo-max-logo": {
+      "codepoint": 58013,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "hboMaxLogo"
+    },
+    "hbo-max-logo-block": {
+      "codepoint": 58014,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "hboMaxLogoBlock"
+    },
+    "hbo-max-logo-solid": {
+      "codepoint": 58015,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "hboMaxLogoSolid"
+    },
+    "hi-five-logo": {
+      "codepoint": 58016,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "hiFiveLogo"
+    },
+    "hi-five-logo-block": {
+      "codepoint": 58017,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "hiFiveLogoBlock"
+    },
+    "hi-five-logo-solid": {
+      "codepoint": 58018,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "hiFiveLogoSolid"
+    },
+    "hulu-live-tv-logo": {
+      "codepoint": 58019,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "huluLiveTvLogo"
+    },
+    "hulu-live-tv-logo-block": {
+      "codepoint": 58020,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "huluLiveTvLogoBlock"
+    },
+    "hulu-live-tv-logo-solid": {
+      "codepoint": 58021,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "huluLiveTvLogoSolid"
+    },
+    "hyves-logo": {
+      "codepoint": 58022,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "hyvesLogo"
+    },
+    "hyves-logo-block": {
+      "codepoint": 58023,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "hyvesLogoBlock"
+    },
+    "hyves-logo-solid": {
+      "codepoint": 58024,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "hyvesLogoSolid"
+    },
+    "iconjar-logo": {
+      "codepoint": 58025,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iconjarLogo"
+    },
+    "iconjar-logo-block": {
+      "codepoint": 58026,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iconjarLogoBlock"
+    },
+    "iconjar-logo-solid": {
+      "codepoint": 58027,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iconjarLogoSolid"
+    },
+    "iconmoon-logo": {
+      "codepoint": 58028,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iconmoonLogo"
+    },
+    "iconmoon-logo-block": {
+      "codepoint": 58029,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iconmoonLogoBlock"
+    },
+    "iconmoon-logo-solid": {
+      "codepoint": 58030,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iconmoonLogoSolid"
+    },
+    "icq-logo-1": {
+      "codepoint": 58031,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "icqLogo1"
+    },
+    "icq-logo-1-block": {
+      "codepoint": 58032,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "icqLogo1Block"
+    },
+    "icq-logo-1-solid": {
+      "codepoint": 58033,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "icqLogo1Solid"
+    },
+    "identica-logo": {
+      "codepoint": 58034,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "identicaLogo"
+    },
+    "identica-logo-block": {
+      "codepoint": 58035,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "identicaLogoBlock"
+    },
+    "identica-logo-solid": {
+      "codepoint": 58036,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "identicaLogoSolid"
+    },
+    "imdb-logo": {
+      "codepoint": 58037,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "imdbLogo"
+    },
+    "imdb-logo-block": {
+      "codepoint": 58038,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "imdbLogoBlock"
+    },
+    "imdb-logo-solid": {
+      "codepoint": 58039,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "imdbLogoSolid"
+    },
+    "imessage-logo": {
+      "codepoint": 58040,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "imessageLogo"
+    },
+    "imessage-logo-block": {
+      "codepoint": 58041,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "imessageLogoBlock"
+    },
+    "imessage-logo-solid": {
+      "codepoint": 58042,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "imessageLogoSolid"
+    },
+    "imgur-logo": {
+      "codepoint": 58043,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "imgurLogo"
+    },
+    "imgur-logo-block": {
+      "codepoint": 58044,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "imgurLogoBlock"
+    },
+    "imgur-logo-solid": {
+      "codepoint": 58045,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "imgurLogoSolid"
+    },
+    "inkscape-logo": {
+      "codepoint": 58046,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "inkscapeLogo"
+    },
+    "inkscape-logo-block": {
+      "codepoint": 58047,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "inkscapeLogoBlock"
+    },
+    "inkscape-logo-solid": {
+      "codepoint": 58048,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "inkscapeLogoSolid"
+    },
+    "instagram-logo-1": {
+      "codepoint": 58049,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "instagramLogo1"
+    },
+    "instagram-logo-1-block": {
+      "codepoint": 58050,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "instagramLogo1Block"
+    },
+    "instagram-logo-1-solid": {
+      "codepoint": 58051,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "instagramLogo1Solid"
+    },
+    "instagram-logo-2": {
+      "codepoint": 58052,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "instagramLogo2"
+    },
+    "instagram-logo-2-block": {
+      "codepoint": 58053,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "instagramLogo2Block"
+    },
+    "instagram-logo-2-solid": {
+      "codepoint": 58054,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "instagramLogo2Solid"
+    },
+    "instapaper-logo": {
+      "codepoint": 58055,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "instapaperLogo"
+    },
+    "instapaper-logo-block": {
+      "codepoint": 58056,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "instapaperLogoBlock"
+    },
+    "instapaper-logo-solid": {
+      "codepoint": 58057,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "instapaperLogoSolid"
+    },
+    "invision-logo": {
+      "codepoint": 58058,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "invisionLogo"
+    },
+    "invision-logo-block": {
+      "codepoint": 58059,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "invisionLogoBlock"
+    },
+    "invision-logo-solid": {
+      "codepoint": 58060,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "invisionLogoSolid"
+    },
+    "iq-logo-2": {
+      "codepoint": 58061,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iqLogo2"
+    },
+    "iq-logo-2-block": {
+      "codepoint": 58062,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iqLogo2Block"
+    },
+    "iq-logo-2-solid": {
+      "codepoint": 58063,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iqLogo2Solid"
+    },
+    "irc-galleria-logo": {
+      "codepoint": 58064,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "ircGalleriaLogo"
+    },
+    "irc-galleria-logo-block": {
+      "codepoint": 58065,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "ircGalleriaLogoBlock"
+    },
+    "irc-galleria-logo-solid": {
+      "codepoint": 58066,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "ircGalleriaLogoSolid"
+    },
+    "itunes-logo": {
+      "codepoint": 58067,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "itunesLogo"
+    },
+    "itunes-logo-block": {
+      "codepoint": 58068,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "itunesLogoBlock"
+    },
+    "itunes-logo-solid": {
+      "codepoint": 58069,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "itunesLogoSolid"
+    },
+    "iwiw-logo-1": {
+      "codepoint": 58070,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iwiwLogo1"
+    },
+    "iwiw-logo-1-block": {
+      "codepoint": 58071,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iwiwLogo1Block"
+    },
+    "iwiw-logo-1-solid": {
+      "codepoint": 58072,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iwiwLogo1Solid"
+    },
+    "iwiw-logo-2": {
+      "codepoint": 58073,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iwiwLogo2"
+    },
+    "iwiw-logo-2-block": {
+      "codepoint": 58074,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iwiwLogo2Block"
+    },
+    "iwiw-logo-2-solid": {
+      "codepoint": 58075,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iwiwLogo2Solid"
+    },
+    "jira-software-logo-1": {
+      "codepoint": 58076,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "jiraSoftwareLogo1"
+    },
+    "jira-software-logo-1-block": {
+      "codepoint": 58077,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "jiraSoftwareLogo1Block"
+    },
+    "jira-software-logo-1-solid": {
+      "codepoint": 58078,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "jiraSoftwareLogo1Solid"
+    },
+    "jira-software-logo-2": {
+      "codepoint": 58079,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "jiraSoftwareLogo2"
+    },
+    "jira-software-logo-2-block": {
+      "codepoint": 58080,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "jiraSoftwareLogo2Block"
+    },
+    "jira-software-logo-2-solid": {
+      "codepoint": 58081,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "jiraSoftwareLogo2Solid"
+    },
+    "jpeg-logo": {
+      "codepoint": 58082,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "jpegLogo"
+    },
+    "jpeg-logo-block": {
+      "codepoint": 58083,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "jpegLogoBlock"
+    },
+    "jpeg-logo-solid": {
+      "codepoint": 58084,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "jpegLogoSolid"
+    },
+    "kai-os-logo": {
+      "codepoint": 58085,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kaiOsLogo"
+    },
+    "kai-os-logo-block": {
+      "codepoint": 58086,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kaiOsLogoBlock"
+    },
+    "kai-os-logo-solid": {
+      "codepoint": 58087,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kaiOsLogoSolid"
+    },
+    "kakao-talk-logo": {
+      "codepoint": 58088,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kakaoTalkLogo"
+    },
+    "kakao-talk-logo-block": {
+      "codepoint": 58089,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kakaoTalkLogoBlock"
+    },
+    "kakao-talk-logo-solid": {
+      "codepoint": 58090,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kakaoTalkLogoSolid"
+    },
+    "kibana-logo": {
+      "codepoint": 58091,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kibanaLogo"
+    },
+    "kibana-logo-block": {
+      "codepoint": 58092,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kibanaLogoBlock"
+    },
+    "kibana-logo-solid": {
+      "codepoint": 58093,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kibanaLogoSolid"
+    },
+    "kick-logo-logo": {
+      "codepoint": 58094,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kickLogoLogo"
+    },
+    "kick-logo-logo-block": {
+      "codepoint": 58095,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kickLogoLogoBlock"
+    },
+    "kick-logo-logo-solid": {
+      "codepoint": 58096,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kickLogoLogoSolid"
+    },
+    "kik-logo-1": {
+      "codepoint": 58097,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kikLogo1"
+    },
+    "kik-logo-1-block": {
+      "codepoint": 58098,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kikLogo1Block"
+    },
+    "kik-logo-1-solid": {
+      "codepoint": 58099,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kikLogo1Solid"
+    },
+    "kik-logo-2": {
+      "codepoint": 58100,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kikLogo2"
+    },
+    "kik-logo-2-block": {
+      "codepoint": 58101,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kikLogo2Block"
+    },
+    "kik-logo-2-solid": {
+      "codepoint": 58102,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kikLogo2Solid"
+    },
+    "kodi-logo": {
+      "codepoint": 58103,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kodiLogo"
+    },
+    "kodi-logo-block": {
+      "codepoint": 58104,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kodiLogoBlock"
+    },
+    "kodi-logo-solid": {
+      "codepoint": 58105,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kodiLogoSolid"
+    },
+    "kotlin-logo": {
+      "codepoint": 58106,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kotlinLogo"
+    },
+    "kotlin-logo-block": {
+      "codepoint": 58107,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kotlinLogoBlock"
+    },
+    "kotlin-logo-solid": {
+      "codepoint": 58108,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "kotlinLogoSolid"
+    },
+    "laravel-logo-1": {
+      "codepoint": 58109,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "laravelLogo1"
+    },
+    "laravel-logo-1-block": {
+      "codepoint": 58110,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "laravelLogo1Block"
+    },
+    "laravel-logo-1-solid": {
+      "codepoint": 58111,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "laravelLogo1Solid"
+    },
+    "laravel-logo-2": {
+      "codepoint": 58112,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "laravelLogo2"
+    },
+    "laravel-logo-2-block": {
+      "codepoint": 58113,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "laravelLogo2Block"
+    },
+    "laravel-logo-2-solid": {
+      "codepoint": 58114,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "laravelLogo2Solid"
+    },
+    "lastfm-logo": {
+      "codepoint": 58115,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lastfmLogo"
+    },
+    "lastfm-logo-block": {
+      "codepoint": 58116,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lastfmLogoBlock"
+    },
+    "lastfm-logo-solid": {
+      "codepoint": 58117,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lastfmLogoSolid"
+    },
+    "lastpass-logo": {
+      "codepoint": 58118,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lastpassLogo"
+    },
+    "lastpass-logo-block": {
+      "codepoint": 58119,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lastpassLogoBlock"
+    },
+    "lastpass-logo-solid": {
+      "codepoint": 58120,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lastpassLogoSolid"
+    },
+    "line-app-logo": {
+      "codepoint": 58121,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lineAppLogo"
+    },
+    "line-app-logo-block": {
+      "codepoint": 58122,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lineAppLogoBlock"
+    },
+    "line-app-logo-solid": {
+      "codepoint": 58123,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lineAppLogoSolid"
+    },
+    "lineage-logo": {
+      "codepoint": 58124,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lineageLogo"
+    },
+    "lineage-logo-block": {
+      "codepoint": 58125,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lineageLogoBlock"
+    },
+    "lineage-logo-solid": {
+      "codepoint": 58126,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lineageLogoSolid"
+    },
+    "linkedin-logo": {
+      "codepoint": 58127,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "linkedinLogo"
+    },
+    "linkedin-logo-block": {
+      "codepoint": 58128,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "linkedinLogoBlock"
+    },
+    "linkedin-logo-solid": {
+      "codepoint": 58129,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "linkedinLogoSolid"
+    },
+    "linux-mint-logo-1": {
+      "codepoint": 58130,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "linuxMintLogo1"
+    },
+    "linux-mint-logo-1-block": {
+      "codepoint": 58131,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "linuxMintLogo1Block"
+    },
+    "linux-mint-logo-1-solid": {
+      "codepoint": 58132,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "linuxMintLogo1Solid"
+    },
+    "linux-mint-logo-2": {
+      "codepoint": 58133,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "linuxMintLogo2"
+    },
+    "linux-mint-logo-2-block": {
+      "codepoint": 58134,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "linuxMintLogo2Block"
+    },
+    "linux-mint-logo-2-solid": {
+      "codepoint": 58135,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "linuxMintLogo2Solid"
+    },
+    "livejournal-logo": {
+      "codepoint": 58136,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "livejournalLogo"
+    },
+    "livejournal-logo-block": {
+      "codepoint": 58137,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "livejournalLogoBlock"
+    },
+    "livejournal-logo-solid": {
+      "codepoint": 58138,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "livejournalLogoSolid"
+    },
+    "logmein-logo-1": {
+      "codepoint": 58139,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "logmeinLogo1"
+    },
+    "logmein-logo-1-block": {
+      "codepoint": 58140,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "logmeinLogo1Block"
+    },
+    "logmein-logo-1-solid": {
+      "codepoint": 58141,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "logmeinLogo1Solid"
+    },
+    "logmein-logo-2": {
+      "codepoint": 58142,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "logmeinLogo2"
+    },
+    "logmein-logo-2-block": {
+      "codepoint": 58143,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "logmeinLogo2Block"
+    },
+    "logmein-logo-2-solid": {
+      "codepoint": 58144,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "logmeinLogo2Solid"
+    },
+    "logo": {
+      "codepoint": 58145,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "logo"
+    },
+    "loom-logo": {
+      "codepoint": 58146,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "loomLogo"
+    },
+    "loom-logo-block": {
+      "codepoint": 58147,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "loomLogoBlock"
+    },
+    "loom-logo-solid": {
+      "codepoint": 58148,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "loomLogoSolid"
+    },
+    "lubuntu-logo": {
+      "codepoint": 58149,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lubuntuLogo"
+    },
+    "lubuntu-logo-block": {
+      "codepoint": 58150,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lubuntuLogoBlock"
+    },
+    "lubuntu-logo-solid": {
+      "codepoint": 58151,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lubuntuLogoSolid"
+    },
+    "lyft-logo": {
+      "codepoint": 58152,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lyftLogo"
+    },
+    "lyft-logo-block": {
+      "codepoint": 58153,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lyftLogoBlock"
+    },
+    "lyft-logo-solid": {
+      "codepoint": 58154,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "lyftLogoSolid"
+    },
+    "mac-finder-logo": {
+      "codepoint": 58155,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "macFinderLogo"
+    },
+    "mac-finder-logo-block": {
+      "codepoint": 58156,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "macFinderLogoBlock"
+    },
+    "mac-finder-logo-solid": {
+      "codepoint": 58157,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "macFinderLogoSolid"
+    },
+    "macos-osx-logo": {
+      "codepoint": 58158,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "macosOsxLogo"
+    },
+    "macos-osx-logo-block": {
+      "codepoint": 58159,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "macosOsxLogoBlock"
+    },
+    "macos-osx-logo-solid": {
+      "codepoint": 58160,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "macosOsxLogoSolid"
+    },
+    "magento-logo": {
+      "codepoint": 58161,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "magentoLogo"
+    },
+    "magento-logo-block": {
+      "codepoint": 58162,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "magentoLogoBlock"
+    },
+    "magento-logo-solid": {
+      "codepoint": 58163,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "magentoLogoSolid"
+    },
+    "manjaro-logo": {
+      "codepoint": 58164,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "manjaroLogo"
+    },
+    "manjaro-logo-block": {
+      "codepoint": 58165,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "manjaroLogoBlock"
+    },
+    "manjaro-logo-solid": {
+      "codepoint": 58166,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "manjaroLogoSolid"
+    },
+    "mastercard-logo": {
+      "codepoint": 58167,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mastercardLogo"
+    },
+    "mastercard-logo-block": {
+      "codepoint": 58168,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mastercardLogoBlock"
+    },
+    "mastercard-logo-solid": {
+      "codepoint": 58169,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mastercardLogoSolid"
+    },
+    "mastodon-logo-1": {
+      "codepoint": 58170,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mastodonLogo1"
+    },
+    "mastodon-logo-1-block": {
+      "codepoint": 58171,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mastodonLogo1Block"
+    },
+    "mastodon-logo-1-solid": {
+      "codepoint": 58172,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mastodonLogo1Solid"
+    },
+    "mastodon-logo-2": {
+      "codepoint": 58173,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mastodonLogo2"
+    },
+    "mastodon-logo-2-block": {
+      "codepoint": 58174,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mastodonLogo2Block"
+    },
+    "mastodon-logo-2-solid": {
+      "codepoint": 58175,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mastodonLogo2Solid"
+    },
+    "mastodon-logo-3": {
+      "codepoint": 58176,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mastodonLogo3"
+    },
+    "mastodon-logo-3-block": {
+      "codepoint": 58177,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mastodonLogo3Block"
+    },
+    "mastodon-logo-3-solid": {
+      "codepoint": 58178,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mastodonLogo3Solid"
+    },
+    "maya-logo": {
+      "codepoint": 58179,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mayaLogo"
+    },
+    "maya-logo-block": {
+      "codepoint": 58180,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mayaLogoBlock"
+    },
+    "maya-logo-solid": {
+      "codepoint": 58181,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mayaLogoSolid"
+    },
+    "mcafee-logo": {
+      "codepoint": 58182,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mcafeeLogo"
+    },
+    "mcafee-logo-block": {
+      "codepoint": 58183,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mcafeeLogoBlock"
+    },
+    "mcafee-logo-solid": {
+      "codepoint": 58184,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mcafeeLogoSolid"
+    },
+    "medium-logo-1": {
+      "codepoint": 58185,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mediumLogo1"
+    },
+    "medium-logo-1-block": {
+      "codepoint": 58186,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mediumLogo1Block"
+    },
+    "medium-logo-1-solid": {
+      "codepoint": 58187,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mediumLogo1Solid"
+    },
+    "medium-logo-2": {
+      "codepoint": 58188,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mediumLogo2"
+    },
+    "medium-logo-2-block": {
+      "codepoint": 58189,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mediumLogo2Block"
+    },
+    "medium-logo-2-solid": {
+      "codepoint": 58190,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mediumLogo2Solid"
+    },
+    "medium-logo-3": {
+      "codepoint": 58191,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mediumLogo3"
+    },
+    "medium-logo-3-block": {
+      "codepoint": 58192,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mediumLogo3Block"
+    },
+    "medium-logo-3-solid": {
+      "codepoint": 58193,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mediumLogo3Solid"
+    },
+    "meetup-logo": {
+      "codepoint": 58194,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "meetupLogo"
+    },
+    "meetup-logo-block": {
+      "codepoint": 58195,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "meetupLogoBlock"
+    },
+    "meetup-logo-solid": {
+      "codepoint": 58196,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "meetupLogoSolid"
+    },
+    "memori-logo": {
+      "codepoint": 58197,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "memoriLogo"
+    },
+    "memori-logo-block": {
+      "codepoint": 58198,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "memoriLogoBlock"
+    },
+    "memori-logo-solid": {
+      "codepoint": 58199,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "memoriLogoSolid"
+    },
+    "messages-logo": {
+      "codepoint": 58200,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "messagesLogo"
+    },
+    "messages-logo-block": {
+      "codepoint": 58201,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "messagesLogoBlock"
+    },
+    "messages-logo-solid": {
+      "codepoint": 58202,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "messagesLogoSolid"
+    },
+    "meta-cafe-logo": {
+      "codepoint": 58203,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "metaCafeLogo"
+    },
+    "meta-cafe-logo-block": {
+      "codepoint": 58204,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "metaCafeLogoBlock"
+    },
+    "meta-cafe-logo-solid": {
+      "codepoint": 58205,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "metaCafeLogoSolid"
+    },
+    "microsoft-azure-logo": {
+      "codepoint": 58206,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftAzureLogo"
+    },
+    "microsoft-azure-logo-block": {
+      "codepoint": 58207,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftAzureLogoBlock"
+    },
+    "microsoft-azure-logo-solid": {
+      "codepoint": 58208,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftAzureLogoSolid"
+    },
+    "microsoft-dynamics-logo": {
+      "codepoint": 58209,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftDynamicsLogo"
+    },
+    "microsoft-dynamics-logo-block": {
+      "codepoint": 58210,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftDynamicsLogoBlock"
+    },
+    "microsoft-dynamics-logo-solid": {
+      "codepoint": 58211,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftDynamicsLogoSolid"
+    },
+    "microsoft-logo": {
+      "codepoint": 58212,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftLogo"
+    },
+    "microsoft-logo-block": {
+      "codepoint": 58213,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftLogoBlock"
+    },
+    "microsoft-logo-solid": {
+      "codepoint": 58214,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftLogoSolid"
+    },
+    "microsoft-onedrive-logo-1": {
+      "codepoint": 58215,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftOnedriveLogo1"
+    },
+    "microsoft-onedrive-logo-1-block": {
+      "codepoint": 58216,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftOnedriveLogo1Block"
+    },
+    "microsoft-onedrive-logo-1-solid": {
+      "codepoint": 58217,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftOnedriveLogo1Solid"
+    },
+    "microsoft-onedrive-logo-2": {
+      "codepoint": 58218,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftOnedriveLogo2"
+    },
+    "microsoft-onedrive-logo-2-block": {
+      "codepoint": 58219,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftOnedriveLogo2Block"
+    },
+    "microsoft-onedrive-logo-2-solid": {
+      "codepoint": 58220,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftOnedriveLogo2Solid"
+    },
+    "microsoft-sharepoint-logo": {
+      "codepoint": 58221,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftSharepointLogo"
+    },
+    "microsoft-sharepoint-logo-block": {
+      "codepoint": 58222,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftSharepointLogoBlock"
+    },
+    "microsoft-sharepoint-logo-solid": {
+      "codepoint": 58223,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftSharepointLogoSolid"
+    },
+    "microsoft-teams-logo": {
+      "codepoint": 58224,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftTeamsLogo"
+    },
+    "microsoft-teams-logo-block": {
+      "codepoint": 58225,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftTeamsLogoBlock"
+    },
+    "microsoft-teams-logo-solid": {
+      "codepoint": 58226,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftTeamsLogoSolid"
+    },
+    "microsoft-windows-logo-1": {
+      "codepoint": 58227,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftWindowsLogo1"
+    },
+    "microsoft-windows-logo-1-block": {
+      "codepoint": 58228,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftWindowsLogo1Block"
+    },
+    "microsoft-windows-logo-1-solid": {
+      "codepoint": 58229,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftWindowsLogo1Solid"
+    },
+    "microsoft-windows-logo-2": {
+      "codepoint": 58230,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftWindowsLogo2"
+    },
+    "microsoft-windows-logo-2-block": {
+      "codepoint": 58231,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftWindowsLogo2Block"
+    },
+    "microsoft-windows-logo-2-solid": {
+      "codepoint": 58232,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftWindowsLogo2Solid"
+    },
+    "microsoft-windows-logo-3": {
+      "codepoint": 58233,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftWindowsLogo3"
+    },
+    "microsoft-windows-logo-3-block": {
+      "codepoint": 58234,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftWindowsLogo3Block"
+    },
+    "microsoft-windows-logo-3-solid": {
+      "codepoint": 58235,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftWindowsLogo3Solid"
+    },
+    "microsoft-yammer-logo-1": {
+      "codepoint": 58236,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftYammerLogo1"
+    },
+    "microsoft-yammer-logo-1-block": {
+      "codepoint": 58237,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftYammerLogo1Block"
+    },
+    "microsoft-yammer-logo-1-solid": {
+      "codepoint": 58238,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftYammerLogo1Solid"
+    },
+    "microsoft-yammer-logo-2": {
+      "codepoint": 58239,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftYammerLogo2"
+    },
+    "microsoft-yammer-logo-2-block": {
+      "codepoint": 58240,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftYammerLogo2Block"
+    },
+    "microsoft-yammer-logo-2-solid": {
+      "codepoint": 58241,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftYammerLogo2Solid"
+    },
+    "midi-logo": {
+      "codepoint": 58242,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "midiLogo"
+    },
+    "midi-logo-block": {
+      "codepoint": 58243,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "midiLogoBlock"
+    },
+    "midi-logo-solid": {
+      "codepoint": 58244,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "midiLogoSolid"
+    },
+    "mixx-logo": {
+      "codepoint": 58245,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mixxLogo"
+    },
+    "mixx-logo-block": {
+      "codepoint": 58246,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mixxLogoBlock"
+    },
+    "mixx-logo-solid": {
+      "codepoint": 58247,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mixxLogoSolid"
+    },
+    "mobile-me-logo": {
+      "codepoint": 58248,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mobileMeLogo"
+    },
+    "mobile-me-logo-block": {
+      "codepoint": 58249,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mobileMeLogoBlock"
+    },
+    "mobile-me-logo-solid": {
+      "codepoint": 58250,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mobileMeLogoSolid"
+    },
+    "mr-wong-logo": {
+      "codepoint": 58251,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mrWongLogo"
+    },
+    "mr-wong-logo-block": {
+      "codepoint": 58252,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mrWongLogoBlock"
+    },
+    "mr-wong-logo-solid": {
+      "codepoint": 58253,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mrWongLogoSolid"
+    },
+    "msn-messenger-logo": {
+      "codepoint": 58254,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "msnMessengerLogo"
+    },
+    "msn-messenger-logo-block": {
+      "codepoint": 58255,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "msnMessengerLogoBlock"
+    },
+    "msn-messenger-logo-solid": {
+      "codepoint": 58256,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "msnMessengerLogoSolid"
+    },
+    "mubi-logo": {
+      "codepoint": 58257,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mubiLogo"
+    },
+    "mubi-logo-block": {
+      "codepoint": 58258,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mubiLogoBlock"
+    },
+    "mubi-logo-solid": {
+      "codepoint": 58259,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mubiLogoSolid"
+    },
+    "mx-linux-logo": {
+      "codepoint": 58260,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mxLinuxLogo"
+    },
+    "mx-linux-logo-block": {
+      "codepoint": 58261,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mxLinuxLogoBlock"
+    },
+    "mx-linux-logo-solid": {
+      "codepoint": 58262,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mxLinuxLogoSolid"
+    },
+    "my-space-logo": {
+      "codepoint": 58263,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mySpaceLogo"
+    },
+    "my-space-logo-block": {
+      "codepoint": 58264,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mySpaceLogoBlock"
+    },
+    "my-space-logo-solid": {
+      "codepoint": 58265,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "mySpaceLogoSolid"
+    },
+    "nest-wifi-logo": {
+      "codepoint": 58266,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nestWifiLogo"
+    },
+    "nest-wifi-logo-block": {
+      "codepoint": 58267,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nestWifiLogoBlock"
+    },
+    "nest-wifi-logo-solid": {
+      "codepoint": 58268,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nestWifiLogoSolid"
+    },
+    "netflix-logo": {
+      "codepoint": 58269,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "netflixLogo"
+    },
+    "netflix-logo-block": {
+      "codepoint": 58270,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "netflixLogoBlock"
+    },
+    "netflix-logo-solid": {
+      "codepoint": 58271,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "netflixLogoSolid"
+    },
+    "newsvine-logo": {
+      "codepoint": 58272,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "newsvineLogo"
+    },
+    "newsvine-logo-block": {
+      "codepoint": 58273,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "newsvineLogoBlock"
+    },
+    "newsvine-logo-solid": {
+      "codepoint": 58274,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "newsvineLogoSolid"
+    },
+    "nexopia-logo": {
+      "codepoint": 58275,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nexopiaLogo"
+    },
+    "nexopia-logo-block": {
+      "codepoint": 58276,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nexopiaLogoBlock"
+    },
+    "nexopia-logo-solid": {
+      "codepoint": 58277,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nexopiaLogoSolid"
+    },
+    "niconico-logo-1": {
+      "codepoint": 58278,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "niconicoLogo1"
+    },
+    "niconico-logo-1-block": {
+      "codepoint": 58279,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "niconicoLogo1Block"
+    },
+    "niconico-logo-1-solid": {
+      "codepoint": 58280,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "niconicoLogo1Solid"
+    },
+    "niconico-logo-2": {
+      "codepoint": 58281,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "niconicoLogo2"
+    },
+    "niconico-logo-2-block": {
+      "codepoint": 58282,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "niconicoLogo2Block"
+    },
+    "niconico-logo-2-solid": {
+      "codepoint": 58283,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "niconicoLogo2Solid"
+    },
+    "nintendo-network-logo": {
+      "codepoint": 58284,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nintendoNetworkLogo"
+    },
+    "nintendo-network-logo-block": {
+      "codepoint": 58285,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nintendoNetworkLogoBlock"
+    },
+    "nintendo-network-logo-solid": {
+      "codepoint": 58286,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nintendoNetworkLogoSolid"
+    },
+    "nintendo-switch-logo": {
+      "codepoint": 58287,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nintendoSwitchLogo"
+    },
+    "nintendo-switch-logo-block": {
+      "codepoint": 58288,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nintendoSwitchLogoBlock"
+    },
+    "nintendo-switch-logo-solid": {
+      "codepoint": 58289,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nintendoSwitchLogoSolid"
+    },
+    "nomad-list-logo": {
+      "codepoint": 58290,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nomadListLogo"
+    },
+    "nomad-list-logo-block": {
+      "codepoint": 58291,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nomadListLogoBlock"
+    },
+    "nomad-list-logo-solid": {
+      "codepoint": 58292,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nomadListLogoSolid"
+    },
+    "nuke-logo": {
+      "codepoint": 58293,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nukeLogo"
+    },
+    "nuke-logo-block": {
+      "codepoint": 58294,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nukeLogoBlock"
+    },
+    "nuke-logo-solid": {
+      "codepoint": 58295,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "nukeLogoSolid"
+    },
+    "obs-studio-logo": {
+      "codepoint": 58296,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "obsStudioLogo"
+    },
+    "obs-studio-logo-block": {
+      "codepoint": 58297,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "obsStudioLogoBlock"
+    },
+    "obs-studio-logo-solid": {
+      "codepoint": 58298,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "obsStudioLogoSolid"
+    },
+    "oculus-logo": {
+      "codepoint": 58299,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "oculusLogo"
+    },
+    "oculus-logo-block": {
+      "codepoint": 58300,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "oculusLogoBlock"
+    },
+    "oculus-logo-solid": {
+      "codepoint": 58301,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "oculusLogoSolid"
+    },
+    "odnoklassniki-logo": {
+      "codepoint": 58302,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "odnoklassnikiLogo"
+    },
+    "odnoklassniki-logo-block": {
+      "codepoint": 58303,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "odnoklassnikiLogoBlock"
+    },
+    "odnoklassniki-logo-solid": {
+      "codepoint": 58304,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "odnoklassnikiLogoSolid"
+    },
+    "open-access-logo": {
+      "codepoint": 58305,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "openAccessLogo"
+    },
+    "open-access-logo-block": {
+      "codepoint": 58306,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "openAccessLogoBlock"
+    },
+    "open-access-logo-solid": {
+      "codepoint": 58307,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "openAccessLogoSolid"
+    },
+    "open-container-initiative-logo": {
+      "codepoint": 58308,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "openContainerInitiativeLogo"
+    },
+    "open-container-initiative-logo-block": {
+      "codepoint": 58309,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "openContainerInitiativeLogoBlock"
+    },
+    "open-container-initiative-logo-solid": {
+      "codepoint": 58310,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "openContainerInitiativeLogoSolid"
+    },
+    "openai-logo": {
+      "codepoint": 58311,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "openaiLogo"
+    },
+    "openai-logo-block": {
+      "codepoint": 58312,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "openaiLogoBlock"
+    },
+    "openai-logo-solid": {
+      "codepoint": 58313,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "openaiLogoSolid"
+    },
+    "openvpn-logo": {
+      "codepoint": 58314,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "openvpnLogo"
+    },
+    "openvpn-logo-block": {
+      "codepoint": 58315,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "openvpnLogoBlock"
+    },
+    "openvpn-logo-solid": {
+      "codepoint": 58316,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "openvpnLogoSolid"
+    },
+    "oracle-logo": {
+      "codepoint": 58317,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "oracleLogo"
+    },
+    "oracle-logo-block": {
+      "codepoint": 58318,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "oracleLogoBlock"
+    },
+    "oracle-logo-solid": {
+      "codepoint": 58319,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "oracleLogoSolid"
+    },
+    "origin-logo": {
+      "codepoint": 58320,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "originLogo"
+    },
+    "origin-logo-block": {
+      "codepoint": 58321,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "originLogoBlock"
+    },
+    "origin-logo-solid": {
+      "codepoint": 58322,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "originLogoSolid"
+    },
+    "orkut-logo": {
+      "codepoint": 58323,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "orkutLogo"
+    },
+    "orkut-logo-block": {
+      "codepoint": 58324,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "orkutLogoBlock"
+    },
+    "orkut-logo-solid": {
+      "codepoint": 58325,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "orkutLogoSolid"
+    },
+    "osmc-logo": {
+      "codepoint": 58326,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "osmcLogo"
+    },
+    "osmc-logo-block": {
+      "codepoint": 58327,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "osmcLogoBlock"
+    },
+    "osmc-logo-solid": {
+      "codepoint": 58328,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "osmcLogoSolid"
+    },
+    "overcast-logo": {
+      "codepoint": 58329,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "overcastLogo"
+    },
+    "overcast-logo-block": {
+      "codepoint": 58330,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "overcastLogoBlock"
+    },
+    "overcast-logo-solid": {
+      "codepoint": 58331,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "overcastLogoSolid"
+    },
+    "path-logo": {
+      "codepoint": 58332,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pathLogo"
+    },
+    "path-logo-block": {
+      "codepoint": 58333,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pathLogoBlock"
+    },
+    "path-logo-solid": {
+      "codepoint": 58334,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pathLogoSolid"
+    },
+    "patreon-logo": {
+      "codepoint": 58335,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "patreonLogo"
+    },
+    "patreon-logo-block": {
+      "codepoint": 58336,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "patreonLogoBlock"
+    },
+    "patreon-logo-solid": {
+      "codepoint": 58337,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "patreonLogoSolid"
+    },
+    "paypal-logo": {
+      "codepoint": 58338,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "paypalLogo"
+    },
+    "paypal-logo-block": {
+      "codepoint": 58339,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "paypalLogoBlock"
+    },
+    "paypal-logo-solid": {
+      "codepoint": 58340,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "paypalLogoSolid"
+    },
+    "photobucket-logo-block": {
+      "codepoint": 58341,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "photobucketLogoBlock"
+    },
+    "photobucket-logo-solid": {
+      "codepoint": 58342,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "photobucketLogoSolid"
+    },
+    "picasa-logo": {
+      "codepoint": 58343,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "picasaLogo"
+    },
+    "picasa-logo-block": {
+      "codepoint": 58344,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "picasaLogoBlock"
+    },
+    "picasa-logo-solid": {
+      "codepoint": 58345,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "picasaLogoSolid"
+    },
+    "pingchat-logo": {
+      "codepoint": 58346,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pingchatLogo"
+    },
+    "pingchat-logo-block": {
+      "codepoint": 58347,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pingchatLogoBlock"
+    },
+    "pingchat-logo-solid": {
+      "codepoint": 58348,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pingchatLogoSolid"
+    },
+    "pinterest-logo": {
+      "codepoint": 58349,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pinterestLogo"
+    },
+    "pinterest-logo-block": {
+      "codepoint": 58350,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pinterestLogoBlock"
+    },
+    "pinterest-logo-solid": {
+      "codepoint": 58351,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pinterestLogoSolid"
+    },
+    "pixabay-logo": {
+      "codepoint": 58352,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pixabayLogo"
+    },
+    "pixabay-logo-block": {
+      "codepoint": 58353,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pixabayLogoBlock"
+    },
+    "pixabay-logo-solid": {
+      "codepoint": 58354,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pixabayLogoSolid"
+    },
+    "player-me-logo": {
+      "codepoint": 58355,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "playerMeLogo"
+    },
+    "player-me-logo-block": {
+      "codepoint": 58356,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "playerMeLogoBlock"
+    },
+    "player-me-logo-solid": {
+      "codepoint": 58357,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "playerMeLogoSolid"
+    },
+    "playerfm-logo": {
+      "codepoint": 58358,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "playerfmLogo"
+    },
+    "playerfm-logo-block": {
+      "codepoint": 58359,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "playerfmLogoBlock"
+    },
+    "playerfm-logo-solid": {
+      "codepoint": 58360,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "playerfmLogoSolid"
+    },
+    "playstation-logo": {
+      "codepoint": 58361,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "playstationLogo"
+    },
+    "playstation-logo-block": {
+      "codepoint": 58362,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "playstationLogoBlock"
+    },
+    "playstation-logo-solid": {
+      "codepoint": 58363,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "playstationLogoSolid"
+    },
+    "plurk-logo-1": {
+      "codepoint": 58364,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "plurkLogo1"
+    },
+    "plurk-logo-1-alternate-block": {
+      "codepoint": 58365,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "plurkLogo1AlternateBlock"
+    },
+    "plurk-logo-1-solid": {
+      "codepoint": 58366,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "plurkLogo1Solid"
+    },
+    "plurk-logo-2": {
+      "codepoint": 58367,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "plurkLogo2"
+    },
+    "plurk-logo-2-block": {
+      "codepoint": 58368,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "plurkLogo2Block"
+    },
+    "plurk-logo-2-solid": {
+      "codepoint": 58369,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "plurkLogo2Solid"
+    },
+    "plurk-logo-3": {
+      "codepoint": 58370,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "plurkLogo3"
+    },
+    "plurk-logo-3-block": {
+      "codepoint": 58371,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "plurkLogo3Block"
+    },
+    "plurk-logo-3-solid": {
+      "codepoint": 58372,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "plurkLogo3Solid"
+    },
+    "pocket-casts-logo": {
+      "codepoint": 58373,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pocketCastsLogo"
+    },
+    "pocket-casts-logo-block": {
+      "codepoint": 58374,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pocketCastsLogoBlock"
+    },
+    "pocket-casts-logo-solid": {
+      "codepoint": 58375,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pocketCastsLogoSolid"
+    },
+    "proto-io-logo-1": {
+      "codepoint": 58376,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "protoIoLogo1"
+    },
+    "proto-io-logo-1-block": {
+      "codepoint": 58377,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "protoIoLogo1Block"
+    },
+    "proto-io-logo-1-solid": {
+      "codepoint": 58378,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "protoIoLogo1Solid"
+    },
+    "proto-io-logo-2": {
+      "codepoint": 58379,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "protoIoLogo2"
+    },
+    "proto-io-logo-2-block": {
+      "codepoint": 58380,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "protoIoLogo2Block"
+    },
+    "proto-io-logo-2-solid": {
+      "codepoint": 58381,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "protoIoLogo2Solid"
+    },
+    "protonmail-logo-1": {
+      "codepoint": 58382,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "protonmailLogo1"
+    },
+    "protonmail-logo-1-block": {
+      "codepoint": 58383,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "protonmailLogo1Block"
+    },
+    "protonmail-logo-1-solid": {
+      "codepoint": 58384,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "protonmailLogo1Solid"
+    },
+    "protonmail-logo-2": {
+      "codepoint": 58385,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "protonmailLogo2"
+    },
+    "protonmail-logo-2-block": {
+      "codepoint": 58386,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "protonmailLogo2Block"
+    },
+    "protonmail-logo-2-solid": {
+      "codepoint": 58387,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "protonmailLogo2Solid"
+    },
+    "proxmox-logo": {
+      "codepoint": 58388,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "proxmoxLogo"
+    },
+    "proxmox-logo-block": {
+      "codepoint": 58389,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "proxmoxLogoBlock"
+    },
+    "proxmox-logo-solid": {
+      "codepoint": 58390,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "proxmoxLogoSolid"
+    },
+    "qik-logo": {
+      "codepoint": 58391,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "qikLogo"
+    },
+    "qik-logo-block": {
+      "codepoint": 58392,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "qikLogoBlock"
+    },
+    "qik-logo-solid": {
+      "codepoint": 58393,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "qikLogoSolid"
+    },
+    "qq-logo": {
+      "codepoint": 58394,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "qqLogo"
+    },
+    "qq-logo-block": {
+      "codepoint": 58395,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "qqLogoBlock"
+    },
+    "qq-logo-solid": {
+      "codepoint": 58396,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "qqLogoSolid"
+    },
+    "qualcomm-logo": {
+      "codepoint": 58397,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "qualcommLogo"
+    },
+    "qualcomm-logo-block": {
+      "codepoint": 58398,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "qualcommLogoBlock"
+    },
+    "qualcomm-logo-solid": {
+      "codepoint": 58399,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "qualcommLogoSolid"
+    },
+    "rdio-logo": {
+      "codepoint": 58400,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "rdioLogo"
+    },
+    "rdio-logo-block": {
+      "codepoint": 58401,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "rdioLogoBlock"
+    },
+    "rdio-logo-solid": {
+      "codepoint": 58402,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "rdioLogoSolid"
+    },
+    "reason-studios-logo": {
+      "codepoint": 58403,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "reasonStudiosLogo"
+    },
+    "reason-studios-logo-block": {
+      "codepoint": 58404,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "reasonStudiosLogoBlock"
+    },
+    "reason-studios-logo-solid": {
+      "codepoint": 58405,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "reasonStudiosLogoSolid"
+    },
+    "reddit-logo": {
+      "codepoint": 58406,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "redditLogo"
+    },
+    "reddit-logo-block": {
+      "codepoint": 58407,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "redditLogoBlock"
+    },
+    "reddit-logo-solid": {
+      "codepoint": 58408,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "redditLogoSolid"
+    },
+    "renren-logo-1": {
+      "codepoint": 58409,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "renrenLogo1"
+    },
+    "renren-logo-1-block": {
+      "codepoint": 58410,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "renrenLogo1Block"
+    },
+    "renren-logo-1-solid": {
+      "codepoint": 58411,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "renrenLogo1Solid"
+    },
+    "renren-logo-2": {
+      "codepoint": 58412,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "renrenLogo2"
+    },
+    "renren-logo-2-block": {
+      "codepoint": 58413,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "renrenLogo2Block"
+    },
+    "renren-logo-2-solid": {
+      "codepoint": 58414,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "renrenLogo2Solid"
+    },
+    "renren-logo-3": {
+      "codepoint": 58415,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "renrenLogo3"
+    },
+    "renren-logo-3-block": {
+      "codepoint": 58416,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "renrenLogo3Block"
+    },
+    "renren-logo-3-solid": {
+      "codepoint": 58417,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "renrenLogo3Solid"
+    },
+    "retweet-logo": {
+      "codepoint": 58418,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "retweetLogo"
+    },
+    "retweet-logo-block": {
+      "codepoint": 58419,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "retweetLogoBlock"
+    },
+    "retweet-logo-solid": {
+      "codepoint": 58420,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "retweetLogoSolid"
+    },
+    "riot-games-logo": {
+      "codepoint": 58421,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "riotGamesLogo"
+    },
+    "riot-games-logo-block": {
+      "codepoint": 58422,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "riotGamesLogoBlock"
+    },
+    "riot-games-logo-solid": {
+      "codepoint": 58423,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "riotGamesLogoSolid"
+    },
+    "rss-feed-logo": {
+      "codepoint": 58424,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "rssFeedLogo"
+    },
+    "rss-feed-logo-block": {
+      "codepoint": 58425,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "rssFeedLogoBlock"
+    },
+    "rss-feed-logo-solid": {
+      "codepoint": 58426,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "rssFeedLogoSolid"
+    },
+    "shadow-tech-logo": {
+      "codepoint": 58427,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "shadowTechLogo"
+    },
+    "shadow-tech-logo-block": {
+      "codepoint": 58428,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "shadowTechLogoBlock"
+    },
+    "shadow-tech-logo-solid": {
+      "codepoint": 58429,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "shadowTechLogoSolid"
+    },
+    "shazam-logo": {
+      "codepoint": 58430,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "shazamLogo"
+    },
+    "shazam-logo-block": {
+      "codepoint": 58431,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "shazamLogoBlock"
+    },
+    "shazam-logo-solid": {
+      "codepoint": 58432,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "shazamLogoSolid"
+    },
+    "sina-weibo-logo": {
+      "codepoint": 58433,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "sinaWeiboLogo"
+    },
+    "sina-weibo-logo-block": {
+      "codepoint": 58434,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "sinaWeiboLogoBlock"
+    },
+    "sina-weibo-logo-solid": {
+      "codepoint": 58435,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "sinaWeiboLogoSolid"
+    },
+    "sketch-logo": {
+      "codepoint": 58436,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "sketchLogo"
+    },
+    "sketch-logo-block": {
+      "codepoint": 58437,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "sketchLogoBlock"
+    },
+    "sketch-logo-solid": {
+      "codepoint": 58438,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "sketchLogoSolid"
+    },
+    "skype-logo-1": {
+      "codepoint": 58439,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "skypeLogo1"
+    },
+    "skype-logo-1-block": {
+      "codepoint": 58440,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "skypeLogo1Block"
+    },
+    "skype-logo-1-solid": {
+      "codepoint": 58441,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "skypeLogo1Solid"
+    },
+    "skype-logo-2": {
+      "codepoint": 58442,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "skypeLogo2"
+    },
+    "skype-logo-2-block": {
+      "codepoint": 58443,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "skypeLogo2Block"
+    },
+    "skype-logo-2-solid": {
+      "codepoint": 58444,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "skypeLogo2Solid"
+    },
+    "slack-logo": {
+      "codepoint": 58445,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "slackLogo"
+    },
+    "slack-logo-block": {
+      "codepoint": 58446,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "slackLogoBlock"
+    },
+    "slack-logo-solid": {
+      "codepoint": 58447,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "slackLogoSolid"
+    },
+    "slash-dot-logo": {
+      "codepoint": 58448,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "slashDotLogo"
+    },
+    "slash-dot-logo-block": {
+      "codepoint": 58449,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "slashDotLogoBlock"
+    },
+    "slash-dot-logo-solid": {
+      "codepoint": 58450,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "slashDotLogoSolid"
+    },
+    "slide-share-logo": {
+      "codepoint": 58451,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "slideShareLogo"
+    },
+    "slide-share-logo-block": {
+      "codepoint": 58452,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "slideShareLogoBlock"
+    },
+    "slide-share-logo-solid": {
+      "codepoint": 58453,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "slideShareLogoSolid"
+    },
+    "smug-mug-logo": {
+      "codepoint": 58454,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "smugMugLogo"
+    },
+    "smug-mug-logo-block": {
+      "codepoint": 58455,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "smugMugLogoBlock"
+    },
+    "smug-mug-logo-solid": {
+      "codepoint": 58456,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "smugMugLogoSolid"
+    },
+    "snapchat-logo": {
+      "codepoint": 58457,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "snapchatLogo"
+    },
+    "snapchat-logo-block": {
+      "codepoint": 58458,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "snapchatLogoBlock"
+    },
+    "snapchat-logo-solid": {
+      "codepoint": 58459,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "snapchatLogoSolid"
+    },
+    "snapdragon-logo": {
+      "codepoint": 58460,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "snapdragonLogo"
+    },
+    "snapdragon-logo-block": {
+      "codepoint": 58461,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "snapdragonLogoBlock"
+    },
+    "snapdragon-logo-solid": {
+      "codepoint": 58462,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "snapdragonLogoSolid"
+    },
+    "soundcloud-logo": {
+      "codepoint": 58463,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "soundcloudLogo"
+    },
+    "soundcloud-logo-block": {
+      "codepoint": 58464,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "soundcloudLogoBlock"
+    },
+    "soundcloud-logo-solid": {
+      "codepoint": 58465,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "soundcloudLogoSolid"
+    },
+    "spark-logo": {
+      "codepoint": 58466,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "sparkLogo"
+    },
+    "spark-logo-block": {
+      "codepoint": 58467,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "sparkLogoBlock"
+    },
+    "spark-logo-solid": {
+      "codepoint": 58468,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "sparkLogoSolid"
+    },
+    "spinrilla-logo": {
+      "codepoint": 58469,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "spinrillaLogo"
+    },
+    "spinrilla-logo-block": {
+      "codepoint": 58470,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "spinrillaLogoBlock"
+    },
+    "spinrilla-logo-solid": {
+      "codepoint": 58471,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "spinrillaLogoSolid"
+    },
+    "spotify-logo": {
+      "codepoint": 58472,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "spotifyLogo"
+    },
+    "spotify-logo-block": {
+      "codepoint": 58473,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "spotifyLogoBlock"
+    },
+    "spotify-logo-solid": {
+      "codepoint": 58474,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "spotifyLogoSolid"
+    },
+    "square-enix-logo": {
+      "codepoint": 58475,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "squareEnixLogo"
+    },
+    "square-enix-logo-block": {
+      "codepoint": 58476,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "squareEnixLogoBlock"
+    },
+    "square-enix-logo-solid": {
+      "codepoint": 58477,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "squareEnixLogoSolid"
+    },
+    "squidoo-logo": {
+      "codepoint": 58478,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "squidooLogo"
+    },
+    "squidoo-logo-block": {
+      "codepoint": 58479,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "squidooLogoBlock"
+    },
+    "squidoo-logo-solid": {
+      "codepoint": 58480,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "squidooLogoSolid"
+    },
+    "stackoverflow-logo": {
+      "codepoint": 58481,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stackoverflowLogo"
+    },
+    "stackoverflow-logo-block": {
+      "codepoint": 58482,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stackoverflowLogoBlock"
+    },
+    "stackoverflow-logo-solid": {
+      "codepoint": 58483,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stackoverflowLogoSolid"
+    },
+    "steam-logo-block": {
+      "codepoint": 58484,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "steamLogoBlock"
+    },
+    "steam-logo-solid": {
+      "codepoint": 58485,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "steamLogoSolid"
+    },
+    "steinberg-logo": {
+      "codepoint": 58486,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "steinbergLogo"
+    },
+    "steinberg-logo-block": {
+      "codepoint": 58487,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "steinbergLogoBlock"
+    },
+    "steinberg-logo-solid": {
+      "codepoint": 58488,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "steinbergLogoSolid"
+    },
+    "stellar-logo": {
+      "codepoint": 58489,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stellarLogo"
+    },
+    "stellar-logo-block": {
+      "codepoint": 58490,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stellarLogoBlock"
+    },
+    "stellar-logo-solid": {
+      "codepoint": 58491,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stellarLogoSolid"
+    },
+    "stitcher-logo-1": {
+      "codepoint": 58492,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stitcherLogo1"
+    },
+    "stitcher-logo-1-block": {
+      "codepoint": 58493,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stitcherLogo1Block"
+    },
+    "stitcher-logo-1-solid": {
+      "codepoint": 58494,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stitcherLogo1Solid"
+    },
+    "stitcher-logo-2": {
+      "codepoint": 58495,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stitcherLogo2"
+    },
+    "stitcher-logo-2-block": {
+      "codepoint": 58496,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stitcherLogo2Block"
+    },
+    "stitcher-logo-2-solid": {
+      "codepoint": 58497,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stitcherLogo2Solid"
+    },
+    "stream-logo": {
+      "codepoint": 58498,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "streamLogo"
+    },
+    "streaming-logo": {
+      "codepoint": 58499,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "streamingLogo"
+    },
+    "streaming-logo-block": {
+      "codepoint": 58500,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "streamingLogoBlock"
+    },
+    "streaming-logo-solid": {
+      "codepoint": 58501,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "streamingLogoSolid"
+    },
+    "streamplay-logo": {
+      "codepoint": 58502,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "streamplayLogo"
+    },
+    "streamplay-logo-block": {
+      "codepoint": 58503,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "streamplayLogoBlock"
+    },
+    "streamplay-logo-solid": {
+      "codepoint": 58504,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "streamplayLogoSolid"
+    },
+    "stripe-logo": {
+      "codepoint": 58505,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stripeLogo"
+    },
+    "stripe-logo-block": {
+      "codepoint": 58506,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stripeLogoBlock"
+    },
+    "stripe-logo-solid": {
+      "codepoint": 58507,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stripeLogoSolid"
+    },
+    "studen-circle-network-logo": {
+      "codepoint": 58508,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "studenCircleNetworkLogo"
+    },
+    "studen-circle-network-logo-block": {
+      "codepoint": 58509,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "studenCircleNetworkLogoBlock"
+    },
+    "studen-circle-network-logo-solid": {
+      "codepoint": 58510,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "studenCircleNetworkLogoSolid"
+    },
+    "stumble-upon-2ing-logo": {
+      "codepoint": 58511,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stumbleUpon2ingLogo"
+    },
+    "stumble-upon-2ing-logo-block": {
+      "codepoint": 58512,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stumbleUpon2ingLogoBlock"
+    },
+    "stumble-upon-2ing-logo-solid": {
+      "codepoint": 58513,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stumbleUpon2ingLogoSolid"
+    },
+    "stumble-upong-1ing-logo": {
+      "codepoint": 58514,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stumbleUpong1ingLogo"
+    },
+    "stumble-upong-1ing-logo-block": {
+      "codepoint": 58515,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stumbleUpong1ingLogoBlock"
+    },
+    "stumble-upong-1ing-logo-solid": {
+      "codepoint": 58516,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "stumbleUpong1ingLogoSolid"
+    },
+    "ted-logo": {
+      "codepoint": 58517,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tedLogo"
+    },
+    "ted-logo-block": {
+      "codepoint": 58518,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tedLogoBlock"
+    },
+    "ted-logo-solid": {
+      "codepoint": 58519,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tedLogoSolid"
+    },
+    "telegram-logo-1": {
+      "codepoint": 58520,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "telegramLogo1"
+    },
+    "telegram-logo-1-block": {
+      "codepoint": 58521,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "telegramLogo1Block"
+    },
+    "telegram-logo-1-solid": {
+      "codepoint": 58522,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "telegramLogo1Solid"
+    },
+    "telegram-logo-2": {
+      "codepoint": 58523,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "telegramLogo2"
+    },
+    "telegram-logo-2-block": {
+      "codepoint": 58524,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "telegramLogo2Block"
+    },
+    "telegram-logo-2-solid": {
+      "codepoint": 58525,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "telegramLogo2Solid"
+    },
+    "tencent-weiboing-logo": {
+      "codepoint": 58526,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tencentWeiboingLogo"
+    },
+    "tencent-weiboing-logo-block": {
+      "codepoint": 58527,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tencentWeiboingLogoBlock"
+    },
+    "tencent-weiboing-logo-solid": {
+      "codepoint": 58528,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tencentWeiboingLogoSolid"
+    },
+    "thread-block-logo-block": {
+      "codepoint": 58529,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "threadBlockLogoBlock"
+    },
+    "thread-logo": {
+      "codepoint": 58530,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "threadLogo"
+    },
+    "thread-logo-logo-solid": {
+      "codepoint": 58531,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "threadLogoLogoSolid"
+    },
+    "tidal-logo": {
+      "codepoint": 58532,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tidalLogo"
+    },
+    "tidal-logo-block": {
+      "codepoint": 58533,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tidalLogoBlock"
+    },
+    "tidal-logo-solid": {
+      "codepoint": 58534,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tidalLogoSolid"
+    },
+    "tiktok-logo": {
+      "codepoint": 58535,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tiktokLogo"
+    },
+    "tiktok-logo-block": {
+      "codepoint": 58536,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tiktokLogoBlock"
+    },
+    "tiktok-logo-solid": {
+      "codepoint": 58537,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tiktokLogoSolid"
+    },
+    "tinder-logo": {
+      "codepoint": 58538,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tinderLogo"
+    },
+    "tinder-logo-block": {
+      "codepoint": 58539,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tinderLogoBlock"
+    },
+    "tinder-logo-solid": {
+      "codepoint": 58540,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tinderLogoSolid"
+    },
+    "trello-logo": {
+      "codepoint": 58541,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "trelloLogo"
+    },
+    "trello-logo-block": {
+      "codepoint": 58542,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "trelloLogoBlock"
+    },
+    "trello-logo-solid": {
+      "codepoint": 58543,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "trelloLogoSolid"
+    },
+    "tuenti-logo": {
+      "codepoint": 58544,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tuentiLogo"
+    },
+    "tuenti-logo-block": {
+      "codepoint": 58545,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tuentiLogoBlock"
+    },
+    "tuenti-logo-solid": {
+      "codepoint": 58546,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tuentiLogoSolid"
+    },
+    "tumblr-logo": {
+      "codepoint": 58547,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tumblrLogo"
+    },
+    "tumblr-logo-block": {
+      "codepoint": 58548,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tumblrLogoBlock"
+    },
+    "tumblr-logo-solid": {
+      "codepoint": 58549,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tumblrLogoSolid"
+    },
+    "tunein-logo": {
+      "codepoint": 58550,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tuneinLogo"
+    },
+    "tunein-logo-block": {
+      "codepoint": 58551,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tuneinLogoBlock"
+    },
+    "tunein-logo-solid": {
+      "codepoint": 58552,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "tuneinLogoSolid"
+    },
+    "twitch-logo": {
+      "codepoint": 58553,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "twitchLogo"
+    },
+    "twitch-logo-block": {
+      "codepoint": 58554,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "twitchLogoBlock"
+    },
+    "twitch-logo-solid": {
+      "codepoint": 58555,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "twitchLogoSolid"
+    },
+    "twitter-logo-1": {
+      "codepoint": 58556,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "twitterLogo1"
+    },
+    "twitter-logo-1-block": {
+      "codepoint": 58557,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "twitterLogo1Block"
+    },
+    "twitter-logo-1-solid": {
+      "codepoint": 58558,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "twitterLogo1Solid"
+    },
+    "twitter-logo-2": {
+      "codepoint": 58559,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "twitterLogo2"
+    },
+    "twitter-logo-2-block": {
+      "codepoint": 58560,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "twitterLogo2Block"
+    },
+    "twitter-logo-2-solid": {
+      "codepoint": 58561,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "twitterLogo2Solid"
+    },
+    "ubisoft-logo": {
+      "codepoint": 58562,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "ubisoftLogo"
+    },
+    "ubisoft-logo-block": {
+      "codepoint": 58563,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "ubisoftLogoBlock"
+    },
+    "ubisoft-logo-solid": {
+      "codepoint": 58564,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "ubisoftLogoSolid"
+    },
+    "unreal-engine-logo": {
+      "codepoint": 58565,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "unrealEngineLogo"
+    },
+    "unreal-engine-logo-block": {
+      "codepoint": 58566,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "unrealEngineLogoBlock"
+    },
+    "unreal-engine-logo-solid": {
+      "codepoint": 58567,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "unrealEngineLogoSolid"
+    },
+    "unspash-logo": {
+      "codepoint": 58568,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "unspashLogo"
+    },
+    "unspash-logo-block": {
+      "codepoint": 58569,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "unspashLogoBlock"
+    },
+    "unspash-logo-solid": {
+      "codepoint": 58570,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "unspashLogoSolid"
+    },
+    "uplabs-logo": {
+      "codepoint": 58571,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "uplabsLogo"
+    },
+    "uplabs-logo-block": {
+      "codepoint": 58572,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "uplabsLogoBlock"
+    },
+    "uplabs-logo-solid": {
+      "codepoint": 58573,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "uplabsLogoSolid"
+    },
+    "v-kontakte-logo": {
+      "codepoint": 58574,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vKontakteLogo"
+    },
+    "v-kontakte-logo-block": {
+      "codepoint": 58575,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vKontakteLogoBlock"
+    },
+    "v-kontakte-logo-solid": {
+      "codepoint": 58576,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vKontakteLogoSolid"
+    },
+    "viddler-logo": {
+      "codepoint": 58577,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "viddlerLogo"
+    },
+    "viddler-logo-block": {
+      "codepoint": 58578,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "viddlerLogoBlock"
+    },
+    "viddler-logo-solid": {
+      "codepoint": 58579,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "viddlerLogoSolid"
+    },
+    "vimeo-logo": {
+      "codepoint": 58580,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vimeoLogo"
+    },
+    "vimeo-logo-block": {
+      "codepoint": 58581,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vimeoLogoBlock"
+    },
+    "vimeo-logo-solid": {
+      "codepoint": 58582,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vimeoLogoSolid"
+    },
+    "virustotal-logo": {
+      "codepoint": 58583,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "virustotalLogo"
+    },
+    "virustotal-logo-block": {
+      "codepoint": 58584,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "virustotalLogoBlock"
+    },
+    "virustotal-logo-solid": {
+      "codepoint": 58585,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "virustotalLogoSolid"
+    },
+    "visa-logo": {
+      "codepoint": 58586,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "visaLogo"
+    },
+    "visa-logo-block": {
+      "codepoint": 58587,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "visaLogoBlock"
+    },
+    "visa-logo-solid": {
+      "codepoint": 58588,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "visaLogoSolid"
+    },
+    "vlc-logo": {
+      "codepoint": 58589,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vlcLogo"
+    },
+    "vlc-logo-block": {
+      "codepoint": 58590,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vlcLogoBlock"
+    },
+    "vlc-logo-solid": {
+      "codepoint": 58591,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vlcLogoSolid"
+    },
+    "vodafone-logo": {
+      "codepoint": 58592,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vodafoneLogo"
+    },
+    "vodafone-logo-block": {
+      "codepoint": 58593,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vodafoneLogoBlock"
+    },
+    "vodafone-logo-solid": {
+      "codepoint": 58594,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vodafoneLogoSolid"
+    },
+    "vortex-logo-1": {
+      "codepoint": 58595,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vortexLogo1"
+    },
+    "vortex-logo-1-block": {
+      "codepoint": 58596,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vortexLogo1Block"
+    },
+    "vortex-logo-1-solid": {
+      "codepoint": 58597,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vortexLogo1Solid"
+    },
+    "vortex-logo-2": {
+      "codepoint": 58598,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vortexLogo2"
+    },
+    "vortex-logo-2-block": {
+      "codepoint": 58599,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vortexLogo2Block"
+    },
+    "vortex-logo-2-solid": {
+      "codepoint": 58600,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vortexLogo2Solid"
+    },
+    "vray-logo": {
+      "codepoint": 58601,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vrayLogo"
+    },
+    "vray-logo-block": {
+      "codepoint": 58602,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vrayLogoBlock"
+    },
+    "vray-logo-solid": {
+      "codepoint": 58603,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "vrayLogoSolid"
+    },
+    "w3-logo": {
+      "codepoint": 58604,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "w3Logo"
+    },
+    "w3-logo-block": {
+      "codepoint": 58605,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "w3LogoBlock"
+    },
+    "w3-logo-solid": {
+      "codepoint": 58606,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "w3LogoSolid"
+    },
+    "wear-os-logo": {
+      "codepoint": 58607,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wearOsLogo"
+    },
+    "wear-os-logo-block": {
+      "codepoint": 58608,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wearOsLogoBlock"
+    },
+    "wear-os-logo-solid": {
+      "codepoint": 58609,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wearOsLogoSolid"
+    },
+    "wechat-logo": {
+      "codepoint": 58610,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wechatLogo"
+    },
+    "wechat-logo-block": {
+      "codepoint": 58611,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wechatLogoBlock"
+    },
+    "wechat-logo-solid": {
+      "codepoint": 58612,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wechatLogoSolid"
+    },
+    "wechat-pay-logo": {
+      "codepoint": 58613,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wechatPayLogo"
+    },
+    "wechat-pay-logo-block": {
+      "codepoint": 58614,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wechatPayLogoBlock"
+    },
+    "wechat-pay-logo-solid": {
+      "codepoint": 58615,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wechatPayLogoSolid"
+    },
+    "wetv-logo": {
+      "codepoint": 58616,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wetvLogo"
+    },
+    "wetv-logo-block": {
+      "codepoint": 58617,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wetvLogoBlock"
+    },
+    "wetv-logo-solid": {
+      "codepoint": 58618,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wetvLogoSolid"
+    },
+    "whatsapp-logo": {
+      "codepoint": 58619,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "whatsappLogo"
+    },
+    "whatsapp-logo-block": {
+      "codepoint": 58620,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "whatsappLogoBlock"
+    },
+    "whatsapp-logo-solid": {
+      "codepoint": 58621,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "whatsappLogoSolid"
+    },
+    "whitesource-logo-1": {
+      "codepoint": 58622,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "whitesourceLogo1"
+    },
+    "whitesource-logo-1-block": {
+      "codepoint": 58623,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "whitesourceLogo1Block"
+    },
+    "whitesource-logo-1-solid": {
+      "codepoint": 58624,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "whitesourceLogo1Solid"
+    },
+    "whitesource-logo-2": {
+      "codepoint": 58625,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "whitesourceLogo2"
+    },
+    "whitesource-logo-2-block": {
+      "codepoint": 58626,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "whitesourceLogo2Block"
+    },
+    "whitesource-logo-2-solid": {
+      "codepoint": 58627,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "whitesourceLogo2Solid"
+    },
+    "whitesource-logo-3": {
+      "codepoint": 58628,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "whitesourceLogo3"
+    },
+    "whitesource-logo-3-block": {
+      "codepoint": 58629,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "whitesourceLogo3Block"
+    },
+    "whitesource-logo-3-solid": {
+      "codepoint": 58630,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "whitesourceLogo3Solid"
+    },
+    "wip-logo": {
+      "codepoint": 58631,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wipLogo"
+    },
+    "wip-logo-block": {
+      "codepoint": 58632,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wipLogoBlock"
+    },
+    "wip-logo-solid": {
+      "codepoint": 58633,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wipLogoSolid"
+    },
+    "wise-logo": {
+      "codepoint": 58634,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wiseLogo"
+    },
+    "wise-logo-block": {
+      "codepoint": 58635,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wiseLogoBlock"
+    },
+    "wise-logo-solid": {
+      "codepoint": 58636,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wiseLogoSolid"
+    },
+    "woocommerce-logo": {
+      "codepoint": 58637,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "woocommerceLogo"
+    },
+    "woocommerce-logo-block": {
+      "codepoint": 58638,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "woocommerceLogoBlock"
+    },
+    "woocommerce-logo-solid": {
+      "codepoint": 58639,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "woocommerceLogoSolid"
+    },
+    "wordpress-logo-1": {
+      "codepoint": 58640,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wordpressLogo1"
+    },
+    "wordpress-logo-1-block": {
+      "codepoint": 58641,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wordpressLogo1Block"
+    },
+    "wordpress-logo-1-solid": {
+      "codepoint": 58642,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wordpressLogo1Solid"
+    },
+    "wordpress-logo-2": {
+      "codepoint": 58643,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wordpressLogo2"
+    },
+    "wordpress-logo-2-block": {
+      "codepoint": 58644,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wordpressLogo2Block"
+    },
+    "wordpress-logo-2-solid": {
+      "codepoint": 58645,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "wordpressLogo2Solid"
+    },
+    "x-twitter-logo": {
+      "codepoint": 58646,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "xTwitterLogo"
+    },
+    "x-twitter-logo-block": {
+      "codepoint": 58647,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "xTwitterLogoBlock"
+    },
+    "x-twitter-logo-solid": {
+      "codepoint": 58648,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "xTwitterLogoSolid"
+    },
+    "xbox-live-logo": {
+      "codepoint": 58649,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "xboxLiveLogo"
+    },
+    "xbox-live-logo-block": {
+      "codepoint": 58650,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "xboxLiveLogoBlock"
+    },
+    "xbox-live-logo-solid": {
+      "codepoint": 58651,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "xboxLiveLogoSolid"
+    },
+    "xing-logo": {
+      "codepoint": 58652,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "xingLogo"
+    },
+    "xing-logo-block": {
+      "codepoint": 58653,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "xingLogoBlock"
+    },
+    "xing-logo-solid": {
+      "codepoint": 58654,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "xingLogoSolid"
+    },
+    "xsplit-logo": {
+      "codepoint": 58655,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "xsplitLogo"
+    },
+    "xsplit-logo-block": {
+      "codepoint": 58656,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "xsplitLogoBlock"
+    },
+    "xsplit-logo-solid": {
+      "codepoint": 58657,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "xsplitLogoSolid"
+    },
+    "yahoo-logo": {
+      "codepoint": 58658,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "yahooLogo"
+    },
+    "yahoo-logo-block": {
+      "codepoint": 58659,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "yahooLogoBlock"
+    },
+    "yahoo-logo-solid": {
+      "codepoint": 58660,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "yahooLogoSolid"
+    },
+    "yelp-logo": {
+      "codepoint": 58661,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "yelpLogo"
+    },
+    "yelp-logo-block": {
+      "codepoint": 58662,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "yelpLogoBlock"
+    },
+    "yelp-logo-solid": {
+      "codepoint": 58663,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "yelpLogoSolid"
+    },
+    "youtube-clip-logo": {
+      "codepoint": 58664,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeClipLogo"
+    },
+    "youtube-clip-logo-block": {
+      "codepoint": 58665,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeClipLogoBlock"
+    },
+    "youtube-clip-logo-solid": {
+      "codepoint": 58666,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeClipLogoSolid"
+    },
+    "youtube-gaming-logo-1": {
+      "codepoint": 58667,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeGamingLogo1"
+    },
+    "youtube-gaming-logo-1-block": {
+      "codepoint": 58668,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeGamingLogo1Block"
+    },
+    "youtube-gaming-logo-1-solid": {
+      "codepoint": 58669,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeGamingLogo1Solid"
+    },
+    "youtube-gaming-logo-2": {
+      "codepoint": 58670,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeGamingLogo2"
+    },
+    "youtube-gaming-logo-2-block": {
+      "codepoint": 58671,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeGamingLogo2Block"
+    },
+    "youtube-gaming-logo-2-solid": {
+      "codepoint": 58672,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeGamingLogo2Solid"
+    },
+    "youtube-gaming-logo-3": {
+      "codepoint": 58673,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeGamingLogo3"
+    },
+    "youtube-gaming-logo-3-block": {
+      "codepoint": 58674,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeGamingLogo3Block"
+    },
+    "youtube-gaming-logo-3-solid": {
+      "codepoint": 58675,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeGamingLogo3Solid"
+    },
+    "youtube-logo": {
+      "codepoint": 58676,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeLogo"
+    },
+    "youtube-logo-block": {
+      "codepoint": 58677,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeLogoBlock"
+    },
+    "youtube-logo-solid": {
+      "codepoint": 58678,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeLogoSolid"
+    },
+    "youtube-music-logo": {
+      "codepoint": 58679,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeMusicLogo"
+    },
+    "youtube-music-logo-block": {
+      "codepoint": 58680,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeMusicLogoBlock"
+    },
+    "youtube-music-logo-solid": {
+      "codepoint": 58681,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeMusicLogoSolid"
+    },
+    "youtube-studio-logo": {
+      "codepoint": 58682,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeStudioLogo"
+    },
+    "youtube-studio-logo-block": {
+      "codepoint": 58683,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeStudioLogoBlock"
+    },
+    "youtube-studio-logo-solid": {
+      "codepoint": 58684,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeStudioLogoSolid"
+    },
+    "youtube-tv-logo": {
+      "codepoint": 58685,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeTvLogo"
+    },
+    "youtube-tv-logo-block": {
+      "codepoint": 58686,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeTvLogoBlock"
+    },
+    "youtube-tv-logo-solid": {
+      "codepoint": 58687,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "youtubeTvLogoSolid"
+    },
+    "z-wave-logo": {
+      "codepoint": 58688,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zWaveLogo"
+    },
+    "z-wave-logo-block": {
+      "codepoint": 58689,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zWaveLogoBlock"
+    },
+    "z-wave-logo-solid": {
+      "codepoint": 58690,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zWaveLogoSolid"
+    },
+    "zcool-logo-1": {
+      "codepoint": 58691,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zcoolLogo1"
+    },
+    "zcool-logo-1-block": {
+      "codepoint": 58692,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zcoolLogo1Block"
+    },
+    "zcool-logo-1-solid": {
+      "codepoint": 58693,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zcoolLogo1Solid"
+    },
+    "zcool-logo-2": {
+      "codepoint": 58694,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zcoolLogo2"
+    },
+    "zcool-logo-2-block": {
+      "codepoint": 58695,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zcoolLogo2Block"
+    },
+    "zcool-logo-2-solid": {
+      "codepoint": 58696,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zcoolLogo2Solid"
+    },
+    "zoom-logo-1": {
+      "codepoint": 58697,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zoomLogo1"
+    },
+    "zoom-logo-1-block": {
+      "codepoint": 58698,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zoomLogo1Block"
+    },
+    "zoom-logo-1-solid": {
+      "codepoint": 58699,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zoomLogo1Solid"
+    },
+    "zoom-logo-2": {
+      "codepoint": 58700,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zoomLogo2"
+    },
+    "zoom-logo-2-block": {
+      "codepoint": 58701,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zoomLogo2Block"
+    },
+    "zoom-logo-2-solid": {
+      "codepoint": 58702,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zoomLogo2Solid"
+    },
+    "zootool-logo": {
+      "codepoint": 58703,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zootoolLogo"
+    },
+    "zootool-logo-block": {
+      "codepoint": 58704,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zootoolLogoBlock"
+    },
+    "zootool-logo-solid": {
+      "codepoint": 58705,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "zootoolLogoSolid"
+    }
+  }
+}

@@ -1,0 +1,408 @@
+import path from 'node:path';
+import { mkdir, writeFile, rm, readdir } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
+import pLimit from 'p-limit';
+import { Buffer } from 'node:buffer';
+
+import { log } from './log.ts';
+import {
+  loadCollections,
+  loadIconifySet,
+  resolveIcons,
+  getIconifyJsonVersion,
+  type IconifyCollection,
+  type ResolvedIcon,
+} from './load_iconify.ts';
+import { loadConfig, displayCategory, fontFamilyFromPrefix, dartFileNameFromPrefix } from './group_sets.ts';
+import {
+  readManifest,
+  writeManifest,
+  ensureManifestsDir,
+  type Manifest,
+} from './manifest.ts';
+import { allocateCodepoints } from './codepoint_allocator.ts';
+import { buildFonts } from './font_builder.ts';
+import { emitSetDart } from './dart_codegen.ts';
+import {
+  emitSetPubspec,
+  emitSetLibraryFile,
+  emitMetaPubspec,
+  emitMetaLibraryFile,
+} from './pubspec_codegen.ts';
+import { emitSetThirdPartyLicense, emitSetLicenseDart } from './license_codegen.ts';
+import { emitExampleIndex, emitExamplePubspec } from './example_codegen.ts';
+import {
+  setPackageDir,
+  setPackageFontsDir,
+  setPackageLibDir,
+  setPackageSrcDir,
+  setPackageName,
+  metaPackageDir,
+  exampleDir,
+  packagesDir,
+  repoRoot,
+} from './paths.ts';
+
+export interface PipelineOptions {
+  /** Restrict to one set (by prefix). */
+  onlySet?: string;
+  /** Only run for prefixes without an existing manifest. */
+  newOnly?: boolean;
+  /** Don't write files; print summary only. */
+  dryRun?: boolean;
+  /** Concurrency for per-set processing. */
+  concurrency?: number;
+  /** Skip the meta package + example app emission (useful for partial runs). */
+  skipMeta?: boolean;
+  /** Run a smoke set: instead of all sets, only this small list. */
+  smokeOnly?: string[];
+}
+
+export async function runPipeline(options: PipelineOptions = {}): Promise<void> {
+  const concurrency =
+    options.concurrency ?? Math.min(8, navigator.hardwareConcurrency || 4);
+
+  log.step('Loading @iconify/json');
+  const [collections, iconifyVersion, config] = await Promise.all([
+    loadCollections(),
+    getIconifyJsonVersion(),
+    loadConfig(),
+  ]);
+  log.info(`@iconify/json v${iconifyVersion}, ${Object.keys(collections).length} sets indexed`);
+
+  // Decide which sets to process.
+  const allPrefixes = Object.keys(collections).filter(
+    (p) => !config.excludedSets.includes(p)
+  );
+
+  let workPrefixes: string[];
+  if (options.onlySet) {
+    if (!allPrefixes.includes(options.onlySet)) {
+      throw new Error(`Unknown or excluded set: ${options.onlySet}`);
+    }
+    workPrefixes = [options.onlySet];
+  } else if (options.smokeOnly) {
+    workPrefixes = options.smokeOnly.filter((p) => allPrefixes.includes(p));
+  } else {
+    workPrefixes = [...allPrefixes];
+  }
+
+  if (options.newOnly) {
+    const filtered: string[] = [];
+    for (const p of workPrefixes) {
+      const existing = await readManifest(p);
+      if (!existing) filtered.push(p);
+    }
+    workPrefixes = filtered;
+  }
+
+  log.info(
+    `${allPrefixes.length} sets eligible (after exclusions); processing ${workPrefixes.length} now with concurrency=${concurrency}`
+  );
+
+  // Per-set processing.
+  await ensureManifestsDir();
+  const limit = pLimit(concurrency);
+
+  type SetResult = {
+    prefix: string;
+    manifest: Manifest;
+    ttfs: Map<string, Buffer>;
+    dartSource: string;
+  };
+
+  const results: SetResult[] = [];
+  const failures: { prefix: string; reason: string }[] = [];
+  let done = 0;
+
+  await Promise.all(
+    workPrefixes.map((prefix) =>
+      limit(async () => {
+        try {
+          const result = await processOneSet(
+            prefix,
+            collections[prefix]!,
+            iconifyVersion
+          );
+          results.push(result);
+        } catch (err) {
+          const msg = err instanceof Error ? err.message : String(err);
+          const short = msg.split('\n')[0]!.slice(0, 200);
+          failures.push({ prefix, reason: short });
+          log.warn(`Skipped "${prefix}": ${short}`);
+        } finally {
+          done += 1;
+          if (done % 10 === 0 || done === workPrefixes.length) {
+            log.info(
+              `processed ${done}/${workPrefixes.length} (failures so far: ${failures.length})`
+            );
+          }
+        }
+      })
+    )
+  );
+
+  if (failures.length > 0) {
+    log.warn(`${failures.length} sets failed to build and were skipped:`);
+    for (const f of failures) log.warn(`  ${f.prefix}: ${f.reason}`);
+  }
+
+  if (options.dryRun) {
+    log.info('--dry-run: skipping file writes. Summary:');
+    for (const r of results) {
+      const live = Object.values(r.manifest.icons).filter((i) => !i.deprecated).length;
+      log.info(`  ${r.prefix}: ${live} icons, ${r.manifest.fonts.length} font(s)`);
+    }
+    return;
+  }
+
+  log.step('Writing per-set packages');
+  for (const r of results) {
+    await writeSetPackage(r);
+  }
+
+  if (options.skipMeta) {
+    log.success('Skipping meta + example (--skip-meta).');
+    return;
+  }
+
+  // For meta + example we need the FULL set of bundled packages, not just
+  // the ones we (re)built this run. Read every manifest off disk to get the
+  // complete picture.
+  log.step('Indexing all existing manifests');
+  const allManifests = await readAllManifests();
+  log.info(`${allManifests.length} manifests on disk`);
+
+  log.step('Writing meta package');
+  await writeMetaPackage(allManifests);
+
+  log.step('Writing example app data');
+  await writeExampleData(allManifests, collections, config);
+
+  log.success('All artifacts written.');
+}
+
+async function processOneSet(
+  prefix: string,
+  collectionInfo: IconifyCollection,
+  iconifyVersion: string
+): Promise<{
+  prefix: string;
+  manifest: Manifest;
+  ttfs: Map<string, Buffer>;
+  dartSource: string;
+}> {
+  const set = await loadIconifySet(prefix);
+  const resolved = resolveIcons(set);
+
+  const resolvedByName = new Map<string, ResolvedIcon>();
+  for (const r of resolved) resolvedByName.set(r.name, r);
+
+  const previous = await readManifest(prefix);
+  const fontFamilyBase = fontFamilyFromPrefix(prefix);
+
+  const { fonts, icons } = allocateCodepoints({
+    prefix,
+    fontFamilyBase,
+    iconNames: resolved.map((r) => r.name),
+    previous,
+  });
+
+  const liveCount = Object.values(icons).filter((i) => !i.deprecated).length;
+
+  const manifest: Manifest = {
+    schemaVersion: 1,
+    prefix,
+    iconifyJsonVersion: iconifyVersion,
+    lastUpdated: new Date().toISOString().slice(0, 10),
+    category: collectionInfo.category ?? null,
+    subPackage: setPackageName(prefix),
+    info: {
+      name: collectionInfo.name,
+      author: collectionInfo.author ?? null,
+      license: collectionInfo.license ?? { title: 'Unknown' },
+      total: liveCount,
+    },
+    fonts,
+    icons,
+  };
+
+  const ttfs = await buildFonts({ manifest, resolvedByName });
+
+  const dartSource = emitSetDart({
+    manifest,
+    fontPackage: setPackageName(prefix),
+  });
+
+  return { prefix, manifest, ttfs, dartSource };
+}
+
+async function writeSetPackage(r: {
+  prefix: string;
+  manifest: Manifest;
+  ttfs: Map<string, Buffer>;
+  dartSource: string;
+}): Promise<void> {
+  const { prefix, manifest, ttfs, dartSource } = r;
+
+  await writeManifest(manifest);
+
+  // Layout: packages/iconifyx_<prefix>/{lib/, assets/fonts/}
+  await mkdir(setPackageFontsDir(prefix), { recursive: true });
+  await mkdir(path.join(setPackageSrcDir(prefix), 'sets'), { recursive: true });
+
+  // Fonts
+  for (const [family, ttf] of ttfs) {
+    await writeFile(path.join(setPackageFontsDir(prefix), `${family}.ttf`), ttf);
+  }
+
+  // Set Dart class file
+  const setFile = path.join(
+    setPackageSrcDir(prefix),
+    'sets',
+    dartFileNameFromPrefix(prefix)
+  );
+  await writeFile(setFile, dartSource, 'utf8');
+
+  // Package library file (top-level)
+  const pkgName = setPackageName(prefix);
+  await writeFile(
+    path.join(setPackageLibDir(prefix), `${pkgName}.dart`),
+    emitSetLibraryFile(manifest),
+    'utf8'
+  );
+
+  // License helpers
+  await writeFile(
+    path.join(setPackageDir(prefix), 'LICENSE-3RD-PARTY.md'),
+    emitSetThirdPartyLicense(manifest),
+    'utf8'
+  );
+  await writeFile(
+    path.join(setPackageSrcDir(prefix), 'license.dart'),
+    emitSetLicenseDart(manifest),
+    'utf8'
+  );
+
+  // Pubspec
+  await writeFile(
+    path.join(setPackageDir(prefix), 'pubspec.yaml'),
+    emitSetPubspec({ manifest }),
+    'utf8'
+  );
+}
+
+async function readAllManifests(): Promise<Manifest[]> {
+  const dir = path.resolve(import.meta.dir, '..', 'manifests');
+  if (!existsSync(dir)) return [];
+  const files = (await readdir(dir)).filter((f) => f.endsWith('.json'));
+  const manifests: Manifest[] = [];
+  for (const f of files) {
+    const prefix = f.slice(0, -'.json'.length);
+    const m = await readManifest(prefix);
+    if (m) manifests.push(m);
+  }
+  return manifests;
+}
+
+async function writeMetaPackage(manifests: Manifest[]): Promise<void> {
+  const setPackages = manifests
+    .map((m) => setPackageName(m.prefix))
+    .sort();
+
+  await mkdir(path.join(metaPackageDir(), 'lib'), { recursive: true });
+
+  await writeFile(
+    path.join(metaPackageDir(), 'pubspec.yaml'),
+    emitMetaPubspec({ setPackages }),
+    'utf8'
+  );
+  await writeFile(
+    path.join(metaPackageDir(), 'lib', 'iconifyx.dart'),
+    emitMetaLibraryFile(setPackages),
+    'utf8'
+  );
+}
+
+async function writeExampleData(
+  manifests: Manifest[],
+  collections: Record<string, IconifyCollection>,
+  config: Awaited<ReturnType<typeof loadConfig>>
+): Promise<void> {
+  const entries: { manifest: Manifest; displayCategory: string }[] = [];
+  for (const m of manifests) {
+    const info = collections[m.prefix];
+    if (!info) continue; // upstream removed; will be cleaned by --clean
+    const cat = displayCategory(m.prefix, info, config) ?? 'Uncategorized';
+    entries.push({ manifest: m, displayCategory: cat });
+  }
+
+  await mkdir(path.join(exampleDir(), 'lib'), { recursive: true });
+  await writeFile(
+    path.join(exampleDir(), 'lib', 'generated_index.dart'),
+    emitExampleIndex({ entries }),
+    'utf8'
+  );
+
+  // Example pubspec also includes every set package as a direct dep.
+  const setPackages = entries.map((e) => setPackageName(e.manifest.prefix));
+  await writeFile(
+    path.join(exampleDir(), 'pubspec.yaml'),
+    emitExamplePubspec(setPackages),
+    'utf8'
+  );
+}
+
+/**
+ * Remove generated files / directories for sets that no longer exist in
+ * @iconify/json (or moved into excludedSets). Manifests are also deleted in
+ * this case so a future re-add restarts cleanly.
+ *
+ * Idempotent and safe to call after a normal run.
+ */
+export async function cleanOrphans(): Promise<void> {
+  const collections = await loadCollections();
+  const config = await loadConfig();
+
+  const knownPrefixes = new Set(
+    Object.keys(collections).filter((p) => !config.excludedSets.includes(p))
+  );
+
+  // Drop manifest files for unknown prefixes.
+  const manifestsDir = path.resolve(import.meta.dir, '..', 'manifests');
+  if (existsSync(manifestsDir)) {
+    for (const f of await readdir(manifestsDir)) {
+      if (!f.endsWith('.json')) continue;
+      const prefix = f.slice(0, -'.json'.length);
+      if (!knownPrefixes.has(prefix)) {
+        log.warn(`Removing orphan manifest manifests/${f}`);
+        await rm(path.join(manifestsDir, f));
+      }
+    }
+  }
+
+  // Drop per-set package directories for unknown prefixes. The core + meta
+  // package directories are protected.
+  const pkgRoot = packagesDir();
+  if (existsSync(pkgRoot)) {
+    for (const entry of await readdir(pkgRoot)) {
+      if (!entry.startsWith('iconifyx_')) continue;
+      if (entry === 'iconifyx_core') continue;
+      const suffix = entry.slice('iconifyx_'.length);
+      // Reverse-derive: '_' could have been a '-' originally. We need to
+      // check if ANY known prefix maps to this suffix.
+      const matched = [...knownPrefixes].some(
+        (p) => p.replace(/-/g, '_') === suffix
+      );
+      if (!matched) {
+        log.warn(
+          `Removing orphan package package/${entry} (no matching Iconify set)`
+        );
+        await rm(path.join(pkgRoot, entry), { recursive: true, force: true });
+      }
+    }
+  }
+}
+
+// Silence unused-import warning when the variable is only used to log a path.
+void repoRoot;

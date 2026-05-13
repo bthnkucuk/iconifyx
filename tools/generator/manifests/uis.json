@@ -1,0 +1,980 @@
+{
+  "schemaVersion": 1,
+  "prefix": "uis",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_uis",
+  "info": {
+    "name": "Unicons Solid",
+    "author": {
+      "name": "Iconscout",
+      "url": "https://github.com/Iconscout/unicons"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Iconscout/unicons/blob/master/LICENSE"
+    },
+    "total": 190
+  },
+  "fonts": [
+    {
+      "family": "Uis",
+      "nextCodepoint": 57534,
+      "iconCount": 190
+    }
+  ],
+  "icons": {
+    "airplay": {
+      "codepoint": 57344,
+      "fontFamily": "Uis",
+      "identifier": "airplay"
+    },
+    "align-alt": {
+      "codepoint": 57345,
+      "fontFamily": "Uis",
+      "identifier": "alignAlt"
+    },
+    "align-center": {
+      "codepoint": 57346,
+      "fontFamily": "Uis",
+      "identifier": "alignCenter"
+    },
+    "align-center-justify": {
+      "codepoint": 57347,
+      "fontFamily": "Uis",
+      "identifier": "alignCenterJustify"
+    },
+    "align-justify": {
+      "codepoint": 57348,
+      "fontFamily": "Uis",
+      "identifier": "alignJustify"
+    },
+    "align-left": {
+      "codepoint": 57349,
+      "fontFamily": "Uis",
+      "identifier": "alignLeft"
+    },
+    "align-left-justify": {
+      "codepoint": 57350,
+      "fontFamily": "Uis",
+      "identifier": "alignLeftJustify"
+    },
+    "align-letter-right": {
+      "codepoint": 57351,
+      "fontFamily": "Uis",
+      "identifier": "alignLetterRight"
+    },
+    "align-right": {
+      "codepoint": 57352,
+      "fontFamily": "Uis",
+      "identifier": "alignRight"
+    },
+    "align-right-justify": {
+      "codepoint": 57353,
+      "fontFamily": "Uis",
+      "identifier": "alignRightJustify"
+    },
+    "analysis": {
+      "codepoint": 57354,
+      "fontFamily": "Uis",
+      "identifier": "analysis"
+    },
+    "analytics": {
+      "codepoint": 57355,
+      "fontFamily": "Uis",
+      "identifier": "analytics"
+    },
+    "anchor": {
+      "codepoint": 57356,
+      "fontFamily": "Uis",
+      "identifier": "anchor"
+    },
+    "angle-double-down": {
+      "codepoint": 57357,
+      "fontFamily": "Uis",
+      "identifier": "angleDoubleDown"
+    },
+    "angle-double-left": {
+      "codepoint": 57358,
+      "fontFamily": "Uis",
+      "identifier": "angleDoubleLeft"
+    },
+    "angle-double-right": {
+      "codepoint": 57359,
+      "fontFamily": "Uis",
+      "identifier": "angleDoubleRight"
+    },
+    "angle-double-up": {
+      "codepoint": 57360,
+      "fontFamily": "Uis",
+      "identifier": "angleDoubleUp"
+    },
+    "angle-down": {
+      "codepoint": 57361,
+      "fontFamily": "Uis",
+      "identifier": "angleDown"
+    },
+    "angle-left": {
+      "codepoint": 57362,
+      "fontFamily": "Uis",
+      "identifier": "angleLeft"
+    },
+    "angle-right": {
+      "codepoint": 57363,
+      "fontFamily": "Uis",
+      "identifier": "angleRight"
+    },
+    "angle-right-b": {
+      "codepoint": 57364,
+      "fontFamily": "Uis",
+      "identifier": "angleRightB"
+    },
+    "angle-up": {
+      "codepoint": 57365,
+      "fontFamily": "Uis",
+      "identifier": "angleUp"
+    },
+    "apps": {
+      "codepoint": 57366,
+      "fontFamily": "Uis",
+      "identifier": "apps"
+    },
+    "arrow-circle-down": {
+      "codepoint": 57367,
+      "fontFamily": "Uis",
+      "identifier": "arrowCircleDown"
+    },
+    "arrow-circle-left": {
+      "codepoint": 57368,
+      "fontFamily": "Uis",
+      "identifier": "arrowCircleLeft"
+    },
+    "arrow-circle-right": {
+      "codepoint": 57369,
+      "fontFamily": "Uis",
+      "identifier": "arrowCircleRight"
+    },
+    "arrow-circle-up": {
+      "codepoint": 57370,
+      "fontFamily": "Uis",
+      "identifier": "arrowCircleUp"
+    },
+    "arrow-down-left": {
+      "codepoint": 57371,
+      "fontFamily": "Uis",
+      "identifier": "arrowDownLeft"
+    },
+    "arrow-down-right": {
+      "codepoint": 57372,
+      "fontFamily": "Uis",
+      "identifier": "arrowDownRight"
+    },
+    "arrow-up-left": {
+      "codepoint": 57373,
+      "fontFamily": "Uis",
+      "identifier": "arrowUpLeft"
+    },
+    "arrow-up-right": {
+      "codepoint": 57374,
+      "fontFamily": "Uis",
+      "identifier": "arrowUpRight"
+    },
+    "at": {
+      "codepoint": 57375,
+      "fontFamily": "Uis",
+      "identifier": "at"
+    },
+    "bag": {
+      "codepoint": 57376,
+      "fontFamily": "Uis",
+      "identifier": "bag"
+    },
+    "bars": {
+      "codepoint": 57377,
+      "fontFamily": "Uis",
+      "identifier": "bars"
+    },
+    "battery-bolt": {
+      "codepoint": 57378,
+      "fontFamily": "Uis",
+      "identifier": "batteryBolt"
+    },
+    "battery-empty": {
+      "codepoint": 57379,
+      "fontFamily": "Uis",
+      "identifier": "batteryEmpty"
+    },
+    "bookmark": {
+      "codepoint": 57380,
+      "fontFamily": "Uis",
+      "identifier": "bookmark"
+    },
+    "border-alt": {
+      "codepoint": 57381,
+      "fontFamily": "Uis",
+      "identifier": "borderAlt"
+    },
+    "border-bottom": {
+      "codepoint": 57382,
+      "fontFamily": "Uis",
+      "identifier": "borderBottom"
+    },
+    "border-clear": {
+      "codepoint": 57383,
+      "fontFamily": "Uis",
+      "identifier": "borderClear"
+    },
+    "border-horizontal": {
+      "codepoint": 57384,
+      "fontFamily": "Uis",
+      "identifier": "borderHorizontal"
+    },
+    "border-inner": {
+      "codepoint": 57385,
+      "fontFamily": "Uis",
+      "identifier": "borderInner"
+    },
+    "border-left": {
+      "codepoint": 57386,
+      "fontFamily": "Uis",
+      "identifier": "borderLeft"
+    },
+    "border-out": {
+      "codepoint": 57387,
+      "fontFamily": "Uis",
+      "identifier": "borderOut"
+    },
+    "border-right": {
+      "codepoint": 57388,
+      "fontFamily": "Uis",
+      "identifier": "borderRight"
+    },
+    "border-top": {
+      "codepoint": 57389,
+      "fontFamily": "Uis",
+      "identifier": "borderTop"
+    },
+    "border-vertical": {
+      "codepoint": 57390,
+      "fontFamily": "Uis",
+      "identifier": "borderVertical"
+    },
+    "briefcase": {
+      "codepoint": 57391,
+      "fontFamily": "Uis",
+      "identifier": "briefcase"
+    },
+    "calendar": {
+      "codepoint": 57392,
+      "fontFamily": "Uis",
+      "identifier": "calendar"
+    },
+    "calender": {
+      "codepoint": 57393,
+      "fontFamily": "Uis",
+      "identifier": "calender"
+    },
+    "chart": {
+      "codepoint": 57394,
+      "fontFamily": "Uis",
+      "identifier": "chart"
+    },
+    "chart-pie": {
+      "codepoint": 57395,
+      "fontFamily": "Uis",
+      "identifier": "chartPie"
+    },
+    "check": {
+      "codepoint": 57396,
+      "fontFamily": "Uis",
+      "identifier": "check"
+    },
+    "check-circle": {
+      "codepoint": 57397,
+      "fontFamily": "Uis",
+      "identifier": "checkCircle"
+    },
+    "check-square": {
+      "codepoint": 57398,
+      "fontFamily": "Uis",
+      "identifier": "checkSquare"
+    },
+    "circle-layer": {
+      "codepoint": 57399,
+      "fontFamily": "Uis",
+      "identifier": "circleLayer"
+    },
+    "clinic-medical": {
+      "codepoint": 57400,
+      "fontFamily": "Uis",
+      "identifier": "clinicMedical"
+    },
+    "clock": {
+      "codepoint": 57401,
+      "fontFamily": "Uis",
+      "identifier": "clock"
+    },
+    "clock-eight": {
+      "codepoint": 57402,
+      "fontFamily": "Uis",
+      "identifier": "clockEight"
+    },
+    "clock-five": {
+      "codepoint": 57403,
+      "fontFamily": "Uis",
+      "identifier": "clockFive"
+    },
+    "clock-nine": {
+      "codepoint": 57404,
+      "fontFamily": "Uis",
+      "identifier": "clockNine"
+    },
+    "clock-seven": {
+      "codepoint": 57405,
+      "fontFamily": "Uis",
+      "identifier": "clockSeven"
+    },
+    "clock-ten": {
+      "codepoint": 57406,
+      "fontFamily": "Uis",
+      "identifier": "clockTen"
+    },
+    "clock-three": {
+      "codepoint": 57407,
+      "fontFamily": "Uis",
+      "identifier": "clockThree"
+    },
+    "clock-two": {
+      "codepoint": 57408,
+      "fontFamily": "Uis",
+      "identifier": "clockTwo"
+    },
+    "columns": {
+      "codepoint": 57409,
+      "fontFamily": "Uis",
+      "identifier": "columns"
+    },
+    "comment-dots": {
+      "codepoint": 57410,
+      "fontFamily": "Uis",
+      "identifier": "commentDots"
+    },
+    "compress": {
+      "codepoint": 57411,
+      "fontFamily": "Uis",
+      "identifier": "compress"
+    },
+    "corner-down-left": {
+      "codepoint": 57412,
+      "fontFamily": "Uis",
+      "identifier": "cornerDownLeft"
+    },
+    "corner-down-right": {
+      "codepoint": 57413,
+      "fontFamily": "Uis",
+      "identifier": "cornerDownRight"
+    },
+    "corner-left-down": {
+      "codepoint": 57414,
+      "fontFamily": "Uis",
+      "identifier": "cornerLeftDown"
+    },
+    "corner-right-down": {
+      "codepoint": 57415,
+      "fontFamily": "Uis",
+      "identifier": "cornerRightDown"
+    },
+    "corner-up-left": {
+      "codepoint": 57416,
+      "fontFamily": "Uis",
+      "identifier": "cornerUpLeft"
+    },
+    "corner-up-right": {
+      "codepoint": 57417,
+      "fontFamily": "Uis",
+      "identifier": "cornerUpRight"
+    },
+    "coronavirus": {
+      "codepoint": 57418,
+      "fontFamily": "Uis",
+      "identifier": "coronavirus"
+    },
+    "dialpad": {
+      "codepoint": 57419,
+      "fontFamily": "Uis",
+      "identifier": "dialpad"
+    },
+    "direction": {
+      "codepoint": 57420,
+      "fontFamily": "Uis",
+      "identifier": "direction"
+    },
+    "document-layout-center": {
+      "codepoint": 57421,
+      "fontFamily": "Uis",
+      "identifier": "documentLayoutCenter"
+    },
+    "document-layout-left": {
+      "codepoint": 57422,
+      "fontFamily": "Uis",
+      "identifier": "documentLayoutLeft"
+    },
+    "document-layout-right": {
+      "codepoint": 57423,
+      "fontFamily": "Uis",
+      "identifier": "documentLayoutRight"
+    },
+    "download-alt": {
+      "codepoint": 57424,
+      "fontFamily": "Uis",
+      "identifier": "downloadAlt"
+    },
+    "ellipsis-h": {
+      "codepoint": 57425,
+      "fontFamily": "Uis",
+      "identifier": "ellipsisH"
+    },
+    "ellipsis-v": {
+      "codepoint": 57426,
+      "fontFamily": "Uis",
+      "identifier": "ellipsisV"
+    },
+    "exclamation-circle": {
+      "codepoint": 57427,
+      "fontFamily": "Uis",
+      "identifier": "exclamationCircle"
+    },
+    "exclamation-octagon": {
+      "codepoint": 57428,
+      "fontFamily": "Uis",
+      "identifier": "exclamationOctagon"
+    },
+    "exclamation-triangle": {
+      "codepoint": 57429,
+      "fontFamily": "Uis",
+      "identifier": "exclamationTriangle"
+    },
+    "favorite": {
+      "codepoint": 57430,
+      "fontFamily": "Uis",
+      "identifier": "favorite"
+    },
+    "flip-h": {
+      "codepoint": 57431,
+      "fontFamily": "Uis",
+      "identifier": "flipH"
+    },
+    "flip-h-alt": {
+      "codepoint": 57432,
+      "fontFamily": "Uis",
+      "identifier": "flipHAlt"
+    },
+    "flip-v": {
+      "codepoint": 57433,
+      "fontFamily": "Uis",
+      "identifier": "flipV"
+    },
+    "flip-v-alt": {
+      "codepoint": 57434,
+      "fontFamily": "Uis",
+      "identifier": "flipVAlt"
+    },
+    "graph-bar": {
+      "codepoint": 57435,
+      "fontFamily": "Uis",
+      "identifier": "graphBar"
+    },
+    "grid": {
+      "codepoint": 57436,
+      "fontFamily": "Uis",
+      "identifier": "grid"
+    },
+    "grids": {
+      "codepoint": 57437,
+      "fontFamily": "Uis",
+      "identifier": "grids"
+    },
+    "grip-horizontal-line": {
+      "codepoint": 57438,
+      "fontFamily": "Uis",
+      "identifier": "gripHorizontalLine"
+    },
+    "head-side": {
+      "codepoint": 57439,
+      "fontFamily": "Uis",
+      "identifier": "headSide"
+    },
+    "head-side-cough": {
+      "codepoint": 57440,
+      "fontFamily": "Uis",
+      "identifier": "headSideCough"
+    },
+    "head-side-mask": {
+      "codepoint": 57441,
+      "fontFamily": "Uis",
+      "identifier": "headSideMask"
+    },
+    "history": {
+      "codepoint": 57442,
+      "fontFamily": "Uis",
+      "identifier": "history"
+    },
+    "history-alt": {
+      "codepoint": 57443,
+      "fontFamily": "Uis",
+      "identifier": "historyAlt"
+    },
+    "horizontal-align-left": {
+      "codepoint": 57444,
+      "fontFamily": "Uis",
+      "identifier": "horizontalAlignLeft"
+    },
+    "hospital": {
+      "codepoint": 57445,
+      "fontFamily": "Uis",
+      "identifier": "hospital"
+    },
+    "hospital-square-sign": {
+      "codepoint": 57446,
+      "fontFamily": "Uis",
+      "identifier": "hospitalSquareSign"
+    },
+    "hospital-symbol": {
+      "codepoint": 57447,
+      "fontFamily": "Uis",
+      "identifier": "hospitalSymbol"
+    },
+    "house-user": {
+      "codepoint": 57448,
+      "fontFamily": "Uis",
+      "identifier": "houseUser"
+    },
+    "image-v": {
+      "codepoint": 57449,
+      "fontFamily": "Uis",
+      "identifier": "imageV"
+    },
+    "key-skeleton": {
+      "codepoint": 57450,
+      "fontFamily": "Uis",
+      "identifier": "keySkeleton"
+    },
+    "key-skeleton-alt": {
+      "codepoint": 57451,
+      "fontFamily": "Uis",
+      "identifier": "keySkeletonAlt"
+    },
+    "keyhole-circle": {
+      "codepoint": 57452,
+      "fontFamily": "Uis",
+      "identifier": "keyholeCircle"
+    },
+    "keyhole-square": {
+      "codepoint": 57453,
+      "fontFamily": "Uis",
+      "identifier": "keyholeSquare"
+    },
+    "keyhole-square-full": {
+      "codepoint": 57454,
+      "fontFamily": "Uis",
+      "identifier": "keyholeSquareFull"
+    },
+    "layer-group": {
+      "codepoint": 57455,
+      "fontFamily": "Uis",
+      "identifier": "layerGroup"
+    },
+    "layers-alt": {
+      "codepoint": 57456,
+      "fontFamily": "Uis",
+      "identifier": "layersAlt"
+    },
+    "left-indent": {
+      "codepoint": 57457,
+      "fontFamily": "Uis",
+      "identifier": "leftIndent"
+    },
+    "left-indent-alt": {
+      "codepoint": 57458,
+      "fontFamily": "Uis",
+      "identifier": "leftIndentAlt"
+    },
+    "line-spacing": {
+      "codepoint": 57459,
+      "fontFamily": "Uis",
+      "identifier": "lineSpacing"
+    },
+    "link-h": {
+      "codepoint": 57460,
+      "fontFamily": "Uis",
+      "identifier": "linkH"
+    },
+    "list-ui-alt": {
+      "codepoint": 57461,
+      "fontFamily": "Uis",
+      "identifier": "listUiAlt"
+    },
+    "list-ul": {
+      "codepoint": 57462,
+      "fontFamily": "Uis",
+      "identifier": "listUl"
+    },
+    "lock": {
+      "codepoint": 57463,
+      "fontFamily": "Uis",
+      "identifier": "lock"
+    },
+    "lock-access": {
+      "codepoint": 57464,
+      "fontFamily": "Uis",
+      "identifier": "lockAccess"
+    },
+    "lock-alt": {
+      "codepoint": 57465,
+      "fontFamily": "Uis",
+      "identifier": "lockAlt"
+    },
+    "lock-open-alt": {
+      "codepoint": 57466,
+      "fontFamily": "Uis",
+      "identifier": "lockOpenAlt"
+    },
+    "microscope": {
+      "codepoint": 57467,
+      "fontFamily": "Uis",
+      "identifier": "microscope"
+    },
+    "minus-square-full": {
+      "codepoint": 57468,
+      "fontFamily": "Uis",
+      "identifier": "minusSquareFull"
+    },
+    "multiply": {
+      "codepoint": 57469,
+      "fontFamily": "Uis",
+      "identifier": "multiply"
+    },
+    "object-group": {
+      "codepoint": 57470,
+      "fontFamily": "Uis",
+      "identifier": "objectGroup"
+    },
+    "object-ungroup": {
+      "codepoint": 57471,
+      "fontFamily": "Uis",
+      "identifier": "objectUngroup"
+    },
+    "padlock": {
+      "codepoint": 57472,
+      "fontFamily": "Uis",
+      "identifier": "padlock"
+    },
+    "paperclip": {
+      "codepoint": 57473,
+      "fontFamily": "Uis",
+      "identifier": "paperclip"
+    },
+    "paragraph": {
+      "codepoint": 57474,
+      "fontFamily": "Uis",
+      "identifier": "paragraph"
+    },
+    "pentagon": {
+      "codepoint": 57475,
+      "fontFamily": "Uis",
+      "identifier": "pentagon"
+    },
+    "polygon": {
+      "codepoint": 57476,
+      "fontFamily": "Uis",
+      "identifier": "polygon"
+    },
+    "previous": {
+      "codepoint": 57477,
+      "fontFamily": "Uis",
+      "identifier": "previous"
+    },
+    "process": {
+      "codepoint": 57478,
+      "fontFamily": "Uis",
+      "identifier": "process"
+    },
+    "record-audio": {
+      "codepoint": 57479,
+      "fontFamily": "Uis",
+      "identifier": "recordAudio"
+    },
+    "redo": {
+      "codepoint": 57480,
+      "fontFamily": "Uis",
+      "identifier": "redo"
+    },
+    "refresh": {
+      "codepoint": 57481,
+      "fontFamily": "Uis",
+      "identifier": "refresh"
+    },
+    "repeat": {
+      "codepoint": 57482,
+      "fontFamily": "Uis",
+      "identifier": "repeat"
+    },
+    "right-indent": {
+      "codepoint": 57483,
+      "fontFamily": "Uis",
+      "identifier": "rightIndent"
+    },
+    "right-indent-alt": {
+      "codepoint": 57484,
+      "fontFamily": "Uis",
+      "identifier": "rightIndentAlt"
+    },
+    "rocket": {
+      "codepoint": 57485,
+      "fontFamily": "Uis",
+      "identifier": "rocket"
+    },
+    "ruler": {
+      "codepoint": 57486,
+      "fontFamily": "Uis",
+      "identifier": "ruler"
+    },
+    "ruler-combined": {
+      "codepoint": 57487,
+      "fontFamily": "Uis",
+      "identifier": "rulerCombined"
+    },
+    "sanitizer": {
+      "codepoint": 57488,
+      "fontFamily": "Uis",
+      "identifier": "sanitizer"
+    },
+    "sanitizer-alt": {
+      "codepoint": 57489,
+      "fontFamily": "Uis",
+      "identifier": "sanitizerAlt"
+    },
+    "scenery": {
+      "codepoint": 57490,
+      "fontFamily": "Uis",
+      "identifier": "scenery"
+    },
+    "schedule": {
+      "codepoint": 57491,
+      "fontFamily": "Uis",
+      "identifier": "schedule"
+    },
+    "shield-plus": {
+      "codepoint": 57492,
+      "fontFamily": "Uis",
+      "identifier": "shieldPlus"
+    },
+    "signal-alt": {
+      "codepoint": 57493,
+      "fontFamily": "Uis",
+      "identifier": "signalAlt"
+    },
+    "signal-alt-3": {
+      "codepoint": 57494,
+      "fontFamily": "Uis",
+      "identifier": "signalAlt3"
+    },
+    "signout": {
+      "codepoint": 57495,
+      "fontFamily": "Uis",
+      "identifier": "signout"
+    },
+    "social-distancing": {
+      "codepoint": 57496,
+      "fontFamily": "Uis",
+      "identifier": "socialDistancing"
+    },
+    "sorting": {
+      "codepoint": 57497,
+      "fontFamily": "Uis",
+      "identifier": "sorting"
+    },
+    "space-key": {
+      "codepoint": 57498,
+      "fontFamily": "Uis",
+      "identifier": "spaceKey"
+    },
+    "square-full": {
+      "codepoint": 57499,
+      "fontFamily": "Uis",
+      "identifier": "squareFull"
+    },
+    "star": {
+      "codepoint": 57500,
+      "fontFamily": "Uis",
+      "identifier": "star"
+    },
+    "star-half-alt": {
+      "codepoint": 57501,
+      "fontFamily": "Uis",
+      "identifier": "starHalfAlt"
+    },
+    "step-forward": {
+      "codepoint": 57502,
+      "fontFamily": "Uis",
+      "identifier": "stepForward"
+    },
+    "stethoscope": {
+      "codepoint": 57503,
+      "fontFamily": "Uis",
+      "identifier": "stethoscope"
+    },
+    "stethoscope-alt": {
+      "codepoint": 57504,
+      "fontFamily": "Uis",
+      "identifier": "stethoscopeAlt"
+    },
+    "stopwatch": {
+      "codepoint": 57505,
+      "fontFamily": "Uis",
+      "identifier": "stopwatch"
+    },
+    "store-slash": {
+      "codepoint": 57506,
+      "fontFamily": "Uis",
+      "identifier": "storeSlash"
+    },
+    "subject": {
+      "codepoint": 57507,
+      "fontFamily": "Uis",
+      "identifier": "subject"
+    },
+    "sync-exclamation": {
+      "codepoint": 57508,
+      "fontFamily": "Uis",
+      "identifier": "syncExclamation"
+    },
+    "sync-slash": {
+      "codepoint": 57509,
+      "fontFamily": "Uis",
+      "identifier": "syncSlash"
+    },
+    "table": {
+      "codepoint": 57510,
+      "fontFamily": "Uis",
+      "identifier": "table"
+    },
+    "th-large": {
+      "codepoint": 57511,
+      "fontFamily": "Uis",
+      "identifier": "thLarge"
+    },
+    "times-circle": {
+      "codepoint": 57512,
+      "fontFamily": "Uis",
+      "identifier": "timesCircle"
+    },
+    "toggle-off": {
+      "codepoint": 57513,
+      "fontFamily": "Uis",
+      "identifier": "toggleOff"
+    },
+    "toggle-on": {
+      "codepoint": 57514,
+      "fontFamily": "Uis",
+      "identifier": "toggleOn"
+    },
+    "toilet-paper": {
+      "codepoint": 57515,
+      "fontFamily": "Uis",
+      "identifier": "toiletPaper"
+    },
+    "triangle": {
+      "codepoint": 57516,
+      "fontFamily": "Uis",
+      "identifier": "triangle"
+    },
+    "unlock": {
+      "codepoint": 57517,
+      "fontFamily": "Uis",
+      "identifier": "unlock"
+    },
+    "unlock-alt": {
+      "codepoint": 57518,
+      "fontFamily": "Uis",
+      "identifier": "unlockAlt"
+    },
+    "upload-alt": {
+      "codepoint": 57519,
+      "fontFamily": "Uis",
+      "identifier": "uploadAlt"
+    },
+    "user-arrows": {
+      "codepoint": 57520,
+      "fontFamily": "Uis",
+      "identifier": "userArrows"
+    },
+    "user-md": {
+      "codepoint": 57521,
+      "fontFamily": "Uis",
+      "identifier": "userMd"
+    },
+    "user-nurse": {
+      "codepoint": 57522,
+      "fontFamily": "Uis",
+      "identifier": "userNurse"
+    },
+    "vector-square": {
+      "codepoint": 57523,
+      "fontFamily": "Uis",
+      "identifier": "vectorSquare"
+    },
+    "vector-square-alt": {
+      "codepoint": 57524,
+      "fontFamily": "Uis",
+      "identifier": "vectorSquareAlt"
+    },
+    "virus-slash": {
+      "codepoint": 57525,
+      "fontFamily": "Uis",
+      "identifier": "virusSlash"
+    },
+    "web-grid": {
+      "codepoint": 57526,
+      "fontFamily": "Uis",
+      "identifier": "webGrid"
+    },
+    "web-grid-alt": {
+      "codepoint": 57527,
+      "fontFamily": "Uis",
+      "identifier": "webGridAlt"
+    },
+    "web-section": {
+      "codepoint": 57528,
+      "fontFamily": "Uis",
+      "identifier": "webSection"
+    },
+    "web-section-alt": {
+      "codepoint": 57529,
+      "fontFamily": "Uis",
+      "identifier": "webSectionAlt"
+    },
+    "window-grid": {
+      "codepoint": 57530,
+      "fontFamily": "Uis",
+      "identifier": "windowGrid"
+    },
+    "window-maximize": {
+      "codepoint": 57531,
+      "fontFamily": "Uis",
+      "identifier": "windowMaximize"
+    },
+    "window-section": {
+      "codepoint": 57532,
+      "fontFamily": "Uis",
+      "identifier": "windowSection"
+    },
+    "wrap-text": {
+      "codepoint": 57533,
+      "fontFamily": "Uis",
+      "identifier": "wrapText"
+    }
+  }
+}

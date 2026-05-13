@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "prefix": "ei",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_ei",
+  "info": {
+    "name": "Evil Icons",
+    "author": {
+      "name": "Alexander Madyankin and Roman Shamin",
+      "url": "https://github.com/evil-icons/evil-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/evil-icons/evil-icons/blob/master/LICENSE.txt"
+    },
+    "total": 70
+  },
+  "fonts": [
+    {
+      "family": "Ei",
+      "nextCodepoint": 57414,
+      "iconCount": 70
+    }
+  ],
+  "icons": {
+    "archive": {
+      "codepoint": 57344,
+      "fontFamily": "Ei",
+      "identifier": "archive"
+    },
+    "arrow-down": {
+      "codepoint": 57345,
+      "fontFamily": "Ei",
+      "identifier": "arrowDown"
+    },
+    "arrow-left": {
+      "codepoint": 57346,
+      "fontFamily": "Ei",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57347,
+      "fontFamily": "Ei",
+      "identifier": "arrowRight"
+    },
+    "arrow-up": {
+      "codepoint": 57348,
+      "fontFamily": "Ei",
+      "identifier": "arrowUp"
+    },
+    "bell": {
+      "codepoint": 57349,
+      "fontFamily": "Ei",
+      "identifier": "bell"
+    },
+    "calendar": {
+      "codepoint": 57350,
+      "fontFamily": "Ei",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57351,
+      "fontFamily": "Ei",
+      "identifier": "camera"
+    },
+    "cart": {
+      "codepoint": 57352,
+      "fontFamily": "Ei",
+      "identifier": "cart"
+    },
+    "chart": {
+      "codepoint": 57353,
+      "fontFamily": "Ei",
+      "identifier": "chart"
+    },
+    "check": {
+      "codepoint": 57354,
+      "fontFamily": "Ei",
+      "identifier": "check"
+    },
+    "chevron-down": {
+      "codepoint": 57355,
+      "fontFamily": "Ei",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57356,
+      "fontFamily": "Ei",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57357,
+      "fontFamily": "Ei",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57358,
+      "fontFamily": "Ei",
+      "identifier": "chevronUp"
+    },
+    "clock": {
+      "codepoint": 57359,
+      "fontFamily": "Ei",
+      "identifier": "clock"
+    },
+    "close": {
+      "codepoint": 57360,
+      "fontFamily": "Ei",
+      "identifier": "close"
+    },
+    "close-o": {
+      "codepoint": 57361,
+      "fontFamily": "Ei",
+      "identifier": "closeO"
+    },
+    "comment": {
+      "codepoint": 57362,
+      "fontFamily": "Ei",
+      "identifier": "comment"
+    },
+    "credit-card": {
+      "codepoint": 57363,
+      "fontFamily": "Ei",
+      "identifier": "creditCard"
+    },
+    "envelope": {
+      "codepoint": 57364,
+      "fontFamily": "Ei",
+      "identifier": "envelope"
+    },
+    "exclamation": {
+      "codepoint": 57365,
+      "fontFamily": "Ei",
+      "identifier": "exclamation"
+    },
+    "external-link": {
+      "codepoint": 57366,
+      "fontFamily": "Ei",
+      "identifier": "externalLink"
+    },
+    "eye": {
+      "codepoint": 57367,
+      "fontFamily": "Ei",
+      "identifier": "eye"
+    },
+    "gear": {
+      "codepoint": 57368,
+      "fontFamily": "Ei",
+      "identifier": "gear"
+    },
+    "heart": {
+      "codepoint": 57369,
+      "fontFamily": "Ei",
+      "identifier": "heart"
+    },
+    "image": {
+      "codepoint": 57370,
+      "fontFamily": "Ei",
+      "identifier": "image"
+    },
+    "like": {
+      "codepoint": 57371,
+      "fontFamily": "Ei",
+      "identifier": "like"
+    },
+    "link": {
+      "codepoint": 57372,
+      "fontFamily": "Ei",
+      "identifier": "link"
+    },
+    "location": {
+      "codepoint": 57373,
+      "fontFamily": "Ei",
+      "identifier": "location"
+    },
+    "lock": {
+      "codepoint": 57374,
+      "fontFamily": "Ei",
+      "identifier": "lock"
+    },
+    "minus": {
+      "codepoint": 57375,
+      "fontFamily": "Ei",
+      "identifier": "minus"
+    },
+    "navicon": {
+      "codepoint": 57376,
+      "fontFamily": "Ei",
+      "identifier": "navicon"
+    },
+    "paperclip": {
+      "codepoint": 57377,
+      "fontFamily": "Ei",
+      "identifier": "paperclip"
+    },
+    "pencil": {
+      "codepoint": 57378,
+      "fontFamily": "Ei",
+      "identifier": "pencil"
+    },
+    "play": {
+      "codepoint": 57379,
+      "fontFamily": "Ei",
+      "identifier": "play"
+    },
+    "plus": {
+      "codepoint": 57380,
+      "fontFamily": "Ei",
+      "identifier": "plus"
+    },
+    "pointer": {
+      "codepoint": 57381,
+      "fontFamily": "Ei",
+      "identifier": "pointer"
+    },
+    "question": {
+      "codepoint": 57382,
+      "fontFamily": "Ei",
+      "identifier": "question"
+    },
+    "redo": {
+      "codepoint": 57383,
+      "fontFamily": "Ei",
+      "identifier": "redo"
+    },
+    "refresh": {
+      "codepoint": 57384,
+      "fontFamily": "Ei",
+      "identifier": "refresh"
+    },
+    "retweet": {
+      "codepoint": 57385,
+      "fontFamily": "Ei",
+      "identifier": "retweet"
+    },
+    "sc-facebook": {
+      "codepoint": 57386,
+      "fontFamily": "Ei",
+      "identifier": "scFacebook"
+    },
+    "sc-github": {
+      "codepoint": 57387,
+      "fontFamily": "Ei",
+      "identifier": "scGithub"
+    },
+    "sc-google-plus": {
+      "codepoint": 57388,
+      "fontFamily": "Ei",
+      "identifier": "scGooglePlus"
+    },
+    "sc-instagram": {
+      "codepoint": 57389,
+      "fontFamily": "Ei",
+      "identifier": "scInstagram"
+    },
+    "sc-linkedin": {
+      "codepoint": 57390,
+      "fontFamily": "Ei",
+      "identifier": "scLinkedin"
+    },
+    "sc-odnoklassniki": {
+      "codepoint": 57391,
+      "fontFamily": "Ei",
+      "identifier": "scOdnoklassniki"
+    },
+    "sc-pinterest": {
+      "codepoint": 57392,
+      "fontFamily": "Ei",
+      "identifier": "scPinterest"
+    },
+    "sc-skype": {
+      "codepoint": 57393,
+      "fontFamily": "Ei",
+      "identifier": "scSkype"
+    },
+    "sc-soundcloud": {
+      "codepoint": 57394,
+      "fontFamily": "Ei",
+      "identifier": "scSoundcloud"
+    },
+    "sc-telegram": {
+      "codepoint": 57395,
+      "fontFamily": "Ei",
+      "identifier": "scTelegram"
+    },
+    "sc-tumblr": {
+      "codepoint": 57396,
+      "fontFamily": "Ei",
+      "identifier": "scTumblr"
+    },
+    "sc-twitter": {
+      "codepoint": 57397,
+      "fontFamily": "Ei",
+      "identifier": "scTwitter"
+    },
+    "sc-vimeo": {
+      "codepoint": 57398,
+      "fontFamily": "Ei",
+      "identifier": "scVimeo"
+    },
+    "sc-vk": {
+      "codepoint": 57399,
+      "fontFamily": "Ei",
+      "identifier": "scVk"
+    },
+    "sc-youtube": {
+      "codepoint": 57400,
+      "fontFamily": "Ei",
+      "identifier": "scYoutube"
+    },
+    "search": {
+      "codepoint": 57401,
+      "fontFamily": "Ei",
+      "identifier": "search"
+    },
+    "share-apple": {
+      "codepoint": 57402,
+      "fontFamily": "Ei",
+      "identifier": "shareApple"
+    },
+    "share-google": {
+      "codepoint": 57403,
+      "fontFamily": "Ei",
+      "identifier": "shareGoogle"
+    },
+    "spinner": {
+      "codepoint": 57404,
+      "fontFamily": "Ei",
+      "identifier": "spinner"
+    },
+    "spinner-2": {
+      "codepoint": 57405,
+      "fontFamily": "Ei",
+      "identifier": "spinner2"
+    },
+    "spinner-3": {
+      "codepoint": 57406,
+      "fontFamily": "Ei",
+      "identifier": "spinner3"
+    },
+    "star": {
+      "codepoint": 57407,
+      "fontFamily": "Ei",
+      "identifier": "star"
+    },
+    "tag": {
+      "codepoint": 57408,
+      "fontFamily": "Ei",
+      "identifier": "tag"
+    },
+    "trash": {
+      "codepoint": 57409,
+      "fontFamily": "Ei",
+      "identifier": "trash"
+    },
+    "trophy": {
+      "codepoint": 57410,
+      "fontFamily": "Ei",
+      "identifier": "trophy"
+    },
+    "undo": {
+      "codepoint": 57411,
+      "fontFamily": "Ei",
+      "identifier": "undo"
+    },
+    "unlock": {
+      "codepoint": 57412,
+      "fontFamily": "Ei",
+      "identifier": "unlock"
+    },
+    "user": {
+      "codepoint": 57413,
+      "fontFamily": "Ei",
+      "identifier": "user"
+    }
+  }
+}

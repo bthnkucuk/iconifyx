@@ -1,0 +1,4680 @@
+{
+  "schemaVersion": 1,
+  "prefix": "file-icons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Programming",
+  "subPackage": "iconifyx_file_icons",
+  "info": {
+    "name": "File Icons",
+    "author": {
+      "name": "John Gardner",
+      "url": "https://github.com/file-icons/icons"
+    },
+    "license": {
+      "title": "ISC",
+      "spdx": "ISC",
+      "url": "https://github.com/file-icons/icons/blob/master/LICENSE.md"
+    },
+    "total": 930
+  },
+  "fonts": [
+    {
+      "family": "FileIcons",
+      "nextCodepoint": 58274,
+      "iconCount": 930
+    }
+  ],
+  "icons": {
+    "1c": {
+      "codepoint": 57344,
+      "fontFamily": "FileIcons",
+      "identifier": "n1c"
+    },
+    "1c-alt": {
+      "codepoint": 57345,
+      "fontFamily": "FileIcons",
+      "identifier": "n1cAlt"
+    },
+    "3d-model": {
+      "codepoint": 57346,
+      "fontFamily": "FileIcons",
+      "identifier": "n3dModel"
+    },
+    "3ds-max": {
+      "codepoint": 57347,
+      "fontFamily": "FileIcons",
+      "identifier": "n3dsMax"
+    },
+    "4d": {
+      "codepoint": 57348,
+      "fontFamily": "FileIcons",
+      "identifier": "n4d"
+    },
+    "a": {
+      "codepoint": 57349,
+      "fontFamily": "FileIcons",
+      "identifier": "a"
+    },
+    "abap": {
+      "codepoint": 57350,
+      "fontFamily": "FileIcons",
+      "identifier": "abap"
+    },
+    "abif": {
+      "codepoint": 57351,
+      "fontFamily": "FileIcons",
+      "identifier": "abif"
+    },
+    "acre": {
+      "codepoint": 57352,
+      "fontFamily": "FileIcons",
+      "identifier": "acre"
+    },
+    "actionscript": {
+      "codepoint": 57353,
+      "fontFamily": "FileIcons",
+      "identifier": "actionscript"
+    },
+    "ada": {
+      "codepoint": 57354,
+      "fontFamily": "FileIcons",
+      "identifier": "ada"
+    },
+    "adobe": {
+      "codepoint": 57355,
+      "fontFamily": "FileIcons",
+      "identifier": "adobe"
+    },
+    "adobe-acrobat": {
+      "codepoint": 57356,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeAcrobat"
+    },
+    "adobe-aftereffects": {
+      "codepoint": 57357,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeAftereffects"
+    },
+    "adobe-animate": {
+      "codepoint": 57358,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeAnimate"
+    },
+    "adobe-audition": {
+      "codepoint": 57359,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeAudition"
+    },
+    "adobe-bridge": {
+      "codepoint": 57360,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeBridge"
+    },
+    "adobe-characteranimator": {
+      "codepoint": 57361,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeCharacteranimator"
+    },
+    "adobe-creativecloud": {
+      "codepoint": 57362,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeCreativecloud"
+    },
+    "adobe-dimension": {
+      "codepoint": 57363,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeDimension"
+    },
+    "adobe-dreamweaver": {
+      "codepoint": 57364,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeDreamweaver"
+    },
+    "adobe-flash": {
+      "codepoint": 57365,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeFlash"
+    },
+    "adobe-fuse": {
+      "codepoint": 57366,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeFuse"
+    },
+    "adobe-illustrator": {
+      "codepoint": 57367,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeIllustrator"
+    },
+    "adobe-incopy": {
+      "codepoint": 57368,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeIncopy"
+    },
+    "adobe-indesign": {
+      "codepoint": 57369,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeIndesign"
+    },
+    "adobe-lightroom": {
+      "codepoint": 57370,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeLightroom"
+    },
+    "adobe-mediaencoder": {
+      "codepoint": 57371,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeMediaencoder"
+    },
+    "adobe-photoshop": {
+      "codepoint": 57372,
+      "fontFamily": "FileIcons",
+      "identifier": "adobePhotoshop"
+    },
+    "adobe-prelude": {
+      "codepoint": 57373,
+      "fontFamily": "FileIcons",
+      "identifier": "adobePrelude"
+    },
+    "adobe-premiere": {
+      "codepoint": 57374,
+      "fontFamily": "FileIcons",
+      "identifier": "adobePremiere"
+    },
+    "adobe-premiererush": {
+      "codepoint": 57375,
+      "fontFamily": "FileIcons",
+      "identifier": "adobePremiererush"
+    },
+    "adobe-xd": {
+      "codepoint": 57376,
+      "fontFamily": "FileIcons",
+      "identifier": "adobeXd"
+    },
+    "adonisjs": {
+      "codepoint": 57377,
+      "fontFamily": "FileIcons",
+      "identifier": "adonisjs"
+    },
+    "aeternity": {
+      "codepoint": 57378,
+      "fontFamily": "FileIcons",
+      "identifier": "aeternity"
+    },
+    "affectscript": {
+      "codepoint": 57379,
+      "fontFamily": "FileIcons",
+      "identifier": "affectscript"
+    },
+    "affinitydesigner": {
+      "codepoint": 57380,
+      "fontFamily": "FileIcons",
+      "identifier": "affinitydesigner"
+    },
+    "agc": {
+      "codepoint": 57381,
+      "fontFamily": "FileIcons",
+      "identifier": "agc"
+    },
+    "agda": {
+      "codepoint": 57382,
+      "fontFamily": "FileIcons",
+      "identifier": "agda"
+    },
+    "akka": {
+      "codepoint": 57383,
+      "fontFamily": "FileIcons",
+      "identifier": "akka"
+    },
+    "alacritty": {
+      "codepoint": 57384,
+      "fontFamily": "FileIcons",
+      "identifier": "alacritty"
+    },
+    "alacritty-alt": {
+      "codepoint": 57385,
+      "fontFamily": "FileIcons",
+      "identifier": "alacrittyAlt"
+    },
+    "alex": {
+      "codepoint": 57386,
+      "fontFamily": "FileIcons",
+      "identifier": "alex"
+    },
+    "alloy": {
+      "codepoint": 57387,
+      "fontFamily": "FileIcons",
+      "identifier": "alloy"
+    },
+    "alpine-linux": {
+      "codepoint": 57388,
+      "fontFamily": "FileIcons",
+      "identifier": "alpineLinux"
+    },
+    "amd": {
+      "codepoint": 57389,
+      "fontFamily": "FileIcons",
+      "identifier": "amd"
+    },
+    "amigaos": {
+      "codepoint": 57390,
+      "fontFamily": "FileIcons",
+      "identifier": "amigaos"
+    },
+    "ampl": {
+      "codepoint": 57391,
+      "fontFamily": "FileIcons",
+      "identifier": "ampl"
+    },
+    "amusewiki": {
+      "codepoint": 57392,
+      "fontFamily": "FileIcons",
+      "identifier": "amusewiki"
+    },
+    "analytica": {
+      "codepoint": 57393,
+      "fontFamily": "FileIcons",
+      "identifier": "analytica"
+    },
+    "angelscript": {
+      "codepoint": 57394,
+      "fontFamily": "FileIcons",
+      "identifier": "angelscript"
+    },
+    "animestudio": {
+      "codepoint": 57395,
+      "fontFamily": "FileIcons",
+      "identifier": "animestudio"
+    },
+    "ansible": {
+      "codepoint": 57396,
+      "fontFamily": "FileIcons",
+      "identifier": "ansible"
+    },
+    "ansible-alt": {
+      "codepoint": 57397,
+      "fontFamily": "FileIcons",
+      "identifier": "ansibleAlt"
+    },
+    "antlr": {
+      "codepoint": 57398,
+      "fontFamily": "FileIcons",
+      "identifier": "antlr"
+    },
+    "antwar": {
+      "codepoint": 57399,
+      "fontFamily": "FileIcons",
+      "identifier": "antwar"
+    },
+    "anyscript": {
+      "codepoint": 57400,
+      "fontFamily": "FileIcons",
+      "identifier": "anyscript"
+    },
+    "apache-ant": {
+      "codepoint": 57401,
+      "fontFamily": "FileIcons",
+      "identifier": "apacheAnt"
+    },
+    "api-blueprint": {
+      "codepoint": 57402,
+      "fontFamily": "FileIcons",
+      "identifier": "apiBlueprint"
+    },
+    "apiextractor": {
+      "codepoint": 57403,
+      "fontFamily": "FileIcons",
+      "identifier": "apiextractor"
+    },
+    "apl": {
+      "codepoint": 57404,
+      "fontFamily": "FileIcons",
+      "identifier": "apl"
+    },
+    "apl-old": {
+      "codepoint": 57405,
+      "fontFamily": "FileIcons",
+      "identifier": "aplOld"
+    },
+    "apollo": {
+      "codepoint": 57406,
+      "fontFamily": "FileIcons",
+      "identifier": "apollo"
+    },
+    "apple": {
+      "codepoint": 57407,
+      "fontFamily": "FileIcons",
+      "identifier": "apple"
+    },
+    "appveyor": {
+      "codepoint": 57408,
+      "fontFamily": "FileIcons",
+      "identifier": "appveyor"
+    },
+    "arc": {
+      "codepoint": 57409,
+      "fontFamily": "FileIcons",
+      "identifier": "arc"
+    },
+    "arch-linux": {
+      "codepoint": 57410,
+      "fontFamily": "FileIcons",
+      "identifier": "archLinux"
+    },
+    "arduino": {
+      "codepoint": 57411,
+      "fontFamily": "FileIcons",
+      "identifier": "arduino"
+    },
+    "arm": {
+      "codepoint": 57412,
+      "fontFamily": "FileIcons",
+      "identifier": "arm"
+    },
+    "arttext": {
+      "codepoint": 57413,
+      "fontFamily": "FileIcons",
+      "identifier": "arttext"
+    },
+    "arttext4": {
+      "codepoint": 57414,
+      "fontFamily": "FileIcons",
+      "identifier": "arttext4"
+    },
+    "asciidoc": {
+      "codepoint": 57415,
+      "fontFamily": "FileIcons",
+      "identifier": "asciidoc"
+    },
+    "asciidoctor": {
+      "codepoint": 57416,
+      "fontFamily": "FileIcons",
+      "identifier": "asciidoctor"
+    },
+    "assembly-agc": {
+      "codepoint": 57417,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyAgc"
+    },
+    "assembly-amd": {
+      "codepoint": 57418,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyAmd"
+    },
+    "assembly-arm": {
+      "codepoint": 57419,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyArm"
+    },
+    "assembly-att": {
+      "codepoint": 57420,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyAtt"
+    },
+    "assembly-avr": {
+      "codepoint": 57421,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyAvr"
+    },
+    "assembly-generic": {
+      "codepoint": 57422,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyGeneric"
+    },
+    "assembly-hitachi": {
+      "codepoint": 57423,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyHitachi"
+    },
+    "assembly-intel": {
+      "codepoint": 57424,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyIntel"
+    },
+    "assembly-motorola": {
+      "codepoint": 57425,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyMotorola"
+    },
+    "assembly-powerpc": {
+      "codepoint": 57426,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyPowerpc"
+    },
+    "assembly-riscv": {
+      "codepoint": 57427,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyRiscv"
+    },
+    "assembly-sparc": {
+      "codepoint": 57428,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblySparc"
+    },
+    "assembly-vax": {
+      "codepoint": 57429,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyVax"
+    },
+    "assembly-zilog": {
+      "codepoint": 57430,
+      "fontFamily": "FileIcons",
+      "identifier": "assemblyZilog"
+    },
+    "asymptote": {
+      "codepoint": 57431,
+      "fontFamily": "FileIcons",
+      "identifier": "asymptote"
+    },
+    "asymptote-alt": {
+      "codepoint": 57432,
+      "fontFamily": "FileIcons",
+      "identifier": "asymptoteAlt"
+    },
+    "atoum": {
+      "codepoint": 57433,
+      "fontFamily": "FileIcons",
+      "identifier": "atoum"
+    },
+    "ats": {
+      "codepoint": 57434,
+      "fontFamily": "FileIcons",
+      "identifier": "ats"
+    },
+    "att": {
+      "codepoint": 57435,
+      "fontFamily": "FileIcons",
+      "identifier": "att"
+    },
+    "audacity": {
+      "codepoint": 57436,
+      "fontFamily": "FileIcons",
+      "identifier": "audacity"
+    },
+    "augeas": {
+      "codepoint": 57437,
+      "fontFamily": "FileIcons",
+      "identifier": "augeas"
+    },
+    "aurelia": {
+      "codepoint": 57438,
+      "fontFamily": "FileIcons",
+      "identifier": "aurelia"
+    },
+    "autohotkey": {
+      "codepoint": 57439,
+      "fontFamily": "FileIcons",
+      "identifier": "autohotkey"
+    },
+    "autoit": {
+      "codepoint": 57440,
+      "fontFamily": "FileIcons",
+      "identifier": "autoit"
+    },
+    "automator": {
+      "codepoint": 57441,
+      "fontFamily": "FileIcons",
+      "identifier": "automator"
+    },
+    "avr": {
+      "codepoint": 57442,
+      "fontFamily": "FileIcons",
+      "identifier": "avr"
+    },
+    "avro": {
+      "codepoint": 57443,
+      "fontFamily": "FileIcons",
+      "identifier": "avro"
+    },
+    "awk": {
+      "codepoint": 57444,
+      "fontFamily": "FileIcons",
+      "identifier": "awk"
+    },
+    "azure-pipelines": {
+      "codepoint": 57445,
+      "fontFamily": "FileIcons",
+      "identifier": "azurePipelines"
+    },
+    "babel": {
+      "codepoint": 57446,
+      "fontFamily": "FileIcons",
+      "identifier": "babel"
+    },
+    "ballerina": {
+      "codepoint": 57447,
+      "fontFamily": "FileIcons",
+      "identifier": "ballerina"
+    },
+    "bazaar": {
+      "codepoint": 57448,
+      "fontFamily": "FileIcons",
+      "identifier": "bazaar"
+    },
+    "bazel": {
+      "codepoint": 57449,
+      "fontFamily": "FileIcons",
+      "identifier": "bazel"
+    },
+    "bazel-old": {
+      "codepoint": 57450,
+      "fontFamily": "FileIcons",
+      "identifier": "bazelOld"
+    },
+    "behat": {
+      "codepoint": 57451,
+      "fontFamily": "FileIcons",
+      "identifier": "behat"
+    },
+    "bem": {
+      "codepoint": 57452,
+      "fontFamily": "FileIcons",
+      "identifier": "bem"
+    },
+    "bibtex": {
+      "codepoint": 57453,
+      "fontFamily": "FileIcons",
+      "identifier": "bibtex"
+    },
+    "bikeshed": {
+      "codepoint": 57454,
+      "fontFamily": "FileIcons",
+      "identifier": "bikeshed"
+    },
+    "biml": {
+      "codepoint": 57455,
+      "fontFamily": "FileIcons",
+      "identifier": "biml"
+    },
+    "binder": {
+      "codepoint": 57456,
+      "fontFamily": "FileIcons",
+      "identifier": "binder"
+    },
+    "bintray": {
+      "codepoint": 57457,
+      "fontFamily": "FileIcons",
+      "identifier": "bintray"
+    },
+    "bison": {
+      "codepoint": 57458,
+      "fontFamily": "FileIcons",
+      "identifier": "bison"
+    },
+    "bithound": {
+      "codepoint": 57459,
+      "fontFamily": "FileIcons",
+      "identifier": "bithound"
+    },
+    "blender": {
+      "codepoint": 57460,
+      "fontFamily": "FileIcons",
+      "identifier": "blender"
+    },
+    "blitzbasic": {
+      "codepoint": 57461,
+      "fontFamily": "FileIcons",
+      "identifier": "blitzbasic"
+    },
+    "bloc": {
+      "codepoint": 57462,
+      "fontFamily": "FileIcons",
+      "identifier": "bloc"
+    },
+    "bluespec": {
+      "codepoint": 57463,
+      "fontFamily": "FileIcons",
+      "identifier": "bluespec"
+    },
+    "bnf": {
+      "codepoint": 57464,
+      "fontFamily": "FileIcons",
+      "identifier": "bnf"
+    },
+    "boo": {
+      "codepoint": 57465,
+      "fontFamily": "FileIcons",
+      "identifier": "boo"
+    },
+    "bors": {
+      "codepoint": 57466,
+      "fontFamily": "FileIcons",
+      "identifier": "bors"
+    },
+    "bosque": {
+      "codepoint": 57467,
+      "fontFamily": "FileIcons",
+      "identifier": "bosque"
+    },
+    "brainfuck": {
+      "codepoint": 57468,
+      "fontFamily": "FileIcons",
+      "identifier": "brainfuck"
+    },
+    "brakeman": {
+      "codepoint": 57469,
+      "fontFamily": "FileIcons",
+      "identifier": "brakeman"
+    },
+    "bro": {
+      "codepoint": 57470,
+      "fontFamily": "FileIcons",
+      "identifier": "bro"
+    },
+    "broccoli": {
+      "codepoint": 57471,
+      "fontFamily": "FileIcons",
+      "identifier": "broccoli"
+    },
+    "brotli": {
+      "codepoint": 57472,
+      "fontFamily": "FileIcons",
+      "identifier": "brotli"
+    },
+    "brotli-old": {
+      "codepoint": 57473,
+      "fontFamily": "FileIcons",
+      "identifier": "brotliOld"
+    },
+    "browserslist": {
+      "codepoint": 57474,
+      "fontFamily": "FileIcons",
+      "identifier": "browserslist"
+    },
+    "browsersync": {
+      "codepoint": 57475,
+      "fontFamily": "FileIcons",
+      "identifier": "browsersync"
+    },
+    "brunch": {
+      "codepoint": 57476,
+      "fontFamily": "FileIcons",
+      "identifier": "brunch"
+    },
+    "buck": {
+      "codepoint": 57477,
+      "fontFamily": "FileIcons",
+      "identifier": "buck"
+    },
+    "build-boot": {
+      "codepoint": 57478,
+      "fontFamily": "FileIcons",
+      "identifier": "buildBoot"
+    },
+    "buildkite": {
+      "codepoint": 57479,
+      "fontFamily": "FileIcons",
+      "identifier": "buildkite"
+    },
+    "bundler": {
+      "codepoint": 57480,
+      "fontFamily": "FileIcons",
+      "identifier": "bundler"
+    },
+    "byond": {
+      "codepoint": 57481,
+      "fontFamily": "FileIcons",
+      "identifier": "byond"
+    },
+    "c": {
+      "codepoint": 57482,
+      "fontFamily": "FileIcons",
+      "identifier": "c"
+    },
+    "c-script": {
+      "codepoint": 57483,
+      "fontFamily": "FileIcons",
+      "identifier": "cScript"
+    },
+    "cabal": {
+      "codepoint": 57484,
+      "fontFamily": "FileIcons",
+      "identifier": "cabal"
+    },
+    "caddy": {
+      "codepoint": 57485,
+      "fontFamily": "FileIcons",
+      "identifier": "caddy"
+    },
+    "caddy-old": {
+      "codepoint": 57486,
+      "fontFamily": "FileIcons",
+      "identifier": "caddyOld"
+    },
+    "caffe": {
+      "codepoint": 57487,
+      "fontFamily": "FileIcons",
+      "identifier": "caffe"
+    },
+    "caffe2": {
+      "codepoint": 57488,
+      "fontFamily": "FileIcons",
+      "identifier": "caffe2"
+    },
+    "cairo": {
+      "codepoint": 57489,
+      "fontFamily": "FileIcons",
+      "identifier": "cairo"
+    },
+    "cake": {
+      "codepoint": 57490,
+      "fontFamily": "FileIcons",
+      "identifier": "cake"
+    },
+    "cakefile": {
+      "codepoint": 57491,
+      "fontFamily": "FileIcons",
+      "identifier": "cakefile"
+    },
+    "cakephp": {
+      "codepoint": 57492,
+      "fontFamily": "FileIcons",
+      "identifier": "cakephp"
+    },
+    "cakephp-old": {
+      "codepoint": 57493,
+      "fontFamily": "FileIcons",
+      "identifier": "cakephpOld"
+    },
+    "calva": {
+      "codepoint": 57494,
+      "fontFamily": "FileIcons",
+      "identifier": "calva"
+    },
+    "carthage": {
+      "codepoint": 57495,
+      "fontFamily": "FileIcons",
+      "identifier": "carthage"
+    },
+    "casc": {
+      "codepoint": 57496,
+      "fontFamily": "FileIcons",
+      "identifier": "casc"
+    },
+    "cdf": {
+      "codepoint": 57497,
+      "fontFamily": "FileIcons",
+      "identifier": "cdf"
+    },
+    "ceylon": {
+      "codepoint": 57498,
+      "fontFamily": "FileIcons",
+      "identifier": "ceylon"
+    },
+    "chai": {
+      "codepoint": 57499,
+      "fontFamily": "FileIcons",
+      "identifier": "chai"
+    },
+    "chapel": {
+      "codepoint": 57500,
+      "fontFamily": "FileIcons",
+      "identifier": "chapel"
+    },
+    "chartjs": {
+      "codepoint": 57501,
+      "fontFamily": "FileIcons",
+      "identifier": "chartjs"
+    },
+    "cheetah3d": {
+      "codepoint": 57502,
+      "fontFamily": "FileIcons",
+      "identifier": "cheetah3d"
+    },
+    "chef": {
+      "codepoint": 57503,
+      "fontFamily": "FileIcons",
+      "identifier": "chef"
+    },
+    "chocolatey": {
+      "codepoint": 57504,
+      "fontFamily": "FileIcons",
+      "identifier": "chocolatey"
+    },
+    "chuck": {
+      "codepoint": 57505,
+      "fontFamily": "FileIcons",
+      "identifier": "chuck"
+    },
+    "circleci": {
+      "codepoint": 57506,
+      "fontFamily": "FileIcons",
+      "identifier": "circleci"
+    },
+    "cirru": {
+      "codepoint": 57507,
+      "fontFamily": "FileIcons",
+      "identifier": "cirru"
+    },
+    "ckeditor": {
+      "codepoint": 57508,
+      "fontFamily": "FileIcons",
+      "identifier": "ckeditor"
+    },
+    "clarion": {
+      "codepoint": 57509,
+      "fontFamily": "FileIcons",
+      "identifier": "clarion"
+    },
+    "clean": {
+      "codepoint": 57510,
+      "fontFamily": "FileIcons",
+      "identifier": "clean"
+    },
+    "click": {
+      "codepoint": 57511,
+      "fontFamily": "FileIcons",
+      "identifier": "click"
+    },
+    "clips": {
+      "codepoint": 57512,
+      "fontFamily": "FileIcons",
+      "identifier": "clips"
+    },
+    "clojurejs": {
+      "codepoint": 57513,
+      "fontFamily": "FileIcons",
+      "identifier": "clojurejs"
+    },
+    "closuretemplate": {
+      "codepoint": 57514,
+      "fontFamily": "FileIcons",
+      "identifier": "closuretemplate"
+    },
+    "cloudfoundry": {
+      "codepoint": 57515,
+      "fontFamily": "FileIcons",
+      "identifier": "cloudfoundry"
+    },
+    "cmake": {
+      "codepoint": 57516,
+      "fontFamily": "FileIcons",
+      "identifier": "cmake"
+    },
+    "cnab": {
+      "codepoint": 57517,
+      "fontFamily": "FileIcons",
+      "identifier": "cnab"
+    },
+    "cobol": {
+      "codepoint": 57518,
+      "fontFamily": "FileIcons",
+      "identifier": "cobol"
+    },
+    "cocoapods": {
+      "codepoint": 57519,
+      "fontFamily": "FileIcons",
+      "identifier": "cocoapods"
+    },
+    "codacy": {
+      "codepoint": 57520,
+      "fontFamily": "FileIcons",
+      "identifier": "codacy"
+    },
+    "code-climate": {
+      "codepoint": 57521,
+      "fontFamily": "FileIcons",
+      "identifier": "codeClimate"
+    },
+    "codecov": {
+      "codepoint": 57522,
+      "fontFamily": "FileIcons",
+      "identifier": "codecov"
+    },
+    "codekit": {
+      "codepoint": 57523,
+      "fontFamily": "FileIcons",
+      "identifier": "codekit"
+    },
+    "codemeta": {
+      "codepoint": 57524,
+      "fontFamily": "FileIcons",
+      "identifier": "codemeta"
+    },
+    "codemirror": {
+      "codepoint": 57525,
+      "fontFamily": "FileIcons",
+      "identifier": "codemirror"
+    },
+    "codeship": {
+      "codepoint": 57526,
+      "fontFamily": "FileIcons",
+      "identifier": "codeship"
+    },
+    "coldfusion": {
+      "codepoint": 57527,
+      "fontFamily": "FileIcons",
+      "identifier": "coldfusion"
+    },
+    "commitizen": {
+      "codepoint": 57528,
+      "fontFamily": "FileIcons",
+      "identifier": "commitizen"
+    },
+    "commitlint": {
+      "codepoint": 57529,
+      "fontFamily": "FileIcons",
+      "identifier": "commitlint"
+    },
+    "common-lisp": {
+      "codepoint": 57530,
+      "fontFamily": "FileIcons",
+      "identifier": "commonLisp"
+    },
+    "component-pascal": {
+      "codepoint": 57531,
+      "fontFamily": "FileIcons",
+      "identifier": "componentPascal"
+    },
+    "composer": {
+      "codepoint": 57532,
+      "fontFamily": "FileIcons",
+      "identifier": "composer"
+    },
+    "conan": {
+      "codepoint": 57533,
+      "fontFamily": "FileIcons",
+      "identifier": "conan"
+    },
+    "conda": {
+      "codepoint": 57534,
+      "fontFamily": "FileIcons",
+      "identifier": "conda"
+    },
+    "config": {
+      "codepoint": 57535,
+      "fontFamily": "FileIcons",
+      "identifier": "config"
+    },
+    "config-coffeescript": {
+      "codepoint": 57536,
+      "fontFamily": "FileIcons",
+      "identifier": "configCoffeescript"
+    },
+    "config-go": {
+      "codepoint": 57537,
+      "fontFamily": "FileIcons",
+      "identifier": "configGo"
+    },
+    "config-haskell": {
+      "codepoint": 57538,
+      "fontFamily": "FileIcons",
+      "identifier": "configHaskell"
+    },
+    "config-js": {
+      "codepoint": 57539,
+      "fontFamily": "FileIcons",
+      "identifier": "configJs"
+    },
+    "config-perl": {
+      "codepoint": 57540,
+      "fontFamily": "FileIcons",
+      "identifier": "configPerl"
+    },
+    "config-python": {
+      "codepoint": 57541,
+      "fontFamily": "FileIcons",
+      "identifier": "configPython"
+    },
+    "config-react": {
+      "codepoint": 57542,
+      "fontFamily": "FileIcons",
+      "identifier": "configReact"
+    },
+    "config-ruby": {
+      "codepoint": 57543,
+      "fontFamily": "FileIcons",
+      "identifier": "configRuby"
+    },
+    "config-rust": {
+      "codepoint": 57544,
+      "fontFamily": "FileIcons",
+      "identifier": "configRust"
+    },
+    "config-typescript": {
+      "codepoint": 57545,
+      "fontFamily": "FileIcons",
+      "identifier": "configTypescript"
+    },
+    "conll": {
+      "codepoint": 57546,
+      "fontFamily": "FileIcons",
+      "identifier": "conll"
+    },
+    "coq": {
+      "codepoint": 57547,
+      "fontFamily": "FileIcons",
+      "identifier": "coq"
+    },
+    "cordova": {
+      "codepoint": 57548,
+      "fontFamily": "FileIcons",
+      "identifier": "cordova"
+    },
+    "coreldraw": {
+      "codepoint": 57549,
+      "fontFamily": "FileIcons",
+      "identifier": "coreldraw"
+    },
+    "coreldraw-alt": {
+      "codepoint": 57550,
+      "fontFamily": "FileIcons",
+      "identifier": "coreldrawAlt"
+    },
+    "coveralls": {
+      "codepoint": 57551,
+      "fontFamily": "FileIcons",
+      "identifier": "coveralls"
+    },
+    "cpan": {
+      "codepoint": 57552,
+      "fontFamily": "FileIcons",
+      "identifier": "cpan"
+    },
+    "cpcdosc": {
+      "codepoint": 57553,
+      "fontFamily": "FileIcons",
+      "identifier": "cpcdosc"
+    },
+    "crafttweaker": {
+      "codepoint": 57554,
+      "fontFamily": "FileIcons",
+      "identifier": "crafttweaker"
+    },
+    "creole": {
+      "codepoint": 57555,
+      "fontFamily": "FileIcons",
+      "identifier": "creole"
+    },
+    "crowdin": {
+      "codepoint": 57556,
+      "fontFamily": "FileIcons",
+      "identifier": "crowdin"
+    },
+    "crystal": {
+      "codepoint": 57557,
+      "fontFamily": "FileIcons",
+      "identifier": "crystal"
+    },
+    "csound": {
+      "codepoint": 57558,
+      "fontFamily": "FileIcons",
+      "identifier": "csound"
+    },
+    "cubit": {
+      "codepoint": 57559,
+      "fontFamily": "FileIcons",
+      "identifier": "cubit"
+    },
+    "cucumber": {
+      "codepoint": 57560,
+      "fontFamily": "FileIcons",
+      "identifier": "cucumber"
+    },
+    "cuneiform": {
+      "codepoint": 57561,
+      "fontFamily": "FileIcons",
+      "identifier": "cuneiform"
+    },
+    "curl": {
+      "codepoint": 57562,
+      "fontFamily": "FileIcons",
+      "identifier": "curl"
+    },
+    "curl-lang": {
+      "codepoint": 57563,
+      "fontFamily": "FileIcons",
+      "identifier": "curlLang"
+    },
+    "curry": {
+      "codepoint": 57564,
+      "fontFamily": "FileIcons",
+      "identifier": "curry"
+    },
+    "cvs": {
+      "codepoint": 57565,
+      "fontFamily": "FileIcons",
+      "identifier": "cvs"
+    },
+    "cwl": {
+      "codepoint": 57566,
+      "fontFamily": "FileIcons",
+      "identifier": "cwl"
+    },
+    "cython": {
+      "codepoint": 57567,
+      "fontFamily": "FileIcons",
+      "identifier": "cython"
+    },
+    "d3": {
+      "codepoint": 57568,
+      "fontFamily": "FileIcons",
+      "identifier": "d3"
+    },
+    "dafny": {
+      "codepoint": 57569,
+      "fontFamily": "FileIcons",
+      "identifier": "dafny"
+    },
+    "darcs-patch": {
+      "codepoint": 57570,
+      "fontFamily": "FileIcons",
+      "identifier": "darcsPatch"
+    },
+    "dashboard": {
+      "codepoint": 57571,
+      "fontFamily": "FileIcons",
+      "identifier": "dashboard"
+    },
+    "dataweave": {
+      "codepoint": 57572,
+      "fontFamily": "FileIcons",
+      "identifier": "dataweave"
+    },
+    "dbase": {
+      "codepoint": 57573,
+      "fontFamily": "FileIcons",
+      "identifier": "dbase"
+    },
+    "default": {
+      "codepoint": 57574,
+      "fontFamily": "FileIcons",
+      "identifier": "default_"
+    },
+    "delphi": {
+      "codepoint": 57575,
+      "fontFamily": "FileIcons",
+      "identifier": "delphi"
+    },
+    "deno": {
+      "codepoint": 57576,
+      "fontFamily": "FileIcons",
+      "identifier": "deno"
+    },
+    "dependabot": {
+      "codepoint": 57577,
+      "fontFamily": "FileIcons",
+      "identifier": "dependabot"
+    },
+    "devcontainer": {
+      "codepoint": 57578,
+      "fontFamily": "FileIcons",
+      "identifier": "devcontainer"
+    },
+    "devicetree": {
+      "codepoint": 57579,
+      "fontFamily": "FileIcons",
+      "identifier": "devicetree"
+    },
+    "dhall": {
+      "codepoint": 57580,
+      "fontFamily": "FileIcons",
+      "identifier": "dhall"
+    },
+    "dia": {
+      "codepoint": 57581,
+      "fontFamily": "FileIcons",
+      "identifier": "dia"
+    },
+    "diff": {
+      "codepoint": 57582,
+      "fontFamily": "FileIcons",
+      "identifier": "diff"
+    },
+    "digdag": {
+      "codepoint": 57583,
+      "fontFamily": "FileIcons",
+      "identifier": "digdag"
+    },
+    "dna": {
+      "codepoint": 57584,
+      "fontFamily": "FileIcons",
+      "identifier": "dna"
+    },
+    "docbook": {
+      "codepoint": 57585,
+      "fontFamily": "FileIcons",
+      "identifier": "docbook"
+    },
+    "docker": {
+      "codepoint": 57586,
+      "fontFamily": "FileIcons",
+      "identifier": "docker"
+    },
+    "doclets": {
+      "codepoint": 57587,
+      "fontFamily": "FileIcons",
+      "identifier": "doclets"
+    },
+    "docpad": {
+      "codepoint": 57588,
+      "fontFamily": "FileIcons",
+      "identifier": "docpad"
+    },
+    "docz": {
+      "codepoint": 57589,
+      "fontFamily": "FileIcons",
+      "identifier": "docz"
+    },
+    "dogescript": {
+      "codepoint": 57590,
+      "fontFamily": "FileIcons",
+      "identifier": "dogescript"
+    },
+    "dom": {
+      "codepoint": 57591,
+      "fontFamily": "FileIcons",
+      "identifier": "dom"
+    },
+    "donejs": {
+      "codepoint": 57592,
+      "fontFamily": "FileIcons",
+      "identifier": "donejs"
+    },
+    "dosbox": {
+      "codepoint": 57593,
+      "fontFamily": "FileIcons",
+      "identifier": "dosbox"
+    },
+    "dosbox-alt": {
+      "codepoint": 57594,
+      "fontFamily": "FileIcons",
+      "identifier": "dosboxAlt"
+    },
+    "dotenv": {
+      "codepoint": 57595,
+      "fontFamily": "FileIcons",
+      "identifier": "dotenv"
+    },
+    "dotjs": {
+      "codepoint": 57596,
+      "fontFamily": "FileIcons",
+      "identifier": "dotjs"
+    },
+    "doxygen": {
+      "codepoint": 57597,
+      "fontFamily": "FileIcons",
+      "identifier": "doxygen"
+    },
+    "dragonflybsd": {
+      "codepoint": 57598,
+      "fontFamily": "FileIcons",
+      "identifier": "dragonflybsd"
+    },
+    "dragula": {
+      "codepoint": 57599,
+      "fontFamily": "FileIcons",
+      "identifier": "dragula"
+    },
+    "draw-io": {
+      "codepoint": 57600,
+      "fontFamily": "FileIcons",
+      "identifier": "drawIo"
+    },
+    "drone": {
+      "codepoint": 57601,
+      "fontFamily": "FileIcons",
+      "identifier": "drone"
+    },
+    "dub": {
+      "codepoint": 57602,
+      "fontFamily": "FileIcons",
+      "identifier": "dub"
+    },
+    "dvc": {
+      "codepoint": 57603,
+      "fontFamily": "FileIcons",
+      "identifier": "dvc"
+    },
+    "dyalog": {
+      "codepoint": 57604,
+      "fontFamily": "FileIcons",
+      "identifier": "dyalog"
+    },
+    "dylib": {
+      "codepoint": 57605,
+      "fontFamily": "FileIcons",
+      "identifier": "dylib"
+    },
+    "e": {
+      "codepoint": 57606,
+      "fontFamily": "FileIcons",
+      "identifier": "e"
+    },
+    "eagle": {
+      "codepoint": 57607,
+      "fontFamily": "FileIcons",
+      "identifier": "eagle"
+    },
+    "easybuild": {
+      "codepoint": 57608,
+      "fontFamily": "FileIcons",
+      "identifier": "easybuild"
+    },
+    "ec": {
+      "codepoint": 57609,
+      "fontFamily": "FileIcons",
+      "identifier": "ec"
+    },
+    "ecere": {
+      "codepoint": 57610,
+      "fontFamily": "FileIcons",
+      "identifier": "ecere"
+    },
+    "eclipse-lang": {
+      "codepoint": 57611,
+      "fontFamily": "FileIcons",
+      "identifier": "eclipseLang"
+    },
+    "edge": {
+      "codepoint": 57612,
+      "fontFamily": "FileIcons",
+      "identifier": "edge"
+    },
+    "editorconfig": {
+      "codepoint": 57613,
+      "fontFamily": "FileIcons",
+      "identifier": "editorconfig"
+    },
+    "eiffel": {
+      "codepoint": 57614,
+      "fontFamily": "FileIcons",
+      "identifier": "eiffel"
+    },
+    "ejs": {
+      "codepoint": 57615,
+      "fontFamily": "FileIcons",
+      "identifier": "ejs"
+    },
+    "electron": {
+      "codepoint": 57616,
+      "fontFamily": "FileIcons",
+      "identifier": "electron"
+    },
+    "elementaryos": {
+      "codepoint": 57617,
+      "fontFamily": "FileIcons",
+      "identifier": "elementaryos"
+    },
+    "elm": {
+      "codepoint": 57618,
+      "fontFamily": "FileIcons",
+      "identifier": "elm"
+    },
+    "emacs": {
+      "codepoint": 57619,
+      "fontFamily": "FileIcons",
+      "identifier": "emacs"
+    },
+    "ember": {
+      "codepoint": 57620,
+      "fontFamily": "FileIcons",
+      "identifier": "ember"
+    },
+    "emberscript": {
+      "codepoint": 57621,
+      "fontFamily": "FileIcons",
+      "identifier": "emberscript"
+    },
+    "ensime": {
+      "codepoint": 57622,
+      "fontFamily": "FileIcons",
+      "identifier": "ensime"
+    },
+    "eq": {
+      "codepoint": 57623,
+      "fontFamily": "FileIcons",
+      "identifier": "eq"
+    },
+    "esdoc": {
+      "codepoint": 57624,
+      "fontFamily": "FileIcons",
+      "identifier": "esdoc"
+    },
+    "eslint": {
+      "codepoint": 57625,
+      "fontFamily": "FileIcons",
+      "identifier": "eslint"
+    },
+    "eslint-old": {
+      "codepoint": 57626,
+      "fontFamily": "FileIcons",
+      "identifier": "eslintOld"
+    },
+    "expo": {
+      "codepoint": 57627,
+      "fontFamily": "FileIcons",
+      "identifier": "expo"
+    },
+    "fabfile": {
+      "codepoint": 57628,
+      "fontFamily": "FileIcons",
+      "identifier": "fabfile"
+    },
+    "fabric": {
+      "codepoint": 57629,
+      "fontFamily": "FileIcons",
+      "identifier": "fabric"
+    },
+    "factor": {
+      "codepoint": 57630,
+      "fontFamily": "FileIcons",
+      "identifier": "factor"
+    },
+    "falcon": {
+      "codepoint": 57631,
+      "fontFamily": "FileIcons",
+      "identifier": "falcon"
+    },
+    "fancy": {
+      "codepoint": 57632,
+      "fontFamily": "FileIcons",
+      "identifier": "fancy"
+    },
+    "fantom": {
+      "codepoint": 57633,
+      "fontFamily": "FileIcons",
+      "identifier": "fantom"
+    },
+    "fauna": {
+      "codepoint": 57634,
+      "fontFamily": "FileIcons",
+      "identifier": "fauna"
+    },
+    "faust": {
+      "codepoint": 57635,
+      "fontFamily": "FileIcons",
+      "identifier": "faust"
+    },
+    "fbx": {
+      "codepoint": 57636,
+      "fontFamily": "FileIcons",
+      "identifier": "fbx"
+    },
+    "fexl": {
+      "codepoint": 57637,
+      "fontFamily": "FileIcons",
+      "identifier": "fexl"
+    },
+    "ffmpeg": {
+      "codepoint": 57638,
+      "fontFamily": "FileIcons",
+      "identifier": "ffmpeg"
+    },
+    "fiddle": {
+      "codepoint": 57639,
+      "fontFamily": "FileIcons",
+      "identifier": "fiddle"
+    },
+    "figma": {
+      "codepoint": 57640,
+      "fontFamily": "FileIcons",
+      "identifier": "figma"
+    },
+    "finaldraft": {
+      "codepoint": 57641,
+      "fontFamily": "FileIcons",
+      "identifier": "finaldraft"
+    },
+    "finder": {
+      "codepoint": 57642,
+      "fontFamily": "FileIcons",
+      "identifier": "finder"
+    },
+    "firebase": {
+      "codepoint": 57643,
+      "fontFamily": "FileIcons",
+      "identifier": "firebase"
+    },
+    "firebase-bolt": {
+      "codepoint": 57644,
+      "fontFamily": "FileIcons",
+      "identifier": "firebaseBolt"
+    },
+    "flask": {
+      "codepoint": 57645,
+      "fontFamily": "FileIcons",
+      "identifier": "flask"
+    },
+    "floobits": {
+      "codepoint": 57646,
+      "fontFamily": "FileIcons",
+      "identifier": "floobits"
+    },
+    "flow": {
+      "codepoint": 57647,
+      "fontFamily": "FileIcons",
+      "identifier": "flow"
+    },
+    "flutter": {
+      "codepoint": 57648,
+      "fontFamily": "FileIcons",
+      "identifier": "flutter"
+    },
+    "flux": {
+      "codepoint": 57649,
+      "fontFamily": "FileIcons",
+      "identifier": "flux"
+    },
+    "font": {
+      "codepoint": 57650,
+      "fontFamily": "FileIcons",
+      "identifier": "font"
+    },
+    "font-bitmap": {
+      "codepoint": 57651,
+      "fontFamily": "FileIcons",
+      "identifier": "fontBitmap"
+    },
+    "font-outline": {
+      "codepoint": 57652,
+      "fontFamily": "FileIcons",
+      "identifier": "fontOutline"
+    },
+    "fontforge": {
+      "codepoint": 57653,
+      "fontFamily": "FileIcons",
+      "identifier": "fontforge"
+    },
+    "fork": {
+      "codepoint": 57654,
+      "fontFamily": "FileIcons",
+      "identifier": "fork"
+    },
+    "fortherecord": {
+      "codepoint": 57655,
+      "fontFamily": "FileIcons",
+      "identifier": "fortherecord"
+    },
+    "fortran": {
+      "codepoint": 57656,
+      "fontFamily": "FileIcons",
+      "identifier": "fortran"
+    },
+    "fossa": {
+      "codepoint": 57657,
+      "fontFamily": "FileIcons",
+      "identifier": "fossa"
+    },
+    "fossil": {
+      "codepoint": 57658,
+      "fontFamily": "FileIcons",
+      "identifier": "fossil"
+    },
+    "fountain": {
+      "codepoint": 57659,
+      "fontFamily": "FileIcons",
+      "identifier": "fountain"
+    },
+    "franca": {
+      "codepoint": 57660,
+      "fontFamily": "FileIcons",
+      "identifier": "franca"
+    },
+    "freedesktop": {
+      "codepoint": 57661,
+      "fontFamily": "FileIcons",
+      "identifier": "freedesktop"
+    },
+    "freedos": {
+      "codepoint": 57662,
+      "fontFamily": "FileIcons",
+      "identifier": "freedos"
+    },
+    "freemarker": {
+      "codepoint": 57663,
+      "fontFamily": "FileIcons",
+      "identifier": "freemarker"
+    },
+    "freemat": {
+      "codepoint": 57664,
+      "fontFamily": "FileIcons",
+      "identifier": "freemat"
+    },
+    "frege": {
+      "codepoint": 57665,
+      "fontFamily": "FileIcons",
+      "identifier": "frege"
+    },
+    "fthtml": {
+      "codepoint": 57666,
+      "fontFamily": "FileIcons",
+      "identifier": "fthtml"
+    },
+    "fuelux": {
+      "codepoint": 57667,
+      "fontFamily": "FileIcons",
+      "identifier": "fuelux"
+    },
+    "fusebox": {
+      "codepoint": 57668,
+      "fontFamily": "FileIcons",
+      "identifier": "fusebox"
+    },
+    "futhark": {
+      "codepoint": 57669,
+      "fontFamily": "FileIcons",
+      "identifier": "futhark"
+    },
+    "galaxy": {
+      "codepoint": 57670,
+      "fontFamily": "FileIcons",
+      "identifier": "galaxy"
+    },
+    "galen": {
+      "codepoint": 57671,
+      "fontFamily": "FileIcons",
+      "identifier": "galen"
+    },
+    "gamemaker": {
+      "codepoint": 57672,
+      "fontFamily": "FileIcons",
+      "identifier": "gamemaker"
+    },
+    "gams": {
+      "codepoint": 57673,
+      "fontFamily": "FileIcons",
+      "identifier": "gams"
+    },
+    "gap": {
+      "codepoint": 57674,
+      "fontFamily": "FileIcons",
+      "identifier": "gap"
+    },
+    "gatsby": {
+      "codepoint": 57675,
+      "fontFamily": "FileIcons",
+      "identifier": "gatsby"
+    },
+    "gauss": {
+      "codepoint": 57676,
+      "fontFamily": "FileIcons",
+      "identifier": "gauss"
+    },
+    "gdb": {
+      "codepoint": 57677,
+      "fontFamily": "FileIcons",
+      "identifier": "gdb"
+    },
+    "genshi": {
+      "codepoint": 57678,
+      "fontFamily": "FileIcons",
+      "identifier": "genshi"
+    },
+    "genstat": {
+      "codepoint": 57679,
+      "fontFamily": "FileIcons",
+      "identifier": "genstat"
+    },
+    "gentoo": {
+      "codepoint": 57680,
+      "fontFamily": "FileIcons",
+      "identifier": "gentoo"
+    },
+    "gf": {
+      "codepoint": 57681,
+      "fontFamily": "FileIcons",
+      "identifier": "gf"
+    },
+    "ghostscript": {
+      "codepoint": 57682,
+      "fontFamily": "FileIcons",
+      "identifier": "ghostscript"
+    },
+    "gimp": {
+      "codepoint": 57683,
+      "fontFamily": "FileIcons",
+      "identifier": "gimp"
+    },
+    "gitlab": {
+      "codepoint": 57684,
+      "fontFamily": "FileIcons",
+      "identifier": "gitlab"
+    },
+    "gitpod": {
+      "codepoint": 57685,
+      "fontFamily": "FileIcons",
+      "identifier": "gitpod"
+    },
+    "glade": {
+      "codepoint": 57686,
+      "fontFamily": "FileIcons",
+      "identifier": "glade"
+    },
+    "glide": {
+      "codepoint": 57687,
+      "fontFamily": "FileIcons",
+      "identifier": "glide"
+    },
+    "gltf": {
+      "codepoint": 57688,
+      "fontFamily": "FileIcons",
+      "identifier": "gltf"
+    },
+    "glyphs": {
+      "codepoint": 57689,
+      "fontFamily": "FileIcons",
+      "identifier": "glyphs"
+    },
+    "gn": {
+      "codepoint": 57690,
+      "fontFamily": "FileIcons",
+      "identifier": "gn"
+    },
+    "gnu": {
+      "codepoint": 57691,
+      "fontFamily": "FileIcons",
+      "identifier": "gnu"
+    },
+    "gnuplot": {
+      "codepoint": 57692,
+      "fontFamily": "FileIcons",
+      "identifier": "gnuplot"
+    },
+    "go": {
+      "codepoint": 57693,
+      "fontFamily": "FileIcons",
+      "identifier": "go"
+    },
+    "go-old": {
+      "codepoint": 57694,
+      "fontFamily": "FileIcons",
+      "identifier": "goOld"
+    },
+    "godot": {
+      "codepoint": 57695,
+      "fontFamily": "FileIcons",
+      "identifier": "godot"
+    },
+    "golo": {
+      "codepoint": 57696,
+      "fontFamily": "FileIcons",
+      "identifier": "golo"
+    },
+    "goreleaser": {
+      "codepoint": 57697,
+      "fontFamily": "FileIcons",
+      "identifier": "goreleaser"
+    },
+    "gosu": {
+      "codepoint": 57698,
+      "fontFamily": "FileIcons",
+      "identifier": "gosu"
+    },
+    "gradle": {
+      "codepoint": 57699,
+      "fontFamily": "FileIcons",
+      "identifier": "gradle"
+    },
+    "grapher": {
+      "codepoint": 57700,
+      "fontFamily": "FileIcons",
+      "identifier": "grapher"
+    },
+    "graphite": {
+      "codepoint": 57701,
+      "fontFamily": "FileIcons",
+      "identifier": "graphite"
+    },
+    "graphql": {
+      "codepoint": 57702,
+      "fontFamily": "FileIcons",
+      "identifier": "graphql"
+    },
+    "graphql-codegenerator": {
+      "codepoint": 57703,
+      "fontFamily": "FileIcons",
+      "identifier": "graphqlCodegenerator"
+    },
+    "graphviz": {
+      "codepoint": 57704,
+      "fontFamily": "FileIcons",
+      "identifier": "graphviz"
+    },
+    "gravit-designer": {
+      "codepoint": 57705,
+      "fontFamily": "FileIcons",
+      "identifier": "gravitDesigner"
+    },
+    "greenkeeper": {
+      "codepoint": 57706,
+      "fontFamily": "FileIcons",
+      "identifier": "greenkeeper"
+    },
+    "gridsome": {
+      "codepoint": 57707,
+      "fontFamily": "FileIcons",
+      "identifier": "gridsome"
+    },
+    "groovy": {
+      "codepoint": 57708,
+      "fontFamily": "FileIcons",
+      "identifier": "groovy"
+    },
+    "grunt": {
+      "codepoint": 57709,
+      "fontFamily": "FileIcons",
+      "identifier": "grunt"
+    },
+    "gulp": {
+      "codepoint": 57710,
+      "fontFamily": "FileIcons",
+      "identifier": "gulp"
+    },
+    "hack": {
+      "codepoint": 57711,
+      "fontFamily": "FileIcons",
+      "identifier": "hack"
+    },
+    "haml": {
+      "codepoint": 57712,
+      "fontFamily": "FileIcons",
+      "identifier": "haml"
+    },
+    "harbour": {
+      "codepoint": 57713,
+      "fontFamily": "FileIcons",
+      "identifier": "harbour"
+    },
+    "hashicorp": {
+      "codepoint": 57714,
+      "fontFamily": "FileIcons",
+      "identifier": "hashicorp"
+    },
+    "haxe": {
+      "codepoint": 57715,
+      "fontFamily": "FileIcons",
+      "identifier": "haxe"
+    },
+    "haxedevelop": {
+      "codepoint": 57716,
+      "fontFamily": "FileIcons",
+      "identifier": "haxedevelop"
+    },
+    "helix": {
+      "codepoint": 57717,
+      "fontFamily": "FileIcons",
+      "identifier": "helix"
+    },
+    "hewlettpackard": {
+      "codepoint": 57718,
+      "fontFamily": "FileIcons",
+      "identifier": "hewlettpackard"
+    },
+    "hie": {
+      "codepoint": 57719,
+      "fontFamily": "FileIcons",
+      "identifier": "hie"
+    },
+    "hitachi": {
+      "codepoint": 57720,
+      "fontFamily": "FileIcons",
+      "identifier": "hitachi"
+    },
+    "hjson": {
+      "codepoint": 57721,
+      "fontFamily": "FileIcons",
+      "identifier": "hjson"
+    },
+    "homebrew": {
+      "codepoint": 57722,
+      "fontFamily": "FileIcons",
+      "identifier": "homebrew"
+    },
+    "hop": {
+      "codepoint": 57723,
+      "fontFamily": "FileIcons",
+      "identifier": "hop"
+    },
+    "hoplon": {
+      "codepoint": 57724,
+      "fontFamily": "FileIcons",
+      "identifier": "hoplon"
+    },
+    "houdini": {
+      "codepoint": 57725,
+      "fontFamily": "FileIcons",
+      "identifier": "houdini"
+    },
+    "houndci": {
+      "codepoint": 57726,
+      "fontFamily": "FileIcons",
+      "identifier": "houndci"
+    },
+    "hugo": {
+      "codepoint": 57727,
+      "fontFamily": "FileIcons",
+      "identifier": "hugo"
+    },
+    "husky": {
+      "codepoint": 57728,
+      "fontFamily": "FileIcons",
+      "identifier": "husky"
+    },
+    "hy": {
+      "codepoint": 57729,
+      "fontFamily": "FileIcons",
+      "identifier": "hy"
+    },
+    "hygen": {
+      "codepoint": 57730,
+      "fontFamily": "FileIcons",
+      "identifier": "hygen"
+    },
+    "hyper": {
+      "codepoint": 57731,
+      "fontFamily": "FileIcons",
+      "identifier": "hyper"
+    },
+    "icomoon": {
+      "codepoint": 57732,
+      "fontFamily": "FileIcons",
+      "identifier": "icomoon"
+    },
+    "icu": {
+      "codepoint": 57733,
+      "fontFamily": "FileIcons",
+      "identifier": "icu"
+    },
+    "idl": {
+      "codepoint": 57734,
+      "fontFamily": "FileIcons",
+      "identifier": "idl"
+    },
+    "idris": {
+      "codepoint": 57735,
+      "fontFamily": "FileIcons",
+      "identifier": "idris"
+    },
+    "igor-pro": {
+      "codepoint": 57736,
+      "fontFamily": "FileIcons",
+      "identifier": "igorPro"
+    },
+    "illumos": {
+      "codepoint": 57737,
+      "fontFamily": "FileIcons",
+      "identifier": "illumos"
+    },
+    "image": {
+      "codepoint": 57738,
+      "fontFamily": "FileIcons",
+      "identifier": "image"
+    },
+    "imba": {
+      "codepoint": 57739,
+      "fontFamily": "FileIcons",
+      "identifier": "imba"
+    },
+    "imba-alt": {
+      "codepoint": 57740,
+      "fontFamily": "FileIcons",
+      "identifier": "imbaAlt"
+    },
+    "imba-old": {
+      "codepoint": 57741,
+      "fontFamily": "FileIcons",
+      "identifier": "imbaOld"
+    },
+    "imgbot": {
+      "codepoint": 57742,
+      "fontFamily": "FileIcons",
+      "identifier": "imgbot"
+    },
+    "influxdata": {
+      "codepoint": 57743,
+      "fontFamily": "FileIcons",
+      "identifier": "influxdata"
+    },
+    "inform7": {
+      "codepoint": 57744,
+      "fontFamily": "FileIcons",
+      "identifier": "inform7"
+    },
+    "ink": {
+      "codepoint": 57745,
+      "fontFamily": "FileIcons",
+      "identifier": "ink"
+    },
+    "inkscape": {
+      "codepoint": 57746,
+      "fontFamily": "FileIcons",
+      "identifier": "inkscape"
+    },
+    "innosetup": {
+      "codepoint": 57747,
+      "fontFamily": "FileIcons",
+      "identifier": "innosetup"
+    },
+    "intel": {
+      "codepoint": 57748,
+      "fontFamily": "FileIcons",
+      "identifier": "intel"
+    },
+    "io": {
+      "codepoint": 57749,
+      "fontFamily": "FileIcons",
+      "identifier": "io"
+    },
+    "ioke": {
+      "codepoint": 57750,
+      "fontFamily": "FileIcons",
+      "identifier": "ioke"
+    },
+    "ionic-project": {
+      "codepoint": 57751,
+      "fontFamily": "FileIcons",
+      "identifier": "ionicProject"
+    },
+    "isabelle": {
+      "codepoint": 57752,
+      "fontFamily": "FileIcons",
+      "identifier": "isabelle"
+    },
+    "istanbul": {
+      "codepoint": 57753,
+      "fontFamily": "FileIcons",
+      "identifier": "istanbul"
+    },
+    "j": {
+      "codepoint": 57754,
+      "fontFamily": "FileIcons",
+      "identifier": "j"
+    },
+    "jade": {
+      "codepoint": 57755,
+      "fontFamily": "FileIcons",
+      "identifier": "jade"
+    },
+    "jakefile": {
+      "codepoint": 57756,
+      "fontFamily": "FileIcons",
+      "identifier": "jakefile"
+    },
+    "janet": {
+      "codepoint": 57757,
+      "fontFamily": "FileIcons",
+      "identifier": "janet"
+    },
+    "jasmine": {
+      "codepoint": 57758,
+      "fontFamily": "FileIcons",
+      "identifier": "jasmine"
+    },
+    "jenkins": {
+      "codepoint": 57759,
+      "fontFamily": "FileIcons",
+      "identifier": "jenkins"
+    },
+    "jest": {
+      "codepoint": 57760,
+      "fontFamily": "FileIcons",
+      "identifier": "jest"
+    },
+    "jinja": {
+      "codepoint": 57761,
+      "fontFamily": "FileIcons",
+      "identifier": "jinja"
+    },
+    "jison": {
+      "codepoint": 57762,
+      "fontFamily": "FileIcons",
+      "identifier": "jison"
+    },
+    "jolie": {
+      "codepoint": 57763,
+      "fontFamily": "FileIcons",
+      "identifier": "jolie"
+    },
+    "jscpd": {
+      "codepoint": 57764,
+      "fontFamily": "FileIcons",
+      "identifier": "jscpd"
+    },
+    "json-1": {
+      "codepoint": 57765,
+      "fontFamily": "FileIcons",
+      "identifier": "json1"
+    },
+    "json-2": {
+      "codepoint": 57766,
+      "fontFamily": "FileIcons",
+      "identifier": "json2"
+    },
+    "json-ld1": {
+      "codepoint": 57767,
+      "fontFamily": "FileIcons",
+      "identifier": "jsonLd1"
+    },
+    "json-ld2": {
+      "codepoint": 57768,
+      "fontFamily": "FileIcons",
+      "identifier": "jsonLd2"
+    },
+    "json5": {
+      "codepoint": 57769,
+      "fontFamily": "FileIcons",
+      "identifier": "json5"
+    },
+    "jsonnet": {
+      "codepoint": 57770,
+      "fontFamily": "FileIcons",
+      "identifier": "jsonnet"
+    },
+    "jsx": {
+      "codepoint": 57771,
+      "fontFamily": "FileIcons",
+      "identifier": "jsx"
+    },
+    "jsx-alt": {
+      "codepoint": 57772,
+      "fontFamily": "FileIcons",
+      "identifier": "jsxAlt"
+    },
+    "jsx-atom": {
+      "codepoint": 57773,
+      "fontFamily": "FileIcons",
+      "identifier": "jsxAtom"
+    },
+    "julia": {
+      "codepoint": 57774,
+      "fontFamily": "FileIcons",
+      "identifier": "julia"
+    },
+    "junos": {
+      "codepoint": 57775,
+      "fontFamily": "FileIcons",
+      "identifier": "junos"
+    },
+    "jupyter": {
+      "codepoint": 57776,
+      "fontFamily": "FileIcons",
+      "identifier": "jupyter"
+    },
+    "kaitai": {
+      "codepoint": 57777,
+      "fontFamily": "FileIcons",
+      "identifier": "kaitai"
+    },
+    "karma": {
+      "codepoint": 57778,
+      "fontFamily": "FileIcons",
+      "identifier": "karma"
+    },
+    "keybase": {
+      "codepoint": 57779,
+      "fontFamily": "FileIcons",
+      "identifier": "keybase"
+    },
+    "keynote": {
+      "codepoint": 57780,
+      "fontFamily": "FileIcons",
+      "identifier": "keynote"
+    },
+    "khronos": {
+      "codepoint": 57781,
+      "fontFamily": "FileIcons",
+      "identifier": "khronos"
+    },
+    "kibo": {
+      "codepoint": 57782,
+      "fontFamily": "FileIcons",
+      "identifier": "kibo"
+    },
+    "kicad": {
+      "codepoint": 57783,
+      "fontFamily": "FileIcons",
+      "identifier": "kicad"
+    },
+    "kitchenci": {
+      "codepoint": 57784,
+      "fontFamily": "FileIcons",
+      "identifier": "kitchenci"
+    },
+    "kivy": {
+      "codepoint": 57785,
+      "fontFamily": "FileIcons",
+      "identifier": "kivy"
+    },
+    "knime": {
+      "codepoint": 57786,
+      "fontFamily": "FileIcons",
+      "identifier": "knime"
+    },
+    "knockout": {
+      "codepoint": 57787,
+      "fontFamily": "FileIcons",
+      "identifier": "knockout"
+    },
+    "kos": {
+      "codepoint": 57788,
+      "fontFamily": "FileIcons",
+      "identifier": "kos"
+    },
+    "kotlin": {
+      "codepoint": 57789,
+      "fontFamily": "FileIcons",
+      "identifier": "kotlin"
+    },
+    "krl": {
+      "codepoint": 57790,
+      "fontFamily": "FileIcons",
+      "identifier": "krl"
+    },
+    "kubernetes": {
+      "codepoint": 57791,
+      "fontFamily": "FileIcons",
+      "identifier": "kubernetes"
+    },
+    "kusto": {
+      "codepoint": 57792,
+      "fontFamily": "FileIcons",
+      "identifier": "kusto"
+    },
+    "kusto-alt": {
+      "codepoint": 57793,
+      "fontFamily": "FileIcons",
+      "identifier": "kustoAlt"
+    },
+    "kx": {
+      "codepoint": 57794,
+      "fontFamily": "FileIcons",
+      "identifier": "kx"
+    },
+    "labview": {
+      "codepoint": 57795,
+      "fontFamily": "FileIcons",
+      "identifier": "labview"
+    },
+    "laravel": {
+      "codepoint": 57796,
+      "fontFamily": "FileIcons",
+      "identifier": "laravel"
+    },
+    "lark": {
+      "codepoint": 57797,
+      "fontFamily": "FileIcons",
+      "identifier": "lark"
+    },
+    "lasso": {
+      "codepoint": 57798,
+      "fontFamily": "FileIcons",
+      "identifier": "lasso"
+    },
+    "latex": {
+      "codepoint": 57799,
+      "fontFamily": "FileIcons",
+      "identifier": "latex"
+    },
+    "latino": {
+      "codepoint": 57800,
+      "fontFamily": "FileIcons",
+      "identifier": "latino"
+    },
+    "leaflet": {
+      "codepoint": 57801,
+      "fontFamily": "FileIcons",
+      "identifier": "leaflet"
+    },
+    "lean": {
+      "codepoint": 57802,
+      "fontFamily": "FileIcons",
+      "identifier": "lean"
+    },
+    "lefthook": {
+      "codepoint": 57803,
+      "fontFamily": "FileIcons",
+      "identifier": "lefthook"
+    },
+    "lefthook-alt": {
+      "codepoint": 57804,
+      "fontFamily": "FileIcons",
+      "identifier": "lefthookAlt"
+    },
+    "leiningen": {
+      "codepoint": 57805,
+      "fontFamily": "FileIcons",
+      "identifier": "leiningen"
+    },
+    "lektor": {
+      "codepoint": 57806,
+      "fontFamily": "FileIcons",
+      "identifier": "lektor"
+    },
+    "lerna": {
+      "codepoint": 57807,
+      "fontFamily": "FileIcons",
+      "identifier": "lerna"
+    },
+    "lex": {
+      "codepoint": 57808,
+      "fontFamily": "FileIcons",
+      "identifier": "lex"
+    },
+    "lex-alt": {
+      "codepoint": 57809,
+      "fontFamily": "FileIcons",
+      "identifier": "lexAlt"
+    },
+    "lfe": {
+      "codepoint": 57810,
+      "fontFamily": "FileIcons",
+      "identifier": "lfe"
+    },
+    "lgtm": {
+      "codepoint": 57811,
+      "fontFamily": "FileIcons",
+      "identifier": "lgtm"
+    },
+    "libuv": {
+      "codepoint": 57812,
+      "fontFamily": "FileIcons",
+      "identifier": "libuv"
+    },
+    "lighthouse": {
+      "codepoint": 57813,
+      "fontFamily": "FileIcons",
+      "identifier": "lighthouse"
+    },
+    "lightwave": {
+      "codepoint": 57814,
+      "fontFamily": "FileIcons",
+      "identifier": "lightwave"
+    },
+    "lilypond": {
+      "codepoint": 57815,
+      "fontFamily": "FileIcons",
+      "identifier": "lilypond"
+    },
+    "lime": {
+      "codepoint": 57816,
+      "fontFamily": "FileIcons",
+      "identifier": "lime"
+    },
+    "linqpad": {
+      "codepoint": 57817,
+      "fontFamily": "FileIcons",
+      "identifier": "linqpad"
+    },
+    "lisp": {
+      "codepoint": 57818,
+      "fontFamily": "FileIcons",
+      "identifier": "lisp"
+    },
+    "livescript": {
+      "codepoint": 57819,
+      "fontFamily": "FileIcons",
+      "identifier": "livescript"
+    },
+    "llvm": {
+      "codepoint": 57820,
+      "fontFamily": "FileIcons",
+      "identifier": "llvm"
+    },
+    "logtalk": {
+      "codepoint": 57821,
+      "fontFamily": "FileIcons",
+      "identifier": "logtalk"
+    },
+    "lolcode": {
+      "codepoint": 57822,
+      "fontFamily": "FileIcons",
+      "identifier": "lolcode"
+    },
+    "lookml": {
+      "codepoint": 57823,
+      "fontFamily": "FileIcons",
+      "identifier": "lookml"
+    },
+    "lsl": {
+      "codepoint": 57824,
+      "fontFamily": "FileIcons",
+      "identifier": "lsl"
+    },
+    "lua": {
+      "codepoint": 57825,
+      "fontFamily": "FileIcons",
+      "identifier": "lua"
+    },
+    "macaulay2": {
+      "codepoint": 57826,
+      "fontFamily": "FileIcons",
+      "identifier": "macaulay2"
+    },
+    "macvim": {
+      "codepoint": 57827,
+      "fontFamily": "FileIcons",
+      "identifier": "macvim"
+    },
+    "magit": {
+      "codepoint": 57828,
+      "fontFamily": "FileIcons",
+      "identifier": "magit"
+    },
+    "mako": {
+      "codepoint": 57829,
+      "fontFamily": "FileIcons",
+      "identifier": "mako"
+    },
+    "manjaro": {
+      "codepoint": 57830,
+      "fontFamily": "FileIcons",
+      "identifier": "manjaro"
+    },
+    "manpage": {
+      "codepoint": 57831,
+      "fontFamily": "FileIcons",
+      "identifier": "manpage"
+    },
+    "mapbox": {
+      "codepoint": 57832,
+      "fontFamily": "FileIcons",
+      "identifier": "mapbox"
+    },
+    "markdownlint": {
+      "codepoint": 57833,
+      "fontFamily": "FileIcons",
+      "identifier": "markdownlint"
+    },
+    "marko": {
+      "codepoint": 57834,
+      "fontFamily": "FileIcons",
+      "identifier": "marko"
+    },
+    "mathematica": {
+      "codepoint": 57835,
+      "fontFamily": "FileIcons",
+      "identifier": "mathematica"
+    },
+    "mathjax": {
+      "codepoint": 57836,
+      "fontFamily": "FileIcons",
+      "identifier": "mathjax"
+    },
+    "matlab": {
+      "codepoint": 57837,
+      "fontFamily": "FileIcons",
+      "identifier": "matlab"
+    },
+    "matroska": {
+      "codepoint": 57838,
+      "fontFamily": "FileIcons",
+      "identifier": "matroska"
+    },
+    "max": {
+      "codepoint": 57839,
+      "fontFamily": "FileIcons",
+      "identifier": "max"
+    },
+    "maya": {
+      "codepoint": 57840,
+      "fontFamily": "FileIcons",
+      "identifier": "maya"
+    },
+    "mdx": {
+      "codepoint": 57841,
+      "fontFamily": "FileIcons",
+      "identifier": "mdx"
+    },
+    "mediawiki": {
+      "codepoint": 57842,
+      "fontFamily": "FileIcons",
+      "identifier": "mediawiki"
+    },
+    "melpa": {
+      "codepoint": 57843,
+      "fontFamily": "FileIcons",
+      "identifier": "melpa"
+    },
+    "mercurial": {
+      "codepoint": 57844,
+      "fontFamily": "FileIcons",
+      "identifier": "mercurial"
+    },
+    "mercury": {
+      "codepoint": 57845,
+      "fontFamily": "FileIcons",
+      "identifier": "mercury"
+    },
+    "mermaid": {
+      "codepoint": 57846,
+      "fontFamily": "FileIcons",
+      "identifier": "mermaid"
+    },
+    "meson": {
+      "codepoint": 57847,
+      "fontFamily": "FileIcons",
+      "identifier": "meson"
+    },
+    "meson-old": {
+      "codepoint": 57848,
+      "fontFamily": "FileIcons",
+      "identifier": "mesonOld"
+    },
+    "metal": {
+      "codepoint": 57849,
+      "fontFamily": "FileIcons",
+      "identifier": "metal"
+    },
+    "metapost": {
+      "codepoint": 57850,
+      "fontFamily": "FileIcons",
+      "identifier": "metapost"
+    },
+    "meteor": {
+      "codepoint": 57851,
+      "fontFamily": "FileIcons",
+      "identifier": "meteor"
+    },
+    "microsoft-access": {
+      "codepoint": 57852,
+      "fontFamily": "FileIcons",
+      "identifier": "microsoftAccess"
+    },
+    "microsoft-excel": {
+      "codepoint": 57853,
+      "fontFamily": "FileIcons",
+      "identifier": "microsoftExcel"
+    },
+    "microsoft-infopath": {
+      "codepoint": 57854,
+      "fontFamily": "FileIcons",
+      "identifier": "microsoftInfopath"
+    },
+    "microsoft-lync": {
+      "codepoint": 57855,
+      "fontFamily": "FileIcons",
+      "identifier": "microsoftLync"
+    },
+    "microsoft-onenote": {
+      "codepoint": 57856,
+      "fontFamily": "FileIcons",
+      "identifier": "microsoftOnenote"
+    },
+    "microsoft-outlook": {
+      "codepoint": 57857,
+      "fontFamily": "FileIcons",
+      "identifier": "microsoftOutlook"
+    },
+    "microsoft-powerpoint": {
+      "codepoint": 57858,
+      "fontFamily": "FileIcons",
+      "identifier": "microsoftPowerpoint"
+    },
+    "microsoft-project": {
+      "codepoint": 57859,
+      "fontFamily": "FileIcons",
+      "identifier": "microsoftProject"
+    },
+    "microsoft-publisher": {
+      "codepoint": 57860,
+      "fontFamily": "FileIcons",
+      "identifier": "microsoftPublisher"
+    },
+    "microsoft-visio": {
+      "codepoint": 57861,
+      "fontFamily": "FileIcons",
+      "identifier": "microsoftVisio"
+    },
+    "microsoft-word": {
+      "codepoint": 57862,
+      "fontFamily": "FileIcons",
+      "identifier": "microsoftWord"
+    },
+    "minecraft": {
+      "codepoint": 57863,
+      "fontFamily": "FileIcons",
+      "identifier": "minecraft"
+    },
+    "minizinc": {
+      "codepoint": 57864,
+      "fontFamily": "FileIcons",
+      "identifier": "minizinc"
+    },
+    "mint": {
+      "codepoint": 57865,
+      "fontFamily": "FileIcons",
+      "identifier": "mint"
+    },
+    "mirah": {
+      "codepoint": 57866,
+      "fontFamily": "FileIcons",
+      "identifier": "mirah"
+    },
+    "miranda": {
+      "codepoint": 57867,
+      "fontFamily": "FileIcons",
+      "identifier": "miranda"
+    },
+    "mirc": {
+      "codepoint": 57868,
+      "fontFamily": "FileIcons",
+      "identifier": "mirc"
+    },
+    "mixin": {
+      "codepoint": 57869,
+      "fontFamily": "FileIcons",
+      "identifier": "mixin_"
+    },
+    "mjml": {
+      "codepoint": 57870,
+      "fontFamily": "FileIcons",
+      "identifier": "mjml"
+    },
+    "mocha": {
+      "codepoint": 57871,
+      "fontFamily": "FileIcons",
+      "identifier": "mocha"
+    },
+    "modelica": {
+      "codepoint": 57872,
+      "fontFamily": "FileIcons",
+      "identifier": "modelica"
+    },
+    "modernweb": {
+      "codepoint": 57873,
+      "fontFamily": "FileIcons",
+      "identifier": "modernweb"
+    },
+    "modo": {
+      "codepoint": 57874,
+      "fontFamily": "FileIcons",
+      "identifier": "modo"
+    },
+    "modula-2": {
+      "codepoint": 57875,
+      "fontFamily": "FileIcons",
+      "identifier": "modula2"
+    },
+    "modula-3": {
+      "codepoint": 57876,
+      "fontFamily": "FileIcons",
+      "identifier": "modula3"
+    },
+    "moho": {
+      "codepoint": 57877,
+      "fontFamily": "FileIcons",
+      "identifier": "moho"
+    },
+    "moleculer": {
+      "codepoint": 57878,
+      "fontFamily": "FileIcons",
+      "identifier": "moleculer"
+    },
+    "moment": {
+      "codepoint": 57879,
+      "fontFamily": "FileIcons",
+      "identifier": "moment"
+    },
+    "moment-timezone": {
+      "codepoint": 57880,
+      "fontFamily": "FileIcons",
+      "identifier": "momentTimezone"
+    },
+    "monkey": {
+      "codepoint": 57881,
+      "fontFamily": "FileIcons",
+      "identifier": "monkey"
+    },
+    "mono": {
+      "codepoint": 57882,
+      "fontFamily": "FileIcons",
+      "identifier": "mono"
+    },
+    "monotone": {
+      "codepoint": 57883,
+      "fontFamily": "FileIcons",
+      "identifier": "monotone"
+    },
+    "motorola": {
+      "codepoint": 57884,
+      "fontFamily": "FileIcons",
+      "identifier": "motorola"
+    },
+    "moustache": {
+      "codepoint": 57885,
+      "fontFamily": "FileIcons",
+      "identifier": "moustache"
+    },
+    "mruby": {
+      "codepoint": 57886,
+      "fontFamily": "FileIcons",
+      "identifier": "mruby"
+    },
+    "ms-dos": {
+      "codepoint": 57887,
+      "fontFamily": "FileIcons",
+      "identifier": "msDos"
+    },
+    "mupad": {
+      "codepoint": 57888,
+      "fontFamily": "FileIcons",
+      "identifier": "mupad"
+    },
+    "nano": {
+      "codepoint": 57889,
+      "fontFamily": "FileIcons",
+      "identifier": "nano"
+    },
+    "nanoc": {
+      "codepoint": 57890,
+      "fontFamily": "FileIcons",
+      "identifier": "nanoc"
+    },
+    "nant": {
+      "codepoint": 57891,
+      "fontFamily": "FileIcons",
+      "identifier": "nant"
+    },
+    "nasm": {
+      "codepoint": 57892,
+      "fontFamily": "FileIcons",
+      "identifier": "nasm"
+    },
+    "ndepend": {
+      "codepoint": 57893,
+      "fontFamily": "FileIcons",
+      "identifier": "ndepend"
+    },
+    "neko": {
+      "codepoint": 57894,
+      "fontFamily": "FileIcons",
+      "identifier": "neko"
+    },
+    "nemerle": {
+      "codepoint": 57895,
+      "fontFamily": "FileIcons",
+      "identifier": "nemerle"
+    },
+    "neo4j": {
+      "codepoint": 57896,
+      "fontFamily": "FileIcons",
+      "identifier": "neo4j"
+    },
+    "neon": {
+      "codepoint": 57897,
+      "fontFamily": "FileIcons",
+      "identifier": "neon"
+    },
+    "nessus": {
+      "codepoint": 57898,
+      "fontFamily": "FileIcons",
+      "identifier": "nessus"
+    },
+    "nestjs": {
+      "codepoint": 57899,
+      "fontFamily": "FileIcons",
+      "identifier": "nestjs"
+    },
+    "netlify": {
+      "codepoint": 57900,
+      "fontFamily": "FileIcons",
+      "identifier": "netlify"
+    },
+    "netlinx": {
+      "codepoint": 57901,
+      "fontFamily": "FileIcons",
+      "identifier": "netlinx"
+    },
+    "netlogo": {
+      "codepoint": 57902,
+      "fontFamily": "FileIcons",
+      "identifier": "netlogo"
+    },
+    "new-relic": {
+      "codepoint": 57903,
+      "fontFamily": "FileIcons",
+      "identifier": "newRelic"
+    },
+    "nextflow": {
+      "codepoint": 57904,
+      "fontFamily": "FileIcons",
+      "identifier": "nextflow"
+    },
+    "nextjs": {
+      "codepoint": 57905,
+      "fontFamily": "FileIcons",
+      "identifier": "nextjs"
+    },
+    "nginx": {
+      "codepoint": 57906,
+      "fontFamily": "FileIcons",
+      "identifier": "nginx"
+    },
+    "ngrx": {
+      "codepoint": 57907,
+      "fontFamily": "FileIcons",
+      "identifier": "ngrx"
+    },
+    "nib": {
+      "codepoint": 57908,
+      "fontFamily": "FileIcons",
+      "identifier": "nib"
+    },
+    "nickle": {
+      "codepoint": 57909,
+      "fontFamily": "FileIcons",
+      "identifier": "nickle"
+    },
+    "nightwatch": {
+      "codepoint": 57910,
+      "fontFamily": "FileIcons",
+      "identifier": "nightwatch"
+    },
+    "nimble": {
+      "codepoint": 57911,
+      "fontFamily": "FileIcons",
+      "identifier": "nimble"
+    },
+    "nimrod": {
+      "codepoint": 57912,
+      "fontFamily": "FileIcons",
+      "identifier": "nimrod"
+    },
+    "nintendo64": {
+      "codepoint": 57913,
+      "fontFamily": "FileIcons",
+      "identifier": "nintendo64"
+    },
+    "nit": {
+      "codepoint": 57914,
+      "fontFamily": "FileIcons",
+      "identifier": "nit"
+    },
+    "nix": {
+      "codepoint": 57915,
+      "fontFamily": "FileIcons",
+      "identifier": "nix"
+    },
+    "nmap": {
+      "codepoint": 57916,
+      "fontFamily": "FileIcons",
+      "identifier": "nmap"
+    },
+    "nodemon": {
+      "codepoint": 57917,
+      "fontFamily": "FileIcons",
+      "identifier": "nodemon"
+    },
+    "nokogiri": {
+      "codepoint": 57918,
+      "fontFamily": "FileIcons",
+      "identifier": "nokogiri"
+    },
+    "nomad": {
+      "codepoint": 57919,
+      "fontFamily": "FileIcons",
+      "identifier": "nomad"
+    },
+    "noon": {
+      "codepoint": 57920,
+      "fontFamily": "FileIcons",
+      "identifier": "noon"
+    },
+    "normalise": {
+      "codepoint": 57921,
+      "fontFamily": "FileIcons",
+      "identifier": "normalise"
+    },
+    "npm": {
+      "codepoint": 57922,
+      "fontFamily": "FileIcons",
+      "identifier": "npm"
+    },
+    "npm-old": {
+      "codepoint": 57923,
+      "fontFamily": "FileIcons",
+      "identifier": "npmOld"
+    },
+    "nsis": {
+      "codepoint": 57924,
+      "fontFamily": "FileIcons",
+      "identifier": "nsis"
+    },
+    "nsis-old": {
+      "codepoint": 57925,
+      "fontFamily": "FileIcons",
+      "identifier": "nsisOld"
+    },
+    "nsri": {
+      "codepoint": 57926,
+      "fontFamily": "FileIcons",
+      "identifier": "nsri"
+    },
+    "nsri-alt": {
+      "codepoint": 57927,
+      "fontFamily": "FileIcons",
+      "identifier": "nsriAlt"
+    },
+    "nuclide": {
+      "codepoint": 57928,
+      "fontFamily": "FileIcons",
+      "identifier": "nuclide"
+    },
+    "nuget": {
+      "codepoint": 57929,
+      "fontFamily": "FileIcons",
+      "identifier": "nuget"
+    },
+    "numpy": {
+      "codepoint": 57930,
+      "fontFamily": "FileIcons",
+      "identifier": "numpy"
+    },
+    "numpy-old": {
+      "codepoint": 57931,
+      "fontFamily": "FileIcons",
+      "identifier": "numpyOld"
+    },
+    "nunjucks": {
+      "codepoint": 57932,
+      "fontFamily": "FileIcons",
+      "identifier": "nunjucks"
+    },
+    "nuxt": {
+      "codepoint": 57933,
+      "fontFamily": "FileIcons",
+      "identifier": "nuxt"
+    },
+    "nvidia": {
+      "codepoint": 57934,
+      "fontFamily": "FileIcons",
+      "identifier": "nvidia"
+    },
+    "nwscript": {
+      "codepoint": 57935,
+      "fontFamily": "FileIcons",
+      "identifier": "nwscript"
+    },
+    "nx": {
+      "codepoint": 57936,
+      "fontFamily": "FileIcons",
+      "identifier": "nx"
+    },
+    "nxc": {
+      "codepoint": 57937,
+      "fontFamily": "FileIcons",
+      "identifier": "nxc"
+    },
+    "oberon": {
+      "codepoint": 57938,
+      "fontFamily": "FileIcons",
+      "identifier": "oberon"
+    },
+    "objective-j": {
+      "codepoint": 57939,
+      "fontFamily": "FileIcons",
+      "identifier": "objectiveJ"
+    },
+    "ocaml": {
+      "codepoint": 57940,
+      "fontFamily": "FileIcons",
+      "identifier": "ocaml"
+    },
+    "octave": {
+      "codepoint": 57941,
+      "fontFamily": "FileIcons",
+      "identifier": "octave"
+    },
+    "odin": {
+      "codepoint": 57942,
+      "fontFamily": "FileIcons",
+      "identifier": "odin"
+    },
+    "ogone": {
+      "codepoint": 57943,
+      "fontFamily": "FileIcons",
+      "identifier": "ogone"
+    },
+    "omnigraffle": {
+      "codepoint": 57944,
+      "fontFamily": "FileIcons",
+      "identifier": "omnigraffle"
+    },
+    "ooc": {
+      "codepoint": 57945,
+      "fontFamily": "FileIcons",
+      "identifier": "ooc"
+    },
+    "opa": {
+      "codepoint": 57946,
+      "fontFamily": "FileIcons",
+      "identifier": "opa"
+    },
+    "openapi": {
+      "codepoint": 57947,
+      "fontFamily": "FileIcons",
+      "identifier": "openapi"
+    },
+    "openbsd": {
+      "codepoint": 57948,
+      "fontFamily": "FileIcons",
+      "identifier": "openbsd"
+    },
+    "openbsd-alt": {
+      "codepoint": 57949,
+      "fontFamily": "FileIcons",
+      "identifier": "openbsdAlt"
+    },
+    "opencl": {
+      "codepoint": 57950,
+      "fontFamily": "FileIcons",
+      "identifier": "opencl"
+    },
+    "opencv": {
+      "codepoint": 57951,
+      "fontFamily": "FileIcons",
+      "identifier": "opencv"
+    },
+    "openexr": {
+      "codepoint": 57952,
+      "fontFamily": "FileIcons",
+      "identifier": "openexr"
+    },
+    "opengl": {
+      "codepoint": 57953,
+      "fontFamily": "FileIcons",
+      "identifier": "opengl"
+    },
+    "openindiana": {
+      "codepoint": 57954,
+      "fontFamily": "FileIcons",
+      "identifier": "openindiana"
+    },
+    "openoffice": {
+      "codepoint": 57955,
+      "fontFamily": "FileIcons",
+      "identifier": "openoffice"
+    },
+    "openpolicyagent": {
+      "codepoint": 57956,
+      "fontFamily": "FileIcons",
+      "identifier": "openpolicyagent"
+    },
+    "openscad": {
+      "codepoint": 57957,
+      "fontFamily": "FileIcons",
+      "identifier": "openscad"
+    },
+    "opensolaris": {
+      "codepoint": 57958,
+      "fontFamily": "FileIcons",
+      "identifier": "opensolaris"
+    },
+    "openstack": {
+      "codepoint": 57959,
+      "fontFamily": "FileIcons",
+      "identifier": "openstack"
+    },
+    "openvms": {
+      "codepoint": 57960,
+      "fontFamily": "FileIcons",
+      "identifier": "openvms"
+    },
+    "openvpn": {
+      "codepoint": 57961,
+      "fontFamily": "FileIcons",
+      "identifier": "openvpn"
+    },
+    "openzfs": {
+      "codepoint": 57962,
+      "fontFamily": "FileIcons",
+      "identifier": "openzfs"
+    },
+    "org-mode": {
+      "codepoint": 57963,
+      "fontFamily": "FileIcons",
+      "identifier": "orgMode"
+    },
+    "os2": {
+      "codepoint": 57964,
+      "fontFamily": "FileIcons",
+      "identifier": "os2"
+    },
+    "owl": {
+      "codepoint": 57965,
+      "fontFamily": "FileIcons",
+      "identifier": "owl"
+    },
+    "ox": {
+      "codepoint": 57966,
+      "fontFamily": "FileIcons",
+      "identifier": "ox"
+    },
+    "oxygene": {
+      "codepoint": 57967,
+      "fontFamily": "FileIcons",
+      "identifier": "oxygene"
+    },
+    "oz": {
+      "codepoint": 57968,
+      "fontFamily": "FileIcons",
+      "identifier": "oz"
+    },
+    "p4": {
+      "codepoint": 57969,
+      "fontFamily": "FileIcons",
+      "identifier": "p4"
+    },
+    "pan": {
+      "codepoint": 57970,
+      "fontFamily": "FileIcons",
+      "identifier": "pan"
+    },
+    "papyrus": {
+      "codepoint": 57971,
+      "fontFamily": "FileIcons",
+      "identifier": "papyrus"
+    },
+    "parrot": {
+      "codepoint": 57972,
+      "fontFamily": "FileIcons",
+      "identifier": "parrot"
+    },
+    "pascal": {
+      "codepoint": 57973,
+      "fontFamily": "FileIcons",
+      "identifier": "pascal"
+    },
+    "patch": {
+      "codepoint": 57974,
+      "fontFamily": "FileIcons",
+      "identifier": "patch"
+    },
+    "patreon": {
+      "codepoint": 57975,
+      "fontFamily": "FileIcons",
+      "identifier": "patreon"
+    },
+    "pawn": {
+      "codepoint": 57976,
+      "fontFamily": "FileIcons",
+      "identifier": "pawn"
+    },
+    "pcd": {
+      "codepoint": 57977,
+      "fontFamily": "FileIcons",
+      "identifier": "pcd"
+    },
+    "pegjs": {
+      "codepoint": 57978,
+      "fontFamily": "FileIcons",
+      "identifier": "pegjs"
+    },
+    "perl6": {
+      "codepoint": 57979,
+      "fontFamily": "FileIcons",
+      "identifier": "perl6"
+    },
+    "phalcon": {
+      "codepoint": 57980,
+      "fontFamily": "FileIcons",
+      "identifier": "phalcon"
+    },
+    "phoenix": {
+      "codepoint": 57981,
+      "fontFamily": "FileIcons",
+      "identifier": "phoenix"
+    },
+    "photorec": {
+      "codepoint": 57982,
+      "fontFamily": "FileIcons",
+      "identifier": "photorec"
+    },
+    "php": {
+      "codepoint": 57983,
+      "fontFamily": "FileIcons",
+      "identifier": "php"
+    },
+    "phpunit": {
+      "codepoint": 57984,
+      "fontFamily": "FileIcons",
+      "identifier": "phpunit"
+    },
+    "phraseapp": {
+      "codepoint": 57985,
+      "fontFamily": "FileIcons",
+      "identifier": "phraseapp"
+    },
+    "pickle": {
+      "codepoint": 57986,
+      "fontFamily": "FileIcons",
+      "identifier": "pickle"
+    },
+    "pico-8": {
+      "codepoint": 57987,
+      "fontFamily": "FileIcons",
+      "identifier": "pico8"
+    },
+    "picolisp": {
+      "codepoint": 57988,
+      "fontFamily": "FileIcons",
+      "identifier": "picolisp"
+    },
+    "pike": {
+      "codepoint": 57989,
+      "fontFamily": "FileIcons",
+      "identifier": "pike"
+    },
+    "pinescript": {
+      "codepoint": 57990,
+      "fontFamily": "FileIcons",
+      "identifier": "pinescript"
+    },
+    "pipenv": {
+      "codepoint": 57991,
+      "fontFamily": "FileIcons",
+      "identifier": "pipenv"
+    },
+    "pkgsrc": {
+      "codepoint": 57992,
+      "fontFamily": "FileIcons",
+      "identifier": "pkgsrc"
+    },
+    "platformio": {
+      "codepoint": 57993,
+      "fontFamily": "FileIcons",
+      "identifier": "platformio"
+    },
+    "pm2": {
+      "codepoint": 57994,
+      "fontFamily": "FileIcons",
+      "identifier": "pm2"
+    },
+    "pnpm": {
+      "codepoint": 57995,
+      "fontFamily": "FileIcons",
+      "identifier": "pnpm"
+    },
+    "pod": {
+      "codepoint": 57996,
+      "fontFamily": "FileIcons",
+      "identifier": "pod"
+    },
+    "pogoscript": {
+      "codepoint": 57997,
+      "fontFamily": "FileIcons",
+      "identifier": "pogoscript"
+    },
+    "pointwise": {
+      "codepoint": 57998,
+      "fontFamily": "FileIcons",
+      "identifier": "pointwise"
+    },
+    "polymer": {
+      "codepoint": 57999,
+      "fontFamily": "FileIcons",
+      "identifier": "polymer"
+    },
+    "pony": {
+      "codepoint": 58000,
+      "fontFamily": "FileIcons",
+      "identifier": "pony"
+    },
+    "postcss": {
+      "codepoint": 58001,
+      "fontFamily": "FileIcons",
+      "identifier": "postcss"
+    },
+    "postscript": {
+      "codepoint": 58002,
+      "fontFamily": "FileIcons",
+      "identifier": "postscript"
+    },
+    "pov-ray": {
+      "codepoint": 58003,
+      "fontFamily": "FileIcons",
+      "identifier": "povRay"
+    },
+    "powerbuilder": {
+      "codepoint": 58004,
+      "fontFamily": "FileIcons",
+      "identifier": "powerbuilder"
+    },
+    "powerpc": {
+      "codepoint": 58005,
+      "fontFamily": "FileIcons",
+      "identifier": "powerpc"
+    },
+    "powershell": {
+      "codepoint": 58006,
+      "fontFamily": "FileIcons",
+      "identifier": "powershell"
+    },
+    "precision": {
+      "codepoint": 58007,
+      "fontFamily": "FileIcons",
+      "identifier": "precision"
+    },
+    "precommit": {
+      "codepoint": 58008,
+      "fontFamily": "FileIcons",
+      "identifier": "precommit"
+    },
+    "prettier": {
+      "codepoint": 58009,
+      "fontFamily": "FileIcons",
+      "identifier": "prettier"
+    },
+    "prisma": {
+      "codepoint": 58010,
+      "fontFamily": "FileIcons",
+      "identifier": "prisma"
+    },
+    "processing": {
+      "codepoint": 58011,
+      "fontFamily": "FileIcons",
+      "identifier": "processing"
+    },
+    "progress": {
+      "codepoint": 58012,
+      "fontFamily": "FileIcons",
+      "identifier": "progress"
+    },
+    "progress-old": {
+      "codepoint": 58013,
+      "fontFamily": "FileIcons",
+      "identifier": "progressOld"
+    },
+    "propeller": {
+      "codepoint": 58014,
+      "fontFamily": "FileIcons",
+      "identifier": "propeller"
+    },
+    "pros": {
+      "codepoint": 58015,
+      "fontFamily": "FileIcons",
+      "identifier": "pros"
+    },
+    "proselint": {
+      "codepoint": 58016,
+      "fontFamily": "FileIcons",
+      "identifier": "proselint"
+    },
+    "protractor": {
+      "codepoint": 58017,
+      "fontFamily": "FileIcons",
+      "identifier": "protractor"
+    },
+    "pug": {
+      "codepoint": 58018,
+      "fontFamily": "FileIcons",
+      "identifier": "pug"
+    },
+    "pug-old": {
+      "codepoint": 58019,
+      "fontFamily": "FileIcons",
+      "identifier": "pugOld"
+    },
+    "pullapprove": {
+      "codepoint": 58020,
+      "fontFamily": "FileIcons",
+      "identifier": "pullapprove"
+    },
+    "puppet": {
+      "codepoint": 58021,
+      "fontFamily": "FileIcons",
+      "identifier": "puppet"
+    },
+    "pure": {
+      "codepoint": 58022,
+      "fontFamily": "FileIcons",
+      "identifier": "pure"
+    },
+    "purebasic": {
+      "codepoint": 58023,
+      "fontFamily": "FileIcons",
+      "identifier": "purebasic"
+    },
+    "purescript": {
+      "codepoint": 58024,
+      "fontFamily": "FileIcons",
+      "identifier": "purescript"
+    },
+    "pypi": {
+      "codepoint": 58025,
+      "fontFamily": "FileIcons",
+      "identifier": "pypi"
+    },
+    "pyret": {
+      "codepoint": 58026,
+      "fontFamily": "FileIcons",
+      "identifier": "pyret"
+    },
+    "pytest": {
+      "codepoint": 58027,
+      "fontFamily": "FileIcons",
+      "identifier": "pytest"
+    },
+    "pyup": {
+      "codepoint": 58028,
+      "fontFamily": "FileIcons",
+      "identifier": "pyup"
+    },
+    "q": {
+      "codepoint": 58029,
+      "fontFamily": "FileIcons",
+      "identifier": "q"
+    },
+    "qiskit": {
+      "codepoint": 58030,
+      "fontFamily": "FileIcons",
+      "identifier": "qiskit"
+    },
+    "qlikview": {
+      "codepoint": 58031,
+      "fontFamily": "FileIcons",
+      "identifier": "qlikview"
+    },
+    "qt": {
+      "codepoint": 58032,
+      "fontFamily": "FileIcons",
+      "identifier": "qt"
+    },
+    "quasar": {
+      "codepoint": 58033,
+      "fontFamily": "FileIcons",
+      "identifier": "quasar"
+    },
+    "r": {
+      "codepoint": 58034,
+      "fontFamily": "FileIcons",
+      "identifier": "r"
+    },
+    "racket": {
+      "codepoint": 58035,
+      "fontFamily": "FileIcons",
+      "identifier": "racket"
+    },
+    "raml": {
+      "codepoint": 58036,
+      "fontFamily": "FileIcons",
+      "identifier": "raml"
+    },
+    "rascal": {
+      "codepoint": 58037,
+      "fontFamily": "FileIcons",
+      "identifier": "rascal"
+    },
+    "razzle": {
+      "codepoint": 58038,
+      "fontFamily": "FileIcons",
+      "identifier": "razzle"
+    },
+    "rdata": {
+      "codepoint": 58039,
+      "fontFamily": "FileIcons",
+      "identifier": "rdata"
+    },
+    "rdoc": {
+      "codepoint": 58040,
+      "fontFamily": "FileIcons",
+      "identifier": "rdoc"
+    },
+    "reactos": {
+      "codepoint": 58041,
+      "fontFamily": "FileIcons",
+      "identifier": "reactos"
+    },
+    "readthedocs": {
+      "codepoint": 58042,
+      "fontFamily": "FileIcons",
+      "identifier": "readthedocs"
+    },
+    "realbasic": {
+      "codepoint": 58043,
+      "fontFamily": "FileIcons",
+      "identifier": "realbasic"
+    },
+    "reason": {
+      "codepoint": 58044,
+      "fontFamily": "FileIcons",
+      "identifier": "reason"
+    },
+    "reasonstudios": {
+      "codepoint": 58045,
+      "fontFamily": "FileIcons",
+      "identifier": "reasonstudios"
+    },
+    "reasonstudios-alt": {
+      "codepoint": 58046,
+      "fontFamily": "FileIcons",
+      "identifier": "reasonstudiosAlt"
+    },
+    "rebol": {
+      "codepoint": 58047,
+      "fontFamily": "FileIcons",
+      "identifier": "rebol"
+    },
+    "red": {
+      "codepoint": 58048,
+      "fontFamily": "FileIcons",
+      "identifier": "red"
+    },
+    "red-old": {
+      "codepoint": 58049,
+      "fontFamily": "FileIcons",
+      "identifier": "redOld"
+    },
+    "redux": {
+      "codepoint": 58050,
+      "fontFamily": "FileIcons",
+      "identifier": "redux"
+    },
+    "reek": {
+      "codepoint": 58051,
+      "fontFamily": "FileIcons",
+      "identifier": "reek"
+    },
+    "regex": {
+      "codepoint": 58052,
+      "fontFamily": "FileIcons",
+      "identifier": "regex"
+    },
+    "remark": {
+      "codepoint": 58053,
+      "fontFamily": "FileIcons",
+      "identifier": "remark"
+    },
+    "renovate": {
+      "codepoint": 58054,
+      "fontFamily": "FileIcons",
+      "identifier": "renovate"
+    },
+    "rescript": {
+      "codepoint": 58055,
+      "fontFamily": "FileIcons",
+      "identifier": "rescript"
+    },
+    "restql": {
+      "codepoint": 58056,
+      "fontFamily": "FileIcons",
+      "identifier": "restql"
+    },
+    "restructuredtext": {
+      "codepoint": 58057,
+      "fontFamily": "FileIcons",
+      "identifier": "restructuredtext"
+    },
+    "rexx": {
+      "codepoint": 58058,
+      "fontFamily": "FileIcons",
+      "identifier": "rexx"
+    },
+    "rhino3d": {
+      "codepoint": 58059,
+      "fontFamily": "FileIcons",
+      "identifier": "rhino3d"
+    },
+    "ring": {
+      "codepoint": 58060,
+      "fontFamily": "FileIcons",
+      "identifier": "ring"
+    },
+    "riot": {
+      "codepoint": 58061,
+      "fontFamily": "FileIcons",
+      "identifier": "riot"
+    },
+    "riot-old": {
+      "codepoint": 58062,
+      "fontFamily": "FileIcons",
+      "identifier": "riotOld"
+    },
+    "risc-v": {
+      "codepoint": 58063,
+      "fontFamily": "FileIcons",
+      "identifier": "riscV"
+    },
+    "rmarkdown": {
+      "codepoint": 58064,
+      "fontFamily": "FileIcons",
+      "identifier": "rmarkdown"
+    },
+    "robotframework": {
+      "codepoint": 58065,
+      "fontFamily": "FileIcons",
+      "identifier": "robotframework"
+    },
+    "robotframework-old": {
+      "codepoint": 58066,
+      "fontFamily": "FileIcons",
+      "identifier": "robotframeworkOld"
+    },
+    "robots": {
+      "codepoint": 58067,
+      "fontFamily": "FileIcons",
+      "identifier": "robots"
+    },
+    "rollup": {
+      "codepoint": 58068,
+      "fontFamily": "FileIcons",
+      "identifier": "rollup"
+    },
+    "rollup-old": {
+      "codepoint": 58069,
+      "fontFamily": "FileIcons",
+      "identifier": "rollupOld"
+    },
+    "rspec": {
+      "codepoint": 58070,
+      "fontFamily": "FileIcons",
+      "identifier": "rspec"
+    },
+    "rstudio": {
+      "codepoint": 58071,
+      "fontFamily": "FileIcons",
+      "identifier": "rstudio"
+    },
+    "rsync": {
+      "codepoint": 58072,
+      "fontFamily": "FileIcons",
+      "identifier": "rsync"
+    },
+    "rubocop": {
+      "codepoint": 58073,
+      "fontFamily": "FileIcons",
+      "identifier": "rubocop"
+    },
+    "rubygems": {
+      "codepoint": 58074,
+      "fontFamily": "FileIcons",
+      "identifier": "rubygems"
+    },
+    "sac": {
+      "codepoint": 58075,
+      "fontFamily": "FileIcons",
+      "identifier": "sac"
+    },
+    "sage": {
+      "codepoint": 58076,
+      "fontFamily": "FileIcons",
+      "identifier": "sage"
+    },
+    "sails": {
+      "codepoint": 58077,
+      "fontFamily": "FileIcons",
+      "identifier": "sails"
+    },
+    "saltstack": {
+      "codepoint": 58078,
+      "fontFamily": "FileIcons",
+      "identifier": "saltstack"
+    },
+    "san": {
+      "codepoint": 58079,
+      "fontFamily": "FileIcons",
+      "identifier": "san"
+    },
+    "sandbox": {
+      "codepoint": 58080,
+      "fontFamily": "FileIcons",
+      "identifier": "sandbox"
+    },
+    "sas": {
+      "codepoint": 58081,
+      "fontFamily": "FileIcons",
+      "identifier": "sas"
+    },
+    "sbt": {
+      "codepoint": 58082,
+      "fontFamily": "FileIcons",
+      "identifier": "sbt"
+    },
+    "scheme": {
+      "codepoint": 58083,
+      "fontFamily": "FileIcons",
+      "identifier": "scheme"
+    },
+    "scilab": {
+      "codepoint": 58084,
+      "fontFamily": "FileIcons",
+      "identifier": "scilab"
+    },
+    "scilla": {
+      "codepoint": 58085,
+      "fontFamily": "FileIcons",
+      "identifier": "scilla"
+    },
+    "scratch": {
+      "codepoint": 58086,
+      "fontFamily": "FileIcons",
+      "identifier": "scratch"
+    },
+    "scrutinizer": {
+      "codepoint": 58087,
+      "fontFamily": "FileIcons",
+      "identifier": "scrutinizer"
+    },
+    "self": {
+      "codepoint": 58088,
+      "fontFamily": "FileIcons",
+      "identifier": "self"
+    },
+    "semanticrelease": {
+      "codepoint": 58089,
+      "fontFamily": "FileIcons",
+      "identifier": "semanticrelease"
+    },
+    "sentry": {
+      "codepoint": 58090,
+      "fontFamily": "FileIcons",
+      "identifier": "sentry"
+    },
+    "sequelize": {
+      "codepoint": 58091,
+      "fontFamily": "FileIcons",
+      "identifier": "sequelize"
+    },
+    "serverless": {
+      "codepoint": 58092,
+      "fontFamily": "FileIcons",
+      "identifier": "serverless"
+    },
+    "service-fabric": {
+      "codepoint": 58093,
+      "fontFamily": "FileIcons",
+      "identifier": "serviceFabric"
+    },
+    "shadowcljs": {
+      "codepoint": 58094,
+      "fontFamily": "FileIcons",
+      "identifier": "shadowcljs"
+    },
+    "shellcheck": {
+      "codepoint": 58095,
+      "fontFamily": "FileIcons",
+      "identifier": "shellcheck"
+    },
+    "shen": {
+      "codepoint": 58096,
+      "fontFamily": "FileIcons",
+      "identifier": "shen"
+    },
+    "shipit": {
+      "codepoint": 58097,
+      "fontFamily": "FileIcons",
+      "identifier": "shipit"
+    },
+    "shippable": {
+      "codepoint": 58098,
+      "fontFamily": "FileIcons",
+      "identifier": "shippable"
+    },
+    "shopify": {
+      "codepoint": 58099,
+      "fontFamily": "FileIcons",
+      "identifier": "shopify"
+    },
+    "shuriken": {
+      "codepoint": 58100,
+      "fontFamily": "FileIcons",
+      "identifier": "shuriken"
+    },
+    "sigils": {
+      "codepoint": 58101,
+      "fontFamily": "FileIcons",
+      "identifier": "sigils"
+    },
+    "silicongraphics": {
+      "codepoint": 58102,
+      "fontFamily": "FileIcons",
+      "identifier": "silicongraphics"
+    },
+    "silverstripe": {
+      "codepoint": 58103,
+      "fontFamily": "FileIcons",
+      "identifier": "silverstripe"
+    },
+    "sinatra": {
+      "codepoint": 58104,
+      "fontFamily": "FileIcons",
+      "identifier": "sinatra"
+    },
+    "sketch": {
+      "codepoint": 58105,
+      "fontFamily": "FileIcons",
+      "identifier": "sketch"
+    },
+    "sketchup-layout": {
+      "codepoint": 58106,
+      "fontFamily": "FileIcons",
+      "identifier": "sketchupLayout"
+    },
+    "sketchup-make": {
+      "codepoint": 58107,
+      "fontFamily": "FileIcons",
+      "identifier": "sketchupMake"
+    },
+    "sketchup-stylebuilder": {
+      "codepoint": 58108,
+      "fontFamily": "FileIcons",
+      "identifier": "sketchupStylebuilder"
+    },
+    "slash": {
+      "codepoint": 58109,
+      "fontFamily": "FileIcons",
+      "identifier": "slash"
+    },
+    "smartos": {
+      "codepoint": 58110,
+      "fontFamily": "FileIcons",
+      "identifier": "smartos"
+    },
+    "smartos-alt": {
+      "codepoint": 58111,
+      "fontFamily": "FileIcons",
+      "identifier": "smartosAlt"
+    },
+    "snapcraft": {
+      "codepoint": 58112,
+      "fontFamily": "FileIcons",
+      "identifier": "snapcraft"
+    },
+    "snort": {
+      "codepoint": 58113,
+      "fontFamily": "FileIcons",
+      "identifier": "snort"
+    },
+    "snowpack": {
+      "codepoint": 58114,
+      "fontFamily": "FileIcons",
+      "identifier": "snowpack"
+    },
+    "snyk": {
+      "codepoint": 58115,
+      "fontFamily": "FileIcons",
+      "identifier": "snyk"
+    },
+    "solidarity": {
+      "codepoint": 58116,
+      "fontFamily": "FileIcons",
+      "identifier": "solidarity"
+    },
+    "solidity": {
+      "codepoint": 58117,
+      "fontFamily": "FileIcons",
+      "identifier": "solidity"
+    },
+    "sophia": {
+      "codepoint": 58118,
+      "fontFamily": "FileIcons",
+      "identifier": "sophia"
+    },
+    "sorbet": {
+      "codepoint": 58119,
+      "fontFamily": "FileIcons",
+      "identifier": "sorbet"
+    },
+    "source": {
+      "codepoint": 58120,
+      "fontFamily": "FileIcons",
+      "identifier": "source"
+    },
+    "spacemacs": {
+      "codepoint": 58121,
+      "fontFamily": "FileIcons",
+      "identifier": "spacemacs"
+    },
+    "spacengine": {
+      "codepoint": 58122,
+      "fontFamily": "FileIcons",
+      "identifier": "spacengine"
+    },
+    "sparc": {
+      "codepoint": 58123,
+      "fontFamily": "FileIcons",
+      "identifier": "sparc"
+    },
+    "spray": {
+      "codepoint": 58124,
+      "fontFamily": "FileIcons",
+      "identifier": "spray"
+    },
+    "sqf": {
+      "codepoint": 58125,
+      "fontFamily": "FileIcons",
+      "identifier": "sqf"
+    },
+    "sqlite": {
+      "codepoint": 58126,
+      "fontFamily": "FileIcons",
+      "identifier": "sqlite"
+    },
+    "squarespace": {
+      "codepoint": 58127,
+      "fontFamily": "FileIcons",
+      "identifier": "squarespace"
+    },
+    "stan": {
+      "codepoint": 58128,
+      "fontFamily": "FileIcons",
+      "identifier": "stan"
+    },
+    "stata": {
+      "codepoint": 58129,
+      "fontFamily": "FileIcons",
+      "identifier": "stata"
+    },
+    "stdlibjs": {
+      "codepoint": 58130,
+      "fontFamily": "FileIcons",
+      "identifier": "stdlibjs"
+    },
+    "stencil": {
+      "codepoint": 58131,
+      "fontFamily": "FileIcons",
+      "identifier": "stencil"
+    },
+    "stitches": {
+      "codepoint": 58132,
+      "fontFamily": "FileIcons",
+      "identifier": "stitches"
+    },
+    "storybook": {
+      "codepoint": 58133,
+      "fontFamily": "FileIcons",
+      "identifier": "storybook"
+    },
+    "storyist": {
+      "codepoint": 58134,
+      "fontFamily": "FileIcons",
+      "identifier": "storyist"
+    },
+    "strings": {
+      "codepoint": 58135,
+      "fontFamily": "FileIcons",
+      "identifier": "strings"
+    },
+    "stylable": {
+      "codepoint": 58136,
+      "fontFamily": "FileIcons",
+      "identifier": "stylable"
+    },
+    "styledcomponents": {
+      "codepoint": 58137,
+      "fontFamily": "FileIcons",
+      "identifier": "styledcomponents"
+    },
+    "stylelint": {
+      "codepoint": 58138,
+      "fontFamily": "FileIcons",
+      "identifier": "stylelint"
+    },
+    "stylishhaskell": {
+      "codepoint": 58139,
+      "fontFamily": "FileIcons",
+      "identifier": "stylishhaskell"
+    },
+    "stylus": {
+      "codepoint": 58140,
+      "fontFamily": "FileIcons",
+      "identifier": "stylus"
+    },
+    "stylus-orb": {
+      "codepoint": 58141,
+      "fontFamily": "FileIcons",
+      "identifier": "stylusOrb"
+    },
+    "stylus-s": {
+      "codepoint": 58142,
+      "fontFamily": "FileIcons",
+      "identifier": "stylusS"
+    },
+    "sublime": {
+      "codepoint": 58143,
+      "fontFamily": "FileIcons",
+      "identifier": "sublime"
+    },
+    "supercollider": {
+      "codepoint": 58144,
+      "fontFamily": "FileIcons",
+      "identifier": "supercollider"
+    },
+    "svelte": {
+      "codepoint": 58145,
+      "fontFamily": "FileIcons",
+      "identifier": "svelte"
+    },
+    "svn": {
+      "codepoint": 58146,
+      "fontFamily": "FileIcons",
+      "identifier": "svn"
+    },
+    "swagger": {
+      "codepoint": 58147,
+      "fontFamily": "FileIcons",
+      "identifier": "swagger"
+    },
+    "systemverilog": {
+      "codepoint": 58148,
+      "fontFamily": "FileIcons",
+      "identifier": "systemverilog"
+    },
+    "tag": {
+      "codepoint": 58149,
+      "fontFamily": "FileIcons",
+      "identifier": "tag"
+    },
+    "tailwind": {
+      "codepoint": 58150,
+      "fontFamily": "FileIcons",
+      "identifier": "tailwind"
+    },
+    "tcl": {
+      "codepoint": 58151,
+      "fontFamily": "FileIcons",
+      "identifier": "tcl"
+    },
+    "telegram": {
+      "codepoint": 58152,
+      "fontFamily": "FileIcons",
+      "identifier": "telegram"
+    },
+    "templatetoolkit": {
+      "codepoint": 58153,
+      "fontFamily": "FileIcons",
+      "identifier": "templatetoolkit"
+    },
+    "templeos": {
+      "codepoint": 58154,
+      "fontFamily": "FileIcons",
+      "identifier": "templeos"
+    },
+    "terminal": {
+      "codepoint": 58155,
+      "fontFamily": "FileIcons",
+      "identifier": "terminal"
+    },
+    "tern": {
+      "codepoint": 58156,
+      "fontFamily": "FileIcons",
+      "identifier": "tern"
+    },
+    "terraform": {
+      "codepoint": 58157,
+      "fontFamily": "FileIcons",
+      "identifier": "terraform"
+    },
+    "terser": {
+      "codepoint": 58158,
+      "fontFamily": "FileIcons",
+      "identifier": "terser"
+    },
+    "test-coffeescript": {
+      "codepoint": 58159,
+      "fontFamily": "FileIcons",
+      "identifier": "testCoffeescript"
+    },
+    "test-directory": {
+      "codepoint": 58160,
+      "fontFamily": "FileIcons",
+      "identifier": "testDirectory"
+    },
+    "test-generic": {
+      "codepoint": 58161,
+      "fontFamily": "FileIcons",
+      "identifier": "testGeneric"
+    },
+    "test-go": {
+      "codepoint": 58162,
+      "fontFamily": "FileIcons",
+      "identifier": "testGo"
+    },
+    "test-haskell": {
+      "codepoint": 58163,
+      "fontFamily": "FileIcons",
+      "identifier": "testHaskell"
+    },
+    "test-js": {
+      "codepoint": 58164,
+      "fontFamily": "FileIcons",
+      "identifier": "testJs"
+    },
+    "test-perl": {
+      "codepoint": 58165,
+      "fontFamily": "FileIcons",
+      "identifier": "testPerl"
+    },
+    "test-python": {
+      "codepoint": 58166,
+      "fontFamily": "FileIcons",
+      "identifier": "testPython"
+    },
+    "test-react": {
+      "codepoint": 58167,
+      "fontFamily": "FileIcons",
+      "identifier": "testReact"
+    },
+    "test-ruby": {
+      "codepoint": 58168,
+      "fontFamily": "FileIcons",
+      "identifier": "testRuby"
+    },
+    "test-rust": {
+      "codepoint": 58169,
+      "fontFamily": "FileIcons",
+      "identifier": "testRust"
+    },
+    "test-typescript": {
+      "codepoint": 58170,
+      "fontFamily": "FileIcons",
+      "identifier": "testTypescript"
+    },
+    "testcafe": {
+      "codepoint": 58171,
+      "fontFamily": "FileIcons",
+      "identifier": "testcafe"
+    },
+    "textile": {
+      "codepoint": 58172,
+      "fontFamily": "FileIcons",
+      "identifier": "textile"
+    },
+    "textmate": {
+      "codepoint": 58173,
+      "fontFamily": "FileIcons",
+      "identifier": "textmate"
+    },
+    "tfs": {
+      "codepoint": 58174,
+      "fontFamily": "FileIcons",
+      "identifier": "tfs"
+    },
+    "thor": {
+      "codepoint": 58175,
+      "fontFamily": "FileIcons",
+      "identifier": "thor"
+    },
+    "tilt": {
+      "codepoint": 58176,
+      "fontFamily": "FileIcons",
+      "identifier": "tilt"
+    },
+    "tinymce": {
+      "codepoint": 58177,
+      "fontFamily": "FileIcons",
+      "identifier": "tinymce"
+    },
+    "tipe": {
+      "codepoint": 58178,
+      "fontFamily": "FileIcons",
+      "identifier": "tipe"
+    },
+    "tla": {
+      "codepoint": 58179,
+      "fontFamily": "FileIcons",
+      "identifier": "tla"
+    },
+    "tmux": {
+      "codepoint": 58180,
+      "fontFamily": "FileIcons",
+      "identifier": "tmux"
+    },
+    "toml": {
+      "codepoint": 58181,
+      "fontFamily": "FileIcons",
+      "identifier": "toml"
+    },
+    "tortoisesvn": {
+      "codepoint": 58182,
+      "fontFamily": "FileIcons",
+      "identifier": "tortoisesvn"
+    },
+    "totvs": {
+      "codepoint": 58183,
+      "fontFamily": "FileIcons",
+      "identifier": "totvs"
+    },
+    "truffle": {
+      "codepoint": 58184,
+      "fontFamily": "FileIcons",
+      "identifier": "truffle"
+    },
+    "tsx": {
+      "codepoint": 58185,
+      "fontFamily": "FileIcons",
+      "identifier": "tsx"
+    },
+    "tsx-alt": {
+      "codepoint": 58186,
+      "fontFamily": "FileIcons",
+      "identifier": "tsxAlt"
+    },
+    "ttcn-3": {
+      "codepoint": 58187,
+      "fontFamily": "FileIcons",
+      "identifier": "ttcn3"
+    },
+    "turing": {
+      "codepoint": 58188,
+      "fontFamily": "FileIcons",
+      "identifier": "turing"
+    },
+    "twig": {
+      "codepoint": 58189,
+      "fontFamily": "FileIcons",
+      "identifier": "twig"
+    },
+    "twine": {
+      "codepoint": 58190,
+      "fontFamily": "FileIcons",
+      "identifier": "twine"
+    },
+    "txl": {
+      "codepoint": 58191,
+      "fontFamily": "FileIcons",
+      "identifier": "txl"
+    },
+    "typedoc": {
+      "codepoint": 58192,
+      "fontFamily": "FileIcons",
+      "identifier": "typedoc"
+    },
+    "typescript": {
+      "codepoint": 58193,
+      "fontFamily": "FileIcons",
+      "identifier": "typescript"
+    },
+    "typescript-alt": {
+      "codepoint": 58194,
+      "fontFamily": "FileIcons",
+      "identifier": "typescriptAlt"
+    },
+    "typings": {
+      "codepoint": 58195,
+      "fontFamily": "FileIcons",
+      "identifier": "typings"
+    },
+    "ufo": {
+      "codepoint": 58196,
+      "fontFamily": "FileIcons",
+      "identifier": "ufo"
+    },
+    "unibeautify": {
+      "codepoint": 58197,
+      "fontFamily": "FileIcons",
+      "identifier": "unibeautify"
+    },
+    "unicode": {
+      "codepoint": 58198,
+      "fontFamily": "FileIcons",
+      "identifier": "unicode"
+    },
+    "uno": {
+      "codepoint": 58199,
+      "fontFamily": "FileIcons",
+      "identifier": "uno"
+    },
+    "unrealscript": {
+      "codepoint": 58200,
+      "fontFamily": "FileIcons",
+      "identifier": "unrealscript"
+    },
+    "urweb": {
+      "codepoint": 58201,
+      "fontFamily": "FileIcons",
+      "identifier": "urweb"
+    },
+    "v": {
+      "codepoint": 58202,
+      "fontFamily": "FileIcons",
+      "identifier": "v"
+    },
+    "v-ray": {
+      "codepoint": 58203,
+      "fontFamily": "FileIcons",
+      "identifier": "vRay"
+    },
+    "v8": {
+      "codepoint": 58204,
+      "fontFamily": "FileIcons",
+      "identifier": "v8"
+    },
+    "v8-turbofan": {
+      "codepoint": 58205,
+      "fontFamily": "FileIcons",
+      "identifier": "v8Turbofan"
+    },
+    "vagrant": {
+      "codepoint": 58206,
+      "fontFamily": "FileIcons",
+      "identifier": "vagrant"
+    },
+    "vala": {
+      "codepoint": 58207,
+      "fontFamily": "FileIcons",
+      "identifier": "vala"
+    },
+    "vax": {
+      "codepoint": 58208,
+      "fontFamily": "FileIcons",
+      "identifier": "vax"
+    },
+    "vcl": {
+      "codepoint": 58209,
+      "fontFamily": "FileIcons",
+      "identifier": "vcl"
+    },
+    "velocity": {
+      "codepoint": 58210,
+      "fontFamily": "FileIcons",
+      "identifier": "velocity"
+    },
+    "verilog": {
+      "codepoint": 58211,
+      "fontFamily": "FileIcons",
+      "identifier": "verilog"
+    },
+    "vertexshader": {
+      "codepoint": 58212,
+      "fontFamily": "FileIcons",
+      "identifier": "vertexshader"
+    },
+    "vhdl": {
+      "codepoint": 58213,
+      "fontFamily": "FileIcons",
+      "identifier": "vhdl"
+    },
+    "video": {
+      "codepoint": 58214,
+      "fontFamily": "FileIcons",
+      "identifier": "video"
+    },
+    "virtualbox": {
+      "codepoint": 58215,
+      "fontFamily": "FileIcons",
+      "identifier": "virtualbox"
+    },
+    "virtualbox-alt": {
+      "codepoint": 58216,
+      "fontFamily": "FileIcons",
+      "identifier": "virtualboxAlt"
+    },
+    "vite": {
+      "codepoint": 58217,
+      "fontFamily": "FileIcons",
+      "identifier": "vite"
+    },
+    "vmware": {
+      "codepoint": 58218,
+      "fontFamily": "FileIcons",
+      "identifier": "vmware"
+    },
+    "vscode": {
+      "codepoint": 58219,
+      "fontFamily": "FileIcons",
+      "identifier": "vscode"
+    },
+    "vsts": {
+      "codepoint": 58220,
+      "fontFamily": "FileIcons",
+      "identifier": "vsts"
+    },
+    "vue": {
+      "codepoint": 58221,
+      "fontFamily": "FileIcons",
+      "identifier": "vue"
+    },
+    "vyper": {
+      "codepoint": 58222,
+      "fontFamily": "FileIcons",
+      "identifier": "vyper"
+    },
+    "w3c": {
+      "codepoint": 58223,
+      "fontFamily": "FileIcons",
+      "identifier": "w3c"
+    },
+    "wallaby": {
+      "codepoint": 58224,
+      "fontFamily": "FileIcons",
+      "identifier": "wallaby"
+    },
+    "walt": {
+      "codepoint": 58225,
+      "fontFamily": "FileIcons",
+      "identifier": "walt"
+    },
+    "warcraft-iii": {
+      "codepoint": 58226,
+      "fontFamily": "FileIcons",
+      "identifier": "warcraftIii"
+    },
+    "wasi": {
+      "codepoint": 58227,
+      "fontFamily": "FileIcons",
+      "identifier": "wasi"
+    },
+    "watchman": {
+      "codepoint": 58228,
+      "fontFamily": "FileIcons",
+      "identifier": "watchman"
+    },
+    "wdl": {
+      "codepoint": 58229,
+      "fontFamily": "FileIcons",
+      "identifier": "wdl"
+    },
+    "webassembly": {
+      "codepoint": 58230,
+      "fontFamily": "FileIcons",
+      "identifier": "webassembly"
+    },
+    "webgl": {
+      "codepoint": 58231,
+      "fontFamily": "FileIcons",
+      "identifier": "webgl"
+    },
+    "webhint": {
+      "codepoint": 58232,
+      "fontFamily": "FileIcons",
+      "identifier": "webhint"
+    },
+    "webpack": {
+      "codepoint": 58233,
+      "fontFamily": "FileIcons",
+      "identifier": "webpack"
+    },
+    "webpack-old": {
+      "codepoint": 58234,
+      "fontFamily": "FileIcons",
+      "identifier": "webpackOld"
+    },
+    "webvtt": {
+      "codepoint": 58235,
+      "fontFamily": "FileIcons",
+      "identifier": "webvtt"
+    },
+    "wenyan": {
+      "codepoint": 58236,
+      "fontFamily": "FileIcons",
+      "identifier": "wenyan"
+    },
+    "wercker": {
+      "codepoint": 58237,
+      "fontFamily": "FileIcons",
+      "identifier": "wercker"
+    },
+    "wget": {
+      "codepoint": 58238,
+      "fontFamily": "FileIcons",
+      "identifier": "wget"
+    },
+    "windi": {
+      "codepoint": 58239,
+      "fontFamily": "FileIcons",
+      "identifier": "windi"
+    },
+    "wine": {
+      "codepoint": 58240,
+      "fontFamily": "FileIcons",
+      "identifier": "wine"
+    },
+    "winui": {
+      "codepoint": 58241,
+      "fontFamily": "FileIcons",
+      "identifier": "winui"
+    },
+    "wix": {
+      "codepoint": 58242,
+      "fontFamily": "FileIcons",
+      "identifier": "wix"
+    },
+    "wolfram": {
+      "codepoint": 58243,
+      "fontFamily": "FileIcons",
+      "identifier": "wolfram"
+    },
+    "workbox": {
+      "codepoint": 58244,
+      "fontFamily": "FileIcons",
+      "identifier": "workbox"
+    },
+    "wurst": {
+      "codepoint": 58245,
+      "fontFamily": "FileIcons",
+      "identifier": "wurst"
+    },
+    "x10": {
+      "codepoint": 58246,
+      "fontFamily": "FileIcons",
+      "identifier": "x10"
+    },
+    "xamarin": {
+      "codepoint": 58247,
+      "fontFamily": "FileIcons",
+      "identifier": "xamarin"
+    },
+    "xmake": {
+      "codepoint": 58248,
+      "fontFamily": "FileIcons",
+      "identifier": "xmake"
+    },
+    "xmos": {
+      "codepoint": 58249,
+      "fontFamily": "FileIcons",
+      "identifier": "xmos"
+    },
+    "xpages": {
+      "codepoint": 58250,
+      "fontFamily": "FileIcons",
+      "identifier": "xpages"
+    },
+    "xtend": {
+      "codepoint": 58251,
+      "fontFamily": "FileIcons",
+      "identifier": "xtend"
+    },
+    "xubuntu": {
+      "codepoint": 58252,
+      "fontFamily": "FileIcons",
+      "identifier": "xubuntu"
+    },
+    "yaml": {
+      "codepoint": 58253,
+      "fontFamily": "FileIcons",
+      "identifier": "yaml"
+    },
+    "yaml-alt1": {
+      "codepoint": 58254,
+      "fontFamily": "FileIcons",
+      "identifier": "yamlAlt1"
+    },
+    "yaml-alt2": {
+      "codepoint": 58255,
+      "fontFamily": "FileIcons",
+      "identifier": "yamlAlt2"
+    },
+    "yaml-alt3": {
+      "codepoint": 58256,
+      "fontFamily": "FileIcons",
+      "identifier": "yamlAlt3"
+    },
+    "yaml-alt4": {
+      "codepoint": 58257,
+      "fontFamily": "FileIcons",
+      "identifier": "yamlAlt4"
+    },
+    "yamllint": {
+      "codepoint": 58258,
+      "fontFamily": "FileIcons",
+      "identifier": "yamllint"
+    },
+    "yandex": {
+      "codepoint": 58259,
+      "fontFamily": "FileIcons",
+      "identifier": "yandex"
+    },
+    "yang": {
+      "codepoint": 58260,
+      "fontFamily": "FileIcons",
+      "identifier": "yang"
+    },
+    "yara": {
+      "codepoint": 58261,
+      "fontFamily": "FileIcons",
+      "identifier": "yara"
+    },
+    "yarn": {
+      "codepoint": 58262,
+      "fontFamily": "FileIcons",
+      "identifier": "yarn"
+    },
+    "yasm": {
+      "codepoint": 58263,
+      "fontFamily": "FileIcons",
+      "identifier": "yasm"
+    },
+    "yorick": {
+      "codepoint": 58264,
+      "fontFamily": "FileIcons",
+      "identifier": "yorick"
+    },
+    "yui": {
+      "codepoint": 58265,
+      "fontFamily": "FileIcons",
+      "identifier": "yui"
+    },
+    "zbrush": {
+      "codepoint": 58266,
+      "fontFamily": "FileIcons",
+      "identifier": "zbrush"
+    },
+    "zeit": {
+      "codepoint": 58267,
+      "fontFamily": "FileIcons",
+      "identifier": "zeit"
+    },
+    "zephir": {
+      "codepoint": 58268,
+      "fontFamily": "FileIcons",
+      "identifier": "zephir"
+    },
+    "zig": {
+      "codepoint": 58269,
+      "fontFamily": "FileIcons",
+      "identifier": "zig"
+    },
+    "zilog": {
+      "codepoint": 58270,
+      "fontFamily": "FileIcons",
+      "identifier": "zilog"
+    },
+    "zimpl": {
+      "codepoint": 58271,
+      "fontFamily": "FileIcons",
+      "identifier": "zimpl"
+    },
+    "zorinos": {
+      "codepoint": 58272,
+      "fontFamily": "FileIcons",
+      "identifier": "zorinos"
+    },
+    "zork": {
+      "codepoint": 58273,
+      "fontFamily": "FileIcons",
+      "identifier": "zork"
+    }
+  }
+}

@@ -1,0 +1,7070 @@
+{
+  "schemaVersion": 1,
+  "prefix": "fa6-solid",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Archive / Unmaintained",
+  "subPackage": "iconifyx_fa6_solid",
+  "info": {
+    "name": "Font Awesome 6 Solid",
+    "author": {
+      "name": "Dave Gandy",
+      "url": "https://github.com/FortAwesome/Font-Awesome"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 1408
+  },
+  "fonts": [
+    {
+      "family": "Fa6Solid",
+      "nextCodepoint": 58752,
+      "iconCount": 1408
+    }
+  ],
+  "icons": {
+    "0": {
+      "codepoint": 57344,
+      "fontFamily": "Fa6Solid",
+      "identifier": "n0"
+    },
+    "1": {
+      "codepoint": 57345,
+      "fontFamily": "Fa6Solid",
+      "identifier": "n1"
+    },
+    "2": {
+      "codepoint": 57346,
+      "fontFamily": "Fa6Solid",
+      "identifier": "n2"
+    },
+    "3": {
+      "codepoint": 57347,
+      "fontFamily": "Fa6Solid",
+      "identifier": "n3"
+    },
+    "4": {
+      "codepoint": 57348,
+      "fontFamily": "Fa6Solid",
+      "identifier": "n4"
+    },
+    "5": {
+      "codepoint": 57349,
+      "fontFamily": "Fa6Solid",
+      "identifier": "n5"
+    },
+    "6": {
+      "codepoint": 57350,
+      "fontFamily": "Fa6Solid",
+      "identifier": "n6"
+    },
+    "7": {
+      "codepoint": 57351,
+      "fontFamily": "Fa6Solid",
+      "identifier": "n7"
+    },
+    "8": {
+      "codepoint": 57352,
+      "fontFamily": "Fa6Solid",
+      "identifier": "n8"
+    },
+    "9": {
+      "codepoint": 57353,
+      "fontFamily": "Fa6Solid",
+      "identifier": "n9"
+    },
+    "a": {
+      "codepoint": 57354,
+      "fontFamily": "Fa6Solid",
+      "identifier": "a"
+    },
+    "address-book": {
+      "codepoint": 57355,
+      "fontFamily": "Fa6Solid",
+      "identifier": "addressBook"
+    },
+    "address-card": {
+      "codepoint": 57356,
+      "fontFamily": "Fa6Solid",
+      "identifier": "addressCard"
+    },
+    "align-center": {
+      "codepoint": 57357,
+      "fontFamily": "Fa6Solid",
+      "identifier": "alignCenter"
+    },
+    "align-justify": {
+      "codepoint": 57358,
+      "fontFamily": "Fa6Solid",
+      "identifier": "alignJustify"
+    },
+    "align-left": {
+      "codepoint": 57359,
+      "fontFamily": "Fa6Solid",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57360,
+      "fontFamily": "Fa6Solid",
+      "identifier": "alignRight"
+    },
+    "anchor": {
+      "codepoint": 57361,
+      "fontFamily": "Fa6Solid",
+      "identifier": "anchor"
+    },
+    "anchor-circle-check": {
+      "codepoint": 57362,
+      "fontFamily": "Fa6Solid",
+      "identifier": "anchorCircleCheck"
+    },
+    "anchor-circle-exclamation": {
+      "codepoint": 57363,
+      "fontFamily": "Fa6Solid",
+      "identifier": "anchorCircleExclamation"
+    },
+    "anchor-circle-xmark": {
+      "codepoint": 57364,
+      "fontFamily": "Fa6Solid",
+      "identifier": "anchorCircleXmark"
+    },
+    "anchor-lock": {
+      "codepoint": 57365,
+      "fontFamily": "Fa6Solid",
+      "identifier": "anchorLock"
+    },
+    "angle-down": {
+      "codepoint": 57366,
+      "fontFamily": "Fa6Solid",
+      "identifier": "angleDown"
+    },
+    "angle-left": {
+      "codepoint": 57367,
+      "fontFamily": "Fa6Solid",
+      "identifier": "angleLeft"
+    },
+    "angle-right": {
+      "codepoint": 57368,
+      "fontFamily": "Fa6Solid",
+      "identifier": "angleRight"
+    },
+    "angle-up": {
+      "codepoint": 57369,
+      "fontFamily": "Fa6Solid",
+      "identifier": "angleUp"
+    },
+    "angles-down": {
+      "codepoint": 57370,
+      "fontFamily": "Fa6Solid",
+      "identifier": "anglesDown"
+    },
+    "angles-left": {
+      "codepoint": 57371,
+      "fontFamily": "Fa6Solid",
+      "identifier": "anglesLeft"
+    },
+    "angles-right": {
+      "codepoint": 57372,
+      "fontFamily": "Fa6Solid",
+      "identifier": "anglesRight"
+    },
+    "angles-up": {
+      "codepoint": 57373,
+      "fontFamily": "Fa6Solid",
+      "identifier": "anglesUp"
+    },
+    "ankh": {
+      "codepoint": 57374,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ankh"
+    },
+    "apple-whole": {
+      "codepoint": 57375,
+      "fontFamily": "Fa6Solid",
+      "identifier": "appleWhole"
+    },
+    "archway": {
+      "codepoint": 57376,
+      "fontFamily": "Fa6Solid",
+      "identifier": "archway"
+    },
+    "arrow-down": {
+      "codepoint": 57377,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-1-9": {
+      "codepoint": 57378,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowDown19"
+    },
+    "arrow-down-9-1": {
+      "codepoint": 57379,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowDown91"
+    },
+    "arrow-down-a-z": {
+      "codepoint": 57380,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowDownAZ"
+    },
+    "arrow-down-long": {
+      "codepoint": 57381,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowDownLong"
+    },
+    "arrow-down-short-wide": {
+      "codepoint": 57382,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowDownShortWide"
+    },
+    "arrow-down-up-across-line": {
+      "codepoint": 57383,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowDownUpAcrossLine"
+    },
+    "arrow-down-up-lock": {
+      "codepoint": 57384,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowDownUpLock"
+    },
+    "arrow-down-wide-short": {
+      "codepoint": 57385,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowDownWideShort"
+    },
+    "arrow-down-z-a": {
+      "codepoint": 57386,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowDownZA"
+    },
+    "arrow-left": {
+      "codepoint": 57387,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-long": {
+      "codepoint": 57388,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowLeftLong"
+    },
+    "arrow-pointer": {
+      "codepoint": 57389,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowPointer"
+    },
+    "arrow-right": {
+      "codepoint": 57390,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-arrow-left": {
+      "codepoint": 57391,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowRightArrowLeft"
+    },
+    "arrow-right-from-bracket": {
+      "codepoint": 57392,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowRightFromBracket"
+    },
+    "arrow-right-long": {
+      "codepoint": 57393,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowRightLong"
+    },
+    "arrow-right-to-bracket": {
+      "codepoint": 57394,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowRightToBracket"
+    },
+    "arrow-right-to-city": {
+      "codepoint": 57395,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowRightToCity"
+    },
+    "arrow-rotate-left": {
+      "codepoint": 57396,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowRotateLeft"
+    },
+    "arrow-rotate-right": {
+      "codepoint": 57397,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowRotateRight"
+    },
+    "arrow-trend-down": {
+      "codepoint": 57398,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowTrendDown"
+    },
+    "arrow-trend-up": {
+      "codepoint": 57399,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowTrendUp"
+    },
+    "arrow-turn-down": {
+      "codepoint": 57400,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowTurnDown"
+    },
+    "arrow-turn-up": {
+      "codepoint": 57401,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowTurnUp"
+    },
+    "arrow-up": {
+      "codepoint": 57402,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-1-9": {
+      "codepoint": 57403,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUp19"
+    },
+    "arrow-up-9-1": {
+      "codepoint": 57404,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUp91"
+    },
+    "arrow-up-a-z": {
+      "codepoint": 57405,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUpAZ"
+    },
+    "arrow-up-from-bracket": {
+      "codepoint": 57406,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUpFromBracket"
+    },
+    "arrow-up-from-ground-water": {
+      "codepoint": 57407,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUpFromGroundWater"
+    },
+    "arrow-up-from-water-pump": {
+      "codepoint": 57408,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUpFromWaterPump"
+    },
+    "arrow-up-long": {
+      "codepoint": 57409,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUpLong"
+    },
+    "arrow-up-right-dots": {
+      "codepoint": 57410,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUpRightDots"
+    },
+    "arrow-up-right-from-square": {
+      "codepoint": 57411,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUpRightFromSquare"
+    },
+    "arrow-up-short-wide": {
+      "codepoint": 57412,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUpShortWide"
+    },
+    "arrow-up-wide-short": {
+      "codepoint": 57413,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUpWideShort"
+    },
+    "arrow-up-z-a": {
+      "codepoint": 57414,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowUpZA"
+    },
+    "arrows-down-to-line": {
+      "codepoint": 57415,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsDownToLine"
+    },
+    "arrows-down-to-people": {
+      "codepoint": 57416,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsDownToPeople"
+    },
+    "arrows-left-right": {
+      "codepoint": 57417,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsLeftRight"
+    },
+    "arrows-left-right-to-line": {
+      "codepoint": 57418,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsLeftRightToLine"
+    },
+    "arrows-rotate": {
+      "codepoint": 57419,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsRotate"
+    },
+    "arrows-spin": {
+      "codepoint": 57420,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsSpin"
+    },
+    "arrows-split-up-and-left": {
+      "codepoint": 57421,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsSplitUpAndLeft"
+    },
+    "arrows-to-circle": {
+      "codepoint": 57422,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsToCircle"
+    },
+    "arrows-to-dot": {
+      "codepoint": 57423,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsToDot"
+    },
+    "arrows-to-eye": {
+      "codepoint": 57424,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsToEye"
+    },
+    "arrows-turn-right": {
+      "codepoint": 57425,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsTurnRight"
+    },
+    "arrows-turn-to-dots": {
+      "codepoint": 57426,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsTurnToDots"
+    },
+    "arrows-up-down": {
+      "codepoint": 57427,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsUpDown"
+    },
+    "arrows-up-down-left-right": {
+      "codepoint": 57428,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsUpDownLeftRight"
+    },
+    "arrows-up-to-line": {
+      "codepoint": 57429,
+      "fontFamily": "Fa6Solid",
+      "identifier": "arrowsUpToLine"
+    },
+    "asterisk": {
+      "codepoint": 57430,
+      "fontFamily": "Fa6Solid",
+      "identifier": "asterisk"
+    },
+    "at": {
+      "codepoint": 57431,
+      "fontFamily": "Fa6Solid",
+      "identifier": "at"
+    },
+    "atom": {
+      "codepoint": 57432,
+      "fontFamily": "Fa6Solid",
+      "identifier": "atom"
+    },
+    "audio-description": {
+      "codepoint": 57433,
+      "fontFamily": "Fa6Solid",
+      "identifier": "audioDescription"
+    },
+    "austral-sign": {
+      "codepoint": 57434,
+      "fontFamily": "Fa6Solid",
+      "identifier": "australSign"
+    },
+    "award": {
+      "codepoint": 57435,
+      "fontFamily": "Fa6Solid",
+      "identifier": "award"
+    },
+    "b": {
+      "codepoint": 57436,
+      "fontFamily": "Fa6Solid",
+      "identifier": "b"
+    },
+    "baby": {
+      "codepoint": 57437,
+      "fontFamily": "Fa6Solid",
+      "identifier": "baby"
+    },
+    "baby-carriage": {
+      "codepoint": 57438,
+      "fontFamily": "Fa6Solid",
+      "identifier": "babyCarriage"
+    },
+    "backward": {
+      "codepoint": 57439,
+      "fontFamily": "Fa6Solid",
+      "identifier": "backward"
+    },
+    "backward-fast": {
+      "codepoint": 57440,
+      "fontFamily": "Fa6Solid",
+      "identifier": "backwardFast"
+    },
+    "backward-step": {
+      "codepoint": 57441,
+      "fontFamily": "Fa6Solid",
+      "identifier": "backwardStep"
+    },
+    "bacon": {
+      "codepoint": 57442,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bacon"
+    },
+    "bacteria": {
+      "codepoint": 57443,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bacteria"
+    },
+    "bacterium": {
+      "codepoint": 57444,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bacterium"
+    },
+    "bag-shopping": {
+      "codepoint": 57445,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bagShopping"
+    },
+    "bahai": {
+      "codepoint": 57446,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bahai"
+    },
+    "baht-sign": {
+      "codepoint": 57447,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bahtSign"
+    },
+    "ban": {
+      "codepoint": 57448,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ban"
+    },
+    "ban-smoking": {
+      "codepoint": 57449,
+      "fontFamily": "Fa6Solid",
+      "identifier": "banSmoking"
+    },
+    "bandage": {
+      "codepoint": 57450,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bandage"
+    },
+    "bangladeshi-taka-sign": {
+      "codepoint": 57451,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bangladeshiTakaSign"
+    },
+    "barcode": {
+      "codepoint": 57452,
+      "fontFamily": "Fa6Solid",
+      "identifier": "barcode"
+    },
+    "bars": {
+      "codepoint": 57453,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bars"
+    },
+    "bars-progress": {
+      "codepoint": 57454,
+      "fontFamily": "Fa6Solid",
+      "identifier": "barsProgress"
+    },
+    "bars-staggered": {
+      "codepoint": 57455,
+      "fontFamily": "Fa6Solid",
+      "identifier": "barsStaggered"
+    },
+    "baseball": {
+      "codepoint": 57456,
+      "fontFamily": "Fa6Solid",
+      "identifier": "baseball"
+    },
+    "baseball-bat-ball": {
+      "codepoint": 57457,
+      "fontFamily": "Fa6Solid",
+      "identifier": "baseballBatBall"
+    },
+    "basket-shopping": {
+      "codepoint": 57458,
+      "fontFamily": "Fa6Solid",
+      "identifier": "basketShopping"
+    },
+    "basketball": {
+      "codepoint": 57459,
+      "fontFamily": "Fa6Solid",
+      "identifier": "basketball"
+    },
+    "bath": {
+      "codepoint": 57460,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bath"
+    },
+    "battery-empty": {
+      "codepoint": 57461,
+      "fontFamily": "Fa6Solid",
+      "identifier": "batteryEmpty"
+    },
+    "battery-full": {
+      "codepoint": 57462,
+      "fontFamily": "Fa6Solid",
+      "identifier": "batteryFull"
+    },
+    "battery-half": {
+      "codepoint": 57463,
+      "fontFamily": "Fa6Solid",
+      "identifier": "batteryHalf"
+    },
+    "battery-quarter": {
+      "codepoint": 57464,
+      "fontFamily": "Fa6Solid",
+      "identifier": "batteryQuarter"
+    },
+    "battery-three-quarters": {
+      "codepoint": 57465,
+      "fontFamily": "Fa6Solid",
+      "identifier": "batteryThreeQuarters"
+    },
+    "bed": {
+      "codepoint": 57466,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bed"
+    },
+    "bed-pulse": {
+      "codepoint": 57467,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bedPulse"
+    },
+    "beer-mug-empty": {
+      "codepoint": 57468,
+      "fontFamily": "Fa6Solid",
+      "identifier": "beerMugEmpty"
+    },
+    "bell": {
+      "codepoint": 57469,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bell"
+    },
+    "bell-concierge": {
+      "codepoint": 57470,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bellConcierge"
+    },
+    "bell-slash": {
+      "codepoint": 57471,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bellSlash"
+    },
+    "bezier-curve": {
+      "codepoint": 57472,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bezierCurve"
+    },
+    "bicycle": {
+      "codepoint": 57473,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bicycle"
+    },
+    "binoculars": {
+      "codepoint": 57474,
+      "fontFamily": "Fa6Solid",
+      "identifier": "binoculars"
+    },
+    "biohazard": {
+      "codepoint": 57475,
+      "fontFamily": "Fa6Solid",
+      "identifier": "biohazard"
+    },
+    "bitcoin-sign": {
+      "codepoint": 57476,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bitcoinSign"
+    },
+    "blender": {
+      "codepoint": 57477,
+      "fontFamily": "Fa6Solid",
+      "identifier": "blender"
+    },
+    "blender-phone": {
+      "codepoint": 57478,
+      "fontFamily": "Fa6Solid",
+      "identifier": "blenderPhone"
+    },
+    "blog": {
+      "codepoint": 57479,
+      "fontFamily": "Fa6Solid",
+      "identifier": "blog"
+    },
+    "bold": {
+      "codepoint": 57480,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bold"
+    },
+    "bolt": {
+      "codepoint": 57481,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bolt"
+    },
+    "bolt-lightning": {
+      "codepoint": 57482,
+      "fontFamily": "Fa6Solid",
+      "identifier": "boltLightning"
+    },
+    "bomb": {
+      "codepoint": 57483,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bomb"
+    },
+    "bone": {
+      "codepoint": 57484,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bone"
+    },
+    "bong": {
+      "codepoint": 57485,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bong"
+    },
+    "book": {
+      "codepoint": 57486,
+      "fontFamily": "Fa6Solid",
+      "identifier": "book"
+    },
+    "book-atlas": {
+      "codepoint": 57487,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bookAtlas"
+    },
+    "book-bible": {
+      "codepoint": 57488,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bookBible"
+    },
+    "book-bookmark": {
+      "codepoint": 57489,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bookBookmark"
+    },
+    "book-journal-whills": {
+      "codepoint": 57490,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bookJournalWhills"
+    },
+    "book-medical": {
+      "codepoint": 57491,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bookMedical"
+    },
+    "book-open": {
+      "codepoint": 57492,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bookOpen"
+    },
+    "book-open-reader": {
+      "codepoint": 57493,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bookOpenReader"
+    },
+    "book-quran": {
+      "codepoint": 57494,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bookQuran"
+    },
+    "book-skull": {
+      "codepoint": 57495,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bookSkull"
+    },
+    "book-tanakh": {
+      "codepoint": 57496,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bookTanakh"
+    },
+    "bookmark": {
+      "codepoint": 57497,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bookmark"
+    },
+    "border-all": {
+      "codepoint": 57498,
+      "fontFamily": "Fa6Solid",
+      "identifier": "borderAll"
+    },
+    "border-none": {
+      "codepoint": 57499,
+      "fontFamily": "Fa6Solid",
+      "identifier": "borderNone"
+    },
+    "border-top-left": {
+      "codepoint": 57500,
+      "fontFamily": "Fa6Solid",
+      "identifier": "borderTopLeft"
+    },
+    "bore-hole": {
+      "codepoint": 57501,
+      "fontFamily": "Fa6Solid",
+      "identifier": "boreHole"
+    },
+    "bottle-droplet": {
+      "codepoint": 57502,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bottleDroplet"
+    },
+    "bottle-water": {
+      "codepoint": 57503,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bottleWater"
+    },
+    "bowl-food": {
+      "codepoint": 57504,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bowlFood"
+    },
+    "bowl-rice": {
+      "codepoint": 57505,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bowlRice"
+    },
+    "bowling-ball": {
+      "codepoint": 57506,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bowlingBall"
+    },
+    "box": {
+      "codepoint": 57507,
+      "fontFamily": "Fa6Solid",
+      "identifier": "box"
+    },
+    "box-archive": {
+      "codepoint": 57508,
+      "fontFamily": "Fa6Solid",
+      "identifier": "boxArchive"
+    },
+    "box-open": {
+      "codepoint": 57509,
+      "fontFamily": "Fa6Solid",
+      "identifier": "boxOpen"
+    },
+    "box-tissue": {
+      "codepoint": 57510,
+      "fontFamily": "Fa6Solid",
+      "identifier": "boxTissue"
+    },
+    "boxes-packing": {
+      "codepoint": 57511,
+      "fontFamily": "Fa6Solid",
+      "identifier": "boxesPacking"
+    },
+    "boxes-stacked": {
+      "codepoint": 57512,
+      "fontFamily": "Fa6Solid",
+      "identifier": "boxesStacked"
+    },
+    "braille": {
+      "codepoint": 57513,
+      "fontFamily": "Fa6Solid",
+      "identifier": "braille"
+    },
+    "brain": {
+      "codepoint": 57514,
+      "fontFamily": "Fa6Solid",
+      "identifier": "brain"
+    },
+    "brazilian-real-sign": {
+      "codepoint": 57515,
+      "fontFamily": "Fa6Solid",
+      "identifier": "brazilianRealSign"
+    },
+    "bread-slice": {
+      "codepoint": 57516,
+      "fontFamily": "Fa6Solid",
+      "identifier": "breadSlice"
+    },
+    "bridge": {
+      "codepoint": 57517,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bridge"
+    },
+    "bridge-circle-check": {
+      "codepoint": 57518,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bridgeCircleCheck"
+    },
+    "bridge-circle-exclamation": {
+      "codepoint": 57519,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bridgeCircleExclamation"
+    },
+    "bridge-circle-xmark": {
+      "codepoint": 57520,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bridgeCircleXmark"
+    },
+    "bridge-lock": {
+      "codepoint": 57521,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bridgeLock"
+    },
+    "bridge-water": {
+      "codepoint": 57522,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bridgeWater"
+    },
+    "briefcase": {
+      "codepoint": 57523,
+      "fontFamily": "Fa6Solid",
+      "identifier": "briefcase"
+    },
+    "briefcase-medical": {
+      "codepoint": 57524,
+      "fontFamily": "Fa6Solid",
+      "identifier": "briefcaseMedical"
+    },
+    "broom": {
+      "codepoint": 57525,
+      "fontFamily": "Fa6Solid",
+      "identifier": "broom"
+    },
+    "broom-ball": {
+      "codepoint": 57526,
+      "fontFamily": "Fa6Solid",
+      "identifier": "broomBall"
+    },
+    "brush": {
+      "codepoint": 57527,
+      "fontFamily": "Fa6Solid",
+      "identifier": "brush"
+    },
+    "bucket": {
+      "codepoint": 57528,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bucket"
+    },
+    "bug": {
+      "codepoint": 57529,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bug"
+    },
+    "bug-slash": {
+      "codepoint": 57530,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bugSlash"
+    },
+    "bugs": {
+      "codepoint": 57531,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bugs"
+    },
+    "building": {
+      "codepoint": 57532,
+      "fontFamily": "Fa6Solid",
+      "identifier": "building"
+    },
+    "building-circle-arrow-right": {
+      "codepoint": 57533,
+      "fontFamily": "Fa6Solid",
+      "identifier": "buildingCircleArrowRight"
+    },
+    "building-circle-check": {
+      "codepoint": 57534,
+      "fontFamily": "Fa6Solid",
+      "identifier": "buildingCircleCheck"
+    },
+    "building-circle-exclamation": {
+      "codepoint": 57535,
+      "fontFamily": "Fa6Solid",
+      "identifier": "buildingCircleExclamation"
+    },
+    "building-circle-xmark": {
+      "codepoint": 57536,
+      "fontFamily": "Fa6Solid",
+      "identifier": "buildingCircleXmark"
+    },
+    "building-columns": {
+      "codepoint": 57537,
+      "fontFamily": "Fa6Solid",
+      "identifier": "buildingColumns"
+    },
+    "building-flag": {
+      "codepoint": 57538,
+      "fontFamily": "Fa6Solid",
+      "identifier": "buildingFlag"
+    },
+    "building-lock": {
+      "codepoint": 57539,
+      "fontFamily": "Fa6Solid",
+      "identifier": "buildingLock"
+    },
+    "building-ngo": {
+      "codepoint": 57540,
+      "fontFamily": "Fa6Solid",
+      "identifier": "buildingNgo"
+    },
+    "building-shield": {
+      "codepoint": 57541,
+      "fontFamily": "Fa6Solid",
+      "identifier": "buildingShield"
+    },
+    "building-un": {
+      "codepoint": 57542,
+      "fontFamily": "Fa6Solid",
+      "identifier": "buildingUn"
+    },
+    "building-user": {
+      "codepoint": 57543,
+      "fontFamily": "Fa6Solid",
+      "identifier": "buildingUser"
+    },
+    "building-wheat": {
+      "codepoint": 57544,
+      "fontFamily": "Fa6Solid",
+      "identifier": "buildingWheat"
+    },
+    "bullhorn": {
+      "codepoint": 57545,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bullhorn"
+    },
+    "bullseye": {
+      "codepoint": 57546,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bullseye"
+    },
+    "burger": {
+      "codepoint": 57547,
+      "fontFamily": "Fa6Solid",
+      "identifier": "burger"
+    },
+    "burst": {
+      "codepoint": 57548,
+      "fontFamily": "Fa6Solid",
+      "identifier": "burst"
+    },
+    "bus": {
+      "codepoint": 57549,
+      "fontFamily": "Fa6Solid",
+      "identifier": "bus"
+    },
+    "bus-simple": {
+      "codepoint": 57550,
+      "fontFamily": "Fa6Solid",
+      "identifier": "busSimple"
+    },
+    "business-time": {
+      "codepoint": 57551,
+      "fontFamily": "Fa6Solid",
+      "identifier": "businessTime"
+    },
+    "c": {
+      "codepoint": 57552,
+      "fontFamily": "Fa6Solid",
+      "identifier": "c"
+    },
+    "cable-car": {
+      "codepoint": 57553,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cableCar"
+    },
+    "cake-candles": {
+      "codepoint": 57554,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cakeCandles"
+    },
+    "calculator": {
+      "codepoint": 57555,
+      "fontFamily": "Fa6Solid",
+      "identifier": "calculator"
+    },
+    "calendar": {
+      "codepoint": 57556,
+      "fontFamily": "Fa6Solid",
+      "identifier": "calendar"
+    },
+    "calendar-check": {
+      "codepoint": 57557,
+      "fontFamily": "Fa6Solid",
+      "identifier": "calendarCheck"
+    },
+    "calendar-day": {
+      "codepoint": 57558,
+      "fontFamily": "Fa6Solid",
+      "identifier": "calendarDay"
+    },
+    "calendar-days": {
+      "codepoint": 57559,
+      "fontFamily": "Fa6Solid",
+      "identifier": "calendarDays"
+    },
+    "calendar-minus": {
+      "codepoint": 57560,
+      "fontFamily": "Fa6Solid",
+      "identifier": "calendarMinus"
+    },
+    "calendar-plus": {
+      "codepoint": 57561,
+      "fontFamily": "Fa6Solid",
+      "identifier": "calendarPlus"
+    },
+    "calendar-week": {
+      "codepoint": 57562,
+      "fontFamily": "Fa6Solid",
+      "identifier": "calendarWeek"
+    },
+    "calendar-xmark": {
+      "codepoint": 57563,
+      "fontFamily": "Fa6Solid",
+      "identifier": "calendarXmark"
+    },
+    "camera": {
+      "codepoint": 57564,
+      "fontFamily": "Fa6Solid",
+      "identifier": "camera"
+    },
+    "camera-retro": {
+      "codepoint": 57565,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cameraRetro"
+    },
+    "camera-rotate": {
+      "codepoint": 57566,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cameraRotate"
+    },
+    "campground": {
+      "codepoint": 57567,
+      "fontFamily": "Fa6Solid",
+      "identifier": "campground"
+    },
+    "candy-cane": {
+      "codepoint": 57568,
+      "fontFamily": "Fa6Solid",
+      "identifier": "candyCane"
+    },
+    "cannabis": {
+      "codepoint": 57569,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cannabis"
+    },
+    "capsules": {
+      "codepoint": 57570,
+      "fontFamily": "Fa6Solid",
+      "identifier": "capsules"
+    },
+    "car": {
+      "codepoint": 57571,
+      "fontFamily": "Fa6Solid",
+      "identifier": "car"
+    },
+    "car-battery": {
+      "codepoint": 57572,
+      "fontFamily": "Fa6Solid",
+      "identifier": "carBattery"
+    },
+    "car-burst": {
+      "codepoint": 57573,
+      "fontFamily": "Fa6Solid",
+      "identifier": "carBurst"
+    },
+    "car-crash": {
+      "codepoint": 57574,
+      "fontFamily": "Fa6Solid",
+      "identifier": "carCrash"
+    },
+    "car-on": {
+      "codepoint": 57575,
+      "fontFamily": "Fa6Solid",
+      "identifier": "carOn"
+    },
+    "car-rear": {
+      "codepoint": 57576,
+      "fontFamily": "Fa6Solid",
+      "identifier": "carRear"
+    },
+    "car-side": {
+      "codepoint": 57577,
+      "fontFamily": "Fa6Solid",
+      "identifier": "carSide"
+    },
+    "car-tunnel": {
+      "codepoint": 57578,
+      "fontFamily": "Fa6Solid",
+      "identifier": "carTunnel"
+    },
+    "caravan": {
+      "codepoint": 57579,
+      "fontFamily": "Fa6Solid",
+      "identifier": "caravan"
+    },
+    "caret-down": {
+      "codepoint": 57580,
+      "fontFamily": "Fa6Solid",
+      "identifier": "caretDown"
+    },
+    "caret-left": {
+      "codepoint": 57581,
+      "fontFamily": "Fa6Solid",
+      "identifier": "caretLeft"
+    },
+    "caret-right": {
+      "codepoint": 57582,
+      "fontFamily": "Fa6Solid",
+      "identifier": "caretRight"
+    },
+    "caret-up": {
+      "codepoint": 57583,
+      "fontFamily": "Fa6Solid",
+      "identifier": "caretUp"
+    },
+    "carrot": {
+      "codepoint": 57584,
+      "fontFamily": "Fa6Solid",
+      "identifier": "carrot"
+    },
+    "cart-arrow-down": {
+      "codepoint": 57585,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cartArrowDown"
+    },
+    "cart-flatbed": {
+      "codepoint": 57586,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cartFlatbed"
+    },
+    "cart-flatbed-suitcase": {
+      "codepoint": 57587,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cartFlatbedSuitcase"
+    },
+    "cart-plus": {
+      "codepoint": 57588,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cartPlus"
+    },
+    "cart-shopping": {
+      "codepoint": 57589,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cartShopping"
+    },
+    "cash-register": {
+      "codepoint": 57590,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cashRegister"
+    },
+    "cat": {
+      "codepoint": 57591,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cat"
+    },
+    "cedi-sign": {
+      "codepoint": 57592,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cediSign"
+    },
+    "cent-sign": {
+      "codepoint": 57593,
+      "fontFamily": "Fa6Solid",
+      "identifier": "centSign"
+    },
+    "certificate": {
+      "codepoint": 57594,
+      "fontFamily": "Fa6Solid",
+      "identifier": "certificate"
+    },
+    "chair": {
+      "codepoint": 57595,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chair"
+    },
+    "chalkboard": {
+      "codepoint": 57596,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chalkboard"
+    },
+    "chalkboard-user": {
+      "codepoint": 57597,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chalkboardUser"
+    },
+    "champagne-glasses": {
+      "codepoint": 57598,
+      "fontFamily": "Fa6Solid",
+      "identifier": "champagneGlasses"
+    },
+    "charging-station": {
+      "codepoint": 57599,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chargingStation"
+    },
+    "chart-area": {
+      "codepoint": 57600,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chartArea"
+    },
+    "chart-bar": {
+      "codepoint": 57601,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chartBar"
+    },
+    "chart-column": {
+      "codepoint": 57602,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chartColumn"
+    },
+    "chart-diagram": {
+      "codepoint": 57603,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chartDiagram"
+    },
+    "chart-gantt": {
+      "codepoint": 57604,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chartGantt"
+    },
+    "chart-line": {
+      "codepoint": 57605,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chartLine"
+    },
+    "chart-pie": {
+      "codepoint": 57606,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chartPie"
+    },
+    "chart-simple": {
+      "codepoint": 57607,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chartSimple"
+    },
+    "check": {
+      "codepoint": 57608,
+      "fontFamily": "Fa6Solid",
+      "identifier": "check"
+    },
+    "check-double": {
+      "codepoint": 57609,
+      "fontFamily": "Fa6Solid",
+      "identifier": "checkDouble"
+    },
+    "check-to-slot": {
+      "codepoint": 57610,
+      "fontFamily": "Fa6Solid",
+      "identifier": "checkToSlot"
+    },
+    "cheese": {
+      "codepoint": 57611,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cheese"
+    },
+    "chess": {
+      "codepoint": 57612,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chess"
+    },
+    "chess-bishop": {
+      "codepoint": 57613,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chessBishop"
+    },
+    "chess-board": {
+      "codepoint": 57614,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chessBoard"
+    },
+    "chess-king": {
+      "codepoint": 57615,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chessKing"
+    },
+    "chess-knight": {
+      "codepoint": 57616,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chessKnight"
+    },
+    "chess-pawn": {
+      "codepoint": 57617,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chessPawn"
+    },
+    "chess-queen": {
+      "codepoint": 57618,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chessQueen"
+    },
+    "chess-rook": {
+      "codepoint": 57619,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chessRook"
+    },
+    "chevron-down": {
+      "codepoint": 57620,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57621,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57622,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57623,
+      "fontFamily": "Fa6Solid",
+      "identifier": "chevronUp"
+    },
+    "child": {
+      "codepoint": 57624,
+      "fontFamily": "Fa6Solid",
+      "identifier": "child"
+    },
+    "child-combatant": {
+      "codepoint": 57625,
+      "fontFamily": "Fa6Solid",
+      "identifier": "childCombatant"
+    },
+    "child-dress": {
+      "codepoint": 57626,
+      "fontFamily": "Fa6Solid",
+      "identifier": "childDress"
+    },
+    "child-reaching": {
+      "codepoint": 57627,
+      "fontFamily": "Fa6Solid",
+      "identifier": "childReaching"
+    },
+    "child-rifle": {
+      "codepoint": 57628,
+      "fontFamily": "Fa6Solid",
+      "identifier": "childRifle"
+    },
+    "children": {
+      "codepoint": 57629,
+      "fontFamily": "Fa6Solid",
+      "identifier": "children"
+    },
+    "church": {
+      "codepoint": 57630,
+      "fontFamily": "Fa6Solid",
+      "identifier": "church"
+    },
+    "circle": {
+      "codepoint": 57631,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circle"
+    },
+    "circle-arrow-down": {
+      "codepoint": 57632,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleArrowDown"
+    },
+    "circle-arrow-left": {
+      "codepoint": 57633,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleArrowLeft"
+    },
+    "circle-arrow-right": {
+      "codepoint": 57634,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleArrowRight"
+    },
+    "circle-arrow-up": {
+      "codepoint": 57635,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleArrowUp"
+    },
+    "circle-check": {
+      "codepoint": 57636,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleCheck"
+    },
+    "circle-chevron-down": {
+      "codepoint": 57637,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleChevronDown"
+    },
+    "circle-chevron-left": {
+      "codepoint": 57638,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleChevronLeft"
+    },
+    "circle-chevron-right": {
+      "codepoint": 57639,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleChevronRight"
+    },
+    "circle-chevron-up": {
+      "codepoint": 57640,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleChevronUp"
+    },
+    "circle-dollar-to-slot": {
+      "codepoint": 57641,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleDollarToSlot"
+    },
+    "circle-dot": {
+      "codepoint": 57642,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleDot"
+    },
+    "circle-down": {
+      "codepoint": 57643,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleDown"
+    },
+    "circle-exclamation": {
+      "codepoint": 57644,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleExclamation"
+    },
+    "circle-h": {
+      "codepoint": 57645,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleH"
+    },
+    "circle-half-stroke": {
+      "codepoint": 57646,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleHalfStroke"
+    },
+    "circle-info": {
+      "codepoint": 57647,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleInfo"
+    },
+    "circle-left": {
+      "codepoint": 57648,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleLeft"
+    },
+    "circle-minus": {
+      "codepoint": 57649,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleMinus"
+    },
+    "circle-nodes": {
+      "codepoint": 57650,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleNodes"
+    },
+    "circle-notch": {
+      "codepoint": 57651,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleNotch"
+    },
+    "circle-pause": {
+      "codepoint": 57652,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circlePause"
+    },
+    "circle-play": {
+      "codepoint": 57653,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circlePlay"
+    },
+    "circle-plus": {
+      "codepoint": 57654,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circlePlus"
+    },
+    "circle-question": {
+      "codepoint": 57655,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleQuestion"
+    },
+    "circle-radiation": {
+      "codepoint": 57656,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleRadiation"
+    },
+    "circle-right": {
+      "codepoint": 57657,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleRight"
+    },
+    "circle-stop": {
+      "codepoint": 57658,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleStop"
+    },
+    "circle-up": {
+      "codepoint": 57659,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleUp"
+    },
+    "circle-user": {
+      "codepoint": 57660,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleUser"
+    },
+    "circle-xmark": {
+      "codepoint": 57661,
+      "fontFamily": "Fa6Solid",
+      "identifier": "circleXmark"
+    },
+    "city": {
+      "codepoint": 57662,
+      "fontFamily": "Fa6Solid",
+      "identifier": "city"
+    },
+    "clapperboard": {
+      "codepoint": 57663,
+      "fontFamily": "Fa6Solid",
+      "identifier": "clapperboard"
+    },
+    "clipboard": {
+      "codepoint": 57664,
+      "fontFamily": "Fa6Solid",
+      "identifier": "clipboard"
+    },
+    "clipboard-check": {
+      "codepoint": 57665,
+      "fontFamily": "Fa6Solid",
+      "identifier": "clipboardCheck"
+    },
+    "clipboard-list": {
+      "codepoint": 57666,
+      "fontFamily": "Fa6Solid",
+      "identifier": "clipboardList"
+    },
+    "clipboard-question": {
+      "codepoint": 57667,
+      "fontFamily": "Fa6Solid",
+      "identifier": "clipboardQuestion"
+    },
+    "clipboard-user": {
+      "codepoint": 57668,
+      "fontFamily": "Fa6Solid",
+      "identifier": "clipboardUser"
+    },
+    "clock": {
+      "codepoint": 57669,
+      "fontFamily": "Fa6Solid",
+      "identifier": "clock"
+    },
+    "clock-rotate-left": {
+      "codepoint": 57670,
+      "fontFamily": "Fa6Solid",
+      "identifier": "clockRotateLeft"
+    },
+    "clone": {
+      "codepoint": 57671,
+      "fontFamily": "Fa6Solid",
+      "identifier": "clone"
+    },
+    "closed-captioning": {
+      "codepoint": 57672,
+      "fontFamily": "Fa6Solid",
+      "identifier": "closedCaptioning"
+    },
+    "cloud": {
+      "codepoint": 57673,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cloud"
+    },
+    "cloud-arrow-down": {
+      "codepoint": 57674,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cloudArrowDown"
+    },
+    "cloud-arrow-up": {
+      "codepoint": 57675,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cloudArrowUp"
+    },
+    "cloud-bolt": {
+      "codepoint": 57676,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cloudBolt"
+    },
+    "cloud-meatball": {
+      "codepoint": 57677,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cloudMeatball"
+    },
+    "cloud-moon": {
+      "codepoint": 57678,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cloudMoon"
+    },
+    "cloud-moon-rain": {
+      "codepoint": 57679,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cloudMoonRain"
+    },
+    "cloud-rain": {
+      "codepoint": 57680,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cloudRain"
+    },
+    "cloud-showers-heavy": {
+      "codepoint": 57681,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cloudShowersHeavy"
+    },
+    "cloud-showers-water": {
+      "codepoint": 57682,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cloudShowersWater"
+    },
+    "cloud-sun": {
+      "codepoint": 57683,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cloudSun"
+    },
+    "cloud-sun-rain": {
+      "codepoint": 57684,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cloudSunRain"
+    },
+    "clover": {
+      "codepoint": 57685,
+      "fontFamily": "Fa6Solid",
+      "identifier": "clover"
+    },
+    "code": {
+      "codepoint": 57686,
+      "fontFamily": "Fa6Solid",
+      "identifier": "code"
+    },
+    "code-branch": {
+      "codepoint": 57687,
+      "fontFamily": "Fa6Solid",
+      "identifier": "codeBranch"
+    },
+    "code-commit": {
+      "codepoint": 57688,
+      "fontFamily": "Fa6Solid",
+      "identifier": "codeCommit"
+    },
+    "code-compare": {
+      "codepoint": 57689,
+      "fontFamily": "Fa6Solid",
+      "identifier": "codeCompare"
+    },
+    "code-fork": {
+      "codepoint": 57690,
+      "fontFamily": "Fa6Solid",
+      "identifier": "codeFork"
+    },
+    "code-merge": {
+      "codepoint": 57691,
+      "fontFamily": "Fa6Solid",
+      "identifier": "codeMerge"
+    },
+    "code-pull-request": {
+      "codepoint": 57692,
+      "fontFamily": "Fa6Solid",
+      "identifier": "codePullRequest"
+    },
+    "coins": {
+      "codepoint": 57693,
+      "fontFamily": "Fa6Solid",
+      "identifier": "coins"
+    },
+    "colon-sign": {
+      "codepoint": 57694,
+      "fontFamily": "Fa6Solid",
+      "identifier": "colonSign"
+    },
+    "comment": {
+      "codepoint": 57695,
+      "fontFamily": "Fa6Solid",
+      "identifier": "comment"
+    },
+    "comment-dollar": {
+      "codepoint": 57696,
+      "fontFamily": "Fa6Solid",
+      "identifier": "commentDollar"
+    },
+    "comment-dots": {
+      "codepoint": 57697,
+      "fontFamily": "Fa6Solid",
+      "identifier": "commentDots"
+    },
+    "comment-medical": {
+      "codepoint": 57698,
+      "fontFamily": "Fa6Solid",
+      "identifier": "commentMedical"
+    },
+    "comment-nodes": {
+      "codepoint": 57699,
+      "fontFamily": "Fa6Solid",
+      "identifier": "commentNodes"
+    },
+    "comment-slash": {
+      "codepoint": 57700,
+      "fontFamily": "Fa6Solid",
+      "identifier": "commentSlash"
+    },
+    "comment-sms": {
+      "codepoint": 57701,
+      "fontFamily": "Fa6Solid",
+      "identifier": "commentSms"
+    },
+    "comments": {
+      "codepoint": 57702,
+      "fontFamily": "Fa6Solid",
+      "identifier": "comments"
+    },
+    "comments-dollar": {
+      "codepoint": 57703,
+      "fontFamily": "Fa6Solid",
+      "identifier": "commentsDollar"
+    },
+    "compact-disc": {
+      "codepoint": 57704,
+      "fontFamily": "Fa6Solid",
+      "identifier": "compactDisc"
+    },
+    "compass": {
+      "codepoint": 57705,
+      "fontFamily": "Fa6Solid",
+      "identifier": "compass"
+    },
+    "compass-drafting": {
+      "codepoint": 57706,
+      "fontFamily": "Fa6Solid",
+      "identifier": "compassDrafting"
+    },
+    "compress": {
+      "codepoint": 57707,
+      "fontFamily": "Fa6Solid",
+      "identifier": "compress"
+    },
+    "computer": {
+      "codepoint": 57708,
+      "fontFamily": "Fa6Solid",
+      "identifier": "computer"
+    },
+    "computer-mouse": {
+      "codepoint": 57709,
+      "fontFamily": "Fa6Solid",
+      "identifier": "computerMouse"
+    },
+    "cookie": {
+      "codepoint": 57710,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cookie"
+    },
+    "cookie-bite": {
+      "codepoint": 57711,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cookieBite"
+    },
+    "copy": {
+      "codepoint": 57712,
+      "fontFamily": "Fa6Solid",
+      "identifier": "copy"
+    },
+    "copyright": {
+      "codepoint": 57713,
+      "fontFamily": "Fa6Solid",
+      "identifier": "copyright"
+    },
+    "couch": {
+      "codepoint": 57714,
+      "fontFamily": "Fa6Solid",
+      "identifier": "couch"
+    },
+    "cow": {
+      "codepoint": 57715,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cow"
+    },
+    "credit-card": {
+      "codepoint": 57716,
+      "fontFamily": "Fa6Solid",
+      "identifier": "creditCard"
+    },
+    "crop": {
+      "codepoint": 57717,
+      "fontFamily": "Fa6Solid",
+      "identifier": "crop"
+    },
+    "crop-simple": {
+      "codepoint": 57718,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cropSimple"
+    },
+    "cross": {
+      "codepoint": 57719,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cross"
+    },
+    "crosshairs": {
+      "codepoint": 57720,
+      "fontFamily": "Fa6Solid",
+      "identifier": "crosshairs"
+    },
+    "crow": {
+      "codepoint": 57721,
+      "fontFamily": "Fa6Solid",
+      "identifier": "crow"
+    },
+    "crown": {
+      "codepoint": 57722,
+      "fontFamily": "Fa6Solid",
+      "identifier": "crown"
+    },
+    "crutch": {
+      "codepoint": 57723,
+      "fontFamily": "Fa6Solid",
+      "identifier": "crutch"
+    },
+    "cruzeiro-sign": {
+      "codepoint": 57724,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cruzeiroSign"
+    },
+    "cube": {
+      "codepoint": 57725,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cube"
+    },
+    "cubes": {
+      "codepoint": 57726,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cubes"
+    },
+    "cubes-stacked": {
+      "codepoint": 57727,
+      "fontFamily": "Fa6Solid",
+      "identifier": "cubesStacked"
+    },
+    "d": {
+      "codepoint": 57728,
+      "fontFamily": "Fa6Solid",
+      "identifier": "d"
+    },
+    "database": {
+      "codepoint": 57729,
+      "fontFamily": "Fa6Solid",
+      "identifier": "database"
+    },
+    "delete-left": {
+      "codepoint": 57730,
+      "fontFamily": "Fa6Solid",
+      "identifier": "deleteLeft"
+    },
+    "democrat": {
+      "codepoint": 57731,
+      "fontFamily": "Fa6Solid",
+      "identifier": "democrat"
+    },
+    "desktop": {
+      "codepoint": 57732,
+      "fontFamily": "Fa6Solid",
+      "identifier": "desktop"
+    },
+    "dharmachakra": {
+      "codepoint": 57733,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dharmachakra"
+    },
+    "diagram-next": {
+      "codepoint": 57734,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diagramNext"
+    },
+    "diagram-predecessor": {
+      "codepoint": 57735,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diagramPredecessor"
+    },
+    "diagram-project": {
+      "codepoint": 57736,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diagramProject"
+    },
+    "diagram-successor": {
+      "codepoint": 57737,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diagramSuccessor"
+    },
+    "diamond": {
+      "codepoint": 57738,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diamond"
+    },
+    "diamond-turn-right": {
+      "codepoint": 57739,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diamondTurnRight"
+    },
+    "dice": {
+      "codepoint": 57740,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dice"
+    },
+    "dice-d20": {
+      "codepoint": 57741,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diceD20"
+    },
+    "dice-d6": {
+      "codepoint": 57742,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diceD6"
+    },
+    "dice-five": {
+      "codepoint": 57743,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diceFive"
+    },
+    "dice-four": {
+      "codepoint": 57744,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diceFour"
+    },
+    "dice-one": {
+      "codepoint": 57745,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diceOne"
+    },
+    "dice-six": {
+      "codepoint": 57746,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diceSix"
+    },
+    "dice-three": {
+      "codepoint": 57747,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diceThree"
+    },
+    "dice-two": {
+      "codepoint": 57748,
+      "fontFamily": "Fa6Solid",
+      "identifier": "diceTwo"
+    },
+    "disease": {
+      "codepoint": 57749,
+      "fontFamily": "Fa6Solid",
+      "identifier": "disease"
+    },
+    "display": {
+      "codepoint": 57750,
+      "fontFamily": "Fa6Solid",
+      "identifier": "display"
+    },
+    "divide": {
+      "codepoint": 57751,
+      "fontFamily": "Fa6Solid",
+      "identifier": "divide"
+    },
+    "dna": {
+      "codepoint": 57752,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dna"
+    },
+    "dog": {
+      "codepoint": 57753,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dog"
+    },
+    "dollar-sign": {
+      "codepoint": 57754,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dollarSign"
+    },
+    "dolly": {
+      "codepoint": 57755,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dolly"
+    },
+    "dong-sign": {
+      "codepoint": 57756,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dongSign"
+    },
+    "door-closed": {
+      "codepoint": 57757,
+      "fontFamily": "Fa6Solid",
+      "identifier": "doorClosed"
+    },
+    "door-open": {
+      "codepoint": 57758,
+      "fontFamily": "Fa6Solid",
+      "identifier": "doorOpen"
+    },
+    "dove": {
+      "codepoint": 57759,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dove"
+    },
+    "down-left-and-up-right-to-center": {
+      "codepoint": 57760,
+      "fontFamily": "Fa6Solid",
+      "identifier": "downLeftAndUpRightToCenter"
+    },
+    "down-long": {
+      "codepoint": 57761,
+      "fontFamily": "Fa6Solid",
+      "identifier": "downLong"
+    },
+    "download": {
+      "codepoint": 57762,
+      "fontFamily": "Fa6Solid",
+      "identifier": "download"
+    },
+    "dragon": {
+      "codepoint": 57763,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dragon"
+    },
+    "draw-polygon": {
+      "codepoint": 57764,
+      "fontFamily": "Fa6Solid",
+      "identifier": "drawPolygon"
+    },
+    "droplet": {
+      "codepoint": 57765,
+      "fontFamily": "Fa6Solid",
+      "identifier": "droplet"
+    },
+    "droplet-slash": {
+      "codepoint": 57766,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dropletSlash"
+    },
+    "drum": {
+      "codepoint": 57767,
+      "fontFamily": "Fa6Solid",
+      "identifier": "drum"
+    },
+    "drum-steelpan": {
+      "codepoint": 57768,
+      "fontFamily": "Fa6Solid",
+      "identifier": "drumSteelpan"
+    },
+    "drumstick-bite": {
+      "codepoint": 57769,
+      "fontFamily": "Fa6Solid",
+      "identifier": "drumstickBite"
+    },
+    "dumbbell": {
+      "codepoint": 57770,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dumbbell"
+    },
+    "dumpster": {
+      "codepoint": 57771,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dumpster"
+    },
+    "dumpster-fire": {
+      "codepoint": 57772,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dumpsterFire"
+    },
+    "dungeon": {
+      "codepoint": 57773,
+      "fontFamily": "Fa6Solid",
+      "identifier": "dungeon"
+    },
+    "e": {
+      "codepoint": 57774,
+      "fontFamily": "Fa6Solid",
+      "identifier": "e"
+    },
+    "ear-deaf": {
+      "codepoint": 57775,
+      "fontFamily": "Fa6Solid",
+      "identifier": "earDeaf"
+    },
+    "ear-listen": {
+      "codepoint": 57776,
+      "fontFamily": "Fa6Solid",
+      "identifier": "earListen"
+    },
+    "earth-africa": {
+      "codepoint": 57777,
+      "fontFamily": "Fa6Solid",
+      "identifier": "earthAfrica"
+    },
+    "earth-americas": {
+      "codepoint": 57778,
+      "fontFamily": "Fa6Solid",
+      "identifier": "earthAmericas"
+    },
+    "earth-asia": {
+      "codepoint": 57779,
+      "fontFamily": "Fa6Solid",
+      "identifier": "earthAsia"
+    },
+    "earth-europe": {
+      "codepoint": 57780,
+      "fontFamily": "Fa6Solid",
+      "identifier": "earthEurope"
+    },
+    "earth-oceania": {
+      "codepoint": 57781,
+      "fontFamily": "Fa6Solid",
+      "identifier": "earthOceania"
+    },
+    "egg": {
+      "codepoint": 57782,
+      "fontFamily": "Fa6Solid",
+      "identifier": "egg"
+    },
+    "eject": {
+      "codepoint": 57783,
+      "fontFamily": "Fa6Solid",
+      "identifier": "eject"
+    },
+    "elevator": {
+      "codepoint": 57784,
+      "fontFamily": "Fa6Solid",
+      "identifier": "elevator"
+    },
+    "ellipsis": {
+      "codepoint": 57785,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ellipsis"
+    },
+    "ellipsis-vertical": {
+      "codepoint": 57786,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ellipsisVertical"
+    },
+    "envelope": {
+      "codepoint": 57787,
+      "fontFamily": "Fa6Solid",
+      "identifier": "envelope"
+    },
+    "envelope-circle-check": {
+      "codepoint": 57788,
+      "fontFamily": "Fa6Solid",
+      "identifier": "envelopeCircleCheck"
+    },
+    "envelope-open": {
+      "codepoint": 57789,
+      "fontFamily": "Fa6Solid",
+      "identifier": "envelopeOpen"
+    },
+    "envelope-open-text": {
+      "codepoint": 57790,
+      "fontFamily": "Fa6Solid",
+      "identifier": "envelopeOpenText"
+    },
+    "envelopes-bulk": {
+      "codepoint": 57791,
+      "fontFamily": "Fa6Solid",
+      "identifier": "envelopesBulk"
+    },
+    "equals": {
+      "codepoint": 57792,
+      "fontFamily": "Fa6Solid",
+      "identifier": "equals"
+    },
+    "eraser": {
+      "codepoint": 57793,
+      "fontFamily": "Fa6Solid",
+      "identifier": "eraser"
+    },
+    "ethernet": {
+      "codepoint": 57794,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ethernet"
+    },
+    "euro-sign": {
+      "codepoint": 57795,
+      "fontFamily": "Fa6Solid",
+      "identifier": "euroSign"
+    },
+    "exclamation": {
+      "codepoint": 57796,
+      "fontFamily": "Fa6Solid",
+      "identifier": "exclamation"
+    },
+    "expand": {
+      "codepoint": 57797,
+      "fontFamily": "Fa6Solid",
+      "identifier": "expand"
+    },
+    "explosion": {
+      "codepoint": 57798,
+      "fontFamily": "Fa6Solid",
+      "identifier": "explosion"
+    },
+    "eye": {
+      "codepoint": 57799,
+      "fontFamily": "Fa6Solid",
+      "identifier": "eye"
+    },
+    "eye-dropper": {
+      "codepoint": 57800,
+      "fontFamily": "Fa6Solid",
+      "identifier": "eyeDropper"
+    },
+    "eye-low-vision": {
+      "codepoint": 57801,
+      "fontFamily": "Fa6Solid",
+      "identifier": "eyeLowVision"
+    },
+    "eye-slash": {
+      "codepoint": 57802,
+      "fontFamily": "Fa6Solid",
+      "identifier": "eyeSlash"
+    },
+    "f": {
+      "codepoint": 57803,
+      "fontFamily": "Fa6Solid",
+      "identifier": "f"
+    },
+    "face-angry": {
+      "codepoint": 57804,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceAngry"
+    },
+    "face-dizzy": {
+      "codepoint": 57805,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceDizzy"
+    },
+    "face-flushed": {
+      "codepoint": 57806,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceFlushed"
+    },
+    "face-frown": {
+      "codepoint": 57807,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceFrown"
+    },
+    "face-frown-open": {
+      "codepoint": 57808,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceFrownOpen"
+    },
+    "face-grimace": {
+      "codepoint": 57809,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrimace"
+    },
+    "face-grin": {
+      "codepoint": 57810,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrin"
+    },
+    "face-grin-beam": {
+      "codepoint": 57811,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrinBeam"
+    },
+    "face-grin-beam-sweat": {
+      "codepoint": 57812,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrinBeamSweat"
+    },
+    "face-grin-hearts": {
+      "codepoint": 57813,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrinHearts"
+    },
+    "face-grin-squint": {
+      "codepoint": 57814,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrinSquint"
+    },
+    "face-grin-squint-tears": {
+      "codepoint": 57815,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrinSquintTears"
+    },
+    "face-grin-stars": {
+      "codepoint": 57816,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrinStars"
+    },
+    "face-grin-tears": {
+      "codepoint": 57817,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrinTears"
+    },
+    "face-grin-tongue": {
+      "codepoint": 57818,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrinTongue"
+    },
+    "face-grin-tongue-squint": {
+      "codepoint": 57819,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrinTongueSquint"
+    },
+    "face-grin-tongue-wink": {
+      "codepoint": 57820,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrinTongueWink"
+    },
+    "face-grin-wide": {
+      "codepoint": 57821,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrinWide"
+    },
+    "face-grin-wink": {
+      "codepoint": 57822,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceGrinWink"
+    },
+    "face-kiss": {
+      "codepoint": 57823,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceKiss"
+    },
+    "face-kiss-beam": {
+      "codepoint": 57824,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceKissBeam"
+    },
+    "face-kiss-wink-heart": {
+      "codepoint": 57825,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceKissWinkHeart"
+    },
+    "face-laugh": {
+      "codepoint": 57826,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceLaugh"
+    },
+    "face-laugh-beam": {
+      "codepoint": 57827,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceLaughBeam"
+    },
+    "face-laugh-squint": {
+      "codepoint": 57828,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceLaughSquint"
+    },
+    "face-laugh-wink": {
+      "codepoint": 57829,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceLaughWink"
+    },
+    "face-meh": {
+      "codepoint": 57830,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceMeh"
+    },
+    "face-meh-blank": {
+      "codepoint": 57831,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceMehBlank"
+    },
+    "face-rolling-eyes": {
+      "codepoint": 57832,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceRollingEyes"
+    },
+    "face-sad-cry": {
+      "codepoint": 57833,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceSadCry"
+    },
+    "face-sad-tear": {
+      "codepoint": 57834,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceSadTear"
+    },
+    "face-smile": {
+      "codepoint": 57835,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceSmile"
+    },
+    "face-smile-beam": {
+      "codepoint": 57836,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceSmileBeam"
+    },
+    "face-smile-wink": {
+      "codepoint": 57837,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceSmileWink"
+    },
+    "face-surprise": {
+      "codepoint": 57838,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceSurprise"
+    },
+    "face-tired": {
+      "codepoint": 57839,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faceTired"
+    },
+    "fan": {
+      "codepoint": 57840,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fan"
+    },
+    "faucet": {
+      "codepoint": 57841,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faucet"
+    },
+    "faucet-drip": {
+      "codepoint": 57842,
+      "fontFamily": "Fa6Solid",
+      "identifier": "faucetDrip"
+    },
+    "fax": {
+      "codepoint": 57843,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fax"
+    },
+    "feather": {
+      "codepoint": 57844,
+      "fontFamily": "Fa6Solid",
+      "identifier": "feather"
+    },
+    "feather-pointed": {
+      "codepoint": 57845,
+      "fontFamily": "Fa6Solid",
+      "identifier": "featherPointed"
+    },
+    "ferry": {
+      "codepoint": 57846,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ferry"
+    },
+    "file": {
+      "codepoint": 57847,
+      "fontFamily": "Fa6Solid",
+      "identifier": "file"
+    },
+    "file-arrow-down": {
+      "codepoint": 57848,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileArrowDown"
+    },
+    "file-arrow-up": {
+      "codepoint": 57849,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileArrowUp"
+    },
+    "file-audio": {
+      "codepoint": 57850,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileAudio"
+    },
+    "file-circle-check": {
+      "codepoint": 57851,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileCircleCheck"
+    },
+    "file-circle-exclamation": {
+      "codepoint": 57852,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileCircleExclamation"
+    },
+    "file-circle-minus": {
+      "codepoint": 57853,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileCircleMinus"
+    },
+    "file-circle-plus": {
+      "codepoint": 57854,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileCirclePlus"
+    },
+    "file-circle-question": {
+      "codepoint": 57855,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileCircleQuestion"
+    },
+    "file-circle-xmark": {
+      "codepoint": 57856,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileCircleXmark"
+    },
+    "file-code": {
+      "codepoint": 57857,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileCode"
+    },
+    "file-contract": {
+      "codepoint": 57858,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileContract"
+    },
+    "file-csv": {
+      "codepoint": 57859,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileCsv"
+    },
+    "file-excel": {
+      "codepoint": 57860,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileExcel"
+    },
+    "file-export": {
+      "codepoint": 57861,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileExport"
+    },
+    "file-fragment": {
+      "codepoint": 57862,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileFragment"
+    },
+    "file-half-dashed": {
+      "codepoint": 57863,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileHalfDashed"
+    },
+    "file-image": {
+      "codepoint": 57864,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileImage"
+    },
+    "file-import": {
+      "codepoint": 57865,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileImport"
+    },
+    "file-invoice": {
+      "codepoint": 57866,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileInvoice"
+    },
+    "file-invoice-dollar": {
+      "codepoint": 57867,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileInvoiceDollar"
+    },
+    "file-lines": {
+      "codepoint": 57868,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileLines"
+    },
+    "file-medical": {
+      "codepoint": 57869,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileMedical"
+    },
+    "file-pdf": {
+      "codepoint": 57870,
+      "fontFamily": "Fa6Solid",
+      "identifier": "filePdf"
+    },
+    "file-pen": {
+      "codepoint": 57871,
+      "fontFamily": "Fa6Solid",
+      "identifier": "filePen"
+    },
+    "file-powerpoint": {
+      "codepoint": 57872,
+      "fontFamily": "Fa6Solid",
+      "identifier": "filePowerpoint"
+    },
+    "file-prescription": {
+      "codepoint": 57873,
+      "fontFamily": "Fa6Solid",
+      "identifier": "filePrescription"
+    },
+    "file-shield": {
+      "codepoint": 57874,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileShield"
+    },
+    "file-signature": {
+      "codepoint": 57875,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileSignature"
+    },
+    "file-video": {
+      "codepoint": 57876,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileVideo"
+    },
+    "file-waveform": {
+      "codepoint": 57877,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileWaveform"
+    },
+    "file-word": {
+      "codepoint": 57878,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileWord"
+    },
+    "file-zipper": {
+      "codepoint": 57879,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fileZipper"
+    },
+    "fill": {
+      "codepoint": 57880,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fill"
+    },
+    "fill-drip": {
+      "codepoint": 57881,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fillDrip"
+    },
+    "film": {
+      "codepoint": 57882,
+      "fontFamily": "Fa6Solid",
+      "identifier": "film"
+    },
+    "filter": {
+      "codepoint": 57883,
+      "fontFamily": "Fa6Solid",
+      "identifier": "filter"
+    },
+    "filter-circle-dollar": {
+      "codepoint": 57884,
+      "fontFamily": "Fa6Solid",
+      "identifier": "filterCircleDollar"
+    },
+    "filter-circle-xmark": {
+      "codepoint": 57885,
+      "fontFamily": "Fa6Solid",
+      "identifier": "filterCircleXmark"
+    },
+    "fingerprint": {
+      "codepoint": 57886,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fingerprint"
+    },
+    "fire": {
+      "codepoint": 57887,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fire"
+    },
+    "fire-burner": {
+      "codepoint": 57888,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fireBurner"
+    },
+    "fire-extinguisher": {
+      "codepoint": 57889,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fireExtinguisher"
+    },
+    "fire-flame-curved": {
+      "codepoint": 57890,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fireFlameCurved"
+    },
+    "fire-flame-simple": {
+      "codepoint": 57891,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fireFlameSimple"
+    },
+    "fish": {
+      "codepoint": 57892,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fish"
+    },
+    "fish-fins": {
+      "codepoint": 57893,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fishFins"
+    },
+    "flag": {
+      "codepoint": 57894,
+      "fontFamily": "Fa6Solid",
+      "identifier": "flag"
+    },
+    "flag-checkered": {
+      "codepoint": 57895,
+      "fontFamily": "Fa6Solid",
+      "identifier": "flagCheckered"
+    },
+    "flag-usa": {
+      "codepoint": 57896,
+      "fontFamily": "Fa6Solid",
+      "identifier": "flagUsa"
+    },
+    "flask": {
+      "codepoint": 57897,
+      "fontFamily": "Fa6Solid",
+      "identifier": "flask"
+    },
+    "flask-vial": {
+      "codepoint": 57898,
+      "fontFamily": "Fa6Solid",
+      "identifier": "flaskVial"
+    },
+    "floppy-disk": {
+      "codepoint": 57899,
+      "fontFamily": "Fa6Solid",
+      "identifier": "floppyDisk"
+    },
+    "florin-sign": {
+      "codepoint": 57900,
+      "fontFamily": "Fa6Solid",
+      "identifier": "florinSign"
+    },
+    "folder": {
+      "codepoint": 57901,
+      "fontFamily": "Fa6Solid",
+      "identifier": "folder"
+    },
+    "folder-closed": {
+      "codepoint": 57902,
+      "fontFamily": "Fa6Solid",
+      "identifier": "folderClosed"
+    },
+    "folder-minus": {
+      "codepoint": 57903,
+      "fontFamily": "Fa6Solid",
+      "identifier": "folderMinus"
+    },
+    "folder-open": {
+      "codepoint": 57904,
+      "fontFamily": "Fa6Solid",
+      "identifier": "folderOpen"
+    },
+    "folder-plus": {
+      "codepoint": 57905,
+      "fontFamily": "Fa6Solid",
+      "identifier": "folderPlus"
+    },
+    "folder-tree": {
+      "codepoint": 57906,
+      "fontFamily": "Fa6Solid",
+      "identifier": "folderTree"
+    },
+    "font": {
+      "codepoint": 57907,
+      "fontFamily": "Fa6Solid",
+      "identifier": "font"
+    },
+    "font-awesome": {
+      "codepoint": 57908,
+      "fontFamily": "Fa6Solid",
+      "identifier": "fontAwesome"
+    },
+    "football": {
+      "codepoint": 57909,
+      "fontFamily": "Fa6Solid",
+      "identifier": "football"
+    },
+    "forward": {
+      "codepoint": 57910,
+      "fontFamily": "Fa6Solid",
+      "identifier": "forward"
+    },
+    "forward-fast": {
+      "codepoint": 57911,
+      "fontFamily": "Fa6Solid",
+      "identifier": "forwardFast"
+    },
+    "forward-step": {
+      "codepoint": 57912,
+      "fontFamily": "Fa6Solid",
+      "identifier": "forwardStep"
+    },
+    "franc-sign": {
+      "codepoint": 57913,
+      "fontFamily": "Fa6Solid",
+      "identifier": "francSign"
+    },
+    "frog": {
+      "codepoint": 57914,
+      "fontFamily": "Fa6Solid",
+      "identifier": "frog"
+    },
+    "futbol": {
+      "codepoint": 57915,
+      "fontFamily": "Fa6Solid",
+      "identifier": "futbol"
+    },
+    "g": {
+      "codepoint": 57916,
+      "fontFamily": "Fa6Solid",
+      "identifier": "g"
+    },
+    "gamepad": {
+      "codepoint": 57917,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gamepad"
+    },
+    "gas-pump": {
+      "codepoint": 57918,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gasPump"
+    },
+    "gauge": {
+      "codepoint": 57919,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gauge"
+    },
+    "gauge-high": {
+      "codepoint": 57920,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gaugeHigh"
+    },
+    "gauge-simple": {
+      "codepoint": 57921,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gaugeSimple"
+    },
+    "gauge-simple-high": {
+      "codepoint": 57922,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gaugeSimpleHigh"
+    },
+    "gavel": {
+      "codepoint": 57923,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gavel"
+    },
+    "gear": {
+      "codepoint": 57924,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gear"
+    },
+    "gears": {
+      "codepoint": 57925,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gears"
+    },
+    "gem": {
+      "codepoint": 57926,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gem"
+    },
+    "genderless": {
+      "codepoint": 57927,
+      "fontFamily": "Fa6Solid",
+      "identifier": "genderless"
+    },
+    "ghost": {
+      "codepoint": 57928,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ghost"
+    },
+    "gift": {
+      "codepoint": 57929,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gift"
+    },
+    "gifts": {
+      "codepoint": 57930,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gifts"
+    },
+    "glass-water": {
+      "codepoint": 57931,
+      "fontFamily": "Fa6Solid",
+      "identifier": "glassWater"
+    },
+    "glass-water-droplet": {
+      "codepoint": 57932,
+      "fontFamily": "Fa6Solid",
+      "identifier": "glassWaterDroplet"
+    },
+    "glasses": {
+      "codepoint": 57933,
+      "fontFamily": "Fa6Solid",
+      "identifier": "glasses"
+    },
+    "globe": {
+      "codepoint": 57934,
+      "fontFamily": "Fa6Solid",
+      "identifier": "globe"
+    },
+    "golf-ball-tee": {
+      "codepoint": 57935,
+      "fontFamily": "Fa6Solid",
+      "identifier": "golfBallTee"
+    },
+    "gopuram": {
+      "codepoint": 57936,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gopuram"
+    },
+    "graduation-cap": {
+      "codepoint": 57937,
+      "fontFamily": "Fa6Solid",
+      "identifier": "graduationCap"
+    },
+    "greater-than": {
+      "codepoint": 57938,
+      "fontFamily": "Fa6Solid",
+      "identifier": "greaterThan"
+    },
+    "greater-than-equal": {
+      "codepoint": 57939,
+      "fontFamily": "Fa6Solid",
+      "identifier": "greaterThanEqual"
+    },
+    "grip": {
+      "codepoint": 57940,
+      "fontFamily": "Fa6Solid",
+      "identifier": "grip"
+    },
+    "grip-lines": {
+      "codepoint": 57941,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gripLines"
+    },
+    "grip-lines-vertical": {
+      "codepoint": 57942,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gripLinesVertical"
+    },
+    "grip-vertical": {
+      "codepoint": 57943,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gripVertical"
+    },
+    "group-arrows-rotate": {
+      "codepoint": 57944,
+      "fontFamily": "Fa6Solid",
+      "identifier": "groupArrowsRotate"
+    },
+    "guarani-sign": {
+      "codepoint": 57945,
+      "fontFamily": "Fa6Solid",
+      "identifier": "guaraniSign"
+    },
+    "guitar": {
+      "codepoint": 57946,
+      "fontFamily": "Fa6Solid",
+      "identifier": "guitar"
+    },
+    "gun": {
+      "codepoint": 57947,
+      "fontFamily": "Fa6Solid",
+      "identifier": "gun"
+    },
+    "h": {
+      "codepoint": 57948,
+      "fontFamily": "Fa6Solid",
+      "identifier": "h"
+    },
+    "hammer": {
+      "codepoint": 57949,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hammer"
+    },
+    "hamsa": {
+      "codepoint": 57950,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hamsa"
+    },
+    "hand": {
+      "codepoint": 57951,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hand"
+    },
+    "hand-back-fist": {
+      "codepoint": 57952,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handBackFist"
+    },
+    "hand-dots": {
+      "codepoint": 57953,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handDots"
+    },
+    "hand-fist": {
+      "codepoint": 57954,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handFist"
+    },
+    "hand-holding": {
+      "codepoint": 57955,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handHolding"
+    },
+    "hand-holding-dollar": {
+      "codepoint": 57956,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handHoldingDollar"
+    },
+    "hand-holding-droplet": {
+      "codepoint": 57957,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handHoldingDroplet"
+    },
+    "hand-holding-hand": {
+      "codepoint": 57958,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handHoldingHand"
+    },
+    "hand-holding-heart": {
+      "codepoint": 57959,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handHoldingHeart"
+    },
+    "hand-holding-medical": {
+      "codepoint": 57960,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handHoldingMedical"
+    },
+    "hand-lizard": {
+      "codepoint": 57961,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handLizard"
+    },
+    "hand-middle-finger": {
+      "codepoint": 57962,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handMiddleFinger"
+    },
+    "hand-peace": {
+      "codepoint": 57963,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handPeace"
+    },
+    "hand-point-down": {
+      "codepoint": 57964,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handPointDown"
+    },
+    "hand-point-left": {
+      "codepoint": 57965,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handPointLeft"
+    },
+    "hand-point-right": {
+      "codepoint": 57966,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handPointRight"
+    },
+    "hand-point-up": {
+      "codepoint": 57967,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handPointUp"
+    },
+    "hand-pointer": {
+      "codepoint": 57968,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handPointer"
+    },
+    "hand-scissors": {
+      "codepoint": 57969,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handScissors"
+    },
+    "hand-sparkles": {
+      "codepoint": 57970,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handSparkles"
+    },
+    "hand-spock": {
+      "codepoint": 57971,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handSpock"
+    },
+    "handcuffs": {
+      "codepoint": 57972,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handcuffs"
+    },
+    "hands": {
+      "codepoint": 57973,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hands"
+    },
+    "hands-asl-interpreting": {
+      "codepoint": 57974,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handsAslInterpreting"
+    },
+    "hands-bound": {
+      "codepoint": 57975,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handsBound"
+    },
+    "hands-bubbles": {
+      "codepoint": 57976,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handsBubbles"
+    },
+    "hands-clapping": {
+      "codepoint": 57977,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handsClapping"
+    },
+    "hands-holding": {
+      "codepoint": 57978,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handsHolding"
+    },
+    "hands-holding-child": {
+      "codepoint": 57979,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handsHoldingChild"
+    },
+    "hands-holding-circle": {
+      "codepoint": 57980,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handsHoldingCircle"
+    },
+    "hands-praying": {
+      "codepoint": 57981,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handsPraying"
+    },
+    "handshake": {
+      "codepoint": 57982,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handshake"
+    },
+    "handshake-angle": {
+      "codepoint": 57983,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handshakeAngle"
+    },
+    "handshake-simple": {
+      "codepoint": 57984,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handshakeSimple"
+    },
+    "handshake-simple-slash": {
+      "codepoint": 57985,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handshakeSimpleSlash"
+    },
+    "handshake-slash": {
+      "codepoint": 57986,
+      "fontFamily": "Fa6Solid",
+      "identifier": "handshakeSlash"
+    },
+    "hanukiah": {
+      "codepoint": 57987,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hanukiah"
+    },
+    "hard-drive": {
+      "codepoint": 57988,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hardDrive"
+    },
+    "hashtag": {
+      "codepoint": 57989,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hashtag"
+    },
+    "hat-cowboy": {
+      "codepoint": 57990,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hatCowboy"
+    },
+    "hat-cowboy-side": {
+      "codepoint": 57991,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hatCowboySide"
+    },
+    "hat-wizard": {
+      "codepoint": 57992,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hatWizard"
+    },
+    "head-side-cough": {
+      "codepoint": 57993,
+      "fontFamily": "Fa6Solid",
+      "identifier": "headSideCough"
+    },
+    "head-side-cough-slash": {
+      "codepoint": 57994,
+      "fontFamily": "Fa6Solid",
+      "identifier": "headSideCoughSlash"
+    },
+    "head-side-mask": {
+      "codepoint": 57995,
+      "fontFamily": "Fa6Solid",
+      "identifier": "headSideMask"
+    },
+    "head-side-virus": {
+      "codepoint": 57996,
+      "fontFamily": "Fa6Solid",
+      "identifier": "headSideVirus"
+    },
+    "heading": {
+      "codepoint": 57997,
+      "fontFamily": "Fa6Solid",
+      "identifier": "heading"
+    },
+    "headphones": {
+      "codepoint": 57998,
+      "fontFamily": "Fa6Solid",
+      "identifier": "headphones"
+    },
+    "headphones-simple": {
+      "codepoint": 57999,
+      "fontFamily": "Fa6Solid",
+      "identifier": "headphonesSimple"
+    },
+    "headset": {
+      "codepoint": 58000,
+      "fontFamily": "Fa6Solid",
+      "identifier": "headset"
+    },
+    "heart": {
+      "codepoint": 58001,
+      "fontFamily": "Fa6Solid",
+      "identifier": "heart"
+    },
+    "heart-circle-bolt": {
+      "codepoint": 58002,
+      "fontFamily": "Fa6Solid",
+      "identifier": "heartCircleBolt"
+    },
+    "heart-circle-check": {
+      "codepoint": 58003,
+      "fontFamily": "Fa6Solid",
+      "identifier": "heartCircleCheck"
+    },
+    "heart-circle-exclamation": {
+      "codepoint": 58004,
+      "fontFamily": "Fa6Solid",
+      "identifier": "heartCircleExclamation"
+    },
+    "heart-circle-minus": {
+      "codepoint": 58005,
+      "fontFamily": "Fa6Solid",
+      "identifier": "heartCircleMinus"
+    },
+    "heart-circle-plus": {
+      "codepoint": 58006,
+      "fontFamily": "Fa6Solid",
+      "identifier": "heartCirclePlus"
+    },
+    "heart-circle-xmark": {
+      "codepoint": 58007,
+      "fontFamily": "Fa6Solid",
+      "identifier": "heartCircleXmark"
+    },
+    "heart-crack": {
+      "codepoint": 58008,
+      "fontFamily": "Fa6Solid",
+      "identifier": "heartCrack"
+    },
+    "heart-pulse": {
+      "codepoint": 58009,
+      "fontFamily": "Fa6Solid",
+      "identifier": "heartPulse"
+    },
+    "helicopter": {
+      "codepoint": 58010,
+      "fontFamily": "Fa6Solid",
+      "identifier": "helicopter"
+    },
+    "helicopter-symbol": {
+      "codepoint": 58011,
+      "fontFamily": "Fa6Solid",
+      "identifier": "helicopterSymbol"
+    },
+    "helmet-safety": {
+      "codepoint": 58012,
+      "fontFamily": "Fa6Solid",
+      "identifier": "helmetSafety"
+    },
+    "helmet-un": {
+      "codepoint": 58013,
+      "fontFamily": "Fa6Solid",
+      "identifier": "helmetUn"
+    },
+    "hexagon-nodes": {
+      "codepoint": 58014,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hexagonNodes"
+    },
+    "hexagon-nodes-bolt": {
+      "codepoint": 58015,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hexagonNodesBolt"
+    },
+    "highlighter": {
+      "codepoint": 58016,
+      "fontFamily": "Fa6Solid",
+      "identifier": "highlighter"
+    },
+    "hill-avalanche": {
+      "codepoint": 58017,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hillAvalanche"
+    },
+    "hill-rockslide": {
+      "codepoint": 58018,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hillRockslide"
+    },
+    "hippo": {
+      "codepoint": 58019,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hippo"
+    },
+    "hockey-puck": {
+      "codepoint": 58020,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hockeyPuck"
+    },
+    "holly-berry": {
+      "codepoint": 58021,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hollyBerry"
+    },
+    "horse": {
+      "codepoint": 58022,
+      "fontFamily": "Fa6Solid",
+      "identifier": "horse"
+    },
+    "horse-head": {
+      "codepoint": 58023,
+      "fontFamily": "Fa6Solid",
+      "identifier": "horseHead"
+    },
+    "hospital": {
+      "codepoint": 58024,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hospital"
+    },
+    "hospital-user": {
+      "codepoint": 58025,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hospitalUser"
+    },
+    "hot-tub-person": {
+      "codepoint": 58026,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hotTubPerson"
+    },
+    "hotdog": {
+      "codepoint": 58027,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hotdog"
+    },
+    "hotel": {
+      "codepoint": 58028,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hotel"
+    },
+    "hourglass": {
+      "codepoint": 58029,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hourglass"
+    },
+    "hourglass-empty": {
+      "codepoint": 58030,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hourglassEmpty"
+    },
+    "hourglass-end": {
+      "codepoint": 58031,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hourglassEnd"
+    },
+    "hourglass-half": {
+      "codepoint": 58032,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hourglassHalf"
+    },
+    "hourglass-start": {
+      "codepoint": 58033,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hourglassStart"
+    },
+    "house": {
+      "codepoint": 58034,
+      "fontFamily": "Fa6Solid",
+      "identifier": "house"
+    },
+    "house-chimney": {
+      "codepoint": 58035,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseChimney"
+    },
+    "house-chimney-crack": {
+      "codepoint": 58036,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseChimneyCrack"
+    },
+    "house-chimney-medical": {
+      "codepoint": 58037,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseChimneyMedical"
+    },
+    "house-chimney-user": {
+      "codepoint": 58038,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseChimneyUser"
+    },
+    "house-chimney-window": {
+      "codepoint": 58039,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseChimneyWindow"
+    },
+    "house-circle-check": {
+      "codepoint": 58040,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseCircleCheck"
+    },
+    "house-circle-exclamation": {
+      "codepoint": 58041,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseCircleExclamation"
+    },
+    "house-circle-xmark": {
+      "codepoint": 58042,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseCircleXmark"
+    },
+    "house-crack": {
+      "codepoint": 58043,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseCrack"
+    },
+    "house-fire": {
+      "codepoint": 58044,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseFire"
+    },
+    "house-flag": {
+      "codepoint": 58045,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseFlag"
+    },
+    "house-flood-water": {
+      "codepoint": 58046,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseFloodWater"
+    },
+    "house-flood-water-circle-arrow-right": {
+      "codepoint": 58047,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseFloodWaterCircleArrowRight"
+    },
+    "house-laptop": {
+      "codepoint": 58048,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseLaptop"
+    },
+    "house-lock": {
+      "codepoint": 58049,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseLock"
+    },
+    "house-medical": {
+      "codepoint": 58050,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseMedical"
+    },
+    "house-medical-circle-check": {
+      "codepoint": 58051,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseMedicalCircleCheck"
+    },
+    "house-medical-circle-exclamation": {
+      "codepoint": 58052,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseMedicalCircleExclamation"
+    },
+    "house-medical-circle-xmark": {
+      "codepoint": 58053,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseMedicalCircleXmark"
+    },
+    "house-medical-flag": {
+      "codepoint": 58054,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseMedicalFlag"
+    },
+    "house-signal": {
+      "codepoint": 58055,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseSignal"
+    },
+    "house-tsunami": {
+      "codepoint": 58056,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseTsunami"
+    },
+    "house-user": {
+      "codepoint": 58057,
+      "fontFamily": "Fa6Solid",
+      "identifier": "houseUser"
+    },
+    "hryvnia-sign": {
+      "codepoint": 58058,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hryvniaSign"
+    },
+    "hurricane": {
+      "codepoint": 58059,
+      "fontFamily": "Fa6Solid",
+      "identifier": "hurricane"
+    },
+    "i": {
+      "codepoint": 58060,
+      "fontFamily": "Fa6Solid",
+      "identifier": "i"
+    },
+    "i-cursor": {
+      "codepoint": 58061,
+      "fontFamily": "Fa6Solid",
+      "identifier": "iCursor"
+    },
+    "ice-cream": {
+      "codepoint": 58062,
+      "fontFamily": "Fa6Solid",
+      "identifier": "iceCream"
+    },
+    "icicles": {
+      "codepoint": 58063,
+      "fontFamily": "Fa6Solid",
+      "identifier": "icicles"
+    },
+    "icons": {
+      "codepoint": 58064,
+      "fontFamily": "Fa6Solid",
+      "identifier": "icons"
+    },
+    "id-badge": {
+      "codepoint": 58065,
+      "fontFamily": "Fa6Solid",
+      "identifier": "idBadge"
+    },
+    "id-card": {
+      "codepoint": 58066,
+      "fontFamily": "Fa6Solid",
+      "identifier": "idCard"
+    },
+    "id-card-clip": {
+      "codepoint": 58067,
+      "fontFamily": "Fa6Solid",
+      "identifier": "idCardClip"
+    },
+    "igloo": {
+      "codepoint": 58068,
+      "fontFamily": "Fa6Solid",
+      "identifier": "igloo"
+    },
+    "image": {
+      "codepoint": 58069,
+      "fontFamily": "Fa6Solid",
+      "identifier": "image"
+    },
+    "image-portrait": {
+      "codepoint": 58070,
+      "fontFamily": "Fa6Solid",
+      "identifier": "imagePortrait"
+    },
+    "images": {
+      "codepoint": 58071,
+      "fontFamily": "Fa6Solid",
+      "identifier": "images"
+    },
+    "inbox": {
+      "codepoint": 58072,
+      "fontFamily": "Fa6Solid",
+      "identifier": "inbox"
+    },
+    "indent": {
+      "codepoint": 58073,
+      "fontFamily": "Fa6Solid",
+      "identifier": "indent"
+    },
+    "indian-rupee-sign": {
+      "codepoint": 58074,
+      "fontFamily": "Fa6Solid",
+      "identifier": "indianRupeeSign"
+    },
+    "industry": {
+      "codepoint": 58075,
+      "fontFamily": "Fa6Solid",
+      "identifier": "industry"
+    },
+    "infinity": {
+      "codepoint": 58076,
+      "fontFamily": "Fa6Solid",
+      "identifier": "infinity"
+    },
+    "info": {
+      "codepoint": 58077,
+      "fontFamily": "Fa6Solid",
+      "identifier": "info"
+    },
+    "italic": {
+      "codepoint": 58078,
+      "fontFamily": "Fa6Solid",
+      "identifier": "italic"
+    },
+    "j": {
+      "codepoint": 58079,
+      "fontFamily": "Fa6Solid",
+      "identifier": "j"
+    },
+    "jar": {
+      "codepoint": 58080,
+      "fontFamily": "Fa6Solid",
+      "identifier": "jar"
+    },
+    "jar-wheat": {
+      "codepoint": 58081,
+      "fontFamily": "Fa6Solid",
+      "identifier": "jarWheat"
+    },
+    "jedi": {
+      "codepoint": 58082,
+      "fontFamily": "Fa6Solid",
+      "identifier": "jedi"
+    },
+    "jet-fighter": {
+      "codepoint": 58083,
+      "fontFamily": "Fa6Solid",
+      "identifier": "jetFighter"
+    },
+    "jet-fighter-up": {
+      "codepoint": 58084,
+      "fontFamily": "Fa6Solid",
+      "identifier": "jetFighterUp"
+    },
+    "joint": {
+      "codepoint": 58085,
+      "fontFamily": "Fa6Solid",
+      "identifier": "joint"
+    },
+    "jug-detergent": {
+      "codepoint": 58086,
+      "fontFamily": "Fa6Solid",
+      "identifier": "jugDetergent"
+    },
+    "k": {
+      "codepoint": 58087,
+      "fontFamily": "Fa6Solid",
+      "identifier": "k"
+    },
+    "kaaba": {
+      "codepoint": 58088,
+      "fontFamily": "Fa6Solid",
+      "identifier": "kaaba"
+    },
+    "key": {
+      "codepoint": 58089,
+      "fontFamily": "Fa6Solid",
+      "identifier": "key"
+    },
+    "keyboard": {
+      "codepoint": 58090,
+      "fontFamily": "Fa6Solid",
+      "identifier": "keyboard"
+    },
+    "khanda": {
+      "codepoint": 58091,
+      "fontFamily": "Fa6Solid",
+      "identifier": "khanda"
+    },
+    "kip-sign": {
+      "codepoint": 58092,
+      "fontFamily": "Fa6Solid",
+      "identifier": "kipSign"
+    },
+    "kit-medical": {
+      "codepoint": 58093,
+      "fontFamily": "Fa6Solid",
+      "identifier": "kitMedical"
+    },
+    "kitchen-set": {
+      "codepoint": 58094,
+      "fontFamily": "Fa6Solid",
+      "identifier": "kitchenSet"
+    },
+    "kiwi-bird": {
+      "codepoint": 58095,
+      "fontFamily": "Fa6Solid",
+      "identifier": "kiwiBird"
+    },
+    "l": {
+      "codepoint": 58096,
+      "fontFamily": "Fa6Solid",
+      "identifier": "l"
+    },
+    "land-mine-on": {
+      "codepoint": 58097,
+      "fontFamily": "Fa6Solid",
+      "identifier": "landMineOn"
+    },
+    "landmark": {
+      "codepoint": 58098,
+      "fontFamily": "Fa6Solid",
+      "identifier": "landmark"
+    },
+    "landmark-dome": {
+      "codepoint": 58099,
+      "fontFamily": "Fa6Solid",
+      "identifier": "landmarkDome"
+    },
+    "landmark-flag": {
+      "codepoint": 58100,
+      "fontFamily": "Fa6Solid",
+      "identifier": "landmarkFlag"
+    },
+    "language": {
+      "codepoint": 58101,
+      "fontFamily": "Fa6Solid",
+      "identifier": "language"
+    },
+    "laptop": {
+      "codepoint": 58102,
+      "fontFamily": "Fa6Solid",
+      "identifier": "laptop"
+    },
+    "laptop-code": {
+      "codepoint": 58103,
+      "fontFamily": "Fa6Solid",
+      "identifier": "laptopCode"
+    },
+    "laptop-file": {
+      "codepoint": 58104,
+      "fontFamily": "Fa6Solid",
+      "identifier": "laptopFile"
+    },
+    "laptop-medical": {
+      "codepoint": 58105,
+      "fontFamily": "Fa6Solid",
+      "identifier": "laptopMedical"
+    },
+    "lari-sign": {
+      "codepoint": 58106,
+      "fontFamily": "Fa6Solid",
+      "identifier": "lariSign"
+    },
+    "layer-group": {
+      "codepoint": 58107,
+      "fontFamily": "Fa6Solid",
+      "identifier": "layerGroup"
+    },
+    "leaf": {
+      "codepoint": 58108,
+      "fontFamily": "Fa6Solid",
+      "identifier": "leaf"
+    },
+    "left-long": {
+      "codepoint": 58109,
+      "fontFamily": "Fa6Solid",
+      "identifier": "leftLong"
+    },
+    "left-right": {
+      "codepoint": 58110,
+      "fontFamily": "Fa6Solid",
+      "identifier": "leftRight"
+    },
+    "lemon": {
+      "codepoint": 58111,
+      "fontFamily": "Fa6Solid",
+      "identifier": "lemon"
+    },
+    "less-than": {
+      "codepoint": 58112,
+      "fontFamily": "Fa6Solid",
+      "identifier": "lessThan"
+    },
+    "less-than-equal": {
+      "codepoint": 58113,
+      "fontFamily": "Fa6Solid",
+      "identifier": "lessThanEqual"
+    },
+    "life-ring": {
+      "codepoint": 58114,
+      "fontFamily": "Fa6Solid",
+      "identifier": "lifeRing"
+    },
+    "lightbulb": {
+      "codepoint": 58115,
+      "fontFamily": "Fa6Solid",
+      "identifier": "lightbulb"
+    },
+    "lines-leaning": {
+      "codepoint": 58116,
+      "fontFamily": "Fa6Solid",
+      "identifier": "linesLeaning"
+    },
+    "link": {
+      "codepoint": 58117,
+      "fontFamily": "Fa6Solid",
+      "identifier": "link"
+    },
+    "link-slash": {
+      "codepoint": 58118,
+      "fontFamily": "Fa6Solid",
+      "identifier": "linkSlash"
+    },
+    "lira-sign": {
+      "codepoint": 58119,
+      "fontFamily": "Fa6Solid",
+      "identifier": "liraSign"
+    },
+    "list": {
+      "codepoint": 58120,
+      "fontFamily": "Fa6Solid",
+      "identifier": "list"
+    },
+    "list-check": {
+      "codepoint": 58121,
+      "fontFamily": "Fa6Solid",
+      "identifier": "listCheck"
+    },
+    "list-ol": {
+      "codepoint": 58122,
+      "fontFamily": "Fa6Solid",
+      "identifier": "listOl"
+    },
+    "list-ul": {
+      "codepoint": 58123,
+      "fontFamily": "Fa6Solid",
+      "identifier": "listUl"
+    },
+    "litecoin-sign": {
+      "codepoint": 58124,
+      "fontFamily": "Fa6Solid",
+      "identifier": "litecoinSign"
+    },
+    "location-arrow": {
+      "codepoint": 58125,
+      "fontFamily": "Fa6Solid",
+      "identifier": "locationArrow"
+    },
+    "location-crosshairs": {
+      "codepoint": 58126,
+      "fontFamily": "Fa6Solid",
+      "identifier": "locationCrosshairs"
+    },
+    "location-dot": {
+      "codepoint": 58127,
+      "fontFamily": "Fa6Solid",
+      "identifier": "locationDot"
+    },
+    "location-pin": {
+      "codepoint": 58128,
+      "fontFamily": "Fa6Solid",
+      "identifier": "locationPin"
+    },
+    "location-pin-lock": {
+      "codepoint": 58129,
+      "fontFamily": "Fa6Solid",
+      "identifier": "locationPinLock"
+    },
+    "lock": {
+      "codepoint": 58130,
+      "fontFamily": "Fa6Solid",
+      "identifier": "lock"
+    },
+    "lock-open": {
+      "codepoint": 58131,
+      "fontFamily": "Fa6Solid",
+      "identifier": "lockOpen"
+    },
+    "locust": {
+      "codepoint": 58132,
+      "fontFamily": "Fa6Solid",
+      "identifier": "locust"
+    },
+    "lungs": {
+      "codepoint": 58133,
+      "fontFamily": "Fa6Solid",
+      "identifier": "lungs"
+    },
+    "lungs-virus": {
+      "codepoint": 58134,
+      "fontFamily": "Fa6Solid",
+      "identifier": "lungsVirus"
+    },
+    "m": {
+      "codepoint": 58135,
+      "fontFamily": "Fa6Solid",
+      "identifier": "m"
+    },
+    "magnet": {
+      "codepoint": 58136,
+      "fontFamily": "Fa6Solid",
+      "identifier": "magnet"
+    },
+    "magnifying-glass": {
+      "codepoint": 58137,
+      "fontFamily": "Fa6Solid",
+      "identifier": "magnifyingGlass"
+    },
+    "magnifying-glass-arrow-right": {
+      "codepoint": 58138,
+      "fontFamily": "Fa6Solid",
+      "identifier": "magnifyingGlassArrowRight"
+    },
+    "magnifying-glass-chart": {
+      "codepoint": 58139,
+      "fontFamily": "Fa6Solid",
+      "identifier": "magnifyingGlassChart"
+    },
+    "magnifying-glass-dollar": {
+      "codepoint": 58140,
+      "fontFamily": "Fa6Solid",
+      "identifier": "magnifyingGlassDollar"
+    },
+    "magnifying-glass-location": {
+      "codepoint": 58141,
+      "fontFamily": "Fa6Solid",
+      "identifier": "magnifyingGlassLocation"
+    },
+    "magnifying-glass-minus": {
+      "codepoint": 58142,
+      "fontFamily": "Fa6Solid",
+      "identifier": "magnifyingGlassMinus"
+    },
+    "magnifying-glass-plus": {
+      "codepoint": 58143,
+      "fontFamily": "Fa6Solid",
+      "identifier": "magnifyingGlassPlus"
+    },
+    "manat-sign": {
+      "codepoint": 58144,
+      "fontFamily": "Fa6Solid",
+      "identifier": "manatSign"
+    },
+    "map": {
+      "codepoint": 58145,
+      "fontFamily": "Fa6Solid",
+      "identifier": "map"
+    },
+    "map-location": {
+      "codepoint": 58146,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mapLocation"
+    },
+    "map-location-dot": {
+      "codepoint": 58147,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mapLocationDot"
+    },
+    "map-pin": {
+      "codepoint": 58148,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mapPin"
+    },
+    "marker": {
+      "codepoint": 58149,
+      "fontFamily": "Fa6Solid",
+      "identifier": "marker"
+    },
+    "mars": {
+      "codepoint": 58150,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mars"
+    },
+    "mars-and-venus": {
+      "codepoint": 58151,
+      "fontFamily": "Fa6Solid",
+      "identifier": "marsAndVenus"
+    },
+    "mars-and-venus-burst": {
+      "codepoint": 58152,
+      "fontFamily": "Fa6Solid",
+      "identifier": "marsAndVenusBurst"
+    },
+    "mars-double": {
+      "codepoint": 58153,
+      "fontFamily": "Fa6Solid",
+      "identifier": "marsDouble"
+    },
+    "mars-stroke": {
+      "codepoint": 58154,
+      "fontFamily": "Fa6Solid",
+      "identifier": "marsStroke"
+    },
+    "mars-stroke-right": {
+      "codepoint": 58155,
+      "fontFamily": "Fa6Solid",
+      "identifier": "marsStrokeRight"
+    },
+    "mars-stroke-up": {
+      "codepoint": 58156,
+      "fontFamily": "Fa6Solid",
+      "identifier": "marsStrokeUp"
+    },
+    "martini-glass": {
+      "codepoint": 58157,
+      "fontFamily": "Fa6Solid",
+      "identifier": "martiniGlass"
+    },
+    "martini-glass-citrus": {
+      "codepoint": 58158,
+      "fontFamily": "Fa6Solid",
+      "identifier": "martiniGlassCitrus"
+    },
+    "martini-glass-empty": {
+      "codepoint": 58159,
+      "fontFamily": "Fa6Solid",
+      "identifier": "martiniGlassEmpty"
+    },
+    "mask": {
+      "codepoint": 58160,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mask"
+    },
+    "mask-face": {
+      "codepoint": 58161,
+      "fontFamily": "Fa6Solid",
+      "identifier": "maskFace"
+    },
+    "mask-ventilator": {
+      "codepoint": 58162,
+      "fontFamily": "Fa6Solid",
+      "identifier": "maskVentilator"
+    },
+    "masks-theater": {
+      "codepoint": 58163,
+      "fontFamily": "Fa6Solid",
+      "identifier": "masksTheater"
+    },
+    "mattress-pillow": {
+      "codepoint": 58164,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mattressPillow"
+    },
+    "maximize": {
+      "codepoint": 58165,
+      "fontFamily": "Fa6Solid",
+      "identifier": "maximize"
+    },
+    "medal": {
+      "codepoint": 58166,
+      "fontFamily": "Fa6Solid",
+      "identifier": "medal"
+    },
+    "memory": {
+      "codepoint": 58167,
+      "fontFamily": "Fa6Solid",
+      "identifier": "memory"
+    },
+    "menorah": {
+      "codepoint": 58168,
+      "fontFamily": "Fa6Solid",
+      "identifier": "menorah"
+    },
+    "mercury": {
+      "codepoint": 58169,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mercury"
+    },
+    "message": {
+      "codepoint": 58170,
+      "fontFamily": "Fa6Solid",
+      "identifier": "message"
+    },
+    "meteor": {
+      "codepoint": 58171,
+      "fontFamily": "Fa6Solid",
+      "identifier": "meteor"
+    },
+    "microchip": {
+      "codepoint": 58172,
+      "fontFamily": "Fa6Solid",
+      "identifier": "microchip"
+    },
+    "microphone": {
+      "codepoint": 58173,
+      "fontFamily": "Fa6Solid",
+      "identifier": "microphone"
+    },
+    "microphone-lines": {
+      "codepoint": 58174,
+      "fontFamily": "Fa6Solid",
+      "identifier": "microphoneLines"
+    },
+    "microphone-lines-slash": {
+      "codepoint": 58175,
+      "fontFamily": "Fa6Solid",
+      "identifier": "microphoneLinesSlash"
+    },
+    "microphone-slash": {
+      "codepoint": 58176,
+      "fontFamily": "Fa6Solid",
+      "identifier": "microphoneSlash"
+    },
+    "microscope": {
+      "codepoint": 58177,
+      "fontFamily": "Fa6Solid",
+      "identifier": "microscope"
+    },
+    "mill-sign": {
+      "codepoint": 58178,
+      "fontFamily": "Fa6Solid",
+      "identifier": "millSign"
+    },
+    "minimize": {
+      "codepoint": 58179,
+      "fontFamily": "Fa6Solid",
+      "identifier": "minimize"
+    },
+    "minus": {
+      "codepoint": 58180,
+      "fontFamily": "Fa6Solid",
+      "identifier": "minus"
+    },
+    "mitten": {
+      "codepoint": 58181,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mitten"
+    },
+    "mobile": {
+      "codepoint": 58182,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mobile"
+    },
+    "mobile-button": {
+      "codepoint": 58183,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mobileButton"
+    },
+    "mobile-retro": {
+      "codepoint": 58184,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mobileRetro"
+    },
+    "mobile-screen": {
+      "codepoint": 58185,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mobileScreen"
+    },
+    "mobile-screen-button": {
+      "codepoint": 58186,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mobileScreenButton"
+    },
+    "money-bill": {
+      "codepoint": 58187,
+      "fontFamily": "Fa6Solid",
+      "identifier": "moneyBill"
+    },
+    "money-bill-1": {
+      "codepoint": 58188,
+      "fontFamily": "Fa6Solid",
+      "identifier": "moneyBill1"
+    },
+    "money-bill-1-wave": {
+      "codepoint": 58189,
+      "fontFamily": "Fa6Solid",
+      "identifier": "moneyBill1Wave"
+    },
+    "money-bill-transfer": {
+      "codepoint": 58190,
+      "fontFamily": "Fa6Solid",
+      "identifier": "moneyBillTransfer"
+    },
+    "money-bill-trend-up": {
+      "codepoint": 58191,
+      "fontFamily": "Fa6Solid",
+      "identifier": "moneyBillTrendUp"
+    },
+    "money-bill-wave": {
+      "codepoint": 58192,
+      "fontFamily": "Fa6Solid",
+      "identifier": "moneyBillWave"
+    },
+    "money-bill-wheat": {
+      "codepoint": 58193,
+      "fontFamily": "Fa6Solid",
+      "identifier": "moneyBillWheat"
+    },
+    "money-bills": {
+      "codepoint": 58194,
+      "fontFamily": "Fa6Solid",
+      "identifier": "moneyBills"
+    },
+    "money-check": {
+      "codepoint": 58195,
+      "fontFamily": "Fa6Solid",
+      "identifier": "moneyCheck"
+    },
+    "money-check-dollar": {
+      "codepoint": 58196,
+      "fontFamily": "Fa6Solid",
+      "identifier": "moneyCheckDollar"
+    },
+    "monument": {
+      "codepoint": 58197,
+      "fontFamily": "Fa6Solid",
+      "identifier": "monument"
+    },
+    "moon": {
+      "codepoint": 58198,
+      "fontFamily": "Fa6Solid",
+      "identifier": "moon"
+    },
+    "mortar-pestle": {
+      "codepoint": 58199,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mortarPestle"
+    },
+    "mosque": {
+      "codepoint": 58200,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mosque"
+    },
+    "mosquito": {
+      "codepoint": 58201,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mosquito"
+    },
+    "mosquito-net": {
+      "codepoint": 58202,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mosquitoNet"
+    },
+    "motorcycle": {
+      "codepoint": 58203,
+      "fontFamily": "Fa6Solid",
+      "identifier": "motorcycle"
+    },
+    "mound": {
+      "codepoint": 58204,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mound"
+    },
+    "mountain": {
+      "codepoint": 58205,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mountain"
+    },
+    "mountain-city": {
+      "codepoint": 58206,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mountainCity"
+    },
+    "mountain-sun": {
+      "codepoint": 58207,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mountainSun"
+    },
+    "mug-hot": {
+      "codepoint": 58208,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mugHot"
+    },
+    "mug-saucer": {
+      "codepoint": 58209,
+      "fontFamily": "Fa6Solid",
+      "identifier": "mugSaucer"
+    },
+    "music": {
+      "codepoint": 58210,
+      "fontFamily": "Fa6Solid",
+      "identifier": "music"
+    },
+    "n": {
+      "codepoint": 58211,
+      "fontFamily": "Fa6Solid",
+      "identifier": "n"
+    },
+    "naira-sign": {
+      "codepoint": 58212,
+      "fontFamily": "Fa6Solid",
+      "identifier": "nairaSign"
+    },
+    "network-wired": {
+      "codepoint": 58213,
+      "fontFamily": "Fa6Solid",
+      "identifier": "networkWired"
+    },
+    "neuter": {
+      "codepoint": 58214,
+      "fontFamily": "Fa6Solid",
+      "identifier": "neuter"
+    },
+    "newspaper": {
+      "codepoint": 58215,
+      "fontFamily": "Fa6Solid",
+      "identifier": "newspaper"
+    },
+    "not-equal": {
+      "codepoint": 58216,
+      "fontFamily": "Fa6Solid",
+      "identifier": "notEqual"
+    },
+    "notdef": {
+      "codepoint": 58217,
+      "fontFamily": "Fa6Solid",
+      "identifier": "notdef"
+    },
+    "note-sticky": {
+      "codepoint": 58218,
+      "fontFamily": "Fa6Solid",
+      "identifier": "noteSticky"
+    },
+    "notes-medical": {
+      "codepoint": 58219,
+      "fontFamily": "Fa6Solid",
+      "identifier": "notesMedical"
+    },
+    "o": {
+      "codepoint": 58220,
+      "fontFamily": "Fa6Solid",
+      "identifier": "o"
+    },
+    "object-group": {
+      "codepoint": 58221,
+      "fontFamily": "Fa6Solid",
+      "identifier": "objectGroup"
+    },
+    "object-ungroup": {
+      "codepoint": 58222,
+      "fontFamily": "Fa6Solid",
+      "identifier": "objectUngroup"
+    },
+    "oil-can": {
+      "codepoint": 58223,
+      "fontFamily": "Fa6Solid",
+      "identifier": "oilCan"
+    },
+    "oil-well": {
+      "codepoint": 58224,
+      "fontFamily": "Fa6Solid",
+      "identifier": "oilWell"
+    },
+    "om": {
+      "codepoint": 58225,
+      "fontFamily": "Fa6Solid",
+      "identifier": "om"
+    },
+    "otter": {
+      "codepoint": 58226,
+      "fontFamily": "Fa6Solid",
+      "identifier": "otter"
+    },
+    "outdent": {
+      "codepoint": 58227,
+      "fontFamily": "Fa6Solid",
+      "identifier": "outdent"
+    },
+    "p": {
+      "codepoint": 58228,
+      "fontFamily": "Fa6Solid",
+      "identifier": "p"
+    },
+    "pager": {
+      "codepoint": 58229,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pager"
+    },
+    "paint-roller": {
+      "codepoint": 58230,
+      "fontFamily": "Fa6Solid",
+      "identifier": "paintRoller"
+    },
+    "paintbrush": {
+      "codepoint": 58231,
+      "fontFamily": "Fa6Solid",
+      "identifier": "paintbrush"
+    },
+    "palette": {
+      "codepoint": 58232,
+      "fontFamily": "Fa6Solid",
+      "identifier": "palette"
+    },
+    "pallet": {
+      "codepoint": 58233,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pallet"
+    },
+    "panorama": {
+      "codepoint": 58234,
+      "fontFamily": "Fa6Solid",
+      "identifier": "panorama"
+    },
+    "paper-plane": {
+      "codepoint": 58235,
+      "fontFamily": "Fa6Solid",
+      "identifier": "paperPlane"
+    },
+    "paperclip": {
+      "codepoint": 58236,
+      "fontFamily": "Fa6Solid",
+      "identifier": "paperclip"
+    },
+    "parachute-box": {
+      "codepoint": 58237,
+      "fontFamily": "Fa6Solid",
+      "identifier": "parachuteBox"
+    },
+    "paragraph": {
+      "codepoint": 58238,
+      "fontFamily": "Fa6Solid",
+      "identifier": "paragraph"
+    },
+    "passport": {
+      "codepoint": 58239,
+      "fontFamily": "Fa6Solid",
+      "identifier": "passport"
+    },
+    "paste": {
+      "codepoint": 58240,
+      "fontFamily": "Fa6Solid",
+      "identifier": "paste"
+    },
+    "pause": {
+      "codepoint": 58241,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pause"
+    },
+    "paw": {
+      "codepoint": 58242,
+      "fontFamily": "Fa6Solid",
+      "identifier": "paw"
+    },
+    "peace": {
+      "codepoint": 58243,
+      "fontFamily": "Fa6Solid",
+      "identifier": "peace"
+    },
+    "pen": {
+      "codepoint": 58244,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pen"
+    },
+    "pen-clip": {
+      "codepoint": 58245,
+      "fontFamily": "Fa6Solid",
+      "identifier": "penClip"
+    },
+    "pen-fancy": {
+      "codepoint": 58246,
+      "fontFamily": "Fa6Solid",
+      "identifier": "penFancy"
+    },
+    "pen-nib": {
+      "codepoint": 58247,
+      "fontFamily": "Fa6Solid",
+      "identifier": "penNib"
+    },
+    "pen-ruler": {
+      "codepoint": 58248,
+      "fontFamily": "Fa6Solid",
+      "identifier": "penRuler"
+    },
+    "pen-to-square": {
+      "codepoint": 58249,
+      "fontFamily": "Fa6Solid",
+      "identifier": "penToSquare"
+    },
+    "pencil": {
+      "codepoint": 58250,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pencil"
+    },
+    "people-arrows": {
+      "codepoint": 58251,
+      "fontFamily": "Fa6Solid",
+      "identifier": "peopleArrows"
+    },
+    "people-arrows-left-right": {
+      "codepoint": 58252,
+      "fontFamily": "Fa6Solid",
+      "identifier": "peopleArrowsLeftRight"
+    },
+    "people-carry-box": {
+      "codepoint": 58253,
+      "fontFamily": "Fa6Solid",
+      "identifier": "peopleCarryBox"
+    },
+    "people-group": {
+      "codepoint": 58254,
+      "fontFamily": "Fa6Solid",
+      "identifier": "peopleGroup"
+    },
+    "people-line": {
+      "codepoint": 58255,
+      "fontFamily": "Fa6Solid",
+      "identifier": "peopleLine"
+    },
+    "people-pulling": {
+      "codepoint": 58256,
+      "fontFamily": "Fa6Solid",
+      "identifier": "peoplePulling"
+    },
+    "people-robbery": {
+      "codepoint": 58257,
+      "fontFamily": "Fa6Solid",
+      "identifier": "peopleRobbery"
+    },
+    "people-roof": {
+      "codepoint": 58258,
+      "fontFamily": "Fa6Solid",
+      "identifier": "peopleRoof"
+    },
+    "pepper-hot": {
+      "codepoint": 58259,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pepperHot"
+    },
+    "percent": {
+      "codepoint": 58260,
+      "fontFamily": "Fa6Solid",
+      "identifier": "percent"
+    },
+    "person": {
+      "codepoint": 58261,
+      "fontFamily": "Fa6Solid",
+      "identifier": "person"
+    },
+    "person-arrow-down-to-line": {
+      "codepoint": 58262,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personArrowDownToLine"
+    },
+    "person-arrow-up-from-line": {
+      "codepoint": 58263,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personArrowUpFromLine"
+    },
+    "person-biking": {
+      "codepoint": 58264,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personBiking"
+    },
+    "person-booth": {
+      "codepoint": 58265,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personBooth"
+    },
+    "person-breastfeeding": {
+      "codepoint": 58266,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personBreastfeeding"
+    },
+    "person-burst": {
+      "codepoint": 58267,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personBurst"
+    },
+    "person-cane": {
+      "codepoint": 58268,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personCane"
+    },
+    "person-chalkboard": {
+      "codepoint": 58269,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personChalkboard"
+    },
+    "person-circle-check": {
+      "codepoint": 58270,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personCircleCheck"
+    },
+    "person-circle-exclamation": {
+      "codepoint": 58271,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personCircleExclamation"
+    },
+    "person-circle-minus": {
+      "codepoint": 58272,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personCircleMinus"
+    },
+    "person-circle-plus": {
+      "codepoint": 58273,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personCirclePlus"
+    },
+    "person-circle-question": {
+      "codepoint": 58274,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personCircleQuestion"
+    },
+    "person-circle-xmark": {
+      "codepoint": 58275,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personCircleXmark"
+    },
+    "person-digging": {
+      "codepoint": 58276,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personDigging"
+    },
+    "person-dots-from-line": {
+      "codepoint": 58277,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personDotsFromLine"
+    },
+    "person-dress": {
+      "codepoint": 58278,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personDress"
+    },
+    "person-dress-burst": {
+      "codepoint": 58279,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personDressBurst"
+    },
+    "person-drowning": {
+      "codepoint": 58280,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personDrowning"
+    },
+    "person-falling": {
+      "codepoint": 58281,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personFalling"
+    },
+    "person-falling-burst": {
+      "codepoint": 58282,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personFallingBurst"
+    },
+    "person-half-dress": {
+      "codepoint": 58283,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personHalfDress"
+    },
+    "person-harassing": {
+      "codepoint": 58284,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personHarassing"
+    },
+    "person-hiking": {
+      "codepoint": 58285,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personHiking"
+    },
+    "person-military-pointing": {
+      "codepoint": 58286,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personMilitaryPointing"
+    },
+    "person-military-rifle": {
+      "codepoint": 58287,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personMilitaryRifle"
+    },
+    "person-military-to-person": {
+      "codepoint": 58288,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personMilitaryToPerson"
+    },
+    "person-praying": {
+      "codepoint": 58289,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personPraying"
+    },
+    "person-pregnant": {
+      "codepoint": 58290,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personPregnant"
+    },
+    "person-rays": {
+      "codepoint": 58291,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personRays"
+    },
+    "person-rifle": {
+      "codepoint": 58292,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personRifle"
+    },
+    "person-running": {
+      "codepoint": 58293,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personRunning"
+    },
+    "person-shelter": {
+      "codepoint": 58294,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personShelter"
+    },
+    "person-skating": {
+      "codepoint": 58295,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personSkating"
+    },
+    "person-skiing": {
+      "codepoint": 58296,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personSkiing"
+    },
+    "person-skiing-nordic": {
+      "codepoint": 58297,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personSkiingNordic"
+    },
+    "person-snowboarding": {
+      "codepoint": 58298,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personSnowboarding"
+    },
+    "person-swimming": {
+      "codepoint": 58299,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personSwimming"
+    },
+    "person-through-window": {
+      "codepoint": 58300,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personThroughWindow"
+    },
+    "person-walking": {
+      "codepoint": 58301,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personWalking"
+    },
+    "person-walking-arrow-loop-left": {
+      "codepoint": 58302,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personWalkingArrowLoopLeft"
+    },
+    "person-walking-arrow-right": {
+      "codepoint": 58303,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personWalkingArrowRight"
+    },
+    "person-walking-dashed-line-arrow-right": {
+      "codepoint": 58304,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personWalkingDashedLineArrowRight"
+    },
+    "person-walking-luggage": {
+      "codepoint": 58305,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personWalkingLuggage"
+    },
+    "person-walking-with-cane": {
+      "codepoint": 58306,
+      "fontFamily": "Fa6Solid",
+      "identifier": "personWalkingWithCane"
+    },
+    "peseta-sign": {
+      "codepoint": 58307,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pesetaSign"
+    },
+    "peso-sign": {
+      "codepoint": 58308,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pesoSign"
+    },
+    "phone": {
+      "codepoint": 58309,
+      "fontFamily": "Fa6Solid",
+      "identifier": "phone"
+    },
+    "phone-flip": {
+      "codepoint": 58310,
+      "fontFamily": "Fa6Solid",
+      "identifier": "phoneFlip"
+    },
+    "phone-slash": {
+      "codepoint": 58311,
+      "fontFamily": "Fa6Solid",
+      "identifier": "phoneSlash"
+    },
+    "phone-volume": {
+      "codepoint": 58312,
+      "fontFamily": "Fa6Solid",
+      "identifier": "phoneVolume"
+    },
+    "photo-film": {
+      "codepoint": 58313,
+      "fontFamily": "Fa6Solid",
+      "identifier": "photoFilm"
+    },
+    "piggy-bank": {
+      "codepoint": 58314,
+      "fontFamily": "Fa6Solid",
+      "identifier": "piggyBank"
+    },
+    "pills": {
+      "codepoint": 58315,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pills"
+    },
+    "pizza-slice": {
+      "codepoint": 58316,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pizzaSlice"
+    },
+    "place-of-worship": {
+      "codepoint": 58317,
+      "fontFamily": "Fa6Solid",
+      "identifier": "placeOfWorship"
+    },
+    "plane": {
+      "codepoint": 58318,
+      "fontFamily": "Fa6Solid",
+      "identifier": "plane"
+    },
+    "plane-arrival": {
+      "codepoint": 58319,
+      "fontFamily": "Fa6Solid",
+      "identifier": "planeArrival"
+    },
+    "plane-circle-check": {
+      "codepoint": 58320,
+      "fontFamily": "Fa6Solid",
+      "identifier": "planeCircleCheck"
+    },
+    "plane-circle-exclamation": {
+      "codepoint": 58321,
+      "fontFamily": "Fa6Solid",
+      "identifier": "planeCircleExclamation"
+    },
+    "plane-circle-xmark": {
+      "codepoint": 58322,
+      "fontFamily": "Fa6Solid",
+      "identifier": "planeCircleXmark"
+    },
+    "plane-departure": {
+      "codepoint": 58323,
+      "fontFamily": "Fa6Solid",
+      "identifier": "planeDeparture"
+    },
+    "plane-lock": {
+      "codepoint": 58324,
+      "fontFamily": "Fa6Solid",
+      "identifier": "planeLock"
+    },
+    "plane-slash": {
+      "codepoint": 58325,
+      "fontFamily": "Fa6Solid",
+      "identifier": "planeSlash"
+    },
+    "plane-up": {
+      "codepoint": 58326,
+      "fontFamily": "Fa6Solid",
+      "identifier": "planeUp"
+    },
+    "plant-wilt": {
+      "codepoint": 58327,
+      "fontFamily": "Fa6Solid",
+      "identifier": "plantWilt"
+    },
+    "plate-wheat": {
+      "codepoint": 58328,
+      "fontFamily": "Fa6Solid",
+      "identifier": "plateWheat"
+    },
+    "play": {
+      "codepoint": 58329,
+      "fontFamily": "Fa6Solid",
+      "identifier": "play"
+    },
+    "plug": {
+      "codepoint": 58330,
+      "fontFamily": "Fa6Solid",
+      "identifier": "plug"
+    },
+    "plug-circle-bolt": {
+      "codepoint": 58331,
+      "fontFamily": "Fa6Solid",
+      "identifier": "plugCircleBolt"
+    },
+    "plug-circle-check": {
+      "codepoint": 58332,
+      "fontFamily": "Fa6Solid",
+      "identifier": "plugCircleCheck"
+    },
+    "plug-circle-exclamation": {
+      "codepoint": 58333,
+      "fontFamily": "Fa6Solid",
+      "identifier": "plugCircleExclamation"
+    },
+    "plug-circle-minus": {
+      "codepoint": 58334,
+      "fontFamily": "Fa6Solid",
+      "identifier": "plugCircleMinus"
+    },
+    "plug-circle-plus": {
+      "codepoint": 58335,
+      "fontFamily": "Fa6Solid",
+      "identifier": "plugCirclePlus"
+    },
+    "plug-circle-xmark": {
+      "codepoint": 58336,
+      "fontFamily": "Fa6Solid",
+      "identifier": "plugCircleXmark"
+    },
+    "plus": {
+      "codepoint": 58337,
+      "fontFamily": "Fa6Solid",
+      "identifier": "plus"
+    },
+    "plus-minus": {
+      "codepoint": 58338,
+      "fontFamily": "Fa6Solid",
+      "identifier": "plusMinus"
+    },
+    "podcast": {
+      "codepoint": 58339,
+      "fontFamily": "Fa6Solid",
+      "identifier": "podcast"
+    },
+    "poo": {
+      "codepoint": 58340,
+      "fontFamily": "Fa6Solid",
+      "identifier": "poo"
+    },
+    "poo-storm": {
+      "codepoint": 58341,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pooStorm"
+    },
+    "poop": {
+      "codepoint": 58342,
+      "fontFamily": "Fa6Solid",
+      "identifier": "poop"
+    },
+    "power-off": {
+      "codepoint": 58343,
+      "fontFamily": "Fa6Solid",
+      "identifier": "powerOff"
+    },
+    "prescription": {
+      "codepoint": 58344,
+      "fontFamily": "Fa6Solid",
+      "identifier": "prescription"
+    },
+    "prescription-bottle": {
+      "codepoint": 58345,
+      "fontFamily": "Fa6Solid",
+      "identifier": "prescriptionBottle"
+    },
+    "prescription-bottle-medical": {
+      "codepoint": 58346,
+      "fontFamily": "Fa6Solid",
+      "identifier": "prescriptionBottleMedical"
+    },
+    "print": {
+      "codepoint": 58347,
+      "fontFamily": "Fa6Solid",
+      "identifier": "print"
+    },
+    "pump-medical": {
+      "codepoint": 58348,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pumpMedical"
+    },
+    "pump-soap": {
+      "codepoint": 58349,
+      "fontFamily": "Fa6Solid",
+      "identifier": "pumpSoap"
+    },
+    "puzzle-piece": {
+      "codepoint": 58350,
+      "fontFamily": "Fa6Solid",
+      "identifier": "puzzlePiece"
+    },
+    "q": {
+      "codepoint": 58351,
+      "fontFamily": "Fa6Solid",
+      "identifier": "q"
+    },
+    "qrcode": {
+      "codepoint": 58352,
+      "fontFamily": "Fa6Solid",
+      "identifier": "qrcode"
+    },
+    "question": {
+      "codepoint": 58353,
+      "fontFamily": "Fa6Solid",
+      "identifier": "question"
+    },
+    "quote-left": {
+      "codepoint": 58354,
+      "fontFamily": "Fa6Solid",
+      "identifier": "quoteLeft"
+    },
+    "quote-right": {
+      "codepoint": 58355,
+      "fontFamily": "Fa6Solid",
+      "identifier": "quoteRight"
+    },
+    "r": {
+      "codepoint": 58356,
+      "fontFamily": "Fa6Solid",
+      "identifier": "r"
+    },
+    "radiation": {
+      "codepoint": 58357,
+      "fontFamily": "Fa6Solid",
+      "identifier": "radiation"
+    },
+    "radio": {
+      "codepoint": 58358,
+      "fontFamily": "Fa6Solid",
+      "identifier": "radio"
+    },
+    "rainbow": {
+      "codepoint": 58359,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rainbow"
+    },
+    "ranking-star": {
+      "codepoint": 58360,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rankingStar"
+    },
+    "receipt": {
+      "codepoint": 58361,
+      "fontFamily": "Fa6Solid",
+      "identifier": "receipt"
+    },
+    "record-vinyl": {
+      "codepoint": 58362,
+      "fontFamily": "Fa6Solid",
+      "identifier": "recordVinyl"
+    },
+    "rectangle-ad": {
+      "codepoint": 58363,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rectangleAd"
+    },
+    "rectangle-list": {
+      "codepoint": 58364,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rectangleList"
+    },
+    "rectangle-xmark": {
+      "codepoint": 58365,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rectangleXmark"
+    },
+    "recycle": {
+      "codepoint": 58366,
+      "fontFamily": "Fa6Solid",
+      "identifier": "recycle"
+    },
+    "registered": {
+      "codepoint": 58367,
+      "fontFamily": "Fa6Solid",
+      "identifier": "registered"
+    },
+    "repeat": {
+      "codepoint": 58368,
+      "fontFamily": "Fa6Solid",
+      "identifier": "repeat"
+    },
+    "reply": {
+      "codepoint": 58369,
+      "fontFamily": "Fa6Solid",
+      "identifier": "reply"
+    },
+    "reply-all": {
+      "codepoint": 58370,
+      "fontFamily": "Fa6Solid",
+      "identifier": "replyAll"
+    },
+    "republican": {
+      "codepoint": 58371,
+      "fontFamily": "Fa6Solid",
+      "identifier": "republican"
+    },
+    "restroom": {
+      "codepoint": 58372,
+      "fontFamily": "Fa6Solid",
+      "identifier": "restroom"
+    },
+    "retweet": {
+      "codepoint": 58373,
+      "fontFamily": "Fa6Solid",
+      "identifier": "retweet"
+    },
+    "ribbon": {
+      "codepoint": 58374,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ribbon"
+    },
+    "right-from-bracket": {
+      "codepoint": 58375,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rightFromBracket"
+    },
+    "right-left": {
+      "codepoint": 58376,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rightLeft"
+    },
+    "right-long": {
+      "codepoint": 58377,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rightLong"
+    },
+    "right-to-bracket": {
+      "codepoint": 58378,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rightToBracket"
+    },
+    "ring": {
+      "codepoint": 58379,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ring"
+    },
+    "road": {
+      "codepoint": 58380,
+      "fontFamily": "Fa6Solid",
+      "identifier": "road"
+    },
+    "road-barrier": {
+      "codepoint": 58381,
+      "fontFamily": "Fa6Solid",
+      "identifier": "roadBarrier"
+    },
+    "road-bridge": {
+      "codepoint": 58382,
+      "fontFamily": "Fa6Solid",
+      "identifier": "roadBridge"
+    },
+    "road-circle-check": {
+      "codepoint": 58383,
+      "fontFamily": "Fa6Solid",
+      "identifier": "roadCircleCheck"
+    },
+    "road-circle-exclamation": {
+      "codepoint": 58384,
+      "fontFamily": "Fa6Solid",
+      "identifier": "roadCircleExclamation"
+    },
+    "road-circle-xmark": {
+      "codepoint": 58385,
+      "fontFamily": "Fa6Solid",
+      "identifier": "roadCircleXmark"
+    },
+    "road-lock": {
+      "codepoint": 58386,
+      "fontFamily": "Fa6Solid",
+      "identifier": "roadLock"
+    },
+    "road-spikes": {
+      "codepoint": 58387,
+      "fontFamily": "Fa6Solid",
+      "identifier": "roadSpikes"
+    },
+    "robot": {
+      "codepoint": 58388,
+      "fontFamily": "Fa6Solid",
+      "identifier": "robot"
+    },
+    "rocket": {
+      "codepoint": 58389,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rocket"
+    },
+    "rotate": {
+      "codepoint": 58390,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rotate"
+    },
+    "rotate-left": {
+      "codepoint": 58391,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rotateLeft"
+    },
+    "rotate-right": {
+      "codepoint": 58392,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rotateRight"
+    },
+    "route": {
+      "codepoint": 58393,
+      "fontFamily": "Fa6Solid",
+      "identifier": "route"
+    },
+    "rss": {
+      "codepoint": 58394,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rss"
+    },
+    "ruble-sign": {
+      "codepoint": 58395,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rubleSign"
+    },
+    "rug": {
+      "codepoint": 58396,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rug"
+    },
+    "ruler": {
+      "codepoint": 58397,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ruler"
+    },
+    "ruler-combined": {
+      "codepoint": 58398,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rulerCombined"
+    },
+    "ruler-horizontal": {
+      "codepoint": 58399,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rulerHorizontal"
+    },
+    "ruler-vertical": {
+      "codepoint": 58400,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rulerVertical"
+    },
+    "rupee-sign": {
+      "codepoint": 58401,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rupeeSign"
+    },
+    "rupiah-sign": {
+      "codepoint": 58402,
+      "fontFamily": "Fa6Solid",
+      "identifier": "rupiahSign"
+    },
+    "s": {
+      "codepoint": 58403,
+      "fontFamily": "Fa6Solid",
+      "identifier": "s"
+    },
+    "sack-dollar": {
+      "codepoint": 58404,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sackDollar"
+    },
+    "sack-xmark": {
+      "codepoint": 58405,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sackXmark"
+    },
+    "sailboat": {
+      "codepoint": 58406,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sailboat"
+    },
+    "satellite": {
+      "codepoint": 58407,
+      "fontFamily": "Fa6Solid",
+      "identifier": "satellite"
+    },
+    "satellite-dish": {
+      "codepoint": 58408,
+      "fontFamily": "Fa6Solid",
+      "identifier": "satelliteDish"
+    },
+    "scale-balanced": {
+      "codepoint": 58409,
+      "fontFamily": "Fa6Solid",
+      "identifier": "scaleBalanced"
+    },
+    "scale-unbalanced": {
+      "codepoint": 58410,
+      "fontFamily": "Fa6Solid",
+      "identifier": "scaleUnbalanced"
+    },
+    "scale-unbalanced-flip": {
+      "codepoint": 58411,
+      "fontFamily": "Fa6Solid",
+      "identifier": "scaleUnbalancedFlip"
+    },
+    "school": {
+      "codepoint": 58412,
+      "fontFamily": "Fa6Solid",
+      "identifier": "school"
+    },
+    "school-circle-check": {
+      "codepoint": 58413,
+      "fontFamily": "Fa6Solid",
+      "identifier": "schoolCircleCheck"
+    },
+    "school-circle-exclamation": {
+      "codepoint": 58414,
+      "fontFamily": "Fa6Solid",
+      "identifier": "schoolCircleExclamation"
+    },
+    "school-circle-xmark": {
+      "codepoint": 58415,
+      "fontFamily": "Fa6Solid",
+      "identifier": "schoolCircleXmark"
+    },
+    "school-flag": {
+      "codepoint": 58416,
+      "fontFamily": "Fa6Solid",
+      "identifier": "schoolFlag"
+    },
+    "school-lock": {
+      "codepoint": 58417,
+      "fontFamily": "Fa6Solid",
+      "identifier": "schoolLock"
+    },
+    "scissors": {
+      "codepoint": 58418,
+      "fontFamily": "Fa6Solid",
+      "identifier": "scissors"
+    },
+    "screwdriver": {
+      "codepoint": 58419,
+      "fontFamily": "Fa6Solid",
+      "identifier": "screwdriver"
+    },
+    "screwdriver-wrench": {
+      "codepoint": 58420,
+      "fontFamily": "Fa6Solid",
+      "identifier": "screwdriverWrench"
+    },
+    "scroll": {
+      "codepoint": 58421,
+      "fontFamily": "Fa6Solid",
+      "identifier": "scroll"
+    },
+    "scroll-torah": {
+      "codepoint": 58422,
+      "fontFamily": "Fa6Solid",
+      "identifier": "scrollTorah"
+    },
+    "sd-card": {
+      "codepoint": 58423,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sdCard"
+    },
+    "section": {
+      "codepoint": 58424,
+      "fontFamily": "Fa6Solid",
+      "identifier": "section"
+    },
+    "seedling": {
+      "codepoint": 58425,
+      "fontFamily": "Fa6Solid",
+      "identifier": "seedling"
+    },
+    "server": {
+      "codepoint": 58426,
+      "fontFamily": "Fa6Solid",
+      "identifier": "server"
+    },
+    "shapes": {
+      "codepoint": 58427,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shapes"
+    },
+    "share": {
+      "codepoint": 58428,
+      "fontFamily": "Fa6Solid",
+      "identifier": "share"
+    },
+    "share-from-square": {
+      "codepoint": 58429,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shareFromSquare"
+    },
+    "share-nodes": {
+      "codepoint": 58430,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shareNodes"
+    },
+    "sheet-plastic": {
+      "codepoint": 58431,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sheetPlastic"
+    },
+    "shekel-sign": {
+      "codepoint": 58432,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shekelSign"
+    },
+    "shield": {
+      "codepoint": 58433,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shield"
+    },
+    "shield-blank": {
+      "codepoint": 58434,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shieldBlank"
+    },
+    "shield-cat": {
+      "codepoint": 58435,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shieldCat"
+    },
+    "shield-dog": {
+      "codepoint": 58436,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shieldDog"
+    },
+    "shield-halved": {
+      "codepoint": 58437,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shieldHalved"
+    },
+    "shield-heart": {
+      "codepoint": 58438,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shieldHeart"
+    },
+    "shield-virus": {
+      "codepoint": 58439,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shieldVirus"
+    },
+    "ship": {
+      "codepoint": 58440,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ship"
+    },
+    "shirt": {
+      "codepoint": 58441,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shirt"
+    },
+    "shoe-prints": {
+      "codepoint": 58442,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shoePrints"
+    },
+    "shop": {
+      "codepoint": 58443,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shop"
+    },
+    "shop-lock": {
+      "codepoint": 58444,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shopLock"
+    },
+    "shop-slash": {
+      "codepoint": 58445,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shopSlash"
+    },
+    "shower": {
+      "codepoint": 58446,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shower"
+    },
+    "shrimp": {
+      "codepoint": 58447,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shrimp"
+    },
+    "shuffle": {
+      "codepoint": 58448,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shuffle"
+    },
+    "shuttle-space": {
+      "codepoint": 58449,
+      "fontFamily": "Fa6Solid",
+      "identifier": "shuttleSpace"
+    },
+    "sign-hanging": {
+      "codepoint": 58450,
+      "fontFamily": "Fa6Solid",
+      "identifier": "signHanging"
+    },
+    "signal": {
+      "codepoint": 58451,
+      "fontFamily": "Fa6Solid",
+      "identifier": "signal"
+    },
+    "signature": {
+      "codepoint": 58452,
+      "fontFamily": "Fa6Solid",
+      "identifier": "signature"
+    },
+    "signs-post": {
+      "codepoint": 58453,
+      "fontFamily": "Fa6Solid",
+      "identifier": "signsPost"
+    },
+    "sim-card": {
+      "codepoint": 58454,
+      "fontFamily": "Fa6Solid",
+      "identifier": "simCard"
+    },
+    "sink": {
+      "codepoint": 58455,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sink"
+    },
+    "sitemap": {
+      "codepoint": 58456,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sitemap"
+    },
+    "skull": {
+      "codepoint": 58457,
+      "fontFamily": "Fa6Solid",
+      "identifier": "skull"
+    },
+    "skull-crossbones": {
+      "codepoint": 58458,
+      "fontFamily": "Fa6Solid",
+      "identifier": "skullCrossbones"
+    },
+    "slash": {
+      "codepoint": 58459,
+      "fontFamily": "Fa6Solid",
+      "identifier": "slash"
+    },
+    "sleigh": {
+      "codepoint": 58460,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sleigh"
+    },
+    "sliders": {
+      "codepoint": 58461,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sliders"
+    },
+    "smog": {
+      "codepoint": 58462,
+      "fontFamily": "Fa6Solid",
+      "identifier": "smog"
+    },
+    "smoking": {
+      "codepoint": 58463,
+      "fontFamily": "Fa6Solid",
+      "identifier": "smoking"
+    },
+    "snowflake": {
+      "codepoint": 58464,
+      "fontFamily": "Fa6Solid",
+      "identifier": "snowflake"
+    },
+    "snowman": {
+      "codepoint": 58465,
+      "fontFamily": "Fa6Solid",
+      "identifier": "snowman"
+    },
+    "snowplow": {
+      "codepoint": 58466,
+      "fontFamily": "Fa6Solid",
+      "identifier": "snowplow"
+    },
+    "soap": {
+      "codepoint": 58467,
+      "fontFamily": "Fa6Solid",
+      "identifier": "soap"
+    },
+    "socks": {
+      "codepoint": 58468,
+      "fontFamily": "Fa6Solid",
+      "identifier": "socks"
+    },
+    "solar-panel": {
+      "codepoint": 58469,
+      "fontFamily": "Fa6Solid",
+      "identifier": "solarPanel"
+    },
+    "sort": {
+      "codepoint": 58470,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sort"
+    },
+    "sort-down": {
+      "codepoint": 58471,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sortDown"
+    },
+    "sort-up": {
+      "codepoint": 58472,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sortUp"
+    },
+    "spa": {
+      "codepoint": 58473,
+      "fontFamily": "Fa6Solid",
+      "identifier": "spa"
+    },
+    "spaghetti-monster-flying": {
+      "codepoint": 58474,
+      "fontFamily": "Fa6Solid",
+      "identifier": "spaghettiMonsterFlying"
+    },
+    "spell-check": {
+      "codepoint": 58475,
+      "fontFamily": "Fa6Solid",
+      "identifier": "spellCheck"
+    },
+    "spider": {
+      "codepoint": 58476,
+      "fontFamily": "Fa6Solid",
+      "identifier": "spider"
+    },
+    "spinner": {
+      "codepoint": 58477,
+      "fontFamily": "Fa6Solid",
+      "identifier": "spinner"
+    },
+    "splotch": {
+      "codepoint": 58478,
+      "fontFamily": "Fa6Solid",
+      "identifier": "splotch"
+    },
+    "spoon": {
+      "codepoint": 58479,
+      "fontFamily": "Fa6Solid",
+      "identifier": "spoon"
+    },
+    "spray-can": {
+      "codepoint": 58480,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sprayCan"
+    },
+    "spray-can-sparkles": {
+      "codepoint": 58481,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sprayCanSparkles"
+    },
+    "square": {
+      "codepoint": 58482,
+      "fontFamily": "Fa6Solid",
+      "identifier": "square"
+    },
+    "square-arrow-up-right": {
+      "codepoint": 58483,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareArrowUpRight"
+    },
+    "square-binary": {
+      "codepoint": 58484,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareBinary"
+    },
+    "square-caret-down": {
+      "codepoint": 58485,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareCaretDown"
+    },
+    "square-caret-left": {
+      "codepoint": 58486,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareCaretLeft"
+    },
+    "square-caret-right": {
+      "codepoint": 58487,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareCaretRight"
+    },
+    "square-caret-up": {
+      "codepoint": 58488,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareCaretUp"
+    },
+    "square-check": {
+      "codepoint": 58489,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareCheck"
+    },
+    "square-envelope": {
+      "codepoint": 58490,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareEnvelope"
+    },
+    "square-full": {
+      "codepoint": 58491,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareFull"
+    },
+    "square-h": {
+      "codepoint": 58492,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareH"
+    },
+    "square-minus": {
+      "codepoint": 58493,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareMinus"
+    },
+    "square-nfi": {
+      "codepoint": 58494,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareNfi"
+    },
+    "square-parking": {
+      "codepoint": 58495,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareParking"
+    },
+    "square-pen": {
+      "codepoint": 58496,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squarePen"
+    },
+    "square-person-confined": {
+      "codepoint": 58497,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squarePersonConfined"
+    },
+    "square-phone": {
+      "codepoint": 58498,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squarePhone"
+    },
+    "square-phone-flip": {
+      "codepoint": 58499,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squarePhoneFlip"
+    },
+    "square-plus": {
+      "codepoint": 58500,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squarePlus"
+    },
+    "square-poll-horizontal": {
+      "codepoint": 58501,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squarePollHorizontal"
+    },
+    "square-poll-vertical": {
+      "codepoint": 58502,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squarePollVertical"
+    },
+    "square-root-variable": {
+      "codepoint": 58503,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareRootVariable"
+    },
+    "square-rss": {
+      "codepoint": 58504,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareRss"
+    },
+    "square-share-nodes": {
+      "codepoint": 58505,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareShareNodes"
+    },
+    "square-up-right": {
+      "codepoint": 58506,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareUpRight"
+    },
+    "square-virus": {
+      "codepoint": 58507,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareVirus"
+    },
+    "square-xmark": {
+      "codepoint": 58508,
+      "fontFamily": "Fa6Solid",
+      "identifier": "squareXmark"
+    },
+    "staff-aesculapius": {
+      "codepoint": 58509,
+      "fontFamily": "Fa6Solid",
+      "identifier": "staffAesculapius"
+    },
+    "staff-snake": {
+      "codepoint": 58510,
+      "fontFamily": "Fa6Solid",
+      "identifier": "staffSnake"
+    },
+    "stairs": {
+      "codepoint": 58511,
+      "fontFamily": "Fa6Solid",
+      "identifier": "stairs"
+    },
+    "stamp": {
+      "codepoint": 58512,
+      "fontFamily": "Fa6Solid",
+      "identifier": "stamp"
+    },
+    "stapler": {
+      "codepoint": 58513,
+      "fontFamily": "Fa6Solid",
+      "identifier": "stapler"
+    },
+    "star": {
+      "codepoint": 58514,
+      "fontFamily": "Fa6Solid",
+      "identifier": "star"
+    },
+    "star-and-crescent": {
+      "codepoint": 58515,
+      "fontFamily": "Fa6Solid",
+      "identifier": "starAndCrescent"
+    },
+    "star-half": {
+      "codepoint": 58516,
+      "fontFamily": "Fa6Solid",
+      "identifier": "starHalf"
+    },
+    "star-half-stroke": {
+      "codepoint": 58517,
+      "fontFamily": "Fa6Solid",
+      "identifier": "starHalfStroke"
+    },
+    "star-of-david": {
+      "codepoint": 58518,
+      "fontFamily": "Fa6Solid",
+      "identifier": "starOfDavid"
+    },
+    "star-of-life": {
+      "codepoint": 58519,
+      "fontFamily": "Fa6Solid",
+      "identifier": "starOfLife"
+    },
+    "sterling-sign": {
+      "codepoint": 58520,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sterlingSign"
+    },
+    "stethoscope": {
+      "codepoint": 58521,
+      "fontFamily": "Fa6Solid",
+      "identifier": "stethoscope"
+    },
+    "stop": {
+      "codepoint": 58522,
+      "fontFamily": "Fa6Solid",
+      "identifier": "stop"
+    },
+    "stopwatch": {
+      "codepoint": 58523,
+      "fontFamily": "Fa6Solid",
+      "identifier": "stopwatch"
+    },
+    "stopwatch-20": {
+      "codepoint": 58524,
+      "fontFamily": "Fa6Solid",
+      "identifier": "stopwatch20"
+    },
+    "store": {
+      "codepoint": 58525,
+      "fontFamily": "Fa6Solid",
+      "identifier": "store"
+    },
+    "store-slash": {
+      "codepoint": 58526,
+      "fontFamily": "Fa6Solid",
+      "identifier": "storeSlash"
+    },
+    "street-view": {
+      "codepoint": 58527,
+      "fontFamily": "Fa6Solid",
+      "identifier": "streetView"
+    },
+    "strikethrough": {
+      "codepoint": 58528,
+      "fontFamily": "Fa6Solid",
+      "identifier": "strikethrough"
+    },
+    "stroopwafel": {
+      "codepoint": 58529,
+      "fontFamily": "Fa6Solid",
+      "identifier": "stroopwafel"
+    },
+    "subscript": {
+      "codepoint": 58530,
+      "fontFamily": "Fa6Solid",
+      "identifier": "subscript"
+    },
+    "suitcase": {
+      "codepoint": 58531,
+      "fontFamily": "Fa6Solid",
+      "identifier": "suitcase"
+    },
+    "suitcase-medical": {
+      "codepoint": 58532,
+      "fontFamily": "Fa6Solid",
+      "identifier": "suitcaseMedical"
+    },
+    "suitcase-rolling": {
+      "codepoint": 58533,
+      "fontFamily": "Fa6Solid",
+      "identifier": "suitcaseRolling"
+    },
+    "sun": {
+      "codepoint": 58534,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sun"
+    },
+    "sun-plant-wilt": {
+      "codepoint": 58535,
+      "fontFamily": "Fa6Solid",
+      "identifier": "sunPlantWilt"
+    },
+    "superscript": {
+      "codepoint": 58536,
+      "fontFamily": "Fa6Solid",
+      "identifier": "superscript"
+    },
+    "swatchbook": {
+      "codepoint": 58537,
+      "fontFamily": "Fa6Solid",
+      "identifier": "swatchbook"
+    },
+    "synagogue": {
+      "codepoint": 58538,
+      "fontFamily": "Fa6Solid",
+      "identifier": "synagogue"
+    },
+    "syringe": {
+      "codepoint": 58539,
+      "fontFamily": "Fa6Solid",
+      "identifier": "syringe"
+    },
+    "t": {
+      "codepoint": 58540,
+      "fontFamily": "Fa6Solid",
+      "identifier": "t"
+    },
+    "table": {
+      "codepoint": 58541,
+      "fontFamily": "Fa6Solid",
+      "identifier": "table"
+    },
+    "table-cells": {
+      "codepoint": 58542,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tableCells"
+    },
+    "table-cells-column-lock": {
+      "codepoint": 58543,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tableCellsColumnLock"
+    },
+    "table-cells-large": {
+      "codepoint": 58544,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tableCellsLarge"
+    },
+    "table-cells-row-lock": {
+      "codepoint": 58545,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tableCellsRowLock"
+    },
+    "table-cells-row-unlock": {
+      "codepoint": 58546,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tableCellsRowUnlock"
+    },
+    "table-columns": {
+      "codepoint": 58547,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tableColumns"
+    },
+    "table-list": {
+      "codepoint": 58548,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tableList"
+    },
+    "table-tennis-paddle-ball": {
+      "codepoint": 58549,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tableTennisPaddleBall"
+    },
+    "tablet": {
+      "codepoint": 58550,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tablet"
+    },
+    "tablet-button": {
+      "codepoint": 58551,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tabletButton"
+    },
+    "tablet-screen-button": {
+      "codepoint": 58552,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tabletScreenButton"
+    },
+    "tablets": {
+      "codepoint": 58553,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tablets"
+    },
+    "tachograph-digital": {
+      "codepoint": 58554,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tachographDigital"
+    },
+    "tag": {
+      "codepoint": 58555,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tag"
+    },
+    "tags": {
+      "codepoint": 58556,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tags"
+    },
+    "tape": {
+      "codepoint": 58557,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tape"
+    },
+    "tarp": {
+      "codepoint": 58558,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tarp"
+    },
+    "tarp-droplet": {
+      "codepoint": 58559,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tarpDroplet"
+    },
+    "taxi": {
+      "codepoint": 58560,
+      "fontFamily": "Fa6Solid",
+      "identifier": "taxi"
+    },
+    "teeth": {
+      "codepoint": 58561,
+      "fontFamily": "Fa6Solid",
+      "identifier": "teeth"
+    },
+    "teeth-open": {
+      "codepoint": 58562,
+      "fontFamily": "Fa6Solid",
+      "identifier": "teethOpen"
+    },
+    "temperature-arrow-down": {
+      "codepoint": 58563,
+      "fontFamily": "Fa6Solid",
+      "identifier": "temperatureArrowDown"
+    },
+    "temperature-arrow-up": {
+      "codepoint": 58564,
+      "fontFamily": "Fa6Solid",
+      "identifier": "temperatureArrowUp"
+    },
+    "temperature-empty": {
+      "codepoint": 58565,
+      "fontFamily": "Fa6Solid",
+      "identifier": "temperatureEmpty"
+    },
+    "temperature-full": {
+      "codepoint": 58566,
+      "fontFamily": "Fa6Solid",
+      "identifier": "temperatureFull"
+    },
+    "temperature-half": {
+      "codepoint": 58567,
+      "fontFamily": "Fa6Solid",
+      "identifier": "temperatureHalf"
+    },
+    "temperature-high": {
+      "codepoint": 58568,
+      "fontFamily": "Fa6Solid",
+      "identifier": "temperatureHigh"
+    },
+    "temperature-low": {
+      "codepoint": 58569,
+      "fontFamily": "Fa6Solid",
+      "identifier": "temperatureLow"
+    },
+    "temperature-quarter": {
+      "codepoint": 58570,
+      "fontFamily": "Fa6Solid",
+      "identifier": "temperatureQuarter"
+    },
+    "temperature-three-quarters": {
+      "codepoint": 58571,
+      "fontFamily": "Fa6Solid",
+      "identifier": "temperatureThreeQuarters"
+    },
+    "tenge-sign": {
+      "codepoint": 58572,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tengeSign"
+    },
+    "tent": {
+      "codepoint": 58573,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tent"
+    },
+    "tent-arrow-down-to-line": {
+      "codepoint": 58574,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tentArrowDownToLine"
+    },
+    "tent-arrow-left-right": {
+      "codepoint": 58575,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tentArrowLeftRight"
+    },
+    "tent-arrow-turn-left": {
+      "codepoint": 58576,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tentArrowTurnLeft"
+    },
+    "tent-arrows-down": {
+      "codepoint": 58577,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tentArrowsDown"
+    },
+    "tents": {
+      "codepoint": 58578,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tents"
+    },
+    "terminal": {
+      "codepoint": 58579,
+      "fontFamily": "Fa6Solid",
+      "identifier": "terminal"
+    },
+    "text-height": {
+      "codepoint": 58580,
+      "fontFamily": "Fa6Solid",
+      "identifier": "textHeight"
+    },
+    "text-slash": {
+      "codepoint": 58581,
+      "fontFamily": "Fa6Solid",
+      "identifier": "textSlash"
+    },
+    "text-width": {
+      "codepoint": 58582,
+      "fontFamily": "Fa6Solid",
+      "identifier": "textWidth"
+    },
+    "thermometer": {
+      "codepoint": 58583,
+      "fontFamily": "Fa6Solid",
+      "identifier": "thermometer"
+    },
+    "thumbs-down": {
+      "codepoint": 58584,
+      "fontFamily": "Fa6Solid",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-up": {
+      "codepoint": 58585,
+      "fontFamily": "Fa6Solid",
+      "identifier": "thumbsUp"
+    },
+    "thumbtack": {
+      "codepoint": 58586,
+      "fontFamily": "Fa6Solid",
+      "identifier": "thumbtack"
+    },
+    "thumbtack-slash": {
+      "codepoint": 58587,
+      "fontFamily": "Fa6Solid",
+      "identifier": "thumbtackSlash"
+    },
+    "ticket": {
+      "codepoint": 58588,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ticket"
+    },
+    "ticket-simple": {
+      "codepoint": 58589,
+      "fontFamily": "Fa6Solid",
+      "identifier": "ticketSimple"
+    },
+    "timeline": {
+      "codepoint": 58590,
+      "fontFamily": "Fa6Solid",
+      "identifier": "timeline"
+    },
+    "toggle-off": {
+      "codepoint": 58591,
+      "fontFamily": "Fa6Solid",
+      "identifier": "toggleOff"
+    },
+    "toggle-on": {
+      "codepoint": 58592,
+      "fontFamily": "Fa6Solid",
+      "identifier": "toggleOn"
+    },
+    "toilet": {
+      "codepoint": 58593,
+      "fontFamily": "Fa6Solid",
+      "identifier": "toilet"
+    },
+    "toilet-paper": {
+      "codepoint": 58594,
+      "fontFamily": "Fa6Solid",
+      "identifier": "toiletPaper"
+    },
+    "toilet-paper-slash": {
+      "codepoint": 58595,
+      "fontFamily": "Fa6Solid",
+      "identifier": "toiletPaperSlash"
+    },
+    "toilet-portable": {
+      "codepoint": 58596,
+      "fontFamily": "Fa6Solid",
+      "identifier": "toiletPortable"
+    },
+    "toilets-portable": {
+      "codepoint": 58597,
+      "fontFamily": "Fa6Solid",
+      "identifier": "toiletsPortable"
+    },
+    "toolbox": {
+      "codepoint": 58598,
+      "fontFamily": "Fa6Solid",
+      "identifier": "toolbox"
+    },
+    "tooth": {
+      "codepoint": 58599,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tooth"
+    },
+    "torii-gate": {
+      "codepoint": 58600,
+      "fontFamily": "Fa6Solid",
+      "identifier": "toriiGate"
+    },
+    "tornado": {
+      "codepoint": 58601,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tornado"
+    },
+    "tower-broadcast": {
+      "codepoint": 58602,
+      "fontFamily": "Fa6Solid",
+      "identifier": "towerBroadcast"
+    },
+    "tower-cell": {
+      "codepoint": 58603,
+      "fontFamily": "Fa6Solid",
+      "identifier": "towerCell"
+    },
+    "tower-observation": {
+      "codepoint": 58604,
+      "fontFamily": "Fa6Solid",
+      "identifier": "towerObservation"
+    },
+    "tractor": {
+      "codepoint": 58605,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tractor"
+    },
+    "trademark": {
+      "codepoint": 58606,
+      "fontFamily": "Fa6Solid",
+      "identifier": "trademark"
+    },
+    "traffic-light": {
+      "codepoint": 58607,
+      "fontFamily": "Fa6Solid",
+      "identifier": "trafficLight"
+    },
+    "trailer": {
+      "codepoint": 58608,
+      "fontFamily": "Fa6Solid",
+      "identifier": "trailer"
+    },
+    "train": {
+      "codepoint": 58609,
+      "fontFamily": "Fa6Solid",
+      "identifier": "train"
+    },
+    "train-subway": {
+      "codepoint": 58610,
+      "fontFamily": "Fa6Solid",
+      "identifier": "trainSubway"
+    },
+    "train-tram": {
+      "codepoint": 58611,
+      "fontFamily": "Fa6Solid",
+      "identifier": "trainTram"
+    },
+    "transgender": {
+      "codepoint": 58612,
+      "fontFamily": "Fa6Solid",
+      "identifier": "transgender"
+    },
+    "trash": {
+      "codepoint": 58613,
+      "fontFamily": "Fa6Solid",
+      "identifier": "trash"
+    },
+    "trash-arrow-up": {
+      "codepoint": 58614,
+      "fontFamily": "Fa6Solid",
+      "identifier": "trashArrowUp"
+    },
+    "trash-can": {
+      "codepoint": 58615,
+      "fontFamily": "Fa6Solid",
+      "identifier": "trashCan"
+    },
+    "trash-can-arrow-up": {
+      "codepoint": 58616,
+      "fontFamily": "Fa6Solid",
+      "identifier": "trashCanArrowUp"
+    },
+    "tree": {
+      "codepoint": 58617,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tree"
+    },
+    "tree-city": {
+      "codepoint": 58618,
+      "fontFamily": "Fa6Solid",
+      "identifier": "treeCity"
+    },
+    "triangle-exclamation": {
+      "codepoint": 58619,
+      "fontFamily": "Fa6Solid",
+      "identifier": "triangleExclamation"
+    },
+    "trophy": {
+      "codepoint": 58620,
+      "fontFamily": "Fa6Solid",
+      "identifier": "trophy"
+    },
+    "trowel": {
+      "codepoint": 58621,
+      "fontFamily": "Fa6Solid",
+      "identifier": "trowel"
+    },
+    "trowel-bricks": {
+      "codepoint": 58622,
+      "fontFamily": "Fa6Solid",
+      "identifier": "trowelBricks"
+    },
+    "truck": {
+      "codepoint": 58623,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truck"
+    },
+    "truck-arrow-right": {
+      "codepoint": 58624,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truckArrowRight"
+    },
+    "truck-droplet": {
+      "codepoint": 58625,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truckDroplet"
+    },
+    "truck-fast": {
+      "codepoint": 58626,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truckFast"
+    },
+    "truck-field": {
+      "codepoint": 58627,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truckField"
+    },
+    "truck-field-un": {
+      "codepoint": 58628,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truckFieldUn"
+    },
+    "truck-front": {
+      "codepoint": 58629,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truckFront"
+    },
+    "truck-medical": {
+      "codepoint": 58630,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truckMedical"
+    },
+    "truck-monster": {
+      "codepoint": 58631,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truckMonster"
+    },
+    "truck-moving": {
+      "codepoint": 58632,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truckMoving"
+    },
+    "truck-pickup": {
+      "codepoint": 58633,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truckPickup"
+    },
+    "truck-plane": {
+      "codepoint": 58634,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truckPlane"
+    },
+    "truck-ramp-box": {
+      "codepoint": 58635,
+      "fontFamily": "Fa6Solid",
+      "identifier": "truckRampBox"
+    },
+    "tty": {
+      "codepoint": 58636,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tty"
+    },
+    "turkish-lira-sign": {
+      "codepoint": 58637,
+      "fontFamily": "Fa6Solid",
+      "identifier": "turkishLiraSign"
+    },
+    "turn-down": {
+      "codepoint": 58638,
+      "fontFamily": "Fa6Solid",
+      "identifier": "turnDown"
+    },
+    "turn-up": {
+      "codepoint": 58639,
+      "fontFamily": "Fa6Solid",
+      "identifier": "turnUp"
+    },
+    "tv": {
+      "codepoint": 58640,
+      "fontFamily": "Fa6Solid",
+      "identifier": "tv"
+    },
+    "u": {
+      "codepoint": 58641,
+      "fontFamily": "Fa6Solid",
+      "identifier": "u"
+    },
+    "umbrella": {
+      "codepoint": 58642,
+      "fontFamily": "Fa6Solid",
+      "identifier": "umbrella"
+    },
+    "umbrella-beach": {
+      "codepoint": 58643,
+      "fontFamily": "Fa6Solid",
+      "identifier": "umbrellaBeach"
+    },
+    "underline": {
+      "codepoint": 58644,
+      "fontFamily": "Fa6Solid",
+      "identifier": "underline"
+    },
+    "universal-access": {
+      "codepoint": 58645,
+      "fontFamily": "Fa6Solid",
+      "identifier": "universalAccess"
+    },
+    "unlock": {
+      "codepoint": 58646,
+      "fontFamily": "Fa6Solid",
+      "identifier": "unlock"
+    },
+    "unlock-keyhole": {
+      "codepoint": 58647,
+      "fontFamily": "Fa6Solid",
+      "identifier": "unlockKeyhole"
+    },
+    "up-down": {
+      "codepoint": 58648,
+      "fontFamily": "Fa6Solid",
+      "identifier": "upDown"
+    },
+    "up-down-left-right": {
+      "codepoint": 58649,
+      "fontFamily": "Fa6Solid",
+      "identifier": "upDownLeftRight"
+    },
+    "up-long": {
+      "codepoint": 58650,
+      "fontFamily": "Fa6Solid",
+      "identifier": "upLong"
+    },
+    "up-right-and-down-left-from-center": {
+      "codepoint": 58651,
+      "fontFamily": "Fa6Solid",
+      "identifier": "upRightAndDownLeftFromCenter"
+    },
+    "up-right-from-square": {
+      "codepoint": 58652,
+      "fontFamily": "Fa6Solid",
+      "identifier": "upRightFromSquare"
+    },
+    "upload": {
+      "codepoint": 58653,
+      "fontFamily": "Fa6Solid",
+      "identifier": "upload"
+    },
+    "user": {
+      "codepoint": 58654,
+      "fontFamily": "Fa6Solid",
+      "identifier": "user"
+    },
+    "user-astronaut": {
+      "codepoint": 58655,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userAstronaut"
+    },
+    "user-check": {
+      "codepoint": 58656,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userCheck"
+    },
+    "user-clock": {
+      "codepoint": 58657,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userClock"
+    },
+    "user-doctor": {
+      "codepoint": 58658,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userDoctor"
+    },
+    "user-gear": {
+      "codepoint": 58659,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userGear"
+    },
+    "user-graduate": {
+      "codepoint": 58660,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userGraduate"
+    },
+    "user-group": {
+      "codepoint": 58661,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userGroup"
+    },
+    "user-injured": {
+      "codepoint": 58662,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userInjured"
+    },
+    "user-large": {
+      "codepoint": 58663,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userLarge"
+    },
+    "user-large-slash": {
+      "codepoint": 58664,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userLargeSlash"
+    },
+    "user-lock": {
+      "codepoint": 58665,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userLock"
+    },
+    "user-minus": {
+      "codepoint": 58666,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userMinus"
+    },
+    "user-ninja": {
+      "codepoint": 58667,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userNinja"
+    },
+    "user-nurse": {
+      "codepoint": 58668,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userNurse"
+    },
+    "user-pen": {
+      "codepoint": 58669,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userPen"
+    },
+    "user-plus": {
+      "codepoint": 58670,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userPlus"
+    },
+    "user-secret": {
+      "codepoint": 58671,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userSecret"
+    },
+    "user-shield": {
+      "codepoint": 58672,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userShield"
+    },
+    "user-slash": {
+      "codepoint": 58673,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userSlash"
+    },
+    "user-tag": {
+      "codepoint": 58674,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userTag"
+    },
+    "user-tie": {
+      "codepoint": 58675,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userTie"
+    },
+    "user-xmark": {
+      "codepoint": 58676,
+      "fontFamily": "Fa6Solid",
+      "identifier": "userXmark"
+    },
+    "users": {
+      "codepoint": 58677,
+      "fontFamily": "Fa6Solid",
+      "identifier": "users"
+    },
+    "users-between-lines": {
+      "codepoint": 58678,
+      "fontFamily": "Fa6Solid",
+      "identifier": "usersBetweenLines"
+    },
+    "users-gear": {
+      "codepoint": 58679,
+      "fontFamily": "Fa6Solid",
+      "identifier": "usersGear"
+    },
+    "users-line": {
+      "codepoint": 58680,
+      "fontFamily": "Fa6Solid",
+      "identifier": "usersLine"
+    },
+    "users-rays": {
+      "codepoint": 58681,
+      "fontFamily": "Fa6Solid",
+      "identifier": "usersRays"
+    },
+    "users-rectangle": {
+      "codepoint": 58682,
+      "fontFamily": "Fa6Solid",
+      "identifier": "usersRectangle"
+    },
+    "users-slash": {
+      "codepoint": 58683,
+      "fontFamily": "Fa6Solid",
+      "identifier": "usersSlash"
+    },
+    "users-viewfinder": {
+      "codepoint": 58684,
+      "fontFamily": "Fa6Solid",
+      "identifier": "usersViewfinder"
+    },
+    "utensils": {
+      "codepoint": 58685,
+      "fontFamily": "Fa6Solid",
+      "identifier": "utensils"
+    },
+    "v": {
+      "codepoint": 58686,
+      "fontFamily": "Fa6Solid",
+      "identifier": "v"
+    },
+    "van-shuttle": {
+      "codepoint": 58687,
+      "fontFamily": "Fa6Solid",
+      "identifier": "vanShuttle"
+    },
+    "vault": {
+      "codepoint": 58688,
+      "fontFamily": "Fa6Solid",
+      "identifier": "vault"
+    },
+    "vector-square": {
+      "codepoint": 58689,
+      "fontFamily": "Fa6Solid",
+      "identifier": "vectorSquare"
+    },
+    "venus": {
+      "codepoint": 58690,
+      "fontFamily": "Fa6Solid",
+      "identifier": "venus"
+    },
+    "venus-double": {
+      "codepoint": 58691,
+      "fontFamily": "Fa6Solid",
+      "identifier": "venusDouble"
+    },
+    "venus-mars": {
+      "codepoint": 58692,
+      "fontFamily": "Fa6Solid",
+      "identifier": "venusMars"
+    },
+    "vest": {
+      "codepoint": 58693,
+      "fontFamily": "Fa6Solid",
+      "identifier": "vest"
+    },
+    "vest-patches": {
+      "codepoint": 58694,
+      "fontFamily": "Fa6Solid",
+      "identifier": "vestPatches"
+    },
+    "vial": {
+      "codepoint": 58695,
+      "fontFamily": "Fa6Solid",
+      "identifier": "vial"
+    },
+    "vial-circle-check": {
+      "codepoint": 58696,
+      "fontFamily": "Fa6Solid",
+      "identifier": "vialCircleCheck"
+    },
+    "vial-virus": {
+      "codepoint": 58697,
+      "fontFamily": "Fa6Solid",
+      "identifier": "vialVirus"
+    },
+    "vials": {
+      "codepoint": 58698,
+      "fontFamily": "Fa6Solid",
+      "identifier": "vials"
+    },
+    "video": {
+      "codepoint": 58699,
+      "fontFamily": "Fa6Solid",
+      "identifier": "video"
+    },
+    "video-slash": {
+      "codepoint": 58700,
+      "fontFamily": "Fa6Solid",
+      "identifier": "videoSlash"
+    },
+    "vihara": {
+      "codepoint": 58701,
+      "fontFamily": "Fa6Solid",
+      "identifier": "vihara"
+    },
+    "virus": {
+      "codepoint": 58702,
+      "fontFamily": "Fa6Solid",
+      "identifier": "virus"
+    },
+    "virus-covid": {
+      "codepoint": 58703,
+      "fontFamily": "Fa6Solid",
+      "identifier": "virusCovid"
+    },
+    "virus-covid-slash": {
+      "codepoint": 58704,
+      "fontFamily": "Fa6Solid",
+      "identifier": "virusCovidSlash"
+    },
+    "virus-slash": {
+      "codepoint": 58705,
+      "fontFamily": "Fa6Solid",
+      "identifier": "virusSlash"
+    },
+    "viruses": {
+      "codepoint": 58706,
+      "fontFamily": "Fa6Solid",
+      "identifier": "viruses"
+    },
+    "voicemail": {
+      "codepoint": 58707,
+      "fontFamily": "Fa6Solid",
+      "identifier": "voicemail"
+    },
+    "volcano": {
+      "codepoint": 58708,
+      "fontFamily": "Fa6Solid",
+      "identifier": "volcano"
+    },
+    "volleyball": {
+      "codepoint": 58709,
+      "fontFamily": "Fa6Solid",
+      "identifier": "volleyball"
+    },
+    "volume-high": {
+      "codepoint": 58710,
+      "fontFamily": "Fa6Solid",
+      "identifier": "volumeHigh"
+    },
+    "volume-low": {
+      "codepoint": 58711,
+      "fontFamily": "Fa6Solid",
+      "identifier": "volumeLow"
+    },
+    "volume-off": {
+      "codepoint": 58712,
+      "fontFamily": "Fa6Solid",
+      "identifier": "volumeOff"
+    },
+    "volume-xmark": {
+      "codepoint": 58713,
+      "fontFamily": "Fa6Solid",
+      "identifier": "volumeXmark"
+    },
+    "vr-cardboard": {
+      "codepoint": 58714,
+      "fontFamily": "Fa6Solid",
+      "identifier": "vrCardboard"
+    },
+    "w": {
+      "codepoint": 58715,
+      "fontFamily": "Fa6Solid",
+      "identifier": "w"
+    },
+    "walkie-talkie": {
+      "codepoint": 58716,
+      "fontFamily": "Fa6Solid",
+      "identifier": "walkieTalkie"
+    },
+    "wallet": {
+      "codepoint": 58717,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wallet"
+    },
+    "wand-magic": {
+      "codepoint": 58718,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wandMagic"
+    },
+    "wand-magic-sparkles": {
+      "codepoint": 58719,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wandMagicSparkles"
+    },
+    "wand-sparkles": {
+      "codepoint": 58720,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wandSparkles"
+    },
+    "warehouse": {
+      "codepoint": 58721,
+      "fontFamily": "Fa6Solid",
+      "identifier": "warehouse"
+    },
+    "water": {
+      "codepoint": 58722,
+      "fontFamily": "Fa6Solid",
+      "identifier": "water"
+    },
+    "water-ladder": {
+      "codepoint": 58723,
+      "fontFamily": "Fa6Solid",
+      "identifier": "waterLadder"
+    },
+    "wave-square": {
+      "codepoint": 58724,
+      "fontFamily": "Fa6Solid",
+      "identifier": "waveSquare"
+    },
+    "web-awesome": {
+      "codepoint": 58725,
+      "fontFamily": "Fa6Solid",
+      "identifier": "webAwesome"
+    },
+    "weight-hanging": {
+      "codepoint": 58726,
+      "fontFamily": "Fa6Solid",
+      "identifier": "weightHanging"
+    },
+    "weight-scale": {
+      "codepoint": 58727,
+      "fontFamily": "Fa6Solid",
+      "identifier": "weightScale"
+    },
+    "wheat-awn": {
+      "codepoint": 58728,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wheatAwn"
+    },
+    "wheat-awn-circle-exclamation": {
+      "codepoint": 58729,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wheatAwnCircleExclamation"
+    },
+    "wheelchair": {
+      "codepoint": 58730,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wheelchair"
+    },
+    "wheelchair-move": {
+      "codepoint": 58731,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wheelchairMove"
+    },
+    "whiskey-glass": {
+      "codepoint": 58732,
+      "fontFamily": "Fa6Solid",
+      "identifier": "whiskeyGlass"
+    },
+    "wifi": {
+      "codepoint": 58733,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wifi"
+    },
+    "wind": {
+      "codepoint": 58734,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wind"
+    },
+    "window-maximize": {
+      "codepoint": 58735,
+      "fontFamily": "Fa6Solid",
+      "identifier": "windowMaximize"
+    },
+    "window-minimize": {
+      "codepoint": 58736,
+      "fontFamily": "Fa6Solid",
+      "identifier": "windowMinimize"
+    },
+    "window-restore": {
+      "codepoint": 58737,
+      "fontFamily": "Fa6Solid",
+      "identifier": "windowRestore"
+    },
+    "wine-bottle": {
+      "codepoint": 58738,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wineBottle"
+    },
+    "wine-glass": {
+      "codepoint": 58739,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wineGlass"
+    },
+    "wine-glass-empty": {
+      "codepoint": 58740,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wineGlassEmpty"
+    },
+    "won-sign": {
+      "codepoint": 58741,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wonSign"
+    },
+    "worm": {
+      "codepoint": 58742,
+      "fontFamily": "Fa6Solid",
+      "identifier": "worm"
+    },
+    "wrench": {
+      "codepoint": 58743,
+      "fontFamily": "Fa6Solid",
+      "identifier": "wrench"
+    },
+    "x": {
+      "codepoint": 58744,
+      "fontFamily": "Fa6Solid",
+      "identifier": "x"
+    },
+    "x-ray": {
+      "codepoint": 58745,
+      "fontFamily": "Fa6Solid",
+      "identifier": "xRay"
+    },
+    "xmark": {
+      "codepoint": 58746,
+      "fontFamily": "Fa6Solid",
+      "identifier": "xmark"
+    },
+    "xmarks-lines": {
+      "codepoint": 58747,
+      "fontFamily": "Fa6Solid",
+      "identifier": "xmarksLines"
+    },
+    "y": {
+      "codepoint": 58748,
+      "fontFamily": "Fa6Solid",
+      "identifier": "y"
+    },
+    "yen-sign": {
+      "codepoint": 58749,
+      "fontFamily": "Fa6Solid",
+      "identifier": "yenSign"
+    },
+    "yin-yang": {
+      "codepoint": 58750,
+      "fontFamily": "Fa6Solid",
+      "identifier": "yinYang"
+    },
+    "z": {
+      "codepoint": 58751,
+      "fontFamily": "Fa6Solid",
+      "identifier": "z"
+    }
+  }
+}

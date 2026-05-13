@@ -1,0 +1,22 @@
+name: iconifyx_fa
+description: >-
+  Font Awesome 4 icons from Iconify, packaged for Flutter (786 icons, Open Font License license).
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+
+flutter:
+  uses-material-design: false
+  fonts:
+    - family: Fa
+      fonts:
+        - asset: assets/fonts/Fa.ttf

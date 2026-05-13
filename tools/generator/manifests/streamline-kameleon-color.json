@@ -1,0 +1,2030 @@
+{
+  "schemaVersion": 1,
+  "prefix": "streamline-kameleon-color",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Multicolor",
+  "subPackage": "iconifyx_streamline_kameleon_color",
+  "info": {
+    "name": "Kameleon color icons",
+    "author": {
+      "name": "Streamline",
+      "url": "https://github.com/webalys-hq/streamline-vectors"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 400
+  },
+  "fonts": [
+    {
+      "family": "StreamlineKameleonColor",
+      "nextCodepoint": 57744,
+      "iconCount": 400
+    }
+  ],
+  "icons": {
+    "aid-kit": {
+      "codepoint": 57344,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "aidKit"
+    },
+    "aid-kit-duo": {
+      "codepoint": 57345,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "aidKitDuo"
+    },
+    "airconditioner": {
+      "codepoint": 57346,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "airconditioner"
+    },
+    "airconditioner-duo": {
+      "codepoint": 57347,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "airconditionerDuo"
+    },
+    "airdrop-box": {
+      "codepoint": 57348,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "airdropBox"
+    },
+    "airdrop-box-duo": {
+      "codepoint": 57349,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "airdropBoxDuo"
+    },
+    "antenna": {
+      "codepoint": 57350,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "antenna"
+    },
+    "antenna-duo": {
+      "codepoint": 57351,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "antennaDuo"
+    },
+    "anvil": {
+      "codepoint": 57352,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "anvil"
+    },
+    "anvil-duo": {
+      "codepoint": 57353,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "anvilDuo"
+    },
+    "apartment-2": {
+      "codepoint": 57354,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "apartment2"
+    },
+    "apartment-2-duo": {
+      "codepoint": 57355,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "apartment2Duo"
+    },
+    "article-file-2": {
+      "codepoint": 57356,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "articleFile2"
+    },
+    "article-file-2-duo": {
+      "codepoint": 57357,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "articleFile2Duo"
+    },
+    "astronaut": {
+      "codepoint": 57358,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "astronaut"
+    },
+    "astronaut-duo": {
+      "codepoint": 57359,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "astronautDuo"
+    },
+    "baby-cart": {
+      "codepoint": 57360,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "babyCart"
+    },
+    "baby-cart-duo": {
+      "codepoint": 57361,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "babyCartDuo"
+    },
+    "bank": {
+      "codepoint": 57362,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "bank"
+    },
+    "bank-check": {
+      "codepoint": 57363,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "bankCheck"
+    },
+    "bank-check-duo": {
+      "codepoint": 57364,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "bankCheckDuo"
+    },
+    "bank-duo": {
+      "codepoint": 57365,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "bankDuo"
+    },
+    "baseball": {
+      "codepoint": 57366,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "baseball"
+    },
+    "baseball-duo": {
+      "codepoint": 57367,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "baseballDuo"
+    },
+    "basket-2": {
+      "codepoint": 57368,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "basket2"
+    },
+    "basket-2-duo": {
+      "codepoint": 57369,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "basket2Duo"
+    },
+    "battery-medium": {
+      "codepoint": 57370,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "batteryMedium"
+    },
+    "battery-medium-duo": {
+      "codepoint": 57371,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "batteryMediumDuo"
+    },
+    "beach-2": {
+      "codepoint": 57372,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "beach2"
+    },
+    "beach-2-duo": {
+      "codepoint": 57373,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "beach2Duo"
+    },
+    "bluetooth": {
+      "codepoint": 57374,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "bluetooth"
+    },
+    "bluetooth-duo": {
+      "codepoint": 57375,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "bluetoothDuo"
+    },
+    "bomb": {
+      "codepoint": 57376,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "bomb"
+    },
+    "bomb-duo": {
+      "codepoint": 57377,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "bombDuo"
+    },
+    "boss-6": {
+      "codepoint": 57378,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "boss6"
+    },
+    "boss-6-duo": {
+      "codepoint": 57379,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "boss6Duo"
+    },
+    "box-open": {
+      "codepoint": 57380,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "boxOpen"
+    },
+    "box-open-duo": {
+      "codepoint": 57381,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "boxOpenDuo"
+    },
+    "box-trolley": {
+      "codepoint": 57382,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "boxTrolley"
+    },
+    "box-trolley-duo": {
+      "codepoint": 57383,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "boxTrolleyDuo"
+    },
+    "briefcase": {
+      "codepoint": 57384,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "briefcase"
+    },
+    "briefcase-duo": {
+      "codepoint": 57385,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "briefcaseDuo"
+    },
+    "bullhorn": {
+      "codepoint": 57386,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "bullhorn"
+    },
+    "bullhorn-duo": {
+      "codepoint": 57387,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "bullhornDuo"
+    },
+    "businessman-globe": {
+      "codepoint": 57388,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "businessmanGlobe"
+    },
+    "businessman-globe-duo": {
+      "codepoint": 57389,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "businessmanGlobeDuo"
+    },
+    "businesswoman-3": {
+      "codepoint": 57390,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "businesswoman3"
+    },
+    "businesswoman-3-duo": {
+      "codepoint": 57391,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "businesswoman3Duo"
+    },
+    "butterfly": {
+      "codepoint": 57392,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "butterfly"
+    },
+    "butterfly-duo": {
+      "codepoint": 57393,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "butterflyDuo"
+    },
+    "cable-car": {
+      "codepoint": 57394,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "cableCar"
+    },
+    "cable-car-duo": {
+      "codepoint": 57395,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "cableCarDuo"
+    },
+    "camera-front": {
+      "codepoint": 57396,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "cameraFront"
+    },
+    "camera-front-duo": {
+      "codepoint": 57397,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "cameraFrontDuo"
+    },
+    "captain-shield": {
+      "codepoint": 57398,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "captainShield"
+    },
+    "captain-shield-duo": {
+      "codepoint": 57399,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "captainShieldDuo"
+    },
+    "car-list": {
+      "codepoint": 57400,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "carList"
+    },
+    "car-list-duo": {
+      "codepoint": 57401,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "carListDuo"
+    },
+    "cart": {
+      "codepoint": 57402,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "cart"
+    },
+    "cart-duo": {
+      "codepoint": 57403,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "cartDuo"
+    },
+    "castle": {
+      "codepoint": 57404,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "castle"
+    },
+    "castle-duo": {
+      "codepoint": 57405,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "castleDuo"
+    },
+    "certificate-2": {
+      "codepoint": 57406,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "certificate2"
+    },
+    "certificate-2-duo": {
+      "codepoint": 57407,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "certificate2Duo"
+    },
+    "chair-4": {
+      "codepoint": 57408,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "chair4"
+    },
+    "chair-4-duo": {
+      "codepoint": 57409,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "chair4Duo"
+    },
+    "chalkboard": {
+      "codepoint": 57410,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "chalkboard"
+    },
+    "chalkboard-duo": {
+      "codepoint": 57411,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "chalkboardDuo"
+    },
+    "chart-pie": {
+      "codepoint": 57412,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "chartPie"
+    },
+    "chart-pie-duo": {
+      "codepoint": 57413,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "chartPieDuo"
+    },
+    "chicken": {
+      "codepoint": 57414,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "chicken"
+    },
+    "chicken-duo": {
+      "codepoint": 57415,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "chickenDuo"
+    },
+    "christmas-tree": {
+      "codepoint": 57416,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "christmasTree"
+    },
+    "christmas-tree-duo": {
+      "codepoint": 57417,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "christmasTreeDuo"
+    },
+    "cigarette": {
+      "codepoint": 57418,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "cigarette"
+    },
+    "cigarette-duo": {
+      "codepoint": 57419,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "cigaretteDuo"
+    },
+    "clipboard-2": {
+      "codepoint": 57420,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "clipboard2"
+    },
+    "clipboard-2-duo": {
+      "codepoint": 57421,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "clipboard2Duo"
+    },
+    "cocktail": {
+      "codepoint": 57422,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "cocktail"
+    },
+    "cocktail-duo": {
+      "codepoint": 57423,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "cocktailDuo"
+    },
+    "coding-file-2": {
+      "codepoint": 57424,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "codingFile2"
+    },
+    "coding-file-2-duo": {
+      "codepoint": 57425,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "codingFile2Duo"
+    },
+    "coffee-paper-glass": {
+      "codepoint": 57426,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "coffeePaperGlass"
+    },
+    "coffee-paper-glass-duo": {
+      "codepoint": 57427,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "coffeePaperGlassDuo"
+    },
+    "cone": {
+      "codepoint": 57428,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "cone"
+    },
+    "cone-duo": {
+      "codepoint": 57429,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "coneDuo"
+    },
+    "construction-blueprint": {
+      "codepoint": 57430,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "constructionBlueprint"
+    },
+    "construction-blueprint-duo": {
+      "codepoint": 57431,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "constructionBlueprintDuo"
+    },
+    "construction-worker-4": {
+      "codepoint": 57432,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "constructionWorker4"
+    },
+    "construction-worker-4-duo": {
+      "codepoint": 57433,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "constructionWorker4Duo"
+    },
+    "conversion": {
+      "codepoint": 57434,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "conversion"
+    },
+    "conversion-duo": {
+      "codepoint": 57435,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "conversionDuo"
+    },
+    "coupons": {
+      "codepoint": 57436,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "coupons"
+    },
+    "coupons-duo": {
+      "codepoint": 57437,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "couponsDuo"
+    },
+    "crab": {
+      "codepoint": 57438,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "crab"
+    },
+    "crab-duo": {
+      "codepoint": 57439,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "crabDuo"
+    },
+    "credit-card-3": {
+      "codepoint": 57440,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "creditCard3"
+    },
+    "credit-card-3-duo": {
+      "codepoint": 57441,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "creditCard3Duo"
+    },
+    "crosshair": {
+      "codepoint": 57442,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "crosshair"
+    },
+    "crosshair-duo": {
+      "codepoint": 57443,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "crosshairDuo"
+    },
+    "dartboard": {
+      "codepoint": 57444,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "dartboard"
+    },
+    "dartboard-duo": {
+      "codepoint": 57445,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "dartboardDuo"
+    },
+    "data-transfer": {
+      "codepoint": 57446,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "dataTransfer"
+    },
+    "data-transfer-duo": {
+      "codepoint": 57447,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "dataTransferDuo"
+    },
+    "databse-network": {
+      "codepoint": 57448,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "databseNetwork"
+    },
+    "databse-network-duo": {
+      "codepoint": 57449,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "databseNetworkDuo"
+    },
+    "delivery": {
+      "codepoint": 57450,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "delivery"
+    },
+    "delivery-duo": {
+      "codepoint": 57451,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "deliveryDuo"
+    },
+    "dices": {
+      "codepoint": 57452,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "dices"
+    },
+    "dices-duo": {
+      "codepoint": 57453,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "dicesDuo"
+    },
+    "donut": {
+      "codepoint": 57454,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "donut"
+    },
+    "donut-duo": {
+      "codepoint": 57455,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "donutDuo"
+    },
+    "download-cloud": {
+      "codepoint": 57456,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "downloadCloud"
+    },
+    "download-cloud-duo": {
+      "codepoint": 57457,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "downloadCloudDuo"
+    },
+    "drakkar": {
+      "codepoint": 57458,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "drakkar"
+    },
+    "drakkar-duo": {
+      "codepoint": 57459,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "drakkarDuo"
+    },
+    "drawer-2": {
+      "codepoint": 57460,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "drawer2"
+    },
+    "drawer-2-duo": {
+      "codepoint": 57461,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "drawer2Duo"
+    },
+    "drum": {
+      "codepoint": 57462,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "drum"
+    },
+    "drum-duo": {
+      "codepoint": 57463,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "drumDuo"
+    },
+    "eco-tag": {
+      "codepoint": 57464,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "ecoTag"
+    },
+    "eco-tag-duo": {
+      "codepoint": 57465,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "ecoTagDuo"
+    },
+    "education-globe": {
+      "codepoint": 57466,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "educationGlobe"
+    },
+    "education-globe-duo": {
+      "codepoint": 57467,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "educationGlobeDuo"
+    },
+    "enter-key": {
+      "codepoint": 57468,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "enterKey"
+    },
+    "enter-key-duo": {
+      "codepoint": 57469,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "enterKeyDuo"
+    },
+    "excavator": {
+      "codepoint": 57470,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "excavator"
+    },
+    "excavator-duo": {
+      "codepoint": 57471,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "excavatorDuo"
+    },
+    "eyeglasses": {
+      "codepoint": 57472,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "eyeglasses"
+    },
+    "eyeglasses-duo": {
+      "codepoint": 57473,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "eyeglassesDuo"
+    },
+    "farm": {
+      "codepoint": 57474,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "farm"
+    },
+    "farm-duo": {
+      "codepoint": 57475,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "farmDuo"
+    },
+    "favorite-file": {
+      "codepoint": 57476,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "favoriteFile"
+    },
+    "favorite-file-duo": {
+      "codepoint": 57477,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "favoriteFileDuo"
+    },
+    "filter": {
+      "codepoint": 57478,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "filter"
+    },
+    "filter-duo": {
+      "codepoint": 57479,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "filterDuo"
+    },
+    "fireman-2": {
+      "codepoint": 57480,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "fireman2"
+    },
+    "fireman-2-duo": {
+      "codepoint": 57481,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "fireman2Duo"
+    },
+    "frightened-smiley": {
+      "codepoint": 57482,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "frightenedSmiley"
+    },
+    "frightened-smiley-duo": {
+      "codepoint": 57483,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "frightenedSmileyDuo"
+    },
+    "glasses": {
+      "codepoint": 57484,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "glasses"
+    },
+    "glasses-duo": {
+      "codepoint": 57485,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "glassesDuo"
+    },
+    "graph-magnifier": {
+      "codepoint": 57486,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "graphMagnifier"
+    },
+    "graph-magnifier-duo": {
+      "codepoint": 57487,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "graphMagnifierDuo"
+    },
+    "grinder": {
+      "codepoint": 57488,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "grinder"
+    },
+    "grinder-duo": {
+      "codepoint": 57489,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "grinderDuo"
+    },
+    "hammer": {
+      "codepoint": 57490,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "hammer"
+    },
+    "hammer-duo": {
+      "codepoint": 57491,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "hammerDuo"
+    },
+    "harp": {
+      "codepoint": 57492,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "harp"
+    },
+    "harp-duo": {
+      "codepoint": 57493,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "harpDuo"
+    },
+    "hat-2": {
+      "codepoint": 57494,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "hat2"
+    },
+    "hat-2-duo": {
+      "codepoint": 57495,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "hat2Duo"
+    },
+    "headset-2": {
+      "codepoint": 57496,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "headset2"
+    },
+    "headset-2-duo": {
+      "codepoint": 57497,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "headset2Duo"
+    },
+    "heart-key": {
+      "codepoint": 57498,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "heartKey"
+    },
+    "heart-key-duo": {
+      "codepoint": 57499,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "heartKeyDuo"
+    },
+    "heart-watch": {
+      "codepoint": 57500,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "heartWatch"
+    },
+    "heart-watch-duo": {
+      "codepoint": 57501,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "heartWatchDuo"
+    },
+    "hook": {
+      "codepoint": 57502,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "hook"
+    },
+    "hook-duo": {
+      "codepoint": 57503,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "hookDuo"
+    },
+    "house-location": {
+      "codepoint": 57504,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "houseLocation"
+    },
+    "house-location-duo": {
+      "codepoint": 57505,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "houseLocationDuo"
+    },
+    "image-file": {
+      "codepoint": 57506,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "imageFile"
+    },
+    "image-file-duo": {
+      "codepoint": 57507,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "imageFileDuo"
+    },
+    "joystick": {
+      "codepoint": 57508,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "joystick"
+    },
+    "joystick-duo": {
+      "codepoint": 57509,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "joystickDuo"
+    },
+    "keyboard": {
+      "codepoint": 57510,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "keyboard"
+    },
+    "keyboard-duo": {
+      "codepoint": 57511,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "keyboardDuo"
+    },
+    "ladybug": {
+      "codepoint": 57512,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "ladybug"
+    },
+    "ladybug-duo": {
+      "codepoint": 57513,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "ladybugDuo"
+    },
+    "lamp": {
+      "codepoint": 57514,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "lamp"
+    },
+    "lamp-duo": {
+      "codepoint": 57515,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "lampDuo"
+    },
+    "laptop": {
+      "codepoint": 57516,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "laptop"
+    },
+    "laptop-duo": {
+      "codepoint": 57517,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "laptopDuo"
+    },
+    "light-bulb": {
+      "codepoint": 57518,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "lightBulb"
+    },
+    "light-bulb-duo": {
+      "codepoint": 57519,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "lightBulbDuo"
+    },
+    "lighter": {
+      "codepoint": 57520,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "lighter"
+    },
+    "lighter-duo": {
+      "codepoint": 57521,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "lighterDuo"
+    },
+    "lockers": {
+      "codepoint": 57522,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "lockers"
+    },
+    "lockers-duo": {
+      "codepoint": 57523,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "lockersDuo"
+    },
+    "love": {
+      "codepoint": 57524,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "love"
+    },
+    "love-duo": {
+      "codepoint": 57525,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "loveDuo"
+    },
+    "love-smiley": {
+      "codepoint": 57526,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "loveSmiley"
+    },
+    "love-smiley-duo": {
+      "codepoint": 57527,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "loveSmileyDuo"
+    },
+    "luggage-cart": {
+      "codepoint": 57528,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "luggageCart"
+    },
+    "luggage-cart-duo": {
+      "codepoint": 57529,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "luggageCartDuo"
+    },
+    "mac-signal": {
+      "codepoint": 57530,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "macSignal"
+    },
+    "mac-signal-duo": {
+      "codepoint": 57531,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "macSignalDuo"
+    },
+    "magic-wand": {
+      "codepoint": 57532,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "magicWand"
+    },
+    "magic-wand-duo": {
+      "codepoint": 57533,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "magicWandDuo"
+    },
+    "man-12": {
+      "codepoint": 57534,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "man12"
+    },
+    "man-12-duo": {
+      "codepoint": 57535,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "man12Duo"
+    },
+    "man-15": {
+      "codepoint": 57536,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "man15"
+    },
+    "man-15-duo": {
+      "codepoint": 57537,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "man15Duo"
+    },
+    "man-18": {
+      "codepoint": 57538,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "man18"
+    },
+    "man-18-duo": {
+      "codepoint": 57539,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "man18Duo"
+    },
+    "map": {
+      "codepoint": 57540,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "map"
+    },
+    "map-duo": {
+      "codepoint": 57541,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "mapDuo"
+    },
+    "map-pin": {
+      "codepoint": 57542,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "mapPin"
+    },
+    "map-pin-duo": {
+      "codepoint": 57543,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "mapPinDuo"
+    },
+    "medicine": {
+      "codepoint": 57544,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "medicine"
+    },
+    "medicine-duo": {
+      "codepoint": 57545,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "medicineDuo"
+    },
+    "meteor": {
+      "codepoint": 57546,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "meteor"
+    },
+    "meteor-duo": {
+      "codepoint": 57547,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "meteorDuo"
+    },
+    "microphone-2": {
+      "codepoint": 57548,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "microphone2"
+    },
+    "microphone-2-duo": {
+      "codepoint": 57549,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "microphone2Duo"
+    },
+    "microphone-3": {
+      "codepoint": 57550,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "microphone3"
+    },
+    "microphone-3-duo": {
+      "codepoint": 57551,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "microphone3Duo"
+    },
+    "microwave": {
+      "codepoint": 57552,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "microwave"
+    },
+    "microwave-duo": {
+      "codepoint": 57553,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "microwaveDuo"
+    },
+    "money-atm": {
+      "codepoint": 57554,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "moneyAtm"
+    },
+    "money-atm-duo": {
+      "codepoint": 57555,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "moneyAtmDuo"
+    },
+    "money-graph": {
+      "codepoint": 57556,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "moneyGraph"
+    },
+    "money-graph-duo": {
+      "codepoint": 57557,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "moneyGraphDuo"
+    },
+    "money-letter": {
+      "codepoint": 57558,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "moneyLetter"
+    },
+    "money-letter-duo": {
+      "codepoint": 57559,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "moneyLetterDuo"
+    },
+    "motorbike": {
+      "codepoint": 57560,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "motorbike"
+    },
+    "motorbike-duo": {
+      "codepoint": 57561,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "motorbikeDuo"
+    },
+    "mountain": {
+      "codepoint": 57562,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "mountain"
+    },
+    "mountain-duo": {
+      "codepoint": 57563,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "mountainDuo"
+    },
+    "movie-file-3": {
+      "codepoint": 57564,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "movieFile3"
+    },
+    "movie-file-3-duo": {
+      "codepoint": 57565,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "movieFile3Duo"
+    },
+    "movie-film": {
+      "codepoint": 57566,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "movieFilm"
+    },
+    "movie-film-duo": {
+      "codepoint": 57567,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "movieFilmDuo"
+    },
+    "nail-varnish": {
+      "codepoint": 57568,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "nailVarnish"
+    },
+    "nail-varnish-duo": {
+      "codepoint": 57569,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "nailVarnishDuo"
+    },
+    "newspaper": {
+      "codepoint": 57570,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "newspaper"
+    },
+    "newspaper-duo": {
+      "codepoint": 57571,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "newspaperDuo"
+    },
+    "nuclear-mushroom": {
+      "codepoint": 57572,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "nuclearMushroom"
+    },
+    "nuclear-mushroom-duo": {
+      "codepoint": 57573,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "nuclearMushroomDuo"
+    },
+    "oven-glove": {
+      "codepoint": 57574,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "ovenGlove"
+    },
+    "oven-glove-duo": {
+      "codepoint": 57575,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "ovenGloveDuo"
+    },
+    "oxygen-tank": {
+      "codepoint": 57576,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "oxygenTank"
+    },
+    "oxygen-tank-duo": {
+      "codepoint": 57577,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "oxygenTankDuo"
+    },
+    "party-poppers": {
+      "codepoint": 57578,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "partyPoppers"
+    },
+    "party-poppers-duo": {
+      "codepoint": 57579,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "partyPoppersDuo"
+    },
+    "peace": {
+      "codepoint": 57580,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "peace"
+    },
+    "peace-duo": {
+      "codepoint": 57581,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "peaceDuo"
+    },
+    "pen": {
+      "codepoint": 57582,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "pen"
+    },
+    "pen-duo": {
+      "codepoint": 57583,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "penDuo"
+    },
+    "pencil-2": {
+      "codepoint": 57584,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "pencil2"
+    },
+    "pencil-2-duo": {
+      "codepoint": 57585,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "pencil2Duo"
+    },
+    "pencil-ruler-2": {
+      "codepoint": 57586,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "pencilRuler2"
+    },
+    "pencil-ruler-2-duo": {
+      "codepoint": 57587,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "pencilRuler2Duo"
+    },
+    "perfume": {
+      "codepoint": 57588,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "perfume"
+    },
+    "perfume-duo": {
+      "codepoint": 57589,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "perfumeDuo"
+    },
+    "photo-file-2": {
+      "codepoint": 57590,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "photoFile2"
+    },
+    "photo-file-2-duo": {
+      "codepoint": 57591,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "photoFile2Duo"
+    },
+    "pine-tree": {
+      "codepoint": 57592,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "pineTree"
+    },
+    "pine-tree-duo": {
+      "codepoint": 57593,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "pineTreeDuo"
+    },
+    "play": {
+      "codepoint": 57594,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "play"
+    },
+    "play-duo": {
+      "codepoint": 57595,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "playDuo"
+    },
+    "plug": {
+      "codepoint": 57596,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "plug"
+    },
+    "plug-duo": {
+      "codepoint": 57597,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "plugDuo"
+    },
+    "podium": {
+      "codepoint": 57598,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "podium"
+    },
+    "podium-duo": {
+      "codepoint": 57599,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "podiumDuo"
+    },
+    "pointer": {
+      "codepoint": 57600,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "pointer"
+    },
+    "pointer-duo": {
+      "codepoint": 57601,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "pointerDuo"
+    },
+    "pokeball": {
+      "codepoint": 57602,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "pokeball"
+    },
+    "pokeball-duo": {
+      "codepoint": 57603,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "pokeballDuo"
+    },
+    "popcorn": {
+      "codepoint": 57604,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "popcorn"
+    },
+    "popcorn-duo": {
+      "codepoint": 57605,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "popcornDuo"
+    },
+    "postcard": {
+      "codepoint": 57606,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "postcard"
+    },
+    "postcard-duo": {
+      "codepoint": 57607,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "postcardDuo"
+    },
+    "pounds-coin": {
+      "codepoint": 57608,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "poundsCoin"
+    },
+    "pounds-coin-duo": {
+      "codepoint": 57609,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "poundsCoinDuo"
+    },
+    "power": {
+      "codepoint": 57610,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "power"
+    },
+    "power-duo": {
+      "codepoint": 57611,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "powerDuo"
+    },
+    "predator": {
+      "codepoint": 57612,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "predator"
+    },
+    "predator-duo": {
+      "codepoint": 57613,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "predatorDuo"
+    },
+    "prism-2": {
+      "codepoint": 57614,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "prism2"
+    },
+    "prism-2-duo": {
+      "codepoint": 57615,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "prism2Duo"
+    },
+    "quill-paper": {
+      "codepoint": 57616,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "quillPaper"
+    },
+    "quill-paper-duo": {
+      "codepoint": 57617,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "quillPaperDuo"
+    },
+    "r2d2": {
+      "codepoint": 57618,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "r2d2"
+    },
+    "r2d2-duo": {
+      "codepoint": 57619,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "r2d2Duo"
+    },
+    "rainbow": {
+      "codepoint": 57620,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "rainbow"
+    },
+    "rainbow-duo": {
+      "codepoint": 57621,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "rainbowDuo"
+    },
+    "rapper": {
+      "codepoint": 57622,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "rapper"
+    },
+    "rapper-duo": {
+      "codepoint": 57623,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "rapperDuo"
+    },
+    "receptionist": {
+      "codepoint": 57624,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "receptionist"
+    },
+    "receptionist-duo": {
+      "codepoint": 57625,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "receptionistDuo"
+    },
+    "reindeer": {
+      "codepoint": 57626,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "reindeer"
+    },
+    "reindeer-duo": {
+      "codepoint": 57627,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "reindeerDuo"
+    },
+    "robot": {
+      "codepoint": 57628,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "robot"
+    },
+    "robot-duo": {
+      "codepoint": 57629,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "robotDuo"
+    },
+    "santa": {
+      "codepoint": 57630,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "santa"
+    },
+    "santa-duo": {
+      "codepoint": 57631,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "santaDuo"
+    },
+    "scale-weight": {
+      "codepoint": 57632,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "scaleWeight"
+    },
+    "scale-weight-duo": {
+      "codepoint": 57633,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "scaleWeightDuo"
+    },
+    "script-paper": {
+      "codepoint": 57634,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "scriptPaper"
+    },
+    "script-paper-duo": {
+      "codepoint": 57635,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "scriptPaperDuo"
+    },
+    "sea": {
+      "codepoint": 57636,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "sea"
+    },
+    "sea-duo": {
+      "codepoint": 57637,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "seaDuo"
+    },
+    "servers": {
+      "codepoint": 57638,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "servers"
+    },
+    "servers-duo": {
+      "codepoint": 57639,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "serversDuo"
+    },
+    "service-bell": {
+      "codepoint": 57640,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "serviceBell"
+    },
+    "service-bell-duo": {
+      "codepoint": 57641,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "serviceBellDuo"
+    },
+    "settings-4": {
+      "codepoint": 57642,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "settings4"
+    },
+    "settings-4-duo": {
+      "codepoint": 57643,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "settings4Duo"
+    },
+    "shopping-4": {
+      "codepoint": 57644,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "shopping4"
+    },
+    "shopping-4-duo": {
+      "codepoint": 57645,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "shopping4Duo"
+    },
+    "skate": {
+      "codepoint": 57646,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "skate"
+    },
+    "skate-duo": {
+      "codepoint": 57647,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "skateDuo"
+    },
+    "smartphone": {
+      "codepoint": 57648,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "smartphone"
+    },
+    "smartphone-duo": {
+      "codepoint": 57649,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "smartphoneDuo"
+    },
+    "smartphone-forbiden": {
+      "codepoint": 57650,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "smartphoneForbiden"
+    },
+    "smartphone-forbiden-duo": {
+      "codepoint": 57651,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "smartphoneForbidenDuo"
+    },
+    "smartphone-qrcode": {
+      "codepoint": 57652,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "smartphoneQrcode"
+    },
+    "smartphone-qrcode-duo": {
+      "codepoint": 57653,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "smartphoneQrcodeDuo"
+    },
+    "smartphone-rotate": {
+      "codepoint": 57654,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "smartphoneRotate"
+    },
+    "smartphone-rotate-duo": {
+      "codepoint": 57655,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "smartphoneRotateDuo"
+    },
+    "sneakers-3": {
+      "codepoint": 57656,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "sneakers3"
+    },
+    "sneakers-3-duo": {
+      "codepoint": 57657,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "sneakers3Duo"
+    },
+    "soccer-field": {
+      "codepoint": 57658,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "soccerField"
+    },
+    "soccer-field-duo": {
+      "codepoint": 57659,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "soccerFieldDuo"
+    },
+    "sofa-3": {
+      "codepoint": 57660,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "sofa3"
+    },
+    "sofa-3-duo": {
+      "codepoint": 57661,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "sofa3Duo"
+    },
+    "soldier": {
+      "codepoint": 57662,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "soldier"
+    },
+    "soldier-duo": {
+      "codepoint": 57663,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "soldierDuo"
+    },
+    "space-shuttle": {
+      "codepoint": 57664,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "spaceShuttle"
+    },
+    "space-shuttle-duo": {
+      "codepoint": 57665,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "spaceShuttleDuo"
+    },
+    "speaker": {
+      "codepoint": 57666,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "speaker"
+    },
+    "speaker-duo": {
+      "codepoint": 57667,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "speakerDuo"
+    },
+    "spongebob": {
+      "codepoint": 57668,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "spongebob"
+    },
+    "spongebob-duo": {
+      "codepoint": 57669,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "spongebobDuo"
+    },
+    "sprout": {
+      "codepoint": 57670,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "sprout"
+    },
+    "sprout-duo": {
+      "codepoint": 57671,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "sproutDuo"
+    },
+    "stamp-paper": {
+      "codepoint": 57672,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "stampPaper"
+    },
+    "stamp-paper-duo": {
+      "codepoint": 57673,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "stampPaperDuo"
+    },
+    "start": {
+      "codepoint": 57674,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "start"
+    },
+    "start-duo": {
+      "codepoint": 57675,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "startDuo"
+    },
+    "steering-wheel": {
+      "codepoint": 57676,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "steeringWheel"
+    },
+    "steering-wheel-duo": {
+      "codepoint": 57677,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "steeringWheelDuo"
+    },
+    "stethoscope": {
+      "codepoint": 57678,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "stethoscope"
+    },
+    "stethoscope-duo": {
+      "codepoint": 57679,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "stethoscopeDuo"
+    },
+    "strawberry": {
+      "codepoint": 57680,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "strawberry"
+    },
+    "strawberry-duo": {
+      "codepoint": 57681,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "strawberryDuo"
+    },
+    "student-woman-2": {
+      "codepoint": 57682,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "studentWoman2"
+    },
+    "student-woman-2-duo": {
+      "codepoint": 57683,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "studentWoman2Duo"
+    },
+    "taxi-2": {
+      "codepoint": 57684,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "taxi2"
+    },
+    "taxi-2-duo": {
+      "codepoint": 57685,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "taxi2Duo"
+    },
+    "tea-cup": {
+      "codepoint": 57686,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "teaCup"
+    },
+    "tea-cup-duo": {
+      "codepoint": 57687,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "teaCupDuo"
+    },
+    "tease-smiley": {
+      "codepoint": 57688,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "teaseSmiley"
+    },
+    "tease-smiley-duo": {
+      "codepoint": 57689,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "teaseSmileyDuo"
+    },
+    "telemarketer-woman": {
+      "codepoint": 57690,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "telemarketerWoman"
+    },
+    "telemarketer-woman-duo": {
+      "codepoint": 57691,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "telemarketerWomanDuo"
+    },
+    "test-tube": {
+      "codepoint": 57692,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "testTube"
+    },
+    "test-tube-duo": {
+      "codepoint": 57693,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "testTubeDuo"
+    },
+    "text-file": {
+      "codepoint": 57694,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "textFile"
+    },
+    "text-file-duo": {
+      "codepoint": 57695,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "textFileDuo"
+    },
+    "theater": {
+      "codepoint": 57696,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "theater"
+    },
+    "theater-duo": {
+      "codepoint": 57697,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "theaterDuo"
+    },
+    "towel": {
+      "codepoint": 57698,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "towel"
+    },
+    "towel-duo": {
+      "codepoint": 57699,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "towelDuo"
+    },
+    "traffic-light": {
+      "codepoint": 57700,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "trafficLight"
+    },
+    "traffic-light-duo": {
+      "codepoint": 57701,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "trafficLightDuo"
+    },
+    "transfer-cloud": {
+      "codepoint": 57702,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "transferCloud"
+    },
+    "transfer-cloud-duo": {
+      "codepoint": 57703,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "transferCloudDuo"
+    },
+    "truck": {
+      "codepoint": 57704,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "truck"
+    },
+    "truck-duo": {
+      "codepoint": 57705,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "truckDuo"
+    },
+    "truck-front": {
+      "codepoint": 57706,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "truckFront"
+    },
+    "truck-front-duo": {
+      "codepoint": 57707,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "truckFrontDuo"
+    },
+    "ufo": {
+      "codepoint": 57708,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "ufo"
+    },
+    "ufo-duo": {
+      "codepoint": 57709,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "ufoDuo"
+    },
+    "upload-cloud-computer": {
+      "codepoint": 57710,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "uploadCloudComputer"
+    },
+    "upload-cloud-computer-duo": {
+      "codepoint": 57711,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "uploadCloudComputerDuo"
+    },
+    "urban-woman": {
+      "codepoint": 57712,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "urbanWoman"
+    },
+    "urban-woman-duo": {
+      "codepoint": 57713,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "urbanWomanDuo"
+    },
+    "vespa": {
+      "codepoint": 57714,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "vespa"
+    },
+    "vespa-duo": {
+      "codepoint": 57715,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "vespaDuo"
+    },
+    "wall-e": {
+      "codepoint": 57716,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "wallE"
+    },
+    "wall-e-duo": {
+      "codepoint": 57717,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "wallEDuo"
+    },
+    "wallet": {
+      "codepoint": 57718,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "wallet"
+    },
+    "wallet-duo": {
+      "codepoint": 57719,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "walletDuo"
+    },
+    "webcam": {
+      "codepoint": 57720,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "webcam"
+    },
+    "webcam-duo": {
+      "codepoint": 57721,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "webcamDuo"
+    },
+    "wii-remote": {
+      "codepoint": 57722,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "wiiRemote"
+    },
+    "wii-remote-duo": {
+      "codepoint": 57723,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "wiiRemoteDuo"
+    },
+    "wind-flag": {
+      "codepoint": 57724,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "windFlag"
+    },
+    "wind-flag-duo": {
+      "codepoint": 57725,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "windFlagDuo"
+    },
+    "wind-vane": {
+      "codepoint": 57726,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "windVane"
+    },
+    "wind-vane-duo": {
+      "codepoint": 57727,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "windVaneDuo"
+    },
+    "wind-wheel": {
+      "codepoint": 57728,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "windWheel"
+    },
+    "wind-wheel-duo": {
+      "codepoint": 57729,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "windWheelDuo"
+    },
+    "windows-coding": {
+      "codepoint": 57730,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "windowsCoding"
+    },
+    "windows-coding-duo": {
+      "codepoint": 57731,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "windowsCodingDuo"
+    },
+    "woman-15": {
+      "codepoint": 57732,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "woman15"
+    },
+    "woman-15-duo": {
+      "codepoint": 57733,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "woman15Duo"
+    },
+    "wrench": {
+      "codepoint": 57734,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "wrench"
+    },
+    "wrench-2": {
+      "codepoint": 57735,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "wrench2"
+    },
+    "wrench-2-duo": {
+      "codepoint": 57736,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "wrench2Duo"
+    },
+    "wrench-duo": {
+      "codepoint": 57737,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "wrenchDuo"
+    },
+    "yacht": {
+      "codepoint": 57738,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "yacht"
+    },
+    "yacht-duo": {
+      "codepoint": 57739,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "yachtDuo"
+    },
+    "yen-coin": {
+      "codepoint": 57740,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "yenCoin"
+    },
+    "yen-coin-duo": {
+      "codepoint": 57741,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "yenCoinDuo"
+    },
+    "yin-yang": {
+      "codepoint": 57742,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "yinYang"
+    },
+    "yin-yang-duo": {
+      "codepoint": 57743,
+      "fontFamily": "StreamlineKameleonColor",
+      "identifier": "yinYangDuo"
+    }
+  }
+}

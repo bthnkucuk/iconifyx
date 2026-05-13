@@ -1,0 +1,1535 @@
+{
+  "schemaVersion": 1,
+  "prefix": "zondicons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_zondicons",
+  "info": {
+    "name": "Zondicons",
+    "author": {
+      "name": "Steve Schoger",
+      "url": "https://github.com/dukestreetstudio/zondicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/dukestreetstudio/zondicons/blob/master/LICENSE"
+    },
+    "total": 301
+  },
+  "fonts": [
+    {
+      "family": "Zondicons",
+      "nextCodepoint": 57645,
+      "iconCount": 301
+    }
+  ],
+  "icons": {
+    "add-outline": {
+      "codepoint": 57344,
+      "fontFamily": "Zondicons",
+      "identifier": "addOutline"
+    },
+    "add-solid": {
+      "codepoint": 57345,
+      "fontFamily": "Zondicons",
+      "identifier": "addSolid"
+    },
+    "adjust": {
+      "codepoint": 57346,
+      "fontFamily": "Zondicons",
+      "identifier": "adjust"
+    },
+    "airplane": {
+      "codepoint": 57347,
+      "fontFamily": "Zondicons",
+      "identifier": "airplane"
+    },
+    "album": {
+      "codepoint": 57348,
+      "fontFamily": "Zondicons",
+      "identifier": "album"
+    },
+    "align-center": {
+      "codepoint": 57349,
+      "fontFamily": "Zondicons",
+      "identifier": "alignCenter"
+    },
+    "align-justified": {
+      "codepoint": 57350,
+      "fontFamily": "Zondicons",
+      "identifier": "alignJustified"
+    },
+    "align-left": {
+      "codepoint": 57351,
+      "fontFamily": "Zondicons",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57352,
+      "fontFamily": "Zondicons",
+      "identifier": "alignRight"
+    },
+    "anchor": {
+      "codepoint": 57353,
+      "fontFamily": "Zondicons",
+      "identifier": "anchor"
+    },
+    "announcement": {
+      "codepoint": 57354,
+      "fontFamily": "Zondicons",
+      "identifier": "announcement"
+    },
+    "apparel": {
+      "codepoint": 57355,
+      "fontFamily": "Zondicons",
+      "identifier": "apparel"
+    },
+    "arrow-down": {
+      "codepoint": 57356,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowDown"
+    },
+    "arrow-left": {
+      "codepoint": 57357,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowLeft"
+    },
+    "arrow-outline-down": {
+      "codepoint": 57358,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowOutlineDown"
+    },
+    "arrow-outline-left": {
+      "codepoint": 57359,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowOutlineLeft"
+    },
+    "arrow-outline-right": {
+      "codepoint": 57360,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowOutlineRight"
+    },
+    "arrow-outline-up": {
+      "codepoint": 57361,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowOutlineUp"
+    },
+    "arrow-right": {
+      "codepoint": 57362,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowRight"
+    },
+    "arrow-thick-down": {
+      "codepoint": 57363,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowThickDown"
+    },
+    "arrow-thick-left": {
+      "codepoint": 57364,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowThickLeft"
+    },
+    "arrow-thick-right": {
+      "codepoint": 57365,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowThickRight"
+    },
+    "arrow-thick-up": {
+      "codepoint": 57366,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowThickUp"
+    },
+    "arrow-thin-down": {
+      "codepoint": 57367,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowThinDown"
+    },
+    "arrow-thin-left": {
+      "codepoint": 57368,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowThinLeft"
+    },
+    "arrow-thin-right": {
+      "codepoint": 57369,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowThinRight"
+    },
+    "arrow-thin-up": {
+      "codepoint": 57370,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowThinUp"
+    },
+    "arrow-up": {
+      "codepoint": 57371,
+      "fontFamily": "Zondicons",
+      "identifier": "arrowUp"
+    },
+    "artist": {
+      "codepoint": 57372,
+      "fontFamily": "Zondicons",
+      "identifier": "artist"
+    },
+    "at-symbol": {
+      "codepoint": 57373,
+      "fontFamily": "Zondicons",
+      "identifier": "atSymbol"
+    },
+    "attachment": {
+      "codepoint": 57374,
+      "fontFamily": "Zondicons",
+      "identifier": "attachment"
+    },
+    "backspace": {
+      "codepoint": 57375,
+      "fontFamily": "Zondicons",
+      "identifier": "backspace"
+    },
+    "backward": {
+      "codepoint": 57376,
+      "fontFamily": "Zondicons",
+      "identifier": "backward"
+    },
+    "backward-step": {
+      "codepoint": 57377,
+      "fontFamily": "Zondicons",
+      "identifier": "backwardStep"
+    },
+    "badge": {
+      "codepoint": 57378,
+      "fontFamily": "Zondicons",
+      "identifier": "badge"
+    },
+    "battery-full": {
+      "codepoint": 57379,
+      "fontFamily": "Zondicons",
+      "identifier": "batteryFull"
+    },
+    "battery-half": {
+      "codepoint": 57380,
+      "fontFamily": "Zondicons",
+      "identifier": "batteryHalf"
+    },
+    "battery-low": {
+      "codepoint": 57381,
+      "fontFamily": "Zondicons",
+      "identifier": "batteryLow"
+    },
+    "beverage": {
+      "codepoint": 57382,
+      "fontFamily": "Zondicons",
+      "identifier": "beverage"
+    },
+    "block": {
+      "codepoint": 57383,
+      "fontFamily": "Zondicons",
+      "identifier": "block"
+    },
+    "bluetooth": {
+      "codepoint": 57384,
+      "fontFamily": "Zondicons",
+      "identifier": "bluetooth"
+    },
+    "bolt": {
+      "codepoint": 57385,
+      "fontFamily": "Zondicons",
+      "identifier": "bolt"
+    },
+    "book-reference": {
+      "codepoint": 57386,
+      "fontFamily": "Zondicons",
+      "identifier": "bookReference"
+    },
+    "bookmark": {
+      "codepoint": 57387,
+      "fontFamily": "Zondicons",
+      "identifier": "bookmark"
+    },
+    "bookmark-copy-2": {
+      "codepoint": 57388,
+      "fontFamily": "Zondicons",
+      "identifier": "bookmarkCopy2"
+    },
+    "bookmark-copy-3": {
+      "codepoint": 57389,
+      "fontFamily": "Zondicons",
+      "identifier": "bookmarkCopy3"
+    },
+    "bookmark-outline": {
+      "codepoint": 57390,
+      "fontFamily": "Zondicons",
+      "identifier": "bookmarkOutline"
+    },
+    "bookmark-outline-add": {
+      "codepoint": 57391,
+      "fontFamily": "Zondicons",
+      "identifier": "bookmarkOutlineAdd"
+    },
+    "bookmarkcopy2": {
+      "codepoint": 57392,
+      "fontFamily": "Zondicons",
+      "identifier": "bookmarkcopy2"
+    },
+    "bookmarkcopy3": {
+      "codepoint": 57393,
+      "fontFamily": "Zondicons",
+      "identifier": "bookmarkcopy3"
+    },
+    "border-all": {
+      "codepoint": 57394,
+      "fontFamily": "Zondicons",
+      "identifier": "borderAll"
+    },
+    "border-bottom": {
+      "codepoint": 57395,
+      "fontFamily": "Zondicons",
+      "identifier": "borderBottom"
+    },
+    "border-horizontal": {
+      "codepoint": 57396,
+      "fontFamily": "Zondicons",
+      "identifier": "borderHorizontal"
+    },
+    "border-inner": {
+      "codepoint": 57397,
+      "fontFamily": "Zondicons",
+      "identifier": "borderInner"
+    },
+    "border-left": {
+      "codepoint": 57398,
+      "fontFamily": "Zondicons",
+      "identifier": "borderLeft"
+    },
+    "border-none": {
+      "codepoint": 57399,
+      "fontFamily": "Zondicons",
+      "identifier": "borderNone"
+    },
+    "border-outer": {
+      "codepoint": 57400,
+      "fontFamily": "Zondicons",
+      "identifier": "borderOuter"
+    },
+    "border-right": {
+      "codepoint": 57401,
+      "fontFamily": "Zondicons",
+      "identifier": "borderRight"
+    },
+    "border-top": {
+      "codepoint": 57402,
+      "fontFamily": "Zondicons",
+      "identifier": "borderTop"
+    },
+    "border-vertical": {
+      "codepoint": 57403,
+      "fontFamily": "Zondicons",
+      "identifier": "borderVertical"
+    },
+    "box": {
+      "codepoint": 57404,
+      "fontFamily": "Zondicons",
+      "identifier": "box"
+    },
+    "brightness-down": {
+      "codepoint": 57405,
+      "fontFamily": "Zondicons",
+      "identifier": "brightnessDown"
+    },
+    "brightness-up": {
+      "codepoint": 57406,
+      "fontFamily": "Zondicons",
+      "identifier": "brightnessUp"
+    },
+    "browser-window": {
+      "codepoint": 57407,
+      "fontFamily": "Zondicons",
+      "identifier": "browserWindow"
+    },
+    "browser-window-new": {
+      "codepoint": 57408,
+      "fontFamily": "Zondicons",
+      "identifier": "browserWindowNew"
+    },
+    "browser-window-open": {
+      "codepoint": 57409,
+      "fontFamily": "Zondicons",
+      "identifier": "browserWindowOpen"
+    },
+    "bug": {
+      "codepoint": 57410,
+      "fontFamily": "Zondicons",
+      "identifier": "bug"
+    },
+    "buoy": {
+      "codepoint": 57411,
+      "fontFamily": "Zondicons",
+      "identifier": "buoy"
+    },
+    "calculator": {
+      "codepoint": 57412,
+      "fontFamily": "Zondicons",
+      "identifier": "calculator"
+    },
+    "calendar": {
+      "codepoint": 57413,
+      "fontFamily": "Zondicons",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57414,
+      "fontFamily": "Zondicons",
+      "identifier": "camera"
+    },
+    "chart": {
+      "codepoint": 57415,
+      "fontFamily": "Zondicons",
+      "identifier": "chart"
+    },
+    "chart-bar": {
+      "codepoint": 57416,
+      "fontFamily": "Zondicons",
+      "identifier": "chartBar"
+    },
+    "chart-pie": {
+      "codepoint": 57417,
+      "fontFamily": "Zondicons",
+      "identifier": "chartPie"
+    },
+    "chat-bubble-dots": {
+      "codepoint": 57418,
+      "fontFamily": "Zondicons",
+      "identifier": "chatBubbleDots"
+    },
+    "checkmark": {
+      "codepoint": 57419,
+      "fontFamily": "Zondicons",
+      "identifier": "checkmark"
+    },
+    "checkmark-outline": {
+      "codepoint": 57420,
+      "fontFamily": "Zondicons",
+      "identifier": "checkmarkOutline"
+    },
+    "cheveron-down": {
+      "codepoint": 57421,
+      "fontFamily": "Zondicons",
+      "identifier": "cheveronDown"
+    },
+    "cheveron-left": {
+      "codepoint": 57422,
+      "fontFamily": "Zondicons",
+      "identifier": "cheveronLeft"
+    },
+    "cheveron-outline-down": {
+      "codepoint": 57423,
+      "fontFamily": "Zondicons",
+      "identifier": "cheveronOutlineDown"
+    },
+    "cheveron-outline-left": {
+      "codepoint": 57424,
+      "fontFamily": "Zondicons",
+      "identifier": "cheveronOutlineLeft"
+    },
+    "cheveron-outline-right": {
+      "codepoint": 57425,
+      "fontFamily": "Zondicons",
+      "identifier": "cheveronOutlineRight"
+    },
+    "cheveron-outline-up": {
+      "codepoint": 57426,
+      "fontFamily": "Zondicons",
+      "identifier": "cheveronOutlineUp"
+    },
+    "cheveron-right": {
+      "codepoint": 57427,
+      "fontFamily": "Zondicons",
+      "identifier": "cheveronRight"
+    },
+    "cheveron-up": {
+      "codepoint": 57428,
+      "fontFamily": "Zondicons",
+      "identifier": "cheveronUp"
+    },
+    "clipboard": {
+      "codepoint": 57429,
+      "fontFamily": "Zondicons",
+      "identifier": "clipboard"
+    },
+    "close": {
+      "codepoint": 57430,
+      "fontFamily": "Zondicons",
+      "identifier": "close"
+    },
+    "close-outline": {
+      "codepoint": 57431,
+      "fontFamily": "Zondicons",
+      "identifier": "closeOutline"
+    },
+    "close-solid": {
+      "codepoint": 57432,
+      "fontFamily": "Zondicons",
+      "identifier": "closeSolid"
+    },
+    "cloud": {
+      "codepoint": 57433,
+      "fontFamily": "Zondicons",
+      "identifier": "cloud"
+    },
+    "cloud-upload": {
+      "codepoint": 57434,
+      "fontFamily": "Zondicons",
+      "identifier": "cloudUpload"
+    },
+    "code": {
+      "codepoint": 57435,
+      "fontFamily": "Zondicons",
+      "identifier": "code"
+    },
+    "coffee": {
+      "codepoint": 57436,
+      "fontFamily": "Zondicons",
+      "identifier": "coffee"
+    },
+    "cog": {
+      "codepoint": 57437,
+      "fontFamily": "Zondicons",
+      "identifier": "cog"
+    },
+    "color-palette": {
+      "codepoint": 57438,
+      "fontFamily": "Zondicons",
+      "identifier": "colorPalette"
+    },
+    "compose": {
+      "codepoint": 57439,
+      "fontFamily": "Zondicons",
+      "identifier": "compose"
+    },
+    "computer-desktop": {
+      "codepoint": 57440,
+      "fontFamily": "Zondicons",
+      "identifier": "computerDesktop"
+    },
+    "computer-laptop": {
+      "codepoint": 57441,
+      "fontFamily": "Zondicons",
+      "identifier": "computerLaptop"
+    },
+    "conversation": {
+      "codepoint": 57442,
+      "fontFamily": "Zondicons",
+      "identifier": "conversation"
+    },
+    "copy": {
+      "codepoint": 57443,
+      "fontFamily": "Zondicons",
+      "identifier": "copy"
+    },
+    "credit-card": {
+      "codepoint": 57444,
+      "fontFamily": "Zondicons",
+      "identifier": "creditCard"
+    },
+    "currency-dollar": {
+      "codepoint": 57445,
+      "fontFamily": "Zondicons",
+      "identifier": "currencyDollar"
+    },
+    "dashboard": {
+      "codepoint": 57446,
+      "fontFamily": "Zondicons",
+      "identifier": "dashboard"
+    },
+    "date-add": {
+      "codepoint": 57447,
+      "fontFamily": "Zondicons",
+      "identifier": "dateAdd"
+    },
+    "dial-pad": {
+      "codepoint": 57448,
+      "fontFamily": "Zondicons",
+      "identifier": "dialPad"
+    },
+    "directions": {
+      "codepoint": 57449,
+      "fontFamily": "Zondicons",
+      "identifier": "directions"
+    },
+    "document": {
+      "codepoint": 57450,
+      "fontFamily": "Zondicons",
+      "identifier": "document"
+    },
+    "document-add": {
+      "codepoint": 57451,
+      "fontFamily": "Zondicons",
+      "identifier": "documentAdd"
+    },
+    "dots-horizontal-double": {
+      "codepoint": 57452,
+      "fontFamily": "Zondicons",
+      "identifier": "dotsHorizontalDouble"
+    },
+    "dots-horizontal-triple": {
+      "codepoint": 57453,
+      "fontFamily": "Zondicons",
+      "identifier": "dotsHorizontalTriple"
+    },
+    "download": {
+      "codepoint": 57454,
+      "fontFamily": "Zondicons",
+      "identifier": "download"
+    },
+    "duplicate": {
+      "codepoint": 57455,
+      "fontFamily": "Zondicons",
+      "identifier": "duplicate"
+    },
+    "edit-copy": {
+      "codepoint": 57456,
+      "fontFamily": "Zondicons",
+      "identifier": "editCopy"
+    },
+    "edit-crop": {
+      "codepoint": 57457,
+      "fontFamily": "Zondicons",
+      "identifier": "editCrop"
+    },
+    "edit-cut": {
+      "codepoint": 57458,
+      "fontFamily": "Zondicons",
+      "identifier": "editCut"
+    },
+    "edit-pencil": {
+      "codepoint": 57459,
+      "fontFamily": "Zondicons",
+      "identifier": "editPencil"
+    },
+    "education": {
+      "codepoint": 57460,
+      "fontFamily": "Zondicons",
+      "identifier": "education"
+    },
+    "envelope": {
+      "codepoint": 57461,
+      "fontFamily": "Zondicons",
+      "identifier": "envelope"
+    },
+    "exclamation-outline": {
+      "codepoint": 57462,
+      "fontFamily": "Zondicons",
+      "identifier": "exclamationOutline"
+    },
+    "exclamation-solid": {
+      "codepoint": 57463,
+      "fontFamily": "Zondicons",
+      "identifier": "exclamationSolid"
+    },
+    "explore": {
+      "codepoint": 57464,
+      "fontFamily": "Zondicons",
+      "identifier": "explore"
+    },
+    "factory": {
+      "codepoint": 57465,
+      "fontFamily": "Zondicons",
+      "identifier": "factory_"
+    },
+    "fast-forward": {
+      "codepoint": 57466,
+      "fontFamily": "Zondicons",
+      "identifier": "fastForward"
+    },
+    "fast-rewind": {
+      "codepoint": 57467,
+      "fontFamily": "Zondicons",
+      "identifier": "fastRewind"
+    },
+    "film": {
+      "codepoint": 57468,
+      "fontFamily": "Zondicons",
+      "identifier": "film"
+    },
+    "filter": {
+      "codepoint": 57469,
+      "fontFamily": "Zondicons",
+      "identifier": "filter"
+    },
+    "flag": {
+      "codepoint": 57470,
+      "fontFamily": "Zondicons",
+      "identifier": "flag"
+    },
+    "flashlight": {
+      "codepoint": 57471,
+      "fontFamily": "Zondicons",
+      "identifier": "flashlight"
+    },
+    "folder": {
+      "codepoint": 57472,
+      "fontFamily": "Zondicons",
+      "identifier": "folder"
+    },
+    "folder-outline": {
+      "codepoint": 57473,
+      "fontFamily": "Zondicons",
+      "identifier": "folderOutline"
+    },
+    "folder-outline-add": {
+      "codepoint": 57474,
+      "fontFamily": "Zondicons",
+      "identifier": "folderOutlineAdd"
+    },
+    "format-bold": {
+      "codepoint": 57475,
+      "fontFamily": "Zondicons",
+      "identifier": "formatBold"
+    },
+    "format-font-size": {
+      "codepoint": 57476,
+      "fontFamily": "Zondicons",
+      "identifier": "formatFontSize"
+    },
+    "format-italic": {
+      "codepoint": 57477,
+      "fontFamily": "Zondicons",
+      "identifier": "formatItalic"
+    },
+    "format-text-size": {
+      "codepoint": 57478,
+      "fontFamily": "Zondicons",
+      "identifier": "formatTextSize"
+    },
+    "format-underline": {
+      "codepoint": 57479,
+      "fontFamily": "Zondicons",
+      "identifier": "formatUnderline"
+    },
+    "forward": {
+      "codepoint": 57480,
+      "fontFamily": "Zondicons",
+      "identifier": "forward"
+    },
+    "forward-step": {
+      "codepoint": 57481,
+      "fontFamily": "Zondicons",
+      "identifier": "forwardStep"
+    },
+    "gift": {
+      "codepoint": 57482,
+      "fontFamily": "Zondicons",
+      "identifier": "gift"
+    },
+    "globe": {
+      "codepoint": 57483,
+      "fontFamily": "Zondicons",
+      "identifier": "globe"
+    },
+    "hand-stop": {
+      "codepoint": 57484,
+      "fontFamily": "Zondicons",
+      "identifier": "handStop"
+    },
+    "hard-drive": {
+      "codepoint": 57485,
+      "fontFamily": "Zondicons",
+      "identifier": "hardDrive"
+    },
+    "headphones": {
+      "codepoint": 57486,
+      "fontFamily": "Zondicons",
+      "identifier": "headphones"
+    },
+    "heart": {
+      "codepoint": 57487,
+      "fontFamily": "Zondicons",
+      "identifier": "heart"
+    },
+    "home": {
+      "codepoint": 57488,
+      "fontFamily": "Zondicons",
+      "identifier": "home"
+    },
+    "hot": {
+      "codepoint": 57489,
+      "fontFamily": "Zondicons",
+      "identifier": "hot"
+    },
+    "hour-glass": {
+      "codepoint": 57490,
+      "fontFamily": "Zondicons",
+      "identifier": "hourGlass"
+    },
+    "inbox": {
+      "codepoint": 57491,
+      "fontFamily": "Zondicons",
+      "identifier": "inbox"
+    },
+    "inbox-check": {
+      "codepoint": 57492,
+      "fontFamily": "Zondicons",
+      "identifier": "inboxCheck"
+    },
+    "inbox-download": {
+      "codepoint": 57493,
+      "fontFamily": "Zondicons",
+      "identifier": "inboxDownload"
+    },
+    "inbox-full": {
+      "codepoint": 57494,
+      "fontFamily": "Zondicons",
+      "identifier": "inboxFull"
+    },
+    "indent-decrease": {
+      "codepoint": 57495,
+      "fontFamily": "Zondicons",
+      "identifier": "indentDecrease"
+    },
+    "indent-increase": {
+      "codepoint": 57496,
+      "fontFamily": "Zondicons",
+      "identifier": "indentIncrease"
+    },
+    "information-outline": {
+      "codepoint": 57497,
+      "fontFamily": "Zondicons",
+      "identifier": "informationOutline"
+    },
+    "information-solid": {
+      "codepoint": 57498,
+      "fontFamily": "Zondicons",
+      "identifier": "informationSolid"
+    },
+    "key": {
+      "codepoint": 57499,
+      "fontFamily": "Zondicons",
+      "identifier": "key"
+    },
+    "keyboard": {
+      "codepoint": 57500,
+      "fontFamily": "Zondicons",
+      "identifier": "keyboard"
+    },
+    "layers": {
+      "codepoint": 57501,
+      "fontFamily": "Zondicons",
+      "identifier": "layers"
+    },
+    "library": {
+      "codepoint": 57502,
+      "fontFamily": "Zondicons",
+      "identifier": "library_"
+    },
+    "light-bulb": {
+      "codepoint": 57503,
+      "fontFamily": "Zondicons",
+      "identifier": "lightBulb"
+    },
+    "link": {
+      "codepoint": 57504,
+      "fontFamily": "Zondicons",
+      "identifier": "link"
+    },
+    "list": {
+      "codepoint": 57505,
+      "fontFamily": "Zondicons",
+      "identifier": "list"
+    },
+    "list-add": {
+      "codepoint": 57506,
+      "fontFamily": "Zondicons",
+      "identifier": "listAdd"
+    },
+    "list-bullet": {
+      "codepoint": 57507,
+      "fontFamily": "Zondicons",
+      "identifier": "listBullet"
+    },
+    "load-balancer": {
+      "codepoint": 57508,
+      "fontFamily": "Zondicons",
+      "identifier": "loadBalancer"
+    },
+    "location": {
+      "codepoint": 57509,
+      "fontFamily": "Zondicons",
+      "identifier": "location"
+    },
+    "location-current": {
+      "codepoint": 57510,
+      "fontFamily": "Zondicons",
+      "identifier": "locationCurrent"
+    },
+    "location-food": {
+      "codepoint": 57511,
+      "fontFamily": "Zondicons",
+      "identifier": "locationFood"
+    },
+    "location-gas-station": {
+      "codepoint": 57512,
+      "fontFamily": "Zondicons",
+      "identifier": "locationGasStation"
+    },
+    "location-hotel": {
+      "codepoint": 57513,
+      "fontFamily": "Zondicons",
+      "identifier": "locationHotel"
+    },
+    "location-marina": {
+      "codepoint": 57514,
+      "fontFamily": "Zondicons",
+      "identifier": "locationMarina"
+    },
+    "location-park": {
+      "codepoint": 57515,
+      "fontFamily": "Zondicons",
+      "identifier": "locationPark"
+    },
+    "location-restroom": {
+      "codepoint": 57516,
+      "fontFamily": "Zondicons",
+      "identifier": "locationRestroom"
+    },
+    "location-shopping": {
+      "codepoint": 57517,
+      "fontFamily": "Zondicons",
+      "identifier": "locationShopping"
+    },
+    "lock-closed": {
+      "codepoint": 57518,
+      "fontFamily": "Zondicons",
+      "identifier": "lockClosed"
+    },
+    "lock-open": {
+      "codepoint": 57519,
+      "fontFamily": "Zondicons",
+      "identifier": "lockOpen"
+    },
+    "map": {
+      "codepoint": 57520,
+      "fontFamily": "Zondicons",
+      "identifier": "map"
+    },
+    "menu": {
+      "codepoint": 57521,
+      "fontFamily": "Zondicons",
+      "identifier": "menu"
+    },
+    "mic": {
+      "codepoint": 57522,
+      "fontFamily": "Zondicons",
+      "identifier": "mic"
+    },
+    "minus-outline": {
+      "codepoint": 57523,
+      "fontFamily": "Zondicons",
+      "identifier": "minusOutline"
+    },
+    "minus-solid": {
+      "codepoint": 57524,
+      "fontFamily": "Zondicons",
+      "identifier": "minusSolid"
+    },
+    "mobile-devices": {
+      "codepoint": 57525,
+      "fontFamily": "Zondicons",
+      "identifier": "mobileDevices"
+    },
+    "mood-happy-outline": {
+      "codepoint": 57526,
+      "fontFamily": "Zondicons",
+      "identifier": "moodHappyOutline"
+    },
+    "mood-happy-solid": {
+      "codepoint": 57527,
+      "fontFamily": "Zondicons",
+      "identifier": "moodHappySolid"
+    },
+    "mood-neutral-outline": {
+      "codepoint": 57528,
+      "fontFamily": "Zondicons",
+      "identifier": "moodNeutralOutline"
+    },
+    "mood-neutral-solid": {
+      "codepoint": 57529,
+      "fontFamily": "Zondicons",
+      "identifier": "moodNeutralSolid"
+    },
+    "mood-sad-outline": {
+      "codepoint": 57530,
+      "fontFamily": "Zondicons",
+      "identifier": "moodSadOutline"
+    },
+    "mood-sad-solid": {
+      "codepoint": 57531,
+      "fontFamily": "Zondicons",
+      "identifier": "moodSadSolid"
+    },
+    "mouse": {
+      "codepoint": 57532,
+      "fontFamily": "Zondicons",
+      "identifier": "mouse"
+    },
+    "music-album": {
+      "codepoint": 57533,
+      "fontFamily": "Zondicons",
+      "identifier": "musicAlbum"
+    },
+    "music-artist": {
+      "codepoint": 57534,
+      "fontFamily": "Zondicons",
+      "identifier": "musicArtist"
+    },
+    "music-notes": {
+      "codepoint": 57535,
+      "fontFamily": "Zondicons",
+      "identifier": "musicNotes"
+    },
+    "music-playlist": {
+      "codepoint": 57536,
+      "fontFamily": "Zondicons",
+      "identifier": "musicPlaylist"
+    },
+    "navigation-more": {
+      "codepoint": 57537,
+      "fontFamily": "Zondicons",
+      "identifier": "navigationMore"
+    },
+    "network": {
+      "codepoint": 57538,
+      "fontFamily": "Zondicons",
+      "identifier": "network"
+    },
+    "news-paper": {
+      "codepoint": 57539,
+      "fontFamily": "Zondicons",
+      "identifier": "newsPaper"
+    },
+    "notification": {
+      "codepoint": 57540,
+      "fontFamily": "Zondicons",
+      "identifier": "notification"
+    },
+    "notifications": {
+      "codepoint": 57541,
+      "fontFamily": "Zondicons",
+      "identifier": "notifications"
+    },
+    "notifications-outline": {
+      "codepoint": 57542,
+      "fontFamily": "Zondicons",
+      "identifier": "notificationsOutline"
+    },
+    "paste": {
+      "codepoint": 57543,
+      "fontFamily": "Zondicons",
+      "identifier": "paste"
+    },
+    "pause": {
+      "codepoint": 57544,
+      "fontFamily": "Zondicons",
+      "identifier": "pause"
+    },
+    "pause-outline": {
+      "codepoint": 57545,
+      "fontFamily": "Zondicons",
+      "identifier": "pauseOutline"
+    },
+    "pause-solid": {
+      "codepoint": 57546,
+      "fontFamily": "Zondicons",
+      "identifier": "pauseSolid"
+    },
+    "pen-tool": {
+      "codepoint": 57547,
+      "fontFamily": "Zondicons",
+      "identifier": "penTool"
+    },
+    "phone": {
+      "codepoint": 57548,
+      "fontFamily": "Zondicons",
+      "identifier": "phone"
+    },
+    "photo": {
+      "codepoint": 57549,
+      "fontFamily": "Zondicons",
+      "identifier": "photo"
+    },
+    "php-elephant": {
+      "codepoint": 57550,
+      "fontFamily": "Zondicons",
+      "identifier": "phpElephant"
+    },
+    "pin": {
+      "codepoint": 57551,
+      "fontFamily": "Zondicons",
+      "identifier": "pin"
+    },
+    "play": {
+      "codepoint": 57552,
+      "fontFamily": "Zondicons",
+      "identifier": "play"
+    },
+    "play-outline": {
+      "codepoint": 57553,
+      "fontFamily": "Zondicons",
+      "identifier": "playOutline"
+    },
+    "playlist": {
+      "codepoint": 57554,
+      "fontFamily": "Zondicons",
+      "identifier": "playlist"
+    },
+    "plugin": {
+      "codepoint": 57555,
+      "fontFamily": "Zondicons",
+      "identifier": "plugin"
+    },
+    "portfolio": {
+      "codepoint": 57556,
+      "fontFamily": "Zondicons",
+      "identifier": "portfolio"
+    },
+    "printer": {
+      "codepoint": 57557,
+      "fontFamily": "Zondicons",
+      "identifier": "printer"
+    },
+    "pylon": {
+      "codepoint": 57558,
+      "fontFamily": "Zondicons",
+      "identifier": "pylon"
+    },
+    "question": {
+      "codepoint": 57559,
+      "fontFamily": "Zondicons",
+      "identifier": "question"
+    },
+    "queue": {
+      "codepoint": 57560,
+      "fontFamily": "Zondicons",
+      "identifier": "queue"
+    },
+    "radar": {
+      "codepoint": 57561,
+      "fontFamily": "Zondicons",
+      "identifier": "radar"
+    },
+    "radar-copy-2": {
+      "codepoint": 57562,
+      "fontFamily": "Zondicons",
+      "identifier": "radarCopy2"
+    },
+    "radarcopy2": {
+      "codepoint": 57563,
+      "fontFamily": "Zondicons",
+      "identifier": "radarcopy2"
+    },
+    "radio": {
+      "codepoint": 57564,
+      "fontFamily": "Zondicons",
+      "identifier": "radio"
+    },
+    "refresh": {
+      "codepoint": 57565,
+      "fontFamily": "Zondicons",
+      "identifier": "refresh"
+    },
+    "reload": {
+      "codepoint": 57566,
+      "fontFamily": "Zondicons",
+      "identifier": "reload"
+    },
+    "reply": {
+      "codepoint": 57567,
+      "fontFamily": "Zondicons",
+      "identifier": "reply"
+    },
+    "reply-all": {
+      "codepoint": 57568,
+      "fontFamily": "Zondicons",
+      "identifier": "replyAll"
+    },
+    "repost": {
+      "codepoint": 57569,
+      "fontFamily": "Zondicons",
+      "identifier": "repost"
+    },
+    "save-disk": {
+      "codepoint": 57570,
+      "fontFamily": "Zondicons",
+      "identifier": "saveDisk"
+    },
+    "screen-full": {
+      "codepoint": 57571,
+      "fontFamily": "Zondicons",
+      "identifier": "screenFull"
+    },
+    "search": {
+      "codepoint": 57572,
+      "fontFamily": "Zondicons",
+      "identifier": "search"
+    },
+    "send": {
+      "codepoint": 57573,
+      "fontFamily": "Zondicons",
+      "identifier": "send"
+    },
+    "servers": {
+      "codepoint": 57574,
+      "fontFamily": "Zondicons",
+      "identifier": "servers"
+    },
+    "share": {
+      "codepoint": 57575,
+      "fontFamily": "Zondicons",
+      "identifier": "share"
+    },
+    "share-01": {
+      "codepoint": 57576,
+      "fontFamily": "Zondicons",
+      "identifier": "share01"
+    },
+    "share-alt": {
+      "codepoint": 57577,
+      "fontFamily": "Zondicons",
+      "identifier": "shareAlt"
+    },
+    "shield": {
+      "codepoint": 57578,
+      "fontFamily": "Zondicons",
+      "identifier": "shield"
+    },
+    "shopping-cart": {
+      "codepoint": 57579,
+      "fontFamily": "Zondicons",
+      "identifier": "shoppingCart"
+    },
+    "show-sidebar": {
+      "codepoint": 57580,
+      "fontFamily": "Zondicons",
+      "identifier": "showSidebar"
+    },
+    "shuffle": {
+      "codepoint": 57581,
+      "fontFamily": "Zondicons",
+      "identifier": "shuffle"
+    },
+    "stand-by": {
+      "codepoint": 57582,
+      "fontFamily": "Zondicons",
+      "identifier": "standBy"
+    },
+    "star-full": {
+      "codepoint": 57583,
+      "fontFamily": "Zondicons",
+      "identifier": "starFull"
+    },
+    "station": {
+      "codepoint": 57584,
+      "fontFamily": "Zondicons",
+      "identifier": "station"
+    },
+    "step-backward": {
+      "codepoint": 57585,
+      "fontFamily": "Zondicons",
+      "identifier": "stepBackward"
+    },
+    "step-forward": {
+      "codepoint": 57586,
+      "fontFamily": "Zondicons",
+      "identifier": "stepForward"
+    },
+    "stethoscope": {
+      "codepoint": 57587,
+      "fontFamily": "Zondicons",
+      "identifier": "stethoscope"
+    },
+    "store-front": {
+      "codepoint": 57588,
+      "fontFamily": "Zondicons",
+      "identifier": "storeFront"
+    },
+    "stroke-width": {
+      "codepoint": 57589,
+      "fontFamily": "Zondicons",
+      "identifier": "strokeWidth"
+    },
+    "subdirectory-left": {
+      "codepoint": 57590,
+      "fontFamily": "Zondicons",
+      "identifier": "subdirectoryLeft"
+    },
+    "subdirectory-right": {
+      "codepoint": 57591,
+      "fontFamily": "Zondicons",
+      "identifier": "subdirectoryRight"
+    },
+    "swap": {
+      "codepoint": 57592,
+      "fontFamily": "Zondicons",
+      "identifier": "swap"
+    },
+    "tablet": {
+      "codepoint": 57593,
+      "fontFamily": "Zondicons",
+      "identifier": "tablet"
+    },
+    "tag": {
+      "codepoint": 57594,
+      "fontFamily": "Zondicons",
+      "identifier": "tag"
+    },
+    "target": {
+      "codepoint": 57595,
+      "fontFamily": "Zondicons",
+      "identifier": "target"
+    },
+    "text-box": {
+      "codepoint": 57596,
+      "fontFamily": "Zondicons",
+      "identifier": "textBox"
+    },
+    "text-decoration": {
+      "codepoint": 57597,
+      "fontFamily": "Zondicons",
+      "identifier": "textDecoration"
+    },
+    "thermometer": {
+      "codepoint": 57598,
+      "fontFamily": "Zondicons",
+      "identifier": "thermometer"
+    },
+    "thumbs-down": {
+      "codepoint": 57599,
+      "fontFamily": "Zondicons",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-up": {
+      "codepoint": 57600,
+      "fontFamily": "Zondicons",
+      "identifier": "thumbsUp"
+    },
+    "ticket": {
+      "codepoint": 57601,
+      "fontFamily": "Zondicons",
+      "identifier": "ticket"
+    },
+    "time": {
+      "codepoint": 57602,
+      "fontFamily": "Zondicons",
+      "identifier": "time"
+    },
+    "timer": {
+      "codepoint": 57603,
+      "fontFamily": "Zondicons",
+      "identifier": "timer"
+    },
+    "tools-copy": {
+      "codepoint": 57604,
+      "fontFamily": "Zondicons",
+      "identifier": "toolsCopy"
+    },
+    "toolscopy": {
+      "codepoint": 57605,
+      "fontFamily": "Zondicons",
+      "identifier": "toolscopy"
+    },
+    "translate": {
+      "codepoint": 57606,
+      "fontFamily": "Zondicons",
+      "identifier": "translate"
+    },
+    "trash": {
+      "codepoint": 57607,
+      "fontFamily": "Zondicons",
+      "identifier": "trash"
+    },
+    "travel": {
+      "codepoint": 57608,
+      "fontFamily": "Zondicons",
+      "identifier": "travel"
+    },
+    "travel-bus": {
+      "codepoint": 57609,
+      "fontFamily": "Zondicons",
+      "identifier": "travelBus"
+    },
+    "travel-car": {
+      "codepoint": 57610,
+      "fontFamily": "Zondicons",
+      "identifier": "travelCar"
+    },
+    "travel-case": {
+      "codepoint": 57611,
+      "fontFamily": "Zondicons",
+      "identifier": "travelCase"
+    },
+    "travel-taxi-cab": {
+      "codepoint": 57612,
+      "fontFamily": "Zondicons",
+      "identifier": "travelTaxiCab"
+    },
+    "travel-train": {
+      "codepoint": 57613,
+      "fontFamily": "Zondicons",
+      "identifier": "travelTrain"
+    },
+    "travel-walk": {
+      "codepoint": 57614,
+      "fontFamily": "Zondicons",
+      "identifier": "travelWalk"
+    },
+    "trophy": {
+      "codepoint": 57615,
+      "fontFamily": "Zondicons",
+      "identifier": "trophy"
+    },
+    "tuning": {
+      "codepoint": 57616,
+      "fontFamily": "Zondicons",
+      "identifier": "tuning"
+    },
+    "upload": {
+      "codepoint": 57617,
+      "fontFamily": "Zondicons",
+      "identifier": "upload"
+    },
+    "usb": {
+      "codepoint": 57618,
+      "fontFamily": "Zondicons",
+      "identifier": "usb"
+    },
+    "user": {
+      "codepoint": 57619,
+      "fontFamily": "Zondicons",
+      "identifier": "user"
+    },
+    "user-add": {
+      "codepoint": 57620,
+      "fontFamily": "Zondicons",
+      "identifier": "userAdd"
+    },
+    "user-group": {
+      "codepoint": 57621,
+      "fontFamily": "Zondicons",
+      "identifier": "userGroup"
+    },
+    "user-solid-circle": {
+      "codepoint": 57622,
+      "fontFamily": "Zondicons",
+      "identifier": "userSolidCircle"
+    },
+    "user-solid-square": {
+      "codepoint": 57623,
+      "fontFamily": "Zondicons",
+      "identifier": "userSolidSquare"
+    },
+    "vector": {
+      "codepoint": 57624,
+      "fontFamily": "Zondicons",
+      "identifier": "vector"
+    },
+    "video-camera": {
+      "codepoint": 57625,
+      "fontFamily": "Zondicons",
+      "identifier": "videoCamera"
+    },
+    "view-carousel": {
+      "codepoint": 57626,
+      "fontFamily": "Zondicons",
+      "identifier": "viewCarousel"
+    },
+    "view-column": {
+      "codepoint": 57627,
+      "fontFamily": "Zondicons",
+      "identifier": "viewColumn"
+    },
+    "view-hide": {
+      "codepoint": 57628,
+      "fontFamily": "Zondicons",
+      "identifier": "viewHide"
+    },
+    "view-list": {
+      "codepoint": 57629,
+      "fontFamily": "Zondicons",
+      "identifier": "viewList"
+    },
+    "view-show": {
+      "codepoint": 57630,
+      "fontFamily": "Zondicons",
+      "identifier": "viewShow"
+    },
+    "view-tile": {
+      "codepoint": 57631,
+      "fontFamily": "Zondicons",
+      "identifier": "viewTile"
+    },
+    "volume-down": {
+      "codepoint": 57632,
+      "fontFamily": "Zondicons",
+      "identifier": "volumeDown"
+    },
+    "volume-mute": {
+      "codepoint": 57633,
+      "fontFamily": "Zondicons",
+      "identifier": "volumeMute"
+    },
+    "volume-off": {
+      "codepoint": 57634,
+      "fontFamily": "Zondicons",
+      "identifier": "volumeOff"
+    },
+    "volume-up": {
+      "codepoint": 57635,
+      "fontFamily": "Zondicons",
+      "identifier": "volumeUp"
+    },
+    "wallet": {
+      "codepoint": 57636,
+      "fontFamily": "Zondicons",
+      "identifier": "wallet"
+    },
+    "watch": {
+      "codepoint": 57637,
+      "fontFamily": "Zondicons",
+      "identifier": "watch"
+    },
+    "window": {
+      "codepoint": 57638,
+      "fontFamily": "Zondicons",
+      "identifier": "window"
+    },
+    "window-new": {
+      "codepoint": 57639,
+      "fontFamily": "Zondicons",
+      "identifier": "windowNew"
+    },
+    "window-open": {
+      "codepoint": 57640,
+      "fontFamily": "Zondicons",
+      "identifier": "windowOpen"
+    },
+    "wrench": {
+      "codepoint": 57641,
+      "fontFamily": "Zondicons",
+      "identifier": "wrench"
+    },
+    "yin-yang": {
+      "codepoint": 57642,
+      "fontFamily": "Zondicons",
+      "identifier": "yinYang"
+    },
+    "zoom-in": {
+      "codepoint": 57643,
+      "fontFamily": "Zondicons",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 57644,
+      "fontFamily": "Zondicons",
+      "identifier": "zoomOut"
+    }
+  }
+}

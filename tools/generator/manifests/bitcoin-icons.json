@@ -1,0 +1,1680 @@
+{
+  "schemaVersion": 1,
+  "prefix": "bitcoin-icons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_bitcoin_icons",
+  "info": {
+    "name": "Bitcoin Icons",
+    "author": {
+      "name": "Bitcoin Design Community",
+      "url": "https://github.com/BitcoinDesign/Bitcoin-Icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/BitcoinDesign/Bitcoin-Icons/blob/main/LICENSE-MIT"
+    },
+    "total": 330
+  },
+  "fonts": [
+    {
+      "family": "BitcoinIcons",
+      "nextCodepoint": 57674,
+      "iconCount": 330
+    }
+  ],
+  "icons": {
+    "address-book-filled": {
+      "codepoint": 57344,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "addressBookFilled"
+    },
+    "address-book-outline": {
+      "codepoint": 57345,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "addressBookOutline"
+    },
+    "alert-circle-filled": {
+      "codepoint": 57346,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "alertCircleFilled"
+    },
+    "alert-circle-outline": {
+      "codepoint": 57347,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "alertCircleOutline"
+    },
+    "alert-filled": {
+      "codepoint": 57348,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "alertFilled"
+    },
+    "alert-outline": {
+      "codepoint": 57349,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "alertOutline"
+    },
+    "arrow-down-filled": {
+      "codepoint": 57350,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "arrowDownFilled"
+    },
+    "arrow-down-outline": {
+      "codepoint": 57351,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "arrowDownOutline"
+    },
+    "arrow-left-filled": {
+      "codepoint": 57352,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "arrowLeftFilled"
+    },
+    "arrow-left-outline": {
+      "codepoint": 57353,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "arrowLeftOutline"
+    },
+    "arrow-right-filled": {
+      "codepoint": 57354,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "arrowRightFilled"
+    },
+    "arrow-right-outline": {
+      "codepoint": 57355,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "arrowRightOutline"
+    },
+    "arrow-up-filled": {
+      "codepoint": 57356,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "arrowUpFilled"
+    },
+    "arrow-up-outline": {
+      "codepoint": 57357,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "arrowUpOutline"
+    },
+    "bank-filled": {
+      "codepoint": 57358,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "bankFilled"
+    },
+    "bank-outline": {
+      "codepoint": 57359,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "bankOutline"
+    },
+    "battery-2-filled": {
+      "codepoint": 57360,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "battery2Filled"
+    },
+    "battery-2-outline": {
+      "codepoint": 57361,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "battery2Outline"
+    },
+    "battery-3-filled": {
+      "codepoint": 57362,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "battery3Filled"
+    },
+    "battery-3-outline": {
+      "codepoint": 57363,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "battery3Outline"
+    },
+    "battery-4-filled": {
+      "codepoint": 57364,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "battery4Filled"
+    },
+    "battery-4-outline": {
+      "codepoint": 57365,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "battery4Outline"
+    },
+    "battery-empty-filled": {
+      "codepoint": 57366,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "batteryEmptyFilled"
+    },
+    "battery-empty-outline": {
+      "codepoint": 57367,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "batteryEmptyOutline"
+    },
+    "battery-full-filled": {
+      "codepoint": 57368,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "batteryFullFilled"
+    },
+    "battery-full-outline": {
+      "codepoint": 57369,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "batteryFullOutline"
+    },
+    "bell-filled": {
+      "codepoint": 57370,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "bellFilled"
+    },
+    "bell-outline": {
+      "codepoint": 57371,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "bellOutline"
+    },
+    "bitaxe-filled": {
+      "codepoint": 57372,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "bitaxeFilled"
+    },
+    "bitaxe-outline": {
+      "codepoint": 57373,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "bitaxeOutline"
+    },
+    "bitcoin-circle-filled": {
+      "codepoint": 57374,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "bitcoinCircleFilled"
+    },
+    "bitcoin-circle-outline": {
+      "codepoint": 57375,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "bitcoinCircleOutline"
+    },
+    "bitcoin-filled": {
+      "codepoint": 57376,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "bitcoinFilled"
+    },
+    "bitcoin-outline": {
+      "codepoint": 57377,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "bitcoinOutline"
+    },
+    "bitty-filled": {
+      "codepoint": 57378,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "bittyFilled"
+    },
+    "bitty-outline": {
+      "codepoint": 57379,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "bittyOutline"
+    },
+    "block-filled": {
+      "codepoint": 57380,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "blockFilled"
+    },
+    "block-outline": {
+      "codepoint": 57381,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "blockOutline"
+    },
+    "boat-filled": {
+      "codepoint": 57382,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "boatFilled"
+    },
+    "boat-outline": {
+      "codepoint": 57383,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "boatOutline"
+    },
+    "brush-filled": {
+      "codepoint": 57384,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "brushFilled"
+    },
+    "brush-outline": {
+      "codepoint": 57385,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "brushOutline"
+    },
+    "buoy-filled": {
+      "codepoint": 57386,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "buoyFilled"
+    },
+    "buoy-outline": {
+      "codepoint": 57387,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "buoyOutline"
+    },
+    "calendar-filled": {
+      "codepoint": 57388,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "calendarFilled"
+    },
+    "calendar-outline": {
+      "codepoint": 57389,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "calendarOutline"
+    },
+    "camera-filled": {
+      "codepoint": 57390,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "cameraFilled"
+    },
+    "camera-outline": {
+      "codepoint": 57391,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "cameraOutline"
+    },
+    "car-filled": {
+      "codepoint": 57392,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "carFilled"
+    },
+    "car-outline": {
+      "codepoint": 57393,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "carOutline"
+    },
+    "caret-down-filled": {
+      "codepoint": 57394,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "caretDownFilled"
+    },
+    "caret-down-outline": {
+      "codepoint": 57395,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "caretDownOutline"
+    },
+    "caret-left-filled": {
+      "codepoint": 57396,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "caretLeftFilled"
+    },
+    "caret-left-outline": {
+      "codepoint": 57397,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "caretLeftOutline"
+    },
+    "caret-right-filled": {
+      "codepoint": 57398,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "caretRightFilled"
+    },
+    "caret-right-outline": {
+      "codepoint": 57399,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "caretRightOutline"
+    },
+    "caret-up-filled": {
+      "codepoint": 57400,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "caretUpFilled"
+    },
+    "caret-up-outline": {
+      "codepoint": 57401,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "caretUpOutline"
+    },
+    "cart-filled": {
+      "codepoint": 57402,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "cartFilled"
+    },
+    "cart-outline": {
+      "codepoint": 57403,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "cartOutline"
+    },
+    "chair-filled": {
+      "codepoint": 57404,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "chairFilled"
+    },
+    "chair-outline": {
+      "codepoint": 57405,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "chairOutline"
+    },
+    "channel-filled": {
+      "codepoint": 57406,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "channelFilled"
+    },
+    "channel-outline": {
+      "codepoint": 57407,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "channelOutline"
+    },
+    "channels-filled": {
+      "codepoint": 57408,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "channelsFilled"
+    },
+    "channels-outline": {
+      "codepoint": 57409,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "channelsOutline"
+    },
+    "check-filled": {
+      "codepoint": 57410,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "checkFilled"
+    },
+    "check-outline": {
+      "codepoint": 57411,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "checkOutline"
+    },
+    "citadel-filled": {
+      "codepoint": 57412,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "citadelFilled"
+    },
+    "citadel-outline": {
+      "codepoint": 57413,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "citadelOutline"
+    },
+    "clear-character-filled": {
+      "codepoint": 57414,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "clearCharacterFilled"
+    },
+    "clear-character-outline": {
+      "codepoint": 57415,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "clearCharacterOutline"
+    },
+    "clock-filled": {
+      "codepoint": 57416,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "clockFilled"
+    },
+    "clock-outline": {
+      "codepoint": 57417,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "clockOutline"
+    },
+    "cloud-filled": {
+      "codepoint": 57418,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "cloudFilled"
+    },
+    "cloud-outline": {
+      "codepoint": 57419,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "cloudOutline"
+    },
+    "code-filled": {
+      "codepoint": 57420,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "codeFilled"
+    },
+    "code-outline": {
+      "codepoint": 57421,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "codeOutline"
+    },
+    "coins-filled": {
+      "codepoint": 57422,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "coinsFilled"
+    },
+    "coins-outline": {
+      "codepoint": 57423,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "coinsOutline"
+    },
+    "confirmations-0-filled": {
+      "codepoint": 57424,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations0Filled"
+    },
+    "confirmations-0-outline": {
+      "codepoint": 57425,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations0Outline"
+    },
+    "confirmations-1-filled": {
+      "codepoint": 57426,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations1Filled"
+    },
+    "confirmations-1-outline": {
+      "codepoint": 57427,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations1Outline"
+    },
+    "confirmations-2-filled": {
+      "codepoint": 57428,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations2Filled"
+    },
+    "confirmations-2-outline": {
+      "codepoint": 57429,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations2Outline"
+    },
+    "confirmations-3-filled": {
+      "codepoint": 57430,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations3Filled"
+    },
+    "confirmations-3-outline": {
+      "codepoint": 57431,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations3Outline"
+    },
+    "confirmations-4-filled": {
+      "codepoint": 57432,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations4Filled"
+    },
+    "confirmations-4-outline": {
+      "codepoint": 57433,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations4Outline"
+    },
+    "confirmations-5-filled": {
+      "codepoint": 57434,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations5Filled"
+    },
+    "confirmations-5-outline": {
+      "codepoint": 57435,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations5Outline"
+    },
+    "confirmations-6-filled": {
+      "codepoint": 57436,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations6Filled"
+    },
+    "confirmations-6-outline": {
+      "codepoint": 57437,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "confirmations6Outline"
+    },
+    "console-filled": {
+      "codepoint": 57438,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "consoleFilled"
+    },
+    "console-outline": {
+      "codepoint": 57439,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "consoleOutline"
+    },
+    "contacts-filled": {
+      "codepoint": 57440,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "contactsFilled"
+    },
+    "contacts-outline": {
+      "codepoint": 57441,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "contactsOutline"
+    },
+    "copy-filled": {
+      "codepoint": 57442,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "copyFilled"
+    },
+    "copy-outline": {
+      "codepoint": 57443,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "copyOutline"
+    },
+    "credit-card-filled": {
+      "codepoint": 57444,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "creditCardFilled"
+    },
+    "credit-card-outline": {
+      "codepoint": 57445,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "creditCardOutline"
+    },
+    "cross-filled": {
+      "codepoint": 57446,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "crossFilled"
+    },
+    "cross-outline": {
+      "codepoint": 57447,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "crossOutline"
+    },
+    "devices-filled": {
+      "codepoint": 57448,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "devicesFilled"
+    },
+    "devices-outline": {
+      "codepoint": 57449,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "devicesOutline"
+    },
+    "dice-filled": {
+      "codepoint": 57450,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "diceFilled"
+    },
+    "dice-outline": {
+      "codepoint": 57451,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "diceOutline"
+    },
+    "drops-filled": {
+      "codepoint": 57452,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "dropsFilled"
+    },
+    "drops-outline": {
+      "codepoint": 57453,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "dropsOutline"
+    },
+    "edit-filled": {
+      "codepoint": 57454,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "editFilled"
+    },
+    "edit-outline": {
+      "codepoint": 57455,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "editOutline"
+    },
+    "ellipsis-filled": {
+      "codepoint": 57456,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "ellipsisFilled"
+    },
+    "ellipsis-outline": {
+      "codepoint": 57457,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "ellipsisOutline"
+    },
+    "email-filled": {
+      "codepoint": 57458,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "emailFilled"
+    },
+    "email-outline": {
+      "codepoint": 57459,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "emailOutline"
+    },
+    "entropy-filled": {
+      "codepoint": 57460,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "entropyFilled"
+    },
+    "entropy-outline": {
+      "codepoint": 57461,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "entropyOutline"
+    },
+    "exchange-filled": {
+      "codepoint": 57462,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "exchangeFilled"
+    },
+    "exchange-outline": {
+      "codepoint": 57463,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "exchangeOutline"
+    },
+    "exit-filled": {
+      "codepoint": 57464,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "exitFilled"
+    },
+    "exit-outline": {
+      "codepoint": 57465,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "exitOutline"
+    },
+    "export-filled": {
+      "codepoint": 57466,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "exportFilled"
+    },
+    "export-outline": {
+      "codepoint": 57467,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "exportOutline"
+    },
+    "faucet-filled": {
+      "codepoint": 57468,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "faucetFilled"
+    },
+    "faucet-outline": {
+      "codepoint": 57469,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "faucetOutline"
+    },
+    "file-filled": {
+      "codepoint": 57470,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "fileFilled"
+    },
+    "file-outline": {
+      "codepoint": 57471,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "fileOutline"
+    },
+    "fingerprint-filled": {
+      "codepoint": 57472,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "fingerprintFilled"
+    },
+    "fingerprint-outline": {
+      "codepoint": 57473,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "fingerprintOutline"
+    },
+    "flip-horizontal-filled": {
+      "codepoint": 57474,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "flipHorizontalFilled"
+    },
+    "flip-horizontal-outline": {
+      "codepoint": 57475,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "flipHorizontalOutline"
+    },
+    "flip-vertical-filled": {
+      "codepoint": 57476,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "flipVerticalFilled"
+    },
+    "flip-vertical-outline": {
+      "codepoint": 57477,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "flipVerticalOutline"
+    },
+    "gear-filled": {
+      "codepoint": 57478,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "gearFilled"
+    },
+    "gear-outline": {
+      "codepoint": 57479,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "gearOutline"
+    },
+    "gift-filled": {
+      "codepoint": 57480,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "giftFilled"
+    },
+    "gift-outline": {
+      "codepoint": 57481,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "giftOutline"
+    },
+    "globe-filled": {
+      "codepoint": 57482,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "globeFilled"
+    },
+    "globe-outline": {
+      "codepoint": 57483,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "globeOutline"
+    },
+    "graph-filled": {
+      "codepoint": 57484,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "graphFilled"
+    },
+    "graph-outline": {
+      "codepoint": 57485,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "graphOutline"
+    },
+    "grid-filled": {
+      "codepoint": 57486,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "gridFilled"
+    },
+    "grid-outline": {
+      "codepoint": 57487,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "gridOutline"
+    },
+    "hashes-filled": {
+      "codepoint": 57488,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "hashesFilled"
+    },
+    "hashes-outline": {
+      "codepoint": 57489,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "hashesOutline"
+    },
+    "hat-and-glasses-filled": {
+      "codepoint": 57490,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "hatAndGlassesFilled"
+    },
+    "hat-and-glasses-outline": {
+      "codepoint": 57491,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "hatAndGlassesOutline"
+    },
+    "hidden-filled": {
+      "codepoint": 57492,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "hiddenFilled"
+    },
+    "hidden-outline": {
+      "codepoint": 57493,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "hiddenOutline"
+    },
+    "home-filled": {
+      "codepoint": 57494,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "homeFilled"
+    },
+    "home-outline": {
+      "codepoint": 57495,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "homeOutline"
+    },
+    "info-circle-filled": {
+      "codepoint": 57496,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "infoCircleFilled"
+    },
+    "info-circle-outline": {
+      "codepoint": 57497,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "infoCircleOutline"
+    },
+    "info-filled": {
+      "codepoint": 57498,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "infoFilled"
+    },
+    "info-outline": {
+      "codepoint": 57499,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "infoOutline"
+    },
+    "invoice-filled": {
+      "codepoint": 57500,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "invoiceFilled"
+    },
+    "invoice-outline": {
+      "codepoint": 57501,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "invoiceOutline"
+    },
+    "iou-filled": {
+      "codepoint": 57502,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "iouFilled"
+    },
+    "iou-outline": {
+      "codepoint": 57503,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "iouOutline"
+    },
+    "key-filled": {
+      "codepoint": 57504,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "keyFilled"
+    },
+    "key-outline": {
+      "codepoint": 57505,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "keyOutline"
+    },
+    "keyboard-filled": {
+      "codepoint": 57506,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "keyboardFilled"
+    },
+    "keyboard-outline": {
+      "codepoint": 57507,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "keyboardOutline"
+    },
+    "lightning-circle-filled": {
+      "codepoint": 57508,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "lightningCircleFilled"
+    },
+    "lightning-circle-outline": {
+      "codepoint": 57509,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "lightningCircleOutline"
+    },
+    "lightning-filled": {
+      "codepoint": 57510,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "lightningFilled"
+    },
+    "lightning-outline": {
+      "codepoint": 57511,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "lightningOutline"
+    },
+    "link-filled": {
+      "codepoint": 57512,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "linkFilled"
+    },
+    "link-outline": {
+      "codepoint": 57513,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "linkOutline"
+    },
+    "linux-terminal-filled": {
+      "codepoint": 57514,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "linuxTerminalFilled"
+    },
+    "linux-terminal-outline": {
+      "codepoint": 57515,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "linuxTerminalOutline"
+    },
+    "lock-filled": {
+      "codepoint": 57516,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "lockFilled"
+    },
+    "lock-outline": {
+      "codepoint": 57517,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "lockOutline"
+    },
+    "magic-wand-filled": {
+      "codepoint": 57518,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "magicWandFilled"
+    },
+    "magic-wand-outline": {
+      "codepoint": 57519,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "magicWandOutline"
+    },
+    "menu-filled": {
+      "codepoint": 57520,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "menuFilled"
+    },
+    "menu-outline": {
+      "codepoint": 57521,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "menuOutline"
+    },
+    "message-filled": {
+      "codepoint": 57522,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "messageFilled"
+    },
+    "message-outline": {
+      "codepoint": 57523,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "messageOutline"
+    },
+    "milk-filled": {
+      "codepoint": 57524,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "milkFilled"
+    },
+    "milk-outline": {
+      "codepoint": 57525,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "milkOutline"
+    },
+    "miner-filled": {
+      "codepoint": 57526,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "minerFilled"
+    },
+    "miner-outline": {
+      "codepoint": 57527,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "minerOutline"
+    },
+    "mining-device-filled": {
+      "codepoint": 57528,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "miningDeviceFilled"
+    },
+    "mining-device-outline": {
+      "codepoint": 57529,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "miningDeviceOutline"
+    },
+    "mining-filled": {
+      "codepoint": 57530,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "miningFilled"
+    },
+    "mining-outline": {
+      "codepoint": 57531,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "miningOutline"
+    },
+    "mining-pool-filled": {
+      "codepoint": 57532,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "miningPoolFilled"
+    },
+    "mining-pool-outline": {
+      "codepoint": 57533,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "miningPoolOutline"
+    },
+    "minus-filled": {
+      "codepoint": 57534,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "minusFilled"
+    },
+    "minus-outline": {
+      "codepoint": 57535,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "minusOutline"
+    },
+    "mixed-filled": {
+      "codepoint": 57536,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "mixedFilled"
+    },
+    "mixed-outline": {
+      "codepoint": 57537,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "mixedOutline"
+    },
+    "mnemonic-filled": {
+      "codepoint": 57538,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "mnemonicFilled"
+    },
+    "mnemonic-outline": {
+      "codepoint": 57539,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "mnemonicOutline"
+    },
+    "moon-filled": {
+      "codepoint": 57540,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "moonFilled"
+    },
+    "moon-outline": {
+      "codepoint": 57541,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "moonOutline"
+    },
+    "nfc-filled": {
+      "codepoint": 57542,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "nfcFilled"
+    },
+    "nfc-outline": {
+      "codepoint": 57543,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "nfcOutline"
+    },
+    "no-dollars-filled": {
+      "codepoint": 57544,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "noDollarsFilled"
+    },
+    "no-dollars-outline": {
+      "codepoint": 57545,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "noDollarsOutline"
+    },
+    "node-0-connections-filled": {
+      "codepoint": 57546,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "node0ConnectionsFilled"
+    },
+    "node-0-connections-outline": {
+      "codepoint": 57547,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "node0ConnectionsOutline"
+    },
+    "node-1-connection-filled": {
+      "codepoint": 57548,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "node1ConnectionFilled"
+    },
+    "node-1-connection-outline": {
+      "codepoint": 57549,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "node1ConnectionOutline"
+    },
+    "node-2-connections-filled": {
+      "codepoint": 57550,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "node2ConnectionsFilled"
+    },
+    "node-2-connections-outline": {
+      "codepoint": 57551,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "node2ConnectionsOutline"
+    },
+    "node-3-connections-filled": {
+      "codepoint": 57552,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "node3ConnectionsFilled"
+    },
+    "node-3-connections-outline": {
+      "codepoint": 57553,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "node3ConnectionsOutline"
+    },
+    "node-filled": {
+      "codepoint": 57554,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "nodeFilled"
+    },
+    "node-hardware-filled": {
+      "codepoint": 57555,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "nodeHardwareFilled"
+    },
+    "node-hardware-outline": {
+      "codepoint": 57556,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "nodeHardwareOutline"
+    },
+    "node-outline": {
+      "codepoint": 57557,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "nodeOutline"
+    },
+    "pantheon-filled": {
+      "codepoint": 57558,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "pantheonFilled"
+    },
+    "pantheon-outline": {
+      "codepoint": 57559,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "pantheonOutline"
+    },
+    "paper-bitcoin-filled": {
+      "codepoint": 57560,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "paperBitcoinFilled"
+    },
+    "paper-bitcoin-outline": {
+      "codepoint": 57561,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "paperBitcoinOutline"
+    },
+    "password-filled": {
+      "codepoint": 57562,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "passwordFilled"
+    },
+    "password-outline": {
+      "codepoint": 57563,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "passwordOutline"
+    },
+    "photo-filled": {
+      "codepoint": 57564,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "photoFilled"
+    },
+    "photo-outline": {
+      "codepoint": 57565,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "photoOutline"
+    },
+    "pie-chart-filled": {
+      "codepoint": 57566,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "pieChartFilled"
+    },
+    "pie-chart-outline": {
+      "codepoint": 57567,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "pieChartOutline"
+    },
+    "plus-filled": {
+      "codepoint": 57568,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "plusFilled"
+    },
+    "plus-outline": {
+      "codepoint": 57569,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "plusOutline"
+    },
+    "podcast-filled": {
+      "codepoint": 57570,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "podcastFilled"
+    },
+    "podcast-outline": {
+      "codepoint": 57571,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "podcastOutline"
+    },
+    "point-of-sale-filled": {
+      "codepoint": 57572,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "pointOfSaleFilled"
+    },
+    "point-of-sale-outline": {
+      "codepoint": 57573,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "pointOfSaleOutline"
+    },
+    "power-filled": {
+      "codepoint": 57574,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "powerFilled"
+    },
+    "power-outline": {
+      "codepoint": 57575,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "powerOutline"
+    },
+    "printer-filled": {
+      "codepoint": 57576,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "printerFilled"
+    },
+    "printer-outline": {
+      "codepoint": 57577,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "printerOutline"
+    },
+    "proxy-filled": {
+      "codepoint": 57578,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "proxyFilled"
+    },
+    "proxy-outline": {
+      "codepoint": 57579,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "proxyOutline"
+    },
+    "qr-code-filled": {
+      "codepoint": 57580,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "qrCodeFilled"
+    },
+    "qr-code-outline": {
+      "codepoint": 57581,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "qrCodeOutline"
+    },
+    "question-circle-filled": {
+      "codepoint": 57582,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "questionCircleFilled"
+    },
+    "question-circle-outline": {
+      "codepoint": 57583,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "questionCircleOutline"
+    },
+    "question-filled": {
+      "codepoint": 57584,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "questionFilled"
+    },
+    "question-outline": {
+      "codepoint": 57585,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "questionOutline"
+    },
+    "receipt-filled": {
+      "codepoint": 57586,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "receiptFilled"
+    },
+    "receipt-outline": {
+      "codepoint": 57587,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "receiptOutline"
+    },
+    "receive-filled": {
+      "codepoint": 57588,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "receiveFilled"
+    },
+    "receive-limit-filled": {
+      "codepoint": 57589,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "receiveLimitFilled"
+    },
+    "receive-limit-outline": {
+      "codepoint": 57590,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "receiveLimitOutline"
+    },
+    "receive-outline": {
+      "codepoint": 57591,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "receiveOutline"
+    },
+    "refresh-filled": {
+      "codepoint": 57592,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "refreshFilled"
+    },
+    "refresh-outline": {
+      "codepoint": 57593,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "refreshOutline"
+    },
+    "relay-filled": {
+      "codepoint": 57594,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "relayFilled"
+    },
+    "relay-outline": {
+      "codepoint": 57595,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "relayOutline"
+    },
+    "rocket-filled": {
+      "codepoint": 57596,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "rocketFilled"
+    },
+    "rocket-outline": {
+      "codepoint": 57597,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "rocketOutline"
+    },
+    "safe-filled": {
+      "codepoint": 57598,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "safeFilled"
+    },
+    "safe-outline": {
+      "codepoint": 57599,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "safeOutline"
+    },
+    "satoshi-v1-filled": {
+      "codepoint": 57600,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "satoshiV1Filled"
+    },
+    "satoshi-v1-outline": {
+      "codepoint": 57601,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "satoshiV1Outline"
+    },
+    "satoshi-v2-filled": {
+      "codepoint": 57602,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "satoshiV2Filled"
+    },
+    "satoshi-v2-outline": {
+      "codepoint": 57603,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "satoshiV2Outline"
+    },
+    "satoshi-v3-filled": {
+      "codepoint": 57604,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "satoshiV3Filled"
+    },
+    "satoshi-v3-outline": {
+      "codepoint": 57605,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "satoshiV3Outline"
+    },
+    "scan-filled": {
+      "codepoint": 57606,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "scanFilled"
+    },
+    "scan-outline": {
+      "codepoint": 57607,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "scanOutline"
+    },
+    "sd-card-filled": {
+      "codepoint": 57608,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sdCardFilled"
+    },
+    "sd-card-outline": {
+      "codepoint": 57609,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sdCardOutline"
+    },
+    "search-filled": {
+      "codepoint": 57610,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "searchFilled"
+    },
+    "search-outline": {
+      "codepoint": 57611,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "searchOutline"
+    },
+    "send-filled": {
+      "codepoint": 57612,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sendFilled"
+    },
+    "send-limit-filled": {
+      "codepoint": 57613,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sendLimitFilled"
+    },
+    "send-limit-outline": {
+      "codepoint": 57614,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sendLimitOutline"
+    },
+    "send-outline": {
+      "codepoint": 57615,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sendOutline"
+    },
+    "share-filled": {
+      "codepoint": 57616,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "shareFilled"
+    },
+    "share-outline": {
+      "codepoint": 57617,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "shareOutline"
+    },
+    "shared-wallet-filled": {
+      "codepoint": 57618,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sharedWalletFilled"
+    },
+    "shared-wallet-outline": {
+      "codepoint": 57619,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sharedWalletOutline"
+    },
+    "shield-filled": {
+      "codepoint": 57620,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "shieldFilled"
+    },
+    "shield-outline": {
+      "codepoint": 57621,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "shieldOutline"
+    },
+    "sign-filled": {
+      "codepoint": 57622,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "signFilled"
+    },
+    "sign-outline": {
+      "codepoint": 57623,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "signOutline"
+    },
+    "siren-filled": {
+      "codepoint": 57624,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sirenFilled"
+    },
+    "siren-outline": {
+      "codepoint": 57625,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sirenOutline"
+    },
+    "smartcard-filled": {
+      "codepoint": 57626,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "smartcardFilled"
+    },
+    "smartcard-outline": {
+      "codepoint": 57627,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "smartcardOutline"
+    },
+    "snowflake-filled": {
+      "codepoint": 57628,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "snowflakeFilled"
+    },
+    "snowflake-outline": {
+      "codepoint": 57629,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "snowflakeOutline"
+    },
+    "sofa-filled": {
+      "codepoint": 57630,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sofaFilled"
+    },
+    "sofa-outline": {
+      "codepoint": 57631,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sofaOutline"
+    },
+    "split-filled": {
+      "codepoint": 57632,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "splitFilled"
+    },
+    "split-outline": {
+      "codepoint": 57633,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "splitOutline"
+    },
+    "star-filled": {
+      "codepoint": 57634,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "starFilled"
+    },
+    "star-outline": {
+      "codepoint": 57635,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "starOutline"
+    },
+    "sun-filled": {
+      "codepoint": 57636,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sunFilled"
+    },
+    "sun-outline": {
+      "codepoint": 57637,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "sunOutline"
+    },
+    "tag-filled": {
+      "codepoint": 57638,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "tagFilled"
+    },
+    "tag-outline": {
+      "codepoint": 57639,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "tagOutline"
+    },
+    "tip-jar-filled": {
+      "codepoint": 57640,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "tipJarFilled"
+    },
+    "tip-jar-outline": {
+      "codepoint": 57641,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "tipJarOutline"
+    },
+    "transactions-filled": {
+      "codepoint": 57642,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "transactionsFilled"
+    },
+    "transactions-outline": {
+      "codepoint": 57643,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "transactionsOutline"
+    },
+    "transfer-filled": {
+      "codepoint": 57644,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "transferFilled"
+    },
+    "transfer-outline": {
+      "codepoint": 57645,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "transferOutline"
+    },
+    "trash-filled": {
+      "codepoint": 57646,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "trashFilled"
+    },
+    "trash-outline": {
+      "codepoint": 57647,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "trashOutline"
+    },
+    "tree-structure-filled": {
+      "codepoint": 57648,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "treeStructureFilled"
+    },
+    "tree-structure-outline": {
+      "codepoint": 57649,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "treeStructureOutline"
+    },
+    "two-keys-filled": {
+      "codepoint": 57650,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "twoKeysFilled"
+    },
+    "two-keys-outline": {
+      "codepoint": 57651,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "twoKeysOutline"
+    },
+    "unlock-filled": {
+      "codepoint": 57652,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "unlockFilled"
+    },
+    "unlock-outline": {
+      "codepoint": 57653,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "unlockOutline"
+    },
+    "unmixed-filled": {
+      "codepoint": 57654,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "unmixedFilled"
+    },
+    "unmixed-outline": {
+      "codepoint": 57655,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "unmixedOutline"
+    },
+    "usb-filled": {
+      "codepoint": 57656,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "usbFilled"
+    },
+    "usb-outline": {
+      "codepoint": 57657,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "usbOutline"
+    },
+    "verify-filled": {
+      "codepoint": 57658,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "verifyFilled"
+    },
+    "verify-outline": {
+      "codepoint": 57659,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "verifyOutline"
+    },
+    "visible-filled": {
+      "codepoint": 57660,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "visibleFilled"
+    },
+    "visible-outline": {
+      "codepoint": 57661,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "visibleOutline"
+    },
+    "volume-1-filled": {
+      "codepoint": 57662,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "volume1Filled"
+    },
+    "volume-1-outline": {
+      "codepoint": 57663,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "volume1Outline"
+    },
+    "volume-2-filled": {
+      "codepoint": 57664,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "volume2Filled"
+    },
+    "volume-2-outline": {
+      "codepoint": 57665,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "volume2Outline"
+    },
+    "volume-max-filled": {
+      "codepoint": 57666,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "volumeMaxFilled"
+    },
+    "volume-max-outline": {
+      "codepoint": 57667,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "volumeMaxOutline"
+    },
+    "volume-mute-filled": {
+      "codepoint": 57668,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "volumeMuteFilled"
+    },
+    "volume-mute-outline": {
+      "codepoint": 57669,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "volumeMuteOutline"
+    },
+    "wallet-filled": {
+      "codepoint": 57670,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "walletFilled"
+    },
+    "wallet-outline": {
+      "codepoint": 57671,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "walletOutline"
+    },
+    "water-bucket-filled": {
+      "codepoint": 57672,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "waterBucketFilled"
+    },
+    "water-bucket-outline": {
+      "codepoint": 57673,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "waterBucketOutline"
+    }
+  }
+}

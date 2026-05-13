@@ -1,0 +1,2350 @@
+{
+  "schemaVersion": 1,
+  "prefix": "akar-icons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_akar_icons",
+  "info": {
+    "name": "Akar Icons",
+    "author": {
+      "name": "Arturo Wibawa",
+      "url": "https://github.com/artcoholic/akar-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/artcoholic/akar-icons/blob/master/LICENSE"
+    },
+    "total": 464
+  },
+  "fonts": [
+    {
+      "family": "AkarIcons",
+      "nextCodepoint": 57808,
+      "iconCount": 464
+    }
+  ],
+  "icons": {
+    "air": {
+      "codepoint": 57344,
+      "fontFamily": "AkarIcons",
+      "identifier": "air"
+    },
+    "airplay-audio": {
+      "codepoint": 57345,
+      "fontFamily": "AkarIcons",
+      "identifier": "airplayAudio"
+    },
+    "airplay-video": {
+      "codepoint": 57346,
+      "fontFamily": "AkarIcons",
+      "identifier": "airplayVideo"
+    },
+    "airpods": {
+      "codepoint": 57347,
+      "fontFamily": "AkarIcons",
+      "identifier": "airpods"
+    },
+    "alarm": {
+      "codepoint": 57348,
+      "fontFamily": "AkarIcons",
+      "identifier": "alarm"
+    },
+    "align-bottom": {
+      "codepoint": 57349,
+      "fontFamily": "AkarIcons",
+      "identifier": "alignBottom"
+    },
+    "align-horizontal-center": {
+      "codepoint": 57350,
+      "fontFamily": "AkarIcons",
+      "identifier": "alignHorizontalCenter"
+    },
+    "align-left": {
+      "codepoint": 57351,
+      "fontFamily": "AkarIcons",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57352,
+      "fontFamily": "AkarIcons",
+      "identifier": "alignRight"
+    },
+    "align-to-bottom": {
+      "codepoint": 57353,
+      "fontFamily": "AkarIcons",
+      "identifier": "alignToBottom"
+    },
+    "align-to-middle": {
+      "codepoint": 57354,
+      "fontFamily": "AkarIcons",
+      "identifier": "alignToMiddle"
+    },
+    "align-to-top": {
+      "codepoint": 57355,
+      "fontFamily": "AkarIcons",
+      "identifier": "alignToTop"
+    },
+    "align-top": {
+      "codepoint": 57356,
+      "fontFamily": "AkarIcons",
+      "identifier": "alignTop"
+    },
+    "align-vertical-center": {
+      "codepoint": 57357,
+      "fontFamily": "AkarIcons",
+      "identifier": "alignVerticalCenter"
+    },
+    "android-fill": {
+      "codepoint": 57358,
+      "fontFamily": "AkarIcons",
+      "identifier": "androidFill"
+    },
+    "angular-fill": {
+      "codepoint": 57359,
+      "fontFamily": "AkarIcons",
+      "identifier": "angularFill"
+    },
+    "arrow-back": {
+      "codepoint": 57360,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowBack"
+    },
+    "arrow-back-thick": {
+      "codepoint": 57361,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowBackThick"
+    },
+    "arrow-back-thick-fill": {
+      "codepoint": 57362,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowBackThickFill"
+    },
+    "arrow-clockwise": {
+      "codepoint": 57363,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowClockwise"
+    },
+    "arrow-counter-clockwise": {
+      "codepoint": 57364,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowCounterClockwise"
+    },
+    "arrow-cycle": {
+      "codepoint": 57365,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowCycle"
+    },
+    "arrow-down": {
+      "codepoint": 57366,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-left": {
+      "codepoint": 57367,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowDownLeft"
+    },
+    "arrow-down-right": {
+      "codepoint": 57368,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowDownRight"
+    },
+    "arrow-down-thick": {
+      "codepoint": 57369,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowDownThick"
+    },
+    "arrow-forward": {
+      "codepoint": 57370,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowForward"
+    },
+    "arrow-forward-thick": {
+      "codepoint": 57371,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowForwardThick"
+    },
+    "arrow-forward-thick-fill": {
+      "codepoint": 57372,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowForwardThickFill"
+    },
+    "arrow-left": {
+      "codepoint": 57373,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-thick": {
+      "codepoint": 57374,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowLeftThick"
+    },
+    "arrow-repeat": {
+      "codepoint": 57375,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowRepeat"
+    },
+    "arrow-right": {
+      "codepoint": 57376,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-left": {
+      "codepoint": 57377,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowRightLeft"
+    },
+    "arrow-right-thick": {
+      "codepoint": 57378,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowRightThick"
+    },
+    "arrow-shuffle": {
+      "codepoint": 57379,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowShuffle"
+    },
+    "arrow-up": {
+      "codepoint": 57380,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-down": {
+      "codepoint": 57381,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowUpDown"
+    },
+    "arrow-up-left": {
+      "codepoint": 57382,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowUpLeft"
+    },
+    "arrow-up-right": {
+      "codepoint": 57383,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowUpRight"
+    },
+    "arrow-up-thick": {
+      "codepoint": 57384,
+      "fontFamily": "AkarIcons",
+      "identifier": "arrowUpThick"
+    },
+    "ascending": {
+      "codepoint": 57385,
+      "fontFamily": "AkarIcons",
+      "identifier": "ascending"
+    },
+    "attach": {
+      "codepoint": 57386,
+      "fontFamily": "AkarIcons",
+      "identifier": "attach"
+    },
+    "augmented-reality": {
+      "codepoint": 57387,
+      "fontFamily": "AkarIcons",
+      "identifier": "augmentedReality"
+    },
+    "backspace": {
+      "codepoint": 57388,
+      "fontFamily": "AkarIcons",
+      "identifier": "backspace"
+    },
+    "backspace-fill": {
+      "codepoint": 57389,
+      "fontFamily": "AkarIcons",
+      "identifier": "backspaceFill"
+    },
+    "bank": {
+      "codepoint": 57390,
+      "fontFamily": "AkarIcons",
+      "identifier": "bank"
+    },
+    "basket": {
+      "codepoint": 57391,
+      "fontFamily": "AkarIcons",
+      "identifier": "basket"
+    },
+    "battery-charging": {
+      "codepoint": 57392,
+      "fontFamily": "AkarIcons",
+      "identifier": "batteryCharging"
+    },
+    "battery-empty": {
+      "codepoint": 57393,
+      "fontFamily": "AkarIcons",
+      "identifier": "batteryEmpty"
+    },
+    "battery-full": {
+      "codepoint": 57394,
+      "fontFamily": "AkarIcons",
+      "identifier": "batteryFull"
+    },
+    "battery-low": {
+      "codepoint": 57395,
+      "fontFamily": "AkarIcons",
+      "identifier": "batteryLow"
+    },
+    "battery-medium": {
+      "codepoint": 57396,
+      "fontFamily": "AkarIcons",
+      "identifier": "batteryMedium"
+    },
+    "behance-fill": {
+      "codepoint": 57397,
+      "fontFamily": "AkarIcons",
+      "identifier": "behanceFill"
+    },
+    "bell": {
+      "codepoint": 57398,
+      "fontFamily": "AkarIcons",
+      "identifier": "bell"
+    },
+    "bicycle": {
+      "codepoint": 57399,
+      "fontFamily": "AkarIcons",
+      "identifier": "bicycle"
+    },
+    "bitcoin-fill": {
+      "codepoint": 57400,
+      "fontFamily": "AkarIcons",
+      "identifier": "bitcoinFill"
+    },
+    "block": {
+      "codepoint": 57401,
+      "fontFamily": "AkarIcons",
+      "identifier": "block"
+    },
+    "bluetooh": {
+      "codepoint": 57402,
+      "fontFamily": "AkarIcons",
+      "identifier": "bluetooh"
+    },
+    "bluetooth": {
+      "codepoint": 57403,
+      "fontFamily": "AkarIcons",
+      "identifier": "bluetooth"
+    },
+    "boat": {
+      "codepoint": 57404,
+      "fontFamily": "AkarIcons",
+      "identifier": "boat"
+    },
+    "book": {
+      "codepoint": 57405,
+      "fontFamily": "AkarIcons",
+      "identifier": "book"
+    },
+    "book-close": {
+      "codepoint": 57406,
+      "fontFamily": "AkarIcons",
+      "identifier": "bookClose"
+    },
+    "book-open": {
+      "codepoint": 57407,
+      "fontFamily": "AkarIcons",
+      "identifier": "bookOpen"
+    },
+    "bookmark": {
+      "codepoint": 57408,
+      "fontFamily": "AkarIcons",
+      "identifier": "bookmark"
+    },
+    "bootstrap-fill": {
+      "codepoint": 57409,
+      "fontFamily": "AkarIcons",
+      "identifier": "bootstrapFill"
+    },
+    "box": {
+      "codepoint": 57410,
+      "fontFamily": "AkarIcons",
+      "identifier": "box"
+    },
+    "briefcase": {
+      "codepoint": 57411,
+      "fontFamily": "AkarIcons",
+      "identifier": "briefcase"
+    },
+    "bug": {
+      "codepoint": 57412,
+      "fontFamily": "AkarIcons",
+      "identifier": "bug"
+    },
+    "cake": {
+      "codepoint": 57413,
+      "fontFamily": "AkarIcons",
+      "identifier": "cake"
+    },
+    "calculator": {
+      "codepoint": 57414,
+      "fontFamily": "AkarIcons",
+      "identifier": "calculator"
+    },
+    "calendar": {
+      "codepoint": 57415,
+      "fontFamily": "AkarIcons",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57416,
+      "fontFamily": "AkarIcons",
+      "identifier": "camera"
+    },
+    "cart": {
+      "codepoint": 57417,
+      "fontFamily": "AkarIcons",
+      "identifier": "cart"
+    },
+    "chat-add": {
+      "codepoint": 57418,
+      "fontFamily": "AkarIcons",
+      "identifier": "chatAdd"
+    },
+    "chat-approve": {
+      "codepoint": 57419,
+      "fontFamily": "AkarIcons",
+      "identifier": "chatApprove"
+    },
+    "chat-bubble": {
+      "codepoint": 57420,
+      "fontFamily": "AkarIcons",
+      "identifier": "chatBubble"
+    },
+    "chat-dots": {
+      "codepoint": 57421,
+      "fontFamily": "AkarIcons",
+      "identifier": "chatDots"
+    },
+    "chat-edit": {
+      "codepoint": 57422,
+      "fontFamily": "AkarIcons",
+      "identifier": "chatEdit"
+    },
+    "chat-error": {
+      "codepoint": 57423,
+      "fontFamily": "AkarIcons",
+      "identifier": "chatError"
+    },
+    "chat-question": {
+      "codepoint": 57424,
+      "fontFamily": "AkarIcons",
+      "identifier": "chatQuestion"
+    },
+    "chat-remove": {
+      "codepoint": 57425,
+      "fontFamily": "AkarIcons",
+      "identifier": "chatRemove"
+    },
+    "check": {
+      "codepoint": 57426,
+      "fontFamily": "AkarIcons",
+      "identifier": "check"
+    },
+    "check-box": {
+      "codepoint": 57427,
+      "fontFamily": "AkarIcons",
+      "identifier": "checkBox"
+    },
+    "check-box-fill": {
+      "codepoint": 57428,
+      "fontFamily": "AkarIcons",
+      "identifier": "checkBoxFill"
+    },
+    "check-in": {
+      "codepoint": 57429,
+      "fontFamily": "AkarIcons",
+      "identifier": "checkIn"
+    },
+    "chess": {
+      "codepoint": 57430,
+      "fontFamily": "AkarIcons",
+      "identifier": "chess"
+    },
+    "chevron-down": {
+      "codepoint": 57431,
+      "fontFamily": "AkarIcons",
+      "identifier": "chevronDown"
+    },
+    "chevron-down-small": {
+      "codepoint": 57432,
+      "fontFamily": "AkarIcons",
+      "identifier": "chevronDownSmall"
+    },
+    "chevron-horizontal": {
+      "codepoint": 57433,
+      "fontFamily": "AkarIcons",
+      "identifier": "chevronHorizontal"
+    },
+    "chevron-left": {
+      "codepoint": 57434,
+      "fontFamily": "AkarIcons",
+      "identifier": "chevronLeft"
+    },
+    "chevron-left-small": {
+      "codepoint": 57435,
+      "fontFamily": "AkarIcons",
+      "identifier": "chevronLeftSmall"
+    },
+    "chevron-right": {
+      "codepoint": 57436,
+      "fontFamily": "AkarIcons",
+      "identifier": "chevronRight"
+    },
+    "chevron-right-small": {
+      "codepoint": 57437,
+      "fontFamily": "AkarIcons",
+      "identifier": "chevronRightSmall"
+    },
+    "chevron-up": {
+      "codepoint": 57438,
+      "fontFamily": "AkarIcons",
+      "identifier": "chevronUp"
+    },
+    "chevron-up-small": {
+      "codepoint": 57439,
+      "fontFamily": "AkarIcons",
+      "identifier": "chevronUpSmall"
+    },
+    "chevron-vertical": {
+      "codepoint": 57440,
+      "fontFamily": "AkarIcons",
+      "identifier": "chevronVertical"
+    },
+    "circle": {
+      "codepoint": 57441,
+      "fontFamily": "AkarIcons",
+      "identifier": "circle"
+    },
+    "circle-alert": {
+      "codepoint": 57442,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleAlert"
+    },
+    "circle-alert-fill": {
+      "codepoint": 57443,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleAlertFill"
+    },
+    "circle-check": {
+      "codepoint": 57444,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleCheck"
+    },
+    "circle-check-fill": {
+      "codepoint": 57445,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleCheckFill"
+    },
+    "circle-chevron-down": {
+      "codepoint": 57446,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleChevronDown"
+    },
+    "circle-chevron-down-fill": {
+      "codepoint": 57447,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleChevronDownFill"
+    },
+    "circle-chevron-left": {
+      "codepoint": 57448,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleChevronLeft"
+    },
+    "circle-chevron-left-fill": {
+      "codepoint": 57449,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleChevronLeftFill"
+    },
+    "circle-chevron-right": {
+      "codepoint": 57450,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleChevronRight"
+    },
+    "circle-chevron-right-fill": {
+      "codepoint": 57451,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleChevronRightFill"
+    },
+    "circle-chevron-up": {
+      "codepoint": 57452,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleChevronUp"
+    },
+    "circle-chevron-up-fill": {
+      "codepoint": 57453,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleChevronUpFill"
+    },
+    "circle-fill": {
+      "codepoint": 57454,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleFill"
+    },
+    "circle-minus": {
+      "codepoint": 57455,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleMinus"
+    },
+    "circle-minus-fill": {
+      "codepoint": 57456,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleMinusFill"
+    },
+    "circle-plus": {
+      "codepoint": 57457,
+      "fontFamily": "AkarIcons",
+      "identifier": "circlePlus"
+    },
+    "circle-plus-fill": {
+      "codepoint": 57458,
+      "fontFamily": "AkarIcons",
+      "identifier": "circlePlusFill"
+    },
+    "circle-triangle-down": {
+      "codepoint": 57459,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleTriangleDown"
+    },
+    "circle-triangle-down-fill": {
+      "codepoint": 57460,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleTriangleDownFill"
+    },
+    "circle-triangle-left": {
+      "codepoint": 57461,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleTriangleLeft"
+    },
+    "circle-triangle-left-fill": {
+      "codepoint": 57462,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleTriangleLeftFill"
+    },
+    "circle-triangle-right": {
+      "codepoint": 57463,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleTriangleRight"
+    },
+    "circle-triangle-right-fill": {
+      "codepoint": 57464,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleTriangleRightFill"
+    },
+    "circle-triangle-up": {
+      "codepoint": 57465,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleTriangleUp"
+    },
+    "circle-triangle-up-fill": {
+      "codepoint": 57466,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleTriangleUpFill"
+    },
+    "circle-x": {
+      "codepoint": 57467,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleX"
+    },
+    "circle-x-fill": {
+      "codepoint": 57468,
+      "fontFamily": "AkarIcons",
+      "identifier": "circleXFill"
+    },
+    "clipboard": {
+      "codepoint": 57469,
+      "fontFamily": "AkarIcons",
+      "identifier": "clipboard"
+    },
+    "clock": {
+      "codepoint": 57470,
+      "fontFamily": "AkarIcons",
+      "identifier": "clock"
+    },
+    "cloud": {
+      "codepoint": 57471,
+      "fontFamily": "AkarIcons",
+      "identifier": "cloud"
+    },
+    "cloud-download": {
+      "codepoint": 57472,
+      "fontFamily": "AkarIcons",
+      "identifier": "cloudDownload"
+    },
+    "cloud-upload": {
+      "codepoint": 57473,
+      "fontFamily": "AkarIcons",
+      "identifier": "cloudUpload"
+    },
+    "codepen-fill": {
+      "codepoint": 57474,
+      "fontFamily": "AkarIcons",
+      "identifier": "codepenFill"
+    },
+    "coffee": {
+      "codepoint": 57475,
+      "fontFamily": "AkarIcons",
+      "identifier": "coffee"
+    },
+    "coin": {
+      "codepoint": 57476,
+      "fontFamily": "AkarIcons",
+      "identifier": "coin"
+    },
+    "command": {
+      "codepoint": 57477,
+      "fontFamily": "AkarIcons",
+      "identifier": "command"
+    },
+    "comment": {
+      "codepoint": 57478,
+      "fontFamily": "AkarIcons",
+      "identifier": "comment"
+    },
+    "comment-add": {
+      "codepoint": 57479,
+      "fontFamily": "AkarIcons",
+      "identifier": "commentAdd"
+    },
+    "computing": {
+      "codepoint": 57480,
+      "fontFamily": "AkarIcons",
+      "identifier": "computing"
+    },
+    "copy": {
+      "codepoint": 57481,
+      "fontFamily": "AkarIcons",
+      "identifier": "copy"
+    },
+    "credit-card": {
+      "codepoint": 57482,
+      "fontFamily": "AkarIcons",
+      "identifier": "creditCard"
+    },
+    "credit-card-alt1": {
+      "codepoint": 57483,
+      "fontFamily": "AkarIcons",
+      "identifier": "creditCardAlt1"
+    },
+    "cross": {
+      "codepoint": 57484,
+      "fontFamily": "AkarIcons",
+      "identifier": "cross"
+    },
+    "crown": {
+      "codepoint": 57485,
+      "fontFamily": "AkarIcons",
+      "identifier": "crown"
+    },
+    "css-fill": {
+      "codepoint": 57486,
+      "fontFamily": "AkarIcons",
+      "identifier": "cssFill"
+    },
+    "cursor": {
+      "codepoint": 57487,
+      "fontFamily": "AkarIcons",
+      "identifier": "cursor"
+    },
+    "cut": {
+      "codepoint": 57488,
+      "fontFamily": "AkarIcons",
+      "identifier": "cut"
+    },
+    "dashboard": {
+      "codepoint": 57489,
+      "fontFamily": "AkarIcons",
+      "identifier": "dashboard"
+    },
+    "data": {
+      "codepoint": 57490,
+      "fontFamily": "AkarIcons",
+      "identifier": "data"
+    },
+    "dental": {
+      "codepoint": 57491,
+      "fontFamily": "AkarIcons",
+      "identifier": "dental"
+    },
+    "descending": {
+      "codepoint": 57492,
+      "fontFamily": "AkarIcons",
+      "identifier": "descending"
+    },
+    "desktop-device": {
+      "codepoint": 57493,
+      "fontFamily": "AkarIcons",
+      "identifier": "desktopDevice"
+    },
+    "devices": {
+      "codepoint": 57494,
+      "fontFamily": "AkarIcons",
+      "identifier": "devices"
+    },
+    "diamond": {
+      "codepoint": 57495,
+      "fontFamily": "AkarIcons",
+      "identifier": "diamond"
+    },
+    "dice-1": {
+      "codepoint": 57496,
+      "fontFamily": "AkarIcons",
+      "identifier": "dice1"
+    },
+    "dice-2": {
+      "codepoint": 57497,
+      "fontFamily": "AkarIcons",
+      "identifier": "dice2"
+    },
+    "dice-3": {
+      "codepoint": 57498,
+      "fontFamily": "AkarIcons",
+      "identifier": "dice3"
+    },
+    "dice-4": {
+      "codepoint": 57499,
+      "fontFamily": "AkarIcons",
+      "identifier": "dice4"
+    },
+    "dice-5": {
+      "codepoint": 57500,
+      "fontFamily": "AkarIcons",
+      "identifier": "dice5"
+    },
+    "dice-6": {
+      "codepoint": 57501,
+      "fontFamily": "AkarIcons",
+      "identifier": "dice6"
+    },
+    "discord-fill": {
+      "codepoint": 57502,
+      "fontFamily": "AkarIcons",
+      "identifier": "discordFill"
+    },
+    "django-fill": {
+      "codepoint": 57503,
+      "fontFamily": "AkarIcons",
+      "identifier": "djangoFill"
+    },
+    "door": {
+      "codepoint": 57504,
+      "fontFamily": "AkarIcons",
+      "identifier": "door"
+    },
+    "dot-grid": {
+      "codepoint": 57505,
+      "fontFamily": "AkarIcons",
+      "identifier": "dotGrid"
+    },
+    "dot-grid-fill": {
+      "codepoint": 57506,
+      "fontFamily": "AkarIcons",
+      "identifier": "dotGridFill"
+    },
+    "double-check": {
+      "codepoint": 57507,
+      "fontFamily": "AkarIcons",
+      "identifier": "doubleCheck"
+    },
+    "double-sword": {
+      "codepoint": 57508,
+      "fontFamily": "AkarIcons",
+      "identifier": "doubleSword"
+    },
+    "download": {
+      "codepoint": 57509,
+      "fontFamily": "AkarIcons",
+      "identifier": "download"
+    },
+    "draft": {
+      "codepoint": 57510,
+      "fontFamily": "AkarIcons",
+      "identifier": "draft"
+    },
+    "drag-horizontal": {
+      "codepoint": 57511,
+      "fontFamily": "AkarIcons",
+      "identifier": "dragHorizontal"
+    },
+    "drag-horizontal-fill": {
+      "codepoint": 57512,
+      "fontFamily": "AkarIcons",
+      "identifier": "dragHorizontalFill"
+    },
+    "drag-vertical": {
+      "codepoint": 57513,
+      "fontFamily": "AkarIcons",
+      "identifier": "dragVertical"
+    },
+    "drag-vertical-fill": {
+      "codepoint": 57514,
+      "fontFamily": "AkarIcons",
+      "identifier": "dragVerticalFill"
+    },
+    "dribbble-fill": {
+      "codepoint": 57515,
+      "fontFamily": "AkarIcons",
+      "identifier": "dribbbleFill"
+    },
+    "dropbox-fill": {
+      "codepoint": 57516,
+      "fontFamily": "AkarIcons",
+      "identifier": "dropboxFill"
+    },
+    "edit": {
+      "codepoint": 57517,
+      "fontFamily": "AkarIcons",
+      "identifier": "edit"
+    },
+    "enlarge": {
+      "codepoint": 57518,
+      "fontFamily": "AkarIcons",
+      "identifier": "enlarge"
+    },
+    "envelope": {
+      "codepoint": 57519,
+      "fontFamily": "AkarIcons",
+      "identifier": "envelope"
+    },
+    "equal": {
+      "codepoint": 57520,
+      "fontFamily": "AkarIcons",
+      "identifier": "equal"
+    },
+    "equal-fill": {
+      "codepoint": 57521,
+      "fontFamily": "AkarIcons",
+      "identifier": "equalFill"
+    },
+    "eye": {
+      "codepoint": 57522,
+      "fontFamily": "AkarIcons",
+      "identifier": "eye"
+    },
+    "eye-closed": {
+      "codepoint": 57523,
+      "fontFamily": "AkarIcons",
+      "identifier": "eyeClosed"
+    },
+    "eye-open": {
+      "codepoint": 57524,
+      "fontFamily": "AkarIcons",
+      "identifier": "eyeOpen"
+    },
+    "eye-slashed": {
+      "codepoint": 57525,
+      "fontFamily": "AkarIcons",
+      "identifier": "eyeSlashed"
+    },
+    "face-happy": {
+      "codepoint": 57526,
+      "fontFamily": "AkarIcons",
+      "identifier": "faceHappy"
+    },
+    "face-neutral": {
+      "codepoint": 57527,
+      "fontFamily": "AkarIcons",
+      "identifier": "faceNeutral"
+    },
+    "face-sad": {
+      "codepoint": 57528,
+      "fontFamily": "AkarIcons",
+      "identifier": "faceSad"
+    },
+    "face-very-happy": {
+      "codepoint": 57529,
+      "fontFamily": "AkarIcons",
+      "identifier": "faceVeryHappy"
+    },
+    "face-very-sad": {
+      "codepoint": 57530,
+      "fontFamily": "AkarIcons",
+      "identifier": "faceVerySad"
+    },
+    "face-wink": {
+      "codepoint": 57531,
+      "fontFamily": "AkarIcons",
+      "identifier": "faceWink"
+    },
+    "facebook-fill": {
+      "codepoint": 57532,
+      "fontFamily": "AkarIcons",
+      "identifier": "facebookFill"
+    },
+    "figma": {
+      "codepoint": 57533,
+      "fontFamily": "AkarIcons",
+      "identifier": "figma"
+    },
+    "figma-fill": {
+      "codepoint": 57534,
+      "fontFamily": "AkarIcons",
+      "identifier": "figmaFill"
+    },
+    "file": {
+      "codepoint": 57535,
+      "fontFamily": "AkarIcons",
+      "identifier": "file"
+    },
+    "filter": {
+      "codepoint": 57536,
+      "fontFamily": "AkarIcons",
+      "identifier": "filter"
+    },
+    "fire": {
+      "codepoint": 57537,
+      "fontFamily": "AkarIcons",
+      "identifier": "fire"
+    },
+    "flag": {
+      "codepoint": 57538,
+      "fontFamily": "AkarIcons",
+      "identifier": "flag"
+    },
+    "flashlight": {
+      "codepoint": 57539,
+      "fontFamily": "AkarIcons",
+      "identifier": "flashlight"
+    },
+    "folder": {
+      "codepoint": 57540,
+      "fontFamily": "AkarIcons",
+      "identifier": "folder"
+    },
+    "folder-add": {
+      "codepoint": 57541,
+      "fontFamily": "AkarIcons",
+      "identifier": "folderAdd"
+    },
+    "fork-left": {
+      "codepoint": 57542,
+      "fontFamily": "AkarIcons",
+      "identifier": "forkLeft"
+    },
+    "fork-right": {
+      "codepoint": 57543,
+      "fontFamily": "AkarIcons",
+      "identifier": "forkRight"
+    },
+    "frame": {
+      "codepoint": 57544,
+      "fontFamily": "AkarIcons",
+      "identifier": "frame"
+    },
+    "full-screen": {
+      "codepoint": 57545,
+      "fontFamily": "AkarIcons",
+      "identifier": "fullScreen"
+    },
+    "game-controller": {
+      "codepoint": 57546,
+      "fontFamily": "AkarIcons",
+      "identifier": "gameController"
+    },
+    "gatsby-fill": {
+      "codepoint": 57547,
+      "fontFamily": "AkarIcons",
+      "identifier": "gatsbyFill"
+    },
+    "gear": {
+      "codepoint": 57548,
+      "fontFamily": "AkarIcons",
+      "identifier": "gear"
+    },
+    "gift": {
+      "codepoint": 57549,
+      "fontFamily": "AkarIcons",
+      "identifier": "gift"
+    },
+    "github": {
+      "codepoint": 57550,
+      "fontFamily": "AkarIcons",
+      "identifier": "github"
+    },
+    "github-fill": {
+      "codepoint": 57551,
+      "fontFamily": "AkarIcons",
+      "identifier": "githubFill"
+    },
+    "github-outline-fill": {
+      "codepoint": 57552,
+      "fontFamily": "AkarIcons",
+      "identifier": "githubOutlineFill"
+    },
+    "gitlab-fill": {
+      "codepoint": 57553,
+      "fontFamily": "AkarIcons",
+      "identifier": "gitlabFill"
+    },
+    "glasses": {
+      "codepoint": 57554,
+      "fontFamily": "AkarIcons",
+      "identifier": "glasses"
+    },
+    "globe": {
+      "codepoint": 57555,
+      "fontFamily": "AkarIcons",
+      "identifier": "globe"
+    },
+    "google-contained-fill": {
+      "codepoint": 57556,
+      "fontFamily": "AkarIcons",
+      "identifier": "googleContainedFill"
+    },
+    "google-fill": {
+      "codepoint": 57557,
+      "fontFamily": "AkarIcons",
+      "identifier": "googleFill"
+    },
+    "graphql-fill": {
+      "codepoint": 57558,
+      "fontFamily": "AkarIcons",
+      "identifier": "graphqlFill"
+    },
+    "grid": {
+      "codepoint": 57559,
+      "fontFamily": "AkarIcons",
+      "identifier": "grid"
+    },
+    "hammer": {
+      "codepoint": 57560,
+      "fontFamily": "AkarIcons",
+      "identifier": "hammer"
+    },
+    "hand": {
+      "codepoint": 57561,
+      "fontFamily": "AkarIcons",
+      "identifier": "hand"
+    },
+    "hashtag": {
+      "codepoint": 57562,
+      "fontFamily": "AkarIcons",
+      "identifier": "hashtag"
+    },
+    "headphone": {
+      "codepoint": 57563,
+      "fontFamily": "AkarIcons",
+      "identifier": "headphone"
+    },
+    "health": {
+      "codepoint": 57564,
+      "fontFamily": "AkarIcons",
+      "identifier": "health"
+    },
+    "heart": {
+      "codepoint": 57565,
+      "fontFamily": "AkarIcons",
+      "identifier": "heart"
+    },
+    "height": {
+      "codepoint": 57566,
+      "fontFamily": "AkarIcons",
+      "identifier": "height"
+    },
+    "heptagon": {
+      "codepoint": 57567,
+      "fontFamily": "AkarIcons",
+      "identifier": "heptagon"
+    },
+    "heptagon-fill": {
+      "codepoint": 57568,
+      "fontFamily": "AkarIcons",
+      "identifier": "heptagonFill"
+    },
+    "hexagon": {
+      "codepoint": 57569,
+      "fontFamily": "AkarIcons",
+      "identifier": "hexagon"
+    },
+    "hexagon-fill": {
+      "codepoint": 57570,
+      "fontFamily": "AkarIcons",
+      "identifier": "hexagonFill"
+    },
+    "history": {
+      "codepoint": 57571,
+      "fontFamily": "AkarIcons",
+      "identifier": "history"
+    },
+    "home": {
+      "codepoint": 57572,
+      "fontFamily": "AkarIcons",
+      "identifier": "home"
+    },
+    "home-alt1": {
+      "codepoint": 57573,
+      "fontFamily": "AkarIcons",
+      "identifier": "homeAlt1"
+    },
+    "html-fill": {
+      "codepoint": 57574,
+      "fontFamily": "AkarIcons",
+      "identifier": "htmlFill"
+    },
+    "image": {
+      "codepoint": 57575,
+      "fontFamily": "AkarIcons",
+      "identifier": "image"
+    },
+    "inbox": {
+      "codepoint": 57576,
+      "fontFamily": "AkarIcons",
+      "identifier": "inbox"
+    },
+    "infinite": {
+      "codepoint": 57577,
+      "fontFamily": "AkarIcons",
+      "identifier": "infinite"
+    },
+    "infinity": {
+      "codepoint": 57578,
+      "fontFamily": "AkarIcons",
+      "identifier": "infinity"
+    },
+    "info": {
+      "codepoint": 57579,
+      "fontFamily": "AkarIcons",
+      "identifier": "info"
+    },
+    "info-fill": {
+      "codepoint": 57580,
+      "fontFamily": "AkarIcons",
+      "identifier": "infoFill"
+    },
+    "instagram": {
+      "codepoint": 57581,
+      "fontFamily": "AkarIcons",
+      "identifier": "instagram"
+    },
+    "instagram-fill": {
+      "codepoint": 57582,
+      "fontFamily": "AkarIcons",
+      "identifier": "instagramFill"
+    },
+    "jar": {
+      "codepoint": 57583,
+      "fontFamily": "AkarIcons",
+      "identifier": "jar"
+    },
+    "javascript-fill": {
+      "codepoint": 57584,
+      "fontFamily": "AkarIcons",
+      "identifier": "javascriptFill"
+    },
+    "jquery-fill": {
+      "codepoint": 57585,
+      "fontFamily": "AkarIcons",
+      "identifier": "jqueryFill"
+    },
+    "key": {
+      "codepoint": 57586,
+      "fontFamily": "AkarIcons",
+      "identifier": "key"
+    },
+    "key-cap": {
+      "codepoint": 57587,
+      "fontFamily": "AkarIcons",
+      "identifier": "keyCap"
+    },
+    "language": {
+      "codepoint": 57588,
+      "fontFamily": "AkarIcons",
+      "identifier": "language"
+    },
+    "laptop-device": {
+      "codepoint": 57589,
+      "fontFamily": "AkarIcons",
+      "identifier": "laptopDevice"
+    },
+    "leaf": {
+      "codepoint": 57590,
+      "fontFamily": "AkarIcons",
+      "identifier": "leaf"
+    },
+    "lifesaver": {
+      "codepoint": 57591,
+      "fontFamily": "AkarIcons",
+      "identifier": "lifesaver"
+    },
+    "light-bulb": {
+      "codepoint": 57592,
+      "fontFamily": "AkarIcons",
+      "identifier": "lightBulb"
+    },
+    "link": {
+      "codepoint": 57593,
+      "fontFamily": "AkarIcons",
+      "identifier": "link"
+    },
+    "link-chain": {
+      "codepoint": 57594,
+      "fontFamily": "AkarIcons",
+      "identifier": "linkChain"
+    },
+    "link-off": {
+      "codepoint": 57595,
+      "fontFamily": "AkarIcons",
+      "identifier": "linkOff"
+    },
+    "link-on": {
+      "codepoint": 57596,
+      "fontFamily": "AkarIcons",
+      "identifier": "linkOn"
+    },
+    "link-out": {
+      "codepoint": 57597,
+      "fontFamily": "AkarIcons",
+      "identifier": "linkOut"
+    },
+    "linkedin-box-fill": {
+      "codepoint": 57598,
+      "fontFamily": "AkarIcons",
+      "identifier": "linkedinBoxFill"
+    },
+    "linkedin-fill": {
+      "codepoint": 57599,
+      "fontFamily": "AkarIcons",
+      "identifier": "linkedinFill"
+    },
+    "linkedin-v1-fill": {
+      "codepoint": 57600,
+      "fontFamily": "AkarIcons",
+      "identifier": "linkedinV1Fill"
+    },
+    "linkedin-v2-fill": {
+      "codepoint": 57601,
+      "fontFamily": "AkarIcons",
+      "identifier": "linkedinV2Fill"
+    },
+    "linkedinv1-fill": {
+      "codepoint": 57602,
+      "fontFamily": "AkarIcons",
+      "identifier": "linkedinv1Fill"
+    },
+    "linkedinv2-fill": {
+      "codepoint": 57603,
+      "fontFamily": "AkarIcons",
+      "identifier": "linkedinv2Fill"
+    },
+    "location": {
+      "codepoint": 57604,
+      "fontFamily": "AkarIcons",
+      "identifier": "location"
+    },
+    "lock-off": {
+      "codepoint": 57605,
+      "fontFamily": "AkarIcons",
+      "identifier": "lockOff"
+    },
+    "lock-on": {
+      "codepoint": 57606,
+      "fontFamily": "AkarIcons",
+      "identifier": "lockOn"
+    },
+    "map": {
+      "codepoint": 57607,
+      "fontFamily": "AkarIcons",
+      "identifier": "map"
+    },
+    "mastodon-fill": {
+      "codepoint": 57608,
+      "fontFamily": "AkarIcons",
+      "identifier": "mastodonFill"
+    },
+    "medium-fill": {
+      "codepoint": 57609,
+      "fontFamily": "AkarIcons",
+      "identifier": "mediumFill"
+    },
+    "mention": {
+      "codepoint": 57610,
+      "fontFamily": "AkarIcons",
+      "identifier": "mention"
+    },
+    "microphone": {
+      "codepoint": 57611,
+      "fontFamily": "AkarIcons",
+      "identifier": "microphone"
+    },
+    "miniplayer": {
+      "codepoint": 57612,
+      "fontFamily": "AkarIcons",
+      "identifier": "miniplayer"
+    },
+    "minus": {
+      "codepoint": 57613,
+      "fontFamily": "AkarIcons",
+      "identifier": "minus"
+    },
+    "mobile-device": {
+      "codepoint": 57614,
+      "fontFamily": "AkarIcons",
+      "identifier": "mobileDevice"
+    },
+    "money": {
+      "codepoint": 57615,
+      "fontFamily": "AkarIcons",
+      "identifier": "money"
+    },
+    "moon": {
+      "codepoint": 57616,
+      "fontFamily": "AkarIcons",
+      "identifier": "moon"
+    },
+    "moon-fill": {
+      "codepoint": 57617,
+      "fontFamily": "AkarIcons",
+      "identifier": "moonFill"
+    },
+    "more-horizontal": {
+      "codepoint": 57618,
+      "fontFamily": "AkarIcons",
+      "identifier": "moreHorizontal"
+    },
+    "more-horizontal-fill": {
+      "codepoint": 57619,
+      "fontFamily": "AkarIcons",
+      "identifier": "moreHorizontalFill"
+    },
+    "more-vertical": {
+      "codepoint": 57620,
+      "fontFamily": "AkarIcons",
+      "identifier": "moreVertical"
+    },
+    "more-vertical-fill": {
+      "codepoint": 57621,
+      "fontFamily": "AkarIcons",
+      "identifier": "moreVerticalFill"
+    },
+    "music": {
+      "codepoint": 57622,
+      "fontFamily": "AkarIcons",
+      "identifier": "music"
+    },
+    "music-album": {
+      "codepoint": 57623,
+      "fontFamily": "AkarIcons",
+      "identifier": "musicAlbum"
+    },
+    "music-album-fill": {
+      "codepoint": 57624,
+      "fontFamily": "AkarIcons",
+      "identifier": "musicAlbumFill"
+    },
+    "music-note": {
+      "codepoint": 57625,
+      "fontFamily": "AkarIcons",
+      "identifier": "musicNote"
+    },
+    "network": {
+      "codepoint": 57626,
+      "fontFamily": "AkarIcons",
+      "identifier": "network"
+    },
+    "newspaper": {
+      "codepoint": 57627,
+      "fontFamily": "AkarIcons",
+      "identifier": "newspaper"
+    },
+    "nextjs-fill": {
+      "codepoint": 57628,
+      "fontFamily": "AkarIcons",
+      "identifier": "nextjsFill"
+    },
+    "node-fill": {
+      "codepoint": 57629,
+      "fontFamily": "AkarIcons",
+      "identifier": "nodeFill"
+    },
+    "normal-screen": {
+      "codepoint": 57630,
+      "fontFamily": "AkarIcons",
+      "identifier": "normalScreen"
+    },
+    "npm-fill": {
+      "codepoint": 57631,
+      "fontFamily": "AkarIcons",
+      "identifier": "npmFill"
+    },
+    "octagon": {
+      "codepoint": 57632,
+      "fontFamily": "AkarIcons",
+      "identifier": "octagon"
+    },
+    "octagon-fill": {
+      "codepoint": 57633,
+      "fontFamily": "AkarIcons",
+      "identifier": "octagonFill"
+    },
+    "octocat-fill": {
+      "codepoint": 57634,
+      "fontFamily": "AkarIcons",
+      "identifier": "octocatFill"
+    },
+    "open-envelope": {
+      "codepoint": 57635,
+      "fontFamily": "AkarIcons",
+      "identifier": "openEnvelope"
+    },
+    "oval": {
+      "codepoint": 57636,
+      "fontFamily": "AkarIcons",
+      "identifier": "oval"
+    },
+    "panel-bottom": {
+      "codepoint": 57637,
+      "fontFamily": "AkarIcons",
+      "identifier": "panelBottom"
+    },
+    "panel-left": {
+      "codepoint": 57638,
+      "fontFamily": "AkarIcons",
+      "identifier": "panelLeft"
+    },
+    "panel-right": {
+      "codepoint": 57639,
+      "fontFamily": "AkarIcons",
+      "identifier": "panelRight"
+    },
+    "panel-split": {
+      "codepoint": 57640,
+      "fontFamily": "AkarIcons",
+      "identifier": "panelSplit"
+    },
+    "panel-split-column": {
+      "codepoint": 57641,
+      "fontFamily": "AkarIcons",
+      "identifier": "panelSplitColumn"
+    },
+    "panel-split-row": {
+      "codepoint": 57642,
+      "fontFamily": "AkarIcons",
+      "identifier": "panelSplitRow"
+    },
+    "panel-top": {
+      "codepoint": 57643,
+      "fontFamily": "AkarIcons",
+      "identifier": "panelTop"
+    },
+    "paper": {
+      "codepoint": 57644,
+      "fontFamily": "AkarIcons",
+      "identifier": "paper"
+    },
+    "paper-airplane": {
+      "codepoint": 57645,
+      "fontFamily": "AkarIcons",
+      "identifier": "paperAirplane"
+    },
+    "parallelogram": {
+      "codepoint": 57646,
+      "fontFamily": "AkarIcons",
+      "identifier": "parallelogram"
+    },
+    "pause": {
+      "codepoint": 57647,
+      "fontFamily": "AkarIcons",
+      "identifier": "pause"
+    },
+    "pencil": {
+      "codepoint": 57648,
+      "fontFamily": "AkarIcons",
+      "identifier": "pencil"
+    },
+    "pentagon": {
+      "codepoint": 57649,
+      "fontFamily": "AkarIcons",
+      "identifier": "pentagon"
+    },
+    "pentagon-fill": {
+      "codepoint": 57650,
+      "fontFamily": "AkarIcons",
+      "identifier": "pentagonFill"
+    },
+    "people-group": {
+      "codepoint": 57651,
+      "fontFamily": "AkarIcons",
+      "identifier": "peopleGroup"
+    },
+    "people-multiple": {
+      "codepoint": 57652,
+      "fontFamily": "AkarIcons",
+      "identifier": "peopleMultiple"
+    },
+    "percentage": {
+      "codepoint": 57653,
+      "fontFamily": "AkarIcons",
+      "identifier": "percentage"
+    },
+    "person": {
+      "codepoint": 57654,
+      "fontFamily": "AkarIcons",
+      "identifier": "person"
+    },
+    "person-add": {
+      "codepoint": 57655,
+      "fontFamily": "AkarIcons",
+      "identifier": "personAdd"
+    },
+    "person-check": {
+      "codepoint": 57656,
+      "fontFamily": "AkarIcons",
+      "identifier": "personCheck"
+    },
+    "person-cross": {
+      "codepoint": 57657,
+      "fontFamily": "AkarIcons",
+      "identifier": "personCross"
+    },
+    "phone": {
+      "codepoint": 57658,
+      "fontFamily": "AkarIcons",
+      "identifier": "phone"
+    },
+    "php-fill": {
+      "codepoint": 57659,
+      "fontFamily": "AkarIcons",
+      "identifier": "phpFill"
+    },
+    "pin": {
+      "codepoint": 57660,
+      "fontFamily": "AkarIcons",
+      "identifier": "pin"
+    },
+    "pinterest-fill": {
+      "codepoint": 57661,
+      "fontFamily": "AkarIcons",
+      "identifier": "pinterestFill"
+    },
+    "plane": {
+      "codepoint": 57662,
+      "fontFamily": "AkarIcons",
+      "identifier": "plane"
+    },
+    "plane-fill": {
+      "codepoint": 57663,
+      "fontFamily": "AkarIcons",
+      "identifier": "planeFill"
+    },
+    "planet": {
+      "codepoint": 57664,
+      "fontFamily": "AkarIcons",
+      "identifier": "planet"
+    },
+    "plant": {
+      "codepoint": 57665,
+      "fontFamily": "AkarIcons",
+      "identifier": "plant"
+    },
+    "play": {
+      "codepoint": 57666,
+      "fontFamily": "AkarIcons",
+      "identifier": "play"
+    },
+    "plus": {
+      "codepoint": 57667,
+      "fontFamily": "AkarIcons",
+      "identifier": "plus"
+    },
+    "pointer-down-fill": {
+      "codepoint": 57668,
+      "fontFamily": "AkarIcons",
+      "identifier": "pointerDownFill"
+    },
+    "pointer-hand": {
+      "codepoint": 57669,
+      "fontFamily": "AkarIcons",
+      "identifier": "pointerHand"
+    },
+    "pointer-left-fill": {
+      "codepoint": 57670,
+      "fontFamily": "AkarIcons",
+      "identifier": "pointerLeftFill"
+    },
+    "pointer-right-fill": {
+      "codepoint": 57671,
+      "fontFamily": "AkarIcons",
+      "identifier": "pointerRightFill"
+    },
+    "pointer-up-fill": {
+      "codepoint": 57672,
+      "fontFamily": "AkarIcons",
+      "identifier": "pointerUpFill"
+    },
+    "pointing-up": {
+      "codepoint": 57673,
+      "fontFamily": "AkarIcons",
+      "identifier": "pointingUp"
+    },
+    "postgresql-fill": {
+      "codepoint": 57674,
+      "fontFamily": "AkarIcons",
+      "identifier": "postgresqlFill"
+    },
+    "price-cut": {
+      "codepoint": 57675,
+      "fontFamily": "AkarIcons",
+      "identifier": "priceCut"
+    },
+    "product-hunt-fill": {
+      "codepoint": 57676,
+      "fontFamily": "AkarIcons",
+      "identifier": "productHuntFill"
+    },
+    "python-fill": {
+      "codepoint": 57677,
+      "fontFamily": "AkarIcons",
+      "identifier": "pythonFill"
+    },
+    "question": {
+      "codepoint": 57678,
+      "fontFamily": "AkarIcons",
+      "identifier": "question"
+    },
+    "question-fill": {
+      "codepoint": 57679,
+      "fontFamily": "AkarIcons",
+      "identifier": "questionFill"
+    },
+    "radio": {
+      "codepoint": 57680,
+      "fontFamily": "AkarIcons",
+      "identifier": "radio"
+    },
+    "radio-fill": {
+      "codepoint": 57681,
+      "fontFamily": "AkarIcons",
+      "identifier": "radioFill"
+    },
+    "radish": {
+      "codepoint": 57682,
+      "fontFamily": "AkarIcons",
+      "identifier": "radish"
+    },
+    "react-fill": {
+      "codepoint": 57683,
+      "fontFamily": "AkarIcons",
+      "identifier": "reactFill"
+    },
+    "receipt": {
+      "codepoint": 57684,
+      "fontFamily": "AkarIcons",
+      "identifier": "receipt"
+    },
+    "reciept": {
+      "codepoint": 57685,
+      "fontFamily": "AkarIcons",
+      "identifier": "reciept"
+    },
+    "reddit-fill": {
+      "codepoint": 57686,
+      "fontFamily": "AkarIcons",
+      "identifier": "redditFill"
+    },
+    "reduce": {
+      "codepoint": 57687,
+      "fontFamily": "AkarIcons",
+      "identifier": "reduce"
+    },
+    "redux-fill": {
+      "codepoint": 57688,
+      "fontFamily": "AkarIcons",
+      "identifier": "reduxFill"
+    },
+    "reply": {
+      "codepoint": 57689,
+      "fontFamily": "AkarIcons",
+      "identifier": "reply"
+    },
+    "ribbon": {
+      "codepoint": 57690,
+      "fontFamily": "AkarIcons",
+      "identifier": "ribbon"
+    },
+    "rock-on": {
+      "codepoint": 57691,
+      "fontFamily": "AkarIcons",
+      "identifier": "rockOn"
+    },
+    "rss": {
+      "codepoint": 57692,
+      "fontFamily": "AkarIcons",
+      "identifier": "rss"
+    },
+    "sass-fill": {
+      "codepoint": 57693,
+      "fontFamily": "AkarIcons",
+      "identifier": "sassFill"
+    },
+    "save": {
+      "codepoint": 57694,
+      "fontFamily": "AkarIcons",
+      "identifier": "save"
+    },
+    "schedule": {
+      "codepoint": 57695,
+      "fontFamily": "AkarIcons",
+      "identifier": "schedule"
+    },
+    "scissor": {
+      "codepoint": 57696,
+      "fontFamily": "AkarIcons",
+      "identifier": "scissor"
+    },
+    "search": {
+      "codepoint": 57697,
+      "fontFamily": "AkarIcons",
+      "identifier": "search"
+    },
+    "send": {
+      "codepoint": 57698,
+      "fontFamily": "AkarIcons",
+      "identifier": "send"
+    },
+    "settings-horizontal": {
+      "codepoint": 57699,
+      "fontFamily": "AkarIcons",
+      "identifier": "settingsHorizontal"
+    },
+    "settings-vertical": {
+      "codepoint": 57700,
+      "fontFamily": "AkarIcons",
+      "identifier": "settingsVertical"
+    },
+    "share-arrow": {
+      "codepoint": 57701,
+      "fontFamily": "AkarIcons",
+      "identifier": "shareArrow"
+    },
+    "share-box": {
+      "codepoint": 57702,
+      "fontFamily": "AkarIcons",
+      "identifier": "shareBox"
+    },
+    "shield": {
+      "codepoint": 57703,
+      "fontFamily": "AkarIcons",
+      "identifier": "shield"
+    },
+    "shipping-box-01": {
+      "codepoint": 57704,
+      "fontFamily": "AkarIcons",
+      "identifier": "shippingBox01"
+    },
+    "shipping-box-02": {
+      "codepoint": 57705,
+      "fontFamily": "AkarIcons",
+      "identifier": "shippingBox02"
+    },
+    "shipping-box-v1": {
+      "codepoint": 57706,
+      "fontFamily": "AkarIcons",
+      "identifier": "shippingBoxV1"
+    },
+    "shipping-box-v2": {
+      "codepoint": 57707,
+      "fontFamily": "AkarIcons",
+      "identifier": "shippingBoxV2"
+    },
+    "shopping-bag": {
+      "codepoint": 57708,
+      "fontFamily": "AkarIcons",
+      "identifier": "shoppingBag"
+    },
+    "sidebar-left": {
+      "codepoint": 57709,
+      "fontFamily": "AkarIcons",
+      "identifier": "sidebarLeft"
+    },
+    "sidebar-right": {
+      "codepoint": 57710,
+      "fontFamily": "AkarIcons",
+      "identifier": "sidebarRight"
+    },
+    "sign-out": {
+      "codepoint": 57711,
+      "fontFamily": "AkarIcons",
+      "identifier": "signOut"
+    },
+    "slack-fill": {
+      "codepoint": 57712,
+      "fontFamily": "AkarIcons",
+      "identifier": "slackFill"
+    },
+    "slice": {
+      "codepoint": 57713,
+      "fontFamily": "AkarIcons",
+      "identifier": "slice"
+    },
+    "snapchat-fill": {
+      "codepoint": 57714,
+      "fontFamily": "AkarIcons",
+      "identifier": "snapchatFill"
+    },
+    "sort": {
+      "codepoint": 57715,
+      "fontFamily": "AkarIcons",
+      "identifier": "sort"
+    },
+    "sound-down": {
+      "codepoint": 57716,
+      "fontFamily": "AkarIcons",
+      "identifier": "soundDown"
+    },
+    "sound-off": {
+      "codepoint": 57717,
+      "fontFamily": "AkarIcons",
+      "identifier": "soundOff"
+    },
+    "sound-on": {
+      "codepoint": 57718,
+      "fontFamily": "AkarIcons",
+      "identifier": "soundOn"
+    },
+    "sound-up": {
+      "codepoint": 57719,
+      "fontFamily": "AkarIcons",
+      "identifier": "soundUp"
+    },
+    "soundcloud-fill": {
+      "codepoint": 57720,
+      "fontFamily": "AkarIcons",
+      "identifier": "soundcloudFill"
+    },
+    "sparkles": {
+      "codepoint": 57721,
+      "fontFamily": "AkarIcons",
+      "identifier": "sparkles"
+    },
+    "spotify-fill": {
+      "codepoint": 57722,
+      "fontFamily": "AkarIcons",
+      "identifier": "spotifyFill"
+    },
+    "square": {
+      "codepoint": 57723,
+      "fontFamily": "AkarIcons",
+      "identifier": "square"
+    },
+    "square-fill": {
+      "codepoint": 57724,
+      "fontFamily": "AkarIcons",
+      "identifier": "squareFill"
+    },
+    "stack-overflow-fill": {
+      "codepoint": 57725,
+      "fontFamily": "AkarIcons",
+      "identifier": "stackOverflowFill"
+    },
+    "star": {
+      "codepoint": 57726,
+      "fontFamily": "AkarIcons",
+      "identifier": "star"
+    },
+    "statistic-down": {
+      "codepoint": 57727,
+      "fontFamily": "AkarIcons",
+      "identifier": "statisticDown"
+    },
+    "statistic-up": {
+      "codepoint": 57728,
+      "fontFamily": "AkarIcons",
+      "identifier": "statisticUp"
+    },
+    "stop": {
+      "codepoint": 57729,
+      "fontFamily": "AkarIcons",
+      "identifier": "stop"
+    },
+    "stop-fill": {
+      "codepoint": 57730,
+      "fontFamily": "AkarIcons",
+      "identifier": "stopFill"
+    },
+    "sun": {
+      "codepoint": 57731,
+      "fontFamily": "AkarIcons",
+      "identifier": "sun"
+    },
+    "sun-fill": {
+      "codepoint": 57732,
+      "fontFamily": "AkarIcons",
+      "identifier": "sunFill"
+    },
+    "sword": {
+      "codepoint": 57733,
+      "fontFamily": "AkarIcons",
+      "identifier": "sword"
+    },
+    "tablet-device": {
+      "codepoint": 57734,
+      "fontFamily": "AkarIcons",
+      "identifier": "tabletDevice"
+    },
+    "tag": {
+      "codepoint": 57735,
+      "fontFamily": "AkarIcons",
+      "identifier": "tag"
+    },
+    "telegram-fill": {
+      "codepoint": 57736,
+      "fontFamily": "AkarIcons",
+      "identifier": "telegramFill"
+    },
+    "telescope": {
+      "codepoint": 57737,
+      "fontFamily": "AkarIcons",
+      "identifier": "telescope"
+    },
+    "tetragon": {
+      "codepoint": 57738,
+      "fontFamily": "AkarIcons",
+      "identifier": "tetragon"
+    },
+    "tetragon-fill": {
+      "codepoint": 57739,
+      "fontFamily": "AkarIcons",
+      "identifier": "tetragonFill"
+    },
+    "text-align-center": {
+      "codepoint": 57740,
+      "fontFamily": "AkarIcons",
+      "identifier": "textAlignCenter"
+    },
+    "text-align-justified": {
+      "codepoint": 57741,
+      "fontFamily": "AkarIcons",
+      "identifier": "textAlignJustified"
+    },
+    "text-align-left": {
+      "codepoint": 57742,
+      "fontFamily": "AkarIcons",
+      "identifier": "textAlignLeft"
+    },
+    "text-align-right": {
+      "codepoint": 57743,
+      "fontFamily": "AkarIcons",
+      "identifier": "textAlignRight"
+    },
+    "threads-fill": {
+      "codepoint": 57744,
+      "fontFamily": "AkarIcons",
+      "identifier": "threadsFill"
+    },
+    "three-line-horizontal": {
+      "codepoint": 57745,
+      "fontFamily": "AkarIcons",
+      "identifier": "threeLineHorizontal"
+    },
+    "three-line-vertical": {
+      "codepoint": 57746,
+      "fontFamily": "AkarIcons",
+      "identifier": "threeLineVertical"
+    },
+    "thumbs-down": {
+      "codepoint": 57747,
+      "fontFamily": "AkarIcons",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-up": {
+      "codepoint": 57748,
+      "fontFamily": "AkarIcons",
+      "identifier": "thumbsUp"
+    },
+    "thunder": {
+      "codepoint": 57749,
+      "fontFamily": "AkarIcons",
+      "identifier": "thunder"
+    },
+    "ticket": {
+      "codepoint": 57750,
+      "fontFamily": "AkarIcons",
+      "identifier": "ticket"
+    },
+    "tiktok-fill": {
+      "codepoint": 57751,
+      "fontFamily": "AkarIcons",
+      "identifier": "tiktokFill"
+    },
+    "toggle-off": {
+      "codepoint": 57752,
+      "fontFamily": "AkarIcons",
+      "identifier": "toggleOff"
+    },
+    "toggle-off-fill": {
+      "codepoint": 57753,
+      "fontFamily": "AkarIcons",
+      "identifier": "toggleOffFill"
+    },
+    "toggle-on": {
+      "codepoint": 57754,
+      "fontFamily": "AkarIcons",
+      "identifier": "toggleOn"
+    },
+    "toggle-on-fill": {
+      "codepoint": 57755,
+      "fontFamily": "AkarIcons",
+      "identifier": "toggleOnFill"
+    },
+    "togo-cup": {
+      "codepoint": 57756,
+      "fontFamily": "AkarIcons",
+      "identifier": "togoCup"
+    },
+    "trash": {
+      "codepoint": 57757,
+      "fontFamily": "AkarIcons",
+      "identifier": "trash"
+    },
+    "trash-bin": {
+      "codepoint": 57758,
+      "fontFamily": "AkarIcons",
+      "identifier": "trashBin"
+    },
+    "trash-can": {
+      "codepoint": 57759,
+      "fontFamily": "AkarIcons",
+      "identifier": "trashCan"
+    },
+    "triangle": {
+      "codepoint": 57760,
+      "fontFamily": "AkarIcons",
+      "identifier": "triangle"
+    },
+    "triangle-alert": {
+      "codepoint": 57761,
+      "fontFamily": "AkarIcons",
+      "identifier": "triangleAlert"
+    },
+    "triangle-alert-fill": {
+      "codepoint": 57762,
+      "fontFamily": "AkarIcons",
+      "identifier": "triangleAlertFill"
+    },
+    "triangle-down": {
+      "codepoint": 57763,
+      "fontFamily": "AkarIcons",
+      "identifier": "triangleDown"
+    },
+    "triangle-down-fill": {
+      "codepoint": 57764,
+      "fontFamily": "AkarIcons",
+      "identifier": "triangleDownFill"
+    },
+    "triangle-fill": {
+      "codepoint": 57765,
+      "fontFamily": "AkarIcons",
+      "identifier": "triangleFill"
+    },
+    "triangle-left": {
+      "codepoint": 57766,
+      "fontFamily": "AkarIcons",
+      "identifier": "triangleLeft"
+    },
+    "triangle-left-fill": {
+      "codepoint": 57767,
+      "fontFamily": "AkarIcons",
+      "identifier": "triangleLeftFill"
+    },
+    "triangle-right": {
+      "codepoint": 57768,
+      "fontFamily": "AkarIcons",
+      "identifier": "triangleRight"
+    },
+    "triangle-right-fill": {
+      "codepoint": 57769,
+      "fontFamily": "AkarIcons",
+      "identifier": "triangleRightFill"
+    },
+    "triangle-up": {
+      "codepoint": 57770,
+      "fontFamily": "AkarIcons",
+      "identifier": "triangleUp"
+    },
+    "triangle-up-fill": {
+      "codepoint": 57771,
+      "fontFamily": "AkarIcons",
+      "identifier": "triangleUpFill"
+    },
+    "trophy": {
+      "codepoint": 57772,
+      "fontFamily": "AkarIcons",
+      "identifier": "trophy"
+    },
+    "truck": {
+      "codepoint": 57773,
+      "fontFamily": "AkarIcons",
+      "identifier": "truck"
+    },
+    "tumblr-fill": {
+      "codepoint": 57774,
+      "fontFamily": "AkarIcons",
+      "identifier": "tumblrFill"
+    },
+    "twitch-fill": {
+      "codepoint": 57775,
+      "fontFamily": "AkarIcons",
+      "identifier": "twitchFill"
+    },
+    "twitter-fill": {
+      "codepoint": 57776,
+      "fontFamily": "AkarIcons",
+      "identifier": "twitterFill"
+    },
+    "two-line-horizontal": {
+      "codepoint": 57777,
+      "fontFamily": "AkarIcons",
+      "identifier": "twoLineHorizontal"
+    },
+    "two-line-vertical": {
+      "codepoint": 57778,
+      "fontFamily": "AkarIcons",
+      "identifier": "twoLineVertical"
+    },
+    "typescript-fill": {
+      "codepoint": 57779,
+      "fontFamily": "AkarIcons",
+      "identifier": "typescriptFill"
+    },
+    "umbrella": {
+      "codepoint": 57780,
+      "fontFamily": "AkarIcons",
+      "identifier": "umbrella"
+    },
+    "unsplash-fill": {
+      "codepoint": 57781,
+      "fontFamily": "AkarIcons",
+      "identifier": "unsplashFill"
+    },
+    "utensils": {
+      "codepoint": 57782,
+      "fontFamily": "AkarIcons",
+      "identifier": "utensils"
+    },
+    "vape-kit": {
+      "codepoint": 57783,
+      "fontFamily": "AkarIcons",
+      "identifier": "vapeKit"
+    },
+    "vercel-fill": {
+      "codepoint": 57784,
+      "fontFamily": "AkarIcons",
+      "identifier": "vercelFill"
+    },
+    "victory-hand": {
+      "codepoint": 57785,
+      "fontFamily": "AkarIcons",
+      "identifier": "victoryHand"
+    },
+    "video": {
+      "codepoint": 57786,
+      "fontFamily": "AkarIcons",
+      "identifier": "video"
+    },
+    "vimeo-fill": {
+      "codepoint": 57787,
+      "fontFamily": "AkarIcons",
+      "identifier": "vimeoFill"
+    },
+    "vk-fill": {
+      "codepoint": 57788,
+      "fontFamily": "AkarIcons",
+      "identifier": "vkFill"
+    },
+    "vr-ar": {
+      "codepoint": 57789,
+      "fontFamily": "AkarIcons",
+      "identifier": "vrAr"
+    },
+    "vscode-fill": {
+      "codepoint": 57790,
+      "fontFamily": "AkarIcons",
+      "identifier": "vscodeFill"
+    },
+    "vue-fill": {
+      "codepoint": 57791,
+      "fontFamily": "AkarIcons",
+      "identifier": "vueFill"
+    },
+    "wallet": {
+      "codepoint": 57792,
+      "fontFamily": "AkarIcons",
+      "identifier": "wallet"
+    },
+    "watch-device": {
+      "codepoint": 57793,
+      "fontFamily": "AkarIcons",
+      "identifier": "watchDevice"
+    },
+    "water": {
+      "codepoint": 57794,
+      "fontFamily": "AkarIcons",
+      "identifier": "water"
+    },
+    "whatsapp-fill": {
+      "codepoint": 57795,
+      "fontFamily": "AkarIcons",
+      "identifier": "whatsappFill"
+    },
+    "width": {
+      "codepoint": 57796,
+      "fontFamily": "AkarIcons",
+      "identifier": "width"
+    },
+    "wifi": {
+      "codepoint": 57797,
+      "fontFamily": "AkarIcons",
+      "identifier": "wifi"
+    },
+    "wine-glass": {
+      "codepoint": 57798,
+      "fontFamily": "AkarIcons",
+      "identifier": "wineGlass"
+    },
+    "x-fill": {
+      "codepoint": 57799,
+      "fontFamily": "AkarIcons",
+      "identifier": "xFill"
+    },
+    "x-small": {
+      "codepoint": 57800,
+      "fontFamily": "AkarIcons",
+      "identifier": "xSmall"
+    },
+    "yarn-fill": {
+      "codepoint": 57801,
+      "fontFamily": "AkarIcons",
+      "identifier": "yarnFill"
+    },
+    "yelp-fill": {
+      "codepoint": 57802,
+      "fontFamily": "AkarIcons",
+      "identifier": "yelpFill"
+    },
+    "youtube": {
+      "codepoint": 57803,
+      "fontFamily": "AkarIcons",
+      "identifier": "youtube"
+    },
+    "youtube-fill": {
+      "codepoint": 57804,
+      "fontFamily": "AkarIcons",
+      "identifier": "youtubeFill"
+    },
+    "zoom-fill": {
+      "codepoint": 57805,
+      "fontFamily": "AkarIcons",
+      "identifier": "zoomFill"
+    },
+    "zoom-in": {
+      "codepoint": 57806,
+      "fontFamily": "AkarIcons",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 57807,
+      "fontFamily": "AkarIcons",
+      "identifier": "zoomOut"
+    }
+  }
+}

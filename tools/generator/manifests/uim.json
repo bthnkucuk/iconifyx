@@ -1,0 +1,1520 @@
+{
+  "schemaVersion": 1,
+  "prefix": "uim",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_uim",
+  "info": {
+    "name": "Unicons Monochrome",
+    "author": {
+      "name": "Iconscout",
+      "url": "https://github.com/Iconscout/unicons"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Iconscout/unicons/blob/master/LICENSE"
+    },
+    "total": 298
+  },
+  "fonts": [
+    {
+      "family": "Uim",
+      "nextCodepoint": 57642,
+      "iconCount": 298
+    }
+  ],
+  "icons": {
+    "500px": {
+      "codepoint": 57344,
+      "fontFamily": "Uim",
+      "identifier": "n500px"
+    },
+    "adobe": {
+      "codepoint": 57345,
+      "fontFamily": "Uim",
+      "identifier": "adobe"
+    },
+    "adobe-alt": {
+      "codepoint": 57346,
+      "fontFamily": "Uim",
+      "identifier": "adobeAlt"
+    },
+    "airplay": {
+      "codepoint": 57347,
+      "fontFamily": "Uim",
+      "identifier": "airplay"
+    },
+    "align": {
+      "codepoint": 57348,
+      "fontFamily": "Uim",
+      "identifier": "align"
+    },
+    "align-alt": {
+      "codepoint": 57349,
+      "fontFamily": "Uim",
+      "identifier": "alignAlt"
+    },
+    "align-center": {
+      "codepoint": 57350,
+      "fontFamily": "Uim",
+      "identifier": "alignCenter"
+    },
+    "align-center-justify": {
+      "codepoint": 57351,
+      "fontFamily": "Uim",
+      "identifier": "alignCenterJustify"
+    },
+    "align-justify": {
+      "codepoint": 57352,
+      "fontFamily": "Uim",
+      "identifier": "alignJustify"
+    },
+    "align-left": {
+      "codepoint": 57353,
+      "fontFamily": "Uim",
+      "identifier": "alignLeft"
+    },
+    "align-left-justify": {
+      "codepoint": 57354,
+      "fontFamily": "Uim",
+      "identifier": "alignLeftJustify"
+    },
+    "align-letter-right": {
+      "codepoint": 57355,
+      "fontFamily": "Uim",
+      "identifier": "alignLetterRight"
+    },
+    "align-right": {
+      "codepoint": 57356,
+      "fontFamily": "Uim",
+      "identifier": "alignRight"
+    },
+    "align-right-justify": {
+      "codepoint": 57357,
+      "fontFamily": "Uim",
+      "identifier": "alignRightJustify"
+    },
+    "amazon": {
+      "codepoint": 57358,
+      "fontFamily": "Uim",
+      "identifier": "amazon"
+    },
+    "analysis": {
+      "codepoint": 57359,
+      "fontFamily": "Uim",
+      "identifier": "analysis"
+    },
+    "analytics": {
+      "codepoint": 57360,
+      "fontFamily": "Uim",
+      "identifier": "analytics"
+    },
+    "anchor": {
+      "codepoint": 57361,
+      "fontFamily": "Uim",
+      "identifier": "anchor"
+    },
+    "android": {
+      "codepoint": 57362,
+      "fontFamily": "Uim",
+      "identifier": "android"
+    },
+    "android-alt": {
+      "codepoint": 57363,
+      "fontFamily": "Uim",
+      "identifier": "androidAlt"
+    },
+    "angle-double-down": {
+      "codepoint": 57364,
+      "fontFamily": "Uim",
+      "identifier": "angleDoubleDown"
+    },
+    "angle-double-left": {
+      "codepoint": 57365,
+      "fontFamily": "Uim",
+      "identifier": "angleDoubleLeft"
+    },
+    "angle-double-right": {
+      "codepoint": 57366,
+      "fontFamily": "Uim",
+      "identifier": "angleDoubleRight"
+    },
+    "angle-double-up": {
+      "codepoint": 57367,
+      "fontFamily": "Uim",
+      "identifier": "angleDoubleUp"
+    },
+    "angle-down": {
+      "codepoint": 57368,
+      "fontFamily": "Uim",
+      "identifier": "angleDown"
+    },
+    "angle-left": {
+      "codepoint": 57369,
+      "fontFamily": "Uim",
+      "identifier": "angleLeft"
+    },
+    "angle-right": {
+      "codepoint": 57370,
+      "fontFamily": "Uim",
+      "identifier": "angleRight"
+    },
+    "angle-right-b": {
+      "codepoint": 57371,
+      "fontFamily": "Uim",
+      "identifier": "angleRightB"
+    },
+    "angle-up": {
+      "codepoint": 57372,
+      "fontFamily": "Uim",
+      "identifier": "angleUp"
+    },
+    "apple": {
+      "codepoint": 57373,
+      "fontFamily": "Uim",
+      "identifier": "apple"
+    },
+    "apple-alt": {
+      "codepoint": 57374,
+      "fontFamily": "Uim",
+      "identifier": "appleAlt"
+    },
+    "apps": {
+      "codepoint": 57375,
+      "fontFamily": "Uim",
+      "identifier": "apps"
+    },
+    "arrow-circle-down": {
+      "codepoint": 57376,
+      "fontFamily": "Uim",
+      "identifier": "arrowCircleDown"
+    },
+    "arrow-circle-left": {
+      "codepoint": 57377,
+      "fontFamily": "Uim",
+      "identifier": "arrowCircleLeft"
+    },
+    "arrow-circle-right": {
+      "codepoint": 57378,
+      "fontFamily": "Uim",
+      "identifier": "arrowCircleRight"
+    },
+    "arrow-circle-up": {
+      "codepoint": 57379,
+      "fontFamily": "Uim",
+      "identifier": "arrowCircleUp"
+    },
+    "arrow-down-left": {
+      "codepoint": 57380,
+      "fontFamily": "Uim",
+      "identifier": "arrowDownLeft"
+    },
+    "arrow-down-right": {
+      "codepoint": 57381,
+      "fontFamily": "Uim",
+      "identifier": "arrowDownRight"
+    },
+    "arrow-up-left": {
+      "codepoint": 57382,
+      "fontFamily": "Uim",
+      "identifier": "arrowUpLeft"
+    },
+    "arrow-up-right": {
+      "codepoint": 57383,
+      "fontFamily": "Uim",
+      "identifier": "arrowUpRight"
+    },
+    "at": {
+      "codepoint": 57384,
+      "fontFamily": "Uim",
+      "identifier": "at"
+    },
+    "bag": {
+      "codepoint": 57385,
+      "fontFamily": "Uim",
+      "identifier": "bag"
+    },
+    "bars": {
+      "codepoint": 57386,
+      "fontFamily": "Uim",
+      "identifier": "bars"
+    },
+    "battery-bolt": {
+      "codepoint": 57387,
+      "fontFamily": "Uim",
+      "identifier": "batteryBolt"
+    },
+    "battery-empty": {
+      "codepoint": 57388,
+      "fontFamily": "Uim",
+      "identifier": "batteryEmpty"
+    },
+    "behance": {
+      "codepoint": 57389,
+      "fontFamily": "Uim",
+      "identifier": "behance"
+    },
+    "behance-alt": {
+      "codepoint": 57390,
+      "fontFamily": "Uim",
+      "identifier": "behanceAlt"
+    },
+    "bing": {
+      "codepoint": 57391,
+      "fontFamily": "Uim",
+      "identifier": "bing"
+    },
+    "bitcoin": {
+      "codepoint": 57392,
+      "fontFamily": "Uim",
+      "identifier": "bitcoin"
+    },
+    "bitcoin-alt": {
+      "codepoint": 57393,
+      "fontFamily": "Uim",
+      "identifier": "bitcoinAlt"
+    },
+    "blackberry": {
+      "codepoint": 57394,
+      "fontFamily": "Uim",
+      "identifier": "blackberry"
+    },
+    "blogger": {
+      "codepoint": 57395,
+      "fontFamily": "Uim",
+      "identifier": "blogger"
+    },
+    "blogger-alt": {
+      "codepoint": 57396,
+      "fontFamily": "Uim",
+      "identifier": "bloggerAlt"
+    },
+    "bookmark": {
+      "codepoint": 57397,
+      "fontFamily": "Uim",
+      "identifier": "bookmark"
+    },
+    "border-alt": {
+      "codepoint": 57398,
+      "fontFamily": "Uim",
+      "identifier": "borderAlt"
+    },
+    "border-bottom": {
+      "codepoint": 57399,
+      "fontFamily": "Uim",
+      "identifier": "borderBottom"
+    },
+    "border-clear": {
+      "codepoint": 57400,
+      "fontFamily": "Uim",
+      "identifier": "borderClear"
+    },
+    "border-horizontal": {
+      "codepoint": 57401,
+      "fontFamily": "Uim",
+      "identifier": "borderHorizontal"
+    },
+    "border-inner": {
+      "codepoint": 57402,
+      "fontFamily": "Uim",
+      "identifier": "borderInner"
+    },
+    "border-left": {
+      "codepoint": 57403,
+      "fontFamily": "Uim",
+      "identifier": "borderLeft"
+    },
+    "border-out": {
+      "codepoint": 57404,
+      "fontFamily": "Uim",
+      "identifier": "borderOut"
+    },
+    "border-right": {
+      "codepoint": 57405,
+      "fontFamily": "Uim",
+      "identifier": "borderRight"
+    },
+    "border-top": {
+      "codepoint": 57406,
+      "fontFamily": "Uim",
+      "identifier": "borderTop"
+    },
+    "border-vertical": {
+      "codepoint": 57407,
+      "fontFamily": "Uim",
+      "identifier": "borderVertical"
+    },
+    "box": {
+      "codepoint": 57408,
+      "fontFamily": "Uim",
+      "identifier": "box"
+    },
+    "briefcase": {
+      "codepoint": 57409,
+      "fontFamily": "Uim",
+      "identifier": "briefcase"
+    },
+    "calendar": {
+      "codepoint": 57410,
+      "fontFamily": "Uim",
+      "identifier": "calendar"
+    },
+    "calender": {
+      "codepoint": 57411,
+      "fontFamily": "Uim",
+      "identifier": "calender"
+    },
+    "chart": {
+      "codepoint": 57412,
+      "fontFamily": "Uim",
+      "identifier": "chart"
+    },
+    "chart-pie": {
+      "codepoint": 57413,
+      "fontFamily": "Uim",
+      "identifier": "chartPie"
+    },
+    "check": {
+      "codepoint": 57414,
+      "fontFamily": "Uim",
+      "identifier": "check"
+    },
+    "check-circle": {
+      "codepoint": 57415,
+      "fontFamily": "Uim",
+      "identifier": "checkCircle"
+    },
+    "check-square": {
+      "codepoint": 57416,
+      "fontFamily": "Uim",
+      "identifier": "checkSquare"
+    },
+    "circle": {
+      "codepoint": 57417,
+      "fontFamily": "Uim",
+      "identifier": "circle"
+    },
+    "circle-layer": {
+      "codepoint": 57418,
+      "fontFamily": "Uim",
+      "identifier": "circleLayer"
+    },
+    "clinic-medical": {
+      "codepoint": 57419,
+      "fontFamily": "Uim",
+      "identifier": "clinicMedical"
+    },
+    "clock": {
+      "codepoint": 57420,
+      "fontFamily": "Uim",
+      "identifier": "clock"
+    },
+    "clock-eight": {
+      "codepoint": 57421,
+      "fontFamily": "Uim",
+      "identifier": "clockEight"
+    },
+    "clock-five": {
+      "codepoint": 57422,
+      "fontFamily": "Uim",
+      "identifier": "clockFive"
+    },
+    "clock-nine": {
+      "codepoint": 57423,
+      "fontFamily": "Uim",
+      "identifier": "clockNine"
+    },
+    "clock-seven": {
+      "codepoint": 57424,
+      "fontFamily": "Uim",
+      "identifier": "clockSeven"
+    },
+    "clock-ten": {
+      "codepoint": 57425,
+      "fontFamily": "Uim",
+      "identifier": "clockTen"
+    },
+    "clock-three": {
+      "codepoint": 57426,
+      "fontFamily": "Uim",
+      "identifier": "clockThree"
+    },
+    "clock-two": {
+      "codepoint": 57427,
+      "fontFamily": "Uim",
+      "identifier": "clockTwo"
+    },
+    "columns": {
+      "codepoint": 57428,
+      "fontFamily": "Uim",
+      "identifier": "columns"
+    },
+    "comment": {
+      "codepoint": 57429,
+      "fontFamily": "Uim",
+      "identifier": "comment"
+    },
+    "comment-alt": {
+      "codepoint": 57430,
+      "fontFamily": "Uim",
+      "identifier": "commentAlt"
+    },
+    "comment-alt-dots": {
+      "codepoint": 57431,
+      "fontFamily": "Uim",
+      "identifier": "commentAltDots"
+    },
+    "comment-alt-message": {
+      "codepoint": 57432,
+      "fontFamily": "Uim",
+      "identifier": "commentAltMessage"
+    },
+    "comment-alt-plus": {
+      "codepoint": 57433,
+      "fontFamily": "Uim",
+      "identifier": "commentAltPlus"
+    },
+    "comment-dots": {
+      "codepoint": 57434,
+      "fontFamily": "Uim",
+      "identifier": "commentDots"
+    },
+    "comment-message": {
+      "codepoint": 57435,
+      "fontFamily": "Uim",
+      "identifier": "commentMessage"
+    },
+    "comment-plus": {
+      "codepoint": 57436,
+      "fontFamily": "Uim",
+      "identifier": "commentPlus"
+    },
+    "compress": {
+      "codepoint": 57437,
+      "fontFamily": "Uim",
+      "identifier": "compress"
+    },
+    "corner-down-left": {
+      "codepoint": 57438,
+      "fontFamily": "Uim",
+      "identifier": "cornerDownLeft"
+    },
+    "corner-down-right": {
+      "codepoint": 57439,
+      "fontFamily": "Uim",
+      "identifier": "cornerDownRight"
+    },
+    "corner-left-down": {
+      "codepoint": 57440,
+      "fontFamily": "Uim",
+      "identifier": "cornerLeftDown"
+    },
+    "corner-right-down": {
+      "codepoint": 57441,
+      "fontFamily": "Uim",
+      "identifier": "cornerRightDown"
+    },
+    "corner-up-left": {
+      "codepoint": 57442,
+      "fontFamily": "Uim",
+      "identifier": "cornerUpLeft"
+    },
+    "corner-up-right": {
+      "codepoint": 57443,
+      "fontFamily": "Uim",
+      "identifier": "cornerUpRight"
+    },
+    "coronavirus": {
+      "codepoint": 57444,
+      "fontFamily": "Uim",
+      "identifier": "coronavirus"
+    },
+    "css3": {
+      "codepoint": 57445,
+      "fontFamily": "Uim",
+      "identifier": "css3"
+    },
+    "css3-simple": {
+      "codepoint": 57446,
+      "fontFamily": "Uim",
+      "identifier": "css3Simple"
+    },
+    "cube": {
+      "codepoint": 57447,
+      "fontFamily": "Uim",
+      "identifier": "cube"
+    },
+    "dialpad": {
+      "codepoint": 57448,
+      "fontFamily": "Uim",
+      "identifier": "dialpad"
+    },
+    "dialpad-alt": {
+      "codepoint": 57449,
+      "fontFamily": "Uim",
+      "identifier": "dialpadAlt"
+    },
+    "direction": {
+      "codepoint": 57450,
+      "fontFamily": "Uim",
+      "identifier": "direction"
+    },
+    "discord": {
+      "codepoint": 57451,
+      "fontFamily": "Uim",
+      "identifier": "discord"
+    },
+    "docker": {
+      "codepoint": 57452,
+      "fontFamily": "Uim",
+      "identifier": "docker"
+    },
+    "document-layout-center": {
+      "codepoint": 57453,
+      "fontFamily": "Uim",
+      "identifier": "documentLayoutCenter"
+    },
+    "document-layout-left": {
+      "codepoint": 57454,
+      "fontFamily": "Uim",
+      "identifier": "documentLayoutLeft"
+    },
+    "document-layout-right": {
+      "codepoint": 57455,
+      "fontFamily": "Uim",
+      "identifier": "documentLayoutRight"
+    },
+    "download-alt": {
+      "codepoint": 57456,
+      "fontFamily": "Uim",
+      "identifier": "downloadAlt"
+    },
+    "dribbble": {
+      "codepoint": 57457,
+      "fontFamily": "Uim",
+      "identifier": "dribbble"
+    },
+    "dropbox": {
+      "codepoint": 57458,
+      "fontFamily": "Uim",
+      "identifier": "dropbox"
+    },
+    "ellipsis-h": {
+      "codepoint": 57459,
+      "fontFamily": "Uim",
+      "identifier": "ellipsisH"
+    },
+    "ellipsis-v": {
+      "codepoint": 57460,
+      "fontFamily": "Uim",
+      "identifier": "ellipsisV"
+    },
+    "entry": {
+      "codepoint": 57461,
+      "fontFamily": "Uim",
+      "identifier": "entry"
+    },
+    "exclamation-circle": {
+      "codepoint": 57462,
+      "fontFamily": "Uim",
+      "identifier": "exclamationCircle"
+    },
+    "exclamation-octagon": {
+      "codepoint": 57463,
+      "fontFamily": "Uim",
+      "identifier": "exclamationOctagon"
+    },
+    "exclamation-triangle": {
+      "codepoint": 57464,
+      "fontFamily": "Uim",
+      "identifier": "exclamationTriangle"
+    },
+    "exit": {
+      "codepoint": 57465,
+      "fontFamily": "Uim",
+      "identifier": "exit"
+    },
+    "facebook": {
+      "codepoint": 57466,
+      "fontFamily": "Uim",
+      "identifier": "facebook"
+    },
+    "facebook-f": {
+      "codepoint": 57467,
+      "fontFamily": "Uim",
+      "identifier": "facebookF"
+    },
+    "facebook-messenger": {
+      "codepoint": 57468,
+      "fontFamily": "Uim",
+      "identifier": "facebookMessenger"
+    },
+    "facebook-messenger-alt": {
+      "codepoint": 57469,
+      "fontFamily": "Uim",
+      "identifier": "facebookMessengerAlt"
+    },
+    "favorite": {
+      "codepoint": 57470,
+      "fontFamily": "Uim",
+      "identifier": "favorite"
+    },
+    "flip-h": {
+      "codepoint": 57471,
+      "fontFamily": "Uim",
+      "identifier": "flipH"
+    },
+    "flip-h-alt": {
+      "codepoint": 57472,
+      "fontFamily": "Uim",
+      "identifier": "flipHAlt"
+    },
+    "flip-v": {
+      "codepoint": 57473,
+      "fontFamily": "Uim",
+      "identifier": "flipV"
+    },
+    "flip-v-alt": {
+      "codepoint": 57474,
+      "fontFamily": "Uim",
+      "identifier": "flipVAlt"
+    },
+    "github": {
+      "codepoint": 57475,
+      "fontFamily": "Uim",
+      "identifier": "github"
+    },
+    "github-alt": {
+      "codepoint": 57476,
+      "fontFamily": "Uim",
+      "identifier": "githubAlt"
+    },
+    "gitlab": {
+      "codepoint": 57477,
+      "fontFamily": "Uim",
+      "identifier": "gitlab"
+    },
+    "gitlab-alt": {
+      "codepoint": 57478,
+      "fontFamily": "Uim",
+      "identifier": "gitlabAlt"
+    },
+    "google": {
+      "codepoint": 57479,
+      "fontFamily": "Uim",
+      "identifier": "google"
+    },
+    "google-drive": {
+      "codepoint": 57480,
+      "fontFamily": "Uim",
+      "identifier": "googleDrive"
+    },
+    "google-drive-alt": {
+      "codepoint": 57481,
+      "fontFamily": "Uim",
+      "identifier": "googleDriveAlt"
+    },
+    "google-hangouts": {
+      "codepoint": 57482,
+      "fontFamily": "Uim",
+      "identifier": "googleHangouts"
+    },
+    "google-hangouts-alt": {
+      "codepoint": 57483,
+      "fontFamily": "Uim",
+      "identifier": "googleHangoutsAlt"
+    },
+    "google-play": {
+      "codepoint": 57484,
+      "fontFamily": "Uim",
+      "identifier": "googlePlay"
+    },
+    "graph-bar": {
+      "codepoint": 57485,
+      "fontFamily": "Uim",
+      "identifier": "graphBar"
+    },
+    "grid": {
+      "codepoint": 57486,
+      "fontFamily": "Uim",
+      "identifier": "grid"
+    },
+    "grids": {
+      "codepoint": 57487,
+      "fontFamily": "Uim",
+      "identifier": "grids"
+    },
+    "grip-horizontal-line": {
+      "codepoint": 57488,
+      "fontFamily": "Uim",
+      "identifier": "gripHorizontalLine"
+    },
+    "head-side": {
+      "codepoint": 57489,
+      "fontFamily": "Uim",
+      "identifier": "headSide"
+    },
+    "head-side-cough": {
+      "codepoint": 57490,
+      "fontFamily": "Uim",
+      "identifier": "headSideCough"
+    },
+    "head-side-mask": {
+      "codepoint": 57491,
+      "fontFamily": "Uim",
+      "identifier": "headSideMask"
+    },
+    "hipchat": {
+      "codepoint": 57492,
+      "fontFamily": "Uim",
+      "identifier": "hipchat"
+    },
+    "history": {
+      "codepoint": 57493,
+      "fontFamily": "Uim",
+      "identifier": "history"
+    },
+    "history-alt": {
+      "codepoint": 57494,
+      "fontFamily": "Uim",
+      "identifier": "historyAlt"
+    },
+    "horizontal-align-left": {
+      "codepoint": 57495,
+      "fontFamily": "Uim",
+      "identifier": "horizontalAlignLeft"
+    },
+    "hospital": {
+      "codepoint": 57496,
+      "fontFamily": "Uim",
+      "identifier": "hospital"
+    },
+    "hospital-square-sign": {
+      "codepoint": 57497,
+      "fontFamily": "Uim",
+      "identifier": "hospitalSquareSign"
+    },
+    "hospital-symbol": {
+      "codepoint": 57498,
+      "fontFamily": "Uim",
+      "identifier": "hospitalSymbol"
+    },
+    "house-user": {
+      "codepoint": 57499,
+      "fontFamily": "Uim",
+      "identifier": "houseUser"
+    },
+    "html3": {
+      "codepoint": 57500,
+      "fontFamily": "Uim",
+      "identifier": "html3"
+    },
+    "html3-alt": {
+      "codepoint": 57501,
+      "fontFamily": "Uim",
+      "identifier": "html3Alt"
+    },
+    "html5": {
+      "codepoint": 57502,
+      "fontFamily": "Uim",
+      "identifier": "html5"
+    },
+    "html5-alt": {
+      "codepoint": 57503,
+      "fontFamily": "Uim",
+      "identifier": "html5Alt"
+    },
+    "image-v": {
+      "codepoint": 57504,
+      "fontFamily": "Uim",
+      "identifier": "imageV"
+    },
+    "instagram": {
+      "codepoint": 57505,
+      "fontFamily": "Uim",
+      "identifier": "instagram"
+    },
+    "instagram-alt": {
+      "codepoint": 57506,
+      "fontFamily": "Uim",
+      "identifier": "instagramAlt"
+    },
+    "intercom": {
+      "codepoint": 57507,
+      "fontFamily": "Uim",
+      "identifier": "intercom"
+    },
+    "intercom-alt": {
+      "codepoint": 57508,
+      "fontFamily": "Uim",
+      "identifier": "intercomAlt"
+    },
+    "java-script": {
+      "codepoint": 57509,
+      "fontFamily": "Uim",
+      "identifier": "javaScript"
+    },
+    "key-skeleton": {
+      "codepoint": 57510,
+      "fontFamily": "Uim",
+      "identifier": "keySkeleton"
+    },
+    "key-skeleton-alt": {
+      "codepoint": 57511,
+      "fontFamily": "Uim",
+      "identifier": "keySkeletonAlt"
+    },
+    "keyhole-circle": {
+      "codepoint": 57512,
+      "fontFamily": "Uim",
+      "identifier": "keyholeCircle"
+    },
+    "keyhole-square": {
+      "codepoint": 57513,
+      "fontFamily": "Uim",
+      "identifier": "keyholeSquare"
+    },
+    "keyhole-square-full": {
+      "codepoint": 57514,
+      "fontFamily": "Uim",
+      "identifier": "keyholeSquareFull"
+    },
+    "layer-group": {
+      "codepoint": 57515,
+      "fontFamily": "Uim",
+      "identifier": "layerGroup"
+    },
+    "layers-alt": {
+      "codepoint": 57516,
+      "fontFamily": "Uim",
+      "identifier": "layersAlt"
+    },
+    "left-indent": {
+      "codepoint": 57517,
+      "fontFamily": "Uim",
+      "identifier": "leftIndent"
+    },
+    "left-indent-alt": {
+      "codepoint": 57518,
+      "fontFamily": "Uim",
+      "identifier": "leftIndentAlt"
+    },
+    "line": {
+      "codepoint": 57519,
+      "fontFamily": "Uim",
+      "identifier": "line"
+    },
+    "line-spacing": {
+      "codepoint": 57520,
+      "fontFamily": "Uim",
+      "identifier": "lineSpacing"
+    },
+    "link-h": {
+      "codepoint": 57521,
+      "fontFamily": "Uim",
+      "identifier": "linkH"
+    },
+    "linkedin": {
+      "codepoint": 57522,
+      "fontFamily": "Uim",
+      "identifier": "linkedin"
+    },
+    "linkedin-alt": {
+      "codepoint": 57523,
+      "fontFamily": "Uim",
+      "identifier": "linkedinAlt"
+    },
+    "linux": {
+      "codepoint": 57524,
+      "fontFamily": "Uim",
+      "identifier": "linux"
+    },
+    "list-ui-alt": {
+      "codepoint": 57525,
+      "fontFamily": "Uim",
+      "identifier": "listUiAlt"
+    },
+    "list-ul": {
+      "codepoint": 57526,
+      "fontFamily": "Uim",
+      "identifier": "listUl"
+    },
+    "lock": {
+      "codepoint": 57527,
+      "fontFamily": "Uim",
+      "identifier": "lock"
+    },
+    "lock-access": {
+      "codepoint": 57528,
+      "fontFamily": "Uim",
+      "identifier": "lockAccess"
+    },
+    "lock-alt": {
+      "codepoint": 57529,
+      "fontFamily": "Uim",
+      "identifier": "lockAlt"
+    },
+    "lock-open-alt": {
+      "codepoint": 57530,
+      "fontFamily": "Uim",
+      "identifier": "lockOpenAlt"
+    },
+    "lottiefiles": {
+      "codepoint": 57531,
+      "fontFamily": "Uim",
+      "identifier": "lottiefiles"
+    },
+    "master-card": {
+      "codepoint": 57532,
+      "fontFamily": "Uim",
+      "identifier": "masterCard"
+    },
+    "medium-m": {
+      "codepoint": 57533,
+      "fontFamily": "Uim",
+      "identifier": "mediumM"
+    },
+    "microscope": {
+      "codepoint": 57534,
+      "fontFamily": "Uim",
+      "identifier": "microscope"
+    },
+    "microsoft": {
+      "codepoint": 57535,
+      "fontFamily": "Uim",
+      "identifier": "microsoft"
+    },
+    "minus-square-full": {
+      "codepoint": 57536,
+      "fontFamily": "Uim",
+      "identifier": "minusSquareFull"
+    },
+    "multiply": {
+      "codepoint": 57537,
+      "fontFamily": "Uim",
+      "identifier": "multiply"
+    },
+    "object-group": {
+      "codepoint": 57538,
+      "fontFamily": "Uim",
+      "identifier": "objectGroup"
+    },
+    "object-ungroup": {
+      "codepoint": 57539,
+      "fontFamily": "Uim",
+      "identifier": "objectUngroup"
+    },
+    "okta": {
+      "codepoint": 57540,
+      "fontFamily": "Uim",
+      "identifier": "okta"
+    },
+    "opera": {
+      "codepoint": 57541,
+      "fontFamily": "Uim",
+      "identifier": "opera"
+    },
+    "opera-alt": {
+      "codepoint": 57542,
+      "fontFamily": "Uim",
+      "identifier": "operaAlt"
+    },
+    "padlock": {
+      "codepoint": 57543,
+      "fontFamily": "Uim",
+      "identifier": "padlock"
+    },
+    "pagelines": {
+      "codepoint": 57544,
+      "fontFamily": "Uim",
+      "identifier": "pagelines"
+    },
+    "pagerduty": {
+      "codepoint": 57545,
+      "fontFamily": "Uim",
+      "identifier": "pagerduty"
+    },
+    "paperclip": {
+      "codepoint": 57546,
+      "fontFamily": "Uim",
+      "identifier": "paperclip"
+    },
+    "paragraph": {
+      "codepoint": 57547,
+      "fontFamily": "Uim",
+      "identifier": "paragraph"
+    },
+    "paypal": {
+      "codepoint": 57548,
+      "fontFamily": "Uim",
+      "identifier": "paypal"
+    },
+    "pentagon": {
+      "codepoint": 57549,
+      "fontFamily": "Uim",
+      "identifier": "pentagon"
+    },
+    "plus-square": {
+      "codepoint": 57550,
+      "fontFamily": "Uim",
+      "identifier": "plusSquare"
+    },
+    "polygon": {
+      "codepoint": 57551,
+      "fontFamily": "Uim",
+      "identifier": "polygon"
+    },
+    "previous": {
+      "codepoint": 57552,
+      "fontFamily": "Uim",
+      "identifier": "previous"
+    },
+    "process": {
+      "codepoint": 57553,
+      "fontFamily": "Uim",
+      "identifier": "process"
+    },
+    "react": {
+      "codepoint": 57554,
+      "fontFamily": "Uim",
+      "identifier": "react"
+    },
+    "record-audio": {
+      "codepoint": 57555,
+      "fontFamily": "Uim",
+      "identifier": "recordAudio"
+    },
+    "reddit-alien-alt": {
+      "codepoint": 57556,
+      "fontFamily": "Uim",
+      "identifier": "redditAlienAlt"
+    },
+    "redo": {
+      "codepoint": 57557,
+      "fontFamily": "Uim",
+      "identifier": "redo"
+    },
+    "refresh": {
+      "codepoint": 57558,
+      "fontFamily": "Uim",
+      "identifier": "refresh"
+    },
+    "repeat": {
+      "codepoint": 57559,
+      "fontFamily": "Uim",
+      "identifier": "repeat"
+    },
+    "right-indent-alt": {
+      "codepoint": 57560,
+      "fontFamily": "Uim",
+      "identifier": "rightIndentAlt"
+    },
+    "rocket": {
+      "codepoint": 57561,
+      "fontFamily": "Uim",
+      "identifier": "rocket"
+    },
+    "ruler": {
+      "codepoint": 57562,
+      "fontFamily": "Uim",
+      "identifier": "ruler"
+    },
+    "ruler-combined": {
+      "codepoint": 57563,
+      "fontFamily": "Uim",
+      "identifier": "rulerCombined"
+    },
+    "sanitizer": {
+      "codepoint": 57564,
+      "fontFamily": "Uim",
+      "identifier": "sanitizer"
+    },
+    "sanitizer-alt": {
+      "codepoint": 57565,
+      "fontFamily": "Uim",
+      "identifier": "sanitizerAlt"
+    },
+    "scenery": {
+      "codepoint": 57566,
+      "fontFamily": "Uim",
+      "identifier": "scenery"
+    },
+    "schedule": {
+      "codepoint": 57567,
+      "fontFamily": "Uim",
+      "identifier": "schedule"
+    },
+    "shield-plus": {
+      "codepoint": 57568,
+      "fontFamily": "Uim",
+      "identifier": "shieldPlus"
+    },
+    "sign-in": {
+      "codepoint": 57569,
+      "fontFamily": "Uim",
+      "identifier": "signIn"
+    },
+    "sign-in-alt": {
+      "codepoint": 57570,
+      "fontFamily": "Uim",
+      "identifier": "signInAlt"
+    },
+    "sign-out": {
+      "codepoint": 57571,
+      "fontFamily": "Uim",
+      "identifier": "signOut"
+    },
+    "sign-out-alt": {
+      "codepoint": 57572,
+      "fontFamily": "Uim",
+      "identifier": "signOutAlt"
+    },
+    "signal-alt": {
+      "codepoint": 57573,
+      "fontFamily": "Uim",
+      "identifier": "signalAlt"
+    },
+    "signal-alt-3": {
+      "codepoint": 57574,
+      "fontFamily": "Uim",
+      "identifier": "signalAlt3"
+    },
+    "signin": {
+      "codepoint": 57575,
+      "fontFamily": "Uim",
+      "identifier": "signin"
+    },
+    "signout": {
+      "codepoint": 57576,
+      "fontFamily": "Uim",
+      "identifier": "signout"
+    },
+    "skype": {
+      "codepoint": 57577,
+      "fontFamily": "Uim",
+      "identifier": "skype"
+    },
+    "skype-alt": {
+      "codepoint": 57578,
+      "fontFamily": "Uim",
+      "identifier": "skypeAlt"
+    },
+    "slack": {
+      "codepoint": 57579,
+      "fontFamily": "Uim",
+      "identifier": "slack"
+    },
+    "slack-alt": {
+      "codepoint": 57580,
+      "fontFamily": "Uim",
+      "identifier": "slackAlt"
+    },
+    "snapchat-alt": {
+      "codepoint": 57581,
+      "fontFamily": "Uim",
+      "identifier": "snapchatAlt"
+    },
+    "snapchat-ghost": {
+      "codepoint": 57582,
+      "fontFamily": "Uim",
+      "identifier": "snapchatGhost"
+    },
+    "snapchat-square": {
+      "codepoint": 57583,
+      "fontFamily": "Uim",
+      "identifier": "snapchatSquare"
+    },
+    "social-distancing": {
+      "codepoint": 57584,
+      "fontFamily": "Uim",
+      "identifier": "socialDistancing"
+    },
+    "sorting": {
+      "codepoint": 57585,
+      "fontFamily": "Uim",
+      "identifier": "sorting"
+    },
+    "space-key": {
+      "codepoint": 57586,
+      "fontFamily": "Uim",
+      "identifier": "spaceKey"
+    },
+    "square": {
+      "codepoint": 57587,
+      "fontFamily": "Uim",
+      "identifier": "square"
+    },
+    "square-full": {
+      "codepoint": 57588,
+      "fontFamily": "Uim",
+      "identifier": "squareFull"
+    },
+    "square-shape": {
+      "codepoint": 57589,
+      "fontFamily": "Uim",
+      "identifier": "squareShape"
+    },
+    "squre-shape": {
+      "codepoint": 57590,
+      "fontFamily": "Uim",
+      "identifier": "squreShape"
+    },
+    "star": {
+      "codepoint": 57591,
+      "fontFamily": "Uim",
+      "identifier": "star"
+    },
+    "star-half-alt": {
+      "codepoint": 57592,
+      "fontFamily": "Uim",
+      "identifier": "starHalfAlt"
+    },
+    "step-forward": {
+      "codepoint": 57593,
+      "fontFamily": "Uim",
+      "identifier": "stepForward"
+    },
+    "stethoscope": {
+      "codepoint": 57594,
+      "fontFamily": "Uim",
+      "identifier": "stethoscope"
+    },
+    "stethoscope-alt": {
+      "codepoint": 57595,
+      "fontFamily": "Uim",
+      "identifier": "stethoscopeAlt"
+    },
+    "store-slash": {
+      "codepoint": 57596,
+      "fontFamily": "Uim",
+      "identifier": "storeSlash"
+    },
+    "subject": {
+      "codepoint": 57597,
+      "fontFamily": "Uim",
+      "identifier": "subject"
+    },
+    "swiggy": {
+      "codepoint": 57598,
+      "fontFamily": "Uim",
+      "identifier": "swiggy"
+    },
+    "sync-exclamation": {
+      "codepoint": 57599,
+      "fontFamily": "Uim",
+      "identifier": "syncExclamation"
+    },
+    "sync-slash": {
+      "codepoint": 57600,
+      "fontFamily": "Uim",
+      "identifier": "syncSlash"
+    },
+    "table": {
+      "codepoint": 57601,
+      "fontFamily": "Uim",
+      "identifier": "table"
+    },
+    "telegram": {
+      "codepoint": 57602,
+      "fontFamily": "Uim",
+      "identifier": "telegram"
+    },
+    "telegram-alt": {
+      "codepoint": 57603,
+      "fontFamily": "Uim",
+      "identifier": "telegramAlt"
+    },
+    "th-large": {
+      "codepoint": 57604,
+      "fontFamily": "Uim",
+      "identifier": "thLarge"
+    },
+    "times-circle": {
+      "codepoint": 57605,
+      "fontFamily": "Uim",
+      "identifier": "timesCircle"
+    },
+    "toggle-off": {
+      "codepoint": 57606,
+      "fontFamily": "Uim",
+      "identifier": "toggleOff"
+    },
+    "toggle-on": {
+      "codepoint": 57607,
+      "fontFamily": "Uim",
+      "identifier": "toggleOn"
+    },
+    "toilet-paper": {
+      "codepoint": 57608,
+      "fontFamily": "Uim",
+      "identifier": "toiletPaper"
+    },
+    "triangle": {
+      "codepoint": 57609,
+      "fontFamily": "Uim",
+      "identifier": "triangle"
+    },
+    "tumblr": {
+      "codepoint": 57610,
+      "fontFamily": "Uim",
+      "identifier": "tumblr"
+    },
+    "tumblr-alt": {
+      "codepoint": 57611,
+      "fontFamily": "Uim",
+      "identifier": "tumblrAlt"
+    },
+    "tumblr-square": {
+      "codepoint": 57612,
+      "fontFamily": "Uim",
+      "identifier": "tumblrSquare"
+    },
+    "twitter": {
+      "codepoint": 57613,
+      "fontFamily": "Uim",
+      "identifier": "twitter"
+    },
+    "twitter-alt": {
+      "codepoint": 57614,
+      "fontFamily": "Uim",
+      "identifier": "twitterAlt"
+    },
+    "unlock": {
+      "codepoint": 57615,
+      "fontFamily": "Uim",
+      "identifier": "unlock"
+    },
+    "unlock-alt": {
+      "codepoint": 57616,
+      "fontFamily": "Uim",
+      "identifier": "unlockAlt"
+    },
+    "upload-alt": {
+      "codepoint": 57617,
+      "fontFamily": "Uim",
+      "identifier": "uploadAlt"
+    },
+    "user-arrows": {
+      "codepoint": 57618,
+      "fontFamily": "Uim",
+      "identifier": "userArrows"
+    },
+    "user-md": {
+      "codepoint": 57619,
+      "fontFamily": "Uim",
+      "identifier": "userMd"
+    },
+    "user-nurse": {
+      "codepoint": 57620,
+      "fontFamily": "Uim",
+      "identifier": "userNurse"
+    },
+    "vector-square": {
+      "codepoint": 57621,
+      "fontFamily": "Uim",
+      "identifier": "vectorSquare"
+    },
+    "vector-square-alt": {
+      "codepoint": 57622,
+      "fontFamily": "Uim",
+      "identifier": "vectorSquareAlt"
+    },
+    "virus-slash": {
+      "codepoint": 57623,
+      "fontFamily": "Uim",
+      "identifier": "virusSlash"
+    },
+    "visual-studio": {
+      "codepoint": 57624,
+      "fontFamily": "Uim",
+      "identifier": "visualStudio"
+    },
+    "vk": {
+      "codepoint": 57625,
+      "fontFamily": "Uim",
+      "identifier": "vk"
+    },
+    "vk-alt": {
+      "codepoint": 57626,
+      "fontFamily": "Uim",
+      "identifier": "vkAlt"
+    },
+    "vuejs": {
+      "codepoint": 57627,
+      "fontFamily": "Uim",
+      "identifier": "vuejs"
+    },
+    "vuejs-alt": {
+      "codepoint": 57628,
+      "fontFamily": "Uim",
+      "identifier": "vuejsAlt"
+    },
+    "web-grid": {
+      "codepoint": 57629,
+      "fontFamily": "Uim",
+      "identifier": "webGrid"
+    },
+    "web-grid-alt": {
+      "codepoint": 57630,
+      "fontFamily": "Uim",
+      "identifier": "webGridAlt"
+    },
+    "web-section": {
+      "codepoint": 57631,
+      "fontFamily": "Uim",
+      "identifier": "webSection"
+    },
+    "web-section-alt": {
+      "codepoint": 57632,
+      "fontFamily": "Uim",
+      "identifier": "webSectionAlt"
+    },
+    "whatsapp": {
+      "codepoint": 57633,
+      "fontFamily": "Uim",
+      "identifier": "whatsapp"
+    },
+    "window-grid": {
+      "codepoint": 57634,
+      "fontFamily": "Uim",
+      "identifier": "windowGrid"
+    },
+    "window-maximize": {
+      "codepoint": 57635,
+      "fontFamily": "Uim",
+      "identifier": "windowMaximize"
+    },
+    "window-section": {
+      "codepoint": 57636,
+      "fontFamily": "Uim",
+      "identifier": "windowSection"
+    },
+    "windows": {
+      "codepoint": 57637,
+      "fontFamily": "Uim",
+      "identifier": "windows"
+    },
+    "wordpress": {
+      "codepoint": 57638,
+      "fontFamily": "Uim",
+      "identifier": "wordpress"
+    },
+    "wordpress-simple": {
+      "codepoint": 57639,
+      "fontFamily": "Uim",
+      "identifier": "wordpressSimple"
+    },
+    "wrap-text": {
+      "codepoint": 57640,
+      "fontFamily": "Uim",
+      "identifier": "wrapText"
+    },
+    "youtube": {
+      "codepoint": 57641,
+      "fontFamily": "Uim",
+      "identifier": "youtube"
+    }
+  }
+}

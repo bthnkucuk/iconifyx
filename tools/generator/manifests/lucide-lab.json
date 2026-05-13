@@ -1,0 +1,1970 @@
+{
+  "schemaVersion": 1,
+  "prefix": "lucide-lab",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_lucide_lab",
+  "info": {
+    "name": "Lucide Lab",
+    "author": {
+      "name": "Lucide Contributors",
+      "url": "https://github.com/lucide-icons/lucide-lab"
+    },
+    "license": {
+      "title": "ISC",
+      "spdx": "ISC",
+      "url": "https://github.com/lucide-icons/lucide-lab/blob/main/LICENSE"
+    },
+    "total": 388
+  },
+  "fonts": [
+    {
+      "family": "LucideLab",
+      "nextCodepoint": 57732,
+      "iconCount": 388
+    }
+  ],
+  "icons": {
+    "ampersand-square": {
+      "codepoint": 57344,
+      "fontFamily": "LucideLab",
+      "identifier": "ampersandSquare"
+    },
+    "apple-core": {
+      "codepoint": 57345,
+      "fontFamily": "LucideLab",
+      "identifier": "appleCore"
+    },
+    "arrows-up-down-square": {
+      "codepoint": 57346,
+      "fontFamily": "LucideLab",
+      "identifier": "arrowsUpDownSquare"
+    },
+    "astronaut-helmet": {
+      "codepoint": 57347,
+      "fontFamily": "LucideLab",
+      "identifier": "astronautHelmet"
+    },
+    "at-sign-circle": {
+      "codepoint": 57348,
+      "fontFamily": "LucideLab",
+      "identifier": "atSignCircle"
+    },
+    "at-sign-square": {
+      "codepoint": 57349,
+      "fontFamily": "LucideLab",
+      "identifier": "atSignSquare"
+    },
+    "avocado": {
+      "codepoint": 57350,
+      "fontFamily": "LucideLab",
+      "identifier": "avocado"
+    },
+    "baby-pacifier": {
+      "codepoint": 57351,
+      "fontFamily": "LucideLab",
+      "identifier": "babyPacifier"
+    },
+    "bacon": {
+      "codepoint": 57352,
+      "fontFamily": "LucideLab",
+      "identifier": "bacon"
+    },
+    "bag-hand": {
+      "codepoint": 57353,
+      "fontFamily": "LucideLab",
+      "identifier": "bagHand"
+    },
+    "barbecue": {
+      "codepoint": 57354,
+      "fontFamily": "LucideLab",
+      "identifier": "barbecue"
+    },
+    "barber-pole": {
+      "codepoint": 57355,
+      "fontFamily": "LucideLab",
+      "identifier": "barberPole"
+    },
+    "barn": {
+      "codepoint": 57356,
+      "fontFamily": "LucideLab",
+      "identifier": "barn"
+    },
+    "baseball": {
+      "codepoint": 57357,
+      "fontFamily": "LucideLab",
+      "identifier": "baseball"
+    },
+    "baseline-square": {
+      "codepoint": 57358,
+      "fontFamily": "LucideLab",
+      "identifier": "baselineSquare"
+    },
+    "basketball": {
+      "codepoint": 57359,
+      "fontFamily": "LucideLab",
+      "identifier": "basketball"
+    },
+    "bat-ball": {
+      "codepoint": 57360,
+      "fontFamily": "LucideLab",
+      "identifier": "batBall"
+    },
+    "bath-bubble": {
+      "codepoint": 57361,
+      "fontFamily": "LucideLab",
+      "identifier": "bathBubble"
+    },
+    "beach-ball": {
+      "codepoint": 57362,
+      "fontFamily": "LucideLab",
+      "identifier": "beachBall"
+    },
+    "bear-face": {
+      "codepoint": 57363,
+      "fontFamily": "LucideLab",
+      "identifier": "bearFace"
+    },
+    "bed-bunk": {
+      "codepoint": 57364,
+      "fontFamily": "LucideLab",
+      "identifier": "bedBunk"
+    },
+    "bee": {
+      "codepoint": 57365,
+      "fontFamily": "LucideLab",
+      "identifier": "bee"
+    },
+    "bee-hive": {
+      "codepoint": 57366,
+      "fontFamily": "LucideLab",
+      "identifier": "beeHive"
+    },
+    "beetle-scarab": {
+      "codepoint": 57367,
+      "fontFamily": "LucideLab",
+      "identifier": "beetleScarab"
+    },
+    "bell-concierge": {
+      "codepoint": 57368,
+      "fontFamily": "LucideLab",
+      "identifier": "bellConcierge"
+    },
+    "bell-concierge-dot": {
+      "codepoint": 57369,
+      "fontFamily": "LucideLab",
+      "identifier": "bellConciergeDot"
+    },
+    "bell-concierge-off": {
+      "codepoint": 57370,
+      "fontFamily": "LucideLab",
+      "identifier": "bellConciergeOff"
+    },
+    "belt": {
+      "codepoint": 57371,
+      "fontFamily": "LucideLab",
+      "identifier": "belt"
+    },
+    "bold-square": {
+      "codepoint": 57372,
+      "fontFamily": "LucideLab",
+      "identifier": "boldSquare"
+    },
+    "bottle-baby": {
+      "codepoint": 57373,
+      "fontFamily": "LucideLab",
+      "identifier": "bottleBaby"
+    },
+    "bottle-champagne": {
+      "codepoint": 57374,
+      "fontFamily": "LucideLab",
+      "identifier": "bottleChampagne"
+    },
+    "bottle-dispenser": {
+      "codepoint": 57375,
+      "fontFamily": "LucideLab",
+      "identifier": "bottleDispenser"
+    },
+    "bottle-perfume": {
+      "codepoint": 57376,
+      "fontFamily": "LucideLab",
+      "identifier": "bottlePerfume"
+    },
+    "bottle-plastic": {
+      "codepoint": 57377,
+      "fontFamily": "LucideLab",
+      "identifier": "bottlePlastic"
+    },
+    "bottle-spray": {
+      "codepoint": 57378,
+      "fontFamily": "LucideLab",
+      "identifier": "bottleSpray"
+    },
+    "bottle-toothbrush-comb": {
+      "codepoint": 57379,
+      "fontFamily": "LucideLab",
+      "identifier": "bottleToothbrushComb"
+    },
+    "bowl-chopsticks": {
+      "codepoint": 57380,
+      "fontFamily": "LucideLab",
+      "identifier": "bowlChopsticks"
+    },
+    "bowl-overflow": {
+      "codepoint": 57381,
+      "fontFamily": "LucideLab",
+      "identifier": "bowlOverflow"
+    },
+    "bowling": {
+      "codepoint": 57382,
+      "fontFamily": "LucideLab",
+      "identifier": "bowling"
+    },
+    "bra-sports": {
+      "codepoint": 57383,
+      "fontFamily": "LucideLab",
+      "identifier": "braSports"
+    },
+    "briefcase-plus": {
+      "codepoint": 57384,
+      "fontFamily": "LucideLab",
+      "identifier": "briefcasePlus"
+    },
+    "broom": {
+      "codepoint": 57385,
+      "fontFamily": "LucideLab",
+      "identifier": "broom"
+    },
+    "bucket": {
+      "codepoint": 57386,
+      "fontFamily": "LucideLab",
+      "identifier": "bucket"
+    },
+    "bull-head": {
+      "codepoint": 57387,
+      "fontFamily": "LucideLab",
+      "identifier": "bullHead"
+    },
+    "burger": {
+      "codepoint": 57388,
+      "fontFamily": "LucideLab",
+      "identifier": "burger"
+    },
+    "butterfly": {
+      "codepoint": 57389,
+      "fontFamily": "LucideLab",
+      "identifier": "butterfly"
+    },
+    "cabin": {
+      "codepoint": 57390,
+      "fontFamily": "LucideLab",
+      "identifier": "cabin"
+    },
+    "cabinet-filing": {
+      "codepoint": 57391,
+      "fontFamily": "LucideLab",
+      "identifier": "cabinetFiling"
+    },
+    "cactus": {
+      "codepoint": 57392,
+      "fontFamily": "LucideLab",
+      "identifier": "cactus"
+    },
+    "candle-holder": {
+      "codepoint": 57393,
+      "fontFamily": "LucideLab",
+      "identifier": "candleHolder"
+    },
+    "candle-holder-lit": {
+      "codepoint": 57394,
+      "fontFamily": "LucideLab",
+      "identifier": "candleHolderLit"
+    },
+    "candle-tealight": {
+      "codepoint": 57395,
+      "fontFamily": "LucideLab",
+      "identifier": "candleTealight"
+    },
+    "candle-tealight-lit": {
+      "codepoint": 57396,
+      "fontFamily": "LucideLab",
+      "identifier": "candleTealightLit"
+    },
+    "candlestick": {
+      "codepoint": 57397,
+      "fontFamily": "LucideLab",
+      "identifier": "candlestick"
+    },
+    "candlestick-big": {
+      "codepoint": 57398,
+      "fontFamily": "LucideLab",
+      "identifier": "candlestickBig"
+    },
+    "candlestick-big-lit": {
+      "codepoint": 57399,
+      "fontFamily": "LucideLab",
+      "identifier": "candlestickBigLit"
+    },
+    "candlestick-lit": {
+      "codepoint": 57400,
+      "fontFamily": "LucideLab",
+      "identifier": "candlestickLit"
+    },
+    "card-credit": {
+      "codepoint": 57401,
+      "fontFamily": "LucideLab",
+      "identifier": "cardCredit"
+    },
+    "card-sd": {
+      "codepoint": 57402,
+      "fontFamily": "LucideLab",
+      "identifier": "cardSd"
+    },
+    "card-sim": {
+      "codepoint": 57403,
+      "fontFamily": "LucideLab",
+      "identifier": "cardSim"
+    },
+    "carton": {
+      "codepoint": 57404,
+      "fontFamily": "LucideLab",
+      "identifier": "carton"
+    },
+    "carton-off": {
+      "codepoint": 57405,
+      "fontFamily": "LucideLab",
+      "identifier": "cartonOff"
+    },
+    "case-camel": {
+      "codepoint": 57406,
+      "fontFamily": "LucideLab",
+      "identifier": "caseCamel"
+    },
+    "case-kebab": {
+      "codepoint": 57407,
+      "fontFamily": "LucideLab",
+      "identifier": "caseKebab"
+    },
+    "case-snake": {
+      "codepoint": 57408,
+      "fontFamily": "LucideLab",
+      "identifier": "caseSnake"
+    },
+    "case-snake-upper": {
+      "codepoint": 57409,
+      "fontFamily": "LucideLab",
+      "identifier": "caseSnakeUpper"
+    },
+    "cat-big": {
+      "codepoint": 57410,
+      "fontFamily": "LucideLab",
+      "identifier": "catBig"
+    },
+    "cauldron": {
+      "codepoint": 57411,
+      "fontFamily": "LucideLab",
+      "identifier": "cauldron"
+    },
+    "cent": {
+      "codepoint": 57412,
+      "fontFamily": "LucideLab",
+      "identifier": "cent"
+    },
+    "cent-circle": {
+      "codepoint": 57413,
+      "fontFamily": "LucideLab",
+      "identifier": "centCircle"
+    },
+    "cent-square": {
+      "codepoint": 57414,
+      "fontFamily": "LucideLab",
+      "identifier": "centSquare"
+    },
+    "chairs-table-parasol": {
+      "codepoint": 57415,
+      "fontFamily": "LucideLab",
+      "identifier": "chairsTableParasol"
+    },
+    "chairs-table-platter": {
+      "codepoint": 57416,
+      "fontFamily": "LucideLab",
+      "identifier": "chairsTablePlatter"
+    },
+    "chameleon": {
+      "codepoint": 57417,
+      "fontFamily": "LucideLab",
+      "identifier": "chameleon"
+    },
+    "cheese": {
+      "codepoint": 57418,
+      "fontFamily": "LucideLab",
+      "identifier": "cheese"
+    },
+    "chef-hat": {
+      "codepoint": 57419,
+      "fontFamily": "LucideLab",
+      "identifier": "chefHat"
+    },
+    "chest": {
+      "codepoint": 57420,
+      "fontFamily": "LucideLab",
+      "identifier": "chest"
+    },
+    "chevrons-left-right-square": {
+      "codepoint": 57421,
+      "fontFamily": "LucideLab",
+      "identifier": "chevronsLeftRightSquare"
+    },
+    "chevrons-up-down-square": {
+      "codepoint": 57422,
+      "fontFamily": "LucideLab",
+      "identifier": "chevronsUpDownSquare"
+    },
+    "circle-dollar-sign": {
+      "codepoint": 57423,
+      "fontFamily": "LucideLab",
+      "identifier": "circleDollarSign"
+    },
+    "cloth": {
+      "codepoint": 57424,
+      "fontFamily": "LucideLab",
+      "identifier": "cloth"
+    },
+    "coat-hanger": {
+      "codepoint": 57425,
+      "fontFamily": "LucideLab",
+      "identifier": "coatHanger"
+    },
+    "cocktail": {
+      "codepoint": 57426,
+      "fontFamily": "LucideLab",
+      "identifier": "cocktail"
+    },
+    "coconut": {
+      "codepoint": 57427,
+      "fontFamily": "LucideLab",
+      "identifier": "coconut"
+    },
+    "coffee": {
+      "codepoint": 57428,
+      "fontFamily": "LucideLab",
+      "identifier": "coffee"
+    },
+    "coffee-bean": {
+      "codepoint": 57429,
+      "fontFamily": "LucideLab",
+      "identifier": "coffeeBean"
+    },
+    "coffeemaker": {
+      "codepoint": 57430,
+      "fontFamily": "LucideLab",
+      "identifier": "coffeemaker"
+    },
+    "coins-exchange": {
+      "codepoint": 57431,
+      "fontFamily": "LucideLab",
+      "identifier": "coinsExchange"
+    },
+    "coins-stack": {
+      "codepoint": 57432,
+      "fontFamily": "LucideLab",
+      "identifier": "coinsStack"
+    },
+    "concierge-bell": {
+      "codepoint": 57433,
+      "fontFamily": "LucideLab",
+      "identifier": "conciergeBell"
+    },
+    "copy-code": {
+      "codepoint": 57434,
+      "fontFamily": "LucideLab",
+      "identifier": "copyCode"
+    },
+    "copy-down": {
+      "codepoint": 57435,
+      "fontFamily": "LucideLab",
+      "identifier": "copyDown"
+    },
+    "copy-file-path": {
+      "codepoint": 57436,
+      "fontFamily": "LucideLab",
+      "identifier": "copyFilePath"
+    },
+    "copy-image": {
+      "codepoint": 57437,
+      "fontFamily": "LucideLab",
+      "identifier": "copyImage"
+    },
+    "copy-text": {
+      "codepoint": 57438,
+      "fontFamily": "LucideLab",
+      "identifier": "copyText"
+    },
+    "copy-type": {
+      "codepoint": 57439,
+      "fontFamily": "LucideLab",
+      "identifier": "copyType"
+    },
+    "cow-head": {
+      "codepoint": 57440,
+      "fontFamily": "LucideLab",
+      "identifier": "cowHead"
+    },
+    "cow-udder-droplets": {
+      "codepoint": 57441,
+      "fontFamily": "LucideLab",
+      "identifier": "cowUdderDroplets"
+    },
+    "crab": {
+      "codepoint": 57442,
+      "fontFamily": "LucideLab",
+      "identifier": "crab"
+    },
+    "cricket-ball": {
+      "codepoint": 57443,
+      "fontFamily": "LucideLab",
+      "identifier": "cricketBall"
+    },
+    "cricket-wicket": {
+      "codepoint": 57444,
+      "fontFamily": "LucideLab",
+      "identifier": "cricketWicket"
+    },
+    "cross-square": {
+      "codepoint": 57445,
+      "fontFamily": "LucideLab",
+      "identifier": "crossSquare"
+    },
+    "crosshair-2": {
+      "codepoint": 57446,
+      "fontFamily": "LucideLab",
+      "identifier": "crosshair2"
+    },
+    "crosshair-2-dot": {
+      "codepoint": 57447,
+      "fontFamily": "LucideLab",
+      "identifier": "crosshair2Dot"
+    },
+    "crosshair-plus": {
+      "codepoint": 57448,
+      "fontFamily": "LucideLab",
+      "identifier": "crosshairPlus"
+    },
+    "crosshair-plus-dot": {
+      "codepoint": 57449,
+      "fontFamily": "LucideLab",
+      "identifier": "crosshairPlusDot"
+    },
+    "crosshair-square": {
+      "codepoint": 57450,
+      "fontFamily": "LucideLab",
+      "identifier": "crosshairSquare"
+    },
+    "cup-saucer": {
+      "codepoint": 57451,
+      "fontFamily": "LucideLab",
+      "identifier": "cupSaucer"
+    },
+    "cup-to-go": {
+      "codepoint": 57452,
+      "fontFamily": "LucideLab",
+      "identifier": "cupToGo"
+    },
+    "currency-square": {
+      "codepoint": 57453,
+      "fontFamily": "LucideLab",
+      "identifier": "currencySquare"
+    },
+    "desk-lamp": {
+      "codepoint": 57454,
+      "fontFamily": "LucideLab",
+      "identifier": "deskLamp"
+    },
+    "diaper": {
+      "codepoint": 57455,
+      "fontFamily": "LucideLab",
+      "identifier": "diaper"
+    },
+    "dishwasher": {
+      "codepoint": 57456,
+      "fontFamily": "LucideLab",
+      "identifier": "dishwasher"
+    },
+    "dollar-sign-circle": {
+      "codepoint": 57457,
+      "fontFamily": "LucideLab",
+      "identifier": "dollarSignCircle"
+    },
+    "dollar-sign-square": {
+      "codepoint": 57458,
+      "fontFamily": "LucideLab",
+      "identifier": "dollarSignSquare"
+    },
+    "doorbell-intercom": {
+      "codepoint": 57459,
+      "fontFamily": "LucideLab",
+      "identifier": "doorbellIntercom"
+    },
+    "dress": {
+      "codepoint": 57460,
+      "fontFamily": "LucideLab",
+      "identifier": "dress"
+    },
+    "egg-cup": {
+      "codepoint": 57461,
+      "fontFamily": "LucideLab",
+      "identifier": "eggCup"
+    },
+    "elephant": {
+      "codepoint": 57462,
+      "fontFamily": "LucideLab",
+      "identifier": "elephant"
+    },
+    "elephant-face": {
+      "codepoint": 57463,
+      "fontFamily": "LucideLab",
+      "identifier": "elephantFace"
+    },
+    "escalator-arrow-down-left": {
+      "codepoint": 57464,
+      "fontFamily": "LucideLab",
+      "identifier": "escalatorArrowDownLeft"
+    },
+    "escalator-arrow-up-right": {
+      "codepoint": 57465,
+      "fontFamily": "LucideLab",
+      "identifier": "escalatorArrowUpRight"
+    },
+    "euro-circle": {
+      "codepoint": 57466,
+      "fontFamily": "LucideLab",
+      "identifier": "euroCircle"
+    },
+    "euro-square": {
+      "codepoint": 57467,
+      "fontFamily": "LucideLab",
+      "identifier": "euroSquare"
+    },
+    "face-alien": {
+      "codepoint": 57468,
+      "fontFamily": "LucideLab",
+      "identifier": "faceAlien"
+    },
+    "fan-handheld": {
+      "codepoint": 57469,
+      "fontFamily": "LucideLab",
+      "identifier": "fanHandheld"
+    },
+    "farm": {
+      "codepoint": 57470,
+      "fontFamily": "LucideLab",
+      "identifier": "farm"
+    },
+    "faucet": {
+      "codepoint": 57471,
+      "fontFamily": "LucideLab",
+      "identifier": "faucet"
+    },
+    "feather-plus": {
+      "codepoint": 57472,
+      "fontFamily": "LucideLab",
+      "identifier": "featherPlus"
+    },
+    "feather-square": {
+      "codepoint": 57473,
+      "fontFamily": "LucideLab",
+      "identifier": "featherSquare"
+    },
+    "feather-text": {
+      "codepoint": 57474,
+      "fontFamily": "LucideLab",
+      "identifier": "featherText"
+    },
+    "flippers": {
+      "codepoint": 57475,
+      "fontFamily": "LucideLab",
+      "identifier": "flippers"
+    },
+    "floor-plan": {
+      "codepoint": 57476,
+      "fontFamily": "LucideLab",
+      "identifier": "floorPlan"
+    },
+    "floppy-disk": {
+      "codepoint": 57477,
+      "fontFamily": "LucideLab",
+      "identifier": "floppyDisk"
+    },
+    "floppy-disk-2": {
+      "codepoint": 57478,
+      "fontFamily": "LucideLab",
+      "identifier": "floppyDisk2"
+    },
+    "floppy-disk-rear": {
+      "codepoint": 57479,
+      "fontFamily": "LucideLab",
+      "identifier": "floppyDiskRear"
+    },
+    "floppy-disks": {
+      "codepoint": 57480,
+      "fontFamily": "LucideLab",
+      "identifier": "floppyDisks"
+    },
+    "floppy-disks-2": {
+      "codepoint": 57481,
+      "fontFamily": "LucideLab",
+      "identifier": "floppyDisks2"
+    },
+    "floppy-disks-rear": {
+      "codepoint": 57482,
+      "fontFamily": "LucideLab",
+      "identifier": "floppyDisksRear"
+    },
+    "flower-2": {
+      "codepoint": 57483,
+      "fontFamily": "LucideLab",
+      "identifier": "flower2"
+    },
+    "flower-lotus": {
+      "codepoint": 57484,
+      "fontFamily": "LucideLab",
+      "identifier": "flowerLotus"
+    },
+    "flower-pot": {
+      "codepoint": 57485,
+      "fontFamily": "LucideLab",
+      "identifier": "flowerPot"
+    },
+    "flower-rose": {
+      "codepoint": 57486,
+      "fontFamily": "LucideLab",
+      "identifier": "flowerRose"
+    },
+    "flower-rose-single": {
+      "codepoint": 57487,
+      "fontFamily": "LucideLab",
+      "identifier": "flowerRoseSingle"
+    },
+    "flower-stem": {
+      "codepoint": 57488,
+      "fontFamily": "LucideLab",
+      "identifier": "flowerStem"
+    },
+    "flower-tulip": {
+      "codepoint": 57489,
+      "fontFamily": "LucideLab",
+      "identifier": "flowerTulip"
+    },
+    "football": {
+      "codepoint": 57490,
+      "fontFamily": "LucideLab",
+      "identifier": "football"
+    },
+    "football-goal": {
+      "codepoint": 57491,
+      "fontFamily": "LucideLab",
+      "identifier": "footballGoal"
+    },
+    "football-helmet": {
+      "codepoint": 57492,
+      "fontFamily": "LucideLab",
+      "identifier": "footballHelmet"
+    },
+    "fork-knife": {
+      "codepoint": 57493,
+      "fontFamily": "LucideLab",
+      "identifier": "forkKnife"
+    },
+    "fork-knife-crossed": {
+      "codepoint": 57494,
+      "fontFamily": "LucideLab",
+      "identifier": "forkKnifeCrossed"
+    },
+    "fox-face-tail": {
+      "codepoint": 57495,
+      "fontFamily": "LucideLab",
+      "identifier": "foxFaceTail"
+    },
+    "frog-face": {
+      "codepoint": 57496,
+      "fontFamily": "LucideLab",
+      "identifier": "frogFace"
+    },
+    "fruit": {
+      "codepoint": 57497,
+      "fontFamily": "LucideLab",
+      "identifier": "fruit"
+    },
+    "garlic": {
+      "codepoint": 57498,
+      "fontFamily": "LucideLab",
+      "identifier": "garlic"
+    },
+    "gearbox": {
+      "codepoint": 57499,
+      "fontFamily": "LucideLab",
+      "identifier": "gearbox"
+    },
+    "gearbox-square": {
+      "codepoint": 57500,
+      "fontFamily": "LucideLab",
+      "identifier": "gearboxSquare"
+    },
+    "gem-ring": {
+      "codepoint": 57501,
+      "fontFamily": "LucideLab",
+      "identifier": "gemRing"
+    },
+    "glasses-square": {
+      "codepoint": 57502,
+      "fontFamily": "LucideLab",
+      "identifier": "glassesSquare"
+    },
+    "glasses-sun": {
+      "codepoint": 57503,
+      "fontFamily": "LucideLab",
+      "identifier": "glassesSun"
+    },
+    "goal-net": {
+      "codepoint": 57504,
+      "fontFamily": "LucideLab",
+      "identifier": "goalNet"
+    },
+    "goblet": {
+      "codepoint": 57505,
+      "fontFamily": "LucideLab",
+      "identifier": "goblet"
+    },
+    "goblet-crack": {
+      "codepoint": 57506,
+      "fontFamily": "LucideLab",
+      "identifier": "gobletCrack"
+    },
+    "golf-driver": {
+      "codepoint": 57507,
+      "fontFamily": "LucideLab",
+      "identifier": "golfDriver"
+    },
+    "grape": {
+      "codepoint": 57508,
+      "fontFamily": "LucideLab",
+      "identifier": "grape"
+    },
+    "grapes": {
+      "codepoint": 57509,
+      "fontFamily": "LucideLab",
+      "identifier": "grapes"
+    },
+    "grid-lines": {
+      "codepoint": 57510,
+      "fontFamily": "LucideLab",
+      "identifier": "gridLines"
+    },
+    "grid-lines-offset": {
+      "codepoint": 57511,
+      "fontFamily": "LucideLab",
+      "identifier": "gridLinesOffset"
+    },
+    "hairdryer": {
+      "codepoint": 57512,
+      "fontFamily": "LucideLab",
+      "identifier": "hairdryer"
+    },
+    "hard-hat": {
+      "codepoint": 57513,
+      "fontFamily": "LucideLab",
+      "identifier": "hardHat"
+    },
+    "hat-baseball": {
+      "codepoint": 57514,
+      "fontFamily": "LucideLab",
+      "identifier": "hatBaseball"
+    },
+    "hat-beanie": {
+      "codepoint": 57515,
+      "fontFamily": "LucideLab",
+      "identifier": "hatBeanie"
+    },
+    "hat-bowler": {
+      "codepoint": 57516,
+      "fontFamily": "LucideLab",
+      "identifier": "hatBowler"
+    },
+    "hat-chef": {
+      "codepoint": 57517,
+      "fontFamily": "LucideLab",
+      "identifier": "hatChef"
+    },
+    "hat-hard": {
+      "codepoint": 57518,
+      "fontFamily": "LucideLab",
+      "identifier": "hatHard"
+    },
+    "hat-top": {
+      "codepoint": 57519,
+      "fontFamily": "LucideLab",
+      "identifier": "hatTop"
+    },
+    "heading-circle": {
+      "codepoint": 57520,
+      "fontFamily": "LucideLab",
+      "identifier": "headingCircle"
+    },
+    "heading-square": {
+      "codepoint": 57521,
+      "fontFamily": "LucideLab",
+      "identifier": "headingSquare"
+    },
+    "hedgehog": {
+      "codepoint": 57522,
+      "fontFamily": "LucideLab",
+      "identifier": "hedgehog"
+    },
+    "helmet-diving": {
+      "codepoint": 57523,
+      "fontFamily": "LucideLab",
+      "identifier": "helmetDiving"
+    },
+    "hexagons-3": {
+      "codepoint": 57524,
+      "fontFamily": "LucideLab",
+      "identifier": "hexagons3"
+    },
+    "hexagons-7": {
+      "codepoint": 57525,
+      "fontFamily": "LucideLab",
+      "identifier": "hexagons7"
+    },
+    "high-heel": {
+      "codepoint": 57526,
+      "fontFamily": "LucideLab",
+      "identifier": "highHeel"
+    },
+    "hockey": {
+      "codepoint": 57527,
+      "fontFamily": "LucideLab",
+      "identifier": "hockey"
+    },
+    "hockey-mask": {
+      "codepoint": 57528,
+      "fontFamily": "LucideLab",
+      "identifier": "hockeyMask"
+    },
+    "home": {
+      "codepoint": 57529,
+      "fontFamily": "LucideLab",
+      "identifier": "home"
+    },
+    "horse-head": {
+      "codepoint": 57530,
+      "fontFamily": "LucideLab",
+      "identifier": "horseHead"
+    },
+    "hot-dog": {
+      "codepoint": 57531,
+      "fontFamily": "LucideLab",
+      "identifier": "hotDog"
+    },
+    "house": {
+      "codepoint": 57532,
+      "fontFamily": "LucideLab",
+      "identifier": "house"
+    },
+    "house-manor": {
+      "codepoint": 57533,
+      "fontFamily": "LucideLab",
+      "identifier": "houseManor"
+    },
+    "house-off": {
+      "codepoint": 57534,
+      "fontFamily": "LucideLab",
+      "identifier": "houseOff"
+    },
+    "house-roof": {
+      "codepoint": 57535,
+      "fontFamily": "LucideLab",
+      "identifier": "houseRoof"
+    },
+    "house-roof-off": {
+      "codepoint": 57536,
+      "fontFamily": "LucideLab",
+      "identifier": "houseRoofOff"
+    },
+    "houses": {
+      "codepoint": 57537,
+      "fontFamily": "LucideLab",
+      "identifier": "houses"
+    },
+    "ice-hockey": {
+      "codepoint": 57538,
+      "fontFamily": "LucideLab",
+      "identifier": "iceHockey"
+    },
+    "ice-skate": {
+      "codepoint": 57539,
+      "fontFamily": "LucideLab",
+      "identifier": "iceSkate"
+    },
+    "igloo": {
+      "codepoint": 57540,
+      "fontFamily": "LucideLab",
+      "identifier": "igloo"
+    },
+    "indian-rupee-circle": {
+      "codepoint": 57541,
+      "fontFamily": "LucideLab",
+      "identifier": "indianRupeeCircle"
+    },
+    "indian-rupee-square": {
+      "codepoint": 57542,
+      "fontFamily": "LucideLab",
+      "identifier": "indianRupeeSquare"
+    },
+    "intercom": {
+      "codepoint": 57543,
+      "fontFamily": "LucideLab",
+      "identifier": "intercom"
+    },
+    "iron": {
+      "codepoint": 57544,
+      "fontFamily": "LucideLab",
+      "identifier": "iron"
+    },
+    "iron-off": {
+      "codepoint": 57545,
+      "fontFamily": "LucideLab",
+      "identifier": "ironOff"
+    },
+    "ironing-board": {
+      "codepoint": 57546,
+      "fontFamily": "LucideLab",
+      "identifier": "ironingBoard"
+    },
+    "italic-square": {
+      "codepoint": 57547,
+      "fontFamily": "LucideLab",
+      "identifier": "italicSquare"
+    },
+    "jacket": {
+      "codepoint": 57548,
+      "fontFamily": "LucideLab",
+      "identifier": "jacket"
+    },
+    "jacket-sports": {
+      "codepoint": 57549,
+      "fontFamily": "LucideLab",
+      "identifier": "jacketSports"
+    },
+    "japanese-yen-circle": {
+      "codepoint": 57550,
+      "fontFamily": "LucideLab",
+      "identifier": "japaneseYenCircle"
+    },
+    "japanese-yen-square": {
+      "codepoint": 57551,
+      "fontFamily": "LucideLab",
+      "identifier": "japaneseYenSquare"
+    },
+    "jar": {
+      "codepoint": 57552,
+      "fontFamily": "LucideLab",
+      "identifier": "jar"
+    },
+    "jug": {
+      "codepoint": 57553,
+      "fontFamily": "LucideLab",
+      "identifier": "jug"
+    },
+    "kebab": {
+      "codepoint": 57554,
+      "fontFamily": "LucideLab",
+      "identifier": "kebab"
+    },
+    "kettle": {
+      "codepoint": 57555,
+      "fontFamily": "LucideLab",
+      "identifier": "kettle"
+    },
+    "kettle-electric": {
+      "codepoint": 57556,
+      "fontFamily": "LucideLab",
+      "identifier": "kettleElectric"
+    },
+    "kiwi": {
+      "codepoint": 57557,
+      "fontFamily": "LucideLab",
+      "identifier": "kiwi"
+    },
+    "layout-grid-move-horizontal": {
+      "codepoint": 57558,
+      "fontFamily": "LucideLab",
+      "identifier": "layoutGridMoveHorizontal"
+    },
+    "layout-grid-move-vertical": {
+      "codepoint": 57559,
+      "fontFamily": "LucideLab",
+      "identifier": "layoutGridMoveVertical"
+    },
+    "layout-grid-plus": {
+      "codepoint": 57560,
+      "fontFamily": "LucideLab",
+      "identifier": "layoutGridPlus"
+    },
+    "layout-list-move": {
+      "codepoint": 57561,
+      "fontFamily": "LucideLab",
+      "identifier": "layoutListMove"
+    },
+    "lemon": {
+      "codepoint": 57562,
+      "fontFamily": "LucideLab",
+      "identifier": "lemon"
+    },
+    "life-jacket": {
+      "codepoint": 57563,
+      "fontFamily": "LucideLab",
+      "identifier": "lifeJacket"
+    },
+    "ligature-square": {
+      "codepoint": 57564,
+      "fontFamily": "LucideLab",
+      "identifier": "ligatureSquare"
+    },
+    "light-switch": {
+      "codepoint": 57565,
+      "fontFamily": "LucideLab",
+      "identifier": "lightSwitch"
+    },
+    "lingerie": {
+      "codepoint": 57566,
+      "fontFamily": "LucideLab",
+      "identifier": "lingerie"
+    },
+    "locate-square": {
+      "codepoint": 57567,
+      "fontFamily": "LucideLab",
+      "identifier": "locateSquare"
+    },
+    "luggage-cabin": {
+      "codepoint": 57568,
+      "fontFamily": "LucideLab",
+      "identifier": "luggageCabin"
+    },
+    "lunch-box": {
+      "codepoint": 57569,
+      "fontFamily": "LucideLab",
+      "identifier": "lunchBox"
+    },
+    "mailbox-flag": {
+      "codepoint": 57570,
+      "fontFamily": "LucideLab",
+      "identifier": "mailboxFlag"
+    },
+    "mask-snorkel": {
+      "codepoint": 57571,
+      "fontFamily": "LucideLab",
+      "identifier": "maskSnorkel"
+    },
+    "meal-box": {
+      "codepoint": 57572,
+      "fontFamily": "LucideLab",
+      "identifier": "mealBox"
+    },
+    "mortar-pestle": {
+      "codepoint": 57573,
+      "fontFamily": "LucideLab",
+      "identifier": "mortarPestle"
+    },
+    "motor-racing-helmet": {
+      "codepoint": 57574,
+      "fontFamily": "LucideLab",
+      "identifier": "motorRacingHelmet"
+    },
+    "mug": {
+      "codepoint": 57575,
+      "fontFamily": "LucideLab",
+      "identifier": "mug"
+    },
+    "mug-teabag": {
+      "codepoint": 57576,
+      "fontFamily": "LucideLab",
+      "identifier": "mugTeabag"
+    },
+    "mustache": {
+      "codepoint": 57577,
+      "fontFamily": "LucideLab",
+      "identifier": "mustache"
+    },
+    "olive": {
+      "codepoint": 57578,
+      "fontFamily": "LucideLab",
+      "identifier": "olive"
+    },
+    "onion": {
+      "codepoint": 57579,
+      "fontFamily": "LucideLab",
+      "identifier": "onion"
+    },
+    "owl": {
+      "codepoint": 57580,
+      "fontFamily": "LucideLab",
+      "identifier": "owl"
+    },
+    "pac-man": {
+      "codepoint": 57581,
+      "fontFamily": "LucideLab",
+      "identifier": "pacMan"
+    },
+    "pac-man-ghost": {
+      "codepoint": 57582,
+      "fontFamily": "LucideLab",
+      "identifier": "pacManGhost"
+    },
+    "palmtree-island-sun": {
+      "codepoint": 57583,
+      "fontFamily": "LucideLab",
+      "identifier": "palmtreeIslandSun"
+    },
+    "pancakes": {
+      "codepoint": 57584,
+      "fontFamily": "LucideLab",
+      "identifier": "pancakes"
+    },
+    "peace": {
+      "codepoint": 57585,
+      "fontFamily": "LucideLab",
+      "identifier": "peace"
+    },
+    "peach": {
+      "codepoint": 57586,
+      "fontFamily": "LucideLab",
+      "identifier": "peach"
+    },
+    "pear": {
+      "codepoint": 57587,
+      "fontFamily": "LucideLab",
+      "identifier": "pear"
+    },
+    "penguin": {
+      "codepoint": 57588,
+      "fontFamily": "LucideLab",
+      "identifier": "penguin"
+    },
+    "pepper-chilli": {
+      "codepoint": 57589,
+      "fontFamily": "LucideLab",
+      "identifier": "pepperChilli"
+    },
+    "pie": {
+      "codepoint": 57590,
+      "fontFamily": "LucideLab",
+      "identifier": "pie"
+    },
+    "pig": {
+      "codepoint": 57591,
+      "fontFamily": "LucideLab",
+      "identifier": "pig"
+    },
+    "pig-head": {
+      "codepoint": 57592,
+      "fontFamily": "LucideLab",
+      "identifier": "pigHead"
+    },
+    "pillow": {
+      "codepoint": 57593,
+      "fontFamily": "LucideLab",
+      "identifier": "pillow"
+    },
+    "pin-safety": {
+      "codepoint": 57594,
+      "fontFamily": "LucideLab",
+      "identifier": "pinSafety"
+    },
+    "pin-safety-open": {
+      "codepoint": 57595,
+      "fontFamily": "LucideLab",
+      "identifier": "pinSafetyOpen"
+    },
+    "pineapple-ring": {
+      "codepoint": 57596,
+      "fontFamily": "LucideLab",
+      "identifier": "pineappleRing"
+    },
+    "planet": {
+      "codepoint": 57597,
+      "fontFamily": "LucideLab",
+      "identifier": "planet"
+    },
+    "pond": {
+      "codepoint": 57598,
+      "fontFamily": "LucideLab",
+      "identifier": "pond"
+    },
+    "pound-sterling-circle": {
+      "codepoint": 57599,
+      "fontFamily": "LucideLab",
+      "identifier": "poundSterlingCircle"
+    },
+    "pound-sterling-square": {
+      "codepoint": 57600,
+      "fontFamily": "LucideLab",
+      "identifier": "poundSterlingSquare"
+    },
+    "pram": {
+      "codepoint": 57601,
+      "fontFamily": "LucideLab",
+      "identifier": "pram"
+    },
+    "pretzel": {
+      "codepoint": 57602,
+      "fontFamily": "LucideLab",
+      "identifier": "pretzel"
+    },
+    "pumpkin": {
+      "codepoint": 57603,
+      "fontFamily": "LucideLab",
+      "identifier": "pumpkin"
+    },
+    "razor": {
+      "codepoint": 57604,
+      "fontFamily": "LucideLab",
+      "identifier": "razor"
+    },
+    "razor-blade": {
+      "codepoint": 57605,
+      "fontFamily": "LucideLab",
+      "identifier": "razorBlade"
+    },
+    "reel-thread": {
+      "codepoint": 57606,
+      "fontFamily": "LucideLab",
+      "identifier": "reelThread"
+    },
+    "refrigerator-freezer": {
+      "codepoint": 57607,
+      "fontFamily": "LucideLab",
+      "identifier": "refrigeratorFreezer"
+    },
+    "remove-formatting-square": {
+      "codepoint": 57608,
+      "fontFamily": "LucideLab",
+      "identifier": "removeFormattingSquare"
+    },
+    "rugby": {
+      "codepoint": 57609,
+      "fontFamily": "LucideLab",
+      "identifier": "rugby"
+    },
+    "russian-ruble-circle": {
+      "codepoint": 57610,
+      "fontFamily": "LucideLab",
+      "identifier": "russianRubleCircle"
+    },
+    "russian-ruble-square": {
+      "codepoint": 57611,
+      "fontFamily": "LucideLab",
+      "identifier": "russianRubleSquare"
+    },
+    "sausage": {
+      "codepoint": 57612,
+      "fontFamily": "LucideLab",
+      "identifier": "sausage"
+    },
+    "save": {
+      "codepoint": 57613,
+      "fontFamily": "LucideLab",
+      "identifier": "save"
+    },
+    "save-all": {
+      "codepoint": 57614,
+      "fontFamily": "LucideLab",
+      "identifier": "saveAll"
+    },
+    "scarf": {
+      "codepoint": 57615,
+      "fontFamily": "LucideLab",
+      "identifier": "scarf"
+    },
+    "scissors-hair-comb": {
+      "codepoint": 57616,
+      "fontFamily": "LucideLab",
+      "identifier": "scissorsHairComb"
+    },
+    "shark": {
+      "codepoint": 57617,
+      "fontFamily": "LucideLab",
+      "identifier": "shark"
+    },
+    "shave-face": {
+      "codepoint": 57618,
+      "fontFamily": "LucideLab",
+      "identifier": "shaveFace"
+    },
+    "shirt": {
+      "codepoint": 57619,
+      "fontFamily": "LucideLab",
+      "identifier": "shirt"
+    },
+    "shirt-folded-buttons": {
+      "codepoint": 57620,
+      "fontFamily": "LucideLab",
+      "identifier": "shirtFoldedButtons"
+    },
+    "shirt-long-sleeve": {
+      "codepoint": 57621,
+      "fontFamily": "LucideLab",
+      "identifier": "shirtLongSleeve"
+    },
+    "shirt-t": {
+      "codepoint": 57622,
+      "fontFamily": "LucideLab",
+      "identifier": "shirtT"
+    },
+    "shirt-t-ruler": {
+      "codepoint": 57623,
+      "fontFamily": "LucideLab",
+      "identifier": "shirtTRuler"
+    },
+    "shirt-t-v-neck": {
+      "codepoint": 57624,
+      "fontFamily": "LucideLab",
+      "identifier": "shirtTVNeck"
+    },
+    "shorts": {
+      "codepoint": 57625,
+      "fontFamily": "LucideLab",
+      "identifier": "shorts"
+    },
+    "shorts-boxer": {
+      "codepoint": 57626,
+      "fontFamily": "LucideLab",
+      "identifier": "shortsBoxer"
+    },
+    "shovel-dig": {
+      "codepoint": 57627,
+      "fontFamily": "LucideLab",
+      "identifier": "shovelDig"
+    },
+    "shower": {
+      "codepoint": 57628,
+      "fontFamily": "LucideLab",
+      "identifier": "shower"
+    },
+    "skirt": {
+      "codepoint": 57629,
+      "fontFamily": "LucideLab",
+      "identifier": "skirt"
+    },
+    "skis": {
+      "codepoint": 57630,
+      "fontFamily": "LucideLab",
+      "identifier": "skis"
+    },
+    "slot-card": {
+      "codepoint": 57631,
+      "fontFamily": "LucideLab",
+      "identifier": "slotCard"
+    },
+    "slot-card-credit": {
+      "codepoint": 57632,
+      "fontFamily": "LucideLab",
+      "identifier": "slotCardCredit"
+    },
+    "slot-disc": {
+      "codepoint": 57633,
+      "fontFamily": "LucideLab",
+      "identifier": "slotDisc"
+    },
+    "sneaker": {
+      "codepoint": 57634,
+      "fontFamily": "LucideLab",
+      "identifier": "sneaker"
+    },
+    "snowboard": {
+      "codepoint": 57635,
+      "fontFamily": "LucideLab",
+      "identifier": "snowboard"
+    },
+    "snowman": {
+      "codepoint": 57636,
+      "fontFamily": "LucideLab",
+      "identifier": "snowman"
+    },
+    "soap-bar": {
+      "codepoint": 57637,
+      "fontFamily": "LucideLab",
+      "identifier": "soapBar"
+    },
+    "soccer-ball": {
+      "codepoint": 57638,
+      "fontFamily": "LucideLab",
+      "identifier": "soccerBall"
+    },
+    "soccer-pitch": {
+      "codepoint": 57639,
+      "fontFamily": "LucideLab",
+      "identifier": "soccerPitch"
+    },
+    "socket-eu": {
+      "codepoint": 57640,
+      "fontFamily": "LucideLab",
+      "identifier": "socketEu"
+    },
+    "socket-uk": {
+      "codepoint": 57641,
+      "fontFamily": "LucideLab",
+      "identifier": "socketUk"
+    },
+    "socket-usa": {
+      "codepoint": 57642,
+      "fontFamily": "LucideLab",
+      "identifier": "socketUsa"
+    },
+    "socks": {
+      "codepoint": 57643,
+      "fontFamily": "LucideLab",
+      "identifier": "socks"
+    },
+    "spider": {
+      "codepoint": 57644,
+      "fontFamily": "LucideLab",
+      "identifier": "spider"
+    },
+    "spider-web": {
+      "codepoint": 57645,
+      "fontFamily": "LucideLab",
+      "identifier": "spiderWeb"
+    },
+    "square-code": {
+      "codepoint": 57646,
+      "fontFamily": "LucideLab",
+      "identifier": "squareCode"
+    },
+    "stairs": {
+      "codepoint": 57647,
+      "fontFamily": "LucideLab",
+      "identifier": "stairs"
+    },
+    "stairs-arch": {
+      "codepoint": 57648,
+      "fontFamily": "LucideLab",
+      "identifier": "stairsArch"
+    },
+    "stairs-arrow-down-left": {
+      "codepoint": 57649,
+      "fontFamily": "LucideLab",
+      "identifier": "stairsArrowDownLeft"
+    },
+    "stairs-arrow-up-right": {
+      "codepoint": 57650,
+      "fontFamily": "LucideLab",
+      "identifier": "stairsArrowUpRight"
+    },
+    "star-north": {
+      "codepoint": 57651,
+      "fontFamily": "LucideLab",
+      "identifier": "starNorth"
+    },
+    "steering-wheel": {
+      "codepoint": 57652,
+      "fontFamily": "LucideLab",
+      "identifier": "steeringWheel"
+    },
+    "strawberry": {
+      "codepoint": 57653,
+      "fontFamily": "LucideLab",
+      "identifier": "strawberry"
+    },
+    "strikethrough-square": {
+      "codepoint": 57654,
+      "fontFamily": "LucideLab",
+      "identifier": "strikethroughSquare"
+    },
+    "stroller": {
+      "codepoint": 57655,
+      "fontFamily": "LucideLab",
+      "identifier": "stroller"
+    },
+    "sunlounger-parasol-sun": {
+      "codepoint": 57656,
+      "fontFamily": "LucideLab",
+      "identifier": "sunloungerParasolSun"
+    },
+    "sunlounger-parasol-sun-palmtree": {
+      "codepoint": 57657,
+      "fontFamily": "LucideLab",
+      "identifier": "sunloungerParasolSunPalmtree"
+    },
+    "sunlounger-parasol-table": {
+      "codepoint": 57658,
+      "fontFamily": "LucideLab",
+      "identifier": "sunloungerParasolTable"
+    },
+    "surfboard": {
+      "codepoint": 57659,
+      "fontFamily": "LucideLab",
+      "identifier": "surfboard"
+    },
+    "sushi": {
+      "codepoint": 57660,
+      "fontFamily": "LucideLab",
+      "identifier": "sushi"
+    },
+    "sushi-2": {
+      "codepoint": 57661,
+      "fontFamily": "LucideLab",
+      "identifier": "sushi2"
+    },
+    "sushi-3": {
+      "codepoint": 57662,
+      "fontFamily": "LucideLab",
+      "identifier": "sushi3"
+    },
+    "sushi-chopsticks": {
+      "codepoint": 57663,
+      "fontFamily": "LucideLab",
+      "identifier": "sushiChopsticks"
+    },
+    "sweater": {
+      "codepoint": 57664,
+      "fontFamily": "LucideLab",
+      "identifier": "sweater"
+    },
+    "swiss-franc-circle": {
+      "codepoint": 57665,
+      "fontFamily": "LucideLab",
+      "identifier": "swissFrancCircle"
+    },
+    "swiss-franc-square": {
+      "codepoint": 57666,
+      "fontFamily": "LucideLab",
+      "identifier": "swissFrancSquare"
+    },
+    "tab": {
+      "codepoint": 57667,
+      "fontFamily": "LucideLab",
+      "identifier": "tab"
+    },
+    "tab-arrow-down": {
+      "codepoint": 57668,
+      "fontFamily": "LucideLab",
+      "identifier": "tabArrowDown"
+    },
+    "tab-arrow-up-right": {
+      "codepoint": 57669,
+      "fontFamily": "LucideLab",
+      "identifier": "tabArrowUpRight"
+    },
+    "tab-check": {
+      "codepoint": 57670,
+      "fontFamily": "LucideLab",
+      "identifier": "tabCheck"
+    },
+    "tab-dot": {
+      "codepoint": 57671,
+      "fontFamily": "LucideLab",
+      "identifier": "tabDot"
+    },
+    "tab-plus": {
+      "codepoint": 57672,
+      "fontFamily": "LucideLab",
+      "identifier": "tabPlus"
+    },
+    "tab-slash": {
+      "codepoint": 57673,
+      "fontFamily": "LucideLab",
+      "identifier": "tabSlash"
+    },
+    "tab-text": {
+      "codepoint": 57674,
+      "fontFamily": "LucideLab",
+      "identifier": "tabText"
+    },
+    "tab-x": {
+      "codepoint": 57675,
+      "fontFamily": "LucideLab",
+      "identifier": "tabX"
+    },
+    "target-arrow": {
+      "codepoint": 57676,
+      "fontFamily": "LucideLab",
+      "identifier": "targetArrow"
+    },
+    "tennis-ball": {
+      "codepoint": 57677,
+      "fontFamily": "LucideLab",
+      "identifier": "tennisBall"
+    },
+    "tennis-racket": {
+      "codepoint": 57678,
+      "fontFamily": "LucideLab",
+      "identifier": "tennisRacket"
+    },
+    "text-square": {
+      "codepoint": 57679,
+      "fontFamily": "LucideLab",
+      "identifier": "textSquare"
+    },
+    "tie": {
+      "codepoint": 57680,
+      "fontFamily": "LucideLab",
+      "identifier": "tie"
+    },
+    "tie-bow": {
+      "codepoint": 57681,
+      "fontFamily": "LucideLab",
+      "identifier": "tieBow"
+    },
+    "tie-bow-ribbon": {
+      "codepoint": 57682,
+      "fontFamily": "LucideLab",
+      "identifier": "tieBowRibbon"
+    },
+    "tire": {
+      "codepoint": 57683,
+      "fontFamily": "LucideLab",
+      "identifier": "tire"
+    },
+    "toast": {
+      "codepoint": 57684,
+      "fontFamily": "LucideLab",
+      "identifier": "toast"
+    },
+    "toaster": {
+      "codepoint": 57685,
+      "fontFamily": "LucideLab",
+      "identifier": "toaster"
+    },
+    "toilet-roll": {
+      "codepoint": 57686,
+      "fontFamily": "LucideLab",
+      "identifier": "toiletRoll"
+    },
+    "toolbox": {
+      "codepoint": 57687,
+      "fontFamily": "LucideLab",
+      "identifier": "toolbox"
+    },
+    "toolbox-2": {
+      "codepoint": 57688,
+      "fontFamily": "LucideLab",
+      "identifier": "toolbox2"
+    },
+    "top-crop": {
+      "codepoint": 57689,
+      "fontFamily": "LucideLab",
+      "identifier": "topCrop"
+    },
+    "towel-folded": {
+      "codepoint": 57690,
+      "fontFamily": "LucideLab",
+      "identifier": "towelFolded"
+    },
+    "towel-rack": {
+      "codepoint": 57691,
+      "fontFamily": "LucideLab",
+      "identifier": "towelRack"
+    },
+    "trees-forest": {
+      "codepoint": 57692,
+      "fontFamily": "LucideLab",
+      "identifier": "treesForest"
+    },
+    "triangle-stripes": {
+      "codepoint": 57693,
+      "fontFamily": "LucideLab",
+      "identifier": "triangleStripes"
+    },
+    "trousers": {
+      "codepoint": 57694,
+      "fontFamily": "LucideLab",
+      "identifier": "trousers"
+    },
+    "tuxedo": {
+      "codepoint": 57695,
+      "fontFamily": "LucideLab",
+      "identifier": "tuxedo"
+    },
+    "type-square": {
+      "codepoint": 57696,
+      "fontFamily": "LucideLab",
+      "identifier": "typeSquare"
+    },
+    "ufo": {
+      "codepoint": 57697,
+      "fontFamily": "LucideLab",
+      "identifier": "ufo"
+    },
+    "underline-square": {
+      "codepoint": 57698,
+      "fontFamily": "LucideLab",
+      "identifier": "underlineSquare"
+    },
+    "unicorn-head": {
+      "codepoint": 57699,
+      "fontFamily": "LucideLab",
+      "identifier": "unicornHead"
+    },
+    "utensils": {
+      "codepoint": 57700,
+      "fontFamily": "LucideLab",
+      "identifier": "utensils"
+    },
+    "utensils-crossed": {
+      "codepoint": 57701,
+      "fontFamily": "LucideLab",
+      "identifier": "utensilsCrossed"
+    },
+    "venn": {
+      "codepoint": 57702,
+      "fontFamily": "LucideLab",
+      "identifier": "venn"
+    },
+    "vest": {
+      "codepoint": 57703,
+      "fontFamily": "LucideLab",
+      "identifier": "vest"
+    },
+    "volleyball": {
+      "codepoint": 57704,
+      "fontFamily": "LucideLab",
+      "identifier": "volleyball"
+    },
+    "vote": {
+      "codepoint": 57705,
+      "fontFamily": "LucideLab",
+      "identifier": "vote"
+    },
+    "waffle": {
+      "codepoint": 57706,
+      "fontFamily": "LucideLab",
+      "identifier": "waffle"
+    },
+    "wardrobe": {
+      "codepoint": 57707,
+      "fontFamily": "LucideLab",
+      "identifier": "wardrobe"
+    },
+    "watch-activity": {
+      "codepoint": 57708,
+      "fontFamily": "LucideLab",
+      "identifier": "watchActivity"
+    },
+    "watch-alarm": {
+      "codepoint": 57709,
+      "fontFamily": "LucideLab",
+      "identifier": "watchAlarm"
+    },
+    "watch-bars": {
+      "codepoint": 57710,
+      "fontFamily": "LucideLab",
+      "identifier": "watchBars"
+    },
+    "watch-charging": {
+      "codepoint": 57711,
+      "fontFamily": "LucideLab",
+      "identifier": "watchCharging"
+    },
+    "watch-check": {
+      "codepoint": 57712,
+      "fontFamily": "LucideLab",
+      "identifier": "watchCheck"
+    },
+    "watch-loader": {
+      "codepoint": 57713,
+      "fontFamily": "LucideLab",
+      "identifier": "watchLoader"
+    },
+    "watch-music": {
+      "codepoint": 57714,
+      "fontFamily": "LucideLab",
+      "identifier": "watchMusic"
+    },
+    "watch-square": {
+      "codepoint": 57715,
+      "fontFamily": "LucideLab",
+      "identifier": "watchSquare"
+    },
+    "watch-square-alarm": {
+      "codepoint": 57716,
+      "fontFamily": "LucideLab",
+      "identifier": "watchSquareAlarm"
+    },
+    "watch-text": {
+      "codepoint": 57717,
+      "fontFamily": "LucideLab",
+      "identifier": "watchText"
+    },
+    "watermelon": {
+      "codepoint": 57718,
+      "fontFamily": "LucideLab",
+      "identifier": "watermelon"
+    },
+    "wave-circle": {
+      "codepoint": 57719,
+      "fontFamily": "LucideLab",
+      "identifier": "waveCircle"
+    },
+    "waves-birds": {
+      "codepoint": 57720,
+      "fontFamily": "LucideLab",
+      "identifier": "wavesBirds"
+    },
+    "waves-shark-fin": {
+      "codepoint": 57721,
+      "fontFamily": "LucideLab",
+      "identifier": "wavesSharkFin"
+    },
+    "whale": {
+      "codepoint": 57722,
+      "fontFamily": "LucideLab",
+      "identifier": "whale"
+    },
+    "whale-narwhal": {
+      "codepoint": 57723,
+      "fontFamily": "LucideLab",
+      "identifier": "whaleNarwhal"
+    },
+    "wheel": {
+      "codepoint": 57724,
+      "fontFamily": "LucideLab",
+      "identifier": "wheel"
+    },
+    "whisk": {
+      "codepoint": 57725,
+      "fontFamily": "LucideLab",
+      "identifier": "whisk"
+    },
+    "whisk-fork-knife": {
+      "codepoint": 57726,
+      "fontFamily": "LucideLab",
+      "identifier": "whiskForkKnife"
+    },
+    "whisks": {
+      "codepoint": 57727,
+      "fontFamily": "LucideLab",
+      "identifier": "whisks"
+    },
+    "windmill": {
+      "codepoint": 57728,
+      "fontFamily": "LucideLab",
+      "identifier": "windmill"
+    },
+    "wine-glass-bottle": {
+      "codepoint": 57729,
+      "fontFamily": "LucideLab",
+      "identifier": "wineGlassBottle"
+    },
+    "yarn-ball": {
+      "codepoint": 57730,
+      "fontFamily": "LucideLab",
+      "identifier": "yarnBall"
+    },
+    "yin-yang": {
+      "codepoint": 57731,
+      "fontFamily": "LucideLab",
+      "identifier": "yinYang"
+    }
+  }
+}

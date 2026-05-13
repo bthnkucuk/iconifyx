@@ -1,0 +1,15 @@
+// GENERATED FILE — do not edit.
+
+import 'package:iconifyx_core/iconifyx_core.dart';
+
+/// License metadata for the "pepicons-pencil" icon set.
+const IconSetLicense iconSetLicense = IconSetLicense(
+  prefix: 'pepicons-pencil',
+  name: 'Pepicons Pencil',
+  author: 'CyCraft',
+  authorUrl: 'https://github.com/CyCraft/pepicons',
+  licenseTitle: 'CC BY 4.0',
+  licenseSpdx: 'CC-BY-4.0',
+  licenseUrl: 'https://github.com/CyCraft/pepicons/blob/dev/LICENSE',
+  iconCount: 1275,
+);

@@ -1,0 +1,6520 @@
+{
+  "schemaVersion": 1,
+  "prefix": "pepicons-pop",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_pepicons_pop",
+  "info": {
+    "name": "Pepicons Pop!",
+    "author": {
+      "name": "CyCraft",
+      "url": "https://github.com/CyCraft/pepicons"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
+    },
+    "total": 1298
+  },
+  "fonts": [
+    {
+      "family": "PepiconsPop",
+      "nextCodepoint": 58642,
+      "iconCount": 1298
+    }
+  ],
+  "icons": {
+    "airplane": {
+      "codepoint": 57344,
+      "fontFamily": "PepiconsPop",
+      "identifier": "airplane"
+    },
+    "airplane-circle": {
+      "codepoint": 57345,
+      "fontFamily": "PepiconsPop",
+      "identifier": "airplaneCircle"
+    },
+    "airplane-circle-filled": {
+      "codepoint": 57346,
+      "fontFamily": "PepiconsPop",
+      "identifier": "airplaneCircleFilled"
+    },
+    "airplane-circle-off": {
+      "codepoint": 57347,
+      "fontFamily": "PepiconsPop",
+      "identifier": "airplaneCircleOff"
+    },
+    "airplane-off": {
+      "codepoint": 57348,
+      "fontFamily": "PepiconsPop",
+      "identifier": "airplaneOff"
+    },
+    "alarm": {
+      "codepoint": 57349,
+      "fontFamily": "PepiconsPop",
+      "identifier": "alarm"
+    },
+    "alarm-circle": {
+      "codepoint": 57350,
+      "fontFamily": "PepiconsPop",
+      "identifier": "alarmCircle"
+    },
+    "alarm-circle-filled": {
+      "codepoint": 57351,
+      "fontFamily": "PepiconsPop",
+      "identifier": "alarmCircleFilled"
+    },
+    "alarm-circle-off": {
+      "codepoint": 57352,
+      "fontFamily": "PepiconsPop",
+      "identifier": "alarmCircleOff"
+    },
+    "alarm-off": {
+      "codepoint": 57353,
+      "fontFamily": "PepiconsPop",
+      "identifier": "alarmOff"
+    },
+    "angle-down": {
+      "codepoint": 57354,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleDown"
+    },
+    "angle-down-circle": {
+      "codepoint": 57355,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleDownCircle"
+    },
+    "angle-down-circle-filled": {
+      "codepoint": 57356,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleDownCircleFilled"
+    },
+    "angle-down-circle-off": {
+      "codepoint": 57357,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleDownCircleOff"
+    },
+    "angle-down-off": {
+      "codepoint": 57358,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleDownOff"
+    },
+    "angle-left": {
+      "codepoint": 57359,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleLeft"
+    },
+    "angle-left-circle": {
+      "codepoint": 57360,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleLeftCircle"
+    },
+    "angle-left-circle-filled": {
+      "codepoint": 57361,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleLeftCircleFilled"
+    },
+    "angle-left-circle-off": {
+      "codepoint": 57362,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleLeftCircleOff"
+    },
+    "angle-left-off": {
+      "codepoint": 57363,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleLeftOff"
+    },
+    "angle-right": {
+      "codepoint": 57364,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleRight"
+    },
+    "angle-right-circle": {
+      "codepoint": 57365,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleRightCircle"
+    },
+    "angle-right-circle-filled": {
+      "codepoint": 57366,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleRightCircleFilled"
+    },
+    "angle-right-circle-off": {
+      "codepoint": 57367,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleRightCircleOff"
+    },
+    "angle-right-off": {
+      "codepoint": 57368,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleRightOff"
+    },
+    "angle-up": {
+      "codepoint": 57369,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleUp"
+    },
+    "angle-up-circle": {
+      "codepoint": 57370,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleUpCircle"
+    },
+    "angle-up-circle-filled": {
+      "codepoint": 57371,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleUpCircleFilled"
+    },
+    "angle-up-circle-off": {
+      "codepoint": 57372,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleUpCircleOff"
+    },
+    "angle-up-off": {
+      "codepoint": 57373,
+      "fontFamily": "PepiconsPop",
+      "identifier": "angleUpOff"
+    },
+    "arrow-down": {
+      "codepoint": 57374,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-circle": {
+      "codepoint": 57375,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownCircle"
+    },
+    "arrow-down-circle-filled": {
+      "codepoint": 57376,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownCircleFilled"
+    },
+    "arrow-down-circle-off": {
+      "codepoint": 57377,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownCircleOff"
+    },
+    "arrow-down-left": {
+      "codepoint": 57378,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownLeft"
+    },
+    "arrow-down-left-circle": {
+      "codepoint": 57379,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownLeftCircle"
+    },
+    "arrow-down-left-circle-filled": {
+      "codepoint": 57380,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownLeftCircleFilled"
+    },
+    "arrow-down-left-circle-off": {
+      "codepoint": 57381,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownLeftCircleOff"
+    },
+    "arrow-down-left-off": {
+      "codepoint": 57382,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownLeftOff"
+    },
+    "arrow-down-off": {
+      "codepoint": 57383,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownOff"
+    },
+    "arrow-down-right": {
+      "codepoint": 57384,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownRight"
+    },
+    "arrow-down-right-circle": {
+      "codepoint": 57385,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownRightCircle"
+    },
+    "arrow-down-right-circle-filled": {
+      "codepoint": 57386,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownRightCircleFilled"
+    },
+    "arrow-down-right-circle-off": {
+      "codepoint": 57387,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownRightCircleOff"
+    },
+    "arrow-down-right-off": {
+      "codepoint": 57388,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowDownRightOff"
+    },
+    "arrow-left": {
+      "codepoint": 57389,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-circle": {
+      "codepoint": 57390,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowLeftCircle"
+    },
+    "arrow-left-circle-filled": {
+      "codepoint": 57391,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowLeftCircleFilled"
+    },
+    "arrow-left-circle-off": {
+      "codepoint": 57392,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowLeftCircleOff"
+    },
+    "arrow-left-off": {
+      "codepoint": 57393,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowLeftOff"
+    },
+    "arrow-right": {
+      "codepoint": 57394,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-circle": {
+      "codepoint": 57395,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowRightCircle"
+    },
+    "arrow-right-circle-filled": {
+      "codepoint": 57396,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowRightCircleFilled"
+    },
+    "arrow-right-circle-off": {
+      "codepoint": 57397,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowRightCircleOff"
+    },
+    "arrow-right-off": {
+      "codepoint": 57398,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowRightOff"
+    },
+    "arrow-spin": {
+      "codepoint": 57399,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowSpin"
+    },
+    "arrow-spin-circle": {
+      "codepoint": 57400,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowSpinCircle"
+    },
+    "arrow-spin-circle-filled": {
+      "codepoint": 57401,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowSpinCircleFilled"
+    },
+    "arrow-spin-circle-off": {
+      "codepoint": 57402,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowSpinCircleOff"
+    },
+    "arrow-spin-off": {
+      "codepoint": 57403,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowSpinOff"
+    },
+    "arrow-up": {
+      "codepoint": 57404,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-circle": {
+      "codepoint": 57405,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpCircle"
+    },
+    "arrow-up-circle-filled": {
+      "codepoint": 57406,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpCircleFilled"
+    },
+    "arrow-up-circle-off": {
+      "codepoint": 57407,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpCircleOff"
+    },
+    "arrow-up-left": {
+      "codepoint": 57408,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpLeft"
+    },
+    "arrow-up-left-circle": {
+      "codepoint": 57409,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpLeftCircle"
+    },
+    "arrow-up-left-circle-filled": {
+      "codepoint": 57410,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpLeftCircleFilled"
+    },
+    "arrow-up-left-circle-off": {
+      "codepoint": 57411,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpLeftCircleOff"
+    },
+    "arrow-up-left-off": {
+      "codepoint": 57412,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpLeftOff"
+    },
+    "arrow-up-off": {
+      "codepoint": 57413,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpOff"
+    },
+    "arrow-up-right": {
+      "codepoint": 57414,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpRight"
+    },
+    "arrow-up-right-circle": {
+      "codepoint": 57415,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpRightCircle"
+    },
+    "arrow-up-right-circle-filled": {
+      "codepoint": 57416,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpRightCircleFilled"
+    },
+    "arrow-up-right-circle-off": {
+      "codepoint": 57417,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpRightCircleOff"
+    },
+    "arrow-up-right-off": {
+      "codepoint": 57418,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowUpRightOff"
+    },
+    "arrows-spin": {
+      "codepoint": 57419,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowsSpin"
+    },
+    "arrows-spin-circle": {
+      "codepoint": 57420,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowsSpinCircle"
+    },
+    "arrows-spin-circle-filled": {
+      "codepoint": 57421,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowsSpinCircleFilled"
+    },
+    "arrows-spin-circle-off": {
+      "codepoint": 57422,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowsSpinCircleOff"
+    },
+    "arrows-spin-off": {
+      "codepoint": 57423,
+      "fontFamily": "PepiconsPop",
+      "identifier": "arrowsSpinOff"
+    },
+    "bank": {
+      "codepoint": 57424,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bank"
+    },
+    "bank-circle": {
+      "codepoint": 57425,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bankCircle"
+    },
+    "bank-circle-filled": {
+      "codepoint": 57426,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bankCircleFilled"
+    },
+    "bank-circle-off": {
+      "codepoint": 57427,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bankCircleOff"
+    },
+    "bank-off": {
+      "codepoint": 57428,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bankOff"
+    },
+    "battery": {
+      "codepoint": 57429,
+      "fontFamily": "PepiconsPop",
+      "identifier": "battery"
+    },
+    "battery-circle": {
+      "codepoint": 57430,
+      "fontFamily": "PepiconsPop",
+      "identifier": "batteryCircle"
+    },
+    "battery-circle-filled": {
+      "codepoint": 57431,
+      "fontFamily": "PepiconsPop",
+      "identifier": "batteryCircleFilled"
+    },
+    "battery-circle-off": {
+      "codepoint": 57432,
+      "fontFamily": "PepiconsPop",
+      "identifier": "batteryCircleOff"
+    },
+    "battery-off": {
+      "codepoint": 57433,
+      "fontFamily": "PepiconsPop",
+      "identifier": "batteryOff"
+    },
+    "bell": {
+      "codepoint": 57434,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bell"
+    },
+    "bell-circle": {
+      "codepoint": 57435,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bellCircle"
+    },
+    "bell-circle-filled": {
+      "codepoint": 57436,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bellCircleFilled"
+    },
+    "bell-circle-off": {
+      "codepoint": 57437,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bellCircleOff"
+    },
+    "bell-off": {
+      "codepoint": 57438,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bellOff"
+    },
+    "bicycle": {
+      "codepoint": 57439,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bicycle"
+    },
+    "bicycle-circle": {
+      "codepoint": 57440,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bicycleCircle"
+    },
+    "bicycle-circle-filled": {
+      "codepoint": 57441,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bicycleCircleFilled"
+    },
+    "bicycle-circle-off": {
+      "codepoint": 57442,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bicycleCircleOff"
+    },
+    "bicycle-off": {
+      "codepoint": 57443,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bicycleOff"
+    },
+    "bluetooth": {
+      "codepoint": 57444,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bluetooth"
+    },
+    "bluetooth-circle": {
+      "codepoint": 57445,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bluetoothCircle"
+    },
+    "bluetooth-circle-filled": {
+      "codepoint": 57446,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bluetoothCircleFilled"
+    },
+    "bluetooth-circle-off": {
+      "codepoint": 57447,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bluetoothCircleOff"
+    },
+    "bluetooth-off": {
+      "codepoint": 57448,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bluetoothOff"
+    },
+    "book": {
+      "codepoint": 57449,
+      "fontFamily": "PepiconsPop",
+      "identifier": "book"
+    },
+    "book-circle": {
+      "codepoint": 57450,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookCircle"
+    },
+    "book-circle-filled": {
+      "codepoint": 57451,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookCircleFilled"
+    },
+    "book-circle-off": {
+      "codepoint": 57452,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookCircleOff"
+    },
+    "book-off": {
+      "codepoint": 57453,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookOff"
+    },
+    "bookmark": {
+      "codepoint": 57454,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookmark"
+    },
+    "bookmark-circle": {
+      "codepoint": 57455,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookmarkCircle"
+    },
+    "bookmark-circle-filled": {
+      "codepoint": 57456,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookmarkCircleFilled"
+    },
+    "bookmark-circle-off": {
+      "codepoint": 57457,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookmarkCircleOff"
+    },
+    "bookmark-filled": {
+      "codepoint": 57458,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookmarkFilled"
+    },
+    "bookmark-filled-circle": {
+      "codepoint": 57459,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookmarkFilledCircle"
+    },
+    "bookmark-filled-circle-filled": {
+      "codepoint": 57460,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookmarkFilledCircleFilled"
+    },
+    "bookmark-filled-circle-off": {
+      "codepoint": 57461,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookmarkFilledCircleOff"
+    },
+    "bookmark-filled-off": {
+      "codepoint": 57462,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookmarkFilledOff"
+    },
+    "bookmark-off": {
+      "codepoint": 57463,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bookmarkOff"
+    },
+    "briefcase": {
+      "codepoint": 57464,
+      "fontFamily": "PepiconsPop",
+      "identifier": "briefcase"
+    },
+    "briefcase-circle": {
+      "codepoint": 57465,
+      "fontFamily": "PepiconsPop",
+      "identifier": "briefcaseCircle"
+    },
+    "briefcase-circle-filled": {
+      "codepoint": 57466,
+      "fontFamily": "PepiconsPop",
+      "identifier": "briefcaseCircleFilled"
+    },
+    "briefcase-circle-off": {
+      "codepoint": 57467,
+      "fontFamily": "PepiconsPop",
+      "identifier": "briefcaseCircleOff"
+    },
+    "briefcase-off": {
+      "codepoint": 57468,
+      "fontFamily": "PepiconsPop",
+      "identifier": "briefcaseOff"
+    },
+    "building": {
+      "codepoint": 57469,
+      "fontFamily": "PepiconsPop",
+      "identifier": "building"
+    },
+    "building-circle": {
+      "codepoint": 57470,
+      "fontFamily": "PepiconsPop",
+      "identifier": "buildingCircle"
+    },
+    "building-circle-filled": {
+      "codepoint": 57471,
+      "fontFamily": "PepiconsPop",
+      "identifier": "buildingCircleFilled"
+    },
+    "building-circle-off": {
+      "codepoint": 57472,
+      "fontFamily": "PepiconsPop",
+      "identifier": "buildingCircleOff"
+    },
+    "building-off": {
+      "codepoint": 57473,
+      "fontFamily": "PepiconsPop",
+      "identifier": "buildingOff"
+    },
+    "bulletin-notice": {
+      "codepoint": 57474,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bulletinNotice"
+    },
+    "bulletin-notice-circle": {
+      "codepoint": 57475,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bulletinNoticeCircle"
+    },
+    "bulletin-notice-circle-filled": {
+      "codepoint": 57476,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bulletinNoticeCircleFilled"
+    },
+    "bulletin-notice-circle-off": {
+      "codepoint": 57477,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bulletinNoticeCircleOff"
+    },
+    "bulletin-notice-off": {
+      "codepoint": 57478,
+      "fontFamily": "PepiconsPop",
+      "identifier": "bulletinNoticeOff"
+    },
+    "calculator": {
+      "codepoint": 57479,
+      "fontFamily": "PepiconsPop",
+      "identifier": "calculator"
+    },
+    "calculator-circle": {
+      "codepoint": 57480,
+      "fontFamily": "PepiconsPop",
+      "identifier": "calculatorCircle"
+    },
+    "calculator-circle-filled": {
+      "codepoint": 57481,
+      "fontFamily": "PepiconsPop",
+      "identifier": "calculatorCircleFilled"
+    },
+    "calculator-circle-off": {
+      "codepoint": 57482,
+      "fontFamily": "PepiconsPop",
+      "identifier": "calculatorCircleOff"
+    },
+    "calculator-off": {
+      "codepoint": 57483,
+      "fontFamily": "PepiconsPop",
+      "identifier": "calculatorOff"
+    },
+    "calendar": {
+      "codepoint": 57484,
+      "fontFamily": "PepiconsPop",
+      "identifier": "calendar"
+    },
+    "calendar-circle": {
+      "codepoint": 57485,
+      "fontFamily": "PepiconsPop",
+      "identifier": "calendarCircle"
+    },
+    "calendar-circle-filled": {
+      "codepoint": 57486,
+      "fontFamily": "PepiconsPop",
+      "identifier": "calendarCircleFilled"
+    },
+    "calendar-circle-off": {
+      "codepoint": 57487,
+      "fontFamily": "PepiconsPop",
+      "identifier": "calendarCircleOff"
+    },
+    "calendar-off": {
+      "codepoint": 57488,
+      "fontFamily": "PepiconsPop",
+      "identifier": "calendarOff"
+    },
+    "camera": {
+      "codepoint": 57489,
+      "fontFamily": "PepiconsPop",
+      "identifier": "camera"
+    },
+    "camera-circle": {
+      "codepoint": 57490,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cameraCircle"
+    },
+    "camera-circle-filled": {
+      "codepoint": 57491,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cameraCircleFilled"
+    },
+    "camera-circle-off": {
+      "codepoint": 57492,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cameraCircleOff"
+    },
+    "camera-off": {
+      "codepoint": 57493,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cameraOff"
+    },
+    "can": {
+      "codepoint": 57494,
+      "fontFamily": "PepiconsPop",
+      "identifier": "can"
+    },
+    "can-circle": {
+      "codepoint": 57495,
+      "fontFamily": "PepiconsPop",
+      "identifier": "canCircle"
+    },
+    "can-circle-filled": {
+      "codepoint": 57496,
+      "fontFamily": "PepiconsPop",
+      "identifier": "canCircleFilled"
+    },
+    "can-circle-off": {
+      "codepoint": 57497,
+      "fontFamily": "PepiconsPop",
+      "identifier": "canCircleOff"
+    },
+    "can-off": {
+      "codepoint": 57498,
+      "fontFamily": "PepiconsPop",
+      "identifier": "canOff"
+    },
+    "car": {
+      "codepoint": 57499,
+      "fontFamily": "PepiconsPop",
+      "identifier": "car"
+    },
+    "car-circle": {
+      "codepoint": 57500,
+      "fontFamily": "PepiconsPop",
+      "identifier": "carCircle"
+    },
+    "car-circle-filled": {
+      "codepoint": 57501,
+      "fontFamily": "PepiconsPop",
+      "identifier": "carCircleFilled"
+    },
+    "car-circle-off": {
+      "codepoint": 57502,
+      "fontFamily": "PepiconsPop",
+      "identifier": "carCircleOff"
+    },
+    "car-off": {
+      "codepoint": 57503,
+      "fontFamily": "PepiconsPop",
+      "identifier": "carOff"
+    },
+    "cart": {
+      "codepoint": 57504,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cart"
+    },
+    "cart-circle": {
+      "codepoint": 57505,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cartCircle"
+    },
+    "cart-circle-filled": {
+      "codepoint": 57506,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cartCircleFilled"
+    },
+    "cart-circle-off": {
+      "codepoint": 57507,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cartCircleOff"
+    },
+    "cart-off": {
+      "codepoint": 57508,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cartOff"
+    },
+    "cellphone-eye": {
+      "codepoint": 57509,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cellphoneEye"
+    },
+    "cellphone-eye-circle": {
+      "codepoint": 57510,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cellphoneEyeCircle"
+    },
+    "cellphone-eye-circle-filled": {
+      "codepoint": 57511,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cellphoneEyeCircleFilled"
+    },
+    "cellphone-eye-circle-off": {
+      "codepoint": 57512,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cellphoneEyeCircleOff"
+    },
+    "cellphone-eye-off": {
+      "codepoint": 57513,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cellphoneEyeOff"
+    },
+    "cellphone-loop": {
+      "codepoint": 57514,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cellphoneLoop"
+    },
+    "cellphone-loop-circle": {
+      "codepoint": 57515,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cellphoneLoopCircle"
+    },
+    "cellphone-loop-circle-filled": {
+      "codepoint": 57516,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cellphoneLoopCircleFilled"
+    },
+    "cellphone-loop-circle-off": {
+      "codepoint": 57517,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cellphoneLoopCircleOff"
+    },
+    "cellphone-loop-off": {
+      "codepoint": 57518,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cellphoneLoopOff"
+    },
+    "chain": {
+      "codepoint": 57519,
+      "fontFamily": "PepiconsPop",
+      "identifier": "chain"
+    },
+    "chain-circle": {
+      "codepoint": 57520,
+      "fontFamily": "PepiconsPop",
+      "identifier": "chainCircle"
+    },
+    "chain-circle-filled": {
+      "codepoint": 57521,
+      "fontFamily": "PepiconsPop",
+      "identifier": "chainCircleFilled"
+    },
+    "chain-circle-off": {
+      "codepoint": 57522,
+      "fontFamily": "PepiconsPop",
+      "identifier": "chainCircleOff"
+    },
+    "chain-off": {
+      "codepoint": 57523,
+      "fontFamily": "PepiconsPop",
+      "identifier": "chainOff"
+    },
+    "checkmark": {
+      "codepoint": 57524,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmark"
+    },
+    "checkmark-circle": {
+      "codepoint": 57525,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkCircle"
+    },
+    "checkmark-circle-filled": {
+      "codepoint": 57526,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkCircleFilled"
+    },
+    "checkmark-circle-off": {
+      "codepoint": 57527,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkCircleOff"
+    },
+    "checkmark-filled": {
+      "codepoint": 57528,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkFilled"
+    },
+    "checkmark-filled-circle": {
+      "codepoint": 57529,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkFilledCircle"
+    },
+    "checkmark-filled-circle-filled": {
+      "codepoint": 57530,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkFilledCircleFilled"
+    },
+    "checkmark-filled-circle-off": {
+      "codepoint": 57531,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkFilledCircleOff"
+    },
+    "checkmark-filled-off": {
+      "codepoint": 57532,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkFilledOff"
+    },
+    "checkmark-off": {
+      "codepoint": 57533,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkOff"
+    },
+    "checkmark-outlined": {
+      "codepoint": 57534,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkOutlined"
+    },
+    "checkmark-outlined-circle": {
+      "codepoint": 57535,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkOutlinedCircle"
+    },
+    "checkmark-outlined-circle-filled": {
+      "codepoint": 57536,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkOutlinedCircleFilled"
+    },
+    "checkmark-outlined-circle-off": {
+      "codepoint": 57537,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkOutlinedCircleOff"
+    },
+    "checkmark-outlined-off": {
+      "codepoint": 57538,
+      "fontFamily": "PepiconsPop",
+      "identifier": "checkmarkOutlinedOff"
+    },
+    "circle": {
+      "codepoint": 57539,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circle"
+    },
+    "circle-big": {
+      "codepoint": 57540,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleBig"
+    },
+    "circle-big-circle": {
+      "codepoint": 57541,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleBigCircle"
+    },
+    "circle-big-circle-filled": {
+      "codepoint": 57542,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleBigCircleFilled"
+    },
+    "circle-big-circle-off": {
+      "codepoint": 57543,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleBigCircleOff"
+    },
+    "circle-big-filled": {
+      "codepoint": 57544,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleBigFilled"
+    },
+    "circle-big-filled-circle": {
+      "codepoint": 57545,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleBigFilledCircle"
+    },
+    "circle-big-filled-circle-filled": {
+      "codepoint": 57546,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleBigFilledCircleFilled"
+    },
+    "circle-big-filled-circle-off": {
+      "codepoint": 57547,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleBigFilledCircleOff"
+    },
+    "circle-big-filled-off": {
+      "codepoint": 57548,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleBigFilledOff"
+    },
+    "circle-big-off": {
+      "codepoint": 57549,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleBigOff"
+    },
+    "circle-circle": {
+      "codepoint": 57550,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleCircle"
+    },
+    "circle-circle-filled": {
+      "codepoint": 57551,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleCircleFilled"
+    },
+    "circle-circle-off": {
+      "codepoint": 57552,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleCircleOff"
+    },
+    "circle-filled": {
+      "codepoint": 57553,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleFilled"
+    },
+    "circle-filled-circle": {
+      "codepoint": 57554,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleFilledCircle"
+    },
+    "circle-filled-circle-filled": {
+      "codepoint": 57555,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleFilledCircleFilled"
+    },
+    "circle-filled-circle-off": {
+      "codepoint": 57556,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleFilledCircleOff"
+    },
+    "circle-filled-off": {
+      "codepoint": 57557,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleFilledOff"
+    },
+    "circle-off": {
+      "codepoint": 57558,
+      "fontFamily": "PepiconsPop",
+      "identifier": "circleOff"
+    },
+    "clapperboard": {
+      "codepoint": 57559,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clapperboard"
+    },
+    "clapperboard-circle": {
+      "codepoint": 57560,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clapperboardCircle"
+    },
+    "clapperboard-circle-filled": {
+      "codepoint": 57561,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clapperboardCircleFilled"
+    },
+    "clapperboard-circle-off": {
+      "codepoint": 57562,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clapperboardCircleOff"
+    },
+    "clapperboard-off": {
+      "codepoint": 57563,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clapperboardOff"
+    },
+    "clipboard": {
+      "codepoint": 57564,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboard"
+    },
+    "clipboard-check": {
+      "codepoint": 57565,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCheck"
+    },
+    "clipboard-check-circle": {
+      "codepoint": 57566,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCheckCircle"
+    },
+    "clipboard-check-circle-filled": {
+      "codepoint": 57567,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCheckCircleFilled"
+    },
+    "clipboard-check-circle-off": {
+      "codepoint": 57568,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCheckCircleOff"
+    },
+    "clipboard-check-circled": {
+      "codepoint": 57569,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCheckCircled"
+    },
+    "clipboard-check-circled-circle": {
+      "codepoint": 57570,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCheckCircledCircle"
+    },
+    "clipboard-check-circled-circle-filled": {
+      "codepoint": 57571,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCheckCircledCircleFilled"
+    },
+    "clipboard-check-circled-circle-off": {
+      "codepoint": 57572,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCheckCircledCircleOff"
+    },
+    "clipboard-check-circled-off": {
+      "codepoint": 57573,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCheckCircledOff"
+    },
+    "clipboard-check-off": {
+      "codepoint": 57574,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCheckOff"
+    },
+    "clipboard-circle": {
+      "codepoint": 57575,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCircle"
+    },
+    "clipboard-circle-filled": {
+      "codepoint": 57576,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCircleFilled"
+    },
+    "clipboard-circle-off": {
+      "codepoint": 57577,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardCircleOff"
+    },
+    "clipboard-off": {
+      "codepoint": 57578,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clipboardOff"
+    },
+    "clock": {
+      "codepoint": 57579,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clock"
+    },
+    "clock-circle": {
+      "codepoint": 57580,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clockCircle"
+    },
+    "clock-circle-filled": {
+      "codepoint": 57581,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clockCircleFilled"
+    },
+    "clock-circle-off": {
+      "codepoint": 57582,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clockCircleOff"
+    },
+    "clock-off": {
+      "codepoint": 57583,
+      "fontFamily": "PepiconsPop",
+      "identifier": "clockOff"
+    },
+    "cloud": {
+      "codepoint": 57584,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloud"
+    },
+    "cloud-circle": {
+      "codepoint": 57585,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudCircle"
+    },
+    "cloud-circle-filled": {
+      "codepoint": 57586,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudCircleFilled"
+    },
+    "cloud-circle-off": {
+      "codepoint": 57587,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudCircleOff"
+    },
+    "cloud-down": {
+      "codepoint": 57588,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudDown"
+    },
+    "cloud-down-circle": {
+      "codepoint": 57589,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudDownCircle"
+    },
+    "cloud-down-circle-filled": {
+      "codepoint": 57590,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudDownCircleFilled"
+    },
+    "cloud-down-circle-off": {
+      "codepoint": 57591,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudDownCircleOff"
+    },
+    "cloud-down-filled": {
+      "codepoint": 57592,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudDownFilled"
+    },
+    "cloud-down-off": {
+      "codepoint": 57593,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudDownOff"
+    },
+    "cloud-filled": {
+      "codepoint": 57594,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudFilled"
+    },
+    "cloud-off": {
+      "codepoint": 57595,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudOff"
+    },
+    "cloud-up": {
+      "codepoint": 57596,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudUp"
+    },
+    "cloud-up-circle": {
+      "codepoint": 57597,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudUpCircle"
+    },
+    "cloud-up-circle-filled": {
+      "codepoint": 57598,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudUpCircleFilled"
+    },
+    "cloud-up-circle-off": {
+      "codepoint": 57599,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudUpCircleOff"
+    },
+    "cloud-up-filled": {
+      "codepoint": 57600,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudUpFilled"
+    },
+    "cloud-up-off": {
+      "codepoint": 57601,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cloudUpOff"
+    },
+    "coctail": {
+      "codepoint": 57602,
+      "fontFamily": "PepiconsPop",
+      "identifier": "coctail"
+    },
+    "coctail-circle": {
+      "codepoint": 57603,
+      "fontFamily": "PepiconsPop",
+      "identifier": "coctailCircle"
+    },
+    "coctail-circle-filled": {
+      "codepoint": 57604,
+      "fontFamily": "PepiconsPop",
+      "identifier": "coctailCircleFilled"
+    },
+    "coctail-circle-off": {
+      "codepoint": 57605,
+      "fontFamily": "PepiconsPop",
+      "identifier": "coctailCircleOff"
+    },
+    "coctail-off": {
+      "codepoint": 57606,
+      "fontFamily": "PepiconsPop",
+      "identifier": "coctailOff"
+    },
+    "code": {
+      "codepoint": 57607,
+      "fontFamily": "PepiconsPop",
+      "identifier": "code"
+    },
+    "code-circle": {
+      "codepoint": 57608,
+      "fontFamily": "PepiconsPop",
+      "identifier": "codeCircle"
+    },
+    "code-circle-filled": {
+      "codepoint": 57609,
+      "fontFamily": "PepiconsPop",
+      "identifier": "codeCircleFilled"
+    },
+    "code-circle-off": {
+      "codepoint": 57610,
+      "fontFamily": "PepiconsPop",
+      "identifier": "codeCircleOff"
+    },
+    "code-off": {
+      "codepoint": 57611,
+      "fontFamily": "PepiconsPop",
+      "identifier": "codeOff"
+    },
+    "coins": {
+      "codepoint": 57612,
+      "fontFamily": "PepiconsPop",
+      "identifier": "coins"
+    },
+    "coins-circle": {
+      "codepoint": 57613,
+      "fontFamily": "PepiconsPop",
+      "identifier": "coinsCircle"
+    },
+    "coins-circle-filled": {
+      "codepoint": 57614,
+      "fontFamily": "PepiconsPop",
+      "identifier": "coinsCircleFilled"
+    },
+    "coins-circle-off": {
+      "codepoint": 57615,
+      "fontFamily": "PepiconsPop",
+      "identifier": "coinsCircleOff"
+    },
+    "coins-off": {
+      "codepoint": 57616,
+      "fontFamily": "PepiconsPop",
+      "identifier": "coinsOff"
+    },
+    "color-picker": {
+      "codepoint": 57617,
+      "fontFamily": "PepiconsPop",
+      "identifier": "colorPicker"
+    },
+    "color-picker-circle": {
+      "codepoint": 57618,
+      "fontFamily": "PepiconsPop",
+      "identifier": "colorPickerCircle"
+    },
+    "color-picker-circle-filled": {
+      "codepoint": 57619,
+      "fontFamily": "PepiconsPop",
+      "identifier": "colorPickerCircleFilled"
+    },
+    "color-picker-circle-off": {
+      "codepoint": 57620,
+      "fontFamily": "PepiconsPop",
+      "identifier": "colorPickerCircleOff"
+    },
+    "color-picker-off": {
+      "codepoint": 57621,
+      "fontFamily": "PepiconsPop",
+      "identifier": "colorPickerOff"
+    },
+    "comet": {
+      "codepoint": 57622,
+      "fontFamily": "PepiconsPop",
+      "identifier": "comet"
+    },
+    "comet-circle": {
+      "codepoint": 57623,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cometCircle"
+    },
+    "comet-circle-filled": {
+      "codepoint": 57624,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cometCircleFilled"
+    },
+    "comet-circle-off": {
+      "codepoint": 57625,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cometCircleOff"
+    },
+    "comet-off": {
+      "codepoint": 57626,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cometOff"
+    },
+    "contract": {
+      "codepoint": 57627,
+      "fontFamily": "PepiconsPop",
+      "identifier": "contract"
+    },
+    "contract-circle": {
+      "codepoint": 57628,
+      "fontFamily": "PepiconsPop",
+      "identifier": "contractCircle"
+    },
+    "contract-circle-filled": {
+      "codepoint": 57629,
+      "fontFamily": "PepiconsPop",
+      "identifier": "contractCircleFilled"
+    },
+    "contract-circle-off": {
+      "codepoint": 57630,
+      "fontFamily": "PepiconsPop",
+      "identifier": "contractCircleOff"
+    },
+    "contract-off": {
+      "codepoint": 57631,
+      "fontFamily": "PepiconsPop",
+      "identifier": "contractOff"
+    },
+    "controller": {
+      "codepoint": 57632,
+      "fontFamily": "PepiconsPop",
+      "identifier": "controller"
+    },
+    "controller-circle": {
+      "codepoint": 57633,
+      "fontFamily": "PepiconsPop",
+      "identifier": "controllerCircle"
+    },
+    "controller-circle-filled": {
+      "codepoint": 57634,
+      "fontFamily": "PepiconsPop",
+      "identifier": "controllerCircleFilled"
+    },
+    "controller-circle-off": {
+      "codepoint": 57635,
+      "fontFamily": "PepiconsPop",
+      "identifier": "controllerCircleOff"
+    },
+    "controller-off": {
+      "codepoint": 57636,
+      "fontFamily": "PepiconsPop",
+      "identifier": "controllerOff"
+    },
+    "countdown": {
+      "codepoint": 57637,
+      "fontFamily": "PepiconsPop",
+      "identifier": "countdown"
+    },
+    "countdown-circle": {
+      "codepoint": 57638,
+      "fontFamily": "PepiconsPop",
+      "identifier": "countdownCircle"
+    },
+    "countdown-circle-filled": {
+      "codepoint": 57639,
+      "fontFamily": "PepiconsPop",
+      "identifier": "countdownCircleFilled"
+    },
+    "countdown-circle-off": {
+      "codepoint": 57640,
+      "fontFamily": "PepiconsPop",
+      "identifier": "countdownCircleOff"
+    },
+    "countdown-off": {
+      "codepoint": 57641,
+      "fontFamily": "PepiconsPop",
+      "identifier": "countdownOff"
+    },
+    "credit-card": {
+      "codepoint": 57642,
+      "fontFamily": "PepiconsPop",
+      "identifier": "creditCard"
+    },
+    "credit-card-circle": {
+      "codepoint": 57643,
+      "fontFamily": "PepiconsPop",
+      "identifier": "creditCardCircle"
+    },
+    "credit-card-circle-filled": {
+      "codepoint": 57644,
+      "fontFamily": "PepiconsPop",
+      "identifier": "creditCardCircleFilled"
+    },
+    "credit-card-circle-off": {
+      "codepoint": 57645,
+      "fontFamily": "PepiconsPop",
+      "identifier": "creditCardCircleOff"
+    },
+    "credit-card-off": {
+      "codepoint": 57646,
+      "fontFamily": "PepiconsPop",
+      "identifier": "creditCardOff"
+    },
+    "crown": {
+      "codepoint": 57647,
+      "fontFamily": "PepiconsPop",
+      "identifier": "crown"
+    },
+    "crown-circle": {
+      "codepoint": 57648,
+      "fontFamily": "PepiconsPop",
+      "identifier": "crownCircle"
+    },
+    "crown-circle-filled": {
+      "codepoint": 57649,
+      "fontFamily": "PepiconsPop",
+      "identifier": "crownCircleFilled"
+    },
+    "crown-circle-off": {
+      "codepoint": 57650,
+      "fontFamily": "PepiconsPop",
+      "identifier": "crownCircleOff"
+    },
+    "crown-off": {
+      "codepoint": 57651,
+      "fontFamily": "PepiconsPop",
+      "identifier": "crownOff"
+    },
+    "cup": {
+      "codepoint": 57652,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cup"
+    },
+    "cup-circle": {
+      "codepoint": 57653,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cupCircle"
+    },
+    "cup-circle-filled": {
+      "codepoint": 57654,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cupCircleFilled"
+    },
+    "cup-circle-off": {
+      "codepoint": 57655,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cupCircleOff"
+    },
+    "cup-off": {
+      "codepoint": 57656,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cupOff"
+    },
+    "cv": {
+      "codepoint": 57657,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cv"
+    },
+    "cv-circle": {
+      "codepoint": 57658,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cvCircle"
+    },
+    "cv-circle-filled": {
+      "codepoint": 57659,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cvCircleFilled"
+    },
+    "cv-circle-off": {
+      "codepoint": 57660,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cvCircleOff"
+    },
+    "cv-off": {
+      "codepoint": 57661,
+      "fontFamily": "PepiconsPop",
+      "identifier": "cvOff"
+    },
+    "database": {
+      "codepoint": 57662,
+      "fontFamily": "PepiconsPop",
+      "identifier": "database"
+    },
+    "database-circle": {
+      "codepoint": 57663,
+      "fontFamily": "PepiconsPop",
+      "identifier": "databaseCircle"
+    },
+    "database-circle-filled": {
+      "codepoint": 57664,
+      "fontFamily": "PepiconsPop",
+      "identifier": "databaseCircleFilled"
+    },
+    "database-circle-off": {
+      "codepoint": 57665,
+      "fontFamily": "PepiconsPop",
+      "identifier": "databaseCircleOff"
+    },
+    "database-off": {
+      "codepoint": 57666,
+      "fontFamily": "PepiconsPop",
+      "identifier": "databaseOff"
+    },
+    "division": {
+      "codepoint": 57667,
+      "fontFamily": "PepiconsPop",
+      "identifier": "division"
+    },
+    "division-circle": {
+      "codepoint": 57668,
+      "fontFamily": "PepiconsPop",
+      "identifier": "divisionCircle"
+    },
+    "division-circle-filled": {
+      "codepoint": 57669,
+      "fontFamily": "PepiconsPop",
+      "identifier": "divisionCircleFilled"
+    },
+    "division-circle-off": {
+      "codepoint": 57670,
+      "fontFamily": "PepiconsPop",
+      "identifier": "divisionCircleOff"
+    },
+    "division-off": {
+      "codepoint": 57671,
+      "fontFamily": "PepiconsPop",
+      "identifier": "divisionOff"
+    },
+    "dollar": {
+      "codepoint": 57672,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dollar"
+    },
+    "dollar-circle": {
+      "codepoint": 57673,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dollarCircle"
+    },
+    "dollar-circle-filled": {
+      "codepoint": 57674,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dollarCircleFilled"
+    },
+    "dollar-circle-off": {
+      "codepoint": 57675,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dollarCircleOff"
+    },
+    "dollar-off": {
+      "codepoint": 57676,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dollarOff"
+    },
+    "dots-x": {
+      "codepoint": 57677,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dotsX"
+    },
+    "dots-x-circle": {
+      "codepoint": 57678,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dotsXCircle"
+    },
+    "dots-x-circle-filled": {
+      "codepoint": 57679,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dotsXCircleFilled"
+    },
+    "dots-x-circle-off": {
+      "codepoint": 57680,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dotsXCircleOff"
+    },
+    "dots-x-off": {
+      "codepoint": 57681,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dotsXOff"
+    },
+    "dots-y": {
+      "codepoint": 57682,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dotsY"
+    },
+    "dots-y-circle": {
+      "codepoint": 57683,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dotsYCircle"
+    },
+    "dots-y-circle-filled": {
+      "codepoint": 57684,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dotsYCircleFilled"
+    },
+    "dots-y-circle-off": {
+      "codepoint": 57685,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dotsYCircleOff"
+    },
+    "dots-y-off": {
+      "codepoint": 57686,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dotsYOff"
+    },
+    "down-left": {
+      "codepoint": 57687,
+      "fontFamily": "PepiconsPop",
+      "identifier": "downLeft"
+    },
+    "down-left-circle": {
+      "codepoint": 57688,
+      "fontFamily": "PepiconsPop",
+      "identifier": "downLeftCircle"
+    },
+    "down-left-circle-filled": {
+      "codepoint": 57689,
+      "fontFamily": "PepiconsPop",
+      "identifier": "downLeftCircleFilled"
+    },
+    "down-left-circle-off": {
+      "codepoint": 57690,
+      "fontFamily": "PepiconsPop",
+      "identifier": "downLeftCircleOff"
+    },
+    "down-left-off": {
+      "codepoint": 57691,
+      "fontFamily": "PepiconsPop",
+      "identifier": "downLeftOff"
+    },
+    "down-up": {
+      "codepoint": 57692,
+      "fontFamily": "PepiconsPop",
+      "identifier": "downUp"
+    },
+    "down-up-circle": {
+      "codepoint": 57693,
+      "fontFamily": "PepiconsPop",
+      "identifier": "downUpCircle"
+    },
+    "down-up-circle-filled": {
+      "codepoint": 57694,
+      "fontFamily": "PepiconsPop",
+      "identifier": "downUpCircleFilled"
+    },
+    "down-up-circle-off": {
+      "codepoint": 57695,
+      "fontFamily": "PepiconsPop",
+      "identifier": "downUpCircleOff"
+    },
+    "down-up-off": {
+      "codepoint": 57696,
+      "fontFamily": "PepiconsPop",
+      "identifier": "downUpOff"
+    },
+    "dress": {
+      "codepoint": 57697,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dress"
+    },
+    "dress-circle": {
+      "codepoint": 57698,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dressCircle"
+    },
+    "dress-circle-filled": {
+      "codepoint": 57699,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dressCircleFilled"
+    },
+    "dress-circle-off": {
+      "codepoint": 57700,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dressCircleOff"
+    },
+    "dress-off": {
+      "codepoint": 57701,
+      "fontFamily": "PepiconsPop",
+      "identifier": "dressOff"
+    },
+    "duplicate": {
+      "codepoint": 57702,
+      "fontFamily": "PepiconsPop",
+      "identifier": "duplicate"
+    },
+    "duplicate-circle": {
+      "codepoint": 57703,
+      "fontFamily": "PepiconsPop",
+      "identifier": "duplicateCircle"
+    },
+    "duplicate-circle-filled": {
+      "codepoint": 57704,
+      "fontFamily": "PepiconsPop",
+      "identifier": "duplicateCircleFilled"
+    },
+    "duplicate-circle-off": {
+      "codepoint": 57705,
+      "fontFamily": "PepiconsPop",
+      "identifier": "duplicateCircleOff"
+    },
+    "duplicate-off": {
+      "codepoint": 57706,
+      "fontFamily": "PepiconsPop",
+      "identifier": "duplicateOff"
+    },
+    "earth-americas": {
+      "codepoint": 57707,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthAmericas"
+    },
+    "earth-americas-circle": {
+      "codepoint": 57708,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthAmericasCircle"
+    },
+    "earth-americas-circle-filled": {
+      "codepoint": 57709,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthAmericasCircleFilled"
+    },
+    "earth-americas-circle-off": {
+      "codepoint": 57710,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthAmericasCircleOff"
+    },
+    "earth-americas-off": {
+      "codepoint": 57711,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthAmericasOff"
+    },
+    "earth-asia": {
+      "codepoint": 57712,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthAsia"
+    },
+    "earth-asia-circle": {
+      "codepoint": 57713,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthAsiaCircle"
+    },
+    "earth-asia-circle-filled": {
+      "codepoint": 57714,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthAsiaCircleFilled"
+    },
+    "earth-asia-circle-off": {
+      "codepoint": 57715,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthAsiaCircleOff"
+    },
+    "earth-asia-off": {
+      "codepoint": 57716,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthAsiaOff"
+    },
+    "earth-europe": {
+      "codepoint": 57717,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthEurope"
+    },
+    "earth-europe-circle": {
+      "codepoint": 57718,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthEuropeCircle"
+    },
+    "earth-europe-circle-filled": {
+      "codepoint": 57719,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthEuropeCircleFilled"
+    },
+    "earth-europe-circle-off": {
+      "codepoint": 57720,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthEuropeCircleOff"
+    },
+    "earth-europe-off": {
+      "codepoint": 57721,
+      "fontFamily": "PepiconsPop",
+      "identifier": "earthEuropeOff"
+    },
+    "electricity": {
+      "codepoint": 57722,
+      "fontFamily": "PepiconsPop",
+      "identifier": "electricity"
+    },
+    "electricity-circle": {
+      "codepoint": 57723,
+      "fontFamily": "PepiconsPop",
+      "identifier": "electricityCircle"
+    },
+    "electricity-circle-filled": {
+      "codepoint": 57724,
+      "fontFamily": "PepiconsPop",
+      "identifier": "electricityCircleFilled"
+    },
+    "electricity-circle-off": {
+      "codepoint": 57725,
+      "fontFamily": "PepiconsPop",
+      "identifier": "electricityCircleOff"
+    },
+    "electricity-off": {
+      "codepoint": 57726,
+      "fontFamily": "PepiconsPop",
+      "identifier": "electricityOff"
+    },
+    "enter": {
+      "codepoint": 57727,
+      "fontFamily": "PepiconsPop",
+      "identifier": "enter"
+    },
+    "enter-circle": {
+      "codepoint": 57728,
+      "fontFamily": "PepiconsPop",
+      "identifier": "enterCircle"
+    },
+    "enter-circle-filled": {
+      "codepoint": 57729,
+      "fontFamily": "PepiconsPop",
+      "identifier": "enterCircleFilled"
+    },
+    "enter-circle-off": {
+      "codepoint": 57730,
+      "fontFamily": "PepiconsPop",
+      "identifier": "enterCircleOff"
+    },
+    "enter-off": {
+      "codepoint": 57731,
+      "fontFamily": "PepiconsPop",
+      "identifier": "enterOff"
+    },
+    "equal": {
+      "codepoint": 57732,
+      "fontFamily": "PepiconsPop",
+      "identifier": "equal"
+    },
+    "equal-circle": {
+      "codepoint": 57733,
+      "fontFamily": "PepiconsPop",
+      "identifier": "equalCircle"
+    },
+    "equal-circle-filled": {
+      "codepoint": 57734,
+      "fontFamily": "PepiconsPop",
+      "identifier": "equalCircleFilled"
+    },
+    "equal-circle-off": {
+      "codepoint": 57735,
+      "fontFamily": "PepiconsPop",
+      "identifier": "equalCircleOff"
+    },
+    "equal-off": {
+      "codepoint": 57736,
+      "fontFamily": "PepiconsPop",
+      "identifier": "equalOff"
+    },
+    "euro": {
+      "codepoint": 57737,
+      "fontFamily": "PepiconsPop",
+      "identifier": "euro"
+    },
+    "euro-circle": {
+      "codepoint": 57738,
+      "fontFamily": "PepiconsPop",
+      "identifier": "euroCircle"
+    },
+    "euro-circle-filled": {
+      "codepoint": 57739,
+      "fontFamily": "PepiconsPop",
+      "identifier": "euroCircleFilled"
+    },
+    "euro-circle-off": {
+      "codepoint": 57740,
+      "fontFamily": "PepiconsPop",
+      "identifier": "euroCircleOff"
+    },
+    "euro-off": {
+      "codepoint": 57741,
+      "fontFamily": "PepiconsPop",
+      "identifier": "euroOff"
+    },
+    "exclamation": {
+      "codepoint": 57742,
+      "fontFamily": "PepiconsPop",
+      "identifier": "exclamation"
+    },
+    "exclamation-circle": {
+      "codepoint": 57743,
+      "fontFamily": "PepiconsPop",
+      "identifier": "exclamationCircle"
+    },
+    "exclamation-circle-filled": {
+      "codepoint": 57744,
+      "fontFamily": "PepiconsPop",
+      "identifier": "exclamationCircleFilled"
+    },
+    "exclamation-circle-off": {
+      "codepoint": 57745,
+      "fontFamily": "PepiconsPop",
+      "identifier": "exclamationCircleOff"
+    },
+    "exclamation-filled": {
+      "codepoint": 57746,
+      "fontFamily": "PepiconsPop",
+      "identifier": "exclamationFilled"
+    },
+    "exclamation-off": {
+      "codepoint": 57747,
+      "fontFamily": "PepiconsPop",
+      "identifier": "exclamationOff"
+    },
+    "expand": {
+      "codepoint": 57748,
+      "fontFamily": "PepiconsPop",
+      "identifier": "expand"
+    },
+    "expand-circle": {
+      "codepoint": 57749,
+      "fontFamily": "PepiconsPop",
+      "identifier": "expandCircle"
+    },
+    "expand-circle-filled": {
+      "codepoint": 57750,
+      "fontFamily": "PepiconsPop",
+      "identifier": "expandCircleFilled"
+    },
+    "expand-circle-off": {
+      "codepoint": 57751,
+      "fontFamily": "PepiconsPop",
+      "identifier": "expandCircleOff"
+    },
+    "expand-off": {
+      "codepoint": 57752,
+      "fontFamily": "PepiconsPop",
+      "identifier": "expandOff"
+    },
+    "eye": {
+      "codepoint": 57753,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eye"
+    },
+    "eye-circle": {
+      "codepoint": 57754,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeCircle"
+    },
+    "eye-circle-filled": {
+      "codepoint": 57755,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeCircleFilled"
+    },
+    "eye-circle-off": {
+      "codepoint": 57756,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeCircleOff"
+    },
+    "eye-closed": {
+      "codepoint": 57757,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeClosed"
+    },
+    "eye-closed-circle": {
+      "codepoint": 57758,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeClosedCircle"
+    },
+    "eye-closed-circle-filled": {
+      "codepoint": 57759,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeClosedCircleFilled"
+    },
+    "eye-closed-circle-off": {
+      "codepoint": 57760,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeClosedCircleOff"
+    },
+    "eye-closed-off": {
+      "codepoint": 57761,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeClosedOff"
+    },
+    "eye-frame": {
+      "codepoint": 57762,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeFrame"
+    },
+    "eye-frame-circle": {
+      "codepoint": 57763,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeFrameCircle"
+    },
+    "eye-frame-circle-filled": {
+      "codepoint": 57764,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeFrameCircleFilled"
+    },
+    "eye-frame-circle-off": {
+      "codepoint": 57765,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeFrameCircleOff"
+    },
+    "eye-frame-off": {
+      "codepoint": 57766,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeFrameOff"
+    },
+    "eye-off": {
+      "codepoint": 57767,
+      "fontFamily": "PepiconsPop",
+      "identifier": "eyeOff"
+    },
+    "face-frowning": {
+      "codepoint": 57768,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceFrowning"
+    },
+    "face-frowning-circle": {
+      "codepoint": 57769,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceFrowningCircle"
+    },
+    "face-frowning-circle-filled": {
+      "codepoint": 57770,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceFrowningCircleFilled"
+    },
+    "face-frowning-circle-off": {
+      "codepoint": 57771,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceFrowningCircleOff"
+    },
+    "face-frowning-off": {
+      "codepoint": 57772,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceFrowningOff"
+    },
+    "face-grinning": {
+      "codepoint": 57773,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceGrinning"
+    },
+    "face-grinning-circle": {
+      "codepoint": 57774,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceGrinningCircle"
+    },
+    "face-grinning-circle-filled": {
+      "codepoint": 57775,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceGrinningCircleFilled"
+    },
+    "face-grinning-circle-off": {
+      "codepoint": 57776,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceGrinningCircleOff"
+    },
+    "face-grinning-off": {
+      "codepoint": 57777,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceGrinningOff"
+    },
+    "face-smiling": {
+      "codepoint": 57778,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceSmiling"
+    },
+    "face-smiling-circle": {
+      "codepoint": 57779,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceSmilingCircle"
+    },
+    "face-smiling-circle-filled": {
+      "codepoint": 57780,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceSmilingCircleFilled"
+    },
+    "face-smiling-circle-off": {
+      "codepoint": 57781,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceSmilingCircleOff"
+    },
+    "face-smiling-off": {
+      "codepoint": 57782,
+      "fontFamily": "PepiconsPop",
+      "identifier": "faceSmilingOff"
+    },
+    "fast-forward": {
+      "codepoint": 57783,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fastForward"
+    },
+    "fast-forward-circle": {
+      "codepoint": 57784,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fastForwardCircle"
+    },
+    "fast-forward-circle-filled": {
+      "codepoint": 57785,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fastForwardCircleFilled"
+    },
+    "fast-forward-circle-off": {
+      "codepoint": 57786,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fastForwardCircleOff"
+    },
+    "fast-forward-off": {
+      "codepoint": 57787,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fastForwardOff"
+    },
+    "file": {
+      "codepoint": 57788,
+      "fontFamily": "PepiconsPop",
+      "identifier": "file"
+    },
+    "file-circle": {
+      "codepoint": 57789,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fileCircle"
+    },
+    "file-circle-filled": {
+      "codepoint": 57790,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fileCircleFilled"
+    },
+    "file-circle-off": {
+      "codepoint": 57791,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fileCircleOff"
+    },
+    "file-loop": {
+      "codepoint": 57792,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fileLoop"
+    },
+    "file-loop-circle": {
+      "codepoint": 57793,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fileLoopCircle"
+    },
+    "file-loop-circle-filled": {
+      "codepoint": 57794,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fileLoopCircleFilled"
+    },
+    "file-loop-circle-off": {
+      "codepoint": 57795,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fileLoopCircleOff"
+    },
+    "file-loop-off": {
+      "codepoint": 57796,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fileLoopOff"
+    },
+    "file-off": {
+      "codepoint": 57797,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fileOff"
+    },
+    "film-frame": {
+      "codepoint": 57798,
+      "fontFamily": "PepiconsPop",
+      "identifier": "filmFrame"
+    },
+    "film-frame-circle": {
+      "codepoint": 57799,
+      "fontFamily": "PepiconsPop",
+      "identifier": "filmFrameCircle"
+    },
+    "film-frame-circle-filled": {
+      "codepoint": 57800,
+      "fontFamily": "PepiconsPop",
+      "identifier": "filmFrameCircleFilled"
+    },
+    "film-frame-circle-off": {
+      "codepoint": 57801,
+      "fontFamily": "PepiconsPop",
+      "identifier": "filmFrameCircleOff"
+    },
+    "film-frame-off": {
+      "codepoint": 57802,
+      "fontFamily": "PepiconsPop",
+      "identifier": "filmFrameOff"
+    },
+    "fire": {
+      "codepoint": 57803,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fire"
+    },
+    "fire-circle": {
+      "codepoint": 57804,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fireCircle"
+    },
+    "fire-circle-filled": {
+      "codepoint": 57805,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fireCircleFilled"
+    },
+    "fire-circle-off": {
+      "codepoint": 57806,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fireCircleOff"
+    },
+    "fire-off": {
+      "codepoint": 57807,
+      "fontFamily": "PepiconsPop",
+      "identifier": "fireOff"
+    },
+    "flag": {
+      "codepoint": 57808,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flag"
+    },
+    "flag-circle": {
+      "codepoint": 57809,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flagCircle"
+    },
+    "flag-circle-filled": {
+      "codepoint": 57810,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flagCircleFilled"
+    },
+    "flag-circle-off": {
+      "codepoint": 57811,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flagCircleOff"
+    },
+    "flag-off": {
+      "codepoint": 57812,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flagOff"
+    },
+    "flag-straight": {
+      "codepoint": 57813,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flagStraight"
+    },
+    "flag-straight-circle": {
+      "codepoint": 57814,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flagStraightCircle"
+    },
+    "flag-straight-circle-filled": {
+      "codepoint": 57815,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flagStraightCircleFilled"
+    },
+    "flag-straight-circle-off": {
+      "codepoint": 57816,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flagStraightCircleOff"
+    },
+    "flag-straight-off": {
+      "codepoint": 57817,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flagStraightOff"
+    },
+    "floppy-disk": {
+      "codepoint": 57818,
+      "fontFamily": "PepiconsPop",
+      "identifier": "floppyDisk"
+    },
+    "floppy-disk-circle": {
+      "codepoint": 57819,
+      "fontFamily": "PepiconsPop",
+      "identifier": "floppyDiskCircle"
+    },
+    "floppy-disk-circle-filled": {
+      "codepoint": 57820,
+      "fontFamily": "PepiconsPop",
+      "identifier": "floppyDiskCircleFilled"
+    },
+    "floppy-disk-circle-off": {
+      "codepoint": 57821,
+      "fontFamily": "PepiconsPop",
+      "identifier": "floppyDiskCircleOff"
+    },
+    "floppy-disk-off": {
+      "codepoint": 57822,
+      "fontFamily": "PepiconsPop",
+      "identifier": "floppyDiskOff"
+    },
+    "flower": {
+      "codepoint": 57823,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flower"
+    },
+    "flower-bud": {
+      "codepoint": 57824,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flowerBud"
+    },
+    "flower-bud-circle": {
+      "codepoint": 57825,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flowerBudCircle"
+    },
+    "flower-bud-circle-filled": {
+      "codepoint": 57826,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flowerBudCircleFilled"
+    },
+    "flower-bud-circle-off": {
+      "codepoint": 57827,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flowerBudCircleOff"
+    },
+    "flower-bud-off": {
+      "codepoint": 57828,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flowerBudOff"
+    },
+    "flower-circle": {
+      "codepoint": 57829,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flowerCircle"
+    },
+    "flower-circle-filled": {
+      "codepoint": 57830,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flowerCircleFilled"
+    },
+    "flower-circle-off": {
+      "codepoint": 57831,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flowerCircleOff"
+    },
+    "flower-off": {
+      "codepoint": 57832,
+      "fontFamily": "PepiconsPop",
+      "identifier": "flowerOff"
+    },
+    "folder": {
+      "codepoint": 57833,
+      "fontFamily": "PepiconsPop",
+      "identifier": "folder"
+    },
+    "folder-circle": {
+      "codepoint": 57834,
+      "fontFamily": "PepiconsPop",
+      "identifier": "folderCircle"
+    },
+    "folder-circle-filled": {
+      "codepoint": 57835,
+      "fontFamily": "PepiconsPop",
+      "identifier": "folderCircleFilled"
+    },
+    "folder-circle-off": {
+      "codepoint": 57836,
+      "fontFamily": "PepiconsPop",
+      "identifier": "folderCircleOff"
+    },
+    "folder-off": {
+      "codepoint": 57837,
+      "fontFamily": "PepiconsPop",
+      "identifier": "folderOff"
+    },
+    "folding-stool": {
+      "codepoint": 57838,
+      "fontFamily": "PepiconsPop",
+      "identifier": "foldingStool"
+    },
+    "folding-stool-circle": {
+      "codepoint": 57839,
+      "fontFamily": "PepiconsPop",
+      "identifier": "foldingStoolCircle"
+    },
+    "folding-stool-circle-filled": {
+      "codepoint": 57840,
+      "fontFamily": "PepiconsPop",
+      "identifier": "foldingStoolCircleFilled"
+    },
+    "folding-stool-circle-off": {
+      "codepoint": 57841,
+      "fontFamily": "PepiconsPop",
+      "identifier": "foldingStoolCircleOff"
+    },
+    "folding-stool-off": {
+      "codepoint": 57842,
+      "fontFamily": "PepiconsPop",
+      "identifier": "foldingStoolOff"
+    },
+    "gear": {
+      "codepoint": 57843,
+      "fontFamily": "PepiconsPop",
+      "identifier": "gear"
+    },
+    "gear-circle": {
+      "codepoint": 57844,
+      "fontFamily": "PepiconsPop",
+      "identifier": "gearCircle"
+    },
+    "gear-circle-filled": {
+      "codepoint": 57845,
+      "fontFamily": "PepiconsPop",
+      "identifier": "gearCircleFilled"
+    },
+    "gear-circle-off": {
+      "codepoint": 57846,
+      "fontFamily": "PepiconsPop",
+      "identifier": "gearCircleOff"
+    },
+    "gear-filled": {
+      "codepoint": 57847,
+      "fontFamily": "PepiconsPop",
+      "identifier": "gearFilled"
+    },
+    "gear-off": {
+      "codepoint": 57848,
+      "fontFamily": "PepiconsPop",
+      "identifier": "gearOff"
+    },
+    "gift": {
+      "codepoint": 57849,
+      "fontFamily": "PepiconsPop",
+      "identifier": "gift"
+    },
+    "gift-circle": {
+      "codepoint": 57850,
+      "fontFamily": "PepiconsPop",
+      "identifier": "giftCircle"
+    },
+    "gift-circle-filled": {
+      "codepoint": 57851,
+      "fontFamily": "PepiconsPop",
+      "identifier": "giftCircleFilled"
+    },
+    "gift-circle-off": {
+      "codepoint": 57852,
+      "fontFamily": "PepiconsPop",
+      "identifier": "giftCircleOff"
+    },
+    "gift-off": {
+      "codepoint": 57853,
+      "fontFamily": "PepiconsPop",
+      "identifier": "giftOff"
+    },
+    "grab": {
+      "codepoint": 57854,
+      "fontFamily": "PepiconsPop",
+      "identifier": "grab"
+    },
+    "grab-handle": {
+      "codepoint": 57855,
+      "fontFamily": "PepiconsPop",
+      "identifier": "grabHandle"
+    },
+    "grab-handle-circle": {
+      "codepoint": 57856,
+      "fontFamily": "PepiconsPop",
+      "identifier": "grabHandleCircle"
+    },
+    "grab-handle-circle-filled": {
+      "codepoint": 57857,
+      "fontFamily": "PepiconsPop",
+      "identifier": "grabHandleCircleFilled"
+    },
+    "grab-handle-circle-off": {
+      "codepoint": 57858,
+      "fontFamily": "PepiconsPop",
+      "identifier": "grabHandleCircleOff"
+    },
+    "grab-handle-off": {
+      "codepoint": 57859,
+      "fontFamily": "PepiconsPop",
+      "identifier": "grabHandleOff"
+    },
+    "grid": {
+      "codepoint": 57860,
+      "fontFamily": "PepiconsPop",
+      "identifier": "grid"
+    },
+    "grid-circle": {
+      "codepoint": 57861,
+      "fontFamily": "PepiconsPop",
+      "identifier": "gridCircle"
+    },
+    "grid-circle-filled": {
+      "codepoint": 57862,
+      "fontFamily": "PepiconsPop",
+      "identifier": "gridCircleFilled"
+    },
+    "grid-circle-off": {
+      "codepoint": 57863,
+      "fontFamily": "PepiconsPop",
+      "identifier": "gridCircleOff"
+    },
+    "grid-off": {
+      "codepoint": 57864,
+      "fontFamily": "PepiconsPop",
+      "identifier": "gridOff"
+    },
+    "hamburger": {
+      "codepoint": 57865,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hamburger"
+    },
+    "hamburger-circle": {
+      "codepoint": 57866,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hamburgerCircle"
+    },
+    "hamburger-circle-filled": {
+      "codepoint": 57867,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hamburgerCircleFilled"
+    },
+    "hamburger-circle-off": {
+      "codepoint": 57868,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hamburgerCircleOff"
+    },
+    "hamburger-off": {
+      "codepoint": 57869,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hamburgerOff"
+    },
+    "hammer-claw": {
+      "codepoint": 57870,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hammerClaw"
+    },
+    "hammer-claw-circle": {
+      "codepoint": 57871,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hammerClawCircle"
+    },
+    "hammer-claw-circle-filled": {
+      "codepoint": 57872,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hammerClawCircleFilled"
+    },
+    "hammer-claw-circle-off": {
+      "codepoint": 57873,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hammerClawCircleOff"
+    },
+    "hammer-claw-off": {
+      "codepoint": 57874,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hammerClawOff"
+    },
+    "hammer-sledge": {
+      "codepoint": 57875,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hammerSledge"
+    },
+    "hammer-sledge-circle": {
+      "codepoint": 57876,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hammerSledgeCircle"
+    },
+    "hammer-sledge-circle-filled": {
+      "codepoint": 57877,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hammerSledgeCircleFilled"
+    },
+    "hammer-sledge-circle-off": {
+      "codepoint": 57878,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hammerSledgeCircleOff"
+    },
+    "hammer-sledge-off": {
+      "codepoint": 57879,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hammerSledgeOff"
+    },
+    "hand-grab": {
+      "codepoint": 57880,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handGrab"
+    },
+    "hand-grab-circle": {
+      "codepoint": 57881,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handGrabCircle"
+    },
+    "hand-grab-circle-filled": {
+      "codepoint": 57882,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handGrabCircleFilled"
+    },
+    "hand-grab-circle-off": {
+      "codepoint": 57883,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handGrabCircleOff"
+    },
+    "hand-grab-off": {
+      "codepoint": 57884,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handGrabOff"
+    },
+    "hand-open": {
+      "codepoint": 57885,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handOpen"
+    },
+    "hand-open-circle": {
+      "codepoint": 57886,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handOpenCircle"
+    },
+    "hand-open-circle-filled": {
+      "codepoint": 57887,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handOpenCircleFilled"
+    },
+    "hand-open-circle-off": {
+      "codepoint": 57888,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handOpenCircleOff"
+    },
+    "hand-open-off": {
+      "codepoint": 57889,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handOpenOff"
+    },
+    "hand-point": {
+      "codepoint": 57890,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handPoint"
+    },
+    "hand-point-circle": {
+      "codepoint": 57891,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handPointCircle"
+    },
+    "hand-point-circle-filled": {
+      "codepoint": 57892,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handPointCircleFilled"
+    },
+    "hand-point-circle-off": {
+      "codepoint": 57893,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handPointCircleOff"
+    },
+    "hand-point-off": {
+      "codepoint": 57894,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handPointOff"
+    },
+    "hand-point-open": {
+      "codepoint": 57895,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handPointOpen"
+    },
+    "hand-point-open-circle": {
+      "codepoint": 57896,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handPointOpenCircle"
+    },
+    "hand-point-open-circle-filled": {
+      "codepoint": 57897,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handPointOpenCircleFilled"
+    },
+    "hand-point-open-circle-off": {
+      "codepoint": 57898,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handPointOpenCircleOff"
+    },
+    "hand-point-open-off": {
+      "codepoint": 57899,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handPointOpenOff"
+    },
+    "hands-clapping": {
+      "codepoint": 57900,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handsClapping"
+    },
+    "hands-clapping-checkmark": {
+      "codepoint": 57901,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handsClappingCheckmark"
+    },
+    "hands-clapping-checkmark-circle": {
+      "codepoint": 57902,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handsClappingCheckmarkCircle"
+    },
+    "hands-clapping-checkmark-circle-filled": {
+      "codepoint": 57903,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handsClappingCheckmarkCircleFilled"
+    },
+    "hands-clapping-checkmark-circle-off": {
+      "codepoint": 57904,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handsClappingCheckmarkCircleOff"
+    },
+    "hands-clapping-checkmark-off": {
+      "codepoint": 57905,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handsClappingCheckmarkOff"
+    },
+    "hands-clapping-circle": {
+      "codepoint": 57906,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handsClappingCircle"
+    },
+    "hands-clapping-circle-filled": {
+      "codepoint": 57907,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handsClappingCircleFilled"
+    },
+    "hands-clapping-circle-off": {
+      "codepoint": 57908,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handsClappingCircleOff"
+    },
+    "hands-clapping-off": {
+      "codepoint": 57909,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handsClappingOff"
+    },
+    "handshake": {
+      "codepoint": 57910,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handshake"
+    },
+    "handshake-circle": {
+      "codepoint": 57911,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handshakeCircle"
+    },
+    "handshake-circle-filled": {
+      "codepoint": 57912,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handshakeCircleFilled"
+    },
+    "handshake-circle-off": {
+      "codepoint": 57913,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handshakeCircleOff"
+    },
+    "handshake-off": {
+      "codepoint": 57914,
+      "fontFamily": "PepiconsPop",
+      "identifier": "handshakeOff"
+    },
+    "hash": {
+      "codepoint": 57915,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hash"
+    },
+    "hash-circle": {
+      "codepoint": 57916,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hashCircle"
+    },
+    "hash-circle-filled": {
+      "codepoint": 57917,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hashCircleFilled"
+    },
+    "hash-circle-off": {
+      "codepoint": 57918,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hashCircleOff"
+    },
+    "hash-off": {
+      "codepoint": 57919,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hashOff"
+    },
+    "headphone": {
+      "codepoint": 57920,
+      "fontFamily": "PepiconsPop",
+      "identifier": "headphone"
+    },
+    "headphone-circle": {
+      "codepoint": 57921,
+      "fontFamily": "PepiconsPop",
+      "identifier": "headphoneCircle"
+    },
+    "headphone-circle-filled": {
+      "codepoint": 57922,
+      "fontFamily": "PepiconsPop",
+      "identifier": "headphoneCircleFilled"
+    },
+    "headphone-circle-off": {
+      "codepoint": 57923,
+      "fontFamily": "PepiconsPop",
+      "identifier": "headphoneCircleOff"
+    },
+    "headphone-off": {
+      "codepoint": 57924,
+      "fontFamily": "PepiconsPop",
+      "identifier": "headphoneOff"
+    },
+    "heart": {
+      "codepoint": 57925,
+      "fontFamily": "PepiconsPop",
+      "identifier": "heart"
+    },
+    "heart-circle": {
+      "codepoint": 57926,
+      "fontFamily": "PepiconsPop",
+      "identifier": "heartCircle"
+    },
+    "heart-circle-filled": {
+      "codepoint": 57927,
+      "fontFamily": "PepiconsPop",
+      "identifier": "heartCircleFilled"
+    },
+    "heart-circle-off": {
+      "codepoint": 57928,
+      "fontFamily": "PepiconsPop",
+      "identifier": "heartCircleOff"
+    },
+    "heart-filled": {
+      "codepoint": 57929,
+      "fontFamily": "PepiconsPop",
+      "identifier": "heartFilled"
+    },
+    "heart-filled-circle": {
+      "codepoint": 57930,
+      "fontFamily": "PepiconsPop",
+      "identifier": "heartFilledCircle"
+    },
+    "heart-filled-circle-filled": {
+      "codepoint": 57931,
+      "fontFamily": "PepiconsPop",
+      "identifier": "heartFilledCircleFilled"
+    },
+    "heart-filled-circle-off": {
+      "codepoint": 57932,
+      "fontFamily": "PepiconsPop",
+      "identifier": "heartFilledCircleOff"
+    },
+    "heart-filled-off": {
+      "codepoint": 57933,
+      "fontFamily": "PepiconsPop",
+      "identifier": "heartFilledOff"
+    },
+    "heart-off": {
+      "codepoint": 57934,
+      "fontFamily": "PepiconsPop",
+      "identifier": "heartOff"
+    },
+    "hospital": {
+      "codepoint": 57935,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hospital"
+    },
+    "hospital-circle": {
+      "codepoint": 57936,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hospitalCircle"
+    },
+    "hospital-circle-filled": {
+      "codepoint": 57937,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hospitalCircleFilled"
+    },
+    "hospital-circle-off": {
+      "codepoint": 57938,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hospitalCircleOff"
+    },
+    "hospital-off": {
+      "codepoint": 57939,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hospitalOff"
+    },
+    "hourglass": {
+      "codepoint": 57940,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hourglass"
+    },
+    "hourglass-circle": {
+      "codepoint": 57941,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hourglassCircle"
+    },
+    "hourglass-circle-filled": {
+      "codepoint": 57942,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hourglassCircleFilled"
+    },
+    "hourglass-circle-off": {
+      "codepoint": 57943,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hourglassCircleOff"
+    },
+    "hourglass-off": {
+      "codepoint": 57944,
+      "fontFamily": "PepiconsPop",
+      "identifier": "hourglassOff"
+    },
+    "house": {
+      "codepoint": 57945,
+      "fontFamily": "PepiconsPop",
+      "identifier": "house"
+    },
+    "house-circle": {
+      "codepoint": 57946,
+      "fontFamily": "PepiconsPop",
+      "identifier": "houseCircle"
+    },
+    "house-circle-filled": {
+      "codepoint": 57947,
+      "fontFamily": "PepiconsPop",
+      "identifier": "houseCircleFilled"
+    },
+    "house-circle-off": {
+      "codepoint": 57948,
+      "fontFamily": "PepiconsPop",
+      "identifier": "houseCircleOff"
+    },
+    "house-off": {
+      "codepoint": 57949,
+      "fontFamily": "PepiconsPop",
+      "identifier": "houseOff"
+    },
+    "identification": {
+      "codepoint": 57950,
+      "fontFamily": "PepiconsPop",
+      "identifier": "identification"
+    },
+    "identification-circle": {
+      "codepoint": 57951,
+      "fontFamily": "PepiconsPop",
+      "identifier": "identificationCircle"
+    },
+    "identification-circle-filled": {
+      "codepoint": 57952,
+      "fontFamily": "PepiconsPop",
+      "identifier": "identificationCircleFilled"
+    },
+    "identification-circle-off": {
+      "codepoint": 57953,
+      "fontFamily": "PepiconsPop",
+      "identifier": "identificationCircleOff"
+    },
+    "identification-off": {
+      "codepoint": 57954,
+      "fontFamily": "PepiconsPop",
+      "identifier": "identificationOff"
+    },
+    "info": {
+      "codepoint": 57955,
+      "fontFamily": "PepiconsPop",
+      "identifier": "info"
+    },
+    "info-circle": {
+      "codepoint": 57956,
+      "fontFamily": "PepiconsPop",
+      "identifier": "infoCircle"
+    },
+    "info-circle-filled": {
+      "codepoint": 57957,
+      "fontFamily": "PepiconsPop",
+      "identifier": "infoCircleFilled"
+    },
+    "info-circle-off": {
+      "codepoint": 57958,
+      "fontFamily": "PepiconsPop",
+      "identifier": "infoCircleOff"
+    },
+    "info-filled": {
+      "codepoint": 57959,
+      "fontFamily": "PepiconsPop",
+      "identifier": "infoFilled"
+    },
+    "info-off": {
+      "codepoint": 57960,
+      "fontFamily": "PepiconsPop",
+      "identifier": "infoOff"
+    },
+    "internet": {
+      "codepoint": 57961,
+      "fontFamily": "PepiconsPop",
+      "identifier": "internet"
+    },
+    "internet-circle": {
+      "codepoint": 57962,
+      "fontFamily": "PepiconsPop",
+      "identifier": "internetCircle"
+    },
+    "internet-circle-filled": {
+      "codepoint": 57963,
+      "fontFamily": "PepiconsPop",
+      "identifier": "internetCircleFilled"
+    },
+    "internet-circle-off": {
+      "codepoint": 57964,
+      "fontFamily": "PepiconsPop",
+      "identifier": "internetCircleOff"
+    },
+    "internet-off": {
+      "codepoint": 57965,
+      "fontFamily": "PepiconsPop",
+      "identifier": "internetOff"
+    },
+    "key": {
+      "codepoint": 57966,
+      "fontFamily": "PepiconsPop",
+      "identifier": "key"
+    },
+    "key-circle": {
+      "codepoint": 57967,
+      "fontFamily": "PepiconsPop",
+      "identifier": "keyCircle"
+    },
+    "key-circle-filled": {
+      "codepoint": 57968,
+      "fontFamily": "PepiconsPop",
+      "identifier": "keyCircleFilled"
+    },
+    "key-circle-off": {
+      "codepoint": 57969,
+      "fontFamily": "PepiconsPop",
+      "identifier": "keyCircleOff"
+    },
+    "key-off": {
+      "codepoint": 57970,
+      "fontFamily": "PepiconsPop",
+      "identifier": "keyOff"
+    },
+    "keyboard": {
+      "codepoint": 57971,
+      "fontFamily": "PepiconsPop",
+      "identifier": "keyboard"
+    },
+    "keyboard-circle": {
+      "codepoint": 57972,
+      "fontFamily": "PepiconsPop",
+      "identifier": "keyboardCircle"
+    },
+    "keyboard-circle-filled": {
+      "codepoint": 57973,
+      "fontFamily": "PepiconsPop",
+      "identifier": "keyboardCircleFilled"
+    },
+    "keyboard-circle-off": {
+      "codepoint": 57974,
+      "fontFamily": "PepiconsPop",
+      "identifier": "keyboardCircleOff"
+    },
+    "keyboard-off": {
+      "codepoint": 57975,
+      "fontFamily": "PepiconsPop",
+      "identifier": "keyboardOff"
+    },
+    "knive-fork": {
+      "codepoint": 57976,
+      "fontFamily": "PepiconsPop",
+      "identifier": "kniveFork"
+    },
+    "knive-fork-circle": {
+      "codepoint": 57977,
+      "fontFamily": "PepiconsPop",
+      "identifier": "kniveForkCircle"
+    },
+    "knive-fork-circle-filled": {
+      "codepoint": 57978,
+      "fontFamily": "PepiconsPop",
+      "identifier": "kniveForkCircleFilled"
+    },
+    "knive-fork-circle-off": {
+      "codepoint": 57979,
+      "fontFamily": "PepiconsPop",
+      "identifier": "kniveForkCircleOff"
+    },
+    "knive-fork-off": {
+      "codepoint": 57980,
+      "fontFamily": "PepiconsPop",
+      "identifier": "kniveForkOff"
+    },
+    "label": {
+      "codepoint": 57981,
+      "fontFamily": "PepiconsPop",
+      "identifier": "label"
+    },
+    "label-circle": {
+      "codepoint": 57982,
+      "fontFamily": "PepiconsPop",
+      "identifier": "labelCircle"
+    },
+    "label-circle-filled": {
+      "codepoint": 57983,
+      "fontFamily": "PepiconsPop",
+      "identifier": "labelCircleFilled"
+    },
+    "label-circle-off": {
+      "codepoint": 57984,
+      "fontFamily": "PepiconsPop",
+      "identifier": "labelCircleOff"
+    },
+    "label-off": {
+      "codepoint": 57985,
+      "fontFamily": "PepiconsPop",
+      "identifier": "labelOff"
+    },
+    "leaf": {
+      "codepoint": 57986,
+      "fontFamily": "PepiconsPop",
+      "identifier": "leaf"
+    },
+    "leaf-circle": {
+      "codepoint": 57987,
+      "fontFamily": "PepiconsPop",
+      "identifier": "leafCircle"
+    },
+    "leaf-circle-filled": {
+      "codepoint": 57988,
+      "fontFamily": "PepiconsPop",
+      "identifier": "leafCircleFilled"
+    },
+    "leaf-circle-off": {
+      "codepoint": 57989,
+      "fontFamily": "PepiconsPop",
+      "identifier": "leafCircleOff"
+    },
+    "leaf-off": {
+      "codepoint": 57990,
+      "fontFamily": "PepiconsPop",
+      "identifier": "leafOff"
+    },
+    "leave": {
+      "codepoint": 57991,
+      "fontFamily": "PepiconsPop",
+      "identifier": "leave"
+    },
+    "leave-circle": {
+      "codepoint": 57992,
+      "fontFamily": "PepiconsPop",
+      "identifier": "leaveCircle"
+    },
+    "leave-circle-filled": {
+      "codepoint": 57993,
+      "fontFamily": "PepiconsPop",
+      "identifier": "leaveCircleFilled"
+    },
+    "leave-circle-off": {
+      "codepoint": 57994,
+      "fontFamily": "PepiconsPop",
+      "identifier": "leaveCircleOff"
+    },
+    "leave-off": {
+      "codepoint": 57995,
+      "fontFamily": "PepiconsPop",
+      "identifier": "leaveOff"
+    },
+    "letter": {
+      "codepoint": 57996,
+      "fontFamily": "PepiconsPop",
+      "identifier": "letter"
+    },
+    "letter-circle": {
+      "codepoint": 57997,
+      "fontFamily": "PepiconsPop",
+      "identifier": "letterCircle"
+    },
+    "letter-circle-filled": {
+      "codepoint": 57998,
+      "fontFamily": "PepiconsPop",
+      "identifier": "letterCircleFilled"
+    },
+    "letter-circle-off": {
+      "codepoint": 57999,
+      "fontFamily": "PepiconsPop",
+      "identifier": "letterCircleOff"
+    },
+    "letter-off": {
+      "codepoint": 58000,
+      "fontFamily": "PepiconsPop",
+      "identifier": "letterOff"
+    },
+    "letter-open": {
+      "codepoint": 58001,
+      "fontFamily": "PepiconsPop",
+      "identifier": "letterOpen"
+    },
+    "letter-open-circle": {
+      "codepoint": 58002,
+      "fontFamily": "PepiconsPop",
+      "identifier": "letterOpenCircle"
+    },
+    "letter-open-circle-filled": {
+      "codepoint": 58003,
+      "fontFamily": "PepiconsPop",
+      "identifier": "letterOpenCircleFilled"
+    },
+    "letter-open-circle-off": {
+      "codepoint": 58004,
+      "fontFamily": "PepiconsPop",
+      "identifier": "letterOpenCircleOff"
+    },
+    "letter-open-off": {
+      "codepoint": 58005,
+      "fontFamily": "PepiconsPop",
+      "identifier": "letterOpenOff"
+    },
+    "line-slant-down": {
+      "codepoint": 58006,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineSlantDown"
+    },
+    "line-slant-down-circle": {
+      "codepoint": 58007,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineSlantDownCircle"
+    },
+    "line-slant-down-circle-filled": {
+      "codepoint": 58008,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineSlantDownCircleFilled"
+    },
+    "line-slant-down-circle-off": {
+      "codepoint": 58009,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineSlantDownCircleOff"
+    },
+    "line-slant-down-off": {
+      "codepoint": 58010,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineSlantDownOff"
+    },
+    "line-slant-up": {
+      "codepoint": 58011,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineSlantUp"
+    },
+    "line-slant-up-circle": {
+      "codepoint": 58012,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineSlantUpCircle"
+    },
+    "line-slant-up-circle-filled": {
+      "codepoint": 58013,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineSlantUpCircleFilled"
+    },
+    "line-slant-up-circle-off": {
+      "codepoint": 58014,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineSlantUpCircleOff"
+    },
+    "line-slant-up-off": {
+      "codepoint": 58015,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineSlantUpOff"
+    },
+    "line-x": {
+      "codepoint": 58016,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineX"
+    },
+    "line-x-circle": {
+      "codepoint": 58017,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineXCircle"
+    },
+    "line-x-circle-filled": {
+      "codepoint": 58018,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineXCircleFilled"
+    },
+    "line-x-circle-off": {
+      "codepoint": 58019,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineXCircleOff"
+    },
+    "line-x-off": {
+      "codepoint": 58020,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineXOff"
+    },
+    "line-y": {
+      "codepoint": 58021,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineY"
+    },
+    "line-y-circle": {
+      "codepoint": 58022,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineYCircle"
+    },
+    "line-y-circle-filled": {
+      "codepoint": 58023,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineYCircleFilled"
+    },
+    "line-y-circle-off": {
+      "codepoint": 58024,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineYCircleOff"
+    },
+    "line-y-off": {
+      "codepoint": 58025,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lineYOff"
+    },
+    "list": {
+      "codepoint": 58026,
+      "fontFamily": "PepiconsPop",
+      "identifier": "list"
+    },
+    "list-circle": {
+      "codepoint": 58027,
+      "fontFamily": "PepiconsPop",
+      "identifier": "listCircle"
+    },
+    "list-circle-filled": {
+      "codepoint": 58028,
+      "fontFamily": "PepiconsPop",
+      "identifier": "listCircleFilled"
+    },
+    "list-circle-off": {
+      "codepoint": 58029,
+      "fontFamily": "PepiconsPop",
+      "identifier": "listCircleOff"
+    },
+    "list-off": {
+      "codepoint": 58030,
+      "fontFamily": "PepiconsPop",
+      "identifier": "listOff"
+    },
+    "lock-closed": {
+      "codepoint": 58031,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lockClosed"
+    },
+    "lock-closed-circle": {
+      "codepoint": 58032,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lockClosedCircle"
+    },
+    "lock-closed-circle-filled": {
+      "codepoint": 58033,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lockClosedCircleFilled"
+    },
+    "lock-closed-circle-off": {
+      "codepoint": 58034,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lockClosedCircleOff"
+    },
+    "lock-closed-off": {
+      "codepoint": 58035,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lockClosedOff"
+    },
+    "lock-open": {
+      "codepoint": 58036,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lockOpen"
+    },
+    "lock-open-circle": {
+      "codepoint": 58037,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lockOpenCircle"
+    },
+    "lock-open-circle-filled": {
+      "codepoint": 58038,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lockOpenCircleFilled"
+    },
+    "lock-open-circle-off": {
+      "codepoint": 58039,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lockOpenCircleOff"
+    },
+    "lock-open-off": {
+      "codepoint": 58040,
+      "fontFamily": "PepiconsPop",
+      "identifier": "lockOpenOff"
+    },
+    "loop": {
+      "codepoint": 58041,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loop"
+    },
+    "loop-circle": {
+      "codepoint": 58042,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopCircle"
+    },
+    "loop-circle-filled": {
+      "codepoint": 58043,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopCircleFilled"
+    },
+    "loop-circle-off": {
+      "codepoint": 58044,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopCircleOff"
+    },
+    "loop-minus": {
+      "codepoint": 58045,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopMinus"
+    },
+    "loop-minus-circle": {
+      "codepoint": 58046,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopMinusCircle"
+    },
+    "loop-minus-circle-filled": {
+      "codepoint": 58047,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopMinusCircleFilled"
+    },
+    "loop-minus-circle-off": {
+      "codepoint": 58048,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopMinusCircleOff"
+    },
+    "loop-minus-off": {
+      "codepoint": 58049,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopMinusOff"
+    },
+    "loop-off": {
+      "codepoint": 58050,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopOff"
+    },
+    "loop-plus": {
+      "codepoint": 58051,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopPlus"
+    },
+    "loop-plus-circle": {
+      "codepoint": 58052,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopPlusCircle"
+    },
+    "loop-plus-circle-filled": {
+      "codepoint": 58053,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopPlusCircleFilled"
+    },
+    "loop-plus-circle-off": {
+      "codepoint": 58054,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopPlusCircleOff"
+    },
+    "loop-plus-off": {
+      "codepoint": 58055,
+      "fontFamily": "PepiconsPop",
+      "identifier": "loopPlusOff"
+    },
+    "magnet": {
+      "codepoint": 58056,
+      "fontFamily": "PepiconsPop",
+      "identifier": "magnet"
+    },
+    "magnet-circle": {
+      "codepoint": 58057,
+      "fontFamily": "PepiconsPop",
+      "identifier": "magnetCircle"
+    },
+    "magnet-circle-filled": {
+      "codepoint": 58058,
+      "fontFamily": "PepiconsPop",
+      "identifier": "magnetCircleFilled"
+    },
+    "magnet-circle-off": {
+      "codepoint": 58059,
+      "fontFamily": "PepiconsPop",
+      "identifier": "magnetCircleOff"
+    },
+    "magnet-off": {
+      "codepoint": 58060,
+      "fontFamily": "PepiconsPop",
+      "identifier": "magnetOff"
+    },
+    "map": {
+      "codepoint": 58061,
+      "fontFamily": "PepiconsPop",
+      "identifier": "map"
+    },
+    "map-circle": {
+      "codepoint": 58062,
+      "fontFamily": "PepiconsPop",
+      "identifier": "mapCircle"
+    },
+    "map-circle-filled": {
+      "codepoint": 58063,
+      "fontFamily": "PepiconsPop",
+      "identifier": "mapCircleFilled"
+    },
+    "map-circle-off": {
+      "codepoint": 58064,
+      "fontFamily": "PepiconsPop",
+      "identifier": "mapCircleOff"
+    },
+    "map-off": {
+      "codepoint": 58065,
+      "fontFamily": "PepiconsPop",
+      "identifier": "mapOff"
+    },
+    "megaphone": {
+      "codepoint": 58066,
+      "fontFamily": "PepiconsPop",
+      "identifier": "megaphone"
+    },
+    "megaphone-circle": {
+      "codepoint": 58067,
+      "fontFamily": "PepiconsPop",
+      "identifier": "megaphoneCircle"
+    },
+    "megaphone-circle-filled": {
+      "codepoint": 58068,
+      "fontFamily": "PepiconsPop",
+      "identifier": "megaphoneCircleFilled"
+    },
+    "megaphone-circle-off": {
+      "codepoint": 58069,
+      "fontFamily": "PepiconsPop",
+      "identifier": "megaphoneCircleOff"
+    },
+    "megaphone-off": {
+      "codepoint": 58070,
+      "fontFamily": "PepiconsPop",
+      "identifier": "megaphoneOff"
+    },
+    "menu": {
+      "codepoint": 58071,
+      "fontFamily": "PepiconsPop",
+      "identifier": "menu"
+    },
+    "menu-circle": {
+      "codepoint": 58072,
+      "fontFamily": "PepiconsPop",
+      "identifier": "menuCircle"
+    },
+    "menu-circle-filled": {
+      "codepoint": 58073,
+      "fontFamily": "PepiconsPop",
+      "identifier": "menuCircleFilled"
+    },
+    "menu-circle-off": {
+      "codepoint": 58074,
+      "fontFamily": "PepiconsPop",
+      "identifier": "menuCircleOff"
+    },
+    "menu-off": {
+      "codepoint": 58075,
+      "fontFamily": "PepiconsPop",
+      "identifier": "menuOff"
+    },
+    "microphone": {
+      "codepoint": 58076,
+      "fontFamily": "PepiconsPop",
+      "identifier": "microphone"
+    },
+    "microphone-circle": {
+      "codepoint": 58077,
+      "fontFamily": "PepiconsPop",
+      "identifier": "microphoneCircle"
+    },
+    "microphone-circle-filled": {
+      "codepoint": 58078,
+      "fontFamily": "PepiconsPop",
+      "identifier": "microphoneCircleFilled"
+    },
+    "microphone-circle-off": {
+      "codepoint": 58079,
+      "fontFamily": "PepiconsPop",
+      "identifier": "microphoneCircleOff"
+    },
+    "microphone-handheld": {
+      "codepoint": 58080,
+      "fontFamily": "PepiconsPop",
+      "identifier": "microphoneHandheld"
+    },
+    "microphone-handheld-circle": {
+      "codepoint": 58081,
+      "fontFamily": "PepiconsPop",
+      "identifier": "microphoneHandheldCircle"
+    },
+    "microphone-handheld-circle-filled": {
+      "codepoint": 58082,
+      "fontFamily": "PepiconsPop",
+      "identifier": "microphoneHandheldCircleFilled"
+    },
+    "microphone-handheld-circle-off": {
+      "codepoint": 58083,
+      "fontFamily": "PepiconsPop",
+      "identifier": "microphoneHandheldCircleOff"
+    },
+    "microphone-handheld-off": {
+      "codepoint": 58084,
+      "fontFamily": "PepiconsPop",
+      "identifier": "microphoneHandheldOff"
+    },
+    "microphone-off": {
+      "codepoint": 58085,
+      "fontFamily": "PepiconsPop",
+      "identifier": "microphoneOff"
+    },
+    "microphone2": {
+      "codepoint": 58086,
+      "fontFamily": "PepiconsPop",
+      "identifier": "microphone2"
+    },
+    "minus": {
+      "codepoint": 58087,
+      "fontFamily": "PepiconsPop",
+      "identifier": "minus"
+    },
+    "minus-circle": {
+      "codepoint": 58088,
+      "fontFamily": "PepiconsPop",
+      "identifier": "minusCircle"
+    },
+    "minus-circle-filled": {
+      "codepoint": 58089,
+      "fontFamily": "PepiconsPop",
+      "identifier": "minusCircleFilled"
+    },
+    "minus-circle-off": {
+      "codepoint": 58090,
+      "fontFamily": "PepiconsPop",
+      "identifier": "minusCircleOff"
+    },
+    "minus-off": {
+      "codepoint": 58091,
+      "fontFamily": "PepiconsPop",
+      "identifier": "minusOff"
+    },
+    "money-note": {
+      "codepoint": 58092,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moneyNote"
+    },
+    "money-note-circle": {
+      "codepoint": 58093,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moneyNoteCircle"
+    },
+    "money-note-circle-filled": {
+      "codepoint": 58094,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moneyNoteCircleFilled"
+    },
+    "money-note-circle-off": {
+      "codepoint": 58095,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moneyNoteCircleOff"
+    },
+    "money-note-off": {
+      "codepoint": 58096,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moneyNoteOff"
+    },
+    "monitor": {
+      "codepoint": 58097,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitor"
+    },
+    "monitor-circle": {
+      "codepoint": 58098,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorCircle"
+    },
+    "monitor-circle-filled": {
+      "codepoint": 58099,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorCircleFilled"
+    },
+    "monitor-circle-off": {
+      "codepoint": 58100,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorCircleOff"
+    },
+    "monitor-eye": {
+      "codepoint": 58101,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorEye"
+    },
+    "monitor-eye-circle": {
+      "codepoint": 58102,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorEyeCircle"
+    },
+    "monitor-eye-circle-filled": {
+      "codepoint": 58103,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorEyeCircleFilled"
+    },
+    "monitor-eye-circle-off": {
+      "codepoint": 58104,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorEyeCircleOff"
+    },
+    "monitor-eye-off": {
+      "codepoint": 58105,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorEyeOff"
+    },
+    "monitor-loop": {
+      "codepoint": 58106,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorLoop"
+    },
+    "monitor-loop-circle": {
+      "codepoint": 58107,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorLoopCircle"
+    },
+    "monitor-loop-circle-filled": {
+      "codepoint": 58108,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorLoopCircleFilled"
+    },
+    "monitor-loop-circle-off": {
+      "codepoint": 58109,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorLoopCircleOff"
+    },
+    "monitor-loop-off": {
+      "codepoint": 58110,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorLoopOff"
+    },
+    "monitor-off": {
+      "codepoint": 58111,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitorOff"
+    },
+    "monitor2": {
+      "codepoint": 58112,
+      "fontFamily": "PepiconsPop",
+      "identifier": "monitor2"
+    },
+    "moon": {
+      "codepoint": 58113,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moon"
+    },
+    "moon-circle": {
+      "codepoint": 58114,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moonCircle"
+    },
+    "moon-circle-filled": {
+      "codepoint": 58115,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moonCircleFilled"
+    },
+    "moon-circle-off": {
+      "codepoint": 58116,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moonCircleOff"
+    },
+    "moon-filled": {
+      "codepoint": 58117,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moonFilled"
+    },
+    "moon-off": {
+      "codepoint": 58118,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moonOff"
+    },
+    "motorcycle": {
+      "codepoint": 58119,
+      "fontFamily": "PepiconsPop",
+      "identifier": "motorcycle"
+    },
+    "motorcycle-circle": {
+      "codepoint": 58120,
+      "fontFamily": "PepiconsPop",
+      "identifier": "motorcycleCircle"
+    },
+    "motorcycle-circle-filled": {
+      "codepoint": 58121,
+      "fontFamily": "PepiconsPop",
+      "identifier": "motorcycleCircleFilled"
+    },
+    "motorcycle-circle-off": {
+      "codepoint": 58122,
+      "fontFamily": "PepiconsPop",
+      "identifier": "motorcycleCircleOff"
+    },
+    "motorcycle-off": {
+      "codepoint": 58123,
+      "fontFamily": "PepiconsPop",
+      "identifier": "motorcycleOff"
+    },
+    "move-x": {
+      "codepoint": 58124,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moveX"
+    },
+    "move-x-circle": {
+      "codepoint": 58125,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moveXCircle"
+    },
+    "move-x-circle-filled": {
+      "codepoint": 58126,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moveXCircleFilled"
+    },
+    "move-x-circle-off": {
+      "codepoint": 58127,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moveXCircleOff"
+    },
+    "move-x-off": {
+      "codepoint": 58128,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moveXOff"
+    },
+    "move-y": {
+      "codepoint": 58129,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moveY"
+    },
+    "move-y-circle": {
+      "codepoint": 58130,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moveYCircle"
+    },
+    "move-y-circle-filled": {
+      "codepoint": 58131,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moveYCircleFilled"
+    },
+    "move-y-circle-off": {
+      "codepoint": 58132,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moveYCircleOff"
+    },
+    "move-y-off": {
+      "codepoint": 58133,
+      "fontFamily": "PepiconsPop",
+      "identifier": "moveYOff"
+    },
+    "music-note-double": {
+      "codepoint": 58134,
+      "fontFamily": "PepiconsPop",
+      "identifier": "musicNoteDouble"
+    },
+    "music-note-double-circle": {
+      "codepoint": 58135,
+      "fontFamily": "PepiconsPop",
+      "identifier": "musicNoteDoubleCircle"
+    },
+    "music-note-double-circle-filled": {
+      "codepoint": 58136,
+      "fontFamily": "PepiconsPop",
+      "identifier": "musicNoteDoubleCircleFilled"
+    },
+    "music-note-double-circle-off": {
+      "codepoint": 58137,
+      "fontFamily": "PepiconsPop",
+      "identifier": "musicNoteDoubleCircleOff"
+    },
+    "music-note-double-off": {
+      "codepoint": 58138,
+      "fontFamily": "PepiconsPop",
+      "identifier": "musicNoteDoubleOff"
+    },
+    "music-note-single": {
+      "codepoint": 58139,
+      "fontFamily": "PepiconsPop",
+      "identifier": "musicNoteSingle"
+    },
+    "music-note-single-circle": {
+      "codepoint": 58140,
+      "fontFamily": "PepiconsPop",
+      "identifier": "musicNoteSingleCircle"
+    },
+    "music-note-single-circle-filled": {
+      "codepoint": 58141,
+      "fontFamily": "PepiconsPop",
+      "identifier": "musicNoteSingleCircleFilled"
+    },
+    "music-note-single-circle-off": {
+      "codepoint": 58142,
+      "fontFamily": "PepiconsPop",
+      "identifier": "musicNoteSingleCircleOff"
+    },
+    "music-note-single-off": {
+      "codepoint": 58143,
+      "fontFamily": "PepiconsPop",
+      "identifier": "musicNoteSingleOff"
+    },
+    "next-track": {
+      "codepoint": 58144,
+      "fontFamily": "PepiconsPop",
+      "identifier": "nextTrack"
+    },
+    "next-track-circle": {
+      "codepoint": 58145,
+      "fontFamily": "PepiconsPop",
+      "identifier": "nextTrackCircle"
+    },
+    "next-track-circle-filled": {
+      "codepoint": 58146,
+      "fontFamily": "PepiconsPop",
+      "identifier": "nextTrackCircleFilled"
+    },
+    "next-track-circle-off": {
+      "codepoint": 58147,
+      "fontFamily": "PepiconsPop",
+      "identifier": "nextTrackCircleOff"
+    },
+    "next-track-off": {
+      "codepoint": 58148,
+      "fontFamily": "PepiconsPop",
+      "identifier": "nextTrackOff"
+    },
+    "no-entry": {
+      "codepoint": 58149,
+      "fontFamily": "PepiconsPop",
+      "identifier": "noEntry"
+    },
+    "no-entry-circle": {
+      "codepoint": 58150,
+      "fontFamily": "PepiconsPop",
+      "identifier": "noEntryCircle"
+    },
+    "no-entry-circle-filled": {
+      "codepoint": 58151,
+      "fontFamily": "PepiconsPop",
+      "identifier": "noEntryCircleFilled"
+    },
+    "no-entry-circle-off": {
+      "codepoint": 58152,
+      "fontFamily": "PepiconsPop",
+      "identifier": "noEntryCircleOff"
+    },
+    "no-entry-off": {
+      "codepoint": 58153,
+      "fontFamily": "PepiconsPop",
+      "identifier": "noEntryOff"
+    },
+    "nut": {
+      "codepoint": 58154,
+      "fontFamily": "PepiconsPop",
+      "identifier": "nut"
+    },
+    "nut-circle": {
+      "codepoint": 58155,
+      "fontFamily": "PepiconsPop",
+      "identifier": "nutCircle"
+    },
+    "nut-circle-filled": {
+      "codepoint": 58156,
+      "fontFamily": "PepiconsPop",
+      "identifier": "nutCircleFilled"
+    },
+    "nut-circle-off": {
+      "codepoint": 58157,
+      "fontFamily": "PepiconsPop",
+      "identifier": "nutCircleOff"
+    },
+    "nut-off": {
+      "codepoint": 58158,
+      "fontFamily": "PepiconsPop",
+      "identifier": "nutOff"
+    },
+    "open": {
+      "codepoint": 58159,
+      "fontFamily": "PepiconsPop",
+      "identifier": "open"
+    },
+    "open-circle": {
+      "codepoint": 58160,
+      "fontFamily": "PepiconsPop",
+      "identifier": "openCircle"
+    },
+    "open-circle-filled": {
+      "codepoint": 58161,
+      "fontFamily": "PepiconsPop",
+      "identifier": "openCircleFilled"
+    },
+    "open-circle-off": {
+      "codepoint": 58162,
+      "fontFamily": "PepiconsPop",
+      "identifier": "openCircleOff"
+    },
+    "open-off": {
+      "codepoint": 58163,
+      "fontFamily": "PepiconsPop",
+      "identifier": "openOff"
+    },
+    "paint-pallet": {
+      "codepoint": 58164,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paintPallet"
+    },
+    "paint-pallet-circle": {
+      "codepoint": 58165,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paintPalletCircle"
+    },
+    "paint-pallet-circle-filled": {
+      "codepoint": 58166,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paintPalletCircleFilled"
+    },
+    "paint-pallet-circle-off": {
+      "codepoint": 58167,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paintPalletCircleOff"
+    },
+    "paint-pallet-off": {
+      "codepoint": 58168,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paintPalletOff"
+    },
+    "paper-plane": {
+      "codepoint": 58169,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paperPlane"
+    },
+    "paper-plane-circle": {
+      "codepoint": 58170,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paperPlaneCircle"
+    },
+    "paper-plane-circle-filled": {
+      "codepoint": 58171,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paperPlaneCircleFilled"
+    },
+    "paper-plane-circle-off": {
+      "codepoint": 58172,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paperPlaneCircleOff"
+    },
+    "paper-plane-off": {
+      "codepoint": 58173,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paperPlaneOff"
+    },
+    "paperclip": {
+      "codepoint": 58174,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paperclip"
+    },
+    "paperclip-circle": {
+      "codepoint": 58175,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paperclipCircle"
+    },
+    "paperclip-circle-filled": {
+      "codepoint": 58176,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paperclipCircleFilled"
+    },
+    "paperclip-circle-off": {
+      "codepoint": 58177,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paperclipCircleOff"
+    },
+    "paperclip-off": {
+      "codepoint": 58178,
+      "fontFamily": "PepiconsPop",
+      "identifier": "paperclipOff"
+    },
+    "pause": {
+      "codepoint": 58179,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pause"
+    },
+    "pause-circle": {
+      "codepoint": 58180,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pauseCircle"
+    },
+    "pause-circle-filled": {
+      "codepoint": 58181,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pauseCircleFilled"
+    },
+    "pause-circle-off": {
+      "codepoint": 58182,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pauseCircleOff"
+    },
+    "pause-off": {
+      "codepoint": 58183,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pauseOff"
+    },
+    "pen": {
+      "codepoint": 58184,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pen"
+    },
+    "pen-circle": {
+      "codepoint": 58185,
+      "fontFamily": "PepiconsPop",
+      "identifier": "penCircle"
+    },
+    "pen-circle-filled": {
+      "codepoint": 58186,
+      "fontFamily": "PepiconsPop",
+      "identifier": "penCircleFilled"
+    },
+    "pen-circle-off": {
+      "codepoint": 58187,
+      "fontFamily": "PepiconsPop",
+      "identifier": "penCircleOff"
+    },
+    "pen-off": {
+      "codepoint": 58188,
+      "fontFamily": "PepiconsPop",
+      "identifier": "penOff"
+    },
+    "people": {
+      "codepoint": 58189,
+      "fontFamily": "PepiconsPop",
+      "identifier": "people"
+    },
+    "people-circle": {
+      "codepoint": 58190,
+      "fontFamily": "PepiconsPop",
+      "identifier": "peopleCircle"
+    },
+    "people-circle-filled": {
+      "codepoint": 58191,
+      "fontFamily": "PepiconsPop",
+      "identifier": "peopleCircleFilled"
+    },
+    "people-circle-off": {
+      "codepoint": 58192,
+      "fontFamily": "PepiconsPop",
+      "identifier": "peopleCircleOff"
+    },
+    "people-off": {
+      "codepoint": 58193,
+      "fontFamily": "PepiconsPop",
+      "identifier": "peopleOff"
+    },
+    "person": {
+      "codepoint": 58194,
+      "fontFamily": "PepiconsPop",
+      "identifier": "person"
+    },
+    "person-checkmark": {
+      "codepoint": 58195,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personCheckmark"
+    },
+    "person-checkmark-circle": {
+      "codepoint": 58196,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personCheckmarkCircle"
+    },
+    "person-checkmark-circle-filled": {
+      "codepoint": 58197,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personCheckmarkCircleFilled"
+    },
+    "person-checkmark-circle-off": {
+      "codepoint": 58198,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personCheckmarkCircleOff"
+    },
+    "person-checkmark-off": {
+      "codepoint": 58199,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personCheckmarkOff"
+    },
+    "person-circle": {
+      "codepoint": 58200,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personCircle"
+    },
+    "person-circle-filled": {
+      "codepoint": 58201,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personCircleFilled"
+    },
+    "person-circle-off": {
+      "codepoint": 58202,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personCircleOff"
+    },
+    "person-filled": {
+      "codepoint": 58203,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personFilled"
+    },
+    "person-off": {
+      "codepoint": 58204,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personOff"
+    },
+    "person-plus": {
+      "codepoint": 58205,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personPlus"
+    },
+    "person-plus-circle": {
+      "codepoint": 58206,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personPlusCircle"
+    },
+    "person-plus-circle-filled": {
+      "codepoint": 58207,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personPlusCircleFilled"
+    },
+    "person-plus-circle-off": {
+      "codepoint": 58208,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personPlusCircleOff"
+    },
+    "person-plus-off": {
+      "codepoint": 58209,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personPlusOff"
+    },
+    "persons": {
+      "codepoint": 58210,
+      "fontFamily": "PepiconsPop",
+      "identifier": "persons"
+    },
+    "persons-circle": {
+      "codepoint": 58211,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personsCircle"
+    },
+    "persons-circle-filled": {
+      "codepoint": 58212,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personsCircleFilled"
+    },
+    "persons-circle-off": {
+      "codepoint": 58213,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personsCircleOff"
+    },
+    "persons-off": {
+      "codepoint": 58214,
+      "fontFamily": "PepiconsPop",
+      "identifier": "personsOff"
+    },
+    "peso": {
+      "codepoint": 58215,
+      "fontFamily": "PepiconsPop",
+      "identifier": "peso"
+    },
+    "peso-circle": {
+      "codepoint": 58216,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pesoCircle"
+    },
+    "peso-circle-filled": {
+      "codepoint": 58217,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pesoCircleFilled"
+    },
+    "peso-circle-off": {
+      "codepoint": 58218,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pesoCircleOff"
+    },
+    "peso-off": {
+      "codepoint": 58219,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pesoOff"
+    },
+    "phone": {
+      "codepoint": 58220,
+      "fontFamily": "PepiconsPop",
+      "identifier": "phone"
+    },
+    "phone-circle": {
+      "codepoint": 58221,
+      "fontFamily": "PepiconsPop",
+      "identifier": "phoneCircle"
+    },
+    "phone-circle-filled": {
+      "codepoint": 58222,
+      "fontFamily": "PepiconsPop",
+      "identifier": "phoneCircleFilled"
+    },
+    "phone-circle-off": {
+      "codepoint": 58223,
+      "fontFamily": "PepiconsPop",
+      "identifier": "phoneCircleOff"
+    },
+    "phone-off": {
+      "codepoint": 58224,
+      "fontFamily": "PepiconsPop",
+      "identifier": "phoneOff"
+    },
+    "photo": {
+      "codepoint": 58225,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photo"
+    },
+    "photo-camera": {
+      "codepoint": 58226,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoCamera"
+    },
+    "photo-camera-circle": {
+      "codepoint": 58227,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoCameraCircle"
+    },
+    "photo-camera-circle-filled": {
+      "codepoint": 58228,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoCameraCircleFilled"
+    },
+    "photo-camera-circle-off": {
+      "codepoint": 58229,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoCameraCircleOff"
+    },
+    "photo-camera-off": {
+      "codepoint": 58230,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoCameraOff"
+    },
+    "photo-circle": {
+      "codepoint": 58231,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoCircle"
+    },
+    "photo-circle-filled": {
+      "codepoint": 58232,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoCircleFilled"
+    },
+    "photo-circle-off": {
+      "codepoint": 58233,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoCircleOff"
+    },
+    "photo-off": {
+      "codepoint": 58234,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoOff"
+    },
+    "photo-studio": {
+      "codepoint": 58235,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoStudio"
+    },
+    "photo-studio-circle": {
+      "codepoint": 58236,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoStudioCircle"
+    },
+    "photo-studio-circle-filled": {
+      "codepoint": 58237,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoStudioCircleFilled"
+    },
+    "photo-studio-circle-off": {
+      "codepoint": 58238,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoStudioCircleOff"
+    },
+    "photo-studio-off": {
+      "codepoint": 58239,
+      "fontFamily": "PepiconsPop",
+      "identifier": "photoStudioOff"
+    },
+    "pill": {
+      "codepoint": 58240,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pill"
+    },
+    "pill-circle": {
+      "codepoint": 58241,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pillCircle"
+    },
+    "pill-circle-filled": {
+      "codepoint": 58242,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pillCircleFilled"
+    },
+    "pill-circle-off": {
+      "codepoint": 58243,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pillCircleOff"
+    },
+    "pill-off": {
+      "codepoint": 58244,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pillOff"
+    },
+    "pin": {
+      "codepoint": 58245,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pin"
+    },
+    "pin-circle": {
+      "codepoint": 58246,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pinCircle"
+    },
+    "pin-circle-filled": {
+      "codepoint": 58247,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pinCircleFilled"
+    },
+    "pin-circle-off": {
+      "codepoint": 58248,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pinCircleOff"
+    },
+    "pin-off": {
+      "codepoint": 58249,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pinOff"
+    },
+    "pinpoint": {
+      "codepoint": 58250,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pinpoint"
+    },
+    "pinpoint-circle": {
+      "codepoint": 58251,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pinpointCircle"
+    },
+    "pinpoint-circle-filled": {
+      "codepoint": 58252,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pinpointCircleFilled"
+    },
+    "pinpoint-circle-off": {
+      "codepoint": 58253,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pinpointCircleOff"
+    },
+    "pinpoint-filled": {
+      "codepoint": 58254,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pinpointFilled"
+    },
+    "pinpoint-off": {
+      "codepoint": 58255,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pinpointOff"
+    },
+    "pinpoint-off-filled": {
+      "codepoint": 58256,
+      "fontFamily": "PepiconsPop",
+      "identifier": "pinpointOffFilled"
+    },
+    "planet": {
+      "codepoint": 58257,
+      "fontFamily": "PepiconsPop",
+      "identifier": "planet"
+    },
+    "planet-circle": {
+      "codepoint": 58258,
+      "fontFamily": "PepiconsPop",
+      "identifier": "planetCircle"
+    },
+    "planet-circle-filled": {
+      "codepoint": 58259,
+      "fontFamily": "PepiconsPop",
+      "identifier": "planetCircleFilled"
+    },
+    "planet-circle-off": {
+      "codepoint": 58260,
+      "fontFamily": "PepiconsPop",
+      "identifier": "planetCircleOff"
+    },
+    "planet-off": {
+      "codepoint": 58261,
+      "fontFamily": "PepiconsPop",
+      "identifier": "planetOff"
+    },
+    "planet-ring": {
+      "codepoint": 58262,
+      "fontFamily": "PepiconsPop",
+      "identifier": "planetRing"
+    },
+    "planet-ring-circle": {
+      "codepoint": 58263,
+      "fontFamily": "PepiconsPop",
+      "identifier": "planetRingCircle"
+    },
+    "planet-ring-circle-filled": {
+      "codepoint": 58264,
+      "fontFamily": "PepiconsPop",
+      "identifier": "planetRingCircleFilled"
+    },
+    "planet-ring-circle-off": {
+      "codepoint": 58265,
+      "fontFamily": "PepiconsPop",
+      "identifier": "planetRingCircleOff"
+    },
+    "planet-ring-off": {
+      "codepoint": 58266,
+      "fontFamily": "PepiconsPop",
+      "identifier": "planetRingOff"
+    },
+    "play": {
+      "codepoint": 58267,
+      "fontFamily": "PepiconsPop",
+      "identifier": "play"
+    },
+    "play-circle": {
+      "codepoint": 58268,
+      "fontFamily": "PepiconsPop",
+      "identifier": "playCircle"
+    },
+    "play-circle-filled": {
+      "codepoint": 58269,
+      "fontFamily": "PepiconsPop",
+      "identifier": "playCircleFilled"
+    },
+    "play-circle-off": {
+      "codepoint": 58270,
+      "fontFamily": "PepiconsPop",
+      "identifier": "playCircleOff"
+    },
+    "play-off": {
+      "codepoint": 58271,
+      "fontFamily": "PepiconsPop",
+      "identifier": "playOff"
+    },
+    "plus": {
+      "codepoint": 58272,
+      "fontFamily": "PepiconsPop",
+      "identifier": "plus"
+    },
+    "plus-circle": {
+      "codepoint": 58273,
+      "fontFamily": "PepiconsPop",
+      "identifier": "plusCircle"
+    },
+    "plus-circle-filled": {
+      "codepoint": 58274,
+      "fontFamily": "PepiconsPop",
+      "identifier": "plusCircleFilled"
+    },
+    "plus-circle-off": {
+      "codepoint": 58275,
+      "fontFamily": "PepiconsPop",
+      "identifier": "plusCircleOff"
+    },
+    "plus-off": {
+      "codepoint": 58276,
+      "fontFamily": "PepiconsPop",
+      "identifier": "plusOff"
+    },
+    "power": {
+      "codepoint": 58277,
+      "fontFamily": "PepiconsPop",
+      "identifier": "power"
+    },
+    "power-circle": {
+      "codepoint": 58278,
+      "fontFamily": "PepiconsPop",
+      "identifier": "powerCircle"
+    },
+    "power-circle-filled": {
+      "codepoint": 58279,
+      "fontFamily": "PepiconsPop",
+      "identifier": "powerCircleFilled"
+    },
+    "power-circle-off": {
+      "codepoint": 58280,
+      "fontFamily": "PepiconsPop",
+      "identifier": "powerCircleOff"
+    },
+    "power-off": {
+      "codepoint": 58281,
+      "fontFamily": "PepiconsPop",
+      "identifier": "powerOff"
+    },
+    "previous-track": {
+      "codepoint": 58282,
+      "fontFamily": "PepiconsPop",
+      "identifier": "previousTrack"
+    },
+    "previous-track-circle": {
+      "codepoint": 58283,
+      "fontFamily": "PepiconsPop",
+      "identifier": "previousTrackCircle"
+    },
+    "previous-track-circle-filled": {
+      "codepoint": 58284,
+      "fontFamily": "PepiconsPop",
+      "identifier": "previousTrackCircleFilled"
+    },
+    "previous-track-circle-off": {
+      "codepoint": 58285,
+      "fontFamily": "PepiconsPop",
+      "identifier": "previousTrackCircleOff"
+    },
+    "previous-track-off": {
+      "codepoint": 58286,
+      "fontFamily": "PepiconsPop",
+      "identifier": "previousTrackOff"
+    },
+    "printer": {
+      "codepoint": 58287,
+      "fontFamily": "PepiconsPop",
+      "identifier": "printer"
+    },
+    "printer-circle": {
+      "codepoint": 58288,
+      "fontFamily": "PepiconsPop",
+      "identifier": "printerCircle"
+    },
+    "printer-circle-filled": {
+      "codepoint": 58289,
+      "fontFamily": "PepiconsPop",
+      "identifier": "printerCircleFilled"
+    },
+    "printer-circle-off": {
+      "codepoint": 58290,
+      "fontFamily": "PepiconsPop",
+      "identifier": "printerCircleOff"
+    },
+    "printer-off": {
+      "codepoint": 58291,
+      "fontFamily": "PepiconsPop",
+      "identifier": "printerOff"
+    },
+    "qr-code": {
+      "codepoint": 58292,
+      "fontFamily": "PepiconsPop",
+      "identifier": "qrCode"
+    },
+    "qr-code-circle": {
+      "codepoint": 58293,
+      "fontFamily": "PepiconsPop",
+      "identifier": "qrCodeCircle"
+    },
+    "qr-code-circle-filled": {
+      "codepoint": 58294,
+      "fontFamily": "PepiconsPop",
+      "identifier": "qrCodeCircleFilled"
+    },
+    "qr-code-circle-off": {
+      "codepoint": 58295,
+      "fontFamily": "PepiconsPop",
+      "identifier": "qrCodeCircleOff"
+    },
+    "qr-code-off": {
+      "codepoint": 58296,
+      "fontFamily": "PepiconsPop",
+      "identifier": "qrCodeOff"
+    },
+    "question": {
+      "codepoint": 58297,
+      "fontFamily": "PepiconsPop",
+      "identifier": "question"
+    },
+    "question-circle": {
+      "codepoint": 58298,
+      "fontFamily": "PepiconsPop",
+      "identifier": "questionCircle"
+    },
+    "question-circle-filled": {
+      "codepoint": 58299,
+      "fontFamily": "PepiconsPop",
+      "identifier": "questionCircleFilled"
+    },
+    "question-circle-off": {
+      "codepoint": 58300,
+      "fontFamily": "PepiconsPop",
+      "identifier": "questionCircleOff"
+    },
+    "question-filled": {
+      "codepoint": 58301,
+      "fontFamily": "PepiconsPop",
+      "identifier": "questionFilled"
+    },
+    "question-off": {
+      "codepoint": 58302,
+      "fontFamily": "PepiconsPop",
+      "identifier": "questionOff"
+    },
+    "radio": {
+      "codepoint": 58303,
+      "fontFamily": "PepiconsPop",
+      "identifier": "radio"
+    },
+    "radio-circle": {
+      "codepoint": 58304,
+      "fontFamily": "PepiconsPop",
+      "identifier": "radioCircle"
+    },
+    "radio-circle-filled": {
+      "codepoint": 58305,
+      "fontFamily": "PepiconsPop",
+      "identifier": "radioCircleFilled"
+    },
+    "radio-circle-off": {
+      "codepoint": 58306,
+      "fontFamily": "PepiconsPop",
+      "identifier": "radioCircleOff"
+    },
+    "radio-off": {
+      "codepoint": 58307,
+      "fontFamily": "PepiconsPop",
+      "identifier": "radioOff"
+    },
+    "raise-hand": {
+      "codepoint": 58308,
+      "fontFamily": "PepiconsPop",
+      "identifier": "raiseHand"
+    },
+    "raise-hand-circle": {
+      "codepoint": 58309,
+      "fontFamily": "PepiconsPop",
+      "identifier": "raiseHandCircle"
+    },
+    "raise-hand-circle-filled": {
+      "codepoint": 58310,
+      "fontFamily": "PepiconsPop",
+      "identifier": "raiseHandCircleFilled"
+    },
+    "raise-hand-circle-off": {
+      "codepoint": 58311,
+      "fontFamily": "PepiconsPop",
+      "identifier": "raiseHandCircleOff"
+    },
+    "raise-hand-off": {
+      "codepoint": 58312,
+      "fontFamily": "PepiconsPop",
+      "identifier": "raiseHandOff"
+    },
+    "refresh": {
+      "codepoint": 58313,
+      "fontFamily": "PepiconsPop",
+      "identifier": "refresh"
+    },
+    "reload": {
+      "codepoint": 58314,
+      "fontFamily": "PepiconsPop",
+      "identifier": "reload"
+    },
+    "repeat": {
+      "codepoint": 58315,
+      "fontFamily": "PepiconsPop",
+      "identifier": "repeat"
+    },
+    "repeat-circle": {
+      "codepoint": 58316,
+      "fontFamily": "PepiconsPop",
+      "identifier": "repeatCircle"
+    },
+    "repeat-circle-filled": {
+      "codepoint": 58317,
+      "fontFamily": "PepiconsPop",
+      "identifier": "repeatCircleFilled"
+    },
+    "repeat-circle-off": {
+      "codepoint": 58318,
+      "fontFamily": "PepiconsPop",
+      "identifier": "repeatCircleOff"
+    },
+    "repeat-off": {
+      "codepoint": 58319,
+      "fontFamily": "PepiconsPop",
+      "identifier": "repeatOff"
+    },
+    "rewind": {
+      "codepoint": 58320,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rewind"
+    },
+    "rewind-circle": {
+      "codepoint": 58321,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rewindCircle"
+    },
+    "rewind-circle-filled": {
+      "codepoint": 58322,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rewindCircleFilled"
+    },
+    "rewind-circle-off": {
+      "codepoint": 58323,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rewindCircleOff"
+    },
+    "rewind-off": {
+      "codepoint": 58324,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rewindOff"
+    },
+    "rewind-time": {
+      "codepoint": 58325,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rewindTime"
+    },
+    "rewind-time-circle": {
+      "codepoint": 58326,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rewindTimeCircle"
+    },
+    "rewind-time-circle-filled": {
+      "codepoint": 58327,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rewindTimeCircleFilled"
+    },
+    "rewind-time-circle-off": {
+      "codepoint": 58328,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rewindTimeCircleOff"
+    },
+    "rewind-time-off": {
+      "codepoint": 58329,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rewindTimeOff"
+    },
+    "ruler": {
+      "codepoint": 58330,
+      "fontFamily": "PepiconsPop",
+      "identifier": "ruler"
+    },
+    "ruler-circle": {
+      "codepoint": 58331,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rulerCircle"
+    },
+    "ruler-circle-filled": {
+      "codepoint": 58332,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rulerCircleFilled"
+    },
+    "ruler-circle-off": {
+      "codepoint": 58333,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rulerCircleOff"
+    },
+    "ruler-off": {
+      "codepoint": 58334,
+      "fontFamily": "PepiconsPop",
+      "identifier": "rulerOff"
+    },
+    "scissors": {
+      "codepoint": 58335,
+      "fontFamily": "PepiconsPop",
+      "identifier": "scissors"
+    },
+    "scissors-circle": {
+      "codepoint": 58336,
+      "fontFamily": "PepiconsPop",
+      "identifier": "scissorsCircle"
+    },
+    "scissors-circle-filled": {
+      "codepoint": 58337,
+      "fontFamily": "PepiconsPop",
+      "identifier": "scissorsCircleFilled"
+    },
+    "scissors-circle-off": {
+      "codepoint": 58338,
+      "fontFamily": "PepiconsPop",
+      "identifier": "scissorsCircleOff"
+    },
+    "scissors-off": {
+      "codepoint": 58339,
+      "fontFamily": "PepiconsPop",
+      "identifier": "scissorsOff"
+    },
+    "seedling": {
+      "codepoint": 58340,
+      "fontFamily": "PepiconsPop",
+      "identifier": "seedling"
+    },
+    "seedling-circle": {
+      "codepoint": 58341,
+      "fontFamily": "PepiconsPop",
+      "identifier": "seedlingCircle"
+    },
+    "seedling-circle-filled": {
+      "codepoint": 58342,
+      "fontFamily": "PepiconsPop",
+      "identifier": "seedlingCircleFilled"
+    },
+    "seedling-circle-off": {
+      "codepoint": 58343,
+      "fontFamily": "PepiconsPop",
+      "identifier": "seedlingCircleOff"
+    },
+    "seedling-off": {
+      "codepoint": 58344,
+      "fontFamily": "PepiconsPop",
+      "identifier": "seedlingOff"
+    },
+    "send": {
+      "codepoint": 58345,
+      "fontFamily": "PepiconsPop",
+      "identifier": "send"
+    },
+    "share-android": {
+      "codepoint": 58346,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shareAndroid"
+    },
+    "share-android-circle": {
+      "codepoint": 58347,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shareAndroidCircle"
+    },
+    "share-android-circle-filled": {
+      "codepoint": 58348,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shareAndroidCircleFilled"
+    },
+    "share-android-circle-off": {
+      "codepoint": 58349,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shareAndroidCircleOff"
+    },
+    "share-android-off": {
+      "codepoint": 58350,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shareAndroidOff"
+    },
+    "share-ios": {
+      "codepoint": 58351,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shareIos"
+    },
+    "share-ios-circle": {
+      "codepoint": 58352,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shareIosCircle"
+    },
+    "share-ios-circle-filled": {
+      "codepoint": 58353,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shareIosCircleFilled"
+    },
+    "share-ios-circle-off": {
+      "codepoint": 58354,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shareIosCircleOff"
+    },
+    "share-ios-off": {
+      "codepoint": 58355,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shareIosOff"
+    },
+    "shield": {
+      "codepoint": 58356,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shield"
+    },
+    "shield-check": {
+      "codepoint": 58357,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCheck"
+    },
+    "shield-check-circle": {
+      "codepoint": 58358,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCheckCircle"
+    },
+    "shield-check-circle-filled": {
+      "codepoint": 58359,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCheckCircleFilled"
+    },
+    "shield-check-circle-off": {
+      "codepoint": 58360,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCheckCircleOff"
+    },
+    "shield-check-off": {
+      "codepoint": 58361,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCheckOff"
+    },
+    "shield-checkered": {
+      "codepoint": 58362,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCheckered"
+    },
+    "shield-checkered-circle": {
+      "codepoint": 58363,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCheckeredCircle"
+    },
+    "shield-checkered-circle-filled": {
+      "codepoint": 58364,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCheckeredCircleFilled"
+    },
+    "shield-checkered-circle-off": {
+      "codepoint": 58365,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCheckeredCircleOff"
+    },
+    "shield-checkered-off": {
+      "codepoint": 58366,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCheckeredOff"
+    },
+    "shield-circle": {
+      "codepoint": 58367,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCircle"
+    },
+    "shield-circle-filled": {
+      "codepoint": 58368,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCircleFilled"
+    },
+    "shield-circle-off": {
+      "codepoint": 58369,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldCircleOff"
+    },
+    "shield-off": {
+      "codepoint": 58370,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shieldOff"
+    },
+    "shuffle": {
+      "codepoint": 58371,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shuffle"
+    },
+    "shuffle-circle": {
+      "codepoint": 58372,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shuffleCircle"
+    },
+    "shuffle-circle-filled": {
+      "codepoint": 58373,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shuffleCircleFilled"
+    },
+    "shuffle-circle-off": {
+      "codepoint": 58374,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shuffleCircleOff"
+    },
+    "shuffle-off": {
+      "codepoint": 58375,
+      "fontFamily": "PepiconsPop",
+      "identifier": "shuffleOff"
+    },
+    "sliders": {
+      "codepoint": 58376,
+      "fontFamily": "PepiconsPop",
+      "identifier": "sliders"
+    },
+    "sliders-circle": {
+      "codepoint": 58377,
+      "fontFamily": "PepiconsPop",
+      "identifier": "slidersCircle"
+    },
+    "sliders-circle-filled": {
+      "codepoint": 58378,
+      "fontFamily": "PepiconsPop",
+      "identifier": "slidersCircleFilled"
+    },
+    "sliders-circle-off": {
+      "codepoint": 58379,
+      "fontFamily": "PepiconsPop",
+      "identifier": "slidersCircleOff"
+    },
+    "sliders-off": {
+      "codepoint": 58380,
+      "fontFamily": "PepiconsPop",
+      "identifier": "slidersOff"
+    },
+    "smartphone": {
+      "codepoint": 58381,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphone"
+    },
+    "smartphone-cutout": {
+      "codepoint": 58382,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneCutout"
+    },
+    "smartphone-cutout-circle": {
+      "codepoint": 58383,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneCutoutCircle"
+    },
+    "smartphone-cutout-circle-filled": {
+      "codepoint": 58384,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneCutoutCircleFilled"
+    },
+    "smartphone-cutout-circle-off": {
+      "codepoint": 58385,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneCutoutCircleOff"
+    },
+    "smartphone-cutout-off": {
+      "codepoint": 58386,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneCutoutOff"
+    },
+    "smartphone-home-button": {
+      "codepoint": 58387,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneHomeButton"
+    },
+    "smartphone-home-button-circle": {
+      "codepoint": 58388,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneHomeButtonCircle"
+    },
+    "smartphone-home-button-circle-filled": {
+      "codepoint": 58389,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneHomeButtonCircleFilled"
+    },
+    "smartphone-home-button-circle-off": {
+      "codepoint": 58390,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneHomeButtonCircleOff"
+    },
+    "smartphone-home-button-off": {
+      "codepoint": 58391,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneHomeButtonOff"
+    },
+    "smartphone-notch": {
+      "codepoint": 58392,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneNotch"
+    },
+    "smartphone-notch-circle": {
+      "codepoint": 58393,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneNotchCircle"
+    },
+    "smartphone-notch-circle-filled": {
+      "codepoint": 58394,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneNotchCircleFilled"
+    },
+    "smartphone-notch-circle-off": {
+      "codepoint": 58395,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneNotchCircleOff"
+    },
+    "smartphone-notch-off": {
+      "codepoint": 58396,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphoneNotchOff"
+    },
+    "smartphone2": {
+      "codepoint": 58397,
+      "fontFamily": "PepiconsPop",
+      "identifier": "smartphone2"
+    },
+    "soft-drink": {
+      "codepoint": 58398,
+      "fontFamily": "PepiconsPop",
+      "identifier": "softDrink"
+    },
+    "soft-drink-circle": {
+      "codepoint": 58399,
+      "fontFamily": "PepiconsPop",
+      "identifier": "softDrinkCircle"
+    },
+    "soft-drink-circle-filled": {
+      "codepoint": 58400,
+      "fontFamily": "PepiconsPop",
+      "identifier": "softDrinkCircleFilled"
+    },
+    "soft-drink-circle-off": {
+      "codepoint": 58401,
+      "fontFamily": "PepiconsPop",
+      "identifier": "softDrinkCircleOff"
+    },
+    "soft-drink-off": {
+      "codepoint": 58402,
+      "fontFamily": "PepiconsPop",
+      "identifier": "softDrinkOff"
+    },
+    "sort": {
+      "codepoint": 58403,
+      "fontFamily": "PepiconsPop",
+      "identifier": "sort"
+    },
+    "speaker-high": {
+      "codepoint": 58404,
+      "fontFamily": "PepiconsPop",
+      "identifier": "speakerHigh"
+    },
+    "speaker-high-circle": {
+      "codepoint": 58405,
+      "fontFamily": "PepiconsPop",
+      "identifier": "speakerHighCircle"
+    },
+    "speaker-high-circle-filled": {
+      "codepoint": 58406,
+      "fontFamily": "PepiconsPop",
+      "identifier": "speakerHighCircleFilled"
+    },
+    "speaker-high-circle-off": {
+      "codepoint": 58407,
+      "fontFamily": "PepiconsPop",
+      "identifier": "speakerHighCircleOff"
+    },
+    "speaker-high-off": {
+      "codepoint": 58408,
+      "fontFamily": "PepiconsPop",
+      "identifier": "speakerHighOff"
+    },
+    "speaker-low": {
+      "codepoint": 58409,
+      "fontFamily": "PepiconsPop",
+      "identifier": "speakerLow"
+    },
+    "speaker-low-circle": {
+      "codepoint": 58410,
+      "fontFamily": "PepiconsPop",
+      "identifier": "speakerLowCircle"
+    },
+    "speaker-low-circle-filled": {
+      "codepoint": 58411,
+      "fontFamily": "PepiconsPop",
+      "identifier": "speakerLowCircleFilled"
+    },
+    "speaker-low-circle-off": {
+      "codepoint": 58412,
+      "fontFamily": "PepiconsPop",
+      "identifier": "speakerLowCircleOff"
+    },
+    "speaker-low-off": {
+      "codepoint": 58413,
+      "fontFamily": "PepiconsPop",
+      "identifier": "speakerLowOff"
+    },
+    "speaker-off": {
+      "codepoint": 58414,
+      "fontFamily": "PepiconsPop",
+      "identifier": "speakerOff"
+    },
+    "square": {
+      "codepoint": 58415,
+      "fontFamily": "PepiconsPop",
+      "identifier": "square"
+    },
+    "square-circle": {
+      "codepoint": 58416,
+      "fontFamily": "PepiconsPop",
+      "identifier": "squareCircle"
+    },
+    "square-circle-filled": {
+      "codepoint": 58417,
+      "fontFamily": "PepiconsPop",
+      "identifier": "squareCircleFilled"
+    },
+    "square-circle-off": {
+      "codepoint": 58418,
+      "fontFamily": "PepiconsPop",
+      "identifier": "squareCircleOff"
+    },
+    "square-filled": {
+      "codepoint": 58419,
+      "fontFamily": "PepiconsPop",
+      "identifier": "squareFilled"
+    },
+    "square-filled-circle": {
+      "codepoint": 58420,
+      "fontFamily": "PepiconsPop",
+      "identifier": "squareFilledCircle"
+    },
+    "square-filled-circle-filled": {
+      "codepoint": 58421,
+      "fontFamily": "PepiconsPop",
+      "identifier": "squareFilledCircleFilled"
+    },
+    "square-filled-circle-off": {
+      "codepoint": 58422,
+      "fontFamily": "PepiconsPop",
+      "identifier": "squareFilledCircleOff"
+    },
+    "square-filled-off": {
+      "codepoint": 58423,
+      "fontFamily": "PepiconsPop",
+      "identifier": "squareFilledOff"
+    },
+    "square-off": {
+      "codepoint": 58424,
+      "fontFamily": "PepiconsPop",
+      "identifier": "squareOff"
+    },
+    "star": {
+      "codepoint": 58425,
+      "fontFamily": "PepiconsPop",
+      "identifier": "star"
+    },
+    "star-circle": {
+      "codepoint": 58426,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starCircle"
+    },
+    "star-circle-filled": {
+      "codepoint": 58427,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starCircleFilled"
+    },
+    "star-circle-off": {
+      "codepoint": 58428,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starCircleOff"
+    },
+    "star-filled": {
+      "codepoint": 58429,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starFilled"
+    },
+    "star-filled-circle": {
+      "codepoint": 58430,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starFilledCircle"
+    },
+    "star-filled-circle-filled": {
+      "codepoint": 58431,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starFilledCircleFilled"
+    },
+    "star-filled-circle-off": {
+      "codepoint": 58432,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starFilledCircleOff"
+    },
+    "star-filled-off": {
+      "codepoint": 58433,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starFilledOff"
+    },
+    "star-off": {
+      "codepoint": 58434,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starOff"
+    },
+    "stars": {
+      "codepoint": 58435,
+      "fontFamily": "PepiconsPop",
+      "identifier": "stars"
+    },
+    "stars-circle": {
+      "codepoint": 58436,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starsCircle"
+    },
+    "stars-circle-filled": {
+      "codepoint": 58437,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starsCircleFilled"
+    },
+    "stars-circle-off": {
+      "codepoint": 58438,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starsCircleOff"
+    },
+    "stars-off": {
+      "codepoint": 58439,
+      "fontFamily": "PepiconsPop",
+      "identifier": "starsOff"
+    },
+    "stopwatch": {
+      "codepoint": 58440,
+      "fontFamily": "PepiconsPop",
+      "identifier": "stopwatch"
+    },
+    "stopwatch-circle": {
+      "codepoint": 58441,
+      "fontFamily": "PepiconsPop",
+      "identifier": "stopwatchCircle"
+    },
+    "stopwatch-circle-filled": {
+      "codepoint": 58442,
+      "fontFamily": "PepiconsPop",
+      "identifier": "stopwatchCircleFilled"
+    },
+    "stopwatch-circle-off": {
+      "codepoint": 58443,
+      "fontFamily": "PepiconsPop",
+      "identifier": "stopwatchCircleOff"
+    },
+    "stopwatch-off": {
+      "codepoint": 58444,
+      "fontFamily": "PepiconsPop",
+      "identifier": "stopwatchOff"
+    },
+    "studio-backdrop": {
+      "codepoint": 58445,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioBackdrop"
+    },
+    "studio-backdrop-circle": {
+      "codepoint": 58446,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioBackdropCircle"
+    },
+    "studio-backdrop-circle-filled": {
+      "codepoint": 58447,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioBackdropCircleFilled"
+    },
+    "studio-backdrop-circle-off": {
+      "codepoint": 58448,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioBackdropCircleOff"
+    },
+    "studio-backdrop-off": {
+      "codepoint": 58449,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioBackdropOff"
+    },
+    "studio-light-front": {
+      "codepoint": 58450,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioLightFront"
+    },
+    "studio-light-front-circle": {
+      "codepoint": 58451,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioLightFrontCircle"
+    },
+    "studio-light-front-circle-filled": {
+      "codepoint": 58452,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioLightFrontCircleFilled"
+    },
+    "studio-light-front-circle-off": {
+      "codepoint": 58453,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioLightFrontCircleOff"
+    },
+    "studio-light-front-off": {
+      "codepoint": 58454,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioLightFrontOff"
+    },
+    "studio-light-side": {
+      "codepoint": 58455,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioLightSide"
+    },
+    "studio-light-side-circle": {
+      "codepoint": 58456,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioLightSideCircle"
+    },
+    "studio-light-side-circle-filled": {
+      "codepoint": 58457,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioLightSideCircleFilled"
+    },
+    "studio-light-side-circle-off": {
+      "codepoint": 58458,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioLightSideCircleOff"
+    },
+    "studio-light-side-off": {
+      "codepoint": 58459,
+      "fontFamily": "PepiconsPop",
+      "identifier": "studioLightSideOff"
+    },
+    "sun": {
+      "codepoint": 58460,
+      "fontFamily": "PepiconsPop",
+      "identifier": "sun"
+    },
+    "sun-circle": {
+      "codepoint": 58461,
+      "fontFamily": "PepiconsPop",
+      "identifier": "sunCircle"
+    },
+    "sun-circle-filled": {
+      "codepoint": 58462,
+      "fontFamily": "PepiconsPop",
+      "identifier": "sunCircleFilled"
+    },
+    "sun-circle-off": {
+      "codepoint": 58463,
+      "fontFamily": "PepiconsPop",
+      "identifier": "sunCircleOff"
+    },
+    "sun-filled": {
+      "codepoint": 58464,
+      "fontFamily": "PepiconsPop",
+      "identifier": "sunFilled"
+    },
+    "sun-off": {
+      "codepoint": 58465,
+      "fontFamily": "PepiconsPop",
+      "identifier": "sunOff"
+    },
+    "sword": {
+      "codepoint": 58466,
+      "fontFamily": "PepiconsPop",
+      "identifier": "sword"
+    },
+    "sword-circle": {
+      "codepoint": 58467,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordCircle"
+    },
+    "sword-circle-filled": {
+      "codepoint": 58468,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordCircleFilled"
+    },
+    "sword-circle-off": {
+      "codepoint": 58469,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordCircleOff"
+    },
+    "sword-off": {
+      "codepoint": 58470,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordOff"
+    },
+    "sword-shield": {
+      "codepoint": 58471,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordShield"
+    },
+    "sword-shield-circle": {
+      "codepoint": 58472,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordShieldCircle"
+    },
+    "sword-shield-circle-filled": {
+      "codepoint": 58473,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordShieldCircleFilled"
+    },
+    "sword-shield-circle-off": {
+      "codepoint": 58474,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordShieldCircleOff"
+    },
+    "sword-shield-off": {
+      "codepoint": 58475,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordShieldOff"
+    },
+    "swords": {
+      "codepoint": 58476,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swords"
+    },
+    "swords-circle": {
+      "codepoint": 58477,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordsCircle"
+    },
+    "swords-circle-filled": {
+      "codepoint": 58478,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordsCircleFilled"
+    },
+    "swords-circle-off": {
+      "codepoint": 58479,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordsCircleOff"
+    },
+    "swords-off": {
+      "codepoint": 58480,
+      "fontFamily": "PepiconsPop",
+      "identifier": "swordsOff"
+    },
+    "syringe": {
+      "codepoint": 58481,
+      "fontFamily": "PepiconsPop",
+      "identifier": "syringe"
+    },
+    "syringe-circle": {
+      "codepoint": 58482,
+      "fontFamily": "PepiconsPop",
+      "identifier": "syringeCircle"
+    },
+    "syringe-circle-filled": {
+      "codepoint": 58483,
+      "fontFamily": "PepiconsPop",
+      "identifier": "syringeCircleFilled"
+    },
+    "syringe-circle-off": {
+      "codepoint": 58484,
+      "fontFamily": "PepiconsPop",
+      "identifier": "syringeCircleOff"
+    },
+    "syringe-off": {
+      "codepoint": 58485,
+      "fontFamily": "PepiconsPop",
+      "identifier": "syringeOff"
+    },
+    "t-shirt": {
+      "codepoint": 58486,
+      "fontFamily": "PepiconsPop",
+      "identifier": "tShirt"
+    },
+    "t-shirt-circle": {
+      "codepoint": 58487,
+      "fontFamily": "PepiconsPop",
+      "identifier": "tShirtCircle"
+    },
+    "t-shirt-circle-filled": {
+      "codepoint": 58488,
+      "fontFamily": "PepiconsPop",
+      "identifier": "tShirtCircleFilled"
+    },
+    "t-shirt-circle-off": {
+      "codepoint": 58489,
+      "fontFamily": "PepiconsPop",
+      "identifier": "tShirtCircleOff"
+    },
+    "t-shirt-off": {
+      "codepoint": 58490,
+      "fontFamily": "PepiconsPop",
+      "identifier": "tShirtOff"
+    },
+    "tablet": {
+      "codepoint": 58491,
+      "fontFamily": "PepiconsPop",
+      "identifier": "tablet"
+    },
+    "tablet-circle": {
+      "codepoint": 58492,
+      "fontFamily": "PepiconsPop",
+      "identifier": "tabletCircle"
+    },
+    "tablet-circle-filled": {
+      "codepoint": 58493,
+      "fontFamily": "PepiconsPop",
+      "identifier": "tabletCircleFilled"
+    },
+    "tablet-circle-off": {
+      "codepoint": 58494,
+      "fontFamily": "PepiconsPop",
+      "identifier": "tabletCircleOff"
+    },
+    "tablet-off": {
+      "codepoint": 58495,
+      "fontFamily": "PepiconsPop",
+      "identifier": "tabletOff"
+    },
+    "taxi": {
+      "codepoint": 58496,
+      "fontFamily": "PepiconsPop",
+      "identifier": "taxi"
+    },
+    "taxi-circle": {
+      "codepoint": 58497,
+      "fontFamily": "PepiconsPop",
+      "identifier": "taxiCircle"
+    },
+    "taxi-circle-filled": {
+      "codepoint": 58498,
+      "fontFamily": "PepiconsPop",
+      "identifier": "taxiCircleFilled"
+    },
+    "taxi-circle-off": {
+      "codepoint": 58499,
+      "fontFamily": "PepiconsPop",
+      "identifier": "taxiCircleOff"
+    },
+    "taxi-off": {
+      "codepoint": 58500,
+      "fontFamily": "PepiconsPop",
+      "identifier": "taxiOff"
+    },
+    "television": {
+      "codepoint": 58501,
+      "fontFamily": "PepiconsPop",
+      "identifier": "television"
+    },
+    "television-circle": {
+      "codepoint": 58502,
+      "fontFamily": "PepiconsPop",
+      "identifier": "televisionCircle"
+    },
+    "television-circle-filled": {
+      "codepoint": 58503,
+      "fontFamily": "PepiconsPop",
+      "identifier": "televisionCircleFilled"
+    },
+    "television-circle-off": {
+      "codepoint": 58504,
+      "fontFamily": "PepiconsPop",
+      "identifier": "televisionCircleOff"
+    },
+    "television-off": {
+      "codepoint": 58505,
+      "fontFamily": "PepiconsPop",
+      "identifier": "televisionOff"
+    },
+    "television-play": {
+      "codepoint": 58506,
+      "fontFamily": "PepiconsPop",
+      "identifier": "televisionPlay"
+    },
+    "television-play-circle": {
+      "codepoint": 58507,
+      "fontFamily": "PepiconsPop",
+      "identifier": "televisionPlayCircle"
+    },
+    "television-play-circle-filled": {
+      "codepoint": 58508,
+      "fontFamily": "PepiconsPop",
+      "identifier": "televisionPlayCircleFilled"
+    },
+    "television-play-circle-off": {
+      "codepoint": 58509,
+      "fontFamily": "PepiconsPop",
+      "identifier": "televisionPlayCircleOff"
+    },
+    "television-play-off": {
+      "codepoint": 58510,
+      "fontFamily": "PepiconsPop",
+      "identifier": "televisionPlayOff"
+    },
+    "text-bubble": {
+      "codepoint": 58511,
+      "fontFamily": "PepiconsPop",
+      "identifier": "textBubble"
+    },
+    "text-bubble-circle": {
+      "codepoint": 58512,
+      "fontFamily": "PepiconsPop",
+      "identifier": "textBubbleCircle"
+    },
+    "text-bubble-circle-filled": {
+      "codepoint": 58513,
+      "fontFamily": "PepiconsPop",
+      "identifier": "textBubbleCircleFilled"
+    },
+    "text-bubble-circle-off": {
+      "codepoint": 58514,
+      "fontFamily": "PepiconsPop",
+      "identifier": "textBubbleCircleOff"
+    },
+    "text-bubble-off": {
+      "codepoint": 58515,
+      "fontFamily": "PepiconsPop",
+      "identifier": "textBubbleOff"
+    },
+    "text-bubbles": {
+      "codepoint": 58516,
+      "fontFamily": "PepiconsPop",
+      "identifier": "textBubbles"
+    },
+    "text-bubbles-circle": {
+      "codepoint": 58517,
+      "fontFamily": "PepiconsPop",
+      "identifier": "textBubblesCircle"
+    },
+    "text-bubbles-circle-filled": {
+      "codepoint": 58518,
+      "fontFamily": "PepiconsPop",
+      "identifier": "textBubblesCircleFilled"
+    },
+    "text-bubbles-circle-off": {
+      "codepoint": 58519,
+      "fontFamily": "PepiconsPop",
+      "identifier": "textBubblesCircleOff"
+    },
+    "text-bubbles-off": {
+      "codepoint": 58520,
+      "fontFamily": "PepiconsPop",
+      "identifier": "textBubblesOff"
+    },
+    "thumbs-down": {
+      "codepoint": 58521,
+      "fontFamily": "PepiconsPop",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-down-circle": {
+      "codepoint": 58522,
+      "fontFamily": "PepiconsPop",
+      "identifier": "thumbsDownCircle"
+    },
+    "thumbs-down-circle-filled": {
+      "codepoint": 58523,
+      "fontFamily": "PepiconsPop",
+      "identifier": "thumbsDownCircleFilled"
+    },
+    "thumbs-down-circle-off": {
+      "codepoint": 58524,
+      "fontFamily": "PepiconsPop",
+      "identifier": "thumbsDownCircleOff"
+    },
+    "thumbs-down-off": {
+      "codepoint": 58525,
+      "fontFamily": "PepiconsPop",
+      "identifier": "thumbsDownOff"
+    },
+    "thumbs-up": {
+      "codepoint": 58526,
+      "fontFamily": "PepiconsPop",
+      "identifier": "thumbsUp"
+    },
+    "thumbs-up-circle": {
+      "codepoint": 58527,
+      "fontFamily": "PepiconsPop",
+      "identifier": "thumbsUpCircle"
+    },
+    "thumbs-up-circle-filled": {
+      "codepoint": 58528,
+      "fontFamily": "PepiconsPop",
+      "identifier": "thumbsUpCircleFilled"
+    },
+    "thumbs-up-circle-off": {
+      "codepoint": 58529,
+      "fontFamily": "PepiconsPop",
+      "identifier": "thumbsUpCircleOff"
+    },
+    "thumbs-up-off": {
+      "codepoint": 58530,
+      "fontFamily": "PepiconsPop",
+      "identifier": "thumbsUpOff"
+    },
+    "ticket": {
+      "codepoint": 58531,
+      "fontFamily": "PepiconsPop",
+      "identifier": "ticket"
+    },
+    "ticket-circle": {
+      "codepoint": 58532,
+      "fontFamily": "PepiconsPop",
+      "identifier": "ticketCircle"
+    },
+    "ticket-circle-filled": {
+      "codepoint": 58533,
+      "fontFamily": "PepiconsPop",
+      "identifier": "ticketCircleFilled"
+    },
+    "ticket-circle-off": {
+      "codepoint": 58534,
+      "fontFamily": "PepiconsPop",
+      "identifier": "ticketCircleOff"
+    },
+    "ticket-off": {
+      "codepoint": 58535,
+      "fontFamily": "PepiconsPop",
+      "identifier": "ticketOff"
+    },
+    "times": {
+      "codepoint": 58536,
+      "fontFamily": "PepiconsPop",
+      "identifier": "times"
+    },
+    "times-circle": {
+      "codepoint": 58537,
+      "fontFamily": "PepiconsPop",
+      "identifier": "timesCircle"
+    },
+    "times-circle-filled": {
+      "codepoint": 58538,
+      "fontFamily": "PepiconsPop",
+      "identifier": "timesCircleFilled"
+    },
+    "times-circle-off": {
+      "codepoint": 58539,
+      "fontFamily": "PepiconsPop",
+      "identifier": "timesCircleOff"
+    },
+    "times-off": {
+      "codepoint": 58540,
+      "fontFamily": "PepiconsPop",
+      "identifier": "timesOff"
+    },
+    "tool": {
+      "codepoint": 58541,
+      "fontFamily": "PepiconsPop",
+      "identifier": "tool"
+    },
+    "train": {
+      "codepoint": 58542,
+      "fontFamily": "PepiconsPop",
+      "identifier": "train"
+    },
+    "train-circle": {
+      "codepoint": 58543,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trainCircle"
+    },
+    "train-circle-filled": {
+      "codepoint": 58544,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trainCircleFilled"
+    },
+    "train-circle-off": {
+      "codepoint": 58545,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trainCircleOff"
+    },
+    "train-off": {
+      "codepoint": 58546,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trainOff"
+    },
+    "trash": {
+      "codepoint": 58547,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trash"
+    },
+    "trash-circle": {
+      "codepoint": 58548,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trashCircle"
+    },
+    "trash-circle-filled": {
+      "codepoint": 58549,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trashCircleFilled"
+    },
+    "trash-circle-off": {
+      "codepoint": 58550,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trashCircleOff"
+    },
+    "trash-off": {
+      "codepoint": 58551,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trashOff"
+    },
+    "tree": {
+      "codepoint": 58552,
+      "fontFamily": "PepiconsPop",
+      "identifier": "tree"
+    },
+    "tree-circle": {
+      "codepoint": 58553,
+      "fontFamily": "PepiconsPop",
+      "identifier": "treeCircle"
+    },
+    "tree-circle-filled": {
+      "codepoint": 58554,
+      "fontFamily": "PepiconsPop",
+      "identifier": "treeCircleFilled"
+    },
+    "tree-circle-off": {
+      "codepoint": 58555,
+      "fontFamily": "PepiconsPop",
+      "identifier": "treeCircleOff"
+    },
+    "tree-off": {
+      "codepoint": 58556,
+      "fontFamily": "PepiconsPop",
+      "identifier": "treeOff"
+    },
+    "triangle-down": {
+      "codepoint": 58557,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleDown"
+    },
+    "triangle-down-circle": {
+      "codepoint": 58558,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleDownCircle"
+    },
+    "triangle-down-circle-filled": {
+      "codepoint": 58559,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleDownCircleFilled"
+    },
+    "triangle-down-circle-off": {
+      "codepoint": 58560,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleDownCircleOff"
+    },
+    "triangle-down-filled": {
+      "codepoint": 58561,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleDownFilled"
+    },
+    "triangle-down-filled-circle": {
+      "codepoint": 58562,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleDownFilledCircle"
+    },
+    "triangle-down-filled-circle-filled": {
+      "codepoint": 58563,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleDownFilledCircleFilled"
+    },
+    "triangle-down-filled-circle-off": {
+      "codepoint": 58564,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleDownFilledCircleOff"
+    },
+    "triangle-down-filled-off": {
+      "codepoint": 58565,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleDownFilledOff"
+    },
+    "triangle-down-off": {
+      "codepoint": 58566,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleDownOff"
+    },
+    "triangle-left": {
+      "codepoint": 58567,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleLeft"
+    },
+    "triangle-left-circle": {
+      "codepoint": 58568,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleLeftCircle"
+    },
+    "triangle-left-circle-filled": {
+      "codepoint": 58569,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleLeftCircleFilled"
+    },
+    "triangle-left-circle-off": {
+      "codepoint": 58570,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleLeftCircleOff"
+    },
+    "triangle-left-filled": {
+      "codepoint": 58571,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleLeftFilled"
+    },
+    "triangle-left-filled-circle": {
+      "codepoint": 58572,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleLeftFilledCircle"
+    },
+    "triangle-left-filled-circle-filled": {
+      "codepoint": 58573,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleLeftFilledCircleFilled"
+    },
+    "triangle-left-filled-circle-off": {
+      "codepoint": 58574,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleLeftFilledCircleOff"
+    },
+    "triangle-left-filled-off": {
+      "codepoint": 58575,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleLeftFilledOff"
+    },
+    "triangle-left-off": {
+      "codepoint": 58576,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleLeftOff"
+    },
+    "triangle-right": {
+      "codepoint": 58577,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleRight"
+    },
+    "triangle-right-circle": {
+      "codepoint": 58578,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleRightCircle"
+    },
+    "triangle-right-circle-filled": {
+      "codepoint": 58579,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleRightCircleFilled"
+    },
+    "triangle-right-circle-off": {
+      "codepoint": 58580,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleRightCircleOff"
+    },
+    "triangle-right-filled": {
+      "codepoint": 58581,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleRightFilled"
+    },
+    "triangle-right-filled-circle": {
+      "codepoint": 58582,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleRightFilledCircle"
+    },
+    "triangle-right-filled-circle-filled": {
+      "codepoint": 58583,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleRightFilledCircleFilled"
+    },
+    "triangle-right-filled-circle-off": {
+      "codepoint": 58584,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleRightFilledCircleOff"
+    },
+    "triangle-right-filled-off": {
+      "codepoint": 58585,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleRightFilledOff"
+    },
+    "triangle-right-off": {
+      "codepoint": 58586,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleRightOff"
+    },
+    "triangle-up": {
+      "codepoint": 58587,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleUp"
+    },
+    "triangle-up-circle": {
+      "codepoint": 58588,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleUpCircle"
+    },
+    "triangle-up-circle-filled": {
+      "codepoint": 58589,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleUpCircleFilled"
+    },
+    "triangle-up-circle-off": {
+      "codepoint": 58590,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleUpCircleOff"
+    },
+    "triangle-up-filled": {
+      "codepoint": 58591,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleUpFilled"
+    },
+    "triangle-up-filled-circle": {
+      "codepoint": 58592,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleUpFilledCircle"
+    },
+    "triangle-up-filled-circle-filled": {
+      "codepoint": 58593,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleUpFilledCircleFilled"
+    },
+    "triangle-up-filled-circle-off": {
+      "codepoint": 58594,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleUpFilledCircleOff"
+    },
+    "triangle-up-filled-off": {
+      "codepoint": 58595,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleUpFilledOff"
+    },
+    "triangle-up-off": {
+      "codepoint": 58596,
+      "fontFamily": "PepiconsPop",
+      "identifier": "triangleUpOff"
+    },
+    "trophy": {
+      "codepoint": 58597,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trophy"
+    },
+    "trophy-circle": {
+      "codepoint": 58598,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trophyCircle"
+    },
+    "trophy-circle-filled": {
+      "codepoint": 58599,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trophyCircleFilled"
+    },
+    "trophy-circle-off": {
+      "codepoint": 58600,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trophyCircleOff"
+    },
+    "trophy-off": {
+      "codepoint": 58601,
+      "fontFamily": "PepiconsPop",
+      "identifier": "trophyOff"
+    },
+    "truck": {
+      "codepoint": 58602,
+      "fontFamily": "PepiconsPop",
+      "identifier": "truck"
+    },
+    "truck-circle": {
+      "codepoint": 58603,
+      "fontFamily": "PepiconsPop",
+      "identifier": "truckCircle"
+    },
+    "truck-circle-filled": {
+      "codepoint": 58604,
+      "fontFamily": "PepiconsPop",
+      "identifier": "truckCircleFilled"
+    },
+    "truck-circle-off": {
+      "codepoint": 58605,
+      "fontFamily": "PepiconsPop",
+      "identifier": "truckCircleOff"
+    },
+    "truck-off": {
+      "codepoint": 58606,
+      "fontFamily": "PepiconsPop",
+      "identifier": "truckOff"
+    },
+    "umbrella": {
+      "codepoint": 58607,
+      "fontFamily": "PepiconsPop",
+      "identifier": "umbrella"
+    },
+    "umbrella-circle": {
+      "codepoint": 58608,
+      "fontFamily": "PepiconsPop",
+      "identifier": "umbrellaCircle"
+    },
+    "umbrella-circle-filled": {
+      "codepoint": 58609,
+      "fontFamily": "PepiconsPop",
+      "identifier": "umbrellaCircleFilled"
+    },
+    "umbrella-circle-off": {
+      "codepoint": 58610,
+      "fontFamily": "PepiconsPop",
+      "identifier": "umbrellaCircleOff"
+    },
+    "umbrella-off": {
+      "codepoint": 58611,
+      "fontFamily": "PepiconsPop",
+      "identifier": "umbrellaOff"
+    },
+    "watch": {
+      "codepoint": 58612,
+      "fontFamily": "PepiconsPop",
+      "identifier": "watch"
+    },
+    "watch-circle": {
+      "codepoint": 58613,
+      "fontFamily": "PepiconsPop",
+      "identifier": "watchCircle"
+    },
+    "watch-circle-filled": {
+      "codepoint": 58614,
+      "fontFamily": "PepiconsPop",
+      "identifier": "watchCircleFilled"
+    },
+    "watch-circle-off": {
+      "codepoint": 58615,
+      "fontFamily": "PepiconsPop",
+      "identifier": "watchCircleOff"
+    },
+    "watch-off": {
+      "codepoint": 58616,
+      "fontFamily": "PepiconsPop",
+      "identifier": "watchOff"
+    },
+    "water-drop": {
+      "codepoint": 58617,
+      "fontFamily": "PepiconsPop",
+      "identifier": "waterDrop"
+    },
+    "water-drop-circle": {
+      "codepoint": 58618,
+      "fontFamily": "PepiconsPop",
+      "identifier": "waterDropCircle"
+    },
+    "water-drop-circle-filled": {
+      "codepoint": 58619,
+      "fontFamily": "PepiconsPop",
+      "identifier": "waterDropCircleFilled"
+    },
+    "water-drop-circle-off": {
+      "codepoint": 58620,
+      "fontFamily": "PepiconsPop",
+      "identifier": "waterDropCircleOff"
+    },
+    "water-drop-off": {
+      "codepoint": 58621,
+      "fontFamily": "PepiconsPop",
+      "identifier": "waterDropOff"
+    },
+    "wifi": {
+      "codepoint": 58622,
+      "fontFamily": "PepiconsPop",
+      "identifier": "wifi"
+    },
+    "wifi-circle": {
+      "codepoint": 58623,
+      "fontFamily": "PepiconsPop",
+      "identifier": "wifiCircle"
+    },
+    "wifi-circle-filled": {
+      "codepoint": 58624,
+      "fontFamily": "PepiconsPop",
+      "identifier": "wifiCircleFilled"
+    },
+    "wifi-circle-off": {
+      "codepoint": 58625,
+      "fontFamily": "PepiconsPop",
+      "identifier": "wifiCircleOff"
+    },
+    "wifi-off": {
+      "codepoint": 58626,
+      "fontFamily": "PepiconsPop",
+      "identifier": "wifiOff"
+    },
+    "wrench": {
+      "codepoint": 58627,
+      "fontFamily": "PepiconsPop",
+      "identifier": "wrench"
+    },
+    "wrench-circle": {
+      "codepoint": 58628,
+      "fontFamily": "PepiconsPop",
+      "identifier": "wrenchCircle"
+    },
+    "wrench-circle-filled": {
+      "codepoint": 58629,
+      "fontFamily": "PepiconsPop",
+      "identifier": "wrenchCircleFilled"
+    },
+    "wrench-circle-off": {
+      "codepoint": 58630,
+      "fontFamily": "PepiconsPop",
+      "identifier": "wrenchCircleOff"
+    },
+    "wrench-off": {
+      "codepoint": 58631,
+      "fontFamily": "PepiconsPop",
+      "identifier": "wrenchOff"
+    },
+    "yen": {
+      "codepoint": 58632,
+      "fontFamily": "PepiconsPop",
+      "identifier": "yen"
+    },
+    "yen-circle": {
+      "codepoint": 58633,
+      "fontFamily": "PepiconsPop",
+      "identifier": "yenCircle"
+    },
+    "yen-circle-filled": {
+      "codepoint": 58634,
+      "fontFamily": "PepiconsPop",
+      "identifier": "yenCircleFilled"
+    },
+    "yen-circle-off": {
+      "codepoint": 58635,
+      "fontFamily": "PepiconsPop",
+      "identifier": "yenCircleOff"
+    },
+    "yen-off": {
+      "codepoint": 58636,
+      "fontFamily": "PepiconsPop",
+      "identifier": "yenOff"
+    },
+    "yuan": {
+      "codepoint": 58637,
+      "fontFamily": "PepiconsPop",
+      "identifier": "yuan"
+    },
+    "yuan-circle": {
+      "codepoint": 58638,
+      "fontFamily": "PepiconsPop",
+      "identifier": "yuanCircle"
+    },
+    "yuan-circle-filled": {
+      "codepoint": 58639,
+      "fontFamily": "PepiconsPop",
+      "identifier": "yuanCircleFilled"
+    },
+    "yuan-circle-off": {
+      "codepoint": 58640,
+      "fontFamily": "PepiconsPop",
+      "identifier": "yuanCircleOff"
+    },
+    "yuan-off": {
+      "codepoint": 58641,
+      "fontFamily": "PepiconsPop",
+      "identifier": "yuanOff"
+    }
+  }
+}

@@ -1,0 +1,3305 @@
+{
+  "schemaVersion": 1,
+  "prefix": "memory",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_memory",
+  "info": {
+    "name": "Memory Icons",
+    "author": {
+      "name": "Pictogrammers",
+      "url": "https://github.com/Pictogrammers/Memory"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Pictogrammers/Memory/blob/main/LICENSE"
+    },
+    "total": 655
+  },
+  "fonts": [
+    {
+      "family": "Memory",
+      "nextCodepoint": 57999,
+      "iconCount": 655
+    }
+  ],
+  "icons": {
+    "account": {
+      "codepoint": 57344,
+      "fontFamily": "Memory",
+      "identifier": "account"
+    },
+    "account-box": {
+      "codepoint": 57345,
+      "fontFamily": "Memory",
+      "identifier": "accountBox"
+    },
+    "alert": {
+      "codepoint": 57346,
+      "fontFamily": "Memory",
+      "identifier": "alert"
+    },
+    "alert-box": {
+      "codepoint": 57347,
+      "fontFamily": "Memory",
+      "identifier": "alertBox"
+    },
+    "alert-box-fill": {
+      "codepoint": 57348,
+      "fontFamily": "Memory",
+      "identifier": "alertBoxFill"
+    },
+    "alert-circle": {
+      "codepoint": 57349,
+      "fontFamily": "Memory",
+      "identifier": "alertCircle"
+    },
+    "alert-circle-fill": {
+      "codepoint": 57350,
+      "fontFamily": "Memory",
+      "identifier": "alertCircleFill"
+    },
+    "alert-hexagon": {
+      "codepoint": 57351,
+      "fontFamily": "Memory",
+      "identifier": "alertHexagon"
+    },
+    "alert-hexagon-fill": {
+      "codepoint": 57352,
+      "fontFamily": "Memory",
+      "identifier": "alertHexagonFill"
+    },
+    "alert-octagon": {
+      "codepoint": 57353,
+      "fontFamily": "Memory",
+      "identifier": "alertOctagon"
+    },
+    "alert-rhombus": {
+      "codepoint": 57354,
+      "fontFamily": "Memory",
+      "identifier": "alertRhombus"
+    },
+    "alert-rhombus-fill": {
+      "codepoint": 57355,
+      "fontFamily": "Memory",
+      "identifier": "alertRhombusFill"
+    },
+    "align-horizontal-center": {
+      "codepoint": 57356,
+      "fontFamily": "Memory",
+      "identifier": "alignHorizontalCenter"
+    },
+    "align-horizontal-distribute": {
+      "codepoint": 57357,
+      "fontFamily": "Memory",
+      "identifier": "alignHorizontalDistribute"
+    },
+    "align-horizontal-left": {
+      "codepoint": 57358,
+      "fontFamily": "Memory",
+      "identifier": "alignHorizontalLeft"
+    },
+    "align-horizontal-right": {
+      "codepoint": 57359,
+      "fontFamily": "Memory",
+      "identifier": "alignHorizontalRight"
+    },
+    "align-vertical-bottom": {
+      "codepoint": 57360,
+      "fontFamily": "Memory",
+      "identifier": "alignVerticalBottom"
+    },
+    "align-vertical-center": {
+      "codepoint": 57361,
+      "fontFamily": "Memory",
+      "identifier": "alignVerticalCenter"
+    },
+    "align-vertical-distribute": {
+      "codepoint": 57362,
+      "fontFamily": "Memory",
+      "identifier": "alignVerticalDistribute"
+    },
+    "align-vertical-top": {
+      "codepoint": 57363,
+      "fontFamily": "Memory",
+      "identifier": "alignVerticalTop"
+    },
+    "alpha-a": {
+      "codepoint": 57364,
+      "fontFamily": "Memory",
+      "identifier": "alphaA"
+    },
+    "alpha-a-fill": {
+      "codepoint": 57365,
+      "fontFamily": "Memory",
+      "identifier": "alphaAFill"
+    },
+    "alpha-b": {
+      "codepoint": 57366,
+      "fontFamily": "Memory",
+      "identifier": "alphaB"
+    },
+    "alpha-b-fill": {
+      "codepoint": 57367,
+      "fontFamily": "Memory",
+      "identifier": "alphaBFill"
+    },
+    "alpha-c": {
+      "codepoint": 57368,
+      "fontFamily": "Memory",
+      "identifier": "alphaC"
+    },
+    "alpha-c-fill": {
+      "codepoint": 57369,
+      "fontFamily": "Memory",
+      "identifier": "alphaCFill"
+    },
+    "alpha-d": {
+      "codepoint": 57370,
+      "fontFamily": "Memory",
+      "identifier": "alphaD"
+    },
+    "alpha-d-fill": {
+      "codepoint": 57371,
+      "fontFamily": "Memory",
+      "identifier": "alphaDFill"
+    },
+    "alpha-e": {
+      "codepoint": 57372,
+      "fontFamily": "Memory",
+      "identifier": "alphaE"
+    },
+    "alpha-e-fill": {
+      "codepoint": 57373,
+      "fontFamily": "Memory",
+      "identifier": "alphaEFill"
+    },
+    "alpha-f": {
+      "codepoint": 57374,
+      "fontFamily": "Memory",
+      "identifier": "alphaF"
+    },
+    "alpha-f-fill": {
+      "codepoint": 57375,
+      "fontFamily": "Memory",
+      "identifier": "alphaFFill"
+    },
+    "alpha-g": {
+      "codepoint": 57376,
+      "fontFamily": "Memory",
+      "identifier": "alphaG"
+    },
+    "alpha-g-fill": {
+      "codepoint": 57377,
+      "fontFamily": "Memory",
+      "identifier": "alphaGFill"
+    },
+    "alpha-h": {
+      "codepoint": 57378,
+      "fontFamily": "Memory",
+      "identifier": "alphaH"
+    },
+    "alpha-h-fill": {
+      "codepoint": 57379,
+      "fontFamily": "Memory",
+      "identifier": "alphaHFill"
+    },
+    "alpha-i": {
+      "codepoint": 57380,
+      "fontFamily": "Memory",
+      "identifier": "alphaI"
+    },
+    "alpha-i-fill": {
+      "codepoint": 57381,
+      "fontFamily": "Memory",
+      "identifier": "alphaIFill"
+    },
+    "alpha-j": {
+      "codepoint": 57382,
+      "fontFamily": "Memory",
+      "identifier": "alphaJ"
+    },
+    "alpha-j-fill": {
+      "codepoint": 57383,
+      "fontFamily": "Memory",
+      "identifier": "alphaJFill"
+    },
+    "alpha-k": {
+      "codepoint": 57384,
+      "fontFamily": "Memory",
+      "identifier": "alphaK"
+    },
+    "alpha-k-fill": {
+      "codepoint": 57385,
+      "fontFamily": "Memory",
+      "identifier": "alphaKFill"
+    },
+    "alpha-l": {
+      "codepoint": 57386,
+      "fontFamily": "Memory",
+      "identifier": "alphaL"
+    },
+    "alpha-l-fill": {
+      "codepoint": 57387,
+      "fontFamily": "Memory",
+      "identifier": "alphaLFill"
+    },
+    "alpha-m": {
+      "codepoint": 57388,
+      "fontFamily": "Memory",
+      "identifier": "alphaM"
+    },
+    "alpha-m-fill": {
+      "codepoint": 57389,
+      "fontFamily": "Memory",
+      "identifier": "alphaMFill"
+    },
+    "alpha-n": {
+      "codepoint": 57390,
+      "fontFamily": "Memory",
+      "identifier": "alphaN"
+    },
+    "alpha-n-fill": {
+      "codepoint": 57391,
+      "fontFamily": "Memory",
+      "identifier": "alphaNFill"
+    },
+    "alpha-o": {
+      "codepoint": 57392,
+      "fontFamily": "Memory",
+      "identifier": "alphaO"
+    },
+    "alpha-o-fill": {
+      "codepoint": 57393,
+      "fontFamily": "Memory",
+      "identifier": "alphaOFill"
+    },
+    "alpha-p": {
+      "codepoint": 57394,
+      "fontFamily": "Memory",
+      "identifier": "alphaP"
+    },
+    "alpha-p-fill": {
+      "codepoint": 57395,
+      "fontFamily": "Memory",
+      "identifier": "alphaPFill"
+    },
+    "alpha-q": {
+      "codepoint": 57396,
+      "fontFamily": "Memory",
+      "identifier": "alphaQ"
+    },
+    "alpha-q-fill": {
+      "codepoint": 57397,
+      "fontFamily": "Memory",
+      "identifier": "alphaQFill"
+    },
+    "alpha-r": {
+      "codepoint": 57398,
+      "fontFamily": "Memory",
+      "identifier": "alphaR"
+    },
+    "alpha-r-fill": {
+      "codepoint": 57399,
+      "fontFamily": "Memory",
+      "identifier": "alphaRFill"
+    },
+    "alpha-s": {
+      "codepoint": 57400,
+      "fontFamily": "Memory",
+      "identifier": "alphaS"
+    },
+    "alpha-s-fill": {
+      "codepoint": 57401,
+      "fontFamily": "Memory",
+      "identifier": "alphaSFill"
+    },
+    "alpha-t": {
+      "codepoint": 57402,
+      "fontFamily": "Memory",
+      "identifier": "alphaT"
+    },
+    "alpha-t-fill": {
+      "codepoint": 57403,
+      "fontFamily": "Memory",
+      "identifier": "alphaTFill"
+    },
+    "alpha-u": {
+      "codepoint": 57404,
+      "fontFamily": "Memory",
+      "identifier": "alphaU"
+    },
+    "alpha-u-fill": {
+      "codepoint": 57405,
+      "fontFamily": "Memory",
+      "identifier": "alphaUFill"
+    },
+    "alpha-v": {
+      "codepoint": 57406,
+      "fontFamily": "Memory",
+      "identifier": "alphaV"
+    },
+    "alpha-v-fill": {
+      "codepoint": 57407,
+      "fontFamily": "Memory",
+      "identifier": "alphaVFill"
+    },
+    "alpha-w": {
+      "codepoint": 57408,
+      "fontFamily": "Memory",
+      "identifier": "alphaW"
+    },
+    "alpha-w-fill": {
+      "codepoint": 57409,
+      "fontFamily": "Memory",
+      "identifier": "alphaWFill"
+    },
+    "alpha-x": {
+      "codepoint": 57410,
+      "fontFamily": "Memory",
+      "identifier": "alphaX"
+    },
+    "alpha-x-fill": {
+      "codepoint": 57411,
+      "fontFamily": "Memory",
+      "identifier": "alphaXFill"
+    },
+    "alpha-y": {
+      "codepoint": 57412,
+      "fontFamily": "Memory",
+      "identifier": "alphaY"
+    },
+    "alpha-y-fill": {
+      "codepoint": 57413,
+      "fontFamily": "Memory",
+      "identifier": "alphaYFill"
+    },
+    "alpha-z": {
+      "codepoint": 57414,
+      "fontFamily": "Memory",
+      "identifier": "alphaZ"
+    },
+    "alpha-z-fill": {
+      "codepoint": 57415,
+      "fontFamily": "Memory",
+      "identifier": "alphaZFill"
+    },
+    "anvil": {
+      "codepoint": 57416,
+      "fontFamily": "Memory",
+      "identifier": "anvil"
+    },
+    "application": {
+      "codepoint": 57417,
+      "fontFamily": "Memory",
+      "identifier": "application"
+    },
+    "application-code": {
+      "codepoint": 57418,
+      "fontFamily": "Memory",
+      "identifier": "applicationCode"
+    },
+    "apps": {
+      "codepoint": 57419,
+      "fontFamily": "Memory",
+      "identifier": "apps"
+    },
+    "apps-box": {
+      "codepoint": 57420,
+      "fontFamily": "Memory",
+      "identifier": "appsBox"
+    },
+    "apps-box-fill": {
+      "codepoint": 57421,
+      "fontFamily": "Memory",
+      "identifier": "appsBoxFill"
+    },
+    "archive": {
+      "codepoint": 57422,
+      "fontFamily": "Memory",
+      "identifier": "archive"
+    },
+    "arrow": {
+      "codepoint": 57423,
+      "fontFamily": "Memory",
+      "identifier": "arrow"
+    },
+    "arrow-bottom-left": {
+      "codepoint": 57424,
+      "fontFamily": "Memory",
+      "identifier": "arrowBottomLeft"
+    },
+    "arrow-bottom-left-circle": {
+      "codepoint": 57425,
+      "fontFamily": "Memory",
+      "identifier": "arrowBottomLeftCircle"
+    },
+    "arrow-bottom-right": {
+      "codepoint": 57426,
+      "fontFamily": "Memory",
+      "identifier": "arrowBottomRight"
+    },
+    "arrow-bottom-right-circle": {
+      "codepoint": 57427,
+      "fontFamily": "Memory",
+      "identifier": "arrowBottomRightCircle"
+    },
+    "arrow-down": {
+      "codepoint": 57428,
+      "fontFamily": "Memory",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-bold": {
+      "codepoint": 57429,
+      "fontFamily": "Memory",
+      "identifier": "arrowDownBold"
+    },
+    "arrow-down-box": {
+      "codepoint": 57430,
+      "fontFamily": "Memory",
+      "identifier": "arrowDownBox"
+    },
+    "arrow-down-circle": {
+      "codepoint": 57431,
+      "fontFamily": "Memory",
+      "identifier": "arrowDownCircle"
+    },
+    "arrow-down-left": {
+      "codepoint": 57432,
+      "fontFamily": "Memory",
+      "identifier": "arrowDownLeft"
+    },
+    "arrow-down-left-box": {
+      "codepoint": 57433,
+      "fontFamily": "Memory",
+      "identifier": "arrowDownLeftBox"
+    },
+    "arrow-down-right": {
+      "codepoint": 57434,
+      "fontFamily": "Memory",
+      "identifier": "arrowDownRight"
+    },
+    "arrow-down-right-box": {
+      "codepoint": 57435,
+      "fontFamily": "Memory",
+      "identifier": "arrowDownRightBox"
+    },
+    "arrow-left": {
+      "codepoint": 57436,
+      "fontFamily": "Memory",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-bold": {
+      "codepoint": 57437,
+      "fontFamily": "Memory",
+      "identifier": "arrowLeftBold"
+    },
+    "arrow-left-box": {
+      "codepoint": 57438,
+      "fontFamily": "Memory",
+      "identifier": "arrowLeftBox"
+    },
+    "arrow-left-circle": {
+      "codepoint": 57439,
+      "fontFamily": "Memory",
+      "identifier": "arrowLeftCircle"
+    },
+    "arrow-left-down": {
+      "codepoint": 57440,
+      "fontFamily": "Memory",
+      "identifier": "arrowLeftDown"
+    },
+    "arrow-left-right": {
+      "codepoint": 57441,
+      "fontFamily": "Memory",
+      "identifier": "arrowLeftRight"
+    },
+    "arrow-left-up": {
+      "codepoint": 57442,
+      "fontFamily": "Memory",
+      "identifier": "arrowLeftUp"
+    },
+    "arrow-right": {
+      "codepoint": 57443,
+      "fontFamily": "Memory",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-bold": {
+      "codepoint": 57444,
+      "fontFamily": "Memory",
+      "identifier": "arrowRightBold"
+    },
+    "arrow-right-box": {
+      "codepoint": 57445,
+      "fontFamily": "Memory",
+      "identifier": "arrowRightBox"
+    },
+    "arrow-right-circle": {
+      "codepoint": 57446,
+      "fontFamily": "Memory",
+      "identifier": "arrowRightCircle"
+    },
+    "arrow-right-down": {
+      "codepoint": 57447,
+      "fontFamily": "Memory",
+      "identifier": "arrowRightDown"
+    },
+    "arrow-right-up": {
+      "codepoint": 57448,
+      "fontFamily": "Memory",
+      "identifier": "arrowRightUp"
+    },
+    "arrow-top-left": {
+      "codepoint": 57449,
+      "fontFamily": "Memory",
+      "identifier": "arrowTopLeft"
+    },
+    "arrow-top-left-circle": {
+      "codepoint": 57450,
+      "fontFamily": "Memory",
+      "identifier": "arrowTopLeftCircle"
+    },
+    "arrow-top-right": {
+      "codepoint": 57451,
+      "fontFamily": "Memory",
+      "identifier": "arrowTopRight"
+    },
+    "arrow-top-right-circle": {
+      "codepoint": 57452,
+      "fontFamily": "Memory",
+      "identifier": "arrowTopRightCircle"
+    },
+    "arrow-up": {
+      "codepoint": 57453,
+      "fontFamily": "Memory",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-bold": {
+      "codepoint": 57454,
+      "fontFamily": "Memory",
+      "identifier": "arrowUpBold"
+    },
+    "arrow-up-box": {
+      "codepoint": 57455,
+      "fontFamily": "Memory",
+      "identifier": "arrowUpBox"
+    },
+    "arrow-up-circle": {
+      "codepoint": 57456,
+      "fontFamily": "Memory",
+      "identifier": "arrowUpCircle"
+    },
+    "arrow-up-down": {
+      "codepoint": 57457,
+      "fontFamily": "Memory",
+      "identifier": "arrowUpDown"
+    },
+    "arrow-up-left": {
+      "codepoint": 57458,
+      "fontFamily": "Memory",
+      "identifier": "arrowUpLeft"
+    },
+    "arrow-up-left-box": {
+      "codepoint": 57459,
+      "fontFamily": "Memory",
+      "identifier": "arrowUpLeftBox"
+    },
+    "arrow-up-right": {
+      "codepoint": 57460,
+      "fontFamily": "Memory",
+      "identifier": "arrowUpRight"
+    },
+    "arrow-up-right-box": {
+      "codepoint": 57461,
+      "fontFamily": "Memory",
+      "identifier": "arrowUpRightBox"
+    },
+    "aspect-ratio": {
+      "codepoint": 57462,
+      "fontFamily": "Memory",
+      "identifier": "aspectRatio"
+    },
+    "axe": {
+      "codepoint": 57463,
+      "fontFamily": "Memory",
+      "identifier": "axe"
+    },
+    "bag-personal": {
+      "codepoint": 57464,
+      "fontFamily": "Memory",
+      "identifier": "bagPersonal"
+    },
+    "bag-personal-fill": {
+      "codepoint": 57465,
+      "fontFamily": "Memory",
+      "identifier": "bagPersonalFill"
+    },
+    "bank": {
+      "codepoint": 57466,
+      "fontFamily": "Memory",
+      "identifier": "bank"
+    },
+    "barcode": {
+      "codepoint": 57467,
+      "fontFamily": "Memory",
+      "identifier": "barcode"
+    },
+    "battery-0": {
+      "codepoint": 57468,
+      "fontFamily": "Memory",
+      "identifier": "battery0"
+    },
+    "battery-100": {
+      "codepoint": 57469,
+      "fontFamily": "Memory",
+      "identifier": "battery100"
+    },
+    "battery-25": {
+      "codepoint": 57470,
+      "fontFamily": "Memory",
+      "identifier": "battery25"
+    },
+    "battery-50": {
+      "codepoint": 57471,
+      "fontFamily": "Memory",
+      "identifier": "battery50"
+    },
+    "battery-75": {
+      "codepoint": 57472,
+      "fontFamily": "Memory",
+      "identifier": "battery75"
+    },
+    "battle-axe": {
+      "codepoint": 57473,
+      "fontFamily": "Memory",
+      "identifier": "battleAxe"
+    },
+    "beer": {
+      "codepoint": 57474,
+      "fontFamily": "Memory",
+      "identifier": "beer"
+    },
+    "bell": {
+      "codepoint": 57475,
+      "fontFamily": "Memory",
+      "identifier": "bell"
+    },
+    "blood": {
+      "codepoint": 57476,
+      "fontFamily": "Memory",
+      "identifier": "blood"
+    },
+    "book": {
+      "codepoint": 57477,
+      "fontFamily": "Memory",
+      "identifier": "book"
+    },
+    "bookmark": {
+      "codepoint": 57478,
+      "fontFamily": "Memory",
+      "identifier": "bookmark"
+    },
+    "border-bottom": {
+      "codepoint": 57479,
+      "fontFamily": "Memory",
+      "identifier": "borderBottom"
+    },
+    "border-bottom-left": {
+      "codepoint": 57480,
+      "fontFamily": "Memory",
+      "identifier": "borderBottomLeft"
+    },
+    "border-bottom-left-right": {
+      "codepoint": 57481,
+      "fontFamily": "Memory",
+      "identifier": "borderBottomLeftRight"
+    },
+    "border-bottom-right": {
+      "codepoint": 57482,
+      "fontFamily": "Memory",
+      "identifier": "borderBottomRight"
+    },
+    "border-inside": {
+      "codepoint": 57483,
+      "fontFamily": "Memory",
+      "identifier": "borderInside"
+    },
+    "border-left": {
+      "codepoint": 57484,
+      "fontFamily": "Memory",
+      "identifier": "borderLeft"
+    },
+    "border-left-right": {
+      "codepoint": 57485,
+      "fontFamily": "Memory",
+      "identifier": "borderLeftRight"
+    },
+    "border-none": {
+      "codepoint": 57486,
+      "fontFamily": "Memory",
+      "identifier": "borderNone"
+    },
+    "border-outside": {
+      "codepoint": 57487,
+      "fontFamily": "Memory",
+      "identifier": "borderOutside"
+    },
+    "border-right": {
+      "codepoint": 57488,
+      "fontFamily": "Memory",
+      "identifier": "borderRight"
+    },
+    "border-top": {
+      "codepoint": 57489,
+      "fontFamily": "Memory",
+      "identifier": "borderTop"
+    },
+    "border-top-bottom": {
+      "codepoint": 57490,
+      "fontFamily": "Memory",
+      "identifier": "borderTopBottom"
+    },
+    "border-top-left": {
+      "codepoint": 57491,
+      "fontFamily": "Memory",
+      "identifier": "borderTopLeft"
+    },
+    "border-top-left-bottom": {
+      "codepoint": 57492,
+      "fontFamily": "Memory",
+      "identifier": "borderTopLeftBottom"
+    },
+    "border-top-left-right": {
+      "codepoint": 57493,
+      "fontFamily": "Memory",
+      "identifier": "borderTopLeftRight"
+    },
+    "border-top-right": {
+      "codepoint": 57494,
+      "fontFamily": "Memory",
+      "identifier": "borderTopRight"
+    },
+    "border-top-right-bottom": {
+      "codepoint": 57495,
+      "fontFamily": "Memory",
+      "identifier": "borderTopRightBottom"
+    },
+    "bow": {
+      "codepoint": 57496,
+      "fontFamily": "Memory",
+      "identifier": "bow"
+    },
+    "bow-arrow": {
+      "codepoint": 57497,
+      "fontFamily": "Memory",
+      "identifier": "bowArrow"
+    },
+    "box": {
+      "codepoint": 57498,
+      "fontFamily": "Memory",
+      "identifier": "box"
+    },
+    "box-light-dashed-down-left": {
+      "codepoint": 57499,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDashedDownLeft"
+    },
+    "box-light-dashed-down-right": {
+      "codepoint": 57500,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDashedDownRight"
+    },
+    "box-light-dashed-horizontal": {
+      "codepoint": 57501,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDashedHorizontal"
+    },
+    "box-light-dashed-up-left": {
+      "codepoint": 57502,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDashedUpLeft"
+    },
+    "box-light-dashed-up-right": {
+      "codepoint": 57503,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDashedUpRight"
+    },
+    "box-light-dashed-vertical": {
+      "codepoint": 57504,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDashedVertical"
+    },
+    "box-light-dashed-vertical-horizontal": {
+      "codepoint": 57505,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDashedVerticalHorizontal"
+    },
+    "box-light-double-down-left": {
+      "codepoint": 57506,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleDownLeft"
+    },
+    "box-light-double-down-right": {
+      "codepoint": 57507,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleDownRight"
+    },
+    "box-light-double-horizontal": {
+      "codepoint": 57508,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleHorizontal"
+    },
+    "box-light-double-horizontal-down": {
+      "codepoint": 57509,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleHorizontalDown"
+    },
+    "box-light-double-horizontal-light-down": {
+      "codepoint": 57510,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleHorizontalLightDown"
+    },
+    "box-light-double-horizontal-light-up": {
+      "codepoint": 57511,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleHorizontalLightUp"
+    },
+    "box-light-double-horizontal-up": {
+      "codepoint": 57512,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleHorizontalUp"
+    },
+    "box-light-double-round-down-left": {
+      "codepoint": 57513,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleRoundDownLeft"
+    },
+    "box-light-double-round-down-right": {
+      "codepoint": 57514,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleRoundDownRight"
+    },
+    "box-light-double-round-up-left": {
+      "codepoint": 57515,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleRoundUpLeft"
+    },
+    "box-light-double-round-up-right": {
+      "codepoint": 57516,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleRoundUpRight"
+    },
+    "box-light-double-up-left": {
+      "codepoint": 57517,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleUpLeft"
+    },
+    "box-light-double-up-right": {
+      "codepoint": 57518,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleUpRight"
+    },
+    "box-light-double-vertical": {
+      "codepoint": 57519,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleVertical"
+    },
+    "box-light-double-vertical-horizontal": {
+      "codepoint": 57520,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleVerticalHorizontal"
+    },
+    "box-light-double-vertical-left": {
+      "codepoint": 57521,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleVerticalLeft"
+    },
+    "box-light-double-vertical-light-left": {
+      "codepoint": 57522,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleVerticalLightLeft"
+    },
+    "box-light-double-vertical-light-right": {
+      "codepoint": 57523,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleVerticalLightRight"
+    },
+    "box-light-double-vertical-right": {
+      "codepoint": 57524,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDoubleVerticalRight"
+    },
+    "box-light-down-left": {
+      "codepoint": 57525,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDownLeft"
+    },
+    "box-light-down-left-circle": {
+      "codepoint": 57526,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDownLeftCircle"
+    },
+    "box-light-down-left-stipple": {
+      "codepoint": 57527,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDownLeftStipple"
+    },
+    "box-light-down-left-stipple-inner": {
+      "codepoint": 57528,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDownLeftStippleInner"
+    },
+    "box-light-down-left-stipple-outer": {
+      "codepoint": 57529,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDownLeftStippleOuter"
+    },
+    "box-light-down-right": {
+      "codepoint": 57530,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDownRight"
+    },
+    "box-light-down-right-circle": {
+      "codepoint": 57531,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDownRightCircle"
+    },
+    "box-light-down-right-stipple": {
+      "codepoint": 57532,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDownRightStipple"
+    },
+    "box-light-down-right-stipple-inner": {
+      "codepoint": 57533,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDownRightStippleInner"
+    },
+    "box-light-down-right-stipple-outer": {
+      "codepoint": 57534,
+      "fontFamily": "Memory",
+      "identifier": "boxLightDownRightStippleOuter"
+    },
+    "box-light-fold-down-left": {
+      "codepoint": 57535,
+      "fontFamily": "Memory",
+      "identifier": "boxLightFoldDownLeft"
+    },
+    "box-light-fold-down-right": {
+      "codepoint": 57536,
+      "fontFamily": "Memory",
+      "identifier": "boxLightFoldDownRight"
+    },
+    "box-light-fold-up-left": {
+      "codepoint": 57537,
+      "fontFamily": "Memory",
+      "identifier": "boxLightFoldUpLeft"
+    },
+    "box-light-fold-up-right": {
+      "codepoint": 57538,
+      "fontFamily": "Memory",
+      "identifier": "boxLightFoldUpRight"
+    },
+    "box-light-horizontal": {
+      "codepoint": 57539,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontal"
+    },
+    "box-light-horizontal-circle": {
+      "codepoint": 57540,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalCircle"
+    },
+    "box-light-horizontal-down": {
+      "codepoint": 57541,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalDown"
+    },
+    "box-light-horizontal-down-stipple": {
+      "codepoint": 57542,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalDownStipple"
+    },
+    "box-light-horizontal-down-stipple-down": {
+      "codepoint": 57543,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalDownStippleDown"
+    },
+    "box-light-horizontal-down-stipple-down-left": {
+      "codepoint": 57544,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalDownStippleDownLeft"
+    },
+    "box-light-horizontal-down-stipple-down-right": {
+      "codepoint": 57545,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalDownStippleDownRight"
+    },
+    "box-light-horizontal-menu-down": {
+      "codepoint": 57546,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalMenuDown"
+    },
+    "box-light-horizontal-menu-left": {
+      "codepoint": 57547,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalMenuLeft"
+    },
+    "box-light-horizontal-menu-right": {
+      "codepoint": 57548,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalMenuRight"
+    },
+    "box-light-horizontal-menu-up": {
+      "codepoint": 57549,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalMenuUp"
+    },
+    "box-light-horizontal-stipple": {
+      "codepoint": 57550,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalStipple"
+    },
+    "box-light-horizontal-stipple-down": {
+      "codepoint": 57551,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalStippleDown"
+    },
+    "box-light-horizontal-stipple-up": {
+      "codepoint": 57552,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalStippleUp"
+    },
+    "box-light-horizontal-up": {
+      "codepoint": 57553,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalUp"
+    },
+    "box-light-horizontal-up-stipple": {
+      "codepoint": 57554,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalUpStipple"
+    },
+    "box-light-horizontal-up-stipple-down": {
+      "codepoint": 57555,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalUpStippleDown"
+    },
+    "box-light-horizontal-up-stipple-up": {
+      "codepoint": 57556,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalUpStippleUp"
+    },
+    "box-light-horizontal-up-stipple-up-left": {
+      "codepoint": 57557,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalUpStippleUpLeft"
+    },
+    "box-light-horizontal-up-stipple-up-right": {
+      "codepoint": 57558,
+      "fontFamily": "Memory",
+      "identifier": "boxLightHorizontalUpStippleUpRight"
+    },
+    "box-light-round-down-left": {
+      "codepoint": 57559,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundDownLeft"
+    },
+    "box-light-round-down-left-stipple": {
+      "codepoint": 57560,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundDownLeftStipple"
+    },
+    "box-light-round-down-left-stipple-inner": {
+      "codepoint": 57561,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundDownLeftStippleInner"
+    },
+    "box-light-round-down-left-stipple-outer": {
+      "codepoint": 57562,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundDownLeftStippleOuter"
+    },
+    "box-light-round-down-right": {
+      "codepoint": 57563,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundDownRight"
+    },
+    "box-light-round-down-right-stipple": {
+      "codepoint": 57564,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundDownRightStipple"
+    },
+    "box-light-round-down-right-stipple-inner": {
+      "codepoint": 57565,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundDownRightStippleInner"
+    },
+    "box-light-round-down-right-stipple-outer": {
+      "codepoint": 57566,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundDownRightStippleOuter"
+    },
+    "box-light-round-up-left": {
+      "codepoint": 57567,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundUpLeft"
+    },
+    "box-light-round-up-left-stipple": {
+      "codepoint": 57568,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundUpLeftStipple"
+    },
+    "box-light-round-up-left-stipple-inner": {
+      "codepoint": 57569,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundUpLeftStippleInner"
+    },
+    "box-light-round-up-left-stipple-outer": {
+      "codepoint": 57570,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundUpLeftStippleOuter"
+    },
+    "box-light-round-up-right": {
+      "codepoint": 57571,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundUpRight"
+    },
+    "box-light-round-up-right-stipple": {
+      "codepoint": 57572,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundUpRightStipple"
+    },
+    "box-light-round-up-right-stipple-inner": {
+      "codepoint": 57573,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundUpRightStippleInner"
+    },
+    "box-light-round-up-right-stipple-outer": {
+      "codepoint": 57574,
+      "fontFamily": "Memory",
+      "identifier": "boxLightRoundUpRightStippleOuter"
+    },
+    "box-light-up-left": {
+      "codepoint": 57575,
+      "fontFamily": "Memory",
+      "identifier": "boxLightUpLeft"
+    },
+    "box-light-up-left-circle": {
+      "codepoint": 57576,
+      "fontFamily": "Memory",
+      "identifier": "boxLightUpLeftCircle"
+    },
+    "box-light-up-left-stipple": {
+      "codepoint": 57577,
+      "fontFamily": "Memory",
+      "identifier": "boxLightUpLeftStipple"
+    },
+    "box-light-up-left-stipple-inner": {
+      "codepoint": 57578,
+      "fontFamily": "Memory",
+      "identifier": "boxLightUpLeftStippleInner"
+    },
+    "box-light-up-left-stipple-outer": {
+      "codepoint": 57579,
+      "fontFamily": "Memory",
+      "identifier": "boxLightUpLeftStippleOuter"
+    },
+    "box-light-up-right": {
+      "codepoint": 57580,
+      "fontFamily": "Memory",
+      "identifier": "boxLightUpRight"
+    },
+    "box-light-up-right-circle": {
+      "codepoint": 57581,
+      "fontFamily": "Memory",
+      "identifier": "boxLightUpRightCircle"
+    },
+    "box-light-up-right-stipple": {
+      "codepoint": 57582,
+      "fontFamily": "Memory",
+      "identifier": "boxLightUpRightStipple"
+    },
+    "box-light-up-right-stipple-inner": {
+      "codepoint": 57583,
+      "fontFamily": "Memory",
+      "identifier": "boxLightUpRightStippleInner"
+    },
+    "box-light-up-right-stipple-outer": {
+      "codepoint": 57584,
+      "fontFamily": "Memory",
+      "identifier": "boxLightUpRightStippleOuter"
+    },
+    "box-light-vertical": {
+      "codepoint": 57585,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVertical"
+    },
+    "box-light-vertical-circle": {
+      "codepoint": 57586,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalCircle"
+    },
+    "box-light-vertical-horizontal": {
+      "codepoint": 57587,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontal"
+    },
+    "box-light-vertical-horizontal-stipple": {
+      "codepoint": 57588,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStipple"
+    },
+    "box-light-vertical-horizontal-stipple-down": {
+      "codepoint": 57589,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStippleDown"
+    },
+    "box-light-vertical-horizontal-stipple-down-left": {
+      "codepoint": 57590,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStippleDownLeft"
+    },
+    "box-light-vertical-horizontal-stipple-down-right": {
+      "codepoint": 57591,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStippleDownRight"
+    },
+    "box-light-vertical-horizontal-stipple-left": {
+      "codepoint": 57592,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStippleLeft"
+    },
+    "box-light-vertical-horizontal-stipple-left-down-right": {
+      "codepoint": 57593,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStippleLeftDownRight"
+    },
+    "box-light-vertical-horizontal-stipple-left-up-right": {
+      "codepoint": 57594,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStippleLeftUpRight"
+    },
+    "box-light-vertical-horizontal-stipple-right": {
+      "codepoint": 57595,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStippleRight"
+    },
+    "box-light-vertical-horizontal-stipple-right-down-left": {
+      "codepoint": 57596,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStippleRightDownLeft"
+    },
+    "box-light-vertical-horizontal-stipple-right-up-left": {
+      "codepoint": 57597,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStippleRightUpLeft"
+    },
+    "box-light-vertical-horizontal-stipple-up": {
+      "codepoint": 57598,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStippleUp"
+    },
+    "box-light-vertical-horizontal-stipple-up-left": {
+      "codepoint": 57599,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStippleUpLeft"
+    },
+    "box-light-vertical-horizontal-stipple-up-right": {
+      "codepoint": 57600,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalHorizontalStippleUpRight"
+    },
+    "box-light-vertical-left": {
+      "codepoint": 57601,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalLeft"
+    },
+    "box-light-vertical-left-stipple": {
+      "codepoint": 57602,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalLeftStipple"
+    },
+    "box-light-vertical-left-stipple-down-left": {
+      "codepoint": 57603,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalLeftStippleDownLeft"
+    },
+    "box-light-vertical-left-stipple-left": {
+      "codepoint": 57604,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalLeftStippleLeft"
+    },
+    "box-light-vertical-left-stipple-up-left": {
+      "codepoint": 57605,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalLeftStippleUpLeft"
+    },
+    "box-light-vertical-menu-down": {
+      "codepoint": 57606,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalMenuDown"
+    },
+    "box-light-vertical-menu-left": {
+      "codepoint": 57607,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalMenuLeft"
+    },
+    "box-light-vertical-menu-right": {
+      "codepoint": 57608,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalMenuRight"
+    },
+    "box-light-vertical-menu-up": {
+      "codepoint": 57609,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalMenuUp"
+    },
+    "box-light-vertical-right": {
+      "codepoint": 57610,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalRight"
+    },
+    "box-light-vertical-right-stipple": {
+      "codepoint": 57611,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalRightStipple"
+    },
+    "box-light-vertical-right-stipple-down-right": {
+      "codepoint": 57612,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalRightStippleDownRight"
+    },
+    "box-light-vertical-right-stipple-left": {
+      "codepoint": 57613,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalRightStippleLeft"
+    },
+    "box-light-vertical-right-stipple-right": {
+      "codepoint": 57614,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalRightStippleRight"
+    },
+    "box-light-vertical-right-stipple-up-right": {
+      "codepoint": 57615,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalRightStippleUpRight"
+    },
+    "box-light-vertical-stipple": {
+      "codepoint": 57616,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalStipple"
+    },
+    "box-light-vertical-stipple-left": {
+      "codepoint": 57617,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalStippleLeft"
+    },
+    "box-light-vertical-stipple-right": {
+      "codepoint": 57618,
+      "fontFamily": "Memory",
+      "identifier": "boxLightVerticalStippleRight"
+    },
+    "box-outer-light-all": {
+      "codepoint": 57619,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightAll"
+    },
+    "box-outer-light-dashed-all": {
+      "codepoint": 57620,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedAll"
+    },
+    "box-outer-light-dashed-down": {
+      "codepoint": 57621,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedDown"
+    },
+    "box-outer-light-dashed-down-left": {
+      "codepoint": 57622,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedDownLeft"
+    },
+    "box-outer-light-dashed-down-left-right": {
+      "codepoint": 57623,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedDownLeftRight"
+    },
+    "box-outer-light-dashed-down-right": {
+      "codepoint": 57624,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedDownRight"
+    },
+    "box-outer-light-dashed-fold-down-left": {
+      "codepoint": 57625,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedFoldDownLeft"
+    },
+    "box-outer-light-dashed-fold-down-right": {
+      "codepoint": 57626,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedFoldDownRight"
+    },
+    "box-outer-light-dashed-fold-up-left": {
+      "codepoint": 57627,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedFoldUpLeft"
+    },
+    "box-outer-light-dashed-fold-up-right": {
+      "codepoint": 57628,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedFoldUpRight"
+    },
+    "box-outer-light-dashed-left": {
+      "codepoint": 57629,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedLeft"
+    },
+    "box-outer-light-dashed-left-right": {
+      "codepoint": 57630,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedLeftRight"
+    },
+    "box-outer-light-dashed-right": {
+      "codepoint": 57631,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedRight"
+    },
+    "box-outer-light-dashed-up": {
+      "codepoint": 57632,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedUp"
+    },
+    "box-outer-light-dashed-up-down": {
+      "codepoint": 57633,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedUpDown"
+    },
+    "box-outer-light-dashed-up-down-left": {
+      "codepoint": 57634,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedUpDownLeft"
+    },
+    "box-outer-light-dashed-up-down-right": {
+      "codepoint": 57635,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedUpDownRight"
+    },
+    "box-outer-light-dashed-up-left": {
+      "codepoint": 57636,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedUpLeft"
+    },
+    "box-outer-light-dashed-up-left-right": {
+      "codepoint": 57637,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedUpLeftRight"
+    },
+    "box-outer-light-dashed-up-right": {
+      "codepoint": 57638,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDashedUpRight"
+    },
+    "box-outer-light-down": {
+      "codepoint": 57639,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDown"
+    },
+    "box-outer-light-down-left": {
+      "codepoint": 57640,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDownLeft"
+    },
+    "box-outer-light-down-left-right": {
+      "codepoint": 57641,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDownLeftRight"
+    },
+    "box-outer-light-down-left-stipple": {
+      "codepoint": 57642,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDownLeftStipple"
+    },
+    "box-outer-light-down-right": {
+      "codepoint": 57643,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDownRight"
+    },
+    "box-outer-light-down-right-stipple": {
+      "codepoint": 57644,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDownRightStipple"
+    },
+    "box-outer-light-down-stipple": {
+      "codepoint": 57645,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDownStipple"
+    },
+    "box-outer-light-down-vertical-stipple": {
+      "codepoint": 57646,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDownVerticalStipple"
+    },
+    "box-outer-light-down-vertical-stipple-left": {
+      "codepoint": 57647,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDownVerticalStippleLeft"
+    },
+    "box-outer-light-down-vertical-stipple-right": {
+      "codepoint": 57648,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightDownVerticalStippleRight"
+    },
+    "box-outer-light-left": {
+      "codepoint": 57649,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightLeft"
+    },
+    "box-outer-light-left-horizontal-stipple": {
+      "codepoint": 57650,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightLeftHorizontalStipple"
+    },
+    "box-outer-light-left-horizontal-stipple-down": {
+      "codepoint": 57651,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightLeftHorizontalStippleDown"
+    },
+    "box-outer-light-left-horizontal-stipple-up": {
+      "codepoint": 57652,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightLeftHorizontalStippleUp"
+    },
+    "box-outer-light-left-right": {
+      "codepoint": 57653,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightLeftRight"
+    },
+    "box-outer-light-left-right-stipple": {
+      "codepoint": 57654,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightLeftRightStipple"
+    },
+    "box-outer-light-left-stipple": {
+      "codepoint": 57655,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightLeftStipple"
+    },
+    "box-outer-light-right": {
+      "codepoint": 57656,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightRight"
+    },
+    "box-outer-light-right-horizontal-stipple": {
+      "codepoint": 57657,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightRightHorizontalStipple"
+    },
+    "box-outer-light-right-horizontal-stipple-down": {
+      "codepoint": 57658,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightRightHorizontalStippleDown"
+    },
+    "box-outer-light-right-horizontal-stipple-up": {
+      "codepoint": 57659,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightRightHorizontalStippleUp"
+    },
+    "box-outer-light-right-stipple": {
+      "codepoint": 57660,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightRightStipple"
+    },
+    "box-outer-light-round-down-left": {
+      "codepoint": 57661,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightRoundDownLeft"
+    },
+    "box-outer-light-round-down-right": {
+      "codepoint": 57662,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightRoundDownRight"
+    },
+    "box-outer-light-round-up-left": {
+      "codepoint": 57663,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightRoundUpLeft"
+    },
+    "box-outer-light-round-up-right": {
+      "codepoint": 57664,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightRoundUpRight"
+    },
+    "box-outer-light-up": {
+      "codepoint": 57665,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUp"
+    },
+    "box-outer-light-up-down": {
+      "codepoint": 57666,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpDown"
+    },
+    "box-outer-light-up-down-left": {
+      "codepoint": 57667,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpDownLeft"
+    },
+    "box-outer-light-up-down-right": {
+      "codepoint": 57668,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpDownRight"
+    },
+    "box-outer-light-up-down-stipple": {
+      "codepoint": 57669,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpDownStipple"
+    },
+    "box-outer-light-up-left": {
+      "codepoint": 57670,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpLeft"
+    },
+    "box-outer-light-up-left-right": {
+      "codepoint": 57671,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpLeftRight"
+    },
+    "box-outer-light-up-left-stipple": {
+      "codepoint": 57672,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpLeftStipple"
+    },
+    "box-outer-light-up-right": {
+      "codepoint": 57673,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpRight"
+    },
+    "box-outer-light-up-right-stipple": {
+      "codepoint": 57674,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpRightStipple"
+    },
+    "box-outer-light-up-stipple": {
+      "codepoint": 57675,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpStipple"
+    },
+    "box-outer-light-up-vertical-stipple": {
+      "codepoint": 57676,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpVerticalStipple"
+    },
+    "box-outer-light-up-vertical-stipple-left": {
+      "codepoint": 57677,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpVerticalStippleLeft"
+    },
+    "box-outer-light-up-vertical-stipple-right": {
+      "codepoint": 57678,
+      "fontFamily": "Memory",
+      "identifier": "boxOuterLightUpVerticalStippleRight"
+    },
+    "briefcase": {
+      "codepoint": 57679,
+      "fontFamily": "Memory",
+      "identifier": "briefcase"
+    },
+    "broadcast": {
+      "codepoint": 57680,
+      "fontFamily": "Memory",
+      "identifier": "broadcast"
+    },
+    "bug": {
+      "codepoint": 57681,
+      "fontFamily": "Memory",
+      "identifier": "bug"
+    },
+    "bug-fill": {
+      "codepoint": 57682,
+      "fontFamily": "Memory",
+      "identifier": "bugFill"
+    },
+    "calculator": {
+      "codepoint": 57683,
+      "fontFamily": "Memory",
+      "identifier": "calculator"
+    },
+    "calendar": {
+      "codepoint": 57684,
+      "fontFamily": "Memory",
+      "identifier": "calendar"
+    },
+    "calendar-import": {
+      "codepoint": 57685,
+      "fontFamily": "Memory",
+      "identifier": "calendarImport"
+    },
+    "calendar-month": {
+      "codepoint": 57686,
+      "fontFamily": "Memory",
+      "identifier": "calendarMonth"
+    },
+    "cancel": {
+      "codepoint": 57687,
+      "fontFamily": "Memory",
+      "identifier": "cancel"
+    },
+    "card": {
+      "codepoint": 57688,
+      "fontFamily": "Memory",
+      "identifier": "card"
+    },
+    "card-text": {
+      "codepoint": 57689,
+      "fontFamily": "Memory",
+      "identifier": "cardText"
+    },
+    "cart": {
+      "codepoint": 57690,
+      "fontFamily": "Memory",
+      "identifier": "cart"
+    },
+    "cash": {
+      "codepoint": 57691,
+      "fontFamily": "Memory",
+      "identifier": "cash"
+    },
+    "cast": {
+      "codepoint": 57692,
+      "fontFamily": "Memory",
+      "identifier": "cast"
+    },
+    "castle": {
+      "codepoint": 57693,
+      "fontFamily": "Memory",
+      "identifier": "castle"
+    },
+    "chart-bar": {
+      "codepoint": 57694,
+      "fontFamily": "Memory",
+      "identifier": "chartBar"
+    },
+    "chat": {
+      "codepoint": 57695,
+      "fontFamily": "Memory",
+      "identifier": "chat"
+    },
+    "chat-processing": {
+      "codepoint": 57696,
+      "fontFamily": "Memory",
+      "identifier": "chatProcessing"
+    },
+    "check": {
+      "codepoint": 57697,
+      "fontFamily": "Memory",
+      "identifier": "check"
+    },
+    "checkbox-blank": {
+      "codepoint": 57698,
+      "fontFamily": "Memory",
+      "identifier": "checkboxBlank"
+    },
+    "checkbox-cross": {
+      "codepoint": 57699,
+      "fontFamily": "Memory",
+      "identifier": "checkboxCross"
+    },
+    "checkbox-intermediate": {
+      "codepoint": 57700,
+      "fontFamily": "Memory",
+      "identifier": "checkboxIntermediate"
+    },
+    "checkbox-intermediate-variant": {
+      "codepoint": 57701,
+      "fontFamily": "Memory",
+      "identifier": "checkboxIntermediateVariant"
+    },
+    "checkbox-marked": {
+      "codepoint": 57702,
+      "fontFamily": "Memory",
+      "identifier": "checkboxMarked"
+    },
+    "checker-large": {
+      "codepoint": 57703,
+      "fontFamily": "Memory",
+      "identifier": "checkerLarge"
+    },
+    "checker-medium": {
+      "codepoint": 57704,
+      "fontFamily": "Memory",
+      "identifier": "checkerMedium"
+    },
+    "checker-small": {
+      "codepoint": 57705,
+      "fontFamily": "Memory",
+      "identifier": "checkerSmall"
+    },
+    "checkerboard": {
+      "codepoint": 57706,
+      "fontFamily": "Memory",
+      "identifier": "checkerboard"
+    },
+    "chest": {
+      "codepoint": 57707,
+      "fontFamily": "Memory",
+      "identifier": "chest"
+    },
+    "chest-fill": {
+      "codepoint": 57708,
+      "fontFamily": "Memory",
+      "identifier": "chestFill"
+    },
+    "chevron-down": {
+      "codepoint": 57709,
+      "fontFamily": "Memory",
+      "identifier": "chevronDown"
+    },
+    "chevron-down-circle": {
+      "codepoint": 57710,
+      "fontFamily": "Memory",
+      "identifier": "chevronDownCircle"
+    },
+    "chevron-left": {
+      "codepoint": 57711,
+      "fontFamily": "Memory",
+      "identifier": "chevronLeft"
+    },
+    "chevron-left-circle": {
+      "codepoint": 57712,
+      "fontFamily": "Memory",
+      "identifier": "chevronLeftCircle"
+    },
+    "chevron-right": {
+      "codepoint": 57713,
+      "fontFamily": "Memory",
+      "identifier": "chevronRight"
+    },
+    "chevron-right-circle": {
+      "codepoint": 57714,
+      "fontFamily": "Memory",
+      "identifier": "chevronRightCircle"
+    },
+    "chevron-up": {
+      "codepoint": 57715,
+      "fontFamily": "Memory",
+      "identifier": "chevronUp"
+    },
+    "chevron-up-circle": {
+      "codepoint": 57716,
+      "fontFamily": "Memory",
+      "identifier": "chevronUpCircle"
+    },
+    "circle": {
+      "codepoint": 57717,
+      "fontFamily": "Memory",
+      "identifier": "circle"
+    },
+    "clipboard": {
+      "codepoint": 57718,
+      "fontFamily": "Memory",
+      "identifier": "clipboard"
+    },
+    "clock": {
+      "codepoint": 57719,
+      "fontFamily": "Memory",
+      "identifier": "clock"
+    },
+    "clock-fill": {
+      "codepoint": 57720,
+      "fontFamily": "Memory",
+      "identifier": "clockFill"
+    },
+    "close": {
+      "codepoint": 57721,
+      "fontFamily": "Memory",
+      "identifier": "close"
+    },
+    "close-outline": {
+      "codepoint": 57722,
+      "fontFamily": "Memory",
+      "identifier": "closeOutline"
+    },
+    "cloud": {
+      "codepoint": 57723,
+      "fontFamily": "Memory",
+      "identifier": "cloud"
+    },
+    "cloud-down": {
+      "codepoint": 57724,
+      "fontFamily": "Memory",
+      "identifier": "cloudDown"
+    },
+    "cloud-up": {
+      "codepoint": 57725,
+      "fontFamily": "Memory",
+      "identifier": "cloudUp"
+    },
+    "coffee": {
+      "codepoint": 57726,
+      "fontFamily": "Memory",
+      "identifier": "coffee"
+    },
+    "coin-copper": {
+      "codepoint": 57727,
+      "fontFamily": "Memory",
+      "identifier": "coinCopper"
+    },
+    "coin-electrum": {
+      "codepoint": 57728,
+      "fontFamily": "Memory",
+      "identifier": "coinElectrum"
+    },
+    "coin-gold": {
+      "codepoint": 57729,
+      "fontFamily": "Memory",
+      "identifier": "coinGold"
+    },
+    "coin-platinum": {
+      "codepoint": 57730,
+      "fontFamily": "Memory",
+      "identifier": "coinPlatinum"
+    },
+    "coin-silver": {
+      "codepoint": 57731,
+      "fontFamily": "Memory",
+      "identifier": "coinSilver"
+    },
+    "comment": {
+      "codepoint": 57732,
+      "fontFamily": "Memory",
+      "identifier": "comment"
+    },
+    "comment-text": {
+      "codepoint": 57733,
+      "fontFamily": "Memory",
+      "identifier": "commentText"
+    },
+    "comment-user": {
+      "codepoint": 57734,
+      "fontFamily": "Memory",
+      "identifier": "commentUser"
+    },
+    "compass": {
+      "codepoint": 57735,
+      "fontFamily": "Memory",
+      "identifier": "compass"
+    },
+    "compass-east-arrow": {
+      "codepoint": 57736,
+      "fontFamily": "Memory",
+      "identifier": "compassEastArrow"
+    },
+    "compass-north-arrow": {
+      "codepoint": 57737,
+      "fontFamily": "Memory",
+      "identifier": "compassNorthArrow"
+    },
+    "compass-north-east": {
+      "codepoint": 57738,
+      "fontFamily": "Memory",
+      "identifier": "compassNorthEast"
+    },
+    "compass-north-west": {
+      "codepoint": 57739,
+      "fontFamily": "Memory",
+      "identifier": "compassNorthWest"
+    },
+    "compass-south-arrow": {
+      "codepoint": 57740,
+      "fontFamily": "Memory",
+      "identifier": "compassSouthArrow"
+    },
+    "compass-south-east": {
+      "codepoint": 57741,
+      "fontFamily": "Memory",
+      "identifier": "compassSouthEast"
+    },
+    "compass-south-west": {
+      "codepoint": 57742,
+      "fontFamily": "Memory",
+      "identifier": "compassSouthWest"
+    },
+    "compass-west-arrow": {
+      "codepoint": 57743,
+      "fontFamily": "Memory",
+      "identifier": "compassWestArrow"
+    },
+    "credit-card": {
+      "codepoint": 57744,
+      "fontFamily": "Memory",
+      "identifier": "creditCard"
+    },
+    "crossbow": {
+      "codepoint": 57745,
+      "fontFamily": "Memory",
+      "identifier": "crossbow"
+    },
+    "crown": {
+      "codepoint": 57746,
+      "fontFamily": "Memory",
+      "identifier": "crown"
+    },
+    "cube": {
+      "codepoint": 57747,
+      "fontFamily": "Memory",
+      "identifier": "cube"
+    },
+    "cube-unfolded": {
+      "codepoint": 57748,
+      "fontFamily": "Memory",
+      "identifier": "cubeUnfolded"
+    },
+    "dagger": {
+      "codepoint": 57749,
+      "fontFamily": "Memory",
+      "identifier": "dagger"
+    },
+    "database": {
+      "codepoint": 57750,
+      "fontFamily": "Memory",
+      "identifier": "database"
+    },
+    "device": {
+      "codepoint": 57751,
+      "fontFamily": "Memory",
+      "identifier": "device"
+    },
+    "diamond": {
+      "codepoint": 57752,
+      "fontFamily": "Memory",
+      "identifier": "diamond"
+    },
+    "division": {
+      "codepoint": 57753,
+      "fontFamily": "Memory",
+      "identifier": "division"
+    },
+    "door": {
+      "codepoint": 57754,
+      "fontFamily": "Memory",
+      "identifier": "door"
+    },
+    "door-box": {
+      "codepoint": 57755,
+      "fontFamily": "Memory",
+      "identifier": "doorBox"
+    },
+    "door-open": {
+      "codepoint": 57756,
+      "fontFamily": "Memory",
+      "identifier": "doorOpen"
+    },
+    "dot-hexagon": {
+      "codepoint": 57757,
+      "fontFamily": "Memory",
+      "identifier": "dotHexagon"
+    },
+    "dot-hexagon-fill": {
+      "codepoint": 57758,
+      "fontFamily": "Memory",
+      "identifier": "dotHexagonFill"
+    },
+    "dot-octagon": {
+      "codepoint": 57759,
+      "fontFamily": "Memory",
+      "identifier": "dotOctagon"
+    },
+    "dot-octagon-fill": {
+      "codepoint": 57760,
+      "fontFamily": "Memory",
+      "identifier": "dotOctagonFill"
+    },
+    "download": {
+      "codepoint": 57761,
+      "fontFamily": "Memory",
+      "identifier": "download"
+    },
+    "email": {
+      "codepoint": 57762,
+      "fontFamily": "Memory",
+      "identifier": "email"
+    },
+    "eye": {
+      "codepoint": 57763,
+      "fontFamily": "Memory",
+      "identifier": "eye"
+    },
+    "eye-fill": {
+      "codepoint": 57764,
+      "fontFamily": "Memory",
+      "identifier": "eyeFill"
+    },
+    "file": {
+      "codepoint": 57765,
+      "fontFamily": "Memory",
+      "identifier": "file"
+    },
+    "fill": {
+      "codepoint": 57766,
+      "fontFamily": "Memory",
+      "identifier": "fill"
+    },
+    "filter": {
+      "codepoint": 57767,
+      "fontFamily": "Memory",
+      "identifier": "filter"
+    },
+    "fire": {
+      "codepoint": 57768,
+      "fontFamily": "Memory",
+      "identifier": "fire"
+    },
+    "flask": {
+      "codepoint": 57769,
+      "fontFamily": "Memory",
+      "identifier": "flask"
+    },
+    "flask-empty": {
+      "codepoint": 57770,
+      "fontFamily": "Memory",
+      "identifier": "flaskEmpty"
+    },
+    "flask-round-bottom": {
+      "codepoint": 57771,
+      "fontFamily": "Memory",
+      "identifier": "flaskRoundBottom"
+    },
+    "flask-round-bottom-empty": {
+      "codepoint": 57772,
+      "fontFamily": "Memory",
+      "identifier": "flaskRoundBottomEmpty"
+    },
+    "floppy-disk": {
+      "codepoint": 57773,
+      "fontFamily": "Memory",
+      "identifier": "floppyDisk"
+    },
+    "folder": {
+      "codepoint": 57774,
+      "fontFamily": "Memory",
+      "identifier": "folder"
+    },
+    "folder-open": {
+      "codepoint": 57775,
+      "fontFamily": "Memory",
+      "identifier": "folderOpen"
+    },
+    "format-align-bottom": {
+      "codepoint": 57776,
+      "fontFamily": "Memory",
+      "identifier": "formatAlignBottom"
+    },
+    "format-align-center": {
+      "codepoint": 57777,
+      "fontFamily": "Memory",
+      "identifier": "formatAlignCenter"
+    },
+    "format-align-justify": {
+      "codepoint": 57778,
+      "fontFamily": "Memory",
+      "identifier": "formatAlignJustify"
+    },
+    "format-align-left": {
+      "codepoint": 57779,
+      "fontFamily": "Memory",
+      "identifier": "formatAlignLeft"
+    },
+    "format-align-right": {
+      "codepoint": 57780,
+      "fontFamily": "Memory",
+      "identifier": "formatAlignRight"
+    },
+    "format-align-top": {
+      "codepoint": 57781,
+      "fontFamily": "Memory",
+      "identifier": "formatAlignTop"
+    },
+    "format-bold": {
+      "codepoint": 57782,
+      "fontFamily": "Memory",
+      "identifier": "formatBold"
+    },
+    "format-float-left": {
+      "codepoint": 57783,
+      "fontFamily": "Memory",
+      "identifier": "formatFloatLeft"
+    },
+    "format-float-right": {
+      "codepoint": 57784,
+      "fontFamily": "Memory",
+      "identifier": "formatFloatRight"
+    },
+    "format-horizontal-align-center": {
+      "codepoint": 57785,
+      "fontFamily": "Memory",
+      "identifier": "formatHorizontalAlignCenter"
+    },
+    "format-italic": {
+      "codepoint": 57786,
+      "fontFamily": "Memory",
+      "identifier": "formatItalic"
+    },
+    "format-line-spacing": {
+      "codepoint": 57787,
+      "fontFamily": "Memory",
+      "identifier": "formatLineSpacing"
+    },
+    "format-text": {
+      "codepoint": 57788,
+      "fontFamily": "Memory",
+      "identifier": "formatText"
+    },
+    "format-text-multiline": {
+      "codepoint": 57789,
+      "fontFamily": "Memory",
+      "identifier": "formatTextMultiline"
+    },
+    "format-text-single-line": {
+      "codepoint": 57790,
+      "fontFamily": "Memory",
+      "identifier": "formatTextSingleLine"
+    },
+    "format-vertical-align-center": {
+      "codepoint": 57791,
+      "fontFamily": "Memory",
+      "identifier": "formatVerticalAlignCenter"
+    },
+    "gamepad": {
+      "codepoint": 57792,
+      "fontFamily": "Memory",
+      "identifier": "gamepad"
+    },
+    "gamepad-center": {
+      "codepoint": 57793,
+      "fontFamily": "Memory",
+      "identifier": "gamepadCenter"
+    },
+    "gamepad-center-fill": {
+      "codepoint": 57794,
+      "fontFamily": "Memory",
+      "identifier": "gamepadCenterFill"
+    },
+    "gamepad-down": {
+      "codepoint": 57795,
+      "fontFamily": "Memory",
+      "identifier": "gamepadDown"
+    },
+    "gamepad-down-fill": {
+      "codepoint": 57796,
+      "fontFamily": "Memory",
+      "identifier": "gamepadDownFill"
+    },
+    "gamepad-down-left": {
+      "codepoint": 57797,
+      "fontFamily": "Memory",
+      "identifier": "gamepadDownLeft"
+    },
+    "gamepad-down-left-fill": {
+      "codepoint": 57798,
+      "fontFamily": "Memory",
+      "identifier": "gamepadDownLeftFill"
+    },
+    "gamepad-down-right": {
+      "codepoint": 57799,
+      "fontFamily": "Memory",
+      "identifier": "gamepadDownRight"
+    },
+    "gamepad-down-right-fill": {
+      "codepoint": 57800,
+      "fontFamily": "Memory",
+      "identifier": "gamepadDownRightFill"
+    },
+    "gamepad-empty": {
+      "codepoint": 57801,
+      "fontFamily": "Memory",
+      "identifier": "gamepadEmpty"
+    },
+    "gamepad-fill": {
+      "codepoint": 57802,
+      "fontFamily": "Memory",
+      "identifier": "gamepadFill"
+    },
+    "gamepad-left": {
+      "codepoint": 57803,
+      "fontFamily": "Memory",
+      "identifier": "gamepadLeft"
+    },
+    "gamepad-left-fill": {
+      "codepoint": 57804,
+      "fontFamily": "Memory",
+      "identifier": "gamepadLeftFill"
+    },
+    "gamepad-right": {
+      "codepoint": 57805,
+      "fontFamily": "Memory",
+      "identifier": "gamepadRight"
+    },
+    "gamepad-right-fill": {
+      "codepoint": 57806,
+      "fontFamily": "Memory",
+      "identifier": "gamepadRightFill"
+    },
+    "gamepad-up": {
+      "codepoint": 57807,
+      "fontFamily": "Memory",
+      "identifier": "gamepadUp"
+    },
+    "gamepad-up-fill": {
+      "codepoint": 57808,
+      "fontFamily": "Memory",
+      "identifier": "gamepadUpFill"
+    },
+    "gamepad-up-left": {
+      "codepoint": 57809,
+      "fontFamily": "Memory",
+      "identifier": "gamepadUpLeft"
+    },
+    "gamepad-up-left-fill": {
+      "codepoint": 57810,
+      "fontFamily": "Memory",
+      "identifier": "gamepadUpLeftFill"
+    },
+    "gamepad-up-right": {
+      "codepoint": 57811,
+      "fontFamily": "Memory",
+      "identifier": "gamepadUpRight"
+    },
+    "gamepad-up-right-fill": {
+      "codepoint": 57812,
+      "fontFamily": "Memory",
+      "identifier": "gamepadUpRightFill"
+    },
+    "glaive": {
+      "codepoint": 57813,
+      "fontFamily": "Memory",
+      "identifier": "glaive"
+    },
+    "glasses": {
+      "codepoint": 57814,
+      "fontFamily": "Memory",
+      "identifier": "glasses"
+    },
+    "halberd": {
+      "codepoint": 57815,
+      "fontFamily": "Memory",
+      "identifier": "halberd"
+    },
+    "heart": {
+      "codepoint": 57816,
+      "fontFamily": "Memory",
+      "identifier": "heart"
+    },
+    "heart-broken": {
+      "codepoint": 57817,
+      "fontFamily": "Memory",
+      "identifier": "heartBroken"
+    },
+    "help": {
+      "codepoint": 57818,
+      "fontFamily": "Memory",
+      "identifier": "help"
+    },
+    "help-box": {
+      "codepoint": 57819,
+      "fontFamily": "Memory",
+      "identifier": "helpBox"
+    },
+    "help-box-fill": {
+      "codepoint": 57820,
+      "fontFamily": "Memory",
+      "identifier": "helpBoxFill"
+    },
+    "hexagon": {
+      "codepoint": 57821,
+      "fontFamily": "Memory",
+      "identifier": "hexagon"
+    },
+    "home-thatched": {
+      "codepoint": 57822,
+      "fontFamily": "Memory",
+      "identifier": "homeThatched"
+    },
+    "image": {
+      "codepoint": 57823,
+      "fontFamily": "Memory",
+      "identifier": "image"
+    },
+    "javalin": {
+      "codepoint": 57824,
+      "fontFamily": "Memory",
+      "identifier": "javalin"
+    },
+    "journal": {
+      "codepoint": 57825,
+      "fontFamily": "Memory",
+      "identifier": "journal"
+    },
+    "key": {
+      "codepoint": 57826,
+      "fontFamily": "Memory",
+      "identifier": "key"
+    },
+    "label": {
+      "codepoint": 57827,
+      "fontFamily": "Memory",
+      "identifier": "label"
+    },
+    "label-variant": {
+      "codepoint": 57828,
+      "fontFamily": "Memory",
+      "identifier": "labelVariant"
+    },
+    "lance": {
+      "codepoint": 57829,
+      "fontFamily": "Memory",
+      "identifier": "lance"
+    },
+    "led": {
+      "codepoint": 57830,
+      "fontFamily": "Memory",
+      "identifier": "led"
+    },
+    "lightbulb": {
+      "codepoint": 57831,
+      "fontFamily": "Memory",
+      "identifier": "lightbulb"
+    },
+    "linen": {
+      "codepoint": 57832,
+      "fontFamily": "Memory",
+      "identifier": "linen"
+    },
+    "lock": {
+      "codepoint": 57833,
+      "fontFamily": "Memory",
+      "identifier": "lock"
+    },
+    "lock-open": {
+      "codepoint": 57834,
+      "fontFamily": "Memory",
+      "identifier": "lockOpen"
+    },
+    "login": {
+      "codepoint": 57835,
+      "fontFamily": "Memory",
+      "identifier": "login"
+    },
+    "logout": {
+      "codepoint": 57836,
+      "fontFamily": "Memory",
+      "identifier": "logout"
+    },
+    "magnify-minus": {
+      "codepoint": 57837,
+      "fontFamily": "Memory",
+      "identifier": "magnifyMinus"
+    },
+    "magnify-plus": {
+      "codepoint": 57838,
+      "fontFamily": "Memory",
+      "identifier": "magnifyPlus"
+    },
+    "map": {
+      "codepoint": 57839,
+      "fontFamily": "Memory",
+      "identifier": "map"
+    },
+    "menu-bottom-left": {
+      "codepoint": 57840,
+      "fontFamily": "Memory",
+      "identifier": "menuBottomLeft"
+    },
+    "menu-bottom-right": {
+      "codepoint": 57841,
+      "fontFamily": "Memory",
+      "identifier": "menuBottomRight"
+    },
+    "menu-down": {
+      "codepoint": 57842,
+      "fontFamily": "Memory",
+      "identifier": "menuDown"
+    },
+    "menu-down-fill": {
+      "codepoint": 57843,
+      "fontFamily": "Memory",
+      "identifier": "menuDownFill"
+    },
+    "menu-left": {
+      "codepoint": 57844,
+      "fontFamily": "Memory",
+      "identifier": "menuLeft"
+    },
+    "menu-left-fill": {
+      "codepoint": 57845,
+      "fontFamily": "Memory",
+      "identifier": "menuLeftFill"
+    },
+    "menu-left-right": {
+      "codepoint": 57846,
+      "fontFamily": "Memory",
+      "identifier": "menuLeftRight"
+    },
+    "menu-right": {
+      "codepoint": 57847,
+      "fontFamily": "Memory",
+      "identifier": "menuRight"
+    },
+    "menu-right-fill": {
+      "codepoint": 57848,
+      "fontFamily": "Memory",
+      "identifier": "menuRightFill"
+    },
+    "menu-top-left": {
+      "codepoint": 57849,
+      "fontFamily": "Memory",
+      "identifier": "menuTopLeft"
+    },
+    "menu-top-right": {
+      "codepoint": 57850,
+      "fontFamily": "Memory",
+      "identifier": "menuTopRight"
+    },
+    "menu-up": {
+      "codepoint": 57851,
+      "fontFamily": "Memory",
+      "identifier": "menuUp"
+    },
+    "menu-up-down": {
+      "codepoint": 57852,
+      "fontFamily": "Memory",
+      "identifier": "menuUpDown"
+    },
+    "menu-up-fill": {
+      "codepoint": 57853,
+      "fontFamily": "Memory",
+      "identifier": "menuUpFill"
+    },
+    "message": {
+      "codepoint": 57854,
+      "fontFamily": "Memory",
+      "identifier": "message"
+    },
+    "message-processing": {
+      "codepoint": 57855,
+      "fontFamily": "Memory",
+      "identifier": "messageProcessing"
+    },
+    "message-text": {
+      "codepoint": 57856,
+      "fontFamily": "Memory",
+      "identifier": "messageText"
+    },
+    "message-user": {
+      "codepoint": 57857,
+      "fontFamily": "Memory",
+      "identifier": "messageUser"
+    },
+    "microphone": {
+      "codepoint": 57858,
+      "fontFamily": "Memory",
+      "identifier": "microphone"
+    },
+    "minus": {
+      "codepoint": 57859,
+      "fontFamily": "Memory",
+      "identifier": "minus"
+    },
+    "minus-box": {
+      "codepoint": 57860,
+      "fontFamily": "Memory",
+      "identifier": "minusBox"
+    },
+    "minus-box-fill": {
+      "codepoint": 57861,
+      "fontFamily": "Memory",
+      "identifier": "minusBoxFill"
+    },
+    "minus-circle": {
+      "codepoint": 57862,
+      "fontFamily": "Memory",
+      "identifier": "minusCircle"
+    },
+    "minus-circle-fill": {
+      "codepoint": 57863,
+      "fontFamily": "Memory",
+      "identifier": "minusCircleFill"
+    },
+    "monitor": {
+      "codepoint": 57864,
+      "fontFamily": "Memory",
+      "identifier": "monitor"
+    },
+    "monitor-image": {
+      "codepoint": 57865,
+      "fontFamily": "Memory",
+      "identifier": "monitorImage"
+    },
+    "multiply": {
+      "codepoint": 57866,
+      "fontFamily": "Memory",
+      "identifier": "multiply"
+    },
+    "music-note": {
+      "codepoint": 57867,
+      "fontFamily": "Memory",
+      "identifier": "musicNote"
+    },
+    "necklace": {
+      "codepoint": 57868,
+      "fontFamily": "Memory",
+      "identifier": "necklace"
+    },
+    "note": {
+      "codepoint": 57869,
+      "fontFamily": "Memory",
+      "identifier": "note"
+    },
+    "note-nailed": {
+      "codepoint": 57870,
+      "fontFamily": "Memory",
+      "identifier": "noteNailed"
+    },
+    "notebook": {
+      "codepoint": 57871,
+      "fontFamily": "Memory",
+      "identifier": "notebook"
+    },
+    "notification": {
+      "codepoint": 57872,
+      "fontFamily": "Memory",
+      "identifier": "notification"
+    },
+    "number": {
+      "codepoint": 57873,
+      "fontFamily": "Memory",
+      "identifier": "number"
+    },
+    "octagon": {
+      "codepoint": 57874,
+      "fontFamily": "Memory",
+      "identifier": "octagon"
+    },
+    "octagon-alert": {
+      "codepoint": 57875,
+      "fontFamily": "Memory",
+      "identifier": "octagonAlert"
+    },
+    "paperclip": {
+      "codepoint": 57876,
+      "fontFamily": "Memory",
+      "identifier": "paperclip"
+    },
+    "pause": {
+      "codepoint": 57877,
+      "fontFamily": "Memory",
+      "identifier": "pause"
+    },
+    "peace": {
+      "codepoint": 57878,
+      "fontFamily": "Memory",
+      "identifier": "peace"
+    },
+    "pencil": {
+      "codepoint": 57879,
+      "fontFamily": "Memory",
+      "identifier": "pencil"
+    },
+    "pickaxe": {
+      "codepoint": 57880,
+      "fontFamily": "Memory",
+      "identifier": "pickaxe"
+    },
+    "pictogrammers": {
+      "codepoint": 57881,
+      "fontFamily": "Memory",
+      "identifier": "pictogrammers"
+    },
+    "pike": {
+      "codepoint": 57882,
+      "fontFamily": "Memory",
+      "identifier": "pike"
+    },
+    "play": {
+      "codepoint": 57883,
+      "fontFamily": "Memory",
+      "identifier": "play"
+    },
+    "plus": {
+      "codepoint": 57884,
+      "fontFamily": "Memory",
+      "identifier": "plus"
+    },
+    "plus-box": {
+      "codepoint": 57885,
+      "fontFamily": "Memory",
+      "identifier": "plusBox"
+    },
+    "plus-box-fill": {
+      "codepoint": 57886,
+      "fontFamily": "Memory",
+      "identifier": "plusBoxFill"
+    },
+    "plus-circle": {
+      "codepoint": 57887,
+      "fontFamily": "Memory",
+      "identifier": "plusCircle"
+    },
+    "plus-circle-fill": {
+      "codepoint": 57888,
+      "fontFamily": "Memory",
+      "identifier": "plusCircleFill"
+    },
+    "poll": {
+      "codepoint": 57889,
+      "fontFamily": "Memory",
+      "identifier": "poll"
+    },
+    "pound": {
+      "codepoint": 57890,
+      "fontFamily": "Memory",
+      "identifier": "pound"
+    },
+    "quarterstaff": {
+      "codepoint": 57891,
+      "fontFamily": "Memory",
+      "identifier": "quarterstaff"
+    },
+    "radiobox": {
+      "codepoint": 57892,
+      "fontFamily": "Memory",
+      "identifier": "radiobox"
+    },
+    "radiobox-marked": {
+      "codepoint": 57893,
+      "fontFamily": "Memory",
+      "identifier": "radioboxMarked"
+    },
+    "range": {
+      "codepoint": 57894,
+      "fontFamily": "Memory",
+      "identifier": "range"
+    },
+    "relative-scale": {
+      "codepoint": 57895,
+      "fontFamily": "Memory",
+      "identifier": "relativeScale"
+    },
+    "remove-circle": {
+      "codepoint": 57896,
+      "fontFamily": "Memory",
+      "identifier": "removeCircle"
+    },
+    "ring": {
+      "codepoint": 57897,
+      "fontFamily": "Memory",
+      "identifier": "ring"
+    },
+    "rotate-clockwise": {
+      "codepoint": 57898,
+      "fontFamily": "Memory",
+      "identifier": "rotateClockwise"
+    },
+    "rotate-counterclockwise": {
+      "codepoint": 57899,
+      "fontFamily": "Memory",
+      "identifier": "rotateCounterclockwise"
+    },
+    "scimitar": {
+      "codepoint": 57900,
+      "fontFamily": "Memory",
+      "identifier": "scimitar"
+    },
+    "script": {
+      "codepoint": 57901,
+      "fontFamily": "Memory",
+      "identifier": "script"
+    },
+    "search": {
+      "codepoint": 57902,
+      "fontFamily": "Memory",
+      "identifier": "search"
+    },
+    "shield": {
+      "codepoint": 57903,
+      "fontFamily": "Memory",
+      "identifier": "shield"
+    },
+    "shovel": {
+      "codepoint": 57904,
+      "fontFamily": "Memory",
+      "identifier": "shovel"
+    },
+    "skull": {
+      "codepoint": 57905,
+      "fontFamily": "Memory",
+      "identifier": "skull"
+    },
+    "slider-end": {
+      "codepoint": 57906,
+      "fontFamily": "Memory",
+      "identifier": "sliderEnd"
+    },
+    "slider-right": {
+      "codepoint": 57907,
+      "fontFamily": "Memory",
+      "identifier": "sliderRight"
+    },
+    "speaker": {
+      "codepoint": 57908,
+      "fontFamily": "Memory",
+      "identifier": "speaker"
+    },
+    "spear": {
+      "codepoint": 57909,
+      "fontFamily": "Memory",
+      "identifier": "spear"
+    },
+    "stool": {
+      "codepoint": 57910,
+      "fontFamily": "Memory",
+      "identifier": "stool"
+    },
+    "stop": {
+      "codepoint": 57911,
+      "fontFamily": "Memory",
+      "identifier": "stop"
+    },
+    "sword": {
+      "codepoint": 57912,
+      "fontFamily": "Memory",
+      "identifier": "sword"
+    },
+    "table-top-door-horizontal": {
+      "codepoint": 57913,
+      "fontFamily": "Memory",
+      "identifier": "tableTopDoorHorizontal"
+    },
+    "table-top-door-one-way-down": {
+      "codepoint": 57914,
+      "fontFamily": "Memory",
+      "identifier": "tableTopDoorOneWayDown"
+    },
+    "table-top-door-one-way-left": {
+      "codepoint": 57915,
+      "fontFamily": "Memory",
+      "identifier": "tableTopDoorOneWayLeft"
+    },
+    "table-top-door-one-way-right": {
+      "codepoint": 57916,
+      "fontFamily": "Memory",
+      "identifier": "tableTopDoorOneWayRight"
+    },
+    "table-top-door-one-way-up": {
+      "codepoint": 57917,
+      "fontFamily": "Memory",
+      "identifier": "tableTopDoorOneWayUp"
+    },
+    "table-top-door-secret-horizontal": {
+      "codepoint": 57918,
+      "fontFamily": "Memory",
+      "identifier": "tableTopDoorSecretHorizontal"
+    },
+    "table-top-door-secret-vertical": {
+      "codepoint": 57919,
+      "fontFamily": "Memory",
+      "identifier": "tableTopDoorSecretVertical"
+    },
+    "table-top-door-vertical": {
+      "codepoint": 57920,
+      "fontFamily": "Memory",
+      "identifier": "tableTopDoorVertical"
+    },
+    "table-top-horizontal-rotate-clockwise": {
+      "codepoint": 57921,
+      "fontFamily": "Memory",
+      "identifier": "tableTopHorizontalRotateClockwise"
+    },
+    "table-top-horizontal-rotate-counterclockwise": {
+      "codepoint": 57922,
+      "fontFamily": "Memory",
+      "identifier": "tableTopHorizontalRotateCounterclockwise"
+    },
+    "table-top-horizontal-stairs-ascend-left": {
+      "codepoint": 57923,
+      "fontFamily": "Memory",
+      "identifier": "tableTopHorizontalStairsAscendLeft"
+    },
+    "table-top-horizontal-stairs-ascend-right": {
+      "codepoint": 57924,
+      "fontFamily": "Memory",
+      "identifier": "tableTopHorizontalStairsAscendRight"
+    },
+    "table-top-horizontal-stairs-descend-down": {
+      "codepoint": 57925,
+      "fontFamily": "Memory",
+      "identifier": "tableTopHorizontalStairsDescendDown"
+    },
+    "table-top-horizontal-stairs-descend-left": {
+      "codepoint": 57926,
+      "fontFamily": "Memory",
+      "identifier": "tableTopHorizontalStairsDescendLeft"
+    },
+    "table-top-horizontal-stairs-descend-right": {
+      "codepoint": 57927,
+      "fontFamily": "Memory",
+      "identifier": "tableTopHorizontalStairsDescendRight"
+    },
+    "table-top-horizontal-stairs-descend-up": {
+      "codepoint": 57928,
+      "fontFamily": "Memory",
+      "identifier": "tableTopHorizontalStairsDescendUp"
+    },
+    "table-top-spiral-stairs-down": {
+      "codepoint": 57929,
+      "fontFamily": "Memory",
+      "identifier": "tableTopSpiralStairsDown"
+    },
+    "table-top-spiral-stairs-left": {
+      "codepoint": 57930,
+      "fontFamily": "Memory",
+      "identifier": "tableTopSpiralStairsLeft"
+    },
+    "table-top-spiral-stairs-right": {
+      "codepoint": 57931,
+      "fontFamily": "Memory",
+      "identifier": "tableTopSpiralStairsRight"
+    },
+    "table-top-spiral-stairs-round-down": {
+      "codepoint": 57932,
+      "fontFamily": "Memory",
+      "identifier": "tableTopSpiralStairsRoundDown"
+    },
+    "table-top-spiral-stairs-round-left": {
+      "codepoint": 57933,
+      "fontFamily": "Memory",
+      "identifier": "tableTopSpiralStairsRoundLeft"
+    },
+    "table-top-spiral-stairs-round-right": {
+      "codepoint": 57934,
+      "fontFamily": "Memory",
+      "identifier": "tableTopSpiralStairsRoundRight"
+    },
+    "table-top-spiral-stairs-round-up": {
+      "codepoint": 57935,
+      "fontFamily": "Memory",
+      "identifier": "tableTopSpiralStairsRoundUp"
+    },
+    "table-top-spiral-stairs-up": {
+      "codepoint": 57936,
+      "fontFamily": "Memory",
+      "identifier": "tableTopSpiralStairsUp"
+    },
+    "table-top-stairs-down": {
+      "codepoint": 57937,
+      "fontFamily": "Memory",
+      "identifier": "tableTopStairsDown"
+    },
+    "table-top-stairs-left": {
+      "codepoint": 57938,
+      "fontFamily": "Memory",
+      "identifier": "tableTopStairsLeft"
+    },
+    "table-top-stairs-right": {
+      "codepoint": 57939,
+      "fontFamily": "Memory",
+      "identifier": "tableTopStairsRight"
+    },
+    "table-top-stairs-up": {
+      "codepoint": 57940,
+      "fontFamily": "Memory",
+      "identifier": "tableTopStairsUp"
+    },
+    "table-top-vertical-rotate-clockwise": {
+      "codepoint": 57941,
+      "fontFamily": "Memory",
+      "identifier": "tableTopVerticalRotateClockwise"
+    },
+    "table-top-vertical-rotate-counterclockwise": {
+      "codepoint": 57942,
+      "fontFamily": "Memory",
+      "identifier": "tableTopVerticalRotateCounterclockwise"
+    },
+    "table-top-vertical-stairs-ascend-down": {
+      "codepoint": 57943,
+      "fontFamily": "Memory",
+      "identifier": "tableTopVerticalStairsAscendDown"
+    },
+    "table-top-vertical-stairs-ascend-up": {
+      "codepoint": 57944,
+      "fontFamily": "Memory",
+      "identifier": "tableTopVerticalStairsAscendUp"
+    },
+    "tag": {
+      "codepoint": 57945,
+      "fontFamily": "Memory",
+      "identifier": "tag"
+    },
+    "tag-text": {
+      "codepoint": 57946,
+      "fontFamily": "Memory",
+      "identifier": "tagText"
+    },
+    "target": {
+      "codepoint": 57947,
+      "fontFamily": "Memory",
+      "identifier": "target"
+    },
+    "tent": {
+      "codepoint": 57948,
+      "fontFamily": "Memory",
+      "identifier": "tent"
+    },
+    "terminal": {
+      "codepoint": 57949,
+      "fontFamily": "Memory",
+      "identifier": "terminal"
+    },
+    "text-box": {
+      "codepoint": 57950,
+      "fontFamily": "Memory",
+      "identifier": "textBox"
+    },
+    "text-image": {
+      "codepoint": 57951,
+      "fontFamily": "Memory",
+      "identifier": "textImage"
+    },
+    "tile-caution-heavy": {
+      "codepoint": 57952,
+      "fontFamily": "Memory",
+      "identifier": "tileCautionHeavy"
+    },
+    "tile-caution-thin": {
+      "codepoint": 57953,
+      "fontFamily": "Memory",
+      "identifier": "tileCautionThin"
+    },
+    "tile-diamond-hex": {
+      "codepoint": 57954,
+      "fontFamily": "Memory",
+      "identifier": "tileDiamondHex"
+    },
+    "time-sand": {
+      "codepoint": 57955,
+      "fontFamily": "Memory",
+      "identifier": "timeSand"
+    },
+    "toggle-switch-off": {
+      "codepoint": 57956,
+      "fontFamily": "Memory",
+      "identifier": "toggleSwitchOff"
+    },
+    "toggle-switch-on": {
+      "codepoint": 57957,
+      "fontFamily": "Memory",
+      "identifier": "toggleSwitchOn"
+    },
+    "toolbox": {
+      "codepoint": 57958,
+      "fontFamily": "Memory",
+      "identifier": "toolbox"
+    },
+    "tooltip-above": {
+      "codepoint": 57959,
+      "fontFamily": "Memory",
+      "identifier": "tooltipAbove"
+    },
+    "tooltip-above-alert": {
+      "codepoint": 57960,
+      "fontFamily": "Memory",
+      "identifier": "tooltipAboveAlert"
+    },
+    "tooltip-above-help": {
+      "codepoint": 57961,
+      "fontFamily": "Memory",
+      "identifier": "tooltipAboveHelp"
+    },
+    "tooltip-above-text": {
+      "codepoint": 57962,
+      "fontFamily": "Memory",
+      "identifier": "tooltipAboveText"
+    },
+    "tooltip-below": {
+      "codepoint": 57963,
+      "fontFamily": "Memory",
+      "identifier": "tooltipBelow"
+    },
+    "tooltip-below-alert": {
+      "codepoint": 57964,
+      "fontFamily": "Memory",
+      "identifier": "tooltipBelowAlert"
+    },
+    "tooltip-below-help": {
+      "codepoint": 57965,
+      "fontFamily": "Memory",
+      "identifier": "tooltipBelowHelp"
+    },
+    "tooltip-below-text": {
+      "codepoint": 57966,
+      "fontFamily": "Memory",
+      "identifier": "tooltipBelowText"
+    },
+    "tooltip-end": {
+      "codepoint": 57967,
+      "fontFamily": "Memory",
+      "identifier": "tooltipEnd"
+    },
+    "tooltip-end-alert": {
+      "codepoint": 57968,
+      "fontFamily": "Memory",
+      "identifier": "tooltipEndAlert"
+    },
+    "tooltip-end-help": {
+      "codepoint": 57969,
+      "fontFamily": "Memory",
+      "identifier": "tooltipEndHelp"
+    },
+    "tooltip-end-text": {
+      "codepoint": 57970,
+      "fontFamily": "Memory",
+      "identifier": "tooltipEndText"
+    },
+    "tooltip-start": {
+      "codepoint": 57971,
+      "fontFamily": "Memory",
+      "identifier": "tooltipStart"
+    },
+    "tooltip-start-alert": {
+      "codepoint": 57972,
+      "fontFamily": "Memory",
+      "identifier": "tooltipStartAlert"
+    },
+    "tooltip-start-help": {
+      "codepoint": 57973,
+      "fontFamily": "Memory",
+      "identifier": "tooltipStartHelp"
+    },
+    "tooltip-start-text": {
+      "codepoint": 57974,
+      "fontFamily": "Memory",
+      "identifier": "tooltipStartText"
+    },
+    "torch": {
+      "codepoint": 57975,
+      "fontFamily": "Memory",
+      "identifier": "torch"
+    },
+    "toy-brick": {
+      "codepoint": 57976,
+      "fontFamily": "Memory",
+      "identifier": "toyBrick"
+    },
+    "trash": {
+      "codepoint": 57977,
+      "fontFamily": "Memory",
+      "identifier": "trash"
+    },
+    "trident": {
+      "codepoint": 57978,
+      "fontFamily": "Memory",
+      "identifier": "trident"
+    },
+    "umbrella": {
+      "codepoint": 57979,
+      "fontFamily": "Memory",
+      "identifier": "umbrella"
+    },
+    "upload": {
+      "codepoint": 57980,
+      "fontFamily": "Memory",
+      "identifier": "upload"
+    },
+    "user": {
+      "codepoint": 57981,
+      "fontFamily": "Memory",
+      "identifier": "user"
+    },
+    "user-box": {
+      "codepoint": 57982,
+      "fontFamily": "Memory",
+      "identifier": "userBox"
+    },
+    "volume-high": {
+      "codepoint": 57983,
+      "fontFamily": "Memory",
+      "identifier": "volumeHigh"
+    },
+    "volume-low": {
+      "codepoint": 57984,
+      "fontFamily": "Memory",
+      "identifier": "volumeLow"
+    },
+    "volume-medium": {
+      "codepoint": 57985,
+      "fontFamily": "Memory",
+      "identifier": "volumeMedium"
+    },
+    "volume-mute": {
+      "codepoint": 57986,
+      "fontFamily": "Memory",
+      "identifier": "volumeMute"
+    },
+    "wall": {
+      "codepoint": 57987,
+      "fontFamily": "Memory",
+      "identifier": "wall"
+    },
+    "wall-fill": {
+      "codepoint": 57988,
+      "fontFamily": "Memory",
+      "identifier": "wallFill"
+    },
+    "wall-front": {
+      "codepoint": 57989,
+      "fontFamily": "Memory",
+      "identifier": "wallFront"
+    },
+    "wall-front-damaged": {
+      "codepoint": 57990,
+      "fontFamily": "Memory",
+      "identifier": "wallFrontDamaged"
+    },
+    "wall-front-gate": {
+      "codepoint": 57991,
+      "fontFamily": "Memory",
+      "identifier": "wallFrontGate"
+    },
+    "water": {
+      "codepoint": 57992,
+      "fontFamily": "Memory",
+      "identifier": "water"
+    },
+    "water-fill": {
+      "codepoint": 57993,
+      "fontFamily": "Memory",
+      "identifier": "waterFill"
+    },
+    "weight": {
+      "codepoint": 57994,
+      "fontFamily": "Memory",
+      "identifier": "weight"
+    },
+    "weight-fill": {
+      "codepoint": 57995,
+      "fontFamily": "Memory",
+      "identifier": "weightFill"
+    },
+    "well": {
+      "codepoint": 57996,
+      "fontFamily": "Memory",
+      "identifier": "well"
+    },
+    "whip": {
+      "codepoint": 57997,
+      "fontFamily": "Memory",
+      "identifier": "whip"
+    },
+    "wind": {
+      "codepoint": 57998,
+      "fontFamily": "Memory",
+      "identifier": "wind"
+    }
+  }
+}

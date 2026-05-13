@@ -1,0 +1,6030 @@
+{
+  "schemaVersion": 1,
+  "prefix": "teenyicons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_teenyicons",
+  "info": {
+    "name": "Teenyicons",
+    "author": {
+      "name": "smhmd",
+      "url": "https://github.com/teenyicons/teenyicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/teenyicons/teenyicons/blob/master/LICENSE"
+    },
+    "total": 1200
+  },
+  "fonts": [
+    {
+      "family": "Teenyicons",
+      "nextCodepoint": 58544,
+      "iconCount": 1200
+    }
+  ],
+  "icons": {
+    "360-outline": {
+      "codepoint": 57344,
+      "fontFamily": "Teenyicons",
+      "identifier": "n360Outline"
+    },
+    "360-solid": {
+      "codepoint": 57345,
+      "fontFamily": "Teenyicons",
+      "identifier": "n360Solid"
+    },
+    "ab-testing-outline": {
+      "codepoint": 57346,
+      "fontFamily": "Teenyicons",
+      "identifier": "abTestingOutline"
+    },
+    "ab-testing-solid": {
+      "codepoint": 57347,
+      "fontFamily": "Teenyicons",
+      "identifier": "abTestingSolid"
+    },
+    "add-outline": {
+      "codepoint": 57348,
+      "fontFamily": "Teenyicons",
+      "identifier": "addOutline"
+    },
+    "add-small-outline": {
+      "codepoint": 57349,
+      "fontFamily": "Teenyicons",
+      "identifier": "addSmallOutline"
+    },
+    "add-small-solid": {
+      "codepoint": 57350,
+      "fontFamily": "Teenyicons",
+      "identifier": "addSmallSolid"
+    },
+    "add-solid": {
+      "codepoint": 57351,
+      "fontFamily": "Teenyicons",
+      "identifier": "addSolid"
+    },
+    "address-book-outline": {
+      "codepoint": 57352,
+      "fontFamily": "Teenyicons",
+      "identifier": "addressBookOutline"
+    },
+    "address-book-solid": {
+      "codepoint": 57353,
+      "fontFamily": "Teenyicons",
+      "identifier": "addressBookSolid"
+    },
+    "adjust-horizontal-alt-outline": {
+      "codepoint": 57354,
+      "fontFamily": "Teenyicons",
+      "identifier": "adjustHorizontalAltOutline"
+    },
+    "adjust-horizontal-alt-solid": {
+      "codepoint": 57355,
+      "fontFamily": "Teenyicons",
+      "identifier": "adjustHorizontalAltSolid"
+    },
+    "adjust-horizontal-outline": {
+      "codepoint": 57356,
+      "fontFamily": "Teenyicons",
+      "identifier": "adjustHorizontalOutline"
+    },
+    "adjust-horizontal-solid": {
+      "codepoint": 57357,
+      "fontFamily": "Teenyicons",
+      "identifier": "adjustHorizontalSolid"
+    },
+    "adjust-vertical-alt-outline": {
+      "codepoint": 57358,
+      "fontFamily": "Teenyicons",
+      "identifier": "adjustVerticalAltOutline"
+    },
+    "adjust-vertical-alt-solid": {
+      "codepoint": 57359,
+      "fontFamily": "Teenyicons",
+      "identifier": "adjustVerticalAltSolid"
+    },
+    "adjust-vertical-outline": {
+      "codepoint": 57360,
+      "fontFamily": "Teenyicons",
+      "identifier": "adjustVerticalOutline"
+    },
+    "adjust-vertical-solid": {
+      "codepoint": 57361,
+      "fontFamily": "Teenyicons",
+      "identifier": "adjustVerticalSolid"
+    },
+    "airplay-outline": {
+      "codepoint": 57362,
+      "fontFamily": "Teenyicons",
+      "identifier": "airplayOutline"
+    },
+    "airplay-solid": {
+      "codepoint": 57363,
+      "fontFamily": "Teenyicons",
+      "identifier": "airplaySolid"
+    },
+    "airpods-outline": {
+      "codepoint": 57364,
+      "fontFamily": "Teenyicons",
+      "identifier": "airpodsOutline"
+    },
+    "airpods-solid": {
+      "codepoint": 57365,
+      "fontFamily": "Teenyicons",
+      "identifier": "airpodsSolid"
+    },
+    "alarm-outline": {
+      "codepoint": 57366,
+      "fontFamily": "Teenyicons",
+      "identifier": "alarmOutline"
+    },
+    "alarm-solid": {
+      "codepoint": 57367,
+      "fontFamily": "Teenyicons",
+      "identifier": "alarmSolid"
+    },
+    "alien-outline": {
+      "codepoint": 57368,
+      "fontFamily": "Teenyicons",
+      "identifier": "alienOutline"
+    },
+    "alien-solid": {
+      "codepoint": 57369,
+      "fontFamily": "Teenyicons",
+      "identifier": "alienSolid"
+    },
+    "align-bottom-outline": {
+      "codepoint": 57370,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignBottomOutline"
+    },
+    "align-bottom-solid": {
+      "codepoint": 57371,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignBottomSolid"
+    },
+    "align-center-horizontal-outline": {
+      "codepoint": 57372,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignCenterHorizontalOutline"
+    },
+    "align-center-horizontal-solid": {
+      "codepoint": 57373,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignCenterHorizontalSolid"
+    },
+    "align-center-vertical-outline": {
+      "codepoint": 57374,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignCenterVerticalOutline"
+    },
+    "align-center-vertical-solid": {
+      "codepoint": 57375,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignCenterVerticalSolid"
+    },
+    "align-left-outline": {
+      "codepoint": 57376,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignLeftOutline"
+    },
+    "align-left-solid": {
+      "codepoint": 57377,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignLeftSolid"
+    },
+    "align-right-outline": {
+      "codepoint": 57378,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignRightOutline"
+    },
+    "align-right-solid": {
+      "codepoint": 57379,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignRightSolid"
+    },
+    "align-text-center-outline": {
+      "codepoint": 57380,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignTextCenterOutline"
+    },
+    "align-text-center-solid": {
+      "codepoint": 57381,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignTextCenterSolid"
+    },
+    "align-text-justify-outline": {
+      "codepoint": 57382,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignTextJustifyOutline"
+    },
+    "align-text-justify-solid": {
+      "codepoint": 57383,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignTextJustifySolid"
+    },
+    "align-text-left-outline": {
+      "codepoint": 57384,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignTextLeftOutline"
+    },
+    "align-text-left-solid": {
+      "codepoint": 57385,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignTextLeftSolid"
+    },
+    "align-text-right-outline": {
+      "codepoint": 57386,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignTextRightOutline"
+    },
+    "align-text-right-solid": {
+      "codepoint": 57387,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignTextRightSolid"
+    },
+    "align-top-outline": {
+      "codepoint": 57388,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignTopOutline"
+    },
+    "align-top-solid": {
+      "codepoint": 57389,
+      "fontFamily": "Teenyicons",
+      "identifier": "alignTopSolid"
+    },
+    "anchor-outline": {
+      "codepoint": 57390,
+      "fontFamily": "Teenyicons",
+      "identifier": "anchorOutline"
+    },
+    "anchor-solid": {
+      "codepoint": 57391,
+      "fontFamily": "Teenyicons",
+      "identifier": "anchorSolid"
+    },
+    "android-outline": {
+      "codepoint": 57392,
+      "fontFamily": "Teenyicons",
+      "identifier": "androidOutline"
+    },
+    "android-solid": {
+      "codepoint": 57393,
+      "fontFamily": "Teenyicons",
+      "identifier": "androidSolid"
+    },
+    "angular-outline": {
+      "codepoint": 57394,
+      "fontFamily": "Teenyicons",
+      "identifier": "angularOutline"
+    },
+    "angular-solid": {
+      "codepoint": 57395,
+      "fontFamily": "Teenyicons",
+      "identifier": "angularSolid"
+    },
+    "anja-outline": {
+      "codepoint": 57396,
+      "fontFamily": "Teenyicons",
+      "identifier": "anjaOutline"
+    },
+    "anja-solid": {
+      "codepoint": 57397,
+      "fontFamily": "Teenyicons",
+      "identifier": "anjaSolid"
+    },
+    "anti-clockwise-outline": {
+      "codepoint": 57398,
+      "fontFamily": "Teenyicons",
+      "identifier": "antiClockwiseOutline"
+    },
+    "anti-clockwise-solid": {
+      "codepoint": 57399,
+      "fontFamily": "Teenyicons",
+      "identifier": "antiClockwiseSolid"
+    },
+    "apple-outline": {
+      "codepoint": 57400,
+      "fontFamily": "Teenyicons",
+      "identifier": "appleOutline"
+    },
+    "apple-solid": {
+      "codepoint": 57401,
+      "fontFamily": "Teenyicons",
+      "identifier": "appleSolid"
+    },
+    "appointments-outline": {
+      "codepoint": 57402,
+      "fontFamily": "Teenyicons",
+      "identifier": "appointmentsOutline"
+    },
+    "appointments-solid": {
+      "codepoint": 57403,
+      "fontFamily": "Teenyicons",
+      "identifier": "appointmentsSolid"
+    },
+    "archive-outline": {
+      "codepoint": 57404,
+      "fontFamily": "Teenyicons",
+      "identifier": "archiveOutline"
+    },
+    "archive-solid": {
+      "codepoint": 57405,
+      "fontFamily": "Teenyicons",
+      "identifier": "archiveSolid"
+    },
+    "area-chart-alt-outline": {
+      "codepoint": 57406,
+      "fontFamily": "Teenyicons",
+      "identifier": "areaChartAltOutline"
+    },
+    "area-chart-alt-solid": {
+      "codepoint": 57407,
+      "fontFamily": "Teenyicons",
+      "identifier": "areaChartAltSolid"
+    },
+    "area-chart-outline": {
+      "codepoint": 57408,
+      "fontFamily": "Teenyicons",
+      "identifier": "areaChartOutline"
+    },
+    "area-chart-solid": {
+      "codepoint": 57409,
+      "fontFamily": "Teenyicons",
+      "identifier": "areaChartSolid"
+    },
+    "arrow-down-circle-outline": {
+      "codepoint": 57410,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowDownCircleOutline"
+    },
+    "arrow-down-circle-solid": {
+      "codepoint": 57411,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowDownCircleSolid"
+    },
+    "arrow-down-outline": {
+      "codepoint": 57412,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowDownOutline"
+    },
+    "arrow-down-small-outline": {
+      "codepoint": 57413,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowDownSmallOutline"
+    },
+    "arrow-down-small-solid": {
+      "codepoint": 57414,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowDownSmallSolid"
+    },
+    "arrow-down-solid": {
+      "codepoint": 57415,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowDownSolid"
+    },
+    "arrow-left-circle-outline": {
+      "codepoint": 57416,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowLeftCircleOutline"
+    },
+    "arrow-left-circle-solid": {
+      "codepoint": 57417,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowLeftCircleSolid"
+    },
+    "arrow-left-outline": {
+      "codepoint": 57418,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowLeftOutline"
+    },
+    "arrow-left-small-outline": {
+      "codepoint": 57419,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowLeftSmallOutline"
+    },
+    "arrow-left-small-solid": {
+      "codepoint": 57420,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowLeftSmallSolid"
+    },
+    "arrow-left-solid": {
+      "codepoint": 57421,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowLeftSolid"
+    },
+    "arrow-outline": {
+      "codepoint": 57422,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowOutline"
+    },
+    "arrow-right-circle-outline": {
+      "codepoint": 57423,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowRightCircleOutline"
+    },
+    "arrow-right-circle-solid": {
+      "codepoint": 57424,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowRightCircleSolid"
+    },
+    "arrow-right-outline": {
+      "codepoint": 57425,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowRightOutline"
+    },
+    "arrow-right-small-outline": {
+      "codepoint": 57426,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowRightSmallOutline"
+    },
+    "arrow-right-small-solid": {
+      "codepoint": 57427,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowRightSmallSolid"
+    },
+    "arrow-right-solid": {
+      "codepoint": 57428,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowRightSolid"
+    },
+    "arrow-solid": {
+      "codepoint": 57429,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowSolid"
+    },
+    "arrow-up-circle-outline": {
+      "codepoint": 57430,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowUpCircleOutline"
+    },
+    "arrow-up-circle-solid": {
+      "codepoint": 57431,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowUpCircleSolid"
+    },
+    "arrow-up-outline": {
+      "codepoint": 57432,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowUpOutline"
+    },
+    "arrow-up-small-outline": {
+      "codepoint": 57433,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowUpSmallOutline"
+    },
+    "arrow-up-small-solid": {
+      "codepoint": 57434,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowUpSmallSolid"
+    },
+    "arrow-up-solid": {
+      "codepoint": 57435,
+      "fontFamily": "Teenyicons",
+      "identifier": "arrowUpSolid"
+    },
+    "artboard-outline": {
+      "codepoint": 57436,
+      "fontFamily": "Teenyicons",
+      "identifier": "artboardOutline"
+    },
+    "artboard-solid": {
+      "codepoint": 57437,
+      "fontFamily": "Teenyicons",
+      "identifier": "artboardSolid"
+    },
+    "at-outline": {
+      "codepoint": 57438,
+      "fontFamily": "Teenyicons",
+      "identifier": "atOutline"
+    },
+    "at-solid": {
+      "codepoint": 57439,
+      "fontFamily": "Teenyicons",
+      "identifier": "atSolid"
+    },
+    "attach-outline": {
+      "codepoint": 57440,
+      "fontFamily": "Teenyicons",
+      "identifier": "attachOutline"
+    },
+    "attach-solid": {
+      "codepoint": 57441,
+      "fontFamily": "Teenyicons",
+      "identifier": "attachSolid"
+    },
+    "attachment-outline": {
+      "codepoint": 57442,
+      "fontFamily": "Teenyicons",
+      "identifier": "attachmentOutline"
+    },
+    "attachment-solid": {
+      "codepoint": 57443,
+      "fontFamily": "Teenyicons",
+      "identifier": "attachmentSolid"
+    },
+    "audio-cable-outline": {
+      "codepoint": 57444,
+      "fontFamily": "Teenyicons",
+      "identifier": "audioCableOutline"
+    },
+    "audio-cable-solid": {
+      "codepoint": 57445,
+      "fontFamily": "Teenyicons",
+      "identifier": "audioCableSolid"
+    },
+    "audio-document-outline": {
+      "codepoint": 57446,
+      "fontFamily": "Teenyicons",
+      "identifier": "audioDocumentOutline"
+    },
+    "audio-document-solid": {
+      "codepoint": 57447,
+      "fontFamily": "Teenyicons",
+      "identifier": "audioDocumentSolid"
+    },
+    "azure-outline": {
+      "codepoint": 57448,
+      "fontFamily": "Teenyicons",
+      "identifier": "azureOutline"
+    },
+    "azure-solid": {
+      "codepoint": 57449,
+      "fontFamily": "Teenyicons",
+      "identifier": "azureSolid"
+    },
+    "backspace-outline": {
+      "codepoint": 57450,
+      "fontFamily": "Teenyicons",
+      "identifier": "backspaceOutline"
+    },
+    "backspace-solid": {
+      "codepoint": 57451,
+      "fontFamily": "Teenyicons",
+      "identifier": "backspaceSolid"
+    },
+    "bag-alt-outline": {
+      "codepoint": 57452,
+      "fontFamily": "Teenyicons",
+      "identifier": "bagAltOutline"
+    },
+    "bag-alt-solid": {
+      "codepoint": 57453,
+      "fontFamily": "Teenyicons",
+      "identifier": "bagAltSolid"
+    },
+    "bag-minus-outline": {
+      "codepoint": 57454,
+      "fontFamily": "Teenyicons",
+      "identifier": "bagMinusOutline"
+    },
+    "bag-minus-solid": {
+      "codepoint": 57455,
+      "fontFamily": "Teenyicons",
+      "identifier": "bagMinusSolid"
+    },
+    "bag-outline": {
+      "codepoint": 57456,
+      "fontFamily": "Teenyicons",
+      "identifier": "bagOutline"
+    },
+    "bag-plus-outline": {
+      "codepoint": 57457,
+      "fontFamily": "Teenyicons",
+      "identifier": "bagPlusOutline"
+    },
+    "bag-plus-solid": {
+      "codepoint": 57458,
+      "fontFamily": "Teenyicons",
+      "identifier": "bagPlusSolid"
+    },
+    "bag-solid": {
+      "codepoint": 57459,
+      "fontFamily": "Teenyicons",
+      "identifier": "bagSolid"
+    },
+    "bank-outline": {
+      "codepoint": 57460,
+      "fontFamily": "Teenyicons",
+      "identifier": "bankOutline"
+    },
+    "bank-solid": {
+      "codepoint": 57461,
+      "fontFamily": "Teenyicons",
+      "identifier": "bankSolid"
+    },
+    "bar-chart-outline": {
+      "codepoint": 57462,
+      "fontFamily": "Teenyicons",
+      "identifier": "barChartOutline"
+    },
+    "bar-chart-solid": {
+      "codepoint": 57463,
+      "fontFamily": "Teenyicons",
+      "identifier": "barChartSolid"
+    },
+    "barcode-outline": {
+      "codepoint": 57464,
+      "fontFamily": "Teenyicons",
+      "identifier": "barcodeOutline"
+    },
+    "barcode-solid": {
+      "codepoint": 57465,
+      "fontFamily": "Teenyicons",
+      "identifier": "barcodeSolid"
+    },
+    "basket-minus-outline": {
+      "codepoint": 57466,
+      "fontFamily": "Teenyicons",
+      "identifier": "basketMinusOutline"
+    },
+    "basket-minus-solid": {
+      "codepoint": 57467,
+      "fontFamily": "Teenyicons",
+      "identifier": "basketMinusSolid"
+    },
+    "basket-outline": {
+      "codepoint": 57468,
+      "fontFamily": "Teenyicons",
+      "identifier": "basketOutline"
+    },
+    "basket-plus-outline": {
+      "codepoint": 57469,
+      "fontFamily": "Teenyicons",
+      "identifier": "basketPlusOutline"
+    },
+    "basket-plus-solid": {
+      "codepoint": 57470,
+      "fontFamily": "Teenyicons",
+      "identifier": "basketPlusSolid"
+    },
+    "basket-solid": {
+      "codepoint": 57471,
+      "fontFamily": "Teenyicons",
+      "identifier": "basketSolid"
+    },
+    "bath-outline": {
+      "codepoint": 57472,
+      "fontFamily": "Teenyicons",
+      "identifier": "bathOutline"
+    },
+    "bath-solid": {
+      "codepoint": 57473,
+      "fontFamily": "Teenyicons",
+      "identifier": "bathSolid"
+    },
+    "battery-0-outline": {
+      "codepoint": 57474,
+      "fontFamily": "Teenyicons",
+      "identifier": "battery0Outline"
+    },
+    "battery-0-solid": {
+      "codepoint": 57475,
+      "fontFamily": "Teenyicons",
+      "identifier": "battery0Solid"
+    },
+    "battery-1-outline": {
+      "codepoint": 57476,
+      "fontFamily": "Teenyicons",
+      "identifier": "battery1Outline"
+    },
+    "battery-1-solid": {
+      "codepoint": 57477,
+      "fontFamily": "Teenyicons",
+      "identifier": "battery1Solid"
+    },
+    "battery-2-outline": {
+      "codepoint": 57478,
+      "fontFamily": "Teenyicons",
+      "identifier": "battery2Outline"
+    },
+    "battery-2-solid": {
+      "codepoint": 57479,
+      "fontFamily": "Teenyicons",
+      "identifier": "battery2Solid"
+    },
+    "battery-3-outline": {
+      "codepoint": 57480,
+      "fontFamily": "Teenyicons",
+      "identifier": "battery3Outline"
+    },
+    "battery-3-solid": {
+      "codepoint": 57481,
+      "fontFamily": "Teenyicons",
+      "identifier": "battery3Solid"
+    },
+    "battery-4-outline": {
+      "codepoint": 57482,
+      "fontFamily": "Teenyicons",
+      "identifier": "battery4Outline"
+    },
+    "battery-4-solid": {
+      "codepoint": 57483,
+      "fontFamily": "Teenyicons",
+      "identifier": "battery4Solid"
+    },
+    "battery-5-outline": {
+      "codepoint": 57484,
+      "fontFamily": "Teenyicons",
+      "identifier": "battery5Outline"
+    },
+    "battery-5-solid": {
+      "codepoint": 57485,
+      "fontFamily": "Teenyicons",
+      "identifier": "battery5Solid"
+    },
+    "battery-charge-outline": {
+      "codepoint": 57486,
+      "fontFamily": "Teenyicons",
+      "identifier": "batteryChargeOutline"
+    },
+    "battery-charge-solid": {
+      "codepoint": 57487,
+      "fontFamily": "Teenyicons",
+      "identifier": "batteryChargeSolid"
+    },
+    "bed-double-outline": {
+      "codepoint": 57488,
+      "fontFamily": "Teenyicons",
+      "identifier": "bedDoubleOutline"
+    },
+    "bed-double-solid": {
+      "codepoint": 57489,
+      "fontFamily": "Teenyicons",
+      "identifier": "bedDoubleSolid"
+    },
+    "bed-single-outline": {
+      "codepoint": 57490,
+      "fontFamily": "Teenyicons",
+      "identifier": "bedSingleOutline"
+    },
+    "bed-single-solid": {
+      "codepoint": 57491,
+      "fontFamily": "Teenyicons",
+      "identifier": "bedSingleSolid"
+    },
+    "behance-outline": {
+      "codepoint": 57492,
+      "fontFamily": "Teenyicons",
+      "identifier": "behanceOutline"
+    },
+    "behance-solid": {
+      "codepoint": 57493,
+      "fontFamily": "Teenyicons",
+      "identifier": "behanceSolid"
+    },
+    "bell-outline": {
+      "codepoint": 57494,
+      "fontFamily": "Teenyicons",
+      "identifier": "bellOutline"
+    },
+    "bell-solid": {
+      "codepoint": 57495,
+      "fontFamily": "Teenyicons",
+      "identifier": "bellSolid"
+    },
+    "bin-outline": {
+      "codepoint": 57496,
+      "fontFamily": "Teenyicons",
+      "identifier": "binOutline"
+    },
+    "bin-solid": {
+      "codepoint": 57497,
+      "fontFamily": "Teenyicons",
+      "identifier": "binSolid"
+    },
+    "bitbucket-outline": {
+      "codepoint": 57498,
+      "fontFamily": "Teenyicons",
+      "identifier": "bitbucketOutline"
+    },
+    "bitbucket-solid": {
+      "codepoint": 57499,
+      "fontFamily": "Teenyicons",
+      "identifier": "bitbucketSolid"
+    },
+    "bitcoin-outline": {
+      "codepoint": 57500,
+      "fontFamily": "Teenyicons",
+      "identifier": "bitcoinOutline"
+    },
+    "bitcoin-solid": {
+      "codepoint": 57501,
+      "fontFamily": "Teenyicons",
+      "identifier": "bitcoinSolid"
+    },
+    "bluetooth-outline": {
+      "codepoint": 57502,
+      "fontFamily": "Teenyicons",
+      "identifier": "bluetoothOutline"
+    },
+    "bluetooth-solid": {
+      "codepoint": 57503,
+      "fontFamily": "Teenyicons",
+      "identifier": "bluetoothSolid"
+    },
+    "bold-outline": {
+      "codepoint": 57504,
+      "fontFamily": "Teenyicons",
+      "identifier": "boldOutline"
+    },
+    "bold-solid": {
+      "codepoint": 57505,
+      "fontFamily": "Teenyicons",
+      "identifier": "boldSolid"
+    },
+    "book-outline": {
+      "codepoint": 57506,
+      "fontFamily": "Teenyicons",
+      "identifier": "bookOutline"
+    },
+    "book-solid": {
+      "codepoint": 57507,
+      "fontFamily": "Teenyicons",
+      "identifier": "bookSolid"
+    },
+    "bookmark-outline": {
+      "codepoint": 57508,
+      "fontFamily": "Teenyicons",
+      "identifier": "bookmarkOutline"
+    },
+    "bookmark-solid": {
+      "codepoint": 57509,
+      "fontFamily": "Teenyicons",
+      "identifier": "bookmarkSolid"
+    },
+    "border-all-outline": {
+      "codepoint": 57510,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderAllOutline"
+    },
+    "border-all-solid": {
+      "codepoint": 57511,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderAllSolid"
+    },
+    "border-bottom-outline": {
+      "codepoint": 57512,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderBottomOutline"
+    },
+    "border-bottom-solid": {
+      "codepoint": 57513,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderBottomSolid"
+    },
+    "border-horizontal-outline": {
+      "codepoint": 57514,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderHorizontalOutline"
+    },
+    "border-horizontal-solid": {
+      "codepoint": 57515,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderHorizontalSolid"
+    },
+    "border-inner-outline": {
+      "codepoint": 57516,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderInnerOutline"
+    },
+    "border-inner-solid": {
+      "codepoint": 57517,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderInnerSolid"
+    },
+    "border-left-outline": {
+      "codepoint": 57518,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderLeftOutline"
+    },
+    "border-left-solid": {
+      "codepoint": 57519,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderLeftSolid"
+    },
+    "border-none-outline": {
+      "codepoint": 57520,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderNoneOutline"
+    },
+    "border-none-solid": {
+      "codepoint": 57521,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderNoneSolid"
+    },
+    "border-outer-outline": {
+      "codepoint": 57522,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderOuterOutline"
+    },
+    "border-outer-solid": {
+      "codepoint": 57523,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderOuterSolid"
+    },
+    "border-radius-outline": {
+      "codepoint": 57524,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderRadiusOutline"
+    },
+    "border-radius-solid": {
+      "codepoint": 57525,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderRadiusSolid"
+    },
+    "border-right-outline": {
+      "codepoint": 57526,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderRightOutline"
+    },
+    "border-right-solid": {
+      "codepoint": 57527,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderRightSolid"
+    },
+    "border-top-outline": {
+      "codepoint": 57528,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderTopOutline"
+    },
+    "border-top-solid": {
+      "codepoint": 57529,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderTopSolid"
+    },
+    "border-vertical-outline": {
+      "codepoint": 57530,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderVerticalOutline"
+    },
+    "border-vertical-solid": {
+      "codepoint": 57531,
+      "fontFamily": "Teenyicons",
+      "identifier": "borderVerticalSolid"
+    },
+    "bottom-left-outline": {
+      "codepoint": 57532,
+      "fontFamily": "Teenyicons",
+      "identifier": "bottomLeftOutline"
+    },
+    "bottom-left-solid": {
+      "codepoint": 57533,
+      "fontFamily": "Teenyicons",
+      "identifier": "bottomLeftSolid"
+    },
+    "bottom-right-outline": {
+      "codepoint": 57534,
+      "fontFamily": "Teenyicons",
+      "identifier": "bottomRightOutline"
+    },
+    "bottom-right-solid": {
+      "codepoint": 57535,
+      "fontFamily": "Teenyicons",
+      "identifier": "bottomRightSolid"
+    },
+    "box-outline": {
+      "codepoint": 57536,
+      "fontFamily": "Teenyicons",
+      "identifier": "boxOutline"
+    },
+    "box-solid": {
+      "codepoint": 57537,
+      "fontFamily": "Teenyicons",
+      "identifier": "boxSolid"
+    },
+    "bracket-outline": {
+      "codepoint": 57538,
+      "fontFamily": "Teenyicons",
+      "identifier": "bracketOutline"
+    },
+    "bracket-solid": {
+      "codepoint": 57539,
+      "fontFamily": "Teenyicons",
+      "identifier": "bracketSolid"
+    },
+    "briefcase-alt-outline": {
+      "codepoint": 57540,
+      "fontFamily": "Teenyicons",
+      "identifier": "briefcaseAltOutline"
+    },
+    "briefcase-alt-solid": {
+      "codepoint": 57541,
+      "fontFamily": "Teenyicons",
+      "identifier": "briefcaseAltSolid"
+    },
+    "briefcase-outline": {
+      "codepoint": 57542,
+      "fontFamily": "Teenyicons",
+      "identifier": "briefcaseOutline"
+    },
+    "briefcase-solid": {
+      "codepoint": 57543,
+      "fontFamily": "Teenyicons",
+      "identifier": "briefcaseSolid"
+    },
+    "brush-outline": {
+      "codepoint": 57544,
+      "fontFamily": "Teenyicons",
+      "identifier": "brushOutline"
+    },
+    "brush-solid": {
+      "codepoint": 57545,
+      "fontFamily": "Teenyicons",
+      "identifier": "brushSolid"
+    },
+    "bug-outline": {
+      "codepoint": 57546,
+      "fontFamily": "Teenyicons",
+      "identifier": "bugOutline"
+    },
+    "bug-solid": {
+      "codepoint": 57547,
+      "fontFamily": "Teenyicons",
+      "identifier": "bugSolid"
+    },
+    "building-outline": {
+      "codepoint": 57548,
+      "fontFamily": "Teenyicons",
+      "identifier": "buildingOutline"
+    },
+    "building-solid": {
+      "codepoint": 57549,
+      "fontFamily": "Teenyicons",
+      "identifier": "buildingSolid"
+    },
+    "bulb-off-outline": {
+      "codepoint": 57550,
+      "fontFamily": "Teenyicons",
+      "identifier": "bulbOffOutline"
+    },
+    "bulb-off-solid": {
+      "codepoint": 57551,
+      "fontFamily": "Teenyicons",
+      "identifier": "bulbOffSolid"
+    },
+    "bulb-on-outline": {
+      "codepoint": 57552,
+      "fontFamily": "Teenyicons",
+      "identifier": "bulbOnOutline"
+    },
+    "bulb-on-solid": {
+      "codepoint": 57553,
+      "fontFamily": "Teenyicons",
+      "identifier": "bulbOnSolid"
+    },
+    "button-outline": {
+      "codepoint": 57554,
+      "fontFamily": "Teenyicons",
+      "identifier": "buttonOutline"
+    },
+    "button-solid": {
+      "codepoint": 57555,
+      "fontFamily": "Teenyicons",
+      "identifier": "buttonSolid"
+    },
+    "c-outline": {
+      "codepoint": 57556,
+      "fontFamily": "Teenyicons",
+      "identifier": "cOutline"
+    },
+    "c-sharp-outline": {
+      "codepoint": 57557,
+      "fontFamily": "Teenyicons",
+      "identifier": "cSharpOutline"
+    },
+    "c-sharp-solid": {
+      "codepoint": 57558,
+      "fontFamily": "Teenyicons",
+      "identifier": "cSharpSolid"
+    },
+    "c-solid": {
+      "codepoint": 57559,
+      "fontFamily": "Teenyicons",
+      "identifier": "cSolid"
+    },
+    "calculator-outline": {
+      "codepoint": 57560,
+      "fontFamily": "Teenyicons",
+      "identifier": "calculatorOutline"
+    },
+    "calculator-solid": {
+      "codepoint": 57561,
+      "fontFamily": "Teenyicons",
+      "identifier": "calculatorSolid"
+    },
+    "calendar-minus-outline": {
+      "codepoint": 57562,
+      "fontFamily": "Teenyicons",
+      "identifier": "calendarMinusOutline"
+    },
+    "calendar-minus-solid": {
+      "codepoint": 57563,
+      "fontFamily": "Teenyicons",
+      "identifier": "calendarMinusSolid"
+    },
+    "calendar-no-access-outline": {
+      "codepoint": 57564,
+      "fontFamily": "Teenyicons",
+      "identifier": "calendarNoAccessOutline"
+    },
+    "calendar-no-access-solid": {
+      "codepoint": 57565,
+      "fontFamily": "Teenyicons",
+      "identifier": "calendarNoAccessSolid"
+    },
+    "calendar-outline": {
+      "codepoint": 57566,
+      "fontFamily": "Teenyicons",
+      "identifier": "calendarOutline"
+    },
+    "calendar-plus-outline": {
+      "codepoint": 57567,
+      "fontFamily": "Teenyicons",
+      "identifier": "calendarPlusOutline"
+    },
+    "calendar-plus-solid": {
+      "codepoint": 57568,
+      "fontFamily": "Teenyicons",
+      "identifier": "calendarPlusSolid"
+    },
+    "calendar-solid": {
+      "codepoint": 57569,
+      "fontFamily": "Teenyicons",
+      "identifier": "calendarSolid"
+    },
+    "calendar-tick-outline": {
+      "codepoint": 57570,
+      "fontFamily": "Teenyicons",
+      "identifier": "calendarTickOutline"
+    },
+    "calendar-tick-solid": {
+      "codepoint": 57571,
+      "fontFamily": "Teenyicons",
+      "identifier": "calendarTickSolid"
+    },
+    "calendar-x-outline": {
+      "codepoint": 57572,
+      "fontFamily": "Teenyicons",
+      "identifier": "calendarXOutline"
+    },
+    "calendar-x-solid": {
+      "codepoint": 57573,
+      "fontFamily": "Teenyicons",
+      "identifier": "calendarXSolid"
+    },
+    "camera-outline": {
+      "codepoint": 57574,
+      "fontFamily": "Teenyicons",
+      "identifier": "cameraOutline"
+    },
+    "camera-solid": {
+      "codepoint": 57575,
+      "fontFamily": "Teenyicons",
+      "identifier": "cameraSolid"
+    },
+    "candle-chart-outline": {
+      "codepoint": 57576,
+      "fontFamily": "Teenyicons",
+      "identifier": "candleChartOutline"
+    },
+    "candle-chart-solid": {
+      "codepoint": 57577,
+      "fontFamily": "Teenyicons",
+      "identifier": "candleChartSolid"
+    },
+    "car-outline": {
+      "codepoint": 57578,
+      "fontFamily": "Teenyicons",
+      "identifier": "carOutline"
+    },
+    "car-solid": {
+      "codepoint": 57579,
+      "fontFamily": "Teenyicons",
+      "identifier": "carSolid"
+    },
+    "caret-vertical-circle-outline": {
+      "codepoint": 57580,
+      "fontFamily": "Teenyicons",
+      "identifier": "caretVerticalCircleOutline"
+    },
+    "caret-vertical-circle-solid": {
+      "codepoint": 57581,
+      "fontFamily": "Teenyicons",
+      "identifier": "caretVerticalCircleSolid"
+    },
+    "caret-vertical-outline": {
+      "codepoint": 57582,
+      "fontFamily": "Teenyicons",
+      "identifier": "caretVerticalOutline"
+    },
+    "caret-vertical-small-outline": {
+      "codepoint": 57583,
+      "fontFamily": "Teenyicons",
+      "identifier": "caretVerticalSmallOutline"
+    },
+    "caret-vertical-small-solid": {
+      "codepoint": 57584,
+      "fontFamily": "Teenyicons",
+      "identifier": "caretVerticalSmallSolid"
+    },
+    "caret-vertical-solid": {
+      "codepoint": 57585,
+      "fontFamily": "Teenyicons",
+      "identifier": "caretVerticalSolid"
+    },
+    "cart-minus-outline": {
+      "codepoint": 57586,
+      "fontFamily": "Teenyicons",
+      "identifier": "cartMinusOutline"
+    },
+    "cart-minus-solid": {
+      "codepoint": 57587,
+      "fontFamily": "Teenyicons",
+      "identifier": "cartMinusSolid"
+    },
+    "cart-outline": {
+      "codepoint": 57588,
+      "fontFamily": "Teenyicons",
+      "identifier": "cartOutline"
+    },
+    "cart-plus-outline": {
+      "codepoint": 57589,
+      "fontFamily": "Teenyicons",
+      "identifier": "cartPlusOutline"
+    },
+    "cart-plus-solid": {
+      "codepoint": 57590,
+      "fontFamily": "Teenyicons",
+      "identifier": "cartPlusSolid"
+    },
+    "cart-solid": {
+      "codepoint": 57591,
+      "fontFamily": "Teenyicons",
+      "identifier": "cartSolid"
+    },
+    "certificate-outline": {
+      "codepoint": 57592,
+      "fontFamily": "Teenyicons",
+      "identifier": "certificateOutline"
+    },
+    "certificate-solid": {
+      "codepoint": 57593,
+      "fontFamily": "Teenyicons",
+      "identifier": "certificateSolid"
+    },
+    "chat-outline": {
+      "codepoint": 57594,
+      "fontFamily": "Teenyicons",
+      "identifier": "chatOutline"
+    },
+    "chat-solid": {
+      "codepoint": 57595,
+      "fontFamily": "Teenyicons",
+      "identifier": "chatSolid"
+    },
+    "chat-typing-alt-outline": {
+      "codepoint": 57596,
+      "fontFamily": "Teenyicons",
+      "identifier": "chatTypingAltOutline"
+    },
+    "chat-typing-alt-solid": {
+      "codepoint": 57597,
+      "fontFamily": "Teenyicons",
+      "identifier": "chatTypingAltSolid"
+    },
+    "chat-typing-outline": {
+      "codepoint": 57598,
+      "fontFamily": "Teenyicons",
+      "identifier": "chatTypingOutline"
+    },
+    "chat-typing-solid": {
+      "codepoint": 57599,
+      "fontFamily": "Teenyicons",
+      "identifier": "chatTypingSolid"
+    },
+    "chatbot-outline": {
+      "codepoint": 57600,
+      "fontFamily": "Teenyicons",
+      "identifier": "chatbotOutline"
+    },
+    "chatbot-solid": {
+      "codepoint": 57601,
+      "fontFamily": "Teenyicons",
+      "identifier": "chatbotSolid"
+    },
+    "chrome-outline": {
+      "codepoint": 57602,
+      "fontFamily": "Teenyicons",
+      "identifier": "chromeOutline"
+    },
+    "chrome-solid": {
+      "codepoint": 57603,
+      "fontFamily": "Teenyicons",
+      "identifier": "chromeSolid"
+    },
+    "church-outline": {
+      "codepoint": 57604,
+      "fontFamily": "Teenyicons",
+      "identifier": "churchOutline"
+    },
+    "church-solid": {
+      "codepoint": 57605,
+      "fontFamily": "Teenyicons",
+      "identifier": "churchSolid"
+    },
+    "circle-outline": {
+      "codepoint": 57606,
+      "fontFamily": "Teenyicons",
+      "identifier": "circleOutline"
+    },
+    "circle-solid": {
+      "codepoint": 57607,
+      "fontFamily": "Teenyicons",
+      "identifier": "circleSolid"
+    },
+    "clipboard-minus-outline": {
+      "codepoint": 57608,
+      "fontFamily": "Teenyicons",
+      "identifier": "clipboardMinusOutline"
+    },
+    "clipboard-minus-solid": {
+      "codepoint": 57609,
+      "fontFamily": "Teenyicons",
+      "identifier": "clipboardMinusSolid"
+    },
+    "clipboard-no-access-outline": {
+      "codepoint": 57610,
+      "fontFamily": "Teenyicons",
+      "identifier": "clipboardNoAccessOutline"
+    },
+    "clipboard-no-access-solid": {
+      "codepoint": 57611,
+      "fontFamily": "Teenyicons",
+      "identifier": "clipboardNoAccessSolid"
+    },
+    "clipboard-outline": {
+      "codepoint": 57612,
+      "fontFamily": "Teenyicons",
+      "identifier": "clipboardOutline"
+    },
+    "clipboard-plus-outline": {
+      "codepoint": 57613,
+      "fontFamily": "Teenyicons",
+      "identifier": "clipboardPlusOutline"
+    },
+    "clipboard-plus-solid": {
+      "codepoint": 57614,
+      "fontFamily": "Teenyicons",
+      "identifier": "clipboardPlusSolid"
+    },
+    "clipboard-solid": {
+      "codepoint": 57615,
+      "fontFamily": "Teenyicons",
+      "identifier": "clipboardSolid"
+    },
+    "clipboard-tick-outline": {
+      "codepoint": 57616,
+      "fontFamily": "Teenyicons",
+      "identifier": "clipboardTickOutline"
+    },
+    "clipboard-tick-solid": {
+      "codepoint": 57617,
+      "fontFamily": "Teenyicons",
+      "identifier": "clipboardTickSolid"
+    },
+    "clipboard-x-outline": {
+      "codepoint": 57618,
+      "fontFamily": "Teenyicons",
+      "identifier": "clipboardXOutline"
+    },
+    "clipboard-x-solid": {
+      "codepoint": 57619,
+      "fontFamily": "Teenyicons",
+      "identifier": "clipboardXSolid"
+    },
+    "clock-outline": {
+      "codepoint": 57620,
+      "fontFamily": "Teenyicons",
+      "identifier": "clockOutline"
+    },
+    "clock-solid": {
+      "codepoint": 57621,
+      "fontFamily": "Teenyicons",
+      "identifier": "clockSolid"
+    },
+    "clockwise-outline": {
+      "codepoint": 57622,
+      "fontFamily": "Teenyicons",
+      "identifier": "clockwiseOutline"
+    },
+    "clockwise-solid": {
+      "codepoint": 57623,
+      "fontFamily": "Teenyicons",
+      "identifier": "clockwiseSolid"
+    },
+    "code-outline": {
+      "codepoint": 57624,
+      "fontFamily": "Teenyicons",
+      "identifier": "codeOutline"
+    },
+    "code-solid": {
+      "codepoint": 57625,
+      "fontFamily": "Teenyicons",
+      "identifier": "codeSolid"
+    },
+    "codepen-outline": {
+      "codepoint": 57626,
+      "fontFamily": "Teenyicons",
+      "identifier": "codepenOutline"
+    },
+    "codepen-solid": {
+      "codepoint": 57627,
+      "fontFamily": "Teenyicons",
+      "identifier": "codepenSolid"
+    },
+    "cog-outline": {
+      "codepoint": 57628,
+      "fontFamily": "Teenyicons",
+      "identifier": "cogOutline"
+    },
+    "cog-solid": {
+      "codepoint": 57629,
+      "fontFamily": "Teenyicons",
+      "identifier": "cogSolid"
+    },
+    "compass-outline": {
+      "codepoint": 57630,
+      "fontFamily": "Teenyicons",
+      "identifier": "compassOutline"
+    },
+    "compass-solid": {
+      "codepoint": 57631,
+      "fontFamily": "Teenyicons",
+      "identifier": "compassSolid"
+    },
+    "computer-outline": {
+      "codepoint": 57632,
+      "fontFamily": "Teenyicons",
+      "identifier": "computerOutline"
+    },
+    "computer-solid": {
+      "codepoint": 57633,
+      "fontFamily": "Teenyicons",
+      "identifier": "computerSolid"
+    },
+    "contact-outline": {
+      "codepoint": 57634,
+      "fontFamily": "Teenyicons",
+      "identifier": "contactOutline"
+    },
+    "contact-solid": {
+      "codepoint": 57635,
+      "fontFamily": "Teenyicons",
+      "identifier": "contactSolid"
+    },
+    "contract-outline": {
+      "codepoint": 57636,
+      "fontFamily": "Teenyicons",
+      "identifier": "contractOutline"
+    },
+    "contract-solid": {
+      "codepoint": 57637,
+      "fontFamily": "Teenyicons",
+      "identifier": "contractSolid"
+    },
+    "cost-estimate-outline": {
+      "codepoint": 57638,
+      "fontFamily": "Teenyicons",
+      "identifier": "costEstimateOutline"
+    },
+    "cost-estimate-solid": {
+      "codepoint": 57639,
+      "fontFamily": "Teenyicons",
+      "identifier": "costEstimateSolid"
+    },
+    "cplusplus-outline": {
+      "codepoint": 57640,
+      "fontFamily": "Teenyicons",
+      "identifier": "cplusplusOutline"
+    },
+    "cplusplus-solid": {
+      "codepoint": 57641,
+      "fontFamily": "Teenyicons",
+      "identifier": "cplusplusSolid"
+    },
+    "credit-card-outline": {
+      "codepoint": 57642,
+      "fontFamily": "Teenyicons",
+      "identifier": "creditCardOutline"
+    },
+    "credit-card-solid": {
+      "codepoint": 57643,
+      "fontFamily": "Teenyicons",
+      "identifier": "creditCardSolid"
+    },
+    "crop-outline": {
+      "codepoint": 57644,
+      "fontFamily": "Teenyicons",
+      "identifier": "cropOutline"
+    },
+    "crop-solid": {
+      "codepoint": 57645,
+      "fontFamily": "Teenyicons",
+      "identifier": "cropSolid"
+    },
+    "css3-outline": {
+      "codepoint": 57646,
+      "fontFamily": "Teenyicons",
+      "identifier": "css3Outline"
+    },
+    "css3-solid": {
+      "codepoint": 57647,
+      "fontFamily": "Teenyicons",
+      "identifier": "css3Solid"
+    },
+    "csv-outline": {
+      "codepoint": 57648,
+      "fontFamily": "Teenyicons",
+      "identifier": "csvOutline"
+    },
+    "csv-solid": {
+      "codepoint": 57649,
+      "fontFamily": "Teenyicons",
+      "identifier": "csvSolid"
+    },
+    "cup-outline": {
+      "codepoint": 57650,
+      "fontFamily": "Teenyicons",
+      "identifier": "cupOutline"
+    },
+    "cup-solid": {
+      "codepoint": 57651,
+      "fontFamily": "Teenyicons",
+      "identifier": "cupSolid"
+    },
+    "curved-connector-outline": {
+      "codepoint": 57652,
+      "fontFamily": "Teenyicons",
+      "identifier": "curvedConnectorOutline"
+    },
+    "curved-connector-solid": {
+      "codepoint": 57653,
+      "fontFamily": "Teenyicons",
+      "identifier": "curvedConnectorSolid"
+    },
+    "d3-outline": {
+      "codepoint": 57654,
+      "fontFamily": "Teenyicons",
+      "identifier": "d3Outline"
+    },
+    "d3-solid": {
+      "codepoint": 57655,
+      "fontFamily": "Teenyicons",
+      "identifier": "d3Solid"
+    },
+    "database-outline": {
+      "codepoint": 57656,
+      "fontFamily": "Teenyicons",
+      "identifier": "databaseOutline"
+    },
+    "database-solid": {
+      "codepoint": 57657,
+      "fontFamily": "Teenyicons",
+      "identifier": "databaseSolid"
+    },
+    "denied-outline": {
+      "codepoint": 57658,
+      "fontFamily": "Teenyicons",
+      "identifier": "deniedOutline"
+    },
+    "denied-solid": {
+      "codepoint": 57659,
+      "fontFamily": "Teenyicons",
+      "identifier": "deniedSolid"
+    },
+    "deno-outline": {
+      "codepoint": 57660,
+      "fontFamily": "Teenyicons",
+      "identifier": "denoOutline"
+    },
+    "deno-solid": {
+      "codepoint": 57661,
+      "fontFamily": "Teenyicons",
+      "identifier": "denoSolid"
+    },
+    "depth-chart-outline": {
+      "codepoint": 57662,
+      "fontFamily": "Teenyicons",
+      "identifier": "depthChartOutline"
+    },
+    "depth-chart-solid": {
+      "codepoint": 57663,
+      "fontFamily": "Teenyicons",
+      "identifier": "depthChartSolid"
+    },
+    "desklamp-outline": {
+      "codepoint": 57664,
+      "fontFamily": "Teenyicons",
+      "identifier": "desklampOutline"
+    },
+    "desklamp-solid": {
+      "codepoint": 57665,
+      "fontFamily": "Teenyicons",
+      "identifier": "desklampSolid"
+    },
+    "diamond-outline": {
+      "codepoint": 57666,
+      "fontFamily": "Teenyicons",
+      "identifier": "diamondOutline"
+    },
+    "diamond-solid": {
+      "codepoint": 57667,
+      "fontFamily": "Teenyicons",
+      "identifier": "diamondSolid"
+    },
+    "direction-outline": {
+      "codepoint": 57668,
+      "fontFamily": "Teenyicons",
+      "identifier": "directionOutline"
+    },
+    "direction-solid": {
+      "codepoint": 57669,
+      "fontFamily": "Teenyicons",
+      "identifier": "directionSolid"
+    },
+    "discord-outline": {
+      "codepoint": 57670,
+      "fontFamily": "Teenyicons",
+      "identifier": "discordOutline"
+    },
+    "discord-solid": {
+      "codepoint": 57671,
+      "fontFamily": "Teenyicons",
+      "identifier": "discordSolid"
+    },
+    "discount-outline": {
+      "codepoint": 57672,
+      "fontFamily": "Teenyicons",
+      "identifier": "discountOutline"
+    },
+    "discount-solid": {
+      "codepoint": 57673,
+      "fontFamily": "Teenyicons",
+      "identifier": "discountSolid"
+    },
+    "distribute-horizontal-outline": {
+      "codepoint": 57674,
+      "fontFamily": "Teenyicons",
+      "identifier": "distributeHorizontalOutline"
+    },
+    "distribute-horizontal-solid": {
+      "codepoint": 57675,
+      "fontFamily": "Teenyicons",
+      "identifier": "distributeHorizontalSolid"
+    },
+    "distribute-vertical-outline": {
+      "codepoint": 57676,
+      "fontFamily": "Teenyicons",
+      "identifier": "distributeVerticalOutline"
+    },
+    "distribute-vertical-solid": {
+      "codepoint": 57677,
+      "fontFamily": "Teenyicons",
+      "identifier": "distributeVerticalSolid"
+    },
+    "divider-line-outline": {
+      "codepoint": 57678,
+      "fontFamily": "Teenyicons",
+      "identifier": "dividerLineOutline"
+    },
+    "divider-line-solid": {
+      "codepoint": 57679,
+      "fontFamily": "Teenyicons",
+      "identifier": "dividerLineSolid"
+    },
+    "doc-outline": {
+      "codepoint": 57680,
+      "fontFamily": "Teenyicons",
+      "identifier": "docOutline"
+    },
+    "doc-solid": {
+      "codepoint": 57681,
+      "fontFamily": "Teenyicons",
+      "identifier": "docSolid"
+    },
+    "docker-outline": {
+      "codepoint": 57682,
+      "fontFamily": "Teenyicons",
+      "identifier": "dockerOutline"
+    },
+    "docker-solid": {
+      "codepoint": 57683,
+      "fontFamily": "Teenyicons",
+      "identifier": "dockerSolid"
+    },
+    "documents-outline": {
+      "codepoint": 57684,
+      "fontFamily": "Teenyicons",
+      "identifier": "documentsOutline"
+    },
+    "documents-solid": {
+      "codepoint": 57685,
+      "fontFamily": "Teenyicons",
+      "identifier": "documentsSolid"
+    },
+    "dollar-outline": {
+      "codepoint": 57686,
+      "fontFamily": "Teenyicons",
+      "identifier": "dollarOutline"
+    },
+    "dollar-solid": {
+      "codepoint": 57687,
+      "fontFamily": "Teenyicons",
+      "identifier": "dollarSolid"
+    },
+    "donut-chart-outline": {
+      "codepoint": 57688,
+      "fontFamily": "Teenyicons",
+      "identifier": "donutChartOutline"
+    },
+    "donut-chart-solid": {
+      "codepoint": 57689,
+      "fontFamily": "Teenyicons",
+      "identifier": "donutChartSolid"
+    },
+    "double-caret-down-circle-outline": {
+      "codepoint": 57690,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretDownCircleOutline"
+    },
+    "double-caret-down-circle-solid": {
+      "codepoint": 57691,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretDownCircleSolid"
+    },
+    "double-caret-down-outline": {
+      "codepoint": 57692,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretDownOutline"
+    },
+    "double-caret-down-small-outline": {
+      "codepoint": 57693,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretDownSmallOutline"
+    },
+    "double-caret-down-small-solid": {
+      "codepoint": 57694,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretDownSmallSolid"
+    },
+    "double-caret-down-solid": {
+      "codepoint": 57695,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretDownSolid"
+    },
+    "double-caret-left-circle-outline": {
+      "codepoint": 57696,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretLeftCircleOutline"
+    },
+    "double-caret-left-circle-solid": {
+      "codepoint": 57697,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretLeftCircleSolid"
+    },
+    "double-caret-left-outline": {
+      "codepoint": 57698,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretLeftOutline"
+    },
+    "double-caret-left-small-outline": {
+      "codepoint": 57699,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretLeftSmallOutline"
+    },
+    "double-caret-left-small-solid": {
+      "codepoint": 57700,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretLeftSmallSolid"
+    },
+    "double-caret-left-solid": {
+      "codepoint": 57701,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretLeftSolid"
+    },
+    "double-caret-right-circle-outline": {
+      "codepoint": 57702,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretRightCircleOutline"
+    },
+    "double-caret-right-circle-solid": {
+      "codepoint": 57703,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretRightCircleSolid"
+    },
+    "double-caret-right-outline": {
+      "codepoint": 57704,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretRightOutline"
+    },
+    "double-caret-right-small-outline": {
+      "codepoint": 57705,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretRightSmallOutline"
+    },
+    "double-caret-right-small-solid": {
+      "codepoint": 57706,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretRightSmallSolid"
+    },
+    "double-caret-right-solid": {
+      "codepoint": 57707,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretRightSolid"
+    },
+    "double-caret-up-circle-outline": {
+      "codepoint": 57708,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretUpCircleOutline"
+    },
+    "double-caret-up-circle-solid": {
+      "codepoint": 57709,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretUpCircleSolid"
+    },
+    "double-caret-up-outline": {
+      "codepoint": 57710,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretUpOutline"
+    },
+    "double-caret-up-small-outline": {
+      "codepoint": 57711,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretUpSmallOutline"
+    },
+    "double-caret-up-small-solid": {
+      "codepoint": 57712,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretUpSmallSolid"
+    },
+    "double-caret-up-solid": {
+      "codepoint": 57713,
+      "fontFamily": "Teenyicons",
+      "identifier": "doubleCaretUpSolid"
+    },
+    "down-circle-outline": {
+      "codepoint": 57714,
+      "fontFamily": "Teenyicons",
+      "identifier": "downCircleOutline"
+    },
+    "down-circle-solid": {
+      "codepoint": 57715,
+      "fontFamily": "Teenyicons",
+      "identifier": "downCircleSolid"
+    },
+    "down-outline": {
+      "codepoint": 57716,
+      "fontFamily": "Teenyicons",
+      "identifier": "downOutline"
+    },
+    "down-small-outline": {
+      "codepoint": 57717,
+      "fontFamily": "Teenyicons",
+      "identifier": "downSmallOutline"
+    },
+    "down-small-solid": {
+      "codepoint": 57718,
+      "fontFamily": "Teenyicons",
+      "identifier": "downSmallSolid"
+    },
+    "down-solid": {
+      "codepoint": 57719,
+      "fontFamily": "Teenyicons",
+      "identifier": "downSolid"
+    },
+    "download-outline": {
+      "codepoint": 57720,
+      "fontFamily": "Teenyicons",
+      "identifier": "downloadOutline"
+    },
+    "download-solid": {
+      "codepoint": 57721,
+      "fontFamily": "Teenyicons",
+      "identifier": "downloadSolid"
+    },
+    "drag-horizontal-outline": {
+      "codepoint": 57722,
+      "fontFamily": "Teenyicons",
+      "identifier": "dragHorizontalOutline"
+    },
+    "drag-horizontal-solid": {
+      "codepoint": 57723,
+      "fontFamily": "Teenyicons",
+      "identifier": "dragHorizontalSolid"
+    },
+    "drag-outline": {
+      "codepoint": 57724,
+      "fontFamily": "Teenyicons",
+      "identifier": "dragOutline"
+    },
+    "drag-solid": {
+      "codepoint": 57725,
+      "fontFamily": "Teenyicons",
+      "identifier": "dragSolid"
+    },
+    "drag-vertical-outline": {
+      "codepoint": 57726,
+      "fontFamily": "Teenyicons",
+      "identifier": "dragVerticalOutline"
+    },
+    "drag-vertical-solid": {
+      "codepoint": 57727,
+      "fontFamily": "Teenyicons",
+      "identifier": "dragVerticalSolid"
+    },
+    "dribbble-outline": {
+      "codepoint": 57728,
+      "fontFamily": "Teenyicons",
+      "identifier": "dribbbleOutline"
+    },
+    "dribbble-solid": {
+      "codepoint": 57729,
+      "fontFamily": "Teenyicons",
+      "identifier": "dribbbleSolid"
+    },
+    "drop-outline": {
+      "codepoint": 57730,
+      "fontFamily": "Teenyicons",
+      "identifier": "dropOutline"
+    },
+    "drop-solid": {
+      "codepoint": 57731,
+      "fontFamily": "Teenyicons",
+      "identifier": "dropSolid"
+    },
+    "dropper-outline": {
+      "codepoint": 57732,
+      "fontFamily": "Teenyicons",
+      "identifier": "dropperOutline"
+    },
+    "dropper-solid": {
+      "codepoint": 57733,
+      "fontFamily": "Teenyicons",
+      "identifier": "dropperSolid"
+    },
+    "edge-outline": {
+      "codepoint": 57734,
+      "fontFamily": "Teenyicons",
+      "identifier": "edgeOutline"
+    },
+    "edge-solid": {
+      "codepoint": 57735,
+      "fontFamily": "Teenyicons",
+      "identifier": "edgeSolid"
+    },
+    "edit-1-outline": {
+      "codepoint": 57736,
+      "fontFamily": "Teenyicons",
+      "identifier": "edit1Outline"
+    },
+    "edit-1-solid": {
+      "codepoint": 57737,
+      "fontFamily": "Teenyicons",
+      "identifier": "edit1Solid"
+    },
+    "edit-circle-outline": {
+      "codepoint": 57738,
+      "fontFamily": "Teenyicons",
+      "identifier": "editCircleOutline"
+    },
+    "edit-circle-solid": {
+      "codepoint": 57739,
+      "fontFamily": "Teenyicons",
+      "identifier": "editCircleSolid"
+    },
+    "edit-outline": {
+      "codepoint": 57740,
+      "fontFamily": "Teenyicons",
+      "identifier": "editOutline"
+    },
+    "edit-small-outline": {
+      "codepoint": 57741,
+      "fontFamily": "Teenyicons",
+      "identifier": "editSmallOutline"
+    },
+    "edit-small-solid": {
+      "codepoint": 57742,
+      "fontFamily": "Teenyicons",
+      "identifier": "editSmallSolid"
+    },
+    "edit-solid": {
+      "codepoint": 57743,
+      "fontFamily": "Teenyicons",
+      "identifier": "editSolid"
+    },
+    "elbow-connector-outline": {
+      "codepoint": 57744,
+      "fontFamily": "Teenyicons",
+      "identifier": "elbowConnectorOutline"
+    },
+    "elbow-connector-solid": {
+      "codepoint": 57745,
+      "fontFamily": "Teenyicons",
+      "identifier": "elbowConnectorSolid"
+    },
+    "envelope-open-outline": {
+      "codepoint": 57746,
+      "fontFamily": "Teenyicons",
+      "identifier": "envelopeOpenOutline"
+    },
+    "envelope-open-solid": {
+      "codepoint": 57747,
+      "fontFamily": "Teenyicons",
+      "identifier": "envelopeOpenSolid"
+    },
+    "envelope-outline": {
+      "codepoint": 57748,
+      "fontFamily": "Teenyicons",
+      "identifier": "envelopeOutline"
+    },
+    "envelope-solid": {
+      "codepoint": 57749,
+      "fontFamily": "Teenyicons",
+      "identifier": "envelopeSolid"
+    },
+    "eps-outline": {
+      "codepoint": 57750,
+      "fontFamily": "Teenyicons",
+      "identifier": "epsOutline"
+    },
+    "eps-solid": {
+      "codepoint": 57751,
+      "fontFamily": "Teenyicons",
+      "identifier": "epsSolid"
+    },
+    "eslint-outline": {
+      "codepoint": 57752,
+      "fontFamily": "Teenyicons",
+      "identifier": "eslintOutline"
+    },
+    "eslint-solid": {
+      "codepoint": 57753,
+      "fontFamily": "Teenyicons",
+      "identifier": "eslintSolid"
+    },
+    "ethereum-outline": {
+      "codepoint": 57754,
+      "fontFamily": "Teenyicons",
+      "identifier": "ethereumOutline"
+    },
+    "ethereum-solid": {
+      "codepoint": 57755,
+      "fontFamily": "Teenyicons",
+      "identifier": "ethereumSolid"
+    },
+    "euro-outline": {
+      "codepoint": 57756,
+      "fontFamily": "Teenyicons",
+      "identifier": "euroOutline"
+    },
+    "euro-solid": {
+      "codepoint": 57757,
+      "fontFamily": "Teenyicons",
+      "identifier": "euroSolid"
+    },
+    "exclamation-circle-outline": {
+      "codepoint": 57758,
+      "fontFamily": "Teenyicons",
+      "identifier": "exclamationCircleOutline"
+    },
+    "exclamation-circle-solid": {
+      "codepoint": 57759,
+      "fontFamily": "Teenyicons",
+      "identifier": "exclamationCircleSolid"
+    },
+    "exclamation-outline": {
+      "codepoint": 57760,
+      "fontFamily": "Teenyicons",
+      "identifier": "exclamationOutline"
+    },
+    "exclamation-small-outline": {
+      "codepoint": 57761,
+      "fontFamily": "Teenyicons",
+      "identifier": "exclamationSmallOutline"
+    },
+    "exclamation-small-solid": {
+      "codepoint": 57762,
+      "fontFamily": "Teenyicons",
+      "identifier": "exclamationSmallSolid"
+    },
+    "exclamation-solid": {
+      "codepoint": 57763,
+      "fontFamily": "Teenyicons",
+      "identifier": "exclamationSolid"
+    },
+    "expand-alt-outline": {
+      "codepoint": 57764,
+      "fontFamily": "Teenyicons",
+      "identifier": "expandAltOutline"
+    },
+    "expand-alt-solid": {
+      "codepoint": 57765,
+      "fontFamily": "Teenyicons",
+      "identifier": "expandAltSolid"
+    },
+    "expand-outline": {
+      "codepoint": 57766,
+      "fontFamily": "Teenyicons",
+      "identifier": "expandOutline"
+    },
+    "expand-solid": {
+      "codepoint": 57767,
+      "fontFamily": "Teenyicons",
+      "identifier": "expandSolid"
+    },
+    "eye-closed-outline": {
+      "codepoint": 57768,
+      "fontFamily": "Teenyicons",
+      "identifier": "eyeClosedOutline"
+    },
+    "eye-closed-solid": {
+      "codepoint": 57769,
+      "fontFamily": "Teenyicons",
+      "identifier": "eyeClosedSolid"
+    },
+    "eye-outline": {
+      "codepoint": 57770,
+      "fontFamily": "Teenyicons",
+      "identifier": "eyeOutline"
+    },
+    "eye-solid": {
+      "codepoint": 57771,
+      "fontFamily": "Teenyicons",
+      "identifier": "eyeSolid"
+    },
+    "face-id-outline": {
+      "codepoint": 57772,
+      "fontFamily": "Teenyicons",
+      "identifier": "faceIdOutline"
+    },
+    "face-id-solid": {
+      "codepoint": 57773,
+      "fontFamily": "Teenyicons",
+      "identifier": "faceIdSolid"
+    },
+    "facebook-outline": {
+      "codepoint": 57774,
+      "fontFamily": "Teenyicons",
+      "identifier": "facebookOutline"
+    },
+    "facebook-solid": {
+      "codepoint": 57775,
+      "fontFamily": "Teenyicons",
+      "identifier": "facebookSolid"
+    },
+    "figma-outline": {
+      "codepoint": 57776,
+      "fontFamily": "Teenyicons",
+      "identifier": "figmaOutline"
+    },
+    "figma-solid": {
+      "codepoint": 57777,
+      "fontFamily": "Teenyicons",
+      "identifier": "figmaSolid"
+    },
+    "file-minus-outline": {
+      "codepoint": 57778,
+      "fontFamily": "Teenyicons",
+      "identifier": "fileMinusOutline"
+    },
+    "file-minus-solid": {
+      "codepoint": 57779,
+      "fontFamily": "Teenyicons",
+      "identifier": "fileMinusSolid"
+    },
+    "file-no-access-outline": {
+      "codepoint": 57780,
+      "fontFamily": "Teenyicons",
+      "identifier": "fileNoAccessOutline"
+    },
+    "file-no-access-solid": {
+      "codepoint": 57781,
+      "fontFamily": "Teenyicons",
+      "identifier": "fileNoAccessSolid"
+    },
+    "file-outline": {
+      "codepoint": 57782,
+      "fontFamily": "Teenyicons",
+      "identifier": "fileOutline"
+    },
+    "file-plus-outline": {
+      "codepoint": 57783,
+      "fontFamily": "Teenyicons",
+      "identifier": "filePlusOutline"
+    },
+    "file-plus-solid": {
+      "codepoint": 57784,
+      "fontFamily": "Teenyicons",
+      "identifier": "filePlusSolid"
+    },
+    "file-solid": {
+      "codepoint": 57785,
+      "fontFamily": "Teenyicons",
+      "identifier": "fileSolid"
+    },
+    "file-tick-outline": {
+      "codepoint": 57786,
+      "fontFamily": "Teenyicons",
+      "identifier": "fileTickOutline"
+    },
+    "file-tick-solid": {
+      "codepoint": 57787,
+      "fontFamily": "Teenyicons",
+      "identifier": "fileTickSolid"
+    },
+    "file-x-outline": {
+      "codepoint": 57788,
+      "fontFamily": "Teenyicons",
+      "identifier": "fileXOutline"
+    },
+    "file-x-solid": {
+      "codepoint": 57789,
+      "fontFamily": "Teenyicons",
+      "identifier": "fileXSolid"
+    },
+    "filter-outline": {
+      "codepoint": 57790,
+      "fontFamily": "Teenyicons",
+      "identifier": "filterOutline"
+    },
+    "filter-solid": {
+      "codepoint": 57791,
+      "fontFamily": "Teenyicons",
+      "identifier": "filterSolid"
+    },
+    "fingerprint-outline": {
+      "codepoint": 57792,
+      "fontFamily": "Teenyicons",
+      "identifier": "fingerprintOutline"
+    },
+    "fingerprint-solid": {
+      "codepoint": 57793,
+      "fontFamily": "Teenyicons",
+      "identifier": "fingerprintSolid"
+    },
+    "firebase-outline": {
+      "codepoint": 57794,
+      "fontFamily": "Teenyicons",
+      "identifier": "firebaseOutline"
+    },
+    "firebase-solid": {
+      "codepoint": 57795,
+      "fontFamily": "Teenyicons",
+      "identifier": "firebaseSolid"
+    },
+    "flag-alt-outline": {
+      "codepoint": 57796,
+      "fontFamily": "Teenyicons",
+      "identifier": "flagAltOutline"
+    },
+    "flag-alt-solid": {
+      "codepoint": 57797,
+      "fontFamily": "Teenyicons",
+      "identifier": "flagAltSolid"
+    },
+    "flag-outline": {
+      "codepoint": 57798,
+      "fontFamily": "Teenyicons",
+      "identifier": "flagOutline"
+    },
+    "flag-solid": {
+      "codepoint": 57799,
+      "fontFamily": "Teenyicons",
+      "identifier": "flagSolid"
+    },
+    "flip-horizontal-outline": {
+      "codepoint": 57800,
+      "fontFamily": "Teenyicons",
+      "identifier": "flipHorizontalOutline"
+    },
+    "flip-horizontal-solid": {
+      "codepoint": 57801,
+      "fontFamily": "Teenyicons",
+      "identifier": "flipHorizontalSolid"
+    },
+    "flip-vertical-outline": {
+      "codepoint": 57802,
+      "fontFamily": "Teenyicons",
+      "identifier": "flipVerticalOutline"
+    },
+    "flip-vertical-solid": {
+      "codepoint": 57803,
+      "fontFamily": "Teenyicons",
+      "identifier": "flipVerticalSolid"
+    },
+    "float-center-outline": {
+      "codepoint": 57804,
+      "fontFamily": "Teenyicons",
+      "identifier": "floatCenterOutline"
+    },
+    "float-center-solid": {
+      "codepoint": 57805,
+      "fontFamily": "Teenyicons",
+      "identifier": "floatCenterSolid"
+    },
+    "float-left-outline": {
+      "codepoint": 57806,
+      "fontFamily": "Teenyicons",
+      "identifier": "floatLeftOutline"
+    },
+    "float-left-solid": {
+      "codepoint": 57807,
+      "fontFamily": "Teenyicons",
+      "identifier": "floatLeftSolid"
+    },
+    "float-right-outline": {
+      "codepoint": 57808,
+      "fontFamily": "Teenyicons",
+      "identifier": "floatRightOutline"
+    },
+    "float-right-solid": {
+      "codepoint": 57809,
+      "fontFamily": "Teenyicons",
+      "identifier": "floatRightSolid"
+    },
+    "floorplan-outline": {
+      "codepoint": 57810,
+      "fontFamily": "Teenyicons",
+      "identifier": "floorplanOutline"
+    },
+    "floorplan-solid": {
+      "codepoint": 57811,
+      "fontFamily": "Teenyicons",
+      "identifier": "floorplanSolid"
+    },
+    "folder-minus-outline": {
+      "codepoint": 57812,
+      "fontFamily": "Teenyicons",
+      "identifier": "folderMinusOutline"
+    },
+    "folder-minus-solid": {
+      "codepoint": 57813,
+      "fontFamily": "Teenyicons",
+      "identifier": "folderMinusSolid"
+    },
+    "folder-no-access-outline": {
+      "codepoint": 57814,
+      "fontFamily": "Teenyicons",
+      "identifier": "folderNoAccessOutline"
+    },
+    "folder-no-access-solid": {
+      "codepoint": 57815,
+      "fontFamily": "Teenyicons",
+      "identifier": "folderNoAccessSolid"
+    },
+    "folder-outline": {
+      "codepoint": 57816,
+      "fontFamily": "Teenyicons",
+      "identifier": "folderOutline"
+    },
+    "folder-plus-outline": {
+      "codepoint": 57817,
+      "fontFamily": "Teenyicons",
+      "identifier": "folderPlusOutline"
+    },
+    "folder-plus-solid": {
+      "codepoint": 57818,
+      "fontFamily": "Teenyicons",
+      "identifier": "folderPlusSolid"
+    },
+    "folder-solid": {
+      "codepoint": 57819,
+      "fontFamily": "Teenyicons",
+      "identifier": "folderSolid"
+    },
+    "folder-tick-outline": {
+      "codepoint": 57820,
+      "fontFamily": "Teenyicons",
+      "identifier": "folderTickOutline"
+    },
+    "folder-tick-solid": {
+      "codepoint": 57821,
+      "fontFamily": "Teenyicons",
+      "identifier": "folderTickSolid"
+    },
+    "folder-x-outline": {
+      "codepoint": 57822,
+      "fontFamily": "Teenyicons",
+      "identifier": "folderXOutline"
+    },
+    "folder-x-solid": {
+      "codepoint": 57823,
+      "fontFamily": "Teenyicons",
+      "identifier": "folderXSolid"
+    },
+    "folders-outline": {
+      "codepoint": 57824,
+      "fontFamily": "Teenyicons",
+      "identifier": "foldersOutline"
+    },
+    "folders-solid": {
+      "codepoint": 57825,
+      "fontFamily": "Teenyicons",
+      "identifier": "foldersSolid"
+    },
+    "forward-circle-outline": {
+      "codepoint": 57826,
+      "fontFamily": "Teenyicons",
+      "identifier": "forwardCircleOutline"
+    },
+    "forward-circle-solid": {
+      "codepoint": 57827,
+      "fontFamily": "Teenyicons",
+      "identifier": "forwardCircleSolid"
+    },
+    "forward-outline": {
+      "codepoint": 57828,
+      "fontFamily": "Teenyicons",
+      "identifier": "forwardOutline"
+    },
+    "forward-small-outline": {
+      "codepoint": 57829,
+      "fontFamily": "Teenyicons",
+      "identifier": "forwardSmallOutline"
+    },
+    "forward-small-solid": {
+      "codepoint": 57830,
+      "fontFamily": "Teenyicons",
+      "identifier": "forwardSmallSolid"
+    },
+    "forward-solid": {
+      "codepoint": 57831,
+      "fontFamily": "Teenyicons",
+      "identifier": "forwardSolid"
+    },
+    "frame-outline": {
+      "codepoint": 57832,
+      "fontFamily": "Teenyicons",
+      "identifier": "frameOutline"
+    },
+    "frame-solid": {
+      "codepoint": 57833,
+      "fontFamily": "Teenyicons",
+      "identifier": "frameSolid"
+    },
+    "framer-outline": {
+      "codepoint": 57834,
+      "fontFamily": "Teenyicons",
+      "identifier": "framerOutline"
+    },
+    "framer-solid": {
+      "codepoint": 57835,
+      "fontFamily": "Teenyicons",
+      "identifier": "framerSolid"
+    },
+    "game-controller-outline": {
+      "codepoint": 57836,
+      "fontFamily": "Teenyicons",
+      "identifier": "gameControllerOutline"
+    },
+    "game-controller-retro-outline": {
+      "codepoint": 57837,
+      "fontFamily": "Teenyicons",
+      "identifier": "gameControllerRetroOutline"
+    },
+    "game-controller-retro-solid": {
+      "codepoint": 57838,
+      "fontFamily": "Teenyicons",
+      "identifier": "gameControllerRetroSolid"
+    },
+    "game-controller-solid": {
+      "codepoint": 57839,
+      "fontFamily": "Teenyicons",
+      "identifier": "gameControllerSolid"
+    },
+    "gantt-chart-outline": {
+      "codepoint": 57840,
+      "fontFamily": "Teenyicons",
+      "identifier": "ganttChartOutline"
+    },
+    "gantt-chart-solid": {
+      "codepoint": 57841,
+      "fontFamily": "Teenyicons",
+      "identifier": "ganttChartSolid"
+    },
+    "garage-outline": {
+      "codepoint": 57842,
+      "fontFamily": "Teenyicons",
+      "identifier": "garageOutline"
+    },
+    "garage-solid": {
+      "codepoint": 57843,
+      "fontFamily": "Teenyicons",
+      "identifier": "garageSolid"
+    },
+    "gatsbyjs-outline": {
+      "codepoint": 57844,
+      "fontFamily": "Teenyicons",
+      "identifier": "gatsbyjsOutline"
+    },
+    "gatsbyjs-solid": {
+      "codepoint": 57845,
+      "fontFamily": "Teenyicons",
+      "identifier": "gatsbyjsSolid"
+    },
+    "gba-outline": {
+      "codepoint": 57846,
+      "fontFamily": "Teenyicons",
+      "identifier": "gbaOutline"
+    },
+    "gba-solid": {
+      "codepoint": 57847,
+      "fontFamily": "Teenyicons",
+      "identifier": "gbaSolid"
+    },
+    "gbc-outline": {
+      "codepoint": 57848,
+      "fontFamily": "Teenyicons",
+      "identifier": "gbcOutline"
+    },
+    "gbc-solid": {
+      "codepoint": 57849,
+      "fontFamily": "Teenyicons",
+      "identifier": "gbcSolid"
+    },
+    "ghost-outline": {
+      "codepoint": 57850,
+      "fontFamily": "Teenyicons",
+      "identifier": "ghostOutline"
+    },
+    "ghost-solid": {
+      "codepoint": 57851,
+      "fontFamily": "Teenyicons",
+      "identifier": "ghostSolid"
+    },
+    "gif-outline": {
+      "codepoint": 57852,
+      "fontFamily": "Teenyicons",
+      "identifier": "gifOutline"
+    },
+    "gif-solid": {
+      "codepoint": 57853,
+      "fontFamily": "Teenyicons",
+      "identifier": "gifSolid"
+    },
+    "gift-outline": {
+      "codepoint": 57854,
+      "fontFamily": "Teenyicons",
+      "identifier": "giftOutline"
+    },
+    "gift-solid": {
+      "codepoint": 57855,
+      "fontFamily": "Teenyicons",
+      "identifier": "giftSolid"
+    },
+    "git-branch-outline": {
+      "codepoint": 57856,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitBranchOutline"
+    },
+    "git-branch-solid": {
+      "codepoint": 57857,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitBranchSolid"
+    },
+    "git-commit-outline": {
+      "codepoint": 57858,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitCommitOutline"
+    },
+    "git-commit-solid": {
+      "codepoint": 57859,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitCommitSolid"
+    },
+    "git-compare-outline": {
+      "codepoint": 57860,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitCompareOutline"
+    },
+    "git-compare-solid": {
+      "codepoint": 57861,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitCompareSolid"
+    },
+    "git-fork-outline": {
+      "codepoint": 57862,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitForkOutline"
+    },
+    "git-fork-solid": {
+      "codepoint": 57863,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitForkSolid"
+    },
+    "git-merge-outline": {
+      "codepoint": 57864,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitMergeOutline"
+    },
+    "git-merge-solid": {
+      "codepoint": 57865,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitMergeSolid"
+    },
+    "git-outline": {
+      "codepoint": 57866,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitOutline"
+    },
+    "git-pull-outline": {
+      "codepoint": 57867,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitPullOutline"
+    },
+    "git-pull-solid": {
+      "codepoint": 57868,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitPullSolid"
+    },
+    "git-solid": {
+      "codepoint": 57869,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitSolid"
+    },
+    "github-outline": {
+      "codepoint": 57870,
+      "fontFamily": "Teenyicons",
+      "identifier": "githubOutline"
+    },
+    "github-solid": {
+      "codepoint": 57871,
+      "fontFamily": "Teenyicons",
+      "identifier": "githubSolid"
+    },
+    "gitlab-outline": {
+      "codepoint": 57872,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitlabOutline"
+    },
+    "gitlab-solid": {
+      "codepoint": 57873,
+      "fontFamily": "Teenyicons",
+      "identifier": "gitlabSolid"
+    },
+    "globe-africa-outline": {
+      "codepoint": 57874,
+      "fontFamily": "Teenyicons",
+      "identifier": "globeAfricaOutline"
+    },
+    "globe-africa-solid": {
+      "codepoint": 57875,
+      "fontFamily": "Teenyicons",
+      "identifier": "globeAfricaSolid"
+    },
+    "globe-americas-outline": {
+      "codepoint": 57876,
+      "fontFamily": "Teenyicons",
+      "identifier": "globeAmericasOutline"
+    },
+    "globe-americas-solid": {
+      "codepoint": 57877,
+      "fontFamily": "Teenyicons",
+      "identifier": "globeAmericasSolid"
+    },
+    "globe-outline": {
+      "codepoint": 57878,
+      "fontFamily": "Teenyicons",
+      "identifier": "globeOutline"
+    },
+    "globe-solid": {
+      "codepoint": 57879,
+      "fontFamily": "Teenyicons",
+      "identifier": "globeSolid"
+    },
+    "google-ad-outline": {
+      "codepoint": 57880,
+      "fontFamily": "Teenyicons",
+      "identifier": "googleAdOutline"
+    },
+    "google-ad-solid": {
+      "codepoint": 57881,
+      "fontFamily": "Teenyicons",
+      "identifier": "googleAdSolid"
+    },
+    "google-drive-outline": {
+      "codepoint": 57882,
+      "fontFamily": "Teenyicons",
+      "identifier": "googleDriveOutline"
+    },
+    "google-drive-solid": {
+      "codepoint": 57883,
+      "fontFamily": "Teenyicons",
+      "identifier": "googleDriveSolid"
+    },
+    "google-outline": {
+      "codepoint": 57884,
+      "fontFamily": "Teenyicons",
+      "identifier": "googleOutline"
+    },
+    "google-play-store-outline": {
+      "codepoint": 57885,
+      "fontFamily": "Teenyicons",
+      "identifier": "googlePlayStoreOutline"
+    },
+    "google-play-store-solid": {
+      "codepoint": 57886,
+      "fontFamily": "Teenyicons",
+      "identifier": "googlePlayStoreSolid"
+    },
+    "google-solid": {
+      "codepoint": 57887,
+      "fontFamily": "Teenyicons",
+      "identifier": "googleSolid"
+    },
+    "google-streetview-outline": {
+      "codepoint": 57888,
+      "fontFamily": "Teenyicons",
+      "identifier": "googleStreetviewOutline"
+    },
+    "google-streetview-solid": {
+      "codepoint": 57889,
+      "fontFamily": "Teenyicons",
+      "identifier": "googleStreetviewSolid"
+    },
+    "graphql-outline": {
+      "codepoint": 57890,
+      "fontFamily": "Teenyicons",
+      "identifier": "graphqlOutline"
+    },
+    "graphql-solid": {
+      "codepoint": 57891,
+      "fontFamily": "Teenyicons",
+      "identifier": "graphqlSolid"
+    },
+    "grid-layout-outline": {
+      "codepoint": 57892,
+      "fontFamily": "Teenyicons",
+      "identifier": "gridLayoutOutline"
+    },
+    "grid-layout-solid": {
+      "codepoint": 57893,
+      "fontFamily": "Teenyicons",
+      "identifier": "gridLayoutSolid"
+    },
+    "hashtag-outline": {
+      "codepoint": 57894,
+      "fontFamily": "Teenyicons",
+      "identifier": "hashtagOutline"
+    },
+    "hashtag-solid": {
+      "codepoint": 57895,
+      "fontFamily": "Teenyicons",
+      "identifier": "hashtagSolid"
+    },
+    "hd-screen-outline": {
+      "codepoint": 57896,
+      "fontFamily": "Teenyicons",
+      "identifier": "hdScreenOutline"
+    },
+    "hd-screen-solid": {
+      "codepoint": 57897,
+      "fontFamily": "Teenyicons",
+      "identifier": "hdScreenSolid"
+    },
+    "hdmi-cable-outline": {
+      "codepoint": 57898,
+      "fontFamily": "Teenyicons",
+      "identifier": "hdmiCableOutline"
+    },
+    "hdmi-cable-solid": {
+      "codepoint": 57899,
+      "fontFamily": "Teenyicons",
+      "identifier": "hdmiCableSolid"
+    },
+    "headphones-outline": {
+      "codepoint": 57900,
+      "fontFamily": "Teenyicons",
+      "identifier": "headphonesOutline"
+    },
+    "headphones-solid": {
+      "codepoint": 57901,
+      "fontFamily": "Teenyicons",
+      "identifier": "headphonesSolid"
+    },
+    "headset-outline": {
+      "codepoint": 57902,
+      "fontFamily": "Teenyicons",
+      "identifier": "headsetOutline"
+    },
+    "headset-solid": {
+      "codepoint": 57903,
+      "fontFamily": "Teenyicons",
+      "identifier": "headsetSolid"
+    },
+    "heart-circle-outline": {
+      "codepoint": 57904,
+      "fontFamily": "Teenyicons",
+      "identifier": "heartCircleOutline"
+    },
+    "heart-circle-solid": {
+      "codepoint": 57905,
+      "fontFamily": "Teenyicons",
+      "identifier": "heartCircleSolid"
+    },
+    "heart-outline": {
+      "codepoint": 57906,
+      "fontFamily": "Teenyicons",
+      "identifier": "heartOutline"
+    },
+    "heart-small-outline": {
+      "codepoint": 57907,
+      "fontFamily": "Teenyicons",
+      "identifier": "heartSmallOutline"
+    },
+    "heart-small-solid": {
+      "codepoint": 57908,
+      "fontFamily": "Teenyicons",
+      "identifier": "heartSmallSolid"
+    },
+    "heart-solid": {
+      "codepoint": 57909,
+      "fontFamily": "Teenyicons",
+      "identifier": "heartSolid"
+    },
+    "hexagon-outline": {
+      "codepoint": 57910,
+      "fontFamily": "Teenyicons",
+      "identifier": "hexagonOutline"
+    },
+    "hexagon-solid": {
+      "codepoint": 57911,
+      "fontFamily": "Teenyicons",
+      "identifier": "hexagonSolid"
+    },
+    "history-outline": {
+      "codepoint": 57912,
+      "fontFamily": "Teenyicons",
+      "identifier": "historyOutline"
+    },
+    "history-solid": {
+      "codepoint": 57913,
+      "fontFamily": "Teenyicons",
+      "identifier": "historySolid"
+    },
+    "home-alt-outline": {
+      "codepoint": 57914,
+      "fontFamily": "Teenyicons",
+      "identifier": "homeAltOutline"
+    },
+    "home-alt-solid": {
+      "codepoint": 57915,
+      "fontFamily": "Teenyicons",
+      "identifier": "homeAltSolid"
+    },
+    "home-outline": {
+      "codepoint": 57916,
+      "fontFamily": "Teenyicons",
+      "identifier": "homeOutline"
+    },
+    "home-solid": {
+      "codepoint": 57917,
+      "fontFamily": "Teenyicons",
+      "identifier": "homeSolid"
+    },
+    "hospital-outline": {
+      "codepoint": 57918,
+      "fontFamily": "Teenyicons",
+      "identifier": "hospitalOutline"
+    },
+    "hospital-solid": {
+      "codepoint": 57919,
+      "fontFamily": "Teenyicons",
+      "identifier": "hospitalSolid"
+    },
+    "hourglass-outline": {
+      "codepoint": 57920,
+      "fontFamily": "Teenyicons",
+      "identifier": "hourglassOutline"
+    },
+    "hourglass-solid": {
+      "codepoint": 57921,
+      "fontFamily": "Teenyicons",
+      "identifier": "hourglassSolid"
+    },
+    "house-outline": {
+      "codepoint": 57922,
+      "fontFamily": "Teenyicons",
+      "identifier": "houseOutline"
+    },
+    "house-solid": {
+      "codepoint": 57923,
+      "fontFamily": "Teenyicons",
+      "identifier": "houseSolid"
+    },
+    "html5-outline": {
+      "codepoint": 57924,
+      "fontFamily": "Teenyicons",
+      "identifier": "html5Outline"
+    },
+    "html5-solid": {
+      "codepoint": 57925,
+      "fontFamily": "Teenyicons",
+      "identifier": "html5Solid"
+    },
+    "id-outline": {
+      "codepoint": 57926,
+      "fontFamily": "Teenyicons",
+      "identifier": "idOutline"
+    },
+    "id-solid": {
+      "codepoint": 57927,
+      "fontFamily": "Teenyicons",
+      "identifier": "idSolid"
+    },
+    "imac-outline": {
+      "codepoint": 57928,
+      "fontFamily": "Teenyicons",
+      "identifier": "imacOutline"
+    },
+    "imac-solid": {
+      "codepoint": 57929,
+      "fontFamily": "Teenyicons",
+      "identifier": "imacSolid"
+    },
+    "image-alt-outline": {
+      "codepoint": 57930,
+      "fontFamily": "Teenyicons",
+      "identifier": "imageAltOutline"
+    },
+    "image-alt-solid": {
+      "codepoint": 57931,
+      "fontFamily": "Teenyicons",
+      "identifier": "imageAltSolid"
+    },
+    "image-document-outline": {
+      "codepoint": 57932,
+      "fontFamily": "Teenyicons",
+      "identifier": "imageDocumentOutline"
+    },
+    "image-document-solid": {
+      "codepoint": 57933,
+      "fontFamily": "Teenyicons",
+      "identifier": "imageDocumentSolid"
+    },
+    "image-outline": {
+      "codepoint": 57934,
+      "fontFamily": "Teenyicons",
+      "identifier": "imageOutline"
+    },
+    "image-solid": {
+      "codepoint": 57935,
+      "fontFamily": "Teenyicons",
+      "identifier": "imageSolid"
+    },
+    "in-ear-headphones-outline": {
+      "codepoint": 57936,
+      "fontFamily": "Teenyicons",
+      "identifier": "inEarHeadphonesOutline"
+    },
+    "in-ear-headphones-solid": {
+      "codepoint": 57937,
+      "fontFamily": "Teenyicons",
+      "identifier": "inEarHeadphonesSolid"
+    },
+    "inbox-outline": {
+      "codepoint": 57938,
+      "fontFamily": "Teenyicons",
+      "identifier": "inboxOutline"
+    },
+    "inbox-solid": {
+      "codepoint": 57939,
+      "fontFamily": "Teenyicons",
+      "identifier": "inboxSolid"
+    },
+    "indent-decrease-outline": {
+      "codepoint": 57940,
+      "fontFamily": "Teenyicons",
+      "identifier": "indentDecreaseOutline"
+    },
+    "indent-decrease-solid": {
+      "codepoint": 57941,
+      "fontFamily": "Teenyicons",
+      "identifier": "indentDecreaseSolid"
+    },
+    "indent-increase-outline": {
+      "codepoint": 57942,
+      "fontFamily": "Teenyicons",
+      "identifier": "indentIncreaseOutline"
+    },
+    "indent-increase-solid": {
+      "codepoint": 57943,
+      "fontFamily": "Teenyicons",
+      "identifier": "indentIncreaseSolid"
+    },
+    "info-circle-outline": {
+      "codepoint": 57944,
+      "fontFamily": "Teenyicons",
+      "identifier": "infoCircleOutline"
+    },
+    "info-circle-solid": {
+      "codepoint": 57945,
+      "fontFamily": "Teenyicons",
+      "identifier": "infoCircleSolid"
+    },
+    "info-outline": {
+      "codepoint": 57946,
+      "fontFamily": "Teenyicons",
+      "identifier": "infoOutline"
+    },
+    "info-small-outline": {
+      "codepoint": 57947,
+      "fontFamily": "Teenyicons",
+      "identifier": "infoSmallOutline"
+    },
+    "info-small-solid": {
+      "codepoint": 57948,
+      "fontFamily": "Teenyicons",
+      "identifier": "infoSmallSolid"
+    },
+    "info-solid": {
+      "codepoint": 57949,
+      "fontFamily": "Teenyicons",
+      "identifier": "infoSolid"
+    },
+    "instagram-outline": {
+      "codepoint": 57950,
+      "fontFamily": "Teenyicons",
+      "identifier": "instagramOutline"
+    },
+    "instagram-solid": {
+      "codepoint": 57951,
+      "fontFamily": "Teenyicons",
+      "identifier": "instagramSolid"
+    },
+    "invoice-outline": {
+      "codepoint": 57952,
+      "fontFamily": "Teenyicons",
+      "identifier": "invoiceOutline"
+    },
+    "invoice-solid": {
+      "codepoint": 57953,
+      "fontFamily": "Teenyicons",
+      "identifier": "invoiceSolid"
+    },
+    "italic-outline": {
+      "codepoint": 57954,
+      "fontFamily": "Teenyicons",
+      "identifier": "italicOutline"
+    },
+    "italic-solid": {
+      "codepoint": 57955,
+      "fontFamily": "Teenyicons",
+      "identifier": "italicSolid"
+    },
+    "javascript-outline": {
+      "codepoint": 57956,
+      "fontFamily": "Teenyicons",
+      "identifier": "javascriptOutline"
+    },
+    "javascript-solid": {
+      "codepoint": 57957,
+      "fontFamily": "Teenyicons",
+      "identifier": "javascriptSolid"
+    },
+    "joystick-outline": {
+      "codepoint": 57958,
+      "fontFamily": "Teenyicons",
+      "identifier": "joystickOutline"
+    },
+    "joystick-solid": {
+      "codepoint": 57959,
+      "fontFamily": "Teenyicons",
+      "identifier": "joystickSolid"
+    },
+    "jpg-outline": {
+      "codepoint": 57960,
+      "fontFamily": "Teenyicons",
+      "identifier": "jpgOutline"
+    },
+    "jpg-solid": {
+      "codepoint": 57961,
+      "fontFamily": "Teenyicons",
+      "identifier": "jpgSolid"
+    },
+    "kanban-outline": {
+      "codepoint": 57962,
+      "fontFamily": "Teenyicons",
+      "identifier": "kanbanOutline"
+    },
+    "kanban-solid": {
+      "codepoint": 57963,
+      "fontFamily": "Teenyicons",
+      "identifier": "kanbanSolid"
+    },
+    "key-outline": {
+      "codepoint": 57964,
+      "fontFamily": "Teenyicons",
+      "identifier": "keyOutline"
+    },
+    "key-solid": {
+      "codepoint": 57965,
+      "fontFamily": "Teenyicons",
+      "identifier": "keySolid"
+    },
+    "keyboard-outline": {
+      "codepoint": 57966,
+      "fontFamily": "Teenyicons",
+      "identifier": "keyboardOutline"
+    },
+    "keyboard-solid": {
+      "codepoint": 57967,
+      "fontFamily": "Teenyicons",
+      "identifier": "keyboardSolid"
+    },
+    "lan-cable-outline": {
+      "codepoint": 57968,
+      "fontFamily": "Teenyicons",
+      "identifier": "lanCableOutline"
+    },
+    "lan-cable-solid": {
+      "codepoint": 57969,
+      "fontFamily": "Teenyicons",
+      "identifier": "lanCableSolid"
+    },
+    "laptop-outline": {
+      "codepoint": 57970,
+      "fontFamily": "Teenyicons",
+      "identifier": "laptopOutline"
+    },
+    "laptop-solid": {
+      "codepoint": 57971,
+      "fontFamily": "Teenyicons",
+      "identifier": "laptopSolid"
+    },
+    "laravel-outline": {
+      "codepoint": 57972,
+      "fontFamily": "Teenyicons",
+      "identifier": "laravelOutline"
+    },
+    "laravel-solid": {
+      "codepoint": 57973,
+      "fontFamily": "Teenyicons",
+      "identifier": "laravelSolid"
+    },
+    "layers-difference-outline": {
+      "codepoint": 57974,
+      "fontFamily": "Teenyicons",
+      "identifier": "layersDifferenceOutline"
+    },
+    "layers-difference-solid": {
+      "codepoint": 57975,
+      "fontFamily": "Teenyicons",
+      "identifier": "layersDifferenceSolid"
+    },
+    "layers-intersect-outline": {
+      "codepoint": 57976,
+      "fontFamily": "Teenyicons",
+      "identifier": "layersIntersectOutline"
+    },
+    "layers-intersect-solid": {
+      "codepoint": 57977,
+      "fontFamily": "Teenyicons",
+      "identifier": "layersIntersectSolid"
+    },
+    "layers-outline": {
+      "codepoint": 57978,
+      "fontFamily": "Teenyicons",
+      "identifier": "layersOutline"
+    },
+    "layers-solid": {
+      "codepoint": 57979,
+      "fontFamily": "Teenyicons",
+      "identifier": "layersSolid"
+    },
+    "layers-subtract-outline": {
+      "codepoint": 57980,
+      "fontFamily": "Teenyicons",
+      "identifier": "layersSubtractOutline"
+    },
+    "layers-subtract-solid": {
+      "codepoint": 57981,
+      "fontFamily": "Teenyicons",
+      "identifier": "layersSubtractSolid"
+    },
+    "layers-union-outline": {
+      "codepoint": 57982,
+      "fontFamily": "Teenyicons",
+      "identifier": "layersUnionOutline"
+    },
+    "layers-union-solid": {
+      "codepoint": 57983,
+      "fontFamily": "Teenyicons",
+      "identifier": "layersUnionSolid"
+    },
+    "left-circle-outline": {
+      "codepoint": 57984,
+      "fontFamily": "Teenyicons",
+      "identifier": "leftCircleOutline"
+    },
+    "left-circle-solid": {
+      "codepoint": 57985,
+      "fontFamily": "Teenyicons",
+      "identifier": "leftCircleSolid"
+    },
+    "left-outline": {
+      "codepoint": 57986,
+      "fontFamily": "Teenyicons",
+      "identifier": "leftOutline"
+    },
+    "left-small-outline": {
+      "codepoint": 57987,
+      "fontFamily": "Teenyicons",
+      "identifier": "leftSmallOutline"
+    },
+    "left-small-solid": {
+      "codepoint": 57988,
+      "fontFamily": "Teenyicons",
+      "identifier": "leftSmallSolid"
+    },
+    "left-solid": {
+      "codepoint": 57989,
+      "fontFamily": "Teenyicons",
+      "identifier": "leftSolid"
+    },
+    "lego-outline": {
+      "codepoint": 57990,
+      "fontFamily": "Teenyicons",
+      "identifier": "legoOutline"
+    },
+    "lego-solid": {
+      "codepoint": 57991,
+      "fontFamily": "Teenyicons",
+      "identifier": "legoSolid"
+    },
+    "lifebuoy-outline": {
+      "codepoint": 57992,
+      "fontFamily": "Teenyicons",
+      "identifier": "lifebuoyOutline"
+    },
+    "lifebuoy-solid": {
+      "codepoint": 57993,
+      "fontFamily": "Teenyicons",
+      "identifier": "lifebuoySolid"
+    },
+    "lightning-cable-outline": {
+      "codepoint": 57994,
+      "fontFamily": "Teenyicons",
+      "identifier": "lightningCableOutline"
+    },
+    "lightning-cable-solid": {
+      "codepoint": 57995,
+      "fontFamily": "Teenyicons",
+      "identifier": "lightningCableSolid"
+    },
+    "line-outline": {
+      "codepoint": 57996,
+      "fontFamily": "Teenyicons",
+      "identifier": "lineOutline"
+    },
+    "line-solid": {
+      "codepoint": 57997,
+      "fontFamily": "Teenyicons",
+      "identifier": "lineSolid"
+    },
+    "link-outline": {
+      "codepoint": 57998,
+      "fontFamily": "Teenyicons",
+      "identifier": "linkOutline"
+    },
+    "link-remove-outline": {
+      "codepoint": 57999,
+      "fontFamily": "Teenyicons",
+      "identifier": "linkRemoveOutline"
+    },
+    "link-remove-solid": {
+      "codepoint": 58000,
+      "fontFamily": "Teenyicons",
+      "identifier": "linkRemoveSolid"
+    },
+    "link-solid": {
+      "codepoint": 58001,
+      "fontFamily": "Teenyicons",
+      "identifier": "linkSolid"
+    },
+    "linkedin-outline": {
+      "codepoint": 58002,
+      "fontFamily": "Teenyicons",
+      "identifier": "linkedinOutline"
+    },
+    "linkedin-solid": {
+      "codepoint": 58003,
+      "fontFamily": "Teenyicons",
+      "identifier": "linkedinSolid"
+    },
+    "linux-alt-outline": {
+      "codepoint": 58004,
+      "fontFamily": "Teenyicons",
+      "identifier": "linuxAltOutline"
+    },
+    "linux-alt-solid": {
+      "codepoint": 58005,
+      "fontFamily": "Teenyicons",
+      "identifier": "linuxAltSolid"
+    },
+    "linux-outline": {
+      "codepoint": 58006,
+      "fontFamily": "Teenyicons",
+      "identifier": "linuxOutline"
+    },
+    "linux-solid": {
+      "codepoint": 58007,
+      "fontFamily": "Teenyicons",
+      "identifier": "linuxSolid"
+    },
+    "list-layout-outline": {
+      "codepoint": 58008,
+      "fontFamily": "Teenyicons",
+      "identifier": "listLayoutOutline"
+    },
+    "list-layout-solid": {
+      "codepoint": 58009,
+      "fontFamily": "Teenyicons",
+      "identifier": "listLayoutSolid"
+    },
+    "list-ordered-outline": {
+      "codepoint": 58010,
+      "fontFamily": "Teenyicons",
+      "identifier": "listOrderedOutline"
+    },
+    "list-ordered-solid": {
+      "codepoint": 58011,
+      "fontFamily": "Teenyicons",
+      "identifier": "listOrderedSolid"
+    },
+    "list-unordered-outline": {
+      "codepoint": 58012,
+      "fontFamily": "Teenyicons",
+      "identifier": "listUnorderedOutline"
+    },
+    "list-unordered-solid": {
+      "codepoint": 58013,
+      "fontFamily": "Teenyicons",
+      "identifier": "listUnorderedSolid"
+    },
+    "litecoin-outline": {
+      "codepoint": 58014,
+      "fontFamily": "Teenyicons",
+      "identifier": "litecoinOutline"
+    },
+    "litecoin-solid": {
+      "codepoint": 58015,
+      "fontFamily": "Teenyicons",
+      "identifier": "litecoinSolid"
+    },
+    "loader-outline": {
+      "codepoint": 58016,
+      "fontFamily": "Teenyicons",
+      "identifier": "loaderOutline"
+    },
+    "loader-solid": {
+      "codepoint": 58017,
+      "fontFamily": "Teenyicons",
+      "identifier": "loaderSolid"
+    },
+    "location-outline": {
+      "codepoint": 58018,
+      "fontFamily": "Teenyicons",
+      "identifier": "locationOutline"
+    },
+    "location-solid": {
+      "codepoint": 58019,
+      "fontFamily": "Teenyicons",
+      "identifier": "locationSolid"
+    },
+    "lock-circle-outline": {
+      "codepoint": 58020,
+      "fontFamily": "Teenyicons",
+      "identifier": "lockCircleOutline"
+    },
+    "lock-circle-solid": {
+      "codepoint": 58021,
+      "fontFamily": "Teenyicons",
+      "identifier": "lockCircleSolid"
+    },
+    "lock-outline": {
+      "codepoint": 58022,
+      "fontFamily": "Teenyicons",
+      "identifier": "lockOutline"
+    },
+    "lock-small-outline": {
+      "codepoint": 58023,
+      "fontFamily": "Teenyicons",
+      "identifier": "lockSmallOutline"
+    },
+    "lock-small-solid": {
+      "codepoint": 58024,
+      "fontFamily": "Teenyicons",
+      "identifier": "lockSmallSolid"
+    },
+    "lock-solid": {
+      "codepoint": 58025,
+      "fontFamily": "Teenyicons",
+      "identifier": "lockSolid"
+    },
+    "logout-outline": {
+      "codepoint": 58026,
+      "fontFamily": "Teenyicons",
+      "identifier": "logoutOutline"
+    },
+    "logout-solid": {
+      "codepoint": 58027,
+      "fontFamily": "Teenyicons",
+      "identifier": "logoutSolid"
+    },
+    "loop-outline": {
+      "codepoint": 58028,
+      "fontFamily": "Teenyicons",
+      "identifier": "loopOutline"
+    },
+    "loop-solid": {
+      "codepoint": 58029,
+      "fontFamily": "Teenyicons",
+      "identifier": "loopSolid"
+    },
+    "magsafe-outline": {
+      "codepoint": 58030,
+      "fontFamily": "Teenyicons",
+      "identifier": "magsafeOutline"
+    },
+    "magsafe-solid": {
+      "codepoint": 58031,
+      "fontFamily": "Teenyicons",
+      "identifier": "magsafeSolid"
+    },
+    "markdown-outline": {
+      "codepoint": 58032,
+      "fontFamily": "Teenyicons",
+      "identifier": "markdownOutline"
+    },
+    "markdown-solid": {
+      "codepoint": 58033,
+      "fontFamily": "Teenyicons",
+      "identifier": "markdownSolid"
+    },
+    "medium-outline": {
+      "codepoint": 58034,
+      "fontFamily": "Teenyicons",
+      "identifier": "mediumOutline"
+    },
+    "medium-solid": {
+      "codepoint": 58035,
+      "fontFamily": "Teenyicons",
+      "identifier": "mediumSolid"
+    },
+    "menu-outline": {
+      "codepoint": 58036,
+      "fontFamily": "Teenyicons",
+      "identifier": "menuOutline"
+    },
+    "menu-solid": {
+      "codepoint": 58037,
+      "fontFamily": "Teenyicons",
+      "identifier": "menuSolid"
+    },
+    "message-minus-outline": {
+      "codepoint": 58038,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageMinusOutline"
+    },
+    "message-minus-solid": {
+      "codepoint": 58039,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageMinusSolid"
+    },
+    "message-no-access-outline": {
+      "codepoint": 58040,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageNoAccessOutline"
+    },
+    "message-no-access-solid": {
+      "codepoint": 58041,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageNoAccessSolid"
+    },
+    "message-outline": {
+      "codepoint": 58042,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageOutline"
+    },
+    "message-plus-outline": {
+      "codepoint": 58043,
+      "fontFamily": "Teenyicons",
+      "identifier": "messagePlusOutline"
+    },
+    "message-plus-solid": {
+      "codepoint": 58044,
+      "fontFamily": "Teenyicons",
+      "identifier": "messagePlusSolid"
+    },
+    "message-solid": {
+      "codepoint": 58045,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageSolid"
+    },
+    "message-text-alt-outline": {
+      "codepoint": 58046,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageTextAltOutline"
+    },
+    "message-text-alt-solid": {
+      "codepoint": 58047,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageTextAltSolid"
+    },
+    "message-text-outline": {
+      "codepoint": 58048,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageTextOutline"
+    },
+    "message-text-solid": {
+      "codepoint": 58049,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageTextSolid"
+    },
+    "message-tick-outline": {
+      "codepoint": 58050,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageTickOutline"
+    },
+    "message-tick-solid": {
+      "codepoint": 58051,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageTickSolid"
+    },
+    "message-x-outline": {
+      "codepoint": 58052,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageXOutline"
+    },
+    "message-x-solid": {
+      "codepoint": 58053,
+      "fontFamily": "Teenyicons",
+      "identifier": "messageXSolid"
+    },
+    "messenger-outline": {
+      "codepoint": 58054,
+      "fontFamily": "Teenyicons",
+      "identifier": "messengerOutline"
+    },
+    "messenger-solid": {
+      "codepoint": 58055,
+      "fontFamily": "Teenyicons",
+      "identifier": "messengerSolid"
+    },
+    "micro-sd-card-outline": {
+      "codepoint": 58056,
+      "fontFamily": "Teenyicons",
+      "identifier": "microSdCardOutline"
+    },
+    "micro-sd-card-solid": {
+      "codepoint": 58057,
+      "fontFamily": "Teenyicons",
+      "identifier": "microSdCardSolid"
+    },
+    "microphone-outline": {
+      "codepoint": 58058,
+      "fontFamily": "Teenyicons",
+      "identifier": "microphoneOutline"
+    },
+    "microphone-solid": {
+      "codepoint": 58059,
+      "fontFamily": "Teenyicons",
+      "identifier": "microphoneSolid"
+    },
+    "minimise-alt-outline": {
+      "codepoint": 58060,
+      "fontFamily": "Teenyicons",
+      "identifier": "minimiseAltOutline"
+    },
+    "minimise-alt-solid": {
+      "codepoint": 58061,
+      "fontFamily": "Teenyicons",
+      "identifier": "minimiseAltSolid"
+    },
+    "minimise-outline": {
+      "codepoint": 58062,
+      "fontFamily": "Teenyicons",
+      "identifier": "minimiseOutline"
+    },
+    "minimise-solid": {
+      "codepoint": 58063,
+      "fontFamily": "Teenyicons",
+      "identifier": "minimiseSolid"
+    },
+    "minus-circle-outline": {
+      "codepoint": 58064,
+      "fontFamily": "Teenyicons",
+      "identifier": "minusCircleOutline"
+    },
+    "minus-circle-solid": {
+      "codepoint": 58065,
+      "fontFamily": "Teenyicons",
+      "identifier": "minusCircleSolid"
+    },
+    "minus-outline": {
+      "codepoint": 58066,
+      "fontFamily": "Teenyicons",
+      "identifier": "minusOutline"
+    },
+    "minus-small-outline": {
+      "codepoint": 58067,
+      "fontFamily": "Teenyicons",
+      "identifier": "minusSmallOutline"
+    },
+    "minus-small-solid": {
+      "codepoint": 58068,
+      "fontFamily": "Teenyicons",
+      "identifier": "minusSmallSolid"
+    },
+    "minus-solid": {
+      "codepoint": 58069,
+      "fontFamily": "Teenyicons",
+      "identifier": "minusSolid"
+    },
+    "mobile-outline": {
+      "codepoint": 58070,
+      "fontFamily": "Teenyicons",
+      "identifier": "mobileOutline"
+    },
+    "mobile-solid": {
+      "codepoint": 58071,
+      "fontFamily": "Teenyicons",
+      "identifier": "mobileSolid"
+    },
+    "money-outline": {
+      "codepoint": 58072,
+      "fontFamily": "Teenyicons",
+      "identifier": "moneyOutline"
+    },
+    "money-solid": {
+      "codepoint": 58073,
+      "fontFamily": "Teenyicons",
+      "identifier": "moneySolid"
+    },
+    "money-stack-outline": {
+      "codepoint": 58074,
+      "fontFamily": "Teenyicons",
+      "identifier": "moneyStackOutline"
+    },
+    "money-stack-solid": {
+      "codepoint": 58075,
+      "fontFamily": "Teenyicons",
+      "identifier": "moneyStackSolid"
+    },
+    "mongodb-outline": {
+      "codepoint": 58076,
+      "fontFamily": "Teenyicons",
+      "identifier": "mongodbOutline"
+    },
+    "mongodb-solid": {
+      "codepoint": 58077,
+      "fontFamily": "Teenyicons",
+      "identifier": "mongodbSolid"
+    },
+    "mood-flat-outline": {
+      "codepoint": 58078,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodFlatOutline"
+    },
+    "mood-flat-solid": {
+      "codepoint": 58079,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodFlatSolid"
+    },
+    "mood-frown-outline": {
+      "codepoint": 58080,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodFrownOutline"
+    },
+    "mood-frown-solid": {
+      "codepoint": 58081,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodFrownSolid"
+    },
+    "mood-laugh-outline": {
+      "codepoint": 58082,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodLaughOutline"
+    },
+    "mood-laugh-solid": {
+      "codepoint": 58083,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodLaughSolid"
+    },
+    "mood-sad-outline": {
+      "codepoint": 58084,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodSadOutline"
+    },
+    "mood-sad-solid": {
+      "codepoint": 58085,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodSadSolid"
+    },
+    "mood-smile-outline": {
+      "codepoint": 58086,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodSmileOutline"
+    },
+    "mood-smile-solid": {
+      "codepoint": 58087,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodSmileSolid"
+    },
+    "mood-surprised-outline": {
+      "codepoint": 58088,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodSurprisedOutline"
+    },
+    "mood-surprised-solid": {
+      "codepoint": 58089,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodSurprisedSolid"
+    },
+    "mood-tongue-outline": {
+      "codepoint": 58090,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodTongueOutline"
+    },
+    "mood-tongue-solid": {
+      "codepoint": 58091,
+      "fontFamily": "Teenyicons",
+      "identifier": "moodTongueSolid"
+    },
+    "moon-outline": {
+      "codepoint": 58092,
+      "fontFamily": "Teenyicons",
+      "identifier": "moonOutline"
+    },
+    "moon-solid": {
+      "codepoint": 58093,
+      "fontFamily": "Teenyicons",
+      "identifier": "moonSolid"
+    },
+    "more-horizontal-outline": {
+      "codepoint": 58094,
+      "fontFamily": "Teenyicons",
+      "identifier": "moreHorizontalOutline"
+    },
+    "more-horizontal-solid": {
+      "codepoint": 58095,
+      "fontFamily": "Teenyicons",
+      "identifier": "moreHorizontalSolid"
+    },
+    "more-vertical-outline": {
+      "codepoint": 58096,
+      "fontFamily": "Teenyicons",
+      "identifier": "moreVerticalOutline"
+    },
+    "more-vertical-solid": {
+      "codepoint": 58097,
+      "fontFamily": "Teenyicons",
+      "identifier": "moreVerticalSolid"
+    },
+    "mouse-outline": {
+      "codepoint": 58098,
+      "fontFamily": "Teenyicons",
+      "identifier": "mouseOutline"
+    },
+    "mouse-solid": {
+      "codepoint": 58099,
+      "fontFamily": "Teenyicons",
+      "identifier": "mouseSolid"
+    },
+    "mov-outline": {
+      "codepoint": 58100,
+      "fontFamily": "Teenyicons",
+      "identifier": "movOutline"
+    },
+    "mov-solid": {
+      "codepoint": 58101,
+      "fontFamily": "Teenyicons",
+      "identifier": "movSolid"
+    },
+    "mp3-outline": {
+      "codepoint": 58102,
+      "fontFamily": "Teenyicons",
+      "identifier": "mp3Outline"
+    },
+    "mp3-solid": {
+      "codepoint": 58103,
+      "fontFamily": "Teenyicons",
+      "identifier": "mp3Solid"
+    },
+    "mp4-outline": {
+      "codepoint": 58104,
+      "fontFamily": "Teenyicons",
+      "identifier": "mp4Outline"
+    },
+    "mp4-solid": {
+      "codepoint": 58105,
+      "fontFamily": "Teenyicons",
+      "identifier": "mp4Solid"
+    },
+    "ms-excel-outline": {
+      "codepoint": 58106,
+      "fontFamily": "Teenyicons",
+      "identifier": "msExcelOutline"
+    },
+    "ms-excel-solid": {
+      "codepoint": 58107,
+      "fontFamily": "Teenyicons",
+      "identifier": "msExcelSolid"
+    },
+    "ms-powerpoint-outline": {
+      "codepoint": 58108,
+      "fontFamily": "Teenyicons",
+      "identifier": "msPowerpointOutline"
+    },
+    "ms-powerpoint-solid": {
+      "codepoint": 58109,
+      "fontFamily": "Teenyicons",
+      "identifier": "msPowerpointSolid"
+    },
+    "ms-word-outline": {
+      "codepoint": 58110,
+      "fontFamily": "Teenyicons",
+      "identifier": "msWordOutline"
+    },
+    "ms-word-solid": {
+      "codepoint": 58111,
+      "fontFamily": "Teenyicons",
+      "identifier": "msWordSolid"
+    },
+    "n64-outline": {
+      "codepoint": 58112,
+      "fontFamily": "Teenyicons",
+      "identifier": "n64Outline"
+    },
+    "n64-solid": {
+      "codepoint": 58113,
+      "fontFamily": "Teenyicons",
+      "identifier": "n64Solid"
+    },
+    "nes-outline": {
+      "codepoint": 58114,
+      "fontFamily": "Teenyicons",
+      "identifier": "nesOutline"
+    },
+    "nes-solid": {
+      "codepoint": 58115,
+      "fontFamily": "Teenyicons",
+      "identifier": "nesSolid"
+    },
+    "netlify-outline": {
+      "codepoint": 58116,
+      "fontFamily": "Teenyicons",
+      "identifier": "netlifyOutline"
+    },
+    "netlify-solid": {
+      "codepoint": 58117,
+      "fontFamily": "Teenyicons",
+      "identifier": "netlifySolid"
+    },
+    "next-circle-outline": {
+      "codepoint": 58118,
+      "fontFamily": "Teenyicons",
+      "identifier": "nextCircleOutline"
+    },
+    "next-circle-solid": {
+      "codepoint": 58119,
+      "fontFamily": "Teenyicons",
+      "identifier": "nextCircleSolid"
+    },
+    "next-outline": {
+      "codepoint": 58120,
+      "fontFamily": "Teenyicons",
+      "identifier": "nextOutline"
+    },
+    "next-small-outline": {
+      "codepoint": 58121,
+      "fontFamily": "Teenyicons",
+      "identifier": "nextSmallOutline"
+    },
+    "next-small-solid": {
+      "codepoint": 58122,
+      "fontFamily": "Teenyicons",
+      "identifier": "nextSmallSolid"
+    },
+    "next-solid": {
+      "codepoint": 58123,
+      "fontFamily": "Teenyicons",
+      "identifier": "nextSolid"
+    },
+    "nextjs-outline": {
+      "codepoint": 58124,
+      "fontFamily": "Teenyicons",
+      "identifier": "nextjsOutline"
+    },
+    "nextjs-solid": {
+      "codepoint": 58125,
+      "fontFamily": "Teenyicons",
+      "identifier": "nextjsSolid"
+    },
+    "ngc-outline": {
+      "codepoint": 58126,
+      "fontFamily": "Teenyicons",
+      "identifier": "ngcOutline"
+    },
+    "ngc-solid": {
+      "codepoint": 58127,
+      "fontFamily": "Teenyicons",
+      "identifier": "ngcSolid"
+    },
+    "nintendo-switch-outline": {
+      "codepoint": 58128,
+      "fontFamily": "Teenyicons",
+      "identifier": "nintendoSwitchOutline"
+    },
+    "nintendo-switch-solid": {
+      "codepoint": 58129,
+      "fontFamily": "Teenyicons",
+      "identifier": "nintendoSwitchSolid"
+    },
+    "nodejs-outline": {
+      "codepoint": 58130,
+      "fontFamily": "Teenyicons",
+      "identifier": "nodejsOutline"
+    },
+    "nodejs-solid": {
+      "codepoint": 58131,
+      "fontFamily": "Teenyicons",
+      "identifier": "nodejsSolid"
+    },
+    "note-outline": {
+      "codepoint": 58132,
+      "fontFamily": "Teenyicons",
+      "identifier": "noteOutline"
+    },
+    "note-solid": {
+      "codepoint": 58133,
+      "fontFamily": "Teenyicons",
+      "identifier": "noteSolid"
+    },
+    "npm-outline": {
+      "codepoint": 58134,
+      "fontFamily": "Teenyicons",
+      "identifier": "npmOutline"
+    },
+    "npm-solid": {
+      "codepoint": 58135,
+      "fontFamily": "Teenyicons",
+      "identifier": "npmSolid"
+    },
+    "nuxtjs-outline": {
+      "codepoint": 58136,
+      "fontFamily": "Teenyicons",
+      "identifier": "nuxtjsOutline"
+    },
+    "nuxtjs-solid": {
+      "codepoint": 58137,
+      "fontFamily": "Teenyicons",
+      "identifier": "nuxtjsSolid"
+    },
+    "omega-outline": {
+      "codepoint": 58138,
+      "fontFamily": "Teenyicons",
+      "identifier": "omegaOutline"
+    },
+    "omega-solid": {
+      "codepoint": 58139,
+      "fontFamily": "Teenyicons",
+      "identifier": "omegaSolid"
+    },
+    "opera-outline": {
+      "codepoint": 58140,
+      "fontFamily": "Teenyicons",
+      "identifier": "operaOutline"
+    },
+    "opera-solid": {
+      "codepoint": 58141,
+      "fontFamily": "Teenyicons",
+      "identifier": "operaSolid"
+    },
+    "otp-outline": {
+      "codepoint": 58142,
+      "fontFamily": "Teenyicons",
+      "identifier": "otpOutline"
+    },
+    "otp-solid": {
+      "codepoint": 58143,
+      "fontFamily": "Teenyicons",
+      "identifier": "otpSolid"
+    },
+    "page-break-outline": {
+      "codepoint": 58144,
+      "fontFamily": "Teenyicons",
+      "identifier": "pageBreakOutline"
+    },
+    "page-break-solid": {
+      "codepoint": 58145,
+      "fontFamily": "Teenyicons",
+      "identifier": "pageBreakSolid"
+    },
+    "page-number-outline": {
+      "codepoint": 58146,
+      "fontFamily": "Teenyicons",
+      "identifier": "pageNumberOutline"
+    },
+    "page-number-solid": {
+      "codepoint": 58147,
+      "fontFamily": "Teenyicons",
+      "identifier": "pageNumberSolid"
+    },
+    "paintbrush-outline": {
+      "codepoint": 58148,
+      "fontFamily": "Teenyicons",
+      "identifier": "paintbrushOutline"
+    },
+    "paintbrush-solid": {
+      "codepoint": 58149,
+      "fontFamily": "Teenyicons",
+      "identifier": "paintbrushSolid"
+    },
+    "paintbucket-outline": {
+      "codepoint": 58150,
+      "fontFamily": "Teenyicons",
+      "identifier": "paintbucketOutline"
+    },
+    "paintbucket-solid": {
+      "codepoint": 58151,
+      "fontFamily": "Teenyicons",
+      "identifier": "paintbucketSolid"
+    },
+    "paragraph-outline": {
+      "codepoint": 58152,
+      "fontFamily": "Teenyicons",
+      "identifier": "paragraphOutline"
+    },
+    "paragraph-solid": {
+      "codepoint": 58153,
+      "fontFamily": "Teenyicons",
+      "identifier": "paragraphSolid"
+    },
+    "password-outline": {
+      "codepoint": 58154,
+      "fontFamily": "Teenyicons",
+      "identifier": "passwordOutline"
+    },
+    "password-solid": {
+      "codepoint": 58155,
+      "fontFamily": "Teenyicons",
+      "identifier": "passwordSolid"
+    },
+    "patreon-outline": {
+      "codepoint": 58156,
+      "fontFamily": "Teenyicons",
+      "identifier": "patreonOutline"
+    },
+    "patreon-solid": {
+      "codepoint": 58157,
+      "fontFamily": "Teenyicons",
+      "identifier": "patreonSolid"
+    },
+    "pause-circle-outline": {
+      "codepoint": 58158,
+      "fontFamily": "Teenyicons",
+      "identifier": "pauseCircleOutline"
+    },
+    "pause-circle-solid": {
+      "codepoint": 58159,
+      "fontFamily": "Teenyicons",
+      "identifier": "pauseCircleSolid"
+    },
+    "pause-outline": {
+      "codepoint": 58160,
+      "fontFamily": "Teenyicons",
+      "identifier": "pauseOutline"
+    },
+    "pause-small-outline": {
+      "codepoint": 58161,
+      "fontFamily": "Teenyicons",
+      "identifier": "pauseSmallOutline"
+    },
+    "pause-small-solid": {
+      "codepoint": 58162,
+      "fontFamily": "Teenyicons",
+      "identifier": "pauseSmallSolid"
+    },
+    "pause-solid": {
+      "codepoint": 58163,
+      "fontFamily": "Teenyicons",
+      "identifier": "pauseSolid"
+    },
+    "paw-outline": {
+      "codepoint": 58164,
+      "fontFamily": "Teenyicons",
+      "identifier": "pawOutline"
+    },
+    "paw-solid": {
+      "codepoint": 58165,
+      "fontFamily": "Teenyicons",
+      "identifier": "pawSolid"
+    },
+    "paws-outline": {
+      "codepoint": 58166,
+      "fontFamily": "Teenyicons",
+      "identifier": "pawsOutline"
+    },
+    "paws-solid": {
+      "codepoint": 58167,
+      "fontFamily": "Teenyicons",
+      "identifier": "pawsSolid"
+    },
+    "paypal-outline": {
+      "codepoint": 58168,
+      "fontFamily": "Teenyicons",
+      "identifier": "paypalOutline"
+    },
+    "paypal-solid": {
+      "codepoint": 58169,
+      "fontFamily": "Teenyicons",
+      "identifier": "paypalSolid"
+    },
+    "pdf-outline": {
+      "codepoint": 58170,
+      "fontFamily": "Teenyicons",
+      "identifier": "pdfOutline"
+    },
+    "pdf-solid": {
+      "codepoint": 58171,
+      "fontFamily": "Teenyicons",
+      "identifier": "pdfSolid"
+    },
+    "pen-outline": {
+      "codepoint": 58172,
+      "fontFamily": "Teenyicons",
+      "identifier": "penOutline"
+    },
+    "pen-solid": {
+      "codepoint": 58173,
+      "fontFamily": "Teenyicons",
+      "identifier": "penSolid"
+    },
+    "phone-outline": {
+      "codepoint": 58174,
+      "fontFamily": "Teenyicons",
+      "identifier": "phoneOutline"
+    },
+    "phone-solid": {
+      "codepoint": 58175,
+      "fontFamily": "Teenyicons",
+      "identifier": "phoneSolid"
+    },
+    "phonecall-blocked-outline": {
+      "codepoint": 58176,
+      "fontFamily": "Teenyicons",
+      "identifier": "phonecallBlockedOutline"
+    },
+    "phonecall-blocked-solid": {
+      "codepoint": 58177,
+      "fontFamily": "Teenyicons",
+      "identifier": "phonecallBlockedSolid"
+    },
+    "phonecall-outline": {
+      "codepoint": 58178,
+      "fontFamily": "Teenyicons",
+      "identifier": "phonecallOutline"
+    },
+    "phonecall-receive-outline": {
+      "codepoint": 58179,
+      "fontFamily": "Teenyicons",
+      "identifier": "phonecallReceiveOutline"
+    },
+    "phonecall-receive-solid": {
+      "codepoint": 58180,
+      "fontFamily": "Teenyicons",
+      "identifier": "phonecallReceiveSolid"
+    },
+    "phonecall-solid": {
+      "codepoint": 58181,
+      "fontFamily": "Teenyicons",
+      "identifier": "phonecallSolid"
+    },
+    "pie-chart-alt-outline": {
+      "codepoint": 58182,
+      "fontFamily": "Teenyicons",
+      "identifier": "pieChartAltOutline"
+    },
+    "pie-chart-alt-solid": {
+      "codepoint": 58183,
+      "fontFamily": "Teenyicons",
+      "identifier": "pieChartAltSolid"
+    },
+    "pie-chart-outline": {
+      "codepoint": 58184,
+      "fontFamily": "Teenyicons",
+      "identifier": "pieChartOutline"
+    },
+    "pie-chart-solid": {
+      "codepoint": 58185,
+      "fontFamily": "Teenyicons",
+      "identifier": "pieChartSolid"
+    },
+    "pin-alt-outline": {
+      "codepoint": 58186,
+      "fontFamily": "Teenyicons",
+      "identifier": "pinAltOutline"
+    },
+    "pin-alt-solid": {
+      "codepoint": 58187,
+      "fontFamily": "Teenyicons",
+      "identifier": "pinAltSolid"
+    },
+    "pin-outline": {
+      "codepoint": 58188,
+      "fontFamily": "Teenyicons",
+      "identifier": "pinOutline"
+    },
+    "pin-solid": {
+      "codepoint": 58189,
+      "fontFamily": "Teenyicons",
+      "identifier": "pinSolid"
+    },
+    "pinterest-outline": {
+      "codepoint": 58190,
+      "fontFamily": "Teenyicons",
+      "identifier": "pinterestOutline"
+    },
+    "pinterest-solid": {
+      "codepoint": 58191,
+      "fontFamily": "Teenyicons",
+      "identifier": "pinterestSolid"
+    },
+    "plant-outline": {
+      "codepoint": 58192,
+      "fontFamily": "Teenyicons",
+      "identifier": "plantOutline"
+    },
+    "plant-solid": {
+      "codepoint": 58193,
+      "fontFamily": "Teenyicons",
+      "identifier": "plantSolid"
+    },
+    "play-circle-outline": {
+      "codepoint": 58194,
+      "fontFamily": "Teenyicons",
+      "identifier": "playCircleOutline"
+    },
+    "play-circle-solid": {
+      "codepoint": 58195,
+      "fontFamily": "Teenyicons",
+      "identifier": "playCircleSolid"
+    },
+    "play-outline": {
+      "codepoint": 58196,
+      "fontFamily": "Teenyicons",
+      "identifier": "playOutline"
+    },
+    "play-small-outline": {
+      "codepoint": 58197,
+      "fontFamily": "Teenyicons",
+      "identifier": "playSmallOutline"
+    },
+    "play-small-solid": {
+      "codepoint": 58198,
+      "fontFamily": "Teenyicons",
+      "identifier": "playSmallSolid"
+    },
+    "play-solid": {
+      "codepoint": 58199,
+      "fontFamily": "Teenyicons",
+      "identifier": "playSolid"
+    },
+    "plug-outline": {
+      "codepoint": 58200,
+      "fontFamily": "Teenyicons",
+      "identifier": "plugOutline"
+    },
+    "plug-solid": {
+      "codepoint": 58201,
+      "fontFamily": "Teenyicons",
+      "identifier": "plugSolid"
+    },
+    "plus-circle-outline": {
+      "codepoint": 58202,
+      "fontFamily": "Teenyicons",
+      "identifier": "plusCircleOutline"
+    },
+    "plus-circle-solid": {
+      "codepoint": 58203,
+      "fontFamily": "Teenyicons",
+      "identifier": "plusCircleSolid"
+    },
+    "png-outline": {
+      "codepoint": 58204,
+      "fontFamily": "Teenyicons",
+      "identifier": "pngOutline"
+    },
+    "png-solid": {
+      "codepoint": 58205,
+      "fontFamily": "Teenyicons",
+      "identifier": "pngSolid"
+    },
+    "pool-outline": {
+      "codepoint": 58206,
+      "fontFamily": "Teenyicons",
+      "identifier": "poolOutline"
+    },
+    "pool-solid": {
+      "codepoint": 58207,
+      "fontFamily": "Teenyicons",
+      "identifier": "poolSolid"
+    },
+    "pound-outline": {
+      "codepoint": 58208,
+      "fontFamily": "Teenyicons",
+      "identifier": "poundOutline"
+    },
+    "pound-solid": {
+      "codepoint": 58209,
+      "fontFamily": "Teenyicons",
+      "identifier": "poundSolid"
+    },
+    "power-outline": {
+      "codepoint": 58210,
+      "fontFamily": "Teenyicons",
+      "identifier": "powerOutline"
+    },
+    "power-solid": {
+      "codepoint": 58211,
+      "fontFamily": "Teenyicons",
+      "identifier": "powerSolid"
+    },
+    "ppt-outline": {
+      "codepoint": 58212,
+      "fontFamily": "Teenyicons",
+      "identifier": "pptOutline"
+    },
+    "ppt-solid": {
+      "codepoint": 58213,
+      "fontFamily": "Teenyicons",
+      "identifier": "pptSolid"
+    },
+    "print-outline": {
+      "codepoint": 58214,
+      "fontFamily": "Teenyicons",
+      "identifier": "printOutline"
+    },
+    "print-solid": {
+      "codepoint": 58215,
+      "fontFamily": "Teenyicons",
+      "identifier": "printSolid"
+    },
+    "python-outline": {
+      "codepoint": 58216,
+      "fontFamily": "Teenyicons",
+      "identifier": "pythonOutline"
+    },
+    "python-solid": {
+      "codepoint": 58217,
+      "fontFamily": "Teenyicons",
+      "identifier": "pythonSolid"
+    },
+    "qr-code-outline": {
+      "codepoint": 58218,
+      "fontFamily": "Teenyicons",
+      "identifier": "qrCodeOutline"
+    },
+    "qr-code-solid": {
+      "codepoint": 58219,
+      "fontFamily": "Teenyicons",
+      "identifier": "qrCodeSolid"
+    },
+    "question-circle-outline": {
+      "codepoint": 58220,
+      "fontFamily": "Teenyicons",
+      "identifier": "questionCircleOutline"
+    },
+    "question-circle-solid": {
+      "codepoint": 58221,
+      "fontFamily": "Teenyicons",
+      "identifier": "questionCircleSolid"
+    },
+    "question-outline": {
+      "codepoint": 58222,
+      "fontFamily": "Teenyicons",
+      "identifier": "questionOutline"
+    },
+    "question-small-outline": {
+      "codepoint": 58223,
+      "fontFamily": "Teenyicons",
+      "identifier": "questionSmallOutline"
+    },
+    "question-small-solid": {
+      "codepoint": 58224,
+      "fontFamily": "Teenyicons",
+      "identifier": "questionSmallSolid"
+    },
+    "question-solid": {
+      "codepoint": 58225,
+      "fontFamily": "Teenyicons",
+      "identifier": "questionSolid"
+    },
+    "quote-outline": {
+      "codepoint": 58226,
+      "fontFamily": "Teenyicons",
+      "identifier": "quoteOutline"
+    },
+    "quote-solid": {
+      "codepoint": 58227,
+      "fontFamily": "Teenyicons",
+      "identifier": "quoteSolid"
+    },
+    "rand-outline": {
+      "codepoint": 58228,
+      "fontFamily": "Teenyicons",
+      "identifier": "randOutline"
+    },
+    "rand-solid": {
+      "codepoint": 58229,
+      "fontFamily": "Teenyicons",
+      "identifier": "randSolid"
+    },
+    "react-outline": {
+      "codepoint": 58230,
+      "fontFamily": "Teenyicons",
+      "identifier": "reactOutline"
+    },
+    "react-solid": {
+      "codepoint": 58231,
+      "fontFamily": "Teenyicons",
+      "identifier": "reactSolid"
+    },
+    "receipt-outline": {
+      "codepoint": 58232,
+      "fontFamily": "Teenyicons",
+      "identifier": "receiptOutline"
+    },
+    "receipt-solid": {
+      "codepoint": 58233,
+      "fontFamily": "Teenyicons",
+      "identifier": "receiptSolid"
+    },
+    "reddit-outline": {
+      "codepoint": 58234,
+      "fontFamily": "Teenyicons",
+      "identifier": "redditOutline"
+    },
+    "reddit-solid": {
+      "codepoint": 58235,
+      "fontFamily": "Teenyicons",
+      "identifier": "redditSolid"
+    },
+    "redwoodjs-outline": {
+      "codepoint": 58236,
+      "fontFamily": "Teenyicons",
+      "identifier": "redwoodjsOutline"
+    },
+    "redwoodjs-solid": {
+      "codepoint": 58237,
+      "fontFamily": "Teenyicons",
+      "identifier": "redwoodjsSolid"
+    },
+    "refresh-alt-outline": {
+      "codepoint": 58238,
+      "fontFamily": "Teenyicons",
+      "identifier": "refreshAltOutline"
+    },
+    "refresh-alt-solid": {
+      "codepoint": 58239,
+      "fontFamily": "Teenyicons",
+      "identifier": "refreshAltSolid"
+    },
+    "refresh-outline": {
+      "codepoint": 58240,
+      "fontFamily": "Teenyicons",
+      "identifier": "refreshOutline"
+    },
+    "refresh-solid": {
+      "codepoint": 58241,
+      "fontFamily": "Teenyicons",
+      "identifier": "refreshSolid"
+    },
+    "rewind-circle-outline": {
+      "codepoint": 58242,
+      "fontFamily": "Teenyicons",
+      "identifier": "rewindCircleOutline"
+    },
+    "rewind-circle-solid": {
+      "codepoint": 58243,
+      "fontFamily": "Teenyicons",
+      "identifier": "rewindCircleSolid"
+    },
+    "rewind-outline": {
+      "codepoint": 58244,
+      "fontFamily": "Teenyicons",
+      "identifier": "rewindOutline"
+    },
+    "rewind-small-outline": {
+      "codepoint": 58245,
+      "fontFamily": "Teenyicons",
+      "identifier": "rewindSmallOutline"
+    },
+    "rewind-small-solid": {
+      "codepoint": 58246,
+      "fontFamily": "Teenyicons",
+      "identifier": "rewindSmallSolid"
+    },
+    "rewind-solid": {
+      "codepoint": 58247,
+      "fontFamily": "Teenyicons",
+      "identifier": "rewindSolid"
+    },
+    "right-circle-outline": {
+      "codepoint": 58248,
+      "fontFamily": "Teenyicons",
+      "identifier": "rightCircleOutline"
+    },
+    "right-circle-solid": {
+      "codepoint": 58249,
+      "fontFamily": "Teenyicons",
+      "identifier": "rightCircleSolid"
+    },
+    "right-outline": {
+      "codepoint": 58250,
+      "fontFamily": "Teenyicons",
+      "identifier": "rightOutline"
+    },
+    "right-small-outline": {
+      "codepoint": 58251,
+      "fontFamily": "Teenyicons",
+      "identifier": "rightSmallOutline"
+    },
+    "right-small-solid": {
+      "codepoint": 58252,
+      "fontFamily": "Teenyicons",
+      "identifier": "rightSmallSolid"
+    },
+    "right-solid": {
+      "codepoint": 58253,
+      "fontFamily": "Teenyicons",
+      "identifier": "rightSolid"
+    },
+    "ripple-outline": {
+      "codepoint": 58254,
+      "fontFamily": "Teenyicons",
+      "identifier": "rippleOutline"
+    },
+    "ripple-solid": {
+      "codepoint": 58255,
+      "fontFamily": "Teenyicons",
+      "identifier": "rippleSolid"
+    },
+    "robot-outline": {
+      "codepoint": 58256,
+      "fontFamily": "Teenyicons",
+      "identifier": "robotOutline"
+    },
+    "robot-solid": {
+      "codepoint": 58257,
+      "fontFamily": "Teenyicons",
+      "identifier": "robotSolid"
+    },
+    "roller-outline": {
+      "codepoint": 58258,
+      "fontFamily": "Teenyicons",
+      "identifier": "rollerOutline"
+    },
+    "roller-solid": {
+      "codepoint": 58259,
+      "fontFamily": "Teenyicons",
+      "identifier": "rollerSolid"
+    },
+    "rollupjs-outline": {
+      "codepoint": 58260,
+      "fontFamily": "Teenyicons",
+      "identifier": "rollupjsOutline"
+    },
+    "rollupjs-solid": {
+      "codepoint": 58261,
+      "fontFamily": "Teenyicons",
+      "identifier": "rollupjsSolid"
+    },
+    "router-outline": {
+      "codepoint": 58262,
+      "fontFamily": "Teenyicons",
+      "identifier": "routerOutline"
+    },
+    "router-solid": {
+      "codepoint": 58263,
+      "fontFamily": "Teenyicons",
+      "identifier": "routerSolid"
+    },
+    "rss-outline": {
+      "codepoint": 58264,
+      "fontFamily": "Teenyicons",
+      "identifier": "rssOutline"
+    },
+    "rss-solid": {
+      "codepoint": 58265,
+      "fontFamily": "Teenyicons",
+      "identifier": "rssSolid"
+    },
+    "ruby-outline": {
+      "codepoint": 58266,
+      "fontFamily": "Teenyicons",
+      "identifier": "rubyOutline"
+    },
+    "ruby-solid": {
+      "codepoint": 58267,
+      "fontFamily": "Teenyicons",
+      "identifier": "rubySolid"
+    },
+    "rupee-outline": {
+      "codepoint": 58268,
+      "fontFamily": "Teenyicons",
+      "identifier": "rupeeOutline"
+    },
+    "rupee-solid": {
+      "codepoint": 58269,
+      "fontFamily": "Teenyicons",
+      "identifier": "rupeeSolid"
+    },
+    "rust-outline": {
+      "codepoint": 58270,
+      "fontFamily": "Teenyicons",
+      "identifier": "rustOutline"
+    },
+    "rust-solid": {
+      "codepoint": 58271,
+      "fontFamily": "Teenyicons",
+      "identifier": "rustSolid"
+    },
+    "safari-outline": {
+      "codepoint": 58272,
+      "fontFamily": "Teenyicons",
+      "identifier": "safariOutline"
+    },
+    "safari-solid": {
+      "codepoint": 58273,
+      "fontFamily": "Teenyicons",
+      "identifier": "safariSolid"
+    },
+    "safe-outline": {
+      "codepoint": 58274,
+      "fontFamily": "Teenyicons",
+      "identifier": "safeOutline"
+    },
+    "safe-solid": {
+      "codepoint": 58275,
+      "fontFamily": "Teenyicons",
+      "identifier": "safeSolid"
+    },
+    "save-outline": {
+      "codepoint": 58276,
+      "fontFamily": "Teenyicons",
+      "identifier": "saveOutline"
+    },
+    "save-solid": {
+      "codepoint": 58277,
+      "fontFamily": "Teenyicons",
+      "identifier": "saveSolid"
+    },
+    "scan-outline": {
+      "codepoint": 58278,
+      "fontFamily": "Teenyicons",
+      "identifier": "scanOutline"
+    },
+    "scan-solid": {
+      "codepoint": 58279,
+      "fontFamily": "Teenyicons",
+      "identifier": "scanSolid"
+    },
+    "school-outline": {
+      "codepoint": 58280,
+      "fontFamily": "Teenyicons",
+      "identifier": "schoolOutline"
+    },
+    "school-solid": {
+      "codepoint": 58281,
+      "fontFamily": "Teenyicons",
+      "identifier": "schoolSolid"
+    },
+    "screen-alt-2-outline": {
+      "codepoint": 58282,
+      "fontFamily": "Teenyicons",
+      "identifier": "screenAlt2Outline"
+    },
+    "screen-alt-2-solid": {
+      "codepoint": 58283,
+      "fontFamily": "Teenyicons",
+      "identifier": "screenAlt2Solid"
+    },
+    "screen-alt-outline": {
+      "codepoint": 58284,
+      "fontFamily": "Teenyicons",
+      "identifier": "screenAltOutline"
+    },
+    "screen-alt-solid": {
+      "codepoint": 58285,
+      "fontFamily": "Teenyicons",
+      "identifier": "screenAltSolid"
+    },
+    "screen-outline": {
+      "codepoint": 58286,
+      "fontFamily": "Teenyicons",
+      "identifier": "screenOutline"
+    },
+    "screen-solid": {
+      "codepoint": 58287,
+      "fontFamily": "Teenyicons",
+      "identifier": "screenSolid"
+    },
+    "scribble-outline": {
+      "codepoint": 58288,
+      "fontFamily": "Teenyicons",
+      "identifier": "scribbleOutline"
+    },
+    "scribble-solid": {
+      "codepoint": 58289,
+      "fontFamily": "Teenyicons",
+      "identifier": "scribbleSolid"
+    },
+    "sd-card-outline": {
+      "codepoint": 58290,
+      "fontFamily": "Teenyicons",
+      "identifier": "sdCardOutline"
+    },
+    "sd-card-solid": {
+      "codepoint": 58291,
+      "fontFamily": "Teenyicons",
+      "identifier": "sdCardSolid"
+    },
+    "search-circle-outline": {
+      "codepoint": 58292,
+      "fontFamily": "Teenyicons",
+      "identifier": "searchCircleOutline"
+    },
+    "search-circle-solid": {
+      "codepoint": 58293,
+      "fontFamily": "Teenyicons",
+      "identifier": "searchCircleSolid"
+    },
+    "search-outline": {
+      "codepoint": 58294,
+      "fontFamily": "Teenyicons",
+      "identifier": "searchOutline"
+    },
+    "search-property-outline": {
+      "codepoint": 58295,
+      "fontFamily": "Teenyicons",
+      "identifier": "searchPropertyOutline"
+    },
+    "search-property-solid": {
+      "codepoint": 58296,
+      "fontFamily": "Teenyicons",
+      "identifier": "searchPropertySolid"
+    },
+    "search-small-outline": {
+      "codepoint": 58297,
+      "fontFamily": "Teenyicons",
+      "identifier": "searchSmallOutline"
+    },
+    "search-small-solid": {
+      "codepoint": 58298,
+      "fontFamily": "Teenyicons",
+      "identifier": "searchSmallSolid"
+    },
+    "search-solid": {
+      "codepoint": 58299,
+      "fontFamily": "Teenyicons",
+      "identifier": "searchSolid"
+    },
+    "section-add-outline": {
+      "codepoint": 58300,
+      "fontFamily": "Teenyicons",
+      "identifier": "sectionAddOutline"
+    },
+    "section-add-solid": {
+      "codepoint": 58301,
+      "fontFamily": "Teenyicons",
+      "identifier": "sectionAddSolid"
+    },
+    "section-remove-outline": {
+      "codepoint": 58302,
+      "fontFamily": "Teenyicons",
+      "identifier": "sectionRemoveOutline"
+    },
+    "section-remove-solid": {
+      "codepoint": 58303,
+      "fontFamily": "Teenyicons",
+      "identifier": "sectionRemoveSolid"
+    },
+    "send-down-outline": {
+      "codepoint": 58304,
+      "fontFamily": "Teenyicons",
+      "identifier": "sendDownOutline"
+    },
+    "send-down-solid": {
+      "codepoint": 58305,
+      "fontFamily": "Teenyicons",
+      "identifier": "sendDownSolid"
+    },
+    "send-left-outline": {
+      "codepoint": 58306,
+      "fontFamily": "Teenyicons",
+      "identifier": "sendLeftOutline"
+    },
+    "send-left-solid": {
+      "codepoint": 58307,
+      "fontFamily": "Teenyicons",
+      "identifier": "sendLeftSolid"
+    },
+    "send-outline": {
+      "codepoint": 58308,
+      "fontFamily": "Teenyicons",
+      "identifier": "sendOutline"
+    },
+    "send-right-outline": {
+      "codepoint": 58309,
+      "fontFamily": "Teenyicons",
+      "identifier": "sendRightOutline"
+    },
+    "send-right-solid": {
+      "codepoint": 58310,
+      "fontFamily": "Teenyicons",
+      "identifier": "sendRightSolid"
+    },
+    "send-solid": {
+      "codepoint": 58311,
+      "fontFamily": "Teenyicons",
+      "identifier": "sendSolid"
+    },
+    "send-up-outline": {
+      "codepoint": 58312,
+      "fontFamily": "Teenyicons",
+      "identifier": "sendUpOutline"
+    },
+    "send-up-solid": {
+      "codepoint": 58313,
+      "fontFamily": "Teenyicons",
+      "identifier": "sendUpSolid"
+    },
+    "servers-outline": {
+      "codepoint": 58314,
+      "fontFamily": "Teenyicons",
+      "identifier": "serversOutline"
+    },
+    "servers-solid": {
+      "codepoint": 58315,
+      "fontFamily": "Teenyicons",
+      "identifier": "serversSolid"
+    },
+    "share-outline": {
+      "codepoint": 58316,
+      "fontFamily": "Teenyicons",
+      "identifier": "shareOutline"
+    },
+    "share-solid": {
+      "codepoint": 58317,
+      "fontFamily": "Teenyicons",
+      "identifier": "shareSolid"
+    },
+    "shield-outline": {
+      "codepoint": 58318,
+      "fontFamily": "Teenyicons",
+      "identifier": "shieldOutline"
+    },
+    "shield-solid": {
+      "codepoint": 58319,
+      "fontFamily": "Teenyicons",
+      "identifier": "shieldSolid"
+    },
+    "shield-tick-outline": {
+      "codepoint": 58320,
+      "fontFamily": "Teenyicons",
+      "identifier": "shieldTickOutline"
+    },
+    "shield-tick-solid": {
+      "codepoint": 58321,
+      "fontFamily": "Teenyicons",
+      "identifier": "shieldTickSolid"
+    },
+    "shield-x-outline": {
+      "codepoint": 58322,
+      "fontFamily": "Teenyicons",
+      "identifier": "shieldXOutline"
+    },
+    "shield-x-solid": {
+      "codepoint": 58323,
+      "fontFamily": "Teenyicons",
+      "identifier": "shieldXSolid"
+    },
+    "shop-outline": {
+      "codepoint": 58324,
+      "fontFamily": "Teenyicons",
+      "identifier": "shopOutline"
+    },
+    "shop-solid": {
+      "codepoint": 58325,
+      "fontFamily": "Teenyicons",
+      "identifier": "shopSolid"
+    },
+    "sign-outline": {
+      "codepoint": 58326,
+      "fontFamily": "Teenyicons",
+      "identifier": "signOutline"
+    },
+    "sign-solid": {
+      "codepoint": 58327,
+      "fontFamily": "Teenyicons",
+      "identifier": "signSolid"
+    },
+    "signin-outline": {
+      "codepoint": 58328,
+      "fontFamily": "Teenyicons",
+      "identifier": "signinOutline"
+    },
+    "signin-solid": {
+      "codepoint": 58329,
+      "fontFamily": "Teenyicons",
+      "identifier": "signinSolid"
+    },
+    "sim-outline": {
+      "codepoint": 58330,
+      "fontFamily": "Teenyicons",
+      "identifier": "simOutline"
+    },
+    "sim-solid": {
+      "codepoint": 58331,
+      "fontFamily": "Teenyicons",
+      "identifier": "simSolid"
+    },
+    "simohamed-outline": {
+      "codepoint": 58332,
+      "fontFamily": "Teenyicons",
+      "identifier": "simohamedOutline"
+    },
+    "simohamed-solid": {
+      "codepoint": 58333,
+      "fontFamily": "Teenyicons",
+      "identifier": "simohamedSolid"
+    },
+    "skull-outline": {
+      "codepoint": 58334,
+      "fontFamily": "Teenyicons",
+      "identifier": "skullOutline"
+    },
+    "skull-solid": {
+      "codepoint": 58335,
+      "fontFamily": "Teenyicons",
+      "identifier": "skullSolid"
+    },
+    "skype-outline": {
+      "codepoint": 58336,
+      "fontFamily": "Teenyicons",
+      "identifier": "skypeOutline"
+    },
+    "skype-solid": {
+      "codepoint": 58337,
+      "fontFamily": "Teenyicons",
+      "identifier": "skypeSolid"
+    },
+    "slack-outline": {
+      "codepoint": 58338,
+      "fontFamily": "Teenyicons",
+      "identifier": "slackOutline"
+    },
+    "slack-solid": {
+      "codepoint": 58339,
+      "fontFamily": "Teenyicons",
+      "identifier": "slackSolid"
+    },
+    "snapchat-outline": {
+      "codepoint": 58340,
+      "fontFamily": "Teenyicons",
+      "identifier": "snapchatOutline"
+    },
+    "snapchat-solid": {
+      "codepoint": 58341,
+      "fontFamily": "Teenyicons",
+      "identifier": "snapchatSolid"
+    },
+    "snes-outline": {
+      "codepoint": 58342,
+      "fontFamily": "Teenyicons",
+      "identifier": "snesOutline"
+    },
+    "snes-solid": {
+      "codepoint": 58343,
+      "fontFamily": "Teenyicons",
+      "identifier": "snesSolid"
+    },
+    "sort-alphabetically-outline": {
+      "codepoint": 58344,
+      "fontFamily": "Teenyicons",
+      "identifier": "sortAlphabeticallyOutline"
+    },
+    "sort-alphabetically-solid": {
+      "codepoint": 58345,
+      "fontFamily": "Teenyicons",
+      "identifier": "sortAlphabeticallySolid"
+    },
+    "sort-down-outline": {
+      "codepoint": 58346,
+      "fontFamily": "Teenyicons",
+      "identifier": "sortDownOutline"
+    },
+    "sort-down-solid": {
+      "codepoint": 58347,
+      "fontFamily": "Teenyicons",
+      "identifier": "sortDownSolid"
+    },
+    "sort-high-to-low-outline": {
+      "codepoint": 58348,
+      "fontFamily": "Teenyicons",
+      "identifier": "sortHighToLowOutline"
+    },
+    "sort-high-to-low-solid": {
+      "codepoint": 58349,
+      "fontFamily": "Teenyicons",
+      "identifier": "sortHighToLowSolid"
+    },
+    "sort-low-to-high-outline": {
+      "codepoint": 58350,
+      "fontFamily": "Teenyicons",
+      "identifier": "sortLowToHighOutline"
+    },
+    "sort-low-to-high-solid": {
+      "codepoint": 58351,
+      "fontFamily": "Teenyicons",
+      "identifier": "sortLowToHighSolid"
+    },
+    "sort-reverse-alphabetically-outline": {
+      "codepoint": 58352,
+      "fontFamily": "Teenyicons",
+      "identifier": "sortReverseAlphabeticallyOutline"
+    },
+    "sort-reverse-alphabetically-solid": {
+      "codepoint": 58353,
+      "fontFamily": "Teenyicons",
+      "identifier": "sortReverseAlphabeticallySolid"
+    },
+    "sort-up-outline": {
+      "codepoint": 58354,
+      "fontFamily": "Teenyicons",
+      "identifier": "sortUpOutline"
+    },
+    "sort-up-solid": {
+      "codepoint": 58355,
+      "fontFamily": "Teenyicons",
+      "identifier": "sortUpSolid"
+    },
+    "sound-off-outline": {
+      "codepoint": 58356,
+      "fontFamily": "Teenyicons",
+      "identifier": "soundOffOutline"
+    },
+    "sound-off-solid": {
+      "codepoint": 58357,
+      "fontFamily": "Teenyicons",
+      "identifier": "soundOffSolid"
+    },
+    "sound-on-outline": {
+      "codepoint": 58358,
+      "fontFamily": "Teenyicons",
+      "identifier": "soundOnOutline"
+    },
+    "sound-on-solid": {
+      "codepoint": 58359,
+      "fontFamily": "Teenyicons",
+      "identifier": "soundOnSolid"
+    },
+    "spotify-outline": {
+      "codepoint": 58360,
+      "fontFamily": "Teenyicons",
+      "identifier": "spotifyOutline"
+    },
+    "spotify-solid": {
+      "codepoint": 58361,
+      "fontFamily": "Teenyicons",
+      "identifier": "spotifySolid"
+    },
+    "spreadsheet-outline": {
+      "codepoint": 58362,
+      "fontFamily": "Teenyicons",
+      "identifier": "spreadsheetOutline"
+    },
+    "spreadsheet-solid": {
+      "codepoint": 58363,
+      "fontFamily": "Teenyicons",
+      "identifier": "spreadsheetSolid"
+    },
+    "square-outline": {
+      "codepoint": 58364,
+      "fontFamily": "Teenyicons",
+      "identifier": "squareOutline"
+    },
+    "square-solid": {
+      "codepoint": 58365,
+      "fontFamily": "Teenyicons",
+      "identifier": "squareSolid"
+    },
+    "stackoverflow-outline": {
+      "codepoint": 58366,
+      "fontFamily": "Teenyicons",
+      "identifier": "stackoverflowOutline"
+    },
+    "stackoverflow-solid": {
+      "codepoint": 58367,
+      "fontFamily": "Teenyicons",
+      "identifier": "stackoverflowSolid"
+    },
+    "stamp-outline": {
+      "codepoint": 58368,
+      "fontFamily": "Teenyicons",
+      "identifier": "stampOutline"
+    },
+    "stamp-solid": {
+      "codepoint": 58369,
+      "fontFamily": "Teenyicons",
+      "identifier": "stampSolid"
+    },
+    "star-circle-outline": {
+      "codepoint": 58370,
+      "fontFamily": "Teenyicons",
+      "identifier": "starCircleOutline"
+    },
+    "star-circle-solid": {
+      "codepoint": 58371,
+      "fontFamily": "Teenyicons",
+      "identifier": "starCircleSolid"
+    },
+    "star-outline": {
+      "codepoint": 58372,
+      "fontFamily": "Teenyicons",
+      "identifier": "starOutline"
+    },
+    "star-small-outline": {
+      "codepoint": 58373,
+      "fontFamily": "Teenyicons",
+      "identifier": "starSmallOutline"
+    },
+    "star-small-solid": {
+      "codepoint": 58374,
+      "fontFamily": "Teenyicons",
+      "identifier": "starSmallSolid"
+    },
+    "star-solid": {
+      "codepoint": 58375,
+      "fontFamily": "Teenyicons",
+      "identifier": "starSolid"
+    },
+    "stop-circle-outline": {
+      "codepoint": 58376,
+      "fontFamily": "Teenyicons",
+      "identifier": "stopCircleOutline"
+    },
+    "stop-circle-solid": {
+      "codepoint": 58377,
+      "fontFamily": "Teenyicons",
+      "identifier": "stopCircleSolid"
+    },
+    "stop-outline": {
+      "codepoint": 58378,
+      "fontFamily": "Teenyicons",
+      "identifier": "stopOutline"
+    },
+    "stop-small-outline": {
+      "codepoint": 58379,
+      "fontFamily": "Teenyicons",
+      "identifier": "stopSmallOutline"
+    },
+    "stop-small-solid": {
+      "codepoint": 58380,
+      "fontFamily": "Teenyicons",
+      "identifier": "stopSmallSolid"
+    },
+    "stop-solid": {
+      "codepoint": 58381,
+      "fontFamily": "Teenyicons",
+      "identifier": "stopSolid"
+    },
+    "stopwatch-outline": {
+      "codepoint": 58382,
+      "fontFamily": "Teenyicons",
+      "identifier": "stopwatchOutline"
+    },
+    "stopwatch-solid": {
+      "codepoint": 58383,
+      "fontFamily": "Teenyicons",
+      "identifier": "stopwatchSolid"
+    },
+    "strikethrough-outline": {
+      "codepoint": 58384,
+      "fontFamily": "Teenyicons",
+      "identifier": "strikethroughOutline"
+    },
+    "strikethrough-solid": {
+      "codepoint": 58385,
+      "fontFamily": "Teenyicons",
+      "identifier": "strikethroughSolid"
+    },
+    "subscript-outline": {
+      "codepoint": 58386,
+      "fontFamily": "Teenyicons",
+      "identifier": "subscriptOutline"
+    },
+    "subscript-solid": {
+      "codepoint": 58387,
+      "fontFamily": "Teenyicons",
+      "identifier": "subscriptSolid"
+    },
+    "sun-outline": {
+      "codepoint": 58388,
+      "fontFamily": "Teenyicons",
+      "identifier": "sunOutline"
+    },
+    "sun-solid": {
+      "codepoint": 58389,
+      "fontFamily": "Teenyicons",
+      "identifier": "sunSolid"
+    },
+    "superscript-outline": {
+      "codepoint": 58390,
+      "fontFamily": "Teenyicons",
+      "identifier": "superscriptOutline"
+    },
+    "superscript-solid": {
+      "codepoint": 58391,
+      "fontFamily": "Teenyicons",
+      "identifier": "superscriptSolid"
+    },
+    "svelte-outline": {
+      "codepoint": 58392,
+      "fontFamily": "Teenyicons",
+      "identifier": "svelteOutline"
+    },
+    "svelte-solid": {
+      "codepoint": 58393,
+      "fontFamily": "Teenyicons",
+      "identifier": "svelteSolid"
+    },
+    "svg-outline": {
+      "codepoint": 58394,
+      "fontFamily": "Teenyicons",
+      "identifier": "svgOutline"
+    },
+    "svg-solid": {
+      "codepoint": 58395,
+      "fontFamily": "Teenyicons",
+      "identifier": "svgSolid"
+    },
+    "table-outline": {
+      "codepoint": 58396,
+      "fontFamily": "Teenyicons",
+      "identifier": "tableOutline"
+    },
+    "table-solid": {
+      "codepoint": 58397,
+      "fontFamily": "Teenyicons",
+      "identifier": "tableSolid"
+    },
+    "tablet-outline": {
+      "codepoint": 58398,
+      "fontFamily": "Teenyicons",
+      "identifier": "tabletOutline"
+    },
+    "tablet-solid": {
+      "codepoint": 58399,
+      "fontFamily": "Teenyicons",
+      "identifier": "tabletSolid"
+    },
+    "tag-outline": {
+      "codepoint": 58400,
+      "fontFamily": "Teenyicons",
+      "identifier": "tagOutline"
+    },
+    "tag-solid": {
+      "codepoint": 58401,
+      "fontFamily": "Teenyicons",
+      "identifier": "tagSolid"
+    },
+    "tailwind-outline": {
+      "codepoint": 58402,
+      "fontFamily": "Teenyicons",
+      "identifier": "tailwindOutline"
+    },
+    "tailwind-solid": {
+      "codepoint": 58403,
+      "fontFamily": "Teenyicons",
+      "identifier": "tailwindSolid"
+    },
+    "target-outline": {
+      "codepoint": 58404,
+      "fontFamily": "Teenyicons",
+      "identifier": "targetOutline"
+    },
+    "target-solid": {
+      "codepoint": 58405,
+      "fontFamily": "Teenyicons",
+      "identifier": "targetSolid"
+    },
+    "telegram-outline": {
+      "codepoint": 58406,
+      "fontFamily": "Teenyicons",
+      "identifier": "telegramOutline"
+    },
+    "telegram-solid": {
+      "codepoint": 58407,
+      "fontFamily": "Teenyicons",
+      "identifier": "telegramSolid"
+    },
+    "terminal-outline": {
+      "codepoint": 58408,
+      "fontFamily": "Teenyicons",
+      "identifier": "terminalOutline"
+    },
+    "terminal-solid": {
+      "codepoint": 58409,
+      "fontFamily": "Teenyicons",
+      "identifier": "terminalSolid"
+    },
+    "text-document-alt-outline": {
+      "codepoint": 58410,
+      "fontFamily": "Teenyicons",
+      "identifier": "textDocumentAltOutline"
+    },
+    "text-document-alt-solid": {
+      "codepoint": 58411,
+      "fontFamily": "Teenyicons",
+      "identifier": "textDocumentAltSolid"
+    },
+    "text-document-outline": {
+      "codepoint": 58412,
+      "fontFamily": "Teenyicons",
+      "identifier": "textDocumentOutline"
+    },
+    "text-document-solid": {
+      "codepoint": 58413,
+      "fontFamily": "Teenyicons",
+      "identifier": "textDocumentSolid"
+    },
+    "text-outline": {
+      "codepoint": 58414,
+      "fontFamily": "Teenyicons",
+      "identifier": "textOutline"
+    },
+    "text-solid": {
+      "codepoint": 58415,
+      "fontFamily": "Teenyicons",
+      "identifier": "textSolid"
+    },
+    "thumb-down-outline": {
+      "codepoint": 58416,
+      "fontFamily": "Teenyicons",
+      "identifier": "thumbDownOutline"
+    },
+    "thumb-down-solid": {
+      "codepoint": 58417,
+      "fontFamily": "Teenyicons",
+      "identifier": "thumbDownSolid"
+    },
+    "thumb-up-outline": {
+      "codepoint": 58418,
+      "fontFamily": "Teenyicons",
+      "identifier": "thumbUpOutline"
+    },
+    "thumb-up-solid": {
+      "codepoint": 58419,
+      "fontFamily": "Teenyicons",
+      "identifier": "thumbUpSolid"
+    },
+    "thumbtack-outline": {
+      "codepoint": 58420,
+      "fontFamily": "Teenyicons",
+      "identifier": "thumbtackOutline"
+    },
+    "thumbtack-solid": {
+      "codepoint": 58421,
+      "fontFamily": "Teenyicons",
+      "identifier": "thumbtackSolid"
+    },
+    "tick-circle-outline": {
+      "codepoint": 58422,
+      "fontFamily": "Teenyicons",
+      "identifier": "tickCircleOutline"
+    },
+    "tick-circle-solid": {
+      "codepoint": 58423,
+      "fontFamily": "Teenyicons",
+      "identifier": "tickCircleSolid"
+    },
+    "tick-outline": {
+      "codepoint": 58424,
+      "fontFamily": "Teenyicons",
+      "identifier": "tickOutline"
+    },
+    "tick-small-outline": {
+      "codepoint": 58425,
+      "fontFamily": "Teenyicons",
+      "identifier": "tickSmallOutline"
+    },
+    "tick-small-solid": {
+      "codepoint": 58426,
+      "fontFamily": "Teenyicons",
+      "identifier": "tickSmallSolid"
+    },
+    "tick-solid": {
+      "codepoint": 58427,
+      "fontFamily": "Teenyicons",
+      "identifier": "tickSolid"
+    },
+    "tiktok-outline": {
+      "codepoint": 58428,
+      "fontFamily": "Teenyicons",
+      "identifier": "tiktokOutline"
+    },
+    "tiktok-solid": {
+      "codepoint": 58429,
+      "fontFamily": "Teenyicons",
+      "identifier": "tiktokSolid"
+    },
+    "toggle-outline": {
+      "codepoint": 58430,
+      "fontFamily": "Teenyicons",
+      "identifier": "toggleOutline"
+    },
+    "toggle-solid": {
+      "codepoint": 58431,
+      "fontFamily": "Teenyicons",
+      "identifier": "toggleSolid"
+    },
+    "top-left-outline": {
+      "codepoint": 58432,
+      "fontFamily": "Teenyicons",
+      "identifier": "topLeftOutline"
+    },
+    "top-left-solid": {
+      "codepoint": 58433,
+      "fontFamily": "Teenyicons",
+      "identifier": "topLeftSolid"
+    },
+    "top-right-outline": {
+      "codepoint": 58434,
+      "fontFamily": "Teenyicons",
+      "identifier": "topRightOutline"
+    },
+    "top-right-solid": {
+      "codepoint": 58435,
+      "fontFamily": "Teenyicons",
+      "identifier": "topRightSolid"
+    },
+    "trend-down-outline": {
+      "codepoint": 58436,
+      "fontFamily": "Teenyicons",
+      "identifier": "trendDownOutline"
+    },
+    "trend-down-solid": {
+      "codepoint": 58437,
+      "fontFamily": "Teenyicons",
+      "identifier": "trendDownSolid"
+    },
+    "trend-up-outline": {
+      "codepoint": 58438,
+      "fontFamily": "Teenyicons",
+      "identifier": "trendUpOutline"
+    },
+    "trend-up-solid": {
+      "codepoint": 58439,
+      "fontFamily": "Teenyicons",
+      "identifier": "trendUpSolid"
+    },
+    "triangle-outline": {
+      "codepoint": 58440,
+      "fontFamily": "Teenyicons",
+      "identifier": "triangleOutline"
+    },
+    "triangle-solid": {
+      "codepoint": 58441,
+      "fontFamily": "Teenyicons",
+      "identifier": "triangleSolid"
+    },
+    "trophy-outline": {
+      "codepoint": 58442,
+      "fontFamily": "Teenyicons",
+      "identifier": "trophyOutline"
+    },
+    "trophy-solid": {
+      "codepoint": 58443,
+      "fontFamily": "Teenyicons",
+      "identifier": "trophySolid"
+    },
+    "tv-outline": {
+      "codepoint": 58444,
+      "fontFamily": "Teenyicons",
+      "identifier": "tvOutline"
+    },
+    "tv-solid": {
+      "codepoint": 58445,
+      "fontFamily": "Teenyicons",
+      "identifier": "tvSolid"
+    },
+    "twitch-outline": {
+      "codepoint": 58446,
+      "fontFamily": "Teenyicons",
+      "identifier": "twitchOutline"
+    },
+    "twitch-solid": {
+      "codepoint": 58447,
+      "fontFamily": "Teenyicons",
+      "identifier": "twitchSolid"
+    },
+    "twitter-outline": {
+      "codepoint": 58448,
+      "fontFamily": "Teenyicons",
+      "identifier": "twitterOutline"
+    },
+    "twitter-solid": {
+      "codepoint": 58449,
+      "fontFamily": "Teenyicons",
+      "identifier": "twitterSolid"
+    },
+    "typescript-outline": {
+      "codepoint": 58450,
+      "fontFamily": "Teenyicons",
+      "identifier": "typescriptOutline"
+    },
+    "typescript-solid": {
+      "codepoint": 58451,
+      "fontFamily": "Teenyicons",
+      "identifier": "typescriptSolid"
+    },
+    "underline-outline": {
+      "codepoint": 58452,
+      "fontFamily": "Teenyicons",
+      "identifier": "underlineOutline"
+    },
+    "underline-solid": {
+      "codepoint": 58453,
+      "fontFamily": "Teenyicons",
+      "identifier": "underlineSolid"
+    },
+    "unlock-circle-outline": {
+      "codepoint": 58454,
+      "fontFamily": "Teenyicons",
+      "identifier": "unlockCircleOutline"
+    },
+    "unlock-circle-solid": {
+      "codepoint": 58455,
+      "fontFamily": "Teenyicons",
+      "identifier": "unlockCircleSolid"
+    },
+    "unlock-outline": {
+      "codepoint": 58456,
+      "fontFamily": "Teenyicons",
+      "identifier": "unlockOutline"
+    },
+    "unlock-small-outline": {
+      "codepoint": 58457,
+      "fontFamily": "Teenyicons",
+      "identifier": "unlockSmallOutline"
+    },
+    "unlock-small-solid": {
+      "codepoint": 58458,
+      "fontFamily": "Teenyicons",
+      "identifier": "unlockSmallSolid"
+    },
+    "unlock-solid": {
+      "codepoint": 58459,
+      "fontFamily": "Teenyicons",
+      "identifier": "unlockSolid"
+    },
+    "up-circle-outline": {
+      "codepoint": 58460,
+      "fontFamily": "Teenyicons",
+      "identifier": "upCircleOutline"
+    },
+    "up-circle-solid": {
+      "codepoint": 58461,
+      "fontFamily": "Teenyicons",
+      "identifier": "upCircleSolid"
+    },
+    "up-outline": {
+      "codepoint": 58462,
+      "fontFamily": "Teenyicons",
+      "identifier": "upOutline"
+    },
+    "up-small-outline": {
+      "codepoint": 58463,
+      "fontFamily": "Teenyicons",
+      "identifier": "upSmallOutline"
+    },
+    "up-small-solid": {
+      "codepoint": 58464,
+      "fontFamily": "Teenyicons",
+      "identifier": "upSmallSolid"
+    },
+    "up-solid": {
+      "codepoint": 58465,
+      "fontFamily": "Teenyicons",
+      "identifier": "upSolid"
+    },
+    "upload-outline": {
+      "codepoint": 58466,
+      "fontFamily": "Teenyicons",
+      "identifier": "uploadOutline"
+    },
+    "upload-solid": {
+      "codepoint": 58467,
+      "fontFamily": "Teenyicons",
+      "identifier": "uploadSolid"
+    },
+    "usb-cable-outline": {
+      "codepoint": 58468,
+      "fontFamily": "Teenyicons",
+      "identifier": "usbCableOutline"
+    },
+    "usb-cable-solid": {
+      "codepoint": 58469,
+      "fontFamily": "Teenyicons",
+      "identifier": "usbCableSolid"
+    },
+    "user-circle-outline": {
+      "codepoint": 58470,
+      "fontFamily": "Teenyicons",
+      "identifier": "userCircleOutline"
+    },
+    "user-circle-solid": {
+      "codepoint": 58471,
+      "fontFamily": "Teenyicons",
+      "identifier": "userCircleSolid"
+    },
+    "user-minus-outline": {
+      "codepoint": 58472,
+      "fontFamily": "Teenyicons",
+      "identifier": "userMinusOutline"
+    },
+    "user-minus-solid": {
+      "codepoint": 58473,
+      "fontFamily": "Teenyicons",
+      "identifier": "userMinusSolid"
+    },
+    "user-outline": {
+      "codepoint": 58474,
+      "fontFamily": "Teenyicons",
+      "identifier": "userOutline"
+    },
+    "user-plus-outline": {
+      "codepoint": 58475,
+      "fontFamily": "Teenyicons",
+      "identifier": "userPlusOutline"
+    },
+    "user-plus-solid": {
+      "codepoint": 58476,
+      "fontFamily": "Teenyicons",
+      "identifier": "userPlusSolid"
+    },
+    "user-solid": {
+      "codepoint": 58477,
+      "fontFamily": "Teenyicons",
+      "identifier": "userSolid"
+    },
+    "user-square-outline": {
+      "codepoint": 58478,
+      "fontFamily": "Teenyicons",
+      "identifier": "userSquareOutline"
+    },
+    "user-square-solid": {
+      "codepoint": 58479,
+      "fontFamily": "Teenyicons",
+      "identifier": "userSquareSolid"
+    },
+    "users-outline": {
+      "codepoint": 58480,
+      "fontFamily": "Teenyicons",
+      "identifier": "usersOutline"
+    },
+    "users-solid": {
+      "codepoint": 58481,
+      "fontFamily": "Teenyicons",
+      "identifier": "usersSolid"
+    },
+    "vector-document-outline": {
+      "codepoint": 58482,
+      "fontFamily": "Teenyicons",
+      "identifier": "vectorDocumentOutline"
+    },
+    "vector-document-solid": {
+      "codepoint": 58483,
+      "fontFamily": "Teenyicons",
+      "identifier": "vectorDocumentSolid"
+    },
+    "venn-diagram-outline": {
+      "codepoint": 58484,
+      "fontFamily": "Teenyicons",
+      "identifier": "vennDiagramOutline"
+    },
+    "venn-diagram-solid": {
+      "codepoint": 58485,
+      "fontFamily": "Teenyicons",
+      "identifier": "vennDiagramSolid"
+    },
+    "view-column-outline": {
+      "codepoint": 58486,
+      "fontFamily": "Teenyicons",
+      "identifier": "viewColumnOutline"
+    },
+    "view-column-solid": {
+      "codepoint": 58487,
+      "fontFamily": "Teenyicons",
+      "identifier": "viewColumnSolid"
+    },
+    "view-grid-outline": {
+      "codepoint": 58488,
+      "fontFamily": "Teenyicons",
+      "identifier": "viewGridOutline"
+    },
+    "view-grid-solid": {
+      "codepoint": 58489,
+      "fontFamily": "Teenyicons",
+      "identifier": "viewGridSolid"
+    },
+    "vim-outline": {
+      "codepoint": 58490,
+      "fontFamily": "Teenyicons",
+      "identifier": "vimOutline"
+    },
+    "vim-solid": {
+      "codepoint": 58491,
+      "fontFamily": "Teenyicons",
+      "identifier": "vimSolid"
+    },
+    "volume-1-outline": {
+      "codepoint": 58492,
+      "fontFamily": "Teenyicons",
+      "identifier": "volume1Outline"
+    },
+    "volume-1-solid": {
+      "codepoint": 58493,
+      "fontFamily": "Teenyicons",
+      "identifier": "volume1Solid"
+    },
+    "volume-2-outline": {
+      "codepoint": 58494,
+      "fontFamily": "Teenyicons",
+      "identifier": "volume2Outline"
+    },
+    "volume-2-solid": {
+      "codepoint": 58495,
+      "fontFamily": "Teenyicons",
+      "identifier": "volume2Solid"
+    },
+    "volume-3-outline": {
+      "codepoint": 58496,
+      "fontFamily": "Teenyicons",
+      "identifier": "volume3Outline"
+    },
+    "volume-3-solid": {
+      "codepoint": 58497,
+      "fontFamily": "Teenyicons",
+      "identifier": "volume3Solid"
+    },
+    "vr-headset-outline": {
+      "codepoint": 58498,
+      "fontFamily": "Teenyicons",
+      "identifier": "vrHeadsetOutline"
+    },
+    "vr-headset-solid": {
+      "codepoint": 58499,
+      "fontFamily": "Teenyicons",
+      "identifier": "vrHeadsetSolid"
+    },
+    "vue-outline": {
+      "codepoint": 58500,
+      "fontFamily": "Teenyicons",
+      "identifier": "vueOutline"
+    },
+    "vue-solid": {
+      "codepoint": 58501,
+      "fontFamily": "Teenyicons",
+      "identifier": "vueSolid"
+    },
+    "wallet-alt-outline": {
+      "codepoint": 58502,
+      "fontFamily": "Teenyicons",
+      "identifier": "walletAltOutline"
+    },
+    "wallet-alt-solid": {
+      "codepoint": 58503,
+      "fontFamily": "Teenyicons",
+      "identifier": "walletAltSolid"
+    },
+    "wallet-outline": {
+      "codepoint": 58504,
+      "fontFamily": "Teenyicons",
+      "identifier": "walletOutline"
+    },
+    "wallet-solid": {
+      "codepoint": 58505,
+      "fontFamily": "Teenyicons",
+      "identifier": "walletSolid"
+    },
+    "wan-outline": {
+      "codepoint": 58506,
+      "fontFamily": "Teenyicons",
+      "identifier": "wanOutline"
+    },
+    "wan-solid": {
+      "codepoint": 58507,
+      "fontFamily": "Teenyicons",
+      "identifier": "wanSolid"
+    },
+    "wand-outline": {
+      "codepoint": 58508,
+      "fontFamily": "Teenyicons",
+      "identifier": "wandOutline"
+    },
+    "wand-solid": {
+      "codepoint": 58509,
+      "fontFamily": "Teenyicons",
+      "identifier": "wandSolid"
+    },
+    "watch-outline": {
+      "codepoint": 58510,
+      "fontFamily": "Teenyicons",
+      "identifier": "watchOutline"
+    },
+    "watch-solid": {
+      "codepoint": 58511,
+      "fontFamily": "Teenyicons",
+      "identifier": "watchSolid"
+    },
+    "webpack-outline": {
+      "codepoint": 58512,
+      "fontFamily": "Teenyicons",
+      "identifier": "webpackOutline"
+    },
+    "webpack-solid": {
+      "codepoint": 58513,
+      "fontFamily": "Teenyicons",
+      "identifier": "webpackSolid"
+    },
+    "whatsapp-outline": {
+      "codepoint": 58514,
+      "fontFamily": "Teenyicons",
+      "identifier": "whatsappOutline"
+    },
+    "whatsapp-solid": {
+      "codepoint": 58515,
+      "fontFamily": "Teenyicons",
+      "identifier": "whatsappSolid"
+    },
+    "wifi-full-outline": {
+      "codepoint": 58516,
+      "fontFamily": "Teenyicons",
+      "identifier": "wifiFullOutline"
+    },
+    "wifi-full-solid": {
+      "codepoint": 58517,
+      "fontFamily": "Teenyicons",
+      "identifier": "wifiFullSolid"
+    },
+    "wifi-low-outline": {
+      "codepoint": 58518,
+      "fontFamily": "Teenyicons",
+      "identifier": "wifiLowOutline"
+    },
+    "wifi-low-solid": {
+      "codepoint": 58519,
+      "fontFamily": "Teenyicons",
+      "identifier": "wifiLowSolid"
+    },
+    "wifi-none-outline": {
+      "codepoint": 58520,
+      "fontFamily": "Teenyicons",
+      "identifier": "wifiNoneOutline"
+    },
+    "wifi-none-solid": {
+      "codepoint": 58521,
+      "fontFamily": "Teenyicons",
+      "identifier": "wifiNoneSolid"
+    },
+    "windows-outline": {
+      "codepoint": 58522,
+      "fontFamily": "Teenyicons",
+      "identifier": "windowsOutline"
+    },
+    "windows-solid": {
+      "codepoint": 58523,
+      "fontFamily": "Teenyicons",
+      "identifier": "windowsSolid"
+    },
+    "wordpress-outline": {
+      "codepoint": 58524,
+      "fontFamily": "Teenyicons",
+      "identifier": "wordpressOutline"
+    },
+    "wordpress-solid": {
+      "codepoint": 58525,
+      "fontFamily": "Teenyicons",
+      "identifier": "wordpressSolid"
+    },
+    "x-circle-outline": {
+      "codepoint": 58526,
+      "fontFamily": "Teenyicons",
+      "identifier": "xCircleOutline"
+    },
+    "x-circle-solid": {
+      "codepoint": 58527,
+      "fontFamily": "Teenyicons",
+      "identifier": "xCircleSolid"
+    },
+    "x-outline": {
+      "codepoint": 58528,
+      "fontFamily": "Teenyicons",
+      "identifier": "xOutline"
+    },
+    "x-small-outline": {
+      "codepoint": 58529,
+      "fontFamily": "Teenyicons",
+      "identifier": "xSmallOutline"
+    },
+    "x-small-solid": {
+      "codepoint": 58530,
+      "fontFamily": "Teenyicons",
+      "identifier": "xSmallSolid"
+    },
+    "x-solid": {
+      "codepoint": 58531,
+      "fontFamily": "Teenyicons",
+      "identifier": "xSolid"
+    },
+    "xls-outline": {
+      "codepoint": 58532,
+      "fontFamily": "Teenyicons",
+      "identifier": "xlsOutline"
+    },
+    "xls-solid": {
+      "codepoint": 58533,
+      "fontFamily": "Teenyicons",
+      "identifier": "xlsSolid"
+    },
+    "yen-outline": {
+      "codepoint": 58534,
+      "fontFamily": "Teenyicons",
+      "identifier": "yenOutline"
+    },
+    "yen-solid": {
+      "codepoint": 58535,
+      "fontFamily": "Teenyicons",
+      "identifier": "yenSolid"
+    },
+    "youtube-outline": {
+      "codepoint": 58536,
+      "fontFamily": "Teenyicons",
+      "identifier": "youtubeOutline"
+    },
+    "youtube-solid": {
+      "codepoint": 58537,
+      "fontFamily": "Teenyicons",
+      "identifier": "youtubeSolid"
+    },
+    "zip-outline": {
+      "codepoint": 58538,
+      "fontFamily": "Teenyicons",
+      "identifier": "zipOutline"
+    },
+    "zip-solid": {
+      "codepoint": 58539,
+      "fontFamily": "Teenyicons",
+      "identifier": "zipSolid"
+    },
+    "zoom-in-outline": {
+      "codepoint": 58540,
+      "fontFamily": "Teenyicons",
+      "identifier": "zoomInOutline"
+    },
+    "zoom-in-solid": {
+      "codepoint": 58541,
+      "fontFamily": "Teenyicons",
+      "identifier": "zoomInSolid"
+    },
+    "zoom-out-outline": {
+      "codepoint": 58542,
+      "fontFamily": "Teenyicons",
+      "identifier": "zoomOutOutline"
+    },
+    "zoom-out-solid": {
+      "codepoint": 58543,
+      "fontFamily": "Teenyicons",
+      "identifier": "zoomOutSolid"
+    }
+  }
+}

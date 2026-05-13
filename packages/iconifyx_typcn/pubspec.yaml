@@ -1,0 +1,22 @@
+name: iconifyx_typcn
+description: >-
+  Typicons icons from Iconify, packaged for Flutter (336 icons, CC BY-SA 4.0 license).
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+
+flutter:
+  uses-material-design: false
+  fonts:
+    - family: Typcn
+      fonts:
+        - asset: assets/fonts/Typcn.ttf

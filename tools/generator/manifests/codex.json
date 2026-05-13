@@ -1,0 +1,420 @@
+{
+  "schemaVersion": 1,
+  "prefix": "codex",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_codex",
+  "info": {
+    "name": "CodeX Icons",
+    "author": {
+      "name": "CodeX",
+      "url": "https://github.com/codex-team/icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/codex-team/icons/blob/master/LICENSE"
+    },
+    "total": 78
+  },
+  "fonts": [
+    {
+      "family": "Codex",
+      "nextCodepoint": 57422,
+      "iconCount": 78
+    }
+  ],
+  "icons": {
+    "add-background": {
+      "codepoint": 57344,
+      "fontFamily": "Codex",
+      "identifier": "addBackground"
+    },
+    "add-border": {
+      "codepoint": 57345,
+      "fontFamily": "Codex",
+      "identifier": "addBorder"
+    },
+    "align-center": {
+      "codepoint": 57346,
+      "fontFamily": "Codex",
+      "identifier": "alignCenter"
+    },
+    "align-justify": {
+      "codepoint": 57347,
+      "fontFamily": "Codex",
+      "identifier": "alignJustify"
+    },
+    "align-left": {
+      "codepoint": 57348,
+      "fontFamily": "Codex",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57349,
+      "fontFamily": "Codex",
+      "identifier": "alignRight"
+    },
+    "bold": {
+      "codepoint": 57350,
+      "fontFamily": "Codex",
+      "identifier": "bold"
+    },
+    "brackets": {
+      "codepoint": 57351,
+      "fontFamily": "Codex",
+      "identifier": "brackets"
+    },
+    "brackets-vertical": {
+      "codepoint": 57352,
+      "fontFamily": "Codex",
+      "identifier": "bracketsVertical"
+    },
+    "check": {
+      "codepoint": 57353,
+      "fontFamily": "Codex",
+      "identifier": "check"
+    },
+    "checklist": {
+      "codepoint": 57354,
+      "fontFamily": "Codex",
+      "identifier": "checklist"
+    },
+    "chevron-down": {
+      "codepoint": 57355,
+      "fontFamily": "Codex",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57356,
+      "fontFamily": "Codex",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57357,
+      "fontFamily": "Codex",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57358,
+      "fontFamily": "Codex",
+      "identifier": "chevronUp"
+    },
+    "clipboard": {
+      "codepoint": 57359,
+      "fontFamily": "Codex",
+      "identifier": "clipboard"
+    },
+    "collapse": {
+      "codepoint": 57360,
+      "fontFamily": "Codex",
+      "identifier": "collapse"
+    },
+    "color": {
+      "codepoint": 57361,
+      "fontFamily": "Codex",
+      "identifier": "color"
+    },
+    "copy": {
+      "codepoint": 57362,
+      "fontFamily": "Codex",
+      "identifier": "copy"
+    },
+    "cross": {
+      "codepoint": 57363,
+      "fontFamily": "Codex",
+      "identifier": "cross"
+    },
+    "curly-brackets": {
+      "codepoint": 57364,
+      "fontFamily": "Codex",
+      "identifier": "curlyBrackets"
+    },
+    "delimiter": {
+      "codepoint": 57365,
+      "fontFamily": "Codex",
+      "identifier": "delimiter"
+    },
+    "direction-down-right": {
+      "codepoint": 57366,
+      "fontFamily": "Codex",
+      "identifier": "directionDownRight"
+    },
+    "direction-left-down": {
+      "codepoint": 57367,
+      "fontFamily": "Codex",
+      "identifier": "directionLeftDown"
+    },
+    "direction-right-down": {
+      "codepoint": 57368,
+      "fontFamily": "Codex",
+      "identifier": "directionRightDown"
+    },
+    "direction-up-right": {
+      "codepoint": 57369,
+      "fontFamily": "Codex",
+      "identifier": "directionUpRight"
+    },
+    "dot-circle": {
+      "codepoint": 57370,
+      "fontFamily": "Codex",
+      "identifier": "dotCircle"
+    },
+    "etc-horisontal": {
+      "codepoint": 57371,
+      "fontFamily": "Codex",
+      "identifier": "etcHorisontal"
+    },
+    "etc-vertical": {
+      "codepoint": 57372,
+      "fontFamily": "Codex",
+      "identifier": "etcVertical"
+    },
+    "file": {
+      "codepoint": 57373,
+      "fontFamily": "Codex",
+      "identifier": "file"
+    },
+    "gift": {
+      "codepoint": 57374,
+      "fontFamily": "Codex",
+      "identifier": "gift"
+    },
+    "globe": {
+      "codepoint": 57375,
+      "fontFamily": "Codex",
+      "identifier": "globe"
+    },
+    "h1": {
+      "codepoint": 57376,
+      "fontFamily": "Codex",
+      "identifier": "h1"
+    },
+    "h2": {
+      "codepoint": 57377,
+      "fontFamily": "Codex",
+      "identifier": "h2"
+    },
+    "h3": {
+      "codepoint": 57378,
+      "fontFamily": "Codex",
+      "identifier": "h3"
+    },
+    "h4": {
+      "codepoint": 57379,
+      "fontFamily": "Codex",
+      "identifier": "h4"
+    },
+    "h5": {
+      "codepoint": 57380,
+      "fontFamily": "Codex",
+      "identifier": "h5"
+    },
+    "h6": {
+      "codepoint": 57381,
+      "fontFamily": "Codex",
+      "identifier": "h6"
+    },
+    "heading": {
+      "codepoint": 57382,
+      "fontFamily": "Codex",
+      "identifier": "heading"
+    },
+    "heart": {
+      "codepoint": 57383,
+      "fontFamily": "Codex",
+      "identifier": "heart"
+    },
+    "hidden": {
+      "codepoint": 57384,
+      "fontFamily": "Codex",
+      "identifier": "hidden"
+    },
+    "html": {
+      "codepoint": 57385,
+      "fontFamily": "Codex",
+      "identifier": "html"
+    },
+    "instagram": {
+      "codepoint": 57386,
+      "fontFamily": "Codex",
+      "identifier": "instagram"
+    },
+    "italic": {
+      "codepoint": 57387,
+      "fontFamily": "Codex",
+      "identifier": "italic"
+    },
+    "link": {
+      "codepoint": 57388,
+      "fontFamily": "Codex",
+      "identifier": "link"
+    },
+    "linkedin": {
+      "codepoint": 57389,
+      "fontFamily": "Codex",
+      "identifier": "linkedin"
+    },
+    "list-bulleted": {
+      "codepoint": 57390,
+      "fontFamily": "Codex",
+      "identifier": "listBulleted"
+    },
+    "list-numbered": {
+      "codepoint": 57391,
+      "fontFamily": "Codex",
+      "identifier": "listNumbered"
+    },
+    "loader": {
+      "codepoint": 57392,
+      "fontFamily": "Codex",
+      "identifier": "loader"
+    },
+    "marker": {
+      "codepoint": 57393,
+      "fontFamily": "Codex",
+      "identifier": "marker"
+    },
+    "menu": {
+      "codepoint": 57394,
+      "fontFamily": "Codex",
+      "identifier": "menu"
+    },
+    "menu-small": {
+      "codepoint": 57395,
+      "fontFamily": "Codex",
+      "identifier": "menuSmall"
+    },
+    "picture": {
+      "codepoint": 57396,
+      "fontFamily": "Codex",
+      "identifier": "picture"
+    },
+    "play": {
+      "codepoint": 57397,
+      "fontFamily": "Codex",
+      "identifier": "play"
+    },
+    "plus": {
+      "codepoint": 57398,
+      "fontFamily": "Codex",
+      "identifier": "plus"
+    },
+    "question": {
+      "codepoint": 57399,
+      "fontFamily": "Codex",
+      "identifier": "question"
+    },
+    "quote": {
+      "codepoint": 57400,
+      "fontFamily": "Codex",
+      "identifier": "quote"
+    },
+    "redo": {
+      "codepoint": 57401,
+      "fontFamily": "Codex",
+      "identifier": "redo"
+    },
+    "remove-background": {
+      "codepoint": 57402,
+      "fontFamily": "Codex",
+      "identifier": "removeBackground"
+    },
+    "replace": {
+      "codepoint": 57403,
+      "fontFamily": "Codex",
+      "identifier": "replace"
+    },
+    "save": {
+      "codepoint": 57404,
+      "fontFamily": "Codex",
+      "identifier": "save"
+    },
+    "search": {
+      "codepoint": 57405,
+      "fontFamily": "Codex",
+      "identifier": "search"
+    },
+    "star": {
+      "codepoint": 57406,
+      "fontFamily": "Codex",
+      "identifier": "star"
+    },
+    "stretch": {
+      "codepoint": 57407,
+      "fontFamily": "Codex",
+      "identifier": "stretch"
+    },
+    "strikethrough": {
+      "codepoint": 57408,
+      "fontFamily": "Codex",
+      "identifier": "strikethrough"
+    },
+    "table": {
+      "codepoint": 57409,
+      "fontFamily": "Codex",
+      "identifier": "table"
+    },
+    "table-with-headings": {
+      "codepoint": 57410,
+      "fontFamily": "Codex",
+      "identifier": "tableWithHeadings"
+    },
+    "table-without-headings": {
+      "codepoint": 57411,
+      "fontFamily": "Codex",
+      "identifier": "tableWithoutHeadings"
+    },
+    "text": {
+      "codepoint": 57412,
+      "fontFamily": "Codex",
+      "identifier": "text"
+    },
+    "translate": {
+      "codepoint": 57413,
+      "fontFamily": "Codex",
+      "identifier": "translate"
+    },
+    "trash": {
+      "codepoint": 57414,
+      "fontFamily": "Codex",
+      "identifier": "trash"
+    },
+    "twitter": {
+      "codepoint": 57415,
+      "fontFamily": "Codex",
+      "identifier": "twitter"
+    },
+    "underline": {
+      "codepoint": 57416,
+      "fontFamily": "Codex",
+      "identifier": "underline"
+    },
+    "undo": {
+      "codepoint": 57417,
+      "fontFamily": "Codex",
+      "identifier": "undo"
+    },
+    "unlink": {
+      "codepoint": 57418,
+      "fontFamily": "Codex",
+      "identifier": "unlink"
+    },
+    "user": {
+      "codepoint": 57419,
+      "fontFamily": "Codex",
+      "identifier": "user"
+    },
+    "users-group": {
+      "codepoint": 57420,
+      "fontFamily": "Codex",
+      "identifier": "usersGroup"
+    },
+    "warning": {
+      "codepoint": 57421,
+      "fontFamily": "Codex",
+      "identifier": "warning"
+    }
+  }
+}

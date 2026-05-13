@@ -1,0 +1,22 @@
+name: iconifyx_si_glyph
+description: >-
+  SmartIcons Glyph icons from Iconify, packaged for Flutter (799 icons, CC BY SA 4.0 license).
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+
+flutter:
+  uses-material-design: false
+  fonts:
+    - family: SiGlyph
+      fonts:
+        - asset: assets/fonts/SiGlyph.ttf

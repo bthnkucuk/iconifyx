@@ -1,0 +1,6740 @@
+{
+  "schemaVersion": 1,
+  "prefix": "famicons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 16px / 32px",
+  "subPackage": "iconifyx_famicons",
+  "info": {
+    "name": "Famicons",
+    "author": {
+      "name": "Family",
+      "url": "https://github.com/familyjs/famicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/familyjs/famicons/blob/main/LICENSE"
+    },
+    "total": 1342
+  },
+  "fonts": [
+    {
+      "family": "Famicons",
+      "nextCodepoint": 58686,
+      "iconCount": 1342
+    }
+  ],
+  "icons": {
+    "accessibility": {
+      "codepoint": 57344,
+      "fontFamily": "Famicons",
+      "identifier": "accessibility"
+    },
+    "accessibility-outline": {
+      "codepoint": 57345,
+      "fontFamily": "Famicons",
+      "identifier": "accessibilityOutline"
+    },
+    "accessibility-sharp": {
+      "codepoint": 57346,
+      "fontFamily": "Famicons",
+      "identifier": "accessibilitySharp"
+    },
+    "add": {
+      "codepoint": 57347,
+      "fontFamily": "Famicons",
+      "identifier": "add"
+    },
+    "add-circle": {
+      "codepoint": 57348,
+      "fontFamily": "Famicons",
+      "identifier": "addCircle"
+    },
+    "add-circle-outline": {
+      "codepoint": 57349,
+      "fontFamily": "Famicons",
+      "identifier": "addCircleOutline"
+    },
+    "add-circle-sharp": {
+      "codepoint": 57350,
+      "fontFamily": "Famicons",
+      "identifier": "addCircleSharp"
+    },
+    "add-outline": {
+      "codepoint": 57351,
+      "fontFamily": "Famicons",
+      "identifier": "addOutline"
+    },
+    "add-sharp": {
+      "codepoint": 57352,
+      "fontFamily": "Famicons",
+      "identifier": "addSharp"
+    },
+    "airplane": {
+      "codepoint": 57353,
+      "fontFamily": "Famicons",
+      "identifier": "airplane"
+    },
+    "airplane-outline": {
+      "codepoint": 57354,
+      "fontFamily": "Famicons",
+      "identifier": "airplaneOutline"
+    },
+    "airplane-sharp": {
+      "codepoint": 57355,
+      "fontFamily": "Famicons",
+      "identifier": "airplaneSharp"
+    },
+    "alarm": {
+      "codepoint": 57356,
+      "fontFamily": "Famicons",
+      "identifier": "alarm"
+    },
+    "alarm-outline": {
+      "codepoint": 57357,
+      "fontFamily": "Famicons",
+      "identifier": "alarmOutline"
+    },
+    "alarm-sharp": {
+      "codepoint": 57358,
+      "fontFamily": "Famicons",
+      "identifier": "alarmSharp"
+    },
+    "albums": {
+      "codepoint": 57359,
+      "fontFamily": "Famicons",
+      "identifier": "albums"
+    },
+    "albums-outline": {
+      "codepoint": 57360,
+      "fontFamily": "Famicons",
+      "identifier": "albumsOutline"
+    },
+    "albums-sharp": {
+      "codepoint": 57361,
+      "fontFamily": "Famicons",
+      "identifier": "albumsSharp"
+    },
+    "alert": {
+      "codepoint": 57362,
+      "fontFamily": "Famicons",
+      "identifier": "alert"
+    },
+    "alert-circle": {
+      "codepoint": 57363,
+      "fontFamily": "Famicons",
+      "identifier": "alertCircle"
+    },
+    "alert-circle-outline": {
+      "codepoint": 57364,
+      "fontFamily": "Famicons",
+      "identifier": "alertCircleOutline"
+    },
+    "alert-circle-sharp": {
+      "codepoint": 57365,
+      "fontFamily": "Famicons",
+      "identifier": "alertCircleSharp"
+    },
+    "alert-outline": {
+      "codepoint": 57366,
+      "fontFamily": "Famicons",
+      "identifier": "alertOutline"
+    },
+    "alert-sharp": {
+      "codepoint": 57367,
+      "fontFamily": "Famicons",
+      "identifier": "alertSharp"
+    },
+    "american-football": {
+      "codepoint": 57368,
+      "fontFamily": "Famicons",
+      "identifier": "americanFootball"
+    },
+    "american-football-outline": {
+      "codepoint": 57369,
+      "fontFamily": "Famicons",
+      "identifier": "americanFootballOutline"
+    },
+    "american-football-sharp": {
+      "codepoint": 57370,
+      "fontFamily": "Famicons",
+      "identifier": "americanFootballSharp"
+    },
+    "analytics": {
+      "codepoint": 57371,
+      "fontFamily": "Famicons",
+      "identifier": "analytics"
+    },
+    "analytics-outline": {
+      "codepoint": 57372,
+      "fontFamily": "Famicons",
+      "identifier": "analyticsOutline"
+    },
+    "analytics-sharp": {
+      "codepoint": 57373,
+      "fontFamily": "Famicons",
+      "identifier": "analyticsSharp"
+    },
+    "aperture": {
+      "codepoint": 57374,
+      "fontFamily": "Famicons",
+      "identifier": "aperture"
+    },
+    "aperture-outline": {
+      "codepoint": 57375,
+      "fontFamily": "Famicons",
+      "identifier": "apertureOutline"
+    },
+    "aperture-sharp": {
+      "codepoint": 57376,
+      "fontFamily": "Famicons",
+      "identifier": "apertureSharp"
+    },
+    "apps": {
+      "codepoint": 57377,
+      "fontFamily": "Famicons",
+      "identifier": "apps"
+    },
+    "apps-outline": {
+      "codepoint": 57378,
+      "fontFamily": "Famicons",
+      "identifier": "appsOutline"
+    },
+    "apps-sharp": {
+      "codepoint": 57379,
+      "fontFamily": "Famicons",
+      "identifier": "appsSharp"
+    },
+    "archive": {
+      "codepoint": 57380,
+      "fontFamily": "Famicons",
+      "identifier": "archive"
+    },
+    "archive-outline": {
+      "codepoint": 57381,
+      "fontFamily": "Famicons",
+      "identifier": "archiveOutline"
+    },
+    "archive-sharp": {
+      "codepoint": 57382,
+      "fontFamily": "Famicons",
+      "identifier": "archiveSharp"
+    },
+    "arrow-back": {
+      "codepoint": 57383,
+      "fontFamily": "Famicons",
+      "identifier": "arrowBack"
+    },
+    "arrow-back-circle": {
+      "codepoint": 57384,
+      "fontFamily": "Famicons",
+      "identifier": "arrowBackCircle"
+    },
+    "arrow-back-circle-outline": {
+      "codepoint": 57385,
+      "fontFamily": "Famicons",
+      "identifier": "arrowBackCircleOutline"
+    },
+    "arrow-back-circle-sharp": {
+      "codepoint": 57386,
+      "fontFamily": "Famicons",
+      "identifier": "arrowBackCircleSharp"
+    },
+    "arrow-back-outline": {
+      "codepoint": 57387,
+      "fontFamily": "Famicons",
+      "identifier": "arrowBackOutline"
+    },
+    "arrow-back-sharp": {
+      "codepoint": 57388,
+      "fontFamily": "Famicons",
+      "identifier": "arrowBackSharp"
+    },
+    "arrow-down": {
+      "codepoint": 57389,
+      "fontFamily": "Famicons",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-circle": {
+      "codepoint": 57390,
+      "fontFamily": "Famicons",
+      "identifier": "arrowDownCircle"
+    },
+    "arrow-down-circle-outline": {
+      "codepoint": 57391,
+      "fontFamily": "Famicons",
+      "identifier": "arrowDownCircleOutline"
+    },
+    "arrow-down-circle-sharp": {
+      "codepoint": 57392,
+      "fontFamily": "Famicons",
+      "identifier": "arrowDownCircleSharp"
+    },
+    "arrow-down-outline": {
+      "codepoint": 57393,
+      "fontFamily": "Famicons",
+      "identifier": "arrowDownOutline"
+    },
+    "arrow-down-sharp": {
+      "codepoint": 57394,
+      "fontFamily": "Famicons",
+      "identifier": "arrowDownSharp"
+    },
+    "arrow-forward": {
+      "codepoint": 57395,
+      "fontFamily": "Famicons",
+      "identifier": "arrowForward"
+    },
+    "arrow-forward-circle": {
+      "codepoint": 57396,
+      "fontFamily": "Famicons",
+      "identifier": "arrowForwardCircle"
+    },
+    "arrow-forward-circle-outline": {
+      "codepoint": 57397,
+      "fontFamily": "Famicons",
+      "identifier": "arrowForwardCircleOutline"
+    },
+    "arrow-forward-circle-sharp": {
+      "codepoint": 57398,
+      "fontFamily": "Famicons",
+      "identifier": "arrowForwardCircleSharp"
+    },
+    "arrow-forward-outline": {
+      "codepoint": 57399,
+      "fontFamily": "Famicons",
+      "identifier": "arrowForwardOutline"
+    },
+    "arrow-forward-sharp": {
+      "codepoint": 57400,
+      "fontFamily": "Famicons",
+      "identifier": "arrowForwardSharp"
+    },
+    "arrow-redo": {
+      "codepoint": 57401,
+      "fontFamily": "Famicons",
+      "identifier": "arrowRedo"
+    },
+    "arrow-redo-circle": {
+      "codepoint": 57402,
+      "fontFamily": "Famicons",
+      "identifier": "arrowRedoCircle"
+    },
+    "arrow-redo-circle-outline": {
+      "codepoint": 57403,
+      "fontFamily": "Famicons",
+      "identifier": "arrowRedoCircleOutline"
+    },
+    "arrow-redo-circle-sharp": {
+      "codepoint": 57404,
+      "fontFamily": "Famicons",
+      "identifier": "arrowRedoCircleSharp"
+    },
+    "arrow-redo-outline": {
+      "codepoint": 57405,
+      "fontFamily": "Famicons",
+      "identifier": "arrowRedoOutline"
+    },
+    "arrow-redo-sharp": {
+      "codepoint": 57406,
+      "fontFamily": "Famicons",
+      "identifier": "arrowRedoSharp"
+    },
+    "arrow-undo": {
+      "codepoint": 57407,
+      "fontFamily": "Famicons",
+      "identifier": "arrowUndo"
+    },
+    "arrow-undo-circle": {
+      "codepoint": 57408,
+      "fontFamily": "Famicons",
+      "identifier": "arrowUndoCircle"
+    },
+    "arrow-undo-circle-outline": {
+      "codepoint": 57409,
+      "fontFamily": "Famicons",
+      "identifier": "arrowUndoCircleOutline"
+    },
+    "arrow-undo-circle-sharp": {
+      "codepoint": 57410,
+      "fontFamily": "Famicons",
+      "identifier": "arrowUndoCircleSharp"
+    },
+    "arrow-undo-outline": {
+      "codepoint": 57411,
+      "fontFamily": "Famicons",
+      "identifier": "arrowUndoOutline"
+    },
+    "arrow-undo-sharp": {
+      "codepoint": 57412,
+      "fontFamily": "Famicons",
+      "identifier": "arrowUndoSharp"
+    },
+    "arrow-up": {
+      "codepoint": 57413,
+      "fontFamily": "Famicons",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-circle": {
+      "codepoint": 57414,
+      "fontFamily": "Famicons",
+      "identifier": "arrowUpCircle"
+    },
+    "arrow-up-circle-outline": {
+      "codepoint": 57415,
+      "fontFamily": "Famicons",
+      "identifier": "arrowUpCircleOutline"
+    },
+    "arrow-up-circle-sharp": {
+      "codepoint": 57416,
+      "fontFamily": "Famicons",
+      "identifier": "arrowUpCircleSharp"
+    },
+    "arrow-up-outline": {
+      "codepoint": 57417,
+      "fontFamily": "Famicons",
+      "identifier": "arrowUpOutline"
+    },
+    "arrow-up-sharp": {
+      "codepoint": 57418,
+      "fontFamily": "Famicons",
+      "identifier": "arrowUpSharp"
+    },
+    "at": {
+      "codepoint": 57419,
+      "fontFamily": "Famicons",
+      "identifier": "at"
+    },
+    "at-circle": {
+      "codepoint": 57420,
+      "fontFamily": "Famicons",
+      "identifier": "atCircle"
+    },
+    "at-circle-outline": {
+      "codepoint": 57421,
+      "fontFamily": "Famicons",
+      "identifier": "atCircleOutline"
+    },
+    "at-circle-sharp": {
+      "codepoint": 57422,
+      "fontFamily": "Famicons",
+      "identifier": "atCircleSharp"
+    },
+    "at-outline": {
+      "codepoint": 57423,
+      "fontFamily": "Famicons",
+      "identifier": "atOutline"
+    },
+    "at-sharp": {
+      "codepoint": 57424,
+      "fontFamily": "Famicons",
+      "identifier": "atSharp"
+    },
+    "attach": {
+      "codepoint": 57425,
+      "fontFamily": "Famicons",
+      "identifier": "attach"
+    },
+    "attach-outline": {
+      "codepoint": 57426,
+      "fontFamily": "Famicons",
+      "identifier": "attachOutline"
+    },
+    "attach-sharp": {
+      "codepoint": 57427,
+      "fontFamily": "Famicons",
+      "identifier": "attachSharp"
+    },
+    "backspace": {
+      "codepoint": 57428,
+      "fontFamily": "Famicons",
+      "identifier": "backspace"
+    },
+    "backspace-outline": {
+      "codepoint": 57429,
+      "fontFamily": "Famicons",
+      "identifier": "backspaceOutline"
+    },
+    "backspace-sharp": {
+      "codepoint": 57430,
+      "fontFamily": "Famicons",
+      "identifier": "backspaceSharp"
+    },
+    "bag": {
+      "codepoint": 57431,
+      "fontFamily": "Famicons",
+      "identifier": "bag"
+    },
+    "bag-add": {
+      "codepoint": 57432,
+      "fontFamily": "Famicons",
+      "identifier": "bagAdd"
+    },
+    "bag-add-outline": {
+      "codepoint": 57433,
+      "fontFamily": "Famicons",
+      "identifier": "bagAddOutline"
+    },
+    "bag-add-sharp": {
+      "codepoint": 57434,
+      "fontFamily": "Famicons",
+      "identifier": "bagAddSharp"
+    },
+    "bag-check": {
+      "codepoint": 57435,
+      "fontFamily": "Famicons",
+      "identifier": "bagCheck"
+    },
+    "bag-check-outline": {
+      "codepoint": 57436,
+      "fontFamily": "Famicons",
+      "identifier": "bagCheckOutline"
+    },
+    "bag-check-sharp": {
+      "codepoint": 57437,
+      "fontFamily": "Famicons",
+      "identifier": "bagCheckSharp"
+    },
+    "bag-handle": {
+      "codepoint": 57438,
+      "fontFamily": "Famicons",
+      "identifier": "bagHandle"
+    },
+    "bag-handle-outline": {
+      "codepoint": 57439,
+      "fontFamily": "Famicons",
+      "identifier": "bagHandleOutline"
+    },
+    "bag-handle-sharp": {
+      "codepoint": 57440,
+      "fontFamily": "Famicons",
+      "identifier": "bagHandleSharp"
+    },
+    "bag-outline": {
+      "codepoint": 57441,
+      "fontFamily": "Famicons",
+      "identifier": "bagOutline"
+    },
+    "bag-remove": {
+      "codepoint": 57442,
+      "fontFamily": "Famicons",
+      "identifier": "bagRemove"
+    },
+    "bag-remove-outline": {
+      "codepoint": 57443,
+      "fontFamily": "Famicons",
+      "identifier": "bagRemoveOutline"
+    },
+    "bag-remove-sharp": {
+      "codepoint": 57444,
+      "fontFamily": "Famicons",
+      "identifier": "bagRemoveSharp"
+    },
+    "bag-sharp": {
+      "codepoint": 57445,
+      "fontFamily": "Famicons",
+      "identifier": "bagSharp"
+    },
+    "balloon": {
+      "codepoint": 57446,
+      "fontFamily": "Famicons",
+      "identifier": "balloon"
+    },
+    "balloon-outline": {
+      "codepoint": 57447,
+      "fontFamily": "Famicons",
+      "identifier": "balloonOutline"
+    },
+    "balloon-sharp": {
+      "codepoint": 57448,
+      "fontFamily": "Famicons",
+      "identifier": "balloonSharp"
+    },
+    "ban": {
+      "codepoint": 57449,
+      "fontFamily": "Famicons",
+      "identifier": "ban"
+    },
+    "ban-outline": {
+      "codepoint": 57450,
+      "fontFamily": "Famicons",
+      "identifier": "banOutline"
+    },
+    "ban-sharp": {
+      "codepoint": 57451,
+      "fontFamily": "Famicons",
+      "identifier": "banSharp"
+    },
+    "bandage": {
+      "codepoint": 57452,
+      "fontFamily": "Famicons",
+      "identifier": "bandage"
+    },
+    "bandage-outline": {
+      "codepoint": 57453,
+      "fontFamily": "Famicons",
+      "identifier": "bandageOutline"
+    },
+    "bandage-sharp": {
+      "codepoint": 57454,
+      "fontFamily": "Famicons",
+      "identifier": "bandageSharp"
+    },
+    "bar-chart": {
+      "codepoint": 57455,
+      "fontFamily": "Famicons",
+      "identifier": "barChart"
+    },
+    "bar-chart-outline": {
+      "codepoint": 57456,
+      "fontFamily": "Famicons",
+      "identifier": "barChartOutline"
+    },
+    "bar-chart-sharp": {
+      "codepoint": 57457,
+      "fontFamily": "Famicons",
+      "identifier": "barChartSharp"
+    },
+    "barbell": {
+      "codepoint": 57458,
+      "fontFamily": "Famicons",
+      "identifier": "barbell"
+    },
+    "barbell-outline": {
+      "codepoint": 57459,
+      "fontFamily": "Famicons",
+      "identifier": "barbellOutline"
+    },
+    "barbell-sharp": {
+      "codepoint": 57460,
+      "fontFamily": "Famicons",
+      "identifier": "barbellSharp"
+    },
+    "barcode": {
+      "codepoint": 57461,
+      "fontFamily": "Famicons",
+      "identifier": "barcode"
+    },
+    "barcode-outline": {
+      "codepoint": 57462,
+      "fontFamily": "Famicons",
+      "identifier": "barcodeOutline"
+    },
+    "barcode-sharp": {
+      "codepoint": 57463,
+      "fontFamily": "Famicons",
+      "identifier": "barcodeSharp"
+    },
+    "baseball": {
+      "codepoint": 57464,
+      "fontFamily": "Famicons",
+      "identifier": "baseball"
+    },
+    "baseball-outline": {
+      "codepoint": 57465,
+      "fontFamily": "Famicons",
+      "identifier": "baseballOutline"
+    },
+    "baseball-sharp": {
+      "codepoint": 57466,
+      "fontFamily": "Famicons",
+      "identifier": "baseballSharp"
+    },
+    "basket": {
+      "codepoint": 57467,
+      "fontFamily": "Famicons",
+      "identifier": "basket"
+    },
+    "basket-outline": {
+      "codepoint": 57468,
+      "fontFamily": "Famicons",
+      "identifier": "basketOutline"
+    },
+    "basket-sharp": {
+      "codepoint": 57469,
+      "fontFamily": "Famicons",
+      "identifier": "basketSharp"
+    },
+    "basketball": {
+      "codepoint": 57470,
+      "fontFamily": "Famicons",
+      "identifier": "basketball"
+    },
+    "basketball-outline": {
+      "codepoint": 57471,
+      "fontFamily": "Famicons",
+      "identifier": "basketballOutline"
+    },
+    "basketball-sharp": {
+      "codepoint": 57472,
+      "fontFamily": "Famicons",
+      "identifier": "basketballSharp"
+    },
+    "battery-charging": {
+      "codepoint": 57473,
+      "fontFamily": "Famicons",
+      "identifier": "batteryCharging"
+    },
+    "battery-charging-outline": {
+      "codepoint": 57474,
+      "fontFamily": "Famicons",
+      "identifier": "batteryChargingOutline"
+    },
+    "battery-charging-sharp": {
+      "codepoint": 57475,
+      "fontFamily": "Famicons",
+      "identifier": "batteryChargingSharp"
+    },
+    "battery-dead": {
+      "codepoint": 57476,
+      "fontFamily": "Famicons",
+      "identifier": "batteryDead"
+    },
+    "battery-dead-outline": {
+      "codepoint": 57477,
+      "fontFamily": "Famicons",
+      "identifier": "batteryDeadOutline"
+    },
+    "battery-dead-sharp": {
+      "codepoint": 57478,
+      "fontFamily": "Famicons",
+      "identifier": "batteryDeadSharp"
+    },
+    "battery-full": {
+      "codepoint": 57479,
+      "fontFamily": "Famicons",
+      "identifier": "batteryFull"
+    },
+    "battery-full-outline": {
+      "codepoint": 57480,
+      "fontFamily": "Famicons",
+      "identifier": "batteryFullOutline"
+    },
+    "battery-full-sharp": {
+      "codepoint": 57481,
+      "fontFamily": "Famicons",
+      "identifier": "batteryFullSharp"
+    },
+    "battery-half": {
+      "codepoint": 57482,
+      "fontFamily": "Famicons",
+      "identifier": "batteryHalf"
+    },
+    "battery-half-outline": {
+      "codepoint": 57483,
+      "fontFamily": "Famicons",
+      "identifier": "batteryHalfOutline"
+    },
+    "battery-half-sharp": {
+      "codepoint": 57484,
+      "fontFamily": "Famicons",
+      "identifier": "batteryHalfSharp"
+    },
+    "beaker": {
+      "codepoint": 57485,
+      "fontFamily": "Famicons",
+      "identifier": "beaker"
+    },
+    "beaker-outline": {
+      "codepoint": 57486,
+      "fontFamily": "Famicons",
+      "identifier": "beakerOutline"
+    },
+    "beaker-sharp": {
+      "codepoint": 57487,
+      "fontFamily": "Famicons",
+      "identifier": "beakerSharp"
+    },
+    "bed": {
+      "codepoint": 57488,
+      "fontFamily": "Famicons",
+      "identifier": "bed"
+    },
+    "bed-outline": {
+      "codepoint": 57489,
+      "fontFamily": "Famicons",
+      "identifier": "bedOutline"
+    },
+    "bed-sharp": {
+      "codepoint": 57490,
+      "fontFamily": "Famicons",
+      "identifier": "bedSharp"
+    },
+    "beer": {
+      "codepoint": 57491,
+      "fontFamily": "Famicons",
+      "identifier": "beer"
+    },
+    "beer-outline": {
+      "codepoint": 57492,
+      "fontFamily": "Famicons",
+      "identifier": "beerOutline"
+    },
+    "beer-sharp": {
+      "codepoint": 57493,
+      "fontFamily": "Famicons",
+      "identifier": "beerSharp"
+    },
+    "bicycle": {
+      "codepoint": 57494,
+      "fontFamily": "Famicons",
+      "identifier": "bicycle"
+    },
+    "bicycle-outline": {
+      "codepoint": 57495,
+      "fontFamily": "Famicons",
+      "identifier": "bicycleOutline"
+    },
+    "bicycle-sharp": {
+      "codepoint": 57496,
+      "fontFamily": "Famicons",
+      "identifier": "bicycleSharp"
+    },
+    "bluetooth": {
+      "codepoint": 57497,
+      "fontFamily": "Famicons",
+      "identifier": "bluetooth"
+    },
+    "bluetooth-outline": {
+      "codepoint": 57498,
+      "fontFamily": "Famicons",
+      "identifier": "bluetoothOutline"
+    },
+    "bluetooth-sharp": {
+      "codepoint": 57499,
+      "fontFamily": "Famicons",
+      "identifier": "bluetoothSharp"
+    },
+    "boat": {
+      "codepoint": 57500,
+      "fontFamily": "Famicons",
+      "identifier": "boat"
+    },
+    "boat-outline": {
+      "codepoint": 57501,
+      "fontFamily": "Famicons",
+      "identifier": "boatOutline"
+    },
+    "boat-sharp": {
+      "codepoint": 57502,
+      "fontFamily": "Famicons",
+      "identifier": "boatSharp"
+    },
+    "body": {
+      "codepoint": 57503,
+      "fontFamily": "Famicons",
+      "identifier": "body"
+    },
+    "body-outline": {
+      "codepoint": 57504,
+      "fontFamily": "Famicons",
+      "identifier": "bodyOutline"
+    },
+    "body-sharp": {
+      "codepoint": 57505,
+      "fontFamily": "Famicons",
+      "identifier": "bodySharp"
+    },
+    "bonfire": {
+      "codepoint": 57506,
+      "fontFamily": "Famicons",
+      "identifier": "bonfire"
+    },
+    "bonfire-outline": {
+      "codepoint": 57507,
+      "fontFamily": "Famicons",
+      "identifier": "bonfireOutline"
+    },
+    "bonfire-sharp": {
+      "codepoint": 57508,
+      "fontFamily": "Famicons",
+      "identifier": "bonfireSharp"
+    },
+    "book": {
+      "codepoint": 57509,
+      "fontFamily": "Famicons",
+      "identifier": "book"
+    },
+    "book-outline": {
+      "codepoint": 57510,
+      "fontFamily": "Famicons",
+      "identifier": "bookOutline"
+    },
+    "book-sharp": {
+      "codepoint": 57511,
+      "fontFamily": "Famicons",
+      "identifier": "bookSharp"
+    },
+    "bookmark": {
+      "codepoint": 57512,
+      "fontFamily": "Famicons",
+      "identifier": "bookmark"
+    },
+    "bookmark-outline": {
+      "codepoint": 57513,
+      "fontFamily": "Famicons",
+      "identifier": "bookmarkOutline"
+    },
+    "bookmark-sharp": {
+      "codepoint": 57514,
+      "fontFamily": "Famicons",
+      "identifier": "bookmarkSharp"
+    },
+    "bookmarks": {
+      "codepoint": 57515,
+      "fontFamily": "Famicons",
+      "identifier": "bookmarks"
+    },
+    "bookmarks-outline": {
+      "codepoint": 57516,
+      "fontFamily": "Famicons",
+      "identifier": "bookmarksOutline"
+    },
+    "bookmarks-sharp": {
+      "codepoint": 57517,
+      "fontFamily": "Famicons",
+      "identifier": "bookmarksSharp"
+    },
+    "bowling-ball": {
+      "codepoint": 57518,
+      "fontFamily": "Famicons",
+      "identifier": "bowlingBall"
+    },
+    "bowling-ball-outline": {
+      "codepoint": 57519,
+      "fontFamily": "Famicons",
+      "identifier": "bowlingBallOutline"
+    },
+    "bowling-ball-sharp": {
+      "codepoint": 57520,
+      "fontFamily": "Famicons",
+      "identifier": "bowlingBallSharp"
+    },
+    "briefcase": {
+      "codepoint": 57521,
+      "fontFamily": "Famicons",
+      "identifier": "briefcase"
+    },
+    "briefcase-outline": {
+      "codepoint": 57522,
+      "fontFamily": "Famicons",
+      "identifier": "briefcaseOutline"
+    },
+    "briefcase-sharp": {
+      "codepoint": 57523,
+      "fontFamily": "Famicons",
+      "identifier": "briefcaseSharp"
+    },
+    "browsers": {
+      "codepoint": 57524,
+      "fontFamily": "Famicons",
+      "identifier": "browsers"
+    },
+    "browsers-outline": {
+      "codepoint": 57525,
+      "fontFamily": "Famicons",
+      "identifier": "browsersOutline"
+    },
+    "browsers-sharp": {
+      "codepoint": 57526,
+      "fontFamily": "Famicons",
+      "identifier": "browsersSharp"
+    },
+    "brush": {
+      "codepoint": 57527,
+      "fontFamily": "Famicons",
+      "identifier": "brush"
+    },
+    "brush-outline": {
+      "codepoint": 57528,
+      "fontFamily": "Famicons",
+      "identifier": "brushOutline"
+    },
+    "brush-sharp": {
+      "codepoint": 57529,
+      "fontFamily": "Famicons",
+      "identifier": "brushSharp"
+    },
+    "bug": {
+      "codepoint": 57530,
+      "fontFamily": "Famicons",
+      "identifier": "bug"
+    },
+    "bug-outline": {
+      "codepoint": 57531,
+      "fontFamily": "Famicons",
+      "identifier": "bugOutline"
+    },
+    "bug-sharp": {
+      "codepoint": 57532,
+      "fontFamily": "Famicons",
+      "identifier": "bugSharp"
+    },
+    "build": {
+      "codepoint": 57533,
+      "fontFamily": "Famicons",
+      "identifier": "build"
+    },
+    "build-outline": {
+      "codepoint": 57534,
+      "fontFamily": "Famicons",
+      "identifier": "buildOutline"
+    },
+    "build-sharp": {
+      "codepoint": 57535,
+      "fontFamily": "Famicons",
+      "identifier": "buildSharp"
+    },
+    "bulb": {
+      "codepoint": 57536,
+      "fontFamily": "Famicons",
+      "identifier": "bulb"
+    },
+    "bulb-outline": {
+      "codepoint": 57537,
+      "fontFamily": "Famicons",
+      "identifier": "bulbOutline"
+    },
+    "bulb-sharp": {
+      "codepoint": 57538,
+      "fontFamily": "Famicons",
+      "identifier": "bulbSharp"
+    },
+    "bus": {
+      "codepoint": 57539,
+      "fontFamily": "Famicons",
+      "identifier": "bus"
+    },
+    "bus-outline": {
+      "codepoint": 57540,
+      "fontFamily": "Famicons",
+      "identifier": "busOutline"
+    },
+    "bus-sharp": {
+      "codepoint": 57541,
+      "fontFamily": "Famicons",
+      "identifier": "busSharp"
+    },
+    "business": {
+      "codepoint": 57542,
+      "fontFamily": "Famicons",
+      "identifier": "business"
+    },
+    "business-outline": {
+      "codepoint": 57543,
+      "fontFamily": "Famicons",
+      "identifier": "businessOutline"
+    },
+    "business-sharp": {
+      "codepoint": 57544,
+      "fontFamily": "Famicons",
+      "identifier": "businessSharp"
+    },
+    "cafe": {
+      "codepoint": 57545,
+      "fontFamily": "Famicons",
+      "identifier": "cafe"
+    },
+    "cafe-outline": {
+      "codepoint": 57546,
+      "fontFamily": "Famicons",
+      "identifier": "cafeOutline"
+    },
+    "cafe-sharp": {
+      "codepoint": 57547,
+      "fontFamily": "Famicons",
+      "identifier": "cafeSharp"
+    },
+    "calculator": {
+      "codepoint": 57548,
+      "fontFamily": "Famicons",
+      "identifier": "calculator"
+    },
+    "calculator-outline": {
+      "codepoint": 57549,
+      "fontFamily": "Famicons",
+      "identifier": "calculatorOutline"
+    },
+    "calculator-sharp": {
+      "codepoint": 57550,
+      "fontFamily": "Famicons",
+      "identifier": "calculatorSharp"
+    },
+    "calendar": {
+      "codepoint": 57551,
+      "fontFamily": "Famicons",
+      "identifier": "calendar"
+    },
+    "calendar-clear": {
+      "codepoint": 57552,
+      "fontFamily": "Famicons",
+      "identifier": "calendarClear"
+    },
+    "calendar-clear-outline": {
+      "codepoint": 57553,
+      "fontFamily": "Famicons",
+      "identifier": "calendarClearOutline"
+    },
+    "calendar-clear-sharp": {
+      "codepoint": 57554,
+      "fontFamily": "Famicons",
+      "identifier": "calendarClearSharp"
+    },
+    "calendar-number": {
+      "codepoint": 57555,
+      "fontFamily": "Famicons",
+      "identifier": "calendarNumber"
+    },
+    "calendar-number-outline": {
+      "codepoint": 57556,
+      "fontFamily": "Famicons",
+      "identifier": "calendarNumberOutline"
+    },
+    "calendar-number-sharp": {
+      "codepoint": 57557,
+      "fontFamily": "Famicons",
+      "identifier": "calendarNumberSharp"
+    },
+    "calendar-outline": {
+      "codepoint": 57558,
+      "fontFamily": "Famicons",
+      "identifier": "calendarOutline"
+    },
+    "calendar-sharp": {
+      "codepoint": 57559,
+      "fontFamily": "Famicons",
+      "identifier": "calendarSharp"
+    },
+    "call": {
+      "codepoint": 57560,
+      "fontFamily": "Famicons",
+      "identifier": "call"
+    },
+    "call-outline": {
+      "codepoint": 57561,
+      "fontFamily": "Famicons",
+      "identifier": "callOutline"
+    },
+    "call-sharp": {
+      "codepoint": 57562,
+      "fontFamily": "Famicons",
+      "identifier": "callSharp"
+    },
+    "camera": {
+      "codepoint": 57563,
+      "fontFamily": "Famicons",
+      "identifier": "camera"
+    },
+    "camera-outline": {
+      "codepoint": 57564,
+      "fontFamily": "Famicons",
+      "identifier": "cameraOutline"
+    },
+    "camera-reverse": {
+      "codepoint": 57565,
+      "fontFamily": "Famicons",
+      "identifier": "cameraReverse"
+    },
+    "camera-reverse-outline": {
+      "codepoint": 57566,
+      "fontFamily": "Famicons",
+      "identifier": "cameraReverseOutline"
+    },
+    "camera-reverse-sharp": {
+      "codepoint": 57567,
+      "fontFamily": "Famicons",
+      "identifier": "cameraReverseSharp"
+    },
+    "camera-sharp": {
+      "codepoint": 57568,
+      "fontFamily": "Famicons",
+      "identifier": "cameraSharp"
+    },
+    "car": {
+      "codepoint": 57569,
+      "fontFamily": "Famicons",
+      "identifier": "car"
+    },
+    "car-outline": {
+      "codepoint": 57570,
+      "fontFamily": "Famicons",
+      "identifier": "carOutline"
+    },
+    "car-sharp": {
+      "codepoint": 57571,
+      "fontFamily": "Famicons",
+      "identifier": "carSharp"
+    },
+    "car-sport": {
+      "codepoint": 57572,
+      "fontFamily": "Famicons",
+      "identifier": "carSport"
+    },
+    "car-sport-outline": {
+      "codepoint": 57573,
+      "fontFamily": "Famicons",
+      "identifier": "carSportOutline"
+    },
+    "car-sport-sharp": {
+      "codepoint": 57574,
+      "fontFamily": "Famicons",
+      "identifier": "carSportSharp"
+    },
+    "card": {
+      "codepoint": 57575,
+      "fontFamily": "Famicons",
+      "identifier": "card"
+    },
+    "card-outline": {
+      "codepoint": 57576,
+      "fontFamily": "Famicons",
+      "identifier": "cardOutline"
+    },
+    "card-sharp": {
+      "codepoint": 57577,
+      "fontFamily": "Famicons",
+      "identifier": "cardSharp"
+    },
+    "caret-back": {
+      "codepoint": 57578,
+      "fontFamily": "Famicons",
+      "identifier": "caretBack"
+    },
+    "caret-back-circle": {
+      "codepoint": 57579,
+      "fontFamily": "Famicons",
+      "identifier": "caretBackCircle"
+    },
+    "caret-back-circle-outline": {
+      "codepoint": 57580,
+      "fontFamily": "Famicons",
+      "identifier": "caretBackCircleOutline"
+    },
+    "caret-back-circle-sharp": {
+      "codepoint": 57581,
+      "fontFamily": "Famicons",
+      "identifier": "caretBackCircleSharp"
+    },
+    "caret-back-outline": {
+      "codepoint": 57582,
+      "fontFamily": "Famicons",
+      "identifier": "caretBackOutline"
+    },
+    "caret-back-sharp": {
+      "codepoint": 57583,
+      "fontFamily": "Famicons",
+      "identifier": "caretBackSharp"
+    },
+    "caret-down": {
+      "codepoint": 57584,
+      "fontFamily": "Famicons",
+      "identifier": "caretDown"
+    },
+    "caret-down-circle": {
+      "codepoint": 57585,
+      "fontFamily": "Famicons",
+      "identifier": "caretDownCircle"
+    },
+    "caret-down-circle-outline": {
+      "codepoint": 57586,
+      "fontFamily": "Famicons",
+      "identifier": "caretDownCircleOutline"
+    },
+    "caret-down-circle-sharp": {
+      "codepoint": 57587,
+      "fontFamily": "Famicons",
+      "identifier": "caretDownCircleSharp"
+    },
+    "caret-down-outline": {
+      "codepoint": 57588,
+      "fontFamily": "Famicons",
+      "identifier": "caretDownOutline"
+    },
+    "caret-down-sharp": {
+      "codepoint": 57589,
+      "fontFamily": "Famicons",
+      "identifier": "caretDownSharp"
+    },
+    "caret-forward": {
+      "codepoint": 57590,
+      "fontFamily": "Famicons",
+      "identifier": "caretForward"
+    },
+    "caret-forward-circle": {
+      "codepoint": 57591,
+      "fontFamily": "Famicons",
+      "identifier": "caretForwardCircle"
+    },
+    "caret-forward-circle-outline": {
+      "codepoint": 57592,
+      "fontFamily": "Famicons",
+      "identifier": "caretForwardCircleOutline"
+    },
+    "caret-forward-circle-sharp": {
+      "codepoint": 57593,
+      "fontFamily": "Famicons",
+      "identifier": "caretForwardCircleSharp"
+    },
+    "caret-forward-outline": {
+      "codepoint": 57594,
+      "fontFamily": "Famicons",
+      "identifier": "caretForwardOutline"
+    },
+    "caret-forward-sharp": {
+      "codepoint": 57595,
+      "fontFamily": "Famicons",
+      "identifier": "caretForwardSharp"
+    },
+    "caret-up": {
+      "codepoint": 57596,
+      "fontFamily": "Famicons",
+      "identifier": "caretUp"
+    },
+    "caret-up-circle": {
+      "codepoint": 57597,
+      "fontFamily": "Famicons",
+      "identifier": "caretUpCircle"
+    },
+    "caret-up-circle-outline": {
+      "codepoint": 57598,
+      "fontFamily": "Famicons",
+      "identifier": "caretUpCircleOutline"
+    },
+    "caret-up-circle-sharp": {
+      "codepoint": 57599,
+      "fontFamily": "Famicons",
+      "identifier": "caretUpCircleSharp"
+    },
+    "caret-up-outline": {
+      "codepoint": 57600,
+      "fontFamily": "Famicons",
+      "identifier": "caretUpOutline"
+    },
+    "caret-up-sharp": {
+      "codepoint": 57601,
+      "fontFamily": "Famicons",
+      "identifier": "caretUpSharp"
+    },
+    "cart": {
+      "codepoint": 57602,
+      "fontFamily": "Famicons",
+      "identifier": "cart"
+    },
+    "cart-outline": {
+      "codepoint": 57603,
+      "fontFamily": "Famicons",
+      "identifier": "cartOutline"
+    },
+    "cart-sharp": {
+      "codepoint": 57604,
+      "fontFamily": "Famicons",
+      "identifier": "cartSharp"
+    },
+    "cash": {
+      "codepoint": 57605,
+      "fontFamily": "Famicons",
+      "identifier": "cash"
+    },
+    "cash-outline": {
+      "codepoint": 57606,
+      "fontFamily": "Famicons",
+      "identifier": "cashOutline"
+    },
+    "cash-sharp": {
+      "codepoint": 57607,
+      "fontFamily": "Famicons",
+      "identifier": "cashSharp"
+    },
+    "cellular": {
+      "codepoint": 57608,
+      "fontFamily": "Famicons",
+      "identifier": "cellular"
+    },
+    "cellular-outline": {
+      "codepoint": 57609,
+      "fontFamily": "Famicons",
+      "identifier": "cellularOutline"
+    },
+    "cellular-sharp": {
+      "codepoint": 57610,
+      "fontFamily": "Famicons",
+      "identifier": "cellularSharp"
+    },
+    "chatbox": {
+      "codepoint": 57611,
+      "fontFamily": "Famicons",
+      "identifier": "chatbox"
+    },
+    "chatbox-ellipses": {
+      "codepoint": 57612,
+      "fontFamily": "Famicons",
+      "identifier": "chatboxEllipses"
+    },
+    "chatbox-ellipses-outline": {
+      "codepoint": 57613,
+      "fontFamily": "Famicons",
+      "identifier": "chatboxEllipsesOutline"
+    },
+    "chatbox-ellipses-sharp": {
+      "codepoint": 57614,
+      "fontFamily": "Famicons",
+      "identifier": "chatboxEllipsesSharp"
+    },
+    "chatbox-outline": {
+      "codepoint": 57615,
+      "fontFamily": "Famicons",
+      "identifier": "chatboxOutline"
+    },
+    "chatbox-sharp": {
+      "codepoint": 57616,
+      "fontFamily": "Famicons",
+      "identifier": "chatboxSharp"
+    },
+    "chatbubble": {
+      "codepoint": 57617,
+      "fontFamily": "Famicons",
+      "identifier": "chatbubble"
+    },
+    "chatbubble-ellipses": {
+      "codepoint": 57618,
+      "fontFamily": "Famicons",
+      "identifier": "chatbubbleEllipses"
+    },
+    "chatbubble-ellipses-outline": {
+      "codepoint": 57619,
+      "fontFamily": "Famicons",
+      "identifier": "chatbubbleEllipsesOutline"
+    },
+    "chatbubble-ellipses-sharp": {
+      "codepoint": 57620,
+      "fontFamily": "Famicons",
+      "identifier": "chatbubbleEllipsesSharp"
+    },
+    "chatbubble-outline": {
+      "codepoint": 57621,
+      "fontFamily": "Famicons",
+      "identifier": "chatbubbleOutline"
+    },
+    "chatbubble-sharp": {
+      "codepoint": 57622,
+      "fontFamily": "Famicons",
+      "identifier": "chatbubbleSharp"
+    },
+    "chatbubbles": {
+      "codepoint": 57623,
+      "fontFamily": "Famicons",
+      "identifier": "chatbubbles"
+    },
+    "chatbubbles-outline": {
+      "codepoint": 57624,
+      "fontFamily": "Famicons",
+      "identifier": "chatbubblesOutline"
+    },
+    "chatbubbles-sharp": {
+      "codepoint": 57625,
+      "fontFamily": "Famicons",
+      "identifier": "chatbubblesSharp"
+    },
+    "checkbox": {
+      "codepoint": 57626,
+      "fontFamily": "Famicons",
+      "identifier": "checkbox"
+    },
+    "checkbox-outline": {
+      "codepoint": 57627,
+      "fontFamily": "Famicons",
+      "identifier": "checkboxOutline"
+    },
+    "checkbox-sharp": {
+      "codepoint": 57628,
+      "fontFamily": "Famicons",
+      "identifier": "checkboxSharp"
+    },
+    "checkmark": {
+      "codepoint": 57629,
+      "fontFamily": "Famicons",
+      "identifier": "checkmark"
+    },
+    "checkmark-circle": {
+      "codepoint": 57630,
+      "fontFamily": "Famicons",
+      "identifier": "checkmarkCircle"
+    },
+    "checkmark-circle-outline": {
+      "codepoint": 57631,
+      "fontFamily": "Famicons",
+      "identifier": "checkmarkCircleOutline"
+    },
+    "checkmark-circle-sharp": {
+      "codepoint": 57632,
+      "fontFamily": "Famicons",
+      "identifier": "checkmarkCircleSharp"
+    },
+    "checkmark-done": {
+      "codepoint": 57633,
+      "fontFamily": "Famicons",
+      "identifier": "checkmarkDone"
+    },
+    "checkmark-done-circle": {
+      "codepoint": 57634,
+      "fontFamily": "Famicons",
+      "identifier": "checkmarkDoneCircle"
+    },
+    "checkmark-done-circle-outline": {
+      "codepoint": 57635,
+      "fontFamily": "Famicons",
+      "identifier": "checkmarkDoneCircleOutline"
+    },
+    "checkmark-done-circle-sharp": {
+      "codepoint": 57636,
+      "fontFamily": "Famicons",
+      "identifier": "checkmarkDoneCircleSharp"
+    },
+    "checkmark-done-outline": {
+      "codepoint": 57637,
+      "fontFamily": "Famicons",
+      "identifier": "checkmarkDoneOutline"
+    },
+    "checkmark-done-sharp": {
+      "codepoint": 57638,
+      "fontFamily": "Famicons",
+      "identifier": "checkmarkDoneSharp"
+    },
+    "checkmark-outline": {
+      "codepoint": 57639,
+      "fontFamily": "Famicons",
+      "identifier": "checkmarkOutline"
+    },
+    "checkmark-sharp": {
+      "codepoint": 57640,
+      "fontFamily": "Famicons",
+      "identifier": "checkmarkSharp"
+    },
+    "chevron-back": {
+      "codepoint": 57641,
+      "fontFamily": "Famicons",
+      "identifier": "chevronBack"
+    },
+    "chevron-back-circle": {
+      "codepoint": 57642,
+      "fontFamily": "Famicons",
+      "identifier": "chevronBackCircle"
+    },
+    "chevron-back-circle-outline": {
+      "codepoint": 57643,
+      "fontFamily": "Famicons",
+      "identifier": "chevronBackCircleOutline"
+    },
+    "chevron-back-circle-sharp": {
+      "codepoint": 57644,
+      "fontFamily": "Famicons",
+      "identifier": "chevronBackCircleSharp"
+    },
+    "chevron-back-outline": {
+      "codepoint": 57645,
+      "fontFamily": "Famicons",
+      "identifier": "chevronBackOutline"
+    },
+    "chevron-back-sharp": {
+      "codepoint": 57646,
+      "fontFamily": "Famicons",
+      "identifier": "chevronBackSharp"
+    },
+    "chevron-collapse": {
+      "codepoint": 57647,
+      "fontFamily": "Famicons",
+      "identifier": "chevronCollapse"
+    },
+    "chevron-collapse-outline": {
+      "codepoint": 57648,
+      "fontFamily": "Famicons",
+      "identifier": "chevronCollapseOutline"
+    },
+    "chevron-collapse-sharp": {
+      "codepoint": 57649,
+      "fontFamily": "Famicons",
+      "identifier": "chevronCollapseSharp"
+    },
+    "chevron-down": {
+      "codepoint": 57650,
+      "fontFamily": "Famicons",
+      "identifier": "chevronDown"
+    },
+    "chevron-down-circle": {
+      "codepoint": 57651,
+      "fontFamily": "Famicons",
+      "identifier": "chevronDownCircle"
+    },
+    "chevron-down-circle-outline": {
+      "codepoint": 57652,
+      "fontFamily": "Famicons",
+      "identifier": "chevronDownCircleOutline"
+    },
+    "chevron-down-circle-sharp": {
+      "codepoint": 57653,
+      "fontFamily": "Famicons",
+      "identifier": "chevronDownCircleSharp"
+    },
+    "chevron-down-outline": {
+      "codepoint": 57654,
+      "fontFamily": "Famicons",
+      "identifier": "chevronDownOutline"
+    },
+    "chevron-down-sharp": {
+      "codepoint": 57655,
+      "fontFamily": "Famicons",
+      "identifier": "chevronDownSharp"
+    },
+    "chevron-expand": {
+      "codepoint": 57656,
+      "fontFamily": "Famicons",
+      "identifier": "chevronExpand"
+    },
+    "chevron-expand-outline": {
+      "codepoint": 57657,
+      "fontFamily": "Famicons",
+      "identifier": "chevronExpandOutline"
+    },
+    "chevron-expand-sharp": {
+      "codepoint": 57658,
+      "fontFamily": "Famicons",
+      "identifier": "chevronExpandSharp"
+    },
+    "chevron-forward": {
+      "codepoint": 57659,
+      "fontFamily": "Famicons",
+      "identifier": "chevronForward"
+    },
+    "chevron-forward-circle": {
+      "codepoint": 57660,
+      "fontFamily": "Famicons",
+      "identifier": "chevronForwardCircle"
+    },
+    "chevron-forward-circle-outline": {
+      "codepoint": 57661,
+      "fontFamily": "Famicons",
+      "identifier": "chevronForwardCircleOutline"
+    },
+    "chevron-forward-circle-sharp": {
+      "codepoint": 57662,
+      "fontFamily": "Famicons",
+      "identifier": "chevronForwardCircleSharp"
+    },
+    "chevron-forward-outline": {
+      "codepoint": 57663,
+      "fontFamily": "Famicons",
+      "identifier": "chevronForwardOutline"
+    },
+    "chevron-forward-sharp": {
+      "codepoint": 57664,
+      "fontFamily": "Famicons",
+      "identifier": "chevronForwardSharp"
+    },
+    "chevron-up": {
+      "codepoint": 57665,
+      "fontFamily": "Famicons",
+      "identifier": "chevronUp"
+    },
+    "chevron-up-circle": {
+      "codepoint": 57666,
+      "fontFamily": "Famicons",
+      "identifier": "chevronUpCircle"
+    },
+    "chevron-up-circle-outline": {
+      "codepoint": 57667,
+      "fontFamily": "Famicons",
+      "identifier": "chevronUpCircleOutline"
+    },
+    "chevron-up-circle-sharp": {
+      "codepoint": 57668,
+      "fontFamily": "Famicons",
+      "identifier": "chevronUpCircleSharp"
+    },
+    "chevron-up-outline": {
+      "codepoint": 57669,
+      "fontFamily": "Famicons",
+      "identifier": "chevronUpOutline"
+    },
+    "chevron-up-sharp": {
+      "codepoint": 57670,
+      "fontFamily": "Famicons",
+      "identifier": "chevronUpSharp"
+    },
+    "clipboard": {
+      "codepoint": 57671,
+      "fontFamily": "Famicons",
+      "identifier": "clipboard"
+    },
+    "clipboard-outline": {
+      "codepoint": 57672,
+      "fontFamily": "Famicons",
+      "identifier": "clipboardOutline"
+    },
+    "clipboard-sharp": {
+      "codepoint": 57673,
+      "fontFamily": "Famicons",
+      "identifier": "clipboardSharp"
+    },
+    "close": {
+      "codepoint": 57674,
+      "fontFamily": "Famicons",
+      "identifier": "close"
+    },
+    "close-circle": {
+      "codepoint": 57675,
+      "fontFamily": "Famicons",
+      "identifier": "closeCircle"
+    },
+    "close-circle-outline": {
+      "codepoint": 57676,
+      "fontFamily": "Famicons",
+      "identifier": "closeCircleOutline"
+    },
+    "close-circle-sharp": {
+      "codepoint": 57677,
+      "fontFamily": "Famicons",
+      "identifier": "closeCircleSharp"
+    },
+    "close-outline": {
+      "codepoint": 57678,
+      "fontFamily": "Famicons",
+      "identifier": "closeOutline"
+    },
+    "close-sharp": {
+      "codepoint": 57679,
+      "fontFamily": "Famicons",
+      "identifier": "closeSharp"
+    },
+    "cloud": {
+      "codepoint": 57680,
+      "fontFamily": "Famicons",
+      "identifier": "cloud"
+    },
+    "cloud-circle": {
+      "codepoint": 57681,
+      "fontFamily": "Famicons",
+      "identifier": "cloudCircle"
+    },
+    "cloud-circle-outline": {
+      "codepoint": 57682,
+      "fontFamily": "Famicons",
+      "identifier": "cloudCircleOutline"
+    },
+    "cloud-circle-sharp": {
+      "codepoint": 57683,
+      "fontFamily": "Famicons",
+      "identifier": "cloudCircleSharp"
+    },
+    "cloud-done": {
+      "codepoint": 57684,
+      "fontFamily": "Famicons",
+      "identifier": "cloudDone"
+    },
+    "cloud-done-outline": {
+      "codepoint": 57685,
+      "fontFamily": "Famicons",
+      "identifier": "cloudDoneOutline"
+    },
+    "cloud-done-sharp": {
+      "codepoint": 57686,
+      "fontFamily": "Famicons",
+      "identifier": "cloudDoneSharp"
+    },
+    "cloud-download": {
+      "codepoint": 57687,
+      "fontFamily": "Famicons",
+      "identifier": "cloudDownload"
+    },
+    "cloud-download-outline": {
+      "codepoint": 57688,
+      "fontFamily": "Famicons",
+      "identifier": "cloudDownloadOutline"
+    },
+    "cloud-download-sharp": {
+      "codepoint": 57689,
+      "fontFamily": "Famicons",
+      "identifier": "cloudDownloadSharp"
+    },
+    "cloud-offline": {
+      "codepoint": 57690,
+      "fontFamily": "Famicons",
+      "identifier": "cloudOffline"
+    },
+    "cloud-offline-outline": {
+      "codepoint": 57691,
+      "fontFamily": "Famicons",
+      "identifier": "cloudOfflineOutline"
+    },
+    "cloud-offline-sharp": {
+      "codepoint": 57692,
+      "fontFamily": "Famicons",
+      "identifier": "cloudOfflineSharp"
+    },
+    "cloud-outline": {
+      "codepoint": 57693,
+      "fontFamily": "Famicons",
+      "identifier": "cloudOutline"
+    },
+    "cloud-sharp": {
+      "codepoint": 57694,
+      "fontFamily": "Famicons",
+      "identifier": "cloudSharp"
+    },
+    "cloud-upload": {
+      "codepoint": 57695,
+      "fontFamily": "Famicons",
+      "identifier": "cloudUpload"
+    },
+    "cloud-upload-outline": {
+      "codepoint": 57696,
+      "fontFamily": "Famicons",
+      "identifier": "cloudUploadOutline"
+    },
+    "cloud-upload-sharp": {
+      "codepoint": 57697,
+      "fontFamily": "Famicons",
+      "identifier": "cloudUploadSharp"
+    },
+    "cloudy": {
+      "codepoint": 57698,
+      "fontFamily": "Famicons",
+      "identifier": "cloudy"
+    },
+    "cloudy-night": {
+      "codepoint": 57699,
+      "fontFamily": "Famicons",
+      "identifier": "cloudyNight"
+    },
+    "cloudy-night-outline": {
+      "codepoint": 57700,
+      "fontFamily": "Famicons",
+      "identifier": "cloudyNightOutline"
+    },
+    "cloudy-night-sharp": {
+      "codepoint": 57701,
+      "fontFamily": "Famicons",
+      "identifier": "cloudyNightSharp"
+    },
+    "cloudy-outline": {
+      "codepoint": 57702,
+      "fontFamily": "Famicons",
+      "identifier": "cloudyOutline"
+    },
+    "cloudy-sharp": {
+      "codepoint": 57703,
+      "fontFamily": "Famicons",
+      "identifier": "cloudySharp"
+    },
+    "code": {
+      "codepoint": 57704,
+      "fontFamily": "Famicons",
+      "identifier": "code"
+    },
+    "code-download": {
+      "codepoint": 57705,
+      "fontFamily": "Famicons",
+      "identifier": "codeDownload"
+    },
+    "code-download-outline": {
+      "codepoint": 57706,
+      "fontFamily": "Famicons",
+      "identifier": "codeDownloadOutline"
+    },
+    "code-download-sharp": {
+      "codepoint": 57707,
+      "fontFamily": "Famicons",
+      "identifier": "codeDownloadSharp"
+    },
+    "code-outline": {
+      "codepoint": 57708,
+      "fontFamily": "Famicons",
+      "identifier": "codeOutline"
+    },
+    "code-sharp": {
+      "codepoint": 57709,
+      "fontFamily": "Famicons",
+      "identifier": "codeSharp"
+    },
+    "code-slash": {
+      "codepoint": 57710,
+      "fontFamily": "Famicons",
+      "identifier": "codeSlash"
+    },
+    "code-slash-outline": {
+      "codepoint": 57711,
+      "fontFamily": "Famicons",
+      "identifier": "codeSlashOutline"
+    },
+    "code-slash-sharp": {
+      "codepoint": 57712,
+      "fontFamily": "Famicons",
+      "identifier": "codeSlashSharp"
+    },
+    "code-working": {
+      "codepoint": 57713,
+      "fontFamily": "Famicons",
+      "identifier": "codeWorking"
+    },
+    "code-working-outline": {
+      "codepoint": 57714,
+      "fontFamily": "Famicons",
+      "identifier": "codeWorkingOutline"
+    },
+    "code-working-sharp": {
+      "codepoint": 57715,
+      "fontFamily": "Famicons",
+      "identifier": "codeWorkingSharp"
+    },
+    "cog": {
+      "codepoint": 57716,
+      "fontFamily": "Famicons",
+      "identifier": "cog"
+    },
+    "cog-outline": {
+      "codepoint": 57717,
+      "fontFamily": "Famicons",
+      "identifier": "cogOutline"
+    },
+    "cog-sharp": {
+      "codepoint": 57718,
+      "fontFamily": "Famicons",
+      "identifier": "cogSharp"
+    },
+    "color-fill": {
+      "codepoint": 57719,
+      "fontFamily": "Famicons",
+      "identifier": "colorFill"
+    },
+    "color-fill-outline": {
+      "codepoint": 57720,
+      "fontFamily": "Famicons",
+      "identifier": "colorFillOutline"
+    },
+    "color-fill-sharp": {
+      "codepoint": 57721,
+      "fontFamily": "Famicons",
+      "identifier": "colorFillSharp"
+    },
+    "color-filter": {
+      "codepoint": 57722,
+      "fontFamily": "Famicons",
+      "identifier": "colorFilter"
+    },
+    "color-filter-outline": {
+      "codepoint": 57723,
+      "fontFamily": "Famicons",
+      "identifier": "colorFilterOutline"
+    },
+    "color-filter-sharp": {
+      "codepoint": 57724,
+      "fontFamily": "Famicons",
+      "identifier": "colorFilterSharp"
+    },
+    "color-palette": {
+      "codepoint": 57725,
+      "fontFamily": "Famicons",
+      "identifier": "colorPalette"
+    },
+    "color-palette-outline": {
+      "codepoint": 57726,
+      "fontFamily": "Famicons",
+      "identifier": "colorPaletteOutline"
+    },
+    "color-palette-sharp": {
+      "codepoint": 57727,
+      "fontFamily": "Famicons",
+      "identifier": "colorPaletteSharp"
+    },
+    "color-wand": {
+      "codepoint": 57728,
+      "fontFamily": "Famicons",
+      "identifier": "colorWand"
+    },
+    "color-wand-outline": {
+      "codepoint": 57729,
+      "fontFamily": "Famicons",
+      "identifier": "colorWandOutline"
+    },
+    "color-wand-sharp": {
+      "codepoint": 57730,
+      "fontFamily": "Famicons",
+      "identifier": "colorWandSharp"
+    },
+    "compass": {
+      "codepoint": 57731,
+      "fontFamily": "Famicons",
+      "identifier": "compass"
+    },
+    "compass-outline": {
+      "codepoint": 57732,
+      "fontFamily": "Famicons",
+      "identifier": "compassOutline"
+    },
+    "compass-sharp": {
+      "codepoint": 57733,
+      "fontFamily": "Famicons",
+      "identifier": "compassSharp"
+    },
+    "construct": {
+      "codepoint": 57734,
+      "fontFamily": "Famicons",
+      "identifier": "construct"
+    },
+    "construct-outline": {
+      "codepoint": 57735,
+      "fontFamily": "Famicons",
+      "identifier": "constructOutline"
+    },
+    "construct-sharp": {
+      "codepoint": 57736,
+      "fontFamily": "Famicons",
+      "identifier": "constructSharp"
+    },
+    "contract": {
+      "codepoint": 57737,
+      "fontFamily": "Famicons",
+      "identifier": "contract"
+    },
+    "contract-outline": {
+      "codepoint": 57738,
+      "fontFamily": "Famicons",
+      "identifier": "contractOutline"
+    },
+    "contract-sharp": {
+      "codepoint": 57739,
+      "fontFamily": "Famicons",
+      "identifier": "contractSharp"
+    },
+    "contrast": {
+      "codepoint": 57740,
+      "fontFamily": "Famicons",
+      "identifier": "contrast"
+    },
+    "contrast-outline": {
+      "codepoint": 57741,
+      "fontFamily": "Famicons",
+      "identifier": "contrastOutline"
+    },
+    "contrast-sharp": {
+      "codepoint": 57742,
+      "fontFamily": "Famicons",
+      "identifier": "contrastSharp"
+    },
+    "copy": {
+      "codepoint": 57743,
+      "fontFamily": "Famicons",
+      "identifier": "copy"
+    },
+    "copy-outline": {
+      "codepoint": 57744,
+      "fontFamily": "Famicons",
+      "identifier": "copyOutline"
+    },
+    "copy-sharp": {
+      "codepoint": 57745,
+      "fontFamily": "Famicons",
+      "identifier": "copySharp"
+    },
+    "create": {
+      "codepoint": 57746,
+      "fontFamily": "Famicons",
+      "identifier": "create"
+    },
+    "create-outline": {
+      "codepoint": 57747,
+      "fontFamily": "Famicons",
+      "identifier": "createOutline"
+    },
+    "create-sharp": {
+      "codepoint": 57748,
+      "fontFamily": "Famicons",
+      "identifier": "createSharp"
+    },
+    "crop": {
+      "codepoint": 57749,
+      "fontFamily": "Famicons",
+      "identifier": "crop"
+    },
+    "crop-outline": {
+      "codepoint": 57750,
+      "fontFamily": "Famicons",
+      "identifier": "cropOutline"
+    },
+    "crop-sharp": {
+      "codepoint": 57751,
+      "fontFamily": "Famicons",
+      "identifier": "cropSharp"
+    },
+    "cube": {
+      "codepoint": 57752,
+      "fontFamily": "Famicons",
+      "identifier": "cube"
+    },
+    "cube-outline": {
+      "codepoint": 57753,
+      "fontFamily": "Famicons",
+      "identifier": "cubeOutline"
+    },
+    "cube-sharp": {
+      "codepoint": 57754,
+      "fontFamily": "Famicons",
+      "identifier": "cubeSharp"
+    },
+    "cut": {
+      "codepoint": 57755,
+      "fontFamily": "Famicons",
+      "identifier": "cut"
+    },
+    "cut-outline": {
+      "codepoint": 57756,
+      "fontFamily": "Famicons",
+      "identifier": "cutOutline"
+    },
+    "cut-sharp": {
+      "codepoint": 57757,
+      "fontFamily": "Famicons",
+      "identifier": "cutSharp"
+    },
+    "desktop": {
+      "codepoint": 57758,
+      "fontFamily": "Famicons",
+      "identifier": "desktop"
+    },
+    "desktop-outline": {
+      "codepoint": 57759,
+      "fontFamily": "Famicons",
+      "identifier": "desktopOutline"
+    },
+    "desktop-sharp": {
+      "codepoint": 57760,
+      "fontFamily": "Famicons",
+      "identifier": "desktopSharp"
+    },
+    "diamond": {
+      "codepoint": 57761,
+      "fontFamily": "Famicons",
+      "identifier": "diamond"
+    },
+    "diamond-outline": {
+      "codepoint": 57762,
+      "fontFamily": "Famicons",
+      "identifier": "diamondOutline"
+    },
+    "diamond-sharp": {
+      "codepoint": 57763,
+      "fontFamily": "Famicons",
+      "identifier": "diamondSharp"
+    },
+    "dice": {
+      "codepoint": 57764,
+      "fontFamily": "Famicons",
+      "identifier": "dice"
+    },
+    "dice-outline": {
+      "codepoint": 57765,
+      "fontFamily": "Famicons",
+      "identifier": "diceOutline"
+    },
+    "dice-sharp": {
+      "codepoint": 57766,
+      "fontFamily": "Famicons",
+      "identifier": "diceSharp"
+    },
+    "disc": {
+      "codepoint": 57767,
+      "fontFamily": "Famicons",
+      "identifier": "disc"
+    },
+    "disc-outline": {
+      "codepoint": 57768,
+      "fontFamily": "Famicons",
+      "identifier": "discOutline"
+    },
+    "disc-sharp": {
+      "codepoint": 57769,
+      "fontFamily": "Famicons",
+      "identifier": "discSharp"
+    },
+    "document": {
+      "codepoint": 57770,
+      "fontFamily": "Famicons",
+      "identifier": "document"
+    },
+    "document-attach": {
+      "codepoint": 57771,
+      "fontFamily": "Famicons",
+      "identifier": "documentAttach"
+    },
+    "document-attach-outline": {
+      "codepoint": 57772,
+      "fontFamily": "Famicons",
+      "identifier": "documentAttachOutline"
+    },
+    "document-attach-sharp": {
+      "codepoint": 57773,
+      "fontFamily": "Famicons",
+      "identifier": "documentAttachSharp"
+    },
+    "document-lock": {
+      "codepoint": 57774,
+      "fontFamily": "Famicons",
+      "identifier": "documentLock"
+    },
+    "document-lock-outline": {
+      "codepoint": 57775,
+      "fontFamily": "Famicons",
+      "identifier": "documentLockOutline"
+    },
+    "document-lock-sharp": {
+      "codepoint": 57776,
+      "fontFamily": "Famicons",
+      "identifier": "documentLockSharp"
+    },
+    "document-outline": {
+      "codepoint": 57777,
+      "fontFamily": "Famicons",
+      "identifier": "documentOutline"
+    },
+    "document-sharp": {
+      "codepoint": 57778,
+      "fontFamily": "Famicons",
+      "identifier": "documentSharp"
+    },
+    "document-text": {
+      "codepoint": 57779,
+      "fontFamily": "Famicons",
+      "identifier": "documentText"
+    },
+    "document-text-outline": {
+      "codepoint": 57780,
+      "fontFamily": "Famicons",
+      "identifier": "documentTextOutline"
+    },
+    "document-text-sharp": {
+      "codepoint": 57781,
+      "fontFamily": "Famicons",
+      "identifier": "documentTextSharp"
+    },
+    "documents": {
+      "codepoint": 57782,
+      "fontFamily": "Famicons",
+      "identifier": "documents"
+    },
+    "documents-outline": {
+      "codepoint": 57783,
+      "fontFamily": "Famicons",
+      "identifier": "documentsOutline"
+    },
+    "documents-sharp": {
+      "codepoint": 57784,
+      "fontFamily": "Famicons",
+      "identifier": "documentsSharp"
+    },
+    "download": {
+      "codepoint": 57785,
+      "fontFamily": "Famicons",
+      "identifier": "download"
+    },
+    "download-outline": {
+      "codepoint": 57786,
+      "fontFamily": "Famicons",
+      "identifier": "downloadOutline"
+    },
+    "download-sharp": {
+      "codepoint": 57787,
+      "fontFamily": "Famicons",
+      "identifier": "downloadSharp"
+    },
+    "duplicate": {
+      "codepoint": 57788,
+      "fontFamily": "Famicons",
+      "identifier": "duplicate"
+    },
+    "duplicate-outline": {
+      "codepoint": 57789,
+      "fontFamily": "Famicons",
+      "identifier": "duplicateOutline"
+    },
+    "duplicate-sharp": {
+      "codepoint": 57790,
+      "fontFamily": "Famicons",
+      "identifier": "duplicateSharp"
+    },
+    "ear": {
+      "codepoint": 57791,
+      "fontFamily": "Famicons",
+      "identifier": "ear"
+    },
+    "ear-outline": {
+      "codepoint": 57792,
+      "fontFamily": "Famicons",
+      "identifier": "earOutline"
+    },
+    "ear-sharp": {
+      "codepoint": 57793,
+      "fontFamily": "Famicons",
+      "identifier": "earSharp"
+    },
+    "earth": {
+      "codepoint": 57794,
+      "fontFamily": "Famicons",
+      "identifier": "earth"
+    },
+    "earth-outline": {
+      "codepoint": 57795,
+      "fontFamily": "Famicons",
+      "identifier": "earthOutline"
+    },
+    "earth-sharp": {
+      "codepoint": 57796,
+      "fontFamily": "Famicons",
+      "identifier": "earthSharp"
+    },
+    "easel": {
+      "codepoint": 57797,
+      "fontFamily": "Famicons",
+      "identifier": "easel"
+    },
+    "easel-outline": {
+      "codepoint": 57798,
+      "fontFamily": "Famicons",
+      "identifier": "easelOutline"
+    },
+    "easel-sharp": {
+      "codepoint": 57799,
+      "fontFamily": "Famicons",
+      "identifier": "easelSharp"
+    },
+    "egg": {
+      "codepoint": 57800,
+      "fontFamily": "Famicons",
+      "identifier": "egg"
+    },
+    "egg-outline": {
+      "codepoint": 57801,
+      "fontFamily": "Famicons",
+      "identifier": "eggOutline"
+    },
+    "egg-sharp": {
+      "codepoint": 57802,
+      "fontFamily": "Famicons",
+      "identifier": "eggSharp"
+    },
+    "ellipse": {
+      "codepoint": 57803,
+      "fontFamily": "Famicons",
+      "identifier": "ellipse"
+    },
+    "ellipse-outline": {
+      "codepoint": 57804,
+      "fontFamily": "Famicons",
+      "identifier": "ellipseOutline"
+    },
+    "ellipse-sharp": {
+      "codepoint": 57805,
+      "fontFamily": "Famicons",
+      "identifier": "ellipseSharp"
+    },
+    "ellipsis-horizontal": {
+      "codepoint": 57806,
+      "fontFamily": "Famicons",
+      "identifier": "ellipsisHorizontal"
+    },
+    "ellipsis-horizontal-circle": {
+      "codepoint": 57807,
+      "fontFamily": "Famicons",
+      "identifier": "ellipsisHorizontalCircle"
+    },
+    "ellipsis-horizontal-circle-outline": {
+      "codepoint": 57808,
+      "fontFamily": "Famicons",
+      "identifier": "ellipsisHorizontalCircleOutline"
+    },
+    "ellipsis-horizontal-circle-sharp": {
+      "codepoint": 57809,
+      "fontFamily": "Famicons",
+      "identifier": "ellipsisHorizontalCircleSharp"
+    },
+    "ellipsis-horizontal-outline": {
+      "codepoint": 57810,
+      "fontFamily": "Famicons",
+      "identifier": "ellipsisHorizontalOutline"
+    },
+    "ellipsis-horizontal-sharp": {
+      "codepoint": 57811,
+      "fontFamily": "Famicons",
+      "identifier": "ellipsisHorizontalSharp"
+    },
+    "ellipsis-vertical": {
+      "codepoint": 57812,
+      "fontFamily": "Famicons",
+      "identifier": "ellipsisVertical"
+    },
+    "ellipsis-vertical-circle": {
+      "codepoint": 57813,
+      "fontFamily": "Famicons",
+      "identifier": "ellipsisVerticalCircle"
+    },
+    "ellipsis-vertical-circle-outline": {
+      "codepoint": 57814,
+      "fontFamily": "Famicons",
+      "identifier": "ellipsisVerticalCircleOutline"
+    },
+    "ellipsis-vertical-circle-sharp": {
+      "codepoint": 57815,
+      "fontFamily": "Famicons",
+      "identifier": "ellipsisVerticalCircleSharp"
+    },
+    "ellipsis-vertical-outline": {
+      "codepoint": 57816,
+      "fontFamily": "Famicons",
+      "identifier": "ellipsisVerticalOutline"
+    },
+    "ellipsis-vertical-sharp": {
+      "codepoint": 57817,
+      "fontFamily": "Famicons",
+      "identifier": "ellipsisVerticalSharp"
+    },
+    "enter": {
+      "codepoint": 57818,
+      "fontFamily": "Famicons",
+      "identifier": "enter"
+    },
+    "enter-outline": {
+      "codepoint": 57819,
+      "fontFamily": "Famicons",
+      "identifier": "enterOutline"
+    },
+    "enter-sharp": {
+      "codepoint": 57820,
+      "fontFamily": "Famicons",
+      "identifier": "enterSharp"
+    },
+    "exit": {
+      "codepoint": 57821,
+      "fontFamily": "Famicons",
+      "identifier": "exit"
+    },
+    "exit-outline": {
+      "codepoint": 57822,
+      "fontFamily": "Famicons",
+      "identifier": "exitOutline"
+    },
+    "exit-sharp": {
+      "codepoint": 57823,
+      "fontFamily": "Famicons",
+      "identifier": "exitSharp"
+    },
+    "expand": {
+      "codepoint": 57824,
+      "fontFamily": "Famicons",
+      "identifier": "expand"
+    },
+    "expand-outline": {
+      "codepoint": 57825,
+      "fontFamily": "Famicons",
+      "identifier": "expandOutline"
+    },
+    "expand-sharp": {
+      "codepoint": 57826,
+      "fontFamily": "Famicons",
+      "identifier": "expandSharp"
+    },
+    "extension-puzzle": {
+      "codepoint": 57827,
+      "fontFamily": "Famicons",
+      "identifier": "extensionPuzzle"
+    },
+    "extension-puzzle-outline": {
+      "codepoint": 57828,
+      "fontFamily": "Famicons",
+      "identifier": "extensionPuzzleOutline"
+    },
+    "extension-puzzle-sharp": {
+      "codepoint": 57829,
+      "fontFamily": "Famicons",
+      "identifier": "extensionPuzzleSharp"
+    },
+    "eye": {
+      "codepoint": 57830,
+      "fontFamily": "Famicons",
+      "identifier": "eye"
+    },
+    "eye-off": {
+      "codepoint": 57831,
+      "fontFamily": "Famicons",
+      "identifier": "eyeOff"
+    },
+    "eye-off-outline": {
+      "codepoint": 57832,
+      "fontFamily": "Famicons",
+      "identifier": "eyeOffOutline"
+    },
+    "eye-off-sharp": {
+      "codepoint": 57833,
+      "fontFamily": "Famicons",
+      "identifier": "eyeOffSharp"
+    },
+    "eye-outline": {
+      "codepoint": 57834,
+      "fontFamily": "Famicons",
+      "identifier": "eyeOutline"
+    },
+    "eye-sharp": {
+      "codepoint": 57835,
+      "fontFamily": "Famicons",
+      "identifier": "eyeSharp"
+    },
+    "eyedrop": {
+      "codepoint": 57836,
+      "fontFamily": "Famicons",
+      "identifier": "eyedrop"
+    },
+    "eyedrop-outline": {
+      "codepoint": 57837,
+      "fontFamily": "Famicons",
+      "identifier": "eyedropOutline"
+    },
+    "eyedrop-sharp": {
+      "codepoint": 57838,
+      "fontFamily": "Famicons",
+      "identifier": "eyedropSharp"
+    },
+    "fast-food": {
+      "codepoint": 57839,
+      "fontFamily": "Famicons",
+      "identifier": "fastFood"
+    },
+    "fast-food-outline": {
+      "codepoint": 57840,
+      "fontFamily": "Famicons",
+      "identifier": "fastFoodOutline"
+    },
+    "fast-food-sharp": {
+      "codepoint": 57841,
+      "fontFamily": "Famicons",
+      "identifier": "fastFoodSharp"
+    },
+    "female": {
+      "codepoint": 57842,
+      "fontFamily": "Famicons",
+      "identifier": "female"
+    },
+    "female-outline": {
+      "codepoint": 57843,
+      "fontFamily": "Famicons",
+      "identifier": "femaleOutline"
+    },
+    "female-sharp": {
+      "codepoint": 57844,
+      "fontFamily": "Famicons",
+      "identifier": "femaleSharp"
+    },
+    "file-tray": {
+      "codepoint": 57845,
+      "fontFamily": "Famicons",
+      "identifier": "fileTray"
+    },
+    "file-tray-full": {
+      "codepoint": 57846,
+      "fontFamily": "Famicons",
+      "identifier": "fileTrayFull"
+    },
+    "file-tray-full-outline": {
+      "codepoint": 57847,
+      "fontFamily": "Famicons",
+      "identifier": "fileTrayFullOutline"
+    },
+    "file-tray-full-sharp": {
+      "codepoint": 57848,
+      "fontFamily": "Famicons",
+      "identifier": "fileTrayFullSharp"
+    },
+    "file-tray-outline": {
+      "codepoint": 57849,
+      "fontFamily": "Famicons",
+      "identifier": "fileTrayOutline"
+    },
+    "file-tray-sharp": {
+      "codepoint": 57850,
+      "fontFamily": "Famicons",
+      "identifier": "fileTraySharp"
+    },
+    "file-tray-stacked": {
+      "codepoint": 57851,
+      "fontFamily": "Famicons",
+      "identifier": "fileTrayStacked"
+    },
+    "file-tray-stacked-outline": {
+      "codepoint": 57852,
+      "fontFamily": "Famicons",
+      "identifier": "fileTrayStackedOutline"
+    },
+    "file-tray-stacked-sharp": {
+      "codepoint": 57853,
+      "fontFamily": "Famicons",
+      "identifier": "fileTrayStackedSharp"
+    },
+    "film": {
+      "codepoint": 57854,
+      "fontFamily": "Famicons",
+      "identifier": "film"
+    },
+    "film-outline": {
+      "codepoint": 57855,
+      "fontFamily": "Famicons",
+      "identifier": "filmOutline"
+    },
+    "film-sharp": {
+      "codepoint": 57856,
+      "fontFamily": "Famicons",
+      "identifier": "filmSharp"
+    },
+    "filter": {
+      "codepoint": 57857,
+      "fontFamily": "Famicons",
+      "identifier": "filter"
+    },
+    "filter-circle": {
+      "codepoint": 57858,
+      "fontFamily": "Famicons",
+      "identifier": "filterCircle"
+    },
+    "filter-circle-outline": {
+      "codepoint": 57859,
+      "fontFamily": "Famicons",
+      "identifier": "filterCircleOutline"
+    },
+    "filter-circle-sharp": {
+      "codepoint": 57860,
+      "fontFamily": "Famicons",
+      "identifier": "filterCircleSharp"
+    },
+    "filter-outline": {
+      "codepoint": 57861,
+      "fontFamily": "Famicons",
+      "identifier": "filterOutline"
+    },
+    "filter-sharp": {
+      "codepoint": 57862,
+      "fontFamily": "Famicons",
+      "identifier": "filterSharp"
+    },
+    "finger-print": {
+      "codepoint": 57863,
+      "fontFamily": "Famicons",
+      "identifier": "fingerPrint"
+    },
+    "finger-print-outline": {
+      "codepoint": 57864,
+      "fontFamily": "Famicons",
+      "identifier": "fingerPrintOutline"
+    },
+    "finger-print-sharp": {
+      "codepoint": 57865,
+      "fontFamily": "Famicons",
+      "identifier": "fingerPrintSharp"
+    },
+    "fish": {
+      "codepoint": 57866,
+      "fontFamily": "Famicons",
+      "identifier": "fish"
+    },
+    "fish-outline": {
+      "codepoint": 57867,
+      "fontFamily": "Famicons",
+      "identifier": "fishOutline"
+    },
+    "fish-sharp": {
+      "codepoint": 57868,
+      "fontFamily": "Famicons",
+      "identifier": "fishSharp"
+    },
+    "fitness": {
+      "codepoint": 57869,
+      "fontFamily": "Famicons",
+      "identifier": "fitness"
+    },
+    "fitness-outline": {
+      "codepoint": 57870,
+      "fontFamily": "Famicons",
+      "identifier": "fitnessOutline"
+    },
+    "fitness-sharp": {
+      "codepoint": 57871,
+      "fontFamily": "Famicons",
+      "identifier": "fitnessSharp"
+    },
+    "flag": {
+      "codepoint": 57872,
+      "fontFamily": "Famicons",
+      "identifier": "flag"
+    },
+    "flag-outline": {
+      "codepoint": 57873,
+      "fontFamily": "Famicons",
+      "identifier": "flagOutline"
+    },
+    "flag-sharp": {
+      "codepoint": 57874,
+      "fontFamily": "Famicons",
+      "identifier": "flagSharp"
+    },
+    "flame": {
+      "codepoint": 57875,
+      "fontFamily": "Famicons",
+      "identifier": "flame"
+    },
+    "flame-outline": {
+      "codepoint": 57876,
+      "fontFamily": "Famicons",
+      "identifier": "flameOutline"
+    },
+    "flame-sharp": {
+      "codepoint": 57877,
+      "fontFamily": "Famicons",
+      "identifier": "flameSharp"
+    },
+    "flash": {
+      "codepoint": 57878,
+      "fontFamily": "Famicons",
+      "identifier": "flash"
+    },
+    "flash-off": {
+      "codepoint": 57879,
+      "fontFamily": "Famicons",
+      "identifier": "flashOff"
+    },
+    "flash-off-outline": {
+      "codepoint": 57880,
+      "fontFamily": "Famicons",
+      "identifier": "flashOffOutline"
+    },
+    "flash-off-sharp": {
+      "codepoint": 57881,
+      "fontFamily": "Famicons",
+      "identifier": "flashOffSharp"
+    },
+    "flash-outline": {
+      "codepoint": 57882,
+      "fontFamily": "Famicons",
+      "identifier": "flashOutline"
+    },
+    "flash-sharp": {
+      "codepoint": 57883,
+      "fontFamily": "Famicons",
+      "identifier": "flashSharp"
+    },
+    "flashlight": {
+      "codepoint": 57884,
+      "fontFamily": "Famicons",
+      "identifier": "flashlight"
+    },
+    "flashlight-outline": {
+      "codepoint": 57885,
+      "fontFamily": "Famicons",
+      "identifier": "flashlightOutline"
+    },
+    "flashlight-sharp": {
+      "codepoint": 57886,
+      "fontFamily": "Famicons",
+      "identifier": "flashlightSharp"
+    },
+    "flask": {
+      "codepoint": 57887,
+      "fontFamily": "Famicons",
+      "identifier": "flask"
+    },
+    "flask-outline": {
+      "codepoint": 57888,
+      "fontFamily": "Famicons",
+      "identifier": "flaskOutline"
+    },
+    "flask-sharp": {
+      "codepoint": 57889,
+      "fontFamily": "Famicons",
+      "identifier": "flaskSharp"
+    },
+    "flower": {
+      "codepoint": 57890,
+      "fontFamily": "Famicons",
+      "identifier": "flower"
+    },
+    "flower-outline": {
+      "codepoint": 57891,
+      "fontFamily": "Famicons",
+      "identifier": "flowerOutline"
+    },
+    "flower-sharp": {
+      "codepoint": 57892,
+      "fontFamily": "Famicons",
+      "identifier": "flowerSharp"
+    },
+    "folder": {
+      "codepoint": 57893,
+      "fontFamily": "Famicons",
+      "identifier": "folder"
+    },
+    "folder-open": {
+      "codepoint": 57894,
+      "fontFamily": "Famicons",
+      "identifier": "folderOpen"
+    },
+    "folder-open-outline": {
+      "codepoint": 57895,
+      "fontFamily": "Famicons",
+      "identifier": "folderOpenOutline"
+    },
+    "folder-open-sharp": {
+      "codepoint": 57896,
+      "fontFamily": "Famicons",
+      "identifier": "folderOpenSharp"
+    },
+    "folder-outline": {
+      "codepoint": 57897,
+      "fontFamily": "Famicons",
+      "identifier": "folderOutline"
+    },
+    "folder-sharp": {
+      "codepoint": 57898,
+      "fontFamily": "Famicons",
+      "identifier": "folderSharp"
+    },
+    "football": {
+      "codepoint": 57899,
+      "fontFamily": "Famicons",
+      "identifier": "football"
+    },
+    "football-outline": {
+      "codepoint": 57900,
+      "fontFamily": "Famicons",
+      "identifier": "footballOutline"
+    },
+    "football-sharp": {
+      "codepoint": 57901,
+      "fontFamily": "Famicons",
+      "identifier": "footballSharp"
+    },
+    "footsteps": {
+      "codepoint": 57902,
+      "fontFamily": "Famicons",
+      "identifier": "footsteps"
+    },
+    "footsteps-outline": {
+      "codepoint": 57903,
+      "fontFamily": "Famicons",
+      "identifier": "footstepsOutline"
+    },
+    "footsteps-sharp": {
+      "codepoint": 57904,
+      "fontFamily": "Famicons",
+      "identifier": "footstepsSharp"
+    },
+    "funnel": {
+      "codepoint": 57905,
+      "fontFamily": "Famicons",
+      "identifier": "funnel"
+    },
+    "funnel-outline": {
+      "codepoint": 57906,
+      "fontFamily": "Famicons",
+      "identifier": "funnelOutline"
+    },
+    "funnel-sharp": {
+      "codepoint": 57907,
+      "fontFamily": "Famicons",
+      "identifier": "funnelSharp"
+    },
+    "game-controller": {
+      "codepoint": 57908,
+      "fontFamily": "Famicons",
+      "identifier": "gameController"
+    },
+    "game-controller-outline": {
+      "codepoint": 57909,
+      "fontFamily": "Famicons",
+      "identifier": "gameControllerOutline"
+    },
+    "game-controller-sharp": {
+      "codepoint": 57910,
+      "fontFamily": "Famicons",
+      "identifier": "gameControllerSharp"
+    },
+    "gift": {
+      "codepoint": 57911,
+      "fontFamily": "Famicons",
+      "identifier": "gift"
+    },
+    "gift-outline": {
+      "codepoint": 57912,
+      "fontFamily": "Famicons",
+      "identifier": "giftOutline"
+    },
+    "gift-sharp": {
+      "codepoint": 57913,
+      "fontFamily": "Famicons",
+      "identifier": "giftSharp"
+    },
+    "git-branch": {
+      "codepoint": 57914,
+      "fontFamily": "Famicons",
+      "identifier": "gitBranch"
+    },
+    "git-branch-outline": {
+      "codepoint": 57915,
+      "fontFamily": "Famicons",
+      "identifier": "gitBranchOutline"
+    },
+    "git-branch-sharp": {
+      "codepoint": 57916,
+      "fontFamily": "Famicons",
+      "identifier": "gitBranchSharp"
+    },
+    "git-commit": {
+      "codepoint": 57917,
+      "fontFamily": "Famicons",
+      "identifier": "gitCommit"
+    },
+    "git-commit-outline": {
+      "codepoint": 57918,
+      "fontFamily": "Famicons",
+      "identifier": "gitCommitOutline"
+    },
+    "git-commit-sharp": {
+      "codepoint": 57919,
+      "fontFamily": "Famicons",
+      "identifier": "gitCommitSharp"
+    },
+    "git-compare": {
+      "codepoint": 57920,
+      "fontFamily": "Famicons",
+      "identifier": "gitCompare"
+    },
+    "git-compare-outline": {
+      "codepoint": 57921,
+      "fontFamily": "Famicons",
+      "identifier": "gitCompareOutline"
+    },
+    "git-compare-sharp": {
+      "codepoint": 57922,
+      "fontFamily": "Famicons",
+      "identifier": "gitCompareSharp"
+    },
+    "git-merge": {
+      "codepoint": 57923,
+      "fontFamily": "Famicons",
+      "identifier": "gitMerge"
+    },
+    "git-merge-outline": {
+      "codepoint": 57924,
+      "fontFamily": "Famicons",
+      "identifier": "gitMergeOutline"
+    },
+    "git-merge-sharp": {
+      "codepoint": 57925,
+      "fontFamily": "Famicons",
+      "identifier": "gitMergeSharp"
+    },
+    "git-network": {
+      "codepoint": 57926,
+      "fontFamily": "Famicons",
+      "identifier": "gitNetwork"
+    },
+    "git-network-outline": {
+      "codepoint": 57927,
+      "fontFamily": "Famicons",
+      "identifier": "gitNetworkOutline"
+    },
+    "git-network-sharp": {
+      "codepoint": 57928,
+      "fontFamily": "Famicons",
+      "identifier": "gitNetworkSharp"
+    },
+    "git-pull-request": {
+      "codepoint": 57929,
+      "fontFamily": "Famicons",
+      "identifier": "gitPullRequest"
+    },
+    "git-pull-request-outline": {
+      "codepoint": 57930,
+      "fontFamily": "Famicons",
+      "identifier": "gitPullRequestOutline"
+    },
+    "git-pull-request-sharp": {
+      "codepoint": 57931,
+      "fontFamily": "Famicons",
+      "identifier": "gitPullRequestSharp"
+    },
+    "glasses": {
+      "codepoint": 57932,
+      "fontFamily": "Famicons",
+      "identifier": "glasses"
+    },
+    "glasses-outline": {
+      "codepoint": 57933,
+      "fontFamily": "Famicons",
+      "identifier": "glassesOutline"
+    },
+    "glasses-sharp": {
+      "codepoint": 57934,
+      "fontFamily": "Famicons",
+      "identifier": "glassesSharp"
+    },
+    "globe": {
+      "codepoint": 57935,
+      "fontFamily": "Famicons",
+      "identifier": "globe"
+    },
+    "globe-outline": {
+      "codepoint": 57936,
+      "fontFamily": "Famicons",
+      "identifier": "globeOutline"
+    },
+    "globe-sharp": {
+      "codepoint": 57937,
+      "fontFamily": "Famicons",
+      "identifier": "globeSharp"
+    },
+    "golf": {
+      "codepoint": 57938,
+      "fontFamily": "Famicons",
+      "identifier": "golf"
+    },
+    "golf-outline": {
+      "codepoint": 57939,
+      "fontFamily": "Famicons",
+      "identifier": "golfOutline"
+    },
+    "golf-sharp": {
+      "codepoint": 57940,
+      "fontFamily": "Famicons",
+      "identifier": "golfSharp"
+    },
+    "grid": {
+      "codepoint": 57941,
+      "fontFamily": "Famicons",
+      "identifier": "grid"
+    },
+    "grid-outline": {
+      "codepoint": 57942,
+      "fontFamily": "Famicons",
+      "identifier": "gridOutline"
+    },
+    "grid-sharp": {
+      "codepoint": 57943,
+      "fontFamily": "Famicons",
+      "identifier": "gridSharp"
+    },
+    "hammer": {
+      "codepoint": 57944,
+      "fontFamily": "Famicons",
+      "identifier": "hammer"
+    },
+    "hammer-outline": {
+      "codepoint": 57945,
+      "fontFamily": "Famicons",
+      "identifier": "hammerOutline"
+    },
+    "hammer-sharp": {
+      "codepoint": 57946,
+      "fontFamily": "Famicons",
+      "identifier": "hammerSharp"
+    },
+    "hand-left": {
+      "codepoint": 57947,
+      "fontFamily": "Famicons",
+      "identifier": "handLeft"
+    },
+    "hand-left-outline": {
+      "codepoint": 57948,
+      "fontFamily": "Famicons",
+      "identifier": "handLeftOutline"
+    },
+    "hand-left-sharp": {
+      "codepoint": 57949,
+      "fontFamily": "Famicons",
+      "identifier": "handLeftSharp"
+    },
+    "hand-right": {
+      "codepoint": 57950,
+      "fontFamily": "Famicons",
+      "identifier": "handRight"
+    },
+    "hand-right-outline": {
+      "codepoint": 57951,
+      "fontFamily": "Famicons",
+      "identifier": "handRightOutline"
+    },
+    "hand-right-sharp": {
+      "codepoint": 57952,
+      "fontFamily": "Famicons",
+      "identifier": "handRightSharp"
+    },
+    "happy": {
+      "codepoint": 57953,
+      "fontFamily": "Famicons",
+      "identifier": "happy"
+    },
+    "happy-outline": {
+      "codepoint": 57954,
+      "fontFamily": "Famicons",
+      "identifier": "happyOutline"
+    },
+    "happy-sharp": {
+      "codepoint": 57955,
+      "fontFamily": "Famicons",
+      "identifier": "happySharp"
+    },
+    "hardware-chip": {
+      "codepoint": 57956,
+      "fontFamily": "Famicons",
+      "identifier": "hardwareChip"
+    },
+    "hardware-chip-outline": {
+      "codepoint": 57957,
+      "fontFamily": "Famicons",
+      "identifier": "hardwareChipOutline"
+    },
+    "hardware-chip-sharp": {
+      "codepoint": 57958,
+      "fontFamily": "Famicons",
+      "identifier": "hardwareChipSharp"
+    },
+    "headset": {
+      "codepoint": 57959,
+      "fontFamily": "Famicons",
+      "identifier": "headset"
+    },
+    "headset-outline": {
+      "codepoint": 57960,
+      "fontFamily": "Famicons",
+      "identifier": "headsetOutline"
+    },
+    "headset-sharp": {
+      "codepoint": 57961,
+      "fontFamily": "Famicons",
+      "identifier": "headsetSharp"
+    },
+    "heart": {
+      "codepoint": 57962,
+      "fontFamily": "Famicons",
+      "identifier": "heart"
+    },
+    "heart-circle": {
+      "codepoint": 57963,
+      "fontFamily": "Famicons",
+      "identifier": "heartCircle"
+    },
+    "heart-circle-outline": {
+      "codepoint": 57964,
+      "fontFamily": "Famicons",
+      "identifier": "heartCircleOutline"
+    },
+    "heart-circle-sharp": {
+      "codepoint": 57965,
+      "fontFamily": "Famicons",
+      "identifier": "heartCircleSharp"
+    },
+    "heart-dislike": {
+      "codepoint": 57966,
+      "fontFamily": "Famicons",
+      "identifier": "heartDislike"
+    },
+    "heart-dislike-circle": {
+      "codepoint": 57967,
+      "fontFamily": "Famicons",
+      "identifier": "heartDislikeCircle"
+    },
+    "heart-dislike-circle-outline": {
+      "codepoint": 57968,
+      "fontFamily": "Famicons",
+      "identifier": "heartDislikeCircleOutline"
+    },
+    "heart-dislike-circle-sharp": {
+      "codepoint": 57969,
+      "fontFamily": "Famicons",
+      "identifier": "heartDislikeCircleSharp"
+    },
+    "heart-dislike-outline": {
+      "codepoint": 57970,
+      "fontFamily": "Famicons",
+      "identifier": "heartDislikeOutline"
+    },
+    "heart-dislike-sharp": {
+      "codepoint": 57971,
+      "fontFamily": "Famicons",
+      "identifier": "heartDislikeSharp"
+    },
+    "heart-half": {
+      "codepoint": 57972,
+      "fontFamily": "Famicons",
+      "identifier": "heartHalf"
+    },
+    "heart-half-outline": {
+      "codepoint": 57973,
+      "fontFamily": "Famicons",
+      "identifier": "heartHalfOutline"
+    },
+    "heart-half-sharp": {
+      "codepoint": 57974,
+      "fontFamily": "Famicons",
+      "identifier": "heartHalfSharp"
+    },
+    "heart-outline": {
+      "codepoint": 57975,
+      "fontFamily": "Famicons",
+      "identifier": "heartOutline"
+    },
+    "heart-sharp": {
+      "codepoint": 57976,
+      "fontFamily": "Famicons",
+      "identifier": "heartSharp"
+    },
+    "help": {
+      "codepoint": 57977,
+      "fontFamily": "Famicons",
+      "identifier": "help"
+    },
+    "help-buoy": {
+      "codepoint": 57978,
+      "fontFamily": "Famicons",
+      "identifier": "helpBuoy"
+    },
+    "help-buoy-outline": {
+      "codepoint": 57979,
+      "fontFamily": "Famicons",
+      "identifier": "helpBuoyOutline"
+    },
+    "help-buoy-sharp": {
+      "codepoint": 57980,
+      "fontFamily": "Famicons",
+      "identifier": "helpBuoySharp"
+    },
+    "help-circle": {
+      "codepoint": 57981,
+      "fontFamily": "Famicons",
+      "identifier": "helpCircle"
+    },
+    "help-circle-outline": {
+      "codepoint": 57982,
+      "fontFamily": "Famicons",
+      "identifier": "helpCircleOutline"
+    },
+    "help-circle-sharp": {
+      "codepoint": 57983,
+      "fontFamily": "Famicons",
+      "identifier": "helpCircleSharp"
+    },
+    "help-outline": {
+      "codepoint": 57984,
+      "fontFamily": "Famicons",
+      "identifier": "helpOutline"
+    },
+    "help-sharp": {
+      "codepoint": 57985,
+      "fontFamily": "Famicons",
+      "identifier": "helpSharp"
+    },
+    "home": {
+      "codepoint": 57986,
+      "fontFamily": "Famicons",
+      "identifier": "home"
+    },
+    "home-outline": {
+      "codepoint": 57987,
+      "fontFamily": "Famicons",
+      "identifier": "homeOutline"
+    },
+    "home-sharp": {
+      "codepoint": 57988,
+      "fontFamily": "Famicons",
+      "identifier": "homeSharp"
+    },
+    "hourglass": {
+      "codepoint": 57989,
+      "fontFamily": "Famicons",
+      "identifier": "hourglass"
+    },
+    "hourglass-outline": {
+      "codepoint": 57990,
+      "fontFamily": "Famicons",
+      "identifier": "hourglassOutline"
+    },
+    "hourglass-sharp": {
+      "codepoint": 57991,
+      "fontFamily": "Famicons",
+      "identifier": "hourglassSharp"
+    },
+    "ice-cream": {
+      "codepoint": 57992,
+      "fontFamily": "Famicons",
+      "identifier": "iceCream"
+    },
+    "ice-cream-outline": {
+      "codepoint": 57993,
+      "fontFamily": "Famicons",
+      "identifier": "iceCreamOutline"
+    },
+    "ice-cream-sharp": {
+      "codepoint": 57994,
+      "fontFamily": "Famicons",
+      "identifier": "iceCreamSharp"
+    },
+    "id-card": {
+      "codepoint": 57995,
+      "fontFamily": "Famicons",
+      "identifier": "idCard"
+    },
+    "id-card-outline": {
+      "codepoint": 57996,
+      "fontFamily": "Famicons",
+      "identifier": "idCardOutline"
+    },
+    "id-card-sharp": {
+      "codepoint": 57997,
+      "fontFamily": "Famicons",
+      "identifier": "idCardSharp"
+    },
+    "image": {
+      "codepoint": 57998,
+      "fontFamily": "Famicons",
+      "identifier": "image"
+    },
+    "image-outline": {
+      "codepoint": 57999,
+      "fontFamily": "Famicons",
+      "identifier": "imageOutline"
+    },
+    "image-sharp": {
+      "codepoint": 58000,
+      "fontFamily": "Famicons",
+      "identifier": "imageSharp"
+    },
+    "images": {
+      "codepoint": 58001,
+      "fontFamily": "Famicons",
+      "identifier": "images"
+    },
+    "images-outline": {
+      "codepoint": 58002,
+      "fontFamily": "Famicons",
+      "identifier": "imagesOutline"
+    },
+    "images-sharp": {
+      "codepoint": 58003,
+      "fontFamily": "Famicons",
+      "identifier": "imagesSharp"
+    },
+    "infinite": {
+      "codepoint": 58004,
+      "fontFamily": "Famicons",
+      "identifier": "infinite"
+    },
+    "infinite-outline": {
+      "codepoint": 58005,
+      "fontFamily": "Famicons",
+      "identifier": "infiniteOutline"
+    },
+    "infinite-sharp": {
+      "codepoint": 58006,
+      "fontFamily": "Famicons",
+      "identifier": "infiniteSharp"
+    },
+    "information": {
+      "codepoint": 58007,
+      "fontFamily": "Famicons",
+      "identifier": "information"
+    },
+    "information-circle": {
+      "codepoint": 58008,
+      "fontFamily": "Famicons",
+      "identifier": "informationCircle"
+    },
+    "information-circle-outline": {
+      "codepoint": 58009,
+      "fontFamily": "Famicons",
+      "identifier": "informationCircleOutline"
+    },
+    "information-circle-sharp": {
+      "codepoint": 58010,
+      "fontFamily": "Famicons",
+      "identifier": "informationCircleSharp"
+    },
+    "information-outline": {
+      "codepoint": 58011,
+      "fontFamily": "Famicons",
+      "identifier": "informationOutline"
+    },
+    "information-sharp": {
+      "codepoint": 58012,
+      "fontFamily": "Famicons",
+      "identifier": "informationSharp"
+    },
+    "invert-mode": {
+      "codepoint": 58013,
+      "fontFamily": "Famicons",
+      "identifier": "invertMode"
+    },
+    "invert-mode-outline": {
+      "codepoint": 58014,
+      "fontFamily": "Famicons",
+      "identifier": "invertModeOutline"
+    },
+    "invert-mode-sharp": {
+      "codepoint": 58015,
+      "fontFamily": "Famicons",
+      "identifier": "invertModeSharp"
+    },
+    "journal": {
+      "codepoint": 58016,
+      "fontFamily": "Famicons",
+      "identifier": "journal"
+    },
+    "journal-outline": {
+      "codepoint": 58017,
+      "fontFamily": "Famicons",
+      "identifier": "journalOutline"
+    },
+    "journal-sharp": {
+      "codepoint": 58018,
+      "fontFamily": "Famicons",
+      "identifier": "journalSharp"
+    },
+    "key": {
+      "codepoint": 58019,
+      "fontFamily": "Famicons",
+      "identifier": "key"
+    },
+    "key-outline": {
+      "codepoint": 58020,
+      "fontFamily": "Famicons",
+      "identifier": "keyOutline"
+    },
+    "key-sharp": {
+      "codepoint": 58021,
+      "fontFamily": "Famicons",
+      "identifier": "keySharp"
+    },
+    "keypad": {
+      "codepoint": 58022,
+      "fontFamily": "Famicons",
+      "identifier": "keypad"
+    },
+    "keypad-outline": {
+      "codepoint": 58023,
+      "fontFamily": "Famicons",
+      "identifier": "keypadOutline"
+    },
+    "keypad-sharp": {
+      "codepoint": 58024,
+      "fontFamily": "Famicons",
+      "identifier": "keypadSharp"
+    },
+    "language": {
+      "codepoint": 58025,
+      "fontFamily": "Famicons",
+      "identifier": "language"
+    },
+    "language-outline": {
+      "codepoint": 58026,
+      "fontFamily": "Famicons",
+      "identifier": "languageOutline"
+    },
+    "language-sharp": {
+      "codepoint": 58027,
+      "fontFamily": "Famicons",
+      "identifier": "languageSharp"
+    },
+    "laptop": {
+      "codepoint": 58028,
+      "fontFamily": "Famicons",
+      "identifier": "laptop"
+    },
+    "laptop-outline": {
+      "codepoint": 58029,
+      "fontFamily": "Famicons",
+      "identifier": "laptopOutline"
+    },
+    "laptop-sharp": {
+      "codepoint": 58030,
+      "fontFamily": "Famicons",
+      "identifier": "laptopSharp"
+    },
+    "layers": {
+      "codepoint": 58031,
+      "fontFamily": "Famicons",
+      "identifier": "layers"
+    },
+    "layers-outline": {
+      "codepoint": 58032,
+      "fontFamily": "Famicons",
+      "identifier": "layersOutline"
+    },
+    "layers-sharp": {
+      "codepoint": 58033,
+      "fontFamily": "Famicons",
+      "identifier": "layersSharp"
+    },
+    "leaf": {
+      "codepoint": 58034,
+      "fontFamily": "Famicons",
+      "identifier": "leaf"
+    },
+    "leaf-outline": {
+      "codepoint": 58035,
+      "fontFamily": "Famicons",
+      "identifier": "leafOutline"
+    },
+    "leaf-sharp": {
+      "codepoint": 58036,
+      "fontFamily": "Famicons",
+      "identifier": "leafSharp"
+    },
+    "library": {
+      "codepoint": 58037,
+      "fontFamily": "Famicons",
+      "identifier": "library_"
+    },
+    "library-outline": {
+      "codepoint": 58038,
+      "fontFamily": "Famicons",
+      "identifier": "libraryOutline"
+    },
+    "library-sharp": {
+      "codepoint": 58039,
+      "fontFamily": "Famicons",
+      "identifier": "librarySharp"
+    },
+    "link": {
+      "codepoint": 58040,
+      "fontFamily": "Famicons",
+      "identifier": "link"
+    },
+    "link-outline": {
+      "codepoint": 58041,
+      "fontFamily": "Famicons",
+      "identifier": "linkOutline"
+    },
+    "link-sharp": {
+      "codepoint": 58042,
+      "fontFamily": "Famicons",
+      "identifier": "linkSharp"
+    },
+    "list": {
+      "codepoint": 58043,
+      "fontFamily": "Famicons",
+      "identifier": "list"
+    },
+    "list-circle": {
+      "codepoint": 58044,
+      "fontFamily": "Famicons",
+      "identifier": "listCircle"
+    },
+    "list-circle-outline": {
+      "codepoint": 58045,
+      "fontFamily": "Famicons",
+      "identifier": "listCircleOutline"
+    },
+    "list-circle-sharp": {
+      "codepoint": 58046,
+      "fontFamily": "Famicons",
+      "identifier": "listCircleSharp"
+    },
+    "list-outline": {
+      "codepoint": 58047,
+      "fontFamily": "Famicons",
+      "identifier": "listOutline"
+    },
+    "list-sharp": {
+      "codepoint": 58048,
+      "fontFamily": "Famicons",
+      "identifier": "listSharp"
+    },
+    "locate": {
+      "codepoint": 58049,
+      "fontFamily": "Famicons",
+      "identifier": "locate"
+    },
+    "locate-outline": {
+      "codepoint": 58050,
+      "fontFamily": "Famicons",
+      "identifier": "locateOutline"
+    },
+    "locate-sharp": {
+      "codepoint": 58051,
+      "fontFamily": "Famicons",
+      "identifier": "locateSharp"
+    },
+    "location": {
+      "codepoint": 58052,
+      "fontFamily": "Famicons",
+      "identifier": "location"
+    },
+    "location-outline": {
+      "codepoint": 58053,
+      "fontFamily": "Famicons",
+      "identifier": "locationOutline"
+    },
+    "location-sharp": {
+      "codepoint": 58054,
+      "fontFamily": "Famicons",
+      "identifier": "locationSharp"
+    },
+    "lock-closed": {
+      "codepoint": 58055,
+      "fontFamily": "Famicons",
+      "identifier": "lockClosed"
+    },
+    "lock-closed-outline": {
+      "codepoint": 58056,
+      "fontFamily": "Famicons",
+      "identifier": "lockClosedOutline"
+    },
+    "lock-closed-sharp": {
+      "codepoint": 58057,
+      "fontFamily": "Famicons",
+      "identifier": "lockClosedSharp"
+    },
+    "lock-open": {
+      "codepoint": 58058,
+      "fontFamily": "Famicons",
+      "identifier": "lockOpen"
+    },
+    "lock-open-outline": {
+      "codepoint": 58059,
+      "fontFamily": "Famicons",
+      "identifier": "lockOpenOutline"
+    },
+    "lock-open-sharp": {
+      "codepoint": 58060,
+      "fontFamily": "Famicons",
+      "identifier": "lockOpenSharp"
+    },
+    "log-in": {
+      "codepoint": 58061,
+      "fontFamily": "Famicons",
+      "identifier": "logIn"
+    },
+    "log-in-outline": {
+      "codepoint": 58062,
+      "fontFamily": "Famicons",
+      "identifier": "logInOutline"
+    },
+    "log-in-sharp": {
+      "codepoint": 58063,
+      "fontFamily": "Famicons",
+      "identifier": "logInSharp"
+    },
+    "log-out": {
+      "codepoint": 58064,
+      "fontFamily": "Famicons",
+      "identifier": "logOut"
+    },
+    "log-out-outline": {
+      "codepoint": 58065,
+      "fontFamily": "Famicons",
+      "identifier": "logOutOutline"
+    },
+    "log-out-sharp": {
+      "codepoint": 58066,
+      "fontFamily": "Famicons",
+      "identifier": "logOutSharp"
+    },
+    "logo-alipay": {
+      "codepoint": 58067,
+      "fontFamily": "Famicons",
+      "identifier": "logoAlipay"
+    },
+    "logo-amazon": {
+      "codepoint": 58068,
+      "fontFamily": "Famicons",
+      "identifier": "logoAmazon"
+    },
+    "logo-amplify": {
+      "codepoint": 58069,
+      "fontFamily": "Famicons",
+      "identifier": "logoAmplify"
+    },
+    "logo-android": {
+      "codepoint": 58070,
+      "fontFamily": "Famicons",
+      "identifier": "logoAndroid"
+    },
+    "logo-angular": {
+      "codepoint": 58071,
+      "fontFamily": "Famicons",
+      "identifier": "logoAngular"
+    },
+    "logo-apple": {
+      "codepoint": 58072,
+      "fontFamily": "Famicons",
+      "identifier": "logoApple"
+    },
+    "logo-apple-appstore": {
+      "codepoint": 58073,
+      "fontFamily": "Famicons",
+      "identifier": "logoAppleAppstore"
+    },
+    "logo-apple-ar": {
+      "codepoint": 58074,
+      "fontFamily": "Famicons",
+      "identifier": "logoAppleAr"
+    },
+    "logo-behance": {
+      "codepoint": 58075,
+      "fontFamily": "Famicons",
+      "identifier": "logoBehance"
+    },
+    "logo-bitbucket": {
+      "codepoint": 58076,
+      "fontFamily": "Famicons",
+      "identifier": "logoBitbucket"
+    },
+    "logo-bitcoin": {
+      "codepoint": 58077,
+      "fontFamily": "Famicons",
+      "identifier": "logoBitcoin"
+    },
+    "logo-buffer": {
+      "codepoint": 58078,
+      "fontFamily": "Famicons",
+      "identifier": "logoBuffer"
+    },
+    "logo-capacitor": {
+      "codepoint": 58079,
+      "fontFamily": "Famicons",
+      "identifier": "logoCapacitor"
+    },
+    "logo-chrome": {
+      "codepoint": 58080,
+      "fontFamily": "Famicons",
+      "identifier": "logoChrome"
+    },
+    "logo-closed-captioning": {
+      "codepoint": 58081,
+      "fontFamily": "Famicons",
+      "identifier": "logoClosedCaptioning"
+    },
+    "logo-codepen": {
+      "codepoint": 58082,
+      "fontFamily": "Famicons",
+      "identifier": "logoCodepen"
+    },
+    "logo-css3": {
+      "codepoint": 58083,
+      "fontFamily": "Famicons",
+      "identifier": "logoCss3"
+    },
+    "logo-designernews": {
+      "codepoint": 58084,
+      "fontFamily": "Famicons",
+      "identifier": "logoDesignernews"
+    },
+    "logo-deviantart": {
+      "codepoint": 58085,
+      "fontFamily": "Famicons",
+      "identifier": "logoDeviantart"
+    },
+    "logo-discord": {
+      "codepoint": 58086,
+      "fontFamily": "Famicons",
+      "identifier": "logoDiscord"
+    },
+    "logo-docker": {
+      "codepoint": 58087,
+      "fontFamily": "Famicons",
+      "identifier": "logoDocker"
+    },
+    "logo-dribbble": {
+      "codepoint": 58088,
+      "fontFamily": "Famicons",
+      "identifier": "logoDribbble"
+    },
+    "logo-dropbox": {
+      "codepoint": 58089,
+      "fontFamily": "Famicons",
+      "identifier": "logoDropbox"
+    },
+    "logo-edge": {
+      "codepoint": 58090,
+      "fontFamily": "Famicons",
+      "identifier": "logoEdge"
+    },
+    "logo-electron": {
+      "codepoint": 58091,
+      "fontFamily": "Famicons",
+      "identifier": "logoElectron"
+    },
+    "logo-euro": {
+      "codepoint": 58092,
+      "fontFamily": "Famicons",
+      "identifier": "logoEuro"
+    },
+    "logo-facebook": {
+      "codepoint": 58093,
+      "fontFamily": "Famicons",
+      "identifier": "logoFacebook"
+    },
+    "logo-famibot": {
+      "codepoint": 58094,
+      "fontFamily": "Famicons",
+      "identifier": "logoFamibot"
+    },
+    "logo-family": {
+      "codepoint": 58095,
+      "fontFamily": "Famicons",
+      "identifier": "logoFamily"
+    },
+    "logo-figma": {
+      "codepoint": 58096,
+      "fontFamily": "Famicons",
+      "identifier": "logoFigma"
+    },
+    "logo-firebase": {
+      "codepoint": 58097,
+      "fontFamily": "Famicons",
+      "identifier": "logoFirebase"
+    },
+    "logo-firefox": {
+      "codepoint": 58098,
+      "fontFamily": "Famicons",
+      "identifier": "logoFirefox"
+    },
+    "logo-flickr": {
+      "codepoint": 58099,
+      "fontFamily": "Famicons",
+      "identifier": "logoFlickr"
+    },
+    "logo-foursquare": {
+      "codepoint": 58100,
+      "fontFamily": "Famicons",
+      "identifier": "logoFoursquare"
+    },
+    "logo-github": {
+      "codepoint": 58101,
+      "fontFamily": "Famicons",
+      "identifier": "logoGithub"
+    },
+    "logo-gitlab": {
+      "codepoint": 58102,
+      "fontFamily": "Famicons",
+      "identifier": "logoGitlab"
+    },
+    "logo-google": {
+      "codepoint": 58103,
+      "fontFamily": "Famicons",
+      "identifier": "logoGoogle"
+    },
+    "logo-google-playstore": {
+      "codepoint": 58104,
+      "fontFamily": "Famicons",
+      "identifier": "logoGooglePlaystore"
+    },
+    "logo-hackernews": {
+      "codepoint": 58105,
+      "fontFamily": "Famicons",
+      "identifier": "logoHackernews"
+    },
+    "logo-html5": {
+      "codepoint": 58106,
+      "fontFamily": "Famicons",
+      "identifier": "logoHtml5"
+    },
+    "logo-instagram": {
+      "codepoint": 58107,
+      "fontFamily": "Famicons",
+      "identifier": "logoInstagram"
+    },
+    "logo-ionic": {
+      "codepoint": 58108,
+      "fontFamily": "Famicons",
+      "identifier": "logoIonic"
+    },
+    "logo-javascript": {
+      "codepoint": 58109,
+      "fontFamily": "Famicons",
+      "identifier": "logoJavascript"
+    },
+    "logo-jigra": {
+      "codepoint": 58110,
+      "fontFamily": "Famicons",
+      "identifier": "logoJigra"
+    },
+    "logo-kdu": {
+      "codepoint": 58111,
+      "fontFamily": "Famicons",
+      "identifier": "logoKdu"
+    },
+    "logo-laravel": {
+      "codepoint": 58112,
+      "fontFamily": "Famicons",
+      "identifier": "logoLaravel"
+    },
+    "logo-linkedin": {
+      "codepoint": 58113,
+      "fontFamily": "Famicons",
+      "identifier": "logoLinkedin"
+    },
+    "logo-markdown": {
+      "codepoint": 58114,
+      "fontFamily": "Famicons",
+      "identifier": "logoMarkdown"
+    },
+    "logo-mastodon": {
+      "codepoint": 58115,
+      "fontFamily": "Famicons",
+      "identifier": "logoMastodon"
+    },
+    "logo-medium": {
+      "codepoint": 58116,
+      "fontFamily": "Famicons",
+      "identifier": "logoMedium"
+    },
+    "logo-microsoft": {
+      "codepoint": 58117,
+      "fontFamily": "Famicons",
+      "identifier": "logoMicrosoft"
+    },
+    "logo-no-smoking": {
+      "codepoint": 58118,
+      "fontFamily": "Famicons",
+      "identifier": "logoNoSmoking"
+    },
+    "logo-nodejs": {
+      "codepoint": 58119,
+      "fontFamily": "Famicons",
+      "identifier": "logoNodejs"
+    },
+    "logo-npm": {
+      "codepoint": 58120,
+      "fontFamily": "Famicons",
+      "identifier": "logoNpm"
+    },
+    "logo-octocat": {
+      "codepoint": 58121,
+      "fontFamily": "Famicons",
+      "identifier": "logoOctocat"
+    },
+    "logo-paypal": {
+      "codepoint": 58122,
+      "fontFamily": "Famicons",
+      "identifier": "logoPaypal"
+    },
+    "logo-pinterest": {
+      "codepoint": 58123,
+      "fontFamily": "Famicons",
+      "identifier": "logoPinterest"
+    },
+    "logo-playstation": {
+      "codepoint": 58124,
+      "fontFamily": "Famicons",
+      "identifier": "logoPlaystation"
+    },
+    "logo-pwa": {
+      "codepoint": 58125,
+      "fontFamily": "Famicons",
+      "identifier": "logoPwa"
+    },
+    "logo-python": {
+      "codepoint": 58126,
+      "fontFamily": "Famicons",
+      "identifier": "logoPython"
+    },
+    "logo-react": {
+      "codepoint": 58127,
+      "fontFamily": "Famicons",
+      "identifier": "logoReact"
+    },
+    "logo-reddit": {
+      "codepoint": 58128,
+      "fontFamily": "Famicons",
+      "identifier": "logoReddit"
+    },
+    "logo-rindo": {
+      "codepoint": 58129,
+      "fontFamily": "Famicons",
+      "identifier": "logoRindo"
+    },
+    "logo-rss": {
+      "codepoint": 58130,
+      "fontFamily": "Famicons",
+      "identifier": "logoRss"
+    },
+    "logo-sass": {
+      "codepoint": 58131,
+      "fontFamily": "Famicons",
+      "identifier": "logoSass"
+    },
+    "logo-skype": {
+      "codepoint": 58132,
+      "fontFamily": "Famicons",
+      "identifier": "logoSkype"
+    },
+    "logo-slack": {
+      "codepoint": 58133,
+      "fontFamily": "Famicons",
+      "identifier": "logoSlack"
+    },
+    "logo-snapchat": {
+      "codepoint": 58134,
+      "fontFamily": "Famicons",
+      "identifier": "logoSnapchat"
+    },
+    "logo-soundcloud": {
+      "codepoint": 58135,
+      "fontFamily": "Famicons",
+      "identifier": "logoSoundcloud"
+    },
+    "logo-stackoverflow": {
+      "codepoint": 58136,
+      "fontFamily": "Famicons",
+      "identifier": "logoStackoverflow"
+    },
+    "logo-steam": {
+      "codepoint": 58137,
+      "fontFamily": "Famicons",
+      "identifier": "logoSteam"
+    },
+    "logo-stencil": {
+      "codepoint": 58138,
+      "fontFamily": "Famicons",
+      "identifier": "logoStencil"
+    },
+    "logo-tableau": {
+      "codepoint": 58139,
+      "fontFamily": "Famicons",
+      "identifier": "logoTableau"
+    },
+    "logo-tiktok": {
+      "codepoint": 58140,
+      "fontFamily": "Famicons",
+      "identifier": "logoTiktok"
+    },
+    "logo-tumblr": {
+      "codepoint": 58141,
+      "fontFamily": "Famicons",
+      "identifier": "logoTumblr"
+    },
+    "logo-tux": {
+      "codepoint": 58142,
+      "fontFamily": "Famicons",
+      "identifier": "logoTux"
+    },
+    "logo-twitch": {
+      "codepoint": 58143,
+      "fontFamily": "Famicons",
+      "identifier": "logoTwitch"
+    },
+    "logo-twitter": {
+      "codepoint": 58144,
+      "fontFamily": "Famicons",
+      "identifier": "logoTwitter"
+    },
+    "logo-usd": {
+      "codepoint": 58145,
+      "fontFamily": "Famicons",
+      "identifier": "logoUsd"
+    },
+    "logo-venmo": {
+      "codepoint": 58146,
+      "fontFamily": "Famicons",
+      "identifier": "logoVenmo"
+    },
+    "logo-vercel": {
+      "codepoint": 58147,
+      "fontFamily": "Famicons",
+      "identifier": "logoVercel"
+    },
+    "logo-vimeo": {
+      "codepoint": 58148,
+      "fontFamily": "Famicons",
+      "identifier": "logoVimeo"
+    },
+    "logo-vk": {
+      "codepoint": 58149,
+      "fontFamily": "Famicons",
+      "identifier": "logoVk"
+    },
+    "logo-vue": {
+      "codepoint": 58150,
+      "fontFamily": "Famicons",
+      "identifier": "logoVue"
+    },
+    "logo-web-component": {
+      "codepoint": 58151,
+      "fontFamily": "Famicons",
+      "identifier": "logoWebComponent"
+    },
+    "logo-wechat": {
+      "codepoint": 58152,
+      "fontFamily": "Famicons",
+      "identifier": "logoWechat"
+    },
+    "logo-whatsapp": {
+      "codepoint": 58153,
+      "fontFamily": "Famicons",
+      "identifier": "logoWhatsapp"
+    },
+    "logo-windows": {
+      "codepoint": 58154,
+      "fontFamily": "Famicons",
+      "identifier": "logoWindows"
+    },
+    "logo-wordpress": {
+      "codepoint": 58155,
+      "fontFamily": "Famicons",
+      "identifier": "logoWordpress"
+    },
+    "logo-xbox": {
+      "codepoint": 58156,
+      "fontFamily": "Famicons",
+      "identifier": "logoXbox"
+    },
+    "logo-xing": {
+      "codepoint": 58157,
+      "fontFamily": "Famicons",
+      "identifier": "logoXing"
+    },
+    "logo-yahoo": {
+      "codepoint": 58158,
+      "fontFamily": "Famicons",
+      "identifier": "logoYahoo"
+    },
+    "logo-yen": {
+      "codepoint": 58159,
+      "fontFamily": "Famicons",
+      "identifier": "logoYen"
+    },
+    "logo-youtube": {
+      "codepoint": 58160,
+      "fontFamily": "Famicons",
+      "identifier": "logoYoutube"
+    },
+    "magnet": {
+      "codepoint": 58161,
+      "fontFamily": "Famicons",
+      "identifier": "magnet"
+    },
+    "magnet-outline": {
+      "codepoint": 58162,
+      "fontFamily": "Famicons",
+      "identifier": "magnetOutline"
+    },
+    "magnet-sharp": {
+      "codepoint": 58163,
+      "fontFamily": "Famicons",
+      "identifier": "magnetSharp"
+    },
+    "mail": {
+      "codepoint": 58164,
+      "fontFamily": "Famicons",
+      "identifier": "mail"
+    },
+    "mail-open": {
+      "codepoint": 58165,
+      "fontFamily": "Famicons",
+      "identifier": "mailOpen"
+    },
+    "mail-open-outline": {
+      "codepoint": 58166,
+      "fontFamily": "Famicons",
+      "identifier": "mailOpenOutline"
+    },
+    "mail-open-sharp": {
+      "codepoint": 58167,
+      "fontFamily": "Famicons",
+      "identifier": "mailOpenSharp"
+    },
+    "mail-outline": {
+      "codepoint": 58168,
+      "fontFamily": "Famicons",
+      "identifier": "mailOutline"
+    },
+    "mail-sharp": {
+      "codepoint": 58169,
+      "fontFamily": "Famicons",
+      "identifier": "mailSharp"
+    },
+    "mail-unread": {
+      "codepoint": 58170,
+      "fontFamily": "Famicons",
+      "identifier": "mailUnread"
+    },
+    "mail-unread-outline": {
+      "codepoint": 58171,
+      "fontFamily": "Famicons",
+      "identifier": "mailUnreadOutline"
+    },
+    "mail-unread-sharp": {
+      "codepoint": 58172,
+      "fontFamily": "Famicons",
+      "identifier": "mailUnreadSharp"
+    },
+    "male": {
+      "codepoint": 58173,
+      "fontFamily": "Famicons",
+      "identifier": "male"
+    },
+    "male-female": {
+      "codepoint": 58174,
+      "fontFamily": "Famicons",
+      "identifier": "maleFemale"
+    },
+    "male-female-outline": {
+      "codepoint": 58175,
+      "fontFamily": "Famicons",
+      "identifier": "maleFemaleOutline"
+    },
+    "male-female-sharp": {
+      "codepoint": 58176,
+      "fontFamily": "Famicons",
+      "identifier": "maleFemaleSharp"
+    },
+    "male-outline": {
+      "codepoint": 58177,
+      "fontFamily": "Famicons",
+      "identifier": "maleOutline"
+    },
+    "male-sharp": {
+      "codepoint": 58178,
+      "fontFamily": "Famicons",
+      "identifier": "maleSharp"
+    },
+    "man": {
+      "codepoint": 58179,
+      "fontFamily": "Famicons",
+      "identifier": "man"
+    },
+    "man-outline": {
+      "codepoint": 58180,
+      "fontFamily": "Famicons",
+      "identifier": "manOutline"
+    },
+    "man-sharp": {
+      "codepoint": 58181,
+      "fontFamily": "Famicons",
+      "identifier": "manSharp"
+    },
+    "map": {
+      "codepoint": 58182,
+      "fontFamily": "Famicons",
+      "identifier": "map"
+    },
+    "map-outline": {
+      "codepoint": 58183,
+      "fontFamily": "Famicons",
+      "identifier": "mapOutline"
+    },
+    "map-sharp": {
+      "codepoint": 58184,
+      "fontFamily": "Famicons",
+      "identifier": "mapSharp"
+    },
+    "medal": {
+      "codepoint": 58185,
+      "fontFamily": "Famicons",
+      "identifier": "medal"
+    },
+    "medal-outline": {
+      "codepoint": 58186,
+      "fontFamily": "Famicons",
+      "identifier": "medalOutline"
+    },
+    "medal-sharp": {
+      "codepoint": 58187,
+      "fontFamily": "Famicons",
+      "identifier": "medalSharp"
+    },
+    "medical": {
+      "codepoint": 58188,
+      "fontFamily": "Famicons",
+      "identifier": "medical"
+    },
+    "medical-outline": {
+      "codepoint": 58189,
+      "fontFamily": "Famicons",
+      "identifier": "medicalOutline"
+    },
+    "medical-sharp": {
+      "codepoint": 58190,
+      "fontFamily": "Famicons",
+      "identifier": "medicalSharp"
+    },
+    "medkit": {
+      "codepoint": 58191,
+      "fontFamily": "Famicons",
+      "identifier": "medkit"
+    },
+    "medkit-outline": {
+      "codepoint": 58192,
+      "fontFamily": "Famicons",
+      "identifier": "medkitOutline"
+    },
+    "medkit-sharp": {
+      "codepoint": 58193,
+      "fontFamily": "Famicons",
+      "identifier": "medkitSharp"
+    },
+    "megaphone": {
+      "codepoint": 58194,
+      "fontFamily": "Famicons",
+      "identifier": "megaphone"
+    },
+    "megaphone-outline": {
+      "codepoint": 58195,
+      "fontFamily": "Famicons",
+      "identifier": "megaphoneOutline"
+    },
+    "megaphone-sharp": {
+      "codepoint": 58196,
+      "fontFamily": "Famicons",
+      "identifier": "megaphoneSharp"
+    },
+    "menu": {
+      "codepoint": 58197,
+      "fontFamily": "Famicons",
+      "identifier": "menu"
+    },
+    "menu-outline": {
+      "codepoint": 58198,
+      "fontFamily": "Famicons",
+      "identifier": "menuOutline"
+    },
+    "menu-sharp": {
+      "codepoint": 58199,
+      "fontFamily": "Famicons",
+      "identifier": "menuSharp"
+    },
+    "mic": {
+      "codepoint": 58200,
+      "fontFamily": "Famicons",
+      "identifier": "mic"
+    },
+    "mic-circle": {
+      "codepoint": 58201,
+      "fontFamily": "Famicons",
+      "identifier": "micCircle"
+    },
+    "mic-circle-outline": {
+      "codepoint": 58202,
+      "fontFamily": "Famicons",
+      "identifier": "micCircleOutline"
+    },
+    "mic-circle-sharp": {
+      "codepoint": 58203,
+      "fontFamily": "Famicons",
+      "identifier": "micCircleSharp"
+    },
+    "mic-off": {
+      "codepoint": 58204,
+      "fontFamily": "Famicons",
+      "identifier": "micOff"
+    },
+    "mic-off-circle": {
+      "codepoint": 58205,
+      "fontFamily": "Famicons",
+      "identifier": "micOffCircle"
+    },
+    "mic-off-circle-outline": {
+      "codepoint": 58206,
+      "fontFamily": "Famicons",
+      "identifier": "micOffCircleOutline"
+    },
+    "mic-off-circle-sharp": {
+      "codepoint": 58207,
+      "fontFamily": "Famicons",
+      "identifier": "micOffCircleSharp"
+    },
+    "mic-off-outline": {
+      "codepoint": 58208,
+      "fontFamily": "Famicons",
+      "identifier": "micOffOutline"
+    },
+    "mic-off-sharp": {
+      "codepoint": 58209,
+      "fontFamily": "Famicons",
+      "identifier": "micOffSharp"
+    },
+    "mic-outline": {
+      "codepoint": 58210,
+      "fontFamily": "Famicons",
+      "identifier": "micOutline"
+    },
+    "mic-sharp": {
+      "codepoint": 58211,
+      "fontFamily": "Famicons",
+      "identifier": "micSharp"
+    },
+    "moon": {
+      "codepoint": 58212,
+      "fontFamily": "Famicons",
+      "identifier": "moon"
+    },
+    "moon-outline": {
+      "codepoint": 58213,
+      "fontFamily": "Famicons",
+      "identifier": "moonOutline"
+    },
+    "moon-sharp": {
+      "codepoint": 58214,
+      "fontFamily": "Famicons",
+      "identifier": "moonSharp"
+    },
+    "move": {
+      "codepoint": 58215,
+      "fontFamily": "Famicons",
+      "identifier": "move"
+    },
+    "move-outline": {
+      "codepoint": 58216,
+      "fontFamily": "Famicons",
+      "identifier": "moveOutline"
+    },
+    "move-sharp": {
+      "codepoint": 58217,
+      "fontFamily": "Famicons",
+      "identifier": "moveSharp"
+    },
+    "musical-note": {
+      "codepoint": 58218,
+      "fontFamily": "Famicons",
+      "identifier": "musicalNote"
+    },
+    "musical-note-outline": {
+      "codepoint": 58219,
+      "fontFamily": "Famicons",
+      "identifier": "musicalNoteOutline"
+    },
+    "musical-note-sharp": {
+      "codepoint": 58220,
+      "fontFamily": "Famicons",
+      "identifier": "musicalNoteSharp"
+    },
+    "musical-notes": {
+      "codepoint": 58221,
+      "fontFamily": "Famicons",
+      "identifier": "musicalNotes"
+    },
+    "musical-notes-outline": {
+      "codepoint": 58222,
+      "fontFamily": "Famicons",
+      "identifier": "musicalNotesOutline"
+    },
+    "musical-notes-sharp": {
+      "codepoint": 58223,
+      "fontFamily": "Famicons",
+      "identifier": "musicalNotesSharp"
+    },
+    "navigate": {
+      "codepoint": 58224,
+      "fontFamily": "Famicons",
+      "identifier": "navigate"
+    },
+    "navigate-circle": {
+      "codepoint": 58225,
+      "fontFamily": "Famicons",
+      "identifier": "navigateCircle"
+    },
+    "navigate-circle-outline": {
+      "codepoint": 58226,
+      "fontFamily": "Famicons",
+      "identifier": "navigateCircleOutline"
+    },
+    "navigate-circle-sharp": {
+      "codepoint": 58227,
+      "fontFamily": "Famicons",
+      "identifier": "navigateCircleSharp"
+    },
+    "navigate-outline": {
+      "codepoint": 58228,
+      "fontFamily": "Famicons",
+      "identifier": "navigateOutline"
+    },
+    "navigate-sharp": {
+      "codepoint": 58229,
+      "fontFamily": "Famicons",
+      "identifier": "navigateSharp"
+    },
+    "newspaper": {
+      "codepoint": 58230,
+      "fontFamily": "Famicons",
+      "identifier": "newspaper"
+    },
+    "newspaper-outline": {
+      "codepoint": 58231,
+      "fontFamily": "Famicons",
+      "identifier": "newspaperOutline"
+    },
+    "newspaper-sharp": {
+      "codepoint": 58232,
+      "fontFamily": "Famicons",
+      "identifier": "newspaperSharp"
+    },
+    "notifications": {
+      "codepoint": 58233,
+      "fontFamily": "Famicons",
+      "identifier": "notifications"
+    },
+    "notifications-circle": {
+      "codepoint": 58234,
+      "fontFamily": "Famicons",
+      "identifier": "notificationsCircle"
+    },
+    "notifications-circle-outline": {
+      "codepoint": 58235,
+      "fontFamily": "Famicons",
+      "identifier": "notificationsCircleOutline"
+    },
+    "notifications-circle-sharp": {
+      "codepoint": 58236,
+      "fontFamily": "Famicons",
+      "identifier": "notificationsCircleSharp"
+    },
+    "notifications-off": {
+      "codepoint": 58237,
+      "fontFamily": "Famicons",
+      "identifier": "notificationsOff"
+    },
+    "notifications-off-circle": {
+      "codepoint": 58238,
+      "fontFamily": "Famicons",
+      "identifier": "notificationsOffCircle"
+    },
+    "notifications-off-circle-outline": {
+      "codepoint": 58239,
+      "fontFamily": "Famicons",
+      "identifier": "notificationsOffCircleOutline"
+    },
+    "notifications-off-circle-sharp": {
+      "codepoint": 58240,
+      "fontFamily": "Famicons",
+      "identifier": "notificationsOffCircleSharp"
+    },
+    "notifications-off-outline": {
+      "codepoint": 58241,
+      "fontFamily": "Famicons",
+      "identifier": "notificationsOffOutline"
+    },
+    "notifications-off-sharp": {
+      "codepoint": 58242,
+      "fontFamily": "Famicons",
+      "identifier": "notificationsOffSharp"
+    },
+    "notifications-outline": {
+      "codepoint": 58243,
+      "fontFamily": "Famicons",
+      "identifier": "notificationsOutline"
+    },
+    "notifications-sharp": {
+      "codepoint": 58244,
+      "fontFamily": "Famicons",
+      "identifier": "notificationsSharp"
+    },
+    "nuclear": {
+      "codepoint": 58245,
+      "fontFamily": "Famicons",
+      "identifier": "nuclear"
+    },
+    "nuclear-outline": {
+      "codepoint": 58246,
+      "fontFamily": "Famicons",
+      "identifier": "nuclearOutline"
+    },
+    "nuclear-sharp": {
+      "codepoint": 58247,
+      "fontFamily": "Famicons",
+      "identifier": "nuclearSharp"
+    },
+    "nutrition": {
+      "codepoint": 58248,
+      "fontFamily": "Famicons",
+      "identifier": "nutrition"
+    },
+    "nutrition-outline": {
+      "codepoint": 58249,
+      "fontFamily": "Famicons",
+      "identifier": "nutritionOutline"
+    },
+    "nutrition-sharp": {
+      "codepoint": 58250,
+      "fontFamily": "Famicons",
+      "identifier": "nutritionSharp"
+    },
+    "open": {
+      "codepoint": 58251,
+      "fontFamily": "Famicons",
+      "identifier": "open"
+    },
+    "open-outline": {
+      "codepoint": 58252,
+      "fontFamily": "Famicons",
+      "identifier": "openOutline"
+    },
+    "open-sharp": {
+      "codepoint": 58253,
+      "fontFamily": "Famicons",
+      "identifier": "openSharp"
+    },
+    "options": {
+      "codepoint": 58254,
+      "fontFamily": "Famicons",
+      "identifier": "options"
+    },
+    "options-outline": {
+      "codepoint": 58255,
+      "fontFamily": "Famicons",
+      "identifier": "optionsOutline"
+    },
+    "options-sharp": {
+      "codepoint": 58256,
+      "fontFamily": "Famicons",
+      "identifier": "optionsSharp"
+    },
+    "paper-plane": {
+      "codepoint": 58257,
+      "fontFamily": "Famicons",
+      "identifier": "paperPlane"
+    },
+    "paper-plane-outline": {
+      "codepoint": 58258,
+      "fontFamily": "Famicons",
+      "identifier": "paperPlaneOutline"
+    },
+    "paper-plane-sharp": {
+      "codepoint": 58259,
+      "fontFamily": "Famicons",
+      "identifier": "paperPlaneSharp"
+    },
+    "partly-sunny": {
+      "codepoint": 58260,
+      "fontFamily": "Famicons",
+      "identifier": "partlySunny"
+    },
+    "partly-sunny-outline": {
+      "codepoint": 58261,
+      "fontFamily": "Famicons",
+      "identifier": "partlySunnyOutline"
+    },
+    "partly-sunny-sharp": {
+      "codepoint": 58262,
+      "fontFamily": "Famicons",
+      "identifier": "partlySunnySharp"
+    },
+    "pause": {
+      "codepoint": 58263,
+      "fontFamily": "Famicons",
+      "identifier": "pause"
+    },
+    "pause-circle": {
+      "codepoint": 58264,
+      "fontFamily": "Famicons",
+      "identifier": "pauseCircle"
+    },
+    "pause-circle-outline": {
+      "codepoint": 58265,
+      "fontFamily": "Famicons",
+      "identifier": "pauseCircleOutline"
+    },
+    "pause-circle-sharp": {
+      "codepoint": 58266,
+      "fontFamily": "Famicons",
+      "identifier": "pauseCircleSharp"
+    },
+    "pause-outline": {
+      "codepoint": 58267,
+      "fontFamily": "Famicons",
+      "identifier": "pauseOutline"
+    },
+    "pause-sharp": {
+      "codepoint": 58268,
+      "fontFamily": "Famicons",
+      "identifier": "pauseSharp"
+    },
+    "paw": {
+      "codepoint": 58269,
+      "fontFamily": "Famicons",
+      "identifier": "paw"
+    },
+    "paw-outline": {
+      "codepoint": 58270,
+      "fontFamily": "Famicons",
+      "identifier": "pawOutline"
+    },
+    "paw-sharp": {
+      "codepoint": 58271,
+      "fontFamily": "Famicons",
+      "identifier": "pawSharp"
+    },
+    "pencil": {
+      "codepoint": 58272,
+      "fontFamily": "Famicons",
+      "identifier": "pencil"
+    },
+    "pencil-outline": {
+      "codepoint": 58273,
+      "fontFamily": "Famicons",
+      "identifier": "pencilOutline"
+    },
+    "pencil-sharp": {
+      "codepoint": 58274,
+      "fontFamily": "Famicons",
+      "identifier": "pencilSharp"
+    },
+    "people": {
+      "codepoint": 58275,
+      "fontFamily": "Famicons",
+      "identifier": "people"
+    },
+    "people-circle": {
+      "codepoint": 58276,
+      "fontFamily": "Famicons",
+      "identifier": "peopleCircle"
+    },
+    "people-circle-outline": {
+      "codepoint": 58277,
+      "fontFamily": "Famicons",
+      "identifier": "peopleCircleOutline"
+    },
+    "people-circle-sharp": {
+      "codepoint": 58278,
+      "fontFamily": "Famicons",
+      "identifier": "peopleCircleSharp"
+    },
+    "people-outline": {
+      "codepoint": 58279,
+      "fontFamily": "Famicons",
+      "identifier": "peopleOutline"
+    },
+    "people-sharp": {
+      "codepoint": 58280,
+      "fontFamily": "Famicons",
+      "identifier": "peopleSharp"
+    },
+    "person": {
+      "codepoint": 58281,
+      "fontFamily": "Famicons",
+      "identifier": "person"
+    },
+    "person-add": {
+      "codepoint": 58282,
+      "fontFamily": "Famicons",
+      "identifier": "personAdd"
+    },
+    "person-add-outline": {
+      "codepoint": 58283,
+      "fontFamily": "Famicons",
+      "identifier": "personAddOutline"
+    },
+    "person-add-sharp": {
+      "codepoint": 58284,
+      "fontFamily": "Famicons",
+      "identifier": "personAddSharp"
+    },
+    "person-circle": {
+      "codepoint": 58285,
+      "fontFamily": "Famicons",
+      "identifier": "personCircle"
+    },
+    "person-circle-outline": {
+      "codepoint": 58286,
+      "fontFamily": "Famicons",
+      "identifier": "personCircleOutline"
+    },
+    "person-circle-sharp": {
+      "codepoint": 58287,
+      "fontFamily": "Famicons",
+      "identifier": "personCircleSharp"
+    },
+    "person-outline": {
+      "codepoint": 58288,
+      "fontFamily": "Famicons",
+      "identifier": "personOutline"
+    },
+    "person-remove": {
+      "codepoint": 58289,
+      "fontFamily": "Famicons",
+      "identifier": "personRemove"
+    },
+    "person-remove-outline": {
+      "codepoint": 58290,
+      "fontFamily": "Famicons",
+      "identifier": "personRemoveOutline"
+    },
+    "person-remove-sharp": {
+      "codepoint": 58291,
+      "fontFamily": "Famicons",
+      "identifier": "personRemoveSharp"
+    },
+    "person-sharp": {
+      "codepoint": 58292,
+      "fontFamily": "Famicons",
+      "identifier": "personSharp"
+    },
+    "phone-landscape": {
+      "codepoint": 58293,
+      "fontFamily": "Famicons",
+      "identifier": "phoneLandscape"
+    },
+    "phone-landscape-outline": {
+      "codepoint": 58294,
+      "fontFamily": "Famicons",
+      "identifier": "phoneLandscapeOutline"
+    },
+    "phone-landscape-sharp": {
+      "codepoint": 58295,
+      "fontFamily": "Famicons",
+      "identifier": "phoneLandscapeSharp"
+    },
+    "phone-portrait": {
+      "codepoint": 58296,
+      "fontFamily": "Famicons",
+      "identifier": "phonePortrait"
+    },
+    "phone-portrait-outline": {
+      "codepoint": 58297,
+      "fontFamily": "Famicons",
+      "identifier": "phonePortraitOutline"
+    },
+    "phone-portrait-sharp": {
+      "codepoint": 58298,
+      "fontFamily": "Famicons",
+      "identifier": "phonePortraitSharp"
+    },
+    "pie-chart": {
+      "codepoint": 58299,
+      "fontFamily": "Famicons",
+      "identifier": "pieChart"
+    },
+    "pie-chart-outline": {
+      "codepoint": 58300,
+      "fontFamily": "Famicons",
+      "identifier": "pieChartOutline"
+    },
+    "pie-chart-sharp": {
+      "codepoint": 58301,
+      "fontFamily": "Famicons",
+      "identifier": "pieChartSharp"
+    },
+    "pin": {
+      "codepoint": 58302,
+      "fontFamily": "Famicons",
+      "identifier": "pin"
+    },
+    "pin-outline": {
+      "codepoint": 58303,
+      "fontFamily": "Famicons",
+      "identifier": "pinOutline"
+    },
+    "pin-sharp": {
+      "codepoint": 58304,
+      "fontFamily": "Famicons",
+      "identifier": "pinSharp"
+    },
+    "pint": {
+      "codepoint": 58305,
+      "fontFamily": "Famicons",
+      "identifier": "pint"
+    },
+    "pint-outline": {
+      "codepoint": 58306,
+      "fontFamily": "Famicons",
+      "identifier": "pintOutline"
+    },
+    "pint-sharp": {
+      "codepoint": 58307,
+      "fontFamily": "Famicons",
+      "identifier": "pintSharp"
+    },
+    "pizza": {
+      "codepoint": 58308,
+      "fontFamily": "Famicons",
+      "identifier": "pizza"
+    },
+    "pizza-outline": {
+      "codepoint": 58309,
+      "fontFamily": "Famicons",
+      "identifier": "pizzaOutline"
+    },
+    "pizza-sharp": {
+      "codepoint": 58310,
+      "fontFamily": "Famicons",
+      "identifier": "pizzaSharp"
+    },
+    "planet": {
+      "codepoint": 58311,
+      "fontFamily": "Famicons",
+      "identifier": "planet"
+    },
+    "planet-outline": {
+      "codepoint": 58312,
+      "fontFamily": "Famicons",
+      "identifier": "planetOutline"
+    },
+    "planet-sharp": {
+      "codepoint": 58313,
+      "fontFamily": "Famicons",
+      "identifier": "planetSharp"
+    },
+    "play": {
+      "codepoint": 58314,
+      "fontFamily": "Famicons",
+      "identifier": "play"
+    },
+    "play-back": {
+      "codepoint": 58315,
+      "fontFamily": "Famicons",
+      "identifier": "playBack"
+    },
+    "play-back-circle": {
+      "codepoint": 58316,
+      "fontFamily": "Famicons",
+      "identifier": "playBackCircle"
+    },
+    "play-back-circle-outline": {
+      "codepoint": 58317,
+      "fontFamily": "Famicons",
+      "identifier": "playBackCircleOutline"
+    },
+    "play-back-circle-sharp": {
+      "codepoint": 58318,
+      "fontFamily": "Famicons",
+      "identifier": "playBackCircleSharp"
+    },
+    "play-back-outline": {
+      "codepoint": 58319,
+      "fontFamily": "Famicons",
+      "identifier": "playBackOutline"
+    },
+    "play-back-sharp": {
+      "codepoint": 58320,
+      "fontFamily": "Famicons",
+      "identifier": "playBackSharp"
+    },
+    "play-circle": {
+      "codepoint": 58321,
+      "fontFamily": "Famicons",
+      "identifier": "playCircle"
+    },
+    "play-circle-outline": {
+      "codepoint": 58322,
+      "fontFamily": "Famicons",
+      "identifier": "playCircleOutline"
+    },
+    "play-circle-sharp": {
+      "codepoint": 58323,
+      "fontFamily": "Famicons",
+      "identifier": "playCircleSharp"
+    },
+    "play-forward": {
+      "codepoint": 58324,
+      "fontFamily": "Famicons",
+      "identifier": "playForward"
+    },
+    "play-forward-circle": {
+      "codepoint": 58325,
+      "fontFamily": "Famicons",
+      "identifier": "playForwardCircle"
+    },
+    "play-forward-circle-outline": {
+      "codepoint": 58326,
+      "fontFamily": "Famicons",
+      "identifier": "playForwardCircleOutline"
+    },
+    "play-forward-circle-sharp": {
+      "codepoint": 58327,
+      "fontFamily": "Famicons",
+      "identifier": "playForwardCircleSharp"
+    },
+    "play-forward-outline": {
+      "codepoint": 58328,
+      "fontFamily": "Famicons",
+      "identifier": "playForwardOutline"
+    },
+    "play-forward-sharp": {
+      "codepoint": 58329,
+      "fontFamily": "Famicons",
+      "identifier": "playForwardSharp"
+    },
+    "play-outline": {
+      "codepoint": 58330,
+      "fontFamily": "Famicons",
+      "identifier": "playOutline"
+    },
+    "play-sharp": {
+      "codepoint": 58331,
+      "fontFamily": "Famicons",
+      "identifier": "playSharp"
+    },
+    "play-skip-back": {
+      "codepoint": 58332,
+      "fontFamily": "Famicons",
+      "identifier": "playSkipBack"
+    },
+    "play-skip-back-circle": {
+      "codepoint": 58333,
+      "fontFamily": "Famicons",
+      "identifier": "playSkipBackCircle"
+    },
+    "play-skip-back-circle-outline": {
+      "codepoint": 58334,
+      "fontFamily": "Famicons",
+      "identifier": "playSkipBackCircleOutline"
+    },
+    "play-skip-back-circle-sharp": {
+      "codepoint": 58335,
+      "fontFamily": "Famicons",
+      "identifier": "playSkipBackCircleSharp"
+    },
+    "play-skip-back-outline": {
+      "codepoint": 58336,
+      "fontFamily": "Famicons",
+      "identifier": "playSkipBackOutline"
+    },
+    "play-skip-back-sharp": {
+      "codepoint": 58337,
+      "fontFamily": "Famicons",
+      "identifier": "playSkipBackSharp"
+    },
+    "play-skip-forward": {
+      "codepoint": 58338,
+      "fontFamily": "Famicons",
+      "identifier": "playSkipForward"
+    },
+    "play-skip-forward-circle": {
+      "codepoint": 58339,
+      "fontFamily": "Famicons",
+      "identifier": "playSkipForwardCircle"
+    },
+    "play-skip-forward-circle-outline": {
+      "codepoint": 58340,
+      "fontFamily": "Famicons",
+      "identifier": "playSkipForwardCircleOutline"
+    },
+    "play-skip-forward-circle-sharp": {
+      "codepoint": 58341,
+      "fontFamily": "Famicons",
+      "identifier": "playSkipForwardCircleSharp"
+    },
+    "play-skip-forward-outline": {
+      "codepoint": 58342,
+      "fontFamily": "Famicons",
+      "identifier": "playSkipForwardOutline"
+    },
+    "play-skip-forward-sharp": {
+      "codepoint": 58343,
+      "fontFamily": "Famicons",
+      "identifier": "playSkipForwardSharp"
+    },
+    "podium": {
+      "codepoint": 58344,
+      "fontFamily": "Famicons",
+      "identifier": "podium"
+    },
+    "podium-outline": {
+      "codepoint": 58345,
+      "fontFamily": "Famicons",
+      "identifier": "podiumOutline"
+    },
+    "podium-sharp": {
+      "codepoint": 58346,
+      "fontFamily": "Famicons",
+      "identifier": "podiumSharp"
+    },
+    "power": {
+      "codepoint": 58347,
+      "fontFamily": "Famicons",
+      "identifier": "power"
+    },
+    "power-outline": {
+      "codepoint": 58348,
+      "fontFamily": "Famicons",
+      "identifier": "powerOutline"
+    },
+    "power-sharp": {
+      "codepoint": 58349,
+      "fontFamily": "Famicons",
+      "identifier": "powerSharp"
+    },
+    "pricetag": {
+      "codepoint": 58350,
+      "fontFamily": "Famicons",
+      "identifier": "pricetag"
+    },
+    "pricetag-outline": {
+      "codepoint": 58351,
+      "fontFamily": "Famicons",
+      "identifier": "pricetagOutline"
+    },
+    "pricetag-sharp": {
+      "codepoint": 58352,
+      "fontFamily": "Famicons",
+      "identifier": "pricetagSharp"
+    },
+    "pricetags": {
+      "codepoint": 58353,
+      "fontFamily": "Famicons",
+      "identifier": "pricetags"
+    },
+    "pricetags-outline": {
+      "codepoint": 58354,
+      "fontFamily": "Famicons",
+      "identifier": "pricetagsOutline"
+    },
+    "pricetags-sharp": {
+      "codepoint": 58355,
+      "fontFamily": "Famicons",
+      "identifier": "pricetagsSharp"
+    },
+    "print": {
+      "codepoint": 58356,
+      "fontFamily": "Famicons",
+      "identifier": "print"
+    },
+    "print-outline": {
+      "codepoint": 58357,
+      "fontFamily": "Famicons",
+      "identifier": "printOutline"
+    },
+    "print-sharp": {
+      "codepoint": 58358,
+      "fontFamily": "Famicons",
+      "identifier": "printSharp"
+    },
+    "prism": {
+      "codepoint": 58359,
+      "fontFamily": "Famicons",
+      "identifier": "prism"
+    },
+    "prism-outline": {
+      "codepoint": 58360,
+      "fontFamily": "Famicons",
+      "identifier": "prismOutline"
+    },
+    "prism-sharp": {
+      "codepoint": 58361,
+      "fontFamily": "Famicons",
+      "identifier": "prismSharp"
+    },
+    "pulse": {
+      "codepoint": 58362,
+      "fontFamily": "Famicons",
+      "identifier": "pulse"
+    },
+    "pulse-outline": {
+      "codepoint": 58363,
+      "fontFamily": "Famicons",
+      "identifier": "pulseOutline"
+    },
+    "pulse-sharp": {
+      "codepoint": 58364,
+      "fontFamily": "Famicons",
+      "identifier": "pulseSharp"
+    },
+    "push": {
+      "codepoint": 58365,
+      "fontFamily": "Famicons",
+      "identifier": "push"
+    },
+    "push-outline": {
+      "codepoint": 58366,
+      "fontFamily": "Famicons",
+      "identifier": "pushOutline"
+    },
+    "push-sharp": {
+      "codepoint": 58367,
+      "fontFamily": "Famicons",
+      "identifier": "pushSharp"
+    },
+    "qr-code": {
+      "codepoint": 58368,
+      "fontFamily": "Famicons",
+      "identifier": "qrCode"
+    },
+    "qr-code-outline": {
+      "codepoint": 58369,
+      "fontFamily": "Famicons",
+      "identifier": "qrCodeOutline"
+    },
+    "qr-code-sharp": {
+      "codepoint": 58370,
+      "fontFamily": "Famicons",
+      "identifier": "qrCodeSharp"
+    },
+    "radio": {
+      "codepoint": 58371,
+      "fontFamily": "Famicons",
+      "identifier": "radio"
+    },
+    "radio-button-off": {
+      "codepoint": 58372,
+      "fontFamily": "Famicons",
+      "identifier": "radioButtonOff"
+    },
+    "radio-button-off-outline": {
+      "codepoint": 58373,
+      "fontFamily": "Famicons",
+      "identifier": "radioButtonOffOutline"
+    },
+    "radio-button-off-sharp": {
+      "codepoint": 58374,
+      "fontFamily": "Famicons",
+      "identifier": "radioButtonOffSharp"
+    },
+    "radio-button-on": {
+      "codepoint": 58375,
+      "fontFamily": "Famicons",
+      "identifier": "radioButtonOn"
+    },
+    "radio-button-on-outline": {
+      "codepoint": 58376,
+      "fontFamily": "Famicons",
+      "identifier": "radioButtonOnOutline"
+    },
+    "radio-button-on-sharp": {
+      "codepoint": 58377,
+      "fontFamily": "Famicons",
+      "identifier": "radioButtonOnSharp"
+    },
+    "radio-outline": {
+      "codepoint": 58378,
+      "fontFamily": "Famicons",
+      "identifier": "radioOutline"
+    },
+    "radio-sharp": {
+      "codepoint": 58379,
+      "fontFamily": "Famicons",
+      "identifier": "radioSharp"
+    },
+    "rainy": {
+      "codepoint": 58380,
+      "fontFamily": "Famicons",
+      "identifier": "rainy"
+    },
+    "rainy-outline": {
+      "codepoint": 58381,
+      "fontFamily": "Famicons",
+      "identifier": "rainyOutline"
+    },
+    "rainy-sharp": {
+      "codepoint": 58382,
+      "fontFamily": "Famicons",
+      "identifier": "rainySharp"
+    },
+    "reader": {
+      "codepoint": 58383,
+      "fontFamily": "Famicons",
+      "identifier": "reader"
+    },
+    "reader-outline": {
+      "codepoint": 58384,
+      "fontFamily": "Famicons",
+      "identifier": "readerOutline"
+    },
+    "reader-sharp": {
+      "codepoint": 58385,
+      "fontFamily": "Famicons",
+      "identifier": "readerSharp"
+    },
+    "receipt": {
+      "codepoint": 58386,
+      "fontFamily": "Famicons",
+      "identifier": "receipt"
+    },
+    "receipt-outline": {
+      "codepoint": 58387,
+      "fontFamily": "Famicons",
+      "identifier": "receiptOutline"
+    },
+    "receipt-sharp": {
+      "codepoint": 58388,
+      "fontFamily": "Famicons",
+      "identifier": "receiptSharp"
+    },
+    "recording": {
+      "codepoint": 58389,
+      "fontFamily": "Famicons",
+      "identifier": "recording"
+    },
+    "recording-outline": {
+      "codepoint": 58390,
+      "fontFamily": "Famicons",
+      "identifier": "recordingOutline"
+    },
+    "recording-sharp": {
+      "codepoint": 58391,
+      "fontFamily": "Famicons",
+      "identifier": "recordingSharp"
+    },
+    "refresh": {
+      "codepoint": 58392,
+      "fontFamily": "Famicons",
+      "identifier": "refresh"
+    },
+    "refresh-circle": {
+      "codepoint": 58393,
+      "fontFamily": "Famicons",
+      "identifier": "refreshCircle"
+    },
+    "refresh-circle-outline": {
+      "codepoint": 58394,
+      "fontFamily": "Famicons",
+      "identifier": "refreshCircleOutline"
+    },
+    "refresh-circle-sharp": {
+      "codepoint": 58395,
+      "fontFamily": "Famicons",
+      "identifier": "refreshCircleSharp"
+    },
+    "refresh-outline": {
+      "codepoint": 58396,
+      "fontFamily": "Famicons",
+      "identifier": "refreshOutline"
+    },
+    "refresh-sharp": {
+      "codepoint": 58397,
+      "fontFamily": "Famicons",
+      "identifier": "refreshSharp"
+    },
+    "reload": {
+      "codepoint": 58398,
+      "fontFamily": "Famicons",
+      "identifier": "reload"
+    },
+    "reload-circle": {
+      "codepoint": 58399,
+      "fontFamily": "Famicons",
+      "identifier": "reloadCircle"
+    },
+    "reload-circle-outline": {
+      "codepoint": 58400,
+      "fontFamily": "Famicons",
+      "identifier": "reloadCircleOutline"
+    },
+    "reload-circle-sharp": {
+      "codepoint": 58401,
+      "fontFamily": "Famicons",
+      "identifier": "reloadCircleSharp"
+    },
+    "reload-outline": {
+      "codepoint": 58402,
+      "fontFamily": "Famicons",
+      "identifier": "reloadOutline"
+    },
+    "reload-sharp": {
+      "codepoint": 58403,
+      "fontFamily": "Famicons",
+      "identifier": "reloadSharp"
+    },
+    "remove": {
+      "codepoint": 58404,
+      "fontFamily": "Famicons",
+      "identifier": "remove"
+    },
+    "remove-circle": {
+      "codepoint": 58405,
+      "fontFamily": "Famicons",
+      "identifier": "removeCircle"
+    },
+    "remove-circle-outline": {
+      "codepoint": 58406,
+      "fontFamily": "Famicons",
+      "identifier": "removeCircleOutline"
+    },
+    "remove-circle-sharp": {
+      "codepoint": 58407,
+      "fontFamily": "Famicons",
+      "identifier": "removeCircleSharp"
+    },
+    "remove-outline": {
+      "codepoint": 58408,
+      "fontFamily": "Famicons",
+      "identifier": "removeOutline"
+    },
+    "remove-sharp": {
+      "codepoint": 58409,
+      "fontFamily": "Famicons",
+      "identifier": "removeSharp"
+    },
+    "reorder-four": {
+      "codepoint": 58410,
+      "fontFamily": "Famicons",
+      "identifier": "reorderFour"
+    },
+    "reorder-four-outline": {
+      "codepoint": 58411,
+      "fontFamily": "Famicons",
+      "identifier": "reorderFourOutline"
+    },
+    "reorder-four-sharp": {
+      "codepoint": 58412,
+      "fontFamily": "Famicons",
+      "identifier": "reorderFourSharp"
+    },
+    "reorder-three": {
+      "codepoint": 58413,
+      "fontFamily": "Famicons",
+      "identifier": "reorderThree"
+    },
+    "reorder-three-outline": {
+      "codepoint": 58414,
+      "fontFamily": "Famicons",
+      "identifier": "reorderThreeOutline"
+    },
+    "reorder-three-sharp": {
+      "codepoint": 58415,
+      "fontFamily": "Famicons",
+      "identifier": "reorderThreeSharp"
+    },
+    "reorder-two": {
+      "codepoint": 58416,
+      "fontFamily": "Famicons",
+      "identifier": "reorderTwo"
+    },
+    "reorder-two-outline": {
+      "codepoint": 58417,
+      "fontFamily": "Famicons",
+      "identifier": "reorderTwoOutline"
+    },
+    "reorder-two-sharp": {
+      "codepoint": 58418,
+      "fontFamily": "Famicons",
+      "identifier": "reorderTwoSharp"
+    },
+    "repeat": {
+      "codepoint": 58419,
+      "fontFamily": "Famicons",
+      "identifier": "repeat"
+    },
+    "repeat-outline": {
+      "codepoint": 58420,
+      "fontFamily": "Famicons",
+      "identifier": "repeatOutline"
+    },
+    "repeat-sharp": {
+      "codepoint": 58421,
+      "fontFamily": "Famicons",
+      "identifier": "repeatSharp"
+    },
+    "resize": {
+      "codepoint": 58422,
+      "fontFamily": "Famicons",
+      "identifier": "resize"
+    },
+    "resize-outline": {
+      "codepoint": 58423,
+      "fontFamily": "Famicons",
+      "identifier": "resizeOutline"
+    },
+    "resize-sharp": {
+      "codepoint": 58424,
+      "fontFamily": "Famicons",
+      "identifier": "resizeSharp"
+    },
+    "restaurant": {
+      "codepoint": 58425,
+      "fontFamily": "Famicons",
+      "identifier": "restaurant"
+    },
+    "restaurant-outline": {
+      "codepoint": 58426,
+      "fontFamily": "Famicons",
+      "identifier": "restaurantOutline"
+    },
+    "restaurant-sharp": {
+      "codepoint": 58427,
+      "fontFamily": "Famicons",
+      "identifier": "restaurantSharp"
+    },
+    "return-down-back": {
+      "codepoint": 58428,
+      "fontFamily": "Famicons",
+      "identifier": "returnDownBack"
+    },
+    "return-down-back-outline": {
+      "codepoint": 58429,
+      "fontFamily": "Famicons",
+      "identifier": "returnDownBackOutline"
+    },
+    "return-down-back-sharp": {
+      "codepoint": 58430,
+      "fontFamily": "Famicons",
+      "identifier": "returnDownBackSharp"
+    },
+    "return-down-forward": {
+      "codepoint": 58431,
+      "fontFamily": "Famicons",
+      "identifier": "returnDownForward"
+    },
+    "return-down-forward-outline": {
+      "codepoint": 58432,
+      "fontFamily": "Famicons",
+      "identifier": "returnDownForwardOutline"
+    },
+    "return-down-forward-sharp": {
+      "codepoint": 58433,
+      "fontFamily": "Famicons",
+      "identifier": "returnDownForwardSharp"
+    },
+    "return-up-back": {
+      "codepoint": 58434,
+      "fontFamily": "Famicons",
+      "identifier": "returnUpBack"
+    },
+    "return-up-back-outline": {
+      "codepoint": 58435,
+      "fontFamily": "Famicons",
+      "identifier": "returnUpBackOutline"
+    },
+    "return-up-back-sharp": {
+      "codepoint": 58436,
+      "fontFamily": "Famicons",
+      "identifier": "returnUpBackSharp"
+    },
+    "return-up-forward": {
+      "codepoint": 58437,
+      "fontFamily": "Famicons",
+      "identifier": "returnUpForward"
+    },
+    "return-up-forward-outline": {
+      "codepoint": 58438,
+      "fontFamily": "Famicons",
+      "identifier": "returnUpForwardOutline"
+    },
+    "return-up-forward-sharp": {
+      "codepoint": 58439,
+      "fontFamily": "Famicons",
+      "identifier": "returnUpForwardSharp"
+    },
+    "ribbon": {
+      "codepoint": 58440,
+      "fontFamily": "Famicons",
+      "identifier": "ribbon"
+    },
+    "ribbon-outline": {
+      "codepoint": 58441,
+      "fontFamily": "Famicons",
+      "identifier": "ribbonOutline"
+    },
+    "ribbon-sharp": {
+      "codepoint": 58442,
+      "fontFamily": "Famicons",
+      "identifier": "ribbonSharp"
+    },
+    "rocket": {
+      "codepoint": 58443,
+      "fontFamily": "Famicons",
+      "identifier": "rocket"
+    },
+    "rocket-outline": {
+      "codepoint": 58444,
+      "fontFamily": "Famicons",
+      "identifier": "rocketOutline"
+    },
+    "rocket-sharp": {
+      "codepoint": 58445,
+      "fontFamily": "Famicons",
+      "identifier": "rocketSharp"
+    },
+    "rose": {
+      "codepoint": 58446,
+      "fontFamily": "Famicons",
+      "identifier": "rose"
+    },
+    "rose-outline": {
+      "codepoint": 58447,
+      "fontFamily": "Famicons",
+      "identifier": "roseOutline"
+    },
+    "rose-sharp": {
+      "codepoint": 58448,
+      "fontFamily": "Famicons",
+      "identifier": "roseSharp"
+    },
+    "sad": {
+      "codepoint": 58449,
+      "fontFamily": "Famicons",
+      "identifier": "sad"
+    },
+    "sad-outline": {
+      "codepoint": 58450,
+      "fontFamily": "Famicons",
+      "identifier": "sadOutline"
+    },
+    "sad-sharp": {
+      "codepoint": 58451,
+      "fontFamily": "Famicons",
+      "identifier": "sadSharp"
+    },
+    "save": {
+      "codepoint": 58452,
+      "fontFamily": "Famicons",
+      "identifier": "save"
+    },
+    "save-outline": {
+      "codepoint": 58453,
+      "fontFamily": "Famicons",
+      "identifier": "saveOutline"
+    },
+    "save-sharp": {
+      "codepoint": 58454,
+      "fontFamily": "Famicons",
+      "identifier": "saveSharp"
+    },
+    "scale": {
+      "codepoint": 58455,
+      "fontFamily": "Famicons",
+      "identifier": "scale"
+    },
+    "scale-outline": {
+      "codepoint": 58456,
+      "fontFamily": "Famicons",
+      "identifier": "scaleOutline"
+    },
+    "scale-sharp": {
+      "codepoint": 58457,
+      "fontFamily": "Famicons",
+      "identifier": "scaleSharp"
+    },
+    "scan": {
+      "codepoint": 58458,
+      "fontFamily": "Famicons",
+      "identifier": "scan"
+    },
+    "scan-circle": {
+      "codepoint": 58459,
+      "fontFamily": "Famicons",
+      "identifier": "scanCircle"
+    },
+    "scan-circle-outline": {
+      "codepoint": 58460,
+      "fontFamily": "Famicons",
+      "identifier": "scanCircleOutline"
+    },
+    "scan-circle-sharp": {
+      "codepoint": 58461,
+      "fontFamily": "Famicons",
+      "identifier": "scanCircleSharp"
+    },
+    "scan-outline": {
+      "codepoint": 58462,
+      "fontFamily": "Famicons",
+      "identifier": "scanOutline"
+    },
+    "scan-sharp": {
+      "codepoint": 58463,
+      "fontFamily": "Famicons",
+      "identifier": "scanSharp"
+    },
+    "school": {
+      "codepoint": 58464,
+      "fontFamily": "Famicons",
+      "identifier": "school"
+    },
+    "school-outline": {
+      "codepoint": 58465,
+      "fontFamily": "Famicons",
+      "identifier": "schoolOutline"
+    },
+    "school-sharp": {
+      "codepoint": 58466,
+      "fontFamily": "Famicons",
+      "identifier": "schoolSharp"
+    },
+    "search": {
+      "codepoint": 58467,
+      "fontFamily": "Famicons",
+      "identifier": "search"
+    },
+    "search-circle": {
+      "codepoint": 58468,
+      "fontFamily": "Famicons",
+      "identifier": "searchCircle"
+    },
+    "search-circle-outline": {
+      "codepoint": 58469,
+      "fontFamily": "Famicons",
+      "identifier": "searchCircleOutline"
+    },
+    "search-circle-sharp": {
+      "codepoint": 58470,
+      "fontFamily": "Famicons",
+      "identifier": "searchCircleSharp"
+    },
+    "search-outline": {
+      "codepoint": 58471,
+      "fontFamily": "Famicons",
+      "identifier": "searchOutline"
+    },
+    "search-sharp": {
+      "codepoint": 58472,
+      "fontFamily": "Famicons",
+      "identifier": "searchSharp"
+    },
+    "send": {
+      "codepoint": 58473,
+      "fontFamily": "Famicons",
+      "identifier": "send"
+    },
+    "send-outline": {
+      "codepoint": 58474,
+      "fontFamily": "Famicons",
+      "identifier": "sendOutline"
+    },
+    "send-sharp": {
+      "codepoint": 58475,
+      "fontFamily": "Famicons",
+      "identifier": "sendSharp"
+    },
+    "server": {
+      "codepoint": 58476,
+      "fontFamily": "Famicons",
+      "identifier": "server"
+    },
+    "server-outline": {
+      "codepoint": 58477,
+      "fontFamily": "Famicons",
+      "identifier": "serverOutline"
+    },
+    "server-sharp": {
+      "codepoint": 58478,
+      "fontFamily": "Famicons",
+      "identifier": "serverSharp"
+    },
+    "settings": {
+      "codepoint": 58479,
+      "fontFamily": "Famicons",
+      "identifier": "settings"
+    },
+    "settings-outline": {
+      "codepoint": 58480,
+      "fontFamily": "Famicons",
+      "identifier": "settingsOutline"
+    },
+    "settings-sharp": {
+      "codepoint": 58481,
+      "fontFamily": "Famicons",
+      "identifier": "settingsSharp"
+    },
+    "shapes": {
+      "codepoint": 58482,
+      "fontFamily": "Famicons",
+      "identifier": "shapes"
+    },
+    "shapes-outline": {
+      "codepoint": 58483,
+      "fontFamily": "Famicons",
+      "identifier": "shapesOutline"
+    },
+    "shapes-sharp": {
+      "codepoint": 58484,
+      "fontFamily": "Famicons",
+      "identifier": "shapesSharp"
+    },
+    "share": {
+      "codepoint": 58485,
+      "fontFamily": "Famicons",
+      "identifier": "share"
+    },
+    "share-outline": {
+      "codepoint": 58486,
+      "fontFamily": "Famicons",
+      "identifier": "shareOutline"
+    },
+    "share-sharp": {
+      "codepoint": 58487,
+      "fontFamily": "Famicons",
+      "identifier": "shareSharp"
+    },
+    "share-social": {
+      "codepoint": 58488,
+      "fontFamily": "Famicons",
+      "identifier": "shareSocial"
+    },
+    "share-social-outline": {
+      "codepoint": 58489,
+      "fontFamily": "Famicons",
+      "identifier": "shareSocialOutline"
+    },
+    "share-social-sharp": {
+      "codepoint": 58490,
+      "fontFamily": "Famicons",
+      "identifier": "shareSocialSharp"
+    },
+    "shield": {
+      "codepoint": 58491,
+      "fontFamily": "Famicons",
+      "identifier": "shield"
+    },
+    "shield-checkmark": {
+      "codepoint": 58492,
+      "fontFamily": "Famicons",
+      "identifier": "shieldCheckmark"
+    },
+    "shield-checkmark-outline": {
+      "codepoint": 58493,
+      "fontFamily": "Famicons",
+      "identifier": "shieldCheckmarkOutline"
+    },
+    "shield-checkmark-sharp": {
+      "codepoint": 58494,
+      "fontFamily": "Famicons",
+      "identifier": "shieldCheckmarkSharp"
+    },
+    "shield-half": {
+      "codepoint": 58495,
+      "fontFamily": "Famicons",
+      "identifier": "shieldHalf"
+    },
+    "shield-half-outline": {
+      "codepoint": 58496,
+      "fontFamily": "Famicons",
+      "identifier": "shieldHalfOutline"
+    },
+    "shield-half-sharp": {
+      "codepoint": 58497,
+      "fontFamily": "Famicons",
+      "identifier": "shieldHalfSharp"
+    },
+    "shield-outline": {
+      "codepoint": 58498,
+      "fontFamily": "Famicons",
+      "identifier": "shieldOutline"
+    },
+    "shield-sharp": {
+      "codepoint": 58499,
+      "fontFamily": "Famicons",
+      "identifier": "shieldSharp"
+    },
+    "shirt": {
+      "codepoint": 58500,
+      "fontFamily": "Famicons",
+      "identifier": "shirt"
+    },
+    "shirt-outline": {
+      "codepoint": 58501,
+      "fontFamily": "Famicons",
+      "identifier": "shirtOutline"
+    },
+    "shirt-sharp": {
+      "codepoint": 58502,
+      "fontFamily": "Famicons",
+      "identifier": "shirtSharp"
+    },
+    "shuffle": {
+      "codepoint": 58503,
+      "fontFamily": "Famicons",
+      "identifier": "shuffle"
+    },
+    "shuffle-outline": {
+      "codepoint": 58504,
+      "fontFamily": "Famicons",
+      "identifier": "shuffleOutline"
+    },
+    "shuffle-sharp": {
+      "codepoint": 58505,
+      "fontFamily": "Famicons",
+      "identifier": "shuffleSharp"
+    },
+    "skull": {
+      "codepoint": 58506,
+      "fontFamily": "Famicons",
+      "identifier": "skull"
+    },
+    "skull-outline": {
+      "codepoint": 58507,
+      "fontFamily": "Famicons",
+      "identifier": "skullOutline"
+    },
+    "skull-sharp": {
+      "codepoint": 58508,
+      "fontFamily": "Famicons",
+      "identifier": "skullSharp"
+    },
+    "snow": {
+      "codepoint": 58509,
+      "fontFamily": "Famicons",
+      "identifier": "snow"
+    },
+    "snow-outline": {
+      "codepoint": 58510,
+      "fontFamily": "Famicons",
+      "identifier": "snowOutline"
+    },
+    "snow-sharp": {
+      "codepoint": 58511,
+      "fontFamily": "Famicons",
+      "identifier": "snowSharp"
+    },
+    "sparkles": {
+      "codepoint": 58512,
+      "fontFamily": "Famicons",
+      "identifier": "sparkles"
+    },
+    "sparkles-outline": {
+      "codepoint": 58513,
+      "fontFamily": "Famicons",
+      "identifier": "sparklesOutline"
+    },
+    "sparkles-sharp": {
+      "codepoint": 58514,
+      "fontFamily": "Famicons",
+      "identifier": "sparklesSharp"
+    },
+    "speedometer": {
+      "codepoint": 58515,
+      "fontFamily": "Famicons",
+      "identifier": "speedometer"
+    },
+    "speedometer-outline": {
+      "codepoint": 58516,
+      "fontFamily": "Famicons",
+      "identifier": "speedometerOutline"
+    },
+    "speedometer-sharp": {
+      "codepoint": 58517,
+      "fontFamily": "Famicons",
+      "identifier": "speedometerSharp"
+    },
+    "square": {
+      "codepoint": 58518,
+      "fontFamily": "Famicons",
+      "identifier": "square"
+    },
+    "square-outline": {
+      "codepoint": 58519,
+      "fontFamily": "Famicons",
+      "identifier": "squareOutline"
+    },
+    "square-sharp": {
+      "codepoint": 58520,
+      "fontFamily": "Famicons",
+      "identifier": "squareSharp"
+    },
+    "star": {
+      "codepoint": 58521,
+      "fontFamily": "Famicons",
+      "identifier": "star"
+    },
+    "star-half": {
+      "codepoint": 58522,
+      "fontFamily": "Famicons",
+      "identifier": "starHalf"
+    },
+    "star-half-outline": {
+      "codepoint": 58523,
+      "fontFamily": "Famicons",
+      "identifier": "starHalfOutline"
+    },
+    "star-half-sharp": {
+      "codepoint": 58524,
+      "fontFamily": "Famicons",
+      "identifier": "starHalfSharp"
+    },
+    "star-outline": {
+      "codepoint": 58525,
+      "fontFamily": "Famicons",
+      "identifier": "starOutline"
+    },
+    "star-sharp": {
+      "codepoint": 58526,
+      "fontFamily": "Famicons",
+      "identifier": "starSharp"
+    },
+    "stats-chart": {
+      "codepoint": 58527,
+      "fontFamily": "Famicons",
+      "identifier": "statsChart"
+    },
+    "stats-chart-outline": {
+      "codepoint": 58528,
+      "fontFamily": "Famicons",
+      "identifier": "statsChartOutline"
+    },
+    "stats-chart-sharp": {
+      "codepoint": 58529,
+      "fontFamily": "Famicons",
+      "identifier": "statsChartSharp"
+    },
+    "stop": {
+      "codepoint": 58530,
+      "fontFamily": "Famicons",
+      "identifier": "stop"
+    },
+    "stop-circle": {
+      "codepoint": 58531,
+      "fontFamily": "Famicons",
+      "identifier": "stopCircle"
+    },
+    "stop-circle-outline": {
+      "codepoint": 58532,
+      "fontFamily": "Famicons",
+      "identifier": "stopCircleOutline"
+    },
+    "stop-circle-sharp": {
+      "codepoint": 58533,
+      "fontFamily": "Famicons",
+      "identifier": "stopCircleSharp"
+    },
+    "stop-outline": {
+      "codepoint": 58534,
+      "fontFamily": "Famicons",
+      "identifier": "stopOutline"
+    },
+    "stop-sharp": {
+      "codepoint": 58535,
+      "fontFamily": "Famicons",
+      "identifier": "stopSharp"
+    },
+    "stopwatch": {
+      "codepoint": 58536,
+      "fontFamily": "Famicons",
+      "identifier": "stopwatch"
+    },
+    "stopwatch-outline": {
+      "codepoint": 58537,
+      "fontFamily": "Famicons",
+      "identifier": "stopwatchOutline"
+    },
+    "stopwatch-sharp": {
+      "codepoint": 58538,
+      "fontFamily": "Famicons",
+      "identifier": "stopwatchSharp"
+    },
+    "storefront": {
+      "codepoint": 58539,
+      "fontFamily": "Famicons",
+      "identifier": "storefront"
+    },
+    "storefront-outline": {
+      "codepoint": 58540,
+      "fontFamily": "Famicons",
+      "identifier": "storefrontOutline"
+    },
+    "storefront-sharp": {
+      "codepoint": 58541,
+      "fontFamily": "Famicons",
+      "identifier": "storefrontSharp"
+    },
+    "subway": {
+      "codepoint": 58542,
+      "fontFamily": "Famicons",
+      "identifier": "subway"
+    },
+    "subway-outline": {
+      "codepoint": 58543,
+      "fontFamily": "Famicons",
+      "identifier": "subwayOutline"
+    },
+    "subway-sharp": {
+      "codepoint": 58544,
+      "fontFamily": "Famicons",
+      "identifier": "subwaySharp"
+    },
+    "sunny": {
+      "codepoint": 58545,
+      "fontFamily": "Famicons",
+      "identifier": "sunny"
+    },
+    "sunny-outline": {
+      "codepoint": 58546,
+      "fontFamily": "Famicons",
+      "identifier": "sunnyOutline"
+    },
+    "sunny-sharp": {
+      "codepoint": 58547,
+      "fontFamily": "Famicons",
+      "identifier": "sunnySharp"
+    },
+    "swap-horizontal": {
+      "codepoint": 58548,
+      "fontFamily": "Famicons",
+      "identifier": "swapHorizontal"
+    },
+    "swap-horizontal-outline": {
+      "codepoint": 58549,
+      "fontFamily": "Famicons",
+      "identifier": "swapHorizontalOutline"
+    },
+    "swap-horizontal-sharp": {
+      "codepoint": 58550,
+      "fontFamily": "Famicons",
+      "identifier": "swapHorizontalSharp"
+    },
+    "swap-vertical": {
+      "codepoint": 58551,
+      "fontFamily": "Famicons",
+      "identifier": "swapVertical"
+    },
+    "swap-vertical-outline": {
+      "codepoint": 58552,
+      "fontFamily": "Famicons",
+      "identifier": "swapVerticalOutline"
+    },
+    "swap-vertical-sharp": {
+      "codepoint": 58553,
+      "fontFamily": "Famicons",
+      "identifier": "swapVerticalSharp"
+    },
+    "sync": {
+      "codepoint": 58554,
+      "fontFamily": "Famicons",
+      "identifier": "sync_"
+    },
+    "sync-circle": {
+      "codepoint": 58555,
+      "fontFamily": "Famicons",
+      "identifier": "syncCircle"
+    },
+    "sync-circle-outline": {
+      "codepoint": 58556,
+      "fontFamily": "Famicons",
+      "identifier": "syncCircleOutline"
+    },
+    "sync-circle-sharp": {
+      "codepoint": 58557,
+      "fontFamily": "Famicons",
+      "identifier": "syncCircleSharp"
+    },
+    "sync-outline": {
+      "codepoint": 58558,
+      "fontFamily": "Famicons",
+      "identifier": "syncOutline"
+    },
+    "sync-sharp": {
+      "codepoint": 58559,
+      "fontFamily": "Famicons",
+      "identifier": "syncSharp"
+    },
+    "tablet-landscape": {
+      "codepoint": 58560,
+      "fontFamily": "Famicons",
+      "identifier": "tabletLandscape"
+    },
+    "tablet-landscape-outline": {
+      "codepoint": 58561,
+      "fontFamily": "Famicons",
+      "identifier": "tabletLandscapeOutline"
+    },
+    "tablet-landscape-sharp": {
+      "codepoint": 58562,
+      "fontFamily": "Famicons",
+      "identifier": "tabletLandscapeSharp"
+    },
+    "tablet-portrait": {
+      "codepoint": 58563,
+      "fontFamily": "Famicons",
+      "identifier": "tabletPortrait"
+    },
+    "tablet-portrait-outline": {
+      "codepoint": 58564,
+      "fontFamily": "Famicons",
+      "identifier": "tabletPortraitOutline"
+    },
+    "tablet-portrait-sharp": {
+      "codepoint": 58565,
+      "fontFamily": "Famicons",
+      "identifier": "tabletPortraitSharp"
+    },
+    "telescope": {
+      "codepoint": 58566,
+      "fontFamily": "Famicons",
+      "identifier": "telescope"
+    },
+    "telescope-outline": {
+      "codepoint": 58567,
+      "fontFamily": "Famicons",
+      "identifier": "telescopeOutline"
+    },
+    "telescope-sharp": {
+      "codepoint": 58568,
+      "fontFamily": "Famicons",
+      "identifier": "telescopeSharp"
+    },
+    "tennisball": {
+      "codepoint": 58569,
+      "fontFamily": "Famicons",
+      "identifier": "tennisball"
+    },
+    "tennisball-outline": {
+      "codepoint": 58570,
+      "fontFamily": "Famicons",
+      "identifier": "tennisballOutline"
+    },
+    "tennisball-sharp": {
+      "codepoint": 58571,
+      "fontFamily": "Famicons",
+      "identifier": "tennisballSharp"
+    },
+    "terminal": {
+      "codepoint": 58572,
+      "fontFamily": "Famicons",
+      "identifier": "terminal"
+    },
+    "terminal-outline": {
+      "codepoint": 58573,
+      "fontFamily": "Famicons",
+      "identifier": "terminalOutline"
+    },
+    "terminal-sharp": {
+      "codepoint": 58574,
+      "fontFamily": "Famicons",
+      "identifier": "terminalSharp"
+    },
+    "text": {
+      "codepoint": 58575,
+      "fontFamily": "Famicons",
+      "identifier": "text"
+    },
+    "text-outline": {
+      "codepoint": 58576,
+      "fontFamily": "Famicons",
+      "identifier": "textOutline"
+    },
+    "text-sharp": {
+      "codepoint": 58577,
+      "fontFamily": "Famicons",
+      "identifier": "textSharp"
+    },
+    "thermometer": {
+      "codepoint": 58578,
+      "fontFamily": "Famicons",
+      "identifier": "thermometer"
+    },
+    "thermometer-outline": {
+      "codepoint": 58579,
+      "fontFamily": "Famicons",
+      "identifier": "thermometerOutline"
+    },
+    "thermometer-sharp": {
+      "codepoint": 58580,
+      "fontFamily": "Famicons",
+      "identifier": "thermometerSharp"
+    },
+    "thumbs-down": {
+      "codepoint": 58581,
+      "fontFamily": "Famicons",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-down-outline": {
+      "codepoint": 58582,
+      "fontFamily": "Famicons",
+      "identifier": "thumbsDownOutline"
+    },
+    "thumbs-down-sharp": {
+      "codepoint": 58583,
+      "fontFamily": "Famicons",
+      "identifier": "thumbsDownSharp"
+    },
+    "thumbs-up": {
+      "codepoint": 58584,
+      "fontFamily": "Famicons",
+      "identifier": "thumbsUp"
+    },
+    "thumbs-up-outline": {
+      "codepoint": 58585,
+      "fontFamily": "Famicons",
+      "identifier": "thumbsUpOutline"
+    },
+    "thumbs-up-sharp": {
+      "codepoint": 58586,
+      "fontFamily": "Famicons",
+      "identifier": "thumbsUpSharp"
+    },
+    "thunderstorm": {
+      "codepoint": 58587,
+      "fontFamily": "Famicons",
+      "identifier": "thunderstorm"
+    },
+    "thunderstorm-outline": {
+      "codepoint": 58588,
+      "fontFamily": "Famicons",
+      "identifier": "thunderstormOutline"
+    },
+    "thunderstorm-sharp": {
+      "codepoint": 58589,
+      "fontFamily": "Famicons",
+      "identifier": "thunderstormSharp"
+    },
+    "ticket": {
+      "codepoint": 58590,
+      "fontFamily": "Famicons",
+      "identifier": "ticket"
+    },
+    "ticket-outline": {
+      "codepoint": 58591,
+      "fontFamily": "Famicons",
+      "identifier": "ticketOutline"
+    },
+    "ticket-sharp": {
+      "codepoint": 58592,
+      "fontFamily": "Famicons",
+      "identifier": "ticketSharp"
+    },
+    "time": {
+      "codepoint": 58593,
+      "fontFamily": "Famicons",
+      "identifier": "time"
+    },
+    "time-outline": {
+      "codepoint": 58594,
+      "fontFamily": "Famicons",
+      "identifier": "timeOutline"
+    },
+    "time-sharp": {
+      "codepoint": 58595,
+      "fontFamily": "Famicons",
+      "identifier": "timeSharp"
+    },
+    "timer": {
+      "codepoint": 58596,
+      "fontFamily": "Famicons",
+      "identifier": "timer"
+    },
+    "timer-outline": {
+      "codepoint": 58597,
+      "fontFamily": "Famicons",
+      "identifier": "timerOutline"
+    },
+    "timer-sharp": {
+      "codepoint": 58598,
+      "fontFamily": "Famicons",
+      "identifier": "timerSharp"
+    },
+    "today": {
+      "codepoint": 58599,
+      "fontFamily": "Famicons",
+      "identifier": "today"
+    },
+    "today-outline": {
+      "codepoint": 58600,
+      "fontFamily": "Famicons",
+      "identifier": "todayOutline"
+    },
+    "today-sharp": {
+      "codepoint": 58601,
+      "fontFamily": "Famicons",
+      "identifier": "todaySharp"
+    },
+    "toggle": {
+      "codepoint": 58602,
+      "fontFamily": "Famicons",
+      "identifier": "toggle"
+    },
+    "toggle-outline": {
+      "codepoint": 58603,
+      "fontFamily": "Famicons",
+      "identifier": "toggleOutline"
+    },
+    "toggle-sharp": {
+      "codepoint": 58604,
+      "fontFamily": "Famicons",
+      "identifier": "toggleSharp"
+    },
+    "trail-sign": {
+      "codepoint": 58605,
+      "fontFamily": "Famicons",
+      "identifier": "trailSign"
+    },
+    "trail-sign-outline": {
+      "codepoint": 58606,
+      "fontFamily": "Famicons",
+      "identifier": "trailSignOutline"
+    },
+    "trail-sign-sharp": {
+      "codepoint": 58607,
+      "fontFamily": "Famicons",
+      "identifier": "trailSignSharp"
+    },
+    "train": {
+      "codepoint": 58608,
+      "fontFamily": "Famicons",
+      "identifier": "train"
+    },
+    "train-outline": {
+      "codepoint": 58609,
+      "fontFamily": "Famicons",
+      "identifier": "trainOutline"
+    },
+    "train-sharp": {
+      "codepoint": 58610,
+      "fontFamily": "Famicons",
+      "identifier": "trainSharp"
+    },
+    "transgender": {
+      "codepoint": 58611,
+      "fontFamily": "Famicons",
+      "identifier": "transgender"
+    },
+    "transgender-outline": {
+      "codepoint": 58612,
+      "fontFamily": "Famicons",
+      "identifier": "transgenderOutline"
+    },
+    "transgender-sharp": {
+      "codepoint": 58613,
+      "fontFamily": "Famicons",
+      "identifier": "transgenderSharp"
+    },
+    "trash": {
+      "codepoint": 58614,
+      "fontFamily": "Famicons",
+      "identifier": "trash"
+    },
+    "trash-bin": {
+      "codepoint": 58615,
+      "fontFamily": "Famicons",
+      "identifier": "trashBin"
+    },
+    "trash-bin-outline": {
+      "codepoint": 58616,
+      "fontFamily": "Famicons",
+      "identifier": "trashBinOutline"
+    },
+    "trash-bin-sharp": {
+      "codepoint": 58617,
+      "fontFamily": "Famicons",
+      "identifier": "trashBinSharp"
+    },
+    "trash-outline": {
+      "codepoint": 58618,
+      "fontFamily": "Famicons",
+      "identifier": "trashOutline"
+    },
+    "trash-sharp": {
+      "codepoint": 58619,
+      "fontFamily": "Famicons",
+      "identifier": "trashSharp"
+    },
+    "trending-down": {
+      "codepoint": 58620,
+      "fontFamily": "Famicons",
+      "identifier": "trendingDown"
+    },
+    "trending-down-outline": {
+      "codepoint": 58621,
+      "fontFamily": "Famicons",
+      "identifier": "trendingDownOutline"
+    },
+    "trending-down-sharp": {
+      "codepoint": 58622,
+      "fontFamily": "Famicons",
+      "identifier": "trendingDownSharp"
+    },
+    "trending-up": {
+      "codepoint": 58623,
+      "fontFamily": "Famicons",
+      "identifier": "trendingUp"
+    },
+    "trending-up-outline": {
+      "codepoint": 58624,
+      "fontFamily": "Famicons",
+      "identifier": "trendingUpOutline"
+    },
+    "trending-up-sharp": {
+      "codepoint": 58625,
+      "fontFamily": "Famicons",
+      "identifier": "trendingUpSharp"
+    },
+    "triangle": {
+      "codepoint": 58626,
+      "fontFamily": "Famicons",
+      "identifier": "triangle"
+    },
+    "triangle-outline": {
+      "codepoint": 58627,
+      "fontFamily": "Famicons",
+      "identifier": "triangleOutline"
+    },
+    "triangle-sharp": {
+      "codepoint": 58628,
+      "fontFamily": "Famicons",
+      "identifier": "triangleSharp"
+    },
+    "trophy": {
+      "codepoint": 58629,
+      "fontFamily": "Famicons",
+      "identifier": "trophy"
+    },
+    "trophy-outline": {
+      "codepoint": 58630,
+      "fontFamily": "Famicons",
+      "identifier": "trophyOutline"
+    },
+    "trophy-sharp": {
+      "codepoint": 58631,
+      "fontFamily": "Famicons",
+      "identifier": "trophySharp"
+    },
+    "tv": {
+      "codepoint": 58632,
+      "fontFamily": "Famicons",
+      "identifier": "tv"
+    },
+    "tv-outline": {
+      "codepoint": 58633,
+      "fontFamily": "Famicons",
+      "identifier": "tvOutline"
+    },
+    "tv-sharp": {
+      "codepoint": 58634,
+      "fontFamily": "Famicons",
+      "identifier": "tvSharp"
+    },
+    "umbrella": {
+      "codepoint": 58635,
+      "fontFamily": "Famicons",
+      "identifier": "umbrella"
+    },
+    "umbrella-outline": {
+      "codepoint": 58636,
+      "fontFamily": "Famicons",
+      "identifier": "umbrellaOutline"
+    },
+    "umbrella-sharp": {
+      "codepoint": 58637,
+      "fontFamily": "Famicons",
+      "identifier": "umbrellaSharp"
+    },
+    "unlink": {
+      "codepoint": 58638,
+      "fontFamily": "Famicons",
+      "identifier": "unlink"
+    },
+    "unlink-outline": {
+      "codepoint": 58639,
+      "fontFamily": "Famicons",
+      "identifier": "unlinkOutline"
+    },
+    "unlink-sharp": {
+      "codepoint": 58640,
+      "fontFamily": "Famicons",
+      "identifier": "unlinkSharp"
+    },
+    "videocam": {
+      "codepoint": 58641,
+      "fontFamily": "Famicons",
+      "identifier": "videocam"
+    },
+    "videocam-off": {
+      "codepoint": 58642,
+      "fontFamily": "Famicons",
+      "identifier": "videocamOff"
+    },
+    "videocam-off-outline": {
+      "codepoint": 58643,
+      "fontFamily": "Famicons",
+      "identifier": "videocamOffOutline"
+    },
+    "videocam-off-sharp": {
+      "codepoint": 58644,
+      "fontFamily": "Famicons",
+      "identifier": "videocamOffSharp"
+    },
+    "videocam-outline": {
+      "codepoint": 58645,
+      "fontFamily": "Famicons",
+      "identifier": "videocamOutline"
+    },
+    "videocam-sharp": {
+      "codepoint": 58646,
+      "fontFamily": "Famicons",
+      "identifier": "videocamSharp"
+    },
+    "volume-high": {
+      "codepoint": 58647,
+      "fontFamily": "Famicons",
+      "identifier": "volumeHigh"
+    },
+    "volume-high-outline": {
+      "codepoint": 58648,
+      "fontFamily": "Famicons",
+      "identifier": "volumeHighOutline"
+    },
+    "volume-high-sharp": {
+      "codepoint": 58649,
+      "fontFamily": "Famicons",
+      "identifier": "volumeHighSharp"
+    },
+    "volume-low": {
+      "codepoint": 58650,
+      "fontFamily": "Famicons",
+      "identifier": "volumeLow"
+    },
+    "volume-low-outline": {
+      "codepoint": 58651,
+      "fontFamily": "Famicons",
+      "identifier": "volumeLowOutline"
+    },
+    "volume-low-sharp": {
+      "codepoint": 58652,
+      "fontFamily": "Famicons",
+      "identifier": "volumeLowSharp"
+    },
+    "volume-medium": {
+      "codepoint": 58653,
+      "fontFamily": "Famicons",
+      "identifier": "volumeMedium"
+    },
+    "volume-medium-outline": {
+      "codepoint": 58654,
+      "fontFamily": "Famicons",
+      "identifier": "volumeMediumOutline"
+    },
+    "volume-medium-sharp": {
+      "codepoint": 58655,
+      "fontFamily": "Famicons",
+      "identifier": "volumeMediumSharp"
+    },
+    "volume-mute": {
+      "codepoint": 58656,
+      "fontFamily": "Famicons",
+      "identifier": "volumeMute"
+    },
+    "volume-mute-outline": {
+      "codepoint": 58657,
+      "fontFamily": "Famicons",
+      "identifier": "volumeMuteOutline"
+    },
+    "volume-mute-sharp": {
+      "codepoint": 58658,
+      "fontFamily": "Famicons",
+      "identifier": "volumeMuteSharp"
+    },
+    "volume-off": {
+      "codepoint": 58659,
+      "fontFamily": "Famicons",
+      "identifier": "volumeOff"
+    },
+    "volume-off-outline": {
+      "codepoint": 58660,
+      "fontFamily": "Famicons",
+      "identifier": "volumeOffOutline"
+    },
+    "volume-off-sharp": {
+      "codepoint": 58661,
+      "fontFamily": "Famicons",
+      "identifier": "volumeOffSharp"
+    },
+    "walk": {
+      "codepoint": 58662,
+      "fontFamily": "Famicons",
+      "identifier": "walk"
+    },
+    "walk-outline": {
+      "codepoint": 58663,
+      "fontFamily": "Famicons",
+      "identifier": "walkOutline"
+    },
+    "walk-sharp": {
+      "codepoint": 58664,
+      "fontFamily": "Famicons",
+      "identifier": "walkSharp"
+    },
+    "wallet": {
+      "codepoint": 58665,
+      "fontFamily": "Famicons",
+      "identifier": "wallet"
+    },
+    "wallet-outline": {
+      "codepoint": 58666,
+      "fontFamily": "Famicons",
+      "identifier": "walletOutline"
+    },
+    "wallet-sharp": {
+      "codepoint": 58667,
+      "fontFamily": "Famicons",
+      "identifier": "walletSharp"
+    },
+    "warning": {
+      "codepoint": 58668,
+      "fontFamily": "Famicons",
+      "identifier": "warning"
+    },
+    "warning-outline": {
+      "codepoint": 58669,
+      "fontFamily": "Famicons",
+      "identifier": "warningOutline"
+    },
+    "warning-sharp": {
+      "codepoint": 58670,
+      "fontFamily": "Famicons",
+      "identifier": "warningSharp"
+    },
+    "watch": {
+      "codepoint": 58671,
+      "fontFamily": "Famicons",
+      "identifier": "watch"
+    },
+    "watch-outline": {
+      "codepoint": 58672,
+      "fontFamily": "Famicons",
+      "identifier": "watchOutline"
+    },
+    "watch-sharp": {
+      "codepoint": 58673,
+      "fontFamily": "Famicons",
+      "identifier": "watchSharp"
+    },
+    "water": {
+      "codepoint": 58674,
+      "fontFamily": "Famicons",
+      "identifier": "water"
+    },
+    "water-outline": {
+      "codepoint": 58675,
+      "fontFamily": "Famicons",
+      "identifier": "waterOutline"
+    },
+    "water-sharp": {
+      "codepoint": 58676,
+      "fontFamily": "Famicons",
+      "identifier": "waterSharp"
+    },
+    "wifi": {
+      "codepoint": 58677,
+      "fontFamily": "Famicons",
+      "identifier": "wifi"
+    },
+    "wifi-outline": {
+      "codepoint": 58678,
+      "fontFamily": "Famicons",
+      "identifier": "wifiOutline"
+    },
+    "wifi-sharp": {
+      "codepoint": 58679,
+      "fontFamily": "Famicons",
+      "identifier": "wifiSharp"
+    },
+    "wine": {
+      "codepoint": 58680,
+      "fontFamily": "Famicons",
+      "identifier": "wine"
+    },
+    "wine-outline": {
+      "codepoint": 58681,
+      "fontFamily": "Famicons",
+      "identifier": "wineOutline"
+    },
+    "wine-sharp": {
+      "codepoint": 58682,
+      "fontFamily": "Famicons",
+      "identifier": "wineSharp"
+    },
+    "woman": {
+      "codepoint": 58683,
+      "fontFamily": "Famicons",
+      "identifier": "woman"
+    },
+    "woman-outline": {
+      "codepoint": 58684,
+      "fontFamily": "Famicons",
+      "identifier": "womanOutline"
+    },
+    "woman-sharp": {
+      "codepoint": 58685,
+      "fontFamily": "Famicons",
+      "identifier": "womanSharp"
+    }
+  }
+}

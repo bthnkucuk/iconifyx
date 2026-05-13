@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": 1,
+  "prefix": "entypo",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Archive / Unmaintained",
+  "subPackage": "iconifyx_entypo",
+  "info": {
+    "name": "Entypo+",
+    "author": {
+      "name": "Daniel Bruce",
+      "url": "https://github.com/chancancode/entypo-plus"
+    },
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "total": 321
+  },
+  "fonts": [
+    {
+      "family": "Entypo",
+      "nextCodepoint": 57665,
+      "iconCount": 321
+    }
+  ],
+  "icons": {
+    "add-to-list": {
+      "codepoint": 57344,
+      "fontFamily": "Entypo",
+      "identifier": "addToList"
+    },
+    "add-user": {
+      "codepoint": 57345,
+      "fontFamily": "Entypo",
+      "identifier": "addUser"
+    },
+    "address": {
+      "codepoint": 57346,
+      "fontFamily": "Entypo",
+      "identifier": "address"
+    },
+    "adjust": {
+      "codepoint": 57347,
+      "fontFamily": "Entypo",
+      "identifier": "adjust"
+    },
+    "air": {
+      "codepoint": 57348,
+      "fontFamily": "Entypo",
+      "identifier": "air"
+    },
+    "aircraft": {
+      "codepoint": 57349,
+      "fontFamily": "Entypo",
+      "identifier": "aircraft"
+    },
+    "aircraft-landing": {
+      "codepoint": 57350,
+      "fontFamily": "Entypo",
+      "identifier": "aircraftLanding"
+    },
+    "aircraft-take-off": {
+      "codepoint": 57351,
+      "fontFamily": "Entypo",
+      "identifier": "aircraftTakeOff"
+    },
+    "align-bottom": {
+      "codepoint": 57352,
+      "fontFamily": "Entypo",
+      "identifier": "alignBottom"
+    },
+    "align-horizontal-middle": {
+      "codepoint": 57353,
+      "fontFamily": "Entypo",
+      "identifier": "alignHorizontalMiddle"
+    },
+    "align-left": {
+      "codepoint": 57354,
+      "fontFamily": "Entypo",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57355,
+      "fontFamily": "Entypo",
+      "identifier": "alignRight"
+    },
+    "align-top": {
+      "codepoint": 57356,
+      "fontFamily": "Entypo",
+      "identifier": "alignTop"
+    },
+    "align-vertical-middle": {
+      "codepoint": 57357,
+      "fontFamily": "Entypo",
+      "identifier": "alignVerticalMiddle"
+    },
+    "archive": {
+      "codepoint": 57358,
+      "fontFamily": "Entypo",
+      "identifier": "archive"
+    },
+    "area-graph": {
+      "codepoint": 57359,
+      "fontFamily": "Entypo",
+      "identifier": "areaGraph"
+    },
+    "arrow-bold-down": {
+      "codepoint": 57360,
+      "fontFamily": "Entypo",
+      "identifier": "arrowBoldDown"
+    },
+    "arrow-bold-left": {
+      "codepoint": 57361,
+      "fontFamily": "Entypo",
+      "identifier": "arrowBoldLeft"
+    },
+    "arrow-bold-right": {
+      "codepoint": 57362,
+      "fontFamily": "Entypo",
+      "identifier": "arrowBoldRight"
+    },
+    "arrow-bold-up": {
+      "codepoint": 57363,
+      "fontFamily": "Entypo",
+      "identifier": "arrowBoldUp"
+    },
+    "arrow-down": {
+      "codepoint": 57364,
+      "fontFamily": "Entypo",
+      "identifier": "arrowDown"
+    },
+    "arrow-left": {
+      "codepoint": 57365,
+      "fontFamily": "Entypo",
+      "identifier": "arrowLeft"
+    },
+    "arrow-long-down": {
+      "codepoint": 57366,
+      "fontFamily": "Entypo",
+      "identifier": "arrowLongDown"
+    },
+    "arrow-long-left": {
+      "codepoint": 57367,
+      "fontFamily": "Entypo",
+      "identifier": "arrowLongLeft"
+    },
+    "arrow-long-right": {
+      "codepoint": 57368,
+      "fontFamily": "Entypo",
+      "identifier": "arrowLongRight"
+    },
+    "arrow-long-up": {
+      "codepoint": 57369,
+      "fontFamily": "Entypo",
+      "identifier": "arrowLongUp"
+    },
+    "arrow-right": {
+      "codepoint": 57370,
+      "fontFamily": "Entypo",
+      "identifier": "arrowRight"
+    },
+    "arrow-up": {
+      "codepoint": 57371,
+      "fontFamily": "Entypo",
+      "identifier": "arrowUp"
+    },
+    "arrow-with-circle-down": {
+      "codepoint": 57372,
+      "fontFamily": "Entypo",
+      "identifier": "arrowWithCircleDown"
+    },
+    "arrow-with-circle-left": {
+      "codepoint": 57373,
+      "fontFamily": "Entypo",
+      "identifier": "arrowWithCircleLeft"
+    },
+    "arrow-with-circle-right": {
+      "codepoint": 57374,
+      "fontFamily": "Entypo",
+      "identifier": "arrowWithCircleRight"
+    },
+    "arrow-with-circle-up": {
+      "codepoint": 57375,
+      "fontFamily": "Entypo",
+      "identifier": "arrowWithCircleUp"
+    },
+    "attachment": {
+      "codepoint": 57376,
+      "fontFamily": "Entypo",
+      "identifier": "attachment"
+    },
+    "awareness-ribbon": {
+      "codepoint": 57377,
+      "fontFamily": "Entypo",
+      "identifier": "awarenessRibbon"
+    },
+    "back": {
+      "codepoint": 57378,
+      "fontFamily": "Entypo",
+      "identifier": "back"
+    },
+    "back-in-time": {
+      "codepoint": 57379,
+      "fontFamily": "Entypo",
+      "identifier": "backInTime"
+    },
+    "bar-graph": {
+      "codepoint": 57380,
+      "fontFamily": "Entypo",
+      "identifier": "barGraph"
+    },
+    "battery": {
+      "codepoint": 57381,
+      "fontFamily": "Entypo",
+      "identifier": "battery"
+    },
+    "beamed-note": {
+      "codepoint": 57382,
+      "fontFamily": "Entypo",
+      "identifier": "beamedNote"
+    },
+    "bell": {
+      "codepoint": 57383,
+      "fontFamily": "Entypo",
+      "identifier": "bell"
+    },
+    "blackboard": {
+      "codepoint": 57384,
+      "fontFamily": "Entypo",
+      "identifier": "blackboard"
+    },
+    "block": {
+      "codepoint": 57385,
+      "fontFamily": "Entypo",
+      "identifier": "block"
+    },
+    "book": {
+      "codepoint": 57386,
+      "fontFamily": "Entypo",
+      "identifier": "book"
+    },
+    "bookmark": {
+      "codepoint": 57387,
+      "fontFamily": "Entypo",
+      "identifier": "bookmark"
+    },
+    "bookmarks": {
+      "codepoint": 57388,
+      "fontFamily": "Entypo",
+      "identifier": "bookmarks"
+    },
+    "bowl": {
+      "codepoint": 57389,
+      "fontFamily": "Entypo",
+      "identifier": "bowl"
+    },
+    "box": {
+      "codepoint": 57390,
+      "fontFamily": "Entypo",
+      "identifier": "box"
+    },
+    "briefcase": {
+      "codepoint": 57391,
+      "fontFamily": "Entypo",
+      "identifier": "briefcase"
+    },
+    "browser": {
+      "codepoint": 57392,
+      "fontFamily": "Entypo",
+      "identifier": "browser"
+    },
+    "brush": {
+      "codepoint": 57393,
+      "fontFamily": "Entypo",
+      "identifier": "brush"
+    },
+    "bucket": {
+      "codepoint": 57394,
+      "fontFamily": "Entypo",
+      "identifier": "bucket"
+    },
+    "cake": {
+      "codepoint": 57395,
+      "fontFamily": "Entypo",
+      "identifier": "cake"
+    },
+    "calculator": {
+      "codepoint": 57396,
+      "fontFamily": "Entypo",
+      "identifier": "calculator"
+    },
+    "calendar": {
+      "codepoint": 57397,
+      "fontFamily": "Entypo",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57398,
+      "fontFamily": "Entypo",
+      "identifier": "camera"
+    },
+    "ccw": {
+      "codepoint": 57399,
+      "fontFamily": "Entypo",
+      "identifier": "ccw"
+    },
+    "chat": {
+      "codepoint": 57400,
+      "fontFamily": "Entypo",
+      "identifier": "chat"
+    },
+    "check": {
+      "codepoint": 57401,
+      "fontFamily": "Entypo",
+      "identifier": "check"
+    },
+    "chevron-down": {
+      "codepoint": 57402,
+      "fontFamily": "Entypo",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57403,
+      "fontFamily": "Entypo",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57404,
+      "fontFamily": "Entypo",
+      "identifier": "chevronRight"
+    },
+    "chevron-small-down": {
+      "codepoint": 57405,
+      "fontFamily": "Entypo",
+      "identifier": "chevronSmallDown"
+    },
+    "chevron-small-left": {
+      "codepoint": 57406,
+      "fontFamily": "Entypo",
+      "identifier": "chevronSmallLeft"
+    },
+    "chevron-small-right": {
+      "codepoint": 57407,
+      "fontFamily": "Entypo",
+      "identifier": "chevronSmallRight"
+    },
+    "chevron-small-up": {
+      "codepoint": 57408,
+      "fontFamily": "Entypo",
+      "identifier": "chevronSmallUp"
+    },
+    "chevron-thin-down": {
+      "codepoint": 57409,
+      "fontFamily": "Entypo",
+      "identifier": "chevronThinDown"
+    },
+    "chevron-thin-left": {
+      "codepoint": 57410,
+      "fontFamily": "Entypo",
+      "identifier": "chevronThinLeft"
+    },
+    "chevron-thin-right": {
+      "codepoint": 57411,
+      "fontFamily": "Entypo",
+      "identifier": "chevronThinRight"
+    },
+    "chevron-thin-up": {
+      "codepoint": 57412,
+      "fontFamily": "Entypo",
+      "identifier": "chevronThinUp"
+    },
+    "chevron-up": {
+      "codepoint": 57413,
+      "fontFamily": "Entypo",
+      "identifier": "chevronUp"
+    },
+    "chevron-with-circle-down": {
+      "codepoint": 57414,
+      "fontFamily": "Entypo",
+      "identifier": "chevronWithCircleDown"
+    },
+    "chevron-with-circle-left": {
+      "codepoint": 57415,
+      "fontFamily": "Entypo",
+      "identifier": "chevronWithCircleLeft"
+    },
+    "chevron-with-circle-right": {
+      "codepoint": 57416,
+      "fontFamily": "Entypo",
+      "identifier": "chevronWithCircleRight"
+    },
+    "chevron-with-circle-up": {
+      "codepoint": 57417,
+      "fontFamily": "Entypo",
+      "identifier": "chevronWithCircleUp"
+    },
+    "circle": {
+      "codepoint": 57418,
+      "fontFamily": "Entypo",
+      "identifier": "circle"
+    },
+    "circle-with-cross": {
+      "codepoint": 57419,
+      "fontFamily": "Entypo",
+      "identifier": "circleWithCross"
+    },
+    "circle-with-minus": {
+      "codepoint": 57420,
+      "fontFamily": "Entypo",
+      "identifier": "circleWithMinus"
+    },
+    "circle-with-plus": {
+      "codepoint": 57421,
+      "fontFamily": "Entypo",
+      "identifier": "circleWithPlus"
+    },
+    "circular-graph": {
+      "codepoint": 57422,
+      "fontFamily": "Entypo",
+      "identifier": "circularGraph"
+    },
+    "clapperboard": {
+      "codepoint": 57423,
+      "fontFamily": "Entypo",
+      "identifier": "clapperboard"
+    },
+    "classic-computer": {
+      "codepoint": 57424,
+      "fontFamily": "Entypo",
+      "identifier": "classicComputer"
+    },
+    "clipboard": {
+      "codepoint": 57425,
+      "fontFamily": "Entypo",
+      "identifier": "clipboard"
+    },
+    "clock": {
+      "codepoint": 57426,
+      "fontFamily": "Entypo",
+      "identifier": "clock"
+    },
+    "cloud": {
+      "codepoint": 57427,
+      "fontFamily": "Entypo",
+      "identifier": "cloud"
+    },
+    "code": {
+      "codepoint": 57428,
+      "fontFamily": "Entypo",
+      "identifier": "code"
+    },
+    "cog": {
+      "codepoint": 57429,
+      "fontFamily": "Entypo",
+      "identifier": "cog"
+    },
+    "colours": {
+      "codepoint": 57430,
+      "fontFamily": "Entypo",
+      "identifier": "colours"
+    },
+    "compass": {
+      "codepoint": 57431,
+      "fontFamily": "Entypo",
+      "identifier": "compass"
+    },
+    "controller-fast-backward": {
+      "codepoint": 57432,
+      "fontFamily": "Entypo",
+      "identifier": "controllerFastBackward"
+    },
+    "controller-fast-forward": {
+      "codepoint": 57433,
+      "fontFamily": "Entypo",
+      "identifier": "controllerFastForward"
+    },
+    "controller-jump-to-start": {
+      "codepoint": 57434,
+      "fontFamily": "Entypo",
+      "identifier": "controllerJumpToStart"
+    },
+    "controller-next": {
+      "codepoint": 57435,
+      "fontFamily": "Entypo",
+      "identifier": "controllerNext"
+    },
+    "controller-paus": {
+      "codepoint": 57436,
+      "fontFamily": "Entypo",
+      "identifier": "controllerPaus"
+    },
+    "controller-play": {
+      "codepoint": 57437,
+      "fontFamily": "Entypo",
+      "identifier": "controllerPlay"
+    },
+    "controller-record": {
+      "codepoint": 57438,
+      "fontFamily": "Entypo",
+      "identifier": "controllerRecord"
+    },
+    "controller-stop": {
+      "codepoint": 57439,
+      "fontFamily": "Entypo",
+      "identifier": "controllerStop"
+    },
+    "controller-volume": {
+      "codepoint": 57440,
+      "fontFamily": "Entypo",
+      "identifier": "controllerVolume"
+    },
+    "copy": {
+      "codepoint": 57441,
+      "fontFamily": "Entypo",
+      "identifier": "copy"
+    },
+    "creative-commons": {
+      "codepoint": 57442,
+      "fontFamily": "Entypo",
+      "identifier": "creativeCommons"
+    },
+    "creative-commons-attribution": {
+      "codepoint": 57443,
+      "fontFamily": "Entypo",
+      "identifier": "creativeCommonsAttribution"
+    },
+    "creative-commons-noderivs": {
+      "codepoint": 57444,
+      "fontFamily": "Entypo",
+      "identifier": "creativeCommonsNoderivs"
+    },
+    "creative-commons-noncommercial-eu": {
+      "codepoint": 57445,
+      "fontFamily": "Entypo",
+      "identifier": "creativeCommonsNoncommercialEu"
+    },
+    "creative-commons-noncommercial-us": {
+      "codepoint": 57446,
+      "fontFamily": "Entypo",
+      "identifier": "creativeCommonsNoncommercialUs"
+    },
+    "creative-commons-public-domain": {
+      "codepoint": 57447,
+      "fontFamily": "Entypo",
+      "identifier": "creativeCommonsPublicDomain"
+    },
+    "creative-commons-remix": {
+      "codepoint": 57448,
+      "fontFamily": "Entypo",
+      "identifier": "creativeCommonsRemix"
+    },
+    "creative-commons-share": {
+      "codepoint": 57449,
+      "fontFamily": "Entypo",
+      "identifier": "creativeCommonsShare"
+    },
+    "creative-commons-sharealike": {
+      "codepoint": 57450,
+      "fontFamily": "Entypo",
+      "identifier": "creativeCommonsSharealike"
+    },
+    "credit": {
+      "codepoint": 57451,
+      "fontFamily": "Entypo",
+      "identifier": "credit"
+    },
+    "credit-card": {
+      "codepoint": 57452,
+      "fontFamily": "Entypo",
+      "identifier": "creditCard"
+    },
+    "cross": {
+      "codepoint": 57453,
+      "fontFamily": "Entypo",
+      "identifier": "cross"
+    },
+    "cup": {
+      "codepoint": 57454,
+      "fontFamily": "Entypo",
+      "identifier": "cup"
+    },
+    "cw": {
+      "codepoint": 57455,
+      "fontFamily": "Entypo",
+      "identifier": "cw"
+    },
+    "cycle": {
+      "codepoint": 57456,
+      "fontFamily": "Entypo",
+      "identifier": "cycle"
+    },
+    "database": {
+      "codepoint": 57457,
+      "fontFamily": "Entypo",
+      "identifier": "database"
+    },
+    "dial-pad": {
+      "codepoint": 57458,
+      "fontFamily": "Entypo",
+      "identifier": "dialPad"
+    },
+    "direction": {
+      "codepoint": 57459,
+      "fontFamily": "Entypo",
+      "identifier": "direction"
+    },
+    "document": {
+      "codepoint": 57460,
+      "fontFamily": "Entypo",
+      "identifier": "document"
+    },
+    "document-landscape": {
+      "codepoint": 57461,
+      "fontFamily": "Entypo",
+      "identifier": "documentLandscape"
+    },
+    "documents": {
+      "codepoint": 57462,
+      "fontFamily": "Entypo",
+      "identifier": "documents"
+    },
+    "dot-single": {
+      "codepoint": 57463,
+      "fontFamily": "Entypo",
+      "identifier": "dotSingle"
+    },
+    "dots-three-horizontal": {
+      "codepoint": 57464,
+      "fontFamily": "Entypo",
+      "identifier": "dotsThreeHorizontal"
+    },
+    "dots-three-vertical": {
+      "codepoint": 57465,
+      "fontFamily": "Entypo",
+      "identifier": "dotsThreeVertical"
+    },
+    "dots-two-horizontal": {
+      "codepoint": 57466,
+      "fontFamily": "Entypo",
+      "identifier": "dotsTwoHorizontal"
+    },
+    "dots-two-vertical": {
+      "codepoint": 57467,
+      "fontFamily": "Entypo",
+      "identifier": "dotsTwoVertical"
+    },
+    "download": {
+      "codepoint": 57468,
+      "fontFamily": "Entypo",
+      "identifier": "download"
+    },
+    "drink": {
+      "codepoint": 57469,
+      "fontFamily": "Entypo",
+      "identifier": "drink"
+    },
+    "drive": {
+      "codepoint": 57470,
+      "fontFamily": "Entypo",
+      "identifier": "drive"
+    },
+    "drop": {
+      "codepoint": 57471,
+      "fontFamily": "Entypo",
+      "identifier": "drop"
+    },
+    "edit": {
+      "codepoint": 57472,
+      "fontFamily": "Entypo",
+      "identifier": "edit"
+    },
+    "email": {
+      "codepoint": 57473,
+      "fontFamily": "Entypo",
+      "identifier": "email"
+    },
+    "emoji-flirt": {
+      "codepoint": 57474,
+      "fontFamily": "Entypo",
+      "identifier": "emojiFlirt"
+    },
+    "emoji-happy": {
+      "codepoint": 57475,
+      "fontFamily": "Entypo",
+      "identifier": "emojiHappy"
+    },
+    "emoji-neutral": {
+      "codepoint": 57476,
+      "fontFamily": "Entypo",
+      "identifier": "emojiNeutral"
+    },
+    "emoji-sad": {
+      "codepoint": 57477,
+      "fontFamily": "Entypo",
+      "identifier": "emojiSad"
+    },
+    "erase": {
+      "codepoint": 57478,
+      "fontFamily": "Entypo",
+      "identifier": "erase"
+    },
+    "eraser": {
+      "codepoint": 57479,
+      "fontFamily": "Entypo",
+      "identifier": "eraser"
+    },
+    "export": {
+      "codepoint": 57480,
+      "fontFamily": "Entypo",
+      "identifier": "export_"
+    },
+    "eye": {
+      "codepoint": 57481,
+      "fontFamily": "Entypo",
+      "identifier": "eye"
+    },
+    "eye-with-line": {
+      "codepoint": 57482,
+      "fontFamily": "Entypo",
+      "identifier": "eyeWithLine"
+    },
+    "feather": {
+      "codepoint": 57483,
+      "fontFamily": "Entypo",
+      "identifier": "feather"
+    },
+    "flag": {
+      "codepoint": 57484,
+      "fontFamily": "Entypo",
+      "identifier": "flag"
+    },
+    "flash": {
+      "codepoint": 57485,
+      "fontFamily": "Entypo",
+      "identifier": "flash"
+    },
+    "flashlight": {
+      "codepoint": 57486,
+      "fontFamily": "Entypo",
+      "identifier": "flashlight"
+    },
+    "flat-brush": {
+      "codepoint": 57487,
+      "fontFamily": "Entypo",
+      "identifier": "flatBrush"
+    },
+    "flow-branch": {
+      "codepoint": 57488,
+      "fontFamily": "Entypo",
+      "identifier": "flowBranch"
+    },
+    "flow-cascade": {
+      "codepoint": 57489,
+      "fontFamily": "Entypo",
+      "identifier": "flowCascade"
+    },
+    "flow-line": {
+      "codepoint": 57490,
+      "fontFamily": "Entypo",
+      "identifier": "flowLine"
+    },
+    "flow-parallel": {
+      "codepoint": 57491,
+      "fontFamily": "Entypo",
+      "identifier": "flowParallel"
+    },
+    "flow-tree": {
+      "codepoint": 57492,
+      "fontFamily": "Entypo",
+      "identifier": "flowTree"
+    },
+    "flower": {
+      "codepoint": 57493,
+      "fontFamily": "Entypo",
+      "identifier": "flower"
+    },
+    "folder": {
+      "codepoint": 57494,
+      "fontFamily": "Entypo",
+      "identifier": "folder"
+    },
+    "folder-images": {
+      "codepoint": 57495,
+      "fontFamily": "Entypo",
+      "identifier": "folderImages"
+    },
+    "folder-music": {
+      "codepoint": 57496,
+      "fontFamily": "Entypo",
+      "identifier": "folderMusic"
+    },
+    "folder-video": {
+      "codepoint": 57497,
+      "fontFamily": "Entypo",
+      "identifier": "folderVideo"
+    },
+    "forward": {
+      "codepoint": 57498,
+      "fontFamily": "Entypo",
+      "identifier": "forward"
+    },
+    "funnel": {
+      "codepoint": 57499,
+      "fontFamily": "Entypo",
+      "identifier": "funnel"
+    },
+    "game-controller": {
+      "codepoint": 57500,
+      "fontFamily": "Entypo",
+      "identifier": "gameController"
+    },
+    "gauge": {
+      "codepoint": 57501,
+      "fontFamily": "Entypo",
+      "identifier": "gauge"
+    },
+    "globe": {
+      "codepoint": 57502,
+      "fontFamily": "Entypo",
+      "identifier": "globe"
+    },
+    "graduation-cap": {
+      "codepoint": 57503,
+      "fontFamily": "Entypo",
+      "identifier": "graduationCap"
+    },
+    "grid": {
+      "codepoint": 57504,
+      "fontFamily": "Entypo",
+      "identifier": "grid"
+    },
+    "hair-cross": {
+      "codepoint": 57505,
+      "fontFamily": "Entypo",
+      "identifier": "hairCross"
+    },
+    "hand": {
+      "codepoint": 57506,
+      "fontFamily": "Entypo",
+      "identifier": "hand"
+    },
+    "heart": {
+      "codepoint": 57507,
+      "fontFamily": "Entypo",
+      "identifier": "heart"
+    },
+    "heart-outlined": {
+      "codepoint": 57508,
+      "fontFamily": "Entypo",
+      "identifier": "heartOutlined"
+    },
+    "help": {
+      "codepoint": 57509,
+      "fontFamily": "Entypo",
+      "identifier": "help"
+    },
+    "help-with-circle": {
+      "codepoint": 57510,
+      "fontFamily": "Entypo",
+      "identifier": "helpWithCircle"
+    },
+    "home": {
+      "codepoint": 57511,
+      "fontFamily": "Entypo",
+      "identifier": "home"
+    },
+    "hour-glass": {
+      "codepoint": 57512,
+      "fontFamily": "Entypo",
+      "identifier": "hourGlass"
+    },
+    "image": {
+      "codepoint": 57513,
+      "fontFamily": "Entypo",
+      "identifier": "image"
+    },
+    "image-inverted": {
+      "codepoint": 57514,
+      "fontFamily": "Entypo",
+      "identifier": "imageInverted"
+    },
+    "images": {
+      "codepoint": 57515,
+      "fontFamily": "Entypo",
+      "identifier": "images"
+    },
+    "inbox": {
+      "codepoint": 57516,
+      "fontFamily": "Entypo",
+      "identifier": "inbox"
+    },
+    "infinity": {
+      "codepoint": 57517,
+      "fontFamily": "Entypo",
+      "identifier": "infinity"
+    },
+    "info": {
+      "codepoint": 57518,
+      "fontFamily": "Entypo",
+      "identifier": "info"
+    },
+    "info-with-circle": {
+      "codepoint": 57519,
+      "fontFamily": "Entypo",
+      "identifier": "infoWithCircle"
+    },
+    "install": {
+      "codepoint": 57520,
+      "fontFamily": "Entypo",
+      "identifier": "install"
+    },
+    "key": {
+      "codepoint": 57521,
+      "fontFamily": "Entypo",
+      "identifier": "key"
+    },
+    "keyboard": {
+      "codepoint": 57522,
+      "fontFamily": "Entypo",
+      "identifier": "keyboard"
+    },
+    "lab-flask": {
+      "codepoint": 57523,
+      "fontFamily": "Entypo",
+      "identifier": "labFlask"
+    },
+    "landline": {
+      "codepoint": 57524,
+      "fontFamily": "Entypo",
+      "identifier": "landline"
+    },
+    "language": {
+      "codepoint": 57525,
+      "fontFamily": "Entypo",
+      "identifier": "language"
+    },
+    "laptop": {
+      "codepoint": 57526,
+      "fontFamily": "Entypo",
+      "identifier": "laptop"
+    },
+    "layers": {
+      "codepoint": 57527,
+      "fontFamily": "Entypo",
+      "identifier": "layers"
+    },
+    "leaf": {
+      "codepoint": 57528,
+      "fontFamily": "Entypo",
+      "identifier": "leaf"
+    },
+    "level-down": {
+      "codepoint": 57529,
+      "fontFamily": "Entypo",
+      "identifier": "levelDown"
+    },
+    "level-up": {
+      "codepoint": 57530,
+      "fontFamily": "Entypo",
+      "identifier": "levelUp"
+    },
+    "lifebuoy": {
+      "codepoint": 57531,
+      "fontFamily": "Entypo",
+      "identifier": "lifebuoy"
+    },
+    "light-bulb": {
+      "codepoint": 57532,
+      "fontFamily": "Entypo",
+      "identifier": "lightBulb"
+    },
+    "light-down": {
+      "codepoint": 57533,
+      "fontFamily": "Entypo",
+      "identifier": "lightDown"
+    },
+    "light-up": {
+      "codepoint": 57534,
+      "fontFamily": "Entypo",
+      "identifier": "lightUp"
+    },
+    "line-graph": {
+      "codepoint": 57535,
+      "fontFamily": "Entypo",
+      "identifier": "lineGraph"
+    },
+    "link": {
+      "codepoint": 57536,
+      "fontFamily": "Entypo",
+      "identifier": "link"
+    },
+    "list": {
+      "codepoint": 57537,
+      "fontFamily": "Entypo",
+      "identifier": "list"
+    },
+    "location": {
+      "codepoint": 57538,
+      "fontFamily": "Entypo",
+      "identifier": "location"
+    },
+    "location-pin": {
+      "codepoint": 57539,
+      "fontFamily": "Entypo",
+      "identifier": "locationPin"
+    },
+    "lock": {
+      "codepoint": 57540,
+      "fontFamily": "Entypo",
+      "identifier": "lock"
+    },
+    "lock-open": {
+      "codepoint": 57541,
+      "fontFamily": "Entypo",
+      "identifier": "lockOpen"
+    },
+    "log-out": {
+      "codepoint": 57542,
+      "fontFamily": "Entypo",
+      "identifier": "logOut"
+    },
+    "login": {
+      "codepoint": 57543,
+      "fontFamily": "Entypo",
+      "identifier": "login"
+    },
+    "loop": {
+      "codepoint": 57544,
+      "fontFamily": "Entypo",
+      "identifier": "loop"
+    },
+    "magnet": {
+      "codepoint": 57545,
+      "fontFamily": "Entypo",
+      "identifier": "magnet"
+    },
+    "magnifying-glass": {
+      "codepoint": 57546,
+      "fontFamily": "Entypo",
+      "identifier": "magnifyingGlass"
+    },
+    "mail": {
+      "codepoint": 57547,
+      "fontFamily": "Entypo",
+      "identifier": "mail"
+    },
+    "man": {
+      "codepoint": 57548,
+      "fontFamily": "Entypo",
+      "identifier": "man"
+    },
+    "map": {
+      "codepoint": 57549,
+      "fontFamily": "Entypo",
+      "identifier": "map"
+    },
+    "mask": {
+      "codepoint": 57550,
+      "fontFamily": "Entypo",
+      "identifier": "mask"
+    },
+    "medal": {
+      "codepoint": 57551,
+      "fontFamily": "Entypo",
+      "identifier": "medal"
+    },
+    "megaphone": {
+      "codepoint": 57552,
+      "fontFamily": "Entypo",
+      "identifier": "megaphone"
+    },
+    "menu": {
+      "codepoint": 57553,
+      "fontFamily": "Entypo",
+      "identifier": "menu"
+    },
+    "merge": {
+      "codepoint": 57554,
+      "fontFamily": "Entypo",
+      "identifier": "merge"
+    },
+    "message": {
+      "codepoint": 57555,
+      "fontFamily": "Entypo",
+      "identifier": "message"
+    },
+    "mic": {
+      "codepoint": 57556,
+      "fontFamily": "Entypo",
+      "identifier": "mic"
+    },
+    "minus": {
+      "codepoint": 57557,
+      "fontFamily": "Entypo",
+      "identifier": "minus"
+    },
+    "mobile": {
+      "codepoint": 57558,
+      "fontFamily": "Entypo",
+      "identifier": "mobile"
+    },
+    "modern-mic": {
+      "codepoint": 57559,
+      "fontFamily": "Entypo",
+      "identifier": "modernMic"
+    },
+    "moon": {
+      "codepoint": 57560,
+      "fontFamily": "Entypo",
+      "identifier": "moon"
+    },
+    "mouse": {
+      "codepoint": 57561,
+      "fontFamily": "Entypo",
+      "identifier": "mouse"
+    },
+    "music": {
+      "codepoint": 57562,
+      "fontFamily": "Entypo",
+      "identifier": "music"
+    },
+    "network": {
+      "codepoint": 57563,
+      "fontFamily": "Entypo",
+      "identifier": "network"
+    },
+    "new": {
+      "codepoint": 57564,
+      "fontFamily": "Entypo",
+      "identifier": "new_"
+    },
+    "new-message": {
+      "codepoint": 57565,
+      "fontFamily": "Entypo",
+      "identifier": "newMessage"
+    },
+    "news": {
+      "codepoint": 57566,
+      "fontFamily": "Entypo",
+      "identifier": "news"
+    },
+    "note": {
+      "codepoint": 57567,
+      "fontFamily": "Entypo",
+      "identifier": "note"
+    },
+    "notification": {
+      "codepoint": 57568,
+      "fontFamily": "Entypo",
+      "identifier": "notification"
+    },
+    "old-mobile": {
+      "codepoint": 57569,
+      "fontFamily": "Entypo",
+      "identifier": "oldMobile"
+    },
+    "old-phone": {
+      "codepoint": 57570,
+      "fontFamily": "Entypo",
+      "identifier": "oldPhone"
+    },
+    "open-book": {
+      "codepoint": 57571,
+      "fontFamily": "Entypo",
+      "identifier": "openBook"
+    },
+    "palette": {
+      "codepoint": 57572,
+      "fontFamily": "Entypo",
+      "identifier": "palette"
+    },
+    "paper-plane": {
+      "codepoint": 57573,
+      "fontFamily": "Entypo",
+      "identifier": "paperPlane"
+    },
+    "pencil": {
+      "codepoint": 57574,
+      "fontFamily": "Entypo",
+      "identifier": "pencil"
+    },
+    "phone": {
+      "codepoint": 57575,
+      "fontFamily": "Entypo",
+      "identifier": "phone"
+    },
+    "pie-chart": {
+      "codepoint": 57576,
+      "fontFamily": "Entypo",
+      "identifier": "pieChart"
+    },
+    "pin": {
+      "codepoint": 57577,
+      "fontFamily": "Entypo",
+      "identifier": "pin"
+    },
+    "plus": {
+      "codepoint": 57578,
+      "fontFamily": "Entypo",
+      "identifier": "plus"
+    },
+    "popup": {
+      "codepoint": 57579,
+      "fontFamily": "Entypo",
+      "identifier": "popup"
+    },
+    "power-plug": {
+      "codepoint": 57580,
+      "fontFamily": "Entypo",
+      "identifier": "powerPlug"
+    },
+    "price-ribbon": {
+      "codepoint": 57581,
+      "fontFamily": "Entypo",
+      "identifier": "priceRibbon"
+    },
+    "price-tag": {
+      "codepoint": 57582,
+      "fontFamily": "Entypo",
+      "identifier": "priceTag"
+    },
+    "print": {
+      "codepoint": 57583,
+      "fontFamily": "Entypo",
+      "identifier": "print"
+    },
+    "progress-empty": {
+      "codepoint": 57584,
+      "fontFamily": "Entypo",
+      "identifier": "progressEmpty"
+    },
+    "progress-full": {
+      "codepoint": 57585,
+      "fontFamily": "Entypo",
+      "identifier": "progressFull"
+    },
+    "progress-one": {
+      "codepoint": 57586,
+      "fontFamily": "Entypo",
+      "identifier": "progressOne"
+    },
+    "progress-two": {
+      "codepoint": 57587,
+      "fontFamily": "Entypo",
+      "identifier": "progressTwo"
+    },
+    "publish": {
+      "codepoint": 57588,
+      "fontFamily": "Entypo",
+      "identifier": "publish"
+    },
+    "quote": {
+      "codepoint": 57589,
+      "fontFamily": "Entypo",
+      "identifier": "quote"
+    },
+    "radio": {
+      "codepoint": 57590,
+      "fontFamily": "Entypo",
+      "identifier": "radio"
+    },
+    "remove-user": {
+      "codepoint": 57591,
+      "fontFamily": "Entypo",
+      "identifier": "removeUser"
+    },
+    "reply": {
+      "codepoint": 57592,
+      "fontFamily": "Entypo",
+      "identifier": "reply"
+    },
+    "reply-all": {
+      "codepoint": 57593,
+      "fontFamily": "Entypo",
+      "identifier": "replyAll"
+    },
+    "resize-100": {
+      "codepoint": 57594,
+      "fontFamily": "Entypo",
+      "identifier": "resize100"
+    },
+    "resize-full-screen": {
+      "codepoint": 57595,
+      "fontFamily": "Entypo",
+      "identifier": "resizeFullScreen"
+    },
+    "retweet": {
+      "codepoint": 57596,
+      "fontFamily": "Entypo",
+      "identifier": "retweet"
+    },
+    "rocket": {
+      "codepoint": 57597,
+      "fontFamily": "Entypo",
+      "identifier": "rocket"
+    },
+    "round-brush": {
+      "codepoint": 57598,
+      "fontFamily": "Entypo",
+      "identifier": "roundBrush"
+    },
+    "rss": {
+      "codepoint": 57599,
+      "fontFamily": "Entypo",
+      "identifier": "rss"
+    },
+    "ruler": {
+      "codepoint": 57600,
+      "fontFamily": "Entypo",
+      "identifier": "ruler"
+    },
+    "save": {
+      "codepoint": 57601,
+      "fontFamily": "Entypo",
+      "identifier": "save"
+    },
+    "scissors": {
+      "codepoint": 57602,
+      "fontFamily": "Entypo",
+      "identifier": "scissors"
+    },
+    "select-arrows": {
+      "codepoint": 57603,
+      "fontFamily": "Entypo",
+      "identifier": "selectArrows"
+    },
+    "share": {
+      "codepoint": 57604,
+      "fontFamily": "Entypo",
+      "identifier": "share"
+    },
+    "share-alternitive": {
+      "codepoint": 57605,
+      "fontFamily": "Entypo",
+      "identifier": "shareAlternitive"
+    },
+    "shareable": {
+      "codepoint": 57606,
+      "fontFamily": "Entypo",
+      "identifier": "shareable"
+    },
+    "shield": {
+      "codepoint": 57607,
+      "fontFamily": "Entypo",
+      "identifier": "shield"
+    },
+    "shop": {
+      "codepoint": 57608,
+      "fontFamily": "Entypo",
+      "identifier": "shop"
+    },
+    "shopping-bag": {
+      "codepoint": 57609,
+      "fontFamily": "Entypo",
+      "identifier": "shoppingBag"
+    },
+    "shopping-basket": {
+      "codepoint": 57610,
+      "fontFamily": "Entypo",
+      "identifier": "shoppingBasket"
+    },
+    "shopping-cart": {
+      "codepoint": 57611,
+      "fontFamily": "Entypo",
+      "identifier": "shoppingCart"
+    },
+    "shuffle": {
+      "codepoint": 57612,
+      "fontFamily": "Entypo",
+      "identifier": "shuffle"
+    },
+    "signal": {
+      "codepoint": 57613,
+      "fontFamily": "Entypo",
+      "identifier": "signal"
+    },
+    "sound": {
+      "codepoint": 57614,
+      "fontFamily": "Entypo",
+      "identifier": "sound"
+    },
+    "sound-mix": {
+      "codepoint": 57615,
+      "fontFamily": "Entypo",
+      "identifier": "soundMix"
+    },
+    "sound-mute": {
+      "codepoint": 57616,
+      "fontFamily": "Entypo",
+      "identifier": "soundMute"
+    },
+    "sports-club": {
+      "codepoint": 57617,
+      "fontFamily": "Entypo",
+      "identifier": "sportsClub"
+    },
+    "spreadsheet": {
+      "codepoint": 57618,
+      "fontFamily": "Entypo",
+      "identifier": "spreadsheet"
+    },
+    "squared-cross": {
+      "codepoint": 57619,
+      "fontFamily": "Entypo",
+      "identifier": "squaredCross"
+    },
+    "squared-minus": {
+      "codepoint": 57620,
+      "fontFamily": "Entypo",
+      "identifier": "squaredMinus"
+    },
+    "squared-plus": {
+      "codepoint": 57621,
+      "fontFamily": "Entypo",
+      "identifier": "squaredPlus"
+    },
+    "star": {
+      "codepoint": 57622,
+      "fontFamily": "Entypo",
+      "identifier": "star"
+    },
+    "star-outlined": {
+      "codepoint": 57623,
+      "fontFamily": "Entypo",
+      "identifier": "starOutlined"
+    },
+    "stopwatch": {
+      "codepoint": 57624,
+      "fontFamily": "Entypo",
+      "identifier": "stopwatch"
+    },
+    "suitcase": {
+      "codepoint": 57625,
+      "fontFamily": "Entypo",
+      "identifier": "suitcase"
+    },
+    "swap": {
+      "codepoint": 57626,
+      "fontFamily": "Entypo",
+      "identifier": "swap"
+    },
+    "sweden": {
+      "codepoint": 57627,
+      "fontFamily": "Entypo",
+      "identifier": "sweden"
+    },
+    "switch": {
+      "codepoint": 57628,
+      "fontFamily": "Entypo",
+      "identifier": "switch_"
+    },
+    "tablet": {
+      "codepoint": 57629,
+      "fontFamily": "Entypo",
+      "identifier": "tablet"
+    },
+    "tag": {
+      "codepoint": 57630,
+      "fontFamily": "Entypo",
+      "identifier": "tag"
+    },
+    "text": {
+      "codepoint": 57631,
+      "fontFamily": "Entypo",
+      "identifier": "text"
+    },
+    "text-document": {
+      "codepoint": 57632,
+      "fontFamily": "Entypo",
+      "identifier": "textDocument"
+    },
+    "text-document-inverted": {
+      "codepoint": 57633,
+      "fontFamily": "Entypo",
+      "identifier": "textDocumentInverted"
+    },
+    "thermometer": {
+      "codepoint": 57634,
+      "fontFamily": "Entypo",
+      "identifier": "thermometer"
+    },
+    "thumbs-down": {
+      "codepoint": 57635,
+      "fontFamily": "Entypo",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-up": {
+      "codepoint": 57636,
+      "fontFamily": "Entypo",
+      "identifier": "thumbsUp"
+    },
+    "thunder-cloud": {
+      "codepoint": 57637,
+      "fontFamily": "Entypo",
+      "identifier": "thunderCloud"
+    },
+    "ticket": {
+      "codepoint": 57638,
+      "fontFamily": "Entypo",
+      "identifier": "ticket"
+    },
+    "time-slot": {
+      "codepoint": 57639,
+      "fontFamily": "Entypo",
+      "identifier": "timeSlot"
+    },
+    "tools": {
+      "codepoint": 57640,
+      "fontFamily": "Entypo",
+      "identifier": "tools"
+    },
+    "traffic-cone": {
+      "codepoint": 57641,
+      "fontFamily": "Entypo",
+      "identifier": "trafficCone"
+    },
+    "trash": {
+      "codepoint": 57642,
+      "fontFamily": "Entypo",
+      "identifier": "trash"
+    },
+    "tree": {
+      "codepoint": 57643,
+      "fontFamily": "Entypo",
+      "identifier": "tree"
+    },
+    "triangle-down": {
+      "codepoint": 57644,
+      "fontFamily": "Entypo",
+      "identifier": "triangleDown"
+    },
+    "triangle-left": {
+      "codepoint": 57645,
+      "fontFamily": "Entypo",
+      "identifier": "triangleLeft"
+    },
+    "triangle-right": {
+      "codepoint": 57646,
+      "fontFamily": "Entypo",
+      "identifier": "triangleRight"
+    },
+    "triangle-up": {
+      "codepoint": 57647,
+      "fontFamily": "Entypo",
+      "identifier": "triangleUp"
+    },
+    "trophy": {
+      "codepoint": 57648,
+      "fontFamily": "Entypo",
+      "identifier": "trophy"
+    },
+    "tv": {
+      "codepoint": 57649,
+      "fontFamily": "Entypo",
+      "identifier": "tv"
+    },
+    "typing": {
+      "codepoint": 57650,
+      "fontFamily": "Entypo",
+      "identifier": "typing"
+    },
+    "uninstall": {
+      "codepoint": 57651,
+      "fontFamily": "Entypo",
+      "identifier": "uninstall"
+    },
+    "unread": {
+      "codepoint": 57652,
+      "fontFamily": "Entypo",
+      "identifier": "unread"
+    },
+    "untag": {
+      "codepoint": 57653,
+      "fontFamily": "Entypo",
+      "identifier": "untag"
+    },
+    "upload": {
+      "codepoint": 57654,
+      "fontFamily": "Entypo",
+      "identifier": "upload"
+    },
+    "upload-to-cloud": {
+      "codepoint": 57655,
+      "fontFamily": "Entypo",
+      "identifier": "uploadToCloud"
+    },
+    "user": {
+      "codepoint": 57656,
+      "fontFamily": "Entypo",
+      "identifier": "user"
+    },
+    "users": {
+      "codepoint": 57657,
+      "fontFamily": "Entypo",
+      "identifier": "users"
+    },
+    "v-card": {
+      "codepoint": 57658,
+      "fontFamily": "Entypo",
+      "identifier": "vCard"
+    },
+    "video": {
+      "codepoint": 57659,
+      "fontFamily": "Entypo",
+      "identifier": "video"
+    },
+    "vinyl": {
+      "codepoint": 57660,
+      "fontFamily": "Entypo",
+      "identifier": "vinyl"
+    },
+    "voicemail": {
+      "codepoint": 57661,
+      "fontFamily": "Entypo",
+      "identifier": "voicemail"
+    },
+    "wallet": {
+      "codepoint": 57662,
+      "fontFamily": "Entypo",
+      "identifier": "wallet"
+    },
+    "warning": {
+      "codepoint": 57663,
+      "fontFamily": "Entypo",
+      "identifier": "warning"
+    },
+    "water": {
+      "codepoint": 57664,
+      "fontFamily": "Entypo",
+      "identifier": "water"
+    }
+  }
+}

@@ -1,0 +1,1830 @@
+{
+  "schemaVersion": 1,
+  "prefix": "guidance",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_guidance",
+  "info": {
+    "name": "Guidance",
+    "author": {
+      "name": "Streamline",
+      "url": "https://github.com/webalys-hq/streamline-vectors"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 360
+  },
+  "fonts": [
+    {
+      "family": "Guidance",
+      "nextCodepoint": 57704,
+      "iconCount": 360
+    }
+  ],
+  "icons": {
+    "24-hours": {
+      "codepoint": 57344,
+      "fontFamily": "Guidance",
+      "identifier": "n24Hours"
+    },
+    "accesible-restroom": {
+      "codepoint": 57345,
+      "fontFamily": "Guidance",
+      "identifier": "accesibleRestroom"
+    },
+    "access-for-hearing-loss": {
+      "codepoint": 57346,
+      "fontFamily": "Guidance",
+      "identifier": "accessForHearingLoss"
+    },
+    "access-to-low-vision": {
+      "codepoint": 57347,
+      "fontFamily": "Guidance",
+      "identifier": "accessToLowVision"
+    },
+    "accessible-exit": {
+      "codepoint": 57348,
+      "fontFamily": "Guidance",
+      "identifier": "accessibleExit"
+    },
+    "accessible-exit-2": {
+      "codepoint": 57349,
+      "fontFamily": "Guidance",
+      "identifier": "accessibleExit2"
+    },
+    "accessible-men-restroom": {
+      "codepoint": 57350,
+      "fontFamily": "Guidance",
+      "identifier": "accessibleMenRestroom"
+    },
+    "accessible-women-restroom": {
+      "codepoint": 57351,
+      "fontFamily": "Guidance",
+      "identifier": "accessibleWomenRestroom"
+    },
+    "airplane-mode": {
+      "codepoint": 57352,
+      "fontFamily": "Guidance",
+      "identifier": "airplaneMode"
+    },
+    "airplane-mode-off": {
+      "codepoint": 57353,
+      "fontFamily": "Guidance",
+      "identifier": "airplaneModeOff"
+    },
+    "alarm": {
+      "codepoint": 57354,
+      "fontFamily": "Guidance",
+      "identifier": "alarm"
+    },
+    "alarm-bell": {
+      "codepoint": 57355,
+      "fontFamily": "Guidance",
+      "identifier": "alarmBell"
+    },
+    "alert-octagon": {
+      "codepoint": 57356,
+      "fontFamily": "Guidance",
+      "identifier": "alertOctagon"
+    },
+    "alert-triangle": {
+      "codepoint": 57357,
+      "fontFamily": "Guidance",
+      "identifier": "alertTriangle"
+    },
+    "ambulance-entrance": {
+      "codepoint": 57358,
+      "fontFamily": "Guidance",
+      "identifier": "ambulanceEntrance"
+    },
+    "amusement-park": {
+      "codepoint": 57359,
+      "fontFamily": "Guidance",
+      "identifier": "amusementPark"
+    },
+    "aquarium": {
+      "codepoint": 57360,
+      "fontFamily": "Guidance",
+      "identifier": "aquarium"
+    },
+    "arcade": {
+      "codepoint": 57361,
+      "fontFamily": "Guidance",
+      "identifier": "arcade"
+    },
+    "arrival": {
+      "codepoint": 57362,
+      "fontFamily": "Guidance",
+      "identifier": "arrival"
+    },
+    "assistive-listening-device": {
+      "codepoint": 57363,
+      "fontFamily": "Guidance",
+      "identifier": "assistiveListeningDevice"
+    },
+    "atm": {
+      "codepoint": 57364,
+      "fontFamily": "Guidance",
+      "identifier": "atm"
+    },
+    "audio-description": {
+      "codepoint": 57365,
+      "fontFamily": "Guidance",
+      "identifier": "audioDescription"
+    },
+    "auditorium": {
+      "codepoint": 57366,
+      "fontFamily": "Guidance",
+      "identifier": "auditorium"
+    },
+    "bank": {
+      "codepoint": 57367,
+      "fontFamily": "Guidance",
+      "identifier": "bank"
+    },
+    "bar": {
+      "codepoint": 57368,
+      "fontFamily": "Guidance",
+      "identifier": "bar"
+    },
+    "bell": {
+      "codepoint": 57369,
+      "fontFamily": "Guidance",
+      "identifier": "bell"
+    },
+    "bicycle": {
+      "codepoint": 57370,
+      "fontFamily": "Guidance",
+      "identifier": "bicycle"
+    },
+    "billing-department": {
+      "codepoint": 57371,
+      "fontFamily": "Guidance",
+      "identifier": "billingDepartment"
+    },
+    "bin": {
+      "codepoint": 57372,
+      "fontFamily": "Guidance",
+      "identifier": "bin"
+    },
+    "bin-person": {
+      "codepoint": 57373,
+      "fontFamily": "Guidance",
+      "identifier": "binPerson"
+    },
+    "bin-throw-person": {
+      "codepoint": 57374,
+      "fontFamily": "Guidance",
+      "identifier": "binThrowPerson"
+    },
+    "bowling": {
+      "codepoint": 57375,
+      "fontFamily": "Guidance",
+      "identifier": "bowling"
+    },
+    "boxing": {
+      "codepoint": 57376,
+      "fontFamily": "Guidance",
+      "identifier": "boxing"
+    },
+    "braille": {
+      "codepoint": 57377,
+      "fontFamily": "Guidance",
+      "identifier": "braille"
+    },
+    "bus": {
+      "codepoint": 57378,
+      "fontFamily": "Guidance",
+      "identifier": "bus"
+    },
+    "cablecar": {
+      "codepoint": 57379,
+      "fontFamily": "Guidance",
+      "identifier": "cablecar"
+    },
+    "cafeteria": {
+      "codepoint": 57380,
+      "fontFamily": "Guidance",
+      "identifier": "cafeteria"
+    },
+    "calendar": {
+      "codepoint": 57381,
+      "fontFamily": "Guidance",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57382,
+      "fontFamily": "Guidance",
+      "identifier": "camera"
+    },
+    "campfires": {
+      "codepoint": 57383,
+      "fontFamily": "Guidance",
+      "identifier": "campfires"
+    },
+    "campground": {
+      "codepoint": 57384,
+      "fontFamily": "Guidance",
+      "identifier": "campground"
+    },
+    "car": {
+      "codepoint": 57385,
+      "fontFamily": "Guidance",
+      "identifier": "car"
+    },
+    "car-rental": {
+      "codepoint": 57386,
+      "fontFamily": "Guidance",
+      "identifier": "carRental"
+    },
+    "card": {
+      "codepoint": 57387,
+      "fontFamily": "Guidance",
+      "identifier": "card"
+    },
+    "care-staff-area": {
+      "codepoint": 57388,
+      "fontFamily": "Guidance",
+      "identifier": "careStaffArea"
+    },
+    "casino": {
+      "codepoint": 57389,
+      "fontFamily": "Guidance",
+      "identifier": "casino"
+    },
+    "changin-room-disabled": {
+      "codepoint": 57390,
+      "fontFamily": "Guidance",
+      "identifier": "changinRoomDisabled"
+    },
+    "changin-room-family": {
+      "codepoint": 57391,
+      "fontFamily": "Guidance",
+      "identifier": "changinRoomFamily"
+    },
+    "changin-room-man": {
+      "codepoint": 57392,
+      "fontFamily": "Guidance",
+      "identifier": "changinRoomMan"
+    },
+    "changin-room-woman": {
+      "codepoint": 57393,
+      "fontFamily": "Guidance",
+      "identifier": "changinRoomWoman"
+    },
+    "changing-room-hanger": {
+      "codepoint": 57394,
+      "fontFamily": "Guidance",
+      "identifier": "changingRoomHanger"
+    },
+    "chapel": {
+      "codepoint": 57395,
+      "fontFamily": "Guidance",
+      "identifier": "chapel"
+    },
+    "charging-station": {
+      "codepoint": 57396,
+      "fontFamily": "Guidance",
+      "identifier": "chargingStation"
+    },
+    "chat": {
+      "codepoint": 57397,
+      "fontFamily": "Guidance",
+      "identifier": "chat"
+    },
+    "children-must-be-supervised": {
+      "codepoint": 57398,
+      "fontFamily": "Guidance",
+      "identifier": "childrenMustBeSupervised"
+    },
+    "cleaning-room": {
+      "codepoint": 57399,
+      "fontFamily": "Guidance",
+      "identifier": "cleaningRoom"
+    },
+    "cleaning-room-2": {
+      "codepoint": 57400,
+      "fontFamily": "Guidance",
+      "identifier": "cleaningRoom2"
+    },
+    "climbing-wall": {
+      "codepoint": 57401,
+      "fontFamily": "Guidance",
+      "identifier": "climbingWall"
+    },
+    "clock": {
+      "codepoint": 57402,
+      "fontFamily": "Guidance",
+      "identifier": "clock"
+    },
+    "closed-captioning": {
+      "codepoint": 57403,
+      "fontFamily": "Guidance",
+      "identifier": "closedCaptioning"
+    },
+    "cloud": {
+      "codepoint": 57404,
+      "fontFamily": "Guidance",
+      "identifier": "cloud"
+    },
+    "coffee-shop": {
+      "codepoint": 57405,
+      "fontFamily": "Guidance",
+      "identifier": "coffeeShop"
+    },
+    "computer-room": {
+      "codepoint": 57406,
+      "fontFamily": "Guidance",
+      "identifier": "computerRoom"
+    },
+    "conference-room": {
+      "codepoint": 57407,
+      "fontFamily": "Guidance",
+      "identifier": "conferenceRoom"
+    },
+    "coworking-space": {
+      "codepoint": 57408,
+      "fontFamily": "Guidance",
+      "identifier": "coworkingSpace"
+    },
+    "crutch": {
+      "codepoint": 57409,
+      "fontFamily": "Guidance",
+      "identifier": "crutch"
+    },
+    "currency-exchange": {
+      "codepoint": 57410,
+      "fontFamily": "Guidance",
+      "identifier": "currencyExchange"
+    },
+    "customs": {
+      "codepoint": 57411,
+      "fontFamily": "Guidance",
+      "identifier": "customs"
+    },
+    "danger-poison": {
+      "codepoint": 57412,
+      "fontFamily": "Guidance",
+      "identifier": "dangerPoison"
+    },
+    "departure": {
+      "codepoint": 57413,
+      "fontFamily": "Guidance",
+      "identifier": "departure"
+    },
+    "desk-for-laptop": {
+      "codepoint": 57414,
+      "fontFamily": "Guidance",
+      "identifier": "deskForLaptop"
+    },
+    "discotheque": {
+      "codepoint": 57415,
+      "fontFamily": "Guidance",
+      "identifier": "discotheque"
+    },
+    "dislike": {
+      "codepoint": 57416,
+      "fontFamily": "Guidance",
+      "identifier": "dislike"
+    },
+    "do-not-sit": {
+      "codepoint": 57417,
+      "fontFamily": "Guidance",
+      "identifier": "doNotSit"
+    },
+    "do-not-skateboard-rollerboard": {
+      "codepoint": 57418,
+      "fontFamily": "Guidance",
+      "identifier": "doNotSkateboardRollerboard"
+    },
+    "do-not-stand-here": {
+      "codepoint": 57419,
+      "fontFamily": "Guidance",
+      "identifier": "doNotStandHere"
+    },
+    "down-2-short-arrow": {
+      "codepoint": 57420,
+      "fontFamily": "Guidance",
+      "identifier": "down2ShortArrow"
+    },
+    "down-angle-arrow": {
+      "codepoint": 57421,
+      "fontFamily": "Guidance",
+      "identifier": "downAngleArrow"
+    },
+    "down-arrow": {
+      "codepoint": 57422,
+      "fontFamily": "Guidance",
+      "identifier": "downArrow"
+    },
+    "down-left-2-short-arrow": {
+      "codepoint": 57423,
+      "fontFamily": "Guidance",
+      "identifier": "downLeft2ShortArrow"
+    },
+    "down-left-arrow": {
+      "codepoint": 57424,
+      "fontFamily": "Guidance",
+      "identifier": "downLeftArrow"
+    },
+    "down-right-2-short-arrow": {
+      "codepoint": 57425,
+      "fontFamily": "Guidance",
+      "identifier": "downRight2ShortArrow"
+    },
+    "down-right-arrow": {
+      "codepoint": 57426,
+      "fontFamily": "Guidance",
+      "identifier": "downRightArrow"
+    },
+    "drinking-fountain": {
+      "codepoint": 57427,
+      "fontFamily": "Guidance",
+      "identifier": "drinkingFountain"
+    },
+    "drinking-water": {
+      "codepoint": 57428,
+      "fontFamily": "Guidance",
+      "identifier": "drinkingWater"
+    },
+    "drone-zone": {
+      "codepoint": 57429,
+      "fontFamily": "Guidance",
+      "identifier": "droneZone"
+    },
+    "e-bike-1": {
+      "codepoint": 57430,
+      "fontFamily": "Guidance",
+      "identifier": "eBike1"
+    },
+    "e-bike-2": {
+      "codepoint": 57431,
+      "fontFamily": "Guidance",
+      "identifier": "eBike2"
+    },
+    "elderly-people-priority-seating": {
+      "codepoint": 57432,
+      "fontFamily": "Guidance",
+      "identifier": "elderlyPeoplePrioritySeating"
+    },
+    "electric-scooter": {
+      "codepoint": 57433,
+      "fontFamily": "Guidance",
+      "identifier": "electricScooter"
+    },
+    "electric-wheelchair": {
+      "codepoint": 57434,
+      "fontFamily": "Guidance",
+      "identifier": "electricWheelchair"
+    },
+    "elevator": {
+      "codepoint": 57435,
+      "fontFamily": "Guidance",
+      "identifier": "elevator"
+    },
+    "elevator-accesible": {
+      "codepoint": 57436,
+      "fontFamily": "Guidance",
+      "identifier": "elevatorAccesible"
+    },
+    "elevator-person": {
+      "codepoint": 57437,
+      "fontFamily": "Guidance",
+      "identifier": "elevatorPerson"
+    },
+    "emergency-exit": {
+      "codepoint": 57438,
+      "fontFamily": "Guidance",
+      "identifier": "emergencyExit"
+    },
+    "entry": {
+      "codepoint": 57439,
+      "fontFamily": "Guidance",
+      "identifier": "entry"
+    },
+    "escalator": {
+      "codepoint": 57440,
+      "fontFamily": "Guidance",
+      "identifier": "escalator"
+    },
+    "escalator-down-arrow": {
+      "codepoint": 57441,
+      "fontFamily": "Guidance",
+      "identifier": "escalatorDownArrow"
+    },
+    "escalator-down-person": {
+      "codepoint": 57442,
+      "fontFamily": "Guidance",
+      "identifier": "escalatorDownPerson"
+    },
+    "escalator-up-arrow": {
+      "codepoint": 57443,
+      "fontFamily": "Guidance",
+      "identifier": "escalatorUpArrow"
+    },
+    "escalator-up-person": {
+      "codepoint": 57444,
+      "fontFamily": "Guidance",
+      "identifier": "escalatorUpPerson"
+    },
+    "exclamation-mark": {
+      "codepoint": 57445,
+      "fontFamily": "Guidance",
+      "identifier": "exclamationMark"
+    },
+    "exit": {
+      "codepoint": 57446,
+      "fontFamily": "Guidance",
+      "identifier": "exit"
+    },
+    "eye": {
+      "codepoint": 57447,
+      "fontFamily": "Guidance",
+      "identifier": "eye"
+    },
+    "face-scan": {
+      "codepoint": 57448,
+      "fontFamily": "Guidance",
+      "identifier": "faceScan"
+    },
+    "falling-rocks": {
+      "codepoint": 57449,
+      "fontFamily": "Guidance",
+      "identifier": "fallingRocks"
+    },
+    "female-sign": {
+      "codepoint": 57450,
+      "fontFamily": "Guidance",
+      "identifier": "femaleSign"
+    },
+    "fingerprint-scan": {
+      "codepoint": 57451,
+      "fontFamily": "Guidance",
+      "identifier": "fingerprintScan"
+    },
+    "fire-alarm": {
+      "codepoint": 57452,
+      "fontFamily": "Guidance",
+      "identifier": "fireAlarm"
+    },
+    "fire-extinguisher": {
+      "codepoint": 57453,
+      "fontFamily": "Guidance",
+      "identifier": "fireExtinguisher"
+    },
+    "fire-hazard": {
+      "codepoint": 57454,
+      "fontFamily": "Guidance",
+      "identifier": "fireHazard"
+    },
+    "fire-hose": {
+      "codepoint": 57455,
+      "fontFamily": "Guidance",
+      "identifier": "fireHose"
+    },
+    "first-aid": {
+      "codepoint": 57456,
+      "fontFamily": "Guidance",
+      "identifier": "firstAid"
+    },
+    "fishing-area": {
+      "codepoint": 57457,
+      "fontFamily": "Guidance",
+      "identifier": "fishingArea"
+    },
+    "fishing-area-1": {
+      "codepoint": 57458,
+      "fontFamily": "Guidance",
+      "identifier": "fishingArea1"
+    },
+    "fishing-area-2": {
+      "codepoint": 57459,
+      "fontFamily": "Guidance",
+      "identifier": "fishingArea2"
+    },
+    "flash-allowed": {
+      "codepoint": 57460,
+      "fontFamily": "Guidance",
+      "identifier": "flashAllowed"
+    },
+    "flash-not-allowed": {
+      "codepoint": 57461,
+      "fontFamily": "Guidance",
+      "identifier": "flashNotAllowed"
+    },
+    "folder": {
+      "codepoint": 57462,
+      "fontFamily": "Guidance",
+      "identifier": "folder"
+    },
+    "forbidden": {
+      "codepoint": 57463,
+      "fontFamily": "Guidance",
+      "identifier": "forbidden"
+    },
+    "forbidden-2": {
+      "codepoint": 57464,
+      "fontFamily": "Guidance",
+      "identifier": "forbidden2"
+    },
+    "fountain": {
+      "codepoint": 57465,
+      "fontFamily": "Guidance",
+      "identifier": "fountain"
+    },
+    "fragile": {
+      "codepoint": 57466,
+      "fontFamily": "Guidance",
+      "identifier": "fragile"
+    },
+    "funicular-railway": {
+      "codepoint": 57467,
+      "fontFamily": "Guidance",
+      "identifier": "funicularRailway"
+    },
+    "gallery": {
+      "codepoint": 57468,
+      "fontFamily": "Guidance",
+      "identifier": "gallery"
+    },
+    "garden": {
+      "codepoint": 57469,
+      "fontFamily": "Guidance",
+      "identifier": "garden"
+    },
+    "gas-station": {
+      "codepoint": 57470,
+      "fontFamily": "Guidance",
+      "identifier": "gasStation"
+    },
+    "gift-shop": {
+      "codepoint": 57471,
+      "fontFamily": "Guidance",
+      "identifier": "giftShop"
+    },
+    "glass": {
+      "codepoint": 57472,
+      "fontFamily": "Guidance",
+      "identifier": "glass"
+    },
+    "globe": {
+      "codepoint": 57473,
+      "fontFamily": "Guidance",
+      "identifier": "globe"
+    },
+    "golf-course": {
+      "codepoint": 57474,
+      "fontFamily": "Guidance",
+      "identifier": "golfCourse"
+    },
+    "group-training": {
+      "codepoint": 57475,
+      "fontFamily": "Guidance",
+      "identifier": "groupTraining"
+    },
+    "guest-height-limit": {
+      "codepoint": 57476,
+      "fontFamily": "Guidance",
+      "identifier": "guestHeightLimit"
+    },
+    "guest-within-height-limit-must-be-supervised": {
+      "codepoint": 57477,
+      "fontFamily": "Guidance",
+      "identifier": "guestWithinHeightLimitMustBeSupervised"
+    },
+    "gym": {
+      "codepoint": 57478,
+      "fontFamily": "Guidance",
+      "identifier": "gym"
+    },
+    "hairdresser": {
+      "codepoint": 57479,
+      "fontFamily": "Guidance",
+      "identifier": "hairdresser"
+    },
+    "headphones": {
+      "codepoint": 57480,
+      "fontFamily": "Guidance",
+      "identifier": "headphones"
+    },
+    "health-services": {
+      "codepoint": 57481,
+      "fontFamily": "Guidance",
+      "identifier": "healthServices"
+    },
+    "heart": {
+      "codepoint": 57482,
+      "fontFamily": "Guidance",
+      "identifier": "heart"
+    },
+    "helicopter": {
+      "codepoint": 57483,
+      "fontFamily": "Guidance",
+      "identifier": "helicopter"
+    },
+    "hide-eye-crossbar": {
+      "codepoint": 57484,
+      "fontFamily": "Guidance",
+      "identifier": "hideEyeCrossbar"
+    },
+    "high-voltage": {
+      "codepoint": 57485,
+      "fontFamily": "Guidance",
+      "identifier": "highVoltage"
+    },
+    "hiking": {
+      "codepoint": 57486,
+      "fontFamily": "Guidance",
+      "identifier": "hiking"
+    },
+    "hold-tight": {
+      "codepoint": 57487,
+      "fontFamily": "Guidance",
+      "identifier": "holdTight"
+    },
+    "home": {
+      "codepoint": 57488,
+      "fontFamily": "Guidance",
+      "identifier": "home"
+    },
+    "home-2": {
+      "codepoint": 57489,
+      "fontFamily": "Guidance",
+      "identifier": "home2"
+    },
+    "hospital": {
+      "codepoint": 57490,
+      "fontFamily": "Guidance",
+      "identifier": "hospital"
+    },
+    "hotel-room": {
+      "codepoint": 57491,
+      "fontFamily": "Guidance",
+      "identifier": "hotelRoom"
+    },
+    "hotel-room-2": {
+      "codepoint": 57492,
+      "fontFamily": "Guidance",
+      "identifier": "hotelRoom2"
+    },
+    "hydrant": {
+      "codepoint": 57493,
+      "fontFamily": "Guidance",
+      "identifier": "hydrant"
+    },
+    "image": {
+      "codepoint": 57494,
+      "fontFamily": "Guidance",
+      "identifier": "image"
+    },
+    "in-patient": {
+      "codepoint": 57495,
+      "fontFamily": "Guidance",
+      "identifier": "inPatient"
+    },
+    "information-desk-people": {
+      "codepoint": 57496,
+      "fontFamily": "Guidance",
+      "identifier": "informationDeskPeople"
+    },
+    "information-desk-symbol": {
+      "codepoint": 57497,
+      "fontFamily": "Guidance",
+      "identifier": "informationDeskSymbol"
+    },
+    "intensive-care": {
+      "codepoint": 57498,
+      "fontFamily": "Guidance",
+      "identifier": "intensiveCare"
+    },
+    "iris-scan": {
+      "codepoint": 57499,
+      "fontFamily": "Guidance",
+      "identifier": "irisScan"
+    },
+    "kitchen": {
+      "codepoint": 57500,
+      "fontFamily": "Guidance",
+      "identifier": "kitchen"
+    },
+    "laboratory": {
+      "codepoint": 57501,
+      "fontFamily": "Guidance",
+      "identifier": "laboratory"
+    },
+    "laundry": {
+      "codepoint": 57502,
+      "fontFamily": "Guidance",
+      "identifier": "laundry"
+    },
+    "laundry-2": {
+      "codepoint": 57503,
+      "fontFamily": "Guidance",
+      "identifier": "laundry2"
+    },
+    "left-2-short-arrow": {
+      "codepoint": 57504,
+      "fontFamily": "Guidance",
+      "identifier": "left2ShortArrow"
+    },
+    "left-angle-arrow": {
+      "codepoint": 57505,
+      "fontFamily": "Guidance",
+      "identifier": "leftAngleArrow"
+    },
+    "left-arrow": {
+      "codepoint": 57506,
+      "fontFamily": "Guidance",
+      "identifier": "leftArrow"
+    },
+    "left-luggage": {
+      "codepoint": 57507,
+      "fontFamily": "Guidance",
+      "identifier": "leftLuggage"
+    },
+    "less-minus": {
+      "codepoint": 57508,
+      "fontFamily": "Guidance",
+      "identifier": "lessMinus"
+    },
+    "lgbt-friendly": {
+      "codepoint": 57509,
+      "fontFamily": "Guidance",
+      "identifier": "lgbtFriendly"
+    },
+    "library": {
+      "codepoint": 57510,
+      "fontFamily": "Guidance",
+      "identifier": "library_"
+    },
+    "like": {
+      "codepoint": 57511,
+      "fontFamily": "Guidance",
+      "identifier": "like"
+    },
+    "location-off": {
+      "codepoint": 57512,
+      "fontFamily": "Guidance",
+      "identifier": "locationOff"
+    },
+    "location-pin": {
+      "codepoint": 57513,
+      "fontFamily": "Guidance",
+      "identifier": "locationPin"
+    },
+    "lock": {
+      "codepoint": 57514,
+      "fontFamily": "Guidance",
+      "identifier": "lock"
+    },
+    "lockers": {
+      "codepoint": 57515,
+      "fontFamily": "Guidance",
+      "identifier": "lockers"
+    },
+    "lost-and-found": {
+      "codepoint": 57516,
+      "fontFamily": "Guidance",
+      "identifier": "lostAndFound"
+    },
+    "lounge": {
+      "codepoint": 57517,
+      "fontFamily": "Guidance",
+      "identifier": "lounge"
+    },
+    "luggage": {
+      "codepoint": 57518,
+      "fontFamily": "Guidance",
+      "identifier": "luggage"
+    },
+    "luggage-check-in": {
+      "codepoint": 57519,
+      "fontFamily": "Guidance",
+      "identifier": "luggageCheckIn"
+    },
+    "luggage-conveyor-belt": {
+      "codepoint": 57520,
+      "fontFamily": "Guidance",
+      "identifier": "luggageConveyorBelt"
+    },
+    "luggage-lockers": {
+      "codepoint": 57521,
+      "fontFamily": "Guidance",
+      "identifier": "luggageLockers"
+    },
+    "luggage-trolley": {
+      "codepoint": 57522,
+      "fontFamily": "Guidance",
+      "identifier": "luggageTrolley"
+    },
+    "mail": {
+      "codepoint": 57523,
+      "fontFamily": "Guidance",
+      "identifier": "mail"
+    },
+    "mailbox": {
+      "codepoint": 57524,
+      "fontFamily": "Guidance",
+      "identifier": "mailbox"
+    },
+    "male-sign": {
+      "codepoint": 57525,
+      "fontFamily": "Guidance",
+      "identifier": "maleSign"
+    },
+    "map": {
+      "codepoint": 57526,
+      "fontFamily": "Guidance",
+      "identifier": "map"
+    },
+    "massage": {
+      "codepoint": 57527,
+      "fontFamily": "Guidance",
+      "identifier": "massage"
+    },
+    "medical-laboratory": {
+      "codepoint": 57528,
+      "fontFamily": "Guidance",
+      "identifier": "medicalLaboratory"
+    },
+    "meeting-point": {
+      "codepoint": 57529,
+      "fontFamily": "Guidance",
+      "identifier": "meetingPoint"
+    },
+    "meeting-point-2": {
+      "codepoint": 57530,
+      "fontFamily": "Guidance",
+      "identifier": "meetingPoint2"
+    },
+    "meeting-room": {
+      "codepoint": 57531,
+      "fontFamily": "Guidance",
+      "identifier": "meetingRoom"
+    },
+    "men-restroom": {
+      "codepoint": 57532,
+      "fontFamily": "Guidance",
+      "identifier": "menRestroom"
+    },
+    "money": {
+      "codepoint": 57533,
+      "fontFamily": "Guidance",
+      "identifier": "money"
+    },
+    "more-add-plus": {
+      "codepoint": 57534,
+      "fontFamily": "Guidance",
+      "identifier": "moreAddPlus"
+    },
+    "motorcycle": {
+      "codepoint": 57535,
+      "fontFamily": "Guidance",
+      "identifier": "motorcycle"
+    },
+    "mri-pet": {
+      "codepoint": 57536,
+      "fontFamily": "Guidance",
+      "identifier": "mriPet"
+    },
+    "museum": {
+      "codepoint": 57537,
+      "fontFamily": "Guidance",
+      "identifier": "museum"
+    },
+    "music-room": {
+      "codepoint": 57538,
+      "fontFamily": "Guidance",
+      "identifier": "musicRoom"
+    },
+    "mute-notification": {
+      "codepoint": 57539,
+      "fontFamily": "Guidance",
+      "identifier": "muteNotification"
+    },
+    "newspapers": {
+      "codepoint": 57540,
+      "fontFamily": "Guidance",
+      "identifier": "newspapers"
+    },
+    "no-access-for-service-animal-2": {
+      "codepoint": 57541,
+      "fontFamily": "Guidance",
+      "identifier": "noAccessForServiceAnimal2"
+    },
+    "no-access-for-service-animal-3": {
+      "codepoint": 57542,
+      "fontFamily": "Guidance",
+      "identifier": "noAccessForServiceAnimal3"
+    },
+    "no-access-for-service-animal-4": {
+      "codepoint": 57543,
+      "fontFamily": "Guidance",
+      "identifier": "noAccessForServiceAnimal4"
+    },
+    "no-alcohol": {
+      "codepoint": 57544,
+      "fontFamily": "Guidance",
+      "identifier": "noAlcohol"
+    },
+    "no-drinking-water": {
+      "codepoint": 57545,
+      "fontFamily": "Guidance",
+      "identifier": "noDrinkingWater"
+    },
+    "no-drone-allowed": {
+      "codepoint": 57546,
+      "fontFamily": "Guidance",
+      "identifier": "noDroneAllowed"
+    },
+    "no-drug-or-substance": {
+      "codepoint": 57547,
+      "fontFamily": "Guidance",
+      "identifier": "noDrugOrSubstance"
+    },
+    "no-electric-scooter": {
+      "codepoint": 57548,
+      "fontFamily": "Guidance",
+      "identifier": "noElectricScooter"
+    },
+    "no-entry-for-pedestrians": {
+      "codepoint": 57549,
+      "fontFamily": "Guidance",
+      "identifier": "noEntryForPedestrians"
+    },
+    "no-firearm-weapon": {
+      "codepoint": 57550,
+      "fontFamily": "Guidance",
+      "identifier": "noFirearmWeapon"
+    },
+    "no-fishing-1": {
+      "codepoint": 57551,
+      "fontFamily": "Guidance",
+      "identifier": "noFishing1"
+    },
+    "no-food": {
+      "codepoint": 57552,
+      "fontFamily": "Guidance",
+      "identifier": "noFood"
+    },
+    "no-litter-2": {
+      "codepoint": 57553,
+      "fontFamily": "Guidance",
+      "identifier": "noLitter2"
+    },
+    "no-luggage-trolleys-beyond-this-point": {
+      "codepoint": 57554,
+      "fontFamily": "Guidance",
+      "identifier": "noLuggageTrolleysBeyondThisPoint"
+    },
+    "no-noise": {
+      "codepoint": 57555,
+      "fontFamily": "Guidance",
+      "identifier": "noNoise"
+    },
+    "no-parking": {
+      "codepoint": 57556,
+      "fontFamily": "Guidance",
+      "identifier": "noParking"
+    },
+    "no-pets-allowed": {
+      "codepoint": 57557,
+      "fontFamily": "Guidance",
+      "identifier": "noPetsAllowed"
+    },
+    "no-pictures": {
+      "codepoint": 57558,
+      "fontFamily": "Guidance",
+      "identifier": "noPictures"
+    },
+    "no-running": {
+      "codepoint": 57559,
+      "fontFamily": "Guidance",
+      "identifier": "noRunning"
+    },
+    "no-selfie-stick-allowed": {
+      "codepoint": 57560,
+      "fontFamily": "Guidance",
+      "identifier": "noSelfieStickAllowed"
+    },
+    "no-smoking": {
+      "codepoint": 57561,
+      "fontFamily": "Guidance",
+      "identifier": "noSmoking"
+    },
+    "no-touch": {
+      "codepoint": 57562,
+      "fontFamily": "Guidance",
+      "identifier": "noTouch"
+    },
+    "no-video": {
+      "codepoint": 57563,
+      "fontFamily": "Guidance",
+      "identifier": "noVideo"
+    },
+    "no-wheelchair-access": {
+      "codepoint": 57564,
+      "fontFamily": "Guidance",
+      "identifier": "noWheelchairAccess"
+    },
+    "nursery": {
+      "codepoint": 57565,
+      "fontFamily": "Guidance",
+      "identifier": "nursery"
+    },
+    "office": {
+      "codepoint": 57566,
+      "fontFamily": "Guidance",
+      "identifier": "office"
+    },
+    "office-pod": {
+      "codepoint": 57567,
+      "fontFamily": "Guidance",
+      "identifier": "officePod"
+    },
+    "paper": {
+      "codepoint": 57568,
+      "fontFamily": "Guidance",
+      "identifier": "paper"
+    },
+    "parent-and-infant-priority-seating": {
+      "codepoint": 57569,
+      "fontFamily": "Guidance",
+      "identifier": "parentAndInfantPrioritySeating"
+    },
+    "park": {
+      "codepoint": 57570,
+      "fontFamily": "Guidance",
+      "identifier": "park"
+    },
+    "parking": {
+      "codepoint": 57571,
+      "fontFamily": "Guidance",
+      "identifier": "parking"
+    },
+    "passports": {
+      "codepoint": 57572,
+      "fontFamily": "Guidance",
+      "identifier": "passports"
+    },
+    "patio": {
+      "codepoint": 57573,
+      "fontFamily": "Guidance",
+      "identifier": "patio"
+    },
+    "pedestrians": {
+      "codepoint": 57574,
+      "fontFamily": "Guidance",
+      "identifier": "pedestrians"
+    },
+    "pen": {
+      "codepoint": 57575,
+      "fontFamily": "Guidance",
+      "identifier": "pen"
+    },
+    "personal-training": {
+      "codepoint": 57576,
+      "fontFamily": "Guidance",
+      "identifier": "personalTraining"
+    },
+    "pets-allowed": {
+      "codepoint": 57577,
+      "fontFamily": "Guidance",
+      "identifier": "petsAllowed"
+    },
+    "pharmacy": {
+      "codepoint": 57578,
+      "fontFamily": "Guidance",
+      "identifier": "pharmacy"
+    },
+    "phone": {
+      "codepoint": 57579,
+      "fontFamily": "Guidance",
+      "identifier": "phone"
+    },
+    "physical-therapy": {
+      "codepoint": 57580,
+      "fontFamily": "Guidance",
+      "identifier": "physicalTherapy"
+    },
+    "pilates": {
+      "codepoint": 57581,
+      "fontFamily": "Guidance",
+      "identifier": "pilates"
+    },
+    "plane": {
+      "codepoint": 57582,
+      "fontFamily": "Guidance",
+      "identifier": "plane"
+    },
+    "plastic": {
+      "codepoint": 57583,
+      "fontFamily": "Guidance",
+      "identifier": "plastic"
+    },
+    "play": {
+      "codepoint": 57584,
+      "fontFamily": "Guidance",
+      "identifier": "play"
+    },
+    "play-room": {
+      "codepoint": 57585,
+      "fontFamily": "Guidance",
+      "identifier": "playRoom"
+    },
+    "playground": {
+      "codepoint": 57586,
+      "fontFamily": "Guidance",
+      "identifier": "playground"
+    },
+    "police": {
+      "codepoint": 57587,
+      "fontFamily": "Guidance",
+      "identifier": "police"
+    },
+    "port": {
+      "codepoint": 57588,
+      "fontFamily": "Guidance",
+      "identifier": "port"
+    },
+    "praying-room": {
+      "codepoint": 57589,
+      "fontFamily": "Guidance",
+      "identifier": "prayingRoom"
+    },
+    "pregnant-woman-priority-seating": {
+      "codepoint": 57590,
+      "fontFamily": "Guidance",
+      "identifier": "pregnantWomanPrioritySeating"
+    },
+    "printer": {
+      "codepoint": 57591,
+      "fontFamily": "Guidance",
+      "identifier": "printer"
+    },
+    "projection-room": {
+      "codepoint": 57592,
+      "fontFamily": "Guidance",
+      "identifier": "projectionRoom"
+    },
+    "prosthetic-arm": {
+      "codepoint": 57593,
+      "fontFamily": "Guidance",
+      "identifier": "prostheticArm"
+    },
+    "prosthetic-leg": {
+      "codepoint": 57594,
+      "fontFamily": "Guidance",
+      "identifier": "prostheticLeg"
+    },
+    "pull": {
+      "codepoint": 57595,
+      "fontFamily": "Guidance",
+      "identifier": "pull"
+    },
+    "push": {
+      "codepoint": 57596,
+      "fontFamily": "Guidance",
+      "identifier": "push"
+    },
+    "question-mark": {
+      "codepoint": 57597,
+      "fontFamily": "Guidance",
+      "identifier": "questionMark"
+    },
+    "quiet-area": {
+      "codepoint": 57598,
+      "fontFamily": "Guidance",
+      "identifier": "quietArea"
+    },
+    "radiation": {
+      "codepoint": 57599,
+      "fontFamily": "Guidance",
+      "identifier": "radiation"
+    },
+    "radiology": {
+      "codepoint": 57600,
+      "fontFamily": "Guidance",
+      "identifier": "radiology"
+    },
+    "ramp-down": {
+      "codepoint": 57601,
+      "fontFamily": "Guidance",
+      "identifier": "rampDown"
+    },
+    "ramp-down-arrow": {
+      "codepoint": 57602,
+      "fontFamily": "Guidance",
+      "identifier": "rampDownArrow"
+    },
+    "ramp-up": {
+      "codepoint": 57603,
+      "fontFamily": "Guidance",
+      "identifier": "rampUp"
+    },
+    "ramp-up-arrow": {
+      "codepoint": 57604,
+      "fontFamily": "Guidance",
+      "identifier": "rampUpArrow"
+    },
+    "reception-hotel-bell": {
+      "codepoint": 57605,
+      "fontFamily": "Guidance",
+      "identifier": "receptionHotelBell"
+    },
+    "recording-studio": {
+      "codepoint": 57606,
+      "fontFamily": "Guidance",
+      "identifier": "recordingStudio"
+    },
+    "recycling": {
+      "codepoint": 57607,
+      "fontFamily": "Guidance",
+      "identifier": "recycling"
+    },
+    "refill-for-water-bottle": {
+      "codepoint": 57608,
+      "fontFamily": "Guidance",
+      "identifier": "refillForWaterBottle"
+    },
+    "refrigeration": {
+      "codepoint": 57609,
+      "fontFamily": "Guidance",
+      "identifier": "refrigeration"
+    },
+    "remove-x-cross": {
+      "codepoint": 57610,
+      "fontFamily": "Guidance",
+      "identifier": "removeXCross"
+    },
+    "restaurant": {
+      "codepoint": 57611,
+      "fontFamily": "Guidance",
+      "identifier": "restaurant"
+    },
+    "right-2-short-arrow": {
+      "codepoint": 57612,
+      "fontFamily": "Guidance",
+      "identifier": "right2ShortArrow"
+    },
+    "right-angle-arrow": {
+      "codepoint": 57613,
+      "fontFamily": "Guidance",
+      "identifier": "rightAngleArrow"
+    },
+    "right-arrow": {
+      "codepoint": 57614,
+      "fontFamily": "Guidance",
+      "identifier": "rightArrow"
+    },
+    "rv-trailer": {
+      "codepoint": 57615,
+      "fontFamily": "Guidance",
+      "identifier": "rvTrailer"
+    },
+    "safe-social-distancing": {
+      "codepoint": 57616,
+      "fontFamily": "Guidance",
+      "identifier": "safeSocialDistancing"
+    },
+    "sanitize-hands": {
+      "codepoint": 57617,
+      "fontFamily": "Guidance",
+      "identifier": "sanitizeHands"
+    },
+    "sauna": {
+      "codepoint": 57618,
+      "fontFamily": "Guidance",
+      "identifier": "sauna"
+    },
+    "school-zone": {
+      "codepoint": 57619,
+      "fontFamily": "Guidance",
+      "identifier": "schoolZone"
+    },
+    "search": {
+      "codepoint": 57620,
+      "fontFamily": "Guidance",
+      "identifier": "search"
+    },
+    "send": {
+      "codepoint": 57621,
+      "fontFamily": "Guidance",
+      "identifier": "send"
+    },
+    "service-animal-1": {
+      "codepoint": 57622,
+      "fontFamily": "Guidance",
+      "identifier": "serviceAnimal1"
+    },
+    "service-animal-2": {
+      "codepoint": 57623,
+      "fontFamily": "Guidance",
+      "identifier": "serviceAnimal2"
+    },
+    "service-animal-3": {
+      "codepoint": 57624,
+      "fontFamily": "Guidance",
+      "identifier": "serviceAnimal3"
+    },
+    "settings": {
+      "codepoint": 57625,
+      "fontFamily": "Guidance",
+      "identifier": "settings"
+    },
+    "share": {
+      "codepoint": 57626,
+      "fontFamily": "Guidance",
+      "identifier": "share"
+    },
+    "shelter": {
+      "codepoint": 57627,
+      "fontFamily": "Guidance",
+      "identifier": "shelter"
+    },
+    "ship": {
+      "codepoint": 57628,
+      "fontFamily": "Guidance",
+      "identifier": "ship"
+    },
+    "shop": {
+      "codepoint": 57629,
+      "fontFamily": "Guidance",
+      "identifier": "shop"
+    },
+    "showers": {
+      "codepoint": 57630,
+      "fontFamily": "Guidance",
+      "identifier": "showers"
+    },
+    "sign-language": {
+      "codepoint": 57631,
+      "fontFamily": "Guidance",
+      "identifier": "signLanguage"
+    },
+    "skate-park": {
+      "codepoint": 57632,
+      "fontFamily": "Guidance",
+      "identifier": "skatePark"
+    },
+    "smiley": {
+      "codepoint": 57633,
+      "fontFamily": "Guidance",
+      "identifier": "smiley"
+    },
+    "smoking-area": {
+      "codepoint": 57634,
+      "fontFamily": "Guidance",
+      "identifier": "smokingArea"
+    },
+    "socket": {
+      "codepoint": 57635,
+      "fontFamily": "Guidance",
+      "identifier": "socket"
+    },
+    "spinning": {
+      "codepoint": 57636,
+      "fontFamily": "Guidance",
+      "identifier": "spinning"
+    },
+    "stadium": {
+      "codepoint": 57637,
+      "fontFamily": "Guidance",
+      "identifier": "stadium"
+    },
+    "staff-only": {
+      "codepoint": 57638,
+      "fontFamily": "Guidance",
+      "identifier": "staffOnly"
+    },
+    "stairs": {
+      "codepoint": 57639,
+      "fontFamily": "Guidance",
+      "identifier": "stairs"
+    },
+    "stairs-down-arrow": {
+      "codepoint": 57640,
+      "fontFamily": "Guidance",
+      "identifier": "stairsDownArrow"
+    },
+    "stairs-down-person": {
+      "codepoint": 57641,
+      "fontFamily": "Guidance",
+      "identifier": "stairsDownPerson"
+    },
+    "stairs-up-arrow": {
+      "codepoint": 57642,
+      "fontFamily": "Guidance",
+      "identifier": "stairsUpArrow"
+    },
+    "stairs-up-person": {
+      "codepoint": 57643,
+      "fontFamily": "Guidance",
+      "identifier": "stairsUpPerson"
+    },
+    "stand-here": {
+      "codepoint": 57644,
+      "fontFamily": "Guidance",
+      "identifier": "standHere"
+    },
+    "star": {
+      "codepoint": 57645,
+      "fontFamily": "Guidance",
+      "identifier": "star"
+    },
+    "stroller-parking": {
+      "codepoint": 57646,
+      "fontFamily": "Guidance",
+      "identifier": "strollerParking"
+    },
+    "study-room": {
+      "codepoint": 57647,
+      "fontFamily": "Guidance",
+      "identifier": "studyRoom"
+    },
+    "sun": {
+      "codepoint": 57648,
+      "fontFamily": "Guidance",
+      "identifier": "sun"
+    },
+    "surgery": {
+      "codepoint": 57649,
+      "fontFamily": "Guidance",
+      "identifier": "surgery"
+    },
+    "surveillance-camera": {
+      "codepoint": 57650,
+      "fontFamily": "Guidance",
+      "identifier": "surveillanceCamera"
+    },
+    "swimming-pool": {
+      "codepoint": 57651,
+      "fontFamily": "Guidance",
+      "identifier": "swimmingPool"
+    },
+    "taxi": {
+      "codepoint": 57652,
+      "fontFamily": "Guidance",
+      "identifier": "taxi"
+    },
+    "telecoil": {
+      "codepoint": 57653,
+      "fontFamily": "Guidance",
+      "identifier": "telecoil"
+    },
+    "terrace": {
+      "codepoint": 57654,
+      "fontFamily": "Guidance",
+      "identifier": "terrace"
+    },
+    "tickets": {
+      "codepoint": 57655,
+      "fontFamily": "Guidance",
+      "identifier": "tickets"
+    },
+    "time": {
+      "codepoint": 57656,
+      "fontFamily": "Guidance",
+      "identifier": "time"
+    },
+    "tools": {
+      "codepoint": 57657,
+      "fontFamily": "Guidance",
+      "identifier": "tools"
+    },
+    "touch": {
+      "codepoint": 57658,
+      "fontFamily": "Guidance",
+      "identifier": "touch"
+    },
+    "track": {
+      "codepoint": 57659,
+      "fontFamily": "Guidance",
+      "identifier": "track"
+    },
+    "trailer-sites": {
+      "codepoint": 57660,
+      "fontFamily": "Guidance",
+      "identifier": "trailerSites"
+    },
+    "train": {
+      "codepoint": 57661,
+      "fontFamily": "Guidance",
+      "identifier": "train"
+    },
+    "transgender-sign": {
+      "codepoint": 57662,
+      "fontFamily": "Guidance",
+      "identifier": "transgenderSign"
+    },
+    "tunnel": {
+      "codepoint": 57663,
+      "fontFamily": "Guidance",
+      "identifier": "tunnel"
+    },
+    "ui-phone": {
+      "codepoint": 57664,
+      "fontFamily": "Guidance",
+      "identifier": "uiPhone"
+    },
+    "unisex-restroom": {
+      "codepoint": 57665,
+      "fontFamily": "Guidance",
+      "identifier": "unisexRestroom"
+    },
+    "unlock": {
+      "codepoint": 57666,
+      "fontFamily": "Guidance",
+      "identifier": "unlock"
+    },
+    "up-2-short-arrow": {
+      "codepoint": 57667,
+      "fontFamily": "Guidance",
+      "identifier": "up2ShortArrow"
+    },
+    "up-angle-arrow": {
+      "codepoint": 57668,
+      "fontFamily": "Guidance",
+      "identifier": "upAngleArrow"
+    },
+    "up-arrow": {
+      "codepoint": 57669,
+      "fontFamily": "Guidance",
+      "identifier": "upArrow"
+    },
+    "up-left-2-short-arrow": {
+      "codepoint": 57670,
+      "fontFamily": "Guidance",
+      "identifier": "upLeft2ShortArrow"
+    },
+    "up-left-arrow": {
+      "codepoint": 57671,
+      "fontFamily": "Guidance",
+      "identifier": "upLeftArrow"
+    },
+    "up-right-2-short-arrow": {
+      "codepoint": 57672,
+      "fontFamily": "Guidance",
+      "identifier": "upRight2ShortArrow"
+    },
+    "up-right-arrow": {
+      "codepoint": 57673,
+      "fontFamily": "Guidance",
+      "identifier": "upRightArrow"
+    },
+    "user-1": {
+      "codepoint": 57674,
+      "fontFamily": "Guidance",
+      "identifier": "user1"
+    },
+    "user-2": {
+      "codepoint": 57675,
+      "fontFamily": "Guidance",
+      "identifier": "user2"
+    },
+    "vending-machine": {
+      "codepoint": 57676,
+      "fontFamily": "Guidance",
+      "identifier": "vendingMachine"
+    },
+    "video": {
+      "codepoint": 57677,
+      "fontFamily": "Guidance",
+      "identifier": "video"
+    },
+    "visual-impairment": {
+      "codepoint": 57678,
+      "fontFamily": "Guidance",
+      "identifier": "visualImpairment"
+    },
+    "voice-scan": {
+      "codepoint": 57679,
+      "fontFamily": "Guidance",
+      "identifier": "voiceScan"
+    },
+    "volume": {
+      "codepoint": 57680,
+      "fontFamily": "Guidance",
+      "identifier": "volume"
+    },
+    "volume-control-telephone": {
+      "codepoint": 57681,
+      "fontFamily": "Guidance",
+      "identifier": "volumeControlTelephone"
+    },
+    "waiting-room": {
+      "codepoint": 57682,
+      "fontFamily": "Guidance",
+      "identifier": "waitingRoom"
+    },
+    "walker": {
+      "codepoint": 57683,
+      "fontFamily": "Guidance",
+      "identifier": "walker"
+    },
+    "wash-hands": {
+      "codepoint": 57684,
+      "fontFamily": "Guidance",
+      "identifier": "washHands"
+    },
+    "waste": {
+      "codepoint": 57685,
+      "fontFamily": "Guidance",
+      "identifier": "waste"
+    },
+    "wc": {
+      "codepoint": 57686,
+      "fontFamily": "Guidance",
+      "identifier": "wc"
+    },
+    "wear-gas-mask": {
+      "codepoint": 57687,
+      "fontFamily": "Guidance",
+      "identifier": "wearGasMask"
+    },
+    "wear-gloves": {
+      "codepoint": 57688,
+      "fontFamily": "Guidance",
+      "identifier": "wearGloves"
+    },
+    "wear-goggles": {
+      "codepoint": 57689,
+      "fontFamily": "Guidance",
+      "identifier": "wearGoggles"
+    },
+    "wear-hard-hat": {
+      "codepoint": 57690,
+      "fontFamily": "Guidance",
+      "identifier": "wearHardHat"
+    },
+    "wear-headset": {
+      "codepoint": 57691,
+      "fontFamily": "Guidance",
+      "identifier": "wearHeadset"
+    },
+    "wear-mask": {
+      "codepoint": 57692,
+      "fontFamily": "Guidance",
+      "identifier": "wearMask"
+    },
+    "weightlifting": {
+      "codepoint": 57693,
+      "fontFamily": "Guidance",
+      "identifier": "weightlifting"
+    },
+    "wet-floor": {
+      "codepoint": 57694,
+      "fontFamily": "Guidance",
+      "identifier": "wetFloor"
+    },
+    "wheelchair-1": {
+      "codepoint": 57695,
+      "fontFamily": "Guidance",
+      "identifier": "wheelchair1"
+    },
+    "wheelchair-2": {
+      "codepoint": 57696,
+      "fontFamily": "Guidance",
+      "identifier": "wheelchair2"
+    },
+    "wheelchair-basketball": {
+      "codepoint": 57697,
+      "fontFamily": "Guidance",
+      "identifier": "wheelchairBasketball"
+    },
+    "wheelchair-tennis": {
+      "codepoint": 57698,
+      "fontFamily": "Guidance",
+      "identifier": "wheelchairTennis"
+    },
+    "wi-fi": {
+      "codepoint": 57699,
+      "fontFamily": "Guidance",
+      "identifier": "wiFi"
+    },
+    "wifi-off": {
+      "codepoint": 57700,
+      "fontFamily": "Guidance",
+      "identifier": "wifiOff"
+    },
+    "women-restroom": {
+      "codepoint": 57701,
+      "fontFamily": "Guidance",
+      "identifier": "womenRestroom"
+    },
+    "yoga": {
+      "codepoint": 57702,
+      "fontFamily": "Guidance",
+      "identifier": "yoga"
+    },
+    "zoo": {
+      "codepoint": 57703,
+      "fontFamily": "Guidance",
+      "identifier": "zoo"
+    }
+  }
+}

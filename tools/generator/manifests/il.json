@@ -1,0 +1,448 @@
+{
+  "schemaVersion": 1,
+  "prefix": "il",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": null,
+  "subPackage": "iconifyx_il",
+  "info": {
+    "name": "Icalicons",
+    "author": {
+      "name": "Icalia Labs"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    },
+    "total": 84
+  },
+  "fonts": [
+    {
+      "family": "Il",
+      "nextCodepoint": 57428,
+      "iconCount": 84
+    }
+  ],
+  "icons": {
+    "add-user": {
+      "codepoint": 57344,
+      "fontFamily": "Il",
+      "identifier": "addUser"
+    },
+    "arrow-down": {
+      "codepoint": 57345,
+      "fontFamily": "Il",
+      "identifier": "arrowDown"
+    },
+    "arrow-left": {
+      "codepoint": 57346,
+      "fontFamily": "Il",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57347,
+      "fontFamily": "Il",
+      "identifier": "arrowRight"
+    },
+    "arrow-up": {
+      "codepoint": 57348,
+      "fontFamily": "Il",
+      "identifier": "arrowUp"
+    },
+    "attachment": {
+      "codepoint": 57349,
+      "fontFamily": "Il",
+      "identifier": "attachment"
+    },
+    "basket": {
+      "codepoint": 57350,
+      "fontFamily": "Il",
+      "identifier": "basket"
+    },
+    "behance": {
+      "codepoint": 57351,
+      "fontFamily": "Il",
+      "identifier": "behance"
+    },
+    "bell": {
+      "codepoint": 57352,
+      "fontFamily": "Il",
+      "identifier": "bell"
+    },
+    "book": {
+      "codepoint": 57353,
+      "fontFamily": "Il",
+      "identifier": "book"
+    },
+    "box": {
+      "codepoint": 57354,
+      "fontFamily": "Il",
+      "identifier": "box"
+    },
+    "brightness": {
+      "codepoint": 57355,
+      "fontFamily": "Il",
+      "identifier": "brightness"
+    },
+    "bucket": {
+      "codepoint": 57356,
+      "fontFamily": "Il",
+      "identifier": "bucket"
+    },
+    "calendar": {
+      "codepoint": 57357,
+      "fontFamily": "Il",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57358,
+      "fontFamily": "Il",
+      "identifier": "camera"
+    },
+    "card": {
+      "codepoint": 57359,
+      "fontFamily": "Il",
+      "identifier": "card"
+    },
+    "cart": {
+      "codepoint": 57360,
+      "fontFamily": "Il",
+      "identifier": "cart"
+    },
+    "clock": {
+      "codepoint": 57361,
+      "fontFamily": "Il",
+      "identifier": "clock"
+    },
+    "cloud": {
+      "codepoint": 57362,
+      "fontFamily": "Il",
+      "identifier": "cloud"
+    },
+    "cog": {
+      "codepoint": 57363,
+      "fontFamily": "Il",
+      "identifier": "cog"
+    },
+    "comment": {
+      "codepoint": 57364,
+      "fontFamily": "Il",
+      "identifier": "comment"
+    },
+    "compass": {
+      "codepoint": 57365,
+      "fontFamily": "Il",
+      "identifier": "compass"
+    },
+    "contrast": {
+      "codepoint": 57366,
+      "fontFamily": "Il",
+      "identifier": "contrast"
+    },
+    "controls": {
+      "codepoint": 57367,
+      "fontFamily": "Il",
+      "identifier": "controls"
+    },
+    "conversation": {
+      "codepoint": 57368,
+      "fontFamily": "Il",
+      "identifier": "conversation"
+    },
+    "cup": {
+      "codepoint": 57369,
+      "fontFamily": "Il",
+      "identifier": "cup"
+    },
+    "dashboard": {
+      "codepoint": 57370,
+      "fontFamily": "Il",
+      "identifier": "dashboard"
+    },
+    "dialog": {
+      "codepoint": 57371,
+      "fontFamily": "Il",
+      "identifier": "dialog"
+    },
+    "dribbble": {
+      "codepoint": 57372,
+      "fontFamily": "Il",
+      "identifier": "dribbble"
+    },
+    "drop": {
+      "codepoint": 57373,
+      "fontFamily": "Il",
+      "identifier": "drop"
+    },
+    "dropbox": {
+      "codepoint": 57374,
+      "fontFamily": "Il",
+      "identifier": "dropbox"
+    },
+    "ellipsis": {
+      "codepoint": 57375,
+      "fontFamily": "Il",
+      "identifier": "ellipsis"
+    },
+    "email": {
+      "codepoint": 57376,
+      "fontFamily": "Il",
+      "identifier": "email"
+    },
+    "envelope": {
+      "codepoint": 57377,
+      "fontFamily": "Il",
+      "identifier": "envelope"
+    },
+    "eye": {
+      "codepoint": 57378,
+      "fontFamily": "Il",
+      "identifier": "eye"
+    },
+    "facebook": {
+      "codepoint": 57379,
+      "fontFamily": "Il",
+      "identifier": "facebook"
+    },
+    "file": {
+      "codepoint": 57380,
+      "fontFamily": "Il",
+      "identifier": "file"
+    },
+    "flag": {
+      "codepoint": 57381,
+      "fontFamily": "Il",
+      "identifier": "flag"
+    },
+    "folder": {
+      "codepoint": 57382,
+      "fontFamily": "Il",
+      "identifier": "folder"
+    },
+    "github": {
+      "codepoint": 57383,
+      "fontFamily": "Il",
+      "identifier": "github"
+    },
+    "google-plus": {
+      "codepoint": 57384,
+      "fontFamily": "Il",
+      "identifier": "googlePlus"
+    },
+    "grid": {
+      "codepoint": 57385,
+      "fontFamily": "Il",
+      "identifier": "grid"
+    },
+    "heart": {
+      "codepoint": 57386,
+      "fontFamily": "Il",
+      "identifier": "heart"
+    },
+    "house": {
+      "codepoint": 57387,
+      "fontFamily": "Il",
+      "identifier": "house"
+    },
+    "image": {
+      "codepoint": 57388,
+      "fontFamily": "Il",
+      "identifier": "image"
+    },
+    "inbox": {
+      "codepoint": 57389,
+      "fontFamily": "Il",
+      "identifier": "inbox"
+    },
+    "instagram": {
+      "codepoint": 57390,
+      "fontFamily": "Il",
+      "identifier": "instagram"
+    },
+    "layers": {
+      "codepoint": 57391,
+      "fontFamily": "Il",
+      "identifier": "layers"
+    },
+    "linkedin": {
+      "codepoint": 57392,
+      "fontFamily": "Il",
+      "identifier": "linkedin"
+    },
+    "location": {
+      "codepoint": 57393,
+      "fontFamily": "Il",
+      "identifier": "location"
+    },
+    "lock": {
+      "codepoint": 57394,
+      "fontFamily": "Il",
+      "identifier": "lock"
+    },
+    "market": {
+      "codepoint": 57395,
+      "fontFamily": "Il",
+      "identifier": "market"
+    },
+    "menu": {
+      "codepoint": 57396,
+      "fontFamily": "Il",
+      "identifier": "menu"
+    },
+    "mic": {
+      "codepoint": 57397,
+      "fontFamily": "Il",
+      "identifier": "mic"
+    },
+    "mobile": {
+      "codepoint": 57398,
+      "fontFamily": "Il",
+      "identifier": "mobile"
+    },
+    "money": {
+      "codepoint": 57399,
+      "fontFamily": "Il",
+      "identifier": "money"
+    },
+    "moon": {
+      "codepoint": 57400,
+      "fontFamily": "Il",
+      "identifier": "moon"
+    },
+    "music": {
+      "codepoint": 57401,
+      "fontFamily": "Il",
+      "identifier": "music"
+    },
+    "notification": {
+      "codepoint": 57402,
+      "fontFamily": "Il",
+      "identifier": "notification"
+    },
+    "paypal": {
+      "codepoint": 57403,
+      "fontFamily": "Il",
+      "identifier": "paypal"
+    },
+    "pencil": {
+      "codepoint": 57404,
+      "fontFamily": "Il",
+      "identifier": "pencil"
+    },
+    "pie": {
+      "codepoint": 57405,
+      "fontFamily": "Il",
+      "identifier": "pie"
+    },
+    "pin": {
+      "codepoint": 57406,
+      "fontFamily": "Il",
+      "identifier": "pin"
+    },
+    "refresh": {
+      "codepoint": 57407,
+      "fontFamily": "Il",
+      "identifier": "refresh"
+    },
+    "ribbon": {
+      "codepoint": 57408,
+      "fontFamily": "Il",
+      "identifier": "ribbon"
+    },
+    "search": {
+      "codepoint": 57409,
+      "fontFamily": "Il",
+      "identifier": "search"
+    },
+    "select": {
+      "codepoint": 57410,
+      "fontFamily": "Il",
+      "identifier": "select"
+    },
+    "small-arrow-down": {
+      "codepoint": 57411,
+      "fontFamily": "Il",
+      "identifier": "smallArrowDown"
+    },
+    "small-arrow-left": {
+      "codepoint": 57412,
+      "fontFamily": "Il",
+      "identifier": "smallArrowLeft"
+    },
+    "small-arrow-right": {
+      "codepoint": 57413,
+      "fontFamily": "Il",
+      "identifier": "smallArrowRight"
+    },
+    "small-arrow-up": {
+      "codepoint": 57414,
+      "fontFamily": "Il",
+      "identifier": "smallArrowUp"
+    },
+    "tablet": {
+      "codepoint": 57415,
+      "fontFamily": "Il",
+      "identifier": "tablet"
+    },
+    "tag": {
+      "codepoint": 57416,
+      "fontFamily": "Il",
+      "identifier": "tag"
+    },
+    "thumbs": {
+      "codepoint": 57417,
+      "fontFamily": "Il",
+      "identifier": "thumbs"
+    },
+    "triangle-down": {
+      "codepoint": 57418,
+      "fontFamily": "Il",
+      "identifier": "triangleDown"
+    },
+    "triangle-up": {
+      "codepoint": 57419,
+      "fontFamily": "Il",
+      "identifier": "triangleUp"
+    },
+    "twitter": {
+      "codepoint": 57420,
+      "fontFamily": "Il",
+      "identifier": "twitter"
+    },
+    "unlock": {
+      "codepoint": 57421,
+      "fontFamily": "Il",
+      "identifier": "unlock"
+    },
+    "url": {
+      "codepoint": 57422,
+      "fontFamily": "Il",
+      "identifier": "url"
+    },
+    "user": {
+      "codepoint": 57423,
+      "fontFamily": "Il",
+      "identifier": "user"
+    },
+    "users": {
+      "codepoint": 57424,
+      "fontFamily": "Il",
+      "identifier": "users"
+    },
+    "videocamera": {
+      "codepoint": 57425,
+      "fontFamily": "Il",
+      "identifier": "videocamera"
+    },
+    "world": {
+      "codepoint": 57426,
+      "fontFamily": "Il",
+      "identifier": "world"
+    },
+    "youtube": {
+      "codepoint": 57427,
+      "fontFamily": "Il",
+      "identifier": "youtube"
+    }
+  }
+}

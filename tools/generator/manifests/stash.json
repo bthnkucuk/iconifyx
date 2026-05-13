@@ -1,0 +1,4940 @@
+{
+  "schemaVersion": 1,
+  "prefix": "stash",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_stash",
+  "info": {
+    "name": "Stash Icons",
+    "author": {
+      "name": "Pingback LLC",
+      "url": "https://github.com/stash-ui/icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/stash-ui/icons/blob/master/LICENSE"
+    },
+    "total": 982
+  },
+  "fonts": [
+    {
+      "family": "Stash",
+      "nextCodepoint": 58326,
+      "iconCount": 982
+    }
+  ],
+  "icons": {
+    "airplane": {
+      "codepoint": 57344,
+      "fontFamily": "Stash",
+      "identifier": "airplane"
+    },
+    "airplane-duotone": {
+      "codepoint": 57345,
+      "fontFamily": "Stash",
+      "identifier": "airplaneDuotone"
+    },
+    "airplane-light": {
+      "codepoint": 57346,
+      "fontFamily": "Stash",
+      "identifier": "airplaneLight"
+    },
+    "airplane-solid": {
+      "codepoint": 57347,
+      "fontFamily": "Stash",
+      "identifier": "airplaneSolid"
+    },
+    "angle-down": {
+      "codepoint": 57348,
+      "fontFamily": "Stash",
+      "identifier": "angleDown"
+    },
+    "angle-down-duotone": {
+      "codepoint": 57349,
+      "fontFamily": "Stash",
+      "identifier": "angleDownDuotone"
+    },
+    "angle-down-light": {
+      "codepoint": 57350,
+      "fontFamily": "Stash",
+      "identifier": "angleDownLight"
+    },
+    "angle-left": {
+      "codepoint": 57351,
+      "fontFamily": "Stash",
+      "identifier": "angleLeft"
+    },
+    "angle-left-duotone": {
+      "codepoint": 57352,
+      "fontFamily": "Stash",
+      "identifier": "angleLeftDuotone"
+    },
+    "angle-left-light": {
+      "codepoint": 57353,
+      "fontFamily": "Stash",
+      "identifier": "angleLeftLight"
+    },
+    "angle-right": {
+      "codepoint": 57354,
+      "fontFamily": "Stash",
+      "identifier": "angleRight"
+    },
+    "angle-right-duotone": {
+      "codepoint": 57355,
+      "fontFamily": "Stash",
+      "identifier": "angleRightDuotone"
+    },
+    "angle-right-light": {
+      "codepoint": 57356,
+      "fontFamily": "Stash",
+      "identifier": "angleRightLight"
+    },
+    "angle-up": {
+      "codepoint": 57357,
+      "fontFamily": "Stash",
+      "identifier": "angleUp"
+    },
+    "angle-up-duotone": {
+      "codepoint": 57358,
+      "fontFamily": "Stash",
+      "identifier": "angleUpDuotone"
+    },
+    "angle-up-light": {
+      "codepoint": 57359,
+      "fontFamily": "Stash",
+      "identifier": "angleUpLight"
+    },
+    "arrow-down": {
+      "codepoint": 57360,
+      "fontFamily": "Stash",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-duotone": {
+      "codepoint": 57361,
+      "fontFamily": "Stash",
+      "identifier": "arrowDownDuotone"
+    },
+    "arrow-down-large": {
+      "codepoint": 57362,
+      "fontFamily": "Stash",
+      "identifier": "arrowDownLarge"
+    },
+    "arrow-down-large-duotone": {
+      "codepoint": 57363,
+      "fontFamily": "Stash",
+      "identifier": "arrowDownLargeDuotone"
+    },
+    "arrow-down-large-light": {
+      "codepoint": 57364,
+      "fontFamily": "Stash",
+      "identifier": "arrowDownLargeLight"
+    },
+    "arrow-down-light": {
+      "codepoint": 57365,
+      "fontFamily": "Stash",
+      "identifier": "arrowDownLight"
+    },
+    "arrow-down-solid": {
+      "codepoint": 57366,
+      "fontFamily": "Stash",
+      "identifier": "arrowDownSolid"
+    },
+    "arrow-left": {
+      "codepoint": 57367,
+      "fontFamily": "Stash",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-duotone": {
+      "codepoint": 57368,
+      "fontFamily": "Stash",
+      "identifier": "arrowLeftDuotone"
+    },
+    "arrow-left-large": {
+      "codepoint": 57369,
+      "fontFamily": "Stash",
+      "identifier": "arrowLeftLarge"
+    },
+    "arrow-left-large-duotone": {
+      "codepoint": 57370,
+      "fontFamily": "Stash",
+      "identifier": "arrowLeftLargeDuotone"
+    },
+    "arrow-left-large-light": {
+      "codepoint": 57371,
+      "fontFamily": "Stash",
+      "identifier": "arrowLeftLargeLight"
+    },
+    "arrow-left-light": {
+      "codepoint": 57372,
+      "fontFamily": "Stash",
+      "identifier": "arrowLeftLight"
+    },
+    "arrow-left-solid": {
+      "codepoint": 57373,
+      "fontFamily": "Stash",
+      "identifier": "arrowLeftSolid"
+    },
+    "arrow-reply": {
+      "codepoint": 57374,
+      "fontFamily": "Stash",
+      "identifier": "arrowReply"
+    },
+    "arrow-reply-duotone": {
+      "codepoint": 57375,
+      "fontFamily": "Stash",
+      "identifier": "arrowReplyDuotone"
+    },
+    "arrow-reply-light": {
+      "codepoint": 57376,
+      "fontFamily": "Stash",
+      "identifier": "arrowReplyLight"
+    },
+    "arrow-reply-solid": {
+      "codepoint": 57377,
+      "fontFamily": "Stash",
+      "identifier": "arrowReplySolid"
+    },
+    "arrow-retry": {
+      "codepoint": 57378,
+      "fontFamily": "Stash",
+      "identifier": "arrowRetry"
+    },
+    "arrow-retry-duotone": {
+      "codepoint": 57379,
+      "fontFamily": "Stash",
+      "identifier": "arrowRetryDuotone"
+    },
+    "arrow-retry-light": {
+      "codepoint": 57380,
+      "fontFamily": "Stash",
+      "identifier": "arrowRetryLight"
+    },
+    "arrow-right": {
+      "codepoint": 57381,
+      "fontFamily": "Stash",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-duotone": {
+      "codepoint": 57382,
+      "fontFamily": "Stash",
+      "identifier": "arrowRightDuotone"
+    },
+    "arrow-right-large": {
+      "codepoint": 57383,
+      "fontFamily": "Stash",
+      "identifier": "arrowRightLarge"
+    },
+    "arrow-right-large-duotone": {
+      "codepoint": 57384,
+      "fontFamily": "Stash",
+      "identifier": "arrowRightLargeDuotone"
+    },
+    "arrow-right-large-light": {
+      "codepoint": 57385,
+      "fontFamily": "Stash",
+      "identifier": "arrowRightLargeLight"
+    },
+    "arrow-right-light": {
+      "codepoint": 57386,
+      "fontFamily": "Stash",
+      "identifier": "arrowRightLight"
+    },
+    "arrow-right-solid": {
+      "codepoint": 57387,
+      "fontFamily": "Stash",
+      "identifier": "arrowRightSolid"
+    },
+    "arrow-up": {
+      "codepoint": 57388,
+      "fontFamily": "Stash",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-duotone": {
+      "codepoint": 57389,
+      "fontFamily": "Stash",
+      "identifier": "arrowUpDuotone"
+    },
+    "arrow-up-large": {
+      "codepoint": 57390,
+      "fontFamily": "Stash",
+      "identifier": "arrowUpLarge"
+    },
+    "arrow-up-large-duotone": {
+      "codepoint": 57391,
+      "fontFamily": "Stash",
+      "identifier": "arrowUpLargeDuotone"
+    },
+    "arrow-up-large-light": {
+      "codepoint": 57392,
+      "fontFamily": "Stash",
+      "identifier": "arrowUpLargeLight"
+    },
+    "arrow-up-light": {
+      "codepoint": 57393,
+      "fontFamily": "Stash",
+      "identifier": "arrowUpLight"
+    },
+    "arrow-up-solid": {
+      "codepoint": 57394,
+      "fontFamily": "Stash",
+      "identifier": "arrowUpSolid"
+    },
+    "arrows-switch": {
+      "codepoint": 57395,
+      "fontFamily": "Stash",
+      "identifier": "arrowsSwitch"
+    },
+    "arrows-switch-duotone": {
+      "codepoint": 57396,
+      "fontFamily": "Stash",
+      "identifier": "arrowsSwitchDuotone"
+    },
+    "arrows-switch-light": {
+      "codepoint": 57397,
+      "fontFamily": "Stash",
+      "identifier": "arrowsSwitchLight"
+    },
+    "arrows-switch-solid": {
+      "codepoint": 57398,
+      "fontFamily": "Stash",
+      "identifier": "arrowsSwitchSolid"
+    },
+    "article": {
+      "codepoint": 57399,
+      "fontFamily": "Stash",
+      "identifier": "article"
+    },
+    "article-alt": {
+      "codepoint": 57400,
+      "fontFamily": "Stash",
+      "identifier": "articleAlt"
+    },
+    "article-alt-duotone": {
+      "codepoint": 57401,
+      "fontFamily": "Stash",
+      "identifier": "articleAltDuotone"
+    },
+    "article-alt-light": {
+      "codepoint": 57402,
+      "fontFamily": "Stash",
+      "identifier": "articleAltLight"
+    },
+    "article-alt-solid": {
+      "codepoint": 57403,
+      "fontFamily": "Stash",
+      "identifier": "articleAltSolid"
+    },
+    "article-duotone": {
+      "codepoint": 57404,
+      "fontFamily": "Stash",
+      "identifier": "articleDuotone"
+    },
+    "article-light": {
+      "codepoint": 57405,
+      "fontFamily": "Stash",
+      "identifier": "articleLight"
+    },
+    "article-plus": {
+      "codepoint": 57406,
+      "fontFamily": "Stash",
+      "identifier": "articlePlus"
+    },
+    "article-plus-duotone": {
+      "codepoint": 57407,
+      "fontFamily": "Stash",
+      "identifier": "articlePlusDuotone"
+    },
+    "article-plus-light": {
+      "codepoint": 57408,
+      "fontFamily": "Stash",
+      "identifier": "articlePlusLight"
+    },
+    "article-plus-solid": {
+      "codepoint": 57409,
+      "fontFamily": "Stash",
+      "identifier": "articlePlusSolid"
+    },
+    "article-share": {
+      "codepoint": 57410,
+      "fontFamily": "Stash",
+      "identifier": "articleShare"
+    },
+    "article-share-duotone": {
+      "codepoint": 57411,
+      "fontFamily": "Stash",
+      "identifier": "articleShareDuotone"
+    },
+    "article-share-light": {
+      "codepoint": 57412,
+      "fontFamily": "Stash",
+      "identifier": "articleShareLight"
+    },
+    "article-share-solid": {
+      "codepoint": 57413,
+      "fontFamily": "Stash",
+      "identifier": "articleShareSolid"
+    },
+    "article-solid": {
+      "codepoint": 57414,
+      "fontFamily": "Stash",
+      "identifier": "articleSolid"
+    },
+    "asterisk": {
+      "codepoint": 57415,
+      "fontFamily": "Stash",
+      "identifier": "asterisk"
+    },
+    "asterisk-duotone": {
+      "codepoint": 57416,
+      "fontFamily": "Stash",
+      "identifier": "asteriskDuotone"
+    },
+    "asterisk-light": {
+      "codepoint": 57417,
+      "fontFamily": "Stash",
+      "identifier": "asteriskLight"
+    },
+    "asterisk-solid": {
+      "codepoint": 57418,
+      "fontFamily": "Stash",
+      "identifier": "asteriskSolid"
+    },
+    "at-symbol": {
+      "codepoint": 57419,
+      "fontFamily": "Stash",
+      "identifier": "atSymbol"
+    },
+    "at-symbol-duotone": {
+      "codepoint": 57420,
+      "fontFamily": "Stash",
+      "identifier": "atSymbolDuotone"
+    },
+    "at-symbol-light": {
+      "codepoint": 57421,
+      "fontFamily": "Stash",
+      "identifier": "atSymbolLight"
+    },
+    "at-symbol-solid": {
+      "codepoint": 57422,
+      "fontFamily": "Stash",
+      "identifier": "atSymbolSolid"
+    },
+    "badge-dollar": {
+      "codepoint": 57423,
+      "fontFamily": "Stash",
+      "identifier": "badgeDollar"
+    },
+    "badge-dollar-duotone": {
+      "codepoint": 57424,
+      "fontFamily": "Stash",
+      "identifier": "badgeDollarDuotone"
+    },
+    "badge-dollar-light": {
+      "codepoint": 57425,
+      "fontFamily": "Stash",
+      "identifier": "badgeDollarLight"
+    },
+    "badge-dollar-solid": {
+      "codepoint": 57426,
+      "fontFamily": "Stash",
+      "identifier": "badgeDollarSolid"
+    },
+    "badge-verified": {
+      "codepoint": 57427,
+      "fontFamily": "Stash",
+      "identifier": "badgeVerified"
+    },
+    "badge-verified-duotone": {
+      "codepoint": 57428,
+      "fontFamily": "Stash",
+      "identifier": "badgeVerifiedDuotone"
+    },
+    "badge-verified-light": {
+      "codepoint": 57429,
+      "fontFamily": "Stash",
+      "identifier": "badgeVerifiedLight"
+    },
+    "badge-verified-solid": {
+      "codepoint": 57430,
+      "fontFamily": "Stash",
+      "identifier": "badgeVerifiedSolid"
+    },
+    "balance": {
+      "codepoint": 57431,
+      "fontFamily": "Stash",
+      "identifier": "balance"
+    },
+    "balance-duotone": {
+      "codepoint": 57432,
+      "fontFamily": "Stash",
+      "identifier": "balanceDuotone"
+    },
+    "balance-light": {
+      "codepoint": 57433,
+      "fontFamily": "Stash",
+      "identifier": "balanceLight"
+    },
+    "balance-solid": {
+      "codepoint": 57434,
+      "fontFamily": "Stash",
+      "identifier": "balanceSolid"
+    },
+    "bell": {
+      "codepoint": 57435,
+      "fontFamily": "Stash",
+      "identifier": "bell"
+    },
+    "bell-duotone": {
+      "codepoint": 57436,
+      "fontFamily": "Stash",
+      "identifier": "bellDuotone"
+    },
+    "bell-light": {
+      "codepoint": 57437,
+      "fontFamily": "Stash",
+      "identifier": "bellLight"
+    },
+    "billing-info": {
+      "codepoint": 57438,
+      "fontFamily": "Stash",
+      "identifier": "billingInfo"
+    },
+    "billing-info-duotone": {
+      "codepoint": 57439,
+      "fontFamily": "Stash",
+      "identifier": "billingInfoDuotone"
+    },
+    "billing-info-light": {
+      "codepoint": 57440,
+      "fontFamily": "Stash",
+      "identifier": "billingInfoLight"
+    },
+    "billing-info-solid": {
+      "codepoint": 57441,
+      "fontFamily": "Stash",
+      "identifier": "billingInfoSolid"
+    },
+    "browser": {
+      "codepoint": 57442,
+      "fontFamily": "Stash",
+      "identifier": "browser"
+    },
+    "browser-duotone": {
+      "codepoint": 57443,
+      "fontFamily": "Stash",
+      "identifier": "browserDuotone"
+    },
+    "browser-light": {
+      "codepoint": 57444,
+      "fontFamily": "Stash",
+      "identifier": "browserLight"
+    },
+    "browser-solid": {
+      "codepoint": 57445,
+      "fontFamily": "Stash",
+      "identifier": "browserSolid"
+    },
+    "bug": {
+      "codepoint": 57446,
+      "fontFamily": "Stash",
+      "identifier": "bug"
+    },
+    "bug-duotone": {
+      "codepoint": 57447,
+      "fontFamily": "Stash",
+      "identifier": "bugDuotone"
+    },
+    "bug-light": {
+      "codepoint": 57448,
+      "fontFamily": "Stash",
+      "identifier": "bugLight"
+    },
+    "bug-solid": {
+      "codepoint": 57449,
+      "fontFamily": "Stash",
+      "identifier": "bugSolid"
+    },
+    "burger": {
+      "codepoint": 57450,
+      "fontFamily": "Stash",
+      "identifier": "burger"
+    },
+    "burger-arrow-left": {
+      "codepoint": 57451,
+      "fontFamily": "Stash",
+      "identifier": "burgerArrowLeft"
+    },
+    "burger-arrow-left-duotone": {
+      "codepoint": 57452,
+      "fontFamily": "Stash",
+      "identifier": "burgerArrowLeftDuotone"
+    },
+    "burger-arrow-left-light": {
+      "codepoint": 57453,
+      "fontFamily": "Stash",
+      "identifier": "burgerArrowLeftLight"
+    },
+    "burger-arrow-right": {
+      "codepoint": 57454,
+      "fontFamily": "Stash",
+      "identifier": "burgerArrowRight"
+    },
+    "burger-arrow-right-duotone": {
+      "codepoint": 57455,
+      "fontFamily": "Stash",
+      "identifier": "burgerArrowRightDuotone"
+    },
+    "burger-arrow-right-light": {
+      "codepoint": 57456,
+      "fontFamily": "Stash",
+      "identifier": "burgerArrowRightLight"
+    },
+    "burger-classic": {
+      "codepoint": 57457,
+      "fontFamily": "Stash",
+      "identifier": "burgerClassic"
+    },
+    "burger-classic-duotone": {
+      "codepoint": 57458,
+      "fontFamily": "Stash",
+      "identifier": "burgerClassicDuotone"
+    },
+    "burger-classic-light": {
+      "codepoint": 57459,
+      "fontFamily": "Stash",
+      "identifier": "burgerClassicLight"
+    },
+    "burger-duotone": {
+      "codepoint": 57460,
+      "fontFamily": "Stash",
+      "identifier": "burgerDuotone"
+    },
+    "burger-light": {
+      "codepoint": 57461,
+      "fontFamily": "Stash",
+      "identifier": "burgerLight"
+    },
+    "burger-solid": {
+      "codepoint": 57462,
+      "fontFamily": "Stash",
+      "identifier": "burgerSolid"
+    },
+    "calendar": {
+      "codepoint": 57463,
+      "fontFamily": "Stash",
+      "identifier": "calendar"
+    },
+    "calendar-duotone": {
+      "codepoint": 57464,
+      "fontFamily": "Stash",
+      "identifier": "calendarDuotone"
+    },
+    "calendar-end": {
+      "codepoint": 57465,
+      "fontFamily": "Stash",
+      "identifier": "calendarEnd"
+    },
+    "calendar-end-duotone": {
+      "codepoint": 57466,
+      "fontFamily": "Stash",
+      "identifier": "calendarEndDuotone"
+    },
+    "calendar-end-light": {
+      "codepoint": 57467,
+      "fontFamily": "Stash",
+      "identifier": "calendarEndLight"
+    },
+    "calendar-end-solid": {
+      "codepoint": 57468,
+      "fontFamily": "Stash",
+      "identifier": "calendarEndSolid"
+    },
+    "calendar-light": {
+      "codepoint": 57469,
+      "fontFamily": "Stash",
+      "identifier": "calendarLight"
+    },
+    "calendar-nine": {
+      "codepoint": 57470,
+      "fontFamily": "Stash",
+      "identifier": "calendarNine"
+    },
+    "calendar-nine-duotone": {
+      "codepoint": 57471,
+      "fontFamily": "Stash",
+      "identifier": "calendarNineDuotone"
+    },
+    "calendar-nine-light": {
+      "codepoint": 57472,
+      "fontFamily": "Stash",
+      "identifier": "calendarNineLight"
+    },
+    "calendar-nine-solid": {
+      "codepoint": 57473,
+      "fontFamily": "Stash",
+      "identifier": "calendarNineSolid"
+    },
+    "calendar-solid": {
+      "codepoint": 57474,
+      "fontFamily": "Stash",
+      "identifier": "calendarSolid"
+    },
+    "calendar-star": {
+      "codepoint": 57475,
+      "fontFamily": "Stash",
+      "identifier": "calendarStar"
+    },
+    "calendar-star-duotone": {
+      "codepoint": 57476,
+      "fontFamily": "Stash",
+      "identifier": "calendarStarDuotone"
+    },
+    "calendar-star-light": {
+      "codepoint": 57477,
+      "fontFamily": "Stash",
+      "identifier": "calendarStarLight"
+    },
+    "calendar-star-solid": {
+      "codepoint": 57478,
+      "fontFamily": "Stash",
+      "identifier": "calendarStarSolid"
+    },
+    "cam-video": {
+      "codepoint": 57479,
+      "fontFamily": "Stash",
+      "identifier": "camVideo"
+    },
+    "cam-video-duotone": {
+      "codepoint": 57480,
+      "fontFamily": "Stash",
+      "identifier": "camVideoDuotone"
+    },
+    "cam-video-light": {
+      "codepoint": 57481,
+      "fontFamily": "Stash",
+      "identifier": "camVideoLight"
+    },
+    "cam-video-solid": {
+      "codepoint": 57482,
+      "fontFamily": "Stash",
+      "identifier": "camVideoSolid"
+    },
+    "cam-web": {
+      "codepoint": 57483,
+      "fontFamily": "Stash",
+      "identifier": "camWeb"
+    },
+    "cam-web-duotone": {
+      "codepoint": 57484,
+      "fontFamily": "Stash",
+      "identifier": "camWebDuotone"
+    },
+    "cam-web-light": {
+      "codepoint": 57485,
+      "fontFamily": "Stash",
+      "identifier": "camWebLight"
+    },
+    "cam-web-solid": {
+      "codepoint": 57486,
+      "fontFamily": "Stash",
+      "identifier": "camWebSolid"
+    },
+    "caret-down": {
+      "codepoint": 57487,
+      "fontFamily": "Stash",
+      "identifier": "caretDown"
+    },
+    "caret-down-duotone": {
+      "codepoint": 57488,
+      "fontFamily": "Stash",
+      "identifier": "caretDownDuotone"
+    },
+    "caret-down-light": {
+      "codepoint": 57489,
+      "fontFamily": "Stash",
+      "identifier": "caretDownLight"
+    },
+    "caret-left": {
+      "codepoint": 57490,
+      "fontFamily": "Stash",
+      "identifier": "caretLeft"
+    },
+    "caret-left-duotone": {
+      "codepoint": 57491,
+      "fontFamily": "Stash",
+      "identifier": "caretLeftDuotone"
+    },
+    "caret-left-light": {
+      "codepoint": 57492,
+      "fontFamily": "Stash",
+      "identifier": "caretLeftLight"
+    },
+    "caret-right": {
+      "codepoint": 57493,
+      "fontFamily": "Stash",
+      "identifier": "caretRight"
+    },
+    "caret-right-duotone": {
+      "codepoint": 57494,
+      "fontFamily": "Stash",
+      "identifier": "caretRightDuotone"
+    },
+    "caret-right-light": {
+      "codepoint": 57495,
+      "fontFamily": "Stash",
+      "identifier": "caretRightLight"
+    },
+    "caret-up": {
+      "codepoint": 57496,
+      "fontFamily": "Stash",
+      "identifier": "caretUp"
+    },
+    "caret-up-duotone": {
+      "codepoint": 57497,
+      "fontFamily": "Stash",
+      "identifier": "caretUpDuotone"
+    },
+    "caret-up-light": {
+      "codepoint": 57498,
+      "fontFamily": "Stash",
+      "identifier": "caretUpLight"
+    },
+    "chart-pie": {
+      "codepoint": 57499,
+      "fontFamily": "Stash",
+      "identifier": "chartPie"
+    },
+    "chart-pie-duotone": {
+      "codepoint": 57500,
+      "fontFamily": "Stash",
+      "identifier": "chartPieDuotone"
+    },
+    "chart-pie-light": {
+      "codepoint": 57501,
+      "fontFamily": "Stash",
+      "identifier": "chartPieLight"
+    },
+    "chart-trend-down": {
+      "codepoint": 57502,
+      "fontFamily": "Stash",
+      "identifier": "chartTrendDown"
+    },
+    "chart-trend-down-duotone": {
+      "codepoint": 57503,
+      "fontFamily": "Stash",
+      "identifier": "chartTrendDownDuotone"
+    },
+    "chart-trend-down-light": {
+      "codepoint": 57504,
+      "fontFamily": "Stash",
+      "identifier": "chartTrendDownLight"
+    },
+    "chart-trend-down-solid": {
+      "codepoint": 57505,
+      "fontFamily": "Stash",
+      "identifier": "chartTrendDownSolid"
+    },
+    "chart-trend-up": {
+      "codepoint": 57506,
+      "fontFamily": "Stash",
+      "identifier": "chartTrendUp"
+    },
+    "chart-trend-up-duotone": {
+      "codepoint": 57507,
+      "fontFamily": "Stash",
+      "identifier": "chartTrendUpDuotone"
+    },
+    "chart-trend-up-light": {
+      "codepoint": 57508,
+      "fontFamily": "Stash",
+      "identifier": "chartTrendUpLight"
+    },
+    "chart-trend-up-solid": {
+      "codepoint": 57509,
+      "fontFamily": "Stash",
+      "identifier": "chartTrendUpSolid"
+    },
+    "check": {
+      "codepoint": 57510,
+      "fontFamily": "Stash",
+      "identifier": "check"
+    },
+    "check-circle": {
+      "codepoint": 57511,
+      "fontFamily": "Stash",
+      "identifier": "checkCircle"
+    },
+    "check-circle-duotone": {
+      "codepoint": 57512,
+      "fontFamily": "Stash",
+      "identifier": "checkCircleDuotone"
+    },
+    "check-circle-light": {
+      "codepoint": 57513,
+      "fontFamily": "Stash",
+      "identifier": "checkCircleLight"
+    },
+    "check-circle-solid": {
+      "codepoint": 57514,
+      "fontFamily": "Stash",
+      "identifier": "checkCircleSolid"
+    },
+    "check-duotone": {
+      "codepoint": 57515,
+      "fontFamily": "Stash",
+      "identifier": "checkDuotone"
+    },
+    "check-light": {
+      "codepoint": 57516,
+      "fontFamily": "Stash",
+      "identifier": "checkLight"
+    },
+    "check-solid": {
+      "codepoint": 57517,
+      "fontFamily": "Stash",
+      "identifier": "checkSolid"
+    },
+    "chevron-double-down": {
+      "codepoint": 57518,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleDown"
+    },
+    "chevron-double-down-duotone": {
+      "codepoint": 57519,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleDownDuotone"
+    },
+    "chevron-double-down-light": {
+      "codepoint": 57520,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleDownLight"
+    },
+    "chevron-double-down-solid": {
+      "codepoint": 57521,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleDownSolid"
+    },
+    "chevron-double-left": {
+      "codepoint": 57522,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleLeft"
+    },
+    "chevron-double-left-duotone": {
+      "codepoint": 57523,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleLeftDuotone"
+    },
+    "chevron-double-left-light": {
+      "codepoint": 57524,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleLeftLight"
+    },
+    "chevron-double-left-solid": {
+      "codepoint": 57525,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleLeftSolid"
+    },
+    "chevron-double-right": {
+      "codepoint": 57526,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleRight"
+    },
+    "chevron-double-right-duotone": {
+      "codepoint": 57527,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleRightDuotone"
+    },
+    "chevron-double-right-light": {
+      "codepoint": 57528,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleRightLight"
+    },
+    "chevron-double-right-solid": {
+      "codepoint": 57529,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleRightSolid"
+    },
+    "chevron-double-up": {
+      "codepoint": 57530,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleUp"
+    },
+    "chevron-double-up-duotone": {
+      "codepoint": 57531,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleUpDuotone"
+    },
+    "chevron-double-up-light": {
+      "codepoint": 57532,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleUpLight"
+    },
+    "chevron-double-up-solid": {
+      "codepoint": 57533,
+      "fontFamily": "Stash",
+      "identifier": "chevronDoubleUpSolid"
+    },
+    "chevron-down": {
+      "codepoint": 57534,
+      "fontFamily": "Stash",
+      "identifier": "chevronDown"
+    },
+    "chevron-down-duotone": {
+      "codepoint": 57535,
+      "fontFamily": "Stash",
+      "identifier": "chevronDownDuotone"
+    },
+    "chevron-down-light": {
+      "codepoint": 57536,
+      "fontFamily": "Stash",
+      "identifier": "chevronDownLight"
+    },
+    "chevron-down-solid": {
+      "codepoint": 57537,
+      "fontFamily": "Stash",
+      "identifier": "chevronDownSolid"
+    },
+    "chevron-left": {
+      "codepoint": 57538,
+      "fontFamily": "Stash",
+      "identifier": "chevronLeft"
+    },
+    "chevron-left-duotone": {
+      "codepoint": 57539,
+      "fontFamily": "Stash",
+      "identifier": "chevronLeftDuotone"
+    },
+    "chevron-left-light": {
+      "codepoint": 57540,
+      "fontFamily": "Stash",
+      "identifier": "chevronLeftLight"
+    },
+    "chevron-left-solid": {
+      "codepoint": 57541,
+      "fontFamily": "Stash",
+      "identifier": "chevronLeftSolid"
+    },
+    "chevron-right": {
+      "codepoint": 57542,
+      "fontFamily": "Stash",
+      "identifier": "chevronRight"
+    },
+    "chevron-right-duotone": {
+      "codepoint": 57543,
+      "fontFamily": "Stash",
+      "identifier": "chevronRightDuotone"
+    },
+    "chevron-right-light": {
+      "codepoint": 57544,
+      "fontFamily": "Stash",
+      "identifier": "chevronRightLight"
+    },
+    "chevron-right-solid": {
+      "codepoint": 57545,
+      "fontFamily": "Stash",
+      "identifier": "chevronRightSolid"
+    },
+    "chevron-up": {
+      "codepoint": 57546,
+      "fontFamily": "Stash",
+      "identifier": "chevronUp"
+    },
+    "chevron-up-duotone": {
+      "codepoint": 57547,
+      "fontFamily": "Stash",
+      "identifier": "chevronUpDuotone"
+    },
+    "chevron-up-light": {
+      "codepoint": 57548,
+      "fontFamily": "Stash",
+      "identifier": "chevronUpLight"
+    },
+    "chevron-up-solid": {
+      "codepoint": 57549,
+      "fontFamily": "Stash",
+      "identifier": "chevronUpSolid"
+    },
+    "circle": {
+      "codepoint": 57550,
+      "fontFamily": "Stash",
+      "identifier": "circle"
+    },
+    "circle-dot": {
+      "codepoint": 57551,
+      "fontFamily": "Stash",
+      "identifier": "circleDot"
+    },
+    "circle-dot-duotone": {
+      "codepoint": 57552,
+      "fontFamily": "Stash",
+      "identifier": "circleDotDuotone"
+    },
+    "circle-dot-light": {
+      "codepoint": 57553,
+      "fontFamily": "Stash",
+      "identifier": "circleDotLight"
+    },
+    "circle-dot-solid": {
+      "codepoint": 57554,
+      "fontFamily": "Stash",
+      "identifier": "circleDotSolid"
+    },
+    "circle-duotone": {
+      "codepoint": 57555,
+      "fontFamily": "Stash",
+      "identifier": "circleDuotone"
+    },
+    "circle-light": {
+      "codepoint": 57556,
+      "fontFamily": "Stash",
+      "identifier": "circleLight"
+    },
+    "circle-solid": {
+      "codepoint": 57557,
+      "fontFamily": "Stash",
+      "identifier": "circleSolid"
+    },
+    "clock": {
+      "codepoint": 57558,
+      "fontFamily": "Stash",
+      "identifier": "clock"
+    },
+    "clock-duotone": {
+      "codepoint": 57559,
+      "fontFamily": "Stash",
+      "identifier": "clockDuotone"
+    },
+    "clock-light": {
+      "codepoint": 57560,
+      "fontFamily": "Stash",
+      "identifier": "clockLight"
+    },
+    "clock-solid": {
+      "codepoint": 57561,
+      "fontFamily": "Stash",
+      "identifier": "clockSolid"
+    },
+    "cloud": {
+      "codepoint": 57562,
+      "fontFamily": "Stash",
+      "identifier": "cloud"
+    },
+    "cloud-arrow-down": {
+      "codepoint": 57563,
+      "fontFamily": "Stash",
+      "identifier": "cloudArrowDown"
+    },
+    "cloud-arrow-down-duotone": {
+      "codepoint": 57564,
+      "fontFamily": "Stash",
+      "identifier": "cloudArrowDownDuotone"
+    },
+    "cloud-arrow-down-light": {
+      "codepoint": 57565,
+      "fontFamily": "Stash",
+      "identifier": "cloudArrowDownLight"
+    },
+    "cloud-arrow-up": {
+      "codepoint": 57566,
+      "fontFamily": "Stash",
+      "identifier": "cloudArrowUp"
+    },
+    "cloud-arrow-up-duotone": {
+      "codepoint": 57567,
+      "fontFamily": "Stash",
+      "identifier": "cloudArrowUpDuotone"
+    },
+    "cloud-arrow-up-light": {
+      "codepoint": 57568,
+      "fontFamily": "Stash",
+      "identifier": "cloudArrowUpLight"
+    },
+    "cloud-check": {
+      "codepoint": 57569,
+      "fontFamily": "Stash",
+      "identifier": "cloudCheck"
+    },
+    "cloud-check-duotone": {
+      "codepoint": 57570,
+      "fontFamily": "Stash",
+      "identifier": "cloudCheckDuotone"
+    },
+    "cloud-check-light": {
+      "codepoint": 57571,
+      "fontFamily": "Stash",
+      "identifier": "cloudCheckLight"
+    },
+    "cloud-check-solid": {
+      "codepoint": 57572,
+      "fontFamily": "Stash",
+      "identifier": "cloudCheckSolid"
+    },
+    "cloud-duotone": {
+      "codepoint": 57573,
+      "fontFamily": "Stash",
+      "identifier": "cloudDuotone"
+    },
+    "cloud-light": {
+      "codepoint": 57574,
+      "fontFamily": "Stash",
+      "identifier": "cloudLight"
+    },
+    "cloud-minus": {
+      "codepoint": 57575,
+      "fontFamily": "Stash",
+      "identifier": "cloudMinus"
+    },
+    "cloud-minus-duotone": {
+      "codepoint": 57576,
+      "fontFamily": "Stash",
+      "identifier": "cloudMinusDuotone"
+    },
+    "cloud-minus-light": {
+      "codepoint": 57577,
+      "fontFamily": "Stash",
+      "identifier": "cloudMinusLight"
+    },
+    "cloud-plus": {
+      "codepoint": 57578,
+      "fontFamily": "Stash",
+      "identifier": "cloudPlus"
+    },
+    "cloud-plus-duotone": {
+      "codepoint": 57579,
+      "fontFamily": "Stash",
+      "identifier": "cloudPlusDuotone"
+    },
+    "cloud-plus-light": {
+      "codepoint": 57580,
+      "fontFamily": "Stash",
+      "identifier": "cloudPlusLight"
+    },
+    "cloud-solid": {
+      "codepoint": 57581,
+      "fontFamily": "Stash",
+      "identifier": "cloudSolid"
+    },
+    "cog": {
+      "codepoint": 57582,
+      "fontFamily": "Stash",
+      "identifier": "cog"
+    },
+    "cog-duotone": {
+      "codepoint": 57583,
+      "fontFamily": "Stash",
+      "identifier": "cogDuotone"
+    },
+    "cog-light": {
+      "codepoint": 57584,
+      "fontFamily": "Stash",
+      "identifier": "cogLight"
+    },
+    "comments": {
+      "codepoint": 57585,
+      "fontFamily": "Stash",
+      "identifier": "comments"
+    },
+    "comments-duotone": {
+      "codepoint": 57586,
+      "fontFamily": "Stash",
+      "identifier": "commentsDuotone"
+    },
+    "comments-light": {
+      "codepoint": 57587,
+      "fontFamily": "Stash",
+      "identifier": "commentsLight"
+    },
+    "comments-solid": {
+      "codepoint": 57588,
+      "fontFamily": "Stash",
+      "identifier": "commentsSolid"
+    },
+    "compass": {
+      "codepoint": 57589,
+      "fontFamily": "Stash",
+      "identifier": "compass"
+    },
+    "compass-duotone": {
+      "codepoint": 57590,
+      "fontFamily": "Stash",
+      "identifier": "compassDuotone"
+    },
+    "compass-light": {
+      "codepoint": 57591,
+      "fontFamily": "Stash",
+      "identifier": "compassLight"
+    },
+    "content-share": {
+      "codepoint": 57592,
+      "fontFamily": "Stash",
+      "identifier": "contentShare"
+    },
+    "content-share-duotone": {
+      "codepoint": 57593,
+      "fontFamily": "Stash",
+      "identifier": "contentShareDuotone"
+    },
+    "content-share-light": {
+      "codepoint": 57594,
+      "fontFamily": "Stash",
+      "identifier": "contentShareLight"
+    },
+    "content-share-solid": {
+      "codepoint": 57595,
+      "fontFamily": "Stash",
+      "identifier": "contentShareSolid"
+    },
+    "copy": {
+      "codepoint": 57596,
+      "fontFamily": "Stash",
+      "identifier": "copy"
+    },
+    "copy-duotone": {
+      "codepoint": 57597,
+      "fontFamily": "Stash",
+      "identifier": "copyDuotone"
+    },
+    "copy-light": {
+      "codepoint": 57598,
+      "fontFamily": "Stash",
+      "identifier": "copyLight"
+    },
+    "corner-down-left": {
+      "codepoint": 57599,
+      "fontFamily": "Stash",
+      "identifier": "cornerDownLeft"
+    },
+    "corner-down-left-duotone": {
+      "codepoint": 57600,
+      "fontFamily": "Stash",
+      "identifier": "cornerDownLeftDuotone"
+    },
+    "corner-down-left-light": {
+      "codepoint": 57601,
+      "fontFamily": "Stash",
+      "identifier": "cornerDownLeftLight"
+    },
+    "corner-down-left-solid": {
+      "codepoint": 57602,
+      "fontFamily": "Stash",
+      "identifier": "cornerDownLeftSolid"
+    },
+    "corner-down-right": {
+      "codepoint": 57603,
+      "fontFamily": "Stash",
+      "identifier": "cornerDownRight"
+    },
+    "corner-down-right-duotone": {
+      "codepoint": 57604,
+      "fontFamily": "Stash",
+      "identifier": "cornerDownRightDuotone"
+    },
+    "corner-down-right-light": {
+      "codepoint": 57605,
+      "fontFamily": "Stash",
+      "identifier": "cornerDownRightLight"
+    },
+    "corner-down-right-solid": {
+      "codepoint": 57606,
+      "fontFamily": "Stash",
+      "identifier": "cornerDownRightSolid"
+    },
+    "corner-up-left": {
+      "codepoint": 57607,
+      "fontFamily": "Stash",
+      "identifier": "cornerUpLeft"
+    },
+    "corner-up-left-duotone": {
+      "codepoint": 57608,
+      "fontFamily": "Stash",
+      "identifier": "cornerUpLeftDuotone"
+    },
+    "corner-up-left-light": {
+      "codepoint": 57609,
+      "fontFamily": "Stash",
+      "identifier": "cornerUpLeftLight"
+    },
+    "corner-up-left-solid": {
+      "codepoint": 57610,
+      "fontFamily": "Stash",
+      "identifier": "cornerUpLeftSolid"
+    },
+    "corner-up-right": {
+      "codepoint": 57611,
+      "fontFamily": "Stash",
+      "identifier": "cornerUpRight"
+    },
+    "corner-up-right-duotone": {
+      "codepoint": 57612,
+      "fontFamily": "Stash",
+      "identifier": "cornerUpRightDuotone"
+    },
+    "corner-up-right-light": {
+      "codepoint": 57613,
+      "fontFamily": "Stash",
+      "identifier": "cornerUpRightLight"
+    },
+    "corner-up-right-solid": {
+      "codepoint": 57614,
+      "fontFamily": "Stash",
+      "identifier": "cornerUpRightSolid"
+    },
+    "creators-club": {
+      "codepoint": 57615,
+      "fontFamily": "Stash",
+      "identifier": "creatorsClub"
+    },
+    "creators-club-duotone": {
+      "codepoint": 57616,
+      "fontFamily": "Stash",
+      "identifier": "creatorsClubDuotone"
+    },
+    "creators-club-light": {
+      "codepoint": 57617,
+      "fontFamily": "Stash",
+      "identifier": "creatorsClubLight"
+    },
+    "credit-card": {
+      "codepoint": 57618,
+      "fontFamily": "Stash",
+      "identifier": "creditCard"
+    },
+    "credit-card-duotone": {
+      "codepoint": 57619,
+      "fontFamily": "Stash",
+      "identifier": "creditCardDuotone"
+    },
+    "credit-card-light": {
+      "codepoint": 57620,
+      "fontFamily": "Stash",
+      "identifier": "creditCardLight"
+    },
+    "credit-card-solid": {
+      "codepoint": 57621,
+      "fontFamily": "Stash",
+      "identifier": "creditCardSolid"
+    },
+    "crown": {
+      "codepoint": 57622,
+      "fontFamily": "Stash",
+      "identifier": "crown"
+    },
+    "crown-duotone": {
+      "codepoint": 57623,
+      "fontFamily": "Stash",
+      "identifier": "crownDuotone"
+    },
+    "crown-light": {
+      "codepoint": 57624,
+      "fontFamily": "Stash",
+      "identifier": "crownLight"
+    },
+    "crown-solid": {
+      "codepoint": 57625,
+      "fontFamily": "Stash",
+      "identifier": "crownSolid"
+    },
+    "cursor-arrow": {
+      "codepoint": 57626,
+      "fontFamily": "Stash",
+      "identifier": "cursorArrow"
+    },
+    "cursor-arrow-duotone": {
+      "codepoint": 57627,
+      "fontFamily": "Stash",
+      "identifier": "cursorArrowDuotone"
+    },
+    "cursor-arrow-light": {
+      "codepoint": 57628,
+      "fontFamily": "Stash",
+      "identifier": "cursorArrowLight"
+    },
+    "cursor-arrow-solid": {
+      "codepoint": 57629,
+      "fontFamily": "Stash",
+      "identifier": "cursorArrowSolid"
+    },
+    "dashboard": {
+      "codepoint": 57630,
+      "fontFamily": "Stash",
+      "identifier": "dashboard"
+    },
+    "dashboard-duotone": {
+      "codepoint": 57631,
+      "fontFamily": "Stash",
+      "identifier": "dashboardDuotone"
+    },
+    "dashboard-light": {
+      "codepoint": 57632,
+      "fontFamily": "Stash",
+      "identifier": "dashboardLight"
+    },
+    "data-boolean": {
+      "codepoint": 57633,
+      "fontFamily": "Stash",
+      "identifier": "dataBoolean"
+    },
+    "data-boolean-duotone": {
+      "codepoint": 57634,
+      "fontFamily": "Stash",
+      "identifier": "dataBooleanDuotone"
+    },
+    "data-boolean-light": {
+      "codepoint": 57635,
+      "fontFamily": "Stash",
+      "identifier": "dataBooleanLight"
+    },
+    "data-boolean-solid": {
+      "codepoint": 57636,
+      "fontFamily": "Stash",
+      "identifier": "dataBooleanSolid"
+    },
+    "data-date": {
+      "codepoint": 57637,
+      "fontFamily": "Stash",
+      "identifier": "dataDate"
+    },
+    "data-date-duotone": {
+      "codepoint": 57638,
+      "fontFamily": "Stash",
+      "identifier": "dataDateDuotone"
+    },
+    "data-date-light": {
+      "codepoint": 57639,
+      "fontFamily": "Stash",
+      "identifier": "dataDateLight"
+    },
+    "data-date-solid": {
+      "codepoint": 57640,
+      "fontFamily": "Stash",
+      "identifier": "dataDateSolid"
+    },
+    "data-numbers": {
+      "codepoint": 57641,
+      "fontFamily": "Stash",
+      "identifier": "dataNumbers"
+    },
+    "data-numbers-duotone": {
+      "codepoint": 57642,
+      "fontFamily": "Stash",
+      "identifier": "dataNumbersDuotone"
+    },
+    "data-numbers-light": {
+      "codepoint": 57643,
+      "fontFamily": "Stash",
+      "identifier": "dataNumbersLight"
+    },
+    "data-numbers-solid": {
+      "codepoint": 57644,
+      "fontFamily": "Stash",
+      "identifier": "dataNumbersSolid"
+    },
+    "data-text": {
+      "codepoint": 57645,
+      "fontFamily": "Stash",
+      "identifier": "dataText"
+    },
+    "data-text-duotone": {
+      "codepoint": 57646,
+      "fontFamily": "Stash",
+      "identifier": "dataTextDuotone"
+    },
+    "data-text-light": {
+      "codepoint": 57647,
+      "fontFamily": "Stash",
+      "identifier": "dataTextLight"
+    },
+    "data-text-solid": {
+      "codepoint": 57648,
+      "fontFamily": "Stash",
+      "identifier": "dataTextSolid"
+    },
+    "desktop": {
+      "codepoint": 57649,
+      "fontFamily": "Stash",
+      "identifier": "desktop"
+    },
+    "desktop-check": {
+      "codepoint": 57650,
+      "fontFamily": "Stash",
+      "identifier": "desktopCheck"
+    },
+    "desktop-check-duotone": {
+      "codepoint": 57651,
+      "fontFamily": "Stash",
+      "identifier": "desktopCheckDuotone"
+    },
+    "desktop-check-light": {
+      "codepoint": 57652,
+      "fontFamily": "Stash",
+      "identifier": "desktopCheckLight"
+    },
+    "desktop-check-solid": {
+      "codepoint": 57653,
+      "fontFamily": "Stash",
+      "identifier": "desktopCheckSolid"
+    },
+    "desktop-duotone": {
+      "codepoint": 57654,
+      "fontFamily": "Stash",
+      "identifier": "desktopDuotone"
+    },
+    "desktop-light": {
+      "codepoint": 57655,
+      "fontFamily": "Stash",
+      "identifier": "desktopLight"
+    },
+    "desktop-solid": {
+      "codepoint": 57656,
+      "fontFamily": "Stash",
+      "identifier": "desktopSolid"
+    },
+    "divide": {
+      "codepoint": 57657,
+      "fontFamily": "Stash",
+      "identifier": "divide"
+    },
+    "divide-duotone": {
+      "codepoint": 57658,
+      "fontFamily": "Stash",
+      "identifier": "divideDuotone"
+    },
+    "divide-light": {
+      "codepoint": 57659,
+      "fontFamily": "Stash",
+      "identifier": "divideLight"
+    },
+    "divide-solid": {
+      "codepoint": 57660,
+      "fontFamily": "Stash",
+      "identifier": "divideSolid"
+    },
+    "dollar-sign": {
+      "codepoint": 57661,
+      "fontFamily": "Stash",
+      "identifier": "dollarSign"
+    },
+    "dollar-sign-duotone": {
+      "codepoint": 57662,
+      "fontFamily": "Stash",
+      "identifier": "dollarSignDuotone"
+    },
+    "dollar-sign-light": {
+      "codepoint": 57663,
+      "fontFamily": "Stash",
+      "identifier": "dollarSignLight"
+    },
+    "dollar-sign-solid": {
+      "codepoint": 57664,
+      "fontFamily": "Stash",
+      "identifier": "dollarSignSolid"
+    },
+    "domain": {
+      "codepoint": 57665,
+      "fontFamily": "Stash",
+      "identifier": "domain"
+    },
+    "domain-duotone": {
+      "codepoint": 57666,
+      "fontFamily": "Stash",
+      "identifier": "domainDuotone"
+    },
+    "domain-light": {
+      "codepoint": 57667,
+      "fontFamily": "Stash",
+      "identifier": "domainLight"
+    },
+    "drag-squares-horizontal": {
+      "codepoint": 57668,
+      "fontFamily": "Stash",
+      "identifier": "dragSquaresHorizontal"
+    },
+    "drag-squares-horizontal-duotone": {
+      "codepoint": 57669,
+      "fontFamily": "Stash",
+      "identifier": "dragSquaresHorizontalDuotone"
+    },
+    "drag-squares-horizontal-light": {
+      "codepoint": 57670,
+      "fontFamily": "Stash",
+      "identifier": "dragSquaresHorizontalLight"
+    },
+    "drag-squares-horizontal-solid": {
+      "codepoint": 57671,
+      "fontFamily": "Stash",
+      "identifier": "dragSquaresHorizontalSolid"
+    },
+    "drag-squares-vertical": {
+      "codepoint": 57672,
+      "fontFamily": "Stash",
+      "identifier": "dragSquaresVertical"
+    },
+    "drag-squares-vertical-duotone": {
+      "codepoint": 57673,
+      "fontFamily": "Stash",
+      "identifier": "dragSquaresVerticalDuotone"
+    },
+    "drag-squares-vertical-light": {
+      "codepoint": 57674,
+      "fontFamily": "Stash",
+      "identifier": "dragSquaresVerticalLight"
+    },
+    "drag-squares-vertical-solid": {
+      "codepoint": 57675,
+      "fontFamily": "Stash",
+      "identifier": "dragSquaresVerticalSolid"
+    },
+    "ellipsis-h": {
+      "codepoint": 57676,
+      "fontFamily": "Stash",
+      "identifier": "ellipsisH"
+    },
+    "ellipsis-h-duotone": {
+      "codepoint": 57677,
+      "fontFamily": "Stash",
+      "identifier": "ellipsisHDuotone"
+    },
+    "ellipsis-h-light": {
+      "codepoint": 57678,
+      "fontFamily": "Stash",
+      "identifier": "ellipsisHLight"
+    },
+    "ellipsis-h-solid": {
+      "codepoint": 57679,
+      "fontFamily": "Stash",
+      "identifier": "ellipsisHSolid"
+    },
+    "ellipsis-v": {
+      "codepoint": 57680,
+      "fontFamily": "Stash",
+      "identifier": "ellipsisV"
+    },
+    "ellipsis-v-duotone": {
+      "codepoint": 57681,
+      "fontFamily": "Stash",
+      "identifier": "ellipsisVDuotone"
+    },
+    "ellipsis-v-light": {
+      "codepoint": 57682,
+      "fontFamily": "Stash",
+      "identifier": "ellipsisVLight"
+    },
+    "ellipsis-v-solid": {
+      "codepoint": 57683,
+      "fontFamily": "Stash",
+      "identifier": "ellipsisVSolid"
+    },
+    "emoji-joy": {
+      "codepoint": 57684,
+      "fontFamily": "Stash",
+      "identifier": "emojiJoy"
+    },
+    "emoji-joy-duotone": {
+      "codepoint": 57685,
+      "fontFamily": "Stash",
+      "identifier": "emojiJoyDuotone"
+    },
+    "emoji-joy-light": {
+      "codepoint": 57686,
+      "fontFamily": "Stash",
+      "identifier": "emojiJoyLight"
+    },
+    "emoji-joy-solid": {
+      "codepoint": 57687,
+      "fontFamily": "Stash",
+      "identifier": "emojiJoySolid"
+    },
+    "emoji-laugh": {
+      "codepoint": 57688,
+      "fontFamily": "Stash",
+      "identifier": "emojiLaugh"
+    },
+    "emoji-laugh-duotone": {
+      "codepoint": 57689,
+      "fontFamily": "Stash",
+      "identifier": "emojiLaughDuotone"
+    },
+    "emoji-laugh-light": {
+      "codepoint": 57690,
+      "fontFamily": "Stash",
+      "identifier": "emojiLaughLight"
+    },
+    "emoji-laugh-solid": {
+      "codepoint": 57691,
+      "fontFamily": "Stash",
+      "identifier": "emojiLaughSolid"
+    },
+    "emoji-wink": {
+      "codepoint": 57692,
+      "fontFamily": "Stash",
+      "identifier": "emojiWink"
+    },
+    "emoji-wink-duotone": {
+      "codepoint": 57693,
+      "fontFamily": "Stash",
+      "identifier": "emojiWinkDuotone"
+    },
+    "emoji-wink-light": {
+      "codepoint": 57694,
+      "fontFamily": "Stash",
+      "identifier": "emojiWinkLight"
+    },
+    "emoji-wink-plus": {
+      "codepoint": 57695,
+      "fontFamily": "Stash",
+      "identifier": "emojiWinkPlus"
+    },
+    "emoji-wink-plus-duotone": {
+      "codepoint": 57696,
+      "fontFamily": "Stash",
+      "identifier": "emojiWinkPlusDuotone"
+    },
+    "emoji-wink-plus-light": {
+      "codepoint": 57697,
+      "fontFamily": "Stash",
+      "identifier": "emojiWinkPlusLight"
+    },
+    "emoji-wink-plus-solid": {
+      "codepoint": 57698,
+      "fontFamily": "Stash",
+      "identifier": "emojiWinkPlusSolid"
+    },
+    "emoji-wink-solid": {
+      "codepoint": 57699,
+      "fontFamily": "Stash",
+      "identifier": "emojiWinkSolid"
+    },
+    "engagement": {
+      "codepoint": 57700,
+      "fontFamily": "Stash",
+      "identifier": "engagement"
+    },
+    "engagement-duotone": {
+      "codepoint": 57701,
+      "fontFamily": "Stash",
+      "identifier": "engagementDuotone"
+    },
+    "engagement-light": {
+      "codepoint": 57702,
+      "fontFamily": "Stash",
+      "identifier": "engagementLight"
+    },
+    "envelope": {
+      "codepoint": 57703,
+      "fontFamily": "Stash",
+      "identifier": "envelope"
+    },
+    "envelope-at": {
+      "codepoint": 57704,
+      "fontFamily": "Stash",
+      "identifier": "envelopeAt"
+    },
+    "envelope-at-duotone": {
+      "codepoint": 57705,
+      "fontFamily": "Stash",
+      "identifier": "envelopeAtDuotone"
+    },
+    "envelope-at-light": {
+      "codepoint": 57706,
+      "fontFamily": "Stash",
+      "identifier": "envelopeAtLight"
+    },
+    "envelope-duotone": {
+      "codepoint": 57707,
+      "fontFamily": "Stash",
+      "identifier": "envelopeDuotone"
+    },
+    "envelope-flying": {
+      "codepoint": 57708,
+      "fontFamily": "Stash",
+      "identifier": "envelopeFlying"
+    },
+    "envelope-flying-duotone": {
+      "codepoint": 57709,
+      "fontFamily": "Stash",
+      "identifier": "envelopeFlyingDuotone"
+    },
+    "envelope-flying-light": {
+      "codepoint": 57710,
+      "fontFamily": "Stash",
+      "identifier": "envelopeFlyingLight"
+    },
+    "envelope-light": {
+      "codepoint": 57711,
+      "fontFamily": "Stash",
+      "identifier": "envelopeLight"
+    },
+    "equal": {
+      "codepoint": 57712,
+      "fontFamily": "Stash",
+      "identifier": "equal"
+    },
+    "equal-duotone": {
+      "codepoint": 57713,
+      "fontFamily": "Stash",
+      "identifier": "equalDuotone"
+    },
+    "equal-light": {
+      "codepoint": 57714,
+      "fontFamily": "Stash",
+      "identifier": "equalLight"
+    },
+    "equal-solid": {
+      "codepoint": 57715,
+      "fontFamily": "Stash",
+      "identifier": "equalSolid"
+    },
+    "espiral-book": {
+      "codepoint": 57716,
+      "fontFamily": "Stash",
+      "identifier": "espiralBook"
+    },
+    "espiral-book-duotone": {
+      "codepoint": 57717,
+      "fontFamily": "Stash",
+      "identifier": "espiralBookDuotone"
+    },
+    "espiral-book-light": {
+      "codepoint": 57718,
+      "fontFamily": "Stash",
+      "identifier": "espiralBookLight"
+    },
+    "espiral-book-solid": {
+      "codepoint": 57719,
+      "fontFamily": "Stash",
+      "identifier": "espiralBookSolid"
+    },
+    "exclamation-alert": {
+      "codepoint": 57720,
+      "fontFamily": "Stash",
+      "identifier": "exclamationAlert"
+    },
+    "exclamation-alert-duotone": {
+      "codepoint": 57721,
+      "fontFamily": "Stash",
+      "identifier": "exclamationAlertDuotone"
+    },
+    "exclamation-alert-light": {
+      "codepoint": 57722,
+      "fontFamily": "Stash",
+      "identifier": "exclamationAlertLight"
+    },
+    "exclamation-alert-solid": {
+      "codepoint": 57723,
+      "fontFamily": "Stash",
+      "identifier": "exclamationAlertSolid"
+    },
+    "exclamation-circle": {
+      "codepoint": 57724,
+      "fontFamily": "Stash",
+      "identifier": "exclamationCircle"
+    },
+    "exclamation-circle-duotone": {
+      "codepoint": 57725,
+      "fontFamily": "Stash",
+      "identifier": "exclamationCircleDuotone"
+    },
+    "exclamation-circle-light": {
+      "codepoint": 57726,
+      "fontFamily": "Stash",
+      "identifier": "exclamationCircleLight"
+    },
+    "exclamation-circle-solid": {
+      "codepoint": 57727,
+      "fontFamily": "Stash",
+      "identifier": "exclamationCircleSolid"
+    },
+    "exclamation-triangle": {
+      "codepoint": 57728,
+      "fontFamily": "Stash",
+      "identifier": "exclamationTriangle"
+    },
+    "exclamation-triangle-duotone": {
+      "codepoint": 57729,
+      "fontFamily": "Stash",
+      "identifier": "exclamationTriangleDuotone"
+    },
+    "exclamation-triangle-light": {
+      "codepoint": 57730,
+      "fontFamily": "Stash",
+      "identifier": "exclamationTriangleLight"
+    },
+    "exclamation-triangle-solid": {
+      "codepoint": 57731,
+      "fontFamily": "Stash",
+      "identifier": "exclamationTriangleSolid"
+    },
+    "expand-diagonal": {
+      "codepoint": 57732,
+      "fontFamily": "Stash",
+      "identifier": "expandDiagonal"
+    },
+    "expand-diagonal-duotone": {
+      "codepoint": 57733,
+      "fontFamily": "Stash",
+      "identifier": "expandDiagonalDuotone"
+    },
+    "expand-diagonal-light": {
+      "codepoint": 57734,
+      "fontFamily": "Stash",
+      "identifier": "expandDiagonalLight"
+    },
+    "expand-diagonal-solid": {
+      "codepoint": 57735,
+      "fontFamily": "Stash",
+      "identifier": "expandDiagonalSolid"
+    },
+    "expand-vertical": {
+      "codepoint": 57736,
+      "fontFamily": "Stash",
+      "identifier": "expandVertical"
+    },
+    "expand-vertical-duotone": {
+      "codepoint": 57737,
+      "fontFamily": "Stash",
+      "identifier": "expandVerticalDuotone"
+    },
+    "expand-vertical-light": {
+      "codepoint": 57738,
+      "fontFamily": "Stash",
+      "identifier": "expandVerticalLight"
+    },
+    "expand-vertical-solid": {
+      "codepoint": 57739,
+      "fontFamily": "Stash",
+      "identifier": "expandVerticalSolid"
+    },
+    "explicit-content": {
+      "codepoint": 57740,
+      "fontFamily": "Stash",
+      "identifier": "explicitContent"
+    },
+    "explicit-content-duotone": {
+      "codepoint": 57741,
+      "fontFamily": "Stash",
+      "identifier": "explicitContentDuotone"
+    },
+    "explicit-content-light": {
+      "codepoint": 57742,
+      "fontFamily": "Stash",
+      "identifier": "explicitContentLight"
+    },
+    "explicit-content-solid": {
+      "codepoint": 57743,
+      "fontFamily": "Stash",
+      "identifier": "explicitContentSolid"
+    },
+    "eye-closed": {
+      "codepoint": 57744,
+      "fontFamily": "Stash",
+      "identifier": "eyeClosed"
+    },
+    "eye-closed-duotone": {
+      "codepoint": 57745,
+      "fontFamily": "Stash",
+      "identifier": "eyeClosedDuotone"
+    },
+    "eye-closed-light": {
+      "codepoint": 57746,
+      "fontFamily": "Stash",
+      "identifier": "eyeClosedLight"
+    },
+    "eye-closed-solid": {
+      "codepoint": 57747,
+      "fontFamily": "Stash",
+      "identifier": "eyeClosedSolid"
+    },
+    "eye-opened": {
+      "codepoint": 57748,
+      "fontFamily": "Stash",
+      "identifier": "eyeOpened"
+    },
+    "eye-opened-duotone": {
+      "codepoint": 57749,
+      "fontFamily": "Stash",
+      "identifier": "eyeOpenedDuotone"
+    },
+    "eye-opened-light": {
+      "codepoint": 57750,
+      "fontFamily": "Stash",
+      "identifier": "eyeOpenedLight"
+    },
+    "eye-opened-solid": {
+      "codepoint": 57751,
+      "fontFamily": "Stash",
+      "identifier": "eyeOpenedSolid"
+    },
+    "feed": {
+      "codepoint": 57752,
+      "fontFamily": "Stash",
+      "identifier": "feed"
+    },
+    "feed-duotone": {
+      "codepoint": 57753,
+      "fontFamily": "Stash",
+      "identifier": "feedDuotone"
+    },
+    "feed-light": {
+      "codepoint": 57754,
+      "fontFamily": "Stash",
+      "identifier": "feedLight"
+    },
+    "file-export": {
+      "codepoint": 57755,
+      "fontFamily": "Stash",
+      "identifier": "fileExport"
+    },
+    "file-export-duotone": {
+      "codepoint": 57756,
+      "fontFamily": "Stash",
+      "identifier": "fileExportDuotone"
+    },
+    "file-export-light": {
+      "codepoint": 57757,
+      "fontFamily": "Stash",
+      "identifier": "fileExportLight"
+    },
+    "file-export-solid": {
+      "codepoint": 57758,
+      "fontFamily": "Stash",
+      "identifier": "fileExportSolid"
+    },
+    "file-import": {
+      "codepoint": 57759,
+      "fontFamily": "Stash",
+      "identifier": "fileImport"
+    },
+    "file-import-duotone": {
+      "codepoint": 57760,
+      "fontFamily": "Stash",
+      "identifier": "fileImportDuotone"
+    },
+    "file-import-light": {
+      "codepoint": 57761,
+      "fontFamily": "Stash",
+      "identifier": "fileImportLight"
+    },
+    "file-import-solid": {
+      "codepoint": 57762,
+      "fontFamily": "Stash",
+      "identifier": "fileImportSolid"
+    },
+    "filter": {
+      "codepoint": 57763,
+      "fontFamily": "Stash",
+      "identifier": "filter"
+    },
+    "filter-duotone": {
+      "codepoint": 57764,
+      "fontFamily": "Stash",
+      "identifier": "filterDuotone"
+    },
+    "filter-light": {
+      "codepoint": 57765,
+      "fontFamily": "Stash",
+      "identifier": "filterLight"
+    },
+    "filter-solid": {
+      "codepoint": 57766,
+      "fontFamily": "Stash",
+      "identifier": "filterSolid"
+    },
+    "flag": {
+      "codepoint": 57767,
+      "fontFamily": "Stash",
+      "identifier": "flag"
+    },
+    "flag-duotone": {
+      "codepoint": 57768,
+      "fontFamily": "Stash",
+      "identifier": "flagDuotone"
+    },
+    "flag-light": {
+      "codepoint": 57769,
+      "fontFamily": "Stash",
+      "identifier": "flagLight"
+    },
+    "flag-solid": {
+      "codepoint": 57770,
+      "fontFamily": "Stash",
+      "identifier": "flagSolid"
+    },
+    "folder": {
+      "codepoint": 57771,
+      "fontFamily": "Stash",
+      "identifier": "folder"
+    },
+    "folder-alt": {
+      "codepoint": 57772,
+      "fontFamily": "Stash",
+      "identifier": "folderAlt"
+    },
+    "folder-alt-duotone": {
+      "codepoint": 57773,
+      "fontFamily": "Stash",
+      "identifier": "folderAltDuotone"
+    },
+    "folder-alt-light": {
+      "codepoint": 57774,
+      "fontFamily": "Stash",
+      "identifier": "folderAltLight"
+    },
+    "folder-alt-solid": {
+      "codepoint": 57775,
+      "fontFamily": "Stash",
+      "identifier": "folderAltSolid"
+    },
+    "folder-arrow-down": {
+      "codepoint": 57776,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowDown"
+    },
+    "folder-arrow-down-duotone": {
+      "codepoint": 57777,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowDownDuotone"
+    },
+    "folder-arrow-down-light": {
+      "codepoint": 57778,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowDownLight"
+    },
+    "folder-arrow-down-solid": {
+      "codepoint": 57779,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowDownSolid"
+    },
+    "folder-arrow-left": {
+      "codepoint": 57780,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowLeft"
+    },
+    "folder-arrow-left-duotone": {
+      "codepoint": 57781,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowLeftDuotone"
+    },
+    "folder-arrow-left-light": {
+      "codepoint": 57782,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowLeftLight"
+    },
+    "folder-arrow-left-solid": {
+      "codepoint": 57783,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowLeftSolid"
+    },
+    "folder-arrow-right": {
+      "codepoint": 57784,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowRight"
+    },
+    "folder-arrow-right-duotone": {
+      "codepoint": 57785,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowRightDuotone"
+    },
+    "folder-arrow-right-light": {
+      "codepoint": 57786,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowRightLight"
+    },
+    "folder-arrow-right-solid": {
+      "codepoint": 57787,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowRightSolid"
+    },
+    "folder-arrow-up": {
+      "codepoint": 57788,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowUp"
+    },
+    "folder-arrow-up-duotone": {
+      "codepoint": 57789,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowUpDuotone"
+    },
+    "folder-arrow-up-light": {
+      "codepoint": 57790,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowUpLight"
+    },
+    "folder-arrow-up-solid": {
+      "codepoint": 57791,
+      "fontFamily": "Stash",
+      "identifier": "folderArrowUpSolid"
+    },
+    "folder-duotone": {
+      "codepoint": 57792,
+      "fontFamily": "Stash",
+      "identifier": "folderDuotone"
+    },
+    "folder-light": {
+      "codepoint": 57793,
+      "fontFamily": "Stash",
+      "identifier": "folderLight"
+    },
+    "folder-lock": {
+      "codepoint": 57794,
+      "fontFamily": "Stash",
+      "identifier": "folderLock"
+    },
+    "folder-lock-duotone": {
+      "codepoint": 57795,
+      "fontFamily": "Stash",
+      "identifier": "folderLockDuotone"
+    },
+    "folder-lock-light": {
+      "codepoint": 57796,
+      "fontFamily": "Stash",
+      "identifier": "folderLockLight"
+    },
+    "folder-lock-solid": {
+      "codepoint": 57797,
+      "fontFamily": "Stash",
+      "identifier": "folderLockSolid"
+    },
+    "folder-multiple": {
+      "codepoint": 57798,
+      "fontFamily": "Stash",
+      "identifier": "folderMultiple"
+    },
+    "folder-multiple-duotone": {
+      "codepoint": 57799,
+      "fontFamily": "Stash",
+      "identifier": "folderMultipleDuotone"
+    },
+    "folder-multiple-light": {
+      "codepoint": 57800,
+      "fontFamily": "Stash",
+      "identifier": "folderMultipleLight"
+    },
+    "folder-multiple-solid": {
+      "codepoint": 57801,
+      "fontFamily": "Stash",
+      "identifier": "folderMultipleSolid"
+    },
+    "folder-plus": {
+      "codepoint": 57802,
+      "fontFamily": "Stash",
+      "identifier": "folderPlus"
+    },
+    "folder-plus-duotone": {
+      "codepoint": 57803,
+      "fontFamily": "Stash",
+      "identifier": "folderPlusDuotone"
+    },
+    "folder-plus-light": {
+      "codepoint": 57804,
+      "fontFamily": "Stash",
+      "identifier": "folderPlusLight"
+    },
+    "folder-plus-solid": {
+      "codepoint": 57805,
+      "fontFamily": "Stash",
+      "identifier": "folderPlusSolid"
+    },
+    "folder-refresh": {
+      "codepoint": 57806,
+      "fontFamily": "Stash",
+      "identifier": "folderRefresh"
+    },
+    "folder-refresh-duotone": {
+      "codepoint": 57807,
+      "fontFamily": "Stash",
+      "identifier": "folderRefreshDuotone"
+    },
+    "folder-refresh-light": {
+      "codepoint": 57808,
+      "fontFamily": "Stash",
+      "identifier": "folderRefreshLight"
+    },
+    "folder-refresh-solid": {
+      "codepoint": 57809,
+      "fontFamily": "Stash",
+      "identifier": "folderRefreshSolid"
+    },
+    "folder-search": {
+      "codepoint": 57810,
+      "fontFamily": "Stash",
+      "identifier": "folderSearch"
+    },
+    "folder-search-duotone": {
+      "codepoint": 57811,
+      "fontFamily": "Stash",
+      "identifier": "folderSearchDuotone"
+    },
+    "folder-search-light": {
+      "codepoint": 57812,
+      "fontFamily": "Stash",
+      "identifier": "folderSearchLight"
+    },
+    "folder-search-solid": {
+      "codepoint": 57813,
+      "fontFamily": "Stash",
+      "identifier": "folderSearchSolid"
+    },
+    "folder-solid": {
+      "codepoint": 57814,
+      "fontFamily": "Stash",
+      "identifier": "folderSolid"
+    },
+    "football": {
+      "codepoint": 57815,
+      "fontFamily": "Stash",
+      "identifier": "football"
+    },
+    "football-duotone": {
+      "codepoint": 57816,
+      "fontFamily": "Stash",
+      "identifier": "footballDuotone"
+    },
+    "football-light": {
+      "codepoint": 57817,
+      "fontFamily": "Stash",
+      "identifier": "footballLight"
+    },
+    "football-solid": {
+      "codepoint": 57818,
+      "fontFamily": "Stash",
+      "identifier": "footballSolid"
+    },
+    "gif": {
+      "codepoint": 57819,
+      "fontFamily": "Stash",
+      "identifier": "gif"
+    },
+    "gif-duotone": {
+      "codepoint": 57820,
+      "fontFamily": "Stash",
+      "identifier": "gifDuotone"
+    },
+    "gif-light": {
+      "codepoint": 57821,
+      "fontFamily": "Stash",
+      "identifier": "gifLight"
+    },
+    "gif-solid": {
+      "codepoint": 57822,
+      "fontFamily": "Stash",
+      "identifier": "gifSolid"
+    },
+    "globe": {
+      "codepoint": 57823,
+      "fontFamily": "Stash",
+      "identifier": "globe"
+    },
+    "globe-duotone": {
+      "codepoint": 57824,
+      "fontFamily": "Stash",
+      "identifier": "globeDuotone"
+    },
+    "globe-light": {
+      "codepoint": 57825,
+      "fontFamily": "Stash",
+      "identifier": "globeLight"
+    },
+    "globe-solid": {
+      "codepoint": 57826,
+      "fontFamily": "Stash",
+      "identifier": "globeSolid"
+    },
+    "globe-timezone": {
+      "codepoint": 57827,
+      "fontFamily": "Stash",
+      "identifier": "globeTimezone"
+    },
+    "globe-timezone-duotone": {
+      "codepoint": 57828,
+      "fontFamily": "Stash",
+      "identifier": "globeTimezoneDuotone"
+    },
+    "globe-timezone-light": {
+      "codepoint": 57829,
+      "fontFamily": "Stash",
+      "identifier": "globeTimezoneLight"
+    },
+    "globe-timezone-solid": {
+      "codepoint": 57830,
+      "fontFamily": "Stash",
+      "identifier": "globeTimezoneSolid"
+    },
+    "google-drive": {
+      "codepoint": 57831,
+      "fontFamily": "Stash",
+      "identifier": "googleDrive"
+    },
+    "google-drive-duotone": {
+      "codepoint": 57832,
+      "fontFamily": "Stash",
+      "identifier": "googleDriveDuotone"
+    },
+    "google-drive-light": {
+      "codepoint": 57833,
+      "fontFamily": "Stash",
+      "identifier": "googleDriveLight"
+    },
+    "google-drive-solid": {
+      "codepoint": 57834,
+      "fontFamily": "Stash",
+      "identifier": "googleDriveSolid"
+    },
+    "graduation-cap": {
+      "codepoint": 57835,
+      "fontFamily": "Stash",
+      "identifier": "graduationCap"
+    },
+    "graduation-cap-duotone": {
+      "codepoint": 57836,
+      "fontFamily": "Stash",
+      "identifier": "graduationCapDuotone"
+    },
+    "graduation-cap-light": {
+      "codepoint": 57837,
+      "fontFamily": "Stash",
+      "identifier": "graduationCapLight"
+    },
+    "graduation-cap-solid": {
+      "codepoint": 57838,
+      "fontFamily": "Stash",
+      "identifier": "graduationCapSolid"
+    },
+    "hand-holding-dollar": {
+      "codepoint": 57839,
+      "fontFamily": "Stash",
+      "identifier": "handHoldingDollar"
+    },
+    "hand-holding-dollar-duotone": {
+      "codepoint": 57840,
+      "fontFamily": "Stash",
+      "identifier": "handHoldingDollarDuotone"
+    },
+    "hand-holding-dollar-light": {
+      "codepoint": 57841,
+      "fontFamily": "Stash",
+      "identifier": "handHoldingDollarLight"
+    },
+    "hand-holding-dollar-solid": {
+      "codepoint": 57842,
+      "fontFamily": "Stash",
+      "identifier": "handHoldingDollarSolid"
+    },
+    "hash": {
+      "codepoint": 57843,
+      "fontFamily": "Stash",
+      "identifier": "hash"
+    },
+    "hash-duotone": {
+      "codepoint": 57844,
+      "fontFamily": "Stash",
+      "identifier": "hashDuotone"
+    },
+    "hash-light": {
+      "codepoint": 57845,
+      "fontFamily": "Stash",
+      "identifier": "hashLight"
+    },
+    "hash-solid": {
+      "codepoint": 57846,
+      "fontFamily": "Stash",
+      "identifier": "hashSolid"
+    },
+    "headphones": {
+      "codepoint": 57847,
+      "fontFamily": "Stash",
+      "identifier": "headphones"
+    },
+    "headphones-duotone": {
+      "codepoint": 57848,
+      "fontFamily": "Stash",
+      "identifier": "headphonesDuotone"
+    },
+    "headphones-light": {
+      "codepoint": 57849,
+      "fontFamily": "Stash",
+      "identifier": "headphonesLight"
+    },
+    "headphones-solid": {
+      "codepoint": 57850,
+      "fontFamily": "Stash",
+      "identifier": "headphonesSolid"
+    },
+    "headset": {
+      "codepoint": 57851,
+      "fontFamily": "Stash",
+      "identifier": "headset"
+    },
+    "headset-duotone": {
+      "codepoint": 57852,
+      "fontFamily": "Stash",
+      "identifier": "headsetDuotone"
+    },
+    "headset-light": {
+      "codepoint": 57853,
+      "fontFamily": "Stash",
+      "identifier": "headsetLight"
+    },
+    "headset-solid": {
+      "codepoint": 57854,
+      "fontFamily": "Stash",
+      "identifier": "headsetSolid"
+    },
+    "heart": {
+      "codepoint": 57855,
+      "fontFamily": "Stash",
+      "identifier": "heart"
+    },
+    "heart-duotone": {
+      "codepoint": 57856,
+      "fontFamily": "Stash",
+      "identifier": "heartDuotone"
+    },
+    "heart-light": {
+      "codepoint": 57857,
+      "fontFamily": "Stash",
+      "identifier": "heartLight"
+    },
+    "heart-solid": {
+      "codepoint": 57858,
+      "fontFamily": "Stash",
+      "identifier": "heartSolid"
+    },
+    "home": {
+      "codepoint": 57859,
+      "fontFamily": "Stash",
+      "identifier": "home"
+    },
+    "home-duotone": {
+      "codepoint": 57860,
+      "fontFamily": "Stash",
+      "identifier": "homeDuotone"
+    },
+    "home-light": {
+      "codepoint": 57861,
+      "fontFamily": "Stash",
+      "identifier": "homeLight"
+    },
+    "image": {
+      "codepoint": 57862,
+      "fontFamily": "Stash",
+      "identifier": "image"
+    },
+    "image-arrow-down": {
+      "codepoint": 57863,
+      "fontFamily": "Stash",
+      "identifier": "imageArrowDown"
+    },
+    "image-arrow-down-duotone": {
+      "codepoint": 57864,
+      "fontFamily": "Stash",
+      "identifier": "imageArrowDownDuotone"
+    },
+    "image-arrow-down-light": {
+      "codepoint": 57865,
+      "fontFamily": "Stash",
+      "identifier": "imageArrowDownLight"
+    },
+    "image-arrow-up": {
+      "codepoint": 57866,
+      "fontFamily": "Stash",
+      "identifier": "imageArrowUp"
+    },
+    "image-arrow-up-duotone": {
+      "codepoint": 57867,
+      "fontFamily": "Stash",
+      "identifier": "imageArrowUpDuotone"
+    },
+    "image-arrow-up-light": {
+      "codepoint": 57868,
+      "fontFamily": "Stash",
+      "identifier": "imageArrowUpLight"
+    },
+    "image-ban": {
+      "codepoint": 57869,
+      "fontFamily": "Stash",
+      "identifier": "imageBan"
+    },
+    "image-ban-duotone": {
+      "codepoint": 57870,
+      "fontFamily": "Stash",
+      "identifier": "imageBanDuotone"
+    },
+    "image-ban-light": {
+      "codepoint": 57871,
+      "fontFamily": "Stash",
+      "identifier": "imageBanLight"
+    },
+    "image-duotone": {
+      "codepoint": 57872,
+      "fontFamily": "Stash",
+      "identifier": "imageDuotone"
+    },
+    "image-exclamation": {
+      "codepoint": 57873,
+      "fontFamily": "Stash",
+      "identifier": "imageExclamation"
+    },
+    "image-exclamation-duotone": {
+      "codepoint": 57874,
+      "fontFamily": "Stash",
+      "identifier": "imageExclamationDuotone"
+    },
+    "image-exclamation-light": {
+      "codepoint": 57875,
+      "fontFamily": "Stash",
+      "identifier": "imageExclamationLight"
+    },
+    "image-light": {
+      "codepoint": 57876,
+      "fontFamily": "Stash",
+      "identifier": "imageLight"
+    },
+    "image-minus": {
+      "codepoint": 57877,
+      "fontFamily": "Stash",
+      "identifier": "imageMinus"
+    },
+    "image-minus-duotone": {
+      "codepoint": 57878,
+      "fontFamily": "Stash",
+      "identifier": "imageMinusDuotone"
+    },
+    "image-minus-light": {
+      "codepoint": 57879,
+      "fontFamily": "Stash",
+      "identifier": "imageMinusLight"
+    },
+    "image-move-duotone": {
+      "codepoint": 57880,
+      "fontFamily": "Stash",
+      "identifier": "imageMoveDuotone"
+    },
+    "image-move-light": {
+      "codepoint": 57881,
+      "fontFamily": "Stash",
+      "identifier": "imageMoveLight"
+    },
+    "image-move-solid": {
+      "codepoint": 57882,
+      "fontFamily": "Stash",
+      "identifier": "imageMoveSolid"
+    },
+    "image-open": {
+      "codepoint": 57883,
+      "fontFamily": "Stash",
+      "identifier": "imageOpen"
+    },
+    "image-open-duotone": {
+      "codepoint": 57884,
+      "fontFamily": "Stash",
+      "identifier": "imageOpenDuotone"
+    },
+    "image-open-light": {
+      "codepoint": 57885,
+      "fontFamily": "Stash",
+      "identifier": "imageOpenLight"
+    },
+    "image-plus": {
+      "codepoint": 57886,
+      "fontFamily": "Stash",
+      "identifier": "imagePlus"
+    },
+    "image-plus-duotone": {
+      "codepoint": 57887,
+      "fontFamily": "Stash",
+      "identifier": "imagePlusDuotone"
+    },
+    "image-plus-light": {
+      "codepoint": 57888,
+      "fontFamily": "Stash",
+      "identifier": "imagePlusLight"
+    },
+    "image-search": {
+      "codepoint": 57889,
+      "fontFamily": "Stash",
+      "identifier": "imageSearch"
+    },
+    "image-search-duotone": {
+      "codepoint": 57890,
+      "fontFamily": "Stash",
+      "identifier": "imageSearchDuotone"
+    },
+    "image-search-light": {
+      "codepoint": 57891,
+      "fontFamily": "Stash",
+      "identifier": "imageSearchLight"
+    },
+    "image-switch": {
+      "codepoint": 57892,
+      "fontFamily": "Stash",
+      "identifier": "imageSwitch"
+    },
+    "image-switch-duotone": {
+      "codepoint": 57893,
+      "fontFamily": "Stash",
+      "identifier": "imageSwitchDuotone"
+    },
+    "image-switch-light": {
+      "codepoint": 57894,
+      "fontFamily": "Stash",
+      "identifier": "imageSwitchLight"
+    },
+    "image-times": {
+      "codepoint": 57895,
+      "fontFamily": "Stash",
+      "identifier": "imageTimes"
+    },
+    "image-times-duotone": {
+      "codepoint": 57896,
+      "fontFamily": "Stash",
+      "identifier": "imageTimesDuotone"
+    },
+    "image-times-light": {
+      "codepoint": 57897,
+      "fontFamily": "Stash",
+      "identifier": "imageTimesLight"
+    },
+    "image-trash": {
+      "codepoint": 57898,
+      "fontFamily": "Stash",
+      "identifier": "imageTrash"
+    },
+    "image-trash-duotone": {
+      "codepoint": 57899,
+      "fontFamily": "Stash",
+      "identifier": "imageTrashDuotone"
+    },
+    "image-trash-light": {
+      "codepoint": 57900,
+      "fontFamily": "Stash",
+      "identifier": "imageTrashLight"
+    },
+    "inbox": {
+      "codepoint": 57901,
+      "fontFamily": "Stash",
+      "identifier": "inbox"
+    },
+    "inbox-duotone": {
+      "codepoint": 57902,
+      "fontFamily": "Stash",
+      "identifier": "inboxDuotone"
+    },
+    "inbox-light": {
+      "codepoint": 57903,
+      "fontFamily": "Stash",
+      "identifier": "inboxLight"
+    },
+    "infinity": {
+      "codepoint": 57904,
+      "fontFamily": "Stash",
+      "identifier": "infinity"
+    },
+    "infinity-duotone": {
+      "codepoint": 57905,
+      "fontFamily": "Stash",
+      "identifier": "infinityDuotone"
+    },
+    "infinity-light": {
+      "codepoint": 57906,
+      "fontFamily": "Stash",
+      "identifier": "infinityLight"
+    },
+    "infinity-solid": {
+      "codepoint": 57907,
+      "fontFamily": "Stash",
+      "identifier": "infinitySolid"
+    },
+    "info-circle": {
+      "codepoint": 57908,
+      "fontFamily": "Stash",
+      "identifier": "infoCircle"
+    },
+    "info-circle-duotone": {
+      "codepoint": 57909,
+      "fontFamily": "Stash",
+      "identifier": "infoCircleDuotone"
+    },
+    "info-circle-light": {
+      "codepoint": 57910,
+      "fontFamily": "Stash",
+      "identifier": "infoCircleLight"
+    },
+    "info-circle-solid": {
+      "codepoint": 57911,
+      "fontFamily": "Stash",
+      "identifier": "infoCircleSolid"
+    },
+    "integrations": {
+      "codepoint": 57912,
+      "fontFamily": "Stash",
+      "identifier": "integrations"
+    },
+    "integrations-duotone": {
+      "codepoint": 57913,
+      "fontFamily": "Stash",
+      "identifier": "integrationsDuotone"
+    },
+    "integrations-light": {
+      "codepoint": 57914,
+      "fontFamily": "Stash",
+      "identifier": "integrationsLight"
+    },
+    "invoice": {
+      "codepoint": 57915,
+      "fontFamily": "Stash",
+      "identifier": "invoice"
+    },
+    "invoice-duotone": {
+      "codepoint": 57916,
+      "fontFamily": "Stash",
+      "identifier": "invoiceDuotone"
+    },
+    "invoice-light": {
+      "codepoint": 57917,
+      "fontFamily": "Stash",
+      "identifier": "invoiceLight"
+    },
+    "last-updates": {
+      "codepoint": 57918,
+      "fontFamily": "Stash",
+      "identifier": "lastUpdates"
+    },
+    "last-updates-duotone": {
+      "codepoint": 57919,
+      "fontFamily": "Stash",
+      "identifier": "lastUpdatesDuotone"
+    },
+    "last-updates-light": {
+      "codepoint": 57920,
+      "fontFamily": "Stash",
+      "identifier": "lastUpdatesLight"
+    },
+    "last-updates-solid": {
+      "codepoint": 57921,
+      "fontFamily": "Stash",
+      "identifier": "lastUpdatesSolid"
+    },
+    "leaf": {
+      "codepoint": 57922,
+      "fontFamily": "Stash",
+      "identifier": "leaf"
+    },
+    "leaf-duotone": {
+      "codepoint": 57923,
+      "fontFamily": "Stash",
+      "identifier": "leafDuotone"
+    },
+    "leaf-light": {
+      "codepoint": 57924,
+      "fontFamily": "Stash",
+      "identifier": "leafLight"
+    },
+    "leaf-solid": {
+      "codepoint": 57925,
+      "fontFamily": "Stash",
+      "identifier": "leafSolid"
+    },
+    "life-ring": {
+      "codepoint": 57926,
+      "fontFamily": "Stash",
+      "identifier": "lifeRing"
+    },
+    "life-ring-duotone": {
+      "codepoint": 57927,
+      "fontFamily": "Stash",
+      "identifier": "lifeRingDuotone"
+    },
+    "life-ring-light": {
+      "codepoint": 57928,
+      "fontFamily": "Stash",
+      "identifier": "lifeRingLight"
+    },
+    "light-bulb": {
+      "codepoint": 57929,
+      "fontFamily": "Stash",
+      "identifier": "lightBulb"
+    },
+    "light-bulb-duotone": {
+      "codepoint": 57930,
+      "fontFamily": "Stash",
+      "identifier": "lightBulbDuotone"
+    },
+    "light-bulb-exclamation": {
+      "codepoint": 57931,
+      "fontFamily": "Stash",
+      "identifier": "lightBulbExclamation"
+    },
+    "light-bulb-exclamation-duotone": {
+      "codepoint": 57932,
+      "fontFamily": "Stash",
+      "identifier": "lightBulbExclamationDuotone"
+    },
+    "light-bulb-exclamation-light": {
+      "codepoint": 57933,
+      "fontFamily": "Stash",
+      "identifier": "lightBulbExclamationLight"
+    },
+    "light-bulb-light": {
+      "codepoint": 57934,
+      "fontFamily": "Stash",
+      "identifier": "lightBulbLight"
+    },
+    "link": {
+      "codepoint": 57935,
+      "fontFamily": "Stash",
+      "identifier": "link"
+    },
+    "link-duotone": {
+      "codepoint": 57936,
+      "fontFamily": "Stash",
+      "identifier": "linkDuotone"
+    },
+    "link-light": {
+      "codepoint": 57937,
+      "fontFamily": "Stash",
+      "identifier": "linkLight"
+    },
+    "link-solid": {
+      "codepoint": 57938,
+      "fontFamily": "Stash",
+      "identifier": "linkSolid"
+    },
+    "list-add": {
+      "codepoint": 57939,
+      "fontFamily": "Stash",
+      "identifier": "listAdd"
+    },
+    "list-add-duotone": {
+      "codepoint": 57940,
+      "fontFamily": "Stash",
+      "identifier": "listAddDuotone"
+    },
+    "list-add-light": {
+      "codepoint": 57941,
+      "fontFamily": "Stash",
+      "identifier": "listAddLight"
+    },
+    "list-ul": {
+      "codepoint": 57942,
+      "fontFamily": "Stash",
+      "identifier": "listUl"
+    },
+    "list-ul-duotone": {
+      "codepoint": 57943,
+      "fontFamily": "Stash",
+      "identifier": "listUlDuotone"
+    },
+    "list-ul-light": {
+      "codepoint": 57944,
+      "fontFamily": "Stash",
+      "identifier": "listUlLight"
+    },
+    "location": {
+      "codepoint": 57945,
+      "fontFamily": "Stash",
+      "identifier": "location"
+    },
+    "location-duotone": {
+      "codepoint": 57946,
+      "fontFamily": "Stash",
+      "identifier": "locationDuotone"
+    },
+    "location-light": {
+      "codepoint": 57947,
+      "fontFamily": "Stash",
+      "identifier": "locationLight"
+    },
+    "lock-closed": {
+      "codepoint": 57948,
+      "fontFamily": "Stash",
+      "identifier": "lockClosed"
+    },
+    "lock-closed-duotone": {
+      "codepoint": 57949,
+      "fontFamily": "Stash",
+      "identifier": "lockClosedDuotone"
+    },
+    "lock-closed-light": {
+      "codepoint": 57950,
+      "fontFamily": "Stash",
+      "identifier": "lockClosedLight"
+    },
+    "lock-opened": {
+      "codepoint": 57951,
+      "fontFamily": "Stash",
+      "identifier": "lockOpened"
+    },
+    "lock-opened-duotone": {
+      "codepoint": 57952,
+      "fontFamily": "Stash",
+      "identifier": "lockOpenedDuotone"
+    },
+    "lock-opened-light": {
+      "codepoint": 57953,
+      "fontFamily": "Stash",
+      "identifier": "lockOpenedLight"
+    },
+    "mailbox-empty": {
+      "codepoint": 57954,
+      "fontFamily": "Stash",
+      "identifier": "mailboxEmpty"
+    },
+    "mailbox-empty-duotone": {
+      "codepoint": 57955,
+      "fontFamily": "Stash",
+      "identifier": "mailboxEmptyDuotone"
+    },
+    "mailbox-empty-light": {
+      "codepoint": 57956,
+      "fontFamily": "Stash",
+      "identifier": "mailboxEmptyLight"
+    },
+    "mailbox-full": {
+      "codepoint": 57957,
+      "fontFamily": "Stash",
+      "identifier": "mailboxFull"
+    },
+    "mailbox-full-duotone": {
+      "codepoint": 57958,
+      "fontFamily": "Stash",
+      "identifier": "mailboxFullDuotone"
+    },
+    "mailbox-full-light": {
+      "codepoint": 57959,
+      "fontFamily": "Stash",
+      "identifier": "mailboxFullLight"
+    },
+    "marker": {
+      "codepoint": 57960,
+      "fontFamily": "Stash",
+      "identifier": "marker"
+    },
+    "marker-duotone": {
+      "codepoint": 57961,
+      "fontFamily": "Stash",
+      "identifier": "markerDuotone"
+    },
+    "marker-light": {
+      "codepoint": 57962,
+      "fontFamily": "Stash",
+      "identifier": "markerLight"
+    },
+    "marker-solid": {
+      "codepoint": 57963,
+      "fontFamily": "Stash",
+      "identifier": "markerSolid"
+    },
+    "megaphone": {
+      "codepoint": 57964,
+      "fontFamily": "Stash",
+      "identifier": "megaphone"
+    },
+    "megaphone-duotone": {
+      "codepoint": 57965,
+      "fontFamily": "Stash",
+      "identifier": "megaphoneDuotone"
+    },
+    "megaphone-light": {
+      "codepoint": 57966,
+      "fontFamily": "Stash",
+      "identifier": "megaphoneLight"
+    },
+    "megaphone-solid": {
+      "codepoint": 57967,
+      "fontFamily": "Stash",
+      "identifier": "megaphoneSolid"
+    },
+    "mic": {
+      "codepoint": 57968,
+      "fontFamily": "Stash",
+      "identifier": "mic"
+    },
+    "mic-duotone": {
+      "codepoint": 57969,
+      "fontFamily": "Stash",
+      "identifier": "micDuotone"
+    },
+    "mic-light": {
+      "codepoint": 57970,
+      "fontFamily": "Stash",
+      "identifier": "micLight"
+    },
+    "mic-solid": {
+      "codepoint": 57971,
+      "fontFamily": "Stash",
+      "identifier": "micSolid"
+    },
+    "minus": {
+      "codepoint": 57972,
+      "fontFamily": "Stash",
+      "identifier": "minus"
+    },
+    "minus-duotone": {
+      "codepoint": 57973,
+      "fontFamily": "Stash",
+      "identifier": "minusDuotone"
+    },
+    "minus-light": {
+      "codepoint": 57974,
+      "fontFamily": "Stash",
+      "identifier": "minusLight"
+    },
+    "minus-solid": {
+      "codepoint": 57975,
+      "fontFamily": "Stash",
+      "identifier": "minusSolid"
+    },
+    "monetize": {
+      "codepoint": 57976,
+      "fontFamily": "Stash",
+      "identifier": "monetize"
+    },
+    "monetize-duotone": {
+      "codepoint": 57977,
+      "fontFamily": "Stash",
+      "identifier": "monetizeDuotone"
+    },
+    "monetize-light": {
+      "codepoint": 57978,
+      "fontFamily": "Stash",
+      "identifier": "monetizeLight"
+    },
+    "moon": {
+      "codepoint": 57979,
+      "fontFamily": "Stash",
+      "identifier": "moon"
+    },
+    "moon-duotone": {
+      "codepoint": 57980,
+      "fontFamily": "Stash",
+      "identifier": "moonDuotone"
+    },
+    "moon-light": {
+      "codepoint": 57981,
+      "fontFamily": "Stash",
+      "identifier": "moonLight"
+    },
+    "moon-solid": {
+      "codepoint": 57982,
+      "fontFamily": "Stash",
+      "identifier": "moonSolid"
+    },
+    "new-window-page": {
+      "codepoint": 57983,
+      "fontFamily": "Stash",
+      "identifier": "newWindowPage"
+    },
+    "new-window-page-duotone": {
+      "codepoint": 57984,
+      "fontFamily": "Stash",
+      "identifier": "newWindowPageDuotone"
+    },
+    "new-window-page-light": {
+      "codepoint": 57985,
+      "fontFamily": "Stash",
+      "identifier": "newWindowPageLight"
+    },
+    "notebook": {
+      "codepoint": 57986,
+      "fontFamily": "Stash",
+      "identifier": "notebook"
+    },
+    "notebook-duotone": {
+      "codepoint": 57987,
+      "fontFamily": "Stash",
+      "identifier": "notebookDuotone"
+    },
+    "notebook-light": {
+      "codepoint": 57988,
+      "fontFamily": "Stash",
+      "identifier": "notebookLight"
+    },
+    "notebook-solid": {
+      "codepoint": 57989,
+      "fontFamily": "Stash",
+      "identifier": "notebookSolid"
+    },
+    "outbox": {
+      "codepoint": 57990,
+      "fontFamily": "Stash",
+      "identifier": "outbox"
+    },
+    "outbox-duotone": {
+      "codepoint": 57991,
+      "fontFamily": "Stash",
+      "identifier": "outboxDuotone"
+    },
+    "outbox-light": {
+      "codepoint": 57992,
+      "fontFamily": "Stash",
+      "identifier": "outboxLight"
+    },
+    "pack": {
+      "codepoint": 57993,
+      "fontFamily": "Stash",
+      "identifier": "pack"
+    },
+    "pack-duotone": {
+      "codepoint": 57994,
+      "fontFamily": "Stash",
+      "identifier": "packDuotone"
+    },
+    "pack-light": {
+      "codepoint": 57995,
+      "fontFamily": "Stash",
+      "identifier": "packLight"
+    },
+    "pack-solid": {
+      "codepoint": 57996,
+      "fontFamily": "Stash",
+      "identifier": "packSolid"
+    },
+    "pagination-alt": {
+      "codepoint": 57997,
+      "fontFamily": "Stash",
+      "identifier": "paginationAlt"
+    },
+    "pagination-alt-duotone": {
+      "codepoint": 57998,
+      "fontFamily": "Stash",
+      "identifier": "paginationAltDuotone"
+    },
+    "pagination-alt-light": {
+      "codepoint": 57999,
+      "fontFamily": "Stash",
+      "identifier": "paginationAltLight"
+    },
+    "pagination-alt-solid": {
+      "codepoint": 58000,
+      "fontFamily": "Stash",
+      "identifier": "paginationAltSolid"
+    },
+    "pagination-duotone": {
+      "codepoint": 58001,
+      "fontFamily": "Stash",
+      "identifier": "paginationDuotone"
+    },
+    "pagination-light": {
+      "codepoint": 58002,
+      "fontFamily": "Stash",
+      "identifier": "paginationLight"
+    },
+    "pagination-solid": {
+      "codepoint": 58003,
+      "fontFamily": "Stash",
+      "identifier": "paginationSolid"
+    },
+    "paper-clock": {
+      "codepoint": 58004,
+      "fontFamily": "Stash",
+      "identifier": "paperClock"
+    },
+    "paper-clock-duotone": {
+      "codepoint": 58005,
+      "fontFamily": "Stash",
+      "identifier": "paperClockDuotone"
+    },
+    "paper-clock-light": {
+      "codepoint": 58006,
+      "fontFamily": "Stash",
+      "identifier": "paperClockLight"
+    },
+    "paper-clock-solid": {
+      "codepoint": 58007,
+      "fontFamily": "Stash",
+      "identifier": "paperClockSolid"
+    },
+    "paperplane": {
+      "codepoint": 58008,
+      "fontFamily": "Stash",
+      "identifier": "paperplane"
+    },
+    "paperplane-duotone": {
+      "codepoint": 58009,
+      "fontFamily": "Stash",
+      "identifier": "paperplaneDuotone"
+    },
+    "paperplane-light": {
+      "codepoint": 58010,
+      "fontFamily": "Stash",
+      "identifier": "paperplaneLight"
+    },
+    "paperplane-solid": {
+      "codepoint": 58011,
+      "fontFamily": "Stash",
+      "identifier": "paperplaneSolid"
+    },
+    "pause": {
+      "codepoint": 58012,
+      "fontFamily": "Stash",
+      "identifier": "pause"
+    },
+    "pause-duotone": {
+      "codepoint": 58013,
+      "fontFamily": "Stash",
+      "identifier": "pauseDuotone"
+    },
+    "pause-light": {
+      "codepoint": 58014,
+      "fontFamily": "Stash",
+      "identifier": "pauseLight"
+    },
+    "pause-solid": {
+      "codepoint": 58015,
+      "fontFamily": "Stash",
+      "identifier": "pauseSolid"
+    },
+    "payment-link": {
+      "codepoint": 58016,
+      "fontFamily": "Stash",
+      "identifier": "paymentLink"
+    },
+    "payment-link-duotone": {
+      "codepoint": 58017,
+      "fontFamily": "Stash",
+      "identifier": "paymentLinkDuotone"
+    },
+    "payment-link-light": {
+      "codepoint": 58018,
+      "fontFamily": "Stash",
+      "identifier": "paymentLinkLight"
+    },
+    "payment-link-solid": {
+      "codepoint": 58019,
+      "fontFamily": "Stash",
+      "identifier": "paymentLinkSolid"
+    },
+    "peace-symbol": {
+      "codepoint": 58020,
+      "fontFamily": "Stash",
+      "identifier": "peaceSymbol"
+    },
+    "peace-symbol-duotone": {
+      "codepoint": 58021,
+      "fontFamily": "Stash",
+      "identifier": "peaceSymbolDuotone"
+    },
+    "peace-symbol-light": {
+      "codepoint": 58022,
+      "fontFamily": "Stash",
+      "identifier": "peaceSymbolLight"
+    },
+    "peace-symbol-solid": {
+      "codepoint": 58023,
+      "fontFamily": "Stash",
+      "identifier": "peaceSymbolSolid"
+    },
+    "pencil-single": {
+      "codepoint": 58024,
+      "fontFamily": "Stash",
+      "identifier": "pencilSingle"
+    },
+    "pencil-single-duotone": {
+      "codepoint": 58025,
+      "fontFamily": "Stash",
+      "identifier": "pencilSingleDuotone"
+    },
+    "pencil-single-light": {
+      "codepoint": 58026,
+      "fontFamily": "Stash",
+      "identifier": "pencilSingleLight"
+    },
+    "pencil-single-solid": {
+      "codepoint": 58027,
+      "fontFamily": "Stash",
+      "identifier": "pencilSingleSolid"
+    },
+    "pencil-writing": {
+      "codepoint": 58028,
+      "fontFamily": "Stash",
+      "identifier": "pencilWriting"
+    },
+    "pencil-writing-duotone": {
+      "codepoint": 58029,
+      "fontFamily": "Stash",
+      "identifier": "pencilWritingDuotone"
+    },
+    "pencil-writing-light": {
+      "codepoint": 58030,
+      "fontFamily": "Stash",
+      "identifier": "pencilWritingLight"
+    },
+    "people-group": {
+      "codepoint": 58031,
+      "fontFamily": "Stash",
+      "identifier": "peopleGroup"
+    },
+    "people-group-duotone": {
+      "codepoint": 58032,
+      "fontFamily": "Stash",
+      "identifier": "peopleGroupDuotone"
+    },
+    "people-group-light": {
+      "codepoint": 58033,
+      "fontFamily": "Stash",
+      "identifier": "peopleGroupLight"
+    },
+    "percent": {
+      "codepoint": 58034,
+      "fontFamily": "Stash",
+      "identifier": "percent"
+    },
+    "percent-duotone": {
+      "codepoint": 58035,
+      "fontFamily": "Stash",
+      "identifier": "percentDuotone"
+    },
+    "percent-light": {
+      "codepoint": 58036,
+      "fontFamily": "Stash",
+      "identifier": "percentLight"
+    },
+    "percent-solid": {
+      "codepoint": 58037,
+      "fontFamily": "Stash",
+      "identifier": "percentSolid"
+    },
+    "person": {
+      "codepoint": 58038,
+      "fontFamily": "Stash",
+      "identifier": "person"
+    },
+    "person-duotone": {
+      "codepoint": 58039,
+      "fontFamily": "Stash",
+      "identifier": "personDuotone"
+    },
+    "person-light": {
+      "codepoint": 58040,
+      "fontFamily": "Stash",
+      "identifier": "personLight"
+    },
+    "pin-location": {
+      "codepoint": 58041,
+      "fontFamily": "Stash",
+      "identifier": "pinLocation"
+    },
+    "pin-location-duotone": {
+      "codepoint": 58042,
+      "fontFamily": "Stash",
+      "identifier": "pinLocationDuotone"
+    },
+    "pin-location-light": {
+      "codepoint": 58043,
+      "fontFamily": "Stash",
+      "identifier": "pinLocationLight"
+    },
+    "pin-place": {
+      "codepoint": 58044,
+      "fontFamily": "Stash",
+      "identifier": "pinPlace"
+    },
+    "pin-place-duotone": {
+      "codepoint": 58045,
+      "fontFamily": "Stash",
+      "identifier": "pinPlaceDuotone"
+    },
+    "pin-place-light": {
+      "codepoint": 58046,
+      "fontFamily": "Stash",
+      "identifier": "pinPlaceLight"
+    },
+    "pin-thumbtack": {
+      "codepoint": 58047,
+      "fontFamily": "Stash",
+      "identifier": "pinThumbtack"
+    },
+    "pin-thumbtack-duotone": {
+      "codepoint": 58048,
+      "fontFamily": "Stash",
+      "identifier": "pinThumbtackDuotone"
+    },
+    "pin-thumbtack-light": {
+      "codepoint": 58049,
+      "fontFamily": "Stash",
+      "identifier": "pinThumbtackLight"
+    },
+    "pin-thumbtack-solid": {
+      "codepoint": 58050,
+      "fontFamily": "Stash",
+      "identifier": "pinThumbtackSolid"
+    },
+    "pix": {
+      "codepoint": 58051,
+      "fontFamily": "Stash",
+      "identifier": "pix"
+    },
+    "pix-duotone": {
+      "codepoint": 58052,
+      "fontFamily": "Stash",
+      "identifier": "pixDuotone"
+    },
+    "pix-light": {
+      "codepoint": 58053,
+      "fontFamily": "Stash",
+      "identifier": "pixLight"
+    },
+    "pix-solid": {
+      "codepoint": 58054,
+      "fontFamily": "Stash",
+      "identifier": "pixSolid"
+    },
+    "plan": {
+      "codepoint": 58055,
+      "fontFamily": "Stash",
+      "identifier": "plan"
+    },
+    "plan-duotone": {
+      "codepoint": 58056,
+      "fontFamily": "Stash",
+      "identifier": "planDuotone"
+    },
+    "plan-light": {
+      "codepoint": 58057,
+      "fontFamily": "Stash",
+      "identifier": "planLight"
+    },
+    "play": {
+      "codepoint": 58058,
+      "fontFamily": "Stash",
+      "identifier": "play"
+    },
+    "play-btn": {
+      "codepoint": 58059,
+      "fontFamily": "Stash",
+      "identifier": "playBtn"
+    },
+    "play-btn-duotone": {
+      "codepoint": 58060,
+      "fontFamily": "Stash",
+      "identifier": "playBtnDuotone"
+    },
+    "play-btn-light": {
+      "codepoint": 58061,
+      "fontFamily": "Stash",
+      "identifier": "playBtnLight"
+    },
+    "play-btn-solid": {
+      "codepoint": 58062,
+      "fontFamily": "Stash",
+      "identifier": "playBtnSolid"
+    },
+    "play-duotone": {
+      "codepoint": 58063,
+      "fontFamily": "Stash",
+      "identifier": "playDuotone"
+    },
+    "play-light": {
+      "codepoint": 58064,
+      "fontFamily": "Stash",
+      "identifier": "playLight"
+    },
+    "play-solid": {
+      "codepoint": 58065,
+      "fontFamily": "Stash",
+      "identifier": "playSolid"
+    },
+    "plus": {
+      "codepoint": 58066,
+      "fontFamily": "Stash",
+      "identifier": "plus"
+    },
+    "plus-duotone": {
+      "codepoint": 58067,
+      "fontFamily": "Stash",
+      "identifier": "plusDuotone"
+    },
+    "plus-light": {
+      "codepoint": 58068,
+      "fontFamily": "Stash",
+      "identifier": "plusLight"
+    },
+    "plus-solid": {
+      "codepoint": 58069,
+      "fontFamily": "Stash",
+      "identifier": "plusSolid"
+    },
+    "podcast": {
+      "codepoint": 58070,
+      "fontFamily": "Stash",
+      "identifier": "podcast"
+    },
+    "podcast-duotone": {
+      "codepoint": 58071,
+      "fontFamily": "Stash",
+      "identifier": "podcastDuotone"
+    },
+    "podcast-light": {
+      "codepoint": 58072,
+      "fontFamily": "Stash",
+      "identifier": "podcastLight"
+    },
+    "podcast-solid": {
+      "codepoint": 58073,
+      "fontFamily": "Stash",
+      "identifier": "podcastSolid"
+    },
+    "private-content": {
+      "codepoint": 58074,
+      "fontFamily": "Stash",
+      "identifier": "privateContent"
+    },
+    "private-content-duotone": {
+      "codepoint": 58075,
+      "fontFamily": "Stash",
+      "identifier": "privateContentDuotone"
+    },
+    "private-content-light": {
+      "codepoint": 58076,
+      "fontFamily": "Stash",
+      "identifier": "privateContentLight"
+    },
+    "private-content-solid": {
+      "codepoint": 58077,
+      "fontFamily": "Stash",
+      "identifier": "privateContentSolid"
+    },
+    "qr-code": {
+      "codepoint": 58078,
+      "fontFamily": "Stash",
+      "identifier": "qrCode"
+    },
+    "qr-code-duotone": {
+      "codepoint": 58079,
+      "fontFamily": "Stash",
+      "identifier": "qrCodeDuotone"
+    },
+    "qr-code-light": {
+      "codepoint": 58080,
+      "fontFamily": "Stash",
+      "identifier": "qrCodeLight"
+    },
+    "qr-code-solid": {
+      "codepoint": 58081,
+      "fontFamily": "Stash",
+      "identifier": "qrCodeSolid"
+    },
+    "question": {
+      "codepoint": 58082,
+      "fontFamily": "Stash",
+      "identifier": "question"
+    },
+    "question-duotone": {
+      "codepoint": 58083,
+      "fontFamily": "Stash",
+      "identifier": "questionDuotone"
+    },
+    "question-light": {
+      "codepoint": 58084,
+      "fontFamily": "Stash",
+      "identifier": "questionLight"
+    },
+    "question-solid": {
+      "codepoint": 58085,
+      "fontFamily": "Stash",
+      "identifier": "questionSolid"
+    },
+    "racket": {
+      "codepoint": 58086,
+      "fontFamily": "Stash",
+      "identifier": "racket"
+    },
+    "racket-ball": {
+      "codepoint": 58087,
+      "fontFamily": "Stash",
+      "identifier": "racketBall"
+    },
+    "racket-ball-duotone": {
+      "codepoint": 58088,
+      "fontFamily": "Stash",
+      "identifier": "racketBallDuotone"
+    },
+    "racket-ball-light": {
+      "codepoint": 58089,
+      "fontFamily": "Stash",
+      "identifier": "racketBallLight"
+    },
+    "racket-ball-solid": {
+      "codepoint": 58090,
+      "fontFamily": "Stash",
+      "identifier": "racketBallSolid"
+    },
+    "racket-duotone": {
+      "codepoint": 58091,
+      "fontFamily": "Stash",
+      "identifier": "racketDuotone"
+    },
+    "racket-light": {
+      "codepoint": 58092,
+      "fontFamily": "Stash",
+      "identifier": "racketLight"
+    },
+    "racket-solid": {
+      "codepoint": 58093,
+      "fontFamily": "Stash",
+      "identifier": "racketSolid"
+    },
+    "radar": {
+      "codepoint": 58094,
+      "fontFamily": "Stash",
+      "identifier": "radar"
+    },
+    "radar-duotone": {
+      "codepoint": 58095,
+      "fontFamily": "Stash",
+      "identifier": "radarDuotone"
+    },
+    "radar-light": {
+      "codepoint": 58096,
+      "fontFamily": "Stash",
+      "identifier": "radarLight"
+    },
+    "reading-time": {
+      "codepoint": 58097,
+      "fontFamily": "Stash",
+      "identifier": "readingTime"
+    },
+    "reading-time-duotone": {
+      "codepoint": 58098,
+      "fontFamily": "Stash",
+      "identifier": "readingTimeDuotone"
+    },
+    "reading-time-light": {
+      "codepoint": 58099,
+      "fontFamily": "Stash",
+      "identifier": "readingTimeLight"
+    },
+    "reading-time-solid": {
+      "codepoint": 58100,
+      "fontFamily": "Stash",
+      "identifier": "readingTimeSolid"
+    },
+    "save-ribbon": {
+      "codepoint": 58101,
+      "fontFamily": "Stash",
+      "identifier": "saveRibbon"
+    },
+    "save-ribbon-duotone": {
+      "codepoint": 58102,
+      "fontFamily": "Stash",
+      "identifier": "saveRibbonDuotone"
+    },
+    "save-ribbon-light": {
+      "codepoint": 58103,
+      "fontFamily": "Stash",
+      "identifier": "saveRibbonLight"
+    },
+    "save-ribbon-solid": {
+      "codepoint": 58104,
+      "fontFamily": "Stash",
+      "identifier": "saveRibbonSolid"
+    },
+    "screw-nut": {
+      "codepoint": 58105,
+      "fontFamily": "Stash",
+      "identifier": "screwNut"
+    },
+    "screw-nut-duotone": {
+      "codepoint": 58106,
+      "fontFamily": "Stash",
+      "identifier": "screwNutDuotone"
+    },
+    "screw-nut-light": {
+      "codepoint": 58107,
+      "fontFamily": "Stash",
+      "identifier": "screwNutLight"
+    },
+    "search": {
+      "codepoint": 58108,
+      "fontFamily": "Stash",
+      "identifier": "search"
+    },
+    "search-box": {
+      "codepoint": 58109,
+      "fontFamily": "Stash",
+      "identifier": "searchBox"
+    },
+    "search-box-duotone": {
+      "codepoint": 58110,
+      "fontFamily": "Stash",
+      "identifier": "searchBoxDuotone"
+    },
+    "search-box-light": {
+      "codepoint": 58111,
+      "fontFamily": "Stash",
+      "identifier": "searchBoxLight"
+    },
+    "search-box-solid": {
+      "codepoint": 58112,
+      "fontFamily": "Stash",
+      "identifier": "searchBoxSolid"
+    },
+    "search-duotone": {
+      "codepoint": 58113,
+      "fontFamily": "Stash",
+      "identifier": "searchDuotone"
+    },
+    "search-light": {
+      "codepoint": 58114,
+      "fontFamily": "Stash",
+      "identifier": "searchLight"
+    },
+    "search-results": {
+      "codepoint": 58115,
+      "fontFamily": "Stash",
+      "identifier": "searchResults"
+    },
+    "search-results-duotone": {
+      "codepoint": 58116,
+      "fontFamily": "Stash",
+      "identifier": "searchResultsDuotone"
+    },
+    "search-results-light": {
+      "codepoint": 58117,
+      "fontFamily": "Stash",
+      "identifier": "searchResultsLight"
+    },
+    "search-results-solid": {
+      "codepoint": 58118,
+      "fontFamily": "Stash",
+      "identifier": "searchResultsSolid"
+    },
+    "search-solid": {
+      "codepoint": 58119,
+      "fontFamily": "Stash",
+      "identifier": "searchSolid"
+    },
+    "search-split": {
+      "codepoint": 58120,
+      "fontFamily": "Stash",
+      "identifier": "searchSplit"
+    },
+    "search-split-duotone": {
+      "codepoint": 58121,
+      "fontFamily": "Stash",
+      "identifier": "searchSplitDuotone"
+    },
+    "search-split-light": {
+      "codepoint": 58122,
+      "fontFamily": "Stash",
+      "identifier": "searchSplitLight"
+    },
+    "search-split-solid": {
+      "codepoint": 58123,
+      "fontFamily": "Stash",
+      "identifier": "searchSplitSolid"
+    },
+    "section-divider": {
+      "codepoint": 58124,
+      "fontFamily": "Stash",
+      "identifier": "sectionDivider"
+    },
+    "section-divider-duotone": {
+      "codepoint": 58125,
+      "fontFamily": "Stash",
+      "identifier": "sectionDividerDuotone"
+    },
+    "section-divider-light": {
+      "codepoint": 58126,
+      "fontFamily": "Stash",
+      "identifier": "sectionDividerLight"
+    },
+    "section-divider-solid": {
+      "codepoint": 58127,
+      "fontFamily": "Stash",
+      "identifier": "sectionDividerSolid"
+    },
+    "sensitive": {
+      "codepoint": 58128,
+      "fontFamily": "Stash",
+      "identifier": "sensitive"
+    },
+    "sensitive-duotone": {
+      "codepoint": 58129,
+      "fontFamily": "Stash",
+      "identifier": "sensitiveDuotone"
+    },
+    "sensitive-light": {
+      "codepoint": 58130,
+      "fontFamily": "Stash",
+      "identifier": "sensitiveLight"
+    },
+    "sensitive-solid": {
+      "codepoint": 58131,
+      "fontFamily": "Stash",
+      "identifier": "sensitiveSolid"
+    },
+    "share": {
+      "codepoint": 58132,
+      "fontFamily": "Stash",
+      "identifier": "share"
+    },
+    "share-duotone": {
+      "codepoint": 58133,
+      "fontFamily": "Stash",
+      "identifier": "shareDuotone"
+    },
+    "share-light": {
+      "codepoint": 58134,
+      "fontFamily": "Stash",
+      "identifier": "shareLight"
+    },
+    "share-solid": {
+      "codepoint": 58135,
+      "fontFamily": "Stash",
+      "identifier": "shareSolid"
+    },
+    "shield": {
+      "codepoint": 58136,
+      "fontFamily": "Stash",
+      "identifier": "shield"
+    },
+    "shield-check": {
+      "codepoint": 58137,
+      "fontFamily": "Stash",
+      "identifier": "shieldCheck"
+    },
+    "shield-check-duotone": {
+      "codepoint": 58138,
+      "fontFamily": "Stash",
+      "identifier": "shieldCheckDuotone"
+    },
+    "shield-check-light": {
+      "codepoint": 58139,
+      "fontFamily": "Stash",
+      "identifier": "shieldCheckLight"
+    },
+    "shield-duotone": {
+      "codepoint": 58140,
+      "fontFamily": "Stash",
+      "identifier": "shieldDuotone"
+    },
+    "shield-light": {
+      "codepoint": 58141,
+      "fontFamily": "Stash",
+      "identifier": "shieldLight"
+    },
+    "shield-user": {
+      "codepoint": 58142,
+      "fontFamily": "Stash",
+      "identifier": "shieldUser"
+    },
+    "shield-user-duotone": {
+      "codepoint": 58143,
+      "fontFamily": "Stash",
+      "identifier": "shieldUserDuotone"
+    },
+    "shield-user-light": {
+      "codepoint": 58144,
+      "fontFamily": "Stash",
+      "identifier": "shieldUserLight"
+    },
+    "shop": {
+      "codepoint": 58145,
+      "fontFamily": "Stash",
+      "identifier": "shop"
+    },
+    "shop-duotone": {
+      "codepoint": 58146,
+      "fontFamily": "Stash",
+      "identifier": "shopDuotone"
+    },
+    "shop-light": {
+      "codepoint": 58147,
+      "fontFamily": "Stash",
+      "identifier": "shopLight"
+    },
+    "shop-solid": {
+      "codepoint": 58148,
+      "fontFamily": "Stash",
+      "identifier": "shopSolid"
+    },
+    "shrink-diagonal": {
+      "codepoint": 58149,
+      "fontFamily": "Stash",
+      "identifier": "shrinkDiagonal"
+    },
+    "shrink-diagonal-duotone": {
+      "codepoint": 58150,
+      "fontFamily": "Stash",
+      "identifier": "shrinkDiagonalDuotone"
+    },
+    "shrink-diagonal-light": {
+      "codepoint": 58151,
+      "fontFamily": "Stash",
+      "identifier": "shrinkDiagonalLight"
+    },
+    "shrink-diagonal-solid": {
+      "codepoint": 58152,
+      "fontFamily": "Stash",
+      "identifier": "shrinkDiagonalSolid"
+    },
+    "shrink-vertical": {
+      "codepoint": 58153,
+      "fontFamily": "Stash",
+      "identifier": "shrinkVertical"
+    },
+    "shrink-vertical-duotone": {
+      "codepoint": 58154,
+      "fontFamily": "Stash",
+      "identifier": "shrinkVerticalDuotone"
+    },
+    "shrink-vertical-light": {
+      "codepoint": 58155,
+      "fontFamily": "Stash",
+      "identifier": "shrinkVerticalLight"
+    },
+    "shrink-vertical-solid": {
+      "codepoint": 58156,
+      "fontFamily": "Stash",
+      "identifier": "shrinkVerticalSolid"
+    },
+    "side-peek": {
+      "codepoint": 58157,
+      "fontFamily": "Stash",
+      "identifier": "sidePeek"
+    },
+    "side-peek-duotone": {
+      "codepoint": 58158,
+      "fontFamily": "Stash",
+      "identifier": "sidePeekDuotone"
+    },
+    "side-peek-light": {
+      "codepoint": 58159,
+      "fontFamily": "Stash",
+      "identifier": "sidePeekLight"
+    },
+    "side-peek-solid": {
+      "codepoint": 58160,
+      "fontFamily": "Stash",
+      "identifier": "sidePeekSolid"
+    },
+    "signin": {
+      "codepoint": 58161,
+      "fontFamily": "Stash",
+      "identifier": "signin"
+    },
+    "signin-alt": {
+      "codepoint": 58162,
+      "fontFamily": "Stash",
+      "identifier": "signinAlt"
+    },
+    "signin-alt-duotone": {
+      "codepoint": 58163,
+      "fontFamily": "Stash",
+      "identifier": "signinAltDuotone"
+    },
+    "signin-alt-light": {
+      "codepoint": 58164,
+      "fontFamily": "Stash",
+      "identifier": "signinAltLight"
+    },
+    "signin-duotone": {
+      "codepoint": 58165,
+      "fontFamily": "Stash",
+      "identifier": "signinDuotone"
+    },
+    "signin-light": {
+      "codepoint": 58166,
+      "fontFamily": "Stash",
+      "identifier": "signinLight"
+    },
+    "signout": {
+      "codepoint": 58167,
+      "fontFamily": "Stash",
+      "identifier": "signout"
+    },
+    "signout-alt": {
+      "codepoint": 58168,
+      "fontFamily": "Stash",
+      "identifier": "signoutAlt"
+    },
+    "signout-alt-duotone": {
+      "codepoint": 58169,
+      "fontFamily": "Stash",
+      "identifier": "signoutAltDuotone"
+    },
+    "signout-alt-light": {
+      "codepoint": 58170,
+      "fontFamily": "Stash",
+      "identifier": "signoutAltLight"
+    },
+    "signout-duotone": {
+      "codepoint": 58171,
+      "fontFamily": "Stash",
+      "identifier": "signoutDuotone"
+    },
+    "signout-light": {
+      "codepoint": 58172,
+      "fontFamily": "Stash",
+      "identifier": "signoutLight"
+    },
+    "sliders-h": {
+      "codepoint": 58173,
+      "fontFamily": "Stash",
+      "identifier": "slidersH"
+    },
+    "sliders-h-duotone": {
+      "codepoint": 58174,
+      "fontFamily": "Stash",
+      "identifier": "slidersHDuotone"
+    },
+    "sliders-h-light": {
+      "codepoint": 58175,
+      "fontFamily": "Stash",
+      "identifier": "slidersHLight"
+    },
+    "sliders-v": {
+      "codepoint": 58176,
+      "fontFamily": "Stash",
+      "identifier": "slidersV"
+    },
+    "sliders-v-duotone": {
+      "codepoint": 58177,
+      "fontFamily": "Stash",
+      "identifier": "slidersVDuotone"
+    },
+    "sliders-v-light": {
+      "codepoint": 58178,
+      "fontFamily": "Stash",
+      "identifier": "slidersVLight"
+    },
+    "smartphone": {
+      "codepoint": 58179,
+      "fontFamily": "Stash",
+      "identifier": "smartphone"
+    },
+    "smartphone-duotone": {
+      "codepoint": 58180,
+      "fontFamily": "Stash",
+      "identifier": "smartphoneDuotone"
+    },
+    "smartphone-light": {
+      "codepoint": 58181,
+      "fontFamily": "Stash",
+      "identifier": "smartphoneLight"
+    },
+    "smartphone-solid": {
+      "codepoint": 58182,
+      "fontFamily": "Stash",
+      "identifier": "smartphoneSolid"
+    },
+    "social-facebook": {
+      "codepoint": 58183,
+      "fontFamily": "Stash",
+      "identifier": "socialFacebook"
+    },
+    "social-facebook-duotone": {
+      "codepoint": 58184,
+      "fontFamily": "Stash",
+      "identifier": "socialFacebookDuotone"
+    },
+    "social-facebook-light": {
+      "codepoint": 58185,
+      "fontFamily": "Stash",
+      "identifier": "socialFacebookLight"
+    },
+    "social-facebook-solid": {
+      "codepoint": 58186,
+      "fontFamily": "Stash",
+      "identifier": "socialFacebookSolid"
+    },
+    "social-twitter": {
+      "codepoint": 58187,
+      "fontFamily": "Stash",
+      "identifier": "socialTwitter"
+    },
+    "social-twitter-duotone": {
+      "codepoint": 58188,
+      "fontFamily": "Stash",
+      "identifier": "socialTwitterDuotone"
+    },
+    "social-twitter-light": {
+      "codepoint": 58189,
+      "fontFamily": "Stash",
+      "identifier": "socialTwitterLight"
+    },
+    "social-twitter-solid": {
+      "codepoint": 58190,
+      "fontFamily": "Stash",
+      "identifier": "socialTwitterSolid"
+    },
+    "social-unsplash": {
+      "codepoint": 58191,
+      "fontFamily": "Stash",
+      "identifier": "socialUnsplash"
+    },
+    "social-unsplash-duotone": {
+      "codepoint": 58192,
+      "fontFamily": "Stash",
+      "identifier": "socialUnsplashDuotone"
+    },
+    "social-unsplash-light": {
+      "codepoint": 58193,
+      "fontFamily": "Stash",
+      "identifier": "socialUnsplashLight"
+    },
+    "social-unsplash-solid": {
+      "codepoint": 58194,
+      "fontFamily": "Stash",
+      "identifier": "socialUnsplashSolid"
+    },
+    "social-whatsapp": {
+      "codepoint": 58195,
+      "fontFamily": "Stash",
+      "identifier": "socialWhatsapp"
+    },
+    "social-whatsapp-duotone": {
+      "codepoint": 58196,
+      "fontFamily": "Stash",
+      "identifier": "socialWhatsappDuotone"
+    },
+    "social-whatsapp-light": {
+      "codepoint": 58197,
+      "fontFamily": "Stash",
+      "identifier": "socialWhatsappLight"
+    },
+    "social-whatsapp-solid": {
+      "codepoint": 58198,
+      "fontFamily": "Stash",
+      "identifier": "socialWhatsappSolid"
+    },
+    "square": {
+      "codepoint": 58199,
+      "fontFamily": "Stash",
+      "identifier": "square"
+    },
+    "square-check": {
+      "codepoint": 58200,
+      "fontFamily": "Stash",
+      "identifier": "squareCheck"
+    },
+    "square-check-duotone": {
+      "codepoint": 58201,
+      "fontFamily": "Stash",
+      "identifier": "squareCheckDuotone"
+    },
+    "square-check-light": {
+      "codepoint": 58202,
+      "fontFamily": "Stash",
+      "identifier": "squareCheckLight"
+    },
+    "square-check-solid": {
+      "codepoint": 58203,
+      "fontFamily": "Stash",
+      "identifier": "squareCheckSolid"
+    },
+    "square-duotone": {
+      "codepoint": 58204,
+      "fontFamily": "Stash",
+      "identifier": "squareDuotone"
+    },
+    "square-light": {
+      "codepoint": 58205,
+      "fontFamily": "Stash",
+      "identifier": "squareLight"
+    },
+    "square-minus": {
+      "codepoint": 58206,
+      "fontFamily": "Stash",
+      "identifier": "squareMinus"
+    },
+    "square-minus-duotone": {
+      "codepoint": 58207,
+      "fontFamily": "Stash",
+      "identifier": "squareMinusDuotone"
+    },
+    "square-minus-light": {
+      "codepoint": 58208,
+      "fontFamily": "Stash",
+      "identifier": "squareMinusLight"
+    },
+    "square-minus-solid": {
+      "codepoint": 58209,
+      "fontFamily": "Stash",
+      "identifier": "squareMinusSolid"
+    },
+    "square-solid": {
+      "codepoint": 58210,
+      "fontFamily": "Stash",
+      "identifier": "squareSolid"
+    },
+    "star": {
+      "codepoint": 58211,
+      "fontFamily": "Stash",
+      "identifier": "star"
+    },
+    "star-duotone": {
+      "codepoint": 58212,
+      "fontFamily": "Stash",
+      "identifier": "starDuotone"
+    },
+    "star-light": {
+      "codepoint": 58213,
+      "fontFamily": "Stash",
+      "identifier": "starLight"
+    },
+    "star-solid": {
+      "codepoint": 58214,
+      "fontFamily": "Stash",
+      "identifier": "starSolid"
+    },
+    "stars": {
+      "codepoint": 58215,
+      "fontFamily": "Stash",
+      "identifier": "stars"
+    },
+    "stars-duotone": {
+      "codepoint": 58216,
+      "fontFamily": "Stash",
+      "identifier": "starsDuotone"
+    },
+    "stars-light": {
+      "codepoint": 58217,
+      "fontFamily": "Stash",
+      "identifier": "starsLight"
+    },
+    "stopwatch": {
+      "codepoint": 58218,
+      "fontFamily": "Stash",
+      "identifier": "stopwatch"
+    },
+    "stopwatch-duotone": {
+      "codepoint": 58219,
+      "fontFamily": "Stash",
+      "identifier": "stopwatchDuotone"
+    },
+    "stopwatch-light": {
+      "codepoint": 58220,
+      "fontFamily": "Stash",
+      "identifier": "stopwatchLight"
+    },
+    "stopwatch-solid": {
+      "codepoint": 58221,
+      "fontFamily": "Stash",
+      "identifier": "stopwatchSolid"
+    },
+    "subscription-list": {
+      "codepoint": 58222,
+      "fontFamily": "Stash",
+      "identifier": "subscriptionList"
+    },
+    "subscription-list-duotone": {
+      "codepoint": 58223,
+      "fontFamily": "Stash",
+      "identifier": "subscriptionListDuotone"
+    },
+    "subscription-list-light": {
+      "codepoint": 58224,
+      "fontFamily": "Stash",
+      "identifier": "subscriptionListLight"
+    },
+    "subscription-list-solid": {
+      "codepoint": 58225,
+      "fontFamily": "Stash",
+      "identifier": "subscriptionListSolid"
+    },
+    "sun": {
+      "codepoint": 58226,
+      "fontFamily": "Stash",
+      "identifier": "sun"
+    },
+    "sun-duotone": {
+      "codepoint": 58227,
+      "fontFamily": "Stash",
+      "identifier": "sunDuotone"
+    },
+    "sun-light": {
+      "codepoint": 58228,
+      "fontFamily": "Stash",
+      "identifier": "sunLight"
+    },
+    "sun-solid": {
+      "codepoint": 58229,
+      "fontFamily": "Stash",
+      "identifier": "sunSolid"
+    },
+    "tablet": {
+      "codepoint": 58230,
+      "fontFamily": "Stash",
+      "identifier": "tablet"
+    },
+    "tablet-duotone": {
+      "codepoint": 58231,
+      "fontFamily": "Stash",
+      "identifier": "tabletDuotone"
+    },
+    "tablet-light": {
+      "codepoint": 58232,
+      "fontFamily": "Stash",
+      "identifier": "tabletLight"
+    },
+    "tablet-solid": {
+      "codepoint": 58233,
+      "fontFamily": "Stash",
+      "identifier": "tabletSolid"
+    },
+    "target": {
+      "codepoint": 58234,
+      "fontFamily": "Stash",
+      "identifier": "target"
+    },
+    "target-duotone": {
+      "codepoint": 58235,
+      "fontFamily": "Stash",
+      "identifier": "targetDuotone"
+    },
+    "target-light": {
+      "codepoint": 58236,
+      "fontFamily": "Stash",
+      "identifier": "targetLight"
+    },
+    "telegram": {
+      "codepoint": 58237,
+      "fontFamily": "Stash",
+      "identifier": "telegram"
+    },
+    "telegram-duotone": {
+      "codepoint": 58238,
+      "fontFamily": "Stash",
+      "identifier": "telegramDuotone"
+    },
+    "telegram-light": {
+      "codepoint": 58239,
+      "fontFamily": "Stash",
+      "identifier": "telegramLight"
+    },
+    "telegram-solid": {
+      "codepoint": 58240,
+      "fontFamily": "Stash",
+      "identifier": "telegramSolid"
+    },
+    "thumb-down": {
+      "codepoint": 58241,
+      "fontFamily": "Stash",
+      "identifier": "thumbDown"
+    },
+    "thumb-down-duotone": {
+      "codepoint": 58242,
+      "fontFamily": "Stash",
+      "identifier": "thumbDownDuotone"
+    },
+    "thumb-down-light": {
+      "codepoint": 58243,
+      "fontFamily": "Stash",
+      "identifier": "thumbDownLight"
+    },
+    "thumb-up": {
+      "codepoint": 58244,
+      "fontFamily": "Stash",
+      "identifier": "thumbUp"
+    },
+    "thumb-up-duotone": {
+      "codepoint": 58245,
+      "fontFamily": "Stash",
+      "identifier": "thumbUpDuotone"
+    },
+    "thumb-up-light": {
+      "codepoint": 58246,
+      "fontFamily": "Stash",
+      "identifier": "thumbUpLight"
+    },
+    "times": {
+      "codepoint": 58247,
+      "fontFamily": "Stash",
+      "identifier": "times"
+    },
+    "times-circle": {
+      "codepoint": 58248,
+      "fontFamily": "Stash",
+      "identifier": "timesCircle"
+    },
+    "times-circle-duotone": {
+      "codepoint": 58249,
+      "fontFamily": "Stash",
+      "identifier": "timesCircleDuotone"
+    },
+    "times-circle-light": {
+      "codepoint": 58250,
+      "fontFamily": "Stash",
+      "identifier": "timesCircleLight"
+    },
+    "times-circle-solid": {
+      "codepoint": 58251,
+      "fontFamily": "Stash",
+      "identifier": "timesCircleSolid"
+    },
+    "times-duotone": {
+      "codepoint": 58252,
+      "fontFamily": "Stash",
+      "identifier": "timesDuotone"
+    },
+    "times-light": {
+      "codepoint": 58253,
+      "fontFamily": "Stash",
+      "identifier": "timesLight"
+    },
+    "times-solid": {
+      "codepoint": 58254,
+      "fontFamily": "Stash",
+      "identifier": "timesSolid"
+    },
+    "trash-can": {
+      "codepoint": 58255,
+      "fontFamily": "Stash",
+      "identifier": "trashCan"
+    },
+    "trash-can-duotone": {
+      "codepoint": 58256,
+      "fontFamily": "Stash",
+      "identifier": "trashCanDuotone"
+    },
+    "trash-can-light": {
+      "codepoint": 58257,
+      "fontFamily": "Stash",
+      "identifier": "trashCanLight"
+    },
+    "trend-arrow-down": {
+      "codepoint": 58258,
+      "fontFamily": "Stash",
+      "identifier": "trendArrowDown"
+    },
+    "trend-arrow-down-duotone": {
+      "codepoint": 58259,
+      "fontFamily": "Stash",
+      "identifier": "trendArrowDownDuotone"
+    },
+    "trend-arrow-down-light": {
+      "codepoint": 58260,
+      "fontFamily": "Stash",
+      "identifier": "trendArrowDownLight"
+    },
+    "trend-arrow-up": {
+      "codepoint": 58261,
+      "fontFamily": "Stash",
+      "identifier": "trendArrowUp"
+    },
+    "trend-arrow-up-duotone": {
+      "codepoint": 58262,
+      "fontFamily": "Stash",
+      "identifier": "trendArrowUpDuotone"
+    },
+    "trend-arrow-up-light": {
+      "codepoint": 58263,
+      "fontFamily": "Stash",
+      "identifier": "trendArrowUpLight"
+    },
+    "trophy": {
+      "codepoint": 58264,
+      "fontFamily": "Stash",
+      "identifier": "trophy"
+    },
+    "trophy-duotone": {
+      "codepoint": 58265,
+      "fontFamily": "Stash",
+      "identifier": "trophyDuotone"
+    },
+    "trophy-light": {
+      "codepoint": 58266,
+      "fontFamily": "Stash",
+      "identifier": "trophyLight"
+    },
+    "trophy-solid": {
+      "codepoint": 58267,
+      "fontFamily": "Stash",
+      "identifier": "trophySolid"
+    },
+    "user-arrow-down": {
+      "codepoint": 58268,
+      "fontFamily": "Stash",
+      "identifier": "userArrowDown"
+    },
+    "user-arrow-down-duotone": {
+      "codepoint": 58269,
+      "fontFamily": "Stash",
+      "identifier": "userArrowDownDuotone"
+    },
+    "user-arrow-down-light": {
+      "codepoint": 58270,
+      "fontFamily": "Stash",
+      "identifier": "userArrowDownLight"
+    },
+    "user-at": {
+      "codepoint": 58271,
+      "fontFamily": "Stash",
+      "identifier": "userAt"
+    },
+    "user-at-duotone": {
+      "codepoint": 58272,
+      "fontFamily": "Stash",
+      "identifier": "userAtDuotone"
+    },
+    "user-at-light": {
+      "codepoint": 58273,
+      "fontFamily": "Stash",
+      "identifier": "userAtLight"
+    },
+    "user-avatar": {
+      "codepoint": 58274,
+      "fontFamily": "Stash",
+      "identifier": "userAvatar"
+    },
+    "user-avatar-duotone": {
+      "codepoint": 58275,
+      "fontFamily": "Stash",
+      "identifier": "userAvatarDuotone"
+    },
+    "user-avatar-light": {
+      "codepoint": 58276,
+      "fontFamily": "Stash",
+      "identifier": "userAvatarLight"
+    },
+    "user-check": {
+      "codepoint": 58277,
+      "fontFamily": "Stash",
+      "identifier": "userCheck"
+    },
+    "user-check-duotone": {
+      "codepoint": 58278,
+      "fontFamily": "Stash",
+      "identifier": "userCheckDuotone"
+    },
+    "user-check-light": {
+      "codepoint": 58279,
+      "fontFamily": "Stash",
+      "identifier": "userCheckLight"
+    },
+    "user-clock": {
+      "codepoint": 58280,
+      "fontFamily": "Stash",
+      "identifier": "userClock"
+    },
+    "user-clock-duotone": {
+      "codepoint": 58281,
+      "fontFamily": "Stash",
+      "identifier": "userClockDuotone"
+    },
+    "user-clock-light": {
+      "codepoint": 58282,
+      "fontFamily": "Stash",
+      "identifier": "userClockLight"
+    },
+    "user-cog": {
+      "codepoint": 58283,
+      "fontFamily": "Stash",
+      "identifier": "userCog"
+    },
+    "user-cog-duotone": {
+      "codepoint": 58284,
+      "fontFamily": "Stash",
+      "identifier": "userCogDuotone"
+    },
+    "user-cog-light": {
+      "codepoint": 58285,
+      "fontFamily": "Stash",
+      "identifier": "userCogLight"
+    },
+    "user-dollar": {
+      "codepoint": 58286,
+      "fontFamily": "Stash",
+      "identifier": "userDollar"
+    },
+    "user-dollar-duotone": {
+      "codepoint": 58287,
+      "fontFamily": "Stash",
+      "identifier": "userDollarDuotone"
+    },
+    "user-dollar-light": {
+      "codepoint": 58288,
+      "fontFamily": "Stash",
+      "identifier": "userDollarLight"
+    },
+    "user-envelope": {
+      "codepoint": 58289,
+      "fontFamily": "Stash",
+      "identifier": "userEnvelope"
+    },
+    "user-envelope-duotone": {
+      "codepoint": 58290,
+      "fontFamily": "Stash",
+      "identifier": "userEnvelopeDuotone"
+    },
+    "user-envelope-light": {
+      "codepoint": 58291,
+      "fontFamily": "Stash",
+      "identifier": "userEnvelopeLight"
+    },
+    "user-group": {
+      "codepoint": 58292,
+      "fontFamily": "Stash",
+      "identifier": "userGroup"
+    },
+    "user-group-duotone": {
+      "codepoint": 58293,
+      "fontFamily": "Stash",
+      "identifier": "userGroupDuotone"
+    },
+    "user-group-light": {
+      "codepoint": 58294,
+      "fontFamily": "Stash",
+      "identifier": "userGroupLight"
+    },
+    "user-heart": {
+      "codepoint": 58295,
+      "fontFamily": "Stash",
+      "identifier": "userHeart"
+    },
+    "user-heart-duotone": {
+      "codepoint": 58296,
+      "fontFamily": "Stash",
+      "identifier": "userHeartDuotone"
+    },
+    "user-heart-light": {
+      "codepoint": 58297,
+      "fontFamily": "Stash",
+      "identifier": "userHeartLight"
+    },
+    "user-id": {
+      "codepoint": 58298,
+      "fontFamily": "Stash",
+      "identifier": "userId"
+    },
+    "user-id-duotone": {
+      "codepoint": 58299,
+      "fontFamily": "Stash",
+      "identifier": "userIdDuotone"
+    },
+    "user-id-light": {
+      "codepoint": 58300,
+      "fontFamily": "Stash",
+      "identifier": "userIdLight"
+    },
+    "user-minus": {
+      "codepoint": 58301,
+      "fontFamily": "Stash",
+      "identifier": "userMinus"
+    },
+    "user-minus-duotone": {
+      "codepoint": 58302,
+      "fontFamily": "Stash",
+      "identifier": "userMinusDuotone"
+    },
+    "user-minus-light": {
+      "codepoint": 58303,
+      "fontFamily": "Stash",
+      "identifier": "userMinusLight"
+    },
+    "user-plus": {
+      "codepoint": 58304,
+      "fontFamily": "Stash",
+      "identifier": "userPlus"
+    },
+    "user-plus-duotone": {
+      "codepoint": 58305,
+      "fontFamily": "Stash",
+      "identifier": "userPlusDuotone"
+    },
+    "user-plus-light": {
+      "codepoint": 58306,
+      "fontFamily": "Stash",
+      "identifier": "userPlusLight"
+    },
+    "user-shield": {
+      "codepoint": 58307,
+      "fontFamily": "Stash",
+      "identifier": "userShield"
+    },
+    "user-shield-duotone": {
+      "codepoint": 58308,
+      "fontFamily": "Stash",
+      "identifier": "userShieldDuotone"
+    },
+    "user-shield-light": {
+      "codepoint": 58309,
+      "fontFamily": "Stash",
+      "identifier": "userShieldLight"
+    },
+    "users-crown": {
+      "codepoint": 58310,
+      "fontFamily": "Stash",
+      "identifier": "usersCrown"
+    },
+    "users-crown-duotone": {
+      "codepoint": 58311,
+      "fontFamily": "Stash",
+      "identifier": "usersCrownDuotone"
+    },
+    "users-crown-light": {
+      "codepoint": 58312,
+      "fontFamily": "Stash",
+      "identifier": "usersCrownLight"
+    },
+    "vault": {
+      "codepoint": 58313,
+      "fontFamily": "Stash",
+      "identifier": "vault"
+    },
+    "vault-duotone": {
+      "codepoint": 58314,
+      "fontFamily": "Stash",
+      "identifier": "vaultDuotone"
+    },
+    "vault-light": {
+      "codepoint": 58315,
+      "fontFamily": "Stash",
+      "identifier": "vaultLight"
+    },
+    "version": {
+      "codepoint": 58316,
+      "fontFamily": "Stash",
+      "identifier": "version"
+    },
+    "version-duotone": {
+      "codepoint": 58317,
+      "fontFamily": "Stash",
+      "identifier": "versionDuotone"
+    },
+    "version-light": {
+      "codepoint": 58318,
+      "fontFamily": "Stash",
+      "identifier": "versionLight"
+    },
+    "version-solid": {
+      "codepoint": 58319,
+      "fontFamily": "Stash",
+      "identifier": "versionSolid"
+    },
+    "wallet": {
+      "codepoint": 58320,
+      "fontFamily": "Stash",
+      "identifier": "wallet"
+    },
+    "wallet-duotone": {
+      "codepoint": 58321,
+      "fontFamily": "Stash",
+      "identifier": "walletDuotone"
+    },
+    "wallet-light": {
+      "codepoint": 58322,
+      "fontFamily": "Stash",
+      "identifier": "walletLight"
+    },
+    "wand": {
+      "codepoint": 58323,
+      "fontFamily": "Stash",
+      "identifier": "wand"
+    },
+    "wand-duotone": {
+      "codepoint": 58324,
+      "fontFamily": "Stash",
+      "identifier": "wandDuotone"
+    },
+    "wand-light": {
+      "codepoint": 58325,
+      "fontFamily": "Stash",
+      "identifier": "wandLight"
+    }
+  }
+}

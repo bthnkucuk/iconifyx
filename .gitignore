@@ -1,0 +1,38 @@
+node_modules/
+*.tsbuildinfo
+.DS_Store
+
+# Bun
+bun.lock
+
+# Dart
+.dart_tool/
+.pub-cache/
+.pub/
+build/
+ephemeral/
+pubspec.lock
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Per-user local settings
+.claude/settings.local.json
+
+# Generator output that IS committed:
+#  - packages/**/lib/src/sets/*.dart       (generated, committed)
+#  - packages/**/assets/fonts/*.ttf        (generated, committed)
+#  - packages/**/pubspec.yaml              (generated, committed)
+#  - tools/generator/manifests/*.json      (state, committed)
+#  - tools/generator/iconify.lock.json     (state, committed)
+
+# Generator output that is NOT committed:
+tools/generator/.cache/
+tools/generator/tmp/

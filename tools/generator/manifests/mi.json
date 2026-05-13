@@ -1,0 +1,930 @@
+{
+  "schemaVersion": 1,
+  "prefix": "mi",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_mi",
+  "info": {
+    "name": "Mono Icons",
+    "author": {
+      "name": "Mono",
+      "url": "https://github.com/mono-company/mono-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/mono-company/mono-icons/blob/master/LICENSE.md"
+    },
+    "total": 180
+  },
+  "fonts": [
+    {
+      "family": "Mi",
+      "nextCodepoint": 57524,
+      "iconCount": 180
+    }
+  ],
+  "icons": {
+    "add": {
+      "codepoint": 57344,
+      "fontFamily": "Mi",
+      "identifier": "add"
+    },
+    "archive": {
+      "codepoint": 57345,
+      "fontFamily": "Mi",
+      "identifier": "archive"
+    },
+    "arrow-down": {
+      "codepoint": 57346,
+      "fontFamily": "Mi",
+      "identifier": "arrowDown"
+    },
+    "arrow-left": {
+      "codepoint": 57347,
+      "fontFamily": "Mi",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-down": {
+      "codepoint": 57348,
+      "fontFamily": "Mi",
+      "identifier": "arrowLeftDown"
+    },
+    "arrow-left-up": {
+      "codepoint": 57349,
+      "fontFamily": "Mi",
+      "identifier": "arrowLeftUp"
+    },
+    "arrow-right": {
+      "codepoint": 57350,
+      "fontFamily": "Mi",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-down": {
+      "codepoint": 57351,
+      "fontFamily": "Mi",
+      "identifier": "arrowRightDown"
+    },
+    "arrow-right-up": {
+      "codepoint": 57352,
+      "fontFamily": "Mi",
+      "identifier": "arrowRightUp"
+    },
+    "arrow-up": {
+      "codepoint": 57353,
+      "fontFamily": "Mi",
+      "identifier": "arrowUp"
+    },
+    "attachment": {
+      "codepoint": 57354,
+      "fontFamily": "Mi",
+      "identifier": "attachment"
+    },
+    "backspace": {
+      "codepoint": 57355,
+      "fontFamily": "Mi",
+      "identifier": "backspace"
+    },
+    "ban": {
+      "codepoint": 57356,
+      "fontFamily": "Mi",
+      "identifier": "ban"
+    },
+    "bar-chart": {
+      "codepoint": 57357,
+      "fontFamily": "Mi",
+      "identifier": "barChart"
+    },
+    "bar-chart-alt": {
+      "codepoint": 57358,
+      "fontFamily": "Mi",
+      "identifier": "barChartAlt"
+    },
+    "board": {
+      "codepoint": 57359,
+      "fontFamily": "Mi",
+      "identifier": "board"
+    },
+    "bold": {
+      "codepoint": 57360,
+      "fontFamily": "Mi",
+      "identifier": "bold"
+    },
+    "book": {
+      "codepoint": 57361,
+      "fontFamily": "Mi",
+      "identifier": "book"
+    },
+    "bookmark": {
+      "codepoint": 57362,
+      "fontFamily": "Mi",
+      "identifier": "bookmark"
+    },
+    "calendar": {
+      "codepoint": 57363,
+      "fontFamily": "Mi",
+      "identifier": "calendar"
+    },
+    "call": {
+      "codepoint": 57364,
+      "fontFamily": "Mi",
+      "identifier": "call"
+    },
+    "camera": {
+      "codepoint": 57365,
+      "fontFamily": "Mi",
+      "identifier": "camera"
+    },
+    "caret-down": {
+      "codepoint": 57366,
+      "fontFamily": "Mi",
+      "identifier": "caretDown"
+    },
+    "caret-left": {
+      "codepoint": 57367,
+      "fontFamily": "Mi",
+      "identifier": "caretLeft"
+    },
+    "caret-right": {
+      "codepoint": 57368,
+      "fontFamily": "Mi",
+      "identifier": "caretRight"
+    },
+    "caret-up": {
+      "codepoint": 57369,
+      "fontFamily": "Mi",
+      "identifier": "caretUp"
+    },
+    "check": {
+      "codepoint": 57370,
+      "fontFamily": "Mi",
+      "identifier": "check"
+    },
+    "chevron-double-down": {
+      "codepoint": 57371,
+      "fontFamily": "Mi",
+      "identifier": "chevronDoubleDown"
+    },
+    "chevron-double-left": {
+      "codepoint": 57372,
+      "fontFamily": "Mi",
+      "identifier": "chevronDoubleLeft"
+    },
+    "chevron-double-right": {
+      "codepoint": 57373,
+      "fontFamily": "Mi",
+      "identifier": "chevronDoubleRight"
+    },
+    "chevron-double-up": {
+      "codepoint": 57374,
+      "fontFamily": "Mi",
+      "identifier": "chevronDoubleUp"
+    },
+    "chevron-down": {
+      "codepoint": 57375,
+      "fontFamily": "Mi",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57376,
+      "fontFamily": "Mi",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57377,
+      "fontFamily": "Mi",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57378,
+      "fontFamily": "Mi",
+      "identifier": "chevronUp"
+    },
+    "circle": {
+      "codepoint": 57379,
+      "fontFamily": "Mi",
+      "identifier": "circle"
+    },
+    "circle-add": {
+      "codepoint": 57380,
+      "fontFamily": "Mi",
+      "identifier": "circleAdd"
+    },
+    "circle-arrow-down": {
+      "codepoint": 57381,
+      "fontFamily": "Mi",
+      "identifier": "circleArrowDown"
+    },
+    "circle-arrow-left": {
+      "codepoint": 57382,
+      "fontFamily": "Mi",
+      "identifier": "circleArrowLeft"
+    },
+    "circle-arrow-right": {
+      "codepoint": 57383,
+      "fontFamily": "Mi",
+      "identifier": "circleArrowRight"
+    },
+    "circle-arrow-up": {
+      "codepoint": 57384,
+      "fontFamily": "Mi",
+      "identifier": "circleArrowUp"
+    },
+    "circle-check": {
+      "codepoint": 57385,
+      "fontFamily": "Mi",
+      "identifier": "circleCheck"
+    },
+    "circle-error": {
+      "codepoint": 57386,
+      "fontFamily": "Mi",
+      "identifier": "circleError"
+    },
+    "circle-help": {
+      "codepoint": 57387,
+      "fontFamily": "Mi",
+      "identifier": "circleHelp"
+    },
+    "circle-information": {
+      "codepoint": 57388,
+      "fontFamily": "Mi",
+      "identifier": "circleInformation"
+    },
+    "circle-remove": {
+      "codepoint": 57389,
+      "fontFamily": "Mi",
+      "identifier": "circleRemove"
+    },
+    "circle-warning": {
+      "codepoint": 57390,
+      "fontFamily": "Mi",
+      "identifier": "circleWarning"
+    },
+    "clipboard": {
+      "codepoint": 57391,
+      "fontFamily": "Mi",
+      "identifier": "clipboard"
+    },
+    "clipboard-check": {
+      "codepoint": 57392,
+      "fontFamily": "Mi",
+      "identifier": "clipboardCheck"
+    },
+    "clipboard-list": {
+      "codepoint": 57393,
+      "fontFamily": "Mi",
+      "identifier": "clipboardList"
+    },
+    "clock": {
+      "codepoint": 57394,
+      "fontFamily": "Mi",
+      "identifier": "clock"
+    },
+    "close": {
+      "codepoint": 57395,
+      "fontFamily": "Mi",
+      "identifier": "close"
+    },
+    "cloud": {
+      "codepoint": 57396,
+      "fontFamily": "Mi",
+      "identifier": "cloud"
+    },
+    "cloud-download": {
+      "codepoint": 57397,
+      "fontFamily": "Mi",
+      "identifier": "cloudDownload"
+    },
+    "cloud-upload": {
+      "codepoint": 57398,
+      "fontFamily": "Mi",
+      "identifier": "cloudUpload"
+    },
+    "cloudy": {
+      "codepoint": 57399,
+      "fontFamily": "Mi",
+      "identifier": "cloudy"
+    },
+    "comment": {
+      "codepoint": 57400,
+      "fontFamily": "Mi",
+      "identifier": "comment"
+    },
+    "compass": {
+      "codepoint": 57401,
+      "fontFamily": "Mi",
+      "identifier": "compass"
+    },
+    "computer": {
+      "codepoint": 57402,
+      "fontFamily": "Mi",
+      "identifier": "computer"
+    },
+    "copy": {
+      "codepoint": 57403,
+      "fontFamily": "Mi",
+      "identifier": "copy"
+    },
+    "credit-card": {
+      "codepoint": 57404,
+      "fontFamily": "Mi",
+      "identifier": "creditCard"
+    },
+    "database": {
+      "codepoint": 57405,
+      "fontFamily": "Mi",
+      "identifier": "database"
+    },
+    "delete": {
+      "codepoint": 57406,
+      "fontFamily": "Mi",
+      "identifier": "delete"
+    },
+    "delete-alt": {
+      "codepoint": 57407,
+      "fontFamily": "Mi",
+      "identifier": "deleteAlt"
+    },
+    "document": {
+      "codepoint": 57408,
+      "fontFamily": "Mi",
+      "identifier": "document"
+    },
+    "document-add": {
+      "codepoint": 57409,
+      "fontFamily": "Mi",
+      "identifier": "documentAdd"
+    },
+    "document-check": {
+      "codepoint": 57410,
+      "fontFamily": "Mi",
+      "identifier": "documentCheck"
+    },
+    "document-download": {
+      "codepoint": 57411,
+      "fontFamily": "Mi",
+      "identifier": "documentDownload"
+    },
+    "document-empty": {
+      "codepoint": 57412,
+      "fontFamily": "Mi",
+      "identifier": "documentEmpty"
+    },
+    "document-remove": {
+      "codepoint": 57413,
+      "fontFamily": "Mi",
+      "identifier": "documentRemove"
+    },
+    "download": {
+      "codepoint": 57414,
+      "fontFamily": "Mi",
+      "identifier": "download"
+    },
+    "drag": {
+      "codepoint": 57415,
+      "fontFamily": "Mi",
+      "identifier": "drag"
+    },
+    "drop": {
+      "codepoint": 57416,
+      "fontFamily": "Mi",
+      "identifier": "drop"
+    },
+    "edit": {
+      "codepoint": 57417,
+      "fontFamily": "Mi",
+      "identifier": "edit"
+    },
+    "edit-alt": {
+      "codepoint": 57418,
+      "fontFamily": "Mi",
+      "identifier": "editAlt"
+    },
+    "email": {
+      "codepoint": 57419,
+      "fontFamily": "Mi",
+      "identifier": "email"
+    },
+    "enter": {
+      "codepoint": 57420,
+      "fontFamily": "Mi",
+      "identifier": "enter"
+    },
+    "expand": {
+      "codepoint": 57421,
+      "fontFamily": "Mi",
+      "identifier": "expand"
+    },
+    "export": {
+      "codepoint": 57422,
+      "fontFamily": "Mi",
+      "identifier": "export_"
+    },
+    "external-link": {
+      "codepoint": 57423,
+      "fontFamily": "Mi",
+      "identifier": "externalLink"
+    },
+    "eye": {
+      "codepoint": 57424,
+      "fontFamily": "Mi",
+      "identifier": "eye"
+    },
+    "eye-off": {
+      "codepoint": 57425,
+      "fontFamily": "Mi",
+      "identifier": "eyeOff"
+    },
+    "favorite": {
+      "codepoint": 57426,
+      "fontFamily": "Mi",
+      "identifier": "favorite"
+    },
+    "filter": {
+      "codepoint": 57427,
+      "fontFamily": "Mi",
+      "identifier": "filter"
+    },
+    "filter-1": {
+      "codepoint": 57428,
+      "fontFamily": "Mi",
+      "identifier": "filter1"
+    },
+    "filter-alt": {
+      "codepoint": 57429,
+      "fontFamily": "Mi",
+      "identifier": "filterAlt"
+    },
+    "flag": {
+      "codepoint": 57430,
+      "fontFamily": "Mi",
+      "identifier": "flag"
+    },
+    "fog": {
+      "codepoint": 57431,
+      "fontFamily": "Mi",
+      "identifier": "fog"
+    },
+    "folder": {
+      "codepoint": 57432,
+      "fontFamily": "Mi",
+      "identifier": "folder"
+    },
+    "folder-add": {
+      "codepoint": 57433,
+      "fontFamily": "Mi",
+      "identifier": "folderAdd"
+    },
+    "folder-check": {
+      "codepoint": 57434,
+      "fontFamily": "Mi",
+      "identifier": "folderCheck"
+    },
+    "folder-download": {
+      "codepoint": 57435,
+      "fontFamily": "Mi",
+      "identifier": "folderDownload"
+    },
+    "folder-remove": {
+      "codepoint": 57436,
+      "fontFamily": "Mi",
+      "identifier": "folderRemove"
+    },
+    "grid": {
+      "codepoint": 57437,
+      "fontFamily": "Mi",
+      "identifier": "grid"
+    },
+    "heart": {
+      "codepoint": 57438,
+      "fontFamily": "Mi",
+      "identifier": "heart"
+    },
+    "home": {
+      "codepoint": 57439,
+      "fontFamily": "Mi",
+      "identifier": "home"
+    },
+    "image": {
+      "codepoint": 57440,
+      "fontFamily": "Mi",
+      "identifier": "image"
+    },
+    "inbox": {
+      "codepoint": 57441,
+      "fontFamily": "Mi",
+      "identifier": "inbox"
+    },
+    "italic": {
+      "codepoint": 57442,
+      "fontFamily": "Mi",
+      "identifier": "italic"
+    },
+    "laptop": {
+      "codepoint": 57443,
+      "fontFamily": "Mi",
+      "identifier": "laptop"
+    },
+    "layers": {
+      "codepoint": 57444,
+      "fontFamily": "Mi",
+      "identifier": "layers"
+    },
+    "layout": {
+      "codepoint": 57445,
+      "fontFamily": "Mi",
+      "identifier": "layout"
+    },
+    "link": {
+      "codepoint": 57446,
+      "fontFamily": "Mi",
+      "identifier": "link"
+    },
+    "link-alt": {
+      "codepoint": 57447,
+      "fontFamily": "Mi",
+      "identifier": "linkAlt"
+    },
+    "list": {
+      "codepoint": 57448,
+      "fontFamily": "Mi",
+      "identifier": "list"
+    },
+    "location": {
+      "codepoint": 57449,
+      "fontFamily": "Mi",
+      "identifier": "location"
+    },
+    "lock": {
+      "codepoint": 57450,
+      "fontFamily": "Mi",
+      "identifier": "lock"
+    },
+    "log-in": {
+      "codepoint": 57451,
+      "fontFamily": "Mi",
+      "identifier": "logIn"
+    },
+    "log-out": {
+      "codepoint": 57452,
+      "fontFamily": "Mi",
+      "identifier": "logOut"
+    },
+    "map": {
+      "codepoint": 57453,
+      "fontFamily": "Mi",
+      "identifier": "map"
+    },
+    "megaphone": {
+      "codepoint": 57454,
+      "fontFamily": "Mi",
+      "identifier": "megaphone"
+    },
+    "menu": {
+      "codepoint": 57455,
+      "fontFamily": "Mi",
+      "identifier": "menu"
+    },
+    "message": {
+      "codepoint": 57456,
+      "fontFamily": "Mi",
+      "identifier": "message"
+    },
+    "message-alt": {
+      "codepoint": 57457,
+      "fontFamily": "Mi",
+      "identifier": "messageAlt"
+    },
+    "minimize": {
+      "codepoint": 57458,
+      "fontFamily": "Mi",
+      "identifier": "minimize"
+    },
+    "mobile": {
+      "codepoint": 57459,
+      "fontFamily": "Mi",
+      "identifier": "mobile"
+    },
+    "moon": {
+      "codepoint": 57460,
+      "fontFamily": "Mi",
+      "identifier": "moon"
+    },
+    "next": {
+      "codepoint": 57461,
+      "fontFamily": "Mi",
+      "identifier": "next"
+    },
+    "notification": {
+      "codepoint": 57462,
+      "fontFamily": "Mi",
+      "identifier": "notification"
+    },
+    "notification-off": {
+      "codepoint": 57463,
+      "fontFamily": "Mi",
+      "identifier": "notificationOff"
+    },
+    "options-horizontal": {
+      "codepoint": 57464,
+      "fontFamily": "Mi",
+      "identifier": "optionsHorizontal"
+    },
+    "options-vertical": {
+      "codepoint": 57465,
+      "fontFamily": "Mi",
+      "identifier": "optionsVertical"
+    },
+    "pause": {
+      "codepoint": 57466,
+      "fontFamily": "Mi",
+      "identifier": "pause"
+    },
+    "pen": {
+      "codepoint": 57467,
+      "fontFamily": "Mi",
+      "identifier": "pen"
+    },
+    "percentage": {
+      "codepoint": 57468,
+      "fontFamily": "Mi",
+      "identifier": "percentage"
+    },
+    "pin": {
+      "codepoint": 57469,
+      "fontFamily": "Mi",
+      "identifier": "pin"
+    },
+    "play": {
+      "codepoint": 57470,
+      "fontFamily": "Mi",
+      "identifier": "play"
+    },
+    "previous": {
+      "codepoint": 57471,
+      "fontFamily": "Mi",
+      "identifier": "previous"
+    },
+    "print": {
+      "codepoint": 57472,
+      "fontFamily": "Mi",
+      "identifier": "print"
+    },
+    "rain": {
+      "codepoint": 57473,
+      "fontFamily": "Mi",
+      "identifier": "rain"
+    },
+    "refresh": {
+      "codepoint": 57474,
+      "fontFamily": "Mi",
+      "identifier": "refresh"
+    },
+    "remove": {
+      "codepoint": 57475,
+      "fontFamily": "Mi",
+      "identifier": "remove"
+    },
+    "reorder": {
+      "codepoint": 57476,
+      "fontFamily": "Mi",
+      "identifier": "reorder"
+    },
+    "reorder-alt": {
+      "codepoint": 57477,
+      "fontFamily": "Mi",
+      "identifier": "reorderAlt"
+    },
+    "repeat": {
+      "codepoint": 57478,
+      "fontFamily": "Mi",
+      "identifier": "repeat"
+    },
+    "save": {
+      "codepoint": 57479,
+      "fontFamily": "Mi",
+      "identifier": "save"
+    },
+    "search": {
+      "codepoint": 57480,
+      "fontFamily": "Mi",
+      "identifier": "search"
+    },
+    "select": {
+      "codepoint": 57481,
+      "fontFamily": "Mi",
+      "identifier": "select"
+    },
+    "send": {
+      "codepoint": 57482,
+      "fontFamily": "Mi",
+      "identifier": "send"
+    },
+    "settings": {
+      "codepoint": 57483,
+      "fontFamily": "Mi",
+      "identifier": "settings"
+    },
+    "share": {
+      "codepoint": 57484,
+      "fontFamily": "Mi",
+      "identifier": "share"
+    },
+    "shopping-cart": {
+      "codepoint": 57485,
+      "fontFamily": "Mi",
+      "identifier": "shoppingCart"
+    },
+    "shopping-cart-add": {
+      "codepoint": 57486,
+      "fontFamily": "Mi",
+      "identifier": "shoppingCartAdd"
+    },
+    "shuffle": {
+      "codepoint": 57487,
+      "fontFamily": "Mi",
+      "identifier": "shuffle"
+    },
+    "snow": {
+      "codepoint": 57488,
+      "fontFamily": "Mi",
+      "identifier": "snow"
+    },
+    "snowflake": {
+      "codepoint": 57489,
+      "fontFamily": "Mi",
+      "identifier": "snowflake"
+    },
+    "sort": {
+      "codepoint": 57490,
+      "fontFamily": "Mi",
+      "identifier": "sort"
+    },
+    "speakers": {
+      "codepoint": 57491,
+      "fontFamily": "Mi",
+      "identifier": "speakers"
+    },
+    "stop": {
+      "codepoint": 57492,
+      "fontFamily": "Mi",
+      "identifier": "stop"
+    },
+    "storm": {
+      "codepoint": 57493,
+      "fontFamily": "Mi",
+      "identifier": "storm"
+    },
+    "strikethrough": {
+      "codepoint": 57494,
+      "fontFamily": "Mi",
+      "identifier": "strikethrough"
+    },
+    "sun": {
+      "codepoint": 57495,
+      "fontFamily": "Mi",
+      "identifier": "sun"
+    },
+    "sunrise": {
+      "codepoint": 57496,
+      "fontFamily": "Mi",
+      "identifier": "sunrise"
+    },
+    "sunrise-alt": {
+      "codepoint": 57497,
+      "fontFamily": "Mi",
+      "identifier": "sunriseAlt"
+    },
+    "sunset": {
+      "codepoint": 57498,
+      "fontFamily": "Mi",
+      "identifier": "sunset"
+    },
+    "switch": {
+      "codepoint": 57499,
+      "fontFamily": "Mi",
+      "identifier": "switch_"
+    },
+    "table": {
+      "codepoint": 57500,
+      "fontFamily": "Mi",
+      "identifier": "table"
+    },
+    "tablet": {
+      "codepoint": 57501,
+      "fontFamily": "Mi",
+      "identifier": "tablet"
+    },
+    "tag": {
+      "codepoint": 57502,
+      "fontFamily": "Mi",
+      "identifier": "tag"
+    },
+    "temperature": {
+      "codepoint": 57503,
+      "fontFamily": "Mi",
+      "identifier": "temperature"
+    },
+    "text": {
+      "codepoint": 57504,
+      "fontFamily": "Mi",
+      "identifier": "text"
+    },
+    "three-rows": {
+      "codepoint": 57505,
+      "fontFamily": "Mi",
+      "identifier": "threeRows"
+    },
+    "two-columns": {
+      "codepoint": 57506,
+      "fontFamily": "Mi",
+      "identifier": "twoColumns"
+    },
+    "two-rows": {
+      "codepoint": 57507,
+      "fontFamily": "Mi",
+      "identifier": "twoRows"
+    },
+    "underline": {
+      "codepoint": 57508,
+      "fontFamily": "Mi",
+      "identifier": "underline"
+    },
+    "undo": {
+      "codepoint": 57509,
+      "fontFamily": "Mi",
+      "identifier": "undo"
+    },
+    "unlock": {
+      "codepoint": 57510,
+      "fontFamily": "Mi",
+      "identifier": "unlock"
+    },
+    "user": {
+      "codepoint": 57511,
+      "fontFamily": "Mi",
+      "identifier": "user"
+    },
+    "user-add": {
+      "codepoint": 57512,
+      "fontFamily": "Mi",
+      "identifier": "userAdd"
+    },
+    "user-check": {
+      "codepoint": 57513,
+      "fontFamily": "Mi",
+      "identifier": "userCheck"
+    },
+    "user-remove": {
+      "codepoint": 57514,
+      "fontFamily": "Mi",
+      "identifier": "userRemove"
+    },
+    "users": {
+      "codepoint": 57515,
+      "fontFamily": "Mi",
+      "identifier": "users"
+    },
+    "volume-off": {
+      "codepoint": 57516,
+      "fontFamily": "Mi",
+      "identifier": "volumeOff"
+    },
+    "volume-up": {
+      "codepoint": 57517,
+      "fontFamily": "Mi",
+      "identifier": "volumeUp"
+    },
+    "warning": {
+      "codepoint": 57518,
+      "fontFamily": "Mi",
+      "identifier": "warning"
+    },
+    "webcam": {
+      "codepoint": 57519,
+      "fontFamily": "Mi",
+      "identifier": "webcam"
+    },
+    "wind": {
+      "codepoint": 57520,
+      "fontFamily": "Mi",
+      "identifier": "wind"
+    },
+    "window": {
+      "codepoint": 57521,
+      "fontFamily": "Mi",
+      "identifier": "window"
+    },
+    "zoom-in": {
+      "codepoint": 57522,
+      "fontFamily": "Mi",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 57523,
+      "fontFamily": "Mi",
+      "identifier": "zoomOut"
+    }
+  }
+}

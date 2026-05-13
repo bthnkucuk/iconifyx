@@ -1,0 +1,28 @@
+name: iconifyx_arcticons
+description: >-
+  Arcticons icons from Iconify, packaged for Flutter (15099 icons, CC BY-SA 4.0 license).
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+
+flutter:
+  uses-material-design: false
+  fonts:
+    - family: Arcticons
+      fonts:
+        - asset: assets/fonts/Arcticons.ttf
+    - family: Arcticons_2
+      fonts:
+        - asset: assets/fonts/Arcticons_2.ttf
+    - family: Arcticons_3
+      fonts:
+        - asset: assets/fonts/Arcticons_3.ttf

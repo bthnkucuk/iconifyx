@@ -1,0 +1,475 @@
+{
+  "schemaVersion": 1,
+  "prefix": "topcoat",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": null,
+  "subPackage": "iconifyx_topcoat",
+  "info": {
+    "name": "TopCoat Icons",
+    "author": {
+      "name": "TopCoat",
+      "url": "https://github.com/topcoat/icons"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/topcoat/icons/blob/master/LICENSE"
+    },
+    "total": 89
+  },
+  "fonts": [
+    {
+      "family": "Topcoat",
+      "nextCodepoint": 57433,
+      "iconCount": 89
+    }
+  ],
+  "icons": {
+    "alert": {
+      "codepoint": 57344,
+      "fontFamily": "Topcoat",
+      "identifier": "alert"
+    },
+    "arrow-down": {
+      "codepoint": 57345,
+      "fontFamily": "Topcoat",
+      "identifier": "arrowDown"
+    },
+    "arrow-left": {
+      "codepoint": 57346,
+      "fontFamily": "Topcoat",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57347,
+      "fontFamily": "Topcoat",
+      "identifier": "arrowRight"
+    },
+    "arrow-up": {
+      "codepoint": 57348,
+      "fontFamily": "Topcoat",
+      "identifier": "arrowUp"
+    },
+    "attachment": {
+      "codepoint": 57349,
+      "fontFamily": "Topcoat",
+      "identifier": "attachment"
+    },
+    "audio": {
+      "codepoint": 57350,
+      "fontFamily": "Topcoat",
+      "identifier": "audio"
+    },
+    "audiooff": {
+      "codepoint": 57351,
+      "fontFamily": "Topcoat",
+      "identifier": "audiooff"
+    },
+    "back": {
+      "codepoint": 57352,
+      "fontFamily": "Topcoat",
+      "identifier": "back"
+    },
+    "back-light": {
+      "codepoint": 57353,
+      "fontFamily": "Topcoat",
+      "identifier": "backLight"
+    },
+    "behance": {
+      "codepoint": 57354,
+      "fontFamily": "Topcoat",
+      "identifier": "behance"
+    },
+    "bookmark": {
+      "codepoint": 57355,
+      "fontFamily": "Topcoat",
+      "identifier": "bookmark"
+    },
+    "brush": {
+      "codepoint": 57356,
+      "fontFamily": "Topcoat",
+      "identifier": "brush"
+    },
+    "build": {
+      "codepoint": 57357,
+      "fontFamily": "Topcoat",
+      "identifier": "build"
+    },
+    "calendar": {
+      "codepoint": 57358,
+      "fontFamily": "Topcoat",
+      "identifier": "calendar"
+    },
+    "call": {
+      "codepoint": 57359,
+      "fontFamily": "Topcoat",
+      "identifier": "call"
+    },
+    "camera": {
+      "codepoint": 57360,
+      "fontFamily": "Topcoat",
+      "identifier": "camera"
+    },
+    "cancel": {
+      "codepoint": 57361,
+      "fontFamily": "Topcoat",
+      "identifier": "cancel"
+    },
+    "cart": {
+      "codepoint": 57362,
+      "fontFamily": "Topcoat",
+      "identifier": "cart"
+    },
+    "chat": {
+      "codepoint": 57363,
+      "fontFamily": "Topcoat",
+      "identifier": "chat"
+    },
+    "checkmark": {
+      "codepoint": 57364,
+      "fontFamily": "Topcoat",
+      "identifier": "checkmark"
+    },
+    "circle": {
+      "codepoint": 57365,
+      "fontFamily": "Topcoat",
+      "identifier": "circle"
+    },
+    "circle-outline": {
+      "codepoint": 57366,
+      "fontFamily": "Topcoat",
+      "identifier": "circleOutline"
+    },
+    "cloud": {
+      "codepoint": 57367,
+      "fontFamily": "Topcoat",
+      "identifier": "cloud"
+    },
+    "collapse": {
+      "codepoint": 57368,
+      "fontFamily": "Topcoat",
+      "identifier": "collapse"
+    },
+    "comment": {
+      "codepoint": 57369,
+      "fontFamily": "Topcoat",
+      "identifier": "comment"
+    },
+    "computer": {
+      "codepoint": 57370,
+      "fontFamily": "Topcoat",
+      "identifier": "computer"
+    },
+    "delete": {
+      "codepoint": 57371,
+      "fontFamily": "Topcoat",
+      "identifier": "delete"
+    },
+    "download": {
+      "codepoint": 57372,
+      "fontFamily": "Topcoat",
+      "identifier": "download"
+    },
+    "dribble": {
+      "codepoint": 57373,
+      "fontFamily": "Topcoat",
+      "identifier": "dribble"
+    },
+    "email": {
+      "codepoint": 57374,
+      "fontFamily": "Topcoat",
+      "identifier": "email"
+    },
+    "error": {
+      "codepoint": 57375,
+      "fontFamily": "Topcoat",
+      "identifier": "error"
+    },
+    "expand": {
+      "codepoint": 57376,
+      "fontFamily": "Topcoat",
+      "identifier": "expand"
+    },
+    "facebook": {
+      "codepoint": 57377,
+      "fontFamily": "Topcoat",
+      "identifier": "facebook"
+    },
+    "favorite": {
+      "codepoint": 57378,
+      "fontFamily": "Topcoat",
+      "identifier": "favorite"
+    },
+    "feedback": {
+      "codepoint": 57379,
+      "fontFamily": "Topcoat",
+      "identifier": "feedback"
+    },
+    "flickr": {
+      "codepoint": 57380,
+      "fontFamily": "Topcoat",
+      "identifier": "flickr"
+    },
+    "folder": {
+      "codepoint": 57381,
+      "fontFamily": "Topcoat",
+      "identifier": "folder"
+    },
+    "github": {
+      "codepoint": 57382,
+      "fontFamily": "Topcoat",
+      "identifier": "github"
+    },
+    "github-text": {
+      "codepoint": 57383,
+      "fontFamily": "Topcoat",
+      "identifier": "githubText"
+    },
+    "googleplus": {
+      "codepoint": 57384,
+      "fontFamily": "Topcoat",
+      "identifier": "googleplus"
+    },
+    "group": {
+      "codepoint": 57385,
+      "fontFamily": "Topcoat",
+      "identifier": "group"
+    },
+    "home": {
+      "codepoint": 57386,
+      "fontFamily": "Topcoat",
+      "identifier": "home"
+    },
+    "image": {
+      "codepoint": 57387,
+      "fontFamily": "Topcoat",
+      "identifier": "image"
+    },
+    "image-outline": {
+      "codepoint": 57388,
+      "fontFamily": "Topcoat",
+      "identifier": "imageOutline"
+    },
+    "instagram": {
+      "codepoint": 57389,
+      "fontFamily": "Topcoat",
+      "identifier": "instagram"
+    },
+    "like": {
+      "codepoint": 57390,
+      "fontFamily": "Topcoat",
+      "identifier": "like"
+    },
+    "linkedin": {
+      "codepoint": 57391,
+      "fontFamily": "Topcoat",
+      "identifier": "linkedin"
+    },
+    "listview": {
+      "codepoint": 57392,
+      "fontFamily": "Topcoat",
+      "identifier": "listview"
+    },
+    "location": {
+      "codepoint": 57393,
+      "fontFamily": "Topcoat",
+      "identifier": "location"
+    },
+    "lock": {
+      "codepoint": 57394,
+      "fontFamily": "Topcoat",
+      "identifier": "lock"
+    },
+    "minus": {
+      "codepoint": 57395,
+      "fontFamily": "Topcoat",
+      "identifier": "minus"
+    },
+    "next": {
+      "codepoint": 57396,
+      "fontFamily": "Topcoat",
+      "identifier": "next"
+    },
+    "next-light": {
+      "codepoint": 57397,
+      "fontFamily": "Topcoat",
+      "identifier": "nextLight"
+    },
+    "page": {
+      "codepoint": 57398,
+      "fontFamily": "Topcoat",
+      "identifier": "page"
+    },
+    "path": {
+      "codepoint": 57399,
+      "fontFamily": "Topcoat",
+      "identifier": "path"
+    },
+    "pencil": {
+      "codepoint": 57400,
+      "fontFamily": "Topcoat",
+      "identifier": "pencil"
+    },
+    "phone": {
+      "codepoint": 57401,
+      "fontFamily": "Topcoat",
+      "identifier": "phone"
+    },
+    "picasa": {
+      "codepoint": 57402,
+      "fontFamily": "Topcoat",
+      "identifier": "picasa"
+    },
+    "pinterest": {
+      "codepoint": 57403,
+      "fontFamily": "Topcoat",
+      "identifier": "pinterest"
+    },
+    "plugin": {
+      "codepoint": 57404,
+      "fontFamily": "Topcoat",
+      "identifier": "plugin"
+    },
+    "plus": {
+      "codepoint": 57405,
+      "fontFamily": "Topcoat",
+      "identifier": "plus"
+    },
+    "preview": {
+      "codepoint": 57406,
+      "fontFamily": "Topcoat",
+      "identifier": "preview"
+    },
+    "print": {
+      "codepoint": 57407,
+      "fontFamily": "Topcoat",
+      "identifier": "print"
+    },
+    "question": {
+      "codepoint": 57408,
+      "fontFamily": "Topcoat",
+      "identifier": "question"
+    },
+    "rectangle": {
+      "codepoint": 57409,
+      "fontFamily": "Topcoat",
+      "identifier": "rectangle"
+    },
+    "rectangle-outline": {
+      "codepoint": 57410,
+      "fontFamily": "Topcoat",
+      "identifier": "rectangleOutline"
+    },
+    "refresh": {
+      "codepoint": 57411,
+      "fontFamily": "Topcoat",
+      "identifier": "refresh"
+    },
+    "retweet": {
+      "codepoint": 57412,
+      "fontFamily": "Topcoat",
+      "identifier": "retweet"
+    },
+    "roundedrectangle": {
+      "codepoint": 57413,
+      "fontFamily": "Topcoat",
+      "identifier": "roundedrectangle"
+    },
+    "roundedrectangle-outline": {
+      "codepoint": 57414,
+      "fontFamily": "Topcoat",
+      "identifier": "roundedrectangleOutline"
+    },
+    "rss": {
+      "codepoint": 57415,
+      "fontFamily": "Topcoat",
+      "identifier": "rss"
+    },
+    "save": {
+      "codepoint": 57416,
+      "fontFamily": "Topcoat",
+      "identifier": "save"
+    },
+    "search": {
+      "codepoint": 57417,
+      "fontFamily": "Topcoat",
+      "identifier": "search"
+    },
+    "settings": {
+      "codepoint": 57418,
+      "fontFamily": "Topcoat",
+      "identifier": "settings"
+    },
+    "share": {
+      "codepoint": 57419,
+      "fontFamily": "Topcoat",
+      "identifier": "share"
+    },
+    "tablet": {
+      "codepoint": 57420,
+      "fontFamily": "Topcoat",
+      "identifier": "tablet"
+    },
+    "text": {
+      "codepoint": 57421,
+      "fontFamily": "Topcoat",
+      "identifier": "text"
+    },
+    "tileview": {
+      "codepoint": 57422,
+      "fontFamily": "Topcoat",
+      "identifier": "tileview"
+    },
+    "tumblr": {
+      "codepoint": 57423,
+      "fontFamily": "Topcoat",
+      "identifier": "tumblr"
+    },
+    "twitter": {
+      "codepoint": 57424,
+      "fontFamily": "Topcoat",
+      "identifier": "twitter"
+    },
+    "unlock": {
+      "codepoint": 57425,
+      "fontFamily": "Topcoat",
+      "identifier": "unlock"
+    },
+    "user": {
+      "codepoint": 57426,
+      "fontFamily": "Topcoat",
+      "identifier": "user"
+    },
+    "videocamera": {
+      "codepoint": 57427,
+      "fontFamily": "Topcoat",
+      "identifier": "videocamera"
+    },
+    "view": {
+      "codepoint": 57428,
+      "fontFamily": "Topcoat",
+      "identifier": "view"
+    },
+    "vimeo": {
+      "codepoint": 57429,
+      "fontFamily": "Topcoat",
+      "identifier": "vimeo"
+    },
+    "w3c": {
+      "codepoint": 57430,
+      "fontFamily": "Topcoat",
+      "identifier": "w3c"
+    },
+    "wifi": {
+      "codepoint": 57431,
+      "fontFamily": "Topcoat",
+      "identifier": "wifi"
+    },
+    "wordpress": {
+      "codepoint": 57432,
+      "fontFamily": "Topcoat",
+      "identifier": "wordpress"
+    }
+  }
+}

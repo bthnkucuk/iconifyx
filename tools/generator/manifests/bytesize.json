@@ -1,0 +1,540 @@
+{
+  "schemaVersion": 1,
+  "prefix": "bytesize",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 16px / 32px",
+  "subPackage": "iconifyx_bytesize",
+  "info": {
+    "name": "Bytesize Icons",
+    "author": {
+      "name": "Dan Klammer",
+      "url": "https://github.com/danklammer/bytesize-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md"
+    },
+    "total": 102
+  },
+  "fonts": [
+    {
+      "family": "Bytesize",
+      "nextCodepoint": 57446,
+      "iconCount": 102
+    }
+  ],
+  "icons": {
+    "activity": {
+      "codepoint": 57344,
+      "fontFamily": "Bytesize",
+      "identifier": "activity"
+    },
+    "alert": {
+      "codepoint": 57345,
+      "fontFamily": "Bytesize",
+      "identifier": "alert"
+    },
+    "archive": {
+      "codepoint": 57346,
+      "fontFamily": "Bytesize",
+      "identifier": "archive"
+    },
+    "arrow-bottom": {
+      "codepoint": 57347,
+      "fontFamily": "Bytesize",
+      "identifier": "arrowBottom"
+    },
+    "arrow-left": {
+      "codepoint": 57348,
+      "fontFamily": "Bytesize",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57349,
+      "fontFamily": "Bytesize",
+      "identifier": "arrowRight"
+    },
+    "arrow-top": {
+      "codepoint": 57350,
+      "fontFamily": "Bytesize",
+      "identifier": "arrowTop"
+    },
+    "backwards": {
+      "codepoint": 57351,
+      "fontFamily": "Bytesize",
+      "identifier": "backwards"
+    },
+    "bag": {
+      "codepoint": 57352,
+      "fontFamily": "Bytesize",
+      "identifier": "bag"
+    },
+    "ban": {
+      "codepoint": 57353,
+      "fontFamily": "Bytesize",
+      "identifier": "ban"
+    },
+    "bell": {
+      "codepoint": 57354,
+      "fontFamily": "Bytesize",
+      "identifier": "bell"
+    },
+    "book": {
+      "codepoint": 57355,
+      "fontFamily": "Bytesize",
+      "identifier": "book"
+    },
+    "bookmark": {
+      "codepoint": 57356,
+      "fontFamily": "Bytesize",
+      "identifier": "bookmark"
+    },
+    "calendar": {
+      "codepoint": 57357,
+      "fontFamily": "Bytesize",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57358,
+      "fontFamily": "Bytesize",
+      "identifier": "camera"
+    },
+    "caret-bottom": {
+      "codepoint": 57359,
+      "fontFamily": "Bytesize",
+      "identifier": "caretBottom"
+    },
+    "caret-left": {
+      "codepoint": 57360,
+      "fontFamily": "Bytesize",
+      "identifier": "caretLeft"
+    },
+    "caret-right": {
+      "codepoint": 57361,
+      "fontFamily": "Bytesize",
+      "identifier": "caretRight"
+    },
+    "caret-top": {
+      "codepoint": 57362,
+      "fontFamily": "Bytesize",
+      "identifier": "caretTop"
+    },
+    "cart": {
+      "codepoint": 57363,
+      "fontFamily": "Bytesize",
+      "identifier": "cart"
+    },
+    "checkmark": {
+      "codepoint": 57364,
+      "fontFamily": "Bytesize",
+      "identifier": "checkmark"
+    },
+    "chevron-bottom": {
+      "codepoint": 57365,
+      "fontFamily": "Bytesize",
+      "identifier": "chevronBottom"
+    },
+    "chevron-left": {
+      "codepoint": 57366,
+      "fontFamily": "Bytesize",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57367,
+      "fontFamily": "Bytesize",
+      "identifier": "chevronRight"
+    },
+    "chevron-top": {
+      "codepoint": 57368,
+      "fontFamily": "Bytesize",
+      "identifier": "chevronTop"
+    },
+    "clipboard": {
+      "codepoint": 57369,
+      "fontFamily": "Bytesize",
+      "identifier": "clipboard"
+    },
+    "clock": {
+      "codepoint": 57370,
+      "fontFamily": "Bytesize",
+      "identifier": "clock"
+    },
+    "close": {
+      "codepoint": 57371,
+      "fontFamily": "Bytesize",
+      "identifier": "close"
+    },
+    "code": {
+      "codepoint": 57372,
+      "fontFamily": "Bytesize",
+      "identifier": "code"
+    },
+    "compose": {
+      "codepoint": 57373,
+      "fontFamily": "Bytesize",
+      "identifier": "compose"
+    },
+    "creditcard": {
+      "codepoint": 57374,
+      "fontFamily": "Bytesize",
+      "identifier": "creditcard"
+    },
+    "desktop": {
+      "codepoint": 57375,
+      "fontFamily": "Bytesize",
+      "identifier": "desktop"
+    },
+    "download": {
+      "codepoint": 57376,
+      "fontFamily": "Bytesize",
+      "identifier": "download"
+    },
+    "edit": {
+      "codepoint": 57377,
+      "fontFamily": "Bytesize",
+      "identifier": "edit"
+    },
+    "eject": {
+      "codepoint": 57378,
+      "fontFamily": "Bytesize",
+      "identifier": "eject"
+    },
+    "ellipsis-horizontal": {
+      "codepoint": 57379,
+      "fontFamily": "Bytesize",
+      "identifier": "ellipsisHorizontal"
+    },
+    "ellipsis-vertical": {
+      "codepoint": 57380,
+      "fontFamily": "Bytesize",
+      "identifier": "ellipsisVertical"
+    },
+    "end": {
+      "codepoint": 57381,
+      "fontFamily": "Bytesize",
+      "identifier": "end"
+    },
+    "export": {
+      "codepoint": 57382,
+      "fontFamily": "Bytesize",
+      "identifier": "export_"
+    },
+    "external": {
+      "codepoint": 57383,
+      "fontFamily": "Bytesize",
+      "identifier": "external_"
+    },
+    "eye": {
+      "codepoint": 57384,
+      "fontFamily": "Bytesize",
+      "identifier": "eye"
+    },
+    "feed": {
+      "codepoint": 57385,
+      "fontFamily": "Bytesize",
+      "identifier": "feed"
+    },
+    "file": {
+      "codepoint": 57386,
+      "fontFamily": "Bytesize",
+      "identifier": "file"
+    },
+    "filter": {
+      "codepoint": 57387,
+      "fontFamily": "Bytesize",
+      "identifier": "filter"
+    },
+    "fire": {
+      "codepoint": 57388,
+      "fontFamily": "Bytesize",
+      "identifier": "fire"
+    },
+    "flag": {
+      "codepoint": 57389,
+      "fontFamily": "Bytesize",
+      "identifier": "flag"
+    },
+    "folder": {
+      "codepoint": 57390,
+      "fontFamily": "Bytesize",
+      "identifier": "folder"
+    },
+    "folder-open": {
+      "codepoint": 57391,
+      "fontFamily": "Bytesize",
+      "identifier": "folderOpen"
+    },
+    "forwards": {
+      "codepoint": 57392,
+      "fontFamily": "Bytesize",
+      "identifier": "forwards"
+    },
+    "fullscreen": {
+      "codepoint": 57393,
+      "fontFamily": "Bytesize",
+      "identifier": "fullscreen"
+    },
+    "fullscreen-exit": {
+      "codepoint": 57394,
+      "fontFamily": "Bytesize",
+      "identifier": "fullscreenExit"
+    },
+    "gift": {
+      "codepoint": 57395,
+      "fontFamily": "Bytesize",
+      "identifier": "gift"
+    },
+    "github": {
+      "codepoint": 57396,
+      "fontFamily": "Bytesize",
+      "identifier": "github"
+    },
+    "heart": {
+      "codepoint": 57397,
+      "fontFamily": "Bytesize",
+      "identifier": "heart"
+    },
+    "home": {
+      "codepoint": 57398,
+      "fontFamily": "Bytesize",
+      "identifier": "home"
+    },
+    "import": {
+      "codepoint": 57399,
+      "fontFamily": "Bytesize",
+      "identifier": "import_"
+    },
+    "inbox": {
+      "codepoint": 57400,
+      "fontFamily": "Bytesize",
+      "identifier": "inbox"
+    },
+    "info": {
+      "codepoint": 57401,
+      "fontFamily": "Bytesize",
+      "identifier": "info"
+    },
+    "lightning": {
+      "codepoint": 57402,
+      "fontFamily": "Bytesize",
+      "identifier": "lightning"
+    },
+    "link": {
+      "codepoint": 57403,
+      "fontFamily": "Bytesize",
+      "identifier": "link"
+    },
+    "location": {
+      "codepoint": 57404,
+      "fontFamily": "Bytesize",
+      "identifier": "location"
+    },
+    "lock": {
+      "codepoint": 57405,
+      "fontFamily": "Bytesize",
+      "identifier": "lock"
+    },
+    "mail": {
+      "codepoint": 57406,
+      "fontFamily": "Bytesize",
+      "identifier": "mail"
+    },
+    "menu": {
+      "codepoint": 57407,
+      "fontFamily": "Bytesize",
+      "identifier": "menu"
+    },
+    "message": {
+      "codepoint": 57408,
+      "fontFamily": "Bytesize",
+      "identifier": "message"
+    },
+    "microphone": {
+      "codepoint": 57409,
+      "fontFamily": "Bytesize",
+      "identifier": "microphone"
+    },
+    "minus": {
+      "codepoint": 57410,
+      "fontFamily": "Bytesize",
+      "identifier": "minus"
+    },
+    "mobile": {
+      "codepoint": 57411,
+      "fontFamily": "Bytesize",
+      "identifier": "mobile"
+    },
+    "moon": {
+      "codepoint": 57412,
+      "fontFamily": "Bytesize",
+      "identifier": "moon"
+    },
+    "move": {
+      "codepoint": 57413,
+      "fontFamily": "Bytesize",
+      "identifier": "move"
+    },
+    "music": {
+      "codepoint": 57414,
+      "fontFamily": "Bytesize",
+      "identifier": "music"
+    },
+    "mute": {
+      "codepoint": 57415,
+      "fontFamily": "Bytesize",
+      "identifier": "mute"
+    },
+    "options": {
+      "codepoint": 57416,
+      "fontFamily": "Bytesize",
+      "identifier": "options"
+    },
+    "paperclip": {
+      "codepoint": 57417,
+      "fontFamily": "Bytesize",
+      "identifier": "paperclip"
+    },
+    "pause": {
+      "codepoint": 57418,
+      "fontFamily": "Bytesize",
+      "identifier": "pause"
+    },
+    "photo": {
+      "codepoint": 57419,
+      "fontFamily": "Bytesize",
+      "identifier": "photo"
+    },
+    "play": {
+      "codepoint": 57420,
+      "fontFamily": "Bytesize",
+      "identifier": "play"
+    },
+    "plus": {
+      "codepoint": 57421,
+      "fontFamily": "Bytesize",
+      "identifier": "plus"
+    },
+    "portfolio": {
+      "codepoint": 57422,
+      "fontFamily": "Bytesize",
+      "identifier": "portfolio"
+    },
+    "print": {
+      "codepoint": 57423,
+      "fontFamily": "Bytesize",
+      "identifier": "print"
+    },
+    "reload": {
+      "codepoint": 57424,
+      "fontFamily": "Bytesize",
+      "identifier": "reload"
+    },
+    "reply": {
+      "codepoint": 57425,
+      "fontFamily": "Bytesize",
+      "identifier": "reply"
+    },
+    "search": {
+      "codepoint": 57426,
+      "fontFamily": "Bytesize",
+      "identifier": "search"
+    },
+    "send": {
+      "codepoint": 57427,
+      "fontFamily": "Bytesize",
+      "identifier": "send"
+    },
+    "settings": {
+      "codepoint": 57428,
+      "fontFamily": "Bytesize",
+      "identifier": "settings"
+    },
+    "sign-in": {
+      "codepoint": 57429,
+      "fontFamily": "Bytesize",
+      "identifier": "signIn"
+    },
+    "sign-out": {
+      "codepoint": 57430,
+      "fontFamily": "Bytesize",
+      "identifier": "signOut"
+    },
+    "star": {
+      "codepoint": 57431,
+      "fontFamily": "Bytesize",
+      "identifier": "star"
+    },
+    "start": {
+      "codepoint": 57432,
+      "fontFamily": "Bytesize",
+      "identifier": "start"
+    },
+    "tag": {
+      "codepoint": 57433,
+      "fontFamily": "Bytesize",
+      "identifier": "tag"
+    },
+    "telephone": {
+      "codepoint": 57434,
+      "fontFamily": "Bytesize",
+      "identifier": "telephone"
+    },
+    "trash": {
+      "codepoint": 57435,
+      "fontFamily": "Bytesize",
+      "identifier": "trash"
+    },
+    "twitter": {
+      "codepoint": 57436,
+      "fontFamily": "Bytesize",
+      "identifier": "twitter"
+    },
+    "unlock": {
+      "codepoint": 57437,
+      "fontFamily": "Bytesize",
+      "identifier": "unlock"
+    },
+    "upload": {
+      "codepoint": 57438,
+      "fontFamily": "Bytesize",
+      "identifier": "upload"
+    },
+    "user": {
+      "codepoint": 57439,
+      "fontFamily": "Bytesize",
+      "identifier": "user"
+    },
+    "video": {
+      "codepoint": 57440,
+      "fontFamily": "Bytesize",
+      "identifier": "video"
+    },
+    "volume": {
+      "codepoint": 57441,
+      "fontFamily": "Bytesize",
+      "identifier": "volume"
+    },
+    "work": {
+      "codepoint": 57442,
+      "fontFamily": "Bytesize",
+      "identifier": "work"
+    },
+    "zoom-in": {
+      "codepoint": 57443,
+      "fontFamily": "Bytesize",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 57444,
+      "fontFamily": "Bytesize",
+      "identifier": "zoomOut"
+    },
+    "zoom-reset": {
+      "codepoint": 57445,
+      "fontFamily": "Bytesize",
+      "identifier": "zoomReset"
+    }
+  }
+}

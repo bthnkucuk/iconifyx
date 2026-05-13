@@ -1,0 +1,530 @@
+{
+  "schemaVersion": 1,
+  "prefix": "flat-ui",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": null,
+  "subPackage": "iconifyx_flat_ui",
+  "info": {
+    "name": "Flat UI Icons",
+    "author": {
+      "name": "Designmodo, Inc.",
+      "url": "https://github.com/designmodo/Flat-UI"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/designmodo/Flat-UI/blob/master/LICENSE"
+    },
+    "total": 100
+  },
+  "fonts": [
+    {
+      "family": "FlatUi",
+      "nextCodepoint": 57444,
+      "iconCount": 100
+    }
+  ],
+  "icons": {
+    "android": {
+      "codepoint": 57344,
+      "fontFamily": "FlatUi",
+      "identifier": "android"
+    },
+    "android1": {
+      "codepoint": 57345,
+      "fontFamily": "FlatUi",
+      "identifier": "android1"
+    },
+    "app-store": {
+      "codepoint": 57346,
+      "fontFamily": "FlatUi",
+      "identifier": "appStore"
+    },
+    "arrow": {
+      "codepoint": 57347,
+      "fontFamily": "FlatUi",
+      "identifier": "arrow"
+    },
+    "art": {
+      "codepoint": 57348,
+      "fontFamily": "FlatUi",
+      "identifier": "art"
+    },
+    "bag": {
+      "codepoint": 57349,
+      "fontFamily": "FlatUi",
+      "identifier": "bag"
+    },
+    "basket": {
+      "codepoint": 57350,
+      "fontFamily": "FlatUi",
+      "identifier": "basket"
+    },
+    "book": {
+      "codepoint": 57351,
+      "fontFamily": "FlatUi",
+      "identifier": "book"
+    },
+    "bowling": {
+      "codepoint": 57352,
+      "fontFamily": "FlatUi",
+      "identifier": "bowling"
+    },
+    "box": {
+      "codepoint": 57353,
+      "fontFamily": "FlatUi",
+      "identifier": "box"
+    },
+    "brush": {
+      "codepoint": 57354,
+      "fontFamily": "FlatUi",
+      "identifier": "brush"
+    },
+    "building": {
+      "codepoint": 57355,
+      "fontFamily": "FlatUi",
+      "identifier": "building"
+    },
+    "bulb": {
+      "codepoint": 57356,
+      "fontFamily": "FlatUi",
+      "identifier": "bulb"
+    },
+    "button": {
+      "codepoint": 57357,
+      "fontFamily": "FlatUi",
+      "identifier": "button"
+    },
+    "calculator": {
+      "codepoint": 57358,
+      "fontFamily": "FlatUi",
+      "identifier": "calculator"
+    },
+    "calendar": {
+      "codepoint": 57359,
+      "fontFamily": "FlatUi",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57360,
+      "fontFamily": "FlatUi",
+      "identifier": "camera"
+    },
+    "car": {
+      "codepoint": 57361,
+      "fontFamily": "FlatUi",
+      "identifier": "car"
+    },
+    "card": {
+      "codepoint": 57362,
+      "fontFamily": "FlatUi",
+      "identifier": "card"
+    },
+    "chair": {
+      "codepoint": 57363,
+      "fontFamily": "FlatUi",
+      "identifier": "chair"
+    },
+    "chat": {
+      "codepoint": 57364,
+      "fontFamily": "FlatUi",
+      "identifier": "chat"
+    },
+    "clipboard": {
+      "codepoint": 57365,
+      "fontFamily": "FlatUi",
+      "identifier": "clipboard"
+    },
+    "clocks": {
+      "codepoint": 57366,
+      "fontFamily": "FlatUi",
+      "identifier": "clocks"
+    },
+    "compas": {
+      "codepoint": 57367,
+      "fontFamily": "FlatUi",
+      "identifier": "compas"
+    },
+    "converse": {
+      "codepoint": 57368,
+      "fontFamily": "FlatUi",
+      "identifier": "converse"
+    },
+    "cup": {
+      "codepoint": 57369,
+      "fontFamily": "FlatUi",
+      "identifier": "cup"
+    },
+    "dj": {
+      "codepoint": 57370,
+      "fontFamily": "FlatUi",
+      "identifier": "dj"
+    },
+    "donut": {
+      "codepoint": 57371,
+      "fontFamily": "FlatUi",
+      "identifier": "donut"
+    },
+    "dude": {
+      "codepoint": 57372,
+      "fontFamily": "FlatUi",
+      "identifier": "dude"
+    },
+    "dynamite": {
+      "codepoint": 57373,
+      "fontFamily": "FlatUi",
+      "identifier": "dynamite"
+    },
+    "earth": {
+      "codepoint": 57374,
+      "fontFamily": "FlatUi",
+      "identifier": "earth"
+    },
+    "egg": {
+      "codepoint": 57375,
+      "fontFamily": "FlatUi",
+      "identifier": "egg"
+    },
+    "eye": {
+      "codepoint": 57376,
+      "fontFamily": "FlatUi",
+      "identifier": "eye"
+    },
+    "file": {
+      "codepoint": 57377,
+      "fontFamily": "FlatUi",
+      "identifier": "file"
+    },
+    "fit": {
+      "codepoint": 57378,
+      "fontFamily": "FlatUi",
+      "identifier": "fit"
+    },
+    "flag": {
+      "codepoint": 57379,
+      "fontFamily": "FlatUi",
+      "identifier": "flag"
+    },
+    "flask": {
+      "codepoint": 57380,
+      "fontFamily": "FlatUi",
+      "identifier": "flask"
+    },
+    "flower": {
+      "codepoint": 57381,
+      "fontFamily": "FlatUi",
+      "identifier": "flower"
+    },
+    "games": {
+      "codepoint": 57382,
+      "fontFamily": "FlatUi",
+      "identifier": "games"
+    },
+    "gift-box": {
+      "codepoint": 57383,
+      "fontFamily": "FlatUi",
+      "identifier": "giftBox"
+    },
+    "girl": {
+      "codepoint": 57384,
+      "fontFamily": "FlatUi",
+      "identifier": "girl"
+    },
+    "goal": {
+      "codepoint": 57385,
+      "fontFamily": "FlatUi",
+      "identifier": "goal"
+    },
+    "google": {
+      "codepoint": 57386,
+      "fontFamily": "FlatUi",
+      "identifier": "google"
+    },
+    "graph": {
+      "codepoint": 57387,
+      "fontFamily": "FlatUi",
+      "identifier": "graph"
+    },
+    "icecream": {
+      "codepoint": 57388,
+      "fontFamily": "FlatUi",
+      "identifier": "icecream"
+    },
+    "imac": {
+      "codepoint": 57389,
+      "fontFamily": "FlatUi",
+      "identifier": "imac"
+    },
+    "ipad": {
+      "codepoint": 57390,
+      "fontFamily": "FlatUi",
+      "identifier": "ipad"
+    },
+    "iphone": {
+      "codepoint": 57391,
+      "fontFamily": "FlatUi",
+      "identifier": "iphone"
+    },
+    "key": {
+      "codepoint": 57392,
+      "fontFamily": "FlatUi",
+      "identifier": "key"
+    },
+    "lettersymbol": {
+      "codepoint": 57393,
+      "fontFamily": "FlatUi",
+      "identifier": "lettersymbol"
+    },
+    "lock": {
+      "codepoint": 57394,
+      "fontFamily": "FlatUi",
+      "identifier": "lock"
+    },
+    "loop": {
+      "codepoint": 57395,
+      "fontFamily": "FlatUi",
+      "identifier": "loop"
+    },
+    "macbook": {
+      "codepoint": 57396,
+      "fontFamily": "FlatUi",
+      "identifier": "macbook"
+    },
+    "magic": {
+      "codepoint": 57397,
+      "fontFamily": "FlatUi",
+      "identifier": "magic"
+    },
+    "magicmouse": {
+      "codepoint": 57398,
+      "fontFamily": "FlatUi",
+      "identifier": "magicmouse"
+    },
+    "mail": {
+      "codepoint": 57399,
+      "fontFamily": "FlatUi",
+      "identifier": "mail"
+    },
+    "map": {
+      "codepoint": 57400,
+      "fontFamily": "FlatUi",
+      "identifier": "map"
+    },
+    "medal": {
+      "codepoint": 57401,
+      "fontFamily": "FlatUi",
+      "identifier": "medal"
+    },
+    "mic": {
+      "codepoint": 57402,
+      "fontFamily": "FlatUi",
+      "identifier": "mic"
+    },
+    "money": {
+      "codepoint": 57403,
+      "fontFamily": "FlatUi",
+      "identifier": "money"
+    },
+    "mortarboard": {
+      "codepoint": 57404,
+      "fontFamily": "FlatUi",
+      "identifier": "mortarboard"
+    },
+    "mountain": {
+      "codepoint": 57405,
+      "fontFamily": "FlatUi",
+      "identifier": "mountain"
+    },
+    "news": {
+      "codepoint": 57406,
+      "fontFamily": "FlatUi",
+      "identifier": "news"
+    },
+    "paper-bag": {
+      "codepoint": 57407,
+      "fontFamily": "FlatUi",
+      "identifier": "paperBag"
+    },
+    "pc": {
+      "codepoint": 57408,
+      "fontFamily": "FlatUi",
+      "identifier": "pc"
+    },
+    "pencil": {
+      "codepoint": 57409,
+      "fontFamily": "FlatUi",
+      "identifier": "pencil"
+    },
+    "pencils": {
+      "codepoint": 57410,
+      "fontFamily": "FlatUi",
+      "identifier": "pencils"
+    },
+    "picture": {
+      "codepoint": 57411,
+      "fontFamily": "FlatUi",
+      "identifier": "picture"
+    },
+    "pig": {
+      "codepoint": 57412,
+      "fontFamily": "FlatUi",
+      "identifier": "pig"
+    },
+    "pills": {
+      "codepoint": 57413,
+      "fontFamily": "FlatUi",
+      "identifier": "pills"
+    },
+    "play": {
+      "codepoint": 57414,
+      "fontFamily": "FlatUi",
+      "identifier": "play"
+    },
+    "printer": {
+      "codepoint": 57415,
+      "fontFamily": "FlatUi",
+      "identifier": "printer"
+    },
+    "responsive": {
+      "codepoint": 57416,
+      "fontFamily": "FlatUi",
+      "identifier": "responsive"
+    },
+    "retina": {
+      "codepoint": 57417,
+      "fontFamily": "FlatUi",
+      "identifier": "retina"
+    },
+    "ring": {
+      "codepoint": 57418,
+      "fontFamily": "FlatUi",
+      "identifier": "ring"
+    },
+    "rocket": {
+      "codepoint": 57419,
+      "fontFamily": "FlatUi",
+      "identifier": "rocket"
+    },
+    "rss": {
+      "codepoint": 57420,
+      "fontFamily": "FlatUi",
+      "identifier": "rss"
+    },
+    "safe": {
+      "codepoint": 57421,
+      "fontFamily": "FlatUi",
+      "identifier": "safe"
+    },
+    "save": {
+      "codepoint": 57422,
+      "fontFamily": "FlatUi",
+      "identifier": "save"
+    },
+    "search": {
+      "codepoint": 57423,
+      "fontFamily": "FlatUi",
+      "identifier": "search"
+    },
+    "settings": {
+      "codepoint": 57424,
+      "fontFamily": "FlatUi",
+      "identifier": "settings"
+    },
+    "shield": {
+      "codepoint": 57425,
+      "fontFamily": "FlatUi",
+      "identifier": "shield"
+    },
+    "shirt": {
+      "codepoint": 57426,
+      "fontFamily": "FlatUi",
+      "identifier": "shirt"
+    },
+    "skateboard": {
+      "codepoint": 57427,
+      "fontFamily": "FlatUi",
+      "identifier": "skateboard"
+    },
+    "spray": {
+      "codepoint": 57428,
+      "fontFamily": "FlatUi",
+      "identifier": "spray"
+    },
+    "storage": {
+      "codepoint": 57429,
+      "fontFamily": "FlatUi",
+      "identifier": "storage"
+    },
+    "support": {
+      "codepoint": 57430,
+      "fontFamily": "FlatUi",
+      "identifier": "support"
+    },
+    "ticket": {
+      "codepoint": 57431,
+      "fontFamily": "FlatUi",
+      "identifier": "ticket"
+    },
+    "toilet-paper": {
+      "codepoint": 57432,
+      "fontFamily": "FlatUi",
+      "identifier": "toiletPaper"
+    },
+    "touch": {
+      "codepoint": 57433,
+      "fontFamily": "FlatUi",
+      "identifier": "touch"
+    },
+    "trash": {
+      "codepoint": 57434,
+      "fontFamily": "FlatUi",
+      "identifier": "trash"
+    },
+    "trip-bag": {
+      "codepoint": 57435,
+      "fontFamily": "FlatUi",
+      "identifier": "tripBag"
+    },
+    "trunk": {
+      "codepoint": 57436,
+      "fontFamily": "FlatUi",
+      "identifier": "trunk"
+    },
+    "ubmrella": {
+      "codepoint": 57437,
+      "fontFamily": "FlatUi",
+      "identifier": "ubmrella"
+    },
+    "user-interface": {
+      "codepoint": 57438,
+      "fontFamily": "FlatUi",
+      "identifier": "userInterface"
+    },
+    "video": {
+      "codepoint": 57439,
+      "fontFamily": "FlatUi",
+      "identifier": "video"
+    },
+    "weather": {
+      "codepoint": 57440,
+      "fontFamily": "FlatUi",
+      "identifier": "weather"
+    },
+    "wi-fi": {
+      "codepoint": 57441,
+      "fontFamily": "FlatUi",
+      "identifier": "wiFi"
+    },
+    "wine": {
+      "codepoint": 57442,
+      "fontFamily": "FlatUi",
+      "identifier": "wine"
+    },
+    "yinyang": {
+      "codepoint": 57443,
+      "fontFamily": "FlatUi",
+      "identifier": "yinyang"
+    }
+  }
+}

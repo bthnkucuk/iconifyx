@@ -1,0 +1,5030 @@
+{
+  "schemaVersion": 1,
+  "prefix": "streamline-plump-color",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Multicolor",
+  "subPackage": "iconifyx_streamline_plump_color",
+  "info": {
+    "name": "Plump color icons",
+    "author": {
+      "name": "Streamline",
+      "url": "https://github.com/webalys-hq/streamline-vectors"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 1000
+  },
+  "fonts": [
+    {
+      "family": "StreamlinePlumpColor",
+      "nextCodepoint": 58344,
+      "iconCount": 1000
+    }
+  ],
+  "icons": {
+    "3d-coordinate-axis": {
+      "codepoint": 57344,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "n3dCoordinateAxis"
+    },
+    "3d-coordinate-axis-flat": {
+      "codepoint": 57345,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "n3dCoordinateAxisFlat"
+    },
+    "add-bell-notification": {
+      "codepoint": 57346,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "addBellNotification"
+    },
+    "add-bell-notification-flat": {
+      "codepoint": 57347,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "addBellNotificationFlat"
+    },
+    "add-layer-2": {
+      "codepoint": 57348,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "addLayer2"
+    },
+    "add-layer-2-flat": {
+      "codepoint": 57349,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "addLayer2Flat"
+    },
+    "ai-edit-robot": {
+      "codepoint": 57350,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "aiEditRobot"
+    },
+    "ai-edit-robot-flat": {
+      "codepoint": 57351,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "aiEditRobotFlat"
+    },
+    "ai-generate-portrait-image-spark": {
+      "codepoint": 57352,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "aiGeneratePortraitImageSpark"
+    },
+    "ai-generate-portrait-image-spark-flat": {
+      "codepoint": 57353,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "aiGeneratePortraitImageSparkFlat"
+    },
+    "ai-generate-variation-spark": {
+      "codepoint": 57354,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "aiGenerateVariationSpark"
+    },
+    "ai-generate-variation-spark-flat": {
+      "codepoint": 57355,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "aiGenerateVariationSparkFlat"
+    },
+    "ai-generate-voice-robot-2": {
+      "codepoint": 57356,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "aiGenerateVoiceRobot2"
+    },
+    "ai-generate-voice-robot-2-flat": {
+      "codepoint": 57357,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "aiGenerateVoiceRobot2Flat"
+    },
+    "ai-science-robot": {
+      "codepoint": 57358,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "aiScienceRobot"
+    },
+    "ai-science-robot-flat": {
+      "codepoint": 57359,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "aiScienceRobotFlat"
+    },
+    "ai-technology-spark": {
+      "codepoint": 57360,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "aiTechnologySpark"
+    },
+    "ai-technology-spark-flat": {
+      "codepoint": 57361,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "aiTechnologySparkFlat"
+    },
+    "airplane-disabled": {
+      "codepoint": 57362,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "airplaneDisabled"
+    },
+    "airplane-disabled-flat": {
+      "codepoint": 57363,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "airplaneDisabledFlat"
+    },
+    "airplane-enabled": {
+      "codepoint": 57364,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "airplaneEnabled"
+    },
+    "airplane-enabled-flat": {
+      "codepoint": 57365,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "airplaneEnabledFlat"
+    },
+    "airport-security": {
+      "codepoint": 57366,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "airportSecurity"
+    },
+    "airport-security-flat": {
+      "codepoint": 57367,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "airportSecurityFlat"
+    },
+    "alien": {
+      "codepoint": 57368,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "alien"
+    },
+    "alien-flat": {
+      "codepoint": 57369,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "alienFlat"
+    },
+    "align-object-left": {
+      "codepoint": 57370,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "alignObjectLeft"
+    },
+    "align-object-left-flat": {
+      "codepoint": 57371,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "alignObjectLeftFlat"
+    },
+    "align-right": {
+      "codepoint": 57372,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "alignRight"
+    },
+    "align-right-flat": {
+      "codepoint": 57373,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "alignRightFlat"
+    },
+    "align-selection": {
+      "codepoint": 57374,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "alignSelection"
+    },
+    "align-selection-flat": {
+      "codepoint": 57375,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "alignSelectionFlat"
+    },
+    "ampersand": {
+      "codepoint": 57376,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ampersand"
+    },
+    "ampersand-flat": {
+      "codepoint": 57377,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ampersandFlat"
+    },
+    "announcement-megaphone": {
+      "codepoint": 57378,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "announcementMegaphone"
+    },
+    "announcement-megaphone-flat": {
+      "codepoint": 57379,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "announcementMegaphoneFlat"
+    },
+    "application-add": {
+      "codepoint": 57380,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "applicationAdd"
+    },
+    "application-add-flat": {
+      "codepoint": 57381,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "applicationAddFlat"
+    },
+    "archive-box": {
+      "codepoint": 57382,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "archiveBox"
+    },
+    "archive-box-flat": {
+      "codepoint": 57383,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "archiveBoxFlat"
+    },
+    "arrow-cursor-1": {
+      "codepoint": 57384,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowCursor1"
+    },
+    "arrow-cursor-1-flat": {
+      "codepoint": 57385,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowCursor1Flat"
+    },
+    "arrow-cursor-move": {
+      "codepoint": 57386,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowCursorMove"
+    },
+    "arrow-cursor-move-flat": {
+      "codepoint": 57387,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowCursorMoveFlat"
+    },
+    "arrow-curvy-both-direction-2": {
+      "codepoint": 57388,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowCurvyBothDirection2"
+    },
+    "arrow-curvy-both-direction-2-flat": {
+      "codepoint": 57389,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowCurvyBothDirection2Flat"
+    },
+    "arrow-diagonal-2": {
+      "codepoint": 57390,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowDiagonal2"
+    },
+    "arrow-diagonal-2-flat": {
+      "codepoint": 57391,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowDiagonal2Flat"
+    },
+    "arrow-expand": {
+      "codepoint": 57392,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowExpand"
+    },
+    "arrow-expand-flat": {
+      "codepoint": 57393,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowExpandFlat"
+    },
+    "arrow-right-circle-1": {
+      "codepoint": 57394,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowRightCircle1"
+    },
+    "arrow-right-circle-1-flat": {
+      "codepoint": 57395,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowRightCircle1Flat"
+    },
+    "arrow-right-circle-2": {
+      "codepoint": 57396,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowRightCircle2"
+    },
+    "arrow-right-circle-2-flat": {
+      "codepoint": 57397,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowRightCircle2Flat"
+    },
+    "arrow-roadmap": {
+      "codepoint": 57398,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowRoadmap"
+    },
+    "arrow-roadmap-flat": {
+      "codepoint": 57399,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowRoadmapFlat"
+    },
+    "arrow-transfer-horizontal-square": {
+      "codepoint": 57400,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowTransferHorizontalSquare"
+    },
+    "arrow-transfer-horizontal-square-flat": {
+      "codepoint": 57401,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowTransferHorizontalSquareFlat"
+    },
+    "arrow-turn-down-large": {
+      "codepoint": 57402,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowTurnDownLarge"
+    },
+    "arrow-turn-down-large-flat": {
+      "codepoint": 57403,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowTurnDownLargeFlat"
+    },
+    "arrow-up-4": {
+      "codepoint": 57404,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowUp4"
+    },
+    "arrow-up-4-flat": {
+      "codepoint": 57405,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowUp4Flat"
+    },
+    "ascending-alphabetical-order": {
+      "codepoint": 57406,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ascendingAlphabeticalOrder"
+    },
+    "ascending-alphabetical-order-flat": {
+      "codepoint": 57407,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ascendingAlphabeticalOrderFlat"
+    },
+    "atom": {
+      "codepoint": 57408,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "atom"
+    },
+    "atom-flat": {
+      "codepoint": 57409,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "atomFlat"
+    },
+    "attribution": {
+      "codepoint": 57410,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "attribution"
+    },
+    "attribution-flat": {
+      "codepoint": 57411,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "attributionFlat"
+    },
+    "auto-flash": {
+      "codepoint": 57412,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "autoFlash"
+    },
+    "auto-flash-flat": {
+      "codepoint": 57413,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "autoFlashFlat"
+    },
+    "bag": {
+      "codepoint": 57414,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bag"
+    },
+    "bag-flat": {
+      "codepoint": 57415,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bagFlat"
+    },
+    "bag-suitcase-4": {
+      "codepoint": 57416,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bagSuitcase4"
+    },
+    "bag-suitcase-4-flat": {
+      "codepoint": 57417,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bagSuitcase4Flat"
+    },
+    "ball": {
+      "codepoint": 57418,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ball"
+    },
+    "ball-flat": {
+      "codepoint": 57419,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ballFlat"
+    },
+    "balloon": {
+      "codepoint": 57420,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "balloon"
+    },
+    "balloon-flat": {
+      "codepoint": 57421,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "balloonFlat"
+    },
+    "battery-charging": {
+      "codepoint": 57422,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "batteryCharging"
+    },
+    "battery-charging-flat": {
+      "codepoint": 57423,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "batteryChargingFlat"
+    },
+    "battery-low-3": {
+      "codepoint": 57424,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "batteryLow3"
+    },
+    "battery-low-3-flat": {
+      "codepoint": 57425,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "batteryLow3Flat"
+    },
+    "beach": {
+      "codepoint": 57426,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "beach"
+    },
+    "beach-flat": {
+      "codepoint": 57427,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "beachFlat"
+    },
+    "beer-pitch": {
+      "codepoint": 57428,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "beerPitch"
+    },
+    "beer-pitch-flat": {
+      "codepoint": 57429,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "beerPitchFlat"
+    },
+    "bell": {
+      "codepoint": 57430,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bell"
+    },
+    "bell-flat": {
+      "codepoint": 57431,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bellFlat"
+    },
+    "bicycle-bike": {
+      "codepoint": 57432,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bicycleBike"
+    },
+    "bicycle-bike-flat": {
+      "codepoint": 57433,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bicycleBikeFlat"
+    },
+    "binoculars": {
+      "codepoint": 57434,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "binoculars"
+    },
+    "binoculars-flat": {
+      "codepoint": 57435,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "binocularsFlat"
+    },
+    "bitcoin-circle-1": {
+      "codepoint": 57436,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bitcoinCircle1"
+    },
+    "bitcoin-circle-1-flat": {
+      "codepoint": 57437,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bitcoinCircle1Flat"
+    },
+    "block-1": {
+      "codepoint": 57438,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "block1"
+    },
+    "block-1-flat": {
+      "codepoint": 57439,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "block1Flat"
+    },
+    "bluetooth": {
+      "codepoint": 57440,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bluetooth"
+    },
+    "bluetooth-flat": {
+      "codepoint": 57441,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bluetoothFlat"
+    },
+    "bomb": {
+      "codepoint": 57442,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bomb"
+    },
+    "bomb-flat": {
+      "codepoint": 57443,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bombFlat"
+    },
+    "book-1": {
+      "codepoint": 57444,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "book1"
+    },
+    "book-1-flat": {
+      "codepoint": 57445,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "book1Flat"
+    },
+    "bookmark": {
+      "codepoint": 57446,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bookmark"
+    },
+    "bookmark-flat": {
+      "codepoint": 57447,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bookmarkFlat"
+    },
+    "border-frame": {
+      "codepoint": 57448,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "borderFrame"
+    },
+    "border-frame-flat": {
+      "codepoint": 57449,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "borderFrameFlat"
+    },
+    "bowl-chop-stick": {
+      "codepoint": 57450,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bowlChopStick"
+    },
+    "bowl-chop-stick-flat": {
+      "codepoint": 57451,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bowlChopStickFlat"
+    },
+    "box-waterproof": {
+      "codepoint": 57452,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "boxWaterproof"
+    },
+    "box-waterproof-flat": {
+      "codepoint": 57453,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "boxWaterproofFlat"
+    },
+    "braille-blind": {
+      "codepoint": 57454,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "brailleBlind"
+    },
+    "braille-blind-flat": {
+      "codepoint": 57455,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "brailleBlindFlat"
+    },
+    "broken-link-2": {
+      "codepoint": 57456,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "brokenLink2"
+    },
+    "broken-link-2-flat": {
+      "codepoint": 57457,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "brokenLink2Flat"
+    },
+    "browser-code-1": {
+      "codepoint": 57458,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "browserCode1"
+    },
+    "browser-code-1-flat": {
+      "codepoint": 57459,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "browserCode1Flat"
+    },
+    "browser-website-1": {
+      "codepoint": 57460,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "browserWebsite1"
+    },
+    "browser-website-1-flat": {
+      "codepoint": 57461,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "browserWebsite1Flat"
+    },
+    "bug": {
+      "codepoint": 57462,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bug"
+    },
+    "bug-flat": {
+      "codepoint": 57463,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bugFlat"
+    },
+    "bug-virus-browser": {
+      "codepoint": 57464,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bugVirusBrowser"
+    },
+    "bug-virus-browser-flat": {
+      "codepoint": 57465,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bugVirusBrowserFlat"
+    },
+    "building-office": {
+      "codepoint": 57466,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "buildingOffice"
+    },
+    "building-office-flat": {
+      "codepoint": 57467,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "buildingOfficeFlat"
+    },
+    "burger": {
+      "codepoint": 57468,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "burger"
+    },
+    "burger-flat": {
+      "codepoint": 57469,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "burgerFlat"
+    },
+    "bus": {
+      "codepoint": 57470,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bus"
+    },
+    "bus-flat": {
+      "codepoint": 57471,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "busFlat"
+    },
+    "business-progress-bar-2": {
+      "codepoint": 57472,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "businessProgressBar2"
+    },
+    "business-progress-bar-2-flat": {
+      "codepoint": 57473,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "businessProgressBar2Flat"
+    },
+    "button-play-circle": {
+      "codepoint": 57474,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "buttonPlayCircle"
+    },
+    "button-play-circle-flat": {
+      "codepoint": 57475,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "buttonPlayCircleFlat"
+    },
+    "button-power-1": {
+      "codepoint": 57476,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "buttonPower1"
+    },
+    "button-power-1-flat": {
+      "codepoint": 57477,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "buttonPower1Flat"
+    },
+    "cable-split": {
+      "codepoint": 57478,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cableSplit"
+    },
+    "cable-split-flat": {
+      "codepoint": 57479,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cableSplitFlat"
+    },
+    "cake-slice": {
+      "codepoint": 57480,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cakeSlice"
+    },
+    "cake-slice-flat": {
+      "codepoint": 57481,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cakeSliceFlat"
+    },
+    "calculator-1": {
+      "codepoint": 57482,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "calculator1"
+    },
+    "calculator-1-flat": {
+      "codepoint": 57483,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "calculator1Flat"
+    },
+    "calendar-add": {
+      "codepoint": 57484,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "calendarAdd"
+    },
+    "calendar-add-flat": {
+      "codepoint": 57485,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "calendarAddFlat"
+    },
+    "calendar-check": {
+      "codepoint": 57486,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "calendarCheck"
+    },
+    "calendar-check-flat": {
+      "codepoint": 57487,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "calendarCheckFlat"
+    },
+    "calendar-heart": {
+      "codepoint": 57488,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "calendarHeart"
+    },
+    "calendar-heart-flat": {
+      "codepoint": 57489,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "calendarHeartFlat"
+    },
+    "calendar-mark": {
+      "codepoint": 57490,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "calendarMark"
+    },
+    "calendar-mark-flat": {
+      "codepoint": 57491,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "calendarMarkFlat"
+    },
+    "call-center-support-service": {
+      "codepoint": 57492,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "callCenterSupportService"
+    },
+    "call-center-support-service-flat": {
+      "codepoint": 57493,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "callCenterSupportServiceFlat"
+    },
+    "call-hang-up": {
+      "codepoint": 57494,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "callHangUp"
+    },
+    "call-hang-up-flat": {
+      "codepoint": 57495,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "callHangUpFlat"
+    },
+    "camera-1": {
+      "codepoint": 57496,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "camera1"
+    },
+    "camera-1-flat": {
+      "codepoint": 57497,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "camera1Flat"
+    },
+    "camera-video": {
+      "codepoint": 57498,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cameraVideo"
+    },
+    "camera-video-flat": {
+      "codepoint": 57499,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cameraVideoFlat"
+    },
+    "candle": {
+      "codepoint": 57500,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "candle"
+    },
+    "candle-flat": {
+      "codepoint": 57501,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "candleFlat"
+    },
+    "cao-dai": {
+      "codepoint": 57502,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "caoDai"
+    },
+    "cao-dai-flat": {
+      "codepoint": 57503,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "caoDaiFlat"
+    },
+    "card-game-diamond": {
+      "codepoint": 57504,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cardGameDiamond"
+    },
+    "card-game-diamond-flat": {
+      "codepoint": 57505,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cardGameDiamondFlat"
+    },
+    "change-background-transparent": {
+      "codepoint": 57506,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "changeBackgroundTransparent"
+    },
+    "change-background-transparent-flat": {
+      "codepoint": 57507,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "changeBackgroundTransparentFlat"
+    },
+    "charging": {
+      "codepoint": 57508,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "charging"
+    },
+    "charging-flat": {
+      "codepoint": 57509,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chargingFlat"
+    },
+    "chat-bubble-oval-notification": {
+      "codepoint": 57510,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chatBubbleOvalNotification"
+    },
+    "chat-bubble-oval-notification-flat": {
+      "codepoint": 57511,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chatBubbleOvalNotificationFlat"
+    },
+    "chat-bubble-oval-smiley-1": {
+      "codepoint": 57512,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chatBubbleOvalSmiley1"
+    },
+    "chat-bubble-oval-smiley-1-flat": {
+      "codepoint": 57513,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chatBubbleOvalSmiley1Flat"
+    },
+    "chat-bubble-square-warning": {
+      "codepoint": 57514,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chatBubbleSquareWarning"
+    },
+    "chat-bubble-square-warning-flat": {
+      "codepoint": 57515,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chatBubbleSquareWarningFlat"
+    },
+    "chat-bubble-text-square": {
+      "codepoint": 57516,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chatBubbleTextSquare"
+    },
+    "chat-bubble-text-square-flat": {
+      "codepoint": 57517,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chatBubbleTextSquareFlat"
+    },
+    "chat-two-bubbles-oval": {
+      "codepoint": 57518,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chatTwoBubblesOval"
+    },
+    "chat-two-bubbles-oval-flat": {
+      "codepoint": 57519,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chatTwoBubblesOvalFlat"
+    },
+    "check-thick": {
+      "codepoint": 57520,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "checkThick"
+    },
+    "check-thick-flat": {
+      "codepoint": 57521,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "checkThickFlat"
+    },
+    "cheese": {
+      "codepoint": 57522,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cheese"
+    },
+    "cheese-flat": {
+      "codepoint": 57523,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cheeseFlat"
+    },
+    "chef-toque-hat": {
+      "codepoint": 57524,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chefToqueHat"
+    },
+    "chef-toque-hat-flat": {
+      "codepoint": 57525,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chefToqueHatFlat"
+    },
+    "cherries": {
+      "codepoint": 57526,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cherries"
+    },
+    "cherries-flat": {
+      "codepoint": 57527,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cherriesFlat"
+    },
+    "chess-pawn": {
+      "codepoint": 57528,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chessPawn"
+    },
+    "chess-pawn-flat": {
+      "codepoint": 57529,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "chessPawnFlat"
+    },
+    "circle-and-square-shape": {
+      "codepoint": 57530,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "circleAndSquareShape"
+    },
+    "circle-and-square-shape-flat": {
+      "codepoint": 57531,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "circleAndSquareShapeFlat"
+    },
+    "circle-clock": {
+      "codepoint": 57532,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "circleClock"
+    },
+    "circle-clock-flat": {
+      "codepoint": 57533,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "circleClockFlat"
+    },
+    "class-lesson": {
+      "codepoint": 57534,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "classLesson"
+    },
+    "class-lesson-flat": {
+      "codepoint": 57535,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "classLessonFlat"
+    },
+    "clean-broom-wipe": {
+      "codepoint": 57536,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cleanBroomWipe"
+    },
+    "clean-broom-wipe-flat": {
+      "codepoint": 57537,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cleanBroomWipeFlat"
+    },
+    "cleaning-room-woman": {
+      "codepoint": 57538,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cleaningRoomWoman"
+    },
+    "cleaning-room-woman-flat": {
+      "codepoint": 57539,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cleaningRoomWomanFlat"
+    },
+    "cloud-data-transfer": {
+      "codepoint": 57540,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cloudDataTransfer"
+    },
+    "cloud-data-transfer-flat": {
+      "codepoint": 57541,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cloudDataTransferFlat"
+    },
+    "cloud-off": {
+      "codepoint": 57542,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cloudOff"
+    },
+    "cloud-off-flat": {
+      "codepoint": 57543,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cloudOffFlat"
+    },
+    "code-monitor-2": {
+      "codepoint": 57544,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "codeMonitor2"
+    },
+    "code-monitor-2-flat": {
+      "codepoint": 57545,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "codeMonitor2Flat"
+    },
+    "coffee-bean": {
+      "codepoint": 57546,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "coffeeBean"
+    },
+    "coffee-bean-flat": {
+      "codepoint": 57547,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "coffeeBeanFlat"
+    },
+    "coffee-mug": {
+      "codepoint": 57548,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "coffeeMug"
+    },
+    "coffee-mug-flat": {
+      "codepoint": 57549,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "coffeeMugFlat"
+    },
+    "cog": {
+      "codepoint": 57550,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cog"
+    },
+    "cog-automation": {
+      "codepoint": 57551,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cogAutomation"
+    },
+    "cog-automation-flat": {
+      "codepoint": 57552,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cogAutomationFlat"
+    },
+    "cog-flat": {
+      "codepoint": 57553,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cogFlat"
+    },
+    "color-picker": {
+      "codepoint": 57554,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "colorPicker"
+    },
+    "color-picker-flat": {
+      "codepoint": 57555,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "colorPickerFlat"
+    },
+    "command": {
+      "codepoint": 57556,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "command"
+    },
+    "command-flat": {
+      "codepoint": 57557,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "commandFlat"
+    },
+    "compass-navigator": {
+      "codepoint": 57558,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "compassNavigator"
+    },
+    "compass-navigator-flat": {
+      "codepoint": 57559,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "compassNavigatorFlat"
+    },
+    "compress-pdf": {
+      "codepoint": 57560,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "compressPdf"
+    },
+    "compress-pdf-flat": {
+      "codepoint": 57561,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "compressPdfFlat"
+    },
+    "computer-pc-desktop": {
+      "codepoint": 57562,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "computerPcDesktop"
+    },
+    "computer-pc-desktop-flat": {
+      "codepoint": 57563,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "computerPcDesktopFlat"
+    },
+    "contact-phonebook": {
+      "codepoint": 57564,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "contactPhonebook"
+    },
+    "contact-phonebook-flat": {
+      "codepoint": 57565,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "contactPhonebookFlat"
+    },
+    "content-statistic": {
+      "codepoint": 57566,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "contentStatistic"
+    },
+    "content-statistic-flat": {
+      "codepoint": 57567,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "contentStatisticFlat"
+    },
+    "controller-1": {
+      "codepoint": 57568,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "controller1"
+    },
+    "controller-1-flat": {
+      "codepoint": 57569,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "controller1Flat"
+    },
+    "convert-pdf-1": {
+      "codepoint": 57570,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "convertPdf1"
+    },
+    "convert-pdf-1-flat": {
+      "codepoint": 57571,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "convertPdf1Flat"
+    },
+    "creative-commons": {
+      "codepoint": 57572,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "creativeCommons"
+    },
+    "creative-commons-flat": {
+      "codepoint": 57573,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "creativeCommonsFlat"
+    },
+    "credit-card-5": {
+      "codepoint": 57574,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "creditCard5"
+    },
+    "credit-card-5-flat": {
+      "codepoint": 57575,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "creditCard5Flat"
+    },
+    "crop-selection": {
+      "codepoint": 57576,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cropSelection"
+    },
+    "crop-selection-flat": {
+      "codepoint": 57577,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cropSelectionFlat"
+    },
+    "customer-support-3": {
+      "codepoint": 57578,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "customerSupport3"
+    },
+    "customer-support-3-flat": {
+      "codepoint": 57579,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "customerSupport3Flat"
+    },
+    "customer-support-7": {
+      "codepoint": 57580,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "customerSupport7"
+    },
+    "customer-support-7-flat": {
+      "codepoint": 57581,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "customerSupport7Flat"
+    },
+    "cut": {
+      "codepoint": 57582,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cut"
+    },
+    "cut-flat": {
+      "codepoint": 57583,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cutFlat"
+    },
+    "cyborg-2": {
+      "codepoint": 57584,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cyborg2"
+    },
+    "cyborg-2-flat": {
+      "codepoint": 57585,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cyborg2Flat"
+    },
+    "dark-dislay-mode": {
+      "codepoint": 57586,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "darkDislayMode"
+    },
+    "dark-dislay-mode-flat": {
+      "codepoint": 57587,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "darkDislayModeFlat"
+    },
+    "dashboard-1": {
+      "codepoint": 57588,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dashboard1"
+    },
+    "dashboard-1-flat": {
+      "codepoint": 57589,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dashboard1Flat"
+    },
+    "dashboard-gauge-2": {
+      "codepoint": 57590,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dashboardGauge2"
+    },
+    "dashboard-gauge-2-flat": {
+      "codepoint": 57591,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dashboardGauge2Flat"
+    },
+    "database": {
+      "codepoint": 57592,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "database"
+    },
+    "database-flat": {
+      "codepoint": 57593,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "databaseFlat"
+    },
+    "database-server-3": {
+      "codepoint": 57594,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "databaseServer3"
+    },
+    "database-server-3-flat": {
+      "codepoint": 57595,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "databaseServer3Flat"
+    },
+    "deepfake-technology-1": {
+      "codepoint": 57596,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "deepfakeTechnology1"
+    },
+    "deepfake-technology-1-flat": {
+      "codepoint": 57597,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "deepfakeTechnology1Flat"
+    },
+    "delete-bookmark": {
+      "codepoint": 57598,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "deleteBookmark"
+    },
+    "delete-bookmark-flat": {
+      "codepoint": 57599,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "deleteBookmarkFlat"
+    },
+    "delete-keyboard": {
+      "codepoint": 57600,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "deleteKeyboard"
+    },
+    "delete-keyboard-flat": {
+      "codepoint": 57601,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "deleteKeyboardFlat"
+    },
+    "delete-row": {
+      "codepoint": 57602,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "deleteRow"
+    },
+    "delete-row-flat": {
+      "codepoint": 57603,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "deleteRowFlat"
+    },
+    "description": {
+      "codepoint": 57604,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "description"
+    },
+    "description-flat": {
+      "codepoint": 57605,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "descriptionFlat"
+    },
+    "desktop-lock": {
+      "codepoint": 57606,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "desktopLock"
+    },
+    "desktop-lock-flat": {
+      "codepoint": 57607,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "desktopLockFlat"
+    },
+    "device-database-encryption-1": {
+      "codepoint": 57608,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "deviceDatabaseEncryption1"
+    },
+    "device-database-encryption-1-flat": {
+      "codepoint": 57609,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "deviceDatabaseEncryption1Flat"
+    },
+    "dial-pad-finger-2": {
+      "codepoint": 57610,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dialPadFinger2"
+    },
+    "dial-pad-finger-2-flat": {
+      "codepoint": 57611,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dialPadFinger2Flat"
+    },
+    "diamond-1": {
+      "codepoint": 57612,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "diamond1"
+    },
+    "diamond-1-flat": {
+      "codepoint": 57613,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "diamond1Flat"
+    },
+    "dices-entertainment-gaming-dices": {
+      "codepoint": 57614,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dicesEntertainmentGamingDices"
+    },
+    "dices-entertainment-gaming-dices-flat": {
+      "codepoint": 57615,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dicesEntertainmentGamingDicesFlat"
+    },
+    "disable-alarm": {
+      "codepoint": 57616,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "disableAlarm"
+    },
+    "disable-alarm-flat": {
+      "codepoint": 57617,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "disableAlarmFlat"
+    },
+    "disable-heart": {
+      "codepoint": 57618,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "disableHeart"
+    },
+    "disable-heart-flat": {
+      "codepoint": 57619,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "disableHeartFlat"
+    },
+    "disable-protection": {
+      "codepoint": 57620,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "disableProtection"
+    },
+    "disable-protection-flat": {
+      "codepoint": 57621,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "disableProtectionFlat"
+    },
+    "discount-percent-cutout": {
+      "codepoint": 57622,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "discountPercentCutout"
+    },
+    "discount-percent-cutout-flat": {
+      "codepoint": 57623,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "discountPercentCutoutFlat"
+    },
+    "division-circle": {
+      "codepoint": 57624,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "divisionCircle"
+    },
+    "division-circle-flat": {
+      "codepoint": 57625,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "divisionCircleFlat"
+    },
+    "dna": {
+      "codepoint": 57626,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dna"
+    },
+    "dna-flat": {
+      "codepoint": 57627,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dnaFlat"
+    },
+    "document-certificate": {
+      "codepoint": 57628,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "documentCertificate"
+    },
+    "document-certificate-flat": {
+      "codepoint": 57629,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "documentCertificateFlat"
+    },
+    "dog-1": {
+      "codepoint": 57630,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dog1"
+    },
+    "dog-1-flat": {
+      "codepoint": 57631,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dog1Flat"
+    },
+    "dollar-coin": {
+      "codepoint": 57632,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dollarCoin"
+    },
+    "dollar-coin-flat": {
+      "codepoint": 57633,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dollarCoinFlat"
+    },
+    "door": {
+      "codepoint": 57634,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "door"
+    },
+    "door-flat": {
+      "codepoint": 57635,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "doorFlat"
+    },
+    "download-box-2": {
+      "codepoint": 57636,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "downloadBox2"
+    },
+    "download-box-2-flat": {
+      "codepoint": 57637,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "downloadBox2Flat"
+    },
+    "drop-down-menu": {
+      "codepoint": 57638,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dropDownMenu"
+    },
+    "drop-down-menu-flat": {
+      "codepoint": 57639,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dropDownMenuFlat"
+    },
+    "dropbox": {
+      "codepoint": 57640,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dropbox"
+    },
+    "dropbox-flat": {
+      "codepoint": 57641,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dropboxFlat"
+    },
+    "drum-stick": {
+      "codepoint": 57642,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "drumStick"
+    },
+    "drum-stick-flat": {
+      "codepoint": 57643,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "drumStickFlat"
+    },
+    "dumbell": {
+      "codepoint": 57644,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dumbell"
+    },
+    "dumbell-flat": {
+      "codepoint": 57645,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dumbellFlat"
+    },
+    "ear-speciality": {
+      "codepoint": 57646,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "earSpeciality"
+    },
+    "ear-speciality-flat": {
+      "codepoint": 57647,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "earSpecialityFlat"
+    },
+    "earpods": {
+      "codepoint": 57648,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "earpods"
+    },
+    "earpods-flat": {
+      "codepoint": 57649,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "earpodsFlat"
+    },
+    "earth-1": {
+      "codepoint": 57650,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "earth1"
+    },
+    "earth-1-flat": {
+      "codepoint": 57651,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "earth1Flat"
+    },
+    "electric-charging-station": {
+      "codepoint": 57652,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "electricChargingStation"
+    },
+    "electric-charging-station-flat": {
+      "codepoint": 57653,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "electricChargingStationFlat"
+    },
+    "electric-cord-1": {
+      "codepoint": 57654,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "electricCord1"
+    },
+    "electric-cord-1-flat": {
+      "codepoint": 57655,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "electricCord1Flat"
+    },
+    "email-attachment-document": {
+      "codepoint": 57656,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "emailAttachmentDocument"
+    },
+    "email-attachment-document-flat": {
+      "codepoint": 57657,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "emailAttachmentDocumentFlat"
+    },
+    "empty-clipboard": {
+      "codepoint": 57658,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "emptyClipboard"
+    },
+    "empty-clipboard-flat": {
+      "codepoint": 57659,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "emptyClipboardFlat"
+    },
+    "end-point-branches": {
+      "codepoint": 57660,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "endPointBranches"
+    },
+    "end-point-branches-flat": {
+      "codepoint": 57661,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "endPointBranchesFlat"
+    },
+    "end-point-diamond": {
+      "codepoint": 57662,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "endPointDiamond"
+    },
+    "end-point-diamond-flat": {
+      "codepoint": 57663,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "endPointDiamondFlat"
+    },
+    "eraser": {
+      "codepoint": 57664,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "eraser"
+    },
+    "eraser-flat": {
+      "codepoint": 57665,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "eraserFlat"
+    },
+    "erlenmeyer-flask": {
+      "codepoint": 57666,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "erlenmeyerFlask"
+    },
+    "erlenmeyer-flask-flat": {
+      "codepoint": 57667,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "erlenmeyerFlaskFlat"
+    },
+    "escalator-up": {
+      "codepoint": 57668,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "escalatorUp"
+    },
+    "escalator-up-flat": {
+      "codepoint": 57669,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "escalatorUpFlat"
+    },
+    "exit-full-screen": {
+      "codepoint": 57670,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "exitFullScreen"
+    },
+    "exit-full-screen-flat": {
+      "codepoint": 57671,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "exitFullScreenFlat"
+    },
+    "expand-horizontal-2": {
+      "codepoint": 57672,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "expandHorizontal2"
+    },
+    "expand-horizontal-2-flat": {
+      "codepoint": 57673,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "expandHorizontal2Flat"
+    },
+    "eye-optic": {
+      "codepoint": 57674,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "eyeOptic"
+    },
+    "eye-optic-flat": {
+      "codepoint": 57675,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "eyeOpticFlat"
+    },
+    "facebook-1": {
+      "codepoint": 57676,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "facebook1"
+    },
+    "facebook-1-flat": {
+      "codepoint": 57677,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "facebook1Flat"
+    },
+    "factory-plant": {
+      "codepoint": 57678,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "factoryPlant"
+    },
+    "factory-plant-flat": {
+      "codepoint": 57679,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "factoryPlantFlat"
+    },
+    "fahrenheit": {
+      "codepoint": 57680,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fahrenheit"
+    },
+    "fahrenheit-flat": {
+      "codepoint": 57681,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fahrenheitFlat"
+    },
+    "feather-pen": {
+      "codepoint": 57682,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "featherPen"
+    },
+    "feather-pen-flat": {
+      "codepoint": 57683,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "featherPenFlat"
+    },
+    "file-check-alternate": {
+      "codepoint": 57684,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fileCheckAlternate"
+    },
+    "file-check-alternate-flat": {
+      "codepoint": 57685,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fileCheckAlternateFlat"
+    },
+    "file-folder": {
+      "codepoint": 57686,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fileFolder"
+    },
+    "file-folder-flat": {
+      "codepoint": 57687,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fileFolderFlat"
+    },
+    "file-report": {
+      "codepoint": 57688,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fileReport"
+    },
+    "file-report-flat": {
+      "codepoint": 57689,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fileReportFlat"
+    },
+    "file-search": {
+      "codepoint": 57690,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fileSearch"
+    },
+    "file-search-flat": {
+      "codepoint": 57691,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fileSearchFlat"
+    },
+    "fill-and-sign": {
+      "codepoint": 57692,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fillAndSign"
+    },
+    "fill-and-sign-flat": {
+      "codepoint": 57693,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fillAndSignFlat"
+    },
+    "film-slate": {
+      "codepoint": 57694,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "filmSlate"
+    },
+    "film-slate-flat": {
+      "codepoint": 57695,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "filmSlateFlat"
+    },
+    "filter-1": {
+      "codepoint": 57696,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "filter1"
+    },
+    "filter-1-flat": {
+      "codepoint": 57697,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "filter1Flat"
+    },
+    "fingerprint-2": {
+      "codepoint": 57698,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fingerprint2"
+    },
+    "fingerprint-2-flat": {
+      "codepoint": 57699,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fingerprint2Flat"
+    },
+    "fire-evacuation": {
+      "codepoint": 57700,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fireEvacuation"
+    },
+    "fire-evacuation-flat": {
+      "codepoint": 57701,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fireEvacuationFlat"
+    },
+    "firefighter-truck": {
+      "codepoint": 57702,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "firefighterTruck"
+    },
+    "firefighter-truck-flat": {
+      "codepoint": 57703,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "firefighterTruckFlat"
+    },
+    "fish": {
+      "codepoint": 57704,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fish"
+    },
+    "fish-flat": {
+      "codepoint": 57705,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fishFlat"
+    },
+    "fit-height": {
+      "codepoint": 57706,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fitHeight"
+    },
+    "fit-height-flat": {
+      "codepoint": 57707,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fitHeightFlat"
+    },
+    "fit-to-width-square": {
+      "codepoint": 57708,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fitToWidthSquare"
+    },
+    "fit-to-width-square-flat": {
+      "codepoint": 57709,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fitToWidthSquareFlat"
+    },
+    "flash-1": {
+      "codepoint": 57710,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "flash1"
+    },
+    "flash-1-flat": {
+      "codepoint": 57711,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "flash1Flat"
+    },
+    "flashlight": {
+      "codepoint": 57712,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "flashlight"
+    },
+    "flashlight-flat": {
+      "codepoint": 57713,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "flashlightFlat"
+    },
+    "flip-horizontal-circle-1": {
+      "codepoint": 57714,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "flipHorizontalCircle1"
+    },
+    "flip-horizontal-circle-1-flat": {
+      "codepoint": 57715,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "flipHorizontalCircle1Flat"
+    },
+    "floppy-disk": {
+      "codepoint": 57716,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "floppyDisk"
+    },
+    "floppy-disk-flat": {
+      "codepoint": 57717,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "floppyDiskFlat"
+    },
+    "focus-points": {
+      "codepoint": 57718,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "focusPoints"
+    },
+    "focus-points-flat": {
+      "codepoint": 57719,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "focusPointsFlat"
+    },
+    "food-truck-event-fair": {
+      "codepoint": 57720,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "foodTruckEventFair"
+    },
+    "food-truck-event-fair-flat": {
+      "codepoint": 57721,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "foodTruckEventFairFlat"
+    },
+    "fork-knife": {
+      "codepoint": 57722,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "forkKnife"
+    },
+    "fork-knife-flat": {
+      "codepoint": 57723,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "forkKnifeFlat"
+    },
+    "fork-plate": {
+      "codepoint": 57724,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "forkPlate"
+    },
+    "fork-plate-flat": {
+      "codepoint": 57725,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "forkPlateFlat"
+    },
+    "fragile": {
+      "codepoint": 57726,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fragile"
+    },
+    "fragile-flat": {
+      "codepoint": 57727,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "fragileFlat"
+    },
+    "fried-egg-breakfast": {
+      "codepoint": 57728,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "friedEggBreakfast"
+    },
+    "fried-egg-breakfast-flat": {
+      "codepoint": 57729,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "friedEggBreakfastFlat"
+    },
+    "galaxy-2": {
+      "codepoint": 57730,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "galaxy2"
+    },
+    "galaxy-2-flat": {
+      "codepoint": 57731,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "galaxy2Flat"
+    },
+    "gallery-2": {
+      "codepoint": 57732,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "gallery2"
+    },
+    "gallery-2-flat": {
+      "codepoint": 57733,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "gallery2Flat"
+    },
+    "gameboy": {
+      "codepoint": 57734,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "gameboy"
+    },
+    "gameboy-flat": {
+      "codepoint": 57735,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "gameboyFlat"
+    },
+    "gift": {
+      "codepoint": 57736,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "gift"
+    },
+    "gift-flat": {
+      "codepoint": 57737,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "giftFlat"
+    },
+    "give-gift": {
+      "codepoint": 57738,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "giveGift"
+    },
+    "give-gift-flat": {
+      "codepoint": 57739,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "giveGiftFlat"
+    },
+    "global-learning": {
+      "codepoint": 57740,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "globalLearning"
+    },
+    "global-learning-flat": {
+      "codepoint": 57741,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "globalLearningFlat"
+    },
+    "global-warming-2": {
+      "codepoint": 57742,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "globalWarming2"
+    },
+    "global-warming-2-flat": {
+      "codepoint": 57743,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "globalWarming2Flat"
+    },
+    "gold": {
+      "codepoint": 57744,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "gold"
+    },
+    "gold-flat": {
+      "codepoint": 57745,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "goldFlat"
+    },
+    "government-building-1": {
+      "codepoint": 57746,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "governmentBuilding1"
+    },
+    "government-building-1-flat": {
+      "codepoint": 57747,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "governmentBuilding1Flat"
+    },
+    "graduation-cap": {
+      "codepoint": 57748,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "graduationCap"
+    },
+    "graduation-cap-flat": {
+      "codepoint": 57749,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "graduationCapFlat"
+    },
+    "graph-arrow-user-increase": {
+      "codepoint": 57750,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "graphArrowUserIncrease"
+    },
+    "graph-arrow-user-increase-flat": {
+      "codepoint": 57751,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "graphArrowUserIncreaseFlat"
+    },
+    "graph-bar-increase": {
+      "codepoint": 57752,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "graphBarIncrease"
+    },
+    "graph-bar-increase-flat": {
+      "codepoint": 57753,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "graphBarIncreaseFlat"
+    },
+    "graph-dot": {
+      "codepoint": 57754,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "graphDot"
+    },
+    "graph-dot-flat": {
+      "codepoint": 57755,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "graphDotFlat"
+    },
+    "graphic-template-website-ui": {
+      "codepoint": 57756,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "graphicTemplateWebsiteUi"
+    },
+    "graphic-template-website-ui-flat": {
+      "codepoint": 57757,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "graphicTemplateWebsiteUiFlat"
+    },
+    "half-star-2": {
+      "codepoint": 57758,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "halfStar2"
+    },
+    "half-star-2-flat": {
+      "codepoint": 57759,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "halfStar2Flat"
+    },
+    "hand-held": {
+      "codepoint": 57760,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "handHeld"
+    },
+    "hand-held-flat": {
+      "codepoint": 57761,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "handHeldFlat"
+    },
+    "hard-drive-2": {
+      "codepoint": 57762,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hardDrive2"
+    },
+    "hard-drive-2-flat": {
+      "codepoint": 57763,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hardDrive2Flat"
+    },
+    "heart-rate-pulse-graph": {
+      "codepoint": 57764,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "heartRatePulseGraph"
+    },
+    "heart-rate-pulse-graph-flat": {
+      "codepoint": 57765,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "heartRatePulseGraphFlat"
+    },
+    "heater": {
+      "codepoint": 57766,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "heater"
+    },
+    "heater-flat": {
+      "codepoint": 57767,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "heaterFlat"
+    },
+    "help-chat-1": {
+      "codepoint": 57768,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "helpChat1"
+    },
+    "help-chat-1-flat": {
+      "codepoint": 57769,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "helpChat1Flat"
+    },
+    "hierarchy-1": {
+      "codepoint": 57770,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hierarchy1"
+    },
+    "hierarchy-1-flat": {
+      "codepoint": 57771,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hierarchy1Flat"
+    },
+    "hierarchy-15": {
+      "codepoint": 57772,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hierarchy15"
+    },
+    "hierarchy-15-flat": {
+      "codepoint": 57773,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hierarchy15Flat"
+    },
+    "high-speed-train-side": {
+      "codepoint": 57774,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "highSpeedTrainSide"
+    },
+    "high-speed-train-side-flat": {
+      "codepoint": 57775,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "highSpeedTrainSideFlat"
+    },
+    "home-1": {
+      "codepoint": 57776,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "home1"
+    },
+    "home-1-flat": {
+      "codepoint": 57777,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "home1Flat"
+    },
+    "horizonal-scroll": {
+      "codepoint": 57778,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "horizonalScroll"
+    },
+    "horizonal-scroll-flat": {
+      "codepoint": 57779,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "horizonalScrollFlat"
+    },
+    "horizontal-menu-circle": {
+      "codepoint": 57780,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "horizontalMenuCircle"
+    },
+    "horizontal-menu-circle-flat": {
+      "codepoint": 57781,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "horizontalMenuCircleFlat"
+    },
+    "horizontal-slider-square": {
+      "codepoint": 57782,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "horizontalSliderSquare"
+    },
+    "horizontal-slider-square-flat": {
+      "codepoint": 57783,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "horizontalSliderSquareFlat"
+    },
+    "hospital-sign-square": {
+      "codepoint": 57784,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hospitalSignSquare"
+    },
+    "hospital-sign-square-flat": {
+      "codepoint": 57785,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hospitalSignSquareFlat"
+    },
+    "hot-air-balloon": {
+      "codepoint": 57786,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hotAirBalloon"
+    },
+    "hot-air-balloon-flat": {
+      "codepoint": 57787,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hotAirBalloonFlat"
+    },
+    "hot-spring": {
+      "codepoint": 57788,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hotSpring"
+    },
+    "hot-spring-flat": {
+      "codepoint": 57789,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hotSpringFlat"
+    },
+    "hotel-bed-5": {
+      "codepoint": 57790,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hotelBed5"
+    },
+    "hotel-bed-5-flat": {
+      "codepoint": 57791,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hotelBed5Flat"
+    },
+    "hotel-five-star": {
+      "codepoint": 57792,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hotelFiveStar"
+    },
+    "hotel-five-star-flat": {
+      "codepoint": 57793,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hotelFiveStarFlat"
+    },
+    "hourglass": {
+      "codepoint": 57794,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hourglass"
+    },
+    "hourglass-flat": {
+      "codepoint": 57795,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "hourglassFlat"
+    },
+    "html-five": {
+      "codepoint": 57796,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "htmlFive"
+    },
+    "html-five-flat": {
+      "codepoint": 57797,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "htmlFiveFlat"
+    },
+    "ice-cream-2": {
+      "codepoint": 57798,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "iceCream2"
+    },
+    "ice-cream-2-flat": {
+      "codepoint": 57799,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "iceCream2Flat"
+    },
+    "image-saturation": {
+      "codepoint": 57800,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "imageSaturation"
+    },
+    "image-saturation-flat": {
+      "codepoint": 57801,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "imageSaturationFlat"
+    },
+    "inbox-content": {
+      "codepoint": 57802,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "inboxContent"
+    },
+    "inbox-content-flat": {
+      "codepoint": 57803,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "inboxContentFlat"
+    },
+    "inbox-post": {
+      "codepoint": 57804,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "inboxPost"
+    },
+    "inbox-post-flat": {
+      "codepoint": 57805,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "inboxPostFlat"
+    },
+    "incognito-mode": {
+      "codepoint": 57806,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "incognitoMode"
+    },
+    "incognito-mode-flat": {
+      "codepoint": 57807,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "incognitoModeFlat"
+    },
+    "industry-innovation-and-infrastructure": {
+      "codepoint": 57808,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "industryInnovationAndInfrastructure"
+    },
+    "industry-innovation-and-infrastructure-flat": {
+      "codepoint": 57809,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "industryInnovationAndInfrastructureFlat"
+    },
+    "information-circle": {
+      "codepoint": 57810,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "informationCircle"
+    },
+    "information-circle-flat": {
+      "codepoint": 57811,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "informationCircleFlat"
+    },
+    "information-desk": {
+      "codepoint": 57812,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "informationDesk"
+    },
+    "information-desk-flat": {
+      "codepoint": 57813,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "informationDeskFlat"
+    },
+    "input-box": {
+      "codepoint": 57814,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "inputBox"
+    },
+    "input-box-flat": {
+      "codepoint": 57815,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "inputBoxFlat"
+    },
+    "insert-column": {
+      "codepoint": 57816,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "insertColumn"
+    },
+    "insert-column-flat": {
+      "codepoint": 57817,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "insertColumnFlat"
+    },
+    "insert-side": {
+      "codepoint": 57818,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "insertSide"
+    },
+    "insert-side-flat": {
+      "codepoint": 57819,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "insertSideFlat"
+    },
+    "insurance-hand": {
+      "codepoint": 57820,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "insuranceHand"
+    },
+    "insurance-hand-flat": {
+      "codepoint": 57821,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "insuranceHandFlat"
+    },
+    "intellectual": {
+      "codepoint": 57822,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "intellectual"
+    },
+    "intellectual-flat": {
+      "codepoint": 57823,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "intellectualFlat"
+    },
+    "intersex-symbol": {
+      "codepoint": 57824,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "intersexSymbol"
+    },
+    "intersex-symbol-flat": {
+      "codepoint": 57825,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "intersexSymbolFlat"
+    },
+    "invisible-1": {
+      "codepoint": 57826,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "invisible1"
+    },
+    "invisible-1-flat": {
+      "codepoint": 57827,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "invisible1Flat"
+    },
+    "invisible-2": {
+      "codepoint": 57828,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "invisible2"
+    },
+    "invisible-2-flat": {
+      "codepoint": 57829,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "invisible2Flat"
+    },
+    "ios-ipados": {
+      "codepoint": 57830,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "iosIpados"
+    },
+    "ios-ipados-flat": {
+      "codepoint": 57831,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "iosIpadosFlat"
+    },
+    "ipad-tablet-screen": {
+      "codepoint": 57832,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ipadTabletScreen"
+    },
+    "ipad-tablet-screen-flat": {
+      "codepoint": 57833,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ipadTabletScreenFlat"
+    },
+    "iris-scan": {
+      "codepoint": 57834,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "irisScan"
+    },
+    "iris-scan-flat": {
+      "codepoint": 57835,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "irisScanFlat"
+    },
+    "justice-scale-2": {
+      "codepoint": 57836,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "justiceScale2"
+    },
+    "justice-scale-2-flat": {
+      "codepoint": 57837,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "justiceScale2Flat"
+    },
+    "keyboard": {
+      "codepoint": 57838,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "keyboard"
+    },
+    "keyboard-flat": {
+      "codepoint": 57839,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "keyboardFlat"
+    },
+    "keyhole-lock-circle": {
+      "codepoint": 57840,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "keyholeLockCircle"
+    },
+    "keyhole-lock-circle-flat": {
+      "codepoint": 57841,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "keyholeLockCircleFlat"
+    },
+    "ladder": {
+      "codepoint": 57842,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ladder"
+    },
+    "ladder-flat": {
+      "codepoint": 57843,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ladderFlat"
+    },
+    "landing": {
+      "codepoint": 57844,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "landing"
+    },
+    "landing-flat": {
+      "codepoint": 57845,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "landingFlat"
+    },
+    "landscape-view": {
+      "codepoint": 57846,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "landscapeView"
+    },
+    "landscape-view-flat": {
+      "codepoint": 57847,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "landscapeViewFlat"
+    },
+    "laptop": {
+      "codepoint": 57848,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "laptop"
+    },
+    "laptop-flat": {
+      "codepoint": 57849,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "laptopFlat"
+    },
+    "layer-mask": {
+      "codepoint": 57850,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "layerMask"
+    },
+    "layer-mask-flat": {
+      "codepoint": 57851,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "layerMaskFlat"
+    },
+    "layers-1": {
+      "codepoint": 57852,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "layers1"
+    },
+    "layers-1-flat": {
+      "codepoint": 57853,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "layers1Flat"
+    },
+    "layout-right-sidebar": {
+      "codepoint": 57854,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "layoutRightSidebar"
+    },
+    "layout-right-sidebar-flat": {
+      "codepoint": 57855,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "layoutRightSidebarFlat"
+    },
+    "layout-window-4": {
+      "codepoint": 57856,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "layoutWindow4"
+    },
+    "layout-window-4-flat": {
+      "codepoint": 57857,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "layoutWindow4Flat"
+    },
+    "leaf-protect": {
+      "codepoint": 57858,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "leafProtect"
+    },
+    "leaf-protect-flat": {
+      "codepoint": 57859,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "leafProtectFlat"
+    },
+    "lens": {
+      "codepoint": 57860,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lens"
+    },
+    "lens-flat": {
+      "codepoint": 57861,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lensFlat"
+    },
+    "lift": {
+      "codepoint": 57862,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lift"
+    },
+    "lift-flat": {
+      "codepoint": 57863,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "liftFlat"
+    },
+    "lightbulb": {
+      "codepoint": 57864,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lightbulb"
+    },
+    "lightbulb-flat": {
+      "codepoint": 57865,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lightbulbFlat"
+    },
+    "lightning-cloud": {
+      "codepoint": 57866,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lightningCloud"
+    },
+    "lightning-cloud-flat": {
+      "codepoint": 57867,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lightningCloudFlat"
+    },
+    "like-1": {
+      "codepoint": 57868,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "like1"
+    },
+    "like-1-flat": {
+      "codepoint": 57869,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "like1Flat"
+    },
+    "link-chain": {
+      "codepoint": 57870,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "linkChain"
+    },
+    "link-chain-flat": {
+      "codepoint": 57871,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "linkChainFlat"
+    },
+    "lipstick": {
+      "codepoint": 57872,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lipstick"
+    },
+    "lipstick-flat": {
+      "codepoint": 57873,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lipstickFlat"
+    },
+    "loading-circle": {
+      "codepoint": 57874,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "loadingCircle"
+    },
+    "loading-circle-flat": {
+      "codepoint": 57875,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "loadingCircleFlat"
+    },
+    "loading-horizontal-2": {
+      "codepoint": 57876,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "loadingHorizontal2"
+    },
+    "loading-horizontal-2-flat": {
+      "codepoint": 57877,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "loadingHorizontal2Flat"
+    },
+    "location-heart-pin": {
+      "codepoint": 57878,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "locationHeartPin"
+    },
+    "location-heart-pin-flat": {
+      "codepoint": 57879,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "locationHeartPinFlat"
+    },
+    "location-pin": {
+      "codepoint": 57880,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "locationPin"
+    },
+    "location-pin-3": {
+      "codepoint": 57881,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "locationPin3"
+    },
+    "location-pin-3-flat": {
+      "codepoint": 57882,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "locationPin3Flat"
+    },
+    "location-pin-disabled": {
+      "codepoint": 57883,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "locationPinDisabled"
+    },
+    "location-pin-disabled-flat": {
+      "codepoint": 57884,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "locationPinDisabledFlat"
+    },
+    "location-pin-flat": {
+      "codepoint": 57885,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "locationPinFlat"
+    },
+    "lock-comment-security": {
+      "codepoint": 57886,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lockCommentSecurity"
+    },
+    "lock-comment-security-flat": {
+      "codepoint": 57887,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lockCommentSecurityFlat"
+    },
+    "log": {
+      "codepoint": 57888,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "log"
+    },
+    "log-flat": {
+      "codepoint": 57889,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "logFlat"
+    },
+    "login-1": {
+      "codepoint": 57890,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "login1"
+    },
+    "login-1-flat": {
+      "codepoint": 57891,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "login1Flat"
+    },
+    "lost-and-found": {
+      "codepoint": 57892,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lostAndFound"
+    },
+    "lost-and-found-flat": {
+      "codepoint": 57893,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "lostAndFoundFlat"
+    },
+    "magic-wand-1": {
+      "codepoint": 57894,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "magicWand1"
+    },
+    "magic-wand-1-flat": {
+      "codepoint": 57895,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "magicWand1Flat"
+    },
+    "magnet": {
+      "codepoint": 57896,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "magnet"
+    },
+    "magnet-flat": {
+      "codepoint": 57897,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "magnetFlat"
+    },
+    "mail-notification": {
+      "codepoint": 57898,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailNotification"
+    },
+    "mail-notification-flat": {
+      "codepoint": 57899,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailNotificationFlat"
+    },
+    "mail-outgoing": {
+      "codepoint": 57900,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailOutgoing"
+    },
+    "mail-outgoing-flat": {
+      "codepoint": 57901,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailOutgoingFlat"
+    },
+    "mail-search": {
+      "codepoint": 57902,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailSearch"
+    },
+    "mail-search-flat": {
+      "codepoint": 57903,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailSearchFlat"
+    },
+    "mail-send": {
+      "codepoint": 57904,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailSend"
+    },
+    "mail-send-email-message": {
+      "codepoint": 57905,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailSendEmailMessage"
+    },
+    "mail-send-email-message-flat": {
+      "codepoint": 57906,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailSendEmailMessageFlat"
+    },
+    "mail-send-flat": {
+      "codepoint": 57907,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailSendFlat"
+    },
+    "mail-send-reply-all": {
+      "codepoint": 57908,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailSendReplyAll"
+    },
+    "mail-send-reply-all-flat": {
+      "codepoint": 57909,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailSendReplyAllFlat"
+    },
+    "mail-setting": {
+      "codepoint": 57910,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailSetting"
+    },
+    "mail-setting-flat": {
+      "codepoint": 57911,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailSettingFlat"
+    },
+    "mall": {
+      "codepoint": 57912,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mall"
+    },
+    "mall-flat": {
+      "codepoint": 57913,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mallFlat"
+    },
+    "man-arm-raises-2-alternate": {
+      "codepoint": 57914,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "manArmRaises2Alternate"
+    },
+    "man-arm-raises-2-alternate-flat": {
+      "codepoint": 57915,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "manArmRaises2AlternateFlat"
+    },
+    "map-fold": {
+      "codepoint": 57916,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mapFold"
+    },
+    "map-fold-flat": {
+      "codepoint": 57917,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mapFoldFlat"
+    },
+    "map-location-star-pin": {
+      "codepoint": 57918,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mapLocationStarPin"
+    },
+    "map-location-star-pin-flat": {
+      "codepoint": 57919,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mapLocationStarPinFlat"
+    },
+    "maximize-1": {
+      "codepoint": 57920,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "maximize1"
+    },
+    "maximize-1-flat": {
+      "codepoint": 57921,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "maximize1Flat"
+    },
+    "medical-bag": {
+      "codepoint": 57922,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "medicalBag"
+    },
+    "medical-bag-flat": {
+      "codepoint": 57923,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "medicalBagFlat"
+    },
+    "megaphone-refresh": {
+      "codepoint": 57924,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "megaphoneRefresh"
+    },
+    "megaphone-refresh-flat": {
+      "codepoint": 57925,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "megaphoneRefreshFlat"
+    },
+    "memes-comment-reply": {
+      "codepoint": 57926,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "memesCommentReply"
+    },
+    "memes-comment-reply-flat": {
+      "codepoint": 57927,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "memesCommentReplyFlat"
+    },
+    "microscope-observation-sciene": {
+      "codepoint": 57928,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "microscopeObservationSciene"
+    },
+    "microscope-observation-sciene-flat": {
+      "codepoint": 57929,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "microscopeObservationScieneFlat"
+    },
+    "module": {
+      "codepoint": 57930,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "module"
+    },
+    "module-flat": {
+      "codepoint": 57931,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "moduleFlat"
+    },
+    "money-cash-bill-1": {
+      "codepoint": 57932,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "moneyCashBill1"
+    },
+    "money-cash-bill-1-flat": {
+      "codepoint": 57933,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "moneyCashBill1Flat"
+    },
+    "moon-stars": {
+      "codepoint": 57934,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "moonStars"
+    },
+    "moon-stars-flat": {
+      "codepoint": 57935,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "moonStarsFlat"
+    },
+    "mouse-wireless": {
+      "codepoint": 57936,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mouseWireless"
+    },
+    "mouse-wireless-1": {
+      "codepoint": 57937,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mouseWireless1"
+    },
+    "mouse-wireless-1-flat": {
+      "codepoint": 57938,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mouseWireless1Flat"
+    },
+    "mouse-wireless-flat": {
+      "codepoint": 57939,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mouseWirelessFlat"
+    },
+    "moustache": {
+      "codepoint": 57940,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "moustache"
+    },
+    "moustache-flat": {
+      "codepoint": 57941,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "moustacheFlat"
+    },
+    "multiple-file-1": {
+      "codepoint": 57942,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "multipleFile1"
+    },
+    "multiple-file-1-flat": {
+      "codepoint": 57943,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "multipleFile1Flat"
+    },
+    "multiple-stars": {
+      "codepoint": 57944,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "multipleStars"
+    },
+    "multiple-stars-flat": {
+      "codepoint": 57945,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "multipleStarsFlat"
+    },
+    "music-note-2": {
+      "codepoint": 57946,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "musicNote2"
+    },
+    "music-note-2-flat": {
+      "codepoint": 57947,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "musicNote2Flat"
+    },
+    "music-note-trebble-clef": {
+      "codepoint": 57948,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "musicNoteTrebbleClef"
+    },
+    "music-note-trebble-clef-flat": {
+      "codepoint": 57949,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "musicNoteTrebbleClefFlat"
+    },
+    "navigation-arrow-off": {
+      "codepoint": 57950,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "navigationArrowOff"
+    },
+    "navigation-arrow-off-flat": {
+      "codepoint": 57951,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "navigationArrowOffFlat"
+    },
+    "new-folder": {
+      "codepoint": 57952,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "newFolder"
+    },
+    "new-folder-flat": {
+      "codepoint": 57953,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "newFolderFlat"
+    },
+    "news-paper": {
+      "codepoint": 57954,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "newsPaper"
+    },
+    "news-paper-flat": {
+      "codepoint": 57955,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "newsPaperFlat"
+    },
+    "nintendo-xbox-controller-1": {
+      "codepoint": 57956,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "nintendoXboxController1"
+    },
+    "nintendo-xbox-controller-1-flat": {
+      "codepoint": 57957,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "nintendoXboxController1Flat"
+    },
+    "no-photo-taking-zone": {
+      "codepoint": 57958,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "noPhotoTakingZone"
+    },
+    "no-photo-taking-zone-flat": {
+      "codepoint": 57959,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "noPhotoTakingZoneFlat"
+    },
+    "no-poverty": {
+      "codepoint": 57960,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "noPoverty"
+    },
+    "no-poverty-flat": {
+      "codepoint": 57961,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "noPovertyFlat"
+    },
+    "no-smaking-area": {
+      "codepoint": 57962,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "noSmakingArea"
+    },
+    "no-smaking-area-flat": {
+      "codepoint": 57963,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "noSmakingAreaFlat"
+    },
+    "no-touch-sign": {
+      "codepoint": 57964,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "noTouchSign"
+    },
+    "no-touch-sign-flat": {
+      "codepoint": 57965,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "noTouchSignFlat"
+    },
+    "notepad-text": {
+      "codepoint": 57966,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "notepadText"
+    },
+    "notepad-text-flat": {
+      "codepoint": 57967,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "notepadTextFlat"
+    },
+    "notification-alarm-snooze": {
+      "codepoint": 57968,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "notificationAlarmSnooze"
+    },
+    "notification-alarm-snooze-flat": {
+      "codepoint": 57969,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "notificationAlarmSnoozeFlat"
+    },
+    "notification-alert": {
+      "codepoint": 57970,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "notificationAlert"
+    },
+    "notification-alert-flat": {
+      "codepoint": 57971,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "notificationAlertFlat"
+    },
+    "octagram-shape": {
+      "codepoint": 57972,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "octagramShape"
+    },
+    "octagram-shape-flat": {
+      "codepoint": 57973,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "octagramShapeFlat"
+    },
+    "office-worker": {
+      "codepoint": 57974,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "officeWorker"
+    },
+    "office-worker-flat": {
+      "codepoint": 57975,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "officeWorkerFlat"
+    },
+    "ok-hand": {
+      "codepoint": 57976,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "okHand"
+    },
+    "ok-hand-flat": {
+      "codepoint": 57977,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "okHandFlat"
+    },
+    "one-finger-tap": {
+      "codepoint": 57978,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "oneFingerTap"
+    },
+    "one-finger-tap-flat": {
+      "codepoint": 57979,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "oneFingerTapFlat"
+    },
+    "one-handed-holding-tablet-handheld": {
+      "codepoint": 57980,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "oneHandedHoldingTabletHandheld"
+    },
+    "one-handed-holding-tablet-handheld-flat": {
+      "codepoint": 57981,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "oneHandedHoldingTabletHandheldFlat"
+    },
+    "open-umbrella": {
+      "codepoint": 57982,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "openUmbrella"
+    },
+    "open-umbrella-flat": {
+      "codepoint": 57983,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "openUmbrellaFlat"
+    },
+    "pacman": {
+      "codepoint": 57984,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pacman"
+    },
+    "pacman-flat": {
+      "codepoint": 57985,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pacmanFlat"
+    },
+    "padlock-key": {
+      "codepoint": 57986,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "padlockKey"
+    },
+    "padlock-key-flat": {
+      "codepoint": 57987,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "padlockKeyFlat"
+    },
+    "padlock-square-2": {
+      "codepoint": 57988,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "padlockSquare2"
+    },
+    "padlock-square-2-flat": {
+      "codepoint": 57989,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "padlockSquare2Flat"
+    },
+    "page-setting": {
+      "codepoint": 57990,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pageSetting"
+    },
+    "page-setting-flat": {
+      "codepoint": 57991,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pageSettingFlat"
+    },
+    "paint-bucket": {
+      "codepoint": 57992,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "paintBucket"
+    },
+    "paint-bucket-flat": {
+      "codepoint": 57993,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "paintBucketFlat"
+    },
+    "paint-palette": {
+      "codepoint": 57994,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "paintPalette"
+    },
+    "paint-palette-flat": {
+      "codepoint": 57995,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "paintPaletteFlat"
+    },
+    "paintbrush-2": {
+      "codepoint": 57996,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "paintbrush2"
+    },
+    "paintbrush-2-flat": {
+      "codepoint": 57997,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "paintbrush2Flat"
+    },
+    "painting-board": {
+      "codepoint": 57998,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "paintingBoard"
+    },
+    "painting-board-flat": {
+      "codepoint": 57999,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "paintingBoardFlat"
+    },
+    "panoramic-screen": {
+      "codepoint": 58000,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "panoramicScreen"
+    },
+    "panoramic-screen-flat": {
+      "codepoint": 58001,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "panoramicScreenFlat"
+    },
+    "parachute-drop": {
+      "codepoint": 58002,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "parachuteDrop"
+    },
+    "parachute-drop-flat": {
+      "codepoint": 58003,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "parachuteDropFlat"
+    },
+    "park": {
+      "codepoint": 58004,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "park"
+    },
+    "park-flat": {
+      "codepoint": 58005,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "parkFlat"
+    },
+    "password-lock": {
+      "codepoint": 58006,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "passwordLock"
+    },
+    "password-lock-flat": {
+      "codepoint": 58007,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "passwordLockFlat"
+    },
+    "pathfinder-outline": {
+      "codepoint": 58008,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pathfinderOutline"
+    },
+    "pathfinder-outline-flat": {
+      "codepoint": 58009,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pathfinderOutlineFlat"
+    },
+    "payment-recieve-7": {
+      "codepoint": 58010,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "paymentRecieve7"
+    },
+    "payment-recieve-7-flat": {
+      "codepoint": 58011,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "paymentRecieve7Flat"
+    },
+    "pen-1": {
+      "codepoint": 58012,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pen1"
+    },
+    "pen-1-flat": {
+      "codepoint": 58013,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pen1Flat"
+    },
+    "pen-tool": {
+      "codepoint": 58014,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "penTool"
+    },
+    "pen-tool-flat": {
+      "codepoint": 58015,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "penToolFlat"
+    },
+    "pencil-circle": {
+      "codepoint": 58016,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pencilCircle"
+    },
+    "pencil-circle-flat": {
+      "codepoint": 58017,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pencilCircleFlat"
+    },
+    "pencil-square": {
+      "codepoint": 58018,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pencilSquare"
+    },
+    "pencil-square-flat": {
+      "codepoint": 58019,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pencilSquareFlat"
+    },
+    "pet-paw": {
+      "codepoint": 58020,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "petPaw"
+    },
+    "pet-paw-flat": {
+      "codepoint": 58021,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "petPawFlat"
+    },
+    "pharmacy": {
+      "codepoint": 58022,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pharmacy"
+    },
+    "pharmacy-flat": {
+      "codepoint": 58023,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pharmacyFlat"
+    },
+    "phone": {
+      "codepoint": 58024,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "phone"
+    },
+    "phone-flat": {
+      "codepoint": 58025,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "phoneFlat"
+    },
+    "phone-vibrate": {
+      "codepoint": 58026,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "phoneVibrate"
+    },
+    "phone-vibrate-flat": {
+      "codepoint": 58027,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "phoneVibrateFlat"
+    },
+    "piggy-bank": {
+      "codepoint": 58028,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "piggyBank"
+    },
+    "piggy-bank-flat": {
+      "codepoint": 58029,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "piggyBankFlat"
+    },
+    "pin-2": {
+      "codepoint": 58030,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pin2"
+    },
+    "pin-2-flat": {
+      "codepoint": 58031,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pin2Flat"
+    },
+    "pinwheel": {
+      "codepoint": 58032,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pinwheel"
+    },
+    "pinwheel-flat": {
+      "codepoint": 58033,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pinwheelFlat"
+    },
+    "play-list-1": {
+      "codepoint": 58034,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "playList1"
+    },
+    "play-list-1-flat": {
+      "codepoint": 58035,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "playList1Flat"
+    },
+    "play-list-folder": {
+      "codepoint": 58036,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "playListFolder"
+    },
+    "play-list-folder-flat": {
+      "codepoint": 58037,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "playListFolderFlat"
+    },
+    "polaroid": {
+      "codepoint": 58038,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "polaroid"
+    },
+    "polaroid-flat": {
+      "codepoint": 58039,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "polaroidFlat"
+    },
+    "politics-vote-2": {
+      "codepoint": 58040,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "politicsVote2"
+    },
+    "politics-vote-2-flat": {
+      "codepoint": 58041,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "politicsVote2Flat"
+    },
+    "pool-ladder": {
+      "codepoint": 58042,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "poolLadder"
+    },
+    "pool-ladder-flat": {
+      "codepoint": 58043,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "poolLadderFlat"
+    },
+    "pork-meat": {
+      "codepoint": 58044,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "porkMeat"
+    },
+    "pork-meat-flat": {
+      "codepoint": 58045,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "porkMeatFlat"
+    },
+    "potted-flower": {
+      "codepoint": 58046,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pottedFlower"
+    },
+    "potted-flower-flat": {
+      "codepoint": 58047,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pottedFlowerFlat"
+    },
+    "pound-circle": {
+      "codepoint": 58048,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "poundCircle"
+    },
+    "pound-circle-flat": {
+      "codepoint": 58049,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "poundCircleFlat"
+    },
+    "presentation": {
+      "codepoint": 58050,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "presentation"
+    },
+    "presentation-flat": {
+      "codepoint": 58051,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "presentationFlat"
+    },
+    "printer": {
+      "codepoint": 58052,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "printer"
+    },
+    "printer-flat": {
+      "codepoint": 58053,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "printerFlat"
+    },
+    "production-belt": {
+      "codepoint": 58054,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "productionBelt"
+    },
+    "production-belt-flat": {
+      "codepoint": 58055,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "productionBeltFlat"
+    },
+    "projector-screen": {
+      "codepoint": 58056,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "projectorScreen"
+    },
+    "projector-screen-flat": {
+      "codepoint": 58057,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "projectorScreenFlat"
+    },
+    "pyramid-shape": {
+      "codepoint": 58058,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pyramidShape"
+    },
+    "pyramid-shape-flat": {
+      "codepoint": 58059,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "pyramidShapeFlat"
+    },
+    "quotation-2": {
+      "codepoint": 58060,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "quotation2"
+    },
+    "quotation-2-flat": {
+      "codepoint": 58061,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "quotation2Flat"
+    },
+    "radioactive-1": {
+      "codepoint": 58062,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "radioactive1"
+    },
+    "radioactive-1-flat": {
+      "codepoint": 58063,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "radioactive1Flat"
+    },
+    "receipt-cross": {
+      "codepoint": 58064,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "receiptCross"
+    },
+    "receipt-cross-flat": {
+      "codepoint": 58065,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "receiptCrossFlat"
+    },
+    "recording-tape-1": {
+      "codepoint": 58066,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "recordingTape1"
+    },
+    "recording-tape-1-flat": {
+      "codepoint": 58067,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "recordingTape1Flat"
+    },
+    "rectangle-flag": {
+      "codepoint": 58068,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "rectangleFlag"
+    },
+    "rectangle-flag-flat": {
+      "codepoint": 58069,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "rectangleFlagFlat"
+    },
+    "recycle-1": {
+      "codepoint": 58070,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "recycle1"
+    },
+    "recycle-1-flat": {
+      "codepoint": 58071,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "recycle1Flat"
+    },
+    "recycle-bin": {
+      "codepoint": 58072,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "recycleBin"
+    },
+    "recycle-bin-2": {
+      "codepoint": 58073,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "recycleBin2"
+    },
+    "recycle-bin-2-flat": {
+      "codepoint": 58074,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "recycleBin2Flat"
+    },
+    "recycle-bin-3": {
+      "codepoint": 58075,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "recycleBin3"
+    },
+    "recycle-bin-3-flat": {
+      "codepoint": 58076,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "recycleBin3Flat"
+    },
+    "recycle-bin-flat": {
+      "codepoint": 58077,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "recycleBinFlat"
+    },
+    "reduced-inequalities": {
+      "codepoint": 58078,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "reducedInequalities"
+    },
+    "reduced-inequalities-flat": {
+      "codepoint": 58079,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "reducedInequalitiesFlat"
+    },
+    "refrigerator": {
+      "codepoint": 58080,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "refrigerator"
+    },
+    "refrigerator-flat": {
+      "codepoint": 58081,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "refrigeratorFlat"
+    },
+    "reply-to-message-typing": {
+      "codepoint": 58082,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "replyToMessageTyping"
+    },
+    "reply-to-message-typing-flat": {
+      "codepoint": 58083,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "replyToMessageTypingFlat"
+    },
+    "reset-clock": {
+      "codepoint": 58084,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "resetClock"
+    },
+    "reset-clock-flat": {
+      "codepoint": 58085,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "resetClockFlat"
+    },
+    "return-3": {
+      "codepoint": 58086,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "return3"
+    },
+    "return-3-flat": {
+      "codepoint": 58087,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "return3Flat"
+    },
+    "ringing-bell-notification": {
+      "codepoint": 58088,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ringingBellNotification"
+    },
+    "ringing-bell-notification-flat": {
+      "codepoint": 58089,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ringingBellNotificationFlat"
+    },
+    "rotate-left": {
+      "codepoint": 58090,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "rotateLeft"
+    },
+    "rotate-left-flat": {
+      "codepoint": 58091,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "rotateLeftFlat"
+    },
+    "round-anchor-point": {
+      "codepoint": 58092,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "roundAnchorPoint"
+    },
+    "round-anchor-point-flat": {
+      "codepoint": 58093,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "roundAnchorPointFlat"
+    },
+    "rss-square": {
+      "codepoint": 58094,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "rssSquare"
+    },
+    "rss-square-flat": {
+      "codepoint": 58095,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "rssSquareFlat"
+    },
+    "ruler": {
+      "codepoint": 58096,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ruler"
+    },
+    "ruler-flat": {
+      "codepoint": 58097,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "rulerFlat"
+    },
+    "sad-face": {
+      "codepoint": 58098,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sadFace"
+    },
+    "sad-face-flat": {
+      "codepoint": 58099,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sadFaceFlat"
+    },
+    "safari": {
+      "codepoint": 58100,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "safari"
+    },
+    "safari-flat": {
+      "codepoint": 58101,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "safariFlat"
+    },
+    "safe-vault": {
+      "codepoint": 58102,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "safeVault"
+    },
+    "safe-vault-flat": {
+      "codepoint": 58103,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "safeVaultFlat"
+    },
+    "sail-ship": {
+      "codepoint": 58104,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sailShip"
+    },
+    "sail-ship-flat": {
+      "codepoint": 58105,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sailShipFlat"
+    },
+    "scissors": {
+      "codepoint": 58106,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "scissors"
+    },
+    "scissors-flat": {
+      "codepoint": 58107,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "scissorsFlat"
+    },
+    "screen-1": {
+      "codepoint": 58108,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "screen1"
+    },
+    "screen-1-flat": {
+      "codepoint": 58109,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "screen1Flat"
+    },
+    "screwdriver": {
+      "codepoint": 58110,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "screwdriver"
+    },
+    "screwdriver-flat": {
+      "codepoint": 58111,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "screwdriverFlat"
+    },
+    "script-2": {
+      "codepoint": 58112,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "script2"
+    },
+    "script-2-flat": {
+      "codepoint": 58113,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "script2Flat"
+    },
+    "sd-card": {
+      "codepoint": 58114,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sdCard"
+    },
+    "sd-card-flat": {
+      "codepoint": 58115,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sdCardFlat"
+    },
+    "search-visual": {
+      "codepoint": 58116,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "searchVisual"
+    },
+    "search-visual-flat": {
+      "codepoint": 58117,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "searchVisualFlat"
+    },
+    "select-all": {
+      "codepoint": 58118,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "selectAll"
+    },
+    "select-all-flat": {
+      "codepoint": 58119,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "selectAllFlat"
+    },
+    "select-circle-area-1": {
+      "codepoint": 58120,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "selectCircleArea1"
+    },
+    "select-circle-area-1-flat": {
+      "codepoint": 58121,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "selectCircleArea1Flat"
+    },
+    "share-link": {
+      "codepoint": 58122,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shareLink"
+    },
+    "share-link-flat": {
+      "codepoint": 58123,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shareLinkFlat"
+    },
+    "share-lock": {
+      "codepoint": 58124,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shareLock"
+    },
+    "share-lock-flat": {
+      "codepoint": 58125,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shareLockFlat"
+    },
+    "shield-1": {
+      "codepoint": 58126,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shield1"
+    },
+    "shield-1-flat": {
+      "codepoint": 58127,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shield1Flat"
+    },
+    "shipment-upload": {
+      "codepoint": 58128,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shipmentUpload"
+    },
+    "shipment-upload-flat": {
+      "codepoint": 58129,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shipmentUploadFlat"
+    },
+    "shipping-box-1": {
+      "codepoint": 58130,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shippingBox1"
+    },
+    "shipping-box-1-flat": {
+      "codepoint": 58131,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shippingBox1Flat"
+    },
+    "shopping-basket-1": {
+      "codepoint": 58132,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shoppingBasket1"
+    },
+    "shopping-basket-1-flat": {
+      "codepoint": 58133,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shoppingBasket1Flat"
+    },
+    "shopping-cart-add": {
+      "codepoint": 58134,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shoppingCartAdd"
+    },
+    "shopping-cart-add-flat": {
+      "codepoint": 58135,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shoppingCartAddFlat"
+    },
+    "shuffle": {
+      "codepoint": 58136,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shuffle"
+    },
+    "shuffle-flat": {
+      "codepoint": 58137,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "shuffleFlat"
+    },
+    "sign-at": {
+      "codepoint": 58138,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "signAt"
+    },
+    "sign-at-flat": {
+      "codepoint": 58139,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "signAtFlat"
+    },
+    "signal-full": {
+      "codepoint": 58140,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "signalFull"
+    },
+    "signal-full-flat": {
+      "codepoint": 58141,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "signalFullFlat"
+    },
+    "sizing": {
+      "codepoint": 58142,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sizing"
+    },
+    "sizing-flat": {
+      "codepoint": 58143,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sizingFlat"
+    },
+    "skull-2": {
+      "codepoint": 58144,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "skull2"
+    },
+    "skull-2-flat": {
+      "codepoint": 58145,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "skull2Flat"
+    },
+    "slack": {
+      "codepoint": 58146,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "slack"
+    },
+    "slack-flat": {
+      "codepoint": 58147,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "slackFlat"
+    },
+    "smiley-drool": {
+      "codepoint": 58148,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "smileyDrool"
+    },
+    "smiley-drool-flat": {
+      "codepoint": 58149,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "smileyDroolFlat"
+    },
+    "smiley-indiferent": {
+      "codepoint": 58150,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "smileyIndiferent"
+    },
+    "smiley-indiferent-flat": {
+      "codepoint": 58151,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "smileyIndiferentFlat"
+    },
+    "smiley-laughing-1": {
+      "codepoint": 58152,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "smileyLaughing1"
+    },
+    "smiley-laughing-1-flat": {
+      "codepoint": 58153,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "smileyLaughing1Flat"
+    },
+    "smiley-sparks": {
+      "codepoint": 58154,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "smileySparks"
+    },
+    "smiley-sparks-flat": {
+      "codepoint": 58155,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "smileySparksFlat"
+    },
+    "smoking-area": {
+      "codepoint": 58156,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "smokingArea"
+    },
+    "smoking-area-flat": {
+      "codepoint": 58157,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "smokingAreaFlat"
+    },
+    "sofa": {
+      "codepoint": 58158,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sofa"
+    },
+    "sofa-flat": {
+      "codepoint": 58159,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sofaFlat"
+    },
+    "speaker-2": {
+      "codepoint": 58160,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "speaker2"
+    },
+    "speaker-2-flat": {
+      "codepoint": 58161,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "speaker2Flat"
+    },
+    "spiral-shape": {
+      "codepoint": 58162,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "spiralShape"
+    },
+    "spiral-shape-flat": {
+      "codepoint": 58163,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "spiralShapeFlat"
+    },
+    "spotify": {
+      "codepoint": 58164,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "spotify"
+    },
+    "spotify-flat": {
+      "codepoint": 58165,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "spotifyFlat"
+    },
+    "stamp": {
+      "codepoint": 58166,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "stamp"
+    },
+    "stamp-flat": {
+      "codepoint": 58167,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "stampFlat"
+    },
+    "star-circle": {
+      "codepoint": 58168,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "starCircle"
+    },
+    "star-circle-flat": {
+      "codepoint": 58169,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "starCircleFlat"
+    },
+    "star-medal": {
+      "codepoint": 58170,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "starMedal"
+    },
+    "star-medal-flat": {
+      "codepoint": 58171,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "starMedalFlat"
+    },
+    "steps-1": {
+      "codepoint": 58172,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "steps1"
+    },
+    "steps-1-flat": {
+      "codepoint": 58173,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "steps1Flat"
+    },
+    "stock": {
+      "codepoint": 58174,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "stock"
+    },
+    "stock-flat": {
+      "codepoint": 58175,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "stockFlat"
+    },
+    "stool": {
+      "codepoint": 58176,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "stool"
+    },
+    "stool-flat": {
+      "codepoint": 58177,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "stoolFlat"
+    },
+    "stopwatch-half": {
+      "codepoint": 58178,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "stopwatchHalf"
+    },
+    "stopwatch-half-flat": {
+      "codepoint": 58179,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "stopwatchHalfFlat"
+    },
+    "store-2": {
+      "codepoint": 58180,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "store2"
+    },
+    "store-2-flat": {
+      "codepoint": 58181,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "store2Flat"
+    },
+    "strawberry": {
+      "codepoint": 58182,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "strawberry"
+    },
+    "strawberry-flat": {
+      "codepoint": 58183,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "strawberryFlat"
+    },
+    "street-sign": {
+      "codepoint": 58184,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "streetSign"
+    },
+    "street-sign-flat": {
+      "codepoint": 58185,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "streetSignFlat"
+    },
+    "stroller": {
+      "codepoint": 58186,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "stroller"
+    },
+    "stroller-flat": {
+      "codepoint": 58187,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "strollerFlat"
+    },
+    "suitcase-rolling": {
+      "codepoint": 58188,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "suitcaseRolling"
+    },
+    "suitcase-rolling-flat": {
+      "codepoint": 58189,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "suitcaseRollingFlat"
+    },
+    "sun": {
+      "codepoint": 58190,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sun"
+    },
+    "sun-flat": {
+      "codepoint": 58191,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sunFlat"
+    },
+    "sunset": {
+      "codepoint": 58192,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sunset"
+    },
+    "sunset-flat": {
+      "codepoint": 58193,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "sunsetFlat"
+    },
+    "synchronize": {
+      "codepoint": 58194,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "synchronize"
+    },
+    "synchronize-flat": {
+      "codepoint": 58195,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "synchronizeFlat"
+    },
+    "table": {
+      "codepoint": 58196,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "table"
+    },
+    "table-flat": {
+      "codepoint": 58197,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "tableFlat"
+    },
+    "tablet-capsule": {
+      "codepoint": 58198,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "tabletCapsule"
+    },
+    "tablet-capsule-flat": {
+      "codepoint": 58199,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "tabletCapsuleFlat"
+    },
+    "tag-alt": {
+      "codepoint": 58200,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "tagAlt"
+    },
+    "tag-alt-flat": {
+      "codepoint": 58201,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "tagAltFlat"
+    },
+    "target-3": {
+      "codepoint": 58202,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "target3"
+    },
+    "target-3-flat": {
+      "codepoint": 58203,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "target3Flat"
+    },
+    "task-list-edit": {
+      "codepoint": 58204,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "taskListEdit"
+    },
+    "task-list-edit-flat": {
+      "codepoint": 58205,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "taskListEditFlat"
+    },
+    "telescope": {
+      "codepoint": 58206,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "telescope"
+    },
+    "telescope-flat": {
+      "codepoint": 58207,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "telescopeFlat"
+    },
+    "test-tube": {
+      "codepoint": 58208,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "testTube"
+    },
+    "test-tube-flat": {
+      "codepoint": 58209,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "testTubeFlat"
+    },
+    "text-box-1": {
+      "codepoint": 58210,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "textBox1"
+    },
+    "text-box-1-flat": {
+      "codepoint": 58211,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "textBox1Flat"
+    },
+    "text-image-center-large": {
+      "codepoint": 58212,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "textImageCenterLarge"
+    },
+    "text-image-center-large-flat": {
+      "codepoint": 58213,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "textImageCenterLargeFlat"
+    },
+    "text-shadow": {
+      "codepoint": 58214,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "textShadow"
+    },
+    "text-shadow-flat": {
+      "codepoint": 58215,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "textShadowFlat"
+    },
+    "theater-mask": {
+      "codepoint": 58216,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "theaterMask"
+    },
+    "theater-mask-flat": {
+      "codepoint": 58217,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "theaterMaskFlat"
+    },
+    "thermometer": {
+      "codepoint": 58218,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "thermometer"
+    },
+    "thermometer-flat": {
+      "codepoint": 58219,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "thermometerFlat"
+    },
+    "threat-phone": {
+      "codepoint": 58220,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "threatPhone"
+    },
+    "threat-phone-flat": {
+      "codepoint": 58221,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "threatPhoneFlat"
+    },
+    "ticket-1": {
+      "codepoint": 58222,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ticket1"
+    },
+    "ticket-1-flat": {
+      "codepoint": 58223,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ticket1Flat"
+    },
+    "tiktok": {
+      "codepoint": 58224,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "tiktok"
+    },
+    "tiktok-flat": {
+      "codepoint": 58225,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "tiktokFlat"
+    },
+    "toast": {
+      "codepoint": 58226,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toast"
+    },
+    "toast-flat": {
+      "codepoint": 58227,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toastFlat"
+    },
+    "toilet-man": {
+      "codepoint": 58228,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toiletMan"
+    },
+    "toilet-man-flat": {
+      "codepoint": 58229,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toiletManFlat"
+    },
+    "toilet-sign-man": {
+      "codepoint": 58230,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toiletSignMan"
+    },
+    "toilet-sign-man-flat": {
+      "codepoint": 58231,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toiletSignManFlat"
+    },
+    "toilet-women": {
+      "codepoint": 58232,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toiletWomen"
+    },
+    "toilet-women-flat": {
+      "codepoint": 58233,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toiletWomenFlat"
+    },
+    "tool-box": {
+      "codepoint": 58234,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toolBox"
+    },
+    "tool-box-flat": {
+      "codepoint": 58235,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toolBoxFlat"
+    },
+    "top-order-report": {
+      "codepoint": 58236,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "topOrderReport"
+    },
+    "top-order-report-flat": {
+      "codepoint": 58237,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "topOrderReportFlat"
+    },
+    "traffic-light": {
+      "codepoint": 58238,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "trafficLight"
+    },
+    "traffic-light-flat": {
+      "codepoint": 58239,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "trafficLightFlat"
+    },
+    "transparent": {
+      "codepoint": 58240,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "transparent"
+    },
+    "transparent-flat": {
+      "codepoint": 58241,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "transparentFlat"
+    },
+    "treasure-chest": {
+      "codepoint": 58242,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "treasureChest"
+    },
+    "treasure-chest-flat": {
+      "codepoint": 58243,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "treasureChestFlat"
+    },
+    "tree-1": {
+      "codepoint": 58244,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "tree1"
+    },
+    "tree-1-flat": {
+      "codepoint": 58245,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "tree1Flat"
+    },
+    "trending-content": {
+      "codepoint": 58246,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "trendingContent"
+    },
+    "trending-content-flat": {
+      "codepoint": 58247,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "trendingContentFlat"
+    },
+    "tune-adjust-volume": {
+      "codepoint": 58248,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "tuneAdjustVolume"
+    },
+    "tune-adjust-volume-flat": {
+      "codepoint": 58249,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "tuneAdjustVolumeFlat"
+    },
+    "upload-box-1": {
+      "codepoint": 58250,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "uploadBox1"
+    },
+    "upload-box-1-flat": {
+      "codepoint": 58251,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "uploadBox1Flat"
+    },
+    "usb-port": {
+      "codepoint": 58252,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "usbPort"
+    },
+    "usb-port-flat": {
+      "codepoint": 58253,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "usbPortFlat"
+    },
+    "user-face-id-mask": {
+      "codepoint": 58254,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userFaceIdMask"
+    },
+    "user-face-id-mask-flat": {
+      "codepoint": 58255,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userFaceIdMaskFlat"
+    },
+    "user-face-male": {
+      "codepoint": 58256,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userFaceMale"
+    },
+    "user-face-male-flat": {
+      "codepoint": 58257,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userFaceMaleFlat"
+    },
+    "user-feedback-heart": {
+      "codepoint": 58258,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userFeedbackHeart"
+    },
+    "user-feedback-heart-flat": {
+      "codepoint": 58259,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userFeedbackHeartFlat"
+    },
+    "user-multiple-accounts": {
+      "codepoint": 58260,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userMultipleAccounts"
+    },
+    "user-multiple-accounts-flat": {
+      "codepoint": 58261,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userMultipleAccountsFlat"
+    },
+    "user-pin": {
+      "codepoint": 58262,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userPin"
+    },
+    "user-pin-flat": {
+      "codepoint": 58263,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userPinFlat"
+    },
+    "user-podcast": {
+      "codepoint": 58264,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userPodcast"
+    },
+    "user-podcast-flat": {
+      "codepoint": 58265,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userPodcastFlat"
+    },
+    "user-protection-check": {
+      "codepoint": 58266,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userProtectionCheck"
+    },
+    "user-protection-check-flat": {
+      "codepoint": 58267,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userProtectionCheckFlat"
+    },
+    "user-single-neutral-male": {
+      "codepoint": 58268,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userSingleNeutralMale"
+    },
+    "user-single-neutral-male-flat": {
+      "codepoint": 58269,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userSingleNeutralMaleFlat"
+    },
+    "user-sticker-square": {
+      "codepoint": 58270,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userStickerSquare"
+    },
+    "user-sticker-square-flat": {
+      "codepoint": 58271,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userStickerSquareFlat"
+    },
+    "user-switch-account": {
+      "codepoint": 58272,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userSwitchAccount"
+    },
+    "user-switch-account-flat": {
+      "codepoint": 58273,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "userSwitchAccountFlat"
+    },
+    "video-close-captioning": {
+      "codepoint": 58274,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "videoCloseCaptioning"
+    },
+    "video-close-captioning-flat": {
+      "codepoint": 58275,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "videoCloseCaptioningFlat"
+    },
+    "video-subtitles": {
+      "codepoint": 58276,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "videoSubtitles"
+    },
+    "video-subtitles-flat": {
+      "codepoint": 58277,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "videoSubtitlesFlat"
+    },
+    "virtual-reality": {
+      "codepoint": 58278,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "virtualReality"
+    },
+    "virtual-reality-flat": {
+      "codepoint": 58279,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "virtualRealityFlat"
+    },
+    "virus-antivirus": {
+      "codepoint": 58280,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "virusAntivirus"
+    },
+    "virus-antivirus-flat": {
+      "codepoint": 58281,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "virusAntivirusFlat"
+    },
+    "visual-blind": {
+      "codepoint": 58282,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "visualBlind"
+    },
+    "visual-blind-flat": {
+      "codepoint": 58283,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "visualBlindFlat"
+    },
+    "voice-activation-1": {
+      "codepoint": 58284,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "voiceActivation1"
+    },
+    "voice-activation-1-flat": {
+      "codepoint": 58285,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "voiceActivation1Flat"
+    },
+    "voice-mail": {
+      "codepoint": 58286,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "voiceMail"
+    },
+    "voice-mail-flat": {
+      "codepoint": 58287,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "voiceMailFlat"
+    },
+    "voice-scan-1": {
+      "codepoint": 58288,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "voiceScan1"
+    },
+    "voice-scan-1-flat": {
+      "codepoint": 58289,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "voiceScan1Flat"
+    },
+    "voice-typing-word-convert": {
+      "codepoint": 58290,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "voiceTypingWordConvert"
+    },
+    "voice-typing-word-convert-flat": {
+      "codepoint": 58291,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "voiceTypingWordConvertFlat"
+    },
+    "volume-level-high": {
+      "codepoint": 58292,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "volumeLevelHigh"
+    },
+    "volume-level-high-flat": {
+      "codepoint": 58293,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "volumeLevelHighFlat"
+    },
+    "vpn-connection": {
+      "codepoint": 58294,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "vpnConnection"
+    },
+    "vpn-connection-flat": {
+      "codepoint": 58295,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "vpnConnectionFlat"
+    },
+    "wallet": {
+      "codepoint": 58296,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wallet"
+    },
+    "wallet-flat": {
+      "codepoint": 58297,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "walletFlat"
+    },
+    "warehouse-1": {
+      "codepoint": 58298,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "warehouse1"
+    },
+    "warehouse-1-flat": {
+      "codepoint": 58299,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "warehouse1Flat"
+    },
+    "warning-diamond": {
+      "codepoint": 58300,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "warningDiamond"
+    },
+    "warning-diamond-flat": {
+      "codepoint": 58301,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "warningDiamondFlat"
+    },
+    "warp-squeeze": {
+      "codepoint": 58302,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "warpSqueeze"
+    },
+    "warp-squeeze-flat": {
+      "codepoint": 58303,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "warpSqueezeFlat"
+    },
+    "watch-1": {
+      "codepoint": 58304,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "watch1"
+    },
+    "watch-1-flat": {
+      "codepoint": 58305,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "watch1Flat"
+    },
+    "watch-circle-menu": {
+      "codepoint": 58306,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "watchCircleMenu"
+    },
+    "watch-circle-menu-flat": {
+      "codepoint": 58307,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "watchCircleMenuFlat"
+    },
+    "water-melon": {
+      "codepoint": 58308,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "waterMelon"
+    },
+    "water-melon-flat": {
+      "codepoint": 58309,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "waterMelonFlat"
+    },
+    "wave-signal-square": {
+      "codepoint": 58310,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "waveSignalSquare"
+    },
+    "wave-signal-square-flat": {
+      "codepoint": 58311,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "waveSignalSquareFlat"
+    },
+    "waving-hand": {
+      "codepoint": 58312,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wavingHand"
+    },
+    "waving-hand-flat": {
+      "codepoint": 58313,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wavingHandFlat"
+    },
+    "web": {
+      "codepoint": 58314,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "web"
+    },
+    "web-flat": {
+      "codepoint": 58315,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "webFlat"
+    },
+    "webcam-off": {
+      "codepoint": 58316,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "webcamOff"
+    },
+    "webcam-off-flat": {
+      "codepoint": 58317,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "webcamOffFlat"
+    },
+    "webcam-video": {
+      "codepoint": 58318,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "webcamVideo"
+    },
+    "webcam-video-flat": {
+      "codepoint": 58319,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "webcamVideoFlat"
+    },
+    "wheat": {
+      "codepoint": 58320,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wheat"
+    },
+    "wheat-flat": {
+      "codepoint": 58321,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wheatFlat"
+    },
+    "wheelchair-2": {
+      "codepoint": 58322,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wheelchair2"
+    },
+    "wheelchair-2-flat": {
+      "codepoint": 58323,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wheelchair2Flat"
+    },
+    "widget": {
+      "codepoint": 58324,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "widget"
+    },
+    "widget-flat": {
+      "codepoint": 58325,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "widgetFlat"
+    },
+    "wifi": {
+      "codepoint": 58326,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wifi"
+    },
+    "wifi-flat": {
+      "codepoint": 58327,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wifiFlat"
+    },
+    "wine": {
+      "codepoint": 58328,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wine"
+    },
+    "wine-flat": {
+      "codepoint": 58329,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wineFlat"
+    },
+    "workspace-desk": {
+      "codepoint": 58330,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "workspaceDesk"
+    },
+    "workspace-desk-flat": {
+      "codepoint": 58331,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "workspaceDeskFlat"
+    },
+    "world": {
+      "codepoint": 58332,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "world"
+    },
+    "world-flat": {
+      "codepoint": 58333,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "worldFlat"
+    },
+    "wrap-arch": {
+      "codepoint": 58334,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wrapArch"
+    },
+    "wrap-arch-flat": {
+      "codepoint": 58335,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wrapArchFlat"
+    },
+    "wrench-circle": {
+      "codepoint": 58336,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wrenchCircle"
+    },
+    "wrench-circle-flat": {
+      "codepoint": 58337,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wrenchCircleFlat"
+    },
+    "yin-yang-symbol": {
+      "codepoint": 58338,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "yinYangSymbol"
+    },
+    "yin-yang-symbol-flat": {
+      "codepoint": 58339,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "yinYangSymbolFlat"
+    },
+    "zoom-in": {
+      "codepoint": 58340,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "zoomIn"
+    },
+    "zoom-in-flat": {
+      "codepoint": 58341,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "zoomInFlat"
+    },
+    "zoom-in-gesture": {
+      "codepoint": 58342,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "zoomInGesture"
+    },
+    "zoom-in-gesture-flat": {
+      "codepoint": 58343,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "zoomInGestureFlat"
+    }
+  }
+}

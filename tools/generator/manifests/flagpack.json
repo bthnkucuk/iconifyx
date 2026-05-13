@@ -1,0 +1,1310 @@
+{
+  "schemaVersion": 1,
+  "prefix": "flagpack",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Flags / Maps",
+  "subPackage": "iconifyx_flagpack",
+  "info": {
+    "name": "Flagpack",
+    "author": {
+      "name": "Yummygum",
+      "url": "https://github.com/Yummygum/flagpack-core"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/Yummygum/flagpack-core/blob/main/LICENSE"
+    },
+    "total": 256
+  },
+  "fonts": [
+    {
+      "family": "Flagpack",
+      "nextCodepoint": 57600,
+      "iconCount": 256
+    }
+  ],
+  "icons": {
+    "ad": {
+      "codepoint": 57344,
+      "fontFamily": "Flagpack",
+      "identifier": "ad"
+    },
+    "ae": {
+      "codepoint": 57345,
+      "fontFamily": "Flagpack",
+      "identifier": "ae"
+    },
+    "af": {
+      "codepoint": 57346,
+      "fontFamily": "Flagpack",
+      "identifier": "af"
+    },
+    "ag": {
+      "codepoint": 57347,
+      "fontFamily": "Flagpack",
+      "identifier": "ag"
+    },
+    "ai": {
+      "codepoint": 57348,
+      "fontFamily": "Flagpack",
+      "identifier": "ai"
+    },
+    "al": {
+      "codepoint": 57349,
+      "fontFamily": "Flagpack",
+      "identifier": "al"
+    },
+    "am": {
+      "codepoint": 57350,
+      "fontFamily": "Flagpack",
+      "identifier": "am"
+    },
+    "ao": {
+      "codepoint": 57351,
+      "fontFamily": "Flagpack",
+      "identifier": "ao"
+    },
+    "aq": {
+      "codepoint": 57352,
+      "fontFamily": "Flagpack",
+      "identifier": "aq"
+    },
+    "ar": {
+      "codepoint": 57353,
+      "fontFamily": "Flagpack",
+      "identifier": "ar"
+    },
+    "as": {
+      "codepoint": 57354,
+      "fontFamily": "Flagpack",
+      "identifier": "as_"
+    },
+    "at": {
+      "codepoint": 57355,
+      "fontFamily": "Flagpack",
+      "identifier": "at"
+    },
+    "au": {
+      "codepoint": 57356,
+      "fontFamily": "Flagpack",
+      "identifier": "au"
+    },
+    "aw": {
+      "codepoint": 57357,
+      "fontFamily": "Flagpack",
+      "identifier": "aw"
+    },
+    "ax": {
+      "codepoint": 57358,
+      "fontFamily": "Flagpack",
+      "identifier": "ax"
+    },
+    "az": {
+      "codepoint": 57359,
+      "fontFamily": "Flagpack",
+      "identifier": "az"
+    },
+    "ba": {
+      "codepoint": 57360,
+      "fontFamily": "Flagpack",
+      "identifier": "ba"
+    },
+    "bb": {
+      "codepoint": 57361,
+      "fontFamily": "Flagpack",
+      "identifier": "bb"
+    },
+    "bd": {
+      "codepoint": 57362,
+      "fontFamily": "Flagpack",
+      "identifier": "bd"
+    },
+    "be": {
+      "codepoint": 57363,
+      "fontFamily": "Flagpack",
+      "identifier": "be"
+    },
+    "bf": {
+      "codepoint": 57364,
+      "fontFamily": "Flagpack",
+      "identifier": "bf"
+    },
+    "bg": {
+      "codepoint": 57365,
+      "fontFamily": "Flagpack",
+      "identifier": "bg"
+    },
+    "bh": {
+      "codepoint": 57366,
+      "fontFamily": "Flagpack",
+      "identifier": "bh"
+    },
+    "bi": {
+      "codepoint": 57367,
+      "fontFamily": "Flagpack",
+      "identifier": "bi"
+    },
+    "bj": {
+      "codepoint": 57368,
+      "fontFamily": "Flagpack",
+      "identifier": "bj"
+    },
+    "bl": {
+      "codepoint": 57369,
+      "fontFamily": "Flagpack",
+      "identifier": "bl"
+    },
+    "bm": {
+      "codepoint": 57370,
+      "fontFamily": "Flagpack",
+      "identifier": "bm"
+    },
+    "bn": {
+      "codepoint": 57371,
+      "fontFamily": "Flagpack",
+      "identifier": "bn"
+    },
+    "bo": {
+      "codepoint": 57372,
+      "fontFamily": "Flagpack",
+      "identifier": "bo"
+    },
+    "bq-bo": {
+      "codepoint": 57373,
+      "fontFamily": "Flagpack",
+      "identifier": "bqBo"
+    },
+    "bq-sa": {
+      "codepoint": 57374,
+      "fontFamily": "Flagpack",
+      "identifier": "bqSa"
+    },
+    "bq-se": {
+      "codepoint": 57375,
+      "fontFamily": "Flagpack",
+      "identifier": "bqSe"
+    },
+    "br": {
+      "codepoint": 57376,
+      "fontFamily": "Flagpack",
+      "identifier": "br"
+    },
+    "bs": {
+      "codepoint": 57377,
+      "fontFamily": "Flagpack",
+      "identifier": "bs"
+    },
+    "bt": {
+      "codepoint": 57378,
+      "fontFamily": "Flagpack",
+      "identifier": "bt"
+    },
+    "bv": {
+      "codepoint": 57379,
+      "fontFamily": "Flagpack",
+      "identifier": "bv"
+    },
+    "bw": {
+      "codepoint": 57380,
+      "fontFamily": "Flagpack",
+      "identifier": "bw"
+    },
+    "by": {
+      "codepoint": 57381,
+      "fontFamily": "Flagpack",
+      "identifier": "by"
+    },
+    "bz": {
+      "codepoint": 57382,
+      "fontFamily": "Flagpack",
+      "identifier": "bz"
+    },
+    "ca": {
+      "codepoint": 57383,
+      "fontFamily": "Flagpack",
+      "identifier": "ca"
+    },
+    "cc": {
+      "codepoint": 57384,
+      "fontFamily": "Flagpack",
+      "identifier": "cc"
+    },
+    "cd": {
+      "codepoint": 57385,
+      "fontFamily": "Flagpack",
+      "identifier": "cd"
+    },
+    "cf": {
+      "codepoint": 57386,
+      "fontFamily": "Flagpack",
+      "identifier": "cf"
+    },
+    "cg": {
+      "codepoint": 57387,
+      "fontFamily": "Flagpack",
+      "identifier": "cg"
+    },
+    "ch": {
+      "codepoint": 57388,
+      "fontFamily": "Flagpack",
+      "identifier": "ch"
+    },
+    "ci": {
+      "codepoint": 57389,
+      "fontFamily": "Flagpack",
+      "identifier": "ci"
+    },
+    "ck": {
+      "codepoint": 57390,
+      "fontFamily": "Flagpack",
+      "identifier": "ck"
+    },
+    "cl": {
+      "codepoint": 57391,
+      "fontFamily": "Flagpack",
+      "identifier": "cl"
+    },
+    "cm": {
+      "codepoint": 57392,
+      "fontFamily": "Flagpack",
+      "identifier": "cm"
+    },
+    "cn": {
+      "codepoint": 57393,
+      "fontFamily": "Flagpack",
+      "identifier": "cn"
+    },
+    "co": {
+      "codepoint": 57394,
+      "fontFamily": "Flagpack",
+      "identifier": "co"
+    },
+    "cr": {
+      "codepoint": 57395,
+      "fontFamily": "Flagpack",
+      "identifier": "cr"
+    },
+    "cu": {
+      "codepoint": 57396,
+      "fontFamily": "Flagpack",
+      "identifier": "cu"
+    },
+    "cv": {
+      "codepoint": 57397,
+      "fontFamily": "Flagpack",
+      "identifier": "cv"
+    },
+    "cw": {
+      "codepoint": 57398,
+      "fontFamily": "Flagpack",
+      "identifier": "cw"
+    },
+    "cx": {
+      "codepoint": 57399,
+      "fontFamily": "Flagpack",
+      "identifier": "cx"
+    },
+    "cy": {
+      "codepoint": 57400,
+      "fontFamily": "Flagpack",
+      "identifier": "cy"
+    },
+    "cz": {
+      "codepoint": 57401,
+      "fontFamily": "Flagpack",
+      "identifier": "cz"
+    },
+    "de": {
+      "codepoint": 57402,
+      "fontFamily": "Flagpack",
+      "identifier": "de"
+    },
+    "dj": {
+      "codepoint": 57403,
+      "fontFamily": "Flagpack",
+      "identifier": "dj"
+    },
+    "dk": {
+      "codepoint": 57404,
+      "fontFamily": "Flagpack",
+      "identifier": "dk"
+    },
+    "dm": {
+      "codepoint": 57405,
+      "fontFamily": "Flagpack",
+      "identifier": "dm"
+    },
+    "do": {
+      "codepoint": 57406,
+      "fontFamily": "Flagpack",
+      "identifier": "do_"
+    },
+    "dz": {
+      "codepoint": 57407,
+      "fontFamily": "Flagpack",
+      "identifier": "dz"
+    },
+    "ec": {
+      "codepoint": 57408,
+      "fontFamily": "Flagpack",
+      "identifier": "ec"
+    },
+    "ee": {
+      "codepoint": 57409,
+      "fontFamily": "Flagpack",
+      "identifier": "ee"
+    },
+    "eg": {
+      "codepoint": 57410,
+      "fontFamily": "Flagpack",
+      "identifier": "eg"
+    },
+    "eh": {
+      "codepoint": 57411,
+      "fontFamily": "Flagpack",
+      "identifier": "eh"
+    },
+    "er": {
+      "codepoint": 57412,
+      "fontFamily": "Flagpack",
+      "identifier": "er"
+    },
+    "es": {
+      "codepoint": 57413,
+      "fontFamily": "Flagpack",
+      "identifier": "es"
+    },
+    "et": {
+      "codepoint": 57414,
+      "fontFamily": "Flagpack",
+      "identifier": "et"
+    },
+    "fi": {
+      "codepoint": 57415,
+      "fontFamily": "Flagpack",
+      "identifier": "fi"
+    },
+    "fj": {
+      "codepoint": 57416,
+      "fontFamily": "Flagpack",
+      "identifier": "fj"
+    },
+    "fk": {
+      "codepoint": 57417,
+      "fontFamily": "Flagpack",
+      "identifier": "fk"
+    },
+    "fm": {
+      "codepoint": 57418,
+      "fontFamily": "Flagpack",
+      "identifier": "fm"
+    },
+    "fo": {
+      "codepoint": 57419,
+      "fontFamily": "Flagpack",
+      "identifier": "fo"
+    },
+    "fr": {
+      "codepoint": 57420,
+      "fontFamily": "Flagpack",
+      "identifier": "fr"
+    },
+    "ga": {
+      "codepoint": 57421,
+      "fontFamily": "Flagpack",
+      "identifier": "ga"
+    },
+    "gb": {
+      "codepoint": 57422,
+      "fontFamily": "Flagpack",
+      "identifier": "gb"
+    },
+    "gb-eng": {
+      "codepoint": 57423,
+      "fontFamily": "Flagpack",
+      "identifier": "gbEng"
+    },
+    "gb-nir": {
+      "codepoint": 57424,
+      "fontFamily": "Flagpack",
+      "identifier": "gbNir"
+    },
+    "gb-sct": {
+      "codepoint": 57425,
+      "fontFamily": "Flagpack",
+      "identifier": "gbSct"
+    },
+    "gb-ukm": {
+      "codepoint": 57426,
+      "fontFamily": "Flagpack",
+      "identifier": "gbUkm"
+    },
+    "gb-wls": {
+      "codepoint": 57427,
+      "fontFamily": "Flagpack",
+      "identifier": "gbWls"
+    },
+    "gd": {
+      "codepoint": 57428,
+      "fontFamily": "Flagpack",
+      "identifier": "gd"
+    },
+    "ge": {
+      "codepoint": 57429,
+      "fontFamily": "Flagpack",
+      "identifier": "ge"
+    },
+    "gf": {
+      "codepoint": 57430,
+      "fontFamily": "Flagpack",
+      "identifier": "gf"
+    },
+    "gg": {
+      "codepoint": 57431,
+      "fontFamily": "Flagpack",
+      "identifier": "gg"
+    },
+    "gh": {
+      "codepoint": 57432,
+      "fontFamily": "Flagpack",
+      "identifier": "gh"
+    },
+    "gi": {
+      "codepoint": 57433,
+      "fontFamily": "Flagpack",
+      "identifier": "gi"
+    },
+    "gl": {
+      "codepoint": 57434,
+      "fontFamily": "Flagpack",
+      "identifier": "gl"
+    },
+    "gm": {
+      "codepoint": 57435,
+      "fontFamily": "Flagpack",
+      "identifier": "gm"
+    },
+    "gn": {
+      "codepoint": 57436,
+      "fontFamily": "Flagpack",
+      "identifier": "gn"
+    },
+    "gp": {
+      "codepoint": 57437,
+      "fontFamily": "Flagpack",
+      "identifier": "gp"
+    },
+    "gq": {
+      "codepoint": 57438,
+      "fontFamily": "Flagpack",
+      "identifier": "gq"
+    },
+    "gr": {
+      "codepoint": 57439,
+      "fontFamily": "Flagpack",
+      "identifier": "gr"
+    },
+    "gs": {
+      "codepoint": 57440,
+      "fontFamily": "Flagpack",
+      "identifier": "gs"
+    },
+    "gt": {
+      "codepoint": 57441,
+      "fontFamily": "Flagpack",
+      "identifier": "gt"
+    },
+    "gu": {
+      "codepoint": 57442,
+      "fontFamily": "Flagpack",
+      "identifier": "gu"
+    },
+    "gw": {
+      "codepoint": 57443,
+      "fontFamily": "Flagpack",
+      "identifier": "gw"
+    },
+    "gy": {
+      "codepoint": 57444,
+      "fontFamily": "Flagpack",
+      "identifier": "gy"
+    },
+    "hk": {
+      "codepoint": 57445,
+      "fontFamily": "Flagpack",
+      "identifier": "hk"
+    },
+    "hm": {
+      "codepoint": 57446,
+      "fontFamily": "Flagpack",
+      "identifier": "hm"
+    },
+    "hn": {
+      "codepoint": 57447,
+      "fontFamily": "Flagpack",
+      "identifier": "hn"
+    },
+    "hr": {
+      "codepoint": 57448,
+      "fontFamily": "Flagpack",
+      "identifier": "hr"
+    },
+    "ht": {
+      "codepoint": 57449,
+      "fontFamily": "Flagpack",
+      "identifier": "ht"
+    },
+    "hu": {
+      "codepoint": 57450,
+      "fontFamily": "Flagpack",
+      "identifier": "hu"
+    },
+    "id": {
+      "codepoint": 57451,
+      "fontFamily": "Flagpack",
+      "identifier": "id"
+    },
+    "ie": {
+      "codepoint": 57452,
+      "fontFamily": "Flagpack",
+      "identifier": "ie"
+    },
+    "il": {
+      "codepoint": 57453,
+      "fontFamily": "Flagpack",
+      "identifier": "il"
+    },
+    "im": {
+      "codepoint": 57454,
+      "fontFamily": "Flagpack",
+      "identifier": "im"
+    },
+    "in": {
+      "codepoint": 57455,
+      "fontFamily": "Flagpack",
+      "identifier": "in_"
+    },
+    "io": {
+      "codepoint": 57456,
+      "fontFamily": "Flagpack",
+      "identifier": "io"
+    },
+    "iq": {
+      "codepoint": 57457,
+      "fontFamily": "Flagpack",
+      "identifier": "iq"
+    },
+    "ir": {
+      "codepoint": 57458,
+      "fontFamily": "Flagpack",
+      "identifier": "ir"
+    },
+    "is": {
+      "codepoint": 57459,
+      "fontFamily": "Flagpack",
+      "identifier": "is_"
+    },
+    "it": {
+      "codepoint": 57460,
+      "fontFamily": "Flagpack",
+      "identifier": "it"
+    },
+    "je": {
+      "codepoint": 57461,
+      "fontFamily": "Flagpack",
+      "identifier": "je"
+    },
+    "jm": {
+      "codepoint": 57462,
+      "fontFamily": "Flagpack",
+      "identifier": "jm"
+    },
+    "jo": {
+      "codepoint": 57463,
+      "fontFamily": "Flagpack",
+      "identifier": "jo"
+    },
+    "jp": {
+      "codepoint": 57464,
+      "fontFamily": "Flagpack",
+      "identifier": "jp"
+    },
+    "ke": {
+      "codepoint": 57465,
+      "fontFamily": "Flagpack",
+      "identifier": "ke"
+    },
+    "kg": {
+      "codepoint": 57466,
+      "fontFamily": "Flagpack",
+      "identifier": "kg"
+    },
+    "kh": {
+      "codepoint": 57467,
+      "fontFamily": "Flagpack",
+      "identifier": "kh"
+    },
+    "ki": {
+      "codepoint": 57468,
+      "fontFamily": "Flagpack",
+      "identifier": "ki"
+    },
+    "km": {
+      "codepoint": 57469,
+      "fontFamily": "Flagpack",
+      "identifier": "km"
+    },
+    "kn": {
+      "codepoint": 57470,
+      "fontFamily": "Flagpack",
+      "identifier": "kn"
+    },
+    "kp": {
+      "codepoint": 57471,
+      "fontFamily": "Flagpack",
+      "identifier": "kp"
+    },
+    "kr": {
+      "codepoint": 57472,
+      "fontFamily": "Flagpack",
+      "identifier": "kr"
+    },
+    "kw": {
+      "codepoint": 57473,
+      "fontFamily": "Flagpack",
+      "identifier": "kw"
+    },
+    "ky": {
+      "codepoint": 57474,
+      "fontFamily": "Flagpack",
+      "identifier": "ky"
+    },
+    "kz": {
+      "codepoint": 57475,
+      "fontFamily": "Flagpack",
+      "identifier": "kz"
+    },
+    "la": {
+      "codepoint": 57476,
+      "fontFamily": "Flagpack",
+      "identifier": "la"
+    },
+    "lb": {
+      "codepoint": 57477,
+      "fontFamily": "Flagpack",
+      "identifier": "lb"
+    },
+    "lc": {
+      "codepoint": 57478,
+      "fontFamily": "Flagpack",
+      "identifier": "lc"
+    },
+    "li": {
+      "codepoint": 57479,
+      "fontFamily": "Flagpack",
+      "identifier": "li"
+    },
+    "lk": {
+      "codepoint": 57480,
+      "fontFamily": "Flagpack",
+      "identifier": "lk"
+    },
+    "lr": {
+      "codepoint": 57481,
+      "fontFamily": "Flagpack",
+      "identifier": "lr"
+    },
+    "ls": {
+      "codepoint": 57482,
+      "fontFamily": "Flagpack",
+      "identifier": "ls"
+    },
+    "lt": {
+      "codepoint": 57483,
+      "fontFamily": "Flagpack",
+      "identifier": "lt"
+    },
+    "lu": {
+      "codepoint": 57484,
+      "fontFamily": "Flagpack",
+      "identifier": "lu"
+    },
+    "lv": {
+      "codepoint": 57485,
+      "fontFamily": "Flagpack",
+      "identifier": "lv"
+    },
+    "ly": {
+      "codepoint": 57486,
+      "fontFamily": "Flagpack",
+      "identifier": "ly"
+    },
+    "ma": {
+      "codepoint": 57487,
+      "fontFamily": "Flagpack",
+      "identifier": "ma"
+    },
+    "mc": {
+      "codepoint": 57488,
+      "fontFamily": "Flagpack",
+      "identifier": "mc"
+    },
+    "md": {
+      "codepoint": 57489,
+      "fontFamily": "Flagpack",
+      "identifier": "md"
+    },
+    "me": {
+      "codepoint": 57490,
+      "fontFamily": "Flagpack",
+      "identifier": "me"
+    },
+    "mf": {
+      "codepoint": 57491,
+      "fontFamily": "Flagpack",
+      "identifier": "mf"
+    },
+    "mg": {
+      "codepoint": 57492,
+      "fontFamily": "Flagpack",
+      "identifier": "mg"
+    },
+    "mh": {
+      "codepoint": 57493,
+      "fontFamily": "Flagpack",
+      "identifier": "mh"
+    },
+    "mk": {
+      "codepoint": 57494,
+      "fontFamily": "Flagpack",
+      "identifier": "mk"
+    },
+    "ml": {
+      "codepoint": 57495,
+      "fontFamily": "Flagpack",
+      "identifier": "ml"
+    },
+    "mm": {
+      "codepoint": 57496,
+      "fontFamily": "Flagpack",
+      "identifier": "mm"
+    },
+    "mn": {
+      "codepoint": 57497,
+      "fontFamily": "Flagpack",
+      "identifier": "mn"
+    },
+    "mo": {
+      "codepoint": 57498,
+      "fontFamily": "Flagpack",
+      "identifier": "mo"
+    },
+    "mp": {
+      "codepoint": 57499,
+      "fontFamily": "Flagpack",
+      "identifier": "mp"
+    },
+    "mq": {
+      "codepoint": 57500,
+      "fontFamily": "Flagpack",
+      "identifier": "mq"
+    },
+    "mr": {
+      "codepoint": 57501,
+      "fontFamily": "Flagpack",
+      "identifier": "mr"
+    },
+    "ms": {
+      "codepoint": 57502,
+      "fontFamily": "Flagpack",
+      "identifier": "ms"
+    },
+    "mt": {
+      "codepoint": 57503,
+      "fontFamily": "Flagpack",
+      "identifier": "mt"
+    },
+    "mu": {
+      "codepoint": 57504,
+      "fontFamily": "Flagpack",
+      "identifier": "mu"
+    },
+    "mv": {
+      "codepoint": 57505,
+      "fontFamily": "Flagpack",
+      "identifier": "mv"
+    },
+    "mw": {
+      "codepoint": 57506,
+      "fontFamily": "Flagpack",
+      "identifier": "mw"
+    },
+    "mx": {
+      "codepoint": 57507,
+      "fontFamily": "Flagpack",
+      "identifier": "mx"
+    },
+    "my": {
+      "codepoint": 57508,
+      "fontFamily": "Flagpack",
+      "identifier": "my"
+    },
+    "mz": {
+      "codepoint": 57509,
+      "fontFamily": "Flagpack",
+      "identifier": "mz"
+    },
+    "na": {
+      "codepoint": 57510,
+      "fontFamily": "Flagpack",
+      "identifier": "na"
+    },
+    "nc": {
+      "codepoint": 57511,
+      "fontFamily": "Flagpack",
+      "identifier": "nc"
+    },
+    "ne": {
+      "codepoint": 57512,
+      "fontFamily": "Flagpack",
+      "identifier": "ne"
+    },
+    "nf": {
+      "codepoint": 57513,
+      "fontFamily": "Flagpack",
+      "identifier": "nf"
+    },
+    "ng": {
+      "codepoint": 57514,
+      "fontFamily": "Flagpack",
+      "identifier": "ng"
+    },
+    "ni": {
+      "codepoint": 57515,
+      "fontFamily": "Flagpack",
+      "identifier": "ni"
+    },
+    "nl": {
+      "codepoint": 57516,
+      "fontFamily": "Flagpack",
+      "identifier": "nl"
+    },
+    "no": {
+      "codepoint": 57517,
+      "fontFamily": "Flagpack",
+      "identifier": "no"
+    },
+    "np": {
+      "codepoint": 57518,
+      "fontFamily": "Flagpack",
+      "identifier": "np"
+    },
+    "nr": {
+      "codepoint": 57519,
+      "fontFamily": "Flagpack",
+      "identifier": "nr"
+    },
+    "nu": {
+      "codepoint": 57520,
+      "fontFamily": "Flagpack",
+      "identifier": "nu"
+    },
+    "nz": {
+      "codepoint": 57521,
+      "fontFamily": "Flagpack",
+      "identifier": "nz"
+    },
+    "om": {
+      "codepoint": 57522,
+      "fontFamily": "Flagpack",
+      "identifier": "om"
+    },
+    "pa": {
+      "codepoint": 57523,
+      "fontFamily": "Flagpack",
+      "identifier": "pa"
+    },
+    "pe": {
+      "codepoint": 57524,
+      "fontFamily": "Flagpack",
+      "identifier": "pe"
+    },
+    "pf": {
+      "codepoint": 57525,
+      "fontFamily": "Flagpack",
+      "identifier": "pf"
+    },
+    "pg": {
+      "codepoint": 57526,
+      "fontFamily": "Flagpack",
+      "identifier": "pg"
+    },
+    "ph": {
+      "codepoint": 57527,
+      "fontFamily": "Flagpack",
+      "identifier": "ph"
+    },
+    "pk": {
+      "codepoint": 57528,
+      "fontFamily": "Flagpack",
+      "identifier": "pk"
+    },
+    "pl": {
+      "codepoint": 57529,
+      "fontFamily": "Flagpack",
+      "identifier": "pl"
+    },
+    "pm": {
+      "codepoint": 57530,
+      "fontFamily": "Flagpack",
+      "identifier": "pm"
+    },
+    "pn": {
+      "codepoint": 57531,
+      "fontFamily": "Flagpack",
+      "identifier": "pn"
+    },
+    "pr": {
+      "codepoint": 57532,
+      "fontFamily": "Flagpack",
+      "identifier": "pr"
+    },
+    "ps": {
+      "codepoint": 57533,
+      "fontFamily": "Flagpack",
+      "identifier": "ps"
+    },
+    "pt": {
+      "codepoint": 57534,
+      "fontFamily": "Flagpack",
+      "identifier": "pt"
+    },
+    "pw": {
+      "codepoint": 57535,
+      "fontFamily": "Flagpack",
+      "identifier": "pw"
+    },
+    "py": {
+      "codepoint": 57536,
+      "fontFamily": "Flagpack",
+      "identifier": "py"
+    },
+    "qa": {
+      "codepoint": 57537,
+      "fontFamily": "Flagpack",
+      "identifier": "qa"
+    },
+    "re": {
+      "codepoint": 57538,
+      "fontFamily": "Flagpack",
+      "identifier": "re"
+    },
+    "ro": {
+      "codepoint": 57539,
+      "fontFamily": "Flagpack",
+      "identifier": "ro"
+    },
+    "rs": {
+      "codepoint": 57540,
+      "fontFamily": "Flagpack",
+      "identifier": "rs"
+    },
+    "ru": {
+      "codepoint": 57541,
+      "fontFamily": "Flagpack",
+      "identifier": "ru"
+    },
+    "rw": {
+      "codepoint": 57542,
+      "fontFamily": "Flagpack",
+      "identifier": "rw"
+    },
+    "sa": {
+      "codepoint": 57543,
+      "fontFamily": "Flagpack",
+      "identifier": "sa"
+    },
+    "sb": {
+      "codepoint": 57544,
+      "fontFamily": "Flagpack",
+      "identifier": "sb"
+    },
+    "sc": {
+      "codepoint": 57545,
+      "fontFamily": "Flagpack",
+      "identifier": "sc"
+    },
+    "sd": {
+      "codepoint": 57546,
+      "fontFamily": "Flagpack",
+      "identifier": "sd"
+    },
+    "se": {
+      "codepoint": 57547,
+      "fontFamily": "Flagpack",
+      "identifier": "se"
+    },
+    "sg": {
+      "codepoint": 57548,
+      "fontFamily": "Flagpack",
+      "identifier": "sg"
+    },
+    "sh": {
+      "codepoint": 57549,
+      "fontFamily": "Flagpack",
+      "identifier": "sh"
+    },
+    "si": {
+      "codepoint": 57550,
+      "fontFamily": "Flagpack",
+      "identifier": "si"
+    },
+    "sj": {
+      "codepoint": 57551,
+      "fontFamily": "Flagpack",
+      "identifier": "sj"
+    },
+    "sk": {
+      "codepoint": 57552,
+      "fontFamily": "Flagpack",
+      "identifier": "sk"
+    },
+    "sl": {
+      "codepoint": 57553,
+      "fontFamily": "Flagpack",
+      "identifier": "sl"
+    },
+    "sm": {
+      "codepoint": 57554,
+      "fontFamily": "Flagpack",
+      "identifier": "sm"
+    },
+    "sn": {
+      "codepoint": 57555,
+      "fontFamily": "Flagpack",
+      "identifier": "sn"
+    },
+    "so": {
+      "codepoint": 57556,
+      "fontFamily": "Flagpack",
+      "identifier": "so"
+    },
+    "sr": {
+      "codepoint": 57557,
+      "fontFamily": "Flagpack",
+      "identifier": "sr"
+    },
+    "ss": {
+      "codepoint": 57558,
+      "fontFamily": "Flagpack",
+      "identifier": "ss"
+    },
+    "st": {
+      "codepoint": 57559,
+      "fontFamily": "Flagpack",
+      "identifier": "st"
+    },
+    "sv": {
+      "codepoint": 57560,
+      "fontFamily": "Flagpack",
+      "identifier": "sv"
+    },
+    "sx": {
+      "codepoint": 57561,
+      "fontFamily": "Flagpack",
+      "identifier": "sx"
+    },
+    "sy": {
+      "codepoint": 57562,
+      "fontFamily": "Flagpack",
+      "identifier": "sy"
+    },
+    "sz": {
+      "codepoint": 57563,
+      "fontFamily": "Flagpack",
+      "identifier": "sz"
+    },
+    "tc": {
+      "codepoint": 57564,
+      "fontFamily": "Flagpack",
+      "identifier": "tc"
+    },
+    "td": {
+      "codepoint": 57565,
+      "fontFamily": "Flagpack",
+      "identifier": "td"
+    },
+    "tf": {
+      "codepoint": 57566,
+      "fontFamily": "Flagpack",
+      "identifier": "tf"
+    },
+    "tg": {
+      "codepoint": 57567,
+      "fontFamily": "Flagpack",
+      "identifier": "tg"
+    },
+    "th": {
+      "codepoint": 57568,
+      "fontFamily": "Flagpack",
+      "identifier": "th"
+    },
+    "tj": {
+      "codepoint": 57569,
+      "fontFamily": "Flagpack",
+      "identifier": "tj"
+    },
+    "tk": {
+      "codepoint": 57570,
+      "fontFamily": "Flagpack",
+      "identifier": "tk"
+    },
+    "tl": {
+      "codepoint": 57571,
+      "fontFamily": "Flagpack",
+      "identifier": "tl"
+    },
+    "tm": {
+      "codepoint": 57572,
+      "fontFamily": "Flagpack",
+      "identifier": "tm"
+    },
+    "tn": {
+      "codepoint": 57573,
+      "fontFamily": "Flagpack",
+      "identifier": "tn"
+    },
+    "to": {
+      "codepoint": 57574,
+      "fontFamily": "Flagpack",
+      "identifier": "to"
+    },
+    "tr": {
+      "codepoint": 57575,
+      "fontFamily": "Flagpack",
+      "identifier": "tr"
+    },
+    "tt": {
+      "codepoint": 57576,
+      "fontFamily": "Flagpack",
+      "identifier": "tt"
+    },
+    "tv": {
+      "codepoint": 57577,
+      "fontFamily": "Flagpack",
+      "identifier": "tv"
+    },
+    "tw": {
+      "codepoint": 57578,
+      "fontFamily": "Flagpack",
+      "identifier": "tw"
+    },
+    "tz": {
+      "codepoint": 57579,
+      "fontFamily": "Flagpack",
+      "identifier": "tz"
+    },
+    "ua": {
+      "codepoint": 57580,
+      "fontFamily": "Flagpack",
+      "identifier": "ua"
+    },
+    "ug": {
+      "codepoint": 57581,
+      "fontFamily": "Flagpack",
+      "identifier": "ug"
+    },
+    "um": {
+      "codepoint": 57582,
+      "fontFamily": "Flagpack",
+      "identifier": "um"
+    },
+    "us": {
+      "codepoint": 57583,
+      "fontFamily": "Flagpack",
+      "identifier": "us"
+    },
+    "uy": {
+      "codepoint": 57584,
+      "fontFamily": "Flagpack",
+      "identifier": "uy"
+    },
+    "uz": {
+      "codepoint": 57585,
+      "fontFamily": "Flagpack",
+      "identifier": "uz"
+    },
+    "va": {
+      "codepoint": 57586,
+      "fontFamily": "Flagpack",
+      "identifier": "va"
+    },
+    "vc": {
+      "codepoint": 57587,
+      "fontFamily": "Flagpack",
+      "identifier": "vc"
+    },
+    "ve": {
+      "codepoint": 57588,
+      "fontFamily": "Flagpack",
+      "identifier": "ve"
+    },
+    "vg": {
+      "codepoint": 57589,
+      "fontFamily": "Flagpack",
+      "identifier": "vg"
+    },
+    "vi": {
+      "codepoint": 57590,
+      "fontFamily": "Flagpack",
+      "identifier": "vi"
+    },
+    "vn": {
+      "codepoint": 57591,
+      "fontFamily": "Flagpack",
+      "identifier": "vn"
+    },
+    "vu": {
+      "codepoint": 57592,
+      "fontFamily": "Flagpack",
+      "identifier": "vu"
+    },
+    "wf": {
+      "codepoint": 57593,
+      "fontFamily": "Flagpack",
+      "identifier": "wf"
+    },
+    "ws": {
+      "codepoint": 57594,
+      "fontFamily": "Flagpack",
+      "identifier": "ws"
+    },
+    "ye": {
+      "codepoint": 57595,
+      "fontFamily": "Flagpack",
+      "identifier": "ye"
+    },
+    "yt": {
+      "codepoint": 57596,
+      "fontFamily": "Flagpack",
+      "identifier": "yt"
+    },
+    "za": {
+      "codepoint": 57597,
+      "fontFamily": "Flagpack",
+      "identifier": "za"
+    },
+    "zm": {
+      "codepoint": 57598,
+      "fontFamily": "Flagpack",
+      "identifier": "zm"
+    },
+    "zw": {
+      "codepoint": 57599,
+      "fontFamily": "Flagpack",
+      "identifier": "zw"
+    }
+  }
+}

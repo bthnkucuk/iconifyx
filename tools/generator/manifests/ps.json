@@ -1,0 +1,2425 @@
+{
+  "schemaVersion": 1,
+  "prefix": "ps",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": null,
+  "subPackage": "iconifyx_ps",
+  "info": {
+    "name": "PrestaShop Icons",
+    "author": {
+      "name": "PrestaShop",
+      "url": "https://github.com/PrestaShop/prestashop-icon-font"
+    },
+    "license": {
+      "title": "CC BY-NC 4.0",
+      "spdx": "CC-BY-NC-4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    "total": 479
+  },
+  "fonts": [
+    {
+      "family": "Ps",
+      "nextCodepoint": 57823,
+      "iconCount": 479
+    }
+  ],
+  "icons": {
+    "30-80": {
+      "codepoint": 57344,
+      "fontFamily": "Ps",
+      "identifier": "n3080"
+    },
+    "40-105": {
+      "codepoint": 57345,
+      "fontFamily": "Ps",
+      "identifier": "n40105"
+    },
+    "50-120": {
+      "codepoint": 57346,
+      "fontFamily": "Ps",
+      "identifier": "n50120"
+    },
+    "60-140": {
+      "codepoint": 57347,
+      "fontFamily": "Ps",
+      "identifier": "n60140"
+    },
+    "70-160": {
+      "codepoint": 57348,
+      "fontFamily": "Ps",
+      "identifier": "n70160"
+    },
+    "95-200": {
+      "codepoint": 57349,
+      "fontFamily": "Ps",
+      "identifier": "n95200"
+    },
+    "aim": {
+      "codepoint": 57350,
+      "fontFamily": "Ps",
+      "identifier": "aim"
+    },
+    "aim-alt": {
+      "codepoint": 57351,
+      "fontFamily": "Ps",
+      "identifier": "aimAlt"
+    },
+    "airplane": {
+      "codepoint": 57352,
+      "fontFamily": "Ps",
+      "identifier": "airplane"
+    },
+    "align-centered": {
+      "codepoint": 57353,
+      "fontFamily": "Ps",
+      "identifier": "alignCentered"
+    },
+    "align-justified": {
+      "codepoint": 57354,
+      "fontFamily": "Ps",
+      "identifier": "alignJustified"
+    },
+    "align-left": {
+      "codepoint": 57355,
+      "fontFamily": "Ps",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57356,
+      "fontFamily": "Ps",
+      "identifier": "alignRight"
+    },
+    "amazon": {
+      "codepoint": 57357,
+      "fontFamily": "Ps",
+      "identifier": "amazon"
+    },
+    "ambulance": {
+      "codepoint": 57358,
+      "fontFamily": "Ps",
+      "identifier": "ambulance"
+    },
+    "anchor": {
+      "codepoint": 57359,
+      "fontFamily": "Ps",
+      "identifier": "anchor"
+    },
+    "any-solvent": {
+      "codepoint": 57360,
+      "fontFamily": "Ps",
+      "identifier": "anySolvent"
+    },
+    "any-solvent-without-tetrachlorethylene": {
+      "codepoint": 57361,
+      "fontFamily": "Ps",
+      "identifier": "anySolventWithoutTetrachlorethylene"
+    },
+    "app-store": {
+      "codepoint": 57362,
+      "fontFamily": "Ps",
+      "identifier": "appStore"
+    },
+    "apple": {
+      "codepoint": 57363,
+      "fontFamily": "Ps",
+      "identifier": "apple"
+    },
+    "apps": {
+      "codepoint": 57364,
+      "fontFamily": "Ps",
+      "identifier": "apps"
+    },
+    "archive": {
+      "codepoint": 57365,
+      "fontFamily": "Ps",
+      "identifier": "archive"
+    },
+    "arrow-box": {
+      "codepoint": 57366,
+      "fontFamily": "Ps",
+      "identifier": "arrowBox"
+    },
+    "arrow-down": {
+      "codepoint": 57367,
+      "fontFamily": "Ps",
+      "identifier": "arrowDown"
+    },
+    "arrow-left": {
+      "codepoint": 57368,
+      "fontFamily": "Ps",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57369,
+      "fontFamily": "Ps",
+      "identifier": "arrowRight"
+    },
+    "arrow-up": {
+      "codepoint": 57370,
+      "fontFamily": "Ps",
+      "identifier": "arrowUp"
+    },
+    "arto": {
+      "codepoint": 57371,
+      "fontFamily": "Ps",
+      "identifier": "arto"
+    },
+    "asterisk": {
+      "codepoint": 57372,
+      "fontFamily": "Ps",
+      "identifier": "asterisk"
+    },
+    "attachment": {
+      "codepoint": 57373,
+      "fontFamily": "Ps",
+      "identifier": "attachment"
+    },
+    "aws": {
+      "codepoint": 57374,
+      "fontFamily": "Ps",
+      "identifier": "aws"
+    },
+    "backpack": {
+      "codepoint": 57375,
+      "fontFamily": "Ps",
+      "identifier": "backpack"
+    },
+    "baidu": {
+      "codepoint": 57376,
+      "fontFamily": "Ps",
+      "identifier": "baidu"
+    },
+    "bank-safe": {
+      "codepoint": 57377,
+      "fontFamily": "Ps",
+      "identifier": "bankSafe"
+    },
+    "bar-code": {
+      "codepoint": 57378,
+      "fontFamily": "Ps",
+      "identifier": "barCode"
+    },
+    "barrel": {
+      "codepoint": 57379,
+      "fontFamily": "Ps",
+      "identifier": "barrel"
+    },
+    "basecamp": {
+      "codepoint": 57380,
+      "fontFamily": "Ps",
+      "identifier": "basecamp"
+    },
+    "battery": {
+      "codepoint": 57381,
+      "fontFamily": "Ps",
+      "identifier": "battery"
+    },
+    "battery-charge": {
+      "codepoint": 57382,
+      "fontFamily": "Ps",
+      "identifier": "batteryCharge"
+    },
+    "bebo": {
+      "codepoint": 57383,
+      "fontFamily": "Ps",
+      "identifier": "bebo"
+    },
+    "beer": {
+      "codepoint": 57384,
+      "fontFamily": "Ps",
+      "identifier": "beer"
+    },
+    "behance": {
+      "codepoint": 57385,
+      "fontFamily": "Ps",
+      "identifier": "behance"
+    },
+    "bell": {
+      "codepoint": 57386,
+      "fontFamily": "Ps",
+      "identifier": "bell"
+    },
+    "bike": {
+      "codepoint": 57387,
+      "fontFamily": "Ps",
+      "identifier": "bike"
+    },
+    "bing": {
+      "codepoint": 57388,
+      "fontFamily": "Ps",
+      "identifier": "bing"
+    },
+    "birthday": {
+      "codepoint": 57389,
+      "fontFamily": "Ps",
+      "identifier": "birthday"
+    },
+    "blaster": {
+      "codepoint": 57390,
+      "fontFamily": "Ps",
+      "identifier": "blaster"
+    },
+    "blip": {
+      "codepoint": 57391,
+      "fontFamily": "Ps",
+      "identifier": "blip"
+    },
+    "blogger": {
+      "codepoint": 57392,
+      "fontFamily": "Ps",
+      "identifier": "blogger"
+    },
+    "bnter": {
+      "codepoint": 57393,
+      "fontFamily": "Ps",
+      "identifier": "bnter"
+    },
+    "board": {
+      "codepoint": 57394,
+      "fontFamily": "Ps",
+      "identifier": "board"
+    },
+    "boiled-egg": {
+      "codepoint": 57395,
+      "fontFamily": "Ps",
+      "identifier": "boiledEgg"
+    },
+    "boiled-egg-finger": {
+      "codepoint": 57396,
+      "fontFamily": "Ps",
+      "identifier": "boiledEggFinger"
+    },
+    "bonnet": {
+      "codepoint": 57397,
+      "fontFamily": "Ps",
+      "identifier": "bonnet"
+    },
+    "book": {
+      "codepoint": 57398,
+      "fontFamily": "Ps",
+      "identifier": "book"
+    },
+    "book-tag": {
+      "codepoint": 57399,
+      "fontFamily": "Ps",
+      "identifier": "bookTag"
+    },
+    "branch": {
+      "codepoint": 57400,
+      "fontFamily": "Ps",
+      "identifier": "branch"
+    },
+    "brightkite": {
+      "codepoint": 57401,
+      "fontFamily": "Ps",
+      "identifier": "brightkite"
+    },
+    "broken-link": {
+      "codepoint": 57402,
+      "fontFamily": "Ps",
+      "identifier": "brokenLink"
+    },
+    "browser": {
+      "codepoint": 57403,
+      "fontFamily": "Ps",
+      "identifier": "browser"
+    },
+    "bubble": {
+      "codepoint": 57404,
+      "fontFamily": "Ps",
+      "identifier": "bubble"
+    },
+    "bug": {
+      "codepoint": 57405,
+      "fontFamily": "Ps",
+      "identifier": "bug"
+    },
+    "building": {
+      "codepoint": 57406,
+      "fontFamily": "Ps",
+      "identifier": "building"
+    },
+    "bull-left": {
+      "codepoint": 57407,
+      "fontFamily": "Ps",
+      "identifier": "bullLeft"
+    },
+    "bull-right": {
+      "codepoint": 57408,
+      "fontFamily": "Ps",
+      "identifier": "bullRight"
+    },
+    "burger": {
+      "codepoint": 57409,
+      "fontFamily": "Ps",
+      "identifier": "burger"
+    },
+    "bus-london": {
+      "codepoint": 57410,
+      "fontFamily": "Ps",
+      "identifier": "busLondon"
+    },
+    "calendar": {
+      "codepoint": 57411,
+      "fontFamily": "Ps",
+      "identifier": "calendar"
+    },
+    "calendar-grid": {
+      "codepoint": 57412,
+      "fontFamily": "Ps",
+      "identifier": "calendarGrid"
+    },
+    "camera": {
+      "codepoint": 57413,
+      "fontFamily": "Ps",
+      "identifier": "camera"
+    },
+    "car": {
+      "codepoint": 57414,
+      "fontFamily": "Ps",
+      "identifier": "car"
+    },
+    "cart": {
+      "codepoint": 57415,
+      "fontFamily": "Ps",
+      "identifier": "cart"
+    },
+    "cart-supermarket": {
+      "codepoint": 57416,
+      "fontFamily": "Ps",
+      "identifier": "cartSupermarket"
+    },
+    "chat": {
+      "codepoint": 57417,
+      "fontFamily": "Ps",
+      "identifier": "chat"
+    },
+    "chat-alt": {
+      "codepoint": 57418,
+      "fontFamily": "Ps",
+      "identifier": "chatAlt"
+    },
+    "check": {
+      "codepoint": 57419,
+      "fontFamily": "Ps",
+      "identifier": "check"
+    },
+    "check-box": {
+      "codepoint": 57420,
+      "fontFamily": "Ps",
+      "identifier": "checkBox"
+    },
+    "check-box-empty": {
+      "codepoint": 57421,
+      "fontFamily": "Ps",
+      "identifier": "checkBoxEmpty"
+    },
+    "checked": {
+      "codepoint": 57422,
+      "fontFamily": "Ps",
+      "identifier": "checked"
+    },
+    "cinch": {
+      "codepoint": 57423,
+      "fontFamily": "Ps",
+      "identifier": "cinch"
+    },
+    "clock": {
+      "codepoint": 57424,
+      "fontFamily": "Ps",
+      "identifier": "clock"
+    },
+    "clothes-water": {
+      "codepoint": 57425,
+      "fontFamily": "Ps",
+      "identifier": "clothesWater"
+    },
+    "cloud": {
+      "codepoint": 57426,
+      "fontFamily": "Ps",
+      "identifier": "cloud"
+    },
+    "cloudapp": {
+      "codepoint": 57427,
+      "fontFamily": "Ps",
+      "identifier": "cloudapp"
+    },
+    "clubs-card": {
+      "codepoint": 57428,
+      "fontFamily": "Ps",
+      "identifier": "clubsCard"
+    },
+    "cocktail": {
+      "codepoint": 57429,
+      "fontFamily": "Ps",
+      "identifier": "cocktail"
+    },
+    "code": {
+      "codepoint": 57430,
+      "fontFamily": "Ps",
+      "identifier": "code"
+    },
+    "coffee": {
+      "codepoint": 57431,
+      "fontFamily": "Ps",
+      "identifier": "coffee"
+    },
+    "coffee-hot": {
+      "codepoint": 57432,
+      "fontFamily": "Ps",
+      "identifier": "coffeeHot"
+    },
+    "coin": {
+      "codepoint": 57433,
+      "fontFamily": "Ps",
+      "identifier": "coin"
+    },
+    "coins": {
+      "codepoint": 57434,
+      "fontFamily": "Ps",
+      "identifier": "coins"
+    },
+    "compass": {
+      "codepoint": 57435,
+      "fontFamily": "Ps",
+      "identifier": "compass"
+    },
+    "contact": {
+      "codepoint": 57436,
+      "fontFamily": "Ps",
+      "identifier": "contact"
+    },
+    "contrast": {
+      "codepoint": 57437,
+      "fontFamily": "Ps",
+      "identifier": "contrast"
+    },
+    "cookie": {
+      "codepoint": 57438,
+      "fontFamily": "Ps",
+      "identifier": "cookie"
+    },
+    "copy": {
+      "codepoint": 57439,
+      "fontFamily": "Ps",
+      "identifier": "copy"
+    },
+    "coroflot": {
+      "codepoint": 57440,
+      "fontFamily": "Ps",
+      "identifier": "coroflot"
+    },
+    "couple": {
+      "codepoint": 57441,
+      "fontFamily": "Ps",
+      "identifier": "couple"
+    },
+    "cpu": {
+      "codepoint": 57442,
+      "fontFamily": "Ps",
+      "identifier": "cpu"
+    },
+    "creative-commons": {
+      "codepoint": 57443,
+      "fontFamily": "Ps",
+      "identifier": "creativeCommons"
+    },
+    "credit-card": {
+      "codepoint": 57444,
+      "fontFamily": "Ps",
+      "identifier": "creditCard"
+    },
+    "crop": {
+      "codepoint": 57445,
+      "fontFamily": "Ps",
+      "identifier": "crop"
+    },
+    "crown": {
+      "codepoint": 57446,
+      "fontFamily": "Ps",
+      "identifier": "crown"
+    },
+    "cutlery": {
+      "codepoint": 57447,
+      "fontFamily": "Ps",
+      "identifier": "cutlery"
+    },
+    "daft-punk": {
+      "codepoint": 57448,
+      "fontFamily": "Ps",
+      "identifier": "daftPunk"
+    },
+    "dailybooth": {
+      "codepoint": 57449,
+      "fontFamily": "Ps",
+      "identifier": "dailybooth"
+    },
+    "dashboard": {
+      "codepoint": 57450,
+      "fontFamily": "Ps",
+      "identifier": "dashboard"
+    },
+    "data-board": {
+      "codepoint": 57451,
+      "fontFamily": "Ps",
+      "identifier": "dataBoard"
+    },
+    "delete": {
+      "codepoint": 57452,
+      "fontFamily": "Ps",
+      "identifier": "delete"
+    },
+    "delicious": {
+      "codepoint": 57453,
+      "fontFamily": "Ps",
+      "identifier": "delicious"
+    },
+    "designbump": {
+      "codepoint": 57454,
+      "fontFamily": "Ps",
+      "identifier": "designbump"
+    },
+    "designfloat": {
+      "codepoint": 57455,
+      "fontFamily": "Ps",
+      "identifier": "designfloat"
+    },
+    "designmoo": {
+      "codepoint": 57456,
+      "fontFamily": "Ps",
+      "identifier": "designmoo"
+    },
+    "deviantart": {
+      "codepoint": 57457,
+      "fontFamily": "Ps",
+      "identifier": "deviantart"
+    },
+    "diamonds-card": {
+      "codepoint": 57458,
+      "fontFamily": "Ps",
+      "identifier": "diamondsCard"
+    },
+    "digg": {
+      "codepoint": 57459,
+      "fontFamily": "Ps",
+      "identifier": "digg"
+    },
+    "digg-alt": {
+      "codepoint": 57460,
+      "fontFamily": "Ps",
+      "identifier": "diggAlt"
+    },
+    "diigo": {
+      "codepoint": 57461,
+      "fontFamily": "Ps",
+      "identifier": "diigo"
+    },
+    "disabled": {
+      "codepoint": 57462,
+      "fontFamily": "Ps",
+      "identifier": "disabled"
+    },
+    "do-not-bleach": {
+      "codepoint": 57463,
+      "fontFamily": "Ps",
+      "identifier": "doNotBleach"
+    },
+    "do-not-dry": {
+      "codepoint": 57464,
+      "fontFamily": "Ps",
+      "identifier": "doNotDry"
+    },
+    "do-not-iron": {
+      "codepoint": 57465,
+      "fontFamily": "Ps",
+      "identifier": "doNotIron"
+    },
+    "do-not-wash": {
+      "codepoint": 57466,
+      "fontFamily": "Ps",
+      "identifier": "doNotWash"
+    },
+    "do-not-wring": {
+      "codepoint": 57467,
+      "fontFamily": "Ps",
+      "identifier": "doNotWring"
+    },
+    "dollar-bill": {
+      "codepoint": 57468,
+      "fontFamily": "Ps",
+      "identifier": "dollarBill"
+    },
+    "dollars": {
+      "codepoint": 57469,
+      "fontFamily": "Ps",
+      "identifier": "dollars"
+    },
+    "double-arrow": {
+      "codepoint": 57470,
+      "fontFamily": "Ps",
+      "identifier": "doubleArrow"
+    },
+    "down": {
+      "codepoint": 57471,
+      "fontFamily": "Ps",
+      "identifier": "down"
+    },
+    "down-arrow-circle": {
+      "codepoint": 57472,
+      "fontFamily": "Ps",
+      "identifier": "downArrowCircle"
+    },
+    "download": {
+      "codepoint": 57473,
+      "fontFamily": "Ps",
+      "identifier": "download"
+    },
+    "download-from-cloud": {
+      "codepoint": 57474,
+      "fontFamily": "Ps",
+      "identifier": "downloadFromCloud"
+    },
+    "dribbble": {
+      "codepoint": 57475,
+      "fontFamily": "Ps",
+      "identifier": "dribbble"
+    },
+    "drip-dry": {
+      "codepoint": 57476,
+      "fontFamily": "Ps",
+      "identifier": "dripDry"
+    },
+    "drop": {
+      "codepoint": 57477,
+      "fontFamily": "Ps",
+      "identifier": "drop"
+    },
+    "dropbox": {
+      "codepoint": 57478,
+      "fontFamily": "Ps",
+      "identifier": "dropbox"
+    },
+    "drupal": {
+      "codepoint": 57479,
+      "fontFamily": "Ps",
+      "identifier": "drupal"
+    },
+    "dry": {
+      "codepoint": 57480,
+      "fontFamily": "Ps",
+      "identifier": "dry"
+    },
+    "dry-flat": {
+      "codepoint": 57481,
+      "fontFamily": "Ps",
+      "identifier": "dryFlat"
+    },
+    "dry-in-the-shade": {
+      "codepoint": 57482,
+      "fontFamily": "Ps",
+      "identifier": "dryInTheShade"
+    },
+    "dry-normal-hight-heat": {
+      "codepoint": 57483,
+      "fontFamily": "Ps",
+      "identifier": "dryNormalHightHeat"
+    },
+    "dry-normal-low-heat": {
+      "codepoint": 57484,
+      "fontFamily": "Ps",
+      "identifier": "dryNormalLowHeat"
+    },
+    "dry-normal-no-heat": {
+      "codepoint": 57485,
+      "fontFamily": "Ps",
+      "identifier": "dryNormalNoHeat"
+    },
+    "dzone": {
+      "codepoint": 57486,
+      "fontFamily": "Ps",
+      "identifier": "dzone"
+    },
+    "ebay": {
+      "codepoint": 57487,
+      "fontFamily": "Ps",
+      "identifier": "ebay"
+    },
+    "egg": {
+      "codepoint": 57488,
+      "fontFamily": "Ps",
+      "identifier": "egg"
+    },
+    "eject": {
+      "codepoint": 57489,
+      "fontFamily": "Ps",
+      "identifier": "eject"
+    },
+    "ember": {
+      "codepoint": 57490,
+      "fontFamily": "Ps",
+      "identifier": "ember"
+    },
+    "enlarge": {
+      "codepoint": 57491,
+      "fontFamily": "Ps",
+      "identifier": "enlarge"
+    },
+    "etsy": {
+      "codepoint": 57492,
+      "fontFamily": "Ps",
+      "identifier": "etsy"
+    },
+    "euro-bill": {
+      "codepoint": 57493,
+      "fontFamily": "Ps",
+      "identifier": "euroBill"
+    },
+    "evernote": {
+      "codepoint": 57494,
+      "fontFamily": "Ps",
+      "identifier": "evernote"
+    },
+    "extinguisher": {
+      "codepoint": 57495,
+      "fontFamily": "Ps",
+      "identifier": "extinguisher"
+    },
+    "eye": {
+      "codepoint": 57496,
+      "fontFamily": "Ps",
+      "identifier": "eye"
+    },
+    "facebook": {
+      "codepoint": 57497,
+      "fontFamily": "Ps",
+      "identifier": "facebook"
+    },
+    "facebook-alt": {
+      "codepoint": 57498,
+      "fontFamily": "Ps",
+      "identifier": "facebookAlt"
+    },
+    "facebook-places": {
+      "codepoint": 57499,
+      "fontFamily": "Ps",
+      "identifier": "facebookPlaces"
+    },
+    "facto": {
+      "codepoint": 57500,
+      "fontFamily": "Ps",
+      "identifier": "facto"
+    },
+    "feedburner": {
+      "codepoint": 57501,
+      "fontFamily": "Ps",
+      "identifier": "feedburner"
+    },
+    "file": {
+      "codepoint": 57502,
+      "fontFamily": "Ps",
+      "identifier": "file"
+    },
+    "film": {
+      "codepoint": 57503,
+      "fontFamily": "Ps",
+      "identifier": "film"
+    },
+    "filter": {
+      "codepoint": 57504,
+      "fontFamily": "Ps",
+      "identifier": "filter"
+    },
+    "fire": {
+      "codepoint": 57505,
+      "fontFamily": "Ps",
+      "identifier": "fire"
+    },
+    "fish": {
+      "codepoint": 57506,
+      "fontFamily": "Ps",
+      "identifier": "fish"
+    },
+    "flag": {
+      "codepoint": 57507,
+      "fontFamily": "Ps",
+      "identifier": "flag"
+    },
+    "flag-corner": {
+      "codepoint": 57508,
+      "fontFamily": "Ps",
+      "identifier": "flagCorner"
+    },
+    "flag-scout": {
+      "codepoint": 57509,
+      "fontFamily": "Ps",
+      "identifier": "flagScout"
+    },
+    "flickr": {
+      "codepoint": 57510,
+      "fontFamily": "Ps",
+      "identifier": "flickr"
+    },
+    "folder": {
+      "codepoint": 57511,
+      "fontFamily": "Ps",
+      "identifier": "folder"
+    },
+    "folkd": {
+      "codepoint": 57512,
+      "fontFamily": "Ps",
+      "identifier": "folkd"
+    },
+    "forbidden": {
+      "codepoint": 57513,
+      "fontFamily": "Ps",
+      "identifier": "forbidden"
+    },
+    "formspring": {
+      "codepoint": 57514,
+      "fontFamily": "Ps",
+      "identifier": "formspring"
+    },
+    "forrst": {
+      "codepoint": 57515,
+      "fontFamily": "Ps",
+      "identifier": "forrst"
+    },
+    "forward": {
+      "codepoint": 57516,
+      "fontFamily": "Ps",
+      "identifier": "forward"
+    },
+    "foursquare": {
+      "codepoint": 57517,
+      "fontFamily": "Ps",
+      "identifier": "foursquare"
+    },
+    "fried-egg": {
+      "codepoint": 57518,
+      "fontFamily": "Ps",
+      "identifier": "friedEgg"
+    },
+    "friendfeed": {
+      "codepoint": 57519,
+      "fontFamily": "Ps",
+      "identifier": "friendfeed"
+    },
+    "friendster": {
+      "codepoint": 57520,
+      "fontFamily": "Ps",
+      "identifier": "friendster"
+    },
+    "fuck": {
+      "codepoint": 57521,
+      "fontFamily": "Ps",
+      "identifier": "fuck"
+    },
+    "full-screen": {
+      "codepoint": 57522,
+      "fontFamily": "Ps",
+      "identifier": "fullScreen"
+    },
+    "gamepad": {
+      "codepoint": 57523,
+      "fontFamily": "Ps",
+      "identifier": "gamepad"
+    },
+    "gdgt": {
+      "codepoint": 57524,
+      "fontFamily": "Ps",
+      "identifier": "gdgt"
+    },
+    "gift": {
+      "codepoint": 57525,
+      "fontFamily": "Ps",
+      "identifier": "gift"
+    },
+    "girl": {
+      "codepoint": 57526,
+      "fontFamily": "Ps",
+      "identifier": "girl"
+    },
+    "girl-2": {
+      "codepoint": 57527,
+      "fontFamily": "Ps",
+      "identifier": "girl2"
+    },
+    "girl-angel": {
+      "codepoint": 57528,
+      "fontFamily": "Ps",
+      "identifier": "girlAngel"
+    },
+    "girl-angry": {
+      "codepoint": 57529,
+      "fontFamily": "Ps",
+      "identifier": "girlAngry"
+    },
+    "girl-big-smile": {
+      "codepoint": 57530,
+      "fontFamily": "Ps",
+      "identifier": "girlBigSmile"
+    },
+    "girl-confused": {
+      "codepoint": 57531,
+      "fontFamily": "Ps",
+      "identifier": "girlConfused"
+    },
+    "girl-cry": {
+      "codepoint": 57532,
+      "fontFamily": "Ps",
+      "identifier": "girlCry"
+    },
+    "girl-flushed": {
+      "codepoint": 57533,
+      "fontFamily": "Ps",
+      "identifier": "girlFlushed"
+    },
+    "girl-o-mouth": {
+      "codepoint": 57534,
+      "fontFamily": "Ps",
+      "identifier": "girlOMouth"
+    },
+    "girl-open-mouth": {
+      "codepoint": 57535,
+      "fontFamily": "Ps",
+      "identifier": "girlOpenMouth"
+    },
+    "girl-sad": {
+      "codepoint": 57536,
+      "fontFamily": "Ps",
+      "identifier": "girlSad"
+    },
+    "girl-sad-hunappy": {
+      "codepoint": 57537,
+      "fontFamily": "Ps",
+      "identifier": "girlSadHunappy"
+    },
+    "girl-sleep": {
+      "codepoint": 57538,
+      "fontFamily": "Ps",
+      "identifier": "girlSleep"
+    },
+    "girl-smile": {
+      "codepoint": 57539,
+      "fontFamily": "Ps",
+      "identifier": "girlSmile"
+    },
+    "girl-user": {
+      "codepoint": 57540,
+      "fontFamily": "Ps",
+      "identifier": "girlUser"
+    },
+    "github": {
+      "codepoint": 57541,
+      "fontFamily": "Ps",
+      "identifier": "github"
+    },
+    "github-alt": {
+      "codepoint": 57542,
+      "fontFamily": "Ps",
+      "identifier": "githubAlt"
+    },
+    "globe": {
+      "codepoint": 57543,
+      "fontFamily": "Ps",
+      "identifier": "globe"
+    },
+    "goodreads": {
+      "codepoint": 57544,
+      "fontFamily": "Ps",
+      "identifier": "goodreads"
+    },
+    "google": {
+      "codepoint": 57545,
+      "fontFamily": "Ps",
+      "identifier": "google"
+    },
+    "google-buzz": {
+      "codepoint": 57546,
+      "fontFamily": "Ps",
+      "identifier": "googleBuzz"
+    },
+    "google-talk": {
+      "codepoint": 57547,
+      "fontFamily": "Ps",
+      "identifier": "googleTalk"
+    },
+    "gowalla": {
+      "codepoint": 57548,
+      "fontFamily": "Ps",
+      "identifier": "gowalla"
+    },
+    "gowalla-alt": {
+      "codepoint": 57549,
+      "fontFamily": "Ps",
+      "identifier": "gowallaAlt"
+    },
+    "grooveshark": {
+      "codepoint": 57550,
+      "fontFamily": "Ps",
+      "identifier": "grooveshark"
+    },
+    "gun": {
+      "codepoint": 57551,
+      "fontFamily": "Ps",
+      "identifier": "gun"
+    },
+    "guy": {
+      "codepoint": 57552,
+      "fontFamily": "Ps",
+      "identifier": "guy"
+    },
+    "guy-angel": {
+      "codepoint": 57553,
+      "fontFamily": "Ps",
+      "identifier": "guyAngel"
+    },
+    "guy-angry": {
+      "codepoint": 57554,
+      "fontFamily": "Ps",
+      "identifier": "guyAngry"
+    },
+    "guy-big-smile": {
+      "codepoint": 57555,
+      "fontFamily": "Ps",
+      "identifier": "guyBigSmile"
+    },
+    "guy-confused": {
+      "codepoint": 57556,
+      "fontFamily": "Ps",
+      "identifier": "guyConfused"
+    },
+    "guy-cry": {
+      "codepoint": 57557,
+      "fontFamily": "Ps",
+      "identifier": "guyCry"
+    },
+    "guy-flushed": {
+      "codepoint": 57558,
+      "fontFamily": "Ps",
+      "identifier": "guyFlushed"
+    },
+    "guy-happy": {
+      "codepoint": 57559,
+      "fontFamily": "Ps",
+      "identifier": "guyHappy"
+    },
+    "guy-o-mouth": {
+      "codepoint": 57560,
+      "fontFamily": "Ps",
+      "identifier": "guyOMouth"
+    },
+    "guy-open-mouth": {
+      "codepoint": 57561,
+      "fontFamily": "Ps",
+      "identifier": "guyOpenMouth"
+    },
+    "guy-sad": {
+      "codepoint": 57562,
+      "fontFamily": "Ps",
+      "identifier": "guySad"
+    },
+    "guy-sleep": {
+      "codepoint": 57563,
+      "fontFamily": "Ps",
+      "identifier": "guySleep"
+    },
+    "guy-smile": {
+      "codepoint": 57564,
+      "fontFamily": "Ps",
+      "identifier": "guySmile"
+    },
+    "guy-user": {
+      "codepoint": 57565,
+      "fontFamily": "Ps",
+      "identifier": "guyUser"
+    },
+    "guy-wrong": {
+      "codepoint": 57566,
+      "fontFamily": "Ps",
+      "identifier": "guyWrong"
+    },
+    "hacker-news": {
+      "codepoint": 57567,
+      "fontFamily": "Ps",
+      "identifier": "hackerNews"
+    },
+    "hand": {
+      "codepoint": 57568,
+      "fontFamily": "Ps",
+      "identifier": "hand"
+    },
+    "hand-pointer-left": {
+      "codepoint": 57569,
+      "fontFamily": "Ps",
+      "identifier": "handPointerLeft"
+    },
+    "hand-pointer-right": {
+      "codepoint": 57570,
+      "fontFamily": "Ps",
+      "identifier": "handPointerRight"
+    },
+    "hand-pointer-top": {
+      "codepoint": 57571,
+      "fontFamily": "Ps",
+      "identifier": "handPointerTop"
+    },
+    "hand-wash": {
+      "codepoint": 57572,
+      "fontFamily": "Ps",
+      "identifier": "handWash"
+    },
+    "hang-to-dry": {
+      "codepoint": 57573,
+      "fontFamily": "Ps",
+      "identifier": "hangToDry"
+    },
+    "hard-drive": {
+      "codepoint": 57574,
+      "fontFamily": "Ps",
+      "identifier": "hardDrive"
+    },
+    "headphones": {
+      "codepoint": 57575,
+      "fontFamily": "Ps",
+      "identifier": "headphones"
+    },
+    "headset": {
+      "codepoint": 57576,
+      "fontFamily": "Ps",
+      "identifier": "headset"
+    },
+    "hearts-card": {
+      "codepoint": 57577,
+      "fontFamily": "Ps",
+      "identifier": "heartsCard"
+    },
+    "heat": {
+      "codepoint": 57578,
+      "fontFamily": "Ps",
+      "identifier": "heat"
+    },
+    "helm": {
+      "codepoint": 57579,
+      "fontFamily": "Ps",
+      "identifier": "helm"
+    },
+    "hi5": {
+      "codepoint": 57580,
+      "fontFamily": "Ps",
+      "identifier": "hi5"
+    },
+    "home": {
+      "codepoint": 57581,
+      "fontFamily": "Ps",
+      "identifier": "home"
+    },
+    "hotdog": {
+      "codepoint": 57582,
+      "fontFamily": "Ps",
+      "identifier": "hotdog"
+    },
+    "hourglass": {
+      "codepoint": 57583,
+      "fontFamily": "Ps",
+      "identifier": "hourglass"
+    },
+    "hungry": {
+      "codepoint": 57584,
+      "fontFamily": "Ps",
+      "identifier": "hungry"
+    },
+    "hype-machine": {
+      "codepoint": 57585,
+      "fontFamily": "Ps",
+      "identifier": "hypeMachine"
+    },
+    "hyves": {
+      "codepoint": 57586,
+      "fontFamily": "Ps",
+      "identifier": "hyves"
+    },
+    "icq": {
+      "codepoint": 57587,
+      "fontFamily": "Ps",
+      "identifier": "icq"
+    },
+    "identi": {
+      "codepoint": 57588,
+      "fontFamily": "Ps",
+      "identifier": "identi"
+    },
+    "image": {
+      "codepoint": 57589,
+      "fontFamily": "Ps",
+      "identifier": "image"
+    },
+    "important": {
+      "codepoint": 57590,
+      "fontFamily": "Ps",
+      "identifier": "important"
+    },
+    "instapaper": {
+      "codepoint": 57591,
+      "fontFamily": "Ps",
+      "identifier": "instapaper"
+    },
+    "ipad": {
+      "codepoint": 57592,
+      "fontFamily": "Ps",
+      "identifier": "ipad"
+    },
+    "iphone": {
+      "codepoint": 57593,
+      "fontFamily": "Ps",
+      "identifier": "iphone"
+    },
+    "ipod": {
+      "codepoint": 57594,
+      "fontFamily": "Ps",
+      "identifier": "ipod"
+    },
+    "iron-any-temp": {
+      "codepoint": 57595,
+      "fontFamily": "Ps",
+      "identifier": "ironAnyTemp"
+    },
+    "itunes": {
+      "codepoint": 57596,
+      "fontFamily": "Ps",
+      "identifier": "itunes"
+    },
+    "iwatch": {
+      "codepoint": 57597,
+      "fontFamily": "Ps",
+      "identifier": "iwatch"
+    },
+    "justice": {
+      "codepoint": 57598,
+      "fontFamily": "Ps",
+      "identifier": "justice"
+    },
+    "keyboard": {
+      "codepoint": 57599,
+      "fontFamily": "Ps",
+      "identifier": "keyboard"
+    },
+    "kik": {
+      "codepoint": 57600,
+      "fontFamily": "Ps",
+      "identifier": "kik"
+    },
+    "krop": {
+      "codepoint": 57601,
+      "fontFamily": "Ps",
+      "identifier": "krop"
+    },
+    "lab": {
+      "codepoint": 57602,
+      "fontFamily": "Ps",
+      "identifier": "lab"
+    },
+    "label": {
+      "codepoint": 57603,
+      "fontFamily": "Ps",
+      "identifier": "label"
+    },
+    "label-hogwarts": {
+      "codepoint": 57604,
+      "fontFamily": "Ps",
+      "identifier": "labelHogwarts"
+    },
+    "laptop": {
+      "codepoint": 57605,
+      "fontFamily": "Ps",
+      "identifier": "laptop"
+    },
+    "last": {
+      "codepoint": 57606,
+      "fontFamily": "Ps",
+      "identifier": "last"
+    },
+    "leaf": {
+      "codepoint": 57607,
+      "fontFamily": "Ps",
+      "identifier": "leaf"
+    },
+    "left": {
+      "codepoint": 57608,
+      "fontFamily": "Ps",
+      "identifier": "left"
+    },
+    "left-arrow-circle": {
+      "codepoint": 57609,
+      "fontFamily": "Ps",
+      "identifier": "leftArrowCircle"
+    },
+    "lego": {
+      "codepoint": 57610,
+      "fontFamily": "Ps",
+      "identifier": "lego"
+    },
+    "lightning": {
+      "codepoint": 57611,
+      "fontFamily": "Ps",
+      "identifier": "lightning"
+    },
+    "link": {
+      "codepoint": 57612,
+      "fontFamily": "Ps",
+      "identifier": "link"
+    },
+    "linkedin": {
+      "codepoint": 57613,
+      "fontFamily": "Ps",
+      "identifier": "linkedin"
+    },
+    "linkedin-alt": {
+      "codepoint": 57614,
+      "fontFamily": "Ps",
+      "identifier": "linkedinAlt"
+    },
+    "liquor": {
+      "codepoint": 57615,
+      "fontFamily": "Ps",
+      "identifier": "liquor"
+    },
+    "livejournal": {
+      "codepoint": 57616,
+      "fontFamily": "Ps",
+      "identifier": "livejournal"
+    },
+    "lovedsgn": {
+      "codepoint": 57617,
+      "fontFamily": "Ps",
+      "identifier": "lovedsgn"
+    },
+    "mac": {
+      "codepoint": 57618,
+      "fontFamily": "Ps",
+      "identifier": "mac"
+    },
+    "machine-wash": {
+      "codepoint": 57619,
+      "fontFamily": "Ps",
+      "identifier": "machineWash"
+    },
+    "machine-wash-gentle-or-delicate": {
+      "codepoint": 57620,
+      "fontFamily": "Ps",
+      "identifier": "machineWashGentleOrDelicate"
+    },
+    "machine-wash-permanent-press": {
+      "codepoint": 57621,
+      "fontFamily": "Ps",
+      "identifier": "machineWashPermanentPress"
+    },
+    "magnifying-glass": {
+      "codepoint": 57622,
+      "fontFamily": "Ps",
+      "identifier": "magnifyingGlass"
+    },
+    "mail": {
+      "codepoint": 57623,
+      "fontFamily": "Ps",
+      "identifier": "mail"
+    },
+    "mail-back": {
+      "codepoint": 57624,
+      "fontFamily": "Ps",
+      "identifier": "mailBack"
+    },
+    "mail-bill": {
+      "codepoint": 57625,
+      "fontFamily": "Ps",
+      "identifier": "mailBill"
+    },
+    "mail-stamp": {
+      "codepoint": 57626,
+      "fontFamily": "Ps",
+      "identifier": "mailStamp"
+    },
+    "mailbox": {
+      "codepoint": 57627,
+      "fontFamily": "Ps",
+      "identifier": "mailbox"
+    },
+    "man": {
+      "codepoint": 57628,
+      "fontFamily": "Ps",
+      "identifier": "man"
+    },
+    "maximum-temp-110-230": {
+      "codepoint": 57629,
+      "fontFamily": "Ps",
+      "identifier": "maximumTemp110230"
+    },
+    "maximum-temp-150-300": {
+      "codepoint": 57630,
+      "fontFamily": "Ps",
+      "identifier": "maximumTemp150300"
+    },
+    "maximum-temp-200-390": {
+      "codepoint": 57631,
+      "fontFamily": "Ps",
+      "identifier": "maximumTemp200390"
+    },
+    "mayo-hotdog": {
+      "codepoint": 57632,
+      "fontFamily": "Ps",
+      "identifier": "mayoHotdog"
+    },
+    "meetup": {
+      "codepoint": 57633,
+      "fontFamily": "Ps",
+      "identifier": "meetup"
+    },
+    "megaphone": {
+      "codepoint": 57634,
+      "fontFamily": "Ps",
+      "identifier": "megaphone"
+    },
+    "metacafe": {
+      "codepoint": 57635,
+      "fontFamily": "Ps",
+      "identifier": "metacafe"
+    },
+    "mic": {
+      "codepoint": 57636,
+      "fontFamily": "Ps",
+      "identifier": "mic"
+    },
+    "mic-off": {
+      "codepoint": 57637,
+      "fontFamily": "Ps",
+      "identifier": "micOff"
+    },
+    "milkshake": {
+      "codepoint": 57638,
+      "fontFamily": "Ps",
+      "identifier": "milkshake"
+    },
+    "ming": {
+      "codepoint": 57639,
+      "fontFamily": "Ps",
+      "identifier": "ming"
+    },
+    "minus": {
+      "codepoint": 57640,
+      "fontFamily": "Ps",
+      "identifier": "minus"
+    },
+    "minus-box": {
+      "codepoint": 57641,
+      "fontFamily": "Ps",
+      "identifier": "minusBox"
+    },
+    "minus-circle": {
+      "codepoint": 57642,
+      "fontFamily": "Ps",
+      "identifier": "minusCircle"
+    },
+    "minus-circle-1": {
+      "codepoint": 57643,
+      "fontFamily": "Ps",
+      "identifier": "minusCircle1"
+    },
+    "mister-wong": {
+      "codepoint": 57644,
+      "fontFamily": "Ps",
+      "identifier": "misterWong"
+    },
+    "mixx": {
+      "codepoint": 57645,
+      "fontFamily": "Ps",
+      "identifier": "mixx"
+    },
+    "mixx-alt": {
+      "codepoint": 57646,
+      "fontFamily": "Ps",
+      "identifier": "mixxAlt"
+    },
+    "mobileme": {
+      "codepoint": 57647,
+      "fontFamily": "Ps",
+      "identifier": "mobileme"
+    },
+    "moon": {
+      "codepoint": 57648,
+      "fontFamily": "Ps",
+      "identifier": "moon"
+    },
+    "mouse": {
+      "codepoint": 57649,
+      "fontFamily": "Ps",
+      "identifier": "mouse"
+    },
+    "msn-messenger": {
+      "codepoint": 57650,
+      "fontFamily": "Ps",
+      "identifier": "msnMessenger"
+    },
+    "music": {
+      "codepoint": 57651,
+      "fontFamily": "Ps",
+      "identifier": "music"
+    },
+    "music-score": {
+      "codepoint": 57652,
+      "fontFamily": "Ps",
+      "identifier": "musicScore"
+    },
+    "myspace": {
+      "codepoint": 57653,
+      "fontFamily": "Ps",
+      "identifier": "myspace"
+    },
+    "myspace-alt": {
+      "codepoint": 57654,
+      "fontFamily": "Ps",
+      "identifier": "myspaceAlt"
+    },
+    "newsvine": {
+      "codepoint": 57655,
+      "fontFamily": "Ps",
+      "identifier": "newsvine"
+    },
+    "next": {
+      "codepoint": 57656,
+      "fontFamily": "Ps",
+      "identifier": "next"
+    },
+    "no-eye": {
+      "codepoint": 57657,
+      "fontFamily": "Ps",
+      "identifier": "noEye"
+    },
+    "non-chlorine-bleach-if-needed": {
+      "codepoint": 57658,
+      "fontFamily": "Ps",
+      "identifier": "nonChlorineBleachIfNeeded"
+    },
+    "official": {
+      "codepoint": 57659,
+      "fontFamily": "Ps",
+      "identifier": "official"
+    },
+    "open-padlock": {
+      "codepoint": 57660,
+      "fontFamily": "Ps",
+      "identifier": "openPadlock"
+    },
+    "openid": {
+      "codepoint": 57661,
+      "fontFamily": "Ps",
+      "identifier": "openid"
+    },
+    "organisation": {
+      "codepoint": 57662,
+      "fontFamily": "Ps",
+      "identifier": "organisation"
+    },
+    "orkut": {
+      "codepoint": 57663,
+      "fontFamily": "Ps",
+      "identifier": "orkut"
+    },
+    "padlock": {
+      "codepoint": 57664,
+      "fontFamily": "Ps",
+      "identifier": "padlock"
+    },
+    "pandora": {
+      "codepoint": 57665,
+      "fontFamily": "Ps",
+      "identifier": "pandora"
+    },
+    "pant": {
+      "codepoint": 57666,
+      "fontFamily": "Ps",
+      "identifier": "pant"
+    },
+    "paper-tablet": {
+      "codepoint": 57667,
+      "fontFamily": "Ps",
+      "identifier": "paperTablet"
+    },
+    "path": {
+      "codepoint": 57668,
+      "fontFamily": "Ps",
+      "identifier": "path"
+    },
+    "paypal": {
+      "codepoint": 57669,
+      "fontFamily": "Ps",
+      "identifier": "paypal"
+    },
+    "pc": {
+      "codepoint": 57670,
+      "fontFamily": "Ps",
+      "identifier": "pc"
+    },
+    "pdiddy": {
+      "codepoint": 57671,
+      "fontFamily": "Ps",
+      "identifier": "pdiddy"
+    },
+    "pen": {
+      "codepoint": 57672,
+      "fontFamily": "Ps",
+      "identifier": "pen"
+    },
+    "penknife": {
+      "codepoint": 57673,
+      "fontFamily": "Ps",
+      "identifier": "penknife"
+    },
+    "people-team": {
+      "codepoint": 57674,
+      "fontFamily": "Ps",
+      "identifier": "peopleTeam"
+    },
+    "petroleum-solvent-steam": {
+      "codepoint": 57675,
+      "fontFamily": "Ps",
+      "identifier": "petroleumSolventSteam"
+    },
+    "phone": {
+      "codepoint": 57676,
+      "fontFamily": "Ps",
+      "identifier": "phone"
+    },
+    "photobucket": {
+      "codepoint": 57677,
+      "fontFamily": "Ps",
+      "identifier": "photobucket"
+    },
+    "piano": {
+      "codepoint": 57678,
+      "fontFamily": "Ps",
+      "identifier": "piano"
+    },
+    "picasa": {
+      "codepoint": 57679,
+      "fontFamily": "Ps",
+      "identifier": "picasa"
+    },
+    "picassa": {
+      "codepoint": 57680,
+      "fontFamily": "Ps",
+      "identifier": "picassa"
+    },
+    "piggy-bank": {
+      "codepoint": 57681,
+      "fontFamily": "Ps",
+      "identifier": "piggyBank"
+    },
+    "piggy-bank-coins": {
+      "codepoint": 57682,
+      "fontFamily": "Ps",
+      "identifier": "piggyBankCoins"
+    },
+    "pin": {
+      "codepoint": 57683,
+      "fontFamily": "Ps",
+      "identifier": "pin"
+    },
+    "pin-map": {
+      "codepoint": 57684,
+      "fontFamily": "Ps",
+      "identifier": "pinMap"
+    },
+    "pinboard": {
+      "codepoint": 57685,
+      "fontFamily": "Ps",
+      "identifier": "pinboard"
+    },
+    "ping": {
+      "codepoint": 57686,
+      "fontFamily": "Ps",
+      "identifier": "ping"
+    },
+    "pingchat": {
+      "codepoint": 57687,
+      "fontFamily": "Ps",
+      "identifier": "pingchat"
+    },
+    "pizza": {
+      "codepoint": 57688,
+      "fontFamily": "Ps",
+      "identifier": "pizza"
+    },
+    "plane": {
+      "codepoint": 57689,
+      "fontFamily": "Ps",
+      "identifier": "plane"
+    },
+    "play": {
+      "codepoint": 57690,
+      "fontFamily": "Ps",
+      "identifier": "play"
+    },
+    "playstation": {
+      "codepoint": 57691,
+      "fontFamily": "Ps",
+      "identifier": "playstation"
+    },
+    "plixi": {
+      "codepoint": 57692,
+      "fontFamily": "Ps",
+      "identifier": "plixi"
+    },
+    "plurk": {
+      "codepoint": 57693,
+      "fontFamily": "Ps",
+      "identifier": "plurk"
+    },
+    "plus": {
+      "codepoint": 57694,
+      "fontFamily": "Ps",
+      "identifier": "plus"
+    },
+    "plus-box": {
+      "codepoint": 57695,
+      "fontFamily": "Ps",
+      "identifier": "plusBox"
+    },
+    "plus-circle": {
+      "codepoint": 57696,
+      "fontFamily": "Ps",
+      "identifier": "plusCircle"
+    },
+    "podcast": {
+      "codepoint": 57697,
+      "fontFamily": "Ps",
+      "identifier": "podcast"
+    },
+    "posterous": {
+      "codepoint": 57698,
+      "fontFamily": "Ps",
+      "identifier": "posterous"
+    },
+    "power": {
+      "codepoint": 57699,
+      "fontFamily": "Ps",
+      "identifier": "power"
+    },
+    "preston": {
+      "codepoint": 57700,
+      "fontFamily": "Ps",
+      "identifier": "preston"
+    },
+    "previous": {
+      "codepoint": 57701,
+      "fontFamily": "Ps",
+      "identifier": "previous"
+    },
+    "printer": {
+      "codepoint": 57702,
+      "fontFamily": "Ps",
+      "identifier": "printer"
+    },
+    "prison-school-bus": {
+      "codepoint": 57703,
+      "fontFamily": "Ps",
+      "identifier": "prisonSchoolBus"
+    },
+    "promo": {
+      "codepoint": 57704,
+      "fontFamily": "Ps",
+      "identifier": "promo"
+    },
+    "pull": {
+      "codepoint": 57705,
+      "fontFamily": "Ps",
+      "identifier": "pull"
+    },
+    "puzzle": {
+      "codepoint": 57706,
+      "fontFamily": "Ps",
+      "identifier": "puzzle"
+    },
+    "qik": {
+      "codepoint": 57707,
+      "fontFamily": "Ps",
+      "identifier": "qik"
+    },
+    "quik": {
+      "codepoint": 57708,
+      "fontFamily": "Ps",
+      "identifier": "quik"
+    },
+    "quora": {
+      "codepoint": 57709,
+      "fontFamily": "Ps",
+      "identifier": "quora"
+    },
+    "quote": {
+      "codepoint": 57710,
+      "fontFamily": "Ps",
+      "identifier": "quote"
+    },
+    "radio": {
+      "codepoint": 57711,
+      "fontFamily": "Ps",
+      "identifier": "radio"
+    },
+    "radio-empty": {
+      "codepoint": 57712,
+      "fontFamily": "Ps",
+      "identifier": "radioEmpty"
+    },
+    "ram": {
+      "codepoint": 57713,
+      "fontFamily": "Ps",
+      "identifier": "ram"
+    },
+    "random": {
+      "codepoint": 57714,
+      "fontFamily": "Ps",
+      "identifier": "random"
+    },
+    "rdio": {
+      "codepoint": 57715,
+      "fontFamily": "Ps",
+      "identifier": "rdio"
+    },
+    "readernaut": {
+      "codepoint": 57716,
+      "fontFamily": "Ps",
+      "identifier": "readernaut"
+    },
+    "reddit": {
+      "codepoint": 57717,
+      "fontFamily": "Ps",
+      "identifier": "reddit"
+    },
+    "resize": {
+      "codepoint": 57718,
+      "fontFamily": "Ps",
+      "identifier": "resize"
+    },
+    "retweet": {
+      "codepoint": 57719,
+      "fontFamily": "Ps",
+      "identifier": "retweet"
+    },
+    "retweet-1": {
+      "codepoint": 57720,
+      "fontFamily": "Ps",
+      "identifier": "retweet1"
+    },
+    "rewind": {
+      "codepoint": 57721,
+      "fontFamily": "Ps",
+      "identifier": "rewind"
+    },
+    "right": {
+      "codepoint": 57722,
+      "fontFamily": "Ps",
+      "identifier": "right"
+    },
+    "right-arrow-circle": {
+      "codepoint": 57723,
+      "fontFamily": "Ps",
+      "identifier": "rightArrowCircle"
+    },
+    "road": {
+      "codepoint": 57724,
+      "fontFamily": "Ps",
+      "identifier": "road"
+    },
+    "robo": {
+      "codepoint": 57725,
+      "fontFamily": "Ps",
+      "identifier": "robo"
+    },
+    "row-setting": {
+      "codepoint": 57726,
+      "fontFamily": "Ps",
+      "identifier": "rowSetting"
+    },
+    "rss": {
+      "codepoint": 57727,
+      "fontFamily": "Ps",
+      "identifier": "rss"
+    },
+    "rss-icon": {
+      "codepoint": 57728,
+      "fontFamily": "Ps",
+      "identifier": "rssIcon"
+    },
+    "safe": {
+      "codepoint": 57729,
+      "fontFamily": "Ps",
+      "identifier": "safe"
+    },
+    "sale-tag": {
+      "codepoint": 57730,
+      "fontFamily": "Ps",
+      "identifier": "saleTag"
+    },
+    "save": {
+      "codepoint": 57731,
+      "fontFamily": "Ps",
+      "identifier": "save"
+    },
+    "scissors": {
+      "codepoint": 57732,
+      "fontFamily": "Ps",
+      "identifier": "scissors"
+    },
+    "scribd": {
+      "codepoint": 57733,
+      "fontFamily": "Ps",
+      "identifier": "scribd"
+    },
+    "sharethis": {
+      "codepoint": 57734,
+      "fontFamily": "Ps",
+      "identifier": "sharethis"
+    },
+    "shield": {
+      "codepoint": 57735,
+      "fontFamily": "Ps",
+      "identifier": "shield"
+    },
+    "shoe": {
+      "codepoint": 57736,
+      "fontFamily": "Ps",
+      "identifier": "shoe"
+    },
+    "shopping-cart": {
+      "codepoint": 57737,
+      "fontFamily": "Ps",
+      "identifier": "shoppingCart"
+    },
+    "sign": {
+      "codepoint": 57738,
+      "fontFamily": "Ps",
+      "identifier": "sign"
+    },
+    "simplenote": {
+      "codepoint": 57739,
+      "fontFamily": "Ps",
+      "identifier": "simplenote"
+    },
+    "skype": {
+      "codepoint": 57740,
+      "fontFamily": "Ps",
+      "identifier": "skype"
+    },
+    "slashdot": {
+      "codepoint": 57741,
+      "fontFamily": "Ps",
+      "identifier": "slashdot"
+    },
+    "slideshare": {
+      "codepoint": 57742,
+      "fontFamily": "Ps",
+      "identifier": "slideshare"
+    },
+    "smugmug": {
+      "codepoint": 57743,
+      "fontFamily": "Ps",
+      "identifier": "smugmug"
+    },
+    "sound": {
+      "codepoint": 57744,
+      "fontFamily": "Ps",
+      "identifier": "sound"
+    },
+    "sound-down": {
+      "codepoint": 57745,
+      "fontFamily": "Ps",
+      "identifier": "soundDown"
+    },
+    "sound-level-one": {
+      "codepoint": 57746,
+      "fontFamily": "Ps",
+      "identifier": "soundLevelOne"
+    },
+    "sound-level-two": {
+      "codepoint": 57747,
+      "fontFamily": "Ps",
+      "identifier": "soundLevelTwo"
+    },
+    "sound-plus": {
+      "codepoint": 57748,
+      "fontFamily": "Ps",
+      "identifier": "soundPlus"
+    },
+    "soundcloud": {
+      "codepoint": 57749,
+      "fontFamily": "Ps",
+      "identifier": "soundcloud"
+    },
+    "spades-card": {
+      "codepoint": 57750,
+      "fontFamily": "Ps",
+      "identifier": "spadesCard"
+    },
+    "spotify": {
+      "codepoint": 57751,
+      "fontFamily": "Ps",
+      "identifier": "spotify"
+    },
+    "squarespace": {
+      "codepoint": 57752,
+      "fontFamily": "Ps",
+      "identifier": "squarespace"
+    },
+    "squidoo": {
+      "codepoint": 57753,
+      "fontFamily": "Ps",
+      "identifier": "squidoo"
+    },
+    "sreenshot": {
+      "codepoint": 57754,
+      "fontFamily": "Ps",
+      "identifier": "sreenshot"
+    },
+    "stats": {
+      "codepoint": 57755,
+      "fontFamily": "Ps",
+      "identifier": "stats"
+    },
+    "steam": {
+      "codepoint": 57756,
+      "fontFamily": "Ps",
+      "identifier": "steam"
+    },
+    "stethoscope": {
+      "codepoint": 57757,
+      "fontFamily": "Ps",
+      "identifier": "stethoscope"
+    },
+    "store": {
+      "codepoint": 57758,
+      "fontFamily": "Ps",
+      "identifier": "store"
+    },
+    "stumbleupon": {
+      "codepoint": 57759,
+      "fontFamily": "Ps",
+      "identifier": "stumbleupon"
+    },
+    "suitcase": {
+      "codepoint": 57760,
+      "fontFamily": "Ps",
+      "identifier": "suitcase"
+    },
+    "sun": {
+      "codepoint": 57761,
+      "fontFamily": "Ps",
+      "identifier": "sun"
+    },
+    "switch": {
+      "codepoint": 57762,
+      "fontFamily": "Ps",
+      "identifier": "switch_"
+    },
+    "tacos": {
+      "codepoint": 57763,
+      "fontFamily": "Ps",
+      "identifier": "tacos"
+    },
+    "tag": {
+      "codepoint": 57764,
+      "fontFamily": "Ps",
+      "identifier": "tag"
+    },
+    "target": {
+      "codepoint": 57765,
+      "fontFamily": "Ps",
+      "identifier": "target"
+    },
+    "technorati": {
+      "codepoint": 57766,
+      "fontFamily": "Ps",
+      "identifier": "technorati"
+    },
+    "threewords": {
+      "codepoint": 57767,
+      "fontFamily": "Ps",
+      "identifier": "threewords"
+    },
+    "ticket": {
+      "codepoint": 57768,
+      "fontFamily": "Ps",
+      "identifier": "ticket"
+    },
+    "token": {
+      "codepoint": 57769,
+      "fontFamily": "Ps",
+      "identifier": "token"
+    },
+    "triangle": {
+      "codepoint": 57770,
+      "fontFamily": "Ps",
+      "identifier": "triangle"
+    },
+    "tribe": {
+      "codepoint": 57771,
+      "fontFamily": "Ps",
+      "identifier": "tribe"
+    },
+    "tripit": {
+      "codepoint": 57772,
+      "fontFamily": "Ps",
+      "identifier": "tripit"
+    },
+    "trophy": {
+      "codepoint": 57773,
+      "fontFamily": "Ps",
+      "identifier": "trophy"
+    },
+    "truck": {
+      "codepoint": 57774,
+      "fontFamily": "Ps",
+      "identifier": "truck"
+    },
+    "truck-1": {
+      "codepoint": 57775,
+      "fontFamily": "Ps",
+      "identifier": "truck1"
+    },
+    "tumble-dry": {
+      "codepoint": 57776,
+      "fontFamily": "Ps",
+      "identifier": "tumbleDry"
+    },
+    "tumblr": {
+      "codepoint": 57777,
+      "fontFamily": "Ps",
+      "identifier": "tumblr"
+    },
+    "twitter": {
+      "codepoint": 57778,
+      "fontFamily": "Ps",
+      "identifier": "twitter"
+    },
+    "twitter-alt": {
+      "codepoint": 57779,
+      "fontFamily": "Ps",
+      "identifier": "twitterAlt"
+    },
+    "ufo": {
+      "codepoint": 57780,
+      "fontFamily": "Ps",
+      "identifier": "ufo"
+    },
+    "up": {
+      "codepoint": 57781,
+      "fontFamily": "Ps",
+      "identifier": "up"
+    },
+    "up-arrow-circle": {
+      "codepoint": 57782,
+      "fontFamily": "Ps",
+      "identifier": "upArrowCircle"
+    },
+    "upload": {
+      "codepoint": 57783,
+      "fontFamily": "Ps",
+      "identifier": "upload"
+    },
+    "upload-to-cloud": {
+      "codepoint": 57784,
+      "fontFamily": "Ps",
+      "identifier": "uploadToCloud"
+    },
+    "user": {
+      "codepoint": 57785,
+      "fontFamily": "Ps",
+      "identifier": "user"
+    },
+    "vcard": {
+      "codepoint": 57786,
+      "fontFamily": "Ps",
+      "identifier": "vcard"
+    },
+    "viddler": {
+      "codepoint": 57787,
+      "fontFamily": "Ps",
+      "identifier": "viddler"
+    },
+    "video-camera": {
+      "codepoint": 57788,
+      "fontFamily": "Ps",
+      "identifier": "videoCamera"
+    },
+    "vimeo": {
+      "codepoint": 57789,
+      "fontFamily": "Ps",
+      "identifier": "vimeo"
+    },
+    "virb": {
+      "codepoint": 57790,
+      "fontFamily": "Ps",
+      "identifier": "virb"
+    },
+    "w3": {
+      "codepoint": 57791,
+      "fontFamily": "Ps",
+      "identifier": "w3"
+    },
+    "wallet": {
+      "codepoint": 57792,
+      "fontFamily": "Ps",
+      "identifier": "wallet"
+    },
+    "wand": {
+      "codepoint": 57793,
+      "fontFamily": "Ps",
+      "identifier": "wand"
+    },
+    "warning": {
+      "codepoint": 57794,
+      "fontFamily": "Ps",
+      "identifier": "warning"
+    },
+    "watch": {
+      "codepoint": 57795,
+      "fontFamily": "Ps",
+      "identifier": "watch"
+    },
+    "water-temperature-30": {
+      "codepoint": 57796,
+      "fontFamily": "Ps",
+      "identifier": "waterTemperature30"
+    },
+    "water-temperature-40": {
+      "codepoint": 57797,
+      "fontFamily": "Ps",
+      "identifier": "waterTemperature40"
+    },
+    "water-temperature-50": {
+      "codepoint": 57798,
+      "fontFamily": "Ps",
+      "identifier": "waterTemperature50"
+    },
+    "water-temperature-60": {
+      "codepoint": 57799,
+      "fontFamily": "Ps",
+      "identifier": "waterTemperature60"
+    },
+    "water-temperature-70": {
+      "codepoint": 57800,
+      "fontFamily": "Ps",
+      "identifier": "waterTemperature70"
+    },
+    "water-temperature-95": {
+      "codepoint": 57801,
+      "fontFamily": "Ps",
+      "identifier": "waterTemperature95"
+    },
+    "whatsapp": {
+      "codepoint": 57802,
+      "fontFamily": "Ps",
+      "identifier": "whatsapp"
+    },
+    "wikipedia": {
+      "codepoint": 57803,
+      "fontFamily": "Ps",
+      "identifier": "wikipedia"
+    },
+    "windows": {
+      "codepoint": 57804,
+      "fontFamily": "Ps",
+      "identifier": "windows"
+    },
+    "wists": {
+      "codepoint": 57805,
+      "fontFamily": "Ps",
+      "identifier": "wists"
+    },
+    "woman": {
+      "codepoint": 57806,
+      "fontFamily": "Ps",
+      "identifier": "woman"
+    },
+    "wordpress": {
+      "codepoint": 57807,
+      "fontFamily": "Ps",
+      "identifier": "wordpress"
+    },
+    "wordpress-alt": {
+      "codepoint": 57808,
+      "fontFamily": "Ps",
+      "identifier": "wordpressAlt"
+    },
+    "work-case": {
+      "codepoint": 57809,
+      "fontFamily": "Ps",
+      "identifier": "workCase"
+    },
+    "world": {
+      "codepoint": 57810,
+      "fontFamily": "Ps",
+      "identifier": "world"
+    },
+    "xing": {
+      "codepoint": 57811,
+      "fontFamily": "Ps",
+      "identifier": "xing"
+    },
+    "yahoo": {
+      "codepoint": 57812,
+      "fontFamily": "Ps",
+      "identifier": "yahoo"
+    },
+    "yahoo-buzz": {
+      "codepoint": 57813,
+      "fontFamily": "Ps",
+      "identifier": "yahooBuzz"
+    },
+    "yahoo-messenger": {
+      "codepoint": 57814,
+      "fontFamily": "Ps",
+      "identifier": "yahooMessenger"
+    },
+    "yelp": {
+      "codepoint": 57815,
+      "fontFamily": "Ps",
+      "identifier": "yelp"
+    },
+    "youtube": {
+      "codepoint": 57816,
+      "fontFamily": "Ps",
+      "identifier": "youtube"
+    },
+    "youtube-alt": {
+      "codepoint": 57817,
+      "fontFamily": "Ps",
+      "identifier": "youtubeAlt"
+    },
+    "zerply": {
+      "codepoint": 57818,
+      "fontFamily": "Ps",
+      "identifier": "zerply"
+    },
+    "zoom-in": {
+      "codepoint": 57819,
+      "fontFamily": "Ps",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 57820,
+      "fontFamily": "Ps",
+      "identifier": "zoomOut"
+    },
+    "zootool": {
+      "codepoint": 57821,
+      "fontFamily": "Ps",
+      "identifier": "zootool"
+    },
+    "zynga": {
+      "codepoint": 57822,
+      "fontFamily": "Ps",
+      "identifier": "zynga"
+    }
+  }
+}

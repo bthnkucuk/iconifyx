@@ -1,0 +1,4840 @@
+{
+  "schemaVersion": 1,
+  "prefix": "lineicons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_lineicons",
+  "info": {
+    "name": "Lineicons",
+    "author": {
+      "name": "Lineicons",
+      "url": "https://github.com/LineiconsHQ/Lineicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/LineiconsHQ/Lineicons/blob/main/LICENSE.md"
+    },
+    "total": 962
+  },
+  "fonts": [
+    {
+      "family": "Lineicons",
+      "nextCodepoint": 58306,
+      "iconCount": 962
+    }
+  ],
+  "icons": {
+    "500px": {
+      "codepoint": 57344,
+      "fontFamily": "Lineicons",
+      "identifier": "n500px"
+    },
+    "add-files": {
+      "codepoint": 57345,
+      "fontFamily": "Lineicons",
+      "identifier": "addFiles"
+    },
+    "adobe": {
+      "codepoint": 57346,
+      "fontFamily": "Lineicons",
+      "identifier": "adobe"
+    },
+    "adonis": {
+      "codepoint": 57347,
+      "fontFamily": "Lineicons",
+      "identifier": "adonis"
+    },
+    "aeroplane-1": {
+      "codepoint": 57348,
+      "fontFamily": "Lineicons",
+      "identifier": "aeroplane1"
+    },
+    "agenda": {
+      "codepoint": 57349,
+      "fontFamily": "Lineicons",
+      "identifier": "agenda"
+    },
+    "airbnb": {
+      "codepoint": 57350,
+      "fontFamily": "Lineicons",
+      "identifier": "airbnb"
+    },
+    "airtable": {
+      "codepoint": 57351,
+      "fontFamily": "Lineicons",
+      "identifier": "airtable"
+    },
+    "alarm": {
+      "codepoint": 57352,
+      "fontFamily": "Lineicons",
+      "identifier": "alarm"
+    },
+    "alarm-1": {
+      "codepoint": 57353,
+      "fontFamily": "Lineicons",
+      "identifier": "alarm1"
+    },
+    "alarm-clock": {
+      "codepoint": 57354,
+      "fontFamily": "Lineicons",
+      "identifier": "alarmClock"
+    },
+    "align-text-center": {
+      "codepoint": 57355,
+      "fontFamily": "Lineicons",
+      "identifier": "alignTextCenter"
+    },
+    "align-text-left": {
+      "codepoint": 57356,
+      "fontFamily": "Lineicons",
+      "identifier": "alignTextLeft"
+    },
+    "align-text-right": {
+      "codepoint": 57357,
+      "fontFamily": "Lineicons",
+      "identifier": "alignTextRight"
+    },
+    "alpinejs": {
+      "codepoint": 57358,
+      "fontFamily": "Lineicons",
+      "identifier": "alpinejs"
+    },
+    "amazon": {
+      "codepoint": 57359,
+      "fontFamily": "Lineicons",
+      "identifier": "amazon"
+    },
+    "amazon-original": {
+      "codepoint": 57360,
+      "fontFamily": "Lineicons",
+      "identifier": "amazonOriginal"
+    },
+    "amazon-pay": {
+      "codepoint": 57361,
+      "fontFamily": "Lineicons",
+      "identifier": "amazonPay"
+    },
+    "ambulance": {
+      "codepoint": 57362,
+      "fontFamily": "Lineicons",
+      "identifier": "ambulance"
+    },
+    "ambulance-1": {
+      "codepoint": 57363,
+      "fontFamily": "Lineicons",
+      "identifier": "ambulance1"
+    },
+    "amd": {
+      "codepoint": 57364,
+      "fontFamily": "Lineicons",
+      "identifier": "amd"
+    },
+    "amex": {
+      "codepoint": 57365,
+      "fontFamily": "Lineicons",
+      "identifier": "amex"
+    },
+    "anchor": {
+      "codepoint": 57366,
+      "fontFamily": "Lineicons",
+      "identifier": "anchor"
+    },
+    "android": {
+      "codepoint": 57367,
+      "fontFamily": "Lineicons",
+      "identifier": "android"
+    },
+    "android-old": {
+      "codepoint": 57368,
+      "fontFamily": "Lineicons",
+      "identifier": "androidOld"
+    },
+    "android-original": {
+      "codepoint": 57369,
+      "fontFamily": "Lineicons",
+      "identifier": "androidOriginal"
+    },
+    "angellist": {
+      "codepoint": 57370,
+      "fontFamily": "Lineicons",
+      "identifier": "angellist"
+    },
+    "angle-double-down": {
+      "codepoint": 57371,
+      "fontFamily": "Lineicons",
+      "identifier": "angleDoubleDown"
+    },
+    "angle-double-left": {
+      "codepoint": 57372,
+      "fontFamily": "Lineicons",
+      "identifier": "angleDoubleLeft"
+    },
+    "angle-double-right": {
+      "codepoint": 57373,
+      "fontFamily": "Lineicons",
+      "identifier": "angleDoubleRight"
+    },
+    "angle-double-up": {
+      "codepoint": 57374,
+      "fontFamily": "Lineicons",
+      "identifier": "angleDoubleUp"
+    },
+    "angular": {
+      "codepoint": 57375,
+      "fontFamily": "Lineicons",
+      "identifier": "angular"
+    },
+    "apartment": {
+      "codepoint": 57376,
+      "fontFamily": "Lineicons",
+      "identifier": "apartment"
+    },
+    "app-store": {
+      "codepoint": 57377,
+      "fontFamily": "Lineicons",
+      "identifier": "appStore"
+    },
+    "apple-brand": {
+      "codepoint": 57378,
+      "fontFamily": "Lineicons",
+      "identifier": "appleBrand"
+    },
+    "apple-music": {
+      "codepoint": 57379,
+      "fontFamily": "Lineicons",
+      "identifier": "appleMusic"
+    },
+    "apple-music-alt": {
+      "codepoint": 57380,
+      "fontFamily": "Lineicons",
+      "identifier": "appleMusicAlt"
+    },
+    "apple-pay": {
+      "codepoint": 57381,
+      "fontFamily": "Lineicons",
+      "identifier": "applePay"
+    },
+    "arc-browser": {
+      "codepoint": 57382,
+      "fontFamily": "Lineicons",
+      "identifier": "arcBrowser"
+    },
+    "archive": {
+      "codepoint": 57383,
+      "fontFamily": "Lineicons",
+      "identifier": "archive"
+    },
+    "arrow-all-direction": {
+      "codepoint": 57384,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowAllDirection"
+    },
+    "arrow-angular-top-left": {
+      "codepoint": 57385,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowAngularTopLeft"
+    },
+    "arrow-angular-top-right": {
+      "codepoint": 57386,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowAngularTopRight"
+    },
+    "arrow-both-direction-horizontal-1": {
+      "codepoint": 57387,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowBothDirectionHorizontal1"
+    },
+    "arrow-both-direction-vertical-1": {
+      "codepoint": 57388,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowBothDirectionVertical1"
+    },
+    "arrow-down": {
+      "codepoint": 57389,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-circle": {
+      "codepoint": 57390,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowDownCircle"
+    },
+    "arrow-downward": {
+      "codepoint": 57391,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowDownward"
+    },
+    "arrow-left": {
+      "codepoint": 57392,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-circle": {
+      "codepoint": 57393,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowLeftCircle"
+    },
+    "arrow-right": {
+      "codepoint": 57394,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-circle": {
+      "codepoint": 57395,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowRightCircle"
+    },
+    "arrow-top-left": {
+      "codepoint": 57396,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowTopLeft"
+    },
+    "arrow-top-right": {
+      "codepoint": 57397,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowTopRight"
+    },
+    "arrow-up": {
+      "codepoint": 57398,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-circle": {
+      "codepoint": 57399,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowUpCircle"
+    },
+    "arrow-upward": {
+      "codepoint": 57400,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowUpward"
+    },
+    "arrows-horizontal": {
+      "codepoint": 57401,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowsHorizontal"
+    },
+    "arrows-vertical": {
+      "codepoint": 57402,
+      "fontFamily": "Lineicons",
+      "identifier": "arrowsVertical"
+    },
+    "asana": {
+      "codepoint": 57403,
+      "fontFamily": "Lineicons",
+      "identifier": "asana"
+    },
+    "astro": {
+      "codepoint": 57404,
+      "fontFamily": "Lineicons",
+      "identifier": "astro"
+    },
+    "atlassian": {
+      "codepoint": 57405,
+      "fontFamily": "Lineicons",
+      "identifier": "atlassian"
+    },
+    "audi": {
+      "codepoint": 57406,
+      "fontFamily": "Lineicons",
+      "identifier": "audi"
+    },
+    "audi-alt": {
+      "codepoint": 57407,
+      "fontFamily": "Lineicons",
+      "identifier": "audiAlt"
+    },
+    "aws": {
+      "codepoint": 57408,
+      "fontFamily": "Lineicons",
+      "identifier": "aws"
+    },
+    "azure": {
+      "codepoint": 57409,
+      "fontFamily": "Lineicons",
+      "identifier": "azure"
+    },
+    "backward": {
+      "codepoint": 57410,
+      "fontFamily": "Lineicons",
+      "identifier": "backward"
+    },
+    "badge-decagram-percent": {
+      "codepoint": 57411,
+      "fontFamily": "Lineicons",
+      "identifier": "badgeDecagramPercent"
+    },
+    "balloons": {
+      "codepoint": 57412,
+      "fontFamily": "Lineicons",
+      "identifier": "balloons"
+    },
+    "baloon": {
+      "codepoint": 57413,
+      "fontFamily": "Lineicons",
+      "identifier": "baloon"
+    },
+    "ban": {
+      "codepoint": 57414,
+      "fontFamily": "Lineicons",
+      "identifier": "ban"
+    },
+    "ban-2": {
+      "codepoint": 57415,
+      "fontFamily": "Lineicons",
+      "identifier": "ban2"
+    },
+    "bar-chart": {
+      "codepoint": 57416,
+      "fontFamily": "Lineicons",
+      "identifier": "barChart"
+    },
+    "bar-chart-4": {
+      "codepoint": 57417,
+      "fontFamily": "Lineicons",
+      "identifier": "barChart4"
+    },
+    "bar-chart-dollar": {
+      "codepoint": 57418,
+      "fontFamily": "Lineicons",
+      "identifier": "barChartDollar"
+    },
+    "basket-shopping-3": {
+      "codepoint": 57419,
+      "fontFamily": "Lineicons",
+      "identifier": "basketShopping3"
+    },
+    "basketball": {
+      "codepoint": 57420,
+      "fontFamily": "Lineicons",
+      "identifier": "basketball"
+    },
+    "beat": {
+      "codepoint": 57421,
+      "fontFamily": "Lineicons",
+      "identifier": "beat"
+    },
+    "behance": {
+      "codepoint": 57422,
+      "fontFamily": "Lineicons",
+      "identifier": "behance"
+    },
+    "behance-original": {
+      "codepoint": 57423,
+      "fontFamily": "Lineicons",
+      "identifier": "behanceOriginal"
+    },
+    "bell-1": {
+      "codepoint": 57424,
+      "fontFamily": "Lineicons",
+      "identifier": "bell1"
+    },
+    "bi-cycle": {
+      "codepoint": 57425,
+      "fontFamily": "Lineicons",
+      "identifier": "biCycle"
+    },
+    "bike": {
+      "codepoint": 57426,
+      "fontFamily": "Lineicons",
+      "identifier": "bike"
+    },
+    "bing": {
+      "codepoint": 57427,
+      "fontFamily": "Lineicons",
+      "identifier": "bing"
+    },
+    "bitbucket": {
+      "codepoint": 57428,
+      "fontFamily": "Lineicons",
+      "identifier": "bitbucket"
+    },
+    "bitcoin": {
+      "codepoint": 57429,
+      "fontFamily": "Lineicons",
+      "identifier": "bitcoin"
+    },
+    "bittorrent": {
+      "codepoint": 57430,
+      "fontFamily": "Lineicons",
+      "identifier": "bittorrent"
+    },
+    "blackboard": {
+      "codepoint": 57431,
+      "fontFamily": "Lineicons",
+      "identifier": "blackboard"
+    },
+    "blogger": {
+      "codepoint": 57432,
+      "fontFamily": "Lineicons",
+      "identifier": "blogger"
+    },
+    "blogger-alt": {
+      "codepoint": 57433,
+      "fontFamily": "Lineicons",
+      "identifier": "bloggerAlt"
+    },
+    "bluetooth": {
+      "codepoint": 57434,
+      "fontFamily": "Lineicons",
+      "identifier": "bluetooth"
+    },
+    "bluetooth-logo": {
+      "codepoint": 57435,
+      "fontFamily": "Lineicons",
+      "identifier": "bluetoothLogo"
+    },
+    "bluetooth-original": {
+      "codepoint": 57436,
+      "fontFamily": "Lineicons",
+      "identifier": "bluetoothOriginal"
+    },
+    "bmw": {
+      "codepoint": 57437,
+      "fontFamily": "Lineicons",
+      "identifier": "bmw"
+    },
+    "board-writing-3": {
+      "codepoint": 57438,
+      "fontFamily": "Lineicons",
+      "identifier": "boardWriting3"
+    },
+    "bold": {
+      "codepoint": 57439,
+      "fontFamily": "Lineicons",
+      "identifier": "bold"
+    },
+    "bolt": {
+      "codepoint": 57440,
+      "fontFamily": "Lineicons",
+      "identifier": "bolt"
+    },
+    "bolt-2": {
+      "codepoint": 57441,
+      "fontFamily": "Lineicons",
+      "identifier": "bolt2"
+    },
+    "bolt-3": {
+      "codepoint": 57442,
+      "fontFamily": "Lineicons",
+      "identifier": "bolt3"
+    },
+    "bolt-alt": {
+      "codepoint": 57443,
+      "fontFamily": "Lineicons",
+      "identifier": "boltAlt"
+    },
+    "book": {
+      "codepoint": 57444,
+      "fontFamily": "Lineicons",
+      "identifier": "book"
+    },
+    "book-1": {
+      "codepoint": 57445,
+      "fontFamily": "Lineicons",
+      "identifier": "book1"
+    },
+    "bookmark": {
+      "codepoint": 57446,
+      "fontFamily": "Lineicons",
+      "identifier": "bookmark"
+    },
+    "bookmark-1": {
+      "codepoint": 57447,
+      "fontFamily": "Lineicons",
+      "identifier": "bookmark1"
+    },
+    "bookmark-alt": {
+      "codepoint": 57448,
+      "fontFamily": "Lineicons",
+      "identifier": "bookmarkAlt"
+    },
+    "bookmark-circle": {
+      "codepoint": 57449,
+      "fontFamily": "Lineicons",
+      "identifier": "bookmarkCircle"
+    },
+    "books-2": {
+      "codepoint": 57450,
+      "fontFamily": "Lineicons",
+      "identifier": "books2"
+    },
+    "bootstrap": {
+      "codepoint": 57451,
+      "fontFamily": "Lineicons",
+      "identifier": "bootstrap"
+    },
+    "bootstrap-5": {
+      "codepoint": 57452,
+      "fontFamily": "Lineicons",
+      "identifier": "bootstrap5"
+    },
+    "bootstrap-5-square": {
+      "codepoint": 57453,
+      "fontFamily": "Lineicons",
+      "identifier": "bootstrap5Square"
+    },
+    "box-archive-1": {
+      "codepoint": 57454,
+      "fontFamily": "Lineicons",
+      "identifier": "boxArchive1"
+    },
+    "box-closed": {
+      "codepoint": 57455,
+      "fontFamily": "Lineicons",
+      "identifier": "boxClosed"
+    },
+    "box-gift-1": {
+      "codepoint": 57456,
+      "fontFamily": "Lineicons",
+      "identifier": "boxGift1"
+    },
+    "brave": {
+      "codepoint": 57457,
+      "fontFamily": "Lineicons",
+      "identifier": "brave"
+    },
+    "bricks": {
+      "codepoint": 57458,
+      "fontFamily": "Lineicons",
+      "identifier": "bricks"
+    },
+    "bridge": {
+      "codepoint": 57459,
+      "fontFamily": "Lineicons",
+      "identifier": "bridge"
+    },
+    "bridge-3": {
+      "codepoint": 57460,
+      "fontFamily": "Lineicons",
+      "identifier": "bridge3"
+    },
+    "briefcase": {
+      "codepoint": 57461,
+      "fontFamily": "Lineicons",
+      "identifier": "briefcase"
+    },
+    "briefcase-1": {
+      "codepoint": 57462,
+      "fontFamily": "Lineicons",
+      "identifier": "briefcase1"
+    },
+    "briefcase-2": {
+      "codepoint": 57463,
+      "fontFamily": "Lineicons",
+      "identifier": "briefcase2"
+    },
+    "briefcase-alt": {
+      "codepoint": 57464,
+      "fontFamily": "Lineicons",
+      "identifier": "briefcaseAlt"
+    },
+    "briefcase-plus-1": {
+      "codepoint": 57465,
+      "fontFamily": "Lineicons",
+      "identifier": "briefcasePlus1"
+    },
+    "brush": {
+      "codepoint": 57466,
+      "fontFamily": "Lineicons",
+      "identifier": "brush"
+    },
+    "brush-1-rotated": {
+      "codepoint": 57467,
+      "fontFamily": "Lineicons",
+      "identifier": "brush1Rotated"
+    },
+    "brush-2": {
+      "codepoint": 57468,
+      "fontFamily": "Lineicons",
+      "identifier": "brush2"
+    },
+    "brush-alt": {
+      "codepoint": 57469,
+      "fontFamily": "Lineicons",
+      "identifier": "brushAlt"
+    },
+    "btc": {
+      "codepoint": 57470,
+      "fontFamily": "Lineicons",
+      "identifier": "btc"
+    },
+    "bubble": {
+      "codepoint": 57471,
+      "fontFamily": "Lineicons",
+      "identifier": "bubble"
+    },
+    "bug": {
+      "codepoint": 57472,
+      "fontFamily": "Lineicons",
+      "identifier": "bug"
+    },
+    "bug-1": {
+      "codepoint": 57473,
+      "fontFamily": "Lineicons",
+      "identifier": "bug1"
+    },
+    "buildings-1": {
+      "codepoint": 57474,
+      "fontFamily": "Lineicons",
+      "identifier": "buildings1"
+    },
+    "bulb": {
+      "codepoint": 57475,
+      "fontFamily": "Lineicons",
+      "identifier": "bulb"
+    },
+    "bulb-2": {
+      "codepoint": 57476,
+      "fontFamily": "Lineicons",
+      "identifier": "bulb2"
+    },
+    "bulb-4": {
+      "codepoint": 57477,
+      "fontFamily": "Lineicons",
+      "identifier": "bulb4"
+    },
+    "bullhorn": {
+      "codepoint": 57478,
+      "fontFamily": "Lineicons",
+      "identifier": "bullhorn"
+    },
+    "burger": {
+      "codepoint": 57479,
+      "fontFamily": "Lineicons",
+      "identifier": "burger"
+    },
+    "burger-1": {
+      "codepoint": 57480,
+      "fontFamily": "Lineicons",
+      "identifier": "burger1"
+    },
+    "burger-drink": {
+      "codepoint": 57481,
+      "fontFamily": "Lineicons",
+      "identifier": "burgerDrink"
+    },
+    "bus": {
+      "codepoint": 57482,
+      "fontFamily": "Lineicons",
+      "identifier": "bus"
+    },
+    "bus-1": {
+      "codepoint": 57483,
+      "fontFamily": "Lineicons",
+      "identifier": "bus1"
+    },
+    "busket-ball": {
+      "codepoint": 57484,
+      "fontFamily": "Lineicons",
+      "identifier": "busketBall"
+    },
+    "cake": {
+      "codepoint": 57485,
+      "fontFamily": "Lineicons",
+      "identifier": "cake"
+    },
+    "cake-1": {
+      "codepoint": 57486,
+      "fontFamily": "Lineicons",
+      "identifier": "cake1"
+    },
+    "calculator": {
+      "codepoint": 57487,
+      "fontFamily": "Lineicons",
+      "identifier": "calculator"
+    },
+    "calculator-1": {
+      "codepoint": 57488,
+      "fontFamily": "Lineicons",
+      "identifier": "calculator1"
+    },
+    "calculator-2": {
+      "codepoint": 57489,
+      "fontFamily": "Lineicons",
+      "identifier": "calculator2"
+    },
+    "calculator-alt": {
+      "codepoint": 57490,
+      "fontFamily": "Lineicons",
+      "identifier": "calculatorAlt"
+    },
+    "calendar": {
+      "codepoint": 57491,
+      "fontFamily": "Lineicons",
+      "identifier": "calendar"
+    },
+    "calendar-days": {
+      "codepoint": 57492,
+      "fontFamily": "Lineicons",
+      "identifier": "calendarDays"
+    },
+    "camera": {
+      "codepoint": 57493,
+      "fontFamily": "Lineicons",
+      "identifier": "camera"
+    },
+    "camera-1": {
+      "codepoint": 57494,
+      "fontFamily": "Lineicons",
+      "identifier": "camera1"
+    },
+    "camera-movie-1": {
+      "codepoint": 57495,
+      "fontFamily": "Lineicons",
+      "identifier": "cameraMovie1"
+    },
+    "candy": {
+      "codepoint": 57496,
+      "fontFamily": "Lineicons",
+      "identifier": "candy"
+    },
+    "candy-cane": {
+      "codepoint": 57497,
+      "fontFamily": "Lineicons",
+      "identifier": "candyCane"
+    },
+    "candy-cane-2": {
+      "codepoint": 57498,
+      "fontFamily": "Lineicons",
+      "identifier": "candyCane2"
+    },
+    "candy-round-1": {
+      "codepoint": 57499,
+      "fontFamily": "Lineicons",
+      "identifier": "candyRound1"
+    },
+    "canva": {
+      "codepoint": 57500,
+      "fontFamily": "Lineicons",
+      "identifier": "canva"
+    },
+    "capsule": {
+      "codepoint": 57501,
+      "fontFamily": "Lineicons",
+      "identifier": "capsule"
+    },
+    "capsule-1": {
+      "codepoint": 57502,
+      "fontFamily": "Lineicons",
+      "identifier": "capsule1"
+    },
+    "car": {
+      "codepoint": 57503,
+      "fontFamily": "Lineicons",
+      "identifier": "car"
+    },
+    "car-2": {
+      "codepoint": 57504,
+      "fontFamily": "Lineicons",
+      "identifier": "car2"
+    },
+    "car-4": {
+      "codepoint": 57505,
+      "fontFamily": "Lineicons",
+      "identifier": "car4"
+    },
+    "car-6": {
+      "codepoint": 57506,
+      "fontFamily": "Lineicons",
+      "identifier": "car6"
+    },
+    "car-alt": {
+      "codepoint": 57507,
+      "fontFamily": "Lineicons",
+      "identifier": "carAlt"
+    },
+    "caravan": {
+      "codepoint": 57508,
+      "fontFamily": "Lineicons",
+      "identifier": "caravan"
+    },
+    "caravan-1": {
+      "codepoint": 57509,
+      "fontFamily": "Lineicons",
+      "identifier": "caravan1"
+    },
+    "cart": {
+      "codepoint": 57510,
+      "fontFamily": "Lineicons",
+      "identifier": "cart"
+    },
+    "cart-1": {
+      "codepoint": 57511,
+      "fontFamily": "Lineicons",
+      "identifier": "cart1"
+    },
+    "cart-2": {
+      "codepoint": 57512,
+      "fontFamily": "Lineicons",
+      "identifier": "cart2"
+    },
+    "cart-full": {
+      "codepoint": 57513,
+      "fontFamily": "Lineicons",
+      "identifier": "cartFull"
+    },
+    "cash-app": {
+      "codepoint": 57514,
+      "fontFamily": "Lineicons",
+      "identifier": "cashApp"
+    },
+    "certificate": {
+      "codepoint": 57515,
+      "fontFamily": "Lineicons",
+      "identifier": "certificate"
+    },
+    "certificate-badge-1": {
+      "codepoint": 57516,
+      "fontFamily": "Lineicons",
+      "identifier": "certificateBadge1"
+    },
+    "chat-bubble-2": {
+      "codepoint": 57517,
+      "fontFamily": "Lineicons",
+      "identifier": "chatBubble2"
+    },
+    "check": {
+      "codepoint": 57518,
+      "fontFamily": "Lineicons",
+      "identifier": "check"
+    },
+    "check-box": {
+      "codepoint": 57519,
+      "fontFamily": "Lineicons",
+      "identifier": "checkBox"
+    },
+    "check-circle-1": {
+      "codepoint": 57520,
+      "fontFamily": "Lineicons",
+      "identifier": "checkCircle1"
+    },
+    "check-square-2": {
+      "codepoint": 57521,
+      "fontFamily": "Lineicons",
+      "identifier": "checkSquare2"
+    },
+    "checkmark": {
+      "codepoint": 57522,
+      "fontFamily": "Lineicons",
+      "identifier": "checkmark"
+    },
+    "checkmark-circle": {
+      "codepoint": 57523,
+      "fontFamily": "Lineicons",
+      "identifier": "checkmarkCircle"
+    },
+    "chef-hat": {
+      "codepoint": 57524,
+      "fontFamily": "Lineicons",
+      "identifier": "chefHat"
+    },
+    "chevron-down": {
+      "codepoint": 57525,
+      "fontFamily": "Lineicons",
+      "identifier": "chevronDown"
+    },
+    "chevron-down-circle": {
+      "codepoint": 57526,
+      "fontFamily": "Lineicons",
+      "identifier": "chevronDownCircle"
+    },
+    "chevron-left": {
+      "codepoint": 57527,
+      "fontFamily": "Lineicons",
+      "identifier": "chevronLeft"
+    },
+    "chevron-left-circle": {
+      "codepoint": 57528,
+      "fontFamily": "Lineicons",
+      "identifier": "chevronLeftCircle"
+    },
+    "chevron-right": {
+      "codepoint": 57529,
+      "fontFamily": "Lineicons",
+      "identifier": "chevronRight"
+    },
+    "chevron-right-circle": {
+      "codepoint": 57530,
+      "fontFamily": "Lineicons",
+      "identifier": "chevronRightCircle"
+    },
+    "chevron-up": {
+      "codepoint": 57531,
+      "fontFamily": "Lineicons",
+      "identifier": "chevronUp"
+    },
+    "chevron-up-circle": {
+      "codepoint": 57532,
+      "fontFamily": "Lineicons",
+      "identifier": "chevronUpCircle"
+    },
+    "chrome": {
+      "codepoint": 57533,
+      "fontFamily": "Lineicons",
+      "identifier": "chrome"
+    },
+    "chromecast": {
+      "codepoint": 57534,
+      "fontFamily": "Lineicons",
+      "identifier": "chromecast"
+    },
+    "circle-minus": {
+      "codepoint": 57535,
+      "fontFamily": "Lineicons",
+      "identifier": "circleMinus"
+    },
+    "circle-plus": {
+      "codepoint": 57536,
+      "fontFamily": "Lineicons",
+      "identifier": "circlePlus"
+    },
+    "cisco": {
+      "codepoint": 57537,
+      "fontFamily": "Lineicons",
+      "identifier": "cisco"
+    },
+    "claude": {
+      "codepoint": 57538,
+      "fontFamily": "Lineicons",
+      "identifier": "claude"
+    },
+    "clickup": {
+      "codepoint": 57539,
+      "fontFamily": "Lineicons",
+      "identifier": "clickup"
+    },
+    "clipboard": {
+      "codepoint": 57540,
+      "fontFamily": "Lineicons",
+      "identifier": "clipboard"
+    },
+    "close": {
+      "codepoint": 57541,
+      "fontFamily": "Lineicons",
+      "identifier": "close"
+    },
+    "cloud": {
+      "codepoint": 57542,
+      "fontFamily": "Lineicons",
+      "identifier": "cloud"
+    },
+    "cloud-2": {
+      "codepoint": 57543,
+      "fontFamily": "Lineicons",
+      "identifier": "cloud2"
+    },
+    "cloud-bolt-1": {
+      "codepoint": 57544,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudBolt1"
+    },
+    "cloud-bolt-2": {
+      "codepoint": 57545,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudBolt2"
+    },
+    "cloud-check": {
+      "codepoint": 57546,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudCheck"
+    },
+    "cloud-check-circle": {
+      "codepoint": 57547,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudCheckCircle"
+    },
+    "cloud-download": {
+      "codepoint": 57548,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudDownload"
+    },
+    "cloud-iot-2": {
+      "codepoint": 57549,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudIot2"
+    },
+    "cloud-network": {
+      "codepoint": 57550,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudNetwork"
+    },
+    "cloud-rain": {
+      "codepoint": 57551,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudRain"
+    },
+    "cloud-refresh-clockwise": {
+      "codepoint": 57552,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudRefreshClockwise"
+    },
+    "cloud-sun": {
+      "codepoint": 57553,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudSun"
+    },
+    "cloud-sync": {
+      "codepoint": 57554,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudSync"
+    },
+    "cloud-upload": {
+      "codepoint": 57555,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudUpload"
+    },
+    "cloudflare": {
+      "codepoint": 57556,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudflare"
+    },
+    "cloudy-sun": {
+      "codepoint": 57557,
+      "fontFamily": "Lineicons",
+      "identifier": "cloudySun"
+    },
+    "code": {
+      "codepoint": 57558,
+      "fontFamily": "Lineicons",
+      "identifier": "code"
+    },
+    "code-1": {
+      "codepoint": 57559,
+      "fontFamily": "Lineicons",
+      "identifier": "code1"
+    },
+    "code-alt": {
+      "codepoint": 57560,
+      "fontFamily": "Lineicons",
+      "identifier": "codeAlt"
+    },
+    "code-s": {
+      "codepoint": 57561,
+      "fontFamily": "Lineicons",
+      "identifier": "codeS"
+    },
+    "codepen": {
+      "codepoint": 57562,
+      "fontFamily": "Lineicons",
+      "identifier": "codepen"
+    },
+    "coffee-cup": {
+      "codepoint": 57563,
+      "fontFamily": "Lineicons",
+      "identifier": "coffeeCup"
+    },
+    "coffee-cup-2": {
+      "codepoint": 57564,
+      "fontFamily": "Lineicons",
+      "identifier": "coffeeCup2"
+    },
+    "cog": {
+      "codepoint": 57565,
+      "fontFamily": "Lineicons",
+      "identifier": "cog"
+    },
+    "cogs": {
+      "codepoint": 57566,
+      "fontFamily": "Lineicons",
+      "identifier": "cogs"
+    },
+    "coin": {
+      "codepoint": 57567,
+      "fontFamily": "Lineicons",
+      "identifier": "coin"
+    },
+    "coinbase": {
+      "codepoint": 57568,
+      "fontFamily": "Lineicons",
+      "identifier": "coinbase"
+    },
+    "colour-palette-3": {
+      "codepoint": 57569,
+      "fontFamily": "Lineicons",
+      "identifier": "colourPalette3"
+    },
+    "comment-1": {
+      "codepoint": 57570,
+      "fontFamily": "Lineicons",
+      "identifier": "comment1"
+    },
+    "comment-1-share": {
+      "codepoint": 57571,
+      "fontFamily": "Lineicons",
+      "identifier": "comment1Share"
+    },
+    "comment-1-text": {
+      "codepoint": 57572,
+      "fontFamily": "Lineicons",
+      "identifier": "comment1Text"
+    },
+    "comments": {
+      "codepoint": 57573,
+      "fontFamily": "Lineicons",
+      "identifier": "comments"
+    },
+    "comments-alt-2": {
+      "codepoint": 57574,
+      "fontFamily": "Lineicons",
+      "identifier": "commentsAlt2"
+    },
+    "comments-reply": {
+      "codepoint": 57575,
+      "fontFamily": "Lineicons",
+      "identifier": "commentsReply"
+    },
+    "compass": {
+      "codepoint": 57576,
+      "fontFamily": "Lineicons",
+      "identifier": "compass"
+    },
+    "compass-drafting-2": {
+      "codepoint": 57577,
+      "fontFamily": "Lineicons",
+      "identifier": "compassDrafting2"
+    },
+    "connectdevelop": {
+      "codepoint": 57578,
+      "fontFamily": "Lineicons",
+      "identifier": "connectdevelop"
+    },
+    "construction": {
+      "codepoint": 57579,
+      "fontFamily": "Lineicons",
+      "identifier": "construction"
+    },
+    "construction-hammer": {
+      "codepoint": 57580,
+      "fontFamily": "Lineicons",
+      "identifier": "constructionHammer"
+    },
+    "consulting": {
+      "codepoint": 57581,
+      "fontFamily": "Lineicons",
+      "identifier": "consulting"
+    },
+    "control-panel": {
+      "codepoint": 57582,
+      "fontFamily": "Lineicons",
+      "identifier": "controlPanel"
+    },
+    "cool": {
+      "codepoint": 57583,
+      "fontFamily": "Lineicons",
+      "identifier": "cool"
+    },
+    "copilot": {
+      "codepoint": 57584,
+      "fontFamily": "Lineicons",
+      "identifier": "copilot"
+    },
+    "coral": {
+      "codepoint": 57585,
+      "fontFamily": "Lineicons",
+      "identifier": "coral"
+    },
+    "cpanel": {
+      "codepoint": 57586,
+      "fontFamily": "Lineicons",
+      "identifier": "cpanel"
+    },
+    "crane-4": {
+      "codepoint": 57587,
+      "fontFamily": "Lineicons",
+      "identifier": "crane4"
+    },
+    "creative-commons": {
+      "codepoint": 57588,
+      "fontFamily": "Lineicons",
+      "identifier": "creativeCommons"
+    },
+    "credit-card-multiple": {
+      "codepoint": 57589,
+      "fontFamily": "Lineicons",
+      "identifier": "creditCardMultiple"
+    },
+    "credit-cards": {
+      "codepoint": 57590,
+      "fontFamily": "Lineicons",
+      "identifier": "creditCards"
+    },
+    "crop": {
+      "codepoint": 57591,
+      "fontFamily": "Lineicons",
+      "identifier": "crop"
+    },
+    "crop-2": {
+      "codepoint": 57592,
+      "fontFamily": "Lineicons",
+      "identifier": "crop2"
+    },
+    "cross-circle": {
+      "codepoint": 57593,
+      "fontFamily": "Lineicons",
+      "identifier": "crossCircle"
+    },
+    "crown": {
+      "codepoint": 57594,
+      "fontFamily": "Lineicons",
+      "identifier": "crown"
+    },
+    "crown-3": {
+      "codepoint": 57595,
+      "fontFamily": "Lineicons",
+      "identifier": "crown3"
+    },
+    "css3": {
+      "codepoint": 57596,
+      "fontFamily": "Lineicons",
+      "identifier": "css3"
+    },
+    "cup": {
+      "codepoint": 57597,
+      "fontFamily": "Lineicons",
+      "identifier": "cup"
+    },
+    "customer": {
+      "codepoint": 57598,
+      "fontFamily": "Lineicons",
+      "identifier": "customer"
+    },
+    "cut": {
+      "codepoint": 57599,
+      "fontFamily": "Lineicons",
+      "identifier": "cut"
+    },
+    "dashboard": {
+      "codepoint": 57600,
+      "fontFamily": "Lineicons",
+      "identifier": "dashboard"
+    },
+    "dashboard-square-1": {
+      "codepoint": 57601,
+      "fontFamily": "Lineicons",
+      "identifier": "dashboardSquare1"
+    },
+    "database": {
+      "codepoint": 57602,
+      "fontFamily": "Lineicons",
+      "identifier": "database"
+    },
+    "database-2": {
+      "codepoint": 57603,
+      "fontFamily": "Lineicons",
+      "identifier": "database2"
+    },
+    "delivery": {
+      "codepoint": 57604,
+      "fontFamily": "Lineicons",
+      "identifier": "delivery"
+    },
+    "deno": {
+      "codepoint": 57605,
+      "fontFamily": "Lineicons",
+      "identifier": "deno"
+    },
+    "dev": {
+      "codepoint": 57606,
+      "fontFamily": "Lineicons",
+      "identifier": "dev"
+    },
+    "dialogflow": {
+      "codepoint": 57607,
+      "fontFamily": "Lineicons",
+      "identifier": "dialogflow"
+    },
+    "diamond-alt": {
+      "codepoint": 57608,
+      "fontFamily": "Lineicons",
+      "identifier": "diamondAlt"
+    },
+    "diamond-shape": {
+      "codepoint": 57609,
+      "fontFamily": "Lineicons",
+      "identifier": "diamondShape"
+    },
+    "diamonds-1": {
+      "codepoint": 57610,
+      "fontFamily": "Lineicons",
+      "identifier": "diamonds1"
+    },
+    "diamonds-2": {
+      "codepoint": 57611,
+      "fontFamily": "Lineicons",
+      "identifier": "diamonds2"
+    },
+    "digitalocean": {
+      "codepoint": 57612,
+      "fontFamily": "Lineicons",
+      "identifier": "digitalocean"
+    },
+    "diners-club": {
+      "codepoint": 57613,
+      "fontFamily": "Lineicons",
+      "identifier": "dinersClub"
+    },
+    "dinner": {
+      "codepoint": 57614,
+      "fontFamily": "Lineicons",
+      "identifier": "dinner"
+    },
+    "direction": {
+      "codepoint": 57615,
+      "fontFamily": "Lineicons",
+      "identifier": "direction"
+    },
+    "direction-alt": {
+      "codepoint": 57616,
+      "fontFamily": "Lineicons",
+      "identifier": "directionAlt"
+    },
+    "direction-ltr": {
+      "codepoint": 57617,
+      "fontFamily": "Lineicons",
+      "identifier": "directionLtr"
+    },
+    "direction-rtl": {
+      "codepoint": 57618,
+      "fontFamily": "Lineicons",
+      "identifier": "directionRtl"
+    },
+    "discord": {
+      "codepoint": 57619,
+      "fontFamily": "Lineicons",
+      "identifier": "discord"
+    },
+    "discord-alt": {
+      "codepoint": 57620,
+      "fontFamily": "Lineicons",
+      "identifier": "discordAlt"
+    },
+    "discord-chat": {
+      "codepoint": 57621,
+      "fontFamily": "Lineicons",
+      "identifier": "discordChat"
+    },
+    "discover": {
+      "codepoint": 57622,
+      "fontFamily": "Lineicons",
+      "identifier": "discover"
+    },
+    "display": {
+      "codepoint": 57623,
+      "fontFamily": "Lineicons",
+      "identifier": "display"
+    },
+    "display-alt": {
+      "codepoint": 57624,
+      "fontFamily": "Lineicons",
+      "identifier": "displayAlt"
+    },
+    "docker": {
+      "codepoint": 57625,
+      "fontFamily": "Lineicons",
+      "identifier": "docker"
+    },
+    "dollar": {
+      "codepoint": 57626,
+      "fontFamily": "Lineicons",
+      "identifier": "dollar"
+    },
+    "dollar-circle": {
+      "codepoint": 57627,
+      "fontFamily": "Lineicons",
+      "identifier": "dollarCircle"
+    },
+    "domain": {
+      "codepoint": 57628,
+      "fontFamily": "Lineicons",
+      "identifier": "domain"
+    },
+    "double-quotes-end-1": {
+      "codepoint": 57629,
+      "fontFamily": "Lineicons",
+      "identifier": "doubleQuotesEnd1"
+    },
+    "download": {
+      "codepoint": 57630,
+      "fontFamily": "Lineicons",
+      "identifier": "download"
+    },
+    "download-1": {
+      "codepoint": 57631,
+      "fontFamily": "Lineicons",
+      "identifier": "download1"
+    },
+    "download-circle-1": {
+      "codepoint": 57632,
+      "fontFamily": "Lineicons",
+      "identifier": "downloadCircle1"
+    },
+    "dribbble": {
+      "codepoint": 57633,
+      "fontFamily": "Lineicons",
+      "identifier": "dribbble"
+    },
+    "dribbble-symbol": {
+      "codepoint": 57634,
+      "fontFamily": "Lineicons",
+      "identifier": "dribbbleSymbol"
+    },
+    "drizzle": {
+      "codepoint": 57635,
+      "fontFamily": "Lineicons",
+      "identifier": "drizzle"
+    },
+    "drop": {
+      "codepoint": 57636,
+      "fontFamily": "Lineicons",
+      "identifier": "drop"
+    },
+    "dropbox": {
+      "codepoint": 57637,
+      "fontFamily": "Lineicons",
+      "identifier": "dropbox"
+    },
+    "dropbox-original": {
+      "codepoint": 57638,
+      "fontFamily": "Lineicons",
+      "identifier": "dropboxOriginal"
+    },
+    "drupal": {
+      "codepoint": 57639,
+      "fontFamily": "Lineicons",
+      "identifier": "drupal"
+    },
+    "drupal-original": {
+      "codepoint": 57640,
+      "fontFamily": "Lineicons",
+      "identifier": "drupalOriginal"
+    },
+    "dumbbell": {
+      "codepoint": 57641,
+      "fontFamily": "Lineicons",
+      "identifier": "dumbbell"
+    },
+    "dumbbell-1": {
+      "codepoint": 57642,
+      "fontFamily": "Lineicons",
+      "identifier": "dumbbell1"
+    },
+    "edge": {
+      "codepoint": 57643,
+      "fontFamily": "Lineicons",
+      "identifier": "edge"
+    },
+    "emoji-expressionless": {
+      "codepoint": 57644,
+      "fontFamily": "Lineicons",
+      "identifier": "emojiExpressionless"
+    },
+    "emoji-expressionless-flat-eyes": {
+      "codepoint": 57645,
+      "fontFamily": "Lineicons",
+      "identifier": "emojiExpressionlessFlatEyes"
+    },
+    "emoji-grin": {
+      "codepoint": 57646,
+      "fontFamily": "Lineicons",
+      "identifier": "emojiGrin"
+    },
+    "emoji-sad": {
+      "codepoint": 57647,
+      "fontFamily": "Lineicons",
+      "identifier": "emojiSad"
+    },
+    "emoji-smile": {
+      "codepoint": 57648,
+      "fontFamily": "Lineicons",
+      "identifier": "emojiSmile"
+    },
+    "emoji-smile-side": {
+      "codepoint": 57649,
+      "fontFamily": "Lineicons",
+      "identifier": "emojiSmileSide"
+    },
+    "emoji-smile-sunglass": {
+      "codepoint": 57650,
+      "fontFamily": "Lineicons",
+      "identifier": "emojiSmileSunglass"
+    },
+    "emoji-smile-tongue": {
+      "codepoint": 57651,
+      "fontFamily": "Lineicons",
+      "identifier": "emojiSmileTongue"
+    },
+    "empty-file": {
+      "codepoint": 57652,
+      "fontFamily": "Lineicons",
+      "identifier": "emptyFile"
+    },
+    "enter": {
+      "codepoint": 57653,
+      "fontFamily": "Lineicons",
+      "identifier": "enter"
+    },
+    "enter-down": {
+      "codepoint": 57654,
+      "fontFamily": "Lineicons",
+      "identifier": "enterDown"
+    },
+    "envato": {
+      "codepoint": 57655,
+      "fontFamily": "Lineicons",
+      "identifier": "envato"
+    },
+    "envelope": {
+      "codepoint": 57656,
+      "fontFamily": "Lineicons",
+      "identifier": "envelope"
+    },
+    "envelope-1": {
+      "codepoint": 57657,
+      "fontFamily": "Lineicons",
+      "identifier": "envelope1"
+    },
+    "eraser": {
+      "codepoint": 57658,
+      "fontFamily": "Lineicons",
+      "identifier": "eraser"
+    },
+    "eraser-1": {
+      "codepoint": 57659,
+      "fontFamily": "Lineicons",
+      "identifier": "eraser1"
+    },
+    "ethereum": {
+      "codepoint": 57660,
+      "fontFamily": "Lineicons",
+      "identifier": "ethereum"
+    },
+    "ethereum-logo": {
+      "codepoint": 57661,
+      "fontFamily": "Lineicons",
+      "identifier": "ethereumLogo"
+    },
+    "euro": {
+      "codepoint": 57662,
+      "fontFamily": "Lineicons",
+      "identifier": "euro"
+    },
+    "exit": {
+      "codepoint": 57663,
+      "fontFamily": "Lineicons",
+      "identifier": "exit"
+    },
+    "exit-down": {
+      "codepoint": 57664,
+      "fontFamily": "Lineicons",
+      "identifier": "exitDown"
+    },
+    "exit-up": {
+      "codepoint": 57665,
+      "fontFamily": "Lineicons",
+      "identifier": "exitUp"
+    },
+    "expand-arrow-1": {
+      "codepoint": 57666,
+      "fontFamily": "Lineicons",
+      "identifier": "expandArrow1"
+    },
+    "expand-square-4": {
+      "codepoint": 57667,
+      "fontFamily": "Lineicons",
+      "identifier": "expandSquare4"
+    },
+    "expressjs": {
+      "codepoint": 57668,
+      "fontFamily": "Lineicons",
+      "identifier": "expressjs"
+    },
+    "eye": {
+      "codepoint": 57669,
+      "fontFamily": "Lineicons",
+      "identifier": "eye"
+    },
+    "facebook": {
+      "codepoint": 57670,
+      "fontFamily": "Lineicons",
+      "identifier": "facebook"
+    },
+    "facebook-fill": {
+      "codepoint": 57671,
+      "fontFamily": "Lineicons",
+      "identifier": "facebookFill"
+    },
+    "facebook-line": {
+      "codepoint": 57672,
+      "fontFamily": "Lineicons",
+      "identifier": "facebookLine"
+    },
+    "facebook-messenger": {
+      "codepoint": 57673,
+      "fontFamily": "Lineicons",
+      "identifier": "facebookMessenger"
+    },
+    "facebook-original": {
+      "codepoint": 57674,
+      "fontFamily": "Lineicons",
+      "identifier": "facebookOriginal"
+    },
+    "facebook-oval": {
+      "codepoint": 57675,
+      "fontFamily": "Lineicons",
+      "identifier": "facebookOval"
+    },
+    "facebook-rounded": {
+      "codepoint": 57676,
+      "fontFamily": "Lineicons",
+      "identifier": "facebookRounded"
+    },
+    "facebook-square": {
+      "codepoint": 57677,
+      "fontFamily": "Lineicons",
+      "identifier": "facebookSquare"
+    },
+    "facetime": {
+      "codepoint": 57678,
+      "fontFamily": "Lineicons",
+      "identifier": "facetime"
+    },
+    "figma": {
+      "codepoint": 57679,
+      "fontFamily": "Lineicons",
+      "identifier": "figma"
+    },
+    "file-format-zip": {
+      "codepoint": 57680,
+      "fontFamily": "Lineicons",
+      "identifier": "fileFormatZip"
+    },
+    "file-multiple": {
+      "codepoint": 57681,
+      "fontFamily": "Lineicons",
+      "identifier": "fileMultiple"
+    },
+    "file-pencil": {
+      "codepoint": 57682,
+      "fontFamily": "Lineicons",
+      "identifier": "filePencil"
+    },
+    "file-plus-circle": {
+      "codepoint": 57683,
+      "fontFamily": "Lineicons",
+      "identifier": "filePlusCircle"
+    },
+    "file-question": {
+      "codepoint": 57684,
+      "fontFamily": "Lineicons",
+      "identifier": "fileQuestion"
+    },
+    "file-xmark": {
+      "codepoint": 57685,
+      "fontFamily": "Lineicons",
+      "identifier": "fileXmark"
+    },
+    "files": {
+      "codepoint": 57686,
+      "fontFamily": "Lineicons",
+      "identifier": "files"
+    },
+    "firebase": {
+      "codepoint": 57687,
+      "fontFamily": "Lineicons",
+      "identifier": "firebase"
+    },
+    "firefox": {
+      "codepoint": 57688,
+      "fontFamily": "Lineicons",
+      "identifier": "firefox"
+    },
+    "firefox-original": {
+      "codepoint": 57689,
+      "fontFamily": "Lineicons",
+      "identifier": "firefoxOriginal"
+    },
+    "firework-rocket-4": {
+      "codepoint": 57690,
+      "fontFamily": "Lineicons",
+      "identifier": "fireworkRocket4"
+    },
+    "fireworks": {
+      "codepoint": 57691,
+      "fontFamily": "Lineicons",
+      "identifier": "fireworks"
+    },
+    "first-aid": {
+      "codepoint": 57692,
+      "fontFamily": "Lineicons",
+      "identifier": "firstAid"
+    },
+    "fitbit": {
+      "codepoint": 57693,
+      "fontFamily": "Lineicons",
+      "identifier": "fitbit"
+    },
+    "flag": {
+      "codepoint": 57694,
+      "fontFamily": "Lineicons",
+      "identifier": "flag"
+    },
+    "flag-1": {
+      "codepoint": 57695,
+      "fontFamily": "Lineicons",
+      "identifier": "flag1"
+    },
+    "flag-2": {
+      "codepoint": 57696,
+      "fontFamily": "Lineicons",
+      "identifier": "flag2"
+    },
+    "flag-alt": {
+      "codepoint": 57697,
+      "fontFamily": "Lineicons",
+      "identifier": "flagAlt"
+    },
+    "flags-alt-1": {
+      "codepoint": 57698,
+      "fontFamily": "Lineicons",
+      "identifier": "flagsAlt1"
+    },
+    "flickr": {
+      "codepoint": 57699,
+      "fontFamily": "Lineicons",
+      "identifier": "flickr"
+    },
+    "floppy-disk-1": {
+      "codepoint": 57700,
+      "fontFamily": "Lineicons",
+      "identifier": "floppyDisk1"
+    },
+    "flower": {
+      "codepoint": 57701,
+      "fontFamily": "Lineicons",
+      "identifier": "flower"
+    },
+    "flower-2": {
+      "codepoint": 57702,
+      "fontFamily": "Lineicons",
+      "identifier": "flower2"
+    },
+    "flutter": {
+      "codepoint": 57703,
+      "fontFamily": "Lineicons",
+      "identifier": "flutter"
+    },
+    "folder": {
+      "codepoint": 57704,
+      "fontFamily": "Lineicons",
+      "identifier": "folder"
+    },
+    "folder-1": {
+      "codepoint": 57705,
+      "fontFamily": "Lineicons",
+      "identifier": "folder1"
+    },
+    "ford": {
+      "codepoint": 57706,
+      "fontFamily": "Lineicons",
+      "identifier": "ford"
+    },
+    "forward": {
+      "codepoint": 57707,
+      "fontFamily": "Lineicons",
+      "identifier": "forward"
+    },
+    "frame-expand": {
+      "codepoint": 57708,
+      "fontFamily": "Lineicons",
+      "identifier": "frameExpand"
+    },
+    "framer": {
+      "codepoint": 57709,
+      "fontFamily": "Lineicons",
+      "identifier": "framer"
+    },
+    "fresh-juice": {
+      "codepoint": 57710,
+      "fontFamily": "Lineicons",
+      "identifier": "freshJuice"
+    },
+    "friendly": {
+      "codepoint": 57711,
+      "fontFamily": "Lineicons",
+      "identifier": "friendly"
+    },
+    "full-screen": {
+      "codepoint": 57712,
+      "fontFamily": "Lineicons",
+      "identifier": "fullScreen"
+    },
+    "funnel": {
+      "codepoint": 57713,
+      "fontFamily": "Lineicons",
+      "identifier": "funnel"
+    },
+    "funnel-1": {
+      "codepoint": 57714,
+      "fontFamily": "Lineicons",
+      "identifier": "funnel1"
+    },
+    "gallery": {
+      "codepoint": 57715,
+      "fontFamily": "Lineicons",
+      "identifier": "gallery"
+    },
+    "game": {
+      "codepoint": 57716,
+      "fontFamily": "Lineicons",
+      "identifier": "game"
+    },
+    "game-pad-modern-1": {
+      "codepoint": 57717,
+      "fontFamily": "Lineicons",
+      "identifier": "gamePadModern1"
+    },
+    "gatsby": {
+      "codepoint": 57718,
+      "fontFamily": "Lineicons",
+      "identifier": "gatsby"
+    },
+    "gauge-1": {
+      "codepoint": 57719,
+      "fontFamily": "Lineicons",
+      "identifier": "gauge1"
+    },
+    "gear-1": {
+      "codepoint": 57720,
+      "fontFamily": "Lineicons",
+      "identifier": "gear1"
+    },
+    "gears-3": {
+      "codepoint": 57721,
+      "fontFamily": "Lineicons",
+      "identifier": "gears3"
+    },
+    "gemini": {
+      "codepoint": 57722,
+      "fontFamily": "Lineicons",
+      "identifier": "gemini"
+    },
+    "gift": {
+      "codepoint": 57723,
+      "fontFamily": "Lineicons",
+      "identifier": "gift"
+    },
+    "git": {
+      "codepoint": 57724,
+      "fontFamily": "Lineicons",
+      "identifier": "git"
+    },
+    "github": {
+      "codepoint": 57725,
+      "fontFamily": "Lineicons",
+      "identifier": "github"
+    },
+    "github-original": {
+      "codepoint": 57726,
+      "fontFamily": "Lineicons",
+      "identifier": "githubOriginal"
+    },
+    "glass-juice-1": {
+      "codepoint": 57727,
+      "fontFamily": "Lineicons",
+      "identifier": "glassJuice1"
+    },
+    "globe-1": {
+      "codepoint": 57728,
+      "fontFamily": "Lineicons",
+      "identifier": "globe1"
+    },
+    "globe-stand": {
+      "codepoint": 57729,
+      "fontFamily": "Lineicons",
+      "identifier": "globeStand"
+    },
+    "go": {
+      "codepoint": 57730,
+      "fontFamily": "Lineicons",
+      "identifier": "go"
+    },
+    "goodreads": {
+      "codepoint": 57731,
+      "fontFamily": "Lineicons",
+      "identifier": "goodreads"
+    },
+    "google": {
+      "codepoint": 57732,
+      "fontFamily": "Lineicons",
+      "identifier": "google"
+    },
+    "google-cloud": {
+      "codepoint": 57733,
+      "fontFamily": "Lineicons",
+      "identifier": "googleCloud"
+    },
+    "google-drive": {
+      "codepoint": 57734,
+      "fontFamily": "Lineicons",
+      "identifier": "googleDrive"
+    },
+    "google-meet": {
+      "codepoint": 57735,
+      "fontFamily": "Lineicons",
+      "identifier": "googleMeet"
+    },
+    "google-pay": {
+      "codepoint": 57736,
+      "fontFamily": "Lineicons",
+      "identifier": "googlePay"
+    },
+    "google-wallet": {
+      "codepoint": 57737,
+      "fontFamily": "Lineicons",
+      "identifier": "googleWallet"
+    },
+    "graduation": {
+      "codepoint": 57738,
+      "fontFamily": "Lineicons",
+      "identifier": "graduation"
+    },
+    "graduation-cap-1": {
+      "codepoint": 57739,
+      "fontFamily": "Lineicons",
+      "identifier": "graduationCap1"
+    },
+    "grammarly": {
+      "codepoint": 57740,
+      "fontFamily": "Lineicons",
+      "identifier": "grammarly"
+    },
+    "graph": {
+      "codepoint": 57741,
+      "fontFamily": "Lineicons",
+      "identifier": "graph"
+    },
+    "grid": {
+      "codepoint": 57742,
+      "fontFamily": "Lineicons",
+      "identifier": "grid"
+    },
+    "grid-alt": {
+      "codepoint": 57743,
+      "fontFamily": "Lineicons",
+      "identifier": "gridAlt"
+    },
+    "grow": {
+      "codepoint": 57744,
+      "fontFamily": "Lineicons",
+      "identifier": "grow"
+    },
+    "hacker-news": {
+      "codepoint": 57745,
+      "fontFamily": "Lineicons",
+      "identifier": "hackerNews"
+    },
+    "hammer": {
+      "codepoint": 57746,
+      "fontFamily": "Lineicons",
+      "identifier": "hammer"
+    },
+    "hammer-1": {
+      "codepoint": 57747,
+      "fontFamily": "Lineicons",
+      "identifier": "hammer1"
+    },
+    "hammer-2": {
+      "codepoint": 57748,
+      "fontFamily": "Lineicons",
+      "identifier": "hammer2"
+    },
+    "hand": {
+      "codepoint": 57749,
+      "fontFamily": "Lineicons",
+      "identifier": "hand"
+    },
+    "hand-mic": {
+      "codepoint": 57750,
+      "fontFamily": "Lineicons",
+      "identifier": "handMic"
+    },
+    "hand-shake": {
+      "codepoint": 57751,
+      "fontFamily": "Lineicons",
+      "identifier": "handShake"
+    },
+    "hand-stop": {
+      "codepoint": 57752,
+      "fontFamily": "Lineicons",
+      "identifier": "handStop"
+    },
+    "hand-taking-dollar": {
+      "codepoint": 57753,
+      "fontFamily": "Lineicons",
+      "identifier": "handTakingDollar"
+    },
+    "hand-taking-leaf-1": {
+      "codepoint": 57754,
+      "fontFamily": "Lineicons",
+      "identifier": "handTakingLeaf1"
+    },
+    "hand-taking-user": {
+      "codepoint": 57755,
+      "fontFamily": "Lineicons",
+      "identifier": "handTakingUser"
+    },
+    "handshake": {
+      "codepoint": 57756,
+      "fontFamily": "Lineicons",
+      "identifier": "handshake"
+    },
+    "happy": {
+      "codepoint": 57757,
+      "fontFamily": "Lineicons",
+      "identifier": "happy"
+    },
+    "harddrive": {
+      "codepoint": 57758,
+      "fontFamily": "Lineicons",
+      "identifier": "harddrive"
+    },
+    "hashnode": {
+      "codepoint": 57759,
+      "fontFamily": "Lineicons",
+      "identifier": "hashnode"
+    },
+    "hat-chef-3": {
+      "codepoint": 57760,
+      "fontFamily": "Lineicons",
+      "identifier": "hatChef3"
+    },
+    "headphone": {
+      "codepoint": 57761,
+      "fontFamily": "Lineicons",
+      "identifier": "headphone"
+    },
+    "headphone-1": {
+      "codepoint": 57762,
+      "fontFamily": "Lineicons",
+      "identifier": "headphone1"
+    },
+    "heart": {
+      "codepoint": 57763,
+      "fontFamily": "Lineicons",
+      "identifier": "heart"
+    },
+    "heart-fill": {
+      "codepoint": 57764,
+      "fontFamily": "Lineicons",
+      "identifier": "heartFill"
+    },
+    "heart-monitor": {
+      "codepoint": 57765,
+      "fontFamily": "Lineicons",
+      "identifier": "heartMonitor"
+    },
+    "helicopter": {
+      "codepoint": 57766,
+      "fontFamily": "Lineicons",
+      "identifier": "helicopter"
+    },
+    "helicopter-2": {
+      "codepoint": 57767,
+      "fontFamily": "Lineicons",
+      "identifier": "helicopter2"
+    },
+    "helmet": {
+      "codepoint": 57768,
+      "fontFamily": "Lineicons",
+      "identifier": "helmet"
+    },
+    "helmet-safety-1": {
+      "codepoint": 57769,
+      "fontFamily": "Lineicons",
+      "identifier": "helmetSafety1"
+    },
+    "help": {
+      "codepoint": 57770,
+      "fontFamily": "Lineicons",
+      "identifier": "help"
+    },
+    "hierarchy-1": {
+      "codepoint": 57771,
+      "fontFamily": "Lineicons",
+      "identifier": "hierarchy1"
+    },
+    "highlight": {
+      "codepoint": 57772,
+      "fontFamily": "Lineicons",
+      "identifier": "highlight"
+    },
+    "highlight-alt": {
+      "codepoint": 57773,
+      "fontFamily": "Lineicons",
+      "identifier": "highlightAlt"
+    },
+    "highlighter-1": {
+      "codepoint": 57774,
+      "fontFamily": "Lineicons",
+      "identifier": "highlighter1"
+    },
+    "highlighter-2": {
+      "codepoint": 57775,
+      "fontFamily": "Lineicons",
+      "identifier": "highlighter2"
+    },
+    "home": {
+      "codepoint": 57776,
+      "fontFamily": "Lineicons",
+      "identifier": "home"
+    },
+    "home-2": {
+      "codepoint": 57777,
+      "fontFamily": "Lineicons",
+      "identifier": "home2"
+    },
+    "hospital": {
+      "codepoint": 57778,
+      "fontFamily": "Lineicons",
+      "identifier": "hospital"
+    },
+    "hospital-2": {
+      "codepoint": 57779,
+      "fontFamily": "Lineicons",
+      "identifier": "hospital2"
+    },
+    "hourglass": {
+      "codepoint": 57780,
+      "fontFamily": "Lineicons",
+      "identifier": "hourglass"
+    },
+    "html5": {
+      "codepoint": 57781,
+      "fontFamily": "Lineicons",
+      "identifier": "html5"
+    },
+    "ibm": {
+      "codepoint": 57782,
+      "fontFamily": "Lineicons",
+      "identifier": "ibm"
+    },
+    "id-card": {
+      "codepoint": 57783,
+      "fontFamily": "Lineicons",
+      "identifier": "idCard"
+    },
+    "image": {
+      "codepoint": 57784,
+      "fontFamily": "Lineicons",
+      "identifier": "image"
+    },
+    "imdb": {
+      "codepoint": 57785,
+      "fontFamily": "Lineicons",
+      "identifier": "imdb"
+    },
+    "inbox": {
+      "codepoint": 57786,
+      "fontFamily": "Lineicons",
+      "identifier": "inbox"
+    },
+    "indent": {
+      "codepoint": 57787,
+      "fontFamily": "Lineicons",
+      "identifier": "indent"
+    },
+    "indent-decrease": {
+      "codepoint": 57788,
+      "fontFamily": "Lineicons",
+      "identifier": "indentDecrease"
+    },
+    "indent-increase": {
+      "codepoint": 57789,
+      "fontFamily": "Lineicons",
+      "identifier": "indentIncrease"
+    },
+    "infinite": {
+      "codepoint": 57790,
+      "fontFamily": "Lineicons",
+      "identifier": "infinite"
+    },
+    "info": {
+      "codepoint": 57791,
+      "fontFamily": "Lineicons",
+      "identifier": "info"
+    },
+    "information": {
+      "codepoint": 57792,
+      "fontFamily": "Lineicons",
+      "identifier": "information"
+    },
+    "injection-1": {
+      "codepoint": 57793,
+      "fontFamily": "Lineicons",
+      "identifier": "injection1"
+    },
+    "instagram": {
+      "codepoint": 57794,
+      "fontFamily": "Lineicons",
+      "identifier": "instagram"
+    },
+    "instagram-fill": {
+      "codepoint": 57795,
+      "fontFamily": "Lineicons",
+      "identifier": "instagramFill"
+    },
+    "instagram-logotype": {
+      "codepoint": 57796,
+      "fontFamily": "Lineicons",
+      "identifier": "instagramLogotype"
+    },
+    "instagram-original": {
+      "codepoint": 57797,
+      "fontFamily": "Lineicons",
+      "identifier": "instagramOriginal"
+    },
+    "intel": {
+      "codepoint": 57798,
+      "fontFamily": "Lineicons",
+      "identifier": "intel"
+    },
+    "invention": {
+      "codepoint": 57799,
+      "fontFamily": "Lineicons",
+      "identifier": "invention"
+    },
+    "invest-monitor": {
+      "codepoint": 57800,
+      "fontFamily": "Lineicons",
+      "identifier": "investMonitor"
+    },
+    "investment": {
+      "codepoint": 57801,
+      "fontFamily": "Lineicons",
+      "identifier": "investment"
+    },
+    "ios": {
+      "codepoint": 57802,
+      "fontFamily": "Lineicons",
+      "identifier": "ios"
+    },
+    "island": {
+      "codepoint": 57803,
+      "fontFamily": "Lineicons",
+      "identifier": "island"
+    },
+    "island-2": {
+      "codepoint": 57804,
+      "fontFamily": "Lineicons",
+      "identifier": "island2"
+    },
+    "italic": {
+      "codepoint": 57805,
+      "fontFamily": "Lineicons",
+      "identifier": "italic"
+    },
+    "jaguar": {
+      "codepoint": 57806,
+      "fontFamily": "Lineicons",
+      "identifier": "jaguar"
+    },
+    "jamstack": {
+      "codepoint": 57807,
+      "fontFamily": "Lineicons",
+      "identifier": "jamstack"
+    },
+    "java": {
+      "codepoint": 57808,
+      "fontFamily": "Lineicons",
+      "identifier": "java"
+    },
+    "javascript": {
+      "codepoint": 57809,
+      "fontFamily": "Lineicons",
+      "identifier": "javascript"
+    },
+    "jcb": {
+      "codepoint": 57810,
+      "fontFamily": "Lineicons",
+      "identifier": "jcb"
+    },
+    "joomla": {
+      "codepoint": 57811,
+      "fontFamily": "Lineicons",
+      "identifier": "joomla"
+    },
+    "joomla-original": {
+      "codepoint": 57812,
+      "fontFamily": "Lineicons",
+      "identifier": "joomlaOriginal"
+    },
+    "jsfiddle": {
+      "codepoint": 57813,
+      "fontFamily": "Lineicons",
+      "identifier": "jsfiddle"
+    },
+    "juice": {
+      "codepoint": 57814,
+      "fontFamily": "Lineicons",
+      "identifier": "juice"
+    },
+    "key": {
+      "codepoint": 57815,
+      "fontFamily": "Lineicons",
+      "identifier": "key"
+    },
+    "key-1": {
+      "codepoint": 57816,
+      "fontFamily": "Lineicons",
+      "identifier": "key1"
+    },
+    "keyboard": {
+      "codepoint": 57817,
+      "fontFamily": "Lineicons",
+      "identifier": "keyboard"
+    },
+    "keyword-research": {
+      "codepoint": 57818,
+      "fontFamily": "Lineicons",
+      "identifier": "keywordResearch"
+    },
+    "knife-fork-1": {
+      "codepoint": 57819,
+      "fontFamily": "Lineicons",
+      "identifier": "knifeFork1"
+    },
+    "kubernetes": {
+      "codepoint": 57820,
+      "fontFamily": "Lineicons",
+      "identifier": "kubernetes"
+    },
+    "label-dollar-2": {
+      "codepoint": 57821,
+      "fontFamily": "Lineicons",
+      "identifier": "labelDollar2"
+    },
+    "laptop": {
+      "codepoint": 57822,
+      "fontFamily": "Lineicons",
+      "identifier": "laptop"
+    },
+    "laptop-2": {
+      "codepoint": 57823,
+      "fontFamily": "Lineicons",
+      "identifier": "laptop2"
+    },
+    "laptop-phone": {
+      "codepoint": 57824,
+      "fontFamily": "Lineicons",
+      "identifier": "laptopPhone"
+    },
+    "laravel": {
+      "codepoint": 57825,
+      "fontFamily": "Lineicons",
+      "identifier": "laravel"
+    },
+    "layers": {
+      "codepoint": 57826,
+      "fontFamily": "Lineicons",
+      "identifier": "layers"
+    },
+    "layers-1": {
+      "codepoint": 57827,
+      "fontFamily": "Lineicons",
+      "identifier": "layers1"
+    },
+    "layout": {
+      "codepoint": 57828,
+      "fontFamily": "Lineicons",
+      "identifier": "layout"
+    },
+    "layout-26": {
+      "codepoint": 57829,
+      "fontFamily": "Lineicons",
+      "identifier": "layout26"
+    },
+    "layout-9": {
+      "codepoint": 57830,
+      "fontFamily": "Lineicons",
+      "identifier": "layout9"
+    },
+    "leaf": {
+      "codepoint": 57831,
+      "fontFamily": "Lineicons",
+      "identifier": "leaf"
+    },
+    "leaf-1": {
+      "codepoint": 57832,
+      "fontFamily": "Lineicons",
+      "identifier": "leaf1"
+    },
+    "leaf-6": {
+      "codepoint": 57833,
+      "fontFamily": "Lineicons",
+      "identifier": "leaf6"
+    },
+    "lemon-squeezy": {
+      "codepoint": 57834,
+      "fontFamily": "Lineicons",
+      "identifier": "lemonSqueezy"
+    },
+    "library": {
+      "codepoint": 57835,
+      "fontFamily": "Lineicons",
+      "identifier": "library_"
+    },
+    "license": {
+      "codepoint": 57836,
+      "fontFamily": "Lineicons",
+      "identifier": "license"
+    },
+    "life-guard-tube-1": {
+      "codepoint": 57837,
+      "fontFamily": "Lineicons",
+      "identifier": "lifeGuardTube1"
+    },
+    "lifering": {
+      "codepoint": 57838,
+      "fontFamily": "Lineicons",
+      "identifier": "lifering"
+    },
+    "line": {
+      "codepoint": 57839,
+      "fontFamily": "Lineicons",
+      "identifier": "line"
+    },
+    "line-dashed": {
+      "codepoint": 57840,
+      "fontFamily": "Lineicons",
+      "identifier": "lineDashed"
+    },
+    "line-dotted": {
+      "codepoint": 57841,
+      "fontFamily": "Lineicons",
+      "identifier": "lineDotted"
+    },
+    "line-double": {
+      "codepoint": 57842,
+      "fontFamily": "Lineicons",
+      "identifier": "lineDouble"
+    },
+    "line-height": {
+      "codepoint": 57843,
+      "fontFamily": "Lineicons",
+      "identifier": "lineHeight"
+    },
+    "line-spacing": {
+      "codepoint": 57844,
+      "fontFamily": "Lineicons",
+      "identifier": "lineSpacing"
+    },
+    "lineicons": {
+      "codepoint": 57845,
+      "fontFamily": "Lineicons",
+      "identifier": "lineicons"
+    },
+    "lineicons-alt": {
+      "codepoint": 57846,
+      "fontFamily": "Lineicons",
+      "identifier": "lineiconsAlt"
+    },
+    "lineicons-symbol": {
+      "codepoint": 57847,
+      "fontFamily": "Lineicons",
+      "identifier": "lineiconsSymbol"
+    },
+    "lineicons-symbol-alt": {
+      "codepoint": 57848,
+      "fontFamily": "Lineicons",
+      "identifier": "lineiconsSymbolAlt"
+    },
+    "lineicons-symbol-alt-2": {
+      "codepoint": 57849,
+      "fontFamily": "Lineicons",
+      "identifier": "lineiconsSymbolAlt2"
+    },
+    "link": {
+      "codepoint": 57850,
+      "fontFamily": "Lineicons",
+      "identifier": "link"
+    },
+    "link-2-angular-right": {
+      "codepoint": 57851,
+      "fontFamily": "Lineicons",
+      "identifier": "link2AngularRight"
+    },
+    "linkedin": {
+      "codepoint": 57852,
+      "fontFamily": "Lineicons",
+      "identifier": "linkedin"
+    },
+    "linkedin-original": {
+      "codepoint": 57853,
+      "fontFamily": "Lineicons",
+      "identifier": "linkedinOriginal"
+    },
+    "list": {
+      "codepoint": 57854,
+      "fontFamily": "Lineicons",
+      "identifier": "list"
+    },
+    "location-arrow-right": {
+      "codepoint": 57855,
+      "fontFamily": "Lineicons",
+      "identifier": "locationArrowRight"
+    },
+    "lock": {
+      "codepoint": 57856,
+      "fontFamily": "Lineicons",
+      "identifier": "lock"
+    },
+    "lock-alt": {
+      "codepoint": 57857,
+      "fontFamily": "Lineicons",
+      "identifier": "lockAlt"
+    },
+    "locked-1": {
+      "codepoint": 57858,
+      "fontFamily": "Lineicons",
+      "identifier": "locked1"
+    },
+    "locked-2": {
+      "codepoint": 57859,
+      "fontFamily": "Lineicons",
+      "identifier": "locked2"
+    },
+    "loom": {
+      "codepoint": 57860,
+      "fontFamily": "Lineicons",
+      "identifier": "loom"
+    },
+    "magento": {
+      "codepoint": 57861,
+      "fontFamily": "Lineicons",
+      "identifier": "magento"
+    },
+    "magnet": {
+      "codepoint": 57862,
+      "fontFamily": "Lineicons",
+      "identifier": "magnet"
+    },
+    "magnifier": {
+      "codepoint": 57863,
+      "fontFamily": "Lineicons",
+      "identifier": "magnifier"
+    },
+    "mailchimp": {
+      "codepoint": 57864,
+      "fontFamily": "Lineicons",
+      "identifier": "mailchimp"
+    },
+    "map": {
+      "codepoint": 57865,
+      "fontFamily": "Lineicons",
+      "identifier": "map"
+    },
+    "map-marker": {
+      "codepoint": 57866,
+      "fontFamily": "Lineicons",
+      "identifier": "mapMarker"
+    },
+    "map-marker-1": {
+      "codepoint": 57867,
+      "fontFamily": "Lineicons",
+      "identifier": "mapMarker1"
+    },
+    "map-marker-5": {
+      "codepoint": 57868,
+      "fontFamily": "Lineicons",
+      "identifier": "mapMarker5"
+    },
+    "map-pin-5": {
+      "codepoint": 57869,
+      "fontFamily": "Lineicons",
+      "identifier": "mapPin5"
+    },
+    "markdown": {
+      "codepoint": 57870,
+      "fontFamily": "Lineicons",
+      "identifier": "markdown"
+    },
+    "mashroom": {
+      "codepoint": 57871,
+      "fontFamily": "Lineicons",
+      "identifier": "mashroom"
+    },
+    "mastercard": {
+      "codepoint": 57872,
+      "fontFamily": "Lineicons",
+      "identifier": "mastercard"
+    },
+    "medium": {
+      "codepoint": 57873,
+      "fontFamily": "Lineicons",
+      "identifier": "medium"
+    },
+    "medium-alt": {
+      "codepoint": 57874,
+      "fontFamily": "Lineicons",
+      "identifier": "mediumAlt"
+    },
+    "megaphone-1": {
+      "codepoint": 57875,
+      "fontFamily": "Lineicons",
+      "identifier": "megaphone1"
+    },
+    "menu": {
+      "codepoint": 57876,
+      "fontFamily": "Lineicons",
+      "identifier": "menu"
+    },
+    "menu-cheesburger": {
+      "codepoint": 57877,
+      "fontFamily": "Lineicons",
+      "identifier": "menuCheesburger"
+    },
+    "menu-hamburger-1": {
+      "codepoint": 57878,
+      "fontFamily": "Lineicons",
+      "identifier": "menuHamburger1"
+    },
+    "menu-meatballs-1": {
+      "codepoint": 57879,
+      "fontFamily": "Lineicons",
+      "identifier": "menuMeatballs1"
+    },
+    "menu-meatballs-2": {
+      "codepoint": 57880,
+      "fontFamily": "Lineicons",
+      "identifier": "menuMeatballs2"
+    },
+    "mercedes": {
+      "codepoint": 57881,
+      "fontFamily": "Lineicons",
+      "identifier": "mercedes"
+    },
+    "message-2": {
+      "codepoint": 57882,
+      "fontFamily": "Lineicons",
+      "identifier": "message2"
+    },
+    "message-2-question": {
+      "codepoint": 57883,
+      "fontFamily": "Lineicons",
+      "identifier": "message2Question"
+    },
+    "message-3-text": {
+      "codepoint": 57884,
+      "fontFamily": "Lineicons",
+      "identifier": "message3Text"
+    },
+    "meta": {
+      "codepoint": 57885,
+      "fontFamily": "Lineicons",
+      "identifier": "meta"
+    },
+    "meta-1": {
+      "codepoint": 57886,
+      "fontFamily": "Lineicons",
+      "identifier": "meta1"
+    },
+    "meta-2": {
+      "codepoint": 57887,
+      "fontFamily": "Lineicons",
+      "identifier": "meta2"
+    },
+    "meta-alt": {
+      "codepoint": 57888,
+      "fontFamily": "Lineicons",
+      "identifier": "metaAlt"
+    },
+    "mic": {
+      "codepoint": 57889,
+      "fontFamily": "Lineicons",
+      "identifier": "mic"
+    },
+    "microphone": {
+      "codepoint": 57890,
+      "fontFamily": "Lineicons",
+      "identifier": "microphone"
+    },
+    "microphone-1": {
+      "codepoint": 57891,
+      "fontFamily": "Lineicons",
+      "identifier": "microphone1"
+    },
+    "microscope": {
+      "codepoint": 57892,
+      "fontFamily": "Lineicons",
+      "identifier": "microscope"
+    },
+    "microsoft": {
+      "codepoint": 57893,
+      "fontFamily": "Lineicons",
+      "identifier": "microsoft"
+    },
+    "microsoft-edge": {
+      "codepoint": 57894,
+      "fontFamily": "Lineicons",
+      "identifier": "microsoftEdge"
+    },
+    "microsoft-teams": {
+      "codepoint": 57895,
+      "fontFamily": "Lineicons",
+      "identifier": "microsoftTeams"
+    },
+    "minus": {
+      "codepoint": 57896,
+      "fontFamily": "Lineicons",
+      "identifier": "minus"
+    },
+    "minus-circle": {
+      "codepoint": 57897,
+      "fontFamily": "Lineicons",
+      "identifier": "minusCircle"
+    },
+    "mobile": {
+      "codepoint": 57898,
+      "fontFamily": "Lineicons",
+      "identifier": "mobile"
+    },
+    "money-location": {
+      "codepoint": 57899,
+      "fontFamily": "Lineicons",
+      "identifier": "moneyLocation"
+    },
+    "money-protection": {
+      "codepoint": 57900,
+      "fontFamily": "Lineicons",
+      "identifier": "moneyProtection"
+    },
+    "mongodb": {
+      "codepoint": 57901,
+      "fontFamily": "Lineicons",
+      "identifier": "mongodb"
+    },
+    "monitor": {
+      "codepoint": 57902,
+      "fontFamily": "Lineicons",
+      "identifier": "monitor"
+    },
+    "monitor-code": {
+      "codepoint": 57903,
+      "fontFamily": "Lineicons",
+      "identifier": "monitorCode"
+    },
+    "monitor-mac": {
+      "codepoint": 57904,
+      "fontFamily": "Lineicons",
+      "identifier": "monitorMac"
+    },
+    "moon-half-right-5": {
+      "codepoint": 57905,
+      "fontFamily": "Lineicons",
+      "identifier": "moonHalfRight5"
+    },
+    "more": {
+      "codepoint": 57906,
+      "fontFamily": "Lineicons",
+      "identifier": "more"
+    },
+    "more-alt": {
+      "codepoint": 57907,
+      "fontFamily": "Lineicons",
+      "identifier": "moreAlt"
+    },
+    "mountains-2": {
+      "codepoint": 57908,
+      "fontFamily": "Lineicons",
+      "identifier": "mountains2"
+    },
+    "mouse": {
+      "codepoint": 57909,
+      "fontFamily": "Lineicons",
+      "identifier": "mouse"
+    },
+    "mouse-2": {
+      "codepoint": 57910,
+      "fontFamily": "Lineicons",
+      "identifier": "mouse2"
+    },
+    "move": {
+      "codepoint": 57911,
+      "fontFamily": "Lineicons",
+      "identifier": "move"
+    },
+    "mushroom": {
+      "codepoint": 57912,
+      "fontFamily": "Lineicons",
+      "identifier": "mushroom"
+    },
+    "mushroom-1": {
+      "codepoint": 57913,
+      "fontFamily": "Lineicons",
+      "identifier": "mushroom1"
+    },
+    "mushroom-5": {
+      "codepoint": 57914,
+      "fontFamily": "Lineicons",
+      "identifier": "mushroom5"
+    },
+    "music": {
+      "codepoint": 57915,
+      "fontFamily": "Lineicons",
+      "identifier": "music"
+    },
+    "mysql": {
+      "codepoint": 57916,
+      "fontFamily": "Lineicons",
+      "identifier": "mysql"
+    },
+    "nasa": {
+      "codepoint": 57917,
+      "fontFamily": "Lineicons",
+      "identifier": "nasa"
+    },
+    "netflix": {
+      "codepoint": 57918,
+      "fontFamily": "Lineicons",
+      "identifier": "netflix"
+    },
+    "netlify": {
+      "codepoint": 57919,
+      "fontFamily": "Lineicons",
+      "identifier": "netlify"
+    },
+    "network": {
+      "codepoint": 57920,
+      "fontFamily": "Lineicons",
+      "identifier": "network"
+    },
+    "next-step-2": {
+      "codepoint": 57921,
+      "fontFamily": "Lineicons",
+      "identifier": "nextStep2"
+    },
+    "nextjs": {
+      "codepoint": 57922,
+      "fontFamily": "Lineicons",
+      "identifier": "nextjs"
+    },
+    "night": {
+      "codepoint": 57923,
+      "fontFamily": "Lineicons",
+      "identifier": "night"
+    },
+    "nike": {
+      "codepoint": 57924,
+      "fontFamily": "Lineicons",
+      "identifier": "nike"
+    },
+    "nissan": {
+      "codepoint": 57925,
+      "fontFamily": "Lineicons",
+      "identifier": "nissan"
+    },
+    "nodejs": {
+      "codepoint": 57926,
+      "fontFamily": "Lineicons",
+      "identifier": "nodejs"
+    },
+    "nodejs-alt": {
+      "codepoint": 57927,
+      "fontFamily": "Lineicons",
+      "identifier": "nodejsAlt"
+    },
+    "notebook-1": {
+      "codepoint": 57928,
+      "fontFamily": "Lineicons",
+      "identifier": "notebook1"
+    },
+    "notepad": {
+      "codepoint": 57929,
+      "fontFamily": "Lineicons",
+      "identifier": "notepad"
+    },
+    "notion": {
+      "codepoint": 57930,
+      "fontFamily": "Lineicons",
+      "identifier": "notion"
+    },
+    "npm": {
+      "codepoint": 57931,
+      "fontFamily": "Lineicons",
+      "identifier": "npm"
+    },
+    "nuxt": {
+      "codepoint": 57932,
+      "fontFamily": "Lineicons",
+      "identifier": "nuxt"
+    },
+    "nvidia": {
+      "codepoint": 57933,
+      "fontFamily": "Lineicons",
+      "identifier": "nvidia"
+    },
+    "oculus": {
+      "codepoint": 57934,
+      "fontFamily": "Lineicons",
+      "identifier": "oculus"
+    },
+    "offer": {
+      "codepoint": 57935,
+      "fontFamily": "Lineicons",
+      "identifier": "offer"
+    },
+    "open-ai": {
+      "codepoint": 57936,
+      "fontFamily": "Lineicons",
+      "identifier": "openAi"
+    },
+    "opera": {
+      "codepoint": 57937,
+      "fontFamily": "Lineicons",
+      "identifier": "opera"
+    },
+    "opera-mini": {
+      "codepoint": 57938,
+      "fontFamily": "Lineicons",
+      "identifier": "operaMini"
+    },
+    "oracle": {
+      "codepoint": 57939,
+      "fontFamily": "Lineicons",
+      "identifier": "oracle"
+    },
+    "outdent": {
+      "codepoint": 57940,
+      "fontFamily": "Lineicons",
+      "identifier": "outdent"
+    },
+    "package": {
+      "codepoint": 57941,
+      "fontFamily": "Lineicons",
+      "identifier": "package"
+    },
+    "paddle": {
+      "codepoint": 57942,
+      "fontFamily": "Lineicons",
+      "identifier": "paddle"
+    },
+    "page-break": {
+      "codepoint": 57943,
+      "fontFamily": "Lineicons",
+      "identifier": "pageBreak"
+    },
+    "page-break-1": {
+      "codepoint": 57944,
+      "fontFamily": "Lineicons",
+      "identifier": "pageBreak1"
+    },
+    "pagination": {
+      "codepoint": 57945,
+      "fontFamily": "Lineicons",
+      "identifier": "pagination"
+    },
+    "paint-bucket": {
+      "codepoint": 57946,
+      "fontFamily": "Lineicons",
+      "identifier": "paintBucket"
+    },
+    "paint-bucket-alt": {
+      "codepoint": 57947,
+      "fontFamily": "Lineicons",
+      "identifier": "paintBucketAlt"
+    },
+    "paint-roller": {
+      "codepoint": 57948,
+      "fontFamily": "Lineicons",
+      "identifier": "paintRoller"
+    },
+    "paint-roller-1": {
+      "codepoint": 57949,
+      "fontFamily": "Lineicons",
+      "identifier": "paintRoller1"
+    },
+    "pallet": {
+      "codepoint": 57950,
+      "fontFamily": "Lineicons",
+      "identifier": "pallet"
+    },
+    "paperclip": {
+      "codepoint": 57951,
+      "fontFamily": "Lineicons",
+      "identifier": "paperclip"
+    },
+    "paperclip-1": {
+      "codepoint": 57952,
+      "fontFamily": "Lineicons",
+      "identifier": "paperclip1"
+    },
+    "party-flags": {
+      "codepoint": 57953,
+      "fontFamily": "Lineicons",
+      "identifier": "partyFlags"
+    },
+    "party-spray": {
+      "codepoint": 57954,
+      "fontFamily": "Lineicons",
+      "identifier": "partySpray"
+    },
+    "patreon": {
+      "codepoint": 57955,
+      "fontFamily": "Lineicons",
+      "identifier": "patreon"
+    },
+    "pause": {
+      "codepoint": 57956,
+      "fontFamily": "Lineicons",
+      "identifier": "pause"
+    },
+    "payoneer": {
+      "codepoint": 57957,
+      "fontFamily": "Lineicons",
+      "identifier": "payoneer"
+    },
+    "paypal": {
+      "codepoint": 57958,
+      "fontFamily": "Lineicons",
+      "identifier": "paypal"
+    },
+    "paypal-original": {
+      "codepoint": 57959,
+      "fontFamily": "Lineicons",
+      "identifier": "paypalOriginal"
+    },
+    "pen-to-square": {
+      "codepoint": 57960,
+      "fontFamily": "Lineicons",
+      "identifier": "penToSquare"
+    },
+    "pencil": {
+      "codepoint": 57961,
+      "fontFamily": "Lineicons",
+      "identifier": "pencil"
+    },
+    "pencil-1": {
+      "codepoint": 57962,
+      "fontFamily": "Lineicons",
+      "identifier": "pencil1"
+    },
+    "pencil-alt": {
+      "codepoint": 57963,
+      "fontFamily": "Lineicons",
+      "identifier": "pencilAlt"
+    },
+    "pepsi": {
+      "codepoint": 57964,
+      "fontFamily": "Lineicons",
+      "identifier": "pepsi"
+    },
+    "phone": {
+      "codepoint": 57965,
+      "fontFamily": "Lineicons",
+      "identifier": "phone"
+    },
+    "phone-set": {
+      "codepoint": 57966,
+      "fontFamily": "Lineicons",
+      "identifier": "phoneSet"
+    },
+    "photos": {
+      "codepoint": 57967,
+      "fontFamily": "Lineicons",
+      "identifier": "photos"
+    },
+    "php": {
+      "codepoint": 57968,
+      "fontFamily": "Lineicons",
+      "identifier": "php"
+    },
+    "pie-chart": {
+      "codepoint": 57969,
+      "fontFamily": "Lineicons",
+      "identifier": "pieChart"
+    },
+    "pie-chart-2": {
+      "codepoint": 57970,
+      "fontFamily": "Lineicons",
+      "identifier": "pieChart2"
+    },
+    "pilcrow": {
+      "codepoint": 57971,
+      "fontFamily": "Lineicons",
+      "identifier": "pilcrow"
+    },
+    "pimjo-logo": {
+      "codepoint": 57972,
+      "fontFamily": "Lineicons",
+      "identifier": "pimjoLogo"
+    },
+    "pimjo-symbol": {
+      "codepoint": 57973,
+      "fontFamily": "Lineicons",
+      "identifier": "pimjoSymbol"
+    },
+    "pin": {
+      "codepoint": 57974,
+      "fontFamily": "Lineicons",
+      "identifier": "pin"
+    },
+    "pinterest": {
+      "codepoint": 57975,
+      "fontFamily": "Lineicons",
+      "identifier": "pinterest"
+    },
+    "pizza": {
+      "codepoint": 57976,
+      "fontFamily": "Lineicons",
+      "identifier": "pizza"
+    },
+    "pizza-2": {
+      "codepoint": 57977,
+      "fontFamily": "Lineicons",
+      "identifier": "pizza2"
+    },
+    "placeholder-dollar": {
+      "codepoint": 57978,
+      "fontFamily": "Lineicons",
+      "identifier": "placeholderDollar"
+    },
+    "plane": {
+      "codepoint": 57979,
+      "fontFamily": "Lineicons",
+      "identifier": "plane"
+    },
+    "plantscale": {
+      "codepoint": 57980,
+      "fontFamily": "Lineicons",
+      "identifier": "plantscale"
+    },
+    "play": {
+      "codepoint": 57981,
+      "fontFamily": "Lineicons",
+      "identifier": "play"
+    },
+    "play-store": {
+      "codepoint": 57982,
+      "fontFamily": "Lineicons",
+      "identifier": "playStore"
+    },
+    "play-store-alt": {
+      "codepoint": 57983,
+      "fontFamily": "Lineicons",
+      "identifier": "playStoreAlt"
+    },
+    "play-store-fill": {
+      "codepoint": 57984,
+      "fontFamily": "Lineicons",
+      "identifier": "playStoreFill"
+    },
+    "playstation": {
+      "codepoint": 57985,
+      "fontFamily": "Lineicons",
+      "identifier": "playstation"
+    },
+    "plug": {
+      "codepoint": 57986,
+      "fontFamily": "Lineicons",
+      "identifier": "plug"
+    },
+    "plug-1": {
+      "codepoint": 57987,
+      "fontFamily": "Lineicons",
+      "identifier": "plug1"
+    },
+    "plus": {
+      "codepoint": 57988,
+      "fontFamily": "Lineicons",
+      "identifier": "plus"
+    },
+    "plus-circle": {
+      "codepoint": 57989,
+      "fontFamily": "Lineicons",
+      "identifier": "plusCircle"
+    },
+    "pnpm": {
+      "codepoint": 57990,
+      "fontFamily": "Lineicons",
+      "identifier": "pnpm"
+    },
+    "pointer": {
+      "codepoint": 57991,
+      "fontFamily": "Lineicons",
+      "identifier": "pointer"
+    },
+    "pointer-down": {
+      "codepoint": 57992,
+      "fontFamily": "Lineicons",
+      "identifier": "pointerDown"
+    },
+    "pointer-left": {
+      "codepoint": 57993,
+      "fontFamily": "Lineicons",
+      "identifier": "pointerLeft"
+    },
+    "pointer-right": {
+      "codepoint": 57994,
+      "fontFamily": "Lineicons",
+      "identifier": "pointerRight"
+    },
+    "pointer-top": {
+      "codepoint": 57995,
+      "fontFamily": "Lineicons",
+      "identifier": "pointerTop"
+    },
+    "popup": {
+      "codepoint": 57996,
+      "fontFamily": "Lineicons",
+      "identifier": "popup"
+    },
+    "postcard": {
+      "codepoint": 57997,
+      "fontFamily": "Lineicons",
+      "identifier": "postcard"
+    },
+    "postgresql": {
+      "codepoint": 57998,
+      "fontFamily": "Lineicons",
+      "identifier": "postgresql"
+    },
+    "postman": {
+      "codepoint": 57999,
+      "fontFamily": "Lineicons",
+      "identifier": "postman"
+    },
+    "pound": {
+      "codepoint": 58000,
+      "fontFamily": "Lineicons",
+      "identifier": "pound"
+    },
+    "power-button": {
+      "codepoint": 58001,
+      "fontFamily": "Lineicons",
+      "identifier": "powerButton"
+    },
+    "power-switch": {
+      "codepoint": 58002,
+      "fontFamily": "Lineicons",
+      "identifier": "powerSwitch"
+    },
+    "previous-step-2": {
+      "codepoint": 58003,
+      "fontFamily": "Lineicons",
+      "identifier": "previousStep2"
+    },
+    "printer": {
+      "codepoint": 58004,
+      "fontFamily": "Lineicons",
+      "identifier": "printer"
+    },
+    "prisma": {
+      "codepoint": 58005,
+      "fontFamily": "Lineicons",
+      "identifier": "prisma"
+    },
+    "producthunt": {
+      "codepoint": 58006,
+      "fontFamily": "Lineicons",
+      "identifier": "producthunt"
+    },
+    "protection": {
+      "codepoint": 58007,
+      "fontFamily": "Lineicons",
+      "identifier": "protection"
+    },
+    "proton-mail-logo": {
+      "codepoint": 58008,
+      "fontFamily": "Lineicons",
+      "identifier": "protonMailLogo"
+    },
+    "proton-mail-symbol": {
+      "codepoint": 58009,
+      "fontFamily": "Lineicons",
+      "identifier": "protonMailSymbol"
+    },
+    "pulse": {
+      "codepoint": 58010,
+      "fontFamily": "Lineicons",
+      "identifier": "pulse"
+    },
+    "pyramids": {
+      "codepoint": 58011,
+      "fontFamily": "Lineicons",
+      "identifier": "pyramids"
+    },
+    "python": {
+      "codepoint": 58012,
+      "fontFamily": "Lineicons",
+      "identifier": "python"
+    },
+    "question-circle": {
+      "codepoint": 58013,
+      "fontFamily": "Lineicons",
+      "identifier": "questionCircle"
+    },
+    "question-mark": {
+      "codepoint": 58014,
+      "fontFamily": "Lineicons",
+      "identifier": "questionMark"
+    },
+    "question-mark-circle": {
+      "codepoint": 58015,
+      "fontFamily": "Lineicons",
+      "identifier": "questionMarkCircle"
+    },
+    "quora": {
+      "codepoint": 58016,
+      "fontFamily": "Lineicons",
+      "identifier": "quora"
+    },
+    "quotation": {
+      "codepoint": 58017,
+      "fontFamily": "Lineicons",
+      "identifier": "quotation"
+    },
+    "radio-button": {
+      "codepoint": 58018,
+      "fontFamily": "Lineicons",
+      "identifier": "radioButton"
+    },
+    "radis": {
+      "codepoint": 58019,
+      "fontFamily": "Lineicons",
+      "identifier": "radis"
+    },
+    "rain": {
+      "codepoint": 58020,
+      "fontFamily": "Lineicons",
+      "identifier": "rain"
+    },
+    "react": {
+      "codepoint": 58021,
+      "fontFamily": "Lineicons",
+      "identifier": "react"
+    },
+    "reddit": {
+      "codepoint": 58022,
+      "fontFamily": "Lineicons",
+      "identifier": "reddit"
+    },
+    "refresh-circle-1-clockwise": {
+      "codepoint": 58023,
+      "fontFamily": "Lineicons",
+      "identifier": "refreshCircle1Clockwise"
+    },
+    "refresh-dollar-1": {
+      "codepoint": 58024,
+      "fontFamily": "Lineicons",
+      "identifier": "refreshDollar1"
+    },
+    "refresh-user-1": {
+      "codepoint": 58025,
+      "fontFamily": "Lineicons",
+      "identifier": "refreshUser1"
+    },
+    "reload": {
+      "codepoint": 58026,
+      "fontFamily": "Lineicons",
+      "identifier": "reload"
+    },
+    "remix-js": {
+      "codepoint": 58027,
+      "fontFamily": "Lineicons",
+      "identifier": "remixJs"
+    },
+    "remove-file": {
+      "codepoint": 58028,
+      "fontFamily": "Lineicons",
+      "identifier": "removeFile"
+    },
+    "reply": {
+      "codepoint": 58029,
+      "fontFamily": "Lineicons",
+      "identifier": "reply"
+    },
+    "restaurant": {
+      "codepoint": 58030,
+      "fontFamily": "Lineicons",
+      "identifier": "restaurant"
+    },
+    "revenue": {
+      "codepoint": 58031,
+      "fontFamily": "Lineicons",
+      "identifier": "revenue"
+    },
+    "road": {
+      "codepoint": 58032,
+      "fontFamily": "Lineicons",
+      "identifier": "road"
+    },
+    "road-1": {
+      "codepoint": 58033,
+      "fontFamily": "Lineicons",
+      "identifier": "road1"
+    },
+    "rocket": {
+      "codepoint": 58034,
+      "fontFamily": "Lineicons",
+      "identifier": "rocket"
+    },
+    "rocket-5": {
+      "codepoint": 58035,
+      "fontFamily": "Lineicons",
+      "identifier": "rocket5"
+    },
+    "route-1": {
+      "codepoint": 58036,
+      "fontFamily": "Lineicons",
+      "identifier": "route1"
+    },
+    "rss-feed": {
+      "codepoint": 58037,
+      "fontFamily": "Lineicons",
+      "identifier": "rssFeed"
+    },
+    "rss-right": {
+      "codepoint": 58038,
+      "fontFamily": "Lineicons",
+      "identifier": "rssRight"
+    },
+    "ruler": {
+      "codepoint": 58039,
+      "fontFamily": "Lineicons",
+      "identifier": "ruler"
+    },
+    "ruler-1": {
+      "codepoint": 58040,
+      "fontFamily": "Lineicons",
+      "identifier": "ruler1"
+    },
+    "ruler-alt": {
+      "codepoint": 58041,
+      "fontFamily": "Lineicons",
+      "identifier": "rulerAlt"
+    },
+    "ruler-pen": {
+      "codepoint": 58042,
+      "fontFamily": "Lineicons",
+      "identifier": "rulerPen"
+    },
+    "ruler-pencil": {
+      "codepoint": 58043,
+      "fontFamily": "Lineicons",
+      "identifier": "rulerPencil"
+    },
+    "rupee": {
+      "codepoint": 58044,
+      "fontFamily": "Lineicons",
+      "identifier": "rupee"
+    },
+    "sad": {
+      "codepoint": 58045,
+      "fontFamily": "Lineicons",
+      "identifier": "sad"
+    },
+    "safari": {
+      "codepoint": 58046,
+      "fontFamily": "Lineicons",
+      "identifier": "safari"
+    },
+    "sanity": {
+      "codepoint": 58047,
+      "fontFamily": "Lineicons",
+      "identifier": "sanity"
+    },
+    "save": {
+      "codepoint": 58048,
+      "fontFamily": "Lineicons",
+      "identifier": "save"
+    },
+    "school-bench": {
+      "codepoint": 58049,
+      "fontFamily": "Lineicons",
+      "identifier": "schoolBench"
+    },
+    "school-bench-1": {
+      "codepoint": 58050,
+      "fontFamily": "Lineicons",
+      "identifier": "schoolBench1"
+    },
+    "school-bench-2": {
+      "codepoint": 58051,
+      "fontFamily": "Lineicons",
+      "identifier": "schoolBench2"
+    },
+    "school-bench-alt": {
+      "codepoint": 58052,
+      "fontFamily": "Lineicons",
+      "identifier": "schoolBenchAlt"
+    },
+    "scissors-1-vertical": {
+      "codepoint": 58053,
+      "fontFamily": "Lineicons",
+      "identifier": "scissors1Vertical"
+    },
+    "scooter": {
+      "codepoint": 58054,
+      "fontFamily": "Lineicons",
+      "identifier": "scooter"
+    },
+    "scoter": {
+      "codepoint": 58055,
+      "fontFamily": "Lineicons",
+      "identifier": "scoter"
+    },
+    "scroll-down": {
+      "codepoint": 58056,
+      "fontFamily": "Lineicons",
+      "identifier": "scrollDown"
+    },
+    "scroll-down-2": {
+      "codepoint": 58057,
+      "fontFamily": "Lineicons",
+      "identifier": "scrollDown2"
+    },
+    "search": {
+      "codepoint": 58058,
+      "fontFamily": "Lineicons",
+      "identifier": "search"
+    },
+    "search-1": {
+      "codepoint": 58059,
+      "fontFamily": "Lineicons",
+      "identifier": "search1"
+    },
+    "search-2": {
+      "codepoint": 58060,
+      "fontFamily": "Lineicons",
+      "identifier": "search2"
+    },
+    "search-alt": {
+      "codepoint": 58061,
+      "fontFamily": "Lineicons",
+      "identifier": "searchAlt"
+    },
+    "search-minus": {
+      "codepoint": 58062,
+      "fontFamily": "Lineicons",
+      "identifier": "searchMinus"
+    },
+    "search-plus": {
+      "codepoint": 58063,
+      "fontFamily": "Lineicons",
+      "identifier": "searchPlus"
+    },
+    "search-text": {
+      "codepoint": 58064,
+      "fontFamily": "Lineicons",
+      "identifier": "searchText"
+    },
+    "select-cursor": {
+      "codepoint": 58065,
+      "fontFamily": "Lineicons",
+      "identifier": "selectCursor"
+    },
+    "select-cursor-1": {
+      "codepoint": 58066,
+      "fontFamily": "Lineicons",
+      "identifier": "selectCursor1"
+    },
+    "seo": {
+      "codepoint": 58067,
+      "fontFamily": "Lineicons",
+      "identifier": "seo"
+    },
+    "seo-monitor": {
+      "codepoint": 58068,
+      "fontFamily": "Lineicons",
+      "identifier": "seoMonitor"
+    },
+    "service": {
+      "codepoint": 58069,
+      "fontFamily": "Lineicons",
+      "identifier": "service"
+    },
+    "service-bell-1": {
+      "codepoint": 58070,
+      "fontFamily": "Lineicons",
+      "identifier": "serviceBell1"
+    },
+    "share": {
+      "codepoint": 58071,
+      "fontFamily": "Lineicons",
+      "identifier": "share"
+    },
+    "share-1": {
+      "codepoint": 58072,
+      "fontFamily": "Lineicons",
+      "identifier": "share1"
+    },
+    "share-1-circle": {
+      "codepoint": 58073,
+      "fontFamily": "Lineicons",
+      "identifier": "share1Circle"
+    },
+    "share-2": {
+      "codepoint": 58074,
+      "fontFamily": "Lineicons",
+      "identifier": "share2"
+    },
+    "share-alt": {
+      "codepoint": 58075,
+      "fontFamily": "Lineicons",
+      "identifier": "shareAlt"
+    },
+    "shield": {
+      "codepoint": 58076,
+      "fontFamily": "Lineicons",
+      "identifier": "shield"
+    },
+    "shield-2": {
+      "codepoint": 58077,
+      "fontFamily": "Lineicons",
+      "identifier": "shield2"
+    },
+    "shield-2-check": {
+      "codepoint": 58078,
+      "fontFamily": "Lineicons",
+      "identifier": "shield2Check"
+    },
+    "shield-dollar": {
+      "codepoint": 58079,
+      "fontFamily": "Lineicons",
+      "identifier": "shieldDollar"
+    },
+    "shift-left": {
+      "codepoint": 58080,
+      "fontFamily": "Lineicons",
+      "identifier": "shiftLeft"
+    },
+    "shift-right": {
+      "codepoint": 58081,
+      "fontFamily": "Lineicons",
+      "identifier": "shiftRight"
+    },
+    "ship": {
+      "codepoint": 58082,
+      "fontFamily": "Lineicons",
+      "identifier": "ship"
+    },
+    "ship-1": {
+      "codepoint": 58083,
+      "fontFamily": "Lineicons",
+      "identifier": "ship1"
+    },
+    "shirt-1": {
+      "codepoint": 58084,
+      "fontFamily": "Lineicons",
+      "identifier": "shirt1"
+    },
+    "shopify": {
+      "codepoint": 58085,
+      "fontFamily": "Lineicons",
+      "identifier": "shopify"
+    },
+    "shopping-basket": {
+      "codepoint": 58086,
+      "fontFamily": "Lineicons",
+      "identifier": "shoppingBasket"
+    },
+    "shortcode": {
+      "codepoint": 58087,
+      "fontFamily": "Lineicons",
+      "identifier": "shortcode"
+    },
+    "shovel": {
+      "codepoint": 58088,
+      "fontFamily": "Lineicons",
+      "identifier": "shovel"
+    },
+    "shuffle": {
+      "codepoint": 58089,
+      "fontFamily": "Lineicons",
+      "identifier": "shuffle"
+    },
+    "sign-post-left": {
+      "codepoint": 58090,
+      "fontFamily": "Lineicons",
+      "identifier": "signPostLeft"
+    },
+    "signal": {
+      "codepoint": 58091,
+      "fontFamily": "Lineicons",
+      "identifier": "signal"
+    },
+    "signal-app": {
+      "codepoint": 58092,
+      "fontFamily": "Lineicons",
+      "identifier": "signalApp"
+    },
+    "signs-post-2": {
+      "codepoint": 58093,
+      "fontFamily": "Lineicons",
+      "identifier": "signsPost2"
+    },
+    "sketch": {
+      "codepoint": 58094,
+      "fontFamily": "Lineicons",
+      "identifier": "sketch"
+    },
+    "skipping-rope": {
+      "codepoint": 58095,
+      "fontFamily": "Lineicons",
+      "identifier": "skippingRope"
+    },
+    "skype": {
+      "codepoint": 58096,
+      "fontFamily": "Lineicons",
+      "identifier": "skype"
+    },
+    "slack": {
+      "codepoint": 58097,
+      "fontFamily": "Lineicons",
+      "identifier": "slack"
+    },
+    "slack-line": {
+      "codepoint": 58098,
+      "fontFamily": "Lineicons",
+      "identifier": "slackLine"
+    },
+    "slice": {
+      "codepoint": 58099,
+      "fontFamily": "Lineicons",
+      "identifier": "slice"
+    },
+    "slice-2": {
+      "codepoint": 58100,
+      "fontFamily": "Lineicons",
+      "identifier": "slice2"
+    },
+    "sliders-horizontal-square-2": {
+      "codepoint": 58101,
+      "fontFamily": "Lineicons",
+      "identifier": "slidersHorizontalSquare2"
+    },
+    "slideshare": {
+      "codepoint": 58102,
+      "fontFamily": "Lineicons",
+      "identifier": "slideshare"
+    },
+    "slim": {
+      "codepoint": 58103,
+      "fontFamily": "Lineicons",
+      "identifier": "slim"
+    },
+    "smile": {
+      "codepoint": 58104,
+      "fontFamily": "Lineicons",
+      "identifier": "smile"
+    },
+    "snapchat": {
+      "codepoint": 58105,
+      "fontFamily": "Lineicons",
+      "identifier": "snapchat"
+    },
+    "sort-alpha-asc": {
+      "codepoint": 58106,
+      "fontFamily": "Lineicons",
+      "identifier": "sortAlphaAsc"
+    },
+    "sort-alphabetical": {
+      "codepoint": 58107,
+      "fontFamily": "Lineicons",
+      "identifier": "sortAlphabetical"
+    },
+    "sort-amount-asc": {
+      "codepoint": 58108,
+      "fontFamily": "Lineicons",
+      "identifier": "sortAmountAsc"
+    },
+    "sort-amount-dsc": {
+      "codepoint": 58109,
+      "fontFamily": "Lineicons",
+      "identifier": "sortAmountDsc"
+    },
+    "sort-high-to-low": {
+      "codepoint": 58110,
+      "fontFamily": "Lineicons",
+      "identifier": "sortHighToLow"
+    },
+    "soundcloud": {
+      "codepoint": 58111,
+      "fontFamily": "Lineicons",
+      "identifier": "soundcloud"
+    },
+    "soundcloud-original": {
+      "codepoint": 58112,
+      "fontFamily": "Lineicons",
+      "identifier": "soundcloudOriginal"
+    },
+    "spacex": {
+      "codepoint": 58113,
+      "fontFamily": "Lineicons",
+      "identifier": "spacex"
+    },
+    "speechless": {
+      "codepoint": 58114,
+      "fontFamily": "Lineicons",
+      "identifier": "speechless"
+    },
+    "spellcheck": {
+      "codepoint": 58115,
+      "fontFamily": "Lineicons",
+      "identifier": "spellcheck"
+    },
+    "spinner": {
+      "codepoint": 58116,
+      "fontFamily": "Lineicons",
+      "identifier": "spinner"
+    },
+    "spinner-2-sacle": {
+      "codepoint": 58117,
+      "fontFamily": "Lineicons",
+      "identifier": "spinner2Sacle"
+    },
+    "spinner-3": {
+      "codepoint": 58118,
+      "fontFamily": "Lineicons",
+      "identifier": "spinner3"
+    },
+    "spinner-arrow": {
+      "codepoint": 58119,
+      "fontFamily": "Lineicons",
+      "identifier": "spinnerArrow"
+    },
+    "spinner-solid": {
+      "codepoint": 58120,
+      "fontFamily": "Lineicons",
+      "identifier": "spinnerSolid"
+    },
+    "sports": {
+      "codepoint": 58121,
+      "fontFamily": "Lineicons",
+      "identifier": "sports"
+    },
+    "spotify": {
+      "codepoint": 58122,
+      "fontFamily": "Lineicons",
+      "identifier": "spotify"
+    },
+    "spotify-alt": {
+      "codepoint": 58123,
+      "fontFamily": "Lineicons",
+      "identifier": "spotifyAlt"
+    },
+    "spotify-original": {
+      "codepoint": 58124,
+      "fontFamily": "Lineicons",
+      "identifier": "spotifyOriginal"
+    },
+    "spray": {
+      "codepoint": 58125,
+      "fontFamily": "Lineicons",
+      "identifier": "spray"
+    },
+    "sprout": {
+      "codepoint": 58126,
+      "fontFamily": "Lineicons",
+      "identifier": "sprout"
+    },
+    "squarespace": {
+      "codepoint": 58127,
+      "fontFamily": "Lineicons",
+      "identifier": "squarespace"
+    },
+    "stackoverflow": {
+      "codepoint": 58128,
+      "fontFamily": "Lineicons",
+      "identifier": "stackoverflow"
+    },
+    "stamp": {
+      "codepoint": 58129,
+      "fontFamily": "Lineicons",
+      "identifier": "stamp"
+    },
+    "star-empty": {
+      "codepoint": 58130,
+      "fontFamily": "Lineicons",
+      "identifier": "starEmpty"
+    },
+    "star-fat": {
+      "codepoint": 58131,
+      "fontFamily": "Lineicons",
+      "identifier": "starFat"
+    },
+    "star-fat-half-2": {
+      "codepoint": 58132,
+      "fontFamily": "Lineicons",
+      "identifier": "starFatHalf2"
+    },
+    "star-fill": {
+      "codepoint": 58133,
+      "fontFamily": "Lineicons",
+      "identifier": "starFill"
+    },
+    "star-half": {
+      "codepoint": 58134,
+      "fontFamily": "Lineicons",
+      "identifier": "starHalf"
+    },
+    "star-sharp-disabled": {
+      "codepoint": 58135,
+      "fontFamily": "Lineicons",
+      "identifier": "starSharpDisabled"
+    },
+    "statista": {
+      "codepoint": 58136,
+      "fontFamily": "Lineicons",
+      "identifier": "statista"
+    },
+    "stats-down": {
+      "codepoint": 58137,
+      "fontFamily": "Lineicons",
+      "identifier": "statsDown"
+    },
+    "stats-up": {
+      "codepoint": 58138,
+      "fontFamily": "Lineicons",
+      "identifier": "statsUp"
+    },
+    "steam": {
+      "codepoint": 58139,
+      "fontFamily": "Lineicons",
+      "identifier": "steam"
+    },
+    "stethoscope-1": {
+      "codepoint": 58140,
+      "fontFamily": "Lineicons",
+      "identifier": "stethoscope1"
+    },
+    "sthethoscope": {
+      "codepoint": 58141,
+      "fontFamily": "Lineicons",
+      "identifier": "sthethoscope"
+    },
+    "stop": {
+      "codepoint": 58142,
+      "fontFamily": "Lineicons",
+      "identifier": "stop"
+    },
+    "stopwatch": {
+      "codepoint": 58143,
+      "fontFamily": "Lineicons",
+      "identifier": "stopwatch"
+    },
+    "storage-hdd-2": {
+      "codepoint": 58144,
+      "fontFamily": "Lineicons",
+      "identifier": "storageHdd2"
+    },
+    "strikethrough": {
+      "codepoint": 58145,
+      "fontFamily": "Lineicons",
+      "identifier": "strikethrough"
+    },
+    "strikethrough-1": {
+      "codepoint": 58146,
+      "fontFamily": "Lineicons",
+      "identifier": "strikethrough1"
+    },
+    "stripe": {
+      "codepoint": 58147,
+      "fontFamily": "Lineicons",
+      "identifier": "stripe"
+    },
+    "stumbleupon": {
+      "codepoint": 58148,
+      "fontFamily": "Lineicons",
+      "identifier": "stumbleupon"
+    },
+    "sun": {
+      "codepoint": 58149,
+      "fontFamily": "Lineicons",
+      "identifier": "sun"
+    },
+    "sun-1": {
+      "codepoint": 58150,
+      "fontFamily": "Lineicons",
+      "identifier": "sun1"
+    },
+    "supabase": {
+      "codepoint": 58151,
+      "fontFamily": "Lineicons",
+      "identifier": "supabase"
+    },
+    "support": {
+      "codepoint": 58152,
+      "fontFamily": "Lineicons",
+      "identifier": "support"
+    },
+    "surf-board": {
+      "codepoint": 58153,
+      "fontFamily": "Lineicons",
+      "identifier": "surfBoard"
+    },
+    "surfboard-2": {
+      "codepoint": 58154,
+      "fontFamily": "Lineicons",
+      "identifier": "surfboard2"
+    },
+    "suspect": {
+      "codepoint": 58155,
+      "fontFamily": "Lineicons",
+      "identifier": "suspect"
+    },
+    "svelte": {
+      "codepoint": 58156,
+      "fontFamily": "Lineicons",
+      "identifier": "svelte"
+    },
+    "swift": {
+      "codepoint": 58157,
+      "fontFamily": "Lineicons",
+      "identifier": "swift"
+    },
+    "syringe": {
+      "codepoint": 58158,
+      "fontFamily": "Lineicons",
+      "identifier": "syringe"
+    },
+    "t-shirt": {
+      "codepoint": 58159,
+      "fontFamily": "Lineicons",
+      "identifier": "tShirt"
+    },
+    "tab": {
+      "codepoint": 58160,
+      "fontFamily": "Lineicons",
+      "identifier": "tab"
+    },
+    "tag": {
+      "codepoint": 58161,
+      "fontFamily": "Lineicons",
+      "identifier": "tag"
+    },
+    "tailwindcss": {
+      "codepoint": 58162,
+      "fontFamily": "Lineicons",
+      "identifier": "tailwindcss"
+    },
+    "target": {
+      "codepoint": 58163,
+      "fontFamily": "Lineicons",
+      "identifier": "target"
+    },
+    "target-customer": {
+      "codepoint": 58164,
+      "fontFamily": "Lineicons",
+      "identifier": "targetCustomer"
+    },
+    "target-revenue": {
+      "codepoint": 58165,
+      "fontFamily": "Lineicons",
+      "identifier": "targetRevenue"
+    },
+    "target-user": {
+      "codepoint": 58166,
+      "fontFamily": "Lineicons",
+      "identifier": "targetUser"
+    },
+    "taxi": {
+      "codepoint": 58167,
+      "fontFamily": "Lineicons",
+      "identifier": "taxi"
+    },
+    "teabag": {
+      "codepoint": 58168,
+      "fontFamily": "Lineicons",
+      "identifier": "teabag"
+    },
+    "telegram": {
+      "codepoint": 58169,
+      "fontFamily": "Lineicons",
+      "identifier": "telegram"
+    },
+    "telegram-original": {
+      "codepoint": 58170,
+      "fontFamily": "Lineicons",
+      "identifier": "telegramOriginal"
+    },
+    "telephone-1": {
+      "codepoint": 58171,
+      "fontFamily": "Lineicons",
+      "identifier": "telephone1"
+    },
+    "telephone-3": {
+      "codepoint": 58172,
+      "fontFamily": "Lineicons",
+      "identifier": "telephone3"
+    },
+    "tesla": {
+      "codepoint": 58173,
+      "fontFamily": "Lineicons",
+      "identifier": "tesla"
+    },
+    "text-align-center": {
+      "codepoint": 58174,
+      "fontFamily": "Lineicons",
+      "identifier": "textAlignCenter"
+    },
+    "text-align-justify": {
+      "codepoint": 58175,
+      "fontFamily": "Lineicons",
+      "identifier": "textAlignJustify"
+    },
+    "text-align-left": {
+      "codepoint": 58176,
+      "fontFamily": "Lineicons",
+      "identifier": "textAlignLeft"
+    },
+    "text-align-right": {
+      "codepoint": 58177,
+      "fontFamily": "Lineicons",
+      "identifier": "textAlignRight"
+    },
+    "text-format": {
+      "codepoint": 58178,
+      "fontFamily": "Lineicons",
+      "identifier": "textFormat"
+    },
+    "text-format-remove": {
+      "codepoint": 58179,
+      "fontFamily": "Lineicons",
+      "identifier": "textFormatRemove"
+    },
+    "text-paragraph": {
+      "codepoint": 58180,
+      "fontFamily": "Lineicons",
+      "identifier": "textParagraph"
+    },
+    "thought": {
+      "codepoint": 58181,
+      "fontFamily": "Lineicons",
+      "identifier": "thought"
+    },
+    "thumbs-down": {
+      "codepoint": 58182,
+      "fontFamily": "Lineicons",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-down-3": {
+      "codepoint": 58183,
+      "fontFamily": "Lineicons",
+      "identifier": "thumbsDown3"
+    },
+    "thumbs-up": {
+      "codepoint": 58184,
+      "fontFamily": "Lineicons",
+      "identifier": "thumbsUp"
+    },
+    "thumbs-up-3": {
+      "codepoint": 58185,
+      "fontFamily": "Lineicons",
+      "identifier": "thumbsUp3"
+    },
+    "thunder": {
+      "codepoint": 58186,
+      "fontFamily": "Lineicons",
+      "identifier": "thunder"
+    },
+    "thunder-alt": {
+      "codepoint": 58187,
+      "fontFamily": "Lineicons",
+      "identifier": "thunderAlt"
+    },
+    "ticket": {
+      "codepoint": 58188,
+      "fontFamily": "Lineicons",
+      "identifier": "ticket"
+    },
+    "ticket-1": {
+      "codepoint": 58189,
+      "fontFamily": "Lineicons",
+      "identifier": "ticket1"
+    },
+    "ticket-alt": {
+      "codepoint": 58190,
+      "fontFamily": "Lineicons",
+      "identifier": "ticketAlt"
+    },
+    "tickets-3": {
+      "codepoint": 58191,
+      "fontFamily": "Lineicons",
+      "identifier": "tickets3"
+    },
+    "tiktok": {
+      "codepoint": 58192,
+      "fontFamily": "Lineicons",
+      "identifier": "tiktok"
+    },
+    "tiktok-alt": {
+      "codepoint": 58193,
+      "fontFamily": "Lineicons",
+      "identifier": "tiktokAlt"
+    },
+    "timer": {
+      "codepoint": 58194,
+      "fontFamily": "Lineicons",
+      "identifier": "timer"
+    },
+    "tounge": {
+      "codepoint": 58195,
+      "fontFamily": "Lineicons",
+      "identifier": "tounge"
+    },
+    "tower-broadcast-1": {
+      "codepoint": 58196,
+      "fontFamily": "Lineicons",
+      "identifier": "towerBroadcast1"
+    },
+    "toyota": {
+      "codepoint": 58197,
+      "fontFamily": "Lineicons",
+      "identifier": "toyota"
+    },
+    "train": {
+      "codepoint": 58198,
+      "fontFamily": "Lineicons",
+      "identifier": "train"
+    },
+    "train-1": {
+      "codepoint": 58199,
+      "fontFamily": "Lineicons",
+      "identifier": "train1"
+    },
+    "train-3": {
+      "codepoint": 58200,
+      "fontFamily": "Lineicons",
+      "identifier": "train3"
+    },
+    "train-alt": {
+      "codepoint": 58201,
+      "fontFamily": "Lineicons",
+      "identifier": "trainAlt"
+    },
+    "trash-3": {
+      "codepoint": 58202,
+      "fontFamily": "Lineicons",
+      "identifier": "trash3"
+    },
+    "trash-can": {
+      "codepoint": 58203,
+      "fontFamily": "Lineicons",
+      "identifier": "trashCan"
+    },
+    "travel": {
+      "codepoint": 58204,
+      "fontFamily": "Lineicons",
+      "identifier": "travel"
+    },
+    "tree": {
+      "codepoint": 58205,
+      "fontFamily": "Lineicons",
+      "identifier": "tree"
+    },
+    "tree-2": {
+      "codepoint": 58206,
+      "fontFamily": "Lineicons",
+      "identifier": "tree2"
+    },
+    "trees": {
+      "codepoint": 58207,
+      "fontFamily": "Lineicons",
+      "identifier": "trees"
+    },
+    "trees-3": {
+      "codepoint": 58208,
+      "fontFamily": "Lineicons",
+      "identifier": "trees3"
+    },
+    "trello": {
+      "codepoint": 58209,
+      "fontFamily": "Lineicons",
+      "identifier": "trello"
+    },
+    "trend-down-1": {
+      "codepoint": 58210,
+      "fontFamily": "Lineicons",
+      "identifier": "trendDown1"
+    },
+    "trend-up-1": {
+      "codepoint": 58211,
+      "fontFamily": "Lineicons",
+      "identifier": "trendUp1"
+    },
+    "trophy-1": {
+      "codepoint": 58212,
+      "fontFamily": "Lineicons",
+      "identifier": "trophy1"
+    },
+    "trowel": {
+      "codepoint": 58213,
+      "fontFamily": "Lineicons",
+      "identifier": "trowel"
+    },
+    "trowel-1": {
+      "codepoint": 58214,
+      "fontFamily": "Lineicons",
+      "identifier": "trowel1"
+    },
+    "truck-delivery-1": {
+      "codepoint": 58215,
+      "fontFamily": "Lineicons",
+      "identifier": "truckDelivery1"
+    },
+    "tumblr": {
+      "codepoint": 58216,
+      "fontFamily": "Lineicons",
+      "identifier": "tumblr"
+    },
+    "turborepo": {
+      "codepoint": 58217,
+      "fontFamily": "Lineicons",
+      "identifier": "turborepo"
+    },
+    "twitch": {
+      "codepoint": 58218,
+      "fontFamily": "Lineicons",
+      "identifier": "twitch"
+    },
+    "twitter": {
+      "codepoint": 58219,
+      "fontFamily": "Lineicons",
+      "identifier": "twitter"
+    },
+    "twitter-fill": {
+      "codepoint": 58220,
+      "fontFamily": "Lineicons",
+      "identifier": "twitterFill"
+    },
+    "twitter-old": {
+      "codepoint": 58221,
+      "fontFamily": "Lineicons",
+      "identifier": "twitterOld"
+    },
+    "twitter-original": {
+      "codepoint": 58222,
+      "fontFamily": "Lineicons",
+      "identifier": "twitterOriginal"
+    },
+    "typescript": {
+      "codepoint": 58223,
+      "fontFamily": "Lineicons",
+      "identifier": "typescript"
+    },
+    "uber": {
+      "codepoint": 58224,
+      "fontFamily": "Lineicons",
+      "identifier": "uber"
+    },
+    "uber-symbol": {
+      "codepoint": 58225,
+      "fontFamily": "Lineicons",
+      "identifier": "uberSymbol"
+    },
+    "ubuntu": {
+      "codepoint": 58226,
+      "fontFamily": "Lineicons",
+      "identifier": "ubuntu"
+    },
+    "underline": {
+      "codepoint": 58227,
+      "fontFamily": "Lineicons",
+      "identifier": "underline"
+    },
+    "unlink": {
+      "codepoint": 58228,
+      "fontFamily": "Lineicons",
+      "identifier": "unlink"
+    },
+    "unlink-2-angular-eft": {
+      "codepoint": 58229,
+      "fontFamily": "Lineicons",
+      "identifier": "unlink2AngularEft"
+    },
+    "unlock": {
+      "codepoint": 58230,
+      "fontFamily": "Lineicons",
+      "identifier": "unlock"
+    },
+    "unlocked-2": {
+      "codepoint": 58231,
+      "fontFamily": "Lineicons",
+      "identifier": "unlocked2"
+    },
+    "unsplash": {
+      "codepoint": 58232,
+      "fontFamily": "Lineicons",
+      "identifier": "unsplash"
+    },
+    "upload": {
+      "codepoint": 58233,
+      "fontFamily": "Lineicons",
+      "identifier": "upload"
+    },
+    "upload-1": {
+      "codepoint": 58234,
+      "fontFamily": "Lineicons",
+      "identifier": "upload1"
+    },
+    "upload-circle-1": {
+      "codepoint": 58235,
+      "fontFamily": "Lineicons",
+      "identifier": "uploadCircle1"
+    },
+    "user": {
+      "codepoint": 58236,
+      "fontFamily": "Lineicons",
+      "identifier": "user"
+    },
+    "user-4": {
+      "codepoint": 58237,
+      "fontFamily": "Lineicons",
+      "identifier": "user4"
+    },
+    "user-multiple-4": {
+      "codepoint": 58238,
+      "fontFamily": "Lineicons",
+      "identifier": "userMultiple4"
+    },
+    "users": {
+      "codepoint": 58239,
+      "fontFamily": "Lineicons",
+      "identifier": "users"
+    },
+    "ux": {
+      "codepoint": 58240,
+      "fontFamily": "Lineicons",
+      "identifier": "ux"
+    },
+    "vector": {
+      "codepoint": 58241,
+      "fontFamily": "Lineicons",
+      "identifier": "vector"
+    },
+    "vector-nodes-6": {
+      "codepoint": 58242,
+      "fontFamily": "Lineicons",
+      "identifier": "vectorNodes6"
+    },
+    "vector-nodes-7": {
+      "codepoint": 58243,
+      "fontFamily": "Lineicons",
+      "identifier": "vectorNodes7"
+    },
+    "vercel": {
+      "codepoint": 58244,
+      "fontFamily": "Lineicons",
+      "identifier": "vercel"
+    },
+    "video": {
+      "codepoint": 58245,
+      "fontFamily": "Lineicons",
+      "identifier": "video"
+    },
+    "vimeo": {
+      "codepoint": 58246,
+      "fontFamily": "Lineicons",
+      "identifier": "vimeo"
+    },
+    "visa": {
+      "codepoint": 58247,
+      "fontFamily": "Lineicons",
+      "identifier": "visa"
+    },
+    "vite": {
+      "codepoint": 58248,
+      "fontFamily": "Lineicons",
+      "identifier": "vite"
+    },
+    "vk": {
+      "codepoint": 58249,
+      "fontFamily": "Lineicons",
+      "identifier": "vk"
+    },
+    "vmware": {
+      "codepoint": 58250,
+      "fontFamily": "Lineicons",
+      "identifier": "vmware"
+    },
+    "volkswagen": {
+      "codepoint": 58251,
+      "fontFamily": "Lineicons",
+      "identifier": "volkswagen"
+    },
+    "volume": {
+      "codepoint": 58252,
+      "fontFamily": "Lineicons",
+      "identifier": "volume"
+    },
+    "volume-1": {
+      "codepoint": 58253,
+      "fontFamily": "Lineicons",
+      "identifier": "volume1"
+    },
+    "volume-high": {
+      "codepoint": 58254,
+      "fontFamily": "Lineicons",
+      "identifier": "volumeHigh"
+    },
+    "volume-low": {
+      "codepoint": 58255,
+      "fontFamily": "Lineicons",
+      "identifier": "volumeLow"
+    },
+    "volume-medium": {
+      "codepoint": 58256,
+      "fontFamily": "Lineicons",
+      "identifier": "volumeMedium"
+    },
+    "volume-mute": {
+      "codepoint": 58257,
+      "fontFamily": "Lineicons",
+      "identifier": "volumeMute"
+    },
+    "volume-off": {
+      "codepoint": 58258,
+      "fontFamily": "Lineicons",
+      "identifier": "volumeOff"
+    },
+    "vs-code": {
+      "codepoint": 58259,
+      "fontFamily": "Lineicons",
+      "identifier": "vsCode"
+    },
+    "vuejs": {
+      "codepoint": 58260,
+      "fontFamily": "Lineicons",
+      "identifier": "vuejs"
+    },
+    "wallet": {
+      "codepoint": 58261,
+      "fontFamily": "Lineicons",
+      "identifier": "wallet"
+    },
+    "wallet-1": {
+      "codepoint": 58262,
+      "fontFamily": "Lineicons",
+      "identifier": "wallet1"
+    },
+    "warning": {
+      "codepoint": 58263,
+      "fontFamily": "Lineicons",
+      "identifier": "warning"
+    },
+    "watch-beat-1": {
+      "codepoint": 58264,
+      "fontFamily": "Lineicons",
+      "identifier": "watchBeat1"
+    },
+    "water-drop-1": {
+      "codepoint": 58265,
+      "fontFamily": "Lineicons",
+      "identifier": "waterDrop1"
+    },
+    "webflow": {
+      "codepoint": 58266,
+      "fontFamily": "Lineicons",
+      "identifier": "webflow"
+    },
+    "webhooks": {
+      "codepoint": 58267,
+      "fontFamily": "Lineicons",
+      "identifier": "webhooks"
+    },
+    "website": {
+      "codepoint": 58268,
+      "fontFamily": "Lineicons",
+      "identifier": "website"
+    },
+    "website-alt": {
+      "codepoint": 58269,
+      "fontFamily": "Lineicons",
+      "identifier": "websiteAlt"
+    },
+    "wechat": {
+      "codepoint": 58270,
+      "fontFamily": "Lineicons",
+      "identifier": "wechat"
+    },
+    "weight": {
+      "codepoint": 58271,
+      "fontFamily": "Lineicons",
+      "identifier": "weight"
+    },
+    "weight-machine-1": {
+      "codepoint": 58272,
+      "fontFamily": "Lineicons",
+      "identifier": "weightMachine1"
+    },
+    "whatsapp": {
+      "codepoint": 58273,
+      "fontFamily": "Lineicons",
+      "identifier": "whatsapp"
+    },
+    "wheelbarrow": {
+      "codepoint": 58274,
+      "fontFamily": "Lineicons",
+      "identifier": "wheelbarrow"
+    },
+    "wheelbarrow-empty": {
+      "codepoint": 58275,
+      "fontFamily": "Lineicons",
+      "identifier": "wheelbarrowEmpty"
+    },
+    "wheelchair": {
+      "codepoint": 58276,
+      "fontFamily": "Lineicons",
+      "identifier": "wheelchair"
+    },
+    "wheelchair-1": {
+      "codepoint": 58277,
+      "fontFamily": "Lineicons",
+      "identifier": "wheelchair1"
+    },
+    "windows": {
+      "codepoint": 58278,
+      "fontFamily": "Lineicons",
+      "identifier": "windows"
+    },
+    "wise": {
+      "codepoint": 58279,
+      "fontFamily": "Lineicons",
+      "identifier": "wise"
+    },
+    "wordpress": {
+      "codepoint": 58280,
+      "fontFamily": "Lineicons",
+      "identifier": "wordpress"
+    },
+    "wordpress-fill": {
+      "codepoint": 58281,
+      "fontFamily": "Lineicons",
+      "identifier": "wordpressFill"
+    },
+    "world": {
+      "codepoint": 58282,
+      "fontFamily": "Lineicons",
+      "identifier": "world"
+    },
+    "world-alt": {
+      "codepoint": 58283,
+      "fontFamily": "Lineicons",
+      "identifier": "worldAlt"
+    },
+    "write": {
+      "codepoint": 58284,
+      "fontFamily": "Lineicons",
+      "identifier": "write"
+    },
+    "www": {
+      "codepoint": 58285,
+      "fontFamily": "Lineicons",
+      "identifier": "www"
+    },
+    "www-cursor": {
+      "codepoint": 58286,
+      "fontFamily": "Lineicons",
+      "identifier": "wwwCursor"
+    },
+    "x": {
+      "codepoint": 58287,
+      "fontFamily": "Lineicons",
+      "identifier": "x"
+    },
+    "xampp": {
+      "codepoint": 58288,
+      "fontFamily": "Lineicons",
+      "identifier": "xampp"
+    },
+    "xbox": {
+      "codepoint": 58289,
+      "fontFamily": "Lineicons",
+      "identifier": "xbox"
+    },
+    "xmark": {
+      "codepoint": 58290,
+      "fontFamily": "Lineicons",
+      "identifier": "xmark"
+    },
+    "xmark-circle": {
+      "codepoint": 58291,
+      "fontFamily": "Lineicons",
+      "identifier": "xmarkCircle"
+    },
+    "xrp": {
+      "codepoint": 58292,
+      "fontFamily": "Lineicons",
+      "identifier": "xrp"
+    },
+    "yahoo": {
+      "codepoint": 58293,
+      "fontFamily": "Lineicons",
+      "identifier": "yahoo"
+    },
+    "yarn": {
+      "codepoint": 58294,
+      "fontFamily": "Lineicons",
+      "identifier": "yarn"
+    },
+    "ycombinator": {
+      "codepoint": 58295,
+      "fontFamily": "Lineicons",
+      "identifier": "ycombinator"
+    },
+    "yen": {
+      "codepoint": 58296,
+      "fontFamily": "Lineicons",
+      "identifier": "yen"
+    },
+    "youtube": {
+      "codepoint": 58297,
+      "fontFamily": "Lineicons",
+      "identifier": "youtube"
+    },
+    "youtube-kids": {
+      "codepoint": 58298,
+      "fontFamily": "Lineicons",
+      "identifier": "youtubeKids"
+    },
+    "youtube-music": {
+      "codepoint": 58299,
+      "fontFamily": "Lineicons",
+      "identifier": "youtubeMusic"
+    },
+    "zapier": {
+      "codepoint": 58300,
+      "fontFamily": "Lineicons",
+      "identifier": "zapier"
+    },
+    "zero-size": {
+      "codepoint": 58301,
+      "fontFamily": "Lineicons",
+      "identifier": "zeroSize"
+    },
+    "zip": {
+      "codepoint": 58302,
+      "fontFamily": "Lineicons",
+      "identifier": "zip"
+    },
+    "zoom": {
+      "codepoint": 58303,
+      "fontFamily": "Lineicons",
+      "identifier": "zoom"
+    },
+    "zoom-in": {
+      "codepoint": 58304,
+      "fontFamily": "Lineicons",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 58305,
+      "fontFamily": "Lineicons",
+      "identifier": "zoomOut"
+    }
+  }
+}

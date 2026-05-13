@@ -1,0 +1,4454 @@
+{
+  "schemaVersion": 1,
+  "prefix": "zmdi",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": null,
+  "subPackage": "iconifyx_zmdi",
+  "info": {
+    "name": "Material Design Iconic Font",
+    "author": {
+      "name": "MDI Community",
+      "url": "https://github.com/zavoloklom/material-design-iconic-font"
+    },
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1"
+    },
+    "total": 885
+  },
+  "fonts": [
+    {
+      "family": "Zmdi",
+      "nextCodepoint": 58229,
+      "iconCount": 885
+    }
+  ],
+  "icons": {
+    "3d-rotation": {
+      "codepoint": 57344,
+      "fontFamily": "Zmdi",
+      "identifier": "n3dRotation"
+    },
+    "500px": {
+      "codepoint": 57345,
+      "fontFamily": "Zmdi",
+      "identifier": "n500px"
+    },
+    "8tracks": {
+      "codepoint": 57346,
+      "fontFamily": "Zmdi",
+      "identifier": "n8tracks"
+    },
+    "account": {
+      "codepoint": 57347,
+      "fontFamily": "Zmdi",
+      "identifier": "account"
+    },
+    "account-add": {
+      "codepoint": 57348,
+      "fontFamily": "Zmdi",
+      "identifier": "accountAdd"
+    },
+    "account-box": {
+      "codepoint": 57349,
+      "fontFamily": "Zmdi",
+      "identifier": "accountBox"
+    },
+    "account-box-mail": {
+      "codepoint": 57350,
+      "fontFamily": "Zmdi",
+      "identifier": "accountBoxMail"
+    },
+    "account-box-o": {
+      "codepoint": 57351,
+      "fontFamily": "Zmdi",
+      "identifier": "accountBoxO"
+    },
+    "account-box-phone": {
+      "codepoint": 57352,
+      "fontFamily": "Zmdi",
+      "identifier": "accountBoxPhone"
+    },
+    "account-calendar": {
+      "codepoint": 57353,
+      "fontFamily": "Zmdi",
+      "identifier": "accountCalendar"
+    },
+    "account-circle": {
+      "codepoint": 57354,
+      "fontFamily": "Zmdi",
+      "identifier": "accountCircle"
+    },
+    "account-o": {
+      "codepoint": 57355,
+      "fontFamily": "Zmdi",
+      "identifier": "accountO"
+    },
+    "accounts": {
+      "codepoint": 57356,
+      "fontFamily": "Zmdi",
+      "identifier": "accounts"
+    },
+    "accounts-add": {
+      "codepoint": 57357,
+      "fontFamily": "Zmdi",
+      "identifier": "accountsAdd"
+    },
+    "accounts-alt": {
+      "codepoint": 57358,
+      "fontFamily": "Zmdi",
+      "identifier": "accountsAlt"
+    },
+    "accounts-list": {
+      "codepoint": 57359,
+      "fontFamily": "Zmdi",
+      "identifier": "accountsList"
+    },
+    "accounts-list-alt": {
+      "codepoint": 57360,
+      "fontFamily": "Zmdi",
+      "identifier": "accountsListAlt"
+    },
+    "accounts-outline": {
+      "codepoint": 57361,
+      "fontFamily": "Zmdi",
+      "identifier": "accountsOutline"
+    },
+    "adb": {
+      "codepoint": 57362,
+      "fontFamily": "Zmdi",
+      "identifier": "adb"
+    },
+    "airline-seat-flat": {
+      "codepoint": 57363,
+      "fontFamily": "Zmdi",
+      "identifier": "airlineSeatFlat"
+    },
+    "airline-seat-flat-angled": {
+      "codepoint": 57364,
+      "fontFamily": "Zmdi",
+      "identifier": "airlineSeatFlatAngled"
+    },
+    "airline-seat-individual-suite": {
+      "codepoint": 57365,
+      "fontFamily": "Zmdi",
+      "identifier": "airlineSeatIndividualSuite"
+    },
+    "airline-seat-legroom-extra": {
+      "codepoint": 57366,
+      "fontFamily": "Zmdi",
+      "identifier": "airlineSeatLegroomExtra"
+    },
+    "airline-seat-legroom-normal": {
+      "codepoint": 57367,
+      "fontFamily": "Zmdi",
+      "identifier": "airlineSeatLegroomNormal"
+    },
+    "airline-seat-legroom-reduced": {
+      "codepoint": 57368,
+      "fontFamily": "Zmdi",
+      "identifier": "airlineSeatLegroomReduced"
+    },
+    "airline-seat-recline-extra": {
+      "codepoint": 57369,
+      "fontFamily": "Zmdi",
+      "identifier": "airlineSeatReclineExtra"
+    },
+    "airline-seat-recline-normal": {
+      "codepoint": 57370,
+      "fontFamily": "Zmdi",
+      "identifier": "airlineSeatReclineNormal"
+    },
+    "airplane": {
+      "codepoint": 57371,
+      "fontFamily": "Zmdi",
+      "identifier": "airplane"
+    },
+    "airplane-off": {
+      "codepoint": 57372,
+      "fontFamily": "Zmdi",
+      "identifier": "airplaneOff"
+    },
+    "airplanemode-active": {
+      "codepoint": 57373,
+      "fontFamily": "Zmdi",
+      "identifier": "airplanemodeActive"
+    },
+    "airplanemode-inactive": {
+      "codepoint": 57374,
+      "fontFamily": "Zmdi",
+      "identifier": "airplanemodeInactive"
+    },
+    "airplay": {
+      "codepoint": 57375,
+      "fontFamily": "Zmdi",
+      "identifier": "airplay"
+    },
+    "alarm": {
+      "codepoint": 57376,
+      "fontFamily": "Zmdi",
+      "identifier": "alarm"
+    },
+    "alarm-add": {
+      "codepoint": 57377,
+      "fontFamily": "Zmdi",
+      "identifier": "alarmAdd"
+    },
+    "alarm-check": {
+      "codepoint": 57378,
+      "fontFamily": "Zmdi",
+      "identifier": "alarmCheck"
+    },
+    "alarm-off": {
+      "codepoint": 57379,
+      "fontFamily": "Zmdi",
+      "identifier": "alarmOff"
+    },
+    "alarm-plus": {
+      "codepoint": 57380,
+      "fontFamily": "Zmdi",
+      "identifier": "alarmPlus"
+    },
+    "alarm-snooze": {
+      "codepoint": 57381,
+      "fontFamily": "Zmdi",
+      "identifier": "alarmSnooze"
+    },
+    "album": {
+      "codepoint": 57382,
+      "fontFamily": "Zmdi",
+      "identifier": "album"
+    },
+    "alert-circle": {
+      "codepoint": 57383,
+      "fontFamily": "Zmdi",
+      "identifier": "alertCircle"
+    },
+    "alert-circle-o": {
+      "codepoint": 57384,
+      "fontFamily": "Zmdi",
+      "identifier": "alertCircleO"
+    },
+    "alert-octagon": {
+      "codepoint": 57385,
+      "fontFamily": "Zmdi",
+      "identifier": "alertOctagon"
+    },
+    "alert-polygon": {
+      "codepoint": 57386,
+      "fontFamily": "Zmdi",
+      "identifier": "alertPolygon"
+    },
+    "alert-triangle": {
+      "codepoint": 57387,
+      "fontFamily": "Zmdi",
+      "identifier": "alertTriangle"
+    },
+    "amazon": {
+      "codepoint": 57388,
+      "fontFamily": "Zmdi",
+      "identifier": "amazon"
+    },
+    "android": {
+      "codepoint": 57389,
+      "fontFamily": "Zmdi",
+      "identifier": "android"
+    },
+    "android-alt": {
+      "codepoint": 57390,
+      "fontFamily": "Zmdi",
+      "identifier": "androidAlt"
+    },
+    "apple": {
+      "codepoint": 57391,
+      "fontFamily": "Zmdi",
+      "identifier": "apple"
+    },
+    "apps": {
+      "codepoint": 57392,
+      "fontFamily": "Zmdi",
+      "identifier": "apps"
+    },
+    "archive": {
+      "codepoint": 57393,
+      "fontFamily": "Zmdi",
+      "identifier": "archive"
+    },
+    "arrow-back": {
+      "codepoint": 57394,
+      "fontFamily": "Zmdi",
+      "identifier": "arrowBack"
+    },
+    "arrow-forward": {
+      "codepoint": 57395,
+      "fontFamily": "Zmdi",
+      "identifier": "arrowForward"
+    },
+    "arrow-in": {
+      "codepoint": 57396,
+      "fontFamily": "Zmdi",
+      "identifier": "arrowIn"
+    },
+    "arrow-left": {
+      "codepoint": 57397,
+      "fontFamily": "Zmdi",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-bottom": {
+      "codepoint": 57398,
+      "fontFamily": "Zmdi",
+      "identifier": "arrowLeftBottom"
+    },
+    "arrow-merge": {
+      "codepoint": 57399,
+      "fontFamily": "Zmdi",
+      "identifier": "arrowMerge"
+    },
+    "arrow-missed": {
+      "codepoint": 57400,
+      "fontFamily": "Zmdi",
+      "identifier": "arrowMissed"
+    },
+    "arrow-out": {
+      "codepoint": 57401,
+      "fontFamily": "Zmdi",
+      "identifier": "arrowOut"
+    },
+    "arrow-right": {
+      "codepoint": 57402,
+      "fontFamily": "Zmdi",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-top": {
+      "codepoint": 57403,
+      "fontFamily": "Zmdi",
+      "identifier": "arrowRightTop"
+    },
+    "arrow-split": {
+      "codepoint": 57404,
+      "fontFamily": "Zmdi",
+      "identifier": "arrowSplit"
+    },
+    "arrows": {
+      "codepoint": 57405,
+      "fontFamily": "Zmdi",
+      "identifier": "arrows"
+    },
+    "aspect-ratio": {
+      "codepoint": 57406,
+      "fontFamily": "Zmdi",
+      "identifier": "aspectRatio"
+    },
+    "aspect-ratio-alt": {
+      "codepoint": 57407,
+      "fontFamily": "Zmdi",
+      "identifier": "aspectRatioAlt"
+    },
+    "assignment": {
+      "codepoint": 57408,
+      "fontFamily": "Zmdi",
+      "identifier": "assignment"
+    },
+    "assignment-account": {
+      "codepoint": 57409,
+      "fontFamily": "Zmdi",
+      "identifier": "assignmentAccount"
+    },
+    "assignment-alert": {
+      "codepoint": 57410,
+      "fontFamily": "Zmdi",
+      "identifier": "assignmentAlert"
+    },
+    "assignment-check": {
+      "codepoint": 57411,
+      "fontFamily": "Zmdi",
+      "identifier": "assignmentCheck"
+    },
+    "assignment-o": {
+      "codepoint": 57412,
+      "fontFamily": "Zmdi",
+      "identifier": "assignmentO"
+    },
+    "assignment-return": {
+      "codepoint": 57413,
+      "fontFamily": "Zmdi",
+      "identifier": "assignmentReturn"
+    },
+    "assignment-returned": {
+      "codepoint": 57414,
+      "fontFamily": "Zmdi",
+      "identifier": "assignmentReturned"
+    },
+    "attachment": {
+      "codepoint": 57415,
+      "fontFamily": "Zmdi",
+      "identifier": "attachment"
+    },
+    "attachment-alt": {
+      "codepoint": 57416,
+      "fontFamily": "Zmdi",
+      "identifier": "attachmentAlt"
+    },
+    "audio": {
+      "codepoint": 57417,
+      "fontFamily": "Zmdi",
+      "identifier": "audio"
+    },
+    "badge-check": {
+      "codepoint": 57418,
+      "fontFamily": "Zmdi",
+      "identifier": "badgeCheck"
+    },
+    "balance": {
+      "codepoint": 57419,
+      "fontFamily": "Zmdi",
+      "identifier": "balance"
+    },
+    "balance-wallet": {
+      "codepoint": 57420,
+      "fontFamily": "Zmdi",
+      "identifier": "balanceWallet"
+    },
+    "battery": {
+      "codepoint": 57421,
+      "fontFamily": "Zmdi",
+      "identifier": "battery"
+    },
+    "battery-alert": {
+      "codepoint": 57422,
+      "fontFamily": "Zmdi",
+      "identifier": "batteryAlert"
+    },
+    "battery-charging": {
+      "codepoint": 57423,
+      "fontFamily": "Zmdi",
+      "identifier": "batteryCharging"
+    },
+    "battery-flash": {
+      "codepoint": 57424,
+      "fontFamily": "Zmdi",
+      "identifier": "batteryFlash"
+    },
+    "battery-unknown": {
+      "codepoint": 57425,
+      "fontFamily": "Zmdi",
+      "identifier": "batteryUnknown"
+    },
+    "behance": {
+      "codepoint": 57426,
+      "fontFamily": "Zmdi",
+      "identifier": "behance"
+    },
+    "bike": {
+      "codepoint": 57427,
+      "fontFamily": "Zmdi",
+      "identifier": "bike"
+    },
+    "block": {
+      "codepoint": 57428,
+      "fontFamily": "Zmdi",
+      "identifier": "block"
+    },
+    "block-alt": {
+      "codepoint": 57429,
+      "fontFamily": "Zmdi",
+      "identifier": "blockAlt"
+    },
+    "blogger": {
+      "codepoint": 57430,
+      "fontFamily": "Zmdi",
+      "identifier": "blogger"
+    },
+    "bluetooth": {
+      "codepoint": 57431,
+      "fontFamily": "Zmdi",
+      "identifier": "bluetooth"
+    },
+    "bluetooth-connected": {
+      "codepoint": 57432,
+      "fontFamily": "Zmdi",
+      "identifier": "bluetoothConnected"
+    },
+    "bluetooth-off": {
+      "codepoint": 57433,
+      "fontFamily": "Zmdi",
+      "identifier": "bluetoothOff"
+    },
+    "bluetooth-search": {
+      "codepoint": 57434,
+      "fontFamily": "Zmdi",
+      "identifier": "bluetoothSearch"
+    },
+    "bluetooth-setting": {
+      "codepoint": 57435,
+      "fontFamily": "Zmdi",
+      "identifier": "bluetoothSetting"
+    },
+    "blur": {
+      "codepoint": 57436,
+      "fontFamily": "Zmdi",
+      "identifier": "blur"
+    },
+    "blur-circular": {
+      "codepoint": 57437,
+      "fontFamily": "Zmdi",
+      "identifier": "blurCircular"
+    },
+    "blur-linear": {
+      "codepoint": 57438,
+      "fontFamily": "Zmdi",
+      "identifier": "blurLinear"
+    },
+    "blur-off": {
+      "codepoint": 57439,
+      "fontFamily": "Zmdi",
+      "identifier": "blurOff"
+    },
+    "boat": {
+      "codepoint": 57440,
+      "fontFamily": "Zmdi",
+      "identifier": "boat"
+    },
+    "book": {
+      "codepoint": 57441,
+      "fontFamily": "Zmdi",
+      "identifier": "book"
+    },
+    "book-image": {
+      "codepoint": 57442,
+      "fontFamily": "Zmdi",
+      "identifier": "bookImage"
+    },
+    "book-photo": {
+      "codepoint": 57443,
+      "fontFamily": "Zmdi",
+      "identifier": "bookPhoto"
+    },
+    "bookmark": {
+      "codepoint": 57444,
+      "fontFamily": "Zmdi",
+      "identifier": "bookmark"
+    },
+    "bookmark-outline": {
+      "codepoint": 57445,
+      "fontFamily": "Zmdi",
+      "identifier": "bookmarkOutline"
+    },
+    "border-all": {
+      "codepoint": 57446,
+      "fontFamily": "Zmdi",
+      "identifier": "borderAll"
+    },
+    "border-bottom": {
+      "codepoint": 57447,
+      "fontFamily": "Zmdi",
+      "identifier": "borderBottom"
+    },
+    "border-clear": {
+      "codepoint": 57448,
+      "fontFamily": "Zmdi",
+      "identifier": "borderClear"
+    },
+    "border-color": {
+      "codepoint": 57449,
+      "fontFamily": "Zmdi",
+      "identifier": "borderColor"
+    },
+    "border-horizontal": {
+      "codepoint": 57450,
+      "fontFamily": "Zmdi",
+      "identifier": "borderHorizontal"
+    },
+    "border-inner": {
+      "codepoint": 57451,
+      "fontFamily": "Zmdi",
+      "identifier": "borderInner"
+    },
+    "border-left": {
+      "codepoint": 57452,
+      "fontFamily": "Zmdi",
+      "identifier": "borderLeft"
+    },
+    "border-outer": {
+      "codepoint": 57453,
+      "fontFamily": "Zmdi",
+      "identifier": "borderOuter"
+    },
+    "border-right": {
+      "codepoint": 57454,
+      "fontFamily": "Zmdi",
+      "identifier": "borderRight"
+    },
+    "border-style": {
+      "codepoint": 57455,
+      "fontFamily": "Zmdi",
+      "identifier": "borderStyle"
+    },
+    "border-top": {
+      "codepoint": 57456,
+      "fontFamily": "Zmdi",
+      "identifier": "borderTop"
+    },
+    "border-vertical": {
+      "codepoint": 57457,
+      "fontFamily": "Zmdi",
+      "identifier": "borderVertical"
+    },
+    "brightness-2": {
+      "codepoint": 57458,
+      "fontFamily": "Zmdi",
+      "identifier": "brightness2"
+    },
+    "brightness-3": {
+      "codepoint": 57459,
+      "fontFamily": "Zmdi",
+      "identifier": "brightness3"
+    },
+    "brightness-4": {
+      "codepoint": 57460,
+      "fontFamily": "Zmdi",
+      "identifier": "brightness4"
+    },
+    "brightness-5": {
+      "codepoint": 57461,
+      "fontFamily": "Zmdi",
+      "identifier": "brightness5"
+    },
+    "brightness-6": {
+      "codepoint": 57462,
+      "fontFamily": "Zmdi",
+      "identifier": "brightness6"
+    },
+    "brightness-7": {
+      "codepoint": 57463,
+      "fontFamily": "Zmdi",
+      "identifier": "brightness7"
+    },
+    "brightness-auto": {
+      "codepoint": 57464,
+      "fontFamily": "Zmdi",
+      "identifier": "brightnessAuto"
+    },
+    "brightness-high": {
+      "codepoint": 57465,
+      "fontFamily": "Zmdi",
+      "identifier": "brightnessHigh"
+    },
+    "brightness-low": {
+      "codepoint": 57466,
+      "fontFamily": "Zmdi",
+      "identifier": "brightnessLow"
+    },
+    "brightness-medium": {
+      "codepoint": 57467,
+      "fontFamily": "Zmdi",
+      "identifier": "brightnessMedium"
+    },
+    "brightness-setting": {
+      "codepoint": 57468,
+      "fontFamily": "Zmdi",
+      "identifier": "brightnessSetting"
+    },
+    "broken-image": {
+      "codepoint": 57469,
+      "fontFamily": "Zmdi",
+      "identifier": "brokenImage"
+    },
+    "brush": {
+      "codepoint": 57470,
+      "fontFamily": "Zmdi",
+      "identifier": "brush"
+    },
+    "bug": {
+      "codepoint": 57471,
+      "fontFamily": "Zmdi",
+      "identifier": "bug"
+    },
+    "bus": {
+      "codepoint": 57472,
+      "fontFamily": "Zmdi",
+      "identifier": "bus"
+    },
+    "cake": {
+      "codepoint": 57473,
+      "fontFamily": "Zmdi",
+      "identifier": "cake"
+    },
+    "calendar": {
+      "codepoint": 57474,
+      "fontFamily": "Zmdi",
+      "identifier": "calendar"
+    },
+    "calendar-account": {
+      "codepoint": 57475,
+      "fontFamily": "Zmdi",
+      "identifier": "calendarAccount"
+    },
+    "calendar-alt": {
+      "codepoint": 57476,
+      "fontFamily": "Zmdi",
+      "identifier": "calendarAlt"
+    },
+    "calendar-check": {
+      "codepoint": 57477,
+      "fontFamily": "Zmdi",
+      "identifier": "calendarCheck"
+    },
+    "calendar-close": {
+      "codepoint": 57478,
+      "fontFamily": "Zmdi",
+      "identifier": "calendarClose"
+    },
+    "calendar-note": {
+      "codepoint": 57479,
+      "fontFamily": "Zmdi",
+      "identifier": "calendarNote"
+    },
+    "calendar-remove": {
+      "codepoint": 57480,
+      "fontFamily": "Zmdi",
+      "identifier": "calendarRemove"
+    },
+    "camera": {
+      "codepoint": 57481,
+      "fontFamily": "Zmdi",
+      "identifier": "camera"
+    },
+    "camera-add": {
+      "codepoint": 57482,
+      "fontFamily": "Zmdi",
+      "identifier": "cameraAdd"
+    },
+    "camera-alt": {
+      "codepoint": 57483,
+      "fontFamily": "Zmdi",
+      "identifier": "cameraAlt"
+    },
+    "camera-bw": {
+      "codepoint": 57484,
+      "fontFamily": "Zmdi",
+      "identifier": "cameraBw"
+    },
+    "camera-front": {
+      "codepoint": 57485,
+      "fontFamily": "Zmdi",
+      "identifier": "cameraFront"
+    },
+    "camera-mic": {
+      "codepoint": 57486,
+      "fontFamily": "Zmdi",
+      "identifier": "cameraMic"
+    },
+    "camera-monochrome-photos": {
+      "codepoint": 57487,
+      "fontFamily": "Zmdi",
+      "identifier": "cameraMonochromePhotos"
+    },
+    "camera-party-mode": {
+      "codepoint": 57488,
+      "fontFamily": "Zmdi",
+      "identifier": "cameraPartyMode"
+    },
+    "camera-rear": {
+      "codepoint": 57489,
+      "fontFamily": "Zmdi",
+      "identifier": "cameraRear"
+    },
+    "camera-roll": {
+      "codepoint": 57490,
+      "fontFamily": "Zmdi",
+      "identifier": "cameraRoll"
+    },
+    "camera-switch": {
+      "codepoint": 57491,
+      "fontFamily": "Zmdi",
+      "identifier": "cameraSwitch"
+    },
+    "car": {
+      "codepoint": 57492,
+      "fontFamily": "Zmdi",
+      "identifier": "car"
+    },
+    "car-taxi": {
+      "codepoint": 57493,
+      "fontFamily": "Zmdi",
+      "identifier": "carTaxi"
+    },
+    "car-wash": {
+      "codepoint": 57494,
+      "fontFamily": "Zmdi",
+      "identifier": "carWash"
+    },
+    "card": {
+      "codepoint": 57495,
+      "fontFamily": "Zmdi",
+      "identifier": "card"
+    },
+    "card-alert": {
+      "codepoint": 57496,
+      "fontFamily": "Zmdi",
+      "identifier": "cardAlert"
+    },
+    "card-giftcard": {
+      "codepoint": 57497,
+      "fontFamily": "Zmdi",
+      "identifier": "cardGiftcard"
+    },
+    "card-membership": {
+      "codepoint": 57498,
+      "fontFamily": "Zmdi",
+      "identifier": "cardMembership"
+    },
+    "card-off": {
+      "codepoint": 57499,
+      "fontFamily": "Zmdi",
+      "identifier": "cardOff"
+    },
+    "card-sd": {
+      "codepoint": 57500,
+      "fontFamily": "Zmdi",
+      "identifier": "cardSd"
+    },
+    "card-sim": {
+      "codepoint": 57501,
+      "fontFamily": "Zmdi",
+      "identifier": "cardSim"
+    },
+    "card-travel": {
+      "codepoint": 57502,
+      "fontFamily": "Zmdi",
+      "identifier": "cardTravel"
+    },
+    "caret-down": {
+      "codepoint": 57503,
+      "fontFamily": "Zmdi",
+      "identifier": "caretDown"
+    },
+    "caret-down-circle": {
+      "codepoint": 57504,
+      "fontFamily": "Zmdi",
+      "identifier": "caretDownCircle"
+    },
+    "caret-left": {
+      "codepoint": 57505,
+      "fontFamily": "Zmdi",
+      "identifier": "caretLeft"
+    },
+    "caret-left-circle": {
+      "codepoint": 57506,
+      "fontFamily": "Zmdi",
+      "identifier": "caretLeftCircle"
+    },
+    "caret-right": {
+      "codepoint": 57507,
+      "fontFamily": "Zmdi",
+      "identifier": "caretRight"
+    },
+    "caret-right-circle": {
+      "codepoint": 57508,
+      "fontFamily": "Zmdi",
+      "identifier": "caretRightCircle"
+    },
+    "caret-up": {
+      "codepoint": 57509,
+      "fontFamily": "Zmdi",
+      "identifier": "caretUp"
+    },
+    "caret-up-circle": {
+      "codepoint": 57510,
+      "fontFamily": "Zmdi",
+      "identifier": "caretUpCircle"
+    },
+    "case": {
+      "codepoint": 57511,
+      "fontFamily": "Zmdi",
+      "identifier": "case_"
+    },
+    "case-check": {
+      "codepoint": 57512,
+      "fontFamily": "Zmdi",
+      "identifier": "caseCheck"
+    },
+    "case-download": {
+      "codepoint": 57513,
+      "fontFamily": "Zmdi",
+      "identifier": "caseDownload"
+    },
+    "case-play": {
+      "codepoint": 57514,
+      "fontFamily": "Zmdi",
+      "identifier": "casePlay"
+    },
+    "cast": {
+      "codepoint": 57515,
+      "fontFamily": "Zmdi",
+      "identifier": "cast"
+    },
+    "cast-connected": {
+      "codepoint": 57516,
+      "fontFamily": "Zmdi",
+      "identifier": "castConnected"
+    },
+    "center-focus-strong": {
+      "codepoint": 57517,
+      "fontFamily": "Zmdi",
+      "identifier": "centerFocusStrong"
+    },
+    "center-focus-weak": {
+      "codepoint": 57518,
+      "fontFamily": "Zmdi",
+      "identifier": "centerFocusWeak"
+    },
+    "chart": {
+      "codepoint": 57519,
+      "fontFamily": "Zmdi",
+      "identifier": "chart"
+    },
+    "chart-donut": {
+      "codepoint": 57520,
+      "fontFamily": "Zmdi",
+      "identifier": "chartDonut"
+    },
+    "check": {
+      "codepoint": 57521,
+      "fontFamily": "Zmdi",
+      "identifier": "check"
+    },
+    "check-all": {
+      "codepoint": 57522,
+      "fontFamily": "Zmdi",
+      "identifier": "checkAll"
+    },
+    "check-circle": {
+      "codepoint": 57523,
+      "fontFamily": "Zmdi",
+      "identifier": "checkCircle"
+    },
+    "check-circle-u": {
+      "codepoint": 57524,
+      "fontFamily": "Zmdi",
+      "identifier": "checkCircleU"
+    },
+    "check-square": {
+      "codepoint": 57525,
+      "fontFamily": "Zmdi",
+      "identifier": "checkSquare"
+    },
+    "chevron-down": {
+      "codepoint": 57526,
+      "fontFamily": "Zmdi",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57527,
+      "fontFamily": "Zmdi",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57528,
+      "fontFamily": "Zmdi",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57529,
+      "fontFamily": "Zmdi",
+      "identifier": "chevronUp"
+    },
+    "circle": {
+      "codepoint": 57530,
+      "fontFamily": "Zmdi",
+      "identifier": "circle"
+    },
+    "circle-o": {
+      "codepoint": 57531,
+      "fontFamily": "Zmdi",
+      "identifier": "circleO"
+    },
+    "city": {
+      "codepoint": 57532,
+      "fontFamily": "Zmdi",
+      "identifier": "city"
+    },
+    "city-alt": {
+      "codepoint": 57533,
+      "fontFamily": "Zmdi",
+      "identifier": "cityAlt"
+    },
+    "close": {
+      "codepoint": 57534,
+      "fontFamily": "Zmdi",
+      "identifier": "close"
+    },
+    "close-circle": {
+      "codepoint": 57535,
+      "fontFamily": "Zmdi",
+      "identifier": "closeCircle"
+    },
+    "close-circle-o": {
+      "codepoint": 57536,
+      "fontFamily": "Zmdi",
+      "identifier": "closeCircleO"
+    },
+    "closed-caption": {
+      "codepoint": 57537,
+      "fontFamily": "Zmdi",
+      "identifier": "closedCaption"
+    },
+    "cloud": {
+      "codepoint": 57538,
+      "fontFamily": "Zmdi",
+      "identifier": "cloud"
+    },
+    "cloud-box": {
+      "codepoint": 57539,
+      "fontFamily": "Zmdi",
+      "identifier": "cloudBox"
+    },
+    "cloud-circle": {
+      "codepoint": 57540,
+      "fontFamily": "Zmdi",
+      "identifier": "cloudCircle"
+    },
+    "cloud-done": {
+      "codepoint": 57541,
+      "fontFamily": "Zmdi",
+      "identifier": "cloudDone"
+    },
+    "cloud-download": {
+      "codepoint": 57542,
+      "fontFamily": "Zmdi",
+      "identifier": "cloudDownload"
+    },
+    "cloud-off": {
+      "codepoint": 57543,
+      "fontFamily": "Zmdi",
+      "identifier": "cloudOff"
+    },
+    "cloud-outline": {
+      "codepoint": 57544,
+      "fontFamily": "Zmdi",
+      "identifier": "cloudOutline"
+    },
+    "cloud-outline-alt": {
+      "codepoint": 57545,
+      "fontFamily": "Zmdi",
+      "identifier": "cloudOutlineAlt"
+    },
+    "cloud-upload": {
+      "codepoint": 57546,
+      "fontFamily": "Zmdi",
+      "identifier": "cloudUpload"
+    },
+    "cocktail": {
+      "codepoint": 57547,
+      "fontFamily": "Zmdi",
+      "identifier": "cocktail"
+    },
+    "code": {
+      "codepoint": 57548,
+      "fontFamily": "Zmdi",
+      "identifier": "code"
+    },
+    "code-setting": {
+      "codepoint": 57549,
+      "fontFamily": "Zmdi",
+      "identifier": "codeSetting"
+    },
+    "code-smartphone": {
+      "codepoint": 57550,
+      "fontFamily": "Zmdi",
+      "identifier": "codeSmartphone"
+    },
+    "codepen": {
+      "codepoint": 57551,
+      "fontFamily": "Zmdi",
+      "identifier": "codepen"
+    },
+    "coffee": {
+      "codepoint": 57552,
+      "fontFamily": "Zmdi",
+      "identifier": "coffee"
+    },
+    "collection-add": {
+      "codepoint": 57553,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionAdd"
+    },
+    "collection-bookmark": {
+      "codepoint": 57554,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionBookmark"
+    },
+    "collection-case-play": {
+      "codepoint": 57555,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionCasePlay"
+    },
+    "collection-folder-image": {
+      "codepoint": 57556,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionFolderImage"
+    },
+    "collection-image": {
+      "codepoint": 57557,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionImage"
+    },
+    "collection-image-o": {
+      "codepoint": 57558,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionImageO"
+    },
+    "collection-item": {
+      "codepoint": 57559,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionItem"
+    },
+    "collection-item-1": {
+      "codepoint": 57560,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionItem1"
+    },
+    "collection-item-2": {
+      "codepoint": 57561,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionItem2"
+    },
+    "collection-item-3": {
+      "codepoint": 57562,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionItem3"
+    },
+    "collection-item-4": {
+      "codepoint": 57563,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionItem4"
+    },
+    "collection-item-5": {
+      "codepoint": 57564,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionItem5"
+    },
+    "collection-item-6": {
+      "codepoint": 57565,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionItem6"
+    },
+    "collection-item-7": {
+      "codepoint": 57566,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionItem7"
+    },
+    "collection-item-8": {
+      "codepoint": 57567,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionItem8"
+    },
+    "collection-item-9": {
+      "codepoint": 57568,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionItem9"
+    },
+    "collection-item-9-plus": {
+      "codepoint": 57569,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionItem9Plus"
+    },
+    "collection-music": {
+      "codepoint": 57570,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionMusic"
+    },
+    "collection-pdf": {
+      "codepoint": 57571,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionPdf"
+    },
+    "collection-plus": {
+      "codepoint": 57572,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionPlus"
+    },
+    "collection-speaker": {
+      "codepoint": 57573,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionSpeaker"
+    },
+    "collection-text": {
+      "codepoint": 57574,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionText"
+    },
+    "collection-video": {
+      "codepoint": 57575,
+      "fontFamily": "Zmdi",
+      "identifier": "collectionVideo"
+    },
+    "colorize": {
+      "codepoint": 57576,
+      "fontFamily": "Zmdi",
+      "identifier": "colorize"
+    },
+    "comment": {
+      "codepoint": 57577,
+      "fontFamily": "Zmdi",
+      "identifier": "comment"
+    },
+    "comment-alert": {
+      "codepoint": 57578,
+      "fontFamily": "Zmdi",
+      "identifier": "commentAlert"
+    },
+    "comment-alt": {
+      "codepoint": 57579,
+      "fontFamily": "Zmdi",
+      "identifier": "commentAlt"
+    },
+    "comment-alt-text": {
+      "codepoint": 57580,
+      "fontFamily": "Zmdi",
+      "identifier": "commentAltText"
+    },
+    "comment-dots": {
+      "codepoint": 57581,
+      "fontFamily": "Zmdi",
+      "identifier": "commentDots"
+    },
+    "comment-edit": {
+      "codepoint": 57582,
+      "fontFamily": "Zmdi",
+      "identifier": "commentEdit"
+    },
+    "comment-image": {
+      "codepoint": 57583,
+      "fontFamily": "Zmdi",
+      "identifier": "commentImage"
+    },
+    "comment-list": {
+      "codepoint": 57584,
+      "fontFamily": "Zmdi",
+      "identifier": "commentList"
+    },
+    "comment-more": {
+      "codepoint": 57585,
+      "fontFamily": "Zmdi",
+      "identifier": "commentMore"
+    },
+    "comment-outline": {
+      "codepoint": 57586,
+      "fontFamily": "Zmdi",
+      "identifier": "commentOutline"
+    },
+    "comment-sign": {
+      "codepoint": 57587,
+      "fontFamily": "Zmdi",
+      "identifier": "commentSign"
+    },
+    "comment-text": {
+      "codepoint": 57588,
+      "fontFamily": "Zmdi",
+      "identifier": "commentText"
+    },
+    "comment-text-alt": {
+      "codepoint": 57589,
+      "fontFamily": "Zmdi",
+      "identifier": "commentTextAlt"
+    },
+    "comment-video": {
+      "codepoint": 57590,
+      "fontFamily": "Zmdi",
+      "identifier": "commentVideo"
+    },
+    "comments": {
+      "codepoint": 57591,
+      "fontFamily": "Zmdi",
+      "identifier": "comments"
+    },
+    "compare": {
+      "codepoint": 57592,
+      "fontFamily": "Zmdi",
+      "identifier": "compare"
+    },
+    "compass": {
+      "codepoint": 57593,
+      "fontFamily": "Zmdi",
+      "identifier": "compass"
+    },
+    "confirmation-number": {
+      "codepoint": 57594,
+      "fontFamily": "Zmdi",
+      "identifier": "confirmationNumber"
+    },
+    "copy": {
+      "codepoint": 57595,
+      "fontFamily": "Zmdi",
+      "identifier": "copy"
+    },
+    "crop": {
+      "codepoint": 57596,
+      "fontFamily": "Zmdi",
+      "identifier": "crop"
+    },
+    "crop-16-9": {
+      "codepoint": 57597,
+      "fontFamily": "Zmdi",
+      "identifier": "crop169"
+    },
+    "crop-3-2": {
+      "codepoint": 57598,
+      "fontFamily": "Zmdi",
+      "identifier": "crop32"
+    },
+    "crop-5-4": {
+      "codepoint": 57599,
+      "fontFamily": "Zmdi",
+      "identifier": "crop54"
+    },
+    "crop-7-5": {
+      "codepoint": 57600,
+      "fontFamily": "Zmdi",
+      "identifier": "crop75"
+    },
+    "crop-din": {
+      "codepoint": 57601,
+      "fontFamily": "Zmdi",
+      "identifier": "cropDin"
+    },
+    "crop-free": {
+      "codepoint": 57602,
+      "fontFamily": "Zmdi",
+      "identifier": "cropFree"
+    },
+    "crop-landscape": {
+      "codepoint": 57603,
+      "fontFamily": "Zmdi",
+      "identifier": "cropLandscape"
+    },
+    "crop-original": {
+      "codepoint": 57604,
+      "fontFamily": "Zmdi",
+      "identifier": "cropOriginal"
+    },
+    "crop-portrait": {
+      "codepoint": 57605,
+      "fontFamily": "Zmdi",
+      "identifier": "cropPortrait"
+    },
+    "crop-square": {
+      "codepoint": 57606,
+      "fontFamily": "Zmdi",
+      "identifier": "cropSquare"
+    },
+    "cut": {
+      "codepoint": 57607,
+      "fontFamily": "Zmdi",
+      "identifier": "cut"
+    },
+    "cutlery": {
+      "codepoint": 57608,
+      "fontFamily": "Zmdi",
+      "identifier": "cutlery"
+    },
+    "daydream-setting": {
+      "codepoint": 57609,
+      "fontFamily": "Zmdi",
+      "identifier": "daydreamSetting"
+    },
+    "dehaze": {
+      "codepoint": 57610,
+      "fontFamily": "Zmdi",
+      "identifier": "dehaze"
+    },
+    "delete": {
+      "codepoint": 57611,
+      "fontFamily": "Zmdi",
+      "identifier": "delete"
+    },
+    "delicious": {
+      "codepoint": 57612,
+      "fontFamily": "Zmdi",
+      "identifier": "delicious"
+    },
+    "desktop-mac": {
+      "codepoint": 57613,
+      "fontFamily": "Zmdi",
+      "identifier": "desktopMac"
+    },
+    "desktop-windows": {
+      "codepoint": 57614,
+      "fontFamily": "Zmdi",
+      "identifier": "desktopWindows"
+    },
+    "developer-board": {
+      "codepoint": 57615,
+      "fontFamily": "Zmdi",
+      "identifier": "developerBoard"
+    },
+    "device-hub": {
+      "codepoint": 57616,
+      "fontFamily": "Zmdi",
+      "identifier": "deviceHub"
+    },
+    "devices": {
+      "codepoint": 57617,
+      "fontFamily": "Zmdi",
+      "identifier": "devices"
+    },
+    "devices-off": {
+      "codepoint": 57618,
+      "fontFamily": "Zmdi",
+      "identifier": "devicesOff"
+    },
+    "dialpad": {
+      "codepoint": 57619,
+      "fontFamily": "Zmdi",
+      "identifier": "dialpad"
+    },
+    "directions": {
+      "codepoint": 57620,
+      "fontFamily": "Zmdi",
+      "identifier": "directions"
+    },
+    "directions-bike": {
+      "codepoint": 57621,
+      "fontFamily": "Zmdi",
+      "identifier": "directionsBike"
+    },
+    "directions-boat": {
+      "codepoint": 57622,
+      "fontFamily": "Zmdi",
+      "identifier": "directionsBoat"
+    },
+    "directions-bus": {
+      "codepoint": 57623,
+      "fontFamily": "Zmdi",
+      "identifier": "directionsBus"
+    },
+    "directions-car": {
+      "codepoint": 57624,
+      "fontFamily": "Zmdi",
+      "identifier": "directionsCar"
+    },
+    "directions-railway": {
+      "codepoint": 57625,
+      "fontFamily": "Zmdi",
+      "identifier": "directionsRailway"
+    },
+    "directions-run": {
+      "codepoint": 57626,
+      "fontFamily": "Zmdi",
+      "identifier": "directionsRun"
+    },
+    "directions-subway": {
+      "codepoint": 57627,
+      "fontFamily": "Zmdi",
+      "identifier": "directionsSubway"
+    },
+    "directions-walk": {
+      "codepoint": 57628,
+      "fontFamily": "Zmdi",
+      "identifier": "directionsWalk"
+    },
+    "disc-full": {
+      "codepoint": 57629,
+      "fontFamily": "Zmdi",
+      "identifier": "discFull"
+    },
+    "disqus": {
+      "codepoint": 57630,
+      "fontFamily": "Zmdi",
+      "identifier": "disqus"
+    },
+    "dns": {
+      "codepoint": 57631,
+      "fontFamily": "Zmdi",
+      "identifier": "dns"
+    },
+    "dock": {
+      "codepoint": 57632,
+      "fontFamily": "Zmdi",
+      "identifier": "dock"
+    },
+    "dot-circle": {
+      "codepoint": 57633,
+      "fontFamily": "Zmdi",
+      "identifier": "dotCircle"
+    },
+    "dot-circle-alt": {
+      "codepoint": 57634,
+      "fontFamily": "Zmdi",
+      "identifier": "dotCircleAlt"
+    },
+    "download": {
+      "codepoint": 57635,
+      "fontFamily": "Zmdi",
+      "identifier": "download"
+    },
+    "dribbble": {
+      "codepoint": 57636,
+      "fontFamily": "Zmdi",
+      "identifier": "dribbble"
+    },
+    "drink": {
+      "codepoint": 57637,
+      "fontFamily": "Zmdi",
+      "identifier": "drink"
+    },
+    "dropbox": {
+      "codepoint": 57638,
+      "fontFamily": "Zmdi",
+      "identifier": "dropbox"
+    },
+    "edit": {
+      "codepoint": 57639,
+      "fontFamily": "Zmdi",
+      "identifier": "edit"
+    },
+    "eject": {
+      "codepoint": 57640,
+      "fontFamily": "Zmdi",
+      "identifier": "eject"
+    },
+    "eject-alt": {
+      "codepoint": 57641,
+      "fontFamily": "Zmdi",
+      "identifier": "ejectAlt"
+    },
+    "email": {
+      "codepoint": 57642,
+      "fontFamily": "Zmdi",
+      "identifier": "email"
+    },
+    "email-open": {
+      "codepoint": 57643,
+      "fontFamily": "Zmdi",
+      "identifier": "emailOpen"
+    },
+    "equalizer": {
+      "codepoint": 57644,
+      "fontFamily": "Zmdi",
+      "identifier": "equalizer"
+    },
+    "evernote": {
+      "codepoint": 57645,
+      "fontFamily": "Zmdi",
+      "identifier": "evernote"
+    },
+    "explicit": {
+      "codepoint": 57646,
+      "fontFamily": "Zmdi",
+      "identifier": "explicit"
+    },
+    "exposure": {
+      "codepoint": 57647,
+      "fontFamily": "Zmdi",
+      "identifier": "exposure"
+    },
+    "exposure-alt": {
+      "codepoint": 57648,
+      "fontFamily": "Zmdi",
+      "identifier": "exposureAlt"
+    },
+    "eye": {
+      "codepoint": 57649,
+      "fontFamily": "Zmdi",
+      "identifier": "eye"
+    },
+    "eye-off": {
+      "codepoint": 57650,
+      "fontFamily": "Zmdi",
+      "identifier": "eyeOff"
+    },
+    "eyedropper": {
+      "codepoint": 57651,
+      "fontFamily": "Zmdi",
+      "identifier": "eyedropper"
+    },
+    "face": {
+      "codepoint": 57652,
+      "fontFamily": "Zmdi",
+      "identifier": "face"
+    },
+    "facebook": {
+      "codepoint": 57653,
+      "fontFamily": "Zmdi",
+      "identifier": "facebook"
+    },
+    "facebook-box": {
+      "codepoint": 57654,
+      "fontFamily": "Zmdi",
+      "identifier": "facebookBox"
+    },
+    "fast-forward": {
+      "codepoint": 57655,
+      "fontFamily": "Zmdi",
+      "identifier": "fastForward"
+    },
+    "fast-rewind": {
+      "codepoint": 57656,
+      "fontFamily": "Zmdi",
+      "identifier": "fastRewind"
+    },
+    "favorite": {
+      "codepoint": 57657,
+      "fontFamily": "Zmdi",
+      "identifier": "favorite"
+    },
+    "favorite-outline": {
+      "codepoint": 57658,
+      "fontFamily": "Zmdi",
+      "identifier": "favoriteOutline"
+    },
+    "female": {
+      "codepoint": 57659,
+      "fontFamily": "Zmdi",
+      "identifier": "female"
+    },
+    "file": {
+      "codepoint": 57660,
+      "fontFamily": "Zmdi",
+      "identifier": "file"
+    },
+    "file-add": {
+      "codepoint": 57661,
+      "fontFamily": "Zmdi",
+      "identifier": "fileAdd"
+    },
+    "file-plus": {
+      "codepoint": 57662,
+      "fontFamily": "Zmdi",
+      "identifier": "filePlus"
+    },
+    "file-text": {
+      "codepoint": 57663,
+      "fontFamily": "Zmdi",
+      "identifier": "fileText"
+    },
+    "filter-b-and-w": {
+      "codepoint": 57664,
+      "fontFamily": "Zmdi",
+      "identifier": "filterBAndW"
+    },
+    "filter-center-focus": {
+      "codepoint": 57665,
+      "fontFamily": "Zmdi",
+      "identifier": "filterCenterFocus"
+    },
+    "filter-frames": {
+      "codepoint": 57666,
+      "fontFamily": "Zmdi",
+      "identifier": "filterFrames"
+    },
+    "filter-list": {
+      "codepoint": 57667,
+      "fontFamily": "Zmdi",
+      "identifier": "filterList"
+    },
+    "filter-tilt-shift": {
+      "codepoint": 57668,
+      "fontFamily": "Zmdi",
+      "identifier": "filterTiltShift"
+    },
+    "fire": {
+      "codepoint": 57669,
+      "fontFamily": "Zmdi",
+      "identifier": "fire"
+    },
+    "flag": {
+      "codepoint": 57670,
+      "fontFamily": "Zmdi",
+      "identifier": "flag"
+    },
+    "flare": {
+      "codepoint": 57671,
+      "fontFamily": "Zmdi",
+      "identifier": "flare"
+    },
+    "flash": {
+      "codepoint": 57672,
+      "fontFamily": "Zmdi",
+      "identifier": "flash"
+    },
+    "flash-auto": {
+      "codepoint": 57673,
+      "fontFamily": "Zmdi",
+      "identifier": "flashAuto"
+    },
+    "flash-off": {
+      "codepoint": 57674,
+      "fontFamily": "Zmdi",
+      "identifier": "flashOff"
+    },
+    "flattr": {
+      "codepoint": 57675,
+      "fontFamily": "Zmdi",
+      "identifier": "flattr"
+    },
+    "flickr": {
+      "codepoint": 57676,
+      "fontFamily": "Zmdi",
+      "identifier": "flickr"
+    },
+    "flight-land": {
+      "codepoint": 57677,
+      "fontFamily": "Zmdi",
+      "identifier": "flightLand"
+    },
+    "flight-takeoff": {
+      "codepoint": 57678,
+      "fontFamily": "Zmdi",
+      "identifier": "flightTakeoff"
+    },
+    "flip": {
+      "codepoint": 57679,
+      "fontFamily": "Zmdi",
+      "identifier": "flip"
+    },
+    "flip-to-back": {
+      "codepoint": 57680,
+      "fontFamily": "Zmdi",
+      "identifier": "flipToBack"
+    },
+    "flip-to-front": {
+      "codepoint": 57681,
+      "fontFamily": "Zmdi",
+      "identifier": "flipToFront"
+    },
+    "floppy": {
+      "codepoint": 57682,
+      "fontFamily": "Zmdi",
+      "identifier": "floppy"
+    },
+    "flower": {
+      "codepoint": 57683,
+      "fontFamily": "Zmdi",
+      "identifier": "flower"
+    },
+    "flower-alt": {
+      "codepoint": 57684,
+      "fontFamily": "Zmdi",
+      "identifier": "flowerAlt"
+    },
+    "folder": {
+      "codepoint": 57685,
+      "fontFamily": "Zmdi",
+      "identifier": "folder"
+    },
+    "folder-outline": {
+      "codepoint": 57686,
+      "fontFamily": "Zmdi",
+      "identifier": "folderOutline"
+    },
+    "folder-person": {
+      "codepoint": 57687,
+      "fontFamily": "Zmdi",
+      "identifier": "folderPerson"
+    },
+    "folder-shared": {
+      "codepoint": 57688,
+      "fontFamily": "Zmdi",
+      "identifier": "folderShared"
+    },
+    "folder-special": {
+      "codepoint": 57689,
+      "fontFamily": "Zmdi",
+      "identifier": "folderSpecial"
+    },
+    "folder-star": {
+      "codepoint": 57690,
+      "fontFamily": "Zmdi",
+      "identifier": "folderStar"
+    },
+    "folder-star-alt": {
+      "codepoint": 57691,
+      "fontFamily": "Zmdi",
+      "identifier": "folderStarAlt"
+    },
+    "font": {
+      "codepoint": 57692,
+      "fontFamily": "Zmdi",
+      "identifier": "font"
+    },
+    "format-align-center": {
+      "codepoint": 57693,
+      "fontFamily": "Zmdi",
+      "identifier": "formatAlignCenter"
+    },
+    "format-align-justify": {
+      "codepoint": 57694,
+      "fontFamily": "Zmdi",
+      "identifier": "formatAlignJustify"
+    },
+    "format-align-left": {
+      "codepoint": 57695,
+      "fontFamily": "Zmdi",
+      "identifier": "formatAlignLeft"
+    },
+    "format-align-right": {
+      "codepoint": 57696,
+      "fontFamily": "Zmdi",
+      "identifier": "formatAlignRight"
+    },
+    "format-bold": {
+      "codepoint": 57697,
+      "fontFamily": "Zmdi",
+      "identifier": "formatBold"
+    },
+    "format-clear": {
+      "codepoint": 57698,
+      "fontFamily": "Zmdi",
+      "identifier": "formatClear"
+    },
+    "format-clear-all": {
+      "codepoint": 57699,
+      "fontFamily": "Zmdi",
+      "identifier": "formatClearAll"
+    },
+    "format-color-fill": {
+      "codepoint": 57700,
+      "fontFamily": "Zmdi",
+      "identifier": "formatColorFill"
+    },
+    "format-color-reset": {
+      "codepoint": 57701,
+      "fontFamily": "Zmdi",
+      "identifier": "formatColorReset"
+    },
+    "format-color-text": {
+      "codepoint": 57702,
+      "fontFamily": "Zmdi",
+      "identifier": "formatColorText"
+    },
+    "format-indent-decrease": {
+      "codepoint": 57703,
+      "fontFamily": "Zmdi",
+      "identifier": "formatIndentDecrease"
+    },
+    "format-indent-increase": {
+      "codepoint": 57704,
+      "fontFamily": "Zmdi",
+      "identifier": "formatIndentIncrease"
+    },
+    "format-italic": {
+      "codepoint": 57705,
+      "fontFamily": "Zmdi",
+      "identifier": "formatItalic"
+    },
+    "format-line-spacing": {
+      "codepoint": 57706,
+      "fontFamily": "Zmdi",
+      "identifier": "formatLineSpacing"
+    },
+    "format-list-bulleted": {
+      "codepoint": 57707,
+      "fontFamily": "Zmdi",
+      "identifier": "formatListBulleted"
+    },
+    "format-list-numbered": {
+      "codepoint": 57708,
+      "fontFamily": "Zmdi",
+      "identifier": "formatListNumbered"
+    },
+    "format-ltr": {
+      "codepoint": 57709,
+      "fontFamily": "Zmdi",
+      "identifier": "formatLtr"
+    },
+    "format-paint": {
+      "codepoint": 57710,
+      "fontFamily": "Zmdi",
+      "identifier": "formatPaint"
+    },
+    "format-playlist-add": {
+      "codepoint": 57711,
+      "fontFamily": "Zmdi",
+      "identifier": "formatPlaylistAdd"
+    },
+    "format-queue-music": {
+      "codepoint": 57712,
+      "fontFamily": "Zmdi",
+      "identifier": "formatQueueMusic"
+    },
+    "format-quote": {
+      "codepoint": 57713,
+      "fontFamily": "Zmdi",
+      "identifier": "formatQuote"
+    },
+    "format-rtl": {
+      "codepoint": 57714,
+      "fontFamily": "Zmdi",
+      "identifier": "formatRtl"
+    },
+    "format-size": {
+      "codepoint": 57715,
+      "fontFamily": "Zmdi",
+      "identifier": "formatSize"
+    },
+    "format-strikethrough": {
+      "codepoint": 57716,
+      "fontFamily": "Zmdi",
+      "identifier": "formatStrikethrough"
+    },
+    "format-strikethrough-s": {
+      "codepoint": 57717,
+      "fontFamily": "Zmdi",
+      "identifier": "formatStrikethroughS"
+    },
+    "format-subject": {
+      "codepoint": 57718,
+      "fontFamily": "Zmdi",
+      "identifier": "formatSubject"
+    },
+    "format-textdirection-l-to-r": {
+      "codepoint": 57719,
+      "fontFamily": "Zmdi",
+      "identifier": "formatTextdirectionLToR"
+    },
+    "format-textdirection-r-to-l": {
+      "codepoint": 57720,
+      "fontFamily": "Zmdi",
+      "identifier": "formatTextdirectionRToL"
+    },
+    "format-underlined": {
+      "codepoint": 57721,
+      "fontFamily": "Zmdi",
+      "identifier": "formatUnderlined"
+    },
+    "format-valign-bottom": {
+      "codepoint": 57722,
+      "fontFamily": "Zmdi",
+      "identifier": "formatValignBottom"
+    },
+    "format-valign-center": {
+      "codepoint": 57723,
+      "fontFamily": "Zmdi",
+      "identifier": "formatValignCenter"
+    },
+    "format-valign-top": {
+      "codepoint": 57724,
+      "fontFamily": "Zmdi",
+      "identifier": "formatValignTop"
+    },
+    "forward": {
+      "codepoint": 57725,
+      "fontFamily": "Zmdi",
+      "identifier": "forward"
+    },
+    "forward-10": {
+      "codepoint": 57726,
+      "fontFamily": "Zmdi",
+      "identifier": "forward10"
+    },
+    "forward-30": {
+      "codepoint": 57727,
+      "fontFamily": "Zmdi",
+      "identifier": "forward30"
+    },
+    "forward-5": {
+      "codepoint": 57728,
+      "fontFamily": "Zmdi",
+      "identifier": "forward5"
+    },
+    "fullscreen": {
+      "codepoint": 57729,
+      "fontFamily": "Zmdi",
+      "identifier": "fullscreen"
+    },
+    "fullscreen-alt": {
+      "codepoint": 57730,
+      "fontFamily": "Zmdi",
+      "identifier": "fullscreenAlt"
+    },
+    "fullscreen-exit": {
+      "codepoint": 57731,
+      "fontFamily": "Zmdi",
+      "identifier": "fullscreenExit"
+    },
+    "functions": {
+      "codepoint": 57732,
+      "fontFamily": "Zmdi",
+      "identifier": "functions"
+    },
+    "gamepad": {
+      "codepoint": 57733,
+      "fontFamily": "Zmdi",
+      "identifier": "gamepad"
+    },
+    "gas-station": {
+      "codepoint": 57734,
+      "fontFamily": "Zmdi",
+      "identifier": "gasStation"
+    },
+    "gesture": {
+      "codepoint": 57735,
+      "fontFamily": "Zmdi",
+      "identifier": "gesture"
+    },
+    "gif": {
+      "codepoint": 57736,
+      "fontFamily": "Zmdi",
+      "identifier": "gif"
+    },
+    "github": {
+      "codepoint": 57737,
+      "fontFamily": "Zmdi",
+      "identifier": "github"
+    },
+    "github-alt": {
+      "codepoint": 57738,
+      "fontFamily": "Zmdi",
+      "identifier": "githubAlt"
+    },
+    "github-box": {
+      "codepoint": 57739,
+      "fontFamily": "Zmdi",
+      "identifier": "githubBox"
+    },
+    "globe": {
+      "codepoint": 57740,
+      "fontFamily": "Zmdi",
+      "identifier": "globe"
+    },
+    "globe-alt": {
+      "codepoint": 57741,
+      "fontFamily": "Zmdi",
+      "identifier": "globeAlt"
+    },
+    "globe-lock": {
+      "codepoint": 57742,
+      "fontFamily": "Zmdi",
+      "identifier": "globeLock"
+    },
+    "google": {
+      "codepoint": 57743,
+      "fontFamily": "Zmdi",
+      "identifier": "google"
+    },
+    "google-drive": {
+      "codepoint": 57744,
+      "fontFamily": "Zmdi",
+      "identifier": "googleDrive"
+    },
+    "google-earth": {
+      "codepoint": 57745,
+      "fontFamily": "Zmdi",
+      "identifier": "googleEarth"
+    },
+    "google-glass": {
+      "codepoint": 57746,
+      "fontFamily": "Zmdi",
+      "identifier": "googleGlass"
+    },
+    "google-maps": {
+      "codepoint": 57747,
+      "fontFamily": "Zmdi",
+      "identifier": "googleMaps"
+    },
+    "google-old": {
+      "codepoint": 57748,
+      "fontFamily": "Zmdi",
+      "identifier": "googleOld"
+    },
+    "google-pages": {
+      "codepoint": 57749,
+      "fontFamily": "Zmdi",
+      "identifier": "googlePages"
+    },
+    "google-play": {
+      "codepoint": 57750,
+      "fontFamily": "Zmdi",
+      "identifier": "googlePlay"
+    },
+    "google-plus": {
+      "codepoint": 57751,
+      "fontFamily": "Zmdi",
+      "identifier": "googlePlus"
+    },
+    "google-plus-box": {
+      "codepoint": 57752,
+      "fontFamily": "Zmdi",
+      "identifier": "googlePlusBox"
+    },
+    "gps": {
+      "codepoint": 57753,
+      "fontFamily": "Zmdi",
+      "identifier": "gps"
+    },
+    "gps-dot": {
+      "codepoint": 57754,
+      "fontFamily": "Zmdi",
+      "identifier": "gpsDot"
+    },
+    "gps-off": {
+      "codepoint": 57755,
+      "fontFamily": "Zmdi",
+      "identifier": "gpsOff"
+    },
+    "gradient": {
+      "codepoint": 57756,
+      "fontFamily": "Zmdi",
+      "identifier": "gradient"
+    },
+    "graduation-cap": {
+      "codepoint": 57757,
+      "fontFamily": "Zmdi",
+      "identifier": "graduationCap"
+    },
+    "grain": {
+      "codepoint": 57758,
+      "fontFamily": "Zmdi",
+      "identifier": "grain"
+    },
+    "graphic-eq": {
+      "codepoint": 57759,
+      "fontFamily": "Zmdi",
+      "identifier": "graphicEq"
+    },
+    "grid": {
+      "codepoint": 57760,
+      "fontFamily": "Zmdi",
+      "identifier": "grid"
+    },
+    "grid-off": {
+      "codepoint": 57761,
+      "fontFamily": "Zmdi",
+      "identifier": "gridOff"
+    },
+    "group": {
+      "codepoint": 57762,
+      "fontFamily": "Zmdi",
+      "identifier": "group"
+    },
+    "group-work": {
+      "codepoint": 57763,
+      "fontFamily": "Zmdi",
+      "identifier": "groupWork"
+    },
+    "hd": {
+      "codepoint": 57764,
+      "fontFamily": "Zmdi",
+      "identifier": "hd"
+    },
+    "hdr": {
+      "codepoint": 57765,
+      "fontFamily": "Zmdi",
+      "identifier": "hdr"
+    },
+    "hdr-off": {
+      "codepoint": 57766,
+      "fontFamily": "Zmdi",
+      "identifier": "hdrOff"
+    },
+    "hdr-strong": {
+      "codepoint": 57767,
+      "fontFamily": "Zmdi",
+      "identifier": "hdrStrong"
+    },
+    "hdr-weak": {
+      "codepoint": 57768,
+      "fontFamily": "Zmdi",
+      "identifier": "hdrWeak"
+    },
+    "headset": {
+      "codepoint": 57769,
+      "fontFamily": "Zmdi",
+      "identifier": "headset"
+    },
+    "headset-mic": {
+      "codepoint": 57770,
+      "fontFamily": "Zmdi",
+      "identifier": "headsetMic"
+    },
+    "hearing": {
+      "codepoint": 57771,
+      "fontFamily": "Zmdi",
+      "identifier": "hearing"
+    },
+    "help": {
+      "codepoint": 57772,
+      "fontFamily": "Zmdi",
+      "identifier": "help"
+    },
+    "help-outline": {
+      "codepoint": 57773,
+      "fontFamily": "Zmdi",
+      "identifier": "helpOutline"
+    },
+    "home": {
+      "codepoint": 57774,
+      "fontFamily": "Zmdi",
+      "identifier": "home"
+    },
+    "hospital": {
+      "codepoint": 57775,
+      "fontFamily": "Zmdi",
+      "identifier": "hospital"
+    },
+    "hospital-alt": {
+      "codepoint": 57776,
+      "fontFamily": "Zmdi",
+      "identifier": "hospitalAlt"
+    },
+    "hotel": {
+      "codepoint": 57777,
+      "fontFamily": "Zmdi",
+      "identifier": "hotel"
+    },
+    "hourglass": {
+      "codepoint": 57778,
+      "fontFamily": "Zmdi",
+      "identifier": "hourglass"
+    },
+    "hourglass-alt": {
+      "codepoint": 57779,
+      "fontFamily": "Zmdi",
+      "identifier": "hourglassAlt"
+    },
+    "hourglass-outline": {
+      "codepoint": 57780,
+      "fontFamily": "Zmdi",
+      "identifier": "hourglassOutline"
+    },
+    "hq": {
+      "codepoint": 57781,
+      "fontFamily": "Zmdi",
+      "identifier": "hq"
+    },
+    "http": {
+      "codepoint": 57782,
+      "fontFamily": "Zmdi",
+      "identifier": "http"
+    },
+    "image": {
+      "codepoint": 57783,
+      "fontFamily": "Zmdi",
+      "identifier": "image"
+    },
+    "image-alt": {
+      "codepoint": 57784,
+      "fontFamily": "Zmdi",
+      "identifier": "imageAlt"
+    },
+    "image-o": {
+      "codepoint": 57785,
+      "fontFamily": "Zmdi",
+      "identifier": "imageO"
+    },
+    "import-export": {
+      "codepoint": 57786,
+      "fontFamily": "Zmdi",
+      "identifier": "importExport"
+    },
+    "inbox": {
+      "codepoint": 57787,
+      "fontFamily": "Zmdi",
+      "identifier": "inbox"
+    },
+    "incandescent": {
+      "codepoint": 57788,
+      "fontFamily": "Zmdi",
+      "identifier": "incandescent"
+    },
+    "info": {
+      "codepoint": 57789,
+      "fontFamily": "Zmdi",
+      "identifier": "info"
+    },
+    "info-outline": {
+      "codepoint": 57790,
+      "fontFamily": "Zmdi",
+      "identifier": "infoOutline"
+    },
+    "input-antenna": {
+      "codepoint": 57791,
+      "fontFamily": "Zmdi",
+      "identifier": "inputAntenna"
+    },
+    "input-composite": {
+      "codepoint": 57792,
+      "fontFamily": "Zmdi",
+      "identifier": "inputComposite"
+    },
+    "input-hdmi": {
+      "codepoint": 57793,
+      "fontFamily": "Zmdi",
+      "identifier": "inputHdmi"
+    },
+    "input-power": {
+      "codepoint": 57794,
+      "fontFamily": "Zmdi",
+      "identifier": "inputPower"
+    },
+    "input-svideo": {
+      "codepoint": 57795,
+      "fontFamily": "Zmdi",
+      "identifier": "inputSvideo"
+    },
+    "instagram": {
+      "codepoint": 57796,
+      "fontFamily": "Zmdi",
+      "identifier": "instagram"
+    },
+    "invert-colors": {
+      "codepoint": 57797,
+      "fontFamily": "Zmdi",
+      "identifier": "invertColors"
+    },
+    "invert-colors-off": {
+      "codepoint": 57798,
+      "fontFamily": "Zmdi",
+      "identifier": "invertColorsOff"
+    },
+    "iridescent": {
+      "codepoint": 57799,
+      "fontFamily": "Zmdi",
+      "identifier": "iridescent"
+    },
+    "key": {
+      "codepoint": 57800,
+      "fontFamily": "Zmdi",
+      "identifier": "key"
+    },
+    "keyboard": {
+      "codepoint": 57801,
+      "fontFamily": "Zmdi",
+      "identifier": "keyboard"
+    },
+    "keyboard-hide": {
+      "codepoint": 57802,
+      "fontFamily": "Zmdi",
+      "identifier": "keyboardHide"
+    },
+    "label": {
+      "codepoint": 57803,
+      "fontFamily": "Zmdi",
+      "identifier": "label"
+    },
+    "label-alt": {
+      "codepoint": 57804,
+      "fontFamily": "Zmdi",
+      "identifier": "labelAlt"
+    },
+    "label-alt-outline": {
+      "codepoint": 57805,
+      "fontFamily": "Zmdi",
+      "identifier": "labelAltOutline"
+    },
+    "label-heart": {
+      "codepoint": 57806,
+      "fontFamily": "Zmdi",
+      "identifier": "labelHeart"
+    },
+    "labels": {
+      "codepoint": 57807,
+      "fontFamily": "Zmdi",
+      "identifier": "labels"
+    },
+    "lamp": {
+      "codepoint": 57808,
+      "fontFamily": "Zmdi",
+      "identifier": "lamp"
+    },
+    "landscape": {
+      "codepoint": 57809,
+      "fontFamily": "Zmdi",
+      "identifier": "landscape"
+    },
+    "language-css3": {
+      "codepoint": 57810,
+      "fontFamily": "Zmdi",
+      "identifier": "languageCss3"
+    },
+    "language-html5": {
+      "codepoint": 57811,
+      "fontFamily": "Zmdi",
+      "identifier": "languageHtml5"
+    },
+    "language-javascript": {
+      "codepoint": 57812,
+      "fontFamily": "Zmdi",
+      "identifier": "languageJavascript"
+    },
+    "language-python": {
+      "codepoint": 57813,
+      "fontFamily": "Zmdi",
+      "identifier": "languagePython"
+    },
+    "language-python-alt": {
+      "codepoint": 57814,
+      "fontFamily": "Zmdi",
+      "identifier": "languagePythonAlt"
+    },
+    "laptop": {
+      "codepoint": 57815,
+      "fontFamily": "Zmdi",
+      "identifier": "laptop"
+    },
+    "laptop-chromebook": {
+      "codepoint": 57816,
+      "fontFamily": "Zmdi",
+      "identifier": "laptopChromebook"
+    },
+    "laptop-mac": {
+      "codepoint": 57817,
+      "fontFamily": "Zmdi",
+      "identifier": "laptopMac"
+    },
+    "lastfm": {
+      "codepoint": 57818,
+      "fontFamily": "Zmdi",
+      "identifier": "lastfm"
+    },
+    "layers": {
+      "codepoint": 57819,
+      "fontFamily": "Zmdi",
+      "identifier": "layers"
+    },
+    "layers-clear": {
+      "codepoint": 57820,
+      "fontFamily": "Zmdi",
+      "identifier": "layersClear"
+    },
+    "layers-off": {
+      "codepoint": 57821,
+      "fontFamily": "Zmdi",
+      "identifier": "layersOff"
+    },
+    "leak": {
+      "codepoint": 57822,
+      "fontFamily": "Zmdi",
+      "identifier": "leak"
+    },
+    "leak-off": {
+      "codepoint": 57823,
+      "fontFamily": "Zmdi",
+      "identifier": "leakOff"
+    },
+    "leak-remove": {
+      "codepoint": 57824,
+      "fontFamily": "Zmdi",
+      "identifier": "leakRemove"
+    },
+    "library": {
+      "codepoint": 57825,
+      "fontFamily": "Zmdi",
+      "identifier": "library_"
+    },
+    "link": {
+      "codepoint": 57826,
+      "fontFamily": "Zmdi",
+      "identifier": "link"
+    },
+    "linkedin": {
+      "codepoint": 57827,
+      "fontFamily": "Zmdi",
+      "identifier": "linkedin"
+    },
+    "linkedin-box": {
+      "codepoint": 57828,
+      "fontFamily": "Zmdi",
+      "identifier": "linkedinBox"
+    },
+    "live-tv": {
+      "codepoint": 57829,
+      "fontFamily": "Zmdi",
+      "identifier": "liveTv"
+    },
+    "local-activity": {
+      "codepoint": 57830,
+      "fontFamily": "Zmdi",
+      "identifier": "localActivity"
+    },
+    "local-airport": {
+      "codepoint": 57831,
+      "fontFamily": "Zmdi",
+      "identifier": "localAirport"
+    },
+    "local-atm": {
+      "codepoint": 57832,
+      "fontFamily": "Zmdi",
+      "identifier": "localAtm"
+    },
+    "local-bar": {
+      "codepoint": 57833,
+      "fontFamily": "Zmdi",
+      "identifier": "localBar"
+    },
+    "local-cafe": {
+      "codepoint": 57834,
+      "fontFamily": "Zmdi",
+      "identifier": "localCafe"
+    },
+    "local-car-wash": {
+      "codepoint": 57835,
+      "fontFamily": "Zmdi",
+      "identifier": "localCarWash"
+    },
+    "local-convenience-store": {
+      "codepoint": 57836,
+      "fontFamily": "Zmdi",
+      "identifier": "localConvenienceStore"
+    },
+    "local-dining": {
+      "codepoint": 57837,
+      "fontFamily": "Zmdi",
+      "identifier": "localDining"
+    },
+    "local-drink": {
+      "codepoint": 57838,
+      "fontFamily": "Zmdi",
+      "identifier": "localDrink"
+    },
+    "local-florist": {
+      "codepoint": 57839,
+      "fontFamily": "Zmdi",
+      "identifier": "localFlorist"
+    },
+    "local-gas-station": {
+      "codepoint": 57840,
+      "fontFamily": "Zmdi",
+      "identifier": "localGasStation"
+    },
+    "local-grocery-store": {
+      "codepoint": 57841,
+      "fontFamily": "Zmdi",
+      "identifier": "localGroceryStore"
+    },
+    "local-hospital": {
+      "codepoint": 57842,
+      "fontFamily": "Zmdi",
+      "identifier": "localHospital"
+    },
+    "local-hotel": {
+      "codepoint": 57843,
+      "fontFamily": "Zmdi",
+      "identifier": "localHotel"
+    },
+    "local-laundry-service": {
+      "codepoint": 57844,
+      "fontFamily": "Zmdi",
+      "identifier": "localLaundryService"
+    },
+    "local-library": {
+      "codepoint": 57845,
+      "fontFamily": "Zmdi",
+      "identifier": "localLibrary"
+    },
+    "local-mall": {
+      "codepoint": 57846,
+      "fontFamily": "Zmdi",
+      "identifier": "localMall"
+    },
+    "local-movies": {
+      "codepoint": 57847,
+      "fontFamily": "Zmdi",
+      "identifier": "localMovies"
+    },
+    "local-offer": {
+      "codepoint": 57848,
+      "fontFamily": "Zmdi",
+      "identifier": "localOffer"
+    },
+    "local-parking": {
+      "codepoint": 57849,
+      "fontFamily": "Zmdi",
+      "identifier": "localParking"
+    },
+    "local-pharmacy": {
+      "codepoint": 57850,
+      "fontFamily": "Zmdi",
+      "identifier": "localPharmacy"
+    },
+    "local-phone": {
+      "codepoint": 57851,
+      "fontFamily": "Zmdi",
+      "identifier": "localPhone"
+    },
+    "local-pizza": {
+      "codepoint": 57852,
+      "fontFamily": "Zmdi",
+      "identifier": "localPizza"
+    },
+    "local-play": {
+      "codepoint": 57853,
+      "fontFamily": "Zmdi",
+      "identifier": "localPlay"
+    },
+    "local-post-office": {
+      "codepoint": 57854,
+      "fontFamily": "Zmdi",
+      "identifier": "localPostOffice"
+    },
+    "local-printshop": {
+      "codepoint": 57855,
+      "fontFamily": "Zmdi",
+      "identifier": "localPrintshop"
+    },
+    "local-see": {
+      "codepoint": 57856,
+      "fontFamily": "Zmdi",
+      "identifier": "localSee"
+    },
+    "local-shipping": {
+      "codepoint": 57857,
+      "fontFamily": "Zmdi",
+      "identifier": "localShipping"
+    },
+    "local-store": {
+      "codepoint": 57858,
+      "fontFamily": "Zmdi",
+      "identifier": "localStore"
+    },
+    "local-taxi": {
+      "codepoint": 57859,
+      "fontFamily": "Zmdi",
+      "identifier": "localTaxi"
+    },
+    "local-wc": {
+      "codepoint": 57860,
+      "fontFamily": "Zmdi",
+      "identifier": "localWc"
+    },
+    "lock": {
+      "codepoint": 57861,
+      "fontFamily": "Zmdi",
+      "identifier": "lock"
+    },
+    "lock-open": {
+      "codepoint": 57862,
+      "fontFamily": "Zmdi",
+      "identifier": "lockOpen"
+    },
+    "lock-outline": {
+      "codepoint": 57863,
+      "fontFamily": "Zmdi",
+      "identifier": "lockOutline"
+    },
+    "long-arrow-down": {
+      "codepoint": 57864,
+      "fontFamily": "Zmdi",
+      "identifier": "longArrowDown"
+    },
+    "long-arrow-left": {
+      "codepoint": 57865,
+      "fontFamily": "Zmdi",
+      "identifier": "longArrowLeft"
+    },
+    "long-arrow-return": {
+      "codepoint": 57866,
+      "fontFamily": "Zmdi",
+      "identifier": "longArrowReturn"
+    },
+    "long-arrow-right": {
+      "codepoint": 57867,
+      "fontFamily": "Zmdi",
+      "identifier": "longArrowRight"
+    },
+    "long-arrow-tab": {
+      "codepoint": 57868,
+      "fontFamily": "Zmdi",
+      "identifier": "longArrowTab"
+    },
+    "long-arrow-up": {
+      "codepoint": 57869,
+      "fontFamily": "Zmdi",
+      "identifier": "longArrowUp"
+    },
+    "looks": {
+      "codepoint": 57870,
+      "fontFamily": "Zmdi",
+      "identifier": "looks"
+    },
+    "loupe": {
+      "codepoint": 57871,
+      "fontFamily": "Zmdi",
+      "identifier": "loupe"
+    },
+    "mail-reply": {
+      "codepoint": 57872,
+      "fontFamily": "Zmdi",
+      "identifier": "mailReply"
+    },
+    "mail-reply-all": {
+      "codepoint": 57873,
+      "fontFamily": "Zmdi",
+      "identifier": "mailReplyAll"
+    },
+    "mail-send": {
+      "codepoint": 57874,
+      "fontFamily": "Zmdi",
+      "identifier": "mailSend"
+    },
+    "male": {
+      "codepoint": 57875,
+      "fontFamily": "Zmdi",
+      "identifier": "male"
+    },
+    "male-alt": {
+      "codepoint": 57876,
+      "fontFamily": "Zmdi",
+      "identifier": "maleAlt"
+    },
+    "male-female": {
+      "codepoint": 57877,
+      "fontFamily": "Zmdi",
+      "identifier": "maleFemale"
+    },
+    "mall": {
+      "codepoint": 57878,
+      "fontFamily": "Zmdi",
+      "identifier": "mall"
+    },
+    "map": {
+      "codepoint": 57879,
+      "fontFamily": "Zmdi",
+      "identifier": "map"
+    },
+    "markunread-mailbox": {
+      "codepoint": 57880,
+      "fontFamily": "Zmdi",
+      "identifier": "markunreadMailbox"
+    },
+    "memory": {
+      "codepoint": 57881,
+      "fontFamily": "Zmdi",
+      "identifier": "memory"
+    },
+    "menu": {
+      "codepoint": 57882,
+      "fontFamily": "Zmdi",
+      "identifier": "menu"
+    },
+    "mic": {
+      "codepoint": 57883,
+      "fontFamily": "Zmdi",
+      "identifier": "mic"
+    },
+    "mic-off": {
+      "codepoint": 57884,
+      "fontFamily": "Zmdi",
+      "identifier": "micOff"
+    },
+    "mic-outline": {
+      "codepoint": 57885,
+      "fontFamily": "Zmdi",
+      "identifier": "micOutline"
+    },
+    "mic-setting": {
+      "codepoint": 57886,
+      "fontFamily": "Zmdi",
+      "identifier": "micSetting"
+    },
+    "minus": {
+      "codepoint": 57887,
+      "fontFamily": "Zmdi",
+      "identifier": "minus"
+    },
+    "minus-circle": {
+      "codepoint": 57888,
+      "fontFamily": "Zmdi",
+      "identifier": "minusCircle"
+    },
+    "minus-circle-outline": {
+      "codepoint": 57889,
+      "fontFamily": "Zmdi",
+      "identifier": "minusCircleOutline"
+    },
+    "minus-square": {
+      "codepoint": 57890,
+      "fontFamily": "Zmdi",
+      "identifier": "minusSquare"
+    },
+    "money": {
+      "codepoint": 57891,
+      "fontFamily": "Zmdi",
+      "identifier": "money"
+    },
+    "money-box": {
+      "codepoint": 57892,
+      "fontFamily": "Zmdi",
+      "identifier": "moneyBox"
+    },
+    "money-off": {
+      "codepoint": 57893,
+      "fontFamily": "Zmdi",
+      "identifier": "moneyOff"
+    },
+    "mood": {
+      "codepoint": 57894,
+      "fontFamily": "Zmdi",
+      "identifier": "mood"
+    },
+    "mood-bad": {
+      "codepoint": 57895,
+      "fontFamily": "Zmdi",
+      "identifier": "moodBad"
+    },
+    "more": {
+      "codepoint": 57896,
+      "fontFamily": "Zmdi",
+      "identifier": "more"
+    },
+    "more-horiz": {
+      "codepoint": 57897,
+      "fontFamily": "Zmdi",
+      "identifier": "moreHoriz"
+    },
+    "more-vert": {
+      "codepoint": 57898,
+      "fontFamily": "Zmdi",
+      "identifier": "moreVert"
+    },
+    "mouse": {
+      "codepoint": 57899,
+      "fontFamily": "Zmdi",
+      "identifier": "mouse"
+    },
+    "movie": {
+      "codepoint": 57900,
+      "fontFamily": "Zmdi",
+      "identifier": "movie"
+    },
+    "movie-alt": {
+      "codepoint": 57901,
+      "fontFamily": "Zmdi",
+      "identifier": "movieAlt"
+    },
+    "my-location": {
+      "codepoint": 57902,
+      "fontFamily": "Zmdi",
+      "identifier": "myLocation"
+    },
+    "n-1-square": {
+      "codepoint": 57903,
+      "fontFamily": "Zmdi",
+      "identifier": "n1Square"
+    },
+    "n-2-square": {
+      "codepoint": 57904,
+      "fontFamily": "Zmdi",
+      "identifier": "n2Square"
+    },
+    "n-3-square": {
+      "codepoint": 57905,
+      "fontFamily": "Zmdi",
+      "identifier": "n3Square"
+    },
+    "n-4-square": {
+      "codepoint": 57906,
+      "fontFamily": "Zmdi",
+      "identifier": "n4Square"
+    },
+    "n-5-square": {
+      "codepoint": 57907,
+      "fontFamily": "Zmdi",
+      "identifier": "n5Square"
+    },
+    "n-6-square": {
+      "codepoint": 57908,
+      "fontFamily": "Zmdi",
+      "identifier": "n6Square"
+    },
+    "nature": {
+      "codepoint": 57909,
+      "fontFamily": "Zmdi",
+      "identifier": "nature"
+    },
+    "nature-people": {
+      "codepoint": 57910,
+      "fontFamily": "Zmdi",
+      "identifier": "naturePeople"
+    },
+    "navigation": {
+      "codepoint": 57911,
+      "fontFamily": "Zmdi",
+      "identifier": "navigation"
+    },
+    "neg-1": {
+      "codepoint": 57912,
+      "fontFamily": "Zmdi",
+      "identifier": "neg1"
+    },
+    "neg-2": {
+      "codepoint": 57913,
+      "fontFamily": "Zmdi",
+      "identifier": "neg2"
+    },
+    "network": {
+      "codepoint": 57914,
+      "fontFamily": "Zmdi",
+      "identifier": "network"
+    },
+    "network-alert": {
+      "codepoint": 57915,
+      "fontFamily": "Zmdi",
+      "identifier": "networkAlert"
+    },
+    "network-locked": {
+      "codepoint": 57916,
+      "fontFamily": "Zmdi",
+      "identifier": "networkLocked"
+    },
+    "network-off": {
+      "codepoint": 57917,
+      "fontFamily": "Zmdi",
+      "identifier": "networkOff"
+    },
+    "network-outline": {
+      "codepoint": 57918,
+      "fontFamily": "Zmdi",
+      "identifier": "networkOutline"
+    },
+    "network-setting": {
+      "codepoint": 57919,
+      "fontFamily": "Zmdi",
+      "identifier": "networkSetting"
+    },
+    "network-warning": {
+      "codepoint": 57920,
+      "fontFamily": "Zmdi",
+      "identifier": "networkWarning"
+    },
+    "network-wifi": {
+      "codepoint": 57921,
+      "fontFamily": "Zmdi",
+      "identifier": "networkWifi"
+    },
+    "network-wifi-alt": {
+      "codepoint": 57922,
+      "fontFamily": "Zmdi",
+      "identifier": "networkWifiAlt"
+    },
+    "network-wifi-info": {
+      "codepoint": 57923,
+      "fontFamily": "Zmdi",
+      "identifier": "networkWifiInfo"
+    },
+    "network-wifi-lock": {
+      "codepoint": 57924,
+      "fontFamily": "Zmdi",
+      "identifier": "networkWifiLock"
+    },
+    "network-wifi-off": {
+      "codepoint": 57925,
+      "fontFamily": "Zmdi",
+      "identifier": "networkWifiOff"
+    },
+    "network-wifi-outline": {
+      "codepoint": 57926,
+      "fontFamily": "Zmdi",
+      "identifier": "networkWifiOutline"
+    },
+    "network-wifi-scan": {
+      "codepoint": 57927,
+      "fontFamily": "Zmdi",
+      "identifier": "networkWifiScan"
+    },
+    "nfc": {
+      "codepoint": 57928,
+      "fontFamily": "Zmdi",
+      "identifier": "nfc"
+    },
+    "notifications": {
+      "codepoint": 57929,
+      "fontFamily": "Zmdi",
+      "identifier": "notifications"
+    },
+    "notifications-active": {
+      "codepoint": 57930,
+      "fontFamily": "Zmdi",
+      "identifier": "notificationsActive"
+    },
+    "notifications-add": {
+      "codepoint": 57931,
+      "fontFamily": "Zmdi",
+      "identifier": "notificationsAdd"
+    },
+    "notifications-none": {
+      "codepoint": 57932,
+      "fontFamily": "Zmdi",
+      "identifier": "notificationsNone"
+    },
+    "notifications-off": {
+      "codepoint": 57933,
+      "fontFamily": "Zmdi",
+      "identifier": "notificationsOff"
+    },
+    "notifications-paused": {
+      "codepoint": 57934,
+      "fontFamily": "Zmdi",
+      "identifier": "notificationsPaused"
+    },
+    "odnoklassniki": {
+      "codepoint": 57935,
+      "fontFamily": "Zmdi",
+      "identifier": "odnoklassniki"
+    },
+    "open-in-browser": {
+      "codepoint": 57936,
+      "fontFamily": "Zmdi",
+      "identifier": "openInBrowser"
+    },
+    "open-in-new": {
+      "codepoint": 57937,
+      "fontFamily": "Zmdi",
+      "identifier": "openInNew"
+    },
+    "outlook": {
+      "codepoint": 57938,
+      "fontFamily": "Zmdi",
+      "identifier": "outlook"
+    },
+    "pages": {
+      "codepoint": 57939,
+      "fontFamily": "Zmdi",
+      "identifier": "pages"
+    },
+    "palette": {
+      "codepoint": 57940,
+      "fontFamily": "Zmdi",
+      "identifier": "palette"
+    },
+    "panorama-horizontal": {
+      "codepoint": 57941,
+      "fontFamily": "Zmdi",
+      "identifier": "panoramaHorizontal"
+    },
+    "panorama-vertical": {
+      "codepoint": 57942,
+      "fontFamily": "Zmdi",
+      "identifier": "panoramaVertical"
+    },
+    "panorama-wide-angle": {
+      "codepoint": 57943,
+      "fontFamily": "Zmdi",
+      "identifier": "panoramaWideAngle"
+    },
+    "parking": {
+      "codepoint": 57944,
+      "fontFamily": "Zmdi",
+      "identifier": "parking"
+    },
+    "paste": {
+      "codepoint": 57945,
+      "fontFamily": "Zmdi",
+      "identifier": "paste"
+    },
+    "pause": {
+      "codepoint": 57946,
+      "fontFamily": "Zmdi",
+      "identifier": "pause"
+    },
+    "pause-circle": {
+      "codepoint": 57947,
+      "fontFamily": "Zmdi",
+      "identifier": "pauseCircle"
+    },
+    "pause-circle-outline": {
+      "codepoint": 57948,
+      "fontFamily": "Zmdi",
+      "identifier": "pauseCircleOutline"
+    },
+    "paypal": {
+      "codepoint": 57949,
+      "fontFamily": "Zmdi",
+      "identifier": "paypal"
+    },
+    "paypal-alt": {
+      "codepoint": 57950,
+      "fontFamily": "Zmdi",
+      "identifier": "paypalAlt"
+    },
+    "phone": {
+      "codepoint": 57951,
+      "fontFamily": "Zmdi",
+      "identifier": "phone"
+    },
+    "phone-bluetooth": {
+      "codepoint": 57952,
+      "fontFamily": "Zmdi",
+      "identifier": "phoneBluetooth"
+    },
+    "phone-end": {
+      "codepoint": 57953,
+      "fontFamily": "Zmdi",
+      "identifier": "phoneEnd"
+    },
+    "phone-forwarded": {
+      "codepoint": 57954,
+      "fontFamily": "Zmdi",
+      "identifier": "phoneForwarded"
+    },
+    "phone-in-talk": {
+      "codepoint": 57955,
+      "fontFamily": "Zmdi",
+      "identifier": "phoneInTalk"
+    },
+    "phone-locked": {
+      "codepoint": 57956,
+      "fontFamily": "Zmdi",
+      "identifier": "phoneLocked"
+    },
+    "phone-missed": {
+      "codepoint": 57957,
+      "fontFamily": "Zmdi",
+      "identifier": "phoneMissed"
+    },
+    "phone-msg": {
+      "codepoint": 57958,
+      "fontFamily": "Zmdi",
+      "identifier": "phoneMsg"
+    },
+    "phone-paused": {
+      "codepoint": 57959,
+      "fontFamily": "Zmdi",
+      "identifier": "phonePaused"
+    },
+    "phone-ring": {
+      "codepoint": 57960,
+      "fontFamily": "Zmdi",
+      "identifier": "phoneRing"
+    },
+    "phone-setting": {
+      "codepoint": 57961,
+      "fontFamily": "Zmdi",
+      "identifier": "phoneSetting"
+    },
+    "phone-sip": {
+      "codepoint": 57962,
+      "fontFamily": "Zmdi",
+      "identifier": "phoneSip"
+    },
+    "photo-size-select-large": {
+      "codepoint": 57963,
+      "fontFamily": "Zmdi",
+      "identifier": "photoSizeSelectLarge"
+    },
+    "photo-size-select-small": {
+      "codepoint": 57964,
+      "fontFamily": "Zmdi",
+      "identifier": "photoSizeSelectSmall"
+    },
+    "picture-in-picture": {
+      "codepoint": 57965,
+      "fontFamily": "Zmdi",
+      "identifier": "pictureInPicture"
+    },
+    "pin": {
+      "codepoint": 57966,
+      "fontFamily": "Zmdi",
+      "identifier": "pin"
+    },
+    "pin-account": {
+      "codepoint": 57967,
+      "fontFamily": "Zmdi",
+      "identifier": "pinAccount"
+    },
+    "pin-assistant": {
+      "codepoint": 57968,
+      "fontFamily": "Zmdi",
+      "identifier": "pinAssistant"
+    },
+    "pin-drop": {
+      "codepoint": 57969,
+      "fontFamily": "Zmdi",
+      "identifier": "pinDrop"
+    },
+    "pin-help": {
+      "codepoint": 57970,
+      "fontFamily": "Zmdi",
+      "identifier": "pinHelp"
+    },
+    "pin-off": {
+      "codepoint": 57971,
+      "fontFamily": "Zmdi",
+      "identifier": "pinOff"
+    },
+    "pinterest": {
+      "codepoint": 57972,
+      "fontFamily": "Zmdi",
+      "identifier": "pinterest"
+    },
+    "pinterest-box": {
+      "codepoint": 57973,
+      "fontFamily": "Zmdi",
+      "identifier": "pinterestBox"
+    },
+    "pizza": {
+      "codepoint": 57974,
+      "fontFamily": "Zmdi",
+      "identifier": "pizza"
+    },
+    "plaster": {
+      "codepoint": 57975,
+      "fontFamily": "Zmdi",
+      "identifier": "plaster"
+    },
+    "play": {
+      "codepoint": 57976,
+      "fontFamily": "Zmdi",
+      "identifier": "play"
+    },
+    "play-circle": {
+      "codepoint": 57977,
+      "fontFamily": "Zmdi",
+      "identifier": "playCircle"
+    },
+    "play-circle-outline": {
+      "codepoint": 57978,
+      "fontFamily": "Zmdi",
+      "identifier": "playCircleOutline"
+    },
+    "play-for-work": {
+      "codepoint": 57979,
+      "fontFamily": "Zmdi",
+      "identifier": "playForWork"
+    },
+    "playlist-audio": {
+      "codepoint": 57980,
+      "fontFamily": "Zmdi",
+      "identifier": "playlistAudio"
+    },
+    "playlist-plus": {
+      "codepoint": 57981,
+      "fontFamily": "Zmdi",
+      "identifier": "playlistPlus"
+    },
+    "playstation": {
+      "codepoint": 57982,
+      "fontFamily": "Zmdi",
+      "identifier": "playstation"
+    },
+    "plus": {
+      "codepoint": 57983,
+      "fontFamily": "Zmdi",
+      "identifier": "plus"
+    },
+    "plus-1": {
+      "codepoint": 57984,
+      "fontFamily": "Zmdi",
+      "identifier": "plus1"
+    },
+    "plus-2": {
+      "codepoint": 57985,
+      "fontFamily": "Zmdi",
+      "identifier": "plus2"
+    },
+    "plus-box": {
+      "codepoint": 57986,
+      "fontFamily": "Zmdi",
+      "identifier": "plusBox"
+    },
+    "plus-circle": {
+      "codepoint": 57987,
+      "fontFamily": "Zmdi",
+      "identifier": "plusCircle"
+    },
+    "plus-circle-o": {
+      "codepoint": 57988,
+      "fontFamily": "Zmdi",
+      "identifier": "plusCircleO"
+    },
+    "plus-circle-o-duplicate": {
+      "codepoint": 57989,
+      "fontFamily": "Zmdi",
+      "identifier": "plusCircleODuplicate"
+    },
+    "plus-square": {
+      "codepoint": 57990,
+      "fontFamily": "Zmdi",
+      "identifier": "plusSquare"
+    },
+    "pocket": {
+      "codepoint": 57991,
+      "fontFamily": "Zmdi",
+      "identifier": "pocket"
+    },
+    "polymer": {
+      "codepoint": 57992,
+      "fontFamily": "Zmdi",
+      "identifier": "polymer"
+    },
+    "portable-wifi": {
+      "codepoint": 57993,
+      "fontFamily": "Zmdi",
+      "identifier": "portableWifi"
+    },
+    "portable-wifi-changes": {
+      "codepoint": 57994,
+      "fontFamily": "Zmdi",
+      "identifier": "portableWifiChanges"
+    },
+    "portable-wifi-off": {
+      "codepoint": 57995,
+      "fontFamily": "Zmdi",
+      "identifier": "portableWifiOff"
+    },
+    "power": {
+      "codepoint": 57996,
+      "fontFamily": "Zmdi",
+      "identifier": "power"
+    },
+    "power-input": {
+      "codepoint": 57997,
+      "fontFamily": "Zmdi",
+      "identifier": "powerInput"
+    },
+    "power-off": {
+      "codepoint": 57998,
+      "fontFamily": "Zmdi",
+      "identifier": "powerOff"
+    },
+    "power-off-setting": {
+      "codepoint": 57999,
+      "fontFamily": "Zmdi",
+      "identifier": "powerOffSetting"
+    },
+    "power-setting": {
+      "codepoint": 58000,
+      "fontFamily": "Zmdi",
+      "identifier": "powerSetting"
+    },
+    "present-to-all": {
+      "codepoint": 58001,
+      "fontFamily": "Zmdi",
+      "identifier": "presentToAll"
+    },
+    "print": {
+      "codepoint": 58002,
+      "fontFamily": "Zmdi",
+      "identifier": "print"
+    },
+    "puzzle-piece": {
+      "codepoint": 58003,
+      "fontFamily": "Zmdi",
+      "identifier": "puzzlePiece"
+    },
+    "quote": {
+      "codepoint": 58004,
+      "fontFamily": "Zmdi",
+      "identifier": "quote"
+    },
+    "radio": {
+      "codepoint": 58005,
+      "fontFamily": "Zmdi",
+      "identifier": "radio"
+    },
+    "railway": {
+      "codepoint": 58006,
+      "fontFamily": "Zmdi",
+      "identifier": "railway"
+    },
+    "rate-review": {
+      "codepoint": 58007,
+      "fontFamily": "Zmdi",
+      "identifier": "rateReview"
+    },
+    "reader": {
+      "codepoint": 58008,
+      "fontFamily": "Zmdi",
+      "identifier": "reader"
+    },
+    "receipt": {
+      "codepoint": 58009,
+      "fontFamily": "Zmdi",
+      "identifier": "receipt"
+    },
+    "reddit": {
+      "codepoint": 58010,
+      "fontFamily": "Zmdi",
+      "identifier": "reddit"
+    },
+    "redo": {
+      "codepoint": 58011,
+      "fontFamily": "Zmdi",
+      "identifier": "redo"
+    },
+    "refresh": {
+      "codepoint": 58012,
+      "fontFamily": "Zmdi",
+      "identifier": "refresh"
+    },
+    "refresh-alt": {
+      "codepoint": 58013,
+      "fontFamily": "Zmdi",
+      "identifier": "refreshAlt"
+    },
+    "refresh-sync": {
+      "codepoint": 58014,
+      "fontFamily": "Zmdi",
+      "identifier": "refreshSync"
+    },
+    "refresh-sync-alert": {
+      "codepoint": 58015,
+      "fontFamily": "Zmdi",
+      "identifier": "refreshSyncAlert"
+    },
+    "refresh-sync-disabled": {
+      "codepoint": 58016,
+      "fontFamily": "Zmdi",
+      "identifier": "refreshSyncDisabled"
+    },
+    "refresh-sync-off": {
+      "codepoint": 58017,
+      "fontFamily": "Zmdi",
+      "identifier": "refreshSyncOff"
+    },
+    "refresh-sync-problem": {
+      "codepoint": 58018,
+      "fontFamily": "Zmdi",
+      "identifier": "refreshSyncProblem"
+    },
+    "remote-control": {
+      "codepoint": 58019,
+      "fontFamily": "Zmdi",
+      "identifier": "remoteControl"
+    },
+    "remote-control-alt": {
+      "codepoint": 58020,
+      "fontFamily": "Zmdi",
+      "identifier": "remoteControlAlt"
+    },
+    "reorder": {
+      "codepoint": 58021,
+      "fontFamily": "Zmdi",
+      "identifier": "reorder"
+    },
+    "repeat": {
+      "codepoint": 58022,
+      "fontFamily": "Zmdi",
+      "identifier": "repeat"
+    },
+    "repeat-one": {
+      "codepoint": 58023,
+      "fontFamily": "Zmdi",
+      "identifier": "repeatOne"
+    },
+    "replay": {
+      "codepoint": 58024,
+      "fontFamily": "Zmdi",
+      "identifier": "replay"
+    },
+    "replay-10": {
+      "codepoint": 58025,
+      "fontFamily": "Zmdi",
+      "identifier": "replay10"
+    },
+    "replay-30": {
+      "codepoint": 58026,
+      "fontFamily": "Zmdi",
+      "identifier": "replay30"
+    },
+    "replay-5": {
+      "codepoint": 58027,
+      "fontFamily": "Zmdi",
+      "identifier": "replay5"
+    },
+    "roller": {
+      "codepoint": 58028,
+      "fontFamily": "Zmdi",
+      "identifier": "roller"
+    },
+    "rotate-90-degrees-ccw": {
+      "codepoint": 58029,
+      "fontFamily": "Zmdi",
+      "identifier": "rotate90DegreesCcw"
+    },
+    "rotate-ccw": {
+      "codepoint": 58030,
+      "fontFamily": "Zmdi",
+      "identifier": "rotateCcw"
+    },
+    "rotate-cw": {
+      "codepoint": 58031,
+      "fontFamily": "Zmdi",
+      "identifier": "rotateCw"
+    },
+    "rotate-left": {
+      "codepoint": 58032,
+      "fontFamily": "Zmdi",
+      "identifier": "rotateLeft"
+    },
+    "rotate-right": {
+      "codepoint": 58033,
+      "fontFamily": "Zmdi",
+      "identifier": "rotateRight"
+    },
+    "router": {
+      "codepoint": 58034,
+      "fontFamily": "Zmdi",
+      "identifier": "router"
+    },
+    "rss": {
+      "codepoint": 58035,
+      "fontFamily": "Zmdi",
+      "identifier": "rss"
+    },
+    "ruler": {
+      "codepoint": 58036,
+      "fontFamily": "Zmdi",
+      "identifier": "ruler"
+    },
+    "run": {
+      "codepoint": 58037,
+      "fontFamily": "Zmdi",
+      "identifier": "run"
+    },
+    "satellite": {
+      "codepoint": 58038,
+      "fontFamily": "Zmdi",
+      "identifier": "satellite"
+    },
+    "save": {
+      "codepoint": 58039,
+      "fontFamily": "Zmdi",
+      "identifier": "save"
+    },
+    "scanner": {
+      "codepoint": 58040,
+      "fontFamily": "Zmdi",
+      "identifier": "scanner"
+    },
+    "scissors": {
+      "codepoint": 58041,
+      "fontFamily": "Zmdi",
+      "identifier": "scissors"
+    },
+    "screen-rotation": {
+      "codepoint": 58042,
+      "fontFamily": "Zmdi",
+      "identifier": "screenRotation"
+    },
+    "screen-rotation-lock": {
+      "codepoint": 58043,
+      "fontFamily": "Zmdi",
+      "identifier": "screenRotationLock"
+    },
+    "search": {
+      "codepoint": 58044,
+      "fontFamily": "Zmdi",
+      "identifier": "search"
+    },
+    "search-for": {
+      "codepoint": 58045,
+      "fontFamily": "Zmdi",
+      "identifier": "searchFor"
+    },
+    "search-in-file": {
+      "codepoint": 58046,
+      "fontFamily": "Zmdi",
+      "identifier": "searchInFile"
+    },
+    "search-in-page": {
+      "codepoint": 58047,
+      "fontFamily": "Zmdi",
+      "identifier": "searchInPage"
+    },
+    "search-replace": {
+      "codepoint": 58048,
+      "fontFamily": "Zmdi",
+      "identifier": "searchReplace"
+    },
+    "seat": {
+      "codepoint": 58049,
+      "fontFamily": "Zmdi",
+      "identifier": "seat"
+    },
+    "sec-10": {
+      "codepoint": 58050,
+      "fontFamily": "Zmdi",
+      "identifier": "sec10"
+    },
+    "sec-3": {
+      "codepoint": 58051,
+      "fontFamily": "Zmdi",
+      "identifier": "sec3"
+    },
+    "select-all": {
+      "codepoint": 58052,
+      "fontFamily": "Zmdi",
+      "identifier": "selectAll"
+    },
+    "settings": {
+      "codepoint": 58053,
+      "fontFamily": "Zmdi",
+      "identifier": "settings"
+    },
+    "settings-square": {
+      "codepoint": 58054,
+      "fontFamily": "Zmdi",
+      "identifier": "settingsSquare"
+    },
+    "shape": {
+      "codepoint": 58055,
+      "fontFamily": "Zmdi",
+      "identifier": "shape"
+    },
+    "share": {
+      "codepoint": 58056,
+      "fontFamily": "Zmdi",
+      "identifier": "share"
+    },
+    "shield-check": {
+      "codepoint": 58057,
+      "fontFamily": "Zmdi",
+      "identifier": "shieldCheck"
+    },
+    "shield-security": {
+      "codepoint": 58058,
+      "fontFamily": "Zmdi",
+      "identifier": "shieldSecurity"
+    },
+    "shopping-basket": {
+      "codepoint": 58059,
+      "fontFamily": "Zmdi",
+      "identifier": "shoppingBasket"
+    },
+    "shopping-cart": {
+      "codepoint": 58060,
+      "fontFamily": "Zmdi",
+      "identifier": "shoppingCart"
+    },
+    "shopping-cart-add": {
+      "codepoint": 58061,
+      "fontFamily": "Zmdi",
+      "identifier": "shoppingCartAdd"
+    },
+    "shopping-cart-plus": {
+      "codepoint": 58062,
+      "fontFamily": "Zmdi",
+      "identifier": "shoppingCartPlus"
+    },
+    "shuffle": {
+      "codepoint": 58063,
+      "fontFamily": "Zmdi",
+      "identifier": "shuffle"
+    },
+    "sign-in": {
+      "codepoint": 58064,
+      "fontFamily": "Zmdi",
+      "identifier": "signIn"
+    },
+    "skip-next": {
+      "codepoint": 58065,
+      "fontFamily": "Zmdi",
+      "identifier": "skipNext"
+    },
+    "skip-previous": {
+      "codepoint": 58066,
+      "fontFamily": "Zmdi",
+      "identifier": "skipPrevious"
+    },
+    "skype": {
+      "codepoint": 58067,
+      "fontFamily": "Zmdi",
+      "identifier": "skype"
+    },
+    "slideshare": {
+      "codepoint": 58068,
+      "fontFamily": "Zmdi",
+      "identifier": "slideshare"
+    },
+    "slideshow": {
+      "codepoint": 58069,
+      "fontFamily": "Zmdi",
+      "identifier": "slideshow"
+    },
+    "smartphone": {
+      "codepoint": 58070,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphone"
+    },
+    "smartphone-android": {
+      "codepoint": 58071,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphoneAndroid"
+    },
+    "smartphone-code": {
+      "codepoint": 58072,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphoneCode"
+    },
+    "smartphone-download": {
+      "codepoint": 58073,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphoneDownload"
+    },
+    "smartphone-erase": {
+      "codepoint": 58074,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphoneErase"
+    },
+    "smartphone-info": {
+      "codepoint": 58075,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphoneInfo"
+    },
+    "smartphone-iphone": {
+      "codepoint": 58076,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphoneIphone"
+    },
+    "smartphone-landscape": {
+      "codepoint": 58077,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphoneLandscape"
+    },
+    "smartphone-landscape-lock": {
+      "codepoint": 58078,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphoneLandscapeLock"
+    },
+    "smartphone-lock": {
+      "codepoint": 58079,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphoneLock"
+    },
+    "smartphone-portrait": {
+      "codepoint": 58080,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphonePortrait"
+    },
+    "smartphone-portrait-lock": {
+      "codepoint": 58081,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphonePortraitLock"
+    },
+    "smartphone-ring": {
+      "codepoint": 58082,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphoneRing"
+    },
+    "smartphone-setting": {
+      "codepoint": 58083,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphoneSetting"
+    },
+    "smartphone-setup": {
+      "codepoint": 58084,
+      "fontFamily": "Zmdi",
+      "identifier": "smartphoneSetup"
+    },
+    "sort": {
+      "codepoint": 58085,
+      "fontFamily": "Zmdi",
+      "identifier": "sort"
+    },
+    "sort-amount-asc": {
+      "codepoint": 58086,
+      "fontFamily": "Zmdi",
+      "identifier": "sortAmountAsc"
+    },
+    "sort-amount-desc": {
+      "codepoint": 58087,
+      "fontFamily": "Zmdi",
+      "identifier": "sortAmountDesc"
+    },
+    "sort-asc": {
+      "codepoint": 58088,
+      "fontFamily": "Zmdi",
+      "identifier": "sortAsc"
+    },
+    "sort-by-alpha": {
+      "codepoint": 58089,
+      "fontFamily": "Zmdi",
+      "identifier": "sortByAlpha"
+    },
+    "sort-desc": {
+      "codepoint": 58090,
+      "fontFamily": "Zmdi",
+      "identifier": "sortDesc"
+    },
+    "soundcloud": {
+      "codepoint": 58091,
+      "fontFamily": "Zmdi",
+      "identifier": "soundcloud"
+    },
+    "space-bar": {
+      "codepoint": 58092,
+      "fontFamily": "Zmdi",
+      "identifier": "spaceBar"
+    },
+    "speaker": {
+      "codepoint": 58093,
+      "fontFamily": "Zmdi",
+      "identifier": "speaker"
+    },
+    "spellcheck": {
+      "codepoint": 58094,
+      "fontFamily": "Zmdi",
+      "identifier": "spellcheck"
+    },
+    "spinner": {
+      "codepoint": 58095,
+      "fontFamily": "Zmdi",
+      "identifier": "spinner"
+    },
+    "square-down": {
+      "codepoint": 58096,
+      "fontFamily": "Zmdi",
+      "identifier": "squareDown"
+    },
+    "square-o": {
+      "codepoint": 58097,
+      "fontFamily": "Zmdi",
+      "identifier": "squareO"
+    },
+    "square-right": {
+      "codepoint": 58098,
+      "fontFamily": "Zmdi",
+      "identifier": "squareRight"
+    },
+    "stack-overflow": {
+      "codepoint": 58099,
+      "fontFamily": "Zmdi",
+      "identifier": "stackOverflow"
+    },
+    "stackoverflow": {
+      "codepoint": 58100,
+      "fontFamily": "Zmdi",
+      "identifier": "stackoverflow"
+    },
+    "star": {
+      "codepoint": 58101,
+      "fontFamily": "Zmdi",
+      "identifier": "star"
+    },
+    "star-border": {
+      "codepoint": 58102,
+      "fontFamily": "Zmdi",
+      "identifier": "starBorder"
+    },
+    "star-circle": {
+      "codepoint": 58103,
+      "fontFamily": "Zmdi",
+      "identifier": "starCircle"
+    },
+    "star-half": {
+      "codepoint": 58104,
+      "fontFamily": "Zmdi",
+      "identifier": "starHalf"
+    },
+    "star-outline": {
+      "codepoint": 58105,
+      "fontFamily": "Zmdi",
+      "identifier": "starOutline"
+    },
+    "steam": {
+      "codepoint": 58106,
+      "fontFamily": "Zmdi",
+      "identifier": "steam"
+    },
+    "steam-square": {
+      "codepoint": 58107,
+      "fontFamily": "Zmdi",
+      "identifier": "steamSquare"
+    },
+    "stop": {
+      "codepoint": 58108,
+      "fontFamily": "Zmdi",
+      "identifier": "stop"
+    },
+    "storage": {
+      "codepoint": 58109,
+      "fontFamily": "Zmdi",
+      "identifier": "storage"
+    },
+    "store": {
+      "codepoint": 58110,
+      "fontFamily": "Zmdi",
+      "identifier": "store"
+    },
+    "store-24": {
+      "codepoint": 58111,
+      "fontFamily": "Zmdi",
+      "identifier": "store24"
+    },
+    "subway": {
+      "codepoint": 58112,
+      "fontFamily": "Zmdi",
+      "identifier": "subway"
+    },
+    "sun": {
+      "codepoint": 58113,
+      "fontFamily": "Zmdi",
+      "identifier": "sun"
+    },
+    "surround-sound": {
+      "codepoint": 58114,
+      "fontFamily": "Zmdi",
+      "identifier": "surroundSound"
+    },
+    "swap": {
+      "codepoint": 58115,
+      "fontFamily": "Zmdi",
+      "identifier": "swap"
+    },
+    "swap-alt": {
+      "codepoint": 58116,
+      "fontFamily": "Zmdi",
+      "identifier": "swapAlt"
+    },
+    "swap-vertical": {
+      "codepoint": 58117,
+      "fontFamily": "Zmdi",
+      "identifier": "swapVertical"
+    },
+    "swap-vertical-circle": {
+      "codepoint": 58118,
+      "fontFamily": "Zmdi",
+      "identifier": "swapVerticalCircle"
+    },
+    "tab": {
+      "codepoint": 58119,
+      "fontFamily": "Zmdi",
+      "identifier": "tab"
+    },
+    "tab-unselected": {
+      "codepoint": 58120,
+      "fontFamily": "Zmdi",
+      "identifier": "tabUnselected"
+    },
+    "tablet": {
+      "codepoint": 58121,
+      "fontFamily": "Zmdi",
+      "identifier": "tablet"
+    },
+    "tablet-android": {
+      "codepoint": 58122,
+      "fontFamily": "Zmdi",
+      "identifier": "tabletAndroid"
+    },
+    "tablet-mac": {
+      "codepoint": 58123,
+      "fontFamily": "Zmdi",
+      "identifier": "tabletMac"
+    },
+    "tag": {
+      "codepoint": 58124,
+      "fontFamily": "Zmdi",
+      "identifier": "tag"
+    },
+    "tag-backspace": {
+      "codepoint": 58125,
+      "fontFamily": "Zmdi",
+      "identifier": "tagBackspace"
+    },
+    "tag-close": {
+      "codepoint": 58126,
+      "fontFamily": "Zmdi",
+      "identifier": "tagClose"
+    },
+    "tag-more": {
+      "codepoint": 58127,
+      "fontFamily": "Zmdi",
+      "identifier": "tagMore"
+    },
+    "tap-and-play": {
+      "codepoint": 58128,
+      "fontFamily": "Zmdi",
+      "identifier": "tapAndPlay"
+    },
+    "text-format": {
+      "codepoint": 58129,
+      "fontFamily": "Zmdi",
+      "identifier": "textFormat"
+    },
+    "texture": {
+      "codepoint": 58130,
+      "fontFamily": "Zmdi",
+      "identifier": "texture"
+    },
+    "thumb-down": {
+      "codepoint": 58131,
+      "fontFamily": "Zmdi",
+      "identifier": "thumbDown"
+    },
+    "thumb-up": {
+      "codepoint": 58132,
+      "fontFamily": "Zmdi",
+      "identifier": "thumbUp"
+    },
+    "thumb-up-down": {
+      "codepoint": 58133,
+      "fontFamily": "Zmdi",
+      "identifier": "thumbUpDown"
+    },
+    "ticket-star": {
+      "codepoint": 58134,
+      "fontFamily": "Zmdi",
+      "identifier": "ticketStar"
+    },
+    "time": {
+      "codepoint": 58135,
+      "fontFamily": "Zmdi",
+      "identifier": "time"
+    },
+    "time-countdown": {
+      "codepoint": 58136,
+      "fontFamily": "Zmdi",
+      "identifier": "timeCountdown"
+    },
+    "time-interval": {
+      "codepoint": 58137,
+      "fontFamily": "Zmdi",
+      "identifier": "timeInterval"
+    },
+    "time-restore": {
+      "codepoint": 58138,
+      "fontFamily": "Zmdi",
+      "identifier": "timeRestore"
+    },
+    "time-restore-setting": {
+      "codepoint": 58139,
+      "fontFamily": "Zmdi",
+      "identifier": "timeRestoreSetting"
+    },
+    "timer": {
+      "codepoint": 58140,
+      "fontFamily": "Zmdi",
+      "identifier": "timer"
+    },
+    "timer-off": {
+      "codepoint": 58141,
+      "fontFamily": "Zmdi",
+      "identifier": "timerOff"
+    },
+    "toll": {
+      "codepoint": 58142,
+      "fontFamily": "Zmdi",
+      "identifier": "toll"
+    },
+    "tonality": {
+      "codepoint": 58143,
+      "fontFamily": "Zmdi",
+      "identifier": "tonality"
+    },
+    "toys": {
+      "codepoint": 58144,
+      "fontFamily": "Zmdi",
+      "identifier": "toys"
+    },
+    "traffic": {
+      "codepoint": 58145,
+      "fontFamily": "Zmdi",
+      "identifier": "traffic"
+    },
+    "transform": {
+      "codepoint": 58146,
+      "fontFamily": "Zmdi",
+      "identifier": "transform"
+    },
+    "translate": {
+      "codepoint": 58147,
+      "fontFamily": "Zmdi",
+      "identifier": "translate"
+    },
+    "trending-down": {
+      "codepoint": 58148,
+      "fontFamily": "Zmdi",
+      "identifier": "trendingDown"
+    },
+    "trending-flat": {
+      "codepoint": 58149,
+      "fontFamily": "Zmdi",
+      "identifier": "trendingFlat"
+    },
+    "trending-up": {
+      "codepoint": 58150,
+      "fontFamily": "Zmdi",
+      "identifier": "trendingUp"
+    },
+    "triangle-down": {
+      "codepoint": 58151,
+      "fontFamily": "Zmdi",
+      "identifier": "triangleDown"
+    },
+    "triangle-up": {
+      "codepoint": 58152,
+      "fontFamily": "Zmdi",
+      "identifier": "triangleUp"
+    },
+    "truck": {
+      "codepoint": 58153,
+      "fontFamily": "Zmdi",
+      "identifier": "truck"
+    },
+    "tumblr": {
+      "codepoint": 58154,
+      "fontFamily": "Zmdi",
+      "identifier": "tumblr"
+    },
+    "tune": {
+      "codepoint": 58155,
+      "fontFamily": "Zmdi",
+      "identifier": "tune"
+    },
+    "turning-sign": {
+      "codepoint": 58156,
+      "fontFamily": "Zmdi",
+      "identifier": "turningSign"
+    },
+    "tv": {
+      "codepoint": 58157,
+      "fontFamily": "Zmdi",
+      "identifier": "tv"
+    },
+    "tv-alt-play": {
+      "codepoint": 58158,
+      "fontFamily": "Zmdi",
+      "identifier": "tvAltPlay"
+    },
+    "tv-list": {
+      "codepoint": 58159,
+      "fontFamily": "Zmdi",
+      "identifier": "tvList"
+    },
+    "tv-play": {
+      "codepoint": 58160,
+      "fontFamily": "Zmdi",
+      "identifier": "tvPlay"
+    },
+    "twitch": {
+      "codepoint": 58161,
+      "fontFamily": "Zmdi",
+      "identifier": "twitch"
+    },
+    "twitter": {
+      "codepoint": 58162,
+      "fontFamily": "Zmdi",
+      "identifier": "twitter"
+    },
+    "twitter-box": {
+      "codepoint": 58163,
+      "fontFamily": "Zmdi",
+      "identifier": "twitterBox"
+    },
+    "undo": {
+      "codepoint": 58164,
+      "fontFamily": "Zmdi",
+      "identifier": "undo"
+    },
+    "unfold-less": {
+      "codepoint": 58165,
+      "fontFamily": "Zmdi",
+      "identifier": "unfoldLess"
+    },
+    "unfold-more": {
+      "codepoint": 58166,
+      "fontFamily": "Zmdi",
+      "identifier": "unfoldMore"
+    },
+    "ungroup": {
+      "codepoint": 58167,
+      "fontFamily": "Zmdi",
+      "identifier": "ungroup"
+    },
+    "upload": {
+      "codepoint": 58168,
+      "fontFamily": "Zmdi",
+      "identifier": "upload"
+    },
+    "usb": {
+      "codepoint": 58169,
+      "fontFamily": "Zmdi",
+      "identifier": "usb"
+    },
+    "vibration": {
+      "codepoint": 58170,
+      "fontFamily": "Zmdi",
+      "identifier": "vibration"
+    },
+    "videocam": {
+      "codepoint": 58171,
+      "fontFamily": "Zmdi",
+      "identifier": "videocam"
+    },
+    "videocam-off": {
+      "codepoint": 58172,
+      "fontFamily": "Zmdi",
+      "identifier": "videocamOff"
+    },
+    "videocam-switch": {
+      "codepoint": 58173,
+      "fontFamily": "Zmdi",
+      "identifier": "videocamSwitch"
+    },
+    "view-agenda": {
+      "codepoint": 58174,
+      "fontFamily": "Zmdi",
+      "identifier": "viewAgenda"
+    },
+    "view-array": {
+      "codepoint": 58175,
+      "fontFamily": "Zmdi",
+      "identifier": "viewArray"
+    },
+    "view-carousel": {
+      "codepoint": 58176,
+      "fontFamily": "Zmdi",
+      "identifier": "viewCarousel"
+    },
+    "view-column": {
+      "codepoint": 58177,
+      "fontFamily": "Zmdi",
+      "identifier": "viewColumn"
+    },
+    "view-comfy": {
+      "codepoint": 58178,
+      "fontFamily": "Zmdi",
+      "identifier": "viewComfy"
+    },
+    "view-compact": {
+      "codepoint": 58179,
+      "fontFamily": "Zmdi",
+      "identifier": "viewCompact"
+    },
+    "view-dashboard": {
+      "codepoint": 58180,
+      "fontFamily": "Zmdi",
+      "identifier": "viewDashboard"
+    },
+    "view-day": {
+      "codepoint": 58181,
+      "fontFamily": "Zmdi",
+      "identifier": "viewDay"
+    },
+    "view-headline": {
+      "codepoint": 58182,
+      "fontFamily": "Zmdi",
+      "identifier": "viewHeadline"
+    },
+    "view-list": {
+      "codepoint": 58183,
+      "fontFamily": "Zmdi",
+      "identifier": "viewList"
+    },
+    "view-list-alt": {
+      "codepoint": 58184,
+      "fontFamily": "Zmdi",
+      "identifier": "viewListAlt"
+    },
+    "view-module": {
+      "codepoint": 58185,
+      "fontFamily": "Zmdi",
+      "identifier": "viewModule"
+    },
+    "view-quilt": {
+      "codepoint": 58186,
+      "fontFamily": "Zmdi",
+      "identifier": "viewQuilt"
+    },
+    "view-stream": {
+      "codepoint": 58187,
+      "fontFamily": "Zmdi",
+      "identifier": "viewStream"
+    },
+    "view-subtitles": {
+      "codepoint": 58188,
+      "fontFamily": "Zmdi",
+      "identifier": "viewSubtitles"
+    },
+    "view-toc": {
+      "codepoint": 58189,
+      "fontFamily": "Zmdi",
+      "identifier": "viewToc"
+    },
+    "view-web": {
+      "codepoint": 58190,
+      "fontFamily": "Zmdi",
+      "identifier": "viewWeb"
+    },
+    "view-week": {
+      "codepoint": 58191,
+      "fontFamily": "Zmdi",
+      "identifier": "viewWeek"
+    },
+    "vignette": {
+      "codepoint": 58192,
+      "fontFamily": "Zmdi",
+      "identifier": "vignette"
+    },
+    "vimeo": {
+      "codepoint": 58193,
+      "fontFamily": "Zmdi",
+      "identifier": "vimeo"
+    },
+    "vk": {
+      "codepoint": 58194,
+      "fontFamily": "Zmdi",
+      "identifier": "vk"
+    },
+    "voicemail": {
+      "codepoint": 58195,
+      "fontFamily": "Zmdi",
+      "identifier": "voicemail"
+    },
+    "volume-down": {
+      "codepoint": 58196,
+      "fontFamily": "Zmdi",
+      "identifier": "volumeDown"
+    },
+    "volume-mute": {
+      "codepoint": 58197,
+      "fontFamily": "Zmdi",
+      "identifier": "volumeMute"
+    },
+    "volume-off": {
+      "codepoint": 58198,
+      "fontFamily": "Zmdi",
+      "identifier": "volumeOff"
+    },
+    "volume-up": {
+      "codepoint": 58199,
+      "fontFamily": "Zmdi",
+      "identifier": "volumeUp"
+    },
+    "walk": {
+      "codepoint": 58200,
+      "fontFamily": "Zmdi",
+      "identifier": "walk"
+    },
+    "wallpaper": {
+      "codepoint": 58201,
+      "fontFamily": "Zmdi",
+      "identifier": "wallpaper"
+    },
+    "washing-machine": {
+      "codepoint": 58202,
+      "fontFamily": "Zmdi",
+      "identifier": "washingMachine"
+    },
+    "watch": {
+      "codepoint": 58203,
+      "fontFamily": "Zmdi",
+      "identifier": "watch"
+    },
+    "wb-auto": {
+      "codepoint": 58204,
+      "fontFamily": "Zmdi",
+      "identifier": "wbAuto"
+    },
+    "wb-iridescent": {
+      "codepoint": 58205,
+      "fontFamily": "Zmdi",
+      "identifier": "wbIridescent"
+    },
+    "whatsapp": {
+      "codepoint": 58206,
+      "fontFamily": "Zmdi",
+      "identifier": "whatsapp"
+    },
+    "widgets": {
+      "codepoint": 58207,
+      "fontFamily": "Zmdi",
+      "identifier": "widgets"
+    },
+    "wifi": {
+      "codepoint": 58208,
+      "fontFamily": "Zmdi",
+      "identifier": "wifi"
+    },
+    "wifi-alt": {
+      "codepoint": 58209,
+      "fontFamily": "Zmdi",
+      "identifier": "wifiAlt"
+    },
+    "wifi-alt-2": {
+      "codepoint": 58210,
+      "fontFamily": "Zmdi",
+      "identifier": "wifiAlt2"
+    },
+    "wifi-info": {
+      "codepoint": 58211,
+      "fontFamily": "Zmdi",
+      "identifier": "wifiInfo"
+    },
+    "wifi-lock": {
+      "codepoint": 58212,
+      "fontFamily": "Zmdi",
+      "identifier": "wifiLock"
+    },
+    "wifi-off": {
+      "codepoint": 58213,
+      "fontFamily": "Zmdi",
+      "identifier": "wifiOff"
+    },
+    "wifi-outline": {
+      "codepoint": 58214,
+      "fontFamily": "Zmdi",
+      "identifier": "wifiOutline"
+    },
+    "wikipedia": {
+      "codepoint": 58215,
+      "fontFamily": "Zmdi",
+      "identifier": "wikipedia"
+    },
+    "window-maximize": {
+      "codepoint": 58216,
+      "fontFamily": "Zmdi",
+      "identifier": "windowMaximize"
+    },
+    "window-minimize": {
+      "codepoint": 58217,
+      "fontFamily": "Zmdi",
+      "identifier": "windowMinimize"
+    },
+    "window-restore": {
+      "codepoint": 58218,
+      "fontFamily": "Zmdi",
+      "identifier": "windowRestore"
+    },
+    "windows": {
+      "codepoint": 58219,
+      "fontFamily": "Zmdi",
+      "identifier": "windows"
+    },
+    "wrap-text": {
+      "codepoint": 58220,
+      "fontFamily": "Zmdi",
+      "identifier": "wrapText"
+    },
+    "wrench": {
+      "codepoint": 58221,
+      "fontFamily": "Zmdi",
+      "identifier": "wrench"
+    },
+    "xbox": {
+      "codepoint": 58222,
+      "fontFamily": "Zmdi",
+      "identifier": "xbox"
+    },
+    "yahoo": {
+      "codepoint": 58223,
+      "fontFamily": "Zmdi",
+      "identifier": "yahoo"
+    },
+    "youtube": {
+      "codepoint": 58224,
+      "fontFamily": "Zmdi",
+      "identifier": "youtube"
+    },
+    "youtube-play": {
+      "codepoint": 58225,
+      "fontFamily": "Zmdi",
+      "identifier": "youtubePlay"
+    },
+    "zero": {
+      "codepoint": 58226,
+      "fontFamily": "Zmdi",
+      "identifier": "zero"
+    },
+    "zoom-in": {
+      "codepoint": 58227,
+      "fontFamily": "Zmdi",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 58228,
+      "fontFamily": "Zmdi",
+      "identifier": "zoomOut"
+    }
+  }
+}

@@ -1,0 +1,1710 @@
+{
+  "schemaVersion": 1,
+  "prefix": "typcn",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_typcn",
+  "info": {
+    "name": "Typicons",
+    "author": {
+      "name": "Stephen Hutchings",
+      "url": "https://github.com/stephenhutchings/typicons.font"
+    },
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "total": 336
+  },
+  "fonts": [
+    {
+      "family": "Typcn",
+      "nextCodepoint": 57680,
+      "iconCount": 336
+    }
+  ],
+  "icons": {
+    "adjust-brightness": {
+      "codepoint": 57344,
+      "fontFamily": "Typcn",
+      "identifier": "adjustBrightness"
+    },
+    "adjust-contrast": {
+      "codepoint": 57345,
+      "fontFamily": "Typcn",
+      "identifier": "adjustContrast"
+    },
+    "anchor": {
+      "codepoint": 57346,
+      "fontFamily": "Typcn",
+      "identifier": "anchor"
+    },
+    "anchor-outline": {
+      "codepoint": 57347,
+      "fontFamily": "Typcn",
+      "identifier": "anchorOutline"
+    },
+    "archive": {
+      "codepoint": 57348,
+      "fontFamily": "Typcn",
+      "identifier": "archive"
+    },
+    "arrow-back": {
+      "codepoint": 57349,
+      "fontFamily": "Typcn",
+      "identifier": "arrowBack"
+    },
+    "arrow-back-outline": {
+      "codepoint": 57350,
+      "fontFamily": "Typcn",
+      "identifier": "arrowBackOutline"
+    },
+    "arrow-down": {
+      "codepoint": 57351,
+      "fontFamily": "Typcn",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-outline": {
+      "codepoint": 57352,
+      "fontFamily": "Typcn",
+      "identifier": "arrowDownOutline"
+    },
+    "arrow-down-thick": {
+      "codepoint": 57353,
+      "fontFamily": "Typcn",
+      "identifier": "arrowDownThick"
+    },
+    "arrow-forward": {
+      "codepoint": 57354,
+      "fontFamily": "Typcn",
+      "identifier": "arrowForward"
+    },
+    "arrow-forward-outline": {
+      "codepoint": 57355,
+      "fontFamily": "Typcn",
+      "identifier": "arrowForwardOutline"
+    },
+    "arrow-left": {
+      "codepoint": 57356,
+      "fontFamily": "Typcn",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-outline": {
+      "codepoint": 57357,
+      "fontFamily": "Typcn",
+      "identifier": "arrowLeftOutline"
+    },
+    "arrow-left-thick": {
+      "codepoint": 57358,
+      "fontFamily": "Typcn",
+      "identifier": "arrowLeftThick"
+    },
+    "arrow-loop": {
+      "codepoint": 57359,
+      "fontFamily": "Typcn",
+      "identifier": "arrowLoop"
+    },
+    "arrow-loop-outline": {
+      "codepoint": 57360,
+      "fontFamily": "Typcn",
+      "identifier": "arrowLoopOutline"
+    },
+    "arrow-maximise": {
+      "codepoint": 57361,
+      "fontFamily": "Typcn",
+      "identifier": "arrowMaximise"
+    },
+    "arrow-maximise-outline": {
+      "codepoint": 57362,
+      "fontFamily": "Typcn",
+      "identifier": "arrowMaximiseOutline"
+    },
+    "arrow-minimise": {
+      "codepoint": 57363,
+      "fontFamily": "Typcn",
+      "identifier": "arrowMinimise"
+    },
+    "arrow-minimise-outline": {
+      "codepoint": 57364,
+      "fontFamily": "Typcn",
+      "identifier": "arrowMinimiseOutline"
+    },
+    "arrow-move": {
+      "codepoint": 57365,
+      "fontFamily": "Typcn",
+      "identifier": "arrowMove"
+    },
+    "arrow-move-outline": {
+      "codepoint": 57366,
+      "fontFamily": "Typcn",
+      "identifier": "arrowMoveOutline"
+    },
+    "arrow-repeat": {
+      "codepoint": 57367,
+      "fontFamily": "Typcn",
+      "identifier": "arrowRepeat"
+    },
+    "arrow-repeat-outline": {
+      "codepoint": 57368,
+      "fontFamily": "Typcn",
+      "identifier": "arrowRepeatOutline"
+    },
+    "arrow-right": {
+      "codepoint": 57369,
+      "fontFamily": "Typcn",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-outline": {
+      "codepoint": 57370,
+      "fontFamily": "Typcn",
+      "identifier": "arrowRightOutline"
+    },
+    "arrow-right-thick": {
+      "codepoint": 57371,
+      "fontFamily": "Typcn",
+      "identifier": "arrowRightThick"
+    },
+    "arrow-shuffle": {
+      "codepoint": 57372,
+      "fontFamily": "Typcn",
+      "identifier": "arrowShuffle"
+    },
+    "arrow-sorted-down": {
+      "codepoint": 57373,
+      "fontFamily": "Typcn",
+      "identifier": "arrowSortedDown"
+    },
+    "arrow-sorted-up": {
+      "codepoint": 57374,
+      "fontFamily": "Typcn",
+      "identifier": "arrowSortedUp"
+    },
+    "arrow-sync": {
+      "codepoint": 57375,
+      "fontFamily": "Typcn",
+      "identifier": "arrowSync"
+    },
+    "arrow-sync-outline": {
+      "codepoint": 57376,
+      "fontFamily": "Typcn",
+      "identifier": "arrowSyncOutline"
+    },
+    "arrow-unsorted": {
+      "codepoint": 57377,
+      "fontFamily": "Typcn",
+      "identifier": "arrowUnsorted"
+    },
+    "arrow-up": {
+      "codepoint": 57378,
+      "fontFamily": "Typcn",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-outline": {
+      "codepoint": 57379,
+      "fontFamily": "Typcn",
+      "identifier": "arrowUpOutline"
+    },
+    "arrow-up-thick": {
+      "codepoint": 57380,
+      "fontFamily": "Typcn",
+      "identifier": "arrowUpThick"
+    },
+    "at": {
+      "codepoint": 57381,
+      "fontFamily": "Typcn",
+      "identifier": "at"
+    },
+    "attachment": {
+      "codepoint": 57382,
+      "fontFamily": "Typcn",
+      "identifier": "attachment"
+    },
+    "attachment-outline": {
+      "codepoint": 57383,
+      "fontFamily": "Typcn",
+      "identifier": "attachmentOutline"
+    },
+    "backspace": {
+      "codepoint": 57384,
+      "fontFamily": "Typcn",
+      "identifier": "backspace"
+    },
+    "backspace-outline": {
+      "codepoint": 57385,
+      "fontFamily": "Typcn",
+      "identifier": "backspaceOutline"
+    },
+    "battery-charge": {
+      "codepoint": 57386,
+      "fontFamily": "Typcn",
+      "identifier": "batteryCharge"
+    },
+    "battery-full": {
+      "codepoint": 57387,
+      "fontFamily": "Typcn",
+      "identifier": "batteryFull"
+    },
+    "battery-high": {
+      "codepoint": 57388,
+      "fontFamily": "Typcn",
+      "identifier": "batteryHigh"
+    },
+    "battery-low": {
+      "codepoint": 57389,
+      "fontFamily": "Typcn",
+      "identifier": "batteryLow"
+    },
+    "battery-mid": {
+      "codepoint": 57390,
+      "fontFamily": "Typcn",
+      "identifier": "batteryMid"
+    },
+    "beaker": {
+      "codepoint": 57391,
+      "fontFamily": "Typcn",
+      "identifier": "beaker"
+    },
+    "beer": {
+      "codepoint": 57392,
+      "fontFamily": "Typcn",
+      "identifier": "beer"
+    },
+    "bell": {
+      "codepoint": 57393,
+      "fontFamily": "Typcn",
+      "identifier": "bell"
+    },
+    "book": {
+      "codepoint": 57394,
+      "fontFamily": "Typcn",
+      "identifier": "book"
+    },
+    "bookmark": {
+      "codepoint": 57395,
+      "fontFamily": "Typcn",
+      "identifier": "bookmark"
+    },
+    "briefcase": {
+      "codepoint": 57396,
+      "fontFamily": "Typcn",
+      "identifier": "briefcase"
+    },
+    "brush": {
+      "codepoint": 57397,
+      "fontFamily": "Typcn",
+      "identifier": "brush"
+    },
+    "business-card": {
+      "codepoint": 57398,
+      "fontFamily": "Typcn",
+      "identifier": "businessCard"
+    },
+    "calculator": {
+      "codepoint": 57399,
+      "fontFamily": "Typcn",
+      "identifier": "calculator"
+    },
+    "calendar": {
+      "codepoint": 57400,
+      "fontFamily": "Typcn",
+      "identifier": "calendar"
+    },
+    "calendar-outline": {
+      "codepoint": 57401,
+      "fontFamily": "Typcn",
+      "identifier": "calendarOutline"
+    },
+    "camera": {
+      "codepoint": 57402,
+      "fontFamily": "Typcn",
+      "identifier": "camera"
+    },
+    "camera-outline": {
+      "codepoint": 57403,
+      "fontFamily": "Typcn",
+      "identifier": "cameraOutline"
+    },
+    "cancel": {
+      "codepoint": 57404,
+      "fontFamily": "Typcn",
+      "identifier": "cancel"
+    },
+    "cancel-outline": {
+      "codepoint": 57405,
+      "fontFamily": "Typcn",
+      "identifier": "cancelOutline"
+    },
+    "chart-area": {
+      "codepoint": 57406,
+      "fontFamily": "Typcn",
+      "identifier": "chartArea"
+    },
+    "chart-area-outline": {
+      "codepoint": 57407,
+      "fontFamily": "Typcn",
+      "identifier": "chartAreaOutline"
+    },
+    "chart-bar": {
+      "codepoint": 57408,
+      "fontFamily": "Typcn",
+      "identifier": "chartBar"
+    },
+    "chart-bar-outline": {
+      "codepoint": 57409,
+      "fontFamily": "Typcn",
+      "identifier": "chartBarOutline"
+    },
+    "chart-line": {
+      "codepoint": 57410,
+      "fontFamily": "Typcn",
+      "identifier": "chartLine"
+    },
+    "chart-line-outline": {
+      "codepoint": 57411,
+      "fontFamily": "Typcn",
+      "identifier": "chartLineOutline"
+    },
+    "chart-pie": {
+      "codepoint": 57412,
+      "fontFamily": "Typcn",
+      "identifier": "chartPie"
+    },
+    "chart-pie-outline": {
+      "codepoint": 57413,
+      "fontFamily": "Typcn",
+      "identifier": "chartPieOutline"
+    },
+    "chevron-left": {
+      "codepoint": 57414,
+      "fontFamily": "Typcn",
+      "identifier": "chevronLeft"
+    },
+    "chevron-left-outline": {
+      "codepoint": 57415,
+      "fontFamily": "Typcn",
+      "identifier": "chevronLeftOutline"
+    },
+    "chevron-right": {
+      "codepoint": 57416,
+      "fontFamily": "Typcn",
+      "identifier": "chevronRight"
+    },
+    "chevron-right-outline": {
+      "codepoint": 57417,
+      "fontFamily": "Typcn",
+      "identifier": "chevronRightOutline"
+    },
+    "clipboard": {
+      "codepoint": 57418,
+      "fontFamily": "Typcn",
+      "identifier": "clipboard"
+    },
+    "cloud-storage": {
+      "codepoint": 57419,
+      "fontFamily": "Typcn",
+      "identifier": "cloudStorage"
+    },
+    "cloud-storage-outline": {
+      "codepoint": 57420,
+      "fontFamily": "Typcn",
+      "identifier": "cloudStorageOutline"
+    },
+    "code": {
+      "codepoint": 57421,
+      "fontFamily": "Typcn",
+      "identifier": "code"
+    },
+    "code-outline": {
+      "codepoint": 57422,
+      "fontFamily": "Typcn",
+      "identifier": "codeOutline"
+    },
+    "coffee": {
+      "codepoint": 57423,
+      "fontFamily": "Typcn",
+      "identifier": "coffee"
+    },
+    "cog": {
+      "codepoint": 57424,
+      "fontFamily": "Typcn",
+      "identifier": "cog"
+    },
+    "cog-outline": {
+      "codepoint": 57425,
+      "fontFamily": "Typcn",
+      "identifier": "cogOutline"
+    },
+    "compass": {
+      "codepoint": 57426,
+      "fontFamily": "Typcn",
+      "identifier": "compass"
+    },
+    "contacts": {
+      "codepoint": 57427,
+      "fontFamily": "Typcn",
+      "identifier": "contacts"
+    },
+    "credit-card": {
+      "codepoint": 57428,
+      "fontFamily": "Typcn",
+      "identifier": "creditCard"
+    },
+    "css3": {
+      "codepoint": 57429,
+      "fontFamily": "Typcn",
+      "identifier": "css3"
+    },
+    "database": {
+      "codepoint": 57430,
+      "fontFamily": "Typcn",
+      "identifier": "database"
+    },
+    "delete": {
+      "codepoint": 57431,
+      "fontFamily": "Typcn",
+      "identifier": "delete"
+    },
+    "delete-outline": {
+      "codepoint": 57432,
+      "fontFamily": "Typcn",
+      "identifier": "deleteOutline"
+    },
+    "device-desktop": {
+      "codepoint": 57433,
+      "fontFamily": "Typcn",
+      "identifier": "deviceDesktop"
+    },
+    "device-laptop": {
+      "codepoint": 57434,
+      "fontFamily": "Typcn",
+      "identifier": "deviceLaptop"
+    },
+    "device-phone": {
+      "codepoint": 57435,
+      "fontFamily": "Typcn",
+      "identifier": "devicePhone"
+    },
+    "device-tablet": {
+      "codepoint": 57436,
+      "fontFamily": "Typcn",
+      "identifier": "deviceTablet"
+    },
+    "directions": {
+      "codepoint": 57437,
+      "fontFamily": "Typcn",
+      "identifier": "directions"
+    },
+    "divide": {
+      "codepoint": 57438,
+      "fontFamily": "Typcn",
+      "identifier": "divide"
+    },
+    "divide-outline": {
+      "codepoint": 57439,
+      "fontFamily": "Typcn",
+      "identifier": "divideOutline"
+    },
+    "document": {
+      "codepoint": 57440,
+      "fontFamily": "Typcn",
+      "identifier": "document"
+    },
+    "document-add": {
+      "codepoint": 57441,
+      "fontFamily": "Typcn",
+      "identifier": "documentAdd"
+    },
+    "document-delete": {
+      "codepoint": 57442,
+      "fontFamily": "Typcn",
+      "identifier": "documentDelete"
+    },
+    "document-text": {
+      "codepoint": 57443,
+      "fontFamily": "Typcn",
+      "identifier": "documentText"
+    },
+    "download": {
+      "codepoint": 57444,
+      "fontFamily": "Typcn",
+      "identifier": "download"
+    },
+    "download-outline": {
+      "codepoint": 57445,
+      "fontFamily": "Typcn",
+      "identifier": "downloadOutline"
+    },
+    "dropbox": {
+      "codepoint": 57446,
+      "fontFamily": "Typcn",
+      "identifier": "dropbox"
+    },
+    "edit": {
+      "codepoint": 57447,
+      "fontFamily": "Typcn",
+      "identifier": "edit"
+    },
+    "eject": {
+      "codepoint": 57448,
+      "fontFamily": "Typcn",
+      "identifier": "eject"
+    },
+    "eject-outline": {
+      "codepoint": 57449,
+      "fontFamily": "Typcn",
+      "identifier": "ejectOutline"
+    },
+    "equals": {
+      "codepoint": 57450,
+      "fontFamily": "Typcn",
+      "identifier": "equals"
+    },
+    "equals-outline": {
+      "codepoint": 57451,
+      "fontFamily": "Typcn",
+      "identifier": "equalsOutline"
+    },
+    "export": {
+      "codepoint": 57452,
+      "fontFamily": "Typcn",
+      "identifier": "export_"
+    },
+    "export-outline": {
+      "codepoint": 57453,
+      "fontFamily": "Typcn",
+      "identifier": "exportOutline"
+    },
+    "eye": {
+      "codepoint": 57454,
+      "fontFamily": "Typcn",
+      "identifier": "eye"
+    },
+    "eye-outline": {
+      "codepoint": 57455,
+      "fontFamily": "Typcn",
+      "identifier": "eyeOutline"
+    },
+    "feather": {
+      "codepoint": 57456,
+      "fontFamily": "Typcn",
+      "identifier": "feather"
+    },
+    "film": {
+      "codepoint": 57457,
+      "fontFamily": "Typcn",
+      "identifier": "film"
+    },
+    "filter": {
+      "codepoint": 57458,
+      "fontFamily": "Typcn",
+      "identifier": "filter"
+    },
+    "flag": {
+      "codepoint": 57459,
+      "fontFamily": "Typcn",
+      "identifier": "flag"
+    },
+    "flag-outline": {
+      "codepoint": 57460,
+      "fontFamily": "Typcn",
+      "identifier": "flagOutline"
+    },
+    "flash": {
+      "codepoint": 57461,
+      "fontFamily": "Typcn",
+      "identifier": "flash"
+    },
+    "flash-outline": {
+      "codepoint": 57462,
+      "fontFamily": "Typcn",
+      "identifier": "flashOutline"
+    },
+    "flow-children": {
+      "codepoint": 57463,
+      "fontFamily": "Typcn",
+      "identifier": "flowChildren"
+    },
+    "flow-merge": {
+      "codepoint": 57464,
+      "fontFamily": "Typcn",
+      "identifier": "flowMerge"
+    },
+    "flow-parallel": {
+      "codepoint": 57465,
+      "fontFamily": "Typcn",
+      "identifier": "flowParallel"
+    },
+    "flow-switch": {
+      "codepoint": 57466,
+      "fontFamily": "Typcn",
+      "identifier": "flowSwitch"
+    },
+    "folder": {
+      "codepoint": 57467,
+      "fontFamily": "Typcn",
+      "identifier": "folder"
+    },
+    "folder-add": {
+      "codepoint": 57468,
+      "fontFamily": "Typcn",
+      "identifier": "folderAdd"
+    },
+    "folder-delete": {
+      "codepoint": 57469,
+      "fontFamily": "Typcn",
+      "identifier": "folderDelete"
+    },
+    "folder-open": {
+      "codepoint": 57470,
+      "fontFamily": "Typcn",
+      "identifier": "folderOpen"
+    },
+    "gift": {
+      "codepoint": 57471,
+      "fontFamily": "Typcn",
+      "identifier": "gift"
+    },
+    "globe": {
+      "codepoint": 57472,
+      "fontFamily": "Typcn",
+      "identifier": "globe"
+    },
+    "globe-outline": {
+      "codepoint": 57473,
+      "fontFamily": "Typcn",
+      "identifier": "globeOutline"
+    },
+    "group": {
+      "codepoint": 57474,
+      "fontFamily": "Typcn",
+      "identifier": "group"
+    },
+    "group-outline": {
+      "codepoint": 57475,
+      "fontFamily": "Typcn",
+      "identifier": "groupOutline"
+    },
+    "headphones": {
+      "codepoint": 57476,
+      "fontFamily": "Typcn",
+      "identifier": "headphones"
+    },
+    "heart": {
+      "codepoint": 57477,
+      "fontFamily": "Typcn",
+      "identifier": "heart"
+    },
+    "heart-full-outline": {
+      "codepoint": 57478,
+      "fontFamily": "Typcn",
+      "identifier": "heartFullOutline"
+    },
+    "heart-half-outline": {
+      "codepoint": 57479,
+      "fontFamily": "Typcn",
+      "identifier": "heartHalfOutline"
+    },
+    "heart-outline": {
+      "codepoint": 57480,
+      "fontFamily": "Typcn",
+      "identifier": "heartOutline"
+    },
+    "home": {
+      "codepoint": 57481,
+      "fontFamily": "Typcn",
+      "identifier": "home"
+    },
+    "home-outline": {
+      "codepoint": 57482,
+      "fontFamily": "Typcn",
+      "identifier": "homeOutline"
+    },
+    "html5": {
+      "codepoint": 57483,
+      "fontFamily": "Typcn",
+      "identifier": "html5"
+    },
+    "image": {
+      "codepoint": 57484,
+      "fontFamily": "Typcn",
+      "identifier": "image"
+    },
+    "image-outline": {
+      "codepoint": 57485,
+      "fontFamily": "Typcn",
+      "identifier": "imageOutline"
+    },
+    "infinity": {
+      "codepoint": 57486,
+      "fontFamily": "Typcn",
+      "identifier": "infinity"
+    },
+    "infinity-outline": {
+      "codepoint": 57487,
+      "fontFamily": "Typcn",
+      "identifier": "infinityOutline"
+    },
+    "info": {
+      "codepoint": 57488,
+      "fontFamily": "Typcn",
+      "identifier": "info"
+    },
+    "info-large": {
+      "codepoint": 57489,
+      "fontFamily": "Typcn",
+      "identifier": "infoLarge"
+    },
+    "info-large-outline": {
+      "codepoint": 57490,
+      "fontFamily": "Typcn",
+      "identifier": "infoLargeOutline"
+    },
+    "info-outline": {
+      "codepoint": 57491,
+      "fontFamily": "Typcn",
+      "identifier": "infoOutline"
+    },
+    "input-checked": {
+      "codepoint": 57492,
+      "fontFamily": "Typcn",
+      "identifier": "inputChecked"
+    },
+    "input-checked-outline": {
+      "codepoint": 57493,
+      "fontFamily": "Typcn",
+      "identifier": "inputCheckedOutline"
+    },
+    "key": {
+      "codepoint": 57494,
+      "fontFamily": "Typcn",
+      "identifier": "key"
+    },
+    "key-outline": {
+      "codepoint": 57495,
+      "fontFamily": "Typcn",
+      "identifier": "keyOutline"
+    },
+    "keyboard": {
+      "codepoint": 57496,
+      "fontFamily": "Typcn",
+      "identifier": "keyboard"
+    },
+    "leaf": {
+      "codepoint": 57497,
+      "fontFamily": "Typcn",
+      "identifier": "leaf"
+    },
+    "lightbulb": {
+      "codepoint": 57498,
+      "fontFamily": "Typcn",
+      "identifier": "lightbulb"
+    },
+    "link": {
+      "codepoint": 57499,
+      "fontFamily": "Typcn",
+      "identifier": "link"
+    },
+    "link-outline": {
+      "codepoint": 57500,
+      "fontFamily": "Typcn",
+      "identifier": "linkOutline"
+    },
+    "location": {
+      "codepoint": 57501,
+      "fontFamily": "Typcn",
+      "identifier": "location"
+    },
+    "location-arrow": {
+      "codepoint": 57502,
+      "fontFamily": "Typcn",
+      "identifier": "locationArrow"
+    },
+    "location-arrow-outline": {
+      "codepoint": 57503,
+      "fontFamily": "Typcn",
+      "identifier": "locationArrowOutline"
+    },
+    "location-outline": {
+      "codepoint": 57504,
+      "fontFamily": "Typcn",
+      "identifier": "locationOutline"
+    },
+    "lock-closed": {
+      "codepoint": 57505,
+      "fontFamily": "Typcn",
+      "identifier": "lockClosed"
+    },
+    "lock-closed-outline": {
+      "codepoint": 57506,
+      "fontFamily": "Typcn",
+      "identifier": "lockClosedOutline"
+    },
+    "lock-open": {
+      "codepoint": 57507,
+      "fontFamily": "Typcn",
+      "identifier": "lockOpen"
+    },
+    "lock-open-outline": {
+      "codepoint": 57508,
+      "fontFamily": "Typcn",
+      "identifier": "lockOpenOutline"
+    },
+    "mail": {
+      "codepoint": 57509,
+      "fontFamily": "Typcn",
+      "identifier": "mail"
+    },
+    "map": {
+      "codepoint": 57510,
+      "fontFamily": "Typcn",
+      "identifier": "map"
+    },
+    "media-eject": {
+      "codepoint": 57511,
+      "fontFamily": "Typcn",
+      "identifier": "mediaEject"
+    },
+    "media-eject-outline": {
+      "codepoint": 57512,
+      "fontFamily": "Typcn",
+      "identifier": "mediaEjectOutline"
+    },
+    "media-fast-forward": {
+      "codepoint": 57513,
+      "fontFamily": "Typcn",
+      "identifier": "mediaFastForward"
+    },
+    "media-fast-forward-outline": {
+      "codepoint": 57514,
+      "fontFamily": "Typcn",
+      "identifier": "mediaFastForwardOutline"
+    },
+    "media-pause": {
+      "codepoint": 57515,
+      "fontFamily": "Typcn",
+      "identifier": "mediaPause"
+    },
+    "media-pause-outline": {
+      "codepoint": 57516,
+      "fontFamily": "Typcn",
+      "identifier": "mediaPauseOutline"
+    },
+    "media-play": {
+      "codepoint": 57517,
+      "fontFamily": "Typcn",
+      "identifier": "mediaPlay"
+    },
+    "media-play-outline": {
+      "codepoint": 57518,
+      "fontFamily": "Typcn",
+      "identifier": "mediaPlayOutline"
+    },
+    "media-play-reverse": {
+      "codepoint": 57519,
+      "fontFamily": "Typcn",
+      "identifier": "mediaPlayReverse"
+    },
+    "media-play-reverse-outline": {
+      "codepoint": 57520,
+      "fontFamily": "Typcn",
+      "identifier": "mediaPlayReverseOutline"
+    },
+    "media-record": {
+      "codepoint": 57521,
+      "fontFamily": "Typcn",
+      "identifier": "mediaRecord"
+    },
+    "media-record-outline": {
+      "codepoint": 57522,
+      "fontFamily": "Typcn",
+      "identifier": "mediaRecordOutline"
+    },
+    "media-rewind": {
+      "codepoint": 57523,
+      "fontFamily": "Typcn",
+      "identifier": "mediaRewind"
+    },
+    "media-rewind-outline": {
+      "codepoint": 57524,
+      "fontFamily": "Typcn",
+      "identifier": "mediaRewindOutline"
+    },
+    "media-stop": {
+      "codepoint": 57525,
+      "fontFamily": "Typcn",
+      "identifier": "mediaStop"
+    },
+    "media-stop-outline": {
+      "codepoint": 57526,
+      "fontFamily": "Typcn",
+      "identifier": "mediaStopOutline"
+    },
+    "message": {
+      "codepoint": 57527,
+      "fontFamily": "Typcn",
+      "identifier": "message"
+    },
+    "message-typing": {
+      "codepoint": 57528,
+      "fontFamily": "Typcn",
+      "identifier": "messageTyping"
+    },
+    "messages": {
+      "codepoint": 57529,
+      "fontFamily": "Typcn",
+      "identifier": "messages"
+    },
+    "microphone": {
+      "codepoint": 57530,
+      "fontFamily": "Typcn",
+      "identifier": "microphone"
+    },
+    "microphone-outline": {
+      "codepoint": 57531,
+      "fontFamily": "Typcn",
+      "identifier": "microphoneOutline"
+    },
+    "minus": {
+      "codepoint": 57532,
+      "fontFamily": "Typcn",
+      "identifier": "minus"
+    },
+    "minus-outline": {
+      "codepoint": 57533,
+      "fontFamily": "Typcn",
+      "identifier": "minusOutline"
+    },
+    "mortar-board": {
+      "codepoint": 57534,
+      "fontFamily": "Typcn",
+      "identifier": "mortarBoard"
+    },
+    "news": {
+      "codepoint": 57535,
+      "fontFamily": "Typcn",
+      "identifier": "news"
+    },
+    "notes": {
+      "codepoint": 57536,
+      "fontFamily": "Typcn",
+      "identifier": "notes"
+    },
+    "notes-outline": {
+      "codepoint": 57537,
+      "fontFamily": "Typcn",
+      "identifier": "notesOutline"
+    },
+    "pen": {
+      "codepoint": 57538,
+      "fontFamily": "Typcn",
+      "identifier": "pen"
+    },
+    "pencil": {
+      "codepoint": 57539,
+      "fontFamily": "Typcn",
+      "identifier": "pencil"
+    },
+    "phone": {
+      "codepoint": 57540,
+      "fontFamily": "Typcn",
+      "identifier": "phone"
+    },
+    "phone-outline": {
+      "codepoint": 57541,
+      "fontFamily": "Typcn",
+      "identifier": "phoneOutline"
+    },
+    "pi": {
+      "codepoint": 57542,
+      "fontFamily": "Typcn",
+      "identifier": "pi"
+    },
+    "pi-outline": {
+      "codepoint": 57543,
+      "fontFamily": "Typcn",
+      "identifier": "piOutline"
+    },
+    "pin": {
+      "codepoint": 57544,
+      "fontFamily": "Typcn",
+      "identifier": "pin"
+    },
+    "pin-outline": {
+      "codepoint": 57545,
+      "fontFamily": "Typcn",
+      "identifier": "pinOutline"
+    },
+    "pipette": {
+      "codepoint": 57546,
+      "fontFamily": "Typcn",
+      "identifier": "pipette"
+    },
+    "plane": {
+      "codepoint": 57547,
+      "fontFamily": "Typcn",
+      "identifier": "plane"
+    },
+    "plane-outline": {
+      "codepoint": 57548,
+      "fontFamily": "Typcn",
+      "identifier": "planeOutline"
+    },
+    "plug": {
+      "codepoint": 57549,
+      "fontFamily": "Typcn",
+      "identifier": "plug"
+    },
+    "plus": {
+      "codepoint": 57550,
+      "fontFamily": "Typcn",
+      "identifier": "plus"
+    },
+    "plus-outline": {
+      "codepoint": 57551,
+      "fontFamily": "Typcn",
+      "identifier": "plusOutline"
+    },
+    "point-of-interest": {
+      "codepoint": 57552,
+      "fontFamily": "Typcn",
+      "identifier": "pointOfInterest"
+    },
+    "point-of-interest-outline": {
+      "codepoint": 57553,
+      "fontFamily": "Typcn",
+      "identifier": "pointOfInterestOutline"
+    },
+    "power": {
+      "codepoint": 57554,
+      "fontFamily": "Typcn",
+      "identifier": "power"
+    },
+    "power-outline": {
+      "codepoint": 57555,
+      "fontFamily": "Typcn",
+      "identifier": "powerOutline"
+    },
+    "printer": {
+      "codepoint": 57556,
+      "fontFamily": "Typcn",
+      "identifier": "printer"
+    },
+    "puzzle": {
+      "codepoint": 57557,
+      "fontFamily": "Typcn",
+      "identifier": "puzzle"
+    },
+    "puzzle-outline": {
+      "codepoint": 57558,
+      "fontFamily": "Typcn",
+      "identifier": "puzzleOutline"
+    },
+    "radar": {
+      "codepoint": 57559,
+      "fontFamily": "Typcn",
+      "identifier": "radar"
+    },
+    "radar-outline": {
+      "codepoint": 57560,
+      "fontFamily": "Typcn",
+      "identifier": "radarOutline"
+    },
+    "refresh": {
+      "codepoint": 57561,
+      "fontFamily": "Typcn",
+      "identifier": "refresh"
+    },
+    "refresh-outline": {
+      "codepoint": 57562,
+      "fontFamily": "Typcn",
+      "identifier": "refreshOutline"
+    },
+    "rss": {
+      "codepoint": 57563,
+      "fontFamily": "Typcn",
+      "identifier": "rss"
+    },
+    "rss-outline": {
+      "codepoint": 57564,
+      "fontFamily": "Typcn",
+      "identifier": "rssOutline"
+    },
+    "scissors": {
+      "codepoint": 57565,
+      "fontFamily": "Typcn",
+      "identifier": "scissors"
+    },
+    "scissors-outline": {
+      "codepoint": 57566,
+      "fontFamily": "Typcn",
+      "identifier": "scissorsOutline"
+    },
+    "shopping-bag": {
+      "codepoint": 57567,
+      "fontFamily": "Typcn",
+      "identifier": "shoppingBag"
+    },
+    "shopping-cart": {
+      "codepoint": 57568,
+      "fontFamily": "Typcn",
+      "identifier": "shoppingCart"
+    },
+    "social-at-circular": {
+      "codepoint": 57569,
+      "fontFamily": "Typcn",
+      "identifier": "socialAtCircular"
+    },
+    "social-dribbble": {
+      "codepoint": 57570,
+      "fontFamily": "Typcn",
+      "identifier": "socialDribbble"
+    },
+    "social-dribbble-circular": {
+      "codepoint": 57571,
+      "fontFamily": "Typcn",
+      "identifier": "socialDribbbleCircular"
+    },
+    "social-facebook": {
+      "codepoint": 57572,
+      "fontFamily": "Typcn",
+      "identifier": "socialFacebook"
+    },
+    "social-facebook-circular": {
+      "codepoint": 57573,
+      "fontFamily": "Typcn",
+      "identifier": "socialFacebookCircular"
+    },
+    "social-flickr": {
+      "codepoint": 57574,
+      "fontFamily": "Typcn",
+      "identifier": "socialFlickr"
+    },
+    "social-flickr-circular": {
+      "codepoint": 57575,
+      "fontFamily": "Typcn",
+      "identifier": "socialFlickrCircular"
+    },
+    "social-github": {
+      "codepoint": 57576,
+      "fontFamily": "Typcn",
+      "identifier": "socialGithub"
+    },
+    "social-github-circular": {
+      "codepoint": 57577,
+      "fontFamily": "Typcn",
+      "identifier": "socialGithubCircular"
+    },
+    "social-google-plus": {
+      "codepoint": 57578,
+      "fontFamily": "Typcn",
+      "identifier": "socialGooglePlus"
+    },
+    "social-google-plus-circular": {
+      "codepoint": 57579,
+      "fontFamily": "Typcn",
+      "identifier": "socialGooglePlusCircular"
+    },
+    "social-instagram": {
+      "codepoint": 57580,
+      "fontFamily": "Typcn",
+      "identifier": "socialInstagram"
+    },
+    "social-instagram-circular": {
+      "codepoint": 57581,
+      "fontFamily": "Typcn",
+      "identifier": "socialInstagramCircular"
+    },
+    "social-last-fm": {
+      "codepoint": 57582,
+      "fontFamily": "Typcn",
+      "identifier": "socialLastFm"
+    },
+    "social-last-fm-circular": {
+      "codepoint": 57583,
+      "fontFamily": "Typcn",
+      "identifier": "socialLastFmCircular"
+    },
+    "social-linkedin": {
+      "codepoint": 57584,
+      "fontFamily": "Typcn",
+      "identifier": "socialLinkedin"
+    },
+    "social-linkedin-circular": {
+      "codepoint": 57585,
+      "fontFamily": "Typcn",
+      "identifier": "socialLinkedinCircular"
+    },
+    "social-pinterest": {
+      "codepoint": 57586,
+      "fontFamily": "Typcn",
+      "identifier": "socialPinterest"
+    },
+    "social-pinterest-circular": {
+      "codepoint": 57587,
+      "fontFamily": "Typcn",
+      "identifier": "socialPinterestCircular"
+    },
+    "social-skype": {
+      "codepoint": 57588,
+      "fontFamily": "Typcn",
+      "identifier": "socialSkype"
+    },
+    "social-skype-outline": {
+      "codepoint": 57589,
+      "fontFamily": "Typcn",
+      "identifier": "socialSkypeOutline"
+    },
+    "social-tumbler": {
+      "codepoint": 57590,
+      "fontFamily": "Typcn",
+      "identifier": "socialTumbler"
+    },
+    "social-tumbler-circular": {
+      "codepoint": 57591,
+      "fontFamily": "Typcn",
+      "identifier": "socialTumblerCircular"
+    },
+    "social-twitter": {
+      "codepoint": 57592,
+      "fontFamily": "Typcn",
+      "identifier": "socialTwitter"
+    },
+    "social-twitter-circular": {
+      "codepoint": 57593,
+      "fontFamily": "Typcn",
+      "identifier": "socialTwitterCircular"
+    },
+    "social-vimeo": {
+      "codepoint": 57594,
+      "fontFamily": "Typcn",
+      "identifier": "socialVimeo"
+    },
+    "social-vimeo-circular": {
+      "codepoint": 57595,
+      "fontFamily": "Typcn",
+      "identifier": "socialVimeoCircular"
+    },
+    "social-youtube": {
+      "codepoint": 57596,
+      "fontFamily": "Typcn",
+      "identifier": "socialYoutube"
+    },
+    "social-youtube-circular": {
+      "codepoint": 57597,
+      "fontFamily": "Typcn",
+      "identifier": "socialYoutubeCircular"
+    },
+    "sort-alphabetically": {
+      "codepoint": 57598,
+      "fontFamily": "Typcn",
+      "identifier": "sortAlphabetically"
+    },
+    "sort-alphabetically-outline": {
+      "codepoint": 57599,
+      "fontFamily": "Typcn",
+      "identifier": "sortAlphabeticallyOutline"
+    },
+    "sort-numerically": {
+      "codepoint": 57600,
+      "fontFamily": "Typcn",
+      "identifier": "sortNumerically"
+    },
+    "sort-numerically-outline": {
+      "codepoint": 57601,
+      "fontFamily": "Typcn",
+      "identifier": "sortNumericallyOutline"
+    },
+    "spanner": {
+      "codepoint": 57602,
+      "fontFamily": "Typcn",
+      "identifier": "spanner"
+    },
+    "spanner-outline": {
+      "codepoint": 57603,
+      "fontFamily": "Typcn",
+      "identifier": "spannerOutline"
+    },
+    "spiral": {
+      "codepoint": 57604,
+      "fontFamily": "Typcn",
+      "identifier": "spiral"
+    },
+    "star": {
+      "codepoint": 57605,
+      "fontFamily": "Typcn",
+      "identifier": "star"
+    },
+    "star-full-outline": {
+      "codepoint": 57606,
+      "fontFamily": "Typcn",
+      "identifier": "starFullOutline"
+    },
+    "star-half": {
+      "codepoint": 57607,
+      "fontFamily": "Typcn",
+      "identifier": "starHalf"
+    },
+    "star-half-outline": {
+      "codepoint": 57608,
+      "fontFamily": "Typcn",
+      "identifier": "starHalfOutline"
+    },
+    "star-outline": {
+      "codepoint": 57609,
+      "fontFamily": "Typcn",
+      "identifier": "starOutline"
+    },
+    "starburst": {
+      "codepoint": 57610,
+      "fontFamily": "Typcn",
+      "identifier": "starburst"
+    },
+    "starburst-outline": {
+      "codepoint": 57611,
+      "fontFamily": "Typcn",
+      "identifier": "starburstOutline"
+    },
+    "stopwatch": {
+      "codepoint": 57612,
+      "fontFamily": "Typcn",
+      "identifier": "stopwatch"
+    },
+    "support": {
+      "codepoint": 57613,
+      "fontFamily": "Typcn",
+      "identifier": "support"
+    },
+    "tabs-outline": {
+      "codepoint": 57614,
+      "fontFamily": "Typcn",
+      "identifier": "tabsOutline"
+    },
+    "tag": {
+      "codepoint": 57615,
+      "fontFamily": "Typcn",
+      "identifier": "tag"
+    },
+    "tags": {
+      "codepoint": 57616,
+      "fontFamily": "Typcn",
+      "identifier": "tags"
+    },
+    "th-large": {
+      "codepoint": 57617,
+      "fontFamily": "Typcn",
+      "identifier": "thLarge"
+    },
+    "th-large-outline": {
+      "codepoint": 57618,
+      "fontFamily": "Typcn",
+      "identifier": "thLargeOutline"
+    },
+    "th-list": {
+      "codepoint": 57619,
+      "fontFamily": "Typcn",
+      "identifier": "thList"
+    },
+    "th-list-outline": {
+      "codepoint": 57620,
+      "fontFamily": "Typcn",
+      "identifier": "thListOutline"
+    },
+    "th-menu": {
+      "codepoint": 57621,
+      "fontFamily": "Typcn",
+      "identifier": "thMenu"
+    },
+    "th-menu-outline": {
+      "codepoint": 57622,
+      "fontFamily": "Typcn",
+      "identifier": "thMenuOutline"
+    },
+    "th-small": {
+      "codepoint": 57623,
+      "fontFamily": "Typcn",
+      "identifier": "thSmall"
+    },
+    "th-small-outline": {
+      "codepoint": 57624,
+      "fontFamily": "Typcn",
+      "identifier": "thSmallOutline"
+    },
+    "thermometer": {
+      "codepoint": 57625,
+      "fontFamily": "Typcn",
+      "identifier": "thermometer"
+    },
+    "thumbs-down": {
+      "codepoint": 57626,
+      "fontFamily": "Typcn",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-ok": {
+      "codepoint": 57627,
+      "fontFamily": "Typcn",
+      "identifier": "thumbsOk"
+    },
+    "thumbs-up": {
+      "codepoint": 57628,
+      "fontFamily": "Typcn",
+      "identifier": "thumbsUp"
+    },
+    "tick": {
+      "codepoint": 57629,
+      "fontFamily": "Typcn",
+      "identifier": "tick"
+    },
+    "tick-outline": {
+      "codepoint": 57630,
+      "fontFamily": "Typcn",
+      "identifier": "tickOutline"
+    },
+    "ticket": {
+      "codepoint": 57631,
+      "fontFamily": "Typcn",
+      "identifier": "ticket"
+    },
+    "time": {
+      "codepoint": 57632,
+      "fontFamily": "Typcn",
+      "identifier": "time"
+    },
+    "times": {
+      "codepoint": 57633,
+      "fontFamily": "Typcn",
+      "identifier": "times"
+    },
+    "times-outline": {
+      "codepoint": 57634,
+      "fontFamily": "Typcn",
+      "identifier": "timesOutline"
+    },
+    "trash": {
+      "codepoint": 57635,
+      "fontFamily": "Typcn",
+      "identifier": "trash"
+    },
+    "tree": {
+      "codepoint": 57636,
+      "fontFamily": "Typcn",
+      "identifier": "tree"
+    },
+    "upload": {
+      "codepoint": 57637,
+      "fontFamily": "Typcn",
+      "identifier": "upload"
+    },
+    "upload-outline": {
+      "codepoint": 57638,
+      "fontFamily": "Typcn",
+      "identifier": "uploadOutline"
+    },
+    "user": {
+      "codepoint": 57639,
+      "fontFamily": "Typcn",
+      "identifier": "user"
+    },
+    "user-add": {
+      "codepoint": 57640,
+      "fontFamily": "Typcn",
+      "identifier": "userAdd"
+    },
+    "user-add-outline": {
+      "codepoint": 57641,
+      "fontFamily": "Typcn",
+      "identifier": "userAddOutline"
+    },
+    "user-delete": {
+      "codepoint": 57642,
+      "fontFamily": "Typcn",
+      "identifier": "userDelete"
+    },
+    "user-delete-outline": {
+      "codepoint": 57643,
+      "fontFamily": "Typcn",
+      "identifier": "userDeleteOutline"
+    },
+    "user-outline": {
+      "codepoint": 57644,
+      "fontFamily": "Typcn",
+      "identifier": "userOutline"
+    },
+    "vendor-android": {
+      "codepoint": 57645,
+      "fontFamily": "Typcn",
+      "identifier": "vendorAndroid"
+    },
+    "vendor-apple": {
+      "codepoint": 57646,
+      "fontFamily": "Typcn",
+      "identifier": "vendorApple"
+    },
+    "vendor-microsoft": {
+      "codepoint": 57647,
+      "fontFamily": "Typcn",
+      "identifier": "vendorMicrosoft"
+    },
+    "video": {
+      "codepoint": 57648,
+      "fontFamily": "Typcn",
+      "identifier": "video"
+    },
+    "video-outline": {
+      "codepoint": 57649,
+      "fontFamily": "Typcn",
+      "identifier": "videoOutline"
+    },
+    "volume": {
+      "codepoint": 57650,
+      "fontFamily": "Typcn",
+      "identifier": "volume"
+    },
+    "volume-down": {
+      "codepoint": 57651,
+      "fontFamily": "Typcn",
+      "identifier": "volumeDown"
+    },
+    "volume-mute": {
+      "codepoint": 57652,
+      "fontFamily": "Typcn",
+      "identifier": "volumeMute"
+    },
+    "volume-up": {
+      "codepoint": 57653,
+      "fontFamily": "Typcn",
+      "identifier": "volumeUp"
+    },
+    "warning": {
+      "codepoint": 57654,
+      "fontFamily": "Typcn",
+      "identifier": "warning"
+    },
+    "warning-outline": {
+      "codepoint": 57655,
+      "fontFamily": "Typcn",
+      "identifier": "warningOutline"
+    },
+    "watch": {
+      "codepoint": 57656,
+      "fontFamily": "Typcn",
+      "identifier": "watch"
+    },
+    "waves": {
+      "codepoint": 57657,
+      "fontFamily": "Typcn",
+      "identifier": "waves"
+    },
+    "waves-outline": {
+      "codepoint": 57658,
+      "fontFamily": "Typcn",
+      "identifier": "wavesOutline"
+    },
+    "weather-cloudy": {
+      "codepoint": 57659,
+      "fontFamily": "Typcn",
+      "identifier": "weatherCloudy"
+    },
+    "weather-downpour": {
+      "codepoint": 57660,
+      "fontFamily": "Typcn",
+      "identifier": "weatherDownpour"
+    },
+    "weather-night": {
+      "codepoint": 57661,
+      "fontFamily": "Typcn",
+      "identifier": "weatherNight"
+    },
+    "weather-partly-sunny": {
+      "codepoint": 57662,
+      "fontFamily": "Typcn",
+      "identifier": "weatherPartlySunny"
+    },
+    "weather-shower": {
+      "codepoint": 57663,
+      "fontFamily": "Typcn",
+      "identifier": "weatherShower"
+    },
+    "weather-snow": {
+      "codepoint": 57664,
+      "fontFamily": "Typcn",
+      "identifier": "weatherSnow"
+    },
+    "weather-stormy": {
+      "codepoint": 57665,
+      "fontFamily": "Typcn",
+      "identifier": "weatherStormy"
+    },
+    "weather-sunny": {
+      "codepoint": 57666,
+      "fontFamily": "Typcn",
+      "identifier": "weatherSunny"
+    },
+    "weather-windy": {
+      "codepoint": 57667,
+      "fontFamily": "Typcn",
+      "identifier": "weatherWindy"
+    },
+    "weather-windy-cloudy": {
+      "codepoint": 57668,
+      "fontFamily": "Typcn",
+      "identifier": "weatherWindyCloudy"
+    },
+    "wi-fi": {
+      "codepoint": 57669,
+      "fontFamily": "Typcn",
+      "identifier": "wiFi"
+    },
+    "wi-fi-outline": {
+      "codepoint": 57670,
+      "fontFamily": "Typcn",
+      "identifier": "wiFiOutline"
+    },
+    "wine": {
+      "codepoint": 57671,
+      "fontFamily": "Typcn",
+      "identifier": "wine"
+    },
+    "world": {
+      "codepoint": 57672,
+      "fontFamily": "Typcn",
+      "identifier": "world"
+    },
+    "world-outline": {
+      "codepoint": 57673,
+      "fontFamily": "Typcn",
+      "identifier": "worldOutline"
+    },
+    "zoom": {
+      "codepoint": 57674,
+      "fontFamily": "Typcn",
+      "identifier": "zoom"
+    },
+    "zoom-in": {
+      "codepoint": 57675,
+      "fontFamily": "Typcn",
+      "identifier": "zoomIn"
+    },
+    "zoom-in-outline": {
+      "codepoint": 57676,
+      "fontFamily": "Typcn",
+      "identifier": "zoomInOutline"
+    },
+    "zoom-out": {
+      "codepoint": 57677,
+      "fontFamily": "Typcn",
+      "identifier": "zoomOut"
+    },
+    "zoom-out-outline": {
+      "codepoint": 57678,
+      "fontFamily": "Typcn",
+      "identifier": "zoomOutOutline"
+    },
+    "zoom-outline": {
+      "codepoint": 57679,
+      "fontFamily": "Typcn",
+      "identifier": "zoomOutline"
+    }
+  }
+}

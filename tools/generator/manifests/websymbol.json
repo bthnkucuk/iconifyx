@@ -1,0 +1,454 @@
+{
+  "schemaVersion": 1,
+  "prefix": "websymbol",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": null,
+  "subPackage": "iconifyx_websymbol",
+  "info": {
+    "name": "Web Symbols Liga",
+    "author": {
+      "name": "Just Be Nice studio"
+    },
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+    },
+    "total": 85
+  },
+  "fonts": [
+    {
+      "family": "Websymbol",
+      "nextCodepoint": 57429,
+      "iconCount": 85
+    }
+  ],
+  "icons": {
+    "archive": {
+      "codepoint": 57344,
+      "fontFamily": "Websymbol",
+      "identifier": "archive"
+    },
+    "arrows-cw": {
+      "codepoint": 57345,
+      "fontFamily": "Websymbol",
+      "identifier": "arrowsCw"
+    },
+    "attach": {
+      "codepoint": 57346,
+      "fontFamily": "Websymbol",
+      "identifier": "attach"
+    },
+    "attention": {
+      "codepoint": 57347,
+      "fontFamily": "Websymbol",
+      "identifier": "attention"
+    },
+    "block": {
+      "codepoint": 57348,
+      "fontFamily": "Websymbol",
+      "identifier": "block"
+    },
+    "cancel": {
+      "codepoint": 57349,
+      "fontFamily": "Websymbol",
+      "identifier": "cancel"
+    },
+    "cancel-circle": {
+      "codepoint": 57350,
+      "fontFamily": "Websymbol",
+      "identifier": "cancelCircle"
+    },
+    "chat": {
+      "codepoint": 57351,
+      "fontFamily": "Websymbol",
+      "identifier": "chat"
+    },
+    "clock": {
+      "codepoint": 57352,
+      "fontFamily": "Websymbol",
+      "identifier": "clock"
+    },
+    "cloud": {
+      "codepoint": 57353,
+      "fontFamily": "Websymbol",
+      "identifier": "cloud"
+    },
+    "code": {
+      "codepoint": 57354,
+      "fontFamily": "Websymbol",
+      "identifier": "code"
+    },
+    "cog": {
+      "codepoint": 57355,
+      "fontFamily": "Websymbol",
+      "identifier": "cog"
+    },
+    "comment": {
+      "codepoint": 57356,
+      "fontFamily": "Websymbol",
+      "identifier": "comment"
+    },
+    "comment-alt": {
+      "codepoint": 57357,
+      "fontFamily": "Websymbol",
+      "identifier": "commentAlt"
+    },
+    "cw-circle": {
+      "codepoint": 57358,
+      "fontFamily": "Websymbol",
+      "identifier": "cwCircle"
+    },
+    "doc": {
+      "codepoint": 57359,
+      "fontFamily": "Websymbol",
+      "identifier": "doc"
+    },
+    "docs-landscape": {
+      "codepoint": 57360,
+      "fontFamily": "Websymbol",
+      "identifier": "docsLandscape"
+    },
+    "down-circle": {
+      "codepoint": 57361,
+      "fontFamily": "Websymbol",
+      "identifier": "downCircle"
+    },
+    "down-dir": {
+      "codepoint": 57362,
+      "fontFamily": "Websymbol",
+      "identifier": "downDir"
+    },
+    "down-micro": {
+      "codepoint": 57363,
+      "fontFamily": "Websymbol",
+      "identifier": "downMicro"
+    },
+    "facebook-rect": {
+      "codepoint": 57364,
+      "fontFamily": "Websymbol",
+      "identifier": "facebookRect"
+    },
+    "folder": {
+      "codepoint": 57365,
+      "fontFamily": "Websymbol",
+      "identifier": "folder"
+    },
+    "font": {
+      "codepoint": 57366,
+      "fontFamily": "Websymbol",
+      "identifier": "font"
+    },
+    "forward": {
+      "codepoint": 57367,
+      "fontFamily": "Websymbol",
+      "identifier": "forward"
+    },
+    "googleplus-rect": {
+      "codepoint": 57368,
+      "fontFamily": "Websymbol",
+      "identifier": "googleplusRect"
+    },
+    "heart": {
+      "codepoint": 57369,
+      "fontFamily": "Websymbol",
+      "identifier": "heart"
+    },
+    "heart-empty": {
+      "codepoint": 57370,
+      "fontFamily": "Websymbol",
+      "identifier": "heartEmpty"
+    },
+    "indent-left": {
+      "codepoint": 57371,
+      "fontFamily": "Websymbol",
+      "identifier": "indentLeft"
+    },
+    "indent-right": {
+      "codepoint": 57372,
+      "fontFamily": "Websymbol",
+      "identifier": "indentRight"
+    },
+    "left-circle": {
+      "codepoint": 57373,
+      "fontFamily": "Websymbol",
+      "identifier": "leftCircle"
+    },
+    "left-open": {
+      "codepoint": 57374,
+      "fontFamily": "Websymbol",
+      "identifier": "leftOpen"
+    },
+    "link": {
+      "codepoint": 57375,
+      "fontFamily": "Websymbol",
+      "identifier": "link"
+    },
+    "linkedin-rect": {
+      "codepoint": 57376,
+      "fontFamily": "Websymbol",
+      "identifier": "linkedinRect"
+    },
+    "list": {
+      "codepoint": 57377,
+      "fontFamily": "Websymbol",
+      "identifier": "list"
+    },
+    "list-numbered": {
+      "codepoint": 57378,
+      "fontFamily": "Websymbol",
+      "identifier": "listNumbered"
+    },
+    "location": {
+      "codepoint": 57379,
+      "fontFamily": "Websymbol",
+      "identifier": "location"
+    },
+    "lock": {
+      "codepoint": 57380,
+      "fontFamily": "Websymbol",
+      "identifier": "lock"
+    },
+    "lock-open": {
+      "codepoint": 57381,
+      "fontFamily": "Websymbol",
+      "identifier": "lockOpen"
+    },
+    "logout": {
+      "codepoint": 57382,
+      "fontFamily": "Websymbol",
+      "identifier": "logout"
+    },
+    "mail": {
+      "codepoint": 57383,
+      "fontFamily": "Websymbol",
+      "identifier": "mail"
+    },
+    "minus-circle": {
+      "codepoint": 57384,
+      "fontFamily": "Websymbol",
+      "identifier": "minusCircle"
+    },
+    "odnoklassniki-rect": {
+      "codepoint": 57385,
+      "fontFamily": "Websymbol",
+      "identifier": "odnoklassnikiRect"
+    },
+    "ok": {
+      "codepoint": 57386,
+      "fontFamily": "Websymbol",
+      "identifier": "ok"
+    },
+    "ok-circle": {
+      "codepoint": 57387,
+      "fontFamily": "Websymbol",
+      "identifier": "okCircle"
+    },
+    "picture": {
+      "codepoint": 57388,
+      "fontFamily": "Websymbol",
+      "identifier": "picture"
+    },
+    "plus-circle": {
+      "codepoint": 57389,
+      "fontFamily": "Websymbol",
+      "identifier": "plusCircle"
+    },
+    "popup": {
+      "codepoint": 57390,
+      "fontFamily": "Websymbol",
+      "identifier": "popup"
+    },
+    "progress-0": {
+      "codepoint": 57391,
+      "fontFamily": "Websymbol",
+      "identifier": "progress0"
+    },
+    "progress-1": {
+      "codepoint": 57392,
+      "fontFamily": "Websymbol",
+      "identifier": "progress1"
+    },
+    "progress-2": {
+      "codepoint": 57393,
+      "fontFamily": "Websymbol",
+      "identifier": "progress2"
+    },
+    "progress-3": {
+      "codepoint": 57394,
+      "fontFamily": "Websymbol",
+      "identifier": "progress3"
+    },
+    "progress-4": {
+      "codepoint": 57395,
+      "fontFamily": "Websymbol",
+      "identifier": "progress4"
+    },
+    "progress-5": {
+      "codepoint": 57396,
+      "fontFamily": "Websymbol",
+      "identifier": "progress5"
+    },
+    "progress-6": {
+      "codepoint": 57397,
+      "fontFamily": "Websymbol",
+      "identifier": "progress6"
+    },
+    "progress-7": {
+      "codepoint": 57398,
+      "fontFamily": "Websymbol",
+      "identifier": "progress7"
+    },
+    "reply": {
+      "codepoint": 57399,
+      "fontFamily": "Websymbol",
+      "identifier": "reply"
+    },
+    "reply-all": {
+      "codepoint": 57400,
+      "fontFamily": "Websymbol",
+      "identifier": "replyAll"
+    },
+    "resize-full": {
+      "codepoint": 57401,
+      "fontFamily": "Websymbol",
+      "identifier": "resizeFull"
+    },
+    "resize-full-circle": {
+      "codepoint": 57402,
+      "fontFamily": "Websymbol",
+      "identifier": "resizeFullCircle"
+    },
+    "retweet": {
+      "codepoint": 57403,
+      "fontFamily": "Websymbol",
+      "identifier": "retweet"
+    },
+    "right-circle": {
+      "codepoint": 57404,
+      "fontFamily": "Websymbol",
+      "identifier": "rightCircle"
+    },
+    "right-dir": {
+      "codepoint": 57405,
+      "fontFamily": "Websymbol",
+      "identifier": "rightDir"
+    },
+    "right-open": {
+      "codepoint": 57406,
+      "fontFamily": "Websymbol",
+      "identifier": "rightOpen"
+    },
+    "rss": {
+      "codepoint": 57407,
+      "fontFamily": "Websymbol",
+      "identifier": "rss"
+    },
+    "rss-alt": {
+      "codepoint": 57408,
+      "fontFamily": "Websymbol",
+      "identifier": "rssAlt"
+    },
+    "search": {
+      "codepoint": 57409,
+      "fontFamily": "Websymbol",
+      "identifier": "search"
+    },
+    "signal": {
+      "codepoint": 57410,
+      "fontFamily": "Websymbol",
+      "identifier": "signal"
+    },
+    "skype": {
+      "codepoint": 57411,
+      "fontFamily": "Websymbol",
+      "identifier": "skype"
+    },
+    "star": {
+      "codepoint": 57412,
+      "fontFamily": "Websymbol",
+      "identifier": "star"
+    },
+    "tag": {
+      "codepoint": 57413,
+      "fontFamily": "Websymbol",
+      "identifier": "tag"
+    },
+    "target": {
+      "codepoint": 57414,
+      "fontFamily": "Websymbol",
+      "identifier": "target"
+    },
+    "terminal": {
+      "codepoint": 57415,
+      "fontFamily": "Websymbol",
+      "identifier": "terminal"
+    },
+    "th": {
+      "codepoint": 57416,
+      "fontFamily": "Websymbol",
+      "identifier": "th"
+    },
+    "th-large": {
+      "codepoint": 57417,
+      "fontFamily": "Websymbol",
+      "identifier": "thLarge"
+    },
+    "th-list": {
+      "codepoint": 57418,
+      "fontFamily": "Websymbol",
+      "identifier": "thList"
+    },
+    "tumblr-rect": {
+      "codepoint": 57419,
+      "fontFamily": "Websymbol",
+      "identifier": "tumblrRect"
+    },
+    "twitter-bird": {
+      "codepoint": 57420,
+      "fontFamily": "Websymbol",
+      "identifier": "twitterBird"
+    },
+    "up-circle": {
+      "codepoint": 57421,
+      "fontFamily": "Websymbol",
+      "identifier": "upCircle"
+    },
+    "up-micro": {
+      "codepoint": 57422,
+      "fontFamily": "Websymbol",
+      "identifier": "upMicro"
+    },
+    "updown-circle": {
+      "codepoint": 57423,
+      "fontFamily": "Websymbol",
+      "identifier": "updownCircle"
+    },
+    "user": {
+      "codepoint": 57424,
+      "fontFamily": "Websymbol",
+      "identifier": "user"
+    },
+    "video": {
+      "codepoint": 57425,
+      "fontFamily": "Websymbol",
+      "identifier": "video"
+    },
+    "vimeo-rect": {
+      "codepoint": 57426,
+      "fontFamily": "Websymbol",
+      "identifier": "vimeoRect"
+    },
+    "vkontakte-rect": {
+      "codepoint": 57427,
+      "fontFamily": "Websymbol",
+      "identifier": "vkontakteRect"
+    },
+    "youtube": {
+      "codepoint": 57428,
+      "fontFamily": "Websymbol",
+      "identifier": "youtube"
+    }
+  }
+}

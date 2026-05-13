@@ -1,0 +1,1470 @@
+{
+  "schemaVersion": 1,
+  "prefix": "humbleicons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_humbleicons",
+  "info": {
+    "name": "Humbleicons",
+    "author": {
+      "name": "Jiří Zralý",
+      "url": "https://github.com/zraly/humbleicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/zraly/humbleicons/blob/master/license"
+    },
+    "total": 288
+  },
+  "fonts": [
+    {
+      "family": "Humbleicons",
+      "nextCodepoint": 57632,
+      "iconCount": 288
+    }
+  ],
+  "icons": {
+    "activity": {
+      "codepoint": 57344,
+      "fontFamily": "Humbleicons",
+      "identifier": "activity"
+    },
+    "adjustments": {
+      "codepoint": 57345,
+      "fontFamily": "Humbleicons",
+      "identifier": "adjustments"
+    },
+    "ai": {
+      "codepoint": 57346,
+      "fontFamily": "Humbleicons",
+      "identifier": "ai"
+    },
+    "aid": {
+      "codepoint": 57347,
+      "fontFamily": "Humbleicons",
+      "identifier": "aid"
+    },
+    "align-objects-bottom": {
+      "codepoint": 57348,
+      "fontFamily": "Humbleicons",
+      "identifier": "alignObjectsBottom"
+    },
+    "align-objects-center": {
+      "codepoint": 57349,
+      "fontFamily": "Humbleicons",
+      "identifier": "alignObjectsCenter"
+    },
+    "align-objects-left": {
+      "codepoint": 57350,
+      "fontFamily": "Humbleicons",
+      "identifier": "alignObjectsLeft"
+    },
+    "align-objects-middle": {
+      "codepoint": 57351,
+      "fontFamily": "Humbleicons",
+      "identifier": "alignObjectsMiddle"
+    },
+    "align-objects-right": {
+      "codepoint": 57352,
+      "fontFamily": "Humbleicons",
+      "identifier": "alignObjectsRight"
+    },
+    "align-objects-top": {
+      "codepoint": 57353,
+      "fontFamily": "Humbleicons",
+      "identifier": "alignObjectsTop"
+    },
+    "align-text-center": {
+      "codepoint": 57354,
+      "fontFamily": "Humbleicons",
+      "identifier": "alignTextCenter"
+    },
+    "align-text-justify": {
+      "codepoint": 57355,
+      "fontFamily": "Humbleicons",
+      "identifier": "alignTextJustify"
+    },
+    "align-text-left": {
+      "codepoint": 57356,
+      "fontFamily": "Humbleicons",
+      "identifier": "alignTextLeft"
+    },
+    "align-text-right": {
+      "codepoint": 57357,
+      "fontFamily": "Humbleicons",
+      "identifier": "alignTextRight"
+    },
+    "archive": {
+      "codepoint": 57358,
+      "fontFamily": "Humbleicons",
+      "identifier": "archive"
+    },
+    "arrow-down": {
+      "codepoint": 57359,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowDown"
+    },
+    "arrow-go-back": {
+      "codepoint": 57360,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowGoBack"
+    },
+    "arrow-go-forward": {
+      "codepoint": 57361,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowGoForward"
+    },
+    "arrow-join": {
+      "codepoint": 57362,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowJoin"
+    },
+    "arrow-left": {
+      "codepoint": 57363,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-down": {
+      "codepoint": 57364,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowLeftDown"
+    },
+    "arrow-left-up": {
+      "codepoint": 57365,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowLeftUp"
+    },
+    "arrow-main-split-side": {
+      "codepoint": 57366,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowMainSplitSide"
+    },
+    "arrow-right": {
+      "codepoint": 57367,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-down": {
+      "codepoint": 57368,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowRightDown"
+    },
+    "arrow-right-up": {
+      "codepoint": 57369,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowRightUp"
+    },
+    "arrow-side-join-main": {
+      "codepoint": 57370,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowSideJoinMain"
+    },
+    "arrow-split": {
+      "codepoint": 57371,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowSplit"
+    },
+    "arrow-up": {
+      "codepoint": 57372,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowUp"
+    },
+    "arrows": {
+      "codepoint": 57373,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrows"
+    },
+    "arrows-horizontal": {
+      "codepoint": 57374,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowsHorizontal"
+    },
+    "arrows-right-left": {
+      "codepoint": 57375,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowsRightLeft"
+    },
+    "arrows-up-down": {
+      "codepoint": 57376,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowsUpDown"
+    },
+    "arrows-vertical": {
+      "codepoint": 57377,
+      "fontFamily": "Humbleicons",
+      "identifier": "arrowsVertical"
+    },
+    "asterisk-simple": {
+      "codepoint": 57378,
+      "fontFamily": "Humbleicons",
+      "identifier": "asteriskSimple"
+    },
+    "at-symbol": {
+      "codepoint": 57379,
+      "fontFamily": "Humbleicons",
+      "identifier": "atSymbol"
+    },
+    "ban": {
+      "codepoint": 57380,
+      "fontFamily": "Humbleicons",
+      "identifier": "ban"
+    },
+    "bandage": {
+      "codepoint": 57381,
+      "fontFamily": "Humbleicons",
+      "identifier": "bandage"
+    },
+    "bar-chart": {
+      "codepoint": 57382,
+      "fontFamily": "Humbleicons",
+      "identifier": "barChart"
+    },
+    "bars": {
+      "codepoint": 57383,
+      "fontFamily": "Humbleicons",
+      "identifier": "bars"
+    },
+    "basket": {
+      "codepoint": 57384,
+      "fontFamily": "Humbleicons",
+      "identifier": "basket"
+    },
+    "battery": {
+      "codepoint": 57385,
+      "fontFamily": "Humbleicons",
+      "identifier": "battery"
+    },
+    "battery-charging": {
+      "codepoint": 57386,
+      "fontFamily": "Humbleicons",
+      "identifier": "batteryCharging"
+    },
+    "battery-full": {
+      "codepoint": 57387,
+      "fontFamily": "Humbleicons",
+      "identifier": "batteryFull"
+    },
+    "battery-half": {
+      "codepoint": 57388,
+      "fontFamily": "Humbleicons",
+      "identifier": "batteryHalf"
+    },
+    "beer": {
+      "codepoint": 57389,
+      "fontFamily": "Humbleicons",
+      "identifier": "beer"
+    },
+    "bell": {
+      "codepoint": 57390,
+      "fontFamily": "Humbleicons",
+      "identifier": "bell"
+    },
+    "bell-off": {
+      "codepoint": 57391,
+      "fontFamily": "Humbleicons",
+      "identifier": "bellOff"
+    },
+    "bike": {
+      "codepoint": 57392,
+      "fontFamily": "Humbleicons",
+      "identifier": "bike"
+    },
+    "bold": {
+      "codepoint": 57393,
+      "fontFamily": "Humbleicons",
+      "identifier": "bold"
+    },
+    "book": {
+      "codepoint": 57394,
+      "fontFamily": "Humbleicons",
+      "identifier": "book"
+    },
+    "book-open": {
+      "codepoint": 57395,
+      "fontFamily": "Humbleicons",
+      "identifier": "bookOpen"
+    },
+    "bookmark": {
+      "codepoint": 57396,
+      "fontFamily": "Humbleicons",
+      "identifier": "bookmark"
+    },
+    "bounce": {
+      "codepoint": 57397,
+      "fontFamily": "Humbleicons",
+      "identifier": "bounce"
+    },
+    "box": {
+      "codepoint": 57398,
+      "fontFamily": "Humbleicons",
+      "identifier": "box"
+    },
+    "brand-android": {
+      "codepoint": 57399,
+      "fontFamily": "Humbleicons",
+      "identifier": "brandAndroid"
+    },
+    "brand-apple": {
+      "codepoint": 57400,
+      "fontFamily": "Humbleicons",
+      "identifier": "brandApple"
+    },
+    "brand-facebook": {
+      "codepoint": 57401,
+      "fontFamily": "Humbleicons",
+      "identifier": "brandFacebook"
+    },
+    "brand-github": {
+      "codepoint": 57402,
+      "fontFamily": "Humbleicons",
+      "identifier": "brandGithub"
+    },
+    "brand-home-assistant": {
+      "codepoint": 57403,
+      "fontFamily": "Humbleicons",
+      "identifier": "brandHomeAssistant"
+    },
+    "brand-instagram": {
+      "codepoint": 57404,
+      "fontFamily": "Humbleicons",
+      "identifier": "brandInstagram"
+    },
+    "brand-php": {
+      "codepoint": 57405,
+      "fontFamily": "Humbleicons",
+      "identifier": "brandPhp"
+    },
+    "brand-twitter": {
+      "codepoint": 57406,
+      "fontFamily": "Humbleicons",
+      "identifier": "brandTwitter"
+    },
+    "brand-x": {
+      "codepoint": 57407,
+      "fontFamily": "Humbleicons",
+      "identifier": "brandX"
+    },
+    "briefcase": {
+      "codepoint": 57408,
+      "fontFamily": "Humbleicons",
+      "identifier": "briefcase"
+    },
+    "brush-big": {
+      "codepoint": 57409,
+      "fontFamily": "Humbleicons",
+      "identifier": "brushBig"
+    },
+    "building": {
+      "codepoint": 57410,
+      "fontFamily": "Humbleicons",
+      "identifier": "building"
+    },
+    "bulb": {
+      "codepoint": 57411,
+      "fontFamily": "Humbleicons",
+      "identifier": "bulb"
+    },
+    "bulb-off": {
+      "codepoint": 57412,
+      "fontFamily": "Humbleicons",
+      "identifier": "bulbOff"
+    },
+    "calendar": {
+      "codepoint": 57413,
+      "fontFamily": "Humbleicons",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57414,
+      "fontFamily": "Humbleicons",
+      "identifier": "camera"
+    },
+    "camera-off": {
+      "codepoint": 57415,
+      "fontFamily": "Humbleicons",
+      "identifier": "cameraOff"
+    },
+    "camera-video": {
+      "codepoint": 57416,
+      "fontFamily": "Humbleicons",
+      "identifier": "cameraVideo"
+    },
+    "camera-video-off": {
+      "codepoint": 57417,
+      "fontFamily": "Humbleicons",
+      "identifier": "cameraVideoOff"
+    },
+    "car": {
+      "codepoint": 57418,
+      "fontFamily": "Humbleicons",
+      "identifier": "car"
+    },
+    "cart": {
+      "codepoint": 57419,
+      "fontFamily": "Humbleicons",
+      "identifier": "cart"
+    },
+    "certificate": {
+      "codepoint": 57420,
+      "fontFamily": "Humbleicons",
+      "identifier": "certificate"
+    },
+    "certificate-check": {
+      "codepoint": 57421,
+      "fontFamily": "Humbleicons",
+      "identifier": "certificateCheck"
+    },
+    "certificate-off": {
+      "codepoint": 57422,
+      "fontFamily": "Humbleicons",
+      "identifier": "certificateOff"
+    },
+    "chart": {
+      "codepoint": 57423,
+      "fontFamily": "Humbleicons",
+      "identifier": "chart"
+    },
+    "chat": {
+      "codepoint": 57424,
+      "fontFamily": "Humbleicons",
+      "identifier": "chat"
+    },
+    "chats": {
+      "codepoint": 57425,
+      "fontFamily": "Humbleicons",
+      "identifier": "chats"
+    },
+    "check": {
+      "codepoint": 57426,
+      "fontFamily": "Humbleicons",
+      "identifier": "check"
+    },
+    "check-circle": {
+      "codepoint": 57427,
+      "fontFamily": "Humbleicons",
+      "identifier": "checkCircle"
+    },
+    "chevron-down": {
+      "codepoint": 57428,
+      "fontFamily": "Humbleicons",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57429,
+      "fontFamily": "Humbleicons",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57430,
+      "fontFamily": "Humbleicons",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57431,
+      "fontFamily": "Humbleicons",
+      "identifier": "chevronUp"
+    },
+    "circle": {
+      "codepoint": 57432,
+      "fontFamily": "Humbleicons",
+      "identifier": "circle"
+    },
+    "clipboard": {
+      "codepoint": 57433,
+      "fontFamily": "Humbleicons",
+      "identifier": "clipboard"
+    },
+    "clock": {
+      "codepoint": 57434,
+      "fontFamily": "Humbleicons",
+      "identifier": "clock"
+    },
+    "cloud": {
+      "codepoint": 57435,
+      "fontFamily": "Humbleicons",
+      "identifier": "cloud"
+    },
+    "cloud-sun": {
+      "codepoint": 57436,
+      "fontFamily": "Humbleicons",
+      "identifier": "cloudSun"
+    },
+    "club": {
+      "codepoint": 57437,
+      "fontFamily": "Humbleicons",
+      "identifier": "club"
+    },
+    "code": {
+      "codepoint": 57438,
+      "fontFamily": "Humbleicons",
+      "identifier": "code"
+    },
+    "coffee": {
+      "codepoint": 57439,
+      "fontFamily": "Humbleicons",
+      "identifier": "coffee"
+    },
+    "cog": {
+      "codepoint": 57440,
+      "fontFamily": "Humbleicons",
+      "identifier": "cog"
+    },
+    "cog-2": {
+      "codepoint": 57441,
+      "fontFamily": "Humbleicons",
+      "identifier": "cog2"
+    },
+    "coins": {
+      "codepoint": 57442,
+      "fontFamily": "Humbleicons",
+      "identifier": "coins"
+    },
+    "columns-one-two-thirds": {
+      "codepoint": 57443,
+      "fontFamily": "Humbleicons",
+      "identifier": "columnsOneTwoThirds"
+    },
+    "columns-three-thirds": {
+      "codepoint": 57444,
+      "fontFamily": "Humbleicons",
+      "identifier": "columnsThreeThirds"
+    },
+    "columns-two-halfs": {
+      "codepoint": 57445,
+      "fontFamily": "Humbleicons",
+      "identifier": "columnsTwoHalfs"
+    },
+    "corner-down-left": {
+      "codepoint": 57446,
+      "fontFamily": "Humbleicons",
+      "identifier": "cornerDownLeft"
+    },
+    "corner-down-right": {
+      "codepoint": 57447,
+      "fontFamily": "Humbleicons",
+      "identifier": "cornerDownRight"
+    },
+    "corner-left-down": {
+      "codepoint": 57448,
+      "fontFamily": "Humbleicons",
+      "identifier": "cornerLeftDown"
+    },
+    "corner-left-up": {
+      "codepoint": 57449,
+      "fontFamily": "Humbleicons",
+      "identifier": "cornerLeftUp"
+    },
+    "corner-right-down": {
+      "codepoint": 57450,
+      "fontFamily": "Humbleicons",
+      "identifier": "cornerRightDown"
+    },
+    "corner-right-up": {
+      "codepoint": 57451,
+      "fontFamily": "Humbleicons",
+      "identifier": "cornerRightUp"
+    },
+    "corner-top-left": {
+      "codepoint": 57452,
+      "fontFamily": "Humbleicons",
+      "identifier": "cornerTopLeft"
+    },
+    "corner-up-right": {
+      "codepoint": 57453,
+      "fontFamily": "Humbleicons",
+      "identifier": "cornerUpRight"
+    },
+    "cpu": {
+      "codepoint": 57454,
+      "fontFamily": "Humbleicons",
+      "identifier": "cpu"
+    },
+    "creative-commons": {
+      "codepoint": 57455,
+      "fontFamily": "Humbleicons",
+      "identifier": "creativeCommons"
+    },
+    "creative-commons-by": {
+      "codepoint": 57456,
+      "fontFamily": "Humbleicons",
+      "identifier": "creativeCommonsBy"
+    },
+    "creative-commons-nd": {
+      "codepoint": 57457,
+      "fontFamily": "Humbleicons",
+      "identifier": "creativeCommonsNd"
+    },
+    "creative-commons-sa": {
+      "codepoint": 57458,
+      "fontFamily": "Humbleicons",
+      "identifier": "creativeCommonsSa"
+    },
+    "credit-card": {
+      "codepoint": 57459,
+      "fontFamily": "Humbleicons",
+      "identifier": "creditCard"
+    },
+    "crop": {
+      "codepoint": 57460,
+      "fontFamily": "Humbleicons",
+      "identifier": "crop"
+    },
+    "crown": {
+      "codepoint": 57461,
+      "fontFamily": "Humbleicons",
+      "identifier": "crown"
+    },
+    "currency-dollar-circle": {
+      "codepoint": 57462,
+      "fontFamily": "Humbleicons",
+      "identifier": "currencyDollarCircle"
+    },
+    "currency-euro-circle": {
+      "codepoint": 57463,
+      "fontFamily": "Humbleicons",
+      "identifier": "currencyEuroCircle"
+    },
+    "currency-pound-circle": {
+      "codepoint": 57464,
+      "fontFamily": "Humbleicons",
+      "identifier": "currencyPoundCircle"
+    },
+    "cursor": {
+      "codepoint": 57465,
+      "fontFamily": "Humbleicons",
+      "identifier": "cursor"
+    },
+    "dashboard": {
+      "codepoint": 57466,
+      "fontFamily": "Humbleicons",
+      "identifier": "dashboard"
+    },
+    "database": {
+      "codepoint": 57467,
+      "fontFamily": "Humbleicons",
+      "identifier": "database"
+    },
+    "desktop": {
+      "codepoint": 57468,
+      "fontFamily": "Humbleicons",
+      "identifier": "desktop"
+    },
+    "document": {
+      "codepoint": 57469,
+      "fontFamily": "Humbleicons",
+      "identifier": "document"
+    },
+    "document-add": {
+      "codepoint": 57470,
+      "fontFamily": "Humbleicons",
+      "identifier": "documentAdd"
+    },
+    "document-remove": {
+      "codepoint": 57471,
+      "fontFamily": "Humbleicons",
+      "identifier": "documentRemove"
+    },
+    "documents": {
+      "codepoint": 57472,
+      "fontFamily": "Humbleicons",
+      "identifier": "documents"
+    },
+    "dots-horizontal": {
+      "codepoint": 57473,
+      "fontFamily": "Humbleicons",
+      "identifier": "dotsHorizontal"
+    },
+    "dots-vertical": {
+      "codepoint": 57474,
+      "fontFamily": "Humbleicons",
+      "identifier": "dotsVertical"
+    },
+    "download": {
+      "codepoint": 57475,
+      "fontFamily": "Humbleicons",
+      "identifier": "download"
+    },
+    "download-alt": {
+      "codepoint": 57476,
+      "fontFamily": "Humbleicons",
+      "identifier": "downloadAlt"
+    },
+    "droplet": {
+      "codepoint": 57477,
+      "fontFamily": "Humbleicons",
+      "identifier": "droplet"
+    },
+    "duplicate": {
+      "codepoint": 57478,
+      "fontFamily": "Humbleicons",
+      "identifier": "duplicate"
+    },
+    "exchange-horizontal": {
+      "codepoint": 57479,
+      "fontFamily": "Humbleicons",
+      "identifier": "exchangeHorizontal"
+    },
+    "exchange-vertical": {
+      "codepoint": 57480,
+      "fontFamily": "Humbleicons",
+      "identifier": "exchangeVertical"
+    },
+    "exclamation": {
+      "codepoint": 57481,
+      "fontFamily": "Humbleicons",
+      "identifier": "exclamation"
+    },
+    "exclamation-triangle": {
+      "codepoint": 57482,
+      "fontFamily": "Humbleicons",
+      "identifier": "exclamationTriangle"
+    },
+    "expand": {
+      "codepoint": 57483,
+      "fontFamily": "Humbleicons",
+      "identifier": "expand"
+    },
+    "external-link": {
+      "codepoint": 57484,
+      "fontFamily": "Humbleicons",
+      "identifier": "externalLink"
+    },
+    "eye": {
+      "codepoint": 57485,
+      "fontFamily": "Humbleicons",
+      "identifier": "eye"
+    },
+    "eye-close": {
+      "codepoint": 57486,
+      "fontFamily": "Humbleicons",
+      "identifier": "eyeClose"
+    },
+    "eye-off": {
+      "codepoint": 57487,
+      "fontFamily": "Humbleicons",
+      "identifier": "eyeOff"
+    },
+    "fast-forward": {
+      "codepoint": 57488,
+      "fontFamily": "Humbleicons",
+      "identifier": "fastForward"
+    },
+    "fingerprint": {
+      "codepoint": 57489,
+      "fontFamily": "Humbleicons",
+      "identifier": "fingerprint"
+    },
+    "flag": {
+      "codepoint": 57490,
+      "fontFamily": "Humbleicons",
+      "identifier": "flag"
+    },
+    "flash": {
+      "codepoint": 57491,
+      "fontFamily": "Humbleicons",
+      "identifier": "flash"
+    },
+    "flask": {
+      "codepoint": 57492,
+      "fontFamily": "Humbleicons",
+      "identifier": "flask"
+    },
+    "folder": {
+      "codepoint": 57493,
+      "fontFamily": "Humbleicons",
+      "identifier": "folder"
+    },
+    "folder-add": {
+      "codepoint": 57494,
+      "fontFamily": "Humbleicons",
+      "identifier": "folderAdd"
+    },
+    "folder-open": {
+      "codepoint": 57495,
+      "fontFamily": "Humbleicons",
+      "identifier": "folderOpen"
+    },
+    "folder-remove": {
+      "codepoint": 57496,
+      "fontFamily": "Humbleicons",
+      "identifier": "folderRemove"
+    },
+    "fork-knife": {
+      "codepoint": 57497,
+      "fontFamily": "Humbleicons",
+      "identifier": "forkKnife"
+    },
+    "funnel": {
+      "codepoint": 57498,
+      "fontFamily": "Humbleicons",
+      "identifier": "funnel"
+    },
+    "gift": {
+      "codepoint": 57499,
+      "fontFamily": "Humbleicons",
+      "identifier": "gift"
+    },
+    "git": {
+      "codepoint": 57500,
+      "fontFamily": "Humbleicons",
+      "identifier": "git"
+    },
+    "globe": {
+      "codepoint": 57501,
+      "fontFamily": "Humbleicons",
+      "identifier": "globe"
+    },
+    "heading": {
+      "codepoint": 57502,
+      "fontFamily": "Humbleicons",
+      "identifier": "heading"
+    },
+    "heart": {
+      "codepoint": 57503,
+      "fontFamily": "Humbleicons",
+      "identifier": "heart"
+    },
+    "history": {
+      "codepoint": 57504,
+      "fontFamily": "Humbleicons",
+      "identifier": "history"
+    },
+    "home": {
+      "codepoint": 57505,
+      "fontFamily": "Humbleicons",
+      "identifier": "home"
+    },
+    "humbleicon": {
+      "codepoint": 57506,
+      "fontFamily": "Humbleicons",
+      "identifier": "humbleicon"
+    },
+    "image": {
+      "codepoint": 57507,
+      "fontFamily": "Humbleicons",
+      "identifier": "image"
+    },
+    "images": {
+      "codepoint": 57508,
+      "fontFamily": "Humbleicons",
+      "identifier": "images"
+    },
+    "incognito": {
+      "codepoint": 57509,
+      "fontFamily": "Humbleicons",
+      "identifier": "incognito"
+    },
+    "incognito-2": {
+      "codepoint": 57510,
+      "fontFamily": "Humbleicons",
+      "identifier": "incognito2"
+    },
+    "info": {
+      "codepoint": 57511,
+      "fontFamily": "Humbleicons",
+      "identifier": "info"
+    },
+    "info-circle": {
+      "codepoint": 57512,
+      "fontFamily": "Humbleicons",
+      "identifier": "infoCircle"
+    },
+    "injection": {
+      "codepoint": 57513,
+      "fontFamily": "Humbleicons",
+      "identifier": "injection"
+    },
+    "italic": {
+      "codepoint": 57514,
+      "fontFamily": "Humbleicons",
+      "identifier": "italic"
+    },
+    "key": {
+      "codepoint": 57515,
+      "fontFamily": "Humbleicons",
+      "identifier": "key"
+    },
+    "layers": {
+      "codepoint": 57516,
+      "fontFamily": "Humbleicons",
+      "identifier": "layers"
+    },
+    "line-chart": {
+      "codepoint": 57517,
+      "fontFamily": "Humbleicons",
+      "identifier": "lineChart"
+    },
+    "link": {
+      "codepoint": 57518,
+      "fontFamily": "Humbleicons",
+      "identifier": "link"
+    },
+    "location": {
+      "codepoint": 57519,
+      "fontFamily": "Humbleicons",
+      "identifier": "location"
+    },
+    "lock": {
+      "codepoint": 57520,
+      "fontFamily": "Humbleicons",
+      "identifier": "lock"
+    },
+    "lock-open": {
+      "codepoint": 57521,
+      "fontFamily": "Humbleicons",
+      "identifier": "lockOpen"
+    },
+    "logout": {
+      "codepoint": 57522,
+      "fontFamily": "Humbleicons",
+      "identifier": "logout"
+    },
+    "mail": {
+      "codepoint": 57523,
+      "fontFamily": "Humbleicons",
+      "identifier": "mail"
+    },
+    "mail-multi": {
+      "codepoint": 57524,
+      "fontFamily": "Humbleicons",
+      "identifier": "mailMulti"
+    },
+    "mail-open": {
+      "codepoint": 57525,
+      "fontFamily": "Humbleicons",
+      "identifier": "mailOpen"
+    },
+    "map": {
+      "codepoint": 57526,
+      "fontFamily": "Humbleicons",
+      "identifier": "map"
+    },
+    "maximize": {
+      "codepoint": 57527,
+      "fontFamily": "Humbleicons",
+      "identifier": "maximize"
+    },
+    "microphone": {
+      "codepoint": 57528,
+      "fontFamily": "Humbleicons",
+      "identifier": "microphone"
+    },
+    "microphone-off": {
+      "codepoint": 57529,
+      "fontFamily": "Humbleicons",
+      "identifier": "microphoneOff"
+    },
+    "minus": {
+      "codepoint": 57530,
+      "fontFamily": "Humbleicons",
+      "identifier": "minus"
+    },
+    "minus-circle": {
+      "codepoint": 57531,
+      "fontFamily": "Humbleicons",
+      "identifier": "minusCircle"
+    },
+    "mobile": {
+      "codepoint": 57532,
+      "fontFamily": "Humbleicons",
+      "identifier": "mobile"
+    },
+    "money": {
+      "codepoint": 57533,
+      "fontFamily": "Humbleicons",
+      "identifier": "money"
+    },
+    "moon": {
+      "codepoint": 57534,
+      "fontFamily": "Humbleicons",
+      "identifier": "moon"
+    },
+    "moustache": {
+      "codepoint": 57535,
+      "fontFamily": "Humbleicons",
+      "identifier": "moustache"
+    },
+    "music-note": {
+      "codepoint": 57536,
+      "fontFamily": "Humbleicons",
+      "identifier": "musicNote"
+    },
+    "navigation": {
+      "codepoint": 57537,
+      "fontFamily": "Humbleicons",
+      "identifier": "navigation"
+    },
+    "note": {
+      "codepoint": 57538,
+      "fontFamily": "Humbleicons",
+      "identifier": "note"
+    },
+    "note-add": {
+      "codepoint": 57539,
+      "fontFamily": "Humbleicons",
+      "identifier": "noteAdd"
+    },
+    "note-remove": {
+      "codepoint": 57540,
+      "fontFamily": "Humbleicons",
+      "identifier": "noteRemove"
+    },
+    "notes": {
+      "codepoint": 57541,
+      "fontFamily": "Humbleicons",
+      "identifier": "notes"
+    },
+    "package": {
+      "codepoint": 57542,
+      "fontFamily": "Humbleicons",
+      "identifier": "package"
+    },
+    "paperclip": {
+      "codepoint": 57543,
+      "fontFamily": "Humbleicons",
+      "identifier": "paperclip"
+    },
+    "paperclip-off": {
+      "codepoint": 57544,
+      "fontFamily": "Humbleicons",
+      "identifier": "paperclipOff"
+    },
+    "pause": {
+      "codepoint": 57545,
+      "fontFamily": "Humbleicons",
+      "identifier": "pause"
+    },
+    "pencil": {
+      "codepoint": 57546,
+      "fontFamily": "Humbleicons",
+      "identifier": "pencil"
+    },
+    "phone": {
+      "codepoint": 57547,
+      "fontFamily": "Humbleicons",
+      "identifier": "phone"
+    },
+    "phone-call": {
+      "codepoint": 57548,
+      "fontFamily": "Humbleicons",
+      "identifier": "phoneCall"
+    },
+    "phone-forward": {
+      "codepoint": 57549,
+      "fontFamily": "Humbleicons",
+      "identifier": "phoneForward"
+    },
+    "phone-incoming": {
+      "codepoint": 57550,
+      "fontFamily": "Humbleicons",
+      "identifier": "phoneIncoming"
+    },
+    "phone-missed": {
+      "codepoint": 57551,
+      "fontFamily": "Humbleicons",
+      "identifier": "phoneMissed"
+    },
+    "phone-off": {
+      "codepoint": 57552,
+      "fontFamily": "Humbleicons",
+      "identifier": "phoneOff"
+    },
+    "phone-outgoing": {
+      "codepoint": 57553,
+      "fontFamily": "Humbleicons",
+      "identifier": "phoneOutgoing"
+    },
+    "pie-chart": {
+      "codepoint": 57554,
+      "fontFamily": "Humbleicons",
+      "identifier": "pieChart"
+    },
+    "pill": {
+      "codepoint": 57555,
+      "fontFamily": "Humbleicons",
+      "identifier": "pill"
+    },
+    "pill-off": {
+      "codepoint": 57556,
+      "fontFamily": "Humbleicons",
+      "identifier": "pillOff"
+    },
+    "plane": {
+      "codepoint": 57557,
+      "fontFamily": "Humbleicons",
+      "identifier": "plane"
+    },
+    "play": {
+      "codepoint": 57558,
+      "fontFamily": "Humbleicons",
+      "identifier": "play"
+    },
+    "plus": {
+      "codepoint": 57559,
+      "fontFamily": "Humbleicons",
+      "identifier": "plus"
+    },
+    "plus-circle": {
+      "codepoint": 57560,
+      "fontFamily": "Humbleicons",
+      "identifier": "plusCircle"
+    },
+    "power": {
+      "codepoint": 57561,
+      "fontFamily": "Humbleicons",
+      "identifier": "power"
+    },
+    "print": {
+      "codepoint": 57562,
+      "fontFamily": "Humbleicons",
+      "identifier": "print"
+    },
+    "prompt": {
+      "codepoint": 57563,
+      "fontFamily": "Humbleicons",
+      "identifier": "prompt"
+    },
+    "pulse": {
+      "codepoint": 57564,
+      "fontFamily": "Humbleicons",
+      "identifier": "pulse"
+    },
+    "radio": {
+      "codepoint": 57565,
+      "fontFamily": "Humbleicons",
+      "identifier": "radio"
+    },
+    "rain": {
+      "codepoint": 57566,
+      "fontFamily": "Humbleicons",
+      "identifier": "rain"
+    },
+    "refresh": {
+      "codepoint": 57567,
+      "fontFamily": "Humbleicons",
+      "identifier": "refresh"
+    },
+    "remote": {
+      "codepoint": 57568,
+      "fontFamily": "Humbleicons",
+      "identifier": "remote"
+    },
+    "restart": {
+      "codepoint": 57569,
+      "fontFamily": "Humbleicons",
+      "identifier": "restart"
+    },
+    "rewind": {
+      "codepoint": 57570,
+      "fontFamily": "Humbleicons",
+      "identifier": "rewind"
+    },
+    "rocket": {
+      "codepoint": 57571,
+      "fontFamily": "Humbleicons",
+      "identifier": "rocket"
+    },
+    "rss": {
+      "codepoint": 57572,
+      "fontFamily": "Humbleicons",
+      "identifier": "rss"
+    },
+    "save": {
+      "codepoint": 57573,
+      "fontFamily": "Humbleicons",
+      "identifier": "save"
+    },
+    "scissors": {
+      "codepoint": 57574,
+      "fontFamily": "Humbleicons",
+      "identifier": "scissors"
+    },
+    "search": {
+      "codepoint": 57575,
+      "fontFamily": "Humbleicons",
+      "identifier": "search"
+    },
+    "server": {
+      "codepoint": 57576,
+      "fontFamily": "Humbleicons",
+      "identifier": "server"
+    },
+    "servers": {
+      "codepoint": 57577,
+      "fontFamily": "Humbleicons",
+      "identifier": "servers"
+    },
+    "share": {
+      "codepoint": 57578,
+      "fontFamily": "Humbleicons",
+      "identifier": "share"
+    },
+    "share-alt": {
+      "codepoint": 57579,
+      "fontFamily": "Humbleicons",
+      "identifier": "shareAlt"
+    },
+    "shield": {
+      "codepoint": 57580,
+      "fontFamily": "Humbleicons",
+      "identifier": "shield"
+    },
+    "shield-check": {
+      "codepoint": 57581,
+      "fontFamily": "Humbleicons",
+      "identifier": "shieldCheck"
+    },
+    "shield-off": {
+      "codepoint": 57582,
+      "fontFamily": "Humbleicons",
+      "identifier": "shieldOff"
+    },
+    "ship": {
+      "codepoint": 57583,
+      "fontFamily": "Humbleicons",
+      "identifier": "ship"
+    },
+    "sign-direction": {
+      "codepoint": 57584,
+      "fontFamily": "Humbleicons",
+      "identifier": "signDirection"
+    },
+    "skip-backward": {
+      "codepoint": 57585,
+      "fontFamily": "Humbleicons",
+      "identifier": "skipBackward"
+    },
+    "skip-forward": {
+      "codepoint": 57586,
+      "fontFamily": "Humbleicons",
+      "identifier": "skipForward"
+    },
+    "skull": {
+      "codepoint": 57587,
+      "fontFamily": "Humbleicons",
+      "identifier": "skull"
+    },
+    "snow": {
+      "codepoint": 57588,
+      "fontFamily": "Humbleicons",
+      "identifier": "snow"
+    },
+    "spade": {
+      "codepoint": 57589,
+      "fontFamily": "Humbleicons",
+      "identifier": "spade"
+    },
+    "sparks": {
+      "codepoint": 57590,
+      "fontFamily": "Humbleicons",
+      "identifier": "sparks"
+    },
+    "spinner-dots": {
+      "codepoint": 57591,
+      "fontFamily": "Humbleicons",
+      "identifier": "spinnerDots"
+    },
+    "spinner-earring": {
+      "codepoint": 57592,
+      "fontFamily": "Humbleicons",
+      "identifier": "spinnerEarring"
+    },
+    "spinner-planet": {
+      "codepoint": 57593,
+      "fontFamily": "Humbleicons",
+      "identifier": "spinnerPlanet"
+    },
+    "square": {
+      "codepoint": 57594,
+      "fontFamily": "Humbleicons",
+      "identifier": "square"
+    },
+    "star": {
+      "codepoint": 57595,
+      "fontFamily": "Humbleicons",
+      "identifier": "star"
+    },
+    "storm": {
+      "codepoint": 57596,
+      "fontFamily": "Humbleicons",
+      "identifier": "storm"
+    },
+    "sun": {
+      "codepoint": 57597,
+      "fontFamily": "Humbleicons",
+      "identifier": "sun"
+    },
+    "support": {
+      "codepoint": 57598,
+      "fontFamily": "Humbleicons",
+      "identifier": "support"
+    },
+    "switch-off": {
+      "codepoint": 57599,
+      "fontFamily": "Humbleicons",
+      "identifier": "switchOff"
+    },
+    "switch-on": {
+      "codepoint": 57600,
+      "fontFamily": "Humbleicons",
+      "identifier": "switchOn"
+    },
+    "tag": {
+      "codepoint": 57601,
+      "fontFamily": "Humbleicons",
+      "identifier": "tag"
+    },
+    "tags": {
+      "codepoint": 57602,
+      "fontFamily": "Humbleicons",
+      "identifier": "tags"
+    },
+    "text": {
+      "codepoint": 57603,
+      "fontFamily": "Humbleicons",
+      "identifier": "text"
+    },
+    "text-aa": {
+      "codepoint": 57604,
+      "fontFamily": "Humbleicons",
+      "identifier": "textAa"
+    },
+    "times": {
+      "codepoint": 57605,
+      "fontFamily": "Humbleicons",
+      "identifier": "times"
+    },
+    "times-circle": {
+      "codepoint": 57606,
+      "fontFamily": "Humbleicons",
+      "identifier": "timesCircle"
+    },
+    "trash": {
+      "codepoint": 57607,
+      "fontFamily": "Humbleicons",
+      "identifier": "trash"
+    },
+    "trending-down": {
+      "codepoint": 57608,
+      "fontFamily": "Humbleicons",
+      "identifier": "trendingDown"
+    },
+    "trending-up": {
+      "codepoint": 57609,
+      "fontFamily": "Humbleicons",
+      "identifier": "trendingUp"
+    },
+    "triangle": {
+      "codepoint": 57610,
+      "fontFamily": "Humbleicons",
+      "identifier": "triangle"
+    },
+    "truck": {
+      "codepoint": 57611,
+      "fontFamily": "Humbleicons",
+      "identifier": "truck"
+    },
+    "underline": {
+      "codepoint": 57612,
+      "fontFamily": "Humbleicons",
+      "identifier": "underline"
+    },
+    "upload": {
+      "codepoint": 57613,
+      "fontFamily": "Humbleicons",
+      "identifier": "upload"
+    },
+    "url": {
+      "codepoint": 57614,
+      "fontFamily": "Humbleicons",
+      "identifier": "url"
+    },
+    "user": {
+      "codepoint": 57615,
+      "fontFamily": "Humbleicons",
+      "identifier": "user"
+    },
+    "user-add": {
+      "codepoint": 57616,
+      "fontFamily": "Humbleicons",
+      "identifier": "userAdd"
+    },
+    "user-asking": {
+      "codepoint": 57617,
+      "fontFamily": "Humbleicons",
+      "identifier": "userAsking"
+    },
+    "user-remove": {
+      "codepoint": 57618,
+      "fontFamily": "Humbleicons",
+      "identifier": "userRemove"
+    },
+    "users": {
+      "codepoint": 57619,
+      "fontFamily": "Humbleicons",
+      "identifier": "users"
+    },
+    "verified": {
+      "codepoint": 57620,
+      "fontFamily": "Humbleicons",
+      "identifier": "verified"
+    },
+    "view-grid": {
+      "codepoint": 57621,
+      "fontFamily": "Humbleicons",
+      "identifier": "viewGrid"
+    },
+    "view-list": {
+      "codepoint": 57622,
+      "fontFamily": "Humbleicons",
+      "identifier": "viewList"
+    },
+    "volume": {
+      "codepoint": 57623,
+      "fontFamily": "Humbleicons",
+      "identifier": "volume"
+    },
+    "volume-1": {
+      "codepoint": 57624,
+      "fontFamily": "Humbleicons",
+      "identifier": "volume1"
+    },
+    "volume-2": {
+      "codepoint": 57625,
+      "fontFamily": "Humbleicons",
+      "identifier": "volume2"
+    },
+    "volume-off": {
+      "codepoint": 57626,
+      "fontFamily": "Humbleicons",
+      "identifier": "volumeOff"
+    },
+    "wifi": {
+      "codepoint": 57627,
+      "fontFamily": "Humbleicons",
+      "identifier": "wifi"
+    },
+    "wifi-off": {
+      "codepoint": 57628,
+      "fontFamily": "Humbleicons",
+      "identifier": "wifiOff"
+    },
+    "wind": {
+      "codepoint": 57629,
+      "fontFamily": "Humbleicons",
+      "identifier": "wind"
+    },
+    "zoom-in": {
+      "codepoint": 57630,
+      "fontFamily": "Humbleicons",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 57631,
+      "fontFamily": "Humbleicons",
+      "identifier": "zoomOut"
+    }
+  }
+}

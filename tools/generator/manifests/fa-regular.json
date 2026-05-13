@@ -1,0 +1,785 @@
+{
+  "schemaVersion": 1,
+  "prefix": "fa-regular",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Archive / Unmaintained",
+  "subPackage": "iconifyx_fa_regular",
+  "info": {
+    "name": "Font Awesome 5 Regular",
+    "author": {
+      "name": "Dave Gandy",
+      "url": "https://github.com/FortAwesome/Font-Awesome"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 151
+  },
+  "fonts": [
+    {
+      "family": "FaRegular",
+      "nextCodepoint": 57495,
+      "iconCount": 151
+    }
+  ],
+  "icons": {
+    "address-book": {
+      "codepoint": 57344,
+      "fontFamily": "FaRegular",
+      "identifier": "addressBook"
+    },
+    "address-card": {
+      "codepoint": 57345,
+      "fontFamily": "FaRegular",
+      "identifier": "addressCard"
+    },
+    "angry": {
+      "codepoint": 57346,
+      "fontFamily": "FaRegular",
+      "identifier": "angry"
+    },
+    "arrow-alt-circle-down": {
+      "codepoint": 57347,
+      "fontFamily": "FaRegular",
+      "identifier": "arrowAltCircleDown"
+    },
+    "arrow-alt-circle-left": {
+      "codepoint": 57348,
+      "fontFamily": "FaRegular",
+      "identifier": "arrowAltCircleLeft"
+    },
+    "arrow-alt-circle-right": {
+      "codepoint": 57349,
+      "fontFamily": "FaRegular",
+      "identifier": "arrowAltCircleRight"
+    },
+    "arrow-alt-circle-up": {
+      "codepoint": 57350,
+      "fontFamily": "FaRegular",
+      "identifier": "arrowAltCircleUp"
+    },
+    "bell": {
+      "codepoint": 57351,
+      "fontFamily": "FaRegular",
+      "identifier": "bell"
+    },
+    "bell-slash": {
+      "codepoint": 57352,
+      "fontFamily": "FaRegular",
+      "identifier": "bellSlash"
+    },
+    "bookmark": {
+      "codepoint": 57353,
+      "fontFamily": "FaRegular",
+      "identifier": "bookmark"
+    },
+    "building": {
+      "codepoint": 57354,
+      "fontFamily": "FaRegular",
+      "identifier": "building"
+    },
+    "calendar": {
+      "codepoint": 57355,
+      "fontFamily": "FaRegular",
+      "identifier": "calendar"
+    },
+    "calendar-alt": {
+      "codepoint": 57356,
+      "fontFamily": "FaRegular",
+      "identifier": "calendarAlt"
+    },
+    "calendar-check": {
+      "codepoint": 57357,
+      "fontFamily": "FaRegular",
+      "identifier": "calendarCheck"
+    },
+    "calendar-minus": {
+      "codepoint": 57358,
+      "fontFamily": "FaRegular",
+      "identifier": "calendarMinus"
+    },
+    "calendar-plus": {
+      "codepoint": 57359,
+      "fontFamily": "FaRegular",
+      "identifier": "calendarPlus"
+    },
+    "calendar-times": {
+      "codepoint": 57360,
+      "fontFamily": "FaRegular",
+      "identifier": "calendarTimes"
+    },
+    "caret-square-down": {
+      "codepoint": 57361,
+      "fontFamily": "FaRegular",
+      "identifier": "caretSquareDown"
+    },
+    "caret-square-left": {
+      "codepoint": 57362,
+      "fontFamily": "FaRegular",
+      "identifier": "caretSquareLeft"
+    },
+    "caret-square-right": {
+      "codepoint": 57363,
+      "fontFamily": "FaRegular",
+      "identifier": "caretSquareRight"
+    },
+    "caret-square-up": {
+      "codepoint": 57364,
+      "fontFamily": "FaRegular",
+      "identifier": "caretSquareUp"
+    },
+    "chart-bar": {
+      "codepoint": 57365,
+      "fontFamily": "FaRegular",
+      "identifier": "chartBar"
+    },
+    "check-circle": {
+      "codepoint": 57366,
+      "fontFamily": "FaRegular",
+      "identifier": "checkCircle"
+    },
+    "check-square": {
+      "codepoint": 57367,
+      "fontFamily": "FaRegular",
+      "identifier": "checkSquare"
+    },
+    "circle": {
+      "codepoint": 57368,
+      "fontFamily": "FaRegular",
+      "identifier": "circle"
+    },
+    "clipboard": {
+      "codepoint": 57369,
+      "fontFamily": "FaRegular",
+      "identifier": "clipboard"
+    },
+    "clock": {
+      "codepoint": 57370,
+      "fontFamily": "FaRegular",
+      "identifier": "clock"
+    },
+    "clone": {
+      "codepoint": 57371,
+      "fontFamily": "FaRegular",
+      "identifier": "clone"
+    },
+    "closed-captioning": {
+      "codepoint": 57372,
+      "fontFamily": "FaRegular",
+      "identifier": "closedCaptioning"
+    },
+    "comment": {
+      "codepoint": 57373,
+      "fontFamily": "FaRegular",
+      "identifier": "comment"
+    },
+    "comment-alt": {
+      "codepoint": 57374,
+      "fontFamily": "FaRegular",
+      "identifier": "commentAlt"
+    },
+    "comment-dots": {
+      "codepoint": 57375,
+      "fontFamily": "FaRegular",
+      "identifier": "commentDots"
+    },
+    "comments": {
+      "codepoint": 57376,
+      "fontFamily": "FaRegular",
+      "identifier": "comments"
+    },
+    "compass": {
+      "codepoint": 57377,
+      "fontFamily": "FaRegular",
+      "identifier": "compass"
+    },
+    "copy": {
+      "codepoint": 57378,
+      "fontFamily": "FaRegular",
+      "identifier": "copy"
+    },
+    "copyright": {
+      "codepoint": 57379,
+      "fontFamily": "FaRegular",
+      "identifier": "copyright"
+    },
+    "credit-card": {
+      "codepoint": 57380,
+      "fontFamily": "FaRegular",
+      "identifier": "creditCard"
+    },
+    "dizzy": {
+      "codepoint": 57381,
+      "fontFamily": "FaRegular",
+      "identifier": "dizzy"
+    },
+    "dot-circle": {
+      "codepoint": 57382,
+      "fontFamily": "FaRegular",
+      "identifier": "dotCircle"
+    },
+    "edit": {
+      "codepoint": 57383,
+      "fontFamily": "FaRegular",
+      "identifier": "edit"
+    },
+    "envelope": {
+      "codepoint": 57384,
+      "fontFamily": "FaRegular",
+      "identifier": "envelope"
+    },
+    "envelope-open": {
+      "codepoint": 57385,
+      "fontFamily": "FaRegular",
+      "identifier": "envelopeOpen"
+    },
+    "eye": {
+      "codepoint": 57386,
+      "fontFamily": "FaRegular",
+      "identifier": "eye"
+    },
+    "eye-slash": {
+      "codepoint": 57387,
+      "fontFamily": "FaRegular",
+      "identifier": "eyeSlash"
+    },
+    "file": {
+      "codepoint": 57388,
+      "fontFamily": "FaRegular",
+      "identifier": "file"
+    },
+    "file-alt": {
+      "codepoint": 57389,
+      "fontFamily": "FaRegular",
+      "identifier": "fileAlt"
+    },
+    "file-archive": {
+      "codepoint": 57390,
+      "fontFamily": "FaRegular",
+      "identifier": "fileArchive"
+    },
+    "file-audio": {
+      "codepoint": 57391,
+      "fontFamily": "FaRegular",
+      "identifier": "fileAudio"
+    },
+    "file-code": {
+      "codepoint": 57392,
+      "fontFamily": "FaRegular",
+      "identifier": "fileCode"
+    },
+    "file-excel": {
+      "codepoint": 57393,
+      "fontFamily": "FaRegular",
+      "identifier": "fileExcel"
+    },
+    "file-image": {
+      "codepoint": 57394,
+      "fontFamily": "FaRegular",
+      "identifier": "fileImage"
+    },
+    "file-pdf": {
+      "codepoint": 57395,
+      "fontFamily": "FaRegular",
+      "identifier": "filePdf"
+    },
+    "file-powerpoint": {
+      "codepoint": 57396,
+      "fontFamily": "FaRegular",
+      "identifier": "filePowerpoint"
+    },
+    "file-video": {
+      "codepoint": 57397,
+      "fontFamily": "FaRegular",
+      "identifier": "fileVideo"
+    },
+    "file-word": {
+      "codepoint": 57398,
+      "fontFamily": "FaRegular",
+      "identifier": "fileWord"
+    },
+    "flag": {
+      "codepoint": 57399,
+      "fontFamily": "FaRegular",
+      "identifier": "flag"
+    },
+    "flushed": {
+      "codepoint": 57400,
+      "fontFamily": "FaRegular",
+      "identifier": "flushed"
+    },
+    "folder": {
+      "codepoint": 57401,
+      "fontFamily": "FaRegular",
+      "identifier": "folder"
+    },
+    "folder-open": {
+      "codepoint": 57402,
+      "fontFamily": "FaRegular",
+      "identifier": "folderOpen"
+    },
+    "frown": {
+      "codepoint": 57403,
+      "fontFamily": "FaRegular",
+      "identifier": "frown"
+    },
+    "frown-open": {
+      "codepoint": 57404,
+      "fontFamily": "FaRegular",
+      "identifier": "frownOpen"
+    },
+    "futbol": {
+      "codepoint": 57405,
+      "fontFamily": "FaRegular",
+      "identifier": "futbol"
+    },
+    "gem": {
+      "codepoint": 57406,
+      "fontFamily": "FaRegular",
+      "identifier": "gem"
+    },
+    "grimace": {
+      "codepoint": 57407,
+      "fontFamily": "FaRegular",
+      "identifier": "grimace"
+    },
+    "grin": {
+      "codepoint": 57408,
+      "fontFamily": "FaRegular",
+      "identifier": "grin"
+    },
+    "grin-alt": {
+      "codepoint": 57409,
+      "fontFamily": "FaRegular",
+      "identifier": "grinAlt"
+    },
+    "grin-beam": {
+      "codepoint": 57410,
+      "fontFamily": "FaRegular",
+      "identifier": "grinBeam"
+    },
+    "grin-beam-sweat": {
+      "codepoint": 57411,
+      "fontFamily": "FaRegular",
+      "identifier": "grinBeamSweat"
+    },
+    "grin-hearts": {
+      "codepoint": 57412,
+      "fontFamily": "FaRegular",
+      "identifier": "grinHearts"
+    },
+    "grin-squint": {
+      "codepoint": 57413,
+      "fontFamily": "FaRegular",
+      "identifier": "grinSquint"
+    },
+    "grin-squint-tears": {
+      "codepoint": 57414,
+      "fontFamily": "FaRegular",
+      "identifier": "grinSquintTears"
+    },
+    "grin-stars": {
+      "codepoint": 57415,
+      "fontFamily": "FaRegular",
+      "identifier": "grinStars"
+    },
+    "grin-tears": {
+      "codepoint": 57416,
+      "fontFamily": "FaRegular",
+      "identifier": "grinTears"
+    },
+    "grin-tongue": {
+      "codepoint": 57417,
+      "fontFamily": "FaRegular",
+      "identifier": "grinTongue"
+    },
+    "grin-tongue-squint": {
+      "codepoint": 57418,
+      "fontFamily": "FaRegular",
+      "identifier": "grinTongueSquint"
+    },
+    "grin-tongue-wink": {
+      "codepoint": 57419,
+      "fontFamily": "FaRegular",
+      "identifier": "grinTongueWink"
+    },
+    "grin-wink": {
+      "codepoint": 57420,
+      "fontFamily": "FaRegular",
+      "identifier": "grinWink"
+    },
+    "hand-lizard": {
+      "codepoint": 57421,
+      "fontFamily": "FaRegular",
+      "identifier": "handLizard"
+    },
+    "hand-paper": {
+      "codepoint": 57422,
+      "fontFamily": "FaRegular",
+      "identifier": "handPaper"
+    },
+    "hand-peace": {
+      "codepoint": 57423,
+      "fontFamily": "FaRegular",
+      "identifier": "handPeace"
+    },
+    "hand-point-down": {
+      "codepoint": 57424,
+      "fontFamily": "FaRegular",
+      "identifier": "handPointDown"
+    },
+    "hand-point-left": {
+      "codepoint": 57425,
+      "fontFamily": "FaRegular",
+      "identifier": "handPointLeft"
+    },
+    "hand-point-right": {
+      "codepoint": 57426,
+      "fontFamily": "FaRegular",
+      "identifier": "handPointRight"
+    },
+    "hand-point-up": {
+      "codepoint": 57427,
+      "fontFamily": "FaRegular",
+      "identifier": "handPointUp"
+    },
+    "hand-pointer": {
+      "codepoint": 57428,
+      "fontFamily": "FaRegular",
+      "identifier": "handPointer"
+    },
+    "hand-rock": {
+      "codepoint": 57429,
+      "fontFamily": "FaRegular",
+      "identifier": "handRock"
+    },
+    "hand-scissors": {
+      "codepoint": 57430,
+      "fontFamily": "FaRegular",
+      "identifier": "handScissors"
+    },
+    "hand-spock": {
+      "codepoint": 57431,
+      "fontFamily": "FaRegular",
+      "identifier": "handSpock"
+    },
+    "handshake": {
+      "codepoint": 57432,
+      "fontFamily": "FaRegular",
+      "identifier": "handshake"
+    },
+    "hdd": {
+      "codepoint": 57433,
+      "fontFamily": "FaRegular",
+      "identifier": "hdd"
+    },
+    "heart": {
+      "codepoint": 57434,
+      "fontFamily": "FaRegular",
+      "identifier": "heart"
+    },
+    "hospital": {
+      "codepoint": 57435,
+      "fontFamily": "FaRegular",
+      "identifier": "hospital"
+    },
+    "hourglass": {
+      "codepoint": 57436,
+      "fontFamily": "FaRegular",
+      "identifier": "hourglass"
+    },
+    "id-badge": {
+      "codepoint": 57437,
+      "fontFamily": "FaRegular",
+      "identifier": "idBadge"
+    },
+    "id-card": {
+      "codepoint": 57438,
+      "fontFamily": "FaRegular",
+      "identifier": "idCard"
+    },
+    "image": {
+      "codepoint": 57439,
+      "fontFamily": "FaRegular",
+      "identifier": "image"
+    },
+    "images": {
+      "codepoint": 57440,
+      "fontFamily": "FaRegular",
+      "identifier": "images"
+    },
+    "keyboard": {
+      "codepoint": 57441,
+      "fontFamily": "FaRegular",
+      "identifier": "keyboard"
+    },
+    "kiss": {
+      "codepoint": 57442,
+      "fontFamily": "FaRegular",
+      "identifier": "kiss"
+    },
+    "kiss-beam": {
+      "codepoint": 57443,
+      "fontFamily": "FaRegular",
+      "identifier": "kissBeam"
+    },
+    "kiss-wink-heart": {
+      "codepoint": 57444,
+      "fontFamily": "FaRegular",
+      "identifier": "kissWinkHeart"
+    },
+    "laugh": {
+      "codepoint": 57445,
+      "fontFamily": "FaRegular",
+      "identifier": "laugh"
+    },
+    "laugh-beam": {
+      "codepoint": 57446,
+      "fontFamily": "FaRegular",
+      "identifier": "laughBeam"
+    },
+    "laugh-squint": {
+      "codepoint": 57447,
+      "fontFamily": "FaRegular",
+      "identifier": "laughSquint"
+    },
+    "laugh-wink": {
+      "codepoint": 57448,
+      "fontFamily": "FaRegular",
+      "identifier": "laughWink"
+    },
+    "lemon": {
+      "codepoint": 57449,
+      "fontFamily": "FaRegular",
+      "identifier": "lemon"
+    },
+    "life-ring": {
+      "codepoint": 57450,
+      "fontFamily": "FaRegular",
+      "identifier": "lifeRing"
+    },
+    "lightbulb": {
+      "codepoint": 57451,
+      "fontFamily": "FaRegular",
+      "identifier": "lightbulb"
+    },
+    "list-alt": {
+      "codepoint": 57452,
+      "fontFamily": "FaRegular",
+      "identifier": "listAlt"
+    },
+    "map": {
+      "codepoint": 57453,
+      "fontFamily": "FaRegular",
+      "identifier": "map"
+    },
+    "meh": {
+      "codepoint": 57454,
+      "fontFamily": "FaRegular",
+      "identifier": "meh"
+    },
+    "meh-blank": {
+      "codepoint": 57455,
+      "fontFamily": "FaRegular",
+      "identifier": "mehBlank"
+    },
+    "meh-rolling-eyes": {
+      "codepoint": 57456,
+      "fontFamily": "FaRegular",
+      "identifier": "mehRollingEyes"
+    },
+    "minus-square": {
+      "codepoint": 57457,
+      "fontFamily": "FaRegular",
+      "identifier": "minusSquare"
+    },
+    "money-bill-alt": {
+      "codepoint": 57458,
+      "fontFamily": "FaRegular",
+      "identifier": "moneyBillAlt"
+    },
+    "moon": {
+      "codepoint": 57459,
+      "fontFamily": "FaRegular",
+      "identifier": "moon"
+    },
+    "newspaper": {
+      "codepoint": 57460,
+      "fontFamily": "FaRegular",
+      "identifier": "newspaper"
+    },
+    "object-group": {
+      "codepoint": 57461,
+      "fontFamily": "FaRegular",
+      "identifier": "objectGroup"
+    },
+    "object-ungroup": {
+      "codepoint": 57462,
+      "fontFamily": "FaRegular",
+      "identifier": "objectUngroup"
+    },
+    "paper-plane": {
+      "codepoint": 57463,
+      "fontFamily": "FaRegular",
+      "identifier": "paperPlane"
+    },
+    "pause-circle": {
+      "codepoint": 57464,
+      "fontFamily": "FaRegular",
+      "identifier": "pauseCircle"
+    },
+    "play-circle": {
+      "codepoint": 57465,
+      "fontFamily": "FaRegular",
+      "identifier": "playCircle"
+    },
+    "plus-square": {
+      "codepoint": 57466,
+      "fontFamily": "FaRegular",
+      "identifier": "plusSquare"
+    },
+    "question-circle": {
+      "codepoint": 57467,
+      "fontFamily": "FaRegular",
+      "identifier": "questionCircle"
+    },
+    "registered": {
+      "codepoint": 57468,
+      "fontFamily": "FaRegular",
+      "identifier": "registered"
+    },
+    "sad-cry": {
+      "codepoint": 57469,
+      "fontFamily": "FaRegular",
+      "identifier": "sadCry"
+    },
+    "sad-tear": {
+      "codepoint": 57470,
+      "fontFamily": "FaRegular",
+      "identifier": "sadTear"
+    },
+    "save": {
+      "codepoint": 57471,
+      "fontFamily": "FaRegular",
+      "identifier": "save"
+    },
+    "share-square": {
+      "codepoint": 57472,
+      "fontFamily": "FaRegular",
+      "identifier": "shareSquare"
+    },
+    "smile": {
+      "codepoint": 57473,
+      "fontFamily": "FaRegular",
+      "identifier": "smile"
+    },
+    "smile-beam": {
+      "codepoint": 57474,
+      "fontFamily": "FaRegular",
+      "identifier": "smileBeam"
+    },
+    "smile-wink": {
+      "codepoint": 57475,
+      "fontFamily": "FaRegular",
+      "identifier": "smileWink"
+    },
+    "snowflake": {
+      "codepoint": 57476,
+      "fontFamily": "FaRegular",
+      "identifier": "snowflake"
+    },
+    "square": {
+      "codepoint": 57477,
+      "fontFamily": "FaRegular",
+      "identifier": "square"
+    },
+    "star": {
+      "codepoint": 57478,
+      "fontFamily": "FaRegular",
+      "identifier": "star"
+    },
+    "star-half": {
+      "codepoint": 57479,
+      "fontFamily": "FaRegular",
+      "identifier": "starHalf"
+    },
+    "sticky-note": {
+      "codepoint": 57480,
+      "fontFamily": "FaRegular",
+      "identifier": "stickyNote"
+    },
+    "stop-circle": {
+      "codepoint": 57481,
+      "fontFamily": "FaRegular",
+      "identifier": "stopCircle"
+    },
+    "sun": {
+      "codepoint": 57482,
+      "fontFamily": "FaRegular",
+      "identifier": "sun"
+    },
+    "surprise": {
+      "codepoint": 57483,
+      "fontFamily": "FaRegular",
+      "identifier": "surprise"
+    },
+    "thumbs-down": {
+      "codepoint": 57484,
+      "fontFamily": "FaRegular",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-up": {
+      "codepoint": 57485,
+      "fontFamily": "FaRegular",
+      "identifier": "thumbsUp"
+    },
+    "times-circle": {
+      "codepoint": 57486,
+      "fontFamily": "FaRegular",
+      "identifier": "timesCircle"
+    },
+    "tired": {
+      "codepoint": 57487,
+      "fontFamily": "FaRegular",
+      "identifier": "tired"
+    },
+    "trash-alt": {
+      "codepoint": 57488,
+      "fontFamily": "FaRegular",
+      "identifier": "trashAlt"
+    },
+    "user": {
+      "codepoint": 57489,
+      "fontFamily": "FaRegular",
+      "identifier": "user"
+    },
+    "user-circle": {
+      "codepoint": 57490,
+      "fontFamily": "FaRegular",
+      "identifier": "userCircle"
+    },
+    "window-close": {
+      "codepoint": 57491,
+      "fontFamily": "FaRegular",
+      "identifier": "windowClose"
+    },
+    "window-maximize": {
+      "codepoint": 57492,
+      "fontFamily": "FaRegular",
+      "identifier": "windowMaximize"
+    },
+    "window-minimize": {
+      "codepoint": 57493,
+      "fontFamily": "FaRegular",
+      "identifier": "windowMinimize"
+    },
+    "window-restore": {
+      "codepoint": 57494,
+      "fontFamily": "FaRegular",
+      "identifier": "windowRestore"
+    }
+  }
+}

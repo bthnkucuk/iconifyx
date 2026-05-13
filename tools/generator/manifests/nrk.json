@@ -1,0 +1,1235 @@
+{
+  "schemaVersion": 1,
+  "prefix": "nrk",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_nrk",
+  "info": {
+    "name": "NRK Core Icons",
+    "author": {
+      "name": "Norsk rikskringkasting",
+      "url": "https://github.com/nrkno/core-icons"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 241
+  },
+  "fonts": [
+    {
+      "family": "Nrk",
+      "nextCodepoint": 57585,
+      "iconCount": 241
+    }
+  ],
+  "icons": {
+    "360": {
+      "codepoint": 57344,
+      "fontFamily": "Nrk",
+      "identifier": "n360"
+    },
+    "404": {
+      "codepoint": 57345,
+      "fontFamily": "Nrk",
+      "identifier": "n404"
+    },
+    "alarm-clock": {
+      "codepoint": 57346,
+      "fontFamily": "Nrk",
+      "identifier": "alarmClock"
+    },
+    "arrange-list": {
+      "codepoint": 57347,
+      "fontFamily": "Nrk",
+      "identifier": "arrangeList"
+    },
+    "arrow-down": {
+      "codepoint": 57348,
+      "fontFamily": "Nrk",
+      "identifier": "arrowDown"
+    },
+    "arrow-dropdown": {
+      "codepoint": 57349,
+      "fontFamily": "Nrk",
+      "identifier": "arrowDropdown"
+    },
+    "arrow-left": {
+      "codepoint": 57350,
+      "fontFamily": "Nrk",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-long": {
+      "codepoint": 57351,
+      "fontFamily": "Nrk",
+      "identifier": "arrowLeftLong"
+    },
+    "arrow-nested": {
+      "codepoint": 57352,
+      "fontFamily": "Nrk",
+      "identifier": "arrowNested"
+    },
+    "arrow-right": {
+      "codepoint": 57353,
+      "fontFamily": "Nrk",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-long": {
+      "codepoint": 57354,
+      "fontFamily": "Nrk",
+      "identifier": "arrowRightLong"
+    },
+    "arrow-up": {
+      "codepoint": 57355,
+      "fontFamily": "Nrk",
+      "identifier": "arrowUp"
+    },
+    "article": {
+      "codepoint": 57356,
+      "fontFamily": "Nrk",
+      "identifier": "article"
+    },
+    "back": {
+      "codepoint": 57357,
+      "fontFamily": "Nrk",
+      "identifier": "back"
+    },
+    "bell": {
+      "codepoint": 57358,
+      "fontFamily": "Nrk",
+      "identifier": "bell"
+    },
+    "bell-active": {
+      "codepoint": 57359,
+      "fontFamily": "Nrk",
+      "identifier": "bellActive"
+    },
+    "bookmark": {
+      "codepoint": 57360,
+      "fontFamily": "Nrk",
+      "identifier": "bookmark"
+    },
+    "bookmark-active": {
+      "codepoint": 57361,
+      "fontFamily": "Nrk",
+      "identifier": "bookmarkActive"
+    },
+    "broadcast": {
+      "codepoint": 57362,
+      "fontFamily": "Nrk",
+      "identifier": "broadcast"
+    },
+    "bullet-square": {
+      "codepoint": 57363,
+      "fontFamily": "Nrk",
+      "identifier": "bulletSquare"
+    },
+    "bulleted-list": {
+      "codepoint": 57364,
+      "fontFamily": "Nrk",
+      "identifier": "bulletedList"
+    },
+    "calendar": {
+      "codepoint": 57365,
+      "fontFamily": "Nrk",
+      "identifier": "calendar"
+    },
+    "category": {
+      "codepoint": 57366,
+      "fontFamily": "Nrk",
+      "identifier": "category"
+    },
+    "category-active": {
+      "codepoint": 57367,
+      "fontFamily": "Nrk",
+      "identifier": "categoryActive"
+    },
+    "check": {
+      "codepoint": 57368,
+      "fontFamily": "Nrk",
+      "identifier": "check"
+    },
+    "check-active": {
+      "codepoint": 57369,
+      "fontFamily": "Nrk",
+      "identifier": "checkActive"
+    },
+    "check-radio-unchecked": {
+      "codepoint": 57370,
+      "fontFamily": "Nrk",
+      "identifier": "checkRadioUnchecked"
+    },
+    "checkbox": {
+      "codepoint": 57371,
+      "fontFamily": "Nrk",
+      "identifier": "checkbox"
+    },
+    "checkbox-active": {
+      "codepoint": 57372,
+      "fontFamily": "Nrk",
+      "identifier": "checkboxActive"
+    },
+    "chevron-down": {
+      "codepoint": 57373,
+      "fontFamily": "Nrk",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57374,
+      "fontFamily": "Nrk",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57375,
+      "fontFamily": "Nrk",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57376,
+      "fontFamily": "Nrk",
+      "identifier": "chevronUp"
+    },
+    "clock": {
+      "codepoint": 57377,
+      "fontFamily": "Nrk",
+      "identifier": "clock"
+    },
+    "close": {
+      "codepoint": 57378,
+      "fontFamily": "Nrk",
+      "identifier": "close"
+    },
+    "close-active": {
+      "codepoint": 57379,
+      "fontFamily": "Nrk",
+      "identifier": "closeActive"
+    },
+    "comment": {
+      "codepoint": 57380,
+      "fontFamily": "Nrk",
+      "identifier": "comment"
+    },
+    "dialogue": {
+      "codepoint": 57381,
+      "fontFamily": "Nrk",
+      "identifier": "dialogue"
+    },
+    "dice-1": {
+      "codepoint": 57382,
+      "fontFamily": "Nrk",
+      "identifier": "dice1"
+    },
+    "dice-1-active": {
+      "codepoint": 57383,
+      "fontFamily": "Nrk",
+      "identifier": "dice1Active"
+    },
+    "dice-2": {
+      "codepoint": 57384,
+      "fontFamily": "Nrk",
+      "identifier": "dice2"
+    },
+    "dice-2-active": {
+      "codepoint": 57385,
+      "fontFamily": "Nrk",
+      "identifier": "dice2Active"
+    },
+    "dice-3": {
+      "codepoint": 57386,
+      "fontFamily": "Nrk",
+      "identifier": "dice3"
+    },
+    "dice-3-active": {
+      "codepoint": 57387,
+      "fontFamily": "Nrk",
+      "identifier": "dice3Active"
+    },
+    "dice-4": {
+      "codepoint": 57388,
+      "fontFamily": "Nrk",
+      "identifier": "dice4"
+    },
+    "dice-4-active": {
+      "codepoint": 57389,
+      "fontFamily": "Nrk",
+      "identifier": "dice4Active"
+    },
+    "dice-5": {
+      "codepoint": 57390,
+      "fontFamily": "Nrk",
+      "identifier": "dice5"
+    },
+    "dice-5-active": {
+      "codepoint": 57391,
+      "fontFamily": "Nrk",
+      "identifier": "dice5Active"
+    },
+    "dice-6": {
+      "codepoint": 57392,
+      "fontFamily": "Nrk",
+      "identifier": "dice6"
+    },
+    "dice-6-active": {
+      "codepoint": 57393,
+      "fontFamily": "Nrk",
+      "identifier": "dice6Active"
+    },
+    "download": {
+      "codepoint": 57394,
+      "fontFamily": "Nrk",
+      "identifier": "download"
+    },
+    "downloaded": {
+      "codepoint": 57395,
+      "fontFamily": "Nrk",
+      "identifier": "downloaded"
+    },
+    "duration": {
+      "codepoint": 57396,
+      "fontFamily": "Nrk",
+      "identifier": "duration"
+    },
+    "edit": {
+      "codepoint": 57397,
+      "fontFamily": "Nrk",
+      "identifier": "edit"
+    },
+    "ellipsis": {
+      "codepoint": 57398,
+      "fontFamily": "Nrk",
+      "identifier": "ellipsis"
+    },
+    "ellipsis-active": {
+      "codepoint": 57399,
+      "fontFamily": "Nrk",
+      "identifier": "ellipsisActive"
+    },
+    "fullscreen": {
+      "codepoint": 57400,
+      "fontFamily": "Nrk",
+      "identifier": "fullscreen"
+    },
+    "fullscreen-active": {
+      "codepoint": 57401,
+      "fontFamily": "Nrk",
+      "identifier": "fullscreenActive"
+    },
+    "gallery": {
+      "codepoint": 57402,
+      "fontFamily": "Nrk",
+      "identifier": "gallery"
+    },
+    "geo": {
+      "codepoint": 57403,
+      "fontFamily": "Nrk",
+      "identifier": "geo"
+    },
+    "geo-active": {
+      "codepoint": 57404,
+      "fontFamily": "Nrk",
+      "identifier": "geoActive"
+    },
+    "geopoint": {
+      "codepoint": 57405,
+      "fontFamily": "Nrk",
+      "identifier": "geopoint"
+    },
+    "geopoint-active": {
+      "codepoint": 57406,
+      "fontFamily": "Nrk",
+      "identifier": "geopointActive"
+    },
+    "globe": {
+      "codepoint": 57407,
+      "fontFamily": "Nrk",
+      "identifier": "globe"
+    },
+    "hardware-camera": {
+      "codepoint": 57408,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareCamera"
+    },
+    "hardware-computer": {
+      "codepoint": 57409,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareComputer"
+    },
+    "hardware-game": {
+      "codepoint": 57410,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareGame"
+    },
+    "hardware-headphones": {
+      "codepoint": 57411,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareHeadphones"
+    },
+    "hardware-laptop": {
+      "codepoint": 57412,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareLaptop"
+    },
+    "hardware-microphone": {
+      "codepoint": 57413,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareMicrophone"
+    },
+    "hardware-microphone-active": {
+      "codepoint": 57414,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareMicrophoneActive"
+    },
+    "hardware-mobile": {
+      "codepoint": 57415,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareMobile"
+    },
+    "hardware-printer": {
+      "codepoint": 57416,
+      "fontFamily": "Nrk",
+      "identifier": "hardwarePrinter"
+    },
+    "hardware-radio": {
+      "codepoint": 57417,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareRadio"
+    },
+    "hardware-smart-speaker": {
+      "codepoint": 57418,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareSmartSpeaker"
+    },
+    "hardware-smart-watch": {
+      "codepoint": 57419,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareSmartWatch"
+    },
+    "hardware-speaker": {
+      "codepoint": 57420,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareSpeaker"
+    },
+    "hardware-tablet": {
+      "codepoint": 57421,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareTablet"
+    },
+    "hardware-tv": {
+      "codepoint": 57422,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareTv"
+    },
+    "hardware-watch": {
+      "codepoint": 57423,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareWatch"
+    },
+    "heart": {
+      "codepoint": 57424,
+      "fontFamily": "Nrk",
+      "identifier": "heart"
+    },
+    "heart-active": {
+      "codepoint": 57425,
+      "fontFamily": "Nrk",
+      "identifier": "heartActive"
+    },
+    "help": {
+      "codepoint": 57426,
+      "fontFamily": "Nrk",
+      "identifier": "help"
+    },
+    "hide": {
+      "codepoint": 57427,
+      "fontFamily": "Nrk",
+      "identifier": "hide"
+    },
+    "home": {
+      "codepoint": 57428,
+      "fontFamily": "Nrk",
+      "identifier": "home"
+    },
+    "home-active": {
+      "codepoint": 57429,
+      "fontFamily": "Nrk",
+      "identifier": "homeActive"
+    },
+    "info": {
+      "codepoint": 57430,
+      "fontFamily": "Nrk",
+      "identifier": "info"
+    },
+    "latest-news": {
+      "codepoint": 57431,
+      "fontFamily": "Nrk",
+      "identifier": "latestNews"
+    },
+    "latest-news-active": {
+      "codepoint": 57432,
+      "fontFamily": "Nrk",
+      "identifier": "latestNewsActive"
+    },
+    "link": {
+      "codepoint": 57433,
+      "fontFamily": "Nrk",
+      "identifier": "link"
+    },
+    "list": {
+      "codepoint": 57434,
+      "fontFamily": "Nrk",
+      "identifier": "list"
+    },
+    "list-active": {
+      "codepoint": 57435,
+      "fontFamily": "Nrk",
+      "identifier": "listActive"
+    },
+    "live-activity": {
+      "codepoint": 57436,
+      "fontFamily": "Nrk",
+      "identifier": "liveActivity"
+    },
+    "live-activity-active": {
+      "codepoint": 57437,
+      "fontFamily": "Nrk",
+      "identifier": "liveActivityActive"
+    },
+    "lock": {
+      "codepoint": 57438,
+      "fontFamily": "Nrk",
+      "identifier": "lock"
+    },
+    "lock-active": {
+      "codepoint": 57439,
+      "fontFamily": "Nrk",
+      "identifier": "lockActive"
+    },
+    "logout": {
+      "codepoint": 57440,
+      "fontFamily": "Nrk",
+      "identifier": "logout"
+    },
+    "longread": {
+      "codepoint": 57441,
+      "fontFamily": "Nrk",
+      "identifier": "longread"
+    },
+    "longread-active": {
+      "codepoint": 57442,
+      "fontFamily": "Nrk",
+      "identifier": "longreadActive"
+    },
+    "lyn": {
+      "codepoint": 57443,
+      "fontFamily": "Nrk",
+      "identifier": "lyn"
+    },
+    "mat": {
+      "codepoint": 57444,
+      "fontFamily": "Nrk",
+      "identifier": "mat"
+    },
+    "media-404-notfound": {
+      "codepoint": 57445,
+      "fontFamily": "Nrk",
+      "identifier": "media404Notfound"
+    },
+    "media-agelimit-12": {
+      "codepoint": 57446,
+      "fontFamily": "Nrk",
+      "identifier": "mediaAgelimit12"
+    },
+    "media-agelimit-15": {
+      "codepoint": 57447,
+      "fontFamily": "Nrk",
+      "identifier": "mediaAgelimit15"
+    },
+    "media-agelimit-18": {
+      "codepoint": 57448,
+      "fontFamily": "Nrk",
+      "identifier": "mediaAgelimit18"
+    },
+    "media-agelimit-6": {
+      "codepoint": 57449,
+      "fontFamily": "Nrk",
+      "identifier": "mediaAgelimit6"
+    },
+    "media-agelimit-9": {
+      "codepoint": 57450,
+      "fontFamily": "Nrk",
+      "identifier": "mediaAgelimit9"
+    },
+    "media-agelimit-a": {
+      "codepoint": 57451,
+      "fontFamily": "Nrk",
+      "identifier": "mediaAgelimitA"
+    },
+    "media-airplay": {
+      "codepoint": 57452,
+      "fontFamily": "Nrk",
+      "identifier": "mediaAirplay"
+    },
+    "media-airplay-active": {
+      "codepoint": 57453,
+      "fontFamily": "Nrk",
+      "identifier": "mediaAirplayActive"
+    },
+    "media-beam-note": {
+      "codepoint": 57454,
+      "fontFamily": "Nrk",
+      "identifier": "mediaBeamNote"
+    },
+    "media-bluetooth": {
+      "codepoint": 57455,
+      "fontFamily": "Nrk",
+      "identifier": "mediaBluetooth"
+    },
+    "media-chromecast": {
+      "codepoint": 57456,
+      "fontFamily": "Nrk",
+      "identifier": "mediaChromecast"
+    },
+    "media-chromecast-1": {
+      "codepoint": 57457,
+      "fontFamily": "Nrk",
+      "identifier": "mediaChromecast1"
+    },
+    "media-chromecast-2": {
+      "codepoint": 57458,
+      "fontFamily": "Nrk",
+      "identifier": "mediaChromecast2"
+    },
+    "media-chromecast-3": {
+      "codepoint": 57459,
+      "fontFamily": "Nrk",
+      "identifier": "mediaChromecast3"
+    },
+    "media-chromecast-active": {
+      "codepoint": 57460,
+      "fontFamily": "Nrk",
+      "identifier": "mediaChromecastActive"
+    },
+    "media-completed": {
+      "codepoint": 57461,
+      "fontFamily": "Nrk",
+      "identifier": "mediaCompleted"
+    },
+    "media-direkte": {
+      "codepoint": 57462,
+      "fontFamily": "Nrk",
+      "identifier": "mediaDirekte"
+    },
+    "media-direkte-golive": {
+      "codepoint": 57463,
+      "fontFamily": "Nrk",
+      "identifier": "mediaDirekteGolive"
+    },
+    "media-direkte-notlive": {
+      "codepoint": 57464,
+      "fontFamily": "Nrk",
+      "identifier": "mediaDirekteNotlive"
+    },
+    "media-direktetv": {
+      "codepoint": 57465,
+      "fontFamily": "Nrk",
+      "identifier": "mediaDirektetv"
+    },
+    "media-direktetv-active": {
+      "codepoint": 57466,
+      "fontFamily": "Nrk",
+      "identifier": "mediaDirektetvActive"
+    },
+    "media-ffw": {
+      "codepoint": 57467,
+      "fontFamily": "Nrk",
+      "identifier": "mediaFfw"
+    },
+    "media-ffw-15sec": {
+      "codepoint": 57468,
+      "fontFamily": "Nrk",
+      "identifier": "mediaFfw15sec"
+    },
+    "media-ffw-30sec": {
+      "codepoint": 57469,
+      "fontFamily": "Nrk",
+      "identifier": "mediaFfw30sec"
+    },
+    "media-ffw-5sec": {
+      "codepoint": 57470,
+      "fontFamily": "Nrk",
+      "identifier": "mediaFfw5sec"
+    },
+    "media-index-quaver-tiny": {
+      "codepoint": 57471,
+      "fontFamily": "Nrk",
+      "identifier": "mediaIndexQuaverTiny"
+    },
+    "media-jumpto": {
+      "codepoint": 57472,
+      "fontFamily": "Nrk",
+      "identifier": "mediaJumpto"
+    },
+    "media-media-complete": {
+      "codepoint": 57473,
+      "fontFamily": "Nrk",
+      "identifier": "mediaMediaComplete"
+    },
+    "media-media-incomplete": {
+      "codepoint": 57474,
+      "fontFamily": "Nrk",
+      "identifier": "mediaMediaIncomplete"
+    },
+    "media-next": {
+      "codepoint": 57475,
+      "fontFamily": "Nrk",
+      "identifier": "mediaNext"
+    },
+    "media-ny": {
+      "codepoint": 57476,
+      "fontFamily": "Nrk",
+      "identifier": "mediaNy"
+    },
+    "media-pause": {
+      "codepoint": 57477,
+      "fontFamily": "Nrk",
+      "identifier": "mediaPause"
+    },
+    "media-picture-in-picture": {
+      "codepoint": 57478,
+      "fontFamily": "Nrk",
+      "identifier": "mediaPictureInPicture"
+    },
+    "media-picture-in-picture-active": {
+      "codepoint": 57479,
+      "fontFamily": "Nrk",
+      "identifier": "mediaPictureInPictureActive"
+    },
+    "media-play": {
+      "codepoint": 57480,
+      "fontFamily": "Nrk",
+      "identifier": "mediaPlay"
+    },
+    "media-play-fail": {
+      "codepoint": 57481,
+      "fontFamily": "Nrk",
+      "identifier": "mediaPlayFail"
+    },
+    "media-playlist": {
+      "codepoint": 57482,
+      "fontFamily": "Nrk",
+      "identifier": "mediaPlaylist"
+    },
+    "media-playlist-add": {
+      "codepoint": 57483,
+      "fontFamily": "Nrk",
+      "identifier": "mediaPlaylistAdd"
+    },
+    "media-playlist-add-later": {
+      "codepoint": 57484,
+      "fontFamily": "Nrk",
+      "identifier": "mediaPlaylistAddLater"
+    },
+    "media-playlist-add-next": {
+      "codepoint": 57485,
+      "fontFamily": "Nrk",
+      "identifier": "mediaPlaylistAddNext"
+    },
+    "media-playlist-added": {
+      "codepoint": 57486,
+      "fontFamily": "Nrk",
+      "identifier": "mediaPlaylistAdded"
+    },
+    "media-playlist-remove": {
+      "codepoint": 57487,
+      "fontFamily": "Nrk",
+      "identifier": "mediaPlaylistRemove"
+    },
+    "media-previous": {
+      "codepoint": 57488,
+      "fontFamily": "Nrk",
+      "identifier": "mediaPrevious"
+    },
+    "media-programguide": {
+      "codepoint": 57489,
+      "fontFamily": "Nrk",
+      "identifier": "mediaProgramguide"
+    },
+    "media-programguide-active": {
+      "codepoint": 57490,
+      "fontFamily": "Nrk",
+      "identifier": "mediaProgramguideActive"
+    },
+    "media-quaver": {
+      "codepoint": 57491,
+      "fontFamily": "Nrk",
+      "identifier": "mediaQuaver"
+    },
+    "media-quaver-active": {
+      "codepoint": 57492,
+      "fontFamily": "Nrk",
+      "identifier": "mediaQuaverActive"
+    },
+    "media-quaver-off": {
+      "codepoint": 57493,
+      "fontFamily": "Nrk",
+      "identifier": "mediaQuaverOff"
+    },
+    "media-rwd": {
+      "codepoint": 57494,
+      "fontFamily": "Nrk",
+      "identifier": "mediaRwd"
+    },
+    "media-rwd-15sec": {
+      "codepoint": 57495,
+      "fontFamily": "Nrk",
+      "identifier": "mediaRwd15sec"
+    },
+    "media-rwd-30sec": {
+      "codepoint": 57496,
+      "fontFamily": "Nrk",
+      "identifier": "mediaRwd30sec"
+    },
+    "media-rwd-5sec": {
+      "codepoint": 57497,
+      "fontFamily": "Nrk",
+      "identifier": "mediaRwd5sec"
+    },
+    "media-soundwave": {
+      "codepoint": 57498,
+      "fontFamily": "Nrk",
+      "identifier": "mediaSoundwave"
+    },
+    "media-speed-0-8x": {
+      "codepoint": 57499,
+      "fontFamily": "Nrk",
+      "identifier": "mediaSpeed08x"
+    },
+    "media-speed-1-25x": {
+      "codepoint": 57500,
+      "fontFamily": "Nrk",
+      "identifier": "mediaSpeed125x"
+    },
+    "media-speed-1-5x": {
+      "codepoint": 57501,
+      "fontFamily": "Nrk",
+      "identifier": "mediaSpeed15x"
+    },
+    "media-speed-1x": {
+      "codepoint": 57502,
+      "fontFamily": "Nrk",
+      "identifier": "mediaSpeed1x"
+    },
+    "media-speed-2x": {
+      "codepoint": 57503,
+      "fontFamily": "Nrk",
+      "identifier": "mediaSpeed2x"
+    },
+    "media-stop": {
+      "codepoint": 57504,
+      "fontFamily": "Nrk",
+      "identifier": "mediaStop"
+    },
+    "media-subtitles": {
+      "codepoint": 57505,
+      "fontFamily": "Nrk",
+      "identifier": "mediaSubtitles"
+    },
+    "media-subtitles-active": {
+      "codepoint": 57506,
+      "fontFamily": "Nrk",
+      "identifier": "mediaSubtitlesActive"
+    },
+    "media-subtitles-unavailable": {
+      "codepoint": 57507,
+      "fontFamily": "Nrk",
+      "identifier": "mediaSubtitlesUnavailable"
+    },
+    "media-theater": {
+      "codepoint": 57508,
+      "fontFamily": "Nrk",
+      "identifier": "mediaTheater"
+    },
+    "media-theater-active": {
+      "codepoint": 57509,
+      "fontFamily": "Nrk",
+      "identifier": "mediaTheaterActive"
+    },
+    "media-tilgjengelighet-geoblocked": {
+      "codepoint": 57510,
+      "fontFamily": "Nrk",
+      "identifier": "mediaTilgjengelighetGeoblocked"
+    },
+    "media-tilgjengelighet-ikkelengertilgjengelig": {
+      "codepoint": 57511,
+      "fontFamily": "Nrk",
+      "identifier": "mediaTilgjengelighetIkkelengertilgjengelig"
+    },
+    "media-tilgjengelighet-kommer": {
+      "codepoint": 57512,
+      "fontFamily": "Nrk",
+      "identifier": "mediaTilgjengelighetKommer"
+    },
+    "media-tilgjengelighet-snartutilgjengelig": {
+      "codepoint": 57513,
+      "fontFamily": "Nrk",
+      "identifier": "mediaTilgjengelighetSnartutilgjengelig"
+    },
+    "media-video": {
+      "codepoint": 57514,
+      "fontFamily": "Nrk",
+      "identifier": "mediaVideo"
+    },
+    "media-volume-1": {
+      "codepoint": 57515,
+      "fontFamily": "Nrk",
+      "identifier": "mediaVolume1"
+    },
+    "media-volume-2": {
+      "codepoint": 57516,
+      "fontFamily": "Nrk",
+      "identifier": "mediaVolume2"
+    },
+    "media-volume-3": {
+      "codepoint": 57517,
+      "fontFamily": "Nrk",
+      "identifier": "mediaVolume3"
+    },
+    "media-volume-muted": {
+      "codepoint": 57518,
+      "fontFamily": "Nrk",
+      "identifier": "mediaVolumeMuted"
+    },
+    "mening": {
+      "codepoint": 57519,
+      "fontFamily": "Nrk",
+      "identifier": "mening"
+    },
+    "minus": {
+      "codepoint": 57520,
+      "fontFamily": "Nrk",
+      "identifier": "minus"
+    },
+    "more": {
+      "codepoint": 57521,
+      "fontFamily": "Nrk",
+      "identifier": "more"
+    },
+    "more-active": {
+      "codepoint": 57522,
+      "fontFamily": "Nrk",
+      "identifier": "moreActive"
+    },
+    "new-chat": {
+      "codepoint": 57523,
+      "fontFamily": "Nrk",
+      "identifier": "newChat"
+    },
+    "note-1": {
+      "codepoint": 57524,
+      "fontFamily": "Nrk",
+      "identifier": "note1"
+    },
+    "note-1-off": {
+      "codepoint": 57525,
+      "fontFamily": "Nrk",
+      "identifier": "note1Off"
+    },
+    "note-2": {
+      "codepoint": 57526,
+      "fontFamily": "Nrk",
+      "identifier": "note2"
+    },
+    "offline": {
+      "codepoint": 57527,
+      "fontFamily": "Nrk",
+      "identifier": "offline"
+    },
+    "online": {
+      "codepoint": 57528,
+      "fontFamily": "Nrk",
+      "identifier": "online"
+    },
+    "open-in-new": {
+      "codepoint": 57529,
+      "fontFamily": "Nrk",
+      "identifier": "openInNew"
+    },
+    "person": {
+      "codepoint": 57530,
+      "fontFamily": "Nrk",
+      "identifier": "person"
+    },
+    "plus": {
+      "codepoint": 57531,
+      "fontFamily": "Nrk",
+      "identifier": "plus"
+    },
+    "poll": {
+      "codepoint": 57532,
+      "fontFamily": "Nrk",
+      "identifier": "poll"
+    },
+    "progress": {
+      "codepoint": 57533,
+      "fontFamily": "Nrk",
+      "identifier": "progress"
+    },
+    "quiz": {
+      "codepoint": 57534,
+      "fontFamily": "Nrk",
+      "identifier": "quiz"
+    },
+    "radio-active": {
+      "codepoint": 57535,
+      "fontFamily": "Nrk",
+      "identifier": "radioActive"
+    },
+    "refresh": {
+      "codepoint": 57536,
+      "fontFamily": "Nrk",
+      "identifier": "refresh"
+    },
+    "refresh-expressive": {
+      "codepoint": 57537,
+      "fontFamily": "Nrk",
+      "identifier": "refreshExpressive"
+    },
+    "reload": {
+      "codepoint": 57538,
+      "fontFamily": "Nrk",
+      "identifier": "reload"
+    },
+    "reload-expressive": {
+      "codepoint": 57539,
+      "fontFamily": "Nrk",
+      "identifier": "reloadExpressive"
+    },
+    "reorder": {
+      "codepoint": 57540,
+      "fontFamily": "Nrk",
+      "identifier": "reorder"
+    },
+    "rotate": {
+      "codepoint": 57541,
+      "fontFamily": "Nrk",
+      "identifier": "rotate"
+    },
+    "search": {
+      "codepoint": 57542,
+      "fontFamily": "Nrk",
+      "identifier": "search"
+    },
+    "search-active": {
+      "codepoint": 57543,
+      "fontFamily": "Nrk",
+      "identifier": "searchActive"
+    },
+    "settings": {
+      "codepoint": 57544,
+      "fontFamily": "Nrk",
+      "identifier": "settings"
+    },
+    "settings-active": {
+      "codepoint": 57545,
+      "fontFamily": "Nrk",
+      "identifier": "settingsActive"
+    },
+    "show": {
+      "codepoint": 57546,
+      "fontFamily": "Nrk",
+      "identifier": "show"
+    },
+    "sleep": {
+      "codepoint": 57547,
+      "fontFamily": "Nrk",
+      "identifier": "sleep"
+    },
+    "some-email": {
+      "codepoint": 57548,
+      "fontFamily": "Nrk",
+      "identifier": "someEmail"
+    },
+    "some-email-expressive": {
+      "codepoint": 57549,
+      "fontFamily": "Nrk",
+      "identifier": "someEmailExpressive"
+    },
+    "some-embed": {
+      "codepoint": 57550,
+      "fontFamily": "Nrk",
+      "identifier": "someEmbed"
+    },
+    "some-facebook": {
+      "codepoint": 57551,
+      "fontFamily": "Nrk",
+      "identifier": "someFacebook"
+    },
+    "some-google": {
+      "codepoint": 57552,
+      "fontFamily": "Nrk",
+      "identifier": "someGoogle"
+    },
+    "some-instagram": {
+      "codepoint": 57553,
+      "fontFamily": "Nrk",
+      "identifier": "someInstagram"
+    },
+    "some-pinterest": {
+      "codepoint": 57554,
+      "fontFamily": "Nrk",
+      "identifier": "somePinterest"
+    },
+    "some-share": {
+      "codepoint": 57555,
+      "fontFamily": "Nrk",
+      "identifier": "someShare"
+    },
+    "some-share-ios": {
+      "codepoint": 57556,
+      "fontFamily": "Nrk",
+      "identifier": "someShareIos"
+    },
+    "some-snapchat": {
+      "codepoint": 57557,
+      "fontFamily": "Nrk",
+      "identifier": "someSnapchat"
+    },
+    "some-tommelned": {
+      "codepoint": 57558,
+      "fontFamily": "Nrk",
+      "identifier": "someTommelned"
+    },
+    "some-tommelned-active": {
+      "codepoint": 57559,
+      "fontFamily": "Nrk",
+      "identifier": "someTommelnedActive"
+    },
+    "some-tommelopp": {
+      "codepoint": 57560,
+      "fontFamily": "Nrk",
+      "identifier": "someTommelopp"
+    },
+    "some-tommelopp-active": {
+      "codepoint": 57561,
+      "fontFamily": "Nrk",
+      "identifier": "someTommeloppActive"
+    },
+    "some-twitter": {
+      "codepoint": 57562,
+      "fontFamily": "Nrk",
+      "identifier": "someTwitter"
+    },
+    "some-youtube": {
+      "codepoint": 57563,
+      "fontFamily": "Nrk",
+      "identifier": "someYoutube"
+    },
+    "spinner": {
+      "codepoint": 57564,
+      "fontFamily": "Nrk",
+      "identifier": "spinner"
+    },
+    "star": {
+      "codepoint": 57565,
+      "fontFamily": "Nrk",
+      "identifier": "star"
+    },
+    "star-active": {
+      "codepoint": 57566,
+      "fontFamily": "Nrk",
+      "identifier": "starActive"
+    },
+    "super-emoji-poop-angry": {
+      "codepoint": 57567,
+      "fontFamily": "Nrk",
+      "identifier": "superEmojiPoopAngry"
+    },
+    "tilgjengelighet": {
+      "codepoint": 57568,
+      "fontFamily": "Nrk",
+      "identifier": "tilgjengelighet"
+    },
+    "tilgjengelighet-horbarhet": {
+      "codepoint": 57569,
+      "fontFamily": "Nrk",
+      "identifier": "tilgjengelighetHorbarhet"
+    },
+    "tilgjengelighet-lydtekst": {
+      "codepoint": 57570,
+      "fontFamily": "Nrk",
+      "identifier": "tilgjengelighetLydtekst"
+    },
+    "tilgjengelighet-synstolking": {
+      "codepoint": 57571,
+      "fontFamily": "Nrk",
+      "identifier": "tilgjengelighetSynstolking"
+    },
+    "tilgjengelighet-tegnspraak": {
+      "codepoint": 57572,
+      "fontFamily": "Nrk",
+      "identifier": "tilgjengelighetTegnspraak"
+    },
+    "trash": {
+      "codepoint": 57573,
+      "fontFamily": "Nrk",
+      "identifier": "trash"
+    },
+    "trash-active": {
+      "codepoint": 57574,
+      "fontFamily": "Nrk",
+      "identifier": "trashActive"
+    },
+    "unlock": {
+      "codepoint": 57575,
+      "fontFamily": "Nrk",
+      "identifier": "unlock"
+    },
+    "unlock-active": {
+      "codepoint": 57576,
+      "fontFamily": "Nrk",
+      "identifier": "unlockActive"
+    },
+    "upload": {
+      "codepoint": 57577,
+      "fontFamily": "Nrk",
+      "identifier": "upload"
+    },
+    "user-avatar": {
+      "codepoint": 57578,
+      "fontFamily": "Nrk",
+      "identifier": "userAvatar"
+    },
+    "user-avatar-expressive": {
+      "codepoint": 57579,
+      "fontFamily": "Nrk",
+      "identifier": "userAvatarExpressive"
+    },
+    "user-loggedin": {
+      "codepoint": 57580,
+      "fontFamily": "Nrk",
+      "identifier": "userLoggedin"
+    },
+    "user-loggedin-active": {
+      "codepoint": 57581,
+      "fontFamily": "Nrk",
+      "identifier": "userLoggedinActive"
+    },
+    "user-notloggedin": {
+      "codepoint": 57582,
+      "fontFamily": "Nrk",
+      "identifier": "userNotloggedin"
+    },
+    "user-notloggedin-active": {
+      "codepoint": 57583,
+      "fontFamily": "Nrk",
+      "identifier": "userNotloggedinActive"
+    },
+    "warning": {
+      "codepoint": 57584,
+      "fontFamily": "Nrk",
+      "identifier": "warning"
+    }
+  }
+}

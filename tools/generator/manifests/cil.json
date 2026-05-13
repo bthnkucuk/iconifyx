@@ -1,0 +1,2840 @@
+{
+  "schemaVersion": 1,
+  "prefix": "cil",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 16px / 32px",
+  "subPackage": "iconifyx_cil",
+  "info": {
+    "name": "CoreUI Free",
+    "author": {
+      "name": "creativeLabs Łukasz Holeczek",
+      "url": "https://github.com/coreui/coreui-icons"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 562
+  },
+  "fonts": [
+    {
+      "family": "Cil",
+      "nextCodepoint": 57906,
+      "iconCount": 562
+    }
+  ],
+  "icons": {
+    "3d": {
+      "codepoint": 57344,
+      "fontFamily": "Cil",
+      "identifier": "n3d"
+    },
+    "4k": {
+      "codepoint": 57345,
+      "fontFamily": "Cil",
+      "identifier": "n4k"
+    },
+    "account-logout": {
+      "codepoint": 57346,
+      "fontFamily": "Cil",
+      "identifier": "accountLogout"
+    },
+    "action-redo": {
+      "codepoint": 57347,
+      "fontFamily": "Cil",
+      "identifier": "actionRedo"
+    },
+    "action-undo": {
+      "codepoint": 57348,
+      "fontFamily": "Cil",
+      "identifier": "actionUndo"
+    },
+    "address-book": {
+      "codepoint": 57349,
+      "fontFamily": "Cil",
+      "identifier": "addressBook"
+    },
+    "airplane-mode": {
+      "codepoint": 57350,
+      "fontFamily": "Cil",
+      "identifier": "airplaneMode"
+    },
+    "airplane-mode-off": {
+      "codepoint": 57351,
+      "fontFamily": "Cil",
+      "identifier": "airplaneModeOff"
+    },
+    "airplay": {
+      "codepoint": 57352,
+      "fontFamily": "Cil",
+      "identifier": "airplay"
+    },
+    "alarm": {
+      "codepoint": 57353,
+      "fontFamily": "Cil",
+      "identifier": "alarm"
+    },
+    "album": {
+      "codepoint": 57354,
+      "fontFamily": "Cil",
+      "identifier": "album"
+    },
+    "align-center": {
+      "codepoint": 57355,
+      "fontFamily": "Cil",
+      "identifier": "alignCenter"
+    },
+    "align-left": {
+      "codepoint": 57356,
+      "fontFamily": "Cil",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57357,
+      "fontFamily": "Cil",
+      "identifier": "alignRight"
+    },
+    "american-football": {
+      "codepoint": 57358,
+      "fontFamily": "Cil",
+      "identifier": "americanFootball"
+    },
+    "animal": {
+      "codepoint": 57359,
+      "fontFamily": "Cil",
+      "identifier": "animal"
+    },
+    "aperture": {
+      "codepoint": 57360,
+      "fontFamily": "Cil",
+      "identifier": "aperture"
+    },
+    "apple": {
+      "codepoint": 57361,
+      "fontFamily": "Cil",
+      "identifier": "apple"
+    },
+    "applications": {
+      "codepoint": 57362,
+      "fontFamily": "Cil",
+      "identifier": "applications"
+    },
+    "applications-settings": {
+      "codepoint": 57363,
+      "fontFamily": "Cil",
+      "identifier": "applicationsSettings"
+    },
+    "apps": {
+      "codepoint": 57364,
+      "fontFamily": "Cil",
+      "identifier": "apps"
+    },
+    "apps-settings": {
+      "codepoint": 57365,
+      "fontFamily": "Cil",
+      "identifier": "appsSettings"
+    },
+    "arrow-bottom": {
+      "codepoint": 57366,
+      "fontFamily": "Cil",
+      "identifier": "arrowBottom"
+    },
+    "arrow-circle-bottom": {
+      "codepoint": 57367,
+      "fontFamily": "Cil",
+      "identifier": "arrowCircleBottom"
+    },
+    "arrow-circle-left": {
+      "codepoint": 57368,
+      "fontFamily": "Cil",
+      "identifier": "arrowCircleLeft"
+    },
+    "arrow-circle-right": {
+      "codepoint": 57369,
+      "fontFamily": "Cil",
+      "identifier": "arrowCircleRight"
+    },
+    "arrow-circle-top": {
+      "codepoint": 57370,
+      "fontFamily": "Cil",
+      "identifier": "arrowCircleTop"
+    },
+    "arrow-left": {
+      "codepoint": 57371,
+      "fontFamily": "Cil",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57372,
+      "fontFamily": "Cil",
+      "identifier": "arrowRight"
+    },
+    "arrow-thick-bottom": {
+      "codepoint": 57373,
+      "fontFamily": "Cil",
+      "identifier": "arrowThickBottom"
+    },
+    "arrow-thick-from-bottom": {
+      "codepoint": 57374,
+      "fontFamily": "Cil",
+      "identifier": "arrowThickFromBottom"
+    },
+    "arrow-thick-from-left": {
+      "codepoint": 57375,
+      "fontFamily": "Cil",
+      "identifier": "arrowThickFromLeft"
+    },
+    "arrow-thick-from-right": {
+      "codepoint": 57376,
+      "fontFamily": "Cil",
+      "identifier": "arrowThickFromRight"
+    },
+    "arrow-thick-from-top": {
+      "codepoint": 57377,
+      "fontFamily": "Cil",
+      "identifier": "arrowThickFromTop"
+    },
+    "arrow-thick-left": {
+      "codepoint": 57378,
+      "fontFamily": "Cil",
+      "identifier": "arrowThickLeft"
+    },
+    "arrow-thick-right": {
+      "codepoint": 57379,
+      "fontFamily": "Cil",
+      "identifier": "arrowThickRight"
+    },
+    "arrow-thick-to-bottom": {
+      "codepoint": 57380,
+      "fontFamily": "Cil",
+      "identifier": "arrowThickToBottom"
+    },
+    "arrow-thick-to-left": {
+      "codepoint": 57381,
+      "fontFamily": "Cil",
+      "identifier": "arrowThickToLeft"
+    },
+    "arrow-thick-to-right": {
+      "codepoint": 57382,
+      "fontFamily": "Cil",
+      "identifier": "arrowThickToRight"
+    },
+    "arrow-thick-to-top": {
+      "codepoint": 57383,
+      "fontFamily": "Cil",
+      "identifier": "arrowThickToTop"
+    },
+    "arrow-thick-top": {
+      "codepoint": 57384,
+      "fontFamily": "Cil",
+      "identifier": "arrowThickTop"
+    },
+    "arrow-top": {
+      "codepoint": 57385,
+      "fontFamily": "Cil",
+      "identifier": "arrowTop"
+    },
+    "assistive-listening-system": {
+      "codepoint": 57386,
+      "fontFamily": "Cil",
+      "identifier": "assistiveListeningSystem"
+    },
+    "asterisk": {
+      "codepoint": 57387,
+      "fontFamily": "Cil",
+      "identifier": "asterisk"
+    },
+    "asterisk-circle": {
+      "codepoint": 57388,
+      "fontFamily": "Cil",
+      "identifier": "asteriskCircle"
+    },
+    "at": {
+      "codepoint": 57389,
+      "fontFamily": "Cil",
+      "identifier": "at"
+    },
+    "audio": {
+      "codepoint": 57390,
+      "fontFamily": "Cil",
+      "identifier": "audio"
+    },
+    "audio-description": {
+      "codepoint": 57391,
+      "fontFamily": "Cil",
+      "identifier": "audioDescription"
+    },
+    "audio-spectrum": {
+      "codepoint": 57392,
+      "fontFamily": "Cil",
+      "identifier": "audioSpectrum"
+    },
+    "av-timer": {
+      "codepoint": 57393,
+      "fontFamily": "Cil",
+      "identifier": "avTimer"
+    },
+    "baby": {
+      "codepoint": 57394,
+      "fontFamily": "Cil",
+      "identifier": "baby"
+    },
+    "baby-carriage": {
+      "codepoint": 57395,
+      "fontFamily": "Cil",
+      "identifier": "babyCarriage"
+    },
+    "backspace": {
+      "codepoint": 57396,
+      "fontFamily": "Cil",
+      "identifier": "backspace"
+    },
+    "badge": {
+      "codepoint": 57397,
+      "fontFamily": "Cil",
+      "identifier": "badge"
+    },
+    "balance-scale": {
+      "codepoint": 57398,
+      "fontFamily": "Cil",
+      "identifier": "balanceScale"
+    },
+    "ban": {
+      "codepoint": 57399,
+      "fontFamily": "Cil",
+      "identifier": "ban"
+    },
+    "bank": {
+      "codepoint": 57400,
+      "fontFamily": "Cil",
+      "identifier": "bank"
+    },
+    "bar-chart": {
+      "codepoint": 57401,
+      "fontFamily": "Cil",
+      "identifier": "barChart"
+    },
+    "barcode": {
+      "codepoint": 57402,
+      "fontFamily": "Cil",
+      "identifier": "barcode"
+    },
+    "baseball": {
+      "codepoint": 57403,
+      "fontFamily": "Cil",
+      "identifier": "baseball"
+    },
+    "basket": {
+      "codepoint": 57404,
+      "fontFamily": "Cil",
+      "identifier": "basket"
+    },
+    "basketball": {
+      "codepoint": 57405,
+      "fontFamily": "Cil",
+      "identifier": "basketball"
+    },
+    "bath": {
+      "codepoint": 57406,
+      "fontFamily": "Cil",
+      "identifier": "bath"
+    },
+    "bathroom": {
+      "codepoint": 57407,
+      "fontFamily": "Cil",
+      "identifier": "bathroom"
+    },
+    "battery-0": {
+      "codepoint": 57408,
+      "fontFamily": "Cil",
+      "identifier": "battery0"
+    },
+    "battery-3": {
+      "codepoint": 57409,
+      "fontFamily": "Cil",
+      "identifier": "battery3"
+    },
+    "battery-5": {
+      "codepoint": 57410,
+      "fontFamily": "Cil",
+      "identifier": "battery5"
+    },
+    "battery-alert": {
+      "codepoint": 57411,
+      "fontFamily": "Cil",
+      "identifier": "batteryAlert"
+    },
+    "battery-empty": {
+      "codepoint": 57412,
+      "fontFamily": "Cil",
+      "identifier": "batteryEmpty"
+    },
+    "battery-full": {
+      "codepoint": 57413,
+      "fontFamily": "Cil",
+      "identifier": "batteryFull"
+    },
+    "battery-slash": {
+      "codepoint": 57414,
+      "fontFamily": "Cil",
+      "identifier": "batterySlash"
+    },
+    "beach-access": {
+      "codepoint": 57415,
+      "fontFamily": "Cil",
+      "identifier": "beachAccess"
+    },
+    "beaker": {
+      "codepoint": 57416,
+      "fontFamily": "Cil",
+      "identifier": "beaker"
+    },
+    "bed": {
+      "codepoint": 57417,
+      "fontFamily": "Cil",
+      "identifier": "bed"
+    },
+    "bell": {
+      "codepoint": 57418,
+      "fontFamily": "Cil",
+      "identifier": "bell"
+    },
+    "bell-exclamation": {
+      "codepoint": 57419,
+      "fontFamily": "Cil",
+      "identifier": "bellExclamation"
+    },
+    "bike": {
+      "codepoint": 57420,
+      "fontFamily": "Cil",
+      "identifier": "bike"
+    },
+    "birthday-cake": {
+      "codepoint": 57421,
+      "fontFamily": "Cil",
+      "identifier": "birthdayCake"
+    },
+    "blind": {
+      "codepoint": 57422,
+      "fontFamily": "Cil",
+      "identifier": "blind"
+    },
+    "bluetooth": {
+      "codepoint": 57423,
+      "fontFamily": "Cil",
+      "identifier": "bluetooth"
+    },
+    "blur": {
+      "codepoint": 57424,
+      "fontFamily": "Cil",
+      "identifier": "blur"
+    },
+    "blur-circular": {
+      "codepoint": 57425,
+      "fontFamily": "Cil",
+      "identifier": "blurCircular"
+    },
+    "blur-linear": {
+      "codepoint": 57426,
+      "fontFamily": "Cil",
+      "identifier": "blurLinear"
+    },
+    "boat-alt": {
+      "codepoint": 57427,
+      "fontFamily": "Cil",
+      "identifier": "boatAlt"
+    },
+    "bold": {
+      "codepoint": 57428,
+      "fontFamily": "Cil",
+      "identifier": "bold"
+    },
+    "bolt": {
+      "codepoint": 57429,
+      "fontFamily": "Cil",
+      "identifier": "bolt"
+    },
+    "bolt-circle": {
+      "codepoint": 57430,
+      "fontFamily": "Cil",
+      "identifier": "boltCircle"
+    },
+    "book": {
+      "codepoint": 57431,
+      "fontFamily": "Cil",
+      "identifier": "book"
+    },
+    "bookmark": {
+      "codepoint": 57432,
+      "fontFamily": "Cil",
+      "identifier": "bookmark"
+    },
+    "border-all": {
+      "codepoint": 57433,
+      "fontFamily": "Cil",
+      "identifier": "borderAll"
+    },
+    "border-bottom": {
+      "codepoint": 57434,
+      "fontFamily": "Cil",
+      "identifier": "borderBottom"
+    },
+    "border-clear": {
+      "codepoint": 57435,
+      "fontFamily": "Cil",
+      "identifier": "borderClear"
+    },
+    "border-horizontal": {
+      "codepoint": 57436,
+      "fontFamily": "Cil",
+      "identifier": "borderHorizontal"
+    },
+    "border-inner": {
+      "codepoint": 57437,
+      "fontFamily": "Cil",
+      "identifier": "borderInner"
+    },
+    "border-left": {
+      "codepoint": 57438,
+      "fontFamily": "Cil",
+      "identifier": "borderLeft"
+    },
+    "border-outer": {
+      "codepoint": 57439,
+      "fontFamily": "Cil",
+      "identifier": "borderOuter"
+    },
+    "border-right": {
+      "codepoint": 57440,
+      "fontFamily": "Cil",
+      "identifier": "borderRight"
+    },
+    "border-style": {
+      "codepoint": 57441,
+      "fontFamily": "Cil",
+      "identifier": "borderStyle"
+    },
+    "border-top": {
+      "codepoint": 57442,
+      "fontFamily": "Cil",
+      "identifier": "borderTop"
+    },
+    "border-vertical": {
+      "codepoint": 57443,
+      "fontFamily": "Cil",
+      "identifier": "borderVertical"
+    },
+    "bowling": {
+      "codepoint": 57444,
+      "fontFamily": "Cil",
+      "identifier": "bowling"
+    },
+    "braille": {
+      "codepoint": 57445,
+      "fontFamily": "Cil",
+      "identifier": "braille"
+    },
+    "briefcase": {
+      "codepoint": 57446,
+      "fontFamily": "Cil",
+      "identifier": "briefcase"
+    },
+    "brightness": {
+      "codepoint": 57447,
+      "fontFamily": "Cil",
+      "identifier": "brightness"
+    },
+    "british-pound": {
+      "codepoint": 57448,
+      "fontFamily": "Cil",
+      "identifier": "britishPound"
+    },
+    "browser": {
+      "codepoint": 57449,
+      "fontFamily": "Cil",
+      "identifier": "browser"
+    },
+    "brush": {
+      "codepoint": 57450,
+      "fontFamily": "Cil",
+      "identifier": "brush"
+    },
+    "brush-alt": {
+      "codepoint": 57451,
+      "fontFamily": "Cil",
+      "identifier": "brushAlt"
+    },
+    "bug": {
+      "codepoint": 57452,
+      "fontFamily": "Cil",
+      "identifier": "bug"
+    },
+    "building": {
+      "codepoint": 57453,
+      "fontFamily": "Cil",
+      "identifier": "building"
+    },
+    "bullhorn": {
+      "codepoint": 57454,
+      "fontFamily": "Cil",
+      "identifier": "bullhorn"
+    },
+    "burger": {
+      "codepoint": 57455,
+      "fontFamily": "Cil",
+      "identifier": "burger"
+    },
+    "burn": {
+      "codepoint": 57456,
+      "fontFamily": "Cil",
+      "identifier": "burn"
+    },
+    "bus-alt": {
+      "codepoint": 57457,
+      "fontFamily": "Cil",
+      "identifier": "busAlt"
+    },
+    "calculator": {
+      "codepoint": 57458,
+      "fontFamily": "Cil",
+      "identifier": "calculator"
+    },
+    "calendar": {
+      "codepoint": 57459,
+      "fontFamily": "Cil",
+      "identifier": "calendar"
+    },
+    "calendar-check": {
+      "codepoint": 57460,
+      "fontFamily": "Cil",
+      "identifier": "calendarCheck"
+    },
+    "camera": {
+      "codepoint": 57461,
+      "fontFamily": "Cil",
+      "identifier": "camera"
+    },
+    "camera-control": {
+      "codepoint": 57462,
+      "fontFamily": "Cil",
+      "identifier": "cameraControl"
+    },
+    "camera-roll": {
+      "codepoint": 57463,
+      "fontFamily": "Cil",
+      "identifier": "cameraRoll"
+    },
+    "car-alt": {
+      "codepoint": 57464,
+      "fontFamily": "Cil",
+      "identifier": "carAlt"
+    },
+    "caret-bottom": {
+      "codepoint": 57465,
+      "fontFamily": "Cil",
+      "identifier": "caretBottom"
+    },
+    "caret-left": {
+      "codepoint": 57466,
+      "fontFamily": "Cil",
+      "identifier": "caretLeft"
+    },
+    "caret-right": {
+      "codepoint": 57467,
+      "fontFamily": "Cil",
+      "identifier": "caretRight"
+    },
+    "caret-top": {
+      "codepoint": 57468,
+      "fontFamily": "Cil",
+      "identifier": "caretTop"
+    },
+    "cart": {
+      "codepoint": 57469,
+      "fontFamily": "Cil",
+      "identifier": "cart"
+    },
+    "cash": {
+      "codepoint": 57470,
+      "fontFamily": "Cil",
+      "identifier": "cash"
+    },
+    "casino": {
+      "codepoint": 57471,
+      "fontFamily": "Cil",
+      "identifier": "casino"
+    },
+    "cast": {
+      "codepoint": 57472,
+      "fontFamily": "Cil",
+      "identifier": "cast"
+    },
+    "cat": {
+      "codepoint": 57473,
+      "fontFamily": "Cil",
+      "identifier": "cat"
+    },
+    "cc": {
+      "codepoint": 57474,
+      "fontFamily": "Cil",
+      "identifier": "cc"
+    },
+    "center-focus": {
+      "codepoint": 57475,
+      "fontFamily": "Cil",
+      "identifier": "centerFocus"
+    },
+    "chart": {
+      "codepoint": 57476,
+      "fontFamily": "Cil",
+      "identifier": "chart"
+    },
+    "chart-line": {
+      "codepoint": 57477,
+      "fontFamily": "Cil",
+      "identifier": "chartLine"
+    },
+    "chart-pie": {
+      "codepoint": 57478,
+      "fontFamily": "Cil",
+      "identifier": "chartPie"
+    },
+    "chat-bubble": {
+      "codepoint": 57479,
+      "fontFamily": "Cil",
+      "identifier": "chatBubble"
+    },
+    "check": {
+      "codepoint": 57480,
+      "fontFamily": "Cil",
+      "identifier": "check"
+    },
+    "check-alt": {
+      "codepoint": 57481,
+      "fontFamily": "Cil",
+      "identifier": "checkAlt"
+    },
+    "check-circle": {
+      "codepoint": 57482,
+      "fontFamily": "Cil",
+      "identifier": "checkCircle"
+    },
+    "chevron-bottom": {
+      "codepoint": 57483,
+      "fontFamily": "Cil",
+      "identifier": "chevronBottom"
+    },
+    "chevron-circle-down-alt": {
+      "codepoint": 57484,
+      "fontFamily": "Cil",
+      "identifier": "chevronCircleDownAlt"
+    },
+    "chevron-circle-left-alt": {
+      "codepoint": 57485,
+      "fontFamily": "Cil",
+      "identifier": "chevronCircleLeftAlt"
+    },
+    "chevron-circle-right-alt": {
+      "codepoint": 57486,
+      "fontFamily": "Cil",
+      "identifier": "chevronCircleRightAlt"
+    },
+    "chevron-circle-up-alt": {
+      "codepoint": 57487,
+      "fontFamily": "Cil",
+      "identifier": "chevronCircleUpAlt"
+    },
+    "chevron-double-down": {
+      "codepoint": 57488,
+      "fontFamily": "Cil",
+      "identifier": "chevronDoubleDown"
+    },
+    "chevron-double-left": {
+      "codepoint": 57489,
+      "fontFamily": "Cil",
+      "identifier": "chevronDoubleLeft"
+    },
+    "chevron-double-right": {
+      "codepoint": 57490,
+      "fontFamily": "Cil",
+      "identifier": "chevronDoubleRight"
+    },
+    "chevron-double-up": {
+      "codepoint": 57491,
+      "fontFamily": "Cil",
+      "identifier": "chevronDoubleUp"
+    },
+    "chevron-double-up-alt": {
+      "codepoint": 57492,
+      "fontFamily": "Cil",
+      "identifier": "chevronDoubleUpAlt"
+    },
+    "chevron-left": {
+      "codepoint": 57493,
+      "fontFamily": "Cil",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57494,
+      "fontFamily": "Cil",
+      "identifier": "chevronRight"
+    },
+    "chevron-top": {
+      "codepoint": 57495,
+      "fontFamily": "Cil",
+      "identifier": "chevronTop"
+    },
+    "child": {
+      "codepoint": 57496,
+      "fontFamily": "Cil",
+      "identifier": "child"
+    },
+    "child-friendly": {
+      "codepoint": 57497,
+      "fontFamily": "Cil",
+      "identifier": "childFriendly"
+    },
+    "circle": {
+      "codepoint": 57498,
+      "fontFamily": "Cil",
+      "identifier": "circle"
+    },
+    "clear-all": {
+      "codepoint": 57499,
+      "fontFamily": "Cil",
+      "identifier": "clearAll"
+    },
+    "clipboard": {
+      "codepoint": 57500,
+      "fontFamily": "Cil",
+      "identifier": "clipboard"
+    },
+    "clock": {
+      "codepoint": 57501,
+      "fontFamily": "Cil",
+      "identifier": "clock"
+    },
+    "clone": {
+      "codepoint": 57502,
+      "fontFamily": "Cil",
+      "identifier": "clone"
+    },
+    "closed-captioning": {
+      "codepoint": 57503,
+      "fontFamily": "Cil",
+      "identifier": "closedCaptioning"
+    },
+    "cloud": {
+      "codepoint": 57504,
+      "fontFamily": "Cil",
+      "identifier": "cloud"
+    },
+    "cloud-download": {
+      "codepoint": 57505,
+      "fontFamily": "Cil",
+      "identifier": "cloudDownload"
+    },
+    "cloud-upload": {
+      "codepoint": 57506,
+      "fontFamily": "Cil",
+      "identifier": "cloudUpload"
+    },
+    "cloudy": {
+      "codepoint": 57507,
+      "fontFamily": "Cil",
+      "identifier": "cloudy"
+    },
+    "code": {
+      "codepoint": 57508,
+      "fontFamily": "Cil",
+      "identifier": "code"
+    },
+    "coffee": {
+      "codepoint": 57509,
+      "fontFamily": "Cil",
+      "identifier": "coffee"
+    },
+    "cog": {
+      "codepoint": 57510,
+      "fontFamily": "Cil",
+      "identifier": "cog"
+    },
+    "color-border": {
+      "codepoint": 57511,
+      "fontFamily": "Cil",
+      "identifier": "colorBorder"
+    },
+    "color-fill": {
+      "codepoint": 57512,
+      "fontFamily": "Cil",
+      "identifier": "colorFill"
+    },
+    "color-palette": {
+      "codepoint": 57513,
+      "fontFamily": "Cil",
+      "identifier": "colorPalette"
+    },
+    "columns": {
+      "codepoint": 57514,
+      "fontFamily": "Cil",
+      "identifier": "columns"
+    },
+    "command": {
+      "codepoint": 57515,
+      "fontFamily": "Cil",
+      "identifier": "command"
+    },
+    "comment-bubble": {
+      "codepoint": 57516,
+      "fontFamily": "Cil",
+      "identifier": "commentBubble"
+    },
+    "comment-square": {
+      "codepoint": 57517,
+      "fontFamily": "Cil",
+      "identifier": "commentSquare"
+    },
+    "compass": {
+      "codepoint": 57518,
+      "fontFamily": "Cil",
+      "identifier": "compass"
+    },
+    "compress": {
+      "codepoint": 57519,
+      "fontFamily": "Cil",
+      "identifier": "compress"
+    },
+    "contact": {
+      "codepoint": 57520,
+      "fontFamily": "Cil",
+      "identifier": "contact"
+    },
+    "contrast": {
+      "codepoint": 57521,
+      "fontFamily": "Cil",
+      "identifier": "contrast"
+    },
+    "control": {
+      "codepoint": 57522,
+      "fontFamily": "Cil",
+      "identifier": "control"
+    },
+    "copy": {
+      "codepoint": 57523,
+      "fontFamily": "Cil",
+      "identifier": "copy"
+    },
+    "couch": {
+      "codepoint": 57524,
+      "fontFamily": "Cil",
+      "identifier": "couch"
+    },
+    "credit-card": {
+      "codepoint": 57525,
+      "fontFamily": "Cil",
+      "identifier": "creditCard"
+    },
+    "crop": {
+      "codepoint": 57526,
+      "fontFamily": "Cil",
+      "identifier": "crop"
+    },
+    "crop-rotate": {
+      "codepoint": 57527,
+      "fontFamily": "Cil",
+      "identifier": "cropRotate"
+    },
+    "cursor": {
+      "codepoint": 57528,
+      "fontFamily": "Cil",
+      "identifier": "cursor"
+    },
+    "cursor-move": {
+      "codepoint": 57529,
+      "fontFamily": "Cil",
+      "identifier": "cursorMove"
+    },
+    "cut": {
+      "codepoint": 57530,
+      "fontFamily": "Cil",
+      "identifier": "cut"
+    },
+    "data-transfer-down": {
+      "codepoint": 57531,
+      "fontFamily": "Cil",
+      "identifier": "dataTransferDown"
+    },
+    "data-transfer-up": {
+      "codepoint": 57532,
+      "fontFamily": "Cil",
+      "identifier": "dataTransferUp"
+    },
+    "deaf": {
+      "codepoint": 57533,
+      "fontFamily": "Cil",
+      "identifier": "deaf"
+    },
+    "delete": {
+      "codepoint": 57534,
+      "fontFamily": "Cil",
+      "identifier": "delete"
+    },
+    "description": {
+      "codepoint": 57535,
+      "fontFamily": "Cil",
+      "identifier": "description"
+    },
+    "devices": {
+      "codepoint": 57536,
+      "fontFamily": "Cil",
+      "identifier": "devices"
+    },
+    "dialpad": {
+      "codepoint": 57537,
+      "fontFamily": "Cil",
+      "identifier": "dialpad"
+    },
+    "diamond": {
+      "codepoint": 57538,
+      "fontFamily": "Cil",
+      "identifier": "diamond"
+    },
+    "dinner": {
+      "codepoint": 57539,
+      "fontFamily": "Cil",
+      "identifier": "dinner"
+    },
+    "disabled": {
+      "codepoint": 57540,
+      "fontFamily": "Cil",
+      "identifier": "disabled"
+    },
+    "dog": {
+      "codepoint": 57541,
+      "fontFamily": "Cil",
+      "identifier": "dog"
+    },
+    "dollar": {
+      "codepoint": 57542,
+      "fontFamily": "Cil",
+      "identifier": "dollar"
+    },
+    "door": {
+      "codepoint": 57543,
+      "fontFamily": "Cil",
+      "identifier": "door"
+    },
+    "double-quote-sans-left": {
+      "codepoint": 57544,
+      "fontFamily": "Cil",
+      "identifier": "doubleQuoteSansLeft"
+    },
+    "double-quote-sans-right": {
+      "codepoint": 57545,
+      "fontFamily": "Cil",
+      "identifier": "doubleQuoteSansRight"
+    },
+    "drink": {
+      "codepoint": 57546,
+      "fontFamily": "Cil",
+      "identifier": "drink"
+    },
+    "drink-alcohol": {
+      "codepoint": 57547,
+      "fontFamily": "Cil",
+      "identifier": "drinkAlcohol"
+    },
+    "drop": {
+      "codepoint": 57548,
+      "fontFamily": "Cil",
+      "identifier": "drop"
+    },
+    "drop1": {
+      "codepoint": 57549,
+      "fontFamily": "Cil",
+      "identifier": "drop1"
+    },
+    "eco": {
+      "codepoint": 57550,
+      "fontFamily": "Cil",
+      "identifier": "eco"
+    },
+    "education": {
+      "codepoint": 57551,
+      "fontFamily": "Cil",
+      "identifier": "education"
+    },
+    "elevator": {
+      "codepoint": 57552,
+      "fontFamily": "Cil",
+      "identifier": "elevator"
+    },
+    "envelope-closed": {
+      "codepoint": 57553,
+      "fontFamily": "Cil",
+      "identifier": "envelopeClosed"
+    },
+    "envelope-letter": {
+      "codepoint": 57554,
+      "fontFamily": "Cil",
+      "identifier": "envelopeLetter"
+    },
+    "envelope-open": {
+      "codepoint": 57555,
+      "fontFamily": "Cil",
+      "identifier": "envelopeOpen"
+    },
+    "equalizer": {
+      "codepoint": 57556,
+      "fontFamily": "Cil",
+      "identifier": "equalizer"
+    },
+    "ethernet": {
+      "codepoint": 57557,
+      "fontFamily": "Cil",
+      "identifier": "ethernet"
+    },
+    "euro": {
+      "codepoint": 57558,
+      "fontFamily": "Cil",
+      "identifier": "euro"
+    },
+    "excerpt": {
+      "codepoint": 57559,
+      "fontFamily": "Cil",
+      "identifier": "excerpt"
+    },
+    "exit-to-app": {
+      "codepoint": 57560,
+      "fontFamily": "Cil",
+      "identifier": "exitToApp"
+    },
+    "expand-down": {
+      "codepoint": 57561,
+      "fontFamily": "Cil",
+      "identifier": "expandDown"
+    },
+    "expand-left": {
+      "codepoint": 57562,
+      "fontFamily": "Cil",
+      "identifier": "expandLeft"
+    },
+    "expand-right": {
+      "codepoint": 57563,
+      "fontFamily": "Cil",
+      "identifier": "expandRight"
+    },
+    "expand-up": {
+      "codepoint": 57564,
+      "fontFamily": "Cil",
+      "identifier": "expandUp"
+    },
+    "exposure": {
+      "codepoint": 57565,
+      "fontFamily": "Cil",
+      "identifier": "exposure"
+    },
+    "external-link": {
+      "codepoint": 57566,
+      "fontFamily": "Cil",
+      "identifier": "externalLink"
+    },
+    "eyedropper": {
+      "codepoint": 57567,
+      "fontFamily": "Cil",
+      "identifier": "eyedropper"
+    },
+    "face": {
+      "codepoint": 57568,
+      "fontFamily": "Cil",
+      "identifier": "face"
+    },
+    "face-dead": {
+      "codepoint": 57569,
+      "fontFamily": "Cil",
+      "identifier": "faceDead"
+    },
+    "factory": {
+      "codepoint": 57570,
+      "fontFamily": "Cil",
+      "identifier": "factory_"
+    },
+    "factory-slash": {
+      "codepoint": 57571,
+      "fontFamily": "Cil",
+      "identifier": "factorySlash"
+    },
+    "fastfood": {
+      "codepoint": 57572,
+      "fontFamily": "Cil",
+      "identifier": "fastfood"
+    },
+    "fax": {
+      "codepoint": 57573,
+      "fontFamily": "Cil",
+      "identifier": "fax"
+    },
+    "featured-playlist": {
+      "codepoint": 57574,
+      "fontFamily": "Cil",
+      "identifier": "featuredPlaylist"
+    },
+    "file": {
+      "codepoint": 57575,
+      "fontFamily": "Cil",
+      "identifier": "file"
+    },
+    "filter": {
+      "codepoint": 57576,
+      "fontFamily": "Cil",
+      "identifier": "filter"
+    },
+    "filter-frames": {
+      "codepoint": 57577,
+      "fontFamily": "Cil",
+      "identifier": "filterFrames"
+    },
+    "filter-photo": {
+      "codepoint": 57578,
+      "fontFamily": "Cil",
+      "identifier": "filterPhoto"
+    },
+    "filter-square": {
+      "codepoint": 57579,
+      "fontFamily": "Cil",
+      "identifier": "filterSquare"
+    },
+    "filter-x": {
+      "codepoint": 57580,
+      "fontFamily": "Cil",
+      "identifier": "filterX"
+    },
+    "find-in-page": {
+      "codepoint": 57581,
+      "fontFamily": "Cil",
+      "identifier": "findInPage"
+    },
+    "fingerprint": {
+      "codepoint": 57582,
+      "fontFamily": "Cil",
+      "identifier": "fingerprint"
+    },
+    "fire": {
+      "codepoint": 57583,
+      "fontFamily": "Cil",
+      "identifier": "fire"
+    },
+    "flag-alt": {
+      "codepoint": 57584,
+      "fontFamily": "Cil",
+      "identifier": "flagAlt"
+    },
+    "flight-takeoff": {
+      "codepoint": 57585,
+      "fontFamily": "Cil",
+      "identifier": "flightTakeoff"
+    },
+    "flip": {
+      "codepoint": 57586,
+      "fontFamily": "Cil",
+      "identifier": "flip"
+    },
+    "flip-to-back": {
+      "codepoint": 57587,
+      "fontFamily": "Cil",
+      "identifier": "flipToBack"
+    },
+    "flip-to-front": {
+      "codepoint": 57588,
+      "fontFamily": "Cil",
+      "identifier": "flipToFront"
+    },
+    "flower": {
+      "codepoint": 57589,
+      "fontFamily": "Cil",
+      "identifier": "flower"
+    },
+    "folder": {
+      "codepoint": 57590,
+      "fontFamily": "Cil",
+      "identifier": "folder"
+    },
+    "folder-open": {
+      "codepoint": 57591,
+      "fontFamily": "Cil",
+      "identifier": "folderOpen"
+    },
+    "font": {
+      "codepoint": 57592,
+      "fontFamily": "Cil",
+      "identifier": "font"
+    },
+    "football": {
+      "codepoint": 57593,
+      "fontFamily": "Cil",
+      "identifier": "football"
+    },
+    "fork": {
+      "codepoint": 57594,
+      "fontFamily": "Cil",
+      "identifier": "fork"
+    },
+    "fridge": {
+      "codepoint": 57595,
+      "fontFamily": "Cil",
+      "identifier": "fridge"
+    },
+    "frown": {
+      "codepoint": 57596,
+      "fontFamily": "Cil",
+      "identifier": "frown"
+    },
+    "fullscreen": {
+      "codepoint": 57597,
+      "fontFamily": "Cil",
+      "identifier": "fullscreen"
+    },
+    "fullscreen-exit": {
+      "codepoint": 57598,
+      "fontFamily": "Cil",
+      "identifier": "fullscreenExit"
+    },
+    "functions": {
+      "codepoint": 57599,
+      "fontFamily": "Cil",
+      "identifier": "functions"
+    },
+    "functions-alt": {
+      "codepoint": 57600,
+      "fontFamily": "Cil",
+      "identifier": "functionsAlt"
+    },
+    "gamepad": {
+      "codepoint": 57601,
+      "fontFamily": "Cil",
+      "identifier": "gamepad"
+    },
+    "garage": {
+      "codepoint": 57602,
+      "fontFamily": "Cil",
+      "identifier": "garage"
+    },
+    "gauge": {
+      "codepoint": 57603,
+      "fontFamily": "Cil",
+      "identifier": "gauge"
+    },
+    "gem": {
+      "codepoint": 57604,
+      "fontFamily": "Cil",
+      "identifier": "gem"
+    },
+    "gif": {
+      "codepoint": 57605,
+      "fontFamily": "Cil",
+      "identifier": "gif"
+    },
+    "gift": {
+      "codepoint": 57606,
+      "fontFamily": "Cil",
+      "identifier": "gift"
+    },
+    "globe-alt": {
+      "codepoint": 57607,
+      "fontFamily": "Cil",
+      "identifier": "globeAlt"
+    },
+    "golf": {
+      "codepoint": 57608,
+      "fontFamily": "Cil",
+      "identifier": "golf"
+    },
+    "golf-alt": {
+      "codepoint": 57609,
+      "fontFamily": "Cil",
+      "identifier": "golfAlt"
+    },
+    "gradient": {
+      "codepoint": 57610,
+      "fontFamily": "Cil",
+      "identifier": "gradient"
+    },
+    "grain": {
+      "codepoint": 57611,
+      "fontFamily": "Cil",
+      "identifier": "grain"
+    },
+    "graph": {
+      "codepoint": 57612,
+      "fontFamily": "Cil",
+      "identifier": "graph"
+    },
+    "grid": {
+      "codepoint": 57613,
+      "fontFamily": "Cil",
+      "identifier": "grid"
+    },
+    "grid-slash": {
+      "codepoint": 57614,
+      "fontFamily": "Cil",
+      "identifier": "gridSlash"
+    },
+    "group": {
+      "codepoint": 57615,
+      "fontFamily": "Cil",
+      "identifier": "group"
+    },
+    "hamburger-menu": {
+      "codepoint": 57616,
+      "fontFamily": "Cil",
+      "identifier": "hamburgerMenu"
+    },
+    "hand-point-down": {
+      "codepoint": 57617,
+      "fontFamily": "Cil",
+      "identifier": "handPointDown"
+    },
+    "hand-point-left": {
+      "codepoint": 57618,
+      "fontFamily": "Cil",
+      "identifier": "handPointLeft"
+    },
+    "hand-point-right": {
+      "codepoint": 57619,
+      "fontFamily": "Cil",
+      "identifier": "handPointRight"
+    },
+    "hand-point-up": {
+      "codepoint": 57620,
+      "fontFamily": "Cil",
+      "identifier": "handPointUp"
+    },
+    "happy": {
+      "codepoint": 57621,
+      "fontFamily": "Cil",
+      "identifier": "happy"
+    },
+    "hd": {
+      "codepoint": 57622,
+      "fontFamily": "Cil",
+      "identifier": "hd"
+    },
+    "hdr": {
+      "codepoint": 57623,
+      "fontFamily": "Cil",
+      "identifier": "hdr"
+    },
+    "header": {
+      "codepoint": 57624,
+      "fontFamily": "Cil",
+      "identifier": "header"
+    },
+    "headphones": {
+      "codepoint": 57625,
+      "fontFamily": "Cil",
+      "identifier": "headphones"
+    },
+    "healing": {
+      "codepoint": 57626,
+      "fontFamily": "Cil",
+      "identifier": "healing"
+    },
+    "heart": {
+      "codepoint": 57627,
+      "fontFamily": "Cil",
+      "identifier": "heart"
+    },
+    "highlighter": {
+      "codepoint": 57628,
+      "fontFamily": "Cil",
+      "identifier": "highlighter"
+    },
+    "highligt": {
+      "codepoint": 57629,
+      "fontFamily": "Cil",
+      "identifier": "highligt"
+    },
+    "history": {
+      "codepoint": 57630,
+      "fontFamily": "Cil",
+      "identifier": "history"
+    },
+    "home": {
+      "codepoint": 57631,
+      "fontFamily": "Cil",
+      "identifier": "home"
+    },
+    "hospital": {
+      "codepoint": 57632,
+      "fontFamily": "Cil",
+      "identifier": "hospital"
+    },
+    "hot-tub": {
+      "codepoint": 57633,
+      "fontFamily": "Cil",
+      "identifier": "hotTub"
+    },
+    "house": {
+      "codepoint": 57634,
+      "fontFamily": "Cil",
+      "identifier": "house"
+    },
+    "https": {
+      "codepoint": 57635,
+      "fontFamily": "Cil",
+      "identifier": "https"
+    },
+    "image": {
+      "codepoint": 57636,
+      "fontFamily": "Cil",
+      "identifier": "image"
+    },
+    "image-broken": {
+      "codepoint": 57637,
+      "fontFamily": "Cil",
+      "identifier": "imageBroken"
+    },
+    "image-plus": {
+      "codepoint": 57638,
+      "fontFamily": "Cil",
+      "identifier": "imagePlus"
+    },
+    "image1": {
+      "codepoint": 57639,
+      "fontFamily": "Cil",
+      "identifier": "image1"
+    },
+    "inbox": {
+      "codepoint": 57640,
+      "fontFamily": "Cil",
+      "identifier": "inbox"
+    },
+    "indent-decrease": {
+      "codepoint": 57641,
+      "fontFamily": "Cil",
+      "identifier": "indentDecrease"
+    },
+    "indent-increase": {
+      "codepoint": 57642,
+      "fontFamily": "Cil",
+      "identifier": "indentIncrease"
+    },
+    "industry": {
+      "codepoint": 57643,
+      "fontFamily": "Cil",
+      "identifier": "industry"
+    },
+    "industry-slash": {
+      "codepoint": 57644,
+      "fontFamily": "Cil",
+      "identifier": "industrySlash"
+    },
+    "infinity": {
+      "codepoint": 57645,
+      "fontFamily": "Cil",
+      "identifier": "infinity"
+    },
+    "info": {
+      "codepoint": 57646,
+      "fontFamily": "Cil",
+      "identifier": "info"
+    },
+    "input": {
+      "codepoint": 57647,
+      "fontFamily": "Cil",
+      "identifier": "input"
+    },
+    "input-hdmi": {
+      "codepoint": 57648,
+      "fontFamily": "Cil",
+      "identifier": "inputHdmi"
+    },
+    "input-power": {
+      "codepoint": 57649,
+      "fontFamily": "Cil",
+      "identifier": "inputPower"
+    },
+    "institution": {
+      "codepoint": 57650,
+      "fontFamily": "Cil",
+      "identifier": "institution"
+    },
+    "italic": {
+      "codepoint": 57651,
+      "fontFamily": "Cil",
+      "identifier": "italic"
+    },
+    "justify-center": {
+      "codepoint": 57652,
+      "fontFamily": "Cil",
+      "identifier": "justifyCenter"
+    },
+    "justify-left": {
+      "codepoint": 57653,
+      "fontFamily": "Cil",
+      "identifier": "justifyLeft"
+    },
+    "justify-right": {
+      "codepoint": 57654,
+      "fontFamily": "Cil",
+      "identifier": "justifyRight"
+    },
+    "keyboard": {
+      "codepoint": 57655,
+      "fontFamily": "Cil",
+      "identifier": "keyboard"
+    },
+    "lan": {
+      "codepoint": 57656,
+      "fontFamily": "Cil",
+      "identifier": "lan"
+    },
+    "language": {
+      "codepoint": 57657,
+      "fontFamily": "Cil",
+      "identifier": "language"
+    },
+    "laptop": {
+      "codepoint": 57658,
+      "fontFamily": "Cil",
+      "identifier": "laptop"
+    },
+    "layers": {
+      "codepoint": 57659,
+      "fontFamily": "Cil",
+      "identifier": "layers"
+    },
+    "leaf": {
+      "codepoint": 57660,
+      "fontFamily": "Cil",
+      "identifier": "leaf"
+    },
+    "lemon": {
+      "codepoint": 57661,
+      "fontFamily": "Cil",
+      "identifier": "lemon"
+    },
+    "level-down": {
+      "codepoint": 57662,
+      "fontFamily": "Cil",
+      "identifier": "levelDown"
+    },
+    "level-up": {
+      "codepoint": 57663,
+      "fontFamily": "Cil",
+      "identifier": "levelUp"
+    },
+    "library": {
+      "codepoint": 57664,
+      "fontFamily": "Cil",
+      "identifier": "library_"
+    },
+    "library-add": {
+      "codepoint": 57665,
+      "fontFamily": "Cil",
+      "identifier": "libraryAdd"
+    },
+    "library-building": {
+      "codepoint": 57666,
+      "fontFamily": "Cil",
+      "identifier": "libraryBuilding"
+    },
+    "life-ring": {
+      "codepoint": 57667,
+      "fontFamily": "Cil",
+      "identifier": "lifeRing"
+    },
+    "lightbulb": {
+      "codepoint": 57668,
+      "fontFamily": "Cil",
+      "identifier": "lightbulb"
+    },
+    "line-spacing": {
+      "codepoint": 57669,
+      "fontFamily": "Cil",
+      "identifier": "lineSpacing"
+    },
+    "line-style": {
+      "codepoint": 57670,
+      "fontFamily": "Cil",
+      "identifier": "lineStyle"
+    },
+    "line-weight": {
+      "codepoint": 57671,
+      "fontFamily": "Cil",
+      "identifier": "lineWeight"
+    },
+    "link": {
+      "codepoint": 57672,
+      "fontFamily": "Cil",
+      "identifier": "link"
+    },
+    "link-alt": {
+      "codepoint": 57673,
+      "fontFamily": "Cil",
+      "identifier": "linkAlt"
+    },
+    "link-broken": {
+      "codepoint": 57674,
+      "fontFamily": "Cil",
+      "identifier": "linkBroken"
+    },
+    "list": {
+      "codepoint": 57675,
+      "fontFamily": "Cil",
+      "identifier": "list"
+    },
+    "list-filter": {
+      "codepoint": 57676,
+      "fontFamily": "Cil",
+      "identifier": "listFilter"
+    },
+    "list-high-priority": {
+      "codepoint": 57677,
+      "fontFamily": "Cil",
+      "identifier": "listHighPriority"
+    },
+    "list-low-priority": {
+      "codepoint": 57678,
+      "fontFamily": "Cil",
+      "identifier": "listLowPriority"
+    },
+    "list-numbered": {
+      "codepoint": 57679,
+      "fontFamily": "Cil",
+      "identifier": "listNumbered"
+    },
+    "list-numbered-rtl": {
+      "codepoint": 57680,
+      "fontFamily": "Cil",
+      "identifier": "listNumberedRtl"
+    },
+    "list-rich": {
+      "codepoint": 57681,
+      "fontFamily": "Cil",
+      "identifier": "listRich"
+    },
+    "location-pin": {
+      "codepoint": 57682,
+      "fontFamily": "Cil",
+      "identifier": "locationPin"
+    },
+    "lock-locked": {
+      "codepoint": 57683,
+      "fontFamily": "Cil",
+      "identifier": "lockLocked"
+    },
+    "lock-unlocked": {
+      "codepoint": 57684,
+      "fontFamily": "Cil",
+      "identifier": "lockUnlocked"
+    },
+    "locomotive": {
+      "codepoint": 57685,
+      "fontFamily": "Cil",
+      "identifier": "locomotive"
+    },
+    "loop": {
+      "codepoint": 57686,
+      "fontFamily": "Cil",
+      "identifier": "loop"
+    },
+    "loop-1": {
+      "codepoint": 57687,
+      "fontFamily": "Cil",
+      "identifier": "loop1"
+    },
+    "loop-circular": {
+      "codepoint": 57688,
+      "fontFamily": "Cil",
+      "identifier": "loopCircular"
+    },
+    "low-vision": {
+      "codepoint": 57689,
+      "fontFamily": "Cil",
+      "identifier": "lowVision"
+    },
+    "magnifying-glass": {
+      "codepoint": 57690,
+      "fontFamily": "Cil",
+      "identifier": "magnifyingGlass"
+    },
+    "map": {
+      "codepoint": 57691,
+      "fontFamily": "Cil",
+      "identifier": "map"
+    },
+    "media-eject": {
+      "codepoint": 57692,
+      "fontFamily": "Cil",
+      "identifier": "mediaEject"
+    },
+    "media-pause": {
+      "codepoint": 57693,
+      "fontFamily": "Cil",
+      "identifier": "mediaPause"
+    },
+    "media-play": {
+      "codepoint": 57694,
+      "fontFamily": "Cil",
+      "identifier": "mediaPlay"
+    },
+    "media-record": {
+      "codepoint": 57695,
+      "fontFamily": "Cil",
+      "identifier": "mediaRecord"
+    },
+    "media-skip-backward": {
+      "codepoint": 57696,
+      "fontFamily": "Cil",
+      "identifier": "mediaSkipBackward"
+    },
+    "media-skip-forward": {
+      "codepoint": 57697,
+      "fontFamily": "Cil",
+      "identifier": "mediaSkipForward"
+    },
+    "media-step-backward": {
+      "codepoint": 57698,
+      "fontFamily": "Cil",
+      "identifier": "mediaStepBackward"
+    },
+    "media-step-forward": {
+      "codepoint": 57699,
+      "fontFamily": "Cil",
+      "identifier": "mediaStepForward"
+    },
+    "media-stop": {
+      "codepoint": 57700,
+      "fontFamily": "Cil",
+      "identifier": "mediaStop"
+    },
+    "medical-cross": {
+      "codepoint": 57701,
+      "fontFamily": "Cil",
+      "identifier": "medicalCross"
+    },
+    "meh": {
+      "codepoint": 57702,
+      "fontFamily": "Cil",
+      "identifier": "meh"
+    },
+    "memory": {
+      "codepoint": 57703,
+      "fontFamily": "Cil",
+      "identifier": "memory"
+    },
+    "menu": {
+      "codepoint": 57704,
+      "fontFamily": "Cil",
+      "identifier": "menu"
+    },
+    "mic": {
+      "codepoint": 57705,
+      "fontFamily": "Cil",
+      "identifier": "mic"
+    },
+    "microphone": {
+      "codepoint": 57706,
+      "fontFamily": "Cil",
+      "identifier": "microphone"
+    },
+    "minus": {
+      "codepoint": 57707,
+      "fontFamily": "Cil",
+      "identifier": "minus"
+    },
+    "mobile": {
+      "codepoint": 57708,
+      "fontFamily": "Cil",
+      "identifier": "mobile"
+    },
+    "mobile-landscape": {
+      "codepoint": 57709,
+      "fontFamily": "Cil",
+      "identifier": "mobileLandscape"
+    },
+    "money": {
+      "codepoint": 57710,
+      "fontFamily": "Cil",
+      "identifier": "money"
+    },
+    "monitor": {
+      "codepoint": 57711,
+      "fontFamily": "Cil",
+      "identifier": "monitor"
+    },
+    "mood-bad": {
+      "codepoint": 57712,
+      "fontFamily": "Cil",
+      "identifier": "moodBad"
+    },
+    "mood-good": {
+      "codepoint": 57713,
+      "fontFamily": "Cil",
+      "identifier": "moodGood"
+    },
+    "mood-very-bad": {
+      "codepoint": 57714,
+      "fontFamily": "Cil",
+      "identifier": "moodVeryBad"
+    },
+    "mood-very-good": {
+      "codepoint": 57715,
+      "fontFamily": "Cil",
+      "identifier": "moodVeryGood"
+    },
+    "moon": {
+      "codepoint": 57716,
+      "fontFamily": "Cil",
+      "identifier": "moon"
+    },
+    "mouse": {
+      "codepoint": 57717,
+      "fontFamily": "Cil",
+      "identifier": "mouse"
+    },
+    "mouth-slash": {
+      "codepoint": 57718,
+      "fontFamily": "Cil",
+      "identifier": "mouthSlash"
+    },
+    "move": {
+      "codepoint": 57719,
+      "fontFamily": "Cil",
+      "identifier": "move"
+    },
+    "movie": {
+      "codepoint": 57720,
+      "fontFamily": "Cil",
+      "identifier": "movie"
+    },
+    "mug": {
+      "codepoint": 57721,
+      "fontFamily": "Cil",
+      "identifier": "mug"
+    },
+    "mug-tea": {
+      "codepoint": 57722,
+      "fontFamily": "Cil",
+      "identifier": "mugTea"
+    },
+    "music-note": {
+      "codepoint": 57723,
+      "fontFamily": "Cil",
+      "identifier": "musicNote"
+    },
+    "newspaper": {
+      "codepoint": 57724,
+      "fontFamily": "Cil",
+      "identifier": "newspaper"
+    },
+    "note-add": {
+      "codepoint": 57725,
+      "fontFamily": "Cil",
+      "identifier": "noteAdd"
+    },
+    "notes": {
+      "codepoint": 57726,
+      "fontFamily": "Cil",
+      "identifier": "notes"
+    },
+    "object-group": {
+      "codepoint": 57727,
+      "fontFamily": "Cil",
+      "identifier": "objectGroup"
+    },
+    "object-ungroup": {
+      "codepoint": 57728,
+      "fontFamily": "Cil",
+      "identifier": "objectUngroup"
+    },
+    "opacity": {
+      "codepoint": 57729,
+      "fontFamily": "Cil",
+      "identifier": "opacity"
+    },
+    "opentype": {
+      "codepoint": 57730,
+      "fontFamily": "Cil",
+      "identifier": "opentype"
+    },
+    "options": {
+      "codepoint": 57731,
+      "fontFamily": "Cil",
+      "identifier": "options"
+    },
+    "options-horizontal": {
+      "codepoint": 57732,
+      "fontFamily": "Cil",
+      "identifier": "optionsHorizontal"
+    },
+    "paint": {
+      "codepoint": 57733,
+      "fontFamily": "Cil",
+      "identifier": "paint"
+    },
+    "paint-bucket": {
+      "codepoint": 57734,
+      "fontFamily": "Cil",
+      "identifier": "paintBucket"
+    },
+    "paper-plane": {
+      "codepoint": 57735,
+      "fontFamily": "Cil",
+      "identifier": "paperPlane"
+    },
+    "paperclip": {
+      "codepoint": 57736,
+      "fontFamily": "Cil",
+      "identifier": "paperclip"
+    },
+    "paragraph": {
+      "codepoint": 57737,
+      "fontFamily": "Cil",
+      "identifier": "paragraph"
+    },
+    "paw": {
+      "codepoint": 57738,
+      "fontFamily": "Cil",
+      "identifier": "paw"
+    },
+    "pen": {
+      "codepoint": 57739,
+      "fontFamily": "Cil",
+      "identifier": "pen"
+    },
+    "pen-alt": {
+      "codepoint": 57740,
+      "fontFamily": "Cil",
+      "identifier": "penAlt"
+    },
+    "pen-nib": {
+      "codepoint": 57741,
+      "fontFamily": "Cil",
+      "identifier": "penNib"
+    },
+    "pencil": {
+      "codepoint": 57742,
+      "fontFamily": "Cil",
+      "identifier": "pencil"
+    },
+    "people": {
+      "codepoint": 57743,
+      "fontFamily": "Cil",
+      "identifier": "people"
+    },
+    "phone": {
+      "codepoint": 57744,
+      "fontFamily": "Cil",
+      "identifier": "phone"
+    },
+    "pin": {
+      "codepoint": 57745,
+      "fontFamily": "Cil",
+      "identifier": "pin"
+    },
+    "pizza": {
+      "codepoint": 57746,
+      "fontFamily": "Cil",
+      "identifier": "pizza"
+    },
+    "plant": {
+      "codepoint": 57747,
+      "fontFamily": "Cil",
+      "identifier": "plant"
+    },
+    "playlist-add": {
+      "codepoint": 57748,
+      "fontFamily": "Cil",
+      "identifier": "playlistAdd"
+    },
+    "plus": {
+      "codepoint": 57749,
+      "fontFamily": "Cil",
+      "identifier": "plus"
+    },
+    "pool": {
+      "codepoint": 57750,
+      "fontFamily": "Cil",
+      "identifier": "pool"
+    },
+    "power-standby": {
+      "codepoint": 57751,
+      "fontFamily": "Cil",
+      "identifier": "powerStandby"
+    },
+    "pregnant": {
+      "codepoint": 57752,
+      "fontFamily": "Cil",
+      "identifier": "pregnant"
+    },
+    "print": {
+      "codepoint": 57753,
+      "fontFamily": "Cil",
+      "identifier": "print"
+    },
+    "pushchair": {
+      "codepoint": 57754,
+      "fontFamily": "Cil",
+      "identifier": "pushchair"
+    },
+    "puzzle": {
+      "codepoint": 57755,
+      "fontFamily": "Cil",
+      "identifier": "puzzle"
+    },
+    "qr-code": {
+      "codepoint": 57756,
+      "fontFamily": "Cil",
+      "identifier": "qrCode"
+    },
+    "rain": {
+      "codepoint": 57757,
+      "fontFamily": "Cil",
+      "identifier": "rain"
+    },
+    "rectangle": {
+      "codepoint": 57758,
+      "fontFamily": "Cil",
+      "identifier": "rectangle"
+    },
+    "recycle": {
+      "codepoint": 57759,
+      "fontFamily": "Cil",
+      "identifier": "recycle"
+    },
+    "reload": {
+      "codepoint": 57760,
+      "fontFamily": "Cil",
+      "identifier": "reload"
+    },
+    "remove": {
+      "codepoint": 57761,
+      "fontFamily": "Cil",
+      "identifier": "remove"
+    },
+    "report-slash": {
+      "codepoint": 57762,
+      "fontFamily": "Cil",
+      "identifier": "reportSlash"
+    },
+    "resize-both": {
+      "codepoint": 57763,
+      "fontFamily": "Cil",
+      "identifier": "resizeBoth"
+    },
+    "resize-height": {
+      "codepoint": 57764,
+      "fontFamily": "Cil",
+      "identifier": "resizeHeight"
+    },
+    "resize-width": {
+      "codepoint": 57765,
+      "fontFamily": "Cil",
+      "identifier": "resizeWidth"
+    },
+    "restaurant": {
+      "codepoint": 57766,
+      "fontFamily": "Cil",
+      "identifier": "restaurant"
+    },
+    "room": {
+      "codepoint": 57767,
+      "fontFamily": "Cil",
+      "identifier": "room"
+    },
+    "router": {
+      "codepoint": 57768,
+      "fontFamily": "Cil",
+      "identifier": "router"
+    },
+    "rowing": {
+      "codepoint": 57769,
+      "fontFamily": "Cil",
+      "identifier": "rowing"
+    },
+    "rss": {
+      "codepoint": 57770,
+      "fontFamily": "Cil",
+      "identifier": "rss"
+    },
+    "ruble": {
+      "codepoint": 57771,
+      "fontFamily": "Cil",
+      "identifier": "ruble"
+    },
+    "running": {
+      "codepoint": 57772,
+      "fontFamily": "Cil",
+      "identifier": "running"
+    },
+    "sad": {
+      "codepoint": 57773,
+      "fontFamily": "Cil",
+      "identifier": "sad"
+    },
+    "satelite": {
+      "codepoint": 57774,
+      "fontFamily": "Cil",
+      "identifier": "satelite"
+    },
+    "save": {
+      "codepoint": 57775,
+      "fontFamily": "Cil",
+      "identifier": "save"
+    },
+    "school": {
+      "codepoint": 57776,
+      "fontFamily": "Cil",
+      "identifier": "school"
+    },
+    "screen-desktop": {
+      "codepoint": 57777,
+      "fontFamily": "Cil",
+      "identifier": "screenDesktop"
+    },
+    "screen-smartphone": {
+      "codepoint": 57778,
+      "fontFamily": "Cil",
+      "identifier": "screenSmartphone"
+    },
+    "scrubber": {
+      "codepoint": 57779,
+      "fontFamily": "Cil",
+      "identifier": "scrubber"
+    },
+    "search": {
+      "codepoint": 57780,
+      "fontFamily": "Cil",
+      "identifier": "search"
+    },
+    "send": {
+      "codepoint": 57781,
+      "fontFamily": "Cil",
+      "identifier": "send"
+    },
+    "settings": {
+      "codepoint": 57782,
+      "fontFamily": "Cil",
+      "identifier": "settings"
+    },
+    "share": {
+      "codepoint": 57783,
+      "fontFamily": "Cil",
+      "identifier": "share"
+    },
+    "share-all": {
+      "codepoint": 57784,
+      "fontFamily": "Cil",
+      "identifier": "shareAll"
+    },
+    "share-alt": {
+      "codepoint": 57785,
+      "fontFamily": "Cil",
+      "identifier": "shareAlt"
+    },
+    "share-boxed": {
+      "codepoint": 57786,
+      "fontFamily": "Cil",
+      "identifier": "shareBoxed"
+    },
+    "shield-alt": {
+      "codepoint": 57787,
+      "fontFamily": "Cil",
+      "identifier": "shieldAlt"
+    },
+    "short-text": {
+      "codepoint": 57788,
+      "fontFamily": "Cil",
+      "identifier": "shortText"
+    },
+    "shower": {
+      "codepoint": 57789,
+      "fontFamily": "Cil",
+      "identifier": "shower"
+    },
+    "sign-language": {
+      "codepoint": 57790,
+      "fontFamily": "Cil",
+      "identifier": "signLanguage"
+    },
+    "signal-cellular-0": {
+      "codepoint": 57791,
+      "fontFamily": "Cil",
+      "identifier": "signalCellular0"
+    },
+    "signal-cellular-3": {
+      "codepoint": 57792,
+      "fontFamily": "Cil",
+      "identifier": "signalCellular3"
+    },
+    "signal-cellular-4": {
+      "codepoint": 57793,
+      "fontFamily": "Cil",
+      "identifier": "signalCellular4"
+    },
+    "sim": {
+      "codepoint": 57794,
+      "fontFamily": "Cil",
+      "identifier": "sim"
+    },
+    "sitemap": {
+      "codepoint": 57795,
+      "fontFamily": "Cil",
+      "identifier": "sitemap"
+    },
+    "smile": {
+      "codepoint": 57796,
+      "fontFamily": "Cil",
+      "identifier": "smile"
+    },
+    "smile-plus": {
+      "codepoint": 57797,
+      "fontFamily": "Cil",
+      "identifier": "smilePlus"
+    },
+    "smoke": {
+      "codepoint": 57798,
+      "fontFamily": "Cil",
+      "identifier": "smoke"
+    },
+    "smoke-free": {
+      "codepoint": 57799,
+      "fontFamily": "Cil",
+      "identifier": "smokeFree"
+    },
+    "smoke-slash": {
+      "codepoint": 57800,
+      "fontFamily": "Cil",
+      "identifier": "smokeSlash"
+    },
+    "smoking-room": {
+      "codepoint": 57801,
+      "fontFamily": "Cil",
+      "identifier": "smokingRoom"
+    },
+    "snowflake": {
+      "codepoint": 57802,
+      "fontFamily": "Cil",
+      "identifier": "snowflake"
+    },
+    "soccer": {
+      "codepoint": 57803,
+      "fontFamily": "Cil",
+      "identifier": "soccer"
+    },
+    "sofa": {
+      "codepoint": 57804,
+      "fontFamily": "Cil",
+      "identifier": "sofa"
+    },
+    "sort-alpha-down": {
+      "codepoint": 57805,
+      "fontFamily": "Cil",
+      "identifier": "sortAlphaDown"
+    },
+    "sort-alpha-up": {
+      "codepoint": 57806,
+      "fontFamily": "Cil",
+      "identifier": "sortAlphaUp"
+    },
+    "sort-ascending": {
+      "codepoint": 57807,
+      "fontFamily": "Cil",
+      "identifier": "sortAscending"
+    },
+    "sort-descending": {
+      "codepoint": 57808,
+      "fontFamily": "Cil",
+      "identifier": "sortDescending"
+    },
+    "sort-numeric-down": {
+      "codepoint": 57809,
+      "fontFamily": "Cil",
+      "identifier": "sortNumericDown"
+    },
+    "sort-numeric-up": {
+      "codepoint": 57810,
+      "fontFamily": "Cil",
+      "identifier": "sortNumericUp"
+    },
+    "spa": {
+      "codepoint": 57811,
+      "fontFamily": "Cil",
+      "identifier": "spa"
+    },
+    "space-bar": {
+      "codepoint": 57812,
+      "fontFamily": "Cil",
+      "identifier": "spaceBar"
+    },
+    "speak": {
+      "codepoint": 57813,
+      "fontFamily": "Cil",
+      "identifier": "speak"
+    },
+    "speaker": {
+      "codepoint": 57814,
+      "fontFamily": "Cil",
+      "identifier": "speaker"
+    },
+    "speech": {
+      "codepoint": 57815,
+      "fontFamily": "Cil",
+      "identifier": "speech"
+    },
+    "speedometer": {
+      "codepoint": 57816,
+      "fontFamily": "Cil",
+      "identifier": "speedometer"
+    },
+    "spreadsheet": {
+      "codepoint": 57817,
+      "fontFamily": "Cil",
+      "identifier": "spreadsheet"
+    },
+    "square": {
+      "codepoint": 57818,
+      "fontFamily": "Cil",
+      "identifier": "square"
+    },
+    "star": {
+      "codepoint": 57819,
+      "fontFamily": "Cil",
+      "identifier": "star"
+    },
+    "star-half": {
+      "codepoint": 57820,
+      "fontFamily": "Cil",
+      "identifier": "starHalf"
+    },
+    "storage": {
+      "codepoint": 57821,
+      "fontFamily": "Cil",
+      "identifier": "storage"
+    },
+    "stream": {
+      "codepoint": 57822,
+      "fontFamily": "Cil",
+      "identifier": "stream"
+    },
+    "strikethrough": {
+      "codepoint": 57823,
+      "fontFamily": "Cil",
+      "identifier": "strikethrough"
+    },
+    "sun": {
+      "codepoint": 57824,
+      "fontFamily": "Cil",
+      "identifier": "sun"
+    },
+    "swap-horizontal": {
+      "codepoint": 57825,
+      "fontFamily": "Cil",
+      "identifier": "swapHorizontal"
+    },
+    "swap-vertical": {
+      "codepoint": 57826,
+      "fontFamily": "Cil",
+      "identifier": "swapVertical"
+    },
+    "swimming": {
+      "codepoint": 57827,
+      "fontFamily": "Cil",
+      "identifier": "swimming"
+    },
+    "sync": {
+      "codepoint": 57828,
+      "fontFamily": "Cil",
+      "identifier": "sync_"
+    },
+    "tablet": {
+      "codepoint": 57829,
+      "fontFamily": "Cil",
+      "identifier": "tablet"
+    },
+    "tag": {
+      "codepoint": 57830,
+      "fontFamily": "Cil",
+      "identifier": "tag"
+    },
+    "tags": {
+      "codepoint": 57831,
+      "fontFamily": "Cil",
+      "identifier": "tags"
+    },
+    "task": {
+      "codepoint": 57832,
+      "fontFamily": "Cil",
+      "identifier": "task"
+    },
+    "taxi": {
+      "codepoint": 57833,
+      "fontFamily": "Cil",
+      "identifier": "taxi"
+    },
+    "tennis": {
+      "codepoint": 57834,
+      "fontFamily": "Cil",
+      "identifier": "tennis"
+    },
+    "tennis-ball": {
+      "codepoint": 57835,
+      "fontFamily": "Cil",
+      "identifier": "tennisBall"
+    },
+    "terminal": {
+      "codepoint": 57836,
+      "fontFamily": "Cil",
+      "identifier": "terminal"
+    },
+    "terrain": {
+      "codepoint": 57837,
+      "fontFamily": "Cil",
+      "identifier": "terrain"
+    },
+    "text": {
+      "codepoint": 57838,
+      "fontFamily": "Cil",
+      "identifier": "text"
+    },
+    "text-shapes": {
+      "codepoint": 57839,
+      "fontFamily": "Cil",
+      "identifier": "textShapes"
+    },
+    "text-size": {
+      "codepoint": 57840,
+      "fontFamily": "Cil",
+      "identifier": "textSize"
+    },
+    "text-square": {
+      "codepoint": 57841,
+      "fontFamily": "Cil",
+      "identifier": "textSquare"
+    },
+    "text-strike": {
+      "codepoint": 57842,
+      "fontFamily": "Cil",
+      "identifier": "textStrike"
+    },
+    "thumb-down": {
+      "codepoint": 57843,
+      "fontFamily": "Cil",
+      "identifier": "thumbDown"
+    },
+    "thumb-up": {
+      "codepoint": 57844,
+      "fontFamily": "Cil",
+      "identifier": "thumbUp"
+    },
+    "toggle-off": {
+      "codepoint": 57845,
+      "fontFamily": "Cil",
+      "identifier": "toggleOff"
+    },
+    "toggle-on": {
+      "codepoint": 57846,
+      "fontFamily": "Cil",
+      "identifier": "toggleOn"
+    },
+    "toilet": {
+      "codepoint": 57847,
+      "fontFamily": "Cil",
+      "identifier": "toilet"
+    },
+    "touch-app": {
+      "codepoint": 57848,
+      "fontFamily": "Cil",
+      "identifier": "touchApp"
+    },
+    "transfer": {
+      "codepoint": 57849,
+      "fontFamily": "Cil",
+      "identifier": "transfer"
+    },
+    "translate": {
+      "codepoint": 57850,
+      "fontFamily": "Cil",
+      "identifier": "translate"
+    },
+    "trash": {
+      "codepoint": 57851,
+      "fontFamily": "Cil",
+      "identifier": "trash"
+    },
+    "triangle": {
+      "codepoint": 57852,
+      "fontFamily": "Cil",
+      "identifier": "triangle"
+    },
+    "truck": {
+      "codepoint": 57853,
+      "fontFamily": "Cil",
+      "identifier": "truck"
+    },
+    "tv": {
+      "codepoint": 57854,
+      "fontFamily": "Cil",
+      "identifier": "tv"
+    },
+    "underline": {
+      "codepoint": 57855,
+      "fontFamily": "Cil",
+      "identifier": "underline"
+    },
+    "usb": {
+      "codepoint": 57856,
+      "fontFamily": "Cil",
+      "identifier": "usb"
+    },
+    "user": {
+      "codepoint": 57857,
+      "fontFamily": "Cil",
+      "identifier": "user"
+    },
+    "user-female": {
+      "codepoint": 57858,
+      "fontFamily": "Cil",
+      "identifier": "userFemale"
+    },
+    "user-follow": {
+      "codepoint": 57859,
+      "fontFamily": "Cil",
+      "identifier": "userFollow"
+    },
+    "user-plus": {
+      "codepoint": 57860,
+      "fontFamily": "Cil",
+      "identifier": "userPlus"
+    },
+    "user-unfollow": {
+      "codepoint": 57861,
+      "fontFamily": "Cil",
+      "identifier": "userUnfollow"
+    },
+    "user-x": {
+      "codepoint": 57862,
+      "fontFamily": "Cil",
+      "identifier": "userX"
+    },
+    "vector": {
+      "codepoint": 57863,
+      "fontFamily": "Cil",
+      "identifier": "vector"
+    },
+    "vertical-align-bottom": {
+      "codepoint": 57864,
+      "fontFamily": "Cil",
+      "identifier": "verticalAlignBottom"
+    },
+    "vertical-align-bottom1": {
+      "codepoint": 57865,
+      "fontFamily": "Cil",
+      "identifier": "verticalAlignBottom1"
+    },
+    "vertical-align-center": {
+      "codepoint": 57866,
+      "fontFamily": "Cil",
+      "identifier": "verticalAlignCenter"
+    },
+    "vertical-align-center1": {
+      "codepoint": 57867,
+      "fontFamily": "Cil",
+      "identifier": "verticalAlignCenter1"
+    },
+    "vertical-align-top": {
+      "codepoint": 57868,
+      "fontFamily": "Cil",
+      "identifier": "verticalAlignTop"
+    },
+    "vertical-align-top1": {
+      "codepoint": 57869,
+      "fontFamily": "Cil",
+      "identifier": "verticalAlignTop1"
+    },
+    "video": {
+      "codepoint": 57870,
+      "fontFamily": "Cil",
+      "identifier": "video"
+    },
+    "videogame": {
+      "codepoint": 57871,
+      "fontFamily": "Cil",
+      "identifier": "videogame"
+    },
+    "view-column": {
+      "codepoint": 57872,
+      "fontFamily": "Cil",
+      "identifier": "viewColumn"
+    },
+    "view-module": {
+      "codepoint": 57873,
+      "fontFamily": "Cil",
+      "identifier": "viewModule"
+    },
+    "view-quilt": {
+      "codepoint": 57874,
+      "fontFamily": "Cil",
+      "identifier": "viewQuilt"
+    },
+    "view-stream": {
+      "codepoint": 57875,
+      "fontFamily": "Cil",
+      "identifier": "viewStream"
+    },
+    "voice": {
+      "codepoint": 57876,
+      "fontFamily": "Cil",
+      "identifier": "voice"
+    },
+    "voice-over-record": {
+      "codepoint": 57877,
+      "fontFamily": "Cil",
+      "identifier": "voiceOverRecord"
+    },
+    "volume-high": {
+      "codepoint": 57878,
+      "fontFamily": "Cil",
+      "identifier": "volumeHigh"
+    },
+    "volume-low": {
+      "codepoint": 57879,
+      "fontFamily": "Cil",
+      "identifier": "volumeLow"
+    },
+    "volume-off": {
+      "codepoint": 57880,
+      "fontFamily": "Cil",
+      "identifier": "volumeOff"
+    },
+    "walk": {
+      "codepoint": 57881,
+      "fontFamily": "Cil",
+      "identifier": "walk"
+    },
+    "wallet": {
+      "codepoint": 57882,
+      "fontFamily": "Cil",
+      "identifier": "wallet"
+    },
+    "wallpaper": {
+      "codepoint": 57883,
+      "fontFamily": "Cil",
+      "identifier": "wallpaper"
+    },
+    "warning": {
+      "codepoint": 57884,
+      "fontFamily": "Cil",
+      "identifier": "warning"
+    },
+    "watch": {
+      "codepoint": 57885,
+      "fontFamily": "Cil",
+      "identifier": "watch"
+    },
+    "wc": {
+      "codepoint": 57886,
+      "fontFamily": "Cil",
+      "identifier": "wc"
+    },
+    "weightlifitng": {
+      "codepoint": 57887,
+      "fontFamily": "Cil",
+      "identifier": "weightlifitng"
+    },
+    "wheelchair": {
+      "codepoint": 57888,
+      "fontFamily": "Cil",
+      "identifier": "wheelchair"
+    },
+    "wifi-signal-0": {
+      "codepoint": 57889,
+      "fontFamily": "Cil",
+      "identifier": "wifiSignal0"
+    },
+    "wifi-signal-1": {
+      "codepoint": 57890,
+      "fontFamily": "Cil",
+      "identifier": "wifiSignal1"
+    },
+    "wifi-signal-2": {
+      "codepoint": 57891,
+      "fontFamily": "Cil",
+      "identifier": "wifiSignal2"
+    },
+    "wifi-signal-3": {
+      "codepoint": 57892,
+      "fontFamily": "Cil",
+      "identifier": "wifiSignal3"
+    },
+    "wifi-signal-4": {
+      "codepoint": 57893,
+      "fontFamily": "Cil",
+      "identifier": "wifiSignal4"
+    },
+    "wifi-signal-off": {
+      "codepoint": 57894,
+      "fontFamily": "Cil",
+      "identifier": "wifiSignalOff"
+    },
+    "window": {
+      "codepoint": 57895,
+      "fontFamily": "Cil",
+      "identifier": "window"
+    },
+    "window-maximize": {
+      "codepoint": 57896,
+      "fontFamily": "Cil",
+      "identifier": "windowMaximize"
+    },
+    "window-minimize": {
+      "codepoint": 57897,
+      "fontFamily": "Cil",
+      "identifier": "windowMinimize"
+    },
+    "window-restore": {
+      "codepoint": 57898,
+      "fontFamily": "Cil",
+      "identifier": "windowRestore"
+    },
+    "wrap-text": {
+      "codepoint": 57899,
+      "fontFamily": "Cil",
+      "identifier": "wrapText"
+    },
+    "x": {
+      "codepoint": 57900,
+      "fontFamily": "Cil",
+      "identifier": "x"
+    },
+    "x-circle": {
+      "codepoint": 57901,
+      "fontFamily": "Cil",
+      "identifier": "xCircle"
+    },
+    "yen": {
+      "codepoint": 57902,
+      "fontFamily": "Cil",
+      "identifier": "yen"
+    },
+    "zoom": {
+      "codepoint": 57903,
+      "fontFamily": "Cil",
+      "identifier": "zoom"
+    },
+    "zoom-in": {
+      "codepoint": 57904,
+      "fontFamily": "Cil",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 57905,
+      "fontFamily": "Cil",
+      "identifier": "zoomOut"
+    }
+  }
+}

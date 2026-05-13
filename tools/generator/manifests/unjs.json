@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "prefix": "unjs",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Programming",
+  "subPackage": "iconifyx_unjs",
+  "info": {
+    "name": "UnJS Logos",
+    "author": {
+      "name": "UnJS",
+      "url": "https://github.com/unjs"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0"
+    },
+    "total": 63
+  },
+  "fonts": [
+    {
+      "family": "Unjs",
+      "nextCodepoint": 57407,
+      "iconCount": 63
+    }
+  ],
+  "icons": {
+    "automd": {
+      "codepoint": 57344,
+      "fontFamily": "Unjs",
+      "identifier": "automd"
+    },
+    "bundle-runner": {
+      "codepoint": 57345,
+      "fontFamily": "Unjs",
+      "identifier": "bundleRunner"
+    },
+    "c12": {
+      "codepoint": 57346,
+      "fontFamily": "Unjs",
+      "identifier": "c12"
+    },
+    "changelogen": {
+      "codepoint": 57347,
+      "fontFamily": "Unjs",
+      "identifier": "changelogen"
+    },
+    "citty": {
+      "codepoint": 57348,
+      "fontFamily": "Unjs",
+      "identifier": "citty"
+    },
+    "confbox": {
+      "codepoint": 57349,
+      "fontFamily": "Unjs",
+      "identifier": "confbox"
+    },
+    "consola": {
+      "codepoint": 57350,
+      "fontFamily": "Unjs",
+      "identifier": "consola"
+    },
+    "cookie-es": {
+      "codepoint": 57351,
+      "fontFamily": "Unjs",
+      "identifier": "cookieEs"
+    },
+    "crossws": {
+      "codepoint": 57352,
+      "fontFamily": "Unjs",
+      "identifier": "crossws"
+    },
+    "db0": {
+      "codepoint": 57353,
+      "fontFamily": "Unjs",
+      "identifier": "db0"
+    },
+    "defu": {
+      "codepoint": 57354,
+      "fontFamily": "Unjs",
+      "identifier": "defu"
+    },
+    "destr": {
+      "codepoint": 57355,
+      "fontFamily": "Unjs",
+      "identifier": "destr"
+    },
+    "fontaine": {
+      "codepoint": 57356,
+      "fontFamily": "Unjs",
+      "identifier": "fontaine"
+    },
+    "fs-memo": {
+      "codepoint": 57357,
+      "fontFamily": "Unjs",
+      "identifier": "fsMemo"
+    },
+    "get-port-please": {
+      "codepoint": 57358,
+      "fontFamily": "Unjs",
+      "identifier": "getPortPlease"
+    },
+    "giget": {
+      "codepoint": 57359,
+      "fontFamily": "Unjs",
+      "identifier": "giget"
+    },
+    "h3": {
+      "codepoint": 57360,
+      "fontFamily": "Unjs",
+      "identifier": "h3"
+    },
+    "hookable": {
+      "codepoint": 57361,
+      "fontFamily": "Unjs",
+      "identifier": "hookable"
+    },
+    "httpxy": {
+      "codepoint": 57362,
+      "fontFamily": "Unjs",
+      "identifier": "httpxy"
+    },
+    "image-meta": {
+      "codepoint": 57363,
+      "fontFamily": "Unjs",
+      "identifier": "imageMeta"
+    },
+    "ipx": {
+      "codepoint": 57364,
+      "fontFamily": "Unjs",
+      "identifier": "ipx"
+    },
+    "jimp-compact": {
+      "codepoint": 57365,
+      "fontFamily": "Unjs",
+      "identifier": "jimpCompact"
+    },
+    "jiti": {
+      "codepoint": 57366,
+      "fontFamily": "Unjs",
+      "identifier": "jiti"
+    },
+    "knitwork": {
+      "codepoint": 57367,
+      "fontFamily": "Unjs",
+      "identifier": "knitwork"
+    },
+    "listhen": {
+      "codepoint": 57368,
+      "fontFamily": "Unjs",
+      "identifier": "listhen"
+    },
+    "magic-regexp": {
+      "codepoint": 57369,
+      "fontFamily": "Unjs",
+      "identifier": "magicRegexp"
+    },
+    "magicast": {
+      "codepoint": 57370,
+      "fontFamily": "Unjs",
+      "identifier": "magicast"
+    },
+    "mdbox": {
+      "codepoint": 57371,
+      "fontFamily": "Unjs",
+      "identifier": "mdbox"
+    },
+    "mkdist": {
+      "codepoint": 57372,
+      "fontFamily": "Unjs",
+      "identifier": "mkdist"
+    },
+    "mlly": {
+      "codepoint": 57373,
+      "fontFamily": "Unjs",
+      "identifier": "mlly"
+    },
+    "mongoz": {
+      "codepoint": 57374,
+      "fontFamily": "Unjs",
+      "identifier": "mongoz"
+    },
+    "nanotar": {
+      "codepoint": 57375,
+      "fontFamily": "Unjs",
+      "identifier": "nanotar"
+    },
+    "nitro": {
+      "codepoint": 57376,
+      "fontFamily": "Unjs",
+      "identifier": "nitro"
+    },
+    "node-fetch-native": {
+      "codepoint": 57377,
+      "fontFamily": "Unjs",
+      "identifier": "nodeFetchNative"
+    },
+    "nypm": {
+      "codepoint": 57378,
+      "fontFamily": "Unjs",
+      "identifier": "nypm"
+    },
+    "ofetch": {
+      "codepoint": 57379,
+      "fontFamily": "Unjs",
+      "identifier": "ofetch"
+    },
+    "ohash": {
+      "codepoint": 57380,
+      "fontFamily": "Unjs",
+      "identifier": "ohash"
+    },
+    "pathe": {
+      "codepoint": 57381,
+      "fontFamily": "Unjs",
+      "identifier": "pathe"
+    },
+    "perfect-debounce": {
+      "codepoint": 57382,
+      "fontFamily": "Unjs",
+      "identifier": "perfectDebounce"
+    },
+    "pkg-types": {
+      "codepoint": 57383,
+      "fontFamily": "Unjs",
+      "identifier": "pkgTypes"
+    },
+    "radix3": {
+      "codepoint": 57384,
+      "fontFamily": "Unjs",
+      "identifier": "radix3"
+    },
+    "rc9": {
+      "codepoint": 57385,
+      "fontFamily": "Unjs",
+      "identifier": "rc9"
+    },
+    "scule": {
+      "codepoint": 57386,
+      "fontFamily": "Unjs",
+      "identifier": "scule"
+    },
+    "serve-placeholder": {
+      "codepoint": 57387,
+      "fontFamily": "Unjs",
+      "identifier": "servePlaceholder"
+    },
+    "std-env": {
+      "codepoint": 57388,
+      "fontFamily": "Unjs",
+      "identifier": "stdEnv"
+    },
+    "theme-colors": {
+      "codepoint": 57389,
+      "fontFamily": "Unjs",
+      "identifier": "themeColors"
+    },
+    "ufo": {
+      "codepoint": 57390,
+      "fontFamily": "Unjs",
+      "identifier": "ufo"
+    },
+    "unbuild": {
+      "codepoint": 57391,
+      "fontFamily": "Unjs",
+      "identifier": "unbuild"
+    },
+    "uncrypto": {
+      "codepoint": 57392,
+      "fontFamily": "Unjs",
+      "identifier": "uncrypto"
+    },
+    "unctx": {
+      "codepoint": 57393,
+      "fontFamily": "Unjs",
+      "identifier": "unctx"
+    },
+    "undocs": {
+      "codepoint": 57394,
+      "fontFamily": "Unjs",
+      "identifier": "undocs"
+    },
+    "unenv": {
+      "codepoint": 57395,
+      "fontFamily": "Unjs",
+      "identifier": "unenv"
+    },
+    "ungh": {
+      "codepoint": 57396,
+      "fontFamily": "Unjs",
+      "identifier": "ungh"
+    },
+    "unhead": {
+      "codepoint": 57397,
+      "fontFamily": "Unjs",
+      "identifier": "unhead"
+    },
+    "unimport": {
+      "codepoint": 57398,
+      "fontFamily": "Unjs",
+      "identifier": "unimport"
+    },
+    "unpdf": {
+      "codepoint": 57399,
+      "fontFamily": "Unjs",
+      "identifier": "unpdf"
+    },
+    "unplugin": {
+      "codepoint": 57400,
+      "fontFamily": "Unjs",
+      "identifier": "unplugin"
+    },
+    "unstorage": {
+      "codepoint": 57401,
+      "fontFamily": "Unjs",
+      "identifier": "unstorage"
+    },
+    "untun": {
+      "codepoint": 57402,
+      "fontFamily": "Unjs",
+      "identifier": "untun"
+    },
+    "untyped": {
+      "codepoint": 57403,
+      "fontFamily": "Unjs",
+      "identifier": "untyped"
+    },
+    "unwasm": {
+      "codepoint": 57404,
+      "fontFamily": "Unjs",
+      "identifier": "unwasm"
+    },
+    "uqr": {
+      "codepoint": 57405,
+      "fontFamily": "Unjs",
+      "identifier": "uqr"
+    },
+    "webpackbar": {
+      "codepoint": 57406,
+      "fontFamily": "Unjs",
+      "identifier": "webpackbar"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "iconifyx-monorepo",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": ["tools/*"],
+  "scripts": {
+    "generate": "bun --cwd tools/generator run generate",
+    "generate:set": "bun --cwd tools/generator run generate --set",
+    "generate:new-only": "bun --cwd tools/generator run generate --new-only",
+    "generate:dry-run": "bun --cwd tools/generator run generate --dry-run",
+    "generate:check": "bun --cwd tools/generator run generate --check"
+  }
+}

@@ -1,0 +1,4024 @@
+{
+  "schemaVersion": 1,
+  "prefix": "si-glyph",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": null,
+  "subPackage": "iconifyx_si_glyph",
+  "info": {
+    "name": "SmartIcons Glyph",
+    "author": {
+      "name": "SmartIcons"
+    },
+    "license": {
+      "title": "CC BY SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "total": 799
+  },
+  "fonts": [
+    {
+      "family": "SiGlyph",
+      "nextCodepoint": 58143,
+      "iconCount": 799
+    }
+  ],
+  "icons": {
+    "abacus": {
+      "codepoint": 57344,
+      "fontFamily": "SiGlyph",
+      "identifier": "abacus"
+    },
+    "adjustment-horizon": {
+      "codepoint": 57345,
+      "fontFamily": "SiGlyph",
+      "identifier": "adjustmentHorizon"
+    },
+    "adjustment-vertical": {
+      "codepoint": 57346,
+      "fontFamily": "SiGlyph",
+      "identifier": "adjustmentVertical"
+    },
+    "air-balloon": {
+      "codepoint": 57347,
+      "fontFamily": "SiGlyph",
+      "identifier": "airBalloon"
+    },
+    "airplane": {
+      "codepoint": 57348,
+      "fontFamily": "SiGlyph",
+      "identifier": "airplane"
+    },
+    "airplane-2": {
+      "codepoint": 57349,
+      "fontFamily": "SiGlyph",
+      "identifier": "airplane2"
+    },
+    "alarm-clock": {
+      "codepoint": 57350,
+      "fontFamily": "SiGlyph",
+      "identifier": "alarmClock"
+    },
+    "alien": {
+      "codepoint": 57351,
+      "fontFamily": "SiGlyph",
+      "identifier": "alien"
+    },
+    "aligh-left": {
+      "codepoint": 57352,
+      "fontFamily": "SiGlyph",
+      "identifier": "alighLeft"
+    },
+    "align-center": {
+      "codepoint": 57353,
+      "fontFamily": "SiGlyph",
+      "identifier": "alignCenter"
+    },
+    "align-left": {
+      "codepoint": 57354,
+      "fontFamily": "SiGlyph",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57355,
+      "fontFamily": "SiGlyph",
+      "identifier": "alignRight"
+    },
+    "ambulance": {
+      "codepoint": 57356,
+      "fontFamily": "SiGlyph",
+      "identifier": "ambulance"
+    },
+    "anchor": {
+      "codepoint": 57357,
+      "fontFamily": "SiGlyph",
+      "identifier": "anchor"
+    },
+    "android": {
+      "codepoint": 57358,
+      "fontFamily": "SiGlyph",
+      "identifier": "android"
+    },
+    "angle-1": {
+      "codepoint": 57359,
+      "fontFamily": "SiGlyph",
+      "identifier": "angle1"
+    },
+    "angle-2": {
+      "codepoint": 57360,
+      "fontFamily": "SiGlyph",
+      "identifier": "angle2"
+    },
+    "antenna-1": {
+      "codepoint": 57361,
+      "fontFamily": "SiGlyph",
+      "identifier": "antenna1"
+    },
+    "apron": {
+      "codepoint": 57362,
+      "fontFamily": "SiGlyph",
+      "identifier": "apron"
+    },
+    "arrow-backward": {
+      "codepoint": 57363,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowBackward"
+    },
+    "arrow-change": {
+      "codepoint": 57364,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowChange"
+    },
+    "arrow-circle-rycycle": {
+      "codepoint": 57365,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowCircleRycycle"
+    },
+    "arrow-down": {
+      "codepoint": 57366,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowDown"
+    },
+    "arrow-forward": {
+      "codepoint": 57367,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowForward"
+    },
+    "arrow-four-way": {
+      "codepoint": 57368,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowFourWay"
+    },
+    "arrow-fullscreen": {
+      "codepoint": 57369,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowFullscreen"
+    },
+    "arrow-fullscreen-2": {
+      "codepoint": 57370,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowFullscreen2"
+    },
+    "arrow-left": {
+      "codepoint": 57371,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-right": {
+      "codepoint": 57372,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowLeftRight"
+    },
+    "arrow-move": {
+      "codepoint": 57373,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowMove"
+    },
+    "arrow-reload": {
+      "codepoint": 57374,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowReload"
+    },
+    "arrow-resize-1": {
+      "codepoint": 57375,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowResize1"
+    },
+    "arrow-resize-2": {
+      "codepoint": 57376,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowResize2"
+    },
+    "arrow-resize-3": {
+      "codepoint": 57377,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowResize3"
+    },
+    "arrow-resize-4": {
+      "codepoint": 57378,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowResize4"
+    },
+    "arrow-resize-5": {
+      "codepoint": 57379,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowResize5"
+    },
+    "arrow-resize-6": {
+      "codepoint": 57380,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowResize6"
+    },
+    "arrow-right": {
+      "codepoint": 57381,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowRight"
+    },
+    "arrow-shuffle": {
+      "codepoint": 57382,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowShuffle"
+    },
+    "arrow-thick-down": {
+      "codepoint": 57383,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThickDown"
+    },
+    "arrow-thick-left": {
+      "codepoint": 57384,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThickLeft"
+    },
+    "arrow-thick-right": {
+      "codepoint": 57385,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThickRight"
+    },
+    "arrow-thick-thin-down": {
+      "codepoint": 57386,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThickThinDown"
+    },
+    "arrow-thick-thin-up": {
+      "codepoint": 57387,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThickThinUp"
+    },
+    "arrow-thick-up": {
+      "codepoint": 57388,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThickUp"
+    },
+    "arrow-thin-down": {
+      "codepoint": 57389,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThinDown"
+    },
+    "arrow-thin-left": {
+      "codepoint": 57390,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThinLeft"
+    },
+    "arrow-thin-left-bottom": {
+      "codepoint": 57391,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThinLeftBottom"
+    },
+    "arrow-thin-left-top": {
+      "codepoint": 57392,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThinLeftTop"
+    },
+    "arrow-thin-right": {
+      "codepoint": 57393,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThinRight"
+    },
+    "arrow-thin-right-bottom": {
+      "codepoint": 57394,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThinRightBottom"
+    },
+    "arrow-thin-right-top": {
+      "codepoint": 57395,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThinRightTop"
+    },
+    "arrow-thin-up": {
+      "codepoint": 57396,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThinUp"
+    },
+    "arrow-three-way-1": {
+      "codepoint": 57397,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThreeWay1"
+    },
+    "arrow-three-way-2": {
+      "codepoint": 57398,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowThreeWay2"
+    },
+    "arrow-triangle-recycle": {
+      "codepoint": 57399,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowTriangleRecycle"
+    },
+    "arrow-two-left-right": {
+      "codepoint": 57400,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowTwoLeftRight"
+    },
+    "arrow-two-up": {
+      "codepoint": 57401,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowTwoUp"
+    },
+    "arrow-two-way": {
+      "codepoint": 57402,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowTwoWay"
+    },
+    "arrow-two-way-left-right": {
+      "codepoint": 57403,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowTwoWayLeftRight"
+    },
+    "arrow-two-way-right": {
+      "codepoint": 57404,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowTwoWayRight"
+    },
+    "arrow-two-way-right-bottom": {
+      "codepoint": 57405,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowTwoWayRightBottom"
+    },
+    "arrow-up": {
+      "codepoint": 57406,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-down": {
+      "codepoint": 57407,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowUpDown"
+    },
+    "arrow-wave": {
+      "codepoint": 57408,
+      "fontFamily": "SiGlyph",
+      "identifier": "arrowWave"
+    },
+    "art-board": {
+      "codepoint": 57409,
+      "fontFamily": "SiGlyph",
+      "identifier": "artBoard"
+    },
+    "askterisk": {
+      "codepoint": 57410,
+      "fontFamily": "SiGlyph",
+      "identifier": "askterisk"
+    },
+    "atm-card": {
+      "codepoint": 57411,
+      "fontFamily": "SiGlyph",
+      "identifier": "atmCard"
+    },
+    "axe": {
+      "codepoint": 57412,
+      "fontFamily": "SiGlyph",
+      "identifier": "axe"
+    },
+    "baby": {
+      "codepoint": 57413,
+      "fontFamily": "SiGlyph",
+      "identifier": "baby"
+    },
+    "baby-milk-botl": {
+      "codepoint": 57414,
+      "fontFamily": "SiGlyph",
+      "identifier": "babyMilkBotl"
+    },
+    "baby-stroller": {
+      "codepoint": 57415,
+      "fontFamily": "SiGlyph",
+      "identifier": "babyStroller"
+    },
+    "baby-troller": {
+      "codepoint": 57416,
+      "fontFamily": "SiGlyph",
+      "identifier": "babyTroller"
+    },
+    "back-pack": {
+      "codepoint": 57417,
+      "fontFamily": "SiGlyph",
+      "identifier": "backPack"
+    },
+    "backward-page": {
+      "codepoint": 57418,
+      "fontFamily": "SiGlyph",
+      "identifier": "backwardPage"
+    },
+    "badge-name": {
+      "codepoint": 57419,
+      "fontFamily": "SiGlyph",
+      "identifier": "badgeName"
+    },
+    "bag": {
+      "codepoint": 57420,
+      "fontFamily": "SiGlyph",
+      "identifier": "bag"
+    },
+    "bag-plus": {
+      "codepoint": 57421,
+      "fontFamily": "SiGlyph",
+      "identifier": "bagPlus"
+    },
+    "bag-remove": {
+      "codepoint": 57422,
+      "fontFamily": "SiGlyph",
+      "identifier": "bagRemove"
+    },
+    "balance": {
+      "codepoint": 57423,
+      "fontFamily": "SiGlyph",
+      "identifier": "balance"
+    },
+    "balloon": {
+      "codepoint": 57424,
+      "fontFamily": "SiGlyph",
+      "identifier": "balloon"
+    },
+    "bandage": {
+      "codepoint": 57425,
+      "fontFamily": "SiGlyph",
+      "identifier": "bandage"
+    },
+    "bank": {
+      "codepoint": 57426,
+      "fontFamily": "SiGlyph",
+      "identifier": "bank"
+    },
+    "barcode": {
+      "codepoint": 57427,
+      "fontFamily": "SiGlyph",
+      "identifier": "barcode"
+    },
+    "barrier": {
+      "codepoint": 57428,
+      "fontFamily": "SiGlyph",
+      "identifier": "barrier"
+    },
+    "baseball": {
+      "codepoint": 57429,
+      "fontFamily": "SiGlyph",
+      "identifier": "baseball"
+    },
+    "baseball-stick": {
+      "codepoint": 57430,
+      "fontFamily": "SiGlyph",
+      "identifier": "baseballStick"
+    },
+    "basket": {
+      "codepoint": 57431,
+      "fontFamily": "SiGlyph",
+      "identifier": "basket"
+    },
+    "basket-arrow-down": {
+      "codepoint": 57432,
+      "fontFamily": "SiGlyph",
+      "identifier": "basketArrowDown"
+    },
+    "basket-arrow-left": {
+      "codepoint": 57433,
+      "fontFamily": "SiGlyph",
+      "identifier": "basketArrowLeft"
+    },
+    "basket-arrow-right": {
+      "codepoint": 57434,
+      "fontFamily": "SiGlyph",
+      "identifier": "basketArrowRight"
+    },
+    "basket-arrow-up": {
+      "codepoint": 57435,
+      "fontFamily": "SiGlyph",
+      "identifier": "basketArrowUp"
+    },
+    "basket-checked": {
+      "codepoint": 57436,
+      "fontFamily": "SiGlyph",
+      "identifier": "basketChecked"
+    },
+    "basket-error": {
+      "codepoint": 57437,
+      "fontFamily": "SiGlyph",
+      "identifier": "basketError"
+    },
+    "basket-plus": {
+      "codepoint": 57438,
+      "fontFamily": "SiGlyph",
+      "identifier": "basketPlus"
+    },
+    "basket-remove": {
+      "codepoint": 57439,
+      "fontFamily": "SiGlyph",
+      "identifier": "basketRemove"
+    },
+    "basketball": {
+      "codepoint": 57440,
+      "fontFamily": "SiGlyph",
+      "identifier": "basketball"
+    },
+    "battery-charging": {
+      "codepoint": 57441,
+      "fontFamily": "SiGlyph",
+      "identifier": "batteryCharging"
+    },
+    "battery-empty": {
+      "codepoint": 57442,
+      "fontFamily": "SiGlyph",
+      "identifier": "batteryEmpty"
+    },
+    "battery-full": {
+      "codepoint": 57443,
+      "fontFamily": "SiGlyph",
+      "identifier": "batteryFull"
+    },
+    "battery-half": {
+      "codepoint": 57444,
+      "fontFamily": "SiGlyph",
+      "identifier": "batteryHalf"
+    },
+    "battery-half-2": {
+      "codepoint": 57445,
+      "fontFamily": "SiGlyph",
+      "identifier": "batteryHalf2"
+    },
+    "battery-low": {
+      "codepoint": 57446,
+      "fontFamily": "SiGlyph",
+      "identifier": "batteryLow"
+    },
+    "bed": {
+      "codepoint": 57447,
+      "fontFamily": "SiGlyph",
+      "identifier": "bed"
+    },
+    "bell": {
+      "codepoint": 57448,
+      "fontFamily": "SiGlyph",
+      "identifier": "bell"
+    },
+    "bicycle-1": {
+      "codepoint": 57449,
+      "fontFamily": "SiGlyph",
+      "identifier": "bicycle1"
+    },
+    "bicycle-3": {
+      "codepoint": 57450,
+      "fontFamily": "SiGlyph",
+      "identifier": "bicycle3"
+    },
+    "bicycle-man": {
+      "codepoint": 57451,
+      "fontFamily": "SiGlyph",
+      "identifier": "bicycleMan"
+    },
+    "bikini": {
+      "codepoint": 57452,
+      "fontFamily": "SiGlyph",
+      "identifier": "bikini"
+    },
+    "billiard-ball": {
+      "codepoint": 57453,
+      "fontFamily": "SiGlyph",
+      "identifier": "billiardBall"
+    },
+    "binocular": {
+      "codepoint": 57454,
+      "fontFamily": "SiGlyph",
+      "identifier": "binocular"
+    },
+    "birthday-cake": {
+      "codepoint": 57455,
+      "fontFamily": "SiGlyph",
+      "identifier": "birthdayCake"
+    },
+    "biscuit": {
+      "codepoint": 57456,
+      "fontFamily": "SiGlyph",
+      "identifier": "biscuit"
+    },
+    "blender": {
+      "codepoint": 57457,
+      "fontFamily": "SiGlyph",
+      "identifier": "blender"
+    },
+    "blood-bag": {
+      "codepoint": 57458,
+      "fontFamily": "SiGlyph",
+      "identifier": "bloodBag"
+    },
+    "bluetooth": {
+      "codepoint": 57459,
+      "fontFamily": "SiGlyph",
+      "identifier": "bluetooth"
+    },
+    "board": {
+      "codepoint": 57460,
+      "fontFamily": "SiGlyph",
+      "identifier": "board"
+    },
+    "boat": {
+      "codepoint": 57461,
+      "fontFamily": "SiGlyph",
+      "identifier": "boat"
+    },
+    "bolt": {
+      "codepoint": 57462,
+      "fontFamily": "SiGlyph",
+      "identifier": "bolt"
+    },
+    "bomb-1": {
+      "codepoint": 57463,
+      "fontFamily": "SiGlyph",
+      "identifier": "bomb1"
+    },
+    "bomb-2": {
+      "codepoint": 57464,
+      "fontFamily": "SiGlyph",
+      "identifier": "bomb2"
+    },
+    "bone": {
+      "codepoint": 57465,
+      "fontFamily": "SiGlyph",
+      "identifier": "bone"
+    },
+    "book": {
+      "codepoint": 57466,
+      "fontFamily": "SiGlyph",
+      "identifier": "book"
+    },
+    "book-1": {
+      "codepoint": 57467,
+      "fontFamily": "SiGlyph",
+      "identifier": "book1"
+    },
+    "book-3": {
+      "codepoint": 57468,
+      "fontFamily": "SiGlyph",
+      "identifier": "book3"
+    },
+    "book-4": {
+      "codepoint": 57469,
+      "fontFamily": "SiGlyph",
+      "identifier": "book4"
+    },
+    "book-open": {
+      "codepoint": 57470,
+      "fontFamily": "SiGlyph",
+      "identifier": "bookOpen"
+    },
+    "book-person": {
+      "codepoint": 57471,
+      "fontFamily": "SiGlyph",
+      "identifier": "bookPerson"
+    },
+    "bookcase": {
+      "codepoint": 57472,
+      "fontFamily": "SiGlyph",
+      "identifier": "bookcase"
+    },
+    "bookmark": {
+      "codepoint": 57473,
+      "fontFamily": "SiGlyph",
+      "identifier": "bookmark"
+    },
+    "botl-2": {
+      "codepoint": 57474,
+      "fontFamily": "SiGlyph",
+      "identifier": "botl2"
+    },
+    "botl-milk": {
+      "codepoint": 57475,
+      "fontFamily": "SiGlyph",
+      "identifier": "botlMilk"
+    },
+    "bow-tie": {
+      "codepoint": 57476,
+      "fontFamily": "SiGlyph",
+      "identifier": "bowTie"
+    },
+    "box": {
+      "codepoint": 57477,
+      "fontFamily": "SiGlyph",
+      "identifier": "box"
+    },
+    "box-download": {
+      "codepoint": 57478,
+      "fontFamily": "SiGlyph",
+      "identifier": "boxDownload"
+    },
+    "box-upload": {
+      "codepoint": 57479,
+      "fontFamily": "SiGlyph",
+      "identifier": "boxUpload"
+    },
+    "bread": {
+      "codepoint": 57480,
+      "fontFamily": "SiGlyph",
+      "identifier": "bread"
+    },
+    "briefcase": {
+      "codepoint": 57481,
+      "fontFamily": "SiGlyph",
+      "identifier": "briefcase"
+    },
+    "briefcase-person": {
+      "codepoint": 57482,
+      "fontFamily": "SiGlyph",
+      "identifier": "briefcasePerson"
+    },
+    "brightness": {
+      "codepoint": 57483,
+      "fontFamily": "SiGlyph",
+      "identifier": "brightness"
+    },
+    "brush-1": {
+      "codepoint": 57484,
+      "fontFamily": "SiGlyph",
+      "identifier": "brush1"
+    },
+    "brush-2": {
+      "codepoint": 57485,
+      "fontFamily": "SiGlyph",
+      "identifier": "brush2"
+    },
+    "brush-and-pencil": {
+      "codepoint": 57486,
+      "fontFamily": "SiGlyph",
+      "identifier": "brushAndPencil"
+    },
+    "bubble-chat": {
+      "codepoint": 57487,
+      "fontFamily": "SiGlyph",
+      "identifier": "bubbleChat"
+    },
+    "bubble-message": {
+      "codepoint": 57488,
+      "fontFamily": "SiGlyph",
+      "identifier": "bubbleMessage"
+    },
+    "bubble-message-dot": {
+      "codepoint": 57489,
+      "fontFamily": "SiGlyph",
+      "identifier": "bubbleMessageDot"
+    },
+    "bubble-message-dot-2": {
+      "codepoint": 57490,
+      "fontFamily": "SiGlyph",
+      "identifier": "bubbleMessageDot2"
+    },
+    "bubble-message-hi": {
+      "codepoint": 57491,
+      "fontFamily": "SiGlyph",
+      "identifier": "bubbleMessageHi"
+    },
+    "bubble-message-quote": {
+      "codepoint": 57492,
+      "fontFamily": "SiGlyph",
+      "identifier": "bubbleMessageQuote"
+    },
+    "bubble-message-talk": {
+      "codepoint": 57493,
+      "fontFamily": "SiGlyph",
+      "identifier": "bubbleMessageTalk"
+    },
+    "bubble-message-text": {
+      "codepoint": 57494,
+      "fontFamily": "SiGlyph",
+      "identifier": "bubbleMessageText"
+    },
+    "bucket": {
+      "codepoint": 57495,
+      "fontFamily": "SiGlyph",
+      "identifier": "bucket"
+    },
+    "bug": {
+      "codepoint": 57496,
+      "fontFamily": "SiGlyph",
+      "identifier": "bug"
+    },
+    "building": {
+      "codepoint": 57497,
+      "fontFamily": "SiGlyph",
+      "identifier": "building"
+    },
+    "bullet-checked-list": {
+      "codepoint": 57498,
+      "fontFamily": "SiGlyph",
+      "identifier": "bulletCheckedList"
+    },
+    "bullet-list": {
+      "codepoint": 57499,
+      "fontFamily": "SiGlyph",
+      "identifier": "bulletList"
+    },
+    "bullet-list-2": {
+      "codepoint": 57500,
+      "fontFamily": "SiGlyph",
+      "identifier": "bulletList2"
+    },
+    "bus": {
+      "codepoint": 57501,
+      "fontFamily": "SiGlyph",
+      "identifier": "bus"
+    },
+    "button-arrow-down": {
+      "codepoint": 57502,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonArrowDown"
+    },
+    "button-arrow-left": {
+      "codepoint": 57503,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonArrowLeft"
+    },
+    "button-arrow-right": {
+      "codepoint": 57504,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonArrowRight"
+    },
+    "button-arrow-up": {
+      "codepoint": 57505,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonArrowUp"
+    },
+    "button-buy": {
+      "codepoint": 57506,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonBuy"
+    },
+    "button-error": {
+      "codepoint": 57507,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonError"
+    },
+    "button-hd": {
+      "codepoint": 57508,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonHd"
+    },
+    "button-play": {
+      "codepoint": 57509,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonPlay"
+    },
+    "button-plus": {
+      "codepoint": 57510,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonPlus"
+    },
+    "button-remove": {
+      "codepoint": 57511,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonRemove"
+    },
+    "button-sale": {
+      "codepoint": 57512,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonSale"
+    },
+    "button-sell": {
+      "codepoint": 57513,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonSell"
+    },
+    "button-starburst": {
+      "codepoint": 57514,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonStarburst"
+    },
+    "button-triangle-up": {
+      "codepoint": 57515,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonTriangleUp"
+    },
+    "button-tv": {
+      "codepoint": 57516,
+      "fontFamily": "SiGlyph",
+      "identifier": "buttonTv"
+    },
+    "cabin-cable": {
+      "codepoint": 57517,
+      "fontFamily": "SiGlyph",
+      "identifier": "cabinCable"
+    },
+    "cabinet": {
+      "codepoint": 57518,
+      "fontFamily": "SiGlyph",
+      "identifier": "cabinet"
+    },
+    "calculator": {
+      "codepoint": 57519,
+      "fontFamily": "SiGlyph",
+      "identifier": "calculator"
+    },
+    "calculator-2": {
+      "codepoint": 57520,
+      "fontFamily": "SiGlyph",
+      "identifier": "calculator2"
+    },
+    "calendar-1": {
+      "codepoint": 57521,
+      "fontFamily": "SiGlyph",
+      "identifier": "calendar1"
+    },
+    "calendar-3": {
+      "codepoint": 57522,
+      "fontFamily": "SiGlyph",
+      "identifier": "calendar3"
+    },
+    "calendar-empty": {
+      "codepoint": 57523,
+      "fontFamily": "SiGlyph",
+      "identifier": "calendarEmpty"
+    },
+    "call": {
+      "codepoint": 57524,
+      "fontFamily": "SiGlyph",
+      "identifier": "call"
+    },
+    "call-forward": {
+      "codepoint": 57525,
+      "fontFamily": "SiGlyph",
+      "identifier": "callForward"
+    },
+    "call-reply": {
+      "codepoint": 57526,
+      "fontFamily": "SiGlyph",
+      "identifier": "callReply"
+    },
+    "camera": {
+      "codepoint": 57527,
+      "fontFamily": "SiGlyph",
+      "identifier": "camera"
+    },
+    "camera-projector": {
+      "codepoint": 57528,
+      "fontFamily": "SiGlyph",
+      "identifier": "cameraProjector"
+    },
+    "camera-security": {
+      "codepoint": 57529,
+      "fontFamily": "SiGlyph",
+      "identifier": "cameraSecurity"
+    },
+    "can-water": {
+      "codepoint": 57530,
+      "fontFamily": "SiGlyph",
+      "identifier": "canWater"
+    },
+    "candle": {
+      "codepoint": 57531,
+      "fontFamily": "SiGlyph",
+      "identifier": "candle"
+    },
+    "candy": {
+      "codepoint": 57532,
+      "fontFamily": "SiGlyph",
+      "identifier": "candy"
+    },
+    "candy-stick": {
+      "codepoint": 57533,
+      "fontFamily": "SiGlyph",
+      "identifier": "candyStick"
+    },
+    "car": {
+      "codepoint": 57534,
+      "fontFamily": "SiGlyph",
+      "identifier": "car"
+    },
+    "car-garage": {
+      "codepoint": 57535,
+      "fontFamily": "SiGlyph",
+      "identifier": "carGarage"
+    },
+    "casette": {
+      "codepoint": 57536,
+      "fontFamily": "SiGlyph",
+      "identifier": "casette"
+    },
+    "cashier-machine": {
+      "codepoint": 57537,
+      "fontFamily": "SiGlyph",
+      "identifier": "cashierMachine"
+    },
+    "castle": {
+      "codepoint": 57538,
+      "fontFamily": "SiGlyph",
+      "identifier": "castle"
+    },
+    "caterpillar-machine": {
+      "codepoint": 57539,
+      "fontFamily": "SiGlyph",
+      "identifier": "caterpillarMachine"
+    },
+    "cente-justify": {
+      "codepoint": 57540,
+      "fontFamily": "SiGlyph",
+      "identifier": "centeJustify"
+    },
+    "chair-1": {
+      "codepoint": 57541,
+      "fontFamily": "SiGlyph",
+      "identifier": "chair1"
+    },
+    "chair-2": {
+      "codepoint": 57542,
+      "fontFamily": "SiGlyph",
+      "identifier": "chair2"
+    },
+    "champion-cup": {
+      "codepoint": 57543,
+      "fontFamily": "SiGlyph",
+      "identifier": "championCup"
+    },
+    "chart-column": {
+      "codepoint": 57544,
+      "fontFamily": "SiGlyph",
+      "identifier": "chartColumn"
+    },
+    "chart-column-decrease": {
+      "codepoint": 57545,
+      "fontFamily": "SiGlyph",
+      "identifier": "chartColumnDecrease"
+    },
+    "chart-column-increase": {
+      "codepoint": 57546,
+      "fontFamily": "SiGlyph",
+      "identifier": "chartColumnIncrease"
+    },
+    "chart-decrease": {
+      "codepoint": 57547,
+      "fontFamily": "SiGlyph",
+      "identifier": "chartDecrease"
+    },
+    "chart-piece": {
+      "codepoint": 57548,
+      "fontFamily": "SiGlyph",
+      "identifier": "chartPiece"
+    },
+    "checked": {
+      "codepoint": 57549,
+      "fontFamily": "SiGlyph",
+      "identifier": "checked"
+    },
+    "cheese": {
+      "codepoint": 57550,
+      "fontFamily": "SiGlyph",
+      "identifier": "cheese"
+    },
+    "cherry": {
+      "codepoint": 57551,
+      "fontFamily": "SiGlyph",
+      "identifier": "cherry"
+    },
+    "christmas-mistletoe": {
+      "codepoint": 57552,
+      "fontFamily": "SiGlyph",
+      "identifier": "christmasMistletoe"
+    },
+    "christmass-ball": {
+      "codepoint": 57553,
+      "fontFamily": "SiGlyph",
+      "identifier": "christmassBall"
+    },
+    "christmass-egg": {
+      "codepoint": 57554,
+      "fontFamily": "SiGlyph",
+      "identifier": "christmassEgg"
+    },
+    "christmass-hat": {
+      "codepoint": 57555,
+      "fontFamily": "SiGlyph",
+      "identifier": "christmassHat"
+    },
+    "christmass-tree": {
+      "codepoint": 57556,
+      "fontFamily": "SiGlyph",
+      "identifier": "christmassTree"
+    },
+    "circle": {
+      "codepoint": 57557,
+      "fontFamily": "SiGlyph",
+      "identifier": "circle"
+    },
+    "circle-backward": {
+      "codepoint": 57558,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleBackward"
+    },
+    "circle-control-pad": {
+      "codepoint": 57559,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleControlPad"
+    },
+    "circle-drashed": {
+      "codepoint": 57560,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleDrashed"
+    },
+    "circle-error": {
+      "codepoint": 57561,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleError"
+    },
+    "circle-forward": {
+      "codepoint": 57562,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleForward"
+    },
+    "circle-help": {
+      "codepoint": 57563,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleHelp"
+    },
+    "circle-info": {
+      "codepoint": 57564,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleInfo"
+    },
+    "circle-load-left": {
+      "codepoint": 57565,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleLoadLeft"
+    },
+    "circle-load-right": {
+      "codepoint": 57566,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleLoadRight"
+    },
+    "circle-plus": {
+      "codepoint": 57567,
+      "fontFamily": "SiGlyph",
+      "identifier": "circlePlus"
+    },
+    "circle-remove": {
+      "codepoint": 57568,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleRemove"
+    },
+    "circle-star": {
+      "codepoint": 57569,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleStar"
+    },
+    "circle-triangle-down": {
+      "codepoint": 57570,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleTriangleDown"
+    },
+    "circle-triangle-left": {
+      "codepoint": 57571,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleTriangleLeft"
+    },
+    "circle-triangle-right": {
+      "codepoint": 57572,
+      "fontFamily": "SiGlyph",
+      "identifier": "circleTriangleRight"
+    },
+    "city": {
+      "codepoint": 57573,
+      "fontFamily": "SiGlyph",
+      "identifier": "city"
+    },
+    "clamp": {
+      "codepoint": 57574,
+      "fontFamily": "SiGlyph",
+      "identifier": "clamp"
+    },
+    "clapboard": {
+      "codepoint": 57575,
+      "fontFamily": "SiGlyph",
+      "identifier": "clapboard"
+    },
+    "clapboard-play": {
+      "codepoint": 57576,
+      "fontFamily": "SiGlyph",
+      "identifier": "clapboardPlay"
+    },
+    "clip": {
+      "codepoint": 57577,
+      "fontFamily": "SiGlyph",
+      "identifier": "clip"
+    },
+    "clipboard": {
+      "codepoint": 57578,
+      "fontFamily": "SiGlyph",
+      "identifier": "clipboard"
+    },
+    "clipboard-checked": {
+      "codepoint": 57579,
+      "fontFamily": "SiGlyph",
+      "identifier": "clipboardChecked"
+    },
+    "clock": {
+      "codepoint": 57580,
+      "fontFamily": "SiGlyph",
+      "identifier": "clock"
+    },
+    "close": {
+      "codepoint": 57581,
+      "fontFamily": "SiGlyph",
+      "identifier": "close"
+    },
+    "cloud": {
+      "codepoint": 57582,
+      "fontFamily": "SiGlyph",
+      "identifier": "cloud"
+    },
+    "cloud-cloud": {
+      "codepoint": 57583,
+      "fontFamily": "SiGlyph",
+      "identifier": "cloudCloud"
+    },
+    "cloud-download": {
+      "codepoint": 57584,
+      "fontFamily": "SiGlyph",
+      "identifier": "cloudDownload"
+    },
+    "cloud-heavy-rain": {
+      "codepoint": 57585,
+      "fontFamily": "SiGlyph",
+      "identifier": "cloudHeavyRain"
+    },
+    "cloud-plus": {
+      "codepoint": 57586,
+      "fontFamily": "SiGlyph",
+      "identifier": "cloudPlus"
+    },
+    "cloud-rain-heavy-rain": {
+      "codepoint": 57587,
+      "fontFamily": "SiGlyph",
+      "identifier": "cloudRainHeavyRain"
+    },
+    "cloud-remove": {
+      "codepoint": 57588,
+      "fontFamily": "SiGlyph",
+      "identifier": "cloudRemove"
+    },
+    "cloud-snow": {
+      "codepoint": 57589,
+      "fontFamily": "SiGlyph",
+      "identifier": "cloudSnow"
+    },
+    "cloud-sun": {
+      "codepoint": 57590,
+      "fontFamily": "SiGlyph",
+      "identifier": "cloudSun"
+    },
+    "cloud-thunder": {
+      "codepoint": 57591,
+      "fontFamily": "SiGlyph",
+      "identifier": "cloudThunder"
+    },
+    "cloud-upload": {
+      "codepoint": 57592,
+      "fontFamily": "SiGlyph",
+      "identifier": "cloudUpload"
+    },
+    "clover": {
+      "codepoint": 57593,
+      "fontFamily": "SiGlyph",
+      "identifier": "clover"
+    },
+    "cock-pot": {
+      "codepoint": 57594,
+      "fontFamily": "SiGlyph",
+      "identifier": "cockPot"
+    },
+    "cocktail": {
+      "codepoint": 57595,
+      "fontFamily": "SiGlyph",
+      "identifier": "cocktail"
+    },
+    "coconut": {
+      "codepoint": 57596,
+      "fontFamily": "SiGlyph",
+      "identifier": "coconut"
+    },
+    "code": {
+      "codepoint": 57597,
+      "fontFamily": "SiGlyph",
+      "identifier": "code"
+    },
+    "coffee-machine": {
+      "codepoint": 57598,
+      "fontFamily": "SiGlyph",
+      "identifier": "coffeeMachine"
+    },
+    "color-picker": {
+      "codepoint": 57599,
+      "fontFamily": "SiGlyph",
+      "identifier": "colorPicker"
+    },
+    "column-decrease": {
+      "codepoint": 57600,
+      "fontFamily": "SiGlyph",
+      "identifier": "columnDecrease"
+    },
+    "column-increase": {
+      "codepoint": 57601,
+      "fontFamily": "SiGlyph",
+      "identifier": "columnIncrease"
+    },
+    "column-wave": {
+      "codepoint": 57602,
+      "fontFamily": "SiGlyph",
+      "identifier": "columnWave"
+    },
+    "comb": {
+      "codepoint": 57603,
+      "fontFamily": "SiGlyph",
+      "identifier": "comb"
+    },
+    "compass": {
+      "codepoint": 57604,
+      "fontFamily": "SiGlyph",
+      "identifier": "compass"
+    },
+    "cone": {
+      "codepoint": 57605,
+      "fontFamily": "SiGlyph",
+      "identifier": "cone"
+    },
+    "congratulation-hat": {
+      "codepoint": 57606,
+      "fontFamily": "SiGlyph",
+      "identifier": "congratulationHat"
+    },
+    "connect-1": {
+      "codepoint": 57607,
+      "fontFamily": "SiGlyph",
+      "identifier": "connect1"
+    },
+    "connect-2": {
+      "codepoint": 57608,
+      "fontFamily": "SiGlyph",
+      "identifier": "connect2"
+    },
+    "contact-book": {
+      "codepoint": 57609,
+      "fontFamily": "SiGlyph",
+      "identifier": "contactBook"
+    },
+    "contacter": {
+      "codepoint": 57610,
+      "fontFamily": "SiGlyph",
+      "identifier": "contacter"
+    },
+    "contrast": {
+      "codepoint": 57611,
+      "fontFamily": "SiGlyph",
+      "identifier": "contrast"
+    },
+    "control-pad": {
+      "codepoint": 57612,
+      "fontFamily": "SiGlyph",
+      "identifier": "controlPad"
+    },
+    "corkscrew": {
+      "codepoint": 57613,
+      "fontFamily": "SiGlyph",
+      "identifier": "corkscrew"
+    },
+    "corner-flag": {
+      "codepoint": 57614,
+      "fontFamily": "SiGlyph",
+      "identifier": "cornerFlag"
+    },
+    "cover-flow": {
+      "codepoint": 57615,
+      "fontFamily": "SiGlyph",
+      "identifier": "coverFlow"
+    },
+    "cover-food": {
+      "codepoint": 57616,
+      "fontFamily": "SiGlyph",
+      "identifier": "coverFood"
+    },
+    "cow": {
+      "codepoint": 57617,
+      "fontFamily": "SiGlyph",
+      "identifier": "cow"
+    },
+    "cpu": {
+      "codepoint": 57618,
+      "fontFamily": "SiGlyph",
+      "identifier": "cpu"
+    },
+    "cran": {
+      "codepoint": 57619,
+      "fontFamily": "SiGlyph",
+      "identifier": "cran"
+    },
+    "crop": {
+      "codepoint": 57620,
+      "fontFamily": "SiGlyph",
+      "identifier": "crop"
+    },
+    "cross-hair": {
+      "codepoint": 57621,
+      "fontFamily": "SiGlyph",
+      "identifier": "crossHair"
+    },
+    "cross-hair-2": {
+      "codepoint": 57622,
+      "fontFamily": "SiGlyph",
+      "identifier": "crossHair2"
+    },
+    "crown": {
+      "codepoint": 57623,
+      "fontFamily": "SiGlyph",
+      "identifier": "crown"
+    },
+    "cruise": {
+      "codepoint": 57624,
+      "fontFamily": "SiGlyph",
+      "identifier": "cruise"
+    },
+    "cubic": {
+      "codepoint": 57625,
+      "fontFamily": "SiGlyph",
+      "identifier": "cubic"
+    },
+    "cup-cake": {
+      "codepoint": 57626,
+      "fontFamily": "SiGlyph",
+      "identifier": "cupCake"
+    },
+    "curtain": {
+      "codepoint": 57627,
+      "fontFamily": "SiGlyph",
+      "identifier": "curtain"
+    },
+    "customer-support": {
+      "codepoint": 57628,
+      "fontFamily": "SiGlyph",
+      "identifier": "customerSupport"
+    },
+    "dashboard": {
+      "codepoint": 57629,
+      "fontFamily": "SiGlyph",
+      "identifier": "dashboard"
+    },
+    "data-arrow-down": {
+      "codepoint": 57630,
+      "fontFamily": "SiGlyph",
+      "identifier": "dataArrowDown"
+    },
+    "database": {
+      "codepoint": 57631,
+      "fontFamily": "SiGlyph",
+      "identifier": "database"
+    },
+    "database-download": {
+      "codepoint": 57632,
+      "fontFamily": "SiGlyph",
+      "identifier": "databaseDownload"
+    },
+    "database-error": {
+      "codepoint": 57633,
+      "fontFamily": "SiGlyph",
+      "identifier": "databaseError"
+    },
+    "database-plus": {
+      "codepoint": 57634,
+      "fontFamily": "SiGlyph",
+      "identifier": "databasePlus"
+    },
+    "database-remove": {
+      "codepoint": 57635,
+      "fontFamily": "SiGlyph",
+      "identifier": "databaseRemove"
+    },
+    "database-share": {
+      "codepoint": 57636,
+      "fontFamily": "SiGlyph",
+      "identifier": "databaseShare"
+    },
+    "database-upload": {
+      "codepoint": 57637,
+      "fontFamily": "SiGlyph",
+      "identifier": "databaseUpload"
+    },
+    "delete": {
+      "codepoint": 57638,
+      "fontFamily": "SiGlyph",
+      "identifier": "delete"
+    },
+    "delicious-circle": {
+      "codepoint": 57639,
+      "fontFamily": "SiGlyph",
+      "identifier": "deliciousCircle"
+    },
+    "deny": {
+      "codepoint": 57640,
+      "fontFamily": "SiGlyph",
+      "identifier": "deny"
+    },
+    "desktop": {
+      "codepoint": 57641,
+      "fontFamily": "SiGlyph",
+      "identifier": "desktop"
+    },
+    "dial-number": {
+      "codepoint": 57642,
+      "fontFamily": "SiGlyph",
+      "identifier": "dialNumber"
+    },
+    "dial-number-1": {
+      "codepoint": 57643,
+      "fontFamily": "SiGlyph",
+      "identifier": "dialNumber1"
+    },
+    "diamond": {
+      "codepoint": 57644,
+      "fontFamily": "SiGlyph",
+      "identifier": "diamond"
+    },
+    "dice-1": {
+      "codepoint": 57645,
+      "fontFamily": "SiGlyph",
+      "identifier": "dice1"
+    },
+    "dice-2": {
+      "codepoint": 57646,
+      "fontFamily": "SiGlyph",
+      "identifier": "dice2"
+    },
+    "dice-3": {
+      "codepoint": 57647,
+      "fontFamily": "SiGlyph",
+      "identifier": "dice3"
+    },
+    "dice-5": {
+      "codepoint": 57648,
+      "fontFamily": "SiGlyph",
+      "identifier": "dice5"
+    },
+    "dice-6": {
+      "codepoint": 57649,
+      "fontFamily": "SiGlyph",
+      "identifier": "dice6"
+    },
+    "disc": {
+      "codepoint": 57650,
+      "fontFamily": "SiGlyph",
+      "identifier": "disc"
+    },
+    "disc-add": {
+      "codepoint": 57651,
+      "fontFamily": "SiGlyph",
+      "identifier": "discAdd"
+    },
+    "disc-deny": {
+      "codepoint": 57652,
+      "fontFamily": "SiGlyph",
+      "identifier": "discDeny"
+    },
+    "disc-download": {
+      "codepoint": 57653,
+      "fontFamily": "SiGlyph",
+      "identifier": "discDownload"
+    },
+    "disc-error": {
+      "codepoint": 57654,
+      "fontFamily": "SiGlyph",
+      "identifier": "discError"
+    },
+    "disc-pause": {
+      "codepoint": 57655,
+      "fontFamily": "SiGlyph",
+      "identifier": "discPause"
+    },
+    "disc-play": {
+      "codepoint": 57656,
+      "fontFamily": "SiGlyph",
+      "identifier": "discPlay"
+    },
+    "disc-play-2": {
+      "codepoint": 57657,
+      "fontFamily": "SiGlyph",
+      "identifier": "discPlay2"
+    },
+    "disc-remove": {
+      "codepoint": 57658,
+      "fontFamily": "SiGlyph",
+      "identifier": "discRemove"
+    },
+    "disc-stop": {
+      "codepoint": 57659,
+      "fontFamily": "SiGlyph",
+      "identifier": "discStop"
+    },
+    "disc-upload": {
+      "codepoint": 57660,
+      "fontFamily": "SiGlyph",
+      "identifier": "discUpload"
+    },
+    "dish": {
+      "codepoint": 57661,
+      "fontFamily": "SiGlyph",
+      "identifier": "dish"
+    },
+    "disk-antenna": {
+      "codepoint": 57662,
+      "fontFamily": "SiGlyph",
+      "identifier": "diskAntenna"
+    },
+    "dna": {
+      "codepoint": 57663,
+      "fontFamily": "SiGlyph",
+      "identifier": "dna"
+    },
+    "document": {
+      "codepoint": 57664,
+      "fontFamily": "SiGlyph",
+      "identifier": "document"
+    },
+    "document-arrow-down": {
+      "codepoint": 57665,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentArrowDown"
+    },
+    "document-arrow-left": {
+      "codepoint": 57666,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentArrowLeft"
+    },
+    "document-arrow-right": {
+      "codepoint": 57667,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentArrowRight"
+    },
+    "document-arrow-up": {
+      "codepoint": 57668,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentArrowUp"
+    },
+    "document-backward": {
+      "codepoint": 57669,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentBackward"
+    },
+    "document-bullet-list": {
+      "codepoint": 57670,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentBulletList"
+    },
+    "document-checked": {
+      "codepoint": 57671,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentChecked"
+    },
+    "document-copy": {
+      "codepoint": 57672,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentCopy"
+    },
+    "document-doc": {
+      "codepoint": 57673,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentDoc"
+    },
+    "document-edit": {
+      "codepoint": 57674,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentEdit"
+    },
+    "document-error": {
+      "codepoint": 57675,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentError"
+    },
+    "document-forward": {
+      "codepoint": 57676,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentForward"
+    },
+    "document-help": {
+      "codepoint": 57677,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentHelp"
+    },
+    "document-music": {
+      "codepoint": 57678,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentMusic"
+    },
+    "document-pdf": {
+      "codepoint": 57679,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentPdf"
+    },
+    "document-plus": {
+      "codepoint": 57680,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentPlus"
+    },
+    "document-remove": {
+      "codepoint": 57681,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentRemove"
+    },
+    "document-rss": {
+      "codepoint": 57682,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentRss"
+    },
+    "document-search": {
+      "codepoint": 57683,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentSearch"
+    },
+    "document-star": {
+      "codepoint": 57684,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentStar"
+    },
+    "document-warning": {
+      "codepoint": 57685,
+      "fontFamily": "SiGlyph",
+      "identifier": "documentWarning"
+    },
+    "dog": {
+      "codepoint": 57686,
+      "fontFamily": "SiGlyph",
+      "identifier": "dog"
+    },
+    "door": {
+      "codepoint": 57687,
+      "fontFamily": "SiGlyph",
+      "identifier": "door"
+    },
+    "downstair": {
+      "codepoint": 57688,
+      "fontFamily": "SiGlyph",
+      "identifier": "downstair"
+    },
+    "downwards-arrow-to-bar": {
+      "codepoint": 57689,
+      "fontFamily": "SiGlyph",
+      "identifier": "downwardsArrowToBar"
+    },
+    "drill": {
+      "codepoint": 57690,
+      "fontFamily": "SiGlyph",
+      "identifier": "drill"
+    },
+    "drop-water": {
+      "codepoint": 57691,
+      "fontFamily": "SiGlyph",
+      "identifier": "dropWater"
+    },
+    "dropbox": {
+      "codepoint": 57692,
+      "fontFamily": "SiGlyph",
+      "identifier": "dropbox"
+    },
+    "drum": {
+      "codepoint": 57693,
+      "fontFamily": "SiGlyph",
+      "identifier": "drum"
+    },
+    "easal": {
+      "codepoint": 57694,
+      "fontFamily": "SiGlyph",
+      "identifier": "easal"
+    },
+    "edit": {
+      "codepoint": 57695,
+      "fontFamily": "SiGlyph",
+      "identifier": "edit"
+    },
+    "egg": {
+      "codepoint": 57696,
+      "fontFamily": "SiGlyph",
+      "identifier": "egg"
+    },
+    "eject": {
+      "codepoint": 57697,
+      "fontFamily": "SiGlyph",
+      "identifier": "eject"
+    },
+    "electron": {
+      "codepoint": 57698,
+      "fontFamily": "SiGlyph",
+      "identifier": "electron"
+    },
+    "elevator-down": {
+      "codepoint": 57699,
+      "fontFamily": "SiGlyph",
+      "identifier": "elevatorDown"
+    },
+    "elevator-up": {
+      "codepoint": 57700,
+      "fontFamily": "SiGlyph",
+      "identifier": "elevatorUp"
+    },
+    "emoticon": {
+      "codepoint": 57701,
+      "fontFamily": "SiGlyph",
+      "identifier": "emoticon"
+    },
+    "end-page": {
+      "codepoint": 57702,
+      "fontFamily": "SiGlyph",
+      "identifier": "endPage"
+    },
+    "erase": {
+      "codepoint": 57703,
+      "fontFamily": "SiGlyph",
+      "identifier": "erase"
+    },
+    "euro": {
+      "codepoint": 57704,
+      "fontFamily": "SiGlyph",
+      "identifier": "euro"
+    },
+    "excavator": {
+      "codepoint": 57705,
+      "fontFamily": "SiGlyph",
+      "identifier": "excavator"
+    },
+    "extinguisher": {
+      "codepoint": 57706,
+      "fontFamily": "SiGlyph",
+      "identifier": "extinguisher"
+    },
+    "eye-drop": {
+      "codepoint": 57707,
+      "fontFamily": "SiGlyph",
+      "identifier": "eyeDrop"
+    },
+    "eye-glass": {
+      "codepoint": 57708,
+      "fontFamily": "SiGlyph",
+      "identifier": "eyeGlass"
+    },
+    "factory": {
+      "codepoint": 57709,
+      "fontFamily": "SiGlyph",
+      "identifier": "factory_"
+    },
+    "faucet": {
+      "codepoint": 57710,
+      "fontFamily": "SiGlyph",
+      "identifier": "faucet"
+    },
+    "feather": {
+      "codepoint": 57711,
+      "fontFamily": "SiGlyph",
+      "identifier": "feather"
+    },
+    "female": {
+      "codepoint": 57712,
+      "fontFamily": "SiGlyph",
+      "identifier": "female"
+    },
+    "fence": {
+      "codepoint": 57713,
+      "fontFamily": "SiGlyph",
+      "identifier": "fence"
+    },
+    "fence-2": {
+      "codepoint": 57714,
+      "fontFamily": "SiGlyph",
+      "identifier": "fence2"
+    },
+    "file-box": {
+      "codepoint": 57715,
+      "fontFamily": "SiGlyph",
+      "identifier": "fileBox"
+    },
+    "file-download": {
+      "codepoint": 57716,
+      "fontFamily": "SiGlyph",
+      "identifier": "fileDownload"
+    },
+    "file-upload": {
+      "codepoint": 57717,
+      "fontFamily": "SiGlyph",
+      "identifier": "fileUpload"
+    },
+    "film": {
+      "codepoint": 57718,
+      "fontFamily": "SiGlyph",
+      "identifier": "film"
+    },
+    "film-35mm": {
+      "codepoint": 57719,
+      "fontFamily": "SiGlyph",
+      "identifier": "film35mm"
+    },
+    "finder": {
+      "codepoint": 57720,
+      "fontFamily": "SiGlyph",
+      "identifier": "finder"
+    },
+    "finger-up": {
+      "codepoint": 57721,
+      "fontFamily": "SiGlyph",
+      "identifier": "fingerUp"
+    },
+    "fire": {
+      "codepoint": 57722,
+      "fontFamily": "SiGlyph",
+      "identifier": "fire"
+    },
+    "fire-alarm": {
+      "codepoint": 57723,
+      "fontFamily": "SiGlyph",
+      "identifier": "fireAlarm"
+    },
+    "fire-hydrant": {
+      "codepoint": 57724,
+      "fontFamily": "SiGlyph",
+      "identifier": "fireHydrant"
+    },
+    "fire-wood": {
+      "codepoint": 57725,
+      "fontFamily": "SiGlyph",
+      "identifier": "fireWood"
+    },
+    "first-aid-briefcase": {
+      "codepoint": 57726,
+      "fontFamily": "SiGlyph",
+      "identifier": "firstAidBriefcase"
+    },
+    "fish": {
+      "codepoint": 57727,
+      "fontFamily": "SiGlyph",
+      "identifier": "fish"
+    },
+    "flag": {
+      "codepoint": 57728,
+      "fontFamily": "SiGlyph",
+      "identifier": "flag"
+    },
+    "float": {
+      "codepoint": 57729,
+      "fontFamily": "SiGlyph",
+      "identifier": "float"
+    },
+    "floppy-disk": {
+      "codepoint": 57730,
+      "fontFamily": "SiGlyph",
+      "identifier": "floppyDisk"
+    },
+    "flower": {
+      "codepoint": 57731,
+      "fontFamily": "SiGlyph",
+      "identifier": "flower"
+    },
+    "flower-pot": {
+      "codepoint": 57732,
+      "fontFamily": "SiGlyph",
+      "identifier": "flowerPot"
+    },
+    "folder": {
+      "codepoint": 57733,
+      "fontFamily": "SiGlyph",
+      "identifier": "folder"
+    },
+    "folder-contact": {
+      "codepoint": 57734,
+      "fontFamily": "SiGlyph",
+      "identifier": "folderContact"
+    },
+    "folder-error": {
+      "codepoint": 57735,
+      "fontFamily": "SiGlyph",
+      "identifier": "folderError"
+    },
+    "folder-music": {
+      "codepoint": 57736,
+      "fontFamily": "SiGlyph",
+      "identifier": "folderMusic"
+    },
+    "folder-open": {
+      "codepoint": 57737,
+      "fontFamily": "SiGlyph",
+      "identifier": "folderOpen"
+    },
+    "folder-plus": {
+      "codepoint": 57738,
+      "fontFamily": "SiGlyph",
+      "identifier": "folderPlus"
+    },
+    "folder-remove": {
+      "codepoint": 57739,
+      "fontFamily": "SiGlyph",
+      "identifier": "folderRemove"
+    },
+    "folder-rss": {
+      "codepoint": 57740,
+      "fontFamily": "SiGlyph",
+      "identifier": "folderRss"
+    },
+    "folder-search": {
+      "codepoint": 57741,
+      "fontFamily": "SiGlyph",
+      "identifier": "folderSearch"
+    },
+    "folder-share": {
+      "codepoint": 57742,
+      "fontFamily": "SiGlyph",
+      "identifier": "folderShare"
+    },
+    "folder-warning": {
+      "codepoint": 57743,
+      "fontFamily": "SiGlyph",
+      "identifier": "folderWarning"
+    },
+    "foot-sign": {
+      "codepoint": 57744,
+      "fontFamily": "SiGlyph",
+      "identifier": "footSign"
+    },
+    "forcus": {
+      "codepoint": 57745,
+      "fontFamily": "SiGlyph",
+      "identifier": "forcus"
+    },
+    "forklift": {
+      "codepoint": 57746,
+      "fontFamily": "SiGlyph",
+      "identifier": "forklift"
+    },
+    "forward-page": {
+      "codepoint": 57747,
+      "fontFamily": "SiGlyph",
+      "identifier": "forwardPage"
+    },
+    "fridge": {
+      "codepoint": 57748,
+      "fontFamily": "SiGlyph",
+      "identifier": "fridge"
+    },
+    "fullscreen": {
+      "codepoint": 57749,
+      "fontFamily": "SiGlyph",
+      "identifier": "fullscreen"
+    },
+    "game-1": {
+      "codepoint": 57750,
+      "fontFamily": "SiGlyph",
+      "identifier": "game1"
+    },
+    "game-controll": {
+      "codepoint": 57751,
+      "fontFamily": "SiGlyph",
+      "identifier": "gameControll"
+    },
+    "gas-station": {
+      "codepoint": 57752,
+      "fontFamily": "SiGlyph",
+      "identifier": "gasStation"
+    },
+    "gate": {
+      "codepoint": 57753,
+      "fontFamily": "SiGlyph",
+      "identifier": "gate"
+    },
+    "gear": {
+      "codepoint": 57754,
+      "fontFamily": "SiGlyph",
+      "identifier": "gear"
+    },
+    "gear-1": {
+      "codepoint": 57755,
+      "fontFamily": "SiGlyph",
+      "identifier": "gear1"
+    },
+    "ghost": {
+      "codepoint": 57756,
+      "fontFamily": "SiGlyph",
+      "identifier": "ghost"
+    },
+    "gift": {
+      "codepoint": 57757,
+      "fontFamily": "SiGlyph",
+      "identifier": "gift"
+    },
+    "glass-water": {
+      "codepoint": 57758,
+      "fontFamily": "SiGlyph",
+      "identifier": "glassWater"
+    },
+    "global": {
+      "codepoint": 57759,
+      "fontFamily": "SiGlyph",
+      "identifier": "global"
+    },
+    "globe": {
+      "codepoint": 57760,
+      "fontFamily": "SiGlyph",
+      "identifier": "globe"
+    },
+    "glove": {
+      "codepoint": 57761,
+      "fontFamily": "SiGlyph",
+      "identifier": "glove"
+    },
+    "golf-ball": {
+      "codepoint": 57762,
+      "fontFamily": "SiGlyph",
+      "identifier": "golfBall"
+    },
+    "golf-flag": {
+      "codepoint": 57763,
+      "fontFamily": "SiGlyph",
+      "identifier": "golfFlag"
+    },
+    "guitar": {
+      "codepoint": 57764,
+      "fontFamily": "SiGlyph",
+      "identifier": "guitar"
+    },
+    "hamburger": {
+      "codepoint": 57765,
+      "fontFamily": "SiGlyph",
+      "identifier": "hamburger"
+    },
+    "hammer": {
+      "codepoint": 57766,
+      "fontFamily": "SiGlyph",
+      "identifier": "hammer"
+    },
+    "hammer-and-wrench": {
+      "codepoint": 57767,
+      "fontFamily": "SiGlyph",
+      "identifier": "hammerAndWrench"
+    },
+    "hand": {
+      "codepoint": 57768,
+      "fontFamily": "SiGlyph",
+      "identifier": "hand"
+    },
+    "hand-lamp": {
+      "codepoint": 57769,
+      "fontFamily": "SiGlyph",
+      "identifier": "handLamp"
+    },
+    "hand-switch": {
+      "codepoint": 57770,
+      "fontFamily": "SiGlyph",
+      "identifier": "handSwitch"
+    },
+    "handcuff": {
+      "codepoint": 57771,
+      "fontFamily": "SiGlyph",
+      "identifier": "handcuff"
+    },
+    "hanger": {
+      "codepoint": 57772,
+      "fontFamily": "SiGlyph",
+      "identifier": "hanger"
+    },
+    "hardware": {
+      "codepoint": 57773,
+      "fontFamily": "SiGlyph",
+      "identifier": "hardware"
+    },
+    "hat": {
+      "codepoint": 57774,
+      "fontFamily": "SiGlyph",
+      "identifier": "hat"
+    },
+    "hat-chef": {
+      "codepoint": 57775,
+      "fontFamily": "SiGlyph",
+      "identifier": "hatChef"
+    },
+    "head": {
+      "codepoint": 57776,
+      "fontFamily": "SiGlyph",
+      "identifier": "head"
+    },
+    "head-set": {
+      "codepoint": 57777,
+      "fontFamily": "SiGlyph",
+      "identifier": "headSet"
+    },
+    "heart": {
+      "codepoint": 57778,
+      "fontFamily": "SiGlyph",
+      "identifier": "heart"
+    },
+    "heart-delete": {
+      "codepoint": 57779,
+      "fontFamily": "SiGlyph",
+      "identifier": "heartDelete"
+    },
+    "heart-plus": {
+      "codepoint": 57780,
+      "fontFamily": "SiGlyph",
+      "identifier": "heartPlus"
+    },
+    "heart-remove": {
+      "codepoint": 57781,
+      "fontFamily": "SiGlyph",
+      "identifier": "heartRemove"
+    },
+    "heart-signal": {
+      "codepoint": 57782,
+      "fontFamily": "SiGlyph",
+      "identifier": "heartSignal"
+    },
+    "helicopter": {
+      "codepoint": 57783,
+      "fontFamily": "SiGlyph",
+      "identifier": "helicopter"
+    },
+    "helicopter-pad": {
+      "codepoint": 57784,
+      "fontFamily": "SiGlyph",
+      "identifier": "helicopterPad"
+    },
+    "helm-wheel": {
+      "codepoint": 57785,
+      "fontFamily": "SiGlyph",
+      "identifier": "helmWheel"
+    },
+    "helmet": {
+      "codepoint": 57786,
+      "fontFamily": "SiGlyph",
+      "identifier": "helmet"
+    },
+    "hightheel": {
+      "codepoint": 57787,
+      "fontFamily": "SiGlyph",
+      "identifier": "hightheel"
+    },
+    "history": {
+      "codepoint": 57788,
+      "fontFamily": "SiGlyph",
+      "identifier": "history"
+    },
+    "hockey": {
+      "codepoint": 57789,
+      "fontFamily": "SiGlyph",
+      "identifier": "hockey"
+    },
+    "home-page": {
+      "codepoint": 57790,
+      "fontFamily": "SiGlyph",
+      "identifier": "homePage"
+    },
+    "horse": {
+      "codepoint": 57791,
+      "fontFamily": "SiGlyph",
+      "identifier": "horse"
+    },
+    "horse-shoe": {
+      "codepoint": 57792,
+      "fontFamily": "SiGlyph",
+      "identifier": "horseShoe"
+    },
+    "hospital": {
+      "codepoint": 57793,
+      "fontFamily": "SiGlyph",
+      "identifier": "hospital"
+    },
+    "house": {
+      "codepoint": 57794,
+      "fontFamily": "SiGlyph",
+      "identifier": "house"
+    },
+    "ice-cream": {
+      "codepoint": 57795,
+      "fontFamily": "SiGlyph",
+      "identifier": "iceCream"
+    },
+    "id-badge": {
+      "codepoint": 57796,
+      "fontFamily": "SiGlyph",
+      "identifier": "idBadge"
+    },
+    "image": {
+      "codepoint": 57797,
+      "fontFamily": "SiGlyph",
+      "identifier": "image"
+    },
+    "in-columns": {
+      "codepoint": 57798,
+      "fontFamily": "SiGlyph",
+      "identifier": "inColumns"
+    },
+    "inbox-download": {
+      "codepoint": 57799,
+      "fontFamily": "SiGlyph",
+      "identifier": "inboxDownload"
+    },
+    "inbox-upload": {
+      "codepoint": 57800,
+      "fontFamily": "SiGlyph",
+      "identifier": "inboxUpload"
+    },
+    "infinity": {
+      "codepoint": 57801,
+      "fontFamily": "SiGlyph",
+      "identifier": "infinity"
+    },
+    "infinity-2": {
+      "codepoint": 57802,
+      "fontFamily": "SiGlyph",
+      "identifier": "infinity2"
+    },
+    "info": {
+      "codepoint": 57803,
+      "fontFamily": "SiGlyph",
+      "identifier": "info"
+    },
+    "ipod": {
+      "codepoint": 57804,
+      "fontFamily": "SiGlyph",
+      "identifier": "ipod"
+    },
+    "iron": {
+      "codepoint": 57805,
+      "fontFamily": "SiGlyph",
+      "identifier": "iron"
+    },
+    "jump-backward": {
+      "codepoint": 57806,
+      "fontFamily": "SiGlyph",
+      "identifier": "jumpBackward"
+    },
+    "jump-double-page-left-right": {
+      "codepoint": 57807,
+      "fontFamily": "SiGlyph",
+      "identifier": "jumpDoublePageLeftRight"
+    },
+    "jump-forward": {
+      "codepoint": 57808,
+      "fontFamily": "SiGlyph",
+      "identifier": "jumpForward"
+    },
+    "jump-page-left-right": {
+      "codepoint": 57809,
+      "fontFamily": "SiGlyph",
+      "identifier": "jumpPageLeftRight"
+    },
+    "jump-page-up-down": {
+      "codepoint": 57810,
+      "fontFamily": "SiGlyph",
+      "identifier": "jumpPageUpDown"
+    },
+    "kette": {
+      "codepoint": 57811,
+      "fontFamily": "SiGlyph",
+      "identifier": "kette"
+    },
+    "key": {
+      "codepoint": 57812,
+      "fontFamily": "SiGlyph",
+      "identifier": "key"
+    },
+    "key-2": {
+      "codepoint": 57813,
+      "fontFamily": "SiGlyph",
+      "identifier": "key2"
+    },
+    "keyboard": {
+      "codepoint": 57814,
+      "fontFamily": "SiGlyph",
+      "identifier": "keyboard"
+    },
+    "knife": {
+      "codepoint": 57815,
+      "fontFamily": "SiGlyph",
+      "identifier": "knife"
+    },
+    "ladder-pool": {
+      "codepoint": 57816,
+      "fontFamily": "SiGlyph",
+      "identifier": "ladderPool"
+    },
+    "lamp": {
+      "codepoint": 57817,
+      "fontFamily": "SiGlyph",
+      "identifier": "lamp"
+    },
+    "lamp-desk": {
+      "codepoint": 57818,
+      "fontFamily": "SiGlyph",
+      "identifier": "lampDesk"
+    },
+    "lavabo": {
+      "codepoint": 57819,
+      "fontFamily": "SiGlyph",
+      "identifier": "lavabo"
+    },
+    "law-hammer": {
+      "codepoint": 57820,
+      "fontFamily": "SiGlyph",
+      "identifier": "lawHammer"
+    },
+    "layout-1": {
+      "codepoint": 57821,
+      "fontFamily": "SiGlyph",
+      "identifier": "layout1"
+    },
+    "layout-2": {
+      "codepoint": 57822,
+      "fontFamily": "SiGlyph",
+      "identifier": "layout2"
+    },
+    "layout-3": {
+      "codepoint": 57823,
+      "fontFamily": "SiGlyph",
+      "identifier": "layout3"
+    },
+    "layout-4": {
+      "codepoint": 57824,
+      "fontFamily": "SiGlyph",
+      "identifier": "layout4"
+    },
+    "leaf": {
+      "codepoint": 57825,
+      "fontFamily": "SiGlyph",
+      "identifier": "leaf"
+    },
+    "left-justify": {
+      "codepoint": 57826,
+      "fontFamily": "SiGlyph",
+      "identifier": "leftJustify"
+    },
+    "leftwards-arrow-to-bar": {
+      "codepoint": 57827,
+      "fontFamily": "SiGlyph",
+      "identifier": "leftwardsArrowToBar"
+    },
+    "light-alarm": {
+      "codepoint": 57828,
+      "fontFamily": "SiGlyph",
+      "identifier": "lightAlarm"
+    },
+    "light-bulb": {
+      "codepoint": 57829,
+      "fontFamily": "SiGlyph",
+      "identifier": "lightBulb"
+    },
+    "light-house": {
+      "codepoint": 57830,
+      "fontFamily": "SiGlyph",
+      "identifier": "lightHouse"
+    },
+    "like": {
+      "codepoint": 57831,
+      "fontFamily": "SiGlyph",
+      "identifier": "like"
+    },
+    "like-unlike": {
+      "codepoint": 57832,
+      "fontFamily": "SiGlyph",
+      "identifier": "likeUnlike"
+    },
+    "line-two-angle-point": {
+      "codepoint": 57833,
+      "fontFamily": "SiGlyph",
+      "identifier": "lineTwoAnglePoint"
+    },
+    "link-1": {
+      "codepoint": 57834,
+      "fontFamily": "SiGlyph",
+      "identifier": "link1"
+    },
+    "link-2": {
+      "codepoint": 57835,
+      "fontFamily": "SiGlyph",
+      "identifier": "link2"
+    },
+    "link-3": {
+      "codepoint": 57836,
+      "fontFamily": "SiGlyph",
+      "identifier": "link3"
+    },
+    "load": {
+      "codepoint": 57837,
+      "fontFamily": "SiGlyph",
+      "identifier": "load"
+    },
+    "lock": {
+      "codepoint": 57838,
+      "fontFamily": "SiGlyph",
+      "identifier": "lock"
+    },
+    "lock-unlock": {
+      "codepoint": 57839,
+      "fontFamily": "SiGlyph",
+      "identifier": "lockUnlock"
+    },
+    "louder-2": {
+      "codepoint": 57840,
+      "fontFamily": "SiGlyph",
+      "identifier": "louder2"
+    },
+    "louder-speaker": {
+      "codepoint": 57841,
+      "fontFamily": "SiGlyph",
+      "identifier": "louderSpeaker"
+    },
+    "magnet": {
+      "codepoint": 57842,
+      "fontFamily": "SiGlyph",
+      "identifier": "magnet"
+    },
+    "magnifier": {
+      "codepoint": 57843,
+      "fontFamily": "SiGlyph",
+      "identifier": "magnifier"
+    },
+    "magnifier-2": {
+      "codepoint": 57844,
+      "fontFamily": "SiGlyph",
+      "identifier": "magnifier2"
+    },
+    "mail": {
+      "codepoint": 57845,
+      "fontFamily": "SiGlyph",
+      "identifier": "mail"
+    },
+    "mail-box": {
+      "codepoint": 57846,
+      "fontFamily": "SiGlyph",
+      "identifier": "mailBox"
+    },
+    "mail-empty": {
+      "codepoint": 57847,
+      "fontFamily": "SiGlyph",
+      "identifier": "mailEmpty"
+    },
+    "mail-has-mail": {
+      "codepoint": 57848,
+      "fontFamily": "SiGlyph",
+      "identifier": "mailHasMail"
+    },
+    "mail-inbox": {
+      "codepoint": 57849,
+      "fontFamily": "SiGlyph",
+      "identifier": "mailInbox"
+    },
+    "mail-send": {
+      "codepoint": 57850,
+      "fontFamily": "SiGlyph",
+      "identifier": "mailSend"
+    },
+    "male": {
+      "codepoint": 57851,
+      "fontFamily": "SiGlyph",
+      "identifier": "male"
+    },
+    "man-doctor": {
+      "codepoint": 57852,
+      "fontFamily": "SiGlyph",
+      "identifier": "manDoctor"
+    },
+    "map-3": {
+      "codepoint": 57853,
+      "fontFamily": "SiGlyph",
+      "identifier": "map3"
+    },
+    "map-square": {
+      "codepoint": 57854,
+      "fontFamily": "SiGlyph",
+      "identifier": "mapSquare"
+    },
+    "mark-snorker": {
+      "codepoint": 57855,
+      "fontFamily": "SiGlyph",
+      "identifier": "markSnorker"
+    },
+    "mask-1": {
+      "codepoint": 57856,
+      "fontFamily": "SiGlyph",
+      "identifier": "mask1"
+    },
+    "mask-2": {
+      "codepoint": 57857,
+      "fontFamily": "SiGlyph",
+      "identifier": "mask2"
+    },
+    "medal-star": {
+      "codepoint": 57858,
+      "fontFamily": "SiGlyph",
+      "identifier": "medalStar"
+    },
+    "microphone-1": {
+      "codepoint": 57859,
+      "fontFamily": "SiGlyph",
+      "identifier": "microphone1"
+    },
+    "microphone-2": {
+      "codepoint": 57860,
+      "fontFamily": "SiGlyph",
+      "identifier": "microphone2"
+    },
+    "microscope": {
+      "codepoint": 57861,
+      "fontFamily": "SiGlyph",
+      "identifier": "microscope"
+    },
+    "mobile": {
+      "codepoint": 57862,
+      "fontFamily": "SiGlyph",
+      "identifier": "mobile"
+    },
+    "mocule": {
+      "codepoint": 57863,
+      "fontFamily": "SiGlyph",
+      "identifier": "mocule"
+    },
+    "money": {
+      "codepoint": 57864,
+      "fontFamily": "SiGlyph",
+      "identifier": "money"
+    },
+    "money-3": {
+      "codepoint": 57865,
+      "fontFamily": "SiGlyph",
+      "identifier": "money3"
+    },
+    "money-bag": {
+      "codepoint": 57866,
+      "fontFamily": "SiGlyph",
+      "identifier": "moneyBag"
+    },
+    "money-coin": {
+      "codepoint": 57867,
+      "fontFamily": "SiGlyph",
+      "identifier": "moneyCoin"
+    },
+    "moon-star": {
+      "codepoint": 57868,
+      "fontFamily": "SiGlyph",
+      "identifier": "moonStar"
+    },
+    "motobike": {
+      "codepoint": 57869,
+      "fontFamily": "SiGlyph",
+      "identifier": "motobike"
+    },
+    "mountain": {
+      "codepoint": 57870,
+      "fontFamily": "SiGlyph",
+      "identifier": "mountain"
+    },
+    "movie-play": {
+      "codepoint": 57871,
+      "fontFamily": "SiGlyph",
+      "identifier": "moviePlay"
+    },
+    "movie-projector": {
+      "codepoint": 57872,
+      "fontFamily": "SiGlyph",
+      "identifier": "movieProjector"
+    },
+    "multifunction-knife": {
+      "codepoint": 57873,
+      "fontFamily": "SiGlyph",
+      "identifier": "multifunctionKnife"
+    },
+    "mushrooms": {
+      "codepoint": 57874,
+      "fontFamily": "SiGlyph",
+      "identifier": "mushrooms"
+    },
+    "music": {
+      "codepoint": 57875,
+      "fontFamily": "SiGlyph",
+      "identifier": "music"
+    },
+    "music-note": {
+      "codepoint": 57876,
+      "fontFamily": "SiGlyph",
+      "identifier": "musicNote"
+    },
+    "mustache": {
+      "codepoint": 57877,
+      "fontFamily": "SiGlyph",
+      "identifier": "mustache"
+    },
+    "network": {
+      "codepoint": 57878,
+      "fontFamily": "SiGlyph",
+      "identifier": "network"
+    },
+    "network-2": {
+      "codepoint": 57879,
+      "fontFamily": "SiGlyph",
+      "identifier": "network2"
+    },
+    "newspaper": {
+      "codepoint": 57880,
+      "fontFamily": "SiGlyph",
+      "identifier": "newspaper"
+    },
+    "no-dog": {
+      "codepoint": 57881,
+      "fontFamily": "SiGlyph",
+      "identifier": "noDog"
+    },
+    "no-smoke": {
+      "codepoint": 57882,
+      "fontFamily": "SiGlyph",
+      "identifier": "noSmoke"
+    },
+    "note": {
+      "codepoint": 57883,
+      "fontFamily": "SiGlyph",
+      "identifier": "note"
+    },
+    "note-2": {
+      "codepoint": 57884,
+      "fontFamily": "SiGlyph",
+      "identifier": "note2"
+    },
+    "old-phone": {
+      "codepoint": 57885,
+      "fontFamily": "SiGlyph",
+      "identifier": "oldPhone"
+    },
+    "open": {
+      "codepoint": 57886,
+      "fontFamily": "SiGlyph",
+      "identifier": "open"
+    },
+    "pallette": {
+      "codepoint": 57887,
+      "fontFamily": "SiGlyph",
+      "identifier": "pallette"
+    },
+    "paper-clip": {
+      "codepoint": 57888,
+      "fontFamily": "SiGlyph",
+      "identifier": "paperClip"
+    },
+    "paper-plane": {
+      "codepoint": 57889,
+      "fontFamily": "SiGlyph",
+      "identifier": "paperPlane"
+    },
+    "paper-roll": {
+      "codepoint": 57890,
+      "fontFamily": "SiGlyph",
+      "identifier": "paperRoll"
+    },
+    "paper-shredder": {
+      "codepoint": 57891,
+      "fontFamily": "SiGlyph",
+      "identifier": "paperShredder"
+    },
+    "pause": {
+      "codepoint": 57892,
+      "fontFamily": "SiGlyph",
+      "identifier": "pause"
+    },
+    "pawn": {
+      "codepoint": 57893,
+      "fontFamily": "SiGlyph",
+      "identifier": "pawn"
+    },
+    "paypal": {
+      "codepoint": 57894,
+      "fontFamily": "SiGlyph",
+      "identifier": "paypal"
+    },
+    "pen": {
+      "codepoint": 57895,
+      "fontFamily": "SiGlyph",
+      "identifier": "pen"
+    },
+    "pen-nib": {
+      "codepoint": 57896,
+      "fontFamily": "SiGlyph",
+      "identifier": "penNib"
+    },
+    "pencil": {
+      "codepoint": 57897,
+      "fontFamily": "SiGlyph",
+      "identifier": "pencil"
+    },
+    "percent": {
+      "codepoint": 57898,
+      "fontFamily": "SiGlyph",
+      "identifier": "percent"
+    },
+    "person": {
+      "codepoint": 57899,
+      "fontFamily": "SiGlyph",
+      "identifier": "person"
+    },
+    "person-2": {
+      "codepoint": 57900,
+      "fontFamily": "SiGlyph",
+      "identifier": "person2"
+    },
+    "person-checked": {
+      "codepoint": 57901,
+      "fontFamily": "SiGlyph",
+      "identifier": "personChecked"
+    },
+    "person-door-man": {
+      "codepoint": 57902,
+      "fontFamily": "SiGlyph",
+      "identifier": "personDoorMan"
+    },
+    "person-error": {
+      "codepoint": 57903,
+      "fontFamily": "SiGlyph",
+      "identifier": "personError"
+    },
+    "person-man": {
+      "codepoint": 57904,
+      "fontFamily": "SiGlyph",
+      "identifier": "personMan"
+    },
+    "person-people": {
+      "codepoint": 57905,
+      "fontFamily": "SiGlyph",
+      "identifier": "personPeople"
+    },
+    "person-plus": {
+      "codepoint": 57906,
+      "fontFamily": "SiGlyph",
+      "identifier": "personPlus"
+    },
+    "person-prison": {
+      "codepoint": 57907,
+      "fontFamily": "SiGlyph",
+      "identifier": "personPrison"
+    },
+    "person-public": {
+      "codepoint": 57908,
+      "fontFamily": "SiGlyph",
+      "identifier": "personPublic"
+    },
+    "person-remove": {
+      "codepoint": 57909,
+      "fontFamily": "SiGlyph",
+      "identifier": "personRemove"
+    },
+    "person-talk": {
+      "codepoint": 57910,
+      "fontFamily": "SiGlyph",
+      "identifier": "personTalk"
+    },
+    "person-woman": {
+      "codepoint": 57911,
+      "fontFamily": "SiGlyph",
+      "identifier": "personWoman"
+    },
+    "pet-carrier": {
+      "codepoint": 57912,
+      "fontFamily": "SiGlyph",
+      "identifier": "petCarrier"
+    },
+    "phone-fax": {
+      "codepoint": 57913,
+      "fontFamily": "SiGlyph",
+      "identifier": "phoneFax"
+    },
+    "phone-number": {
+      "codepoint": 57914,
+      "fontFamily": "SiGlyph",
+      "identifier": "phoneNumber"
+    },
+    "piano": {
+      "codepoint": 57915,
+      "fontFamily": "SiGlyph",
+      "identifier": "piano"
+    },
+    "pick": {
+      "codepoint": 57916,
+      "fontFamily": "SiGlyph",
+      "identifier": "pick"
+    },
+    "picture": {
+      "codepoint": 57917,
+      "fontFamily": "SiGlyph",
+      "identifier": "picture"
+    },
+    "picture-2": {
+      "codepoint": 57918,
+      "fontFamily": "SiGlyph",
+      "identifier": "picture2"
+    },
+    "picture-copy": {
+      "codepoint": 57919,
+      "fontFamily": "SiGlyph",
+      "identifier": "pictureCopy"
+    },
+    "piggy-bank": {
+      "codepoint": 57920,
+      "fontFamily": "SiGlyph",
+      "identifier": "piggyBank"
+    },
+    "pill": {
+      "codepoint": 57921,
+      "fontFamily": "SiGlyph",
+      "identifier": "pill"
+    },
+    "pin-location": {
+      "codepoint": 57922,
+      "fontFamily": "SiGlyph",
+      "identifier": "pinLocation"
+    },
+    "pin-location-1": {
+      "codepoint": 57923,
+      "fontFamily": "SiGlyph",
+      "identifier": "pinLocation1"
+    },
+    "pin-location-2": {
+      "codepoint": 57924,
+      "fontFamily": "SiGlyph",
+      "identifier": "pinLocation2"
+    },
+    "pin-location-add": {
+      "codepoint": 57925,
+      "fontFamily": "SiGlyph",
+      "identifier": "pinLocationAdd"
+    },
+    "pin-location-delete": {
+      "codepoint": 57926,
+      "fontFamily": "SiGlyph",
+      "identifier": "pinLocationDelete"
+    },
+    "pin-location-love": {
+      "codepoint": 57927,
+      "fontFamily": "SiGlyph",
+      "identifier": "pinLocationLove"
+    },
+    "pin-location-map": {
+      "codepoint": 57928,
+      "fontFamily": "SiGlyph",
+      "identifier": "pinLocationMap"
+    },
+    "pin-location-remove": {
+      "codepoint": 57929,
+      "fontFamily": "SiGlyph",
+      "identifier": "pinLocationRemove"
+    },
+    "pin-map": {
+      "codepoint": 57930,
+      "fontFamily": "SiGlyph",
+      "identifier": "pinMap"
+    },
+    "ping-pong-racket": {
+      "codepoint": 57931,
+      "fontFamily": "SiGlyph",
+      "identifier": "pingPongRacket"
+    },
+    "pipe": {
+      "codepoint": 57932,
+      "fontFamily": "SiGlyph",
+      "identifier": "pipe"
+    },
+    "pizza": {
+      "codepoint": 57933,
+      "fontFamily": "SiGlyph",
+      "identifier": "pizza"
+    },
+    "plugin": {
+      "codepoint": 57934,
+      "fontFamily": "SiGlyph",
+      "identifier": "plugin"
+    },
+    "plus": {
+      "codepoint": 57935,
+      "fontFamily": "SiGlyph",
+      "identifier": "plus"
+    },
+    "podium": {
+      "codepoint": 57936,
+      "fontFamily": "SiGlyph",
+      "identifier": "podium"
+    },
+    "poker-1": {
+      "codepoint": 57937,
+      "fontFamily": "SiGlyph",
+      "identifier": "poker1"
+    },
+    "poker-2": {
+      "codepoint": 57938,
+      "fontFamily": "SiGlyph",
+      "identifier": "poker2"
+    },
+    "poker-3": {
+      "codepoint": 57939,
+      "fontFamily": "SiGlyph",
+      "identifier": "poker3"
+    },
+    "poker-4": {
+      "codepoint": 57940,
+      "fontFamily": "SiGlyph",
+      "identifier": "poker4"
+    },
+    "print": {
+      "codepoint": 57941,
+      "fontFamily": "SiGlyph",
+      "identifier": "print"
+    },
+    "puzzle": {
+      "codepoint": 57942,
+      "fontFamily": "SiGlyph",
+      "identifier": "puzzle"
+    },
+    "quote-close": {
+      "codepoint": 57943,
+      "fontFamily": "SiGlyph",
+      "identifier": "quoteClose"
+    },
+    "quote-open": {
+      "codepoint": 57944,
+      "fontFamily": "SiGlyph",
+      "identifier": "quoteOpen"
+    },
+    "radio": {
+      "codepoint": 57945,
+      "fontFamily": "SiGlyph",
+      "identifier": "radio"
+    },
+    "radioactive": {
+      "codepoint": 57946,
+      "fontFamily": "SiGlyph",
+      "identifier": "radioactive"
+    },
+    "record": {
+      "codepoint": 57947,
+      "fontFamily": "SiGlyph",
+      "identifier": "record"
+    },
+    "reduce": {
+      "codepoint": 57948,
+      "fontFamily": "SiGlyph",
+      "identifier": "reduce"
+    },
+    "reel-audio": {
+      "codepoint": 57949,
+      "fontFamily": "SiGlyph",
+      "identifier": "reelAudio"
+    },
+    "reel-film": {
+      "codepoint": 57950,
+      "fontFamily": "SiGlyph",
+      "identifier": "reelFilm"
+    },
+    "remove": {
+      "codepoint": 57951,
+      "fontFamily": "SiGlyph",
+      "identifier": "remove"
+    },
+    "repeat": {
+      "codepoint": 57952,
+      "fontFamily": "SiGlyph",
+      "identifier": "repeat"
+    },
+    "resize-in-frame": {
+      "codepoint": 57953,
+      "fontFamily": "SiGlyph",
+      "identifier": "resizeInFrame"
+    },
+    "resize-out-frame": {
+      "codepoint": 57954,
+      "fontFamily": "SiGlyph",
+      "identifier": "resizeOutFrame"
+    },
+    "retroeexcavadora": {
+      "codepoint": 57955,
+      "fontFamily": "SiGlyph",
+      "identifier": "retroeexcavadora"
+    },
+    "ribbon": {
+      "codepoint": 57956,
+      "fontFamily": "SiGlyph",
+      "identifier": "ribbon"
+    },
+    "right-justify": {
+      "codepoint": 57957,
+      "fontFamily": "SiGlyph",
+      "identifier": "rightJustify"
+    },
+    "rightwards-arrow-to-bar": {
+      "codepoint": 57958,
+      "fontFamily": "SiGlyph",
+      "identifier": "rightwardsArrowToBar"
+    },
+    "ring": {
+      "codepoint": 57959,
+      "fontFamily": "SiGlyph",
+      "identifier": "ring"
+    },
+    "road": {
+      "codepoint": 57960,
+      "fontFamily": "SiGlyph",
+      "identifier": "road"
+    },
+    "rocket": {
+      "codepoint": 57961,
+      "fontFamily": "SiGlyph",
+      "identifier": "rocket"
+    },
+    "roller": {
+      "codepoint": 57962,
+      "fontFamily": "SiGlyph",
+      "identifier": "roller"
+    },
+    "rss": {
+      "codepoint": 57963,
+      "fontFamily": "SiGlyph",
+      "identifier": "rss"
+    },
+    "rugby-ball": {
+      "codepoint": 57964,
+      "fontFamily": "SiGlyph",
+      "identifier": "rugbyBall"
+    },
+    "ruler": {
+      "codepoint": 57965,
+      "fontFamily": "SiGlyph",
+      "identifier": "ruler"
+    },
+    "safe-box": {
+      "codepoint": 57966,
+      "fontFamily": "SiGlyph",
+      "identifier": "safeBox"
+    },
+    "safe-pin": {
+      "codepoint": 57967,
+      "fontFamily": "SiGlyph",
+      "identifier": "safePin"
+    },
+    "satellite": {
+      "codepoint": 57968,
+      "fontFamily": "SiGlyph",
+      "identifier": "satellite"
+    },
+    "saw": {
+      "codepoint": 57969,
+      "fontFamily": "SiGlyph",
+      "identifier": "saw"
+    },
+    "scissor": {
+      "codepoint": 57970,
+      "fontFamily": "SiGlyph",
+      "identifier": "scissor"
+    },
+    "scissor-line-cut": {
+      "codepoint": 57971,
+      "fontFamily": "SiGlyph",
+      "identifier": "scissorLineCut"
+    },
+    "screen-ful": {
+      "codepoint": 57972,
+      "fontFamily": "SiGlyph",
+      "identifier": "screenFul"
+    },
+    "screen-scale": {
+      "codepoint": 57973,
+      "fontFamily": "SiGlyph",
+      "identifier": "screenScale"
+    },
+    "screw": {
+      "codepoint": 57974,
+      "fontFamily": "SiGlyph",
+      "identifier": "screw"
+    },
+    "screw-driver": {
+      "codepoint": 57975,
+      "fontFamily": "SiGlyph",
+      "identifier": "screwDriver"
+    },
+    "sd-card": {
+      "codepoint": 57976,
+      "fontFamily": "SiGlyph",
+      "identifier": "sdCard"
+    },
+    "seriff": {
+      "codepoint": 57977,
+      "fontFamily": "SiGlyph",
+      "identifier": "seriff"
+    },
+    "sewing-machine": {
+      "codepoint": 57978,
+      "fontFamily": "SiGlyph",
+      "identifier": "sewingMachine"
+    },
+    "sewing-roll": {
+      "codepoint": 57979,
+      "fontFamily": "SiGlyph",
+      "identifier": "sewingRoll"
+    },
+    "share-1": {
+      "codepoint": 57980,
+      "fontFamily": "SiGlyph",
+      "identifier": "share1"
+    },
+    "share-2": {
+      "codepoint": 57981,
+      "fontFamily": "SiGlyph",
+      "identifier": "share2"
+    },
+    "share-3": {
+      "codepoint": 57982,
+      "fontFamily": "SiGlyph",
+      "identifier": "share3"
+    },
+    "share-5": {
+      "codepoint": 57983,
+      "fontFamily": "SiGlyph",
+      "identifier": "share5"
+    },
+    "sheep": {
+      "codepoint": 57984,
+      "fontFamily": "SiGlyph",
+      "identifier": "sheep"
+    },
+    "shield": {
+      "codepoint": 57985,
+      "fontFamily": "SiGlyph",
+      "identifier": "shield"
+    },
+    "shield-2": {
+      "codepoint": 57986,
+      "fontFamily": "SiGlyph",
+      "identifier": "shield2"
+    },
+    "shield-plus": {
+      "codepoint": 57987,
+      "fontFamily": "SiGlyph",
+      "identifier": "shieldPlus"
+    },
+    "shield-star": {
+      "codepoint": 57988,
+      "fontFamily": "SiGlyph",
+      "identifier": "shieldStar"
+    },
+    "shovel": {
+      "codepoint": 57989,
+      "fontFamily": "SiGlyph",
+      "identifier": "shovel"
+    },
+    "shower": {
+      "codepoint": 57990,
+      "fontFamily": "SiGlyph",
+      "identifier": "shower"
+    },
+    "sign-board": {
+      "codepoint": 57991,
+      "fontFamily": "SiGlyph",
+      "identifier": "signBoard"
+    },
+    "sign-foot": {
+      "codepoint": 57992,
+      "fontFamily": "SiGlyph",
+      "identifier": "signFoot"
+    },
+    "sign-in": {
+      "codepoint": 57993,
+      "fontFamily": "SiGlyph",
+      "identifier": "signIn"
+    },
+    "sign-out": {
+      "codepoint": 57994,
+      "fontFamily": "SiGlyph",
+      "identifier": "signOut"
+    },
+    "sign-p": {
+      "codepoint": 57995,
+      "fontFamily": "SiGlyph",
+      "identifier": "signP"
+    },
+    "sign-road-1": {
+      "codepoint": 57996,
+      "fontFamily": "SiGlyph",
+      "identifier": "signRoad1"
+    },
+    "sign-road-2": {
+      "codepoint": 57997,
+      "fontFamily": "SiGlyph",
+      "identifier": "signRoad2"
+    },
+    "signal-1": {
+      "codepoint": 57998,
+      "fontFamily": "SiGlyph",
+      "identifier": "signal1"
+    },
+    "signal-2": {
+      "codepoint": 57999,
+      "fontFamily": "SiGlyph",
+      "identifier": "signal2"
+    },
+    "signal-3": {
+      "codepoint": 58000,
+      "fontFamily": "SiGlyph",
+      "identifier": "signal3"
+    },
+    "site-map": {
+      "codepoint": 58001,
+      "fontFamily": "SiGlyph",
+      "identifier": "siteMap"
+    },
+    "site-map-revert": {
+      "codepoint": 58002,
+      "fontFamily": "SiGlyph",
+      "identifier": "siteMapRevert"
+    },
+    "skateboard": {
+      "codepoint": 58003,
+      "fontFamily": "SiGlyph",
+      "identifier": "skateboard"
+    },
+    "skull": {
+      "codepoint": 58004,
+      "fontFamily": "SiGlyph",
+      "identifier": "skull"
+    },
+    "sleep": {
+      "codepoint": 58005,
+      "fontFamily": "SiGlyph",
+      "identifier": "sleep"
+    },
+    "slide-show": {
+      "codepoint": 58006,
+      "fontFamily": "SiGlyph",
+      "identifier": "slideShow"
+    },
+    "smartphone": {
+      "codepoint": 58007,
+      "fontFamily": "SiGlyph",
+      "identifier": "smartphone"
+    },
+    "sms": {
+      "codepoint": 58008,
+      "fontFamily": "SiGlyph",
+      "identifier": "sms"
+    },
+    "snow": {
+      "codepoint": 58009,
+      "fontFamily": "SiGlyph",
+      "identifier": "snow"
+    },
+    "soccer-yard": {
+      "codepoint": 58010,
+      "fontFamily": "SiGlyph",
+      "identifier": "soccerYard"
+    },
+    "sock": {
+      "codepoint": 58011,
+      "fontFamily": "SiGlyph",
+      "identifier": "sock"
+    },
+    "socket": {
+      "codepoint": 58012,
+      "fontFamily": "SiGlyph",
+      "identifier": "socket"
+    },
+    "solar-blind": {
+      "codepoint": 58013,
+      "fontFamily": "SiGlyph",
+      "identifier": "solarBlind"
+    },
+    "sos": {
+      "codepoint": 58014,
+      "fontFamily": "SiGlyph",
+      "identifier": "sos"
+    },
+    "sound": {
+      "codepoint": 58015,
+      "fontFamily": "SiGlyph",
+      "identifier": "sound"
+    },
+    "sound-mute": {
+      "codepoint": 58016,
+      "fontFamily": "SiGlyph",
+      "identifier": "soundMute"
+    },
+    "space-ship": {
+      "codepoint": 58017,
+      "fontFamily": "SiGlyph",
+      "identifier": "spaceShip"
+    },
+    "spanner": {
+      "codepoint": 58018,
+      "fontFamily": "SiGlyph",
+      "identifier": "spanner"
+    },
+    "spoon-fork": {
+      "codepoint": 58019,
+      "fontFamily": "SiGlyph",
+      "identifier": "spoonFork"
+    },
+    "spray": {
+      "codepoint": 58020,
+      "fontFamily": "SiGlyph",
+      "identifier": "spray"
+    },
+    "square": {
+      "codepoint": 58021,
+      "fontFamily": "SiGlyph",
+      "identifier": "square"
+    },
+    "square-checked": {
+      "codepoint": 58022,
+      "fontFamily": "SiGlyph",
+      "identifier": "squareChecked"
+    },
+    "square-dashed-1": {
+      "codepoint": 58023,
+      "fontFamily": "SiGlyph",
+      "identifier": "squareDashed1"
+    },
+    "square-dashed-2": {
+      "codepoint": 58024,
+      "fontFamily": "SiGlyph",
+      "identifier": "squareDashed2"
+    },
+    "square-delicious": {
+      "codepoint": 58025,
+      "fontFamily": "SiGlyph",
+      "identifier": "squareDelicious"
+    },
+    "square-eight-angle-point": {
+      "codepoint": 58026,
+      "fontFamily": "SiGlyph",
+      "identifier": "squareEightAnglePoint"
+    },
+    "square-four": {
+      "codepoint": 58027,
+      "fontFamily": "SiGlyph",
+      "identifier": "squareFour"
+    },
+    "square-four-angle-point": {
+      "codepoint": 58028,
+      "fontFamily": "SiGlyph",
+      "identifier": "squareFourAnglePoint"
+    },
+    "square-plus": {
+      "codepoint": 58029,
+      "fontFamily": "SiGlyph",
+      "identifier": "squarePlus"
+    },
+    "square-star": {
+      "codepoint": 58030,
+      "fontFamily": "SiGlyph",
+      "identifier": "squareStar"
+    },
+    "stamps": {
+      "codepoint": 58031,
+      "fontFamily": "SiGlyph",
+      "identifier": "stamps"
+    },
+    "star-cross": {
+      "codepoint": 58032,
+      "fontFamily": "SiGlyph",
+      "identifier": "starCross"
+    },
+    "star-stick": {
+      "codepoint": 58033,
+      "fontFamily": "SiGlyph",
+      "identifier": "starStick"
+    },
+    "stele": {
+      "codepoint": 58034,
+      "fontFamily": "SiGlyph",
+      "identifier": "stele"
+    },
+    "stelescope": {
+      "codepoint": 58035,
+      "fontFamily": "SiGlyph",
+      "identifier": "stelescope"
+    },
+    "stereo-jack": {
+      "codepoint": 58036,
+      "fontFamily": "SiGlyph",
+      "identifier": "stereoJack"
+    },
+    "stethoscope": {
+      "codepoint": 58037,
+      "fontFamily": "SiGlyph",
+      "identifier": "stethoscope"
+    },
+    "store": {
+      "codepoint": 58038,
+      "fontFamily": "SiGlyph",
+      "identifier": "store"
+    },
+    "stove": {
+      "codepoint": 58039,
+      "fontFamily": "SiGlyph",
+      "identifier": "stove"
+    },
+    "strawberry": {
+      "codepoint": 58040,
+      "fontFamily": "SiGlyph",
+      "identifier": "strawberry"
+    },
+    "street-2": {
+      "codepoint": 58041,
+      "fontFamily": "SiGlyph",
+      "identifier": "street2"
+    },
+    "strolley": {
+      "codepoint": 58042,
+      "fontFamily": "SiGlyph",
+      "identifier": "strolley"
+    },
+    "strolley-arrow-down": {
+      "codepoint": 58043,
+      "fontFamily": "SiGlyph",
+      "identifier": "strolleyArrowDown"
+    },
+    "strolley-arrow-up": {
+      "codepoint": 58044,
+      "fontFamily": "SiGlyph",
+      "identifier": "strolleyArrowUp"
+    },
+    "strolley-plus": {
+      "codepoint": 58045,
+      "fontFamily": "SiGlyph",
+      "identifier": "strolleyPlus"
+    },
+    "strolley-remove": {
+      "codepoint": 58046,
+      "fontFamily": "SiGlyph",
+      "identifier": "strolleyRemove"
+    },
+    "subway": {
+      "codepoint": 58047,
+      "fontFamily": "SiGlyph",
+      "identifier": "subway"
+    },
+    "suitcase": {
+      "codepoint": 58048,
+      "fontFamily": "SiGlyph",
+      "identifier": "suitcase"
+    },
+    "suitcase-person": {
+      "codepoint": 58049,
+      "fontFamily": "SiGlyph",
+      "identifier": "suitcasePerson"
+    },
+    "syringe": {
+      "codepoint": 58050,
+      "fontFamily": "SiGlyph",
+      "identifier": "syringe"
+    },
+    "t-shirt": {
+      "codepoint": 58051,
+      "fontFamily": "SiGlyph",
+      "identifier": "tShirt"
+    },
+    "tablet": {
+      "codepoint": 58052,
+      "fontFamily": "SiGlyph",
+      "identifier": "tablet"
+    },
+    "tag": {
+      "codepoint": 58053,
+      "fontFamily": "SiGlyph",
+      "identifier": "tag"
+    },
+    "tag-1": {
+      "codepoint": 58054,
+      "fontFamily": "SiGlyph",
+      "identifier": "tag1"
+    },
+    "tag-one-plus": {
+      "codepoint": 58055,
+      "fontFamily": "SiGlyph",
+      "identifier": "tagOnePlus"
+    },
+    "tag-price": {
+      "codepoint": 58056,
+      "fontFamily": "SiGlyph",
+      "identifier": "tagPrice"
+    },
+    "tank": {
+      "codepoint": 58057,
+      "fontFamily": "SiGlyph",
+      "identifier": "tank"
+    },
+    "targer": {
+      "codepoint": 58058,
+      "fontFamily": "SiGlyph",
+      "identifier": "targer"
+    },
+    "tea-cup": {
+      "codepoint": 58059,
+      "fontFamily": "SiGlyph",
+      "identifier": "teaCup"
+    },
+    "teeth": {
+      "codepoint": 58060,
+      "fontFamily": "SiGlyph",
+      "identifier": "teeth"
+    },
+    "telephone-box": {
+      "codepoint": 58061,
+      "fontFamily": "SiGlyph",
+      "identifier": "telephoneBox"
+    },
+    "telescope": {
+      "codepoint": 58062,
+      "fontFamily": "SiGlyph",
+      "identifier": "telescope"
+    },
+    "television": {
+      "codepoint": 58063,
+      "fontFamily": "SiGlyph",
+      "identifier": "television"
+    },
+    "tennis-racket-ball": {
+      "codepoint": 58064,
+      "fontFamily": "SiGlyph",
+      "identifier": "tennisRacketBall"
+    },
+    "tent-1": {
+      "codepoint": 58065,
+      "fontFamily": "SiGlyph",
+      "identifier": "tent1"
+    },
+    "tent-camp": {
+      "codepoint": 58066,
+      "fontFamily": "SiGlyph",
+      "identifier": "tentCamp"
+    },
+    "test-tube": {
+      "codepoint": 58067,
+      "fontFamily": "SiGlyph",
+      "identifier": "testTube"
+    },
+    "test-tube-2": {
+      "codepoint": 58068,
+      "fontFamily": "SiGlyph",
+      "identifier": "testTube2"
+    },
+    "test-tube-empty": {
+      "codepoint": 58069,
+      "fontFamily": "SiGlyph",
+      "identifier": "testTubeEmpty"
+    },
+    "text-search": {
+      "codepoint": 58070,
+      "fontFamily": "SiGlyph",
+      "identifier": "textSearch"
+    },
+    "thermometer": {
+      "codepoint": 58071,
+      "fontFamily": "SiGlyph",
+      "identifier": "thermometer"
+    },
+    "three-ball": {
+      "codepoint": 58072,
+      "fontFamily": "SiGlyph",
+      "identifier": "threeBall"
+    },
+    "tic-tac-toe": {
+      "codepoint": 58073,
+      "fontFamily": "SiGlyph",
+      "identifier": "ticTacToe"
+    },
+    "time-glass": {
+      "codepoint": 58074,
+      "fontFamily": "SiGlyph",
+      "identifier": "timeGlass"
+    },
+    "time-reload": {
+      "codepoint": 58075,
+      "fontFamily": "SiGlyph",
+      "identifier": "timeReload"
+    },
+    "timer": {
+      "codepoint": 58076,
+      "fontFamily": "SiGlyph",
+      "identifier": "timer"
+    },
+    "toilet": {
+      "codepoint": 58077,
+      "fontFamily": "SiGlyph",
+      "identifier": "toilet"
+    },
+    "tool-box": {
+      "codepoint": 58078,
+      "fontFamily": "SiGlyph",
+      "identifier": "toolBox"
+    },
+    "traffic-light": {
+      "codepoint": 58079,
+      "fontFamily": "SiGlyph",
+      "identifier": "trafficLight"
+    },
+    "train": {
+      "codepoint": 58080,
+      "fontFamily": "SiGlyph",
+      "identifier": "train"
+    },
+    "train-rail": {
+      "codepoint": 58081,
+      "fontFamily": "SiGlyph",
+      "identifier": "trainRail"
+    },
+    "trash": {
+      "codepoint": 58082,
+      "fontFamily": "SiGlyph",
+      "identifier": "trash"
+    },
+    "tree": {
+      "codepoint": 58083,
+      "fontFamily": "SiGlyph",
+      "identifier": "tree"
+    },
+    "trees": {
+      "codepoint": 58084,
+      "fontFamily": "SiGlyph",
+      "identifier": "trees"
+    },
+    "triangle-double-arrow-down": {
+      "codepoint": 58085,
+      "fontFamily": "SiGlyph",
+      "identifier": "triangleDoubleArrowDown"
+    },
+    "triangle-double-arrow-left": {
+      "codepoint": 58086,
+      "fontFamily": "SiGlyph",
+      "identifier": "triangleDoubleArrowLeft"
+    },
+    "triangle-double-arrow-right": {
+      "codepoint": 58087,
+      "fontFamily": "SiGlyph",
+      "identifier": "triangleDoubleArrowRight"
+    },
+    "triangle-double-arrow-up": {
+      "codepoint": 58088,
+      "fontFamily": "SiGlyph",
+      "identifier": "triangleDoubleArrowUp"
+    },
+    "triangle-down": {
+      "codepoint": 58089,
+      "fontFamily": "SiGlyph",
+      "identifier": "triangleDown"
+    },
+    "triangle-left": {
+      "codepoint": 58090,
+      "fontFamily": "SiGlyph",
+      "identifier": "triangleLeft"
+    },
+    "triangle-right": {
+      "codepoint": 58091,
+      "fontFamily": "SiGlyph",
+      "identifier": "triangleRight"
+    },
+    "triangle-up": {
+      "codepoint": 58092,
+      "fontFamily": "SiGlyph",
+      "identifier": "triangleUp"
+    },
+    "trolley-2": {
+      "codepoint": 58093,
+      "fontFamily": "SiGlyph",
+      "identifier": "trolley2"
+    },
+    "trolley-arrow-down": {
+      "codepoint": 58094,
+      "fontFamily": "SiGlyph",
+      "identifier": "trolleyArrowDown"
+    },
+    "trolley-arrow-up": {
+      "codepoint": 58095,
+      "fontFamily": "SiGlyph",
+      "identifier": "trolleyArrowUp"
+    },
+    "trolley-briefcase": {
+      "codepoint": 58096,
+      "fontFamily": "SiGlyph",
+      "identifier": "trolleyBriefcase"
+    },
+    "trolley-error": {
+      "codepoint": 58097,
+      "fontFamily": "SiGlyph",
+      "identifier": "trolleyError"
+    },
+    "trolley-full": {
+      "codepoint": 58098,
+      "fontFamily": "SiGlyph",
+      "identifier": "trolleyFull"
+    },
+    "trolley-plus": {
+      "codepoint": 58099,
+      "fontFamily": "SiGlyph",
+      "identifier": "trolleyPlus"
+    },
+    "trolley-remove": {
+      "codepoint": 58100,
+      "fontFamily": "SiGlyph",
+      "identifier": "trolleyRemove"
+    },
+    "truck": {
+      "codepoint": 58101,
+      "fontFamily": "SiGlyph",
+      "identifier": "truck"
+    },
+    "trumpet": {
+      "codepoint": 58102,
+      "fontFamily": "SiGlyph",
+      "identifier": "trumpet"
+    },
+    "turn-off": {
+      "codepoint": 58103,
+      "fontFamily": "SiGlyph",
+      "identifier": "turnOff"
+    },
+    "two-arrow-down": {
+      "codepoint": 58104,
+      "fontFamily": "SiGlyph",
+      "identifier": "twoArrowDown"
+    },
+    "two-arrow-in-down-up": {
+      "codepoint": 58105,
+      "fontFamily": "SiGlyph",
+      "identifier": "twoArrowInDownUp"
+    },
+    "two-arrow-in-left-right": {
+      "codepoint": 58106,
+      "fontFamily": "SiGlyph",
+      "identifier": "twoArrowInLeftRight"
+    },
+    "two-arrow-left": {
+      "codepoint": 58107,
+      "fontFamily": "SiGlyph",
+      "identifier": "twoArrowLeft"
+    },
+    "two-arrow-right": {
+      "codepoint": 58108,
+      "fontFamily": "SiGlyph",
+      "identifier": "twoArrowRight"
+    },
+    "typewriter": {
+      "codepoint": 58109,
+      "fontFamily": "SiGlyph",
+      "identifier": "typewriter"
+    },
+    "umberlla-chair": {
+      "codepoint": 58110,
+      "fontFamily": "SiGlyph",
+      "identifier": "umberllaChair"
+    },
+    "umbrella-close": {
+      "codepoint": 58111,
+      "fontFamily": "SiGlyph",
+      "identifier": "umbrellaClose"
+    },
+    "umbrella-open": {
+      "codepoint": 58112,
+      "fontFamily": "SiGlyph",
+      "identifier": "umbrellaOpen"
+    },
+    "umbrella-sea": {
+      "codepoint": 58113,
+      "fontFamily": "SiGlyph",
+      "identifier": "umbrellaSea"
+    },
+    "upstair": {
+      "codepoint": 58114,
+      "fontFamily": "SiGlyph",
+      "identifier": "upstair"
+    },
+    "upwards-arrow-to-bar": {
+      "codepoint": 58115,
+      "fontFamily": "SiGlyph",
+      "identifier": "upwardsArrowToBar"
+    },
+    "upwards-arrow-with-loop": {
+      "codepoint": 58116,
+      "fontFamily": "SiGlyph",
+      "identifier": "upwardsArrowWithLoop"
+    },
+    "usb": {
+      "codepoint": 58117,
+      "fontFamily": "SiGlyph",
+      "identifier": "usb"
+    },
+    "view": {
+      "codepoint": 58118,
+      "fontFamily": "SiGlyph",
+      "identifier": "view"
+    },
+    "wacom-tablet": {
+      "codepoint": 58119,
+      "fontFamily": "SiGlyph",
+      "identifier": "wacomTablet"
+    },
+    "wall": {
+      "codepoint": 58120,
+      "fontFamily": "SiGlyph",
+      "identifier": "wall"
+    },
+    "wallet": {
+      "codepoint": 58121,
+      "fontFamily": "SiGlyph",
+      "identifier": "wallet"
+    },
+    "wash-machine": {
+      "codepoint": 58122,
+      "fontFamily": "SiGlyph",
+      "identifier": "washMachine"
+    },
+    "wash-machine-2": {
+      "codepoint": 58123,
+      "fontFamily": "SiGlyph",
+      "identifier": "washMachine2"
+    },
+    "watch": {
+      "codepoint": 58124,
+      "fontFamily": "SiGlyph",
+      "identifier": "watch"
+    },
+    "webcam": {
+      "codepoint": 58125,
+      "fontFamily": "SiGlyph",
+      "identifier": "webcam"
+    },
+    "weight-down": {
+      "codepoint": 58126,
+      "fontFamily": "SiGlyph",
+      "identifier": "weightDown"
+    },
+    "weight-kilograms": {
+      "codepoint": 58127,
+      "fontFamily": "SiGlyph",
+      "identifier": "weightKilograms"
+    },
+    "weight-up": {
+      "codepoint": 58128,
+      "fontFamily": "SiGlyph",
+      "identifier": "weightUp"
+    },
+    "wheel-chair": {
+      "codepoint": 58129,
+      "fontFamily": "SiGlyph",
+      "identifier": "wheelChair"
+    },
+    "wheel-steel": {
+      "codepoint": 58130,
+      "fontFamily": "SiGlyph",
+      "identifier": "wheelSteel"
+    },
+    "wieght": {
+      "codepoint": 58131,
+      "fontFamily": "SiGlyph",
+      "identifier": "wieght"
+    },
+    "wifi-1": {
+      "codepoint": 58132,
+      "fontFamily": "SiGlyph",
+      "identifier": "wifi1"
+    },
+    "wind-turbines": {
+      "codepoint": 58133,
+      "fontFamily": "SiGlyph",
+      "identifier": "windTurbines"
+    },
+    "window": {
+      "codepoint": 58134,
+      "fontFamily": "SiGlyph",
+      "identifier": "window"
+    },
+    "wood-stove": {
+      "codepoint": 58135,
+      "fontFamily": "SiGlyph",
+      "identifier": "woodStove"
+    },
+    "wrench": {
+      "codepoint": 58136,
+      "fontFamily": "SiGlyph",
+      "identifier": "wrench"
+    },
+    "wrench-screwdriver": {
+      "codepoint": 58137,
+      "fontFamily": "SiGlyph",
+      "identifier": "wrenchScrewdriver"
+    },
+    "yen": {
+      "codepoint": 58138,
+      "fontFamily": "SiGlyph",
+      "identifier": "yen"
+    },
+    "ying-yang": {
+      "codepoint": 58139,
+      "fontFamily": "SiGlyph",
+      "identifier": "yingYang"
+    },
+    "zip": {
+      "codepoint": 58140,
+      "fontFamily": "SiGlyph",
+      "identifier": "zip"
+    },
+    "zoom-in": {
+      "codepoint": 58141,
+      "fontFamily": "SiGlyph",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 58142,
+      "fontFamily": "SiGlyph",
+      "identifier": "zoomOut"
+    }
+  }
+}

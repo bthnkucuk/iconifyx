@@ -1,0 +1,28 @@
+name: iconifyx_material_symbols_light
+description: >-
+  Material Symbols Light icons from Iconify, packaged for Flutter (15997 icons, Apache 2.0 license).
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+
+flutter:
+  uses-material-design: false
+  fonts:
+    - family: MaterialSymbolsLight
+      fonts:
+        - asset: assets/fonts/MaterialSymbolsLight.ttf
+    - family: MaterialSymbolsLight_2
+      fonts:
+        - asset: assets/fonts/MaterialSymbolsLight_2.ttf
+    - family: MaterialSymbolsLight_3
+      fonts:
+        - asset: assets/fonts/MaterialSymbolsLight_3.ttf

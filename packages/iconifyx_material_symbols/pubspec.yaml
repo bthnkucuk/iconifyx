@@ -1,0 +1,31 @@
+name: iconifyx_material_symbols
+description: >-
+  Material Symbols icons from Iconify, packaged for Flutter (18575 icons, Apache 2.0 license).
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+
+flutter:
+  uses-material-design: false
+  fonts:
+    - family: MaterialSymbols
+      fonts:
+        - asset: assets/fonts/MaterialSymbols.ttf
+    - family: MaterialSymbols_2
+      fonts:
+        - asset: assets/fonts/MaterialSymbols_2.ttf
+    - family: MaterialSymbols_3
+      fonts:
+        - asset: assets/fonts/MaterialSymbols_3.ttf
+    - family: MaterialSymbols_4
+      fonts:
+        - asset: assets/fonts/MaterialSymbols_4.ttf

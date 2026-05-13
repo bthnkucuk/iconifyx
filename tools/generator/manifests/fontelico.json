@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "prefix": "fontelico",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": null,
+  "subPackage": "iconifyx_fontelico",
+  "info": {
+    "name": "Fontelico",
+    "author": {
+      "name": "Fontello",
+      "url": "https://github.com/fontello/fontelico.font"
+    },
+    "license": {
+      "title": "CC BY SA",
+      "spdx": "CC-BY-SA-3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "total": 34
+  },
+  "fonts": [
+    {
+      "family": "Fontelico",
+      "nextCodepoint": 57378,
+      "iconCount": 34
+    }
+  ],
+  "icons": {
+    "chrome": {
+      "codepoint": 57344,
+      "fontFamily": "Fontelico",
+      "identifier": "chrome"
+    },
+    "crown": {
+      "codepoint": 57345,
+      "fontFamily": "Fontelico",
+      "identifier": "crown"
+    },
+    "crown-minus": {
+      "codepoint": 57346,
+      "fontFamily": "Fontelico",
+      "identifier": "crownMinus"
+    },
+    "crown-plus": {
+      "codepoint": 57347,
+      "fontFamily": "Fontelico",
+      "identifier": "crownPlus"
+    },
+    "emo-angry": {
+      "codepoint": 57348,
+      "fontFamily": "Fontelico",
+      "identifier": "emoAngry"
+    },
+    "emo-beer": {
+      "codepoint": 57349,
+      "fontFamily": "Fontelico",
+      "identifier": "emoBeer"
+    },
+    "emo-coffee": {
+      "codepoint": 57350,
+      "fontFamily": "Fontelico",
+      "identifier": "emoCoffee"
+    },
+    "emo-cry": {
+      "codepoint": 57351,
+      "fontFamily": "Fontelico",
+      "identifier": "emoCry"
+    },
+    "emo-devil": {
+      "codepoint": 57352,
+      "fontFamily": "Fontelico",
+      "identifier": "emoDevil"
+    },
+    "emo-displeased": {
+      "codepoint": 57353,
+      "fontFamily": "Fontelico",
+      "identifier": "emoDispleased"
+    },
+    "emo-grin": {
+      "codepoint": 57354,
+      "fontFamily": "Fontelico",
+      "identifier": "emoGrin"
+    },
+    "emo-happy": {
+      "codepoint": 57355,
+      "fontFamily": "Fontelico",
+      "identifier": "emoHappy"
+    },
+    "emo-laugh": {
+      "codepoint": 57356,
+      "fontFamily": "Fontelico",
+      "identifier": "emoLaugh"
+    },
+    "emo-saint": {
+      "codepoint": 57357,
+      "fontFamily": "Fontelico",
+      "identifier": "emoSaint"
+    },
+    "emo-shoot": {
+      "codepoint": 57358,
+      "fontFamily": "Fontelico",
+      "identifier": "emoShoot"
+    },
+    "emo-sleep": {
+      "codepoint": 57359,
+      "fontFamily": "Fontelico",
+      "identifier": "emoSleep"
+    },
+    "emo-squint": {
+      "codepoint": 57360,
+      "fontFamily": "Fontelico",
+      "identifier": "emoSquint"
+    },
+    "emo-sunglasses": {
+      "codepoint": 57361,
+      "fontFamily": "Fontelico",
+      "identifier": "emoSunglasses"
+    },
+    "emo-surprised": {
+      "codepoint": 57362,
+      "fontFamily": "Fontelico",
+      "identifier": "emoSurprised"
+    },
+    "emo-thumbsup": {
+      "codepoint": 57363,
+      "fontFamily": "Fontelico",
+      "identifier": "emoThumbsup"
+    },
+    "emo-tongue": {
+      "codepoint": 57364,
+      "fontFamily": "Fontelico",
+      "identifier": "emoTongue"
+    },
+    "emo-unhappy": {
+      "codepoint": 57365,
+      "fontFamily": "Fontelico",
+      "identifier": "emoUnhappy"
+    },
+    "emo-wink": {
+      "codepoint": 57366,
+      "fontFamily": "Fontelico",
+      "identifier": "emoWink"
+    },
+    "emo-wink2": {
+      "codepoint": 57367,
+      "fontFamily": "Fontelico",
+      "identifier": "emoWink2"
+    },
+    "firefox": {
+      "codepoint": 57368,
+      "fontFamily": "Fontelico",
+      "identifier": "firefox"
+    },
+    "ie": {
+      "codepoint": 57369,
+      "fontFamily": "Fontelico",
+      "identifier": "ie"
+    },
+    "marquee": {
+      "codepoint": 57370,
+      "fontFamily": "Fontelico",
+      "identifier": "marquee"
+    },
+    "opera": {
+      "codepoint": 57371,
+      "fontFamily": "Fontelico",
+      "identifier": "opera"
+    },
+    "spin1": {
+      "codepoint": 57372,
+      "fontFamily": "Fontelico",
+      "identifier": "spin1"
+    },
+    "spin2": {
+      "codepoint": 57373,
+      "fontFamily": "Fontelico",
+      "identifier": "spin2"
+    },
+    "spin3": {
+      "codepoint": 57374,
+      "fontFamily": "Fontelico",
+      "identifier": "spin3"
+    },
+    "spin4": {
+      "codepoint": 57375,
+      "fontFamily": "Fontelico",
+      "identifier": "spin4"
+    },
+    "spin5": {
+      "codepoint": 57376,
+      "fontFamily": "Fontelico",
+      "identifier": "spin5"
+    },
+    "spin6": {
+      "codepoint": 57377,
+      "fontFamily": "Fontelico",
+      "identifier": "spin6"
+    }
+  }
+}

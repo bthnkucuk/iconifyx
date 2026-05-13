@@ -1,0 +1,3105 @@
+{
+  "schemaVersion": 1,
+  "prefix": "fontisto",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Archive / Unmaintained",
+  "subPackage": "iconifyx_fontisto",
+  "info": {
+    "name": "Fontisto",
+    "author": {
+      "name": "Kenan Gündoğan",
+      "url": "https://github.com/kenangundogan/fontisto"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/kenangundogan/fontisto/blob/master/LICENSE"
+    },
+    "total": 615
+  },
+  "fonts": [
+    {
+      "family": "Fontisto",
+      "nextCodepoint": 57959,
+      "iconCount": 615
+    }
+  ],
+  "icons": {
+    "500px": {
+      "codepoint": 57344,
+      "fontFamily": "Fontisto",
+      "identifier": "n500px"
+    },
+    "acrobat-reader": {
+      "codepoint": 57345,
+      "fontFamily": "Fontisto",
+      "identifier": "acrobatReader"
+    },
+    "adjust": {
+      "codepoint": 57346,
+      "fontFamily": "Fontisto",
+      "identifier": "adjust"
+    },
+    "adobe": {
+      "codepoint": 57347,
+      "fontFamily": "Fontisto",
+      "identifier": "adobe"
+    },
+    "aids": {
+      "codepoint": 57348,
+      "fontFamily": "Fontisto",
+      "identifier": "aids"
+    },
+    "airplay": {
+      "codepoint": 57349,
+      "fontFamily": "Fontisto",
+      "identifier": "airplay"
+    },
+    "algolia": {
+      "codepoint": 57350,
+      "fontFamily": "Fontisto",
+      "identifier": "algolia"
+    },
+    "amazon": {
+      "codepoint": 57351,
+      "fontFamily": "Fontisto",
+      "identifier": "amazon"
+    },
+    "ambulance": {
+      "codepoint": 57352,
+      "fontFamily": "Fontisto",
+      "identifier": "ambulance"
+    },
+    "american-express": {
+      "codepoint": 57353,
+      "fontFamily": "Fontisto",
+      "identifier": "americanExpress"
+    },
+    "american-sign-language-interpreting": {
+      "codepoint": 57354,
+      "fontFamily": "Fontisto",
+      "identifier": "americanSignLanguageInterpreting"
+    },
+    "ampproject": {
+      "codepoint": 57355,
+      "fontFamily": "Fontisto",
+      "identifier": "ampproject"
+    },
+    "anchor": {
+      "codepoint": 57356,
+      "fontFamily": "Fontisto",
+      "identifier": "anchor"
+    },
+    "android": {
+      "codepoint": 57357,
+      "fontFamily": "Fontisto",
+      "identifier": "android"
+    },
+    "angelist": {
+      "codepoint": 57358,
+      "fontFamily": "Fontisto",
+      "identifier": "angelist"
+    },
+    "angle-dobule-down": {
+      "codepoint": 57359,
+      "fontFamily": "Fontisto",
+      "identifier": "angleDobuleDown"
+    },
+    "angle-dobule-left": {
+      "codepoint": 57360,
+      "fontFamily": "Fontisto",
+      "identifier": "angleDobuleLeft"
+    },
+    "angle-dobule-right": {
+      "codepoint": 57361,
+      "fontFamily": "Fontisto",
+      "identifier": "angleDobuleRight"
+    },
+    "angle-dobule-up": {
+      "codepoint": 57362,
+      "fontFamily": "Fontisto",
+      "identifier": "angleDobuleUp"
+    },
+    "angle-down": {
+      "codepoint": 57363,
+      "fontFamily": "Fontisto",
+      "identifier": "angleDown"
+    },
+    "angle-left": {
+      "codepoint": 57364,
+      "fontFamily": "Fontisto",
+      "identifier": "angleLeft"
+    },
+    "angle-right": {
+      "codepoint": 57365,
+      "fontFamily": "Fontisto",
+      "identifier": "angleRight"
+    },
+    "angle-up": {
+      "codepoint": 57366,
+      "fontFamily": "Fontisto",
+      "identifier": "angleUp"
+    },
+    "angularjs": {
+      "codepoint": 57367,
+      "fontFamily": "Fontisto",
+      "identifier": "angularjs"
+    },
+    "app-store": {
+      "codepoint": 57368,
+      "fontFamily": "Fontisto",
+      "identifier": "appStore"
+    },
+    "apple": {
+      "codepoint": 57369,
+      "fontFamily": "Fontisto",
+      "identifier": "apple"
+    },
+    "apple-music": {
+      "codepoint": 57370,
+      "fontFamily": "Fontisto",
+      "identifier": "appleMusic"
+    },
+    "apple-pay": {
+      "codepoint": 57371,
+      "fontFamily": "Fontisto",
+      "identifier": "applePay"
+    },
+    "archive": {
+      "codepoint": 57372,
+      "fontFamily": "Fontisto",
+      "identifier": "archive"
+    },
+    "area-chart": {
+      "codepoint": 57373,
+      "fontFamily": "Fontisto",
+      "identifier": "areaChart"
+    },
+    "arrow-down": {
+      "codepoint": 57374,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-l": {
+      "codepoint": 57375,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowDownL"
+    },
+    "arrow-expand": {
+      "codepoint": 57376,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowExpand"
+    },
+    "arrow-h": {
+      "codepoint": 57377,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowH"
+    },
+    "arrow-left": {
+      "codepoint": 57378,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-l": {
+      "codepoint": 57379,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowLeftL"
+    },
+    "arrow-move": {
+      "codepoint": 57380,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowMove"
+    },
+    "arrow-resize": {
+      "codepoint": 57381,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowResize"
+    },
+    "arrow-return-left": {
+      "codepoint": 57382,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowReturnLeft"
+    },
+    "arrow-return-right": {
+      "codepoint": 57383,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowReturnRight"
+    },
+    "arrow-right": {
+      "codepoint": 57384,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-l": {
+      "codepoint": 57385,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowRightL"
+    },
+    "arrow-swap": {
+      "codepoint": 57386,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowSwap"
+    },
+    "arrow-up": {
+      "codepoint": 57387,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-l": {
+      "codepoint": 57388,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowUpL"
+    },
+    "arrow-v": {
+      "codepoint": 57389,
+      "fontFamily": "Fontisto",
+      "identifier": "arrowV"
+    },
+    "asterisk": {
+      "codepoint": 57390,
+      "fontFamily": "Fontisto",
+      "identifier": "asterisk"
+    },
+    "at": {
+      "codepoint": 57391,
+      "fontFamily": "Fontisto",
+      "identifier": "at"
+    },
+    "atlassian": {
+      "codepoint": 57392,
+      "fontFamily": "Fontisto",
+      "identifier": "atlassian"
+    },
+    "atom": {
+      "codepoint": 57393,
+      "fontFamily": "Fontisto",
+      "identifier": "atom"
+    },
+    "audio-description": {
+      "codepoint": 57394,
+      "fontFamily": "Fontisto",
+      "identifier": "audioDescription"
+    },
+    "automobile": {
+      "codepoint": 57395,
+      "fontFamily": "Fontisto",
+      "identifier": "automobile"
+    },
+    "aws": {
+      "codepoint": 57396,
+      "fontFamily": "Fontisto",
+      "identifier": "aws"
+    },
+    "babel": {
+      "codepoint": 57397,
+      "fontFamily": "Fontisto",
+      "identifier": "babel"
+    },
+    "backward": {
+      "codepoint": 57398,
+      "fontFamily": "Fontisto",
+      "identifier": "backward"
+    },
+    "baidu": {
+      "codepoint": 57399,
+      "fontFamily": "Fontisto",
+      "identifier": "baidu"
+    },
+    "ban": {
+      "codepoint": 57400,
+      "fontFamily": "Fontisto",
+      "identifier": "ban"
+    },
+    "bandage": {
+      "codepoint": 57401,
+      "fontFamily": "Fontisto",
+      "identifier": "bandage"
+    },
+    "bar-chart": {
+      "codepoint": 57402,
+      "fontFamily": "Fontisto",
+      "identifier": "barChart"
+    },
+    "battery-empty": {
+      "codepoint": 57403,
+      "fontFamily": "Fontisto",
+      "identifier": "batteryEmpty"
+    },
+    "battery-full": {
+      "codepoint": 57404,
+      "fontFamily": "Fontisto",
+      "identifier": "batteryFull"
+    },
+    "battery-half": {
+      "codepoint": 57405,
+      "fontFamily": "Fontisto",
+      "identifier": "batteryHalf"
+    },
+    "battery-quarter": {
+      "codepoint": 57406,
+      "fontFamily": "Fontisto",
+      "identifier": "batteryQuarter"
+    },
+    "battery-three-quarters": {
+      "codepoint": 57407,
+      "fontFamily": "Fontisto",
+      "identifier": "batteryThreeQuarters"
+    },
+    "beach-slipper": {
+      "codepoint": 57408,
+      "fontFamily": "Fontisto",
+      "identifier": "beachSlipper"
+    },
+    "bed-patient": {
+      "codepoint": 57409,
+      "fontFamily": "Fontisto",
+      "identifier": "bedPatient"
+    },
+    "behance": {
+      "codepoint": 57410,
+      "fontFamily": "Fontisto",
+      "identifier": "behance"
+    },
+    "bell": {
+      "codepoint": 57411,
+      "fontFamily": "Fontisto",
+      "identifier": "bell"
+    },
+    "bell-alt": {
+      "codepoint": 57412,
+      "fontFamily": "Fontisto",
+      "identifier": "bellAlt"
+    },
+    "bicycle": {
+      "codepoint": 57413,
+      "fontFamily": "Fontisto",
+      "identifier": "bicycle"
+    },
+    "bing": {
+      "codepoint": 57414,
+      "fontFamily": "Fontisto",
+      "identifier": "bing"
+    },
+    "bitbucket": {
+      "codepoint": 57415,
+      "fontFamily": "Fontisto",
+      "identifier": "bitbucket"
+    },
+    "bitcoin": {
+      "codepoint": 57416,
+      "fontFamily": "Fontisto",
+      "identifier": "bitcoin"
+    },
+    "blind": {
+      "codepoint": 57417,
+      "fontFamily": "Fontisto",
+      "identifier": "blind"
+    },
+    "blogger": {
+      "codepoint": 57418,
+      "fontFamily": "Fontisto",
+      "identifier": "blogger"
+    },
+    "blood": {
+      "codepoint": 57419,
+      "fontFamily": "Fontisto",
+      "identifier": "blood"
+    },
+    "blood-drop": {
+      "codepoint": 57420,
+      "fontFamily": "Fontisto",
+      "identifier": "bloodDrop"
+    },
+    "blood-test": {
+      "codepoint": 57421,
+      "fontFamily": "Fontisto",
+      "identifier": "bloodTest"
+    },
+    "bluetooth-b": {
+      "codepoint": 57422,
+      "fontFamily": "Fontisto",
+      "identifier": "bluetoothB"
+    },
+    "bold": {
+      "codepoint": 57423,
+      "fontFamily": "Fontisto",
+      "identifier": "bold"
+    },
+    "bookmark": {
+      "codepoint": 57424,
+      "fontFamily": "Fontisto",
+      "identifier": "bookmark"
+    },
+    "bookmark-alt": {
+      "codepoint": 57425,
+      "fontFamily": "Fontisto",
+      "identifier": "bookmarkAlt"
+    },
+    "bower": {
+      "codepoint": 57426,
+      "fontFamily": "Fontisto",
+      "identifier": "bower"
+    },
+    "braille": {
+      "codepoint": 57427,
+      "fontFamily": "Fontisto",
+      "identifier": "braille"
+    },
+    "broken-link": {
+      "codepoint": 57428,
+      "fontFamily": "Fontisto",
+      "identifier": "brokenLink"
+    },
+    "bug": {
+      "codepoint": 57429,
+      "fontFamily": "Fontisto",
+      "identifier": "bug"
+    },
+    "bus": {
+      "codepoint": 57430,
+      "fontFamily": "Fontisto",
+      "identifier": "bus"
+    },
+    "bus-ticket": {
+      "codepoint": 57431,
+      "fontFamily": "Fontisto",
+      "identifier": "busTicket"
+    },
+    "calculator": {
+      "codepoint": 57432,
+      "fontFamily": "Fontisto",
+      "identifier": "calculator"
+    },
+    "calendar": {
+      "codepoint": 57433,
+      "fontFamily": "Fontisto",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57434,
+      "fontFamily": "Fontisto",
+      "identifier": "camera"
+    },
+    "car": {
+      "codepoint": 57435,
+      "fontFamily": "Fontisto",
+      "identifier": "car"
+    },
+    "caret-down": {
+      "codepoint": 57436,
+      "fontFamily": "Fontisto",
+      "identifier": "caretDown"
+    },
+    "caret-left": {
+      "codepoint": 57437,
+      "fontFamily": "Fontisto",
+      "identifier": "caretLeft"
+    },
+    "caret-right": {
+      "codepoint": 57438,
+      "fontFamily": "Fontisto",
+      "identifier": "caretRight"
+    },
+    "caret-up": {
+      "codepoint": 57439,
+      "fontFamily": "Fontisto",
+      "identifier": "caretUp"
+    },
+    "center-align": {
+      "codepoint": 57440,
+      "fontFamily": "Fontisto",
+      "identifier": "centerAlign"
+    },
+    "check": {
+      "codepoint": 57441,
+      "fontFamily": "Fontisto",
+      "identifier": "check"
+    },
+    "checkbox-active": {
+      "codepoint": 57442,
+      "fontFamily": "Fontisto",
+      "identifier": "checkboxActive"
+    },
+    "checkbox-passive": {
+      "codepoint": 57443,
+      "fontFamily": "Fontisto",
+      "identifier": "checkboxPassive"
+    },
+    "chrome": {
+      "codepoint": 57444,
+      "fontFamily": "Fontisto",
+      "identifier": "chrome"
+    },
+    "circle-o-notch": {
+      "codepoint": 57445,
+      "fontFamily": "Fontisto",
+      "identifier": "circleONotch"
+    },
+    "clock": {
+      "codepoint": 57446,
+      "fontFamily": "Fontisto",
+      "identifier": "clock"
+    },
+    "close": {
+      "codepoint": 57447,
+      "fontFamily": "Fontisto",
+      "identifier": "close"
+    },
+    "close-a": {
+      "codepoint": 57448,
+      "fontFamily": "Fontisto",
+      "identifier": "closeA"
+    },
+    "cloud-down": {
+      "codepoint": 57449,
+      "fontFamily": "Fontisto",
+      "identifier": "cloudDown"
+    },
+    "cloud-refresh": {
+      "codepoint": 57450,
+      "fontFamily": "Fontisto",
+      "identifier": "cloudRefresh"
+    },
+    "cloud-up": {
+      "codepoint": 57451,
+      "fontFamily": "Fontisto",
+      "identifier": "cloudUp"
+    },
+    "cloudflare": {
+      "codepoint": 57452,
+      "fontFamily": "Fontisto",
+      "identifier": "cloudflare"
+    },
+    "cloudy": {
+      "codepoint": 57453,
+      "fontFamily": "Fontisto",
+      "identifier": "cloudy"
+    },
+    "cloudy-gusts": {
+      "codepoint": 57454,
+      "fontFamily": "Fontisto",
+      "identifier": "cloudyGusts"
+    },
+    "cocktail": {
+      "codepoint": 57455,
+      "fontFamily": "Fontisto",
+      "identifier": "cocktail"
+    },
+    "cocoapods": {
+      "codepoint": 57456,
+      "fontFamily": "Fontisto",
+      "identifier": "cocoapods"
+    },
+    "code": {
+      "codepoint": 57457,
+      "fontFamily": "Fontisto",
+      "identifier": "code"
+    },
+    "codepen": {
+      "codepoint": 57458,
+      "fontFamily": "Fontisto",
+      "identifier": "codepen"
+    },
+    "coffeescript": {
+      "codepoint": 57459,
+      "fontFamily": "Fontisto",
+      "identifier": "coffeescript"
+    },
+    "columns": {
+      "codepoint": 57460,
+      "fontFamily": "Fontisto",
+      "identifier": "columns"
+    },
+    "comment": {
+      "codepoint": 57461,
+      "fontFamily": "Fontisto",
+      "identifier": "comment"
+    },
+    "commenting": {
+      "codepoint": 57462,
+      "fontFamily": "Fontisto",
+      "identifier": "commenting"
+    },
+    "comments": {
+      "codepoint": 57463,
+      "fontFamily": "Fontisto",
+      "identifier": "comments"
+    },
+    "compass": {
+      "codepoint": 57464,
+      "fontFamily": "Fontisto",
+      "identifier": "compass"
+    },
+    "compass-alt": {
+      "codepoint": 57465,
+      "fontFamily": "Fontisto",
+      "identifier": "compassAlt"
+    },
+    "composer": {
+      "codepoint": 57466,
+      "fontFamily": "Fontisto",
+      "identifier": "composer"
+    },
+    "confused": {
+      "codepoint": 57467,
+      "fontFamily": "Fontisto",
+      "identifier": "confused"
+    },
+    "copy": {
+      "codepoint": 57468,
+      "fontFamily": "Fontisto",
+      "identifier": "copy"
+    },
+    "cpanel": {
+      "codepoint": 57469,
+      "fontFamily": "Fontisto",
+      "identifier": "cpanel"
+    },
+    "credit-card": {
+      "codepoint": 57470,
+      "fontFamily": "Fontisto",
+      "identifier": "creditCard"
+    },
+    "crop": {
+      "codepoint": 57471,
+      "fontFamily": "Fontisto",
+      "identifier": "crop"
+    },
+    "crosshairs": {
+      "codepoint": 57472,
+      "fontFamily": "Fontisto",
+      "identifier": "crosshairs"
+    },
+    "css3": {
+      "codepoint": 57473,
+      "fontFamily": "Fontisto",
+      "identifier": "css3"
+    },
+    "cursor": {
+      "codepoint": 57474,
+      "fontFamily": "Fontisto",
+      "identifier": "cursor"
+    },
+    "curve": {
+      "codepoint": 57475,
+      "fontFamily": "Fontisto",
+      "identifier": "curve"
+    },
+    "dailymotion": {
+      "codepoint": 57476,
+      "fontFamily": "Fontisto",
+      "identifier": "dailymotion"
+    },
+    "database": {
+      "codepoint": 57477,
+      "fontFamily": "Fontisto",
+      "identifier": "database"
+    },
+    "date": {
+      "codepoint": 57478,
+      "fontFamily": "Fontisto",
+      "identifier": "date"
+    },
+    "day-cloudy": {
+      "codepoint": 57479,
+      "fontFamily": "Fontisto",
+      "identifier": "dayCloudy"
+    },
+    "day-haze": {
+      "codepoint": 57480,
+      "fontFamily": "Fontisto",
+      "identifier": "dayHaze"
+    },
+    "day-lightning": {
+      "codepoint": 57481,
+      "fontFamily": "Fontisto",
+      "identifier": "dayLightning"
+    },
+    "day-rain": {
+      "codepoint": 57482,
+      "fontFamily": "Fontisto",
+      "identifier": "dayRain"
+    },
+    "day-snow": {
+      "codepoint": 57483,
+      "fontFamily": "Fontisto",
+      "identifier": "daySnow"
+    },
+    "day-sunny": {
+      "codepoint": 57484,
+      "fontFamily": "Fontisto",
+      "identifier": "daySunny"
+    },
+    "deaf": {
+      "codepoint": 57485,
+      "fontFamily": "Fontisto",
+      "identifier": "deaf"
+    },
+    "delicious": {
+      "codepoint": 57486,
+      "fontFamily": "Fontisto",
+      "identifier": "delicious"
+    },
+    "deskpro": {
+      "codepoint": 57487,
+      "fontFamily": "Fontisto",
+      "identifier": "deskpro"
+    },
+    "desktop": {
+      "codepoint": 57488,
+      "fontFamily": "Fontisto",
+      "identifier": "desktop"
+    },
+    "deviantart": {
+      "codepoint": 57489,
+      "fontFamily": "Fontisto",
+      "identifier": "deviantart"
+    },
+    "digg": {
+      "codepoint": 57490,
+      "fontFamily": "Fontisto",
+      "identifier": "digg"
+    },
+    "dinners-club": {
+      "codepoint": 57491,
+      "fontFamily": "Fontisto",
+      "identifier": "dinnersClub"
+    },
+    "direction-sign": {
+      "codepoint": 57492,
+      "fontFamily": "Fontisto",
+      "identifier": "directionSign"
+    },
+    "discord": {
+      "codepoint": 57493,
+      "fontFamily": "Fontisto",
+      "identifier": "discord"
+    },
+    "discourse": {
+      "codepoint": 57494,
+      "fontFamily": "Fontisto",
+      "identifier": "discourse"
+    },
+    "discover": {
+      "codepoint": 57495,
+      "fontFamily": "Fontisto",
+      "identifier": "discover"
+    },
+    "dislike": {
+      "codepoint": 57496,
+      "fontFamily": "Fontisto",
+      "identifier": "dislike"
+    },
+    "disqus": {
+      "codepoint": 57497,
+      "fontFamily": "Fontisto",
+      "identifier": "disqus"
+    },
+    "dizzy": {
+      "codepoint": 57498,
+      "fontFamily": "Fontisto",
+      "identifier": "dizzy"
+    },
+    "dna": {
+      "codepoint": 57499,
+      "fontFamily": "Fontisto",
+      "identifier": "dna"
+    },
+    "do-not-disturb": {
+      "codepoint": 57500,
+      "fontFamily": "Fontisto",
+      "identifier": "doNotDisturb"
+    },
+    "docker": {
+      "codepoint": 57501,
+      "fontFamily": "Fontisto",
+      "identifier": "docker"
+    },
+    "doctor": {
+      "codepoint": 57502,
+      "fontFamily": "Fontisto",
+      "identifier": "doctor"
+    },
+    "dollar": {
+      "codepoint": 57503,
+      "fontFamily": "Fontisto",
+      "identifier": "dollar"
+    },
+    "download": {
+      "codepoint": 57504,
+      "fontFamily": "Fontisto",
+      "identifier": "download"
+    },
+    "dribbble": {
+      "codepoint": 57505,
+      "fontFamily": "Fontisto",
+      "identifier": "dribbble"
+    },
+    "dropbox": {
+      "codepoint": 57506,
+      "fontFamily": "Fontisto",
+      "identifier": "dropbox"
+    },
+    "drug-pack": {
+      "codepoint": 57507,
+      "fontFamily": "Fontisto",
+      "identifier": "drugPack"
+    },
+    "earth": {
+      "codepoint": 57508,
+      "fontFamily": "Fontisto",
+      "identifier": "earth"
+    },
+    "edge": {
+      "codepoint": 57509,
+      "fontFamily": "Fontisto",
+      "identifier": "edge"
+    },
+    "eject": {
+      "codepoint": 57510,
+      "fontFamily": "Fontisto",
+      "identifier": "eject"
+    },
+    "electronjs": {
+      "codepoint": 57511,
+      "fontFamily": "Fontisto",
+      "identifier": "electronjs"
+    },
+    "ellipse": {
+      "codepoint": 57512,
+      "fontFamily": "Fontisto",
+      "identifier": "ellipse"
+    },
+    "email": {
+      "codepoint": 57513,
+      "fontFamily": "Fontisto",
+      "identifier": "email"
+    },
+    "ember": {
+      "codepoint": 57514,
+      "fontFamily": "Fontisto",
+      "identifier": "ember"
+    },
+    "envato": {
+      "codepoint": 57515,
+      "fontFamily": "Fontisto",
+      "identifier": "envato"
+    },
+    "equalizer": {
+      "codepoint": 57516,
+      "fontFamily": "Fontisto",
+      "identifier": "equalizer"
+    },
+    "eraser": {
+      "codepoint": 57517,
+      "fontFamily": "Fontisto",
+      "identifier": "eraser"
+    },
+    "euro": {
+      "codepoint": 57518,
+      "fontFamily": "Fontisto",
+      "identifier": "euro"
+    },
+    "export": {
+      "codepoint": 57519,
+      "fontFamily": "Fontisto",
+      "identifier": "export_"
+    },
+    "expressionless": {
+      "codepoint": 57520,
+      "fontFamily": "Fontisto",
+      "identifier": "expressionless"
+    },
+    "eye": {
+      "codepoint": 57521,
+      "fontFamily": "Fontisto",
+      "identifier": "eye"
+    },
+    "facebook": {
+      "codepoint": 57522,
+      "fontFamily": "Fontisto",
+      "identifier": "facebook"
+    },
+    "famale": {
+      "codepoint": 57523,
+      "fontFamily": "Fontisto",
+      "identifier": "famale"
+    },
+    "favorite": {
+      "codepoint": 57524,
+      "fontFamily": "Fontisto",
+      "identifier": "favorite"
+    },
+    "fi": {
+      "codepoint": 57525,
+      "fontFamily": "Fontisto",
+      "identifier": "fi"
+    },
+    "file": {
+      "codepoint": 57526,
+      "fontFamily": "Fontisto",
+      "identifier": "file"
+    },
+    "file-1": {
+      "codepoint": 57527,
+      "fontFamily": "Fontisto",
+      "identifier": "file1"
+    },
+    "film": {
+      "codepoint": 57528,
+      "fontFamily": "Fontisto",
+      "identifier": "film"
+    },
+    "filter": {
+      "codepoint": 57529,
+      "fontFamily": "Fontisto",
+      "identifier": "filter"
+    },
+    "fire": {
+      "codepoint": 57530,
+      "fontFamily": "Fontisto",
+      "identifier": "fire"
+    },
+    "firefox": {
+      "codepoint": 57531,
+      "fontFamily": "Fontisto",
+      "identifier": "firefox"
+    },
+    "first-aid-alt": {
+      "codepoint": 57532,
+      "fontFamily": "Fontisto",
+      "identifier": "firstAidAlt"
+    },
+    "flag": {
+      "codepoint": 57533,
+      "fontFamily": "Fontisto",
+      "identifier": "flag"
+    },
+    "flash": {
+      "codepoint": 57534,
+      "fontFamily": "Fontisto",
+      "identifier": "flash"
+    },
+    "flickr": {
+      "codepoint": 57535,
+      "fontFamily": "Fontisto",
+      "identifier": "flickr"
+    },
+    "flipboard": {
+      "codepoint": 57536,
+      "fontFamily": "Fontisto",
+      "identifier": "flipboard"
+    },
+    "flotation-ring": {
+      "codepoint": 57537,
+      "fontFamily": "Fontisto",
+      "identifier": "flotationRing"
+    },
+    "fog": {
+      "codepoint": 57538,
+      "fontFamily": "Fontisto",
+      "identifier": "fog"
+    },
+    "folder": {
+      "codepoint": 57539,
+      "fontFamily": "Fontisto",
+      "identifier": "folder"
+    },
+    "font": {
+      "codepoint": 57540,
+      "fontFamily": "Fontisto",
+      "identifier": "font"
+    },
+    "fontisto": {
+      "codepoint": 57541,
+      "fontFamily": "Fontisto",
+      "identifier": "fontisto"
+    },
+    "forward": {
+      "codepoint": 57542,
+      "fontFamily": "Fontisto",
+      "identifier": "forward"
+    },
+    "foursquare": {
+      "codepoint": 57543,
+      "fontFamily": "Fontisto",
+      "identifier": "foursquare"
+    },
+    "frowning": {
+      "codepoint": 57544,
+      "fontFamily": "Fontisto",
+      "identifier": "frowning"
+    },
+    "gbp": {
+      "codepoint": 57545,
+      "fontFamily": "Fontisto",
+      "identifier": "gbp"
+    },
+    "genderless": {
+      "codepoint": 57546,
+      "fontFamily": "Fontisto",
+      "identifier": "genderless"
+    },
+    "gg": {
+      "codepoint": 57547,
+      "fontFamily": "Fontisto",
+      "identifier": "gg"
+    },
+    "git": {
+      "codepoint": 57548,
+      "fontFamily": "Fontisto",
+      "identifier": "git"
+    },
+    "github": {
+      "codepoint": 57549,
+      "fontFamily": "Fontisto",
+      "identifier": "github"
+    },
+    "gitlab": {
+      "codepoint": 57550,
+      "fontFamily": "Fontisto",
+      "identifier": "gitlab"
+    },
+    "google": {
+      "codepoint": 57551,
+      "fontFamily": "Fontisto",
+      "identifier": "google"
+    },
+    "google-drive": {
+      "codepoint": 57552,
+      "fontFamily": "Fontisto",
+      "identifier": "googleDrive"
+    },
+    "google-play": {
+      "codepoint": 57553,
+      "fontFamily": "Fontisto",
+      "identifier": "googlePlay"
+    },
+    "google-plus": {
+      "codepoint": 57554,
+      "fontFamily": "Fontisto",
+      "identifier": "googlePlus"
+    },
+    "google-wallet": {
+      "codepoint": 57555,
+      "fontFamily": "Fontisto",
+      "identifier": "googleWallet"
+    },
+    "graphql": {
+      "codepoint": 57556,
+      "fontFamily": "Fontisto",
+      "identifier": "graphql"
+    },
+    "grunt": {
+      "codepoint": 57557,
+      "fontFamily": "Fontisto",
+      "identifier": "grunt"
+    },
+    "gulp": {
+      "codepoint": 57558,
+      "fontFamily": "Fontisto",
+      "identifier": "gulp"
+    },
+    "hacker-news": {
+      "codepoint": 57559,
+      "fontFamily": "Fontisto",
+      "identifier": "hackerNews"
+    },
+    "hangout": {
+      "codepoint": 57560,
+      "fontFamily": "Fontisto",
+      "identifier": "hangout"
+    },
+    "hashtag": {
+      "codepoint": 57561,
+      "fontFamily": "Fontisto",
+      "identifier": "hashtag"
+    },
+    "headphone": {
+      "codepoint": 57562,
+      "fontFamily": "Fontisto",
+      "identifier": "headphone"
+    },
+    "heart": {
+      "codepoint": 57563,
+      "fontFamily": "Fontisto",
+      "identifier": "heart"
+    },
+    "heart-alt": {
+      "codepoint": 57564,
+      "fontFamily": "Fontisto",
+      "identifier": "heartAlt"
+    },
+    "heart-eyes": {
+      "codepoint": 57565,
+      "fontFamily": "Fontisto",
+      "identifier": "heartEyes"
+    },
+    "heartbeat": {
+      "codepoint": 57566,
+      "fontFamily": "Fontisto",
+      "identifier": "heartbeat"
+    },
+    "heartbeat-alt": {
+      "codepoint": 57567,
+      "fontFamily": "Fontisto",
+      "identifier": "heartbeatAlt"
+    },
+    "helicopter": {
+      "codepoint": 57568,
+      "fontFamily": "Fontisto",
+      "identifier": "helicopter"
+    },
+    "helicopter-ambulance": {
+      "codepoint": 57569,
+      "fontFamily": "Fontisto",
+      "identifier": "helicopterAmbulance"
+    },
+    "hexo": {
+      "codepoint": 57570,
+      "fontFamily": "Fontisto",
+      "identifier": "hexo"
+    },
+    "hipchat": {
+      "codepoint": 57571,
+      "fontFamily": "Fontisto",
+      "identifier": "hipchat"
+    },
+    "history": {
+      "codepoint": 57572,
+      "fontFamily": "Fontisto",
+      "identifier": "history"
+    },
+    "holiday-village": {
+      "codepoint": 57573,
+      "fontFamily": "Fontisto",
+      "identifier": "holidayVillage"
+    },
+    "home": {
+      "codepoint": 57574,
+      "fontFamily": "Fontisto",
+      "identifier": "home"
+    },
+    "horizon": {
+      "codepoint": 57575,
+      "fontFamily": "Fontisto",
+      "identifier": "horizon"
+    },
+    "horizon-alt": {
+      "codepoint": 57576,
+      "fontFamily": "Fontisto",
+      "identifier": "horizonAlt"
+    },
+    "hospital": {
+      "codepoint": 57577,
+      "fontFamily": "Fontisto",
+      "identifier": "hospital"
+    },
+    "hot-air-balloon": {
+      "codepoint": 57578,
+      "fontFamily": "Fontisto",
+      "identifier": "hotAirBalloon"
+    },
+    "hotel": {
+      "codepoint": 57579,
+      "fontFamily": "Fontisto",
+      "identifier": "hotel"
+    },
+    "hotel-alt": {
+      "codepoint": 57580,
+      "fontFamily": "Fontisto",
+      "identifier": "hotelAlt"
+    },
+    "hourglass": {
+      "codepoint": 57581,
+      "fontFamily": "Fontisto",
+      "identifier": "hourglass"
+    },
+    "hourglass-end": {
+      "codepoint": 57582,
+      "fontFamily": "Fontisto",
+      "identifier": "hourglassEnd"
+    },
+    "hourglass-half": {
+      "codepoint": 57583,
+      "fontFamily": "Fontisto",
+      "identifier": "hourglassHalf"
+    },
+    "hourglass-start": {
+      "codepoint": 57584,
+      "fontFamily": "Fontisto",
+      "identifier": "hourglassStart"
+    },
+    "houzz": {
+      "codepoint": 57585,
+      "fontFamily": "Fontisto",
+      "identifier": "houzz"
+    },
+    "html5": {
+      "codepoint": 57586,
+      "fontFamily": "Fontisto",
+      "identifier": "html5"
+    },
+    "icq": {
+      "codepoint": 57587,
+      "fontFamily": "Fontisto",
+      "identifier": "icq"
+    },
+    "if-question-circle": {
+      "codepoint": 57588,
+      "fontFamily": "Fontisto",
+      "identifier": "ifQuestionCircle"
+    },
+    "ils": {
+      "codepoint": 57589,
+      "fontFamily": "Fontisto",
+      "identifier": "ils"
+    },
+    "imdb": {
+      "codepoint": 57590,
+      "fontFamily": "Fontisto",
+      "identifier": "imdb"
+    },
+    "import": {
+      "codepoint": 57591,
+      "fontFamily": "Fontisto",
+      "identifier": "import_"
+    },
+    "indent": {
+      "codepoint": 57592,
+      "fontFamily": "Fontisto",
+      "identifier": "indent"
+    },
+    "info": {
+      "codepoint": 57593,
+      "fontFamily": "Fontisto",
+      "identifier": "info"
+    },
+    "injection-syringe": {
+      "codepoint": 57594,
+      "fontFamily": "Fontisto",
+      "identifier": "injectionSyringe"
+    },
+    "inr": {
+      "codepoint": 57595,
+      "fontFamily": "Fontisto",
+      "identifier": "inr"
+    },
+    "instagram": {
+      "codepoint": 57596,
+      "fontFamily": "Fontisto",
+      "identifier": "instagram"
+    },
+    "internet-explorer": {
+      "codepoint": 57597,
+      "fontFamily": "Fontisto",
+      "identifier": "internetExplorer"
+    },
+    "intersex": {
+      "codepoint": 57598,
+      "fontFamily": "Fontisto",
+      "identifier": "intersex"
+    },
+    "invision": {
+      "codepoint": 57599,
+      "fontFamily": "Fontisto",
+      "identifier": "invision"
+    },
+    "island": {
+      "codepoint": 57600,
+      "fontFamily": "Fontisto",
+      "identifier": "island"
+    },
+    "italic": {
+      "codepoint": 57601,
+      "fontFamily": "Fontisto",
+      "identifier": "italic"
+    },
+    "iyzigo": {
+      "codepoint": 57602,
+      "fontFamily": "Fontisto",
+      "identifier": "iyzigo"
+    },
+    "java": {
+      "codepoint": 57603,
+      "fontFamily": "Fontisto",
+      "identifier": "java"
+    },
+    "jcb": {
+      "codepoint": 57604,
+      "fontFamily": "Fontisto",
+      "identifier": "jcb"
+    },
+    "jekyll": {
+      "codepoint": 57605,
+      "fontFamily": "Fontisto",
+      "identifier": "jekyll"
+    },
+    "jenkins": {
+      "codepoint": 57606,
+      "fontFamily": "Fontisto",
+      "identifier": "jenkins"
+    },
+    "jira": {
+      "codepoint": 57607,
+      "fontFamily": "Fontisto",
+      "identifier": "jira"
+    },
+    "joomla": {
+      "codepoint": 57608,
+      "fontFamily": "Fontisto",
+      "identifier": "joomla"
+    },
+    "jquery": {
+      "codepoint": 57609,
+      "fontFamily": "Fontisto",
+      "identifier": "jquery"
+    },
+    "jsfiddle": {
+      "codepoint": 57610,
+      "fontFamily": "Fontisto",
+      "identifier": "jsfiddle"
+    },
+    "json": {
+      "codepoint": 57611,
+      "fontFamily": "Fontisto",
+      "identifier": "json"
+    },
+    "justify": {
+      "codepoint": 57612,
+      "fontFamily": "Fontisto",
+      "identifier": "justify"
+    },
+    "key": {
+      "codepoint": 57613,
+      "fontFamily": "Fontisto",
+      "identifier": "key"
+    },
+    "keyboard": {
+      "codepoint": 57614,
+      "fontFamily": "Fontisto",
+      "identifier": "keyboard"
+    },
+    "kickstarter": {
+      "codepoint": 57615,
+      "fontFamily": "Fontisto",
+      "identifier": "kickstarter"
+    },
+    "krw": {
+      "codepoint": 57616,
+      "fontFamily": "Fontisto",
+      "identifier": "krw"
+    },
+    "laboratory": {
+      "codepoint": 57617,
+      "fontFamily": "Fontisto",
+      "identifier": "laboratory"
+    },
+    "language": {
+      "codepoint": 57618,
+      "fontFamily": "Fontisto",
+      "identifier": "language"
+    },
+    "laptop": {
+      "codepoint": 57619,
+      "fontFamily": "Fontisto",
+      "identifier": "laptop"
+    },
+    "laravel": {
+      "codepoint": 57620,
+      "fontFamily": "Fontisto",
+      "identifier": "laravel"
+    },
+    "laughing": {
+      "codepoint": 57621,
+      "fontFamily": "Fontisto",
+      "identifier": "laughing"
+    },
+    "left-align": {
+      "codepoint": 57622,
+      "fontFamily": "Fontisto",
+      "identifier": "leftAlign"
+    },
+    "less": {
+      "codepoint": 57623,
+      "fontFamily": "Fontisto",
+      "identifier": "less"
+    },
+    "lightbulb": {
+      "codepoint": 57624,
+      "fontFamily": "Fontisto",
+      "identifier": "lightbulb"
+    },
+    "lightning": {
+      "codepoint": 57625,
+      "fontFamily": "Fontisto",
+      "identifier": "lightning"
+    },
+    "lightnings": {
+      "codepoint": 57626,
+      "fontFamily": "Fontisto",
+      "identifier": "lightnings"
+    },
+    "like": {
+      "codepoint": 57627,
+      "fontFamily": "Fontisto",
+      "identifier": "like"
+    },
+    "line": {
+      "codepoint": 57628,
+      "fontFamily": "Fontisto",
+      "identifier": "line"
+    },
+    "line-chart": {
+      "codepoint": 57629,
+      "fontFamily": "Fontisto",
+      "identifier": "lineChart"
+    },
+    "link": {
+      "codepoint": 57630,
+      "fontFamily": "Fontisto",
+      "identifier": "link"
+    },
+    "linkedin": {
+      "codepoint": 57631,
+      "fontFamily": "Fontisto",
+      "identifier": "linkedin"
+    },
+    "linux": {
+      "codepoint": 57632,
+      "fontFamily": "Fontisto",
+      "identifier": "linux"
+    },
+    "list-1": {
+      "codepoint": 57633,
+      "fontFamily": "Fontisto",
+      "identifier": "list1"
+    },
+    "list-2": {
+      "codepoint": 57634,
+      "fontFamily": "Fontisto",
+      "identifier": "list2"
+    },
+    "livestream": {
+      "codepoint": 57635,
+      "fontFamily": "Fontisto",
+      "identifier": "livestream"
+    },
+    "locked": {
+      "codepoint": 57636,
+      "fontFamily": "Fontisto",
+      "identifier": "locked"
+    },
+    "low-vision": {
+      "codepoint": 57637,
+      "fontFamily": "Fontisto",
+      "identifier": "lowVision"
+    },
+    "mad": {
+      "codepoint": 57638,
+      "fontFamily": "Fontisto",
+      "identifier": "mad"
+    },
+    "magento": {
+      "codepoint": 57639,
+      "fontFamily": "Fontisto",
+      "identifier": "magento"
+    },
+    "magnet": {
+      "codepoint": 57640,
+      "fontFamily": "Fontisto",
+      "identifier": "magnet"
+    },
+    "male": {
+      "codepoint": 57641,
+      "fontFamily": "Fontisto",
+      "identifier": "male"
+    },
+    "map": {
+      "codepoint": 57642,
+      "fontFamily": "Fontisto",
+      "identifier": "map"
+    },
+    "map-marker": {
+      "codepoint": 57643,
+      "fontFamily": "Fontisto",
+      "identifier": "mapMarker"
+    },
+    "map-marker-alt": {
+      "codepoint": 57644,
+      "fontFamily": "Fontisto",
+      "identifier": "mapMarkerAlt"
+    },
+    "mars": {
+      "codepoint": 57645,
+      "fontFamily": "Fontisto",
+      "identifier": "mars"
+    },
+    "mars-double": {
+      "codepoint": 57646,
+      "fontFamily": "Fontisto",
+      "identifier": "marsDouble"
+    },
+    "mars-stroke": {
+      "codepoint": 57647,
+      "fontFamily": "Fontisto",
+      "identifier": "marsStroke"
+    },
+    "mars-stroke-h": {
+      "codepoint": 57648,
+      "fontFamily": "Fontisto",
+      "identifier": "marsStrokeH"
+    },
+    "mars-stroke-v": {
+      "codepoint": 57649,
+      "fontFamily": "Fontisto",
+      "identifier": "marsStrokeV"
+    },
+    "mastercard": {
+      "codepoint": 57650,
+      "fontFamily": "Fontisto",
+      "identifier": "mastercard"
+    },
+    "maxcdn": {
+      "codepoint": 57651,
+      "fontFamily": "Fontisto",
+      "identifier": "maxcdn"
+    },
+    "medium": {
+      "codepoint": 57652,
+      "fontFamily": "Fontisto",
+      "identifier": "medium"
+    },
+    "meetup": {
+      "codepoint": 57653,
+      "fontFamily": "Fontisto",
+      "identifier": "meetup"
+    },
+    "mercury": {
+      "codepoint": 57654,
+      "fontFamily": "Fontisto",
+      "identifier": "mercury"
+    },
+    "messenger": {
+      "codepoint": 57655,
+      "fontFamily": "Fontisto",
+      "identifier": "messenger"
+    },
+    "meteor": {
+      "codepoint": 57656,
+      "fontFamily": "Fontisto",
+      "identifier": "meteor"
+    },
+    "metro": {
+      "codepoint": 57657,
+      "fontFamily": "Fontisto",
+      "identifier": "metro"
+    },
+    "mic": {
+      "codepoint": 57658,
+      "fontFamily": "Fontisto",
+      "identifier": "mic"
+    },
+    "microsoft": {
+      "codepoint": 57659,
+      "fontFamily": "Fontisto",
+      "identifier": "microsoft"
+    },
+    "minus-a": {
+      "codepoint": 57660,
+      "fontFamily": "Fontisto",
+      "identifier": "minusA"
+    },
+    "mobile": {
+      "codepoint": 57661,
+      "fontFamily": "Fontisto",
+      "identifier": "mobile"
+    },
+    "mobile-alt": {
+      "codepoint": 57662,
+      "fontFamily": "Fontisto",
+      "identifier": "mobileAlt"
+    },
+    "money-symbol": {
+      "codepoint": 57663,
+      "fontFamily": "Fontisto",
+      "identifier": "moneySymbol"
+    },
+    "mongodb": {
+      "codepoint": 57664,
+      "fontFamily": "Fontisto",
+      "identifier": "mongodb"
+    },
+    "more-v": {
+      "codepoint": 57665,
+      "fontFamily": "Fontisto",
+      "identifier": "moreV"
+    },
+    "more-v-a": {
+      "codepoint": 57666,
+      "fontFamily": "Fontisto",
+      "identifier": "moreVA"
+    },
+    "motorcycle": {
+      "codepoint": 57667,
+      "fontFamily": "Fontisto",
+      "identifier": "motorcycle"
+    },
+    "move-h": {
+      "codepoint": 57668,
+      "fontFamily": "Fontisto",
+      "identifier": "moveH"
+    },
+    "move-h-a": {
+      "codepoint": 57669,
+      "fontFamily": "Fontisto",
+      "identifier": "moveHA"
+    },
+    "music-note": {
+      "codepoint": 57670,
+      "fontFamily": "Fontisto",
+      "identifier": "musicNote"
+    },
+    "mysql": {
+      "codepoint": 57671,
+      "fontFamily": "Fontisto",
+      "identifier": "mysql"
+    },
+    "nav-icon": {
+      "codepoint": 57672,
+      "fontFamily": "Fontisto",
+      "identifier": "navIcon"
+    },
+    "nav-icon-a": {
+      "codepoint": 57673,
+      "fontFamily": "Fontisto",
+      "identifier": "navIconA"
+    },
+    "nav-icon-grid": {
+      "codepoint": 57674,
+      "fontFamily": "Fontisto",
+      "identifier": "navIconGrid"
+    },
+    "nav-icon-grid-a": {
+      "codepoint": 57675,
+      "fontFamily": "Fontisto",
+      "identifier": "navIconGridA"
+    },
+    "nav-icon-list": {
+      "codepoint": 57676,
+      "fontFamily": "Fontisto",
+      "identifier": "navIconList"
+    },
+    "nav-icon-list-a": {
+      "codepoint": 57677,
+      "fontFamily": "Fontisto",
+      "identifier": "navIconListA"
+    },
+    "navigate": {
+      "codepoint": 57678,
+      "fontFamily": "Fontisto",
+      "identifier": "navigate"
+    },
+    "nervous": {
+      "codepoint": 57679,
+      "fontFamily": "Fontisto",
+      "identifier": "nervous"
+    },
+    "netflix": {
+      "codepoint": 57680,
+      "fontFamily": "Fontisto",
+      "identifier": "netflix"
+    },
+    "neuter": {
+      "codepoint": 57681,
+      "fontFamily": "Fontisto",
+      "identifier": "neuter"
+    },
+    "neutral": {
+      "codepoint": 57682,
+      "fontFamily": "Fontisto",
+      "identifier": "neutral"
+    },
+    "nginx": {
+      "codepoint": 57683,
+      "fontFamily": "Fontisto",
+      "identifier": "nginx"
+    },
+    "night-alt-cloudy": {
+      "codepoint": 57684,
+      "fontFamily": "Fontisto",
+      "identifier": "nightAltCloudy"
+    },
+    "night-alt-lightning": {
+      "codepoint": 57685,
+      "fontFamily": "Fontisto",
+      "identifier": "nightAltLightning"
+    },
+    "night-alt-rain": {
+      "codepoint": 57686,
+      "fontFamily": "Fontisto",
+      "identifier": "nightAltRain"
+    },
+    "night-alt-snow": {
+      "codepoint": 57687,
+      "fontFamily": "Fontisto",
+      "identifier": "nightAltSnow"
+    },
+    "night-clear": {
+      "codepoint": 57688,
+      "fontFamily": "Fontisto",
+      "identifier": "nightClear"
+    },
+    "nodejs": {
+      "codepoint": 57689,
+      "fontFamily": "Fontisto",
+      "identifier": "nodejs"
+    },
+    "npm": {
+      "codepoint": 57690,
+      "fontFamily": "Fontisto",
+      "identifier": "npm"
+    },
+    "nurse": {
+      "codepoint": 57691,
+      "fontFamily": "Fontisto",
+      "identifier": "nurse"
+    },
+    "nursing-home": {
+      "codepoint": 57692,
+      "fontFamily": "Fontisto",
+      "identifier": "nursingHome"
+    },
+    "odnoklassniki": {
+      "codepoint": 57693,
+      "fontFamily": "Fontisto",
+      "identifier": "odnoklassniki"
+    },
+    "onedrive": {
+      "codepoint": 57694,
+      "fontFamily": "Fontisto",
+      "identifier": "onedrive"
+    },
+    "onenote": {
+      "codepoint": 57695,
+      "fontFamily": "Fontisto",
+      "identifier": "onenote"
+    },
+    "open-mouth": {
+      "codepoint": 57696,
+      "fontFamily": "Fontisto",
+      "identifier": "openMouth"
+    },
+    "opencart": {
+      "codepoint": 57697,
+      "fontFamily": "Fontisto",
+      "identifier": "opencart"
+    },
+    "opera": {
+      "codepoint": 57698,
+      "fontFamily": "Fontisto",
+      "identifier": "opera"
+    },
+    "oracle": {
+      "codepoint": 57699,
+      "fontFamily": "Fontisto",
+      "identifier": "oracle"
+    },
+    "origin": {
+      "codepoint": 57700,
+      "fontFamily": "Fontisto",
+      "identifier": "origin"
+    },
+    "outdent": {
+      "codepoint": 57701,
+      "fontFamily": "Fontisto",
+      "identifier": "outdent"
+    },
+    "paper-plane": {
+      "codepoint": 57702,
+      "fontFamily": "Fontisto",
+      "identifier": "paperPlane"
+    },
+    "paperclip": {
+      "codepoint": 57703,
+      "fontFamily": "Fontisto",
+      "identifier": "paperclip"
+    },
+    "paragraph": {
+      "codepoint": 57704,
+      "fontFamily": "Fontisto",
+      "identifier": "paragraph"
+    },
+    "paralysis-disability": {
+      "codepoint": 57705,
+      "fontFamily": "Fontisto",
+      "identifier": "paralysisDisability"
+    },
+    "parasol": {
+      "codepoint": 57706,
+      "fontFamily": "Fontisto",
+      "identifier": "parasol"
+    },
+    "passport": {
+      "codepoint": 57707,
+      "fontFamily": "Fontisto",
+      "identifier": "passport"
+    },
+    "passport-alt": {
+      "codepoint": 57708,
+      "fontFamily": "Fontisto",
+      "identifier": "passportAlt"
+    },
+    "paste": {
+      "codepoint": 57709,
+      "fontFamily": "Fontisto",
+      "identifier": "paste"
+    },
+    "pause": {
+      "codepoint": 57710,
+      "fontFamily": "Fontisto",
+      "identifier": "pause"
+    },
+    "paw": {
+      "codepoint": 57711,
+      "fontFamily": "Fontisto",
+      "identifier": "paw"
+    },
+    "paypal": {
+      "codepoint": 57712,
+      "fontFamily": "Fontisto",
+      "identifier": "paypal"
+    },
+    "paypal-p": {
+      "codepoint": 57713,
+      "fontFamily": "Fontisto",
+      "identifier": "paypalP"
+    },
+    "payu": {
+      "codepoint": 57714,
+      "fontFamily": "Fontisto",
+      "identifier": "payu"
+    },
+    "periscope": {
+      "codepoint": 57715,
+      "fontFamily": "Fontisto",
+      "identifier": "periscope"
+    },
+    "person": {
+      "codepoint": 57716,
+      "fontFamily": "Fontisto",
+      "identifier": "person"
+    },
+    "persons": {
+      "codepoint": 57717,
+      "fontFamily": "Fontisto",
+      "identifier": "persons"
+    },
+    "phone": {
+      "codepoint": 57718,
+      "fontFamily": "Fontisto",
+      "identifier": "phone"
+    },
+    "photograph": {
+      "codepoint": 57719,
+      "fontFamily": "Fontisto",
+      "identifier": "photograph"
+    },
+    "php": {
+      "codepoint": 57720,
+      "fontFamily": "Fontisto",
+      "identifier": "php"
+    },
+    "picture": {
+      "codepoint": 57721,
+      "fontFamily": "Fontisto",
+      "identifier": "picture"
+    },
+    "pie-chart-1": {
+      "codepoint": 57722,
+      "fontFamily": "Fontisto",
+      "identifier": "pieChart1"
+    },
+    "pie-chart-2": {
+      "codepoint": 57723,
+      "fontFamily": "Fontisto",
+      "identifier": "pieChart2"
+    },
+    "pills": {
+      "codepoint": 57724,
+      "fontFamily": "Fontisto",
+      "identifier": "pills"
+    },
+    "pinboard": {
+      "codepoint": 57725,
+      "fontFamily": "Fontisto",
+      "identifier": "pinboard"
+    },
+    "pingdom": {
+      "codepoint": 57726,
+      "fontFamily": "Fontisto",
+      "identifier": "pingdom"
+    },
+    "pinterest": {
+      "codepoint": 57727,
+      "fontFamily": "Fontisto",
+      "identifier": "pinterest"
+    },
+    "plane": {
+      "codepoint": 57728,
+      "fontFamily": "Fontisto",
+      "identifier": "plane"
+    },
+    "plane-ticket": {
+      "codepoint": 57729,
+      "fontFamily": "Fontisto",
+      "identifier": "planeTicket"
+    },
+    "play": {
+      "codepoint": 57730,
+      "fontFamily": "Fontisto",
+      "identifier": "play"
+    },
+    "play-list": {
+      "codepoint": 57731,
+      "fontFamily": "Fontisto",
+      "identifier": "playList"
+    },
+    "player-settings": {
+      "codepoint": 57732,
+      "fontFamily": "Fontisto",
+      "identifier": "playerSettings"
+    },
+    "playstation": {
+      "codepoint": 57733,
+      "fontFamily": "Fontisto",
+      "identifier": "playstation"
+    },
+    "plus-a": {
+      "codepoint": 57734,
+      "fontFamily": "Fontisto",
+      "identifier": "plusA"
+    },
+    "podcast": {
+      "codepoint": 57735,
+      "fontFamily": "Fontisto",
+      "identifier": "podcast"
+    },
+    "power": {
+      "codepoint": 57736,
+      "fontFamily": "Fontisto",
+      "identifier": "power"
+    },
+    "prescription": {
+      "codepoint": 57737,
+      "fontFamily": "Fontisto",
+      "identifier": "prescription"
+    },
+    "preview": {
+      "codepoint": 57738,
+      "fontFamily": "Fontisto",
+      "identifier": "preview"
+    },
+    "print": {
+      "codepoint": 57739,
+      "fontFamily": "Fontisto",
+      "identifier": "print"
+    },
+    "product-hunt": {
+      "codepoint": 57740,
+      "fontFamily": "Fontisto",
+      "identifier": "productHunt"
+    },
+    "propeller-1": {
+      "codepoint": 57741,
+      "fontFamily": "Fontisto",
+      "identifier": "propeller1"
+    },
+    "propeller-2": {
+      "codepoint": 57742,
+      "fontFamily": "Fontisto",
+      "identifier": "propeller2"
+    },
+    "propeller-3": {
+      "codepoint": 57743,
+      "fontFamily": "Fontisto",
+      "identifier": "propeller3"
+    },
+    "propeller-4": {
+      "codepoint": 57744,
+      "fontFamily": "Fontisto",
+      "identifier": "propeller4"
+    },
+    "pulse": {
+      "codepoint": 57745,
+      "fontFamily": "Fontisto",
+      "identifier": "pulse"
+    },
+    "python": {
+      "codepoint": 57746,
+      "fontFamily": "Fontisto",
+      "identifier": "python"
+    },
+    "qrcode": {
+      "codepoint": 57747,
+      "fontFamily": "Fontisto",
+      "identifier": "qrcode"
+    },
+    "question": {
+      "codepoint": 57748,
+      "fontFamily": "Fontisto",
+      "identifier": "question"
+    },
+    "quora": {
+      "codepoint": 57749,
+      "fontFamily": "Fontisto",
+      "identifier": "quora"
+    },
+    "quote-a-left": {
+      "codepoint": 57750,
+      "fontFamily": "Fontisto",
+      "identifier": "quoteALeft"
+    },
+    "quote-a-right": {
+      "codepoint": 57751,
+      "fontFamily": "Fontisto",
+      "identifier": "quoteARight"
+    },
+    "quote-left": {
+      "codepoint": 57752,
+      "fontFamily": "Fontisto",
+      "identifier": "quoteLeft"
+    },
+    "quote-right": {
+      "codepoint": 57753,
+      "fontFamily": "Fontisto",
+      "identifier": "quoteRight"
+    },
+    "radio-btn-active": {
+      "codepoint": 57754,
+      "fontFamily": "Fontisto",
+      "identifier": "radioBtnActive"
+    },
+    "radio-btn-passive": {
+      "codepoint": 57755,
+      "fontFamily": "Fontisto",
+      "identifier": "radioBtnPassive"
+    },
+    "rage": {
+      "codepoint": 57756,
+      "fontFamily": "Fontisto",
+      "identifier": "rage"
+    },
+    "rails": {
+      "codepoint": 57757,
+      "fontFamily": "Fontisto",
+      "identifier": "rails"
+    },
+    "rain": {
+      "codepoint": 57758,
+      "fontFamily": "Fontisto",
+      "identifier": "rain"
+    },
+    "rainbow": {
+      "codepoint": 57759,
+      "fontFamily": "Fontisto",
+      "identifier": "rainbow"
+    },
+    "rains": {
+      "codepoint": 57760,
+      "fontFamily": "Fontisto",
+      "identifier": "rains"
+    },
+    "random": {
+      "codepoint": 57761,
+      "fontFamily": "Fontisto",
+      "identifier": "random"
+    },
+    "raspberry-pi": {
+      "codepoint": 57762,
+      "fontFamily": "Fontisto",
+      "identifier": "raspberryPi"
+    },
+    "react": {
+      "codepoint": 57763,
+      "fontFamily": "Fontisto",
+      "identifier": "react"
+    },
+    "record": {
+      "codepoint": 57764,
+      "fontFamily": "Fontisto",
+      "identifier": "record"
+    },
+    "rectangle": {
+      "codepoint": 57765,
+      "fontFamily": "Fontisto",
+      "identifier": "rectangle"
+    },
+    "recycle": {
+      "codepoint": 57766,
+      "fontFamily": "Fontisto",
+      "identifier": "recycle"
+    },
+    "reddit": {
+      "codepoint": 57767,
+      "fontFamily": "Fontisto",
+      "identifier": "reddit"
+    },
+    "redis": {
+      "codepoint": 57768,
+      "fontFamily": "Fontisto",
+      "identifier": "redis"
+    },
+    "redo": {
+      "codepoint": 57769,
+      "fontFamily": "Fontisto",
+      "identifier": "redo"
+    },
+    "redux": {
+      "codepoint": 57770,
+      "fontFamily": "Fontisto",
+      "identifier": "redux"
+    },
+    "reply": {
+      "codepoint": 57771,
+      "fontFamily": "Fontisto",
+      "identifier": "reply"
+    },
+    "right-align": {
+      "codepoint": 57772,
+      "fontFamily": "Fontisto",
+      "identifier": "rightAlign"
+    },
+    "rocket": {
+      "codepoint": 57773,
+      "fontFamily": "Fontisto",
+      "identifier": "rocket"
+    },
+    "room": {
+      "codepoint": 57774,
+      "fontFamily": "Fontisto",
+      "identifier": "room"
+    },
+    "rouble": {
+      "codepoint": 57775,
+      "fontFamily": "Fontisto",
+      "identifier": "rouble"
+    },
+    "rss": {
+      "codepoint": 57776,
+      "fontFamily": "Fontisto",
+      "identifier": "rss"
+    },
+    "ruby": {
+      "codepoint": 57777,
+      "fontFamily": "Fontisto",
+      "identifier": "ruby"
+    },
+    "safari": {
+      "codepoint": 57778,
+      "fontFamily": "Fontisto",
+      "identifier": "safari"
+    },
+    "sait-boat": {
+      "codepoint": 57779,
+      "fontFamily": "Fontisto",
+      "identifier": "saitBoat"
+    },
+    "sass": {
+      "codepoint": 57780,
+      "fontFamily": "Fontisto",
+      "identifier": "sass"
+    },
+    "saucelabs": {
+      "codepoint": 57781,
+      "fontFamily": "Fontisto",
+      "identifier": "saucelabs"
+    },
+    "save": {
+      "codepoint": 57782,
+      "fontFamily": "Fontisto",
+      "identifier": "save"
+    },
+    "save-1": {
+      "codepoint": 57783,
+      "fontFamily": "Fontisto",
+      "identifier": "save1"
+    },
+    "scissors": {
+      "codepoint": 57784,
+      "fontFamily": "Fontisto",
+      "identifier": "scissors"
+    },
+    "scorp": {
+      "codepoint": 57785,
+      "fontFamily": "Fontisto",
+      "identifier": "scorp"
+    },
+    "search": {
+      "codepoint": 57786,
+      "fontFamily": "Fontisto",
+      "identifier": "search"
+    },
+    "sentry": {
+      "codepoint": 57787,
+      "fontFamily": "Fontisto",
+      "identifier": "sentry"
+    },
+    "share": {
+      "codepoint": 57788,
+      "fontFamily": "Fontisto",
+      "identifier": "share"
+    },
+    "share-a": {
+      "codepoint": 57789,
+      "fontFamily": "Fontisto",
+      "identifier": "shareA"
+    },
+    "shazam": {
+      "codepoint": 57790,
+      "fontFamily": "Fontisto",
+      "identifier": "shazam"
+    },
+    "shield": {
+      "codepoint": 57791,
+      "fontFamily": "Fontisto",
+      "identifier": "shield"
+    },
+    "ship": {
+      "codepoint": 57792,
+      "fontFamily": "Fontisto",
+      "identifier": "ship"
+    },
+    "shopify": {
+      "codepoint": 57793,
+      "fontFamily": "Fontisto",
+      "identifier": "shopify"
+    },
+    "shopping-bag": {
+      "codepoint": 57794,
+      "fontFamily": "Fontisto",
+      "identifier": "shoppingBag"
+    },
+    "shopping-bag-1": {
+      "codepoint": 57795,
+      "fontFamily": "Fontisto",
+      "identifier": "shoppingBag1"
+    },
+    "shopping-barcode": {
+      "codepoint": 57796,
+      "fontFamily": "Fontisto",
+      "identifier": "shoppingBarcode"
+    },
+    "shopping-basket": {
+      "codepoint": 57797,
+      "fontFamily": "Fontisto",
+      "identifier": "shoppingBasket"
+    },
+    "shopping-basket-add": {
+      "codepoint": 57798,
+      "fontFamily": "Fontisto",
+      "identifier": "shoppingBasketAdd"
+    },
+    "shopping-basket-remove": {
+      "codepoint": 57799,
+      "fontFamily": "Fontisto",
+      "identifier": "shoppingBasketRemove"
+    },
+    "shopping-package": {
+      "codepoint": 57800,
+      "fontFamily": "Fontisto",
+      "identifier": "shoppingPackage"
+    },
+    "shopping-pos-machine": {
+      "codepoint": 57801,
+      "fontFamily": "Fontisto",
+      "identifier": "shoppingPosMachine"
+    },
+    "shopping-sale": {
+      "codepoint": 57802,
+      "fontFamily": "Fontisto",
+      "identifier": "shoppingSale"
+    },
+    "shopping-store": {
+      "codepoint": 57803,
+      "fontFamily": "Fontisto",
+      "identifier": "shoppingStore"
+    },
+    "sina-weibo": {
+      "codepoint": 57804,
+      "fontFamily": "Fontisto",
+      "identifier": "sinaWeibo"
+    },
+    "sitemap": {
+      "codepoint": 57805,
+      "fontFamily": "Fontisto",
+      "identifier": "sitemap"
+    },
+    "skyatlas": {
+      "codepoint": 57806,
+      "fontFamily": "Fontisto",
+      "identifier": "skyatlas"
+    },
+    "skype": {
+      "codepoint": 57807,
+      "fontFamily": "Fontisto",
+      "identifier": "skype"
+    },
+    "slack": {
+      "codepoint": 57808,
+      "fontFamily": "Fontisto",
+      "identifier": "slack"
+    },
+    "slides": {
+      "codepoint": 57809,
+      "fontFamily": "Fontisto",
+      "identifier": "slides"
+    },
+    "slightly-smile": {
+      "codepoint": 57810,
+      "fontFamily": "Fontisto",
+      "identifier": "slightlySmile"
+    },
+    "smiley": {
+      "codepoint": 57811,
+      "fontFamily": "Fontisto",
+      "identifier": "smiley"
+    },
+    "smiling": {
+      "codepoint": 57812,
+      "fontFamily": "Fontisto",
+      "identifier": "smiling"
+    },
+    "snapchat": {
+      "codepoint": 57813,
+      "fontFamily": "Fontisto",
+      "identifier": "snapchat"
+    },
+    "snorkel": {
+      "codepoint": 57814,
+      "fontFamily": "Fontisto",
+      "identifier": "snorkel"
+    },
+    "snow": {
+      "codepoint": 57815,
+      "fontFamily": "Fontisto",
+      "identifier": "snow"
+    },
+    "snowflake": {
+      "codepoint": 57816,
+      "fontFamily": "Fontisto",
+      "identifier": "snowflake"
+    },
+    "snowflake-1": {
+      "codepoint": 57817,
+      "fontFamily": "Fontisto",
+      "identifier": "snowflake1"
+    },
+    "snowflake-2": {
+      "codepoint": 57818,
+      "fontFamily": "Fontisto",
+      "identifier": "snowflake2"
+    },
+    "snowflake-3": {
+      "codepoint": 57819,
+      "fontFamily": "Fontisto",
+      "identifier": "snowflake3"
+    },
+    "snowflake-4": {
+      "codepoint": 57820,
+      "fontFamily": "Fontisto",
+      "identifier": "snowflake4"
+    },
+    "snowflake-5": {
+      "codepoint": 57821,
+      "fontFamily": "Fontisto",
+      "identifier": "snowflake5"
+    },
+    "snowflake-6": {
+      "codepoint": 57822,
+      "fontFamily": "Fontisto",
+      "identifier": "snowflake6"
+    },
+    "snowflake-7": {
+      "codepoint": 57823,
+      "fontFamily": "Fontisto",
+      "identifier": "snowflake7"
+    },
+    "snowflake-8": {
+      "codepoint": 57824,
+      "fontFamily": "Fontisto",
+      "identifier": "snowflake8"
+    },
+    "snows": {
+      "codepoint": 57825,
+      "fontFamily": "Fontisto",
+      "identifier": "snows"
+    },
+    "soundcloud": {
+      "codepoint": 57826,
+      "fontFamily": "Fontisto",
+      "identifier": "soundcloud"
+    },
+    "sourcetree": {
+      "codepoint": 57827,
+      "fontFamily": "Fontisto",
+      "identifier": "sourcetree"
+    },
+    "spinner": {
+      "codepoint": 57828,
+      "fontFamily": "Fontisto",
+      "identifier": "spinner"
+    },
+    "spinner-cog": {
+      "codepoint": 57829,
+      "fontFamily": "Fontisto",
+      "identifier": "spinnerCog"
+    },
+    "spinner-fidget": {
+      "codepoint": 57830,
+      "fontFamily": "Fontisto",
+      "identifier": "spinnerFidget"
+    },
+    "spinner-refresh": {
+      "codepoint": 57831,
+      "fontFamily": "Fontisto",
+      "identifier": "spinnerRefresh"
+    },
+    "spinner-rotate-forward": {
+      "codepoint": 57832,
+      "fontFamily": "Fontisto",
+      "identifier": "spinnerRotateForward"
+    },
+    "spotify": {
+      "codepoint": 57833,
+      "fontFamily": "Fontisto",
+      "identifier": "spotify"
+    },
+    "stack-overflow": {
+      "codepoint": 57834,
+      "fontFamily": "Fontisto",
+      "identifier": "stackOverflow"
+    },
+    "star": {
+      "codepoint": 57835,
+      "fontFamily": "Fontisto",
+      "identifier": "star"
+    },
+    "star-half": {
+      "codepoint": 57836,
+      "fontFamily": "Fontisto",
+      "identifier": "starHalf"
+    },
+    "steam": {
+      "codepoint": 57837,
+      "fontFamily": "Fontisto",
+      "identifier": "steam"
+    },
+    "step-backwrad": {
+      "codepoint": 57838,
+      "fontFamily": "Fontisto",
+      "identifier": "stepBackwrad"
+    },
+    "step-forward": {
+      "codepoint": 57839,
+      "fontFamily": "Fontisto",
+      "identifier": "stepForward"
+    },
+    "stethoscope": {
+      "codepoint": 57840,
+      "fontFamily": "Fontisto",
+      "identifier": "stethoscope"
+    },
+    "stop": {
+      "codepoint": 57841,
+      "fontFamily": "Fontisto",
+      "identifier": "stop"
+    },
+    "stopwatch": {
+      "codepoint": 57842,
+      "fontFamily": "Fontisto",
+      "identifier": "stopwatch"
+    },
+    "strikethrough": {
+      "codepoint": 57843,
+      "fontFamily": "Fontisto",
+      "identifier": "strikethrough"
+    },
+    "stuck-out-tongue": {
+      "codepoint": 57844,
+      "fontFamily": "Fontisto",
+      "identifier": "stuckOutTongue"
+    },
+    "stumbleupon": {
+      "codepoint": 57845,
+      "fontFamily": "Fontisto",
+      "identifier": "stumbleupon"
+    },
+    "stylus": {
+      "codepoint": 57846,
+      "fontFamily": "Fontisto",
+      "identifier": "stylus"
+    },
+    "sublime-text": {
+      "codepoint": 57847,
+      "fontFamily": "Fontisto",
+      "identifier": "sublimeText"
+    },
+    "subscript": {
+      "codepoint": 57848,
+      "fontFamily": "Fontisto",
+      "identifier": "subscript"
+    },
+    "subway": {
+      "codepoint": 57849,
+      "fontFamily": "Fontisto",
+      "identifier": "subway"
+    },
+    "suitcase": {
+      "codepoint": 57850,
+      "fontFamily": "Fontisto",
+      "identifier": "suitcase"
+    },
+    "suitcase-alt": {
+      "codepoint": 57851,
+      "fontFamily": "Fontisto",
+      "identifier": "suitcaseAlt"
+    },
+    "sun": {
+      "codepoint": 57852,
+      "fontFamily": "Fontisto",
+      "identifier": "sun"
+    },
+    "sunglasses": {
+      "codepoint": 57853,
+      "fontFamily": "Fontisto",
+      "identifier": "sunglasses"
+    },
+    "sunglasses-alt": {
+      "codepoint": 57854,
+      "fontFamily": "Fontisto",
+      "identifier": "sunglassesAlt"
+    },
+    "superscript": {
+      "codepoint": 57855,
+      "fontFamily": "Fontisto",
+      "identifier": "superscript"
+    },
+    "surgical-knife": {
+      "codepoint": 57856,
+      "fontFamily": "Fontisto",
+      "identifier": "surgicalKnife"
+    },
+    "surprised": {
+      "codepoint": 57857,
+      "fontFamily": "Fontisto",
+      "identifier": "surprised"
+    },
+    "svn": {
+      "codepoint": 57858,
+      "fontFamily": "Fontisto",
+      "identifier": "svn"
+    },
+    "swarm": {
+      "codepoint": 57859,
+      "fontFamily": "Fontisto",
+      "identifier": "swarm"
+    },
+    "swift": {
+      "codepoint": 57860,
+      "fontFamily": "Fontisto",
+      "identifier": "swift"
+    },
+    "swimsuit": {
+      "codepoint": 57861,
+      "fontFamily": "Fontisto",
+      "identifier": "swimsuit"
+    },
+    "table-1": {
+      "codepoint": 57862,
+      "fontFamily": "Fontisto",
+      "identifier": "table1"
+    },
+    "table-2": {
+      "codepoint": 57863,
+      "fontFamily": "Fontisto",
+      "identifier": "table2"
+    },
+    "tablet": {
+      "codepoint": 57864,
+      "fontFamily": "Fontisto",
+      "identifier": "tablet"
+    },
+    "tablet-alt": {
+      "codepoint": 57865,
+      "fontFamily": "Fontisto",
+      "identifier": "tabletAlt"
+    },
+    "tablets": {
+      "codepoint": 57866,
+      "fontFamily": "Fontisto",
+      "identifier": "tablets"
+    },
+    "taxi": {
+      "codepoint": 57867,
+      "fontFamily": "Fontisto",
+      "identifier": "taxi"
+    },
+    "ted": {
+      "codepoint": 57868,
+      "fontFamily": "Fontisto",
+      "identifier": "ted"
+    },
+    "telegram": {
+      "codepoint": 57869,
+      "fontFamily": "Fontisto",
+      "identifier": "telegram"
+    },
+    "tent": {
+      "codepoint": 57870,
+      "fontFamily": "Fontisto",
+      "identifier": "tent"
+    },
+    "tesla": {
+      "codepoint": 57871,
+      "fontFamily": "Fontisto",
+      "identifier": "tesla"
+    },
+    "test-bottle": {
+      "codepoint": 57872,
+      "fontFamily": "Fontisto",
+      "identifier": "testBottle"
+    },
+    "test-tube": {
+      "codepoint": 57873,
+      "fontFamily": "Fontisto",
+      "identifier": "testTube"
+    },
+    "test-tube-alt": {
+      "codepoint": 57874,
+      "fontFamily": "Fontisto",
+      "identifier": "testTubeAlt"
+    },
+    "text-height": {
+      "codepoint": 57875,
+      "fontFamily": "Fontisto",
+      "identifier": "textHeight"
+    },
+    "text-width": {
+      "codepoint": 57876,
+      "fontFamily": "Fontisto",
+      "identifier": "textWidth"
+    },
+    "thermometer": {
+      "codepoint": 57877,
+      "fontFamily": "Fontisto",
+      "identifier": "thermometer"
+    },
+    "thermometer-alt": {
+      "codepoint": 57878,
+      "fontFamily": "Fontisto",
+      "identifier": "thermometerAlt"
+    },
+    "ticket": {
+      "codepoint": 57879,
+      "fontFamily": "Fontisto",
+      "identifier": "ticket"
+    },
+    "ticket-alt": {
+      "codepoint": 57880,
+      "fontFamily": "Fontisto",
+      "identifier": "ticketAlt"
+    },
+    "tinder": {
+      "codepoint": 57881,
+      "fontFamily": "Fontisto",
+      "identifier": "tinder"
+    },
+    "tl": {
+      "codepoint": 57882,
+      "fontFamily": "Fontisto",
+      "identifier": "tl"
+    },
+    "toggle-off": {
+      "codepoint": 57883,
+      "fontFamily": "Fontisto",
+      "identifier": "toggleOff"
+    },
+    "toggle-on": {
+      "codepoint": 57884,
+      "fontFamily": "Fontisto",
+      "identifier": "toggleOn"
+    },
+    "tongue": {
+      "codepoint": 57885,
+      "fontFamily": "Fontisto",
+      "identifier": "tongue"
+    },
+    "train": {
+      "codepoint": 57886,
+      "fontFamily": "Fontisto",
+      "identifier": "train"
+    },
+    "train-ticket": {
+      "codepoint": 57887,
+      "fontFamily": "Fontisto",
+      "identifier": "trainTicket"
+    },
+    "transgender": {
+      "codepoint": 57888,
+      "fontFamily": "Fontisto",
+      "identifier": "transgender"
+    },
+    "transgender-alt": {
+      "codepoint": 57889,
+      "fontFamily": "Fontisto",
+      "identifier": "transgenderAlt"
+    },
+    "trash": {
+      "codepoint": 57890,
+      "fontFamily": "Fontisto",
+      "identifier": "trash"
+    },
+    "travis": {
+      "codepoint": 57891,
+      "fontFamily": "Fontisto",
+      "identifier": "travis"
+    },
+    "treehouse": {
+      "codepoint": 57892,
+      "fontFamily": "Fontisto",
+      "identifier": "treehouse"
+    },
+    "trello": {
+      "codepoint": 57893,
+      "fontFamily": "Fontisto",
+      "identifier": "trello"
+    },
+    "tripadvisor": {
+      "codepoint": 57894,
+      "fontFamily": "Fontisto",
+      "identifier": "tripadvisor"
+    },
+    "troy": {
+      "codepoint": 57895,
+      "fontFamily": "Fontisto",
+      "identifier": "troy"
+    },
+    "truck": {
+      "codepoint": 57896,
+      "fontFamily": "Fontisto",
+      "identifier": "truck"
+    },
+    "tty": {
+      "codepoint": 57897,
+      "fontFamily": "Fontisto",
+      "identifier": "tty"
+    },
+    "tumblr": {
+      "codepoint": 57898,
+      "fontFamily": "Fontisto",
+      "identifier": "tumblr"
+    },
+    "tv": {
+      "codepoint": 57899,
+      "fontFamily": "Fontisto",
+      "identifier": "tv"
+    },
+    "twitch": {
+      "codepoint": 57900,
+      "fontFamily": "Fontisto",
+      "identifier": "twitch"
+    },
+    "twitter": {
+      "codepoint": 57901,
+      "fontFamily": "Fontisto",
+      "identifier": "twitter"
+    },
+    "twoo": {
+      "codepoint": 57902,
+      "fontFamily": "Fontisto",
+      "identifier": "twoo"
+    },
+    "uber": {
+      "codepoint": 57903,
+      "fontFamily": "Fontisto",
+      "identifier": "uber"
+    },
+    "ubuntu": {
+      "codepoint": 57904,
+      "fontFamily": "Fontisto",
+      "identifier": "ubuntu"
+    },
+    "udacity": {
+      "codepoint": 57905,
+      "fontFamily": "Fontisto",
+      "identifier": "udacity"
+    },
+    "umbrella": {
+      "codepoint": 57906,
+      "fontFamily": "Fontisto",
+      "identifier": "umbrella"
+    },
+    "underline": {
+      "codepoint": 57907,
+      "fontFamily": "Fontisto",
+      "identifier": "underline"
+    },
+    "undo": {
+      "codepoint": 57908,
+      "fontFamily": "Fontisto",
+      "identifier": "undo"
+    },
+    "unity": {
+      "codepoint": 57909,
+      "fontFamily": "Fontisto",
+      "identifier": "unity"
+    },
+    "universal-acces": {
+      "codepoint": 57910,
+      "fontFamily": "Fontisto",
+      "identifier": "universalAcces"
+    },
+    "unlocked": {
+      "codepoint": 57911,
+      "fontFamily": "Fontisto",
+      "identifier": "unlocked"
+    },
+    "unreal-engine": {
+      "codepoint": 57912,
+      "fontFamily": "Fontisto",
+      "identifier": "unrealEngine"
+    },
+    "upload": {
+      "codepoint": 57913,
+      "fontFamily": "Fontisto",
+      "identifier": "upload"
+    },
+    "usb": {
+      "codepoint": 57914,
+      "fontFamily": "Fontisto",
+      "identifier": "usb"
+    },
+    "user-secret": {
+      "codepoint": 57915,
+      "fontFamily": "Fontisto",
+      "identifier": "userSecret"
+    },
+    "venus": {
+      "codepoint": 57916,
+      "fontFamily": "Fontisto",
+      "identifier": "venus"
+    },
+    "venus-double": {
+      "codepoint": 57917,
+      "fontFamily": "Fontisto",
+      "identifier": "venusDouble"
+    },
+    "venus-mars": {
+      "codepoint": 57918,
+      "fontFamily": "Fontisto",
+      "identifier": "venusMars"
+    },
+    "viber": {
+      "codepoint": 57919,
+      "fontFamily": "Fontisto",
+      "identifier": "viber"
+    },
+    "vimeo": {
+      "codepoint": 57920,
+      "fontFamily": "Fontisto",
+      "identifier": "vimeo"
+    },
+    "vine": {
+      "codepoint": 57921,
+      "fontFamily": "Fontisto",
+      "identifier": "vine"
+    },
+    "visa": {
+      "codepoint": 57922,
+      "fontFamily": "Fontisto",
+      "identifier": "visa"
+    },
+    "visual-studio": {
+      "codepoint": 57923,
+      "fontFamily": "Fontisto",
+      "identifier": "visualStudio"
+    },
+    "vk": {
+      "codepoint": 57924,
+      "fontFamily": "Fontisto",
+      "identifier": "vk"
+    },
+    "volume-down": {
+      "codepoint": 57925,
+      "fontFamily": "Fontisto",
+      "identifier": "volumeDown"
+    },
+    "volume-mute": {
+      "codepoint": 57926,
+      "fontFamily": "Fontisto",
+      "identifier": "volumeMute"
+    },
+    "volume-off": {
+      "codepoint": 57927,
+      "fontFamily": "Fontisto",
+      "identifier": "volumeOff"
+    },
+    "volume-up": {
+      "codepoint": 57928,
+      "fontFamily": "Fontisto",
+      "identifier": "volumeUp"
+    },
+    "vuejs": {
+      "codepoint": 57929,
+      "fontFamily": "Fontisto",
+      "identifier": "vuejs"
+    },
+    "wallet": {
+      "codepoint": 57930,
+      "fontFamily": "Fontisto",
+      "identifier": "wallet"
+    },
+    "webpack": {
+      "codepoint": 57931,
+      "fontFamily": "Fontisto",
+      "identifier": "webpack"
+    },
+    "webstorm": {
+      "codepoint": 57932,
+      "fontFamily": "Fontisto",
+      "identifier": "webstorm"
+    },
+    "wetransfer": {
+      "codepoint": 57933,
+      "fontFamily": "Fontisto",
+      "identifier": "wetransfer"
+    },
+    "whatsapp": {
+      "codepoint": 57934,
+      "fontFamily": "Fontisto",
+      "identifier": "whatsapp"
+    },
+    "wheelchair": {
+      "codepoint": 57935,
+      "fontFamily": "Fontisto",
+      "identifier": "wheelchair"
+    },
+    "wifi": {
+      "codepoint": 57936,
+      "fontFamily": "Fontisto",
+      "identifier": "wifi"
+    },
+    "wifi-logo": {
+      "codepoint": 57937,
+      "fontFamily": "Fontisto",
+      "identifier": "wifiLogo"
+    },
+    "wikipedia": {
+      "codepoint": 57938,
+      "fontFamily": "Fontisto",
+      "identifier": "wikipedia"
+    },
+    "wind": {
+      "codepoint": 57939,
+      "fontFamily": "Fontisto",
+      "identifier": "wind"
+    },
+    "windows": {
+      "codepoint": 57940,
+      "fontFamily": "Fontisto",
+      "identifier": "windows"
+    },
+    "wink": {
+      "codepoint": 57941,
+      "fontFamily": "Fontisto",
+      "identifier": "wink"
+    },
+    "wix": {
+      "codepoint": 57942,
+      "fontFamily": "Fontisto",
+      "identifier": "wix"
+    },
+    "wordpress": {
+      "codepoint": 57943,
+      "fontFamily": "Fontisto",
+      "identifier": "wordpress"
+    },
+    "world": {
+      "codepoint": 57944,
+      "fontFamily": "Fontisto",
+      "identifier": "world"
+    },
+    "world-o": {
+      "codepoint": 57945,
+      "fontFamily": "Fontisto",
+      "identifier": "worldO"
+    },
+    "xbox": {
+      "codepoint": 57946,
+      "fontFamily": "Fontisto",
+      "identifier": "xbox"
+    },
+    "yacht": {
+      "codepoint": 57947,
+      "fontFamily": "Fontisto",
+      "identifier": "yacht"
+    },
+    "yahoo": {
+      "codepoint": 57948,
+      "fontFamily": "Fontisto",
+      "identifier": "yahoo"
+    },
+    "yandex": {
+      "codepoint": 57949,
+      "fontFamily": "Fontisto",
+      "identifier": "yandex"
+    },
+    "yandex-international": {
+      "codepoint": 57950,
+      "fontFamily": "Fontisto",
+      "identifier": "yandexInternational"
+    },
+    "yarn": {
+      "codepoint": 57951,
+      "fontFamily": "Fontisto",
+      "identifier": "yarn"
+    },
+    "yelp": {
+      "codepoint": 57952,
+      "fontFamily": "Fontisto",
+      "identifier": "yelp"
+    },
+    "yen": {
+      "codepoint": 57953,
+      "fontFamily": "Fontisto",
+      "identifier": "yen"
+    },
+    "youtube-play": {
+      "codepoint": 57954,
+      "fontFamily": "Fontisto",
+      "identifier": "youtubePlay"
+    },
+    "zipper-mouth": {
+      "codepoint": 57955,
+      "fontFamily": "Fontisto",
+      "identifier": "zipperMouth"
+    },
+    "zoom": {
+      "codepoint": 57956,
+      "fontFamily": "Fontisto",
+      "identifier": "zoom"
+    },
+    "zoom-minus": {
+      "codepoint": 57957,
+      "fontFamily": "Fontisto",
+      "identifier": "zoomMinus"
+    },
+    "zoom-plus": {
+      "codepoint": 57958,
+      "fontFamily": "Fontisto",
+      "identifier": "zoomPlus"
+    }
+  }
+}

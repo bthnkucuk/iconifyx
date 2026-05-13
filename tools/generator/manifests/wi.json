@@ -1,0 +1,3035 @@
+{
+  "schemaVersion": 1,
+  "prefix": "wi",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Thematic",
+  "subPackage": "iconifyx_wi",
+  "info": {
+    "name": "Weather Icons",
+    "author": {
+      "name": "Erik Flowers",
+      "url": "https://github.com/erikflowers/weather-icons"
+    },
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+    },
+    "total": 601
+  },
+  "fonts": [
+    {
+      "family": "Wi",
+      "nextCodepoint": 57945,
+      "iconCount": 601
+    }
+  ],
+  "icons": {
+    "alien": {
+      "codepoint": 57344,
+      "fontFamily": "Wi",
+      "identifier": "alien"
+    },
+    "aliens": {
+      "codepoint": 57345,
+      "fontFamily": "Wi",
+      "identifier": "aliens"
+    },
+    "barometer": {
+      "codepoint": 57346,
+      "fontFamily": "Wi",
+      "identifier": "barometer"
+    },
+    "celsius": {
+      "codepoint": 57347,
+      "fontFamily": "Wi",
+      "identifier": "celsius"
+    },
+    "cloud": {
+      "codepoint": 57348,
+      "fontFamily": "Wi",
+      "identifier": "cloud"
+    },
+    "cloud-down": {
+      "codepoint": 57349,
+      "fontFamily": "Wi",
+      "identifier": "cloudDown"
+    },
+    "cloud-refresh": {
+      "codepoint": 57350,
+      "fontFamily": "Wi",
+      "identifier": "cloudRefresh"
+    },
+    "cloud-up": {
+      "codepoint": 57351,
+      "fontFamily": "Wi",
+      "identifier": "cloudUp"
+    },
+    "cloudy": {
+      "codepoint": 57352,
+      "fontFamily": "Wi",
+      "identifier": "cloudy"
+    },
+    "cloudy-gusts": {
+      "codepoint": 57353,
+      "fontFamily": "Wi",
+      "identifier": "cloudyGusts"
+    },
+    "cloudy-windy": {
+      "codepoint": 57354,
+      "fontFamily": "Wi",
+      "identifier": "cloudyWindy"
+    },
+    "day-cloudy": {
+      "codepoint": 57355,
+      "fontFamily": "Wi",
+      "identifier": "dayCloudy"
+    },
+    "day-cloudy-gusts": {
+      "codepoint": 57356,
+      "fontFamily": "Wi",
+      "identifier": "dayCloudyGusts"
+    },
+    "day-cloudy-high": {
+      "codepoint": 57357,
+      "fontFamily": "Wi",
+      "identifier": "dayCloudyHigh"
+    },
+    "day-cloudy-windy": {
+      "codepoint": 57358,
+      "fontFamily": "Wi",
+      "identifier": "dayCloudyWindy"
+    },
+    "day-fog": {
+      "codepoint": 57359,
+      "fontFamily": "Wi",
+      "identifier": "dayFog"
+    },
+    "day-hail": {
+      "codepoint": 57360,
+      "fontFamily": "Wi",
+      "identifier": "dayHail"
+    },
+    "day-haze": {
+      "codepoint": 57361,
+      "fontFamily": "Wi",
+      "identifier": "dayHaze"
+    },
+    "day-light-wind": {
+      "codepoint": 57362,
+      "fontFamily": "Wi",
+      "identifier": "dayLightWind"
+    },
+    "day-lightning": {
+      "codepoint": 57363,
+      "fontFamily": "Wi",
+      "identifier": "dayLightning"
+    },
+    "day-rain": {
+      "codepoint": 57364,
+      "fontFamily": "Wi",
+      "identifier": "dayRain"
+    },
+    "day-rain-mix": {
+      "codepoint": 57365,
+      "fontFamily": "Wi",
+      "identifier": "dayRainMix"
+    },
+    "day-rain-wind": {
+      "codepoint": 57366,
+      "fontFamily": "Wi",
+      "identifier": "dayRainWind"
+    },
+    "day-showers": {
+      "codepoint": 57367,
+      "fontFamily": "Wi",
+      "identifier": "dayShowers"
+    },
+    "day-sleet": {
+      "codepoint": 57368,
+      "fontFamily": "Wi",
+      "identifier": "daySleet"
+    },
+    "day-sleet-storm": {
+      "codepoint": 57369,
+      "fontFamily": "Wi",
+      "identifier": "daySleetStorm"
+    },
+    "day-snow": {
+      "codepoint": 57370,
+      "fontFamily": "Wi",
+      "identifier": "daySnow"
+    },
+    "day-snow-thunderstorm": {
+      "codepoint": 57371,
+      "fontFamily": "Wi",
+      "identifier": "daySnowThunderstorm"
+    },
+    "day-snow-wind": {
+      "codepoint": 57372,
+      "fontFamily": "Wi",
+      "identifier": "daySnowWind"
+    },
+    "day-sprinkle": {
+      "codepoint": 57373,
+      "fontFamily": "Wi",
+      "identifier": "daySprinkle"
+    },
+    "day-storm-showers": {
+      "codepoint": 57374,
+      "fontFamily": "Wi",
+      "identifier": "dayStormShowers"
+    },
+    "day-sunny": {
+      "codepoint": 57375,
+      "fontFamily": "Wi",
+      "identifier": "daySunny"
+    },
+    "day-sunny-overcast": {
+      "codepoint": 57376,
+      "fontFamily": "Wi",
+      "identifier": "daySunnyOvercast"
+    },
+    "day-thunderstorm": {
+      "codepoint": 57377,
+      "fontFamily": "Wi",
+      "identifier": "dayThunderstorm"
+    },
+    "day-windy": {
+      "codepoint": 57378,
+      "fontFamily": "Wi",
+      "identifier": "dayWindy"
+    },
+    "degrees": {
+      "codepoint": 57379,
+      "fontFamily": "Wi",
+      "identifier": "degrees"
+    },
+    "direction-down": {
+      "codepoint": 57380,
+      "fontFamily": "Wi",
+      "identifier": "directionDown"
+    },
+    "direction-down-left": {
+      "codepoint": 57381,
+      "fontFamily": "Wi",
+      "identifier": "directionDownLeft"
+    },
+    "direction-down-right": {
+      "codepoint": 57382,
+      "fontFamily": "Wi",
+      "identifier": "directionDownRight"
+    },
+    "direction-left": {
+      "codepoint": 57383,
+      "fontFamily": "Wi",
+      "identifier": "directionLeft"
+    },
+    "direction-right": {
+      "codepoint": 57384,
+      "fontFamily": "Wi",
+      "identifier": "directionRight"
+    },
+    "direction-up": {
+      "codepoint": 57385,
+      "fontFamily": "Wi",
+      "identifier": "directionUp"
+    },
+    "direction-up-left": {
+      "codepoint": 57386,
+      "fontFamily": "Wi",
+      "identifier": "directionUpLeft"
+    },
+    "direction-up-right": {
+      "codepoint": 57387,
+      "fontFamily": "Wi",
+      "identifier": "directionUpRight"
+    },
+    "dust": {
+      "codepoint": 57388,
+      "fontFamily": "Wi",
+      "identifier": "dust"
+    },
+    "earthquake": {
+      "codepoint": 57389,
+      "fontFamily": "Wi",
+      "identifier": "earthquake"
+    },
+    "fahrenheit": {
+      "codepoint": 57390,
+      "fontFamily": "Wi",
+      "identifier": "fahrenheit"
+    },
+    "fire": {
+      "codepoint": 57391,
+      "fontFamily": "Wi",
+      "identifier": "fire"
+    },
+    "flood": {
+      "codepoint": 57392,
+      "fontFamily": "Wi",
+      "identifier": "flood"
+    },
+    "fog": {
+      "codepoint": 57393,
+      "fontFamily": "Wi",
+      "identifier": "fog"
+    },
+    "forecast-io-clear-day": {
+      "codepoint": 57394,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoClearDay"
+    },
+    "forecast-io-clear-night": {
+      "codepoint": 57395,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoClearNight"
+    },
+    "forecast-io-cloudy": {
+      "codepoint": 57396,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoCloudy"
+    },
+    "forecast-io-fog": {
+      "codepoint": 57397,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoFog"
+    },
+    "forecast-io-hail": {
+      "codepoint": 57398,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoHail"
+    },
+    "forecast-io-partly-cloudy-day": {
+      "codepoint": 57399,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoPartlyCloudyDay"
+    },
+    "forecast-io-partly-cloudy-night": {
+      "codepoint": 57400,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoPartlyCloudyNight"
+    },
+    "forecast-io-rain": {
+      "codepoint": 57401,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoRain"
+    },
+    "forecast-io-sleet": {
+      "codepoint": 57402,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoSleet"
+    },
+    "forecast-io-snow": {
+      "codepoint": 57403,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoSnow"
+    },
+    "forecast-io-thunderstorm": {
+      "codepoint": 57404,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoThunderstorm"
+    },
+    "forecast-io-tornado": {
+      "codepoint": 57405,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoTornado"
+    },
+    "forecast-io-wind": {
+      "codepoint": 57406,
+      "fontFamily": "Wi",
+      "identifier": "forecastIoWind"
+    },
+    "gale-warning": {
+      "codepoint": 57407,
+      "fontFamily": "Wi",
+      "identifier": "galeWarning"
+    },
+    "hail": {
+      "codepoint": 57408,
+      "fontFamily": "Wi",
+      "identifier": "hail"
+    },
+    "horizon": {
+      "codepoint": 57409,
+      "fontFamily": "Wi",
+      "identifier": "horizon"
+    },
+    "horizon-alt": {
+      "codepoint": 57410,
+      "fontFamily": "Wi",
+      "identifier": "horizonAlt"
+    },
+    "hot": {
+      "codepoint": 57411,
+      "fontFamily": "Wi",
+      "identifier": "hot"
+    },
+    "humidity": {
+      "codepoint": 57412,
+      "fontFamily": "Wi",
+      "identifier": "humidity"
+    },
+    "hurricane": {
+      "codepoint": 57413,
+      "fontFamily": "Wi",
+      "identifier": "hurricane"
+    },
+    "hurricane-warning": {
+      "codepoint": 57414,
+      "fontFamily": "Wi",
+      "identifier": "hurricaneWarning"
+    },
+    "lightning": {
+      "codepoint": 57415,
+      "fontFamily": "Wi",
+      "identifier": "lightning"
+    },
+    "lunar-eclipse": {
+      "codepoint": 57416,
+      "fontFamily": "Wi",
+      "identifier": "lunarEclipse"
+    },
+    "meteor": {
+      "codepoint": 57417,
+      "fontFamily": "Wi",
+      "identifier": "meteor"
+    },
+    "moon-0": {
+      "codepoint": 57418,
+      "fontFamily": "Wi",
+      "identifier": "moon0"
+    },
+    "moon-1": {
+      "codepoint": 57419,
+      "fontFamily": "Wi",
+      "identifier": "moon1"
+    },
+    "moon-10": {
+      "codepoint": 57420,
+      "fontFamily": "Wi",
+      "identifier": "moon10"
+    },
+    "moon-11": {
+      "codepoint": 57421,
+      "fontFamily": "Wi",
+      "identifier": "moon11"
+    },
+    "moon-12": {
+      "codepoint": 57422,
+      "fontFamily": "Wi",
+      "identifier": "moon12"
+    },
+    "moon-13": {
+      "codepoint": 57423,
+      "fontFamily": "Wi",
+      "identifier": "moon13"
+    },
+    "moon-14": {
+      "codepoint": 57424,
+      "fontFamily": "Wi",
+      "identifier": "moon14"
+    },
+    "moon-15": {
+      "codepoint": 57425,
+      "fontFamily": "Wi",
+      "identifier": "moon15"
+    },
+    "moon-16": {
+      "codepoint": 57426,
+      "fontFamily": "Wi",
+      "identifier": "moon16"
+    },
+    "moon-17": {
+      "codepoint": 57427,
+      "fontFamily": "Wi",
+      "identifier": "moon17"
+    },
+    "moon-18": {
+      "codepoint": 57428,
+      "fontFamily": "Wi",
+      "identifier": "moon18"
+    },
+    "moon-19": {
+      "codepoint": 57429,
+      "fontFamily": "Wi",
+      "identifier": "moon19"
+    },
+    "moon-2": {
+      "codepoint": 57430,
+      "fontFamily": "Wi",
+      "identifier": "moon2"
+    },
+    "moon-20": {
+      "codepoint": 57431,
+      "fontFamily": "Wi",
+      "identifier": "moon20"
+    },
+    "moon-21": {
+      "codepoint": 57432,
+      "fontFamily": "Wi",
+      "identifier": "moon21"
+    },
+    "moon-22": {
+      "codepoint": 57433,
+      "fontFamily": "Wi",
+      "identifier": "moon22"
+    },
+    "moon-23": {
+      "codepoint": 57434,
+      "fontFamily": "Wi",
+      "identifier": "moon23"
+    },
+    "moon-24": {
+      "codepoint": 57435,
+      "fontFamily": "Wi",
+      "identifier": "moon24"
+    },
+    "moon-25": {
+      "codepoint": 57436,
+      "fontFamily": "Wi",
+      "identifier": "moon25"
+    },
+    "moon-26": {
+      "codepoint": 57437,
+      "fontFamily": "Wi",
+      "identifier": "moon26"
+    },
+    "moon-27": {
+      "codepoint": 57438,
+      "fontFamily": "Wi",
+      "identifier": "moon27"
+    },
+    "moon-3": {
+      "codepoint": 57439,
+      "fontFamily": "Wi",
+      "identifier": "moon3"
+    },
+    "moon-4": {
+      "codepoint": 57440,
+      "fontFamily": "Wi",
+      "identifier": "moon4"
+    },
+    "moon-5": {
+      "codepoint": 57441,
+      "fontFamily": "Wi",
+      "identifier": "moon5"
+    },
+    "moon-6": {
+      "codepoint": 57442,
+      "fontFamily": "Wi",
+      "identifier": "moon6"
+    },
+    "moon-7": {
+      "codepoint": 57443,
+      "fontFamily": "Wi",
+      "identifier": "moon7"
+    },
+    "moon-8": {
+      "codepoint": 57444,
+      "fontFamily": "Wi",
+      "identifier": "moon8"
+    },
+    "moon-9": {
+      "codepoint": 57445,
+      "fontFamily": "Wi",
+      "identifier": "moon9"
+    },
+    "moon-alt-first-quarter": {
+      "codepoint": 57446,
+      "fontFamily": "Wi",
+      "identifier": "moonAltFirstQuarter"
+    },
+    "moon-alt-full": {
+      "codepoint": 57447,
+      "fontFamily": "Wi",
+      "identifier": "moonAltFull"
+    },
+    "moon-alt-new": {
+      "codepoint": 57448,
+      "fontFamily": "Wi",
+      "identifier": "moonAltNew"
+    },
+    "moon-alt-third-quarter": {
+      "codepoint": 57449,
+      "fontFamily": "Wi",
+      "identifier": "moonAltThirdQuarter"
+    },
+    "moon-alt-waning-crescent-1": {
+      "codepoint": 57450,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaningCrescent1"
+    },
+    "moon-alt-waning-crescent-2": {
+      "codepoint": 57451,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaningCrescent2"
+    },
+    "moon-alt-waning-crescent-3": {
+      "codepoint": 57452,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaningCrescent3"
+    },
+    "moon-alt-waning-crescent-4": {
+      "codepoint": 57453,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaningCrescent4"
+    },
+    "moon-alt-waning-crescent-5": {
+      "codepoint": 57454,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaningCrescent5"
+    },
+    "moon-alt-waning-crescent-6": {
+      "codepoint": 57455,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaningCrescent6"
+    },
+    "moon-alt-waning-gibbous-1": {
+      "codepoint": 57456,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaningGibbous1"
+    },
+    "moon-alt-waning-gibbous-2": {
+      "codepoint": 57457,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaningGibbous2"
+    },
+    "moon-alt-waning-gibbous-3": {
+      "codepoint": 57458,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaningGibbous3"
+    },
+    "moon-alt-waning-gibbous-4": {
+      "codepoint": 57459,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaningGibbous4"
+    },
+    "moon-alt-waning-gibbous-5": {
+      "codepoint": 57460,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaningGibbous5"
+    },
+    "moon-alt-waning-gibbous-6": {
+      "codepoint": 57461,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaningGibbous6"
+    },
+    "moon-alt-waxing-crescent-1": {
+      "codepoint": 57462,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaxingCrescent1"
+    },
+    "moon-alt-waxing-crescent-2": {
+      "codepoint": 57463,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaxingCrescent2"
+    },
+    "moon-alt-waxing-crescent-3": {
+      "codepoint": 57464,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaxingCrescent3"
+    },
+    "moon-alt-waxing-crescent-4": {
+      "codepoint": 57465,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaxingCrescent4"
+    },
+    "moon-alt-waxing-crescent-5": {
+      "codepoint": 57466,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaxingCrescent5"
+    },
+    "moon-alt-waxing-crescent-6": {
+      "codepoint": 57467,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaxingCrescent6"
+    },
+    "moon-alt-waxing-gibbous-1": {
+      "codepoint": 57468,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaxingGibbous1"
+    },
+    "moon-alt-waxing-gibbous-2": {
+      "codepoint": 57469,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaxingGibbous2"
+    },
+    "moon-alt-waxing-gibbous-3": {
+      "codepoint": 57470,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaxingGibbous3"
+    },
+    "moon-alt-waxing-gibbous-4": {
+      "codepoint": 57471,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaxingGibbous4"
+    },
+    "moon-alt-waxing-gibbous-5": {
+      "codepoint": 57472,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaxingGibbous5"
+    },
+    "moon-alt-waxing-gibbous-6": {
+      "codepoint": 57473,
+      "fontFamily": "Wi",
+      "identifier": "moonAltWaxingGibbous6"
+    },
+    "moon-first-quarter": {
+      "codepoint": 57474,
+      "fontFamily": "Wi",
+      "identifier": "moonFirstQuarter"
+    },
+    "moon-full": {
+      "codepoint": 57475,
+      "fontFamily": "Wi",
+      "identifier": "moonFull"
+    },
+    "moon-new": {
+      "codepoint": 57476,
+      "fontFamily": "Wi",
+      "identifier": "moonNew"
+    },
+    "moon-third-quarter": {
+      "codepoint": 57477,
+      "fontFamily": "Wi",
+      "identifier": "moonThirdQuarter"
+    },
+    "moon-waning-crescent-1": {
+      "codepoint": 57478,
+      "fontFamily": "Wi",
+      "identifier": "moonWaningCrescent1"
+    },
+    "moon-waning-crescent-2": {
+      "codepoint": 57479,
+      "fontFamily": "Wi",
+      "identifier": "moonWaningCrescent2"
+    },
+    "moon-waning-crescent-3": {
+      "codepoint": 57480,
+      "fontFamily": "Wi",
+      "identifier": "moonWaningCrescent3"
+    },
+    "moon-waning-crescent-4": {
+      "codepoint": 57481,
+      "fontFamily": "Wi",
+      "identifier": "moonWaningCrescent4"
+    },
+    "moon-waning-crescent-5": {
+      "codepoint": 57482,
+      "fontFamily": "Wi",
+      "identifier": "moonWaningCrescent5"
+    },
+    "moon-waning-crescent-6": {
+      "codepoint": 57483,
+      "fontFamily": "Wi",
+      "identifier": "moonWaningCrescent6"
+    },
+    "moon-waning-gibbous-1": {
+      "codepoint": 57484,
+      "fontFamily": "Wi",
+      "identifier": "moonWaningGibbous1"
+    },
+    "moon-waning-gibbous-2": {
+      "codepoint": 57485,
+      "fontFamily": "Wi",
+      "identifier": "moonWaningGibbous2"
+    },
+    "moon-waning-gibbous-3": {
+      "codepoint": 57486,
+      "fontFamily": "Wi",
+      "identifier": "moonWaningGibbous3"
+    },
+    "moon-waning-gibbous-4": {
+      "codepoint": 57487,
+      "fontFamily": "Wi",
+      "identifier": "moonWaningGibbous4"
+    },
+    "moon-waning-gibbous-5": {
+      "codepoint": 57488,
+      "fontFamily": "Wi",
+      "identifier": "moonWaningGibbous5"
+    },
+    "moon-waning-gibbous-6": {
+      "codepoint": 57489,
+      "fontFamily": "Wi",
+      "identifier": "moonWaningGibbous6"
+    },
+    "moon-waxing-6": {
+      "codepoint": 57490,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxing6"
+    },
+    "moon-waxing-crescent-1": {
+      "codepoint": 57491,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxingCrescent1"
+    },
+    "moon-waxing-crescent-2": {
+      "codepoint": 57492,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxingCrescent2"
+    },
+    "moon-waxing-crescent-3": {
+      "codepoint": 57493,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxingCrescent3"
+    },
+    "moon-waxing-crescent-4": {
+      "codepoint": 57494,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxingCrescent4"
+    },
+    "moon-waxing-crescent-5": {
+      "codepoint": 57495,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxingCrescent5"
+    },
+    "moon-waxing-crescent-6": {
+      "codepoint": 57496,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxingCrescent6"
+    },
+    "moon-waxing-gibbous-1": {
+      "codepoint": 57497,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxingGibbous1"
+    },
+    "moon-waxing-gibbous-2": {
+      "codepoint": 57498,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxingGibbous2"
+    },
+    "moon-waxing-gibbous-3": {
+      "codepoint": 57499,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxingGibbous3"
+    },
+    "moon-waxing-gibbous-4": {
+      "codepoint": 57500,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxingGibbous4"
+    },
+    "moon-waxing-gibbous-5": {
+      "codepoint": 57501,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxingGibbous5"
+    },
+    "moon-waxing-gibbous-6": {
+      "codepoint": 57502,
+      "fontFamily": "Wi",
+      "identifier": "moonWaxingGibbous6"
+    },
+    "moonrise": {
+      "codepoint": 57503,
+      "fontFamily": "Wi",
+      "identifier": "moonrise"
+    },
+    "moonset": {
+      "codepoint": 57504,
+      "fontFamily": "Wi",
+      "identifier": "moonset"
+    },
+    "na": {
+      "codepoint": 57505,
+      "fontFamily": "Wi",
+      "identifier": "na"
+    },
+    "night-alt-cloudy": {
+      "codepoint": 57506,
+      "fontFamily": "Wi",
+      "identifier": "nightAltCloudy"
+    },
+    "night-alt-cloudy-gusts": {
+      "codepoint": 57507,
+      "fontFamily": "Wi",
+      "identifier": "nightAltCloudyGusts"
+    },
+    "night-alt-cloudy-high": {
+      "codepoint": 57508,
+      "fontFamily": "Wi",
+      "identifier": "nightAltCloudyHigh"
+    },
+    "night-alt-cloudy-windy": {
+      "codepoint": 57509,
+      "fontFamily": "Wi",
+      "identifier": "nightAltCloudyWindy"
+    },
+    "night-alt-hail": {
+      "codepoint": 57510,
+      "fontFamily": "Wi",
+      "identifier": "nightAltHail"
+    },
+    "night-alt-lightning": {
+      "codepoint": 57511,
+      "fontFamily": "Wi",
+      "identifier": "nightAltLightning"
+    },
+    "night-alt-partly-cloudy": {
+      "codepoint": 57512,
+      "fontFamily": "Wi",
+      "identifier": "nightAltPartlyCloudy"
+    },
+    "night-alt-rain": {
+      "codepoint": 57513,
+      "fontFamily": "Wi",
+      "identifier": "nightAltRain"
+    },
+    "night-alt-rain-mix": {
+      "codepoint": 57514,
+      "fontFamily": "Wi",
+      "identifier": "nightAltRainMix"
+    },
+    "night-alt-rain-wind": {
+      "codepoint": 57515,
+      "fontFamily": "Wi",
+      "identifier": "nightAltRainWind"
+    },
+    "night-alt-showers": {
+      "codepoint": 57516,
+      "fontFamily": "Wi",
+      "identifier": "nightAltShowers"
+    },
+    "night-alt-sleet": {
+      "codepoint": 57517,
+      "fontFamily": "Wi",
+      "identifier": "nightAltSleet"
+    },
+    "night-alt-sleet-storm": {
+      "codepoint": 57518,
+      "fontFamily": "Wi",
+      "identifier": "nightAltSleetStorm"
+    },
+    "night-alt-snow": {
+      "codepoint": 57519,
+      "fontFamily": "Wi",
+      "identifier": "nightAltSnow"
+    },
+    "night-alt-snow-thunderstorm": {
+      "codepoint": 57520,
+      "fontFamily": "Wi",
+      "identifier": "nightAltSnowThunderstorm"
+    },
+    "night-alt-snow-wind": {
+      "codepoint": 57521,
+      "fontFamily": "Wi",
+      "identifier": "nightAltSnowWind"
+    },
+    "night-alt-sprinkle": {
+      "codepoint": 57522,
+      "fontFamily": "Wi",
+      "identifier": "nightAltSprinkle"
+    },
+    "night-alt-storm-showers": {
+      "codepoint": 57523,
+      "fontFamily": "Wi",
+      "identifier": "nightAltStormShowers"
+    },
+    "night-alt-thunderstorm": {
+      "codepoint": 57524,
+      "fontFamily": "Wi",
+      "identifier": "nightAltThunderstorm"
+    },
+    "night-clear": {
+      "codepoint": 57525,
+      "fontFamily": "Wi",
+      "identifier": "nightClear"
+    },
+    "night-cloudy": {
+      "codepoint": 57526,
+      "fontFamily": "Wi",
+      "identifier": "nightCloudy"
+    },
+    "night-cloudy-gusts": {
+      "codepoint": 57527,
+      "fontFamily": "Wi",
+      "identifier": "nightCloudyGusts"
+    },
+    "night-cloudy-high": {
+      "codepoint": 57528,
+      "fontFamily": "Wi",
+      "identifier": "nightCloudyHigh"
+    },
+    "night-cloudy-windy": {
+      "codepoint": 57529,
+      "fontFamily": "Wi",
+      "identifier": "nightCloudyWindy"
+    },
+    "night-fog": {
+      "codepoint": 57530,
+      "fontFamily": "Wi",
+      "identifier": "nightFog"
+    },
+    "night-hail": {
+      "codepoint": 57531,
+      "fontFamily": "Wi",
+      "identifier": "nightHail"
+    },
+    "night-lightning": {
+      "codepoint": 57532,
+      "fontFamily": "Wi",
+      "identifier": "nightLightning"
+    },
+    "night-partly-cloudy": {
+      "codepoint": 57533,
+      "fontFamily": "Wi",
+      "identifier": "nightPartlyCloudy"
+    },
+    "night-rain": {
+      "codepoint": 57534,
+      "fontFamily": "Wi",
+      "identifier": "nightRain"
+    },
+    "night-rain-mix": {
+      "codepoint": 57535,
+      "fontFamily": "Wi",
+      "identifier": "nightRainMix"
+    },
+    "night-rain-wind": {
+      "codepoint": 57536,
+      "fontFamily": "Wi",
+      "identifier": "nightRainWind"
+    },
+    "night-showers": {
+      "codepoint": 57537,
+      "fontFamily": "Wi",
+      "identifier": "nightShowers"
+    },
+    "night-sleet": {
+      "codepoint": 57538,
+      "fontFamily": "Wi",
+      "identifier": "nightSleet"
+    },
+    "night-sleet-storm": {
+      "codepoint": 57539,
+      "fontFamily": "Wi",
+      "identifier": "nightSleetStorm"
+    },
+    "night-snow": {
+      "codepoint": 57540,
+      "fontFamily": "Wi",
+      "identifier": "nightSnow"
+    },
+    "night-snow-thunderstorm": {
+      "codepoint": 57541,
+      "fontFamily": "Wi",
+      "identifier": "nightSnowThunderstorm"
+    },
+    "night-snow-wind": {
+      "codepoint": 57542,
+      "fontFamily": "Wi",
+      "identifier": "nightSnowWind"
+    },
+    "night-sprinkle": {
+      "codepoint": 57543,
+      "fontFamily": "Wi",
+      "identifier": "nightSprinkle"
+    },
+    "night-storm-showers": {
+      "codepoint": 57544,
+      "fontFamily": "Wi",
+      "identifier": "nightStormShowers"
+    },
+    "night-thunderstorm": {
+      "codepoint": 57545,
+      "fontFamily": "Wi",
+      "identifier": "nightThunderstorm"
+    },
+    "owm-200": {
+      "codepoint": 57546,
+      "fontFamily": "Wi",
+      "identifier": "owm200"
+    },
+    "owm-201": {
+      "codepoint": 57547,
+      "fontFamily": "Wi",
+      "identifier": "owm201"
+    },
+    "owm-202": {
+      "codepoint": 57548,
+      "fontFamily": "Wi",
+      "identifier": "owm202"
+    },
+    "owm-210": {
+      "codepoint": 57549,
+      "fontFamily": "Wi",
+      "identifier": "owm210"
+    },
+    "owm-211": {
+      "codepoint": 57550,
+      "fontFamily": "Wi",
+      "identifier": "owm211"
+    },
+    "owm-212": {
+      "codepoint": 57551,
+      "fontFamily": "Wi",
+      "identifier": "owm212"
+    },
+    "owm-221": {
+      "codepoint": 57552,
+      "fontFamily": "Wi",
+      "identifier": "owm221"
+    },
+    "owm-230": {
+      "codepoint": 57553,
+      "fontFamily": "Wi",
+      "identifier": "owm230"
+    },
+    "owm-231": {
+      "codepoint": 57554,
+      "fontFamily": "Wi",
+      "identifier": "owm231"
+    },
+    "owm-232": {
+      "codepoint": 57555,
+      "fontFamily": "Wi",
+      "identifier": "owm232"
+    },
+    "owm-300": {
+      "codepoint": 57556,
+      "fontFamily": "Wi",
+      "identifier": "owm300"
+    },
+    "owm-301": {
+      "codepoint": 57557,
+      "fontFamily": "Wi",
+      "identifier": "owm301"
+    },
+    "owm-302": {
+      "codepoint": 57558,
+      "fontFamily": "Wi",
+      "identifier": "owm302"
+    },
+    "owm-310": {
+      "codepoint": 57559,
+      "fontFamily": "Wi",
+      "identifier": "owm310"
+    },
+    "owm-311": {
+      "codepoint": 57560,
+      "fontFamily": "Wi",
+      "identifier": "owm311"
+    },
+    "owm-312": {
+      "codepoint": 57561,
+      "fontFamily": "Wi",
+      "identifier": "owm312"
+    },
+    "owm-313": {
+      "codepoint": 57562,
+      "fontFamily": "Wi",
+      "identifier": "owm313"
+    },
+    "owm-314": {
+      "codepoint": 57563,
+      "fontFamily": "Wi",
+      "identifier": "owm314"
+    },
+    "owm-321": {
+      "codepoint": 57564,
+      "fontFamily": "Wi",
+      "identifier": "owm321"
+    },
+    "owm-500": {
+      "codepoint": 57565,
+      "fontFamily": "Wi",
+      "identifier": "owm500"
+    },
+    "owm-501": {
+      "codepoint": 57566,
+      "fontFamily": "Wi",
+      "identifier": "owm501"
+    },
+    "owm-502": {
+      "codepoint": 57567,
+      "fontFamily": "Wi",
+      "identifier": "owm502"
+    },
+    "owm-503": {
+      "codepoint": 57568,
+      "fontFamily": "Wi",
+      "identifier": "owm503"
+    },
+    "owm-504": {
+      "codepoint": 57569,
+      "fontFamily": "Wi",
+      "identifier": "owm504"
+    },
+    "owm-511": {
+      "codepoint": 57570,
+      "fontFamily": "Wi",
+      "identifier": "owm511"
+    },
+    "owm-520": {
+      "codepoint": 57571,
+      "fontFamily": "Wi",
+      "identifier": "owm520"
+    },
+    "owm-521": {
+      "codepoint": 57572,
+      "fontFamily": "Wi",
+      "identifier": "owm521"
+    },
+    "owm-522": {
+      "codepoint": 57573,
+      "fontFamily": "Wi",
+      "identifier": "owm522"
+    },
+    "owm-531": {
+      "codepoint": 57574,
+      "fontFamily": "Wi",
+      "identifier": "owm531"
+    },
+    "owm-600": {
+      "codepoint": 57575,
+      "fontFamily": "Wi",
+      "identifier": "owm600"
+    },
+    "owm-601": {
+      "codepoint": 57576,
+      "fontFamily": "Wi",
+      "identifier": "owm601"
+    },
+    "owm-602": {
+      "codepoint": 57577,
+      "fontFamily": "Wi",
+      "identifier": "owm602"
+    },
+    "owm-611": {
+      "codepoint": 57578,
+      "fontFamily": "Wi",
+      "identifier": "owm611"
+    },
+    "owm-612": {
+      "codepoint": 57579,
+      "fontFamily": "Wi",
+      "identifier": "owm612"
+    },
+    "owm-615": {
+      "codepoint": 57580,
+      "fontFamily": "Wi",
+      "identifier": "owm615"
+    },
+    "owm-616": {
+      "codepoint": 57581,
+      "fontFamily": "Wi",
+      "identifier": "owm616"
+    },
+    "owm-620": {
+      "codepoint": 57582,
+      "fontFamily": "Wi",
+      "identifier": "owm620"
+    },
+    "owm-621": {
+      "codepoint": 57583,
+      "fontFamily": "Wi",
+      "identifier": "owm621"
+    },
+    "owm-622": {
+      "codepoint": 57584,
+      "fontFamily": "Wi",
+      "identifier": "owm622"
+    },
+    "owm-701": {
+      "codepoint": 57585,
+      "fontFamily": "Wi",
+      "identifier": "owm701"
+    },
+    "owm-711": {
+      "codepoint": 57586,
+      "fontFamily": "Wi",
+      "identifier": "owm711"
+    },
+    "owm-721": {
+      "codepoint": 57587,
+      "fontFamily": "Wi",
+      "identifier": "owm721"
+    },
+    "owm-731": {
+      "codepoint": 57588,
+      "fontFamily": "Wi",
+      "identifier": "owm731"
+    },
+    "owm-741": {
+      "codepoint": 57589,
+      "fontFamily": "Wi",
+      "identifier": "owm741"
+    },
+    "owm-761": {
+      "codepoint": 57590,
+      "fontFamily": "Wi",
+      "identifier": "owm761"
+    },
+    "owm-762": {
+      "codepoint": 57591,
+      "fontFamily": "Wi",
+      "identifier": "owm762"
+    },
+    "owm-771": {
+      "codepoint": 57592,
+      "fontFamily": "Wi",
+      "identifier": "owm771"
+    },
+    "owm-781": {
+      "codepoint": 57593,
+      "fontFamily": "Wi",
+      "identifier": "owm781"
+    },
+    "owm-800": {
+      "codepoint": 57594,
+      "fontFamily": "Wi",
+      "identifier": "owm800"
+    },
+    "owm-801": {
+      "codepoint": 57595,
+      "fontFamily": "Wi",
+      "identifier": "owm801"
+    },
+    "owm-802": {
+      "codepoint": 57596,
+      "fontFamily": "Wi",
+      "identifier": "owm802"
+    },
+    "owm-803": {
+      "codepoint": 57597,
+      "fontFamily": "Wi",
+      "identifier": "owm803"
+    },
+    "owm-804": {
+      "codepoint": 57598,
+      "fontFamily": "Wi",
+      "identifier": "owm804"
+    },
+    "owm-900": {
+      "codepoint": 57599,
+      "fontFamily": "Wi",
+      "identifier": "owm900"
+    },
+    "owm-901": {
+      "codepoint": 57600,
+      "fontFamily": "Wi",
+      "identifier": "owm901"
+    },
+    "owm-902": {
+      "codepoint": 57601,
+      "fontFamily": "Wi",
+      "identifier": "owm902"
+    },
+    "owm-903": {
+      "codepoint": 57602,
+      "fontFamily": "Wi",
+      "identifier": "owm903"
+    },
+    "owm-904": {
+      "codepoint": 57603,
+      "fontFamily": "Wi",
+      "identifier": "owm904"
+    },
+    "owm-905": {
+      "codepoint": 57604,
+      "fontFamily": "Wi",
+      "identifier": "owm905"
+    },
+    "owm-906": {
+      "codepoint": 57605,
+      "fontFamily": "Wi",
+      "identifier": "owm906"
+    },
+    "owm-957": {
+      "codepoint": 57606,
+      "fontFamily": "Wi",
+      "identifier": "owm957"
+    },
+    "owm-day-200": {
+      "codepoint": 57607,
+      "fontFamily": "Wi",
+      "identifier": "owmDay200"
+    },
+    "owm-day-201": {
+      "codepoint": 57608,
+      "fontFamily": "Wi",
+      "identifier": "owmDay201"
+    },
+    "owm-day-202": {
+      "codepoint": 57609,
+      "fontFamily": "Wi",
+      "identifier": "owmDay202"
+    },
+    "owm-day-210": {
+      "codepoint": 57610,
+      "fontFamily": "Wi",
+      "identifier": "owmDay210"
+    },
+    "owm-day-211": {
+      "codepoint": 57611,
+      "fontFamily": "Wi",
+      "identifier": "owmDay211"
+    },
+    "owm-day-212": {
+      "codepoint": 57612,
+      "fontFamily": "Wi",
+      "identifier": "owmDay212"
+    },
+    "owm-day-221": {
+      "codepoint": 57613,
+      "fontFamily": "Wi",
+      "identifier": "owmDay221"
+    },
+    "owm-day-230": {
+      "codepoint": 57614,
+      "fontFamily": "Wi",
+      "identifier": "owmDay230"
+    },
+    "owm-day-231": {
+      "codepoint": 57615,
+      "fontFamily": "Wi",
+      "identifier": "owmDay231"
+    },
+    "owm-day-232": {
+      "codepoint": 57616,
+      "fontFamily": "Wi",
+      "identifier": "owmDay232"
+    },
+    "owm-day-300": {
+      "codepoint": 57617,
+      "fontFamily": "Wi",
+      "identifier": "owmDay300"
+    },
+    "owm-day-301": {
+      "codepoint": 57618,
+      "fontFamily": "Wi",
+      "identifier": "owmDay301"
+    },
+    "owm-day-302": {
+      "codepoint": 57619,
+      "fontFamily": "Wi",
+      "identifier": "owmDay302"
+    },
+    "owm-day-310": {
+      "codepoint": 57620,
+      "fontFamily": "Wi",
+      "identifier": "owmDay310"
+    },
+    "owm-day-311": {
+      "codepoint": 57621,
+      "fontFamily": "Wi",
+      "identifier": "owmDay311"
+    },
+    "owm-day-312": {
+      "codepoint": 57622,
+      "fontFamily": "Wi",
+      "identifier": "owmDay312"
+    },
+    "owm-day-313": {
+      "codepoint": 57623,
+      "fontFamily": "Wi",
+      "identifier": "owmDay313"
+    },
+    "owm-day-314": {
+      "codepoint": 57624,
+      "fontFamily": "Wi",
+      "identifier": "owmDay314"
+    },
+    "owm-day-321": {
+      "codepoint": 57625,
+      "fontFamily": "Wi",
+      "identifier": "owmDay321"
+    },
+    "owm-day-500": {
+      "codepoint": 57626,
+      "fontFamily": "Wi",
+      "identifier": "owmDay500"
+    },
+    "owm-day-501": {
+      "codepoint": 57627,
+      "fontFamily": "Wi",
+      "identifier": "owmDay501"
+    },
+    "owm-day-502": {
+      "codepoint": 57628,
+      "fontFamily": "Wi",
+      "identifier": "owmDay502"
+    },
+    "owm-day-503": {
+      "codepoint": 57629,
+      "fontFamily": "Wi",
+      "identifier": "owmDay503"
+    },
+    "owm-day-504": {
+      "codepoint": 57630,
+      "fontFamily": "Wi",
+      "identifier": "owmDay504"
+    },
+    "owm-day-511": {
+      "codepoint": 57631,
+      "fontFamily": "Wi",
+      "identifier": "owmDay511"
+    },
+    "owm-day-520": {
+      "codepoint": 57632,
+      "fontFamily": "Wi",
+      "identifier": "owmDay520"
+    },
+    "owm-day-521": {
+      "codepoint": 57633,
+      "fontFamily": "Wi",
+      "identifier": "owmDay521"
+    },
+    "owm-day-522": {
+      "codepoint": 57634,
+      "fontFamily": "Wi",
+      "identifier": "owmDay522"
+    },
+    "owm-day-531": {
+      "codepoint": 57635,
+      "fontFamily": "Wi",
+      "identifier": "owmDay531"
+    },
+    "owm-day-600": {
+      "codepoint": 57636,
+      "fontFamily": "Wi",
+      "identifier": "owmDay600"
+    },
+    "owm-day-601": {
+      "codepoint": 57637,
+      "fontFamily": "Wi",
+      "identifier": "owmDay601"
+    },
+    "owm-day-602": {
+      "codepoint": 57638,
+      "fontFamily": "Wi",
+      "identifier": "owmDay602"
+    },
+    "owm-day-611": {
+      "codepoint": 57639,
+      "fontFamily": "Wi",
+      "identifier": "owmDay611"
+    },
+    "owm-day-612": {
+      "codepoint": 57640,
+      "fontFamily": "Wi",
+      "identifier": "owmDay612"
+    },
+    "owm-day-615": {
+      "codepoint": 57641,
+      "fontFamily": "Wi",
+      "identifier": "owmDay615"
+    },
+    "owm-day-616": {
+      "codepoint": 57642,
+      "fontFamily": "Wi",
+      "identifier": "owmDay616"
+    },
+    "owm-day-620": {
+      "codepoint": 57643,
+      "fontFamily": "Wi",
+      "identifier": "owmDay620"
+    },
+    "owm-day-621": {
+      "codepoint": 57644,
+      "fontFamily": "Wi",
+      "identifier": "owmDay621"
+    },
+    "owm-day-622": {
+      "codepoint": 57645,
+      "fontFamily": "Wi",
+      "identifier": "owmDay622"
+    },
+    "owm-day-701": {
+      "codepoint": 57646,
+      "fontFamily": "Wi",
+      "identifier": "owmDay701"
+    },
+    "owm-day-711": {
+      "codepoint": 57647,
+      "fontFamily": "Wi",
+      "identifier": "owmDay711"
+    },
+    "owm-day-721": {
+      "codepoint": 57648,
+      "fontFamily": "Wi",
+      "identifier": "owmDay721"
+    },
+    "owm-day-731": {
+      "codepoint": 57649,
+      "fontFamily": "Wi",
+      "identifier": "owmDay731"
+    },
+    "owm-day-741": {
+      "codepoint": 57650,
+      "fontFamily": "Wi",
+      "identifier": "owmDay741"
+    },
+    "owm-day-761": {
+      "codepoint": 57651,
+      "fontFamily": "Wi",
+      "identifier": "owmDay761"
+    },
+    "owm-day-762": {
+      "codepoint": 57652,
+      "fontFamily": "Wi",
+      "identifier": "owmDay762"
+    },
+    "owm-day-781": {
+      "codepoint": 57653,
+      "fontFamily": "Wi",
+      "identifier": "owmDay781"
+    },
+    "owm-day-800": {
+      "codepoint": 57654,
+      "fontFamily": "Wi",
+      "identifier": "owmDay800"
+    },
+    "owm-day-801": {
+      "codepoint": 57655,
+      "fontFamily": "Wi",
+      "identifier": "owmDay801"
+    },
+    "owm-day-802": {
+      "codepoint": 57656,
+      "fontFamily": "Wi",
+      "identifier": "owmDay802"
+    },
+    "owm-day-803": {
+      "codepoint": 57657,
+      "fontFamily": "Wi",
+      "identifier": "owmDay803"
+    },
+    "owm-day-804": {
+      "codepoint": 57658,
+      "fontFamily": "Wi",
+      "identifier": "owmDay804"
+    },
+    "owm-day-900": {
+      "codepoint": 57659,
+      "fontFamily": "Wi",
+      "identifier": "owmDay900"
+    },
+    "owm-day-902": {
+      "codepoint": 57660,
+      "fontFamily": "Wi",
+      "identifier": "owmDay902"
+    },
+    "owm-day-903": {
+      "codepoint": 57661,
+      "fontFamily": "Wi",
+      "identifier": "owmDay903"
+    },
+    "owm-day-904": {
+      "codepoint": 57662,
+      "fontFamily": "Wi",
+      "identifier": "owmDay904"
+    },
+    "owm-day-906": {
+      "codepoint": 57663,
+      "fontFamily": "Wi",
+      "identifier": "owmDay906"
+    },
+    "owm-day-957": {
+      "codepoint": 57664,
+      "fontFamily": "Wi",
+      "identifier": "owmDay957"
+    },
+    "owm-night-200": {
+      "codepoint": 57665,
+      "fontFamily": "Wi",
+      "identifier": "owmNight200"
+    },
+    "owm-night-201": {
+      "codepoint": 57666,
+      "fontFamily": "Wi",
+      "identifier": "owmNight201"
+    },
+    "owm-night-202": {
+      "codepoint": 57667,
+      "fontFamily": "Wi",
+      "identifier": "owmNight202"
+    },
+    "owm-night-210": {
+      "codepoint": 57668,
+      "fontFamily": "Wi",
+      "identifier": "owmNight210"
+    },
+    "owm-night-211": {
+      "codepoint": 57669,
+      "fontFamily": "Wi",
+      "identifier": "owmNight211"
+    },
+    "owm-night-212": {
+      "codepoint": 57670,
+      "fontFamily": "Wi",
+      "identifier": "owmNight212"
+    },
+    "owm-night-221": {
+      "codepoint": 57671,
+      "fontFamily": "Wi",
+      "identifier": "owmNight221"
+    },
+    "owm-night-230": {
+      "codepoint": 57672,
+      "fontFamily": "Wi",
+      "identifier": "owmNight230"
+    },
+    "owm-night-231": {
+      "codepoint": 57673,
+      "fontFamily": "Wi",
+      "identifier": "owmNight231"
+    },
+    "owm-night-232": {
+      "codepoint": 57674,
+      "fontFamily": "Wi",
+      "identifier": "owmNight232"
+    },
+    "owm-night-300": {
+      "codepoint": 57675,
+      "fontFamily": "Wi",
+      "identifier": "owmNight300"
+    },
+    "owm-night-301": {
+      "codepoint": 57676,
+      "fontFamily": "Wi",
+      "identifier": "owmNight301"
+    },
+    "owm-night-302": {
+      "codepoint": 57677,
+      "fontFamily": "Wi",
+      "identifier": "owmNight302"
+    },
+    "owm-night-310": {
+      "codepoint": 57678,
+      "fontFamily": "Wi",
+      "identifier": "owmNight310"
+    },
+    "owm-night-311": {
+      "codepoint": 57679,
+      "fontFamily": "Wi",
+      "identifier": "owmNight311"
+    },
+    "owm-night-312": {
+      "codepoint": 57680,
+      "fontFamily": "Wi",
+      "identifier": "owmNight312"
+    },
+    "owm-night-313": {
+      "codepoint": 57681,
+      "fontFamily": "Wi",
+      "identifier": "owmNight313"
+    },
+    "owm-night-314": {
+      "codepoint": 57682,
+      "fontFamily": "Wi",
+      "identifier": "owmNight314"
+    },
+    "owm-night-321": {
+      "codepoint": 57683,
+      "fontFamily": "Wi",
+      "identifier": "owmNight321"
+    },
+    "owm-night-500": {
+      "codepoint": 57684,
+      "fontFamily": "Wi",
+      "identifier": "owmNight500"
+    },
+    "owm-night-501": {
+      "codepoint": 57685,
+      "fontFamily": "Wi",
+      "identifier": "owmNight501"
+    },
+    "owm-night-502": {
+      "codepoint": 57686,
+      "fontFamily": "Wi",
+      "identifier": "owmNight502"
+    },
+    "owm-night-503": {
+      "codepoint": 57687,
+      "fontFamily": "Wi",
+      "identifier": "owmNight503"
+    },
+    "owm-night-504": {
+      "codepoint": 57688,
+      "fontFamily": "Wi",
+      "identifier": "owmNight504"
+    },
+    "owm-night-511": {
+      "codepoint": 57689,
+      "fontFamily": "Wi",
+      "identifier": "owmNight511"
+    },
+    "owm-night-520": {
+      "codepoint": 57690,
+      "fontFamily": "Wi",
+      "identifier": "owmNight520"
+    },
+    "owm-night-521": {
+      "codepoint": 57691,
+      "fontFamily": "Wi",
+      "identifier": "owmNight521"
+    },
+    "owm-night-522": {
+      "codepoint": 57692,
+      "fontFamily": "Wi",
+      "identifier": "owmNight522"
+    },
+    "owm-night-531": {
+      "codepoint": 57693,
+      "fontFamily": "Wi",
+      "identifier": "owmNight531"
+    },
+    "owm-night-600": {
+      "codepoint": 57694,
+      "fontFamily": "Wi",
+      "identifier": "owmNight600"
+    },
+    "owm-night-601": {
+      "codepoint": 57695,
+      "fontFamily": "Wi",
+      "identifier": "owmNight601"
+    },
+    "owm-night-602": {
+      "codepoint": 57696,
+      "fontFamily": "Wi",
+      "identifier": "owmNight602"
+    },
+    "owm-night-611": {
+      "codepoint": 57697,
+      "fontFamily": "Wi",
+      "identifier": "owmNight611"
+    },
+    "owm-night-612": {
+      "codepoint": 57698,
+      "fontFamily": "Wi",
+      "identifier": "owmNight612"
+    },
+    "owm-night-615": {
+      "codepoint": 57699,
+      "fontFamily": "Wi",
+      "identifier": "owmNight615"
+    },
+    "owm-night-616": {
+      "codepoint": 57700,
+      "fontFamily": "Wi",
+      "identifier": "owmNight616"
+    },
+    "owm-night-620": {
+      "codepoint": 57701,
+      "fontFamily": "Wi",
+      "identifier": "owmNight620"
+    },
+    "owm-night-621": {
+      "codepoint": 57702,
+      "fontFamily": "Wi",
+      "identifier": "owmNight621"
+    },
+    "owm-night-622": {
+      "codepoint": 57703,
+      "fontFamily": "Wi",
+      "identifier": "owmNight622"
+    },
+    "owm-night-701": {
+      "codepoint": 57704,
+      "fontFamily": "Wi",
+      "identifier": "owmNight701"
+    },
+    "owm-night-711": {
+      "codepoint": 57705,
+      "fontFamily": "Wi",
+      "identifier": "owmNight711"
+    },
+    "owm-night-721": {
+      "codepoint": 57706,
+      "fontFamily": "Wi",
+      "identifier": "owmNight721"
+    },
+    "owm-night-731": {
+      "codepoint": 57707,
+      "fontFamily": "Wi",
+      "identifier": "owmNight731"
+    },
+    "owm-night-741": {
+      "codepoint": 57708,
+      "fontFamily": "Wi",
+      "identifier": "owmNight741"
+    },
+    "owm-night-761": {
+      "codepoint": 57709,
+      "fontFamily": "Wi",
+      "identifier": "owmNight761"
+    },
+    "owm-night-762": {
+      "codepoint": 57710,
+      "fontFamily": "Wi",
+      "identifier": "owmNight762"
+    },
+    "owm-night-781": {
+      "codepoint": 57711,
+      "fontFamily": "Wi",
+      "identifier": "owmNight781"
+    },
+    "owm-night-800": {
+      "codepoint": 57712,
+      "fontFamily": "Wi",
+      "identifier": "owmNight800"
+    },
+    "owm-night-801": {
+      "codepoint": 57713,
+      "fontFamily": "Wi",
+      "identifier": "owmNight801"
+    },
+    "owm-night-802": {
+      "codepoint": 57714,
+      "fontFamily": "Wi",
+      "identifier": "owmNight802"
+    },
+    "owm-night-803": {
+      "codepoint": 57715,
+      "fontFamily": "Wi",
+      "identifier": "owmNight803"
+    },
+    "owm-night-804": {
+      "codepoint": 57716,
+      "fontFamily": "Wi",
+      "identifier": "owmNight804"
+    },
+    "owm-night-900": {
+      "codepoint": 57717,
+      "fontFamily": "Wi",
+      "identifier": "owmNight900"
+    },
+    "owm-night-902": {
+      "codepoint": 57718,
+      "fontFamily": "Wi",
+      "identifier": "owmNight902"
+    },
+    "owm-night-903": {
+      "codepoint": 57719,
+      "fontFamily": "Wi",
+      "identifier": "owmNight903"
+    },
+    "owm-night-904": {
+      "codepoint": 57720,
+      "fontFamily": "Wi",
+      "identifier": "owmNight904"
+    },
+    "owm-night-906": {
+      "codepoint": 57721,
+      "fontFamily": "Wi",
+      "identifier": "owmNight906"
+    },
+    "owm-night-957": {
+      "codepoint": 57722,
+      "fontFamily": "Wi",
+      "identifier": "owmNight957"
+    },
+    "rain": {
+      "codepoint": 57723,
+      "fontFamily": "Wi",
+      "identifier": "rain"
+    },
+    "rain-mix": {
+      "codepoint": 57724,
+      "fontFamily": "Wi",
+      "identifier": "rainMix"
+    },
+    "rain-wind": {
+      "codepoint": 57725,
+      "fontFamily": "Wi",
+      "identifier": "rainWind"
+    },
+    "raindrop": {
+      "codepoint": 57726,
+      "fontFamily": "Wi",
+      "identifier": "raindrop"
+    },
+    "raindrops": {
+      "codepoint": 57727,
+      "fontFamily": "Wi",
+      "identifier": "raindrops"
+    },
+    "refresh": {
+      "codepoint": 57728,
+      "fontFamily": "Wi",
+      "identifier": "refresh"
+    },
+    "refresh-alt": {
+      "codepoint": 57729,
+      "fontFamily": "Wi",
+      "identifier": "refreshAlt"
+    },
+    "sandstorm": {
+      "codepoint": 57730,
+      "fontFamily": "Wi",
+      "identifier": "sandstorm"
+    },
+    "showers": {
+      "codepoint": 57731,
+      "fontFamily": "Wi",
+      "identifier": "showers"
+    },
+    "sleet": {
+      "codepoint": 57732,
+      "fontFamily": "Wi",
+      "identifier": "sleet"
+    },
+    "small-craft-advisory": {
+      "codepoint": 57733,
+      "fontFamily": "Wi",
+      "identifier": "smallCraftAdvisory"
+    },
+    "smog": {
+      "codepoint": 57734,
+      "fontFamily": "Wi",
+      "identifier": "smog"
+    },
+    "smoke": {
+      "codepoint": 57735,
+      "fontFamily": "Wi",
+      "identifier": "smoke"
+    },
+    "snow": {
+      "codepoint": 57736,
+      "fontFamily": "Wi",
+      "identifier": "snow"
+    },
+    "snow-wind": {
+      "codepoint": 57737,
+      "fontFamily": "Wi",
+      "identifier": "snowWind"
+    },
+    "snowflake-cold": {
+      "codepoint": 57738,
+      "fontFamily": "Wi",
+      "identifier": "snowflakeCold"
+    },
+    "solar-eclipse": {
+      "codepoint": 57739,
+      "fontFamily": "Wi",
+      "identifier": "solarEclipse"
+    },
+    "sprinkle": {
+      "codepoint": 57740,
+      "fontFamily": "Wi",
+      "identifier": "sprinkle"
+    },
+    "stars": {
+      "codepoint": 57741,
+      "fontFamily": "Wi",
+      "identifier": "stars"
+    },
+    "storm-showers": {
+      "codepoint": 57742,
+      "fontFamily": "Wi",
+      "identifier": "stormShowers"
+    },
+    "storm-warning": {
+      "codepoint": 57743,
+      "fontFamily": "Wi",
+      "identifier": "stormWarning"
+    },
+    "strong-wind": {
+      "codepoint": 57744,
+      "fontFamily": "Wi",
+      "identifier": "strongWind"
+    },
+    "sunrise": {
+      "codepoint": 57745,
+      "fontFamily": "Wi",
+      "identifier": "sunrise"
+    },
+    "sunset": {
+      "codepoint": 57746,
+      "fontFamily": "Wi",
+      "identifier": "sunset"
+    },
+    "thermometer": {
+      "codepoint": 57747,
+      "fontFamily": "Wi",
+      "identifier": "thermometer"
+    },
+    "thermometer-exterior": {
+      "codepoint": 57748,
+      "fontFamily": "Wi",
+      "identifier": "thermometerExterior"
+    },
+    "thermometer-internal": {
+      "codepoint": 57749,
+      "fontFamily": "Wi",
+      "identifier": "thermometerInternal"
+    },
+    "thunderstorm": {
+      "codepoint": 57750,
+      "fontFamily": "Wi",
+      "identifier": "thunderstorm"
+    },
+    "time-1": {
+      "codepoint": 57751,
+      "fontFamily": "Wi",
+      "identifier": "time1"
+    },
+    "time-10": {
+      "codepoint": 57752,
+      "fontFamily": "Wi",
+      "identifier": "time10"
+    },
+    "time-11": {
+      "codepoint": 57753,
+      "fontFamily": "Wi",
+      "identifier": "time11"
+    },
+    "time-12": {
+      "codepoint": 57754,
+      "fontFamily": "Wi",
+      "identifier": "time12"
+    },
+    "time-2": {
+      "codepoint": 57755,
+      "fontFamily": "Wi",
+      "identifier": "time2"
+    },
+    "time-3": {
+      "codepoint": 57756,
+      "fontFamily": "Wi",
+      "identifier": "time3"
+    },
+    "time-4": {
+      "codepoint": 57757,
+      "fontFamily": "Wi",
+      "identifier": "time4"
+    },
+    "time-5": {
+      "codepoint": 57758,
+      "fontFamily": "Wi",
+      "identifier": "time5"
+    },
+    "time-6": {
+      "codepoint": 57759,
+      "fontFamily": "Wi",
+      "identifier": "time6"
+    },
+    "time-7": {
+      "codepoint": 57760,
+      "fontFamily": "Wi",
+      "identifier": "time7"
+    },
+    "time-8": {
+      "codepoint": 57761,
+      "fontFamily": "Wi",
+      "identifier": "time8"
+    },
+    "time-9": {
+      "codepoint": 57762,
+      "fontFamily": "Wi",
+      "identifier": "time9"
+    },
+    "tornado": {
+      "codepoint": 57763,
+      "fontFamily": "Wi",
+      "identifier": "tornado"
+    },
+    "train": {
+      "codepoint": 57764,
+      "fontFamily": "Wi",
+      "identifier": "train"
+    },
+    "tsunami": {
+      "codepoint": 57765,
+      "fontFamily": "Wi",
+      "identifier": "tsunami"
+    },
+    "umbrella": {
+      "codepoint": 57766,
+      "fontFamily": "Wi",
+      "identifier": "umbrella"
+    },
+    "volcano": {
+      "codepoint": 57767,
+      "fontFamily": "Wi",
+      "identifier": "volcano"
+    },
+    "wind-beaufort-0": {
+      "codepoint": 57768,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort0"
+    },
+    "wind-beaufort-1": {
+      "codepoint": 57769,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort1"
+    },
+    "wind-beaufort-10": {
+      "codepoint": 57770,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort10"
+    },
+    "wind-beaufort-11": {
+      "codepoint": 57771,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort11"
+    },
+    "wind-beaufort-12": {
+      "codepoint": 57772,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort12"
+    },
+    "wind-beaufort-2": {
+      "codepoint": 57773,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort2"
+    },
+    "wind-beaufort-3": {
+      "codepoint": 57774,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort3"
+    },
+    "wind-beaufort-4": {
+      "codepoint": 57775,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort4"
+    },
+    "wind-beaufort-5": {
+      "codepoint": 57776,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort5"
+    },
+    "wind-beaufort-6": {
+      "codepoint": 57777,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort6"
+    },
+    "wind-beaufort-7": {
+      "codepoint": 57778,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort7"
+    },
+    "wind-beaufort-8": {
+      "codepoint": 57779,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort8"
+    },
+    "wind-beaufort-9": {
+      "codepoint": 57780,
+      "fontFamily": "Wi",
+      "identifier": "windBeaufort9"
+    },
+    "wind-deg": {
+      "codepoint": 57781,
+      "fontFamily": "Wi",
+      "identifier": "windDeg"
+    },
+    "wind-direction": {
+      "codepoint": 57782,
+      "fontFamily": "Wi",
+      "identifier": "windDirection"
+    },
+    "wind-direction-e": {
+      "codepoint": 57783,
+      "fontFamily": "Wi",
+      "identifier": "windDirectionE"
+    },
+    "wind-direction-n": {
+      "codepoint": 57784,
+      "fontFamily": "Wi",
+      "identifier": "windDirectionN"
+    },
+    "wind-direction-ne": {
+      "codepoint": 57785,
+      "fontFamily": "Wi",
+      "identifier": "windDirectionNe"
+    },
+    "wind-direction-nw": {
+      "codepoint": 57786,
+      "fontFamily": "Wi",
+      "identifier": "windDirectionNw"
+    },
+    "wind-direction-s": {
+      "codepoint": 57787,
+      "fontFamily": "Wi",
+      "identifier": "windDirectionS"
+    },
+    "wind-direction-se": {
+      "codepoint": 57788,
+      "fontFamily": "Wi",
+      "identifier": "windDirectionSe"
+    },
+    "wind-direction-sw": {
+      "codepoint": 57789,
+      "fontFamily": "Wi",
+      "identifier": "windDirectionSw"
+    },
+    "wind-direction-w": {
+      "codepoint": 57790,
+      "fontFamily": "Wi",
+      "identifier": "windDirectionW"
+    },
+    "windy": {
+      "codepoint": 57791,
+      "fontFamily": "Wi",
+      "identifier": "windy"
+    },
+    "wmo4680-0": {
+      "codepoint": 57792,
+      "fontFamily": "Wi",
+      "identifier": "wmo46800"
+    },
+    "wmo4680-00": {
+      "codepoint": 57793,
+      "fontFamily": "Wi",
+      "identifier": "wmo468000"
+    },
+    "wmo4680-01": {
+      "codepoint": 57794,
+      "fontFamily": "Wi",
+      "identifier": "wmo468001"
+    },
+    "wmo4680-02": {
+      "codepoint": 57795,
+      "fontFamily": "Wi",
+      "identifier": "wmo468002"
+    },
+    "wmo4680-03": {
+      "codepoint": 57796,
+      "fontFamily": "Wi",
+      "identifier": "wmo468003"
+    },
+    "wmo4680-04": {
+      "codepoint": 57797,
+      "fontFamily": "Wi",
+      "identifier": "wmo468004"
+    },
+    "wmo4680-05": {
+      "codepoint": 57798,
+      "fontFamily": "Wi",
+      "identifier": "wmo468005"
+    },
+    "wmo4680-1": {
+      "codepoint": 57799,
+      "fontFamily": "Wi",
+      "identifier": "wmo46801"
+    },
+    "wmo4680-10": {
+      "codepoint": 57800,
+      "fontFamily": "Wi",
+      "identifier": "wmo468010"
+    },
+    "wmo4680-11": {
+      "codepoint": 57801,
+      "fontFamily": "Wi",
+      "identifier": "wmo468011"
+    },
+    "wmo4680-12": {
+      "codepoint": 57802,
+      "fontFamily": "Wi",
+      "identifier": "wmo468012"
+    },
+    "wmo4680-18": {
+      "codepoint": 57803,
+      "fontFamily": "Wi",
+      "identifier": "wmo468018"
+    },
+    "wmo4680-2": {
+      "codepoint": 57804,
+      "fontFamily": "Wi",
+      "identifier": "wmo46802"
+    },
+    "wmo4680-20": {
+      "codepoint": 57805,
+      "fontFamily": "Wi",
+      "identifier": "wmo468020"
+    },
+    "wmo4680-21": {
+      "codepoint": 57806,
+      "fontFamily": "Wi",
+      "identifier": "wmo468021"
+    },
+    "wmo4680-22": {
+      "codepoint": 57807,
+      "fontFamily": "Wi",
+      "identifier": "wmo468022"
+    },
+    "wmo4680-23": {
+      "codepoint": 57808,
+      "fontFamily": "Wi",
+      "identifier": "wmo468023"
+    },
+    "wmo4680-24": {
+      "codepoint": 57809,
+      "fontFamily": "Wi",
+      "identifier": "wmo468024"
+    },
+    "wmo4680-25": {
+      "codepoint": 57810,
+      "fontFamily": "Wi",
+      "identifier": "wmo468025"
+    },
+    "wmo4680-26": {
+      "codepoint": 57811,
+      "fontFamily": "Wi",
+      "identifier": "wmo468026"
+    },
+    "wmo4680-27": {
+      "codepoint": 57812,
+      "fontFamily": "Wi",
+      "identifier": "wmo468027"
+    },
+    "wmo4680-28": {
+      "codepoint": 57813,
+      "fontFamily": "Wi",
+      "identifier": "wmo468028"
+    },
+    "wmo4680-29": {
+      "codepoint": 57814,
+      "fontFamily": "Wi",
+      "identifier": "wmo468029"
+    },
+    "wmo4680-3": {
+      "codepoint": 57815,
+      "fontFamily": "Wi",
+      "identifier": "wmo46803"
+    },
+    "wmo4680-30": {
+      "codepoint": 57816,
+      "fontFamily": "Wi",
+      "identifier": "wmo468030"
+    },
+    "wmo4680-31": {
+      "codepoint": 57817,
+      "fontFamily": "Wi",
+      "identifier": "wmo468031"
+    },
+    "wmo4680-32": {
+      "codepoint": 57818,
+      "fontFamily": "Wi",
+      "identifier": "wmo468032"
+    },
+    "wmo4680-33": {
+      "codepoint": 57819,
+      "fontFamily": "Wi",
+      "identifier": "wmo468033"
+    },
+    "wmo4680-34": {
+      "codepoint": 57820,
+      "fontFamily": "Wi",
+      "identifier": "wmo468034"
+    },
+    "wmo4680-35": {
+      "codepoint": 57821,
+      "fontFamily": "Wi",
+      "identifier": "wmo468035"
+    },
+    "wmo4680-4": {
+      "codepoint": 57822,
+      "fontFamily": "Wi",
+      "identifier": "wmo46804"
+    },
+    "wmo4680-40": {
+      "codepoint": 57823,
+      "fontFamily": "Wi",
+      "identifier": "wmo468040"
+    },
+    "wmo4680-41": {
+      "codepoint": 57824,
+      "fontFamily": "Wi",
+      "identifier": "wmo468041"
+    },
+    "wmo4680-42": {
+      "codepoint": 57825,
+      "fontFamily": "Wi",
+      "identifier": "wmo468042"
+    },
+    "wmo4680-43": {
+      "codepoint": 57826,
+      "fontFamily": "Wi",
+      "identifier": "wmo468043"
+    },
+    "wmo4680-44": {
+      "codepoint": 57827,
+      "fontFamily": "Wi",
+      "identifier": "wmo468044"
+    },
+    "wmo4680-45": {
+      "codepoint": 57828,
+      "fontFamily": "Wi",
+      "identifier": "wmo468045"
+    },
+    "wmo4680-46": {
+      "codepoint": 57829,
+      "fontFamily": "Wi",
+      "identifier": "wmo468046"
+    },
+    "wmo4680-47": {
+      "codepoint": 57830,
+      "fontFamily": "Wi",
+      "identifier": "wmo468047"
+    },
+    "wmo4680-48": {
+      "codepoint": 57831,
+      "fontFamily": "Wi",
+      "identifier": "wmo468048"
+    },
+    "wmo4680-5": {
+      "codepoint": 57832,
+      "fontFamily": "Wi",
+      "identifier": "wmo46805"
+    },
+    "wmo4680-50": {
+      "codepoint": 57833,
+      "fontFamily": "Wi",
+      "identifier": "wmo468050"
+    },
+    "wmo4680-51": {
+      "codepoint": 57834,
+      "fontFamily": "Wi",
+      "identifier": "wmo468051"
+    },
+    "wmo4680-52": {
+      "codepoint": 57835,
+      "fontFamily": "Wi",
+      "identifier": "wmo468052"
+    },
+    "wmo4680-53": {
+      "codepoint": 57836,
+      "fontFamily": "Wi",
+      "identifier": "wmo468053"
+    },
+    "wmo4680-54": {
+      "codepoint": 57837,
+      "fontFamily": "Wi",
+      "identifier": "wmo468054"
+    },
+    "wmo4680-55": {
+      "codepoint": 57838,
+      "fontFamily": "Wi",
+      "identifier": "wmo468055"
+    },
+    "wmo4680-56": {
+      "codepoint": 57839,
+      "fontFamily": "Wi",
+      "identifier": "wmo468056"
+    },
+    "wmo4680-57": {
+      "codepoint": 57840,
+      "fontFamily": "Wi",
+      "identifier": "wmo468057"
+    },
+    "wmo4680-58": {
+      "codepoint": 57841,
+      "fontFamily": "Wi",
+      "identifier": "wmo468058"
+    },
+    "wmo4680-60": {
+      "codepoint": 57842,
+      "fontFamily": "Wi",
+      "identifier": "wmo468060"
+    },
+    "wmo4680-61": {
+      "codepoint": 57843,
+      "fontFamily": "Wi",
+      "identifier": "wmo468061"
+    },
+    "wmo4680-62": {
+      "codepoint": 57844,
+      "fontFamily": "Wi",
+      "identifier": "wmo468062"
+    },
+    "wmo4680-63": {
+      "codepoint": 57845,
+      "fontFamily": "Wi",
+      "identifier": "wmo468063"
+    },
+    "wmo4680-64": {
+      "codepoint": 57846,
+      "fontFamily": "Wi",
+      "identifier": "wmo468064"
+    },
+    "wmo4680-65": {
+      "codepoint": 57847,
+      "fontFamily": "Wi",
+      "identifier": "wmo468065"
+    },
+    "wmo4680-66": {
+      "codepoint": 57848,
+      "fontFamily": "Wi",
+      "identifier": "wmo468066"
+    },
+    "wmo4680-67": {
+      "codepoint": 57849,
+      "fontFamily": "Wi",
+      "identifier": "wmo468067"
+    },
+    "wmo4680-68": {
+      "codepoint": 57850,
+      "fontFamily": "Wi",
+      "identifier": "wmo468068"
+    },
+    "wmo4680-70": {
+      "codepoint": 57851,
+      "fontFamily": "Wi",
+      "identifier": "wmo468070"
+    },
+    "wmo4680-71": {
+      "codepoint": 57852,
+      "fontFamily": "Wi",
+      "identifier": "wmo468071"
+    },
+    "wmo4680-72": {
+      "codepoint": 57853,
+      "fontFamily": "Wi",
+      "identifier": "wmo468072"
+    },
+    "wmo4680-73": {
+      "codepoint": 57854,
+      "fontFamily": "Wi",
+      "identifier": "wmo468073"
+    },
+    "wmo4680-74": {
+      "codepoint": 57855,
+      "fontFamily": "Wi",
+      "identifier": "wmo468074"
+    },
+    "wmo4680-75": {
+      "codepoint": 57856,
+      "fontFamily": "Wi",
+      "identifier": "wmo468075"
+    },
+    "wmo4680-76": {
+      "codepoint": 57857,
+      "fontFamily": "Wi",
+      "identifier": "wmo468076"
+    },
+    "wmo4680-77": {
+      "codepoint": 57858,
+      "fontFamily": "Wi",
+      "identifier": "wmo468077"
+    },
+    "wmo4680-78": {
+      "codepoint": 57859,
+      "fontFamily": "Wi",
+      "identifier": "wmo468078"
+    },
+    "wmo4680-80": {
+      "codepoint": 57860,
+      "fontFamily": "Wi",
+      "identifier": "wmo468080"
+    },
+    "wmo4680-81": {
+      "codepoint": 57861,
+      "fontFamily": "Wi",
+      "identifier": "wmo468081"
+    },
+    "wmo4680-82": {
+      "codepoint": 57862,
+      "fontFamily": "Wi",
+      "identifier": "wmo468082"
+    },
+    "wmo4680-83": {
+      "codepoint": 57863,
+      "fontFamily": "Wi",
+      "identifier": "wmo468083"
+    },
+    "wmo4680-84": {
+      "codepoint": 57864,
+      "fontFamily": "Wi",
+      "identifier": "wmo468084"
+    },
+    "wmo4680-85": {
+      "codepoint": 57865,
+      "fontFamily": "Wi",
+      "identifier": "wmo468085"
+    },
+    "wmo4680-86": {
+      "codepoint": 57866,
+      "fontFamily": "Wi",
+      "identifier": "wmo468086"
+    },
+    "wmo4680-87": {
+      "codepoint": 57867,
+      "fontFamily": "Wi",
+      "identifier": "wmo468087"
+    },
+    "wmo4680-89": {
+      "codepoint": 57868,
+      "fontFamily": "Wi",
+      "identifier": "wmo468089"
+    },
+    "wmo4680-90": {
+      "codepoint": 57869,
+      "fontFamily": "Wi",
+      "identifier": "wmo468090"
+    },
+    "wmo4680-91": {
+      "codepoint": 57870,
+      "fontFamily": "Wi",
+      "identifier": "wmo468091"
+    },
+    "wmo4680-92": {
+      "codepoint": 57871,
+      "fontFamily": "Wi",
+      "identifier": "wmo468092"
+    },
+    "wmo4680-93": {
+      "codepoint": 57872,
+      "fontFamily": "Wi",
+      "identifier": "wmo468093"
+    },
+    "wmo4680-94": {
+      "codepoint": 57873,
+      "fontFamily": "Wi",
+      "identifier": "wmo468094"
+    },
+    "wmo4680-95": {
+      "codepoint": 57874,
+      "fontFamily": "Wi",
+      "identifier": "wmo468095"
+    },
+    "wmo4680-96": {
+      "codepoint": 57875,
+      "fontFamily": "Wi",
+      "identifier": "wmo468096"
+    },
+    "wmo4680-99": {
+      "codepoint": 57876,
+      "fontFamily": "Wi",
+      "identifier": "wmo468099"
+    },
+    "wu-chanceflurries": {
+      "codepoint": 57877,
+      "fontFamily": "Wi",
+      "identifier": "wuChanceflurries"
+    },
+    "wu-chancerain": {
+      "codepoint": 57878,
+      "fontFamily": "Wi",
+      "identifier": "wuChancerain"
+    },
+    "wu-chancesleat": {
+      "codepoint": 57879,
+      "fontFamily": "Wi",
+      "identifier": "wuChancesleat"
+    },
+    "wu-chancesnow": {
+      "codepoint": 57880,
+      "fontFamily": "Wi",
+      "identifier": "wuChancesnow"
+    },
+    "wu-chancetstorms": {
+      "codepoint": 57881,
+      "fontFamily": "Wi",
+      "identifier": "wuChancetstorms"
+    },
+    "wu-clear": {
+      "codepoint": 57882,
+      "fontFamily": "Wi",
+      "identifier": "wuClear"
+    },
+    "wu-cloudy": {
+      "codepoint": 57883,
+      "fontFamily": "Wi",
+      "identifier": "wuCloudy"
+    },
+    "wu-flurries": {
+      "codepoint": 57884,
+      "fontFamily": "Wi",
+      "identifier": "wuFlurries"
+    },
+    "wu-hazy": {
+      "codepoint": 57885,
+      "fontFamily": "Wi",
+      "identifier": "wuHazy"
+    },
+    "wu-mostlycloudy": {
+      "codepoint": 57886,
+      "fontFamily": "Wi",
+      "identifier": "wuMostlycloudy"
+    },
+    "wu-mostlysunny": {
+      "codepoint": 57887,
+      "fontFamily": "Wi",
+      "identifier": "wuMostlysunny"
+    },
+    "wu-partlycloudy": {
+      "codepoint": 57888,
+      "fontFamily": "Wi",
+      "identifier": "wuPartlycloudy"
+    },
+    "wu-partlysunny": {
+      "codepoint": 57889,
+      "fontFamily": "Wi",
+      "identifier": "wuPartlysunny"
+    },
+    "wu-rain": {
+      "codepoint": 57890,
+      "fontFamily": "Wi",
+      "identifier": "wuRain"
+    },
+    "wu-sleat": {
+      "codepoint": 57891,
+      "fontFamily": "Wi",
+      "identifier": "wuSleat"
+    },
+    "wu-snow": {
+      "codepoint": 57892,
+      "fontFamily": "Wi",
+      "identifier": "wuSnow"
+    },
+    "wu-sunny": {
+      "codepoint": 57893,
+      "fontFamily": "Wi",
+      "identifier": "wuSunny"
+    },
+    "wu-tstorms": {
+      "codepoint": 57894,
+      "fontFamily": "Wi",
+      "identifier": "wuTstorms"
+    },
+    "wu-unknown": {
+      "codepoint": 57895,
+      "fontFamily": "Wi",
+      "identifier": "wuUnknown"
+    },
+    "yahoo-0": {
+      "codepoint": 57896,
+      "fontFamily": "Wi",
+      "identifier": "yahoo0"
+    },
+    "yahoo-1": {
+      "codepoint": 57897,
+      "fontFamily": "Wi",
+      "identifier": "yahoo1"
+    },
+    "yahoo-10": {
+      "codepoint": 57898,
+      "fontFamily": "Wi",
+      "identifier": "yahoo10"
+    },
+    "yahoo-11": {
+      "codepoint": 57899,
+      "fontFamily": "Wi",
+      "identifier": "yahoo11"
+    },
+    "yahoo-12": {
+      "codepoint": 57900,
+      "fontFamily": "Wi",
+      "identifier": "yahoo12"
+    },
+    "yahoo-13": {
+      "codepoint": 57901,
+      "fontFamily": "Wi",
+      "identifier": "yahoo13"
+    },
+    "yahoo-14": {
+      "codepoint": 57902,
+      "fontFamily": "Wi",
+      "identifier": "yahoo14"
+    },
+    "yahoo-15": {
+      "codepoint": 57903,
+      "fontFamily": "Wi",
+      "identifier": "yahoo15"
+    },
+    "yahoo-16": {
+      "codepoint": 57904,
+      "fontFamily": "Wi",
+      "identifier": "yahoo16"
+    },
+    "yahoo-17": {
+      "codepoint": 57905,
+      "fontFamily": "Wi",
+      "identifier": "yahoo17"
+    },
+    "yahoo-18": {
+      "codepoint": 57906,
+      "fontFamily": "Wi",
+      "identifier": "yahoo18"
+    },
+    "yahoo-19": {
+      "codepoint": 57907,
+      "fontFamily": "Wi",
+      "identifier": "yahoo19"
+    },
+    "yahoo-2": {
+      "codepoint": 57908,
+      "fontFamily": "Wi",
+      "identifier": "yahoo2"
+    },
+    "yahoo-20": {
+      "codepoint": 57909,
+      "fontFamily": "Wi",
+      "identifier": "yahoo20"
+    },
+    "yahoo-21": {
+      "codepoint": 57910,
+      "fontFamily": "Wi",
+      "identifier": "yahoo21"
+    },
+    "yahoo-22": {
+      "codepoint": 57911,
+      "fontFamily": "Wi",
+      "identifier": "yahoo22"
+    },
+    "yahoo-23": {
+      "codepoint": 57912,
+      "fontFamily": "Wi",
+      "identifier": "yahoo23"
+    },
+    "yahoo-24": {
+      "codepoint": 57913,
+      "fontFamily": "Wi",
+      "identifier": "yahoo24"
+    },
+    "yahoo-25": {
+      "codepoint": 57914,
+      "fontFamily": "Wi",
+      "identifier": "yahoo25"
+    },
+    "yahoo-26": {
+      "codepoint": 57915,
+      "fontFamily": "Wi",
+      "identifier": "yahoo26"
+    },
+    "yahoo-27": {
+      "codepoint": 57916,
+      "fontFamily": "Wi",
+      "identifier": "yahoo27"
+    },
+    "yahoo-28": {
+      "codepoint": 57917,
+      "fontFamily": "Wi",
+      "identifier": "yahoo28"
+    },
+    "yahoo-29": {
+      "codepoint": 57918,
+      "fontFamily": "Wi",
+      "identifier": "yahoo29"
+    },
+    "yahoo-3": {
+      "codepoint": 57919,
+      "fontFamily": "Wi",
+      "identifier": "yahoo3"
+    },
+    "yahoo-30": {
+      "codepoint": 57920,
+      "fontFamily": "Wi",
+      "identifier": "yahoo30"
+    },
+    "yahoo-31": {
+      "codepoint": 57921,
+      "fontFamily": "Wi",
+      "identifier": "yahoo31"
+    },
+    "yahoo-32": {
+      "codepoint": 57922,
+      "fontFamily": "Wi",
+      "identifier": "yahoo32"
+    },
+    "yahoo-3200": {
+      "codepoint": 57923,
+      "fontFamily": "Wi",
+      "identifier": "yahoo3200"
+    },
+    "yahoo-33": {
+      "codepoint": 57924,
+      "fontFamily": "Wi",
+      "identifier": "yahoo33"
+    },
+    "yahoo-34": {
+      "codepoint": 57925,
+      "fontFamily": "Wi",
+      "identifier": "yahoo34"
+    },
+    "yahoo-35": {
+      "codepoint": 57926,
+      "fontFamily": "Wi",
+      "identifier": "yahoo35"
+    },
+    "yahoo-36": {
+      "codepoint": 57927,
+      "fontFamily": "Wi",
+      "identifier": "yahoo36"
+    },
+    "yahoo-37": {
+      "codepoint": 57928,
+      "fontFamily": "Wi",
+      "identifier": "yahoo37"
+    },
+    "yahoo-38": {
+      "codepoint": 57929,
+      "fontFamily": "Wi",
+      "identifier": "yahoo38"
+    },
+    "yahoo-39": {
+      "codepoint": 57930,
+      "fontFamily": "Wi",
+      "identifier": "yahoo39"
+    },
+    "yahoo-4": {
+      "codepoint": 57931,
+      "fontFamily": "Wi",
+      "identifier": "yahoo4"
+    },
+    "yahoo-40": {
+      "codepoint": 57932,
+      "fontFamily": "Wi",
+      "identifier": "yahoo40"
+    },
+    "yahoo-41": {
+      "codepoint": 57933,
+      "fontFamily": "Wi",
+      "identifier": "yahoo41"
+    },
+    "yahoo-42": {
+      "codepoint": 57934,
+      "fontFamily": "Wi",
+      "identifier": "yahoo42"
+    },
+    "yahoo-43": {
+      "codepoint": 57935,
+      "fontFamily": "Wi",
+      "identifier": "yahoo43"
+    },
+    "yahoo-44": {
+      "codepoint": 57936,
+      "fontFamily": "Wi",
+      "identifier": "yahoo44"
+    },
+    "yahoo-45": {
+      "codepoint": 57937,
+      "fontFamily": "Wi",
+      "identifier": "yahoo45"
+    },
+    "yahoo-46": {
+      "codepoint": 57938,
+      "fontFamily": "Wi",
+      "identifier": "yahoo46"
+    },
+    "yahoo-47": {
+      "codepoint": 57939,
+      "fontFamily": "Wi",
+      "identifier": "yahoo47"
+    },
+    "yahoo-5": {
+      "codepoint": 57940,
+      "fontFamily": "Wi",
+      "identifier": "yahoo5"
+    },
+    "yahoo-6": {
+      "codepoint": 57941,
+      "fontFamily": "Wi",
+      "identifier": "yahoo6"
+    },
+    "yahoo-7": {
+      "codepoint": 57942,
+      "fontFamily": "Wi",
+      "identifier": "yahoo7"
+    },
+    "yahoo-8": {
+      "codepoint": 57943,
+      "fontFamily": "Wi",
+      "identifier": "yahoo8"
+    },
+    "yahoo-9": {
+      "codepoint": 57944,
+      "fontFamily": "Wi",
+      "identifier": "yahoo9"
+    }
+  }
+}

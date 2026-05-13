@@ -1,0 +1,1470 @@
+{
+  "schemaVersion": 1,
+  "prefix": "circum",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_circum",
+  "info": {
+    "name": "Circum Icons",
+    "author": {
+      "name": "Klarr Agency",
+      "url": "https://github.com/Klarr-Agency/Circum-Icons"
+    },
+    "license": {
+      "title": "Mozilla Public License 2.0",
+      "spdx": "MPL-2.0",
+      "url": "https://github.com/Klarr-Agency/Circum-Icons/blob/main/LICENSE"
+    },
+    "total": 288
+  },
+  "fonts": [
+    {
+      "family": "Circum",
+      "nextCodepoint": 57632,
+      "iconCount": 288
+    }
+  ],
+  "icons": {
+    "airport-sign-1": {
+      "codepoint": 57344,
+      "fontFamily": "Circum",
+      "identifier": "airportSign1"
+    },
+    "alarm-off": {
+      "codepoint": 57345,
+      "fontFamily": "Circum",
+      "identifier": "alarmOff"
+    },
+    "alarm-on": {
+      "codepoint": 57346,
+      "fontFamily": "Circum",
+      "identifier": "alarmOn"
+    },
+    "align-bottom": {
+      "codepoint": 57347,
+      "fontFamily": "Circum",
+      "identifier": "alignBottom"
+    },
+    "align-center-h": {
+      "codepoint": 57348,
+      "fontFamily": "Circum",
+      "identifier": "alignCenterH"
+    },
+    "align-center-v": {
+      "codepoint": 57349,
+      "fontFamily": "Circum",
+      "identifier": "alignCenterV"
+    },
+    "align-left": {
+      "codepoint": 57350,
+      "fontFamily": "Circum",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57351,
+      "fontFamily": "Circum",
+      "identifier": "alignRight"
+    },
+    "align-top": {
+      "codepoint": 57352,
+      "fontFamily": "Circum",
+      "identifier": "alignTop"
+    },
+    "apple": {
+      "codepoint": 57353,
+      "fontFamily": "Circum",
+      "identifier": "apple"
+    },
+    "at": {
+      "codepoint": 57354,
+      "fontFamily": "Circum",
+      "identifier": "at"
+    },
+    "avocado": {
+      "codepoint": 57355,
+      "fontFamily": "Circum",
+      "identifier": "avocado"
+    },
+    "bacon": {
+      "codepoint": 57356,
+      "fontFamily": "Circum",
+      "identifier": "bacon"
+    },
+    "badge-dollar": {
+      "codepoint": 57357,
+      "fontFamily": "Circum",
+      "identifier": "badgeDollar"
+    },
+    "bag-1": {
+      "codepoint": 57358,
+      "fontFamily": "Circum",
+      "identifier": "bag1"
+    },
+    "bandage": {
+      "codepoint": 57359,
+      "fontFamily": "Circum",
+      "identifier": "bandage"
+    },
+    "bank": {
+      "codepoint": 57360,
+      "fontFamily": "Circum",
+      "identifier": "bank"
+    },
+    "barcode": {
+      "codepoint": 57361,
+      "fontFamily": "Circum",
+      "identifier": "barcode"
+    },
+    "baseball": {
+      "codepoint": 57362,
+      "fontFamily": "Circum",
+      "identifier": "baseball"
+    },
+    "basketball": {
+      "codepoint": 57363,
+      "fontFamily": "Circum",
+      "identifier": "basketball"
+    },
+    "battery-charging": {
+      "codepoint": 57364,
+      "fontFamily": "Circum",
+      "identifier": "batteryCharging"
+    },
+    "battery-empty": {
+      "codepoint": 57365,
+      "fontFamily": "Circum",
+      "identifier": "batteryEmpty"
+    },
+    "battery-full": {
+      "codepoint": 57366,
+      "fontFamily": "Circum",
+      "identifier": "batteryFull"
+    },
+    "beaker-1": {
+      "codepoint": 57367,
+      "fontFamily": "Circum",
+      "identifier": "beaker1"
+    },
+    "beer-mug-full": {
+      "codepoint": 57368,
+      "fontFamily": "Circum",
+      "identifier": "beerMugFull"
+    },
+    "bell-off": {
+      "codepoint": 57369,
+      "fontFamily": "Circum",
+      "identifier": "bellOff"
+    },
+    "bell-on": {
+      "codepoint": 57370,
+      "fontFamily": "Circum",
+      "identifier": "bellOn"
+    },
+    "bezier": {
+      "codepoint": 57371,
+      "fontFamily": "Circum",
+      "identifier": "bezier"
+    },
+    "bitcoin": {
+      "codepoint": 57372,
+      "fontFamily": "Circum",
+      "identifier": "bitcoin"
+    },
+    "bluetooth": {
+      "codepoint": 57373,
+      "fontFamily": "Circum",
+      "identifier": "bluetooth"
+    },
+    "bookmark": {
+      "codepoint": 57374,
+      "fontFamily": "Circum",
+      "identifier": "bookmark"
+    },
+    "bookmark-check": {
+      "codepoint": 57375,
+      "fontFamily": "Circum",
+      "identifier": "bookmarkCheck"
+    },
+    "bookmark-minus": {
+      "codepoint": 57376,
+      "fontFamily": "Circum",
+      "identifier": "bookmarkMinus"
+    },
+    "bookmark-plus": {
+      "codepoint": 57377,
+      "fontFamily": "Circum",
+      "identifier": "bookmarkPlus"
+    },
+    "bookmark-remove": {
+      "codepoint": 57378,
+      "fontFamily": "Circum",
+      "identifier": "bookmarkRemove"
+    },
+    "bowl-noodles": {
+      "codepoint": 57379,
+      "fontFamily": "Circum",
+      "identifier": "bowlNoodles"
+    },
+    "box-list": {
+      "codepoint": 57380,
+      "fontFamily": "Circum",
+      "identifier": "boxList"
+    },
+    "boxes": {
+      "codepoint": 57381,
+      "fontFamily": "Circum",
+      "identifier": "boxes"
+    },
+    "brightness-down": {
+      "codepoint": 57382,
+      "fontFamily": "Circum",
+      "identifier": "brightnessDown"
+    },
+    "brightness-up": {
+      "codepoint": 57383,
+      "fontFamily": "Circum",
+      "identifier": "brightnessUp"
+    },
+    "bullhorn": {
+      "codepoint": 57384,
+      "fontFamily": "Circum",
+      "identifier": "bullhorn"
+    },
+    "burger": {
+      "codepoint": 57385,
+      "fontFamily": "Circum",
+      "identifier": "burger"
+    },
+    "calculator-1": {
+      "codepoint": 57386,
+      "fontFamily": "Circum",
+      "identifier": "calculator1"
+    },
+    "calculator-2": {
+      "codepoint": 57387,
+      "fontFamily": "Circum",
+      "identifier": "calculator2"
+    },
+    "calendar": {
+      "codepoint": 57388,
+      "fontFamily": "Circum",
+      "identifier": "calendar"
+    },
+    "calendar-date": {
+      "codepoint": 57389,
+      "fontFamily": "Circum",
+      "identifier": "calendarDate"
+    },
+    "camera": {
+      "codepoint": 57390,
+      "fontFamily": "Circum",
+      "identifier": "camera"
+    },
+    "chat-1": {
+      "codepoint": 57391,
+      "fontFamily": "Circum",
+      "identifier": "chat1"
+    },
+    "chat-2": {
+      "codepoint": 57392,
+      "fontFamily": "Circum",
+      "identifier": "chat2"
+    },
+    "circle-alert": {
+      "codepoint": 57393,
+      "fontFamily": "Circum",
+      "identifier": "circleAlert"
+    },
+    "circle-check": {
+      "codepoint": 57394,
+      "fontFamily": "Circum",
+      "identifier": "circleCheck"
+    },
+    "circle-chev-down": {
+      "codepoint": 57395,
+      "fontFamily": "Circum",
+      "identifier": "circleChevDown"
+    },
+    "circle-chev-left": {
+      "codepoint": 57396,
+      "fontFamily": "Circum",
+      "identifier": "circleChevLeft"
+    },
+    "circle-chev-right": {
+      "codepoint": 57397,
+      "fontFamily": "Circum",
+      "identifier": "circleChevRight"
+    },
+    "circle-chev-up": {
+      "codepoint": 57398,
+      "fontFamily": "Circum",
+      "identifier": "circleChevUp"
+    },
+    "circle-info": {
+      "codepoint": 57399,
+      "fontFamily": "Circum",
+      "identifier": "circleInfo"
+    },
+    "circle-list": {
+      "codepoint": 57400,
+      "fontFamily": "Circum",
+      "identifier": "circleList"
+    },
+    "circle-minus": {
+      "codepoint": 57401,
+      "fontFamily": "Circum",
+      "identifier": "circleMinus"
+    },
+    "circle-more": {
+      "codepoint": 57402,
+      "fontFamily": "Circum",
+      "identifier": "circleMore"
+    },
+    "circle-plus": {
+      "codepoint": 57403,
+      "fontFamily": "Circum",
+      "identifier": "circlePlus"
+    },
+    "circle-question": {
+      "codepoint": 57404,
+      "fontFamily": "Circum",
+      "identifier": "circleQuestion"
+    },
+    "circle-remove": {
+      "codepoint": 57405,
+      "fontFamily": "Circum",
+      "identifier": "circleRemove"
+    },
+    "clock-1": {
+      "codepoint": 57406,
+      "fontFamily": "Circum",
+      "identifier": "clock1"
+    },
+    "clock-2": {
+      "codepoint": 57407,
+      "fontFamily": "Circum",
+      "identifier": "clock2"
+    },
+    "cloud": {
+      "codepoint": 57408,
+      "fontFamily": "Circum",
+      "identifier": "cloud"
+    },
+    "cloud-drizzle": {
+      "codepoint": 57409,
+      "fontFamily": "Circum",
+      "identifier": "cloudDrizzle"
+    },
+    "cloud-moon": {
+      "codepoint": 57410,
+      "fontFamily": "Circum",
+      "identifier": "cloudMoon"
+    },
+    "cloud-off": {
+      "codepoint": 57411,
+      "fontFamily": "Circum",
+      "identifier": "cloudOff"
+    },
+    "cloud-on": {
+      "codepoint": 57412,
+      "fontFamily": "Circum",
+      "identifier": "cloudOn"
+    },
+    "cloud-rainbow": {
+      "codepoint": 57413,
+      "fontFamily": "Circum",
+      "identifier": "cloudRainbow"
+    },
+    "cloud-sun": {
+      "codepoint": 57414,
+      "fontFamily": "Circum",
+      "identifier": "cloudSun"
+    },
+    "coffee-bean": {
+      "codepoint": 57415,
+      "fontFamily": "Circum",
+      "identifier": "coffeeBean"
+    },
+    "coffee-cup": {
+      "codepoint": 57416,
+      "fontFamily": "Circum",
+      "identifier": "coffeeCup"
+    },
+    "coin-insert": {
+      "codepoint": 57417,
+      "fontFamily": "Circum",
+      "identifier": "coinInsert"
+    },
+    "coins-1": {
+      "codepoint": 57418,
+      "fontFamily": "Circum",
+      "identifier": "coins1"
+    },
+    "compass-1": {
+      "codepoint": 57419,
+      "fontFamily": "Circum",
+      "identifier": "compass1"
+    },
+    "credit-card-1": {
+      "codepoint": 57420,
+      "fontFamily": "Circum",
+      "identifier": "creditCard1"
+    },
+    "credit-card-2": {
+      "codepoint": 57421,
+      "fontFamily": "Circum",
+      "identifier": "creditCard2"
+    },
+    "credit-card-off": {
+      "codepoint": 57422,
+      "fontFamily": "Circum",
+      "identifier": "creditCardOff"
+    },
+    "crop": {
+      "codepoint": 57423,
+      "fontFamily": "Circum",
+      "identifier": "crop"
+    },
+    "dark": {
+      "codepoint": 57424,
+      "fontFamily": "Circum",
+      "identifier": "dark"
+    },
+    "database": {
+      "codepoint": 57425,
+      "fontFamily": "Circum",
+      "identifier": "database"
+    },
+    "delivery-truck": {
+      "codepoint": 57426,
+      "fontFamily": "Circum",
+      "identifier": "deliveryTruck"
+    },
+    "desktop": {
+      "codepoint": 57427,
+      "fontFamily": "Circum",
+      "identifier": "desktop"
+    },
+    "desktop-mouse-1": {
+      "codepoint": 57428,
+      "fontFamily": "Circum",
+      "identifier": "desktopMouse1"
+    },
+    "desktop-mouse-2": {
+      "codepoint": 57429,
+      "fontFamily": "Circum",
+      "identifier": "desktopMouse2"
+    },
+    "discount-1": {
+      "codepoint": 57430,
+      "fontFamily": "Circum",
+      "identifier": "discount1"
+    },
+    "dollar": {
+      "codepoint": 57431,
+      "fontFamily": "Circum",
+      "identifier": "dollar"
+    },
+    "droplet": {
+      "codepoint": 57432,
+      "fontFamily": "Circum",
+      "identifier": "droplet"
+    },
+    "dumbbell": {
+      "codepoint": 57433,
+      "fontFamily": "Circum",
+      "identifier": "dumbbell"
+    },
+    "edit": {
+      "codepoint": 57434,
+      "fontFamily": "Circum",
+      "identifier": "edit"
+    },
+    "eraser": {
+      "codepoint": 57435,
+      "fontFamily": "Circum",
+      "identifier": "eraser"
+    },
+    "export": {
+      "codepoint": 57436,
+      "fontFamily": "Circum",
+      "identifier": "export_"
+    },
+    "face-frown": {
+      "codepoint": 57437,
+      "fontFamily": "Circum",
+      "identifier": "faceFrown"
+    },
+    "face-meh": {
+      "codepoint": 57438,
+      "fontFamily": "Circum",
+      "identifier": "faceMeh"
+    },
+    "face-smile": {
+      "codepoint": 57439,
+      "fontFamily": "Circum",
+      "identifier": "faceSmile"
+    },
+    "facebook": {
+      "codepoint": 57440,
+      "fontFamily": "Circum",
+      "identifier": "facebook"
+    },
+    "file-off": {
+      "codepoint": 57441,
+      "fontFamily": "Circum",
+      "identifier": "fileOff"
+    },
+    "file-on": {
+      "codepoint": 57442,
+      "fontFamily": "Circum",
+      "identifier": "fileOn"
+    },
+    "filter": {
+      "codepoint": 57443,
+      "fontFamily": "Circum",
+      "identifier": "filter"
+    },
+    "flag-1": {
+      "codepoint": 57444,
+      "fontFamily": "Circum",
+      "identifier": "flag1"
+    },
+    "floppy-disk": {
+      "codepoint": 57445,
+      "fontFamily": "Circum",
+      "identifier": "floppyDisk"
+    },
+    "folder-off": {
+      "codepoint": 57446,
+      "fontFamily": "Circum",
+      "identifier": "folderOff"
+    },
+    "folder-on": {
+      "codepoint": 57447,
+      "fontFamily": "Circum",
+      "identifier": "folderOn"
+    },
+    "football": {
+      "codepoint": 57448,
+      "fontFamily": "Circum",
+      "identifier": "football"
+    },
+    "fork-knife": {
+      "codepoint": 57449,
+      "fontFamily": "Circum",
+      "identifier": "forkKnife"
+    },
+    "fries": {
+      "codepoint": 57450,
+      "fontFamily": "Circum",
+      "identifier": "fries"
+    },
+    "gift": {
+      "codepoint": 57451,
+      "fontFamily": "Circum",
+      "identifier": "gift"
+    },
+    "glass": {
+      "codepoint": 57452,
+      "fontFamily": "Circum",
+      "identifier": "glass"
+    },
+    "globe": {
+      "codepoint": 57453,
+      "fontFamily": "Circum",
+      "identifier": "globe"
+    },
+    "gps": {
+      "codepoint": 57454,
+      "fontFamily": "Circum",
+      "identifier": "gps"
+    },
+    "grid-2-h": {
+      "codepoint": 57455,
+      "fontFamily": "Circum",
+      "identifier": "grid2H"
+    },
+    "grid-2-v": {
+      "codepoint": 57456,
+      "fontFamily": "Circum",
+      "identifier": "grid2V"
+    },
+    "grid-3-1": {
+      "codepoint": 57457,
+      "fontFamily": "Circum",
+      "identifier": "grid31"
+    },
+    "grid-3-2": {
+      "codepoint": 57458,
+      "fontFamily": "Circum",
+      "identifier": "grid32"
+    },
+    "grid-4-1": {
+      "codepoint": 57459,
+      "fontFamily": "Circum",
+      "identifier": "grid41"
+    },
+    "grid-4-2": {
+      "codepoint": 57460,
+      "fontFamily": "Circum",
+      "identifier": "grid42"
+    },
+    "hard-drive": {
+      "codepoint": 57461,
+      "fontFamily": "Circum",
+      "identifier": "hardDrive"
+    },
+    "hashtag": {
+      "codepoint": 57462,
+      "fontFamily": "Circum",
+      "identifier": "hashtag"
+    },
+    "headphones": {
+      "codepoint": 57463,
+      "fontFamily": "Circum",
+      "identifier": "headphones"
+    },
+    "heart": {
+      "codepoint": 57464,
+      "fontFamily": "Circum",
+      "identifier": "heart"
+    },
+    "home": {
+      "codepoint": 57465,
+      "fontFamily": "Circum",
+      "identifier": "home"
+    },
+    "hospital-1": {
+      "codepoint": 57466,
+      "fontFamily": "Circum",
+      "identifier": "hospital1"
+    },
+    "hotdog": {
+      "codepoint": 57467,
+      "fontFamily": "Circum",
+      "identifier": "hotdog"
+    },
+    "ice-cream": {
+      "codepoint": 57468,
+      "fontFamily": "Circum",
+      "identifier": "iceCream"
+    },
+    "image-off": {
+      "codepoint": 57469,
+      "fontFamily": "Circum",
+      "identifier": "imageOff"
+    },
+    "image-on": {
+      "codepoint": 57470,
+      "fontFamily": "Circum",
+      "identifier": "imageOn"
+    },
+    "import": {
+      "codepoint": 57471,
+      "fontFamily": "Circum",
+      "identifier": "import_"
+    },
+    "inbox-in": {
+      "codepoint": 57472,
+      "fontFamily": "Circum",
+      "identifier": "inboxIn"
+    },
+    "inbox-out": {
+      "codepoint": 57473,
+      "fontFamily": "Circum",
+      "identifier": "inboxOut"
+    },
+    "indent": {
+      "codepoint": 57474,
+      "fontFamily": "Circum",
+      "identifier": "indent"
+    },
+    "instagram": {
+      "codepoint": 57475,
+      "fontFamily": "Circum",
+      "identifier": "instagram"
+    },
+    "keyboard": {
+      "codepoint": 57476,
+      "fontFamily": "Circum",
+      "identifier": "keyboard"
+    },
+    "laptop": {
+      "codepoint": 57477,
+      "fontFamily": "Circum",
+      "identifier": "laptop"
+    },
+    "lemon": {
+      "codepoint": 57478,
+      "fontFamily": "Circum",
+      "identifier": "lemon"
+    },
+    "light": {
+      "codepoint": 57479,
+      "fontFamily": "Circum",
+      "identifier": "light"
+    },
+    "line-height": {
+      "codepoint": 57480,
+      "fontFamily": "Circum",
+      "identifier": "lineHeight"
+    },
+    "link": {
+      "codepoint": 57481,
+      "fontFamily": "Circum",
+      "identifier": "link"
+    },
+    "linkedin": {
+      "codepoint": 57482,
+      "fontFamily": "Circum",
+      "identifier": "linkedin"
+    },
+    "location-arrow-1": {
+      "codepoint": 57483,
+      "fontFamily": "Circum",
+      "identifier": "locationArrow1"
+    },
+    "location-off": {
+      "codepoint": 57484,
+      "fontFamily": "Circum",
+      "identifier": "locationOff"
+    },
+    "location-on": {
+      "codepoint": 57485,
+      "fontFamily": "Circum",
+      "identifier": "locationOn"
+    },
+    "lock": {
+      "codepoint": 57486,
+      "fontFamily": "Circum",
+      "identifier": "lock"
+    },
+    "login": {
+      "codepoint": 57487,
+      "fontFamily": "Circum",
+      "identifier": "login"
+    },
+    "logout": {
+      "codepoint": 57488,
+      "fontFamily": "Circum",
+      "identifier": "logout"
+    },
+    "lollipop": {
+      "codepoint": 57489,
+      "fontFamily": "Circum",
+      "identifier": "lollipop"
+    },
+    "mail": {
+      "codepoint": 57490,
+      "fontFamily": "Circum",
+      "identifier": "mail"
+    },
+    "map": {
+      "codepoint": 57491,
+      "fontFamily": "Circum",
+      "identifier": "map"
+    },
+    "map-pin": {
+      "codepoint": 57492,
+      "fontFamily": "Circum",
+      "identifier": "mapPin"
+    },
+    "maximize-1": {
+      "codepoint": 57493,
+      "fontFamily": "Circum",
+      "identifier": "maximize1"
+    },
+    "maximize-2": {
+      "codepoint": 57494,
+      "fontFamily": "Circum",
+      "identifier": "maximize2"
+    },
+    "medal": {
+      "codepoint": 57495,
+      "fontFamily": "Circum",
+      "identifier": "medal"
+    },
+    "medical-case": {
+      "codepoint": 57496,
+      "fontFamily": "Circum",
+      "identifier": "medicalCase"
+    },
+    "medical-clipboard": {
+      "codepoint": 57497,
+      "fontFamily": "Circum",
+      "identifier": "medicalClipboard"
+    },
+    "medical-cross": {
+      "codepoint": 57498,
+      "fontFamily": "Circum",
+      "identifier": "medicalCross"
+    },
+    "medical-mask": {
+      "codepoint": 57499,
+      "fontFamily": "Circum",
+      "identifier": "medicalMask"
+    },
+    "memo-pad": {
+      "codepoint": 57500,
+      "fontFamily": "Circum",
+      "identifier": "memoPad"
+    },
+    "menu-burger": {
+      "codepoint": 57501,
+      "fontFamily": "Circum",
+      "identifier": "menuBurger"
+    },
+    "menu-fries": {
+      "codepoint": 57502,
+      "fontFamily": "Circum",
+      "identifier": "menuFries"
+    },
+    "menu-kebab": {
+      "codepoint": 57503,
+      "fontFamily": "Circum",
+      "identifier": "menuKebab"
+    },
+    "microchip": {
+      "codepoint": 57504,
+      "fontFamily": "Circum",
+      "identifier": "microchip"
+    },
+    "microphone-off": {
+      "codepoint": 57505,
+      "fontFamily": "Circum",
+      "identifier": "microphoneOff"
+    },
+    "microphone-on": {
+      "codepoint": 57506,
+      "fontFamily": "Circum",
+      "identifier": "microphoneOn"
+    },
+    "minimize-1": {
+      "codepoint": 57507,
+      "fontFamily": "Circum",
+      "identifier": "minimize1"
+    },
+    "minimize-2": {
+      "codepoint": 57508,
+      "fontFamily": "Circum",
+      "identifier": "minimize2"
+    },
+    "mobile-1": {
+      "codepoint": 57509,
+      "fontFamily": "Circum",
+      "identifier": "mobile1"
+    },
+    "mobile-2": {
+      "codepoint": 57510,
+      "fontFamily": "Circum",
+      "identifier": "mobile2"
+    },
+    "mobile-3": {
+      "codepoint": 57511,
+      "fontFamily": "Circum",
+      "identifier": "mobile3"
+    },
+    "mobile-4": {
+      "codepoint": 57512,
+      "fontFamily": "Circum",
+      "identifier": "mobile4"
+    },
+    "money-bill": {
+      "codepoint": 57513,
+      "fontFamily": "Circum",
+      "identifier": "moneyBill"
+    },
+    "money-check-1": {
+      "codepoint": 57514,
+      "fontFamily": "Circum",
+      "identifier": "moneyCheck1"
+    },
+    "monitor": {
+      "codepoint": 57515,
+      "fontFamily": "Circum",
+      "identifier": "monitor"
+    },
+    "mountain-1": {
+      "codepoint": 57516,
+      "fontFamily": "Circum",
+      "identifier": "mountain1"
+    },
+    "mug-1": {
+      "codepoint": 57517,
+      "fontFamily": "Circum",
+      "identifier": "mug1"
+    },
+    "music-note-1": {
+      "codepoint": 57518,
+      "fontFamily": "Circum",
+      "identifier": "musicNote1"
+    },
+    "no-waiting-sign": {
+      "codepoint": 57519,
+      "fontFamily": "Circum",
+      "identifier": "noWaitingSign"
+    },
+    "palette": {
+      "codepoint": 57520,
+      "fontFamily": "Circum",
+      "identifier": "palette"
+    },
+    "paperplane": {
+      "codepoint": 57521,
+      "fontFamily": "Circum",
+      "identifier": "paperplane"
+    },
+    "parking-1": {
+      "codepoint": 57522,
+      "fontFamily": "Circum",
+      "identifier": "parking1"
+    },
+    "passport-1": {
+      "codepoint": 57523,
+      "fontFamily": "Circum",
+      "identifier": "passport1"
+    },
+    "pause-1": {
+      "codepoint": 57524,
+      "fontFamily": "Circum",
+      "identifier": "pause1"
+    },
+    "pen": {
+      "codepoint": 57525,
+      "fontFamily": "Circum",
+      "identifier": "pen"
+    },
+    "penpot": {
+      "codepoint": 57526,
+      "fontFamily": "Circum",
+      "identifier": "penpot"
+    },
+    "percent": {
+      "codepoint": 57527,
+      "fontFamily": "Circum",
+      "identifier": "percent"
+    },
+    "phone": {
+      "codepoint": 57528,
+      "fontFamily": "Circum",
+      "identifier": "phone"
+    },
+    "picker-empty": {
+      "codepoint": 57529,
+      "fontFamily": "Circum",
+      "identifier": "pickerEmpty"
+    },
+    "picker-half": {
+      "codepoint": 57530,
+      "fontFamily": "Circum",
+      "identifier": "pickerHalf"
+    },
+    "pill": {
+      "codepoint": 57531,
+      "fontFamily": "Circum",
+      "identifier": "pill"
+    },
+    "pills-bottle-1": {
+      "codepoint": 57532,
+      "fontFamily": "Circum",
+      "identifier": "pillsBottle1"
+    },
+    "pizza": {
+      "codepoint": 57533,
+      "fontFamily": "Circum",
+      "identifier": "pizza"
+    },
+    "plane": {
+      "codepoint": 57534,
+      "fontFamily": "Circum",
+      "identifier": "plane"
+    },
+    "play-1": {
+      "codepoint": 57535,
+      "fontFamily": "Circum",
+      "identifier": "play1"
+    },
+    "plug-1": {
+      "codepoint": 57536,
+      "fontFamily": "Circum",
+      "identifier": "plug1"
+    },
+    "power": {
+      "codepoint": 57537,
+      "fontFamily": "Circum",
+      "identifier": "power"
+    },
+    "rainbow": {
+      "codepoint": 57538,
+      "fontFamily": "Circum",
+      "identifier": "rainbow"
+    },
+    "read": {
+      "codepoint": 57539,
+      "fontFamily": "Circum",
+      "identifier": "read"
+    },
+    "receipt": {
+      "codepoint": 57540,
+      "fontFamily": "Circum",
+      "identifier": "receipt"
+    },
+    "redo": {
+      "codepoint": 57541,
+      "fontFamily": "Circum",
+      "identifier": "redo"
+    },
+    "repeat": {
+      "codepoint": 57542,
+      "fontFamily": "Circum",
+      "identifier": "repeat"
+    },
+    "rolling-suitcase": {
+      "codepoint": 57543,
+      "fontFamily": "Circum",
+      "identifier": "rollingSuitcase"
+    },
+    "route": {
+      "codepoint": 57544,
+      "fontFamily": "Circum",
+      "identifier": "route"
+    },
+    "router": {
+      "codepoint": 57545,
+      "fontFamily": "Circum",
+      "identifier": "router"
+    },
+    "ruler": {
+      "codepoint": 57546,
+      "fontFamily": "Circum",
+      "identifier": "ruler"
+    },
+    "satellite-1": {
+      "codepoint": 57547,
+      "fontFamily": "Circum",
+      "identifier": "satellite1"
+    },
+    "save-down-1": {
+      "codepoint": 57548,
+      "fontFamily": "Circum",
+      "identifier": "saveDown1"
+    },
+    "save-down-2": {
+      "codepoint": 57549,
+      "fontFamily": "Circum",
+      "identifier": "saveDown2"
+    },
+    "save-up-1": {
+      "codepoint": 57550,
+      "fontFamily": "Circum",
+      "identifier": "saveUp1"
+    },
+    "save-up-2": {
+      "codepoint": 57551,
+      "fontFamily": "Circum",
+      "identifier": "saveUp2"
+    },
+    "search": {
+      "codepoint": 57552,
+      "fontFamily": "Circum",
+      "identifier": "search"
+    },
+    "server": {
+      "codepoint": 57553,
+      "fontFamily": "Circum",
+      "identifier": "server"
+    },
+    "settings": {
+      "codepoint": 57554,
+      "fontFamily": "Circum",
+      "identifier": "settings"
+    },
+    "share-1": {
+      "codepoint": 57555,
+      "fontFamily": "Circum",
+      "identifier": "share1"
+    },
+    "share-2": {
+      "codepoint": 57556,
+      "fontFamily": "Circum",
+      "identifier": "share2"
+    },
+    "shirt": {
+      "codepoint": 57557,
+      "fontFamily": "Circum",
+      "identifier": "shirt"
+    },
+    "shop": {
+      "codepoint": 57558,
+      "fontFamily": "Circum",
+      "identifier": "shop"
+    },
+    "shopping-basket": {
+      "codepoint": 57559,
+      "fontFamily": "Circum",
+      "identifier": "shoppingBasket"
+    },
+    "shopping-cart": {
+      "codepoint": 57560,
+      "fontFamily": "Circum",
+      "identifier": "shoppingCart"
+    },
+    "shopping-tag": {
+      "codepoint": 57561,
+      "fontFamily": "Circum",
+      "identifier": "shoppingTag"
+    },
+    "shuffle": {
+      "codepoint": 57562,
+      "fontFamily": "Circum",
+      "identifier": "shuffle"
+    },
+    "signpost-duo-1": {
+      "codepoint": 57563,
+      "fontFamily": "Circum",
+      "identifier": "signpostDuo1"
+    },
+    "signpost-l-1": {
+      "codepoint": 57564,
+      "fontFamily": "Circum",
+      "identifier": "signpostL1"
+    },
+    "signpost-r-1": {
+      "codepoint": 57565,
+      "fontFamily": "Circum",
+      "identifier": "signpostR1"
+    },
+    "slider-horizontal": {
+      "codepoint": 57566,
+      "fontFamily": "Circum",
+      "identifier": "sliderHorizontal"
+    },
+    "slider-vertical": {
+      "codepoint": 57567,
+      "fontFamily": "Circum",
+      "identifier": "sliderVertical"
+    },
+    "speaker": {
+      "codepoint": 57568,
+      "fontFamily": "Circum",
+      "identifier": "speaker"
+    },
+    "square-alert": {
+      "codepoint": 57569,
+      "fontFamily": "Circum",
+      "identifier": "squareAlert"
+    },
+    "square-check": {
+      "codepoint": 57570,
+      "fontFamily": "Circum",
+      "identifier": "squareCheck"
+    },
+    "square-chev-down": {
+      "codepoint": 57571,
+      "fontFamily": "Circum",
+      "identifier": "squareChevDown"
+    },
+    "square-chev-left": {
+      "codepoint": 57572,
+      "fontFamily": "Circum",
+      "identifier": "squareChevLeft"
+    },
+    "square-chev-right": {
+      "codepoint": 57573,
+      "fontFamily": "Circum",
+      "identifier": "squareChevRight"
+    },
+    "square-chev-up": {
+      "codepoint": 57574,
+      "fontFamily": "Circum",
+      "identifier": "squareChevUp"
+    },
+    "square-info": {
+      "codepoint": 57575,
+      "fontFamily": "Circum",
+      "identifier": "squareInfo"
+    },
+    "square-minus": {
+      "codepoint": 57576,
+      "fontFamily": "Circum",
+      "identifier": "squareMinus"
+    },
+    "square-more": {
+      "codepoint": 57577,
+      "fontFamily": "Circum",
+      "identifier": "squareMore"
+    },
+    "square-plus": {
+      "codepoint": 57578,
+      "fontFamily": "Circum",
+      "identifier": "squarePlus"
+    },
+    "square-question": {
+      "codepoint": 57579,
+      "fontFamily": "Circum",
+      "identifier": "squareQuestion"
+    },
+    "square-remove": {
+      "codepoint": 57580,
+      "fontFamily": "Circum",
+      "identifier": "squareRemove"
+    },
+    "star": {
+      "codepoint": 57581,
+      "fontFamily": "Circum",
+      "identifier": "star"
+    },
+    "stethoscope": {
+      "codepoint": 57582,
+      "fontFamily": "Circum",
+      "identifier": "stethoscope"
+    },
+    "sticky-note": {
+      "codepoint": 57583,
+      "fontFamily": "Circum",
+      "identifier": "stickyNote"
+    },
+    "stop-1": {
+      "codepoint": 57584,
+      "fontFamily": "Circum",
+      "identifier": "stop1"
+    },
+    "stop-sign-1": {
+      "codepoint": 57585,
+      "fontFamily": "Circum",
+      "identifier": "stopSign1"
+    },
+    "stopwatch": {
+      "codepoint": 57586,
+      "fontFamily": "Circum",
+      "identifier": "stopwatch"
+    },
+    "stream-off": {
+      "codepoint": 57587,
+      "fontFamily": "Circum",
+      "identifier": "streamOff"
+    },
+    "stream-on": {
+      "codepoint": 57588,
+      "fontFamily": "Circum",
+      "identifier": "streamOn"
+    },
+    "sun": {
+      "codepoint": 57589,
+      "fontFamily": "Circum",
+      "identifier": "sun"
+    },
+    "tablets-1": {
+      "codepoint": 57590,
+      "fontFamily": "Circum",
+      "identifier": "tablets1"
+    },
+    "temp-high": {
+      "codepoint": 57591,
+      "fontFamily": "Circum",
+      "identifier": "tempHigh"
+    },
+    "text": {
+      "codepoint": 57592,
+      "fontFamily": "Circum",
+      "identifier": "text"
+    },
+    "text-align-center": {
+      "codepoint": 57593,
+      "fontFamily": "Circum",
+      "identifier": "textAlignCenter"
+    },
+    "text-align-justify": {
+      "codepoint": 57594,
+      "fontFamily": "Circum",
+      "identifier": "textAlignJustify"
+    },
+    "text-align-left": {
+      "codepoint": 57595,
+      "fontFamily": "Circum",
+      "identifier": "textAlignLeft"
+    },
+    "text-align-right": {
+      "codepoint": 57596,
+      "fontFamily": "Circum",
+      "identifier": "textAlignRight"
+    },
+    "timer": {
+      "codepoint": 57597,
+      "fontFamily": "Circum",
+      "identifier": "timer"
+    },
+    "trash": {
+      "codepoint": 57598,
+      "fontFamily": "Circum",
+      "identifier": "trash"
+    },
+    "trophy": {
+      "codepoint": 57599,
+      "fontFamily": "Circum",
+      "identifier": "trophy"
+    },
+    "turn-l-1": {
+      "codepoint": 57600,
+      "fontFamily": "Circum",
+      "identifier": "turnL1"
+    },
+    "turn-r-1": {
+      "codepoint": 57601,
+      "fontFamily": "Circum",
+      "identifier": "turnR1"
+    },
+    "twitter": {
+      "codepoint": 57602,
+      "fontFamily": "Circum",
+      "identifier": "twitter"
+    },
+    "umbrella": {
+      "codepoint": 57603,
+      "fontFamily": "Circum",
+      "identifier": "umbrella"
+    },
+    "undo": {
+      "codepoint": 57604,
+      "fontFamily": "Circum",
+      "identifier": "undo"
+    },
+    "unlock": {
+      "codepoint": 57605,
+      "fontFamily": "Circum",
+      "identifier": "unlock"
+    },
+    "unread": {
+      "codepoint": 57606,
+      "fontFamily": "Circum",
+      "identifier": "unread"
+    },
+    "usb": {
+      "codepoint": 57607,
+      "fontFamily": "Circum",
+      "identifier": "usb"
+    },
+    "user": {
+      "codepoint": 57608,
+      "fontFamily": "Circum",
+      "identifier": "user"
+    },
+    "vault": {
+      "codepoint": 57609,
+      "fontFamily": "Circum",
+      "identifier": "vault"
+    },
+    "vial": {
+      "codepoint": 57610,
+      "fontFamily": "Circum",
+      "identifier": "vial"
+    },
+    "video-off": {
+      "codepoint": 57611,
+      "fontFamily": "Circum",
+      "identifier": "videoOff"
+    },
+    "video-on": {
+      "codepoint": 57612,
+      "fontFamily": "Circum",
+      "identifier": "videoOn"
+    },
+    "view-board": {
+      "codepoint": 57613,
+      "fontFamily": "Circum",
+      "identifier": "viewBoard"
+    },
+    "view-column": {
+      "codepoint": 57614,
+      "fontFamily": "Circum",
+      "identifier": "viewColumn"
+    },
+    "view-list": {
+      "codepoint": 57615,
+      "fontFamily": "Circum",
+      "identifier": "viewList"
+    },
+    "view-table": {
+      "codepoint": 57616,
+      "fontFamily": "Circum",
+      "identifier": "viewTable"
+    },
+    "view-timeline": {
+      "codepoint": 57617,
+      "fontFamily": "Circum",
+      "identifier": "viewTimeline"
+    },
+    "virus": {
+      "codepoint": 57618,
+      "fontFamily": "Circum",
+      "identifier": "virus"
+    },
+    "voicemail": {
+      "codepoint": 57619,
+      "fontFamily": "Circum",
+      "identifier": "voicemail"
+    },
+    "volume": {
+      "codepoint": 57620,
+      "fontFamily": "Circum",
+      "identifier": "volume"
+    },
+    "volume-high": {
+      "codepoint": 57621,
+      "fontFamily": "Circum",
+      "identifier": "volumeHigh"
+    },
+    "volume-mute": {
+      "codepoint": 57622,
+      "fontFamily": "Circum",
+      "identifier": "volumeMute"
+    },
+    "wallet": {
+      "codepoint": 57623,
+      "fontFamily": "Circum",
+      "identifier": "wallet"
+    },
+    "warning": {
+      "codepoint": 57624,
+      "fontFamily": "Circum",
+      "identifier": "warning"
+    },
+    "wave-pulse-1": {
+      "codepoint": 57625,
+      "fontFamily": "Circum",
+      "identifier": "wavePulse1"
+    },
+    "wheat": {
+      "codepoint": 57626,
+      "fontFamily": "Circum",
+      "identifier": "wheat"
+    },
+    "wifi-off": {
+      "codepoint": 57627,
+      "fontFamily": "Circum",
+      "identifier": "wifiOff"
+    },
+    "wifi-on": {
+      "codepoint": 57628,
+      "fontFamily": "Circum",
+      "identifier": "wifiOn"
+    },
+    "youtube": {
+      "codepoint": 57629,
+      "fontFamily": "Circum",
+      "identifier": "youtube"
+    },
+    "zoom-in": {
+      "codepoint": 57630,
+      "fontFamily": "Circum",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 57631,
+      "fontFamily": "Circum",
+      "identifier": "zoomOut"
+    }
+  }
+}

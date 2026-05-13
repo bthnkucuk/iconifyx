@@ -1,0 +1,5525 @@
+{
+  "schemaVersion": 1,
+  "prefix": "pixelarticons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_pixelarticons",
+  "info": {
+    "name": "Pixelarticons",
+    "author": {
+      "name": "Gerrit Halfmann",
+      "url": "https://github.com/halfmage/pixelarticons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/halfmage/pixelarticons/blob/master/LICENSE"
+    },
+    "total": 1099
+  },
+  "fonts": [
+    {
+      "family": "Pixelarticons",
+      "nextCodepoint": 58443,
+      "iconCount": 1099
+    }
+  ],
+  "icons": {
+    "4g": {
+      "codepoint": 57344,
+      "fontFamily": "Pixelarticons",
+      "identifier": "n4g"
+    },
+    "4k": {
+      "codepoint": 57345,
+      "fontFamily": "Pixelarticons",
+      "identifier": "n4k"
+    },
+    "4k-box": {
+      "codepoint": 57346,
+      "fontFamily": "Pixelarticons",
+      "identifier": "n4kBox"
+    },
+    "5g": {
+      "codepoint": 57347,
+      "fontFamily": "Pixelarticons",
+      "identifier": "n5g"
+    },
+    "a-arrow-down": {
+      "codepoint": 57348,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aArrowDown"
+    },
+    "a-arrow-down-sharp": {
+      "codepoint": 57349,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aArrowDownSharp"
+    },
+    "a-arrow-up": {
+      "codepoint": 57350,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aArrowUp"
+    },
+    "a-arrow-up-sharp": {
+      "codepoint": 57351,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aArrowUpSharp"
+    },
+    "ab-testing": {
+      "codepoint": 57352,
+      "fontFamily": "Pixelarticons",
+      "identifier": "abTesting"
+    },
+    "ac": {
+      "codepoint": 57353,
+      "fontFamily": "Pixelarticons",
+      "identifier": "ac"
+    },
+    "add-box": {
+      "codepoint": 57354,
+      "fontFamily": "Pixelarticons",
+      "identifier": "addBox"
+    },
+    "add-box-multiple": {
+      "codepoint": 57355,
+      "fontFamily": "Pixelarticons",
+      "identifier": "addBoxMultiple"
+    },
+    "add-col": {
+      "codepoint": 57356,
+      "fontFamily": "Pixelarticons",
+      "identifier": "addCol"
+    },
+    "add-grid": {
+      "codepoint": 57357,
+      "fontFamily": "Pixelarticons",
+      "identifier": "addGrid"
+    },
+    "add-row": {
+      "codepoint": 57358,
+      "fontFamily": "Pixelarticons",
+      "identifier": "addRow"
+    },
+    "ai-app-mac": {
+      "codepoint": 57359,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aiAppMac"
+    },
+    "ai-app-mac-sharp": {
+      "codepoint": 57360,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aiAppMacSharp"
+    },
+    "ai-file": {
+      "codepoint": 57361,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aiFile"
+    },
+    "ai-file-sharp": {
+      "codepoint": 57362,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aiFileSharp"
+    },
+    "ai-scan": {
+      "codepoint": 57363,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aiScan"
+    },
+    "ai-scan-sharp": {
+      "codepoint": 57364,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aiScanSharp"
+    },
+    "ai-settings-2": {
+      "codepoint": 57365,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aiSettings2"
+    },
+    "ai-settings-3": {
+      "codepoint": 57366,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aiSettings3"
+    },
+    "ai-user-circle": {
+      "codepoint": 57367,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aiUserCircle"
+    },
+    "ai-view": {
+      "codepoint": 57368,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aiView"
+    },
+    "ai-voice": {
+      "codepoint": 57369,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aiVoice"
+    },
+    "ai-voice-sharp": {
+      "codepoint": 57370,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aiVoiceSharp"
+    },
+    "airplay": {
+      "codepoint": 57371,
+      "fontFamily": "Pixelarticons",
+      "identifier": "airplay"
+    },
+    "airplay-sharp": {
+      "codepoint": 57372,
+      "fontFamily": "Pixelarticons",
+      "identifier": "airplaySharp"
+    },
+    "alarm-clock": {
+      "codepoint": 57373,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alarmClock"
+    },
+    "album": {
+      "codepoint": 57374,
+      "fontFamily": "Pixelarticons",
+      "identifier": "album"
+    },
+    "album-sharp": {
+      "codepoint": 57375,
+      "fontFamily": "Pixelarticons",
+      "identifier": "albumSharp"
+    },
+    "alert": {
+      "codepoint": 57376,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alert"
+    },
+    "algorithm": {
+      "codepoint": 57377,
+      "fontFamily": "Pixelarticons",
+      "identifier": "algorithm"
+    },
+    "algorithm-sharp": {
+      "codepoint": 57378,
+      "fontFamily": "Pixelarticons",
+      "identifier": "algorithmSharp"
+    },
+    "align-center": {
+      "codepoint": 57379,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignCenter"
+    },
+    "align-center-horizontal": {
+      "codepoint": 57380,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignCenterHorizontal"
+    },
+    "align-center-horizontal-sharp": {
+      "codepoint": 57381,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignCenterHorizontalSharp"
+    },
+    "align-center-vertical": {
+      "codepoint": 57382,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignCenterVertical"
+    },
+    "align-center-vertical-sharp": {
+      "codepoint": 57383,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignCenterVerticalSharp"
+    },
+    "align-end-horizontal": {
+      "codepoint": 57384,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignEndHorizontal"
+    },
+    "align-end-horizontal-sharp": {
+      "codepoint": 57385,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignEndHorizontalSharp"
+    },
+    "align-end-vertical": {
+      "codepoint": 57386,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignEndVertical"
+    },
+    "align-end-vertical-sharp": {
+      "codepoint": 57387,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignEndVerticalSharp"
+    },
+    "align-horizontal-distribute-center": {
+      "codepoint": 57388,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalDistributeCenter"
+    },
+    "align-horizontal-distribute-center-sharp": {
+      "codepoint": 57389,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalDistributeCenterSharp"
+    },
+    "align-horizontal-distribute-end": {
+      "codepoint": 57390,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalDistributeEnd"
+    },
+    "align-horizontal-distribute-end-sharp": {
+      "codepoint": 57391,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalDistributeEndSharp"
+    },
+    "align-horizontal-distribute-start": {
+      "codepoint": 57392,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalDistributeStart"
+    },
+    "align-horizontal-distribute-start-sharp": {
+      "codepoint": 57393,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalDistributeStartSharp"
+    },
+    "align-horizontal-justify-center": {
+      "codepoint": 57394,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalJustifyCenter"
+    },
+    "align-horizontal-justify-center-sharp": {
+      "codepoint": 57395,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalJustifyCenterSharp"
+    },
+    "align-horizontal-justify-end": {
+      "codepoint": 57396,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalJustifyEnd"
+    },
+    "align-horizontal-justify-end-sharp": {
+      "codepoint": 57397,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalJustifyEndSharp"
+    },
+    "align-horizontal-justify-start": {
+      "codepoint": 57398,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalJustifyStart"
+    },
+    "align-horizontal-justify-start-sharp": {
+      "codepoint": 57399,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalJustifyStartSharp"
+    },
+    "align-horizontal-space-around": {
+      "codepoint": 57400,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalSpaceAround"
+    },
+    "align-horizontal-space-around-sharp": {
+      "codepoint": 57401,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalSpaceAroundSharp"
+    },
+    "align-horizontal-space-between": {
+      "codepoint": 57402,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalSpaceBetween"
+    },
+    "align-horizontal-space-between-sharp": {
+      "codepoint": 57403,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignHorizontalSpaceBetweenSharp"
+    },
+    "align-justify": {
+      "codepoint": 57404,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignJustify"
+    },
+    "align-left": {
+      "codepoint": 57405,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57406,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignRight"
+    },
+    "align-start-horizontal": {
+      "codepoint": 57407,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignStartHorizontal"
+    },
+    "align-start-horizontal-sharp": {
+      "codepoint": 57408,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignStartHorizontalSharp"
+    },
+    "align-start-vertical": {
+      "codepoint": 57409,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignStartVertical"
+    },
+    "align-start-vertical-sharp": {
+      "codepoint": 57410,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignStartVerticalSharp"
+    },
+    "align-vertical-distribute-center": {
+      "codepoint": 57411,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalDistributeCenter"
+    },
+    "align-vertical-distribute-center-sharp": {
+      "codepoint": 57412,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalDistributeCenterSharp"
+    },
+    "align-vertical-distribute-end": {
+      "codepoint": 57413,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalDistributeEnd"
+    },
+    "align-vertical-distribute-end-sharp": {
+      "codepoint": 57414,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalDistributeEndSharp"
+    },
+    "align-vertical-distribute-start": {
+      "codepoint": 57415,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalDistributeStart"
+    },
+    "align-vertical-distribute-start-sharp": {
+      "codepoint": 57416,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalDistributeStartSharp"
+    },
+    "align-vertical-justify-center": {
+      "codepoint": 57417,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalJustifyCenter"
+    },
+    "align-vertical-justify-center-sharp": {
+      "codepoint": 57418,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalJustifyCenterSharp"
+    },
+    "align-vertical-justify-end": {
+      "codepoint": 57419,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalJustifyEnd"
+    },
+    "align-vertical-justify-end-sharp": {
+      "codepoint": 57420,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalJustifyEndSharp"
+    },
+    "align-vertical-justify-start": {
+      "codepoint": 57421,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalJustifyStart"
+    },
+    "align-vertical-justify-start-sharp": {
+      "codepoint": 57422,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalJustifyStartSharp"
+    },
+    "align-vertical-space-around": {
+      "codepoint": 57423,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalSpaceAround"
+    },
+    "align-vertical-space-around-sharp": {
+      "codepoint": 57424,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalSpaceAroundSharp"
+    },
+    "align-vertical-space-between": {
+      "codepoint": 57425,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalSpaceBetween"
+    },
+    "align-vertical-space-between-sharp": {
+      "codepoint": 57426,
+      "fontFamily": "Pixelarticons",
+      "identifier": "alignVerticalSpaceBetweenSharp"
+    },
+    "ampersand": {
+      "codepoint": 57427,
+      "fontFamily": "Pixelarticons",
+      "identifier": "ampersand"
+    },
+    "ampersand-sharp": {
+      "codepoint": 57428,
+      "fontFamily": "Pixelarticons",
+      "identifier": "ampersandSharp"
+    },
+    "analytics": {
+      "codepoint": 57429,
+      "fontFamily": "Pixelarticons",
+      "identifier": "analytics"
+    },
+    "analytics-sharp": {
+      "codepoint": 57430,
+      "fontFamily": "Pixelarticons",
+      "identifier": "analyticsSharp"
+    },
+    "anchor": {
+      "codepoint": 57431,
+      "fontFamily": "Pixelarticons",
+      "identifier": "anchor"
+    },
+    "anchor-sharp": {
+      "codepoint": 57432,
+      "fontFamily": "Pixelarticons",
+      "identifier": "anchorSharp"
+    },
+    "android": {
+      "codepoint": 57433,
+      "fontFamily": "Pixelarticons",
+      "identifier": "android"
+    },
+    "angry": {
+      "codepoint": 57434,
+      "fontFamily": "Pixelarticons",
+      "identifier": "angry"
+    },
+    "angry-sharp": {
+      "codepoint": 57435,
+      "fontFamily": "Pixelarticons",
+      "identifier": "angrySharp"
+    },
+    "animation": {
+      "codepoint": 57436,
+      "fontFamily": "Pixelarticons",
+      "identifier": "animation"
+    },
+    "annoyed": {
+      "codepoint": 57437,
+      "fontFamily": "Pixelarticons",
+      "identifier": "annoyed"
+    },
+    "annoyed-sharp": {
+      "codepoint": 57438,
+      "fontFamily": "Pixelarticons",
+      "identifier": "annoyedSharp"
+    },
+    "app-mac": {
+      "codepoint": 57439,
+      "fontFamily": "Pixelarticons",
+      "identifier": "appMac"
+    },
+    "app-mac-sharp": {
+      "codepoint": 57440,
+      "fontFamily": "Pixelarticons",
+      "identifier": "appMacSharp"
+    },
+    "app-windows": {
+      "codepoint": 57441,
+      "fontFamily": "Pixelarticons",
+      "identifier": "appWindows"
+    },
+    "app-windows-sharp": {
+      "codepoint": 57442,
+      "fontFamily": "Pixelarticons",
+      "identifier": "appWindowsSharp"
+    },
+    "archive": {
+      "codepoint": 57443,
+      "fontFamily": "Pixelarticons",
+      "identifier": "archive"
+    },
+    "archive-sharp": {
+      "codepoint": 57444,
+      "fontFamily": "Pixelarticons",
+      "identifier": "archiveSharp"
+    },
+    "arrow-bar-down": {
+      "codepoint": 57445,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowBarDown"
+    },
+    "arrow-bar-left": {
+      "codepoint": 57446,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowBarLeft"
+    },
+    "arrow-bar-right": {
+      "codepoint": 57447,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowBarRight"
+    },
+    "arrow-bar-up": {
+      "codepoint": 57448,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowBarUp"
+    },
+    "arrow-big-down": {
+      "codepoint": 57449,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowBigDown"
+    },
+    "arrow-big-down-dash": {
+      "codepoint": 57450,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowBigDownDash"
+    },
+    "arrow-big-down-dash-sharp": {
+      "codepoint": 57451,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowBigDownDashSharp"
+    },
+    "arrow-big-down-sharp": {
+      "codepoint": 57452,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowBigDownSharp"
+    },
+    "arrow-big-up": {
+      "codepoint": 57453,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowBigUp"
+    },
+    "arrow-big-up-dash": {
+      "codepoint": 57454,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowBigUpDash"
+    },
+    "arrow-big-up-dash-sharp": {
+      "codepoint": 57455,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowBigUpDashSharp"
+    },
+    "arrow-big-up-sharp": {
+      "codepoint": 57456,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowBigUpSharp"
+    },
+    "arrow-down": {
+      "codepoint": 57457,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-box": {
+      "codepoint": 57458,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowDownBox"
+    },
+    "arrow-down-box-sharp": {
+      "codepoint": 57459,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowDownBoxSharp"
+    },
+    "arrow-down-circle": {
+      "codepoint": 57460,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowDownCircle"
+    },
+    "arrow-down-diamond": {
+      "codepoint": 57461,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowDownDiamond"
+    },
+    "arrow-down-narrow-wide": {
+      "codepoint": 57462,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowDownNarrowWide"
+    },
+    "arrow-down-wide-narrow": {
+      "codepoint": 57463,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowDownWideNarrow"
+    },
+    "arrow-down-z-a": {
+      "codepoint": 57464,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowDownZA"
+    },
+    "arrow-down-z-a-sharp": {
+      "codepoint": 57465,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowDownZASharp"
+    },
+    "arrow-left": {
+      "codepoint": 57466,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-box": {
+      "codepoint": 57467,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowLeftBox"
+    },
+    "arrow-left-box-sharp": {
+      "codepoint": 57468,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowLeftBoxSharp"
+    },
+    "arrow-right": {
+      "codepoint": 57469,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-box": {
+      "codepoint": 57470,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowRightBox"
+    },
+    "arrow-right-box-sharp": {
+      "codepoint": 57471,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowRightBoxSharp"
+    },
+    "arrow-up": {
+      "codepoint": 57472,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-box": {
+      "codepoint": 57473,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowUpBox"
+    },
+    "arrow-up-box-sharp": {
+      "codepoint": 57474,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowUpBoxSharp"
+    },
+    "arrow-up-narrow-wide": {
+      "codepoint": 57475,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowUpNarrowWide"
+    },
+    "arrow-up-wide-narrow": {
+      "codepoint": 57476,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowUpWideNarrow"
+    },
+    "arrow-up-z-a": {
+      "codepoint": 57477,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowUpZA"
+    },
+    "arrow-up-z-a-sharp": {
+      "codepoint": 57478,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowUpZASharp"
+    },
+    "arrows-horizontal": {
+      "codepoint": 57479,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowsHorizontal"
+    },
+    "arrows-vertical": {
+      "codepoint": 57480,
+      "fontFamily": "Pixelarticons",
+      "identifier": "arrowsVertical"
+    },
+    "art-text": {
+      "codepoint": 57481,
+      "fontFamily": "Pixelarticons",
+      "identifier": "artText"
+    },
+    "article": {
+      "codepoint": 57482,
+      "fontFamily": "Pixelarticons",
+      "identifier": "article"
+    },
+    "article-multiple": {
+      "codepoint": 57483,
+      "fontFamily": "Pixelarticons",
+      "identifier": "articleMultiple"
+    },
+    "article-sharp": {
+      "codepoint": 57484,
+      "fontFamily": "Pixelarticons",
+      "identifier": "articleSharp"
+    },
+    "aspect-ratio": {
+      "codepoint": 57485,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aspectRatio"
+    },
+    "aspect-ratio-sharp": {
+      "codepoint": 57486,
+      "fontFamily": "Pixelarticons",
+      "identifier": "aspectRatioSharp"
+    },
+    "at": {
+      "codepoint": 57487,
+      "fontFamily": "Pixelarticons",
+      "identifier": "at"
+    },
+    "at-sign": {
+      "codepoint": 57488,
+      "fontFamily": "Pixelarticons",
+      "identifier": "atSign"
+    },
+    "at-sign-sharp": {
+      "codepoint": 57489,
+      "fontFamily": "Pixelarticons",
+      "identifier": "atSignSharp"
+    },
+    "attachment": {
+      "codepoint": 57490,
+      "fontFamily": "Pixelarticons",
+      "identifier": "attachment"
+    },
+    "attachment-sharp": {
+      "codepoint": 57491,
+      "fontFamily": "Pixelarticons",
+      "identifier": "attachmentSharp"
+    },
+    "audio-device": {
+      "codepoint": 57492,
+      "fontFamily": "Pixelarticons",
+      "identifier": "audioDevice"
+    },
+    "audio-waveform": {
+      "codepoint": 57493,
+      "fontFamily": "Pixelarticons",
+      "identifier": "audioWaveform"
+    },
+    "audio-waveform-sharp": {
+      "codepoint": 57494,
+      "fontFamily": "Pixelarticons",
+      "identifier": "audioWaveformSharp"
+    },
+    "avatar": {
+      "codepoint": 57495,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatar"
+    },
+    "avatar-circle": {
+      "codepoint": 57496,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarCircle"
+    },
+    "avatar-circle-minus": {
+      "codepoint": 57497,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarCircleMinus"
+    },
+    "avatar-circle-minus-sharp": {
+      "codepoint": 57498,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarCircleMinusSharp"
+    },
+    "avatar-circle-plus": {
+      "codepoint": 57499,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarCirclePlus"
+    },
+    "avatar-circle-plus-sharp": {
+      "codepoint": 57500,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarCirclePlusSharp"
+    },
+    "avatar-circle-sharp": {
+      "codepoint": 57501,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarCircleSharp"
+    },
+    "avatar-circle-x": {
+      "codepoint": 57502,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarCircleX"
+    },
+    "avatar-circle-x-sharp": {
+      "codepoint": 57503,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarCircleXSharp"
+    },
+    "avatar-square": {
+      "codepoint": 57504,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarSquare"
+    },
+    "avatar-square-minus": {
+      "codepoint": 57505,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarSquareMinus"
+    },
+    "avatar-square-minus-sharp": {
+      "codepoint": 57506,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarSquareMinusSharp"
+    },
+    "avatar-square-plus": {
+      "codepoint": 57507,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarSquarePlus"
+    },
+    "avatar-square-plus-sharp": {
+      "codepoint": 57508,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarSquarePlusSharp"
+    },
+    "avatar-square-sharp": {
+      "codepoint": 57509,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarSquareSharp"
+    },
+    "avatar-square-x": {
+      "codepoint": 57510,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarSquareX"
+    },
+    "avatar-square-x-sharp": {
+      "codepoint": 57511,
+      "fontFamily": "Pixelarticons",
+      "identifier": "avatarSquareXSharp"
+    },
+    "backburger": {
+      "codepoint": 57512,
+      "fontFamily": "Pixelarticons",
+      "identifier": "backburger"
+    },
+    "backpack": {
+      "codepoint": 57513,
+      "fontFamily": "Pixelarticons",
+      "identifier": "backpack"
+    },
+    "backpack-sharp": {
+      "codepoint": 57514,
+      "fontFamily": "Pixelarticons",
+      "identifier": "backpackSharp"
+    },
+    "badge-4k": {
+      "codepoint": 57515,
+      "fontFamily": "Pixelarticons",
+      "identifier": "badge4k"
+    },
+    "badge-4k-sharp": {
+      "codepoint": 57516,
+      "fontFamily": "Pixelarticons",
+      "identifier": "badge4kSharp"
+    },
+    "badge-5k": {
+      "codepoint": 57517,
+      "fontFamily": "Pixelarticons",
+      "identifier": "badge5k"
+    },
+    "badge-5k-sharp": {
+      "codepoint": 57518,
+      "fontFamily": "Pixelarticons",
+      "identifier": "badge5kSharp"
+    },
+    "badge-captions": {
+      "codepoint": 57519,
+      "fontFamily": "Pixelarticons",
+      "identifier": "badgeCaptions"
+    },
+    "badge-captions-sharp": {
+      "codepoint": 57520,
+      "fontFamily": "Pixelarticons",
+      "identifier": "badgeCaptionsSharp"
+    },
+    "badge-hd": {
+      "codepoint": 57521,
+      "fontFamily": "Pixelarticons",
+      "identifier": "badgeHd"
+    },
+    "badge-hd-sharp": {
+      "codepoint": 57522,
+      "fontFamily": "Pixelarticons",
+      "identifier": "badgeHdSharp"
+    },
+    "balloon": {
+      "codepoint": 57523,
+      "fontFamily": "Pixelarticons",
+      "identifier": "balloon"
+    },
+    "banknote": {
+      "codepoint": 57524,
+      "fontFamily": "Pixelarticons",
+      "identifier": "banknote"
+    },
+    "banknote-sharp": {
+      "codepoint": 57525,
+      "fontFamily": "Pixelarticons",
+      "identifier": "banknoteSharp"
+    },
+    "barcode": {
+      "codepoint": 57526,
+      "fontFamily": "Pixelarticons",
+      "identifier": "barcode"
+    },
+    "battery": {
+      "codepoint": 57527,
+      "fontFamily": "Pixelarticons",
+      "identifier": "battery"
+    },
+    "battery-1": {
+      "codepoint": 57528,
+      "fontFamily": "Pixelarticons",
+      "identifier": "battery1"
+    },
+    "battery-2": {
+      "codepoint": 57529,
+      "fontFamily": "Pixelarticons",
+      "identifier": "battery2"
+    },
+    "battery-charging": {
+      "codepoint": 57530,
+      "fontFamily": "Pixelarticons",
+      "identifier": "batteryCharging"
+    },
+    "battery-full": {
+      "codepoint": 57531,
+      "fontFamily": "Pixelarticons",
+      "identifier": "batteryFull"
+    },
+    "battery-full-sharp": {
+      "codepoint": 57532,
+      "fontFamily": "Pixelarticons",
+      "identifier": "batteryFullSharp"
+    },
+    "battery-low": {
+      "codepoint": 57533,
+      "fontFamily": "Pixelarticons",
+      "identifier": "batteryLow"
+    },
+    "battery-low-sharp": {
+      "codepoint": 57534,
+      "fontFamily": "Pixelarticons",
+      "identifier": "batteryLowSharp"
+    },
+    "battery-medium": {
+      "codepoint": 57535,
+      "fontFamily": "Pixelarticons",
+      "identifier": "batteryMedium"
+    },
+    "battery-medium-sharp": {
+      "codepoint": 57536,
+      "fontFamily": "Pixelarticons",
+      "identifier": "batteryMediumSharp"
+    },
+    "battery-sharp": {
+      "codepoint": 57537,
+      "fontFamily": "Pixelarticons",
+      "identifier": "batterySharp"
+    },
+    "bed": {
+      "codepoint": 57538,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bed"
+    },
+    "bed-sharp": {
+      "codepoint": 57539,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bedSharp"
+    },
+    "bell": {
+      "codepoint": 57540,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bell"
+    },
+    "bell-off": {
+      "codepoint": 57541,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bellOff"
+    },
+    "bell-off-sharp": {
+      "codepoint": 57542,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bellOffSharp"
+    },
+    "bell-sharp": {
+      "codepoint": 57543,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bellSharp"
+    },
+    "binary": {
+      "codepoint": 57544,
+      "fontFamily": "Pixelarticons",
+      "identifier": "binary"
+    },
+    "binary-sharp": {
+      "codepoint": 57545,
+      "fontFamily": "Pixelarticons",
+      "identifier": "binarySharp"
+    },
+    "bitcoin": {
+      "codepoint": 57546,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bitcoin"
+    },
+    "blocks": {
+      "codepoint": 57547,
+      "fontFamily": "Pixelarticons",
+      "identifier": "blocks"
+    },
+    "blocks-sharp": {
+      "codepoint": 57548,
+      "fontFamily": "Pixelarticons",
+      "identifier": "blocksSharp"
+    },
+    "bluetooth": {
+      "codepoint": 57549,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bluetooth"
+    },
+    "book": {
+      "codepoint": 57550,
+      "fontFamily": "Pixelarticons",
+      "identifier": "book"
+    },
+    "book-open": {
+      "codepoint": 57551,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bookOpen"
+    },
+    "book-open-sharp": {
+      "codepoint": 57552,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bookOpenSharp"
+    },
+    "bookmark": {
+      "codepoint": 57553,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bookmark"
+    },
+    "bookmark-sharp": {
+      "codepoint": 57554,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bookmarkSharp"
+    },
+    "bookmarks": {
+      "codepoint": 57555,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bookmarks"
+    },
+    "bottle-wine": {
+      "codepoint": 57556,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bottleWine"
+    },
+    "bottle-wine-sharp": {
+      "codepoint": 57557,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bottleWineSharp"
+    },
+    "box": {
+      "codepoint": 57558,
+      "fontFamily": "Pixelarticons",
+      "identifier": "box"
+    },
+    "braces": {
+      "codepoint": 57559,
+      "fontFamily": "Pixelarticons",
+      "identifier": "braces"
+    },
+    "braces-content": {
+      "codepoint": 57560,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bracesContent"
+    },
+    "braces-content-sharp": {
+      "codepoint": 57561,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bracesContentSharp"
+    },
+    "braces-off": {
+      "codepoint": 57562,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bracesOff"
+    },
+    "braces-off-sharp": {
+      "codepoint": 57563,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bracesOffSharp"
+    },
+    "braces-sharp": {
+      "codepoint": 57564,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bracesSharp"
+    },
+    "brackets": {
+      "codepoint": 57565,
+      "fontFamily": "Pixelarticons",
+      "identifier": "brackets"
+    },
+    "brackets-angle": {
+      "codepoint": 57566,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bracketsAngle"
+    },
+    "brackets-angle-off": {
+      "codepoint": 57567,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bracketsAngleOff"
+    },
+    "brackets-content": {
+      "codepoint": 57568,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bracketsContent"
+    },
+    "brackets-content-sharp": {
+      "codepoint": 57569,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bracketsContentSharp"
+    },
+    "brackets-off": {
+      "codepoint": 57570,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bracketsOff"
+    },
+    "brackets-off-sharp": {
+      "codepoint": 57571,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bracketsOffSharp"
+    },
+    "brackets-sharp": {
+      "codepoint": 57572,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bracketsSharp"
+    },
+    "briefcase": {
+      "codepoint": 57573,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcase"
+    },
+    "briefcase-account": {
+      "codepoint": 57574,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcaseAccount"
+    },
+    "briefcase-check": {
+      "codepoint": 57575,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcaseCheck"
+    },
+    "briefcase-delete": {
+      "codepoint": 57576,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcaseDelete"
+    },
+    "briefcase-download": {
+      "codepoint": 57577,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcaseDownload"
+    },
+    "briefcase-minus": {
+      "codepoint": 57578,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcaseMinus"
+    },
+    "briefcase-plus": {
+      "codepoint": 57579,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcasePlus"
+    },
+    "briefcase-search": {
+      "codepoint": 57580,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcaseSearch"
+    },
+    "briefcase-search-1": {
+      "codepoint": 57581,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcaseSearch1"
+    },
+    "briefcase-sharp": {
+      "codepoint": 57582,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcaseSharp"
+    },
+    "briefcase-upload": {
+      "codepoint": 57583,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcaseUpload"
+    },
+    "briefcases": {
+      "codepoint": 57584,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcases"
+    },
+    "briefcases-sharp": {
+      "codepoint": 57585,
+      "fontFamily": "Pixelarticons",
+      "identifier": "briefcasesSharp"
+    },
+    "brush": {
+      "codepoint": 57586,
+      "fontFamily": "Pixelarticons",
+      "identifier": "brush"
+    },
+    "brush-sharp": {
+      "codepoint": 57587,
+      "fontFamily": "Pixelarticons",
+      "identifier": "brushSharp"
+    },
+    "bug": {
+      "codepoint": 57588,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bug"
+    },
+    "bug-sharp": {
+      "codepoint": 57589,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bugSharp"
+    },
+    "building": {
+      "codepoint": 57590,
+      "fontFamily": "Pixelarticons",
+      "identifier": "building"
+    },
+    "building-community": {
+      "codepoint": 57591,
+      "fontFamily": "Pixelarticons",
+      "identifier": "buildingCommunity"
+    },
+    "building-community-sharp": {
+      "codepoint": 57592,
+      "fontFamily": "Pixelarticons",
+      "identifier": "buildingCommunitySharp"
+    },
+    "building-sharp": {
+      "codepoint": 57593,
+      "fontFamily": "Pixelarticons",
+      "identifier": "buildingSharp"
+    },
+    "building-skyscraper": {
+      "codepoint": 57594,
+      "fontFamily": "Pixelarticons",
+      "identifier": "buildingSkyscraper"
+    },
+    "buildings": {
+      "codepoint": 57595,
+      "fontFamily": "Pixelarticons",
+      "identifier": "buildings"
+    },
+    "bulletlist": {
+      "codepoint": 57596,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bulletlist"
+    },
+    "bulletlist-sharp": {
+      "codepoint": 57597,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bulletlistSharp"
+    },
+    "bullseye": {
+      "codepoint": 57598,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bullseye"
+    },
+    "bullseye-arrow": {
+      "codepoint": 57599,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bullseyeArrow"
+    },
+    "bus": {
+      "codepoint": 57600,
+      "fontFamily": "Pixelarticons",
+      "identifier": "bus"
+    },
+    "bus-sharp": {
+      "codepoint": 57601,
+      "fontFamily": "Pixelarticons",
+      "identifier": "busSharp"
+    },
+    "cake": {
+      "codepoint": 57602,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cake"
+    },
+    "cake-sharp": {
+      "codepoint": 57603,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cakeSharp"
+    },
+    "calculator": {
+      "codepoint": 57604,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calculator"
+    },
+    "calculator-sharp": {
+      "codepoint": 57605,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calculatorSharp"
+    },
+    "calendar": {
+      "codepoint": 57606,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendar"
+    },
+    "calendar-2": {
+      "codepoint": 57607,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendar2"
+    },
+    "calendar-2-sharp": {
+      "codepoint": 57608,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendar2Sharp"
+    },
+    "calendar-alert": {
+      "codepoint": 57609,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarAlert"
+    },
+    "calendar-arrow-left": {
+      "codepoint": 57610,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarArrowLeft"
+    },
+    "calendar-arrow-right": {
+      "codepoint": 57611,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarArrowRight"
+    },
+    "calendar-check": {
+      "codepoint": 57612,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarCheck"
+    },
+    "calendar-export": {
+      "codepoint": 57613,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarExport"
+    },
+    "calendar-grid": {
+      "codepoint": 57614,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarGrid"
+    },
+    "calendar-import": {
+      "codepoint": 57615,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarImport"
+    },
+    "calendar-minus": {
+      "codepoint": 57616,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarMinus"
+    },
+    "calendar-month": {
+      "codepoint": 57617,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarMonth"
+    },
+    "calendar-multiple": {
+      "codepoint": 57618,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarMultiple"
+    },
+    "calendar-multiple-check": {
+      "codepoint": 57619,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarMultipleCheck"
+    },
+    "calendar-plus": {
+      "codepoint": 57620,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarPlus"
+    },
+    "calendar-range": {
+      "codepoint": 57621,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarRange"
+    },
+    "calendar-range-sharp": {
+      "codepoint": 57622,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarRangeSharp"
+    },
+    "calendar-remove": {
+      "codepoint": 57623,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarRemove"
+    },
+    "calendar-search": {
+      "codepoint": 57624,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarSearch"
+    },
+    "calendar-sharp": {
+      "codepoint": 57625,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarSharp"
+    },
+    "calendar-sort-ascending": {
+      "codepoint": 57626,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarSortAscending"
+    },
+    "calendar-sort-descending": {
+      "codepoint": 57627,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarSortDescending"
+    },
+    "calendar-text": {
+      "codepoint": 57628,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarText"
+    },
+    "calendar-text-sharp": {
+      "codepoint": 57629,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarTextSharp"
+    },
+    "calendar-today": {
+      "codepoint": 57630,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarToday"
+    },
+    "calendar-tomorrow": {
+      "codepoint": 57631,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarTomorrow"
+    },
+    "calendar-week": {
+      "codepoint": 57632,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarWeek"
+    },
+    "calendar-week-begin": {
+      "codepoint": 57633,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarWeekBegin"
+    },
+    "calendar-weekend": {
+      "codepoint": 57634,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarWeekend"
+    },
+    "calendar-weeks": {
+      "codepoint": 57635,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarWeeks"
+    },
+    "calendar-weeks-sharp": {
+      "codepoint": 57636,
+      "fontFamily": "Pixelarticons",
+      "identifier": "calendarWeeksSharp"
+    },
+    "camera": {
+      "codepoint": 57637,
+      "fontFamily": "Pixelarticons",
+      "identifier": "camera"
+    },
+    "camera-add": {
+      "codepoint": 57638,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cameraAdd"
+    },
+    "camera-alt": {
+      "codepoint": 57639,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cameraAlt"
+    },
+    "camera-face": {
+      "codepoint": 57640,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cameraFace"
+    },
+    "camera-sharp": {
+      "codepoint": 57641,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cameraSharp"
+    },
+    "cancel": {
+      "codepoint": 57642,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cancel"
+    },
+    "car": {
+      "codepoint": 57643,
+      "fontFamily": "Pixelarticons",
+      "identifier": "car"
+    },
+    "car-sharp": {
+      "codepoint": 57644,
+      "fontFamily": "Pixelarticons",
+      "identifier": "carSharp"
+    },
+    "card": {
+      "codepoint": 57645,
+      "fontFamily": "Pixelarticons",
+      "identifier": "card"
+    },
+    "card-id": {
+      "codepoint": 57646,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cardId"
+    },
+    "card-plus": {
+      "codepoint": 57647,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cardPlus"
+    },
+    "card-sharp": {
+      "codepoint": 57648,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cardSharp"
+    },
+    "card-stack": {
+      "codepoint": 57649,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cardStack"
+    },
+    "card-text": {
+      "codepoint": 57650,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cardText"
+    },
+    "card-text-sharp": {
+      "codepoint": 57651,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cardTextSharp"
+    },
+    "cart": {
+      "codepoint": 57652,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cart"
+    },
+    "cast": {
+      "codepoint": 57653,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cast"
+    },
+    "castle": {
+      "codepoint": 57654,
+      "fontFamily": "Pixelarticons",
+      "identifier": "castle"
+    },
+    "castle-sharp": {
+      "codepoint": 57655,
+      "fontFamily": "Pixelarticons",
+      "identifier": "castleSharp"
+    },
+    "cellular-signal-0": {
+      "codepoint": 57656,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cellularSignal0"
+    },
+    "cellular-signal-0-sharp": {
+      "codepoint": 57657,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cellularSignal0Sharp"
+    },
+    "cellular-signal-1": {
+      "codepoint": 57658,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cellularSignal1"
+    },
+    "cellular-signal-1-sharp": {
+      "codepoint": 57659,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cellularSignal1Sharp"
+    },
+    "cellular-signal-2": {
+      "codepoint": 57660,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cellularSignal2"
+    },
+    "cellular-signal-2-sharp": {
+      "codepoint": 57661,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cellularSignal2Sharp"
+    },
+    "cellular-signal-3": {
+      "codepoint": 57662,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cellularSignal3"
+    },
+    "cellular-signal-3-sharp": {
+      "codepoint": 57663,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cellularSignal3Sharp"
+    },
+    "cellular-signal-off": {
+      "codepoint": 57664,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cellularSignalOff"
+    },
+    "chart": {
+      "codepoint": 57665,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chart"
+    },
+    "chart-add": {
+      "codepoint": 57666,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chartAdd"
+    },
+    "chart-bar": {
+      "codepoint": 57667,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chartBar"
+    },
+    "chart-bar-big": {
+      "codepoint": 57668,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chartBarBig"
+    },
+    "chart-bar-big-sharp": {
+      "codepoint": 57669,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chartBarBigSharp"
+    },
+    "chart-column-decreasing": {
+      "codepoint": 57670,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chartColumnDecreasing"
+    },
+    "chart-column-decreasing-sharp": {
+      "codepoint": 57671,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chartColumnDecreasingSharp"
+    },
+    "chart-delete": {
+      "codepoint": 57672,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chartDelete"
+    },
+    "chart-minus": {
+      "codepoint": 57673,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chartMinus"
+    },
+    "chart-multiple": {
+      "codepoint": 57674,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chartMultiple"
+    },
+    "chart-sharp": {
+      "codepoint": 57675,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chartSharp"
+    },
+    "chat": {
+      "codepoint": 57676,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chat"
+    },
+    "check": {
+      "codepoint": 57677,
+      "fontFamily": "Pixelarticons",
+      "identifier": "check"
+    },
+    "check-double": {
+      "codepoint": 57678,
+      "fontFamily": "Pixelarticons",
+      "identifier": "checkDouble"
+    },
+    "checkbox": {
+      "codepoint": 57679,
+      "fontFamily": "Pixelarticons",
+      "identifier": "checkbox"
+    },
+    "checkbox-on": {
+      "codepoint": 57680,
+      "fontFamily": "Pixelarticons",
+      "identifier": "checkboxOn"
+    },
+    "checkbox-on-sharp": {
+      "codepoint": 57681,
+      "fontFamily": "Pixelarticons",
+      "identifier": "checkboxOnSharp"
+    },
+    "checkbox-sharp": {
+      "codepoint": 57682,
+      "fontFamily": "Pixelarticons",
+      "identifier": "checkboxSharp"
+    },
+    "checklist": {
+      "codepoint": 57683,
+      "fontFamily": "Pixelarticons",
+      "identifier": "checklist"
+    },
+    "chess": {
+      "codepoint": 57684,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chess"
+    },
+    "chess-sharp": {
+      "codepoint": 57685,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chessSharp"
+    },
+    "chevron-down": {
+      "codepoint": 57686,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chevronDown"
+    },
+    "chevron-down-2": {
+      "codepoint": 57687,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chevronDown2"
+    },
+    "chevron-left": {
+      "codepoint": 57688,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chevronLeft"
+    },
+    "chevron-left-2": {
+      "codepoint": 57689,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chevronLeft2"
+    },
+    "chevron-right": {
+      "codepoint": 57690,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chevronRight"
+    },
+    "chevron-right-2": {
+      "codepoint": 57691,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chevronRight2"
+    },
+    "chevron-up": {
+      "codepoint": 57692,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chevronUp"
+    },
+    "chevron-up-2": {
+      "codepoint": 57693,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chevronUp2"
+    },
+    "chevrons-horizontal": {
+      "codepoint": 57694,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chevronsHorizontal"
+    },
+    "chevrons-horizontal-2": {
+      "codepoint": 57695,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chevronsHorizontal2"
+    },
+    "chevrons-vertical": {
+      "codepoint": 57696,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chevronsVertical"
+    },
+    "chevrons-vertical-2": {
+      "codepoint": 57697,
+      "fontFamily": "Pixelarticons",
+      "identifier": "chevronsVertical2"
+    },
+    "cigarette-off": {
+      "codepoint": 57698,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cigaretteOff"
+    },
+    "cigarette-off-sharp": {
+      "codepoint": 57699,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cigaretteOffSharp"
+    },
+    "circle": {
+      "codepoint": 57700,
+      "fontFamily": "Pixelarticons",
+      "identifier": "circle"
+    },
+    "circle-pile": {
+      "codepoint": 57701,
+      "fontFamily": "Pixelarticons",
+      "identifier": "circlePile"
+    },
+    "circle-power": {
+      "codepoint": 57702,
+      "fontFamily": "Pixelarticons",
+      "identifier": "circlePower"
+    },
+    "circle-square": {
+      "codepoint": 57703,
+      "fontFamily": "Pixelarticons",
+      "identifier": "circleSquare"
+    },
+    "circuit-board": {
+      "codepoint": 57704,
+      "fontFamily": "Pixelarticons",
+      "identifier": "circuitBoard"
+    },
+    "circuit-board-sharp": {
+      "codepoint": 57705,
+      "fontFamily": "Pixelarticons",
+      "identifier": "circuitBoardSharp"
+    },
+    "clapperboard": {
+      "codepoint": 57706,
+      "fontFamily": "Pixelarticons",
+      "identifier": "clapperboard"
+    },
+    "clapperboard-sharp": {
+      "codepoint": 57707,
+      "fontFamily": "Pixelarticons",
+      "identifier": "clapperboardSharp"
+    },
+    "clipboard": {
+      "codepoint": 57708,
+      "fontFamily": "Pixelarticons",
+      "identifier": "clipboard"
+    },
+    "clipboard-note": {
+      "codepoint": 57709,
+      "fontFamily": "Pixelarticons",
+      "identifier": "clipboardNote"
+    },
+    "clipboard-note-sharp": {
+      "codepoint": 57710,
+      "fontFamily": "Pixelarticons",
+      "identifier": "clipboardNoteSharp"
+    },
+    "clipboard-sharp": {
+      "codepoint": 57711,
+      "fontFamily": "Pixelarticons",
+      "identifier": "clipboardSharp"
+    },
+    "clock": {
+      "codepoint": 57712,
+      "fontFamily": "Pixelarticons",
+      "identifier": "clock"
+    },
+    "close": {
+      "codepoint": 57713,
+      "fontFamily": "Pixelarticons",
+      "identifier": "close"
+    },
+    "close-box": {
+      "codepoint": 57714,
+      "fontFamily": "Pixelarticons",
+      "identifier": "closeBox"
+    },
+    "cloud": {
+      "codepoint": 57715,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cloud"
+    },
+    "cloud-done": {
+      "codepoint": 57716,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cloudDone"
+    },
+    "cloud-download": {
+      "codepoint": 57717,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cloudDownload"
+    },
+    "cloud-moon": {
+      "codepoint": 57718,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cloudMoon"
+    },
+    "cloud-server": {
+      "codepoint": 57719,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cloudServer"
+    },
+    "cloud-sun": {
+      "codepoint": 57720,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cloudSun"
+    },
+    "cloud-upload": {
+      "codepoint": 57721,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cloudUpload"
+    },
+    "cocktail": {
+      "codepoint": 57722,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cocktail"
+    },
+    "code": {
+      "codepoint": 57723,
+      "fontFamily": "Pixelarticons",
+      "identifier": "code"
+    },
+    "coffee": {
+      "codepoint": 57724,
+      "fontFamily": "Pixelarticons",
+      "identifier": "coffee"
+    },
+    "coffee-alt": {
+      "codepoint": 57725,
+      "fontFamily": "Pixelarticons",
+      "identifier": "coffeeAlt"
+    },
+    "coffee-sharp": {
+      "codepoint": 57726,
+      "fontFamily": "Pixelarticons",
+      "identifier": "coffeeSharp"
+    },
+    "coin": {
+      "codepoint": 57727,
+      "fontFamily": "Pixelarticons",
+      "identifier": "coin"
+    },
+    "coins": {
+      "codepoint": 57728,
+      "fontFamily": "Pixelarticons",
+      "identifier": "coins"
+    },
+    "collapse": {
+      "codepoint": 57729,
+      "fontFamily": "Pixelarticons",
+      "identifier": "collapse"
+    },
+    "colors-swatch": {
+      "codepoint": 57730,
+      "fontFamily": "Pixelarticons",
+      "identifier": "colorsSwatch"
+    },
+    "colors-swatch-sharp": {
+      "codepoint": 57731,
+      "fontFamily": "Pixelarticons",
+      "identifier": "colorsSwatchSharp"
+    },
+    "command": {
+      "codepoint": 57732,
+      "fontFamily": "Pixelarticons",
+      "identifier": "command"
+    },
+    "comment": {
+      "codepoint": 57733,
+      "fontFamily": "Pixelarticons",
+      "identifier": "comment"
+    },
+    "comment-sharp": {
+      "codepoint": 57734,
+      "fontFamily": "Pixelarticons",
+      "identifier": "commentSharp"
+    },
+    "comment-text": {
+      "codepoint": 57735,
+      "fontFamily": "Pixelarticons",
+      "identifier": "commentText"
+    },
+    "comment-text-sharp": {
+      "codepoint": 57736,
+      "fontFamily": "Pixelarticons",
+      "identifier": "commentTextSharp"
+    },
+    "computer": {
+      "codepoint": 57737,
+      "fontFamily": "Pixelarticons",
+      "identifier": "computer"
+    },
+    "computer-sharp": {
+      "codepoint": 57738,
+      "fontFamily": "Pixelarticons",
+      "identifier": "computerSharp"
+    },
+    "contact": {
+      "codepoint": 57739,
+      "fontFamily": "Pixelarticons",
+      "identifier": "contact"
+    },
+    "contact-delete": {
+      "codepoint": 57740,
+      "fontFamily": "Pixelarticons",
+      "identifier": "contactDelete"
+    },
+    "contact-multiple": {
+      "codepoint": 57741,
+      "fontFamily": "Pixelarticons",
+      "identifier": "contactMultiple"
+    },
+    "contact-plus": {
+      "codepoint": 57742,
+      "fontFamily": "Pixelarticons",
+      "identifier": "contactPlus"
+    },
+    "contact-sharp": {
+      "codepoint": 57743,
+      "fontFamily": "Pixelarticons",
+      "identifier": "contactSharp"
+    },
+    "copy": {
+      "codepoint": 57744,
+      "fontFamily": "Pixelarticons",
+      "identifier": "copy"
+    },
+    "copy-sharp": {
+      "codepoint": 57745,
+      "fontFamily": "Pixelarticons",
+      "identifier": "copySharp"
+    },
+    "copy-x": {
+      "codepoint": 57746,
+      "fontFamily": "Pixelarticons",
+      "identifier": "copyX"
+    },
+    "copy-x-sharp": {
+      "codepoint": 57747,
+      "fontFamily": "Pixelarticons",
+      "identifier": "copyXSharp"
+    },
+    "corner-down-left": {
+      "codepoint": 57748,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerDownLeft"
+    },
+    "corner-down-left-sharp": {
+      "codepoint": 57749,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerDownLeftSharp"
+    },
+    "corner-down-right": {
+      "codepoint": 57750,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerDownRight"
+    },
+    "corner-down-right-sharp": {
+      "codepoint": 57751,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerDownRightSharp"
+    },
+    "corner-left-down": {
+      "codepoint": 57752,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerLeftDown"
+    },
+    "corner-left-down-sharp": {
+      "codepoint": 57753,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerLeftDownSharp"
+    },
+    "corner-left-up": {
+      "codepoint": 57754,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerLeftUp"
+    },
+    "corner-left-up-sharp": {
+      "codepoint": 57755,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerLeftUpSharp"
+    },
+    "corner-right-down": {
+      "codepoint": 57756,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerRightDown"
+    },
+    "corner-right-down-sharp": {
+      "codepoint": 57757,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerRightDownSharp"
+    },
+    "corner-right-up": {
+      "codepoint": 57758,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerRightUp"
+    },
+    "corner-right-up-sharp": {
+      "codepoint": 57759,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerRightUpSharp"
+    },
+    "corner-up-left": {
+      "codepoint": 57760,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerUpLeft"
+    },
+    "corner-up-left-sharp": {
+      "codepoint": 57761,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerUpLeftSharp"
+    },
+    "corner-up-right": {
+      "codepoint": 57762,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerUpRight"
+    },
+    "corner-up-right-sharp": {
+      "codepoint": 57763,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cornerUpRightSharp"
+    },
+    "cpu": {
+      "codepoint": 57764,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cpu"
+    },
+    "cpu-sharp": {
+      "codepoint": 57765,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cpuSharp"
+    },
+    "credit-card": {
+      "codepoint": 57766,
+      "fontFamily": "Pixelarticons",
+      "identifier": "creditCard"
+    },
+    "credit-card-delete": {
+      "codepoint": 57767,
+      "fontFamily": "Pixelarticons",
+      "identifier": "creditCardDelete"
+    },
+    "credit-card-minus": {
+      "codepoint": 57768,
+      "fontFamily": "Pixelarticons",
+      "identifier": "creditCardMinus"
+    },
+    "credit-card-multiple": {
+      "codepoint": 57769,
+      "fontFamily": "Pixelarticons",
+      "identifier": "creditCardMultiple"
+    },
+    "credit-card-plus": {
+      "codepoint": 57770,
+      "fontFamily": "Pixelarticons",
+      "identifier": "creditCardPlus"
+    },
+    "credit-card-settings": {
+      "codepoint": 57771,
+      "fontFamily": "Pixelarticons",
+      "identifier": "creditCardSettings"
+    },
+    "credit-card-sharp": {
+      "codepoint": 57772,
+      "fontFamily": "Pixelarticons",
+      "identifier": "creditCardSharp"
+    },
+    "credit-card-wireless": {
+      "codepoint": 57773,
+      "fontFamily": "Pixelarticons",
+      "identifier": "creditCardWireless"
+    },
+    "crop": {
+      "codepoint": 57774,
+      "fontFamily": "Pixelarticons",
+      "identifier": "crop"
+    },
+    "crown": {
+      "codepoint": 57775,
+      "fontFamily": "Pixelarticons",
+      "identifier": "crown"
+    },
+    "crown-sharp": {
+      "codepoint": 57776,
+      "fontFamily": "Pixelarticons",
+      "identifier": "crownSharp"
+    },
+    "cursor-minimal": {
+      "codepoint": 57777,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cursorMinimal"
+    },
+    "cut": {
+      "codepoint": 57778,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cut"
+    },
+    "cut-sharp": {
+      "codepoint": 57779,
+      "fontFamily": "Pixelarticons",
+      "identifier": "cutSharp"
+    },
+    "dashbaord": {
+      "codepoint": 57780,
+      "fontFamily": "Pixelarticons",
+      "identifier": "dashbaord"
+    },
+    "dashboard": {
+      "codepoint": 57781,
+      "fontFamily": "Pixelarticons",
+      "identifier": "dashboard"
+    },
+    "database": {
+      "codepoint": 57782,
+      "fontFamily": "Pixelarticons",
+      "identifier": "database"
+    },
+    "date-time": {
+      "codepoint": 57783,
+      "fontFamily": "Pixelarticons",
+      "identifier": "dateTime"
+    },
+    "debug": {
+      "codepoint": 57784,
+      "fontFamily": "Pixelarticons",
+      "identifier": "debug"
+    },
+    "debug-check": {
+      "codepoint": 57785,
+      "fontFamily": "Pixelarticons",
+      "identifier": "debugCheck"
+    },
+    "debug-off": {
+      "codepoint": 57786,
+      "fontFamily": "Pixelarticons",
+      "identifier": "debugOff"
+    },
+    "debug-pause": {
+      "codepoint": 57787,
+      "fontFamily": "Pixelarticons",
+      "identifier": "debugPause"
+    },
+    "debug-play": {
+      "codepoint": 57788,
+      "fontFamily": "Pixelarticons",
+      "identifier": "debugPlay"
+    },
+    "debug-stop": {
+      "codepoint": 57789,
+      "fontFamily": "Pixelarticons",
+      "identifier": "debugStop"
+    },
+    "delete": {
+      "codepoint": 57790,
+      "fontFamily": "Pixelarticons",
+      "identifier": "delete"
+    },
+    "delete-sharp": {
+      "codepoint": 57791,
+      "fontFamily": "Pixelarticons",
+      "identifier": "deleteSharp"
+    },
+    "deskphone": {
+      "codepoint": 57792,
+      "fontFamily": "Pixelarticons",
+      "identifier": "deskphone"
+    },
+    "device-laptop": {
+      "codepoint": 57793,
+      "fontFamily": "Pixelarticons",
+      "identifier": "deviceLaptop"
+    },
+    "device-phone": {
+      "codepoint": 57794,
+      "fontFamily": "Pixelarticons",
+      "identifier": "devicePhone"
+    },
+    "device-tablet": {
+      "codepoint": 57795,
+      "fontFamily": "Pixelarticons",
+      "identifier": "deviceTablet"
+    },
+    "device-tv": {
+      "codepoint": 57796,
+      "fontFamily": "Pixelarticons",
+      "identifier": "deviceTv"
+    },
+    "device-tv-smart": {
+      "codepoint": 57797,
+      "fontFamily": "Pixelarticons",
+      "identifier": "deviceTvSmart"
+    },
+    "device-vibrate": {
+      "codepoint": 57798,
+      "fontFamily": "Pixelarticons",
+      "identifier": "deviceVibrate"
+    },
+    "device-watch": {
+      "codepoint": 57799,
+      "fontFamily": "Pixelarticons",
+      "identifier": "deviceWatch"
+    },
+    "devices": {
+      "codepoint": 57800,
+      "fontFamily": "Pixelarticons",
+      "identifier": "devices"
+    },
+    "diamond-gem": {
+      "codepoint": 57801,
+      "fontFamily": "Pixelarticons",
+      "identifier": "diamondGem"
+    },
+    "dice": {
+      "codepoint": 57802,
+      "fontFamily": "Pixelarticons",
+      "identifier": "dice"
+    },
+    "directions": {
+      "codepoint": 57803,
+      "fontFamily": "Pixelarticons",
+      "identifier": "directions"
+    },
+    "directions-sharp": {
+      "codepoint": 57804,
+      "fontFamily": "Pixelarticons",
+      "identifier": "directionsSharp"
+    },
+    "dock": {
+      "codepoint": 57805,
+      "fontFamily": "Pixelarticons",
+      "identifier": "dock"
+    },
+    "dock-sharp": {
+      "codepoint": 57806,
+      "fontFamily": "Pixelarticons",
+      "identifier": "dockSharp"
+    },
+    "dollar": {
+      "codepoint": 57807,
+      "fontFamily": "Pixelarticons",
+      "identifier": "dollar"
+    },
+    "door-closed": {
+      "codepoint": 57808,
+      "fontFamily": "Pixelarticons",
+      "identifier": "doorClosed"
+    },
+    "door-closed-sharp": {
+      "codepoint": 57809,
+      "fontFamily": "Pixelarticons",
+      "identifier": "doorClosedSharp"
+    },
+    "downasaur": {
+      "codepoint": 57810,
+      "fontFamily": "Pixelarticons",
+      "identifier": "downasaur"
+    },
+    "download": {
+      "codepoint": 57811,
+      "fontFamily": "Pixelarticons",
+      "identifier": "download"
+    },
+    "download-sharp": {
+      "codepoint": 57812,
+      "fontFamily": "Pixelarticons",
+      "identifier": "downloadSharp"
+    },
+    "draft": {
+      "codepoint": 57813,
+      "fontFamily": "Pixelarticons",
+      "identifier": "draft"
+    },
+    "drag-and-drop": {
+      "codepoint": 57814,
+      "fontFamily": "Pixelarticons",
+      "identifier": "dragAndDrop"
+    },
+    "drop": {
+      "codepoint": 57815,
+      "fontFamily": "Pixelarticons",
+      "identifier": "drop"
+    },
+    "drop-area": {
+      "codepoint": 57816,
+      "fontFamily": "Pixelarticons",
+      "identifier": "dropArea"
+    },
+    "drop-full": {
+      "codepoint": 57817,
+      "fontFamily": "Pixelarticons",
+      "identifier": "dropFull"
+    },
+    "drop-half": {
+      "codepoint": 57818,
+      "fontFamily": "Pixelarticons",
+      "identifier": "dropHalf"
+    },
+    "drum": {
+      "codepoint": 57819,
+      "fontFamily": "Pixelarticons",
+      "identifier": "drum"
+    },
+    "duplicate": {
+      "codepoint": 57820,
+      "fontFamily": "Pixelarticons",
+      "identifier": "duplicate"
+    },
+    "duplicate-alt": {
+      "codepoint": 57821,
+      "fontFamily": "Pixelarticons",
+      "identifier": "duplicateAlt"
+    },
+    "earth": {
+      "codepoint": 57822,
+      "fontFamily": "Pixelarticons",
+      "identifier": "earth"
+    },
+    "edit": {
+      "codepoint": 57823,
+      "fontFamily": "Pixelarticons",
+      "identifier": "edit"
+    },
+    "edit-box": {
+      "codepoint": 57824,
+      "fontFamily": "Pixelarticons",
+      "identifier": "editBox"
+    },
+    "estate": {
+      "codepoint": 57825,
+      "fontFamily": "Pixelarticons",
+      "identifier": "estate"
+    },
+    "estate-sharp": {
+      "codepoint": 57826,
+      "fontFamily": "Pixelarticons",
+      "identifier": "estateSharp"
+    },
+    "euro": {
+      "codepoint": 57827,
+      "fontFamily": "Pixelarticons",
+      "identifier": "euro"
+    },
+    "expand": {
+      "codepoint": 57828,
+      "fontFamily": "Pixelarticons",
+      "identifier": "expand"
+    },
+    "external-link": {
+      "codepoint": 57829,
+      "fontFamily": "Pixelarticons",
+      "identifier": "externalLink"
+    },
+    "external-link-sharp": {
+      "codepoint": 57830,
+      "fontFamily": "Pixelarticons",
+      "identifier": "externalLinkSharp"
+    },
+    "eye": {
+      "codepoint": 57831,
+      "fontFamily": "Pixelarticons",
+      "identifier": "eye"
+    },
+    "eye-closed": {
+      "codepoint": 57832,
+      "fontFamily": "Pixelarticons",
+      "identifier": "eyeClosed"
+    },
+    "eye-off": {
+      "codepoint": 57833,
+      "fontFamily": "Pixelarticons",
+      "identifier": "eyeOff"
+    },
+    "factory": {
+      "codepoint": 57834,
+      "fontFamily": "Pixelarticons",
+      "identifier": "factory_"
+    },
+    "factory-sharp": {
+      "codepoint": 57835,
+      "fontFamily": "Pixelarticons",
+      "identifier": "factorySharp"
+    },
+    "feather": {
+      "codepoint": 57836,
+      "fontFamily": "Pixelarticons",
+      "identifier": "feather"
+    },
+    "file": {
+      "codepoint": 57837,
+      "fontFamily": "Pixelarticons",
+      "identifier": "file"
+    },
+    "file-alt": {
+      "codepoint": 57838,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fileAlt"
+    },
+    "file-delete": {
+      "codepoint": 57839,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fileDelete"
+    },
+    "file-flash": {
+      "codepoint": 57840,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fileFlash"
+    },
+    "file-minus": {
+      "codepoint": 57841,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fileMinus"
+    },
+    "file-multiple": {
+      "codepoint": 57842,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fileMultiple"
+    },
+    "file-off": {
+      "codepoint": 57843,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fileOff"
+    },
+    "file-plus": {
+      "codepoint": 57844,
+      "fontFamily": "Pixelarticons",
+      "identifier": "filePlus"
+    },
+    "file-sharp": {
+      "codepoint": 57845,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fileSharp"
+    },
+    "file-text": {
+      "codepoint": 57846,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fileText"
+    },
+    "file-text-sharp": {
+      "codepoint": 57847,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fileTextSharp"
+    },
+    "files": {
+      "codepoint": 57848,
+      "fontFamily": "Pixelarticons",
+      "identifier": "files"
+    },
+    "files-sharp": {
+      "codepoint": 57849,
+      "fontFamily": "Pixelarticons",
+      "identifier": "filesSharp"
+    },
+    "fill": {
+      "codepoint": 57850,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fill"
+    },
+    "fill-half": {
+      "codepoint": 57851,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fillHalf"
+    },
+    "fire": {
+      "codepoint": 57852,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fire"
+    },
+    "fish": {
+      "codepoint": 57853,
+      "fontFamily": "Pixelarticons",
+      "identifier": "fish"
+    },
+    "flag": {
+      "codepoint": 57854,
+      "fontFamily": "Pixelarticons",
+      "identifier": "flag"
+    },
+    "flatten": {
+      "codepoint": 57855,
+      "fontFamily": "Pixelarticons",
+      "identifier": "flatten"
+    },
+    "flip-horizontal-2": {
+      "codepoint": 57856,
+      "fontFamily": "Pixelarticons",
+      "identifier": "flipHorizontal2"
+    },
+    "flip-to-back": {
+      "codepoint": 57857,
+      "fontFamily": "Pixelarticons",
+      "identifier": "flipToBack"
+    },
+    "flip-to-front": {
+      "codepoint": 57858,
+      "fontFamily": "Pixelarticons",
+      "identifier": "flipToFront"
+    },
+    "flip-vertical-2": {
+      "codepoint": 57859,
+      "fontFamily": "Pixelarticons",
+      "identifier": "flipVertical2"
+    },
+    "float-center": {
+      "codepoint": 57860,
+      "fontFamily": "Pixelarticons",
+      "identifier": "floatCenter"
+    },
+    "float-center-sharp": {
+      "codepoint": 57861,
+      "fontFamily": "Pixelarticons",
+      "identifier": "floatCenterSharp"
+    },
+    "float-left": {
+      "codepoint": 57862,
+      "fontFamily": "Pixelarticons",
+      "identifier": "floatLeft"
+    },
+    "float-left-sharp": {
+      "codepoint": 57863,
+      "fontFamily": "Pixelarticons",
+      "identifier": "floatLeftSharp"
+    },
+    "float-right": {
+      "codepoint": 57864,
+      "fontFamily": "Pixelarticons",
+      "identifier": "floatRight"
+    },
+    "float-right-sharp": {
+      "codepoint": 57865,
+      "fontFamily": "Pixelarticons",
+      "identifier": "floatRightSharp"
+    },
+    "folder": {
+      "codepoint": 57866,
+      "fontFamily": "Pixelarticons",
+      "identifier": "folder"
+    },
+    "folder-minus": {
+      "codepoint": 57867,
+      "fontFamily": "Pixelarticons",
+      "identifier": "folderMinus"
+    },
+    "folder-plus": {
+      "codepoint": 57868,
+      "fontFamily": "Pixelarticons",
+      "identifier": "folderPlus"
+    },
+    "folder-plus-sharp": {
+      "codepoint": 57869,
+      "fontFamily": "Pixelarticons",
+      "identifier": "folderPlusSharp"
+    },
+    "folder-sharp": {
+      "codepoint": 57870,
+      "fontFamily": "Pixelarticons",
+      "identifier": "folderSharp"
+    },
+    "folder-x": {
+      "codepoint": 57871,
+      "fontFamily": "Pixelarticons",
+      "identifier": "folderX"
+    },
+    "forward": {
+      "codepoint": 57872,
+      "fontFamily": "Pixelarticons",
+      "identifier": "forward"
+    },
+    "forward-sharp": {
+      "codepoint": 57873,
+      "fontFamily": "Pixelarticons",
+      "identifier": "forwardSharp"
+    },
+    "forwardburger": {
+      "codepoint": 57874,
+      "fontFamily": "Pixelarticons",
+      "identifier": "forwardburger"
+    },
+    "frame": {
+      "codepoint": 57875,
+      "fontFamily": "Pixelarticons",
+      "identifier": "frame"
+    },
+    "frame-add": {
+      "codepoint": 57876,
+      "fontFamily": "Pixelarticons",
+      "identifier": "frameAdd"
+    },
+    "frame-check": {
+      "codepoint": 57877,
+      "fontFamily": "Pixelarticons",
+      "identifier": "frameCheck"
+    },
+    "frame-delete": {
+      "codepoint": 57878,
+      "fontFamily": "Pixelarticons",
+      "identifier": "frameDelete"
+    },
+    "frame-minus": {
+      "codepoint": 57879,
+      "fontFamily": "Pixelarticons",
+      "identifier": "frameMinus"
+    },
+    "frown": {
+      "codepoint": 57880,
+      "fontFamily": "Pixelarticons",
+      "identifier": "frown"
+    },
+    "gallery-thumbnails": {
+      "codepoint": 57881,
+      "fontFamily": "Pixelarticons",
+      "identifier": "galleryThumbnails"
+    },
+    "gallery-thumbnails-sharp": {
+      "codepoint": 57882,
+      "fontFamily": "Pixelarticons",
+      "identifier": "galleryThumbnailsSharp"
+    },
+    "gamepad": {
+      "codepoint": 57883,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gamepad"
+    },
+    "gamepad-sharp": {
+      "codepoint": 57884,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gamepadSharp"
+    },
+    "gif": {
+      "codepoint": 57885,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gif"
+    },
+    "gift": {
+      "codepoint": 57886,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gift"
+    },
+    "gift-sharp": {
+      "codepoint": 57887,
+      "fontFamily": "Pixelarticons",
+      "identifier": "giftSharp"
+    },
+    "git-branch": {
+      "codepoint": 57888,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gitBranch"
+    },
+    "git-branch-sharp": {
+      "codepoint": 57889,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gitBranchSharp"
+    },
+    "git-commit": {
+      "codepoint": 57890,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gitCommit"
+    },
+    "git-commit-sharp": {
+      "codepoint": 57891,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gitCommitSharp"
+    },
+    "git-merge": {
+      "codepoint": 57892,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gitMerge"
+    },
+    "git-merge-sharp": {
+      "codepoint": 57893,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gitMergeSharp"
+    },
+    "git-pull-request": {
+      "codepoint": 57894,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gitPullRequest"
+    },
+    "git-pull-request-sharp": {
+      "codepoint": 57895,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gitPullRequestSharp"
+    },
+    "github": {
+      "codepoint": 57896,
+      "fontFamily": "Pixelarticons",
+      "identifier": "github"
+    },
+    "github-2": {
+      "codepoint": 57897,
+      "fontFamily": "Pixelarticons",
+      "identifier": "github2"
+    },
+    "globe": {
+      "codepoint": 57898,
+      "fontFamily": "Pixelarticons",
+      "identifier": "globe"
+    },
+    "goal": {
+      "codepoint": 57899,
+      "fontFamily": "Pixelarticons",
+      "identifier": "goal"
+    },
+    "gps": {
+      "codepoint": 57900,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gps"
+    },
+    "gps-2": {
+      "codepoint": 57901,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gps2"
+    },
+    "gps-2-sharp": {
+      "codepoint": 57902,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gps2Sharp"
+    },
+    "gps-sharp": {
+      "codepoint": 57903,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gpsSharp"
+    },
+    "gpu": {
+      "codepoint": 57904,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gpu"
+    },
+    "gpu-sharp": {
+      "codepoint": 57905,
+      "fontFamily": "Pixelarticons",
+      "identifier": "gpuSharp"
+    },
+    "grid": {
+      "codepoint": 57906,
+      "fontFamily": "Pixelarticons",
+      "identifier": "grid"
+    },
+    "grid-2x2-2": {
+      "codepoint": 57907,
+      "fontFamily": "Pixelarticons",
+      "identifier": "grid2x22"
+    },
+    "grid-2x2-2-sharp": {
+      "codepoint": 57908,
+      "fontFamily": "Pixelarticons",
+      "identifier": "grid2x22Sharp"
+    },
+    "grid-2x3": {
+      "codepoint": 57909,
+      "fontFamily": "Pixelarticons",
+      "identifier": "grid2x3"
+    },
+    "grid-2x3-sharp": {
+      "codepoint": 57910,
+      "fontFamily": "Pixelarticons",
+      "identifier": "grid2x3Sharp"
+    },
+    "grid-3x2": {
+      "codepoint": 57911,
+      "fontFamily": "Pixelarticons",
+      "identifier": "grid3x2"
+    },
+    "grid-3x2-sharp": {
+      "codepoint": 57912,
+      "fontFamily": "Pixelarticons",
+      "identifier": "grid3x2Sharp"
+    },
+    "grid-3x3": {
+      "codepoint": 57913,
+      "fontFamily": "Pixelarticons",
+      "identifier": "grid3x3"
+    },
+    "grid-3x3-sharp": {
+      "codepoint": 57914,
+      "fontFamily": "Pixelarticons",
+      "identifier": "grid3x3Sharp"
+    },
+    "group": {
+      "codepoint": 57915,
+      "fontFamily": "Pixelarticons",
+      "identifier": "group"
+    },
+    "hand": {
+      "codepoint": 57916,
+      "fontFamily": "Pixelarticons",
+      "identifier": "hand"
+    },
+    "handbag": {
+      "codepoint": 57917,
+      "fontFamily": "Pixelarticons",
+      "identifier": "handbag"
+    },
+    "handbag-sharp": {
+      "codepoint": 57918,
+      "fontFamily": "Pixelarticons",
+      "identifier": "handbagSharp"
+    },
+    "hash": {
+      "codepoint": 57919,
+      "fontFamily": "Pixelarticons",
+      "identifier": "hash"
+    },
+    "hd": {
+      "codepoint": 57920,
+      "fontFamily": "Pixelarticons",
+      "identifier": "hd"
+    },
+    "heading": {
+      "codepoint": 57921,
+      "fontFamily": "Pixelarticons",
+      "identifier": "heading"
+    },
+    "heading-1": {
+      "codepoint": 57922,
+      "fontFamily": "Pixelarticons",
+      "identifier": "heading1"
+    },
+    "heading-2": {
+      "codepoint": 57923,
+      "fontFamily": "Pixelarticons",
+      "identifier": "heading2"
+    },
+    "heading-3": {
+      "codepoint": 57924,
+      "fontFamily": "Pixelarticons",
+      "identifier": "heading3"
+    },
+    "heading-4": {
+      "codepoint": 57925,
+      "fontFamily": "Pixelarticons",
+      "identifier": "heading4"
+    },
+    "heading-5": {
+      "codepoint": 57926,
+      "fontFamily": "Pixelarticons",
+      "identifier": "heading5"
+    },
+    "heading-6": {
+      "codepoint": 57927,
+      "fontFamily": "Pixelarticons",
+      "identifier": "heading6"
+    },
+    "headphone": {
+      "codepoint": 57928,
+      "fontFamily": "Pixelarticons",
+      "identifier": "headphone"
+    },
+    "headset": {
+      "codepoint": 57929,
+      "fontFamily": "Pixelarticons",
+      "identifier": "headset"
+    },
+    "heart": {
+      "codepoint": 57930,
+      "fontFamily": "Pixelarticons",
+      "identifier": "heart"
+    },
+    "helicopter": {
+      "codepoint": 57931,
+      "fontFamily": "Pixelarticons",
+      "identifier": "helicopter"
+    },
+    "hidden": {
+      "codepoint": 57932,
+      "fontFamily": "Pixelarticons",
+      "identifier": "hidden"
+    },
+    "home": {
+      "codepoint": 57933,
+      "fontFamily": "Pixelarticons",
+      "identifier": "home"
+    },
+    "home-sharp": {
+      "codepoint": 57934,
+      "fontFamily": "Pixelarticons",
+      "identifier": "homeSharp"
+    },
+    "hotel-bed": {
+      "codepoint": 57935,
+      "fontFamily": "Pixelarticons",
+      "identifier": "hotelBed"
+    },
+    "hotel-bed-sharp": {
+      "codepoint": 57936,
+      "fontFamily": "Pixelarticons",
+      "identifier": "hotelBedSharp"
+    },
+    "hourglass": {
+      "codepoint": 57937,
+      "fontFamily": "Pixelarticons",
+      "identifier": "hourglass"
+    },
+    "hq": {
+      "codepoint": 57938,
+      "fontFamily": "Pixelarticons",
+      "identifier": "hq"
+    },
+    "human": {
+      "codepoint": 57939,
+      "fontFamily": "Pixelarticons",
+      "identifier": "human"
+    },
+    "human-arms-down": {
+      "codepoint": 57940,
+      "fontFamily": "Pixelarticons",
+      "identifier": "humanArmsDown"
+    },
+    "human-arms-up": {
+      "codepoint": 57941,
+      "fontFamily": "Pixelarticons",
+      "identifier": "humanArmsUp"
+    },
+    "human-handsdown": {
+      "codepoint": 57942,
+      "fontFamily": "Pixelarticons",
+      "identifier": "humanHandsdown"
+    },
+    "human-handsup": {
+      "codepoint": 57943,
+      "fontFamily": "Pixelarticons",
+      "identifier": "humanHandsup"
+    },
+    "human-height": {
+      "codepoint": 57944,
+      "fontFamily": "Pixelarticons",
+      "identifier": "humanHeight"
+    },
+    "human-height-alt": {
+      "codepoint": 57945,
+      "fontFamily": "Pixelarticons",
+      "identifier": "humanHeightAlt"
+    },
+    "human-run": {
+      "codepoint": 57946,
+      "fontFamily": "Pixelarticons",
+      "identifier": "humanRun"
+    },
+    "icon-category": {
+      "codepoint": 57947,
+      "fontFamily": "Pixelarticons",
+      "identifier": "iconCategory"
+    },
+    "icons": {
+      "codepoint": 57948,
+      "fontFamily": "Pixelarticons",
+      "identifier": "icons"
+    },
+    "image": {
+      "codepoint": 57949,
+      "fontFamily": "Pixelarticons",
+      "identifier": "image"
+    },
+    "image-2-plus": {
+      "codepoint": 57950,
+      "fontFamily": "Pixelarticons",
+      "identifier": "image2Plus"
+    },
+    "image-2-plus-sharp": {
+      "codepoint": 57951,
+      "fontFamily": "Pixelarticons",
+      "identifier": "image2PlusSharp"
+    },
+    "image-arrow-right": {
+      "codepoint": 57952,
+      "fontFamily": "Pixelarticons",
+      "identifier": "imageArrowRight"
+    },
+    "image-broken": {
+      "codepoint": 57953,
+      "fontFamily": "Pixelarticons",
+      "identifier": "imageBroken"
+    },
+    "image-delete": {
+      "codepoint": 57954,
+      "fontFamily": "Pixelarticons",
+      "identifier": "imageDelete"
+    },
+    "image-flash": {
+      "codepoint": 57955,
+      "fontFamily": "Pixelarticons",
+      "identifier": "imageFlash"
+    },
+    "image-frame": {
+      "codepoint": 57956,
+      "fontFamily": "Pixelarticons",
+      "identifier": "imageFrame"
+    },
+    "image-gallery": {
+      "codepoint": 57957,
+      "fontFamily": "Pixelarticons",
+      "identifier": "imageGallery"
+    },
+    "image-multiple": {
+      "codepoint": 57958,
+      "fontFamily": "Pixelarticons",
+      "identifier": "imageMultiple"
+    },
+    "image-new": {
+      "codepoint": 57959,
+      "fontFamily": "Pixelarticons",
+      "identifier": "imageNew"
+    },
+    "image-new-sharp": {
+      "codepoint": 57960,
+      "fontFamily": "Pixelarticons",
+      "identifier": "imageNewSharp"
+    },
+    "image-plus": {
+      "codepoint": 57961,
+      "fontFamily": "Pixelarticons",
+      "identifier": "imagePlus"
+    },
+    "image-sharp": {
+      "codepoint": 57962,
+      "fontFamily": "Pixelarticons",
+      "identifier": "imageSharp"
+    },
+    "images": {
+      "codepoint": 57963,
+      "fontFamily": "Pixelarticons",
+      "identifier": "images"
+    },
+    "images-sharp": {
+      "codepoint": 57964,
+      "fontFamily": "Pixelarticons",
+      "identifier": "imagesSharp"
+    },
+    "inbox": {
+      "codepoint": 57965,
+      "fontFamily": "Pixelarticons",
+      "identifier": "inbox"
+    },
+    "inbox-all": {
+      "codepoint": 57966,
+      "fontFamily": "Pixelarticons",
+      "identifier": "inboxAll"
+    },
+    "inbox-full": {
+      "codepoint": 57967,
+      "fontFamily": "Pixelarticons",
+      "identifier": "inboxFull"
+    },
+    "inbox-sharp": {
+      "codepoint": 57968,
+      "fontFamily": "Pixelarticons",
+      "identifier": "inboxSharp"
+    },
+    "info-box": {
+      "codepoint": 57969,
+      "fontFamily": "Pixelarticons",
+      "identifier": "infoBox"
+    },
+    "info-box-sharp": {
+      "codepoint": 57970,
+      "fontFamily": "Pixelarticons",
+      "identifier": "infoBoxSharp"
+    },
+    "invert": {
+      "codepoint": 57971,
+      "fontFamily": "Pixelarticons",
+      "identifier": "invert"
+    },
+    "invert-sharp": {
+      "codepoint": 57972,
+      "fontFamily": "Pixelarticons",
+      "identifier": "invertSharp"
+    },
+    "invoice": {
+      "codepoint": 57973,
+      "fontFamily": "Pixelarticons",
+      "identifier": "invoice"
+    },
+    "invoice-sharp": {
+      "codepoint": 57974,
+      "fontFamily": "Pixelarticons",
+      "identifier": "invoiceSharp"
+    },
+    "iso": {
+      "codepoint": 57975,
+      "fontFamily": "Pixelarticons",
+      "identifier": "iso"
+    },
+    "joystick": {
+      "codepoint": 57976,
+      "fontFamily": "Pixelarticons",
+      "identifier": "joystick"
+    },
+    "joystick-sharp": {
+      "codepoint": 57977,
+      "fontFamily": "Pixelarticons",
+      "identifier": "joystickSharp"
+    },
+    "kanban": {
+      "codepoint": 57978,
+      "fontFamily": "Pixelarticons",
+      "identifier": "kanban"
+    },
+    "keyboard": {
+      "codepoint": 57979,
+      "fontFamily": "Pixelarticons",
+      "identifier": "keyboard"
+    },
+    "keyboard-music": {
+      "codepoint": 57980,
+      "fontFamily": "Pixelarticons",
+      "identifier": "keyboardMusic"
+    },
+    "keyboard-music-sharp": {
+      "codepoint": 57981,
+      "fontFamily": "Pixelarticons",
+      "identifier": "keyboardMusicSharp"
+    },
+    "label": {
+      "codepoint": 57982,
+      "fontFamily": "Pixelarticons",
+      "identifier": "label"
+    },
+    "label-alt": {
+      "codepoint": 57983,
+      "fontFamily": "Pixelarticons",
+      "identifier": "labelAlt"
+    },
+    "label-alt-multiple": {
+      "codepoint": 57984,
+      "fontFamily": "Pixelarticons",
+      "identifier": "labelAltMultiple"
+    },
+    "label-sharp": {
+      "codepoint": 57985,
+      "fontFamily": "Pixelarticons",
+      "identifier": "labelSharp"
+    },
+    "languages": {
+      "codepoint": 57986,
+      "fontFamily": "Pixelarticons",
+      "identifier": "languages"
+    },
+    "languages-sharp": {
+      "codepoint": 57987,
+      "fontFamily": "Pixelarticons",
+      "identifier": "languagesSharp"
+    },
+    "lasso": {
+      "codepoint": 57988,
+      "fontFamily": "Pixelarticons",
+      "identifier": "lasso"
+    },
+    "laugh": {
+      "codepoint": 57989,
+      "fontFamily": "Pixelarticons",
+      "identifier": "laugh"
+    },
+    "laugh-sharp": {
+      "codepoint": 57990,
+      "fontFamily": "Pixelarticons",
+      "identifier": "laughSharp"
+    },
+    "layout": {
+      "codepoint": 57991,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layout"
+    },
+    "layout-align-bottom": {
+      "codepoint": 57992,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layoutAlignBottom"
+    },
+    "layout-align-left": {
+      "codepoint": 57993,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layoutAlignLeft"
+    },
+    "layout-align-right": {
+      "codepoint": 57994,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layoutAlignRight"
+    },
+    "layout-align-top": {
+      "codepoint": 57995,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layoutAlignTop"
+    },
+    "layout-columns": {
+      "codepoint": 57996,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layoutColumns"
+    },
+    "layout-distribute-horizontal": {
+      "codepoint": 57997,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layoutDistributeHorizontal"
+    },
+    "layout-distribute-vertical": {
+      "codepoint": 57998,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layoutDistributeVertical"
+    },
+    "layout-footer": {
+      "codepoint": 57999,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layoutFooter"
+    },
+    "layout-header": {
+      "codepoint": 58000,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layoutHeader"
+    },
+    "layout-rows": {
+      "codepoint": 58001,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layoutRows"
+    },
+    "layout-sidebar-left": {
+      "codepoint": 58002,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layoutSidebarLeft"
+    },
+    "layout-sidebar-right": {
+      "codepoint": 58003,
+      "fontFamily": "Pixelarticons",
+      "identifier": "layoutSidebarRight"
+    },
+    "leaf": {
+      "codepoint": 58004,
+      "fontFamily": "Pixelarticons",
+      "identifier": "leaf"
+    },
+    "library": {
+      "codepoint": 58005,
+      "fontFamily": "Pixelarticons",
+      "identifier": "library_"
+    },
+    "lightbulb": {
+      "codepoint": 58006,
+      "fontFamily": "Pixelarticons",
+      "identifier": "lightbulb"
+    },
+    "lightbulb-2": {
+      "codepoint": 58007,
+      "fontFamily": "Pixelarticons",
+      "identifier": "lightbulb2"
+    },
+    "lightbulb-off": {
+      "codepoint": 58008,
+      "fontFamily": "Pixelarticons",
+      "identifier": "lightbulbOff"
+    },
+    "lightbulb-on": {
+      "codepoint": 58009,
+      "fontFamily": "Pixelarticons",
+      "identifier": "lightbulbOn"
+    },
+    "link": {
+      "codepoint": 58010,
+      "fontFamily": "Pixelarticons",
+      "identifier": "link"
+    },
+    "link-sharp": {
+      "codepoint": 58011,
+      "fontFamily": "Pixelarticons",
+      "identifier": "linkSharp"
+    },
+    "list": {
+      "codepoint": 58012,
+      "fontFamily": "Pixelarticons",
+      "identifier": "list"
+    },
+    "list-box": {
+      "codepoint": 58013,
+      "fontFamily": "Pixelarticons",
+      "identifier": "listBox"
+    },
+    "list-box-sharp": {
+      "codepoint": 58014,
+      "fontFamily": "Pixelarticons",
+      "identifier": "listBoxSharp"
+    },
+    "loader": {
+      "codepoint": 58015,
+      "fontFamily": "Pixelarticons",
+      "identifier": "loader"
+    },
+    "lock": {
+      "codepoint": 58016,
+      "fontFamily": "Pixelarticons",
+      "identifier": "lock"
+    },
+    "lock-open": {
+      "codepoint": 58017,
+      "fontFamily": "Pixelarticons",
+      "identifier": "lockOpen"
+    },
+    "lock-sharp": {
+      "codepoint": 58018,
+      "fontFamily": "Pixelarticons",
+      "identifier": "lockSharp"
+    },
+    "login": {
+      "codepoint": 58019,
+      "fontFamily": "Pixelarticons",
+      "identifier": "login"
+    },
+    "login-sharp": {
+      "codepoint": 58020,
+      "fontFamily": "Pixelarticons",
+      "identifier": "loginSharp"
+    },
+    "logout": {
+      "codepoint": 58021,
+      "fontFamily": "Pixelarticons",
+      "identifier": "logout"
+    },
+    "logout-sharp": {
+      "codepoint": 58022,
+      "fontFamily": "Pixelarticons",
+      "identifier": "logoutSharp"
+    },
+    "luggage": {
+      "codepoint": 58023,
+      "fontFamily": "Pixelarticons",
+      "identifier": "luggage"
+    },
+    "magic-edit": {
+      "codepoint": 58024,
+      "fontFamily": "Pixelarticons",
+      "identifier": "magicEdit"
+    },
+    "mail": {
+      "codepoint": 58025,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mail"
+    },
+    "mail-arrow-right": {
+      "codepoint": 58026,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailArrowRight"
+    },
+    "mail-check": {
+      "codepoint": 58027,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailCheck"
+    },
+    "mail-delete": {
+      "codepoint": 58028,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailDelete"
+    },
+    "mail-flash": {
+      "codepoint": 58029,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailFlash"
+    },
+    "mail-multiple": {
+      "codepoint": 58030,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailMultiple"
+    },
+    "mail-off": {
+      "codepoint": 58031,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailOff"
+    },
+    "mail-open": {
+      "codepoint": 58032,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailOpen"
+    },
+    "mail-open-sharp": {
+      "codepoint": 58033,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailOpenSharp"
+    },
+    "mail-right": {
+      "codepoint": 58034,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailRight"
+    },
+    "mail-right-sharp": {
+      "codepoint": 58035,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailRightSharp"
+    },
+    "mail-sharp": {
+      "codepoint": 58036,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailSharp"
+    },
+    "mail-unread": {
+      "codepoint": 58037,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailUnread"
+    },
+    "mailbox": {
+      "codepoint": 58038,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailbox"
+    },
+    "mailbox-sharp": {
+      "codepoint": 58039,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mailboxSharp"
+    },
+    "map": {
+      "codepoint": 58040,
+      "fontFamily": "Pixelarticons",
+      "identifier": "map"
+    },
+    "map-pin": {
+      "codepoint": 58041,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mapPin"
+    },
+    "map-pin-home": {
+      "codepoint": 58042,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mapPinHome"
+    },
+    "mastodon": {
+      "codepoint": 58043,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mastodon"
+    },
+    "megaphone": {
+      "codepoint": 58044,
+      "fontFamily": "Pixelarticons",
+      "identifier": "megaphone"
+    },
+    "megaphone-sharp": {
+      "codepoint": 58045,
+      "fontFamily": "Pixelarticons",
+      "identifier": "megaphoneSharp"
+    },
+    "meh": {
+      "codepoint": 58046,
+      "fontFamily": "Pixelarticons",
+      "identifier": "meh"
+    },
+    "meh-sharp": {
+      "codepoint": 58047,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mehSharp"
+    },
+    "membercard": {
+      "codepoint": 58048,
+      "fontFamily": "Pixelarticons",
+      "identifier": "membercard"
+    },
+    "memory-stick": {
+      "codepoint": 58049,
+      "fontFamily": "Pixelarticons",
+      "identifier": "memoryStick"
+    },
+    "memory-stick-sharp": {
+      "codepoint": 58050,
+      "fontFamily": "Pixelarticons",
+      "identifier": "memoryStickSharp"
+    },
+    "menu": {
+      "codepoint": 58051,
+      "fontFamily": "Pixelarticons",
+      "identifier": "menu"
+    },
+    "menu-circle": {
+      "codepoint": 58052,
+      "fontFamily": "Pixelarticons",
+      "identifier": "menuCircle"
+    },
+    "menu-square": {
+      "codepoint": 58053,
+      "fontFamily": "Pixelarticons",
+      "identifier": "menuSquare"
+    },
+    "menu-square-sharp": {
+      "codepoint": 58054,
+      "fontFamily": "Pixelarticons",
+      "identifier": "menuSquareSharp"
+    },
+    "message": {
+      "codepoint": 58055,
+      "fontFamily": "Pixelarticons",
+      "identifier": "message"
+    },
+    "message-arrow-left": {
+      "codepoint": 58056,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageArrowLeft"
+    },
+    "message-arrow-right": {
+      "codepoint": 58057,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageArrowRight"
+    },
+    "message-bookmark": {
+      "codepoint": 58058,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageBookmark"
+    },
+    "message-clock": {
+      "codepoint": 58059,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageClock"
+    },
+    "message-delete": {
+      "codepoint": 58060,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageDelete"
+    },
+    "message-flash": {
+      "codepoint": 58061,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageFlash"
+    },
+    "message-image": {
+      "codepoint": 58062,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageImage"
+    },
+    "message-minus": {
+      "codepoint": 58063,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageMinus"
+    },
+    "message-plus": {
+      "codepoint": 58064,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messagePlus"
+    },
+    "message-processing": {
+      "codepoint": 58065,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageProcessing"
+    },
+    "message-reply": {
+      "codepoint": 58066,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageReply"
+    },
+    "message-sharp": {
+      "codepoint": 58067,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageSharp"
+    },
+    "message-text": {
+      "codepoint": 58068,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageText"
+    },
+    "message-text-sharp": {
+      "codepoint": 58069,
+      "fontFamily": "Pixelarticons",
+      "identifier": "messageTextSharp"
+    },
+    "mic": {
+      "codepoint": 58070,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mic"
+    },
+    "mic-off": {
+      "codepoint": 58071,
+      "fontFamily": "Pixelarticons",
+      "identifier": "micOff"
+    },
+    "mic-off-sharp": {
+      "codepoint": 58072,
+      "fontFamily": "Pixelarticons",
+      "identifier": "micOffSharp"
+    },
+    "mic-sharp": {
+      "codepoint": 58073,
+      "fontFamily": "Pixelarticons",
+      "identifier": "micSharp"
+    },
+    "minus": {
+      "codepoint": 58074,
+      "fontFamily": "Pixelarticons",
+      "identifier": "minus"
+    },
+    "minus-box": {
+      "codepoint": 58075,
+      "fontFamily": "Pixelarticons",
+      "identifier": "minusBox"
+    },
+    "minus-box-sharp": {
+      "codepoint": 58076,
+      "fontFamily": "Pixelarticons",
+      "identifier": "minusBoxSharp"
+    },
+    "missed-call": {
+      "codepoint": 58077,
+      "fontFamily": "Pixelarticons",
+      "identifier": "missedCall"
+    },
+    "modem": {
+      "codepoint": 58078,
+      "fontFamily": "Pixelarticons",
+      "identifier": "modem"
+    },
+    "modem-sharp": {
+      "codepoint": 58079,
+      "fontFamily": "Pixelarticons",
+      "identifier": "modemSharp"
+    },
+    "money": {
+      "codepoint": 58080,
+      "fontFamily": "Pixelarticons",
+      "identifier": "money"
+    },
+    "money-sharp": {
+      "codepoint": 58081,
+      "fontFamily": "Pixelarticons",
+      "identifier": "moneySharp"
+    },
+    "monitor": {
+      "codepoint": 58082,
+      "fontFamily": "Pixelarticons",
+      "identifier": "monitor"
+    },
+    "monitor-sharp": {
+      "codepoint": 58083,
+      "fontFamily": "Pixelarticons",
+      "identifier": "monitorSharp"
+    },
+    "mood-happy": {
+      "codepoint": 58084,
+      "fontFamily": "Pixelarticons",
+      "identifier": "moodHappy"
+    },
+    "mood-neutral": {
+      "codepoint": 58085,
+      "fontFamily": "Pixelarticons",
+      "identifier": "moodNeutral"
+    },
+    "mood-sad": {
+      "codepoint": 58086,
+      "fontFamily": "Pixelarticons",
+      "identifier": "moodSad"
+    },
+    "moon": {
+      "codepoint": 58087,
+      "fontFamily": "Pixelarticons",
+      "identifier": "moon"
+    },
+    "moon-star": {
+      "codepoint": 58088,
+      "fontFamily": "Pixelarticons",
+      "identifier": "moonStar"
+    },
+    "moon-stars": {
+      "codepoint": 58089,
+      "fontFamily": "Pixelarticons",
+      "identifier": "moonStars"
+    },
+    "more-horizontal": {
+      "codepoint": 58090,
+      "fontFamily": "Pixelarticons",
+      "identifier": "moreHorizontal"
+    },
+    "more-horizontal-sharp": {
+      "codepoint": 58091,
+      "fontFamily": "Pixelarticons",
+      "identifier": "moreHorizontalSharp"
+    },
+    "more-vertical": {
+      "codepoint": 58092,
+      "fontFamily": "Pixelarticons",
+      "identifier": "moreVertical"
+    },
+    "more-vertical-sharp": {
+      "codepoint": 58093,
+      "fontFamily": "Pixelarticons",
+      "identifier": "moreVerticalSharp"
+    },
+    "mouse": {
+      "codepoint": 58094,
+      "fontFamily": "Pixelarticons",
+      "identifier": "mouse"
+    },
+    "move": {
+      "codepoint": 58095,
+      "fontFamily": "Pixelarticons",
+      "identifier": "move"
+    },
+    "movie": {
+      "codepoint": 58096,
+      "fontFamily": "Pixelarticons",
+      "identifier": "movie"
+    },
+    "music": {
+      "codepoint": 58097,
+      "fontFamily": "Pixelarticons",
+      "identifier": "music"
+    },
+    "music-sharp": {
+      "codepoint": 58098,
+      "fontFamily": "Pixelarticons",
+      "identifier": "musicSharp"
+    },
+    "next": {
+      "codepoint": 58099,
+      "fontFamily": "Pixelarticons",
+      "identifier": "next"
+    },
+    "note": {
+      "codepoint": 58100,
+      "fontFamily": "Pixelarticons",
+      "identifier": "note"
+    },
+    "note-delete": {
+      "codepoint": 58101,
+      "fontFamily": "Pixelarticons",
+      "identifier": "noteDelete"
+    },
+    "note-multiple": {
+      "codepoint": 58102,
+      "fontFamily": "Pixelarticons",
+      "identifier": "noteMultiple"
+    },
+    "note-plus": {
+      "codepoint": 58103,
+      "fontFamily": "Pixelarticons",
+      "identifier": "notePlus"
+    },
+    "note-sharp": {
+      "codepoint": 58104,
+      "fontFamily": "Pixelarticons",
+      "identifier": "noteSharp"
+    },
+    "notebook": {
+      "codepoint": 58105,
+      "fontFamily": "Pixelarticons",
+      "identifier": "notebook"
+    },
+    "notebook-sharp": {
+      "codepoint": 58106,
+      "fontFamily": "Pixelarticons",
+      "identifier": "notebookSharp"
+    },
+    "notes": {
+      "codepoint": 58107,
+      "fontFamily": "Pixelarticons",
+      "identifier": "notes"
+    },
+    "notes-delete": {
+      "codepoint": 58108,
+      "fontFamily": "Pixelarticons",
+      "identifier": "notesDelete"
+    },
+    "notes-multiple": {
+      "codepoint": 58109,
+      "fontFamily": "Pixelarticons",
+      "identifier": "notesMultiple"
+    },
+    "notes-plus": {
+      "codepoint": 58110,
+      "fontFamily": "Pixelarticons",
+      "identifier": "notesPlus"
+    },
+    "notes-sharp": {
+      "codepoint": 58111,
+      "fontFamily": "Pixelarticons",
+      "identifier": "notesSharp"
+    },
+    "notification": {
+      "codepoint": 58112,
+      "fontFamily": "Pixelarticons",
+      "identifier": "notification"
+    },
+    "notification-off": {
+      "codepoint": 58113,
+      "fontFamily": "Pixelarticons",
+      "identifier": "notificationOff"
+    },
+    "open": {
+      "codepoint": 58114,
+      "fontFamily": "Pixelarticons",
+      "identifier": "open"
+    },
+    "open-sharp": {
+      "codepoint": 58115,
+      "fontFamily": "Pixelarticons",
+      "identifier": "openSharp"
+    },
+    "package": {
+      "codepoint": 58116,
+      "fontFamily": "Pixelarticons",
+      "identifier": "package"
+    },
+    "paint-bucket": {
+      "codepoint": 58117,
+      "fontFamily": "Pixelarticons",
+      "identifier": "paintBucket"
+    },
+    "paperclip": {
+      "codepoint": 58118,
+      "fontFamily": "Pixelarticons",
+      "identifier": "paperclip"
+    },
+    "parking": {
+      "codepoint": 58119,
+      "fontFamily": "Pixelarticons",
+      "identifier": "parking"
+    },
+    "parking-off": {
+      "codepoint": 58120,
+      "fontFamily": "Pixelarticons",
+      "identifier": "parkingOff"
+    },
+    "parking-off-sharp": {
+      "codepoint": 58121,
+      "fontFamily": "Pixelarticons",
+      "identifier": "parkingOffSharp"
+    },
+    "parking-sharp": {
+      "codepoint": 58122,
+      "fontFamily": "Pixelarticons",
+      "identifier": "parkingSharp"
+    },
+    "party-popper": {
+      "codepoint": 58123,
+      "fontFamily": "Pixelarticons",
+      "identifier": "partyPopper"
+    },
+    "pause": {
+      "codepoint": 58124,
+      "fontFamily": "Pixelarticons",
+      "identifier": "pause"
+    },
+    "pc-case": {
+      "codepoint": 58125,
+      "fontFamily": "Pixelarticons",
+      "identifier": "pcCase"
+    },
+    "pc-case-sharp": {
+      "codepoint": 58126,
+      "fontFamily": "Pixelarticons",
+      "identifier": "pcCaseSharp"
+    },
+    "pen-square": {
+      "codepoint": 58127,
+      "fontFamily": "Pixelarticons",
+      "identifier": "penSquare"
+    },
+    "pen-square-sharp": {
+      "codepoint": 58128,
+      "fontFamily": "Pixelarticons",
+      "identifier": "penSquareSharp"
+    },
+    "percent": {
+      "codepoint": 58129,
+      "fontFamily": "Pixelarticons",
+      "identifier": "percent"
+    },
+    "phone": {
+      "codepoint": 58130,
+      "fontFamily": "Pixelarticons",
+      "identifier": "phone"
+    },
+    "phone-call": {
+      "codepoint": 58131,
+      "fontFamily": "Pixelarticons",
+      "identifier": "phoneCall"
+    },
+    "phone-call-sharp": {
+      "codepoint": 58132,
+      "fontFamily": "Pixelarticons",
+      "identifier": "phoneCallSharp"
+    },
+    "phone-outgoing": {
+      "codepoint": 58133,
+      "fontFamily": "Pixelarticons",
+      "identifier": "phoneOutgoing"
+    },
+    "phone-outgoing-sharp": {
+      "codepoint": 58134,
+      "fontFamily": "Pixelarticons",
+      "identifier": "phoneOutgoingSharp"
+    },
+    "phone-sharp": {
+      "codepoint": 58135,
+      "fontFamily": "Pixelarticons",
+      "identifier": "phoneSharp"
+    },
+    "pi": {
+      "codepoint": 58136,
+      "fontFamily": "Pixelarticons",
+      "identifier": "pi"
+    },
+    "pi-circle": {
+      "codepoint": 58137,
+      "fontFamily": "Pixelarticons",
+      "identifier": "piCircle"
+    },
+    "picture-in-picture": {
+      "codepoint": 58138,
+      "fontFamily": "Pixelarticons",
+      "identifier": "pictureInPicture"
+    },
+    "picture-in-picture-alt": {
+      "codepoint": 58139,
+      "fontFamily": "Pixelarticons",
+      "identifier": "pictureInPictureAlt"
+    },
+    "picture-in-picture-sharp": {
+      "codepoint": 58140,
+      "fontFamily": "Pixelarticons",
+      "identifier": "pictureInPictureSharp"
+    },
+    "pin": {
+      "codepoint": 58141,
+      "fontFamily": "Pixelarticons",
+      "identifier": "pin"
+    },
+    "pipette": {
+      "codepoint": 58142,
+      "fontFamily": "Pixelarticons",
+      "identifier": "pipette"
+    },
+    "pixelarticons": {
+      "codepoint": 58143,
+      "fontFamily": "Pixelarticons",
+      "identifier": "pixelarticons"
+    },
+    "play": {
+      "codepoint": 58144,
+      "fontFamily": "Pixelarticons",
+      "identifier": "play"
+    },
+    "playlist": {
+      "codepoint": 58145,
+      "fontFamily": "Pixelarticons",
+      "identifier": "playlist"
+    },
+    "plus": {
+      "codepoint": 58146,
+      "fontFamily": "Pixelarticons",
+      "identifier": "plus"
+    },
+    "plus-box": {
+      "codepoint": 58147,
+      "fontFamily": "Pixelarticons",
+      "identifier": "plusBox"
+    },
+    "plus-box-sharp": {
+      "codepoint": 58148,
+      "fontFamily": "Pixelarticons",
+      "identifier": "plusBoxSharp"
+    },
+    "pointer": {
+      "codepoint": 58149,
+      "fontFamily": "Pixelarticons",
+      "identifier": "pointer"
+    },
+    "potion": {
+      "codepoint": 58150,
+      "fontFamily": "Pixelarticons",
+      "identifier": "potion"
+    },
+    "potion-sharp": {
+      "codepoint": 58151,
+      "fontFamily": "Pixelarticons",
+      "identifier": "potionSharp"
+    },
+    "power": {
+      "codepoint": 58152,
+      "fontFamily": "Pixelarticons",
+      "identifier": "power"
+    },
+    "power-off": {
+      "codepoint": 58153,
+      "fontFamily": "Pixelarticons",
+      "identifier": "powerOff"
+    },
+    "presentation": {
+      "codepoint": 58154,
+      "fontFamily": "Pixelarticons",
+      "identifier": "presentation"
+    },
+    "presentation-sharp": {
+      "codepoint": 58155,
+      "fontFamily": "Pixelarticons",
+      "identifier": "presentationSharp"
+    },
+    "prev": {
+      "codepoint": 58156,
+      "fontFamily": "Pixelarticons",
+      "identifier": "prev"
+    },
+    "print": {
+      "codepoint": 58157,
+      "fontFamily": "Pixelarticons",
+      "identifier": "print"
+    },
+    "printer": {
+      "codepoint": 58158,
+      "fontFamily": "Pixelarticons",
+      "identifier": "printer"
+    },
+    "printer-minimal-sharp": {
+      "codepoint": 58159,
+      "fontFamily": "Pixelarticons",
+      "identifier": "printerMinimalSharp"
+    },
+    "projector": {
+      "codepoint": 58160,
+      "fontFamily": "Pixelarticons",
+      "identifier": "projector"
+    },
+    "proportions": {
+      "codepoint": 58161,
+      "fontFamily": "Pixelarticons",
+      "identifier": "proportions"
+    },
+    "proportions-sharp": {
+      "codepoint": 58162,
+      "fontFamily": "Pixelarticons",
+      "identifier": "proportionsSharp"
+    },
+    "quote-text-inline": {
+      "codepoint": 58163,
+      "fontFamily": "Pixelarticons",
+      "identifier": "quoteTextInline"
+    },
+    "radio": {
+      "codepoint": 58164,
+      "fontFamily": "Pixelarticons",
+      "identifier": "radio"
+    },
+    "radio-handheld": {
+      "codepoint": 58165,
+      "fontFamily": "Pixelarticons",
+      "identifier": "radioHandheld"
+    },
+    "radio-on": {
+      "codepoint": 58166,
+      "fontFamily": "Pixelarticons",
+      "identifier": "radioOn"
+    },
+    "radio-signal": {
+      "codepoint": 58167,
+      "fontFamily": "Pixelarticons",
+      "identifier": "radioSignal"
+    },
+    "radio-tower": {
+      "codepoint": 58168,
+      "fontFamily": "Pixelarticons",
+      "identifier": "radioTower"
+    },
+    "radius": {
+      "codepoint": 58169,
+      "fontFamily": "Pixelarticons",
+      "identifier": "radius"
+    },
+    "ratio": {
+      "codepoint": 58170,
+      "fontFamily": "Pixelarticons",
+      "identifier": "ratio"
+    },
+    "receipt": {
+      "codepoint": 58171,
+      "fontFamily": "Pixelarticons",
+      "identifier": "receipt"
+    },
+    "receipt-sharp": {
+      "codepoint": 58172,
+      "fontFamily": "Pixelarticons",
+      "identifier": "receiptSharp"
+    },
+    "reciept": {
+      "codepoint": 58173,
+      "fontFamily": "Pixelarticons",
+      "identifier": "reciept"
+    },
+    "reciept-alt": {
+      "codepoint": 58174,
+      "fontFamily": "Pixelarticons",
+      "identifier": "recieptAlt"
+    },
+    "recycle": {
+      "codepoint": 58175,
+      "fontFamily": "Pixelarticons",
+      "identifier": "recycle"
+    },
+    "redo": {
+      "codepoint": 58176,
+      "fontFamily": "Pixelarticons",
+      "identifier": "redo"
+    },
+    "redo-sharp": {
+      "codepoint": 58177,
+      "fontFamily": "Pixelarticons",
+      "identifier": "redoSharp"
+    },
+    "reload": {
+      "codepoint": 58178,
+      "fontFamily": "Pixelarticons",
+      "identifier": "reload"
+    },
+    "reload-sharp": {
+      "codepoint": 58179,
+      "fontFamily": "Pixelarticons",
+      "identifier": "reloadSharp"
+    },
+    "remove-box": {
+      "codepoint": 58180,
+      "fontFamily": "Pixelarticons",
+      "identifier": "removeBox"
+    },
+    "remove-box-multiple": {
+      "codepoint": 58181,
+      "fontFamily": "Pixelarticons",
+      "identifier": "removeBoxMultiple"
+    },
+    "repeat": {
+      "codepoint": 58182,
+      "fontFamily": "Pixelarticons",
+      "identifier": "repeat"
+    },
+    "repeat-sharp": {
+      "codepoint": 58183,
+      "fontFamily": "Pixelarticons",
+      "identifier": "repeatSharp"
+    },
+    "reply": {
+      "codepoint": 58184,
+      "fontFamily": "Pixelarticons",
+      "identifier": "reply"
+    },
+    "reply-all": {
+      "codepoint": 58185,
+      "fontFamily": "Pixelarticons",
+      "identifier": "replyAll"
+    },
+    "road-sign": {
+      "codepoint": 58186,
+      "fontFamily": "Pixelarticons",
+      "identifier": "roadSign"
+    },
+    "robot": {
+      "codepoint": 58187,
+      "fontFamily": "Pixelarticons",
+      "identifier": "robot"
+    },
+    "robot-face": {
+      "codepoint": 58188,
+      "fontFamily": "Pixelarticons",
+      "identifier": "robotFace"
+    },
+    "robot-face-happy": {
+      "codepoint": 58189,
+      "fontFamily": "Pixelarticons",
+      "identifier": "robotFaceHappy"
+    },
+    "robot-face-happy-sharp": {
+      "codepoint": 58190,
+      "fontFamily": "Pixelarticons",
+      "identifier": "robotFaceHappySharp"
+    },
+    "robot-face-sad": {
+      "codepoint": 58191,
+      "fontFamily": "Pixelarticons",
+      "identifier": "robotFaceSad"
+    },
+    "robot-face-sad-sharp": {
+      "codepoint": 58192,
+      "fontFamily": "Pixelarticons",
+      "identifier": "robotFaceSadSharp"
+    },
+    "robot-face-sharp": {
+      "codepoint": 58193,
+      "fontFamily": "Pixelarticons",
+      "identifier": "robotFaceSharp"
+    },
+    "robot-sharp": {
+      "codepoint": 58194,
+      "fontFamily": "Pixelarticons",
+      "identifier": "robotSharp"
+    },
+    "rounded-corner": {
+      "codepoint": 58195,
+      "fontFamily": "Pixelarticons",
+      "identifier": "roundedCorner"
+    },
+    "rss": {
+      "codepoint": 58196,
+      "fontFamily": "Pixelarticons",
+      "identifier": "rss"
+    },
+    "rss-circle": {
+      "codepoint": 58197,
+      "fontFamily": "Pixelarticons",
+      "identifier": "rssCircle"
+    },
+    "rss-square": {
+      "codepoint": 58198,
+      "fontFamily": "Pixelarticons",
+      "identifier": "rssSquare"
+    },
+    "rss-square-sharp": {
+      "codepoint": 58199,
+      "fontFamily": "Pixelarticons",
+      "identifier": "rssSquareSharp"
+    },
+    "save": {
+      "codepoint": 58200,
+      "fontFamily": "Pixelarticons",
+      "identifier": "save"
+    },
+    "scale": {
+      "codepoint": 58201,
+      "fontFamily": "Pixelarticons",
+      "identifier": "scale"
+    },
+    "scan-barcode": {
+      "codepoint": 58202,
+      "fontFamily": "Pixelarticons",
+      "identifier": "scanBarcode"
+    },
+    "scan-barcode-sharp": {
+      "codepoint": 58203,
+      "fontFamily": "Pixelarticons",
+      "identifier": "scanBarcodeSharp"
+    },
+    "scissors": {
+      "codepoint": 58204,
+      "fontFamily": "Pixelarticons",
+      "identifier": "scissors"
+    },
+    "scissors-sharp": {
+      "codepoint": 58205,
+      "fontFamily": "Pixelarticons",
+      "identifier": "scissorsSharp"
+    },
+    "script": {
+      "codepoint": 58206,
+      "fontFamily": "Pixelarticons",
+      "identifier": "script"
+    },
+    "script-sharp": {
+      "codepoint": 58207,
+      "fontFamily": "Pixelarticons",
+      "identifier": "scriptSharp"
+    },
+    "script-text": {
+      "codepoint": 58208,
+      "fontFamily": "Pixelarticons",
+      "identifier": "scriptText"
+    },
+    "scroll-horizontal": {
+      "codepoint": 58209,
+      "fontFamily": "Pixelarticons",
+      "identifier": "scrollHorizontal"
+    },
+    "scroll-vertical": {
+      "codepoint": 58210,
+      "fontFamily": "Pixelarticons",
+      "identifier": "scrollVertical"
+    },
+    "sd": {
+      "codepoint": 58211,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sd"
+    },
+    "search": {
+      "codepoint": 58212,
+      "fontFamily": "Pixelarticons",
+      "identifier": "search"
+    },
+    "section": {
+      "codepoint": 58213,
+      "fontFamily": "Pixelarticons",
+      "identifier": "section"
+    },
+    "section-copy": {
+      "codepoint": 58214,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sectionCopy"
+    },
+    "section-minus": {
+      "codepoint": 58215,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sectionMinus"
+    },
+    "section-plus": {
+      "codepoint": 58216,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sectionPlus"
+    },
+    "section-x": {
+      "codepoint": 58217,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sectionX"
+    },
+    "send": {
+      "codepoint": 58218,
+      "fontFamily": "Pixelarticons",
+      "identifier": "send"
+    },
+    "server": {
+      "codepoint": 58219,
+      "fontFamily": "Pixelarticons",
+      "identifier": "server"
+    },
+    "server-sharp": {
+      "codepoint": 58220,
+      "fontFamily": "Pixelarticons",
+      "identifier": "serverSharp"
+    },
+    "settings-2": {
+      "codepoint": 58221,
+      "fontFamily": "Pixelarticons",
+      "identifier": "settings2"
+    },
+    "settings-2-sharp": {
+      "codepoint": 58222,
+      "fontFamily": "Pixelarticons",
+      "identifier": "settings2Sharp"
+    },
+    "settings-cog": {
+      "codepoint": 58223,
+      "fontFamily": "Pixelarticons",
+      "identifier": "settingsCog"
+    },
+    "settings-cog-2": {
+      "codepoint": 58224,
+      "fontFamily": "Pixelarticons",
+      "identifier": "settingsCog2"
+    },
+    "shapes": {
+      "codepoint": 58225,
+      "fontFamily": "Pixelarticons",
+      "identifier": "shapes"
+    },
+    "sharp-corner": {
+      "codepoint": 58226,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sharpCorner"
+    },
+    "shield": {
+      "codepoint": 58227,
+      "fontFamily": "Pixelarticons",
+      "identifier": "shield"
+    },
+    "shield-off": {
+      "codepoint": 58228,
+      "fontFamily": "Pixelarticons",
+      "identifier": "shieldOff"
+    },
+    "shield-sharp": {
+      "codepoint": 58229,
+      "fontFamily": "Pixelarticons",
+      "identifier": "shieldSharp"
+    },
+    "ship": {
+      "codepoint": 58230,
+      "fontFamily": "Pixelarticons",
+      "identifier": "ship"
+    },
+    "shirt": {
+      "codepoint": 58231,
+      "fontFamily": "Pixelarticons",
+      "identifier": "shirt"
+    },
+    "shirt-sharp": {
+      "codepoint": 58232,
+      "fontFamily": "Pixelarticons",
+      "identifier": "shirtSharp"
+    },
+    "shopping-bag": {
+      "codepoint": 58233,
+      "fontFamily": "Pixelarticons",
+      "identifier": "shoppingBag"
+    },
+    "shopping-bag-sharp": {
+      "codepoint": 58234,
+      "fontFamily": "Pixelarticons",
+      "identifier": "shoppingBagSharp"
+    },
+    "shopping-cart": {
+      "codepoint": 58235,
+      "fontFamily": "Pixelarticons",
+      "identifier": "shoppingCart"
+    },
+    "shuffle": {
+      "codepoint": 58236,
+      "fontFamily": "Pixelarticons",
+      "identifier": "shuffle"
+    },
+    "shuffle-sharp": {
+      "codepoint": 58237,
+      "fontFamily": "Pixelarticons",
+      "identifier": "shuffleSharp"
+    },
+    "signal": {
+      "codepoint": 58238,
+      "fontFamily": "Pixelarticons",
+      "identifier": "signal"
+    },
+    "siren": {
+      "codepoint": 58239,
+      "fontFamily": "Pixelarticons",
+      "identifier": "siren"
+    },
+    "siren-off": {
+      "codepoint": 58240,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sirenOff"
+    },
+    "siren-off-sharp": {
+      "codepoint": 58241,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sirenOffSharp"
+    },
+    "siren-sharp": {
+      "codepoint": 58242,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sirenSharp"
+    },
+    "skull": {
+      "codepoint": 58243,
+      "fontFamily": "Pixelarticons",
+      "identifier": "skull"
+    },
+    "skull-sharp": {
+      "codepoint": 58244,
+      "fontFamily": "Pixelarticons",
+      "identifier": "skullSharp"
+    },
+    "sliders": {
+      "codepoint": 58245,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sliders"
+    },
+    "sliders-2": {
+      "codepoint": 58246,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sliders2"
+    },
+    "smart-home": {
+      "codepoint": 58247,
+      "fontFamily": "Pixelarticons",
+      "identifier": "smartHome"
+    },
+    "smart-home-sharp": {
+      "codepoint": 58248,
+      "fontFamily": "Pixelarticons",
+      "identifier": "smartHomeSharp"
+    },
+    "smartphone": {
+      "codepoint": 58249,
+      "fontFamily": "Pixelarticons",
+      "identifier": "smartphone"
+    },
+    "smartphone-sharp": {
+      "codepoint": 58250,
+      "fontFamily": "Pixelarticons",
+      "identifier": "smartphoneSharp"
+    },
+    "smile": {
+      "codepoint": 58251,
+      "fontFamily": "Pixelarticons",
+      "identifier": "smile"
+    },
+    "smile-sharp": {
+      "codepoint": 58252,
+      "fontFamily": "Pixelarticons",
+      "identifier": "smileSharp"
+    },
+    "sofa": {
+      "codepoint": 58253,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sofa"
+    },
+    "sofa-sharp": {
+      "codepoint": 58254,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sofaSharp"
+    },
+    "sort": {
+      "codepoint": 58255,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sort"
+    },
+    "sort-alpabetic": {
+      "codepoint": 58256,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sortAlpabetic"
+    },
+    "sort-alphabetic": {
+      "codepoint": 58257,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sortAlphabetic"
+    },
+    "sort-horizontal": {
+      "codepoint": 58258,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sortHorizontal"
+    },
+    "sort-numeric": {
+      "codepoint": 58259,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sortNumeric"
+    },
+    "sort-vertical": {
+      "codepoint": 58260,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sortVertical"
+    },
+    "sparkle": {
+      "codepoint": 58261,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sparkle"
+    },
+    "sparkles": {
+      "codepoint": 58262,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sparkles"
+    },
+    "speaker": {
+      "codepoint": 58263,
+      "fontFamily": "Pixelarticons",
+      "identifier": "speaker"
+    },
+    "speed-fast": {
+      "codepoint": 58264,
+      "fontFamily": "Pixelarticons",
+      "identifier": "speedFast"
+    },
+    "speed-medium": {
+      "codepoint": 58265,
+      "fontFamily": "Pixelarticons",
+      "identifier": "speedMedium"
+    },
+    "speed-slow": {
+      "codepoint": 58266,
+      "fontFamily": "Pixelarticons",
+      "identifier": "speedSlow"
+    },
+    "spline-cursor": {
+      "codepoint": 58267,
+      "fontFamily": "Pixelarticons",
+      "identifier": "splineCursor"
+    },
+    "spotlight": {
+      "codepoint": 58268,
+      "fontFamily": "Pixelarticons",
+      "identifier": "spotlight"
+    },
+    "spotlight-sharp": {
+      "codepoint": 58269,
+      "fontFamily": "Pixelarticons",
+      "identifier": "spotlightSharp"
+    },
+    "spray": {
+      "codepoint": 58270,
+      "fontFamily": "Pixelarticons",
+      "identifier": "spray"
+    },
+    "spray-can": {
+      "codepoint": 58271,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sprayCan"
+    },
+    "spray-image": {
+      "codepoint": 58272,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sprayImage"
+    },
+    "spray-wave": {
+      "codepoint": 58273,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sprayWave"
+    },
+    "square": {
+      "codepoint": 58274,
+      "fontFamily": "Pixelarticons",
+      "identifier": "square"
+    },
+    "square-alert": {
+      "codepoint": 58275,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareAlert"
+    },
+    "square-alert-sharp": {
+      "codepoint": 58276,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareAlertSharp"
+    },
+    "square-chevron-down": {
+      "codepoint": 58277,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareChevronDown"
+    },
+    "square-chevron-down-sharp": {
+      "codepoint": 58278,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareChevronDownSharp"
+    },
+    "square-chevron-left": {
+      "codepoint": 58279,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareChevronLeft"
+    },
+    "square-chevron-left-sharp": {
+      "codepoint": 58280,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareChevronLeftSharp"
+    },
+    "square-chevron-right": {
+      "codepoint": 58281,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareChevronRight"
+    },
+    "square-chevron-right-sharp": {
+      "codepoint": 58282,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareChevronRightSharp"
+    },
+    "square-chevron-up": {
+      "codepoint": 58283,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareChevronUp"
+    },
+    "square-chevron-up-sharp": {
+      "codepoint": 58284,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareChevronUpSharp"
+    },
+    "square-cursor": {
+      "codepoint": 58285,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareCursor"
+    },
+    "square-cursor-sharp": {
+      "codepoint": 58286,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareCursorSharp"
+    },
+    "square-dashed-cursor": {
+      "codepoint": 58287,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareDashedCursor"
+    },
+    "square-dashed-cursor-sharp": {
+      "codepoint": 58288,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareDashedCursorSharp"
+    },
+    "square-power": {
+      "codepoint": 58289,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squarePower"
+    },
+    "square-power-sharp": {
+      "codepoint": 58290,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squarePowerSharp"
+    },
+    "square-scissors": {
+      "codepoint": 58291,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareScissors"
+    },
+    "square-scissors-sharp": {
+      "codepoint": 58292,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareScissorsSharp"
+    },
+    "square-sharp": {
+      "codepoint": 58293,
+      "fontFamily": "Pixelarticons",
+      "identifier": "squareSharp"
+    },
+    "sticker": {
+      "codepoint": 58294,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sticker"
+    },
+    "sticker-sharp": {
+      "codepoint": 58295,
+      "fontFamily": "Pixelarticons",
+      "identifier": "stickerSharp"
+    },
+    "sticky-note": {
+      "codepoint": 58296,
+      "fontFamily": "Pixelarticons",
+      "identifier": "stickyNote"
+    },
+    "sticky-note-sharp": {
+      "codepoint": 58297,
+      "fontFamily": "Pixelarticons",
+      "identifier": "stickyNoteSharp"
+    },
+    "sticky-note-text": {
+      "codepoint": 58298,
+      "fontFamily": "Pixelarticons",
+      "identifier": "stickyNoteText"
+    },
+    "sticky-note-text-sharp": {
+      "codepoint": 58299,
+      "fontFamily": "Pixelarticons",
+      "identifier": "stickyNoteTextSharp"
+    },
+    "store": {
+      "codepoint": 58300,
+      "fontFamily": "Pixelarticons",
+      "identifier": "store"
+    },
+    "store-sharp": {
+      "codepoint": 58301,
+      "fontFamily": "Pixelarticons",
+      "identifier": "storeSharp"
+    },
+    "subscriptions": {
+      "codepoint": 58302,
+      "fontFamily": "Pixelarticons",
+      "identifier": "subscriptions"
+    },
+    "subscriptions-sharp": {
+      "codepoint": 58303,
+      "fontFamily": "Pixelarticons",
+      "identifier": "subscriptionsSharp"
+    },
+    "subtitles": {
+      "codepoint": 58304,
+      "fontFamily": "Pixelarticons",
+      "identifier": "subtitles"
+    },
+    "suitcase": {
+      "codepoint": 58305,
+      "fontFamily": "Pixelarticons",
+      "identifier": "suitcase"
+    },
+    "suitcase-sharp": {
+      "codepoint": 58306,
+      "fontFamily": "Pixelarticons",
+      "identifier": "suitcaseSharp"
+    },
+    "sun": {
+      "codepoint": 58307,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sun"
+    },
+    "sun-alt": {
+      "codepoint": 58308,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sunAlt"
+    },
+    "sunglasses": {
+      "codepoint": 58309,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sunglasses"
+    },
+    "sunglasses-sharp": {
+      "codepoint": 58310,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sunglassesSharp"
+    },
+    "switch": {
+      "codepoint": 58311,
+      "fontFamily": "Pixelarticons",
+      "identifier": "switch_"
+    },
+    "sword": {
+      "codepoint": 58312,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sword"
+    },
+    "sync": {
+      "codepoint": 58313,
+      "fontFamily": "Pixelarticons",
+      "identifier": "sync_"
+    },
+    "t-arrow-down": {
+      "codepoint": 58314,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tArrowDown"
+    },
+    "t-arrow-up": {
+      "codepoint": 58315,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tArrowUp"
+    },
+    "tab": {
+      "codepoint": 58316,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tab"
+    },
+    "tab-sharp": {
+      "codepoint": 58317,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tabSharp"
+    },
+    "table": {
+      "codepoint": 58318,
+      "fontFamily": "Pixelarticons",
+      "identifier": "table"
+    },
+    "tablet": {
+      "codepoint": 58319,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tablet"
+    },
+    "tablet-sharp": {
+      "codepoint": 58320,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tabletSharp"
+    },
+    "tangent": {
+      "codepoint": 58321,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tangent"
+    },
+    "target": {
+      "codepoint": 58322,
+      "fontFamily": "Pixelarticons",
+      "identifier": "target"
+    },
+    "tea": {
+      "codepoint": 58323,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tea"
+    },
+    "tea-sharp": {
+      "codepoint": 58324,
+      "fontFamily": "Pixelarticons",
+      "identifier": "teaSharp"
+    },
+    "teach": {
+      "codepoint": 58325,
+      "fontFamily": "Pixelarticons",
+      "identifier": "teach"
+    },
+    "teach-sharp": {
+      "codepoint": 58326,
+      "fontFamily": "Pixelarticons",
+      "identifier": "teachSharp"
+    },
+    "tent": {
+      "codepoint": 58327,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tent"
+    },
+    "terminal": {
+      "codepoint": 58328,
+      "fontFamily": "Pixelarticons",
+      "identifier": "terminal"
+    },
+    "terminal-sharp": {
+      "codepoint": 58329,
+      "fontFamily": "Pixelarticons",
+      "identifier": "terminalSharp"
+    },
+    "test-tube": {
+      "codepoint": 58330,
+      "fontFamily": "Pixelarticons",
+      "identifier": "testTube"
+    },
+    "test-tube-sharp": {
+      "codepoint": 58331,
+      "fontFamily": "Pixelarticons",
+      "identifier": "testTubeSharp"
+    },
+    "text-add": {
+      "codepoint": 58332,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAdd"
+    },
+    "text-align-center": {
+      "codepoint": 58333,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAlignCenter"
+    },
+    "text-align-center-box": {
+      "codepoint": 58334,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAlignCenterBox"
+    },
+    "text-align-center-box-sharp": {
+      "codepoint": 58335,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAlignCenterBoxSharp"
+    },
+    "text-align-justify": {
+      "codepoint": 58336,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAlignJustify"
+    },
+    "text-align-justify-box": {
+      "codepoint": 58337,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAlignJustifyBox"
+    },
+    "text-align-justify-box-sharp": {
+      "codepoint": 58338,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAlignJustifyBoxSharp"
+    },
+    "text-align-left": {
+      "codepoint": 58339,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAlignLeft"
+    },
+    "text-align-left-box": {
+      "codepoint": 58340,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAlignLeftBox"
+    },
+    "text-align-left-box-sharp": {
+      "codepoint": 58341,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAlignLeftBoxSharp"
+    },
+    "text-align-right": {
+      "codepoint": 58342,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAlignRight"
+    },
+    "text-align-right-box": {
+      "codepoint": 58343,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAlignRightBox"
+    },
+    "text-align-right-box-sharp": {
+      "codepoint": 58344,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textAlignRightBoxSharp"
+    },
+    "text-colums": {
+      "codepoint": 58345,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textColums"
+    },
+    "text-cursor": {
+      "codepoint": 58346,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textCursor"
+    },
+    "text-cursor-input": {
+      "codepoint": 58347,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textCursorInput"
+    },
+    "text-cursor-input-sharp": {
+      "codepoint": 58348,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textCursorInputSharp"
+    },
+    "text-search": {
+      "codepoint": 58349,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textSearch"
+    },
+    "text-start-a": {
+      "codepoint": 58350,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textStartA"
+    },
+    "text-start-a-sharp": {
+      "codepoint": 58351,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textStartASharp"
+    },
+    "text-start-t": {
+      "codepoint": 58352,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textStartT"
+    },
+    "text-wrap": {
+      "codepoint": 58353,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textWrap"
+    },
+    "text-wrap-sharp": {
+      "codepoint": 58354,
+      "fontFamily": "Pixelarticons",
+      "identifier": "textWrapSharp"
+    },
+    "thermometer": {
+      "codepoint": 58355,
+      "fontFamily": "Pixelarticons",
+      "identifier": "thermometer"
+    },
+    "thermometer-sharp": {
+      "codepoint": 58356,
+      "fontFamily": "Pixelarticons",
+      "identifier": "thermometerSharp"
+    },
+    "thumbs-down": {
+      "codepoint": 58357,
+      "fontFamily": "Pixelarticons",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-down-sharp": {
+      "codepoint": 58358,
+      "fontFamily": "Pixelarticons",
+      "identifier": "thumbsDownSharp"
+    },
+    "thumbs-up": {
+      "codepoint": 58359,
+      "fontFamily": "Pixelarticons",
+      "identifier": "thumbsUp"
+    },
+    "thumbs-up-sharp": {
+      "codepoint": 58360,
+      "fontFamily": "Pixelarticons",
+      "identifier": "thumbsUpSharp"
+    },
+    "timeline": {
+      "codepoint": 58361,
+      "fontFamily": "Pixelarticons",
+      "identifier": "timeline"
+    },
+    "toggle-left": {
+      "codepoint": 58362,
+      "fontFamily": "Pixelarticons",
+      "identifier": "toggleLeft"
+    },
+    "toggle-right": {
+      "codepoint": 58363,
+      "fontFamily": "Pixelarticons",
+      "identifier": "toggleRight"
+    },
+    "toke-circle": {
+      "codepoint": 58364,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tokeCircle"
+    },
+    "toke-square": {
+      "codepoint": 58365,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tokeSquare"
+    },
+    "toke-square-sharp": {
+      "codepoint": 58366,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tokeSquareSharp"
+    },
+    "tool-case": {
+      "codepoint": 58367,
+      "fontFamily": "Pixelarticons",
+      "identifier": "toolCase"
+    },
+    "tool-case-sharp": {
+      "codepoint": 58368,
+      "fontFamily": "Pixelarticons",
+      "identifier": "toolCaseSharp"
+    },
+    "tournament": {
+      "codepoint": 58369,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tournament"
+    },
+    "tournament-sharp": {
+      "codepoint": 58370,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tournamentSharp"
+    },
+    "track-changes": {
+      "codepoint": 58371,
+      "fontFamily": "Pixelarticons",
+      "identifier": "trackChanges"
+    },
+    "trash": {
+      "codepoint": 58372,
+      "fontFamily": "Pixelarticons",
+      "identifier": "trash"
+    },
+    "trash-alt": {
+      "codepoint": 58373,
+      "fontFamily": "Pixelarticons",
+      "identifier": "trashAlt"
+    },
+    "tree": {
+      "codepoint": 58374,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tree"
+    },
+    "tree-pine": {
+      "codepoint": 58375,
+      "fontFamily": "Pixelarticons",
+      "identifier": "treePine"
+    },
+    "trending": {
+      "codepoint": 58376,
+      "fontFamily": "Pixelarticons",
+      "identifier": "trending"
+    },
+    "trending-down": {
+      "codepoint": 58377,
+      "fontFamily": "Pixelarticons",
+      "identifier": "trendingDown"
+    },
+    "trending-up": {
+      "codepoint": 58378,
+      "fontFamily": "Pixelarticons",
+      "identifier": "trendingUp"
+    },
+    "trophy": {
+      "codepoint": 58379,
+      "fontFamily": "Pixelarticons",
+      "identifier": "trophy"
+    },
+    "trophy-sharp": {
+      "codepoint": 58380,
+      "fontFamily": "Pixelarticons",
+      "identifier": "trophySharp"
+    },
+    "truck": {
+      "codepoint": 58381,
+      "fontFamily": "Pixelarticons",
+      "identifier": "truck"
+    },
+    "truck-sharp": {
+      "codepoint": 58382,
+      "fontFamily": "Pixelarticons",
+      "identifier": "truckSharp"
+    },
+    "tv": {
+      "codepoint": 58383,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tv"
+    },
+    "tv-sharp": {
+      "codepoint": 58384,
+      "fontFamily": "Pixelarticons",
+      "identifier": "tvSharp"
+    },
+    "undo": {
+      "codepoint": 58385,
+      "fontFamily": "Pixelarticons",
+      "identifier": "undo"
+    },
+    "undo-sharp": {
+      "codepoint": 58386,
+      "fontFamily": "Pixelarticons",
+      "identifier": "undoSharp"
+    },
+    "ungroup": {
+      "codepoint": 58387,
+      "fontFamily": "Pixelarticons",
+      "identifier": "ungroup"
+    },
+    "university": {
+      "codepoint": 58388,
+      "fontFamily": "Pixelarticons",
+      "identifier": "university"
+    },
+    "university-sharp": {
+      "codepoint": 58389,
+      "fontFamily": "Pixelarticons",
+      "identifier": "universitySharp"
+    },
+    "unlink": {
+      "codepoint": 58390,
+      "fontFamily": "Pixelarticons",
+      "identifier": "unlink"
+    },
+    "unlink-sharp": {
+      "codepoint": 58391,
+      "fontFamily": "Pixelarticons",
+      "identifier": "unlinkSharp"
+    },
+    "unlock": {
+      "codepoint": 58392,
+      "fontFamily": "Pixelarticons",
+      "identifier": "unlock"
+    },
+    "unlock-sharp": {
+      "codepoint": 58393,
+      "fontFamily": "Pixelarticons",
+      "identifier": "unlockSharp"
+    },
+    "upload": {
+      "codepoint": 58394,
+      "fontFamily": "Pixelarticons",
+      "identifier": "upload"
+    },
+    "upload-sharp": {
+      "codepoint": 58395,
+      "fontFamily": "Pixelarticons",
+      "identifier": "uploadSharp"
+    },
+    "user": {
+      "codepoint": 58396,
+      "fontFamily": "Pixelarticons",
+      "identifier": "user"
+    },
+    "user-minus": {
+      "codepoint": 58397,
+      "fontFamily": "Pixelarticons",
+      "identifier": "userMinus"
+    },
+    "user-minus-sharp": {
+      "codepoint": 58398,
+      "fontFamily": "Pixelarticons",
+      "identifier": "userMinusSharp"
+    },
+    "user-plus": {
+      "codepoint": 58399,
+      "fontFamily": "Pixelarticons",
+      "identifier": "userPlus"
+    },
+    "user-plus-sharp": {
+      "codepoint": 58400,
+      "fontFamily": "Pixelarticons",
+      "identifier": "userPlusSharp"
+    },
+    "user-sharp": {
+      "codepoint": 58401,
+      "fontFamily": "Pixelarticons",
+      "identifier": "userSharp"
+    },
+    "user-x": {
+      "codepoint": 58402,
+      "fontFamily": "Pixelarticons",
+      "identifier": "userX"
+    },
+    "user-x-sharp": {
+      "codepoint": 58403,
+      "fontFamily": "Pixelarticons",
+      "identifier": "userXSharp"
+    },
+    "users": {
+      "codepoint": 58404,
+      "fontFamily": "Pixelarticons",
+      "identifier": "users"
+    },
+    "users-sharp": {
+      "codepoint": 58405,
+      "fontFamily": "Pixelarticons",
+      "identifier": "usersSharp"
+    },
+    "utility-pole": {
+      "codepoint": 58406,
+      "fontFamily": "Pixelarticons",
+      "identifier": "utilityPole"
+    },
+    "vibrate": {
+      "codepoint": 58407,
+      "fontFamily": "Pixelarticons",
+      "identifier": "vibrate"
+    },
+    "vibrate-sharp": {
+      "codepoint": 58408,
+      "fontFamily": "Pixelarticons",
+      "identifier": "vibrateSharp"
+    },
+    "video": {
+      "codepoint": 58409,
+      "fontFamily": "Pixelarticons",
+      "identifier": "video"
+    },
+    "video-off": {
+      "codepoint": 58410,
+      "fontFamily": "Pixelarticons",
+      "identifier": "videoOff"
+    },
+    "video-sharp": {
+      "codepoint": 58411,
+      "fontFamily": "Pixelarticons",
+      "identifier": "videoSharp"
+    },
+    "view-col": {
+      "codepoint": 58412,
+      "fontFamily": "Pixelarticons",
+      "identifier": "viewCol"
+    },
+    "view-list": {
+      "codepoint": 58413,
+      "fontFamily": "Pixelarticons",
+      "identifier": "viewList"
+    },
+    "viewport-narrow": {
+      "codepoint": 58414,
+      "fontFamily": "Pixelarticons",
+      "identifier": "viewportNarrow"
+    },
+    "viewport-wide": {
+      "codepoint": 58415,
+      "fontFamily": "Pixelarticons",
+      "identifier": "viewportWide"
+    },
+    "visible": {
+      "codepoint": 58416,
+      "fontFamily": "Pixelarticons",
+      "identifier": "visible"
+    },
+    "volume": {
+      "codepoint": 58417,
+      "fontFamily": "Pixelarticons",
+      "identifier": "volume"
+    },
+    "volume-1": {
+      "codepoint": 58418,
+      "fontFamily": "Pixelarticons",
+      "identifier": "volume1"
+    },
+    "volume-2": {
+      "codepoint": 58419,
+      "fontFamily": "Pixelarticons",
+      "identifier": "volume2"
+    },
+    "volume-3": {
+      "codepoint": 58420,
+      "fontFamily": "Pixelarticons",
+      "identifier": "volume3"
+    },
+    "volume-minus": {
+      "codepoint": 58421,
+      "fontFamily": "Pixelarticons",
+      "identifier": "volumeMinus"
+    },
+    "volume-plus": {
+      "codepoint": 58422,
+      "fontFamily": "Pixelarticons",
+      "identifier": "volumePlus"
+    },
+    "volume-vibrate": {
+      "codepoint": 58423,
+      "fontFamily": "Pixelarticons",
+      "identifier": "volumeVibrate"
+    },
+    "volume-x": {
+      "codepoint": 58424,
+      "fontFamily": "Pixelarticons",
+      "identifier": "volumeX"
+    },
+    "wall": {
+      "codepoint": 58425,
+      "fontFamily": "Pixelarticons",
+      "identifier": "wall"
+    },
+    "wall-sharp": {
+      "codepoint": 58426,
+      "fontFamily": "Pixelarticons",
+      "identifier": "wallSharp"
+    },
+    "wallet": {
+      "codepoint": 58427,
+      "fontFamily": "Pixelarticons",
+      "identifier": "wallet"
+    },
+    "wallet-sharp": {
+      "codepoint": 58428,
+      "fontFamily": "Pixelarticons",
+      "identifier": "walletSharp"
+    },
+    "warehouse": {
+      "codepoint": 58429,
+      "fontFamily": "Pixelarticons",
+      "identifier": "warehouse"
+    },
+    "warning-box": {
+      "codepoint": 58430,
+      "fontFamily": "Pixelarticons",
+      "identifier": "warningBox"
+    },
+    "warning-diamond": {
+      "codepoint": 58431,
+      "fontFamily": "Pixelarticons",
+      "identifier": "warningDiamond"
+    },
+    "waves": {
+      "codepoint": 58432,
+      "fontFamily": "Pixelarticons",
+      "identifier": "waves"
+    },
+    "waves-arrow-down": {
+      "codepoint": 58433,
+      "fontFamily": "Pixelarticons",
+      "identifier": "wavesArrowDown"
+    },
+    "waves-arrow-up": {
+      "codepoint": 58434,
+      "fontFamily": "Pixelarticons",
+      "identifier": "wavesArrowUp"
+    },
+    "wifi": {
+      "codepoint": 58435,
+      "fontFamily": "Pixelarticons",
+      "identifier": "wifi"
+    },
+    "wind": {
+      "codepoint": 58436,
+      "fontFamily": "Pixelarticons",
+      "identifier": "wind"
+    },
+    "window-frame": {
+      "codepoint": 58437,
+      "fontFamily": "Pixelarticons",
+      "identifier": "windowFrame"
+    },
+    "window-frame-sharp": {
+      "codepoint": 58438,
+      "fontFamily": "Pixelarticons",
+      "identifier": "windowFrameSharp"
+    },
+    "zap": {
+      "codepoint": 58439,
+      "fontFamily": "Pixelarticons",
+      "identifier": "zap"
+    },
+    "zap-off": {
+      "codepoint": 58440,
+      "fontFamily": "Pixelarticons",
+      "identifier": "zapOff"
+    },
+    "zoom-in": {
+      "codepoint": 58441,
+      "fontFamily": "Pixelarticons",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 58442,
+      "fontFamily": "Pixelarticons",
+      "identifier": "zoomOut"
+    }
+  }
+}

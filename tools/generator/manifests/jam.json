@@ -1,0 +1,4730 @@
+{
+  "schemaVersion": 1,
+  "prefix": "jam",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_jam",
+  "info": {
+    "name": "Jam Icons",
+    "author": {
+      "name": "Michael Amprimo",
+      "url": "https://github.com/michaelampr"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/cyberalien/jam-backup/blob/main/LICENSE"
+    },
+    "total": 940
+  },
+  "fonts": [
+    {
+      "family": "Jam",
+      "nextCodepoint": 58284,
+      "iconCount": 940
+    }
+  ],
+  "icons": {
+    "500px": {
+      "codepoint": 57344,
+      "fontFamily": "Jam",
+      "identifier": "n500px"
+    },
+    "accessibility": {
+      "codepoint": 57345,
+      "fontFamily": "Jam",
+      "identifier": "accessibility"
+    },
+    "activity": {
+      "codepoint": 57346,
+      "fontFamily": "Jam",
+      "identifier": "activity"
+    },
+    "airbnb": {
+      "codepoint": 57347,
+      "fontFamily": "Jam",
+      "identifier": "airbnb"
+    },
+    "alarm-clock": {
+      "codepoint": 57348,
+      "fontFamily": "Jam",
+      "identifier": "alarmClock"
+    },
+    "alarm-clock-f": {
+      "codepoint": 57349,
+      "fontFamily": "Jam",
+      "identifier": "alarmClockF"
+    },
+    "alert": {
+      "codepoint": 57350,
+      "fontFamily": "Jam",
+      "identifier": "alert"
+    },
+    "alert-f": {
+      "codepoint": 57351,
+      "fontFamily": "Jam",
+      "identifier": "alertF"
+    },
+    "alien": {
+      "codepoint": 57352,
+      "fontFamily": "Jam",
+      "identifier": "alien"
+    },
+    "alien-f": {
+      "codepoint": 57353,
+      "fontFamily": "Jam",
+      "identifier": "alienF"
+    },
+    "align-center": {
+      "codepoint": 57354,
+      "fontFamily": "Jam",
+      "identifier": "alignCenter"
+    },
+    "align-justify": {
+      "codepoint": 57355,
+      "fontFamily": "Jam",
+      "identifier": "alignJustify"
+    },
+    "align-left": {
+      "codepoint": 57356,
+      "fontFamily": "Jam",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57357,
+      "fontFamily": "Jam",
+      "identifier": "alignRight"
+    },
+    "amazon": {
+      "codepoint": 57358,
+      "fontFamily": "Jam",
+      "identifier": "amazon"
+    },
+    "anchor": {
+      "codepoint": 57359,
+      "fontFamily": "Jam",
+      "identifier": "anchor"
+    },
+    "android": {
+      "codepoint": 57360,
+      "fontFamily": "Jam",
+      "identifier": "android"
+    },
+    "android-circle": {
+      "codepoint": 57361,
+      "fontFamily": "Jam",
+      "identifier": "androidCircle"
+    },
+    "android-square": {
+      "codepoint": 57362,
+      "fontFamily": "Jam",
+      "identifier": "androidSquare"
+    },
+    "aperture": {
+      "codepoint": 57363,
+      "fontFamily": "Jam",
+      "identifier": "aperture"
+    },
+    "apple": {
+      "codepoint": 57364,
+      "fontFamily": "Jam",
+      "identifier": "apple"
+    },
+    "apple-circle": {
+      "codepoint": 57365,
+      "fontFamily": "Jam",
+      "identifier": "appleCircle"
+    },
+    "apple-square": {
+      "codepoint": 57366,
+      "fontFamily": "Jam",
+      "identifier": "appleSquare"
+    },
+    "archive": {
+      "codepoint": 57367,
+      "fontFamily": "Jam",
+      "identifier": "archive"
+    },
+    "archive-f": {
+      "codepoint": 57368,
+      "fontFamily": "Jam",
+      "identifier": "archiveF"
+    },
+    "arrow-circle-down": {
+      "codepoint": 57369,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleDown"
+    },
+    "arrow-circle-down-f": {
+      "codepoint": 57370,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleDownF"
+    },
+    "arrow-circle-down-left": {
+      "codepoint": 57371,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleDownLeft"
+    },
+    "arrow-circle-down-left-f": {
+      "codepoint": 57372,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleDownLeftF"
+    },
+    "arrow-circle-down-right": {
+      "codepoint": 57373,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleDownRight"
+    },
+    "arrow-circle-down-right-f": {
+      "codepoint": 57374,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleDownRightF"
+    },
+    "arrow-circle-left": {
+      "codepoint": 57375,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleLeft"
+    },
+    "arrow-circle-left-f": {
+      "codepoint": 57376,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleLeftF"
+    },
+    "arrow-circle-right": {
+      "codepoint": 57377,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleRight"
+    },
+    "arrow-circle-right-f": {
+      "codepoint": 57378,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleRightF"
+    },
+    "arrow-circle-up": {
+      "codepoint": 57379,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleUp"
+    },
+    "arrow-circle-up-f": {
+      "codepoint": 57380,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleUpF"
+    },
+    "arrow-circle-up-left": {
+      "codepoint": 57381,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleUpLeft"
+    },
+    "arrow-circle-up-left-f": {
+      "codepoint": 57382,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleUpLeftF"
+    },
+    "arrow-circle-up-right": {
+      "codepoint": 57383,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleUpRight"
+    },
+    "arrow-circle-up-right-f": {
+      "codepoint": 57384,
+      "fontFamily": "Jam",
+      "identifier": "arrowCircleUpRightF"
+    },
+    "arrow-down": {
+      "codepoint": 57385,
+      "fontFamily": "Jam",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-left": {
+      "codepoint": 57386,
+      "fontFamily": "Jam",
+      "identifier": "arrowDownLeft"
+    },
+    "arrow-down-right": {
+      "codepoint": 57387,
+      "fontFamily": "Jam",
+      "identifier": "arrowDownRight"
+    },
+    "arrow-left": {
+      "codepoint": 57388,
+      "fontFamily": "Jam",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57389,
+      "fontFamily": "Jam",
+      "identifier": "arrowRight"
+    },
+    "arrow-square-down": {
+      "codepoint": 57390,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareDown"
+    },
+    "arrow-square-down-f": {
+      "codepoint": 57391,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareDownF"
+    },
+    "arrow-square-down-left": {
+      "codepoint": 57392,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareDownLeft"
+    },
+    "arrow-square-down-left-f": {
+      "codepoint": 57393,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareDownLeftF"
+    },
+    "arrow-square-down-right": {
+      "codepoint": 57394,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareDownRight"
+    },
+    "arrow-square-down-right-f": {
+      "codepoint": 57395,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareDownRightF"
+    },
+    "arrow-square-left": {
+      "codepoint": 57396,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareLeft"
+    },
+    "arrow-square-left-f": {
+      "codepoint": 57397,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareLeftF"
+    },
+    "arrow-square-right": {
+      "codepoint": 57398,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareRight"
+    },
+    "arrow-square-right-f": {
+      "codepoint": 57399,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareRightF"
+    },
+    "arrow-square-up": {
+      "codepoint": 57400,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareUp"
+    },
+    "arrow-square-up-f": {
+      "codepoint": 57401,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareUpF"
+    },
+    "arrow-square-up-left": {
+      "codepoint": 57402,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareUpLeft"
+    },
+    "arrow-square-up-left-f": {
+      "codepoint": 57403,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareUpLeftF"
+    },
+    "arrow-square-up-right": {
+      "codepoint": 57404,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareUpRight"
+    },
+    "arrow-square-up-right-f": {
+      "codepoint": 57405,
+      "fontFamily": "Jam",
+      "identifier": "arrowSquareUpRightF"
+    },
+    "arrow-up": {
+      "codepoint": 57406,
+      "fontFamily": "Jam",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-left": {
+      "codepoint": 57407,
+      "fontFamily": "Jam",
+      "identifier": "arrowUpLeft"
+    },
+    "arrow-up-right": {
+      "codepoint": 57408,
+      "fontFamily": "Jam",
+      "identifier": "arrowUpRight"
+    },
+    "arrows-corners": {
+      "codepoint": 57409,
+      "fontFamily": "Jam",
+      "identifier": "arrowsCorners"
+    },
+    "arrows-fullscreen": {
+      "codepoint": 57410,
+      "fontFamily": "Jam",
+      "identifier": "arrowsFullscreen"
+    },
+    "arrows-h": {
+      "codepoint": 57411,
+      "fontFamily": "Jam",
+      "identifier": "arrowsH"
+    },
+    "arrows-v": {
+      "codepoint": 57412,
+      "fontFamily": "Jam",
+      "identifier": "arrowsV"
+    },
+    "attachment": {
+      "codepoint": 57413,
+      "fontFamily": "Jam",
+      "identifier": "attachment"
+    },
+    "background-color": {
+      "codepoint": 57414,
+      "fontFamily": "Jam",
+      "identifier": "backgroundColor"
+    },
+    "backpack": {
+      "codepoint": 57415,
+      "fontFamily": "Jam",
+      "identifier": "backpack"
+    },
+    "backpack-f": {
+      "codepoint": 57416,
+      "fontFamily": "Jam",
+      "identifier": "backpackF"
+    },
+    "backward": {
+      "codepoint": 57417,
+      "fontFamily": "Jam",
+      "identifier": "backward"
+    },
+    "backward-circle": {
+      "codepoint": 57418,
+      "fontFamily": "Jam",
+      "identifier": "backwardCircle"
+    },
+    "backward-circle-f": {
+      "codepoint": 57419,
+      "fontFamily": "Jam",
+      "identifier": "backwardCircleF"
+    },
+    "backward-square": {
+      "codepoint": 57420,
+      "fontFamily": "Jam",
+      "identifier": "backwardSquare"
+    },
+    "backward-square-f": {
+      "codepoint": 57421,
+      "fontFamily": "Jam",
+      "identifier": "backwardSquareF"
+    },
+    "baidu": {
+      "codepoint": 57422,
+      "fontFamily": "Jam",
+      "identifier": "baidu"
+    },
+    "baidu-circle": {
+      "codepoint": 57423,
+      "fontFamily": "Jam",
+      "identifier": "baiduCircle"
+    },
+    "baidu-square": {
+      "codepoint": 57424,
+      "fontFamily": "Jam",
+      "identifier": "baiduSquare"
+    },
+    "bandage": {
+      "codepoint": 57425,
+      "fontFamily": "Jam",
+      "identifier": "bandage"
+    },
+    "bandage-f": {
+      "codepoint": 57426,
+      "fontFamily": "Jam",
+      "identifier": "bandageF"
+    },
+    "bar-chart": {
+      "codepoint": 57427,
+      "fontFamily": "Jam",
+      "identifier": "barChart"
+    },
+    "baseball": {
+      "codepoint": 57428,
+      "fontFamily": "Jam",
+      "identifier": "baseball"
+    },
+    "basketball": {
+      "codepoint": 57429,
+      "fontFamily": "Jam",
+      "identifier": "basketball"
+    },
+    "bathtub": {
+      "codepoint": 57430,
+      "fontFamily": "Jam",
+      "identifier": "bathtub"
+    },
+    "bathtub-f": {
+      "codepoint": 57431,
+      "fontFamily": "Jam",
+      "identifier": "bathtubF"
+    },
+    "battery": {
+      "codepoint": 57432,
+      "fontFamily": "Jam",
+      "identifier": "battery"
+    },
+    "battery-charging": {
+      "codepoint": 57433,
+      "fontFamily": "Jam",
+      "identifier": "batteryCharging"
+    },
+    "battery-charging-f": {
+      "codepoint": 57434,
+      "fontFamily": "Jam",
+      "identifier": "batteryChargingF"
+    },
+    "battery-f": {
+      "codepoint": 57435,
+      "fontFamily": "Jam",
+      "identifier": "batteryF"
+    },
+    "battery-half": {
+      "codepoint": 57436,
+      "fontFamily": "Jam",
+      "identifier": "batteryHalf"
+    },
+    "battery-half-f": {
+      "codepoint": 57437,
+      "fontFamily": "Jam",
+      "identifier": "batteryHalfF"
+    },
+    "battery-one-quarter": {
+      "codepoint": 57438,
+      "fontFamily": "Jam",
+      "identifier": "batteryOneQuarter"
+    },
+    "battery-one-quarter-f": {
+      "codepoint": 57439,
+      "fontFamily": "Jam",
+      "identifier": "batteryOneQuarterF"
+    },
+    "battery-three-quarters": {
+      "codepoint": 57440,
+      "fontFamily": "Jam",
+      "identifier": "batteryThreeQuarters"
+    },
+    "battery-three-quarters-f": {
+      "codepoint": 57441,
+      "fontFamily": "Jam",
+      "identifier": "batteryThreeQuartersF"
+    },
+    "beatport": {
+      "codepoint": 57442,
+      "fontFamily": "Jam",
+      "identifier": "beatport"
+    },
+    "beatport-circle": {
+      "codepoint": 57443,
+      "fontFamily": "Jam",
+      "identifier": "beatportCircle"
+    },
+    "beatport-square": {
+      "codepoint": 57444,
+      "fontFamily": "Jam",
+      "identifier": "beatportSquare"
+    },
+    "beer": {
+      "codepoint": 57445,
+      "fontFamily": "Jam",
+      "identifier": "beer"
+    },
+    "beer-f": {
+      "codepoint": 57446,
+      "fontFamily": "Jam",
+      "identifier": "beerF"
+    },
+    "behance": {
+      "codepoint": 57447,
+      "fontFamily": "Jam",
+      "identifier": "behance"
+    },
+    "behance-circle": {
+      "codepoint": 57448,
+      "fontFamily": "Jam",
+      "identifier": "behanceCircle"
+    },
+    "behance-square": {
+      "codepoint": 57449,
+      "fontFamily": "Jam",
+      "identifier": "behanceSquare"
+    },
+    "bell": {
+      "codepoint": 57450,
+      "fontFamily": "Jam",
+      "identifier": "bell"
+    },
+    "bell-f": {
+      "codepoint": 57451,
+      "fontFamily": "Jam",
+      "identifier": "bellF"
+    },
+    "bell-off": {
+      "codepoint": 57452,
+      "fontFamily": "Jam",
+      "identifier": "bellOff"
+    },
+    "bell-off-f": {
+      "codepoint": 57453,
+      "fontFamily": "Jam",
+      "identifier": "bellOffF"
+    },
+    "bing": {
+      "codepoint": 57454,
+      "fontFamily": "Jam",
+      "identifier": "bing"
+    },
+    "bing-circle": {
+      "codepoint": 57455,
+      "fontFamily": "Jam",
+      "identifier": "bingCircle"
+    },
+    "bing-square": {
+      "codepoint": 57456,
+      "fontFamily": "Jam",
+      "identifier": "bingSquare"
+    },
+    "birthday-cake": {
+      "codepoint": 57457,
+      "fontFamily": "Jam",
+      "identifier": "birthdayCake"
+    },
+    "birthday-cake-f": {
+      "codepoint": 57458,
+      "fontFamily": "Jam",
+      "identifier": "birthdayCakeF"
+    },
+    "blogger": {
+      "codepoint": 57459,
+      "fontFamily": "Jam",
+      "identifier": "blogger"
+    },
+    "blogger-circle": {
+      "codepoint": 57460,
+      "fontFamily": "Jam",
+      "identifier": "bloggerCircle"
+    },
+    "blogger-square": {
+      "codepoint": 57461,
+      "fontFamily": "Jam",
+      "identifier": "bloggerSquare"
+    },
+    "bluetooth": {
+      "codepoint": 57462,
+      "fontFamily": "Jam",
+      "identifier": "bluetooth"
+    },
+    "bold": {
+      "codepoint": 57463,
+      "fontFamily": "Jam",
+      "identifier": "bold"
+    },
+    "book": {
+      "codepoint": 57464,
+      "fontFamily": "Jam",
+      "identifier": "book"
+    },
+    "book-f": {
+      "codepoint": 57465,
+      "fontFamily": "Jam",
+      "identifier": "bookF"
+    },
+    "bookmark": {
+      "codepoint": 57466,
+      "fontFamily": "Jam",
+      "identifier": "bookmark"
+    },
+    "bookmark-f": {
+      "codepoint": 57467,
+      "fontFamily": "Jam",
+      "identifier": "bookmarkF"
+    },
+    "bookmark-minus": {
+      "codepoint": 57468,
+      "fontFamily": "Jam",
+      "identifier": "bookmarkMinus"
+    },
+    "bookmark-minus-f": {
+      "codepoint": 57469,
+      "fontFamily": "Jam",
+      "identifier": "bookmarkMinusF"
+    },
+    "bookmark-plus": {
+      "codepoint": 57470,
+      "fontFamily": "Jam",
+      "identifier": "bookmarkPlus"
+    },
+    "bookmark-plus-f": {
+      "codepoint": 57471,
+      "fontFamily": "Jam",
+      "identifier": "bookmarkPlusF"
+    },
+    "bookmark-remove": {
+      "codepoint": 57472,
+      "fontFamily": "Jam",
+      "identifier": "bookmarkRemove"
+    },
+    "bookmark-remove-f": {
+      "codepoint": 57473,
+      "fontFamily": "Jam",
+      "identifier": "bookmarkRemoveF"
+    },
+    "bottle": {
+      "codepoint": 57474,
+      "fontFamily": "Jam",
+      "identifier": "bottle"
+    },
+    "bottle-f": {
+      "codepoint": 57475,
+      "fontFamily": "Jam",
+      "identifier": "bottleF"
+    },
+    "box": {
+      "codepoint": 57476,
+      "fontFamily": "Jam",
+      "identifier": "box"
+    },
+    "box-f": {
+      "codepoint": 57477,
+      "fontFamily": "Jam",
+      "identifier": "boxF"
+    },
+    "branch": {
+      "codepoint": 57478,
+      "fontFamily": "Jam",
+      "identifier": "branch"
+    },
+    "branch-f": {
+      "codepoint": 57479,
+      "fontFamily": "Jam",
+      "identifier": "branchF"
+    },
+    "brightness": {
+      "codepoint": 57480,
+      "fontFamily": "Jam",
+      "identifier": "brightness"
+    },
+    "brightness-down": {
+      "codepoint": 57481,
+      "fontFamily": "Jam",
+      "identifier": "brightnessDown"
+    },
+    "brightness-down-f": {
+      "codepoint": 57482,
+      "fontFamily": "Jam",
+      "identifier": "brightnessDownF"
+    },
+    "brightness-up": {
+      "codepoint": 57483,
+      "fontFamily": "Jam",
+      "identifier": "brightnessUp"
+    },
+    "brightness-up-f": {
+      "codepoint": 57484,
+      "fontFamily": "Jam",
+      "identifier": "brightnessUpF"
+    },
+    "browse": {
+      "codepoint": 57485,
+      "fontFamily": "Jam",
+      "identifier": "browse"
+    },
+    "brush": {
+      "codepoint": 57486,
+      "fontFamily": "Jam",
+      "identifier": "brush"
+    },
+    "brush-f": {
+      "codepoint": 57487,
+      "fontFamily": "Jam",
+      "identifier": "brushF"
+    },
+    "bug": {
+      "codepoint": 57488,
+      "fontFamily": "Jam",
+      "identifier": "bug"
+    },
+    "bug-f": {
+      "codepoint": 57489,
+      "fontFamily": "Jam",
+      "identifier": "bugF"
+    },
+    "building": {
+      "codepoint": 57490,
+      "fontFamily": "Jam",
+      "identifier": "building"
+    },
+    "building-f": {
+      "codepoint": 57491,
+      "fontFamily": "Jam",
+      "identifier": "buildingF"
+    },
+    "bus": {
+      "codepoint": 57492,
+      "fontFamily": "Jam",
+      "identifier": "bus"
+    },
+    "bus-f": {
+      "codepoint": 57493,
+      "fontFamily": "Jam",
+      "identifier": "busF"
+    },
+    "cactus": {
+      "codepoint": 57494,
+      "fontFamily": "Jam",
+      "identifier": "cactus"
+    },
+    "cactus-f": {
+      "codepoint": 57495,
+      "fontFamily": "Jam",
+      "identifier": "cactusF"
+    },
+    "calculator": {
+      "codepoint": 57496,
+      "fontFamily": "Jam",
+      "identifier": "calculator"
+    },
+    "calendar": {
+      "codepoint": 57497,
+      "fontFamily": "Jam",
+      "identifier": "calendar"
+    },
+    "calendar-alt": {
+      "codepoint": 57498,
+      "fontFamily": "Jam",
+      "identifier": "calendarAlt"
+    },
+    "calendar-alt-f": {
+      "codepoint": 57499,
+      "fontFamily": "Jam",
+      "identifier": "calendarAltF"
+    },
+    "calendar-f": {
+      "codepoint": 57500,
+      "fontFamily": "Jam",
+      "identifier": "calendarF"
+    },
+    "camera": {
+      "codepoint": 57501,
+      "fontFamily": "Jam",
+      "identifier": "camera"
+    },
+    "camera-alt": {
+      "codepoint": 57502,
+      "fontFamily": "Jam",
+      "identifier": "cameraAlt"
+    },
+    "camera-alt-f": {
+      "codepoint": 57503,
+      "fontFamily": "Jam",
+      "identifier": "cameraAltF"
+    },
+    "camera-f": {
+      "codepoint": 57504,
+      "fontFamily": "Jam",
+      "identifier": "cameraF"
+    },
+    "candle": {
+      "codepoint": 57505,
+      "fontFamily": "Jam",
+      "identifier": "candle"
+    },
+    "candle-f": {
+      "codepoint": 57506,
+      "fontFamily": "Jam",
+      "identifier": "candleF"
+    },
+    "capsule": {
+      "codepoint": 57507,
+      "fontFamily": "Jam",
+      "identifier": "capsule"
+    },
+    "capsule-f": {
+      "codepoint": 57508,
+      "fontFamily": "Jam",
+      "identifier": "capsuleF"
+    },
+    "car": {
+      "codepoint": 57509,
+      "fontFamily": "Jam",
+      "identifier": "car"
+    },
+    "car-f": {
+      "codepoint": 57510,
+      "fontFamily": "Jam",
+      "identifier": "carF"
+    },
+    "castle": {
+      "codepoint": 57511,
+      "fontFamily": "Jam",
+      "identifier": "castle"
+    },
+    "castle-f": {
+      "codepoint": 57512,
+      "fontFamily": "Jam",
+      "identifier": "castleF"
+    },
+    "character": {
+      "codepoint": 57513,
+      "fontFamily": "Jam",
+      "identifier": "character"
+    },
+    "check": {
+      "codepoint": 57514,
+      "fontFamily": "Jam",
+      "identifier": "check"
+    },
+    "chevron-circle-down": {
+      "codepoint": 57515,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleDown"
+    },
+    "chevron-circle-down-f": {
+      "codepoint": 57516,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleDownF"
+    },
+    "chevron-circle-down-left": {
+      "codepoint": 57517,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleDownLeft"
+    },
+    "chevron-circle-down-left-f": {
+      "codepoint": 57518,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleDownLeftF"
+    },
+    "chevron-circle-down-right": {
+      "codepoint": 57519,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleDownRight"
+    },
+    "chevron-circle-down-right-f": {
+      "codepoint": 57520,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleDownRightF"
+    },
+    "chevron-circle-left": {
+      "codepoint": 57521,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleLeft"
+    },
+    "chevron-circle-left-f": {
+      "codepoint": 57522,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleLeftF"
+    },
+    "chevron-circle-right": {
+      "codepoint": 57523,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleRight"
+    },
+    "chevron-circle-right-f": {
+      "codepoint": 57524,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleRightF"
+    },
+    "chevron-circle-up": {
+      "codepoint": 57525,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleUp"
+    },
+    "chevron-circle-up-f": {
+      "codepoint": 57526,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleUpF"
+    },
+    "chevron-circle-up-left": {
+      "codepoint": 57527,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleUpLeft"
+    },
+    "chevron-circle-up-left-f": {
+      "codepoint": 57528,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleUpLeftF"
+    },
+    "chevron-circle-up-right": {
+      "codepoint": 57529,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleUpRight"
+    },
+    "chevron-circle-up-right-f": {
+      "codepoint": 57530,
+      "fontFamily": "Jam",
+      "identifier": "chevronCircleUpRightF"
+    },
+    "chevron-down": {
+      "codepoint": 57531,
+      "fontFamily": "Jam",
+      "identifier": "chevronDown"
+    },
+    "chevron-down-left": {
+      "codepoint": 57532,
+      "fontFamily": "Jam",
+      "identifier": "chevronDownLeft"
+    },
+    "chevron-down-right": {
+      "codepoint": 57533,
+      "fontFamily": "Jam",
+      "identifier": "chevronDownRight"
+    },
+    "chevron-left": {
+      "codepoint": 57534,
+      "fontFamily": "Jam",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57535,
+      "fontFamily": "Jam",
+      "identifier": "chevronRight"
+    },
+    "chevron-square-down": {
+      "codepoint": 57536,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareDown"
+    },
+    "chevron-square-down-f": {
+      "codepoint": 57537,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareDownF"
+    },
+    "chevron-square-down-left": {
+      "codepoint": 57538,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareDownLeft"
+    },
+    "chevron-square-down-left-f": {
+      "codepoint": 57539,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareDownLeftF"
+    },
+    "chevron-square-down-right": {
+      "codepoint": 57540,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareDownRight"
+    },
+    "chevron-square-down-right-f": {
+      "codepoint": 57541,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareDownRightF"
+    },
+    "chevron-square-left": {
+      "codepoint": 57542,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareLeft"
+    },
+    "chevron-square-left-f": {
+      "codepoint": 57543,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareLeftF"
+    },
+    "chevron-square-right": {
+      "codepoint": 57544,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareRight"
+    },
+    "chevron-square-right-f": {
+      "codepoint": 57545,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareRightF"
+    },
+    "chevron-square-up": {
+      "codepoint": 57546,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareUp"
+    },
+    "chevron-square-up-f": {
+      "codepoint": 57547,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareUpF"
+    },
+    "chevron-square-up-left": {
+      "codepoint": 57548,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareUpLeft"
+    },
+    "chevron-square-up-left-f": {
+      "codepoint": 57549,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareUpLeftF"
+    },
+    "chevron-square-up-right": {
+      "codepoint": 57550,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareUpRight"
+    },
+    "chevron-square-up-right-f": {
+      "codepoint": 57551,
+      "fontFamily": "Jam",
+      "identifier": "chevronSquareUpRightF"
+    },
+    "chevron-up": {
+      "codepoint": 57552,
+      "fontFamily": "Jam",
+      "identifier": "chevronUp"
+    },
+    "chevron-up-left": {
+      "codepoint": 57553,
+      "fontFamily": "Jam",
+      "identifier": "chevronUpLeft"
+    },
+    "chevron-up-right": {
+      "codepoint": 57554,
+      "fontFamily": "Jam",
+      "identifier": "chevronUpRight"
+    },
+    "chevrons-circle-down": {
+      "codepoint": 57555,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleDown"
+    },
+    "chevrons-circle-down-f": {
+      "codepoint": 57556,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleDownF"
+    },
+    "chevrons-circle-down-left": {
+      "codepoint": 57557,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleDownLeft"
+    },
+    "chevrons-circle-down-left-f": {
+      "codepoint": 57558,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleDownLeftF"
+    },
+    "chevrons-circle-down-right": {
+      "codepoint": 57559,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleDownRight"
+    },
+    "chevrons-circle-down-right-f": {
+      "codepoint": 57560,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleDownRightF"
+    },
+    "chevrons-circle-left": {
+      "codepoint": 57561,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleLeft"
+    },
+    "chevrons-circle-left-f": {
+      "codepoint": 57562,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleLeftF"
+    },
+    "chevrons-circle-right": {
+      "codepoint": 57563,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleRight"
+    },
+    "chevrons-circle-right-f": {
+      "codepoint": 57564,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleRightF"
+    },
+    "chevrons-circle-up": {
+      "codepoint": 57565,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleUp"
+    },
+    "chevrons-circle-up-f": {
+      "codepoint": 57566,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleUpF"
+    },
+    "chevrons-circle-up-left": {
+      "codepoint": 57567,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleUpLeft"
+    },
+    "chevrons-circle-up-left-f": {
+      "codepoint": 57568,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleUpLeftF"
+    },
+    "chevrons-circle-up-right": {
+      "codepoint": 57569,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleUpRight"
+    },
+    "chevrons-circle-up-right-f": {
+      "codepoint": 57570,
+      "fontFamily": "Jam",
+      "identifier": "chevronsCircleUpRightF"
+    },
+    "chevrons-down": {
+      "codepoint": 57571,
+      "fontFamily": "Jam",
+      "identifier": "chevronsDown"
+    },
+    "chevrons-down-left": {
+      "codepoint": 57572,
+      "fontFamily": "Jam",
+      "identifier": "chevronsDownLeft"
+    },
+    "chevrons-down-right": {
+      "codepoint": 57573,
+      "fontFamily": "Jam",
+      "identifier": "chevronsDownRight"
+    },
+    "chevrons-left": {
+      "codepoint": 57574,
+      "fontFamily": "Jam",
+      "identifier": "chevronsLeft"
+    },
+    "chevrons-right": {
+      "codepoint": 57575,
+      "fontFamily": "Jam",
+      "identifier": "chevronsRight"
+    },
+    "chevrons-square-down": {
+      "codepoint": 57576,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareDown"
+    },
+    "chevrons-square-down-f": {
+      "codepoint": 57577,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareDownF"
+    },
+    "chevrons-square-down-left": {
+      "codepoint": 57578,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareDownLeft"
+    },
+    "chevrons-square-down-left-f": {
+      "codepoint": 57579,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareDownLeftF"
+    },
+    "chevrons-square-down-right": {
+      "codepoint": 57580,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareDownRight"
+    },
+    "chevrons-square-down-right-f": {
+      "codepoint": 57581,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareDownRightF"
+    },
+    "chevrons-square-left": {
+      "codepoint": 57582,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareLeft"
+    },
+    "chevrons-square-left-f": {
+      "codepoint": 57583,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareLeftF"
+    },
+    "chevrons-square-right": {
+      "codepoint": 57584,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareRight"
+    },
+    "chevrons-square-right-f": {
+      "codepoint": 57585,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareRightF"
+    },
+    "chevrons-square-up": {
+      "codepoint": 57586,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareUp"
+    },
+    "chevrons-square-up-f": {
+      "codepoint": 57587,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareUpF"
+    },
+    "chevrons-square-up-left": {
+      "codepoint": 57588,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareUpLeft"
+    },
+    "chevrons-square-up-left-f": {
+      "codepoint": 57589,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareUpLeftF"
+    },
+    "chevrons-square-up-right": {
+      "codepoint": 57590,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareUpRight"
+    },
+    "chevrons-square-up-right-f": {
+      "codepoint": 57591,
+      "fontFamily": "Jam",
+      "identifier": "chevronsSquareUpRightF"
+    },
+    "chevrons-up": {
+      "codepoint": 57592,
+      "fontFamily": "Jam",
+      "identifier": "chevronsUp"
+    },
+    "chevrons-up-left": {
+      "codepoint": 57593,
+      "fontFamily": "Jam",
+      "identifier": "chevronsUpLeft"
+    },
+    "chevrons-up-right": {
+      "codepoint": 57594,
+      "fontFamily": "Jam",
+      "identifier": "chevronsUpRight"
+    },
+    "chronometer": {
+      "codepoint": 57595,
+      "fontFamily": "Jam",
+      "identifier": "chronometer"
+    },
+    "chronometer-f": {
+      "codepoint": 57596,
+      "fontFamily": "Jam",
+      "identifier": "chronometerF"
+    },
+    "circle": {
+      "codepoint": 57597,
+      "fontFamily": "Jam",
+      "identifier": "circle"
+    },
+    "circle-f": {
+      "codepoint": 57598,
+      "fontFamily": "Jam",
+      "identifier": "circleF"
+    },
+    "clear-format": {
+      "codepoint": 57599,
+      "fontFamily": "Jam",
+      "identifier": "clearFormat"
+    },
+    "clipboard": {
+      "codepoint": 57600,
+      "fontFamily": "Jam",
+      "identifier": "clipboard"
+    },
+    "clipboard-f": {
+      "codepoint": 57601,
+      "fontFamily": "Jam",
+      "identifier": "clipboardF"
+    },
+    "clock": {
+      "codepoint": 57602,
+      "fontFamily": "Jam",
+      "identifier": "clock"
+    },
+    "clock-f": {
+      "codepoint": 57603,
+      "fontFamily": "Jam",
+      "identifier": "clockF"
+    },
+    "close": {
+      "codepoint": 57604,
+      "fontFamily": "Jam",
+      "identifier": "close"
+    },
+    "close-circle": {
+      "codepoint": 57605,
+      "fontFamily": "Jam",
+      "identifier": "closeCircle"
+    },
+    "close-circle-f": {
+      "codepoint": 57606,
+      "fontFamily": "Jam",
+      "identifier": "closeCircleF"
+    },
+    "close-rectangle": {
+      "codepoint": 57607,
+      "fontFamily": "Jam",
+      "identifier": "closeRectangle"
+    },
+    "close-rectangle-f": {
+      "codepoint": 57608,
+      "fontFamily": "Jam",
+      "identifier": "closeRectangleF"
+    },
+    "cloud": {
+      "codepoint": 57609,
+      "fontFamily": "Jam",
+      "identifier": "cloud"
+    },
+    "cloud-f": {
+      "codepoint": 57610,
+      "fontFamily": "Jam",
+      "identifier": "cloudF"
+    },
+    "cloud-rain": {
+      "codepoint": 57611,
+      "fontFamily": "Jam",
+      "identifier": "cloudRain"
+    },
+    "cloud-rain-f": {
+      "codepoint": 57612,
+      "fontFamily": "Jam",
+      "identifier": "cloudRainF"
+    },
+    "cloud-snow": {
+      "codepoint": 57613,
+      "fontFamily": "Jam",
+      "identifier": "cloudSnow"
+    },
+    "cloud-snow-f": {
+      "codepoint": 57614,
+      "fontFamily": "Jam",
+      "identifier": "cloudSnowF"
+    },
+    "cloud-thunder": {
+      "codepoint": 57615,
+      "fontFamily": "Jam",
+      "identifier": "cloudThunder"
+    },
+    "cloud-thunder-f": {
+      "codepoint": 57616,
+      "fontFamily": "Jam",
+      "identifier": "cloudThunderF"
+    },
+    "code": {
+      "codepoint": 57617,
+      "fontFamily": "Jam",
+      "identifier": "code"
+    },
+    "code-sample": {
+      "codepoint": 57618,
+      "fontFamily": "Jam",
+      "identifier": "codeSample"
+    },
+    "codepen": {
+      "codepoint": 57619,
+      "fontFamily": "Jam",
+      "identifier": "codepen"
+    },
+    "codepen-circle": {
+      "codepoint": 57620,
+      "fontFamily": "Jam",
+      "identifier": "codepenCircle"
+    },
+    "codepen-square": {
+      "codepoint": 57621,
+      "fontFamily": "Jam",
+      "identifier": "codepenSquare"
+    },
+    "coffee": {
+      "codepoint": 57622,
+      "fontFamily": "Jam",
+      "identifier": "coffee"
+    },
+    "coffee-cup": {
+      "codepoint": 57623,
+      "fontFamily": "Jam",
+      "identifier": "coffeeCup"
+    },
+    "coffee-cup-f": {
+      "codepoint": 57624,
+      "fontFamily": "Jam",
+      "identifier": "coffeeCupF"
+    },
+    "cog": {
+      "codepoint": 57625,
+      "fontFamily": "Jam",
+      "identifier": "cog"
+    },
+    "cog-f": {
+      "codepoint": 57626,
+      "fontFamily": "Jam",
+      "identifier": "cogF"
+    },
+    "cogs": {
+      "codepoint": 57627,
+      "fontFamily": "Jam",
+      "identifier": "cogs"
+    },
+    "cogs-f": {
+      "codepoint": 57628,
+      "fontFamily": "Jam",
+      "identifier": "cogsF"
+    },
+    "coin": {
+      "codepoint": 57629,
+      "fontFamily": "Jam",
+      "identifier": "coin"
+    },
+    "coin-f": {
+      "codepoint": 57630,
+      "fontFamily": "Jam",
+      "identifier": "coinF"
+    },
+    "color": {
+      "codepoint": 57631,
+      "fontFamily": "Jam",
+      "identifier": "color"
+    },
+    "compass": {
+      "codepoint": 57632,
+      "fontFamily": "Jam",
+      "identifier": "compass"
+    },
+    "compass-f": {
+      "codepoint": 57633,
+      "fontFamily": "Jam",
+      "identifier": "compassF"
+    },
+    "computer": {
+      "codepoint": 57634,
+      "fontFamily": "Jam",
+      "identifier": "computer"
+    },
+    "computer-alt": {
+      "codepoint": 57635,
+      "fontFamily": "Jam",
+      "identifier": "computerAlt"
+    },
+    "computer-alt-f": {
+      "codepoint": 57636,
+      "fontFamily": "Jam",
+      "identifier": "computerAltF"
+    },
+    "computer-f": {
+      "codepoint": 57637,
+      "fontFamily": "Jam",
+      "identifier": "computerF"
+    },
+    "credit-card": {
+      "codepoint": 57638,
+      "fontFamily": "Jam",
+      "identifier": "creditCard"
+    },
+    "credit-card-f": {
+      "codepoint": 57639,
+      "fontFamily": "Jam",
+      "identifier": "creditCardF"
+    },
+    "crop": {
+      "codepoint": 57640,
+      "fontFamily": "Jam",
+      "identifier": "crop"
+    },
+    "crown": {
+      "codepoint": 57641,
+      "fontFamily": "Jam",
+      "identifier": "crown"
+    },
+    "crown-f": {
+      "codepoint": 57642,
+      "fontFamily": "Jam",
+      "identifier": "crownF"
+    },
+    "cutlery": {
+      "codepoint": 57643,
+      "fontFamily": "Jam",
+      "identifier": "cutlery"
+    },
+    "cutlery-f": {
+      "codepoint": 57644,
+      "fontFamily": "Jam",
+      "identifier": "cutleryF"
+    },
+    "cutter": {
+      "codepoint": 57645,
+      "fontFamily": "Jam",
+      "identifier": "cutter"
+    },
+    "cutter-f": {
+      "codepoint": 57646,
+      "fontFamily": "Jam",
+      "identifier": "cutterF"
+    },
+    "dashboard": {
+      "codepoint": 57647,
+      "fontFamily": "Jam",
+      "identifier": "dashboard"
+    },
+    "dashboard-f": {
+      "codepoint": 57648,
+      "fontFamily": "Jam",
+      "identifier": "dashboardF"
+    },
+    "database": {
+      "codepoint": 57649,
+      "fontFamily": "Jam",
+      "identifier": "database"
+    },
+    "database-f": {
+      "codepoint": 57650,
+      "fontFamily": "Jam",
+      "identifier": "databaseF"
+    },
+    "deezer": {
+      "codepoint": 57651,
+      "fontFamily": "Jam",
+      "identifier": "deezer"
+    },
+    "deezer-circle": {
+      "codepoint": 57652,
+      "fontFamily": "Jam",
+      "identifier": "deezerCircle"
+    },
+    "deezer-square": {
+      "codepoint": 57653,
+      "fontFamily": "Jam",
+      "identifier": "deezerSquare"
+    },
+    "delete": {
+      "codepoint": 57654,
+      "fontFamily": "Jam",
+      "identifier": "delete"
+    },
+    "delete-f": {
+      "codepoint": 57655,
+      "fontFamily": "Jam",
+      "identifier": "deleteF"
+    },
+    "deviantart": {
+      "codepoint": 57656,
+      "fontFamily": "Jam",
+      "identifier": "deviantart"
+    },
+    "deviantart-circle": {
+      "codepoint": 57657,
+      "fontFamily": "Jam",
+      "identifier": "deviantartCircle"
+    },
+    "deviantart-square": {
+      "codepoint": 57658,
+      "fontFamily": "Jam",
+      "identifier": "deviantartSquare"
+    },
+    "dice": {
+      "codepoint": 57659,
+      "fontFamily": "Jam",
+      "identifier": "dice"
+    },
+    "dice-f": {
+      "codepoint": 57660,
+      "fontFamily": "Jam",
+      "identifier": "diceF"
+    },
+    "dices": {
+      "codepoint": 57661,
+      "fontFamily": "Jam",
+      "identifier": "dices"
+    },
+    "dices-f": {
+      "codepoint": 57662,
+      "fontFamily": "Jam",
+      "identifier": "dicesF"
+    },
+    "differenciation": {
+      "codepoint": 57663,
+      "fontFamily": "Jam",
+      "identifier": "differenciation"
+    },
+    "digg": {
+      "codepoint": 57664,
+      "fontFamily": "Jam",
+      "identifier": "digg"
+    },
+    "direction": {
+      "codepoint": 57665,
+      "fontFamily": "Jam",
+      "identifier": "direction"
+    },
+    "direction-f": {
+      "codepoint": 57666,
+      "fontFamily": "Jam",
+      "identifier": "directionF"
+    },
+    "directions": {
+      "codepoint": 57667,
+      "fontFamily": "Jam",
+      "identifier": "directions"
+    },
+    "directions-f": {
+      "codepoint": 57668,
+      "fontFamily": "Jam",
+      "identifier": "directionsF"
+    },
+    "disc": {
+      "codepoint": 57669,
+      "fontFamily": "Jam",
+      "identifier": "disc"
+    },
+    "disc-f": {
+      "codepoint": 57670,
+      "fontFamily": "Jam",
+      "identifier": "discF"
+    },
+    "discord": {
+      "codepoint": 57671,
+      "fontFamily": "Jam",
+      "identifier": "discord"
+    },
+    "disqus": {
+      "codepoint": 57672,
+      "fontFamily": "Jam",
+      "identifier": "disqus"
+    },
+    "disqus-circle": {
+      "codepoint": 57673,
+      "fontFamily": "Jam",
+      "identifier": "disqusCircle"
+    },
+    "disqus-square": {
+      "codepoint": 57674,
+      "fontFamily": "Jam",
+      "identifier": "disqusSquare"
+    },
+    "dj": {
+      "codepoint": 57675,
+      "fontFamily": "Jam",
+      "identifier": "dj"
+    },
+    "dj-f": {
+      "codepoint": 57676,
+      "fontFamily": "Jam",
+      "identifier": "djF"
+    },
+    "dna": {
+      "codepoint": 57677,
+      "fontFamily": "Jam",
+      "identifier": "dna"
+    },
+    "document": {
+      "codepoint": 57678,
+      "fontFamily": "Jam",
+      "identifier": "document"
+    },
+    "document-f": {
+      "codepoint": 57679,
+      "fontFamily": "Jam",
+      "identifier": "documentF"
+    },
+    "door": {
+      "codepoint": 57680,
+      "fontFamily": "Jam",
+      "identifier": "door"
+    },
+    "download": {
+      "codepoint": 57681,
+      "fontFamily": "Jam",
+      "identifier": "download"
+    },
+    "dribbble": {
+      "codepoint": 57682,
+      "fontFamily": "Jam",
+      "identifier": "dribbble"
+    },
+    "drupal": {
+      "codepoint": 57683,
+      "fontFamily": "Jam",
+      "identifier": "drupal"
+    },
+    "drupal-circle": {
+      "codepoint": 57684,
+      "fontFamily": "Jam",
+      "identifier": "drupalCircle"
+    },
+    "drupal-square": {
+      "codepoint": 57685,
+      "fontFamily": "Jam",
+      "identifier": "drupalSquare"
+    },
+    "ebay": {
+      "codepoint": 57686,
+      "fontFamily": "Jam",
+      "identifier": "ebay"
+    },
+    "egg": {
+      "codepoint": 57687,
+      "fontFamily": "Jam",
+      "identifier": "egg"
+    },
+    "egg-f": {
+      "codepoint": 57688,
+      "fontFamily": "Jam",
+      "identifier": "eggF"
+    },
+    "eggs": {
+      "codepoint": 57689,
+      "fontFamily": "Jam",
+      "identifier": "eggs"
+    },
+    "eggs-f": {
+      "codepoint": 57690,
+      "fontFamily": "Jam",
+      "identifier": "eggsF"
+    },
+    "eject": {
+      "codepoint": 57691,
+      "fontFamily": "Jam",
+      "identifier": "eject"
+    },
+    "eject-circle": {
+      "codepoint": 57692,
+      "fontFamily": "Jam",
+      "identifier": "ejectCircle"
+    },
+    "eject-circle-f": {
+      "codepoint": 57693,
+      "fontFamily": "Jam",
+      "identifier": "ejectCircleF"
+    },
+    "eject-square": {
+      "codepoint": 57694,
+      "fontFamily": "Jam",
+      "identifier": "ejectSquare"
+    },
+    "eject-square-f": {
+      "codepoint": 57695,
+      "fontFamily": "Jam",
+      "identifier": "ejectSquareF"
+    },
+    "envelope": {
+      "codepoint": 57696,
+      "fontFamily": "Jam",
+      "identifier": "envelope"
+    },
+    "envelope-f": {
+      "codepoint": 57697,
+      "fontFamily": "Jam",
+      "identifier": "envelopeF"
+    },
+    "envelope-open": {
+      "codepoint": 57698,
+      "fontFamily": "Jam",
+      "identifier": "envelopeOpen"
+    },
+    "envelope-open-f": {
+      "codepoint": 57699,
+      "fontFamily": "Jam",
+      "identifier": "envelopeOpenF"
+    },
+    "extinguisher": {
+      "codepoint": 57700,
+      "fontFamily": "Jam",
+      "identifier": "extinguisher"
+    },
+    "extinguisher-f": {
+      "codepoint": 57701,
+      "fontFamily": "Jam",
+      "identifier": "extinguisherF"
+    },
+    "eye": {
+      "codepoint": 57702,
+      "fontFamily": "Jam",
+      "identifier": "eye"
+    },
+    "eye-close": {
+      "codepoint": 57703,
+      "fontFamily": "Jam",
+      "identifier": "eyeClose"
+    },
+    "eye-close-f": {
+      "codepoint": 57704,
+      "fontFamily": "Jam",
+      "identifier": "eyeCloseF"
+    },
+    "eye-f": {
+      "codepoint": 57705,
+      "fontFamily": "Jam",
+      "identifier": "eyeF"
+    },
+    "eyedropper": {
+      "codepoint": 57706,
+      "fontFamily": "Jam",
+      "identifier": "eyedropper"
+    },
+    "eyedropper-f": {
+      "codepoint": 57707,
+      "fontFamily": "Jam",
+      "identifier": "eyedropperF"
+    },
+    "facebook": {
+      "codepoint": 57708,
+      "fontFamily": "Jam",
+      "identifier": "facebook"
+    },
+    "facebook-circle": {
+      "codepoint": 57709,
+      "fontFamily": "Jam",
+      "identifier": "facebookCircle"
+    },
+    "facebook-square": {
+      "codepoint": 57710,
+      "fontFamily": "Jam",
+      "identifier": "facebookSquare"
+    },
+    "fast-backward": {
+      "codepoint": 57711,
+      "fontFamily": "Jam",
+      "identifier": "fastBackward"
+    },
+    "fast-backward-circle": {
+      "codepoint": 57712,
+      "fontFamily": "Jam",
+      "identifier": "fastBackwardCircle"
+    },
+    "fast-backward-circle-f": {
+      "codepoint": 57713,
+      "fontFamily": "Jam",
+      "identifier": "fastBackwardCircleF"
+    },
+    "fast-backward-square": {
+      "codepoint": 57714,
+      "fontFamily": "Jam",
+      "identifier": "fastBackwardSquare"
+    },
+    "fast-backward-square-f": {
+      "codepoint": 57715,
+      "fontFamily": "Jam",
+      "identifier": "fastBackwardSquareF"
+    },
+    "fast-forward": {
+      "codepoint": 57716,
+      "fontFamily": "Jam",
+      "identifier": "fastForward"
+    },
+    "fast-forward-circle": {
+      "codepoint": 57717,
+      "fontFamily": "Jam",
+      "identifier": "fastForwardCircle"
+    },
+    "fast-forward-circle-f": {
+      "codepoint": 57718,
+      "fontFamily": "Jam",
+      "identifier": "fastForwardCircleF"
+    },
+    "fast-forward-square": {
+      "codepoint": 57719,
+      "fontFamily": "Jam",
+      "identifier": "fastForwardSquare"
+    },
+    "fast-forward-square-f": {
+      "codepoint": 57720,
+      "fontFamily": "Jam",
+      "identifier": "fastForwardSquareF"
+    },
+    "feather": {
+      "codepoint": 57721,
+      "fontFamily": "Jam",
+      "identifier": "feather"
+    },
+    "feather-f": {
+      "codepoint": 57722,
+      "fontFamily": "Jam",
+      "identifier": "featherF"
+    },
+    "female": {
+      "codepoint": 57723,
+      "fontFamily": "Jam",
+      "identifier": "female"
+    },
+    "file": {
+      "codepoint": 57724,
+      "fontFamily": "Jam",
+      "identifier": "file"
+    },
+    "file-f": {
+      "codepoint": 57725,
+      "fontFamily": "Jam",
+      "identifier": "fileF"
+    },
+    "files": {
+      "codepoint": 57726,
+      "fontFamily": "Jam",
+      "identifier": "files"
+    },
+    "files-f": {
+      "codepoint": 57727,
+      "fontFamily": "Jam",
+      "identifier": "filesF"
+    },
+    "filter": {
+      "codepoint": 57728,
+      "fontFamily": "Jam",
+      "identifier": "filter"
+    },
+    "filter-f": {
+      "codepoint": 57729,
+      "fontFamily": "Jam",
+      "identifier": "filterF"
+    },
+    "fingerprint": {
+      "codepoint": 57730,
+      "fontFamily": "Jam",
+      "identifier": "fingerprint"
+    },
+    "first-aid": {
+      "codepoint": 57731,
+      "fontFamily": "Jam",
+      "identifier": "firstAid"
+    },
+    "first-aid-f": {
+      "codepoint": 57732,
+      "fontFamily": "Jam",
+      "identifier": "firstAidF"
+    },
+    "fish": {
+      "codepoint": 57733,
+      "fontFamily": "Jam",
+      "identifier": "fish"
+    },
+    "fiverr": {
+      "codepoint": 57734,
+      "fontFamily": "Jam",
+      "identifier": "fiverr"
+    },
+    "fiverr-circle": {
+      "codepoint": 57735,
+      "fontFamily": "Jam",
+      "identifier": "fiverrCircle"
+    },
+    "fiverr-square": {
+      "codepoint": 57736,
+      "fontFamily": "Jam",
+      "identifier": "fiverrSquare"
+    },
+    "flag": {
+      "codepoint": 57737,
+      "fontFamily": "Jam",
+      "identifier": "flag"
+    },
+    "flag-f": {
+      "codepoint": 57738,
+      "fontFamily": "Jam",
+      "identifier": "flagF"
+    },
+    "flame": {
+      "codepoint": 57739,
+      "fontFamily": "Jam",
+      "identifier": "flame"
+    },
+    "flame-f": {
+      "codepoint": 57740,
+      "fontFamily": "Jam",
+      "identifier": "flameF"
+    },
+    "flashlight-off": {
+      "codepoint": 57741,
+      "fontFamily": "Jam",
+      "identifier": "flashlightOff"
+    },
+    "flashlight-off-f": {
+      "codepoint": 57742,
+      "fontFamily": "Jam",
+      "identifier": "flashlightOffF"
+    },
+    "flashlight-on": {
+      "codepoint": 57743,
+      "fontFamily": "Jam",
+      "identifier": "flashlightOn"
+    },
+    "flashlight-on-f": {
+      "codepoint": 57744,
+      "fontFamily": "Jam",
+      "identifier": "flashlightOnF"
+    },
+    "flask": {
+      "codepoint": 57745,
+      "fontFamily": "Jam",
+      "identifier": "flask"
+    },
+    "flickr": {
+      "codepoint": 57746,
+      "fontFamily": "Jam",
+      "identifier": "flickr"
+    },
+    "flickr-circle": {
+      "codepoint": 57747,
+      "fontFamily": "Jam",
+      "identifier": "flickrCircle"
+    },
+    "flickr-square": {
+      "codepoint": 57748,
+      "fontFamily": "Jam",
+      "identifier": "flickrSquare"
+    },
+    "flower": {
+      "codepoint": 57749,
+      "fontFamily": "Jam",
+      "identifier": "flower"
+    },
+    "folder": {
+      "codepoint": 57750,
+      "fontFamily": "Jam",
+      "identifier": "folder"
+    },
+    "folder-f": {
+      "codepoint": 57751,
+      "fontFamily": "Jam",
+      "identifier": "folderF"
+    },
+    "folder-open": {
+      "codepoint": 57752,
+      "fontFamily": "Jam",
+      "identifier": "folderOpen"
+    },
+    "folder-open-f": {
+      "codepoint": 57753,
+      "fontFamily": "Jam",
+      "identifier": "folderOpenF"
+    },
+    "folder-zip": {
+      "codepoint": 57754,
+      "fontFamily": "Jam",
+      "identifier": "folderZip"
+    },
+    "folder-zip-f": {
+      "codepoint": 57755,
+      "fontFamily": "Jam",
+      "identifier": "folderZipF"
+    },
+    "football": {
+      "codepoint": 57756,
+      "fontFamily": "Jam",
+      "identifier": "football"
+    },
+    "fork": {
+      "codepoint": 57757,
+      "fontFamily": "Jam",
+      "identifier": "fork"
+    },
+    "fork-f": {
+      "codepoint": 57758,
+      "fontFamily": "Jam",
+      "identifier": "forkF"
+    },
+    "forward": {
+      "codepoint": 57759,
+      "fontFamily": "Jam",
+      "identifier": "forward"
+    },
+    "forward-circle": {
+      "codepoint": 57760,
+      "fontFamily": "Jam",
+      "identifier": "forwardCircle"
+    },
+    "forward-circle-f": {
+      "codepoint": 57761,
+      "fontFamily": "Jam",
+      "identifier": "forwardCircleF"
+    },
+    "forward-square": {
+      "codepoint": 57762,
+      "fontFamily": "Jam",
+      "identifier": "forwardSquare"
+    },
+    "forward-square-f": {
+      "codepoint": 57763,
+      "fontFamily": "Jam",
+      "identifier": "forwardSquareF"
+    },
+    "foursquare": {
+      "codepoint": 57764,
+      "fontFamily": "Jam",
+      "identifier": "foursquare"
+    },
+    "gamepad": {
+      "codepoint": 57765,
+      "fontFamily": "Jam",
+      "identifier": "gamepad"
+    },
+    "gamepad-f": {
+      "codepoint": 57766,
+      "fontFamily": "Jam",
+      "identifier": "gamepadF"
+    },
+    "gamepad-retro": {
+      "codepoint": 57767,
+      "fontFamily": "Jam",
+      "identifier": "gamepadRetro"
+    },
+    "gamepad-retro-f": {
+      "codepoint": 57768,
+      "fontFamily": "Jam",
+      "identifier": "gamepadRetroF"
+    },
+    "gamma": {
+      "codepoint": 57769,
+      "fontFamily": "Jam",
+      "identifier": "gamma"
+    },
+    "ghost": {
+      "codepoint": 57770,
+      "fontFamily": "Jam",
+      "identifier": "ghost"
+    },
+    "ghost-f": {
+      "codepoint": 57771,
+      "fontFamily": "Jam",
+      "identifier": "ghostF"
+    },
+    "ghost-org": {
+      "codepoint": 57772,
+      "fontFamily": "Jam",
+      "identifier": "ghostOrg"
+    },
+    "ghost-org-circle": {
+      "codepoint": 57773,
+      "fontFamily": "Jam",
+      "identifier": "ghostOrgCircle"
+    },
+    "ghost-org-square": {
+      "codepoint": 57774,
+      "fontFamily": "Jam",
+      "identifier": "ghostOrgSquare"
+    },
+    "gift": {
+      "codepoint": 57775,
+      "fontFamily": "Jam",
+      "identifier": "gift"
+    },
+    "gift-f": {
+      "codepoint": 57776,
+      "fontFamily": "Jam",
+      "identifier": "giftF"
+    },
+    "github": {
+      "codepoint": 57777,
+      "fontFamily": "Jam",
+      "identifier": "github"
+    },
+    "github-circle": {
+      "codepoint": 57778,
+      "fontFamily": "Jam",
+      "identifier": "githubCircle"
+    },
+    "github-square": {
+      "codepoint": 57779,
+      "fontFamily": "Jam",
+      "identifier": "githubSquare"
+    },
+    "gitlab": {
+      "codepoint": 57780,
+      "fontFamily": "Jam",
+      "identifier": "gitlab"
+    },
+    "gitlab-circle": {
+      "codepoint": 57781,
+      "fontFamily": "Jam",
+      "identifier": "gitlabCircle"
+    },
+    "gitlab-square": {
+      "codepoint": 57782,
+      "fontFamily": "Jam",
+      "identifier": "gitlabSquare"
+    },
+    "glass-empty": {
+      "codepoint": 57783,
+      "fontFamily": "Jam",
+      "identifier": "glassEmpty"
+    },
+    "glass-filled": {
+      "codepoint": 57784,
+      "fontFamily": "Jam",
+      "identifier": "glassFilled"
+    },
+    "glass-filled-f": {
+      "codepoint": 57785,
+      "fontFamily": "Jam",
+      "identifier": "glassFilledF"
+    },
+    "glue": {
+      "codepoint": 57786,
+      "fontFamily": "Jam",
+      "identifier": "glue"
+    },
+    "glue-f": {
+      "codepoint": 57787,
+      "fontFamily": "Jam",
+      "identifier": "glueF"
+    },
+    "google": {
+      "codepoint": 57788,
+      "fontFamily": "Jam",
+      "identifier": "google"
+    },
+    "google-circle": {
+      "codepoint": 57789,
+      "fontFamily": "Jam",
+      "identifier": "googleCircle"
+    },
+    "google-play": {
+      "codepoint": 57790,
+      "fontFamily": "Jam",
+      "identifier": "googlePlay"
+    },
+    "google-play-circle": {
+      "codepoint": 57791,
+      "fontFamily": "Jam",
+      "identifier": "googlePlayCircle"
+    },
+    "google-play-square": {
+      "codepoint": 57792,
+      "fontFamily": "Jam",
+      "identifier": "googlePlaySquare"
+    },
+    "google-plus": {
+      "codepoint": 57793,
+      "fontFamily": "Jam",
+      "identifier": "googlePlus"
+    },
+    "google-plus-circle": {
+      "codepoint": 57794,
+      "fontFamily": "Jam",
+      "identifier": "googlePlusCircle"
+    },
+    "google-plus-square": {
+      "codepoint": 57795,
+      "fontFamily": "Jam",
+      "identifier": "googlePlusSquare"
+    },
+    "google-square": {
+      "codepoint": 57796,
+      "fontFamily": "Jam",
+      "identifier": "googleSquare"
+    },
+    "gps": {
+      "codepoint": 57797,
+      "fontFamily": "Jam",
+      "identifier": "gps"
+    },
+    "gps-f": {
+      "codepoint": 57798,
+      "fontFamily": "Jam",
+      "identifier": "gpsF"
+    },
+    "grid": {
+      "codepoint": 57799,
+      "fontFamily": "Jam",
+      "identifier": "grid"
+    },
+    "grid-f": {
+      "codepoint": 57800,
+      "fontFamily": "Jam",
+      "identifier": "gridF"
+    },
+    "hairdryer": {
+      "codepoint": 57801,
+      "fontFamily": "Jam",
+      "identifier": "hairdryer"
+    },
+    "hairdryer-f": {
+      "codepoint": 57802,
+      "fontFamily": "Jam",
+      "identifier": "hairdryerF"
+    },
+    "hammer": {
+      "codepoint": 57803,
+      "fontFamily": "Jam",
+      "identifier": "hammer"
+    },
+    "hammer-f": {
+      "codepoint": 57804,
+      "fontFamily": "Jam",
+      "identifier": "hammerF"
+    },
+    "hashtag": {
+      "codepoint": 57805,
+      "fontFamily": "Jam",
+      "identifier": "hashtag"
+    },
+    "header": {
+      "codepoint": 57806,
+      "fontFamily": "Jam",
+      "identifier": "header"
+    },
+    "header-1": {
+      "codepoint": 57807,
+      "fontFamily": "Jam",
+      "identifier": "header1"
+    },
+    "header-2": {
+      "codepoint": 57808,
+      "fontFamily": "Jam",
+      "identifier": "header2"
+    },
+    "header-3": {
+      "codepoint": 57809,
+      "fontFamily": "Jam",
+      "identifier": "header3"
+    },
+    "header-4": {
+      "codepoint": 57810,
+      "fontFamily": "Jam",
+      "identifier": "header4"
+    },
+    "header-5": {
+      "codepoint": 57811,
+      "fontFamily": "Jam",
+      "identifier": "header5"
+    },
+    "header-6": {
+      "codepoint": 57812,
+      "fontFamily": "Jam",
+      "identifier": "header6"
+    },
+    "headset": {
+      "codepoint": 57813,
+      "fontFamily": "Jam",
+      "identifier": "headset"
+    },
+    "headset-f": {
+      "codepoint": 57814,
+      "fontFamily": "Jam",
+      "identifier": "headsetF"
+    },
+    "heart": {
+      "codepoint": 57815,
+      "fontFamily": "Jam",
+      "identifier": "heart"
+    },
+    "heart-f": {
+      "codepoint": 57816,
+      "fontFamily": "Jam",
+      "identifier": "heartF"
+    },
+    "helmet": {
+      "codepoint": 57817,
+      "fontFamily": "Jam",
+      "identifier": "helmet"
+    },
+    "helmet-f": {
+      "codepoint": 57818,
+      "fontFamily": "Jam",
+      "identifier": "helmetF"
+    },
+    "help": {
+      "codepoint": 57819,
+      "fontFamily": "Jam",
+      "identifier": "help"
+    },
+    "help-f": {
+      "codepoint": 57820,
+      "fontFamily": "Jam",
+      "identifier": "helpF"
+    },
+    "highlighter": {
+      "codepoint": 57821,
+      "fontFamily": "Jam",
+      "identifier": "highlighter"
+    },
+    "highlighter-f": {
+      "codepoint": 57822,
+      "fontFamily": "Jam",
+      "identifier": "highlighterF"
+    },
+    "history": {
+      "codepoint": 57823,
+      "fontFamily": "Jam",
+      "identifier": "history"
+    },
+    "home": {
+      "codepoint": 57824,
+      "fontFamily": "Jam",
+      "identifier": "home"
+    },
+    "home-f": {
+      "codepoint": 57825,
+      "fontFamily": "Jam",
+      "identifier": "homeF"
+    },
+    "hourglass": {
+      "codepoint": 57826,
+      "fontFamily": "Jam",
+      "identifier": "hourglass"
+    },
+    "hourglass-f": {
+      "codepoint": 57827,
+      "fontFamily": "Jam",
+      "identifier": "hourglassF"
+    },
+    "ice-cream": {
+      "codepoint": 57828,
+      "fontFamily": "Jam",
+      "identifier": "iceCream"
+    },
+    "ice-cream-f": {
+      "codepoint": 57829,
+      "fontFamily": "Jam",
+      "identifier": "iceCreamF"
+    },
+    "id-card": {
+      "codepoint": 57830,
+      "fontFamily": "Jam",
+      "identifier": "idCard"
+    },
+    "id-card-f": {
+      "codepoint": 57831,
+      "fontFamily": "Jam",
+      "identifier": "idCardF"
+    },
+    "inbox": {
+      "codepoint": 57832,
+      "fontFamily": "Jam",
+      "identifier": "inbox"
+    },
+    "inbox-f": {
+      "codepoint": 57833,
+      "fontFamily": "Jam",
+      "identifier": "inboxF"
+    },
+    "inboxes": {
+      "codepoint": 57834,
+      "fontFamily": "Jam",
+      "identifier": "inboxes"
+    },
+    "inboxes-f": {
+      "codepoint": 57835,
+      "fontFamily": "Jam",
+      "identifier": "inboxesF"
+    },
+    "indent": {
+      "codepoint": 57836,
+      "fontFamily": "Jam",
+      "identifier": "indent"
+    },
+    "infinite": {
+      "codepoint": 57837,
+      "fontFamily": "Jam",
+      "identifier": "infinite"
+    },
+    "info": {
+      "codepoint": 57838,
+      "fontFamily": "Jam",
+      "identifier": "info"
+    },
+    "info-f": {
+      "codepoint": 57839,
+      "fontFamily": "Jam",
+      "identifier": "infoF"
+    },
+    "instagram": {
+      "codepoint": 57840,
+      "fontFamily": "Jam",
+      "identifier": "instagram"
+    },
+    "instant-picture": {
+      "codepoint": 57841,
+      "fontFamily": "Jam",
+      "identifier": "instantPicture"
+    },
+    "instant-picture-f": {
+      "codepoint": 57842,
+      "fontFamily": "Jam",
+      "identifier": "instantPictureF"
+    },
+    "intersection": {
+      "codepoint": 57843,
+      "fontFamily": "Jam",
+      "identifier": "intersection"
+    },
+    "italic": {
+      "codepoint": 57844,
+      "fontFamily": "Jam",
+      "identifier": "italic"
+    },
+    "joystick": {
+      "codepoint": 57845,
+      "fontFamily": "Jam",
+      "identifier": "joystick"
+    },
+    "joystick-f": {
+      "codepoint": 57846,
+      "fontFamily": "Jam",
+      "identifier": "joystickF"
+    },
+    "key": {
+      "codepoint": 57847,
+      "fontFamily": "Jam",
+      "identifier": "key"
+    },
+    "key-f": {
+      "codepoint": 57848,
+      "fontFamily": "Jam",
+      "identifier": "keyF"
+    },
+    "keyboard": {
+      "codepoint": 57849,
+      "fontFamily": "Jam",
+      "identifier": "keyboard"
+    },
+    "keyboard-f": {
+      "codepoint": 57850,
+      "fontFamily": "Jam",
+      "identifier": "keyboardF"
+    },
+    "language": {
+      "codepoint": 57851,
+      "fontFamily": "Jam",
+      "identifier": "language"
+    },
+    "layers": {
+      "codepoint": 57852,
+      "fontFamily": "Jam",
+      "identifier": "layers"
+    },
+    "layers-f": {
+      "codepoint": 57853,
+      "fontFamily": "Jam",
+      "identifier": "layersF"
+    },
+    "layout": {
+      "codepoint": 57854,
+      "fontFamily": "Jam",
+      "identifier": "layout"
+    },
+    "layout-f": {
+      "codepoint": 57855,
+      "fontFamily": "Jam",
+      "identifier": "layoutF"
+    },
+    "leaf": {
+      "codepoint": 57856,
+      "fontFamily": "Jam",
+      "identifier": "leaf"
+    },
+    "leaf-f": {
+      "codepoint": 57857,
+      "fontFamily": "Jam",
+      "identifier": "leafF"
+    },
+    "lifebuoy": {
+      "codepoint": 57858,
+      "fontFamily": "Jam",
+      "identifier": "lifebuoy"
+    },
+    "lifebuoy-f": {
+      "codepoint": 57859,
+      "fontFamily": "Jam",
+      "identifier": "lifebuoyF"
+    },
+    "lightbulb": {
+      "codepoint": 57860,
+      "fontFamily": "Jam",
+      "identifier": "lightbulb"
+    },
+    "lightbulb-f": {
+      "codepoint": 57861,
+      "fontFamily": "Jam",
+      "identifier": "lightbulbF"
+    },
+    "line": {
+      "codepoint": 57862,
+      "fontFamily": "Jam",
+      "identifier": "line"
+    },
+    "link": {
+      "codepoint": 57863,
+      "fontFamily": "Jam",
+      "identifier": "link"
+    },
+    "linkedin": {
+      "codepoint": 57864,
+      "fontFamily": "Jam",
+      "identifier": "linkedin"
+    },
+    "linkedin-circle": {
+      "codepoint": 57865,
+      "fontFamily": "Jam",
+      "identifier": "linkedinCircle"
+    },
+    "linkedin-square": {
+      "codepoint": 57866,
+      "fontFamily": "Jam",
+      "identifier": "linkedinSquare"
+    },
+    "log-in": {
+      "codepoint": 57867,
+      "fontFamily": "Jam",
+      "identifier": "logIn"
+    },
+    "log-out": {
+      "codepoint": 57868,
+      "fontFamily": "Jam",
+      "identifier": "logOut"
+    },
+    "ltr": {
+      "codepoint": 57869,
+      "fontFamily": "Jam",
+      "identifier": "ltr"
+    },
+    "luggage": {
+      "codepoint": 57870,
+      "fontFamily": "Jam",
+      "identifier": "luggage"
+    },
+    "luggage-f": {
+      "codepoint": 57871,
+      "fontFamily": "Jam",
+      "identifier": "luggageF"
+    },
+    "magic": {
+      "codepoint": 57872,
+      "fontFamily": "Jam",
+      "identifier": "magic"
+    },
+    "magic-f": {
+      "codepoint": 57873,
+      "fontFamily": "Jam",
+      "identifier": "magicF"
+    },
+    "magnet": {
+      "codepoint": 57874,
+      "fontFamily": "Jam",
+      "identifier": "magnet"
+    },
+    "magnet-f": {
+      "codepoint": 57875,
+      "fontFamily": "Jam",
+      "identifier": "magnetF"
+    },
+    "male": {
+      "codepoint": 57876,
+      "fontFamily": "Jam",
+      "identifier": "male"
+    },
+    "map": {
+      "codepoint": 57877,
+      "fontFamily": "Jam",
+      "identifier": "map"
+    },
+    "map-f": {
+      "codepoint": 57878,
+      "fontFamily": "Jam",
+      "identifier": "mapF"
+    },
+    "map-marker": {
+      "codepoint": 57879,
+      "fontFamily": "Jam",
+      "identifier": "mapMarker"
+    },
+    "map-marker-f": {
+      "codepoint": 57880,
+      "fontFamily": "Jam",
+      "identifier": "mapMarkerF"
+    },
+    "mask": {
+      "codepoint": 57881,
+      "fontFamily": "Jam",
+      "identifier": "mask"
+    },
+    "mask-f": {
+      "codepoint": 57882,
+      "fontFamily": "Jam",
+      "identifier": "maskF"
+    },
+    "medal": {
+      "codepoint": 57883,
+      "fontFamily": "Jam",
+      "identifier": "medal"
+    },
+    "medal-f": {
+      "codepoint": 57884,
+      "fontFamily": "Jam",
+      "identifier": "medalF"
+    },
+    "medical": {
+      "codepoint": 57885,
+      "fontFamily": "Jam",
+      "identifier": "medical"
+    },
+    "medium": {
+      "codepoint": 57886,
+      "fontFamily": "Jam",
+      "identifier": "medium"
+    },
+    "medium-circle": {
+      "codepoint": 57887,
+      "fontFamily": "Jam",
+      "identifier": "mediumCircle"
+    },
+    "medium-square": {
+      "codepoint": 57888,
+      "fontFamily": "Jam",
+      "identifier": "mediumSquare"
+    },
+    "menu": {
+      "codepoint": 57889,
+      "fontFamily": "Jam",
+      "identifier": "menu"
+    },
+    "merge": {
+      "codepoint": 57890,
+      "fontFamily": "Jam",
+      "identifier": "merge"
+    },
+    "merge-f": {
+      "codepoint": 57891,
+      "fontFamily": "Jam",
+      "identifier": "mergeF"
+    },
+    "message": {
+      "codepoint": 57892,
+      "fontFamily": "Jam",
+      "identifier": "message"
+    },
+    "message-alt": {
+      "codepoint": 57893,
+      "fontFamily": "Jam",
+      "identifier": "messageAlt"
+    },
+    "message-alt-f": {
+      "codepoint": 57894,
+      "fontFamily": "Jam",
+      "identifier": "messageAltF"
+    },
+    "message-alt-writing": {
+      "codepoint": 57895,
+      "fontFamily": "Jam",
+      "identifier": "messageAltWriting"
+    },
+    "message-alt-writing-f": {
+      "codepoint": 57896,
+      "fontFamily": "Jam",
+      "identifier": "messageAltWritingF"
+    },
+    "message-f": {
+      "codepoint": 57897,
+      "fontFamily": "Jam",
+      "identifier": "messageF"
+    },
+    "message-writing": {
+      "codepoint": 57898,
+      "fontFamily": "Jam",
+      "identifier": "messageWriting"
+    },
+    "message-writing-f": {
+      "codepoint": 57899,
+      "fontFamily": "Jam",
+      "identifier": "messageWritingF"
+    },
+    "messages": {
+      "codepoint": 57900,
+      "fontFamily": "Jam",
+      "identifier": "messages"
+    },
+    "messages-alt": {
+      "codepoint": 57901,
+      "fontFamily": "Jam",
+      "identifier": "messagesAlt"
+    },
+    "messages-alt-f": {
+      "codepoint": 57902,
+      "fontFamily": "Jam",
+      "identifier": "messagesAltF"
+    },
+    "messages-f": {
+      "codepoint": 57903,
+      "fontFamily": "Jam",
+      "identifier": "messagesF"
+    },
+    "messenger": {
+      "codepoint": 57904,
+      "fontFamily": "Jam",
+      "identifier": "messenger"
+    },
+    "mic": {
+      "codepoint": 57905,
+      "fontFamily": "Jam",
+      "identifier": "mic"
+    },
+    "mic-alt": {
+      "codepoint": 57906,
+      "fontFamily": "Jam",
+      "identifier": "micAlt"
+    },
+    "mic-circle": {
+      "codepoint": 57907,
+      "fontFamily": "Jam",
+      "identifier": "micCircle"
+    },
+    "mic-circle-f": {
+      "codepoint": 57908,
+      "fontFamily": "Jam",
+      "identifier": "micCircleF"
+    },
+    "mic-f": {
+      "codepoint": 57909,
+      "fontFamily": "Jam",
+      "identifier": "micF"
+    },
+    "mic-square": {
+      "codepoint": 57910,
+      "fontFamily": "Jam",
+      "identifier": "micSquare"
+    },
+    "mic-square-f": {
+      "codepoint": 57911,
+      "fontFamily": "Jam",
+      "identifier": "micSquareF"
+    },
+    "microchip": {
+      "codepoint": 57912,
+      "fontFamily": "Jam",
+      "identifier": "microchip"
+    },
+    "microchip-f": {
+      "codepoint": 57913,
+      "fontFamily": "Jam",
+      "identifier": "microchipF"
+    },
+    "minus": {
+      "codepoint": 57914,
+      "fontFamily": "Jam",
+      "identifier": "minus"
+    },
+    "minus-circle": {
+      "codepoint": 57915,
+      "fontFamily": "Jam",
+      "identifier": "minusCircle"
+    },
+    "minus-circle-f": {
+      "codepoint": 57916,
+      "fontFamily": "Jam",
+      "identifier": "minusCircleF"
+    },
+    "minus-rectangle": {
+      "codepoint": 57917,
+      "fontFamily": "Jam",
+      "identifier": "minusRectangle"
+    },
+    "minus-rectangle-f": {
+      "codepoint": 57918,
+      "fontFamily": "Jam",
+      "identifier": "minusRectangleF"
+    },
+    "moon": {
+      "codepoint": 57919,
+      "fontFamily": "Jam",
+      "identifier": "moon"
+    },
+    "moon-f": {
+      "codepoint": 57920,
+      "fontFamily": "Jam",
+      "identifier": "moonF"
+    },
+    "more-horizontal": {
+      "codepoint": 57921,
+      "fontFamily": "Jam",
+      "identifier": "moreHorizontal"
+    },
+    "more-horizontal-f": {
+      "codepoint": 57922,
+      "fontFamily": "Jam",
+      "identifier": "moreHorizontalF"
+    },
+    "more-vertical": {
+      "codepoint": 57923,
+      "fontFamily": "Jam",
+      "identifier": "moreVertical"
+    },
+    "more-vertical-f": {
+      "codepoint": 57924,
+      "fontFamily": "Jam",
+      "identifier": "moreVerticalF"
+    },
+    "mountain": {
+      "codepoint": 57925,
+      "fontFamily": "Jam",
+      "identifier": "mountain"
+    },
+    "mountain-f": {
+      "codepoint": 57926,
+      "fontFamily": "Jam",
+      "identifier": "mountainF"
+    },
+    "move": {
+      "codepoint": 57927,
+      "fontFamily": "Jam",
+      "identifier": "move"
+    },
+    "move-alt": {
+      "codepoint": 57928,
+      "fontFamily": "Jam",
+      "identifier": "moveAlt"
+    },
+    "movie": {
+      "codepoint": 57929,
+      "fontFamily": "Jam",
+      "identifier": "movie"
+    },
+    "mug": {
+      "codepoint": 57930,
+      "fontFamily": "Jam",
+      "identifier": "mug"
+    },
+    "mug-f": {
+      "codepoint": 57931,
+      "fontFamily": "Jam",
+      "identifier": "mugF"
+    },
+    "music": {
+      "codepoint": 57932,
+      "fontFamily": "Jam",
+      "identifier": "music"
+    },
+    "music-f": {
+      "codepoint": 57933,
+      "fontFamily": "Jam",
+      "identifier": "musicF"
+    },
+    "myspace": {
+      "codepoint": 57934,
+      "fontFamily": "Jam",
+      "identifier": "myspace"
+    },
+    "myspace-circle": {
+      "codepoint": 57935,
+      "fontFamily": "Jam",
+      "identifier": "myspaceCircle"
+    },
+    "myspace-square": {
+      "codepoint": 57936,
+      "fontFamily": "Jam",
+      "identifier": "myspaceSquare"
+    },
+    "napster": {
+      "codepoint": 57937,
+      "fontFamily": "Jam",
+      "identifier": "napster"
+    },
+    "napster-circle": {
+      "codepoint": 57938,
+      "fontFamily": "Jam",
+      "identifier": "napsterCircle"
+    },
+    "napster-square": {
+      "codepoint": 57939,
+      "fontFamily": "Jam",
+      "identifier": "napsterSquare"
+    },
+    "newsletter": {
+      "codepoint": 57940,
+      "fontFamily": "Jam",
+      "identifier": "newsletter"
+    },
+    "newsletter-f": {
+      "codepoint": 57941,
+      "fontFamily": "Jam",
+      "identifier": "newsletterF"
+    },
+    "newspaper": {
+      "codepoint": 57942,
+      "fontFamily": "Jam",
+      "identifier": "newspaper"
+    },
+    "newspaper-f": {
+      "codepoint": 57943,
+      "fontFamily": "Jam",
+      "identifier": "newspaperF"
+    },
+    "npm": {
+      "codepoint": 57944,
+      "fontFamily": "Jam",
+      "identifier": "npm"
+    },
+    "odnoklassniki": {
+      "codepoint": 57945,
+      "fontFamily": "Jam",
+      "identifier": "odnoklassniki"
+    },
+    "odnoklassniki-circle": {
+      "codepoint": 57946,
+      "fontFamily": "Jam",
+      "identifier": "odnoklassnikiCircle"
+    },
+    "odnoklassniki-square": {
+      "codepoint": 57947,
+      "fontFamily": "Jam",
+      "identifier": "odnoklassnikiSquare"
+    },
+    "opera": {
+      "codepoint": 57948,
+      "fontFamily": "Jam",
+      "identifier": "opera"
+    },
+    "opera-circle": {
+      "codepoint": 57949,
+      "fontFamily": "Jam",
+      "identifier": "operaCircle"
+    },
+    "opera-square": {
+      "codepoint": 57950,
+      "fontFamily": "Jam",
+      "identifier": "operaSquare"
+    },
+    "ordered-list": {
+      "codepoint": 57951,
+      "fontFamily": "Jam",
+      "identifier": "orderedList"
+    },
+    "orientaton": {
+      "codepoint": 57952,
+      "fontFamily": "Jam",
+      "identifier": "orientaton"
+    },
+    "padlock": {
+      "codepoint": 57953,
+      "fontFamily": "Jam",
+      "identifier": "padlock"
+    },
+    "padlock-alt": {
+      "codepoint": 57954,
+      "fontFamily": "Jam",
+      "identifier": "padlockAlt"
+    },
+    "padlock-alt-f": {
+      "codepoint": 57955,
+      "fontFamily": "Jam",
+      "identifier": "padlockAltF"
+    },
+    "padlock-alt-open": {
+      "codepoint": 57956,
+      "fontFamily": "Jam",
+      "identifier": "padlockAltOpen"
+    },
+    "padlock-alt-open-f": {
+      "codepoint": 57957,
+      "fontFamily": "Jam",
+      "identifier": "padlockAltOpenF"
+    },
+    "padlock-f": {
+      "codepoint": 57958,
+      "fontFamily": "Jam",
+      "identifier": "padlockF"
+    },
+    "padlock-open": {
+      "codepoint": 57959,
+      "fontFamily": "Jam",
+      "identifier": "padlockOpen"
+    },
+    "padlock-open-f": {
+      "codepoint": 57960,
+      "fontFamily": "Jam",
+      "identifier": "padlockOpenF"
+    },
+    "page-break": {
+      "codepoint": 57961,
+      "fontFamily": "Jam",
+      "identifier": "pageBreak"
+    },
+    "paper-plane": {
+      "codepoint": 57962,
+      "fontFamily": "Jam",
+      "identifier": "paperPlane"
+    },
+    "paper-plane-f": {
+      "codepoint": 57963,
+      "fontFamily": "Jam",
+      "identifier": "paperPlaneF"
+    },
+    "paragraph": {
+      "codepoint": 57964,
+      "fontFamily": "Jam",
+      "identifier": "paragraph"
+    },
+    "patreon": {
+      "codepoint": 57965,
+      "fontFamily": "Jam",
+      "identifier": "patreon"
+    },
+    "patreon-circle": {
+      "codepoint": 57966,
+      "fontFamily": "Jam",
+      "identifier": "patreonCircle"
+    },
+    "patreon-square": {
+      "codepoint": 57967,
+      "fontFamily": "Jam",
+      "identifier": "patreonSquare"
+    },
+    "pause": {
+      "codepoint": 57968,
+      "fontFamily": "Jam",
+      "identifier": "pause"
+    },
+    "paypal": {
+      "codepoint": 57969,
+      "fontFamily": "Jam",
+      "identifier": "paypal"
+    },
+    "paypal-circle": {
+      "codepoint": 57970,
+      "fontFamily": "Jam",
+      "identifier": "paypalCircle"
+    },
+    "paypal-square": {
+      "codepoint": 57971,
+      "fontFamily": "Jam",
+      "identifier": "paypalSquare"
+    },
+    "pen": {
+      "codepoint": 57972,
+      "fontFamily": "Jam",
+      "identifier": "pen"
+    },
+    "pen-f": {
+      "codepoint": 57973,
+      "fontFamily": "Jam",
+      "identifier": "penF"
+    },
+    "pencil": {
+      "codepoint": 57974,
+      "fontFamily": "Jam",
+      "identifier": "pencil"
+    },
+    "pencil-f": {
+      "codepoint": 57975,
+      "fontFamily": "Jam",
+      "identifier": "pencilF"
+    },
+    "periscope": {
+      "codepoint": 57976,
+      "fontFamily": "Jam",
+      "identifier": "periscope"
+    },
+    "periscope-circle": {
+      "codepoint": 57977,
+      "fontFamily": "Jam",
+      "identifier": "periscopeCircle"
+    },
+    "periscope-square": {
+      "codepoint": 57978,
+      "fontFamily": "Jam",
+      "identifier": "periscopeSquare"
+    },
+    "phone": {
+      "codepoint": 57979,
+      "fontFamily": "Jam",
+      "identifier": "phone"
+    },
+    "phone-f": {
+      "codepoint": 57980,
+      "fontFamily": "Jam",
+      "identifier": "phoneF"
+    },
+    "picture": {
+      "codepoint": 57981,
+      "fontFamily": "Jam",
+      "identifier": "picture"
+    },
+    "picture-edit": {
+      "codepoint": 57982,
+      "fontFamily": "Jam",
+      "identifier": "pictureEdit"
+    },
+    "picture-f": {
+      "codepoint": 57983,
+      "fontFamily": "Jam",
+      "identifier": "pictureF"
+    },
+    "pictures": {
+      "codepoint": 57984,
+      "fontFamily": "Jam",
+      "identifier": "pictures"
+    },
+    "pictures-f": {
+      "codepoint": 57985,
+      "fontFamily": "Jam",
+      "identifier": "picturesF"
+    },
+    "pie-chart": {
+      "codepoint": 57986,
+      "fontFamily": "Jam",
+      "identifier": "pieChart"
+    },
+    "pie-chart-alt": {
+      "codepoint": 57987,
+      "fontFamily": "Jam",
+      "identifier": "pieChartAlt"
+    },
+    "pie-chart-f": {
+      "codepoint": 57988,
+      "fontFamily": "Jam",
+      "identifier": "pieChartF"
+    },
+    "pin": {
+      "codepoint": 57989,
+      "fontFamily": "Jam",
+      "identifier": "pin"
+    },
+    "pin-alt": {
+      "codepoint": 57990,
+      "fontFamily": "Jam",
+      "identifier": "pinAlt"
+    },
+    "pin-alt-f": {
+      "codepoint": 57991,
+      "fontFamily": "Jam",
+      "identifier": "pinAltF"
+    },
+    "pin-f": {
+      "codepoint": 57992,
+      "fontFamily": "Jam",
+      "identifier": "pinF"
+    },
+    "pinterest": {
+      "codepoint": 57993,
+      "fontFamily": "Jam",
+      "identifier": "pinterest"
+    },
+    "pinterest-circle": {
+      "codepoint": 57994,
+      "fontFamily": "Jam",
+      "identifier": "pinterestCircle"
+    },
+    "pinterest-square": {
+      "codepoint": 57995,
+      "fontFamily": "Jam",
+      "identifier": "pinterestSquare"
+    },
+    "pizza-slice": {
+      "codepoint": 57996,
+      "fontFamily": "Jam",
+      "identifier": "pizzaSlice"
+    },
+    "plane": {
+      "codepoint": 57997,
+      "fontFamily": "Jam",
+      "identifier": "plane"
+    },
+    "plane-f": {
+      "codepoint": 57998,
+      "fontFamily": "Jam",
+      "identifier": "planeF"
+    },
+    "play": {
+      "codepoint": 57999,
+      "fontFamily": "Jam",
+      "identifier": "play"
+    },
+    "play-circle": {
+      "codepoint": 58000,
+      "fontFamily": "Jam",
+      "identifier": "playCircle"
+    },
+    "play-circle-f": {
+      "codepoint": 58001,
+      "fontFamily": "Jam",
+      "identifier": "playCircleF"
+    },
+    "play-square": {
+      "codepoint": 58002,
+      "fontFamily": "Jam",
+      "identifier": "playSquare"
+    },
+    "play-square-f": {
+      "codepoint": 58003,
+      "fontFamily": "Jam",
+      "identifier": "playSquareF"
+    },
+    "plug": {
+      "codepoint": 58004,
+      "fontFamily": "Jam",
+      "identifier": "plug"
+    },
+    "plug-f": {
+      "codepoint": 58005,
+      "fontFamily": "Jam",
+      "identifier": "plugF"
+    },
+    "plus": {
+      "codepoint": 58006,
+      "fontFamily": "Jam",
+      "identifier": "plus"
+    },
+    "plus-circle": {
+      "codepoint": 58007,
+      "fontFamily": "Jam",
+      "identifier": "plusCircle"
+    },
+    "plus-circle-f": {
+      "codepoint": 58008,
+      "fontFamily": "Jam",
+      "identifier": "plusCircleF"
+    },
+    "plus-rectangle": {
+      "codepoint": 58009,
+      "fontFamily": "Jam",
+      "identifier": "plusRectangle"
+    },
+    "plus-rectangle-f": {
+      "codepoint": 58010,
+      "fontFamily": "Jam",
+      "identifier": "plusRectangleF"
+    },
+    "pocket-watch": {
+      "codepoint": 58011,
+      "fontFamily": "Jam",
+      "identifier": "pocketWatch"
+    },
+    "pocket-watch-f": {
+      "codepoint": 58012,
+      "fontFamily": "Jam",
+      "identifier": "pocketWatchF"
+    },
+    "podcast": {
+      "codepoint": 58013,
+      "fontFamily": "Jam",
+      "identifier": "podcast"
+    },
+    "power": {
+      "codepoint": 58014,
+      "fontFamily": "Jam",
+      "identifier": "power"
+    },
+    "printer": {
+      "codepoint": 58015,
+      "fontFamily": "Jam",
+      "identifier": "printer"
+    },
+    "printer-f": {
+      "codepoint": 58016,
+      "fontFamily": "Jam",
+      "identifier": "printerF"
+    },
+    "qr-code": {
+      "codepoint": 58017,
+      "fontFamily": "Jam",
+      "identifier": "qrCode"
+    },
+    "quora": {
+      "codepoint": 58018,
+      "fontFamily": "Jam",
+      "identifier": "quora"
+    },
+    "quora-circle": {
+      "codepoint": 58019,
+      "fontFamily": "Jam",
+      "identifier": "quoraCircle"
+    },
+    "quora-square": {
+      "codepoint": 58020,
+      "fontFamily": "Jam",
+      "identifier": "quoraSquare"
+    },
+    "quote": {
+      "codepoint": 58021,
+      "fontFamily": "Jam",
+      "identifier": "quote"
+    },
+    "rainbow": {
+      "codepoint": 58022,
+      "fontFamily": "Jam",
+      "identifier": "rainbow"
+    },
+    "rec": {
+      "codepoint": 58023,
+      "fontFamily": "Jam",
+      "identifier": "rec"
+    },
+    "rectangle": {
+      "codepoint": 58024,
+      "fontFamily": "Jam",
+      "identifier": "rectangle"
+    },
+    "rectangle-f": {
+      "codepoint": 58025,
+      "fontFamily": "Jam",
+      "identifier": "rectangleF"
+    },
+    "reddit": {
+      "codepoint": 58026,
+      "fontFamily": "Jam",
+      "identifier": "reddit"
+    },
+    "redo": {
+      "codepoint": 58027,
+      "fontFamily": "Jam",
+      "identifier": "redo"
+    },
+    "refresh": {
+      "codepoint": 58028,
+      "fontFamily": "Jam",
+      "identifier": "refresh"
+    },
+    "refresh-reverse": {
+      "codepoint": 58029,
+      "fontFamily": "Jam",
+      "identifier": "refreshReverse"
+    },
+    "repeat": {
+      "codepoint": 58030,
+      "fontFamily": "Jam",
+      "identifier": "repeat"
+    },
+    "rocket": {
+      "codepoint": 58031,
+      "fontFamily": "Jam",
+      "identifier": "rocket"
+    },
+    "rocket-f": {
+      "codepoint": 58032,
+      "fontFamily": "Jam",
+      "identifier": "rocketF"
+    },
+    "rss-feed": {
+      "codepoint": 58033,
+      "fontFamily": "Jam",
+      "identifier": "rssFeed"
+    },
+    "rtl": {
+      "codepoint": 58034,
+      "fontFamily": "Jam",
+      "identifier": "rtl"
+    },
+    "rubber": {
+      "codepoint": 58035,
+      "fontFamily": "Jam",
+      "identifier": "rubber"
+    },
+    "ruler": {
+      "codepoint": 58036,
+      "fontFamily": "Jam",
+      "identifier": "ruler"
+    },
+    "ruler-f": {
+      "codepoint": 58037,
+      "fontFamily": "Jam",
+      "identifier": "rulerF"
+    },
+    "save": {
+      "codepoint": 58038,
+      "fontFamily": "Jam",
+      "identifier": "save"
+    },
+    "save-f": {
+      "codepoint": 58039,
+      "fontFamily": "Jam",
+      "identifier": "saveF"
+    },
+    "scissors": {
+      "codepoint": 58040,
+      "fontFamily": "Jam",
+      "identifier": "scissors"
+    },
+    "screen": {
+      "codepoint": 58041,
+      "fontFamily": "Jam",
+      "identifier": "screen"
+    },
+    "screen-f": {
+      "codepoint": 58042,
+      "fontFamily": "Jam",
+      "identifier": "screenF"
+    },
+    "screwdriver": {
+      "codepoint": 58043,
+      "fontFamily": "Jam",
+      "identifier": "screwdriver"
+    },
+    "screwdriver-f": {
+      "codepoint": 58044,
+      "fontFamily": "Jam",
+      "identifier": "screwdriverF"
+    },
+    "search": {
+      "codepoint": 58045,
+      "fontFamily": "Jam",
+      "identifier": "search"
+    },
+    "search-folder": {
+      "codepoint": 58046,
+      "fontFamily": "Jam",
+      "identifier": "searchFolder"
+    },
+    "search-minus": {
+      "codepoint": 58047,
+      "fontFamily": "Jam",
+      "identifier": "searchMinus"
+    },
+    "search-plus": {
+      "codepoint": 58048,
+      "fontFamily": "Jam",
+      "identifier": "searchPlus"
+    },
+    "select-all": {
+      "codepoint": 58049,
+      "fontFamily": "Jam",
+      "identifier": "selectAll"
+    },
+    "set-backward": {
+      "codepoint": 58050,
+      "fontFamily": "Jam",
+      "identifier": "setBackward"
+    },
+    "set-backward-circle": {
+      "codepoint": 58051,
+      "fontFamily": "Jam",
+      "identifier": "setBackwardCircle"
+    },
+    "set-backward-circle-f": {
+      "codepoint": 58052,
+      "fontFamily": "Jam",
+      "identifier": "setBackwardCircleF"
+    },
+    "set-backward-square": {
+      "codepoint": 58053,
+      "fontFamily": "Jam",
+      "identifier": "setBackwardSquare"
+    },
+    "set-backward-square-f": {
+      "codepoint": 58054,
+      "fontFamily": "Jam",
+      "identifier": "setBackwardSquareF"
+    },
+    "set-forward": {
+      "codepoint": 58055,
+      "fontFamily": "Jam",
+      "identifier": "setForward"
+    },
+    "set-forward-circle": {
+      "codepoint": 58056,
+      "fontFamily": "Jam",
+      "identifier": "setForwardCircle"
+    },
+    "set-forward-circle-f": {
+      "codepoint": 58057,
+      "fontFamily": "Jam",
+      "identifier": "setForwardCircleF"
+    },
+    "set-forward-square": {
+      "codepoint": 58058,
+      "fontFamily": "Jam",
+      "identifier": "setForwardSquare"
+    },
+    "set-forward-square-f": {
+      "codepoint": 58059,
+      "fontFamily": "Jam",
+      "identifier": "setForwardSquareF"
+    },
+    "set-square": {
+      "codepoint": 58060,
+      "fontFamily": "Jam",
+      "identifier": "setSquare"
+    },
+    "set-square-f": {
+      "codepoint": 58061,
+      "fontFamily": "Jam",
+      "identifier": "setSquareF"
+    },
+    "settings-alt": {
+      "codepoint": 58062,
+      "fontFamily": "Jam",
+      "identifier": "settingsAlt"
+    },
+    "share": {
+      "codepoint": 58063,
+      "fontFamily": "Jam",
+      "identifier": "share"
+    },
+    "share-alt": {
+      "codepoint": 58064,
+      "fontFamily": "Jam",
+      "identifier": "shareAlt"
+    },
+    "share-alt-f": {
+      "codepoint": 58065,
+      "fontFamily": "Jam",
+      "identifier": "shareAltF"
+    },
+    "shield": {
+      "codepoint": 58066,
+      "fontFamily": "Jam",
+      "identifier": "shield"
+    },
+    "shield-check": {
+      "codepoint": 58067,
+      "fontFamily": "Jam",
+      "identifier": "shieldCheck"
+    },
+    "shield-check-f": {
+      "codepoint": 58068,
+      "fontFamily": "Jam",
+      "identifier": "shieldCheckF"
+    },
+    "shield-close": {
+      "codepoint": 58069,
+      "fontFamily": "Jam",
+      "identifier": "shieldClose"
+    },
+    "shield-close-f": {
+      "codepoint": 58070,
+      "fontFamily": "Jam",
+      "identifier": "shieldCloseF"
+    },
+    "shield-f": {
+      "codepoint": 58071,
+      "fontFamily": "Jam",
+      "identifier": "shieldF"
+    },
+    "shield-half": {
+      "codepoint": 58072,
+      "fontFamily": "Jam",
+      "identifier": "shieldHalf"
+    },
+    "shield-minus": {
+      "codepoint": 58073,
+      "fontFamily": "Jam",
+      "identifier": "shieldMinus"
+    },
+    "shield-minus-f": {
+      "codepoint": 58074,
+      "fontFamily": "Jam",
+      "identifier": "shieldMinusF"
+    },
+    "shield-plus": {
+      "codepoint": 58075,
+      "fontFamily": "Jam",
+      "identifier": "shieldPlus"
+    },
+    "shield-plus-f": {
+      "codepoint": 58076,
+      "fontFamily": "Jam",
+      "identifier": "shieldPlusF"
+    },
+    "shopify": {
+      "codepoint": 58077,
+      "fontFamily": "Jam",
+      "identifier": "shopify"
+    },
+    "shopify-circle": {
+      "codepoint": 58078,
+      "fontFamily": "Jam",
+      "identifier": "shopifyCircle"
+    },
+    "shopify-square": {
+      "codepoint": 58079,
+      "fontFamily": "Jam",
+      "identifier": "shopifySquare"
+    },
+    "shopping-bag": {
+      "codepoint": 58080,
+      "fontFamily": "Jam",
+      "identifier": "shoppingBag"
+    },
+    "shopping-bag-alt": {
+      "codepoint": 58081,
+      "fontFamily": "Jam",
+      "identifier": "shoppingBagAlt"
+    },
+    "shopping-bag-alt-f": {
+      "codepoint": 58082,
+      "fontFamily": "Jam",
+      "identifier": "shoppingBagAltF"
+    },
+    "shopping-bag-f": {
+      "codepoint": 58083,
+      "fontFamily": "Jam",
+      "identifier": "shoppingBagF"
+    },
+    "shopping-cart": {
+      "codepoint": 58084,
+      "fontFamily": "Jam",
+      "identifier": "shoppingCart"
+    },
+    "shuffle": {
+      "codepoint": 58085,
+      "fontFamily": "Jam",
+      "identifier": "shuffle"
+    },
+    "signal": {
+      "codepoint": 58086,
+      "fontFamily": "Jam",
+      "identifier": "signal"
+    },
+    "sitemap": {
+      "codepoint": 58087,
+      "fontFamily": "Jam",
+      "identifier": "sitemap"
+    },
+    "sitemap-f": {
+      "codepoint": 58088,
+      "fontFamily": "Jam",
+      "identifier": "sitemapF"
+    },
+    "skull": {
+      "codepoint": 58089,
+      "fontFamily": "Jam",
+      "identifier": "skull"
+    },
+    "skull-f": {
+      "codepoint": 58090,
+      "fontFamily": "Jam",
+      "identifier": "skullF"
+    },
+    "skype": {
+      "codepoint": 58091,
+      "fontFamily": "Jam",
+      "identifier": "skype"
+    },
+    "skype-circle": {
+      "codepoint": 58092,
+      "fontFamily": "Jam",
+      "identifier": "skypeCircle"
+    },
+    "skype-square": {
+      "codepoint": 58093,
+      "fontFamily": "Jam",
+      "identifier": "skypeSquare"
+    },
+    "slack": {
+      "codepoint": 58094,
+      "fontFamily": "Jam",
+      "identifier": "slack"
+    },
+    "slack-circle": {
+      "codepoint": 58095,
+      "fontFamily": "Jam",
+      "identifier": "slackCircle"
+    },
+    "slack-square": {
+      "codepoint": 58096,
+      "fontFamily": "Jam",
+      "identifier": "slackSquare"
+    },
+    "smiley": {
+      "codepoint": 58097,
+      "fontFamily": "Jam",
+      "identifier": "smiley"
+    },
+    "smiley-f": {
+      "codepoint": 58098,
+      "fontFamily": "Jam",
+      "identifier": "smileyF"
+    },
+    "snapchat": {
+      "codepoint": 58099,
+      "fontFamily": "Jam",
+      "identifier": "snapchat"
+    },
+    "snapchat-circle": {
+      "codepoint": 58100,
+      "fontFamily": "Jam",
+      "identifier": "snapchatCircle"
+    },
+    "snapchat-square": {
+      "codepoint": 58101,
+      "fontFamily": "Jam",
+      "identifier": "snapchatSquare"
+    },
+    "snowboard": {
+      "codepoint": 58102,
+      "fontFamily": "Jam",
+      "identifier": "snowboard"
+    },
+    "snowboard-f": {
+      "codepoint": 58103,
+      "fontFamily": "Jam",
+      "identifier": "snowboardF"
+    },
+    "snowflake": {
+      "codepoint": 58104,
+      "fontFamily": "Jam",
+      "identifier": "snowflake"
+    },
+    "soundcloud": {
+      "codepoint": 58105,
+      "fontFamily": "Jam",
+      "identifier": "soundcloud"
+    },
+    "speaker": {
+      "codepoint": 58106,
+      "fontFamily": "Jam",
+      "identifier": "speaker"
+    },
+    "speaker-f": {
+      "codepoint": 58107,
+      "fontFamily": "Jam",
+      "identifier": "speakerF"
+    },
+    "spell-check": {
+      "codepoint": 58108,
+      "fontFamily": "Jam",
+      "identifier": "spellCheck"
+    },
+    "spotify": {
+      "codepoint": 58109,
+      "fontFamily": "Jam",
+      "identifier": "spotify"
+    },
+    "square": {
+      "codepoint": 58110,
+      "fontFamily": "Jam",
+      "identifier": "square"
+    },
+    "square-f": {
+      "codepoint": 58111,
+      "fontFamily": "Jam",
+      "identifier": "squareF"
+    },
+    "squarespace": {
+      "codepoint": 58112,
+      "fontFamily": "Jam",
+      "identifier": "squarespace"
+    },
+    "squarespace-circle": {
+      "codepoint": 58113,
+      "fontFamily": "Jam",
+      "identifier": "squarespaceCircle"
+    },
+    "squarespace-square": {
+      "codepoint": 58114,
+      "fontFamily": "Jam",
+      "identifier": "squarespaceSquare"
+    },
+    "stackoverflow": {
+      "codepoint": 58115,
+      "fontFamily": "Jam",
+      "identifier": "stackoverflow"
+    },
+    "stackoverflow-circle": {
+      "codepoint": 58116,
+      "fontFamily": "Jam",
+      "identifier": "stackoverflowCircle"
+    },
+    "stackoverflow-square": {
+      "codepoint": 58117,
+      "fontFamily": "Jam",
+      "identifier": "stackoverflowSquare"
+    },
+    "stamp": {
+      "codepoint": 58118,
+      "fontFamily": "Jam",
+      "identifier": "stamp"
+    },
+    "stamp-f": {
+      "codepoint": 58119,
+      "fontFamily": "Jam",
+      "identifier": "stampF"
+    },
+    "star": {
+      "codepoint": 58120,
+      "fontFamily": "Jam",
+      "identifier": "star"
+    },
+    "star-f": {
+      "codepoint": 58121,
+      "fontFamily": "Jam",
+      "identifier": "starF"
+    },
+    "star-full": {
+      "codepoint": 58122,
+      "fontFamily": "Jam",
+      "identifier": "starFull"
+    },
+    "star-half": {
+      "codepoint": 58123,
+      "fontFamily": "Jam",
+      "identifier": "starHalf"
+    },
+    "star-half-f": {
+      "codepoint": 58124,
+      "fontFamily": "Jam",
+      "identifier": "starHalfF"
+    },
+    "station": {
+      "codepoint": 58125,
+      "fontFamily": "Jam",
+      "identifier": "station"
+    },
+    "stop": {
+      "codepoint": 58126,
+      "fontFamily": "Jam",
+      "identifier": "stop"
+    },
+    "stop-sign": {
+      "codepoint": 58127,
+      "fontFamily": "Jam",
+      "identifier": "stopSign"
+    },
+    "store": {
+      "codepoint": 58128,
+      "fontFamily": "Jam",
+      "identifier": "store"
+    },
+    "strikethrough": {
+      "codepoint": 58129,
+      "fontFamily": "Jam",
+      "identifier": "strikethrough"
+    },
+    "stumbleupon": {
+      "codepoint": 58130,
+      "fontFamily": "Jam",
+      "identifier": "stumbleupon"
+    },
+    "stumbleupon-circle": {
+      "codepoint": 58131,
+      "fontFamily": "Jam",
+      "identifier": "stumbleuponCircle"
+    },
+    "stumbleupon-square": {
+      "codepoint": 58132,
+      "fontFamily": "Jam",
+      "identifier": "stumbleuponSquare"
+    },
+    "subscript": {
+      "codepoint": 58133,
+      "fontFamily": "Jam",
+      "identifier": "subscript"
+    },
+    "subtraction": {
+      "codepoint": 58134,
+      "fontFamily": "Jam",
+      "identifier": "subtraction"
+    },
+    "sun": {
+      "codepoint": 58135,
+      "fontFamily": "Jam",
+      "identifier": "sun"
+    },
+    "sun-f": {
+      "codepoint": 58136,
+      "fontFamily": "Jam",
+      "identifier": "sunF"
+    },
+    "superscript": {
+      "codepoint": 58137,
+      "fontFamily": "Jam",
+      "identifier": "superscript"
+    },
+    "switch-left": {
+      "codepoint": 58138,
+      "fontFamily": "Jam",
+      "identifier": "switchLeft"
+    },
+    "switch-left-f": {
+      "codepoint": 58139,
+      "fontFamily": "Jam",
+      "identifier": "switchLeftF"
+    },
+    "switch-right": {
+      "codepoint": 58140,
+      "fontFamily": "Jam",
+      "identifier": "switchRight"
+    },
+    "switch-right-f": {
+      "codepoint": 58141,
+      "fontFamily": "Jam",
+      "identifier": "switchRightF"
+    },
+    "sword": {
+      "codepoint": 58142,
+      "fontFamily": "Jam",
+      "identifier": "sword"
+    },
+    "sword-f": {
+      "codepoint": 58143,
+      "fontFamily": "Jam",
+      "identifier": "swordF"
+    },
+    "tab": {
+      "codepoint": 58144,
+      "fontFamily": "Jam",
+      "identifier": "tab"
+    },
+    "table": {
+      "codepoint": 58145,
+      "fontFamily": "Jam",
+      "identifier": "table"
+    },
+    "table-cell": {
+      "codepoint": 58146,
+      "fontFamily": "Jam",
+      "identifier": "tableCell"
+    },
+    "table-cell-merge": {
+      "codepoint": 58147,
+      "fontFamily": "Jam",
+      "identifier": "tableCellMerge"
+    },
+    "table-col-after": {
+      "codepoint": 58148,
+      "fontFamily": "Jam",
+      "identifier": "tableColAfter"
+    },
+    "table-col-before": {
+      "codepoint": 58149,
+      "fontFamily": "Jam",
+      "identifier": "tableColBefore"
+    },
+    "table-delete": {
+      "codepoint": 58150,
+      "fontFamily": "Jam",
+      "identifier": "tableDelete"
+    },
+    "table-left-header": {
+      "codepoint": 58151,
+      "fontFamily": "Jam",
+      "identifier": "tableLeftHeader"
+    },
+    "table-right-header": {
+      "codepoint": 58152,
+      "fontFamily": "Jam",
+      "identifier": "tableRightHeader"
+    },
+    "table-row-above": {
+      "codepoint": 58153,
+      "fontFamily": "Jam",
+      "identifier": "tableRowAbove"
+    },
+    "table-row-after": {
+      "codepoint": 58154,
+      "fontFamily": "Jam",
+      "identifier": "tableRowAfter"
+    },
+    "table-top-header": {
+      "codepoint": 58155,
+      "fontFamily": "Jam",
+      "identifier": "tableTopHeader"
+    },
+    "tablet": {
+      "codepoint": 58156,
+      "fontFamily": "Jam",
+      "identifier": "tablet"
+    },
+    "tablet-f": {
+      "codepoint": 58157,
+      "fontFamily": "Jam",
+      "identifier": "tabletF"
+    },
+    "tag": {
+      "codepoint": 58158,
+      "fontFamily": "Jam",
+      "identifier": "tag"
+    },
+    "tag-f": {
+      "codepoint": 58159,
+      "fontFamily": "Jam",
+      "identifier": "tagF"
+    },
+    "tags": {
+      "codepoint": 58160,
+      "fontFamily": "Jam",
+      "identifier": "tags"
+    },
+    "tags-f": {
+      "codepoint": 58161,
+      "fontFamily": "Jam",
+      "identifier": "tagsF"
+    },
+    "target": {
+      "codepoint": 58162,
+      "fontFamily": "Jam",
+      "identifier": "target"
+    },
+    "task-list": {
+      "codepoint": 58163,
+      "fontFamily": "Jam",
+      "identifier": "taskList"
+    },
+    "task-list-f": {
+      "codepoint": 58164,
+      "fontFamily": "Jam",
+      "identifier": "taskListF"
+    },
+    "telegram": {
+      "codepoint": 58165,
+      "fontFamily": "Jam",
+      "identifier": "telegram"
+    },
+    "temperature": {
+      "codepoint": 58166,
+      "fontFamily": "Jam",
+      "identifier": "temperature"
+    },
+    "template": {
+      "codepoint": 58167,
+      "fontFamily": "Jam",
+      "identifier": "template"
+    },
+    "terminal": {
+      "codepoint": 58168,
+      "fontFamily": "Jam",
+      "identifier": "terminal"
+    },
+    "text": {
+      "codepoint": 58169,
+      "fontFamily": "Jam",
+      "identifier": "text"
+    },
+    "thunder": {
+      "codepoint": 58170,
+      "fontFamily": "Jam",
+      "identifier": "thunder"
+    },
+    "thunder-f": {
+      "codepoint": 58171,
+      "fontFamily": "Jam",
+      "identifier": "thunderF"
+    },
+    "ticket": {
+      "codepoint": 58172,
+      "fontFamily": "Jam",
+      "identifier": "ticket"
+    },
+    "ticket-f": {
+      "codepoint": 58173,
+      "fontFamily": "Jam",
+      "identifier": "ticketF"
+    },
+    "tools": {
+      "codepoint": 58174,
+      "fontFamily": "Jam",
+      "identifier": "tools"
+    },
+    "tools-f": {
+      "codepoint": 58175,
+      "fontFamily": "Jam",
+      "identifier": "toolsF"
+    },
+    "torch": {
+      "codepoint": 58176,
+      "fontFamily": "Jam",
+      "identifier": "torch"
+    },
+    "torch-f": {
+      "codepoint": 58177,
+      "fontFamily": "Jam",
+      "identifier": "torchF"
+    },
+    "totem": {
+      "codepoint": 58178,
+      "fontFamily": "Jam",
+      "identifier": "totem"
+    },
+    "train": {
+      "codepoint": 58179,
+      "fontFamily": "Jam",
+      "identifier": "train"
+    },
+    "train-f": {
+      "codepoint": 58180,
+      "fontFamily": "Jam",
+      "identifier": "trainF"
+    },
+    "transgender": {
+      "codepoint": 58181,
+      "fontFamily": "Jam",
+      "identifier": "transgender"
+    },
+    "trash": {
+      "codepoint": 58182,
+      "fontFamily": "Jam",
+      "identifier": "trash"
+    },
+    "trash-alt": {
+      "codepoint": 58183,
+      "fontFamily": "Jam",
+      "identifier": "trashAlt"
+    },
+    "trash-alt-f": {
+      "codepoint": 58184,
+      "fontFamily": "Jam",
+      "identifier": "trashAltF"
+    },
+    "trash-f": {
+      "codepoint": 58185,
+      "fontFamily": "Jam",
+      "identifier": "trashF"
+    },
+    "tree": {
+      "codepoint": 58186,
+      "fontFamily": "Jam",
+      "identifier": "tree"
+    },
+    "tree-alt": {
+      "codepoint": 58187,
+      "fontFamily": "Jam",
+      "identifier": "treeAlt"
+    },
+    "tree-alt-f": {
+      "codepoint": 58188,
+      "fontFamily": "Jam",
+      "identifier": "treeAltF"
+    },
+    "tree-f": {
+      "codepoint": 58189,
+      "fontFamily": "Jam",
+      "identifier": "treeF"
+    },
+    "trello": {
+      "codepoint": 58190,
+      "fontFamily": "Jam",
+      "identifier": "trello"
+    },
+    "triangle": {
+      "codepoint": 58191,
+      "fontFamily": "Jam",
+      "identifier": "triangle"
+    },
+    "triangle-danger": {
+      "codepoint": 58192,
+      "fontFamily": "Jam",
+      "identifier": "triangleDanger"
+    },
+    "triangle-danger-f": {
+      "codepoint": 58193,
+      "fontFamily": "Jam",
+      "identifier": "triangleDangerF"
+    },
+    "triangle-f": {
+      "codepoint": 58194,
+      "fontFamily": "Jam",
+      "identifier": "triangleF"
+    },
+    "trophy": {
+      "codepoint": 58195,
+      "fontFamily": "Jam",
+      "identifier": "trophy"
+    },
+    "trophy-f": {
+      "codepoint": 58196,
+      "fontFamily": "Jam",
+      "identifier": "trophyF"
+    },
+    "tube": {
+      "codepoint": 58197,
+      "fontFamily": "Jam",
+      "identifier": "tube"
+    },
+    "tumblr": {
+      "codepoint": 58198,
+      "fontFamily": "Jam",
+      "identifier": "tumblr"
+    },
+    "tumblr-circle": {
+      "codepoint": 58199,
+      "fontFamily": "Jam",
+      "identifier": "tumblrCircle"
+    },
+    "tumblr-square": {
+      "codepoint": 58200,
+      "fontFamily": "Jam",
+      "identifier": "tumblrSquare"
+    },
+    "twitch": {
+      "codepoint": 58201,
+      "fontFamily": "Jam",
+      "identifier": "twitch"
+    },
+    "twitter": {
+      "codepoint": 58202,
+      "fontFamily": "Jam",
+      "identifier": "twitter"
+    },
+    "twitter-circle": {
+      "codepoint": 58203,
+      "fontFamily": "Jam",
+      "identifier": "twitterCircle"
+    },
+    "twitter-square": {
+      "codepoint": 58204,
+      "fontFamily": "Jam",
+      "identifier": "twitterSquare"
+    },
+    "umbrella": {
+      "codepoint": 58205,
+      "fontFamily": "Jam",
+      "identifier": "umbrella"
+    },
+    "umbrella-closed": {
+      "codepoint": 58206,
+      "fontFamily": "Jam",
+      "identifier": "umbrellaClosed"
+    },
+    "umbrella-closed-f": {
+      "codepoint": 58207,
+      "fontFamily": "Jam",
+      "identifier": "umbrellaClosedF"
+    },
+    "umbrella-f": {
+      "codepoint": 58208,
+      "fontFamily": "Jam",
+      "identifier": "umbrellaF"
+    },
+    "underline": {
+      "codepoint": 58209,
+      "fontFamily": "Jam",
+      "identifier": "underline"
+    },
+    "undo": {
+      "codepoint": 58210,
+      "fontFamily": "Jam",
+      "identifier": "undo"
+    },
+    "unindent": {
+      "codepoint": 58211,
+      "fontFamily": "Jam",
+      "identifier": "unindent"
+    },
+    "union": {
+      "codepoint": 58212,
+      "fontFamily": "Jam",
+      "identifier": "union"
+    },
+    "universe": {
+      "codepoint": 58213,
+      "fontFamily": "Jam",
+      "identifier": "universe"
+    },
+    "unlink": {
+      "codepoint": 58214,
+      "fontFamily": "Jam",
+      "identifier": "unlink"
+    },
+    "unordered-list": {
+      "codepoint": 58215,
+      "fontFamily": "Jam",
+      "identifier": "unorderedList"
+    },
+    "unsplash": {
+      "codepoint": 58216,
+      "fontFamily": "Jam",
+      "identifier": "unsplash"
+    },
+    "unsplash-circle": {
+      "codepoint": 58217,
+      "fontFamily": "Jam",
+      "identifier": "unsplashCircle"
+    },
+    "unsplash-square": {
+      "codepoint": 58218,
+      "fontFamily": "Jam",
+      "identifier": "unsplashSquare"
+    },
+    "upload": {
+      "codepoint": 58219,
+      "fontFamily": "Jam",
+      "identifier": "upload"
+    },
+    "user": {
+      "codepoint": 58220,
+      "fontFamily": "Jam",
+      "identifier": "user"
+    },
+    "user-circle": {
+      "codepoint": 58221,
+      "fontFamily": "Jam",
+      "identifier": "userCircle"
+    },
+    "user-minus": {
+      "codepoint": 58222,
+      "fontFamily": "Jam",
+      "identifier": "userMinus"
+    },
+    "user-plus": {
+      "codepoint": 58223,
+      "fontFamily": "Jam",
+      "identifier": "userPlus"
+    },
+    "user-remove": {
+      "codepoint": 58224,
+      "fontFamily": "Jam",
+      "identifier": "userRemove"
+    },
+    "user-square": {
+      "codepoint": 58225,
+      "fontFamily": "Jam",
+      "identifier": "userSquare"
+    },
+    "users": {
+      "codepoint": 58226,
+      "fontFamily": "Jam",
+      "identifier": "users"
+    },
+    "viadeo": {
+      "codepoint": 58227,
+      "fontFamily": "Jam",
+      "identifier": "viadeo"
+    },
+    "viber": {
+      "codepoint": 58228,
+      "fontFamily": "Jam",
+      "identifier": "viber"
+    },
+    "viber-circle": {
+      "codepoint": 58229,
+      "fontFamily": "Jam",
+      "identifier": "viberCircle"
+    },
+    "viber-square": {
+      "codepoint": 58230,
+      "fontFamily": "Jam",
+      "identifier": "viberSquare"
+    },
+    "video-camera": {
+      "codepoint": 58231,
+      "fontFamily": "Jam",
+      "identifier": "videoCamera"
+    },
+    "video-camera-f": {
+      "codepoint": 58232,
+      "fontFamily": "Jam",
+      "identifier": "videoCameraF"
+    },
+    "video-camera-vintage": {
+      "codepoint": 58233,
+      "fontFamily": "Jam",
+      "identifier": "videoCameraVintage"
+    },
+    "video-camera-vintage-f": {
+      "codepoint": 58234,
+      "fontFamily": "Jam",
+      "identifier": "videoCameraVintageF"
+    },
+    "vimeo": {
+      "codepoint": 58235,
+      "fontFamily": "Jam",
+      "identifier": "vimeo"
+    },
+    "vimeo-circle": {
+      "codepoint": 58236,
+      "fontFamily": "Jam",
+      "identifier": "vimeoCircle"
+    },
+    "vimeo-square": {
+      "codepoint": 58237,
+      "fontFamily": "Jam",
+      "identifier": "vimeoSquare"
+    },
+    "vine": {
+      "codepoint": 58238,
+      "fontFamily": "Jam",
+      "identifier": "vine"
+    },
+    "vine-circle": {
+      "codepoint": 58239,
+      "fontFamily": "Jam",
+      "identifier": "vineCircle"
+    },
+    "vine-square": {
+      "codepoint": 58240,
+      "fontFamily": "Jam",
+      "identifier": "vineSquare"
+    },
+    "voicemail": {
+      "codepoint": 58241,
+      "fontFamily": "Jam",
+      "identifier": "voicemail"
+    },
+    "volume": {
+      "codepoint": 58242,
+      "fontFamily": "Jam",
+      "identifier": "volume"
+    },
+    "volume-circle": {
+      "codepoint": 58243,
+      "fontFamily": "Jam",
+      "identifier": "volumeCircle"
+    },
+    "volume-circle-f": {
+      "codepoint": 58244,
+      "fontFamily": "Jam",
+      "identifier": "volumeCircleF"
+    },
+    "volume-down": {
+      "codepoint": 58245,
+      "fontFamily": "Jam",
+      "identifier": "volumeDown"
+    },
+    "volume-down-circle": {
+      "codepoint": 58246,
+      "fontFamily": "Jam",
+      "identifier": "volumeDownCircle"
+    },
+    "volume-down-circle-f": {
+      "codepoint": 58247,
+      "fontFamily": "Jam",
+      "identifier": "volumeDownCircleF"
+    },
+    "volume-down-square": {
+      "codepoint": 58248,
+      "fontFamily": "Jam",
+      "identifier": "volumeDownSquare"
+    },
+    "volume-down-square-f": {
+      "codepoint": 58249,
+      "fontFamily": "Jam",
+      "identifier": "volumeDownSquareF"
+    },
+    "volume-mute": {
+      "codepoint": 58250,
+      "fontFamily": "Jam",
+      "identifier": "volumeMute"
+    },
+    "volume-mute-circle": {
+      "codepoint": 58251,
+      "fontFamily": "Jam",
+      "identifier": "volumeMuteCircle"
+    },
+    "volume-mute-circle-f": {
+      "codepoint": 58252,
+      "fontFamily": "Jam",
+      "identifier": "volumeMuteCircleF"
+    },
+    "volume-mute-square": {
+      "codepoint": 58253,
+      "fontFamily": "Jam",
+      "identifier": "volumeMuteSquare"
+    },
+    "volume-mute-square-f": {
+      "codepoint": 58254,
+      "fontFamily": "Jam",
+      "identifier": "volumeMuteSquareF"
+    },
+    "volume-square": {
+      "codepoint": 58255,
+      "fontFamily": "Jam",
+      "identifier": "volumeSquare"
+    },
+    "volume-square-f": {
+      "codepoint": 58256,
+      "fontFamily": "Jam",
+      "identifier": "volumeSquareF"
+    },
+    "volume-up": {
+      "codepoint": 58257,
+      "fontFamily": "Jam",
+      "identifier": "volumeUp"
+    },
+    "volume-up-circle": {
+      "codepoint": 58258,
+      "fontFamily": "Jam",
+      "identifier": "volumeUpCircle"
+    },
+    "volume-up-circle-f": {
+      "codepoint": 58259,
+      "fontFamily": "Jam",
+      "identifier": "volumeUpCircleF"
+    },
+    "volume-up-square": {
+      "codepoint": 58260,
+      "fontFamily": "Jam",
+      "identifier": "volumeUpSquare"
+    },
+    "volume-up-square-f": {
+      "codepoint": 58261,
+      "fontFamily": "Jam",
+      "identifier": "volumeUpSquareF"
+    },
+    "watch": {
+      "codepoint": 58262,
+      "fontFamily": "Jam",
+      "identifier": "watch"
+    },
+    "watch-f": {
+      "codepoint": 58263,
+      "fontFamily": "Jam",
+      "identifier": "watchF"
+    },
+    "water-drop": {
+      "codepoint": 58264,
+      "fontFamily": "Jam",
+      "identifier": "waterDrop"
+    },
+    "water-drop-f": {
+      "codepoint": 58265,
+      "fontFamily": "Jam",
+      "identifier": "waterDropF"
+    },
+    "whatsapp": {
+      "codepoint": 58266,
+      "fontFamily": "Jam",
+      "identifier": "whatsapp"
+    },
+    "wifi": {
+      "codepoint": 58267,
+      "fontFamily": "Jam",
+      "identifier": "wifi"
+    },
+    "wikipedia": {
+      "codepoint": 58268,
+      "fontFamily": "Jam",
+      "identifier": "wikipedia"
+    },
+    "wordpress": {
+      "codepoint": 58269,
+      "fontFamily": "Jam",
+      "identifier": "wordpress"
+    },
+    "world": {
+      "codepoint": 58270,
+      "fontFamily": "Jam",
+      "identifier": "world"
+    },
+    "wrench": {
+      "codepoint": 58271,
+      "fontFamily": "Jam",
+      "identifier": "wrench"
+    },
+    "wrench-f": {
+      "codepoint": 58272,
+      "fontFamily": "Jam",
+      "identifier": "wrenchF"
+    },
+    "write": {
+      "codepoint": 58273,
+      "fontFamily": "Jam",
+      "identifier": "write"
+    },
+    "write-f": {
+      "codepoint": 58274,
+      "fontFamily": "Jam",
+      "identifier": "writeF"
+    },
+    "yahoo": {
+      "codepoint": 58275,
+      "fontFamily": "Jam",
+      "identifier": "yahoo"
+    },
+    "yahoo-circle": {
+      "codepoint": 58276,
+      "fontFamily": "Jam",
+      "identifier": "yahooCircle"
+    },
+    "yahoo-square": {
+      "codepoint": 58277,
+      "fontFamily": "Jam",
+      "identifier": "yahooSquare"
+    },
+    "yelp": {
+      "codepoint": 58278,
+      "fontFamily": "Jam",
+      "identifier": "yelp"
+    },
+    "yelp-circle": {
+      "codepoint": 58279,
+      "fontFamily": "Jam",
+      "identifier": "yelpCircle"
+    },
+    "yelp-square": {
+      "codepoint": 58280,
+      "fontFamily": "Jam",
+      "identifier": "yelpSquare"
+    },
+    "youtube": {
+      "codepoint": 58281,
+      "fontFamily": "Jam",
+      "identifier": "youtube"
+    },
+    "youtube-circle": {
+      "codepoint": 58282,
+      "fontFamily": "Jam",
+      "identifier": "youtubeCircle"
+    },
+    "youtube-square": {
+      "codepoint": 58283,
+      "fontFamily": "Jam",
+      "identifier": "youtubeSquare"
+    }
+  }
+}

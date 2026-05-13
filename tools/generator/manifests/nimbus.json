@@ -1,0 +1,730 @@
+{
+  "schemaVersion": 1,
+  "prefix": "nimbus",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 16px / 32px",
+  "subPackage": "iconifyx_nimbus",
+  "info": {
+    "name": "Nimbus",
+    "author": {
+      "name": "Linkedstore S.A.",
+      "url": "https://github.com/cyberalien/nimbus-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/cyberalien/nimbus-icons/blob/main/LICENSE"
+    },
+    "total": 140
+  },
+  "fonts": [
+    {
+      "family": "Nimbus",
+      "nextCodepoint": 57484,
+      "iconCount": 140
+    }
+  ],
+  "icons": {
+    "accordion": {
+      "codepoint": 57344,
+      "fontFamily": "Nimbus",
+      "identifier": "accordion"
+    },
+    "align-center": {
+      "codepoint": 57345,
+      "fontFamily": "Nimbus",
+      "identifier": "alignCenter"
+    },
+    "align-left": {
+      "codepoint": 57346,
+      "fontFamily": "Nimbus",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57347,
+      "fontFamily": "Nimbus",
+      "identifier": "alignRight"
+    },
+    "apps": {
+      "codepoint": 57348,
+      "fontFamily": "Nimbus",
+      "identifier": "apps"
+    },
+    "archive": {
+      "codepoint": 57349,
+      "fontFamily": "Nimbus",
+      "identifier": "archive"
+    },
+    "arrow-left": {
+      "codepoint": 57350,
+      "fontFamily": "Nimbus",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57351,
+      "fontFamily": "Nimbus",
+      "identifier": "arrowRight"
+    },
+    "arrows-horizontal": {
+      "codepoint": 57352,
+      "fontFamily": "Nimbus",
+      "identifier": "arrowsHorizontal"
+    },
+    "arrows-vertical": {
+      "codepoint": 57353,
+      "fontFamily": "Nimbus",
+      "identifier": "arrowsVertical"
+    },
+    "backspace": {
+      "codepoint": 57354,
+      "fontFamily": "Nimbus",
+      "identifier": "backspace"
+    },
+    "barcode": {
+      "codepoint": 57355,
+      "fontFamily": "Nimbus",
+      "identifier": "barcode"
+    },
+    "bold": {
+      "codepoint": 57356,
+      "fontFamily": "Nimbus",
+      "identifier": "bold"
+    },
+    "box-packed": {
+      "codepoint": 57357,
+      "fontFamily": "Nimbus",
+      "identifier": "boxPacked"
+    },
+    "box-unpacked": {
+      "codepoint": 57358,
+      "fontFamily": "Nimbus",
+      "identifier": "boxUnpacked"
+    },
+    "briefcase": {
+      "codepoint": 57359,
+      "fontFamily": "Nimbus",
+      "identifier": "briefcase"
+    },
+    "browser": {
+      "codepoint": 57360,
+      "fontFamily": "Nimbus",
+      "identifier": "browser"
+    },
+    "browser-search": {
+      "codepoint": 57361,
+      "fontFamily": "Nimbus",
+      "identifier": "browserSearch"
+    },
+    "calendar": {
+      "codepoint": 57362,
+      "fontFamily": "Nimbus",
+      "identifier": "calendar"
+    },
+    "calendar-days": {
+      "codepoint": 57363,
+      "fontFamily": "Nimbus",
+      "identifier": "calendarDays"
+    },
+    "camera": {
+      "codepoint": 57364,
+      "fontFamily": "Nimbus",
+      "identifier": "camera"
+    },
+    "cash": {
+      "codepoint": 57365,
+      "fontFamily": "Nimbus",
+      "identifier": "cash"
+    },
+    "chat-dots": {
+      "codepoint": 57366,
+      "fontFamily": "Nimbus",
+      "identifier": "chatDots"
+    },
+    "check": {
+      "codepoint": 57367,
+      "fontFamily": "Nimbus",
+      "identifier": "check"
+    },
+    "check-circle": {
+      "codepoint": 57368,
+      "fontFamily": "Nimbus",
+      "identifier": "checkCircle"
+    },
+    "chevron-down": {
+      "codepoint": 57369,
+      "fontFamily": "Nimbus",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57370,
+      "fontFamily": "Nimbus",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57371,
+      "fontFamily": "Nimbus",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57372,
+      "fontFamily": "Nimbus",
+      "identifier": "chevronUp"
+    },
+    "christ": {
+      "codepoint": 57373,
+      "fontFamily": "Nimbus",
+      "identifier": "christ"
+    },
+    "clock": {
+      "codepoint": 57374,
+      "fontFamily": "Nimbus",
+      "identifier": "clock"
+    },
+    "close": {
+      "codepoint": 57375,
+      "fontFamily": "Nimbus",
+      "identifier": "close"
+    },
+    "code": {
+      "codepoint": 57376,
+      "fontFamily": "Nimbus",
+      "identifier": "code"
+    },
+    "cog": {
+      "codepoint": 57377,
+      "fontFamily": "Nimbus",
+      "identifier": "cog"
+    },
+    "color-palette": {
+      "codepoint": 57378,
+      "fontFamily": "Nimbus",
+      "identifier": "colorPalette"
+    },
+    "copy": {
+      "codepoint": 57379,
+      "fontFamily": "Nimbus",
+      "identifier": "copy"
+    },
+    "credit-card": {
+      "codepoint": 57380,
+      "fontFamily": "Nimbus",
+      "identifier": "creditCard"
+    },
+    "desktop": {
+      "codepoint": 57381,
+      "fontFamily": "Nimbus",
+      "identifier": "desktop"
+    },
+    "discount-circle": {
+      "codepoint": 57382,
+      "fontFamily": "Nimbus",
+      "identifier": "discountCircle"
+    },
+    "diskette": {
+      "codepoint": 57383,
+      "fontFamily": "Nimbus",
+      "identifier": "diskette"
+    },
+    "download": {
+      "codepoint": 57384,
+      "fontFamily": "Nimbus",
+      "identifier": "download"
+    },
+    "drag": {
+      "codepoint": 57385,
+      "fontFamily": "Nimbus",
+      "identifier": "drag"
+    },
+    "drag-dots": {
+      "codepoint": 57386,
+      "fontFamily": "Nimbus",
+      "identifier": "dragDots"
+    },
+    "drink": {
+      "codepoint": 57387,
+      "fontFamily": "Nimbus",
+      "identifier": "drink"
+    },
+    "drop": {
+      "codepoint": 57388,
+      "fontFamily": "Nimbus",
+      "identifier": "drop"
+    },
+    "drums": {
+      "codepoint": 57389,
+      "fontFamily": "Nimbus",
+      "identifier": "drums"
+    },
+    "duplicate": {
+      "codepoint": 57390,
+      "fontFamily": "Nimbus",
+      "identifier": "duplicate"
+    },
+    "ecosystem": {
+      "codepoint": 57391,
+      "fontFamily": "Nimbus",
+      "identifier": "ecosystem"
+    },
+    "edit": {
+      "codepoint": 57392,
+      "fontFamily": "Nimbus",
+      "identifier": "edit"
+    },
+    "ellipsis": {
+      "codepoint": 57393,
+      "fontFamily": "Nimbus",
+      "identifier": "ellipsis"
+    },
+    "exclamation-circle": {
+      "codepoint": 57394,
+      "fontFamily": "Nimbus",
+      "identifier": "exclamationCircle"
+    },
+    "exclamation-triangle": {
+      "codepoint": 57395,
+      "fontFamily": "Nimbus",
+      "identifier": "exclamationTriangle"
+    },
+    "external-link": {
+      "codepoint": 57396,
+      "fontFamily": "Nimbus",
+      "identifier": "externalLink"
+    },
+    "eye": {
+      "codepoint": 57397,
+      "fontFamily": "Nimbus",
+      "identifier": "eye"
+    },
+    "eye-off": {
+      "codepoint": 57398,
+      "fontFamily": "Nimbus",
+      "identifier": "eyeOff"
+    },
+    "file": {
+      "codepoint": 57399,
+      "fontFamily": "Nimbus",
+      "identifier": "file"
+    },
+    "file-alt": {
+      "codepoint": 57400,
+      "fontFamily": "Nimbus",
+      "identifier": "fileAlt"
+    },
+    "fingerprint": {
+      "codepoint": 57401,
+      "fontFamily": "Nimbus",
+      "identifier": "fingerprint"
+    },
+    "fire": {
+      "codepoint": 57402,
+      "fontFamily": "Nimbus",
+      "identifier": "fire"
+    },
+    "flag": {
+      "codepoint": 57403,
+      "fontFamily": "Nimbus",
+      "identifier": "flag"
+    },
+    "font": {
+      "codepoint": 57404,
+      "fontFamily": "Nimbus",
+      "identifier": "font"
+    },
+    "forbidden": {
+      "codepoint": 57405,
+      "fontFamily": "Nimbus",
+      "identifier": "forbidden"
+    },
+    "gift-box": {
+      "codepoint": 57406,
+      "fontFamily": "Nimbus",
+      "identifier": "giftBox"
+    },
+    "gift-card": {
+      "codepoint": 57407,
+      "fontFamily": "Nimbus",
+      "identifier": "giftCard"
+    },
+    "glasses": {
+      "codepoint": 57408,
+      "fontFamily": "Nimbus",
+      "identifier": "glasses"
+    },
+    "globe": {
+      "codepoint": 57409,
+      "fontFamily": "Nimbus",
+      "identifier": "globe"
+    },
+    "guitar": {
+      "codepoint": 57410,
+      "fontFamily": "Nimbus",
+      "identifier": "guitar"
+    },
+    "heart": {
+      "codepoint": 57411,
+      "fontFamily": "Nimbus",
+      "identifier": "heart"
+    },
+    "history": {
+      "codepoint": 57412,
+      "fontFamily": "Nimbus",
+      "identifier": "history"
+    },
+    "home": {
+      "codepoint": 57413,
+      "fontFamily": "Nimbus",
+      "identifier": "home"
+    },
+    "infinite": {
+      "codepoint": 57414,
+      "fontFamily": "Nimbus",
+      "identifier": "infinite"
+    },
+    "info-circle": {
+      "codepoint": 57415,
+      "fontFamily": "Nimbus",
+      "identifier": "infoCircle"
+    },
+    "invoice": {
+      "codepoint": 57416,
+      "fontFamily": "Nimbus",
+      "identifier": "invoice"
+    },
+    "italic": {
+      "codepoint": 57417,
+      "fontFamily": "Nimbus",
+      "identifier": "italic"
+    },
+    "life-ring": {
+      "codepoint": 57418,
+      "fontFamily": "Nimbus",
+      "identifier": "lifeRing"
+    },
+    "lightbulb": {
+      "codepoint": 57419,
+      "fontFamily": "Nimbus",
+      "identifier": "lightbulb"
+    },
+    "link": {
+      "codepoint": 57420,
+      "fontFamily": "Nimbus",
+      "identifier": "link"
+    },
+    "link-off": {
+      "codepoint": 57421,
+      "fontFamily": "Nimbus",
+      "identifier": "linkOff"
+    },
+    "list": {
+      "codepoint": 57422,
+      "fontFamily": "Nimbus",
+      "identifier": "list"
+    },
+    "location": {
+      "codepoint": 57423,
+      "fontFamily": "Nimbus",
+      "identifier": "location"
+    },
+    "lock": {
+      "codepoint": 57424,
+      "fontFamily": "Nimbus",
+      "identifier": "lock"
+    },
+    "lock-open": {
+      "codepoint": 57425,
+      "fontFamily": "Nimbus",
+      "identifier": "lockOpen"
+    },
+    "log-out": {
+      "codepoint": 57426,
+      "fontFamily": "Nimbus",
+      "identifier": "logOut"
+    },
+    "mail": {
+      "codepoint": 57427,
+      "fontFamily": "Nimbus",
+      "identifier": "mail"
+    },
+    "marketing": {
+      "codepoint": 57428,
+      "fontFamily": "Nimbus",
+      "identifier": "marketing"
+    },
+    "mate": {
+      "codepoint": 57429,
+      "fontFamily": "Nimbus",
+      "identifier": "mate"
+    },
+    "menu": {
+      "codepoint": 57430,
+      "fontFamily": "Nimbus",
+      "identifier": "menu"
+    },
+    "mobile": {
+      "codepoint": 57431,
+      "fontFamily": "Nimbus",
+      "identifier": "mobile"
+    },
+    "money": {
+      "codepoint": 57432,
+      "fontFamily": "Nimbus",
+      "identifier": "money"
+    },
+    "moon": {
+      "codepoint": 57433,
+      "fontFamily": "Nimbus",
+      "identifier": "moon"
+    },
+    "notification": {
+      "codepoint": 57434,
+      "fontFamily": "Nimbus",
+      "identifier": "notification"
+    },
+    "obelisk": {
+      "codepoint": 57435,
+      "fontFamily": "Nimbus",
+      "identifier": "obelisk"
+    },
+    "ordered-list": {
+      "codepoint": 57436,
+      "fontFamily": "Nimbus",
+      "identifier": "orderedList"
+    },
+    "pencil": {
+      "codepoint": 57437,
+      "fontFamily": "Nimbus",
+      "identifier": "pencil"
+    },
+    "peso": {
+      "codepoint": 57438,
+      "fontFamily": "Nimbus",
+      "identifier": "peso"
+    },
+    "picture": {
+      "codepoint": 57439,
+      "fontFamily": "Nimbus",
+      "identifier": "picture"
+    },
+    "pix": {
+      "codepoint": 57440,
+      "fontFamily": "Nimbus",
+      "identifier": "pix"
+    },
+    "planet": {
+      "codepoint": 57441,
+      "fontFamily": "Nimbus",
+      "identifier": "planet"
+    },
+    "plus-circle": {
+      "codepoint": 57442,
+      "fontFamily": "Nimbus",
+      "identifier": "plusCircle"
+    },
+    "printer": {
+      "codepoint": 57443,
+      "fontFamily": "Nimbus",
+      "identifier": "printer"
+    },
+    "pyramid": {
+      "codepoint": 57444,
+      "fontFamily": "Nimbus",
+      "identifier": "pyramid"
+    },
+    "qr-code": {
+      "codepoint": 57445,
+      "fontFamily": "Nimbus",
+      "identifier": "qrCode"
+    },
+    "question-circle": {
+      "codepoint": 57446,
+      "fontFamily": "Nimbus",
+      "identifier": "questionCircle"
+    },
+    "real": {
+      "codepoint": 57447,
+      "fontFamily": "Nimbus",
+      "identifier": "real"
+    },
+    "redo": {
+      "codepoint": 57448,
+      "fontFamily": "Nimbus",
+      "identifier": "redo"
+    },
+    "remove-format": {
+      "codepoint": 57449,
+      "fontFamily": "Nimbus",
+      "identifier": "removeFormat"
+    },
+    "rocket": {
+      "codepoint": 57450,
+      "fontFamily": "Nimbus",
+      "identifier": "rocket"
+    },
+    "scooter": {
+      "codepoint": 57451,
+      "fontFamily": "Nimbus",
+      "identifier": "scooter"
+    },
+    "search": {
+      "codepoint": 57452,
+      "fontFamily": "Nimbus",
+      "identifier": "search"
+    },
+    "share": {
+      "codepoint": 57453,
+      "fontFamily": "Nimbus",
+      "identifier": "share"
+    },
+    "shopping-cart": {
+      "codepoint": 57454,
+      "fontFamily": "Nimbus",
+      "identifier": "shoppingCart"
+    },
+    "shot": {
+      "codepoint": 57455,
+      "fontFamily": "Nimbus",
+      "identifier": "shot"
+    },
+    "size-height": {
+      "codepoint": 57456,
+      "fontFamily": "Nimbus",
+      "identifier": "sizeHeight"
+    },
+    "size-width": {
+      "codepoint": 57457,
+      "fontFamily": "Nimbus",
+      "identifier": "sizeWidth"
+    },
+    "sliders": {
+      "codepoint": 57458,
+      "fontFamily": "Nimbus",
+      "identifier": "sliders"
+    },
+    "star": {
+      "codepoint": 57459,
+      "fontFamily": "Nimbus",
+      "identifier": "star"
+    },
+    "stats": {
+      "codepoint": 57460,
+      "fontFamily": "Nimbus",
+      "identifier": "stats"
+    },
+    "sticky-note": {
+      "codepoint": 57461,
+      "fontFamily": "Nimbus",
+      "identifier": "stickyNote"
+    },
+    "stop": {
+      "codepoint": 57462,
+      "fontFamily": "Nimbus",
+      "identifier": "stop"
+    },
+    "store": {
+      "codepoint": 57463,
+      "fontFamily": "Nimbus",
+      "identifier": "store"
+    },
+    "sun": {
+      "codepoint": 57464,
+      "fontFamily": "Nimbus",
+      "identifier": "sun"
+    },
+    "tag": {
+      "codepoint": 57465,
+      "fontFamily": "Nimbus",
+      "identifier": "tag"
+    },
+    "telephone": {
+      "codepoint": 57466,
+      "fontFamily": "Nimbus",
+      "identifier": "telephone"
+    },
+    "text-size": {
+      "codepoint": 57467,
+      "fontFamily": "Nimbus",
+      "identifier": "textSize"
+    },
+    "tiendanube": {
+      "codepoint": 57468,
+      "fontFamily": "Nimbus",
+      "identifier": "tiendanube"
+    },
+    "tools": {
+      "codepoint": 57469,
+      "fontFamily": "Nimbus",
+      "identifier": "tools"
+    },
+    "transfer-peso": {
+      "codepoint": 57470,
+      "fontFamily": "Nimbus",
+      "identifier": "transferPeso"
+    },
+    "transfer-real": {
+      "codepoint": 57471,
+      "fontFamily": "Nimbus",
+      "identifier": "transferReal"
+    },
+    "trash": {
+      "codepoint": 57472,
+      "fontFamily": "Nimbus",
+      "identifier": "trash"
+    },
+    "truck": {
+      "codepoint": 57473,
+      "fontFamily": "Nimbus",
+      "identifier": "truck"
+    },
+    "undo": {
+      "codepoint": 57474,
+      "fontFamily": "Nimbus",
+      "identifier": "undo"
+    },
+    "university": {
+      "codepoint": 57475,
+      "fontFamily": "Nimbus",
+      "identifier": "university"
+    },
+    "upload": {
+      "codepoint": 57476,
+      "fontFamily": "Nimbus",
+      "identifier": "upload"
+    },
+    "user": {
+      "codepoint": 57477,
+      "fontFamily": "Nimbus",
+      "identifier": "user"
+    },
+    "user-circle": {
+      "codepoint": 57478,
+      "fontFamily": "Nimbus",
+      "identifier": "userCircle"
+    },
+    "user-group": {
+      "codepoint": 57479,
+      "fontFamily": "Nimbus",
+      "identifier": "userGroup"
+    },
+    "vertical-stacks": {
+      "codepoint": 57480,
+      "fontFamily": "Nimbus",
+      "identifier": "verticalStacks"
+    },
+    "volume": {
+      "codepoint": 57481,
+      "fontFamily": "Nimbus",
+      "identifier": "volume"
+    },
+    "wallet": {
+      "codepoint": 57482,
+      "fontFamily": "Nimbus",
+      "identifier": "wallet"
+    },
+    "whatsapp": {
+      "codepoint": 57483,
+      "fontFamily": "Nimbus",
+      "identifier": "whatsapp"
+    }
+  }
+}

@@ -1,0 +1,2110 @@
+{
+  "schemaVersion": 1,
+  "prefix": "pajamas",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_pajamas",
+  "info": {
+    "name": "Gitlab SVGs",
+    "author": {
+      "name": "GitLab B.V.",
+      "url": "https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE"
+    },
+    "total": 416
+  },
+  "fonts": [
+    {
+      "family": "Pajamas",
+      "nextCodepoint": 57760,
+      "iconCount": 416
+    }
+  ],
+  "icons": {
+    "abuse": {
+      "codepoint": 57344,
+      "fontFamily": "Pajamas",
+      "identifier": "abuse"
+    },
+    "accessibility": {
+      "codepoint": 57345,
+      "fontFamily": "Pajamas",
+      "identifier": "accessibility"
+    },
+    "account": {
+      "codepoint": 57346,
+      "fontFamily": "Pajamas",
+      "identifier": "account"
+    },
+    "admin": {
+      "codepoint": 57347,
+      "fontFamily": "Pajamas",
+      "identifier": "admin"
+    },
+    "agent-ai": {
+      "codepoint": 57348,
+      "fontFamily": "Pajamas",
+      "identifier": "agentAi"
+    },
+    "api": {
+      "codepoint": 57349,
+      "fontFamily": "Pajamas",
+      "identifier": "api"
+    },
+    "appearance": {
+      "codepoint": 57350,
+      "fontFamily": "Pajamas",
+      "identifier": "appearance"
+    },
+    "applications": {
+      "codepoint": 57351,
+      "fontFamily": "Pajamas",
+      "identifier": "applications"
+    },
+    "approval": {
+      "codepoint": 57352,
+      "fontFamily": "Pajamas",
+      "identifier": "approval"
+    },
+    "approval-solid": {
+      "codepoint": 57353,
+      "fontFamily": "Pajamas",
+      "identifier": "approvalSolid"
+    },
+    "archive": {
+      "codepoint": 57354,
+      "fontFamily": "Pajamas",
+      "identifier": "archive"
+    },
+    "arrow-down": {
+      "codepoint": 57355,
+      "fontFamily": "Pajamas",
+      "identifier": "arrowDown"
+    },
+    "arrow-left": {
+      "codepoint": 57356,
+      "fontFamily": "Pajamas",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57357,
+      "fontFamily": "Pajamas",
+      "identifier": "arrowRight"
+    },
+    "arrow-up": {
+      "codepoint": 57358,
+      "fontFamily": "Pajamas",
+      "identifier": "arrowUp"
+    },
+    "assignee": {
+      "codepoint": 57359,
+      "fontFamily": "Pajamas",
+      "identifier": "assignee"
+    },
+    "at": {
+      "codepoint": 57360,
+      "fontFamily": "Pajamas",
+      "identifier": "at"
+    },
+    "attention": {
+      "codepoint": 57361,
+      "fontFamily": "Pajamas",
+      "identifier": "attention"
+    },
+    "attention-solid": {
+      "codepoint": 57362,
+      "fontFamily": "Pajamas",
+      "identifier": "attentionSolid"
+    },
+    "attention-solid-sm": {
+      "codepoint": 57363,
+      "fontFamily": "Pajamas",
+      "identifier": "attentionSolidSm"
+    },
+    "autoplay": {
+      "codepoint": 57364,
+      "fontFamily": "Pajamas",
+      "identifier": "autoplay"
+    },
+    "bitbucket": {
+      "codepoint": 57365,
+      "fontFamily": "Pajamas",
+      "identifier": "bitbucket"
+    },
+    "bold": {
+      "codepoint": 57366,
+      "fontFamily": "Pajamas",
+      "identifier": "bold"
+    },
+    "book": {
+      "codepoint": 57367,
+      "fontFamily": "Pajamas",
+      "identifier": "book"
+    },
+    "bookmark": {
+      "codepoint": 57368,
+      "fontFamily": "Pajamas",
+      "identifier": "bookmark"
+    },
+    "branch": {
+      "codepoint": 57369,
+      "fontFamily": "Pajamas",
+      "identifier": "branch"
+    },
+    "branch-deleted": {
+      "codepoint": 57370,
+      "fontFamily": "Pajamas",
+      "identifier": "branchDeleted"
+    },
+    "brand-zoom": {
+      "codepoint": 57371,
+      "fontFamily": "Pajamas",
+      "identifier": "brandZoom"
+    },
+    "bug": {
+      "codepoint": 57372,
+      "fontFamily": "Pajamas",
+      "identifier": "bug"
+    },
+    "building": {
+      "codepoint": 57373,
+      "fontFamily": "Pajamas",
+      "identifier": "building"
+    },
+    "bulb": {
+      "codepoint": 57374,
+      "fontFamily": "Pajamas",
+      "identifier": "bulb"
+    },
+    "bullhorn": {
+      "codepoint": 57375,
+      "fontFamily": "Pajamas",
+      "identifier": "bullhorn"
+    },
+    "calendar": {
+      "codepoint": 57376,
+      "fontFamily": "Pajamas",
+      "identifier": "calendar"
+    },
+    "calendar-overdue": {
+      "codepoint": 57377,
+      "fontFamily": "Pajamas",
+      "identifier": "calendarOverdue"
+    },
+    "cancel": {
+      "codepoint": 57378,
+      "fontFamily": "Pajamas",
+      "identifier": "cancel"
+    },
+    "canceled-circle": {
+      "codepoint": 57379,
+      "fontFamily": "Pajamas",
+      "identifier": "canceledCircle"
+    },
+    "car": {
+      "codepoint": 57380,
+      "fontFamily": "Pajamas",
+      "identifier": "car"
+    },
+    "catalog-checkmark": {
+      "codepoint": 57381,
+      "fontFamily": "Pajamas",
+      "identifier": "catalogCheckmark"
+    },
+    "chart": {
+      "codepoint": 57382,
+      "fontFamily": "Pajamas",
+      "identifier": "chart"
+    },
+    "check": {
+      "codepoint": 57383,
+      "fontFamily": "Pajamas",
+      "identifier": "check"
+    },
+    "check-circle": {
+      "codepoint": 57384,
+      "fontFamily": "Pajamas",
+      "identifier": "checkCircle"
+    },
+    "check-circle-dashed": {
+      "codepoint": 57385,
+      "fontFamily": "Pajamas",
+      "identifier": "checkCircleDashed"
+    },
+    "check-circle-filled": {
+      "codepoint": 57386,
+      "fontFamily": "Pajamas",
+      "identifier": "checkCircleFilled"
+    },
+    "check-sm": {
+      "codepoint": 57387,
+      "fontFamily": "Pajamas",
+      "identifier": "checkSm"
+    },
+    "check-xs": {
+      "codepoint": 57388,
+      "fontFamily": "Pajamas",
+      "identifier": "checkXs"
+    },
+    "cherry-pick-commit": {
+      "codepoint": 57389,
+      "fontFamily": "Pajamas",
+      "identifier": "cherryPickCommit"
+    },
+    "chevron-double-lg-left": {
+      "codepoint": 57390,
+      "fontFamily": "Pajamas",
+      "identifier": "chevronDoubleLgLeft"
+    },
+    "chevron-double-lg-right": {
+      "codepoint": 57391,
+      "fontFamily": "Pajamas",
+      "identifier": "chevronDoubleLgRight"
+    },
+    "chevron-down": {
+      "codepoint": 57392,
+      "fontFamily": "Pajamas",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57393,
+      "fontFamily": "Pajamas",
+      "identifier": "chevronLeft"
+    },
+    "chevron-lg-down": {
+      "codepoint": 57394,
+      "fontFamily": "Pajamas",
+      "identifier": "chevronLgDown"
+    },
+    "chevron-lg-left": {
+      "codepoint": 57395,
+      "fontFamily": "Pajamas",
+      "identifier": "chevronLgLeft"
+    },
+    "chevron-lg-right": {
+      "codepoint": 57396,
+      "fontFamily": "Pajamas",
+      "identifier": "chevronLgRight"
+    },
+    "chevron-lg-up": {
+      "codepoint": 57397,
+      "fontFamily": "Pajamas",
+      "identifier": "chevronLgUp"
+    },
+    "chevron-right": {
+      "codepoint": 57398,
+      "fontFamily": "Pajamas",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57399,
+      "fontFamily": "Pajamas",
+      "identifier": "chevronUp"
+    },
+    "clear": {
+      "codepoint": 57400,
+      "fontFamily": "Pajamas",
+      "identifier": "clear"
+    },
+    "clear-all": {
+      "codepoint": 57401,
+      "fontFamily": "Pajamas",
+      "identifier": "clearAll"
+    },
+    "clock": {
+      "codepoint": 57402,
+      "fontFamily": "Pajamas",
+      "identifier": "clock"
+    },
+    "close": {
+      "codepoint": 57403,
+      "fontFamily": "Pajamas",
+      "identifier": "close"
+    },
+    "close-xs": {
+      "codepoint": 57404,
+      "fontFamily": "Pajamas",
+      "identifier": "closeXs"
+    },
+    "cloud-gear": {
+      "codepoint": 57405,
+      "fontFamily": "Pajamas",
+      "identifier": "cloudGear"
+    },
+    "cloud-pod": {
+      "codepoint": 57406,
+      "fontFamily": "Pajamas",
+      "identifier": "cloudPod"
+    },
+    "cloud-terminal": {
+      "codepoint": 57407,
+      "fontFamily": "Pajamas",
+      "identifier": "cloudTerminal"
+    },
+    "code": {
+      "codepoint": 57408,
+      "fontFamily": "Pajamas",
+      "identifier": "code"
+    },
+    "collapse": {
+      "codepoint": 57409,
+      "fontFamily": "Pajamas",
+      "identifier": "collapse"
+    },
+    "collapse-left": {
+      "codepoint": 57410,
+      "fontFamily": "Pajamas",
+      "identifier": "collapseLeft"
+    },
+    "collapse-right": {
+      "codepoint": 57411,
+      "fontFamily": "Pajamas",
+      "identifier": "collapseRight"
+    },
+    "collapse-solid": {
+      "codepoint": 57412,
+      "fontFamily": "Pajamas",
+      "identifier": "collapseSolid"
+    },
+    "comment": {
+      "codepoint": 57413,
+      "fontFamily": "Pajamas",
+      "identifier": "comment"
+    },
+    "comment-dots": {
+      "codepoint": 57414,
+      "fontFamily": "Pajamas",
+      "identifier": "commentDots"
+    },
+    "comment-lines": {
+      "codepoint": 57415,
+      "fontFamily": "Pajamas",
+      "identifier": "commentLines"
+    },
+    "comment-next": {
+      "codepoint": 57416,
+      "fontFamily": "Pajamas",
+      "identifier": "commentNext"
+    },
+    "comments": {
+      "codepoint": 57417,
+      "fontFamily": "Pajamas",
+      "identifier": "comments"
+    },
+    "commit": {
+      "codepoint": 57418,
+      "fontFamily": "Pajamas",
+      "identifier": "commit"
+    },
+    "comparison": {
+      "codepoint": 57419,
+      "fontFamily": "Pajamas",
+      "identifier": "comparison"
+    },
+    "compass": {
+      "codepoint": 57420,
+      "fontFamily": "Pajamas",
+      "identifier": "compass"
+    },
+    "connected": {
+      "codepoint": 57421,
+      "fontFamily": "Pajamas",
+      "identifier": "connected"
+    },
+    "container-image": {
+      "codepoint": 57422,
+      "fontFamily": "Pajamas",
+      "identifier": "containerImage"
+    },
+    "copy-to-clipboard": {
+      "codepoint": 57423,
+      "fontFamily": "Pajamas",
+      "identifier": "copyToClipboard"
+    },
+    "credit-card": {
+      "codepoint": 57424,
+      "fontFamily": "Pajamas",
+      "identifier": "creditCard"
+    },
+    "dash": {
+      "codepoint": 57425,
+      "fontFamily": "Pajamas",
+      "identifier": "dash"
+    },
+    "dash-circle": {
+      "codepoint": 57426,
+      "fontFamily": "Pajamas",
+      "identifier": "dashCircle"
+    },
+    "dashboard": {
+      "codepoint": 57427,
+      "fontFamily": "Pajamas",
+      "identifier": "dashboard"
+    },
+    "deployments": {
+      "codepoint": 57428,
+      "fontFamily": "Pajamas",
+      "identifier": "deployments"
+    },
+    "details-block": {
+      "codepoint": 57429,
+      "fontFamily": "Pajamas",
+      "identifier": "detailsBlock"
+    },
+    "diagram": {
+      "codepoint": 57430,
+      "fontFamily": "Pajamas",
+      "identifier": "diagram"
+    },
+    "discord": {
+      "codepoint": 57431,
+      "fontFamily": "Pajamas",
+      "identifier": "discord"
+    },
+    "disk": {
+      "codepoint": 57432,
+      "fontFamily": "Pajamas",
+      "identifier": "disk"
+    },
+    "doc-changes": {
+      "codepoint": 57433,
+      "fontFamily": "Pajamas",
+      "identifier": "docChanges"
+    },
+    "doc-chart": {
+      "codepoint": 57434,
+      "fontFamily": "Pajamas",
+      "identifier": "docChart"
+    },
+    "doc-code": {
+      "codepoint": 57435,
+      "fontFamily": "Pajamas",
+      "identifier": "docCode"
+    },
+    "doc-compressed": {
+      "codepoint": 57436,
+      "fontFamily": "Pajamas",
+      "identifier": "docCompressed"
+    },
+    "doc-expand": {
+      "codepoint": 57437,
+      "fontFamily": "Pajamas",
+      "identifier": "docExpand"
+    },
+    "doc-image": {
+      "codepoint": 57438,
+      "fontFamily": "Pajamas",
+      "identifier": "docImage"
+    },
+    "doc-new": {
+      "codepoint": 57439,
+      "fontFamily": "Pajamas",
+      "identifier": "docNew"
+    },
+    "doc-symlink": {
+      "codepoint": 57440,
+      "fontFamily": "Pajamas",
+      "identifier": "docSymlink"
+    },
+    "doc-text": {
+      "codepoint": 57441,
+      "fontFamily": "Pajamas",
+      "identifier": "docText"
+    },
+    "doc-versions": {
+      "codepoint": 57442,
+      "fontFamily": "Pajamas",
+      "identifier": "docVersions"
+    },
+    "document": {
+      "codepoint": 57443,
+      "fontFamily": "Pajamas",
+      "identifier": "document"
+    },
+    "documents": {
+      "codepoint": 57444,
+      "fontFamily": "Pajamas",
+      "identifier": "documents"
+    },
+    "dot-grid": {
+      "codepoint": 57445,
+      "fontFamily": "Pajamas",
+      "identifier": "dotGrid"
+    },
+    "download": {
+      "codepoint": 57446,
+      "fontFamily": "Pajamas",
+      "identifier": "download"
+    },
+    "drag": {
+      "codepoint": 57447,
+      "fontFamily": "Pajamas",
+      "identifier": "drag"
+    },
+    "drag-horizontal": {
+      "codepoint": 57448,
+      "fontFamily": "Pajamas",
+      "identifier": "dragHorizontal"
+    },
+    "drag-vertical": {
+      "codepoint": 57449,
+      "fontFamily": "Pajamas",
+      "identifier": "dragVertical"
+    },
+    "dumbbell": {
+      "codepoint": 57450,
+      "fontFamily": "Pajamas",
+      "identifier": "dumbbell"
+    },
+    "duo-agentic-chat": {
+      "codepoint": 57451,
+      "fontFamily": "Pajamas",
+      "identifier": "duoAgenticChat"
+    },
+    "duo-chat": {
+      "codepoint": 57452,
+      "fontFamily": "Pajamas",
+      "identifier": "duoChat"
+    },
+    "duo-chat-new": {
+      "codepoint": 57453,
+      "fontFamily": "Pajamas",
+      "identifier": "duoChatNew"
+    },
+    "duo-chat-off": {
+      "codepoint": 57454,
+      "fontFamily": "Pajamas",
+      "identifier": "duoChatOff"
+    },
+    "duplicate": {
+      "codepoint": 57455,
+      "fontFamily": "Pajamas",
+      "identifier": "duplicate"
+    },
+    "earth": {
+      "codepoint": 57456,
+      "fontFamily": "Pajamas",
+      "identifier": "earth"
+    },
+    "ellipsis-h": {
+      "codepoint": 57457,
+      "fontFamily": "Pajamas",
+      "identifier": "ellipsisH"
+    },
+    "ellipsis-v": {
+      "codepoint": 57458,
+      "fontFamily": "Pajamas",
+      "identifier": "ellipsisV"
+    },
+    "entity-blocked": {
+      "codepoint": 57459,
+      "fontFamily": "Pajamas",
+      "identifier": "entityBlocked"
+    },
+    "entity-blocking": {
+      "codepoint": 57460,
+      "fontFamily": "Pajamas",
+      "identifier": "entityBlocking"
+    },
+    "environment": {
+      "codepoint": 57461,
+      "fontFamily": "Pajamas",
+      "identifier": "environment"
+    },
+    "epic": {
+      "codepoint": 57462,
+      "fontFamily": "Pajamas",
+      "identifier": "epic"
+    },
+    "epic-closed": {
+      "codepoint": 57463,
+      "fontFamily": "Pajamas",
+      "identifier": "epicClosed"
+    },
+    "error": {
+      "codepoint": 57464,
+      "fontFamily": "Pajamas",
+      "identifier": "error"
+    },
+    "expand": {
+      "codepoint": 57465,
+      "fontFamily": "Pajamas",
+      "identifier": "expand"
+    },
+    "expand-down": {
+      "codepoint": 57466,
+      "fontFamily": "Pajamas",
+      "identifier": "expandDown"
+    },
+    "expand-left": {
+      "codepoint": 57467,
+      "fontFamily": "Pajamas",
+      "identifier": "expandLeft"
+    },
+    "expand-right": {
+      "codepoint": 57468,
+      "fontFamily": "Pajamas",
+      "identifier": "expandRight"
+    },
+    "expand-up": {
+      "codepoint": 57469,
+      "fontFamily": "Pajamas",
+      "identifier": "expandUp"
+    },
+    "expire": {
+      "codepoint": 57470,
+      "fontFamily": "Pajamas",
+      "identifier": "expire"
+    },
+    "export": {
+      "codepoint": 57471,
+      "fontFamily": "Pajamas",
+      "identifier": "export_"
+    },
+    "external-link": {
+      "codepoint": 57472,
+      "fontFamily": "Pajamas",
+      "identifier": "externalLink"
+    },
+    "eye": {
+      "codepoint": 57473,
+      "fontFamily": "Pajamas",
+      "identifier": "eye"
+    },
+    "eye-slash": {
+      "codepoint": 57474,
+      "fontFamily": "Pajamas",
+      "identifier": "eyeSlash"
+    },
+    "face-neutral": {
+      "codepoint": 57475,
+      "fontFamily": "Pajamas",
+      "identifier": "faceNeutral"
+    },
+    "face-unhappy": {
+      "codepoint": 57476,
+      "fontFamily": "Pajamas",
+      "identifier": "faceUnhappy"
+    },
+    "false-positive": {
+      "codepoint": 57477,
+      "fontFamily": "Pajamas",
+      "identifier": "falsePositive"
+    },
+    "feature-flag": {
+      "codepoint": 57478,
+      "fontFamily": "Pajamas",
+      "identifier": "featureFlag"
+    },
+    "feature-flag-disabled": {
+      "codepoint": 57479,
+      "fontFamily": "Pajamas",
+      "identifier": "featureFlagDisabled"
+    },
+    "file-addition": {
+      "codepoint": 57480,
+      "fontFamily": "Pajamas",
+      "identifier": "fileAddition"
+    },
+    "file-addition-solid": {
+      "codepoint": 57481,
+      "fontFamily": "Pajamas",
+      "identifier": "fileAdditionSolid"
+    },
+    "file-deletion": {
+      "codepoint": 57482,
+      "fontFamily": "Pajamas",
+      "identifier": "fileDeletion"
+    },
+    "file-deletion-solid": {
+      "codepoint": 57483,
+      "fontFamily": "Pajamas",
+      "identifier": "fileDeletionSolid"
+    },
+    "file-modified": {
+      "codepoint": 57484,
+      "fontFamily": "Pajamas",
+      "identifier": "fileModified"
+    },
+    "file-modified-solid": {
+      "codepoint": 57485,
+      "fontFamily": "Pajamas",
+      "identifier": "fileModifiedSolid"
+    },
+    "file-tree": {
+      "codepoint": 57486,
+      "fontFamily": "Pajamas",
+      "identifier": "fileTree"
+    },
+    "filter": {
+      "codepoint": 57487,
+      "fontFamily": "Pajamas",
+      "identifier": "filter"
+    },
+    "fire": {
+      "codepoint": 57488,
+      "fontFamily": "Pajamas",
+      "identifier": "fire"
+    },
+    "first-contribution": {
+      "codepoint": 57489,
+      "fontFamily": "Pajamas",
+      "identifier": "firstContribution"
+    },
+    "flag": {
+      "codepoint": 57490,
+      "fontFamily": "Pajamas",
+      "identifier": "flag"
+    },
+    "flow-ai": {
+      "codepoint": 57491,
+      "fontFamily": "Pajamas",
+      "identifier": "flowAi"
+    },
+    "folder": {
+      "codepoint": 57492,
+      "fontFamily": "Pajamas",
+      "identifier": "folder"
+    },
+    "folder-new": {
+      "codepoint": 57493,
+      "fontFamily": "Pajamas",
+      "identifier": "folderNew"
+    },
+    "folder-o": {
+      "codepoint": 57494,
+      "fontFamily": "Pajamas",
+      "identifier": "folderO"
+    },
+    "folder-open": {
+      "codepoint": 57495,
+      "fontFamily": "Pajamas",
+      "identifier": "folderOpen"
+    },
+    "food": {
+      "codepoint": 57496,
+      "fontFamily": "Pajamas",
+      "identifier": "food"
+    },
+    "fork": {
+      "codepoint": 57497,
+      "fontFamily": "Pajamas",
+      "identifier": "fork"
+    },
+    "formula": {
+      "codepoint": 57498,
+      "fontFamily": "Pajamas",
+      "identifier": "formula"
+    },
+    "git": {
+      "codepoint": 57499,
+      "fontFamily": "Pajamas",
+      "identifier": "git"
+    },
+    "git-merge": {
+      "codepoint": 57500,
+      "fontFamily": "Pajamas",
+      "identifier": "gitMerge"
+    },
+    "gitea": {
+      "codepoint": 57501,
+      "fontFamily": "Pajamas",
+      "identifier": "gitea"
+    },
+    "github": {
+      "codepoint": 57502,
+      "fontFamily": "Pajamas",
+      "identifier": "github"
+    },
+    "go-back": {
+      "codepoint": 57503,
+      "fontFamily": "Pajamas",
+      "identifier": "goBack"
+    },
+    "google": {
+      "codepoint": 57504,
+      "fontFamily": "Pajamas",
+      "identifier": "google"
+    },
+    "grip": {
+      "codepoint": 57505,
+      "fontFamily": "Pajamas",
+      "identifier": "grip"
+    },
+    "group": {
+      "codepoint": 57506,
+      "fontFamily": "Pajamas",
+      "identifier": "group"
+    },
+    "hamburger": {
+      "codepoint": 57507,
+      "fontFamily": "Pajamas",
+      "identifier": "hamburger"
+    },
+    "hash": {
+      "codepoint": 57508,
+      "fontFamily": "Pajamas",
+      "identifier": "hash"
+    },
+    "heading": {
+      "codepoint": 57509,
+      "fontFamily": "Pajamas",
+      "identifier": "heading"
+    },
+    "heart": {
+      "codepoint": 57510,
+      "fontFamily": "Pajamas",
+      "identifier": "heart"
+    },
+    "highlight": {
+      "codepoint": 57511,
+      "fontFamily": "Pajamas",
+      "identifier": "highlight"
+    },
+    "history": {
+      "codepoint": 57512,
+      "fontFamily": "Pajamas",
+      "identifier": "history"
+    },
+    "home": {
+      "codepoint": 57513,
+      "fontFamily": "Pajamas",
+      "identifier": "home"
+    },
+    "hook": {
+      "codepoint": 57514,
+      "fontFamily": "Pajamas",
+      "identifier": "hook"
+    },
+    "hourglass": {
+      "codepoint": 57515,
+      "fontFamily": "Pajamas",
+      "identifier": "hourglass"
+    },
+    "image-comment-dark": {
+      "codepoint": 57516,
+      "fontFamily": "Pajamas",
+      "identifier": "imageCommentDark"
+    },
+    "image-comment-light": {
+      "codepoint": 57517,
+      "fontFamily": "Pajamas",
+      "identifier": "imageCommentLight"
+    },
+    "import": {
+      "codepoint": 57518,
+      "fontFamily": "Pajamas",
+      "identifier": "import_"
+    },
+    "incognito": {
+      "codepoint": 57519,
+      "fontFamily": "Pajamas",
+      "identifier": "incognito"
+    },
+    "information": {
+      "codepoint": 57520,
+      "fontFamily": "Pajamas",
+      "identifier": "information"
+    },
+    "information-o": {
+      "codepoint": 57521,
+      "fontFamily": "Pajamas",
+      "identifier": "informationO"
+    },
+    "infrastructure-registry": {
+      "codepoint": 57522,
+      "fontFamily": "Pajamas",
+      "identifier": "infrastructureRegistry"
+    },
+    "insert": {
+      "codepoint": 57523,
+      "fontFamily": "Pajamas",
+      "identifier": "insert"
+    },
+    "issue-block": {
+      "codepoint": 57524,
+      "fontFamily": "Pajamas",
+      "identifier": "issueBlock"
+    },
+    "issue-close": {
+      "codepoint": 57525,
+      "fontFamily": "Pajamas",
+      "identifier": "issueClose"
+    },
+    "issue-closed": {
+      "codepoint": 57526,
+      "fontFamily": "Pajamas",
+      "identifier": "issueClosed"
+    },
+    "issue-new": {
+      "codepoint": 57527,
+      "fontFamily": "Pajamas",
+      "identifier": "issueNew"
+    },
+    "issue-open-m": {
+      "codepoint": 57528,
+      "fontFamily": "Pajamas",
+      "identifier": "issueOpenM"
+    },
+    "issue-type-enhancement": {
+      "codepoint": 57529,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeEnhancement"
+    },
+    "issue-type-feature": {
+      "codepoint": 57530,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeFeature"
+    },
+    "issue-type-feature-flag": {
+      "codepoint": 57531,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeFeatureFlag"
+    },
+    "issue-type-incident": {
+      "codepoint": 57532,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeIncident"
+    },
+    "issue-type-issue": {
+      "codepoint": 57533,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeIssue"
+    },
+    "issue-type-key-result": {
+      "codepoint": 57534,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeKeyResult"
+    },
+    "issue-type-keyresult": {
+      "codepoint": 57535,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeKeyresult"
+    },
+    "issue-type-maintenance": {
+      "codepoint": 57536,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeMaintenance"
+    },
+    "issue-type-objective": {
+      "codepoint": 57537,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeObjective"
+    },
+    "issue-type-requirements": {
+      "codepoint": 57538,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeRequirements"
+    },
+    "issue-type-task": {
+      "codepoint": 57539,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeTask"
+    },
+    "issue-type-test-case": {
+      "codepoint": 57540,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeTestCase"
+    },
+    "issue-type-ticket": {
+      "codepoint": 57541,
+      "fontFamily": "Pajamas",
+      "identifier": "issueTypeTicket"
+    },
+    "issue-update": {
+      "codepoint": 57542,
+      "fontFamily": "Pajamas",
+      "identifier": "issueUpdate"
+    },
+    "issues": {
+      "codepoint": 57543,
+      "fontFamily": "Pajamas",
+      "identifier": "issues"
+    },
+    "italic": {
+      "codepoint": 57544,
+      "fontFamily": "Pajamas",
+      "identifier": "italic"
+    },
+    "iteration": {
+      "codepoint": 57545,
+      "fontFamily": "Pajamas",
+      "identifier": "iteration"
+    },
+    "key": {
+      "codepoint": 57546,
+      "fontFamily": "Pajamas",
+      "identifier": "key"
+    },
+    "keyboard": {
+      "codepoint": 57547,
+      "fontFamily": "Pajamas",
+      "identifier": "keyboard"
+    },
+    "kind": {
+      "codepoint": 57548,
+      "fontFamily": "Pajamas",
+      "identifier": "kind"
+    },
+    "kubernetes": {
+      "codepoint": 57549,
+      "fontFamily": "Pajamas",
+      "identifier": "kubernetes"
+    },
+    "kubernetes-agent": {
+      "codepoint": 57550,
+      "fontFamily": "Pajamas",
+      "identifier": "kubernetesAgent"
+    },
+    "label": {
+      "codepoint": 57551,
+      "fontFamily": "Pajamas",
+      "identifier": "label"
+    },
+    "labels": {
+      "codepoint": 57552,
+      "fontFamily": "Pajamas",
+      "identifier": "labels"
+    },
+    "leave": {
+      "codepoint": 57553,
+      "fontFamily": "Pajamas",
+      "identifier": "leave"
+    },
+    "level-up": {
+      "codepoint": 57554,
+      "fontFamily": "Pajamas",
+      "identifier": "levelUp"
+    },
+    "license": {
+      "codepoint": 57555,
+      "fontFamily": "Pajamas",
+      "identifier": "license"
+    },
+    "license-sm": {
+      "codepoint": 57556,
+      "fontFamily": "Pajamas",
+      "identifier": "licenseSm"
+    },
+    "link": {
+      "codepoint": 57557,
+      "fontFamily": "Pajamas",
+      "identifier": "link"
+    },
+    "linkedin": {
+      "codepoint": 57558,
+      "fontFamily": "Pajamas",
+      "identifier": "linkedin"
+    },
+    "list-bulleted": {
+      "codepoint": 57559,
+      "fontFamily": "Pajamas",
+      "identifier": "listBulleted"
+    },
+    "list-indent": {
+      "codepoint": 57560,
+      "fontFamily": "Pajamas",
+      "identifier": "listIndent"
+    },
+    "list-numbered": {
+      "codepoint": 57561,
+      "fontFamily": "Pajamas",
+      "identifier": "listNumbered"
+    },
+    "list-outdent": {
+      "codepoint": 57562,
+      "fontFamily": "Pajamas",
+      "identifier": "listOutdent"
+    },
+    "list-task": {
+      "codepoint": 57563,
+      "fontFamily": "Pajamas",
+      "identifier": "listTask"
+    },
+    "live-preview": {
+      "codepoint": 57564,
+      "fontFamily": "Pajamas",
+      "identifier": "livePreview"
+    },
+    "live-stream": {
+      "codepoint": 57565,
+      "fontFamily": "Pajamas",
+      "identifier": "liveStream"
+    },
+    "location": {
+      "codepoint": 57566,
+      "fontFamily": "Pajamas",
+      "identifier": "location"
+    },
+    "location-dot": {
+      "codepoint": 57567,
+      "fontFamily": "Pajamas",
+      "identifier": "locationDot"
+    },
+    "lock": {
+      "codepoint": 57568,
+      "fontFamily": "Pajamas",
+      "identifier": "lock"
+    },
+    "lock-open": {
+      "codepoint": 57569,
+      "fontFamily": "Pajamas",
+      "identifier": "lockOpen"
+    },
+    "log": {
+      "codepoint": 57570,
+      "fontFamily": "Pajamas",
+      "identifier": "log"
+    },
+    "long-arrow": {
+      "codepoint": 57571,
+      "fontFamily": "Pajamas",
+      "identifier": "longArrow"
+    },
+    "machine-learning": {
+      "codepoint": 57572,
+      "fontFamily": "Pajamas",
+      "identifier": "machineLearning"
+    },
+    "mail": {
+      "codepoint": 57573,
+      "fontFamily": "Pajamas",
+      "identifier": "mail"
+    },
+    "markdown-mark": {
+      "codepoint": 57574,
+      "fontFamily": "Pajamas",
+      "identifier": "markdownMark"
+    },
+    "markdown-mark-solid": {
+      "codepoint": 57575,
+      "fontFamily": "Pajamas",
+      "identifier": "markdownMarkSolid"
+    },
+    "marquee-selection": {
+      "codepoint": 57576,
+      "fontFamily": "Pajamas",
+      "identifier": "marqueeSelection"
+    },
+    "mastodon": {
+      "codepoint": 57577,
+      "fontFamily": "Pajamas",
+      "identifier": "mastodon"
+    },
+    "maximize": {
+      "codepoint": 57578,
+      "fontFamily": "Pajamas",
+      "identifier": "maximize"
+    },
+    "media": {
+      "codepoint": 57579,
+      "fontFamily": "Pajamas",
+      "identifier": "media"
+    },
+    "media-broken": {
+      "codepoint": 57580,
+      "fontFamily": "Pajamas",
+      "identifier": "mediaBroken"
+    },
+    "merge": {
+      "codepoint": 57581,
+      "fontFamily": "Pajamas",
+      "identifier": "merge"
+    },
+    "merge-request": {
+      "codepoint": 57582,
+      "fontFamily": "Pajamas",
+      "identifier": "mergeRequest"
+    },
+    "merge-request-close": {
+      "codepoint": 57583,
+      "fontFamily": "Pajamas",
+      "identifier": "mergeRequestClose"
+    },
+    "merge-request-close-m": {
+      "codepoint": 57584,
+      "fontFamily": "Pajamas",
+      "identifier": "mergeRequestCloseM"
+    },
+    "merge-request-open": {
+      "codepoint": 57585,
+      "fontFamily": "Pajamas",
+      "identifier": "mergeRequestOpen"
+    },
+    "messages": {
+      "codepoint": 57586,
+      "fontFamily": "Pajamas",
+      "identifier": "messages"
+    },
+    "milestone": {
+      "codepoint": 57587,
+      "fontFamily": "Pajamas",
+      "identifier": "milestone"
+    },
+    "minimize": {
+      "codepoint": 57588,
+      "fontFamily": "Pajamas",
+      "identifier": "minimize"
+    },
+    "mobile": {
+      "codepoint": 57589,
+      "fontFamily": "Pajamas",
+      "identifier": "mobile"
+    },
+    "mobile-issue-close": {
+      "codepoint": 57590,
+      "fontFamily": "Pajamas",
+      "identifier": "mobileIssueClose"
+    },
+    "monitor": {
+      "codepoint": 57591,
+      "fontFamily": "Pajamas",
+      "identifier": "monitor"
+    },
+    "monitor-lines": {
+      "codepoint": 57592,
+      "fontFamily": "Pajamas",
+      "identifier": "monitorLines"
+    },
+    "monitor-o": {
+      "codepoint": 57593,
+      "fontFamily": "Pajamas",
+      "identifier": "monitorO"
+    },
+    "multiple-choice": {
+      "codepoint": 57594,
+      "fontFamily": "Pajamas",
+      "identifier": "multipleChoice"
+    },
+    "namespace": {
+      "codepoint": 57595,
+      "fontFamily": "Pajamas",
+      "identifier": "namespace"
+    },
+    "nature": {
+      "codepoint": 57596,
+      "fontFamily": "Pajamas",
+      "identifier": "nature"
+    },
+    "notifications": {
+      "codepoint": 57597,
+      "fontFamily": "Pajamas",
+      "identifier": "notifications"
+    },
+    "notifications-off": {
+      "codepoint": 57598,
+      "fontFamily": "Pajamas",
+      "identifier": "notificationsOff"
+    },
+    "object": {
+      "codepoint": 57599,
+      "fontFamily": "Pajamas",
+      "identifier": "object"
+    },
+    "organization": {
+      "codepoint": 57600,
+      "fontFamily": "Pajamas",
+      "identifier": "organization"
+    },
+    "overview": {
+      "codepoint": 57601,
+      "fontFamily": "Pajamas",
+      "identifier": "overview"
+    },
+    "package": {
+      "codepoint": 57602,
+      "fontFamily": "Pajamas",
+      "identifier": "package"
+    },
+    "paper-airplane": {
+      "codepoint": 57603,
+      "fontFamily": "Pajamas",
+      "identifier": "paperAirplane"
+    },
+    "paperclip": {
+      "codepoint": 57604,
+      "fontFamily": "Pajamas",
+      "identifier": "paperclip"
+    },
+    "partner-verified": {
+      "codepoint": 57605,
+      "fontFamily": "Pajamas",
+      "identifier": "partnerVerified"
+    },
+    "pause": {
+      "codepoint": 57606,
+      "fontFamily": "Pajamas",
+      "identifier": "pause"
+    },
+    "pencil": {
+      "codepoint": 57607,
+      "fontFamily": "Pajamas",
+      "identifier": "pencil"
+    },
+    "pencil-square": {
+      "codepoint": 57608,
+      "fontFamily": "Pajamas",
+      "identifier": "pencilSquare"
+    },
+    "pipeline": {
+      "codepoint": 57609,
+      "fontFamily": "Pajamas",
+      "identifier": "pipeline"
+    },
+    "planning": {
+      "codepoint": 57610,
+      "fontFamily": "Pajamas",
+      "identifier": "planning"
+    },
+    "play": {
+      "codepoint": 57611,
+      "fontFamily": "Pajamas",
+      "identifier": "play"
+    },
+    "plus": {
+      "codepoint": 57612,
+      "fontFamily": "Pajamas",
+      "identifier": "plus"
+    },
+    "plus-square": {
+      "codepoint": 57613,
+      "fontFamily": "Pajamas",
+      "identifier": "plusSquare"
+    },
+    "plus-square-o": {
+      "codepoint": 57614,
+      "fontFamily": "Pajamas",
+      "identifier": "plusSquareO"
+    },
+    "pod": {
+      "codepoint": 57615,
+      "fontFamily": "Pajamas",
+      "identifier": "pod"
+    },
+    "podcast": {
+      "codepoint": 57616,
+      "fontFamily": "Pajamas",
+      "identifier": "podcast"
+    },
+    "power": {
+      "codepoint": 57617,
+      "fontFamily": "Pajamas",
+      "identifier": "power"
+    },
+    "preferences": {
+      "codepoint": 57618,
+      "fontFamily": "Pajamas",
+      "identifier": "preferences"
+    },
+    "profile": {
+      "codepoint": 57619,
+      "fontFamily": "Pajamas",
+      "identifier": "profile"
+    },
+    "progress": {
+      "codepoint": 57620,
+      "fontFamily": "Pajamas",
+      "identifier": "progress"
+    },
+    "project": {
+      "codepoint": 57621,
+      "fontFamily": "Pajamas",
+      "identifier": "project"
+    },
+    "push-rules": {
+      "codepoint": 57622,
+      "fontFamily": "Pajamas",
+      "identifier": "pushRules"
+    },
+    "question": {
+      "codepoint": 57623,
+      "fontFamily": "Pajamas",
+      "identifier": "question"
+    },
+    "question-o": {
+      "codepoint": 57624,
+      "fontFamily": "Pajamas",
+      "identifier": "questionO"
+    },
+    "quick-actions": {
+      "codepoint": 57625,
+      "fontFamily": "Pajamas",
+      "identifier": "quickActions"
+    },
+    "quota": {
+      "codepoint": 57626,
+      "fontFamily": "Pajamas",
+      "identifier": "quota"
+    },
+    "quote": {
+      "codepoint": 57627,
+      "fontFamily": "Pajamas",
+      "identifier": "quote"
+    },
+    "recipe": {
+      "codepoint": 57628,
+      "fontFamily": "Pajamas",
+      "identifier": "recipe"
+    },
+    "redo": {
+      "codepoint": 57629,
+      "fontFamily": "Pajamas",
+      "identifier": "redo"
+    },
+    "regular-expression": {
+      "codepoint": 57630,
+      "fontFamily": "Pajamas",
+      "identifier": "regularExpression"
+    },
+    "remove": {
+      "codepoint": 57631,
+      "fontFamily": "Pajamas",
+      "identifier": "remove"
+    },
+    "remove-all": {
+      "codepoint": 57632,
+      "fontFamily": "Pajamas",
+      "identifier": "removeAll"
+    },
+    "repeat": {
+      "codepoint": 57633,
+      "fontFamily": "Pajamas",
+      "identifier": "repeat"
+    },
+    "reply": {
+      "codepoint": 57634,
+      "fontFamily": "Pajamas",
+      "identifier": "reply"
+    },
+    "requirements": {
+      "codepoint": 57635,
+      "fontFamily": "Pajamas",
+      "identifier": "requirements"
+    },
+    "resize": {
+      "codepoint": 57636,
+      "fontFamily": "Pajamas",
+      "identifier": "resize"
+    },
+    "retry": {
+      "codepoint": 57637,
+      "fontFamily": "Pajamas",
+      "identifier": "retry"
+    },
+    "review-checkmark": {
+      "codepoint": 57638,
+      "fontFamily": "Pajamas",
+      "identifier": "reviewCheckmark"
+    },
+    "review-list": {
+      "codepoint": 57639,
+      "fontFamily": "Pajamas",
+      "identifier": "reviewList"
+    },
+    "review-warning": {
+      "codepoint": 57640,
+      "fontFamily": "Pajamas",
+      "identifier": "reviewWarning"
+    },
+    "rocket": {
+      "codepoint": 57641,
+      "fontFamily": "Pajamas",
+      "identifier": "rocket"
+    },
+    "rocket-launch": {
+      "codepoint": 57642,
+      "fontFamily": "Pajamas",
+      "identifier": "rocketLaunch"
+    },
+    "rss": {
+      "codepoint": 57643,
+      "fontFamily": "Pajamas",
+      "identifier": "rss"
+    },
+    "scale": {
+      "codepoint": 57644,
+      "fontFamily": "Pajamas",
+      "identifier": "scale"
+    },
+    "scroll-down": {
+      "codepoint": 57645,
+      "fontFamily": "Pajamas",
+      "identifier": "scrollDown"
+    },
+    "scroll-handle": {
+      "codepoint": 57646,
+      "fontFamily": "Pajamas",
+      "identifier": "scrollHandle"
+    },
+    "scroll-up": {
+      "codepoint": 57647,
+      "fontFamily": "Pajamas",
+      "identifier": "scrollUp"
+    },
+    "search": {
+      "codepoint": 57648,
+      "fontFamily": "Pajamas",
+      "identifier": "search"
+    },
+    "search-dot": {
+      "codepoint": 57649,
+      "fontFamily": "Pajamas",
+      "identifier": "searchDot"
+    },
+    "search-minus": {
+      "codepoint": 57650,
+      "fontFamily": "Pajamas",
+      "identifier": "searchMinus"
+    },
+    "search-plus": {
+      "codepoint": 57651,
+      "fontFamily": "Pajamas",
+      "identifier": "searchPlus"
+    },
+    "search-results": {
+      "codepoint": 57652,
+      "fontFamily": "Pajamas",
+      "identifier": "searchResults"
+    },
+    "search-sm": {
+      "codepoint": 57653,
+      "fontFamily": "Pajamas",
+      "identifier": "searchSm"
+    },
+    "session-ai": {
+      "codepoint": 57654,
+      "fontFamily": "Pajamas",
+      "identifier": "sessionAi"
+    },
+    "settings": {
+      "codepoint": 57655,
+      "fontFamily": "Pajamas",
+      "identifier": "settings"
+    },
+    "severity-critical": {
+      "codepoint": 57656,
+      "fontFamily": "Pajamas",
+      "identifier": "severityCritical"
+    },
+    "severity-high": {
+      "codepoint": 57657,
+      "fontFamily": "Pajamas",
+      "identifier": "severityHigh"
+    },
+    "severity-info": {
+      "codepoint": 57658,
+      "fontFamily": "Pajamas",
+      "identifier": "severityInfo"
+    },
+    "severity-low": {
+      "codepoint": 57659,
+      "fontFamily": "Pajamas",
+      "identifier": "severityLow"
+    },
+    "severity-medium": {
+      "codepoint": 57660,
+      "fontFamily": "Pajamas",
+      "identifier": "severityMedium"
+    },
+    "severity-unknown": {
+      "codepoint": 57661,
+      "fontFamily": "Pajamas",
+      "identifier": "severityUnknown"
+    },
+    "share": {
+      "codepoint": 57662,
+      "fontFamily": "Pajamas",
+      "identifier": "share"
+    },
+    "shield": {
+      "codepoint": 57663,
+      "fontFamily": "Pajamas",
+      "identifier": "shield"
+    },
+    "sidebar": {
+      "codepoint": 57664,
+      "fontFamily": "Pajamas",
+      "identifier": "sidebar"
+    },
+    "sidebar-right": {
+      "codepoint": 57665,
+      "fontFamily": "Pajamas",
+      "identifier": "sidebarRight"
+    },
+    "skype": {
+      "codepoint": 57666,
+      "fontFamily": "Pajamas",
+      "identifier": "skype"
+    },
+    "slight-frown": {
+      "codepoint": 57667,
+      "fontFamily": "Pajamas",
+      "identifier": "slightFrown"
+    },
+    "slight-smile": {
+      "codepoint": 57668,
+      "fontFamily": "Pajamas",
+      "identifier": "slightSmile"
+    },
+    "smart-card": {
+      "codepoint": 57669,
+      "fontFamily": "Pajamas",
+      "identifier": "smartCard"
+    },
+    "smile": {
+      "codepoint": 57670,
+      "fontFamily": "Pajamas",
+      "identifier": "smile"
+    },
+    "smiley": {
+      "codepoint": 57671,
+      "fontFamily": "Pajamas",
+      "identifier": "smiley"
+    },
+    "snippet": {
+      "codepoint": 57672,
+      "fontFamily": "Pajamas",
+      "identifier": "snippet"
+    },
+    "soft-unwrap": {
+      "codepoint": 57673,
+      "fontFamily": "Pajamas",
+      "identifier": "softUnwrap"
+    },
+    "soft-wrap": {
+      "codepoint": 57674,
+      "fontFamily": "Pajamas",
+      "identifier": "softWrap"
+    },
+    "sort-highest": {
+      "codepoint": 57675,
+      "fontFamily": "Pajamas",
+      "identifier": "sortHighest"
+    },
+    "sort-lowest": {
+      "codepoint": 57676,
+      "fontFamily": "Pajamas",
+      "identifier": "sortLowest"
+    },
+    "spam": {
+      "codepoint": 57677,
+      "fontFamily": "Pajamas",
+      "identifier": "spam"
+    },
+    "stage-all": {
+      "codepoint": 57678,
+      "fontFamily": "Pajamas",
+      "identifier": "stageAll"
+    },
+    "star": {
+      "codepoint": 57679,
+      "fontFamily": "Pajamas",
+      "identifier": "star"
+    },
+    "star-o": {
+      "codepoint": 57680,
+      "fontFamily": "Pajamas",
+      "identifier": "starO"
+    },
+    "status": {
+      "codepoint": 57681,
+      "fontFamily": "Pajamas",
+      "identifier": "status"
+    },
+    "status-active": {
+      "codepoint": 57682,
+      "fontFamily": "Pajamas",
+      "identifier": "statusActive"
+    },
+    "status-alert": {
+      "codepoint": 57683,
+      "fontFamily": "Pajamas",
+      "identifier": "statusAlert"
+    },
+    "status-cancelled": {
+      "codepoint": 57684,
+      "fontFamily": "Pajamas",
+      "identifier": "statusCancelled"
+    },
+    "status-closed": {
+      "codepoint": 57685,
+      "fontFamily": "Pajamas",
+      "identifier": "statusClosed"
+    },
+    "status-health": {
+      "codepoint": 57686,
+      "fontFamily": "Pajamas",
+      "identifier": "statusHealth"
+    },
+    "status-neutral": {
+      "codepoint": 57687,
+      "fontFamily": "Pajamas",
+      "identifier": "statusNeutral"
+    },
+    "status-paused": {
+      "codepoint": 57688,
+      "fontFamily": "Pajamas",
+      "identifier": "statusPaused"
+    },
+    "status-preparing-borderless": {
+      "codepoint": 57689,
+      "fontFamily": "Pajamas",
+      "identifier": "statusPreparingBorderless"
+    },
+    "status-stopped": {
+      "codepoint": 57690,
+      "fontFamily": "Pajamas",
+      "identifier": "statusStopped"
+    },
+    "status-waiting": {
+      "codepoint": 57691,
+      "fontFamily": "Pajamas",
+      "identifier": "statusWaiting"
+    },
+    "stop": {
+      "codepoint": 57692,
+      "fontFamily": "Pajamas",
+      "identifier": "stop"
+    },
+    "strikethrough": {
+      "codepoint": 57693,
+      "fontFamily": "Pajamas",
+      "identifier": "strikethrough"
+    },
+    "subgroup": {
+      "codepoint": 57694,
+      "fontFamily": "Pajamas",
+      "identifier": "subgroup"
+    },
+    "subscript": {
+      "codepoint": 57695,
+      "fontFamily": "Pajamas",
+      "identifier": "subscript"
+    },
+    "substitute": {
+      "codepoint": 57696,
+      "fontFamily": "Pajamas",
+      "identifier": "substitute"
+    },
+    "suggestion-ai": {
+      "codepoint": 57697,
+      "fontFamily": "Pajamas",
+      "identifier": "suggestionAi"
+    },
+    "superscript": {
+      "codepoint": 57698,
+      "fontFamily": "Pajamas",
+      "identifier": "superscript"
+    },
+    "symlink": {
+      "codepoint": 57699,
+      "fontFamily": "Pajamas",
+      "identifier": "symlink"
+    },
+    "table": {
+      "codepoint": 57700,
+      "fontFamily": "Pajamas",
+      "identifier": "table"
+    },
+    "tablet": {
+      "codepoint": 57701,
+      "fontFamily": "Pajamas",
+      "identifier": "tablet"
+    },
+    "tachometer": {
+      "codepoint": 57702,
+      "fontFamily": "Pajamas",
+      "identifier": "tachometer"
+    },
+    "tag": {
+      "codepoint": 57703,
+      "fontFamily": "Pajamas",
+      "identifier": "tag"
+    },
+    "tanuki": {
+      "codepoint": 57704,
+      "fontFamily": "Pajamas",
+      "identifier": "tanuki"
+    },
+    "tanuki-ai": {
+      "codepoint": 57705,
+      "fontFamily": "Pajamas",
+      "identifier": "tanukiAi"
+    },
+    "tanuki-ai-off": {
+      "codepoint": 57706,
+      "fontFamily": "Pajamas",
+      "identifier": "tanukiAiOff"
+    },
+    "tanuki-verified": {
+      "codepoint": 57707,
+      "fontFamily": "Pajamas",
+      "identifier": "tanukiVerified"
+    },
+    "task-done": {
+      "codepoint": 57708,
+      "fontFamily": "Pajamas",
+      "identifier": "taskDone"
+    },
+    "template": {
+      "codepoint": 57709,
+      "fontFamily": "Pajamas",
+      "identifier": "template"
+    },
+    "terminal": {
+      "codepoint": 57710,
+      "fontFamily": "Pajamas",
+      "identifier": "terminal"
+    },
+    "terraform": {
+      "codepoint": 57711,
+      "fontFamily": "Pajamas",
+      "identifier": "terraform"
+    },
+    "text-description": {
+      "codepoint": 57712,
+      "fontFamily": "Pajamas",
+      "identifier": "textDescription"
+    },
+    "thumb-down": {
+      "codepoint": 57713,
+      "fontFamily": "Pajamas",
+      "identifier": "thumbDown"
+    },
+    "thumb-up": {
+      "codepoint": 57714,
+      "fontFamily": "Pajamas",
+      "identifier": "thumbUp"
+    },
+    "thumbtack": {
+      "codepoint": 57715,
+      "fontFamily": "Pajamas",
+      "identifier": "thumbtack"
+    },
+    "thumbtack-solid": {
+      "codepoint": 57716,
+      "fontFamily": "Pajamas",
+      "identifier": "thumbtackSolid"
+    },
+    "time-out": {
+      "codepoint": 57717,
+      "fontFamily": "Pajamas",
+      "identifier": "timeOut"
+    },
+    "timer": {
+      "codepoint": 57718,
+      "fontFamily": "Pajamas",
+      "identifier": "timer"
+    },
+    "title": {
+      "codepoint": 57719,
+      "fontFamily": "Pajamas",
+      "identifier": "title"
+    },
+    "todo-add": {
+      "codepoint": 57720,
+      "fontFamily": "Pajamas",
+      "identifier": "todoAdd"
+    },
+    "todo-done": {
+      "codepoint": 57721,
+      "fontFamily": "Pajamas",
+      "identifier": "todoDone"
+    },
+    "token": {
+      "codepoint": 57722,
+      "fontFamily": "Pajamas",
+      "identifier": "token"
+    },
+    "trend-down": {
+      "codepoint": 57723,
+      "fontFamily": "Pajamas",
+      "identifier": "trendDown"
+    },
+    "trend-static": {
+      "codepoint": 57724,
+      "fontFamily": "Pajamas",
+      "identifier": "trendStatic"
+    },
+    "trend-up": {
+      "codepoint": 57725,
+      "fontFamily": "Pajamas",
+      "identifier": "trendUp"
+    },
+    "trigger-source": {
+      "codepoint": 57726,
+      "fontFamily": "Pajamas",
+      "identifier": "triggerSource"
+    },
+    "twitter": {
+      "codepoint": 57727,
+      "fontFamily": "Pajamas",
+      "identifier": "twitter"
+    },
+    "unapproval": {
+      "codepoint": 57728,
+      "fontFamily": "Pajamas",
+      "identifier": "unapproval"
+    },
+    "unassignee": {
+      "codepoint": 57729,
+      "fontFamily": "Pajamas",
+      "identifier": "unassignee"
+    },
+    "underline": {
+      "codepoint": 57730,
+      "fontFamily": "Pajamas",
+      "identifier": "underline"
+    },
+    "unlink": {
+      "codepoint": 57731,
+      "fontFamily": "Pajamas",
+      "identifier": "unlink"
+    },
+    "unstage-all": {
+      "codepoint": 57732,
+      "fontFamily": "Pajamas",
+      "identifier": "unstageAll"
+    },
+    "upgrade": {
+      "codepoint": 57733,
+      "fontFamily": "Pajamas",
+      "identifier": "upgrade"
+    },
+    "upload": {
+      "codepoint": 57734,
+      "fontFamily": "Pajamas",
+      "identifier": "upload"
+    },
+    "user": {
+      "codepoint": 57735,
+      "fontFamily": "Pajamas",
+      "identifier": "user"
+    },
+    "users": {
+      "codepoint": 57736,
+      "fontFamily": "Pajamas",
+      "identifier": "users"
+    },
+    "volume-up": {
+      "codepoint": 57737,
+      "fontFamily": "Pajamas",
+      "identifier": "volumeUp"
+    },
+    "warning": {
+      "codepoint": 57738,
+      "fontFamily": "Pajamas",
+      "identifier": "warning"
+    },
+    "warning-solid": {
+      "codepoint": 57739,
+      "fontFamily": "Pajamas",
+      "identifier": "warningSolid"
+    },
+    "weight": {
+      "codepoint": 57740,
+      "fontFamily": "Pajamas",
+      "identifier": "weight"
+    },
+    "work": {
+      "codepoint": 57741,
+      "fontFamily": "Pajamas",
+      "identifier": "work"
+    },
+    "work-item-child": {
+      "codepoint": 57742,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemChild"
+    },
+    "work-item-enhancement": {
+      "codepoint": 57743,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemEnhancement"
+    },
+    "work-item-epic": {
+      "codepoint": 57744,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemEpic"
+    },
+    "work-item-feature": {
+      "codepoint": 57745,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemFeature"
+    },
+    "work-item-feature-flag": {
+      "codepoint": 57746,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemFeatureFlag"
+    },
+    "work-item-incident": {
+      "codepoint": 57747,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemIncident"
+    },
+    "work-item-issue": {
+      "codepoint": 57748,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemIssue"
+    },
+    "work-item-keyresult": {
+      "codepoint": 57749,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemKeyresult"
+    },
+    "work-item-maintenance": {
+      "codepoint": 57750,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemMaintenance"
+    },
+    "work-item-new": {
+      "codepoint": 57751,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemNew"
+    },
+    "work-item-objective": {
+      "codepoint": 57752,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemObjective"
+    },
+    "work-item-parent": {
+      "codepoint": 57753,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemParent"
+    },
+    "work-item-requirement": {
+      "codepoint": 57754,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemRequirement"
+    },
+    "work-item-task": {
+      "codepoint": 57755,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemTask"
+    },
+    "work-item-test-case": {
+      "codepoint": 57756,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemTestCase"
+    },
+    "work-item-ticket": {
+      "codepoint": 57757,
+      "fontFamily": "Pajamas",
+      "identifier": "workItemTicket"
+    },
+    "work-items": {
+      "codepoint": 57758,
+      "fontFamily": "Pajamas",
+      "identifier": "workItems"
+    },
+    "x": {
+      "codepoint": 57759,
+      "fontFamily": "Pajamas",
+      "identifier": "x"
+    }
+  }
+}

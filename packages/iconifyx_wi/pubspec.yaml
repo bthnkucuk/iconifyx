@@ -1,0 +1,22 @@
+name: iconifyx_wi
+description: >-
+  Weather Icons icons from Iconify, packaged for Flutter (601 icons, Open Font License license).
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+
+flutter:
+  uses-material-design: false
+  fonts:
+    - family: Wi
+      fonts:
+        - asset: assets/fonts/Wi.ttf

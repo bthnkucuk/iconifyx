@@ -1,0 +1,4150 @@
+{
+  "schemaVersion": 1,
+  "prefix": "picon",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_picon",
+  "info": {
+    "name": "Pico-icon",
+    "author": {
+      "name": "Picon Contributors",
+      "url": "https://github.com/yne/picon"
+    },
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://github.com/yne/picon/blob/master/OFL.txt"
+    },
+    "total": 824
+  },
+  "fonts": [
+    {
+      "family": "Picon",
+      "nextCodepoint": 58168,
+      "iconCount": 824
+    }
+  ],
+  "icons": {
+    "2g": {
+      "codepoint": 57344,
+      "fontFamily": "Picon",
+      "identifier": "n2g"
+    },
+    "3g": {
+      "codepoint": 57345,
+      "fontFamily": "Picon",
+      "identifier": "n3g"
+    },
+    "4chan": {
+      "codepoint": 57346,
+      "fontFamily": "Picon",
+      "identifier": "n4chan"
+    },
+    "4g": {
+      "codepoint": 57347,
+      "fontFamily": "Picon",
+      "identifier": "n4g"
+    },
+    "4k": {
+      "codepoint": 57348,
+      "fontFamily": "Picon",
+      "identifier": "n4k"
+    },
+    "5g": {
+      "codepoint": 57349,
+      "fontFamily": "Picon",
+      "identifier": "n5g"
+    },
+    "8k": {
+      "codepoint": 57350,
+      "fontFamily": "Picon",
+      "identifier": "n8k"
+    },
+    "abacus": {
+      "codepoint": 57351,
+      "fontFamily": "Picon",
+      "identifier": "abacus"
+    },
+    "acorn": {
+      "codepoint": 57352,
+      "fontFamily": "Picon",
+      "identifier": "acorn"
+    },
+    "ad": {
+      "codepoint": 57353,
+      "fontFamily": "Picon",
+      "identifier": "ad"
+    },
+    "add": {
+      "codepoint": 57354,
+      "fontFamily": "Picon",
+      "identifier": "add"
+    },
+    "address": {
+      "codepoint": 57355,
+      "fontFamily": "Picon",
+      "identifier": "address"
+    },
+    "aflat": {
+      "codepoint": 57356,
+      "fontFamily": "Picon",
+      "identifier": "aflat"
+    },
+    "africa": {
+      "codepoint": 57357,
+      "fontFamily": "Picon",
+      "identifier": "africa"
+    },
+    "airbag": {
+      "codepoint": 57358,
+      "fontFamily": "Picon",
+      "identifier": "airbag"
+    },
+    "airconditioner": {
+      "codepoint": 57359,
+      "fontFamily": "Picon",
+      "identifier": "airconditioner"
+    },
+    "aircraft": {
+      "codepoint": 57360,
+      "fontFamily": "Picon",
+      "identifier": "aircraft"
+    },
+    "airhorn": {
+      "codepoint": 57361,
+      "fontFamily": "Picon",
+      "identifier": "airhorn"
+    },
+    "airplay": {
+      "codepoint": 57362,
+      "fontFamily": "Picon",
+      "identifier": "airplay"
+    },
+    "airport": {
+      "codepoint": 57363,
+      "fontFamily": "Picon",
+      "identifier": "airport"
+    },
+    "alarm": {
+      "codepoint": 57364,
+      "fontFamily": "Picon",
+      "identifier": "alarm"
+    },
+    "album": {
+      "codepoint": 57365,
+      "fontFamily": "Picon",
+      "identifier": "album"
+    },
+    "albums": {
+      "codepoint": 57366,
+      "fontFamily": "Picon",
+      "identifier": "albums"
+    },
+    "alert": {
+      "codepoint": 57367,
+      "fontFamily": "Picon",
+      "identifier": "alert"
+    },
+    "alien": {
+      "codepoint": 57368,
+      "fontFamily": "Picon",
+      "identifier": "alien"
+    },
+    "aliexpress": {
+      "codepoint": 57369,
+      "fontFamily": "Picon",
+      "identifier": "aliexpress"
+    },
+    "alipay": {
+      "codepoint": 57370,
+      "fontFamily": "Picon",
+      "identifier": "alipay"
+    },
+    "amazon": {
+      "codepoint": 57371,
+      "fontFamily": "Picon",
+      "identifier": "amazon"
+    },
+    "ambulance": {
+      "codepoint": 57372,
+      "fontFamily": "Picon",
+      "identifier": "ambulance"
+    },
+    "america": {
+      "codepoint": 57373,
+      "fontFamily": "Picon",
+      "identifier": "america"
+    },
+    "americanfootball": {
+      "codepoint": 57374,
+      "fontFamily": "Picon",
+      "identifier": "americanfootball"
+    },
+    "ammo": {
+      "codepoint": 57375,
+      "fontFamily": "Picon",
+      "identifier": "ammo"
+    },
+    "amp": {
+      "codepoint": 57376,
+      "fontFamily": "Picon",
+      "identifier": "amp"
+    },
+    "ampersand": {
+      "codepoint": 57377,
+      "fontFamily": "Picon",
+      "identifier": "ampersand"
+    },
+    "anaglyph": {
+      "codepoint": 57378,
+      "fontFamily": "Picon",
+      "identifier": "anaglyph"
+    },
+    "anchor": {
+      "codepoint": 57379,
+      "fontFamily": "Picon",
+      "identifier": "anchor"
+    },
+    "and": {
+      "codepoint": 57380,
+      "fontFamily": "Picon",
+      "identifier": "and"
+    },
+    "android": {
+      "codepoint": 57381,
+      "fontFamily": "Picon",
+      "identifier": "android"
+    },
+    "angle": {
+      "codepoint": 57382,
+      "fontFamily": "Picon",
+      "identifier": "angle"
+    },
+    "angry": {
+      "codepoint": 57383,
+      "fontFamily": "Picon",
+      "identifier": "angry"
+    },
+    "angular": {
+      "codepoint": 57384,
+      "fontFamily": "Picon",
+      "identifier": "angular"
+    },
+    "antenna": {
+      "codepoint": 57385,
+      "fontFamily": "Picon",
+      "identifier": "antenna"
+    },
+    "anvil": {
+      "codepoint": 57386,
+      "fontFamily": "Picon",
+      "identifier": "anvil"
+    },
+    "apart": {
+      "codepoint": 57387,
+      "fontFamily": "Picon",
+      "identifier": "apart"
+    },
+    "app": {
+      "codepoint": 57388,
+      "fontFamily": "Picon",
+      "identifier": "app"
+    },
+    "apple": {
+      "codepoint": 57389,
+      "fontFamily": "Picon",
+      "identifier": "apple"
+    },
+    "application": {
+      "codepoint": 57390,
+      "fontFamily": "Picon",
+      "identifier": "application"
+    },
+    "archery": {
+      "codepoint": 57391,
+      "fontFamily": "Picon",
+      "identifier": "archery"
+    },
+    "archive": {
+      "codepoint": 57392,
+      "fontFamily": "Picon",
+      "identifier": "archive"
+    },
+    "archlinux": {
+      "codepoint": 57393,
+      "fontFamily": "Picon",
+      "identifier": "archlinux"
+    },
+    "armchair": {
+      "codepoint": 57394,
+      "fontFamily": "Picon",
+      "identifier": "armchair"
+    },
+    "asc": {
+      "codepoint": 57395,
+      "fontFamily": "Picon",
+      "identifier": "asc"
+    },
+    "asia": {
+      "codepoint": 57396,
+      "fontFamily": "Picon",
+      "identifier": "asia"
+    },
+    "at": {
+      "codepoint": 57397,
+      "fontFamily": "Picon",
+      "identifier": "at"
+    },
+    "atm": {
+      "codepoint": 57398,
+      "fontFamily": "Picon",
+      "identifier": "atm"
+    },
+    "atom": {
+      "codepoint": 57399,
+      "fontFamily": "Picon",
+      "identifier": "atom"
+    },
+    "attachment": {
+      "codepoint": 57400,
+      "fontFamily": "Picon",
+      "identifier": "attachment"
+    },
+    "australia": {
+      "codepoint": 57401,
+      "fontFamily": "Picon",
+      "identifier": "australia"
+    },
+    "awd": {
+      "codepoint": 57402,
+      "fontFamily": "Picon",
+      "identifier": "awd"
+    },
+    "axe": {
+      "codepoint": 57403,
+      "fontFamily": "Picon",
+      "identifier": "axe"
+    },
+    "baby": {
+      "codepoint": 57404,
+      "fontFamily": "Picon",
+      "identifier": "baby"
+    },
+    "babyroom": {
+      "codepoint": 57405,
+      "fontFamily": "Picon",
+      "identifier": "babyroom"
+    },
+    "back": {
+      "codepoint": 57406,
+      "fontFamily": "Picon",
+      "identifier": "back"
+    },
+    "backlight": {
+      "codepoint": 57407,
+      "fontFamily": "Picon",
+      "identifier": "backlight"
+    },
+    "backpack": {
+      "codepoint": 57408,
+      "fontFamily": "Picon",
+      "identifier": "backpack"
+    },
+    "badge": {
+      "codepoint": 57409,
+      "fontFamily": "Picon",
+      "identifier": "badge"
+    },
+    "badminton": {
+      "codepoint": 57410,
+      "fontFamily": "Picon",
+      "identifier": "badminton"
+    },
+    "baguette": {
+      "codepoint": 57411,
+      "fontFamily": "Picon",
+      "identifier": "baguette"
+    },
+    "balance": {
+      "codepoint": 57412,
+      "fontFamily": "Picon",
+      "identifier": "balance"
+    },
+    "ball": {
+      "codepoint": 57413,
+      "fontFamily": "Picon",
+      "identifier": "ball"
+    },
+    "ballot": {
+      "codepoint": 57414,
+      "fontFamily": "Picon",
+      "identifier": "ballot"
+    },
+    "bandaid": {
+      "codepoint": 57415,
+      "fontFamily": "Picon",
+      "identifier": "bandaid"
+    },
+    "bank": {
+      "codepoint": 57416,
+      "fontFamily": "Picon",
+      "identifier": "bank"
+    },
+    "barcode": {
+      "codepoint": 57417,
+      "fontFamily": "Picon",
+      "identifier": "barcode"
+    },
+    "barrel": {
+      "codepoint": 57418,
+      "fontFamily": "Picon",
+      "identifier": "barrel"
+    },
+    "bars": {
+      "codepoint": 57419,
+      "fontFamily": "Picon",
+      "identifier": "bars"
+    },
+    "basket": {
+      "codepoint": 57420,
+      "fontFamily": "Picon",
+      "identifier": "basket"
+    },
+    "bat": {
+      "codepoint": 57421,
+      "fontFamily": "Picon",
+      "identifier": "bat"
+    },
+    "bath": {
+      "codepoint": 57422,
+      "fontFamily": "Picon",
+      "identifier": "bath"
+    },
+    "bathroom": {
+      "codepoint": 57423,
+      "fontFamily": "Picon",
+      "identifier": "bathroom"
+    },
+    "battery": {
+      "codepoint": 57424,
+      "fontFamily": "Picon",
+      "identifier": "battery"
+    },
+    "battery0": {
+      "codepoint": 57425,
+      "fontFamily": "Picon",
+      "identifier": "battery0"
+    },
+    "battery1": {
+      "codepoint": 57426,
+      "fontFamily": "Picon",
+      "identifier": "battery1"
+    },
+    "battery2": {
+      "codepoint": 57427,
+      "fontFamily": "Picon",
+      "identifier": "battery2"
+    },
+    "battery3": {
+      "codepoint": 57428,
+      "fontFamily": "Picon",
+      "identifier": "battery3"
+    },
+    "battery4": {
+      "codepoint": 57429,
+      "fontFamily": "Picon",
+      "identifier": "battery4"
+    },
+    "battery5": {
+      "codepoint": 57430,
+      "fontFamily": "Picon",
+      "identifier": "battery5"
+    },
+    "battleaxe": {
+      "codepoint": 57431,
+      "fontFamily": "Picon",
+      "identifier": "battleaxe"
+    },
+    "beach": {
+      "codepoint": 57432,
+      "fontFamily": "Picon",
+      "identifier": "beach"
+    },
+    "bean": {
+      "codepoint": 57433,
+      "fontFamily": "Picon",
+      "identifier": "bean"
+    },
+    "bed": {
+      "codepoint": 57434,
+      "fontFamily": "Picon",
+      "identifier": "bed"
+    },
+    "bedbunk": {
+      "codepoint": 57435,
+      "fontFamily": "Picon",
+      "identifier": "bedbunk"
+    },
+    "bee": {
+      "codepoint": 57436,
+      "fontFamily": "Picon",
+      "identifier": "bee"
+    },
+    "beer": {
+      "codepoint": 57437,
+      "fontFamily": "Picon",
+      "identifier": "beer"
+    },
+    "bell": {
+      "codepoint": 57438,
+      "fontFamily": "Picon",
+      "identifier": "bell"
+    },
+    "belt": {
+      "codepoint": 57439,
+      "fontFamily": "Picon",
+      "identifier": "belt"
+    },
+    "bike": {
+      "codepoint": 57440,
+      "fontFamily": "Picon",
+      "identifier": "bike"
+    },
+    "bill": {
+      "codepoint": 57441,
+      "fontFamily": "Picon",
+      "identifier": "bill"
+    },
+    "binocular": {
+      "codepoint": 57442,
+      "fontFamily": "Picon",
+      "identifier": "binocular"
+    },
+    "bird": {
+      "codepoint": 57443,
+      "fontFamily": "Picon",
+      "identifier": "bird"
+    },
+    "birthday": {
+      "codepoint": 57444,
+      "fontFamily": "Picon",
+      "identifier": "birthday"
+    },
+    "bitcoin": {
+      "codepoint": 57445,
+      "fontFamily": "Picon",
+      "identifier": "bitcoin"
+    },
+    "blame": {
+      "codepoint": 57446,
+      "fontFamily": "Picon",
+      "identifier": "blame"
+    },
+    "bluetooth": {
+      "codepoint": 57447,
+      "fontFamily": "Picon",
+      "identifier": "bluetooth"
+    },
+    "board": {
+      "codepoint": 57448,
+      "fontFamily": "Picon",
+      "identifier": "board"
+    },
+    "boat": {
+      "codepoint": 57449,
+      "fontFamily": "Picon",
+      "identifier": "boat"
+    },
+    "bold": {
+      "codepoint": 57450,
+      "fontFamily": "Picon",
+      "identifier": "bold"
+    },
+    "bolt": {
+      "codepoint": 57451,
+      "fontFamily": "Picon",
+      "identifier": "bolt"
+    },
+    "bone": {
+      "codepoint": 57452,
+      "fontFamily": "Picon",
+      "identifier": "bone"
+    },
+    "book": {
+      "codepoint": 57453,
+      "fontFamily": "Picon",
+      "identifier": "book"
+    },
+    "bookmark": {
+      "codepoint": 57454,
+      "fontFamily": "Picon",
+      "identifier": "bookmark"
+    },
+    "boomerang": {
+      "codepoint": 57455,
+      "fontFamily": "Picon",
+      "identifier": "boomerang"
+    },
+    "boot": {
+      "codepoint": 57456,
+      "fontFamily": "Picon",
+      "identifier": "boot"
+    },
+    "bottle": {
+      "codepoint": 57457,
+      "fontFamily": "Picon",
+      "identifier": "bottle"
+    },
+    "bowling": {
+      "codepoint": 57458,
+      "fontFamily": "Picon",
+      "identifier": "bowling"
+    },
+    "boxer": {
+      "codepoint": 57459,
+      "fontFamily": "Picon",
+      "identifier": "boxer"
+    },
+    "boxes": {
+      "codepoint": 57460,
+      "fontFamily": "Picon",
+      "identifier": "boxes"
+    },
+    "boy": {
+      "codepoint": 57461,
+      "fontFamily": "Picon",
+      "identifier": "boy"
+    },
+    "bra": {
+      "codepoint": 57462,
+      "fontFamily": "Picon",
+      "identifier": "bra"
+    },
+    "branch": {
+      "codepoint": 57463,
+      "fontFamily": "Picon",
+      "identifier": "branch"
+    },
+    "break": {
+      "codepoint": 57464,
+      "fontFamily": "Picon",
+      "identifier": "break_"
+    },
+    "bridge": {
+      "codepoint": 57465,
+      "fontFamily": "Picon",
+      "identifier": "bridge"
+    },
+    "briefcase": {
+      "codepoint": 57466,
+      "fontFamily": "Picon",
+      "identifier": "briefcase"
+    },
+    "brightness": {
+      "codepoint": 57467,
+      "fontFamily": "Picon",
+      "identifier": "brightness"
+    },
+    "broadcast": {
+      "codepoint": 57468,
+      "fontFamily": "Picon",
+      "identifier": "broadcast"
+    },
+    "broom": {
+      "codepoint": 57469,
+      "fontFamily": "Picon",
+      "identifier": "broom"
+    },
+    "brush": {
+      "codepoint": 57470,
+      "fontFamily": "Picon",
+      "identifier": "brush"
+    },
+    "bucket": {
+      "codepoint": 57471,
+      "fontFamily": "Picon",
+      "identifier": "bucket"
+    },
+    "bug": {
+      "codepoint": 57472,
+      "fontFamily": "Picon",
+      "identifier": "bug"
+    },
+    "bull": {
+      "codepoint": 57473,
+      "fontFamily": "Picon",
+      "identifier": "bull"
+    },
+    "bulldozer": {
+      "codepoint": 57474,
+      "fontFamily": "Picon",
+      "identifier": "bulldozer"
+    },
+    "burger": {
+      "codepoint": 57475,
+      "fontFamily": "Picon",
+      "identifier": "burger"
+    },
+    "burn": {
+      "codepoint": 57476,
+      "fontFamily": "Picon",
+      "identifier": "burn"
+    },
+    "bus": {
+      "codepoint": 57477,
+      "fontFamily": "Picon",
+      "identifier": "bus"
+    },
+    "business": {
+      "codepoint": 57478,
+      "fontFamily": "Picon",
+      "identifier": "business"
+    },
+    "bust": {
+      "codepoint": 57479,
+      "fontFamily": "Picon",
+      "identifier": "bust"
+    },
+    "butterfly": {
+      "codepoint": 57480,
+      "fontFamily": "Picon",
+      "identifier": "butterfly"
+    },
+    "cablecar": {
+      "codepoint": 57481,
+      "fontFamily": "Picon",
+      "identifier": "cablecar"
+    },
+    "cactus": {
+      "codepoint": 57482,
+      "fontFamily": "Picon",
+      "identifier": "cactus"
+    },
+    "cake": {
+      "codepoint": 57483,
+      "fontFamily": "Picon",
+      "identifier": "cake"
+    },
+    "calc": {
+      "codepoint": 57484,
+      "fontFamily": "Picon",
+      "identifier": "calc"
+    },
+    "calendar": {
+      "codepoint": 57485,
+      "fontFamily": "Picon",
+      "identifier": "calendar"
+    },
+    "call": {
+      "codepoint": 57486,
+      "fontFamily": "Picon",
+      "identifier": "call"
+    },
+    "camcorder": {
+      "codepoint": 57487,
+      "fontFamily": "Picon",
+      "identifier": "camcorder"
+    },
+    "camera": {
+      "codepoint": 57488,
+      "fontFamily": "Picon",
+      "identifier": "camera"
+    },
+    "cameraroll": {
+      "codepoint": 57489,
+      "fontFamily": "Picon",
+      "identifier": "cameraroll"
+    },
+    "camping": {
+      "codepoint": 57490,
+      "fontFamily": "Picon",
+      "identifier": "camping"
+    },
+    "campingcar": {
+      "codepoint": 57491,
+      "fontFamily": "Picon",
+      "identifier": "campingcar"
+    },
+    "candle": {
+      "codepoint": 57492,
+      "fontFamily": "Picon",
+      "identifier": "candle"
+    },
+    "candy": {
+      "codepoint": 57493,
+      "fontFamily": "Picon",
+      "identifier": "candy"
+    },
+    "car": {
+      "codepoint": 57494,
+      "fontFamily": "Picon",
+      "identifier": "car"
+    },
+    "carousel": {
+      "codepoint": 57495,
+      "fontFamily": "Picon",
+      "identifier": "carousel"
+    },
+    "carrot": {
+      "codepoint": 57496,
+      "fontFamily": "Picon",
+      "identifier": "carrot"
+    },
+    "cart": {
+      "codepoint": 57497,
+      "fontFamily": "Picon",
+      "identifier": "cart"
+    },
+    "cashier": {
+      "codepoint": 57498,
+      "fontFamily": "Picon",
+      "identifier": "cashier"
+    },
+    "cassette": {
+      "codepoint": 57499,
+      "fontFamily": "Picon",
+      "identifier": "cassette"
+    },
+    "cast": {
+      "codepoint": 57500,
+      "fontFamily": "Picon",
+      "identifier": "cast"
+    },
+    "cat": {
+      "codepoint": 57501,
+      "fontFamily": "Picon",
+      "identifier": "cat"
+    },
+    "cctv": {
+      "codepoint": 57502,
+      "fontFamily": "Picon",
+      "identifier": "cctv"
+    },
+    "celcius": {
+      "codepoint": 57503,
+      "fontFamily": "Picon",
+      "identifier": "celcius"
+    },
+    "center": {
+      "codepoint": 57504,
+      "fontFamily": "Picon",
+      "identifier": "center"
+    },
+    "certified": {
+      "codepoint": 57505,
+      "fontFamily": "Picon",
+      "identifier": "certified"
+    },
+    "chain": {
+      "codepoint": 57506,
+      "fontFamily": "Picon",
+      "identifier": "chain"
+    },
+    "chalk": {
+      "codepoint": 57507,
+      "fontFamily": "Picon",
+      "identifier": "chalk"
+    },
+    "champagne": {
+      "codepoint": 57508,
+      "fontFamily": "Picon",
+      "identifier": "champagne"
+    },
+    "charge": {
+      "codepoint": 57509,
+      "fontFamily": "Picon",
+      "identifier": "charge"
+    },
+    "charger": {
+      "codepoint": 57510,
+      "fontFamily": "Picon",
+      "identifier": "charger"
+    },
+    "charging": {
+      "codepoint": 57511,
+      "fontFamily": "Picon",
+      "identifier": "charging"
+    },
+    "chart": {
+      "codepoint": 57512,
+      "fontFamily": "Picon",
+      "identifier": "chart"
+    },
+    "chat": {
+      "codepoint": 57513,
+      "fontFamily": "Picon",
+      "identifier": "chat"
+    },
+    "chatbot": {
+      "codepoint": 57514,
+      "fontFamily": "Picon",
+      "identifier": "chatbot"
+    },
+    "check": {
+      "codepoint": 57515,
+      "fontFamily": "Picon",
+      "identifier": "check"
+    },
+    "checked": {
+      "codepoint": 57516,
+      "fontFamily": "Picon",
+      "identifier": "checked"
+    },
+    "checklist": {
+      "codepoint": 57517,
+      "fontFamily": "Picon",
+      "identifier": "checklist"
+    },
+    "checkout": {
+      "codepoint": 57518,
+      "fontFamily": "Picon",
+      "identifier": "checkout"
+    },
+    "cheese": {
+      "codepoint": 57519,
+      "fontFamily": "Picon",
+      "identifier": "cheese"
+    },
+    "chef": {
+      "codepoint": 57520,
+      "fontFamily": "Picon",
+      "identifier": "chef"
+    },
+    "chess": {
+      "codepoint": 57521,
+      "fontFamily": "Picon",
+      "identifier": "chess"
+    },
+    "chick": {
+      "codepoint": 57522,
+      "fontFamily": "Picon",
+      "identifier": "chick"
+    },
+    "chili": {
+      "codepoint": 57523,
+      "fontFamily": "Picon",
+      "identifier": "chili"
+    },
+    "chip": {
+      "codepoint": 57524,
+      "fontFamily": "Picon",
+      "identifier": "chip"
+    },
+    "chrome": {
+      "codepoint": 57525,
+      "fontFamily": "Picon",
+      "identifier": "chrome"
+    },
+    "church": {
+      "codepoint": 57526,
+      "fontFamily": "Picon",
+      "identifier": "church"
+    },
+    "circle": {
+      "codepoint": 57527,
+      "fontFamily": "Picon",
+      "identifier": "circle"
+    },
+    "cli": {
+      "codepoint": 57528,
+      "fontFamily": "Picon",
+      "identifier": "cli"
+    },
+    "climb": {
+      "codepoint": 57529,
+      "fontFamily": "Picon",
+      "identifier": "climb"
+    },
+    "clipboard": {
+      "codepoint": 57530,
+      "fontFamily": "Picon",
+      "identifier": "clipboard"
+    },
+    "clock": {
+      "codepoint": 57531,
+      "fontFamily": "Picon",
+      "identifier": "clock"
+    },
+    "cloud": {
+      "codepoint": 57532,
+      "fontFamily": "Picon",
+      "identifier": "cloud"
+    },
+    "clover": {
+      "codepoint": 57533,
+      "fontFamily": "Picon",
+      "identifier": "clover"
+    },
+    "cocktail": {
+      "codepoint": 57534,
+      "fontFamily": "Picon",
+      "identifier": "cocktail"
+    },
+    "code": {
+      "codepoint": 57535,
+      "fontFamily": "Picon",
+      "identifier": "code"
+    },
+    "coffee": {
+      "codepoint": 57536,
+      "fontFamily": "Picon",
+      "identifier": "coffee"
+    },
+    "cog": {
+      "codepoint": 57537,
+      "fontFamily": "Picon",
+      "identifier": "cog"
+    },
+    "collumn": {
+      "codepoint": 57538,
+      "fontFamily": "Picon",
+      "identifier": "collumn"
+    },
+    "colon": {
+      "codepoint": 57539,
+      "fontFamily": "Picon",
+      "identifier": "colon"
+    },
+    "colors": {
+      "codepoint": 57540,
+      "fontFamily": "Picon",
+      "identifier": "colors"
+    },
+    "comma": {
+      "codepoint": 57541,
+      "fontFamily": "Picon",
+      "identifier": "comma"
+    },
+    "commit": {
+      "codepoint": 57542,
+      "fontFamily": "Picon",
+      "identifier": "commit"
+    },
+    "compass": {
+      "codepoint": 57543,
+      "fontFamily": "Picon",
+      "identifier": "compass"
+    },
+    "cone": {
+      "codepoint": 57544,
+      "fontFamily": "Picon",
+      "identifier": "cone"
+    },
+    "config": {
+      "codepoint": 57545,
+      "fontFamily": "Picon",
+      "identifier": "config"
+    },
+    "connected": {
+      "codepoint": 57546,
+      "fontFamily": "Picon",
+      "identifier": "connected"
+    },
+    "construction": {
+      "codepoint": 57547,
+      "fontFamily": "Picon",
+      "identifier": "construction"
+    },
+    "container": {
+      "codepoint": 57548,
+      "fontFamily": "Picon",
+      "identifier": "container"
+    },
+    "contrast": {
+      "codepoint": 57549,
+      "fontFamily": "Picon",
+      "identifier": "contrast"
+    },
+    "cookie": {
+      "codepoint": 57550,
+      "fontFamily": "Picon",
+      "identifier": "cookie"
+    },
+    "couch": {
+      "codepoint": 57551,
+      "fontFamily": "Picon",
+      "identifier": "couch"
+    },
+    "coupon": {
+      "codepoint": 57552,
+      "fontFamily": "Picon",
+      "identifier": "coupon"
+    },
+    "cow": {
+      "codepoint": 57553,
+      "fontFamily": "Picon",
+      "identifier": "cow"
+    },
+    "cowboy": {
+      "codepoint": 57554,
+      "fontFamily": "Picon",
+      "identifier": "cowboy"
+    },
+    "cpp": {
+      "codepoint": 57555,
+      "fontFamily": "Picon",
+      "identifier": "cpp"
+    },
+    "cpu": {
+      "codepoint": 57556,
+      "fontFamily": "Picon",
+      "identifier": "cpu"
+    },
+    "crate": {
+      "codepoint": 57557,
+      "fontFamily": "Picon",
+      "identifier": "crate"
+    },
+    "credit": {
+      "codepoint": 57558,
+      "fontFamily": "Picon",
+      "identifier": "credit"
+    },
+    "croissant": {
+      "codepoint": 57559,
+      "fontFamily": "Picon",
+      "identifier": "croissant"
+    },
+    "crop": {
+      "codepoint": 57560,
+      "fontFamily": "Picon",
+      "identifier": "crop"
+    },
+    "crossed": {
+      "codepoint": 57561,
+      "fontFamily": "Picon",
+      "identifier": "crossed"
+    },
+    "crown": {
+      "codepoint": 57562,
+      "fontFamily": "Picon",
+      "identifier": "crown"
+    },
+    "crystalball": {
+      "codepoint": 57563,
+      "fontFamily": "Picon",
+      "identifier": "crystalball"
+    },
+    "cs": {
+      "codepoint": 57564,
+      "fontFamily": "Picon",
+      "identifier": "cs"
+    },
+    "css": {
+      "codepoint": 57565,
+      "fontFamily": "Picon",
+      "identifier": "css"
+    },
+    "cube": {
+      "codepoint": 57566,
+      "fontFamily": "Picon",
+      "identifier": "cube"
+    },
+    "curling": {
+      "codepoint": 57567,
+      "fontFamily": "Picon",
+      "identifier": "curling"
+    },
+    "cursor": {
+      "codepoint": 57568,
+      "fontFamily": "Picon",
+      "identifier": "cursor"
+    },
+    "curve": {
+      "codepoint": 57569,
+      "fontFamily": "Picon",
+      "identifier": "curve"
+    },
+    "cut": {
+      "codepoint": 57570,
+      "fontFamily": "Picon",
+      "identifier": "cut"
+    },
+    "dashed": {
+      "codepoint": 57571,
+      "fontFamily": "Picon",
+      "identifier": "dashed"
+    },
+    "database": {
+      "codepoint": 57572,
+      "fontFamily": "Picon",
+      "identifier": "database"
+    },
+    "debian": {
+      "codepoint": 57573,
+      "fontFamily": "Picon",
+      "identifier": "debian"
+    },
+    "desc": {
+      "codepoint": 57574,
+      "fontFamily": "Picon",
+      "identifier": "desc"
+    },
+    "descent": {
+      "codepoint": 57575,
+      "fontFamily": "Picon",
+      "identifier": "descent"
+    },
+    "desktop": {
+      "codepoint": 57576,
+      "fontFamily": "Picon",
+      "identifier": "desktop"
+    },
+    "devices": {
+      "codepoint": 57577,
+      "fontFamily": "Picon",
+      "identifier": "devices"
+    },
+    "dice": {
+      "codepoint": 57578,
+      "fontFamily": "Picon",
+      "identifier": "dice"
+    },
+    "dice1": {
+      "codepoint": 57579,
+      "fontFamily": "Picon",
+      "identifier": "dice1"
+    },
+    "dice2": {
+      "codepoint": 57580,
+      "fontFamily": "Picon",
+      "identifier": "dice2"
+    },
+    "dice3": {
+      "codepoint": 57581,
+      "fontFamily": "Picon",
+      "identifier": "dice3"
+    },
+    "dice4": {
+      "codepoint": 57582,
+      "fontFamily": "Picon",
+      "identifier": "dice4"
+    },
+    "dice5": {
+      "codepoint": 57583,
+      "fontFamily": "Picon",
+      "identifier": "dice5"
+    },
+    "dice6": {
+      "codepoint": 57584,
+      "fontFamily": "Picon",
+      "identifier": "dice6"
+    },
+    "diff": {
+      "codepoint": 57585,
+      "fontFamily": "Picon",
+      "identifier": "diff"
+    },
+    "digging": {
+      "codepoint": 57586,
+      "fontFamily": "Picon",
+      "identifier": "digging"
+    },
+    "direction": {
+      "codepoint": 57587,
+      "fontFamily": "Picon",
+      "identifier": "direction"
+    },
+    "disc": {
+      "codepoint": 57588,
+      "fontFamily": "Picon",
+      "identifier": "disc"
+    },
+    "disconnected": {
+      "codepoint": 57589,
+      "fontFamily": "Picon",
+      "identifier": "disconnected"
+    },
+    "docker": {
+      "codepoint": 57590,
+      "fontFamily": "Picon",
+      "identifier": "docker"
+    },
+    "dog": {
+      "codepoint": 57591,
+      "fontFamily": "Picon",
+      "identifier": "dog"
+    },
+    "dollar": {
+      "codepoint": 57592,
+      "fontFamily": "Picon",
+      "identifier": "dollar"
+    },
+    "dolly": {
+      "codepoint": 57593,
+      "fontFamily": "Picon",
+      "identifier": "dolly"
+    },
+    "door": {
+      "codepoint": 57594,
+      "fontFamily": "Picon",
+      "identifier": "door"
+    },
+    "dot": {
+      "codepoint": 57595,
+      "fontFamily": "Picon",
+      "identifier": "dot"
+    },
+    "down": {
+      "codepoint": 57596,
+      "fontFamily": "Picon",
+      "identifier": "down"
+    },
+    "downdouble": {
+      "codepoint": 57597,
+      "fontFamily": "Picon",
+      "identifier": "downdouble"
+    },
+    "download": {
+      "codepoint": 57598,
+      "fontFamily": "Picon",
+      "identifier": "download"
+    },
+    "downmost": {
+      "codepoint": 57599,
+      "fontFamily": "Picon",
+      "identifier": "downmost"
+    },
+    "downright": {
+      "codepoint": 57600,
+      "fontFamily": "Picon",
+      "identifier": "downright"
+    },
+    "downward": {
+      "codepoint": 57601,
+      "fontFamily": "Picon",
+      "identifier": "downward"
+    },
+    "dress": {
+      "codepoint": 57602,
+      "fontFamily": "Picon",
+      "identifier": "dress"
+    },
+    "drink": {
+      "codepoint": 57603,
+      "fontFamily": "Picon",
+      "identifier": "drink"
+    },
+    "drive": {
+      "codepoint": 57604,
+      "fontFamily": "Picon",
+      "identifier": "drive"
+    },
+    "droplet": {
+      "codepoint": 57605,
+      "fontFamily": "Picon",
+      "identifier": "droplet"
+    },
+    "drums": {
+      "codepoint": 57606,
+      "fontFamily": "Picon",
+      "identifier": "drums"
+    },
+    "dry": {
+      "codepoint": 57607,
+      "fontFamily": "Picon",
+      "identifier": "dry"
+    },
+    "duck": {
+      "codepoint": 57608,
+      "fontFamily": "Picon",
+      "identifier": "duck"
+    },
+    "east": {
+      "codepoint": 57609,
+      "fontFamily": "Picon",
+      "identifier": "east"
+    },
+    "eatin": {
+      "codepoint": 57610,
+      "fontFamily": "Picon",
+      "identifier": "eatin"
+    },
+    "eject": {
+      "codepoint": 57611,
+      "fontFamily": "Picon",
+      "identifier": "eject"
+    },
+    "elbow": {
+      "codepoint": 57612,
+      "fontFamily": "Picon",
+      "identifier": "elbow"
+    },
+    "electricbass": {
+      "codepoint": 57613,
+      "fontFamily": "Picon",
+      "identifier": "electricbass"
+    },
+    "electricguitar": {
+      "codepoint": 57614,
+      "fontFamily": "Picon",
+      "identifier": "electricguitar"
+    },
+    "elevator": {
+      "codepoint": 57615,
+      "fontFamily": "Picon",
+      "identifier": "elevator"
+    },
+    "ellipsis": {
+      "codepoint": 57616,
+      "fontFamily": "Picon",
+      "identifier": "ellipsis"
+    },
+    "engine": {
+      "codepoint": 57617,
+      "fontFamily": "Picon",
+      "identifier": "engine"
+    },
+    "enlarge": {
+      "codepoint": 57618,
+      "fontFamily": "Picon",
+      "identifier": "enlarge"
+    },
+    "enter": {
+      "codepoint": 57619,
+      "fontFamily": "Picon",
+      "identifier": "enter"
+    },
+    "envelope": {
+      "codepoint": 57620,
+      "fontFamily": "Picon",
+      "identifier": "envelope"
+    },
+    "equals": {
+      "codepoint": 57621,
+      "fontFamily": "Picon",
+      "identifier": "equals"
+    },
+    "eraser": {
+      "codepoint": 57622,
+      "fontFamily": "Picon",
+      "identifier": "eraser"
+    },
+    "escalator": {
+      "codepoint": 57623,
+      "fontFamily": "Picon",
+      "identifier": "escalator"
+    },
+    "ethereum": {
+      "codepoint": 57624,
+      "fontFamily": "Picon",
+      "identifier": "ethereum"
+    },
+    "europe": {
+      "codepoint": 57625,
+      "fontFamily": "Picon",
+      "identifier": "europe"
+    },
+    "even": {
+      "codepoint": 57626,
+      "fontFamily": "Picon",
+      "identifier": "even"
+    },
+    "exit": {
+      "codepoint": 57627,
+      "fontFamily": "Picon",
+      "identifier": "exit"
+    },
+    "external": {
+      "codepoint": 57628,
+      "fontFamily": "Picon",
+      "identifier": "external_"
+    },
+    "eye": {
+      "codepoint": 57629,
+      "fontFamily": "Picon",
+      "identifier": "eye"
+    },
+    "facebook": {
+      "codepoint": 57630,
+      "fontFamily": "Picon",
+      "identifier": "facebook"
+    },
+    "factory": {
+      "codepoint": 57631,
+      "fontFamily": "Picon",
+      "identifier": "factory_"
+    },
+    "false": {
+      "codepoint": 57632,
+      "fontFamily": "Picon",
+      "identifier": "false_"
+    },
+    "fan": {
+      "codepoint": 57633,
+      "fontFamily": "Picon",
+      "identifier": "fan"
+    },
+    "fandom": {
+      "codepoint": 57634,
+      "fontFamily": "Picon",
+      "identifier": "fandom"
+    },
+    "fareneight": {
+      "codepoint": 57635,
+      "fontFamily": "Picon",
+      "identifier": "fareneight"
+    },
+    "fastforward": {
+      "codepoint": 57636,
+      "fontFamily": "Picon",
+      "identifier": "fastforward"
+    },
+    "fastrewind": {
+      "codepoint": 57637,
+      "fontFamily": "Picon",
+      "identifier": "fastrewind"
+    },
+    "faucet": {
+      "codepoint": 57638,
+      "fontFamily": "Picon",
+      "identifier": "faucet"
+    },
+    "feather": {
+      "codepoint": 57639,
+      "fontFamily": "Picon",
+      "identifier": "feather"
+    },
+    "featherpen": {
+      "codepoint": 57640,
+      "fontFamily": "Picon",
+      "identifier": "featherpen"
+    },
+    "feeder": {
+      "codepoint": 57641,
+      "fontFamily": "Picon",
+      "identifier": "feeder"
+    },
+    "female": {
+      "codepoint": 57642,
+      "fontFamily": "Picon",
+      "identifier": "female"
+    },
+    "fence": {
+      "codepoint": 57643,
+      "fontFamily": "Picon",
+      "identifier": "fence"
+    },
+    "file": {
+      "codepoint": 57644,
+      "fontFamily": "Picon",
+      "identifier": "file"
+    },
+    "files": {
+      "codepoint": 57645,
+      "fontFamily": "Picon",
+      "identifier": "files"
+    },
+    "filler": {
+      "codepoint": 57646,
+      "fontFamily": "Picon",
+      "identifier": "filler"
+    },
+    "film": {
+      "codepoint": 57647,
+      "fontFamily": "Picon",
+      "identifier": "film"
+    },
+    "filter": {
+      "codepoint": 57648,
+      "fontFamily": "Picon",
+      "identifier": "filter"
+    },
+    "fingerprint": {
+      "codepoint": 57649,
+      "fontFamily": "Picon",
+      "identifier": "fingerprint"
+    },
+    "firefox": {
+      "codepoint": 57650,
+      "fontFamily": "Picon",
+      "identifier": "firefox"
+    },
+    "fish": {
+      "codepoint": 57651,
+      "fontFamily": "Picon",
+      "identifier": "fish"
+    },
+    "fist": {
+      "codepoint": 57652,
+      "fontFamily": "Picon",
+      "identifier": "fist"
+    },
+    "fitness": {
+      "codepoint": 57653,
+      "fontFamily": "Picon",
+      "identifier": "fitness"
+    },
+    "fix": {
+      "codepoint": 57654,
+      "fontFamily": "Picon",
+      "identifier": "fix"
+    },
+    "flag": {
+      "codepoint": 57655,
+      "fontFamily": "Picon",
+      "identifier": "flag"
+    },
+    "flame": {
+      "codepoint": 57656,
+      "fontFamily": "Picon",
+      "identifier": "flame"
+    },
+    "flask": {
+      "codepoint": 57657,
+      "fontFamily": "Picon",
+      "identifier": "flask"
+    },
+    "flight": {
+      "codepoint": 57658,
+      "fontFamily": "Picon",
+      "identifier": "flight"
+    },
+    "flood": {
+      "codepoint": 57659,
+      "fontFamily": "Picon",
+      "identifier": "flood"
+    },
+    "floppy": {
+      "codepoint": 57660,
+      "fontFamily": "Picon",
+      "identifier": "floppy"
+    },
+    "flush": {
+      "codepoint": 57661,
+      "fontFamily": "Picon",
+      "identifier": "flush"
+    },
+    "folder": {
+      "codepoint": 57662,
+      "fontFamily": "Picon",
+      "identifier": "folder"
+    },
+    "folder2": {
+      "codepoint": 57663,
+      "fontFamily": "Picon",
+      "identifier": "folder2"
+    },
+    "folders": {
+      "codepoint": 57664,
+      "fontFamily": "Picon",
+      "identifier": "folders"
+    },
+    "football": {
+      "codepoint": 57665,
+      "fontFamily": "Picon",
+      "identifier": "football"
+    },
+    "forbidden": {
+      "codepoint": 57666,
+      "fontFamily": "Picon",
+      "identifier": "forbidden"
+    },
+    "forest": {
+      "codepoint": 57667,
+      "fontFamily": "Picon",
+      "identifier": "forest"
+    },
+    "fort": {
+      "codepoint": 57668,
+      "fontFamily": "Picon",
+      "identifier": "fort"
+    },
+    "forum": {
+      "codepoint": 57669,
+      "fontFamily": "Picon",
+      "identifier": "forum"
+    },
+    "forward": {
+      "codepoint": 57670,
+      "fontFamily": "Picon",
+      "identifier": "forward"
+    },
+    "fox": {
+      "codepoint": 57671,
+      "fontFamily": "Picon",
+      "identifier": "fox"
+    },
+    "fragile": {
+      "codepoint": 57672,
+      "fontFamily": "Picon",
+      "identifier": "fragile"
+    },
+    "fridge": {
+      "codepoint": 57673,
+      "fontFamily": "Picon",
+      "identifier": "fridge"
+    },
+    "frosty": {
+      "codepoint": 57674,
+      "fontFamily": "Picon",
+      "identifier": "frosty"
+    },
+    "fuel": {
+      "codepoint": 57675,
+      "fontFamily": "Picon",
+      "identifier": "fuel"
+    },
+    "fullscreen": {
+      "codepoint": 57676,
+      "fontFamily": "Picon",
+      "identifier": "fullscreen"
+    },
+    "function": {
+      "codepoint": 57677,
+      "fontFamily": "Picon",
+      "identifier": "function"
+    },
+    "gamepad": {
+      "codepoint": 57678,
+      "fontFamily": "Picon",
+      "identifier": "gamepad"
+    },
+    "gamesave": {
+      "codepoint": 57679,
+      "fontFamily": "Picon",
+      "identifier": "gamesave"
+    },
+    "gas": {
+      "codepoint": 57680,
+      "fontFamily": "Picon",
+      "identifier": "gas"
+    },
+    "gdrive": {
+      "codepoint": 57681,
+      "fontFamily": "Picon",
+      "identifier": "gdrive"
+    },
+    "genie": {
+      "codepoint": 57682,
+      "fontFamily": "Picon",
+      "identifier": "genie"
+    },
+    "gentleman": {
+      "codepoint": 57683,
+      "fontFamily": "Picon",
+      "identifier": "gentleman"
+    },
+    "geometric": {
+      "codepoint": 57684,
+      "fontFamily": "Picon",
+      "identifier": "geometric"
+    },
+    "ghost": {
+      "codepoint": 57685,
+      "fontFamily": "Picon",
+      "identifier": "ghost"
+    },
+    "gif": {
+      "codepoint": 57686,
+      "fontFamily": "Picon",
+      "identifier": "gif"
+    },
+    "girl": {
+      "codepoint": 57687,
+      "fontFamily": "Picon",
+      "identifier": "girl"
+    },
+    "git": {
+      "codepoint": 57688,
+      "fontFamily": "Picon",
+      "identifier": "git"
+    },
+    "github": {
+      "codepoint": 57689,
+      "fontFamily": "Picon",
+      "identifier": "github"
+    },
+    "gitlab": {
+      "codepoint": 57690,
+      "fontFamily": "Picon",
+      "identifier": "gitlab"
+    },
+    "glass": {
+      "codepoint": 57691,
+      "fontFamily": "Picon",
+      "identifier": "glass"
+    },
+    "golf": {
+      "codepoint": 57692,
+      "fontFamily": "Picon",
+      "identifier": "golf"
+    },
+    "golfer": {
+      "codepoint": 57693,
+      "fontFamily": "Picon",
+      "identifier": "golfer"
+    },
+    "gondola": {
+      "codepoint": 57694,
+      "fontFamily": "Picon",
+      "identifier": "gondola"
+    },
+    "google": {
+      "codepoint": 57695,
+      "fontFamily": "Picon",
+      "identifier": "google"
+    },
+    "gps": {
+      "codepoint": 57696,
+      "fontFamily": "Picon",
+      "identifier": "gps"
+    },
+    "graph": {
+      "codepoint": 57697,
+      "fontFamily": "Picon",
+      "identifier": "graph"
+    },
+    "grocery": {
+      "codepoint": 57698,
+      "fontFamily": "Picon",
+      "identifier": "grocery"
+    },
+    "group": {
+      "codepoint": 57699,
+      "fontFamily": "Picon",
+      "identifier": "group"
+    },
+    "gsm0": {
+      "codepoint": 57700,
+      "fontFamily": "Picon",
+      "identifier": "gsm0"
+    },
+    "gsm1": {
+      "codepoint": 57701,
+      "fontFamily": "Picon",
+      "identifier": "gsm1"
+    },
+    "gsm2": {
+      "codepoint": 57702,
+      "fontFamily": "Picon",
+      "identifier": "gsm2"
+    },
+    "gsm3": {
+      "codepoint": 57703,
+      "fontFamily": "Picon",
+      "identifier": "gsm3"
+    },
+    "gsm4": {
+      "codepoint": 57704,
+      "fontFamily": "Picon",
+      "identifier": "gsm4"
+    },
+    "gui": {
+      "codepoint": 57705,
+      "fontFamily": "Picon",
+      "identifier": "gui"
+    },
+    "guitar": {
+      "codepoint": 57706,
+      "fontFamily": "Picon",
+      "identifier": "guitar"
+    },
+    "gun": {
+      "codepoint": 57707,
+      "fontFamily": "Picon",
+      "identifier": "gun"
+    },
+    "gyrophare": {
+      "codepoint": 57708,
+      "fontFamily": "Picon",
+      "identifier": "gyrophare"
+    },
+    "hammer": {
+      "codepoint": 57709,
+      "fontFamily": "Picon",
+      "identifier": "hammer"
+    },
+    "handbag": {
+      "codepoint": 57710,
+      "fontFamily": "Picon",
+      "identifier": "handbag"
+    },
+    "handle": {
+      "codepoint": 57711,
+      "fontFamily": "Picon",
+      "identifier": "handle"
+    },
+    "handle2": {
+      "codepoint": 57712,
+      "fontFamily": "Picon",
+      "identifier": "handle2"
+    },
+    "happy": {
+      "codepoint": 57713,
+      "fontFamily": "Picon",
+      "identifier": "happy"
+    },
+    "hash": {
+      "codepoint": 57714,
+      "fontFamily": "Picon",
+      "identifier": "hash"
+    },
+    "haskell": {
+      "codepoint": 57715,
+      "fontFamily": "Picon",
+      "identifier": "haskell"
+    },
+    "hd": {
+      "codepoint": 57716,
+      "fontFamily": "Picon",
+      "identifier": "hd"
+    },
+    "head": {
+      "codepoint": 57717,
+      "fontFamily": "Picon",
+      "identifier": "head"
+    },
+    "header": {
+      "codepoint": 57718,
+      "fontFamily": "Picon",
+      "identifier": "header"
+    },
+    "headphone": {
+      "codepoint": 57719,
+      "fontFamily": "Picon",
+      "identifier": "headphone"
+    },
+    "headset": {
+      "codepoint": 57720,
+      "fontFamily": "Picon",
+      "identifier": "headset"
+    },
+    "heart": {
+      "codepoint": 57721,
+      "fontFamily": "Picon",
+      "identifier": "heart"
+    },
+    "heartbroken": {
+      "codepoint": 57722,
+      "fontFamily": "Picon",
+      "identifier": "heartbroken"
+    },
+    "heavier": {
+      "codepoint": 57723,
+      "fontFamily": "Picon",
+      "identifier": "heavier"
+    },
+    "height": {
+      "codepoint": 57724,
+      "fontFamily": "Picon",
+      "identifier": "height"
+    },
+    "helicopter": {
+      "codepoint": 57725,
+      "fontFamily": "Picon",
+      "identifier": "helicopter"
+    },
+    "hibernate": {
+      "codepoint": 57726,
+      "fontFamily": "Picon",
+      "identifier": "hibernate"
+    },
+    "hierarchy": {
+      "codepoint": 57727,
+      "fontFamily": "Picon",
+      "identifier": "hierarchy"
+    },
+    "highlight": {
+      "codepoint": 57728,
+      "fontFamily": "Picon",
+      "identifier": "highlight"
+    },
+    "highlighter": {
+      "codepoint": 57729,
+      "fontFamily": "Picon",
+      "identifier": "highlighter"
+    },
+    "hiking": {
+      "codepoint": 57730,
+      "fontFamily": "Picon",
+      "identifier": "hiking"
+    },
+    "hockey": {
+      "codepoint": 57731,
+      "fontFamily": "Picon",
+      "identifier": "hockey"
+    },
+    "horn": {
+      "codepoint": 57732,
+      "fontFamily": "Picon",
+      "identifier": "horn"
+    },
+    "horse": {
+      "codepoint": 57733,
+      "fontFamily": "Picon",
+      "identifier": "horse"
+    },
+    "hospital": {
+      "codepoint": 57734,
+      "fontFamily": "Picon",
+      "identifier": "hospital"
+    },
+    "hotel": {
+      "codepoint": 57735,
+      "fontFamily": "Picon",
+      "identifier": "hotel"
+    },
+    "hourglass0": {
+      "codepoint": 57736,
+      "fontFamily": "Picon",
+      "identifier": "hourglass0"
+    },
+    "hourglass1": {
+      "codepoint": 57737,
+      "fontFamily": "Picon",
+      "identifier": "hourglass1"
+    },
+    "hourglass2": {
+      "codepoint": 57738,
+      "fontFamily": "Picon",
+      "identifier": "hourglass2"
+    },
+    "hourglass3": {
+      "codepoint": 57739,
+      "fontFamily": "Picon",
+      "identifier": "hourglass3"
+    },
+    "hourglass4": {
+      "codepoint": 57740,
+      "fontFamily": "Picon",
+      "identifier": "hourglass4"
+    },
+    "hourglass5": {
+      "codepoint": 57741,
+      "fontFamily": "Picon",
+      "identifier": "hourglass5"
+    },
+    "hourglass6": {
+      "codepoint": 57742,
+      "fontFamily": "Picon",
+      "identifier": "hourglass6"
+    },
+    "hourglass7": {
+      "codepoint": 57743,
+      "fontFamily": "Picon",
+      "identifier": "hourglass7"
+    },
+    "hourglass8": {
+      "codepoint": 57744,
+      "fontFamily": "Picon",
+      "identifier": "hourglass8"
+    },
+    "house": {
+      "codepoint": 57745,
+      "fontFamily": "Picon",
+      "identifier": "house"
+    },
+    "html": {
+      "codepoint": 57746,
+      "fontFamily": "Picon",
+      "identifier": "html"
+    },
+    "icecream": {
+      "codepoint": 57747,
+      "fontFamily": "Picon",
+      "identifier": "icecream"
+    },
+    "icicles": {
+      "codepoint": 57748,
+      "fontFamily": "Picon",
+      "identifier": "icicles"
+    },
+    "inbox": {
+      "codepoint": 57749,
+      "fontFamily": "Picon",
+      "identifier": "inbox"
+    },
+    "incognito": {
+      "codepoint": 57750,
+      "fontFamily": "Picon",
+      "identifier": "incognito"
+    },
+    "indent": {
+      "codepoint": 57751,
+      "fontFamily": "Picon",
+      "identifier": "indent"
+    },
+    "infinity": {
+      "codepoint": 57752,
+      "fontFamily": "Picon",
+      "identifier": "infinity"
+    },
+    "info": {
+      "codepoint": 57753,
+      "fontFamily": "Picon",
+      "identifier": "info"
+    },
+    "instagram": {
+      "codepoint": 57754,
+      "fontFamily": "Picon",
+      "identifier": "instagram"
+    },
+    "ipphone": {
+      "codepoint": 57755,
+      "fontFamily": "Picon",
+      "identifier": "ipphone"
+    },
+    "italic": {
+      "codepoint": 57756,
+      "fontFamily": "Picon",
+      "identifier": "italic"
+    },
+    "jackhammer": {
+      "codepoint": 57757,
+      "fontFamily": "Picon",
+      "identifier": "jackhammer"
+    },
+    "java": {
+      "codepoint": 57758,
+      "fontFamily": "Picon",
+      "identifier": "java"
+    },
+    "jean": {
+      "codepoint": 57759,
+      "fontFamily": "Picon",
+      "identifier": "jean"
+    },
+    "jerrican": {
+      "codepoint": 57760,
+      "fontFamily": "Picon",
+      "identifier": "jerrican"
+    },
+    "jewelry": {
+      "codepoint": 57761,
+      "fontFamily": "Picon",
+      "identifier": "jewelry"
+    },
+    "join": {
+      "codepoint": 57762,
+      "fontFamily": "Picon",
+      "identifier": "join"
+    },
+    "js": {
+      "codepoint": 57763,
+      "fontFamily": "Picon",
+      "identifier": "js"
+    },
+    "json": {
+      "codepoint": 57764,
+      "fontFamily": "Picon",
+      "identifier": "json"
+    },
+    "jujutsu": {
+      "codepoint": 57765,
+      "fontFamily": "Picon",
+      "identifier": "jujutsu"
+    },
+    "jump": {
+      "codepoint": 57766,
+      "fontFamily": "Picon",
+      "identifier": "jump"
+    },
+    "justify": {
+      "codepoint": 57767,
+      "fontFamily": "Picon",
+      "identifier": "justify"
+    },
+    "kaaba": {
+      "codepoint": 57768,
+      "fontFamily": "Picon",
+      "identifier": "kaaba"
+    },
+    "kart": {
+      "codepoint": 57769,
+      "fontFamily": "Picon",
+      "identifier": "kart"
+    },
+    "key": {
+      "codepoint": 57770,
+      "fontFamily": "Picon",
+      "identifier": "key"
+    },
+    "keyboard": {
+      "codepoint": 57771,
+      "fontFamily": "Picon",
+      "identifier": "keyboard"
+    },
+    "kitten": {
+      "codepoint": 57772,
+      "fontFamily": "Picon",
+      "identifier": "kitten"
+    },
+    "kotlin": {
+      "codepoint": 57773,
+      "fontFamily": "Picon",
+      "identifier": "kotlin"
+    },
+    "lab": {
+      "codepoint": 57774,
+      "fontFamily": "Picon",
+      "identifier": "lab"
+    },
+    "label": {
+      "codepoint": 57775,
+      "fontFamily": "Picon",
+      "identifier": "label"
+    },
+    "ladder": {
+      "codepoint": 57776,
+      "fontFamily": "Picon",
+      "identifier": "ladder"
+    },
+    "lady": {
+      "codepoint": 57777,
+      "fontFamily": "Picon",
+      "identifier": "lady"
+    },
+    "lamp": {
+      "codepoint": 57778,
+      "fontFamily": "Picon",
+      "identifier": "lamp"
+    },
+    "landing": {
+      "codepoint": 57779,
+      "fontFamily": "Picon",
+      "identifier": "landing"
+    },
+    "landscape": {
+      "codepoint": 57780,
+      "fontFamily": "Picon",
+      "identifier": "landscape"
+    },
+    "latex": {
+      "codepoint": 57781,
+      "fontFamily": "Picon",
+      "identifier": "latex"
+    },
+    "laudry": {
+      "codepoint": 57782,
+      "fontFamily": "Picon",
+      "identifier": "laudry"
+    },
+    "leaf": {
+      "codepoint": 57783,
+      "fontFamily": "Picon",
+      "identifier": "leaf"
+    },
+    "left": {
+      "codepoint": 57784,
+      "fontFamily": "Picon",
+      "identifier": "left"
+    },
+    "leftdouble": {
+      "codepoint": 57785,
+      "fontFamily": "Picon",
+      "identifier": "leftdouble"
+    },
+    "leftmost": {
+      "codepoint": 57786,
+      "fontFamily": "Picon",
+      "identifier": "leftmost"
+    },
+    "leftward": {
+      "codepoint": 57787,
+      "fontFamily": "Picon",
+      "identifier": "leftward"
+    },
+    "lego": {
+      "codepoint": 57788,
+      "fontFamily": "Picon",
+      "identifier": "lego"
+    },
+    "letter": {
+      "codepoint": 57789,
+      "fontFamily": "Picon",
+      "identifier": "letter"
+    },
+    "lifter": {
+      "codepoint": 57790,
+      "fontFamily": "Picon",
+      "identifier": "lifter"
+    },
+    "ligature": {
+      "codepoint": 57791,
+      "fontFamily": "Picon",
+      "identifier": "ligature"
+    },
+    "lightbulb": {
+      "codepoint": 57792,
+      "fontFamily": "Picon",
+      "identifier": "lightbulb"
+    },
+    "lighter": {
+      "codepoint": 57793,
+      "fontFamily": "Picon",
+      "identifier": "lighter"
+    },
+    "linkedin": {
+      "codepoint": 57794,
+      "fontFamily": "Picon",
+      "identifier": "linkedin"
+    },
+    "linux": {
+      "codepoint": 57795,
+      "fontFamily": "Picon",
+      "identifier": "linux"
+    },
+    "list": {
+      "codepoint": 57796,
+      "fontFamily": "Picon",
+      "identifier": "list"
+    },
+    "list2": {
+      "codepoint": 57797,
+      "fontFamily": "Picon",
+      "identifier": "list2"
+    },
+    "localisation": {
+      "codepoint": 57798,
+      "fontFamily": "Picon",
+      "identifier": "localisation"
+    },
+    "lock": {
+      "codepoint": 57799,
+      "fontFamily": "Picon",
+      "identifier": "lock"
+    },
+    "log": {
+      "codepoint": 57800,
+      "fontFamily": "Picon",
+      "identifier": "log"
+    },
+    "login": {
+      "codepoint": 57801,
+      "fontFamily": "Picon",
+      "identifier": "login"
+    },
+    "logout": {
+      "codepoint": 57802,
+      "fontFamily": "Picon",
+      "identifier": "logout"
+    },
+    "loop": {
+      "codepoint": 57803,
+      "fontFamily": "Picon",
+      "identifier": "loop"
+    },
+    "louder": {
+      "codepoint": 57804,
+      "fontFamily": "Picon",
+      "identifier": "louder"
+    },
+    "ltr": {
+      "codepoint": 57805,
+      "fontFamily": "Picon",
+      "identifier": "ltr"
+    },
+    "lua": {
+      "codepoint": 57806,
+      "fontFamily": "Picon",
+      "identifier": "lua"
+    },
+    "luggage": {
+      "codepoint": 57807,
+      "fontFamily": "Picon",
+      "identifier": "luggage"
+    },
+    "magic": {
+      "codepoint": 57808,
+      "fontFamily": "Picon",
+      "identifier": "magic"
+    },
+    "magnet": {
+      "codepoint": 57809,
+      "fontFamily": "Picon",
+      "identifier": "magnet"
+    },
+    "magnifier": {
+      "codepoint": 57810,
+      "fontFamily": "Picon",
+      "identifier": "magnifier"
+    },
+    "mail": {
+      "codepoint": 57811,
+      "fontFamily": "Picon",
+      "identifier": "mail"
+    },
+    "maki": {
+      "codepoint": 57812,
+      "fontFamily": "Picon",
+      "identifier": "maki"
+    },
+    "male": {
+      "codepoint": 57813,
+      "fontFamily": "Picon",
+      "identifier": "male"
+    },
+    "man": {
+      "codepoint": 57814,
+      "fontFamily": "Picon",
+      "identifier": "man"
+    },
+    "map": {
+      "codepoint": 57815,
+      "fontFamily": "Picon",
+      "identifier": "map"
+    },
+    "markdown": {
+      "codepoint": 57816,
+      "fontFamily": "Picon",
+      "identifier": "markdown"
+    },
+    "marker": {
+      "codepoint": 57817,
+      "fontFamily": "Picon",
+      "identifier": "marker"
+    },
+    "matrix": {
+      "codepoint": 57818,
+      "fontFamily": "Picon",
+      "identifier": "matrix"
+    },
+    "medical": {
+      "codepoint": 57819,
+      "fontFamily": "Picon",
+      "identifier": "medical"
+    },
+    "medication": {
+      "codepoint": 57820,
+      "fontFamily": "Picon",
+      "identifier": "medication"
+    },
+    "meditation": {
+      "codepoint": 57821,
+      "fontFamily": "Picon",
+      "identifier": "meditation"
+    },
+    "medium": {
+      "codepoint": 57822,
+      "fontFamily": "Picon",
+      "identifier": "medium"
+    },
+    "megaphone": {
+      "codepoint": 57823,
+      "fontFamily": "Picon",
+      "identifier": "megaphone"
+    },
+    "menu": {
+      "codepoint": 57824,
+      "fontFamily": "Picon",
+      "identifier": "menu"
+    },
+    "merge": {
+      "codepoint": 57825,
+      "fontFamily": "Picon",
+      "identifier": "merge"
+    },
+    "message": {
+      "codepoint": 57826,
+      "fontFamily": "Picon",
+      "identifier": "message"
+    },
+    "messenger": {
+      "codepoint": 57827,
+      "fontFamily": "Picon",
+      "identifier": "messenger"
+    },
+    "metronome": {
+      "codepoint": 57828,
+      "fontFamily": "Picon",
+      "identifier": "metronome"
+    },
+    "microphone": {
+      "codepoint": 57829,
+      "fontFamily": "Picon",
+      "identifier": "microphone"
+    },
+    "microscope": {
+      "codepoint": 57830,
+      "fontFamily": "Picon",
+      "identifier": "microscope"
+    },
+    "microwave": {
+      "codepoint": 57831,
+      "fontFamily": "Picon",
+      "identifier": "microwave"
+    },
+    "milk": {
+      "codepoint": 57832,
+      "fontFamily": "Picon",
+      "identifier": "milk"
+    },
+    "monitor": {
+      "codepoint": 57833,
+      "fontFamily": "Picon",
+      "identifier": "monitor"
+    },
+    "moon": {
+      "codepoint": 57834,
+      "fontFamily": "Picon",
+      "identifier": "moon"
+    },
+    "mouse": {
+      "codepoint": 57835,
+      "fontFamily": "Picon",
+      "identifier": "mouse"
+    },
+    "move": {
+      "codepoint": 57836,
+      "fontFamily": "Picon",
+      "identifier": "move"
+    },
+    "movie": {
+      "codepoint": 57837,
+      "fontFamily": "Picon",
+      "identifier": "movie"
+    },
+    "mr": {
+      "codepoint": 57838,
+      "fontFamily": "Picon",
+      "identifier": "mr"
+    },
+    "msoffice": {
+      "codepoint": 57839,
+      "fontFamily": "Picon",
+      "identifier": "msoffice"
+    },
+    "muaythai": {
+      "codepoint": 57840,
+      "fontFamily": "Picon",
+      "identifier": "muaythai"
+    },
+    "muffin": {
+      "codepoint": 57841,
+      "fontFamily": "Picon",
+      "identifier": "muffin"
+    },
+    "mug": {
+      "codepoint": 57842,
+      "fontFamily": "Picon",
+      "identifier": "mug"
+    },
+    "mushroom": {
+      "codepoint": 57843,
+      "fontFamily": "Picon",
+      "identifier": "mushroom"
+    },
+    "music": {
+      "codepoint": 57844,
+      "fontFamily": "Picon",
+      "identifier": "music"
+    },
+    "mute": {
+      "codepoint": 57845,
+      "fontFamily": "Picon",
+      "identifier": "mute"
+    },
+    "na": {
+      "codepoint": 57846,
+      "fontFamily": "Picon",
+      "identifier": "na"
+    },
+    "nas": {
+      "codepoint": 57847,
+      "fontFamily": "Picon",
+      "identifier": "nas"
+    },
+    "navigation": {
+      "codepoint": 57848,
+      "fontFamily": "Picon",
+      "identifier": "navigation"
+    },
+    "netflix": {
+      "codepoint": 57849,
+      "fontFamily": "Picon",
+      "identifier": "netflix"
+    },
+    "network": {
+      "codepoint": 57850,
+      "fontFamily": "Picon",
+      "identifier": "network"
+    },
+    "newspaper": {
+      "codepoint": 57851,
+      "fontFamily": "Picon",
+      "identifier": "newspaper"
+    },
+    "next": {
+      "codepoint": 57852,
+      "fontFamily": "Picon",
+      "identifier": "next"
+    },
+    "nfc": {
+      "codepoint": 57853,
+      "fontFamily": "Picon",
+      "identifier": "nfc"
+    },
+    "ninja": {
+      "codepoint": 57854,
+      "fontFamily": "Picon",
+      "identifier": "ninja"
+    },
+    "noentry": {
+      "codepoint": 57855,
+      "fontFamily": "Picon",
+      "identifier": "noentry"
+    },
+    "north": {
+      "codepoint": 57856,
+      "fontFamily": "Picon",
+      "identifier": "north"
+    },
+    "not": {
+      "codepoint": 57857,
+      "fontFamily": "Picon",
+      "identifier": "not"
+    },
+    "notes": {
+      "codepoint": 57858,
+      "fontFamily": "Picon",
+      "identifier": "notes"
+    },
+    "nswitch": {
+      "codepoint": 57859,
+      "fontFamily": "Picon",
+      "identifier": "nswitch"
+    },
+    "numbered": {
+      "codepoint": 57860,
+      "fontFamily": "Picon",
+      "identifier": "numbered"
+    },
+    "oak": {
+      "codepoint": 57861,
+      "fontFamily": "Picon",
+      "identifier": "oak"
+    },
+    "octopus": {
+      "codepoint": 57862,
+      "fontFamily": "Picon",
+      "identifier": "octopus"
+    },
+    "off": {
+      "codepoint": 57863,
+      "fontFamily": "Picon",
+      "identifier": "off"
+    },
+    "office": {
+      "codepoint": 57864,
+      "fontFamily": "Picon",
+      "identifier": "office"
+    },
+    "oil": {
+      "codepoint": 57865,
+      "fontFamily": "Picon",
+      "identifier": "oil"
+    },
+    "oillamp": {
+      "codepoint": 57866,
+      "fontFamily": "Picon",
+      "identifier": "oillamp"
+    },
+    "ok": {
+      "codepoint": 57867,
+      "fontFamily": "Picon",
+      "identifier": "ok"
+    },
+    "on": {
+      "codepoint": 57868,
+      "fontFamily": "Picon",
+      "identifier": "on"
+    },
+    "options": {
+      "codepoint": 57869,
+      "fontFamily": "Picon",
+      "identifier": "options"
+    },
+    "or": {
+      "codepoint": 57870,
+      "fontFamily": "Picon",
+      "identifier": "or"
+    },
+    "outbox": {
+      "codepoint": 57871,
+      "fontFamily": "Picon",
+      "identifier": "outbox"
+    },
+    "oven": {
+      "codepoint": 57872,
+      "fontFamily": "Picon",
+      "identifier": "oven"
+    },
+    "package": {
+      "codepoint": 57873,
+      "fontFamily": "Picon",
+      "identifier": "package"
+    },
+    "pagebreak": {
+      "codepoint": 57874,
+      "fontFamily": "Picon",
+      "identifier": "pagebreak"
+    },
+    "paintbrush": {
+      "codepoint": 57875,
+      "fontFamily": "Picon",
+      "identifier": "paintbrush"
+    },
+    "palette": {
+      "codepoint": 57876,
+      "fontFamily": "Picon",
+      "identifier": "palette"
+    },
+    "panorama": {
+      "codepoint": 57877,
+      "fontFamily": "Picon",
+      "identifier": "panorama"
+    },
+    "panty": {
+      "codepoint": 57878,
+      "fontFamily": "Picon",
+      "identifier": "panty"
+    },
+    "pause": {
+      "codepoint": 57879,
+      "fontFamily": "Picon",
+      "identifier": "pause"
+    },
+    "pawn": {
+      "codepoint": 57880,
+      "fontFamily": "Picon",
+      "identifier": "pawn"
+    },
+    "paycheck": {
+      "codepoint": 57881,
+      "fontFamily": "Picon",
+      "identifier": "paycheck"
+    },
+    "paypal": {
+      "codepoint": 57882,
+      "fontFamily": "Picon",
+      "identifier": "paypal"
+    },
+    "pc": {
+      "codepoint": 57883,
+      "fontFamily": "Picon",
+      "identifier": "pc"
+    },
+    "pen": {
+      "codepoint": 57884,
+      "fontFamily": "Picon",
+      "identifier": "pen"
+    },
+    "perl": {
+      "codepoint": 57885,
+      "fontFamily": "Picon",
+      "identifier": "perl"
+    },
+    "phone": {
+      "codepoint": 57886,
+      "fontFamily": "Picon",
+      "identifier": "phone"
+    },
+    "php": {
+      "codepoint": 57887,
+      "fontFamily": "Picon",
+      "identifier": "php"
+    },
+    "pi": {
+      "codepoint": 57888,
+      "fontFamily": "Picon",
+      "identifier": "pi"
+    },
+    "piano": {
+      "codepoint": 57889,
+      "fontFamily": "Picon",
+      "identifier": "piano"
+    },
+    "picker": {
+      "codepoint": 57890,
+      "fontFamily": "Picon",
+      "identifier": "picker"
+    },
+    "picture": {
+      "codepoint": 57891,
+      "fontFamily": "Picon",
+      "identifier": "picture"
+    },
+    "pictures": {
+      "codepoint": 57892,
+      "fontFamily": "Picon",
+      "identifier": "pictures"
+    },
+    "pie": {
+      "codepoint": 57893,
+      "fontFamily": "Picon",
+      "identifier": "pie"
+    },
+    "pig": {
+      "codepoint": 57894,
+      "fontFamily": "Picon",
+      "identifier": "pig"
+    },
+    "piggy": {
+      "codepoint": 57895,
+      "fontFamily": "Picon",
+      "identifier": "piggy"
+    },
+    "pill": {
+      "codepoint": 57896,
+      "fontFamily": "Picon",
+      "identifier": "pill"
+    },
+    "pills": {
+      "codepoint": 57897,
+      "fontFamily": "Picon",
+      "identifier": "pills"
+    },
+    "pin": {
+      "codepoint": 57898,
+      "fontFamily": "Picon",
+      "identifier": "pin"
+    },
+    "pine": {
+      "codepoint": 57899,
+      "fontFamily": "Picon",
+      "identifier": "pine"
+    },
+    "piston": {
+      "codepoint": 57900,
+      "fontFamily": "Picon",
+      "identifier": "piston"
+    },
+    "pizza": {
+      "codepoint": 57901,
+      "fontFamily": "Picon",
+      "identifier": "pizza"
+    },
+    "play": {
+      "codepoint": 57902,
+      "fontFamily": "Picon",
+      "identifier": "play"
+    },
+    "playlist": {
+      "codepoint": 57903,
+      "fontFamily": "Picon",
+      "identifier": "playlist"
+    },
+    "playstation": {
+      "codepoint": 57904,
+      "fontFamily": "Picon",
+      "identifier": "playstation"
+    },
+    "playstore": {
+      "codepoint": 57905,
+      "fontFamily": "Picon",
+      "identifier": "playstore"
+    },
+    "plugin": {
+      "codepoint": 57906,
+      "fontFamily": "Picon",
+      "identifier": "plugin"
+    },
+    "plunger": {
+      "codepoint": 57907,
+      "fontFamily": "Picon",
+      "identifier": "plunger"
+    },
+    "plus": {
+      "codepoint": 57908,
+      "fontFamily": "Picon",
+      "identifier": "plus"
+    },
+    "plus1": {
+      "codepoint": 57909,
+      "fontFamily": "Picon",
+      "identifier": "plus1"
+    },
+    "podium": {
+      "codepoint": 57910,
+      "fontFamily": "Picon",
+      "identifier": "podium"
+    },
+    "pokeball": {
+      "codepoint": 57911,
+      "fontFamily": "Picon",
+      "identifier": "pokeball"
+    },
+    "post": {
+      "codepoint": 57912,
+      "fontFamily": "Picon",
+      "identifier": "post"
+    },
+    "power": {
+      "codepoint": 57913,
+      "fontFamily": "Picon",
+      "identifier": "power"
+    },
+    "pray": {
+      "codepoint": 57914,
+      "fontFamily": "Picon",
+      "identifier": "pray"
+    },
+    "presentation": {
+      "codepoint": 57915,
+      "fontFamily": "Picon",
+      "identifier": "presentation"
+    },
+    "pressure": {
+      "codepoint": 57916,
+      "fontFamily": "Picon",
+      "identifier": "pressure"
+    },
+    "previous": {
+      "codepoint": 57917,
+      "fontFamily": "Picon",
+      "identifier": "previous"
+    },
+    "printer": {
+      "codepoint": 57918,
+      "fontFamily": "Picon",
+      "identifier": "printer"
+    },
+    "profile": {
+      "codepoint": 57919,
+      "fontFamily": "Picon",
+      "identifier": "profile"
+    },
+    "proposal": {
+      "codepoint": 57920,
+      "fontFamily": "Picon",
+      "identifier": "proposal"
+    },
+    "protect": {
+      "codepoint": 57921,
+      "fontFamily": "Picon",
+      "identifier": "protect"
+    },
+    "psp": {
+      "codepoint": 57922,
+      "fontFamily": "Picon",
+      "identifier": "psp"
+    },
+    "puppy": {
+      "codepoint": 57923,
+      "fontFamily": "Picon",
+      "identifier": "puppy"
+    },
+    "pyramid": {
+      "codepoint": 57924,
+      "fontFamily": "Picon",
+      "identifier": "pyramid"
+    },
+    "python": {
+      "codepoint": 57925,
+      "fontFamily": "Picon",
+      "identifier": "python"
+    },
+    "qrcode": {
+      "codepoint": 57926,
+      "fontFamily": "Picon",
+      "identifier": "qrcode"
+    },
+    "quadcopter": {
+      "codepoint": 57927,
+      "fontFamily": "Picon",
+      "identifier": "quadcopter"
+    },
+    "question": {
+      "codepoint": 57928,
+      "fontFamily": "Picon",
+      "identifier": "question"
+    },
+    "quiet": {
+      "codepoint": 57929,
+      "fontFamily": "Picon",
+      "identifier": "quiet"
+    },
+    "rabbit": {
+      "codepoint": 57930,
+      "fontFamily": "Picon",
+      "identifier": "rabbit"
+    },
+    "radio": {
+      "codepoint": 57931,
+      "fontFamily": "Picon",
+      "identifier": "radio"
+    },
+    "radioactif": {
+      "codepoint": 57932,
+      "fontFamily": "Picon",
+      "identifier": "radioactif"
+    },
+    "rain": {
+      "codepoint": 57933,
+      "fontFamily": "Picon",
+      "identifier": "rain"
+    },
+    "rainbow": {
+      "codepoint": 57934,
+      "fontFamily": "Picon",
+      "identifier": "rainbow"
+    },
+    "ram": {
+      "codepoint": 57935,
+      "fontFamily": "Picon",
+      "identifier": "ram"
+    },
+    "rat": {
+      "codepoint": 57936,
+      "fontFamily": "Picon",
+      "identifier": "rat"
+    },
+    "razor": {
+      "codepoint": 57937,
+      "fontFamily": "Picon",
+      "identifier": "razor"
+    },
+    "read": {
+      "codepoint": 57938,
+      "fontFamily": "Picon",
+      "identifier": "read"
+    },
+    "receive": {
+      "codepoint": 57939,
+      "fontFamily": "Picon",
+      "identifier": "receive"
+    },
+    "recycle": {
+      "codepoint": 57940,
+      "fontFamily": "Picon",
+      "identifier": "recycle"
+    },
+    "reddit": {
+      "codepoint": 57941,
+      "fontFamily": "Picon",
+      "identifier": "reddit"
+    },
+    "redhat": {
+      "codepoint": 57942,
+      "fontFamily": "Picon",
+      "identifier": "redhat"
+    },
+    "refresh": {
+      "codepoint": 57943,
+      "fontFamily": "Picon",
+      "identifier": "refresh"
+    },
+    "reload": {
+      "codepoint": 57944,
+      "fontFamily": "Picon",
+      "identifier": "reload"
+    },
+    "repeat": {
+      "codepoint": 57945,
+      "fontFamily": "Picon",
+      "identifier": "repeat"
+    },
+    "repeat1": {
+      "codepoint": 57946,
+      "fontFamily": "Picon",
+      "identifier": "repeat1"
+    },
+    "revert": {
+      "codepoint": 57947,
+      "fontFamily": "Picon",
+      "identifier": "revert"
+    },
+    "revolver": {
+      "codepoint": 57948,
+      "fontFamily": "Picon",
+      "identifier": "revolver"
+    },
+    "rewind": {
+      "codepoint": 57949,
+      "fontFamily": "Picon",
+      "identifier": "rewind"
+    },
+    "rfid": {
+      "codepoint": 57950,
+      "fontFamily": "Picon",
+      "identifier": "rfid"
+    },
+    "rice": {
+      "codepoint": 57951,
+      "fontFamily": "Picon",
+      "identifier": "rice"
+    },
+    "right": {
+      "codepoint": 57952,
+      "fontFamily": "Picon",
+      "identifier": "right"
+    },
+    "rightdouble": {
+      "codepoint": 57953,
+      "fontFamily": "Picon",
+      "identifier": "rightdouble"
+    },
+    "rightmost": {
+      "codepoint": 57954,
+      "fontFamily": "Picon",
+      "identifier": "rightmost"
+    },
+    "rightward": {
+      "codepoint": 57955,
+      "fontFamily": "Picon",
+      "identifier": "rightward"
+    },
+    "rise": {
+      "codepoint": 57956,
+      "fontFamily": "Picon",
+      "identifier": "rise"
+    },
+    "rj": {
+      "codepoint": 57957,
+      "fontFamily": "Picon",
+      "identifier": "rj"
+    },
+    "road": {
+      "codepoint": 57958,
+      "fontFamily": "Picon",
+      "identifier": "road"
+    },
+    "roadwork": {
+      "codepoint": 57959,
+      "fontFamily": "Picon",
+      "identifier": "roadwork"
+    },
+    "robot": {
+      "codepoint": 57960,
+      "fontFamily": "Picon",
+      "identifier": "robot"
+    },
+    "rocket": {
+      "codepoint": 57961,
+      "fontFamily": "Picon",
+      "identifier": "rocket"
+    },
+    "roll": {
+      "codepoint": 57962,
+      "fontFamily": "Picon",
+      "identifier": "roll"
+    },
+    "roller": {
+      "codepoint": 57963,
+      "fontFamily": "Picon",
+      "identifier": "roller"
+    },
+    "rollerblade": {
+      "codepoint": 57964,
+      "fontFamily": "Picon",
+      "identifier": "rollerblade"
+    },
+    "rostrum": {
+      "codepoint": 57965,
+      "fontFamily": "Picon",
+      "identifier": "rostrum"
+    },
+    "router": {
+      "codepoint": 57966,
+      "fontFamily": "Picon",
+      "identifier": "router"
+    },
+    "rss": {
+      "codepoint": 57967,
+      "fontFamily": "Picon",
+      "identifier": "rss"
+    },
+    "rtl": {
+      "codepoint": 57968,
+      "fontFamily": "Picon",
+      "identifier": "rtl"
+    },
+    "ruby": {
+      "codepoint": 57969,
+      "fontFamily": "Picon",
+      "identifier": "ruby"
+    },
+    "rugby": {
+      "codepoint": 57970,
+      "fontFamily": "Picon",
+      "identifier": "rugby"
+    },
+    "run": {
+      "codepoint": 57971,
+      "fontFamily": "Picon",
+      "identifier": "run"
+    },
+    "sad": {
+      "codepoint": 57972,
+      "fontFamily": "Picon",
+      "identifier": "sad"
+    },
+    "safe": {
+      "codepoint": 57973,
+      "fontFamily": "Picon",
+      "identifier": "safe"
+    },
+    "satellite": {
+      "codepoint": 57974,
+      "fontFamily": "Picon",
+      "identifier": "satellite"
+    },
+    "saw": {
+      "codepoint": 57975,
+      "fontFamily": "Picon",
+      "identifier": "saw"
+    },
+    "sax": {
+      "codepoint": 57976,
+      "fontFamily": "Picon",
+      "identifier": "sax"
+    },
+    "scale": {
+      "codepoint": 57977,
+      "fontFamily": "Picon",
+      "identifier": "scale"
+    },
+    "scan": {
+      "codepoint": 57978,
+      "fontFamily": "Picon",
+      "identifier": "scan"
+    },
+    "scanner": {
+      "codepoint": 57979,
+      "fontFamily": "Picon",
+      "identifier": "scanner"
+    },
+    "scooter": {
+      "codepoint": 57980,
+      "fontFamily": "Picon",
+      "identifier": "scooter"
+    },
+    "screen": {
+      "codepoint": 57981,
+      "fontFamily": "Picon",
+      "identifier": "screen"
+    },
+    "screw": {
+      "codepoint": 57982,
+      "fontFamily": "Picon",
+      "identifier": "screw"
+    },
+    "script": {
+      "codepoint": 57983,
+      "fontFamily": "Picon",
+      "identifier": "script"
+    },
+    "sd": {
+      "codepoint": 57984,
+      "fontFamily": "Picon",
+      "identifier": "sd"
+    },
+    "sdcard": {
+      "codepoint": 57985,
+      "fontFamily": "Picon",
+      "identifier": "sdcard"
+    },
+    "seat": {
+      "codepoint": 57986,
+      "fontFamily": "Picon",
+      "identifier": "seat"
+    },
+    "seatbelt": {
+      "codepoint": 57987,
+      "fontFamily": "Picon",
+      "identifier": "seatbelt"
+    },
+    "selectbox": {
+      "codepoint": 57988,
+      "fontFamily": "Picon",
+      "identifier": "selectbox"
+    },
+    "semicolon": {
+      "codepoint": 57989,
+      "fontFamily": "Picon",
+      "identifier": "semicolon"
+    },
+    "send": {
+      "codepoint": 57990,
+      "fontFamily": "Picon",
+      "identifier": "send"
+    },
+    "server": {
+      "codepoint": 57991,
+      "fontFamily": "Picon",
+      "identifier": "server"
+    },
+    "serving": {
+      "codepoint": 57992,
+      "fontFamily": "Picon",
+      "identifier": "serving"
+    },
+    "sewing": {
+      "codepoint": 57993,
+      "fontFamily": "Picon",
+      "identifier": "sewing"
+    },
+    "shake": {
+      "codepoint": 57994,
+      "fontFamily": "Picon",
+      "identifier": "shake"
+    },
+    "shark": {
+      "codepoint": 57995,
+      "fontFamily": "Picon",
+      "identifier": "shark"
+    },
+    "shaver": {
+      "codepoint": 57996,
+      "fontFamily": "Picon",
+      "identifier": "shaver"
+    },
+    "shield": {
+      "codepoint": 57997,
+      "fontFamily": "Picon",
+      "identifier": "shield"
+    },
+    "ship": {
+      "codepoint": 57998,
+      "fontFamily": "Picon",
+      "identifier": "ship"
+    },
+    "shoe": {
+      "codepoint": 57999,
+      "fontFamily": "Picon",
+      "identifier": "shoe"
+    },
+    "shop": {
+      "codepoint": 58000,
+      "fontFamily": "Picon",
+      "identifier": "shop"
+    },
+    "shopping": {
+      "codepoint": 58001,
+      "fontFamily": "Picon",
+      "identifier": "shopping"
+    },
+    "shovel": {
+      "codepoint": 58002,
+      "fontFamily": "Picon",
+      "identifier": "shovel"
+    },
+    "shower": {
+      "codepoint": 58003,
+      "fontFamily": "Picon",
+      "identifier": "shower"
+    },
+    "shrimp": {
+      "codepoint": 58004,
+      "fontFamily": "Picon",
+      "identifier": "shrimp"
+    },
+    "shrine": {
+      "codepoint": 58005,
+      "fontFamily": "Picon",
+      "identifier": "shrine"
+    },
+    "shrink": {
+      "codepoint": 58006,
+      "fontFamily": "Picon",
+      "identifier": "shrink"
+    },
+    "shuffle": {
+      "codepoint": 58007,
+      "fontFamily": "Picon",
+      "identifier": "shuffle"
+    },
+    "shutter": {
+      "codepoint": 58008,
+      "fontFamily": "Picon",
+      "identifier": "shutter"
+    },
+    "sidelist": {
+      "codepoint": 58009,
+      "fontFamily": "Picon",
+      "identifier": "sidelist"
+    },
+    "sidenav": {
+      "codepoint": 58010,
+      "fontFamily": "Picon",
+      "identifier": "sidenav"
+    },
+    "silverware": {
+      "codepoint": 58011,
+      "fontFamily": "Picon",
+      "identifier": "silverware"
+    },
+    "sim": {
+      "codepoint": 58012,
+      "fontFamily": "Picon",
+      "identifier": "sim"
+    },
+    "sink": {
+      "codepoint": 58013,
+      "fontFamily": "Picon",
+      "identifier": "sink"
+    },
+    "size": {
+      "codepoint": 58014,
+      "fontFamily": "Picon",
+      "identifier": "size"
+    },
+    "skate": {
+      "codepoint": 58015,
+      "fontFamily": "Picon",
+      "identifier": "skate"
+    },
+    "ski": {
+      "codepoint": 58016,
+      "fontFamily": "Picon",
+      "identifier": "ski"
+    },
+    "skull": {
+      "codepoint": 58017,
+      "fontFamily": "Picon",
+      "identifier": "skull"
+    },
+    "slash": {
+      "codepoint": 58018,
+      "fontFamily": "Picon",
+      "identifier": "slash"
+    },
+    "smartwatch": {
+      "codepoint": 58019,
+      "fontFamily": "Picon",
+      "identifier": "smartwatch"
+    },
+    "smooking": {
+      "codepoint": 58020,
+      "fontFamily": "Picon",
+      "identifier": "smooking"
+    },
+    "snooker": {
+      "codepoint": 58021,
+      "fontFamily": "Picon",
+      "identifier": "snooker"
+    },
+    "snowboard": {
+      "codepoint": 58022,
+      "fontFamily": "Picon",
+      "identifier": "snowboard"
+    },
+    "sofa": {
+      "codepoint": 58023,
+      "fontFamily": "Picon",
+      "identifier": "sofa"
+    },
+    "soup": {
+      "codepoint": 58024,
+      "fontFamily": "Picon",
+      "identifier": "soup"
+    },
+    "south": {
+      "codepoint": 58025,
+      "fontFamily": "Picon",
+      "identifier": "south"
+    },
+    "speaker": {
+      "codepoint": 58026,
+      "fontFamily": "Picon",
+      "identifier": "speaker"
+    },
+    "spellcheck": {
+      "codepoint": 58027,
+      "fontFamily": "Picon",
+      "identifier": "spellcheck"
+    },
+    "sphere": {
+      "codepoint": 58028,
+      "fontFamily": "Picon",
+      "identifier": "sphere"
+    },
+    "spinner": {
+      "codepoint": 58029,
+      "fontFamily": "Picon",
+      "identifier": "spinner"
+    },
+    "spinner2": {
+      "codepoint": 58030,
+      "fontFamily": "Picon",
+      "identifier": "spinner2"
+    },
+    "split": {
+      "codepoint": 58031,
+      "fontFamily": "Picon",
+      "identifier": "split"
+    },
+    "spray": {
+      "codepoint": 58032,
+      "fontFamily": "Picon",
+      "identifier": "spray"
+    },
+    "stack": {
+      "codepoint": 58033,
+      "fontFamily": "Picon",
+      "identifier": "stack"
+    },
+    "stacked": {
+      "codepoint": 58034,
+      "fontFamily": "Picon",
+      "identifier": "stacked"
+    },
+    "stackoverflow": {
+      "codepoint": 58035,
+      "fontFamily": "Picon",
+      "identifier": "stackoverflow"
+    },
+    "stamp": {
+      "codepoint": 58036,
+      "fontFamily": "Picon",
+      "identifier": "stamp"
+    },
+    "star": {
+      "codepoint": 58037,
+      "fontFamily": "Picon",
+      "identifier": "star"
+    },
+    "steadycam": {
+      "codepoint": 58038,
+      "fontFamily": "Picon",
+      "identifier": "steadycam"
+    },
+    "steam": {
+      "codepoint": 58039,
+      "fontFamily": "Picon",
+      "identifier": "steam"
+    },
+    "stop": {
+      "codepoint": 58040,
+      "fontFamily": "Picon",
+      "identifier": "stop"
+    },
+    "straighten": {
+      "codepoint": 58041,
+      "fontFamily": "Picon",
+      "identifier": "straighten"
+    },
+    "stroller": {
+      "codepoint": 58042,
+      "fontFamily": "Picon",
+      "identifier": "stroller"
+    },
+    "student": {
+      "codepoint": 58043,
+      "fontFamily": "Picon",
+      "identifier": "student"
+    },
+    "stylo": {
+      "codepoint": 58044,
+      "fontFamily": "Picon",
+      "identifier": "stylo"
+    },
+    "sublimtext": {
+      "codepoint": 58045,
+      "fontFamily": "Picon",
+      "identifier": "sublimtext"
+    },
+    "subtitle": {
+      "codepoint": 58046,
+      "fontFamily": "Picon",
+      "identifier": "subtitle"
+    },
+    "sun": {
+      "codepoint": 58047,
+      "fontFamily": "Picon",
+      "identifier": "sun"
+    },
+    "sunglasses": {
+      "codepoint": 58048,
+      "fontFamily": "Picon",
+      "identifier": "sunglasses"
+    },
+    "sunrise": {
+      "codepoint": 58049,
+      "fontFamily": "Picon",
+      "identifier": "sunrise"
+    },
+    "sunset": {
+      "codepoint": 58050,
+      "fontFamily": "Picon",
+      "identifier": "sunset"
+    },
+    "swift": {
+      "codepoint": 58051,
+      "fontFamily": "Picon",
+      "identifier": "swift"
+    },
+    "swim": {
+      "codepoint": 58052,
+      "fontFamily": "Picon",
+      "identifier": "swim"
+    },
+    "switch": {
+      "codepoint": 58053,
+      "fontFamily": "Picon",
+      "identifier": "switch_"
+    },
+    "sword": {
+      "codepoint": 58054,
+      "fontFamily": "Picon",
+      "identifier": "sword"
+    },
+    "tab": {
+      "codepoint": 58055,
+      "fontFamily": "Picon",
+      "identifier": "tab"
+    },
+    "tabletennis": {
+      "codepoint": 58056,
+      "fontFamily": "Picon",
+      "identifier": "tabletennis"
+    },
+    "taekwondo": {
+      "codepoint": 58057,
+      "fontFamily": "Picon",
+      "identifier": "taekwondo"
+    },
+    "tag": {
+      "codepoint": 58058,
+      "fontFamily": "Picon",
+      "identifier": "tag"
+    },
+    "takeoff": {
+      "codepoint": 58059,
+      "fontFamily": "Picon",
+      "identifier": "takeoff"
+    },
+    "takeout": {
+      "codepoint": 58060,
+      "fontFamily": "Picon",
+      "identifier": "takeout"
+    },
+    "taxi": {
+      "codepoint": 58061,
+      "fontFamily": "Picon",
+      "identifier": "taxi"
+    },
+    "tea": {
+      "codepoint": 58062,
+      "fontFamily": "Picon",
+      "identifier": "tea"
+    },
+    "tel": {
+      "codepoint": 58063,
+      "fontFamily": "Picon",
+      "identifier": "tel"
+    },
+    "telescope": {
+      "codepoint": 58064,
+      "fontFamily": "Picon",
+      "identifier": "telescope"
+    },
+    "temperature": {
+      "codepoint": 58065,
+      "fontFamily": "Picon",
+      "identifier": "temperature"
+    },
+    "tennis": {
+      "codepoint": 58066,
+      "fontFamily": "Picon",
+      "identifier": "tennis"
+    },
+    "test": {
+      "codepoint": 58067,
+      "fontFamily": "Picon",
+      "identifier": "test"
+    },
+    "tetris": {
+      "codepoint": 58068,
+      "fontFamily": "Picon",
+      "identifier": "tetris"
+    },
+    "thermometer": {
+      "codepoint": 58069,
+      "fontFamily": "Picon",
+      "identifier": "thermometer"
+    },
+    "throw": {
+      "codepoint": 58070,
+      "fontFamily": "Picon",
+      "identifier": "throw_"
+    },
+    "thumbdown": {
+      "codepoint": 58071,
+      "fontFamily": "Picon",
+      "identifier": "thumbdown"
+    },
+    "thumbup": {
+      "codepoint": 58072,
+      "fontFamily": "Picon",
+      "identifier": "thumbup"
+    },
+    "thunderbolt": {
+      "codepoint": 58073,
+      "fontFamily": "Picon",
+      "identifier": "thunderbolt"
+    },
+    "thundercloud": {
+      "codepoint": 58074,
+      "fontFamily": "Picon",
+      "identifier": "thundercloud"
+    },
+    "ticket": {
+      "codepoint": 58075,
+      "fontFamily": "Picon",
+      "identifier": "ticket"
+    },
+    "tie": {
+      "codepoint": 58076,
+      "fontFamily": "Picon",
+      "identifier": "tie"
+    },
+    "tile": {
+      "codepoint": 58077,
+      "fontFamily": "Picon",
+      "identifier": "tile"
+    },
+    "timer": {
+      "codepoint": 58078,
+      "fontFamily": "Picon",
+      "identifier": "timer"
+    },
+    "times": {
+      "codepoint": 58079,
+      "fontFamily": "Picon",
+      "identifier": "times"
+    },
+    "tm": {
+      "codepoint": 58080,
+      "fontFamily": "Picon",
+      "identifier": "tm"
+    },
+    "toast": {
+      "codepoint": 58081,
+      "fontFamily": "Picon",
+      "identifier": "toast"
+    },
+    "todo": {
+      "codepoint": 58082,
+      "fontFamily": "Picon",
+      "identifier": "todo"
+    },
+    "toilet": {
+      "codepoint": 58083,
+      "fontFamily": "Picon",
+      "identifier": "toilet"
+    },
+    "toolbox": {
+      "codepoint": 58084,
+      "fontFamily": "Picon",
+      "identifier": "toolbox"
+    },
+    "torch": {
+      "codepoint": 58085,
+      "fontFamily": "Picon",
+      "identifier": "torch"
+    },
+    "tornado": {
+      "codepoint": 58086,
+      "fontFamily": "Picon",
+      "identifier": "tornado"
+    },
+    "touch": {
+      "codepoint": 58087,
+      "fontFamily": "Picon",
+      "identifier": "touch"
+    },
+    "traffic": {
+      "codepoint": 58088,
+      "fontFamily": "Picon",
+      "identifier": "traffic"
+    },
+    "train": {
+      "codepoint": 58089,
+      "fontFamily": "Picon",
+      "identifier": "train"
+    },
+    "tram": {
+      "codepoint": 58090,
+      "fontFamily": "Picon",
+      "identifier": "tram"
+    },
+    "translate": {
+      "codepoint": 58091,
+      "fontFamily": "Picon",
+      "identifier": "translate"
+    },
+    "transport": {
+      "codepoint": 58092,
+      "fontFamily": "Picon",
+      "identifier": "transport"
+    },
+    "trash": {
+      "codepoint": 58093,
+      "fontFamily": "Picon",
+      "identifier": "trash"
+    },
+    "tree": {
+      "codepoint": 58094,
+      "fontFamily": "Picon",
+      "identifier": "tree"
+    },
+    "trolley": {
+      "codepoint": 58095,
+      "fontFamily": "Picon",
+      "identifier": "trolley"
+    },
+    "trophy": {
+      "codepoint": 58096,
+      "fontFamily": "Picon",
+      "identifier": "trophy"
+    },
+    "truck": {
+      "codepoint": 58097,
+      "fontFamily": "Picon",
+      "identifier": "truck"
+    },
+    "true": {
+      "codepoint": 58098,
+      "fontFamily": "Picon",
+      "identifier": "true_"
+    },
+    "tshirt": {
+      "codepoint": 58099,
+      "fontFamily": "Picon",
+      "identifier": "tshirt"
+    },
+    "tty": {
+      "codepoint": 58100,
+      "fontFamily": "Picon",
+      "identifier": "tty"
+    },
+    "tube": {
+      "codepoint": 58101,
+      "fontFamily": "Picon",
+      "identifier": "tube"
+    },
+    "tuning": {
+      "codepoint": 58102,
+      "fontFamily": "Picon",
+      "identifier": "tuning"
+    },
+    "turtle": {
+      "codepoint": 58103,
+      "fontFamily": "Picon",
+      "identifier": "turtle"
+    },
+    "tv": {
+      "codepoint": 58104,
+      "fontFamily": "Picon",
+      "identifier": "tv"
+    },
+    "twitch": {
+      "codepoint": 58105,
+      "fontFamily": "Picon",
+      "identifier": "twitch"
+    },
+    "twitter": {
+      "codepoint": 58106,
+      "fontFamily": "Picon",
+      "identifier": "twitter"
+    },
+    "ufo": {
+      "codepoint": 58107,
+      "fontFamily": "Picon",
+      "identifier": "ufo"
+    },
+    "umbrella": {
+      "codepoint": 58108,
+      "fontFamily": "Picon",
+      "identifier": "umbrella"
+    },
+    "underground": {
+      "codepoint": 58109,
+      "fontFamily": "Picon",
+      "identifier": "underground"
+    },
+    "underline": {
+      "codepoint": 58110,
+      "fontFamily": "Picon",
+      "identifier": "underline"
+    },
+    "unicorn": {
+      "codepoint": 58111,
+      "fontFamily": "Picon",
+      "identifier": "unicorn"
+    },
+    "unindent": {
+      "codepoint": 58112,
+      "fontFamily": "Picon",
+      "identifier": "unindent"
+    },
+    "unlock": {
+      "codepoint": 58113,
+      "fontFamily": "Picon",
+      "identifier": "unlock"
+    },
+    "up": {
+      "codepoint": 58114,
+      "fontFamily": "Picon",
+      "identifier": "up"
+    },
+    "update": {
+      "codepoint": 58115,
+      "fontFamily": "Picon",
+      "identifier": "update"
+    },
+    "updouble": {
+      "codepoint": 58116,
+      "fontFamily": "Picon",
+      "identifier": "updouble"
+    },
+    "updown": {
+      "codepoint": 58117,
+      "fontFamily": "Picon",
+      "identifier": "updown"
+    },
+    "upload": {
+      "codepoint": 58118,
+      "fontFamily": "Picon",
+      "identifier": "upload"
+    },
+    "upmost": {
+      "codepoint": 58119,
+      "fontFamily": "Picon",
+      "identifier": "upmost"
+    },
+    "upright": {
+      "codepoint": 58120,
+      "fontFamily": "Picon",
+      "identifier": "upright"
+    },
+    "upward": {
+      "codepoint": 58121,
+      "fontFamily": "Picon",
+      "identifier": "upward"
+    },
+    "usb": {
+      "codepoint": 58122,
+      "fontFamily": "Picon",
+      "identifier": "usb"
+    },
+    "vest": {
+      "codepoint": 58123,
+      "fontFamily": "Picon",
+      "identifier": "vest"
+    },
+    "vi": {
+      "codepoint": 58124,
+      "fontFamily": "Picon",
+      "identifier": "vi"
+    },
+    "viking": {
+      "codepoint": 58125,
+      "fontFamily": "Picon",
+      "identifier": "viking"
+    },
+    "virus": {
+      "codepoint": 58126,
+      "fontFamily": "Picon",
+      "identifier": "virus"
+    },
+    "vk": {
+      "codepoint": 58127,
+      "fontFamily": "Picon",
+      "identifier": "vk"
+    },
+    "volley": {
+      "codepoint": 58128,
+      "fontFamily": "Picon",
+      "identifier": "volley"
+    },
+    "volume": {
+      "codepoint": 58129,
+      "fontFamily": "Picon",
+      "identifier": "volume"
+    },
+    "vote": {
+      "codepoint": 58130,
+      "fontFamily": "Picon",
+      "identifier": "vote"
+    },
+    "vr": {
+      "codepoint": 58131,
+      "fontFamily": "Picon",
+      "identifier": "vr"
+    },
+    "vscode": {
+      "codepoint": 58132,
+      "fontFamily": "Picon",
+      "identifier": "vscode"
+    },
+    "vue": {
+      "codepoint": 58133,
+      "fontFamily": "Picon",
+      "identifier": "vue"
+    },
+    "walk": {
+      "codepoint": 58134,
+      "fontFamily": "Picon",
+      "identifier": "walk"
+    },
+    "wall": {
+      "codepoint": 58135,
+      "fontFamily": "Picon",
+      "identifier": "wall"
+    },
+    "wallet": {
+      "codepoint": 58136,
+      "fontFamily": "Picon",
+      "identifier": "wallet"
+    },
+    "warning": {
+      "codepoint": 58137,
+      "fontFamily": "Picon",
+      "identifier": "warning"
+    },
+    "wasp": {
+      "codepoint": 58138,
+      "fontFamily": "Picon",
+      "identifier": "wasp"
+    },
+    "water": {
+      "codepoint": 58139,
+      "fontFamily": "Picon",
+      "identifier": "water"
+    },
+    "wave": {
+      "codepoint": 58140,
+      "fontFamily": "Picon",
+      "identifier": "wave"
+    },
+    "weight": {
+      "codepoint": 58141,
+      "fontFamily": "Picon",
+      "identifier": "weight"
+    },
+    "west": {
+      "codepoint": 58142,
+      "fontFamily": "Picon",
+      "identifier": "west"
+    },
+    "whale": {
+      "codepoint": 58143,
+      "fontFamily": "Picon",
+      "identifier": "whale"
+    },
+    "whatsapp": {
+      "codepoint": 58144,
+      "fontFamily": "Picon",
+      "identifier": "whatsapp"
+    },
+    "wheelchair": {
+      "codepoint": 58145,
+      "fontFamily": "Picon",
+      "identifier": "wheelchair"
+    },
+    "whistle": {
+      "codepoint": 58146,
+      "fontFamily": "Picon",
+      "identifier": "whistle"
+    },
+    "width": {
+      "codepoint": 58147,
+      "fontFamily": "Picon",
+      "identifier": "width"
+    },
+    "wifi0": {
+      "codepoint": 58148,
+      "fontFamily": "Picon",
+      "identifier": "wifi0"
+    },
+    "wifi1": {
+      "codepoint": 58149,
+      "fontFamily": "Picon",
+      "identifier": "wifi1"
+    },
+    "wifi2": {
+      "codepoint": 58150,
+      "fontFamily": "Picon",
+      "identifier": "wifi2"
+    },
+    "wifi3": {
+      "codepoint": 58151,
+      "fontFamily": "Picon",
+      "identifier": "wifi3"
+    },
+    "wifi4": {
+      "codepoint": 58152,
+      "fontFamily": "Picon",
+      "identifier": "wifi4"
+    },
+    "wikipedia": {
+      "codepoint": 58153,
+      "fontFamily": "Picon",
+      "identifier": "wikipedia"
+    },
+    "wind": {
+      "codepoint": 58154,
+      "fontFamily": "Picon",
+      "identifier": "wind"
+    },
+    "window": {
+      "codepoint": 58155,
+      "fontFamily": "Picon",
+      "identifier": "window"
+    },
+    "windowed": {
+      "codepoint": 58156,
+      "fontFamily": "Picon",
+      "identifier": "windowed"
+    },
+    "windows": {
+      "codepoint": 58157,
+      "fontFamily": "Picon",
+      "identifier": "windows"
+    },
+    "windsocket": {
+      "codepoint": 58158,
+      "fontFamily": "Picon",
+      "identifier": "windsocket"
+    },
+    "woman": {
+      "codepoint": 58159,
+      "fontFamily": "Picon",
+      "identifier": "woman"
+    },
+    "workstation": {
+      "codepoint": 58160,
+      "fontFamily": "Picon",
+      "identifier": "workstation"
+    },
+    "wrench": {
+      "codepoint": 58161,
+      "fontFamily": "Picon",
+      "identifier": "wrench"
+    },
+    "xbox": {
+      "codepoint": 58162,
+      "fontFamily": "Picon",
+      "identifier": "xbox"
+    },
+    "xor": {
+      "codepoint": 58163,
+      "fontFamily": "Picon",
+      "identifier": "xor"
+    },
+    "yahoo": {
+      "codepoint": 58164,
+      "fontFamily": "Picon",
+      "identifier": "yahoo"
+    },
+    "yinyang": {
+      "codepoint": 58165,
+      "fontFamily": "Picon",
+      "identifier": "yinyang"
+    },
+    "youtube": {
+      "codepoint": 58166,
+      "fontFamily": "Picon",
+      "identifier": "youtube"
+    },
+    "zip": {
+      "codepoint": 58167,
+      "fontFamily": "Picon",
+      "identifier": "zip"
+    }
+  }
+}

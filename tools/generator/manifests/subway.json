@@ -1,0 +1,1565 @@
+{
+  "schemaVersion": 1,
+  "prefix": "subway",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Archive / Unmaintained",
+  "subPackage": "iconifyx_subway",
+  "info": {
+    "name": "Subway Icon Set",
+    "author": {
+      "name": "Mariusz Ostrowski",
+      "url": "https://github.com/mariuszostrowski/subway"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 307
+  },
+  "fonts": [
+    {
+      "family": "Subway",
+      "nextCodepoint": 57651,
+      "iconCount": 307
+    }
+  ],
+  "icons": {
+    "add": {
+      "codepoint": 57344,
+      "fontFamily": "Subway",
+      "identifier": "add"
+    },
+    "add-1": {
+      "codepoint": 57345,
+      "fontFamily": "Subway",
+      "identifier": "add1"
+    },
+    "add-playlist": {
+      "codepoint": 57346,
+      "fontFamily": "Subway",
+      "identifier": "addPlaylist"
+    },
+    "admin": {
+      "codepoint": 57347,
+      "fontFamily": "Subway",
+      "identifier": "admin"
+    },
+    "admin-1": {
+      "codepoint": 57348,
+      "fontFamily": "Subway",
+      "identifier": "admin1"
+    },
+    "admin-2": {
+      "codepoint": 57349,
+      "fontFamily": "Subway",
+      "identifier": "admin2"
+    },
+    "airplane-mode": {
+      "codepoint": 57350,
+      "fontFamily": "Subway",
+      "identifier": "airplaneMode"
+    },
+    "alam": {
+      "codepoint": 57351,
+      "fontFamily": "Subway",
+      "identifier": "alam"
+    },
+    "at": {
+      "codepoint": 57352,
+      "fontFamily": "Subway",
+      "identifier": "at"
+    },
+    "backward": {
+      "codepoint": 57353,
+      "fontFamily": "Subway",
+      "identifier": "backward"
+    },
+    "backward-1": {
+      "codepoint": 57354,
+      "fontFamily": "Subway",
+      "identifier": "backward1"
+    },
+    "bag": {
+      "codepoint": 57355,
+      "fontFamily": "Subway",
+      "identifier": "bag"
+    },
+    "basket": {
+      "codepoint": 57356,
+      "fontFamily": "Subway",
+      "identifier": "basket"
+    },
+    "bell": {
+      "codepoint": 57357,
+      "fontFamily": "Subway",
+      "identifier": "bell"
+    },
+    "black-white": {
+      "codepoint": 57358,
+      "fontFamily": "Subway",
+      "identifier": "blackWhite"
+    },
+    "bluetooth": {
+      "codepoint": 57359,
+      "fontFamily": "Subway",
+      "identifier": "bluetooth"
+    },
+    "blur": {
+      "codepoint": 57360,
+      "fontFamily": "Subway",
+      "identifier": "blur"
+    },
+    "book": {
+      "codepoint": 57361,
+      "fontFamily": "Subway",
+      "identifier": "book"
+    },
+    "book-1": {
+      "codepoint": 57362,
+      "fontFamily": "Subway",
+      "identifier": "book1"
+    },
+    "box": {
+      "codepoint": 57363,
+      "fontFamily": "Subway",
+      "identifier": "box"
+    },
+    "box-1": {
+      "codepoint": 57364,
+      "fontFamily": "Subway",
+      "identifier": "box1"
+    },
+    "brightest": {
+      "codepoint": 57365,
+      "fontFamily": "Subway",
+      "identifier": "brightest"
+    },
+    "brush": {
+      "codepoint": 57366,
+      "fontFamily": "Subway",
+      "identifier": "brush"
+    },
+    "c": {
+      "codepoint": 57367,
+      "fontFamily": "Subway",
+      "identifier": "c"
+    },
+    "cain": {
+      "codepoint": 57368,
+      "fontFamily": "Subway",
+      "identifier": "cain"
+    },
+    "calendar": {
+      "codepoint": 57369,
+      "fontFamily": "Subway",
+      "identifier": "calendar"
+    },
+    "calendar-1": {
+      "codepoint": 57370,
+      "fontFamily": "Subway",
+      "identifier": "calendar1"
+    },
+    "calendar-2": {
+      "codepoint": 57371,
+      "fontFamily": "Subway",
+      "identifier": "calendar2"
+    },
+    "calendar-3": {
+      "codepoint": 57372,
+      "fontFamily": "Subway",
+      "identifier": "calendar3"
+    },
+    "calendar-4": {
+      "codepoint": 57373,
+      "fontFamily": "Subway",
+      "identifier": "calendar4"
+    },
+    "calendar-5": {
+      "codepoint": 57374,
+      "fontFamily": "Subway",
+      "identifier": "calendar5"
+    },
+    "calendar-6": {
+      "codepoint": 57375,
+      "fontFamily": "Subway",
+      "identifier": "calendar6"
+    },
+    "call": {
+      "codepoint": 57376,
+      "fontFamily": "Subway",
+      "identifier": "call"
+    },
+    "call-1": {
+      "codepoint": 57377,
+      "fontFamily": "Subway",
+      "identifier": "call1"
+    },
+    "call-2": {
+      "codepoint": 57378,
+      "fontFamily": "Subway",
+      "identifier": "call2"
+    },
+    "call-3": {
+      "codepoint": 57379,
+      "fontFamily": "Subway",
+      "identifier": "call3"
+    },
+    "call-4": {
+      "codepoint": 57380,
+      "fontFamily": "Subway",
+      "identifier": "call4"
+    },
+    "camera": {
+      "codepoint": 57381,
+      "fontFamily": "Subway",
+      "identifier": "camera"
+    },
+    "cercle-1": {
+      "codepoint": 57382,
+      "fontFamily": "Subway",
+      "identifier": "cercle1"
+    },
+    "cercle-2": {
+      "codepoint": 57383,
+      "fontFamily": "Subway",
+      "identifier": "cercle2"
+    },
+    "cercle-3": {
+      "codepoint": 57384,
+      "fontFamily": "Subway",
+      "identifier": "cercle3"
+    },
+    "cercle-4": {
+      "codepoint": 57385,
+      "fontFamily": "Subway",
+      "identifier": "cercle4"
+    },
+    "cercle-5": {
+      "codepoint": 57386,
+      "fontFamily": "Subway",
+      "identifier": "cercle5"
+    },
+    "cercle-6": {
+      "codepoint": 57387,
+      "fontFamily": "Subway",
+      "identifier": "cercle6"
+    },
+    "cercle-7": {
+      "codepoint": 57388,
+      "fontFamily": "Subway",
+      "identifier": "cercle7"
+    },
+    "cercle-8": {
+      "codepoint": 57389,
+      "fontFamily": "Subway",
+      "identifier": "cercle8"
+    },
+    "circle": {
+      "codepoint": 57390,
+      "fontFamily": "Subway",
+      "identifier": "circle"
+    },
+    "close-2": {
+      "codepoint": 57391,
+      "fontFamily": "Subway",
+      "identifier": "close2"
+    },
+    "close-corner-arrow-1": {
+      "codepoint": 57392,
+      "fontFamily": "Subway",
+      "identifier": "closeCornerArrow1"
+    },
+    "close-corner-arrow-2": {
+      "codepoint": 57393,
+      "fontFamily": "Subway",
+      "identifier": "closeCornerArrow2"
+    },
+    "cloth": {
+      "codepoint": 57394,
+      "fontFamily": "Subway",
+      "identifier": "cloth"
+    },
+    "cloth-1": {
+      "codepoint": 57395,
+      "fontFamily": "Subway",
+      "identifier": "cloth1"
+    },
+    "cloud": {
+      "codepoint": 57396,
+      "fontFamily": "Subway",
+      "identifier": "cloud"
+    },
+    "cloud-download": {
+      "codepoint": 57397,
+      "fontFamily": "Subway",
+      "identifier": "cloudDownload"
+    },
+    "cloud-reload": {
+      "codepoint": 57398,
+      "fontFamily": "Subway",
+      "identifier": "cloudReload"
+    },
+    "cloud-upload": {
+      "codepoint": 57399,
+      "fontFamily": "Subway",
+      "identifier": "cloudUpload"
+    },
+    "coin": {
+      "codepoint": 57400,
+      "fontFamily": "Subway",
+      "identifier": "coin"
+    },
+    "coin-1": {
+      "codepoint": 57401,
+      "fontFamily": "Subway",
+      "identifier": "coin1"
+    },
+    "compass": {
+      "codepoint": 57402,
+      "fontFamily": "Subway",
+      "identifier": "compass"
+    },
+    "compass-1": {
+      "codepoint": 57403,
+      "fontFamily": "Subway",
+      "identifier": "compass1"
+    },
+    "compass-2": {
+      "codepoint": 57404,
+      "fontFamily": "Subway",
+      "identifier": "compass2"
+    },
+    "compose": {
+      "codepoint": 57405,
+      "fontFamily": "Subway",
+      "identifier": "compose"
+    },
+    "cover": {
+      "codepoint": 57406,
+      "fontFamily": "Subway",
+      "identifier": "cover"
+    },
+    "crop": {
+      "codepoint": 57407,
+      "fontFamily": "Subway",
+      "identifier": "crop"
+    },
+    "crpss": {
+      "codepoint": 57408,
+      "fontFamily": "Subway",
+      "identifier": "crpss"
+    },
+    "dail-pad": {
+      "codepoint": 57409,
+      "fontFamily": "Subway",
+      "identifier": "dailPad"
+    },
+    "delete": {
+      "codepoint": 57410,
+      "fontFamily": "Subway",
+      "identifier": "delete"
+    },
+    "divide": {
+      "codepoint": 57411,
+      "fontFamily": "Subway",
+      "identifier": "divide"
+    },
+    "divide-1": {
+      "codepoint": 57412,
+      "fontFamily": "Subway",
+      "identifier": "divide1"
+    },
+    "document": {
+      "codepoint": 57413,
+      "fontFamily": "Subway",
+      "identifier": "document"
+    },
+    "document-1": {
+      "codepoint": 57414,
+      "fontFamily": "Subway",
+      "identifier": "document1"
+    },
+    "document-2": {
+      "codepoint": 57415,
+      "fontFamily": "Subway",
+      "identifier": "document2"
+    },
+    "document-3": {
+      "codepoint": 57416,
+      "fontFamily": "Subway",
+      "identifier": "document3"
+    },
+    "down": {
+      "codepoint": 57417,
+      "fontFamily": "Subway",
+      "identifier": "down"
+    },
+    "down-2": {
+      "codepoint": 57418,
+      "fontFamily": "Subway",
+      "identifier": "down2"
+    },
+    "down-arrow": {
+      "codepoint": 57419,
+      "fontFamily": "Subway",
+      "identifier": "downArrow"
+    },
+    "down-arrow-1": {
+      "codepoint": 57420,
+      "fontFamily": "Subway",
+      "identifier": "downArrow1"
+    },
+    "download-1": {
+      "codepoint": 57421,
+      "fontFamily": "Subway",
+      "identifier": "download1"
+    },
+    "download-2": {
+      "codepoint": 57422,
+      "fontFamily": "Subway",
+      "identifier": "download2"
+    },
+    "download-3": {
+      "codepoint": 57423,
+      "fontFamily": "Subway",
+      "identifier": "download3"
+    },
+    "download-4": {
+      "codepoint": 57424,
+      "fontFamily": "Subway",
+      "identifier": "download4"
+    },
+    "duble-corner-arrow-1": {
+      "codepoint": 57425,
+      "fontFamily": "Subway",
+      "identifier": "dubleCornerArrow1"
+    },
+    "duble-corner-arrow-3": {
+      "codepoint": 57426,
+      "fontFamily": "Subway",
+      "identifier": "dubleCornerArrow3"
+    },
+    "duble-corner-arrow-4": {
+      "codepoint": 57427,
+      "fontFamily": "Subway",
+      "identifier": "dubleCornerArrow4"
+    },
+    "duble-corner-arrow-5": {
+      "codepoint": 57428,
+      "fontFamily": "Subway",
+      "identifier": "dubleCornerArrow5"
+    },
+    "duble-corner-arrow-6": {
+      "codepoint": 57429,
+      "fontFamily": "Subway",
+      "identifier": "dubleCornerArrow6"
+    },
+    "duble-corner-arrow-blod-2": {
+      "codepoint": 57430,
+      "fontFamily": "Subway",
+      "identifier": "dubleCornerArrowBlod2"
+    },
+    "equal": {
+      "codepoint": 57431,
+      "fontFamily": "Subway",
+      "identifier": "equal"
+    },
+    "equal-1": {
+      "codepoint": 57432,
+      "fontFamily": "Subway",
+      "identifier": "equal1"
+    },
+    "equalizer": {
+      "codepoint": 57433,
+      "fontFamily": "Subway",
+      "identifier": "equalizer"
+    },
+    "equalizer-1": {
+      "codepoint": 57434,
+      "fontFamily": "Subway",
+      "identifier": "equalizer1"
+    },
+    "equalizer-2": {
+      "codepoint": 57435,
+      "fontFamily": "Subway",
+      "identifier": "equalizer2"
+    },
+    "error": {
+      "codepoint": 57436,
+      "fontFamily": "Subway",
+      "identifier": "error"
+    },
+    "euro": {
+      "codepoint": 57437,
+      "fontFamily": "Subway",
+      "identifier": "euro"
+    },
+    "exit": {
+      "codepoint": 57438,
+      "fontFamily": "Subway",
+      "identifier": "exit"
+    },
+    "eye": {
+      "codepoint": 57439,
+      "fontFamily": "Subway",
+      "identifier": "eye"
+    },
+    "f": {
+      "codepoint": 57440,
+      "fontFamily": "Subway",
+      "identifier": "f"
+    },
+    "feed": {
+      "codepoint": 57441,
+      "fontFamily": "Subway",
+      "identifier": "feed"
+    },
+    "file": {
+      "codepoint": 57442,
+      "fontFamily": "Subway",
+      "identifier": "file"
+    },
+    "file-1": {
+      "codepoint": 57443,
+      "fontFamily": "Subway",
+      "identifier": "file1"
+    },
+    "file-10": {
+      "codepoint": 57444,
+      "fontFamily": "Subway",
+      "identifier": "file10"
+    },
+    "file-11": {
+      "codepoint": 57445,
+      "fontFamily": "Subway",
+      "identifier": "file11"
+    },
+    "file-12": {
+      "codepoint": 57446,
+      "fontFamily": "Subway",
+      "identifier": "file12"
+    },
+    "file-13": {
+      "codepoint": 57447,
+      "fontFamily": "Subway",
+      "identifier": "file13"
+    },
+    "file-2": {
+      "codepoint": 57448,
+      "fontFamily": "Subway",
+      "identifier": "file2"
+    },
+    "file-3": {
+      "codepoint": 57449,
+      "fontFamily": "Subway",
+      "identifier": "file3"
+    },
+    "file-4": {
+      "codepoint": 57450,
+      "fontFamily": "Subway",
+      "identifier": "file4"
+    },
+    "file-5": {
+      "codepoint": 57451,
+      "fontFamily": "Subway",
+      "identifier": "file5"
+    },
+    "file-6": {
+      "codepoint": 57452,
+      "fontFamily": "Subway",
+      "identifier": "file6"
+    },
+    "file-7": {
+      "codepoint": 57453,
+      "fontFamily": "Subway",
+      "identifier": "file7"
+    },
+    "file-8": {
+      "codepoint": 57454,
+      "fontFamily": "Subway",
+      "identifier": "file8"
+    },
+    "file-9": {
+      "codepoint": 57455,
+      "fontFamily": "Subway",
+      "identifier": "file9"
+    },
+    "folder": {
+      "codepoint": 57456,
+      "fontFamily": "Subway",
+      "identifier": "folder"
+    },
+    "folder-1": {
+      "codepoint": 57457,
+      "fontFamily": "Subway",
+      "identifier": "folder1"
+    },
+    "folder-2": {
+      "codepoint": 57458,
+      "fontFamily": "Subway",
+      "identifier": "folder2"
+    },
+    "folder-3": {
+      "codepoint": 57459,
+      "fontFamily": "Subway",
+      "identifier": "folder3"
+    },
+    "fot-screen": {
+      "codepoint": 57460,
+      "fontFamily": "Subway",
+      "identifier": "fotScreen"
+    },
+    "four-box": {
+      "codepoint": 57461,
+      "fontFamily": "Subway",
+      "identifier": "fourBox"
+    },
+    "froward": {
+      "codepoint": 57462,
+      "fontFamily": "Subway",
+      "identifier": "froward"
+    },
+    "froward-1": {
+      "codepoint": 57463,
+      "fontFamily": "Subway",
+      "identifier": "froward1"
+    },
+    "fullscreen": {
+      "codepoint": 57464,
+      "fontFamily": "Subway",
+      "identifier": "fullscreen"
+    },
+    "glass": {
+      "codepoint": 57465,
+      "fontFamily": "Subway",
+      "identifier": "glass"
+    },
+    "home": {
+      "codepoint": 57466,
+      "fontFamily": "Subway",
+      "identifier": "home"
+    },
+    "home-1": {
+      "codepoint": 57467,
+      "fontFamily": "Subway",
+      "identifier": "home1"
+    },
+    "home-2": {
+      "codepoint": 57468,
+      "fontFamily": "Subway",
+      "identifier": "home2"
+    },
+    "home-3": {
+      "codepoint": 57469,
+      "fontFamily": "Subway",
+      "identifier": "home3"
+    },
+    "hulf-of-circle-2": {
+      "codepoint": 57470,
+      "fontFamily": "Subway",
+      "identifier": "hulfOfCircle2"
+    },
+    "hurt": {
+      "codepoint": 57471,
+      "fontFamily": "Subway",
+      "identifier": "hurt"
+    },
+    "hurt-1": {
+      "codepoint": 57472,
+      "fontFamily": "Subway",
+      "identifier": "hurt1"
+    },
+    "hurt-3": {
+      "codepoint": 57473,
+      "fontFamily": "Subway",
+      "identifier": "hurt3"
+    },
+    "id-card": {
+      "codepoint": 57474,
+      "fontFamily": "Subway",
+      "identifier": "idCard"
+    },
+    "id-card-1": {
+      "codepoint": 57475,
+      "fontFamily": "Subway",
+      "identifier": "idCard1"
+    },
+    "image": {
+      "codepoint": 57476,
+      "fontFamily": "Subway",
+      "identifier": "image"
+    },
+    "join-corner-arrow-1": {
+      "codepoint": 57477,
+      "fontFamily": "Subway",
+      "identifier": "joinCornerArrow1"
+    },
+    "join-corner-arrow-2": {
+      "codepoint": 57478,
+      "fontFamily": "Subway",
+      "identifier": "joinCornerArrow2"
+    },
+    "join-corner-arrow-3": {
+      "codepoint": 57479,
+      "fontFamily": "Subway",
+      "identifier": "joinCornerArrow3"
+    },
+    "join-corner-arrow-4": {
+      "codepoint": 57480,
+      "fontFamily": "Subway",
+      "identifier": "joinCornerArrow4"
+    },
+    "join-corner-arrow-5": {
+      "codepoint": 57481,
+      "fontFamily": "Subway",
+      "identifier": "joinCornerArrow5"
+    },
+    "join-corner-arrow-6": {
+      "codepoint": 57482,
+      "fontFamily": "Subway",
+      "identifier": "joinCornerArrow6"
+    },
+    "key": {
+      "codepoint": 57483,
+      "fontFamily": "Subway",
+      "identifier": "key"
+    },
+    "left-arrow": {
+      "codepoint": 57484,
+      "fontFamily": "Subway",
+      "identifier": "leftArrow"
+    },
+    "left-arrow-1": {
+      "codepoint": 57485,
+      "fontFamily": "Subway",
+      "identifier": "leftArrow1"
+    },
+    "left-down-corner-arrow": {
+      "codepoint": 57486,
+      "fontFamily": "Subway",
+      "identifier": "leftDownCornerArrow"
+    },
+    "left-down-corner-arrow-1": {
+      "codepoint": 57487,
+      "fontFamily": "Subway",
+      "identifier": "leftDownCornerArrow1"
+    },
+    "left-up-corner-arrow": {
+      "codepoint": 57488,
+      "fontFamily": "Subway",
+      "identifier": "leftUpCornerArrow"
+    },
+    "left-up-corner-arrow-1": {
+      "codepoint": 57489,
+      "fontFamily": "Subway",
+      "identifier": "leftUpCornerArrow1"
+    },
+    "like": {
+      "codepoint": 57490,
+      "fontFamily": "Subway",
+      "identifier": "like"
+    },
+    "location": {
+      "codepoint": 57491,
+      "fontFamily": "Subway",
+      "identifier": "location"
+    },
+    "location-1": {
+      "codepoint": 57492,
+      "fontFamily": "Subway",
+      "identifier": "location1"
+    },
+    "location-2": {
+      "codepoint": 57493,
+      "fontFamily": "Subway",
+      "identifier": "location2"
+    },
+    "location-3": {
+      "codepoint": 57494,
+      "fontFamily": "Subway",
+      "identifier": "location3"
+    },
+    "lock": {
+      "codepoint": 57495,
+      "fontFamily": "Subway",
+      "identifier": "lock"
+    },
+    "lock-1": {
+      "codepoint": 57496,
+      "fontFamily": "Subway",
+      "identifier": "lock1"
+    },
+    "lock-2": {
+      "codepoint": 57497,
+      "fontFamily": "Subway",
+      "identifier": "lock2"
+    },
+    "magic": {
+      "codepoint": 57498,
+      "fontFamily": "Subway",
+      "identifier": "magic"
+    },
+    "mail-icon": {
+      "codepoint": 57499,
+      "fontFamily": "Subway",
+      "identifier": "mailIcon"
+    },
+    "mail-icon-1": {
+      "codepoint": 57500,
+      "fontFamily": "Subway",
+      "identifier": "mailIcon1"
+    },
+    "mail-icon-2": {
+      "codepoint": 57501,
+      "fontFamily": "Subway",
+      "identifier": "mailIcon2"
+    },
+    "mark": {
+      "codepoint": 57502,
+      "fontFamily": "Subway",
+      "identifier": "mark"
+    },
+    "mark-1": {
+      "codepoint": 57503,
+      "fontFamily": "Subway",
+      "identifier": "mark1"
+    },
+    "mark-2": {
+      "codepoint": 57504,
+      "fontFamily": "Subway",
+      "identifier": "mark2"
+    },
+    "mark-3": {
+      "codepoint": 57505,
+      "fontFamily": "Subway",
+      "identifier": "mark3"
+    },
+    "mark-4": {
+      "codepoint": 57506,
+      "fontFamily": "Subway",
+      "identifier": "mark4"
+    },
+    "massage": {
+      "codepoint": 57507,
+      "fontFamily": "Subway",
+      "identifier": "massage"
+    },
+    "massage-1": {
+      "codepoint": 57508,
+      "fontFamily": "Subway",
+      "identifier": "massage1"
+    },
+    "media": {
+      "codepoint": 57509,
+      "fontFamily": "Subway",
+      "identifier": "media"
+    },
+    "memori-card": {
+      "codepoint": 57510,
+      "fontFamily": "Subway",
+      "identifier": "memoriCard"
+    },
+    "menu": {
+      "codepoint": 57511,
+      "fontFamily": "Subway",
+      "identifier": "menu"
+    },
+    "mic": {
+      "codepoint": 57512,
+      "fontFamily": "Subway",
+      "identifier": "mic"
+    },
+    "missing": {
+      "codepoint": 57513,
+      "fontFamily": "Subway",
+      "identifier": "missing"
+    },
+    "move": {
+      "codepoint": 57514,
+      "fontFamily": "Subway",
+      "identifier": "move"
+    },
+    "move-1": {
+      "codepoint": 57515,
+      "fontFamily": "Subway",
+      "identifier": "move1"
+    },
+    "move-2": {
+      "codepoint": 57516,
+      "fontFamily": "Subway",
+      "identifier": "move2"
+    },
+    "movie": {
+      "codepoint": 57517,
+      "fontFamily": "Subway",
+      "identifier": "movie"
+    },
+    "multiply": {
+      "codepoint": 57518,
+      "fontFamily": "Subway",
+      "identifier": "multiply"
+    },
+    "multiply-1": {
+      "codepoint": 57519,
+      "fontFamily": "Subway",
+      "identifier": "multiply1"
+    },
+    "music": {
+      "codepoint": 57520,
+      "fontFamily": "Subway",
+      "identifier": "music"
+    },
+    "musk": {
+      "codepoint": 57521,
+      "fontFamily": "Subway",
+      "identifier": "musk"
+    },
+    "mute": {
+      "codepoint": 57522,
+      "fontFamily": "Subway",
+      "identifier": "mute"
+    },
+    "netwark": {
+      "codepoint": 57523,
+      "fontFamily": "Subway",
+      "identifier": "netwark"
+    },
+    "next": {
+      "codepoint": 57524,
+      "fontFamily": "Subway",
+      "identifier": "next"
+    },
+    "next-1": {
+      "codepoint": 57525,
+      "fontFamily": "Subway",
+      "identifier": "next1"
+    },
+    "paragraph": {
+      "codepoint": 57526,
+      "fontFamily": "Subway",
+      "identifier": "paragraph"
+    },
+    "paragraph-2": {
+      "codepoint": 57527,
+      "fontFamily": "Subway",
+      "identifier": "paragraph2"
+    },
+    "paragraph-3": {
+      "codepoint": 57528,
+      "fontFamily": "Subway",
+      "identifier": "paragraph3"
+    },
+    "paragraph-4": {
+      "codepoint": 57529,
+      "fontFamily": "Subway",
+      "identifier": "paragraph4"
+    },
+    "paragraph-5": {
+      "codepoint": 57530,
+      "fontFamily": "Subway",
+      "identifier": "paragraph5"
+    },
+    "paragraph-6": {
+      "codepoint": 57531,
+      "fontFamily": "Subway",
+      "identifier": "paragraph6"
+    },
+    "paragraph-7": {
+      "codepoint": 57532,
+      "fontFamily": "Subway",
+      "identifier": "paragraph7"
+    },
+    "paragraph-8": {
+      "codepoint": 57533,
+      "fontFamily": "Subway",
+      "identifier": "paragraph8"
+    },
+    "paragraph-9": {
+      "codepoint": 57534,
+      "fontFamily": "Subway",
+      "identifier": "paragraph9"
+    },
+    "part-of-circle": {
+      "codepoint": 57535,
+      "fontFamily": "Subway",
+      "identifier": "partOfCircle"
+    },
+    "part-of-circle-1": {
+      "codepoint": 57536,
+      "fontFamily": "Subway",
+      "identifier": "partOfCircle1"
+    },
+    "part-of-circle-2": {
+      "codepoint": 57537,
+      "fontFamily": "Subway",
+      "identifier": "partOfCircle2"
+    },
+    "part-of-circle-3": {
+      "codepoint": 57538,
+      "fontFamily": "Subway",
+      "identifier": "partOfCircle3"
+    },
+    "part-of-circle-4": {
+      "codepoint": 57539,
+      "fontFamily": "Subway",
+      "identifier": "partOfCircle4"
+    },
+    "part-of-circle-5": {
+      "codepoint": 57540,
+      "fontFamily": "Subway",
+      "identifier": "partOfCircle5"
+    },
+    "passing": {
+      "codepoint": 57541,
+      "fontFamily": "Subway",
+      "identifier": "passing"
+    },
+    "pause": {
+      "codepoint": 57542,
+      "fontFamily": "Subway",
+      "identifier": "pause"
+    },
+    "pause-1": {
+      "codepoint": 57543,
+      "fontFamily": "Subway",
+      "identifier": "pause1"
+    },
+    "pencil": {
+      "codepoint": 57544,
+      "fontFamily": "Subway",
+      "identifier": "pencil"
+    },
+    "pin": {
+      "codepoint": 57545,
+      "fontFamily": "Subway",
+      "identifier": "pin"
+    },
+    "pin-1": {
+      "codepoint": 57546,
+      "fontFamily": "Subway",
+      "identifier": "pin1"
+    },
+    "play": {
+      "codepoint": 57547,
+      "fontFamily": "Subway",
+      "identifier": "play"
+    },
+    "play-1": {
+      "codepoint": 57548,
+      "fontFamily": "Subway",
+      "identifier": "play1"
+    },
+    "pound": {
+      "codepoint": 57549,
+      "fontFamily": "Subway",
+      "identifier": "pound"
+    },
+    "power": {
+      "codepoint": 57550,
+      "fontFamily": "Subway",
+      "identifier": "power"
+    },
+    "power-batton": {
+      "codepoint": 57551,
+      "fontFamily": "Subway",
+      "identifier": "powerBatton"
+    },
+    "previous": {
+      "codepoint": 57552,
+      "fontFamily": "Subway",
+      "identifier": "previous"
+    },
+    "previous-1": {
+      "codepoint": 57553,
+      "fontFamily": "Subway",
+      "identifier": "previous1"
+    },
+    "print": {
+      "codepoint": 57554,
+      "fontFamily": "Subway",
+      "identifier": "print"
+    },
+    "random": {
+      "codepoint": 57555,
+      "fontFamily": "Subway",
+      "identifier": "random"
+    },
+    "rectangle": {
+      "codepoint": 57556,
+      "fontFamily": "Subway",
+      "identifier": "rectangle"
+    },
+    "rectangle-1": {
+      "codepoint": 57557,
+      "fontFamily": "Subway",
+      "identifier": "rectangle1"
+    },
+    "rectangle-2": {
+      "codepoint": 57558,
+      "fontFamily": "Subway",
+      "identifier": "rectangle2"
+    },
+    "rectangle-3": {
+      "codepoint": 57559,
+      "fontFamily": "Subway",
+      "identifier": "rectangle3"
+    },
+    "rectangle-4": {
+      "codepoint": 57560,
+      "fontFamily": "Subway",
+      "identifier": "rectangle4"
+    },
+    "rectangular": {
+      "codepoint": 57561,
+      "fontFamily": "Subway",
+      "identifier": "rectangular"
+    },
+    "redo": {
+      "codepoint": 57562,
+      "fontFamily": "Subway",
+      "identifier": "redo"
+    },
+    "redo-1": {
+      "codepoint": 57563,
+      "fontFamily": "Subway",
+      "identifier": "redo1"
+    },
+    "redo-icon": {
+      "codepoint": 57564,
+      "fontFamily": "Subway",
+      "identifier": "redoIcon"
+    },
+    "refresh-time": {
+      "codepoint": 57565,
+      "fontFamily": "Subway",
+      "identifier": "refreshTime"
+    },
+    "remove-playlist": {
+      "codepoint": 57566,
+      "fontFamily": "Subway",
+      "identifier": "removePlaylist"
+    },
+    "reply": {
+      "codepoint": 57567,
+      "fontFamily": "Subway",
+      "identifier": "reply"
+    },
+    "right-arrow": {
+      "codepoint": 57568,
+      "fontFamily": "Subway",
+      "identifier": "rightArrow"
+    },
+    "right-arrow-1": {
+      "codepoint": 57569,
+      "fontFamily": "Subway",
+      "identifier": "rightArrow1"
+    },
+    "right-down-corner-arrow": {
+      "codepoint": 57570,
+      "fontFamily": "Subway",
+      "identifier": "rightDownCornerArrow"
+    },
+    "right-down-corner-arrow-1": {
+      "codepoint": 57571,
+      "fontFamily": "Subway",
+      "identifier": "rightDownCornerArrow1"
+    },
+    "right-up-corner-arrow": {
+      "codepoint": 57572,
+      "fontFamily": "Subway",
+      "identifier": "rightUpCornerArrow"
+    },
+    "right-up-corner-arrow-1": {
+      "codepoint": 57573,
+      "fontFamily": "Subway",
+      "identifier": "rightUpCornerArrow1"
+    },
+    "round-arrow-1": {
+      "codepoint": 57574,
+      "fontFamily": "Subway",
+      "identifier": "roundArrow1"
+    },
+    "round-arrow-2": {
+      "codepoint": 57575,
+      "fontFamily": "Subway",
+      "identifier": "roundArrow2"
+    },
+    "round-arrow-3": {
+      "codepoint": 57576,
+      "fontFamily": "Subway",
+      "identifier": "roundArrow3"
+    },
+    "round-arrow-4": {
+      "codepoint": 57577,
+      "fontFamily": "Subway",
+      "identifier": "roundArrow4"
+    },
+    "round-arrow-5": {
+      "codepoint": 57578,
+      "fontFamily": "Subway",
+      "identifier": "roundArrow5"
+    },
+    "round-arrow-6": {
+      "codepoint": 57579,
+      "fontFamily": "Subway",
+      "identifier": "roundArrow6"
+    },
+    "save": {
+      "codepoint": 57580,
+      "fontFamily": "Subway",
+      "identifier": "save"
+    },
+    "search": {
+      "codepoint": 57581,
+      "fontFamily": "Subway",
+      "identifier": "search"
+    },
+    "settong": {
+      "codepoint": 57582,
+      "fontFamily": "Subway",
+      "identifier": "settong"
+    },
+    "share": {
+      "codepoint": 57583,
+      "fontFamily": "Subway",
+      "identifier": "share"
+    },
+    "share-1": {
+      "codepoint": 57584,
+      "fontFamily": "Subway",
+      "identifier": "share1"
+    },
+    "sharing": {
+      "codepoint": 57585,
+      "fontFamily": "Subway",
+      "identifier": "sharing"
+    },
+    "sharing-1": {
+      "codepoint": 57586,
+      "fontFamily": "Subway",
+      "identifier": "sharing1"
+    },
+    "shuffile": {
+      "codepoint": 57587,
+      "fontFamily": "Subway",
+      "identifier": "shuffile"
+    },
+    "sms": {
+      "codepoint": 57588,
+      "fontFamily": "Subway",
+      "identifier": "sms"
+    },
+    "sms-1": {
+      "codepoint": 57589,
+      "fontFamily": "Subway",
+      "identifier": "sms1"
+    },
+    "sms-2": {
+      "codepoint": 57590,
+      "fontFamily": "Subway",
+      "identifier": "sms2"
+    },
+    "sms-3": {
+      "codepoint": 57591,
+      "fontFamily": "Subway",
+      "identifier": "sms3"
+    },
+    "sms-4": {
+      "codepoint": 57592,
+      "fontFamily": "Subway",
+      "identifier": "sms4"
+    },
+    "sms-5": {
+      "codepoint": 57593,
+      "fontFamily": "Subway",
+      "identifier": "sms5"
+    },
+    "sms-6": {
+      "codepoint": 57594,
+      "fontFamily": "Subway",
+      "identifier": "sms6"
+    },
+    "sms-7": {
+      "codepoint": 57595,
+      "fontFamily": "Subway",
+      "identifier": "sms7"
+    },
+    "sms-8": {
+      "codepoint": 57596,
+      "fontFamily": "Subway",
+      "identifier": "sms8"
+    },
+    "sms-9": {
+      "codepoint": 57597,
+      "fontFamily": "Subway",
+      "identifier": "sms9"
+    },
+    "sound": {
+      "codepoint": 57598,
+      "fontFamily": "Subway",
+      "identifier": "sound"
+    },
+    "sound-1": {
+      "codepoint": 57599,
+      "fontFamily": "Subway",
+      "identifier": "sound1"
+    },
+    "sound-2": {
+      "codepoint": 57600,
+      "fontFamily": "Subway",
+      "identifier": "sound2"
+    },
+    "star": {
+      "codepoint": 57601,
+      "fontFamily": "Subway",
+      "identifier": "star"
+    },
+    "star-1": {
+      "codepoint": 57602,
+      "fontFamily": "Subway",
+      "identifier": "star1"
+    },
+    "step": {
+      "codepoint": 57603,
+      "fontFamily": "Subway",
+      "identifier": "step"
+    },
+    "step-1": {
+      "codepoint": 57604,
+      "fontFamily": "Subway",
+      "identifier": "step1"
+    },
+    "step-2": {
+      "codepoint": 57605,
+      "fontFamily": "Subway",
+      "identifier": "step2"
+    },
+    "stop": {
+      "codepoint": 57606,
+      "fontFamily": "Subway",
+      "identifier": "stop"
+    },
+    "stop-1": {
+      "codepoint": 57607,
+      "fontFamily": "Subway",
+      "identifier": "stop1"
+    },
+    "subtraction": {
+      "codepoint": 57608,
+      "fontFamily": "Subway",
+      "identifier": "subtraction"
+    },
+    "subtraction-1": {
+      "codepoint": 57609,
+      "fontFamily": "Subway",
+      "identifier": "subtraction1"
+    },
+    "switch": {
+      "codepoint": 57610,
+      "fontFamily": "Subway",
+      "identifier": "switch_"
+    },
+    "symbol": {
+      "codepoint": 57611,
+      "fontFamily": "Subway",
+      "identifier": "symbol"
+    },
+    "symbol-1": {
+      "codepoint": 57612,
+      "fontFamily": "Subway",
+      "identifier": "symbol1"
+    },
+    "symbol-2": {
+      "codepoint": 57613,
+      "fontFamily": "Subway",
+      "identifier": "symbol2"
+    },
+    "tep": {
+      "codepoint": 57614,
+      "fontFamily": "Subway",
+      "identifier": "tep"
+    },
+    "tick": {
+      "codepoint": 57615,
+      "fontFamily": "Subway",
+      "identifier": "tick"
+    },
+    "time": {
+      "codepoint": 57616,
+      "fontFamily": "Subway",
+      "identifier": "time"
+    },
+    "time-1": {
+      "codepoint": 57617,
+      "fontFamily": "Subway",
+      "identifier": "time1"
+    },
+    "time-2": {
+      "codepoint": 57618,
+      "fontFamily": "Subway",
+      "identifier": "time2"
+    },
+    "time-3": {
+      "codepoint": 57619,
+      "fontFamily": "Subway",
+      "identifier": "time3"
+    },
+    "time-4": {
+      "codepoint": 57620,
+      "fontFamily": "Subway",
+      "identifier": "time4"
+    },
+    "time-5": {
+      "codepoint": 57621,
+      "fontFamily": "Subway",
+      "identifier": "time5"
+    },
+    "title": {
+      "codepoint": 57622,
+      "fontFamily": "Subway",
+      "identifier": "title"
+    },
+    "tool-box": {
+      "codepoint": 57623,
+      "fontFamily": "Subway",
+      "identifier": "toolBox"
+    },
+    "tool-box-1": {
+      "codepoint": 57624,
+      "fontFamily": "Subway",
+      "identifier": "toolBox1"
+    },
+    "undo": {
+      "codepoint": 57625,
+      "fontFamily": "Subway",
+      "identifier": "undo"
+    },
+    "undo-1": {
+      "codepoint": 57626,
+      "fontFamily": "Subway",
+      "identifier": "undo1"
+    },
+    "undo-icon": {
+      "codepoint": 57627,
+      "fontFamily": "Subway",
+      "identifier": "undoIcon"
+    },
+    "unlike": {
+      "codepoint": 57628,
+      "fontFamily": "Subway",
+      "identifier": "unlike"
+    },
+    "unlock": {
+      "codepoint": 57629,
+      "fontFamily": "Subway",
+      "identifier": "unlock"
+    },
+    "unlock-1": {
+      "codepoint": 57630,
+      "fontFamily": "Subway",
+      "identifier": "unlock1"
+    },
+    "up": {
+      "codepoint": 57631,
+      "fontFamily": "Subway",
+      "identifier": "up"
+    },
+    "up-2": {
+      "codepoint": 57632,
+      "fontFamily": "Subway",
+      "identifier": "up2"
+    },
+    "up-arrow": {
+      "codepoint": 57633,
+      "fontFamily": "Subway",
+      "identifier": "upArrow"
+    },
+    "up-arrow-1": {
+      "codepoint": 57634,
+      "fontFamily": "Subway",
+      "identifier": "upArrow1"
+    },
+    "upload-1": {
+      "codepoint": 57635,
+      "fontFamily": "Subway",
+      "identifier": "upload1"
+    },
+    "upload-2": {
+      "codepoint": 57636,
+      "fontFamily": "Subway",
+      "identifier": "upload2"
+    },
+    "upload-3": {
+      "codepoint": 57637,
+      "fontFamily": "Subway",
+      "identifier": "upload3"
+    },
+    "upload-4": {
+      "codepoint": 57638,
+      "fontFamily": "Subway",
+      "identifier": "upload4"
+    },
+    "usd": {
+      "codepoint": 57639,
+      "fontFamily": "Subway",
+      "identifier": "usd"
+    },
+    "video": {
+      "codepoint": 57640,
+      "fontFamily": "Subway",
+      "identifier": "video"
+    },
+    "video-1": {
+      "codepoint": 57641,
+      "fontFamily": "Subway",
+      "identifier": "video1"
+    },
+    "webcam": {
+      "codepoint": 57642,
+      "fontFamily": "Subway",
+      "identifier": "webcam"
+    },
+    "world": {
+      "codepoint": 57643,
+      "fontFamily": "Subway",
+      "identifier": "world"
+    },
+    "world-1": {
+      "codepoint": 57644,
+      "fontFamily": "Subway",
+      "identifier": "world1"
+    },
+    "write": {
+      "codepoint": 57645,
+      "fontFamily": "Subway",
+      "identifier": "write"
+    },
+    "write-1": {
+      "codepoint": 57646,
+      "fontFamily": "Subway",
+      "identifier": "write1"
+    },
+    "zip": {
+      "codepoint": 57647,
+      "fontFamily": "Subway",
+      "identifier": "zip"
+    },
+    "zoom": {
+      "codepoint": 57648,
+      "fontFamily": "Subway",
+      "identifier": "zoom"
+    },
+    "zoom-minus": {
+      "codepoint": 57649,
+      "fontFamily": "Subway",
+      "identifier": "zoomMinus"
+    },
+    "zoom-plus": {
+      "codepoint": 57650,
+      "fontFamily": "Subway",
+      "identifier": "zoomPlus"
+    }
+  }
+}

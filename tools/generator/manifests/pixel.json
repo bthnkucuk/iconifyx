@@ -1,0 +1,2920 @@
+{
+  "schemaVersion": 1,
+  "prefix": "pixel",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_pixel",
+  "info": {
+    "name": "Pixel Icon",
+    "author": {
+      "name": "HackerNoon",
+      "url": "https://github.com/hackernoon/pixel-icon-library"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 578
+  },
+  "fonts": [
+    {
+      "family": "Pixel",
+      "nextCodepoint": 57922,
+      "iconCount": 578
+    }
+  ],
+  "icons": {
+    "ad": {
+      "codepoint": 57344,
+      "fontFamily": "Pixel",
+      "identifier": "ad"
+    },
+    "ad-solid": {
+      "codepoint": 57345,
+      "fontFamily": "Pixel",
+      "identifier": "adSolid"
+    },
+    "algolia": {
+      "codepoint": 57346,
+      "fontFamily": "Pixel",
+      "identifier": "algolia"
+    },
+    "align-center": {
+      "codepoint": 57347,
+      "fontFamily": "Pixel",
+      "identifier": "alignCenter"
+    },
+    "align-center-solid": {
+      "codepoint": 57348,
+      "fontFamily": "Pixel",
+      "identifier": "alignCenterSolid"
+    },
+    "align-justify": {
+      "codepoint": 57349,
+      "fontFamily": "Pixel",
+      "identifier": "alignJustify"
+    },
+    "align-justify-solid": {
+      "codepoint": 57350,
+      "fontFamily": "Pixel",
+      "identifier": "alignJustifySolid"
+    },
+    "align-left": {
+      "codepoint": 57351,
+      "fontFamily": "Pixel",
+      "identifier": "alignLeft"
+    },
+    "align-left-solid": {
+      "codepoint": 57352,
+      "fontFamily": "Pixel",
+      "identifier": "alignLeftSolid"
+    },
+    "align-right": {
+      "codepoint": 57353,
+      "fontFamily": "Pixel",
+      "identifier": "alignRight"
+    },
+    "align-right-solid": {
+      "codepoint": 57354,
+      "fontFamily": "Pixel",
+      "identifier": "alignRightSolid"
+    },
+    "analytics": {
+      "codepoint": 57355,
+      "fontFamily": "Pixel",
+      "identifier": "analytics"
+    },
+    "analytics-solid": {
+      "codepoint": 57356,
+      "fontFamily": "Pixel",
+      "identifier": "analyticsSolid"
+    },
+    "android": {
+      "codepoint": 57357,
+      "fontFamily": "Pixel",
+      "identifier": "android"
+    },
+    "angellist": {
+      "codepoint": 57358,
+      "fontFamily": "Pixel",
+      "identifier": "angellist"
+    },
+    "angle-down": {
+      "codepoint": 57359,
+      "fontFamily": "Pixel",
+      "identifier": "angleDown"
+    },
+    "angle-down-solid": {
+      "codepoint": 57360,
+      "fontFamily": "Pixel",
+      "identifier": "angleDownSolid"
+    },
+    "angle-left": {
+      "codepoint": 57361,
+      "fontFamily": "Pixel",
+      "identifier": "angleLeft"
+    },
+    "angle-left-solid": {
+      "codepoint": 57362,
+      "fontFamily": "Pixel",
+      "identifier": "angleLeftSolid"
+    },
+    "angle-right": {
+      "codepoint": 57363,
+      "fontFamily": "Pixel",
+      "identifier": "angleRight"
+    },
+    "angle-right-solid": {
+      "codepoint": 57364,
+      "fontFamily": "Pixel",
+      "identifier": "angleRightSolid"
+    },
+    "angle-up": {
+      "codepoint": 57365,
+      "fontFamily": "Pixel",
+      "identifier": "angleUp"
+    },
+    "angle-up-solid": {
+      "codepoint": 57366,
+      "fontFamily": "Pixel",
+      "identifier": "angleUpSolid"
+    },
+    "anthropic": {
+      "codepoint": 57367,
+      "fontFamily": "Pixel",
+      "identifier": "anthropic"
+    },
+    "apple": {
+      "codepoint": 57368,
+      "fontFamily": "Pixel",
+      "identifier": "apple"
+    },
+    "archive": {
+      "codepoint": 57369,
+      "fontFamily": "Pixel",
+      "identifier": "archive"
+    },
+    "archive-solid": {
+      "codepoint": 57370,
+      "fontFamily": "Pixel",
+      "identifier": "archiveSolid"
+    },
+    "arrow-alt-circle-down": {
+      "codepoint": 57371,
+      "fontFamily": "Pixel",
+      "identifier": "arrowAltCircleDown"
+    },
+    "arrow-alt-circle-down-solid": {
+      "codepoint": 57372,
+      "fontFamily": "Pixel",
+      "identifier": "arrowAltCircleDownSolid"
+    },
+    "arrow-alt-circle-left": {
+      "codepoint": 57373,
+      "fontFamily": "Pixel",
+      "identifier": "arrowAltCircleLeft"
+    },
+    "arrow-alt-circle-left-solid": {
+      "codepoint": 57374,
+      "fontFamily": "Pixel",
+      "identifier": "arrowAltCircleLeftSolid"
+    },
+    "arrow-alt-circle-right": {
+      "codepoint": 57375,
+      "fontFamily": "Pixel",
+      "identifier": "arrowAltCircleRight"
+    },
+    "arrow-alt-circle-right-solid": {
+      "codepoint": 57376,
+      "fontFamily": "Pixel",
+      "identifier": "arrowAltCircleRightSolid"
+    },
+    "arrow-alt-circle-up": {
+      "codepoint": 57377,
+      "fontFamily": "Pixel",
+      "identifier": "arrowAltCircleUp"
+    },
+    "arrow-alt-circle-up-solid": {
+      "codepoint": 57378,
+      "fontFamily": "Pixel",
+      "identifier": "arrowAltCircleUpSolid"
+    },
+    "arrow-circle-down": {
+      "codepoint": 57379,
+      "fontFamily": "Pixel",
+      "identifier": "arrowCircleDown"
+    },
+    "arrow-circle-down-solid": {
+      "codepoint": 57380,
+      "fontFamily": "Pixel",
+      "identifier": "arrowCircleDownSolid"
+    },
+    "arrow-circle-left": {
+      "codepoint": 57381,
+      "fontFamily": "Pixel",
+      "identifier": "arrowCircleLeft"
+    },
+    "arrow-circle-left-solid": {
+      "codepoint": 57382,
+      "fontFamily": "Pixel",
+      "identifier": "arrowCircleLeftSolid"
+    },
+    "arrow-circle-right": {
+      "codepoint": 57383,
+      "fontFamily": "Pixel",
+      "identifier": "arrowCircleRight"
+    },
+    "arrow-circle-right-solid": {
+      "codepoint": 57384,
+      "fontFamily": "Pixel",
+      "identifier": "arrowCircleRightSolid"
+    },
+    "arrow-circle-up": {
+      "codepoint": 57385,
+      "fontFamily": "Pixel",
+      "identifier": "arrowCircleUp"
+    },
+    "arrow-circle-up-solid": {
+      "codepoint": 57386,
+      "fontFamily": "Pixel",
+      "identifier": "arrowCircleUpSolid"
+    },
+    "arrow-down": {
+      "codepoint": 57387,
+      "fontFamily": "Pixel",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-solid": {
+      "codepoint": 57388,
+      "fontFamily": "Pixel",
+      "identifier": "arrowDownSolid"
+    },
+    "arrow-left": {
+      "codepoint": 57389,
+      "fontFamily": "Pixel",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-solid": {
+      "codepoint": 57390,
+      "fontFamily": "Pixel",
+      "identifier": "arrowLeftSolid"
+    },
+    "arrow-right": {
+      "codepoint": 57391,
+      "fontFamily": "Pixel",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-solid": {
+      "codepoint": 57392,
+      "fontFamily": "Pixel",
+      "identifier": "arrowRightSolid"
+    },
+    "arrow-up": {
+      "codepoint": 57393,
+      "fontFamily": "Pixel",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-solid": {
+      "codepoint": 57394,
+      "fontFamily": "Pixel",
+      "identifier": "arrowUpSolid"
+    },
+    "arweave": {
+      "codepoint": 57395,
+      "fontFamily": "Pixel",
+      "identifier": "arweave"
+    },
+    "at": {
+      "codepoint": 57396,
+      "fontFamily": "Pixel",
+      "identifier": "at"
+    },
+    "at-solid": {
+      "codepoint": 57397,
+      "fontFamily": "Pixel",
+      "identifier": "atSolid"
+    },
+    "badge-check": {
+      "codepoint": 57398,
+      "fontFamily": "Pixel",
+      "identifier": "badgeCheck"
+    },
+    "badge-check-solid": {
+      "codepoint": 57399,
+      "fontFamily": "Pixel",
+      "identifier": "badgeCheckSolid"
+    },
+    "bank": {
+      "codepoint": 57400,
+      "fontFamily": "Pixel",
+      "identifier": "bank"
+    },
+    "bank-solid": {
+      "codepoint": 57401,
+      "fontFamily": "Pixel",
+      "identifier": "bankSolid"
+    },
+    "bars": {
+      "codepoint": 57402,
+      "fontFamily": "Pixel",
+      "identifier": "bars"
+    },
+    "bars-solid": {
+      "codepoint": 57403,
+      "fontFamily": "Pixel",
+      "identifier": "barsSolid"
+    },
+    "behance": {
+      "codepoint": 57404,
+      "fontFamily": "Pixel",
+      "identifier": "behance"
+    },
+    "bell": {
+      "codepoint": 57405,
+      "fontFamily": "Pixel",
+      "identifier": "bell"
+    },
+    "bell-exclaimation": {
+      "codepoint": 57406,
+      "fontFamily": "Pixel",
+      "identifier": "bellExclaimation"
+    },
+    "bell-exclaimation-solid": {
+      "codepoint": 57407,
+      "fontFamily": "Pixel",
+      "identifier": "bellExclaimationSolid"
+    },
+    "bell-mute": {
+      "codepoint": 57408,
+      "fontFamily": "Pixel",
+      "identifier": "bellMute"
+    },
+    "bell-mute-solid": {
+      "codepoint": 57409,
+      "fontFamily": "Pixel",
+      "identifier": "bellMuteSolid"
+    },
+    "bell-solid": {
+      "codepoint": 57410,
+      "fontFamily": "Pixel",
+      "identifier": "bellSolid"
+    },
+    "bitcoin": {
+      "codepoint": 57411,
+      "fontFamily": "Pixel",
+      "identifier": "bitcoin"
+    },
+    "bloomberg": {
+      "codepoint": 57412,
+      "fontFamily": "Pixel",
+      "identifier": "bloomberg"
+    },
+    "bluesky": {
+      "codepoint": 57413,
+      "fontFamily": "Pixel",
+      "identifier": "bluesky"
+    },
+    "bold": {
+      "codepoint": 57414,
+      "fontFamily": "Pixel",
+      "identifier": "bold"
+    },
+    "bold-solid": {
+      "codepoint": 57415,
+      "fontFamily": "Pixel",
+      "identifier": "boldSolid"
+    },
+    "bolt": {
+      "codepoint": 57416,
+      "fontFamily": "Pixel",
+      "identifier": "bolt"
+    },
+    "bolt-solid": {
+      "codepoint": 57417,
+      "fontFamily": "Pixel",
+      "identifier": "boltSolid"
+    },
+    "book": {
+      "codepoint": 57418,
+      "fontFamily": "Pixel",
+      "identifier": "book"
+    },
+    "book-bookmark": {
+      "codepoint": 57419,
+      "fontFamily": "Pixel",
+      "identifier": "bookBookmark"
+    },
+    "book-bookmark-solid": {
+      "codepoint": 57420,
+      "fontFamily": "Pixel",
+      "identifier": "bookBookmarkSolid"
+    },
+    "book-heart": {
+      "codepoint": 57421,
+      "fontFamily": "Pixel",
+      "identifier": "bookHeart"
+    },
+    "book-heart-solid": {
+      "codepoint": 57422,
+      "fontFamily": "Pixel",
+      "identifier": "bookHeartSolid"
+    },
+    "book-solid": {
+      "codepoint": 57423,
+      "fontFamily": "Pixel",
+      "identifier": "bookSolid"
+    },
+    "bookmark": {
+      "codepoint": 57424,
+      "fontFamily": "Pixel",
+      "identifier": "bookmark"
+    },
+    "bookmark-solid": {
+      "codepoint": 57425,
+      "fontFamily": "Pixel",
+      "identifier": "bookmarkSolid"
+    },
+    "box-heart": {
+      "codepoint": 57426,
+      "fontFamily": "Pixel",
+      "identifier": "boxHeart"
+    },
+    "box-heart-solid": {
+      "codepoint": 57427,
+      "fontFamily": "Pixel",
+      "identifier": "boxHeartSolid"
+    },
+    "box-usd": {
+      "codepoint": 57428,
+      "fontFamily": "Pixel",
+      "identifier": "boxUsd"
+    },
+    "box-usd-solid": {
+      "codepoint": 57429,
+      "fontFamily": "Pixel",
+      "identifier": "boxUsdSolid"
+    },
+    "bracket-curly": {
+      "codepoint": 57430,
+      "fontFamily": "Pixel",
+      "identifier": "bracketCurly"
+    },
+    "bracket-curly-solid": {
+      "codepoint": 57431,
+      "fontFamily": "Pixel",
+      "identifier": "bracketCurlySolid"
+    },
+    "bracket-round": {
+      "codepoint": 57432,
+      "fontFamily": "Pixel",
+      "identifier": "bracketRound"
+    },
+    "bracket-round-solid": {
+      "codepoint": 57433,
+      "fontFamily": "Pixel",
+      "identifier": "bracketRoundSolid"
+    },
+    "bracket-square": {
+      "codepoint": 57434,
+      "fontFamily": "Pixel",
+      "identifier": "bracketSquare"
+    },
+    "bracket-square-solid": {
+      "codepoint": 57435,
+      "fontFamily": "Pixel",
+      "identifier": "bracketSquareSolid"
+    },
+    "branch": {
+      "codepoint": 57436,
+      "fontFamily": "Pixel",
+      "identifier": "branch"
+    },
+    "branch-solid": {
+      "codepoint": 57437,
+      "fontFamily": "Pixel",
+      "identifier": "branchSolid"
+    },
+    "briefcase": {
+      "codepoint": 57438,
+      "fontFamily": "Pixel",
+      "identifier": "briefcase"
+    },
+    "briefcase-solid": {
+      "codepoint": 57439,
+      "fontFamily": "Pixel",
+      "identifier": "briefcaseSolid"
+    },
+    "brightness-high": {
+      "codepoint": 57440,
+      "fontFamily": "Pixel",
+      "identifier": "brightnessHigh"
+    },
+    "brightness-high-solid": {
+      "codepoint": 57441,
+      "fontFamily": "Pixel",
+      "identifier": "brightnessHighSolid"
+    },
+    "brightness-low": {
+      "codepoint": 57442,
+      "fontFamily": "Pixel",
+      "identifier": "brightnessLow"
+    },
+    "brightness-low-solid": {
+      "codepoint": 57443,
+      "fontFamily": "Pixel",
+      "identifier": "brightnessLowSolid"
+    },
+    "broom": {
+      "codepoint": 57444,
+      "fontFamily": "Pixel",
+      "identifier": "broom"
+    },
+    "broom-solid": {
+      "codepoint": 57445,
+      "fontFamily": "Pixel",
+      "identifier": "broomSolid"
+    },
+    "bug": {
+      "codepoint": 57446,
+      "fontFamily": "Pixel",
+      "identifier": "bug"
+    },
+    "bug-solid": {
+      "codepoint": 57447,
+      "fontFamily": "Pixel",
+      "identifier": "bugSolid"
+    },
+    "bullet-list": {
+      "codepoint": 57448,
+      "fontFamily": "Pixel",
+      "identifier": "bulletList"
+    },
+    "bullet-list-solid": {
+      "codepoint": 57449,
+      "fontFamily": "Pixel",
+      "identifier": "bulletListSolid"
+    },
+    "bullhorn": {
+      "codepoint": 57450,
+      "fontFamily": "Pixel",
+      "identifier": "bullhorn"
+    },
+    "bullhorn-solid": {
+      "codepoint": 57451,
+      "fontFamily": "Pixel",
+      "identifier": "bullhornSolid"
+    },
+    "business": {
+      "codepoint": 57452,
+      "fontFamily": "Pixel",
+      "identifier": "business"
+    },
+    "calendar-alt": {
+      "codepoint": 57453,
+      "fontFamily": "Pixel",
+      "identifier": "calendarAlt"
+    },
+    "calendar-alt-solid": {
+      "codepoint": 57454,
+      "fontFamily": "Pixel",
+      "identifier": "calendarAltSolid"
+    },
+    "calender": {
+      "codepoint": 57455,
+      "fontFamily": "Pixel",
+      "identifier": "calender"
+    },
+    "calender-solid": {
+      "codepoint": 57456,
+      "fontFamily": "Pixel",
+      "identifier": "calenderSolid"
+    },
+    "camera": {
+      "codepoint": 57457,
+      "fontFamily": "Pixel",
+      "identifier": "camera"
+    },
+    "camera-solid": {
+      "codepoint": 57458,
+      "fontFamily": "Pixel",
+      "identifier": "cameraSolid"
+    },
+    "cart-add": {
+      "codepoint": 57459,
+      "fontFamily": "Pixel",
+      "identifier": "cartAdd"
+    },
+    "cart-add-solid": {
+      "codepoint": 57460,
+      "fontFamily": "Pixel",
+      "identifier": "cartAddSolid"
+    },
+    "cart-minus": {
+      "codepoint": 57461,
+      "fontFamily": "Pixel",
+      "identifier": "cartMinus"
+    },
+    "cart-minus-solid": {
+      "codepoint": 57462,
+      "fontFamily": "Pixel",
+      "identifier": "cartMinusSolid"
+    },
+    "cassette-tape": {
+      "codepoint": 57463,
+      "fontFamily": "Pixel",
+      "identifier": "cassetteTape"
+    },
+    "cassette-tape-solid": {
+      "codepoint": 57464,
+      "fontFamily": "Pixel",
+      "identifier": "cassetteTapeSolid"
+    },
+    "cc": {
+      "codepoint": 57465,
+      "fontFamily": "Pixel",
+      "identifier": "cc"
+    },
+    "cc-solid": {
+      "codepoint": 57466,
+      "fontFamily": "Pixel",
+      "identifier": "ccSolid"
+    },
+    "chart-line": {
+      "codepoint": 57467,
+      "fontFamily": "Pixel",
+      "identifier": "chartLine"
+    },
+    "chart-line-solid": {
+      "codepoint": 57468,
+      "fontFamily": "Pixel",
+      "identifier": "chartLineSolid"
+    },
+    "chart-network": {
+      "codepoint": 57469,
+      "fontFamily": "Pixel",
+      "identifier": "chartNetwork"
+    },
+    "chart-network-solid": {
+      "codepoint": 57470,
+      "fontFamily": "Pixel",
+      "identifier": "chartNetworkSolid"
+    },
+    "check": {
+      "codepoint": 57471,
+      "fontFamily": "Pixel",
+      "identifier": "check"
+    },
+    "check-box": {
+      "codepoint": 57472,
+      "fontFamily": "Pixel",
+      "identifier": "checkBox"
+    },
+    "check-box-solid": {
+      "codepoint": 57473,
+      "fontFamily": "Pixel",
+      "identifier": "checkBoxSolid"
+    },
+    "check-circle": {
+      "codepoint": 57474,
+      "fontFamily": "Pixel",
+      "identifier": "checkCircle"
+    },
+    "check-circle-solid": {
+      "codepoint": 57475,
+      "fontFamily": "Pixel",
+      "identifier": "checkCircleSolid"
+    },
+    "check-list": {
+      "codepoint": 57476,
+      "fontFamily": "Pixel",
+      "identifier": "checkList"
+    },
+    "check-list-solid": {
+      "codepoint": 57477,
+      "fontFamily": "Pixel",
+      "identifier": "checkListSolid"
+    },
+    "check-solid": {
+      "codepoint": 57478,
+      "fontFamily": "Pixel",
+      "identifier": "checkSolid"
+    },
+    "chevron-down": {
+      "codepoint": 57479,
+      "fontFamily": "Pixel",
+      "identifier": "chevronDown"
+    },
+    "chevron-down-solid": {
+      "codepoint": 57480,
+      "fontFamily": "Pixel",
+      "identifier": "chevronDownSolid"
+    },
+    "chevron-up": {
+      "codepoint": 57481,
+      "fontFamily": "Pixel",
+      "identifier": "chevronUp"
+    },
+    "chevron-up-solid": {
+      "codepoint": 57482,
+      "fontFamily": "Pixel",
+      "identifier": "chevronUpSolid"
+    },
+    "circle-notch": {
+      "codepoint": 57483,
+      "fontFamily": "Pixel",
+      "identifier": "circleNotch"
+    },
+    "circle-notch-solid": {
+      "codepoint": 57484,
+      "fontFamily": "Pixel",
+      "identifier": "circleNotchSolid"
+    },
+    "clipboard": {
+      "codepoint": 57485,
+      "fontFamily": "Pixel",
+      "identifier": "clipboard"
+    },
+    "clipboard-solid": {
+      "codepoint": 57486,
+      "fontFamily": "Pixel",
+      "identifier": "clipboardSolid"
+    },
+    "clock": {
+      "codepoint": 57487,
+      "fontFamily": "Pixel",
+      "identifier": "clock"
+    },
+    "clock-solid": {
+      "codepoint": 57488,
+      "fontFamily": "Pixel",
+      "identifier": "clockSolid"
+    },
+    "cloud": {
+      "codepoint": 57489,
+      "fontFamily": "Pixel",
+      "identifier": "cloud"
+    },
+    "cloud-download-alt": {
+      "codepoint": 57490,
+      "fontFamily": "Pixel",
+      "identifier": "cloudDownloadAlt"
+    },
+    "cloud-download-solid": {
+      "codepoint": 57491,
+      "fontFamily": "Pixel",
+      "identifier": "cloudDownloadSolid"
+    },
+    "cloud-fog": {
+      "codepoint": 57492,
+      "fontFamily": "Pixel",
+      "identifier": "cloudFog"
+    },
+    "cloud-fog-solid": {
+      "codepoint": 57493,
+      "fontFamily": "Pixel",
+      "identifier": "cloudFogSolid"
+    },
+    "cloud-rain": {
+      "codepoint": 57494,
+      "fontFamily": "Pixel",
+      "identifier": "cloudRain"
+    },
+    "cloud-rain-solid": {
+      "codepoint": 57495,
+      "fontFamily": "Pixel",
+      "identifier": "cloudRainSolid"
+    },
+    "cloud-upload": {
+      "codepoint": 57496,
+      "fontFamily": "Pixel",
+      "identifier": "cloudUpload"
+    },
+    "cloud-upload-solid": {
+      "codepoint": 57497,
+      "fontFamily": "Pixel",
+      "identifier": "cloudUploadSolid"
+    },
+    "cloudflare": {
+      "codepoint": 57498,
+      "fontFamily": "Pixel",
+      "identifier": "cloudflare"
+    },
+    "code": {
+      "codepoint": 57499,
+      "fontFamily": "Pixel",
+      "identifier": "code"
+    },
+    "code-block": {
+      "codepoint": 57500,
+      "fontFamily": "Pixel",
+      "identifier": "codeBlock"
+    },
+    "code-block-solid": {
+      "codepoint": 57501,
+      "fontFamily": "Pixel",
+      "identifier": "codeBlockSolid"
+    },
+    "code-solid": {
+      "codepoint": 57502,
+      "fontFamily": "Pixel",
+      "identifier": "codeSolid"
+    },
+    "cog": {
+      "codepoint": 57503,
+      "fontFamily": "Pixel",
+      "identifier": "cog"
+    },
+    "cog-solid": {
+      "codepoint": 57504,
+      "fontFamily": "Pixel",
+      "identifier": "cogSolid"
+    },
+    "coin": {
+      "codepoint": 57505,
+      "fontFamily": "Pixel",
+      "identifier": "coin"
+    },
+    "coin-solid": {
+      "codepoint": 57506,
+      "fontFamily": "Pixel",
+      "identifier": "coinSolid"
+    },
+    "coins": {
+      "codepoint": 57507,
+      "fontFamily": "Pixel",
+      "identifier": "coins"
+    },
+    "coins-solid": {
+      "codepoint": 57508,
+      "fontFamily": "Pixel",
+      "identifier": "coinsSolid"
+    },
+    "collapse": {
+      "codepoint": 57509,
+      "fontFamily": "Pixel",
+      "identifier": "collapse"
+    },
+    "collapse-solid": {
+      "codepoint": 57510,
+      "fontFamily": "Pixel",
+      "identifier": "collapseSolid"
+    },
+    "command": {
+      "codepoint": 57511,
+      "fontFamily": "Pixel",
+      "identifier": "command"
+    },
+    "command-solid": {
+      "codepoint": 57512,
+      "fontFamily": "Pixel",
+      "identifier": "commandSolid"
+    },
+    "comment": {
+      "codepoint": 57513,
+      "fontFamily": "Pixel",
+      "identifier": "comment"
+    },
+    "comment-dots": {
+      "codepoint": 57514,
+      "fontFamily": "Pixel",
+      "identifier": "commentDots"
+    },
+    "comment-dots-solid": {
+      "codepoint": 57515,
+      "fontFamily": "Pixel",
+      "identifier": "commentDotsSolid"
+    },
+    "comment-quote": {
+      "codepoint": 57516,
+      "fontFamily": "Pixel",
+      "identifier": "commentQuote"
+    },
+    "comment-quote-solid": {
+      "codepoint": 57517,
+      "fontFamily": "Pixel",
+      "identifier": "commentQuoteSolid"
+    },
+    "comment-solid": {
+      "codepoint": 57518,
+      "fontFamily": "Pixel",
+      "identifier": "commentSolid"
+    },
+    "comments": {
+      "codepoint": 57519,
+      "fontFamily": "Pixel",
+      "identifier": "comments"
+    },
+    "comments-solid": {
+      "codepoint": 57520,
+      "fontFamily": "Pixel",
+      "identifier": "commentsSolid"
+    },
+    "copy": {
+      "codepoint": 57521,
+      "fontFamily": "Pixel",
+      "identifier": "copy"
+    },
+    "copy-solid": {
+      "codepoint": 57522,
+      "fontFamily": "Pixel",
+      "identifier": "copySolid"
+    },
+    "creative-commons": {
+      "codepoint": 57523,
+      "fontFamily": "Pixel",
+      "identifier": "creativeCommons"
+    },
+    "credit-card": {
+      "codepoint": 57524,
+      "fontFamily": "Pixel",
+      "identifier": "creditCard"
+    },
+    "credit-card-solid": {
+      "codepoint": 57525,
+      "fontFamily": "Pixel",
+      "identifier": "creditCardSolid"
+    },
+    "crown": {
+      "codepoint": 57526,
+      "fontFamily": "Pixel",
+      "identifier": "crown"
+    },
+    "crown-solid": {
+      "codepoint": 57527,
+      "fontFamily": "Pixel",
+      "identifier": "crownSolid"
+    },
+    "crunchbase": {
+      "codepoint": 57528,
+      "fontFamily": "Pixel",
+      "identifier": "crunchbase"
+    },
+    "cybersecurity": {
+      "codepoint": 57529,
+      "fontFamily": "Pixel",
+      "identifier": "cybersecurity"
+    },
+    "data-science": {
+      "codepoint": 57530,
+      "fontFamily": "Pixel",
+      "identifier": "dataScience"
+    },
+    "digg": {
+      "codepoint": 57531,
+      "fontFamily": "Pixel",
+      "identifier": "digg"
+    },
+    "disc": {
+      "codepoint": 57532,
+      "fontFamily": "Pixel",
+      "identifier": "disc"
+    },
+    "disc-solid": {
+      "codepoint": 57533,
+      "fontFamily": "Pixel",
+      "identifier": "discSolid"
+    },
+    "discord": {
+      "codepoint": 57534,
+      "fontFamily": "Pixel",
+      "identifier": "discord"
+    },
+    "discourse": {
+      "codepoint": 57535,
+      "fontFamily": "Pixel",
+      "identifier": "discourse"
+    },
+    "divider": {
+      "codepoint": 57536,
+      "fontFamily": "Pixel",
+      "identifier": "divider"
+    },
+    "divider-solid": {
+      "codepoint": 57537,
+      "fontFamily": "Pixel",
+      "identifier": "dividerSolid"
+    },
+    "dollar": {
+      "codepoint": 57538,
+      "fontFamily": "Pixel",
+      "identifier": "dollar"
+    },
+    "dollar-solid": {
+      "codepoint": 57539,
+      "fontFamily": "Pixel",
+      "identifier": "dollarSolid"
+    },
+    "door-closed": {
+      "codepoint": 57540,
+      "fontFamily": "Pixel",
+      "identifier": "doorClosed"
+    },
+    "door-closed-solid": {
+      "codepoint": 57541,
+      "fontFamily": "Pixel",
+      "identifier": "doorClosedSolid"
+    },
+    "door-open": {
+      "codepoint": 57542,
+      "fontFamily": "Pixel",
+      "identifier": "doorOpen"
+    },
+    "door-open-solid": {
+      "codepoint": 57543,
+      "fontFamily": "Pixel",
+      "identifier": "doorOpenSolid"
+    },
+    "download": {
+      "codepoint": 57544,
+      "fontFamily": "Pixel",
+      "identifier": "download"
+    },
+    "download-alt": {
+      "codepoint": 57545,
+      "fontFamily": "Pixel",
+      "identifier": "downloadAlt"
+    },
+    "download-alt-solid": {
+      "codepoint": 57546,
+      "fontFamily": "Pixel",
+      "identifier": "downloadAltSolid"
+    },
+    "download-solid": {
+      "codepoint": 57547,
+      "fontFamily": "Pixel",
+      "identifier": "downloadSolid"
+    },
+    "edit": {
+      "codepoint": 57548,
+      "fontFamily": "Pixel",
+      "identifier": "edit"
+    },
+    "edit-solid": {
+      "codepoint": 57549,
+      "fontFamily": "Pixel",
+      "identifier": "editSolid"
+    },
+    "ellipses-horizontal": {
+      "codepoint": 57550,
+      "fontFamily": "Pixel",
+      "identifier": "ellipsesHorizontal"
+    },
+    "ellipses-horizontal-circle": {
+      "codepoint": 57551,
+      "fontFamily": "Pixel",
+      "identifier": "ellipsesHorizontalCircle"
+    },
+    "ellipses-horizontal-circle-solid": {
+      "codepoint": 57552,
+      "fontFamily": "Pixel",
+      "identifier": "ellipsesHorizontalCircleSolid"
+    },
+    "ellipses-horizontal-solid": {
+      "codepoint": 57553,
+      "fontFamily": "Pixel",
+      "identifier": "ellipsesHorizontalSolid"
+    },
+    "ellipses-vertical": {
+      "codepoint": 57554,
+      "fontFamily": "Pixel",
+      "identifier": "ellipsesVertical"
+    },
+    "ellipses-vertical-circle": {
+      "codepoint": 57555,
+      "fontFamily": "Pixel",
+      "identifier": "ellipsesVerticalCircle"
+    },
+    "ellipses-vertical-circle-solid": {
+      "codepoint": 57556,
+      "fontFamily": "Pixel",
+      "identifier": "ellipsesVerticalCircleSolid"
+    },
+    "ellipses-vertical-solid": {
+      "codepoint": 57557,
+      "fontFamily": "Pixel",
+      "identifier": "ellipsesVerticalSolid"
+    },
+    "envelope": {
+      "codepoint": 57558,
+      "fontFamily": "Pixel",
+      "identifier": "envelope"
+    },
+    "envelope-solid": {
+      "codepoint": 57559,
+      "fontFamily": "Pixel",
+      "identifier": "envelopeSolid"
+    },
+    "ethereum": {
+      "codepoint": 57560,
+      "fontFamily": "Pixel",
+      "identifier": "ethereum"
+    },
+    "exclaimation": {
+      "codepoint": 57561,
+      "fontFamily": "Pixel",
+      "identifier": "exclaimation"
+    },
+    "exclaimation-solid": {
+      "codepoint": 57562,
+      "fontFamily": "Pixel",
+      "identifier": "exclaimationSolid"
+    },
+    "exclamation-triangle": {
+      "codepoint": 57563,
+      "fontFamily": "Pixel",
+      "identifier": "exclamationTriangle"
+    },
+    "exclamation-triangle-solid": {
+      "codepoint": 57564,
+      "fontFamily": "Pixel",
+      "identifier": "exclamationTriangleSolid"
+    },
+    "expand": {
+      "codepoint": 57565,
+      "fontFamily": "Pixel",
+      "identifier": "expand"
+    },
+    "expand-solid": {
+      "codepoint": 57566,
+      "fontFamily": "Pixel",
+      "identifier": "expandSolid"
+    },
+    "external-link": {
+      "codepoint": 57567,
+      "fontFamily": "Pixel",
+      "identifier": "externalLink"
+    },
+    "external-link-solid": {
+      "codepoint": 57568,
+      "fontFamily": "Pixel",
+      "identifier": "externalLinkSolid"
+    },
+    "eye": {
+      "codepoint": 57569,
+      "fontFamily": "Pixel",
+      "identifier": "eye"
+    },
+    "eye-cross": {
+      "codepoint": 57570,
+      "fontFamily": "Pixel",
+      "identifier": "eyeCross"
+    },
+    "eye-cross-solid": {
+      "codepoint": 57571,
+      "fontFamily": "Pixel",
+      "identifier": "eyeCrossSolid"
+    },
+    "eye-snake": {
+      "codepoint": 57572,
+      "fontFamily": "Pixel",
+      "identifier": "eyeSnake"
+    },
+    "eye-snake-solid": {
+      "codepoint": 57573,
+      "fontFamily": "Pixel",
+      "identifier": "eyeSnakeSolid"
+    },
+    "eye-solid": {
+      "codepoint": 57574,
+      "fontFamily": "Pixel",
+      "identifier": "eyeSolid"
+    },
+    "face-angry": {
+      "codepoint": 57575,
+      "fontFamily": "Pixel",
+      "identifier": "faceAngry"
+    },
+    "face-angry-solid": {
+      "codepoint": 57576,
+      "fontFamily": "Pixel",
+      "identifier": "faceAngrySolid"
+    },
+    "face-grin": {
+      "codepoint": 57577,
+      "fontFamily": "Pixel",
+      "identifier": "faceGrin"
+    },
+    "face-grin-solid": {
+      "codepoint": 57578,
+      "fontFamily": "Pixel",
+      "identifier": "faceGrinSolid"
+    },
+    "face-heart-eyes": {
+      "codepoint": 57579,
+      "fontFamily": "Pixel",
+      "identifier": "faceHeartEyes"
+    },
+    "face-heart-eyes-solid": {
+      "codepoint": 57580,
+      "fontFamily": "Pixel",
+      "identifier": "faceHeartEyesSolid"
+    },
+    "face-laugh-squint": {
+      "codepoint": 57581,
+      "fontFamily": "Pixel",
+      "identifier": "faceLaughSquint"
+    },
+    "face-laugh-squint-solid": {
+      "codepoint": 57582,
+      "fontFamily": "Pixel",
+      "identifier": "faceLaughSquintSolid"
+    },
+    "face-sad": {
+      "codepoint": 57583,
+      "fontFamily": "Pixel",
+      "identifier": "faceSad"
+    },
+    "face-sad-solid": {
+      "codepoint": 57584,
+      "fontFamily": "Pixel",
+      "identifier": "faceSadSolid"
+    },
+    "face-thinking": {
+      "codepoint": 57585,
+      "fontFamily": "Pixel",
+      "identifier": "faceThinking"
+    },
+    "face-thinking-solid": {
+      "codepoint": 57586,
+      "fontFamily": "Pixel",
+      "identifier": "faceThinkingSolid"
+    },
+    "facebook-round": {
+      "codepoint": 57587,
+      "fontFamily": "Pixel",
+      "identifier": "facebookRound"
+    },
+    "facebook-square": {
+      "codepoint": 57588,
+      "fontFamily": "Pixel",
+      "identifier": "facebookSquare"
+    },
+    "figma": {
+      "codepoint": 57589,
+      "fontFamily": "Pixel",
+      "identifier": "figma"
+    },
+    "file-import": {
+      "codepoint": 57590,
+      "fontFamily": "Pixel",
+      "identifier": "fileImport"
+    },
+    "file-import-solid": {
+      "codepoint": 57591,
+      "fontFamily": "Pixel",
+      "identifier": "fileImportSolid"
+    },
+    "filter": {
+      "codepoint": 57592,
+      "fontFamily": "Pixel",
+      "identifier": "filter"
+    },
+    "filter-alt-circle": {
+      "codepoint": 57593,
+      "fontFamily": "Pixel",
+      "identifier": "filterAltCircle"
+    },
+    "filter-alt-circle-solid": {
+      "codepoint": 57594,
+      "fontFamily": "Pixel",
+      "identifier": "filterAltCircleSolid"
+    },
+    "filter-solid": {
+      "codepoint": 57595,
+      "fontFamily": "Pixel",
+      "identifier": "filterSolid"
+    },
+    "finance": {
+      "codepoint": 57596,
+      "fontFamily": "Pixel",
+      "identifier": "finance"
+    },
+    "fire": {
+      "codepoint": 57597,
+      "fontFamily": "Pixel",
+      "identifier": "fire"
+    },
+    "fire-solid": {
+      "codepoint": 57598,
+      "fontFamily": "Pixel",
+      "identifier": "fireSolid"
+    },
+    "flag": {
+      "codepoint": 57599,
+      "fontFamily": "Pixel",
+      "identifier": "flag"
+    },
+    "flag-checkered": {
+      "codepoint": 57600,
+      "fontFamily": "Pixel",
+      "identifier": "flagCheckered"
+    },
+    "flag-checkered-solid": {
+      "codepoint": 57601,
+      "fontFamily": "Pixel",
+      "identifier": "flagCheckeredSolid"
+    },
+    "flag-solid": {
+      "codepoint": 57602,
+      "fontFamily": "Pixel",
+      "identifier": "flagSolid"
+    },
+    "folder": {
+      "codepoint": 57603,
+      "fontFamily": "Pixel",
+      "identifier": "folder"
+    },
+    "folder-open": {
+      "codepoint": 57604,
+      "fontFamily": "Pixel",
+      "identifier": "folderOpen"
+    },
+    "folder-open-solid": {
+      "codepoint": 57605,
+      "fontFamily": "Pixel",
+      "identifier": "folderOpenSolid"
+    },
+    "folder-solid": {
+      "codepoint": 57606,
+      "fontFamily": "Pixel",
+      "identifier": "folderSolid"
+    },
+    "fork": {
+      "codepoint": 57607,
+      "fontFamily": "Pixel",
+      "identifier": "fork"
+    },
+    "fork-solid": {
+      "codepoint": 57608,
+      "fontFamily": "Pixel",
+      "identifier": "forkSolid"
+    },
+    "futurism": {
+      "codepoint": 57609,
+      "fontFamily": "Pixel",
+      "identifier": "futurism"
+    },
+    "gaming": {
+      "codepoint": 57610,
+      "fontFamily": "Pixel",
+      "identifier": "gaming"
+    },
+    "giphy": {
+      "codepoint": 57611,
+      "fontFamily": "Pixel",
+      "identifier": "giphy"
+    },
+    "github": {
+      "codepoint": 57612,
+      "fontFamily": "Pixel",
+      "identifier": "github"
+    },
+    "gitlab": {
+      "codepoint": 57613,
+      "fontFamily": "Pixel",
+      "identifier": "gitlab"
+    },
+    "glasses": {
+      "codepoint": 57614,
+      "fontFamily": "Pixel",
+      "identifier": "glasses"
+    },
+    "glasses-solid": {
+      "codepoint": 57615,
+      "fontFamily": "Pixel",
+      "identifier": "glassesSolid"
+    },
+    "globe": {
+      "codepoint": 57616,
+      "fontFamily": "Pixel",
+      "identifier": "globe"
+    },
+    "globe-americas": {
+      "codepoint": 57617,
+      "fontFamily": "Pixel",
+      "identifier": "globeAmericas"
+    },
+    "globe-americas-solid": {
+      "codepoint": 57618,
+      "fontFamily": "Pixel",
+      "identifier": "globeAmericasSolid"
+    },
+    "globe-solid": {
+      "codepoint": 57619,
+      "fontFamily": "Pixel",
+      "identifier": "globeSolid"
+    },
+    "golden": {
+      "codepoint": 57620,
+      "fontFamily": "Pixel",
+      "identifier": "golden"
+    },
+    "google": {
+      "codepoint": 57621,
+      "fontFamily": "Pixel",
+      "identifier": "google"
+    },
+    "google-news": {
+      "codepoint": 57622,
+      "fontFamily": "Pixel",
+      "identifier": "googleNews"
+    },
+    "graduation-cap": {
+      "codepoint": 57623,
+      "fontFamily": "Pixel",
+      "identifier": "graduationCap"
+    },
+    "graduation-cap-solid": {
+      "codepoint": 57624,
+      "fontFamily": "Pixel",
+      "identifier": "graduationCapSolid"
+    },
+    "grid": {
+      "codepoint": 57625,
+      "fontFamily": "Pixel",
+      "identifier": "grid"
+    },
+    "grid-solid": {
+      "codepoint": 57626,
+      "fontFamily": "Pixel",
+      "identifier": "gridSolid"
+    },
+    "h1": {
+      "codepoint": 57627,
+      "fontFamily": "Pixel",
+      "identifier": "h1"
+    },
+    "h2": {
+      "codepoint": 57628,
+      "fontFamily": "Pixel",
+      "identifier": "h2"
+    },
+    "h3": {
+      "codepoint": 57629,
+      "fontFamily": "Pixel",
+      "identifier": "h3"
+    },
+    "hackernoon": {
+      "codepoint": 57630,
+      "fontFamily": "Pixel",
+      "identifier": "hackernoon"
+    },
+    "hackernoon-purcat": {
+      "codepoint": 57631,
+      "fontFamily": "Pixel",
+      "identifier": "hackernoonPurcat"
+    },
+    "handshake": {
+      "codepoint": 57632,
+      "fontFamily": "Pixel",
+      "identifier": "handshake"
+    },
+    "handshake-solid": {
+      "codepoint": 57633,
+      "fontFamily": "Pixel",
+      "identifier": "handshakeSolid"
+    },
+    "hashtag": {
+      "codepoint": 57634,
+      "fontFamily": "Pixel",
+      "identifier": "hashtag"
+    },
+    "hashtag-solid": {
+      "codepoint": 57635,
+      "fontFamily": "Pixel",
+      "identifier": "hashtagSolid"
+    },
+    "heading-1-solid": {
+      "codepoint": 57636,
+      "fontFamily": "Pixel",
+      "identifier": "heading1Solid"
+    },
+    "heading-2-solid": {
+      "codepoint": 57637,
+      "fontFamily": "Pixel",
+      "identifier": "heading2Solid"
+    },
+    "heading-3-solid": {
+      "codepoint": 57638,
+      "fontFamily": "Pixel",
+      "identifier": "heading3Solid"
+    },
+    "headphones": {
+      "codepoint": 57639,
+      "fontFamily": "Pixel",
+      "identifier": "headphones"
+    },
+    "headphones-solid": {
+      "codepoint": 57640,
+      "fontFamily": "Pixel",
+      "identifier": "headphonesSolid"
+    },
+    "heart": {
+      "codepoint": 57641,
+      "fontFamily": "Pixel",
+      "identifier": "heart"
+    },
+    "heart-solid": {
+      "codepoint": 57642,
+      "fontFamily": "Pixel",
+      "identifier": "heartSolid"
+    },
+    "highlight": {
+      "codepoint": 57643,
+      "fontFamily": "Pixel",
+      "identifier": "highlight"
+    },
+    "highlight-solid": {
+      "codepoint": 57644,
+      "fontFamily": "Pixel",
+      "identifier": "highlightSolid"
+    },
+    "hockey-mask": {
+      "codepoint": 57645,
+      "fontFamily": "Pixel",
+      "identifier": "hockeyMask"
+    },
+    "hockey-mask-solid": {
+      "codepoint": 57646,
+      "fontFamily": "Pixel",
+      "identifier": "hockeyMaskSolid"
+    },
+    "home": {
+      "codepoint": 57647,
+      "fontFamily": "Pixel",
+      "identifier": "home"
+    },
+    "home-solid": {
+      "codepoint": 57648,
+      "fontFamily": "Pixel",
+      "identifier": "homeSolid"
+    },
+    "huggingface": {
+      "codepoint": 57649,
+      "fontFamily": "Pixel",
+      "identifier": "huggingface"
+    },
+    "image": {
+      "codepoint": 57650,
+      "fontFamily": "Pixel",
+      "identifier": "image"
+    },
+    "image-solid": {
+      "codepoint": 57651,
+      "fontFamily": "Pixel",
+      "identifier": "imageSolid"
+    },
+    "imgur": {
+      "codepoint": 57652,
+      "fontFamily": "Pixel",
+      "identifier": "imgur"
+    },
+    "indent": {
+      "codepoint": 57653,
+      "fontFamily": "Pixel",
+      "identifier": "indent"
+    },
+    "indent-solid": {
+      "codepoint": 57654,
+      "fontFamily": "Pixel",
+      "identifier": "indentSolid"
+    },
+    "info-circle": {
+      "codepoint": 57655,
+      "fontFamily": "Pixel",
+      "identifier": "infoCircle"
+    },
+    "info-circle-solid": {
+      "codepoint": 57656,
+      "fontFamily": "Pixel",
+      "identifier": "infoCircleSolid"
+    },
+    "instagram": {
+      "codepoint": 57657,
+      "fontFamily": "Pixel",
+      "identifier": "instagram"
+    },
+    "ios": {
+      "codepoint": 57658,
+      "fontFamily": "Pixel",
+      "identifier": "ios"
+    },
+    "italics": {
+      "codepoint": 57659,
+      "fontFamily": "Pixel",
+      "identifier": "italics"
+    },
+    "italics-solid": {
+      "codepoint": 57660,
+      "fontFamily": "Pixel",
+      "identifier": "italicsSolid"
+    },
+    "kaggle": {
+      "codepoint": 57661,
+      "fontFamily": "Pixel",
+      "identifier": "kaggle"
+    },
+    "laptop": {
+      "codepoint": 57662,
+      "fontFamily": "Pixel",
+      "identifier": "laptop"
+    },
+    "laptop-code": {
+      "codepoint": 57663,
+      "fontFamily": "Pixel",
+      "identifier": "laptopCode"
+    },
+    "laptop-code-solid": {
+      "codepoint": 57664,
+      "fontFamily": "Pixel",
+      "identifier": "laptopCodeSolid"
+    },
+    "laptop-solid": {
+      "codepoint": 57665,
+      "fontFamily": "Pixel",
+      "identifier": "laptopSolid"
+    },
+    "life-hacking": {
+      "codepoint": 57666,
+      "fontFamily": "Pixel",
+      "identifier": "lifeHacking"
+    },
+    "lightbulb": {
+      "codepoint": 57667,
+      "fontFamily": "Pixel",
+      "identifier": "lightbulb"
+    },
+    "lightbulb-solid": {
+      "codepoint": 57668,
+      "fontFamily": "Pixel",
+      "identifier": "lightbulbSolid"
+    },
+    "line-height": {
+      "codepoint": 57669,
+      "fontFamily": "Pixel",
+      "identifier": "lineHeight"
+    },
+    "line-height-solid": {
+      "codepoint": 57670,
+      "fontFamily": "Pixel",
+      "identifier": "lineHeightSolid"
+    },
+    "link": {
+      "codepoint": 57671,
+      "fontFamily": "Pixel",
+      "identifier": "link"
+    },
+    "link-solid": {
+      "codepoint": 57672,
+      "fontFamily": "Pixel",
+      "identifier": "linkSolid"
+    },
+    "linkedin": {
+      "codepoint": 57673,
+      "fontFamily": "Pixel",
+      "identifier": "linkedin"
+    },
+    "location-pin": {
+      "codepoint": 57674,
+      "fontFamily": "Pixel",
+      "identifier": "locationPin"
+    },
+    "location-pin-solid": {
+      "codepoint": 57675,
+      "fontFamily": "Pixel",
+      "identifier": "locationPinSolid"
+    },
+    "lock": {
+      "codepoint": 57676,
+      "fontFamily": "Pixel",
+      "identifier": "lock"
+    },
+    "lock-alt": {
+      "codepoint": 57677,
+      "fontFamily": "Pixel",
+      "identifier": "lockAlt"
+    },
+    "lock-alt-solid": {
+      "codepoint": 57678,
+      "fontFamily": "Pixel",
+      "identifier": "lockAltSolid"
+    },
+    "lock-open": {
+      "codepoint": 57679,
+      "fontFamily": "Pixel",
+      "identifier": "lockOpen"
+    },
+    "lock-open-solid": {
+      "codepoint": 57680,
+      "fontFamily": "Pixel",
+      "identifier": "lockOpenSolid"
+    },
+    "lock-solid": {
+      "codepoint": 57681,
+      "fontFamily": "Pixel",
+      "identifier": "lockSolid"
+    },
+    "login": {
+      "codepoint": 57682,
+      "fontFamily": "Pixel",
+      "identifier": "login"
+    },
+    "login-solid": {
+      "codepoint": 57683,
+      "fontFamily": "Pixel",
+      "identifier": "loginSolid"
+    },
+    "logout": {
+      "codepoint": 57684,
+      "fontFamily": "Pixel",
+      "identifier": "logout"
+    },
+    "logout-solid": {
+      "codepoint": 57685,
+      "fontFamily": "Pixel",
+      "identifier": "logoutSolid"
+    },
+    "machine-learning": {
+      "codepoint": 57686,
+      "fontFamily": "Pixel",
+      "identifier": "machineLearning"
+    },
+    "management": {
+      "codepoint": 57687,
+      "fontFamily": "Pixel",
+      "identifier": "management"
+    },
+    "mastodon": {
+      "codepoint": 57688,
+      "fontFamily": "Pixel",
+      "identifier": "mastodon"
+    },
+    "media": {
+      "codepoint": 57689,
+      "fontFamily": "Pixel",
+      "identifier": "media"
+    },
+    "medical-house": {
+      "codepoint": 57690,
+      "fontFamily": "Pixel",
+      "identifier": "medicalHouse"
+    },
+    "medical-house-solid": {
+      "codepoint": 57691,
+      "fontFamily": "Pixel",
+      "identifier": "medicalHouseSolid"
+    },
+    "merge": {
+      "codepoint": 57692,
+      "fontFamily": "Pixel",
+      "identifier": "merge"
+    },
+    "merge-solid": {
+      "codepoint": 57693,
+      "fontFamily": "Pixel",
+      "identifier": "mergeSolid"
+    },
+    "message": {
+      "codepoint": 57694,
+      "fontFamily": "Pixel",
+      "identifier": "message"
+    },
+    "message-dots": {
+      "codepoint": 57695,
+      "fontFamily": "Pixel",
+      "identifier": "messageDots"
+    },
+    "message-dots-solid": {
+      "codepoint": 57696,
+      "fontFamily": "Pixel",
+      "identifier": "messageDotsSolid"
+    },
+    "message-solid": {
+      "codepoint": 57697,
+      "fontFamily": "Pixel",
+      "identifier": "messageSolid"
+    },
+    "minds": {
+      "codepoint": 57698,
+      "fontFamily": "Pixel",
+      "identifier": "minds"
+    },
+    "minus": {
+      "codepoint": 57699,
+      "fontFamily": "Pixel",
+      "identifier": "minus"
+    },
+    "minus-solid": {
+      "codepoint": 57700,
+      "fontFamily": "Pixel",
+      "identifier": "minusSolid"
+    },
+    "mistral": {
+      "codepoint": 57701,
+      "fontFamily": "Pixel",
+      "identifier": "mistral"
+    },
+    "moon": {
+      "codepoint": 57702,
+      "fontFamily": "Pixel",
+      "identifier": "moon"
+    },
+    "moon-solid": {
+      "codepoint": 57703,
+      "fontFamily": "Pixel",
+      "identifier": "moonSolid"
+    },
+    "music": {
+      "codepoint": 57704,
+      "fontFamily": "Pixel",
+      "identifier": "music"
+    },
+    "music-solid": {
+      "codepoint": 57705,
+      "fontFamily": "Pixel",
+      "identifier": "musicSolid"
+    },
+    "newsbreak": {
+      "codepoint": 57706,
+      "fontFamily": "Pixel",
+      "identifier": "newsbreak"
+    },
+    "newspaper": {
+      "codepoint": 57707,
+      "fontFamily": "Pixel",
+      "identifier": "newspaper"
+    },
+    "newspaper-solid": {
+      "codepoint": 57708,
+      "fontFamily": "Pixel",
+      "identifier": "newspaperSolid"
+    },
+    "notebook": {
+      "codepoint": 57709,
+      "fontFamily": "Pixel",
+      "identifier": "notebook"
+    },
+    "notebook-solid": {
+      "codepoint": 57710,
+      "fontFamily": "Pixel",
+      "identifier": "notebookSolid"
+    },
+    "notion": {
+      "codepoint": 57711,
+      "fontFamily": "Pixel",
+      "identifier": "notion"
+    },
+    "npm": {
+      "codepoint": 57712,
+      "fontFamily": "Pixel",
+      "identifier": "npm"
+    },
+    "numbered-list": {
+      "codepoint": 57713,
+      "fontFamily": "Pixel",
+      "identifier": "numberedList"
+    },
+    "numbered-list-solid": {
+      "codepoint": 57714,
+      "fontFamily": "Pixel",
+      "identifier": "numberedListSolid"
+    },
+    "octagon-check": {
+      "codepoint": 57715,
+      "fontFamily": "Pixel",
+      "identifier": "octagonCheck"
+    },
+    "octagon-check-solid": {
+      "codepoint": 57716,
+      "fontFamily": "Pixel",
+      "identifier": "octagonCheckSolid"
+    },
+    "octagon-times": {
+      "codepoint": 57717,
+      "fontFamily": "Pixel",
+      "identifier": "octagonTimes"
+    },
+    "octagon-times-solid": {
+      "codepoint": 57718,
+      "fontFamily": "Pixel",
+      "identifier": "octagonTimesSolid"
+    },
+    "open-ai": {
+      "codepoint": 57719,
+      "fontFamily": "Pixel",
+      "identifier": "openAi"
+    },
+    "outdent": {
+      "codepoint": 57720,
+      "fontFamily": "Pixel",
+      "identifier": "outdent"
+    },
+    "outdent-solid": {
+      "codepoint": 57721,
+      "fontFamily": "Pixel",
+      "identifier": "outdentSolid"
+    },
+    "page-break": {
+      "codepoint": 57722,
+      "fontFamily": "Pixel",
+      "identifier": "pageBreak"
+    },
+    "page-break-solid": {
+      "codepoint": 57723,
+      "fontFamily": "Pixel",
+      "identifier": "pageBreakSolid"
+    },
+    "paint-brush": {
+      "codepoint": 57724,
+      "fontFamily": "Pixel",
+      "identifier": "paintBrush"
+    },
+    "paint-brush-solid": {
+      "codepoint": 57725,
+      "fontFamily": "Pixel",
+      "identifier": "paintBrushSolid"
+    },
+    "paperclip": {
+      "codepoint": 57726,
+      "fontFamily": "Pixel",
+      "identifier": "paperclip"
+    },
+    "paperclip-solid": {
+      "codepoint": 57727,
+      "fontFamily": "Pixel",
+      "identifier": "paperclipSolid"
+    },
+    "paragraph": {
+      "codepoint": 57728,
+      "fontFamily": "Pixel",
+      "identifier": "paragraph"
+    },
+    "paragraph-solid": {
+      "codepoint": 57729,
+      "fontFamily": "Pixel",
+      "identifier": "paragraphSolid"
+    },
+    "pause": {
+      "codepoint": 57730,
+      "fontFamily": "Pixel",
+      "identifier": "pause"
+    },
+    "pause-solid": {
+      "codepoint": 57731,
+      "fontFamily": "Pixel",
+      "identifier": "pauseSolid"
+    },
+    "pc": {
+      "codepoint": 57732,
+      "fontFamily": "Pixel",
+      "identifier": "pc"
+    },
+    "pc-solid": {
+      "codepoint": 57733,
+      "fontFamily": "Pixel",
+      "identifier": "pcSolid"
+    },
+    "pen": {
+      "codepoint": 57734,
+      "fontFamily": "Pixel",
+      "identifier": "pen"
+    },
+    "pen-nib": {
+      "codepoint": 57735,
+      "fontFamily": "Pixel",
+      "identifier": "penNib"
+    },
+    "pen-nib-solid": {
+      "codepoint": 57736,
+      "fontFamily": "Pixel",
+      "identifier": "penNibSolid"
+    },
+    "pen-solid": {
+      "codepoint": 57737,
+      "fontFamily": "Pixel",
+      "identifier": "penSolid"
+    },
+    "pencil": {
+      "codepoint": 57738,
+      "fontFamily": "Pixel",
+      "identifier": "pencil"
+    },
+    "pencil-ruler": {
+      "codepoint": 57739,
+      "fontFamily": "Pixel",
+      "identifier": "pencilRuler"
+    },
+    "pencil-ruler-solid": {
+      "codepoint": 57740,
+      "fontFamily": "Pixel",
+      "identifier": "pencilRulerSolid"
+    },
+    "pencil-solid": {
+      "codepoint": 57741,
+      "fontFamily": "Pixel",
+      "identifier": "pencilSolid"
+    },
+    "people-carry": {
+      "codepoint": 57742,
+      "fontFamily": "Pixel",
+      "identifier": "peopleCarry"
+    },
+    "people-carry-solid": {
+      "codepoint": 57743,
+      "fontFamily": "Pixel",
+      "identifier": "peopleCarrySolid"
+    },
+    "perplexity": {
+      "codepoint": 57744,
+      "fontFamily": "Pixel",
+      "identifier": "perplexity"
+    },
+    "phone-ringing-high": {
+      "codepoint": 57745,
+      "fontFamily": "Pixel",
+      "identifier": "phoneRingingHigh"
+    },
+    "phone-ringing-high-solid": {
+      "codepoint": 57746,
+      "fontFamily": "Pixel",
+      "identifier": "phoneRingingHighSolid"
+    },
+    "phone-ringing-low": {
+      "codepoint": 57747,
+      "fontFamily": "Pixel",
+      "identifier": "phoneRingingLow"
+    },
+    "phone-ringing-low-solid": {
+      "codepoint": 57748,
+      "fontFamily": "Pixel",
+      "identifier": "phoneRingingLowSolid"
+    },
+    "pinterest": {
+      "codepoint": 57749,
+      "fontFamily": "Pixel",
+      "identifier": "pinterest"
+    },
+    "plane": {
+      "codepoint": 57750,
+      "fontFamily": "Pixel",
+      "identifier": "plane"
+    },
+    "plane-departure": {
+      "codepoint": 57751,
+      "fontFamily": "Pixel",
+      "identifier": "planeDeparture"
+    },
+    "plane-departure-solid": {
+      "codepoint": 57752,
+      "fontFamily": "Pixel",
+      "identifier": "planeDepartureSolid"
+    },
+    "plane-solid": {
+      "codepoint": 57753,
+      "fontFamily": "Pixel",
+      "identifier": "planeSolid"
+    },
+    "play": {
+      "codepoint": 57754,
+      "fontFamily": "Pixel",
+      "identifier": "play"
+    },
+    "play-solid": {
+      "codepoint": 57755,
+      "fontFamily": "Pixel",
+      "identifier": "playSolid"
+    },
+    "playlist": {
+      "codepoint": 57756,
+      "fontFamily": "Pixel",
+      "identifier": "playlist"
+    },
+    "playlist-solid": {
+      "codepoint": 57757,
+      "fontFamily": "Pixel",
+      "identifier": "playlistSolid"
+    },
+    "plus": {
+      "codepoint": 57758,
+      "fontFamily": "Pixel",
+      "identifier": "plus"
+    },
+    "plus-solid": {
+      "codepoint": 57759,
+      "fontFamily": "Pixel",
+      "identifier": "plusSolid"
+    },
+    "podcasts": {
+      "codepoint": 57760,
+      "fontFamily": "Pixel",
+      "identifier": "podcasts"
+    },
+    "print": {
+      "codepoint": 57761,
+      "fontFamily": "Pixel",
+      "identifier": "print"
+    },
+    "print-solid": {
+      "codepoint": 57762,
+      "fontFamily": "Pixel",
+      "identifier": "printSolid"
+    },
+    "pro": {
+      "codepoint": 57763,
+      "fontFamily": "Pixel",
+      "identifier": "pro"
+    },
+    "pro-solid": {
+      "codepoint": 57764,
+      "fontFamily": "Pixel",
+      "identifier": "proSolid"
+    },
+    "product-hunt": {
+      "codepoint": 57765,
+      "fontFamily": "Pixel",
+      "identifier": "productHunt"
+    },
+    "product-management": {
+      "codepoint": 57766,
+      "fontFamily": "Pixel",
+      "identifier": "productManagement"
+    },
+    "programming": {
+      "codepoint": 57767,
+      "fontFamily": "Pixel",
+      "identifier": "programming"
+    },
+    "pull-request": {
+      "codepoint": 57768,
+      "fontFamily": "Pixel",
+      "identifier": "pullRequest"
+    },
+    "pull-request-solid": {
+      "codepoint": 57769,
+      "fontFamily": "Pixel",
+      "identifier": "pullRequestSolid"
+    },
+    "question": {
+      "codepoint": 57770,
+      "fontFamily": "Pixel",
+      "identifier": "question"
+    },
+    "question-circle": {
+      "codepoint": 57771,
+      "fontFamily": "Pixel",
+      "identifier": "questionCircle"
+    },
+    "question-circle-solid": {
+      "codepoint": 57772,
+      "fontFamily": "Pixel",
+      "identifier": "questionCircleSolid"
+    },
+    "question-solid": {
+      "codepoint": 57773,
+      "fontFamily": "Pixel",
+      "identifier": "questionSolid"
+    },
+    "quote-left": {
+      "codepoint": 57774,
+      "fontFamily": "Pixel",
+      "identifier": "quoteLeft"
+    },
+    "quote-left-solid": {
+      "codepoint": 57775,
+      "fontFamily": "Pixel",
+      "identifier": "quoteLeftSolid"
+    },
+    "quote-right": {
+      "codepoint": 57776,
+      "fontFamily": "Pixel",
+      "identifier": "quoteRight"
+    },
+    "quote-right-solid": {
+      "codepoint": 57777,
+      "fontFamily": "Pixel",
+      "identifier": "quoteRightSolid"
+    },
+    "receipt": {
+      "codepoint": 57778,
+      "fontFamily": "Pixel",
+      "identifier": "receipt"
+    },
+    "receipt-solid": {
+      "codepoint": 57779,
+      "fontFamily": "Pixel",
+      "identifier": "receiptSolid"
+    },
+    "reddit": {
+      "codepoint": 57780,
+      "fontFamily": "Pixel",
+      "identifier": "reddit"
+    },
+    "refresh": {
+      "codepoint": 57781,
+      "fontFamily": "Pixel",
+      "identifier": "refresh"
+    },
+    "refresh-solid": {
+      "codepoint": 57782,
+      "fontFamily": "Pixel",
+      "identifier": "refreshSolid"
+    },
+    "remote": {
+      "codepoint": 57783,
+      "fontFamily": "Pixel",
+      "identifier": "remote"
+    },
+    "retro-camera": {
+      "codepoint": 57784,
+      "fontFamily": "Pixel",
+      "identifier": "retroCamera"
+    },
+    "retro-camera-solid": {
+      "codepoint": 57785,
+      "fontFamily": "Pixel",
+      "identifier": "retroCameraSolid"
+    },
+    "retro-pc": {
+      "codepoint": 57786,
+      "fontFamily": "Pixel",
+      "identifier": "retroPc"
+    },
+    "retro-pc-solid": {
+      "codepoint": 57787,
+      "fontFamily": "Pixel",
+      "identifier": "retroPcSolid"
+    },
+    "robot": {
+      "codepoint": 57788,
+      "fontFamily": "Pixel",
+      "identifier": "robot"
+    },
+    "robot-solid": {
+      "codepoint": 57789,
+      "fontFamily": "Pixel",
+      "identifier": "robotSolid"
+    },
+    "rss": {
+      "codepoint": 57790,
+      "fontFamily": "Pixel",
+      "identifier": "rss"
+    },
+    "save": {
+      "codepoint": 57791,
+      "fontFamily": "Pixel",
+      "identifier": "save"
+    },
+    "save-solid": {
+      "codepoint": 57792,
+      "fontFamily": "Pixel",
+      "identifier": "saveSolid"
+    },
+    "science": {
+      "codepoint": 57793,
+      "fontFamily": "Pixel",
+      "identifier": "science"
+    },
+    "search": {
+      "codepoint": 57794,
+      "fontFamily": "Pixel",
+      "identifier": "search"
+    },
+    "search-solid": {
+      "codepoint": 57795,
+      "fontFamily": "Pixel",
+      "identifier": "searchSolid"
+    },
+    "seedlings": {
+      "codepoint": 57796,
+      "fontFamily": "Pixel",
+      "identifier": "seedlings"
+    },
+    "seedlings-solid": {
+      "codepoint": 57797,
+      "fontFamily": "Pixel",
+      "identifier": "seedlingsSolid"
+    },
+    "shapes": {
+      "codepoint": 57798,
+      "fontFamily": "Pixel",
+      "identifier": "shapes"
+    },
+    "shapes-solid": {
+      "codepoint": 57799,
+      "fontFamily": "Pixel",
+      "identifier": "shapesSolid"
+    },
+    "share": {
+      "codepoint": 57800,
+      "fontFamily": "Pixel",
+      "identifier": "share"
+    },
+    "share-alt": {
+      "codepoint": 57801,
+      "fontFamily": "Pixel",
+      "identifier": "shareAlt"
+    },
+    "share-alt-solid": {
+      "codepoint": 57802,
+      "fontFamily": "Pixel",
+      "identifier": "shareAltSolid"
+    },
+    "share-solid": {
+      "codepoint": 57803,
+      "fontFamily": "Pixel",
+      "identifier": "shareSolid"
+    },
+    "shop": {
+      "codepoint": 57804,
+      "fontFamily": "Pixel",
+      "identifier": "shop"
+    },
+    "shop-solid": {
+      "codepoint": 57805,
+      "fontFamily": "Pixel",
+      "identifier": "shopSolid"
+    },
+    "shopping-cart": {
+      "codepoint": 57806,
+      "fontFamily": "Pixel",
+      "identifier": "shoppingCart"
+    },
+    "shopping-cart-solid": {
+      "codepoint": 57807,
+      "fontFamily": "Pixel",
+      "identifier": "shoppingCartSolid"
+    },
+    "shuffle": {
+      "codepoint": 57808,
+      "fontFamily": "Pixel",
+      "identifier": "shuffle"
+    },
+    "shuffle-solid": {
+      "codepoint": 57809,
+      "fontFamily": "Pixel",
+      "identifier": "shuffleSolid"
+    },
+    "sia": {
+      "codepoint": 57810,
+      "fontFamily": "Pixel",
+      "identifier": "sia"
+    },
+    "side-nav-collapse": {
+      "codepoint": 57811,
+      "fontFamily": "Pixel",
+      "identifier": "sideNavCollapse"
+    },
+    "side-nav-collapse-solid": {
+      "codepoint": 57812,
+      "fontFamily": "Pixel",
+      "identifier": "sideNavCollapseSolid"
+    },
+    "side-nav-expand": {
+      "codepoint": 57813,
+      "fontFamily": "Pixel",
+      "identifier": "sideNavExpand"
+    },
+    "side-nav-expand-solid": {
+      "codepoint": 57814,
+      "fontFamily": "Pixel",
+      "identifier": "sideNavExpandSolid"
+    },
+    "sitemap": {
+      "codepoint": 57815,
+      "fontFamily": "Pixel",
+      "identifier": "sitemap"
+    },
+    "sitemap-solid": {
+      "codepoint": 57816,
+      "fontFamily": "Pixel",
+      "identifier": "sitemapSolid"
+    },
+    "slack": {
+      "codepoint": 57817,
+      "fontFamily": "Pixel",
+      "identifier": "slack"
+    },
+    "society": {
+      "codepoint": 57818,
+      "fontFamily": "Pixel",
+      "identifier": "society"
+    },
+    "sort": {
+      "codepoint": 57819,
+      "fontFamily": "Pixel",
+      "identifier": "sort"
+    },
+    "sort-solid": {
+      "codepoint": 57820,
+      "fontFamily": "Pixel",
+      "identifier": "sortSolid"
+    },
+    "sound-mute": {
+      "codepoint": 57821,
+      "fontFamily": "Pixel",
+      "identifier": "soundMute"
+    },
+    "sound-mute-solid": {
+      "codepoint": 57822,
+      "fontFamily": "Pixel",
+      "identifier": "soundMuteSolid"
+    },
+    "sound-on": {
+      "codepoint": 57823,
+      "fontFamily": "Pixel",
+      "identifier": "soundOn"
+    },
+    "sound-on-solid": {
+      "codepoint": 57824,
+      "fontFamily": "Pixel",
+      "identifier": "soundOnSolid"
+    },
+    "sparkles": {
+      "codepoint": 57825,
+      "fontFamily": "Pixel",
+      "identifier": "sparkles"
+    },
+    "sparkles-solid": {
+      "codepoint": 57826,
+      "fontFamily": "Pixel",
+      "identifier": "sparklesSolid"
+    },
+    "spinner": {
+      "codepoint": 57827,
+      "fontFamily": "Pixel",
+      "identifier": "spinner"
+    },
+    "spinner-solid": {
+      "codepoint": 57828,
+      "fontFamily": "Pixel",
+      "identifier": "spinnerSolid"
+    },
+    "spinner-third": {
+      "codepoint": 57829,
+      "fontFamily": "Pixel",
+      "identifier": "spinnerThird"
+    },
+    "spinner-third-solid": {
+      "codepoint": 57830,
+      "fontFamily": "Pixel",
+      "identifier": "spinnerThirdSolid"
+    },
+    "star": {
+      "codepoint": 57831,
+      "fontFamily": "Pixel",
+      "identifier": "star"
+    },
+    "star-crescent": {
+      "codepoint": 57832,
+      "fontFamily": "Pixel",
+      "identifier": "starCrescent"
+    },
+    "star-crescent-solid": {
+      "codepoint": 57833,
+      "fontFamily": "Pixel",
+      "identifier": "starCrescentSolid"
+    },
+    "star-solid": {
+      "codepoint": 57834,
+      "fontFamily": "Pixel",
+      "identifier": "starSolid"
+    },
+    "startups": {
+      "codepoint": 57835,
+      "fontFamily": "Pixel",
+      "identifier": "startups"
+    },
+    "steam": {
+      "codepoint": 57836,
+      "fontFamily": "Pixel",
+      "identifier": "steam"
+    },
+    "strike-through": {
+      "codepoint": 57837,
+      "fontFamily": "Pixel",
+      "identifier": "strikeThrough"
+    },
+    "strike-through-solid": {
+      "codepoint": 57838,
+      "fontFamily": "Pixel",
+      "identifier": "strikeThroughSolid"
+    },
+    "sun": {
+      "codepoint": 57839,
+      "fontFamily": "Pixel",
+      "identifier": "sun"
+    },
+    "sun-solid": {
+      "codepoint": 57840,
+      "fontFamily": "Pixel",
+      "identifier": "sunSolid"
+    },
+    "table": {
+      "codepoint": 57841,
+      "fontFamily": "Pixel",
+      "identifier": "table"
+    },
+    "table-solid": {
+      "codepoint": 57842,
+      "fontFamily": "Pixel",
+      "identifier": "tableSolid"
+    },
+    "tag": {
+      "codepoint": 57843,
+      "fontFamily": "Pixel",
+      "identifier": "tag"
+    },
+    "tag-solid": {
+      "codepoint": 57844,
+      "fontFamily": "Pixel",
+      "identifier": "tagSolid"
+    },
+    "tech-companies": {
+      "codepoint": 57845,
+      "fontFamily": "Pixel",
+      "identifier": "techCompanies"
+    },
+    "tech-stories": {
+      "codepoint": 57846,
+      "fontFamily": "Pixel",
+      "identifier": "techStories"
+    },
+    "technology": {
+      "codepoint": 57847,
+      "fontFamily": "Pixel",
+      "identifier": "technology"
+    },
+    "telegram": {
+      "codepoint": 57848,
+      "fontFamily": "Pixel",
+      "identifier": "telegram"
+    },
+    "text-slash": {
+      "codepoint": 57849,
+      "fontFamily": "Pixel",
+      "identifier": "textSlash"
+    },
+    "text-slash-solid": {
+      "codepoint": 57850,
+      "fontFamily": "Pixel",
+      "identifier": "textSlashSolid"
+    },
+    "themes": {
+      "codepoint": 57851,
+      "fontFamily": "Pixel",
+      "identifier": "themes"
+    },
+    "themes-solid": {
+      "codepoint": 57852,
+      "fontFamily": "Pixel",
+      "identifier": "themesSolid"
+    },
+    "threads": {
+      "codepoint": 57853,
+      "fontFamily": "Pixel",
+      "identifier": "threads"
+    },
+    "thumbsdown": {
+      "codepoint": 57854,
+      "fontFamily": "Pixel",
+      "identifier": "thumbsdown"
+    },
+    "thumbsdown-solid": {
+      "codepoint": 57855,
+      "fontFamily": "Pixel",
+      "identifier": "thumbsdownSolid"
+    },
+    "thumbsup": {
+      "codepoint": 57856,
+      "fontFamily": "Pixel",
+      "identifier": "thumbsup"
+    },
+    "thumbsup-solid": {
+      "codepoint": 57857,
+      "fontFamily": "Pixel",
+      "identifier": "thumbsupSolid"
+    },
+    "thumbtack": {
+      "codepoint": 57858,
+      "fontFamily": "Pixel",
+      "identifier": "thumbtack"
+    },
+    "thumbtack-solid": {
+      "codepoint": 57859,
+      "fontFamily": "Pixel",
+      "identifier": "thumbtackSolid"
+    },
+    "tiktok": {
+      "codepoint": 57860,
+      "fontFamily": "Pixel",
+      "identifier": "tiktok"
+    },
+    "times": {
+      "codepoint": 57861,
+      "fontFamily": "Pixel",
+      "identifier": "times"
+    },
+    "times-circle": {
+      "codepoint": 57862,
+      "fontFamily": "Pixel",
+      "identifier": "timesCircle"
+    },
+    "times-circle-solid": {
+      "codepoint": 57863,
+      "fontFamily": "Pixel",
+      "identifier": "timesCircleSolid"
+    },
+    "times-solid": {
+      "codepoint": 57864,
+      "fontFamily": "Pixel",
+      "identifier": "timesSolid"
+    },
+    "times-square": {
+      "codepoint": 57865,
+      "fontFamily": "Pixel",
+      "identifier": "timesSquare"
+    },
+    "times-square-solid": {
+      "codepoint": 57866,
+      "fontFamily": "Pixel",
+      "identifier": "timesSquareSolid"
+    },
+    "translate": {
+      "codepoint": 57867,
+      "fontFamily": "Pixel",
+      "identifier": "translate"
+    },
+    "translate-solid": {
+      "codepoint": 57868,
+      "fontFamily": "Pixel",
+      "identifier": "translateSolid"
+    },
+    "trash": {
+      "codepoint": 57869,
+      "fontFamily": "Pixel",
+      "identifier": "trash"
+    },
+    "trash-alt": {
+      "codepoint": 57870,
+      "fontFamily": "Pixel",
+      "identifier": "trashAlt"
+    },
+    "trash-alt-solid": {
+      "codepoint": 57871,
+      "fontFamily": "Pixel",
+      "identifier": "trashAltSolid"
+    },
+    "trash-solid": {
+      "codepoint": 57872,
+      "fontFamily": "Pixel",
+      "identifier": "trashSolid"
+    },
+    "trending": {
+      "codepoint": 57873,
+      "fontFamily": "Pixel",
+      "identifier": "trending"
+    },
+    "trending-solid": {
+      "codepoint": 57874,
+      "fontFamily": "Pixel",
+      "identifier": "trendingSolid"
+    },
+    "trophy": {
+      "codepoint": 57875,
+      "fontFamily": "Pixel",
+      "identifier": "trophy"
+    },
+    "trophy-solid": {
+      "codepoint": 57876,
+      "fontFamily": "Pixel",
+      "identifier": "trophySolid"
+    },
+    "twitch": {
+      "codepoint": 57877,
+      "fontFamily": "Pixel",
+      "identifier": "twitch"
+    },
+    "twitter": {
+      "codepoint": 57878,
+      "fontFamily": "Pixel",
+      "identifier": "twitter"
+    },
+    "underline": {
+      "codepoint": 57879,
+      "fontFamily": "Pixel",
+      "identifier": "underline"
+    },
+    "underline-solid": {
+      "codepoint": 57880,
+      "fontFamily": "Pixel",
+      "identifier": "underlineSolid"
+    },
+    "unlock": {
+      "codepoint": 57881,
+      "fontFamily": "Pixel",
+      "identifier": "unlock"
+    },
+    "unlock-alt": {
+      "codepoint": 57882,
+      "fontFamily": "Pixel",
+      "identifier": "unlockAlt"
+    },
+    "unlock-alt-solid": {
+      "codepoint": 57883,
+      "fontFamily": "Pixel",
+      "identifier": "unlockAltSolid"
+    },
+    "unlock-solid": {
+      "codepoint": 57884,
+      "fontFamily": "Pixel",
+      "identifier": "unlockSolid"
+    },
+    "unsplash": {
+      "codepoint": 57885,
+      "fontFamily": "Pixel",
+      "identifier": "unsplash"
+    },
+    "upload": {
+      "codepoint": 57886,
+      "fontFamily": "Pixel",
+      "identifier": "upload"
+    },
+    "upload-alt": {
+      "codepoint": 57887,
+      "fontFamily": "Pixel",
+      "identifier": "uploadAlt"
+    },
+    "upload-alt-solid": {
+      "codepoint": 57888,
+      "fontFamily": "Pixel",
+      "identifier": "uploadAltSolid"
+    },
+    "upload-solid": {
+      "codepoint": 57889,
+      "fontFamily": "Pixel",
+      "identifier": "uploadSolid"
+    },
+    "user": {
+      "codepoint": 57890,
+      "fontFamily": "Pixel",
+      "identifier": "user"
+    },
+    "user-check": {
+      "codepoint": 57891,
+      "fontFamily": "Pixel",
+      "identifier": "userCheck"
+    },
+    "user-check-solid": {
+      "codepoint": 57892,
+      "fontFamily": "Pixel",
+      "identifier": "userCheckSolid"
+    },
+    "user-headset": {
+      "codepoint": 57893,
+      "fontFamily": "Pixel",
+      "identifier": "userHeadset"
+    },
+    "user-headset-solid": {
+      "codepoint": 57894,
+      "fontFamily": "Pixel",
+      "identifier": "userHeadsetSolid"
+    },
+    "user-minus": {
+      "codepoint": 57895,
+      "fontFamily": "Pixel",
+      "identifier": "userMinus"
+    },
+    "user-minus-solid": {
+      "codepoint": 57896,
+      "fontFamily": "Pixel",
+      "identifier": "userMinusSolid"
+    },
+    "user-plus": {
+      "codepoint": 57897,
+      "fontFamily": "Pixel",
+      "identifier": "userPlus"
+    },
+    "user-plus-solid": {
+      "codepoint": 57898,
+      "fontFamily": "Pixel",
+      "identifier": "userPlusSolid"
+    },
+    "user-solid": {
+      "codepoint": 57899,
+      "fontFamily": "Pixel",
+      "identifier": "userSolid"
+    },
+    "users": {
+      "codepoint": 57900,
+      "fontFamily": "Pixel",
+      "identifier": "users"
+    },
+    "users-crown": {
+      "codepoint": 57901,
+      "fontFamily": "Pixel",
+      "identifier": "usersCrown"
+    },
+    "users-crown-solid": {
+      "codepoint": 57902,
+      "fontFamily": "Pixel",
+      "identifier": "usersCrownSolid"
+    },
+    "users-solid": {
+      "codepoint": 57903,
+      "fontFamily": "Pixel",
+      "identifier": "usersSolid"
+    },
+    "video-camera": {
+      "codepoint": 57904,
+      "fontFamily": "Pixel",
+      "identifier": "videoCamera"
+    },
+    "video-camera-solid": {
+      "codepoint": 57905,
+      "fontFamily": "Pixel",
+      "identifier": "videoCameraSolid"
+    },
+    "viewblocks": {
+      "codepoint": 57906,
+      "fontFamily": "Pixel",
+      "identifier": "viewblocks"
+    },
+    "vote-yeah": {
+      "codepoint": 57907,
+      "fontFamily": "Pixel",
+      "identifier": "voteYeah"
+    },
+    "vote-yeah-solid": {
+      "codepoint": 57908,
+      "fontFamily": "Pixel",
+      "identifier": "voteYeahSolid"
+    },
+    "wallet": {
+      "codepoint": 57909,
+      "fontFamily": "Pixel",
+      "identifier": "wallet"
+    },
+    "wallet-solid": {
+      "codepoint": 57910,
+      "fontFamily": "Pixel",
+      "identifier": "walletSolid"
+    },
+    "web3": {
+      "codepoint": 57911,
+      "fontFamily": "Pixel",
+      "identifier": "web3"
+    },
+    "wifi": {
+      "codepoint": 57912,
+      "fontFamily": "Pixel",
+      "identifier": "wifi"
+    },
+    "wifi-solid": {
+      "codepoint": 57913,
+      "fontFamily": "Pixel",
+      "identifier": "wifiSolid"
+    },
+    "wikipedia": {
+      "codepoint": 57914,
+      "fontFamily": "Pixel",
+      "identifier": "wikipedia"
+    },
+    "window-close": {
+      "codepoint": 57915,
+      "fontFamily": "Pixel",
+      "identifier": "windowClose"
+    },
+    "window-close-solid": {
+      "codepoint": 57916,
+      "fontFamily": "Pixel",
+      "identifier": "windowCloseSolid"
+    },
+    "window-restore": {
+      "codepoint": 57917,
+      "fontFamily": "Pixel",
+      "identifier": "windowRestore"
+    },
+    "window-restore-solid": {
+      "codepoint": 57918,
+      "fontFamily": "Pixel",
+      "identifier": "windowRestoreSolid"
+    },
+    "writing": {
+      "codepoint": 57919,
+      "fontFamily": "Pixel",
+      "identifier": "writing"
+    },
+    "x": {
+      "codepoint": 57920,
+      "fontFamily": "Pixel",
+      "identifier": "x"
+    },
+    "youtube": {
+      "codepoint": 57921,
+      "fontFamily": "Pixel",
+      "identifier": "youtube"
+    }
+  }
+}

@@ -1,0 +1,3715 @@
+{
+  "schemaVersion": 1,
+  "prefix": "circle-flags",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Flags / Maps",
+  "subPackage": "iconifyx_circle_flags",
+  "info": {
+    "name": "Circle Flags",
+    "author": {
+      "name": "HatScripts",
+      "url": "https://github.com/HatScripts/circle-flags"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE"
+    },
+    "total": 737
+  },
+  "fonts": [
+    {
+      "family": "CircleFlags",
+      "nextCodepoint": 58081,
+      "iconCount": 737
+    }
+  ],
+  "icons": {
+    "aa": {
+      "codepoint": 57344,
+      "fontFamily": "CircleFlags",
+      "identifier": "aa"
+    },
+    "ab": {
+      "codepoint": 57345,
+      "fontFamily": "CircleFlags",
+      "identifier": "ab"
+    },
+    "ac": {
+      "codepoint": 57346,
+      "fontFamily": "CircleFlags",
+      "identifier": "ac"
+    },
+    "ad": {
+      "codepoint": 57347,
+      "fontFamily": "CircleFlags",
+      "identifier": "ad"
+    },
+    "ae": {
+      "codepoint": 57348,
+      "fontFamily": "CircleFlags",
+      "identifier": "ae"
+    },
+    "af": {
+      "codepoint": 57349,
+      "fontFamily": "CircleFlags",
+      "identifier": "af"
+    },
+    "af-emirate": {
+      "codepoint": 57350,
+      "fontFamily": "CircleFlags",
+      "identifier": "afEmirate"
+    },
+    "afar": {
+      "codepoint": 57351,
+      "fontFamily": "CircleFlags",
+      "identifier": "afar"
+    },
+    "ag": {
+      "codepoint": 57352,
+      "fontFamily": "CircleFlags",
+      "identifier": "ag"
+    },
+    "ai": {
+      "codepoint": 57353,
+      "fontFamily": "CircleFlags",
+      "identifier": "ai"
+    },
+    "ak": {
+      "codepoint": 57354,
+      "fontFamily": "CircleFlags",
+      "identifier": "ak"
+    },
+    "al": {
+      "codepoint": 57355,
+      "fontFamily": "CircleFlags",
+      "identifier": "al"
+    },
+    "am": {
+      "codepoint": 57356,
+      "fontFamily": "CircleFlags",
+      "identifier": "am"
+    },
+    "an": {
+      "codepoint": 57357,
+      "fontFamily": "CircleFlags",
+      "identifier": "an"
+    },
+    "ao": {
+      "codepoint": 57358,
+      "fontFamily": "CircleFlags",
+      "identifier": "ao"
+    },
+    "aq": {
+      "codepoint": 57359,
+      "fontFamily": "CircleFlags",
+      "identifier": "aq"
+    },
+    "aq-true-south": {
+      "codepoint": 57360,
+      "fontFamily": "CircleFlags",
+      "identifier": "aqTrueSouth"
+    },
+    "ar": {
+      "codepoint": 57361,
+      "fontFamily": "CircleFlags",
+      "identifier": "ar"
+    },
+    "artsakh": {
+      "codepoint": 57362,
+      "fontFamily": "CircleFlags",
+      "identifier": "artsakh"
+    },
+    "as": {
+      "codepoint": 57363,
+      "fontFamily": "CircleFlags",
+      "identifier": "as_"
+    },
+    "at": {
+      "codepoint": 57364,
+      "fontFamily": "CircleFlags",
+      "identifier": "at"
+    },
+    "au": {
+      "codepoint": 57365,
+      "fontFamily": "CircleFlags",
+      "identifier": "au"
+    },
+    "au-aboriginal": {
+      "codepoint": 57366,
+      "fontFamily": "CircleFlags",
+      "identifier": "auAboriginal"
+    },
+    "au-act": {
+      "codepoint": 57367,
+      "fontFamily": "CircleFlags",
+      "identifier": "auAct"
+    },
+    "au-nsw": {
+      "codepoint": 57368,
+      "fontFamily": "CircleFlags",
+      "identifier": "auNsw"
+    },
+    "au-nt": {
+      "codepoint": 57369,
+      "fontFamily": "CircleFlags",
+      "identifier": "auNt"
+    },
+    "au-qld": {
+      "codepoint": 57370,
+      "fontFamily": "CircleFlags",
+      "identifier": "auQld"
+    },
+    "au-sa": {
+      "codepoint": 57371,
+      "fontFamily": "CircleFlags",
+      "identifier": "auSa"
+    },
+    "au-tas": {
+      "codepoint": 57372,
+      "fontFamily": "CircleFlags",
+      "identifier": "auTas"
+    },
+    "au-torres-strait-islands": {
+      "codepoint": 57373,
+      "fontFamily": "CircleFlags",
+      "identifier": "auTorresStraitIslands"
+    },
+    "au-vic": {
+      "codepoint": 57374,
+      "fontFamily": "CircleFlags",
+      "identifier": "auVic"
+    },
+    "au-wa": {
+      "codepoint": 57375,
+      "fontFamily": "CircleFlags",
+      "identifier": "auWa"
+    },
+    "av": {
+      "codepoint": 57376,
+      "fontFamily": "CircleFlags",
+      "identifier": "av"
+    },
+    "aw": {
+      "codepoint": 57377,
+      "fontFamily": "CircleFlags",
+      "identifier": "aw"
+    },
+    "ax": {
+      "codepoint": 57378,
+      "fontFamily": "CircleFlags",
+      "identifier": "ax"
+    },
+    "ay": {
+      "codepoint": 57379,
+      "fontFamily": "CircleFlags",
+      "identifier": "ay"
+    },
+    "az": {
+      "codepoint": 57380,
+      "fontFamily": "CircleFlags",
+      "identifier": "az"
+    },
+    "ba": {
+      "codepoint": 57381,
+      "fontFamily": "CircleFlags",
+      "identifier": "ba"
+    },
+    "bb": {
+      "codepoint": 57382,
+      "fontFamily": "CircleFlags",
+      "identifier": "bb"
+    },
+    "bd": {
+      "codepoint": 57383,
+      "fontFamily": "CircleFlags",
+      "identifier": "bd"
+    },
+    "be": {
+      "codepoint": 57384,
+      "fontFamily": "CircleFlags",
+      "identifier": "be"
+    },
+    "bf": {
+      "codepoint": 57385,
+      "fontFamily": "CircleFlags",
+      "identifier": "bf"
+    },
+    "bg": {
+      "codepoint": 57386,
+      "fontFamily": "CircleFlags",
+      "identifier": "bg"
+    },
+    "bh": {
+      "codepoint": 57387,
+      "fontFamily": "CircleFlags",
+      "identifier": "bh"
+    },
+    "bi": {
+      "codepoint": 57388,
+      "fontFamily": "CircleFlags",
+      "identifier": "bi"
+    },
+    "bj": {
+      "codepoint": 57389,
+      "fontFamily": "CircleFlags",
+      "identifier": "bj"
+    },
+    "bl": {
+      "codepoint": 57390,
+      "fontFamily": "CircleFlags",
+      "identifier": "bl"
+    },
+    "bm": {
+      "codepoint": 57391,
+      "fontFamily": "CircleFlags",
+      "identifier": "bm"
+    },
+    "bn": {
+      "codepoint": 57392,
+      "fontFamily": "CircleFlags",
+      "identifier": "bn"
+    },
+    "bo": {
+      "codepoint": 57393,
+      "fontFamily": "CircleFlags",
+      "identifier": "bo"
+    },
+    "bq": {
+      "codepoint": 57394,
+      "fontFamily": "CircleFlags",
+      "identifier": "bq"
+    },
+    "bq-bo": {
+      "codepoint": 57395,
+      "fontFamily": "CircleFlags",
+      "identifier": "bqBo"
+    },
+    "bq-sa": {
+      "codepoint": 57396,
+      "fontFamily": "CircleFlags",
+      "identifier": "bqSa"
+    },
+    "bq-se": {
+      "codepoint": 57397,
+      "fontFamily": "CircleFlags",
+      "identifier": "bqSe"
+    },
+    "br": {
+      "codepoint": 57398,
+      "fontFamily": "CircleFlags",
+      "identifier": "br"
+    },
+    "bs": {
+      "codepoint": 57399,
+      "fontFamily": "CircleFlags",
+      "identifier": "bs"
+    },
+    "bt": {
+      "codepoint": 57400,
+      "fontFamily": "CircleFlags",
+      "identifier": "bt"
+    },
+    "bv": {
+      "codepoint": 57401,
+      "fontFamily": "CircleFlags",
+      "identifier": "bv"
+    },
+    "bw": {
+      "codepoint": 57402,
+      "fontFamily": "CircleFlags",
+      "identifier": "bw"
+    },
+    "by": {
+      "codepoint": 57403,
+      "fontFamily": "CircleFlags",
+      "identifier": "by"
+    },
+    "bz": {
+      "codepoint": 57404,
+      "fontFamily": "CircleFlags",
+      "identifier": "bz"
+    },
+    "ca": {
+      "codepoint": 57405,
+      "fontFamily": "CircleFlags",
+      "identifier": "ca"
+    },
+    "ca-bc": {
+      "codepoint": 57406,
+      "fontFamily": "CircleFlags",
+      "identifier": "caBc"
+    },
+    "ca-qc": {
+      "codepoint": 57407,
+      "fontFamily": "CircleFlags",
+      "identifier": "caQc"
+    },
+    "cc": {
+      "codepoint": 57408,
+      "fontFamily": "CircleFlags",
+      "identifier": "cc"
+    },
+    "cd": {
+      "codepoint": 57409,
+      "fontFamily": "CircleFlags",
+      "identifier": "cd"
+    },
+    "ce": {
+      "codepoint": 57410,
+      "fontFamily": "CircleFlags",
+      "identifier": "ce"
+    },
+    "ceb": {
+      "codepoint": 57411,
+      "fontFamily": "CircleFlags",
+      "identifier": "ceb"
+    },
+    "cf": {
+      "codepoint": 57412,
+      "fontFamily": "CircleFlags",
+      "identifier": "cf"
+    },
+    "cg": {
+      "codepoint": 57413,
+      "fontFamily": "CircleFlags",
+      "identifier": "cg"
+    },
+    "ch": {
+      "codepoint": 57414,
+      "fontFamily": "CircleFlags",
+      "identifier": "ch"
+    },
+    "ch-gr": {
+      "codepoint": 57415,
+      "fontFamily": "CircleFlags",
+      "identifier": "chGr"
+    },
+    "checkered": {
+      "codepoint": 57416,
+      "fontFamily": "CircleFlags",
+      "identifier": "checkered"
+    },
+    "chequered": {
+      "codepoint": 57417,
+      "fontFamily": "CircleFlags",
+      "identifier": "chequered"
+    },
+    "chm": {
+      "codepoint": 57418,
+      "fontFamily": "CircleFlags",
+      "identifier": "chm"
+    },
+    "ci": {
+      "codepoint": 57419,
+      "fontFamily": "CircleFlags",
+      "identifier": "ci"
+    },
+    "ck": {
+      "codepoint": 57420,
+      "fontFamily": "CircleFlags",
+      "identifier": "ck"
+    },
+    "ckb": {
+      "codepoint": 57421,
+      "fontFamily": "CircleFlags",
+      "identifier": "ckb"
+    },
+    "cl": {
+      "codepoint": 57422,
+      "fontFamily": "CircleFlags",
+      "identifier": "cl"
+    },
+    "cm": {
+      "codepoint": 57423,
+      "fontFamily": "CircleFlags",
+      "identifier": "cm"
+    },
+    "cn": {
+      "codepoint": 57424,
+      "fontFamily": "CircleFlags",
+      "identifier": "cn"
+    },
+    "cn-hk": {
+      "codepoint": 57425,
+      "fontFamily": "CircleFlags",
+      "identifier": "cnHk"
+    },
+    "cn-xj": {
+      "codepoint": 57426,
+      "fontFamily": "CircleFlags",
+      "identifier": "cnXj"
+    },
+    "co": {
+      "codepoint": 57427,
+      "fontFamily": "CircleFlags",
+      "identifier": "co"
+    },
+    "cp": {
+      "codepoint": 57428,
+      "fontFamily": "CircleFlags",
+      "identifier": "cp"
+    },
+    "cq": {
+      "codepoint": 57429,
+      "fontFamily": "CircleFlags",
+      "identifier": "cq"
+    },
+    "cr": {
+      "codepoint": 57430,
+      "fontFamily": "CircleFlags",
+      "identifier": "cr"
+    },
+    "cs": {
+      "codepoint": 57431,
+      "fontFamily": "CircleFlags",
+      "identifier": "cs"
+    },
+    "cu": {
+      "codepoint": 57432,
+      "fontFamily": "CircleFlags",
+      "identifier": "cu"
+    },
+    "cv": {
+      "codepoint": 57433,
+      "fontFamily": "CircleFlags",
+      "identifier": "cv"
+    },
+    "cw": {
+      "codepoint": 57434,
+      "fontFamily": "CircleFlags",
+      "identifier": "cw"
+    },
+    "cx": {
+      "codepoint": 57435,
+      "fontFamily": "CircleFlags",
+      "identifier": "cx"
+    },
+    "cy": {
+      "codepoint": 57436,
+      "fontFamily": "CircleFlags",
+      "identifier": "cy"
+    },
+    "cz": {
+      "codepoint": 57437,
+      "fontFamily": "CircleFlags",
+      "identifier": "cz"
+    },
+    "da": {
+      "codepoint": 57438,
+      "fontFamily": "CircleFlags",
+      "identifier": "da"
+    },
+    "de": {
+      "codepoint": 57439,
+      "fontFamily": "CircleFlags",
+      "identifier": "de"
+    },
+    "dg": {
+      "codepoint": 57440,
+      "fontFamily": "CircleFlags",
+      "identifier": "dg"
+    },
+    "dj": {
+      "codepoint": 57441,
+      "fontFamily": "CircleFlags",
+      "identifier": "dj"
+    },
+    "dk": {
+      "codepoint": 57442,
+      "fontFamily": "CircleFlags",
+      "identifier": "dk"
+    },
+    "dm": {
+      "codepoint": 57443,
+      "fontFamily": "CircleFlags",
+      "identifier": "dm"
+    },
+    "do": {
+      "codepoint": 57444,
+      "fontFamily": "CircleFlags",
+      "identifier": "do_"
+    },
+    "dv": {
+      "codepoint": 57445,
+      "fontFamily": "CircleFlags",
+      "identifier": "dv"
+    },
+    "dz": {
+      "codepoint": 57446,
+      "fontFamily": "CircleFlags",
+      "identifier": "dz"
+    },
+    "ea": {
+      "codepoint": 57447,
+      "fontFamily": "CircleFlags",
+      "identifier": "ea"
+    },
+    "earth": {
+      "codepoint": 57448,
+      "fontFamily": "CircleFlags",
+      "identifier": "earth"
+    },
+    "east-african-federation": {
+      "codepoint": 57449,
+      "fontFamily": "CircleFlags",
+      "identifier": "eastAfricanFederation"
+    },
+    "easter-island": {
+      "codepoint": 57450,
+      "fontFamily": "CircleFlags",
+      "identifier": "easterIsland"
+    },
+    "ec": {
+      "codepoint": 57451,
+      "fontFamily": "CircleFlags",
+      "identifier": "ec"
+    },
+    "ec-w": {
+      "codepoint": 57452,
+      "fontFamily": "CircleFlags",
+      "identifier": "ecW"
+    },
+    "ee": {
+      "codepoint": 57453,
+      "fontFamily": "CircleFlags",
+      "identifier": "ee"
+    },
+    "eg": {
+      "codepoint": 57454,
+      "fontFamily": "CircleFlags",
+      "identifier": "eg"
+    },
+    "eh": {
+      "codepoint": 57455,
+      "fontFamily": "CircleFlags",
+      "identifier": "eh"
+    },
+    "el": {
+      "codepoint": 57456,
+      "fontFamily": "CircleFlags",
+      "identifier": "el"
+    },
+    "en": {
+      "codepoint": 57457,
+      "fontFamily": "CircleFlags",
+      "identifier": "en"
+    },
+    "en-au": {
+      "codepoint": 57458,
+      "fontFamily": "CircleFlags",
+      "identifier": "enAu"
+    },
+    "en-ca": {
+      "codepoint": 57459,
+      "fontFamily": "CircleFlags",
+      "identifier": "enCa"
+    },
+    "en-gh": {
+      "codepoint": 57460,
+      "fontFamily": "CircleFlags",
+      "identifier": "enGh"
+    },
+    "en-hk": {
+      "codepoint": 57461,
+      "fontFamily": "CircleFlags",
+      "identifier": "enHk"
+    },
+    "en-ie": {
+      "codepoint": 57462,
+      "fontFamily": "CircleFlags",
+      "identifier": "enIe"
+    },
+    "en-in": {
+      "codepoint": 57463,
+      "fontFamily": "CircleFlags",
+      "identifier": "enIn"
+    },
+    "en-ke": {
+      "codepoint": 57464,
+      "fontFamily": "CircleFlags",
+      "identifier": "enKe"
+    },
+    "en-ng": {
+      "codepoint": 57465,
+      "fontFamily": "CircleFlags",
+      "identifier": "enNg"
+    },
+    "en-nz": {
+      "codepoint": 57466,
+      "fontFamily": "CircleFlags",
+      "identifier": "enNz"
+    },
+    "en-ph": {
+      "codepoint": 57467,
+      "fontFamily": "CircleFlags",
+      "identifier": "enPh"
+    },
+    "en-sg": {
+      "codepoint": 57468,
+      "fontFamily": "CircleFlags",
+      "identifier": "enSg"
+    },
+    "en-tz": {
+      "codepoint": 57469,
+      "fontFamily": "CircleFlags",
+      "identifier": "enTz"
+    },
+    "en-us": {
+      "codepoint": 57470,
+      "fontFamily": "CircleFlags",
+      "identifier": "enUs"
+    },
+    "en-za": {
+      "codepoint": 57471,
+      "fontFamily": "CircleFlags",
+      "identifier": "enZa"
+    },
+    "eo": {
+      "codepoint": 57472,
+      "fontFamily": "CircleFlags",
+      "identifier": "eo"
+    },
+    "er": {
+      "codepoint": 57473,
+      "fontFamily": "CircleFlags",
+      "identifier": "er"
+    },
+    "es": {
+      "codepoint": 57474,
+      "fontFamily": "CircleFlags",
+      "identifier": "es"
+    },
+    "es-ar": {
+      "codepoint": 57475,
+      "fontFamily": "CircleFlags",
+      "identifier": "esAr"
+    },
+    "es-ce": {
+      "codepoint": 57476,
+      "fontFamily": "CircleFlags",
+      "identifier": "esCe"
+    },
+    "es-cn": {
+      "codepoint": 57477,
+      "fontFamily": "CircleFlags",
+      "identifier": "esCn"
+    },
+    "es-ct": {
+      "codepoint": 57478,
+      "fontFamily": "CircleFlags",
+      "identifier": "esCt"
+    },
+    "es-ga": {
+      "codepoint": 57479,
+      "fontFamily": "CircleFlags",
+      "identifier": "esGa"
+    },
+    "es-ib": {
+      "codepoint": 57480,
+      "fontFamily": "CircleFlags",
+      "identifier": "esIb"
+    },
+    "es-ml": {
+      "codepoint": 57481,
+      "fontFamily": "CircleFlags",
+      "identifier": "esMl"
+    },
+    "es-mx": {
+      "codepoint": 57482,
+      "fontFamily": "CircleFlags",
+      "identifier": "esMx"
+    },
+    "es-pv": {
+      "codepoint": 57483,
+      "fontFamily": "CircleFlags",
+      "identifier": "esPv"
+    },
+    "es-variant": {
+      "codepoint": 57484,
+      "fontFamily": "CircleFlags",
+      "identifier": "esVariant"
+    },
+    "esperanto": {
+      "codepoint": 57485,
+      "fontFamily": "CircleFlags",
+      "identifier": "esperanto"
+    },
+    "et": {
+      "codepoint": 57486,
+      "fontFamily": "CircleFlags",
+      "identifier": "et"
+    },
+    "et-af": {
+      "codepoint": 57487,
+      "fontFamily": "CircleFlags",
+      "identifier": "etAf"
+    },
+    "et-am": {
+      "codepoint": 57488,
+      "fontFamily": "CircleFlags",
+      "identifier": "etAm"
+    },
+    "et-be": {
+      "codepoint": 57489,
+      "fontFamily": "CircleFlags",
+      "identifier": "etBe"
+    },
+    "et-ga": {
+      "codepoint": 57490,
+      "fontFamily": "CircleFlags",
+      "identifier": "etGa"
+    },
+    "et-ha": {
+      "codepoint": 57491,
+      "fontFamily": "CircleFlags",
+      "identifier": "etHa"
+    },
+    "et-or": {
+      "codepoint": 57492,
+      "fontFamily": "CircleFlags",
+      "identifier": "etOr"
+    },
+    "et-si": {
+      "codepoint": 57493,
+      "fontFamily": "CircleFlags",
+      "identifier": "etSi"
+    },
+    "et-sn": {
+      "codepoint": 57494,
+      "fontFamily": "CircleFlags",
+      "identifier": "etSn"
+    },
+    "et-so": {
+      "codepoint": 57495,
+      "fontFamily": "CircleFlags",
+      "identifier": "etSo"
+    },
+    "et-sw": {
+      "codepoint": 57496,
+      "fontFamily": "CircleFlags",
+      "identifier": "etSw"
+    },
+    "et-ti": {
+      "codepoint": 57497,
+      "fontFamily": "CircleFlags",
+      "identifier": "etTi"
+    },
+    "eu": {
+      "codepoint": 57498,
+      "fontFamily": "CircleFlags",
+      "identifier": "eu"
+    },
+    "european-union": {
+      "codepoint": 57499,
+      "fontFamily": "CircleFlags",
+      "identifier": "europeanUnion"
+    },
+    "ewe": {
+      "codepoint": 57500,
+      "fontFamily": "CircleFlags",
+      "identifier": "ewe"
+    },
+    "fa": {
+      "codepoint": 57501,
+      "fontFamily": "CircleFlags",
+      "identifier": "fa"
+    },
+    "fi": {
+      "codepoint": 57502,
+      "fontFamily": "CircleFlags",
+      "identifier": "fi"
+    },
+    "fil": {
+      "codepoint": 57503,
+      "fontFamily": "CircleFlags",
+      "identifier": "fil"
+    },
+    "fj": {
+      "codepoint": 57504,
+      "fontFamily": "CircleFlags",
+      "identifier": "fj"
+    },
+    "fk": {
+      "codepoint": 57505,
+      "fontFamily": "CircleFlags",
+      "identifier": "fk"
+    },
+    "fm": {
+      "codepoint": 57506,
+      "fontFamily": "CircleFlags",
+      "identifier": "fm"
+    },
+    "fo": {
+      "codepoint": 57507,
+      "fontFamily": "CircleFlags",
+      "identifier": "fo"
+    },
+    "fr": {
+      "codepoint": 57508,
+      "fontFamily": "CircleFlags",
+      "identifier": "fr"
+    },
+    "fr-20r": {
+      "codepoint": 57509,
+      "fontFamily": "CircleFlags",
+      "identifier": "fr20r"
+    },
+    "fr-bre": {
+      "codepoint": 57510,
+      "fontFamily": "CircleFlags",
+      "identifier": "frBre"
+    },
+    "fr-cp": {
+      "codepoint": 57511,
+      "fontFamily": "CircleFlags",
+      "identifier": "frCp"
+    },
+    "fr-h": {
+      "codepoint": 57512,
+      "fontFamily": "CircleFlags",
+      "identifier": "frH"
+    },
+    "fx": {
+      "codepoint": 57513,
+      "fontFamily": "CircleFlags",
+      "identifier": "fx"
+    },
+    "fy": {
+      "codepoint": 57514,
+      "fontFamily": "CircleFlags",
+      "identifier": "fy"
+    },
+    "ga": {
+      "codepoint": 57515,
+      "fontFamily": "CircleFlags",
+      "identifier": "ga"
+    },
+    "gb": {
+      "codepoint": 57516,
+      "fontFamily": "CircleFlags",
+      "identifier": "gb"
+    },
+    "gb-con": {
+      "codepoint": 57517,
+      "fontFamily": "CircleFlags",
+      "identifier": "gbCon"
+    },
+    "gb-eng": {
+      "codepoint": 57518,
+      "fontFamily": "CircleFlags",
+      "identifier": "gbEng"
+    },
+    "gb-nir": {
+      "codepoint": 57519,
+      "fontFamily": "CircleFlags",
+      "identifier": "gbNir"
+    },
+    "gb-ork": {
+      "codepoint": 57520,
+      "fontFamily": "CircleFlags",
+      "identifier": "gbOrk"
+    },
+    "gb-sct": {
+      "codepoint": 57521,
+      "fontFamily": "CircleFlags",
+      "identifier": "gbSct"
+    },
+    "gb-wls": {
+      "codepoint": 57522,
+      "fontFamily": "CircleFlags",
+      "identifier": "gbWls"
+    },
+    "gd": {
+      "codepoint": 57523,
+      "fontFamily": "CircleFlags",
+      "identifier": "gd"
+    },
+    "ge": {
+      "codepoint": 57524,
+      "fontFamily": "CircleFlags",
+      "identifier": "ge"
+    },
+    "ge-ab": {
+      "codepoint": 57525,
+      "fontFamily": "CircleFlags",
+      "identifier": "geAb"
+    },
+    "gf": {
+      "codepoint": 57526,
+      "fontFamily": "CircleFlags",
+      "identifier": "gf"
+    },
+    "gg": {
+      "codepoint": 57527,
+      "fontFamily": "CircleFlags",
+      "identifier": "gg"
+    },
+    "gh": {
+      "codepoint": 57528,
+      "fontFamily": "CircleFlags",
+      "identifier": "gh"
+    },
+    "gi": {
+      "codepoint": 57529,
+      "fontFamily": "CircleFlags",
+      "identifier": "gi"
+    },
+    "gl": {
+      "codepoint": 57530,
+      "fontFamily": "CircleFlags",
+      "identifier": "gl"
+    },
+    "gm": {
+      "codepoint": 57531,
+      "fontFamily": "CircleFlags",
+      "identifier": "gm"
+    },
+    "gn": {
+      "codepoint": 57532,
+      "fontFamily": "CircleFlags",
+      "identifier": "gn"
+    },
+    "gp": {
+      "codepoint": 57533,
+      "fontFamily": "CircleFlags",
+      "identifier": "gp"
+    },
+    "gq": {
+      "codepoint": 57534,
+      "fontFamily": "CircleFlags",
+      "identifier": "gq"
+    },
+    "gr": {
+      "codepoint": 57535,
+      "fontFamily": "CircleFlags",
+      "identifier": "gr"
+    },
+    "gs": {
+      "codepoint": 57536,
+      "fontFamily": "CircleFlags",
+      "identifier": "gs"
+    },
+    "gt": {
+      "codepoint": 57537,
+      "fontFamily": "CircleFlags",
+      "identifier": "gt"
+    },
+    "gu": {
+      "codepoint": 57538,
+      "fontFamily": "CircleFlags",
+      "identifier": "gu"
+    },
+    "guarani": {
+      "codepoint": 57539,
+      "fontFamily": "CircleFlags",
+      "identifier": "guarani"
+    },
+    "gv": {
+      "codepoint": 57540,
+      "fontFamily": "CircleFlags",
+      "identifier": "gv"
+    },
+    "gw": {
+      "codepoint": 57541,
+      "fontFamily": "CircleFlags",
+      "identifier": "gw"
+    },
+    "gy": {
+      "codepoint": 57542,
+      "fontFamily": "CircleFlags",
+      "identifier": "gy"
+    },
+    "ha": {
+      "codepoint": 57543,
+      "fontFamily": "CircleFlags",
+      "identifier": "ha"
+    },
+    "hausa": {
+      "codepoint": 57544,
+      "fontFamily": "CircleFlags",
+      "identifier": "hausa"
+    },
+    "haw": {
+      "codepoint": 57545,
+      "fontFamily": "CircleFlags",
+      "identifier": "haw"
+    },
+    "he": {
+      "codepoint": 57546,
+      "fontFamily": "CircleFlags",
+      "identifier": "he"
+    },
+    "hi": {
+      "codepoint": 57547,
+      "fontFamily": "CircleFlags",
+      "identifier": "hi"
+    },
+    "hk": {
+      "codepoint": 57548,
+      "fontFamily": "CircleFlags",
+      "identifier": "hk"
+    },
+    "hm": {
+      "codepoint": 57549,
+      "fontFamily": "CircleFlags",
+      "identifier": "hm"
+    },
+    "hmn": {
+      "codepoint": 57550,
+      "fontFamily": "CircleFlags",
+      "identifier": "hmn"
+    },
+    "hmong": {
+      "codepoint": 57551,
+      "fontFamily": "CircleFlags",
+      "identifier": "hmong"
+    },
+    "hn": {
+      "codepoint": 57552,
+      "fontFamily": "CircleFlags",
+      "identifier": "hn"
+    },
+    "ho": {
+      "codepoint": 57553,
+      "fontFamily": "CircleFlags",
+      "identifier": "ho"
+    },
+    "hr": {
+      "codepoint": 57554,
+      "fontFamily": "CircleFlags",
+      "identifier": "hr"
+    },
+    "ht": {
+      "codepoint": 57555,
+      "fontFamily": "CircleFlags",
+      "identifier": "ht"
+    },
+    "hu": {
+      "codepoint": 57556,
+      "fontFamily": "CircleFlags",
+      "identifier": "hu"
+    },
+    "hy": {
+      "codepoint": 57557,
+      "fontFamily": "CircleFlags",
+      "identifier": "hy"
+    },
+    "ia": {
+      "codepoint": 57558,
+      "fontFamily": "CircleFlags",
+      "identifier": "ia"
+    },
+    "ic": {
+      "codepoint": 57559,
+      "fontFamily": "CircleFlags",
+      "identifier": "ic"
+    },
+    "id": {
+      "codepoint": 57560,
+      "fontFamily": "CircleFlags",
+      "identifier": "id"
+    },
+    "id-jb": {
+      "codepoint": 57561,
+      "fontFamily": "CircleFlags",
+      "identifier": "idJb"
+    },
+    "id-jt": {
+      "codepoint": 57562,
+      "fontFamily": "CircleFlags",
+      "identifier": "idJt"
+    },
+    "ie": {
+      "codepoint": 57563,
+      "fontFamily": "CircleFlags",
+      "identifier": "ie"
+    },
+    "ig": {
+      "codepoint": 57564,
+      "fontFamily": "CircleFlags",
+      "identifier": "ig"
+    },
+    "il": {
+      "codepoint": 57565,
+      "fontFamily": "CircleFlags",
+      "identifier": "il"
+    },
+    "ilo": {
+      "codepoint": 57566,
+      "fontFamily": "CircleFlags",
+      "identifier": "ilo"
+    },
+    "im": {
+      "codepoint": 57567,
+      "fontFamily": "CircleFlags",
+      "identifier": "im"
+    },
+    "in": {
+      "codepoint": 57568,
+      "fontFamily": "CircleFlags",
+      "identifier": "in_"
+    },
+    "in-as": {
+      "codepoint": 57569,
+      "fontFamily": "CircleFlags",
+      "identifier": "inAs"
+    },
+    "in-gj": {
+      "codepoint": 57570,
+      "fontFamily": "CircleFlags",
+      "identifier": "inGj"
+    },
+    "in-ka": {
+      "codepoint": 57571,
+      "fontFamily": "CircleFlags",
+      "identifier": "inKa"
+    },
+    "in-mn": {
+      "codepoint": 57572,
+      "fontFamily": "CircleFlags",
+      "identifier": "inMn"
+    },
+    "in-mz": {
+      "codepoint": 57573,
+      "fontFamily": "CircleFlags",
+      "identifier": "inMz"
+    },
+    "in-or": {
+      "codepoint": 57574,
+      "fontFamily": "CircleFlags",
+      "identifier": "inOr"
+    },
+    "in-tg": {
+      "codepoint": 57575,
+      "fontFamily": "CircleFlags",
+      "identifier": "inTg"
+    },
+    "in-tn": {
+      "codepoint": 57576,
+      "fontFamily": "CircleFlags",
+      "identifier": "inTn"
+    },
+    "interslavic": {
+      "codepoint": 57577,
+      "fontFamily": "CircleFlags",
+      "identifier": "interslavic"
+    },
+    "io": {
+      "codepoint": 57578,
+      "fontFamily": "CircleFlags",
+      "identifier": "io"
+    },
+    "iq": {
+      "codepoint": 57579,
+      "fontFamily": "CircleFlags",
+      "identifier": "iq"
+    },
+    "iq-kr": {
+      "codepoint": 57580,
+      "fontFamily": "CircleFlags",
+      "identifier": "iqKr"
+    },
+    "ir": {
+      "codepoint": 57581,
+      "fontFamily": "CircleFlags",
+      "identifier": "ir"
+    },
+    "is": {
+      "codepoint": 57582,
+      "fontFamily": "CircleFlags",
+      "identifier": "is_"
+    },
+    "it": {
+      "codepoint": 57583,
+      "fontFamily": "CircleFlags",
+      "identifier": "it"
+    },
+    "it-21": {
+      "codepoint": 57584,
+      "fontFamily": "CircleFlags",
+      "identifier": "it21"
+    },
+    "it-23": {
+      "codepoint": 57585,
+      "fontFamily": "CircleFlags",
+      "identifier": "it23"
+    },
+    "it-25": {
+      "codepoint": 57586,
+      "fontFamily": "CircleFlags",
+      "identifier": "it25"
+    },
+    "it-32": {
+      "codepoint": 57587,
+      "fontFamily": "CircleFlags",
+      "identifier": "it32"
+    },
+    "it-34": {
+      "codepoint": 57588,
+      "fontFamily": "CircleFlags",
+      "identifier": "it34"
+    },
+    "it-36": {
+      "codepoint": 57589,
+      "fontFamily": "CircleFlags",
+      "identifier": "it36"
+    },
+    "it-42": {
+      "codepoint": 57590,
+      "fontFamily": "CircleFlags",
+      "identifier": "it42"
+    },
+    "it-45": {
+      "codepoint": 57591,
+      "fontFamily": "CircleFlags",
+      "identifier": "it45"
+    },
+    "it-52": {
+      "codepoint": 57592,
+      "fontFamily": "CircleFlags",
+      "identifier": "it52"
+    },
+    "it-55": {
+      "codepoint": 57593,
+      "fontFamily": "CircleFlags",
+      "identifier": "it55"
+    },
+    "it-57": {
+      "codepoint": 57594,
+      "fontFamily": "CircleFlags",
+      "identifier": "it57"
+    },
+    "it-62": {
+      "codepoint": 57595,
+      "fontFamily": "CircleFlags",
+      "identifier": "it62"
+    },
+    "it-65": {
+      "codepoint": 57596,
+      "fontFamily": "CircleFlags",
+      "identifier": "it65"
+    },
+    "it-67": {
+      "codepoint": 57597,
+      "fontFamily": "CircleFlags",
+      "identifier": "it67"
+    },
+    "it-72": {
+      "codepoint": 57598,
+      "fontFamily": "CircleFlags",
+      "identifier": "it72"
+    },
+    "it-75": {
+      "codepoint": 57599,
+      "fontFamily": "CircleFlags",
+      "identifier": "it75"
+    },
+    "it-77": {
+      "codepoint": 57600,
+      "fontFamily": "CircleFlags",
+      "identifier": "it77"
+    },
+    "it-78": {
+      "codepoint": 57601,
+      "fontFamily": "CircleFlags",
+      "identifier": "it78"
+    },
+    "it-82": {
+      "codepoint": 57602,
+      "fontFamily": "CircleFlags",
+      "identifier": "it82"
+    },
+    "it-88": {
+      "codepoint": 57603,
+      "fontFamily": "CircleFlags",
+      "identifier": "it88"
+    },
+    "iw": {
+      "codepoint": 57604,
+      "fontFamily": "CircleFlags",
+      "identifier": "iw"
+    },
+    "ja": {
+      "codepoint": 57605,
+      "fontFamily": "CircleFlags",
+      "identifier": "ja"
+    },
+    "je": {
+      "codepoint": 57606,
+      "fontFamily": "CircleFlags",
+      "identifier": "je"
+    },
+    "jm": {
+      "codepoint": 57607,
+      "fontFamily": "CircleFlags",
+      "identifier": "jm"
+    },
+    "jo": {
+      "codepoint": 57608,
+      "fontFamily": "CircleFlags",
+      "identifier": "jo"
+    },
+    "jolly-roger": {
+      "codepoint": 57609,
+      "fontFamily": "CircleFlags",
+      "identifier": "jollyRoger"
+    },
+    "jp": {
+      "codepoint": 57610,
+      "fontFamily": "CircleFlags",
+      "identifier": "jp"
+    },
+    "jv": {
+      "codepoint": 57611,
+      "fontFamily": "CircleFlags",
+      "identifier": "jv"
+    },
+    "ka": {
+      "codepoint": 57612,
+      "fontFamily": "CircleFlags",
+      "identifier": "ka"
+    },
+    "kannada": {
+      "codepoint": 57613,
+      "fontFamily": "CircleFlags",
+      "identifier": "kannada"
+    },
+    "kanuri": {
+      "codepoint": 57614,
+      "fontFamily": "CircleFlags",
+      "identifier": "kanuri"
+    },
+    "ke": {
+      "codepoint": 57615,
+      "fontFamily": "CircleFlags",
+      "identifier": "ke"
+    },
+    "kg": {
+      "codepoint": 57616,
+      "fontFamily": "CircleFlags",
+      "identifier": "kg"
+    },
+    "kh": {
+      "codepoint": 57617,
+      "fontFamily": "CircleFlags",
+      "identifier": "kh"
+    },
+    "ki": {
+      "codepoint": 57618,
+      "fontFamily": "CircleFlags",
+      "identifier": "ki"
+    },
+    "kikuyu": {
+      "codepoint": 57619,
+      "fontFamily": "CircleFlags",
+      "identifier": "kikuyu"
+    },
+    "kk": {
+      "codepoint": 57620,
+      "fontFamily": "CircleFlags",
+      "identifier": "kk"
+    },
+    "kl": {
+      "codepoint": 57621,
+      "fontFamily": "CircleFlags",
+      "identifier": "kl"
+    },
+    "klingon": {
+      "codepoint": 57622,
+      "fontFamily": "CircleFlags",
+      "identifier": "klingon"
+    },
+    "km": {
+      "codepoint": 57623,
+      "fontFamily": "CircleFlags",
+      "identifier": "km"
+    },
+    "kn": {
+      "codepoint": 57624,
+      "fontFamily": "CircleFlags",
+      "identifier": "kn"
+    },
+    "ko": {
+      "codepoint": 57625,
+      "fontFamily": "CircleFlags",
+      "identifier": "ko"
+    },
+    "kongo": {
+      "codepoint": 57626,
+      "fontFamily": "CircleFlags",
+      "identifier": "kongo"
+    },
+    "kp": {
+      "codepoint": 57627,
+      "fontFamily": "CircleFlags",
+      "identifier": "kp"
+    },
+    "kr": {
+      "codepoint": 57628,
+      "fontFamily": "CircleFlags",
+      "identifier": "kr"
+    },
+    "kri": {
+      "codepoint": 57629,
+      "fontFamily": "CircleFlags",
+      "identifier": "kri"
+    },
+    "ks": {
+      "codepoint": 57630,
+      "fontFamily": "CircleFlags",
+      "identifier": "ks"
+    },
+    "ku": {
+      "codepoint": 57631,
+      "fontFamily": "CircleFlags",
+      "identifier": "ku"
+    },
+    "kurdistan": {
+      "codepoint": 57632,
+      "fontFamily": "CircleFlags",
+      "identifier": "kurdistan"
+    },
+    "kv": {
+      "codepoint": 57633,
+      "fontFamily": "CircleFlags",
+      "identifier": "kv"
+    },
+    "kw": {
+      "codepoint": 57634,
+      "fontFamily": "CircleFlags",
+      "identifier": "kw"
+    },
+    "ky": {
+      "codepoint": 57635,
+      "fontFamily": "CircleFlags",
+      "identifier": "ky"
+    },
+    "kz": {
+      "codepoint": 57636,
+      "fontFamily": "CircleFlags",
+      "identifier": "kz"
+    },
+    "la": {
+      "codepoint": 57637,
+      "fontFamily": "CircleFlags",
+      "identifier": "la"
+    },
+    "lang-aa": {
+      "codepoint": 57638,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAa"
+    },
+    "lang-ab": {
+      "codepoint": 57639,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAb"
+    },
+    "lang-af": {
+      "codepoint": 57640,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAf"
+    },
+    "lang-ak": {
+      "codepoint": 57641,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAk"
+    },
+    "lang-am": {
+      "codepoint": 57642,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAm"
+    },
+    "lang-an": {
+      "codepoint": 57643,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAn"
+    },
+    "lang-ar": {
+      "codepoint": 57644,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAr"
+    },
+    "lang-as": {
+      "codepoint": 57645,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAs"
+    },
+    "lang-av": {
+      "codepoint": 57646,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAv"
+    },
+    "lang-ay": {
+      "codepoint": 57647,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAy"
+    },
+    "lang-az": {
+      "codepoint": 57648,
+      "fontFamily": "CircleFlags",
+      "identifier": "langAz"
+    },
+    "lang-ba": {
+      "codepoint": 57649,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBa"
+    },
+    "lang-be": {
+      "codepoint": 57650,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBe"
+    },
+    "lang-bg": {
+      "codepoint": 57651,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBg"
+    },
+    "lang-bi": {
+      "codepoint": 57652,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBi"
+    },
+    "lang-bm": {
+      "codepoint": 57653,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBm"
+    },
+    "lang-bn": {
+      "codepoint": 57654,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBn"
+    },
+    "lang-bo": {
+      "codepoint": 57655,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBo"
+    },
+    "lang-br": {
+      "codepoint": 57656,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBr"
+    },
+    "lang-bs": {
+      "codepoint": 57657,
+      "fontFamily": "CircleFlags",
+      "identifier": "langBs"
+    },
+    "lang-ca": {
+      "codepoint": 57658,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCa"
+    },
+    "lang-ce": {
+      "codepoint": 57659,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCe"
+    },
+    "lang-ceb": {
+      "codepoint": 57660,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCeb"
+    },
+    "lang-ch": {
+      "codepoint": 57661,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCh"
+    },
+    "lang-chm": {
+      "codepoint": 57662,
+      "fontFamily": "CircleFlags",
+      "identifier": "langChm"
+    },
+    "lang-ckb": {
+      "codepoint": 57663,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCkb"
+    },
+    "lang-co": {
+      "codepoint": 57664,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCo"
+    },
+    "lang-cs": {
+      "codepoint": 57665,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCs"
+    },
+    "lang-cv": {
+      "codepoint": 57666,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCv"
+    },
+    "lang-cy": {
+      "codepoint": 57667,
+      "fontFamily": "CircleFlags",
+      "identifier": "langCy"
+    },
+    "lang-da": {
+      "codepoint": 57668,
+      "fontFamily": "CircleFlags",
+      "identifier": "langDa"
+    },
+    "lang-de": {
+      "codepoint": 57669,
+      "fontFamily": "CircleFlags",
+      "identifier": "langDe"
+    },
+    "lang-dv": {
+      "codepoint": 57670,
+      "fontFamily": "CircleFlags",
+      "identifier": "langDv"
+    },
+    "lang-dz": {
+      "codepoint": 57671,
+      "fontFamily": "CircleFlags",
+      "identifier": "langDz"
+    },
+    "lang-ee": {
+      "codepoint": 57672,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEe"
+    },
+    "lang-el": {
+      "codepoint": 57673,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEl"
+    },
+    "lang-en": {
+      "codepoint": 57674,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEn"
+    },
+    "lang-en-au": {
+      "codepoint": 57675,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnAu"
+    },
+    "lang-en-ca": {
+      "codepoint": 57676,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnCa"
+    },
+    "lang-en-gh": {
+      "codepoint": 57677,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnGh"
+    },
+    "lang-en-hk": {
+      "codepoint": 57678,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnHk"
+    },
+    "lang-en-ie": {
+      "codepoint": 57679,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnIe"
+    },
+    "lang-en-in": {
+      "codepoint": 57680,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnIn"
+    },
+    "lang-en-ke": {
+      "codepoint": 57681,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnKe"
+    },
+    "lang-en-ng": {
+      "codepoint": 57682,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnNg"
+    },
+    "lang-en-nz": {
+      "codepoint": 57683,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnNz"
+    },
+    "lang-en-ph": {
+      "codepoint": 57684,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnPh"
+    },
+    "lang-en-sg": {
+      "codepoint": 57685,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnSg"
+    },
+    "lang-en-tz": {
+      "codepoint": 57686,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnTz"
+    },
+    "lang-en-us": {
+      "codepoint": 57687,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnUs"
+    },
+    "lang-en-za": {
+      "codepoint": 57688,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEnZa"
+    },
+    "lang-eo": {
+      "codepoint": 57689,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEo"
+    },
+    "lang-es": {
+      "codepoint": 57690,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEs"
+    },
+    "lang-es-mx": {
+      "codepoint": 57691,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEsMx"
+    },
+    "lang-et": {
+      "codepoint": 57692,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEt"
+    },
+    "lang-eu": {
+      "codepoint": 57693,
+      "fontFamily": "CircleFlags",
+      "identifier": "langEu"
+    },
+    "lang-fa": {
+      "codepoint": 57694,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFa"
+    },
+    "lang-fi": {
+      "codepoint": 57695,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFi"
+    },
+    "lang-fil": {
+      "codepoint": 57696,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFil"
+    },
+    "lang-fj": {
+      "codepoint": 57697,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFj"
+    },
+    "lang-fo": {
+      "codepoint": 57698,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFo"
+    },
+    "lang-fr": {
+      "codepoint": 57699,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFr"
+    },
+    "lang-fy": {
+      "codepoint": 57700,
+      "fontFamily": "CircleFlags",
+      "identifier": "langFy"
+    },
+    "lang-ga": {
+      "codepoint": 57701,
+      "fontFamily": "CircleFlags",
+      "identifier": "langGa"
+    },
+    "lang-gd": {
+      "codepoint": 57702,
+      "fontFamily": "CircleFlags",
+      "identifier": "langGd"
+    },
+    "lang-gl": {
+      "codepoint": 57703,
+      "fontFamily": "CircleFlags",
+      "identifier": "langGl"
+    },
+    "lang-gn": {
+      "codepoint": 57704,
+      "fontFamily": "CircleFlags",
+      "identifier": "langGn"
+    },
+    "lang-gu": {
+      "codepoint": 57705,
+      "fontFamily": "CircleFlags",
+      "identifier": "langGu"
+    },
+    "lang-gv": {
+      "codepoint": 57706,
+      "fontFamily": "CircleFlags",
+      "identifier": "langGv"
+    },
+    "lang-ha": {
+      "codepoint": 57707,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHa"
+    },
+    "lang-haw": {
+      "codepoint": 57708,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHaw"
+    },
+    "lang-he": {
+      "codepoint": 57709,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHe"
+    },
+    "lang-hi": {
+      "codepoint": 57710,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHi"
+    },
+    "lang-hmn": {
+      "codepoint": 57711,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHmn"
+    },
+    "lang-ho": {
+      "codepoint": 57712,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHo"
+    },
+    "lang-hr": {
+      "codepoint": 57713,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHr"
+    },
+    "lang-ht": {
+      "codepoint": 57714,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHt"
+    },
+    "lang-hu": {
+      "codepoint": 57715,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHu"
+    },
+    "lang-hy": {
+      "codepoint": 57716,
+      "fontFamily": "CircleFlags",
+      "identifier": "langHy"
+    },
+    "lang-ia": {
+      "codepoint": 57717,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIa"
+    },
+    "lang-id": {
+      "codepoint": 57718,
+      "fontFamily": "CircleFlags",
+      "identifier": "langId"
+    },
+    "lang-ie": {
+      "codepoint": 57719,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIe"
+    },
+    "lang-ig": {
+      "codepoint": 57720,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIg"
+    },
+    "lang-ilo": {
+      "codepoint": 57721,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIlo"
+    },
+    "lang-interslavic": {
+      "codepoint": 57722,
+      "fontFamily": "CircleFlags",
+      "identifier": "langInterslavic"
+    },
+    "lang-io": {
+      "codepoint": 57723,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIo"
+    },
+    "lang-is": {
+      "codepoint": 57724,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIs"
+    },
+    "lang-it": {
+      "codepoint": 57725,
+      "fontFamily": "CircleFlags",
+      "identifier": "langIt"
+    },
+    "lang-ja": {
+      "codepoint": 57726,
+      "fontFamily": "CircleFlags",
+      "identifier": "langJa"
+    },
+    "lang-jv": {
+      "codepoint": 57727,
+      "fontFamily": "CircleFlags",
+      "identifier": "langJv"
+    },
+    "lang-ka": {
+      "codepoint": 57728,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKa"
+    },
+    "lang-kg": {
+      "codepoint": 57729,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKg"
+    },
+    "lang-ki": {
+      "codepoint": 57730,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKi"
+    },
+    "lang-kk": {
+      "codepoint": 57731,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKk"
+    },
+    "lang-kl": {
+      "codepoint": 57732,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKl"
+    },
+    "lang-km": {
+      "codepoint": 57733,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKm"
+    },
+    "lang-kn": {
+      "codepoint": 57734,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKn"
+    },
+    "lang-ko": {
+      "codepoint": 57735,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKo"
+    },
+    "lang-kr": {
+      "codepoint": 57736,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKr"
+    },
+    "lang-kri": {
+      "codepoint": 57737,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKri"
+    },
+    "lang-ks": {
+      "codepoint": 57738,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKs"
+    },
+    "lang-ku": {
+      "codepoint": 57739,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKu"
+    },
+    "lang-kv": {
+      "codepoint": 57740,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKv"
+    },
+    "lang-kw": {
+      "codepoint": 57741,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKw"
+    },
+    "lang-ky": {
+      "codepoint": 57742,
+      "fontFamily": "CircleFlags",
+      "identifier": "langKy"
+    },
+    "lang-la": {
+      "codepoint": 57743,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLa"
+    },
+    "lang-lb": {
+      "codepoint": 57744,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLb"
+    },
+    "lang-lg": {
+      "codepoint": 57745,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLg"
+    },
+    "lang-ln": {
+      "codepoint": 57746,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLn"
+    },
+    "lang-lo": {
+      "codepoint": 57747,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLo"
+    },
+    "lang-lt": {
+      "codepoint": 57748,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLt"
+    },
+    "lang-lu": {
+      "codepoint": 57749,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLu"
+    },
+    "lang-lus": {
+      "codepoint": 57750,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLus"
+    },
+    "lang-lv": {
+      "codepoint": 57751,
+      "fontFamily": "CircleFlags",
+      "identifier": "langLv"
+    },
+    "lang-mg": {
+      "codepoint": 57752,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMg"
+    },
+    "lang-mh": {
+      "codepoint": 57753,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMh"
+    },
+    "lang-mi": {
+      "codepoint": 57754,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMi"
+    },
+    "lang-mk": {
+      "codepoint": 57755,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMk"
+    },
+    "lang-ml": {
+      "codepoint": 57756,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMl"
+    },
+    "lang-mn": {
+      "codepoint": 57757,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMn"
+    },
+    "lang-mni": {
+      "codepoint": 57758,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMni"
+    },
+    "lang-mr": {
+      "codepoint": 57759,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMr"
+    },
+    "lang-mrj": {
+      "codepoint": 57760,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMrj"
+    },
+    "lang-ms": {
+      "codepoint": 57761,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMs"
+    },
+    "lang-mt": {
+      "codepoint": 57762,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMt"
+    },
+    "lang-my": {
+      "codepoint": 57763,
+      "fontFamily": "CircleFlags",
+      "identifier": "langMy"
+    },
+    "lang-na": {
+      "codepoint": 57764,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNa"
+    },
+    "lang-nb": {
+      "codepoint": 57765,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNb"
+    },
+    "lang-nd": {
+      "codepoint": 57766,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNd"
+    },
+    "lang-ne": {
+      "codepoint": 57767,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNe"
+    },
+    "lang-nl": {
+      "codepoint": 57768,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNl"
+    },
+    "lang-nn": {
+      "codepoint": 57769,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNn"
+    },
+    "lang-no": {
+      "codepoint": 57770,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNo"
+    },
+    "lang-non": {
+      "codepoint": 57771,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNon"
+    },
+    "lang-nr": {
+      "codepoint": 57772,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNr"
+    },
+    "lang-ny": {
+      "codepoint": 57773,
+      "fontFamily": "CircleFlags",
+      "identifier": "langNy"
+    },
+    "lang-oc": {
+      "codepoint": 57774,
+      "fontFamily": "CircleFlags",
+      "identifier": "langOc"
+    },
+    "lang-om": {
+      "codepoint": 57775,
+      "fontFamily": "CircleFlags",
+      "identifier": "langOm"
+    },
+    "lang-or": {
+      "codepoint": 57776,
+      "fontFamily": "CircleFlags",
+      "identifier": "langOr"
+    },
+    "lang-os": {
+      "codepoint": 57777,
+      "fontFamily": "CircleFlags",
+      "identifier": "langOs"
+    },
+    "lang-oto": {
+      "codepoint": 57778,
+      "fontFamily": "CircleFlags",
+      "identifier": "langOto"
+    },
+    "lang-pa": {
+      "codepoint": 57779,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPa"
+    },
+    "lang-pap": {
+      "codepoint": 57780,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPap"
+    },
+    "lang-pl": {
+      "codepoint": 57781,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPl"
+    },
+    "lang-pms": {
+      "codepoint": 57782,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPms"
+    },
+    "lang-ps": {
+      "codepoint": 57783,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPs"
+    },
+    "lang-pt": {
+      "codepoint": 57784,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPt"
+    },
+    "lang-pt-br": {
+      "codepoint": 57785,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPtBr"
+    },
+    "lang-qu": {
+      "codepoint": 57786,
+      "fontFamily": "CircleFlags",
+      "identifier": "langQu"
+    },
+    "lang-rm": {
+      "codepoint": 57787,
+      "fontFamily": "CircleFlags",
+      "identifier": "langRm"
+    },
+    "lang-rn": {
+      "codepoint": 57788,
+      "fontFamily": "CircleFlags",
+      "identifier": "langRn"
+    },
+    "lang-ro": {
+      "codepoint": 57789,
+      "fontFamily": "CircleFlags",
+      "identifier": "langRo"
+    },
+    "lang-ru": {
+      "codepoint": 57790,
+      "fontFamily": "CircleFlags",
+      "identifier": "langRu"
+    },
+    "lang-rw": {
+      "codepoint": 57791,
+      "fontFamily": "CircleFlags",
+      "identifier": "langRw"
+    },
+    "lang-sc": {
+      "codepoint": 57792,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSc"
+    },
+    "lang-sd": {
+      "codepoint": 57793,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSd"
+    },
+    "lang-se": {
+      "codepoint": 57794,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSe"
+    },
+    "lang-sg": {
+      "codepoint": 57795,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSg"
+    },
+    "lang-si": {
+      "codepoint": 57796,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSi"
+    },
+    "lang-sk": {
+      "codepoint": 57797,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSk"
+    },
+    "lang-sl": {
+      "codepoint": 57798,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSl"
+    },
+    "lang-sm": {
+      "codepoint": 57799,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSm"
+    },
+    "lang-sn": {
+      "codepoint": 57800,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSn"
+    },
+    "lang-so": {
+      "codepoint": 57801,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSo"
+    },
+    "lang-sq": {
+      "codepoint": 57802,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSq"
+    },
+    "lang-sr": {
+      "codepoint": 57803,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSr"
+    },
+    "lang-ss": {
+      "codepoint": 57804,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSs"
+    },
+    "lang-st": {
+      "codepoint": 57805,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSt"
+    },
+    "lang-su": {
+      "codepoint": 57806,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSu"
+    },
+    "lang-sv": {
+      "codepoint": 57807,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSv"
+    },
+    "lang-sw": {
+      "codepoint": 57808,
+      "fontFamily": "CircleFlags",
+      "identifier": "langSw"
+    },
+    "lang-ta": {
+      "codepoint": 57809,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTa"
+    },
+    "lang-te": {
+      "codepoint": 57810,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTe"
+    },
+    "lang-tg": {
+      "codepoint": 57811,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTg"
+    },
+    "lang-th": {
+      "codepoint": 57812,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTh"
+    },
+    "lang-ti": {
+      "codepoint": 57813,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTi"
+    },
+    "lang-tk": {
+      "codepoint": 57814,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTk"
+    },
+    "lang-tl": {
+      "codepoint": 57815,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTl"
+    },
+    "lang-tn": {
+      "codepoint": 57816,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTn"
+    },
+    "lang-to": {
+      "codepoint": 57817,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTo"
+    },
+    "lang-tr": {
+      "codepoint": 57818,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTr"
+    },
+    "lang-translingual": {
+      "codepoint": 57819,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTranslingual"
+    },
+    "lang-tt": {
+      "codepoint": 57820,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTt"
+    },
+    "lang-ty": {
+      "codepoint": 57821,
+      "fontFamily": "CircleFlags",
+      "identifier": "langTy"
+    },
+    "lang-udm": {
+      "codepoint": 57822,
+      "fontFamily": "CircleFlags",
+      "identifier": "langUdm"
+    },
+    "lang-ug": {
+      "codepoint": 57823,
+      "fontFamily": "CircleFlags",
+      "identifier": "langUg"
+    },
+    "lang-uk": {
+      "codepoint": 57824,
+      "fontFamily": "CircleFlags",
+      "identifier": "langUk"
+    },
+    "lang-ur": {
+      "codepoint": 57825,
+      "fontFamily": "CircleFlags",
+      "identifier": "langUr"
+    },
+    "lang-uz": {
+      "codepoint": 57826,
+      "fontFamily": "CircleFlags",
+      "identifier": "langUz"
+    },
+    "lang-vi": {
+      "codepoint": 57827,
+      "fontFamily": "CircleFlags",
+      "identifier": "langVi"
+    },
+    "lang-vo": {
+      "codepoint": 57828,
+      "fontFamily": "CircleFlags",
+      "identifier": "langVo"
+    },
+    "lang-xh": {
+      "codepoint": 57829,
+      "fontFamily": "CircleFlags",
+      "identifier": "langXh"
+    },
+    "lang-xx": {
+      "codepoint": 57830,
+      "fontFamily": "CircleFlags",
+      "identifier": "langXx"
+    },
+    "lang-yi": {
+      "codepoint": 57831,
+      "fontFamily": "CircleFlags",
+      "identifier": "langYi"
+    },
+    "lang-yo": {
+      "codepoint": 57832,
+      "fontFamily": "CircleFlags",
+      "identifier": "langYo"
+    },
+    "lang-yua": {
+      "codepoint": 57833,
+      "fontFamily": "CircleFlags",
+      "identifier": "langYua"
+    },
+    "lang-zh": {
+      "codepoint": 57834,
+      "fontFamily": "CircleFlags",
+      "identifier": "langZh"
+    },
+    "lang-zu": {
+      "codepoint": 57835,
+      "fontFamily": "CircleFlags",
+      "identifier": "langZu"
+    },
+    "lb": {
+      "codepoint": 57836,
+      "fontFamily": "CircleFlags",
+      "identifier": "lb"
+    },
+    "lc": {
+      "codepoint": 57837,
+      "fontFamily": "CircleFlags",
+      "identifier": "lc"
+    },
+    "lg": {
+      "codepoint": 57838,
+      "fontFamily": "CircleFlags",
+      "identifier": "lg"
+    },
+    "lgbt": {
+      "codepoint": 57839,
+      "fontFamily": "CircleFlags",
+      "identifier": "lgbt"
+    },
+    "lgbt-progress": {
+      "codepoint": 57840,
+      "fontFamily": "CircleFlags",
+      "identifier": "lgbtProgress"
+    },
+    "lgbt-transgender": {
+      "codepoint": 57841,
+      "fontFamily": "CircleFlags",
+      "identifier": "lgbtTransgender"
+    },
+    "li": {
+      "codepoint": 57842,
+      "fontFamily": "CircleFlags",
+      "identifier": "li"
+    },
+    "lk": {
+      "codepoint": 57843,
+      "fontFamily": "CircleFlags",
+      "identifier": "lk"
+    },
+    "ln": {
+      "codepoint": 57844,
+      "fontFamily": "CircleFlags",
+      "identifier": "ln"
+    },
+    "lo": {
+      "codepoint": 57845,
+      "fontFamily": "CircleFlags",
+      "identifier": "lo"
+    },
+    "lr": {
+      "codepoint": 57846,
+      "fontFamily": "CircleFlags",
+      "identifier": "lr"
+    },
+    "ls": {
+      "codepoint": 57847,
+      "fontFamily": "CircleFlags",
+      "identifier": "ls"
+    },
+    "lt": {
+      "codepoint": 57848,
+      "fontFamily": "CircleFlags",
+      "identifier": "lt"
+    },
+    "lu": {
+      "codepoint": 57849,
+      "fontFamily": "CircleFlags",
+      "identifier": "lu"
+    },
+    "lus": {
+      "codepoint": 57850,
+      "fontFamily": "CircleFlags",
+      "identifier": "lus"
+    },
+    "lv": {
+      "codepoint": 57851,
+      "fontFamily": "CircleFlags",
+      "identifier": "lv"
+    },
+    "ly": {
+      "codepoint": 57852,
+      "fontFamily": "CircleFlags",
+      "identifier": "ly"
+    },
+    "ma": {
+      "codepoint": 57853,
+      "fontFamily": "CircleFlags",
+      "identifier": "ma"
+    },
+    "malayali": {
+      "codepoint": 57854,
+      "fontFamily": "CircleFlags",
+      "identifier": "malayali"
+    },
+    "manipur": {
+      "codepoint": 57855,
+      "fontFamily": "CircleFlags",
+      "identifier": "manipur"
+    },
+    "maori": {
+      "codepoint": 57856,
+      "fontFamily": "CircleFlags",
+      "identifier": "maori"
+    },
+    "mars": {
+      "codepoint": 57857,
+      "fontFamily": "CircleFlags",
+      "identifier": "mars"
+    },
+    "mc": {
+      "codepoint": 57858,
+      "fontFamily": "CircleFlags",
+      "identifier": "mc"
+    },
+    "md": {
+      "codepoint": 57859,
+      "fontFamily": "CircleFlags",
+      "identifier": "md"
+    },
+    "me": {
+      "codepoint": 57860,
+      "fontFamily": "CircleFlags",
+      "identifier": "me"
+    },
+    "mf": {
+      "codepoint": 57861,
+      "fontFamily": "CircleFlags",
+      "identifier": "mf"
+    },
+    "mg": {
+      "codepoint": 57862,
+      "fontFamily": "CircleFlags",
+      "identifier": "mg"
+    },
+    "mh": {
+      "codepoint": 57863,
+      "fontFamily": "CircleFlags",
+      "identifier": "mh"
+    },
+    "mi": {
+      "codepoint": 57864,
+      "fontFamily": "CircleFlags",
+      "identifier": "mi"
+    },
+    "mizoram": {
+      "codepoint": 57865,
+      "fontFamily": "CircleFlags",
+      "identifier": "mizoram"
+    },
+    "mk": {
+      "codepoint": 57866,
+      "fontFamily": "CircleFlags",
+      "identifier": "mk"
+    },
+    "ml": {
+      "codepoint": 57867,
+      "fontFamily": "CircleFlags",
+      "identifier": "ml"
+    },
+    "mm": {
+      "codepoint": 57868,
+      "fontFamily": "CircleFlags",
+      "identifier": "mm"
+    },
+    "mn": {
+      "codepoint": 57869,
+      "fontFamily": "CircleFlags",
+      "identifier": "mn"
+    },
+    "mni": {
+      "codepoint": 57870,
+      "fontFamily": "CircleFlags",
+      "identifier": "mni"
+    },
+    "mo": {
+      "codepoint": 57871,
+      "fontFamily": "CircleFlags",
+      "identifier": "mo"
+    },
+    "mp": {
+      "codepoint": 57872,
+      "fontFamily": "CircleFlags",
+      "identifier": "mp"
+    },
+    "mq": {
+      "codepoint": 57873,
+      "fontFamily": "CircleFlags",
+      "identifier": "mq"
+    },
+    "mq-old": {
+      "codepoint": 57874,
+      "fontFamily": "CircleFlags",
+      "identifier": "mqOld"
+    },
+    "mr": {
+      "codepoint": 57875,
+      "fontFamily": "CircleFlags",
+      "identifier": "mr"
+    },
+    "mrj": {
+      "codepoint": 57876,
+      "fontFamily": "CircleFlags",
+      "identifier": "mrj"
+    },
+    "ms": {
+      "codepoint": 57877,
+      "fontFamily": "CircleFlags",
+      "identifier": "ms"
+    },
+    "mt": {
+      "codepoint": 57878,
+      "fontFamily": "CircleFlags",
+      "identifier": "mt"
+    },
+    "mu": {
+      "codepoint": 57879,
+      "fontFamily": "CircleFlags",
+      "identifier": "mu"
+    },
+    "mv": {
+      "codepoint": 57880,
+      "fontFamily": "CircleFlags",
+      "identifier": "mv"
+    },
+    "mw": {
+      "codepoint": 57881,
+      "fontFamily": "CircleFlags",
+      "identifier": "mw"
+    },
+    "mx": {
+      "codepoint": 57882,
+      "fontFamily": "CircleFlags",
+      "identifier": "mx"
+    },
+    "my": {
+      "codepoint": 57883,
+      "fontFamily": "CircleFlags",
+      "identifier": "my"
+    },
+    "mz": {
+      "codepoint": 57884,
+      "fontFamily": "CircleFlags",
+      "identifier": "mz"
+    },
+    "na": {
+      "codepoint": 57885,
+      "fontFamily": "CircleFlags",
+      "identifier": "na"
+    },
+    "nato": {
+      "codepoint": 57886,
+      "fontFamily": "CircleFlags",
+      "identifier": "nato"
+    },
+    "nb": {
+      "codepoint": 57887,
+      "fontFamily": "CircleFlags",
+      "identifier": "nb"
+    },
+    "nc": {
+      "codepoint": 57888,
+      "fontFamily": "CircleFlags",
+      "identifier": "nc"
+    },
+    "nd": {
+      "codepoint": 57889,
+      "fontFamily": "CircleFlags",
+      "identifier": "nd"
+    },
+    "ne": {
+      "codepoint": 57890,
+      "fontFamily": "CircleFlags",
+      "identifier": "ne"
+    },
+    "nf": {
+      "codepoint": 57891,
+      "fontFamily": "CircleFlags",
+      "identifier": "nf"
+    },
+    "ng": {
+      "codepoint": 57892,
+      "fontFamily": "CircleFlags",
+      "identifier": "ng"
+    },
+    "ni": {
+      "codepoint": 57893,
+      "fontFamily": "CircleFlags",
+      "identifier": "ni"
+    },
+    "nl": {
+      "codepoint": 57894,
+      "fontFamily": "CircleFlags",
+      "identifier": "nl"
+    },
+    "nl-fr": {
+      "codepoint": 57895,
+      "fontFamily": "CircleFlags",
+      "identifier": "nlFr"
+    },
+    "nn": {
+      "codepoint": 57896,
+      "fontFamily": "CircleFlags",
+      "identifier": "nn"
+    },
+    "no": {
+      "codepoint": 57897,
+      "fontFamily": "CircleFlags",
+      "identifier": "no"
+    },
+    "non": {
+      "codepoint": 57898,
+      "fontFamily": "CircleFlags",
+      "identifier": "non"
+    },
+    "northern-cyprus": {
+      "codepoint": 57899,
+      "fontFamily": "CircleFlags",
+      "identifier": "northernCyprus"
+    },
+    "np": {
+      "codepoint": 57900,
+      "fontFamily": "CircleFlags",
+      "identifier": "np"
+    },
+    "nr": {
+      "codepoint": 57901,
+      "fontFamily": "CircleFlags",
+      "identifier": "nr"
+    },
+    "nu": {
+      "codepoint": 57902,
+      "fontFamily": "CircleFlags",
+      "identifier": "nu"
+    },
+    "ny": {
+      "codepoint": 57903,
+      "fontFamily": "CircleFlags",
+      "identifier": "ny"
+    },
+    "nz": {
+      "codepoint": 57904,
+      "fontFamily": "CircleFlags",
+      "identifier": "nz"
+    },
+    "oc": {
+      "codepoint": 57905,
+      "fontFamily": "CircleFlags",
+      "identifier": "oc"
+    },
+    "occitania": {
+      "codepoint": 57906,
+      "fontFamily": "CircleFlags",
+      "identifier": "occitania"
+    },
+    "olympics": {
+      "codepoint": 57907,
+      "fontFamily": "CircleFlags",
+      "identifier": "olympics"
+    },
+    "om": {
+      "codepoint": 57908,
+      "fontFamily": "CircleFlags",
+      "identifier": "om"
+    },
+    "or": {
+      "codepoint": 57909,
+      "fontFamily": "CircleFlags",
+      "identifier": "or"
+    },
+    "os": {
+      "codepoint": 57910,
+      "fontFamily": "CircleFlags",
+      "identifier": "os"
+    },
+    "oto": {
+      "codepoint": 57911,
+      "fontFamily": "CircleFlags",
+      "identifier": "oto"
+    },
+    "otomi": {
+      "codepoint": 57912,
+      "fontFamily": "CircleFlags",
+      "identifier": "otomi"
+    },
+    "pa": {
+      "codepoint": 57913,
+      "fontFamily": "CircleFlags",
+      "identifier": "pa"
+    },
+    "pap": {
+      "codepoint": 57914,
+      "fontFamily": "CircleFlags",
+      "identifier": "pap"
+    },
+    "pe": {
+      "codepoint": 57915,
+      "fontFamily": "CircleFlags",
+      "identifier": "pe"
+    },
+    "pf": {
+      "codepoint": 57916,
+      "fontFamily": "CircleFlags",
+      "identifier": "pf"
+    },
+    "pg": {
+      "codepoint": 57917,
+      "fontFamily": "CircleFlags",
+      "identifier": "pg"
+    },
+    "ph": {
+      "codepoint": 57918,
+      "fontFamily": "CircleFlags",
+      "identifier": "ph"
+    },
+    "pirate": {
+      "codepoint": 57919,
+      "fontFamily": "CircleFlags",
+      "identifier": "pirate"
+    },
+    "pk": {
+      "codepoint": 57920,
+      "fontFamily": "CircleFlags",
+      "identifier": "pk"
+    },
+    "pk-jk": {
+      "codepoint": 57921,
+      "fontFamily": "CircleFlags",
+      "identifier": "pkJk"
+    },
+    "pk-sd": {
+      "codepoint": 57922,
+      "fontFamily": "CircleFlags",
+      "identifier": "pkSd"
+    },
+    "pl": {
+      "codepoint": 57923,
+      "fontFamily": "CircleFlags",
+      "identifier": "pl"
+    },
+    "pm": {
+      "codepoint": 57924,
+      "fontFamily": "CircleFlags",
+      "identifier": "pm"
+    },
+    "pms": {
+      "codepoint": 57925,
+      "fontFamily": "CircleFlags",
+      "identifier": "pms"
+    },
+    "pn": {
+      "codepoint": 57926,
+      "fontFamily": "CircleFlags",
+      "identifier": "pn"
+    },
+    "pr": {
+      "codepoint": 57927,
+      "fontFamily": "CircleFlags",
+      "identifier": "pr"
+    },
+    "ps": {
+      "codepoint": 57928,
+      "fontFamily": "CircleFlags",
+      "identifier": "ps"
+    },
+    "pt": {
+      "codepoint": 57929,
+      "fontFamily": "CircleFlags",
+      "identifier": "pt"
+    },
+    "pt-20": {
+      "codepoint": 57930,
+      "fontFamily": "CircleFlags",
+      "identifier": "pt20"
+    },
+    "pt-30": {
+      "codepoint": 57931,
+      "fontFamily": "CircleFlags",
+      "identifier": "pt30"
+    },
+    "pt-br": {
+      "codepoint": 57932,
+      "fontFamily": "CircleFlags",
+      "identifier": "ptBr"
+    },
+    "pw": {
+      "codepoint": 57933,
+      "fontFamily": "CircleFlags",
+      "identifier": "pw"
+    },
+    "py": {
+      "codepoint": 57934,
+      "fontFamily": "CircleFlags",
+      "identifier": "py"
+    },
+    "qa": {
+      "codepoint": 57935,
+      "fontFamily": "CircleFlags",
+      "identifier": "qa"
+    },
+    "qu": {
+      "codepoint": 57936,
+      "fontFamily": "CircleFlags",
+      "identifier": "qu"
+    },
+    "quechua": {
+      "codepoint": 57937,
+      "fontFamily": "CircleFlags",
+      "identifier": "quechua"
+    },
+    "re": {
+      "codepoint": 57938,
+      "fontFamily": "CircleFlags",
+      "identifier": "re"
+    },
+    "rm": {
+      "codepoint": 57939,
+      "fontFamily": "CircleFlags",
+      "identifier": "rm"
+    },
+    "rn": {
+      "codepoint": 57940,
+      "fontFamily": "CircleFlags",
+      "identifier": "rn"
+    },
+    "ro": {
+      "codepoint": 57941,
+      "fontFamily": "CircleFlags",
+      "identifier": "ro"
+    },
+    "rs": {
+      "codepoint": 57942,
+      "fontFamily": "CircleFlags",
+      "identifier": "rs"
+    },
+    "ru": {
+      "codepoint": 57943,
+      "fontFamily": "CircleFlags",
+      "identifier": "ru"
+    },
+    "ru-ba": {
+      "codepoint": 57944,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruBa"
+    },
+    "ru-ce": {
+      "codepoint": 57945,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruCe"
+    },
+    "ru-cu": {
+      "codepoint": 57946,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruCu"
+    },
+    "ru-da": {
+      "codepoint": 57947,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruDa"
+    },
+    "ru-dpr": {
+      "codepoint": 57948,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruDpr"
+    },
+    "ru-ko": {
+      "codepoint": 57949,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruKo"
+    },
+    "ru-lpr": {
+      "codepoint": 57950,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruLpr"
+    },
+    "ru-ta": {
+      "codepoint": 57951,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruTa"
+    },
+    "ru-ud": {
+      "codepoint": 57952,
+      "fontFamily": "CircleFlags",
+      "identifier": "ruUd"
+    },
+    "rw": {
+      "codepoint": 57953,
+      "fontFamily": "CircleFlags",
+      "identifier": "rw"
+    },
+    "sa": {
+      "codepoint": 57954,
+      "fontFamily": "CircleFlags",
+      "identifier": "sa"
+    },
+    "sami": {
+      "codepoint": 57955,
+      "fontFamily": "CircleFlags",
+      "identifier": "sami"
+    },
+    "sb": {
+      "codepoint": 57956,
+      "fontFamily": "CircleFlags",
+      "identifier": "sb"
+    },
+    "sc": {
+      "codepoint": 57957,
+      "fontFamily": "CircleFlags",
+      "identifier": "sc"
+    },
+    "sd": {
+      "codepoint": 57958,
+      "fontFamily": "CircleFlags",
+      "identifier": "sd"
+    },
+    "se": {
+      "codepoint": 57959,
+      "fontFamily": "CircleFlags",
+      "identifier": "se"
+    },
+    "sg": {
+      "codepoint": 57960,
+      "fontFamily": "CircleFlags",
+      "identifier": "sg"
+    },
+    "sh": {
+      "codepoint": 57961,
+      "fontFamily": "CircleFlags",
+      "identifier": "sh"
+    },
+    "sh-ac": {
+      "codepoint": 57962,
+      "fontFamily": "CircleFlags",
+      "identifier": "shAc"
+    },
+    "sh-hl": {
+      "codepoint": 57963,
+      "fontFamily": "CircleFlags",
+      "identifier": "shHl"
+    },
+    "sh-ta": {
+      "codepoint": 57964,
+      "fontFamily": "CircleFlags",
+      "identifier": "shTa"
+    },
+    "si": {
+      "codepoint": 57965,
+      "fontFamily": "CircleFlags",
+      "identifier": "si"
+    },
+    "sindh": {
+      "codepoint": 57966,
+      "fontFamily": "CircleFlags",
+      "identifier": "sindh"
+    },
+    "sj": {
+      "codepoint": 57967,
+      "fontFamily": "CircleFlags",
+      "identifier": "sj"
+    },
+    "sk": {
+      "codepoint": 57968,
+      "fontFamily": "CircleFlags",
+      "identifier": "sk"
+    },
+    "sl": {
+      "codepoint": 57969,
+      "fontFamily": "CircleFlags",
+      "identifier": "sl"
+    },
+    "sm": {
+      "codepoint": 57970,
+      "fontFamily": "CircleFlags",
+      "identifier": "sm"
+    },
+    "sn": {
+      "codepoint": 57971,
+      "fontFamily": "CircleFlags",
+      "identifier": "sn"
+    },
+    "so": {
+      "codepoint": 57972,
+      "fontFamily": "CircleFlags",
+      "identifier": "so"
+    },
+    "somaliland": {
+      "codepoint": 57973,
+      "fontFamily": "CircleFlags",
+      "identifier": "somaliland"
+    },
+    "south-ossetia": {
+      "codepoint": 57974,
+      "fontFamily": "CircleFlags",
+      "identifier": "southOssetia"
+    },
+    "soviet-union": {
+      "codepoint": 57975,
+      "fontFamily": "CircleFlags",
+      "identifier": "sovietUnion"
+    },
+    "sq": {
+      "codepoint": 57976,
+      "fontFamily": "CircleFlags",
+      "identifier": "sq"
+    },
+    "sr": {
+      "codepoint": 57977,
+      "fontFamily": "CircleFlags",
+      "identifier": "sr"
+    },
+    "ss": {
+      "codepoint": 57978,
+      "fontFamily": "CircleFlags",
+      "identifier": "ss"
+    },
+    "st": {
+      "codepoint": 57979,
+      "fontFamily": "CircleFlags",
+      "identifier": "st"
+    },
+    "su": {
+      "codepoint": 57980,
+      "fontFamily": "CircleFlags",
+      "identifier": "su"
+    },
+    "sv": {
+      "codepoint": 57981,
+      "fontFamily": "CircleFlags",
+      "identifier": "sv"
+    },
+    "sw": {
+      "codepoint": 57982,
+      "fontFamily": "CircleFlags",
+      "identifier": "sw"
+    },
+    "sx": {
+      "codepoint": 57983,
+      "fontFamily": "CircleFlags",
+      "identifier": "sx"
+    },
+    "sy": {
+      "codepoint": 57984,
+      "fontFamily": "CircleFlags",
+      "identifier": "sy"
+    },
+    "sz": {
+      "codepoint": 57985,
+      "fontFamily": "CircleFlags",
+      "identifier": "sz"
+    },
+    "ta": {
+      "codepoint": 57986,
+      "fontFamily": "CircleFlags",
+      "identifier": "ta"
+    },
+    "tc": {
+      "codepoint": 57987,
+      "fontFamily": "CircleFlags",
+      "identifier": "tc"
+    },
+    "td": {
+      "codepoint": 57988,
+      "fontFamily": "CircleFlags",
+      "identifier": "td"
+    },
+    "te": {
+      "codepoint": 57989,
+      "fontFamily": "CircleFlags",
+      "identifier": "te"
+    },
+    "tf": {
+      "codepoint": 57990,
+      "fontFamily": "CircleFlags",
+      "identifier": "tf"
+    },
+    "tg": {
+      "codepoint": 57991,
+      "fontFamily": "CircleFlags",
+      "identifier": "tg"
+    },
+    "th": {
+      "codepoint": 57992,
+      "fontFamily": "CircleFlags",
+      "identifier": "th"
+    },
+    "ti": {
+      "codepoint": 57993,
+      "fontFamily": "CircleFlags",
+      "identifier": "ti"
+    },
+    "tibet": {
+      "codepoint": 57994,
+      "fontFamily": "CircleFlags",
+      "identifier": "tibet"
+    },
+    "tj": {
+      "codepoint": 57995,
+      "fontFamily": "CircleFlags",
+      "identifier": "tj"
+    },
+    "tk": {
+      "codepoint": 57996,
+      "fontFamily": "CircleFlags",
+      "identifier": "tk"
+    },
+    "tl": {
+      "codepoint": 57997,
+      "fontFamily": "CircleFlags",
+      "identifier": "tl"
+    },
+    "tm": {
+      "codepoint": 57998,
+      "fontFamily": "CircleFlags",
+      "identifier": "tm"
+    },
+    "tn": {
+      "codepoint": 57999,
+      "fontFamily": "CircleFlags",
+      "identifier": "tn"
+    },
+    "to": {
+      "codepoint": 58000,
+      "fontFamily": "CircleFlags",
+      "identifier": "to"
+    },
+    "torres-strait-islands": {
+      "codepoint": 58001,
+      "fontFamily": "CircleFlags",
+      "identifier": "torresStraitIslands"
+    },
+    "tr": {
+      "codepoint": 58002,
+      "fontFamily": "CircleFlags",
+      "identifier": "tr"
+    },
+    "translingual": {
+      "codepoint": 58003,
+      "fontFamily": "CircleFlags",
+      "identifier": "translingual"
+    },
+    "transnistria": {
+      "codepoint": 58004,
+      "fontFamily": "CircleFlags",
+      "identifier": "transnistria"
+    },
+    "tt": {
+      "codepoint": 58005,
+      "fontFamily": "CircleFlags",
+      "identifier": "tt"
+    },
+    "tv": {
+      "codepoint": 58006,
+      "fontFamily": "CircleFlags",
+      "identifier": "tv"
+    },
+    "tw": {
+      "codepoint": 58007,
+      "fontFamily": "CircleFlags",
+      "identifier": "tw"
+    },
+    "ty": {
+      "codepoint": 58008,
+      "fontFamily": "CircleFlags",
+      "identifier": "ty"
+    },
+    "tz": {
+      "codepoint": 58009,
+      "fontFamily": "CircleFlags",
+      "identifier": "tz"
+    },
+    "tz-zanzibar": {
+      "codepoint": 58010,
+      "fontFamily": "CircleFlags",
+      "identifier": "tzZanzibar"
+    },
+    "ua": {
+      "codepoint": 58011,
+      "fontFamily": "CircleFlags",
+      "identifier": "ua"
+    },
+    "udm": {
+      "codepoint": 58012,
+      "fontFamily": "CircleFlags",
+      "identifier": "udm"
+    },
+    "ug": {
+      "codepoint": 58013,
+      "fontFamily": "CircleFlags",
+      "identifier": "ug"
+    },
+    "uk": {
+      "codepoint": 58014,
+      "fontFamily": "CircleFlags",
+      "identifier": "uk"
+    },
+    "um": {
+      "codepoint": 58015,
+      "fontFamily": "CircleFlags",
+      "identifier": "um"
+    },
+    "un": {
+      "codepoint": 58016,
+      "fontFamily": "CircleFlags",
+      "identifier": "un"
+    },
+    "united-nations": {
+      "codepoint": 58017,
+      "fontFamily": "CircleFlags",
+      "identifier": "unitedNations"
+    },
+    "ur": {
+      "codepoint": 58018,
+      "fontFamily": "CircleFlags",
+      "identifier": "ur"
+    },
+    "us": {
+      "codepoint": 58019,
+      "fontFamily": "CircleFlags",
+      "identifier": "us"
+    },
+    "us-ak": {
+      "codepoint": 58020,
+      "fontFamily": "CircleFlags",
+      "identifier": "usAk"
+    },
+    "us-al": {
+      "codepoint": 58021,
+      "fontFamily": "CircleFlags",
+      "identifier": "usAl"
+    },
+    "us-ar": {
+      "codepoint": 58022,
+      "fontFamily": "CircleFlags",
+      "identifier": "usAr"
+    },
+    "us-as": {
+      "codepoint": 58023,
+      "fontFamily": "CircleFlags",
+      "identifier": "usAs"
+    },
+    "us-az": {
+      "codepoint": 58024,
+      "fontFamily": "CircleFlags",
+      "identifier": "usAz"
+    },
+    "us-betsy-ross": {
+      "codepoint": 58025,
+      "fontFamily": "CircleFlags",
+      "identifier": "usBetsyRoss"
+    },
+    "us-ca": {
+      "codepoint": 58026,
+      "fontFamily": "CircleFlags",
+      "identifier": "usCa"
+    },
+    "us-co": {
+      "codepoint": 58027,
+      "fontFamily": "CircleFlags",
+      "identifier": "usCo"
+    },
+    "us-confederate-battle": {
+      "codepoint": 58028,
+      "fontFamily": "CircleFlags",
+      "identifier": "usConfederateBattle"
+    },
+    "us-dc": {
+      "codepoint": 58029,
+      "fontFamily": "CircleFlags",
+      "identifier": "usDc"
+    },
+    "us-fl": {
+      "codepoint": 58030,
+      "fontFamily": "CircleFlags",
+      "identifier": "usFl"
+    },
+    "us-ga": {
+      "codepoint": 58031,
+      "fontFamily": "CircleFlags",
+      "identifier": "usGa"
+    },
+    "us-gu": {
+      "codepoint": 58032,
+      "fontFamily": "CircleFlags",
+      "identifier": "usGu"
+    },
+    "us-hi": {
+      "codepoint": 58033,
+      "fontFamily": "CircleFlags",
+      "identifier": "usHi"
+    },
+    "us-in": {
+      "codepoint": 58034,
+      "fontFamily": "CircleFlags",
+      "identifier": "usIn"
+    },
+    "us-md": {
+      "codepoint": 58035,
+      "fontFamily": "CircleFlags",
+      "identifier": "usMd"
+    },
+    "us-mo": {
+      "codepoint": 58036,
+      "fontFamily": "CircleFlags",
+      "identifier": "usMo"
+    },
+    "us-mp": {
+      "codepoint": 58037,
+      "fontFamily": "CircleFlags",
+      "identifier": "usMp"
+    },
+    "us-ms": {
+      "codepoint": 58038,
+      "fontFamily": "CircleFlags",
+      "identifier": "usMs"
+    },
+    "us-nc": {
+      "codepoint": 58039,
+      "fontFamily": "CircleFlags",
+      "identifier": "usNc"
+    },
+    "us-nm": {
+      "codepoint": 58040,
+      "fontFamily": "CircleFlags",
+      "identifier": "usNm"
+    },
+    "us-or": {
+      "codepoint": 58041,
+      "fontFamily": "CircleFlags",
+      "identifier": "usOr"
+    },
+    "us-pr": {
+      "codepoint": 58042,
+      "fontFamily": "CircleFlags",
+      "identifier": "usPr"
+    },
+    "us-ri": {
+      "codepoint": 58043,
+      "fontFamily": "CircleFlags",
+      "identifier": "usRi"
+    },
+    "us-sc": {
+      "codepoint": 58044,
+      "fontFamily": "CircleFlags",
+      "identifier": "usSc"
+    },
+    "us-tn": {
+      "codepoint": 58045,
+      "fontFamily": "CircleFlags",
+      "identifier": "usTn"
+    },
+    "us-tx": {
+      "codepoint": 58046,
+      "fontFamily": "CircleFlags",
+      "identifier": "usTx"
+    },
+    "us-um": {
+      "codepoint": 58047,
+      "fontFamily": "CircleFlags",
+      "identifier": "usUm"
+    },
+    "us-vi": {
+      "codepoint": 58048,
+      "fontFamily": "CircleFlags",
+      "identifier": "usVi"
+    },
+    "us-wa": {
+      "codepoint": 58049,
+      "fontFamily": "CircleFlags",
+      "identifier": "usWa"
+    },
+    "us-wi": {
+      "codepoint": 58050,
+      "fontFamily": "CircleFlags",
+      "identifier": "usWi"
+    },
+    "us-wy": {
+      "codepoint": 58051,
+      "fontFamily": "CircleFlags",
+      "identifier": "usWy"
+    },
+    "uy": {
+      "codepoint": 58052,
+      "fontFamily": "CircleFlags",
+      "identifier": "uy"
+    },
+    "uz": {
+      "codepoint": 58053,
+      "fontFamily": "CircleFlags",
+      "identifier": "uz"
+    },
+    "va": {
+      "codepoint": 58054,
+      "fontFamily": "CircleFlags",
+      "identifier": "va"
+    },
+    "vc": {
+      "codepoint": 58055,
+      "fontFamily": "CircleFlags",
+      "identifier": "vc"
+    },
+    "ve": {
+      "codepoint": 58056,
+      "fontFamily": "CircleFlags",
+      "identifier": "ve"
+    },
+    "vg": {
+      "codepoint": 58057,
+      "fontFamily": "CircleFlags",
+      "identifier": "vg"
+    },
+    "vi": {
+      "codepoint": 58058,
+      "fontFamily": "CircleFlags",
+      "identifier": "vi"
+    },
+    "vn": {
+      "codepoint": 58059,
+      "fontFamily": "CircleFlags",
+      "identifier": "vn"
+    },
+    "vo": {
+      "codepoint": 58060,
+      "fontFamily": "CircleFlags",
+      "identifier": "vo"
+    },
+    "vu": {
+      "codepoint": 58061,
+      "fontFamily": "CircleFlags",
+      "identifier": "vu"
+    },
+    "wf": {
+      "codepoint": 58062,
+      "fontFamily": "CircleFlags",
+      "identifier": "wf"
+    },
+    "wiphala": {
+      "codepoint": 58063,
+      "fontFamily": "CircleFlags",
+      "identifier": "wiphala"
+    },
+    "ws": {
+      "codepoint": 58064,
+      "fontFamily": "CircleFlags",
+      "identifier": "ws"
+    },
+    "xh": {
+      "codepoint": 58065,
+      "fontFamily": "CircleFlags",
+      "identifier": "xh"
+    },
+    "xk": {
+      "codepoint": 58066,
+      "fontFamily": "CircleFlags",
+      "identifier": "xk"
+    },
+    "xx": {
+      "codepoint": 58067,
+      "fontFamily": "CircleFlags",
+      "identifier": "xx"
+    },
+    "ye": {
+      "codepoint": 58068,
+      "fontFamily": "CircleFlags",
+      "identifier": "ye"
+    },
+    "yi": {
+      "codepoint": 58069,
+      "fontFamily": "CircleFlags",
+      "identifier": "yi"
+    },
+    "yiddish": {
+      "codepoint": 58070,
+      "fontFamily": "CircleFlags",
+      "identifier": "yiddish"
+    },
+    "yo": {
+      "codepoint": 58071,
+      "fontFamily": "CircleFlags",
+      "identifier": "yo"
+    },
+    "yorubaland": {
+      "codepoint": 58072,
+      "fontFamily": "CircleFlags",
+      "identifier": "yorubaland"
+    },
+    "yt": {
+      "codepoint": 58073,
+      "fontFamily": "CircleFlags",
+      "identifier": "yt"
+    },
+    "yu": {
+      "codepoint": 58074,
+      "fontFamily": "CircleFlags",
+      "identifier": "yu"
+    },
+    "yua": {
+      "codepoint": 58075,
+      "fontFamily": "CircleFlags",
+      "identifier": "yua"
+    },
+    "za": {
+      "codepoint": 58076,
+      "fontFamily": "CircleFlags",
+      "identifier": "za"
+    },
+    "zh": {
+      "codepoint": 58077,
+      "fontFamily": "CircleFlags",
+      "identifier": "zh"
+    },
+    "zm": {
+      "codepoint": 58078,
+      "fontFamily": "CircleFlags",
+      "identifier": "zm"
+    },
+    "zu": {
+      "codepoint": 58079,
+      "fontFamily": "CircleFlags",
+      "identifier": "zu"
+    },
+    "zw": {
+      "codepoint": 58080,
+      "fontFamily": "CircleFlags",
+      "identifier": "zw"
+    }
+  }
+}

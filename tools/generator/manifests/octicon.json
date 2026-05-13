@@ -1,0 +1,4675 @@
+{
+  "schemaVersion": 1,
+  "prefix": "octicon",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_octicon",
+  "info": {
+    "name": "Octicons",
+    "author": {
+      "name": "GitHub",
+      "url": "https://github.com/primer/octicons/"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/primer/octicons/blob/main/LICENSE"
+    },
+    "total": 929
+  },
+  "fonts": [
+    {
+      "family": "Octicon",
+      "nextCodepoint": 58273,
+      "iconCount": 929
+    }
+  ],
+  "icons": {
+    "accessibility-16": {
+      "codepoint": 57344,
+      "fontFamily": "Octicon",
+      "identifier": "accessibility16"
+    },
+    "accessibility-24": {
+      "codepoint": 57345,
+      "fontFamily": "Octicon",
+      "identifier": "accessibility24"
+    },
+    "accessibility-inset-16": {
+      "codepoint": 57346,
+      "fontFamily": "Octicon",
+      "identifier": "accessibilityInset16"
+    },
+    "accessibility-inset-24": {
+      "codepoint": 57347,
+      "fontFamily": "Octicon",
+      "identifier": "accessibilityInset24"
+    },
+    "agent-16": {
+      "codepoint": 57348,
+      "fontFamily": "Octicon",
+      "identifier": "agent16"
+    },
+    "agent-24": {
+      "codepoint": 57349,
+      "fontFamily": "Octicon",
+      "identifier": "agent24"
+    },
+    "ai-model-16": {
+      "codepoint": 57350,
+      "fontFamily": "Octicon",
+      "identifier": "aiModel16"
+    },
+    "ai-model-24": {
+      "codepoint": 57351,
+      "fontFamily": "Octicon",
+      "identifier": "aiModel24"
+    },
+    "alert": {
+      "codepoint": 57352,
+      "fontFamily": "Octicon",
+      "identifier": "alert"
+    },
+    "alert-16": {
+      "codepoint": 57353,
+      "fontFamily": "Octicon",
+      "identifier": "alert16"
+    },
+    "alert-24": {
+      "codepoint": 57354,
+      "fontFamily": "Octicon",
+      "identifier": "alert24"
+    },
+    "alert-fill-12": {
+      "codepoint": 57355,
+      "fontFamily": "Octicon",
+      "identifier": "alertFill12"
+    },
+    "alert-fill-16": {
+      "codepoint": 57356,
+      "fontFamily": "Octicon",
+      "identifier": "alertFill16"
+    },
+    "alert-fill-24": {
+      "codepoint": 57357,
+      "fontFamily": "Octicon",
+      "identifier": "alertFill24"
+    },
+    "apps-16": {
+      "codepoint": 57358,
+      "fontFamily": "Octicon",
+      "identifier": "apps16"
+    },
+    "apps-24": {
+      "codepoint": 57359,
+      "fontFamily": "Octicon",
+      "identifier": "apps24"
+    },
+    "archive": {
+      "codepoint": 57360,
+      "fontFamily": "Octicon",
+      "identifier": "archive"
+    },
+    "archive-16": {
+      "codepoint": 57361,
+      "fontFamily": "Octicon",
+      "identifier": "archive16"
+    },
+    "archive-24": {
+      "codepoint": 57362,
+      "fontFamily": "Octicon",
+      "identifier": "archive24"
+    },
+    "arrow-both": {
+      "codepoint": 57363,
+      "fontFamily": "Octicon",
+      "identifier": "arrowBoth"
+    },
+    "arrow-both-16": {
+      "codepoint": 57364,
+      "fontFamily": "Octicon",
+      "identifier": "arrowBoth16"
+    },
+    "arrow-both-24": {
+      "codepoint": 57365,
+      "fontFamily": "Octicon",
+      "identifier": "arrowBoth24"
+    },
+    "arrow-down": {
+      "codepoint": 57366,
+      "fontFamily": "Octicon",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-16": {
+      "codepoint": 57367,
+      "fontFamily": "Octicon",
+      "identifier": "arrowDown16"
+    },
+    "arrow-down-24": {
+      "codepoint": 57368,
+      "fontFamily": "Octicon",
+      "identifier": "arrowDown24"
+    },
+    "arrow-down-left-16": {
+      "codepoint": 57369,
+      "fontFamily": "Octicon",
+      "identifier": "arrowDownLeft16"
+    },
+    "arrow-down-left-24": {
+      "codepoint": 57370,
+      "fontFamily": "Octicon",
+      "identifier": "arrowDownLeft24"
+    },
+    "arrow-down-right-16": {
+      "codepoint": 57371,
+      "fontFamily": "Octicon",
+      "identifier": "arrowDownRight16"
+    },
+    "arrow-down-right-24": {
+      "codepoint": 57372,
+      "fontFamily": "Octicon",
+      "identifier": "arrowDownRight24"
+    },
+    "arrow-left": {
+      "codepoint": 57373,
+      "fontFamily": "Octicon",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-16": {
+      "codepoint": 57374,
+      "fontFamily": "Octicon",
+      "identifier": "arrowLeft16"
+    },
+    "arrow-left-24": {
+      "codepoint": 57375,
+      "fontFamily": "Octicon",
+      "identifier": "arrowLeft24"
+    },
+    "arrow-right": {
+      "codepoint": 57376,
+      "fontFamily": "Octicon",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-16": {
+      "codepoint": 57377,
+      "fontFamily": "Octicon",
+      "identifier": "arrowRight16"
+    },
+    "arrow-right-24": {
+      "codepoint": 57378,
+      "fontFamily": "Octicon",
+      "identifier": "arrowRight24"
+    },
+    "arrow-small-down": {
+      "codepoint": 57379,
+      "fontFamily": "Octicon",
+      "identifier": "arrowSmallDown"
+    },
+    "arrow-small-left": {
+      "codepoint": 57380,
+      "fontFamily": "Octicon",
+      "identifier": "arrowSmallLeft"
+    },
+    "arrow-small-right": {
+      "codepoint": 57381,
+      "fontFamily": "Octicon",
+      "identifier": "arrowSmallRight"
+    },
+    "arrow-small-up": {
+      "codepoint": 57382,
+      "fontFamily": "Octicon",
+      "identifier": "arrowSmallUp"
+    },
+    "arrow-switch-16": {
+      "codepoint": 57383,
+      "fontFamily": "Octicon",
+      "identifier": "arrowSwitch16"
+    },
+    "arrow-switch-24": {
+      "codepoint": 57384,
+      "fontFamily": "Octicon",
+      "identifier": "arrowSwitch24"
+    },
+    "arrow-up": {
+      "codepoint": 57385,
+      "fontFamily": "Octicon",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-16": {
+      "codepoint": 57386,
+      "fontFamily": "Octicon",
+      "identifier": "arrowUp16"
+    },
+    "arrow-up-24": {
+      "codepoint": 57387,
+      "fontFamily": "Octicon",
+      "identifier": "arrowUp24"
+    },
+    "arrow-up-left-16": {
+      "codepoint": 57388,
+      "fontFamily": "Octicon",
+      "identifier": "arrowUpLeft16"
+    },
+    "arrow-up-left-24": {
+      "codepoint": 57389,
+      "fontFamily": "Octicon",
+      "identifier": "arrowUpLeft24"
+    },
+    "arrow-up-right-16": {
+      "codepoint": 57390,
+      "fontFamily": "Octicon",
+      "identifier": "arrowUpRight16"
+    },
+    "arrow-up-right-24": {
+      "codepoint": 57391,
+      "fontFamily": "Octicon",
+      "identifier": "arrowUpRight24"
+    },
+    "beaker": {
+      "codepoint": 57392,
+      "fontFamily": "Octicon",
+      "identifier": "beaker"
+    },
+    "beaker-16": {
+      "codepoint": 57393,
+      "fontFamily": "Octicon",
+      "identifier": "beaker16"
+    },
+    "beaker-24": {
+      "codepoint": 57394,
+      "fontFamily": "Octicon",
+      "identifier": "beaker24"
+    },
+    "bell": {
+      "codepoint": 57395,
+      "fontFamily": "Octicon",
+      "identifier": "bell"
+    },
+    "bell-16": {
+      "codepoint": 57396,
+      "fontFamily": "Octicon",
+      "identifier": "bell16"
+    },
+    "bell-24": {
+      "codepoint": 57397,
+      "fontFamily": "Octicon",
+      "identifier": "bell24"
+    },
+    "bell-fill-16": {
+      "codepoint": 57398,
+      "fontFamily": "Octicon",
+      "identifier": "bellFill16"
+    },
+    "bell-fill-24": {
+      "codepoint": 57399,
+      "fontFamily": "Octicon",
+      "identifier": "bellFill24"
+    },
+    "bell-slash-16": {
+      "codepoint": 57400,
+      "fontFamily": "Octicon",
+      "identifier": "bellSlash16"
+    },
+    "bell-slash-24": {
+      "codepoint": 57401,
+      "fontFamily": "Octicon",
+      "identifier": "bellSlash24"
+    },
+    "blocked-16": {
+      "codepoint": 57402,
+      "fontFamily": "Octicon",
+      "identifier": "blocked16"
+    },
+    "blocked-24": {
+      "codepoint": 57403,
+      "fontFamily": "Octicon",
+      "identifier": "blocked24"
+    },
+    "bold": {
+      "codepoint": 57404,
+      "fontFamily": "Octicon",
+      "identifier": "bold"
+    },
+    "bold-16": {
+      "codepoint": 57405,
+      "fontFamily": "Octicon",
+      "identifier": "bold16"
+    },
+    "bold-24": {
+      "codepoint": 57406,
+      "fontFamily": "Octicon",
+      "identifier": "bold24"
+    },
+    "book": {
+      "codepoint": 57407,
+      "fontFamily": "Octicon",
+      "identifier": "book"
+    },
+    "book-16": {
+      "codepoint": 57408,
+      "fontFamily": "Octicon",
+      "identifier": "book16"
+    },
+    "book-24": {
+      "codepoint": 57409,
+      "fontFamily": "Octicon",
+      "identifier": "book24"
+    },
+    "book-locked-16": {
+      "codepoint": 57410,
+      "fontFamily": "Octicon",
+      "identifier": "bookLocked16"
+    },
+    "bookmark": {
+      "codepoint": 57411,
+      "fontFamily": "Octicon",
+      "identifier": "bookmark"
+    },
+    "bookmark-16": {
+      "codepoint": 57412,
+      "fontFamily": "Octicon",
+      "identifier": "bookmark16"
+    },
+    "bookmark-24": {
+      "codepoint": 57413,
+      "fontFamily": "Octicon",
+      "identifier": "bookmark24"
+    },
+    "bookmark-fill-24": {
+      "codepoint": 57414,
+      "fontFamily": "Octicon",
+      "identifier": "bookmarkFill24"
+    },
+    "bookmark-filled-16": {
+      "codepoint": 57415,
+      "fontFamily": "Octicon",
+      "identifier": "bookmarkFilled16"
+    },
+    "bookmark-slash-16": {
+      "codepoint": 57416,
+      "fontFamily": "Octicon",
+      "identifier": "bookmarkSlash16"
+    },
+    "bookmark-slash-24": {
+      "codepoint": 57417,
+      "fontFamily": "Octicon",
+      "identifier": "bookmarkSlash24"
+    },
+    "bookmark-slash-fill-16": {
+      "codepoint": 57418,
+      "fontFamily": "Octicon",
+      "identifier": "bookmarkSlashFill16"
+    },
+    "bookmark-slash-fill-24": {
+      "codepoint": 57419,
+      "fontFamily": "Octicon",
+      "identifier": "bookmarkSlashFill24"
+    },
+    "boolean-off-16": {
+      "codepoint": 57420,
+      "fontFamily": "Octicon",
+      "identifier": "booleanOff16"
+    },
+    "boolean-off-24": {
+      "codepoint": 57421,
+      "fontFamily": "Octicon",
+      "identifier": "booleanOff24"
+    },
+    "boolean-on-16": {
+      "codepoint": 57422,
+      "fontFamily": "Octicon",
+      "identifier": "booleanOn16"
+    },
+    "boolean-on-24": {
+      "codepoint": 57423,
+      "fontFamily": "Octicon",
+      "identifier": "booleanOn24"
+    },
+    "briefcase": {
+      "codepoint": 57424,
+      "fontFamily": "Octicon",
+      "identifier": "briefcase"
+    },
+    "briefcase-16": {
+      "codepoint": 57425,
+      "fontFamily": "Octicon",
+      "identifier": "briefcase16"
+    },
+    "briefcase-24": {
+      "codepoint": 57426,
+      "fontFamily": "Octicon",
+      "identifier": "briefcase24"
+    },
+    "broadcast": {
+      "codepoint": 57427,
+      "fontFamily": "Octicon",
+      "identifier": "broadcast"
+    },
+    "broadcast-16": {
+      "codepoint": 57428,
+      "fontFamily": "Octicon",
+      "identifier": "broadcast16"
+    },
+    "broadcast-24": {
+      "codepoint": 57429,
+      "fontFamily": "Octicon",
+      "identifier": "broadcast24"
+    },
+    "browser": {
+      "codepoint": 57430,
+      "fontFamily": "Octicon",
+      "identifier": "browser"
+    },
+    "browser-16": {
+      "codepoint": 57431,
+      "fontFamily": "Octicon",
+      "identifier": "browser16"
+    },
+    "browser-24": {
+      "codepoint": 57432,
+      "fontFamily": "Octicon",
+      "identifier": "browser24"
+    },
+    "bug": {
+      "codepoint": 57433,
+      "fontFamily": "Octicon",
+      "identifier": "bug"
+    },
+    "bug-16": {
+      "codepoint": 57434,
+      "fontFamily": "Octicon",
+      "identifier": "bug16"
+    },
+    "bug-24": {
+      "codepoint": 57435,
+      "fontFamily": "Octicon",
+      "identifier": "bug24"
+    },
+    "cache-16": {
+      "codepoint": 57436,
+      "fontFamily": "Octicon",
+      "identifier": "cache16"
+    },
+    "cache-24": {
+      "codepoint": 57437,
+      "fontFamily": "Octicon",
+      "identifier": "cache24"
+    },
+    "calendar": {
+      "codepoint": 57438,
+      "fontFamily": "Octicon",
+      "identifier": "calendar"
+    },
+    "calendar-16": {
+      "codepoint": 57439,
+      "fontFamily": "Octicon",
+      "identifier": "calendar16"
+    },
+    "calendar-24": {
+      "codepoint": 57440,
+      "fontFamily": "Octicon",
+      "identifier": "calendar24"
+    },
+    "check": {
+      "codepoint": 57441,
+      "fontFamily": "Octicon",
+      "identifier": "check"
+    },
+    "check-16": {
+      "codepoint": 57442,
+      "fontFamily": "Octicon",
+      "identifier": "check16"
+    },
+    "check-24": {
+      "codepoint": 57443,
+      "fontFamily": "Octicon",
+      "identifier": "check24"
+    },
+    "check-circle-16": {
+      "codepoint": 57444,
+      "fontFamily": "Octicon",
+      "identifier": "checkCircle16"
+    },
+    "check-circle-24": {
+      "codepoint": 57445,
+      "fontFamily": "Octicon",
+      "identifier": "checkCircle24"
+    },
+    "check-circle-fill-12": {
+      "codepoint": 57446,
+      "fontFamily": "Octicon",
+      "identifier": "checkCircleFill12"
+    },
+    "check-circle-fill-16": {
+      "codepoint": 57447,
+      "fontFamily": "Octicon",
+      "identifier": "checkCircleFill16"
+    },
+    "check-circle-fill-24": {
+      "codepoint": 57448,
+      "fontFamily": "Octicon",
+      "identifier": "checkCircleFill24"
+    },
+    "checkbox-16": {
+      "codepoint": 57449,
+      "fontFamily": "Octicon",
+      "identifier": "checkbox16"
+    },
+    "checkbox-24": {
+      "codepoint": 57450,
+      "fontFamily": "Octicon",
+      "identifier": "checkbox24"
+    },
+    "checkbox-fill-16": {
+      "codepoint": 57451,
+      "fontFamily": "Octicon",
+      "identifier": "checkboxFill16"
+    },
+    "checkbox-fill-24": {
+      "codepoint": 57452,
+      "fontFamily": "Octicon",
+      "identifier": "checkboxFill24"
+    },
+    "checklist": {
+      "codepoint": 57453,
+      "fontFamily": "Octicon",
+      "identifier": "checklist"
+    },
+    "checklist-16": {
+      "codepoint": 57454,
+      "fontFamily": "Octicon",
+      "identifier": "checklist16"
+    },
+    "checklist-24": {
+      "codepoint": 57455,
+      "fontFamily": "Octicon",
+      "identifier": "checklist24"
+    },
+    "chevron-down": {
+      "codepoint": 57456,
+      "fontFamily": "Octicon",
+      "identifier": "chevronDown"
+    },
+    "chevron-down-12": {
+      "codepoint": 57457,
+      "fontFamily": "Octicon",
+      "identifier": "chevronDown12"
+    },
+    "chevron-down-16": {
+      "codepoint": 57458,
+      "fontFamily": "Octicon",
+      "identifier": "chevronDown16"
+    },
+    "chevron-down-24": {
+      "codepoint": 57459,
+      "fontFamily": "Octicon",
+      "identifier": "chevronDown24"
+    },
+    "chevron-left": {
+      "codepoint": 57460,
+      "fontFamily": "Octicon",
+      "identifier": "chevronLeft"
+    },
+    "chevron-left-12": {
+      "codepoint": 57461,
+      "fontFamily": "Octicon",
+      "identifier": "chevronLeft12"
+    },
+    "chevron-left-16": {
+      "codepoint": 57462,
+      "fontFamily": "Octicon",
+      "identifier": "chevronLeft16"
+    },
+    "chevron-left-24": {
+      "codepoint": 57463,
+      "fontFamily": "Octicon",
+      "identifier": "chevronLeft24"
+    },
+    "chevron-right": {
+      "codepoint": 57464,
+      "fontFamily": "Octicon",
+      "identifier": "chevronRight"
+    },
+    "chevron-right-12": {
+      "codepoint": 57465,
+      "fontFamily": "Octicon",
+      "identifier": "chevronRight12"
+    },
+    "chevron-right-16": {
+      "codepoint": 57466,
+      "fontFamily": "Octicon",
+      "identifier": "chevronRight16"
+    },
+    "chevron-right-24": {
+      "codepoint": 57467,
+      "fontFamily": "Octicon",
+      "identifier": "chevronRight24"
+    },
+    "chevron-up": {
+      "codepoint": 57468,
+      "fontFamily": "Octicon",
+      "identifier": "chevronUp"
+    },
+    "chevron-up-12": {
+      "codepoint": 57469,
+      "fontFamily": "Octicon",
+      "identifier": "chevronUp12"
+    },
+    "chevron-up-16": {
+      "codepoint": 57470,
+      "fontFamily": "Octicon",
+      "identifier": "chevronUp16"
+    },
+    "chevron-up-24": {
+      "codepoint": 57471,
+      "fontFamily": "Octicon",
+      "identifier": "chevronUp24"
+    },
+    "circle-16": {
+      "codepoint": 57472,
+      "fontFamily": "Octicon",
+      "identifier": "circle16"
+    },
+    "circle-24": {
+      "codepoint": 57473,
+      "fontFamily": "Octicon",
+      "identifier": "circle24"
+    },
+    "circle-slash": {
+      "codepoint": 57474,
+      "fontFamily": "Octicon",
+      "identifier": "circleSlash"
+    },
+    "circle-slash-16": {
+      "codepoint": 57475,
+      "fontFamily": "Octicon",
+      "identifier": "circleSlash16"
+    },
+    "circle-slash-24": {
+      "codepoint": 57476,
+      "fontFamily": "Octicon",
+      "identifier": "circleSlash24"
+    },
+    "circuit-board": {
+      "codepoint": 57477,
+      "fontFamily": "Octicon",
+      "identifier": "circuitBoard"
+    },
+    "clippy": {
+      "codepoint": 57478,
+      "fontFamily": "Octicon",
+      "identifier": "clippy"
+    },
+    "clippy-16": {
+      "codepoint": 57479,
+      "fontFamily": "Octicon",
+      "identifier": "clippy16"
+    },
+    "clippy-24": {
+      "codepoint": 57480,
+      "fontFamily": "Octicon",
+      "identifier": "clippy24"
+    },
+    "clock": {
+      "codepoint": 57481,
+      "fontFamily": "Octicon",
+      "identifier": "clock"
+    },
+    "clock-16": {
+      "codepoint": 57482,
+      "fontFamily": "Octicon",
+      "identifier": "clock16"
+    },
+    "clock-24": {
+      "codepoint": 57483,
+      "fontFamily": "Octicon",
+      "identifier": "clock24"
+    },
+    "clock-fill-16": {
+      "codepoint": 57484,
+      "fontFamily": "Octicon",
+      "identifier": "clockFill16"
+    },
+    "clock-fill-24": {
+      "codepoint": 57485,
+      "fontFamily": "Octicon",
+      "identifier": "clockFill24"
+    },
+    "cloud-16": {
+      "codepoint": 57486,
+      "fontFamily": "Octicon",
+      "identifier": "cloud16"
+    },
+    "cloud-24": {
+      "codepoint": 57487,
+      "fontFamily": "Octicon",
+      "identifier": "cloud24"
+    },
+    "cloud-download": {
+      "codepoint": 57488,
+      "fontFamily": "Octicon",
+      "identifier": "cloudDownload"
+    },
+    "cloud-offline-16": {
+      "codepoint": 57489,
+      "fontFamily": "Octicon",
+      "identifier": "cloudOffline16"
+    },
+    "cloud-offline-24": {
+      "codepoint": 57490,
+      "fontFamily": "Octicon",
+      "identifier": "cloudOffline24"
+    },
+    "cloud-upload": {
+      "codepoint": 57491,
+      "fontFamily": "Octicon",
+      "identifier": "cloudUpload"
+    },
+    "code": {
+      "codepoint": 57492,
+      "fontFamily": "Octicon",
+      "identifier": "code"
+    },
+    "code-16": {
+      "codepoint": 57493,
+      "fontFamily": "Octicon",
+      "identifier": "code16"
+    },
+    "code-24": {
+      "codepoint": 57494,
+      "fontFamily": "Octicon",
+      "identifier": "code24"
+    },
+    "code-of-conduct-16": {
+      "codepoint": 57495,
+      "fontFamily": "Octicon",
+      "identifier": "codeOfConduct16"
+    },
+    "code-of-conduct-24": {
+      "codepoint": 57496,
+      "fontFamily": "Octicon",
+      "identifier": "codeOfConduct24"
+    },
+    "code-review-16": {
+      "codepoint": 57497,
+      "fontFamily": "Octicon",
+      "identifier": "codeReview16"
+    },
+    "code-review-24": {
+      "codepoint": 57498,
+      "fontFamily": "Octicon",
+      "identifier": "codeReview24"
+    },
+    "code-square-16": {
+      "codepoint": 57499,
+      "fontFamily": "Octicon",
+      "identifier": "codeSquare16"
+    },
+    "code-square-24": {
+      "codepoint": 57500,
+      "fontFamily": "Octicon",
+      "identifier": "codeSquare24"
+    },
+    "codescan-16": {
+      "codepoint": 57501,
+      "fontFamily": "Octicon",
+      "identifier": "codescan16"
+    },
+    "codescan-24": {
+      "codepoint": 57502,
+      "fontFamily": "Octicon",
+      "identifier": "codescan24"
+    },
+    "codescan-checkmark-16": {
+      "codepoint": 57503,
+      "fontFamily": "Octicon",
+      "identifier": "codescanCheckmark16"
+    },
+    "codescan-checkmark-24": {
+      "codepoint": 57504,
+      "fontFamily": "Octicon",
+      "identifier": "codescanCheckmark24"
+    },
+    "codespaces-16": {
+      "codepoint": 57505,
+      "fontFamily": "Octicon",
+      "identifier": "codespaces16"
+    },
+    "codespaces-24": {
+      "codepoint": 57506,
+      "fontFamily": "Octicon",
+      "identifier": "codespaces24"
+    },
+    "columns-16": {
+      "codepoint": 57507,
+      "fontFamily": "Octicon",
+      "identifier": "columns16"
+    },
+    "columns-24": {
+      "codepoint": 57508,
+      "fontFamily": "Octicon",
+      "identifier": "columns24"
+    },
+    "command-palette-16": {
+      "codepoint": 57509,
+      "fontFamily": "Octicon",
+      "identifier": "commandPalette16"
+    },
+    "command-palette-24": {
+      "codepoint": 57510,
+      "fontFamily": "Octicon",
+      "identifier": "commandPalette24"
+    },
+    "comment": {
+      "codepoint": 57511,
+      "fontFamily": "Octicon",
+      "identifier": "comment"
+    },
+    "comment-16": {
+      "codepoint": 57512,
+      "fontFamily": "Octicon",
+      "identifier": "comment16"
+    },
+    "comment-24": {
+      "codepoint": 57513,
+      "fontFamily": "Octicon",
+      "identifier": "comment24"
+    },
+    "comment-ai-16": {
+      "codepoint": 57514,
+      "fontFamily": "Octicon",
+      "identifier": "commentAi16"
+    },
+    "comment-ai-24": {
+      "codepoint": 57515,
+      "fontFamily": "Octicon",
+      "identifier": "commentAi24"
+    },
+    "comment-discussion": {
+      "codepoint": 57516,
+      "fontFamily": "Octicon",
+      "identifier": "commentDiscussion"
+    },
+    "comment-discussion-16": {
+      "codepoint": 57517,
+      "fontFamily": "Octicon",
+      "identifier": "commentDiscussion16"
+    },
+    "comment-discussion-24": {
+      "codepoint": 57518,
+      "fontFamily": "Octicon",
+      "identifier": "commentDiscussion24"
+    },
+    "comment-locked-16": {
+      "codepoint": 57519,
+      "fontFamily": "Octicon",
+      "identifier": "commentLocked16"
+    },
+    "commit-24": {
+      "codepoint": 57520,
+      "fontFamily": "Octicon",
+      "identifier": "commit24"
+    },
+    "compose-16": {
+      "codepoint": 57521,
+      "fontFamily": "Octicon",
+      "identifier": "compose16"
+    },
+    "compose-24": {
+      "codepoint": 57522,
+      "fontFamily": "Octicon",
+      "identifier": "compose24"
+    },
+    "container-16": {
+      "codepoint": 57523,
+      "fontFamily": "Octicon",
+      "identifier": "container16"
+    },
+    "container-24": {
+      "codepoint": 57524,
+      "fontFamily": "Octicon",
+      "identifier": "container24"
+    },
+    "copilot-16": {
+      "codepoint": 57525,
+      "fontFamily": "Octicon",
+      "identifier": "copilot16"
+    },
+    "copilot-24": {
+      "codepoint": 57526,
+      "fontFamily": "Octicon",
+      "identifier": "copilot24"
+    },
+    "copilot-48": {
+      "codepoint": 57527,
+      "fontFamily": "Octicon",
+      "identifier": "copilot48"
+    },
+    "copilot-96": {
+      "codepoint": 57528,
+      "fontFamily": "Octicon",
+      "identifier": "copilot96"
+    },
+    "copilot-error-16": {
+      "codepoint": 57529,
+      "fontFamily": "Octicon",
+      "identifier": "copilotError16"
+    },
+    "copilot-warning-16": {
+      "codepoint": 57530,
+      "fontFamily": "Octicon",
+      "identifier": "copilotWarning16"
+    },
+    "copy-16": {
+      "codepoint": 57531,
+      "fontFamily": "Octicon",
+      "identifier": "copy16"
+    },
+    "copy-24": {
+      "codepoint": 57532,
+      "fontFamily": "Octicon",
+      "identifier": "copy24"
+    },
+    "cpu-16": {
+      "codepoint": 57533,
+      "fontFamily": "Octicon",
+      "identifier": "cpu16"
+    },
+    "cpu-24": {
+      "codepoint": 57534,
+      "fontFamily": "Octicon",
+      "identifier": "cpu24"
+    },
+    "credit-card": {
+      "codepoint": 57535,
+      "fontFamily": "Octicon",
+      "identifier": "creditCard"
+    },
+    "credit-card-16": {
+      "codepoint": 57536,
+      "fontFamily": "Octicon",
+      "identifier": "creditCard16"
+    },
+    "credit-card-24": {
+      "codepoint": 57537,
+      "fontFamily": "Octicon",
+      "identifier": "creditCard24"
+    },
+    "cross-reference-16": {
+      "codepoint": 57538,
+      "fontFamily": "Octicon",
+      "identifier": "crossReference16"
+    },
+    "cross-reference-24": {
+      "codepoint": 57539,
+      "fontFamily": "Octicon",
+      "identifier": "crossReference24"
+    },
+    "crosshairs-16": {
+      "codepoint": 57540,
+      "fontFamily": "Octicon",
+      "identifier": "crosshairs16"
+    },
+    "crosshairs-24": {
+      "codepoint": 57541,
+      "fontFamily": "Octicon",
+      "identifier": "crosshairs24"
+    },
+    "dash": {
+      "codepoint": 57542,
+      "fontFamily": "Octicon",
+      "identifier": "dash"
+    },
+    "dash-16": {
+      "codepoint": 57543,
+      "fontFamily": "Octicon",
+      "identifier": "dash16"
+    },
+    "dash-24": {
+      "codepoint": 57544,
+      "fontFamily": "Octicon",
+      "identifier": "dash24"
+    },
+    "dashboard": {
+      "codepoint": 57545,
+      "fontFamily": "Octicon",
+      "identifier": "dashboard"
+    },
+    "database": {
+      "codepoint": 57546,
+      "fontFamily": "Octicon",
+      "identifier": "database"
+    },
+    "database-16": {
+      "codepoint": 57547,
+      "fontFamily": "Octicon",
+      "identifier": "database16"
+    },
+    "database-24": {
+      "codepoint": 57548,
+      "fontFamily": "Octicon",
+      "identifier": "database24"
+    },
+    "dependabot-16": {
+      "codepoint": 57549,
+      "fontFamily": "Octicon",
+      "identifier": "dependabot16"
+    },
+    "dependabot-24": {
+      "codepoint": 57550,
+      "fontFamily": "Octicon",
+      "identifier": "dependabot24"
+    },
+    "desktop-download": {
+      "codepoint": 57551,
+      "fontFamily": "Octicon",
+      "identifier": "desktopDownload"
+    },
+    "desktop-download-16": {
+      "codepoint": 57552,
+      "fontFamily": "Octicon",
+      "identifier": "desktopDownload16"
+    },
+    "desktop-download-24": {
+      "codepoint": 57553,
+      "fontFamily": "Octicon",
+      "identifier": "desktopDownload24"
+    },
+    "device-camera": {
+      "codepoint": 57554,
+      "fontFamily": "Octicon",
+      "identifier": "deviceCamera"
+    },
+    "device-camera-16": {
+      "codepoint": 57555,
+      "fontFamily": "Octicon",
+      "identifier": "deviceCamera16"
+    },
+    "device-camera-24": {
+      "codepoint": 57556,
+      "fontFamily": "Octicon",
+      "identifier": "deviceCamera24"
+    },
+    "device-camera-video": {
+      "codepoint": 57557,
+      "fontFamily": "Octicon",
+      "identifier": "deviceCameraVideo"
+    },
+    "device-camera-video-16": {
+      "codepoint": 57558,
+      "fontFamily": "Octicon",
+      "identifier": "deviceCameraVideo16"
+    },
+    "device-camera-video-24": {
+      "codepoint": 57559,
+      "fontFamily": "Octicon",
+      "identifier": "deviceCameraVideo24"
+    },
+    "device-desktop": {
+      "codepoint": 57560,
+      "fontFamily": "Octicon",
+      "identifier": "deviceDesktop"
+    },
+    "device-desktop-16": {
+      "codepoint": 57561,
+      "fontFamily": "Octicon",
+      "identifier": "deviceDesktop16"
+    },
+    "device-desktop-24": {
+      "codepoint": 57562,
+      "fontFamily": "Octicon",
+      "identifier": "deviceDesktop24"
+    },
+    "device-mobile": {
+      "codepoint": 57563,
+      "fontFamily": "Octicon",
+      "identifier": "deviceMobile"
+    },
+    "device-mobile-16": {
+      "codepoint": 57564,
+      "fontFamily": "Octicon",
+      "identifier": "deviceMobile16"
+    },
+    "device-mobile-24": {
+      "codepoint": 57565,
+      "fontFamily": "Octicon",
+      "identifier": "deviceMobile24"
+    },
+    "devices-16": {
+      "codepoint": 57566,
+      "fontFamily": "Octicon",
+      "identifier": "devices16"
+    },
+    "devices-24": {
+      "codepoint": 57567,
+      "fontFamily": "Octicon",
+      "identifier": "devices24"
+    },
+    "diamond-16": {
+      "codepoint": 57568,
+      "fontFamily": "Octicon",
+      "identifier": "diamond16"
+    },
+    "diamond-24": {
+      "codepoint": 57569,
+      "fontFamily": "Octicon",
+      "identifier": "diamond24"
+    },
+    "dice-16": {
+      "codepoint": 57570,
+      "fontFamily": "Octicon",
+      "identifier": "dice16"
+    },
+    "dice-24": {
+      "codepoint": 57571,
+      "fontFamily": "Octicon",
+      "identifier": "dice24"
+    },
+    "diff": {
+      "codepoint": 57572,
+      "fontFamily": "Octicon",
+      "identifier": "diff"
+    },
+    "diff-16": {
+      "codepoint": 57573,
+      "fontFamily": "Octicon",
+      "identifier": "diff16"
+    },
+    "diff-24": {
+      "codepoint": 57574,
+      "fontFamily": "Octicon",
+      "identifier": "diff24"
+    },
+    "diff-added": {
+      "codepoint": 57575,
+      "fontFamily": "Octicon",
+      "identifier": "diffAdded"
+    },
+    "diff-added-16": {
+      "codepoint": 57576,
+      "fontFamily": "Octicon",
+      "identifier": "diffAdded16"
+    },
+    "diff-added-24": {
+      "codepoint": 57577,
+      "fontFamily": "Octicon",
+      "identifier": "diffAdded24"
+    },
+    "diff-ignored": {
+      "codepoint": 57578,
+      "fontFamily": "Octicon",
+      "identifier": "diffIgnored"
+    },
+    "diff-ignored-16": {
+      "codepoint": 57579,
+      "fontFamily": "Octicon",
+      "identifier": "diffIgnored16"
+    },
+    "diff-ignored-24": {
+      "codepoint": 57580,
+      "fontFamily": "Octicon",
+      "identifier": "diffIgnored24"
+    },
+    "diff-modified": {
+      "codepoint": 57581,
+      "fontFamily": "Octicon",
+      "identifier": "diffModified"
+    },
+    "diff-modified-16": {
+      "codepoint": 57582,
+      "fontFamily": "Octicon",
+      "identifier": "diffModified16"
+    },
+    "diff-modified-24": {
+      "codepoint": 57583,
+      "fontFamily": "Octicon",
+      "identifier": "diffModified24"
+    },
+    "diff-removed": {
+      "codepoint": 57584,
+      "fontFamily": "Octicon",
+      "identifier": "diffRemoved"
+    },
+    "diff-removed-16": {
+      "codepoint": 57585,
+      "fontFamily": "Octicon",
+      "identifier": "diffRemoved16"
+    },
+    "diff-removed-24": {
+      "codepoint": 57586,
+      "fontFamily": "Octicon",
+      "identifier": "diffRemoved24"
+    },
+    "diff-renamed": {
+      "codepoint": 57587,
+      "fontFamily": "Octicon",
+      "identifier": "diffRenamed"
+    },
+    "diff-renamed-16": {
+      "codepoint": 57588,
+      "fontFamily": "Octicon",
+      "identifier": "diffRenamed16"
+    },
+    "diff-renamed-24": {
+      "codepoint": 57589,
+      "fontFamily": "Octicon",
+      "identifier": "diffRenamed24"
+    },
+    "discussion-closed-16": {
+      "codepoint": 57590,
+      "fontFamily": "Octicon",
+      "identifier": "discussionClosed16"
+    },
+    "discussion-closed-24": {
+      "codepoint": 57591,
+      "fontFamily": "Octicon",
+      "identifier": "discussionClosed24"
+    },
+    "discussion-duplicate-16": {
+      "codepoint": 57592,
+      "fontFamily": "Octicon",
+      "identifier": "discussionDuplicate16"
+    },
+    "discussion-duplicate-24": {
+      "codepoint": 57593,
+      "fontFamily": "Octicon",
+      "identifier": "discussionDuplicate24"
+    },
+    "discussion-outdated-16": {
+      "codepoint": 57594,
+      "fontFamily": "Octicon",
+      "identifier": "discussionOutdated16"
+    },
+    "discussion-outdated-24": {
+      "codepoint": 57595,
+      "fontFamily": "Octicon",
+      "identifier": "discussionOutdated24"
+    },
+    "dot-16": {
+      "codepoint": 57596,
+      "fontFamily": "Octicon",
+      "identifier": "dot16"
+    },
+    "dot-24": {
+      "codepoint": 57597,
+      "fontFamily": "Octicon",
+      "identifier": "dot24"
+    },
+    "dot-fill-16": {
+      "codepoint": 57598,
+      "fontFamily": "Octicon",
+      "identifier": "dotFill16"
+    },
+    "dot-fill-24": {
+      "codepoint": 57599,
+      "fontFamily": "Octicon",
+      "identifier": "dotFill24"
+    },
+    "download-16": {
+      "codepoint": 57600,
+      "fontFamily": "Octicon",
+      "identifier": "download16"
+    },
+    "download-24": {
+      "codepoint": 57601,
+      "fontFamily": "Octicon",
+      "identifier": "download24"
+    },
+    "duplicate-16": {
+      "codepoint": 57602,
+      "fontFamily": "Octicon",
+      "identifier": "duplicate16"
+    },
+    "duplicate-24": {
+      "codepoint": 57603,
+      "fontFamily": "Octicon",
+      "identifier": "duplicate24"
+    },
+    "ellipsis": {
+      "codepoint": 57604,
+      "fontFamily": "Octicon",
+      "identifier": "ellipsis"
+    },
+    "ellipsis-16": {
+      "codepoint": 57605,
+      "fontFamily": "Octicon",
+      "identifier": "ellipsis16"
+    },
+    "ellipsis-24": {
+      "codepoint": 57606,
+      "fontFamily": "Octicon",
+      "identifier": "ellipsis24"
+    },
+    "exclamation-16": {
+      "codepoint": 57607,
+      "fontFamily": "Octicon",
+      "identifier": "exclamation16"
+    },
+    "exclamation-24": {
+      "codepoint": 57608,
+      "fontFamily": "Octicon",
+      "identifier": "exclamation24"
+    },
+    "eye": {
+      "codepoint": 57609,
+      "fontFamily": "Octicon",
+      "identifier": "eye"
+    },
+    "eye-16": {
+      "codepoint": 57610,
+      "fontFamily": "Octicon",
+      "identifier": "eye16"
+    },
+    "eye-24": {
+      "codepoint": 57611,
+      "fontFamily": "Octicon",
+      "identifier": "eye24"
+    },
+    "eye-closed": {
+      "codepoint": 57612,
+      "fontFamily": "Octicon",
+      "identifier": "eyeClosed"
+    },
+    "eye-closed-16": {
+      "codepoint": 57613,
+      "fontFamily": "Octicon",
+      "identifier": "eyeClosed16"
+    },
+    "eye-closed-24": {
+      "codepoint": 57614,
+      "fontFamily": "Octicon",
+      "identifier": "eyeClosed24"
+    },
+    "eye-slash-24": {
+      "codepoint": 57615,
+      "fontFamily": "Octicon",
+      "identifier": "eyeSlash24"
+    },
+    "feed-discussion-16": {
+      "codepoint": 57616,
+      "fontFamily": "Octicon",
+      "identifier": "feedDiscussion16"
+    },
+    "feed-forked-16": {
+      "codepoint": 57617,
+      "fontFamily": "Octicon",
+      "identifier": "feedForked16"
+    },
+    "feed-heart-16": {
+      "codepoint": 57618,
+      "fontFamily": "Octicon",
+      "identifier": "feedHeart16"
+    },
+    "feed-issue-closed-16": {
+      "codepoint": 57619,
+      "fontFamily": "Octicon",
+      "identifier": "feedIssueClosed16"
+    },
+    "feed-issue-draft-16": {
+      "codepoint": 57620,
+      "fontFamily": "Octicon",
+      "identifier": "feedIssueDraft16"
+    },
+    "feed-issue-open-16": {
+      "codepoint": 57621,
+      "fontFamily": "Octicon",
+      "identifier": "feedIssueOpen16"
+    },
+    "feed-issue-reopen-16": {
+      "codepoint": 57622,
+      "fontFamily": "Octicon",
+      "identifier": "feedIssueReopen16"
+    },
+    "feed-merged-16": {
+      "codepoint": 57623,
+      "fontFamily": "Octicon",
+      "identifier": "feedMerged16"
+    },
+    "feed-person-16": {
+      "codepoint": 57624,
+      "fontFamily": "Octicon",
+      "identifier": "feedPerson16"
+    },
+    "feed-plus-16": {
+      "codepoint": 57625,
+      "fontFamily": "Octicon",
+      "identifier": "feedPlus16"
+    },
+    "feed-public-16": {
+      "codepoint": 57626,
+      "fontFamily": "Octicon",
+      "identifier": "feedPublic16"
+    },
+    "feed-pull-request-closed-16": {
+      "codepoint": 57627,
+      "fontFamily": "Octicon",
+      "identifier": "feedPullRequestClosed16"
+    },
+    "feed-pull-request-draft-16": {
+      "codepoint": 57628,
+      "fontFamily": "Octicon",
+      "identifier": "feedPullRequestDraft16"
+    },
+    "feed-pull-request-open-16": {
+      "codepoint": 57629,
+      "fontFamily": "Octicon",
+      "identifier": "feedPullRequestOpen16"
+    },
+    "feed-repo-16": {
+      "codepoint": 57630,
+      "fontFamily": "Octicon",
+      "identifier": "feedRepo16"
+    },
+    "feed-rocket-16": {
+      "codepoint": 57631,
+      "fontFamily": "Octicon",
+      "identifier": "feedRocket16"
+    },
+    "feed-star-16": {
+      "codepoint": 57632,
+      "fontFamily": "Octicon",
+      "identifier": "feedStar16"
+    },
+    "feed-tag-16": {
+      "codepoint": 57633,
+      "fontFamily": "Octicon",
+      "identifier": "feedTag16"
+    },
+    "feed-trophy-16": {
+      "codepoint": 57634,
+      "fontFamily": "Octicon",
+      "identifier": "feedTrophy16"
+    },
+    "file": {
+      "codepoint": 57635,
+      "fontFamily": "Octicon",
+      "identifier": "file"
+    },
+    "file-16": {
+      "codepoint": 57636,
+      "fontFamily": "Octicon",
+      "identifier": "file16"
+    },
+    "file-24": {
+      "codepoint": 57637,
+      "fontFamily": "Octicon",
+      "identifier": "file24"
+    },
+    "file-added-16": {
+      "codepoint": 57638,
+      "fontFamily": "Octicon",
+      "identifier": "fileAdded16"
+    },
+    "file-added-24": {
+      "codepoint": 57639,
+      "fontFamily": "Octicon",
+      "identifier": "fileAdded24"
+    },
+    "file-badge-16": {
+      "codepoint": 57640,
+      "fontFamily": "Octicon",
+      "identifier": "fileBadge16"
+    },
+    "file-badge-24": {
+      "codepoint": 57641,
+      "fontFamily": "Octicon",
+      "identifier": "fileBadge24"
+    },
+    "file-binary": {
+      "codepoint": 57642,
+      "fontFamily": "Octicon",
+      "identifier": "fileBinary"
+    },
+    "file-binary-16": {
+      "codepoint": 57643,
+      "fontFamily": "Octicon",
+      "identifier": "fileBinary16"
+    },
+    "file-binary-24": {
+      "codepoint": 57644,
+      "fontFamily": "Octicon",
+      "identifier": "fileBinary24"
+    },
+    "file-check-16": {
+      "codepoint": 57645,
+      "fontFamily": "Octicon",
+      "identifier": "fileCheck16"
+    },
+    "file-check-24": {
+      "codepoint": 57646,
+      "fontFamily": "Octicon",
+      "identifier": "fileCheck24"
+    },
+    "file-code": {
+      "codepoint": 57647,
+      "fontFamily": "Octicon",
+      "identifier": "fileCode"
+    },
+    "file-code-16": {
+      "codepoint": 57648,
+      "fontFamily": "Octicon",
+      "identifier": "fileCode16"
+    },
+    "file-code-24": {
+      "codepoint": 57649,
+      "fontFamily": "Octicon",
+      "identifier": "fileCode24"
+    },
+    "file-diff-16": {
+      "codepoint": 57650,
+      "fontFamily": "Octicon",
+      "identifier": "fileDiff16"
+    },
+    "file-diff-24": {
+      "codepoint": 57651,
+      "fontFamily": "Octicon",
+      "identifier": "fileDiff24"
+    },
+    "file-directory": {
+      "codepoint": 57652,
+      "fontFamily": "Octicon",
+      "identifier": "fileDirectory"
+    },
+    "file-directory-16": {
+      "codepoint": 57653,
+      "fontFamily": "Octicon",
+      "identifier": "fileDirectory16"
+    },
+    "file-directory-24": {
+      "codepoint": 57654,
+      "fontFamily": "Octicon",
+      "identifier": "fileDirectory24"
+    },
+    "file-directory-fill-16": {
+      "codepoint": 57655,
+      "fontFamily": "Octicon",
+      "identifier": "fileDirectoryFill16"
+    },
+    "file-directory-fill-24": {
+      "codepoint": 57656,
+      "fontFamily": "Octicon",
+      "identifier": "fileDirectoryFill24"
+    },
+    "file-directory-open-fill-16": {
+      "codepoint": 57657,
+      "fontFamily": "Octicon",
+      "identifier": "fileDirectoryOpenFill16"
+    },
+    "file-directory-open-fill-24": {
+      "codepoint": 57658,
+      "fontFamily": "Octicon",
+      "identifier": "fileDirectoryOpenFill24"
+    },
+    "file-directory-symlink-16": {
+      "codepoint": 57659,
+      "fontFamily": "Octicon",
+      "identifier": "fileDirectorySymlink16"
+    },
+    "file-directory-symlink-24": {
+      "codepoint": 57660,
+      "fontFamily": "Octicon",
+      "identifier": "fileDirectorySymlink24"
+    },
+    "file-media": {
+      "codepoint": 57661,
+      "fontFamily": "Octicon",
+      "identifier": "fileMedia"
+    },
+    "file-media-16": {
+      "codepoint": 57662,
+      "fontFamily": "Octicon",
+      "identifier": "fileMedia16"
+    },
+    "file-media-24": {
+      "codepoint": 57663,
+      "fontFamily": "Octicon",
+      "identifier": "fileMedia24"
+    },
+    "file-moved-16": {
+      "codepoint": 57664,
+      "fontFamily": "Octicon",
+      "identifier": "fileMoved16"
+    },
+    "file-moved-24": {
+      "codepoint": 57665,
+      "fontFamily": "Octicon",
+      "identifier": "fileMoved24"
+    },
+    "file-pdf": {
+      "codepoint": 57666,
+      "fontFamily": "Octicon",
+      "identifier": "filePdf"
+    },
+    "file-removed-16": {
+      "codepoint": 57667,
+      "fontFamily": "Octicon",
+      "identifier": "fileRemoved16"
+    },
+    "file-removed-24": {
+      "codepoint": 57668,
+      "fontFamily": "Octicon",
+      "identifier": "fileRemoved24"
+    },
+    "file-submodule": {
+      "codepoint": 57669,
+      "fontFamily": "Octicon",
+      "identifier": "fileSubmodule"
+    },
+    "file-submodule-16": {
+      "codepoint": 57670,
+      "fontFamily": "Octicon",
+      "identifier": "fileSubmodule16"
+    },
+    "file-submodule-24": {
+      "codepoint": 57671,
+      "fontFamily": "Octicon",
+      "identifier": "fileSubmodule24"
+    },
+    "file-symlink-24": {
+      "codepoint": 57672,
+      "fontFamily": "Octicon",
+      "identifier": "fileSymlink24"
+    },
+    "file-symlink-directory": {
+      "codepoint": 57673,
+      "fontFamily": "Octicon",
+      "identifier": "fileSymlinkDirectory"
+    },
+    "file-symlink-file": {
+      "codepoint": 57674,
+      "fontFamily": "Octicon",
+      "identifier": "fileSymlinkFile"
+    },
+    "file-symlink-file-16": {
+      "codepoint": 57675,
+      "fontFamily": "Octicon",
+      "identifier": "fileSymlinkFile16"
+    },
+    "file-symlink-file-24": {
+      "codepoint": 57676,
+      "fontFamily": "Octicon",
+      "identifier": "fileSymlinkFile24"
+    },
+    "file-zip": {
+      "codepoint": 57677,
+      "fontFamily": "Octicon",
+      "identifier": "fileZip"
+    },
+    "file-zip-16": {
+      "codepoint": 57678,
+      "fontFamily": "Octicon",
+      "identifier": "fileZip16"
+    },
+    "file-zip-24": {
+      "codepoint": 57679,
+      "fontFamily": "Octicon",
+      "identifier": "fileZip24"
+    },
+    "filter-16": {
+      "codepoint": 57680,
+      "fontFamily": "Octicon",
+      "identifier": "filter16"
+    },
+    "filter-24": {
+      "codepoint": 57681,
+      "fontFamily": "Octicon",
+      "identifier": "filter24"
+    },
+    "filter-remove-16": {
+      "codepoint": 57682,
+      "fontFamily": "Octicon",
+      "identifier": "filterRemove16"
+    },
+    "filter-remove-24": {
+      "codepoint": 57683,
+      "fontFamily": "Octicon",
+      "identifier": "filterRemove24"
+    },
+    "fire-24": {
+      "codepoint": 57684,
+      "fontFamily": "Octicon",
+      "identifier": "fire24"
+    },
+    "fiscal-host-16": {
+      "codepoint": 57685,
+      "fontFamily": "Octicon",
+      "identifier": "fiscalHost16"
+    },
+    "fiscal-host-24": {
+      "codepoint": 57686,
+      "fontFamily": "Octicon",
+      "identifier": "fiscalHost24"
+    },
+    "flame": {
+      "codepoint": 57687,
+      "fontFamily": "Octicon",
+      "identifier": "flame"
+    },
+    "flame-16": {
+      "codepoint": 57688,
+      "fontFamily": "Octicon",
+      "identifier": "flame16"
+    },
+    "flame-24": {
+      "codepoint": 57689,
+      "fontFamily": "Octicon",
+      "identifier": "flame24"
+    },
+    "flowchart-16": {
+      "codepoint": 57690,
+      "fontFamily": "Octicon",
+      "identifier": "flowchart16"
+    },
+    "flowchart-24": {
+      "codepoint": 57691,
+      "fontFamily": "Octicon",
+      "identifier": "flowchart24"
+    },
+    "focus-center-16": {
+      "codepoint": 57692,
+      "fontFamily": "Octicon",
+      "identifier": "focusCenter16"
+    },
+    "focus-center-24": {
+      "codepoint": 57693,
+      "fontFamily": "Octicon",
+      "identifier": "focusCenter24"
+    },
+    "fold": {
+      "codepoint": 57694,
+      "fontFamily": "Octicon",
+      "identifier": "fold"
+    },
+    "fold-16": {
+      "codepoint": 57695,
+      "fontFamily": "Octicon",
+      "identifier": "fold16"
+    },
+    "fold-24": {
+      "codepoint": 57696,
+      "fontFamily": "Octicon",
+      "identifier": "fold24"
+    },
+    "fold-down": {
+      "codepoint": 57697,
+      "fontFamily": "Octicon",
+      "identifier": "foldDown"
+    },
+    "fold-down-16": {
+      "codepoint": 57698,
+      "fontFamily": "Octicon",
+      "identifier": "foldDown16"
+    },
+    "fold-down-24": {
+      "codepoint": 57699,
+      "fontFamily": "Octicon",
+      "identifier": "foldDown24"
+    },
+    "fold-up": {
+      "codepoint": 57700,
+      "fontFamily": "Octicon",
+      "identifier": "foldUp"
+    },
+    "fold-up-16": {
+      "codepoint": 57701,
+      "fontFamily": "Octicon",
+      "identifier": "foldUp16"
+    },
+    "fold-up-24": {
+      "codepoint": 57702,
+      "fontFamily": "Octicon",
+      "identifier": "foldUp24"
+    },
+    "gear": {
+      "codepoint": 57703,
+      "fontFamily": "Octicon",
+      "identifier": "gear"
+    },
+    "gear-16": {
+      "codepoint": 57704,
+      "fontFamily": "Octicon",
+      "identifier": "gear16"
+    },
+    "gear-24": {
+      "codepoint": 57705,
+      "fontFamily": "Octicon",
+      "identifier": "gear24"
+    },
+    "gift": {
+      "codepoint": 57706,
+      "fontFamily": "Octicon",
+      "identifier": "gift"
+    },
+    "gift-16": {
+      "codepoint": 57707,
+      "fontFamily": "Octicon",
+      "identifier": "gift16"
+    },
+    "gift-24": {
+      "codepoint": 57708,
+      "fontFamily": "Octicon",
+      "identifier": "gift24"
+    },
+    "gist": {
+      "codepoint": 57709,
+      "fontFamily": "Octicon",
+      "identifier": "gist"
+    },
+    "gist-secret": {
+      "codepoint": 57710,
+      "fontFamily": "Octicon",
+      "identifier": "gistSecret"
+    },
+    "git-branch": {
+      "codepoint": 57711,
+      "fontFamily": "Octicon",
+      "identifier": "gitBranch"
+    },
+    "git-branch-16": {
+      "codepoint": 57712,
+      "fontFamily": "Octicon",
+      "identifier": "gitBranch16"
+    },
+    "git-branch-24": {
+      "codepoint": 57713,
+      "fontFamily": "Octicon",
+      "identifier": "gitBranch24"
+    },
+    "git-branch-check-16": {
+      "codepoint": 57714,
+      "fontFamily": "Octicon",
+      "identifier": "gitBranchCheck16"
+    },
+    "git-branch-check-24": {
+      "codepoint": 57715,
+      "fontFamily": "Octicon",
+      "identifier": "gitBranchCheck24"
+    },
+    "git-commit": {
+      "codepoint": 57716,
+      "fontFamily": "Octicon",
+      "identifier": "gitCommit"
+    },
+    "git-commit-16": {
+      "codepoint": 57717,
+      "fontFamily": "Octicon",
+      "identifier": "gitCommit16"
+    },
+    "git-commit-24": {
+      "codepoint": 57718,
+      "fontFamily": "Octicon",
+      "identifier": "gitCommit24"
+    },
+    "git-compare": {
+      "codepoint": 57719,
+      "fontFamily": "Octicon",
+      "identifier": "gitCompare"
+    },
+    "git-compare-16": {
+      "codepoint": 57720,
+      "fontFamily": "Octicon",
+      "identifier": "gitCompare16"
+    },
+    "git-compare-24": {
+      "codepoint": 57721,
+      "fontFamily": "Octicon",
+      "identifier": "gitCompare24"
+    },
+    "git-fork-24": {
+      "codepoint": 57722,
+      "fontFamily": "Octicon",
+      "identifier": "gitFork24"
+    },
+    "git-merge": {
+      "codepoint": 57723,
+      "fontFamily": "Octicon",
+      "identifier": "gitMerge"
+    },
+    "git-merge-16": {
+      "codepoint": 57724,
+      "fontFamily": "Octicon",
+      "identifier": "gitMerge16"
+    },
+    "git-merge-24": {
+      "codepoint": 57725,
+      "fontFamily": "Octicon",
+      "identifier": "gitMerge24"
+    },
+    "git-merge-queue-16": {
+      "codepoint": 57726,
+      "fontFamily": "Octicon",
+      "identifier": "gitMergeQueue16"
+    },
+    "git-merge-queue-24": {
+      "codepoint": 57727,
+      "fontFamily": "Octicon",
+      "identifier": "gitMergeQueue24"
+    },
+    "git-pull-request": {
+      "codepoint": 57728,
+      "fontFamily": "Octicon",
+      "identifier": "gitPullRequest"
+    },
+    "git-pull-request-16": {
+      "codepoint": 57729,
+      "fontFamily": "Octicon",
+      "identifier": "gitPullRequest16"
+    },
+    "git-pull-request-24": {
+      "codepoint": 57730,
+      "fontFamily": "Octicon",
+      "identifier": "gitPullRequest24"
+    },
+    "git-pull-request-closed-16": {
+      "codepoint": 57731,
+      "fontFamily": "Octicon",
+      "identifier": "gitPullRequestClosed16"
+    },
+    "git-pull-request-closed-24": {
+      "codepoint": 57732,
+      "fontFamily": "Octicon",
+      "identifier": "gitPullRequestClosed24"
+    },
+    "git-pull-request-draft-16": {
+      "codepoint": 57733,
+      "fontFamily": "Octicon",
+      "identifier": "gitPullRequestDraft16"
+    },
+    "git-pull-request-draft-24": {
+      "codepoint": 57734,
+      "fontFamily": "Octicon",
+      "identifier": "gitPullRequestDraft24"
+    },
+    "git-pull-request-locked-16": {
+      "codepoint": 57735,
+      "fontFamily": "Octicon",
+      "identifier": "gitPullRequestLocked16"
+    },
+    "github-action": {
+      "codepoint": 57736,
+      "fontFamily": "Octicon",
+      "identifier": "githubAction"
+    },
+    "globe": {
+      "codepoint": 57737,
+      "fontFamily": "Octicon",
+      "identifier": "globe"
+    },
+    "globe-16": {
+      "codepoint": 57738,
+      "fontFamily": "Octicon",
+      "identifier": "globe16"
+    },
+    "globe-24": {
+      "codepoint": 57739,
+      "fontFamily": "Octicon",
+      "identifier": "globe24"
+    },
+    "goal-16": {
+      "codepoint": 57740,
+      "fontFamily": "Octicon",
+      "identifier": "goal16"
+    },
+    "goal-24": {
+      "codepoint": 57741,
+      "fontFamily": "Octicon",
+      "identifier": "goal24"
+    },
+    "grabber": {
+      "codepoint": 57742,
+      "fontFamily": "Octicon",
+      "identifier": "grabber"
+    },
+    "grabber-16": {
+      "codepoint": 57743,
+      "fontFamily": "Octicon",
+      "identifier": "grabber16"
+    },
+    "grabber-24": {
+      "codepoint": 57744,
+      "fontFamily": "Octicon",
+      "identifier": "grabber24"
+    },
+    "graph": {
+      "codepoint": 57745,
+      "fontFamily": "Octicon",
+      "identifier": "graph"
+    },
+    "graph-16": {
+      "codepoint": 57746,
+      "fontFamily": "Octicon",
+      "identifier": "graph16"
+    },
+    "graph-24": {
+      "codepoint": 57747,
+      "fontFamily": "Octicon",
+      "identifier": "graph24"
+    },
+    "graph-bar-horizontal-16": {
+      "codepoint": 57748,
+      "fontFamily": "Octicon",
+      "identifier": "graphBarHorizontal16"
+    },
+    "graph-bar-horizontal-24": {
+      "codepoint": 57749,
+      "fontFamily": "Octicon",
+      "identifier": "graphBarHorizontal24"
+    },
+    "graph-bar-vertical-16": {
+      "codepoint": 57750,
+      "fontFamily": "Octicon",
+      "identifier": "graphBarVertical16"
+    },
+    "graph-bar-vertical-24": {
+      "codepoint": 57751,
+      "fontFamily": "Octicon",
+      "identifier": "graphBarVertical24"
+    },
+    "hash-16": {
+      "codepoint": 57752,
+      "fontFamily": "Octicon",
+      "identifier": "hash16"
+    },
+    "hash-24": {
+      "codepoint": 57753,
+      "fontFamily": "Octicon",
+      "identifier": "hash24"
+    },
+    "heading-16": {
+      "codepoint": 57754,
+      "fontFamily": "Octicon",
+      "identifier": "heading16"
+    },
+    "heading-24": {
+      "codepoint": 57755,
+      "fontFamily": "Octicon",
+      "identifier": "heading24"
+    },
+    "heart": {
+      "codepoint": 57756,
+      "fontFamily": "Octicon",
+      "identifier": "heart"
+    },
+    "heart-16": {
+      "codepoint": 57757,
+      "fontFamily": "Octicon",
+      "identifier": "heart16"
+    },
+    "heart-24": {
+      "codepoint": 57758,
+      "fontFamily": "Octicon",
+      "identifier": "heart24"
+    },
+    "heart-fill-16": {
+      "codepoint": 57759,
+      "fontFamily": "Octicon",
+      "identifier": "heartFill16"
+    },
+    "heart-fill-24": {
+      "codepoint": 57760,
+      "fontFamily": "Octicon",
+      "identifier": "heartFill24"
+    },
+    "history": {
+      "codepoint": 57761,
+      "fontFamily": "Octicon",
+      "identifier": "history"
+    },
+    "history-16": {
+      "codepoint": 57762,
+      "fontFamily": "Octicon",
+      "identifier": "history16"
+    },
+    "history-24": {
+      "codepoint": 57763,
+      "fontFamily": "Octicon",
+      "identifier": "history24"
+    },
+    "home": {
+      "codepoint": 57764,
+      "fontFamily": "Octicon",
+      "identifier": "home"
+    },
+    "home-16": {
+      "codepoint": 57765,
+      "fontFamily": "Octicon",
+      "identifier": "home16"
+    },
+    "home-24": {
+      "codepoint": 57766,
+      "fontFamily": "Octicon",
+      "identifier": "home24"
+    },
+    "home-fill-16": {
+      "codepoint": 57767,
+      "fontFamily": "Octicon",
+      "identifier": "homeFill16"
+    },
+    "home-fill-24": {
+      "codepoint": 57768,
+      "fontFamily": "Octicon",
+      "identifier": "homeFill24"
+    },
+    "horizontal-rule": {
+      "codepoint": 57769,
+      "fontFamily": "Octicon",
+      "identifier": "horizontalRule"
+    },
+    "horizontal-rule-16": {
+      "codepoint": 57770,
+      "fontFamily": "Octicon",
+      "identifier": "horizontalRule16"
+    },
+    "horizontal-rule-24": {
+      "codepoint": 57771,
+      "fontFamily": "Octicon",
+      "identifier": "horizontalRule24"
+    },
+    "hourglass-16": {
+      "codepoint": 57772,
+      "fontFamily": "Octicon",
+      "identifier": "hourglass16"
+    },
+    "hourglass-24": {
+      "codepoint": 57773,
+      "fontFamily": "Octicon",
+      "identifier": "hourglass24"
+    },
+    "hubot": {
+      "codepoint": 57774,
+      "fontFamily": "Octicon",
+      "identifier": "hubot"
+    },
+    "hubot-16": {
+      "codepoint": 57775,
+      "fontFamily": "Octicon",
+      "identifier": "hubot16"
+    },
+    "hubot-24": {
+      "codepoint": 57776,
+      "fontFamily": "Octicon",
+      "identifier": "hubot24"
+    },
+    "id-badge-16": {
+      "codepoint": 57777,
+      "fontFamily": "Octicon",
+      "identifier": "idBadge16"
+    },
+    "id-badge-24": {
+      "codepoint": 57778,
+      "fontFamily": "Octicon",
+      "identifier": "idBadge24"
+    },
+    "image-16": {
+      "codepoint": 57779,
+      "fontFamily": "Octicon",
+      "identifier": "image16"
+    },
+    "image-24": {
+      "codepoint": 57780,
+      "fontFamily": "Octicon",
+      "identifier": "image24"
+    },
+    "inbox": {
+      "codepoint": 57781,
+      "fontFamily": "Octicon",
+      "identifier": "inbox"
+    },
+    "inbox-16": {
+      "codepoint": 57782,
+      "fontFamily": "Octicon",
+      "identifier": "inbox16"
+    },
+    "inbox-24": {
+      "codepoint": 57783,
+      "fontFamily": "Octicon",
+      "identifier": "inbox24"
+    },
+    "inbox-fill-16": {
+      "codepoint": 57784,
+      "fontFamily": "Octicon",
+      "identifier": "inboxFill16"
+    },
+    "inbox-fill-24": {
+      "codepoint": 57785,
+      "fontFamily": "Octicon",
+      "identifier": "inboxFill24"
+    },
+    "infinity-16": {
+      "codepoint": 57786,
+      "fontFamily": "Octicon",
+      "identifier": "infinity16"
+    },
+    "infinity-24": {
+      "codepoint": 57787,
+      "fontFamily": "Octicon",
+      "identifier": "infinity24"
+    },
+    "info": {
+      "codepoint": 57788,
+      "fontFamily": "Octicon",
+      "identifier": "info"
+    },
+    "info-16": {
+      "codepoint": 57789,
+      "fontFamily": "Octicon",
+      "identifier": "info16"
+    },
+    "info-24": {
+      "codepoint": 57790,
+      "fontFamily": "Octicon",
+      "identifier": "info24"
+    },
+    "insights-24": {
+      "codepoint": 57791,
+      "fontFamily": "Octicon",
+      "identifier": "insights24"
+    },
+    "issue-closed": {
+      "codepoint": 57792,
+      "fontFamily": "Octicon",
+      "identifier": "issueClosed"
+    },
+    "issue-closed-16": {
+      "codepoint": 57793,
+      "fontFamily": "Octicon",
+      "identifier": "issueClosed16"
+    },
+    "issue-closed-24": {
+      "codepoint": 57794,
+      "fontFamily": "Octicon",
+      "identifier": "issueClosed24"
+    },
+    "issue-draft-16": {
+      "codepoint": 57795,
+      "fontFamily": "Octicon",
+      "identifier": "issueDraft16"
+    },
+    "issue-draft-24": {
+      "codepoint": 57796,
+      "fontFamily": "Octicon",
+      "identifier": "issueDraft24"
+    },
+    "issue-locked-16": {
+      "codepoint": 57797,
+      "fontFamily": "Octicon",
+      "identifier": "issueLocked16"
+    },
+    "issue-opened": {
+      "codepoint": 57798,
+      "fontFamily": "Octicon",
+      "identifier": "issueOpened"
+    },
+    "issue-opened-16": {
+      "codepoint": 57799,
+      "fontFamily": "Octicon",
+      "identifier": "issueOpened16"
+    },
+    "issue-opened-24": {
+      "codepoint": 57800,
+      "fontFamily": "Octicon",
+      "identifier": "issueOpened24"
+    },
+    "issue-reopened": {
+      "codepoint": 57801,
+      "fontFamily": "Octicon",
+      "identifier": "issueReopened"
+    },
+    "issue-reopened-16": {
+      "codepoint": 57802,
+      "fontFamily": "Octicon",
+      "identifier": "issueReopened16"
+    },
+    "issue-reopened-24": {
+      "codepoint": 57803,
+      "fontFamily": "Octicon",
+      "identifier": "issueReopened24"
+    },
+    "issue-tracked-by-16": {
+      "codepoint": 57804,
+      "fontFamily": "Octicon",
+      "identifier": "issueTrackedBy16"
+    },
+    "issue-tracked-by-24": {
+      "codepoint": 57805,
+      "fontFamily": "Octicon",
+      "identifier": "issueTrackedBy24"
+    },
+    "issue-tracked-in-16": {
+      "codepoint": 57806,
+      "fontFamily": "Octicon",
+      "identifier": "issueTrackedIn16"
+    },
+    "issue-tracked-in-24": {
+      "codepoint": 57807,
+      "fontFamily": "Octicon",
+      "identifier": "issueTrackedIn24"
+    },
+    "issue-tracks-16": {
+      "codepoint": 57808,
+      "fontFamily": "Octicon",
+      "identifier": "issueTracks16"
+    },
+    "issue-tracks-24": {
+      "codepoint": 57809,
+      "fontFamily": "Octicon",
+      "identifier": "issueTracks24"
+    },
+    "italic": {
+      "codepoint": 57810,
+      "fontFamily": "Octicon",
+      "identifier": "italic"
+    },
+    "italic-16": {
+      "codepoint": 57811,
+      "fontFamily": "Octicon",
+      "identifier": "italic16"
+    },
+    "italic-24": {
+      "codepoint": 57812,
+      "fontFamily": "Octicon",
+      "identifier": "italic24"
+    },
+    "iterations-16": {
+      "codepoint": 57813,
+      "fontFamily": "Octicon",
+      "identifier": "iterations16"
+    },
+    "iterations-24": {
+      "codepoint": 57814,
+      "fontFamily": "Octicon",
+      "identifier": "iterations24"
+    },
+    "jersey": {
+      "codepoint": 57815,
+      "fontFamily": "Octicon",
+      "identifier": "jersey"
+    },
+    "kebab-horizontal": {
+      "codepoint": 57816,
+      "fontFamily": "Octicon",
+      "identifier": "kebabHorizontal"
+    },
+    "kebab-horizontal-16": {
+      "codepoint": 57817,
+      "fontFamily": "Octicon",
+      "identifier": "kebabHorizontal16"
+    },
+    "kebab-horizontal-24": {
+      "codepoint": 57818,
+      "fontFamily": "Octicon",
+      "identifier": "kebabHorizontal24"
+    },
+    "kebab-vertical": {
+      "codepoint": 57819,
+      "fontFamily": "Octicon",
+      "identifier": "kebabVertical"
+    },
+    "key": {
+      "codepoint": 57820,
+      "fontFamily": "Octicon",
+      "identifier": "key"
+    },
+    "key-16": {
+      "codepoint": 57821,
+      "fontFamily": "Octicon",
+      "identifier": "key16"
+    },
+    "key-24": {
+      "codepoint": 57822,
+      "fontFamily": "Octicon",
+      "identifier": "key24"
+    },
+    "key-asterisk-16": {
+      "codepoint": 57823,
+      "fontFamily": "Octicon",
+      "identifier": "keyAsterisk16"
+    },
+    "key-asterisk-24": {
+      "codepoint": 57824,
+      "fontFamily": "Octicon",
+      "identifier": "keyAsterisk24"
+    },
+    "keyboard": {
+      "codepoint": 57825,
+      "fontFamily": "Octicon",
+      "identifier": "keyboard"
+    },
+    "law": {
+      "codepoint": 57826,
+      "fontFamily": "Octicon",
+      "identifier": "law"
+    },
+    "law-16": {
+      "codepoint": 57827,
+      "fontFamily": "Octicon",
+      "identifier": "law16"
+    },
+    "law-24": {
+      "codepoint": 57828,
+      "fontFamily": "Octicon",
+      "identifier": "law24"
+    },
+    "light-bulb": {
+      "codepoint": 57829,
+      "fontFamily": "Octicon",
+      "identifier": "lightBulb"
+    },
+    "light-bulb-16": {
+      "codepoint": 57830,
+      "fontFamily": "Octicon",
+      "identifier": "lightBulb16"
+    },
+    "light-bulb-24": {
+      "codepoint": 57831,
+      "fontFamily": "Octicon",
+      "identifier": "lightBulb24"
+    },
+    "link": {
+      "codepoint": 57832,
+      "fontFamily": "Octicon",
+      "identifier": "link"
+    },
+    "link-16": {
+      "codepoint": 57833,
+      "fontFamily": "Octicon",
+      "identifier": "link16"
+    },
+    "link-24": {
+      "codepoint": 57834,
+      "fontFamily": "Octicon",
+      "identifier": "link24"
+    },
+    "link-external": {
+      "codepoint": 57835,
+      "fontFamily": "Octicon",
+      "identifier": "linkExternal"
+    },
+    "link-external-16": {
+      "codepoint": 57836,
+      "fontFamily": "Octicon",
+      "identifier": "linkExternal16"
+    },
+    "link-external-24": {
+      "codepoint": 57837,
+      "fontFamily": "Octicon",
+      "identifier": "linkExternal24"
+    },
+    "list-ordered": {
+      "codepoint": 57838,
+      "fontFamily": "Octicon",
+      "identifier": "listOrdered"
+    },
+    "list-ordered-16": {
+      "codepoint": 57839,
+      "fontFamily": "Octicon",
+      "identifier": "listOrdered16"
+    },
+    "list-ordered-24": {
+      "codepoint": 57840,
+      "fontFamily": "Octicon",
+      "identifier": "listOrdered24"
+    },
+    "list-unordered": {
+      "codepoint": 57841,
+      "fontFamily": "Octicon",
+      "identifier": "listUnordered"
+    },
+    "list-unordered-16": {
+      "codepoint": 57842,
+      "fontFamily": "Octicon",
+      "identifier": "listUnordered16"
+    },
+    "list-unordered-24": {
+      "codepoint": 57843,
+      "fontFamily": "Octicon",
+      "identifier": "listUnordered24"
+    },
+    "location": {
+      "codepoint": 57844,
+      "fontFamily": "Octicon",
+      "identifier": "location"
+    },
+    "location-16": {
+      "codepoint": 57845,
+      "fontFamily": "Octicon",
+      "identifier": "location16"
+    },
+    "location-24": {
+      "codepoint": 57846,
+      "fontFamily": "Octicon",
+      "identifier": "location24"
+    },
+    "lock": {
+      "codepoint": 57847,
+      "fontFamily": "Octicon",
+      "identifier": "lock"
+    },
+    "lock-16": {
+      "codepoint": 57848,
+      "fontFamily": "Octicon",
+      "identifier": "lock16"
+    },
+    "lock-24": {
+      "codepoint": 57849,
+      "fontFamily": "Octicon",
+      "identifier": "lock24"
+    },
+    "lockup-github-16": {
+      "codepoint": 57850,
+      "fontFamily": "Octicon",
+      "identifier": "lockupGithub16"
+    },
+    "lockup-github-24": {
+      "codepoint": 57851,
+      "fontFamily": "Octicon",
+      "identifier": "lockupGithub24"
+    },
+    "log-16": {
+      "codepoint": 57852,
+      "fontFamily": "Octicon",
+      "identifier": "log16"
+    },
+    "log-24": {
+      "codepoint": 57853,
+      "fontFamily": "Octicon",
+      "identifier": "log24"
+    },
+    "logo-gist": {
+      "codepoint": 57854,
+      "fontFamily": "Octicon",
+      "identifier": "logoGist"
+    },
+    "logo-gist-16": {
+      "codepoint": 57855,
+      "fontFamily": "Octicon",
+      "identifier": "logoGist16"
+    },
+    "logo-gist-24": {
+      "codepoint": 57856,
+      "fontFamily": "Octicon",
+      "identifier": "logoGist24"
+    },
+    "logo-github": {
+      "codepoint": 57857,
+      "fontFamily": "Octicon",
+      "identifier": "logoGithub"
+    },
+    "logo-github-16": {
+      "codepoint": 57858,
+      "fontFamily": "Octicon",
+      "identifier": "logoGithub16"
+    },
+    "logo-github-24": {
+      "codepoint": 57859,
+      "fontFamily": "Octicon",
+      "identifier": "logoGithub24"
+    },
+    "loop-16": {
+      "codepoint": 57860,
+      "fontFamily": "Octicon",
+      "identifier": "loop16"
+    },
+    "loop-24": {
+      "codepoint": 57861,
+      "fontFamily": "Octicon",
+      "identifier": "loop24"
+    },
+    "mail": {
+      "codepoint": 57862,
+      "fontFamily": "Octicon",
+      "identifier": "mail"
+    },
+    "mail-16": {
+      "codepoint": 57863,
+      "fontFamily": "Octicon",
+      "identifier": "mail16"
+    },
+    "mail-24": {
+      "codepoint": 57864,
+      "fontFamily": "Octicon",
+      "identifier": "mail24"
+    },
+    "mail-read": {
+      "codepoint": 57865,
+      "fontFamily": "Octicon",
+      "identifier": "mailRead"
+    },
+    "mark-github": {
+      "codepoint": 57866,
+      "fontFamily": "Octicon",
+      "identifier": "markGithub"
+    },
+    "mark-github-16": {
+      "codepoint": 57867,
+      "fontFamily": "Octicon",
+      "identifier": "markGithub16"
+    },
+    "mark-github-24": {
+      "codepoint": 57868,
+      "fontFamily": "Octicon",
+      "identifier": "markGithub24"
+    },
+    "markdown": {
+      "codepoint": 57869,
+      "fontFamily": "Octicon",
+      "identifier": "markdown"
+    },
+    "markdown-16": {
+      "codepoint": 57870,
+      "fontFamily": "Octicon",
+      "identifier": "markdown16"
+    },
+    "markdown-24": {
+      "codepoint": 57871,
+      "fontFamily": "Octicon",
+      "identifier": "markdown24"
+    },
+    "maximize-16": {
+      "codepoint": 57872,
+      "fontFamily": "Octicon",
+      "identifier": "maximize16"
+    },
+    "maximize-24": {
+      "codepoint": 57873,
+      "fontFamily": "Octicon",
+      "identifier": "maximize24"
+    },
+    "mcp-16": {
+      "codepoint": 57874,
+      "fontFamily": "Octicon",
+      "identifier": "mcp16"
+    },
+    "mcp-24": {
+      "codepoint": 57875,
+      "fontFamily": "Octicon",
+      "identifier": "mcp24"
+    },
+    "megaphone": {
+      "codepoint": 57876,
+      "fontFamily": "Octicon",
+      "identifier": "megaphone"
+    },
+    "megaphone-16": {
+      "codepoint": 57877,
+      "fontFamily": "Octicon",
+      "identifier": "megaphone16"
+    },
+    "megaphone-24": {
+      "codepoint": 57878,
+      "fontFamily": "Octicon",
+      "identifier": "megaphone24"
+    },
+    "mention": {
+      "codepoint": 57879,
+      "fontFamily": "Octicon",
+      "identifier": "mention"
+    },
+    "mention-16": {
+      "codepoint": 57880,
+      "fontFamily": "Octicon",
+      "identifier": "mention16"
+    },
+    "mention-24": {
+      "codepoint": 57881,
+      "fontFamily": "Octicon",
+      "identifier": "mention24"
+    },
+    "meter-16": {
+      "codepoint": 57882,
+      "fontFamily": "Octicon",
+      "identifier": "meter16"
+    },
+    "meter-24": {
+      "codepoint": 57883,
+      "fontFamily": "Octicon",
+      "identifier": "meter24"
+    },
+    "milestone": {
+      "codepoint": 57884,
+      "fontFamily": "Octicon",
+      "identifier": "milestone"
+    },
+    "milestone-16": {
+      "codepoint": 57885,
+      "fontFamily": "Octicon",
+      "identifier": "milestone16"
+    },
+    "milestone-24": {
+      "codepoint": 57886,
+      "fontFamily": "Octicon",
+      "identifier": "milestone24"
+    },
+    "minimize-16": {
+      "codepoint": 57887,
+      "fontFamily": "Octicon",
+      "identifier": "minimize16"
+    },
+    "minimize-24": {
+      "codepoint": 57888,
+      "fontFamily": "Octicon",
+      "identifier": "minimize24"
+    },
+    "mirror": {
+      "codepoint": 57889,
+      "fontFamily": "Octicon",
+      "identifier": "mirror"
+    },
+    "mirror-16": {
+      "codepoint": 57890,
+      "fontFamily": "Octicon",
+      "identifier": "mirror16"
+    },
+    "mirror-24": {
+      "codepoint": 57891,
+      "fontFamily": "Octicon",
+      "identifier": "mirror24"
+    },
+    "moon-16": {
+      "codepoint": 57892,
+      "fontFamily": "Octicon",
+      "identifier": "moon16"
+    },
+    "moon-24": {
+      "codepoint": 57893,
+      "fontFamily": "Octicon",
+      "identifier": "moon24"
+    },
+    "mortar-board": {
+      "codepoint": 57894,
+      "fontFamily": "Octicon",
+      "identifier": "mortarBoard"
+    },
+    "mortar-board-16": {
+      "codepoint": 57895,
+      "fontFamily": "Octicon",
+      "identifier": "mortarBoard16"
+    },
+    "mortar-board-24": {
+      "codepoint": 57896,
+      "fontFamily": "Octicon",
+      "identifier": "mortarBoard24"
+    },
+    "move-to-bottom-16": {
+      "codepoint": 57897,
+      "fontFamily": "Octicon",
+      "identifier": "moveToBottom16"
+    },
+    "move-to-bottom-24": {
+      "codepoint": 57898,
+      "fontFamily": "Octicon",
+      "identifier": "moveToBottom24"
+    },
+    "move-to-end-16": {
+      "codepoint": 57899,
+      "fontFamily": "Octicon",
+      "identifier": "moveToEnd16"
+    },
+    "move-to-end-24": {
+      "codepoint": 57900,
+      "fontFamily": "Octicon",
+      "identifier": "moveToEnd24"
+    },
+    "move-to-start-16": {
+      "codepoint": 57901,
+      "fontFamily": "Octicon",
+      "identifier": "moveToStart16"
+    },
+    "move-to-start-24": {
+      "codepoint": 57902,
+      "fontFamily": "Octicon",
+      "identifier": "moveToStart24"
+    },
+    "move-to-top-16": {
+      "codepoint": 57903,
+      "fontFamily": "Octicon",
+      "identifier": "moveToTop16"
+    },
+    "move-to-top-24": {
+      "codepoint": 57904,
+      "fontFamily": "Octicon",
+      "identifier": "moveToTop24"
+    },
+    "multi-select-16": {
+      "codepoint": 57905,
+      "fontFamily": "Octicon",
+      "identifier": "multiSelect16"
+    },
+    "multi-select-24": {
+      "codepoint": 57906,
+      "fontFamily": "Octicon",
+      "identifier": "multiSelect24"
+    },
+    "mute": {
+      "codepoint": 57907,
+      "fontFamily": "Octicon",
+      "identifier": "mute"
+    },
+    "mute-16": {
+      "codepoint": 57908,
+      "fontFamily": "Octicon",
+      "identifier": "mute16"
+    },
+    "mute-24": {
+      "codepoint": 57909,
+      "fontFamily": "Octicon",
+      "identifier": "mute24"
+    },
+    "no-entry-16": {
+      "codepoint": 57910,
+      "fontFamily": "Octicon",
+      "identifier": "noEntry16"
+    },
+    "no-entry-24": {
+      "codepoint": 57911,
+      "fontFamily": "Octicon",
+      "identifier": "noEntry24"
+    },
+    "no-entry-fill-12": {
+      "codepoint": 57912,
+      "fontFamily": "Octicon",
+      "identifier": "noEntryFill12"
+    },
+    "no-newline": {
+      "codepoint": 57913,
+      "fontFamily": "Octicon",
+      "identifier": "noNewline"
+    },
+    "node-16": {
+      "codepoint": 57914,
+      "fontFamily": "Octicon",
+      "identifier": "node16"
+    },
+    "node-24": {
+      "codepoint": 57915,
+      "fontFamily": "Octicon",
+      "identifier": "node24"
+    },
+    "north-star-16": {
+      "codepoint": 57916,
+      "fontFamily": "Octicon",
+      "identifier": "northStar16"
+    },
+    "north-star-24": {
+      "codepoint": 57917,
+      "fontFamily": "Octicon",
+      "identifier": "northStar24"
+    },
+    "note": {
+      "codepoint": 57918,
+      "fontFamily": "Octicon",
+      "identifier": "note"
+    },
+    "note-16": {
+      "codepoint": 57919,
+      "fontFamily": "Octicon",
+      "identifier": "note16"
+    },
+    "note-24": {
+      "codepoint": 57920,
+      "fontFamily": "Octicon",
+      "identifier": "note24"
+    },
+    "number-16": {
+      "codepoint": 57921,
+      "fontFamily": "Octicon",
+      "identifier": "number16"
+    },
+    "number-24": {
+      "codepoint": 57922,
+      "fontFamily": "Octicon",
+      "identifier": "number24"
+    },
+    "octoface": {
+      "codepoint": 57923,
+      "fontFamily": "Octicon",
+      "identifier": "octoface"
+    },
+    "octoface-16": {
+      "codepoint": 57924,
+      "fontFamily": "Octicon",
+      "identifier": "octoface16"
+    },
+    "octoface-24": {
+      "codepoint": 57925,
+      "fontFamily": "Octicon",
+      "identifier": "octoface24"
+    },
+    "organization": {
+      "codepoint": 57926,
+      "fontFamily": "Octicon",
+      "identifier": "organization"
+    },
+    "organization-16": {
+      "codepoint": 57927,
+      "fontFamily": "Octicon",
+      "identifier": "organization16"
+    },
+    "organization-24": {
+      "codepoint": 57928,
+      "fontFamily": "Octicon",
+      "identifier": "organization24"
+    },
+    "package": {
+      "codepoint": 57929,
+      "fontFamily": "Octicon",
+      "identifier": "package"
+    },
+    "package-16": {
+      "codepoint": 57930,
+      "fontFamily": "Octicon",
+      "identifier": "package16"
+    },
+    "package-24": {
+      "codepoint": 57931,
+      "fontFamily": "Octicon",
+      "identifier": "package24"
+    },
+    "package-dependencies-16": {
+      "codepoint": 57932,
+      "fontFamily": "Octicon",
+      "identifier": "packageDependencies16"
+    },
+    "package-dependencies-24": {
+      "codepoint": 57933,
+      "fontFamily": "Octicon",
+      "identifier": "packageDependencies24"
+    },
+    "package-dependents-16": {
+      "codepoint": 57934,
+      "fontFamily": "Octicon",
+      "identifier": "packageDependents16"
+    },
+    "package-dependents-24": {
+      "codepoint": 57935,
+      "fontFamily": "Octicon",
+      "identifier": "packageDependents24"
+    },
+    "paintbrush-16": {
+      "codepoint": 57936,
+      "fontFamily": "Octicon",
+      "identifier": "paintbrush16"
+    },
+    "paintbrush-24": {
+      "codepoint": 57937,
+      "fontFamily": "Octicon",
+      "identifier": "paintbrush24"
+    },
+    "paintcan": {
+      "codepoint": 57938,
+      "fontFamily": "Octicon",
+      "identifier": "paintcan"
+    },
+    "paper-airplane-16": {
+      "codepoint": 57939,
+      "fontFamily": "Octicon",
+      "identifier": "paperAirplane16"
+    },
+    "paper-airplane-24": {
+      "codepoint": 57940,
+      "fontFamily": "Octicon",
+      "identifier": "paperAirplane24"
+    },
+    "paperclip-16": {
+      "codepoint": 57941,
+      "fontFamily": "Octicon",
+      "identifier": "paperclip16"
+    },
+    "paperclip-24": {
+      "codepoint": 57942,
+      "fontFamily": "Octicon",
+      "identifier": "paperclip24"
+    },
+    "passkey-fill-16": {
+      "codepoint": 57943,
+      "fontFamily": "Octicon",
+      "identifier": "passkeyFill16"
+    },
+    "passkey-fill-24": {
+      "codepoint": 57944,
+      "fontFamily": "Octicon",
+      "identifier": "passkeyFill24"
+    },
+    "paste-16": {
+      "codepoint": 57945,
+      "fontFamily": "Octicon",
+      "identifier": "paste16"
+    },
+    "paste-24": {
+      "codepoint": 57946,
+      "fontFamily": "Octicon",
+      "identifier": "paste24"
+    },
+    "pause-16": {
+      "codepoint": 57947,
+      "fontFamily": "Octicon",
+      "identifier": "pause16"
+    },
+    "pause-24": {
+      "codepoint": 57948,
+      "fontFamily": "Octicon",
+      "identifier": "pause24"
+    },
+    "pencil": {
+      "codepoint": 57949,
+      "fontFamily": "Octicon",
+      "identifier": "pencil"
+    },
+    "pencil-16": {
+      "codepoint": 57950,
+      "fontFamily": "Octicon",
+      "identifier": "pencil16"
+    },
+    "pencil-24": {
+      "codepoint": 57951,
+      "fontFamily": "Octicon",
+      "identifier": "pencil24"
+    },
+    "pencil-ai-16": {
+      "codepoint": 57952,
+      "fontFamily": "Octicon",
+      "identifier": "pencilAi16"
+    },
+    "pencil-ai-24": {
+      "codepoint": 57953,
+      "fontFamily": "Octicon",
+      "identifier": "pencilAi24"
+    },
+    "people-16": {
+      "codepoint": 57954,
+      "fontFamily": "Octicon",
+      "identifier": "people16"
+    },
+    "people-24": {
+      "codepoint": 57955,
+      "fontFamily": "Octicon",
+      "identifier": "people24"
+    },
+    "person": {
+      "codepoint": 57956,
+      "fontFamily": "Octicon",
+      "identifier": "person"
+    },
+    "person-16": {
+      "codepoint": 57957,
+      "fontFamily": "Octicon",
+      "identifier": "person16"
+    },
+    "person-24": {
+      "codepoint": 57958,
+      "fontFamily": "Octicon",
+      "identifier": "person24"
+    },
+    "person-add-16": {
+      "codepoint": 57959,
+      "fontFamily": "Octicon",
+      "identifier": "personAdd16"
+    },
+    "person-add-24": {
+      "codepoint": 57960,
+      "fontFamily": "Octicon",
+      "identifier": "personAdd24"
+    },
+    "person-fill-16": {
+      "codepoint": 57961,
+      "fontFamily": "Octicon",
+      "identifier": "personFill16"
+    },
+    "person-fill-24": {
+      "codepoint": 57962,
+      "fontFamily": "Octicon",
+      "identifier": "personFill24"
+    },
+    "pin": {
+      "codepoint": 57963,
+      "fontFamily": "Octicon",
+      "identifier": "pin"
+    },
+    "pin-16": {
+      "codepoint": 57964,
+      "fontFamily": "Octicon",
+      "identifier": "pin16"
+    },
+    "pin-24": {
+      "codepoint": 57965,
+      "fontFamily": "Octicon",
+      "identifier": "pin24"
+    },
+    "pin-slash-16": {
+      "codepoint": 57966,
+      "fontFamily": "Octicon",
+      "identifier": "pinSlash16"
+    },
+    "pin-slash-24": {
+      "codepoint": 57967,
+      "fontFamily": "Octicon",
+      "identifier": "pinSlash24"
+    },
+    "pivot-column-16": {
+      "codepoint": 57968,
+      "fontFamily": "Octicon",
+      "identifier": "pivotColumn16"
+    },
+    "pivot-column-24": {
+      "codepoint": 57969,
+      "fontFamily": "Octicon",
+      "identifier": "pivotColumn24"
+    },
+    "play": {
+      "codepoint": 57970,
+      "fontFamily": "Octicon",
+      "identifier": "play"
+    },
+    "play-16": {
+      "codepoint": 57971,
+      "fontFamily": "Octicon",
+      "identifier": "play16"
+    },
+    "play-24": {
+      "codepoint": 57972,
+      "fontFamily": "Octicon",
+      "identifier": "play24"
+    },
+    "plug": {
+      "codepoint": 57973,
+      "fontFamily": "Octicon",
+      "identifier": "plug"
+    },
+    "plug-16": {
+      "codepoint": 57974,
+      "fontFamily": "Octicon",
+      "identifier": "plug16"
+    },
+    "plug-24": {
+      "codepoint": 57975,
+      "fontFamily": "Octicon",
+      "identifier": "plug24"
+    },
+    "plus": {
+      "codepoint": 57976,
+      "fontFamily": "Octicon",
+      "identifier": "plus"
+    },
+    "plus-16": {
+      "codepoint": 57977,
+      "fontFamily": "Octicon",
+      "identifier": "plus16"
+    },
+    "plus-24": {
+      "codepoint": 57978,
+      "fontFamily": "Octicon",
+      "identifier": "plus24"
+    },
+    "plus-circle-16": {
+      "codepoint": 57979,
+      "fontFamily": "Octicon",
+      "identifier": "plusCircle16"
+    },
+    "plus-circle-24": {
+      "codepoint": 57980,
+      "fontFamily": "Octicon",
+      "identifier": "plusCircle24"
+    },
+    "plus-small": {
+      "codepoint": 57981,
+      "fontFamily": "Octicon",
+      "identifier": "plusSmall"
+    },
+    "primitive-dot": {
+      "codepoint": 57982,
+      "fontFamily": "Octicon",
+      "identifier": "primitiveDot"
+    },
+    "primitive-square": {
+      "codepoint": 57983,
+      "fontFamily": "Octicon",
+      "identifier": "primitiveSquare"
+    },
+    "project": {
+      "codepoint": 57984,
+      "fontFamily": "Octicon",
+      "identifier": "project"
+    },
+    "project-16": {
+      "codepoint": 57985,
+      "fontFamily": "Octicon",
+      "identifier": "project16"
+    },
+    "project-24": {
+      "codepoint": 57986,
+      "fontFamily": "Octicon",
+      "identifier": "project24"
+    },
+    "project-roadmap-16": {
+      "codepoint": 57987,
+      "fontFamily": "Octicon",
+      "identifier": "projectRoadmap16"
+    },
+    "project-roadmap-24": {
+      "codepoint": 57988,
+      "fontFamily": "Octicon",
+      "identifier": "projectRoadmap24"
+    },
+    "project-symlink-16": {
+      "codepoint": 57989,
+      "fontFamily": "Octicon",
+      "identifier": "projectSymlink16"
+    },
+    "project-symlink-24": {
+      "codepoint": 57990,
+      "fontFamily": "Octicon",
+      "identifier": "projectSymlink24"
+    },
+    "project-template-16": {
+      "codepoint": 57991,
+      "fontFamily": "Octicon",
+      "identifier": "projectTemplate16"
+    },
+    "project-template-24": {
+      "codepoint": 57992,
+      "fontFamily": "Octicon",
+      "identifier": "projectTemplate24"
+    },
+    "pulse": {
+      "codepoint": 57993,
+      "fontFamily": "Octicon",
+      "identifier": "pulse"
+    },
+    "pulse-16": {
+      "codepoint": 57994,
+      "fontFamily": "Octicon",
+      "identifier": "pulse16"
+    },
+    "pulse-24": {
+      "codepoint": 57995,
+      "fontFamily": "Octicon",
+      "identifier": "pulse24"
+    },
+    "question": {
+      "codepoint": 57996,
+      "fontFamily": "Octicon",
+      "identifier": "question"
+    },
+    "question-16": {
+      "codepoint": 57997,
+      "fontFamily": "Octicon",
+      "identifier": "question16"
+    },
+    "question-24": {
+      "codepoint": 57998,
+      "fontFamily": "Octicon",
+      "identifier": "question24"
+    },
+    "quote": {
+      "codepoint": 57999,
+      "fontFamily": "Octicon",
+      "identifier": "quote"
+    },
+    "quote-16": {
+      "codepoint": 58000,
+      "fontFamily": "Octicon",
+      "identifier": "quote16"
+    },
+    "quote-24": {
+      "codepoint": 58001,
+      "fontFamily": "Octicon",
+      "identifier": "quote24"
+    },
+    "radio-tower": {
+      "codepoint": 58002,
+      "fontFamily": "Octicon",
+      "identifier": "radioTower"
+    },
+    "read-16": {
+      "codepoint": 58003,
+      "fontFamily": "Octicon",
+      "identifier": "read16"
+    },
+    "read-24": {
+      "codepoint": 58004,
+      "fontFamily": "Octicon",
+      "identifier": "read24"
+    },
+    "redo-16": {
+      "codepoint": 58005,
+      "fontFamily": "Octicon",
+      "identifier": "redo16"
+    },
+    "redo-24": {
+      "codepoint": 58006,
+      "fontFamily": "Octicon",
+      "identifier": "redo24"
+    },
+    "rel-file-path-16": {
+      "codepoint": 58007,
+      "fontFamily": "Octicon",
+      "identifier": "relFilePath16"
+    },
+    "rel-file-path-24": {
+      "codepoint": 58008,
+      "fontFamily": "Octicon",
+      "identifier": "relFilePath24"
+    },
+    "reply": {
+      "codepoint": 58009,
+      "fontFamily": "Octicon",
+      "identifier": "reply"
+    },
+    "reply-16": {
+      "codepoint": 58010,
+      "fontFamily": "Octicon",
+      "identifier": "reply16"
+    },
+    "reply-24": {
+      "codepoint": 58011,
+      "fontFamily": "Octicon",
+      "identifier": "reply24"
+    },
+    "repo": {
+      "codepoint": 58012,
+      "fontFamily": "Octicon",
+      "identifier": "repo"
+    },
+    "repo-16": {
+      "codepoint": 58013,
+      "fontFamily": "Octicon",
+      "identifier": "repo16"
+    },
+    "repo-24": {
+      "codepoint": 58014,
+      "fontFamily": "Octicon",
+      "identifier": "repo24"
+    },
+    "repo-clone": {
+      "codepoint": 58015,
+      "fontFamily": "Octicon",
+      "identifier": "repoClone"
+    },
+    "repo-clone-16": {
+      "codepoint": 58016,
+      "fontFamily": "Octicon",
+      "identifier": "repoClone16"
+    },
+    "repo-clone-24": {
+      "codepoint": 58017,
+      "fontFamily": "Octicon",
+      "identifier": "repoClone24"
+    },
+    "repo-delete-24": {
+      "codepoint": 58018,
+      "fontFamily": "Octicon",
+      "identifier": "repoDelete24"
+    },
+    "repo-deleted-16": {
+      "codepoint": 58019,
+      "fontFamily": "Octicon",
+      "identifier": "repoDeleted16"
+    },
+    "repo-force-push": {
+      "codepoint": 58020,
+      "fontFamily": "Octicon",
+      "identifier": "repoForcePush"
+    },
+    "repo-forked": {
+      "codepoint": 58021,
+      "fontFamily": "Octicon",
+      "identifier": "repoForked"
+    },
+    "repo-forked-16": {
+      "codepoint": 58022,
+      "fontFamily": "Octicon",
+      "identifier": "repoForked16"
+    },
+    "repo-forked-24": {
+      "codepoint": 58023,
+      "fontFamily": "Octicon",
+      "identifier": "repoForked24"
+    },
+    "repo-locked-16": {
+      "codepoint": 58024,
+      "fontFamily": "Octicon",
+      "identifier": "repoLocked16"
+    },
+    "repo-locked-24": {
+      "codepoint": 58025,
+      "fontFamily": "Octicon",
+      "identifier": "repoLocked24"
+    },
+    "repo-pull": {
+      "codepoint": 58026,
+      "fontFamily": "Octicon",
+      "identifier": "repoPull"
+    },
+    "repo-pull-16": {
+      "codepoint": 58027,
+      "fontFamily": "Octicon",
+      "identifier": "repoPull16"
+    },
+    "repo-pull-24": {
+      "codepoint": 58028,
+      "fontFamily": "Octicon",
+      "identifier": "repoPull24"
+    },
+    "repo-push": {
+      "codepoint": 58029,
+      "fontFamily": "Octicon",
+      "identifier": "repoPush"
+    },
+    "repo-push-16": {
+      "codepoint": 58030,
+      "fontFamily": "Octicon",
+      "identifier": "repoPush16"
+    },
+    "repo-push-24": {
+      "codepoint": 58031,
+      "fontFamily": "Octicon",
+      "identifier": "repoPush24"
+    },
+    "repo-template-16": {
+      "codepoint": 58032,
+      "fontFamily": "Octicon",
+      "identifier": "repoTemplate16"
+    },
+    "repo-template-24": {
+      "codepoint": 58033,
+      "fontFamily": "Octicon",
+      "identifier": "repoTemplate24"
+    },
+    "report": {
+      "codepoint": 58034,
+      "fontFamily": "Octicon",
+      "identifier": "report"
+    },
+    "report-16": {
+      "codepoint": 58035,
+      "fontFamily": "Octicon",
+      "identifier": "report16"
+    },
+    "report-24": {
+      "codepoint": 58036,
+      "fontFamily": "Octicon",
+      "identifier": "report24"
+    },
+    "request-changes": {
+      "codepoint": 58037,
+      "fontFamily": "Octicon",
+      "identifier": "requestChanges"
+    },
+    "rocket": {
+      "codepoint": 58038,
+      "fontFamily": "Octicon",
+      "identifier": "rocket"
+    },
+    "rocket-16": {
+      "codepoint": 58039,
+      "fontFamily": "Octicon",
+      "identifier": "rocket16"
+    },
+    "rocket-24": {
+      "codepoint": 58040,
+      "fontFamily": "Octicon",
+      "identifier": "rocket24"
+    },
+    "rows-16": {
+      "codepoint": 58041,
+      "fontFamily": "Octicon",
+      "identifier": "rows16"
+    },
+    "rows-24": {
+      "codepoint": 58042,
+      "fontFamily": "Octicon",
+      "identifier": "rows24"
+    },
+    "rss": {
+      "codepoint": 58043,
+      "fontFamily": "Octicon",
+      "identifier": "rss"
+    },
+    "rss-16": {
+      "codepoint": 58044,
+      "fontFamily": "Octicon",
+      "identifier": "rss16"
+    },
+    "rss-24": {
+      "codepoint": 58045,
+      "fontFamily": "Octicon",
+      "identifier": "rss24"
+    },
+    "ruby": {
+      "codepoint": 58046,
+      "fontFamily": "Octicon",
+      "identifier": "ruby"
+    },
+    "ruby-16": {
+      "codepoint": 58047,
+      "fontFamily": "Octicon",
+      "identifier": "ruby16"
+    },
+    "ruby-24": {
+      "codepoint": 58048,
+      "fontFamily": "Octicon",
+      "identifier": "ruby24"
+    },
+    "sandbox-16": {
+      "codepoint": 58049,
+      "fontFamily": "Octicon",
+      "identifier": "sandbox16"
+    },
+    "screen-full": {
+      "codepoint": 58050,
+      "fontFamily": "Octicon",
+      "identifier": "screenFull"
+    },
+    "screen-full-16": {
+      "codepoint": 58051,
+      "fontFamily": "Octicon",
+      "identifier": "screenFull16"
+    },
+    "screen-full-24": {
+      "codepoint": 58052,
+      "fontFamily": "Octicon",
+      "identifier": "screenFull24"
+    },
+    "screen-normal": {
+      "codepoint": 58053,
+      "fontFamily": "Octicon",
+      "identifier": "screenNormal"
+    },
+    "screen-normal-16": {
+      "codepoint": 58054,
+      "fontFamily": "Octicon",
+      "identifier": "screenNormal16"
+    },
+    "screen-normal-24": {
+      "codepoint": 58055,
+      "fontFamily": "Octicon",
+      "identifier": "screenNormal24"
+    },
+    "search": {
+      "codepoint": 58056,
+      "fontFamily": "Octicon",
+      "identifier": "search"
+    },
+    "search-16": {
+      "codepoint": 58057,
+      "fontFamily": "Octicon",
+      "identifier": "search16"
+    },
+    "search-24": {
+      "codepoint": 58058,
+      "fontFamily": "Octicon",
+      "identifier": "search24"
+    },
+    "select-single-16": {
+      "codepoint": 58059,
+      "fontFamily": "Octicon",
+      "identifier": "selectSingle16"
+    },
+    "server": {
+      "codepoint": 58060,
+      "fontFamily": "Octicon",
+      "identifier": "server"
+    },
+    "server-16": {
+      "codepoint": 58061,
+      "fontFamily": "Octicon",
+      "identifier": "server16"
+    },
+    "server-24": {
+      "codepoint": 58062,
+      "fontFamily": "Octicon",
+      "identifier": "server24"
+    },
+    "settings": {
+      "codepoint": 58063,
+      "fontFamily": "Octicon",
+      "identifier": "settings"
+    },
+    "settings-24": {
+      "codepoint": 58064,
+      "fontFamily": "Octicon",
+      "identifier": "settings24"
+    },
+    "share-16": {
+      "codepoint": 58065,
+      "fontFamily": "Octicon",
+      "identifier": "share16"
+    },
+    "share-24": {
+      "codepoint": 58066,
+      "fontFamily": "Octicon",
+      "identifier": "share24"
+    },
+    "share-android-16": {
+      "codepoint": 58067,
+      "fontFamily": "Octicon",
+      "identifier": "shareAndroid16"
+    },
+    "share-android-24": {
+      "codepoint": 58068,
+      "fontFamily": "Octicon",
+      "identifier": "shareAndroid24"
+    },
+    "shield": {
+      "codepoint": 58069,
+      "fontFamily": "Octicon",
+      "identifier": "shield"
+    },
+    "shield-16": {
+      "codepoint": 58070,
+      "fontFamily": "Octicon",
+      "identifier": "shield16"
+    },
+    "shield-24": {
+      "codepoint": 58071,
+      "fontFamily": "Octicon",
+      "identifier": "shield24"
+    },
+    "shield-check-16": {
+      "codepoint": 58072,
+      "fontFamily": "Octicon",
+      "identifier": "shieldCheck16"
+    },
+    "shield-check-24": {
+      "codepoint": 58073,
+      "fontFamily": "Octicon",
+      "identifier": "shieldCheck24"
+    },
+    "shield-lock-16": {
+      "codepoint": 58074,
+      "fontFamily": "Octicon",
+      "identifier": "shieldLock16"
+    },
+    "shield-lock-24": {
+      "codepoint": 58075,
+      "fontFamily": "Octicon",
+      "identifier": "shieldLock24"
+    },
+    "shield-slash-16": {
+      "codepoint": 58076,
+      "fontFamily": "Octicon",
+      "identifier": "shieldSlash16"
+    },
+    "shield-slash-24": {
+      "codepoint": 58077,
+      "fontFamily": "Octicon",
+      "identifier": "shieldSlash24"
+    },
+    "shield-x-16": {
+      "codepoint": 58078,
+      "fontFamily": "Octicon",
+      "identifier": "shieldX16"
+    },
+    "shield-x-24": {
+      "codepoint": 58079,
+      "fontFamily": "Octicon",
+      "identifier": "shieldX24"
+    },
+    "sidebar-collapse-16": {
+      "codepoint": 58080,
+      "fontFamily": "Octicon",
+      "identifier": "sidebarCollapse16"
+    },
+    "sidebar-collapse-24": {
+      "codepoint": 58081,
+      "fontFamily": "Octicon",
+      "identifier": "sidebarCollapse24"
+    },
+    "sidebar-expand-16": {
+      "codepoint": 58082,
+      "fontFamily": "Octicon",
+      "identifier": "sidebarExpand16"
+    },
+    "sidebar-expand-24": {
+      "codepoint": 58083,
+      "fontFamily": "Octicon",
+      "identifier": "sidebarExpand24"
+    },
+    "sign-in": {
+      "codepoint": 58084,
+      "fontFamily": "Octicon",
+      "identifier": "signIn"
+    },
+    "sign-in-16": {
+      "codepoint": 58085,
+      "fontFamily": "Octicon",
+      "identifier": "signIn16"
+    },
+    "sign-in-24": {
+      "codepoint": 58086,
+      "fontFamily": "Octicon",
+      "identifier": "signIn24"
+    },
+    "sign-out": {
+      "codepoint": 58087,
+      "fontFamily": "Octicon",
+      "identifier": "signOut"
+    },
+    "sign-out-16": {
+      "codepoint": 58088,
+      "fontFamily": "Octicon",
+      "identifier": "signOut16"
+    },
+    "sign-out-24": {
+      "codepoint": 58089,
+      "fontFamily": "Octicon",
+      "identifier": "signOut24"
+    },
+    "single-select-16": {
+      "codepoint": 58090,
+      "fontFamily": "Octicon",
+      "identifier": "singleSelect16"
+    },
+    "single-select-24": {
+      "codepoint": 58091,
+      "fontFamily": "Octicon",
+      "identifier": "singleSelect24"
+    },
+    "skip-16": {
+      "codepoint": 58092,
+      "fontFamily": "Octicon",
+      "identifier": "skip16"
+    },
+    "skip-24": {
+      "codepoint": 58093,
+      "fontFamily": "Octicon",
+      "identifier": "skip24"
+    },
+    "skip-fill-16": {
+      "codepoint": 58094,
+      "fontFamily": "Octicon",
+      "identifier": "skipFill16"
+    },
+    "skip-fill-24": {
+      "codepoint": 58095,
+      "fontFamily": "Octicon",
+      "identifier": "skipFill24"
+    },
+    "sliders-16": {
+      "codepoint": 58096,
+      "fontFamily": "Octicon",
+      "identifier": "sliders16"
+    },
+    "sliders-24": {
+      "codepoint": 58097,
+      "fontFamily": "Octicon",
+      "identifier": "sliders24"
+    },
+    "smiley": {
+      "codepoint": 58098,
+      "fontFamily": "Octicon",
+      "identifier": "smiley"
+    },
+    "smiley-16": {
+      "codepoint": 58099,
+      "fontFamily": "Octicon",
+      "identifier": "smiley16"
+    },
+    "smiley-24": {
+      "codepoint": 58100,
+      "fontFamily": "Octicon",
+      "identifier": "smiley24"
+    },
+    "smiley-frown-16": {
+      "codepoint": 58101,
+      "fontFamily": "Octicon",
+      "identifier": "smileyFrown16"
+    },
+    "smiley-frown-24": {
+      "codepoint": 58102,
+      "fontFamily": "Octicon",
+      "identifier": "smileyFrown24"
+    },
+    "smiley-frustrated-16": {
+      "codepoint": 58103,
+      "fontFamily": "Octicon",
+      "identifier": "smileyFrustrated16"
+    },
+    "smiley-frustrated-24": {
+      "codepoint": 58104,
+      "fontFamily": "Octicon",
+      "identifier": "smileyFrustrated24"
+    },
+    "smiley-grin-16": {
+      "codepoint": 58105,
+      "fontFamily": "Octicon",
+      "identifier": "smileyGrin16"
+    },
+    "smiley-grin-24": {
+      "codepoint": 58106,
+      "fontFamily": "Octicon",
+      "identifier": "smileyGrin24"
+    },
+    "smiley-neutral-16": {
+      "codepoint": 58107,
+      "fontFamily": "Octicon",
+      "identifier": "smileyNeutral16"
+    },
+    "smiley-neutral-24": {
+      "codepoint": 58108,
+      "fontFamily": "Octicon",
+      "identifier": "smileyNeutral24"
+    },
+    "sort-asc-16": {
+      "codepoint": 58109,
+      "fontFamily": "Octicon",
+      "identifier": "sortAsc16"
+    },
+    "sort-asc-24": {
+      "codepoint": 58110,
+      "fontFamily": "Octicon",
+      "identifier": "sortAsc24"
+    },
+    "sort-desc-16": {
+      "codepoint": 58111,
+      "fontFamily": "Octicon",
+      "identifier": "sortDesc16"
+    },
+    "sort-desc-24": {
+      "codepoint": 58112,
+      "fontFamily": "Octicon",
+      "identifier": "sortDesc24"
+    },
+    "space-16": {
+      "codepoint": 58113,
+      "fontFamily": "Octicon",
+      "identifier": "space16"
+    },
+    "space-24": {
+      "codepoint": 58114,
+      "fontFamily": "Octicon",
+      "identifier": "space24"
+    },
+    "spacing-large-16": {
+      "codepoint": 58115,
+      "fontFamily": "Octicon",
+      "identifier": "spacingLarge16"
+    },
+    "spacing-large-24": {
+      "codepoint": 58116,
+      "fontFamily": "Octicon",
+      "identifier": "spacingLarge24"
+    },
+    "spacing-medium-16": {
+      "codepoint": 58117,
+      "fontFamily": "Octicon",
+      "identifier": "spacingMedium16"
+    },
+    "spacing-medium-24": {
+      "codepoint": 58118,
+      "fontFamily": "Octicon",
+      "identifier": "spacingMedium24"
+    },
+    "spacing-small-16": {
+      "codepoint": 58119,
+      "fontFamily": "Octicon",
+      "identifier": "spacingSmall16"
+    },
+    "spacing-small-24": {
+      "codepoint": 58120,
+      "fontFamily": "Octicon",
+      "identifier": "spacingSmall24"
+    },
+    "sparkle-16": {
+      "codepoint": 58121,
+      "fontFamily": "Octicon",
+      "identifier": "sparkle16"
+    },
+    "sparkle-24": {
+      "codepoint": 58122,
+      "fontFamily": "Octicon",
+      "identifier": "sparkle24"
+    },
+    "sparkle-fill-16": {
+      "codepoint": 58123,
+      "fontFamily": "Octicon",
+      "identifier": "sparkleFill16"
+    },
+    "sparkle-fill-24": {
+      "codepoint": 58124,
+      "fontFamily": "Octicon",
+      "identifier": "sparkleFill24"
+    },
+    "sparkles-fill-16": {
+      "codepoint": 58125,
+      "fontFamily": "Octicon",
+      "identifier": "sparklesFill16"
+    },
+    "sparkles-fill-24": {
+      "codepoint": 58126,
+      "fontFamily": "Octicon",
+      "identifier": "sparklesFill24"
+    },
+    "split-view-16": {
+      "codepoint": 58127,
+      "fontFamily": "Octicon",
+      "identifier": "splitView16"
+    },
+    "split-view-24": {
+      "codepoint": 58128,
+      "fontFamily": "Octicon",
+      "identifier": "splitView24"
+    },
+    "sponsor-tiers-16": {
+      "codepoint": 58129,
+      "fontFamily": "Octicon",
+      "identifier": "sponsorTiers16"
+    },
+    "sponsor-tiers-24": {
+      "codepoint": 58130,
+      "fontFamily": "Octicon",
+      "identifier": "sponsorTiers24"
+    },
+    "square-16": {
+      "codepoint": 58131,
+      "fontFamily": "Octicon",
+      "identifier": "square16"
+    },
+    "square-24": {
+      "codepoint": 58132,
+      "fontFamily": "Octicon",
+      "identifier": "square24"
+    },
+    "square-circle-16": {
+      "codepoint": 58133,
+      "fontFamily": "Octicon",
+      "identifier": "squareCircle16"
+    },
+    "square-circle-24": {
+      "codepoint": 58134,
+      "fontFamily": "Octicon",
+      "identifier": "squareCircle24"
+    },
+    "square-fill-16": {
+      "codepoint": 58135,
+      "fontFamily": "Octicon",
+      "identifier": "squareFill16"
+    },
+    "square-fill-24": {
+      "codepoint": 58136,
+      "fontFamily": "Octicon",
+      "identifier": "squareFill24"
+    },
+    "squirrel": {
+      "codepoint": 58137,
+      "fontFamily": "Octicon",
+      "identifier": "squirrel"
+    },
+    "squirrel-16": {
+      "codepoint": 58138,
+      "fontFamily": "Octicon",
+      "identifier": "squirrel16"
+    },
+    "squirrel-24": {
+      "codepoint": 58139,
+      "fontFamily": "Octicon",
+      "identifier": "squirrel24"
+    },
+    "stack-16": {
+      "codepoint": 58140,
+      "fontFamily": "Octicon",
+      "identifier": "stack16"
+    },
+    "stack-24": {
+      "codepoint": 58141,
+      "fontFamily": "Octicon",
+      "identifier": "stack24"
+    },
+    "stack-check-16": {
+      "codepoint": 58142,
+      "fontFamily": "Octicon",
+      "identifier": "stackCheck16"
+    },
+    "stack-remove-16": {
+      "codepoint": 58143,
+      "fontFamily": "Octicon",
+      "identifier": "stackRemove16"
+    },
+    "star": {
+      "codepoint": 58144,
+      "fontFamily": "Octicon",
+      "identifier": "star"
+    },
+    "star-16": {
+      "codepoint": 58145,
+      "fontFamily": "Octicon",
+      "identifier": "star16"
+    },
+    "star-24": {
+      "codepoint": 58146,
+      "fontFamily": "Octicon",
+      "identifier": "star24"
+    },
+    "star-fill-16": {
+      "codepoint": 58147,
+      "fontFamily": "Octicon",
+      "identifier": "starFill16"
+    },
+    "star-fill-24": {
+      "codepoint": 58148,
+      "fontFamily": "Octicon",
+      "identifier": "starFill24"
+    },
+    "stop": {
+      "codepoint": 58149,
+      "fontFamily": "Octicon",
+      "identifier": "stop"
+    },
+    "stop-16": {
+      "codepoint": 58150,
+      "fontFamily": "Octicon",
+      "identifier": "stop16"
+    },
+    "stop-24": {
+      "codepoint": 58151,
+      "fontFamily": "Octicon",
+      "identifier": "stop24"
+    },
+    "stopwatch-16": {
+      "codepoint": 58152,
+      "fontFamily": "Octicon",
+      "identifier": "stopwatch16"
+    },
+    "stopwatch-24": {
+      "codepoint": 58153,
+      "fontFamily": "Octicon",
+      "identifier": "stopwatch24"
+    },
+    "strikethrough-16": {
+      "codepoint": 58154,
+      "fontFamily": "Octicon",
+      "identifier": "strikethrough16"
+    },
+    "strikethrough-24": {
+      "codepoint": 58155,
+      "fontFamily": "Octicon",
+      "identifier": "strikethrough24"
+    },
+    "sun-16": {
+      "codepoint": 58156,
+      "fontFamily": "Octicon",
+      "identifier": "sun16"
+    },
+    "sun-24": {
+      "codepoint": 58157,
+      "fontFamily": "Octicon",
+      "identifier": "sun24"
+    },
+    "sync": {
+      "codepoint": 58158,
+      "fontFamily": "Octicon",
+      "identifier": "sync_"
+    },
+    "sync-16": {
+      "codepoint": 58159,
+      "fontFamily": "Octicon",
+      "identifier": "sync16"
+    },
+    "sync-24": {
+      "codepoint": 58160,
+      "fontFamily": "Octicon",
+      "identifier": "sync24"
+    },
+    "tab-16": {
+      "codepoint": 58161,
+      "fontFamily": "Octicon",
+      "identifier": "tab16"
+    },
+    "tab-24": {
+      "codepoint": 58162,
+      "fontFamily": "Octicon",
+      "identifier": "tab24"
+    },
+    "tab-external-16": {
+      "codepoint": 58163,
+      "fontFamily": "Octicon",
+      "identifier": "tabExternal16"
+    },
+    "tab-external-24": {
+      "codepoint": 58164,
+      "fontFamily": "Octicon",
+      "identifier": "tabExternal24"
+    },
+    "table-16": {
+      "codepoint": 58165,
+      "fontFamily": "Octicon",
+      "identifier": "table16"
+    },
+    "table-24": {
+      "codepoint": 58166,
+      "fontFamily": "Octicon",
+      "identifier": "table24"
+    },
+    "tag": {
+      "codepoint": 58167,
+      "fontFamily": "Octicon",
+      "identifier": "tag"
+    },
+    "tag-16": {
+      "codepoint": 58168,
+      "fontFamily": "Octicon",
+      "identifier": "tag16"
+    },
+    "tag-24": {
+      "codepoint": 58169,
+      "fontFamily": "Octicon",
+      "identifier": "tag24"
+    },
+    "tasklist": {
+      "codepoint": 58170,
+      "fontFamily": "Octicon",
+      "identifier": "tasklist"
+    },
+    "tasklist-16": {
+      "codepoint": 58171,
+      "fontFamily": "Octicon",
+      "identifier": "tasklist16"
+    },
+    "tasklist-24": {
+      "codepoint": 58172,
+      "fontFamily": "Octicon",
+      "identifier": "tasklist24"
+    },
+    "telescope": {
+      "codepoint": 58173,
+      "fontFamily": "Octicon",
+      "identifier": "telescope"
+    },
+    "telescope-16": {
+      "codepoint": 58174,
+      "fontFamily": "Octicon",
+      "identifier": "telescope16"
+    },
+    "telescope-24": {
+      "codepoint": 58175,
+      "fontFamily": "Octicon",
+      "identifier": "telescope24"
+    },
+    "telescope-fill-16": {
+      "codepoint": 58176,
+      "fontFamily": "Octicon",
+      "identifier": "telescopeFill16"
+    },
+    "telescope-fill-24": {
+      "codepoint": 58177,
+      "fontFamily": "Octicon",
+      "identifier": "telescopeFill24"
+    },
+    "terminal": {
+      "codepoint": 58178,
+      "fontFamily": "Octicon",
+      "identifier": "terminal"
+    },
+    "terminal-16": {
+      "codepoint": 58179,
+      "fontFamily": "Octicon",
+      "identifier": "terminal16"
+    },
+    "terminal-24": {
+      "codepoint": 58180,
+      "fontFamily": "Octicon",
+      "identifier": "terminal24"
+    },
+    "text-size": {
+      "codepoint": 58181,
+      "fontFamily": "Octicon",
+      "identifier": "textSize"
+    },
+    "three-bars": {
+      "codepoint": 58182,
+      "fontFamily": "Octicon",
+      "identifier": "threeBars"
+    },
+    "three-bars-16": {
+      "codepoint": 58183,
+      "fontFamily": "Octicon",
+      "identifier": "threeBars16"
+    },
+    "three-bars-24": {
+      "codepoint": 58184,
+      "fontFamily": "Octicon",
+      "identifier": "threeBars24"
+    },
+    "thumbsdown": {
+      "codepoint": 58185,
+      "fontFamily": "Octicon",
+      "identifier": "thumbsdown"
+    },
+    "thumbsdown-16": {
+      "codepoint": 58186,
+      "fontFamily": "Octicon",
+      "identifier": "thumbsdown16"
+    },
+    "thumbsdown-24": {
+      "codepoint": 58187,
+      "fontFamily": "Octicon",
+      "identifier": "thumbsdown24"
+    },
+    "thumbsup": {
+      "codepoint": 58188,
+      "fontFamily": "Octicon",
+      "identifier": "thumbsup"
+    },
+    "thumbsup-16": {
+      "codepoint": 58189,
+      "fontFamily": "Octicon",
+      "identifier": "thumbsup16"
+    },
+    "thumbsup-24": {
+      "codepoint": 58190,
+      "fontFamily": "Octicon",
+      "identifier": "thumbsup24"
+    },
+    "tools": {
+      "codepoint": 58191,
+      "fontFamily": "Octicon",
+      "identifier": "tools"
+    },
+    "tools-16": {
+      "codepoint": 58192,
+      "fontFamily": "Octicon",
+      "identifier": "tools16"
+    },
+    "tools-24": {
+      "codepoint": 58193,
+      "fontFamily": "Octicon",
+      "identifier": "tools24"
+    },
+    "tracked-by-closed-completed-16": {
+      "codepoint": 58194,
+      "fontFamily": "Octicon",
+      "identifier": "trackedByClosedCompleted16"
+    },
+    "tracked-by-closed-completed-24": {
+      "codepoint": 58195,
+      "fontFamily": "Octicon",
+      "identifier": "trackedByClosedCompleted24"
+    },
+    "tracked-by-closed-not-planned-16": {
+      "codepoint": 58196,
+      "fontFamily": "Octicon",
+      "identifier": "trackedByClosedNotPlanned16"
+    },
+    "tracked-by-closed-not-planned-24": {
+      "codepoint": 58197,
+      "fontFamily": "Octicon",
+      "identifier": "trackedByClosedNotPlanned24"
+    },
+    "trash-16": {
+      "codepoint": 58198,
+      "fontFamily": "Octicon",
+      "identifier": "trash16"
+    },
+    "trash-24": {
+      "codepoint": 58199,
+      "fontFamily": "Octicon",
+      "identifier": "trash24"
+    },
+    "trashcan": {
+      "codepoint": 58200,
+      "fontFamily": "Octicon",
+      "identifier": "trashcan"
+    },
+    "trashcan-16": {
+      "codepoint": 58201,
+      "fontFamily": "Octicon",
+      "identifier": "trashcan16"
+    },
+    "triangle-down": {
+      "codepoint": 58202,
+      "fontFamily": "Octicon",
+      "identifier": "triangleDown"
+    },
+    "triangle-down-16": {
+      "codepoint": 58203,
+      "fontFamily": "Octicon",
+      "identifier": "triangleDown16"
+    },
+    "triangle-down-24": {
+      "codepoint": 58204,
+      "fontFamily": "Octicon",
+      "identifier": "triangleDown24"
+    },
+    "triangle-left": {
+      "codepoint": 58205,
+      "fontFamily": "Octicon",
+      "identifier": "triangleLeft"
+    },
+    "triangle-left-16": {
+      "codepoint": 58206,
+      "fontFamily": "Octicon",
+      "identifier": "triangleLeft16"
+    },
+    "triangle-left-24": {
+      "codepoint": 58207,
+      "fontFamily": "Octicon",
+      "identifier": "triangleLeft24"
+    },
+    "triangle-right": {
+      "codepoint": 58208,
+      "fontFamily": "Octicon",
+      "identifier": "triangleRight"
+    },
+    "triangle-right-16": {
+      "codepoint": 58209,
+      "fontFamily": "Octicon",
+      "identifier": "triangleRight16"
+    },
+    "triangle-right-24": {
+      "codepoint": 58210,
+      "fontFamily": "Octicon",
+      "identifier": "triangleRight24"
+    },
+    "triangle-up": {
+      "codepoint": 58211,
+      "fontFamily": "Octicon",
+      "identifier": "triangleUp"
+    },
+    "triangle-up-16": {
+      "codepoint": 58212,
+      "fontFamily": "Octicon",
+      "identifier": "triangleUp16"
+    },
+    "triangle-up-24": {
+      "codepoint": 58213,
+      "fontFamily": "Octicon",
+      "identifier": "triangleUp24"
+    },
+    "trophy-16": {
+      "codepoint": 58214,
+      "fontFamily": "Octicon",
+      "identifier": "trophy16"
+    },
+    "trophy-24": {
+      "codepoint": 58215,
+      "fontFamily": "Octicon",
+      "identifier": "trophy24"
+    },
+    "typography-16": {
+      "codepoint": 58216,
+      "fontFamily": "Octicon",
+      "identifier": "typography16"
+    },
+    "typography-24": {
+      "codepoint": 58217,
+      "fontFamily": "Octicon",
+      "identifier": "typography24"
+    },
+    "undo-16": {
+      "codepoint": 58218,
+      "fontFamily": "Octicon",
+      "identifier": "undo16"
+    },
+    "undo-24": {
+      "codepoint": 58219,
+      "fontFamily": "Octicon",
+      "identifier": "undo24"
+    },
+    "unfold": {
+      "codepoint": 58220,
+      "fontFamily": "Octicon",
+      "identifier": "unfold"
+    },
+    "unfold-16": {
+      "codepoint": 58221,
+      "fontFamily": "Octicon",
+      "identifier": "unfold16"
+    },
+    "unfold-24": {
+      "codepoint": 58222,
+      "fontFamily": "Octicon",
+      "identifier": "unfold24"
+    },
+    "unlink-16": {
+      "codepoint": 58223,
+      "fontFamily": "Octicon",
+      "identifier": "unlink16"
+    },
+    "unlink-24": {
+      "codepoint": 58224,
+      "fontFamily": "Octicon",
+      "identifier": "unlink24"
+    },
+    "unlock-16": {
+      "codepoint": 58225,
+      "fontFamily": "Octicon",
+      "identifier": "unlock16"
+    },
+    "unlock-24": {
+      "codepoint": 58226,
+      "fontFamily": "Octicon",
+      "identifier": "unlock24"
+    },
+    "unmute": {
+      "codepoint": 58227,
+      "fontFamily": "Octicon",
+      "identifier": "unmute"
+    },
+    "unmute-16": {
+      "codepoint": 58228,
+      "fontFamily": "Octicon",
+      "identifier": "unmute16"
+    },
+    "unmute-24": {
+      "codepoint": 58229,
+      "fontFamily": "Octicon",
+      "identifier": "unmute24"
+    },
+    "unread-16": {
+      "codepoint": 58230,
+      "fontFamily": "Octicon",
+      "identifier": "unread16"
+    },
+    "unread-24": {
+      "codepoint": 58231,
+      "fontFamily": "Octicon",
+      "identifier": "unread24"
+    },
+    "unverifed-24": {
+      "codepoint": 58232,
+      "fontFamily": "Octicon",
+      "identifier": "unverifed24"
+    },
+    "unverified": {
+      "codepoint": 58233,
+      "fontFamily": "Octicon",
+      "identifier": "unverified"
+    },
+    "unverified-16": {
+      "codepoint": 58234,
+      "fontFamily": "Octicon",
+      "identifier": "unverified16"
+    },
+    "unverified-24": {
+      "codepoint": 58235,
+      "fontFamily": "Octicon",
+      "identifier": "unverified24"
+    },
+    "unwrap-16": {
+      "codepoint": 58236,
+      "fontFamily": "Octicon",
+      "identifier": "unwrap16"
+    },
+    "unwrap-24": {
+      "codepoint": 58237,
+      "fontFamily": "Octicon",
+      "identifier": "unwrap24"
+    },
+    "upload-16": {
+      "codepoint": 58238,
+      "fontFamily": "Octicon",
+      "identifier": "upload16"
+    },
+    "upload-24": {
+      "codepoint": 58239,
+      "fontFamily": "Octicon",
+      "identifier": "upload24"
+    },
+    "verified": {
+      "codepoint": 58240,
+      "fontFamily": "Octicon",
+      "identifier": "verified"
+    },
+    "verified-16": {
+      "codepoint": 58241,
+      "fontFamily": "Octicon",
+      "identifier": "verified16"
+    },
+    "verified-24": {
+      "codepoint": 58242,
+      "fontFamily": "Octicon",
+      "identifier": "verified24"
+    },
+    "versions": {
+      "codepoint": 58243,
+      "fontFamily": "Octicon",
+      "identifier": "versions"
+    },
+    "versions-16": {
+      "codepoint": 58244,
+      "fontFamily": "Octicon",
+      "identifier": "versions16"
+    },
+    "versions-24": {
+      "codepoint": 58245,
+      "fontFamily": "Octicon",
+      "identifier": "versions24"
+    },
+    "video-16": {
+      "codepoint": 58246,
+      "fontFamily": "Octicon",
+      "identifier": "video16"
+    },
+    "video-24": {
+      "codepoint": 58247,
+      "fontFamily": "Octicon",
+      "identifier": "video24"
+    },
+    "vscode-16": {
+      "codepoint": 58248,
+      "fontFamily": "Octicon",
+      "identifier": "vscode16"
+    },
+    "vscode-32": {
+      "codepoint": 58249,
+      "fontFamily": "Octicon",
+      "identifier": "vscode32"
+    },
+    "vscode-48": {
+      "codepoint": 58250,
+      "fontFamily": "Octicon",
+      "identifier": "vscode48"
+    },
+    "watch": {
+      "codepoint": 58251,
+      "fontFamily": "Octicon",
+      "identifier": "watch"
+    },
+    "webhook-16": {
+      "codepoint": 58252,
+      "fontFamily": "Octicon",
+      "identifier": "webhook16"
+    },
+    "workflow-16": {
+      "codepoint": 58253,
+      "fontFamily": "Octicon",
+      "identifier": "workflow16"
+    },
+    "workflow-24": {
+      "codepoint": 58254,
+      "fontFamily": "Octicon",
+      "identifier": "workflow24"
+    },
+    "wrap-16": {
+      "codepoint": 58255,
+      "fontFamily": "Octicon",
+      "identifier": "wrap16"
+    },
+    "wrap-24": {
+      "codepoint": 58256,
+      "fontFamily": "Octicon",
+      "identifier": "wrap24"
+    },
+    "x": {
+      "codepoint": 58257,
+      "fontFamily": "Octicon",
+      "identifier": "x"
+    },
+    "x-12": {
+      "codepoint": 58258,
+      "fontFamily": "Octicon",
+      "identifier": "x12"
+    },
+    "x-16": {
+      "codepoint": 58259,
+      "fontFamily": "Octicon",
+      "identifier": "x16"
+    },
+    "x-24": {
+      "codepoint": 58260,
+      "fontFamily": "Octicon",
+      "identifier": "x24"
+    },
+    "x-circle-16": {
+      "codepoint": 58261,
+      "fontFamily": "Octicon",
+      "identifier": "xCircle16"
+    },
+    "x-circle-24": {
+      "codepoint": 58262,
+      "fontFamily": "Octicon",
+      "identifier": "xCircle24"
+    },
+    "x-circle-fill-12": {
+      "codepoint": 58263,
+      "fontFamily": "Octicon",
+      "identifier": "xCircleFill12"
+    },
+    "x-circle-fill-16": {
+      "codepoint": 58264,
+      "fontFamily": "Octicon",
+      "identifier": "xCircleFill16"
+    },
+    "x-circle-fill-24": {
+      "codepoint": 58265,
+      "fontFamily": "Octicon",
+      "identifier": "xCircleFill24"
+    },
+    "zap": {
+      "codepoint": 58266,
+      "fontFamily": "Octicon",
+      "identifier": "zap"
+    },
+    "zap-16": {
+      "codepoint": 58267,
+      "fontFamily": "Octicon",
+      "identifier": "zap16"
+    },
+    "zap-24": {
+      "codepoint": 58268,
+      "fontFamily": "Octicon",
+      "identifier": "zap24"
+    },
+    "zoom-in-16": {
+      "codepoint": 58269,
+      "fontFamily": "Octicon",
+      "identifier": "zoomIn16"
+    },
+    "zoom-in-24": {
+      "codepoint": 58270,
+      "fontFamily": "Octicon",
+      "identifier": "zoomIn24"
+    },
+    "zoom-out-16": {
+      "codepoint": 58271,
+      "fontFamily": "Octicon",
+      "identifier": "zoomOut16"
+    },
+    "zoom-out-24": {
+      "codepoint": 58272,
+      "fontFamily": "Octicon",
+      "identifier": "zoomOut24"
+    }
+  }
+}

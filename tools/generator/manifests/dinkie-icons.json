@@ -1,0 +1,6020 @@
+{
+  "schemaVersion": 1,
+  "prefix": "dinkie-icons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_dinkie_icons",
+  "info": {
+    "name": "Dinkie Icons",
+    "author": {
+      "name": "atelierAnchor",
+      "url": "https://github.com/atelier-anchor/dinkie-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/atelier-anchor/dinkie-icons/blob/main/LICENSE"
+    },
+    "total": 1198
+  },
+  "fonts": [
+    {
+      "family": "DinkieIcons",
+      "nextCodepoint": 58542,
+      "iconCount": 1198
+    }
+  ],
+  "icons": {
+    "abacus": {
+      "codepoint": 57344,
+      "fontFamily": "DinkieIcons",
+      "identifier": "abacus"
+    },
+    "accept-circle": {
+      "codepoint": 57345,
+      "fontFamily": "DinkieIcons",
+      "identifier": "acceptCircle"
+    },
+    "accept-circle-filled": {
+      "codepoint": 57346,
+      "fontFamily": "DinkieIcons",
+      "identifier": "acceptCircleFilled"
+    },
+    "accordion": {
+      "codepoint": 57347,
+      "fontFamily": "DinkieIcons",
+      "identifier": "accordion"
+    },
+    "address-book": {
+      "codepoint": 57348,
+      "fontFamily": "DinkieIcons",
+      "identifier": "addressBook"
+    },
+    "address-book-filled": {
+      "codepoint": 57349,
+      "fontFamily": "DinkieIcons",
+      "identifier": "addressBookFilled"
+    },
+    "address-book-small": {
+      "codepoint": 57350,
+      "fontFamily": "DinkieIcons",
+      "identifier": "addressBookSmall"
+    },
+    "address-book-small-filled": {
+      "codepoint": 57351,
+      "fontFamily": "DinkieIcons",
+      "identifier": "addressBookSmallFilled"
+    },
+    "adjustments": {
+      "codepoint": 57352,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adjustments"
+    },
+    "adjustments-filled": {
+      "codepoint": 57353,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adjustmentsFilled"
+    },
+    "adobe-after-effects": {
+      "codepoint": 57354,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobeAfterEffects"
+    },
+    "adobe-after-effects-filled": {
+      "codepoint": 57355,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobeAfterEffectsFilled"
+    },
+    "adobe-animate": {
+      "codepoint": 57356,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobeAnimate"
+    },
+    "adobe-animate-filled": {
+      "codepoint": 57357,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobeAnimateFilled"
+    },
+    "adobe-audition": {
+      "codepoint": 57358,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobeAudition"
+    },
+    "adobe-audition-filled": {
+      "codepoint": 57359,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobeAuditionFilled"
+    },
+    "adobe-illustrator": {
+      "codepoint": 57360,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobeIllustrator"
+    },
+    "adobe-illustrator-filled": {
+      "codepoint": 57361,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobeIllustratorFilled"
+    },
+    "adobe-in-design": {
+      "codepoint": 57362,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobeInDesign"
+    },
+    "adobe-in-design-filled": {
+      "codepoint": 57363,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobeInDesignFilled"
+    },
+    "adobe-photoshop": {
+      "codepoint": 57364,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobePhotoshop"
+    },
+    "adobe-photoshop-filled": {
+      "codepoint": 57365,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobePhotoshopFilled"
+    },
+    "adobe-premiere": {
+      "codepoint": 57366,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobePremiere"
+    },
+    "adobe-premiere-filled": {
+      "codepoint": 57367,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adobePremiereFilled"
+    },
+    "adult": {
+      "codepoint": 57368,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adult"
+    },
+    "adult-filled": {
+      "codepoint": 57369,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adultFilled"
+    },
+    "adult-small": {
+      "codepoint": 57370,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adultSmall"
+    },
+    "adult-small-filled": {
+      "codepoint": 57371,
+      "fontFamily": "DinkieIcons",
+      "identifier": "adultSmallFilled"
+    },
+    "advantage-circle": {
+      "codepoint": 57372,
+      "fontFamily": "DinkieIcons",
+      "identifier": "advantageCircle"
+    },
+    "advantage-circle-filled": {
+      "codepoint": 57373,
+      "fontFamily": "DinkieIcons",
+      "identifier": "advantageCircleFilled"
+    },
+    "airplane": {
+      "codepoint": 57374,
+      "fontFamily": "DinkieIcons",
+      "identifier": "airplane"
+    },
+    "alarm-clock": {
+      "codepoint": 57375,
+      "fontFamily": "DinkieIcons",
+      "identifier": "alarmClock"
+    },
+    "alarm-clock-filled": {
+      "codepoint": 57376,
+      "fontFamily": "DinkieIcons",
+      "identifier": "alarmClockFilled"
+    },
+    "alarm-clock-small-filled": {
+      "codepoint": 57377,
+      "fontFamily": "DinkieIcons",
+      "identifier": "alarmClockSmallFilled"
+    },
+    "alien-monster": {
+      "codepoint": 57378,
+      "fontFamily": "DinkieIcons",
+      "identifier": "alienMonster"
+    },
+    "alien-monster-small": {
+      "codepoint": 57379,
+      "fontFamily": "DinkieIcons",
+      "identifier": "alienMonsterSmall"
+    },
+    "alipay": {
+      "codepoint": 57380,
+      "fontFamily": "DinkieIcons",
+      "identifier": "alipay"
+    },
+    "alipay-filled": {
+      "codepoint": 57381,
+      "fontFamily": "DinkieIcons",
+      "identifier": "alipayFilled"
+    },
+    "alipay-small": {
+      "codepoint": 57382,
+      "fontFamily": "DinkieIcons",
+      "identifier": "alipaySmall"
+    },
+    "alipay-small-filled": {
+      "codepoint": 57383,
+      "fontFamily": "DinkieIcons",
+      "identifier": "alipaySmallFilled"
+    },
+    "anchor": {
+      "codepoint": 57384,
+      "fontFamily": "DinkieIcons",
+      "identifier": "anchor"
+    },
+    "anchor-small": {
+      "codepoint": 57385,
+      "fontFamily": "DinkieIcons",
+      "identifier": "anchorSmall"
+    },
+    "android": {
+      "codepoint": 57386,
+      "fontFamily": "DinkieIcons",
+      "identifier": "android"
+    },
+    "annotation": {
+      "codepoint": 57387,
+      "fontFamily": "DinkieIcons",
+      "identifier": "annotation"
+    },
+    "antenna-bars": {
+      "codepoint": 57388,
+      "fontFamily": "DinkieIcons",
+      "identifier": "antennaBars"
+    },
+    "antenna-bars-filled": {
+      "codepoint": 57389,
+      "fontFamily": "DinkieIcons",
+      "identifier": "antennaBarsFilled"
+    },
+    "anyway-fm": {
+      "codepoint": 57390,
+      "fontFamily": "DinkieIcons",
+      "identifier": "anywayFm"
+    },
+    "app-notifacation": {
+      "codepoint": 57391,
+      "fontFamily": "DinkieIcons",
+      "identifier": "appNotifacation"
+    },
+    "app-notifacation-small": {
+      "codepoint": 57392,
+      "fontFamily": "DinkieIcons",
+      "identifier": "appNotifacationSmall"
+    },
+    "app-store": {
+      "codepoint": 57393,
+      "fontFamily": "DinkieIcons",
+      "identifier": "appStore"
+    },
+    "app-store-filled": {
+      "codepoint": 57394,
+      "fontFamily": "DinkieIcons",
+      "identifier": "appStoreFilled"
+    },
+    "apple": {
+      "codepoint": 57395,
+      "fontFamily": "DinkieIcons",
+      "identifier": "apple"
+    },
+    "apple-filled": {
+      "codepoint": 57396,
+      "fontFamily": "DinkieIcons",
+      "identifier": "appleFilled"
+    },
+    "apple-small": {
+      "codepoint": 57397,
+      "fontFamily": "DinkieIcons",
+      "identifier": "appleSmall"
+    },
+    "apple-small-filled": {
+      "codepoint": 57398,
+      "fontFamily": "DinkieIcons",
+      "identifier": "appleSmallFilled"
+    },
+    "arrows-maximize": {
+      "codepoint": 57399,
+      "fontFamily": "DinkieIcons",
+      "identifier": "arrowsMaximize"
+    },
+    "arrows-minimize": {
+      "codepoint": 57400,
+      "fontFamily": "DinkieIcons",
+      "identifier": "arrowsMinimize"
+    },
+    "artist-palette": {
+      "codepoint": 57401,
+      "fontFamily": "DinkieIcons",
+      "identifier": "artistPalette"
+    },
+    "astonished-face": {
+      "codepoint": 57402,
+      "fontFamily": "DinkieIcons",
+      "identifier": "astonishedFace"
+    },
+    "atom": {
+      "codepoint": 57403,
+      "fontFamily": "DinkieIcons",
+      "identifier": "atom"
+    },
+    "automobile": {
+      "codepoint": 57404,
+      "fontFamily": "DinkieIcons",
+      "identifier": "automobile"
+    },
+    "automobile-filled": {
+      "codepoint": 57405,
+      "fontFamily": "DinkieIcons",
+      "identifier": "automobileFilled"
+    },
+    "automobile-small": {
+      "codepoint": 57406,
+      "fontFamily": "DinkieIcons",
+      "identifier": "automobileSmall"
+    },
+    "autumn-mahjong": {
+      "codepoint": 57407,
+      "fontFamily": "DinkieIcons",
+      "identifier": "autumnMahjong"
+    },
+    "axe": {
+      "codepoint": 57408,
+      "fontFamily": "DinkieIcons",
+      "identifier": "axe"
+    },
+    "axe-filled": {
+      "codepoint": 57409,
+      "fontFamily": "DinkieIcons",
+      "identifier": "axeFilled"
+    },
+    "back-mahjong": {
+      "codepoint": 57410,
+      "fontFamily": "DinkieIcons",
+      "identifier": "backMahjong"
+    },
+    "back-mahjong-filled": {
+      "codepoint": 57411,
+      "fontFamily": "DinkieIcons",
+      "identifier": "backMahjongFilled"
+    },
+    "balloon": {
+      "codepoint": 57412,
+      "fontFamily": "DinkieIcons",
+      "identifier": "balloon"
+    },
+    "balloon-filled": {
+      "codepoint": 57413,
+      "fontFamily": "DinkieIcons",
+      "identifier": "balloonFilled"
+    },
+    "ballot-box-with-check": {
+      "codepoint": 57414,
+      "fontFamily": "DinkieIcons",
+      "identifier": "ballotBoxWithCheck"
+    },
+    "ballot-box-with-check-filled": {
+      "codepoint": 57415,
+      "fontFamily": "DinkieIcons",
+      "identifier": "ballotBoxWithCheckFilled"
+    },
+    "ballot-box-with-check-small": {
+      "codepoint": 57416,
+      "fontFamily": "DinkieIcons",
+      "identifier": "ballotBoxWithCheckSmall"
+    },
+    "ballot-box-with-check-small-filled": {
+      "codepoint": 57417,
+      "fontFamily": "DinkieIcons",
+      "identifier": "ballotBoxWithCheckSmallFilled"
+    },
+    "bamboo-mahjong": {
+      "codepoint": 57418,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bambooMahjong"
+    },
+    "banana": {
+      "codepoint": 57419,
+      "fontFamily": "DinkieIcons",
+      "identifier": "banana"
+    },
+    "banjo": {
+      "codepoint": 57420,
+      "fontFamily": "DinkieIcons",
+      "identifier": "banjo"
+    },
+    "basket": {
+      "codepoint": 57421,
+      "fontFamily": "DinkieIcons",
+      "identifier": "basket"
+    },
+    "battery": {
+      "codepoint": 57422,
+      "fontFamily": "DinkieIcons",
+      "identifier": "battery"
+    },
+    "battery-filled": {
+      "codepoint": 57423,
+      "fontFamily": "DinkieIcons",
+      "identifier": "batteryFilled"
+    },
+    "battery-small": {
+      "codepoint": 57424,
+      "fontFamily": "DinkieIcons",
+      "identifier": "batterySmall"
+    },
+    "battery-small-filled": {
+      "codepoint": 57425,
+      "fontFamily": "DinkieIcons",
+      "identifier": "batterySmallFilled"
+    },
+    "beaker": {
+      "codepoint": 57426,
+      "fontFamily": "DinkieIcons",
+      "identifier": "beaker"
+    },
+    "beaker-filled": {
+      "codepoint": 57427,
+      "fontFamily": "DinkieIcons",
+      "identifier": "beakerFilled"
+    },
+    "beer-mug": {
+      "codepoint": 57428,
+      "fontFamily": "DinkieIcons",
+      "identifier": "beerMug"
+    },
+    "bell": {
+      "codepoint": 57429,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bell"
+    },
+    "bell-filled": {
+      "codepoint": 57430,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bellFilled"
+    },
+    "bell-with-cancellation-stroke": {
+      "codepoint": 57431,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bellWithCancellationStroke"
+    },
+    "bell-with-cancellation-stroke-filled": {
+      "codepoint": 57432,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bellWithCancellationStrokeFilled"
+    },
+    "bezier": {
+      "codepoint": 57433,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bezier"
+    },
+    "bezier-small": {
+      "codepoint": 57434,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bezierSmall"
+    },
+    "bigger": {
+      "codepoint": 57435,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bigger"
+    },
+    "bigger-small": {
+      "codepoint": 57436,
+      "fontFamily": "DinkieIcons",
+      "identifier": "biggerSmall"
+    },
+    "bilibili": {
+      "codepoint": 57437,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bilibili"
+    },
+    "bilibili-small": {
+      "codepoint": 57438,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bilibiliSmall"
+    },
+    "billed-cap": {
+      "codepoint": 57439,
+      "fontFamily": "DinkieIcons",
+      "identifier": "billedCap"
+    },
+    "billed-cap-small": {
+      "codepoint": 57440,
+      "fontFamily": "DinkieIcons",
+      "identifier": "billedCapSmall"
+    },
+    "biohazard": {
+      "codepoint": 57441,
+      "fontFamily": "DinkieIcons",
+      "identifier": "biohazard"
+    },
+    "bird": {
+      "codepoint": 57442,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bird"
+    },
+    "bird-filled": {
+      "codepoint": 57443,
+      "fontFamily": "DinkieIcons",
+      "identifier": "birdFilled"
+    },
+    "birthday-cake": {
+      "codepoint": 57444,
+      "fontFamily": "DinkieIcons",
+      "identifier": "birthdayCake"
+    },
+    "black-circle-for-record": {
+      "codepoint": 57445,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackCircleForRecord"
+    },
+    "black-circle-for-record-filled": {
+      "codepoint": 57446,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackCircleForRecordFilled"
+    },
+    "black-cross-square": {
+      "codepoint": 57447,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackCrossSquare"
+    },
+    "black-cross-square-filled": {
+      "codepoint": 57448,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackCrossSquareFilled"
+    },
+    "black-cross-square-small": {
+      "codepoint": 57449,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackCrossSquareSmall"
+    },
+    "black-cross-square-small-filled": {
+      "codepoint": 57450,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackCrossSquareSmallFilled"
+    },
+    "black-joker-cards": {
+      "codepoint": 57451,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackJokerCards"
+    },
+    "black-left-double-triangle": {
+      "codepoint": 57452,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackLeftDoubleTriangle"
+    },
+    "black-left-double-triangle-filled": {
+      "codepoint": 57453,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackLeftDoubleTriangleFilled"
+    },
+    "black-left-double-triangle-with-vertical-bar": {
+      "codepoint": 57454,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackLeftDoubleTriangleWithVerticalBar"
+    },
+    "black-left-double-triangle-with-vertical-bar-filled": {
+      "codepoint": 57455,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackLeftDoubleTriangleWithVerticalBarFilled"
+    },
+    "black-right-double-triangle": {
+      "codepoint": 57456,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackRightDoubleTriangle"
+    },
+    "black-right-double-triangle-filled": {
+      "codepoint": 57457,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackRightDoubleTriangleFilled"
+    },
+    "black-right-double-triangle-with-vertical-bar": {
+      "codepoint": 57458,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackRightDoubleTriangleWithVerticalBar"
+    },
+    "black-right-double-triangle-with-vertical-bar-filled": {
+      "codepoint": 57459,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackRightDoubleTriangleWithVerticalBarFilled"
+    },
+    "black-right-triangle-with-double-vertical-bar": {
+      "codepoint": 57460,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackRightTriangleWithDoubleVerticalBar"
+    },
+    "black-right-triangle-with-double-vertical-bar-filled": {
+      "codepoint": 57461,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackRightTriangleWithDoubleVerticalBarFilled"
+    },
+    "black-scissors": {
+      "codepoint": 57462,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackScissors"
+    },
+    "black-scissors-filled": {
+      "codepoint": 57463,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackScissorsFilled"
+    },
+    "black-square-for-stop": {
+      "codepoint": 57464,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackSquareForStop"
+    },
+    "black-square-for-stop-filled": {
+      "codepoint": 57465,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackSquareForStopFilled"
+    },
+    "black-sun-with-rays": {
+      "codepoint": 57466,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackSunWithRays"
+    },
+    "black-sun-with-rays-filled": {
+      "codepoint": 57467,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackSunWithRaysFilled"
+    },
+    "black-sun-with-rays-small": {
+      "codepoint": 57468,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackSunWithRaysSmall"
+    },
+    "black-sun-with-rays-small-filled": {
+      "codepoint": 57469,
+      "fontFamily": "DinkieIcons",
+      "identifier": "blackSunWithRaysSmallFilled"
+    },
+    "bo-blog": {
+      "codepoint": 57470,
+      "fontFamily": "DinkieIcons",
+      "identifier": "boBlog"
+    },
+    "bomb": {
+      "codepoint": 57471,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bomb"
+    },
+    "bomb-filled": {
+      "codepoint": 57472,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bombFilled"
+    },
+    "bow-and-arrow": {
+      "codepoint": 57473,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bowAndArrow"
+    },
+    "boy": {
+      "codepoint": 57474,
+      "fontFamily": "DinkieIcons",
+      "identifier": "boy"
+    },
+    "boy-filled": {
+      "codepoint": 57475,
+      "fontFamily": "DinkieIcons",
+      "identifier": "boyFilled"
+    },
+    "boy-small": {
+      "codepoint": 57476,
+      "fontFamily": "DinkieIcons",
+      "identifier": "boySmall"
+    },
+    "boy-small-filled": {
+      "codepoint": 57477,
+      "fontFamily": "DinkieIcons",
+      "identifier": "boySmallFilled"
+    },
+    "bread": {
+      "codepoint": 57478,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bread"
+    },
+    "briefcase": {
+      "codepoint": 57479,
+      "fontFamily": "DinkieIcons",
+      "identifier": "briefcase"
+    },
+    "briefcase-small": {
+      "codepoint": 57480,
+      "fontFamily": "DinkieIcons",
+      "identifier": "briefcaseSmall"
+    },
+    "broken-heart": {
+      "codepoint": 57481,
+      "fontFamily": "DinkieIcons",
+      "identifier": "brokenHeart"
+    },
+    "broken-heart-filled": {
+      "codepoint": 57482,
+      "fontFamily": "DinkieIcons",
+      "identifier": "brokenHeartFilled"
+    },
+    "brush": {
+      "codepoint": 57483,
+      "fontFamily": "DinkieIcons",
+      "identifier": "brush"
+    },
+    "buddy": {
+      "codepoint": 57484,
+      "fontFamily": "DinkieIcons",
+      "identifier": "buddy"
+    },
+    "bug": {
+      "codepoint": 57485,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bug"
+    },
+    "building-construction": {
+      "codepoint": 57486,
+      "fontFamily": "DinkieIcons",
+      "identifier": "buildingConstruction"
+    },
+    "bus": {
+      "codepoint": 57487,
+      "fontFamily": "DinkieIcons",
+      "identifier": "bus"
+    },
+    "bus-alt": {
+      "codepoint": 57488,
+      "fontFamily": "DinkieIcons",
+      "identifier": "busAlt"
+    },
+    "bye-face": {
+      "codepoint": 57489,
+      "fontFamily": "DinkieIcons",
+      "identifier": "byeFace"
+    },
+    "calendar": {
+      "codepoint": 57490,
+      "fontFamily": "DinkieIcons",
+      "identifier": "calendar"
+    },
+    "calendar-alt": {
+      "codepoint": 57491,
+      "fontFamily": "DinkieIcons",
+      "identifier": "calendarAlt"
+    },
+    "calendar-small": {
+      "codepoint": 57492,
+      "fontFamily": "DinkieIcons",
+      "identifier": "calendarSmall"
+    },
+    "camera": {
+      "codepoint": 57493,
+      "fontFamily": "DinkieIcons",
+      "identifier": "camera"
+    },
+    "candle": {
+      "codepoint": 57494,
+      "fontFamily": "DinkieIcons",
+      "identifier": "candle"
+    },
+    "carrot": {
+      "codepoint": 57495,
+      "fontFamily": "DinkieIcons",
+      "identifier": "carrot"
+    },
+    "cat-face": {
+      "codepoint": 57496,
+      "fontFamily": "DinkieIcons",
+      "identifier": "catFace"
+    },
+    "cat-face-small": {
+      "codepoint": 57497,
+      "fontFamily": "DinkieIcons",
+      "identifier": "catFaceSmall"
+    },
+    "checkmark-circled": {
+      "codepoint": 57498,
+      "fontFamily": "DinkieIcons",
+      "identifier": "checkmarkCircled"
+    },
+    "checkmark-circled-filled": {
+      "codepoint": 57499,
+      "fontFamily": "DinkieIcons",
+      "identifier": "checkmarkCircledFilled"
+    },
+    "checkmark-circled-small": {
+      "codepoint": 57500,
+      "fontFamily": "DinkieIcons",
+      "identifier": "checkmarkCircledSmall"
+    },
+    "checkmark-circled-small-filled": {
+      "codepoint": 57501,
+      "fontFamily": "DinkieIcons",
+      "identifier": "checkmarkCircledSmallFilled"
+    },
+    "cherries": {
+      "codepoint": 57502,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cherries"
+    },
+    "cherries-filled": {
+      "codepoint": 57503,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cherriesFilled"
+    },
+    "cherries-small": {
+      "codepoint": 57504,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cherriesSmall"
+    },
+    "cherry-blossom": {
+      "codepoint": 57505,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cherryBlossom"
+    },
+    "chestnut": {
+      "codepoint": 57506,
+      "fontFamily": "DinkieIcons",
+      "identifier": "chestnut"
+    },
+    "christmas-tree": {
+      "codepoint": 57507,
+      "fontFamily": "DinkieIcons",
+      "identifier": "christmasTree"
+    },
+    "chrysanthemum-mahjong": {
+      "codepoint": 57508,
+      "fontFamily": "DinkieIcons",
+      "identifier": "chrysanthemumMahjong"
+    },
+    "circle": {
+      "codepoint": 57509,
+      "fontFamily": "DinkieIcons",
+      "identifier": "circle"
+    },
+    "circle-filled": {
+      "codepoint": 57510,
+      "fontFamily": "DinkieIcons",
+      "identifier": "circleFilled"
+    },
+    "circle-small": {
+      "codepoint": 57511,
+      "fontFamily": "DinkieIcons",
+      "identifier": "circleSmall"
+    },
+    "circle-small-filled": {
+      "codepoint": 57512,
+      "fontFamily": "DinkieIcons",
+      "identifier": "circleSmallFilled"
+    },
+    "circled-information-source": {
+      "codepoint": 57513,
+      "fontFamily": "DinkieIcons",
+      "identifier": "circledInformationSource"
+    },
+    "circled-information-source-filled": {
+      "codepoint": 57514,
+      "fontFamily": "DinkieIcons",
+      "identifier": "circledInformationSourceFilled"
+    },
+    "circled-information-source-small": {
+      "codepoint": 57515,
+      "fontFamily": "DinkieIcons",
+      "identifier": "circledInformationSourceSmall"
+    },
+    "circled-information-source-small-filled": {
+      "codepoint": 57516,
+      "fontFamily": "DinkieIcons",
+      "identifier": "circledInformationSourceSmallFilled"
+    },
+    "clapper-board": {
+      "codepoint": 57517,
+      "fontFamily": "DinkieIcons",
+      "identifier": "clapperBoard"
+    },
+    "clapping-hands-sign": {
+      "codepoint": 57518,
+      "fontFamily": "DinkieIcons",
+      "identifier": "clappingHandsSign"
+    },
+    "clipboard": {
+      "codepoint": 57519,
+      "fontFamily": "DinkieIcons",
+      "identifier": "clipboard"
+    },
+    "clipboard-filled": {
+      "codepoint": 57520,
+      "fontFamily": "DinkieIcons",
+      "identifier": "clipboardFilled"
+    },
+    "clipboard-small": {
+      "codepoint": 57521,
+      "fontFamily": "DinkieIcons",
+      "identifier": "clipboardSmall"
+    },
+    "clipboard-small-filled": {
+      "codepoint": 57522,
+      "fontFamily": "DinkieIcons",
+      "identifier": "clipboardSmallFilled"
+    },
+    "clock": {
+      "codepoint": 57523,
+      "fontFamily": "DinkieIcons",
+      "identifier": "clock"
+    },
+    "clock-filled": {
+      "codepoint": 57524,
+      "fontFamily": "DinkieIcons",
+      "identifier": "clockFilled"
+    },
+    "clock-small-filled": {
+      "codepoint": 57525,
+      "fontFamily": "DinkieIcons",
+      "identifier": "clockSmallFilled"
+    },
+    "closed-book": {
+      "codepoint": 57526,
+      "fontFamily": "DinkieIcons",
+      "identifier": "closedBook"
+    },
+    "closed-book-filled": {
+      "codepoint": 57527,
+      "fontFamily": "DinkieIcons",
+      "identifier": "closedBookFilled"
+    },
+    "closed-book-small": {
+      "codepoint": 57528,
+      "fontFamily": "DinkieIcons",
+      "identifier": "closedBookSmall"
+    },
+    "closed-book-small-filled": {
+      "codepoint": 57529,
+      "fontFamily": "DinkieIcons",
+      "identifier": "closedBookSmallFilled"
+    },
+    "closed-mailbox-lowered-flag": {
+      "codepoint": 57530,
+      "fontFamily": "DinkieIcons",
+      "identifier": "closedMailboxLoweredFlag"
+    },
+    "closed-mailbox-raised-flag": {
+      "codepoint": 57531,
+      "fontFamily": "DinkieIcons",
+      "identifier": "closedMailboxRaisedFlag"
+    },
+    "cloud": {
+      "codepoint": 57532,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cloud"
+    },
+    "coconut": {
+      "codepoint": 57533,
+      "fontFamily": "DinkieIcons",
+      "identifier": "coconut"
+    },
+    "code": {
+      "codepoint": 57534,
+      "fontFamily": "DinkieIcons",
+      "identifier": "code"
+    },
+    "code-filled": {
+      "codepoint": 57535,
+      "fontFamily": "DinkieIcons",
+      "identifier": "codeFilled"
+    },
+    "code-small": {
+      "codepoint": 57536,
+      "fontFamily": "DinkieIcons",
+      "identifier": "codeSmall"
+    },
+    "compass": {
+      "codepoint": 57537,
+      "fontFamily": "DinkieIcons",
+      "identifier": "compass"
+    },
+    "compass-filled": {
+      "codepoint": 57538,
+      "fontFamily": "DinkieIcons",
+      "identifier": "compassFilled"
+    },
+    "compass-small": {
+      "codepoint": 57539,
+      "fontFamily": "DinkieIcons",
+      "identifier": "compassSmall"
+    },
+    "compass-small-filled": {
+      "codepoint": 57540,
+      "fontFamily": "DinkieIcons",
+      "identifier": "compassSmallFilled"
+    },
+    "confetti-ball": {
+      "codepoint": 57541,
+      "fontFamily": "DinkieIcons",
+      "identifier": "confettiBall"
+    },
+    "contrast": {
+      "codepoint": 57542,
+      "fontFamily": "DinkieIcons",
+      "identifier": "contrast"
+    },
+    "contrast-filled": {
+      "codepoint": 57543,
+      "fontFamily": "DinkieIcons",
+      "identifier": "contrastFilled"
+    },
+    "contrast-small": {
+      "codepoint": 57544,
+      "fontFamily": "DinkieIcons",
+      "identifier": "contrastSmall"
+    },
+    "contrast-small-filled": {
+      "codepoint": 57545,
+      "fontFamily": "DinkieIcons",
+      "identifier": "contrastSmallFilled"
+    },
+    "cooked-rice": {
+      "codepoint": 57546,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cookedRice"
+    },
+    "cookie": {
+      "codepoint": 57547,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cookie"
+    },
+    "cookie-filled": {
+      "codepoint": 57548,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cookieFilled"
+    },
+    "cool-box": {
+      "codepoint": 57549,
+      "fontFamily": "DinkieIcons",
+      "identifier": "coolBox"
+    },
+    "cool-box-filled": {
+      "codepoint": 57550,
+      "fontFamily": "DinkieIcons",
+      "identifier": "coolBoxFilled"
+    },
+    "copies": {
+      "codepoint": 57551,
+      "fontFamily": "DinkieIcons",
+      "identifier": "copies"
+    },
+    "copies-filled": {
+      "codepoint": 57552,
+      "fontFamily": "DinkieIcons",
+      "identifier": "copiesFilled"
+    },
+    "copies-small": {
+      "codepoint": 57553,
+      "fontFamily": "DinkieIcons",
+      "identifier": "copiesSmall"
+    },
+    "copies-small-filled": {
+      "codepoint": 57554,
+      "fontFamily": "DinkieIcons",
+      "identifier": "copiesSmallFilled"
+    },
+    "cow-face": {
+      "codepoint": 57555,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cowFace"
+    },
+    "crab": {
+      "codepoint": 57556,
+      "fontFamily": "DinkieIcons",
+      "identifier": "crab"
+    },
+    "crescent-moon": {
+      "codepoint": 57557,
+      "fontFamily": "DinkieIcons",
+      "identifier": "crescentMoon"
+    },
+    "crescent-moon-filled": {
+      "codepoint": 57558,
+      "fontFamily": "DinkieIcons",
+      "identifier": "crescentMoonFilled"
+    },
+    "crescent-moon-small": {
+      "codepoint": 57559,
+      "fontFamily": "DinkieIcons",
+      "identifier": "crescentMoonSmall"
+    },
+    "crescent-moon-small-filled": {
+      "codepoint": 57560,
+      "fontFamily": "DinkieIcons",
+      "identifier": "crescentMoonSmallFilled"
+    },
+    "crown": {
+      "codepoint": 57561,
+      "fontFamily": "DinkieIcons",
+      "identifier": "crown"
+    },
+    "cube": {
+      "codepoint": 57562,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cube"
+    },
+    "cube-small": {
+      "codepoint": 57563,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cubeSmall"
+    },
+    "cup-with-straw": {
+      "codepoint": 57564,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cupWithStraw"
+    },
+    "cup-with-straw-filled": {
+      "codepoint": 57565,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cupWithStrawFilled"
+    },
+    "cursing-face": {
+      "codepoint": 57566,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cursingFace"
+    },
+    "cursor-arrow": {
+      "codepoint": 57567,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cursorArrow"
+    },
+    "cursor-arrow-filled": {
+      "codepoint": 57568,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cursorArrowFilled"
+    },
+    "cursor-arrow-small": {
+      "codepoint": 57569,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cursorArrowSmall"
+    },
+    "cursor-arrow-small-filled": {
+      "codepoint": 57570,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cursorArrowSmallFilled"
+    },
+    "cursor-text": {
+      "codepoint": 57571,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cursorText"
+    },
+    "cursor-text-small": {
+      "codepoint": 57572,
+      "fontFamily": "DinkieIcons",
+      "identifier": "cursorTextSmall"
+    },
+    "dagger-knife": {
+      "codepoint": 57573,
+      "fontFamily": "DinkieIcons",
+      "identifier": "daggerKnife"
+    },
+    "dagger-knife-filled": {
+      "codepoint": 57574,
+      "fontFamily": "DinkieIcons",
+      "identifier": "daggerKnifeFilled"
+    },
+    "dagger-knife-small": {
+      "codepoint": 57575,
+      "fontFamily": "DinkieIcons",
+      "identifier": "daggerKnifeSmall"
+    },
+    "dark-sunglasses": {
+      "codepoint": 57576,
+      "fontFamily": "DinkieIcons",
+      "identifier": "darkSunglasses"
+    },
+    "deciduous-tree": {
+      "codepoint": 57577,
+      "fontFamily": "DinkieIcons",
+      "identifier": "deciduousTree"
+    },
+    "delivery-truck": {
+      "codepoint": 57578,
+      "fontFamily": "DinkieIcons",
+      "identifier": "deliveryTruck"
+    },
+    "delivery-truck-filled": {
+      "codepoint": 57579,
+      "fontFamily": "DinkieIcons",
+      "identifier": "deliveryTruckFilled"
+    },
+    "delivery-truck-small": {
+      "codepoint": 57580,
+      "fontFamily": "DinkieIcons",
+      "identifier": "deliveryTruckSmall"
+    },
+    "delivery-truck-small-filled": {
+      "codepoint": 57581,
+      "fontFamily": "DinkieIcons",
+      "identifier": "deliveryTruckSmallFilled"
+    },
+    "desert-island": {
+      "codepoint": 57582,
+      "fontFamily": "DinkieIcons",
+      "identifier": "desertIsland"
+    },
+    "desktop-computer": {
+      "codepoint": 57583,
+      "fontFamily": "DinkieIcons",
+      "identifier": "desktopComputer"
+    },
+    "desktop-computer-filled": {
+      "codepoint": 57584,
+      "fontFamily": "DinkieIcons",
+      "identifier": "desktopComputerFilled"
+    },
+    "desktop-computer-small": {
+      "codepoint": 57585,
+      "fontFamily": "DinkieIcons",
+      "identifier": "desktopComputerSmall"
+    },
+    "desktop-computer-small-filled": {
+      "codepoint": 57586,
+      "fontFamily": "DinkieIcons",
+      "identifier": "desktopComputerSmallFilled"
+    },
+    "device-rotate": {
+      "codepoint": 57587,
+      "fontFamily": "DinkieIcons",
+      "identifier": "deviceRotate"
+    },
+    "diagonal-cross": {
+      "codepoint": 57588,
+      "fontFamily": "DinkieIcons",
+      "identifier": "diagonalCross"
+    },
+    "diagonal-cross-small": {
+      "codepoint": 57589,
+      "fontFamily": "DinkieIcons",
+      "identifier": "diagonalCrossSmall"
+    },
+    "die-face1": {
+      "codepoint": 57590,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace1"
+    },
+    "die-face1-filled": {
+      "codepoint": 57591,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace1Filled"
+    },
+    "die-face1-small": {
+      "codepoint": 57592,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace1Small"
+    },
+    "die-face1-small-filled": {
+      "codepoint": 57593,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace1SmallFilled"
+    },
+    "die-face2": {
+      "codepoint": 57594,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace2"
+    },
+    "die-face2-filled": {
+      "codepoint": 57595,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace2Filled"
+    },
+    "die-face2-small": {
+      "codepoint": 57596,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace2Small"
+    },
+    "die-face2-small-filled": {
+      "codepoint": 57597,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace2SmallFilled"
+    },
+    "die-face3": {
+      "codepoint": 57598,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace3"
+    },
+    "die-face3-filled": {
+      "codepoint": 57599,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace3Filled"
+    },
+    "die-face3-small": {
+      "codepoint": 57600,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace3Small"
+    },
+    "die-face3-small-filled": {
+      "codepoint": 57601,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace3SmallFilled"
+    },
+    "die-face4": {
+      "codepoint": 57602,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace4"
+    },
+    "die-face4-filled": {
+      "codepoint": 57603,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace4Filled"
+    },
+    "die-face4-small": {
+      "codepoint": 57604,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace4Small"
+    },
+    "die-face4-small-filled": {
+      "codepoint": 57605,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace4SmallFilled"
+    },
+    "die-face5": {
+      "codepoint": 57606,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace5"
+    },
+    "die-face5-filled": {
+      "codepoint": 57607,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace5Filled"
+    },
+    "die-face5-small": {
+      "codepoint": 57608,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace5Small"
+    },
+    "die-face5-small-filled": {
+      "codepoint": 57609,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace5SmallFilled"
+    },
+    "die-face6": {
+      "codepoint": 57610,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace6"
+    },
+    "die-face6-filled": {
+      "codepoint": 57611,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace6Filled"
+    },
+    "die-face6-small": {
+      "codepoint": 57612,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace6Small"
+    },
+    "die-face6-small-filled": {
+      "codepoint": 57613,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dieFace6SmallFilled"
+    },
+    "directions-sign": {
+      "codepoint": 57614,
+      "fontFamily": "DinkieIcons",
+      "identifier": "directionsSign"
+    },
+    "display-dot-matrix": {
+      "codepoint": 57615,
+      "fontFamily": "DinkieIcons",
+      "identifier": "displayDotMatrix"
+    },
+    "display-dot-matrix-small": {
+      "codepoint": 57616,
+      "fontFamily": "DinkieIcons",
+      "identifier": "displayDotMatrixSmall"
+    },
+    "dizzy-face": {
+      "codepoint": 57617,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dizzyFace"
+    },
+    "dna-double-helix": {
+      "codepoint": 57618,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dnaDoubleHelix"
+    },
+    "dog-face": {
+      "codepoint": 57619,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dogFace"
+    },
+    "doge": {
+      "codepoint": 57620,
+      "fontFamily": "DinkieIcons",
+      "identifier": "doge"
+    },
+    "doge-small": {
+      "codepoint": 57621,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dogeSmall"
+    },
+    "double-vertical-bar": {
+      "codepoint": 57622,
+      "fontFamily": "DinkieIcons",
+      "identifier": "doubleVerticalBar"
+    },
+    "double-vertical-bar-filled": {
+      "codepoint": 57623,
+      "fontFamily": "DinkieIcons",
+      "identifier": "doubleVerticalBarFilled"
+    },
+    "download": {
+      "codepoint": 57624,
+      "fontFamily": "DinkieIcons",
+      "identifier": "download"
+    },
+    "download-small": {
+      "codepoint": 57625,
+      "fontFamily": "DinkieIcons",
+      "identifier": "downloadSmall"
+    },
+    "dragon-face": {
+      "codepoint": 57626,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dragonFace"
+    },
+    "dress": {
+      "codepoint": 57627,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dress"
+    },
+    "drop-of-blood": {
+      "codepoint": 57628,
+      "fontFamily": "DinkieIcons",
+      "identifier": "dropOfBlood"
+    },
+    "droplet": {
+      "codepoint": 57629,
+      "fontFamily": "DinkieIcons",
+      "identifier": "droplet"
+    },
+    "drum-with-drumsticks": {
+      "codepoint": 57630,
+      "fontFamily": "DinkieIcons",
+      "identifier": "drumWithDrumsticks"
+    },
+    "duplicate": {
+      "codepoint": 57631,
+      "fontFamily": "DinkieIcons",
+      "identifier": "duplicate"
+    },
+    "duplicate-filled": {
+      "codepoint": 57632,
+      "fontFamily": "DinkieIcons",
+      "identifier": "duplicateFilled"
+    },
+    "duplicate-small": {
+      "codepoint": 57633,
+      "fontFamily": "DinkieIcons",
+      "identifier": "duplicateSmall"
+    },
+    "duplicate-small-filled": {
+      "codepoint": 57634,
+      "fontFamily": "DinkieIcons",
+      "identifier": "duplicateSmallFilled"
+    },
+    "earth-globe-asia-australia": {
+      "codepoint": 57635,
+      "fontFamily": "DinkieIcons",
+      "identifier": "earthGlobeAsiaAustralia"
+    },
+    "east-wind-mahjong": {
+      "codepoint": 57636,
+      "fontFamily": "DinkieIcons",
+      "identifier": "eastWindMahjong"
+    },
+    "eight-of-bamboos-mahjong": {
+      "codepoint": 57637,
+      "fontFamily": "DinkieIcons",
+      "identifier": "eightOfBamboosMahjong"
+    },
+    "eight-of-bamboos-mahjong-filled": {
+      "codepoint": 57638,
+      "fontFamily": "DinkieIcons",
+      "identifier": "eightOfBamboosMahjongFilled"
+    },
+    "eight-of-characters-mahjong": {
+      "codepoint": 57639,
+      "fontFamily": "DinkieIcons",
+      "identifier": "eightOfCharactersMahjong"
+    },
+    "eight-of-circles-mahjong": {
+      "codepoint": 57640,
+      "fontFamily": "DinkieIcons",
+      "identifier": "eightOfCirclesMahjong"
+    },
+    "eight-of-circles-mahjong-filled": {
+      "codepoint": 57641,
+      "fontFamily": "DinkieIcons",
+      "identifier": "eightOfCirclesMahjongFilled"
+    },
+    "ejectsymbol": {
+      "codepoint": 57642,
+      "fontFamily": "DinkieIcons",
+      "identifier": "ejectsymbol"
+    },
+    "ejectsymbol-filled": {
+      "codepoint": 57643,
+      "fontFamily": "DinkieIcons",
+      "identifier": "ejectsymbolFilled"
+    },
+    "electric-light-bulb": {
+      "codepoint": 57644,
+      "fontFamily": "DinkieIcons",
+      "identifier": "electricLightBulb"
+    },
+    "electric-light-bulb-filled": {
+      "codepoint": 57645,
+      "fontFamily": "DinkieIcons",
+      "identifier": "electricLightBulbFilled"
+    },
+    "electric-light-bulb-small": {
+      "codepoint": 57646,
+      "fontFamily": "DinkieIcons",
+      "identifier": "electricLightBulbSmall"
+    },
+    "electric-light-bulb-small-filled": {
+      "codepoint": 57647,
+      "fontFamily": "DinkieIcons",
+      "identifier": "electricLightBulbSmallFilled"
+    },
+    "elephant": {
+      "codepoint": 57648,
+      "fontFamily": "DinkieIcons",
+      "identifier": "elephant"
+    },
+    "elevator": {
+      "codepoint": 57649,
+      "fontFamily": "DinkieIcons",
+      "identifier": "elevator"
+    },
+    "elevator-filled": {
+      "codepoint": 57650,
+      "fontFamily": "DinkieIcons",
+      "identifier": "elevatorFilled"
+    },
+    "elevator-small-filled": {
+      "codepoint": 57651,
+      "fontFamily": "DinkieIcons",
+      "identifier": "elevatorSmallFilled"
+    },
+    "entry": {
+      "codepoint": 57652,
+      "fontFamily": "DinkieIcons",
+      "identifier": "entry"
+    },
+    "envelope": {
+      "codepoint": 57653,
+      "fontFamily": "DinkieIcons",
+      "identifier": "envelope"
+    },
+    "envelope-filled": {
+      "codepoint": 57654,
+      "fontFamily": "DinkieIcons",
+      "identifier": "envelopeFilled"
+    },
+    "envelope-small": {
+      "codepoint": 57655,
+      "fontFamily": "DinkieIcons",
+      "identifier": "envelopeSmall"
+    },
+    "envelope-small-filled": {
+      "codepoint": 57656,
+      "fontFamily": "DinkieIcons",
+      "identifier": "envelopeSmallFilled"
+    },
+    "evergreen-tree": {
+      "codepoint": 57657,
+      "fontFamily": "DinkieIcons",
+      "identifier": "evergreenTree"
+    },
+    "exit": {
+      "codepoint": 57658,
+      "fontFamily": "DinkieIcons",
+      "identifier": "exit"
+    },
+    "expressionless-face": {
+      "codepoint": 57659,
+      "fontFamily": "DinkieIcons",
+      "identifier": "expressionlessFace"
+    },
+    "extraterrestrial-alien": {
+      "codepoint": 57660,
+      "fontFamily": "DinkieIcons",
+      "identifier": "extraterrestrialAlien"
+    },
+    "eye": {
+      "codepoint": 57661,
+      "fontFamily": "DinkieIcons",
+      "identifier": "eye"
+    },
+    "eye-small": {
+      "codepoint": 57662,
+      "fontFamily": "DinkieIcons",
+      "identifier": "eyeSmall"
+    },
+    "eyeglasses": {
+      "codepoint": 57663,
+      "fontFamily": "DinkieIcons",
+      "identifier": "eyeglasses"
+    },
+    "face-eating-melon": {
+      "codepoint": 57664,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceEatingMelon"
+    },
+    "face-savouring-delicious-food": {
+      "codepoint": 57665,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceSavouringDeliciousFood"
+    },
+    "face-screaming-in-fear": {
+      "codepoint": 57666,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceScreamingInFear"
+    },
+    "face-split": {
+      "codepoint": 57667,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceSplit"
+    },
+    "face-throwing-a-kiss": {
+      "codepoint": 57668,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceThrowingAKiss"
+    },
+    "face-with-cold-sweat": {
+      "codepoint": 57669,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceWithColdSweat"
+    },
+    "face-with-head-bandage": {
+      "codepoint": 57670,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceWithHeadBandage"
+    },
+    "face-with-medical-mask": {
+      "codepoint": 57671,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceWithMedicalMask"
+    },
+    "face-with-no-good-gesture": {
+      "codepoint": 57672,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceWithNoGoodGesture"
+    },
+    "face-with-ok-gesture": {
+      "codepoint": 57673,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceWithOkGesture"
+    },
+    "face-with-open-mouth-vomiting": {
+      "codepoint": 57674,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceWithOpenMouthVomiting"
+    },
+    "face-with-open-mouth-zerowidthjoiner-dash-symbol": {
+      "codepoint": 57675,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceWithOpenMouthZerowidthjoinerDashSymbol"
+    },
+    "face-with-party-horn-and-party-hat": {
+      "codepoint": 57676,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceWithPartyHornAndPartyHat"
+    },
+    "face-with-pleading-eyes": {
+      "codepoint": 57677,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceWithPleadingEyes"
+    },
+    "face-with-stuck-out-tongue-and-tightly-closed-eyes": {
+      "codepoint": 57678,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceWithStuckOutTongueAndTightlyClosedEyes"
+    },
+    "face-with-tears-of-joy": {
+      "codepoint": 57679,
+      "fontFamily": "DinkieIcons",
+      "identifier": "faceWithTearsOfJoy"
+    },
+    "facebook": {
+      "codepoint": 57680,
+      "fontFamily": "DinkieIcons",
+      "identifier": "facebook"
+    },
+    "facebook-alt": {
+      "codepoint": 57681,
+      "fontFamily": "DinkieIcons",
+      "identifier": "facebookAlt"
+    },
+    "facebook-alt-small": {
+      "codepoint": 57682,
+      "fontFamily": "DinkieIcons",
+      "identifier": "facebookAltSmall"
+    },
+    "facebook-small": {
+      "codepoint": 57683,
+      "fontFamily": "DinkieIcons",
+      "identifier": "facebookSmall"
+    },
+    "factory": {
+      "codepoint": 57684,
+      "fontFamily": "DinkieIcons",
+      "identifier": "factory_"
+    },
+    "factory-small": {
+      "codepoint": 57685,
+      "fontFamily": "DinkieIcons",
+      "identifier": "factorySmall"
+    },
+    "ferris-wheel": {
+      "codepoint": 57686,
+      "fontFamily": "DinkieIcons",
+      "identifier": "ferrisWheel"
+    },
+    "figma": {
+      "codepoint": 57687,
+      "fontFamily": "DinkieIcons",
+      "identifier": "figma"
+    },
+    "file-cabinet": {
+      "codepoint": 57688,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileCabinet"
+    },
+    "file-folder": {
+      "codepoint": 57689,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileFolder"
+    },
+    "file-folder-filled": {
+      "codepoint": 57690,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileFolderFilled"
+    },
+    "file-folder-small": {
+      "codepoint": 57691,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileFolderSmall"
+    },
+    "file-folder-small-filled": {
+      "codepoint": 57692,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileFolderSmallFilled"
+    },
+    "file-font": {
+      "codepoint": 57693,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileFont"
+    },
+    "file-font-filled": {
+      "codepoint": 57694,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileFontFilled"
+    },
+    "file-font-small-filled": {
+      "codepoint": 57695,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileFontSmallFilled"
+    },
+    "file-graphics": {
+      "codepoint": 57696,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileGraphics"
+    },
+    "file-graphics-filled": {
+      "codepoint": 57697,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileGraphicsFilled"
+    },
+    "file-graphics-small-filled": {
+      "codepoint": 57698,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileGraphicsSmallFilled"
+    },
+    "file-otf": {
+      "codepoint": 57699,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileOtf"
+    },
+    "file-otf-filled": {
+      "codepoint": 57700,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileOtfFilled"
+    },
+    "file-otf-small-filled": {
+      "codepoint": 57701,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileOtfSmallFilled"
+    },
+    "file-ttf": {
+      "codepoint": 57702,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileTtf"
+    },
+    "file-ttf-filled": {
+      "codepoint": 57703,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileTtfFilled"
+    },
+    "file-ttf-small-filled": {
+      "codepoint": 57704,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileTtfSmallFilled"
+    },
+    "file-vector": {
+      "codepoint": 57705,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileVector"
+    },
+    "file-vector-filled": {
+      "codepoint": 57706,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileVectorFilled"
+    },
+    "file-vector-small-filled": {
+      "codepoint": 57707,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileVectorSmallFilled"
+    },
+    "file-woff": {
+      "codepoint": 57708,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileWoff"
+    },
+    "file-woff-filled": {
+      "codepoint": 57709,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileWoffFilled"
+    },
+    "file-woff-small-filled": {
+      "codepoint": 57710,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileWoffSmallFilled"
+    },
+    "file-woff2": {
+      "codepoint": 57711,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileWoff2"
+    },
+    "file-woff2-filled": {
+      "codepoint": 57712,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileWoff2Filled"
+    },
+    "file-woff2-small-filled": {
+      "codepoint": 57713,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fileWoff2SmallFilled"
+    },
+    "film-frames": {
+      "codepoint": 57714,
+      "fontFamily": "DinkieIcons",
+      "identifier": "filmFrames"
+    },
+    "film-frames-small": {
+      "codepoint": 57715,
+      "fontFamily": "DinkieIcons",
+      "identifier": "filmFramesSmall"
+    },
+    "filter": {
+      "codepoint": 57716,
+      "fontFamily": "DinkieIcons",
+      "identifier": "filter"
+    },
+    "filter-small": {
+      "codepoint": 57717,
+      "fontFamily": "DinkieIcons",
+      "identifier": "filterSmall"
+    },
+    "finder": {
+      "codepoint": 57718,
+      "fontFamily": "DinkieIcons",
+      "identifier": "finder"
+    },
+    "finder-small": {
+      "codepoint": 57719,
+      "fontFamily": "DinkieIcons",
+      "identifier": "finderSmall"
+    },
+    "fire": {
+      "codepoint": 57720,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fire"
+    },
+    "fire-small": {
+      "codepoint": 57721,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fireSmall"
+    },
+    "first-quarter-moon-symbol": {
+      "codepoint": 57722,
+      "fontFamily": "DinkieIcons",
+      "identifier": "firstQuarterMoonSymbol"
+    },
+    "fish": {
+      "codepoint": 57723,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fish"
+    },
+    "fist-palm-salute": {
+      "codepoint": 57724,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fistPalmSalute"
+    },
+    "fisted-hand-sign": {
+      "codepoint": 57725,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fistedHandSign"
+    },
+    "five-of-bamboos-mahjong": {
+      "codepoint": 57726,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fiveOfBamboosMahjong"
+    },
+    "five-of-bamboos-mahjong-filled": {
+      "codepoint": 57727,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fiveOfBamboosMahjongFilled"
+    },
+    "five-of-characters-mahjong": {
+      "codepoint": 57728,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fiveOfCharactersMahjong"
+    },
+    "five-of-circles-mahjong": {
+      "codepoint": 57729,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fiveOfCirclesMahjong"
+    },
+    "five-of-circles-mahjong-filled": {
+      "codepoint": 57730,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fiveOfCirclesMahjongFilled"
+    },
+    "flask": {
+      "codepoint": 57731,
+      "fontFamily": "DinkieIcons",
+      "identifier": "flask"
+    },
+    "flask-filled": {
+      "codepoint": 57732,
+      "fontFamily": "DinkieIcons",
+      "identifier": "flaskFilled"
+    },
+    "floppy-disk": {
+      "codepoint": 57733,
+      "fontFamily": "DinkieIcons",
+      "identifier": "floppyDisk"
+    },
+    "floppy-disk-filled": {
+      "codepoint": 57734,
+      "fontFamily": "DinkieIcons",
+      "identifier": "floppyDiskFilled"
+    },
+    "floppy-disk-small": {
+      "codepoint": 57735,
+      "fontFamily": "DinkieIcons",
+      "identifier": "floppyDiskSmall"
+    },
+    "floppy-disk-small-filled": {
+      "codepoint": 57736,
+      "fontFamily": "DinkieIcons",
+      "identifier": "floppyDiskSmallFilled"
+    },
+    "flying-saucer": {
+      "codepoint": 57737,
+      "fontFamily": "DinkieIcons",
+      "identifier": "flyingSaucer"
+    },
+    "fork": {
+      "codepoint": 57738,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fork"
+    },
+    "fork-and-knife": {
+      "codepoint": 57739,
+      "fontFamily": "DinkieIcons",
+      "identifier": "forkAndKnife"
+    },
+    "four-leaf-clover": {
+      "codepoint": 57740,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fourLeafClover"
+    },
+    "four-of-bamboos-mahjong": {
+      "codepoint": 57741,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fourOfBamboosMahjong"
+    },
+    "four-of-bamboos-mahjong-filled": {
+      "codepoint": 57742,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fourOfBamboosMahjongFilled"
+    },
+    "four-of-characters-mahjong": {
+      "codepoint": 57743,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fourOfCharactersMahjong"
+    },
+    "four-of-circles-mahjong": {
+      "codepoint": 57744,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fourOfCirclesMahjong"
+    },
+    "four-of-circles-mahjong-filled": {
+      "codepoint": 57745,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fourOfCirclesMahjongFilled"
+    },
+    "fox-face": {
+      "codepoint": 57746,
+      "fontFamily": "DinkieIcons",
+      "identifier": "foxFace"
+    },
+    "frog-face": {
+      "codepoint": 57747,
+      "fontFamily": "DinkieIcons",
+      "identifier": "frogFace"
+    },
+    "full-moon-symbol": {
+      "codepoint": 57748,
+      "fontFamily": "DinkieIcons",
+      "identifier": "fullMoonSymbol"
+    },
+    "game-die": {
+      "codepoint": 57749,
+      "fontFamily": "DinkieIcons",
+      "identifier": "gameDie"
+    },
+    "game-die-small": {
+      "codepoint": 57750,
+      "fontFamily": "DinkieIcons",
+      "identifier": "gameDieSmall"
+    },
+    "gear": {
+      "codepoint": 57751,
+      "fontFamily": "DinkieIcons",
+      "identifier": "gear"
+    },
+    "gear-filled": {
+      "codepoint": 57752,
+      "fontFamily": "DinkieIcons",
+      "identifier": "gearFilled"
+    },
+    "gem-stone": {
+      "codepoint": 57753,
+      "fontFamily": "DinkieIcons",
+      "identifier": "gemStone"
+    },
+    "ghost": {
+      "codepoint": 57754,
+      "fontFamily": "DinkieIcons",
+      "identifier": "ghost"
+    },
+    "girl": {
+      "codepoint": 57755,
+      "fontFamily": "DinkieIcons",
+      "identifier": "girl"
+    },
+    "girl-filled": {
+      "codepoint": 57756,
+      "fontFamily": "DinkieIcons",
+      "identifier": "girlFilled"
+    },
+    "girl-small": {
+      "codepoint": 57757,
+      "fontFamily": "DinkieIcons",
+      "identifier": "girlSmall"
+    },
+    "girl-small-filled": {
+      "codepoint": 57758,
+      "fontFamily": "DinkieIcons",
+      "identifier": "girlSmallFilled"
+    },
+    "github": {
+      "codepoint": 57759,
+      "fontFamily": "DinkieIcons",
+      "identifier": "github"
+    },
+    "github-small": {
+      "codepoint": 57760,
+      "fontFamily": "DinkieIcons",
+      "identifier": "githubSmall"
+    },
+    "globe-meridians": {
+      "codepoint": 57761,
+      "fontFamily": "DinkieIcons",
+      "identifier": "globeMeridians"
+    },
+    "globe-meridians-small": {
+      "codepoint": 57762,
+      "fontFamily": "DinkieIcons",
+      "identifier": "globeMeridiansSmall"
+    },
+    "glowing-star": {
+      "codepoint": 57763,
+      "fontFamily": "DinkieIcons",
+      "identifier": "glowingStar"
+    },
+    "glyphs": {
+      "codepoint": 57764,
+      "fontFamily": "DinkieIcons",
+      "identifier": "glyphs"
+    },
+    "glyphs-filled": {
+      "codepoint": 57765,
+      "fontFamily": "DinkieIcons",
+      "identifier": "glyphsFilled"
+    },
+    "graduation-cap": {
+      "codepoint": 57766,
+      "fontFamily": "DinkieIcons",
+      "identifier": "graduationCap"
+    },
+    "grapes": {
+      "codepoint": 57767,
+      "fontFamily": "DinkieIcons",
+      "identifier": "grapes"
+    },
+    "grass-cao-symbol": {
+      "codepoint": 57768,
+      "fontFamily": "DinkieIcons",
+      "identifier": "grassCaoSymbol"
+    },
+    "green-dragon-mahjong": {
+      "codepoint": 57769,
+      "fontFamily": "DinkieIcons",
+      "identifier": "greenDragonMahjong"
+    },
+    "grid": {
+      "codepoint": 57770,
+      "fontFamily": "DinkieIcons",
+      "identifier": "grid"
+    },
+    "grid-disabled": {
+      "codepoint": 57771,
+      "fontFamily": "DinkieIcons",
+      "identifier": "gridDisabled"
+    },
+    "grid-enabled": {
+      "codepoint": 57772,
+      "fontFamily": "DinkieIcons",
+      "identifier": "gridEnabled"
+    },
+    "grid-small": {
+      "codepoint": 57773,
+      "fontFamily": "DinkieIcons",
+      "identifier": "gridSmall"
+    },
+    "grinning-face-with-star-eyes": {
+      "codepoint": 57774,
+      "fontFamily": "DinkieIcons",
+      "identifier": "grinningFaceWithStarEyes"
+    },
+    "grinningfacewithonelargeandoneeye": {
+      "codepoint": 57775,
+      "fontFamily": "DinkieIcons",
+      "identifier": "grinningfacewithonelargeandoneeye"
+    },
+    "guitar": {
+      "codepoint": 57776,
+      "fontFamily": "DinkieIcons",
+      "identifier": "guitar"
+    },
+    "gyroscope": {
+      "codepoint": 57777,
+      "fontFamily": "DinkieIcons",
+      "identifier": "gyroscope"
+    },
+    "hamburger": {
+      "codepoint": 57778,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hamburger"
+    },
+    "hamburger-small": {
+      "codepoint": 57779,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hamburgerSmall"
+    },
+    "hammer": {
+      "codepoint": 57780,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hammer"
+    },
+    "hammer-filled": {
+      "codepoint": 57781,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hammerFilled"
+    },
+    "handshake": {
+      "codepoint": 57782,
+      "fontFamily": "DinkieIcons",
+      "identifier": "handshake"
+    },
+    "happy-person-raising-one-hand": {
+      "codepoint": 57783,
+      "fontFamily": "DinkieIcons",
+      "identifier": "happyPersonRaisingOneHand"
+    },
+    "hashtag": {
+      "codepoint": 57784,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hashtag"
+    },
+    "hashtag-small": {
+      "codepoint": 57785,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hashtagSmall"
+    },
+    "headphone": {
+      "codepoint": 57786,
+      "fontFamily": "DinkieIcons",
+      "identifier": "headphone"
+    },
+    "headphone-filled": {
+      "codepoint": 57787,
+      "fontFamily": "DinkieIcons",
+      "identifier": "headphoneFilled"
+    },
+    "heart-black-suit": {
+      "codepoint": 57788,
+      "fontFamily": "DinkieIcons",
+      "identifier": "heartBlackSuit"
+    },
+    "heart-black-suit-circled": {
+      "codepoint": 57789,
+      "fontFamily": "DinkieIcons",
+      "identifier": "heartBlackSuitCircled"
+    },
+    "heart-black-suit-circled-small": {
+      "codepoint": 57790,
+      "fontFamily": "DinkieIcons",
+      "identifier": "heartBlackSuitCircledSmall"
+    },
+    "heart-black-suit-small": {
+      "codepoint": 57791,
+      "fontFamily": "DinkieIcons",
+      "identifier": "heartBlackSuitSmall"
+    },
+    "heart-white-suit": {
+      "codepoint": 57792,
+      "fontFamily": "DinkieIcons",
+      "identifier": "heartWhiteSuit"
+    },
+    "heart-white-suit-circled": {
+      "codepoint": 57793,
+      "fontFamily": "DinkieIcons",
+      "identifier": "heartWhiteSuitCircled"
+    },
+    "heart-white-suit-circled-filled": {
+      "codepoint": 57794,
+      "fontFamily": "DinkieIcons",
+      "identifier": "heartWhiteSuitCircledFilled"
+    },
+    "heart-white-suit-circled-small": {
+      "codepoint": 57795,
+      "fontFamily": "DinkieIcons",
+      "identifier": "heartWhiteSuitCircledSmall"
+    },
+    "heart-white-suit-circled-small-filled": {
+      "codepoint": 57796,
+      "fontFamily": "DinkieIcons",
+      "identifier": "heartWhiteSuitCircledSmallFilled"
+    },
+    "heart-white-suit-small": {
+      "codepoint": 57797,
+      "fontFamily": "DinkieIcons",
+      "identifier": "heartWhiteSuitSmall"
+    },
+    "heavy-dollar-sign": {
+      "codepoint": 57798,
+      "fontFamily": "DinkieIcons",
+      "identifier": "heavyDollarSign"
+    },
+    "heavy-dollar-sign-small": {
+      "codepoint": 57799,
+      "fontFamily": "DinkieIcons",
+      "identifier": "heavyDollarSignSmall"
+    },
+    "helicopter": {
+      "codepoint": 57800,
+      "fontFamily": "DinkieIcons",
+      "identifier": "helicopter"
+    },
+    "herb": {
+      "codepoint": 57801,
+      "fontFamily": "DinkieIcons",
+      "identifier": "herb"
+    },
+    "hibiscus": {
+      "codepoint": 57802,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hibiscus"
+    },
+    "high-heeled-shoe": {
+      "codepoint": 57803,
+      "fontFamily": "DinkieIcons",
+      "identifier": "highHeeledShoe"
+    },
+    "high-speed-train": {
+      "codepoint": 57804,
+      "fontFamily": "DinkieIcons",
+      "identifier": "highSpeedTrain"
+    },
+    "high-voltage-sign": {
+      "codepoint": 57805,
+      "fontFamily": "DinkieIcons",
+      "identifier": "highVoltageSign"
+    },
+    "hocho": {
+      "codepoint": 57806,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hocho"
+    },
+    "hocho-filled": {
+      "codepoint": 57807,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hochoFilled"
+    },
+    "hocho-small": {
+      "codepoint": 57808,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hochoSmall"
+    },
+    "hocho-small-filled": {
+      "codepoint": 57809,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hochoSmallFilled"
+    },
+    "hook": {
+      "codepoint": 57810,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hook"
+    },
+    "horse-face": {
+      "codepoint": 57811,
+      "fontFamily": "DinkieIcons",
+      "identifier": "horseFace"
+    },
+    "hot-beverage": {
+      "codepoint": 57812,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hotBeverage"
+    },
+    "hourglass": {
+      "codepoint": 57813,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hourglass"
+    },
+    "hourglass-with-flowing-sand": {
+      "codepoint": 57814,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hourglassWithFlowingSand"
+    },
+    "house-building": {
+      "codepoint": 57815,
+      "fontFamily": "DinkieIcons",
+      "identifier": "houseBuilding"
+    },
+    "house-building-small": {
+      "codepoint": 57816,
+      "fontFamily": "DinkieIcons",
+      "identifier": "houseBuildingSmall"
+    },
+    "house-buildings": {
+      "codepoint": 57817,
+      "fontFamily": "DinkieIcons",
+      "identifier": "houseBuildings"
+    },
+    "house-buildings-small": {
+      "codepoint": 57818,
+      "fontFamily": "DinkieIcons",
+      "identifier": "houseBuildingsSmall"
+    },
+    "hundred-points-symbol": {
+      "codepoint": 57819,
+      "fontFamily": "DinkieIcons",
+      "identifier": "hundredPointsSymbol"
+    },
+    "information-desk-person": {
+      "codepoint": 57820,
+      "fontFamily": "DinkieIcons",
+      "identifier": "informationDeskPerson"
+    },
+    "informationsource": {
+      "codepoint": 57821,
+      "fontFamily": "DinkieIcons",
+      "identifier": "informationsource"
+    },
+    "informationsource-filled": {
+      "codepoint": 57822,
+      "fontFamily": "DinkieIcons",
+      "identifier": "informationsourceFilled"
+    },
+    "informationsource-small": {
+      "codepoint": 57823,
+      "fontFamily": "DinkieIcons",
+      "identifier": "informationsourceSmall"
+    },
+    "informationsource-small-filled": {
+      "codepoint": 57824,
+      "fontFamily": "DinkieIcons",
+      "identifier": "informationsourceSmallFilled"
+    },
+    "input-latin-capital-letters": {
+      "codepoint": 57825,
+      "fontFamily": "DinkieIcons",
+      "identifier": "inputLatinCapitalLetters"
+    },
+    "input-latin-capital-letters-filled": {
+      "codepoint": 57826,
+      "fontFamily": "DinkieIcons",
+      "identifier": "inputLatinCapitalLettersFilled"
+    },
+    "input-latin-lower-letters": {
+      "codepoint": 57827,
+      "fontFamily": "DinkieIcons",
+      "identifier": "inputLatinLowerLetters"
+    },
+    "input-latin-lower-letters-filled": {
+      "codepoint": 57828,
+      "fontFamily": "DinkieIcons",
+      "identifier": "inputLatinLowerLettersFilled"
+    },
+    "input-numbers": {
+      "codepoint": 57829,
+      "fontFamily": "DinkieIcons",
+      "identifier": "inputNumbers"
+    },
+    "input-numbers-filled": {
+      "codepoint": 57830,
+      "fontFamily": "DinkieIcons",
+      "identifier": "inputNumbersFilled"
+    },
+    "instagram": {
+      "codepoint": 57831,
+      "fontFamily": "DinkieIcons",
+      "identifier": "instagram"
+    },
+    "instagram-small": {
+      "codepoint": 57832,
+      "fontFamily": "DinkieIcons",
+      "identifier": "instagramSmall"
+    },
+    "invert": {
+      "codepoint": 57833,
+      "fontFamily": "DinkieIcons",
+      "identifier": "invert"
+    },
+    "invert-small": {
+      "codepoint": 57834,
+      "fontFamily": "DinkieIcons",
+      "identifier": "invertSmall"
+    },
+    "java-sparrow-silver": {
+      "codepoint": 57835,
+      "fontFamily": "DinkieIcons",
+      "identifier": "javaSparrowSilver"
+    },
+    "java-sparrow-white": {
+      "codepoint": 57836,
+      "fontFamily": "DinkieIcons",
+      "identifier": "javaSparrowWhite"
+    },
+    "jeans": {
+      "codepoint": 57837,
+      "fontFamily": "DinkieIcons",
+      "identifier": "jeans"
+    },
+    "jigsaw-puzzle": {
+      "codepoint": 57838,
+      "fontFamily": "DinkieIcons",
+      "identifier": "jigsawPuzzle"
+    },
+    "jigsaw-puzzle-piece": {
+      "codepoint": 57839,
+      "fontFamily": "DinkieIcons",
+      "identifier": "jigsawPuzzlePiece"
+    },
+    "jigsaw-puzzle-piece-small": {
+      "codepoint": 57840,
+      "fontFamily": "DinkieIcons",
+      "identifier": "jigsawPuzzlePieceSmall"
+    },
+    "joker-mahjong": {
+      "codepoint": 57841,
+      "fontFamily": "DinkieIcons",
+      "identifier": "jokerMahjong"
+    },
+    "joystick": {
+      "codepoint": 57842,
+      "fontFamily": "DinkieIcons",
+      "identifier": "joystick"
+    },
+    "keyboard": {
+      "codepoint": 57843,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keyboard"
+    },
+    "keyboard-filled": {
+      "codepoint": 57844,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keyboardFilled"
+    },
+    "keyboard-small-filled": {
+      "codepoint": 57845,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keyboardSmallFilled"
+    },
+    "keycap-asterisk": {
+      "codepoint": 57846,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapAsterisk"
+    },
+    "keycap-asterisk-filled": {
+      "codepoint": 57847,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapAsteriskFilled"
+    },
+    "keycap-asterisk-small": {
+      "codepoint": 57848,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapAsteriskSmall"
+    },
+    "keycap-asterisk-small-filled": {
+      "codepoint": 57849,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapAsteriskSmallFilled"
+    },
+    "keycap-command": {
+      "codepoint": 57850,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapCommand"
+    },
+    "keycap-command-filled": {
+      "codepoint": 57851,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapCommandFilled"
+    },
+    "keycap-command-small": {
+      "codepoint": 57852,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapCommandSmall"
+    },
+    "keycap-command-small-filled": {
+      "codepoint": 57853,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapCommandSmallFilled"
+    },
+    "keycap-control": {
+      "codepoint": 57854,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapControl"
+    },
+    "keycap-control-filled": {
+      "codepoint": 57855,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapControlFilled"
+    },
+    "keycap-control-small": {
+      "codepoint": 57856,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapControlSmall"
+    },
+    "keycap-control-small-filled": {
+      "codepoint": 57857,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapControlSmallFilled"
+    },
+    "keycap-digit-eight": {
+      "codepoint": 57858,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitEight"
+    },
+    "keycap-digit-eight-filled": {
+      "codepoint": 57859,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitEightFilled"
+    },
+    "keycap-digit-eight-small": {
+      "codepoint": 57860,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitEightSmall"
+    },
+    "keycap-digit-eight-small-filled": {
+      "codepoint": 57861,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitEightSmallFilled"
+    },
+    "keycap-digit-five": {
+      "codepoint": 57862,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitFive"
+    },
+    "keycap-digit-five-filled": {
+      "codepoint": 57863,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitFiveFilled"
+    },
+    "keycap-digit-five-small": {
+      "codepoint": 57864,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitFiveSmall"
+    },
+    "keycap-digit-five-small-filled": {
+      "codepoint": 57865,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitFiveSmallFilled"
+    },
+    "keycap-digit-four": {
+      "codepoint": 57866,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitFour"
+    },
+    "keycap-digit-four-filled": {
+      "codepoint": 57867,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitFourFilled"
+    },
+    "keycap-digit-four-small": {
+      "codepoint": 57868,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitFourSmall"
+    },
+    "keycap-digit-four-small-filled": {
+      "codepoint": 57869,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitFourSmallFilled"
+    },
+    "keycap-digit-nine": {
+      "codepoint": 57870,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitNine"
+    },
+    "keycap-digit-nine-filled": {
+      "codepoint": 57871,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitNineFilled"
+    },
+    "keycap-digit-nine-small": {
+      "codepoint": 57872,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitNineSmall"
+    },
+    "keycap-digit-nine-small-filled": {
+      "codepoint": 57873,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitNineSmallFilled"
+    },
+    "keycap-digit-one": {
+      "codepoint": 57874,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitOne"
+    },
+    "keycap-digit-one-filled": {
+      "codepoint": 57875,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitOneFilled"
+    },
+    "keycap-digit-one-small": {
+      "codepoint": 57876,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitOneSmall"
+    },
+    "keycap-digit-one-small-filled": {
+      "codepoint": 57877,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitOneSmallFilled"
+    },
+    "keycap-digit-seven": {
+      "codepoint": 57878,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitSeven"
+    },
+    "keycap-digit-seven-filled": {
+      "codepoint": 57879,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitSevenFilled"
+    },
+    "keycap-digit-seven-small": {
+      "codepoint": 57880,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitSevenSmall"
+    },
+    "keycap-digit-seven-small-filled": {
+      "codepoint": 57881,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitSevenSmallFilled"
+    },
+    "keycap-digit-six": {
+      "codepoint": 57882,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitSix"
+    },
+    "keycap-digit-six-filled": {
+      "codepoint": 57883,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitSixFilled"
+    },
+    "keycap-digit-six-small": {
+      "codepoint": 57884,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitSixSmall"
+    },
+    "keycap-digit-six-small-filled": {
+      "codepoint": 57885,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitSixSmallFilled"
+    },
+    "keycap-digit-three": {
+      "codepoint": 57886,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitThree"
+    },
+    "keycap-digit-three-filled": {
+      "codepoint": 57887,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitThreeFilled"
+    },
+    "keycap-digit-three-small": {
+      "codepoint": 57888,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitThreeSmall"
+    },
+    "keycap-digit-three-small-filled": {
+      "codepoint": 57889,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitThreeSmallFilled"
+    },
+    "keycap-digit-two": {
+      "codepoint": 57890,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitTwo"
+    },
+    "keycap-digit-two-filled": {
+      "codepoint": 57891,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitTwoFilled"
+    },
+    "keycap-digit-two-small": {
+      "codepoint": 57892,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitTwoSmall"
+    },
+    "keycap-digit-two-small-filled": {
+      "codepoint": 57893,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitTwoSmallFilled"
+    },
+    "keycap-digit-zero": {
+      "codepoint": 57894,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitZero"
+    },
+    "keycap-digit-zero-filled": {
+      "codepoint": 57895,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitZeroFilled"
+    },
+    "keycap-digit-zero-small": {
+      "codepoint": 57896,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitZeroSmall"
+    },
+    "keycap-digit-zero-small-filled": {
+      "codepoint": 57897,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapDigitZeroSmallFilled"
+    },
+    "keycap-eleven": {
+      "codepoint": 57898,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapEleven"
+    },
+    "keycap-eleven-filled": {
+      "codepoint": 57899,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapElevenFilled"
+    },
+    "keycap-eleven-small": {
+      "codepoint": 57900,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapElevenSmall"
+    },
+    "keycap-eleven-small-filled": {
+      "codepoint": 57901,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapElevenSmallFilled"
+    },
+    "keycap-fn": {
+      "codepoint": 57902,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapFn"
+    },
+    "keycap-fn-filled": {
+      "codepoint": 57903,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapFnFilled"
+    },
+    "keycap-fn-small": {
+      "codepoint": 57904,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapFnSmall"
+    },
+    "keycap-fn-small-filled": {
+      "codepoint": 57905,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapFnSmallFilled"
+    },
+    "keycap-number-sign": {
+      "codepoint": 57906,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapNumberSign"
+    },
+    "keycap-number-sign-filled": {
+      "codepoint": 57907,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapNumberSignFilled"
+    },
+    "keycap-number-sign-small": {
+      "codepoint": 57908,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapNumberSignSmall"
+    },
+    "keycap-number-sign-small-filled": {
+      "codepoint": 57909,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapNumberSignSmallFilled"
+    },
+    "keycap-option": {
+      "codepoint": 57910,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapOption"
+    },
+    "keycap-option-filled": {
+      "codepoint": 57911,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapOptionFilled"
+    },
+    "keycap-option-small": {
+      "codepoint": 57912,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapOptionSmall"
+    },
+    "keycap-option-small-filled": {
+      "codepoint": 57913,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapOptionSmallFilled"
+    },
+    "keycap-return": {
+      "codepoint": 57914,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapReturn"
+    },
+    "keycap-return-filled": {
+      "codepoint": 57915,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapReturnFilled"
+    },
+    "keycap-return-small": {
+      "codepoint": 57916,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapReturnSmall"
+    },
+    "keycap-return-small-filled": {
+      "codepoint": 57917,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapReturnSmallFilled"
+    },
+    "keycap-shift": {
+      "codepoint": 57918,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapShift"
+    },
+    "keycap-shift-filled": {
+      "codepoint": 57919,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapShiftFilled"
+    },
+    "keycap-shift-small": {
+      "codepoint": 57920,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapShiftSmall"
+    },
+    "keycap-shift-small-filled": {
+      "codepoint": 57921,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapShiftSmallFilled"
+    },
+    "keycap-tab": {
+      "codepoint": 57922,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapTab"
+    },
+    "keycap-tab-filled": {
+      "codepoint": 57923,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapTabFilled"
+    },
+    "keycap-tab-small": {
+      "codepoint": 57924,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapTabSmall"
+    },
+    "keycap-tab-small-filled": {
+      "codepoint": 57925,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapTabSmallFilled"
+    },
+    "keycap-ten": {
+      "codepoint": 57926,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapTen"
+    },
+    "keycap-ten-filled": {
+      "codepoint": 57927,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapTenFilled"
+    },
+    "keycap-ten-small": {
+      "codepoint": 57928,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapTenSmall"
+    },
+    "keycap-ten-small-filled": {
+      "codepoint": 57929,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapTenSmallFilled"
+    },
+    "keycap-windows": {
+      "codepoint": 57930,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapWindows"
+    },
+    "keycap-windows-filled": {
+      "codepoint": 57931,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapWindowsFilled"
+    },
+    "keycap-windows-small": {
+      "codepoint": 57932,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapWindowsSmall"
+    },
+    "keycap-windows-small-filled": {
+      "codepoint": 57933,
+      "fontFamily": "DinkieIcons",
+      "identifier": "keycapWindowsSmallFilled"
+    },
+    "kite": {
+      "codepoint": 57934,
+      "fontFamily": "DinkieIcons",
+      "identifier": "kite"
+    },
+    "ko-ko-kata-box": {
+      "codepoint": 57935,
+      "fontFamily": "DinkieIcons",
+      "identifier": "koKoKataBox"
+    },
+    "ko-ko-kata-box-filled": {
+      "codepoint": 57936,
+      "fontFamily": "DinkieIcons",
+      "identifier": "koKoKataBoxFilled"
+    },
+    "label": {
+      "codepoint": 57937,
+      "fontFamily": "DinkieIcons",
+      "identifier": "label"
+    },
+    "label-filled": {
+      "codepoint": 57938,
+      "fontFamily": "DinkieIcons",
+      "identifier": "labelFilled"
+    },
+    "label-small": {
+      "codepoint": 57939,
+      "fontFamily": "DinkieIcons",
+      "identifier": "labelSmall"
+    },
+    "label-small-filled": {
+      "codepoint": 57940,
+      "fontFamily": "DinkieIcons",
+      "identifier": "labelSmallFilled"
+    },
+    "language-cyrillic": {
+      "codepoint": 57941,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageCyrillic"
+    },
+    "language-cyrillic-filled": {
+      "codepoint": 57942,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageCyrillicFilled"
+    },
+    "language-cyrillic-small": {
+      "codepoint": 57943,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageCyrillicSmall"
+    },
+    "language-cyrillic-small-filled": {
+      "codepoint": 57944,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageCyrillicSmallFilled"
+    },
+    "language-greek": {
+      "codepoint": 57945,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageGreek"
+    },
+    "language-greek-filled": {
+      "codepoint": 57946,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageGreekFilled"
+    },
+    "language-greek-small": {
+      "codepoint": 57947,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageGreekSmall"
+    },
+    "language-greek-small-filled": {
+      "codepoint": 57948,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageGreekSmallFilled"
+    },
+    "language-han": {
+      "codepoint": 57949,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHan"
+    },
+    "language-han-filled": {
+      "codepoint": 57950,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHanFilled"
+    },
+    "language-han-small": {
+      "codepoint": 57951,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHanSmall"
+    },
+    "language-han-small-filled": {
+      "codepoint": 57952,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHanSmallFilled"
+    },
+    "language-hangul": {
+      "codepoint": 57953,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHangul"
+    },
+    "language-hangul-filled": {
+      "codepoint": 57954,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHangulFilled"
+    },
+    "language-hangul-small": {
+      "codepoint": 57955,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHangulSmall"
+    },
+    "language-hangul-small-filled": {
+      "codepoint": 57956,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHangulSmallFilled"
+    },
+    "language-hebrew": {
+      "codepoint": 57957,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHebrew"
+    },
+    "language-hebrew-filled": {
+      "codepoint": 57958,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHebrewFilled"
+    },
+    "language-hebrew-small": {
+      "codepoint": 57959,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHebrewSmall"
+    },
+    "language-hebrew-small-filled": {
+      "codepoint": 57960,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHebrewSmallFilled"
+    },
+    "language-hira": {
+      "codepoint": 57961,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHira"
+    },
+    "language-hira-filled": {
+      "codepoint": 57962,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHiraFilled"
+    },
+    "language-hira-small": {
+      "codepoint": 57963,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHiraSmall"
+    },
+    "language-hira-small-filled": {
+      "codepoint": 57964,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageHiraSmallFilled"
+    },
+    "language-latin": {
+      "codepoint": 57965,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageLatin"
+    },
+    "language-latin-filled": {
+      "codepoint": 57966,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageLatinFilled"
+    },
+    "language-latin-small": {
+      "codepoint": 57967,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageLatinSmall"
+    },
+    "language-latin-small-filled": {
+      "codepoint": 57968,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageLatinSmallFilled"
+    },
+    "language-thai": {
+      "codepoint": 57969,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageThai"
+    },
+    "language-thai-filled": {
+      "codepoint": 57970,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageThaiFilled"
+    },
+    "language-thai-small": {
+      "codepoint": 57971,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageThaiSmall"
+    },
+    "language-thai-small-filled": {
+      "codepoint": 57972,
+      "fontFamily": "DinkieIcons",
+      "identifier": "languageThaiSmallFilled"
+    },
+    "large-question-face": {
+      "codepoint": 57973,
+      "fontFamily": "DinkieIcons",
+      "identifier": "largeQuestionFace"
+    },
+    "last-quarter-moon-symbol": {
+      "codepoint": 57974,
+      "fontFamily": "DinkieIcons",
+      "identifier": "lastQuarterMoonSymbol"
+    },
+    "leafy-green": {
+      "codepoint": 57975,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leafyGreen"
+    },
+    "left-arrow-circled": {
+      "codepoint": 57976,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leftArrowCircled"
+    },
+    "left-arrow-circled-filled": {
+      "codepoint": 57977,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leftArrowCircledFilled"
+    },
+    "left-arrow-circled-small": {
+      "codepoint": 57978,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leftArrowCircledSmall"
+    },
+    "left-arrow-circled-small-filled": {
+      "codepoint": 57979,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leftArrowCircledSmallFilled"
+    },
+    "left-hook-arrow": {
+      "codepoint": 57980,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leftHookArrow"
+    },
+    "left-hook-arrow-filled": {
+      "codepoint": 57981,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leftHookArrowFilled"
+    },
+    "left-hook-arrow-small": {
+      "codepoint": 57982,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leftHookArrowSmall"
+    },
+    "left-hook-arrow-small-filled": {
+      "codepoint": 57983,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leftHookArrowSmallFilled"
+    },
+    "left-magnifying-glass": {
+      "codepoint": 57984,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leftMagnifyingGlass"
+    },
+    "left-magnifying-glass-filled": {
+      "codepoint": 57985,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leftMagnifyingGlassFilled"
+    },
+    "left-magnifying-glass-small": {
+      "codepoint": 57986,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leftMagnifyingGlassSmall"
+    },
+    "left-magnifying-glass-small-filled": {
+      "codepoint": 57987,
+      "fontFamily": "DinkieIcons",
+      "identifier": "leftMagnifyingGlassSmallFilled"
+    },
+    "lemon": {
+      "codepoint": 57988,
+      "fontFamily": "DinkieIcons",
+      "identifier": "lemon"
+    },
+    "light-rail": {
+      "codepoint": 57989,
+      "fontFamily": "DinkieIcons",
+      "identifier": "lightRail"
+    },
+    "line-gap": {
+      "codepoint": 57990,
+      "fontFamily": "DinkieIcons",
+      "identifier": "lineGap"
+    },
+    "line-gap-small": {
+      "codepoint": 57991,
+      "fontFamily": "DinkieIcons",
+      "identifier": "lineGapSmall"
+    },
+    "line-height": {
+      "codepoint": 57992,
+      "fontFamily": "DinkieIcons",
+      "identifier": "lineHeight"
+    },
+    "line-height-small": {
+      "codepoint": 57993,
+      "fontFamily": "DinkieIcons",
+      "identifier": "lineHeightSmall"
+    },
+    "link-symbol": {
+      "codepoint": 57994,
+      "fontFamily": "DinkieIcons",
+      "identifier": "linkSymbol"
+    },
+    "link-symbol-small": {
+      "codepoint": 57995,
+      "fontFamily": "DinkieIcons",
+      "identifier": "linkSymbolSmall"
+    },
+    "location-pin": {
+      "codepoint": 57996,
+      "fontFamily": "DinkieIcons",
+      "identifier": "locationPin"
+    },
+    "location-pin-filled": {
+      "codepoint": 57997,
+      "fontFamily": "DinkieIcons",
+      "identifier": "locationPinFilled"
+    },
+    "location-pin-small": {
+      "codepoint": 57998,
+      "fontFamily": "DinkieIcons",
+      "identifier": "locationPinSmall"
+    },
+    "location-pin-small-filled": {
+      "codepoint": 57999,
+      "fontFamily": "DinkieIcons",
+      "identifier": "locationPinSmallFilled"
+    },
+    "lock": {
+      "codepoint": 58000,
+      "fontFamily": "DinkieIcons",
+      "identifier": "lock"
+    },
+    "lock-filled": {
+      "codepoint": 58001,
+      "fontFamily": "DinkieIcons",
+      "identifier": "lockFilled"
+    },
+    "lock-small-filled": {
+      "codepoint": 58002,
+      "fontFamily": "DinkieIcons",
+      "identifier": "lockSmallFilled"
+    },
+    "loudly-crying-face": {
+      "codepoint": 58003,
+      "fontFamily": "DinkieIcons",
+      "identifier": "loudlyCryingFace"
+    },
+    "love": {
+      "codepoint": 58004,
+      "fontFamily": "DinkieIcons",
+      "identifier": "love"
+    },
+    "magic-wand": {
+      "codepoint": 58005,
+      "fontFamily": "DinkieIcons",
+      "identifier": "magicWand"
+    },
+    "magnet": {
+      "codepoint": 58006,
+      "fontFamily": "DinkieIcons",
+      "identifier": "magnet"
+    },
+    "magnet-filled": {
+      "codepoint": 58007,
+      "fontFamily": "DinkieIcons",
+      "identifier": "magnetFilled"
+    },
+    "mango": {
+      "codepoint": 58008,
+      "fontFamily": "DinkieIcons",
+      "identifier": "mango"
+    },
+    "memo": {
+      "codepoint": 58009,
+      "fontFamily": "DinkieIcons",
+      "identifier": "memo"
+    },
+    "memo-filled": {
+      "codepoint": 58010,
+      "fontFamily": "DinkieIcons",
+      "identifier": "memoFilled"
+    },
+    "memo-small": {
+      "codepoint": 58011,
+      "fontFamily": "DinkieIcons",
+      "identifier": "memoSmall"
+    },
+    "memo-small-filled": {
+      "codepoint": 58012,
+      "fontFamily": "DinkieIcons",
+      "identifier": "memoSmallFilled"
+    },
+    "menu": {
+      "codepoint": 58013,
+      "fontFamily": "DinkieIcons",
+      "identifier": "menu"
+    },
+    "menu-small": {
+      "codepoint": 58014,
+      "fontFamily": "DinkieIcons",
+      "identifier": "menuSmall"
+    },
+    "metro": {
+      "codepoint": 58015,
+      "fontFamily": "DinkieIcons",
+      "identifier": "metro"
+    },
+    "mic": {
+      "codepoint": 58016,
+      "fontFamily": "DinkieIcons",
+      "identifier": "mic"
+    },
+    "mic-mv51": {
+      "codepoint": 58017,
+      "fontFamily": "DinkieIcons",
+      "identifier": "micMv51"
+    },
+    "mic-small": {
+      "codepoint": 58018,
+      "fontFamily": "DinkieIcons",
+      "identifier": "micSmall"
+    },
+    "microbe": {
+      "codepoint": 58019,
+      "fontFamily": "DinkieIcons",
+      "identifier": "microbe"
+    },
+    "microphone": {
+      "codepoint": 58020,
+      "fontFamily": "DinkieIcons",
+      "identifier": "microphone"
+    },
+    "microphone-filled": {
+      "codepoint": 58021,
+      "fontFamily": "DinkieIcons",
+      "identifier": "microphoneFilled"
+    },
+    "microscope": {
+      "codepoint": 58022,
+      "fontFamily": "DinkieIcons",
+      "identifier": "microscope"
+    },
+    "milk-package": {
+      "codepoint": 58023,
+      "fontFamily": "DinkieIcons",
+      "identifier": "milkPackage"
+    },
+    "milk-package-small": {
+      "codepoint": 58024,
+      "fontFamily": "DinkieIcons",
+      "identifier": "milkPackageSmall"
+    },
+    "mobile-phone": {
+      "codepoint": 58025,
+      "fontFamily": "DinkieIcons",
+      "identifier": "mobilePhone"
+    },
+    "mobile-phone-alt": {
+      "codepoint": 58026,
+      "fontFamily": "DinkieIcons",
+      "identifier": "mobilePhoneAlt"
+    },
+    "mobile-phone-alt2": {
+      "codepoint": 58027,
+      "fontFamily": "DinkieIcons",
+      "identifier": "mobilePhoneAlt2"
+    },
+    "mobile-phone-alt2-small": {
+      "codepoint": 58028,
+      "fontFamily": "DinkieIcons",
+      "identifier": "mobilePhoneAlt2Small"
+    },
+    "money-bag": {
+      "codepoint": 58029,
+      "fontFamily": "DinkieIcons",
+      "identifier": "moneyBag"
+    },
+    "money-bag-cny": {
+      "codepoint": 58030,
+      "fontFamily": "DinkieIcons",
+      "identifier": "moneyBagCny"
+    },
+    "money-bag-eur": {
+      "codepoint": 58031,
+      "fontFamily": "DinkieIcons",
+      "identifier": "moneyBagEur"
+    },
+    "money-bag-filled": {
+      "codepoint": 58032,
+      "fontFamily": "DinkieIcons",
+      "identifier": "moneyBagFilled"
+    },
+    "money-bag-frf": {
+      "codepoint": 58033,
+      "fontFamily": "DinkieIcons",
+      "identifier": "moneyBagFrf"
+    },
+    "money-bag-gbp": {
+      "codepoint": 58034,
+      "fontFamily": "DinkieIcons",
+      "identifier": "moneyBagGbp"
+    },
+    "money-bag-small": {
+      "codepoint": 58035,
+      "fontFamily": "DinkieIcons",
+      "identifier": "moneyBagSmall"
+    },
+    "money-bag-usd": {
+      "codepoint": 58036,
+      "fontFamily": "DinkieIcons",
+      "identifier": "moneyBagUsd"
+    },
+    "money-mouth-face": {
+      "codepoint": 58037,
+      "fontFamily": "DinkieIcons",
+      "identifier": "moneyMouthFace"
+    },
+    "monkey-face": {
+      "codepoint": 58038,
+      "fontFamily": "DinkieIcons",
+      "identifier": "monkeyFace"
+    },
+    "monospaced": {
+      "codepoint": 58039,
+      "fontFamily": "DinkieIcons",
+      "identifier": "monospaced"
+    },
+    "mountain": {
+      "codepoint": 58040,
+      "fontFamily": "DinkieIcons",
+      "identifier": "mountain"
+    },
+    "mouse-face": {
+      "codepoint": 58041,
+      "fontFamily": "DinkieIcons",
+      "identifier": "mouseFace"
+    },
+    "mouth": {
+      "codepoint": 58042,
+      "fontFamily": "DinkieIcons",
+      "identifier": "mouth"
+    },
+    "movie-camera": {
+      "codepoint": 58043,
+      "fontFamily": "DinkieIcons",
+      "identifier": "movieCamera"
+    },
+    "multiple-musical-notes": {
+      "codepoint": 58044,
+      "fontFamily": "DinkieIcons",
+      "identifier": "multipleMusicalNotes"
+    },
+    "mushroom": {
+      "codepoint": 58045,
+      "fontFamily": "DinkieIcons",
+      "identifier": "mushroom"
+    },
+    "musical-keyboard": {
+      "codepoint": 58046,
+      "fontFamily": "DinkieIcons",
+      "identifier": "musicalKeyboard"
+    },
+    "musical-keyboard-filled": {
+      "codepoint": 58047,
+      "fontFamily": "DinkieIcons",
+      "identifier": "musicalKeyboardFilled"
+    },
+    "musical-note": {
+      "codepoint": 58048,
+      "fontFamily": "DinkieIcons",
+      "identifier": "musicalNote"
+    },
+    "musical-note-small": {
+      "codepoint": 58049,
+      "fontFamily": "DinkieIcons",
+      "identifier": "musicalNoteSmall"
+    },
+    "musical-score": {
+      "codepoint": 58050,
+      "fontFamily": "DinkieIcons",
+      "identifier": "musicalScore"
+    },
+    "nerd-face": {
+      "codepoint": 58051,
+      "fontFamily": "DinkieIcons",
+      "identifier": "nerdFace"
+    },
+    "netease-music": {
+      "codepoint": 58052,
+      "fontFamily": "DinkieIcons",
+      "identifier": "neteaseMusic"
+    },
+    "netease-music-small": {
+      "codepoint": 58053,
+      "fontFamily": "DinkieIcons",
+      "identifier": "neteaseMusicSmall"
+    },
+    "neutral-face": {
+      "codepoint": 58054,
+      "fontFamily": "DinkieIcons",
+      "identifier": "neutralFace"
+    },
+    "new-moon-symbol": {
+      "codepoint": 58055,
+      "fontFamily": "DinkieIcons",
+      "identifier": "newMoonSymbol"
+    },
+    "newspaper": {
+      "codepoint": 58056,
+      "fontFamily": "DinkieIcons",
+      "identifier": "newspaper"
+    },
+    "nine-of-bamboos-mahjong": {
+      "codepoint": 58057,
+      "fontFamily": "DinkieIcons",
+      "identifier": "nineOfBamboosMahjong"
+    },
+    "nine-of-bamboos-mahjong-filled": {
+      "codepoint": 58058,
+      "fontFamily": "DinkieIcons",
+      "identifier": "nineOfBamboosMahjongFilled"
+    },
+    "nine-of-characters-mahjong": {
+      "codepoint": 58059,
+      "fontFamily": "DinkieIcons",
+      "identifier": "nineOfCharactersMahjong"
+    },
+    "nine-of-circles-mahjong": {
+      "codepoint": 58060,
+      "fontFamily": "DinkieIcons",
+      "identifier": "nineOfCirclesMahjong"
+    },
+    "nine-of-circles-mahjong-filled": {
+      "codepoint": 58061,
+      "fontFamily": "DinkieIcons",
+      "identifier": "nineOfCirclesMahjongFilled"
+    },
+    "nintendo-switch": {
+      "codepoint": 58062,
+      "fontFamily": "DinkieIcons",
+      "identifier": "nintendoSwitch"
+    },
+    "no-entry-sign": {
+      "codepoint": 58063,
+      "fontFamily": "DinkieIcons",
+      "identifier": "noEntrySign"
+    },
+    "no-one-under-eighteen-symbol": {
+      "codepoint": 58064,
+      "fontFamily": "DinkieIcons",
+      "identifier": "noOneUnderEighteenSymbol"
+    },
+    "no-one-under-eighteen-symbol-filled": {
+      "codepoint": 58065,
+      "fontFamily": "DinkieIcons",
+      "identifier": "noOneUnderEighteenSymbolFilled"
+    },
+    "no-smoking-symbol": {
+      "codepoint": 58066,
+      "fontFamily": "DinkieIcons",
+      "identifier": "noSmokingSymbol"
+    },
+    "north-wind-mahjong": {
+      "codepoint": 58067,
+      "fontFamily": "DinkieIcons",
+      "identifier": "northWindMahjong"
+    },
+    "notion": {
+      "codepoint": 58068,
+      "fontFamily": "DinkieIcons",
+      "identifier": "notion"
+    },
+    "octopus": {
+      "codepoint": 58069,
+      "fontFamily": "DinkieIcons",
+      "identifier": "octopus"
+    },
+    "ok-box": {
+      "codepoint": 58070,
+      "fontFamily": "DinkieIcons",
+      "identifier": "okBox"
+    },
+    "ok-box-filled": {
+      "codepoint": 58071,
+      "fontFamily": "DinkieIcons",
+      "identifier": "okBoxFilled"
+    },
+    "ok-hand-sign": {
+      "codepoint": 58072,
+      "fontFamily": "DinkieIcons",
+      "identifier": "okHandSign"
+    },
+    "ok-hand-sign-small": {
+      "codepoint": 58073,
+      "fontFamily": "DinkieIcons",
+      "identifier": "okHandSignSmall"
+    },
+    "one-of-bamboos-mahjong": {
+      "codepoint": 58074,
+      "fontFamily": "DinkieIcons",
+      "identifier": "oneOfBamboosMahjong"
+    },
+    "one-of-bamboos-mahjong-ss02": {
+      "codepoint": 58075,
+      "fontFamily": "DinkieIcons",
+      "identifier": "oneOfBamboosMahjongSs02"
+    },
+    "one-of-characters-mahjong": {
+      "codepoint": 58076,
+      "fontFamily": "DinkieIcons",
+      "identifier": "oneOfCharactersMahjong"
+    },
+    "one-of-circles-mahjong": {
+      "codepoint": 58077,
+      "fontFamily": "DinkieIcons",
+      "identifier": "oneOfCirclesMahjong"
+    },
+    "one-of-circles-mahjong-filled": {
+      "codepoint": 58078,
+      "fontFamily": "DinkieIcons",
+      "identifier": "oneOfCirclesMahjongFilled"
+    },
+    "onion": {
+      "codepoint": 58079,
+      "fontFamily": "DinkieIcons",
+      "identifier": "onion"
+    },
+    "open-book": {
+      "codepoint": 58080,
+      "fontFamily": "DinkieIcons",
+      "identifier": "openBook"
+    },
+    "open-book-small": {
+      "codepoint": 58081,
+      "fontFamily": "DinkieIcons",
+      "identifier": "openBookSmall"
+    },
+    "open-lock": {
+      "codepoint": 58082,
+      "fontFamily": "DinkieIcons",
+      "identifier": "openLock"
+    },
+    "open-lock-filled": {
+      "codepoint": 58083,
+      "fontFamily": "DinkieIcons",
+      "identifier": "openLockFilled"
+    },
+    "open-lock-small-filled": {
+      "codepoint": 58084,
+      "fontFamily": "DinkieIcons",
+      "identifier": "openLockSmallFilled"
+    },
+    "open-mailbox-lowered-flag": {
+      "codepoint": 58085,
+      "fontFamily": "DinkieIcons",
+      "identifier": "openMailboxLoweredFlag"
+    },
+    "open-mailbox-raised-flag": {
+      "codepoint": 58086,
+      "fontFamily": "DinkieIcons",
+      "identifier": "openMailboxRaisedFlag"
+    },
+    "optical-disc": {
+      "codepoint": 58087,
+      "fontFamily": "DinkieIcons",
+      "identifier": "opticalDisc"
+    },
+    "option-key": {
+      "codepoint": 58088,
+      "fontFamily": "DinkieIcons",
+      "identifier": "optionKey"
+    },
+    "orchid-mahjong": {
+      "codepoint": 58089,
+      "fontFamily": "DinkieIcons",
+      "identifier": "orchidMahjong"
+    },
+    "orthogon7x7": {
+      "codepoint": 58090,
+      "fontFamily": "DinkieIcons",
+      "identifier": "orthogon7x7"
+    },
+    "orthogon7x9": {
+      "codepoint": 58091,
+      "fontFamily": "DinkieIcons",
+      "identifier": "orthogon7x9"
+    },
+    "orthogon9x7": {
+      "codepoint": 58092,
+      "fontFamily": "DinkieIcons",
+      "identifier": "orthogon9x7"
+    },
+    "orthogon9x9": {
+      "codepoint": 58093,
+      "fontFamily": "DinkieIcons",
+      "identifier": "orthogon9x9"
+    },
+    "otfeature-acps": {
+      "codepoint": 58094,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureAcps"
+    },
+    "otfeature-acps-small-filled": {
+      "codepoint": 58095,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureAcpsSmallFilled"
+    },
+    "otfeature-c2sc": {
+      "codepoint": 58096,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureC2sc"
+    },
+    "otfeature-c2sc-small-filled": {
+      "codepoint": 58097,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureC2scSmallFilled"
+    },
+    "otfeature-calt": {
+      "codepoint": 58098,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureCalt"
+    },
+    "otfeature-calt-small-filled": {
+      "codepoint": 58099,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureCaltSmallFilled"
+    },
+    "otfeature-ccmp": {
+      "codepoint": 58100,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureCcmp"
+    },
+    "otfeature-ccmp-small-filled": {
+      "codepoint": 58101,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureCcmpSmallFilled"
+    },
+    "otfeature-dlig": {
+      "codepoint": 58102,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureDlig"
+    },
+    "otfeature-dlig-small-filled": {
+      "codepoint": 58103,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureDligSmallFilled"
+    },
+    "otfeature-frac": {
+      "codepoint": 58104,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureFrac"
+    },
+    "otfeature-frac-small-filled": {
+      "codepoint": 58105,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureFracSmallFilled"
+    },
+    "otfeature-fwid": {
+      "codepoint": 58106,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureFwid"
+    },
+    "otfeature-fwid-small-filled": {
+      "codepoint": 58107,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureFwidSmallFilled"
+    },
+    "otfeature-hrzt": {
+      "codepoint": 58108,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureHrzt"
+    },
+    "otfeature-hrzt-small-filled": {
+      "codepoint": 58109,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureHrztSmallFilled"
+    },
+    "otfeature-hwid": {
+      "codepoint": 58110,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureHwid"
+    },
+    "otfeature-hwid-small-filled": {
+      "codepoint": 58111,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureHwidSmallFilled"
+    },
+    "otfeature-liga": {
+      "codepoint": 58112,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureLiga"
+    },
+    "otfeature-liga-small-filled": {
+      "codepoint": 58113,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureLigaSmallFilled"
+    },
+    "otfeature-onum": {
+      "codepoint": 58114,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureOnum"
+    },
+    "otfeature-onum-small-filled": {
+      "codepoint": 58115,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureOnumSmallFilled"
+    },
+    "otfeature-ordn": {
+      "codepoint": 58116,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureOrdn"
+    },
+    "otfeature-ordn-small-filled": {
+      "codepoint": 58117,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureOrdnSmallFilled"
+    },
+    "otfeature-smcp": {
+      "codepoint": 58118,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureSmcp"
+    },
+    "otfeature-smcp-small-filled": {
+      "codepoint": 58119,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureSmcpSmallFilled"
+    },
+    "otfeature-ss01": {
+      "codepoint": 58120,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureSs01"
+    },
+    "otfeature-ss01-small-filled": {
+      "codepoint": 58121,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureSs01SmallFilled"
+    },
+    "otfeature-ss02": {
+      "codepoint": 58122,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureSs02"
+    },
+    "otfeature-ss02-small-filled": {
+      "codepoint": 58123,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureSs02SmallFilled"
+    },
+    "otfeature-ss03": {
+      "codepoint": 58124,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureSs03"
+    },
+    "otfeature-ss03-small-filled": {
+      "codepoint": 58125,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureSs03SmallFilled"
+    },
+    "otfeature-subs": {
+      "codepoint": 58126,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureSubs"
+    },
+    "otfeature-subs-small-filled": {
+      "codepoint": 58127,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureSubsSmallFilled"
+    },
+    "otfeature-sups": {
+      "codepoint": 58128,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureSups"
+    },
+    "otfeature-sups-small-filled": {
+      "codepoint": 58129,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureSupsSmallFilled"
+    },
+    "otfeature-vert": {
+      "codepoint": 58130,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureVert"
+    },
+    "otfeature-vert-small-filled": {
+      "codepoint": 58131,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureVertSmallFilled"
+    },
+    "otfeature-zero": {
+      "codepoint": 58132,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureZero"
+    },
+    "otfeature-zero-small-filled": {
+      "codepoint": 58133,
+      "fontFamily": "DinkieIcons",
+      "identifier": "otfeatureZeroSmallFilled"
+    },
+    "page-curl": {
+      "codepoint": 58134,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pageCurl"
+    },
+    "page-curl-filled": {
+      "codepoint": 58135,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pageCurlFilled"
+    },
+    "page-curl-small": {
+      "codepoint": 58136,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pageCurlSmall"
+    },
+    "page-curl-small-filled": {
+      "codepoint": 58137,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pageCurlSmallFilled"
+    },
+    "page-facing-up": {
+      "codepoint": 58138,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pageFacingUp"
+    },
+    "page-facing-up-filled": {
+      "codepoint": 58139,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pageFacingUpFilled"
+    },
+    "page-facing-up-small": {
+      "codepoint": 58140,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pageFacingUpSmall"
+    },
+    "page-facing-up-small-filled": {
+      "codepoint": 58141,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pageFacingUpSmallFilled"
+    },
+    "page-graphics": {
+      "codepoint": 58142,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pageGraphics"
+    },
+    "page-graphics-filled": {
+      "codepoint": 58143,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pageGraphicsFilled"
+    },
+    "page-graphics-small-filled": {
+      "codepoint": 58144,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pageGraphicsSmallFilled"
+    },
+    "pager": {
+      "codepoint": 58145,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pager"
+    },
+    "palm-face": {
+      "codepoint": 58146,
+      "fontFamily": "DinkieIcons",
+      "identifier": "palmFace"
+    },
+    "palm-tree": {
+      "codepoint": 58147,
+      "fontFamily": "DinkieIcons",
+      "identifier": "palmTree"
+    },
+    "paperclip": {
+      "codepoint": 58148,
+      "fontFamily": "DinkieIcons",
+      "identifier": "paperclip"
+    },
+    "paperclip-small": {
+      "codepoint": 58149,
+      "fontFamily": "DinkieIcons",
+      "identifier": "paperclipSmall"
+    },
+    "parallelogram": {
+      "codepoint": 58150,
+      "fontFamily": "DinkieIcons",
+      "identifier": "parallelogram"
+    },
+    "party-popper": {
+      "codepoint": 58151,
+      "fontFamily": "DinkieIcons",
+      "identifier": "partyPopper"
+    },
+    "party-popper-small": {
+      "codepoint": 58152,
+      "fontFamily": "DinkieIcons",
+      "identifier": "partyPopperSmall"
+    },
+    "paypal": {
+      "codepoint": 58153,
+      "fontFamily": "DinkieIcons",
+      "identifier": "paypal"
+    },
+    "peach": {
+      "codepoint": 58154,
+      "fontFamily": "DinkieIcons",
+      "identifier": "peach"
+    },
+    "pear": {
+      "codepoint": 58155,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pear"
+    },
+    "pear-logo": {
+      "codepoint": 58156,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pearLogo"
+    },
+    "pear-logo-filled": {
+      "codepoint": 58157,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pearLogoFilled"
+    },
+    "pear-logo-small": {
+      "codepoint": 58158,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pearLogoSmall"
+    },
+    "pear-logo-small-filled": {
+      "codepoint": 58159,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pearLogoSmallFilled"
+    },
+    "peek-face": {
+      "codepoint": 58160,
+      "fontFamily": "DinkieIcons",
+      "identifier": "peekFace"
+    },
+    "pencil": {
+      "codepoint": 58161,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pencil"
+    },
+    "pencil-small": {
+      "codepoint": 58162,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pencilSmall"
+    },
+    "person-with-folded-hands": {
+      "codepoint": 58163,
+      "fontFamily": "DinkieIcons",
+      "identifier": "personWithFoldedHands"
+    },
+    "person-with-folded-hands-filled": {
+      "codepoint": 58164,
+      "fontFamily": "DinkieIcons",
+      "identifier": "personWithFoldedHandsFilled"
+    },
+    "personal-computer": {
+      "codepoint": 58165,
+      "fontFamily": "DinkieIcons",
+      "identifier": "personalComputer"
+    },
+    "petri-dish": {
+      "codepoint": 58166,
+      "fontFamily": "DinkieIcons",
+      "identifier": "petriDish"
+    },
+    "pig-face": {
+      "codepoint": 58167,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pigFace"
+    },
+    "pile-of-poo": {
+      "codepoint": 58168,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pileOfPoo"
+    },
+    "pill": {
+      "codepoint": 58169,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pill"
+    },
+    "pill-filled": {
+      "codepoint": 58170,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pillFilled"
+    },
+    "pineapple": {
+      "codepoint": 58171,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pineapple"
+    },
+    "pistol": {
+      "codepoint": 58172,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pistol"
+    },
+    "pistol-filled": {
+      "codepoint": 58173,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pistolFilled"
+    },
+    "placard": {
+      "codepoint": 58174,
+      "fontFamily": "DinkieIcons",
+      "identifier": "placard"
+    },
+    "placard-alt": {
+      "codepoint": 58175,
+      "fontFamily": "DinkieIcons",
+      "identifier": "placardAlt"
+    },
+    "placard-small": {
+      "codepoint": 58176,
+      "fontFamily": "DinkieIcons",
+      "identifier": "placardSmall"
+    },
+    "playstation": {
+      "codepoint": 58177,
+      "fontFamily": "DinkieIcons",
+      "identifier": "playstation"
+    },
+    "plum-mahjong": {
+      "codepoint": 58178,
+      "fontFamily": "DinkieIcons",
+      "identifier": "plumMahjong"
+    },
+    "podcast": {
+      "codepoint": 58179,
+      "fontFamily": "DinkieIcons",
+      "identifier": "podcast"
+    },
+    "podcast-small": {
+      "codepoint": 58180,
+      "fontFamily": "DinkieIcons",
+      "identifier": "podcastSmall"
+    },
+    "podium": {
+      "codepoint": 58181,
+      "fontFamily": "DinkieIcons",
+      "identifier": "podium"
+    },
+    "potable-water-symbol": {
+      "codepoint": 58182,
+      "fontFamily": "DinkieIcons",
+      "identifier": "potableWaterSymbol"
+    },
+    "potted-plant": {
+      "codepoint": 58183,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pottedPlant"
+    },
+    "poultry-leg": {
+      "codepoint": 58184,
+      "fontFamily": "DinkieIcons",
+      "identifier": "poultryLeg"
+    },
+    "poultry-leg-filled": {
+      "codepoint": 58185,
+      "fontFamily": "DinkieIcons",
+      "identifier": "poultryLegFilled"
+    },
+    "propellor": {
+      "codepoint": 58186,
+      "fontFamily": "DinkieIcons",
+      "identifier": "propellor"
+    },
+    "public-address-loudspeaker": {
+      "codepoint": 58187,
+      "fontFamily": "DinkieIcons",
+      "identifier": "publicAddressLoudspeaker"
+    },
+    "public-address-loudspeaker-small": {
+      "codepoint": 58188,
+      "fontFamily": "DinkieIcons",
+      "identifier": "publicAddressLoudspeakerSmall"
+    },
+    "pushpin": {
+      "codepoint": 58189,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pushpin"
+    },
+    "pushpin-filled": {
+      "codepoint": 58190,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pushpinFilled"
+    },
+    "pushpin-small": {
+      "codepoint": 58191,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pushpinSmall"
+    },
+    "pushpin-small-filled": {
+      "codepoint": 58192,
+      "fontFamily": "DinkieIcons",
+      "identifier": "pushpinSmallFilled"
+    },
+    "qq": {
+      "codepoint": 58193,
+      "fontFamily": "DinkieIcons",
+      "identifier": "qq"
+    },
+    "qq-filled": {
+      "codepoint": 58194,
+      "fontFamily": "DinkieIcons",
+      "identifier": "qqFilled"
+    },
+    "question-face": {
+      "codepoint": 58195,
+      "fontFamily": "DinkieIcons",
+      "identifier": "questionFace"
+    },
+    "rabbit-face": {
+      "codepoint": 58196,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rabbitFace"
+    },
+    "radio-button": {
+      "codepoint": 58197,
+      "fontFamily": "DinkieIcons",
+      "identifier": "radioButton"
+    },
+    "radio-button-small": {
+      "codepoint": 58198,
+      "fontFamily": "DinkieIcons",
+      "identifier": "radioButtonSmall"
+    },
+    "radioactive": {
+      "codepoint": 58199,
+      "fontFamily": "DinkieIcons",
+      "identifier": "radioactive"
+    },
+    "radioactive-small": {
+      "codepoint": 58200,
+      "fontFamily": "DinkieIcons",
+      "identifier": "radioactiveSmall"
+    },
+    "railway-car": {
+      "codepoint": 58201,
+      "fontFamily": "DinkieIcons",
+      "identifier": "railwayCar"
+    },
+    "raised-back-of-hand": {
+      "codepoint": 58202,
+      "fontFamily": "DinkieIcons",
+      "identifier": "raisedBackOfHand"
+    },
+    "raised-back-of-hand-small": {
+      "codepoint": 58203,
+      "fontFamily": "DinkieIcons",
+      "identifier": "raisedBackOfHandSmall"
+    },
+    "raised-hand": {
+      "codepoint": 58204,
+      "fontFamily": "DinkieIcons",
+      "identifier": "raisedHand"
+    },
+    "raised-hand-small": {
+      "codepoint": 58205,
+      "fontFamily": "DinkieIcons",
+      "identifier": "raisedHandSmall"
+    },
+    "red-apple": {
+      "codepoint": 58206,
+      "fontFamily": "DinkieIcons",
+      "identifier": "redApple"
+    },
+    "red-apple-small": {
+      "codepoint": 58207,
+      "fontFamily": "DinkieIcons",
+      "identifier": "redAppleSmall"
+    },
+    "red-dragon-mahjong": {
+      "codepoint": 58208,
+      "fontFamily": "DinkieIcons",
+      "identifier": "redDragonMahjong"
+    },
+    "red-dragon-mahjong-filled": {
+      "codepoint": 58209,
+      "fontFamily": "DinkieIcons",
+      "identifier": "redDragonMahjongFilled"
+    },
+    "repeat-arrow": {
+      "codepoint": 58210,
+      "fontFamily": "DinkieIcons",
+      "identifier": "repeatArrow"
+    },
+    "repeat-arrow-filled": {
+      "codepoint": 58211,
+      "fontFamily": "DinkieIcons",
+      "identifier": "repeatArrowFilled"
+    },
+    "restroom": {
+      "codepoint": 58212,
+      "fontFamily": "DinkieIcons",
+      "identifier": "restroom"
+    },
+    "restroom-filled": {
+      "codepoint": 58213,
+      "fontFamily": "DinkieIcons",
+      "identifier": "restroomFilled"
+    },
+    "restroom-small-filled": {
+      "codepoint": 58214,
+      "fontFamily": "DinkieIcons",
+      "identifier": "restroomSmallFilled"
+    },
+    "revert": {
+      "codepoint": 58215,
+      "fontFamily": "DinkieIcons",
+      "identifier": "revert"
+    },
+    "ribbon": {
+      "codepoint": 58216,
+      "fontFamily": "DinkieIcons",
+      "identifier": "ribbon"
+    },
+    "right-arrow-circled": {
+      "codepoint": 58217,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightArrowCircled"
+    },
+    "right-arrow-circled-filled": {
+      "codepoint": 58218,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightArrowCircledFilled"
+    },
+    "right-arrow-circled-small": {
+      "codepoint": 58219,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightArrowCircledSmall"
+    },
+    "right-arrow-circled-small-filled": {
+      "codepoint": 58220,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightArrowCircledSmallFilled"
+    },
+    "right-black-triangle": {
+      "codepoint": 58221,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightBlackTriangle"
+    },
+    "right-black-triangle-filled": {
+      "codepoint": 58222,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightBlackTriangleFilled"
+    },
+    "right-hook-arrow": {
+      "codepoint": 58223,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightHookArrow"
+    },
+    "right-hook-arrow-filled": {
+      "codepoint": 58224,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightHookArrowFilled"
+    },
+    "right-hook-arrow-small": {
+      "codepoint": 58225,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightHookArrowSmall"
+    },
+    "right-hook-arrow-small-filled": {
+      "codepoint": 58226,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightHookArrowSmallFilled"
+    },
+    "right-magnifying-glass": {
+      "codepoint": 58227,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightMagnifyingGlass"
+    },
+    "right-magnifying-glass-filled": {
+      "codepoint": 58228,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightMagnifyingGlassFilled"
+    },
+    "right-magnifying-glass-small": {
+      "codepoint": 58229,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightMagnifyingGlassSmall"
+    },
+    "right-magnifying-glass-small-filled": {
+      "codepoint": 58230,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightMagnifyingGlassSmallFilled"
+    },
+    "right-then-curving-down-arrow": {
+      "codepoint": 58231,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightThenCurvingDownArrow"
+    },
+    "right-then-curving-down-arrow-filled": {
+      "codepoint": 58232,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightThenCurvingDownArrowFilled"
+    },
+    "right-then-curving-down-arrow-small": {
+      "codepoint": 58233,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightThenCurvingDownArrowSmall"
+    },
+    "right-then-curving-down-arrow-small-filled": {
+      "codepoint": 58234,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightThenCurvingDownArrowSmallFilled"
+    },
+    "right-then-curving-up-arrow": {
+      "codepoint": 58235,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightThenCurvingUpArrow"
+    },
+    "right-then-curving-up-arrow-filled": {
+      "codepoint": 58236,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightThenCurvingUpArrowFilled"
+    },
+    "right-then-curving-up-arrow-small": {
+      "codepoint": 58237,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightThenCurvingUpArrowSmall"
+    },
+    "right-then-curving-up-arrow-small-filled": {
+      "codepoint": 58238,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rightThenCurvingUpArrowSmallFilled"
+    },
+    "roasted-sweet-potato": {
+      "codepoint": 58239,
+      "fontFamily": "DinkieIcons",
+      "identifier": "roastedSweetPotato"
+    },
+    "robot": {
+      "codepoint": 58240,
+      "fontFamily": "DinkieIcons",
+      "identifier": "robot"
+    },
+    "robot-face": {
+      "codepoint": 58241,
+      "fontFamily": "DinkieIcons",
+      "identifier": "robotFace"
+    },
+    "robot-filled": {
+      "codepoint": 58242,
+      "fontFamily": "DinkieIcons",
+      "identifier": "robotFilled"
+    },
+    "rocket": {
+      "codepoint": 58243,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rocket"
+    },
+    "rose": {
+      "codepoint": 58244,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rose"
+    },
+    "rostrum": {
+      "codepoint": 58245,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rostrum"
+    },
+    "round-pushpin": {
+      "codepoint": 58246,
+      "fontFamily": "DinkieIcons",
+      "identifier": "roundPushpin"
+    },
+    "round-pushpin-filled": {
+      "codepoint": 58247,
+      "fontFamily": "DinkieIcons",
+      "identifier": "roundPushpinFilled"
+    },
+    "round-pushpin-small": {
+      "codepoint": 58248,
+      "fontFamily": "DinkieIcons",
+      "identifier": "roundPushpinSmall"
+    },
+    "round-pushpin-small-filled": {
+      "codepoint": 58249,
+      "fontFamily": "DinkieIcons",
+      "identifier": "roundPushpinSmallFilled"
+    },
+    "ruler-right-angle": {
+      "codepoint": 58250,
+      "fontFamily": "DinkieIcons",
+      "identifier": "rulerRightAngle"
+    },
+    "sandwich": {
+      "codepoint": 58251,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sandwich"
+    },
+    "satellite": {
+      "codepoint": 58252,
+      "fontFamily": "DinkieIcons",
+      "identifier": "satellite"
+    },
+    "satellite-antenna": {
+      "codepoint": 58253,
+      "fontFamily": "DinkieIcons",
+      "identifier": "satelliteAntenna"
+    },
+    "sauropod": {
+      "codepoint": 58254,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sauropod"
+    },
+    "saxophone": {
+      "codepoint": 58255,
+      "fontFamily": "DinkieIcons",
+      "identifier": "saxophone"
+    },
+    "saxophone-filled": {
+      "codepoint": 58256,
+      "fontFamily": "DinkieIcons",
+      "identifier": "saxophoneFilled"
+    },
+    "scales": {
+      "codepoint": 58257,
+      "fontFamily": "DinkieIcons",
+      "identifier": "scales"
+    },
+    "scan": {
+      "codepoint": 58258,
+      "fontFamily": "DinkieIcons",
+      "identifier": "scan"
+    },
+    "scan-small": {
+      "codepoint": 58259,
+      "fontFamily": "DinkieIcons",
+      "identifier": "scanSmall"
+    },
+    "secret-han-circled": {
+      "codepoint": 58260,
+      "fontFamily": "DinkieIcons",
+      "identifier": "secretHanCircled"
+    },
+    "secret-han-circled-filled": {
+      "codepoint": 58261,
+      "fontFamily": "DinkieIcons",
+      "identifier": "secretHanCircledFilled"
+    },
+    "seedling": {
+      "codepoint": 58262,
+      "fontFamily": "DinkieIcons",
+      "identifier": "seedling"
+    },
+    "seven-of-bamboos-mahjong": {
+      "codepoint": 58263,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sevenOfBamboosMahjong"
+    },
+    "seven-of-bamboos-mahjong-filled": {
+      "codepoint": 58264,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sevenOfBamboosMahjongFilled"
+    },
+    "seven-of-characters-mahjong": {
+      "codepoint": 58265,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sevenOfCharactersMahjong"
+    },
+    "seven-of-circles-mahjong": {
+      "codepoint": 58266,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sevenOfCirclesMahjong"
+    },
+    "seven-of-circles-mahjong-filled": {
+      "codepoint": 58267,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sevenOfCirclesMahjongFilled"
+    },
+    "shamrock": {
+      "codepoint": 58268,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shamrock"
+    },
+    "share": {
+      "codepoint": 58269,
+      "fontFamily": "DinkieIcons",
+      "identifier": "share"
+    },
+    "shark": {
+      "codepoint": 58270,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shark"
+    },
+    "shield": {
+      "codepoint": 58271,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shield"
+    },
+    "shinto-shrine": {
+      "codepoint": 58272,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shintoShrine"
+    },
+    "ship": {
+      "codepoint": 58273,
+      "fontFamily": "DinkieIcons",
+      "identifier": "ship"
+    },
+    "shocked-face-with-exploding-head": {
+      "codepoint": 58274,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shockedFaceWithExplodingHead"
+    },
+    "shopping-bag": {
+      "codepoint": 58275,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shoppingBag"
+    },
+    "shopping-trolley": {
+      "codepoint": 58276,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shoppingTrolley"
+    },
+    "shopping-trolley-small": {
+      "codepoint": 58277,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shoppingTrolleySmall"
+    },
+    "shortcake": {
+      "codepoint": 58278,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shortcake"
+    },
+    "shorts": {
+      "codepoint": 58279,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shorts"
+    },
+    "shrug": {
+      "codepoint": 58280,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shrug"
+    },
+    "shuffle-arrows": {
+      "codepoint": 58281,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shuffleArrows"
+    },
+    "shuffle-arrows-filled": {
+      "codepoint": 58282,
+      "fontFamily": "DinkieIcons",
+      "identifier": "shuffleArrowsFilled"
+    },
+    "sina-weibo": {
+      "codepoint": 58283,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sinaWeibo"
+    },
+    "sina-weibo-small": {
+      "codepoint": 58284,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sinaWeiboSmall"
+    },
+    "six-of-bamboos-mahjong": {
+      "codepoint": 58285,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sixOfBamboosMahjong"
+    },
+    "six-of-bamboos-mahjong-filled": {
+      "codepoint": 58286,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sixOfBamboosMahjongFilled"
+    },
+    "six-of-characters-mahjong": {
+      "codepoint": 58287,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sixOfCharactersMahjong"
+    },
+    "six-of-circles-mahjong": {
+      "codepoint": 58288,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sixOfCirclesMahjong"
+    },
+    "six-of-circles-mahjong-filled": {
+      "codepoint": 58289,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sixOfCirclesMahjongFilled"
+    },
+    "size-emoji": {
+      "codepoint": 58290,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sizeEmoji"
+    },
+    "size-emoji-small": {
+      "codepoint": 58291,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sizeEmojiSmall"
+    },
+    "size-text": {
+      "codepoint": 58292,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sizeText"
+    },
+    "size-text-filled": {
+      "codepoint": 58293,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sizeTextFilled"
+    },
+    "size-text-small": {
+      "codepoint": 58294,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sizeTextSmall"
+    },
+    "size-text-small-filled": {
+      "codepoint": 58295,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sizeTextSmallFilled"
+    },
+    "skull": {
+      "codepoint": 58296,
+      "fontFamily": "DinkieIcons",
+      "identifier": "skull"
+    },
+    "sleeping-face": {
+      "codepoint": 58297,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sleepingFace"
+    },
+    "slice-of-pizza": {
+      "codepoint": 58298,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sliceOfPizza"
+    },
+    "slightly-frowning-face": {
+      "codepoint": 58299,
+      "fontFamily": "DinkieIcons",
+      "identifier": "slightlyFrowningFace"
+    },
+    "slightly-frowning-face-filled": {
+      "codepoint": 58300,
+      "fontFamily": "DinkieIcons",
+      "identifier": "slightlyFrowningFaceFilled"
+    },
+    "slightly-frowning-face-small": {
+      "codepoint": 58301,
+      "fontFamily": "DinkieIcons",
+      "identifier": "slightlyFrowningFaceSmall"
+    },
+    "slightly-frowning-face-small-filled": {
+      "codepoint": 58302,
+      "fontFamily": "DinkieIcons",
+      "identifier": "slightlyFrowningFaceSmallFilled"
+    },
+    "slightly-smiling-face": {
+      "codepoint": 58303,
+      "fontFamily": "DinkieIcons",
+      "identifier": "slightlySmilingFace"
+    },
+    "slightly-smiling-face-filled": {
+      "codepoint": 58304,
+      "fontFamily": "DinkieIcons",
+      "identifier": "slightlySmilingFaceFilled"
+    },
+    "slightly-smiling-face-small": {
+      "codepoint": 58305,
+      "fontFamily": "DinkieIcons",
+      "identifier": "slightlySmilingFaceSmall"
+    },
+    "slightly-smiling-face-small-filled": {
+      "codepoint": 58306,
+      "fontFamily": "DinkieIcons",
+      "identifier": "slightlySmilingFaceSmallFilled"
+    },
+    "slot-machine": {
+      "codepoint": 58307,
+      "fontFamily": "DinkieIcons",
+      "identifier": "slotMachine"
+    },
+    "smaller": {
+      "codepoint": 58308,
+      "fontFamily": "DinkieIcons",
+      "identifier": "smaller"
+    },
+    "smaller-small": {
+      "codepoint": 58309,
+      "fontFamily": "DinkieIcons",
+      "identifier": "smallerSmall"
+    },
+    "smiling-face-with-heart-shaped-eyes": {
+      "codepoint": 58310,
+      "fontFamily": "DinkieIcons",
+      "identifier": "smilingFaceWithHeartShapedEyes"
+    },
+    "smiling-face-with-open-mouth": {
+      "codepoint": 58311,
+      "fontFamily": "DinkieIcons",
+      "identifier": "smilingFaceWithOpenMouth"
+    },
+    "smiling-face-with-open-mouth-and-cold-sweat": {
+      "codepoint": 58312,
+      "fontFamily": "DinkieIcons",
+      "identifier": "smilingFaceWithOpenMouthAndColdSweat"
+    },
+    "smiling-face-with-open-mouth-and-smiling-eyes": {
+      "codepoint": 58313,
+      "fontFamily": "DinkieIcons",
+      "identifier": "smilingFaceWithOpenMouthAndSmilingEyes"
+    },
+    "smirking-face": {
+      "codepoint": 58314,
+      "fontFamily": "DinkieIcons",
+      "identifier": "smirkingFace"
+    },
+    "smoking-symbol": {
+      "codepoint": 58315,
+      "fontFamily": "DinkieIcons",
+      "identifier": "smokingSymbol"
+    },
+    "snail": {
+      "codepoint": 58316,
+      "fontFamily": "DinkieIcons",
+      "identifier": "snail"
+    },
+    "snake": {
+      "codepoint": 58317,
+      "fontFamily": "DinkieIcons",
+      "identifier": "snake"
+    },
+    "snow-capped-mountain": {
+      "codepoint": 58318,
+      "fontFamily": "DinkieIcons",
+      "identifier": "snowCappedMountain"
+    },
+    "snowflake": {
+      "codepoint": 58319,
+      "fontFamily": "DinkieIcons",
+      "identifier": "snowflake"
+    },
+    "soft-ice-cream": {
+      "codepoint": 58320,
+      "fontFamily": "DinkieIcons",
+      "identifier": "softIceCream"
+    },
+    "south-wind-mahjong": {
+      "codepoint": 58321,
+      "fontFamily": "DinkieIcons",
+      "identifier": "southWindMahjong"
+    },
+    "sparkles": {
+      "codepoint": 58322,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sparkles"
+    },
+    "speaker": {
+      "codepoint": 58323,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speaker"
+    },
+    "speaker-with-cancellation-stroke": {
+      "codepoint": 58324,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speakerWithCancellationStroke"
+    },
+    "speaker-with-one-sound-wave": {
+      "codepoint": 58325,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speakerWithOneSoundWave"
+    },
+    "speaker-with-three-sound-waves": {
+      "codepoint": 58326,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speakerWithThreeSoundWaves"
+    },
+    "speech-balloon": {
+      "codepoint": 58327,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speechBalloon"
+    },
+    "speech-balloon-empty": {
+      "codepoint": 58328,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speechBalloonEmpty"
+    },
+    "speech-balloon-empty-small": {
+      "codepoint": 58329,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speechBalloonEmptySmall"
+    },
+    "speech-balloon-empty-small-filled": {
+      "codepoint": 58330,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speechBalloonEmptySmallFilled"
+    },
+    "speech-balloon-heart": {
+      "codepoint": 58331,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speechBalloonHeart"
+    },
+    "speech-balloon-heart-small-filled": {
+      "codepoint": 58332,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speechBalloonHeartSmallFilled"
+    },
+    "speech-balloon-info": {
+      "codepoint": 58333,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speechBalloonInfo"
+    },
+    "speech-balloon-info-small-filled": {
+      "codepoint": 58334,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speechBalloonInfoSmallFilled"
+    },
+    "speech-balloon-question": {
+      "codepoint": 58335,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speechBalloonQuestion"
+    },
+    "speech-balloon-question-small-filled": {
+      "codepoint": 58336,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speechBalloonQuestionSmallFilled"
+    },
+    "speech-balloon-small": {
+      "codepoint": 58337,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speechBalloonSmall"
+    },
+    "speech-balloon-small-filled": {
+      "codepoint": 58338,
+      "fontFamily": "DinkieIcons",
+      "identifier": "speechBalloonSmallFilled"
+    },
+    "spider": {
+      "codepoint": 58339,
+      "fontFamily": "DinkieIcons",
+      "identifier": "spider"
+    },
+    "spouting-whale": {
+      "codepoint": 58340,
+      "fontFamily": "DinkieIcons",
+      "identifier": "spoutingWhale"
+    },
+    "spring-mahjong": {
+      "codepoint": 58341,
+      "fontFamily": "DinkieIcons",
+      "identifier": "springMahjong"
+    },
+    "squint-smiling-face": {
+      "codepoint": 58342,
+      "fontFamily": "DinkieIcons",
+      "identifier": "squintSmilingFace"
+    },
+    "squint-smiling-face-small": {
+      "codepoint": 58343,
+      "fontFamily": "DinkieIcons",
+      "identifier": "squintSmilingFaceSmall"
+    },
+    "steam": {
+      "codepoint": 58344,
+      "fontFamily": "DinkieIcons",
+      "identifier": "steam"
+    },
+    "steam-locomotive": {
+      "codepoint": 58345,
+      "fontFamily": "DinkieIcons",
+      "identifier": "steamLocomotive"
+    },
+    "steaming-bowl": {
+      "codepoint": 58346,
+      "fontFamily": "DinkieIcons",
+      "identifier": "steamingBowl"
+    },
+    "stopwatch": {
+      "codepoint": 58347,
+      "fontFamily": "DinkieIcons",
+      "identifier": "stopwatch"
+    },
+    "stopwatch-filled": {
+      "codepoint": 58348,
+      "fontFamily": "DinkieIcons",
+      "identifier": "stopwatchFilled"
+    },
+    "stopwatch-small-filled": {
+      "codepoint": 58349,
+      "fontFamily": "DinkieIcons",
+      "identifier": "stopwatchSmallFilled"
+    },
+    "straight-ruler": {
+      "codepoint": 58350,
+      "fontFamily": "DinkieIcons",
+      "identifier": "straightRuler"
+    },
+    "strawberry": {
+      "codepoint": 58351,
+      "fontFamily": "DinkieIcons",
+      "identifier": "strawberry"
+    },
+    "summer-mahjong": {
+      "codepoint": 58352,
+      "fontFamily": "DinkieIcons",
+      "identifier": "summerMahjong"
+    },
+    "sunflower": {
+      "codepoint": 58353,
+      "fontFamily": "DinkieIcons",
+      "identifier": "sunflower"
+    },
+    "suspension-railway": {
+      "codepoint": 58354,
+      "fontFamily": "DinkieIcons",
+      "identifier": "suspensionRailway"
+    },
+    "swan": {
+      "codepoint": 58355,
+      "fontFamily": "DinkieIcons",
+      "identifier": "swan"
+    },
+    "syringe": {
+      "codepoint": 58356,
+      "fontFamily": "DinkieIcons",
+      "identifier": "syringe"
+    },
+    "t-rex": {
+      "codepoint": 58357,
+      "fontFamily": "DinkieIcons",
+      "identifier": "tRex"
+    },
+    "t-rex-filled": {
+      "codepoint": 58358,
+      "fontFamily": "DinkieIcons",
+      "identifier": "tRexFilled"
+    },
+    "t-rex-small": {
+      "codepoint": 58359,
+      "fontFamily": "DinkieIcons",
+      "identifier": "tRexSmall"
+    },
+    "t-rex-small-filled": {
+      "codepoint": 58360,
+      "fontFamily": "DinkieIcons",
+      "identifier": "tRexSmallFilled"
+    },
+    "t-shirt": {
+      "codepoint": 58361,
+      "fontFamily": "DinkieIcons",
+      "identifier": "tShirt"
+    },
+    "table-tennis-paddle-and-ball": {
+      "codepoint": 58362,
+      "fontFamily": "DinkieIcons",
+      "identifier": "tableTennisPaddleAndBall"
+    },
+    "tangerine": {
+      "codepoint": 58363,
+      "fontFamily": "DinkieIcons",
+      "identifier": "tangerine"
+    },
+    "telegram": {
+      "codepoint": 58364,
+      "fontFamily": "DinkieIcons",
+      "identifier": "telegram"
+    },
+    "telegram-alt": {
+      "codepoint": 58365,
+      "fontFamily": "DinkieIcons",
+      "identifier": "telegramAlt"
+    },
+    "telegram-alt-small": {
+      "codepoint": 58366,
+      "fontFamily": "DinkieIcons",
+      "identifier": "telegramAltSmall"
+    },
+    "television": {
+      "codepoint": 58367,
+      "fontFamily": "DinkieIcons",
+      "identifier": "television"
+    },
+    "television-filled": {
+      "codepoint": 58368,
+      "fontFamily": "DinkieIcons",
+      "identifier": "televisionFilled"
+    },
+    "tent": {
+      "codepoint": 58369,
+      "fontFamily": "DinkieIcons",
+      "identifier": "tent"
+    },
+    "test-tube": {
+      "codepoint": 58370,
+      "fontFamily": "DinkieIcons",
+      "identifier": "testTube"
+    },
+    "test-tube-filled": {
+      "codepoint": 58371,
+      "fontFamily": "DinkieIcons",
+      "identifier": "testTubeFilled"
+    },
+    "text-edit": {
+      "codepoint": 58372,
+      "fontFamily": "DinkieIcons",
+      "identifier": "textEdit"
+    },
+    "text-edit-small": {
+      "codepoint": 58373,
+      "fontFamily": "DinkieIcons",
+      "identifier": "textEditSmall"
+    },
+    "thermometer": {
+      "codepoint": 58374,
+      "fontFamily": "DinkieIcons",
+      "identifier": "thermometer"
+    },
+    "thinking-face": {
+      "codepoint": 58375,
+      "fontFamily": "DinkieIcons",
+      "identifier": "thinkingFace"
+    },
+    "three-button-mouse": {
+      "codepoint": 58376,
+      "fontFamily": "DinkieIcons",
+      "identifier": "threeButtonMouse"
+    },
+    "three-button-mouse-alt": {
+      "codepoint": 58377,
+      "fontFamily": "DinkieIcons",
+      "identifier": "threeButtonMouseAlt"
+    },
+    "three-networked-computers": {
+      "codepoint": 58378,
+      "fontFamily": "DinkieIcons",
+      "identifier": "threeNetworkedComputers"
+    },
+    "three-of-bamboos-mahjong": {
+      "codepoint": 58379,
+      "fontFamily": "DinkieIcons",
+      "identifier": "threeOfBamboosMahjong"
+    },
+    "three-of-bamboos-mahjong-filled": {
+      "codepoint": 58380,
+      "fontFamily": "DinkieIcons",
+      "identifier": "threeOfBamboosMahjongFilled"
+    },
+    "three-of-characters-mahjong": {
+      "codepoint": 58381,
+      "fontFamily": "DinkieIcons",
+      "identifier": "threeOfCharactersMahjong"
+    },
+    "three-of-circles-mahjong": {
+      "codepoint": 58382,
+      "fontFamily": "DinkieIcons",
+      "identifier": "threeOfCirclesMahjong"
+    },
+    "three-of-circles-mahjong-filled": {
+      "codepoint": 58383,
+      "fontFamily": "DinkieIcons",
+      "identifier": "threeOfCirclesMahjongFilled"
+    },
+    "thumb-up-face": {
+      "codepoint": 58384,
+      "fontFamily": "DinkieIcons",
+      "identifier": "thumbUpFace"
+    },
+    "thumbs-up-sign": {
+      "codepoint": 58385,
+      "fontFamily": "DinkieIcons",
+      "identifier": "thumbsUpSign"
+    },
+    "thumbs-up-sign-filled": {
+      "codepoint": 58386,
+      "fontFamily": "DinkieIcons",
+      "identifier": "thumbsUpSignFilled"
+    },
+    "tiger-face": {
+      "codepoint": 58387,
+      "fontFamily": "DinkieIcons",
+      "identifier": "tigerFace"
+    },
+    "tiktok": {
+      "codepoint": 58388,
+      "fontFamily": "DinkieIcons",
+      "identifier": "tiktok"
+    },
+    "tiktok-small": {
+      "codepoint": 58389,
+      "fontFamily": "DinkieIcons",
+      "identifier": "tiktokSmall"
+    },
+    "toilet": {
+      "codepoint": 58390,
+      "fontFamily": "DinkieIcons",
+      "identifier": "toilet"
+    },
+    "tomato": {
+      "codepoint": 58391,
+      "fontFamily": "DinkieIcons",
+      "identifier": "tomato"
+    },
+    "top-hat": {
+      "codepoint": 58392,
+      "fontFamily": "DinkieIcons",
+      "identifier": "topHat"
+    },
+    "top-hat-small": {
+      "codepoint": 58393,
+      "fontFamily": "DinkieIcons",
+      "identifier": "topHatSmall"
+    },
+    "torch": {
+      "codepoint": 58394,
+      "fontFamily": "DinkieIcons",
+      "identifier": "torch"
+    },
+    "train": {
+      "codepoint": 58395,
+      "fontFamily": "DinkieIcons",
+      "identifier": "train"
+    },
+    "train-small": {
+      "codepoint": 58396,
+      "fontFamily": "DinkieIcons",
+      "identifier": "trainSmall"
+    },
+    "translate-arabic-latin": {
+      "codepoint": 58397,
+      "fontFamily": "DinkieIcons",
+      "identifier": "translateArabicLatin"
+    },
+    "translate-cyrillic-latin": {
+      "codepoint": 58398,
+      "fontFamily": "DinkieIcons",
+      "identifier": "translateCyrillicLatin"
+    },
+    "translate-greek-latin": {
+      "codepoint": 58399,
+      "fontFamily": "DinkieIcons",
+      "identifier": "translateGreekLatin"
+    },
+    "translate-han-latin": {
+      "codepoint": 58400,
+      "fontFamily": "DinkieIcons",
+      "identifier": "translateHanLatin"
+    },
+    "translate-hangul-latin": {
+      "codepoint": 58401,
+      "fontFamily": "DinkieIcons",
+      "identifier": "translateHangulLatin"
+    },
+    "translate-hebrew-latin": {
+      "codepoint": 58402,
+      "fontFamily": "DinkieIcons",
+      "identifier": "translateHebrewLatin"
+    },
+    "translate-hira-latin": {
+      "codepoint": 58403,
+      "fontFamily": "DinkieIcons",
+      "identifier": "translateHiraLatin"
+    },
+    "translate-latin-han": {
+      "codepoint": 58404,
+      "fontFamily": "DinkieIcons",
+      "identifier": "translateLatinHan"
+    },
+    "translate-thai-latin": {
+      "codepoint": 58405,
+      "fontFamily": "DinkieIcons",
+      "identifier": "translateThaiLatin"
+    },
+    "triangular-ruler": {
+      "codepoint": 58406,
+      "fontFamily": "DinkieIcons",
+      "identifier": "triangularRuler"
+    },
+    "trolleybus": {
+      "codepoint": 58407,
+      "fontFamily": "DinkieIcons",
+      "identifier": "trolleybus"
+    },
+    "trophy": {
+      "codepoint": 58408,
+      "fontFamily": "DinkieIcons",
+      "identifier": "trophy"
+    },
+    "trumpet": {
+      "codepoint": 58409,
+      "fontFamily": "DinkieIcons",
+      "identifier": "trumpet"
+    },
+    "turtle": {
+      "codepoint": 58410,
+      "fontFamily": "DinkieIcons",
+      "identifier": "turtle"
+    },
+    "twitter": {
+      "codepoint": 58411,
+      "fontFamily": "DinkieIcons",
+      "identifier": "twitter"
+    },
+    "twitter-alt": {
+      "codepoint": 58412,
+      "fontFamily": "DinkieIcons",
+      "identifier": "twitterAlt"
+    },
+    "twitter-alt-small": {
+      "codepoint": 58413,
+      "fontFamily": "DinkieIcons",
+      "identifier": "twitterAltSmall"
+    },
+    "twitter-small": {
+      "codepoint": 58414,
+      "fontFamily": "DinkieIcons",
+      "identifier": "twitterSmall"
+    },
+    "two-button-mouse": {
+      "codepoint": 58415,
+      "fontFamily": "DinkieIcons",
+      "identifier": "twoButtonMouse"
+    },
+    "two-button-mouse-filled": {
+      "codepoint": 58416,
+      "fontFamily": "DinkieIcons",
+      "identifier": "twoButtonMouseFilled"
+    },
+    "two-button-mouse-small": {
+      "codepoint": 58417,
+      "fontFamily": "DinkieIcons",
+      "identifier": "twoButtonMouseSmall"
+    },
+    "two-of-bamboos-mahjong": {
+      "codepoint": 58418,
+      "fontFamily": "DinkieIcons",
+      "identifier": "twoOfBamboosMahjong"
+    },
+    "two-of-bamboos-mahjong-filled": {
+      "codepoint": 58419,
+      "fontFamily": "DinkieIcons",
+      "identifier": "twoOfBamboosMahjongFilled"
+    },
+    "two-of-characters-mahjong": {
+      "codepoint": 58420,
+      "fontFamily": "DinkieIcons",
+      "identifier": "twoOfCharactersMahjong"
+    },
+    "two-of-circles-mahjong": {
+      "codepoint": 58421,
+      "fontFamily": "DinkieIcons",
+      "identifier": "twoOfCirclesMahjong"
+    },
+    "two-of-circles-mahjong-filled": {
+      "codepoint": 58422,
+      "fontFamily": "DinkieIcons",
+      "identifier": "twoOfCirclesMahjongFilled"
+    },
+    "u1faaa": {
+      "codepoint": 58423,
+      "fontFamily": "DinkieIcons",
+      "identifier": "u1faaa"
+    },
+    "u1faaa-small": {
+      "codepoint": 58424,
+      "fontFamily": "DinkieIcons",
+      "identifier": "u1faaaSmall"
+    },
+    "u1faab": {
+      "codepoint": 58425,
+      "fontFamily": "DinkieIcons",
+      "identifier": "u1faab"
+    },
+    "u1faab-small": {
+      "codepoint": 58426,
+      "fontFamily": "DinkieIcons",
+      "identifier": "u1faabSmall"
+    },
+    "u1fad9": {
+      "codepoint": 58427,
+      "fontFamily": "DinkieIcons",
+      "identifier": "u1fad9"
+    },
+    "u1fae0": {
+      "codepoint": 58428,
+      "fontFamily": "DinkieIcons",
+      "identifier": "u1fae0"
+    },
+    "u1fae4": {
+      "codepoint": 58429,
+      "fontFamily": "DinkieIcons",
+      "identifier": "u1fae4"
+    },
+    "u1fae5": {
+      "codepoint": 58430,
+      "fontFamily": "DinkieIcons",
+      "identifier": "u1fae5"
+    },
+    "u1fae5-small": {
+      "codepoint": 58431,
+      "fontFamily": "DinkieIcons",
+      "identifier": "u1fae5Small"
+    },
+    "u1fae7": {
+      "codepoint": 58432,
+      "fontFamily": "DinkieIcons",
+      "identifier": "u1fae7"
+    },
+    "umbrella": {
+      "codepoint": 58433,
+      "fontFamily": "DinkieIcons",
+      "identifier": "umbrella"
+    },
+    "umbrella-on-ground": {
+      "codepoint": 58434,
+      "fontFamily": "DinkieIcons",
+      "identifier": "umbrellaOnGround"
+    },
+    "uni5475-box": {
+      "codepoint": 58435,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni5475Box"
+    },
+    "uni5475-box-filled": {
+      "codepoint": 58436,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni5475BoxFilled"
+    },
+    "uni54c8-box": {
+      "codepoint": 58437,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni54c8Box"
+    },
+    "uni54c8-box-filled": {
+      "codepoint": 58438,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni54c8BoxFilled"
+    },
+    "uni597d-box": {
+      "codepoint": 58439,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni597dBox"
+    },
+    "uni597d-box-filled": {
+      "codepoint": 58440,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni597dBoxFilled"
+    },
+    "uni5f3a-box": {
+      "codepoint": 58441,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni5f3aBox"
+    },
+    "uni5f3a-box-filled": {
+      "codepoint": 58442,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni5f3aBoxFilled"
+    },
+    "uni5f97-box": {
+      "codepoint": 58443,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni5f97Box"
+    },
+    "uni5f97-box-filled": {
+      "codepoint": 58444,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni5f97BoxFilled"
+    },
+    "uni6709-box": {
+      "codepoint": 58445,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni6709Box"
+    },
+    "uni6709-box-filled": {
+      "codepoint": 58446,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni6709BoxFilled"
+    },
+    "uni7121-box": {
+      "codepoint": 58447,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni7121Box"
+    },
+    "uni7121-box-filled": {
+      "codepoint": 58448,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni7121BoxFilled"
+    },
+    "uni7981-box": {
+      "codepoint": 58449,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni7981Box"
+    },
+    "uni7981-box-filled": {
+      "codepoint": 58450,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni7981BoxFilled"
+    },
+    "uni8279-circled": {
+      "codepoint": 58451,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni8279Circled"
+    },
+    "uni8279-circled-filled": {
+      "codepoint": 58452,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni8279CircledFilled"
+    },
+    "uni8349-circled": {
+      "codepoint": 58453,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni8349Circled"
+    },
+    "uni8349-circled-filled": {
+      "codepoint": 58454,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni8349CircledFilled"
+    },
+    "uni8d5e-box": {
+      "codepoint": 58455,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni8d5eBox"
+    },
+    "uni8d5e-box-filled": {
+      "codepoint": 58456,
+      "fontFamily": "DinkieIcons",
+      "identifier": "uni8d5eBoxFilled"
+    },
+    "unicode": {
+      "codepoint": 58457,
+      "fontFamily": "DinkieIcons",
+      "identifier": "unicode"
+    },
+    "unicode-small": {
+      "codepoint": 58458,
+      "fontFamily": "DinkieIcons",
+      "identifier": "unicodeSmall"
+    },
+    "unsplash": {
+      "codepoint": 58459,
+      "fontFamily": "DinkieIcons",
+      "identifier": "unsplash"
+    },
+    "unsplash-filled": {
+      "codepoint": 58460,
+      "fontFamily": "DinkieIcons",
+      "identifier": "unsplashFilled"
+    },
+    "upside-down-face": {
+      "codepoint": 58461,
+      "fontFamily": "DinkieIcons",
+      "identifier": "upsideDownFace"
+    },
+    "upside-down-face-filled": {
+      "codepoint": 58462,
+      "fontFamily": "DinkieIcons",
+      "identifier": "upsideDownFaceFilled"
+    },
+    "upside-down-face-small": {
+      "codepoint": 58463,
+      "fontFamily": "DinkieIcons",
+      "identifier": "upsideDownFaceSmall"
+    },
+    "upside-down-face-small-filled": {
+      "codepoint": 58464,
+      "fontFamily": "DinkieIcons",
+      "identifier": "upsideDownFaceSmallFilled"
+    },
+    "victory-hand": {
+      "codepoint": 58465,
+      "fontFamily": "DinkieIcons",
+      "identifier": "victoryHand"
+    },
+    "video-game": {
+      "codepoint": 58466,
+      "fontFamily": "DinkieIcons",
+      "identifier": "videoGame"
+    },
+    "video-game-filled": {
+      "codepoint": 58467,
+      "fontFamily": "DinkieIcons",
+      "identifier": "videoGameFilled"
+    },
+    "video-game-small": {
+      "codepoint": 58468,
+      "fontFamily": "DinkieIcons",
+      "identifier": "videoGameSmall"
+    },
+    "view-grid": {
+      "codepoint": 58469,
+      "fontFamily": "DinkieIcons",
+      "identifier": "viewGrid"
+    },
+    "view-grid-alt": {
+      "codepoint": 58470,
+      "fontFamily": "DinkieIcons",
+      "identifier": "viewGridAlt"
+    },
+    "view-grid-small": {
+      "codepoint": 58471,
+      "fontFamily": "DinkieIcons",
+      "identifier": "viewGridSmall"
+    },
+    "view-list": {
+      "codepoint": 58472,
+      "fontFamily": "DinkieIcons",
+      "identifier": "viewList"
+    },
+    "view-list-small": {
+      "codepoint": 58473,
+      "fontFamily": "DinkieIcons",
+      "identifier": "viewListSmall"
+    },
+    "violin": {
+      "codepoint": 58474,
+      "fontFamily": "DinkieIcons",
+      "identifier": "violin"
+    },
+    "volcano": {
+      "codepoint": 58475,
+      "fontFamily": "DinkieIcons",
+      "identifier": "volcano"
+    },
+    "waning-crescent-moon-symbol": {
+      "codepoint": 58476,
+      "fontFamily": "DinkieIcons",
+      "identifier": "waningCrescentMoonSymbol"
+    },
+    "waning-gibbous-moon-symbol": {
+      "codepoint": 58477,
+      "fontFamily": "DinkieIcons",
+      "identifier": "waningGibbousMoonSymbol"
+    },
+    "watch": {
+      "codepoint": 58478,
+      "fontFamily": "DinkieIcons",
+      "identifier": "watch"
+    },
+    "watermelon": {
+      "codepoint": 58479,
+      "fontFamily": "DinkieIcons",
+      "identifier": "watermelon"
+    },
+    "waxing-crescent-moon-symbol": {
+      "codepoint": 58480,
+      "fontFamily": "DinkieIcons",
+      "identifier": "waxingCrescentMoonSymbol"
+    },
+    "waxing-gibbous-moon-symbol": {
+      "codepoint": 58481,
+      "fontFamily": "DinkieIcons",
+      "identifier": "waxingGibbousMoonSymbol"
+    },
+    "webcam": {
+      "codepoint": 58482,
+      "fontFamily": "DinkieIcons",
+      "identifier": "webcam"
+    },
+    "webcam-small": {
+      "codepoint": 58483,
+      "fontFamily": "DinkieIcons",
+      "identifier": "webcamSmall"
+    },
+    "wechat": {
+      "codepoint": 58484,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wechat"
+    },
+    "wechat-filled": {
+      "codepoint": 58485,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wechatFilled"
+    },
+    "wechat-moments": {
+      "codepoint": 58486,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wechatMoments"
+    },
+    "wechat-moments-small": {
+      "codepoint": 58487,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wechatMomentsSmall"
+    },
+    "wechat-small": {
+      "codepoint": 58488,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wechatSmall"
+    },
+    "wechat-small-filled": {
+      "codepoint": 58489,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wechatSmallFilled"
+    },
+    "west-wind-mahjong": {
+      "codepoint": 58490,
+      "fontFamily": "DinkieIcons",
+      "identifier": "westWindMahjong"
+    },
+    "whats-app": {
+      "codepoint": 58491,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whatsApp"
+    },
+    "white-down-backhand-index": {
+      "codepoint": 58492,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteDownBackhandIndex"
+    },
+    "white-dragon-mahjong": {
+      "codepoint": 58493,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteDragonMahjong"
+    },
+    "white-dragon-mahjong-filled": {
+      "codepoint": 58494,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteDragonMahjongFilled"
+    },
+    "white-heavy-check-mark": {
+      "codepoint": 58495,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteHeavyCheckMark"
+    },
+    "white-heavy-check-mark-filled": {
+      "codepoint": 58496,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteHeavyCheckMarkFilled"
+    },
+    "white-heavy-check-mark-small": {
+      "codepoint": 58497,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteHeavyCheckMarkSmall"
+    },
+    "white-heavy-check-mark-small-filled": {
+      "codepoint": 58498,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteHeavyCheckMarkSmallFilled"
+    },
+    "white-left-backhand-index": {
+      "codepoint": 58499,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteLeftBackhandIndex"
+    },
+    "white-medium-star": {
+      "codepoint": 58500,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteMediumStar"
+    },
+    "white-medium-star-filled": {
+      "codepoint": 58501,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteMediumStarFilled"
+    },
+    "white-medium-star-small": {
+      "codepoint": 58502,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteMediumStarSmall"
+    },
+    "white-medium-star-small-filled": {
+      "codepoint": 58503,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteMediumStarSmallFilled"
+    },
+    "white-right-backhand-index": {
+      "codepoint": 58504,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteRightBackhandIndex"
+    },
+    "white-up-backhand-index": {
+      "codepoint": 58505,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whiteUpBackhandIndex"
+    },
+    "whitesquare": {
+      "codepoint": 58506,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whitesquare"
+    },
+    "whitesquare-small": {
+      "codepoint": 58507,
+      "fontFamily": "DinkieIcons",
+      "identifier": "whitesquareSmall"
+    },
+    "wilted-flower": {
+      "codepoint": 58508,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wiltedFlower"
+    },
+    "window-browser": {
+      "codepoint": 58509,
+      "fontFamily": "DinkieIcons",
+      "identifier": "windowBrowser"
+    },
+    "window-browser-small": {
+      "codepoint": 58510,
+      "fontFamily": "DinkieIcons",
+      "identifier": "windowBrowserSmall"
+    },
+    "windows": {
+      "codepoint": 58511,
+      "fontFamily": "DinkieIcons",
+      "identifier": "windows"
+    },
+    "windows-alt": {
+      "codepoint": 58512,
+      "fontFamily": "DinkieIcons",
+      "identifier": "windowsAlt"
+    },
+    "windows-alt2": {
+      "codepoint": 58513,
+      "fontFamily": "DinkieIcons",
+      "identifier": "windowsAlt2"
+    },
+    "windows-alt3": {
+      "codepoint": 58514,
+      "fontFamily": "DinkieIcons",
+      "identifier": "windowsAlt3"
+    },
+    "windows-small": {
+      "codepoint": 58515,
+      "fontFamily": "DinkieIcons",
+      "identifier": "windowsSmall"
+    },
+    "wine-glass": {
+      "codepoint": 58516,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wineGlass"
+    },
+    "wine-glass-filled": {
+      "codepoint": 58517,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wineGlassFilled"
+    },
+    "winking-face": {
+      "codepoint": 58518,
+      "fontFamily": "DinkieIcons",
+      "identifier": "winkingFace"
+    },
+    "winter-mahjong": {
+      "codepoint": 58519,
+      "fontFamily": "DinkieIcons",
+      "identifier": "winterMahjong"
+    },
+    "wireless": {
+      "codepoint": 58520,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wireless"
+    },
+    "wireless-filled": {
+      "codepoint": 58521,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wirelessFilled"
+    },
+    "wireless-small": {
+      "codepoint": 58522,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wirelessSmall"
+    },
+    "womans-boots": {
+      "codepoint": 58523,
+      "fontFamily": "DinkieIcons",
+      "identifier": "womansBoots"
+    },
+    "womans-hat": {
+      "codepoint": 58524,
+      "fontFamily": "DinkieIcons",
+      "identifier": "womansHat"
+    },
+    "wrapped-present": {
+      "codepoint": 58525,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wrappedPresent"
+    },
+    "wrench": {
+      "codepoint": 58526,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wrench"
+    },
+    "wrench-filled": {
+      "codepoint": 58527,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wrenchFilled"
+    },
+    "wrench-small-filled": {
+      "codepoint": 58528,
+      "fontFamily": "DinkieIcons",
+      "identifier": "wrenchSmallFilled"
+    },
+    "writing-hand": {
+      "codepoint": 58529,
+      "fontFamily": "DinkieIcons",
+      "identifier": "writingHand"
+    },
+    "xiaohongshu": {
+      "codepoint": 58530,
+      "fontFamily": "DinkieIcons",
+      "identifier": "xiaohongshu"
+    },
+    "xiaoyuzhou": {
+      "codepoint": 58531,
+      "fontFamily": "DinkieIcons",
+      "identifier": "xiaoyuzhou"
+    },
+    "zhubai": {
+      "codepoint": 58532,
+      "fontFamily": "DinkieIcons",
+      "identifier": "zhubai"
+    },
+    "zipper-mouth-face": {
+      "codepoint": 58533,
+      "fontFamily": "DinkieIcons",
+      "identifier": "zipperMouthFace"
+    },
+    "zoom-in": {
+      "codepoint": 58534,
+      "fontFamily": "DinkieIcons",
+      "identifier": "zoomIn"
+    },
+    "zoom-in-filled": {
+      "codepoint": 58535,
+      "fontFamily": "DinkieIcons",
+      "identifier": "zoomInFilled"
+    },
+    "zoom-in-small": {
+      "codepoint": 58536,
+      "fontFamily": "DinkieIcons",
+      "identifier": "zoomInSmall"
+    },
+    "zoom-in-small-filled": {
+      "codepoint": 58537,
+      "fontFamily": "DinkieIcons",
+      "identifier": "zoomInSmallFilled"
+    },
+    "zoom-out": {
+      "codepoint": 58538,
+      "fontFamily": "DinkieIcons",
+      "identifier": "zoomOut"
+    },
+    "zoom-out-filled": {
+      "codepoint": 58539,
+      "fontFamily": "DinkieIcons",
+      "identifier": "zoomOutFilled"
+    },
+    "zoom-out-small": {
+      "codepoint": 58540,
+      "fontFamily": "DinkieIcons",
+      "identifier": "zoomOutSmall"
+    },
+    "zoom-out-small-filled": {
+      "codepoint": 58541,
+      "fontFamily": "DinkieIcons",
+      "identifier": "zoomOutSmallFilled"
+    }
+  }
+}

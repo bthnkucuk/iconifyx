@@ -1,0 +1,3050 @@
+{
+  "schemaVersion": 1,
+  "prefix": "maki",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_maki",
+  "info": {
+    "name": "Maki",
+    "author": {
+      "name": "Mapbox",
+      "url": "https://github.com/mapbox/maki"
+    },
+    "license": {
+      "title": "CC0",
+      "spdx": "CC0-1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "total": 604
+  },
+  "fonts": [
+    {
+      "family": "Maki",
+      "nextCodepoint": 57948,
+      "iconCount": 604
+    }
+  ],
+  "icons": {
+    "aerialway": {
+      "codepoint": 57344,
+      "fontFamily": "Maki",
+      "identifier": "aerialway"
+    },
+    "aerialway-11": {
+      "codepoint": 57345,
+      "fontFamily": "Maki",
+      "identifier": "aerialway11"
+    },
+    "aerialway-15": {
+      "codepoint": 57346,
+      "fontFamily": "Maki",
+      "identifier": "aerialway15"
+    },
+    "airfield": {
+      "codepoint": 57347,
+      "fontFamily": "Maki",
+      "identifier": "airfield"
+    },
+    "airfield-11": {
+      "codepoint": 57348,
+      "fontFamily": "Maki",
+      "identifier": "airfield11"
+    },
+    "airfield-15": {
+      "codepoint": 57349,
+      "fontFamily": "Maki",
+      "identifier": "airfield15"
+    },
+    "airport": {
+      "codepoint": 57350,
+      "fontFamily": "Maki",
+      "identifier": "airport"
+    },
+    "airport-11": {
+      "codepoint": 57351,
+      "fontFamily": "Maki",
+      "identifier": "airport11"
+    },
+    "airport-15": {
+      "codepoint": 57352,
+      "fontFamily": "Maki",
+      "identifier": "airport15"
+    },
+    "alcohol-shop": {
+      "codepoint": 57353,
+      "fontFamily": "Maki",
+      "identifier": "alcoholShop"
+    },
+    "alcohol-shop-11": {
+      "codepoint": 57354,
+      "fontFamily": "Maki",
+      "identifier": "alcoholShop11"
+    },
+    "alcohol-shop-15": {
+      "codepoint": 57355,
+      "fontFamily": "Maki",
+      "identifier": "alcoholShop15"
+    },
+    "america-football-11": {
+      "codepoint": 57356,
+      "fontFamily": "Maki",
+      "identifier": "americaFootball11"
+    },
+    "america-football-15": {
+      "codepoint": 57357,
+      "fontFamily": "Maki",
+      "identifier": "americaFootball15"
+    },
+    "american-football": {
+      "codepoint": 57358,
+      "fontFamily": "Maki",
+      "identifier": "americanFootball"
+    },
+    "american-football-11": {
+      "codepoint": 57359,
+      "fontFamily": "Maki",
+      "identifier": "americanFootball11"
+    },
+    "american-football-15": {
+      "codepoint": 57360,
+      "fontFamily": "Maki",
+      "identifier": "americanFootball15"
+    },
+    "amusement-park": {
+      "codepoint": 57361,
+      "fontFamily": "Maki",
+      "identifier": "amusementPark"
+    },
+    "amusement-park-11": {
+      "codepoint": 57362,
+      "fontFamily": "Maki",
+      "identifier": "amusementPark11"
+    },
+    "amusement-park-15": {
+      "codepoint": 57363,
+      "fontFamily": "Maki",
+      "identifier": "amusementPark15"
+    },
+    "animal-shelter": {
+      "codepoint": 57364,
+      "fontFamily": "Maki",
+      "identifier": "animalShelter"
+    },
+    "aquarium": {
+      "codepoint": 57365,
+      "fontFamily": "Maki",
+      "identifier": "aquarium"
+    },
+    "aquarium-11": {
+      "codepoint": 57366,
+      "fontFamily": "Maki",
+      "identifier": "aquarium11"
+    },
+    "aquarium-15": {
+      "codepoint": 57367,
+      "fontFamily": "Maki",
+      "identifier": "aquarium15"
+    },
+    "arrow": {
+      "codepoint": 57368,
+      "fontFamily": "Maki",
+      "identifier": "arrow"
+    },
+    "art-gallery": {
+      "codepoint": 57369,
+      "fontFamily": "Maki",
+      "identifier": "artGallery"
+    },
+    "art-gallery-11": {
+      "codepoint": 57370,
+      "fontFamily": "Maki",
+      "identifier": "artGallery11"
+    },
+    "art-gallery-15": {
+      "codepoint": 57371,
+      "fontFamily": "Maki",
+      "identifier": "artGallery15"
+    },
+    "attraction": {
+      "codepoint": 57372,
+      "fontFamily": "Maki",
+      "identifier": "attraction"
+    },
+    "attraction-11": {
+      "codepoint": 57373,
+      "fontFamily": "Maki",
+      "identifier": "attraction11"
+    },
+    "attraction-15": {
+      "codepoint": 57374,
+      "fontFamily": "Maki",
+      "identifier": "attraction15"
+    },
+    "bakery": {
+      "codepoint": 57375,
+      "fontFamily": "Maki",
+      "identifier": "bakery"
+    },
+    "bakery-11": {
+      "codepoint": 57376,
+      "fontFamily": "Maki",
+      "identifier": "bakery11"
+    },
+    "bakery-15": {
+      "codepoint": 57377,
+      "fontFamily": "Maki",
+      "identifier": "bakery15"
+    },
+    "bank": {
+      "codepoint": 57378,
+      "fontFamily": "Maki",
+      "identifier": "bank"
+    },
+    "bank-11": {
+      "codepoint": 57379,
+      "fontFamily": "Maki",
+      "identifier": "bank11"
+    },
+    "bank-15": {
+      "codepoint": 57380,
+      "fontFamily": "Maki",
+      "identifier": "bank15"
+    },
+    "bank-jp": {
+      "codepoint": 57381,
+      "fontFamily": "Maki",
+      "identifier": "bankJp"
+    },
+    "bank-jp-11": {
+      "codepoint": 57382,
+      "fontFamily": "Maki",
+      "identifier": "bankJp11"
+    },
+    "bank-jp-15": {
+      "codepoint": 57383,
+      "fontFamily": "Maki",
+      "identifier": "bankJp15"
+    },
+    "bar": {
+      "codepoint": 57384,
+      "fontFamily": "Maki",
+      "identifier": "bar"
+    },
+    "bar-11": {
+      "codepoint": 57385,
+      "fontFamily": "Maki",
+      "identifier": "bar11"
+    },
+    "bar-15": {
+      "codepoint": 57386,
+      "fontFamily": "Maki",
+      "identifier": "bar15"
+    },
+    "barrier": {
+      "codepoint": 57387,
+      "fontFamily": "Maki",
+      "identifier": "barrier"
+    },
+    "barrier-11": {
+      "codepoint": 57388,
+      "fontFamily": "Maki",
+      "identifier": "barrier11"
+    },
+    "barrier-15": {
+      "codepoint": 57389,
+      "fontFamily": "Maki",
+      "identifier": "barrier15"
+    },
+    "baseball": {
+      "codepoint": 57390,
+      "fontFamily": "Maki",
+      "identifier": "baseball"
+    },
+    "baseball-11": {
+      "codepoint": 57391,
+      "fontFamily": "Maki",
+      "identifier": "baseball11"
+    },
+    "baseball-15": {
+      "codepoint": 57392,
+      "fontFamily": "Maki",
+      "identifier": "baseball15"
+    },
+    "basketball": {
+      "codepoint": 57393,
+      "fontFamily": "Maki",
+      "identifier": "basketball"
+    },
+    "basketball-11": {
+      "codepoint": 57394,
+      "fontFamily": "Maki",
+      "identifier": "basketball11"
+    },
+    "basketball-15": {
+      "codepoint": 57395,
+      "fontFamily": "Maki",
+      "identifier": "basketball15"
+    },
+    "bbq": {
+      "codepoint": 57396,
+      "fontFamily": "Maki",
+      "identifier": "bbq"
+    },
+    "bbq-11": {
+      "codepoint": 57397,
+      "fontFamily": "Maki",
+      "identifier": "bbq11"
+    },
+    "bbq-15": {
+      "codepoint": 57398,
+      "fontFamily": "Maki",
+      "identifier": "bbq15"
+    },
+    "beach": {
+      "codepoint": 57399,
+      "fontFamily": "Maki",
+      "identifier": "beach"
+    },
+    "beach-11": {
+      "codepoint": 57400,
+      "fontFamily": "Maki",
+      "identifier": "beach11"
+    },
+    "beach-15": {
+      "codepoint": 57401,
+      "fontFamily": "Maki",
+      "identifier": "beach15"
+    },
+    "beer": {
+      "codepoint": 57402,
+      "fontFamily": "Maki",
+      "identifier": "beer"
+    },
+    "beer-11": {
+      "codepoint": 57403,
+      "fontFamily": "Maki",
+      "identifier": "beer11"
+    },
+    "beer-15": {
+      "codepoint": 57404,
+      "fontFamily": "Maki",
+      "identifier": "beer15"
+    },
+    "bicycle": {
+      "codepoint": 57405,
+      "fontFamily": "Maki",
+      "identifier": "bicycle"
+    },
+    "bicycle-11": {
+      "codepoint": 57406,
+      "fontFamily": "Maki",
+      "identifier": "bicycle11"
+    },
+    "bicycle-15": {
+      "codepoint": 57407,
+      "fontFamily": "Maki",
+      "identifier": "bicycle15"
+    },
+    "bicycle-share": {
+      "codepoint": 57408,
+      "fontFamily": "Maki",
+      "identifier": "bicycleShare"
+    },
+    "bicycle-share-11": {
+      "codepoint": 57409,
+      "fontFamily": "Maki",
+      "identifier": "bicycleShare11"
+    },
+    "bicycle-share-15": {
+      "codepoint": 57410,
+      "fontFamily": "Maki",
+      "identifier": "bicycleShare15"
+    },
+    "blood-bank": {
+      "codepoint": 57411,
+      "fontFamily": "Maki",
+      "identifier": "bloodBank"
+    },
+    "blood-bank-11": {
+      "codepoint": 57412,
+      "fontFamily": "Maki",
+      "identifier": "bloodBank11"
+    },
+    "blood-bank-15": {
+      "codepoint": 57413,
+      "fontFamily": "Maki",
+      "identifier": "bloodBank15"
+    },
+    "bowling-alley": {
+      "codepoint": 57414,
+      "fontFamily": "Maki",
+      "identifier": "bowlingAlley"
+    },
+    "bowling-alley-11": {
+      "codepoint": 57415,
+      "fontFamily": "Maki",
+      "identifier": "bowlingAlley11"
+    },
+    "bowling-alley-15": {
+      "codepoint": 57416,
+      "fontFamily": "Maki",
+      "identifier": "bowlingAlley15"
+    },
+    "bridge": {
+      "codepoint": 57417,
+      "fontFamily": "Maki",
+      "identifier": "bridge"
+    },
+    "bridge-11": {
+      "codepoint": 57418,
+      "fontFamily": "Maki",
+      "identifier": "bridge11"
+    },
+    "bridge-15": {
+      "codepoint": 57419,
+      "fontFamily": "Maki",
+      "identifier": "bridge15"
+    },
+    "buddhism-11": {
+      "codepoint": 57420,
+      "fontFamily": "Maki",
+      "identifier": "buddhism11"
+    },
+    "buddhism-15": {
+      "codepoint": 57421,
+      "fontFamily": "Maki",
+      "identifier": "buddhism15"
+    },
+    "building": {
+      "codepoint": 57422,
+      "fontFamily": "Maki",
+      "identifier": "building"
+    },
+    "building-11": {
+      "codepoint": 57423,
+      "fontFamily": "Maki",
+      "identifier": "building11"
+    },
+    "building-15": {
+      "codepoint": 57424,
+      "fontFamily": "Maki",
+      "identifier": "building15"
+    },
+    "building-alt1": {
+      "codepoint": 57425,
+      "fontFamily": "Maki",
+      "identifier": "buildingAlt1"
+    },
+    "building-alt1-11": {
+      "codepoint": 57426,
+      "fontFamily": "Maki",
+      "identifier": "buildingAlt111"
+    },
+    "building-alt1-15": {
+      "codepoint": 57427,
+      "fontFamily": "Maki",
+      "identifier": "buildingAlt115"
+    },
+    "bus": {
+      "codepoint": 57428,
+      "fontFamily": "Maki",
+      "identifier": "bus"
+    },
+    "bus-11": {
+      "codepoint": 57429,
+      "fontFamily": "Maki",
+      "identifier": "bus11"
+    },
+    "bus-15": {
+      "codepoint": 57430,
+      "fontFamily": "Maki",
+      "identifier": "bus15"
+    },
+    "cafe": {
+      "codepoint": 57431,
+      "fontFamily": "Maki",
+      "identifier": "cafe"
+    },
+    "cafe-11": {
+      "codepoint": 57432,
+      "fontFamily": "Maki",
+      "identifier": "cafe11"
+    },
+    "cafe-15": {
+      "codepoint": 57433,
+      "fontFamily": "Maki",
+      "identifier": "cafe15"
+    },
+    "campsite": {
+      "codepoint": 57434,
+      "fontFamily": "Maki",
+      "identifier": "campsite"
+    },
+    "campsite-11": {
+      "codepoint": 57435,
+      "fontFamily": "Maki",
+      "identifier": "campsite11"
+    },
+    "campsite-15": {
+      "codepoint": 57436,
+      "fontFamily": "Maki",
+      "identifier": "campsite15"
+    },
+    "car": {
+      "codepoint": 57437,
+      "fontFamily": "Maki",
+      "identifier": "car"
+    },
+    "car-11": {
+      "codepoint": 57438,
+      "fontFamily": "Maki",
+      "identifier": "car11"
+    },
+    "car-15": {
+      "codepoint": 57439,
+      "fontFamily": "Maki",
+      "identifier": "car15"
+    },
+    "car-rental": {
+      "codepoint": 57440,
+      "fontFamily": "Maki",
+      "identifier": "carRental"
+    },
+    "car-rental-11": {
+      "codepoint": 57441,
+      "fontFamily": "Maki",
+      "identifier": "carRental11"
+    },
+    "car-rental-15": {
+      "codepoint": 57442,
+      "fontFamily": "Maki",
+      "identifier": "carRental15"
+    },
+    "car-repair": {
+      "codepoint": 57443,
+      "fontFamily": "Maki",
+      "identifier": "carRepair"
+    },
+    "car-repair-11": {
+      "codepoint": 57444,
+      "fontFamily": "Maki",
+      "identifier": "carRepair11"
+    },
+    "car-repair-15": {
+      "codepoint": 57445,
+      "fontFamily": "Maki",
+      "identifier": "carRepair15"
+    },
+    "casino": {
+      "codepoint": 57446,
+      "fontFamily": "Maki",
+      "identifier": "casino"
+    },
+    "casino-11": {
+      "codepoint": 57447,
+      "fontFamily": "Maki",
+      "identifier": "casino11"
+    },
+    "casino-15": {
+      "codepoint": 57448,
+      "fontFamily": "Maki",
+      "identifier": "casino15"
+    },
+    "castle": {
+      "codepoint": 57449,
+      "fontFamily": "Maki",
+      "identifier": "castle"
+    },
+    "castle-11": {
+      "codepoint": 57450,
+      "fontFamily": "Maki",
+      "identifier": "castle11"
+    },
+    "castle-15": {
+      "codepoint": 57451,
+      "fontFamily": "Maki",
+      "identifier": "castle15"
+    },
+    "castle-jp": {
+      "codepoint": 57452,
+      "fontFamily": "Maki",
+      "identifier": "castleJp"
+    },
+    "castle-jp-11": {
+      "codepoint": 57453,
+      "fontFamily": "Maki",
+      "identifier": "castleJp11"
+    },
+    "castle-jp-15": {
+      "codepoint": 57454,
+      "fontFamily": "Maki",
+      "identifier": "castleJp15"
+    },
+    "caution": {
+      "codepoint": 57455,
+      "fontFamily": "Maki",
+      "identifier": "caution"
+    },
+    "cemetery": {
+      "codepoint": 57456,
+      "fontFamily": "Maki",
+      "identifier": "cemetery"
+    },
+    "cemetery-11": {
+      "codepoint": 57457,
+      "fontFamily": "Maki",
+      "identifier": "cemetery11"
+    },
+    "cemetery-15": {
+      "codepoint": 57458,
+      "fontFamily": "Maki",
+      "identifier": "cemetery15"
+    },
+    "cemetery-jp": {
+      "codepoint": 57459,
+      "fontFamily": "Maki",
+      "identifier": "cemeteryJp"
+    },
+    "cemetery-jp-11": {
+      "codepoint": 57460,
+      "fontFamily": "Maki",
+      "identifier": "cemeteryJp11"
+    },
+    "cemetery-jp-15": {
+      "codepoint": 57461,
+      "fontFamily": "Maki",
+      "identifier": "cemeteryJp15"
+    },
+    "charging-station": {
+      "codepoint": 57462,
+      "fontFamily": "Maki",
+      "identifier": "chargingStation"
+    },
+    "charging-station-11": {
+      "codepoint": 57463,
+      "fontFamily": "Maki",
+      "identifier": "chargingStation11"
+    },
+    "charging-station-15": {
+      "codepoint": 57464,
+      "fontFamily": "Maki",
+      "identifier": "chargingStation15"
+    },
+    "cinema": {
+      "codepoint": 57465,
+      "fontFamily": "Maki",
+      "identifier": "cinema"
+    },
+    "cinema-11": {
+      "codepoint": 57466,
+      "fontFamily": "Maki",
+      "identifier": "cinema11"
+    },
+    "cinema-15": {
+      "codepoint": 57467,
+      "fontFamily": "Maki",
+      "identifier": "cinema15"
+    },
+    "circle": {
+      "codepoint": 57468,
+      "fontFamily": "Maki",
+      "identifier": "circle"
+    },
+    "circle-11": {
+      "codepoint": 57469,
+      "fontFamily": "Maki",
+      "identifier": "circle11"
+    },
+    "circle-15": {
+      "codepoint": 57470,
+      "fontFamily": "Maki",
+      "identifier": "circle15"
+    },
+    "circle-stroked": {
+      "codepoint": 57471,
+      "fontFamily": "Maki",
+      "identifier": "circleStroked"
+    },
+    "circle-stroked-11": {
+      "codepoint": 57472,
+      "fontFamily": "Maki",
+      "identifier": "circleStroked11"
+    },
+    "circle-stroked-15": {
+      "codepoint": 57473,
+      "fontFamily": "Maki",
+      "identifier": "circleStroked15"
+    },
+    "city": {
+      "codepoint": 57474,
+      "fontFamily": "Maki",
+      "identifier": "city"
+    },
+    "city-11": {
+      "codepoint": 57475,
+      "fontFamily": "Maki",
+      "identifier": "city11"
+    },
+    "city-15": {
+      "codepoint": 57476,
+      "fontFamily": "Maki",
+      "identifier": "city15"
+    },
+    "clothing-store": {
+      "codepoint": 57477,
+      "fontFamily": "Maki",
+      "identifier": "clothingStore"
+    },
+    "clothing-store-11": {
+      "codepoint": 57478,
+      "fontFamily": "Maki",
+      "identifier": "clothingStore11"
+    },
+    "clothing-store-15": {
+      "codepoint": 57479,
+      "fontFamily": "Maki",
+      "identifier": "clothingStore15"
+    },
+    "college": {
+      "codepoint": 57480,
+      "fontFamily": "Maki",
+      "identifier": "college"
+    },
+    "college-11": {
+      "codepoint": 57481,
+      "fontFamily": "Maki",
+      "identifier": "college11"
+    },
+    "college-15": {
+      "codepoint": 57482,
+      "fontFamily": "Maki",
+      "identifier": "college15"
+    },
+    "college-jp": {
+      "codepoint": 57483,
+      "fontFamily": "Maki",
+      "identifier": "collegeJp"
+    },
+    "college-jp-11": {
+      "codepoint": 57484,
+      "fontFamily": "Maki",
+      "identifier": "collegeJp11"
+    },
+    "college-jp-15": {
+      "codepoint": 57485,
+      "fontFamily": "Maki",
+      "identifier": "collegeJp15"
+    },
+    "commercial": {
+      "codepoint": 57486,
+      "fontFamily": "Maki",
+      "identifier": "commercial"
+    },
+    "commercial-11": {
+      "codepoint": 57487,
+      "fontFamily": "Maki",
+      "identifier": "commercial11"
+    },
+    "commercial-15": {
+      "codepoint": 57488,
+      "fontFamily": "Maki",
+      "identifier": "commercial15"
+    },
+    "communications-tower": {
+      "codepoint": 57489,
+      "fontFamily": "Maki",
+      "identifier": "communicationsTower"
+    },
+    "communications-tower-11": {
+      "codepoint": 57490,
+      "fontFamily": "Maki",
+      "identifier": "communicationsTower11"
+    },
+    "communications-tower-15": {
+      "codepoint": 57491,
+      "fontFamily": "Maki",
+      "identifier": "communicationsTower15"
+    },
+    "confectionary-11": {
+      "codepoint": 57492,
+      "fontFamily": "Maki",
+      "identifier": "confectionary11"
+    },
+    "confectionary-15": {
+      "codepoint": 57493,
+      "fontFamily": "Maki",
+      "identifier": "confectionary15"
+    },
+    "confectionery": {
+      "codepoint": 57494,
+      "fontFamily": "Maki",
+      "identifier": "confectionery"
+    },
+    "confectionery-11": {
+      "codepoint": 57495,
+      "fontFamily": "Maki",
+      "identifier": "confectionery11"
+    },
+    "confectionery-15": {
+      "codepoint": 57496,
+      "fontFamily": "Maki",
+      "identifier": "confectionery15"
+    },
+    "construction": {
+      "codepoint": 57497,
+      "fontFamily": "Maki",
+      "identifier": "construction"
+    },
+    "convenience": {
+      "codepoint": 57498,
+      "fontFamily": "Maki",
+      "identifier": "convenience"
+    },
+    "convenience-11": {
+      "codepoint": 57499,
+      "fontFamily": "Maki",
+      "identifier": "convenience11"
+    },
+    "convenience-15": {
+      "codepoint": 57500,
+      "fontFamily": "Maki",
+      "identifier": "convenience15"
+    },
+    "convenience-store-11": {
+      "codepoint": 57501,
+      "fontFamily": "Maki",
+      "identifier": "convenienceStore11"
+    },
+    "convenience-store-15": {
+      "codepoint": 57502,
+      "fontFamily": "Maki",
+      "identifier": "convenienceStore15"
+    },
+    "cricket": {
+      "codepoint": 57503,
+      "fontFamily": "Maki",
+      "identifier": "cricket"
+    },
+    "cricket-11": {
+      "codepoint": 57504,
+      "fontFamily": "Maki",
+      "identifier": "cricket11"
+    },
+    "cricket-15": {
+      "codepoint": 57505,
+      "fontFamily": "Maki",
+      "identifier": "cricket15"
+    },
+    "cross": {
+      "codepoint": 57506,
+      "fontFamily": "Maki",
+      "identifier": "cross"
+    },
+    "cross-11": {
+      "codepoint": 57507,
+      "fontFamily": "Maki",
+      "identifier": "cross11"
+    },
+    "cross-15": {
+      "codepoint": 57508,
+      "fontFamily": "Maki",
+      "identifier": "cross15"
+    },
+    "dam": {
+      "codepoint": 57509,
+      "fontFamily": "Maki",
+      "identifier": "dam"
+    },
+    "dam-11": {
+      "codepoint": 57510,
+      "fontFamily": "Maki",
+      "identifier": "dam11"
+    },
+    "dam-15": {
+      "codepoint": 57511,
+      "fontFamily": "Maki",
+      "identifier": "dam15"
+    },
+    "danger": {
+      "codepoint": 57512,
+      "fontFamily": "Maki",
+      "identifier": "danger"
+    },
+    "danger-11": {
+      "codepoint": 57513,
+      "fontFamily": "Maki",
+      "identifier": "danger11"
+    },
+    "danger-15": {
+      "codepoint": 57514,
+      "fontFamily": "Maki",
+      "identifier": "danger15"
+    },
+    "defibrillator": {
+      "codepoint": 57515,
+      "fontFamily": "Maki",
+      "identifier": "defibrillator"
+    },
+    "defibrillator-11": {
+      "codepoint": 57516,
+      "fontFamily": "Maki",
+      "identifier": "defibrillator11"
+    },
+    "defibrillator-15": {
+      "codepoint": 57517,
+      "fontFamily": "Maki",
+      "identifier": "defibrillator15"
+    },
+    "dentist": {
+      "codepoint": 57518,
+      "fontFamily": "Maki",
+      "identifier": "dentist"
+    },
+    "dentist-11": {
+      "codepoint": 57519,
+      "fontFamily": "Maki",
+      "identifier": "dentist11"
+    },
+    "dentist-15": {
+      "codepoint": 57520,
+      "fontFamily": "Maki",
+      "identifier": "dentist15"
+    },
+    "diamond": {
+      "codepoint": 57521,
+      "fontFamily": "Maki",
+      "identifier": "diamond"
+    },
+    "doctor": {
+      "codepoint": 57522,
+      "fontFamily": "Maki",
+      "identifier": "doctor"
+    },
+    "doctor-11": {
+      "codepoint": 57523,
+      "fontFamily": "Maki",
+      "identifier": "doctor11"
+    },
+    "doctor-15": {
+      "codepoint": 57524,
+      "fontFamily": "Maki",
+      "identifier": "doctor15"
+    },
+    "dog-park": {
+      "codepoint": 57525,
+      "fontFamily": "Maki",
+      "identifier": "dogPark"
+    },
+    "dog-park-11": {
+      "codepoint": 57526,
+      "fontFamily": "Maki",
+      "identifier": "dogPark11"
+    },
+    "dog-park-15": {
+      "codepoint": 57527,
+      "fontFamily": "Maki",
+      "identifier": "dogPark15"
+    },
+    "drinking-water": {
+      "codepoint": 57528,
+      "fontFamily": "Maki",
+      "identifier": "drinkingWater"
+    },
+    "drinking-water-11": {
+      "codepoint": 57529,
+      "fontFamily": "Maki",
+      "identifier": "drinkingWater11"
+    },
+    "drinking-water-15": {
+      "codepoint": 57530,
+      "fontFamily": "Maki",
+      "identifier": "drinkingWater15"
+    },
+    "elevator": {
+      "codepoint": 57531,
+      "fontFamily": "Maki",
+      "identifier": "elevator"
+    },
+    "embassy": {
+      "codepoint": 57532,
+      "fontFamily": "Maki",
+      "identifier": "embassy"
+    },
+    "embassy-11": {
+      "codepoint": 57533,
+      "fontFamily": "Maki",
+      "identifier": "embassy11"
+    },
+    "embassy-15": {
+      "codepoint": 57534,
+      "fontFamily": "Maki",
+      "identifier": "embassy15"
+    },
+    "emergency-phone": {
+      "codepoint": 57535,
+      "fontFamily": "Maki",
+      "identifier": "emergencyPhone"
+    },
+    "emergency-phone-11": {
+      "codepoint": 57536,
+      "fontFamily": "Maki",
+      "identifier": "emergencyPhone11"
+    },
+    "emergency-phone-15": {
+      "codepoint": 57537,
+      "fontFamily": "Maki",
+      "identifier": "emergencyPhone15"
+    },
+    "entrance": {
+      "codepoint": 57538,
+      "fontFamily": "Maki",
+      "identifier": "entrance"
+    },
+    "entrance-11": {
+      "codepoint": 57539,
+      "fontFamily": "Maki",
+      "identifier": "entrance11"
+    },
+    "entrance-15": {
+      "codepoint": 57540,
+      "fontFamily": "Maki",
+      "identifier": "entrance15"
+    },
+    "entrance-alt1": {
+      "codepoint": 57541,
+      "fontFamily": "Maki",
+      "identifier": "entranceAlt1"
+    },
+    "entrance-alt1-11": {
+      "codepoint": 57542,
+      "fontFamily": "Maki",
+      "identifier": "entranceAlt111"
+    },
+    "entrance-alt1-15": {
+      "codepoint": 57543,
+      "fontFamily": "Maki",
+      "identifier": "entranceAlt115"
+    },
+    "farm": {
+      "codepoint": 57544,
+      "fontFamily": "Maki",
+      "identifier": "farm"
+    },
+    "farm-11": {
+      "codepoint": 57545,
+      "fontFamily": "Maki",
+      "identifier": "farm11"
+    },
+    "farm-15": {
+      "codepoint": 57546,
+      "fontFamily": "Maki",
+      "identifier": "farm15"
+    },
+    "fast-food": {
+      "codepoint": 57547,
+      "fontFamily": "Maki",
+      "identifier": "fastFood"
+    },
+    "fast-food-11": {
+      "codepoint": 57548,
+      "fontFamily": "Maki",
+      "identifier": "fastFood11"
+    },
+    "fast-food-15": {
+      "codepoint": 57549,
+      "fontFamily": "Maki",
+      "identifier": "fastFood15"
+    },
+    "fence": {
+      "codepoint": 57550,
+      "fontFamily": "Maki",
+      "identifier": "fence"
+    },
+    "fence-11": {
+      "codepoint": 57551,
+      "fontFamily": "Maki",
+      "identifier": "fence11"
+    },
+    "fence-15": {
+      "codepoint": 57552,
+      "fontFamily": "Maki",
+      "identifier": "fence15"
+    },
+    "ferry": {
+      "codepoint": 57553,
+      "fontFamily": "Maki",
+      "identifier": "ferry"
+    },
+    "ferry-11": {
+      "codepoint": 57554,
+      "fontFamily": "Maki",
+      "identifier": "ferry11"
+    },
+    "ferry-15": {
+      "codepoint": 57555,
+      "fontFamily": "Maki",
+      "identifier": "ferry15"
+    },
+    "ferry-jp": {
+      "codepoint": 57556,
+      "fontFamily": "Maki",
+      "identifier": "ferryJp"
+    },
+    "fire-station": {
+      "codepoint": 57557,
+      "fontFamily": "Maki",
+      "identifier": "fireStation"
+    },
+    "fire-station-11": {
+      "codepoint": 57558,
+      "fontFamily": "Maki",
+      "identifier": "fireStation11"
+    },
+    "fire-station-15": {
+      "codepoint": 57559,
+      "fontFamily": "Maki",
+      "identifier": "fireStation15"
+    },
+    "fire-station-jp": {
+      "codepoint": 57560,
+      "fontFamily": "Maki",
+      "identifier": "fireStationJp"
+    },
+    "fire-station-jp-11": {
+      "codepoint": 57561,
+      "fontFamily": "Maki",
+      "identifier": "fireStationJp11"
+    },
+    "fire-station-jp-15": {
+      "codepoint": 57562,
+      "fontFamily": "Maki",
+      "identifier": "fireStationJp15"
+    },
+    "fitness-center-11": {
+      "codepoint": 57563,
+      "fontFamily": "Maki",
+      "identifier": "fitnessCenter11"
+    },
+    "fitness-center-15": {
+      "codepoint": 57564,
+      "fontFamily": "Maki",
+      "identifier": "fitnessCenter15"
+    },
+    "fitness-centre": {
+      "codepoint": 57565,
+      "fontFamily": "Maki",
+      "identifier": "fitnessCentre"
+    },
+    "fitness-centre-11": {
+      "codepoint": 57566,
+      "fontFamily": "Maki",
+      "identifier": "fitnessCentre11"
+    },
+    "fitness-centre-15": {
+      "codepoint": 57567,
+      "fontFamily": "Maki",
+      "identifier": "fitnessCentre15"
+    },
+    "florist": {
+      "codepoint": 57568,
+      "fontFamily": "Maki",
+      "identifier": "florist"
+    },
+    "florist-11": {
+      "codepoint": 57569,
+      "fontFamily": "Maki",
+      "identifier": "florist11"
+    },
+    "florist-15": {
+      "codepoint": 57570,
+      "fontFamily": "Maki",
+      "identifier": "florist15"
+    },
+    "fuel": {
+      "codepoint": 57571,
+      "fontFamily": "Maki",
+      "identifier": "fuel"
+    },
+    "fuel-11": {
+      "codepoint": 57572,
+      "fontFamily": "Maki",
+      "identifier": "fuel11"
+    },
+    "fuel-15": {
+      "codepoint": 57573,
+      "fontFamily": "Maki",
+      "identifier": "fuel15"
+    },
+    "furniture": {
+      "codepoint": 57574,
+      "fontFamily": "Maki",
+      "identifier": "furniture"
+    },
+    "furniture-11": {
+      "codepoint": 57575,
+      "fontFamily": "Maki",
+      "identifier": "furniture11"
+    },
+    "furniture-15": {
+      "codepoint": 57576,
+      "fontFamily": "Maki",
+      "identifier": "furniture15"
+    },
+    "gaming": {
+      "codepoint": 57577,
+      "fontFamily": "Maki",
+      "identifier": "gaming"
+    },
+    "gaming-11": {
+      "codepoint": 57578,
+      "fontFamily": "Maki",
+      "identifier": "gaming11"
+    },
+    "gaming-15": {
+      "codepoint": 57579,
+      "fontFamily": "Maki",
+      "identifier": "gaming15"
+    },
+    "garden": {
+      "codepoint": 57580,
+      "fontFamily": "Maki",
+      "identifier": "garden"
+    },
+    "garden-11": {
+      "codepoint": 57581,
+      "fontFamily": "Maki",
+      "identifier": "garden11"
+    },
+    "garden-15": {
+      "codepoint": 57582,
+      "fontFamily": "Maki",
+      "identifier": "garden15"
+    },
+    "garden-center-11": {
+      "codepoint": 57583,
+      "fontFamily": "Maki",
+      "identifier": "gardenCenter11"
+    },
+    "garden-center-15": {
+      "codepoint": 57584,
+      "fontFamily": "Maki",
+      "identifier": "gardenCenter15"
+    },
+    "garden-centre": {
+      "codepoint": 57585,
+      "fontFamily": "Maki",
+      "identifier": "gardenCentre"
+    },
+    "garden-centre-11": {
+      "codepoint": 57586,
+      "fontFamily": "Maki",
+      "identifier": "gardenCentre11"
+    },
+    "garden-centre-15": {
+      "codepoint": 57587,
+      "fontFamily": "Maki",
+      "identifier": "gardenCentre15"
+    },
+    "gate": {
+      "codepoint": 57588,
+      "fontFamily": "Maki",
+      "identifier": "gate"
+    },
+    "gift": {
+      "codepoint": 57589,
+      "fontFamily": "Maki",
+      "identifier": "gift"
+    },
+    "gift-11": {
+      "codepoint": 57590,
+      "fontFamily": "Maki",
+      "identifier": "gift11"
+    },
+    "gift-15": {
+      "codepoint": 57591,
+      "fontFamily": "Maki",
+      "identifier": "gift15"
+    },
+    "globe": {
+      "codepoint": 57592,
+      "fontFamily": "Maki",
+      "identifier": "globe"
+    },
+    "globe-11": {
+      "codepoint": 57593,
+      "fontFamily": "Maki",
+      "identifier": "globe11"
+    },
+    "globe-15": {
+      "codepoint": 57594,
+      "fontFamily": "Maki",
+      "identifier": "globe15"
+    },
+    "golf": {
+      "codepoint": 57595,
+      "fontFamily": "Maki",
+      "identifier": "golf"
+    },
+    "golf-11": {
+      "codepoint": 57596,
+      "fontFamily": "Maki",
+      "identifier": "golf11"
+    },
+    "golf-15": {
+      "codepoint": 57597,
+      "fontFamily": "Maki",
+      "identifier": "golf15"
+    },
+    "grocery": {
+      "codepoint": 57598,
+      "fontFamily": "Maki",
+      "identifier": "grocery"
+    },
+    "grocery-11": {
+      "codepoint": 57599,
+      "fontFamily": "Maki",
+      "identifier": "grocery11"
+    },
+    "grocery-15": {
+      "codepoint": 57600,
+      "fontFamily": "Maki",
+      "identifier": "grocery15"
+    },
+    "hairdresser": {
+      "codepoint": 57601,
+      "fontFamily": "Maki",
+      "identifier": "hairdresser"
+    },
+    "hairdresser-11": {
+      "codepoint": 57602,
+      "fontFamily": "Maki",
+      "identifier": "hairdresser11"
+    },
+    "hairdresser-15": {
+      "codepoint": 57603,
+      "fontFamily": "Maki",
+      "identifier": "hairdresser15"
+    },
+    "harbor": {
+      "codepoint": 57604,
+      "fontFamily": "Maki",
+      "identifier": "harbor"
+    },
+    "harbor-11": {
+      "codepoint": 57605,
+      "fontFamily": "Maki",
+      "identifier": "harbor11"
+    },
+    "harbor-15": {
+      "codepoint": 57606,
+      "fontFamily": "Maki",
+      "identifier": "harbor15"
+    },
+    "hardware": {
+      "codepoint": 57607,
+      "fontFamily": "Maki",
+      "identifier": "hardware"
+    },
+    "hardware-11": {
+      "codepoint": 57608,
+      "fontFamily": "Maki",
+      "identifier": "hardware11"
+    },
+    "hardware-15": {
+      "codepoint": 57609,
+      "fontFamily": "Maki",
+      "identifier": "hardware15"
+    },
+    "heart": {
+      "codepoint": 57610,
+      "fontFamily": "Maki",
+      "identifier": "heart"
+    },
+    "heart-11": {
+      "codepoint": 57611,
+      "fontFamily": "Maki",
+      "identifier": "heart11"
+    },
+    "heart-15": {
+      "codepoint": 57612,
+      "fontFamily": "Maki",
+      "identifier": "heart15"
+    },
+    "heliport": {
+      "codepoint": 57613,
+      "fontFamily": "Maki",
+      "identifier": "heliport"
+    },
+    "heliport-11": {
+      "codepoint": 57614,
+      "fontFamily": "Maki",
+      "identifier": "heliport11"
+    },
+    "heliport-15": {
+      "codepoint": 57615,
+      "fontFamily": "Maki",
+      "identifier": "heliport15"
+    },
+    "highway-rest-area": {
+      "codepoint": 57616,
+      "fontFamily": "Maki",
+      "identifier": "highwayRestArea"
+    },
+    "historic": {
+      "codepoint": 57617,
+      "fontFamily": "Maki",
+      "identifier": "historic"
+    },
+    "home": {
+      "codepoint": 57618,
+      "fontFamily": "Maki",
+      "identifier": "home"
+    },
+    "home-11": {
+      "codepoint": 57619,
+      "fontFamily": "Maki",
+      "identifier": "home11"
+    },
+    "home-15": {
+      "codepoint": 57620,
+      "fontFamily": "Maki",
+      "identifier": "home15"
+    },
+    "horse-riding": {
+      "codepoint": 57621,
+      "fontFamily": "Maki",
+      "identifier": "horseRiding"
+    },
+    "horse-riding-11": {
+      "codepoint": 57622,
+      "fontFamily": "Maki",
+      "identifier": "horseRiding11"
+    },
+    "horse-riding-15": {
+      "codepoint": 57623,
+      "fontFamily": "Maki",
+      "identifier": "horseRiding15"
+    },
+    "hospital": {
+      "codepoint": 57624,
+      "fontFamily": "Maki",
+      "identifier": "hospital"
+    },
+    "hospital-11": {
+      "codepoint": 57625,
+      "fontFamily": "Maki",
+      "identifier": "hospital11"
+    },
+    "hospital-15": {
+      "codepoint": 57626,
+      "fontFamily": "Maki",
+      "identifier": "hospital15"
+    },
+    "hospital-jp": {
+      "codepoint": 57627,
+      "fontFamily": "Maki",
+      "identifier": "hospitalJp"
+    },
+    "hospital-jp-11": {
+      "codepoint": 57628,
+      "fontFamily": "Maki",
+      "identifier": "hospitalJp11"
+    },
+    "hospital-jp-15": {
+      "codepoint": 57629,
+      "fontFamily": "Maki",
+      "identifier": "hospitalJp15"
+    },
+    "hot-spring": {
+      "codepoint": 57630,
+      "fontFamily": "Maki",
+      "identifier": "hotSpring"
+    },
+    "ice-cream": {
+      "codepoint": 57631,
+      "fontFamily": "Maki",
+      "identifier": "iceCream"
+    },
+    "ice-cream-11": {
+      "codepoint": 57632,
+      "fontFamily": "Maki",
+      "identifier": "iceCream11"
+    },
+    "ice-cream-15": {
+      "codepoint": 57633,
+      "fontFamily": "Maki",
+      "identifier": "iceCream15"
+    },
+    "industry": {
+      "codepoint": 57634,
+      "fontFamily": "Maki",
+      "identifier": "industry"
+    },
+    "industry-11": {
+      "codepoint": 57635,
+      "fontFamily": "Maki",
+      "identifier": "industry11"
+    },
+    "industry-15": {
+      "codepoint": 57636,
+      "fontFamily": "Maki",
+      "identifier": "industry15"
+    },
+    "information": {
+      "codepoint": 57637,
+      "fontFamily": "Maki",
+      "identifier": "information"
+    },
+    "information-11": {
+      "codepoint": 57638,
+      "fontFamily": "Maki",
+      "identifier": "information11"
+    },
+    "information-15": {
+      "codepoint": 57639,
+      "fontFamily": "Maki",
+      "identifier": "information15"
+    },
+    "jewelry-11": {
+      "codepoint": 57640,
+      "fontFamily": "Maki",
+      "identifier": "jewelry11"
+    },
+    "jewelry-15": {
+      "codepoint": 57641,
+      "fontFamily": "Maki",
+      "identifier": "jewelry15"
+    },
+    "jewelry-store": {
+      "codepoint": 57642,
+      "fontFamily": "Maki",
+      "identifier": "jewelryStore"
+    },
+    "jewelry-store-11": {
+      "codepoint": 57643,
+      "fontFamily": "Maki",
+      "identifier": "jewelryStore11"
+    },
+    "jewelry-store-15": {
+      "codepoint": 57644,
+      "fontFamily": "Maki",
+      "identifier": "jewelryStore15"
+    },
+    "karaoke": {
+      "codepoint": 57645,
+      "fontFamily": "Maki",
+      "identifier": "karaoke"
+    },
+    "karaoke-11": {
+      "codepoint": 57646,
+      "fontFamily": "Maki",
+      "identifier": "karaoke11"
+    },
+    "karaoke-15": {
+      "codepoint": 57647,
+      "fontFamily": "Maki",
+      "identifier": "karaoke15"
+    },
+    "landmark": {
+      "codepoint": 57648,
+      "fontFamily": "Maki",
+      "identifier": "landmark"
+    },
+    "landmark-11": {
+      "codepoint": 57649,
+      "fontFamily": "Maki",
+      "identifier": "landmark11"
+    },
+    "landmark-15": {
+      "codepoint": 57650,
+      "fontFamily": "Maki",
+      "identifier": "landmark15"
+    },
+    "landmark-jp": {
+      "codepoint": 57651,
+      "fontFamily": "Maki",
+      "identifier": "landmarkJp"
+    },
+    "landmark-jp-11": {
+      "codepoint": 57652,
+      "fontFamily": "Maki",
+      "identifier": "landmarkJp11"
+    },
+    "landmark-jp-15": {
+      "codepoint": 57653,
+      "fontFamily": "Maki",
+      "identifier": "landmarkJp15"
+    },
+    "landuse": {
+      "codepoint": 57654,
+      "fontFamily": "Maki",
+      "identifier": "landuse"
+    },
+    "landuse-11": {
+      "codepoint": 57655,
+      "fontFamily": "Maki",
+      "identifier": "landuse11"
+    },
+    "landuse-15": {
+      "codepoint": 57656,
+      "fontFamily": "Maki",
+      "identifier": "landuse15"
+    },
+    "laundry": {
+      "codepoint": 57657,
+      "fontFamily": "Maki",
+      "identifier": "laundry"
+    },
+    "laundry-11": {
+      "codepoint": 57658,
+      "fontFamily": "Maki",
+      "identifier": "laundry11"
+    },
+    "laundry-15": {
+      "codepoint": 57659,
+      "fontFamily": "Maki",
+      "identifier": "laundry15"
+    },
+    "library": {
+      "codepoint": 57660,
+      "fontFamily": "Maki",
+      "identifier": "library_"
+    },
+    "library-11": {
+      "codepoint": 57661,
+      "fontFamily": "Maki",
+      "identifier": "library11"
+    },
+    "library-15": {
+      "codepoint": 57662,
+      "fontFamily": "Maki",
+      "identifier": "library15"
+    },
+    "lift-gate": {
+      "codepoint": 57663,
+      "fontFamily": "Maki",
+      "identifier": "liftGate"
+    },
+    "lighthouse": {
+      "codepoint": 57664,
+      "fontFamily": "Maki",
+      "identifier": "lighthouse"
+    },
+    "lighthouse-11": {
+      "codepoint": 57665,
+      "fontFamily": "Maki",
+      "identifier": "lighthouse11"
+    },
+    "lighthouse-15": {
+      "codepoint": 57666,
+      "fontFamily": "Maki",
+      "identifier": "lighthouse15"
+    },
+    "lighthouse-jp": {
+      "codepoint": 57667,
+      "fontFamily": "Maki",
+      "identifier": "lighthouseJp"
+    },
+    "lodging": {
+      "codepoint": 57668,
+      "fontFamily": "Maki",
+      "identifier": "lodging"
+    },
+    "lodging-11": {
+      "codepoint": 57669,
+      "fontFamily": "Maki",
+      "identifier": "lodging11"
+    },
+    "lodging-15": {
+      "codepoint": 57670,
+      "fontFamily": "Maki",
+      "identifier": "lodging15"
+    },
+    "logging": {
+      "codepoint": 57671,
+      "fontFamily": "Maki",
+      "identifier": "logging"
+    },
+    "logging-11": {
+      "codepoint": 57672,
+      "fontFamily": "Maki",
+      "identifier": "logging11"
+    },
+    "logging-15": {
+      "codepoint": 57673,
+      "fontFamily": "Maki",
+      "identifier": "logging15"
+    },
+    "marae": {
+      "codepoint": 57674,
+      "fontFamily": "Maki",
+      "identifier": "marae"
+    },
+    "marker": {
+      "codepoint": 57675,
+      "fontFamily": "Maki",
+      "identifier": "marker"
+    },
+    "marker-11": {
+      "codepoint": 57676,
+      "fontFamily": "Maki",
+      "identifier": "marker11"
+    },
+    "marker-15": {
+      "codepoint": 57677,
+      "fontFamily": "Maki",
+      "identifier": "marker15"
+    },
+    "marker-stroked": {
+      "codepoint": 57678,
+      "fontFamily": "Maki",
+      "identifier": "markerStroked"
+    },
+    "marker-stroked-11": {
+      "codepoint": 57679,
+      "fontFamily": "Maki",
+      "identifier": "markerStroked11"
+    },
+    "marker-stroked-15": {
+      "codepoint": 57680,
+      "fontFamily": "Maki",
+      "identifier": "markerStroked15"
+    },
+    "mobile-phone": {
+      "codepoint": 57681,
+      "fontFamily": "Maki",
+      "identifier": "mobilePhone"
+    },
+    "mobile-phone-11": {
+      "codepoint": 57682,
+      "fontFamily": "Maki",
+      "identifier": "mobilePhone11"
+    },
+    "mobile-phone-15": {
+      "codepoint": 57683,
+      "fontFamily": "Maki",
+      "identifier": "mobilePhone15"
+    },
+    "monument": {
+      "codepoint": 57684,
+      "fontFamily": "Maki",
+      "identifier": "monument"
+    },
+    "monument-11": {
+      "codepoint": 57685,
+      "fontFamily": "Maki",
+      "identifier": "monument11"
+    },
+    "monument-15": {
+      "codepoint": 57686,
+      "fontFamily": "Maki",
+      "identifier": "monument15"
+    },
+    "monument-jp": {
+      "codepoint": 57687,
+      "fontFamily": "Maki",
+      "identifier": "monumentJp"
+    },
+    "mountain": {
+      "codepoint": 57688,
+      "fontFamily": "Maki",
+      "identifier": "mountain"
+    },
+    "mountain-11": {
+      "codepoint": 57689,
+      "fontFamily": "Maki",
+      "identifier": "mountain11"
+    },
+    "mountain-15": {
+      "codepoint": 57690,
+      "fontFamily": "Maki",
+      "identifier": "mountain15"
+    },
+    "museum": {
+      "codepoint": 57691,
+      "fontFamily": "Maki",
+      "identifier": "museum"
+    },
+    "museum-11": {
+      "codepoint": 57692,
+      "fontFamily": "Maki",
+      "identifier": "museum11"
+    },
+    "museum-15": {
+      "codepoint": 57693,
+      "fontFamily": "Maki",
+      "identifier": "museum15"
+    },
+    "music": {
+      "codepoint": 57694,
+      "fontFamily": "Maki",
+      "identifier": "music"
+    },
+    "music-11": {
+      "codepoint": 57695,
+      "fontFamily": "Maki",
+      "identifier": "music11"
+    },
+    "music-15": {
+      "codepoint": 57696,
+      "fontFamily": "Maki",
+      "identifier": "music15"
+    },
+    "natural": {
+      "codepoint": 57697,
+      "fontFamily": "Maki",
+      "identifier": "natural"
+    },
+    "natural-11": {
+      "codepoint": 57698,
+      "fontFamily": "Maki",
+      "identifier": "natural11"
+    },
+    "natural-15": {
+      "codepoint": 57699,
+      "fontFamily": "Maki",
+      "identifier": "natural15"
+    },
+    "nightclub": {
+      "codepoint": 57700,
+      "fontFamily": "Maki",
+      "identifier": "nightclub"
+    },
+    "observation-tower": {
+      "codepoint": 57701,
+      "fontFamily": "Maki",
+      "identifier": "observationTower"
+    },
+    "optician": {
+      "codepoint": 57702,
+      "fontFamily": "Maki",
+      "identifier": "optician"
+    },
+    "optician-11": {
+      "codepoint": 57703,
+      "fontFamily": "Maki",
+      "identifier": "optician11"
+    },
+    "optician-15": {
+      "codepoint": 57704,
+      "fontFamily": "Maki",
+      "identifier": "optician15"
+    },
+    "paint": {
+      "codepoint": 57705,
+      "fontFamily": "Maki",
+      "identifier": "paint"
+    },
+    "paint-11": {
+      "codepoint": 57706,
+      "fontFamily": "Maki",
+      "identifier": "paint11"
+    },
+    "paint-15": {
+      "codepoint": 57707,
+      "fontFamily": "Maki",
+      "identifier": "paint15"
+    },
+    "park": {
+      "codepoint": 57708,
+      "fontFamily": "Maki",
+      "identifier": "park"
+    },
+    "park-11": {
+      "codepoint": 57709,
+      "fontFamily": "Maki",
+      "identifier": "park11"
+    },
+    "park-15": {
+      "codepoint": 57710,
+      "fontFamily": "Maki",
+      "identifier": "park15"
+    },
+    "park-alt1": {
+      "codepoint": 57711,
+      "fontFamily": "Maki",
+      "identifier": "parkAlt1"
+    },
+    "park-alt1-11": {
+      "codepoint": 57712,
+      "fontFamily": "Maki",
+      "identifier": "parkAlt111"
+    },
+    "park-alt1-15": {
+      "codepoint": 57713,
+      "fontFamily": "Maki",
+      "identifier": "parkAlt115"
+    },
+    "parking": {
+      "codepoint": 57714,
+      "fontFamily": "Maki",
+      "identifier": "parking"
+    },
+    "parking-11": {
+      "codepoint": 57715,
+      "fontFamily": "Maki",
+      "identifier": "parking11"
+    },
+    "parking-15": {
+      "codepoint": 57716,
+      "fontFamily": "Maki",
+      "identifier": "parking15"
+    },
+    "parking-garage": {
+      "codepoint": 57717,
+      "fontFamily": "Maki",
+      "identifier": "parkingGarage"
+    },
+    "parking-garage-11": {
+      "codepoint": 57718,
+      "fontFamily": "Maki",
+      "identifier": "parkingGarage11"
+    },
+    "parking-garage-15": {
+      "codepoint": 57719,
+      "fontFamily": "Maki",
+      "identifier": "parkingGarage15"
+    },
+    "parking-paid": {
+      "codepoint": 57720,
+      "fontFamily": "Maki",
+      "identifier": "parkingPaid"
+    },
+    "pharmacy": {
+      "codepoint": 57721,
+      "fontFamily": "Maki",
+      "identifier": "pharmacy"
+    },
+    "pharmacy-11": {
+      "codepoint": 57722,
+      "fontFamily": "Maki",
+      "identifier": "pharmacy11"
+    },
+    "pharmacy-15": {
+      "codepoint": 57723,
+      "fontFamily": "Maki",
+      "identifier": "pharmacy15"
+    },
+    "picnic-site": {
+      "codepoint": 57724,
+      "fontFamily": "Maki",
+      "identifier": "picnicSite"
+    },
+    "picnic-site-11": {
+      "codepoint": 57725,
+      "fontFamily": "Maki",
+      "identifier": "picnicSite11"
+    },
+    "picnic-site-15": {
+      "codepoint": 57726,
+      "fontFamily": "Maki",
+      "identifier": "picnicSite15"
+    },
+    "pitch": {
+      "codepoint": 57727,
+      "fontFamily": "Maki",
+      "identifier": "pitch"
+    },
+    "pitch-11": {
+      "codepoint": 57728,
+      "fontFamily": "Maki",
+      "identifier": "pitch11"
+    },
+    "pitch-15": {
+      "codepoint": 57729,
+      "fontFamily": "Maki",
+      "identifier": "pitch15"
+    },
+    "place-of-worship": {
+      "codepoint": 57730,
+      "fontFamily": "Maki",
+      "identifier": "placeOfWorship"
+    },
+    "place-of-worship-11": {
+      "codepoint": 57731,
+      "fontFamily": "Maki",
+      "identifier": "placeOfWorship11"
+    },
+    "place-of-worship-15": {
+      "codepoint": 57732,
+      "fontFamily": "Maki",
+      "identifier": "placeOfWorship15"
+    },
+    "playground": {
+      "codepoint": 57733,
+      "fontFamily": "Maki",
+      "identifier": "playground"
+    },
+    "playground-11": {
+      "codepoint": 57734,
+      "fontFamily": "Maki",
+      "identifier": "playground11"
+    },
+    "playground-15": {
+      "codepoint": 57735,
+      "fontFamily": "Maki",
+      "identifier": "playground15"
+    },
+    "police": {
+      "codepoint": 57736,
+      "fontFamily": "Maki",
+      "identifier": "police"
+    },
+    "police-11": {
+      "codepoint": 57737,
+      "fontFamily": "Maki",
+      "identifier": "police11"
+    },
+    "police-15": {
+      "codepoint": 57738,
+      "fontFamily": "Maki",
+      "identifier": "police15"
+    },
+    "police-jp": {
+      "codepoint": 57739,
+      "fontFamily": "Maki",
+      "identifier": "policeJp"
+    },
+    "police-jp-11": {
+      "codepoint": 57740,
+      "fontFamily": "Maki",
+      "identifier": "policeJp11"
+    },
+    "police-jp-15": {
+      "codepoint": 57741,
+      "fontFamily": "Maki",
+      "identifier": "policeJp15"
+    },
+    "post": {
+      "codepoint": 57742,
+      "fontFamily": "Maki",
+      "identifier": "post"
+    },
+    "post-11": {
+      "codepoint": 57743,
+      "fontFamily": "Maki",
+      "identifier": "post11"
+    },
+    "post-15": {
+      "codepoint": 57744,
+      "fontFamily": "Maki",
+      "identifier": "post15"
+    },
+    "post-jp": {
+      "codepoint": 57745,
+      "fontFamily": "Maki",
+      "identifier": "postJp"
+    },
+    "post-jp-11": {
+      "codepoint": 57746,
+      "fontFamily": "Maki",
+      "identifier": "postJp11"
+    },
+    "post-jp-15": {
+      "codepoint": 57747,
+      "fontFamily": "Maki",
+      "identifier": "postJp15"
+    },
+    "prison": {
+      "codepoint": 57748,
+      "fontFamily": "Maki",
+      "identifier": "prison"
+    },
+    "prison-11": {
+      "codepoint": 57749,
+      "fontFamily": "Maki",
+      "identifier": "prison11"
+    },
+    "prison-15": {
+      "codepoint": 57750,
+      "fontFamily": "Maki",
+      "identifier": "prison15"
+    },
+    "racetrack": {
+      "codepoint": 57751,
+      "fontFamily": "Maki",
+      "identifier": "racetrack"
+    },
+    "racetrack-boat": {
+      "codepoint": 57752,
+      "fontFamily": "Maki",
+      "identifier": "racetrackBoat"
+    },
+    "racetrack-cycling": {
+      "codepoint": 57753,
+      "fontFamily": "Maki",
+      "identifier": "racetrackCycling"
+    },
+    "racetrack-horse": {
+      "codepoint": 57754,
+      "fontFamily": "Maki",
+      "identifier": "racetrackHorse"
+    },
+    "rail": {
+      "codepoint": 57755,
+      "fontFamily": "Maki",
+      "identifier": "rail"
+    },
+    "rail-11": {
+      "codepoint": 57756,
+      "fontFamily": "Maki",
+      "identifier": "rail11"
+    },
+    "rail-15": {
+      "codepoint": 57757,
+      "fontFamily": "Maki",
+      "identifier": "rail15"
+    },
+    "rail-light": {
+      "codepoint": 57758,
+      "fontFamily": "Maki",
+      "identifier": "railLight"
+    },
+    "rail-light-11": {
+      "codepoint": 57759,
+      "fontFamily": "Maki",
+      "identifier": "railLight11"
+    },
+    "rail-light-15": {
+      "codepoint": 57760,
+      "fontFamily": "Maki",
+      "identifier": "railLight15"
+    },
+    "rail-metro": {
+      "codepoint": 57761,
+      "fontFamily": "Maki",
+      "identifier": "railMetro"
+    },
+    "rail-metro-11": {
+      "codepoint": 57762,
+      "fontFamily": "Maki",
+      "identifier": "railMetro11"
+    },
+    "rail-metro-15": {
+      "codepoint": 57763,
+      "fontFamily": "Maki",
+      "identifier": "railMetro15"
+    },
+    "ranger-station": {
+      "codepoint": 57764,
+      "fontFamily": "Maki",
+      "identifier": "rangerStation"
+    },
+    "ranger-station-11": {
+      "codepoint": 57765,
+      "fontFamily": "Maki",
+      "identifier": "rangerStation11"
+    },
+    "ranger-station-15": {
+      "codepoint": 57766,
+      "fontFamily": "Maki",
+      "identifier": "rangerStation15"
+    },
+    "recycling": {
+      "codepoint": 57767,
+      "fontFamily": "Maki",
+      "identifier": "recycling"
+    },
+    "recycling-11": {
+      "codepoint": 57768,
+      "fontFamily": "Maki",
+      "identifier": "recycling11"
+    },
+    "recycling-15": {
+      "codepoint": 57769,
+      "fontFamily": "Maki",
+      "identifier": "recycling15"
+    },
+    "religious-buddhist": {
+      "codepoint": 57770,
+      "fontFamily": "Maki",
+      "identifier": "religiousBuddhist"
+    },
+    "religious-buddhist-11": {
+      "codepoint": 57771,
+      "fontFamily": "Maki",
+      "identifier": "religiousBuddhist11"
+    },
+    "religious-buddhist-15": {
+      "codepoint": 57772,
+      "fontFamily": "Maki",
+      "identifier": "religiousBuddhist15"
+    },
+    "religious-christian": {
+      "codepoint": 57773,
+      "fontFamily": "Maki",
+      "identifier": "religiousChristian"
+    },
+    "religious-christian-11": {
+      "codepoint": 57774,
+      "fontFamily": "Maki",
+      "identifier": "religiousChristian11"
+    },
+    "religious-christian-15": {
+      "codepoint": 57775,
+      "fontFamily": "Maki",
+      "identifier": "religiousChristian15"
+    },
+    "religious-jewish": {
+      "codepoint": 57776,
+      "fontFamily": "Maki",
+      "identifier": "religiousJewish"
+    },
+    "religious-jewish-11": {
+      "codepoint": 57777,
+      "fontFamily": "Maki",
+      "identifier": "religiousJewish11"
+    },
+    "religious-jewish-15": {
+      "codepoint": 57778,
+      "fontFamily": "Maki",
+      "identifier": "religiousJewish15"
+    },
+    "religious-muslim": {
+      "codepoint": 57779,
+      "fontFamily": "Maki",
+      "identifier": "religiousMuslim"
+    },
+    "religious-muslim-11": {
+      "codepoint": 57780,
+      "fontFamily": "Maki",
+      "identifier": "religiousMuslim11"
+    },
+    "religious-muslim-15": {
+      "codepoint": 57781,
+      "fontFamily": "Maki",
+      "identifier": "religiousMuslim15"
+    },
+    "religious-shinto": {
+      "codepoint": 57782,
+      "fontFamily": "Maki",
+      "identifier": "religiousShinto"
+    },
+    "religious-shinto-11": {
+      "codepoint": 57783,
+      "fontFamily": "Maki",
+      "identifier": "religiousShinto11"
+    },
+    "religious-shinto-15": {
+      "codepoint": 57784,
+      "fontFamily": "Maki",
+      "identifier": "religiousShinto15"
+    },
+    "residential-community": {
+      "codepoint": 57785,
+      "fontFamily": "Maki",
+      "identifier": "residentialCommunity"
+    },
+    "residential-community-11": {
+      "codepoint": 57786,
+      "fontFamily": "Maki",
+      "identifier": "residentialCommunity11"
+    },
+    "residential-community-15": {
+      "codepoint": 57787,
+      "fontFamily": "Maki",
+      "identifier": "residentialCommunity15"
+    },
+    "restaurant": {
+      "codepoint": 57788,
+      "fontFamily": "Maki",
+      "identifier": "restaurant"
+    },
+    "restaurant-11": {
+      "codepoint": 57789,
+      "fontFamily": "Maki",
+      "identifier": "restaurant11"
+    },
+    "restaurant-15": {
+      "codepoint": 57790,
+      "fontFamily": "Maki",
+      "identifier": "restaurant15"
+    },
+    "restaurant-bbq": {
+      "codepoint": 57791,
+      "fontFamily": "Maki",
+      "identifier": "restaurantBbq"
+    },
+    "restaurant-noodle": {
+      "codepoint": 57792,
+      "fontFamily": "Maki",
+      "identifier": "restaurantNoodle"
+    },
+    "restaurant-noodle-11": {
+      "codepoint": 57793,
+      "fontFamily": "Maki",
+      "identifier": "restaurantNoodle11"
+    },
+    "restaurant-noodle-15": {
+      "codepoint": 57794,
+      "fontFamily": "Maki",
+      "identifier": "restaurantNoodle15"
+    },
+    "restaurant-pizza": {
+      "codepoint": 57795,
+      "fontFamily": "Maki",
+      "identifier": "restaurantPizza"
+    },
+    "restaurant-pizza-11": {
+      "codepoint": 57796,
+      "fontFamily": "Maki",
+      "identifier": "restaurantPizza11"
+    },
+    "restaurant-pizza-15": {
+      "codepoint": 57797,
+      "fontFamily": "Maki",
+      "identifier": "restaurantPizza15"
+    },
+    "restaurant-seafood": {
+      "codepoint": 57798,
+      "fontFamily": "Maki",
+      "identifier": "restaurantSeafood"
+    },
+    "restaurant-seafood-11": {
+      "codepoint": 57799,
+      "fontFamily": "Maki",
+      "identifier": "restaurantSeafood11"
+    },
+    "restaurant-seafood-15": {
+      "codepoint": 57800,
+      "fontFamily": "Maki",
+      "identifier": "restaurantSeafood15"
+    },
+    "restaurant-sushi": {
+      "codepoint": 57801,
+      "fontFamily": "Maki",
+      "identifier": "restaurantSushi"
+    },
+    "road-accident": {
+      "codepoint": 57802,
+      "fontFamily": "Maki",
+      "identifier": "roadAccident"
+    },
+    "roadblock": {
+      "codepoint": 57803,
+      "fontFamily": "Maki",
+      "identifier": "roadblock"
+    },
+    "roadblock-11": {
+      "codepoint": 57804,
+      "fontFamily": "Maki",
+      "identifier": "roadblock11"
+    },
+    "roadblock-15": {
+      "codepoint": 57805,
+      "fontFamily": "Maki",
+      "identifier": "roadblock15"
+    },
+    "rocket": {
+      "codepoint": 57806,
+      "fontFamily": "Maki",
+      "identifier": "rocket"
+    },
+    "rocket-11": {
+      "codepoint": 57807,
+      "fontFamily": "Maki",
+      "identifier": "rocket11"
+    },
+    "rocket-15": {
+      "codepoint": 57808,
+      "fontFamily": "Maki",
+      "identifier": "rocket15"
+    },
+    "school": {
+      "codepoint": 57809,
+      "fontFamily": "Maki",
+      "identifier": "school"
+    },
+    "school-11": {
+      "codepoint": 57810,
+      "fontFamily": "Maki",
+      "identifier": "school11"
+    },
+    "school-15": {
+      "codepoint": 57811,
+      "fontFamily": "Maki",
+      "identifier": "school15"
+    },
+    "school-jp": {
+      "codepoint": 57812,
+      "fontFamily": "Maki",
+      "identifier": "schoolJp"
+    },
+    "school-jp-11": {
+      "codepoint": 57813,
+      "fontFamily": "Maki",
+      "identifier": "schoolJp11"
+    },
+    "school-jp-15": {
+      "codepoint": 57814,
+      "fontFamily": "Maki",
+      "identifier": "schoolJp15"
+    },
+    "scooter": {
+      "codepoint": 57815,
+      "fontFamily": "Maki",
+      "identifier": "scooter"
+    },
+    "scooter-11": {
+      "codepoint": 57816,
+      "fontFamily": "Maki",
+      "identifier": "scooter11"
+    },
+    "scooter-15": {
+      "codepoint": 57817,
+      "fontFamily": "Maki",
+      "identifier": "scooter15"
+    },
+    "shelter": {
+      "codepoint": 57818,
+      "fontFamily": "Maki",
+      "identifier": "shelter"
+    },
+    "shelter-11": {
+      "codepoint": 57819,
+      "fontFamily": "Maki",
+      "identifier": "shelter11"
+    },
+    "shelter-15": {
+      "codepoint": 57820,
+      "fontFamily": "Maki",
+      "identifier": "shelter15"
+    },
+    "shoe": {
+      "codepoint": 57821,
+      "fontFamily": "Maki",
+      "identifier": "shoe"
+    },
+    "shoe-11": {
+      "codepoint": 57822,
+      "fontFamily": "Maki",
+      "identifier": "shoe11"
+    },
+    "shoe-15": {
+      "codepoint": 57823,
+      "fontFamily": "Maki",
+      "identifier": "shoe15"
+    },
+    "shop": {
+      "codepoint": 57824,
+      "fontFamily": "Maki",
+      "identifier": "shop"
+    },
+    "shop-11": {
+      "codepoint": 57825,
+      "fontFamily": "Maki",
+      "identifier": "shop11"
+    },
+    "shop-15": {
+      "codepoint": 57826,
+      "fontFamily": "Maki",
+      "identifier": "shop15"
+    },
+    "skateboard": {
+      "codepoint": 57827,
+      "fontFamily": "Maki",
+      "identifier": "skateboard"
+    },
+    "skateboard-11": {
+      "codepoint": 57828,
+      "fontFamily": "Maki",
+      "identifier": "skateboard11"
+    },
+    "skateboard-15": {
+      "codepoint": 57829,
+      "fontFamily": "Maki",
+      "identifier": "skateboard15"
+    },
+    "skiing": {
+      "codepoint": 57830,
+      "fontFamily": "Maki",
+      "identifier": "skiing"
+    },
+    "skiing-11": {
+      "codepoint": 57831,
+      "fontFamily": "Maki",
+      "identifier": "skiing11"
+    },
+    "skiing-15": {
+      "codepoint": 57832,
+      "fontFamily": "Maki",
+      "identifier": "skiing15"
+    },
+    "slaughterhouse": {
+      "codepoint": 57833,
+      "fontFamily": "Maki",
+      "identifier": "slaughterhouse"
+    },
+    "slaughterhouse-11": {
+      "codepoint": 57834,
+      "fontFamily": "Maki",
+      "identifier": "slaughterhouse11"
+    },
+    "slaughterhouse-15": {
+      "codepoint": 57835,
+      "fontFamily": "Maki",
+      "identifier": "slaughterhouse15"
+    },
+    "slipway": {
+      "codepoint": 57836,
+      "fontFamily": "Maki",
+      "identifier": "slipway"
+    },
+    "slipway-11": {
+      "codepoint": 57837,
+      "fontFamily": "Maki",
+      "identifier": "slipway11"
+    },
+    "slipway-15": {
+      "codepoint": 57838,
+      "fontFamily": "Maki",
+      "identifier": "slipway15"
+    },
+    "snowmobile": {
+      "codepoint": 57839,
+      "fontFamily": "Maki",
+      "identifier": "snowmobile"
+    },
+    "snowmobile-11": {
+      "codepoint": 57840,
+      "fontFamily": "Maki",
+      "identifier": "snowmobile11"
+    },
+    "snowmobile-15": {
+      "codepoint": 57841,
+      "fontFamily": "Maki",
+      "identifier": "snowmobile15"
+    },
+    "soccer": {
+      "codepoint": 57842,
+      "fontFamily": "Maki",
+      "identifier": "soccer"
+    },
+    "soccer-11": {
+      "codepoint": 57843,
+      "fontFamily": "Maki",
+      "identifier": "soccer11"
+    },
+    "soccer-15": {
+      "codepoint": 57844,
+      "fontFamily": "Maki",
+      "identifier": "soccer15"
+    },
+    "square": {
+      "codepoint": 57845,
+      "fontFamily": "Maki",
+      "identifier": "square"
+    },
+    "square-11": {
+      "codepoint": 57846,
+      "fontFamily": "Maki",
+      "identifier": "square11"
+    },
+    "square-15": {
+      "codepoint": 57847,
+      "fontFamily": "Maki",
+      "identifier": "square15"
+    },
+    "square-stroked": {
+      "codepoint": 57848,
+      "fontFamily": "Maki",
+      "identifier": "squareStroked"
+    },
+    "square-stroked-11": {
+      "codepoint": 57849,
+      "fontFamily": "Maki",
+      "identifier": "squareStroked11"
+    },
+    "square-stroked-15": {
+      "codepoint": 57850,
+      "fontFamily": "Maki",
+      "identifier": "squareStroked15"
+    },
+    "stadium": {
+      "codepoint": 57851,
+      "fontFamily": "Maki",
+      "identifier": "stadium"
+    },
+    "stadium-11": {
+      "codepoint": 57852,
+      "fontFamily": "Maki",
+      "identifier": "stadium11"
+    },
+    "stadium-15": {
+      "codepoint": 57853,
+      "fontFamily": "Maki",
+      "identifier": "stadium15"
+    },
+    "star": {
+      "codepoint": 57854,
+      "fontFamily": "Maki",
+      "identifier": "star"
+    },
+    "star-11": {
+      "codepoint": 57855,
+      "fontFamily": "Maki",
+      "identifier": "star11"
+    },
+    "star-15": {
+      "codepoint": 57856,
+      "fontFamily": "Maki",
+      "identifier": "star15"
+    },
+    "star-stroked": {
+      "codepoint": 57857,
+      "fontFamily": "Maki",
+      "identifier": "starStroked"
+    },
+    "star-stroked-11": {
+      "codepoint": 57858,
+      "fontFamily": "Maki",
+      "identifier": "starStroked11"
+    },
+    "star-stroked-15": {
+      "codepoint": 57859,
+      "fontFamily": "Maki",
+      "identifier": "starStroked15"
+    },
+    "suitcase": {
+      "codepoint": 57860,
+      "fontFamily": "Maki",
+      "identifier": "suitcase"
+    },
+    "suitcase-11": {
+      "codepoint": 57861,
+      "fontFamily": "Maki",
+      "identifier": "suitcase11"
+    },
+    "suitcase-15": {
+      "codepoint": 57862,
+      "fontFamily": "Maki",
+      "identifier": "suitcase15"
+    },
+    "sushi-11": {
+      "codepoint": 57863,
+      "fontFamily": "Maki",
+      "identifier": "sushi11"
+    },
+    "sushi-15": {
+      "codepoint": 57864,
+      "fontFamily": "Maki",
+      "identifier": "sushi15"
+    },
+    "swimming": {
+      "codepoint": 57865,
+      "fontFamily": "Maki",
+      "identifier": "swimming"
+    },
+    "swimming-11": {
+      "codepoint": 57866,
+      "fontFamily": "Maki",
+      "identifier": "swimming11"
+    },
+    "swimming-15": {
+      "codepoint": 57867,
+      "fontFamily": "Maki",
+      "identifier": "swimming15"
+    },
+    "table-tennis": {
+      "codepoint": 57868,
+      "fontFamily": "Maki",
+      "identifier": "tableTennis"
+    },
+    "table-tennis-11": {
+      "codepoint": 57869,
+      "fontFamily": "Maki",
+      "identifier": "tableTennis11"
+    },
+    "table-tennis-15": {
+      "codepoint": 57870,
+      "fontFamily": "Maki",
+      "identifier": "tableTennis15"
+    },
+    "taxi": {
+      "codepoint": 57871,
+      "fontFamily": "Maki",
+      "identifier": "taxi"
+    },
+    "teahouse": {
+      "codepoint": 57872,
+      "fontFamily": "Maki",
+      "identifier": "teahouse"
+    },
+    "teahouse-11": {
+      "codepoint": 57873,
+      "fontFamily": "Maki",
+      "identifier": "teahouse11"
+    },
+    "teahouse-15": {
+      "codepoint": 57874,
+      "fontFamily": "Maki",
+      "identifier": "teahouse15"
+    },
+    "telephone": {
+      "codepoint": 57875,
+      "fontFamily": "Maki",
+      "identifier": "telephone"
+    },
+    "telephone-11": {
+      "codepoint": 57876,
+      "fontFamily": "Maki",
+      "identifier": "telephone11"
+    },
+    "telephone-15": {
+      "codepoint": 57877,
+      "fontFamily": "Maki",
+      "identifier": "telephone15"
+    },
+    "tennis": {
+      "codepoint": 57878,
+      "fontFamily": "Maki",
+      "identifier": "tennis"
+    },
+    "tennis-11": {
+      "codepoint": 57879,
+      "fontFamily": "Maki",
+      "identifier": "tennis11"
+    },
+    "tennis-15": {
+      "codepoint": 57880,
+      "fontFamily": "Maki",
+      "identifier": "tennis15"
+    },
+    "terminal": {
+      "codepoint": 57881,
+      "fontFamily": "Maki",
+      "identifier": "terminal"
+    },
+    "theatre": {
+      "codepoint": 57882,
+      "fontFamily": "Maki",
+      "identifier": "theatre"
+    },
+    "theatre-11": {
+      "codepoint": 57883,
+      "fontFamily": "Maki",
+      "identifier": "theatre11"
+    },
+    "theatre-15": {
+      "codepoint": 57884,
+      "fontFamily": "Maki",
+      "identifier": "theatre15"
+    },
+    "toilet": {
+      "codepoint": 57885,
+      "fontFamily": "Maki",
+      "identifier": "toilet"
+    },
+    "toilet-11": {
+      "codepoint": 57886,
+      "fontFamily": "Maki",
+      "identifier": "toilet11"
+    },
+    "toilet-15": {
+      "codepoint": 57887,
+      "fontFamily": "Maki",
+      "identifier": "toilet15"
+    },
+    "toll": {
+      "codepoint": 57888,
+      "fontFamily": "Maki",
+      "identifier": "toll"
+    },
+    "toll-booth": {
+      "codepoint": 57889,
+      "fontFamily": "Maki",
+      "identifier": "tollBooth"
+    },
+    "town": {
+      "codepoint": 57890,
+      "fontFamily": "Maki",
+      "identifier": "town"
+    },
+    "town-11": {
+      "codepoint": 57891,
+      "fontFamily": "Maki",
+      "identifier": "town11"
+    },
+    "town-15": {
+      "codepoint": 57892,
+      "fontFamily": "Maki",
+      "identifier": "town15"
+    },
+    "town-hall": {
+      "codepoint": 57893,
+      "fontFamily": "Maki",
+      "identifier": "townHall"
+    },
+    "town-hall-11": {
+      "codepoint": 57894,
+      "fontFamily": "Maki",
+      "identifier": "townHall11"
+    },
+    "town-hall-15": {
+      "codepoint": 57895,
+      "fontFamily": "Maki",
+      "identifier": "townHall15"
+    },
+    "triangle": {
+      "codepoint": 57896,
+      "fontFamily": "Maki",
+      "identifier": "triangle"
+    },
+    "triangle-11": {
+      "codepoint": 57897,
+      "fontFamily": "Maki",
+      "identifier": "triangle11"
+    },
+    "triangle-15": {
+      "codepoint": 57898,
+      "fontFamily": "Maki",
+      "identifier": "triangle15"
+    },
+    "triangle-stroked": {
+      "codepoint": 57899,
+      "fontFamily": "Maki",
+      "identifier": "triangleStroked"
+    },
+    "triangle-stroked-11": {
+      "codepoint": 57900,
+      "fontFamily": "Maki",
+      "identifier": "triangleStroked11"
+    },
+    "triangle-stroked-15": {
+      "codepoint": 57901,
+      "fontFamily": "Maki",
+      "identifier": "triangleStroked15"
+    },
+    "tunnel": {
+      "codepoint": 57902,
+      "fontFamily": "Maki",
+      "identifier": "tunnel"
+    },
+    "veterinary": {
+      "codepoint": 57903,
+      "fontFamily": "Maki",
+      "identifier": "veterinary"
+    },
+    "veterinary-11": {
+      "codepoint": 57904,
+      "fontFamily": "Maki",
+      "identifier": "veterinary11"
+    },
+    "veterinary-15": {
+      "codepoint": 57905,
+      "fontFamily": "Maki",
+      "identifier": "veterinary15"
+    },
+    "viewpoint": {
+      "codepoint": 57906,
+      "fontFamily": "Maki",
+      "identifier": "viewpoint"
+    },
+    "viewpoint-11": {
+      "codepoint": 57907,
+      "fontFamily": "Maki",
+      "identifier": "viewpoint11"
+    },
+    "viewpoint-15": {
+      "codepoint": 57908,
+      "fontFamily": "Maki",
+      "identifier": "viewpoint15"
+    },
+    "village": {
+      "codepoint": 57909,
+      "fontFamily": "Maki",
+      "identifier": "village"
+    },
+    "village-11": {
+      "codepoint": 57910,
+      "fontFamily": "Maki",
+      "identifier": "village11"
+    },
+    "village-15": {
+      "codepoint": 57911,
+      "fontFamily": "Maki",
+      "identifier": "village15"
+    },
+    "volcano": {
+      "codepoint": 57912,
+      "fontFamily": "Maki",
+      "identifier": "volcano"
+    },
+    "volcano-11": {
+      "codepoint": 57913,
+      "fontFamily": "Maki",
+      "identifier": "volcano11"
+    },
+    "volcano-15": {
+      "codepoint": 57914,
+      "fontFamily": "Maki",
+      "identifier": "volcano15"
+    },
+    "volleyball": {
+      "codepoint": 57915,
+      "fontFamily": "Maki",
+      "identifier": "volleyball"
+    },
+    "volleyball-11": {
+      "codepoint": 57916,
+      "fontFamily": "Maki",
+      "identifier": "volleyball11"
+    },
+    "volleyball-15": {
+      "codepoint": 57917,
+      "fontFamily": "Maki",
+      "identifier": "volleyball15"
+    },
+    "warehouse": {
+      "codepoint": 57918,
+      "fontFamily": "Maki",
+      "identifier": "warehouse"
+    },
+    "warehouse-11": {
+      "codepoint": 57919,
+      "fontFamily": "Maki",
+      "identifier": "warehouse11"
+    },
+    "warehouse-15": {
+      "codepoint": 57920,
+      "fontFamily": "Maki",
+      "identifier": "warehouse15"
+    },
+    "waste-basket": {
+      "codepoint": 57921,
+      "fontFamily": "Maki",
+      "identifier": "wasteBasket"
+    },
+    "waste-basket-11": {
+      "codepoint": 57922,
+      "fontFamily": "Maki",
+      "identifier": "wasteBasket11"
+    },
+    "waste-basket-15": {
+      "codepoint": 57923,
+      "fontFamily": "Maki",
+      "identifier": "wasteBasket15"
+    },
+    "watch": {
+      "codepoint": 57924,
+      "fontFamily": "Maki",
+      "identifier": "watch"
+    },
+    "watch-11": {
+      "codepoint": 57925,
+      "fontFamily": "Maki",
+      "identifier": "watch11"
+    },
+    "watch-15": {
+      "codepoint": 57926,
+      "fontFamily": "Maki",
+      "identifier": "watch15"
+    },
+    "water": {
+      "codepoint": 57927,
+      "fontFamily": "Maki",
+      "identifier": "water"
+    },
+    "water-11": {
+      "codepoint": 57928,
+      "fontFamily": "Maki",
+      "identifier": "water11"
+    },
+    "water-15": {
+      "codepoint": 57929,
+      "fontFamily": "Maki",
+      "identifier": "water15"
+    },
+    "waterfall": {
+      "codepoint": 57930,
+      "fontFamily": "Maki",
+      "identifier": "waterfall"
+    },
+    "waterfall-11": {
+      "codepoint": 57931,
+      "fontFamily": "Maki",
+      "identifier": "waterfall11"
+    },
+    "waterfall-15": {
+      "codepoint": 57932,
+      "fontFamily": "Maki",
+      "identifier": "waterfall15"
+    },
+    "watermill": {
+      "codepoint": 57933,
+      "fontFamily": "Maki",
+      "identifier": "watermill"
+    },
+    "watermill-11": {
+      "codepoint": 57934,
+      "fontFamily": "Maki",
+      "identifier": "watermill11"
+    },
+    "watermill-15": {
+      "codepoint": 57935,
+      "fontFamily": "Maki",
+      "identifier": "watermill15"
+    },
+    "wetland": {
+      "codepoint": 57936,
+      "fontFamily": "Maki",
+      "identifier": "wetland"
+    },
+    "wetland-11": {
+      "codepoint": 57937,
+      "fontFamily": "Maki",
+      "identifier": "wetland11"
+    },
+    "wetland-15": {
+      "codepoint": 57938,
+      "fontFamily": "Maki",
+      "identifier": "wetland15"
+    },
+    "wheelchair": {
+      "codepoint": 57939,
+      "fontFamily": "Maki",
+      "identifier": "wheelchair"
+    },
+    "wheelchair-11": {
+      "codepoint": 57940,
+      "fontFamily": "Maki",
+      "identifier": "wheelchair11"
+    },
+    "wheelchair-15": {
+      "codepoint": 57941,
+      "fontFamily": "Maki",
+      "identifier": "wheelchair15"
+    },
+    "windmill": {
+      "codepoint": 57942,
+      "fontFamily": "Maki",
+      "identifier": "windmill"
+    },
+    "windmill-11": {
+      "codepoint": 57943,
+      "fontFamily": "Maki",
+      "identifier": "windmill11"
+    },
+    "windmill-15": {
+      "codepoint": 57944,
+      "fontFamily": "Maki",
+      "identifier": "windmill15"
+    },
+    "zoo": {
+      "codepoint": 57945,
+      "fontFamily": "Maki",
+      "identifier": "zoo"
+    },
+    "zoo-11": {
+      "codepoint": 57946,
+      "fontFamily": "Maki",
+      "identifier": "zoo11"
+    },
+    "zoo-15": {
+      "codepoint": 57947,
+      "fontFamily": "Maki",
+      "identifier": "zoo15"
+    }
+  }
+}

@@ -1,0 +1,429 @@
+name: iconifyx
+description: >-
+  Meta package re-exporting every iconifyx_<set> package. Convenient but
+  pulls in every bundled font. Prefer importing the specific per-set
+  packages you actually use to keep bundle size minimal.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+  iconifyx_academicons:
+    path: ../iconifyx_academicons
+  iconifyx_akar_icons:
+    path: ../iconifyx_akar_icons
+  iconifyx_ant_design:
+    path: ../iconifyx_ant_design
+  iconifyx_arcticons:
+    path: ../iconifyx_arcticons
+  iconifyx_basil:
+    path: ../iconifyx_basil
+  iconifyx_bi:
+    path: ../iconifyx_bi
+  iconifyx_bitcoin_icons:
+    path: ../iconifyx_bitcoin_icons
+  iconifyx_boxicons:
+    path: ../iconifyx_boxicons
+  iconifyx_brandico:
+    path: ../iconifyx_brandico
+  iconifyx_bx:
+    path: ../iconifyx_bx
+  iconifyx_bxl:
+    path: ../iconifyx_bxl
+  iconifyx_bxs:
+    path: ../iconifyx_bxs
+  iconifyx_bytesize:
+    path: ../iconifyx_bytesize
+  iconifyx_carbon:
+    path: ../iconifyx_carbon
+  iconifyx_catppuccin:
+    path: ../iconifyx_catppuccin
+  iconifyx_cbi:
+    path: ../iconifyx_cbi
+  iconifyx_charm:
+    path: ../iconifyx_charm
+  iconifyx_ci:
+    path: ../iconifyx_ci
+  iconifyx_cib:
+    path: ../iconifyx_cib
+  iconifyx_cif:
+    path: ../iconifyx_cif
+  iconifyx_cil:
+    path: ../iconifyx_cil
+  iconifyx_circle_flags:
+    path: ../iconifyx_circle_flags
+  iconifyx_circum:
+    path: ../iconifyx_circum
+  iconifyx_clarity:
+    path: ../iconifyx_clarity
+  iconifyx_codex:
+    path: ../iconifyx_codex
+  iconifyx_codicon:
+    path: ../iconifyx_codicon
+  iconifyx_covid:
+    path: ../iconifyx_covid
+  iconifyx_cryptocurrency:
+    path: ../iconifyx_cryptocurrency
+  iconifyx_cryptocurrency_color:
+    path: ../iconifyx_cryptocurrency_color
+  iconifyx_cuida:
+    path: ../iconifyx_cuida
+  iconifyx_dashicons:
+    path: ../iconifyx_dashicons
+  iconifyx_dinkie_icons:
+    path: ../iconifyx_dinkie_icons
+  iconifyx_duo_icons:
+    path: ../iconifyx_duo_icons
+  iconifyx_ei:
+    path: ../iconifyx_ei
+  iconifyx_el:
+    path: ../iconifyx_el
+  iconifyx_emojione:
+    path: ../iconifyx_emojione
+  iconifyx_emojione_monotone:
+    path: ../iconifyx_emojione_monotone
+  iconifyx_entypo:
+    path: ../iconifyx_entypo
+  iconifyx_entypo_social:
+    path: ../iconifyx_entypo_social
+  iconifyx_eos_icons:
+    path: ../iconifyx_eos_icons
+  iconifyx_ep:
+    path: ../iconifyx_ep
+  iconifyx_et:
+    path: ../iconifyx_et
+  iconifyx_eva:
+    path: ../iconifyx_eva
+  iconifyx_f7:
+    path: ../iconifyx_f7
+  iconifyx_fa:
+    path: ../iconifyx_fa
+  iconifyx_fa6_brands:
+    path: ../iconifyx_fa6_brands
+  iconifyx_fa6_regular:
+    path: ../iconifyx_fa6_regular
+  iconifyx_fa6_solid:
+    path: ../iconifyx_fa6_solid
+  iconifyx_fa7_brands:
+    path: ../iconifyx_fa7_brands
+  iconifyx_fa7_regular:
+    path: ../iconifyx_fa7_regular
+  iconifyx_fa7_solid:
+    path: ../iconifyx_fa7_solid
+  iconifyx_fa_brands:
+    path: ../iconifyx_fa_brands
+  iconifyx_fa_regular:
+    path: ../iconifyx_fa_regular
+  iconifyx_fa_solid:
+    path: ../iconifyx_fa_solid
+  iconifyx_fad:
+    path: ../iconifyx_fad
+  iconifyx_famicons:
+    path: ../iconifyx_famicons
+  iconifyx_fe:
+    path: ../iconifyx_fe
+  iconifyx_feather:
+    path: ../iconifyx_feather
+  iconifyx_file_icons:
+    path: ../iconifyx_file_icons
+  iconifyx_flagpack:
+    path: ../iconifyx_flagpack
+  iconifyx_flat_color_icons:
+    path: ../iconifyx_flat_color_icons
+  iconifyx_flat_ui:
+    path: ../iconifyx_flat_ui
+  iconifyx_flowbite:
+    path: ../iconifyx_flowbite
+  iconifyx_fluent:
+    path: ../iconifyx_fluent
+  iconifyx_fluent_color:
+    path: ../iconifyx_fluent_color
+  iconifyx_fluent_emoji_flat:
+    path: ../iconifyx_fluent_emoji_flat
+  iconifyx_fluent_emoji_high_contrast:
+    path: ../iconifyx_fluent_emoji_high_contrast
+  iconifyx_fluent_mdl2:
+    path: ../iconifyx_fluent_mdl2
+  iconifyx_fontelico:
+    path: ../iconifyx_fontelico
+  iconifyx_fontisto:
+    path: ../iconifyx_fontisto
+  iconifyx_formkit:
+    path: ../iconifyx_formkit
+  iconifyx_foundation:
+    path: ../iconifyx_foundation
+  iconifyx_fxemoji:
+    path: ../iconifyx_fxemoji
+  iconifyx_game_icons:
+    path: ../iconifyx_game_icons
+  iconifyx_garden:
+    path: ../iconifyx_garden
+  iconifyx_gcp:
+    path: ../iconifyx_gcp
+  iconifyx_geo:
+    path: ../iconifyx_geo
+  iconifyx_gg:
+    path: ../iconifyx_gg
+  iconifyx_gis:
+    path: ../iconifyx_gis
+  iconifyx_glyphs:
+    path: ../iconifyx_glyphs
+  iconifyx_gravity_ui:
+    path: ../iconifyx_gravity_ui
+  iconifyx_gridicons:
+    path: ../iconifyx_gridicons
+  iconifyx_grommet_icons:
+    path: ../iconifyx_grommet_icons
+  iconifyx_guidance:
+    path: ../iconifyx_guidance
+  iconifyx_healthicons:
+    path: ../iconifyx_healthicons
+  iconifyx_heroicons:
+    path: ../iconifyx_heroicons
+  iconifyx_heroicons_outline:
+    path: ../iconifyx_heroicons_outline
+  iconifyx_heroicons_solid:
+    path: ../iconifyx_heroicons_solid
+  iconifyx_hugeicons:
+    path: ../iconifyx_hugeicons
+  iconifyx_humbleicons:
+    path: ../iconifyx_humbleicons
+  iconifyx_ic:
+    path: ../iconifyx_ic
+  iconifyx_icomoon_free:
+    path: ../iconifyx_icomoon_free
+  iconifyx_iconamoon:
+    path: ../iconifyx_iconamoon
+  iconifyx_iconoir:
+    path: ../iconifyx_iconoir
+  iconifyx_icons8:
+    path: ../iconifyx_icons8
+  iconifyx_il:
+    path: ../iconifyx_il
+  iconifyx_ion:
+    path: ../iconifyx_ion
+  iconifyx_iwwa:
+    path: ../iconifyx_iwwa
+  iconifyx_ix:
+    path: ../iconifyx_ix
+  iconifyx_jam:
+    path: ../iconifyx_jam
+  iconifyx_la:
+    path: ../iconifyx_la
+  iconifyx_lets_icons:
+    path: ../iconifyx_lets_icons
+  iconifyx_lineicons:
+    path: ../iconifyx_lineicons
+  iconifyx_ls:
+    path: ../iconifyx_ls
+  iconifyx_lsicon:
+    path: ../iconifyx_lsicon
+  iconifyx_lucide:
+    path: ../iconifyx_lucide
+  iconifyx_lucide_lab:
+    path: ../iconifyx_lucide_lab
+  iconifyx_mage:
+    path: ../iconifyx_mage
+  iconifyx_majesticons:
+    path: ../iconifyx_majesticons
+  iconifyx_maki:
+    path: ../iconifyx_maki
+  iconifyx_map:
+    path: ../iconifyx_map
+  iconifyx_marketeq:
+    path: ../iconifyx_marketeq
+  iconifyx_material_symbols:
+    path: ../iconifyx_material_symbols
+  iconifyx_material_symbols_light:
+    path: ../iconifyx_material_symbols_light
+  iconifyx_mdi:
+    path: ../iconifyx_mdi
+  iconifyx_mdi_light:
+    path: ../iconifyx_mdi_light
+  iconifyx_medical_icon:
+    path: ../iconifyx_medical_icon
+  iconifyx_memory:
+    path: ../iconifyx_memory
+  iconifyx_meteor_icons:
+    path: ../iconifyx_meteor_icons
+  iconifyx_mi:
+    path: ../iconifyx_mi
+  iconifyx_mingcute:
+    path: ../iconifyx_mingcute
+  iconifyx_mono_icons:
+    path: ../iconifyx_mono_icons
+  iconifyx_mynaui:
+    path: ../iconifyx_mynaui
+  iconifyx_nimbus:
+    path: ../iconifyx_nimbus
+  iconifyx_nonicons:
+    path: ../iconifyx_nonicons
+  iconifyx_noto:
+    path: ../iconifyx_noto
+  iconifyx_noto_v1:
+    path: ../iconifyx_noto_v1
+  iconifyx_nrk:
+    path: ../iconifyx_nrk
+  iconifyx_octicon:
+    path: ../iconifyx_octicon
+  iconifyx_oi:
+    path: ../iconifyx_oi
+  iconifyx_ooui:
+    path: ../iconifyx_ooui
+  iconifyx_oui:
+    path: ../iconifyx_oui
+  iconifyx_pajamas:
+    path: ../iconifyx_pajamas
+  iconifyx_pepicons:
+    path: ../iconifyx_pepicons
+  iconifyx_pepicons_pencil:
+    path: ../iconifyx_pepicons_pencil
+  iconifyx_pepicons_pop:
+    path: ../iconifyx_pepicons_pop
+  iconifyx_pepicons_print:
+    path: ../iconifyx_pepicons_print
+  iconifyx_ph:
+    path: ../iconifyx_ph
+  iconifyx_picon:
+    path: ../iconifyx_picon
+  iconifyx_pixel:
+    path: ../iconifyx_pixel
+  iconifyx_pixelarticons:
+    path: ../iconifyx_pixelarticons
+  iconifyx_prime:
+    path: ../iconifyx_prime
+  iconifyx_proicons:
+    path: ../iconifyx_proicons
+  iconifyx_ps:
+    path: ../iconifyx_ps
+  iconifyx_qlementine_icons:
+    path: ../iconifyx_qlementine_icons
+  iconifyx_quill:
+    path: ../iconifyx_quill
+  iconifyx_radix_icons:
+    path: ../iconifyx_radix_icons
+  iconifyx_raphael:
+    path: ../iconifyx_raphael
+  iconifyx_ri:
+    path: ../iconifyx_ri
+  iconifyx_rivet_icons:
+    path: ../iconifyx_rivet_icons
+  iconifyx_roentgen:
+    path: ../iconifyx_roentgen
+  iconifyx_si:
+    path: ../iconifyx_si
+  iconifyx_si_glyph:
+    path: ../iconifyx_si_glyph
+  iconifyx_sidekickicons:
+    path: ../iconifyx_sidekickicons
+  iconifyx_simple_icons:
+    path: ../iconifyx_simple_icons
+  iconifyx_simple_line_icons:
+    path: ../iconifyx_simple_line_icons
+  iconifyx_skill_icons:
+    path: ../iconifyx_skill_icons
+  iconifyx_solar:
+    path: ../iconifyx_solar
+  iconifyx_stash:
+    path: ../iconifyx_stash
+  iconifyx_streamline:
+    path: ../iconifyx_streamline
+  iconifyx_streamline_block:
+    path: ../iconifyx_streamline_block
+  iconifyx_streamline_color:
+    path: ../iconifyx_streamline_color
+  iconifyx_streamline_cyber:
+    path: ../iconifyx_streamline_cyber
+  iconifyx_streamline_cyber_color:
+    path: ../iconifyx_streamline_cyber_color
+  iconifyx_streamline_emojis:
+    path: ../iconifyx_streamline_emojis
+  iconifyx_streamline_flex:
+    path: ../iconifyx_streamline_flex
+  iconifyx_streamline_flex_color:
+    path: ../iconifyx_streamline_flex_color
+  iconifyx_streamline_freehand:
+    path: ../iconifyx_streamline_freehand
+  iconifyx_streamline_freehand_color:
+    path: ../iconifyx_streamline_freehand_color
+  iconifyx_streamline_kameleon_color:
+    path: ../iconifyx_streamline_kameleon_color
+  iconifyx_streamline_logos:
+    path: ../iconifyx_streamline_logos
+  iconifyx_streamline_pixel:
+    path: ../iconifyx_streamline_pixel
+  iconifyx_streamline_plump:
+    path: ../iconifyx_streamline_plump
+  iconifyx_streamline_plump_color:
+    path: ../iconifyx_streamline_plump_color
+  iconifyx_streamline_sharp:
+    path: ../iconifyx_streamline_sharp
+  iconifyx_streamline_sharp_color:
+    path: ../iconifyx_streamline_sharp_color
+  iconifyx_streamline_stickies_color:
+    path: ../iconifyx_streamline_stickies_color
+  iconifyx_streamline_ultimate:
+    path: ../iconifyx_streamline_ultimate
+  iconifyx_streamline_ultimate_color:
+    path: ../iconifyx_streamline_ultimate_color
+  iconifyx_subway:
+    path: ../iconifyx_subway
+  iconifyx_svg_spinners:
+    path: ../iconifyx_svg_spinners
+  iconifyx_system_uicons:
+    path: ../iconifyx_system_uicons
+  iconifyx_tabler:
+    path: ../iconifyx_tabler
+  iconifyx_tdesign:
+    path: ../iconifyx_tdesign
+  iconifyx_teenyicons:
+    path: ../iconifyx_teenyicons
+  iconifyx_temaki:
+    path: ../iconifyx_temaki
+  iconifyx_token:
+    path: ../iconifyx_token
+  iconifyx_token_branded:
+    path: ../iconifyx_token_branded
+  iconifyx_topcoat:
+    path: ../iconifyx_topcoat
+  iconifyx_twemoji:
+    path: ../iconifyx_twemoji
+  iconifyx_typcn:
+    path: ../iconifyx_typcn
+  iconifyx_uil:
+    path: ../iconifyx_uil
+  iconifyx_uim:
+    path: ../iconifyx_uim
+  iconifyx_uis:
+    path: ../iconifyx_uis
+  iconifyx_uit:
+    path: ../iconifyx_uit
+  iconifyx_uiw:
+    path: ../iconifyx_uiw
+  iconifyx_unjs:
+    path: ../iconifyx_unjs
+  iconifyx_vaadin:
+    path: ../iconifyx_vaadin
+  iconifyx_vs:
+    path: ../iconifyx_vs
+  iconifyx_websymbol:
+    path: ../iconifyx_websymbol
+  iconifyx_weui:
+    path: ../iconifyx_weui
+  iconifyx_whh:
+    path: ../iconifyx_whh
+  iconifyx_wi:
+    path: ../iconifyx_wi
+  iconifyx_wordpress:
+    path: ../iconifyx_wordpress
+  iconifyx_zmdi:
+    path: ../iconifyx_zmdi
+  iconifyx_zondicons:
+    path: ../iconifyx_zondicons

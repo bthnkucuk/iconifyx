@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "prefix": "svg-spinners",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_svg_spinners",
+  "info": {
+    "name": "SVG Spinners",
+    "author": {
+      "name": "Utkarsh Verma",
+      "url": "https://github.com/n3r4zzurr0/svg-spinners"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/n3r4zzurr0/svg-spinners/blob/main/LICENSE"
+    },
+    "total": 46
+  },
+  "fonts": [
+    {
+      "family": "SvgSpinners",
+      "nextCodepoint": 57390,
+      "iconCount": 46
+    }
+  ],
+  "icons": {
+    "12-dots-scale-rotate": {
+      "codepoint": 57344,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n12DotsScaleRotate"
+    },
+    "180-ring": {
+      "codepoint": 57345,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n180Ring"
+    },
+    "180-ring-with-bg": {
+      "codepoint": 57346,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n180RingWithBg"
+    },
+    "270-ring": {
+      "codepoint": 57347,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n270Ring"
+    },
+    "270-ring-with-bg": {
+      "codepoint": 57348,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n270RingWithBg"
+    },
+    "3-dots-bounce": {
+      "codepoint": 57349,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n3DotsBounce"
+    },
+    "3-dots-fade": {
+      "codepoint": 57350,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n3DotsFade"
+    },
+    "3-dots-move": {
+      "codepoint": 57351,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n3DotsMove"
+    },
+    "3-dots-rotate": {
+      "codepoint": 57352,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n3DotsRotate"
+    },
+    "3-dots-scale": {
+      "codepoint": 57353,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n3DotsScale"
+    },
+    "3-dots-scale-middle": {
+      "codepoint": 57354,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n3DotsScaleMiddle"
+    },
+    "6-dots-rotate": {
+      "codepoint": 57355,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n6DotsRotate"
+    },
+    "6-dots-scale": {
+      "codepoint": 57356,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n6DotsScale"
+    },
+    "6-dots-scale-middle": {
+      "codepoint": 57357,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n6DotsScaleMiddle"
+    },
+    "8-dots-rotate": {
+      "codepoint": 57358,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n8DotsRotate"
+    },
+    "90-ring": {
+      "codepoint": 57359,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n90Ring"
+    },
+    "90-ring-with-bg": {
+      "codepoint": 57360,
+      "fontFamily": "SvgSpinners",
+      "identifier": "n90RingWithBg"
+    },
+    "bars-fade": {
+      "codepoint": 57361,
+      "fontFamily": "SvgSpinners",
+      "identifier": "barsFade"
+    },
+    "bars-rotate-fade": {
+      "codepoint": 57362,
+      "fontFamily": "SvgSpinners",
+      "identifier": "barsRotateFade"
+    },
+    "bars-scale": {
+      "codepoint": 57363,
+      "fontFamily": "SvgSpinners",
+      "identifier": "barsScale"
+    },
+    "bars-scale-fade": {
+      "codepoint": 57364,
+      "fontFamily": "SvgSpinners",
+      "identifier": "barsScaleFade"
+    },
+    "bars-scale-middle": {
+      "codepoint": 57365,
+      "fontFamily": "SvgSpinners",
+      "identifier": "barsScaleMiddle"
+    },
+    "blocks-scale": {
+      "codepoint": 57366,
+      "fontFamily": "SvgSpinners",
+      "identifier": "blocksScale"
+    },
+    "blocks-shuffle-2": {
+      "codepoint": 57367,
+      "fontFamily": "SvgSpinners",
+      "identifier": "blocksShuffle2"
+    },
+    "blocks-shuffle-3": {
+      "codepoint": 57368,
+      "fontFamily": "SvgSpinners",
+      "identifier": "blocksShuffle3"
+    },
+    "blocks-wave": {
+      "codepoint": 57369,
+      "fontFamily": "SvgSpinners",
+      "identifier": "blocksWave"
+    },
+    "bouncing-ball": {
+      "codepoint": 57370,
+      "fontFamily": "SvgSpinners",
+      "identifier": "bouncingBall"
+    },
+    "clock": {
+      "codepoint": 57371,
+      "fontFamily": "SvgSpinners",
+      "identifier": "clock"
+    },
+    "dot-revolve": {
+      "codepoint": 57372,
+      "fontFamily": "SvgSpinners",
+      "identifier": "dotRevolve"
+    },
+    "eclipse": {
+      "codepoint": 57373,
+      "fontFamily": "SvgSpinners",
+      "identifier": "eclipse"
+    },
+    "eclipse-half": {
+      "codepoint": 57374,
+      "fontFamily": "SvgSpinners",
+      "identifier": "eclipseHalf"
+    },
+    "gooey-balls-1": {
+      "codepoint": 57375,
+      "fontFamily": "SvgSpinners",
+      "identifier": "gooeyBalls1"
+    },
+    "gooey-balls-2": {
+      "codepoint": 57376,
+      "fontFamily": "SvgSpinners",
+      "identifier": "gooeyBalls2"
+    },
+    "pulse": {
+      "codepoint": 57377,
+      "fontFamily": "SvgSpinners",
+      "identifier": "pulse"
+    },
+    "pulse-2": {
+      "codepoint": 57378,
+      "fontFamily": "SvgSpinners",
+      "identifier": "pulse2"
+    },
+    "pulse-3": {
+      "codepoint": 57379,
+      "fontFamily": "SvgSpinners",
+      "identifier": "pulse3"
+    },
+    "pulse-multiple": {
+      "codepoint": 57380,
+      "fontFamily": "SvgSpinners",
+      "identifier": "pulseMultiple"
+    },
+    "pulse-ring": {
+      "codepoint": 57381,
+      "fontFamily": "SvgSpinners",
+      "identifier": "pulseRing"
+    },
+    "pulse-rings-2": {
+      "codepoint": 57382,
+      "fontFamily": "SvgSpinners",
+      "identifier": "pulseRings2"
+    },
+    "pulse-rings-3": {
+      "codepoint": 57383,
+      "fontFamily": "SvgSpinners",
+      "identifier": "pulseRings3"
+    },
+    "pulse-rings-multiple": {
+      "codepoint": 57384,
+      "fontFamily": "SvgSpinners",
+      "identifier": "pulseRingsMultiple"
+    },
+    "ring-resize": {
+      "codepoint": 57385,
+      "fontFamily": "SvgSpinners",
+      "identifier": "ringResize"
+    },
+    "tadpole": {
+      "codepoint": 57386,
+      "fontFamily": "SvgSpinners",
+      "identifier": "tadpole"
+    },
+    "wifi": {
+      "codepoint": 57387,
+      "fontFamily": "SvgSpinners",
+      "identifier": "wifi"
+    },
+    "wifi-fade": {
+      "codepoint": 57388,
+      "fontFamily": "SvgSpinners",
+      "identifier": "wifiFade"
+    },
+    "wind-toy": {
+      "codepoint": 57389,
+      "fontFamily": "SvgSpinners",
+      "identifier": "windToy"
+    }
+  }
+}

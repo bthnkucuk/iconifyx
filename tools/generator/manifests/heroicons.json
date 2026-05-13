@@ -1,0 +1,6515 @@
+{
+  "schemaVersion": 1,
+  "prefix": "heroicons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_heroicons",
+  "info": {
+    "name": "HeroIcons",
+    "author": {
+      "name": "Refactoring UI Inc",
+      "url": "https://github.com/tailwindlabs/heroicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
+    },
+    "total": 1297
+  },
+  "fonts": [
+    {
+      "family": "Heroicons",
+      "nextCodepoint": 58641,
+      "iconCount": 1297
+    }
+  ],
+  "icons": {
+    "academic-cap": {
+      "codepoint": 57344,
+      "fontFamily": "Heroicons",
+      "identifier": "academicCap"
+    },
+    "academic-cap-16-solid": {
+      "codepoint": 57345,
+      "fontFamily": "Heroicons",
+      "identifier": "academicCap16Solid"
+    },
+    "academic-cap-20-solid": {
+      "codepoint": 57346,
+      "fontFamily": "Heroicons",
+      "identifier": "academicCap20Solid"
+    },
+    "academic-cap-solid": {
+      "codepoint": 57347,
+      "fontFamily": "Heroicons",
+      "identifier": "academicCapSolid"
+    },
+    "adjustments-horizontal": {
+      "codepoint": 57348,
+      "fontFamily": "Heroicons",
+      "identifier": "adjustmentsHorizontal"
+    },
+    "adjustments-horizontal-16-solid": {
+      "codepoint": 57349,
+      "fontFamily": "Heroicons",
+      "identifier": "adjustmentsHorizontal16Solid"
+    },
+    "adjustments-horizontal-20-solid": {
+      "codepoint": 57350,
+      "fontFamily": "Heroicons",
+      "identifier": "adjustmentsHorizontal20Solid"
+    },
+    "adjustments-horizontal-solid": {
+      "codepoint": 57351,
+      "fontFamily": "Heroicons",
+      "identifier": "adjustmentsHorizontalSolid"
+    },
+    "adjustments-vertical": {
+      "codepoint": 57352,
+      "fontFamily": "Heroicons",
+      "identifier": "adjustmentsVertical"
+    },
+    "adjustments-vertical-16-solid": {
+      "codepoint": 57353,
+      "fontFamily": "Heroicons",
+      "identifier": "adjustmentsVertical16Solid"
+    },
+    "adjustments-vertical-20-solid": {
+      "codepoint": 57354,
+      "fontFamily": "Heroicons",
+      "identifier": "adjustmentsVertical20Solid"
+    },
+    "adjustments-vertical-solid": {
+      "codepoint": 57355,
+      "fontFamily": "Heroicons",
+      "identifier": "adjustmentsVerticalSolid"
+    },
+    "archive-box": {
+      "codepoint": 57356,
+      "fontFamily": "Heroicons",
+      "identifier": "archiveBox"
+    },
+    "archive-box-16-solid": {
+      "codepoint": 57357,
+      "fontFamily": "Heroicons",
+      "identifier": "archiveBox16Solid"
+    },
+    "archive-box-20-solid": {
+      "codepoint": 57358,
+      "fontFamily": "Heroicons",
+      "identifier": "archiveBox20Solid"
+    },
+    "archive-box-arrow-down": {
+      "codepoint": 57359,
+      "fontFamily": "Heroicons",
+      "identifier": "archiveBoxArrowDown"
+    },
+    "archive-box-arrow-down-16-solid": {
+      "codepoint": 57360,
+      "fontFamily": "Heroicons",
+      "identifier": "archiveBoxArrowDown16Solid"
+    },
+    "archive-box-arrow-down-20-solid": {
+      "codepoint": 57361,
+      "fontFamily": "Heroicons",
+      "identifier": "archiveBoxArrowDown20Solid"
+    },
+    "archive-box-arrow-down-solid": {
+      "codepoint": 57362,
+      "fontFamily": "Heroicons",
+      "identifier": "archiveBoxArrowDownSolid"
+    },
+    "archive-box-solid": {
+      "codepoint": 57363,
+      "fontFamily": "Heroicons",
+      "identifier": "archiveBoxSolid"
+    },
+    "archive-box-x-mark": {
+      "codepoint": 57364,
+      "fontFamily": "Heroicons",
+      "identifier": "archiveBoxXMark"
+    },
+    "archive-box-x-mark-16-solid": {
+      "codepoint": 57365,
+      "fontFamily": "Heroicons",
+      "identifier": "archiveBoxXMark16Solid"
+    },
+    "archive-box-x-mark-20-solid": {
+      "codepoint": 57366,
+      "fontFamily": "Heroicons",
+      "identifier": "archiveBoxXMark20Solid"
+    },
+    "archive-box-x-mark-solid": {
+      "codepoint": 57367,
+      "fontFamily": "Heroicons",
+      "identifier": "archiveBoxXMarkSolid"
+    },
+    "arrow-down": {
+      "codepoint": 57368,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-16-solid": {
+      "codepoint": 57369,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDown16Solid"
+    },
+    "arrow-down-20-solid": {
+      "codepoint": 57370,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDown20Solid"
+    },
+    "arrow-down-circle": {
+      "codepoint": 57371,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownCircle"
+    },
+    "arrow-down-circle-16-solid": {
+      "codepoint": 57372,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownCircle16Solid"
+    },
+    "arrow-down-circle-20-solid": {
+      "codepoint": 57373,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownCircle20Solid"
+    },
+    "arrow-down-circle-solid": {
+      "codepoint": 57374,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownCircleSolid"
+    },
+    "arrow-down-left": {
+      "codepoint": 57375,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownLeft"
+    },
+    "arrow-down-left-16-solid": {
+      "codepoint": 57376,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownLeft16Solid"
+    },
+    "arrow-down-left-20-solid": {
+      "codepoint": 57377,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownLeft20Solid"
+    },
+    "arrow-down-left-solid": {
+      "codepoint": 57378,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownLeftSolid"
+    },
+    "arrow-down-on-square": {
+      "codepoint": 57379,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownOnSquare"
+    },
+    "arrow-down-on-square-16-solid": {
+      "codepoint": 57380,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownOnSquare16Solid"
+    },
+    "arrow-down-on-square-20-solid": {
+      "codepoint": 57381,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownOnSquare20Solid"
+    },
+    "arrow-down-on-square-solid": {
+      "codepoint": 57382,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownOnSquareSolid"
+    },
+    "arrow-down-on-square-stack": {
+      "codepoint": 57383,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownOnSquareStack"
+    },
+    "arrow-down-on-square-stack-16-solid": {
+      "codepoint": 57384,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownOnSquareStack16Solid"
+    },
+    "arrow-down-on-square-stack-20-solid": {
+      "codepoint": 57385,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownOnSquareStack20Solid"
+    },
+    "arrow-down-on-square-stack-solid": {
+      "codepoint": 57386,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownOnSquareStackSolid"
+    },
+    "arrow-down-right": {
+      "codepoint": 57387,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownRight"
+    },
+    "arrow-down-right-16-solid": {
+      "codepoint": 57388,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownRight16Solid"
+    },
+    "arrow-down-right-20-solid": {
+      "codepoint": 57389,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownRight20Solid"
+    },
+    "arrow-down-right-solid": {
+      "codepoint": 57390,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownRightSolid"
+    },
+    "arrow-down-solid": {
+      "codepoint": 57391,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownSolid"
+    },
+    "arrow-down-tray": {
+      "codepoint": 57392,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownTray"
+    },
+    "arrow-down-tray-16-solid": {
+      "codepoint": 57393,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownTray16Solid"
+    },
+    "arrow-down-tray-20-solid": {
+      "codepoint": 57394,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownTray20Solid"
+    },
+    "arrow-down-tray-solid": {
+      "codepoint": 57395,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowDownTraySolid"
+    },
+    "arrow-left": {
+      "codepoint": 57396,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-16-solid": {
+      "codepoint": 57397,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeft16Solid"
+    },
+    "arrow-left-20-solid": {
+      "codepoint": 57398,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeft20Solid"
+    },
+    "arrow-left-circle": {
+      "codepoint": 57399,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftCircle"
+    },
+    "arrow-left-circle-16-solid": {
+      "codepoint": 57400,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftCircle16Solid"
+    },
+    "arrow-left-circle-20-solid": {
+      "codepoint": 57401,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftCircle20Solid"
+    },
+    "arrow-left-circle-solid": {
+      "codepoint": 57402,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftCircleSolid"
+    },
+    "arrow-left-end-on-rectangle": {
+      "codepoint": 57403,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftEndOnRectangle"
+    },
+    "arrow-left-end-on-rectangle-16-solid": {
+      "codepoint": 57404,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftEndOnRectangle16Solid"
+    },
+    "arrow-left-end-on-rectangle-20-solid": {
+      "codepoint": 57405,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftEndOnRectangle20Solid"
+    },
+    "arrow-left-end-on-rectangle-solid": {
+      "codepoint": 57406,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftEndOnRectangleSolid"
+    },
+    "arrow-left-on-rectangle": {
+      "codepoint": 57407,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftOnRectangle"
+    },
+    "arrow-left-on-rectangle-20-solid": {
+      "codepoint": 57408,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftOnRectangle20Solid"
+    },
+    "arrow-left-on-rectangle-solid": {
+      "codepoint": 57409,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftOnRectangleSolid"
+    },
+    "arrow-left-solid": {
+      "codepoint": 57410,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftSolid"
+    },
+    "arrow-left-start-on-rectangle": {
+      "codepoint": 57411,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftStartOnRectangle"
+    },
+    "arrow-left-start-on-rectangle-16-solid": {
+      "codepoint": 57412,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftStartOnRectangle16Solid"
+    },
+    "arrow-left-start-on-rectangle-20-solid": {
+      "codepoint": 57413,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftStartOnRectangle20Solid"
+    },
+    "arrow-left-start-on-rectangle-solid": {
+      "codepoint": 57414,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLeftStartOnRectangleSolid"
+    },
+    "arrow-long-down": {
+      "codepoint": 57415,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongDown"
+    },
+    "arrow-long-down-16-solid": {
+      "codepoint": 57416,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongDown16Solid"
+    },
+    "arrow-long-down-20-solid": {
+      "codepoint": 57417,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongDown20Solid"
+    },
+    "arrow-long-down-solid": {
+      "codepoint": 57418,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongDownSolid"
+    },
+    "arrow-long-left": {
+      "codepoint": 57419,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongLeft"
+    },
+    "arrow-long-left-16-solid": {
+      "codepoint": 57420,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongLeft16Solid"
+    },
+    "arrow-long-left-20-solid": {
+      "codepoint": 57421,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongLeft20Solid"
+    },
+    "arrow-long-left-solid": {
+      "codepoint": 57422,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongLeftSolid"
+    },
+    "arrow-long-right": {
+      "codepoint": 57423,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongRight"
+    },
+    "arrow-long-right-16-solid": {
+      "codepoint": 57424,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongRight16Solid"
+    },
+    "arrow-long-right-20-solid": {
+      "codepoint": 57425,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongRight20Solid"
+    },
+    "arrow-long-right-solid": {
+      "codepoint": 57426,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongRightSolid"
+    },
+    "arrow-long-up": {
+      "codepoint": 57427,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongUp"
+    },
+    "arrow-long-up-16-solid": {
+      "codepoint": 57428,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongUp16Solid"
+    },
+    "arrow-long-up-20-solid": {
+      "codepoint": 57429,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongUp20Solid"
+    },
+    "arrow-long-up-solid": {
+      "codepoint": 57430,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowLongUpSolid"
+    },
+    "arrow-path": {
+      "codepoint": 57431,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowPath"
+    },
+    "arrow-path-16-solid": {
+      "codepoint": 57432,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowPath16Solid"
+    },
+    "arrow-path-20-solid": {
+      "codepoint": 57433,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowPath20Solid"
+    },
+    "arrow-path-rounded-square": {
+      "codepoint": 57434,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowPathRoundedSquare"
+    },
+    "arrow-path-rounded-square-16-solid": {
+      "codepoint": 57435,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowPathRoundedSquare16Solid"
+    },
+    "arrow-path-rounded-square-20-solid": {
+      "codepoint": 57436,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowPathRoundedSquare20Solid"
+    },
+    "arrow-path-rounded-square-solid": {
+      "codepoint": 57437,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowPathRoundedSquareSolid"
+    },
+    "arrow-path-solid": {
+      "codepoint": 57438,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowPathSolid"
+    },
+    "arrow-right": {
+      "codepoint": 57439,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-16-solid": {
+      "codepoint": 57440,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRight16Solid"
+    },
+    "arrow-right-20-solid": {
+      "codepoint": 57441,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRight20Solid"
+    },
+    "arrow-right-circle": {
+      "codepoint": 57442,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightCircle"
+    },
+    "arrow-right-circle-16-solid": {
+      "codepoint": 57443,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightCircle16Solid"
+    },
+    "arrow-right-circle-20-solid": {
+      "codepoint": 57444,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightCircle20Solid"
+    },
+    "arrow-right-circle-solid": {
+      "codepoint": 57445,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightCircleSolid"
+    },
+    "arrow-right-end-on-rectangle": {
+      "codepoint": 57446,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightEndOnRectangle"
+    },
+    "arrow-right-end-on-rectangle-16-solid": {
+      "codepoint": 57447,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightEndOnRectangle16Solid"
+    },
+    "arrow-right-end-on-rectangle-20-solid": {
+      "codepoint": 57448,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightEndOnRectangle20Solid"
+    },
+    "arrow-right-end-on-rectangle-solid": {
+      "codepoint": 57449,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightEndOnRectangleSolid"
+    },
+    "arrow-right-on-rectangle": {
+      "codepoint": 57450,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightOnRectangle"
+    },
+    "arrow-right-on-rectangle-20-solid": {
+      "codepoint": 57451,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightOnRectangle20Solid"
+    },
+    "arrow-right-on-rectangle-solid": {
+      "codepoint": 57452,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightOnRectangleSolid"
+    },
+    "arrow-right-solid": {
+      "codepoint": 57453,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightSolid"
+    },
+    "arrow-right-start-on-rectangle": {
+      "codepoint": 57454,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightStartOnRectangle"
+    },
+    "arrow-right-start-on-rectangle-16-solid": {
+      "codepoint": 57455,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightStartOnRectangle16Solid"
+    },
+    "arrow-right-start-on-rectangle-20-solid": {
+      "codepoint": 57456,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightStartOnRectangle20Solid"
+    },
+    "arrow-right-start-on-rectangle-solid": {
+      "codepoint": 57457,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowRightStartOnRectangleSolid"
+    },
+    "arrow-small-down": {
+      "codepoint": 57458,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowSmallDown"
+    },
+    "arrow-small-down-20-solid": {
+      "codepoint": 57459,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowSmallDown20Solid"
+    },
+    "arrow-small-down-solid": {
+      "codepoint": 57460,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowSmallDownSolid"
+    },
+    "arrow-small-left": {
+      "codepoint": 57461,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowSmallLeft"
+    },
+    "arrow-small-left-20-solid": {
+      "codepoint": 57462,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowSmallLeft20Solid"
+    },
+    "arrow-small-left-solid": {
+      "codepoint": 57463,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowSmallLeftSolid"
+    },
+    "arrow-small-right": {
+      "codepoint": 57464,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowSmallRight"
+    },
+    "arrow-small-right-20-solid": {
+      "codepoint": 57465,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowSmallRight20Solid"
+    },
+    "arrow-small-right-solid": {
+      "codepoint": 57466,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowSmallRightSolid"
+    },
+    "arrow-small-up": {
+      "codepoint": 57467,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowSmallUp"
+    },
+    "arrow-small-up-20-solid": {
+      "codepoint": 57468,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowSmallUp20Solid"
+    },
+    "arrow-small-up-solid": {
+      "codepoint": 57469,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowSmallUpSolid"
+    },
+    "arrow-top-right-on-square": {
+      "codepoint": 57470,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTopRightOnSquare"
+    },
+    "arrow-top-right-on-square-16-solid": {
+      "codepoint": 57471,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTopRightOnSquare16Solid"
+    },
+    "arrow-top-right-on-square-20-solid": {
+      "codepoint": 57472,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTopRightOnSquare20Solid"
+    },
+    "arrow-top-right-on-square-solid": {
+      "codepoint": 57473,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTopRightOnSquareSolid"
+    },
+    "arrow-trending-down": {
+      "codepoint": 57474,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTrendingDown"
+    },
+    "arrow-trending-down-16-solid": {
+      "codepoint": 57475,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTrendingDown16Solid"
+    },
+    "arrow-trending-down-20-solid": {
+      "codepoint": 57476,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTrendingDown20Solid"
+    },
+    "arrow-trending-down-solid": {
+      "codepoint": 57477,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTrendingDownSolid"
+    },
+    "arrow-trending-up": {
+      "codepoint": 57478,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTrendingUp"
+    },
+    "arrow-trending-up-16-solid": {
+      "codepoint": 57479,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTrendingUp16Solid"
+    },
+    "arrow-trending-up-20-solid": {
+      "codepoint": 57480,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTrendingUp20Solid"
+    },
+    "arrow-trending-up-solid": {
+      "codepoint": 57481,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTrendingUpSolid"
+    },
+    "arrow-turn-down-left": {
+      "codepoint": 57482,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnDownLeft"
+    },
+    "arrow-turn-down-left-16-solid": {
+      "codepoint": 57483,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnDownLeft16Solid"
+    },
+    "arrow-turn-down-left-20-solid": {
+      "codepoint": 57484,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnDownLeft20Solid"
+    },
+    "arrow-turn-down-left-solid": {
+      "codepoint": 57485,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnDownLeftSolid"
+    },
+    "arrow-turn-down-right": {
+      "codepoint": 57486,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnDownRight"
+    },
+    "arrow-turn-down-right-16-solid": {
+      "codepoint": 57487,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnDownRight16Solid"
+    },
+    "arrow-turn-down-right-20-solid": {
+      "codepoint": 57488,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnDownRight20Solid"
+    },
+    "arrow-turn-down-right-solid": {
+      "codepoint": 57489,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnDownRightSolid"
+    },
+    "arrow-turn-left-down": {
+      "codepoint": 57490,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnLeftDown"
+    },
+    "arrow-turn-left-down-16-solid": {
+      "codepoint": 57491,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnLeftDown16Solid"
+    },
+    "arrow-turn-left-down-20-solid": {
+      "codepoint": 57492,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnLeftDown20Solid"
+    },
+    "arrow-turn-left-down-solid": {
+      "codepoint": 57493,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnLeftDownSolid"
+    },
+    "arrow-turn-left-up": {
+      "codepoint": 57494,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnLeftUp"
+    },
+    "arrow-turn-left-up-16-solid": {
+      "codepoint": 57495,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnLeftUp16Solid"
+    },
+    "arrow-turn-left-up-20-solid": {
+      "codepoint": 57496,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnLeftUp20Solid"
+    },
+    "arrow-turn-left-up-solid": {
+      "codepoint": 57497,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnLeftUpSolid"
+    },
+    "arrow-turn-right-down": {
+      "codepoint": 57498,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnRightDown"
+    },
+    "arrow-turn-right-down-16-solid": {
+      "codepoint": 57499,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnRightDown16Solid"
+    },
+    "arrow-turn-right-down-20-solid": {
+      "codepoint": 57500,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnRightDown20Solid"
+    },
+    "arrow-turn-right-down-solid": {
+      "codepoint": 57501,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnRightDownSolid"
+    },
+    "arrow-turn-right-up": {
+      "codepoint": 57502,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnRightUp"
+    },
+    "arrow-turn-right-up-16-solid": {
+      "codepoint": 57503,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnRightUp16Solid"
+    },
+    "arrow-turn-right-up-20-solid": {
+      "codepoint": 57504,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnRightUp20Solid"
+    },
+    "arrow-turn-right-up-solid": {
+      "codepoint": 57505,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnRightUpSolid"
+    },
+    "arrow-turn-up-left": {
+      "codepoint": 57506,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnUpLeft"
+    },
+    "arrow-turn-up-left-16-solid": {
+      "codepoint": 57507,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnUpLeft16Solid"
+    },
+    "arrow-turn-up-left-20-solid": {
+      "codepoint": 57508,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnUpLeft20Solid"
+    },
+    "arrow-turn-up-left-solid": {
+      "codepoint": 57509,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnUpLeftSolid"
+    },
+    "arrow-turn-up-right": {
+      "codepoint": 57510,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnUpRight"
+    },
+    "arrow-turn-up-right-16-solid": {
+      "codepoint": 57511,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnUpRight16Solid"
+    },
+    "arrow-turn-up-right-20-solid": {
+      "codepoint": 57512,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnUpRight20Solid"
+    },
+    "arrow-turn-up-right-solid": {
+      "codepoint": 57513,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowTurnUpRightSolid"
+    },
+    "arrow-up": {
+      "codepoint": 57514,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-16-solid": {
+      "codepoint": 57515,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUp16Solid"
+    },
+    "arrow-up-20-solid": {
+      "codepoint": 57516,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUp20Solid"
+    },
+    "arrow-up-circle": {
+      "codepoint": 57517,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpCircle"
+    },
+    "arrow-up-circle-16-solid": {
+      "codepoint": 57518,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpCircle16Solid"
+    },
+    "arrow-up-circle-20-solid": {
+      "codepoint": 57519,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpCircle20Solid"
+    },
+    "arrow-up-circle-solid": {
+      "codepoint": 57520,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpCircleSolid"
+    },
+    "arrow-up-left": {
+      "codepoint": 57521,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpLeft"
+    },
+    "arrow-up-left-16-solid": {
+      "codepoint": 57522,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpLeft16Solid"
+    },
+    "arrow-up-left-20-solid": {
+      "codepoint": 57523,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpLeft20Solid"
+    },
+    "arrow-up-left-solid": {
+      "codepoint": 57524,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpLeftSolid"
+    },
+    "arrow-up-on-square": {
+      "codepoint": 57525,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpOnSquare"
+    },
+    "arrow-up-on-square-16-solid": {
+      "codepoint": 57526,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpOnSquare16Solid"
+    },
+    "arrow-up-on-square-20-solid": {
+      "codepoint": 57527,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpOnSquare20Solid"
+    },
+    "arrow-up-on-square-solid": {
+      "codepoint": 57528,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpOnSquareSolid"
+    },
+    "arrow-up-on-square-stack": {
+      "codepoint": 57529,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpOnSquareStack"
+    },
+    "arrow-up-on-square-stack-16-solid": {
+      "codepoint": 57530,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpOnSquareStack16Solid"
+    },
+    "arrow-up-on-square-stack-20-solid": {
+      "codepoint": 57531,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpOnSquareStack20Solid"
+    },
+    "arrow-up-on-square-stack-solid": {
+      "codepoint": 57532,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpOnSquareStackSolid"
+    },
+    "arrow-up-right": {
+      "codepoint": 57533,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpRight"
+    },
+    "arrow-up-right-16-solid": {
+      "codepoint": 57534,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpRight16Solid"
+    },
+    "arrow-up-right-20-solid": {
+      "codepoint": 57535,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpRight20Solid"
+    },
+    "arrow-up-right-solid": {
+      "codepoint": 57536,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpRightSolid"
+    },
+    "arrow-up-solid": {
+      "codepoint": 57537,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpSolid"
+    },
+    "arrow-up-tray": {
+      "codepoint": 57538,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpTray"
+    },
+    "arrow-up-tray-16-solid": {
+      "codepoint": 57539,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpTray16Solid"
+    },
+    "arrow-up-tray-20-solid": {
+      "codepoint": 57540,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpTray20Solid"
+    },
+    "arrow-up-tray-solid": {
+      "codepoint": 57541,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUpTraySolid"
+    },
+    "arrow-uturn-down": {
+      "codepoint": 57542,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnDown"
+    },
+    "arrow-uturn-down-16-solid": {
+      "codepoint": 57543,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnDown16Solid"
+    },
+    "arrow-uturn-down-20-solid": {
+      "codepoint": 57544,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnDown20Solid"
+    },
+    "arrow-uturn-down-solid": {
+      "codepoint": 57545,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnDownSolid"
+    },
+    "arrow-uturn-left": {
+      "codepoint": 57546,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnLeft"
+    },
+    "arrow-uturn-left-16-solid": {
+      "codepoint": 57547,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnLeft16Solid"
+    },
+    "arrow-uturn-left-20-solid": {
+      "codepoint": 57548,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnLeft20Solid"
+    },
+    "arrow-uturn-left-solid": {
+      "codepoint": 57549,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnLeftSolid"
+    },
+    "arrow-uturn-right": {
+      "codepoint": 57550,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnRight"
+    },
+    "arrow-uturn-right-16-solid": {
+      "codepoint": 57551,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnRight16Solid"
+    },
+    "arrow-uturn-right-20-solid": {
+      "codepoint": 57552,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnRight20Solid"
+    },
+    "arrow-uturn-right-solid": {
+      "codepoint": 57553,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnRightSolid"
+    },
+    "arrow-uturn-up": {
+      "codepoint": 57554,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnUp"
+    },
+    "arrow-uturn-up-16-solid": {
+      "codepoint": 57555,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnUp16Solid"
+    },
+    "arrow-uturn-up-20-solid": {
+      "codepoint": 57556,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnUp20Solid"
+    },
+    "arrow-uturn-up-solid": {
+      "codepoint": 57557,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowUturnUpSolid"
+    },
+    "arrows-pointing-in": {
+      "codepoint": 57558,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsPointingIn"
+    },
+    "arrows-pointing-in-16-solid": {
+      "codepoint": 57559,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsPointingIn16Solid"
+    },
+    "arrows-pointing-in-20-solid": {
+      "codepoint": 57560,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsPointingIn20Solid"
+    },
+    "arrows-pointing-in-solid": {
+      "codepoint": 57561,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsPointingInSolid"
+    },
+    "arrows-pointing-out": {
+      "codepoint": 57562,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsPointingOut"
+    },
+    "arrows-pointing-out-16-solid": {
+      "codepoint": 57563,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsPointingOut16Solid"
+    },
+    "arrows-pointing-out-20-solid": {
+      "codepoint": 57564,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsPointingOut20Solid"
+    },
+    "arrows-pointing-out-solid": {
+      "codepoint": 57565,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsPointingOutSolid"
+    },
+    "arrows-right-left": {
+      "codepoint": 57566,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsRightLeft"
+    },
+    "arrows-right-left-16-solid": {
+      "codepoint": 57567,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsRightLeft16Solid"
+    },
+    "arrows-right-left-20-solid": {
+      "codepoint": 57568,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsRightLeft20Solid"
+    },
+    "arrows-right-left-solid": {
+      "codepoint": 57569,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsRightLeftSolid"
+    },
+    "arrows-up-down": {
+      "codepoint": 57570,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsUpDown"
+    },
+    "arrows-up-down-16-solid": {
+      "codepoint": 57571,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsUpDown16Solid"
+    },
+    "arrows-up-down-20-solid": {
+      "codepoint": 57572,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsUpDown20Solid"
+    },
+    "arrows-up-down-solid": {
+      "codepoint": 57573,
+      "fontFamily": "Heroicons",
+      "identifier": "arrowsUpDownSolid"
+    },
+    "at-symbol": {
+      "codepoint": 57574,
+      "fontFamily": "Heroicons",
+      "identifier": "atSymbol"
+    },
+    "at-symbol-16-solid": {
+      "codepoint": 57575,
+      "fontFamily": "Heroicons",
+      "identifier": "atSymbol16Solid"
+    },
+    "at-symbol-20-solid": {
+      "codepoint": 57576,
+      "fontFamily": "Heroicons",
+      "identifier": "atSymbol20Solid"
+    },
+    "at-symbol-solid": {
+      "codepoint": 57577,
+      "fontFamily": "Heroicons",
+      "identifier": "atSymbolSolid"
+    },
+    "backspace": {
+      "codepoint": 57578,
+      "fontFamily": "Heroicons",
+      "identifier": "backspace"
+    },
+    "backspace-16-solid": {
+      "codepoint": 57579,
+      "fontFamily": "Heroicons",
+      "identifier": "backspace16Solid"
+    },
+    "backspace-20-solid": {
+      "codepoint": 57580,
+      "fontFamily": "Heroicons",
+      "identifier": "backspace20Solid"
+    },
+    "backspace-solid": {
+      "codepoint": 57581,
+      "fontFamily": "Heroicons",
+      "identifier": "backspaceSolid"
+    },
+    "backward": {
+      "codepoint": 57582,
+      "fontFamily": "Heroicons",
+      "identifier": "backward"
+    },
+    "backward-16-solid": {
+      "codepoint": 57583,
+      "fontFamily": "Heroicons",
+      "identifier": "backward16Solid"
+    },
+    "backward-20-solid": {
+      "codepoint": 57584,
+      "fontFamily": "Heroicons",
+      "identifier": "backward20Solid"
+    },
+    "backward-solid": {
+      "codepoint": 57585,
+      "fontFamily": "Heroicons",
+      "identifier": "backwardSolid"
+    },
+    "banknotes": {
+      "codepoint": 57586,
+      "fontFamily": "Heroicons",
+      "identifier": "banknotes"
+    },
+    "banknotes-16-solid": {
+      "codepoint": 57587,
+      "fontFamily": "Heroicons",
+      "identifier": "banknotes16Solid"
+    },
+    "banknotes-20-solid": {
+      "codepoint": 57588,
+      "fontFamily": "Heroicons",
+      "identifier": "banknotes20Solid"
+    },
+    "banknotes-solid": {
+      "codepoint": 57589,
+      "fontFamily": "Heroicons",
+      "identifier": "banknotesSolid"
+    },
+    "bars-2": {
+      "codepoint": 57590,
+      "fontFamily": "Heroicons",
+      "identifier": "bars2"
+    },
+    "bars-2-16-solid": {
+      "codepoint": 57591,
+      "fontFamily": "Heroicons",
+      "identifier": "bars216Solid"
+    },
+    "bars-2-20-solid": {
+      "codepoint": 57592,
+      "fontFamily": "Heroicons",
+      "identifier": "bars220Solid"
+    },
+    "bars-2-solid": {
+      "codepoint": 57593,
+      "fontFamily": "Heroicons",
+      "identifier": "bars2Solid"
+    },
+    "bars-3": {
+      "codepoint": 57594,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3"
+    },
+    "bars-3-16-solid": {
+      "codepoint": 57595,
+      "fontFamily": "Heroicons",
+      "identifier": "bars316Solid"
+    },
+    "bars-3-20-solid": {
+      "codepoint": 57596,
+      "fontFamily": "Heroicons",
+      "identifier": "bars320Solid"
+    },
+    "bars-3-bottom-left": {
+      "codepoint": 57597,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3BottomLeft"
+    },
+    "bars-3-bottom-left-16-solid": {
+      "codepoint": 57598,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3BottomLeft16Solid"
+    },
+    "bars-3-bottom-left-20-solid": {
+      "codepoint": 57599,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3BottomLeft20Solid"
+    },
+    "bars-3-bottom-left-solid": {
+      "codepoint": 57600,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3BottomLeftSolid"
+    },
+    "bars-3-bottom-right": {
+      "codepoint": 57601,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3BottomRight"
+    },
+    "bars-3-bottom-right-16-solid": {
+      "codepoint": 57602,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3BottomRight16Solid"
+    },
+    "bars-3-bottom-right-20-solid": {
+      "codepoint": 57603,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3BottomRight20Solid"
+    },
+    "bars-3-bottom-right-solid": {
+      "codepoint": 57604,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3BottomRightSolid"
+    },
+    "bars-3-center-left": {
+      "codepoint": 57605,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3CenterLeft"
+    },
+    "bars-3-center-left-16-solid": {
+      "codepoint": 57606,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3CenterLeft16Solid"
+    },
+    "bars-3-center-left-20-solid": {
+      "codepoint": 57607,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3CenterLeft20Solid"
+    },
+    "bars-3-center-left-solid": {
+      "codepoint": 57608,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3CenterLeftSolid"
+    },
+    "bars-3-solid": {
+      "codepoint": 57609,
+      "fontFamily": "Heroicons",
+      "identifier": "bars3Solid"
+    },
+    "bars-4": {
+      "codepoint": 57610,
+      "fontFamily": "Heroicons",
+      "identifier": "bars4"
+    },
+    "bars-4-16-solid": {
+      "codepoint": 57611,
+      "fontFamily": "Heroicons",
+      "identifier": "bars416Solid"
+    },
+    "bars-4-20-solid": {
+      "codepoint": 57612,
+      "fontFamily": "Heroicons",
+      "identifier": "bars420Solid"
+    },
+    "bars-4-solid": {
+      "codepoint": 57613,
+      "fontFamily": "Heroicons",
+      "identifier": "bars4Solid"
+    },
+    "bars-arrow-down": {
+      "codepoint": 57614,
+      "fontFamily": "Heroicons",
+      "identifier": "barsArrowDown"
+    },
+    "bars-arrow-down-16-solid": {
+      "codepoint": 57615,
+      "fontFamily": "Heroicons",
+      "identifier": "barsArrowDown16Solid"
+    },
+    "bars-arrow-down-20-solid": {
+      "codepoint": 57616,
+      "fontFamily": "Heroicons",
+      "identifier": "barsArrowDown20Solid"
+    },
+    "bars-arrow-down-solid": {
+      "codepoint": 57617,
+      "fontFamily": "Heroicons",
+      "identifier": "barsArrowDownSolid"
+    },
+    "bars-arrow-up": {
+      "codepoint": 57618,
+      "fontFamily": "Heroicons",
+      "identifier": "barsArrowUp"
+    },
+    "bars-arrow-up-16-solid": {
+      "codepoint": 57619,
+      "fontFamily": "Heroicons",
+      "identifier": "barsArrowUp16Solid"
+    },
+    "bars-arrow-up-20-solid": {
+      "codepoint": 57620,
+      "fontFamily": "Heroicons",
+      "identifier": "barsArrowUp20Solid"
+    },
+    "bars-arrow-up-solid": {
+      "codepoint": 57621,
+      "fontFamily": "Heroicons",
+      "identifier": "barsArrowUpSolid"
+    },
+    "battery-0": {
+      "codepoint": 57622,
+      "fontFamily": "Heroicons",
+      "identifier": "battery0"
+    },
+    "battery-0-16-solid": {
+      "codepoint": 57623,
+      "fontFamily": "Heroicons",
+      "identifier": "battery016Solid"
+    },
+    "battery-0-20-solid": {
+      "codepoint": 57624,
+      "fontFamily": "Heroicons",
+      "identifier": "battery020Solid"
+    },
+    "battery-0-solid": {
+      "codepoint": 57625,
+      "fontFamily": "Heroicons",
+      "identifier": "battery0Solid"
+    },
+    "battery-100": {
+      "codepoint": 57626,
+      "fontFamily": "Heroicons",
+      "identifier": "battery100"
+    },
+    "battery-100-16-solid": {
+      "codepoint": 57627,
+      "fontFamily": "Heroicons",
+      "identifier": "battery10016Solid"
+    },
+    "battery-100-20-solid": {
+      "codepoint": 57628,
+      "fontFamily": "Heroicons",
+      "identifier": "battery10020Solid"
+    },
+    "battery-100-solid": {
+      "codepoint": 57629,
+      "fontFamily": "Heroicons",
+      "identifier": "battery100Solid"
+    },
+    "battery-50": {
+      "codepoint": 57630,
+      "fontFamily": "Heroicons",
+      "identifier": "battery50"
+    },
+    "battery-50-16-solid": {
+      "codepoint": 57631,
+      "fontFamily": "Heroicons",
+      "identifier": "battery5016Solid"
+    },
+    "battery-50-20-solid": {
+      "codepoint": 57632,
+      "fontFamily": "Heroicons",
+      "identifier": "battery5020Solid"
+    },
+    "battery-50-solid": {
+      "codepoint": 57633,
+      "fontFamily": "Heroicons",
+      "identifier": "battery50Solid"
+    },
+    "beaker": {
+      "codepoint": 57634,
+      "fontFamily": "Heroicons",
+      "identifier": "beaker"
+    },
+    "beaker-16-solid": {
+      "codepoint": 57635,
+      "fontFamily": "Heroicons",
+      "identifier": "beaker16Solid"
+    },
+    "beaker-20-solid": {
+      "codepoint": 57636,
+      "fontFamily": "Heroicons",
+      "identifier": "beaker20Solid"
+    },
+    "beaker-solid": {
+      "codepoint": 57637,
+      "fontFamily": "Heroicons",
+      "identifier": "beakerSolid"
+    },
+    "bell": {
+      "codepoint": 57638,
+      "fontFamily": "Heroicons",
+      "identifier": "bell"
+    },
+    "bell-16-solid": {
+      "codepoint": 57639,
+      "fontFamily": "Heroicons",
+      "identifier": "bell16Solid"
+    },
+    "bell-20-solid": {
+      "codepoint": 57640,
+      "fontFamily": "Heroicons",
+      "identifier": "bell20Solid"
+    },
+    "bell-alert": {
+      "codepoint": 57641,
+      "fontFamily": "Heroicons",
+      "identifier": "bellAlert"
+    },
+    "bell-alert-16-solid": {
+      "codepoint": 57642,
+      "fontFamily": "Heroicons",
+      "identifier": "bellAlert16Solid"
+    },
+    "bell-alert-20-solid": {
+      "codepoint": 57643,
+      "fontFamily": "Heroicons",
+      "identifier": "bellAlert20Solid"
+    },
+    "bell-alert-solid": {
+      "codepoint": 57644,
+      "fontFamily": "Heroicons",
+      "identifier": "bellAlertSolid"
+    },
+    "bell-slash": {
+      "codepoint": 57645,
+      "fontFamily": "Heroicons",
+      "identifier": "bellSlash"
+    },
+    "bell-slash-16-solid": {
+      "codepoint": 57646,
+      "fontFamily": "Heroicons",
+      "identifier": "bellSlash16Solid"
+    },
+    "bell-slash-20-solid": {
+      "codepoint": 57647,
+      "fontFamily": "Heroicons",
+      "identifier": "bellSlash20Solid"
+    },
+    "bell-slash-solid": {
+      "codepoint": 57648,
+      "fontFamily": "Heroicons",
+      "identifier": "bellSlashSolid"
+    },
+    "bell-snooze": {
+      "codepoint": 57649,
+      "fontFamily": "Heroicons",
+      "identifier": "bellSnooze"
+    },
+    "bell-snooze-16-solid": {
+      "codepoint": 57650,
+      "fontFamily": "Heroicons",
+      "identifier": "bellSnooze16Solid"
+    },
+    "bell-snooze-20-solid": {
+      "codepoint": 57651,
+      "fontFamily": "Heroicons",
+      "identifier": "bellSnooze20Solid"
+    },
+    "bell-snooze-solid": {
+      "codepoint": 57652,
+      "fontFamily": "Heroicons",
+      "identifier": "bellSnoozeSolid"
+    },
+    "bell-solid": {
+      "codepoint": 57653,
+      "fontFamily": "Heroicons",
+      "identifier": "bellSolid"
+    },
+    "bold": {
+      "codepoint": 57654,
+      "fontFamily": "Heroicons",
+      "identifier": "bold"
+    },
+    "bold-16-solid": {
+      "codepoint": 57655,
+      "fontFamily": "Heroicons",
+      "identifier": "bold16Solid"
+    },
+    "bold-20-solid": {
+      "codepoint": 57656,
+      "fontFamily": "Heroicons",
+      "identifier": "bold20Solid"
+    },
+    "bold-solid": {
+      "codepoint": 57657,
+      "fontFamily": "Heroicons",
+      "identifier": "boldSolid"
+    },
+    "bolt": {
+      "codepoint": 57658,
+      "fontFamily": "Heroicons",
+      "identifier": "bolt"
+    },
+    "bolt-16-solid": {
+      "codepoint": 57659,
+      "fontFamily": "Heroicons",
+      "identifier": "bolt16Solid"
+    },
+    "bolt-20-solid": {
+      "codepoint": 57660,
+      "fontFamily": "Heroicons",
+      "identifier": "bolt20Solid"
+    },
+    "bolt-slash": {
+      "codepoint": 57661,
+      "fontFamily": "Heroicons",
+      "identifier": "boltSlash"
+    },
+    "bolt-slash-16-solid": {
+      "codepoint": 57662,
+      "fontFamily": "Heroicons",
+      "identifier": "boltSlash16Solid"
+    },
+    "bolt-slash-20-solid": {
+      "codepoint": 57663,
+      "fontFamily": "Heroicons",
+      "identifier": "boltSlash20Solid"
+    },
+    "bolt-slash-solid": {
+      "codepoint": 57664,
+      "fontFamily": "Heroicons",
+      "identifier": "boltSlashSolid"
+    },
+    "bolt-solid": {
+      "codepoint": 57665,
+      "fontFamily": "Heroicons",
+      "identifier": "boltSolid"
+    },
+    "book-open": {
+      "codepoint": 57666,
+      "fontFamily": "Heroicons",
+      "identifier": "bookOpen"
+    },
+    "book-open-16-solid": {
+      "codepoint": 57667,
+      "fontFamily": "Heroicons",
+      "identifier": "bookOpen16Solid"
+    },
+    "book-open-20-solid": {
+      "codepoint": 57668,
+      "fontFamily": "Heroicons",
+      "identifier": "bookOpen20Solid"
+    },
+    "book-open-solid": {
+      "codepoint": 57669,
+      "fontFamily": "Heroicons",
+      "identifier": "bookOpenSolid"
+    },
+    "bookmark": {
+      "codepoint": 57670,
+      "fontFamily": "Heroicons",
+      "identifier": "bookmark"
+    },
+    "bookmark-16-solid": {
+      "codepoint": 57671,
+      "fontFamily": "Heroicons",
+      "identifier": "bookmark16Solid"
+    },
+    "bookmark-20-solid": {
+      "codepoint": 57672,
+      "fontFamily": "Heroicons",
+      "identifier": "bookmark20Solid"
+    },
+    "bookmark-slash": {
+      "codepoint": 57673,
+      "fontFamily": "Heroicons",
+      "identifier": "bookmarkSlash"
+    },
+    "bookmark-slash-16-solid": {
+      "codepoint": 57674,
+      "fontFamily": "Heroicons",
+      "identifier": "bookmarkSlash16Solid"
+    },
+    "bookmark-slash-20-solid": {
+      "codepoint": 57675,
+      "fontFamily": "Heroicons",
+      "identifier": "bookmarkSlash20Solid"
+    },
+    "bookmark-slash-solid": {
+      "codepoint": 57676,
+      "fontFamily": "Heroicons",
+      "identifier": "bookmarkSlashSolid"
+    },
+    "bookmark-solid": {
+      "codepoint": 57677,
+      "fontFamily": "Heroicons",
+      "identifier": "bookmarkSolid"
+    },
+    "bookmark-square": {
+      "codepoint": 57678,
+      "fontFamily": "Heroicons",
+      "identifier": "bookmarkSquare"
+    },
+    "bookmark-square-16-solid": {
+      "codepoint": 57679,
+      "fontFamily": "Heroicons",
+      "identifier": "bookmarkSquare16Solid"
+    },
+    "bookmark-square-20-solid": {
+      "codepoint": 57680,
+      "fontFamily": "Heroicons",
+      "identifier": "bookmarkSquare20Solid"
+    },
+    "bookmark-square-solid": {
+      "codepoint": 57681,
+      "fontFamily": "Heroicons",
+      "identifier": "bookmarkSquareSolid"
+    },
+    "briefcase": {
+      "codepoint": 57682,
+      "fontFamily": "Heroicons",
+      "identifier": "briefcase"
+    },
+    "briefcase-16-solid": {
+      "codepoint": 57683,
+      "fontFamily": "Heroicons",
+      "identifier": "briefcase16Solid"
+    },
+    "briefcase-20-solid": {
+      "codepoint": 57684,
+      "fontFamily": "Heroicons",
+      "identifier": "briefcase20Solid"
+    },
+    "briefcase-solid": {
+      "codepoint": 57685,
+      "fontFamily": "Heroicons",
+      "identifier": "briefcaseSolid"
+    },
+    "bug-ant": {
+      "codepoint": 57686,
+      "fontFamily": "Heroicons",
+      "identifier": "bugAnt"
+    },
+    "bug-ant-16-solid": {
+      "codepoint": 57687,
+      "fontFamily": "Heroicons",
+      "identifier": "bugAnt16Solid"
+    },
+    "bug-ant-20-solid": {
+      "codepoint": 57688,
+      "fontFamily": "Heroicons",
+      "identifier": "bugAnt20Solid"
+    },
+    "bug-ant-solid": {
+      "codepoint": 57689,
+      "fontFamily": "Heroicons",
+      "identifier": "bugAntSolid"
+    },
+    "building-library": {
+      "codepoint": 57690,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingLibrary"
+    },
+    "building-library-16-solid": {
+      "codepoint": 57691,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingLibrary16Solid"
+    },
+    "building-library-20-solid": {
+      "codepoint": 57692,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingLibrary20Solid"
+    },
+    "building-library-solid": {
+      "codepoint": 57693,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingLibrarySolid"
+    },
+    "building-office": {
+      "codepoint": 57694,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingOffice"
+    },
+    "building-office-16-solid": {
+      "codepoint": 57695,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingOffice16Solid"
+    },
+    "building-office-2": {
+      "codepoint": 57696,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingOffice2"
+    },
+    "building-office-2-16-solid": {
+      "codepoint": 57697,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingOffice216Solid"
+    },
+    "building-office-2-20-solid": {
+      "codepoint": 57698,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingOffice220Solid"
+    },
+    "building-office-2-solid": {
+      "codepoint": 57699,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingOffice2Solid"
+    },
+    "building-office-20-solid": {
+      "codepoint": 57700,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingOffice20Solid"
+    },
+    "building-office-solid": {
+      "codepoint": 57701,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingOfficeSolid"
+    },
+    "building-storefront": {
+      "codepoint": 57702,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingStorefront"
+    },
+    "building-storefront-16-solid": {
+      "codepoint": 57703,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingStorefront16Solid"
+    },
+    "building-storefront-20-solid": {
+      "codepoint": 57704,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingStorefront20Solid"
+    },
+    "building-storefront-solid": {
+      "codepoint": 57705,
+      "fontFamily": "Heroicons",
+      "identifier": "buildingStorefrontSolid"
+    },
+    "cake": {
+      "codepoint": 57706,
+      "fontFamily": "Heroicons",
+      "identifier": "cake"
+    },
+    "cake-16-solid": {
+      "codepoint": 57707,
+      "fontFamily": "Heroicons",
+      "identifier": "cake16Solid"
+    },
+    "cake-20-solid": {
+      "codepoint": 57708,
+      "fontFamily": "Heroicons",
+      "identifier": "cake20Solid"
+    },
+    "cake-solid": {
+      "codepoint": 57709,
+      "fontFamily": "Heroicons",
+      "identifier": "cakeSolid"
+    },
+    "calculator": {
+      "codepoint": 57710,
+      "fontFamily": "Heroicons",
+      "identifier": "calculator"
+    },
+    "calculator-16-solid": {
+      "codepoint": 57711,
+      "fontFamily": "Heroicons",
+      "identifier": "calculator16Solid"
+    },
+    "calculator-20-solid": {
+      "codepoint": 57712,
+      "fontFamily": "Heroicons",
+      "identifier": "calculator20Solid"
+    },
+    "calculator-solid": {
+      "codepoint": 57713,
+      "fontFamily": "Heroicons",
+      "identifier": "calculatorSolid"
+    },
+    "calendar": {
+      "codepoint": 57714,
+      "fontFamily": "Heroicons",
+      "identifier": "calendar"
+    },
+    "calendar-16-solid": {
+      "codepoint": 57715,
+      "fontFamily": "Heroicons",
+      "identifier": "calendar16Solid"
+    },
+    "calendar-20-solid": {
+      "codepoint": 57716,
+      "fontFamily": "Heroicons",
+      "identifier": "calendar20Solid"
+    },
+    "calendar-date-range": {
+      "codepoint": 57717,
+      "fontFamily": "Heroicons",
+      "identifier": "calendarDateRange"
+    },
+    "calendar-date-range-16-solid": {
+      "codepoint": 57718,
+      "fontFamily": "Heroicons",
+      "identifier": "calendarDateRange16Solid"
+    },
+    "calendar-date-range-20-solid": {
+      "codepoint": 57719,
+      "fontFamily": "Heroicons",
+      "identifier": "calendarDateRange20Solid"
+    },
+    "calendar-date-range-solid": {
+      "codepoint": 57720,
+      "fontFamily": "Heroicons",
+      "identifier": "calendarDateRangeSolid"
+    },
+    "calendar-days": {
+      "codepoint": 57721,
+      "fontFamily": "Heroicons",
+      "identifier": "calendarDays"
+    },
+    "calendar-days-16-solid": {
+      "codepoint": 57722,
+      "fontFamily": "Heroicons",
+      "identifier": "calendarDays16Solid"
+    },
+    "calendar-days-20-solid": {
+      "codepoint": 57723,
+      "fontFamily": "Heroicons",
+      "identifier": "calendarDays20Solid"
+    },
+    "calendar-days-solid": {
+      "codepoint": 57724,
+      "fontFamily": "Heroicons",
+      "identifier": "calendarDaysSolid"
+    },
+    "calendar-solid": {
+      "codepoint": 57725,
+      "fontFamily": "Heroicons",
+      "identifier": "calendarSolid"
+    },
+    "camera": {
+      "codepoint": 57726,
+      "fontFamily": "Heroicons",
+      "identifier": "camera"
+    },
+    "camera-16-solid": {
+      "codepoint": 57727,
+      "fontFamily": "Heroicons",
+      "identifier": "camera16Solid"
+    },
+    "camera-20-solid": {
+      "codepoint": 57728,
+      "fontFamily": "Heroicons",
+      "identifier": "camera20Solid"
+    },
+    "camera-solid": {
+      "codepoint": 57729,
+      "fontFamily": "Heroicons",
+      "identifier": "cameraSolid"
+    },
+    "chart-bar": {
+      "codepoint": 57730,
+      "fontFamily": "Heroicons",
+      "identifier": "chartBar"
+    },
+    "chart-bar-16-solid": {
+      "codepoint": 57731,
+      "fontFamily": "Heroicons",
+      "identifier": "chartBar16Solid"
+    },
+    "chart-bar-20-solid": {
+      "codepoint": 57732,
+      "fontFamily": "Heroicons",
+      "identifier": "chartBar20Solid"
+    },
+    "chart-bar-solid": {
+      "codepoint": 57733,
+      "fontFamily": "Heroicons",
+      "identifier": "chartBarSolid"
+    },
+    "chart-bar-square": {
+      "codepoint": 57734,
+      "fontFamily": "Heroicons",
+      "identifier": "chartBarSquare"
+    },
+    "chart-bar-square-16-solid": {
+      "codepoint": 57735,
+      "fontFamily": "Heroicons",
+      "identifier": "chartBarSquare16Solid"
+    },
+    "chart-bar-square-20-solid": {
+      "codepoint": 57736,
+      "fontFamily": "Heroicons",
+      "identifier": "chartBarSquare20Solid"
+    },
+    "chart-bar-square-solid": {
+      "codepoint": 57737,
+      "fontFamily": "Heroicons",
+      "identifier": "chartBarSquareSolid"
+    },
+    "chart-pie": {
+      "codepoint": 57738,
+      "fontFamily": "Heroicons",
+      "identifier": "chartPie"
+    },
+    "chart-pie-16-solid": {
+      "codepoint": 57739,
+      "fontFamily": "Heroicons",
+      "identifier": "chartPie16Solid"
+    },
+    "chart-pie-20-solid": {
+      "codepoint": 57740,
+      "fontFamily": "Heroicons",
+      "identifier": "chartPie20Solid"
+    },
+    "chart-pie-solid": {
+      "codepoint": 57741,
+      "fontFamily": "Heroicons",
+      "identifier": "chartPieSolid"
+    },
+    "chat-bubble-bottom-center": {
+      "codepoint": 57742,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleBottomCenter"
+    },
+    "chat-bubble-bottom-center-16-solid": {
+      "codepoint": 57743,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleBottomCenter16Solid"
+    },
+    "chat-bubble-bottom-center-20-solid": {
+      "codepoint": 57744,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleBottomCenter20Solid"
+    },
+    "chat-bubble-bottom-center-solid": {
+      "codepoint": 57745,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleBottomCenterSolid"
+    },
+    "chat-bubble-bottom-center-text": {
+      "codepoint": 57746,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleBottomCenterText"
+    },
+    "chat-bubble-bottom-center-text-16-solid": {
+      "codepoint": 57747,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleBottomCenterText16Solid"
+    },
+    "chat-bubble-bottom-center-text-20-solid": {
+      "codepoint": 57748,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleBottomCenterText20Solid"
+    },
+    "chat-bubble-bottom-center-text-solid": {
+      "codepoint": 57749,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleBottomCenterTextSolid"
+    },
+    "chat-bubble-left": {
+      "codepoint": 57750,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleLeft"
+    },
+    "chat-bubble-left-16-solid": {
+      "codepoint": 57751,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleLeft16Solid"
+    },
+    "chat-bubble-left-20-solid": {
+      "codepoint": 57752,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleLeft20Solid"
+    },
+    "chat-bubble-left-ellipsis": {
+      "codepoint": 57753,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleLeftEllipsis"
+    },
+    "chat-bubble-left-ellipsis-16-solid": {
+      "codepoint": 57754,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleLeftEllipsis16Solid"
+    },
+    "chat-bubble-left-ellipsis-20-solid": {
+      "codepoint": 57755,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleLeftEllipsis20Solid"
+    },
+    "chat-bubble-left-ellipsis-solid": {
+      "codepoint": 57756,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleLeftEllipsisSolid"
+    },
+    "chat-bubble-left-right": {
+      "codepoint": 57757,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleLeftRight"
+    },
+    "chat-bubble-left-right-16-solid": {
+      "codepoint": 57758,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleLeftRight16Solid"
+    },
+    "chat-bubble-left-right-20-solid": {
+      "codepoint": 57759,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleLeftRight20Solid"
+    },
+    "chat-bubble-left-right-solid": {
+      "codepoint": 57760,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleLeftRightSolid"
+    },
+    "chat-bubble-left-solid": {
+      "codepoint": 57761,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleLeftSolid"
+    },
+    "chat-bubble-oval-left": {
+      "codepoint": 57762,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleOvalLeft"
+    },
+    "chat-bubble-oval-left-16-solid": {
+      "codepoint": 57763,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleOvalLeft16Solid"
+    },
+    "chat-bubble-oval-left-20-solid": {
+      "codepoint": 57764,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleOvalLeft20Solid"
+    },
+    "chat-bubble-oval-left-ellipsis": {
+      "codepoint": 57765,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleOvalLeftEllipsis"
+    },
+    "chat-bubble-oval-left-ellipsis-16-solid": {
+      "codepoint": 57766,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleOvalLeftEllipsis16Solid"
+    },
+    "chat-bubble-oval-left-ellipsis-20-solid": {
+      "codepoint": 57767,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleOvalLeftEllipsis20Solid"
+    },
+    "chat-bubble-oval-left-ellipsis-solid": {
+      "codepoint": 57768,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleOvalLeftEllipsisSolid"
+    },
+    "chat-bubble-oval-left-solid": {
+      "codepoint": 57769,
+      "fontFamily": "Heroicons",
+      "identifier": "chatBubbleOvalLeftSolid"
+    },
+    "check": {
+      "codepoint": 57770,
+      "fontFamily": "Heroicons",
+      "identifier": "check"
+    },
+    "check-16-solid": {
+      "codepoint": 57771,
+      "fontFamily": "Heroicons",
+      "identifier": "check16Solid"
+    },
+    "check-20-solid": {
+      "codepoint": 57772,
+      "fontFamily": "Heroicons",
+      "identifier": "check20Solid"
+    },
+    "check-badge": {
+      "codepoint": 57773,
+      "fontFamily": "Heroicons",
+      "identifier": "checkBadge"
+    },
+    "check-badge-16-solid": {
+      "codepoint": 57774,
+      "fontFamily": "Heroicons",
+      "identifier": "checkBadge16Solid"
+    },
+    "check-badge-20-solid": {
+      "codepoint": 57775,
+      "fontFamily": "Heroicons",
+      "identifier": "checkBadge20Solid"
+    },
+    "check-badge-solid": {
+      "codepoint": 57776,
+      "fontFamily": "Heroicons",
+      "identifier": "checkBadgeSolid"
+    },
+    "check-circle": {
+      "codepoint": 57777,
+      "fontFamily": "Heroicons",
+      "identifier": "checkCircle"
+    },
+    "check-circle-16-solid": {
+      "codepoint": 57778,
+      "fontFamily": "Heroicons",
+      "identifier": "checkCircle16Solid"
+    },
+    "check-circle-20-solid": {
+      "codepoint": 57779,
+      "fontFamily": "Heroicons",
+      "identifier": "checkCircle20Solid"
+    },
+    "check-circle-solid": {
+      "codepoint": 57780,
+      "fontFamily": "Heroicons",
+      "identifier": "checkCircleSolid"
+    },
+    "check-solid": {
+      "codepoint": 57781,
+      "fontFamily": "Heroicons",
+      "identifier": "checkSolid"
+    },
+    "chevron-double-down": {
+      "codepoint": 57782,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleDown"
+    },
+    "chevron-double-down-16-solid": {
+      "codepoint": 57783,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleDown16Solid"
+    },
+    "chevron-double-down-20-solid": {
+      "codepoint": 57784,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleDown20Solid"
+    },
+    "chevron-double-down-solid": {
+      "codepoint": 57785,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleDownSolid"
+    },
+    "chevron-double-left": {
+      "codepoint": 57786,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleLeft"
+    },
+    "chevron-double-left-16-solid": {
+      "codepoint": 57787,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleLeft16Solid"
+    },
+    "chevron-double-left-20-solid": {
+      "codepoint": 57788,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleLeft20Solid"
+    },
+    "chevron-double-left-solid": {
+      "codepoint": 57789,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleLeftSolid"
+    },
+    "chevron-double-right": {
+      "codepoint": 57790,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleRight"
+    },
+    "chevron-double-right-16-solid": {
+      "codepoint": 57791,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleRight16Solid"
+    },
+    "chevron-double-right-20-solid": {
+      "codepoint": 57792,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleRight20Solid"
+    },
+    "chevron-double-right-solid": {
+      "codepoint": 57793,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleRightSolid"
+    },
+    "chevron-double-up": {
+      "codepoint": 57794,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleUp"
+    },
+    "chevron-double-up-16-solid": {
+      "codepoint": 57795,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleUp16Solid"
+    },
+    "chevron-double-up-20-solid": {
+      "codepoint": 57796,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleUp20Solid"
+    },
+    "chevron-double-up-solid": {
+      "codepoint": 57797,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDoubleUpSolid"
+    },
+    "chevron-down": {
+      "codepoint": 57798,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDown"
+    },
+    "chevron-down-16-solid": {
+      "codepoint": 57799,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDown16Solid"
+    },
+    "chevron-down-20-solid": {
+      "codepoint": 57800,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDown20Solid"
+    },
+    "chevron-down-solid": {
+      "codepoint": 57801,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronDownSolid"
+    },
+    "chevron-left": {
+      "codepoint": 57802,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronLeft"
+    },
+    "chevron-left-16-solid": {
+      "codepoint": 57803,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronLeft16Solid"
+    },
+    "chevron-left-20-solid": {
+      "codepoint": 57804,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronLeft20Solid"
+    },
+    "chevron-left-solid": {
+      "codepoint": 57805,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronLeftSolid"
+    },
+    "chevron-right": {
+      "codepoint": 57806,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronRight"
+    },
+    "chevron-right-16-solid": {
+      "codepoint": 57807,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronRight16Solid"
+    },
+    "chevron-right-20-solid": {
+      "codepoint": 57808,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronRight20Solid"
+    },
+    "chevron-right-solid": {
+      "codepoint": 57809,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronRightSolid"
+    },
+    "chevron-up": {
+      "codepoint": 57810,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronUp"
+    },
+    "chevron-up-16-solid": {
+      "codepoint": 57811,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronUp16Solid"
+    },
+    "chevron-up-20-solid": {
+      "codepoint": 57812,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronUp20Solid"
+    },
+    "chevron-up-down": {
+      "codepoint": 57813,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronUpDown"
+    },
+    "chevron-up-down-16-solid": {
+      "codepoint": 57814,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronUpDown16Solid"
+    },
+    "chevron-up-down-20-solid": {
+      "codepoint": 57815,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronUpDown20Solid"
+    },
+    "chevron-up-down-solid": {
+      "codepoint": 57816,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronUpDownSolid"
+    },
+    "chevron-up-solid": {
+      "codepoint": 57817,
+      "fontFamily": "Heroicons",
+      "identifier": "chevronUpSolid"
+    },
+    "circle-stack": {
+      "codepoint": 57818,
+      "fontFamily": "Heroicons",
+      "identifier": "circleStack"
+    },
+    "circle-stack-16-solid": {
+      "codepoint": 57819,
+      "fontFamily": "Heroicons",
+      "identifier": "circleStack16Solid"
+    },
+    "circle-stack-20-solid": {
+      "codepoint": 57820,
+      "fontFamily": "Heroicons",
+      "identifier": "circleStack20Solid"
+    },
+    "circle-stack-solid": {
+      "codepoint": 57821,
+      "fontFamily": "Heroicons",
+      "identifier": "circleStackSolid"
+    },
+    "clipboard": {
+      "codepoint": 57822,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboard"
+    },
+    "clipboard-16-solid": {
+      "codepoint": 57823,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboard16Solid"
+    },
+    "clipboard-20-solid": {
+      "codepoint": 57824,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboard20Solid"
+    },
+    "clipboard-document": {
+      "codepoint": 57825,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardDocument"
+    },
+    "clipboard-document-16-solid": {
+      "codepoint": 57826,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardDocument16Solid"
+    },
+    "clipboard-document-20-solid": {
+      "codepoint": 57827,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardDocument20Solid"
+    },
+    "clipboard-document-check": {
+      "codepoint": 57828,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardDocumentCheck"
+    },
+    "clipboard-document-check-16-solid": {
+      "codepoint": 57829,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardDocumentCheck16Solid"
+    },
+    "clipboard-document-check-20-solid": {
+      "codepoint": 57830,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardDocumentCheck20Solid"
+    },
+    "clipboard-document-check-solid": {
+      "codepoint": 57831,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardDocumentCheckSolid"
+    },
+    "clipboard-document-list": {
+      "codepoint": 57832,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardDocumentList"
+    },
+    "clipboard-document-list-16-solid": {
+      "codepoint": 57833,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardDocumentList16Solid"
+    },
+    "clipboard-document-list-20-solid": {
+      "codepoint": 57834,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardDocumentList20Solid"
+    },
+    "clipboard-document-list-solid": {
+      "codepoint": 57835,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardDocumentListSolid"
+    },
+    "clipboard-document-solid": {
+      "codepoint": 57836,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardDocumentSolid"
+    },
+    "clipboard-solid": {
+      "codepoint": 57837,
+      "fontFamily": "Heroicons",
+      "identifier": "clipboardSolid"
+    },
+    "clock": {
+      "codepoint": 57838,
+      "fontFamily": "Heroicons",
+      "identifier": "clock"
+    },
+    "clock-16-solid": {
+      "codepoint": 57839,
+      "fontFamily": "Heroicons",
+      "identifier": "clock16Solid"
+    },
+    "clock-20-solid": {
+      "codepoint": 57840,
+      "fontFamily": "Heroicons",
+      "identifier": "clock20Solid"
+    },
+    "clock-solid": {
+      "codepoint": 57841,
+      "fontFamily": "Heroicons",
+      "identifier": "clockSolid"
+    },
+    "cloud": {
+      "codepoint": 57842,
+      "fontFamily": "Heroicons",
+      "identifier": "cloud"
+    },
+    "cloud-16-solid": {
+      "codepoint": 57843,
+      "fontFamily": "Heroicons",
+      "identifier": "cloud16Solid"
+    },
+    "cloud-20-solid": {
+      "codepoint": 57844,
+      "fontFamily": "Heroicons",
+      "identifier": "cloud20Solid"
+    },
+    "cloud-arrow-down": {
+      "codepoint": 57845,
+      "fontFamily": "Heroicons",
+      "identifier": "cloudArrowDown"
+    },
+    "cloud-arrow-down-16-solid": {
+      "codepoint": 57846,
+      "fontFamily": "Heroicons",
+      "identifier": "cloudArrowDown16Solid"
+    },
+    "cloud-arrow-down-20-solid": {
+      "codepoint": 57847,
+      "fontFamily": "Heroicons",
+      "identifier": "cloudArrowDown20Solid"
+    },
+    "cloud-arrow-down-solid": {
+      "codepoint": 57848,
+      "fontFamily": "Heroicons",
+      "identifier": "cloudArrowDownSolid"
+    },
+    "cloud-arrow-up": {
+      "codepoint": 57849,
+      "fontFamily": "Heroicons",
+      "identifier": "cloudArrowUp"
+    },
+    "cloud-arrow-up-16-solid": {
+      "codepoint": 57850,
+      "fontFamily": "Heroicons",
+      "identifier": "cloudArrowUp16Solid"
+    },
+    "cloud-arrow-up-20-solid": {
+      "codepoint": 57851,
+      "fontFamily": "Heroicons",
+      "identifier": "cloudArrowUp20Solid"
+    },
+    "cloud-arrow-up-solid": {
+      "codepoint": 57852,
+      "fontFamily": "Heroicons",
+      "identifier": "cloudArrowUpSolid"
+    },
+    "cloud-solid": {
+      "codepoint": 57853,
+      "fontFamily": "Heroicons",
+      "identifier": "cloudSolid"
+    },
+    "code-bracket": {
+      "codepoint": 57854,
+      "fontFamily": "Heroicons",
+      "identifier": "codeBracket"
+    },
+    "code-bracket-16-solid": {
+      "codepoint": 57855,
+      "fontFamily": "Heroicons",
+      "identifier": "codeBracket16Solid"
+    },
+    "code-bracket-20-solid": {
+      "codepoint": 57856,
+      "fontFamily": "Heroicons",
+      "identifier": "codeBracket20Solid"
+    },
+    "code-bracket-solid": {
+      "codepoint": 57857,
+      "fontFamily": "Heroicons",
+      "identifier": "codeBracketSolid"
+    },
+    "code-bracket-square": {
+      "codepoint": 57858,
+      "fontFamily": "Heroicons",
+      "identifier": "codeBracketSquare"
+    },
+    "code-bracket-square-16-solid": {
+      "codepoint": 57859,
+      "fontFamily": "Heroicons",
+      "identifier": "codeBracketSquare16Solid"
+    },
+    "code-bracket-square-20-solid": {
+      "codepoint": 57860,
+      "fontFamily": "Heroicons",
+      "identifier": "codeBracketSquare20Solid"
+    },
+    "code-bracket-square-solid": {
+      "codepoint": 57861,
+      "fontFamily": "Heroicons",
+      "identifier": "codeBracketSquareSolid"
+    },
+    "code-solid": {
+      "codepoint": 57862,
+      "fontFamily": "Heroicons",
+      "identifier": "codeSolid"
+    },
+    "code-square-solid": {
+      "codepoint": 57863,
+      "fontFamily": "Heroicons",
+      "identifier": "codeSquareSolid"
+    },
+    "cog": {
+      "codepoint": 57864,
+      "fontFamily": "Heroicons",
+      "identifier": "cog"
+    },
+    "cog-16-solid": {
+      "codepoint": 57865,
+      "fontFamily": "Heroicons",
+      "identifier": "cog16Solid"
+    },
+    "cog-20-solid": {
+      "codepoint": 57866,
+      "fontFamily": "Heroicons",
+      "identifier": "cog20Solid"
+    },
+    "cog-6-tooth": {
+      "codepoint": 57867,
+      "fontFamily": "Heroicons",
+      "identifier": "cog6Tooth"
+    },
+    "cog-6-tooth-16-solid": {
+      "codepoint": 57868,
+      "fontFamily": "Heroicons",
+      "identifier": "cog6Tooth16Solid"
+    },
+    "cog-6-tooth-20-solid": {
+      "codepoint": 57869,
+      "fontFamily": "Heroicons",
+      "identifier": "cog6Tooth20Solid"
+    },
+    "cog-6-tooth-solid": {
+      "codepoint": 57870,
+      "fontFamily": "Heroicons",
+      "identifier": "cog6ToothSolid"
+    },
+    "cog-8-tooth": {
+      "codepoint": 57871,
+      "fontFamily": "Heroicons",
+      "identifier": "cog8Tooth"
+    },
+    "cog-8-tooth-16-solid": {
+      "codepoint": 57872,
+      "fontFamily": "Heroicons",
+      "identifier": "cog8Tooth16Solid"
+    },
+    "cog-8-tooth-20-solid": {
+      "codepoint": 57873,
+      "fontFamily": "Heroicons",
+      "identifier": "cog8Tooth20Solid"
+    },
+    "cog-8-tooth-solid": {
+      "codepoint": 57874,
+      "fontFamily": "Heroicons",
+      "identifier": "cog8ToothSolid"
+    },
+    "cog-solid": {
+      "codepoint": 57875,
+      "fontFamily": "Heroicons",
+      "identifier": "cogSolid"
+    },
+    "command-line": {
+      "codepoint": 57876,
+      "fontFamily": "Heroicons",
+      "identifier": "commandLine"
+    },
+    "command-line-16-solid": {
+      "codepoint": 57877,
+      "fontFamily": "Heroicons",
+      "identifier": "commandLine16Solid"
+    },
+    "command-line-20-solid": {
+      "codepoint": 57878,
+      "fontFamily": "Heroicons",
+      "identifier": "commandLine20Solid"
+    },
+    "command-line-solid": {
+      "codepoint": 57879,
+      "fontFamily": "Heroicons",
+      "identifier": "commandLineSolid"
+    },
+    "computer-desktop": {
+      "codepoint": 57880,
+      "fontFamily": "Heroicons",
+      "identifier": "computerDesktop"
+    },
+    "computer-desktop-16-solid": {
+      "codepoint": 57881,
+      "fontFamily": "Heroicons",
+      "identifier": "computerDesktop16Solid"
+    },
+    "computer-desktop-20-solid": {
+      "codepoint": 57882,
+      "fontFamily": "Heroicons",
+      "identifier": "computerDesktop20Solid"
+    },
+    "computer-desktop-solid": {
+      "codepoint": 57883,
+      "fontFamily": "Heroicons",
+      "identifier": "computerDesktopSolid"
+    },
+    "cpu-chip": {
+      "codepoint": 57884,
+      "fontFamily": "Heroicons",
+      "identifier": "cpuChip"
+    },
+    "cpu-chip-16-solid": {
+      "codepoint": 57885,
+      "fontFamily": "Heroicons",
+      "identifier": "cpuChip16Solid"
+    },
+    "cpu-chip-20-solid": {
+      "codepoint": 57886,
+      "fontFamily": "Heroicons",
+      "identifier": "cpuChip20Solid"
+    },
+    "cpu-chip-solid": {
+      "codepoint": 57887,
+      "fontFamily": "Heroicons",
+      "identifier": "cpuChipSolid"
+    },
+    "credit-card": {
+      "codepoint": 57888,
+      "fontFamily": "Heroicons",
+      "identifier": "creditCard"
+    },
+    "credit-card-16-solid": {
+      "codepoint": 57889,
+      "fontFamily": "Heroicons",
+      "identifier": "creditCard16Solid"
+    },
+    "credit-card-20-solid": {
+      "codepoint": 57890,
+      "fontFamily": "Heroicons",
+      "identifier": "creditCard20Solid"
+    },
+    "credit-card-solid": {
+      "codepoint": 57891,
+      "fontFamily": "Heroicons",
+      "identifier": "creditCardSolid"
+    },
+    "cube": {
+      "codepoint": 57892,
+      "fontFamily": "Heroicons",
+      "identifier": "cube"
+    },
+    "cube-16-solid": {
+      "codepoint": 57893,
+      "fontFamily": "Heroicons",
+      "identifier": "cube16Solid"
+    },
+    "cube-20-solid": {
+      "codepoint": 57894,
+      "fontFamily": "Heroicons",
+      "identifier": "cube20Solid"
+    },
+    "cube-solid": {
+      "codepoint": 57895,
+      "fontFamily": "Heroicons",
+      "identifier": "cubeSolid"
+    },
+    "cube-transparent": {
+      "codepoint": 57896,
+      "fontFamily": "Heroicons",
+      "identifier": "cubeTransparent"
+    },
+    "cube-transparent-16-solid": {
+      "codepoint": 57897,
+      "fontFamily": "Heroicons",
+      "identifier": "cubeTransparent16Solid"
+    },
+    "cube-transparent-20-solid": {
+      "codepoint": 57898,
+      "fontFamily": "Heroicons",
+      "identifier": "cubeTransparent20Solid"
+    },
+    "cube-transparent-solid": {
+      "codepoint": 57899,
+      "fontFamily": "Heroicons",
+      "identifier": "cubeTransparentSolid"
+    },
+    "currency-bangladeshi": {
+      "codepoint": 57900,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyBangladeshi"
+    },
+    "currency-bangladeshi-16-solid": {
+      "codepoint": 57901,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyBangladeshi16Solid"
+    },
+    "currency-bangladeshi-20-solid": {
+      "codepoint": 57902,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyBangladeshi20Solid"
+    },
+    "currency-bangladeshi-solid": {
+      "codepoint": 57903,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyBangladeshiSolid"
+    },
+    "currency-dollar": {
+      "codepoint": 57904,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyDollar"
+    },
+    "currency-dollar-16-solid": {
+      "codepoint": 57905,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyDollar16Solid"
+    },
+    "currency-dollar-20-solid": {
+      "codepoint": 57906,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyDollar20Solid"
+    },
+    "currency-dollar-solid": {
+      "codepoint": 57907,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyDollarSolid"
+    },
+    "currency-euro": {
+      "codepoint": 57908,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyEuro"
+    },
+    "currency-euro-16-solid": {
+      "codepoint": 57909,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyEuro16Solid"
+    },
+    "currency-euro-20-solid": {
+      "codepoint": 57910,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyEuro20Solid"
+    },
+    "currency-euro-solid": {
+      "codepoint": 57911,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyEuroSolid"
+    },
+    "currency-pound": {
+      "codepoint": 57912,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyPound"
+    },
+    "currency-pound-16-solid": {
+      "codepoint": 57913,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyPound16Solid"
+    },
+    "currency-pound-20-solid": {
+      "codepoint": 57914,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyPound20Solid"
+    },
+    "currency-pound-solid": {
+      "codepoint": 57915,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyPoundSolid"
+    },
+    "currency-rupee": {
+      "codepoint": 57916,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyRupee"
+    },
+    "currency-rupee-16-solid": {
+      "codepoint": 57917,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyRupee16Solid"
+    },
+    "currency-rupee-20-solid": {
+      "codepoint": 57918,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyRupee20Solid"
+    },
+    "currency-rupee-solid": {
+      "codepoint": 57919,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyRupeeSolid"
+    },
+    "currency-yen": {
+      "codepoint": 57920,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyYen"
+    },
+    "currency-yen-16-solid": {
+      "codepoint": 57921,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyYen16Solid"
+    },
+    "currency-yen-20-solid": {
+      "codepoint": 57922,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyYen20Solid"
+    },
+    "currency-yen-solid": {
+      "codepoint": 57923,
+      "fontFamily": "Heroicons",
+      "identifier": "currencyYenSolid"
+    },
+    "cursor-arrow-rays": {
+      "codepoint": 57924,
+      "fontFamily": "Heroicons",
+      "identifier": "cursorArrowRays"
+    },
+    "cursor-arrow-rays-16-solid": {
+      "codepoint": 57925,
+      "fontFamily": "Heroicons",
+      "identifier": "cursorArrowRays16Solid"
+    },
+    "cursor-arrow-rays-20-solid": {
+      "codepoint": 57926,
+      "fontFamily": "Heroicons",
+      "identifier": "cursorArrowRays20Solid"
+    },
+    "cursor-arrow-rays-solid": {
+      "codepoint": 57927,
+      "fontFamily": "Heroicons",
+      "identifier": "cursorArrowRaysSolid"
+    },
+    "cursor-arrow-ripple": {
+      "codepoint": 57928,
+      "fontFamily": "Heroicons",
+      "identifier": "cursorArrowRipple"
+    },
+    "cursor-arrow-ripple-16-solid": {
+      "codepoint": 57929,
+      "fontFamily": "Heroicons",
+      "identifier": "cursorArrowRipple16Solid"
+    },
+    "cursor-arrow-ripple-20-solid": {
+      "codepoint": 57930,
+      "fontFamily": "Heroicons",
+      "identifier": "cursorArrowRipple20Solid"
+    },
+    "cursor-arrow-ripple-solid": {
+      "codepoint": 57931,
+      "fontFamily": "Heroicons",
+      "identifier": "cursorArrowRippleSolid"
+    },
+    "device-phone-mobile": {
+      "codepoint": 57932,
+      "fontFamily": "Heroicons",
+      "identifier": "devicePhoneMobile"
+    },
+    "device-phone-mobile-16-solid": {
+      "codepoint": 57933,
+      "fontFamily": "Heroicons",
+      "identifier": "devicePhoneMobile16Solid"
+    },
+    "device-phone-mobile-20-solid": {
+      "codepoint": 57934,
+      "fontFamily": "Heroicons",
+      "identifier": "devicePhoneMobile20Solid"
+    },
+    "device-phone-mobile-solid": {
+      "codepoint": 57935,
+      "fontFamily": "Heroicons",
+      "identifier": "devicePhoneMobileSolid"
+    },
+    "device-tablet": {
+      "codepoint": 57936,
+      "fontFamily": "Heroicons",
+      "identifier": "deviceTablet"
+    },
+    "device-tablet-16-solid": {
+      "codepoint": 57937,
+      "fontFamily": "Heroicons",
+      "identifier": "deviceTablet16Solid"
+    },
+    "device-tablet-20-solid": {
+      "codepoint": 57938,
+      "fontFamily": "Heroicons",
+      "identifier": "deviceTablet20Solid"
+    },
+    "device-tablet-solid": {
+      "codepoint": 57939,
+      "fontFamily": "Heroicons",
+      "identifier": "deviceTabletSolid"
+    },
+    "divide": {
+      "codepoint": 57940,
+      "fontFamily": "Heroicons",
+      "identifier": "divide"
+    },
+    "divide-16-solid": {
+      "codepoint": 57941,
+      "fontFamily": "Heroicons",
+      "identifier": "divide16Solid"
+    },
+    "divide-20-solid": {
+      "codepoint": 57942,
+      "fontFamily": "Heroicons",
+      "identifier": "divide20Solid"
+    },
+    "divide-solid": {
+      "codepoint": 57943,
+      "fontFamily": "Heroicons",
+      "identifier": "divideSolid"
+    },
+    "document": {
+      "codepoint": 57944,
+      "fontFamily": "Heroicons",
+      "identifier": "document"
+    },
+    "document-16-solid": {
+      "codepoint": 57945,
+      "fontFamily": "Heroicons",
+      "identifier": "document16Solid"
+    },
+    "document-20-solid": {
+      "codepoint": 57946,
+      "fontFamily": "Heroicons",
+      "identifier": "document20Solid"
+    },
+    "document-arrow-down": {
+      "codepoint": 57947,
+      "fontFamily": "Heroicons",
+      "identifier": "documentArrowDown"
+    },
+    "document-arrow-down-16-solid": {
+      "codepoint": 57948,
+      "fontFamily": "Heroicons",
+      "identifier": "documentArrowDown16Solid"
+    },
+    "document-arrow-down-20-solid": {
+      "codepoint": 57949,
+      "fontFamily": "Heroicons",
+      "identifier": "documentArrowDown20Solid"
+    },
+    "document-arrow-down-solid": {
+      "codepoint": 57950,
+      "fontFamily": "Heroicons",
+      "identifier": "documentArrowDownSolid"
+    },
+    "document-arrow-up": {
+      "codepoint": 57951,
+      "fontFamily": "Heroicons",
+      "identifier": "documentArrowUp"
+    },
+    "document-arrow-up-16-solid": {
+      "codepoint": 57952,
+      "fontFamily": "Heroicons",
+      "identifier": "documentArrowUp16Solid"
+    },
+    "document-arrow-up-20-solid": {
+      "codepoint": 57953,
+      "fontFamily": "Heroicons",
+      "identifier": "documentArrowUp20Solid"
+    },
+    "document-arrow-up-solid": {
+      "codepoint": 57954,
+      "fontFamily": "Heroicons",
+      "identifier": "documentArrowUpSolid"
+    },
+    "document-chart-bar": {
+      "codepoint": 57955,
+      "fontFamily": "Heroicons",
+      "identifier": "documentChartBar"
+    },
+    "document-chart-bar-16-solid": {
+      "codepoint": 57956,
+      "fontFamily": "Heroicons",
+      "identifier": "documentChartBar16Solid"
+    },
+    "document-chart-bar-20-solid": {
+      "codepoint": 57957,
+      "fontFamily": "Heroicons",
+      "identifier": "documentChartBar20Solid"
+    },
+    "document-chart-bar-solid": {
+      "codepoint": 57958,
+      "fontFamily": "Heroicons",
+      "identifier": "documentChartBarSolid"
+    },
+    "document-check": {
+      "codepoint": 57959,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCheck"
+    },
+    "document-check-16-solid": {
+      "codepoint": 57960,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCheck16Solid"
+    },
+    "document-check-20-solid": {
+      "codepoint": 57961,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCheck20Solid"
+    },
+    "document-check-solid": {
+      "codepoint": 57962,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCheckSolid"
+    },
+    "document-currency-bangladeshi": {
+      "codepoint": 57963,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyBangladeshi"
+    },
+    "document-currency-bangladeshi-16-solid": {
+      "codepoint": 57964,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyBangladeshi16Solid"
+    },
+    "document-currency-bangladeshi-20-solid": {
+      "codepoint": 57965,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyBangladeshi20Solid"
+    },
+    "document-currency-bangladeshi-solid": {
+      "codepoint": 57966,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyBangladeshiSolid"
+    },
+    "document-currency-dollar": {
+      "codepoint": 57967,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyDollar"
+    },
+    "document-currency-dollar-16-solid": {
+      "codepoint": 57968,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyDollar16Solid"
+    },
+    "document-currency-dollar-20-solid": {
+      "codepoint": 57969,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyDollar20Solid"
+    },
+    "document-currency-dollar-solid": {
+      "codepoint": 57970,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyDollarSolid"
+    },
+    "document-currency-euro": {
+      "codepoint": 57971,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyEuro"
+    },
+    "document-currency-euro-16-solid": {
+      "codepoint": 57972,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyEuro16Solid"
+    },
+    "document-currency-euro-20-solid": {
+      "codepoint": 57973,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyEuro20Solid"
+    },
+    "document-currency-euro-solid": {
+      "codepoint": 57974,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyEuroSolid"
+    },
+    "document-currency-pound": {
+      "codepoint": 57975,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyPound"
+    },
+    "document-currency-pound-16-solid": {
+      "codepoint": 57976,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyPound16Solid"
+    },
+    "document-currency-pound-20-solid": {
+      "codepoint": 57977,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyPound20Solid"
+    },
+    "document-currency-pound-solid": {
+      "codepoint": 57978,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyPoundSolid"
+    },
+    "document-currency-rupee": {
+      "codepoint": 57979,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyRupee"
+    },
+    "document-currency-rupee-16-solid": {
+      "codepoint": 57980,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyRupee16Solid"
+    },
+    "document-currency-rupee-20-solid": {
+      "codepoint": 57981,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyRupee20Solid"
+    },
+    "document-currency-rupee-solid": {
+      "codepoint": 57982,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyRupeeSolid"
+    },
+    "document-currency-yen": {
+      "codepoint": 57983,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyYen"
+    },
+    "document-currency-yen-16-solid": {
+      "codepoint": 57984,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyYen16Solid"
+    },
+    "document-currency-yen-20-solid": {
+      "codepoint": 57985,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyYen20Solid"
+    },
+    "document-currency-yen-solid": {
+      "codepoint": 57986,
+      "fontFamily": "Heroicons",
+      "identifier": "documentCurrencyYenSolid"
+    },
+    "document-duplicate": {
+      "codepoint": 57987,
+      "fontFamily": "Heroicons",
+      "identifier": "documentDuplicate"
+    },
+    "document-duplicate-16-solid": {
+      "codepoint": 57988,
+      "fontFamily": "Heroicons",
+      "identifier": "documentDuplicate16Solid"
+    },
+    "document-duplicate-20-solid": {
+      "codepoint": 57989,
+      "fontFamily": "Heroicons",
+      "identifier": "documentDuplicate20Solid"
+    },
+    "document-duplicate-solid": {
+      "codepoint": 57990,
+      "fontFamily": "Heroicons",
+      "identifier": "documentDuplicateSolid"
+    },
+    "document-magnifying-glass": {
+      "codepoint": 57991,
+      "fontFamily": "Heroicons",
+      "identifier": "documentMagnifyingGlass"
+    },
+    "document-magnifying-glass-16-solid": {
+      "codepoint": 57992,
+      "fontFamily": "Heroicons",
+      "identifier": "documentMagnifyingGlass16Solid"
+    },
+    "document-magnifying-glass-20-solid": {
+      "codepoint": 57993,
+      "fontFamily": "Heroicons",
+      "identifier": "documentMagnifyingGlass20Solid"
+    },
+    "document-magnifying-glass-solid": {
+      "codepoint": 57994,
+      "fontFamily": "Heroicons",
+      "identifier": "documentMagnifyingGlassSolid"
+    },
+    "document-minus": {
+      "codepoint": 57995,
+      "fontFamily": "Heroicons",
+      "identifier": "documentMinus"
+    },
+    "document-minus-16-solid": {
+      "codepoint": 57996,
+      "fontFamily": "Heroicons",
+      "identifier": "documentMinus16Solid"
+    },
+    "document-minus-20-solid": {
+      "codepoint": 57997,
+      "fontFamily": "Heroicons",
+      "identifier": "documentMinus20Solid"
+    },
+    "document-minus-solid": {
+      "codepoint": 57998,
+      "fontFamily": "Heroicons",
+      "identifier": "documentMinusSolid"
+    },
+    "document-plus": {
+      "codepoint": 57999,
+      "fontFamily": "Heroicons",
+      "identifier": "documentPlus"
+    },
+    "document-plus-16-solid": {
+      "codepoint": 58000,
+      "fontFamily": "Heroicons",
+      "identifier": "documentPlus16Solid"
+    },
+    "document-plus-20-solid": {
+      "codepoint": 58001,
+      "fontFamily": "Heroicons",
+      "identifier": "documentPlus20Solid"
+    },
+    "document-plus-solid": {
+      "codepoint": 58002,
+      "fontFamily": "Heroicons",
+      "identifier": "documentPlusSolid"
+    },
+    "document-solid": {
+      "codepoint": 58003,
+      "fontFamily": "Heroicons",
+      "identifier": "documentSolid"
+    },
+    "document-text": {
+      "codepoint": 58004,
+      "fontFamily": "Heroicons",
+      "identifier": "documentText"
+    },
+    "document-text-16-solid": {
+      "codepoint": 58005,
+      "fontFamily": "Heroicons",
+      "identifier": "documentText16Solid"
+    },
+    "document-text-20-solid": {
+      "codepoint": 58006,
+      "fontFamily": "Heroicons",
+      "identifier": "documentText20Solid"
+    },
+    "document-text-solid": {
+      "codepoint": 58007,
+      "fontFamily": "Heroicons",
+      "identifier": "documentTextSolid"
+    },
+    "ellipsis-horizontal": {
+      "codepoint": 58008,
+      "fontFamily": "Heroicons",
+      "identifier": "ellipsisHorizontal"
+    },
+    "ellipsis-horizontal-16-solid": {
+      "codepoint": 58009,
+      "fontFamily": "Heroicons",
+      "identifier": "ellipsisHorizontal16Solid"
+    },
+    "ellipsis-horizontal-20-solid": {
+      "codepoint": 58010,
+      "fontFamily": "Heroicons",
+      "identifier": "ellipsisHorizontal20Solid"
+    },
+    "ellipsis-horizontal-circle": {
+      "codepoint": 58011,
+      "fontFamily": "Heroicons",
+      "identifier": "ellipsisHorizontalCircle"
+    },
+    "ellipsis-horizontal-circle-16-solid": {
+      "codepoint": 58012,
+      "fontFamily": "Heroicons",
+      "identifier": "ellipsisHorizontalCircle16Solid"
+    },
+    "ellipsis-horizontal-circle-20-solid": {
+      "codepoint": 58013,
+      "fontFamily": "Heroicons",
+      "identifier": "ellipsisHorizontalCircle20Solid"
+    },
+    "ellipsis-horizontal-circle-solid": {
+      "codepoint": 58014,
+      "fontFamily": "Heroicons",
+      "identifier": "ellipsisHorizontalCircleSolid"
+    },
+    "ellipsis-horizontal-solid": {
+      "codepoint": 58015,
+      "fontFamily": "Heroicons",
+      "identifier": "ellipsisHorizontalSolid"
+    },
+    "ellipsis-vertical": {
+      "codepoint": 58016,
+      "fontFamily": "Heroicons",
+      "identifier": "ellipsisVertical"
+    },
+    "ellipsis-vertical-16-solid": {
+      "codepoint": 58017,
+      "fontFamily": "Heroicons",
+      "identifier": "ellipsisVertical16Solid"
+    },
+    "ellipsis-vertical-20-solid": {
+      "codepoint": 58018,
+      "fontFamily": "Heroicons",
+      "identifier": "ellipsisVertical20Solid"
+    },
+    "ellipsis-vertical-solid": {
+      "codepoint": 58019,
+      "fontFamily": "Heroicons",
+      "identifier": "ellipsisVerticalSolid"
+    },
+    "envelope": {
+      "codepoint": 58020,
+      "fontFamily": "Heroicons",
+      "identifier": "envelope"
+    },
+    "envelope-16-solid": {
+      "codepoint": 58021,
+      "fontFamily": "Heroicons",
+      "identifier": "envelope16Solid"
+    },
+    "envelope-20-solid": {
+      "codepoint": 58022,
+      "fontFamily": "Heroicons",
+      "identifier": "envelope20Solid"
+    },
+    "envelope-open": {
+      "codepoint": 58023,
+      "fontFamily": "Heroicons",
+      "identifier": "envelopeOpen"
+    },
+    "envelope-open-16-solid": {
+      "codepoint": 58024,
+      "fontFamily": "Heroicons",
+      "identifier": "envelopeOpen16Solid"
+    },
+    "envelope-open-20-solid": {
+      "codepoint": 58025,
+      "fontFamily": "Heroicons",
+      "identifier": "envelopeOpen20Solid"
+    },
+    "envelope-open-solid": {
+      "codepoint": 58026,
+      "fontFamily": "Heroicons",
+      "identifier": "envelopeOpenSolid"
+    },
+    "envelope-solid": {
+      "codepoint": 58027,
+      "fontFamily": "Heroicons",
+      "identifier": "envelopeSolid"
+    },
+    "equals": {
+      "codepoint": 58028,
+      "fontFamily": "Heroicons",
+      "identifier": "equals"
+    },
+    "equals-16-solid": {
+      "codepoint": 58029,
+      "fontFamily": "Heroicons",
+      "identifier": "equals16Solid"
+    },
+    "equals-20-solid": {
+      "codepoint": 58030,
+      "fontFamily": "Heroicons",
+      "identifier": "equals20Solid"
+    },
+    "equals-solid": {
+      "codepoint": 58031,
+      "fontFamily": "Heroicons",
+      "identifier": "equalsSolid"
+    },
+    "exclaimation-circle": {
+      "codepoint": 58032,
+      "fontFamily": "Heroicons",
+      "identifier": "exclaimationCircle"
+    },
+    "exclaimation-circle-solid": {
+      "codepoint": 58033,
+      "fontFamily": "Heroicons",
+      "identifier": "exclaimationCircleSolid"
+    },
+    "exclaimation-triangle": {
+      "codepoint": 58034,
+      "fontFamily": "Heroicons",
+      "identifier": "exclaimationTriangle"
+    },
+    "exclaimation-triangle-solid": {
+      "codepoint": 58035,
+      "fontFamily": "Heroicons",
+      "identifier": "exclaimationTriangleSolid"
+    },
+    "exclamation-circle": {
+      "codepoint": 58036,
+      "fontFamily": "Heroicons",
+      "identifier": "exclamationCircle"
+    },
+    "exclamation-circle-16-solid": {
+      "codepoint": 58037,
+      "fontFamily": "Heroicons",
+      "identifier": "exclamationCircle16Solid"
+    },
+    "exclamation-circle-20-solid": {
+      "codepoint": 58038,
+      "fontFamily": "Heroicons",
+      "identifier": "exclamationCircle20Solid"
+    },
+    "exclamation-circle-solid": {
+      "codepoint": 58039,
+      "fontFamily": "Heroicons",
+      "identifier": "exclamationCircleSolid"
+    },
+    "exclamation-triangle": {
+      "codepoint": 58040,
+      "fontFamily": "Heroicons",
+      "identifier": "exclamationTriangle"
+    },
+    "exclamation-triangle-16-solid": {
+      "codepoint": 58041,
+      "fontFamily": "Heroicons",
+      "identifier": "exclamationTriangle16Solid"
+    },
+    "exclamation-triangle-20-solid": {
+      "codepoint": 58042,
+      "fontFamily": "Heroicons",
+      "identifier": "exclamationTriangle20Solid"
+    },
+    "exclamation-triangle-solid": {
+      "codepoint": 58043,
+      "fontFamily": "Heroicons",
+      "identifier": "exclamationTriangleSolid"
+    },
+    "eye": {
+      "codepoint": 58044,
+      "fontFamily": "Heroicons",
+      "identifier": "eye"
+    },
+    "eye-16-solid": {
+      "codepoint": 58045,
+      "fontFamily": "Heroicons",
+      "identifier": "eye16Solid"
+    },
+    "eye-20-solid": {
+      "codepoint": 58046,
+      "fontFamily": "Heroicons",
+      "identifier": "eye20Solid"
+    },
+    "eye-dropper": {
+      "codepoint": 58047,
+      "fontFamily": "Heroicons",
+      "identifier": "eyeDropper"
+    },
+    "eye-dropper-16-solid": {
+      "codepoint": 58048,
+      "fontFamily": "Heroicons",
+      "identifier": "eyeDropper16Solid"
+    },
+    "eye-dropper-20-solid": {
+      "codepoint": 58049,
+      "fontFamily": "Heroicons",
+      "identifier": "eyeDropper20Solid"
+    },
+    "eye-dropper-solid": {
+      "codepoint": 58050,
+      "fontFamily": "Heroicons",
+      "identifier": "eyeDropperSolid"
+    },
+    "eye-slash": {
+      "codepoint": 58051,
+      "fontFamily": "Heroicons",
+      "identifier": "eyeSlash"
+    },
+    "eye-slash-16-solid": {
+      "codepoint": 58052,
+      "fontFamily": "Heroicons",
+      "identifier": "eyeSlash16Solid"
+    },
+    "eye-slash-20-solid": {
+      "codepoint": 58053,
+      "fontFamily": "Heroicons",
+      "identifier": "eyeSlash20Solid"
+    },
+    "eye-slash-solid": {
+      "codepoint": 58054,
+      "fontFamily": "Heroicons",
+      "identifier": "eyeSlashSolid"
+    },
+    "eye-solid": {
+      "codepoint": 58055,
+      "fontFamily": "Heroicons",
+      "identifier": "eyeSolid"
+    },
+    "face-frown": {
+      "codepoint": 58056,
+      "fontFamily": "Heroicons",
+      "identifier": "faceFrown"
+    },
+    "face-frown-16-solid": {
+      "codepoint": 58057,
+      "fontFamily": "Heroicons",
+      "identifier": "faceFrown16Solid"
+    },
+    "face-frown-20-solid": {
+      "codepoint": 58058,
+      "fontFamily": "Heroicons",
+      "identifier": "faceFrown20Solid"
+    },
+    "face-frown-solid": {
+      "codepoint": 58059,
+      "fontFamily": "Heroicons",
+      "identifier": "faceFrownSolid"
+    },
+    "face-smile": {
+      "codepoint": 58060,
+      "fontFamily": "Heroicons",
+      "identifier": "faceSmile"
+    },
+    "face-smile-16-solid": {
+      "codepoint": 58061,
+      "fontFamily": "Heroicons",
+      "identifier": "faceSmile16Solid"
+    },
+    "face-smile-20-solid": {
+      "codepoint": 58062,
+      "fontFamily": "Heroicons",
+      "identifier": "faceSmile20Solid"
+    },
+    "face-smile-solid": {
+      "codepoint": 58063,
+      "fontFamily": "Heroicons",
+      "identifier": "faceSmileSolid"
+    },
+    "film": {
+      "codepoint": 58064,
+      "fontFamily": "Heroicons",
+      "identifier": "film"
+    },
+    "film-16-solid": {
+      "codepoint": 58065,
+      "fontFamily": "Heroicons",
+      "identifier": "film16Solid"
+    },
+    "film-20-solid": {
+      "codepoint": 58066,
+      "fontFamily": "Heroicons",
+      "identifier": "film20Solid"
+    },
+    "film-solid": {
+      "codepoint": 58067,
+      "fontFamily": "Heroicons",
+      "identifier": "filmSolid"
+    },
+    "finger-print": {
+      "codepoint": 58068,
+      "fontFamily": "Heroicons",
+      "identifier": "fingerPrint"
+    },
+    "finger-print-16-solid": {
+      "codepoint": 58069,
+      "fontFamily": "Heroicons",
+      "identifier": "fingerPrint16Solid"
+    },
+    "finger-print-20-solid": {
+      "codepoint": 58070,
+      "fontFamily": "Heroicons",
+      "identifier": "fingerPrint20Solid"
+    },
+    "finger-print-solid": {
+      "codepoint": 58071,
+      "fontFamily": "Heroicons",
+      "identifier": "fingerPrintSolid"
+    },
+    "fire": {
+      "codepoint": 58072,
+      "fontFamily": "Heroicons",
+      "identifier": "fire"
+    },
+    "fire-16-solid": {
+      "codepoint": 58073,
+      "fontFamily": "Heroicons",
+      "identifier": "fire16Solid"
+    },
+    "fire-20-solid": {
+      "codepoint": 58074,
+      "fontFamily": "Heroicons",
+      "identifier": "fire20Solid"
+    },
+    "fire-solid": {
+      "codepoint": 58075,
+      "fontFamily": "Heroicons",
+      "identifier": "fireSolid"
+    },
+    "flag": {
+      "codepoint": 58076,
+      "fontFamily": "Heroicons",
+      "identifier": "flag"
+    },
+    "flag-16-solid": {
+      "codepoint": 58077,
+      "fontFamily": "Heroicons",
+      "identifier": "flag16Solid"
+    },
+    "flag-20-solid": {
+      "codepoint": 58078,
+      "fontFamily": "Heroicons",
+      "identifier": "flag20Solid"
+    },
+    "flag-solid": {
+      "codepoint": 58079,
+      "fontFamily": "Heroicons",
+      "identifier": "flagSolid"
+    },
+    "folder": {
+      "codepoint": 58080,
+      "fontFamily": "Heroicons",
+      "identifier": "folder"
+    },
+    "folder-16-solid": {
+      "codepoint": 58081,
+      "fontFamily": "Heroicons",
+      "identifier": "folder16Solid"
+    },
+    "folder-20-solid": {
+      "codepoint": 58082,
+      "fontFamily": "Heroicons",
+      "identifier": "folder20Solid"
+    },
+    "folder-arrow-down": {
+      "codepoint": 58083,
+      "fontFamily": "Heroicons",
+      "identifier": "folderArrowDown"
+    },
+    "folder-arrow-down-16-solid": {
+      "codepoint": 58084,
+      "fontFamily": "Heroicons",
+      "identifier": "folderArrowDown16Solid"
+    },
+    "folder-arrow-down-20-solid": {
+      "codepoint": 58085,
+      "fontFamily": "Heroicons",
+      "identifier": "folderArrowDown20Solid"
+    },
+    "folder-arrow-down-solid": {
+      "codepoint": 58086,
+      "fontFamily": "Heroicons",
+      "identifier": "folderArrowDownSolid"
+    },
+    "folder-minus": {
+      "codepoint": 58087,
+      "fontFamily": "Heroicons",
+      "identifier": "folderMinus"
+    },
+    "folder-minus-16-solid": {
+      "codepoint": 58088,
+      "fontFamily": "Heroicons",
+      "identifier": "folderMinus16Solid"
+    },
+    "folder-minus-20-solid": {
+      "codepoint": 58089,
+      "fontFamily": "Heroicons",
+      "identifier": "folderMinus20Solid"
+    },
+    "folder-minus-solid": {
+      "codepoint": 58090,
+      "fontFamily": "Heroicons",
+      "identifier": "folderMinusSolid"
+    },
+    "folder-open": {
+      "codepoint": 58091,
+      "fontFamily": "Heroicons",
+      "identifier": "folderOpen"
+    },
+    "folder-open-16-solid": {
+      "codepoint": 58092,
+      "fontFamily": "Heroicons",
+      "identifier": "folderOpen16Solid"
+    },
+    "folder-open-20-solid": {
+      "codepoint": 58093,
+      "fontFamily": "Heroicons",
+      "identifier": "folderOpen20Solid"
+    },
+    "folder-open-solid": {
+      "codepoint": 58094,
+      "fontFamily": "Heroicons",
+      "identifier": "folderOpenSolid"
+    },
+    "folder-plus": {
+      "codepoint": 58095,
+      "fontFamily": "Heroicons",
+      "identifier": "folderPlus"
+    },
+    "folder-plus-16-solid": {
+      "codepoint": 58096,
+      "fontFamily": "Heroicons",
+      "identifier": "folderPlus16Solid"
+    },
+    "folder-plus-20-solid": {
+      "codepoint": 58097,
+      "fontFamily": "Heroicons",
+      "identifier": "folderPlus20Solid"
+    },
+    "folder-plus-solid": {
+      "codepoint": 58098,
+      "fontFamily": "Heroicons",
+      "identifier": "folderPlusSolid"
+    },
+    "folder-solid": {
+      "codepoint": 58099,
+      "fontFamily": "Heroicons",
+      "identifier": "folderSolid"
+    },
+    "forward": {
+      "codepoint": 58100,
+      "fontFamily": "Heroicons",
+      "identifier": "forward"
+    },
+    "forward-16-solid": {
+      "codepoint": 58101,
+      "fontFamily": "Heroicons",
+      "identifier": "forward16Solid"
+    },
+    "forward-20-solid": {
+      "codepoint": 58102,
+      "fontFamily": "Heroicons",
+      "identifier": "forward20Solid"
+    },
+    "forward-solid": {
+      "codepoint": 58103,
+      "fontFamily": "Heroicons",
+      "identifier": "forwardSolid"
+    },
+    "funnel": {
+      "codepoint": 58104,
+      "fontFamily": "Heroicons",
+      "identifier": "funnel"
+    },
+    "funnel-16-solid": {
+      "codepoint": 58105,
+      "fontFamily": "Heroicons",
+      "identifier": "funnel16Solid"
+    },
+    "funnel-20-solid": {
+      "codepoint": 58106,
+      "fontFamily": "Heroicons",
+      "identifier": "funnel20Solid"
+    },
+    "funnel-solid": {
+      "codepoint": 58107,
+      "fontFamily": "Heroicons",
+      "identifier": "funnelSolid"
+    },
+    "gif": {
+      "codepoint": 58108,
+      "fontFamily": "Heroicons",
+      "identifier": "gif"
+    },
+    "gif-16-solid": {
+      "codepoint": 58109,
+      "fontFamily": "Heroicons",
+      "identifier": "gif16Solid"
+    },
+    "gif-20-solid": {
+      "codepoint": 58110,
+      "fontFamily": "Heroicons",
+      "identifier": "gif20Solid"
+    },
+    "gif-solid": {
+      "codepoint": 58111,
+      "fontFamily": "Heroicons",
+      "identifier": "gifSolid"
+    },
+    "gift": {
+      "codepoint": 58112,
+      "fontFamily": "Heroicons",
+      "identifier": "gift"
+    },
+    "gift-16-solid": {
+      "codepoint": 58113,
+      "fontFamily": "Heroicons",
+      "identifier": "gift16Solid"
+    },
+    "gift-20-solid": {
+      "codepoint": 58114,
+      "fontFamily": "Heroicons",
+      "identifier": "gift20Solid"
+    },
+    "gift-solid": {
+      "codepoint": 58115,
+      "fontFamily": "Heroicons",
+      "identifier": "giftSolid"
+    },
+    "gift-top": {
+      "codepoint": 58116,
+      "fontFamily": "Heroicons",
+      "identifier": "giftTop"
+    },
+    "gift-top-16-solid": {
+      "codepoint": 58117,
+      "fontFamily": "Heroicons",
+      "identifier": "giftTop16Solid"
+    },
+    "gift-top-20-solid": {
+      "codepoint": 58118,
+      "fontFamily": "Heroicons",
+      "identifier": "giftTop20Solid"
+    },
+    "gift-top-solid": {
+      "codepoint": 58119,
+      "fontFamily": "Heroicons",
+      "identifier": "giftTopSolid"
+    },
+    "globe-alt": {
+      "codepoint": 58120,
+      "fontFamily": "Heroicons",
+      "identifier": "globeAlt"
+    },
+    "globe-alt-16-solid": {
+      "codepoint": 58121,
+      "fontFamily": "Heroicons",
+      "identifier": "globeAlt16Solid"
+    },
+    "globe-alt-20-solid": {
+      "codepoint": 58122,
+      "fontFamily": "Heroicons",
+      "identifier": "globeAlt20Solid"
+    },
+    "globe-alt-solid": {
+      "codepoint": 58123,
+      "fontFamily": "Heroicons",
+      "identifier": "globeAltSolid"
+    },
+    "globe-americas": {
+      "codepoint": 58124,
+      "fontFamily": "Heroicons",
+      "identifier": "globeAmericas"
+    },
+    "globe-americas-16-solid": {
+      "codepoint": 58125,
+      "fontFamily": "Heroicons",
+      "identifier": "globeAmericas16Solid"
+    },
+    "globe-americas-20-solid": {
+      "codepoint": 58126,
+      "fontFamily": "Heroicons",
+      "identifier": "globeAmericas20Solid"
+    },
+    "globe-americas-solid": {
+      "codepoint": 58127,
+      "fontFamily": "Heroicons",
+      "identifier": "globeAmericasSolid"
+    },
+    "globe-asia-australia": {
+      "codepoint": 58128,
+      "fontFamily": "Heroicons",
+      "identifier": "globeAsiaAustralia"
+    },
+    "globe-asia-australia-16-solid": {
+      "codepoint": 58129,
+      "fontFamily": "Heroicons",
+      "identifier": "globeAsiaAustralia16Solid"
+    },
+    "globe-asia-australia-20-solid": {
+      "codepoint": 58130,
+      "fontFamily": "Heroicons",
+      "identifier": "globeAsiaAustralia20Solid"
+    },
+    "globe-asia-australia-solid": {
+      "codepoint": 58131,
+      "fontFamily": "Heroicons",
+      "identifier": "globeAsiaAustraliaSolid"
+    },
+    "globe-europe-africa": {
+      "codepoint": 58132,
+      "fontFamily": "Heroicons",
+      "identifier": "globeEuropeAfrica"
+    },
+    "globe-europe-africa-16-solid": {
+      "codepoint": 58133,
+      "fontFamily": "Heroicons",
+      "identifier": "globeEuropeAfrica16Solid"
+    },
+    "globe-europe-africa-20-solid": {
+      "codepoint": 58134,
+      "fontFamily": "Heroicons",
+      "identifier": "globeEuropeAfrica20Solid"
+    },
+    "globe-europe-africa-solid": {
+      "codepoint": 58135,
+      "fontFamily": "Heroicons",
+      "identifier": "globeEuropeAfricaSolid"
+    },
+    "h1": {
+      "codepoint": 58136,
+      "fontFamily": "Heroicons",
+      "identifier": "h1"
+    },
+    "h1-16-solid": {
+      "codepoint": 58137,
+      "fontFamily": "Heroicons",
+      "identifier": "h116Solid"
+    },
+    "h1-20-solid": {
+      "codepoint": 58138,
+      "fontFamily": "Heroicons",
+      "identifier": "h120Solid"
+    },
+    "h1-solid": {
+      "codepoint": 58139,
+      "fontFamily": "Heroicons",
+      "identifier": "h1Solid"
+    },
+    "h2": {
+      "codepoint": 58140,
+      "fontFamily": "Heroicons",
+      "identifier": "h2"
+    },
+    "h2-16-solid": {
+      "codepoint": 58141,
+      "fontFamily": "Heroicons",
+      "identifier": "h216Solid"
+    },
+    "h2-20-solid": {
+      "codepoint": 58142,
+      "fontFamily": "Heroicons",
+      "identifier": "h220Solid"
+    },
+    "h2-solid": {
+      "codepoint": 58143,
+      "fontFamily": "Heroicons",
+      "identifier": "h2Solid"
+    },
+    "h3": {
+      "codepoint": 58144,
+      "fontFamily": "Heroicons",
+      "identifier": "h3"
+    },
+    "h3-16-solid": {
+      "codepoint": 58145,
+      "fontFamily": "Heroicons",
+      "identifier": "h316Solid"
+    },
+    "h3-20-solid": {
+      "codepoint": 58146,
+      "fontFamily": "Heroicons",
+      "identifier": "h320Solid"
+    },
+    "h3-solid": {
+      "codepoint": 58147,
+      "fontFamily": "Heroicons",
+      "identifier": "h3Solid"
+    },
+    "hand-raised": {
+      "codepoint": 58148,
+      "fontFamily": "Heroicons",
+      "identifier": "handRaised"
+    },
+    "hand-raised-16-solid": {
+      "codepoint": 58149,
+      "fontFamily": "Heroicons",
+      "identifier": "handRaised16Solid"
+    },
+    "hand-raised-20-solid": {
+      "codepoint": 58150,
+      "fontFamily": "Heroicons",
+      "identifier": "handRaised20Solid"
+    },
+    "hand-raised-solid": {
+      "codepoint": 58151,
+      "fontFamily": "Heroicons",
+      "identifier": "handRaisedSolid"
+    },
+    "hand-thumb-down": {
+      "codepoint": 58152,
+      "fontFamily": "Heroicons",
+      "identifier": "handThumbDown"
+    },
+    "hand-thumb-down-16-solid": {
+      "codepoint": 58153,
+      "fontFamily": "Heroicons",
+      "identifier": "handThumbDown16Solid"
+    },
+    "hand-thumb-down-20-solid": {
+      "codepoint": 58154,
+      "fontFamily": "Heroicons",
+      "identifier": "handThumbDown20Solid"
+    },
+    "hand-thumb-down-solid": {
+      "codepoint": 58155,
+      "fontFamily": "Heroicons",
+      "identifier": "handThumbDownSolid"
+    },
+    "hand-thumb-up": {
+      "codepoint": 58156,
+      "fontFamily": "Heroicons",
+      "identifier": "handThumbUp"
+    },
+    "hand-thumb-up-16-solid": {
+      "codepoint": 58157,
+      "fontFamily": "Heroicons",
+      "identifier": "handThumbUp16Solid"
+    },
+    "hand-thumb-up-20-solid": {
+      "codepoint": 58158,
+      "fontFamily": "Heroicons",
+      "identifier": "handThumbUp20Solid"
+    },
+    "hand-thumb-up-solid": {
+      "codepoint": 58159,
+      "fontFamily": "Heroicons",
+      "identifier": "handThumbUpSolid"
+    },
+    "hashtag": {
+      "codepoint": 58160,
+      "fontFamily": "Heroicons",
+      "identifier": "hashtag"
+    },
+    "hashtag-16-solid": {
+      "codepoint": 58161,
+      "fontFamily": "Heroicons",
+      "identifier": "hashtag16Solid"
+    },
+    "hashtag-20-solid": {
+      "codepoint": 58162,
+      "fontFamily": "Heroicons",
+      "identifier": "hashtag20Solid"
+    },
+    "hashtag-solid": {
+      "codepoint": 58163,
+      "fontFamily": "Heroicons",
+      "identifier": "hashtagSolid"
+    },
+    "heart": {
+      "codepoint": 58164,
+      "fontFamily": "Heroicons",
+      "identifier": "heart"
+    },
+    "heart-16-solid": {
+      "codepoint": 58165,
+      "fontFamily": "Heroicons",
+      "identifier": "heart16Solid"
+    },
+    "heart-20-solid": {
+      "codepoint": 58166,
+      "fontFamily": "Heroicons",
+      "identifier": "heart20Solid"
+    },
+    "heart-solid": {
+      "codepoint": 58167,
+      "fontFamily": "Heroicons",
+      "identifier": "heartSolid"
+    },
+    "home": {
+      "codepoint": 58168,
+      "fontFamily": "Heroicons",
+      "identifier": "home"
+    },
+    "home-16-solid": {
+      "codepoint": 58169,
+      "fontFamily": "Heroicons",
+      "identifier": "home16Solid"
+    },
+    "home-20-solid": {
+      "codepoint": 58170,
+      "fontFamily": "Heroicons",
+      "identifier": "home20Solid"
+    },
+    "home-modern": {
+      "codepoint": 58171,
+      "fontFamily": "Heroicons",
+      "identifier": "homeModern"
+    },
+    "home-modern-16-solid": {
+      "codepoint": 58172,
+      "fontFamily": "Heroicons",
+      "identifier": "homeModern16Solid"
+    },
+    "home-modern-20-solid": {
+      "codepoint": 58173,
+      "fontFamily": "Heroicons",
+      "identifier": "homeModern20Solid"
+    },
+    "home-modern-solid": {
+      "codepoint": 58174,
+      "fontFamily": "Heroicons",
+      "identifier": "homeModernSolid"
+    },
+    "home-solid": {
+      "codepoint": 58175,
+      "fontFamily": "Heroicons",
+      "identifier": "homeSolid"
+    },
+    "identification": {
+      "codepoint": 58176,
+      "fontFamily": "Heroicons",
+      "identifier": "identification"
+    },
+    "identification-16-solid": {
+      "codepoint": 58177,
+      "fontFamily": "Heroicons",
+      "identifier": "identification16Solid"
+    },
+    "identification-20-solid": {
+      "codepoint": 58178,
+      "fontFamily": "Heroicons",
+      "identifier": "identification20Solid"
+    },
+    "identification-solid": {
+      "codepoint": 58179,
+      "fontFamily": "Heroicons",
+      "identifier": "identificationSolid"
+    },
+    "inbox": {
+      "codepoint": 58180,
+      "fontFamily": "Heroicons",
+      "identifier": "inbox"
+    },
+    "inbox-16-solid": {
+      "codepoint": 58181,
+      "fontFamily": "Heroicons",
+      "identifier": "inbox16Solid"
+    },
+    "inbox-20-solid": {
+      "codepoint": 58182,
+      "fontFamily": "Heroicons",
+      "identifier": "inbox20Solid"
+    },
+    "inbox-arrow-down": {
+      "codepoint": 58183,
+      "fontFamily": "Heroicons",
+      "identifier": "inboxArrowDown"
+    },
+    "inbox-arrow-down-16-solid": {
+      "codepoint": 58184,
+      "fontFamily": "Heroicons",
+      "identifier": "inboxArrowDown16Solid"
+    },
+    "inbox-arrow-down-20-solid": {
+      "codepoint": 58185,
+      "fontFamily": "Heroicons",
+      "identifier": "inboxArrowDown20Solid"
+    },
+    "inbox-arrow-down-solid": {
+      "codepoint": 58186,
+      "fontFamily": "Heroicons",
+      "identifier": "inboxArrowDownSolid"
+    },
+    "inbox-solid": {
+      "codepoint": 58187,
+      "fontFamily": "Heroicons",
+      "identifier": "inboxSolid"
+    },
+    "inbox-stack": {
+      "codepoint": 58188,
+      "fontFamily": "Heroicons",
+      "identifier": "inboxStack"
+    },
+    "inbox-stack-16-solid": {
+      "codepoint": 58189,
+      "fontFamily": "Heroicons",
+      "identifier": "inboxStack16Solid"
+    },
+    "inbox-stack-20-solid": {
+      "codepoint": 58190,
+      "fontFamily": "Heroicons",
+      "identifier": "inboxStack20Solid"
+    },
+    "inbox-stack-solid": {
+      "codepoint": 58191,
+      "fontFamily": "Heroicons",
+      "identifier": "inboxStackSolid"
+    },
+    "information-circle": {
+      "codepoint": 58192,
+      "fontFamily": "Heroicons",
+      "identifier": "informationCircle"
+    },
+    "information-circle-16-solid": {
+      "codepoint": 58193,
+      "fontFamily": "Heroicons",
+      "identifier": "informationCircle16Solid"
+    },
+    "information-circle-20-solid": {
+      "codepoint": 58194,
+      "fontFamily": "Heroicons",
+      "identifier": "informationCircle20Solid"
+    },
+    "information-circle-solid": {
+      "codepoint": 58195,
+      "fontFamily": "Heroicons",
+      "identifier": "informationCircleSolid"
+    },
+    "italic": {
+      "codepoint": 58196,
+      "fontFamily": "Heroicons",
+      "identifier": "italic"
+    },
+    "italic-16-solid": {
+      "codepoint": 58197,
+      "fontFamily": "Heroicons",
+      "identifier": "italic16Solid"
+    },
+    "italic-20-solid": {
+      "codepoint": 58198,
+      "fontFamily": "Heroicons",
+      "identifier": "italic20Solid"
+    },
+    "italic-solid": {
+      "codepoint": 58199,
+      "fontFamily": "Heroicons",
+      "identifier": "italicSolid"
+    },
+    "key": {
+      "codepoint": 58200,
+      "fontFamily": "Heroicons",
+      "identifier": "key"
+    },
+    "key-16-solid": {
+      "codepoint": 58201,
+      "fontFamily": "Heroicons",
+      "identifier": "key16Solid"
+    },
+    "key-20-solid": {
+      "codepoint": 58202,
+      "fontFamily": "Heroicons",
+      "identifier": "key20Solid"
+    },
+    "key-solid": {
+      "codepoint": 58203,
+      "fontFamily": "Heroicons",
+      "identifier": "keySolid"
+    },
+    "language": {
+      "codepoint": 58204,
+      "fontFamily": "Heroicons",
+      "identifier": "language"
+    },
+    "language-16-solid": {
+      "codepoint": 58205,
+      "fontFamily": "Heroicons",
+      "identifier": "language16Solid"
+    },
+    "language-20-solid": {
+      "codepoint": 58206,
+      "fontFamily": "Heroicons",
+      "identifier": "language20Solid"
+    },
+    "language-solid": {
+      "codepoint": 58207,
+      "fontFamily": "Heroicons",
+      "identifier": "languageSolid"
+    },
+    "lifebuoy": {
+      "codepoint": 58208,
+      "fontFamily": "Heroicons",
+      "identifier": "lifebuoy"
+    },
+    "lifebuoy-16-solid": {
+      "codepoint": 58209,
+      "fontFamily": "Heroicons",
+      "identifier": "lifebuoy16Solid"
+    },
+    "lifebuoy-20-solid": {
+      "codepoint": 58210,
+      "fontFamily": "Heroicons",
+      "identifier": "lifebuoy20Solid"
+    },
+    "lifebuoy-solid": {
+      "codepoint": 58211,
+      "fontFamily": "Heroicons",
+      "identifier": "lifebuoySolid"
+    },
+    "light-bulb": {
+      "codepoint": 58212,
+      "fontFamily": "Heroicons",
+      "identifier": "lightBulb"
+    },
+    "light-bulb-16-solid": {
+      "codepoint": 58213,
+      "fontFamily": "Heroicons",
+      "identifier": "lightBulb16Solid"
+    },
+    "light-bulb-20-solid": {
+      "codepoint": 58214,
+      "fontFamily": "Heroicons",
+      "identifier": "lightBulb20Solid"
+    },
+    "light-bulb-solid": {
+      "codepoint": 58215,
+      "fontFamily": "Heroicons",
+      "identifier": "lightBulbSolid"
+    },
+    "link": {
+      "codepoint": 58216,
+      "fontFamily": "Heroicons",
+      "identifier": "link"
+    },
+    "link-16-solid": {
+      "codepoint": 58217,
+      "fontFamily": "Heroicons",
+      "identifier": "link16Solid"
+    },
+    "link-20-solid": {
+      "codepoint": 58218,
+      "fontFamily": "Heroicons",
+      "identifier": "link20Solid"
+    },
+    "link-slash": {
+      "codepoint": 58219,
+      "fontFamily": "Heroicons",
+      "identifier": "linkSlash"
+    },
+    "link-slash-16-solid": {
+      "codepoint": 58220,
+      "fontFamily": "Heroicons",
+      "identifier": "linkSlash16Solid"
+    },
+    "link-slash-20-solid": {
+      "codepoint": 58221,
+      "fontFamily": "Heroicons",
+      "identifier": "linkSlash20Solid"
+    },
+    "link-slash-solid": {
+      "codepoint": 58222,
+      "fontFamily": "Heroicons",
+      "identifier": "linkSlashSolid"
+    },
+    "link-solid": {
+      "codepoint": 58223,
+      "fontFamily": "Heroicons",
+      "identifier": "linkSolid"
+    },
+    "list-bullet": {
+      "codepoint": 58224,
+      "fontFamily": "Heroicons",
+      "identifier": "listBullet"
+    },
+    "list-bullet-16-solid": {
+      "codepoint": 58225,
+      "fontFamily": "Heroicons",
+      "identifier": "listBullet16Solid"
+    },
+    "list-bullet-20-solid": {
+      "codepoint": 58226,
+      "fontFamily": "Heroicons",
+      "identifier": "listBullet20Solid"
+    },
+    "list-bullet-solid": {
+      "codepoint": 58227,
+      "fontFamily": "Heroicons",
+      "identifier": "listBulletSolid"
+    },
+    "lock-closed": {
+      "codepoint": 58228,
+      "fontFamily": "Heroicons",
+      "identifier": "lockClosed"
+    },
+    "lock-closed-16-solid": {
+      "codepoint": 58229,
+      "fontFamily": "Heroicons",
+      "identifier": "lockClosed16Solid"
+    },
+    "lock-closed-20-solid": {
+      "codepoint": 58230,
+      "fontFamily": "Heroicons",
+      "identifier": "lockClosed20Solid"
+    },
+    "lock-closed-solid": {
+      "codepoint": 58231,
+      "fontFamily": "Heroicons",
+      "identifier": "lockClosedSolid"
+    },
+    "lock-open": {
+      "codepoint": 58232,
+      "fontFamily": "Heroicons",
+      "identifier": "lockOpen"
+    },
+    "lock-open-16-solid": {
+      "codepoint": 58233,
+      "fontFamily": "Heroicons",
+      "identifier": "lockOpen16Solid"
+    },
+    "lock-open-20-solid": {
+      "codepoint": 58234,
+      "fontFamily": "Heroicons",
+      "identifier": "lockOpen20Solid"
+    },
+    "lock-open-solid": {
+      "codepoint": 58235,
+      "fontFamily": "Heroicons",
+      "identifier": "lockOpenSolid"
+    },
+    "magnifying-glass": {
+      "codepoint": 58236,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlass"
+    },
+    "magnifying-glass-16-solid": {
+      "codepoint": 58237,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlass16Solid"
+    },
+    "magnifying-glass-20-solid": {
+      "codepoint": 58238,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlass20Solid"
+    },
+    "magnifying-glass-circle": {
+      "codepoint": 58239,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassCircle"
+    },
+    "magnifying-glass-circle-16-solid": {
+      "codepoint": 58240,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassCircle16Solid"
+    },
+    "magnifying-glass-circle-20-solid": {
+      "codepoint": 58241,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassCircle20Solid"
+    },
+    "magnifying-glass-circle-solid": {
+      "codepoint": 58242,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassCircleSolid"
+    },
+    "magnifying-glass-minus": {
+      "codepoint": 58243,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassMinus"
+    },
+    "magnifying-glass-minus-16-solid": {
+      "codepoint": 58244,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassMinus16Solid"
+    },
+    "magnifying-glass-minus-20-solid": {
+      "codepoint": 58245,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassMinus20Solid"
+    },
+    "magnifying-glass-minus-solid": {
+      "codepoint": 58246,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassMinusSolid"
+    },
+    "magnifying-glass-plus": {
+      "codepoint": 58247,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassPlus"
+    },
+    "magnifying-glass-plus-16-solid": {
+      "codepoint": 58248,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassPlus16Solid"
+    },
+    "magnifying-glass-plus-20-solid": {
+      "codepoint": 58249,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassPlus20Solid"
+    },
+    "magnifying-glass-plus-solid": {
+      "codepoint": 58250,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassPlusSolid"
+    },
+    "magnifying-glass-solid": {
+      "codepoint": 58251,
+      "fontFamily": "Heroicons",
+      "identifier": "magnifyingGlassSolid"
+    },
+    "map": {
+      "codepoint": 58252,
+      "fontFamily": "Heroicons",
+      "identifier": "map"
+    },
+    "map-16-solid": {
+      "codepoint": 58253,
+      "fontFamily": "Heroicons",
+      "identifier": "map16Solid"
+    },
+    "map-20-solid": {
+      "codepoint": 58254,
+      "fontFamily": "Heroicons",
+      "identifier": "map20Solid"
+    },
+    "map-pin": {
+      "codepoint": 58255,
+      "fontFamily": "Heroicons",
+      "identifier": "mapPin"
+    },
+    "map-pin-16-solid": {
+      "codepoint": 58256,
+      "fontFamily": "Heroicons",
+      "identifier": "mapPin16Solid"
+    },
+    "map-pin-20-solid": {
+      "codepoint": 58257,
+      "fontFamily": "Heroicons",
+      "identifier": "mapPin20Solid"
+    },
+    "map-pin-solid": {
+      "codepoint": 58258,
+      "fontFamily": "Heroicons",
+      "identifier": "mapPinSolid"
+    },
+    "map-solid": {
+      "codepoint": 58259,
+      "fontFamily": "Heroicons",
+      "identifier": "mapSolid"
+    },
+    "megaphone": {
+      "codepoint": 58260,
+      "fontFamily": "Heroicons",
+      "identifier": "megaphone"
+    },
+    "megaphone-16-solid": {
+      "codepoint": 58261,
+      "fontFamily": "Heroicons",
+      "identifier": "megaphone16Solid"
+    },
+    "megaphone-20-solid": {
+      "codepoint": 58262,
+      "fontFamily": "Heroicons",
+      "identifier": "megaphone20Solid"
+    },
+    "megaphone-solid": {
+      "codepoint": 58263,
+      "fontFamily": "Heroicons",
+      "identifier": "megaphoneSolid"
+    },
+    "microphone": {
+      "codepoint": 58264,
+      "fontFamily": "Heroicons",
+      "identifier": "microphone"
+    },
+    "microphone-16-solid": {
+      "codepoint": 58265,
+      "fontFamily": "Heroicons",
+      "identifier": "microphone16Solid"
+    },
+    "microphone-20-solid": {
+      "codepoint": 58266,
+      "fontFamily": "Heroicons",
+      "identifier": "microphone20Solid"
+    },
+    "microphone-solid": {
+      "codepoint": 58267,
+      "fontFamily": "Heroicons",
+      "identifier": "microphoneSolid"
+    },
+    "minus": {
+      "codepoint": 58268,
+      "fontFamily": "Heroicons",
+      "identifier": "minus"
+    },
+    "minus-16-solid": {
+      "codepoint": 58269,
+      "fontFamily": "Heroicons",
+      "identifier": "minus16Solid"
+    },
+    "minus-20-solid": {
+      "codepoint": 58270,
+      "fontFamily": "Heroicons",
+      "identifier": "minus20Solid"
+    },
+    "minus-circle": {
+      "codepoint": 58271,
+      "fontFamily": "Heroicons",
+      "identifier": "minusCircle"
+    },
+    "minus-circle-16-solid": {
+      "codepoint": 58272,
+      "fontFamily": "Heroicons",
+      "identifier": "minusCircle16Solid"
+    },
+    "minus-circle-20-solid": {
+      "codepoint": 58273,
+      "fontFamily": "Heroicons",
+      "identifier": "minusCircle20Solid"
+    },
+    "minus-circle-solid": {
+      "codepoint": 58274,
+      "fontFamily": "Heroicons",
+      "identifier": "minusCircleSolid"
+    },
+    "minus-small": {
+      "codepoint": 58275,
+      "fontFamily": "Heroicons",
+      "identifier": "minusSmall"
+    },
+    "minus-small-20-solid": {
+      "codepoint": 58276,
+      "fontFamily": "Heroicons",
+      "identifier": "minusSmall20Solid"
+    },
+    "minus-small-solid": {
+      "codepoint": 58277,
+      "fontFamily": "Heroicons",
+      "identifier": "minusSmallSolid"
+    },
+    "minus-solid": {
+      "codepoint": 58278,
+      "fontFamily": "Heroicons",
+      "identifier": "minusSolid"
+    },
+    "moon": {
+      "codepoint": 58279,
+      "fontFamily": "Heroicons",
+      "identifier": "moon"
+    },
+    "moon-16-solid": {
+      "codepoint": 58280,
+      "fontFamily": "Heroicons",
+      "identifier": "moon16Solid"
+    },
+    "moon-20-solid": {
+      "codepoint": 58281,
+      "fontFamily": "Heroicons",
+      "identifier": "moon20Solid"
+    },
+    "moon-solid": {
+      "codepoint": 58282,
+      "fontFamily": "Heroicons",
+      "identifier": "moonSolid"
+    },
+    "musical-note": {
+      "codepoint": 58283,
+      "fontFamily": "Heroicons",
+      "identifier": "musicalNote"
+    },
+    "musical-note-16-solid": {
+      "codepoint": 58284,
+      "fontFamily": "Heroicons",
+      "identifier": "musicalNote16Solid"
+    },
+    "musical-note-20-solid": {
+      "codepoint": 58285,
+      "fontFamily": "Heroicons",
+      "identifier": "musicalNote20Solid"
+    },
+    "musical-note-solid": {
+      "codepoint": 58286,
+      "fontFamily": "Heroicons",
+      "identifier": "musicalNoteSolid"
+    },
+    "newspaper": {
+      "codepoint": 58287,
+      "fontFamily": "Heroicons",
+      "identifier": "newspaper"
+    },
+    "newspaper-16-solid": {
+      "codepoint": 58288,
+      "fontFamily": "Heroicons",
+      "identifier": "newspaper16Solid"
+    },
+    "newspaper-20-solid": {
+      "codepoint": 58289,
+      "fontFamily": "Heroicons",
+      "identifier": "newspaper20Solid"
+    },
+    "newspaper-solid": {
+      "codepoint": 58290,
+      "fontFamily": "Heroicons",
+      "identifier": "newspaperSolid"
+    },
+    "no-symbol": {
+      "codepoint": 58291,
+      "fontFamily": "Heroicons",
+      "identifier": "noSymbol"
+    },
+    "no-symbol-16-solid": {
+      "codepoint": 58292,
+      "fontFamily": "Heroicons",
+      "identifier": "noSymbol16Solid"
+    },
+    "no-symbol-20-solid": {
+      "codepoint": 58293,
+      "fontFamily": "Heroicons",
+      "identifier": "noSymbol20Solid"
+    },
+    "no-symbol-solid": {
+      "codepoint": 58294,
+      "fontFamily": "Heroicons",
+      "identifier": "noSymbolSolid"
+    },
+    "numbered-list": {
+      "codepoint": 58295,
+      "fontFamily": "Heroicons",
+      "identifier": "numberedList"
+    },
+    "numbered-list-16-solid": {
+      "codepoint": 58296,
+      "fontFamily": "Heroicons",
+      "identifier": "numberedList16Solid"
+    },
+    "numbered-list-20-solid": {
+      "codepoint": 58297,
+      "fontFamily": "Heroicons",
+      "identifier": "numberedList20Solid"
+    },
+    "numbered-list-solid": {
+      "codepoint": 58298,
+      "fontFamily": "Heroicons",
+      "identifier": "numberedListSolid"
+    },
+    "paint-brush": {
+      "codepoint": 58299,
+      "fontFamily": "Heroicons",
+      "identifier": "paintBrush"
+    },
+    "paint-brush-16-solid": {
+      "codepoint": 58300,
+      "fontFamily": "Heroicons",
+      "identifier": "paintBrush16Solid"
+    },
+    "paint-brush-20-solid": {
+      "codepoint": 58301,
+      "fontFamily": "Heroicons",
+      "identifier": "paintBrush20Solid"
+    },
+    "paint-brush-solid": {
+      "codepoint": 58302,
+      "fontFamily": "Heroicons",
+      "identifier": "paintBrushSolid"
+    },
+    "paper-airplane": {
+      "codepoint": 58303,
+      "fontFamily": "Heroicons",
+      "identifier": "paperAirplane"
+    },
+    "paper-airplane-16-solid": {
+      "codepoint": 58304,
+      "fontFamily": "Heroicons",
+      "identifier": "paperAirplane16Solid"
+    },
+    "paper-airplane-20-solid": {
+      "codepoint": 58305,
+      "fontFamily": "Heroicons",
+      "identifier": "paperAirplane20Solid"
+    },
+    "paper-airplane-solid": {
+      "codepoint": 58306,
+      "fontFamily": "Heroicons",
+      "identifier": "paperAirplaneSolid"
+    },
+    "paper-clip": {
+      "codepoint": 58307,
+      "fontFamily": "Heroicons",
+      "identifier": "paperClip"
+    },
+    "paper-clip-16-solid": {
+      "codepoint": 58308,
+      "fontFamily": "Heroicons",
+      "identifier": "paperClip16Solid"
+    },
+    "paper-clip-20-solid": {
+      "codepoint": 58309,
+      "fontFamily": "Heroicons",
+      "identifier": "paperClip20Solid"
+    },
+    "paper-clip-solid": {
+      "codepoint": 58310,
+      "fontFamily": "Heroicons",
+      "identifier": "paperClipSolid"
+    },
+    "pause": {
+      "codepoint": 58311,
+      "fontFamily": "Heroicons",
+      "identifier": "pause"
+    },
+    "pause-16-solid": {
+      "codepoint": 58312,
+      "fontFamily": "Heroicons",
+      "identifier": "pause16Solid"
+    },
+    "pause-20-solid": {
+      "codepoint": 58313,
+      "fontFamily": "Heroicons",
+      "identifier": "pause20Solid"
+    },
+    "pause-circle": {
+      "codepoint": 58314,
+      "fontFamily": "Heroicons",
+      "identifier": "pauseCircle"
+    },
+    "pause-circle-16-solid": {
+      "codepoint": 58315,
+      "fontFamily": "Heroicons",
+      "identifier": "pauseCircle16Solid"
+    },
+    "pause-circle-20-solid": {
+      "codepoint": 58316,
+      "fontFamily": "Heroicons",
+      "identifier": "pauseCircle20Solid"
+    },
+    "pause-circle-solid": {
+      "codepoint": 58317,
+      "fontFamily": "Heroicons",
+      "identifier": "pauseCircleSolid"
+    },
+    "pause-solid": {
+      "codepoint": 58318,
+      "fontFamily": "Heroicons",
+      "identifier": "pauseSolid"
+    },
+    "pencil": {
+      "codepoint": 58319,
+      "fontFamily": "Heroicons",
+      "identifier": "pencil"
+    },
+    "pencil-16-solid": {
+      "codepoint": 58320,
+      "fontFamily": "Heroicons",
+      "identifier": "pencil16Solid"
+    },
+    "pencil-20-solid": {
+      "codepoint": 58321,
+      "fontFamily": "Heroicons",
+      "identifier": "pencil20Solid"
+    },
+    "pencil-solid": {
+      "codepoint": 58322,
+      "fontFamily": "Heroicons",
+      "identifier": "pencilSolid"
+    },
+    "pencil-square": {
+      "codepoint": 58323,
+      "fontFamily": "Heroicons",
+      "identifier": "pencilSquare"
+    },
+    "pencil-square-16-solid": {
+      "codepoint": 58324,
+      "fontFamily": "Heroicons",
+      "identifier": "pencilSquare16Solid"
+    },
+    "pencil-square-20-solid": {
+      "codepoint": 58325,
+      "fontFamily": "Heroicons",
+      "identifier": "pencilSquare20Solid"
+    },
+    "pencil-square-solid": {
+      "codepoint": 58326,
+      "fontFamily": "Heroicons",
+      "identifier": "pencilSquareSolid"
+    },
+    "percent-badge": {
+      "codepoint": 58327,
+      "fontFamily": "Heroicons",
+      "identifier": "percentBadge"
+    },
+    "percent-badge-16-solid": {
+      "codepoint": 58328,
+      "fontFamily": "Heroicons",
+      "identifier": "percentBadge16Solid"
+    },
+    "percent-badge-20-solid": {
+      "codepoint": 58329,
+      "fontFamily": "Heroicons",
+      "identifier": "percentBadge20Solid"
+    },
+    "percent-badge-solid": {
+      "codepoint": 58330,
+      "fontFamily": "Heroicons",
+      "identifier": "percentBadgeSolid"
+    },
+    "phone": {
+      "codepoint": 58331,
+      "fontFamily": "Heroicons",
+      "identifier": "phone"
+    },
+    "phone-16-solid": {
+      "codepoint": 58332,
+      "fontFamily": "Heroicons",
+      "identifier": "phone16Solid"
+    },
+    "phone-20-solid": {
+      "codepoint": 58333,
+      "fontFamily": "Heroicons",
+      "identifier": "phone20Solid"
+    },
+    "phone-arrow-down-left": {
+      "codepoint": 58334,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneArrowDownLeft"
+    },
+    "phone-arrow-down-left-16-solid": {
+      "codepoint": 58335,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneArrowDownLeft16Solid"
+    },
+    "phone-arrow-down-left-20-solid": {
+      "codepoint": 58336,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneArrowDownLeft20Solid"
+    },
+    "phone-arrow-down-left-solid": {
+      "codepoint": 58337,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneArrowDownLeftSolid"
+    },
+    "phone-arrow-up-right": {
+      "codepoint": 58338,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneArrowUpRight"
+    },
+    "phone-arrow-up-right-16-solid": {
+      "codepoint": 58339,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneArrowUpRight16Solid"
+    },
+    "phone-arrow-up-right-20-solid": {
+      "codepoint": 58340,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneArrowUpRight20Solid"
+    },
+    "phone-arrow-up-right-solid": {
+      "codepoint": 58341,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneArrowUpRightSolid"
+    },
+    "phone-solid": {
+      "codepoint": 58342,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneSolid"
+    },
+    "phone-x-mark": {
+      "codepoint": 58343,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneXMark"
+    },
+    "phone-x-mark-16-solid": {
+      "codepoint": 58344,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneXMark16Solid"
+    },
+    "phone-x-mark-20-solid": {
+      "codepoint": 58345,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneXMark20Solid"
+    },
+    "phone-x-mark-solid": {
+      "codepoint": 58346,
+      "fontFamily": "Heroicons",
+      "identifier": "phoneXMarkSolid"
+    },
+    "photo": {
+      "codepoint": 58347,
+      "fontFamily": "Heroicons",
+      "identifier": "photo"
+    },
+    "photo-16-solid": {
+      "codepoint": 58348,
+      "fontFamily": "Heroicons",
+      "identifier": "photo16Solid"
+    },
+    "photo-20-solid": {
+      "codepoint": 58349,
+      "fontFamily": "Heroicons",
+      "identifier": "photo20Solid"
+    },
+    "photo-solid": {
+      "codepoint": 58350,
+      "fontFamily": "Heroicons",
+      "identifier": "photoSolid"
+    },
+    "play": {
+      "codepoint": 58351,
+      "fontFamily": "Heroicons",
+      "identifier": "play"
+    },
+    "play-16-solid": {
+      "codepoint": 58352,
+      "fontFamily": "Heroicons",
+      "identifier": "play16Solid"
+    },
+    "play-20-solid": {
+      "codepoint": 58353,
+      "fontFamily": "Heroicons",
+      "identifier": "play20Solid"
+    },
+    "play-circle": {
+      "codepoint": 58354,
+      "fontFamily": "Heroicons",
+      "identifier": "playCircle"
+    },
+    "play-circle-16-solid": {
+      "codepoint": 58355,
+      "fontFamily": "Heroicons",
+      "identifier": "playCircle16Solid"
+    },
+    "play-circle-20-solid": {
+      "codepoint": 58356,
+      "fontFamily": "Heroicons",
+      "identifier": "playCircle20Solid"
+    },
+    "play-circle-solid": {
+      "codepoint": 58357,
+      "fontFamily": "Heroicons",
+      "identifier": "playCircleSolid"
+    },
+    "play-pause": {
+      "codepoint": 58358,
+      "fontFamily": "Heroicons",
+      "identifier": "playPause"
+    },
+    "play-pause-16-solid": {
+      "codepoint": 58359,
+      "fontFamily": "Heroicons",
+      "identifier": "playPause16Solid"
+    },
+    "play-pause-20-solid": {
+      "codepoint": 58360,
+      "fontFamily": "Heroicons",
+      "identifier": "playPause20Solid"
+    },
+    "play-pause-solid": {
+      "codepoint": 58361,
+      "fontFamily": "Heroicons",
+      "identifier": "playPauseSolid"
+    },
+    "play-solid": {
+      "codepoint": 58362,
+      "fontFamily": "Heroicons",
+      "identifier": "playSolid"
+    },
+    "plus": {
+      "codepoint": 58363,
+      "fontFamily": "Heroicons",
+      "identifier": "plus"
+    },
+    "plus-16-solid": {
+      "codepoint": 58364,
+      "fontFamily": "Heroicons",
+      "identifier": "plus16Solid"
+    },
+    "plus-20-solid": {
+      "codepoint": 58365,
+      "fontFamily": "Heroicons",
+      "identifier": "plus20Solid"
+    },
+    "plus-circle": {
+      "codepoint": 58366,
+      "fontFamily": "Heroicons",
+      "identifier": "plusCircle"
+    },
+    "plus-circle-16-solid": {
+      "codepoint": 58367,
+      "fontFamily": "Heroicons",
+      "identifier": "plusCircle16Solid"
+    },
+    "plus-circle-20-solid": {
+      "codepoint": 58368,
+      "fontFamily": "Heroicons",
+      "identifier": "plusCircle20Solid"
+    },
+    "plus-circle-solid": {
+      "codepoint": 58369,
+      "fontFamily": "Heroicons",
+      "identifier": "plusCircleSolid"
+    },
+    "plus-small": {
+      "codepoint": 58370,
+      "fontFamily": "Heroicons",
+      "identifier": "plusSmall"
+    },
+    "plus-small-20-solid": {
+      "codepoint": 58371,
+      "fontFamily": "Heroicons",
+      "identifier": "plusSmall20Solid"
+    },
+    "plus-small-solid": {
+      "codepoint": 58372,
+      "fontFamily": "Heroicons",
+      "identifier": "plusSmallSolid"
+    },
+    "plus-solid": {
+      "codepoint": 58373,
+      "fontFamily": "Heroicons",
+      "identifier": "plusSolid"
+    },
+    "power": {
+      "codepoint": 58374,
+      "fontFamily": "Heroicons",
+      "identifier": "power"
+    },
+    "power-16-solid": {
+      "codepoint": 58375,
+      "fontFamily": "Heroicons",
+      "identifier": "power16Solid"
+    },
+    "power-20-solid": {
+      "codepoint": 58376,
+      "fontFamily": "Heroicons",
+      "identifier": "power20Solid"
+    },
+    "power-solid": {
+      "codepoint": 58377,
+      "fontFamily": "Heroicons",
+      "identifier": "powerSolid"
+    },
+    "presentation-chart-bar": {
+      "codepoint": 58378,
+      "fontFamily": "Heroicons",
+      "identifier": "presentationChartBar"
+    },
+    "presentation-chart-bar-16-solid": {
+      "codepoint": 58379,
+      "fontFamily": "Heroicons",
+      "identifier": "presentationChartBar16Solid"
+    },
+    "presentation-chart-bar-20-solid": {
+      "codepoint": 58380,
+      "fontFamily": "Heroicons",
+      "identifier": "presentationChartBar20Solid"
+    },
+    "presentation-chart-bar-solid": {
+      "codepoint": 58381,
+      "fontFamily": "Heroicons",
+      "identifier": "presentationChartBarSolid"
+    },
+    "presentation-chart-line": {
+      "codepoint": 58382,
+      "fontFamily": "Heroicons",
+      "identifier": "presentationChartLine"
+    },
+    "presentation-chart-line-16-solid": {
+      "codepoint": 58383,
+      "fontFamily": "Heroicons",
+      "identifier": "presentationChartLine16Solid"
+    },
+    "presentation-chart-line-20-solid": {
+      "codepoint": 58384,
+      "fontFamily": "Heroicons",
+      "identifier": "presentationChartLine20Solid"
+    },
+    "presentation-chart-line-solid": {
+      "codepoint": 58385,
+      "fontFamily": "Heroicons",
+      "identifier": "presentationChartLineSolid"
+    },
+    "printer": {
+      "codepoint": 58386,
+      "fontFamily": "Heroicons",
+      "identifier": "printer"
+    },
+    "printer-16-solid": {
+      "codepoint": 58387,
+      "fontFamily": "Heroicons",
+      "identifier": "printer16Solid"
+    },
+    "printer-20-solid": {
+      "codepoint": 58388,
+      "fontFamily": "Heroicons",
+      "identifier": "printer20Solid"
+    },
+    "printer-solid": {
+      "codepoint": 58389,
+      "fontFamily": "Heroicons",
+      "identifier": "printerSolid"
+    },
+    "puzzle-piece": {
+      "codepoint": 58390,
+      "fontFamily": "Heroicons",
+      "identifier": "puzzlePiece"
+    },
+    "puzzle-piece-16-solid": {
+      "codepoint": 58391,
+      "fontFamily": "Heroicons",
+      "identifier": "puzzlePiece16Solid"
+    },
+    "puzzle-piece-20-solid": {
+      "codepoint": 58392,
+      "fontFamily": "Heroicons",
+      "identifier": "puzzlePiece20Solid"
+    },
+    "puzzle-piece-solid": {
+      "codepoint": 58393,
+      "fontFamily": "Heroicons",
+      "identifier": "puzzlePieceSolid"
+    },
+    "qr-code": {
+      "codepoint": 58394,
+      "fontFamily": "Heroicons",
+      "identifier": "qrCode"
+    },
+    "qr-code-16-solid": {
+      "codepoint": 58395,
+      "fontFamily": "Heroicons",
+      "identifier": "qrCode16Solid"
+    },
+    "qr-code-20-solid": {
+      "codepoint": 58396,
+      "fontFamily": "Heroicons",
+      "identifier": "qrCode20Solid"
+    },
+    "qr-code-solid": {
+      "codepoint": 58397,
+      "fontFamily": "Heroicons",
+      "identifier": "qrCodeSolid"
+    },
+    "question-mark-circle": {
+      "codepoint": 58398,
+      "fontFamily": "Heroicons",
+      "identifier": "questionMarkCircle"
+    },
+    "question-mark-circle-16-solid": {
+      "codepoint": 58399,
+      "fontFamily": "Heroicons",
+      "identifier": "questionMarkCircle16Solid"
+    },
+    "question-mark-circle-20-solid": {
+      "codepoint": 58400,
+      "fontFamily": "Heroicons",
+      "identifier": "questionMarkCircle20Solid"
+    },
+    "question-mark-circle-solid": {
+      "codepoint": 58401,
+      "fontFamily": "Heroicons",
+      "identifier": "questionMarkCircleSolid"
+    },
+    "queue-list": {
+      "codepoint": 58402,
+      "fontFamily": "Heroicons",
+      "identifier": "queueList"
+    },
+    "queue-list-16-solid": {
+      "codepoint": 58403,
+      "fontFamily": "Heroicons",
+      "identifier": "queueList16Solid"
+    },
+    "queue-list-20-solid": {
+      "codepoint": 58404,
+      "fontFamily": "Heroicons",
+      "identifier": "queueList20Solid"
+    },
+    "queue-list-solid": {
+      "codepoint": 58405,
+      "fontFamily": "Heroicons",
+      "identifier": "queueListSolid"
+    },
+    "radio": {
+      "codepoint": 58406,
+      "fontFamily": "Heroicons",
+      "identifier": "radio"
+    },
+    "radio-16-solid": {
+      "codepoint": 58407,
+      "fontFamily": "Heroicons",
+      "identifier": "radio16Solid"
+    },
+    "radio-20-solid": {
+      "codepoint": 58408,
+      "fontFamily": "Heroicons",
+      "identifier": "radio20Solid"
+    },
+    "radio-solid": {
+      "codepoint": 58409,
+      "fontFamily": "Heroicons",
+      "identifier": "radioSolid"
+    },
+    "receipt-percent": {
+      "codepoint": 58410,
+      "fontFamily": "Heroicons",
+      "identifier": "receiptPercent"
+    },
+    "receipt-percent-16-solid": {
+      "codepoint": 58411,
+      "fontFamily": "Heroicons",
+      "identifier": "receiptPercent16Solid"
+    },
+    "receipt-percent-20-solid": {
+      "codepoint": 58412,
+      "fontFamily": "Heroicons",
+      "identifier": "receiptPercent20Solid"
+    },
+    "receipt-percent-solid": {
+      "codepoint": 58413,
+      "fontFamily": "Heroicons",
+      "identifier": "receiptPercentSolid"
+    },
+    "receipt-refund": {
+      "codepoint": 58414,
+      "fontFamily": "Heroicons",
+      "identifier": "receiptRefund"
+    },
+    "receipt-refund-16-solid": {
+      "codepoint": 58415,
+      "fontFamily": "Heroicons",
+      "identifier": "receiptRefund16Solid"
+    },
+    "receipt-refund-20-solid": {
+      "codepoint": 58416,
+      "fontFamily": "Heroicons",
+      "identifier": "receiptRefund20Solid"
+    },
+    "receipt-refund-solid": {
+      "codepoint": 58417,
+      "fontFamily": "Heroicons",
+      "identifier": "receiptRefundSolid"
+    },
+    "rectangle-group": {
+      "codepoint": 58418,
+      "fontFamily": "Heroicons",
+      "identifier": "rectangleGroup"
+    },
+    "rectangle-group-16-solid": {
+      "codepoint": 58419,
+      "fontFamily": "Heroicons",
+      "identifier": "rectangleGroup16Solid"
+    },
+    "rectangle-group-20-solid": {
+      "codepoint": 58420,
+      "fontFamily": "Heroicons",
+      "identifier": "rectangleGroup20Solid"
+    },
+    "rectangle-group-solid": {
+      "codepoint": 58421,
+      "fontFamily": "Heroicons",
+      "identifier": "rectangleGroupSolid"
+    },
+    "rectangle-stack": {
+      "codepoint": 58422,
+      "fontFamily": "Heroicons",
+      "identifier": "rectangleStack"
+    },
+    "rectangle-stack-16-solid": {
+      "codepoint": 58423,
+      "fontFamily": "Heroicons",
+      "identifier": "rectangleStack16Solid"
+    },
+    "rectangle-stack-20-solid": {
+      "codepoint": 58424,
+      "fontFamily": "Heroicons",
+      "identifier": "rectangleStack20Solid"
+    },
+    "rectangle-stack-solid": {
+      "codepoint": 58425,
+      "fontFamily": "Heroicons",
+      "identifier": "rectangleStackSolid"
+    },
+    "rocket-launch": {
+      "codepoint": 58426,
+      "fontFamily": "Heroicons",
+      "identifier": "rocketLaunch"
+    },
+    "rocket-launch-16-solid": {
+      "codepoint": 58427,
+      "fontFamily": "Heroicons",
+      "identifier": "rocketLaunch16Solid"
+    },
+    "rocket-launch-20-solid": {
+      "codepoint": 58428,
+      "fontFamily": "Heroicons",
+      "identifier": "rocketLaunch20Solid"
+    },
+    "rocket-launch-solid": {
+      "codepoint": 58429,
+      "fontFamily": "Heroicons",
+      "identifier": "rocketLaunchSolid"
+    },
+    "rss": {
+      "codepoint": 58430,
+      "fontFamily": "Heroicons",
+      "identifier": "rss"
+    },
+    "rss-16-solid": {
+      "codepoint": 58431,
+      "fontFamily": "Heroicons",
+      "identifier": "rss16Solid"
+    },
+    "rss-20-solid": {
+      "codepoint": 58432,
+      "fontFamily": "Heroicons",
+      "identifier": "rss20Solid"
+    },
+    "rss-solid": {
+      "codepoint": 58433,
+      "fontFamily": "Heroicons",
+      "identifier": "rssSolid"
+    },
+    "scale": {
+      "codepoint": 58434,
+      "fontFamily": "Heroicons",
+      "identifier": "scale"
+    },
+    "scale-16-solid": {
+      "codepoint": 58435,
+      "fontFamily": "Heroicons",
+      "identifier": "scale16Solid"
+    },
+    "scale-20-solid": {
+      "codepoint": 58436,
+      "fontFamily": "Heroicons",
+      "identifier": "scale20Solid"
+    },
+    "scale-solid": {
+      "codepoint": 58437,
+      "fontFamily": "Heroicons",
+      "identifier": "scaleSolid"
+    },
+    "scissors": {
+      "codepoint": 58438,
+      "fontFamily": "Heroicons",
+      "identifier": "scissors"
+    },
+    "scissors-16-solid": {
+      "codepoint": 58439,
+      "fontFamily": "Heroicons",
+      "identifier": "scissors16Solid"
+    },
+    "scissors-20-solid": {
+      "codepoint": 58440,
+      "fontFamily": "Heroicons",
+      "identifier": "scissors20Solid"
+    },
+    "scissors-solid": {
+      "codepoint": 58441,
+      "fontFamily": "Heroicons",
+      "identifier": "scissorsSolid"
+    },
+    "server": {
+      "codepoint": 58442,
+      "fontFamily": "Heroicons",
+      "identifier": "server"
+    },
+    "server-16-solid": {
+      "codepoint": 58443,
+      "fontFamily": "Heroicons",
+      "identifier": "server16Solid"
+    },
+    "server-20-solid": {
+      "codepoint": 58444,
+      "fontFamily": "Heroicons",
+      "identifier": "server20Solid"
+    },
+    "server-solid": {
+      "codepoint": 58445,
+      "fontFamily": "Heroicons",
+      "identifier": "serverSolid"
+    },
+    "server-stack": {
+      "codepoint": 58446,
+      "fontFamily": "Heroicons",
+      "identifier": "serverStack"
+    },
+    "server-stack-16-solid": {
+      "codepoint": 58447,
+      "fontFamily": "Heroicons",
+      "identifier": "serverStack16Solid"
+    },
+    "server-stack-20-solid": {
+      "codepoint": 58448,
+      "fontFamily": "Heroicons",
+      "identifier": "serverStack20Solid"
+    },
+    "server-stack-solid": {
+      "codepoint": 58449,
+      "fontFamily": "Heroicons",
+      "identifier": "serverStackSolid"
+    },
+    "share": {
+      "codepoint": 58450,
+      "fontFamily": "Heroicons",
+      "identifier": "share"
+    },
+    "share-16-solid": {
+      "codepoint": 58451,
+      "fontFamily": "Heroicons",
+      "identifier": "share16Solid"
+    },
+    "share-20-solid": {
+      "codepoint": 58452,
+      "fontFamily": "Heroicons",
+      "identifier": "share20Solid"
+    },
+    "share-solid": {
+      "codepoint": 58453,
+      "fontFamily": "Heroicons",
+      "identifier": "shareSolid"
+    },
+    "shield-check": {
+      "codepoint": 58454,
+      "fontFamily": "Heroicons",
+      "identifier": "shieldCheck"
+    },
+    "shield-check-16-solid": {
+      "codepoint": 58455,
+      "fontFamily": "Heroicons",
+      "identifier": "shieldCheck16Solid"
+    },
+    "shield-check-20-solid": {
+      "codepoint": 58456,
+      "fontFamily": "Heroicons",
+      "identifier": "shieldCheck20Solid"
+    },
+    "shield-check-solid": {
+      "codepoint": 58457,
+      "fontFamily": "Heroicons",
+      "identifier": "shieldCheckSolid"
+    },
+    "shield-exclamation": {
+      "codepoint": 58458,
+      "fontFamily": "Heroicons",
+      "identifier": "shieldExclamation"
+    },
+    "shield-exclamation-16-solid": {
+      "codepoint": 58459,
+      "fontFamily": "Heroicons",
+      "identifier": "shieldExclamation16Solid"
+    },
+    "shield-exclamation-20-solid": {
+      "codepoint": 58460,
+      "fontFamily": "Heroicons",
+      "identifier": "shieldExclamation20Solid"
+    },
+    "shield-exclamation-solid": {
+      "codepoint": 58461,
+      "fontFamily": "Heroicons",
+      "identifier": "shieldExclamationSolid"
+    },
+    "shopping-bag": {
+      "codepoint": 58462,
+      "fontFamily": "Heroicons",
+      "identifier": "shoppingBag"
+    },
+    "shopping-bag-16-solid": {
+      "codepoint": 58463,
+      "fontFamily": "Heroicons",
+      "identifier": "shoppingBag16Solid"
+    },
+    "shopping-bag-20-solid": {
+      "codepoint": 58464,
+      "fontFamily": "Heroicons",
+      "identifier": "shoppingBag20Solid"
+    },
+    "shopping-bag-solid": {
+      "codepoint": 58465,
+      "fontFamily": "Heroicons",
+      "identifier": "shoppingBagSolid"
+    },
+    "shopping-cart": {
+      "codepoint": 58466,
+      "fontFamily": "Heroicons",
+      "identifier": "shoppingCart"
+    },
+    "shopping-cart-16-solid": {
+      "codepoint": 58467,
+      "fontFamily": "Heroicons",
+      "identifier": "shoppingCart16Solid"
+    },
+    "shopping-cart-20-solid": {
+      "codepoint": 58468,
+      "fontFamily": "Heroicons",
+      "identifier": "shoppingCart20Solid"
+    },
+    "shopping-cart-solid": {
+      "codepoint": 58469,
+      "fontFamily": "Heroicons",
+      "identifier": "shoppingCartSolid"
+    },
+    "signal": {
+      "codepoint": 58470,
+      "fontFamily": "Heroicons",
+      "identifier": "signal"
+    },
+    "signal-16-solid": {
+      "codepoint": 58471,
+      "fontFamily": "Heroicons",
+      "identifier": "signal16Solid"
+    },
+    "signal-20-solid": {
+      "codepoint": 58472,
+      "fontFamily": "Heroicons",
+      "identifier": "signal20Solid"
+    },
+    "signal-slash": {
+      "codepoint": 58473,
+      "fontFamily": "Heroicons",
+      "identifier": "signalSlash"
+    },
+    "signal-slash-16-solid": {
+      "codepoint": 58474,
+      "fontFamily": "Heroicons",
+      "identifier": "signalSlash16Solid"
+    },
+    "signal-slash-20-solid": {
+      "codepoint": 58475,
+      "fontFamily": "Heroicons",
+      "identifier": "signalSlash20Solid"
+    },
+    "signal-slash-solid": {
+      "codepoint": 58476,
+      "fontFamily": "Heroicons",
+      "identifier": "signalSlashSolid"
+    },
+    "signal-solid": {
+      "codepoint": 58477,
+      "fontFamily": "Heroicons",
+      "identifier": "signalSolid"
+    },
+    "slash": {
+      "codepoint": 58478,
+      "fontFamily": "Heroicons",
+      "identifier": "slash"
+    },
+    "slash-16-solid": {
+      "codepoint": 58479,
+      "fontFamily": "Heroicons",
+      "identifier": "slash16Solid"
+    },
+    "slash-20-solid": {
+      "codepoint": 58480,
+      "fontFamily": "Heroicons",
+      "identifier": "slash20Solid"
+    },
+    "slash-solid": {
+      "codepoint": 58481,
+      "fontFamily": "Heroicons",
+      "identifier": "slashSolid"
+    },
+    "sparkles": {
+      "codepoint": 58482,
+      "fontFamily": "Heroicons",
+      "identifier": "sparkles"
+    },
+    "sparkles-16-solid": {
+      "codepoint": 58483,
+      "fontFamily": "Heroicons",
+      "identifier": "sparkles16Solid"
+    },
+    "sparkles-20-solid": {
+      "codepoint": 58484,
+      "fontFamily": "Heroicons",
+      "identifier": "sparkles20Solid"
+    },
+    "sparkles-solid": {
+      "codepoint": 58485,
+      "fontFamily": "Heroicons",
+      "identifier": "sparklesSolid"
+    },
+    "speaker-wave": {
+      "codepoint": 58486,
+      "fontFamily": "Heroicons",
+      "identifier": "speakerWave"
+    },
+    "speaker-wave-16-solid": {
+      "codepoint": 58487,
+      "fontFamily": "Heroicons",
+      "identifier": "speakerWave16Solid"
+    },
+    "speaker-wave-20-solid": {
+      "codepoint": 58488,
+      "fontFamily": "Heroicons",
+      "identifier": "speakerWave20Solid"
+    },
+    "speaker-wave-solid": {
+      "codepoint": 58489,
+      "fontFamily": "Heroicons",
+      "identifier": "speakerWaveSolid"
+    },
+    "speaker-x-mark": {
+      "codepoint": 58490,
+      "fontFamily": "Heroicons",
+      "identifier": "speakerXMark"
+    },
+    "speaker-x-mark-16-solid": {
+      "codepoint": 58491,
+      "fontFamily": "Heroicons",
+      "identifier": "speakerXMark16Solid"
+    },
+    "speaker-x-mark-20-solid": {
+      "codepoint": 58492,
+      "fontFamily": "Heroicons",
+      "identifier": "speakerXMark20Solid"
+    },
+    "speaker-x-mark-solid": {
+      "codepoint": 58493,
+      "fontFamily": "Heroicons",
+      "identifier": "speakerXMarkSolid"
+    },
+    "square-2-stack": {
+      "codepoint": 58494,
+      "fontFamily": "Heroicons",
+      "identifier": "square2Stack"
+    },
+    "square-2-stack-16-solid": {
+      "codepoint": 58495,
+      "fontFamily": "Heroicons",
+      "identifier": "square2Stack16Solid"
+    },
+    "square-2-stack-20-solid": {
+      "codepoint": 58496,
+      "fontFamily": "Heroicons",
+      "identifier": "square2Stack20Solid"
+    },
+    "square-2-stack-solid": {
+      "codepoint": 58497,
+      "fontFamily": "Heroicons",
+      "identifier": "square2StackSolid"
+    },
+    "square-3-stack-3d": {
+      "codepoint": 58498,
+      "fontFamily": "Heroicons",
+      "identifier": "square3Stack3d"
+    },
+    "square-3-stack-3d-16-solid": {
+      "codepoint": 58499,
+      "fontFamily": "Heroicons",
+      "identifier": "square3Stack3d16Solid"
+    },
+    "square-3-stack-3d-20-solid": {
+      "codepoint": 58500,
+      "fontFamily": "Heroicons",
+      "identifier": "square3Stack3d20Solid"
+    },
+    "square-3-stack-3d-solid": {
+      "codepoint": 58501,
+      "fontFamily": "Heroicons",
+      "identifier": "square3Stack3dSolid"
+    },
+    "squares-2x2": {
+      "codepoint": 58502,
+      "fontFamily": "Heroicons",
+      "identifier": "squares2x2"
+    },
+    "squares-2x2-16-solid": {
+      "codepoint": 58503,
+      "fontFamily": "Heroicons",
+      "identifier": "squares2x216Solid"
+    },
+    "squares-2x2-20-solid": {
+      "codepoint": 58504,
+      "fontFamily": "Heroicons",
+      "identifier": "squares2x220Solid"
+    },
+    "squares-2x2-solid": {
+      "codepoint": 58505,
+      "fontFamily": "Heroicons",
+      "identifier": "squares2x2Solid"
+    },
+    "squares-plus": {
+      "codepoint": 58506,
+      "fontFamily": "Heroicons",
+      "identifier": "squaresPlus"
+    },
+    "squares-plus-16-solid": {
+      "codepoint": 58507,
+      "fontFamily": "Heroicons",
+      "identifier": "squaresPlus16Solid"
+    },
+    "squares-plus-20-solid": {
+      "codepoint": 58508,
+      "fontFamily": "Heroicons",
+      "identifier": "squaresPlus20Solid"
+    },
+    "squares-plus-solid": {
+      "codepoint": 58509,
+      "fontFamily": "Heroicons",
+      "identifier": "squaresPlusSolid"
+    },
+    "star": {
+      "codepoint": 58510,
+      "fontFamily": "Heroicons",
+      "identifier": "star"
+    },
+    "star-16-solid": {
+      "codepoint": 58511,
+      "fontFamily": "Heroicons",
+      "identifier": "star16Solid"
+    },
+    "star-20-solid": {
+      "codepoint": 58512,
+      "fontFamily": "Heroicons",
+      "identifier": "star20Solid"
+    },
+    "star-solid": {
+      "codepoint": 58513,
+      "fontFamily": "Heroicons",
+      "identifier": "starSolid"
+    },
+    "stop": {
+      "codepoint": 58514,
+      "fontFamily": "Heroicons",
+      "identifier": "stop"
+    },
+    "stop-16-solid": {
+      "codepoint": 58515,
+      "fontFamily": "Heroicons",
+      "identifier": "stop16Solid"
+    },
+    "stop-20-solid": {
+      "codepoint": 58516,
+      "fontFamily": "Heroicons",
+      "identifier": "stop20Solid"
+    },
+    "stop-circle": {
+      "codepoint": 58517,
+      "fontFamily": "Heroicons",
+      "identifier": "stopCircle"
+    },
+    "stop-circle-16-solid": {
+      "codepoint": 58518,
+      "fontFamily": "Heroicons",
+      "identifier": "stopCircle16Solid"
+    },
+    "stop-circle-20-solid": {
+      "codepoint": 58519,
+      "fontFamily": "Heroicons",
+      "identifier": "stopCircle20Solid"
+    },
+    "stop-circle-solid": {
+      "codepoint": 58520,
+      "fontFamily": "Heroicons",
+      "identifier": "stopCircleSolid"
+    },
+    "stop-solid": {
+      "codepoint": 58521,
+      "fontFamily": "Heroicons",
+      "identifier": "stopSolid"
+    },
+    "strikethrough": {
+      "codepoint": 58522,
+      "fontFamily": "Heroicons",
+      "identifier": "strikethrough"
+    },
+    "strikethrough-16-solid": {
+      "codepoint": 58523,
+      "fontFamily": "Heroicons",
+      "identifier": "strikethrough16Solid"
+    },
+    "strikethrough-20-solid": {
+      "codepoint": 58524,
+      "fontFamily": "Heroicons",
+      "identifier": "strikethrough20Solid"
+    },
+    "strikethrough-solid": {
+      "codepoint": 58525,
+      "fontFamily": "Heroicons",
+      "identifier": "strikethroughSolid"
+    },
+    "sun": {
+      "codepoint": 58526,
+      "fontFamily": "Heroicons",
+      "identifier": "sun"
+    },
+    "sun-16-solid": {
+      "codepoint": 58527,
+      "fontFamily": "Heroicons",
+      "identifier": "sun16Solid"
+    },
+    "sun-20-solid": {
+      "codepoint": 58528,
+      "fontFamily": "Heroicons",
+      "identifier": "sun20Solid"
+    },
+    "sun-solid": {
+      "codepoint": 58529,
+      "fontFamily": "Heroicons",
+      "identifier": "sunSolid"
+    },
+    "swatch": {
+      "codepoint": 58530,
+      "fontFamily": "Heroicons",
+      "identifier": "swatch"
+    },
+    "swatch-16-solid": {
+      "codepoint": 58531,
+      "fontFamily": "Heroicons",
+      "identifier": "swatch16Solid"
+    },
+    "swatch-20-solid": {
+      "codepoint": 58532,
+      "fontFamily": "Heroicons",
+      "identifier": "swatch20Solid"
+    },
+    "swatch-solid": {
+      "codepoint": 58533,
+      "fontFamily": "Heroicons",
+      "identifier": "swatchSolid"
+    },
+    "table-cells": {
+      "codepoint": 58534,
+      "fontFamily": "Heroicons",
+      "identifier": "tableCells"
+    },
+    "table-cells-16-solid": {
+      "codepoint": 58535,
+      "fontFamily": "Heroicons",
+      "identifier": "tableCells16Solid"
+    },
+    "table-cells-20-solid": {
+      "codepoint": 58536,
+      "fontFamily": "Heroicons",
+      "identifier": "tableCells20Solid"
+    },
+    "table-cells-solid": {
+      "codepoint": 58537,
+      "fontFamily": "Heroicons",
+      "identifier": "tableCellsSolid"
+    },
+    "tag": {
+      "codepoint": 58538,
+      "fontFamily": "Heroicons",
+      "identifier": "tag"
+    },
+    "tag-16-solid": {
+      "codepoint": 58539,
+      "fontFamily": "Heroicons",
+      "identifier": "tag16Solid"
+    },
+    "tag-20-solid": {
+      "codepoint": 58540,
+      "fontFamily": "Heroicons",
+      "identifier": "tag20Solid"
+    },
+    "tag-solid": {
+      "codepoint": 58541,
+      "fontFamily": "Heroicons",
+      "identifier": "tagSolid"
+    },
+    "ticket": {
+      "codepoint": 58542,
+      "fontFamily": "Heroicons",
+      "identifier": "ticket"
+    },
+    "ticket-16-solid": {
+      "codepoint": 58543,
+      "fontFamily": "Heroicons",
+      "identifier": "ticket16Solid"
+    },
+    "ticket-20-solid": {
+      "codepoint": 58544,
+      "fontFamily": "Heroicons",
+      "identifier": "ticket20Solid"
+    },
+    "ticket-solid": {
+      "codepoint": 58545,
+      "fontFamily": "Heroicons",
+      "identifier": "ticketSolid"
+    },
+    "trash": {
+      "codepoint": 58546,
+      "fontFamily": "Heroicons",
+      "identifier": "trash"
+    },
+    "trash-16-solid": {
+      "codepoint": 58547,
+      "fontFamily": "Heroicons",
+      "identifier": "trash16Solid"
+    },
+    "trash-20-solid": {
+      "codepoint": 58548,
+      "fontFamily": "Heroicons",
+      "identifier": "trash20Solid"
+    },
+    "trash-solid": {
+      "codepoint": 58549,
+      "fontFamily": "Heroicons",
+      "identifier": "trashSolid"
+    },
+    "trophy": {
+      "codepoint": 58550,
+      "fontFamily": "Heroicons",
+      "identifier": "trophy"
+    },
+    "trophy-16-solid": {
+      "codepoint": 58551,
+      "fontFamily": "Heroicons",
+      "identifier": "trophy16Solid"
+    },
+    "trophy-20-solid": {
+      "codepoint": 58552,
+      "fontFamily": "Heroicons",
+      "identifier": "trophy20Solid"
+    },
+    "trophy-solid": {
+      "codepoint": 58553,
+      "fontFamily": "Heroicons",
+      "identifier": "trophySolid"
+    },
+    "truck": {
+      "codepoint": 58554,
+      "fontFamily": "Heroicons",
+      "identifier": "truck"
+    },
+    "truck-16-solid": {
+      "codepoint": 58555,
+      "fontFamily": "Heroicons",
+      "identifier": "truck16Solid"
+    },
+    "truck-20-solid": {
+      "codepoint": 58556,
+      "fontFamily": "Heroicons",
+      "identifier": "truck20Solid"
+    },
+    "truck-solid": {
+      "codepoint": 58557,
+      "fontFamily": "Heroicons",
+      "identifier": "truckSolid"
+    },
+    "tv": {
+      "codepoint": 58558,
+      "fontFamily": "Heroicons",
+      "identifier": "tv"
+    },
+    "tv-16-solid": {
+      "codepoint": 58559,
+      "fontFamily": "Heroicons",
+      "identifier": "tv16Solid"
+    },
+    "tv-20-solid": {
+      "codepoint": 58560,
+      "fontFamily": "Heroicons",
+      "identifier": "tv20Solid"
+    },
+    "tv-solid": {
+      "codepoint": 58561,
+      "fontFamily": "Heroicons",
+      "identifier": "tvSolid"
+    },
+    "underline": {
+      "codepoint": 58562,
+      "fontFamily": "Heroicons",
+      "identifier": "underline"
+    },
+    "underline-16-solid": {
+      "codepoint": 58563,
+      "fontFamily": "Heroicons",
+      "identifier": "underline16Solid"
+    },
+    "underline-20-solid": {
+      "codepoint": 58564,
+      "fontFamily": "Heroicons",
+      "identifier": "underline20Solid"
+    },
+    "underline-solid": {
+      "codepoint": 58565,
+      "fontFamily": "Heroicons",
+      "identifier": "underlineSolid"
+    },
+    "user": {
+      "codepoint": 58566,
+      "fontFamily": "Heroicons",
+      "identifier": "user"
+    },
+    "user-16-solid": {
+      "codepoint": 58567,
+      "fontFamily": "Heroicons",
+      "identifier": "user16Solid"
+    },
+    "user-20-solid": {
+      "codepoint": 58568,
+      "fontFamily": "Heroicons",
+      "identifier": "user20Solid"
+    },
+    "user-circle": {
+      "codepoint": 58569,
+      "fontFamily": "Heroicons",
+      "identifier": "userCircle"
+    },
+    "user-circle-16-solid": {
+      "codepoint": 58570,
+      "fontFamily": "Heroicons",
+      "identifier": "userCircle16Solid"
+    },
+    "user-circle-20-solid": {
+      "codepoint": 58571,
+      "fontFamily": "Heroicons",
+      "identifier": "userCircle20Solid"
+    },
+    "user-circle-solid": {
+      "codepoint": 58572,
+      "fontFamily": "Heroicons",
+      "identifier": "userCircleSolid"
+    },
+    "user-group": {
+      "codepoint": 58573,
+      "fontFamily": "Heroicons",
+      "identifier": "userGroup"
+    },
+    "user-group-16-solid": {
+      "codepoint": 58574,
+      "fontFamily": "Heroicons",
+      "identifier": "userGroup16Solid"
+    },
+    "user-group-20-solid": {
+      "codepoint": 58575,
+      "fontFamily": "Heroicons",
+      "identifier": "userGroup20Solid"
+    },
+    "user-group-solid": {
+      "codepoint": 58576,
+      "fontFamily": "Heroicons",
+      "identifier": "userGroupSolid"
+    },
+    "user-minus": {
+      "codepoint": 58577,
+      "fontFamily": "Heroicons",
+      "identifier": "userMinus"
+    },
+    "user-minus-16-solid": {
+      "codepoint": 58578,
+      "fontFamily": "Heroicons",
+      "identifier": "userMinus16Solid"
+    },
+    "user-minus-20-solid": {
+      "codepoint": 58579,
+      "fontFamily": "Heroicons",
+      "identifier": "userMinus20Solid"
+    },
+    "user-minus-solid": {
+      "codepoint": 58580,
+      "fontFamily": "Heroicons",
+      "identifier": "userMinusSolid"
+    },
+    "user-plus": {
+      "codepoint": 58581,
+      "fontFamily": "Heroicons",
+      "identifier": "userPlus"
+    },
+    "user-plus-16-solid": {
+      "codepoint": 58582,
+      "fontFamily": "Heroicons",
+      "identifier": "userPlus16Solid"
+    },
+    "user-plus-20-solid": {
+      "codepoint": 58583,
+      "fontFamily": "Heroicons",
+      "identifier": "userPlus20Solid"
+    },
+    "user-plus-solid": {
+      "codepoint": 58584,
+      "fontFamily": "Heroicons",
+      "identifier": "userPlusSolid"
+    },
+    "user-solid": {
+      "codepoint": 58585,
+      "fontFamily": "Heroicons",
+      "identifier": "userSolid"
+    },
+    "users": {
+      "codepoint": 58586,
+      "fontFamily": "Heroicons",
+      "identifier": "users"
+    },
+    "users-16-solid": {
+      "codepoint": 58587,
+      "fontFamily": "Heroicons",
+      "identifier": "users16Solid"
+    },
+    "users-20-solid": {
+      "codepoint": 58588,
+      "fontFamily": "Heroicons",
+      "identifier": "users20Solid"
+    },
+    "users-solid": {
+      "codepoint": 58589,
+      "fontFamily": "Heroicons",
+      "identifier": "usersSolid"
+    },
+    "variable": {
+      "codepoint": 58590,
+      "fontFamily": "Heroicons",
+      "identifier": "variable"
+    },
+    "variable-16-solid": {
+      "codepoint": 58591,
+      "fontFamily": "Heroicons",
+      "identifier": "variable16Solid"
+    },
+    "variable-20-solid": {
+      "codepoint": 58592,
+      "fontFamily": "Heroicons",
+      "identifier": "variable20Solid"
+    },
+    "variable-solid": {
+      "codepoint": 58593,
+      "fontFamily": "Heroicons",
+      "identifier": "variableSolid"
+    },
+    "video-camera": {
+      "codepoint": 58594,
+      "fontFamily": "Heroicons",
+      "identifier": "videoCamera"
+    },
+    "video-camera-16-solid": {
+      "codepoint": 58595,
+      "fontFamily": "Heroicons",
+      "identifier": "videoCamera16Solid"
+    },
+    "video-camera-20-solid": {
+      "codepoint": 58596,
+      "fontFamily": "Heroicons",
+      "identifier": "videoCamera20Solid"
+    },
+    "video-camera-slash": {
+      "codepoint": 58597,
+      "fontFamily": "Heroicons",
+      "identifier": "videoCameraSlash"
+    },
+    "video-camera-slash-16-solid": {
+      "codepoint": 58598,
+      "fontFamily": "Heroicons",
+      "identifier": "videoCameraSlash16Solid"
+    },
+    "video-camera-slash-20-solid": {
+      "codepoint": 58599,
+      "fontFamily": "Heroicons",
+      "identifier": "videoCameraSlash20Solid"
+    },
+    "video-camera-slash-solid": {
+      "codepoint": 58600,
+      "fontFamily": "Heroicons",
+      "identifier": "videoCameraSlashSolid"
+    },
+    "video-camera-solid": {
+      "codepoint": 58601,
+      "fontFamily": "Heroicons",
+      "identifier": "videoCameraSolid"
+    },
+    "view-columns": {
+      "codepoint": 58602,
+      "fontFamily": "Heroicons",
+      "identifier": "viewColumns"
+    },
+    "view-columns-16-solid": {
+      "codepoint": 58603,
+      "fontFamily": "Heroicons",
+      "identifier": "viewColumns16Solid"
+    },
+    "view-columns-20-solid": {
+      "codepoint": 58604,
+      "fontFamily": "Heroicons",
+      "identifier": "viewColumns20Solid"
+    },
+    "view-columns-solid": {
+      "codepoint": 58605,
+      "fontFamily": "Heroicons",
+      "identifier": "viewColumnsSolid"
+    },
+    "viewfinder-circle": {
+      "codepoint": 58606,
+      "fontFamily": "Heroicons",
+      "identifier": "viewfinderCircle"
+    },
+    "viewfinder-circle-16-solid": {
+      "codepoint": 58607,
+      "fontFamily": "Heroicons",
+      "identifier": "viewfinderCircle16Solid"
+    },
+    "viewfinder-circle-20-solid": {
+      "codepoint": 58608,
+      "fontFamily": "Heroicons",
+      "identifier": "viewfinderCircle20Solid"
+    },
+    "viewfinder-circle-solid": {
+      "codepoint": 58609,
+      "fontFamily": "Heroicons",
+      "identifier": "viewfinderCircleSolid"
+    },
+    "viewfinder-dot": {
+      "codepoint": 58610,
+      "fontFamily": "Heroicons",
+      "identifier": "viewfinderDot"
+    },
+    "viewfinder-dot-20-solid": {
+      "codepoint": 58611,
+      "fontFamily": "Heroicons",
+      "identifier": "viewfinderDot20Solid"
+    },
+    "viewfinder-dot-solid": {
+      "codepoint": 58612,
+      "fontFamily": "Heroicons",
+      "identifier": "viewfinderDotSolid"
+    },
+    "wallet": {
+      "codepoint": 58613,
+      "fontFamily": "Heroicons",
+      "identifier": "wallet"
+    },
+    "wallet-16-solid": {
+      "codepoint": 58614,
+      "fontFamily": "Heroicons",
+      "identifier": "wallet16Solid"
+    },
+    "wallet-20-solid": {
+      "codepoint": 58615,
+      "fontFamily": "Heroicons",
+      "identifier": "wallet20Solid"
+    },
+    "wallet-solid": {
+      "codepoint": 58616,
+      "fontFamily": "Heroicons",
+      "identifier": "walletSolid"
+    },
+    "wifi": {
+      "codepoint": 58617,
+      "fontFamily": "Heroicons",
+      "identifier": "wifi"
+    },
+    "wifi-16-solid": {
+      "codepoint": 58618,
+      "fontFamily": "Heroicons",
+      "identifier": "wifi16Solid"
+    },
+    "wifi-20-solid": {
+      "codepoint": 58619,
+      "fontFamily": "Heroicons",
+      "identifier": "wifi20Solid"
+    },
+    "wifi-solid": {
+      "codepoint": 58620,
+      "fontFamily": "Heroicons",
+      "identifier": "wifiSolid"
+    },
+    "window": {
+      "codepoint": 58621,
+      "fontFamily": "Heroicons",
+      "identifier": "window"
+    },
+    "window-16-solid": {
+      "codepoint": 58622,
+      "fontFamily": "Heroicons",
+      "identifier": "window16Solid"
+    },
+    "window-20-solid": {
+      "codepoint": 58623,
+      "fontFamily": "Heroicons",
+      "identifier": "window20Solid"
+    },
+    "window-solid": {
+      "codepoint": 58624,
+      "fontFamily": "Heroicons",
+      "identifier": "windowSolid"
+    },
+    "wrench": {
+      "codepoint": 58625,
+      "fontFamily": "Heroicons",
+      "identifier": "wrench"
+    },
+    "wrench-16-solid": {
+      "codepoint": 58626,
+      "fontFamily": "Heroicons",
+      "identifier": "wrench16Solid"
+    },
+    "wrench-20-solid": {
+      "codepoint": 58627,
+      "fontFamily": "Heroicons",
+      "identifier": "wrench20Solid"
+    },
+    "wrench-screwdriver": {
+      "codepoint": 58628,
+      "fontFamily": "Heroicons",
+      "identifier": "wrenchScrewdriver"
+    },
+    "wrench-screwdriver-16-solid": {
+      "codepoint": 58629,
+      "fontFamily": "Heroicons",
+      "identifier": "wrenchScrewdriver16Solid"
+    },
+    "wrench-screwdriver-20-solid": {
+      "codepoint": 58630,
+      "fontFamily": "Heroicons",
+      "identifier": "wrenchScrewdriver20Solid"
+    },
+    "wrench-screwdriver-solid": {
+      "codepoint": 58631,
+      "fontFamily": "Heroicons",
+      "identifier": "wrenchScrewdriverSolid"
+    },
+    "wrench-solid": {
+      "codepoint": 58632,
+      "fontFamily": "Heroicons",
+      "identifier": "wrenchSolid"
+    },
+    "x-circle": {
+      "codepoint": 58633,
+      "fontFamily": "Heroicons",
+      "identifier": "xCircle"
+    },
+    "x-circle-16-solid": {
+      "codepoint": 58634,
+      "fontFamily": "Heroicons",
+      "identifier": "xCircle16Solid"
+    },
+    "x-circle-20-solid": {
+      "codepoint": 58635,
+      "fontFamily": "Heroicons",
+      "identifier": "xCircle20Solid"
+    },
+    "x-circle-solid": {
+      "codepoint": 58636,
+      "fontFamily": "Heroicons",
+      "identifier": "xCircleSolid"
+    },
+    "x-mark": {
+      "codepoint": 58637,
+      "fontFamily": "Heroicons",
+      "identifier": "xMark"
+    },
+    "x-mark-16-solid": {
+      "codepoint": 58638,
+      "fontFamily": "Heroicons",
+      "identifier": "xMark16Solid"
+    },
+    "x-mark-20-solid": {
+      "codepoint": 58639,
+      "fontFamily": "Heroicons",
+      "identifier": "xMark20Solid"
+    },
+    "x-mark-solid": {
+      "codepoint": 58640,
+      "fontFamily": "Heroicons",
+      "identifier": "xMarkSolid"
+    }
+  }
+}

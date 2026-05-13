@@ -1,0 +1,1770 @@
+{
+  "schemaVersion": 1,
+  "prefix": "ls",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": null,
+  "subPackage": "iconifyx_ls",
+  "info": {
+    "name": "Ligature Symbols",
+    "author": {
+      "name": "Kazuyuki Motoyama",
+      "url": "https://github.com/kudakurage/LigatureSymbols"
+    },
+    "license": {
+      "title": "Open Font License",
+      "spdx": "OFL-1.1",
+      "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
+    },
+    "total": 348
+  },
+  "fonts": [
+    {
+      "family": "Ls",
+      "nextCodepoint": 57692,
+      "iconCount": 348
+    }
+  ],
+  "icons": {
+    "0": {
+      "codepoint": 57344,
+      "fontFamily": "Ls",
+      "identifier": "n0"
+    },
+    "1": {
+      "codepoint": 57345,
+      "fontFamily": "Ls",
+      "identifier": "n1"
+    },
+    "2": {
+      "codepoint": 57346,
+      "fontFamily": "Ls",
+      "identifier": "n2"
+    },
+    "3": {
+      "codepoint": 57347,
+      "fontFamily": "Ls",
+      "identifier": "n3"
+    },
+    "4": {
+      "codepoint": 57348,
+      "fontFamily": "Ls",
+      "identifier": "n4"
+    },
+    "5": {
+      "codepoint": 57349,
+      "fontFamily": "Ls",
+      "identifier": "n5"
+    },
+    "6": {
+      "codepoint": 57350,
+      "fontFamily": "Ls",
+      "identifier": "n6"
+    },
+    "7": {
+      "codepoint": 57351,
+      "fontFamily": "Ls",
+      "identifier": "n7"
+    },
+    "8": {
+      "codepoint": 57352,
+      "fontFamily": "Ls",
+      "identifier": "n8"
+    },
+    "9": {
+      "codepoint": 57353,
+      "fontFamily": "Ls",
+      "identifier": "n9"
+    },
+    "a": {
+      "codepoint": 57354,
+      "fontFamily": "Ls",
+      "identifier": "a"
+    },
+    "a-upper-case": {
+      "codepoint": 57355,
+      "fontFamily": "Ls",
+      "identifier": "aUpperCase"
+    },
+    "addstar": {
+      "codepoint": 57356,
+      "fontFamily": "Ls",
+      "identifier": "addstar"
+    },
+    "adjust": {
+      "codepoint": 57357,
+      "fontFamily": "Ls",
+      "identifier": "adjust"
+    },
+    "aim": {
+      "codepoint": 57358,
+      "fontFamily": "Ls",
+      "identifier": "aim"
+    },
+    "album": {
+      "codepoint": 57359,
+      "fontFamily": "Ls",
+      "identifier": "album"
+    },
+    "alignadjust": {
+      "codepoint": 57360,
+      "fontFamily": "Ls",
+      "identifier": "alignadjust"
+    },
+    "aligncenter": {
+      "codepoint": 57361,
+      "fontFamily": "Ls",
+      "identifier": "aligncenter"
+    },
+    "alignleft": {
+      "codepoint": 57362,
+      "fontFamily": "Ls",
+      "identifier": "alignleft"
+    },
+    "alignright": {
+      "codepoint": 57363,
+      "fontFamily": "Ls",
+      "identifier": "alignright"
+    },
+    "amazon": {
+      "codepoint": 57364,
+      "fontFamily": "Ls",
+      "identifier": "amazon"
+    },
+    "ampersand": {
+      "codepoint": 57365,
+      "fontFamily": "Ls",
+      "identifier": "ampersand"
+    },
+    "android": {
+      "codepoint": 57366,
+      "fontFamily": "Ls",
+      "identifier": "android"
+    },
+    "app": {
+      "codepoint": 57367,
+      "fontFamily": "Ls",
+      "identifier": "app"
+    },
+    "apple": {
+      "codepoint": 57368,
+      "fontFamily": "Ls",
+      "identifier": "apple"
+    },
+    "arrowdown": {
+      "codepoint": 57369,
+      "fontFamily": "Ls",
+      "identifier": "arrowdown"
+    },
+    "arrowleft": {
+      "codepoint": 57370,
+      "fontFamily": "Ls",
+      "identifier": "arrowleft"
+    },
+    "arrowright": {
+      "codepoint": 57371,
+      "fontFamily": "Ls",
+      "identifier": "arrowright"
+    },
+    "arrowup": {
+      "codepoint": 57372,
+      "fontFamily": "Ls",
+      "identifier": "arrowup"
+    },
+    "asciicircum": {
+      "codepoint": 57373,
+      "fontFamily": "Ls",
+      "identifier": "asciicircum"
+    },
+    "asciitilde": {
+      "codepoint": 57374,
+      "fontFamily": "Ls",
+      "identifier": "asciitilde"
+    },
+    "asterisk": {
+      "codepoint": 57375,
+      "fontFamily": "Ls",
+      "identifier": "asterisk"
+    },
+    "at": {
+      "codepoint": 57376,
+      "fontFamily": "Ls",
+      "identifier": "at"
+    },
+    "b": {
+      "codepoint": 57377,
+      "fontFamily": "Ls",
+      "identifier": "b"
+    },
+    "b-upper-case": {
+      "codepoint": 57378,
+      "fontFamily": "Ls",
+      "identifier": "bUpperCase"
+    },
+    "back": {
+      "codepoint": 57379,
+      "fontFamily": "Ls",
+      "identifier": "back"
+    },
+    "backslash": {
+      "codepoint": 57380,
+      "fontFamily": "Ls",
+      "identifier": "backslash"
+    },
+    "backspace": {
+      "codepoint": 57381,
+      "fontFamily": "Ls",
+      "identifier": "backspace"
+    },
+    "bad": {
+      "codepoint": 57382,
+      "fontFamily": "Ls",
+      "identifier": "bad"
+    },
+    "bag": {
+      "codepoint": 57383,
+      "fontFamily": "Ls",
+      "identifier": "bag"
+    },
+    "ban": {
+      "codepoint": 57384,
+      "fontFamily": "Ls",
+      "identifier": "ban"
+    },
+    "bar": {
+      "codepoint": 57385,
+      "fontFamily": "Ls",
+      "identifier": "bar"
+    },
+    "barcode": {
+      "codepoint": 57386,
+      "fontFamily": "Ls",
+      "identifier": "barcode"
+    },
+    "bell": {
+      "codepoint": 57387,
+      "fontFamily": "Ls",
+      "identifier": "bell"
+    },
+    "bicycle": {
+      "codepoint": 57388,
+      "fontFamily": "Ls",
+      "identifier": "bicycle"
+    },
+    "bing": {
+      "codepoint": 57389,
+      "fontFamily": "Ls",
+      "identifier": "bing"
+    },
+    "blogger": {
+      "codepoint": 57390,
+      "fontFamily": "Ls",
+      "identifier": "blogger"
+    },
+    "bold": {
+      "codepoint": 57391,
+      "fontFamily": "Ls",
+      "identifier": "bold"
+    },
+    "book": {
+      "codepoint": 57392,
+      "fontFamily": "Ls",
+      "identifier": "book"
+    },
+    "bookmark": {
+      "codepoint": 57393,
+      "fontFamily": "Ls",
+      "identifier": "bookmark"
+    },
+    "braceleft": {
+      "codepoint": 57394,
+      "fontFamily": "Ls",
+      "identifier": "braceleft"
+    },
+    "braceright": {
+      "codepoint": 57395,
+      "fontFamily": "Ls",
+      "identifier": "braceright"
+    },
+    "bracketleft": {
+      "codepoint": 57396,
+      "fontFamily": "Ls",
+      "identifier": "bracketleft"
+    },
+    "bracketright": {
+      "codepoint": 57397,
+      "fontFamily": "Ls",
+      "identifier": "bracketright"
+    },
+    "brush": {
+      "codepoint": 57398,
+      "fontFamily": "Ls",
+      "identifier": "brush"
+    },
+    "buffalo": {
+      "codepoint": 57399,
+      "fontFamily": "Ls",
+      "identifier": "buffalo"
+    },
+    "building": {
+      "codepoint": 57400,
+      "fontFamily": "Ls",
+      "identifier": "building"
+    },
+    "bus": {
+      "codepoint": 57401,
+      "fontFamily": "Ls",
+      "identifier": "bus"
+    },
+    "c": {
+      "codepoint": 57402,
+      "fontFamily": "Ls",
+      "identifier": "c"
+    },
+    "c-upper-case": {
+      "codepoint": 57403,
+      "fontFamily": "Ls",
+      "identifier": "cUpperCase"
+    },
+    "calendar": {
+      "codepoint": 57404,
+      "fontFamily": "Ls",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57405,
+      "fontFamily": "Ls",
+      "identifier": "camera"
+    },
+    "car": {
+      "codepoint": 57406,
+      "fontFamily": "Ls",
+      "identifier": "car"
+    },
+    "category": {
+      "codepoint": 57407,
+      "fontFamily": "Ls",
+      "identifier": "category"
+    },
+    "check": {
+      "codepoint": 57408,
+      "fontFamily": "Ls",
+      "identifier": "check"
+    },
+    "checkbox": {
+      "codepoint": 57409,
+      "fontFamily": "Ls",
+      "identifier": "checkbox"
+    },
+    "checkboxempty": {
+      "codepoint": 57410,
+      "fontFamily": "Ls",
+      "identifier": "checkboxempty"
+    },
+    "chrome": {
+      "codepoint": 57411,
+      "fontFamily": "Ls",
+      "identifier": "chrome"
+    },
+    "cinnamon": {
+      "codepoint": 57412,
+      "fontFamily": "Ls",
+      "identifier": "cinnamon"
+    },
+    "circle": {
+      "codepoint": 57413,
+      "fontFamily": "Ls",
+      "identifier": "circle"
+    },
+    "clear": {
+      "codepoint": 57414,
+      "fontFamily": "Ls",
+      "identifier": "clear"
+    },
+    "clip": {
+      "codepoint": 57415,
+      "fontFamily": "Ls",
+      "identifier": "clip"
+    },
+    "cloud": {
+      "codepoint": 57416,
+      "fontFamily": "Ls",
+      "identifier": "cloud"
+    },
+    "code": {
+      "codepoint": 57417,
+      "fontFamily": "Ls",
+      "identifier": "code"
+    },
+    "coffee": {
+      "codepoint": 57418,
+      "fontFamily": "Ls",
+      "identifier": "coffee"
+    },
+    "college": {
+      "codepoint": 57419,
+      "fontFamily": "Ls",
+      "identifier": "college"
+    },
+    "colon": {
+      "codepoint": 57420,
+      "fontFamily": "Ls",
+      "identifier": "colon"
+    },
+    "comma": {
+      "codepoint": 57421,
+      "fontFamily": "Ls",
+      "identifier": "comma"
+    },
+    "comment": {
+      "codepoint": 57422,
+      "fontFamily": "Ls",
+      "identifier": "comment"
+    },
+    "comments": {
+      "codepoint": 57423,
+      "fontFamily": "Ls",
+      "identifier": "comments"
+    },
+    "compass": {
+      "codepoint": 57424,
+      "fontFamily": "Ls",
+      "identifier": "compass"
+    },
+    "cookpad": {
+      "codepoint": 57425,
+      "fontFamily": "Ls",
+      "identifier": "cookpad"
+    },
+    "copy": {
+      "codepoint": 57426,
+      "fontFamily": "Ls",
+      "identifier": "copy"
+    },
+    "crop": {
+      "codepoint": 57427,
+      "fontFamily": "Ls",
+      "identifier": "crop"
+    },
+    "crown": {
+      "codepoint": 57428,
+      "fontFamily": "Ls",
+      "identifier": "crown"
+    },
+    "cursor": {
+      "codepoint": 57429,
+      "fontFamily": "Ls",
+      "identifier": "cursor"
+    },
+    "cut": {
+      "codepoint": 57430,
+      "fontFamily": "Ls",
+      "identifier": "cut"
+    },
+    "d": {
+      "codepoint": 57431,
+      "fontFamily": "Ls",
+      "identifier": "d"
+    },
+    "d-upper-case": {
+      "codepoint": 57432,
+      "fontFamily": "Ls",
+      "identifier": "dUpperCase"
+    },
+    "dailycalendar": {
+      "codepoint": 57433,
+      "fontFamily": "Ls",
+      "identifier": "dailycalendar"
+    },
+    "dark": {
+      "codepoint": 57434,
+      "fontFamily": "Ls",
+      "identifier": "dark"
+    },
+    "dashboard": {
+      "codepoint": 57435,
+      "fontFamily": "Ls",
+      "identifier": "dashboard"
+    },
+    "delicious": {
+      "codepoint": 57436,
+      "fontFamily": "Ls",
+      "identifier": "delicious"
+    },
+    "digg": {
+      "codepoint": 57437,
+      "fontFamily": "Ls",
+      "identifier": "digg"
+    },
+    "dollar": {
+      "codepoint": 57438,
+      "fontFamily": "Ls",
+      "identifier": "dollar"
+    },
+    "down": {
+      "codepoint": 57439,
+      "fontFamily": "Ls",
+      "identifier": "down"
+    },
+    "download": {
+      "codepoint": 57440,
+      "fontFamily": "Ls",
+      "identifier": "download"
+    },
+    "dribbble": {
+      "codepoint": 57441,
+      "fontFamily": "Ls",
+      "identifier": "dribbble"
+    },
+    "dropbox": {
+      "codepoint": 57442,
+      "fontFamily": "Ls",
+      "identifier": "dropbox"
+    },
+    "dropdown": {
+      "codepoint": 57443,
+      "fontFamily": "Ls",
+      "identifier": "dropdown"
+    },
+    "e": {
+      "codepoint": 57444,
+      "fontFamily": "Ls",
+      "identifier": "e"
+    },
+    "e-upper-case": {
+      "codepoint": 57445,
+      "fontFamily": "Ls",
+      "identifier": "eUpperCase"
+    },
+    "edit": {
+      "codepoint": 57446,
+      "fontFamily": "Ls",
+      "identifier": "edit"
+    },
+    "eject": {
+      "codepoint": 57447,
+      "fontFamily": "Ls",
+      "identifier": "eject"
+    },
+    "emdash": {
+      "codepoint": 57448,
+      "fontFamily": "Ls",
+      "identifier": "emdash"
+    },
+    "emphasis": {
+      "codepoint": 57449,
+      "fontFamily": "Ls",
+      "identifier": "emphasis"
+    },
+    "endash": {
+      "codepoint": 57450,
+      "fontFamily": "Ls",
+      "identifier": "endash"
+    },
+    "equal": {
+      "codepoint": 57451,
+      "fontFamily": "Ls",
+      "identifier": "equal"
+    },
+    "eraser": {
+      "codepoint": 57452,
+      "fontFamily": "Ls",
+      "identifier": "eraser"
+    },
+    "etc": {
+      "codepoint": 57453,
+      "fontFamily": "Ls",
+      "identifier": "etc"
+    },
+    "evernote": {
+      "codepoint": 57454,
+      "fontFamily": "Ls",
+      "identifier": "evernote"
+    },
+    "exchange": {
+      "codepoint": 57455,
+      "fontFamily": "Ls",
+      "identifier": "exchange"
+    },
+    "exclam": {
+      "codepoint": 57456,
+      "fontFamily": "Ls",
+      "identifier": "exclam"
+    },
+    "external": {
+      "codepoint": 57457,
+      "fontFamily": "Ls",
+      "identifier": "external_"
+    },
+    "f": {
+      "codepoint": 57458,
+      "fontFamily": "Ls",
+      "identifier": "f"
+    },
+    "f-upper-case": {
+      "codepoint": 57459,
+      "fontFamily": "Ls",
+      "identifier": "fUpperCase"
+    },
+    "facebook": {
+      "codepoint": 57460,
+      "fontFamily": "Ls",
+      "identifier": "facebook"
+    },
+    "female": {
+      "codepoint": 57461,
+      "fontFamily": "Ls",
+      "identifier": "female"
+    },
+    "file": {
+      "codepoint": 57462,
+      "fontFamily": "Ls",
+      "identifier": "file"
+    },
+    "firefox": {
+      "codepoint": 57463,
+      "fontFamily": "Ls",
+      "identifier": "firefox"
+    },
+    "flag": {
+      "codepoint": 57464,
+      "fontFamily": "Ls",
+      "identifier": "flag"
+    },
+    "flickr": {
+      "codepoint": 57465,
+      "fontFamily": "Ls",
+      "identifier": "flickr"
+    },
+    "folder": {
+      "codepoint": 57466,
+      "fontFamily": "Ls",
+      "identifier": "folder"
+    },
+    "forward": {
+      "codepoint": 57467,
+      "fontFamily": "Ls",
+      "identifier": "forward"
+    },
+    "foursquare": {
+      "codepoint": 57468,
+      "fontFamily": "Ls",
+      "identifier": "foursquare"
+    },
+    "friend": {
+      "codepoint": 57469,
+      "fontFamily": "Ls",
+      "identifier": "friend"
+    },
+    "frustrate": {
+      "codepoint": 57470,
+      "fontFamily": "Ls",
+      "identifier": "frustrate"
+    },
+    "full": {
+      "codepoint": 57471,
+      "fontFamily": "Ls",
+      "identifier": "full"
+    },
+    "g": {
+      "codepoint": 57472,
+      "fontFamily": "Ls",
+      "identifier": "g"
+    },
+    "g-upper-case": {
+      "codepoint": 57473,
+      "fontFamily": "Ls",
+      "identifier": "gUpperCase"
+    },
+    "game": {
+      "codepoint": 57474,
+      "fontFamily": "Ls",
+      "identifier": "game"
+    },
+    "gear": {
+      "codepoint": 57475,
+      "fontFamily": "Ls",
+      "identifier": "gear"
+    },
+    "geo": {
+      "codepoint": 57476,
+      "fontFamily": "Ls",
+      "identifier": "geo"
+    },
+    "github": {
+      "codepoint": 57477,
+      "fontFamily": "Ls",
+      "identifier": "github"
+    },
+    "globe": {
+      "codepoint": 57478,
+      "fontFamily": "Ls",
+      "identifier": "globe"
+    },
+    "good": {
+      "codepoint": 57479,
+      "fontFamily": "Ls",
+      "identifier": "good"
+    },
+    "google": {
+      "codepoint": 57480,
+      "fontFamily": "Ls",
+      "identifier": "google"
+    },
+    "grab": {
+      "codepoint": 57481,
+      "fontFamily": "Ls",
+      "identifier": "grab"
+    },
+    "graph": {
+      "codepoint": 57482,
+      "fontFamily": "Ls",
+      "identifier": "graph"
+    },
+    "grayscale": {
+      "codepoint": 57483,
+      "fontFamily": "Ls",
+      "identifier": "grayscale"
+    },
+    "gree": {
+      "codepoint": 57484,
+      "fontFamily": "Ls",
+      "identifier": "gree"
+    },
+    "group": {
+      "codepoint": 57485,
+      "fontFamily": "Ls",
+      "identifier": "group"
+    },
+    "guillemotleft": {
+      "codepoint": 57486,
+      "fontFamily": "Ls",
+      "identifier": "guillemotleft"
+    },
+    "guillemotright": {
+      "codepoint": 57487,
+      "fontFamily": "Ls",
+      "identifier": "guillemotright"
+    },
+    "guilsinglleft": {
+      "codepoint": 57488,
+      "fontFamily": "Ls",
+      "identifier": "guilsinglleft"
+    },
+    "guilsinglright": {
+      "codepoint": 57489,
+      "fontFamily": "Ls",
+      "identifier": "guilsinglright"
+    },
+    "gumroad": {
+      "codepoint": 57490,
+      "fontFamily": "Ls",
+      "identifier": "gumroad"
+    },
+    "h": {
+      "codepoint": 57491,
+      "fontFamily": "Ls",
+      "identifier": "h"
+    },
+    "h-upper-case": {
+      "codepoint": 57492,
+      "fontFamily": "Ls",
+      "identifier": "hUpperCase"
+    },
+    "hatena": {
+      "codepoint": 57493,
+      "fontFamily": "Ls",
+      "identifier": "hatena"
+    },
+    "hatenabookmark": {
+      "codepoint": 57494,
+      "fontFamily": "Ls",
+      "identifier": "hatenabookmark"
+    },
+    "heart": {
+      "codepoint": 57495,
+      "fontFamily": "Ls",
+      "identifier": "heart"
+    },
+    "heartempty": {
+      "codepoint": 57496,
+      "fontFamily": "Ls",
+      "identifier": "heartempty"
+    },
+    "help": {
+      "codepoint": 57497,
+      "fontFamily": "Ls",
+      "identifier": "help"
+    },
+    "heteml": {
+      "codepoint": 57498,
+      "fontFamily": "Ls",
+      "identifier": "heteml"
+    },
+    "home": {
+      "codepoint": 57499,
+      "fontFamily": "Ls",
+      "identifier": "home"
+    },
+    "horizontal": {
+      "codepoint": 57500,
+      "fontFamily": "Ls",
+      "identifier": "horizontal"
+    },
+    "hot": {
+      "codepoint": 57501,
+      "fontFamily": "Ls",
+      "identifier": "hot"
+    },
+    "hyphen": {
+      "codepoint": 57502,
+      "fontFamily": "Ls",
+      "identifier": "hyphen"
+    },
+    "i": {
+      "codepoint": 57503,
+      "fontFamily": "Ls",
+      "identifier": "i"
+    },
+    "i-upper-case": {
+      "codepoint": 57504,
+      "fontFamily": "Ls",
+      "identifier": "iUpperCase"
+    },
+    "image": {
+      "codepoint": 57505,
+      "fontFamily": "Ls",
+      "identifier": "image"
+    },
+    "info": {
+      "codepoint": 57506,
+      "fontFamily": "Ls",
+      "identifier": "info"
+    },
+    "ink": {
+      "codepoint": 57507,
+      "fontFamily": "Ls",
+      "identifier": "ink"
+    },
+    "instagram": {
+      "codepoint": 57508,
+      "fontFamily": "Ls",
+      "identifier": "instagram"
+    },
+    "instapaper": {
+      "codepoint": 57509,
+      "fontFamily": "Ls",
+      "identifier": "instapaper"
+    },
+    "internetexplorer": {
+      "codepoint": 57510,
+      "fontFamily": "Ls",
+      "identifier": "internetexplorer"
+    },
+    "invert": {
+      "codepoint": 57511,
+      "fontFamily": "Ls",
+      "identifier": "invert"
+    },
+    "iphone": {
+      "codepoint": 57512,
+      "fontFamily": "Ls",
+      "identifier": "iphone"
+    },
+    "italic": {
+      "codepoint": 57513,
+      "fontFamily": "Ls",
+      "identifier": "italic"
+    },
+    "j": {
+      "codepoint": 57514,
+      "fontFamily": "Ls",
+      "identifier": "j"
+    },
+    "j-upper-case": {
+      "codepoint": 57515,
+      "fontFamily": "Ls",
+      "identifier": "jUpperCase"
+    },
+    "jpa": {
+      "codepoint": 57516,
+      "fontFamily": "Ls",
+      "identifier": "jpa"
+    },
+    "k": {
+      "codepoint": 57517,
+      "fontFamily": "Ls",
+      "identifier": "k"
+    },
+    "k-upper-case": {
+      "codepoint": 57518,
+      "fontFamily": "Ls",
+      "identifier": "kUpperCase"
+    },
+    "key": {
+      "codepoint": 57519,
+      "fontFamily": "Ls",
+      "identifier": "key"
+    },
+    "keyboard": {
+      "codepoint": 57520,
+      "fontFamily": "Ls",
+      "identifier": "keyboard"
+    },
+    "kudakurage": {
+      "codepoint": 57521,
+      "fontFamily": "Ls",
+      "identifier": "kudakurage"
+    },
+    "l": {
+      "codepoint": 57522,
+      "fontFamily": "Ls",
+      "identifier": "l"
+    },
+    "l-upper-case": {
+      "codepoint": 57523,
+      "fontFamily": "Ls",
+      "identifier": "lUpperCase"
+    },
+    "laugh": {
+      "codepoint": 57524,
+      "fontFamily": "Ls",
+      "identifier": "laugh"
+    },
+    "left": {
+      "codepoint": 57525,
+      "fontFamily": "Ls",
+      "identifier": "left"
+    },
+    "light": {
+      "codepoint": 57526,
+      "fontFamily": "Ls",
+      "identifier": "light"
+    },
+    "line": {
+      "codepoint": 57527,
+      "fontFamily": "Ls",
+      "identifier": "line"
+    },
+    "link": {
+      "codepoint": 57528,
+      "fontFamily": "Ls",
+      "identifier": "link"
+    },
+    "linkedin": {
+      "codepoint": 57529,
+      "fontFamily": "Ls",
+      "identifier": "linkedin"
+    },
+    "list": {
+      "codepoint": 57530,
+      "fontFamily": "Ls",
+      "identifier": "list"
+    },
+    "location": {
+      "codepoint": 57531,
+      "fontFamily": "Ls",
+      "identifier": "location"
+    },
+    "lock": {
+      "codepoint": 57532,
+      "fontFamily": "Ls",
+      "identifier": "lock"
+    },
+    "login": {
+      "codepoint": 57533,
+      "fontFamily": "Ls",
+      "identifier": "login"
+    },
+    "logout": {
+      "codepoint": 57534,
+      "fontFamily": "Ls",
+      "identifier": "logout"
+    },
+    "ltthon": {
+      "codepoint": 57535,
+      "fontFamily": "Ls",
+      "identifier": "ltthon"
+    },
+    "m": {
+      "codepoint": 57536,
+      "fontFamily": "Ls",
+      "identifier": "m"
+    },
+    "m-upper-case": {
+      "codepoint": 57537,
+      "fontFamily": "Ls",
+      "identifier": "mUpperCase"
+    },
+    "magic": {
+      "codepoint": 57538,
+      "fontFamily": "Ls",
+      "identifier": "magic"
+    },
+    "mail": {
+      "codepoint": 57539,
+      "fontFamily": "Ls",
+      "identifier": "mail"
+    },
+    "male": {
+      "codepoint": 57540,
+      "fontFamily": "Ls",
+      "identifier": "male"
+    },
+    "map": {
+      "codepoint": 57541,
+      "fontFamily": "Ls",
+      "identifier": "map"
+    },
+    "meal": {
+      "codepoint": 57542,
+      "fontFamily": "Ls",
+      "identifier": "meal"
+    },
+    "memo": {
+      "codepoint": 57543,
+      "fontFamily": "Ls",
+      "identifier": "memo"
+    },
+    "menu": {
+      "codepoint": 57544,
+      "fontFamily": "Ls",
+      "identifier": "menu"
+    },
+    "minus": {
+      "codepoint": 57545,
+      "fontFamily": "Ls",
+      "identifier": "minus"
+    },
+    "mixi": {
+      "codepoint": 57546,
+      "fontFamily": "Ls",
+      "identifier": "mixi"
+    },
+    "mobage": {
+      "codepoint": 57547,
+      "fontFamily": "Ls",
+      "identifier": "mobage"
+    },
+    "move": {
+      "codepoint": 57548,
+      "fontFamily": "Ls",
+      "identifier": "move"
+    },
+    "music": {
+      "codepoint": 57549,
+      "fontFamily": "Ls",
+      "identifier": "music"
+    },
+    "myspace": {
+      "codepoint": 57550,
+      "fontFamily": "Ls",
+      "identifier": "myspace"
+    },
+    "n": {
+      "codepoint": 57551,
+      "fontFamily": "Ls",
+      "identifier": "n"
+    },
+    "n-upper-case": {
+      "codepoint": 57552,
+      "fontFamily": "Ls",
+      "identifier": "nUpperCase"
+    },
+    "next": {
+      "codepoint": 57553,
+      "fontFamily": "Ls",
+      "identifier": "next"
+    },
+    "notify": {
+      "codepoint": 57554,
+      "fontFamily": "Ls",
+      "identifier": "notify"
+    },
+    "numbersign": {
+      "codepoint": 57555,
+      "fontFamily": "Ls",
+      "identifier": "numbersign"
+    },
+    "o": {
+      "codepoint": 57556,
+      "fontFamily": "Ls",
+      "identifier": "o"
+    },
+    "o-upper-case": {
+      "codepoint": 57557,
+      "fontFamily": "Ls",
+      "identifier": "oUpperCase"
+    },
+    "off": {
+      "codepoint": 57558,
+      "fontFamily": "Ls",
+      "identifier": "off"
+    },
+    "opera": {
+      "codepoint": 57559,
+      "fontFamily": "Ls",
+      "identifier": "opera"
+    },
+    "ordble": {
+      "codepoint": 57560,
+      "fontFamily": "Ls",
+      "identifier": "ordble"
+    },
+    "p": {
+      "codepoint": 57561,
+      "fontFamily": "Ls",
+      "identifier": "p"
+    },
+    "p-upper-case": {
+      "codepoint": 57562,
+      "fontFamily": "Ls",
+      "identifier": "pUpperCase"
+    },
+    "paint": {
+      "codepoint": 57563,
+      "fontFamily": "Ls",
+      "identifier": "paint"
+    },
+    "palette": {
+      "codepoint": 57564,
+      "fontFamily": "Ls",
+      "identifier": "palette"
+    },
+    "paperboy": {
+      "codepoint": 57565,
+      "fontFamily": "Ls",
+      "identifier": "paperboy"
+    },
+    "paramater": {
+      "codepoint": 57566,
+      "fontFamily": "Ls",
+      "identifier": "paramater"
+    },
+    "parenleft": {
+      "codepoint": 57567,
+      "fontFamily": "Ls",
+      "identifier": "parenleft"
+    },
+    "parenright": {
+      "codepoint": 57568,
+      "fontFamily": "Ls",
+      "identifier": "parenright"
+    },
+    "pause": {
+      "codepoint": 57569,
+      "fontFamily": "Ls",
+      "identifier": "pause"
+    },
+    "pc": {
+      "codepoint": 57570,
+      "fontFamily": "Ls",
+      "identifier": "pc"
+    },
+    "pencil": {
+      "codepoint": 57571,
+      "fontFamily": "Ls",
+      "identifier": "pencil"
+    },
+    "percent": {
+      "codepoint": 57572,
+      "fontFamily": "Ls",
+      "identifier": "percent"
+    },
+    "period": {
+      "codepoint": 57573,
+      "fontFamily": "Ls",
+      "identifier": "period"
+    },
+    "periodcentered": {
+      "codepoint": 57574,
+      "fontFamily": "Ls",
+      "identifier": "periodcentered"
+    },
+    "phone": {
+      "codepoint": 57575,
+      "fontFamily": "Ls",
+      "identifier": "phone"
+    },
+    "photo": {
+      "codepoint": 57576,
+      "fontFamily": "Ls",
+      "identifier": "photo"
+    },
+    "picasa": {
+      "codepoint": 57577,
+      "fontFamily": "Ls",
+      "identifier": "picasa"
+    },
+    "pin": {
+      "codepoint": 57578,
+      "fontFamily": "Ls",
+      "identifier": "pin"
+    },
+    "pinterest": {
+      "codepoint": 57579,
+      "fontFamily": "Ls",
+      "identifier": "pinterest"
+    },
+    "plane": {
+      "codepoint": 57580,
+      "fontFamily": "Ls",
+      "identifier": "plane"
+    },
+    "play": {
+      "codepoint": 57581,
+      "fontFamily": "Ls",
+      "identifier": "play"
+    },
+    "playmedia": {
+      "codepoint": 57582,
+      "fontFamily": "Ls",
+      "identifier": "playmedia"
+    },
+    "plus": {
+      "codepoint": 57583,
+      "fontFamily": "Ls",
+      "identifier": "plus"
+    },
+    "pointer": {
+      "codepoint": 57584,
+      "fontFamily": "Ls",
+      "identifier": "pointer"
+    },
+    "present": {
+      "codepoint": 57585,
+      "fontFamily": "Ls",
+      "identifier": "present"
+    },
+    "print": {
+      "codepoint": 57586,
+      "fontFamily": "Ls",
+      "identifier": "print"
+    },
+    "q": {
+      "codepoint": 57587,
+      "fontFamily": "Ls",
+      "identifier": "q"
+    },
+    "q-upper-case": {
+      "codepoint": 57588,
+      "fontFamily": "Ls",
+      "identifier": "qUpperCase"
+    },
+    "question": {
+      "codepoint": 57589,
+      "fontFamily": "Ls",
+      "identifier": "question"
+    },
+    "quote": {
+      "codepoint": 57590,
+      "fontFamily": "Ls",
+      "identifier": "quote"
+    },
+    "quotedbl": {
+      "codepoint": 57591,
+      "fontFamily": "Ls",
+      "identifier": "quotedbl"
+    },
+    "quotesingle": {
+      "codepoint": 57592,
+      "fontFamily": "Ls",
+      "identifier": "quotesingle"
+    },
+    "r": {
+      "codepoint": 57593,
+      "fontFamily": "Ls",
+      "identifier": "r"
+    },
+    "r-upper-case": {
+      "codepoint": 57594,
+      "fontFamily": "Ls",
+      "identifier": "rUpperCase"
+    },
+    "readability": {
+      "codepoint": 57595,
+      "fontFamily": "Ls",
+      "identifier": "readability"
+    },
+    "record": {
+      "codepoint": 57596,
+      "fontFamily": "Ls",
+      "identifier": "record"
+    },
+    "refresh": {
+      "codepoint": 57597,
+      "fontFamily": "Ls",
+      "identifier": "refresh"
+    },
+    "refreshbutton": {
+      "codepoint": 57598,
+      "fontFamily": "Ls",
+      "identifier": "refreshbutton"
+    },
+    "remove": {
+      "codepoint": 57599,
+      "fontFamily": "Ls",
+      "identifier": "remove"
+    },
+    "repeat": {
+      "codepoint": 57600,
+      "fontFamily": "Ls",
+      "identifier": "repeat"
+    },
+    "reply": {
+      "codepoint": 57601,
+      "fontFamily": "Ls",
+      "identifier": "reply"
+    },
+    "right": {
+      "codepoint": 57602,
+      "fontFamily": "Ls",
+      "identifier": "right"
+    },
+    "rss": {
+      "codepoint": 57603,
+      "fontFamily": "Ls",
+      "identifier": "rss"
+    },
+    "s": {
+      "codepoint": 57604,
+      "fontFamily": "Ls",
+      "identifier": "s"
+    },
+    "s-upper-case": {
+      "codepoint": 57605,
+      "fontFamily": "Ls",
+      "identifier": "sUpperCase"
+    },
+    "safari": {
+      "codepoint": 57606,
+      "fontFamily": "Ls",
+      "identifier": "safari"
+    },
+    "save": {
+      "codepoint": 57607,
+      "fontFamily": "Ls",
+      "identifier": "save"
+    },
+    "search": {
+      "codepoint": 57608,
+      "fontFamily": "Ls",
+      "identifier": "search"
+    },
+    "semicolon": {
+      "codepoint": 57609,
+      "fontFamily": "Ls",
+      "identifier": "semicolon"
+    },
+    "sepia": {
+      "codepoint": 57610,
+      "fontFamily": "Ls",
+      "identifier": "sepia"
+    },
+    "server": {
+      "codepoint": 57611,
+      "fontFamily": "Ls",
+      "identifier": "server"
+    },
+    "share": {
+      "codepoint": 57612,
+      "fontFamily": "Ls",
+      "identifier": "share"
+    },
+    "shopping": {
+      "codepoint": 57613,
+      "fontFamily": "Ls",
+      "identifier": "shopping"
+    },
+    "shuffle": {
+      "codepoint": 57614,
+      "fontFamily": "Ls",
+      "identifier": "shuffle"
+    },
+    "sitemap": {
+      "codepoint": 57615,
+      "fontFamily": "Ls",
+      "identifier": "sitemap"
+    },
+    "skype": {
+      "codepoint": 57616,
+      "fontFamily": "Ls",
+      "identifier": "skype"
+    },
+    "slash": {
+      "codepoint": 57617,
+      "fontFamily": "Ls",
+      "identifier": "slash"
+    },
+    "sleipnir": {
+      "codepoint": 57618,
+      "fontFamily": "Ls",
+      "identifier": "sleipnir"
+    },
+    "slideshare": {
+      "codepoint": 57619,
+      "fontFamily": "Ls",
+      "identifier": "slideshare"
+    },
+    "small": {
+      "codepoint": 57620,
+      "fontFamily": "Ls",
+      "identifier": "small"
+    },
+    "smile": {
+      "codepoint": 57621,
+      "fontFamily": "Ls",
+      "identifier": "smile"
+    },
+    "sns": {
+      "codepoint": 57622,
+      "fontFamily": "Ls",
+      "identifier": "sns"
+    },
+    "sort": {
+      "codepoint": 57623,
+      "fontFamily": "Ls",
+      "identifier": "sort"
+    },
+    "soundcloud": {
+      "codepoint": 57624,
+      "fontFamily": "Ls",
+      "identifier": "soundcloud"
+    },
+    "spa": {
+      "codepoint": 57625,
+      "fontFamily": "Ls",
+      "identifier": "spa"
+    },
+    "sqale": {
+      "codepoint": 57626,
+      "fontFamily": "Ls",
+      "identifier": "sqale"
+    },
+    "star": {
+      "codepoint": 57627,
+      "fontFamily": "Ls",
+      "identifier": "star"
+    },
+    "starempty": {
+      "codepoint": 57628,
+      "fontFamily": "Ls",
+      "identifier": "starempty"
+    },
+    "stop": {
+      "codepoint": 57629,
+      "fontFamily": "Ls",
+      "identifier": "stop"
+    },
+    "strike": {
+      "codepoint": 57630,
+      "fontFamily": "Ls",
+      "identifier": "strike"
+    },
+    "surprise": {
+      "codepoint": 57631,
+      "fontFamily": "Ls",
+      "identifier": "surprise"
+    },
+    "sync": {
+      "codepoint": 57632,
+      "fontFamily": "Ls",
+      "identifier": "sync_"
+    },
+    "t": {
+      "codepoint": 57633,
+      "fontFamily": "Ls",
+      "identifier": "t"
+    },
+    "t-upper-case": {
+      "codepoint": 57634,
+      "fontFamily": "Ls",
+      "identifier": "tUpperCase"
+    },
+    "tabezou": {
+      "codepoint": 57635,
+      "fontFamily": "Ls",
+      "identifier": "tabezou"
+    },
+    "table": {
+      "codepoint": 57636,
+      "fontFamily": "Ls",
+      "identifier": "table"
+    },
+    "tabs": {
+      "codepoint": 57637,
+      "fontFamily": "Ls",
+      "identifier": "tabs"
+    },
+    "tag": {
+      "codepoint": 57638,
+      "fontFamily": "Ls",
+      "identifier": "tag"
+    },
+    "terminal": {
+      "codepoint": 57639,
+      "fontFamily": "Ls",
+      "identifier": "terminal"
+    },
+    "tile": {
+      "codepoint": 57640,
+      "fontFamily": "Ls",
+      "identifier": "tile"
+    },
+    "tilemenu": {
+      "codepoint": 57641,
+      "fontFamily": "Ls",
+      "identifier": "tilemenu"
+    },
+    "time": {
+      "codepoint": 57642,
+      "fontFamily": "Ls",
+      "identifier": "time"
+    },
+    "trash": {
+      "codepoint": 57643,
+      "fontFamily": "Ls",
+      "identifier": "trash"
+    },
+    "trouble": {
+      "codepoint": 57644,
+      "fontFamily": "Ls",
+      "identifier": "trouble"
+    },
+    "tumblr": {
+      "codepoint": 57645,
+      "fontFamily": "Ls",
+      "identifier": "tumblr"
+    },
+    "twitter": {
+      "codepoint": 57646,
+      "fontFamily": "Ls",
+      "identifier": "twitter"
+    },
+    "u": {
+      "codepoint": 57647,
+      "fontFamily": "Ls",
+      "identifier": "u"
+    },
+    "u-upper-case": {
+      "codepoint": 57648,
+      "fontFamily": "Ls",
+      "identifier": "uUpperCase"
+    },
+    "ubuntu": {
+      "codepoint": 57649,
+      "fontFamily": "Ls",
+      "identifier": "ubuntu"
+    },
+    "umbrella": {
+      "codepoint": 57650,
+      "fontFamily": "Ls",
+      "identifier": "umbrella"
+    },
+    "underline": {
+      "codepoint": 57651,
+      "fontFamily": "Ls",
+      "identifier": "underline"
+    },
+    "underscore": {
+      "codepoint": 57652,
+      "fontFamily": "Ls",
+      "identifier": "underscore"
+    },
+    "undo": {
+      "codepoint": 57653,
+      "fontFamily": "Ls",
+      "identifier": "undo"
+    },
+    "unlock": {
+      "codepoint": 57654,
+      "fontFamily": "Ls",
+      "identifier": "unlock"
+    },
+    "up": {
+      "codepoint": 57655,
+      "fontFamily": "Ls",
+      "identifier": "up"
+    },
+    "upload": {
+      "codepoint": 57656,
+      "fontFamily": "Ls",
+      "identifier": "upload"
+    },
+    "user": {
+      "codepoint": 57657,
+      "fontFamily": "Ls",
+      "identifier": "user"
+    },
+    "ustream": {
+      "codepoint": 57658,
+      "fontFamily": "Ls",
+      "identifier": "ustream"
+    },
+    "v": {
+      "codepoint": 57659,
+      "fontFamily": "Ls",
+      "identifier": "v"
+    },
+    "v-upper-case": {
+      "codepoint": 57660,
+      "fontFamily": "Ls",
+      "identifier": "vUpperCase"
+    },
+    "vertical": {
+      "codepoint": 57661,
+      "fontFamily": "Ls",
+      "identifier": "vertical"
+    },
+    "video": {
+      "codepoint": 57662,
+      "fontFamily": "Ls",
+      "identifier": "video"
+    },
+    "view": {
+      "codepoint": 57663,
+      "fontFamily": "Ls",
+      "identifier": "view"
+    },
+    "vimeo": {
+      "codepoint": 57664,
+      "fontFamily": "Ls",
+      "identifier": "vimeo"
+    },
+    "vk": {
+      "codepoint": 57665,
+      "fontFamily": "Ls",
+      "identifier": "vk"
+    },
+    "volume": {
+      "codepoint": 57666,
+      "fontFamily": "Ls",
+      "identifier": "volume"
+    },
+    "volumedown": {
+      "codepoint": 57667,
+      "fontFamily": "Ls",
+      "identifier": "volumedown"
+    },
+    "volumeup": {
+      "codepoint": 57668,
+      "fontFamily": "Ls",
+      "identifier": "volumeup"
+    },
+    "w": {
+      "codepoint": 57669,
+      "fontFamily": "Ls",
+      "identifier": "w"
+    },
+    "w-upper-case": {
+      "codepoint": 57670,
+      "fontFamily": "Ls",
+      "identifier": "wUpperCase"
+    },
+    "walking": {
+      "codepoint": 57671,
+      "fontFamily": "Ls",
+      "identifier": "walking"
+    },
+    "web": {
+      "codepoint": 57672,
+      "fontFamily": "Ls",
+      "identifier": "web"
+    },
+    "wifi": {
+      "codepoint": 57673,
+      "fontFamily": "Ls",
+      "identifier": "wifi"
+    },
+    "windows": {
+      "codepoint": 57674,
+      "fontFamily": "Ls",
+      "identifier": "windows"
+    },
+    "wink": {
+      "codepoint": 57675,
+      "fontFamily": "Ls",
+      "identifier": "wink"
+    },
+    "wordpress": {
+      "codepoint": 57676,
+      "fontFamily": "Ls",
+      "identifier": "wordpress"
+    },
+    "wrench": {
+      "codepoint": 57677,
+      "fontFamily": "Ls",
+      "identifier": "wrench"
+    },
+    "x": {
+      "codepoint": 57678,
+      "fontFamily": "Ls",
+      "identifier": "x"
+    },
+    "x-upper-case": {
+      "codepoint": 57679,
+      "fontFamily": "Ls",
+      "identifier": "xUpperCase"
+    },
+    "y": {
+      "codepoint": 57680,
+      "fontFamily": "Ls",
+      "identifier": "y"
+    },
+    "y-upper-case": {
+      "codepoint": 57681,
+      "fontFamily": "Ls",
+      "identifier": "yUpperCase"
+    },
+    "yahoo": {
+      "codepoint": 57682,
+      "fontFamily": "Ls",
+      "identifier": "yahoo"
+    },
+    "yapcasia": {
+      "codepoint": 57683,
+      "fontFamily": "Ls",
+      "identifier": "yapcasia"
+    },
+    "yapcasialogo": {
+      "codepoint": 57684,
+      "fontFamily": "Ls",
+      "identifier": "yapcasialogo"
+    },
+    "yapcasialogomark": {
+      "codepoint": 57685,
+      "fontFamily": "Ls",
+      "identifier": "yapcasialogomark"
+    },
+    "yelp": {
+      "codepoint": 57686,
+      "fontFamily": "Ls",
+      "identifier": "yelp"
+    },
+    "youtube": {
+      "codepoint": 57687,
+      "fontFamily": "Ls",
+      "identifier": "youtube"
+    },
+    "z": {
+      "codepoint": 57688,
+      "fontFamily": "Ls",
+      "identifier": "z"
+    },
+    "z-upper-case": {
+      "codepoint": 57689,
+      "fontFamily": "Ls",
+      "identifier": "zUpperCase"
+    },
+    "zoomin": {
+      "codepoint": 57690,
+      "fontFamily": "Ls",
+      "identifier": "zoomin"
+    },
+    "zoomout": {
+      "codepoint": 57691,
+      "fontFamily": "Ls",
+      "identifier": "zoomout"
+    }
+  }
+}

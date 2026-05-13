@@ -1,0 +1,1674 @@
+{
+  "schemaVersion": 1,
+  "prefix": "flat-color-icons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Archive / Unmaintained",
+  "subPackage": "iconifyx_flat_color_icons",
+  "info": {
+    "name": "Flat Color Icons",
+    "author": {
+      "name": "Icons8",
+      "url": "https://github.com/icons8/flat-Color-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    },
+    "total": 329
+  },
+  "fonts": [
+    {
+      "family": "FlatColorIcons",
+      "nextCodepoint": 57673,
+      "iconCount": 329
+    }
+  ],
+  "icons": {
+    "about": {
+      "codepoint": 57344,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "about"
+    },
+    "accept-database": {
+      "codepoint": 57345,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "acceptDatabase"
+    },
+    "add-column": {
+      "codepoint": 57346,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "addColumn"
+    },
+    "add-database": {
+      "codepoint": 57347,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "addDatabase"
+    },
+    "add-image": {
+      "codepoint": 57348,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "addImage"
+    },
+    "add-row": {
+      "codepoint": 57349,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "addRow"
+    },
+    "address-book": {
+      "codepoint": 57350,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "addressBook"
+    },
+    "advance": {
+      "codepoint": 57351,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "advance"
+    },
+    "advertising": {
+      "codepoint": 57352,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "advertising"
+    },
+    "alarm-clock": {
+      "codepoint": 57353,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "alarmClock"
+    },
+    "alphabetical-sorting-az": {
+      "codepoint": 57354,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "alphabeticalSortingAz"
+    },
+    "alphabetical-sorting-za": {
+      "codepoint": 57355,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "alphabeticalSortingZa"
+    },
+    "android-os": {
+      "codepoint": 57356,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "androidOs"
+    },
+    "answers": {
+      "codepoint": 57357,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "answers"
+    },
+    "approval": {
+      "codepoint": 57358,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "approval"
+    },
+    "approve": {
+      "codepoint": 57359,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "approve"
+    },
+    "area-chart": {
+      "codepoint": 57360,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "areaChart"
+    },
+    "assistant": {
+      "codepoint": 57361,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "assistant"
+    },
+    "audio-file": {
+      "codepoint": 57362,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "audioFile"
+    },
+    "automatic": {
+      "codepoint": 57363,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "automatic"
+    },
+    "automotive": {
+      "codepoint": 57364,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "automotive"
+    },
+    "bad-decision": {
+      "codepoint": 57365,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "badDecision"
+    },
+    "bar-chart": {
+      "codepoint": 57366,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "barChart"
+    },
+    "bbc": {
+      "codepoint": 57367,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "bbc"
+    },
+    "bearish": {
+      "codepoint": 57368,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "bearish"
+    },
+    "binoculars": {
+      "codepoint": 57369,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "binoculars"
+    },
+    "biohazard": {
+      "codepoint": 57370,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "biohazard"
+    },
+    "biomass": {
+      "codepoint": 57371,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "biomass"
+    },
+    "biotech": {
+      "codepoint": 57372,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "biotech"
+    },
+    "bookmark": {
+      "codepoint": 57373,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "bookmark"
+    },
+    "briefcase": {
+      "codepoint": 57374,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "briefcase"
+    },
+    "broken-link": {
+      "codepoint": 57375,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "brokenLink"
+    },
+    "bullish": {
+      "codepoint": 57376,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "bullish"
+    },
+    "business": {
+      "codepoint": 57377,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "business"
+    },
+    "business-contact": {
+      "codepoint": 57378,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "businessContact"
+    },
+    "businessman": {
+      "codepoint": 57379,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "businessman"
+    },
+    "businesswoman": {
+      "codepoint": 57380,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "businesswoman"
+    },
+    "butting-in": {
+      "codepoint": 57381,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "buttingIn"
+    },
+    "cable-release": {
+      "codepoint": 57382,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "cableRelease"
+    },
+    "calculator": {
+      "codepoint": 57383,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "calculator"
+    },
+    "calendar": {
+      "codepoint": 57384,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "calendar"
+    },
+    "call-transfer": {
+      "codepoint": 57385,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "callTransfer"
+    },
+    "callback": {
+      "codepoint": 57386,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "callback"
+    },
+    "camcorder": {
+      "codepoint": 57387,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "camcorder"
+    },
+    "camcorder-pro": {
+      "codepoint": 57388,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "camcorderPro"
+    },
+    "camera": {
+      "codepoint": 57389,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "camera"
+    },
+    "camera-addon": {
+      "codepoint": 57390,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "cameraAddon"
+    },
+    "camera-identification": {
+      "codepoint": 57391,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "cameraIdentification"
+    },
+    "cancel": {
+      "codepoint": 57392,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "cancel"
+    },
+    "candle-sticks": {
+      "codepoint": 57393,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "candleSticks"
+    },
+    "capacitor": {
+      "codepoint": 57394,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "capacitor"
+    },
+    "cd-logo": {
+      "codepoint": 57395,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "cdLogo"
+    },
+    "cell-phone": {
+      "codepoint": 57396,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "cellPhone"
+    },
+    "charge-battery": {
+      "codepoint": 57397,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "chargeBattery"
+    },
+    "checkmark": {
+      "codepoint": 57398,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "checkmark"
+    },
+    "circuit": {
+      "codepoint": 57399,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "circuit"
+    },
+    "clapperboard": {
+      "codepoint": 57400,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "clapperboard"
+    },
+    "clear-filters": {
+      "codepoint": 57401,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "clearFilters"
+    },
+    "clock": {
+      "codepoint": 57402,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "clock"
+    },
+    "close-up-mode": {
+      "codepoint": 57403,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "closeUpMode"
+    },
+    "cloth": {
+      "codepoint": 57404,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "cloth"
+    },
+    "collaboration": {
+      "codepoint": 57405,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "collaboration"
+    },
+    "collapse": {
+      "codepoint": 57406,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "collapse"
+    },
+    "collect": {
+      "codepoint": 57407,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "collect"
+    },
+    "combo-chart": {
+      "codepoint": 57408,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "comboChart"
+    },
+    "command-line": {
+      "codepoint": 57409,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "commandLine"
+    },
+    "comments": {
+      "codepoint": 57410,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "comments"
+    },
+    "compact-camera": {
+      "codepoint": 57411,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "compactCamera"
+    },
+    "conference-call": {
+      "codepoint": 57412,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "conferenceCall"
+    },
+    "contacts": {
+      "codepoint": 57413,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "contacts"
+    },
+    "copyleft": {
+      "codepoint": 57414,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "copyleft"
+    },
+    "copyright": {
+      "codepoint": 57415,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "copyright"
+    },
+    "crystal-oscillator": {
+      "codepoint": 57416,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "crystalOscillator"
+    },
+    "currency-exchange": {
+      "codepoint": 57417,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "currencyExchange"
+    },
+    "cursor": {
+      "codepoint": 57418,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "cursor"
+    },
+    "customer-support": {
+      "codepoint": 57419,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "customerSupport"
+    },
+    "dam": {
+      "codepoint": 57420,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "dam"
+    },
+    "data-backup": {
+      "codepoint": 57421,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "dataBackup"
+    },
+    "data-configuration": {
+      "codepoint": 57422,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "dataConfiguration"
+    },
+    "data-encryption": {
+      "codepoint": 57423,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "dataEncryption"
+    },
+    "data-protection": {
+      "codepoint": 57424,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "dataProtection"
+    },
+    "data-recovery": {
+      "codepoint": 57425,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "dataRecovery"
+    },
+    "data-sheet": {
+      "codepoint": 57426,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "dataSheet"
+    },
+    "database": {
+      "codepoint": 57427,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "database"
+    },
+    "debian": {
+      "codepoint": 57428,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "debian"
+    },
+    "debt": {
+      "codepoint": 57429,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "debt"
+    },
+    "decision": {
+      "codepoint": 57430,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "decision"
+    },
+    "delete-column": {
+      "codepoint": 57431,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "deleteColumn"
+    },
+    "delete-database": {
+      "codepoint": 57432,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "deleteDatabase"
+    },
+    "delete-row": {
+      "codepoint": 57433,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "deleteRow"
+    },
+    "department": {
+      "codepoint": 57434,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "department"
+    },
+    "deployment": {
+      "codepoint": 57435,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "deployment"
+    },
+    "diploma-1": {
+      "codepoint": 57436,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "diploma1"
+    },
+    "diploma-2": {
+      "codepoint": 57437,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "diploma2"
+    },
+    "disapprove": {
+      "codepoint": 57438,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "disapprove"
+    },
+    "disclaimer": {
+      "codepoint": 57439,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "disclaimer"
+    },
+    "dislike": {
+      "codepoint": 57440,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "dislike"
+    },
+    "display": {
+      "codepoint": 57441,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "display"
+    },
+    "do-not-inhale": {
+      "codepoint": 57442,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "doNotInhale"
+    },
+    "do-not-insert": {
+      "codepoint": 57443,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "doNotInsert"
+    },
+    "do-not-mix": {
+      "codepoint": 57444,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "doNotMix"
+    },
+    "document": {
+      "codepoint": 57445,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "document"
+    },
+    "donate": {
+      "codepoint": 57446,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "donate"
+    },
+    "doughnut-chart": {
+      "codepoint": 57447,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "doughnutChart"
+    },
+    "down": {
+      "codepoint": 57448,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "down"
+    },
+    "down-left": {
+      "codepoint": 57449,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "downLeft"
+    },
+    "down-right": {
+      "codepoint": 57450,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "downRight"
+    },
+    "download": {
+      "codepoint": 57451,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "download"
+    },
+    "dribbble": {
+      "codepoint": 57452,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "dribbble"
+    },
+    "dvd-logo": {
+      "codepoint": 57453,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "dvdLogo"
+    },
+    "edit-image": {
+      "codepoint": 57454,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "editImage"
+    },
+    "electrical-sensor": {
+      "codepoint": 57455,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "electricalSensor"
+    },
+    "electrical-threshold": {
+      "codepoint": 57456,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "electricalThreshold"
+    },
+    "electricity": {
+      "codepoint": 57457,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "electricity"
+    },
+    "electro-devices": {
+      "codepoint": 57458,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "electroDevices"
+    },
+    "electronics": {
+      "codepoint": 57459,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "electronics"
+    },
+    "empty-battery": {
+      "codepoint": 57460,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "emptyBattery"
+    },
+    "empty-filter": {
+      "codepoint": 57461,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "emptyFilter"
+    },
+    "empty-trash": {
+      "codepoint": 57462,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "emptyTrash"
+    },
+    "end-call": {
+      "codepoint": 57463,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "endCall"
+    },
+    "engineering": {
+      "codepoint": 57464,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "engineering"
+    },
+    "entering-heaven-alive": {
+      "codepoint": 57465,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "enteringHeavenAlive"
+    },
+    "expand": {
+      "codepoint": 57466,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "expand"
+    },
+    "expired": {
+      "codepoint": 57467,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "expired"
+    },
+    "export": {
+      "codepoint": 57468,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "export_"
+    },
+    "external": {
+      "codepoint": 57469,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "external_"
+    },
+    "factory": {
+      "codepoint": 57470,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "factory_"
+    },
+    "factory-breakdown": {
+      "codepoint": 57471,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "factoryBreakdown"
+    },
+    "faq": {
+      "codepoint": 57472,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "faq"
+    },
+    "feed-in": {
+      "codepoint": 57473,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "feedIn"
+    },
+    "feedback": {
+      "codepoint": 57474,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "feedback"
+    },
+    "file": {
+      "codepoint": 57475,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "file"
+    },
+    "filing-cabinet": {
+      "codepoint": 57476,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "filingCabinet"
+    },
+    "filled-filter": {
+      "codepoint": 57477,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "filledFilter"
+    },
+    "film": {
+      "codepoint": 57478,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "film"
+    },
+    "film-reel": {
+      "codepoint": 57479,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "filmReel"
+    },
+    "fine-print": {
+      "codepoint": 57480,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "finePrint"
+    },
+    "flash-auto": {
+      "codepoint": 57481,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "flashAuto"
+    },
+    "flash-off": {
+      "codepoint": 57482,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "flashOff"
+    },
+    "flash-on": {
+      "codepoint": 57483,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "flashOn"
+    },
+    "flow-chart": {
+      "codepoint": 57484,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "flowChart"
+    },
+    "folder": {
+      "codepoint": 57485,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "folder"
+    },
+    "frame": {
+      "codepoint": 57486,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "frame"
+    },
+    "full-battery": {
+      "codepoint": 57487,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "fullBattery"
+    },
+    "full-trash": {
+      "codepoint": 57488,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "fullTrash"
+    },
+    "gallery": {
+      "codepoint": 57489,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "gallery"
+    },
+    "genealogy": {
+      "codepoint": 57490,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "genealogy"
+    },
+    "generic-sorting-asc": {
+      "codepoint": 57491,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "genericSortingAsc"
+    },
+    "generic-sorting-desc": {
+      "codepoint": 57492,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "genericSortingDesc"
+    },
+    "globe": {
+      "codepoint": 57493,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "globe"
+    },
+    "good-decision": {
+      "codepoint": 57494,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "goodDecision"
+    },
+    "google": {
+      "codepoint": 57495,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "google"
+    },
+    "graduation-cap": {
+      "codepoint": 57496,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "graduationCap"
+    },
+    "grid": {
+      "codepoint": 57497,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "grid"
+    },
+    "headset": {
+      "codepoint": 57498,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "headset"
+    },
+    "heat-map": {
+      "codepoint": 57499,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "heatMap"
+    },
+    "high-battery": {
+      "codepoint": 57500,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "highBattery"
+    },
+    "high-priority": {
+      "codepoint": 57501,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "highPriority"
+    },
+    "home": {
+      "codepoint": 57502,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "home"
+    },
+    "icons8-cup": {
+      "codepoint": 57503,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "icons8Cup"
+    },
+    "idea": {
+      "codepoint": 57504,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "idea"
+    },
+    "image-file": {
+      "codepoint": 57505,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "imageFile"
+    },
+    "import": {
+      "codepoint": 57506,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "import_"
+    },
+    "in-transit": {
+      "codepoint": 57507,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "inTransit"
+    },
+    "info": {
+      "codepoint": 57508,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "info"
+    },
+    "inspection": {
+      "codepoint": 57509,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "inspection"
+    },
+    "integrated-webcam": {
+      "codepoint": 57510,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "integratedWebcam"
+    },
+    "internal": {
+      "codepoint": 57511,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "internal"
+    },
+    "invite": {
+      "codepoint": 57512,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "invite"
+    },
+    "ipad": {
+      "codepoint": 57513,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "ipad"
+    },
+    "iphone": {
+      "codepoint": 57514,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "iphone"
+    },
+    "key": {
+      "codepoint": 57515,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "key"
+    },
+    "kindle": {
+      "codepoint": 57516,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "kindle"
+    },
+    "landscape": {
+      "codepoint": 57517,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "landscape"
+    },
+    "leave": {
+      "codepoint": 57518,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "leave"
+    },
+    "left": {
+      "codepoint": 57519,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "left"
+    },
+    "left-down": {
+      "codepoint": 57520,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "leftDown"
+    },
+    "left-down2": {
+      "codepoint": 57521,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "leftDown2"
+    },
+    "left-up": {
+      "codepoint": 57522,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "leftUp"
+    },
+    "left-up2": {
+      "codepoint": 57523,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "leftUp2"
+    },
+    "library": {
+      "codepoint": 57524,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "library_"
+    },
+    "light-at-the-end-of-tunnel": {
+      "codepoint": 57525,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "lightAtTheEndOfTunnel"
+    },
+    "like": {
+      "codepoint": 57526,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "like"
+    },
+    "like-placeholder": {
+      "codepoint": 57527,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "likePlaceholder"
+    },
+    "line-chart": {
+      "codepoint": 57528,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "lineChart"
+    },
+    "link": {
+      "codepoint": 57529,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "link"
+    },
+    "linux": {
+      "codepoint": 57530,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "linux"
+    },
+    "list": {
+      "codepoint": 57531,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "list"
+    },
+    "lock": {
+      "codepoint": 57532,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "lock"
+    },
+    "lock-landscape": {
+      "codepoint": 57533,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "lockLandscape"
+    },
+    "lock-portrait": {
+      "codepoint": 57534,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "lockPortrait"
+    },
+    "low-battery": {
+      "codepoint": 57535,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "lowBattery"
+    },
+    "low-priority": {
+      "codepoint": 57536,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "lowPriority"
+    },
+    "make-decision": {
+      "codepoint": 57537,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "makeDecision"
+    },
+    "manager": {
+      "codepoint": 57538,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "manager"
+    },
+    "medium-priority": {
+      "codepoint": 57539,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "mediumPriority"
+    },
+    "menu": {
+      "codepoint": 57540,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "menu"
+    },
+    "middle-battery": {
+      "codepoint": 57541,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "middleBattery"
+    },
+    "mind-map": {
+      "codepoint": 57542,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "mindMap"
+    },
+    "minus": {
+      "codepoint": 57543,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "minus"
+    },
+    "missed-call": {
+      "codepoint": 57544,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "missedCall"
+    },
+    "mms": {
+      "codepoint": 57545,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "mms"
+    },
+    "money-transfer": {
+      "codepoint": 57546,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "moneyTransfer"
+    },
+    "multiple-cameras": {
+      "codepoint": 57547,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "multipleCameras"
+    },
+    "multiple-devices": {
+      "codepoint": 57548,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "multipleDevices"
+    },
+    "multiple-inputs": {
+      "codepoint": 57549,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "multipleInputs"
+    },
+    "multiple-smartphones": {
+      "codepoint": 57550,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "multipleSmartphones"
+    },
+    "music": {
+      "codepoint": 57551,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "music"
+    },
+    "negative-dynamic": {
+      "codepoint": 57552,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "negativeDynamic"
+    },
+    "neutral-decision": {
+      "codepoint": 57553,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "neutralDecision"
+    },
+    "neutral-trading": {
+      "codepoint": 57554,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "neutralTrading"
+    },
+    "news": {
+      "codepoint": 57555,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "news"
+    },
+    "next": {
+      "codepoint": 57556,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "next"
+    },
+    "nfc-sign": {
+      "codepoint": 57557,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "nfcSign"
+    },
+    "night-landscape": {
+      "codepoint": 57558,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "nightLandscape"
+    },
+    "night-portrait": {
+      "codepoint": 57559,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "nightPortrait"
+    },
+    "no-idea": {
+      "codepoint": 57560,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "noIdea"
+    },
+    "no-video": {
+      "codepoint": 57561,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "noVideo"
+    },
+    "nook": {
+      "codepoint": 57562,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "nook"
+    },
+    "numerical-sorting-12": {
+      "codepoint": 57563,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "numericalSorting12"
+    },
+    "numerical-sorting-21": {
+      "codepoint": 57564,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "numericalSorting21"
+    },
+    "ok": {
+      "codepoint": 57565,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "ok"
+    },
+    "old-time-camera": {
+      "codepoint": 57566,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "oldTimeCamera"
+    },
+    "online-support": {
+      "codepoint": 57567,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "onlineSupport"
+    },
+    "opened-folder": {
+      "codepoint": 57568,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "openedFolder"
+    },
+    "org-unit": {
+      "codepoint": 57569,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "orgUnit"
+    },
+    "organization": {
+      "codepoint": 57570,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "organization"
+    },
+    "overtime": {
+      "codepoint": 57571,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "overtime"
+    },
+    "package": {
+      "codepoint": 57572,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "package"
+    },
+    "paid": {
+      "codepoint": 57573,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "paid"
+    },
+    "panorama": {
+      "codepoint": 57574,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "panorama"
+    },
+    "parallel-tasks": {
+      "codepoint": 57575,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "parallelTasks"
+    },
+    "phone": {
+      "codepoint": 57576,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "phone"
+    },
+    "phone-android": {
+      "codepoint": 57577,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "phoneAndroid"
+    },
+    "photo-reel": {
+      "codepoint": 57578,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "photoReel"
+    },
+    "picture": {
+      "codepoint": 57579,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "picture"
+    },
+    "pie-chart": {
+      "codepoint": 57580,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "pieChart"
+    },
+    "planner": {
+      "codepoint": 57581,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "planner"
+    },
+    "plus": {
+      "codepoint": 57582,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "plus"
+    },
+    "podium-with-audience": {
+      "codepoint": 57583,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "podiumWithAudience"
+    },
+    "podium-with-speaker": {
+      "codepoint": 57584,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "podiumWithSpeaker"
+    },
+    "podium-without-speaker": {
+      "codepoint": 57585,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "podiumWithoutSpeaker"
+    },
+    "portrait-mode": {
+      "codepoint": 57586,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "portraitMode"
+    },
+    "positive-dynamic": {
+      "codepoint": 57587,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "positiveDynamic"
+    },
+    "previous": {
+      "codepoint": 57588,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "previous"
+    },
+    "print": {
+      "codepoint": 57589,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "print"
+    },
+    "privacy": {
+      "codepoint": 57590,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "privacy"
+    },
+    "process": {
+      "codepoint": 57591,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "process"
+    },
+    "puzzle": {
+      "codepoint": 57592,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "puzzle"
+    },
+    "questions": {
+      "codepoint": 57593,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "questions"
+    },
+    "radar-plot": {
+      "codepoint": 57594,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "radarPlot"
+    },
+    "rating": {
+      "codepoint": 57595,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "rating"
+    },
+    "ratings": {
+      "codepoint": 57596,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "ratings"
+    },
+    "reading": {
+      "codepoint": 57597,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "reading"
+    },
+    "reading-ebook": {
+      "codepoint": 57598,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "readingEbook"
+    },
+    "reddit": {
+      "codepoint": 57599,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "reddit"
+    },
+    "redo": {
+      "codepoint": 57600,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "redo"
+    },
+    "refresh": {
+      "codepoint": 57601,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "refresh"
+    },
+    "registered-trademark": {
+      "codepoint": 57602,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "registeredTrademark"
+    },
+    "remove-image": {
+      "codepoint": 57603,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "removeImage"
+    },
+    "reuse": {
+      "codepoint": 57604,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "reuse"
+    },
+    "right": {
+      "codepoint": 57605,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "right"
+    },
+    "right-down": {
+      "codepoint": 57606,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "rightDown"
+    },
+    "right-down2": {
+      "codepoint": 57607,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "rightDown2"
+    },
+    "right-up": {
+      "codepoint": 57608,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "rightUp"
+    },
+    "right-up2": {
+      "codepoint": 57609,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "rightUp2"
+    },
+    "rotate-camera": {
+      "codepoint": 57610,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "rotateCamera"
+    },
+    "rotate-to-landscape": {
+      "codepoint": 57611,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "rotateToLandscape"
+    },
+    "rotate-to-portrait": {
+      "codepoint": 57612,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "rotateToPortrait"
+    },
+    "ruler": {
+      "codepoint": 57613,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "ruler"
+    },
+    "rules": {
+      "codepoint": 57614,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "rules"
+    },
+    "safe": {
+      "codepoint": 57615,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "safe"
+    },
+    "sales-performance": {
+      "codepoint": 57616,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "salesPerformance"
+    },
+    "scatter-plot": {
+      "codepoint": 57617,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "scatterPlot"
+    },
+    "search": {
+      "codepoint": 57618,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "search"
+    },
+    "self-service-kiosk": {
+      "codepoint": 57619,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "selfServiceKiosk"
+    },
+    "selfie": {
+      "codepoint": 57620,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "selfie"
+    },
+    "serial-tasks": {
+      "codepoint": 57621,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "serialTasks"
+    },
+    "service-mark": {
+      "codepoint": 57622,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "serviceMark"
+    },
+    "services": {
+      "codepoint": 57623,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "services"
+    },
+    "settings": {
+      "codepoint": 57624,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "settings"
+    },
+    "share": {
+      "codepoint": 57625,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "share"
+    },
+    "shipped": {
+      "codepoint": 57626,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "shipped"
+    },
+    "shop": {
+      "codepoint": 57627,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "shop"
+    },
+    "signature": {
+      "codepoint": 57628,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "signature"
+    },
+    "sim-card": {
+      "codepoint": 57629,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "simCard"
+    },
+    "sim-card-chip": {
+      "codepoint": 57630,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "simCardChip"
+    },
+    "slr-back-side": {
+      "codepoint": 57631,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "slrBackSide"
+    },
+    "smartphone-tablet": {
+      "codepoint": 57632,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "smartphoneTablet"
+    },
+    "sms": {
+      "codepoint": 57633,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "sms"
+    },
+    "sound-recording-copyright": {
+      "codepoint": 57634,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "soundRecordingCopyright"
+    },
+    "speaker": {
+      "codepoint": 57635,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "speaker"
+    },
+    "sports-mode": {
+      "codepoint": 57636,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "sportsMode"
+    },
+    "stack-of-photos": {
+      "codepoint": 57637,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "stackOfPhotos"
+    },
+    "start": {
+      "codepoint": 57638,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "start"
+    },
+    "statistics": {
+      "codepoint": 57639,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "statistics"
+    },
+    "steam": {
+      "codepoint": 57640,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "steam"
+    },
+    "stumbleupon": {
+      "codepoint": 57641,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "stumbleupon"
+    },
+    "support": {
+      "codepoint": 57642,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "support"
+    },
+    "survey": {
+      "codepoint": 57643,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "survey"
+    },
+    "switch-camera": {
+      "codepoint": 57644,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "switchCamera"
+    },
+    "synchronize": {
+      "codepoint": 57645,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "synchronize"
+    },
+    "tablet-android": {
+      "codepoint": 57646,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "tabletAndroid"
+    },
+    "template": {
+      "codepoint": 57647,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "template"
+    },
+    "timeline": {
+      "codepoint": 57648,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "timeline"
+    },
+    "todo-list": {
+      "codepoint": 57649,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "todoList"
+    },
+    "touchscreen-smartphone": {
+      "codepoint": 57650,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "touchscreenSmartphone"
+    },
+    "trademark": {
+      "codepoint": 57651,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "trademark"
+    },
+    "tree-structure": {
+      "codepoint": 57652,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "treeStructure"
+    },
+    "two-smartphones": {
+      "codepoint": 57653,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "twoSmartphones"
+    },
+    "undo": {
+      "codepoint": 57654,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "undo"
+    },
+    "unlock": {
+      "codepoint": 57655,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "unlock"
+    },
+    "up": {
+      "codepoint": 57656,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "up"
+    },
+    "up-left": {
+      "codepoint": 57657,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "upLeft"
+    },
+    "up-right": {
+      "codepoint": 57658,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "upRight"
+    },
+    "upload": {
+      "codepoint": 57659,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "upload"
+    },
+    "usb": {
+      "codepoint": 57660,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "usb"
+    },
+    "video-call": {
+      "codepoint": 57661,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "videoCall"
+    },
+    "video-file": {
+      "codepoint": 57662,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "videoFile"
+    },
+    "video-projector": {
+      "codepoint": 57663,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "videoProjector"
+    },
+    "view-details": {
+      "codepoint": 57664,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "viewDetails"
+    },
+    "vip": {
+      "codepoint": 57665,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "vip"
+    },
+    "vlc": {
+      "codepoint": 57666,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "vlc"
+    },
+    "voice-presentation": {
+      "codepoint": 57667,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "voicePresentation"
+    },
+    "voicemail": {
+      "codepoint": 57668,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "voicemail"
+    },
+    "webcam": {
+      "codepoint": 57669,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "webcam"
+    },
+    "wi-fi-logo": {
+      "codepoint": 57670,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "wiFiLogo"
+    },
+    "wikipedia": {
+      "codepoint": 57671,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "wikipedia"
+    },
+    "workflow": {
+      "codepoint": 57672,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "workflow"
+    }
+  }
+}

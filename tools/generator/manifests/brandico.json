@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "prefix": "brandico",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Logos",
+  "subPackage": "iconifyx_brandico",
+  "info": {
+    "name": "Brandico",
+    "author": {
+      "name": "Fontello",
+      "url": "https://github.com/fontello/brandico.font"
+    },
+    "license": {
+      "title": "CC BY SA",
+      "spdx": "CC-BY-SA-3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "total": 45
+  },
+  "fonts": [
+    {
+      "family": "Brandico",
+      "nextCodepoint": 57389,
+      "iconCount": 45
+    }
+  ],
+  "icons": {
+    "amex": {
+      "codepoint": 57344,
+      "fontFamily": "Brandico",
+      "identifier": "amex"
+    },
+    "bandcamp": {
+      "codepoint": 57345,
+      "fontFamily": "Brandico",
+      "identifier": "bandcamp"
+    },
+    "blogger": {
+      "codepoint": 57346,
+      "fontFamily": "Brandico",
+      "identifier": "blogger"
+    },
+    "blogger-rect": {
+      "codepoint": 57347,
+      "fontFamily": "Brandico",
+      "identifier": "bloggerRect"
+    },
+    "box": {
+      "codepoint": 57348,
+      "fontFamily": "Brandico",
+      "identifier": "box"
+    },
+    "box-rect": {
+      "codepoint": 57349,
+      "fontFamily": "Brandico",
+      "identifier": "boxRect"
+    },
+    "codepen": {
+      "codepoint": 57350,
+      "fontFamily": "Brandico",
+      "identifier": "codepen"
+    },
+    "deviantart": {
+      "codepoint": 57351,
+      "fontFamily": "Brandico",
+      "identifier": "deviantart"
+    },
+    "diigo": {
+      "codepoint": 57352,
+      "fontFamily": "Brandico",
+      "identifier": "diigo"
+    },
+    "discover": {
+      "codepoint": 57353,
+      "fontFamily": "Brandico",
+      "identifier": "discover"
+    },
+    "facebook": {
+      "codepoint": 57354,
+      "fontFamily": "Brandico",
+      "identifier": "facebook"
+    },
+    "facebook-rect": {
+      "codepoint": 57355,
+      "fontFamily": "Brandico",
+      "identifier": "facebookRect"
+    },
+    "friendfeed": {
+      "codepoint": 57356,
+      "fontFamily": "Brandico",
+      "identifier": "friendfeed"
+    },
+    "friendfeed-rect": {
+      "codepoint": 57357,
+      "fontFamily": "Brandico",
+      "identifier": "friendfeedRect"
+    },
+    "github": {
+      "codepoint": 57358,
+      "fontFamily": "Brandico",
+      "identifier": "github"
+    },
+    "github-text": {
+      "codepoint": 57359,
+      "fontFamily": "Brandico",
+      "identifier": "githubText"
+    },
+    "googleplus-rect": {
+      "codepoint": 57360,
+      "fontFamily": "Brandico",
+      "identifier": "googleplusRect"
+    },
+    "houzz": {
+      "codepoint": 57361,
+      "fontFamily": "Brandico",
+      "identifier": "houzz"
+    },
+    "icq": {
+      "codepoint": 57362,
+      "fontFamily": "Brandico",
+      "identifier": "icq"
+    },
+    "instagram": {
+      "codepoint": 57363,
+      "fontFamily": "Brandico",
+      "identifier": "instagram"
+    },
+    "instagram-filled": {
+      "codepoint": 57364,
+      "fontFamily": "Brandico",
+      "identifier": "instagramFilled"
+    },
+    "jabber": {
+      "codepoint": 57365,
+      "fontFamily": "Brandico",
+      "identifier": "jabber"
+    },
+    "lastfm": {
+      "codepoint": 57366,
+      "fontFamily": "Brandico",
+      "identifier": "lastfm"
+    },
+    "lastfm-rect": {
+      "codepoint": 57367,
+      "fontFamily": "Brandico",
+      "identifier": "lastfmRect"
+    },
+    "linkedin": {
+      "codepoint": 57368,
+      "fontFamily": "Brandico",
+      "identifier": "linkedin"
+    },
+    "linkedin-rect": {
+      "codepoint": 57369,
+      "fontFamily": "Brandico",
+      "identifier": "linkedinRect"
+    },
+    "mastercard": {
+      "codepoint": 57370,
+      "fontFamily": "Brandico",
+      "identifier": "mastercard"
+    },
+    "odnoklassniki": {
+      "codepoint": 57371,
+      "fontFamily": "Brandico",
+      "identifier": "odnoklassniki"
+    },
+    "odnoklassniki-rect": {
+      "codepoint": 57372,
+      "fontFamily": "Brandico",
+      "identifier": "odnoklassnikiRect"
+    },
+    "picasa": {
+      "codepoint": 57373,
+      "fontFamily": "Brandico",
+      "identifier": "picasa"
+    },
+    "skype": {
+      "codepoint": 57374,
+      "fontFamily": "Brandico",
+      "identifier": "skype"
+    },
+    "tudou": {
+      "codepoint": 57375,
+      "fontFamily": "Brandico",
+      "identifier": "tudou"
+    },
+    "tumblr": {
+      "codepoint": 57376,
+      "fontFamily": "Brandico",
+      "identifier": "tumblr"
+    },
+    "tumblr-rect": {
+      "codepoint": 57377,
+      "fontFamily": "Brandico",
+      "identifier": "tumblrRect"
+    },
+    "twitter": {
+      "codepoint": 57378,
+      "fontFamily": "Brandico",
+      "identifier": "twitter"
+    },
+    "twitter-bird": {
+      "codepoint": 57379,
+      "fontFamily": "Brandico",
+      "identifier": "twitterBird"
+    },
+    "vimeo": {
+      "codepoint": 57380,
+      "fontFamily": "Brandico",
+      "identifier": "vimeo"
+    },
+    "vimeo-rect": {
+      "codepoint": 57381,
+      "fontFamily": "Brandico",
+      "identifier": "vimeoRect"
+    },
+    "visa": {
+      "codepoint": 57382,
+      "fontFamily": "Brandico",
+      "identifier": "visa"
+    },
+    "vkontakte-rect": {
+      "codepoint": 57383,
+      "fontFamily": "Brandico",
+      "identifier": "vkontakteRect"
+    },
+    "win8": {
+      "codepoint": 57384,
+      "fontFamily": "Brandico",
+      "identifier": "win8"
+    },
+    "wordpress": {
+      "codepoint": 57385,
+      "fontFamily": "Brandico",
+      "identifier": "wordpress"
+    },
+    "yandex": {
+      "codepoint": 57386,
+      "fontFamily": "Brandico",
+      "identifier": "yandex"
+    },
+    "yandex-rect": {
+      "codepoint": 57387,
+      "fontFamily": "Brandico",
+      "identifier": "yandexRect"
+    },
+    "youku": {
+      "codepoint": 57388,
+      "fontFamily": "Brandico",
+      "identifier": "youku"
+    }
+  }
+}

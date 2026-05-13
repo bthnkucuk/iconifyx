@@ -1,0 +1,5150 @@
+{
+  "schemaVersion": 1,
+  "prefix": "fa-solid",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Archive / Unmaintained",
+  "subPackage": "iconifyx_fa_solid",
+  "info": {
+    "name": "Font Awesome 5 Solid",
+    "author": {
+      "name": "Dave Gandy",
+      "url": "https://github.com/FortAwesome/Font-Awesome"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 1024
+  },
+  "fonts": [
+    {
+      "family": "FaSolid",
+      "nextCodepoint": 58368,
+      "iconCount": 1024
+    }
+  ],
+  "icons": {
+    "abacus": {
+      "codepoint": 57344,
+      "fontFamily": "FaSolid",
+      "identifier": "abacus"
+    },
+    "ad": {
+      "codepoint": 57345,
+      "fontFamily": "FaSolid",
+      "identifier": "ad"
+    },
+    "address-book": {
+      "codepoint": 57346,
+      "fontFamily": "FaSolid",
+      "identifier": "addressBook"
+    },
+    "address-card": {
+      "codepoint": 57347,
+      "fontFamily": "FaSolid",
+      "identifier": "addressCard"
+    },
+    "adjust": {
+      "codepoint": 57348,
+      "fontFamily": "FaSolid",
+      "identifier": "adjust"
+    },
+    "air-freshener": {
+      "codepoint": 57349,
+      "fontFamily": "FaSolid",
+      "identifier": "airFreshener"
+    },
+    "align-center": {
+      "codepoint": 57350,
+      "fontFamily": "FaSolid",
+      "identifier": "alignCenter"
+    },
+    "align-justify": {
+      "codepoint": 57351,
+      "fontFamily": "FaSolid",
+      "identifier": "alignJustify"
+    },
+    "align-left": {
+      "codepoint": 57352,
+      "fontFamily": "FaSolid",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57353,
+      "fontFamily": "FaSolid",
+      "identifier": "alignRight"
+    },
+    "allergies": {
+      "codepoint": 57354,
+      "fontFamily": "FaSolid",
+      "identifier": "allergies"
+    },
+    "ambulance": {
+      "codepoint": 57355,
+      "fontFamily": "FaSolid",
+      "identifier": "ambulance"
+    },
+    "american-sign-language-interpreting": {
+      "codepoint": 57356,
+      "fontFamily": "FaSolid",
+      "identifier": "americanSignLanguageInterpreting"
+    },
+    "anchor": {
+      "codepoint": 57357,
+      "fontFamily": "FaSolid",
+      "identifier": "anchor"
+    },
+    "angle-double-down": {
+      "codepoint": 57358,
+      "fontFamily": "FaSolid",
+      "identifier": "angleDoubleDown"
+    },
+    "angle-double-left": {
+      "codepoint": 57359,
+      "fontFamily": "FaSolid",
+      "identifier": "angleDoubleLeft"
+    },
+    "angle-double-right": {
+      "codepoint": 57360,
+      "fontFamily": "FaSolid",
+      "identifier": "angleDoubleRight"
+    },
+    "angle-double-up": {
+      "codepoint": 57361,
+      "fontFamily": "FaSolid",
+      "identifier": "angleDoubleUp"
+    },
+    "angle-down": {
+      "codepoint": 57362,
+      "fontFamily": "FaSolid",
+      "identifier": "angleDown"
+    },
+    "angle-left": {
+      "codepoint": 57363,
+      "fontFamily": "FaSolid",
+      "identifier": "angleLeft"
+    },
+    "angle-right": {
+      "codepoint": 57364,
+      "fontFamily": "FaSolid",
+      "identifier": "angleRight"
+    },
+    "angle-up": {
+      "codepoint": 57365,
+      "fontFamily": "FaSolid",
+      "identifier": "angleUp"
+    },
+    "angry": {
+      "codepoint": 57366,
+      "fontFamily": "FaSolid",
+      "identifier": "angry"
+    },
+    "ankh": {
+      "codepoint": 57367,
+      "fontFamily": "FaSolid",
+      "identifier": "ankh"
+    },
+    "apple-alt": {
+      "codepoint": 57368,
+      "fontFamily": "FaSolid",
+      "identifier": "appleAlt"
+    },
+    "archive": {
+      "codepoint": 57369,
+      "fontFamily": "FaSolid",
+      "identifier": "archive"
+    },
+    "archway": {
+      "codepoint": 57370,
+      "fontFamily": "FaSolid",
+      "identifier": "archway"
+    },
+    "arrow-alt-circle-down": {
+      "codepoint": 57371,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowAltCircleDown"
+    },
+    "arrow-alt-circle-left": {
+      "codepoint": 57372,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowAltCircleLeft"
+    },
+    "arrow-alt-circle-right": {
+      "codepoint": 57373,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowAltCircleRight"
+    },
+    "arrow-alt-circle-up": {
+      "codepoint": 57374,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowAltCircleUp"
+    },
+    "arrow-circle-down": {
+      "codepoint": 57375,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowCircleDown"
+    },
+    "arrow-circle-left": {
+      "codepoint": 57376,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowCircleLeft"
+    },
+    "arrow-circle-right": {
+      "codepoint": 57377,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowCircleRight"
+    },
+    "arrow-circle-up": {
+      "codepoint": 57378,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowCircleUp"
+    },
+    "arrow-down": {
+      "codepoint": 57379,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowDown"
+    },
+    "arrow-left": {
+      "codepoint": 57380,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57381,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowRight"
+    },
+    "arrow-up": {
+      "codepoint": 57382,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowUp"
+    },
+    "arrows-alt": {
+      "codepoint": 57383,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowsAlt"
+    },
+    "arrows-alt-h": {
+      "codepoint": 57384,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowsAltH"
+    },
+    "arrows-alt-v": {
+      "codepoint": 57385,
+      "fontFamily": "FaSolid",
+      "identifier": "arrowsAltV"
+    },
+    "assistive-listening-systems": {
+      "codepoint": 57386,
+      "fontFamily": "FaSolid",
+      "identifier": "assistiveListeningSystems"
+    },
+    "asterisk": {
+      "codepoint": 57387,
+      "fontFamily": "FaSolid",
+      "identifier": "asterisk"
+    },
+    "at": {
+      "codepoint": 57388,
+      "fontFamily": "FaSolid",
+      "identifier": "at"
+    },
+    "atlas": {
+      "codepoint": 57389,
+      "fontFamily": "FaSolid",
+      "identifier": "atlas"
+    },
+    "atom": {
+      "codepoint": 57390,
+      "fontFamily": "FaSolid",
+      "identifier": "atom"
+    },
+    "audio-description": {
+      "codepoint": 57391,
+      "fontFamily": "FaSolid",
+      "identifier": "audioDescription"
+    },
+    "award": {
+      "codepoint": 57392,
+      "fontFamily": "FaSolid",
+      "identifier": "award"
+    },
+    "baby": {
+      "codepoint": 57393,
+      "fontFamily": "FaSolid",
+      "identifier": "baby"
+    },
+    "baby-carriage": {
+      "codepoint": 57394,
+      "fontFamily": "FaSolid",
+      "identifier": "babyCarriage"
+    },
+    "backspace": {
+      "codepoint": 57395,
+      "fontFamily": "FaSolid",
+      "identifier": "backspace"
+    },
+    "backward": {
+      "codepoint": 57396,
+      "fontFamily": "FaSolid",
+      "identifier": "backward"
+    },
+    "bacon": {
+      "codepoint": 57397,
+      "fontFamily": "FaSolid",
+      "identifier": "bacon"
+    },
+    "bacteria": {
+      "codepoint": 57398,
+      "fontFamily": "FaSolid",
+      "identifier": "bacteria"
+    },
+    "bacterium": {
+      "codepoint": 57399,
+      "fontFamily": "FaSolid",
+      "identifier": "bacterium"
+    },
+    "bahai": {
+      "codepoint": 57400,
+      "fontFamily": "FaSolid",
+      "identifier": "bahai"
+    },
+    "balance-scale": {
+      "codepoint": 57401,
+      "fontFamily": "FaSolid",
+      "identifier": "balanceScale"
+    },
+    "balance-scale-left": {
+      "codepoint": 57402,
+      "fontFamily": "FaSolid",
+      "identifier": "balanceScaleLeft"
+    },
+    "balance-scale-right": {
+      "codepoint": 57403,
+      "fontFamily": "FaSolid",
+      "identifier": "balanceScaleRight"
+    },
+    "ban": {
+      "codepoint": 57404,
+      "fontFamily": "FaSolid",
+      "identifier": "ban"
+    },
+    "band-aid": {
+      "codepoint": 57405,
+      "fontFamily": "FaSolid",
+      "identifier": "bandAid"
+    },
+    "barcode": {
+      "codepoint": 57406,
+      "fontFamily": "FaSolid",
+      "identifier": "barcode"
+    },
+    "bars": {
+      "codepoint": 57407,
+      "fontFamily": "FaSolid",
+      "identifier": "bars"
+    },
+    "baseball-ball": {
+      "codepoint": 57408,
+      "fontFamily": "FaSolid",
+      "identifier": "baseballBall"
+    },
+    "basketball-ball": {
+      "codepoint": 57409,
+      "fontFamily": "FaSolid",
+      "identifier": "basketballBall"
+    },
+    "bath": {
+      "codepoint": 57410,
+      "fontFamily": "FaSolid",
+      "identifier": "bath"
+    },
+    "battery-empty": {
+      "codepoint": 57411,
+      "fontFamily": "FaSolid",
+      "identifier": "batteryEmpty"
+    },
+    "battery-full": {
+      "codepoint": 57412,
+      "fontFamily": "FaSolid",
+      "identifier": "batteryFull"
+    },
+    "battery-half": {
+      "codepoint": 57413,
+      "fontFamily": "FaSolid",
+      "identifier": "batteryHalf"
+    },
+    "battery-quarter": {
+      "codepoint": 57414,
+      "fontFamily": "FaSolid",
+      "identifier": "batteryQuarter"
+    },
+    "battery-three-quarters": {
+      "codepoint": 57415,
+      "fontFamily": "FaSolid",
+      "identifier": "batteryThreeQuarters"
+    },
+    "bed": {
+      "codepoint": 57416,
+      "fontFamily": "FaSolid",
+      "identifier": "bed"
+    },
+    "beer": {
+      "codepoint": 57417,
+      "fontFamily": "FaSolid",
+      "identifier": "beer"
+    },
+    "bell": {
+      "codepoint": 57418,
+      "fontFamily": "FaSolid",
+      "identifier": "bell"
+    },
+    "bell-slash": {
+      "codepoint": 57419,
+      "fontFamily": "FaSolid",
+      "identifier": "bellSlash"
+    },
+    "bezier-curve": {
+      "codepoint": 57420,
+      "fontFamily": "FaSolid",
+      "identifier": "bezierCurve"
+    },
+    "bible": {
+      "codepoint": 57421,
+      "fontFamily": "FaSolid",
+      "identifier": "bible"
+    },
+    "bicycle": {
+      "codepoint": 57422,
+      "fontFamily": "FaSolid",
+      "identifier": "bicycle"
+    },
+    "biking": {
+      "codepoint": 57423,
+      "fontFamily": "FaSolid",
+      "identifier": "biking"
+    },
+    "binoculars": {
+      "codepoint": 57424,
+      "fontFamily": "FaSolid",
+      "identifier": "binoculars"
+    },
+    "biohazard": {
+      "codepoint": 57425,
+      "fontFamily": "FaSolid",
+      "identifier": "biohazard"
+    },
+    "birthday-cake": {
+      "codepoint": 57426,
+      "fontFamily": "FaSolid",
+      "identifier": "birthdayCake"
+    },
+    "blender": {
+      "codepoint": 57427,
+      "fontFamily": "FaSolid",
+      "identifier": "blender"
+    },
+    "blender-phone": {
+      "codepoint": 57428,
+      "fontFamily": "FaSolid",
+      "identifier": "blenderPhone"
+    },
+    "blind": {
+      "codepoint": 57429,
+      "fontFamily": "FaSolid",
+      "identifier": "blind"
+    },
+    "blog": {
+      "codepoint": 57430,
+      "fontFamily": "FaSolid",
+      "identifier": "blog"
+    },
+    "bold": {
+      "codepoint": 57431,
+      "fontFamily": "FaSolid",
+      "identifier": "bold"
+    },
+    "bolt": {
+      "codepoint": 57432,
+      "fontFamily": "FaSolid",
+      "identifier": "bolt"
+    },
+    "bomb": {
+      "codepoint": 57433,
+      "fontFamily": "FaSolid",
+      "identifier": "bomb"
+    },
+    "bone": {
+      "codepoint": 57434,
+      "fontFamily": "FaSolid",
+      "identifier": "bone"
+    },
+    "bong": {
+      "codepoint": 57435,
+      "fontFamily": "FaSolid",
+      "identifier": "bong"
+    },
+    "book": {
+      "codepoint": 57436,
+      "fontFamily": "FaSolid",
+      "identifier": "book"
+    },
+    "book-dead": {
+      "codepoint": 57437,
+      "fontFamily": "FaSolid",
+      "identifier": "bookDead"
+    },
+    "book-medical": {
+      "codepoint": 57438,
+      "fontFamily": "FaSolid",
+      "identifier": "bookMedical"
+    },
+    "book-open": {
+      "codepoint": 57439,
+      "fontFamily": "FaSolid",
+      "identifier": "bookOpen"
+    },
+    "book-reader": {
+      "codepoint": 57440,
+      "fontFamily": "FaSolid",
+      "identifier": "bookReader"
+    },
+    "bookmark": {
+      "codepoint": 57441,
+      "fontFamily": "FaSolid",
+      "identifier": "bookmark"
+    },
+    "border-all": {
+      "codepoint": 57442,
+      "fontFamily": "FaSolid",
+      "identifier": "borderAll"
+    },
+    "border-none": {
+      "codepoint": 57443,
+      "fontFamily": "FaSolid",
+      "identifier": "borderNone"
+    },
+    "border-style": {
+      "codepoint": 57444,
+      "fontFamily": "FaSolid",
+      "identifier": "borderStyle"
+    },
+    "bowling-ball": {
+      "codepoint": 57445,
+      "fontFamily": "FaSolid",
+      "identifier": "bowlingBall"
+    },
+    "box": {
+      "codepoint": 57446,
+      "fontFamily": "FaSolid",
+      "identifier": "box"
+    },
+    "box-open": {
+      "codepoint": 57447,
+      "fontFamily": "FaSolid",
+      "identifier": "boxOpen"
+    },
+    "box-tissue": {
+      "codepoint": 57448,
+      "fontFamily": "FaSolid",
+      "identifier": "boxTissue"
+    },
+    "boxes": {
+      "codepoint": 57449,
+      "fontFamily": "FaSolid",
+      "identifier": "boxes"
+    },
+    "braille": {
+      "codepoint": 57450,
+      "fontFamily": "FaSolid",
+      "identifier": "braille"
+    },
+    "brain": {
+      "codepoint": 57451,
+      "fontFamily": "FaSolid",
+      "identifier": "brain"
+    },
+    "bread-slice": {
+      "codepoint": 57452,
+      "fontFamily": "FaSolid",
+      "identifier": "breadSlice"
+    },
+    "briefcase": {
+      "codepoint": 57453,
+      "fontFamily": "FaSolid",
+      "identifier": "briefcase"
+    },
+    "briefcase-medical": {
+      "codepoint": 57454,
+      "fontFamily": "FaSolid",
+      "identifier": "briefcaseMedical"
+    },
+    "broadcast-tower": {
+      "codepoint": 57455,
+      "fontFamily": "FaSolid",
+      "identifier": "broadcastTower"
+    },
+    "broom": {
+      "codepoint": 57456,
+      "fontFamily": "FaSolid",
+      "identifier": "broom"
+    },
+    "brush": {
+      "codepoint": 57457,
+      "fontFamily": "FaSolid",
+      "identifier": "brush"
+    },
+    "bug": {
+      "codepoint": 57458,
+      "fontFamily": "FaSolid",
+      "identifier": "bug"
+    },
+    "building": {
+      "codepoint": 57459,
+      "fontFamily": "FaSolid",
+      "identifier": "building"
+    },
+    "bullhorn": {
+      "codepoint": 57460,
+      "fontFamily": "FaSolid",
+      "identifier": "bullhorn"
+    },
+    "bullseye": {
+      "codepoint": 57461,
+      "fontFamily": "FaSolid",
+      "identifier": "bullseye"
+    },
+    "burn": {
+      "codepoint": 57462,
+      "fontFamily": "FaSolid",
+      "identifier": "burn"
+    },
+    "bus": {
+      "codepoint": 57463,
+      "fontFamily": "FaSolid",
+      "identifier": "bus"
+    },
+    "bus-alt": {
+      "codepoint": 57464,
+      "fontFamily": "FaSolid",
+      "identifier": "busAlt"
+    },
+    "business-time": {
+      "codepoint": 57465,
+      "fontFamily": "FaSolid",
+      "identifier": "businessTime"
+    },
+    "calculator": {
+      "codepoint": 57466,
+      "fontFamily": "FaSolid",
+      "identifier": "calculator"
+    },
+    "calculator-alt": {
+      "codepoint": 57467,
+      "fontFamily": "FaSolid",
+      "identifier": "calculatorAlt"
+    },
+    "calendar": {
+      "codepoint": 57468,
+      "fontFamily": "FaSolid",
+      "identifier": "calendar"
+    },
+    "calendar-alt": {
+      "codepoint": 57469,
+      "fontFamily": "FaSolid",
+      "identifier": "calendarAlt"
+    },
+    "calendar-check": {
+      "codepoint": 57470,
+      "fontFamily": "FaSolid",
+      "identifier": "calendarCheck"
+    },
+    "calendar-day": {
+      "codepoint": 57471,
+      "fontFamily": "FaSolid",
+      "identifier": "calendarDay"
+    },
+    "calendar-minus": {
+      "codepoint": 57472,
+      "fontFamily": "FaSolid",
+      "identifier": "calendarMinus"
+    },
+    "calendar-plus": {
+      "codepoint": 57473,
+      "fontFamily": "FaSolid",
+      "identifier": "calendarPlus"
+    },
+    "calendar-times": {
+      "codepoint": 57474,
+      "fontFamily": "FaSolid",
+      "identifier": "calendarTimes"
+    },
+    "calendar-week": {
+      "codepoint": 57475,
+      "fontFamily": "FaSolid",
+      "identifier": "calendarWeek"
+    },
+    "camera": {
+      "codepoint": 57476,
+      "fontFamily": "FaSolid",
+      "identifier": "camera"
+    },
+    "camera-retro": {
+      "codepoint": 57477,
+      "fontFamily": "FaSolid",
+      "identifier": "cameraRetro"
+    },
+    "campground": {
+      "codepoint": 57478,
+      "fontFamily": "FaSolid",
+      "identifier": "campground"
+    },
+    "candy-cane": {
+      "codepoint": 57479,
+      "fontFamily": "FaSolid",
+      "identifier": "candyCane"
+    },
+    "cannabis": {
+      "codepoint": 57480,
+      "fontFamily": "FaSolid",
+      "identifier": "cannabis"
+    },
+    "capsules": {
+      "codepoint": 57481,
+      "fontFamily": "FaSolid",
+      "identifier": "capsules"
+    },
+    "car": {
+      "codepoint": 57482,
+      "fontFamily": "FaSolid",
+      "identifier": "car"
+    },
+    "car-alt": {
+      "codepoint": 57483,
+      "fontFamily": "FaSolid",
+      "identifier": "carAlt"
+    },
+    "car-battery": {
+      "codepoint": 57484,
+      "fontFamily": "FaSolid",
+      "identifier": "carBattery"
+    },
+    "car-crash": {
+      "codepoint": 57485,
+      "fontFamily": "FaSolid",
+      "identifier": "carCrash"
+    },
+    "car-side": {
+      "codepoint": 57486,
+      "fontFamily": "FaSolid",
+      "identifier": "carSide"
+    },
+    "caravan": {
+      "codepoint": 57487,
+      "fontFamily": "FaSolid",
+      "identifier": "caravan"
+    },
+    "caret-down": {
+      "codepoint": 57488,
+      "fontFamily": "FaSolid",
+      "identifier": "caretDown"
+    },
+    "caret-left": {
+      "codepoint": 57489,
+      "fontFamily": "FaSolid",
+      "identifier": "caretLeft"
+    },
+    "caret-right": {
+      "codepoint": 57490,
+      "fontFamily": "FaSolid",
+      "identifier": "caretRight"
+    },
+    "caret-square-down": {
+      "codepoint": 57491,
+      "fontFamily": "FaSolid",
+      "identifier": "caretSquareDown"
+    },
+    "caret-square-left": {
+      "codepoint": 57492,
+      "fontFamily": "FaSolid",
+      "identifier": "caretSquareLeft"
+    },
+    "caret-square-right": {
+      "codepoint": 57493,
+      "fontFamily": "FaSolid",
+      "identifier": "caretSquareRight"
+    },
+    "caret-square-up": {
+      "codepoint": 57494,
+      "fontFamily": "FaSolid",
+      "identifier": "caretSquareUp"
+    },
+    "caret-up": {
+      "codepoint": 57495,
+      "fontFamily": "FaSolid",
+      "identifier": "caretUp"
+    },
+    "carrot": {
+      "codepoint": 57496,
+      "fontFamily": "FaSolid",
+      "identifier": "carrot"
+    },
+    "cart-arrow-down": {
+      "codepoint": 57497,
+      "fontFamily": "FaSolid",
+      "identifier": "cartArrowDown"
+    },
+    "cart-plus": {
+      "codepoint": 57498,
+      "fontFamily": "FaSolid",
+      "identifier": "cartPlus"
+    },
+    "cash-register": {
+      "codepoint": 57499,
+      "fontFamily": "FaSolid",
+      "identifier": "cashRegister"
+    },
+    "cat": {
+      "codepoint": 57500,
+      "fontFamily": "FaSolid",
+      "identifier": "cat"
+    },
+    "certificate": {
+      "codepoint": 57501,
+      "fontFamily": "FaSolid",
+      "identifier": "certificate"
+    },
+    "chair": {
+      "codepoint": 57502,
+      "fontFamily": "FaSolid",
+      "identifier": "chair"
+    },
+    "chalkboard": {
+      "codepoint": 57503,
+      "fontFamily": "FaSolid",
+      "identifier": "chalkboard"
+    },
+    "chalkboard-teacher": {
+      "codepoint": 57504,
+      "fontFamily": "FaSolid",
+      "identifier": "chalkboardTeacher"
+    },
+    "charging-station": {
+      "codepoint": 57505,
+      "fontFamily": "FaSolid",
+      "identifier": "chargingStation"
+    },
+    "chart-area": {
+      "codepoint": 57506,
+      "fontFamily": "FaSolid",
+      "identifier": "chartArea"
+    },
+    "chart-bar": {
+      "codepoint": 57507,
+      "fontFamily": "FaSolid",
+      "identifier": "chartBar"
+    },
+    "chart-line": {
+      "codepoint": 57508,
+      "fontFamily": "FaSolid",
+      "identifier": "chartLine"
+    },
+    "chart-pie": {
+      "codepoint": 57509,
+      "fontFamily": "FaSolid",
+      "identifier": "chartPie"
+    },
+    "check": {
+      "codepoint": 57510,
+      "fontFamily": "FaSolid",
+      "identifier": "check"
+    },
+    "check-circle": {
+      "codepoint": 57511,
+      "fontFamily": "FaSolid",
+      "identifier": "checkCircle"
+    },
+    "check-double": {
+      "codepoint": 57512,
+      "fontFamily": "FaSolid",
+      "identifier": "checkDouble"
+    },
+    "check-square": {
+      "codepoint": 57513,
+      "fontFamily": "FaSolid",
+      "identifier": "checkSquare"
+    },
+    "cheese": {
+      "codepoint": 57514,
+      "fontFamily": "FaSolid",
+      "identifier": "cheese"
+    },
+    "chess": {
+      "codepoint": 57515,
+      "fontFamily": "FaSolid",
+      "identifier": "chess"
+    },
+    "chess-bishop": {
+      "codepoint": 57516,
+      "fontFamily": "FaSolid",
+      "identifier": "chessBishop"
+    },
+    "chess-board": {
+      "codepoint": 57517,
+      "fontFamily": "FaSolid",
+      "identifier": "chessBoard"
+    },
+    "chess-king": {
+      "codepoint": 57518,
+      "fontFamily": "FaSolid",
+      "identifier": "chessKing"
+    },
+    "chess-knight": {
+      "codepoint": 57519,
+      "fontFamily": "FaSolid",
+      "identifier": "chessKnight"
+    },
+    "chess-pawn": {
+      "codepoint": 57520,
+      "fontFamily": "FaSolid",
+      "identifier": "chessPawn"
+    },
+    "chess-queen": {
+      "codepoint": 57521,
+      "fontFamily": "FaSolid",
+      "identifier": "chessQueen"
+    },
+    "chess-rook": {
+      "codepoint": 57522,
+      "fontFamily": "FaSolid",
+      "identifier": "chessRook"
+    },
+    "chevron-circle-down": {
+      "codepoint": 57523,
+      "fontFamily": "FaSolid",
+      "identifier": "chevronCircleDown"
+    },
+    "chevron-circle-left": {
+      "codepoint": 57524,
+      "fontFamily": "FaSolid",
+      "identifier": "chevronCircleLeft"
+    },
+    "chevron-circle-right": {
+      "codepoint": 57525,
+      "fontFamily": "FaSolid",
+      "identifier": "chevronCircleRight"
+    },
+    "chevron-circle-up": {
+      "codepoint": 57526,
+      "fontFamily": "FaSolid",
+      "identifier": "chevronCircleUp"
+    },
+    "chevron-down": {
+      "codepoint": 57527,
+      "fontFamily": "FaSolid",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57528,
+      "fontFamily": "FaSolid",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57529,
+      "fontFamily": "FaSolid",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57530,
+      "fontFamily": "FaSolid",
+      "identifier": "chevronUp"
+    },
+    "child": {
+      "codepoint": 57531,
+      "fontFamily": "FaSolid",
+      "identifier": "child"
+    },
+    "church": {
+      "codepoint": 57532,
+      "fontFamily": "FaSolid",
+      "identifier": "church"
+    },
+    "circle": {
+      "codepoint": 57533,
+      "fontFamily": "FaSolid",
+      "identifier": "circle"
+    },
+    "circle-notch": {
+      "codepoint": 57534,
+      "fontFamily": "FaSolid",
+      "identifier": "circleNotch"
+    },
+    "city": {
+      "codepoint": 57535,
+      "fontFamily": "FaSolid",
+      "identifier": "city"
+    },
+    "clinic-medical": {
+      "codepoint": 57536,
+      "fontFamily": "FaSolid",
+      "identifier": "clinicMedical"
+    },
+    "clipboard": {
+      "codepoint": 57537,
+      "fontFamily": "FaSolid",
+      "identifier": "clipboard"
+    },
+    "clipboard-check": {
+      "codepoint": 57538,
+      "fontFamily": "FaSolid",
+      "identifier": "clipboardCheck"
+    },
+    "clipboard-list": {
+      "codepoint": 57539,
+      "fontFamily": "FaSolid",
+      "identifier": "clipboardList"
+    },
+    "clock": {
+      "codepoint": 57540,
+      "fontFamily": "FaSolid",
+      "identifier": "clock"
+    },
+    "clone": {
+      "codepoint": 57541,
+      "fontFamily": "FaSolid",
+      "identifier": "clone"
+    },
+    "closed-captioning": {
+      "codepoint": 57542,
+      "fontFamily": "FaSolid",
+      "identifier": "closedCaptioning"
+    },
+    "cloud": {
+      "codepoint": 57543,
+      "fontFamily": "FaSolid",
+      "identifier": "cloud"
+    },
+    "cloud-download-alt": {
+      "codepoint": 57544,
+      "fontFamily": "FaSolid",
+      "identifier": "cloudDownloadAlt"
+    },
+    "cloud-meatball": {
+      "codepoint": 57545,
+      "fontFamily": "FaSolid",
+      "identifier": "cloudMeatball"
+    },
+    "cloud-moon": {
+      "codepoint": 57546,
+      "fontFamily": "FaSolid",
+      "identifier": "cloudMoon"
+    },
+    "cloud-moon-rain": {
+      "codepoint": 57547,
+      "fontFamily": "FaSolid",
+      "identifier": "cloudMoonRain"
+    },
+    "cloud-rain": {
+      "codepoint": 57548,
+      "fontFamily": "FaSolid",
+      "identifier": "cloudRain"
+    },
+    "cloud-showers-heavy": {
+      "codepoint": 57549,
+      "fontFamily": "FaSolid",
+      "identifier": "cloudShowersHeavy"
+    },
+    "cloud-sun": {
+      "codepoint": 57550,
+      "fontFamily": "FaSolid",
+      "identifier": "cloudSun"
+    },
+    "cloud-sun-rain": {
+      "codepoint": 57551,
+      "fontFamily": "FaSolid",
+      "identifier": "cloudSunRain"
+    },
+    "cloud-upload-alt": {
+      "codepoint": 57552,
+      "fontFamily": "FaSolid",
+      "identifier": "cloudUploadAlt"
+    },
+    "cocktail": {
+      "codepoint": 57553,
+      "fontFamily": "FaSolid",
+      "identifier": "cocktail"
+    },
+    "code": {
+      "codepoint": 57554,
+      "fontFamily": "FaSolid",
+      "identifier": "code"
+    },
+    "code-branch": {
+      "codepoint": 57555,
+      "fontFamily": "FaSolid",
+      "identifier": "codeBranch"
+    },
+    "coffee": {
+      "codepoint": 57556,
+      "fontFamily": "FaSolid",
+      "identifier": "coffee"
+    },
+    "cog": {
+      "codepoint": 57557,
+      "fontFamily": "FaSolid",
+      "identifier": "cog"
+    },
+    "cogs": {
+      "codepoint": 57558,
+      "fontFamily": "FaSolid",
+      "identifier": "cogs"
+    },
+    "coins": {
+      "codepoint": 57559,
+      "fontFamily": "FaSolid",
+      "identifier": "coins"
+    },
+    "columns": {
+      "codepoint": 57560,
+      "fontFamily": "FaSolid",
+      "identifier": "columns"
+    },
+    "comment": {
+      "codepoint": 57561,
+      "fontFamily": "FaSolid",
+      "identifier": "comment"
+    },
+    "comment-alt": {
+      "codepoint": 57562,
+      "fontFamily": "FaSolid",
+      "identifier": "commentAlt"
+    },
+    "comment-dollar": {
+      "codepoint": 57563,
+      "fontFamily": "FaSolid",
+      "identifier": "commentDollar"
+    },
+    "comment-dots": {
+      "codepoint": 57564,
+      "fontFamily": "FaSolid",
+      "identifier": "commentDots"
+    },
+    "comment-medical": {
+      "codepoint": 57565,
+      "fontFamily": "FaSolid",
+      "identifier": "commentMedical"
+    },
+    "comment-slash": {
+      "codepoint": 57566,
+      "fontFamily": "FaSolid",
+      "identifier": "commentSlash"
+    },
+    "comments": {
+      "codepoint": 57567,
+      "fontFamily": "FaSolid",
+      "identifier": "comments"
+    },
+    "comments-dollar": {
+      "codepoint": 57568,
+      "fontFamily": "FaSolid",
+      "identifier": "commentsDollar"
+    },
+    "compact-disc": {
+      "codepoint": 57569,
+      "fontFamily": "FaSolid",
+      "identifier": "compactDisc"
+    },
+    "compass": {
+      "codepoint": 57570,
+      "fontFamily": "FaSolid",
+      "identifier": "compass"
+    },
+    "compress": {
+      "codepoint": 57571,
+      "fontFamily": "FaSolid",
+      "identifier": "compress"
+    },
+    "compress-alt": {
+      "codepoint": 57572,
+      "fontFamily": "FaSolid",
+      "identifier": "compressAlt"
+    },
+    "compress-arrows-alt": {
+      "codepoint": 57573,
+      "fontFamily": "FaSolid",
+      "identifier": "compressArrowsAlt"
+    },
+    "concierge-bell": {
+      "codepoint": 57574,
+      "fontFamily": "FaSolid",
+      "identifier": "conciergeBell"
+    },
+    "cookie": {
+      "codepoint": 57575,
+      "fontFamily": "FaSolid",
+      "identifier": "cookie"
+    },
+    "cookie-bite": {
+      "codepoint": 57576,
+      "fontFamily": "FaSolid",
+      "identifier": "cookieBite"
+    },
+    "copy": {
+      "codepoint": 57577,
+      "fontFamily": "FaSolid",
+      "identifier": "copy"
+    },
+    "copyright": {
+      "codepoint": 57578,
+      "fontFamily": "FaSolid",
+      "identifier": "copyright"
+    },
+    "couch": {
+      "codepoint": 57579,
+      "fontFamily": "FaSolid",
+      "identifier": "couch"
+    },
+    "credit-card": {
+      "codepoint": 57580,
+      "fontFamily": "FaSolid",
+      "identifier": "creditCard"
+    },
+    "crop": {
+      "codepoint": 57581,
+      "fontFamily": "FaSolid",
+      "identifier": "crop"
+    },
+    "crop-alt": {
+      "codepoint": 57582,
+      "fontFamily": "FaSolid",
+      "identifier": "cropAlt"
+    },
+    "cross": {
+      "codepoint": 57583,
+      "fontFamily": "FaSolid",
+      "identifier": "cross"
+    },
+    "crosshairs": {
+      "codepoint": 57584,
+      "fontFamily": "FaSolid",
+      "identifier": "crosshairs"
+    },
+    "crow": {
+      "codepoint": 57585,
+      "fontFamily": "FaSolid",
+      "identifier": "crow"
+    },
+    "crown": {
+      "codepoint": 57586,
+      "fontFamily": "FaSolid",
+      "identifier": "crown"
+    },
+    "crutch": {
+      "codepoint": 57587,
+      "fontFamily": "FaSolid",
+      "identifier": "crutch"
+    },
+    "cube": {
+      "codepoint": 57588,
+      "fontFamily": "FaSolid",
+      "identifier": "cube"
+    },
+    "cubes": {
+      "codepoint": 57589,
+      "fontFamily": "FaSolid",
+      "identifier": "cubes"
+    },
+    "cut": {
+      "codepoint": 57590,
+      "fontFamily": "FaSolid",
+      "identifier": "cut"
+    },
+    "database": {
+      "codepoint": 57591,
+      "fontFamily": "FaSolid",
+      "identifier": "database"
+    },
+    "deaf": {
+      "codepoint": 57592,
+      "fontFamily": "FaSolid",
+      "identifier": "deaf"
+    },
+    "democrat": {
+      "codepoint": 57593,
+      "fontFamily": "FaSolid",
+      "identifier": "democrat"
+    },
+    "desktop": {
+      "codepoint": 57594,
+      "fontFamily": "FaSolid",
+      "identifier": "desktop"
+    },
+    "dharmachakra": {
+      "codepoint": 57595,
+      "fontFamily": "FaSolid",
+      "identifier": "dharmachakra"
+    },
+    "diagnoses": {
+      "codepoint": 57596,
+      "fontFamily": "FaSolid",
+      "identifier": "diagnoses"
+    },
+    "dice": {
+      "codepoint": 57597,
+      "fontFamily": "FaSolid",
+      "identifier": "dice"
+    },
+    "dice-d20": {
+      "codepoint": 57598,
+      "fontFamily": "FaSolid",
+      "identifier": "diceD20"
+    },
+    "dice-d6": {
+      "codepoint": 57599,
+      "fontFamily": "FaSolid",
+      "identifier": "diceD6"
+    },
+    "dice-five": {
+      "codepoint": 57600,
+      "fontFamily": "FaSolid",
+      "identifier": "diceFive"
+    },
+    "dice-four": {
+      "codepoint": 57601,
+      "fontFamily": "FaSolid",
+      "identifier": "diceFour"
+    },
+    "dice-one": {
+      "codepoint": 57602,
+      "fontFamily": "FaSolid",
+      "identifier": "diceOne"
+    },
+    "dice-six": {
+      "codepoint": 57603,
+      "fontFamily": "FaSolid",
+      "identifier": "diceSix"
+    },
+    "dice-three": {
+      "codepoint": 57604,
+      "fontFamily": "FaSolid",
+      "identifier": "diceThree"
+    },
+    "dice-two": {
+      "codepoint": 57605,
+      "fontFamily": "FaSolid",
+      "identifier": "diceTwo"
+    },
+    "digital-tachograph": {
+      "codepoint": 57606,
+      "fontFamily": "FaSolid",
+      "identifier": "digitalTachograph"
+    },
+    "directions": {
+      "codepoint": 57607,
+      "fontFamily": "FaSolid",
+      "identifier": "directions"
+    },
+    "disease": {
+      "codepoint": 57608,
+      "fontFamily": "FaSolid",
+      "identifier": "disease"
+    },
+    "divide": {
+      "codepoint": 57609,
+      "fontFamily": "FaSolid",
+      "identifier": "divide"
+    },
+    "dizzy": {
+      "codepoint": 57610,
+      "fontFamily": "FaSolid",
+      "identifier": "dizzy"
+    },
+    "dna": {
+      "codepoint": 57611,
+      "fontFamily": "FaSolid",
+      "identifier": "dna"
+    },
+    "dog": {
+      "codepoint": 57612,
+      "fontFamily": "FaSolid",
+      "identifier": "dog"
+    },
+    "dollar-sign": {
+      "codepoint": 57613,
+      "fontFamily": "FaSolid",
+      "identifier": "dollarSign"
+    },
+    "dolly": {
+      "codepoint": 57614,
+      "fontFamily": "FaSolid",
+      "identifier": "dolly"
+    },
+    "dolly-flatbed": {
+      "codepoint": 57615,
+      "fontFamily": "FaSolid",
+      "identifier": "dollyFlatbed"
+    },
+    "donate": {
+      "codepoint": 57616,
+      "fontFamily": "FaSolid",
+      "identifier": "donate"
+    },
+    "door-closed": {
+      "codepoint": 57617,
+      "fontFamily": "FaSolid",
+      "identifier": "doorClosed"
+    },
+    "door-open": {
+      "codepoint": 57618,
+      "fontFamily": "FaSolid",
+      "identifier": "doorOpen"
+    },
+    "dot-circle": {
+      "codepoint": 57619,
+      "fontFamily": "FaSolid",
+      "identifier": "dotCircle"
+    },
+    "dove": {
+      "codepoint": 57620,
+      "fontFamily": "FaSolid",
+      "identifier": "dove"
+    },
+    "download": {
+      "codepoint": 57621,
+      "fontFamily": "FaSolid",
+      "identifier": "download"
+    },
+    "drafting-compass": {
+      "codepoint": 57622,
+      "fontFamily": "FaSolid",
+      "identifier": "draftingCompass"
+    },
+    "dragon": {
+      "codepoint": 57623,
+      "fontFamily": "FaSolid",
+      "identifier": "dragon"
+    },
+    "draw-polygon": {
+      "codepoint": 57624,
+      "fontFamily": "FaSolid",
+      "identifier": "drawPolygon"
+    },
+    "drum": {
+      "codepoint": 57625,
+      "fontFamily": "FaSolid",
+      "identifier": "drum"
+    },
+    "drum-steelpan": {
+      "codepoint": 57626,
+      "fontFamily": "FaSolid",
+      "identifier": "drumSteelpan"
+    },
+    "drumstick-bite": {
+      "codepoint": 57627,
+      "fontFamily": "FaSolid",
+      "identifier": "drumstickBite"
+    },
+    "dumbbell": {
+      "codepoint": 57628,
+      "fontFamily": "FaSolid",
+      "identifier": "dumbbell"
+    },
+    "dumpster": {
+      "codepoint": 57629,
+      "fontFamily": "FaSolid",
+      "identifier": "dumpster"
+    },
+    "dumpster-fire": {
+      "codepoint": 57630,
+      "fontFamily": "FaSolid",
+      "identifier": "dumpsterFire"
+    },
+    "dungeon": {
+      "codepoint": 57631,
+      "fontFamily": "FaSolid",
+      "identifier": "dungeon"
+    },
+    "edit": {
+      "codepoint": 57632,
+      "fontFamily": "FaSolid",
+      "identifier": "edit"
+    },
+    "egg": {
+      "codepoint": 57633,
+      "fontFamily": "FaSolid",
+      "identifier": "egg"
+    },
+    "eject": {
+      "codepoint": 57634,
+      "fontFamily": "FaSolid",
+      "identifier": "eject"
+    },
+    "ellipsis-h": {
+      "codepoint": 57635,
+      "fontFamily": "FaSolid",
+      "identifier": "ellipsisH"
+    },
+    "ellipsis-v": {
+      "codepoint": 57636,
+      "fontFamily": "FaSolid",
+      "identifier": "ellipsisV"
+    },
+    "empty-set": {
+      "codepoint": 57637,
+      "fontFamily": "FaSolid",
+      "identifier": "emptySet"
+    },
+    "envelope": {
+      "codepoint": 57638,
+      "fontFamily": "FaSolid",
+      "identifier": "envelope"
+    },
+    "envelope-open": {
+      "codepoint": 57639,
+      "fontFamily": "FaSolid",
+      "identifier": "envelopeOpen"
+    },
+    "envelope-open-text": {
+      "codepoint": 57640,
+      "fontFamily": "FaSolid",
+      "identifier": "envelopeOpenText"
+    },
+    "envelope-square": {
+      "codepoint": 57641,
+      "fontFamily": "FaSolid",
+      "identifier": "envelopeSquare"
+    },
+    "equals": {
+      "codepoint": 57642,
+      "fontFamily": "FaSolid",
+      "identifier": "equals"
+    },
+    "eraser": {
+      "codepoint": 57643,
+      "fontFamily": "FaSolid",
+      "identifier": "eraser"
+    },
+    "ethernet": {
+      "codepoint": 57644,
+      "fontFamily": "FaSolid",
+      "identifier": "ethernet"
+    },
+    "euro-sign": {
+      "codepoint": 57645,
+      "fontFamily": "FaSolid",
+      "identifier": "euroSign"
+    },
+    "exchange-alt": {
+      "codepoint": 57646,
+      "fontFamily": "FaSolid",
+      "identifier": "exchangeAlt"
+    },
+    "exclamation": {
+      "codepoint": 57647,
+      "fontFamily": "FaSolid",
+      "identifier": "exclamation"
+    },
+    "exclamation-circle": {
+      "codepoint": 57648,
+      "fontFamily": "FaSolid",
+      "identifier": "exclamationCircle"
+    },
+    "exclamation-triangle": {
+      "codepoint": 57649,
+      "fontFamily": "FaSolid",
+      "identifier": "exclamationTriangle"
+    },
+    "expand": {
+      "codepoint": 57650,
+      "fontFamily": "FaSolid",
+      "identifier": "expand"
+    },
+    "expand-alt": {
+      "codepoint": 57651,
+      "fontFamily": "FaSolid",
+      "identifier": "expandAlt"
+    },
+    "expand-arrows-alt": {
+      "codepoint": 57652,
+      "fontFamily": "FaSolid",
+      "identifier": "expandArrowsAlt"
+    },
+    "external-link-alt": {
+      "codepoint": 57653,
+      "fontFamily": "FaSolid",
+      "identifier": "externalLinkAlt"
+    },
+    "external-link-square-alt": {
+      "codepoint": 57654,
+      "fontFamily": "FaSolid",
+      "identifier": "externalLinkSquareAlt"
+    },
+    "eye": {
+      "codepoint": 57655,
+      "fontFamily": "FaSolid",
+      "identifier": "eye"
+    },
+    "eye-dropper": {
+      "codepoint": 57656,
+      "fontFamily": "FaSolid",
+      "identifier": "eyeDropper"
+    },
+    "eye-slash": {
+      "codepoint": 57657,
+      "fontFamily": "FaSolid",
+      "identifier": "eyeSlash"
+    },
+    "fan": {
+      "codepoint": 57658,
+      "fontFamily": "FaSolid",
+      "identifier": "fan"
+    },
+    "fast-backward": {
+      "codepoint": 57659,
+      "fontFamily": "FaSolid",
+      "identifier": "fastBackward"
+    },
+    "fast-forward": {
+      "codepoint": 57660,
+      "fontFamily": "FaSolid",
+      "identifier": "fastForward"
+    },
+    "faucet": {
+      "codepoint": 57661,
+      "fontFamily": "FaSolid",
+      "identifier": "faucet"
+    },
+    "fax": {
+      "codepoint": 57662,
+      "fontFamily": "FaSolid",
+      "identifier": "fax"
+    },
+    "feather": {
+      "codepoint": 57663,
+      "fontFamily": "FaSolid",
+      "identifier": "feather"
+    },
+    "feather-alt": {
+      "codepoint": 57664,
+      "fontFamily": "FaSolid",
+      "identifier": "featherAlt"
+    },
+    "female": {
+      "codepoint": 57665,
+      "fontFamily": "FaSolid",
+      "identifier": "female"
+    },
+    "fighter-jet": {
+      "codepoint": 57666,
+      "fontFamily": "FaSolid",
+      "identifier": "fighterJet"
+    },
+    "file": {
+      "codepoint": 57667,
+      "fontFamily": "FaSolid",
+      "identifier": "file"
+    },
+    "file-alt": {
+      "codepoint": 57668,
+      "fontFamily": "FaSolid",
+      "identifier": "fileAlt"
+    },
+    "file-archive": {
+      "codepoint": 57669,
+      "fontFamily": "FaSolid",
+      "identifier": "fileArchive"
+    },
+    "file-audio": {
+      "codepoint": 57670,
+      "fontFamily": "FaSolid",
+      "identifier": "fileAudio"
+    },
+    "file-code": {
+      "codepoint": 57671,
+      "fontFamily": "FaSolid",
+      "identifier": "fileCode"
+    },
+    "file-contract": {
+      "codepoint": 57672,
+      "fontFamily": "FaSolid",
+      "identifier": "fileContract"
+    },
+    "file-csv": {
+      "codepoint": 57673,
+      "fontFamily": "FaSolid",
+      "identifier": "fileCsv"
+    },
+    "file-download": {
+      "codepoint": 57674,
+      "fontFamily": "FaSolid",
+      "identifier": "fileDownload"
+    },
+    "file-excel": {
+      "codepoint": 57675,
+      "fontFamily": "FaSolid",
+      "identifier": "fileExcel"
+    },
+    "file-export": {
+      "codepoint": 57676,
+      "fontFamily": "FaSolid",
+      "identifier": "fileExport"
+    },
+    "file-image": {
+      "codepoint": 57677,
+      "fontFamily": "FaSolid",
+      "identifier": "fileImage"
+    },
+    "file-import": {
+      "codepoint": 57678,
+      "fontFamily": "FaSolid",
+      "identifier": "fileImport"
+    },
+    "file-invoice": {
+      "codepoint": 57679,
+      "fontFamily": "FaSolid",
+      "identifier": "fileInvoice"
+    },
+    "file-invoice-dollar": {
+      "codepoint": 57680,
+      "fontFamily": "FaSolid",
+      "identifier": "fileInvoiceDollar"
+    },
+    "file-medical": {
+      "codepoint": 57681,
+      "fontFamily": "FaSolid",
+      "identifier": "fileMedical"
+    },
+    "file-medical-alt": {
+      "codepoint": 57682,
+      "fontFamily": "FaSolid",
+      "identifier": "fileMedicalAlt"
+    },
+    "file-pdf": {
+      "codepoint": 57683,
+      "fontFamily": "FaSolid",
+      "identifier": "filePdf"
+    },
+    "file-powerpoint": {
+      "codepoint": 57684,
+      "fontFamily": "FaSolid",
+      "identifier": "filePowerpoint"
+    },
+    "file-prescription": {
+      "codepoint": 57685,
+      "fontFamily": "FaSolid",
+      "identifier": "filePrescription"
+    },
+    "file-signature": {
+      "codepoint": 57686,
+      "fontFamily": "FaSolid",
+      "identifier": "fileSignature"
+    },
+    "file-upload": {
+      "codepoint": 57687,
+      "fontFamily": "FaSolid",
+      "identifier": "fileUpload"
+    },
+    "file-video": {
+      "codepoint": 57688,
+      "fontFamily": "FaSolid",
+      "identifier": "fileVideo"
+    },
+    "file-word": {
+      "codepoint": 57689,
+      "fontFamily": "FaSolid",
+      "identifier": "fileWord"
+    },
+    "fill": {
+      "codepoint": 57690,
+      "fontFamily": "FaSolid",
+      "identifier": "fill"
+    },
+    "fill-drip": {
+      "codepoint": 57691,
+      "fontFamily": "FaSolid",
+      "identifier": "fillDrip"
+    },
+    "film": {
+      "codepoint": 57692,
+      "fontFamily": "FaSolid",
+      "identifier": "film"
+    },
+    "filter": {
+      "codepoint": 57693,
+      "fontFamily": "FaSolid",
+      "identifier": "filter"
+    },
+    "fingerprint": {
+      "codepoint": 57694,
+      "fontFamily": "FaSolid",
+      "identifier": "fingerprint"
+    },
+    "fire": {
+      "codepoint": 57695,
+      "fontFamily": "FaSolid",
+      "identifier": "fire"
+    },
+    "fire-alt": {
+      "codepoint": 57696,
+      "fontFamily": "FaSolid",
+      "identifier": "fireAlt"
+    },
+    "fire-extinguisher": {
+      "codepoint": 57697,
+      "fontFamily": "FaSolid",
+      "identifier": "fireExtinguisher"
+    },
+    "first-aid": {
+      "codepoint": 57698,
+      "fontFamily": "FaSolid",
+      "identifier": "firstAid"
+    },
+    "fish": {
+      "codepoint": 57699,
+      "fontFamily": "FaSolid",
+      "identifier": "fish"
+    },
+    "fist-raised": {
+      "codepoint": 57700,
+      "fontFamily": "FaSolid",
+      "identifier": "fistRaised"
+    },
+    "flag": {
+      "codepoint": 57701,
+      "fontFamily": "FaSolid",
+      "identifier": "flag"
+    },
+    "flag-checkered": {
+      "codepoint": 57702,
+      "fontFamily": "FaSolid",
+      "identifier": "flagCheckered"
+    },
+    "flag-usa": {
+      "codepoint": 57703,
+      "fontFamily": "FaSolid",
+      "identifier": "flagUsa"
+    },
+    "flask": {
+      "codepoint": 57704,
+      "fontFamily": "FaSolid",
+      "identifier": "flask"
+    },
+    "flushed": {
+      "codepoint": 57705,
+      "fontFamily": "FaSolid",
+      "identifier": "flushed"
+    },
+    "folder": {
+      "codepoint": 57706,
+      "fontFamily": "FaSolid",
+      "identifier": "folder"
+    },
+    "folder-minus": {
+      "codepoint": 57707,
+      "fontFamily": "FaSolid",
+      "identifier": "folderMinus"
+    },
+    "folder-open": {
+      "codepoint": 57708,
+      "fontFamily": "FaSolid",
+      "identifier": "folderOpen"
+    },
+    "folder-plus": {
+      "codepoint": 57709,
+      "fontFamily": "FaSolid",
+      "identifier": "folderPlus"
+    },
+    "font": {
+      "codepoint": 57710,
+      "fontFamily": "FaSolid",
+      "identifier": "font"
+    },
+    "football-ball": {
+      "codepoint": 57711,
+      "fontFamily": "FaSolid",
+      "identifier": "footballBall"
+    },
+    "forward": {
+      "codepoint": 57712,
+      "fontFamily": "FaSolid",
+      "identifier": "forward"
+    },
+    "frog": {
+      "codepoint": 57713,
+      "fontFamily": "FaSolid",
+      "identifier": "frog"
+    },
+    "frown": {
+      "codepoint": 57714,
+      "fontFamily": "FaSolid",
+      "identifier": "frown"
+    },
+    "frown-open": {
+      "codepoint": 57715,
+      "fontFamily": "FaSolid",
+      "identifier": "frownOpen"
+    },
+    "function": {
+      "codepoint": 57716,
+      "fontFamily": "FaSolid",
+      "identifier": "function"
+    },
+    "funnel-dollar": {
+      "codepoint": 57717,
+      "fontFamily": "FaSolid",
+      "identifier": "funnelDollar"
+    },
+    "futbol": {
+      "codepoint": 57718,
+      "fontFamily": "FaSolid",
+      "identifier": "futbol"
+    },
+    "gamepad": {
+      "codepoint": 57719,
+      "fontFamily": "FaSolid",
+      "identifier": "gamepad"
+    },
+    "gas-pump": {
+      "codepoint": 57720,
+      "fontFamily": "FaSolid",
+      "identifier": "gasPump"
+    },
+    "gavel": {
+      "codepoint": 57721,
+      "fontFamily": "FaSolid",
+      "identifier": "gavel"
+    },
+    "gem": {
+      "codepoint": 57722,
+      "fontFamily": "FaSolid",
+      "identifier": "gem"
+    },
+    "genderless": {
+      "codepoint": 57723,
+      "fontFamily": "FaSolid",
+      "identifier": "genderless"
+    },
+    "ghost": {
+      "codepoint": 57724,
+      "fontFamily": "FaSolid",
+      "identifier": "ghost"
+    },
+    "gift": {
+      "codepoint": 57725,
+      "fontFamily": "FaSolid",
+      "identifier": "gift"
+    },
+    "gifts": {
+      "codepoint": 57726,
+      "fontFamily": "FaSolid",
+      "identifier": "gifts"
+    },
+    "glass-cheers": {
+      "codepoint": 57727,
+      "fontFamily": "FaSolid",
+      "identifier": "glassCheers"
+    },
+    "glass-martini": {
+      "codepoint": 57728,
+      "fontFamily": "FaSolid",
+      "identifier": "glassMartini"
+    },
+    "glass-martini-alt": {
+      "codepoint": 57729,
+      "fontFamily": "FaSolid",
+      "identifier": "glassMartiniAlt"
+    },
+    "glass-whiskey": {
+      "codepoint": 57730,
+      "fontFamily": "FaSolid",
+      "identifier": "glassWhiskey"
+    },
+    "glasses": {
+      "codepoint": 57731,
+      "fontFamily": "FaSolid",
+      "identifier": "glasses"
+    },
+    "globe": {
+      "codepoint": 57732,
+      "fontFamily": "FaSolid",
+      "identifier": "globe"
+    },
+    "globe-africa": {
+      "codepoint": 57733,
+      "fontFamily": "FaSolid",
+      "identifier": "globeAfrica"
+    },
+    "globe-americas": {
+      "codepoint": 57734,
+      "fontFamily": "FaSolid",
+      "identifier": "globeAmericas"
+    },
+    "globe-asia": {
+      "codepoint": 57735,
+      "fontFamily": "FaSolid",
+      "identifier": "globeAsia"
+    },
+    "globe-europe": {
+      "codepoint": 57736,
+      "fontFamily": "FaSolid",
+      "identifier": "globeEurope"
+    },
+    "golf-ball": {
+      "codepoint": 57737,
+      "fontFamily": "FaSolid",
+      "identifier": "golfBall"
+    },
+    "gopuram": {
+      "codepoint": 57738,
+      "fontFamily": "FaSolid",
+      "identifier": "gopuram"
+    },
+    "graduation-cap": {
+      "codepoint": 57739,
+      "fontFamily": "FaSolid",
+      "identifier": "graduationCap"
+    },
+    "greater-than": {
+      "codepoint": 57740,
+      "fontFamily": "FaSolid",
+      "identifier": "greaterThan"
+    },
+    "greater-than-equal": {
+      "codepoint": 57741,
+      "fontFamily": "FaSolid",
+      "identifier": "greaterThanEqual"
+    },
+    "grimace": {
+      "codepoint": 57742,
+      "fontFamily": "FaSolid",
+      "identifier": "grimace"
+    },
+    "grin": {
+      "codepoint": 57743,
+      "fontFamily": "FaSolid",
+      "identifier": "grin"
+    },
+    "grin-alt": {
+      "codepoint": 57744,
+      "fontFamily": "FaSolid",
+      "identifier": "grinAlt"
+    },
+    "grin-beam": {
+      "codepoint": 57745,
+      "fontFamily": "FaSolid",
+      "identifier": "grinBeam"
+    },
+    "grin-beam-sweat": {
+      "codepoint": 57746,
+      "fontFamily": "FaSolid",
+      "identifier": "grinBeamSweat"
+    },
+    "grin-hearts": {
+      "codepoint": 57747,
+      "fontFamily": "FaSolid",
+      "identifier": "grinHearts"
+    },
+    "grin-squint": {
+      "codepoint": 57748,
+      "fontFamily": "FaSolid",
+      "identifier": "grinSquint"
+    },
+    "grin-squint-tears": {
+      "codepoint": 57749,
+      "fontFamily": "FaSolid",
+      "identifier": "grinSquintTears"
+    },
+    "grin-stars": {
+      "codepoint": 57750,
+      "fontFamily": "FaSolid",
+      "identifier": "grinStars"
+    },
+    "grin-tears": {
+      "codepoint": 57751,
+      "fontFamily": "FaSolid",
+      "identifier": "grinTears"
+    },
+    "grin-tongue": {
+      "codepoint": 57752,
+      "fontFamily": "FaSolid",
+      "identifier": "grinTongue"
+    },
+    "grin-tongue-squint": {
+      "codepoint": 57753,
+      "fontFamily": "FaSolid",
+      "identifier": "grinTongueSquint"
+    },
+    "grin-tongue-wink": {
+      "codepoint": 57754,
+      "fontFamily": "FaSolid",
+      "identifier": "grinTongueWink"
+    },
+    "grin-wink": {
+      "codepoint": 57755,
+      "fontFamily": "FaSolid",
+      "identifier": "grinWink"
+    },
+    "grip-horizontal": {
+      "codepoint": 57756,
+      "fontFamily": "FaSolid",
+      "identifier": "gripHorizontal"
+    },
+    "grip-lines": {
+      "codepoint": 57757,
+      "fontFamily": "FaSolid",
+      "identifier": "gripLines"
+    },
+    "grip-lines-vertical": {
+      "codepoint": 57758,
+      "fontFamily": "FaSolid",
+      "identifier": "gripLinesVertical"
+    },
+    "grip-vertical": {
+      "codepoint": 57759,
+      "fontFamily": "FaSolid",
+      "identifier": "gripVertical"
+    },
+    "guitar": {
+      "codepoint": 57760,
+      "fontFamily": "FaSolid",
+      "identifier": "guitar"
+    },
+    "h-square": {
+      "codepoint": 57761,
+      "fontFamily": "FaSolid",
+      "identifier": "hSquare"
+    },
+    "hamburger": {
+      "codepoint": 57762,
+      "fontFamily": "FaSolid",
+      "identifier": "hamburger"
+    },
+    "hammer": {
+      "codepoint": 57763,
+      "fontFamily": "FaSolid",
+      "identifier": "hammer"
+    },
+    "hamsa": {
+      "codepoint": 57764,
+      "fontFamily": "FaSolid",
+      "identifier": "hamsa"
+    },
+    "hand-holding": {
+      "codepoint": 57765,
+      "fontFamily": "FaSolid",
+      "identifier": "handHolding"
+    },
+    "hand-holding-heart": {
+      "codepoint": 57766,
+      "fontFamily": "FaSolid",
+      "identifier": "handHoldingHeart"
+    },
+    "hand-holding-medical": {
+      "codepoint": 57767,
+      "fontFamily": "FaSolid",
+      "identifier": "handHoldingMedical"
+    },
+    "hand-holding-usd": {
+      "codepoint": 57768,
+      "fontFamily": "FaSolid",
+      "identifier": "handHoldingUsd"
+    },
+    "hand-holding-water": {
+      "codepoint": 57769,
+      "fontFamily": "FaSolid",
+      "identifier": "handHoldingWater"
+    },
+    "hand-lizard": {
+      "codepoint": 57770,
+      "fontFamily": "FaSolid",
+      "identifier": "handLizard"
+    },
+    "hand-middle-finger": {
+      "codepoint": 57771,
+      "fontFamily": "FaSolid",
+      "identifier": "handMiddleFinger"
+    },
+    "hand-paper": {
+      "codepoint": 57772,
+      "fontFamily": "FaSolid",
+      "identifier": "handPaper"
+    },
+    "hand-peace": {
+      "codepoint": 57773,
+      "fontFamily": "FaSolid",
+      "identifier": "handPeace"
+    },
+    "hand-point-down": {
+      "codepoint": 57774,
+      "fontFamily": "FaSolid",
+      "identifier": "handPointDown"
+    },
+    "hand-point-left": {
+      "codepoint": 57775,
+      "fontFamily": "FaSolid",
+      "identifier": "handPointLeft"
+    },
+    "hand-point-right": {
+      "codepoint": 57776,
+      "fontFamily": "FaSolid",
+      "identifier": "handPointRight"
+    },
+    "hand-point-up": {
+      "codepoint": 57777,
+      "fontFamily": "FaSolid",
+      "identifier": "handPointUp"
+    },
+    "hand-pointer": {
+      "codepoint": 57778,
+      "fontFamily": "FaSolid",
+      "identifier": "handPointer"
+    },
+    "hand-rock": {
+      "codepoint": 57779,
+      "fontFamily": "FaSolid",
+      "identifier": "handRock"
+    },
+    "hand-scissors": {
+      "codepoint": 57780,
+      "fontFamily": "FaSolid",
+      "identifier": "handScissors"
+    },
+    "hand-sparkles": {
+      "codepoint": 57781,
+      "fontFamily": "FaSolid",
+      "identifier": "handSparkles"
+    },
+    "hand-spock": {
+      "codepoint": 57782,
+      "fontFamily": "FaSolid",
+      "identifier": "handSpock"
+    },
+    "hands": {
+      "codepoint": 57783,
+      "fontFamily": "FaSolid",
+      "identifier": "hands"
+    },
+    "hands-helping": {
+      "codepoint": 57784,
+      "fontFamily": "FaSolid",
+      "identifier": "handsHelping"
+    },
+    "hands-wash": {
+      "codepoint": 57785,
+      "fontFamily": "FaSolid",
+      "identifier": "handsWash"
+    },
+    "handshake": {
+      "codepoint": 57786,
+      "fontFamily": "FaSolid",
+      "identifier": "handshake"
+    },
+    "handshake-alt-slash": {
+      "codepoint": 57787,
+      "fontFamily": "FaSolid",
+      "identifier": "handshakeAltSlash"
+    },
+    "handshake-slash": {
+      "codepoint": 57788,
+      "fontFamily": "FaSolid",
+      "identifier": "handshakeSlash"
+    },
+    "hanukiah": {
+      "codepoint": 57789,
+      "fontFamily": "FaSolid",
+      "identifier": "hanukiah"
+    },
+    "hard-hat": {
+      "codepoint": 57790,
+      "fontFamily": "FaSolid",
+      "identifier": "hardHat"
+    },
+    "hashtag": {
+      "codepoint": 57791,
+      "fontFamily": "FaSolid",
+      "identifier": "hashtag"
+    },
+    "hat-cowboy": {
+      "codepoint": 57792,
+      "fontFamily": "FaSolid",
+      "identifier": "hatCowboy"
+    },
+    "hat-cowboy-side": {
+      "codepoint": 57793,
+      "fontFamily": "FaSolid",
+      "identifier": "hatCowboySide"
+    },
+    "hat-wizard": {
+      "codepoint": 57794,
+      "fontFamily": "FaSolid",
+      "identifier": "hatWizard"
+    },
+    "haykal": {
+      "codepoint": 57795,
+      "fontFamily": "FaSolid",
+      "identifier": "haykal"
+    },
+    "hdd": {
+      "codepoint": 57796,
+      "fontFamily": "FaSolid",
+      "identifier": "hdd"
+    },
+    "head-side-cough": {
+      "codepoint": 57797,
+      "fontFamily": "FaSolid",
+      "identifier": "headSideCough"
+    },
+    "head-side-cough-slash": {
+      "codepoint": 57798,
+      "fontFamily": "FaSolid",
+      "identifier": "headSideCoughSlash"
+    },
+    "head-side-mask": {
+      "codepoint": 57799,
+      "fontFamily": "FaSolid",
+      "identifier": "headSideMask"
+    },
+    "head-side-virus": {
+      "codepoint": 57800,
+      "fontFamily": "FaSolid",
+      "identifier": "headSideVirus"
+    },
+    "heading": {
+      "codepoint": 57801,
+      "fontFamily": "FaSolid",
+      "identifier": "heading"
+    },
+    "headphones": {
+      "codepoint": 57802,
+      "fontFamily": "FaSolid",
+      "identifier": "headphones"
+    },
+    "headphones-alt": {
+      "codepoint": 57803,
+      "fontFamily": "FaSolid",
+      "identifier": "headphonesAlt"
+    },
+    "headset": {
+      "codepoint": 57804,
+      "fontFamily": "FaSolid",
+      "identifier": "headset"
+    },
+    "heart": {
+      "codepoint": 57805,
+      "fontFamily": "FaSolid",
+      "identifier": "heart"
+    },
+    "heart-broken": {
+      "codepoint": 57806,
+      "fontFamily": "FaSolid",
+      "identifier": "heartBroken"
+    },
+    "heartbeat": {
+      "codepoint": 57807,
+      "fontFamily": "FaSolid",
+      "identifier": "heartbeat"
+    },
+    "helicopter": {
+      "codepoint": 57808,
+      "fontFamily": "FaSolid",
+      "identifier": "helicopter"
+    },
+    "highlighter": {
+      "codepoint": 57809,
+      "fontFamily": "FaSolid",
+      "identifier": "highlighter"
+    },
+    "hiking": {
+      "codepoint": 57810,
+      "fontFamily": "FaSolid",
+      "identifier": "hiking"
+    },
+    "hippo": {
+      "codepoint": 57811,
+      "fontFamily": "FaSolid",
+      "identifier": "hippo"
+    },
+    "history": {
+      "codepoint": 57812,
+      "fontFamily": "FaSolid",
+      "identifier": "history"
+    },
+    "hockey-puck": {
+      "codepoint": 57813,
+      "fontFamily": "FaSolid",
+      "identifier": "hockeyPuck"
+    },
+    "holly-berry": {
+      "codepoint": 57814,
+      "fontFamily": "FaSolid",
+      "identifier": "hollyBerry"
+    },
+    "home": {
+      "codepoint": 57815,
+      "fontFamily": "FaSolid",
+      "identifier": "home"
+    },
+    "horse": {
+      "codepoint": 57816,
+      "fontFamily": "FaSolid",
+      "identifier": "horse"
+    },
+    "horse-head": {
+      "codepoint": 57817,
+      "fontFamily": "FaSolid",
+      "identifier": "horseHead"
+    },
+    "hospital": {
+      "codepoint": 57818,
+      "fontFamily": "FaSolid",
+      "identifier": "hospital"
+    },
+    "hospital-alt": {
+      "codepoint": 57819,
+      "fontFamily": "FaSolid",
+      "identifier": "hospitalAlt"
+    },
+    "hospital-symbol": {
+      "codepoint": 57820,
+      "fontFamily": "FaSolid",
+      "identifier": "hospitalSymbol"
+    },
+    "hospital-user": {
+      "codepoint": 57821,
+      "fontFamily": "FaSolid",
+      "identifier": "hospitalUser"
+    },
+    "hot-tub": {
+      "codepoint": 57822,
+      "fontFamily": "FaSolid",
+      "identifier": "hotTub"
+    },
+    "hotdog": {
+      "codepoint": 57823,
+      "fontFamily": "FaSolid",
+      "identifier": "hotdog"
+    },
+    "hotel": {
+      "codepoint": 57824,
+      "fontFamily": "FaSolid",
+      "identifier": "hotel"
+    },
+    "hourglass": {
+      "codepoint": 57825,
+      "fontFamily": "FaSolid",
+      "identifier": "hourglass"
+    },
+    "hourglass-end": {
+      "codepoint": 57826,
+      "fontFamily": "FaSolid",
+      "identifier": "hourglassEnd"
+    },
+    "hourglass-half": {
+      "codepoint": 57827,
+      "fontFamily": "FaSolid",
+      "identifier": "hourglassHalf"
+    },
+    "hourglass-start": {
+      "codepoint": 57828,
+      "fontFamily": "FaSolid",
+      "identifier": "hourglassStart"
+    },
+    "house-damage": {
+      "codepoint": 57829,
+      "fontFamily": "FaSolid",
+      "identifier": "houseDamage"
+    },
+    "house-user": {
+      "codepoint": 57830,
+      "fontFamily": "FaSolid",
+      "identifier": "houseUser"
+    },
+    "hryvnia": {
+      "codepoint": 57831,
+      "fontFamily": "FaSolid",
+      "identifier": "hryvnia"
+    },
+    "i-cursor": {
+      "codepoint": 57832,
+      "fontFamily": "FaSolid",
+      "identifier": "iCursor"
+    },
+    "ice-cream": {
+      "codepoint": 57833,
+      "fontFamily": "FaSolid",
+      "identifier": "iceCream"
+    },
+    "icicles": {
+      "codepoint": 57834,
+      "fontFamily": "FaSolid",
+      "identifier": "icicles"
+    },
+    "icons": {
+      "codepoint": 57835,
+      "fontFamily": "FaSolid",
+      "identifier": "icons"
+    },
+    "id-badge": {
+      "codepoint": 57836,
+      "fontFamily": "FaSolid",
+      "identifier": "idBadge"
+    },
+    "id-card": {
+      "codepoint": 57837,
+      "fontFamily": "FaSolid",
+      "identifier": "idCard"
+    },
+    "id-card-alt": {
+      "codepoint": 57838,
+      "fontFamily": "FaSolid",
+      "identifier": "idCardAlt"
+    },
+    "igloo": {
+      "codepoint": 57839,
+      "fontFamily": "FaSolid",
+      "identifier": "igloo"
+    },
+    "image": {
+      "codepoint": 57840,
+      "fontFamily": "FaSolid",
+      "identifier": "image"
+    },
+    "images": {
+      "codepoint": 57841,
+      "fontFamily": "FaSolid",
+      "identifier": "images"
+    },
+    "inbox": {
+      "codepoint": 57842,
+      "fontFamily": "FaSolid",
+      "identifier": "inbox"
+    },
+    "indent": {
+      "codepoint": 57843,
+      "fontFamily": "FaSolid",
+      "identifier": "indent"
+    },
+    "industry": {
+      "codepoint": 57844,
+      "fontFamily": "FaSolid",
+      "identifier": "industry"
+    },
+    "infinity": {
+      "codepoint": 57845,
+      "fontFamily": "FaSolid",
+      "identifier": "infinity"
+    },
+    "info": {
+      "codepoint": 57846,
+      "fontFamily": "FaSolid",
+      "identifier": "info"
+    },
+    "info-circle": {
+      "codepoint": 57847,
+      "fontFamily": "FaSolid",
+      "identifier": "infoCircle"
+    },
+    "integral": {
+      "codepoint": 57848,
+      "fontFamily": "FaSolid",
+      "identifier": "integral"
+    },
+    "intersection": {
+      "codepoint": 57849,
+      "fontFamily": "FaSolid",
+      "identifier": "intersection"
+    },
+    "italic": {
+      "codepoint": 57850,
+      "fontFamily": "FaSolid",
+      "identifier": "italic"
+    },
+    "jedi": {
+      "codepoint": 57851,
+      "fontFamily": "FaSolid",
+      "identifier": "jedi"
+    },
+    "joint": {
+      "codepoint": 57852,
+      "fontFamily": "FaSolid",
+      "identifier": "joint"
+    },
+    "journal-whills": {
+      "codepoint": 57853,
+      "fontFamily": "FaSolid",
+      "identifier": "journalWhills"
+    },
+    "kaaba": {
+      "codepoint": 57854,
+      "fontFamily": "FaSolid",
+      "identifier": "kaaba"
+    },
+    "key": {
+      "codepoint": 57855,
+      "fontFamily": "FaSolid",
+      "identifier": "key"
+    },
+    "keyboard": {
+      "codepoint": 57856,
+      "fontFamily": "FaSolid",
+      "identifier": "keyboard"
+    },
+    "khanda": {
+      "codepoint": 57857,
+      "fontFamily": "FaSolid",
+      "identifier": "khanda"
+    },
+    "kiss": {
+      "codepoint": 57858,
+      "fontFamily": "FaSolid",
+      "identifier": "kiss"
+    },
+    "kiss-beam": {
+      "codepoint": 57859,
+      "fontFamily": "FaSolid",
+      "identifier": "kissBeam"
+    },
+    "kiss-wink-heart": {
+      "codepoint": 57860,
+      "fontFamily": "FaSolid",
+      "identifier": "kissWinkHeart"
+    },
+    "kiwi-bird": {
+      "codepoint": 57861,
+      "fontFamily": "FaSolid",
+      "identifier": "kiwiBird"
+    },
+    "lambda": {
+      "codepoint": 57862,
+      "fontFamily": "FaSolid",
+      "identifier": "lambda"
+    },
+    "landmark": {
+      "codepoint": 57863,
+      "fontFamily": "FaSolid",
+      "identifier": "landmark"
+    },
+    "language": {
+      "codepoint": 57864,
+      "fontFamily": "FaSolid",
+      "identifier": "language"
+    },
+    "laptop": {
+      "codepoint": 57865,
+      "fontFamily": "FaSolid",
+      "identifier": "laptop"
+    },
+    "laptop-code": {
+      "codepoint": 57866,
+      "fontFamily": "FaSolid",
+      "identifier": "laptopCode"
+    },
+    "laptop-house": {
+      "codepoint": 57867,
+      "fontFamily": "FaSolid",
+      "identifier": "laptopHouse"
+    },
+    "laptop-medical": {
+      "codepoint": 57868,
+      "fontFamily": "FaSolid",
+      "identifier": "laptopMedical"
+    },
+    "laugh": {
+      "codepoint": 57869,
+      "fontFamily": "FaSolid",
+      "identifier": "laugh"
+    },
+    "laugh-beam": {
+      "codepoint": 57870,
+      "fontFamily": "FaSolid",
+      "identifier": "laughBeam"
+    },
+    "laugh-squint": {
+      "codepoint": 57871,
+      "fontFamily": "FaSolid",
+      "identifier": "laughSquint"
+    },
+    "laugh-wink": {
+      "codepoint": 57872,
+      "fontFamily": "FaSolid",
+      "identifier": "laughWink"
+    },
+    "layer-group": {
+      "codepoint": 57873,
+      "fontFamily": "FaSolid",
+      "identifier": "layerGroup"
+    },
+    "leaf": {
+      "codepoint": 57874,
+      "fontFamily": "FaSolid",
+      "identifier": "leaf"
+    },
+    "lemon": {
+      "codepoint": 57875,
+      "fontFamily": "FaSolid",
+      "identifier": "lemon"
+    },
+    "less-than": {
+      "codepoint": 57876,
+      "fontFamily": "FaSolid",
+      "identifier": "lessThan"
+    },
+    "less-than-equal": {
+      "codepoint": 57877,
+      "fontFamily": "FaSolid",
+      "identifier": "lessThanEqual"
+    },
+    "level-down-alt": {
+      "codepoint": 57878,
+      "fontFamily": "FaSolid",
+      "identifier": "levelDownAlt"
+    },
+    "level-up-alt": {
+      "codepoint": 57879,
+      "fontFamily": "FaSolid",
+      "identifier": "levelUpAlt"
+    },
+    "life-ring": {
+      "codepoint": 57880,
+      "fontFamily": "FaSolid",
+      "identifier": "lifeRing"
+    },
+    "lightbulb": {
+      "codepoint": 57881,
+      "fontFamily": "FaSolid",
+      "identifier": "lightbulb"
+    },
+    "link": {
+      "codepoint": 57882,
+      "fontFamily": "FaSolid",
+      "identifier": "link"
+    },
+    "lira-sign": {
+      "codepoint": 57883,
+      "fontFamily": "FaSolid",
+      "identifier": "liraSign"
+    },
+    "list": {
+      "codepoint": 57884,
+      "fontFamily": "FaSolid",
+      "identifier": "list"
+    },
+    "list-alt": {
+      "codepoint": 57885,
+      "fontFamily": "FaSolid",
+      "identifier": "listAlt"
+    },
+    "list-ol": {
+      "codepoint": 57886,
+      "fontFamily": "FaSolid",
+      "identifier": "listOl"
+    },
+    "list-ul": {
+      "codepoint": 57887,
+      "fontFamily": "FaSolid",
+      "identifier": "listUl"
+    },
+    "location-arrow": {
+      "codepoint": 57888,
+      "fontFamily": "FaSolid",
+      "identifier": "locationArrow"
+    },
+    "lock": {
+      "codepoint": 57889,
+      "fontFamily": "FaSolid",
+      "identifier": "lock"
+    },
+    "lock-open": {
+      "codepoint": 57890,
+      "fontFamily": "FaSolid",
+      "identifier": "lockOpen"
+    },
+    "long-arrow-alt-down": {
+      "codepoint": 57891,
+      "fontFamily": "FaSolid",
+      "identifier": "longArrowAltDown"
+    },
+    "long-arrow-alt-left": {
+      "codepoint": 57892,
+      "fontFamily": "FaSolid",
+      "identifier": "longArrowAltLeft"
+    },
+    "long-arrow-alt-right": {
+      "codepoint": 57893,
+      "fontFamily": "FaSolid",
+      "identifier": "longArrowAltRight"
+    },
+    "long-arrow-alt-up": {
+      "codepoint": 57894,
+      "fontFamily": "FaSolid",
+      "identifier": "longArrowAltUp"
+    },
+    "low-vision": {
+      "codepoint": 57895,
+      "fontFamily": "FaSolid",
+      "identifier": "lowVision"
+    },
+    "luggage-cart": {
+      "codepoint": 57896,
+      "fontFamily": "FaSolid",
+      "identifier": "luggageCart"
+    },
+    "lungs": {
+      "codepoint": 57897,
+      "fontFamily": "FaSolid",
+      "identifier": "lungs"
+    },
+    "lungs-virus": {
+      "codepoint": 57898,
+      "fontFamily": "FaSolid",
+      "identifier": "lungsVirus"
+    },
+    "magic": {
+      "codepoint": 57899,
+      "fontFamily": "FaSolid",
+      "identifier": "magic"
+    },
+    "magnet": {
+      "codepoint": 57900,
+      "fontFamily": "FaSolid",
+      "identifier": "magnet"
+    },
+    "mail-bulk": {
+      "codepoint": 57901,
+      "fontFamily": "FaSolid",
+      "identifier": "mailBulk"
+    },
+    "male": {
+      "codepoint": 57902,
+      "fontFamily": "FaSolid",
+      "identifier": "male"
+    },
+    "map": {
+      "codepoint": 57903,
+      "fontFamily": "FaSolid",
+      "identifier": "map"
+    },
+    "map-marked": {
+      "codepoint": 57904,
+      "fontFamily": "FaSolid",
+      "identifier": "mapMarked"
+    },
+    "map-marked-alt": {
+      "codepoint": 57905,
+      "fontFamily": "FaSolid",
+      "identifier": "mapMarkedAlt"
+    },
+    "map-marker": {
+      "codepoint": 57906,
+      "fontFamily": "FaSolid",
+      "identifier": "mapMarker"
+    },
+    "map-marker-alt": {
+      "codepoint": 57907,
+      "fontFamily": "FaSolid",
+      "identifier": "mapMarkerAlt"
+    },
+    "map-pin": {
+      "codepoint": 57908,
+      "fontFamily": "FaSolid",
+      "identifier": "mapPin"
+    },
+    "map-signs": {
+      "codepoint": 57909,
+      "fontFamily": "FaSolid",
+      "identifier": "mapSigns"
+    },
+    "marker": {
+      "codepoint": 57910,
+      "fontFamily": "FaSolid",
+      "identifier": "marker"
+    },
+    "mars": {
+      "codepoint": 57911,
+      "fontFamily": "FaSolid",
+      "identifier": "mars"
+    },
+    "mars-double": {
+      "codepoint": 57912,
+      "fontFamily": "FaSolid",
+      "identifier": "marsDouble"
+    },
+    "mars-stroke": {
+      "codepoint": 57913,
+      "fontFamily": "FaSolid",
+      "identifier": "marsStroke"
+    },
+    "mars-stroke-h": {
+      "codepoint": 57914,
+      "fontFamily": "FaSolid",
+      "identifier": "marsStrokeH"
+    },
+    "mars-stroke-v": {
+      "codepoint": 57915,
+      "fontFamily": "FaSolid",
+      "identifier": "marsStrokeV"
+    },
+    "mask": {
+      "codepoint": 57916,
+      "fontFamily": "FaSolid",
+      "identifier": "mask"
+    },
+    "medal": {
+      "codepoint": 57917,
+      "fontFamily": "FaSolid",
+      "identifier": "medal"
+    },
+    "medkit": {
+      "codepoint": 57918,
+      "fontFamily": "FaSolid",
+      "identifier": "medkit"
+    },
+    "meh": {
+      "codepoint": 57919,
+      "fontFamily": "FaSolid",
+      "identifier": "meh"
+    },
+    "meh-blank": {
+      "codepoint": 57920,
+      "fontFamily": "FaSolid",
+      "identifier": "mehBlank"
+    },
+    "meh-rolling-eyes": {
+      "codepoint": 57921,
+      "fontFamily": "FaSolid",
+      "identifier": "mehRollingEyes"
+    },
+    "memory": {
+      "codepoint": 57922,
+      "fontFamily": "FaSolid",
+      "identifier": "memory"
+    },
+    "menorah": {
+      "codepoint": 57923,
+      "fontFamily": "FaSolid",
+      "identifier": "menorah"
+    },
+    "mercury": {
+      "codepoint": 57924,
+      "fontFamily": "FaSolid",
+      "identifier": "mercury"
+    },
+    "meteor": {
+      "codepoint": 57925,
+      "fontFamily": "FaSolid",
+      "identifier": "meteor"
+    },
+    "microchip": {
+      "codepoint": 57926,
+      "fontFamily": "FaSolid",
+      "identifier": "microchip"
+    },
+    "microphone": {
+      "codepoint": 57927,
+      "fontFamily": "FaSolid",
+      "identifier": "microphone"
+    },
+    "microphone-alt": {
+      "codepoint": 57928,
+      "fontFamily": "FaSolid",
+      "identifier": "microphoneAlt"
+    },
+    "microphone-alt-slash": {
+      "codepoint": 57929,
+      "fontFamily": "FaSolid",
+      "identifier": "microphoneAltSlash"
+    },
+    "microphone-slash": {
+      "codepoint": 57930,
+      "fontFamily": "FaSolid",
+      "identifier": "microphoneSlash"
+    },
+    "microscope": {
+      "codepoint": 57931,
+      "fontFamily": "FaSolid",
+      "identifier": "microscope"
+    },
+    "minus": {
+      "codepoint": 57932,
+      "fontFamily": "FaSolid",
+      "identifier": "minus"
+    },
+    "minus-circle": {
+      "codepoint": 57933,
+      "fontFamily": "FaSolid",
+      "identifier": "minusCircle"
+    },
+    "minus-square": {
+      "codepoint": 57934,
+      "fontFamily": "FaSolid",
+      "identifier": "minusSquare"
+    },
+    "mitten": {
+      "codepoint": 57935,
+      "fontFamily": "FaSolid",
+      "identifier": "mitten"
+    },
+    "mobile": {
+      "codepoint": 57936,
+      "fontFamily": "FaSolid",
+      "identifier": "mobile"
+    },
+    "mobile-alt": {
+      "codepoint": 57937,
+      "fontFamily": "FaSolid",
+      "identifier": "mobileAlt"
+    },
+    "money-bill": {
+      "codepoint": 57938,
+      "fontFamily": "FaSolid",
+      "identifier": "moneyBill"
+    },
+    "money-bill-alt": {
+      "codepoint": 57939,
+      "fontFamily": "FaSolid",
+      "identifier": "moneyBillAlt"
+    },
+    "money-bill-wave": {
+      "codepoint": 57940,
+      "fontFamily": "FaSolid",
+      "identifier": "moneyBillWave"
+    },
+    "money-bill-wave-alt": {
+      "codepoint": 57941,
+      "fontFamily": "FaSolid",
+      "identifier": "moneyBillWaveAlt"
+    },
+    "money-check": {
+      "codepoint": 57942,
+      "fontFamily": "FaSolid",
+      "identifier": "moneyCheck"
+    },
+    "money-check-alt": {
+      "codepoint": 57943,
+      "fontFamily": "FaSolid",
+      "identifier": "moneyCheckAlt"
+    },
+    "monument": {
+      "codepoint": 57944,
+      "fontFamily": "FaSolid",
+      "identifier": "monument"
+    },
+    "moon": {
+      "codepoint": 57945,
+      "fontFamily": "FaSolid",
+      "identifier": "moon"
+    },
+    "mortar-pestle": {
+      "codepoint": 57946,
+      "fontFamily": "FaSolid",
+      "identifier": "mortarPestle"
+    },
+    "mosque": {
+      "codepoint": 57947,
+      "fontFamily": "FaSolid",
+      "identifier": "mosque"
+    },
+    "motorcycle": {
+      "codepoint": 57948,
+      "fontFamily": "FaSolid",
+      "identifier": "motorcycle"
+    },
+    "mountain": {
+      "codepoint": 57949,
+      "fontFamily": "FaSolid",
+      "identifier": "mountain"
+    },
+    "mouse": {
+      "codepoint": 57950,
+      "fontFamily": "FaSolid",
+      "identifier": "mouse"
+    },
+    "mouse-pointer": {
+      "codepoint": 57951,
+      "fontFamily": "FaSolid",
+      "identifier": "mousePointer"
+    },
+    "mug-hot": {
+      "codepoint": 57952,
+      "fontFamily": "FaSolid",
+      "identifier": "mugHot"
+    },
+    "music": {
+      "codepoint": 57953,
+      "fontFamily": "FaSolid",
+      "identifier": "music"
+    },
+    "network-wired": {
+      "codepoint": 57954,
+      "fontFamily": "FaSolid",
+      "identifier": "networkWired"
+    },
+    "neuter": {
+      "codepoint": 57955,
+      "fontFamily": "FaSolid",
+      "identifier": "neuter"
+    },
+    "newspaper": {
+      "codepoint": 57956,
+      "fontFamily": "FaSolid",
+      "identifier": "newspaper"
+    },
+    "not-equal": {
+      "codepoint": 57957,
+      "fontFamily": "FaSolid",
+      "identifier": "notEqual"
+    },
+    "notes-medical": {
+      "codepoint": 57958,
+      "fontFamily": "FaSolid",
+      "identifier": "notesMedical"
+    },
+    "object-group": {
+      "codepoint": 57959,
+      "fontFamily": "FaSolid",
+      "identifier": "objectGroup"
+    },
+    "object-ungroup": {
+      "codepoint": 57960,
+      "fontFamily": "FaSolid",
+      "identifier": "objectUngroup"
+    },
+    "oil-can": {
+      "codepoint": 57961,
+      "fontFamily": "FaSolid",
+      "identifier": "oilCan"
+    },
+    "om": {
+      "codepoint": 57962,
+      "fontFamily": "FaSolid",
+      "identifier": "om"
+    },
+    "omega": {
+      "codepoint": 57963,
+      "fontFamily": "FaSolid",
+      "identifier": "omega"
+    },
+    "otter": {
+      "codepoint": 57964,
+      "fontFamily": "FaSolid",
+      "identifier": "otter"
+    },
+    "outdent": {
+      "codepoint": 57965,
+      "fontFamily": "FaSolid",
+      "identifier": "outdent"
+    },
+    "pager": {
+      "codepoint": 57966,
+      "fontFamily": "FaSolid",
+      "identifier": "pager"
+    },
+    "paint-brush": {
+      "codepoint": 57967,
+      "fontFamily": "FaSolid",
+      "identifier": "paintBrush"
+    },
+    "paint-roller": {
+      "codepoint": 57968,
+      "fontFamily": "FaSolid",
+      "identifier": "paintRoller"
+    },
+    "palette": {
+      "codepoint": 57969,
+      "fontFamily": "FaSolid",
+      "identifier": "palette"
+    },
+    "pallet": {
+      "codepoint": 57970,
+      "fontFamily": "FaSolid",
+      "identifier": "pallet"
+    },
+    "paper-plane": {
+      "codepoint": 57971,
+      "fontFamily": "FaSolid",
+      "identifier": "paperPlane"
+    },
+    "paperclip": {
+      "codepoint": 57972,
+      "fontFamily": "FaSolid",
+      "identifier": "paperclip"
+    },
+    "parachute-box": {
+      "codepoint": 57973,
+      "fontFamily": "FaSolid",
+      "identifier": "parachuteBox"
+    },
+    "paragraph": {
+      "codepoint": 57974,
+      "fontFamily": "FaSolid",
+      "identifier": "paragraph"
+    },
+    "parking": {
+      "codepoint": 57975,
+      "fontFamily": "FaSolid",
+      "identifier": "parking"
+    },
+    "passport": {
+      "codepoint": 57976,
+      "fontFamily": "FaSolid",
+      "identifier": "passport"
+    },
+    "pastafarianism": {
+      "codepoint": 57977,
+      "fontFamily": "FaSolid",
+      "identifier": "pastafarianism"
+    },
+    "paste": {
+      "codepoint": 57978,
+      "fontFamily": "FaSolid",
+      "identifier": "paste"
+    },
+    "pause": {
+      "codepoint": 57979,
+      "fontFamily": "FaSolid",
+      "identifier": "pause"
+    },
+    "pause-circle": {
+      "codepoint": 57980,
+      "fontFamily": "FaSolid",
+      "identifier": "pauseCircle"
+    },
+    "paw": {
+      "codepoint": 57981,
+      "fontFamily": "FaSolid",
+      "identifier": "paw"
+    },
+    "peace": {
+      "codepoint": 57982,
+      "fontFamily": "FaSolid",
+      "identifier": "peace"
+    },
+    "pen": {
+      "codepoint": 57983,
+      "fontFamily": "FaSolid",
+      "identifier": "pen"
+    },
+    "pen-alt": {
+      "codepoint": 57984,
+      "fontFamily": "FaSolid",
+      "identifier": "penAlt"
+    },
+    "pen-fancy": {
+      "codepoint": 57985,
+      "fontFamily": "FaSolid",
+      "identifier": "penFancy"
+    },
+    "pen-nib": {
+      "codepoint": 57986,
+      "fontFamily": "FaSolid",
+      "identifier": "penNib"
+    },
+    "pen-square": {
+      "codepoint": 57987,
+      "fontFamily": "FaSolid",
+      "identifier": "penSquare"
+    },
+    "pencil-alt": {
+      "codepoint": 57988,
+      "fontFamily": "FaSolid",
+      "identifier": "pencilAlt"
+    },
+    "pencil-ruler": {
+      "codepoint": 57989,
+      "fontFamily": "FaSolid",
+      "identifier": "pencilRuler"
+    },
+    "people-arrows": {
+      "codepoint": 57990,
+      "fontFamily": "FaSolid",
+      "identifier": "peopleArrows"
+    },
+    "people-carry": {
+      "codepoint": 57991,
+      "fontFamily": "FaSolid",
+      "identifier": "peopleCarry"
+    },
+    "pepper-hot": {
+      "codepoint": 57992,
+      "fontFamily": "FaSolid",
+      "identifier": "pepperHot"
+    },
+    "percent": {
+      "codepoint": 57993,
+      "fontFamily": "FaSolid",
+      "identifier": "percent"
+    },
+    "percentage": {
+      "codepoint": 57994,
+      "fontFamily": "FaSolid",
+      "identifier": "percentage"
+    },
+    "person-booth": {
+      "codepoint": 57995,
+      "fontFamily": "FaSolid",
+      "identifier": "personBooth"
+    },
+    "phone": {
+      "codepoint": 57996,
+      "fontFamily": "FaSolid",
+      "identifier": "phone"
+    },
+    "phone-alt": {
+      "codepoint": 57997,
+      "fontFamily": "FaSolid",
+      "identifier": "phoneAlt"
+    },
+    "phone-slash": {
+      "codepoint": 57998,
+      "fontFamily": "FaSolid",
+      "identifier": "phoneSlash"
+    },
+    "phone-square": {
+      "codepoint": 57999,
+      "fontFamily": "FaSolid",
+      "identifier": "phoneSquare"
+    },
+    "phone-square-alt": {
+      "codepoint": 58000,
+      "fontFamily": "FaSolid",
+      "identifier": "phoneSquareAlt"
+    },
+    "phone-volume": {
+      "codepoint": 58001,
+      "fontFamily": "FaSolid",
+      "identifier": "phoneVolume"
+    },
+    "photo-video": {
+      "codepoint": 58002,
+      "fontFamily": "FaSolid",
+      "identifier": "photoVideo"
+    },
+    "pi": {
+      "codepoint": 58003,
+      "fontFamily": "FaSolid",
+      "identifier": "pi"
+    },
+    "piggy-bank": {
+      "codepoint": 58004,
+      "fontFamily": "FaSolid",
+      "identifier": "piggyBank"
+    },
+    "pills": {
+      "codepoint": 58005,
+      "fontFamily": "FaSolid",
+      "identifier": "pills"
+    },
+    "pizza-slice": {
+      "codepoint": 58006,
+      "fontFamily": "FaSolid",
+      "identifier": "pizzaSlice"
+    },
+    "place-of-worship": {
+      "codepoint": 58007,
+      "fontFamily": "FaSolid",
+      "identifier": "placeOfWorship"
+    },
+    "plane": {
+      "codepoint": 58008,
+      "fontFamily": "FaSolid",
+      "identifier": "plane"
+    },
+    "plane-arrival": {
+      "codepoint": 58009,
+      "fontFamily": "FaSolid",
+      "identifier": "planeArrival"
+    },
+    "plane-departure": {
+      "codepoint": 58010,
+      "fontFamily": "FaSolid",
+      "identifier": "planeDeparture"
+    },
+    "plane-slash": {
+      "codepoint": 58011,
+      "fontFamily": "FaSolid",
+      "identifier": "planeSlash"
+    },
+    "play": {
+      "codepoint": 58012,
+      "fontFamily": "FaSolid",
+      "identifier": "play"
+    },
+    "play-circle": {
+      "codepoint": 58013,
+      "fontFamily": "FaSolid",
+      "identifier": "playCircle"
+    },
+    "plug": {
+      "codepoint": 58014,
+      "fontFamily": "FaSolid",
+      "identifier": "plug"
+    },
+    "plus": {
+      "codepoint": 58015,
+      "fontFamily": "FaSolid",
+      "identifier": "plus"
+    },
+    "plus-circle": {
+      "codepoint": 58016,
+      "fontFamily": "FaSolid",
+      "identifier": "plusCircle"
+    },
+    "plus-square": {
+      "codepoint": 58017,
+      "fontFamily": "FaSolid",
+      "identifier": "plusSquare"
+    },
+    "podcast": {
+      "codepoint": 58018,
+      "fontFamily": "FaSolid",
+      "identifier": "podcast"
+    },
+    "poll": {
+      "codepoint": 58019,
+      "fontFamily": "FaSolid",
+      "identifier": "poll"
+    },
+    "poll-h": {
+      "codepoint": 58020,
+      "fontFamily": "FaSolid",
+      "identifier": "pollH"
+    },
+    "poo": {
+      "codepoint": 58021,
+      "fontFamily": "FaSolid",
+      "identifier": "poo"
+    },
+    "poo-storm": {
+      "codepoint": 58022,
+      "fontFamily": "FaSolid",
+      "identifier": "pooStorm"
+    },
+    "poop": {
+      "codepoint": 58023,
+      "fontFamily": "FaSolid",
+      "identifier": "poop"
+    },
+    "portrait": {
+      "codepoint": 58024,
+      "fontFamily": "FaSolid",
+      "identifier": "portrait"
+    },
+    "pound-sign": {
+      "codepoint": 58025,
+      "fontFamily": "FaSolid",
+      "identifier": "poundSign"
+    },
+    "power-off": {
+      "codepoint": 58026,
+      "fontFamily": "FaSolid",
+      "identifier": "powerOff"
+    },
+    "pray": {
+      "codepoint": 58027,
+      "fontFamily": "FaSolid",
+      "identifier": "pray"
+    },
+    "praying-hands": {
+      "codepoint": 58028,
+      "fontFamily": "FaSolid",
+      "identifier": "prayingHands"
+    },
+    "prescription": {
+      "codepoint": 58029,
+      "fontFamily": "FaSolid",
+      "identifier": "prescription"
+    },
+    "prescription-bottle": {
+      "codepoint": 58030,
+      "fontFamily": "FaSolid",
+      "identifier": "prescriptionBottle"
+    },
+    "prescription-bottle-alt": {
+      "codepoint": 58031,
+      "fontFamily": "FaSolid",
+      "identifier": "prescriptionBottleAlt"
+    },
+    "print": {
+      "codepoint": 58032,
+      "fontFamily": "FaSolid",
+      "identifier": "print"
+    },
+    "procedures": {
+      "codepoint": 58033,
+      "fontFamily": "FaSolid",
+      "identifier": "procedures"
+    },
+    "project-diagram": {
+      "codepoint": 58034,
+      "fontFamily": "FaSolid",
+      "identifier": "projectDiagram"
+    },
+    "pump-medical": {
+      "codepoint": 58035,
+      "fontFamily": "FaSolid",
+      "identifier": "pumpMedical"
+    },
+    "pump-soap": {
+      "codepoint": 58036,
+      "fontFamily": "FaSolid",
+      "identifier": "pumpSoap"
+    },
+    "puzzle-piece": {
+      "codepoint": 58037,
+      "fontFamily": "FaSolid",
+      "identifier": "puzzlePiece"
+    },
+    "qrcode": {
+      "codepoint": 58038,
+      "fontFamily": "FaSolid",
+      "identifier": "qrcode"
+    },
+    "question": {
+      "codepoint": 58039,
+      "fontFamily": "FaSolid",
+      "identifier": "question"
+    },
+    "question-circle": {
+      "codepoint": 58040,
+      "fontFamily": "FaSolid",
+      "identifier": "questionCircle"
+    },
+    "quidditch": {
+      "codepoint": 58041,
+      "fontFamily": "FaSolid",
+      "identifier": "quidditch"
+    },
+    "quote-left": {
+      "codepoint": 58042,
+      "fontFamily": "FaSolid",
+      "identifier": "quoteLeft"
+    },
+    "quote-right": {
+      "codepoint": 58043,
+      "fontFamily": "FaSolid",
+      "identifier": "quoteRight"
+    },
+    "quran": {
+      "codepoint": 58044,
+      "fontFamily": "FaSolid",
+      "identifier": "quran"
+    },
+    "radiation": {
+      "codepoint": 58045,
+      "fontFamily": "FaSolid",
+      "identifier": "radiation"
+    },
+    "radiation-alt": {
+      "codepoint": 58046,
+      "fontFamily": "FaSolid",
+      "identifier": "radiationAlt"
+    },
+    "rainbow": {
+      "codepoint": 58047,
+      "fontFamily": "FaSolid",
+      "identifier": "rainbow"
+    },
+    "random": {
+      "codepoint": 58048,
+      "fontFamily": "FaSolid",
+      "identifier": "random"
+    },
+    "receipt": {
+      "codepoint": 58049,
+      "fontFamily": "FaSolid",
+      "identifier": "receipt"
+    },
+    "record-vinyl": {
+      "codepoint": 58050,
+      "fontFamily": "FaSolid",
+      "identifier": "recordVinyl"
+    },
+    "recycle": {
+      "codepoint": 58051,
+      "fontFamily": "FaSolid",
+      "identifier": "recycle"
+    },
+    "redo": {
+      "codepoint": 58052,
+      "fontFamily": "FaSolid",
+      "identifier": "redo"
+    },
+    "redo-alt": {
+      "codepoint": 58053,
+      "fontFamily": "FaSolid",
+      "identifier": "redoAlt"
+    },
+    "registered": {
+      "codepoint": 58054,
+      "fontFamily": "FaSolid",
+      "identifier": "registered"
+    },
+    "remove-format": {
+      "codepoint": 58055,
+      "fontFamily": "FaSolid",
+      "identifier": "removeFormat"
+    },
+    "reply": {
+      "codepoint": 58056,
+      "fontFamily": "FaSolid",
+      "identifier": "reply"
+    },
+    "reply-all": {
+      "codepoint": 58057,
+      "fontFamily": "FaSolid",
+      "identifier": "replyAll"
+    },
+    "republican": {
+      "codepoint": 58058,
+      "fontFamily": "FaSolid",
+      "identifier": "republican"
+    },
+    "restroom": {
+      "codepoint": 58059,
+      "fontFamily": "FaSolid",
+      "identifier": "restroom"
+    },
+    "retweet": {
+      "codepoint": 58060,
+      "fontFamily": "FaSolid",
+      "identifier": "retweet"
+    },
+    "ribbon": {
+      "codepoint": 58061,
+      "fontFamily": "FaSolid",
+      "identifier": "ribbon"
+    },
+    "ring": {
+      "codepoint": 58062,
+      "fontFamily": "FaSolid",
+      "identifier": "ring"
+    },
+    "road": {
+      "codepoint": 58063,
+      "fontFamily": "FaSolid",
+      "identifier": "road"
+    },
+    "robot": {
+      "codepoint": 58064,
+      "fontFamily": "FaSolid",
+      "identifier": "robot"
+    },
+    "rocket": {
+      "codepoint": 58065,
+      "fontFamily": "FaSolid",
+      "identifier": "rocket"
+    },
+    "route": {
+      "codepoint": 58066,
+      "fontFamily": "FaSolid",
+      "identifier": "route"
+    },
+    "rss": {
+      "codepoint": 58067,
+      "fontFamily": "FaSolid",
+      "identifier": "rss"
+    },
+    "rss-square": {
+      "codepoint": 58068,
+      "fontFamily": "FaSolid",
+      "identifier": "rssSquare"
+    },
+    "ruble-sign": {
+      "codepoint": 58069,
+      "fontFamily": "FaSolid",
+      "identifier": "rubleSign"
+    },
+    "ruler": {
+      "codepoint": 58070,
+      "fontFamily": "FaSolid",
+      "identifier": "ruler"
+    },
+    "ruler-combined": {
+      "codepoint": 58071,
+      "fontFamily": "FaSolid",
+      "identifier": "rulerCombined"
+    },
+    "ruler-horizontal": {
+      "codepoint": 58072,
+      "fontFamily": "FaSolid",
+      "identifier": "rulerHorizontal"
+    },
+    "ruler-vertical": {
+      "codepoint": 58073,
+      "fontFamily": "FaSolid",
+      "identifier": "rulerVertical"
+    },
+    "running": {
+      "codepoint": 58074,
+      "fontFamily": "FaSolid",
+      "identifier": "running"
+    },
+    "rupee-sign": {
+      "codepoint": 58075,
+      "fontFamily": "FaSolid",
+      "identifier": "rupeeSign"
+    },
+    "sad-cry": {
+      "codepoint": 58076,
+      "fontFamily": "FaSolid",
+      "identifier": "sadCry"
+    },
+    "sad-tear": {
+      "codepoint": 58077,
+      "fontFamily": "FaSolid",
+      "identifier": "sadTear"
+    },
+    "satellite": {
+      "codepoint": 58078,
+      "fontFamily": "FaSolid",
+      "identifier": "satellite"
+    },
+    "satellite-dish": {
+      "codepoint": 58079,
+      "fontFamily": "FaSolid",
+      "identifier": "satelliteDish"
+    },
+    "save": {
+      "codepoint": 58080,
+      "fontFamily": "FaSolid",
+      "identifier": "save"
+    },
+    "school": {
+      "codepoint": 58081,
+      "fontFamily": "FaSolid",
+      "identifier": "school"
+    },
+    "screwdriver": {
+      "codepoint": 58082,
+      "fontFamily": "FaSolid",
+      "identifier": "screwdriver"
+    },
+    "scroll": {
+      "codepoint": 58083,
+      "fontFamily": "FaSolid",
+      "identifier": "scroll"
+    },
+    "sd-card": {
+      "codepoint": 58084,
+      "fontFamily": "FaSolid",
+      "identifier": "sdCard"
+    },
+    "search": {
+      "codepoint": 58085,
+      "fontFamily": "FaSolid",
+      "identifier": "search"
+    },
+    "search-dollar": {
+      "codepoint": 58086,
+      "fontFamily": "FaSolid",
+      "identifier": "searchDollar"
+    },
+    "search-location": {
+      "codepoint": 58087,
+      "fontFamily": "FaSolid",
+      "identifier": "searchLocation"
+    },
+    "search-minus": {
+      "codepoint": 58088,
+      "fontFamily": "FaSolid",
+      "identifier": "searchMinus"
+    },
+    "search-plus": {
+      "codepoint": 58089,
+      "fontFamily": "FaSolid",
+      "identifier": "searchPlus"
+    },
+    "seedling": {
+      "codepoint": 58090,
+      "fontFamily": "FaSolid",
+      "identifier": "seedling"
+    },
+    "server": {
+      "codepoint": 58091,
+      "fontFamily": "FaSolid",
+      "identifier": "server"
+    },
+    "shapes": {
+      "codepoint": 58092,
+      "fontFamily": "FaSolid",
+      "identifier": "shapes"
+    },
+    "share": {
+      "codepoint": 58093,
+      "fontFamily": "FaSolid",
+      "identifier": "share"
+    },
+    "share-alt": {
+      "codepoint": 58094,
+      "fontFamily": "FaSolid",
+      "identifier": "shareAlt"
+    },
+    "share-alt-square": {
+      "codepoint": 58095,
+      "fontFamily": "FaSolid",
+      "identifier": "shareAltSquare"
+    },
+    "share-square": {
+      "codepoint": 58096,
+      "fontFamily": "FaSolid",
+      "identifier": "shareSquare"
+    },
+    "shekel-sign": {
+      "codepoint": 58097,
+      "fontFamily": "FaSolid",
+      "identifier": "shekelSign"
+    },
+    "shield-alt": {
+      "codepoint": 58098,
+      "fontFamily": "FaSolid",
+      "identifier": "shieldAlt"
+    },
+    "shield-virus": {
+      "codepoint": 58099,
+      "fontFamily": "FaSolid",
+      "identifier": "shieldVirus"
+    },
+    "ship": {
+      "codepoint": 58100,
+      "fontFamily": "FaSolid",
+      "identifier": "ship"
+    },
+    "shipping-fast": {
+      "codepoint": 58101,
+      "fontFamily": "FaSolid",
+      "identifier": "shippingFast"
+    },
+    "shoe-prints": {
+      "codepoint": 58102,
+      "fontFamily": "FaSolid",
+      "identifier": "shoePrints"
+    },
+    "shopping-bag": {
+      "codepoint": 58103,
+      "fontFamily": "FaSolid",
+      "identifier": "shoppingBag"
+    },
+    "shopping-basket": {
+      "codepoint": 58104,
+      "fontFamily": "FaSolid",
+      "identifier": "shoppingBasket"
+    },
+    "shopping-cart": {
+      "codepoint": 58105,
+      "fontFamily": "FaSolid",
+      "identifier": "shoppingCart"
+    },
+    "shower": {
+      "codepoint": 58106,
+      "fontFamily": "FaSolid",
+      "identifier": "shower"
+    },
+    "shuttle-van": {
+      "codepoint": 58107,
+      "fontFamily": "FaSolid",
+      "identifier": "shuttleVan"
+    },
+    "sigma": {
+      "codepoint": 58108,
+      "fontFamily": "FaSolid",
+      "identifier": "sigma"
+    },
+    "sign": {
+      "codepoint": 58109,
+      "fontFamily": "FaSolid",
+      "identifier": "sign"
+    },
+    "sign-in-alt": {
+      "codepoint": 58110,
+      "fontFamily": "FaSolid",
+      "identifier": "signInAlt"
+    },
+    "sign-language": {
+      "codepoint": 58111,
+      "fontFamily": "FaSolid",
+      "identifier": "signLanguage"
+    },
+    "sign-out-alt": {
+      "codepoint": 58112,
+      "fontFamily": "FaSolid",
+      "identifier": "signOutAlt"
+    },
+    "signal": {
+      "codepoint": 58113,
+      "fontFamily": "FaSolid",
+      "identifier": "signal"
+    },
+    "signal-alt": {
+      "codepoint": 58114,
+      "fontFamily": "FaSolid",
+      "identifier": "signalAlt"
+    },
+    "signal-alt-slash": {
+      "codepoint": 58115,
+      "fontFamily": "FaSolid",
+      "identifier": "signalAltSlash"
+    },
+    "signal-slash": {
+      "codepoint": 58116,
+      "fontFamily": "FaSolid",
+      "identifier": "signalSlash"
+    },
+    "signature": {
+      "codepoint": 58117,
+      "fontFamily": "FaSolid",
+      "identifier": "signature"
+    },
+    "sim-card": {
+      "codepoint": 58118,
+      "fontFamily": "FaSolid",
+      "identifier": "simCard"
+    },
+    "sink": {
+      "codepoint": 58119,
+      "fontFamily": "FaSolid",
+      "identifier": "sink"
+    },
+    "sitemap": {
+      "codepoint": 58120,
+      "fontFamily": "FaSolid",
+      "identifier": "sitemap"
+    },
+    "skating": {
+      "codepoint": 58121,
+      "fontFamily": "FaSolid",
+      "identifier": "skating"
+    },
+    "skiing": {
+      "codepoint": 58122,
+      "fontFamily": "FaSolid",
+      "identifier": "skiing"
+    },
+    "skiing-nordic": {
+      "codepoint": 58123,
+      "fontFamily": "FaSolid",
+      "identifier": "skiingNordic"
+    },
+    "skull": {
+      "codepoint": 58124,
+      "fontFamily": "FaSolid",
+      "identifier": "skull"
+    },
+    "skull-crossbones": {
+      "codepoint": 58125,
+      "fontFamily": "FaSolid",
+      "identifier": "skullCrossbones"
+    },
+    "slash": {
+      "codepoint": 58126,
+      "fontFamily": "FaSolid",
+      "identifier": "slash"
+    },
+    "sleigh": {
+      "codepoint": 58127,
+      "fontFamily": "FaSolid",
+      "identifier": "sleigh"
+    },
+    "sliders-h": {
+      "codepoint": 58128,
+      "fontFamily": "FaSolid",
+      "identifier": "slidersH"
+    },
+    "smile": {
+      "codepoint": 58129,
+      "fontFamily": "FaSolid",
+      "identifier": "smile"
+    },
+    "smile-beam": {
+      "codepoint": 58130,
+      "fontFamily": "FaSolid",
+      "identifier": "smileBeam"
+    },
+    "smile-wink": {
+      "codepoint": 58131,
+      "fontFamily": "FaSolid",
+      "identifier": "smileWink"
+    },
+    "smog": {
+      "codepoint": 58132,
+      "fontFamily": "FaSolid",
+      "identifier": "smog"
+    },
+    "smoking": {
+      "codepoint": 58133,
+      "fontFamily": "FaSolid",
+      "identifier": "smoking"
+    },
+    "smoking-ban": {
+      "codepoint": 58134,
+      "fontFamily": "FaSolid",
+      "identifier": "smokingBan"
+    },
+    "sms": {
+      "codepoint": 58135,
+      "fontFamily": "FaSolid",
+      "identifier": "sms"
+    },
+    "snowboarding": {
+      "codepoint": 58136,
+      "fontFamily": "FaSolid",
+      "identifier": "snowboarding"
+    },
+    "snowflake": {
+      "codepoint": 58137,
+      "fontFamily": "FaSolid",
+      "identifier": "snowflake"
+    },
+    "snowman": {
+      "codepoint": 58138,
+      "fontFamily": "FaSolid",
+      "identifier": "snowman"
+    },
+    "snowplow": {
+      "codepoint": 58139,
+      "fontFamily": "FaSolid",
+      "identifier": "snowplow"
+    },
+    "soap": {
+      "codepoint": 58140,
+      "fontFamily": "FaSolid",
+      "identifier": "soap"
+    },
+    "socks": {
+      "codepoint": 58141,
+      "fontFamily": "FaSolid",
+      "identifier": "socks"
+    },
+    "solar-panel": {
+      "codepoint": 58142,
+      "fontFamily": "FaSolid",
+      "identifier": "solarPanel"
+    },
+    "sort": {
+      "codepoint": 58143,
+      "fontFamily": "FaSolid",
+      "identifier": "sort"
+    },
+    "sort-alpha-down": {
+      "codepoint": 58144,
+      "fontFamily": "FaSolid",
+      "identifier": "sortAlphaDown"
+    },
+    "sort-alpha-down-alt": {
+      "codepoint": 58145,
+      "fontFamily": "FaSolid",
+      "identifier": "sortAlphaDownAlt"
+    },
+    "sort-alpha-up": {
+      "codepoint": 58146,
+      "fontFamily": "FaSolid",
+      "identifier": "sortAlphaUp"
+    },
+    "sort-alpha-up-alt": {
+      "codepoint": 58147,
+      "fontFamily": "FaSolid",
+      "identifier": "sortAlphaUpAlt"
+    },
+    "sort-amount-down": {
+      "codepoint": 58148,
+      "fontFamily": "FaSolid",
+      "identifier": "sortAmountDown"
+    },
+    "sort-amount-down-alt": {
+      "codepoint": 58149,
+      "fontFamily": "FaSolid",
+      "identifier": "sortAmountDownAlt"
+    },
+    "sort-amount-up": {
+      "codepoint": 58150,
+      "fontFamily": "FaSolid",
+      "identifier": "sortAmountUp"
+    },
+    "sort-amount-up-alt": {
+      "codepoint": 58151,
+      "fontFamily": "FaSolid",
+      "identifier": "sortAmountUpAlt"
+    },
+    "sort-down": {
+      "codepoint": 58152,
+      "fontFamily": "FaSolid",
+      "identifier": "sortDown"
+    },
+    "sort-numeric-down": {
+      "codepoint": 58153,
+      "fontFamily": "FaSolid",
+      "identifier": "sortNumericDown"
+    },
+    "sort-numeric-down-alt": {
+      "codepoint": 58154,
+      "fontFamily": "FaSolid",
+      "identifier": "sortNumericDownAlt"
+    },
+    "sort-numeric-up": {
+      "codepoint": 58155,
+      "fontFamily": "FaSolid",
+      "identifier": "sortNumericUp"
+    },
+    "sort-numeric-up-alt": {
+      "codepoint": 58156,
+      "fontFamily": "FaSolid",
+      "identifier": "sortNumericUpAlt"
+    },
+    "sort-up": {
+      "codepoint": 58157,
+      "fontFamily": "FaSolid",
+      "identifier": "sortUp"
+    },
+    "spa": {
+      "codepoint": 58158,
+      "fontFamily": "FaSolid",
+      "identifier": "spa"
+    },
+    "space-shuttle": {
+      "codepoint": 58159,
+      "fontFamily": "FaSolid",
+      "identifier": "spaceShuttle"
+    },
+    "spell-check": {
+      "codepoint": 58160,
+      "fontFamily": "FaSolid",
+      "identifier": "spellCheck"
+    },
+    "spider": {
+      "codepoint": 58161,
+      "fontFamily": "FaSolid",
+      "identifier": "spider"
+    },
+    "spinner": {
+      "codepoint": 58162,
+      "fontFamily": "FaSolid",
+      "identifier": "spinner"
+    },
+    "splotch": {
+      "codepoint": 58163,
+      "fontFamily": "FaSolid",
+      "identifier": "splotch"
+    },
+    "spray-can": {
+      "codepoint": 58164,
+      "fontFamily": "FaSolid",
+      "identifier": "sprayCan"
+    },
+    "square": {
+      "codepoint": 58165,
+      "fontFamily": "FaSolid",
+      "identifier": "square"
+    },
+    "square-full": {
+      "codepoint": 58166,
+      "fontFamily": "FaSolid",
+      "identifier": "squareFull"
+    },
+    "square-root": {
+      "codepoint": 58167,
+      "fontFamily": "FaSolid",
+      "identifier": "squareRoot"
+    },
+    "square-root-alt": {
+      "codepoint": 58168,
+      "fontFamily": "FaSolid",
+      "identifier": "squareRootAlt"
+    },
+    "stamp": {
+      "codepoint": 58169,
+      "fontFamily": "FaSolid",
+      "identifier": "stamp"
+    },
+    "star": {
+      "codepoint": 58170,
+      "fontFamily": "FaSolid",
+      "identifier": "star"
+    },
+    "star-and-crescent": {
+      "codepoint": 58171,
+      "fontFamily": "FaSolid",
+      "identifier": "starAndCrescent"
+    },
+    "star-half": {
+      "codepoint": 58172,
+      "fontFamily": "FaSolid",
+      "identifier": "starHalf"
+    },
+    "star-half-alt": {
+      "codepoint": 58173,
+      "fontFamily": "FaSolid",
+      "identifier": "starHalfAlt"
+    },
+    "star-of-david": {
+      "codepoint": 58174,
+      "fontFamily": "FaSolid",
+      "identifier": "starOfDavid"
+    },
+    "star-of-life": {
+      "codepoint": 58175,
+      "fontFamily": "FaSolid",
+      "identifier": "starOfLife"
+    },
+    "step-backward": {
+      "codepoint": 58176,
+      "fontFamily": "FaSolid",
+      "identifier": "stepBackward"
+    },
+    "step-forward": {
+      "codepoint": 58177,
+      "fontFamily": "FaSolid",
+      "identifier": "stepForward"
+    },
+    "stethoscope": {
+      "codepoint": 58178,
+      "fontFamily": "FaSolid",
+      "identifier": "stethoscope"
+    },
+    "sticky-note": {
+      "codepoint": 58179,
+      "fontFamily": "FaSolid",
+      "identifier": "stickyNote"
+    },
+    "stop": {
+      "codepoint": 58180,
+      "fontFamily": "FaSolid",
+      "identifier": "stop"
+    },
+    "stop-circle": {
+      "codepoint": 58181,
+      "fontFamily": "FaSolid",
+      "identifier": "stopCircle"
+    },
+    "stopwatch": {
+      "codepoint": 58182,
+      "fontFamily": "FaSolid",
+      "identifier": "stopwatch"
+    },
+    "stopwatch-20": {
+      "codepoint": 58183,
+      "fontFamily": "FaSolid",
+      "identifier": "stopwatch20"
+    },
+    "store": {
+      "codepoint": 58184,
+      "fontFamily": "FaSolid",
+      "identifier": "store"
+    },
+    "store-alt": {
+      "codepoint": 58185,
+      "fontFamily": "FaSolid",
+      "identifier": "storeAlt"
+    },
+    "store-alt-slash": {
+      "codepoint": 58186,
+      "fontFamily": "FaSolid",
+      "identifier": "storeAltSlash"
+    },
+    "store-slash": {
+      "codepoint": 58187,
+      "fontFamily": "FaSolid",
+      "identifier": "storeSlash"
+    },
+    "stream": {
+      "codepoint": 58188,
+      "fontFamily": "FaSolid",
+      "identifier": "stream"
+    },
+    "street-view": {
+      "codepoint": 58189,
+      "fontFamily": "FaSolid",
+      "identifier": "streetView"
+    },
+    "strikethrough": {
+      "codepoint": 58190,
+      "fontFamily": "FaSolid",
+      "identifier": "strikethrough"
+    },
+    "stroopwafel": {
+      "codepoint": 58191,
+      "fontFamily": "FaSolid",
+      "identifier": "stroopwafel"
+    },
+    "subscript": {
+      "codepoint": 58192,
+      "fontFamily": "FaSolid",
+      "identifier": "subscript"
+    },
+    "subway": {
+      "codepoint": 58193,
+      "fontFamily": "FaSolid",
+      "identifier": "subway"
+    },
+    "suitcase": {
+      "codepoint": 58194,
+      "fontFamily": "FaSolid",
+      "identifier": "suitcase"
+    },
+    "suitcase-rolling": {
+      "codepoint": 58195,
+      "fontFamily": "FaSolid",
+      "identifier": "suitcaseRolling"
+    },
+    "sun": {
+      "codepoint": 58196,
+      "fontFamily": "FaSolid",
+      "identifier": "sun"
+    },
+    "superscript": {
+      "codepoint": 58197,
+      "fontFamily": "FaSolid",
+      "identifier": "superscript"
+    },
+    "surprise": {
+      "codepoint": 58198,
+      "fontFamily": "FaSolid",
+      "identifier": "surprise"
+    },
+    "swatchbook": {
+      "codepoint": 58199,
+      "fontFamily": "FaSolid",
+      "identifier": "swatchbook"
+    },
+    "swimmer": {
+      "codepoint": 58200,
+      "fontFamily": "FaSolid",
+      "identifier": "swimmer"
+    },
+    "swimming-pool": {
+      "codepoint": 58201,
+      "fontFamily": "FaSolid",
+      "identifier": "swimmingPool"
+    },
+    "synagogue": {
+      "codepoint": 58202,
+      "fontFamily": "FaSolid",
+      "identifier": "synagogue"
+    },
+    "sync": {
+      "codepoint": 58203,
+      "fontFamily": "FaSolid",
+      "identifier": "sync_"
+    },
+    "sync-alt": {
+      "codepoint": 58204,
+      "fontFamily": "FaSolid",
+      "identifier": "syncAlt"
+    },
+    "syringe": {
+      "codepoint": 58205,
+      "fontFamily": "FaSolid",
+      "identifier": "syringe"
+    },
+    "table": {
+      "codepoint": 58206,
+      "fontFamily": "FaSolid",
+      "identifier": "table"
+    },
+    "table-tennis": {
+      "codepoint": 58207,
+      "fontFamily": "FaSolid",
+      "identifier": "tableTennis"
+    },
+    "tablet": {
+      "codepoint": 58208,
+      "fontFamily": "FaSolid",
+      "identifier": "tablet"
+    },
+    "tablet-alt": {
+      "codepoint": 58209,
+      "fontFamily": "FaSolid",
+      "identifier": "tabletAlt"
+    },
+    "tablets": {
+      "codepoint": 58210,
+      "fontFamily": "FaSolid",
+      "identifier": "tablets"
+    },
+    "tachometer-alt": {
+      "codepoint": 58211,
+      "fontFamily": "FaSolid",
+      "identifier": "tachometerAlt"
+    },
+    "tag": {
+      "codepoint": 58212,
+      "fontFamily": "FaSolid",
+      "identifier": "tag"
+    },
+    "tags": {
+      "codepoint": 58213,
+      "fontFamily": "FaSolid",
+      "identifier": "tags"
+    },
+    "tally": {
+      "codepoint": 58214,
+      "fontFamily": "FaSolid",
+      "identifier": "tally"
+    },
+    "tape": {
+      "codepoint": 58215,
+      "fontFamily": "FaSolid",
+      "identifier": "tape"
+    },
+    "tasks": {
+      "codepoint": 58216,
+      "fontFamily": "FaSolid",
+      "identifier": "tasks"
+    },
+    "taxi": {
+      "codepoint": 58217,
+      "fontFamily": "FaSolid",
+      "identifier": "taxi"
+    },
+    "teeth": {
+      "codepoint": 58218,
+      "fontFamily": "FaSolid",
+      "identifier": "teeth"
+    },
+    "teeth-open": {
+      "codepoint": 58219,
+      "fontFamily": "FaSolid",
+      "identifier": "teethOpen"
+    },
+    "temperature-high": {
+      "codepoint": 58220,
+      "fontFamily": "FaSolid",
+      "identifier": "temperatureHigh"
+    },
+    "temperature-low": {
+      "codepoint": 58221,
+      "fontFamily": "FaSolid",
+      "identifier": "temperatureLow"
+    },
+    "tenge": {
+      "codepoint": 58222,
+      "fontFamily": "FaSolid",
+      "identifier": "tenge"
+    },
+    "terminal": {
+      "codepoint": 58223,
+      "fontFamily": "FaSolid",
+      "identifier": "terminal"
+    },
+    "text-height": {
+      "codepoint": 58224,
+      "fontFamily": "FaSolid",
+      "identifier": "textHeight"
+    },
+    "text-width": {
+      "codepoint": 58225,
+      "fontFamily": "FaSolid",
+      "identifier": "textWidth"
+    },
+    "th": {
+      "codepoint": 58226,
+      "fontFamily": "FaSolid",
+      "identifier": "th"
+    },
+    "th-large": {
+      "codepoint": 58227,
+      "fontFamily": "FaSolid",
+      "identifier": "thLarge"
+    },
+    "th-list": {
+      "codepoint": 58228,
+      "fontFamily": "FaSolid",
+      "identifier": "thList"
+    },
+    "theater-masks": {
+      "codepoint": 58229,
+      "fontFamily": "FaSolid",
+      "identifier": "theaterMasks"
+    },
+    "thermometer": {
+      "codepoint": 58230,
+      "fontFamily": "FaSolid",
+      "identifier": "thermometer"
+    },
+    "thermometer-empty": {
+      "codepoint": 58231,
+      "fontFamily": "FaSolid",
+      "identifier": "thermometerEmpty"
+    },
+    "thermometer-full": {
+      "codepoint": 58232,
+      "fontFamily": "FaSolid",
+      "identifier": "thermometerFull"
+    },
+    "thermometer-half": {
+      "codepoint": 58233,
+      "fontFamily": "FaSolid",
+      "identifier": "thermometerHalf"
+    },
+    "thermometer-quarter": {
+      "codepoint": 58234,
+      "fontFamily": "FaSolid",
+      "identifier": "thermometerQuarter"
+    },
+    "thermometer-three-quarters": {
+      "codepoint": 58235,
+      "fontFamily": "FaSolid",
+      "identifier": "thermometerThreeQuarters"
+    },
+    "theta": {
+      "codepoint": 58236,
+      "fontFamily": "FaSolid",
+      "identifier": "theta"
+    },
+    "thumbs-down": {
+      "codepoint": 58237,
+      "fontFamily": "FaSolid",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-up": {
+      "codepoint": 58238,
+      "fontFamily": "FaSolid",
+      "identifier": "thumbsUp"
+    },
+    "thumbtack": {
+      "codepoint": 58239,
+      "fontFamily": "FaSolid",
+      "identifier": "thumbtack"
+    },
+    "ticket-alt": {
+      "codepoint": 58240,
+      "fontFamily": "FaSolid",
+      "identifier": "ticketAlt"
+    },
+    "tilde": {
+      "codepoint": 58241,
+      "fontFamily": "FaSolid",
+      "identifier": "tilde"
+    },
+    "times": {
+      "codepoint": 58242,
+      "fontFamily": "FaSolid",
+      "identifier": "times"
+    },
+    "times-circle": {
+      "codepoint": 58243,
+      "fontFamily": "FaSolid",
+      "identifier": "timesCircle"
+    },
+    "tint": {
+      "codepoint": 58244,
+      "fontFamily": "FaSolid",
+      "identifier": "tint"
+    },
+    "tint-slash": {
+      "codepoint": 58245,
+      "fontFamily": "FaSolid",
+      "identifier": "tintSlash"
+    },
+    "tired": {
+      "codepoint": 58246,
+      "fontFamily": "FaSolid",
+      "identifier": "tired"
+    },
+    "toggle-off": {
+      "codepoint": 58247,
+      "fontFamily": "FaSolid",
+      "identifier": "toggleOff"
+    },
+    "toggle-on": {
+      "codepoint": 58248,
+      "fontFamily": "FaSolid",
+      "identifier": "toggleOn"
+    },
+    "toilet": {
+      "codepoint": 58249,
+      "fontFamily": "FaSolid",
+      "identifier": "toilet"
+    },
+    "toilet-paper": {
+      "codepoint": 58250,
+      "fontFamily": "FaSolid",
+      "identifier": "toiletPaper"
+    },
+    "toilet-paper-slash": {
+      "codepoint": 58251,
+      "fontFamily": "FaSolid",
+      "identifier": "toiletPaperSlash"
+    },
+    "toolbox": {
+      "codepoint": 58252,
+      "fontFamily": "FaSolid",
+      "identifier": "toolbox"
+    },
+    "tools": {
+      "codepoint": 58253,
+      "fontFamily": "FaSolid",
+      "identifier": "tools"
+    },
+    "tooth": {
+      "codepoint": 58254,
+      "fontFamily": "FaSolid",
+      "identifier": "tooth"
+    },
+    "torah": {
+      "codepoint": 58255,
+      "fontFamily": "FaSolid",
+      "identifier": "torah"
+    },
+    "torii-gate": {
+      "codepoint": 58256,
+      "fontFamily": "FaSolid",
+      "identifier": "toriiGate"
+    },
+    "tractor": {
+      "codepoint": 58257,
+      "fontFamily": "FaSolid",
+      "identifier": "tractor"
+    },
+    "trademark": {
+      "codepoint": 58258,
+      "fontFamily": "FaSolid",
+      "identifier": "trademark"
+    },
+    "traffic-light": {
+      "codepoint": 58259,
+      "fontFamily": "FaSolid",
+      "identifier": "trafficLight"
+    },
+    "trailer": {
+      "codepoint": 58260,
+      "fontFamily": "FaSolid",
+      "identifier": "trailer"
+    },
+    "train": {
+      "codepoint": 58261,
+      "fontFamily": "FaSolid",
+      "identifier": "train"
+    },
+    "tram": {
+      "codepoint": 58262,
+      "fontFamily": "FaSolid",
+      "identifier": "tram"
+    },
+    "transgender": {
+      "codepoint": 58263,
+      "fontFamily": "FaSolid",
+      "identifier": "transgender"
+    },
+    "transgender-alt": {
+      "codepoint": 58264,
+      "fontFamily": "FaSolid",
+      "identifier": "transgenderAlt"
+    },
+    "trash": {
+      "codepoint": 58265,
+      "fontFamily": "FaSolid",
+      "identifier": "trash"
+    },
+    "trash-alt": {
+      "codepoint": 58266,
+      "fontFamily": "FaSolid",
+      "identifier": "trashAlt"
+    },
+    "trash-restore": {
+      "codepoint": 58267,
+      "fontFamily": "FaSolid",
+      "identifier": "trashRestore"
+    },
+    "trash-restore-alt": {
+      "codepoint": 58268,
+      "fontFamily": "FaSolid",
+      "identifier": "trashRestoreAlt"
+    },
+    "tree": {
+      "codepoint": 58269,
+      "fontFamily": "FaSolid",
+      "identifier": "tree"
+    },
+    "trophy": {
+      "codepoint": 58270,
+      "fontFamily": "FaSolid",
+      "identifier": "trophy"
+    },
+    "truck": {
+      "codepoint": 58271,
+      "fontFamily": "FaSolid",
+      "identifier": "truck"
+    },
+    "truck-loading": {
+      "codepoint": 58272,
+      "fontFamily": "FaSolid",
+      "identifier": "truckLoading"
+    },
+    "truck-monster": {
+      "codepoint": 58273,
+      "fontFamily": "FaSolid",
+      "identifier": "truckMonster"
+    },
+    "truck-moving": {
+      "codepoint": 58274,
+      "fontFamily": "FaSolid",
+      "identifier": "truckMoving"
+    },
+    "truck-pickup": {
+      "codepoint": 58275,
+      "fontFamily": "FaSolid",
+      "identifier": "truckPickup"
+    },
+    "tshirt": {
+      "codepoint": 58276,
+      "fontFamily": "FaSolid",
+      "identifier": "tshirt"
+    },
+    "tty": {
+      "codepoint": 58277,
+      "fontFamily": "FaSolid",
+      "identifier": "tty"
+    },
+    "tv": {
+      "codepoint": 58278,
+      "fontFamily": "FaSolid",
+      "identifier": "tv"
+    },
+    "umbrella": {
+      "codepoint": 58279,
+      "fontFamily": "FaSolid",
+      "identifier": "umbrella"
+    },
+    "umbrella-beach": {
+      "codepoint": 58280,
+      "fontFamily": "FaSolid",
+      "identifier": "umbrellaBeach"
+    },
+    "underline": {
+      "codepoint": 58281,
+      "fontFamily": "FaSolid",
+      "identifier": "underline"
+    },
+    "undo": {
+      "codepoint": 58282,
+      "fontFamily": "FaSolid",
+      "identifier": "undo"
+    },
+    "undo-alt": {
+      "codepoint": 58283,
+      "fontFamily": "FaSolid",
+      "identifier": "undoAlt"
+    },
+    "union": {
+      "codepoint": 58284,
+      "fontFamily": "FaSolid",
+      "identifier": "union"
+    },
+    "universal-access": {
+      "codepoint": 58285,
+      "fontFamily": "FaSolid",
+      "identifier": "universalAccess"
+    },
+    "university": {
+      "codepoint": 58286,
+      "fontFamily": "FaSolid",
+      "identifier": "university"
+    },
+    "unlink": {
+      "codepoint": 58287,
+      "fontFamily": "FaSolid",
+      "identifier": "unlink"
+    },
+    "unlock": {
+      "codepoint": 58288,
+      "fontFamily": "FaSolid",
+      "identifier": "unlock"
+    },
+    "unlock-alt": {
+      "codepoint": 58289,
+      "fontFamily": "FaSolid",
+      "identifier": "unlockAlt"
+    },
+    "upload": {
+      "codepoint": 58290,
+      "fontFamily": "FaSolid",
+      "identifier": "upload"
+    },
+    "user": {
+      "codepoint": 58291,
+      "fontFamily": "FaSolid",
+      "identifier": "user"
+    },
+    "user-alt": {
+      "codepoint": 58292,
+      "fontFamily": "FaSolid",
+      "identifier": "userAlt"
+    },
+    "user-alt-slash": {
+      "codepoint": 58293,
+      "fontFamily": "FaSolid",
+      "identifier": "userAltSlash"
+    },
+    "user-astronaut": {
+      "codepoint": 58294,
+      "fontFamily": "FaSolid",
+      "identifier": "userAstronaut"
+    },
+    "user-check": {
+      "codepoint": 58295,
+      "fontFamily": "FaSolid",
+      "identifier": "userCheck"
+    },
+    "user-circle": {
+      "codepoint": 58296,
+      "fontFamily": "FaSolid",
+      "identifier": "userCircle"
+    },
+    "user-clock": {
+      "codepoint": 58297,
+      "fontFamily": "FaSolid",
+      "identifier": "userClock"
+    },
+    "user-cog": {
+      "codepoint": 58298,
+      "fontFamily": "FaSolid",
+      "identifier": "userCog"
+    },
+    "user-edit": {
+      "codepoint": 58299,
+      "fontFamily": "FaSolid",
+      "identifier": "userEdit"
+    },
+    "user-friends": {
+      "codepoint": 58300,
+      "fontFamily": "FaSolid",
+      "identifier": "userFriends"
+    },
+    "user-graduate": {
+      "codepoint": 58301,
+      "fontFamily": "FaSolid",
+      "identifier": "userGraduate"
+    },
+    "user-injured": {
+      "codepoint": 58302,
+      "fontFamily": "FaSolid",
+      "identifier": "userInjured"
+    },
+    "user-lock": {
+      "codepoint": 58303,
+      "fontFamily": "FaSolid",
+      "identifier": "userLock"
+    },
+    "user-md": {
+      "codepoint": 58304,
+      "fontFamily": "FaSolid",
+      "identifier": "userMd"
+    },
+    "user-minus": {
+      "codepoint": 58305,
+      "fontFamily": "FaSolid",
+      "identifier": "userMinus"
+    },
+    "user-ninja": {
+      "codepoint": 58306,
+      "fontFamily": "FaSolid",
+      "identifier": "userNinja"
+    },
+    "user-nurse": {
+      "codepoint": 58307,
+      "fontFamily": "FaSolid",
+      "identifier": "userNurse"
+    },
+    "user-plus": {
+      "codepoint": 58308,
+      "fontFamily": "FaSolid",
+      "identifier": "userPlus"
+    },
+    "user-secret": {
+      "codepoint": 58309,
+      "fontFamily": "FaSolid",
+      "identifier": "userSecret"
+    },
+    "user-shield": {
+      "codepoint": 58310,
+      "fontFamily": "FaSolid",
+      "identifier": "userShield"
+    },
+    "user-slash": {
+      "codepoint": 58311,
+      "fontFamily": "FaSolid",
+      "identifier": "userSlash"
+    },
+    "user-tag": {
+      "codepoint": 58312,
+      "fontFamily": "FaSolid",
+      "identifier": "userTag"
+    },
+    "user-tie": {
+      "codepoint": 58313,
+      "fontFamily": "FaSolid",
+      "identifier": "userTie"
+    },
+    "user-times": {
+      "codepoint": 58314,
+      "fontFamily": "FaSolid",
+      "identifier": "userTimes"
+    },
+    "users": {
+      "codepoint": 58315,
+      "fontFamily": "FaSolid",
+      "identifier": "users"
+    },
+    "users-cog": {
+      "codepoint": 58316,
+      "fontFamily": "FaSolid",
+      "identifier": "usersCog"
+    },
+    "users-slash": {
+      "codepoint": 58317,
+      "fontFamily": "FaSolid",
+      "identifier": "usersSlash"
+    },
+    "utensil-spoon": {
+      "codepoint": 58318,
+      "fontFamily": "FaSolid",
+      "identifier": "utensilSpoon"
+    },
+    "utensils": {
+      "codepoint": 58319,
+      "fontFamily": "FaSolid",
+      "identifier": "utensils"
+    },
+    "value-absolute": {
+      "codepoint": 58320,
+      "fontFamily": "FaSolid",
+      "identifier": "valueAbsolute"
+    },
+    "vector-square": {
+      "codepoint": 58321,
+      "fontFamily": "FaSolid",
+      "identifier": "vectorSquare"
+    },
+    "venus": {
+      "codepoint": 58322,
+      "fontFamily": "FaSolid",
+      "identifier": "venus"
+    },
+    "venus-double": {
+      "codepoint": 58323,
+      "fontFamily": "FaSolid",
+      "identifier": "venusDouble"
+    },
+    "venus-mars": {
+      "codepoint": 58324,
+      "fontFamily": "FaSolid",
+      "identifier": "venusMars"
+    },
+    "vest": {
+      "codepoint": 58325,
+      "fontFamily": "FaSolid",
+      "identifier": "vest"
+    },
+    "vest-patches": {
+      "codepoint": 58326,
+      "fontFamily": "FaSolid",
+      "identifier": "vestPatches"
+    },
+    "vial": {
+      "codepoint": 58327,
+      "fontFamily": "FaSolid",
+      "identifier": "vial"
+    },
+    "vials": {
+      "codepoint": 58328,
+      "fontFamily": "FaSolid",
+      "identifier": "vials"
+    },
+    "video": {
+      "codepoint": 58329,
+      "fontFamily": "FaSolid",
+      "identifier": "video"
+    },
+    "video-slash": {
+      "codepoint": 58330,
+      "fontFamily": "FaSolid",
+      "identifier": "videoSlash"
+    },
+    "vihara": {
+      "codepoint": 58331,
+      "fontFamily": "FaSolid",
+      "identifier": "vihara"
+    },
+    "virus": {
+      "codepoint": 58332,
+      "fontFamily": "FaSolid",
+      "identifier": "virus"
+    },
+    "virus-slash": {
+      "codepoint": 58333,
+      "fontFamily": "FaSolid",
+      "identifier": "virusSlash"
+    },
+    "viruses": {
+      "codepoint": 58334,
+      "fontFamily": "FaSolid",
+      "identifier": "viruses"
+    },
+    "voicemail": {
+      "codepoint": 58335,
+      "fontFamily": "FaSolid",
+      "identifier": "voicemail"
+    },
+    "volleyball-ball": {
+      "codepoint": 58336,
+      "fontFamily": "FaSolid",
+      "identifier": "volleyballBall"
+    },
+    "volume": {
+      "codepoint": 58337,
+      "fontFamily": "FaSolid",
+      "identifier": "volume"
+    },
+    "volume-down": {
+      "codepoint": 58338,
+      "fontFamily": "FaSolid",
+      "identifier": "volumeDown"
+    },
+    "volume-mute": {
+      "codepoint": 58339,
+      "fontFamily": "FaSolid",
+      "identifier": "volumeMute"
+    },
+    "volume-off": {
+      "codepoint": 58340,
+      "fontFamily": "FaSolid",
+      "identifier": "volumeOff"
+    },
+    "volume-slash": {
+      "codepoint": 58341,
+      "fontFamily": "FaSolid",
+      "identifier": "volumeSlash"
+    },
+    "volume-up": {
+      "codepoint": 58342,
+      "fontFamily": "FaSolid",
+      "identifier": "volumeUp"
+    },
+    "vote-yea": {
+      "codepoint": 58343,
+      "fontFamily": "FaSolid",
+      "identifier": "voteYea"
+    },
+    "vr-cardboard": {
+      "codepoint": 58344,
+      "fontFamily": "FaSolid",
+      "identifier": "vrCardboard"
+    },
+    "walking": {
+      "codepoint": 58345,
+      "fontFamily": "FaSolid",
+      "identifier": "walking"
+    },
+    "wallet": {
+      "codepoint": 58346,
+      "fontFamily": "FaSolid",
+      "identifier": "wallet"
+    },
+    "warehouse": {
+      "codepoint": 58347,
+      "fontFamily": "FaSolid",
+      "identifier": "warehouse"
+    },
+    "water": {
+      "codepoint": 58348,
+      "fontFamily": "FaSolid",
+      "identifier": "water"
+    },
+    "wave-square": {
+      "codepoint": 58349,
+      "fontFamily": "FaSolid",
+      "identifier": "waveSquare"
+    },
+    "weight": {
+      "codepoint": 58350,
+      "fontFamily": "FaSolid",
+      "identifier": "weight"
+    },
+    "weight-hanging": {
+      "codepoint": 58351,
+      "fontFamily": "FaSolid",
+      "identifier": "weightHanging"
+    },
+    "wheelchair": {
+      "codepoint": 58352,
+      "fontFamily": "FaSolid",
+      "identifier": "wheelchair"
+    },
+    "wifi": {
+      "codepoint": 58353,
+      "fontFamily": "FaSolid",
+      "identifier": "wifi"
+    },
+    "wifi-slash": {
+      "codepoint": 58354,
+      "fontFamily": "FaSolid",
+      "identifier": "wifiSlash"
+    },
+    "wind": {
+      "codepoint": 58355,
+      "fontFamily": "FaSolid",
+      "identifier": "wind"
+    },
+    "window-close": {
+      "codepoint": 58356,
+      "fontFamily": "FaSolid",
+      "identifier": "windowClose"
+    },
+    "window-maximize": {
+      "codepoint": 58357,
+      "fontFamily": "FaSolid",
+      "identifier": "windowMaximize"
+    },
+    "window-minimize": {
+      "codepoint": 58358,
+      "fontFamily": "FaSolid",
+      "identifier": "windowMinimize"
+    },
+    "window-restore": {
+      "codepoint": 58359,
+      "fontFamily": "FaSolid",
+      "identifier": "windowRestore"
+    },
+    "wine-bottle": {
+      "codepoint": 58360,
+      "fontFamily": "FaSolid",
+      "identifier": "wineBottle"
+    },
+    "wine-glass": {
+      "codepoint": 58361,
+      "fontFamily": "FaSolid",
+      "identifier": "wineGlass"
+    },
+    "wine-glass-alt": {
+      "codepoint": 58362,
+      "fontFamily": "FaSolid",
+      "identifier": "wineGlassAlt"
+    },
+    "won-sign": {
+      "codepoint": 58363,
+      "fontFamily": "FaSolid",
+      "identifier": "wonSign"
+    },
+    "wrench": {
+      "codepoint": 58364,
+      "fontFamily": "FaSolid",
+      "identifier": "wrench"
+    },
+    "x-ray": {
+      "codepoint": 58365,
+      "fontFamily": "FaSolid",
+      "identifier": "xRay"
+    },
+    "yen-sign": {
+      "codepoint": 58366,
+      "fontFamily": "FaSolid",
+      "identifier": "yenSign"
+    },
+    "yin-yang": {
+      "codepoint": 58367,
+      "fontFamily": "FaSolid",
+      "identifier": "yinYang"
+    }
+  }
+}

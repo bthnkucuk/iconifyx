@@ -1,0 +1,23 @@
+# flutter_all_icons generator configuration
+#
+# After the per-set-package refactor, this file only:
+#   1. Excludes specific sets from generation
+#   2. Optionally renames Iconify categories for display in the example app
+#
+# Set→package routing is now mechanical: every set becomes its own
+# `flutter_all_icons_<prefix>` package. No grouping rules needed.
+
+excludedSets:
+  # Custom Brand Icons is CC-BY-NC-SA (NonCommercial only). Distributing in a
+  # generic Flutter package could conflict with commercial usage; exclude.
+  - custom-brand-icons
+
+# Pretty names for Iconify category strings (example app drawer headers).
+displayCategoryAliases:
+  "UI 24px": "UI · 24px Grid"
+  "UI Other / Mixed Grid": "UI · Mixed Grid"
+  "UI 16px / 32px": "UI · 16px / 32px"
+  "UI Multicolor": "UI · Multicolor"
+  "Brands / Social": "Brands & Social"
+  "Flags / Maps": "Flags & Maps"
+  "Archive / Unmaintained": "Archive"

@@ -1,0 +1,4185 @@
+{
+  "schemaVersion": 1,
+  "prefix": "cib",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Logos",
+  "subPackage": "iconifyx_cib",
+  "info": {
+    "name": "CoreUI Brands",
+    "author": {
+      "name": "creativeLabs Łukasz Holeczek",
+      "url": "https://github.com/coreui/coreui-icons"
+    },
+    "license": {
+      "title": "CC0 1.0",
+      "spdx": "CC0-1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "total": 831
+  },
+  "fonts": [
+    {
+      "family": "Cib",
+      "nextCodepoint": 58175,
+      "iconCount": 831
+    }
+  ],
+  "icons": {
+    "500px": {
+      "codepoint": 57344,
+      "fontFamily": "Cib",
+      "identifier": "n500px"
+    },
+    "500px-5": {
+      "codepoint": 57345,
+      "fontFamily": "Cib",
+      "identifier": "n500px5"
+    },
+    "about-me": {
+      "codepoint": 57346,
+      "fontFamily": "Cib",
+      "identifier": "aboutMe"
+    },
+    "abstract": {
+      "codepoint": 57347,
+      "fontFamily": "Cib",
+      "identifier": "abstract_"
+    },
+    "acm": {
+      "codepoint": 57348,
+      "fontFamily": "Cib",
+      "identifier": "acm"
+    },
+    "addthis": {
+      "codepoint": 57349,
+      "fontFamily": "Cib",
+      "identifier": "addthis"
+    },
+    "adguard": {
+      "codepoint": 57350,
+      "fontFamily": "Cib",
+      "identifier": "adguard"
+    },
+    "adobe": {
+      "codepoint": 57351,
+      "fontFamily": "Cib",
+      "identifier": "adobe"
+    },
+    "adobe-acrobat-reader": {
+      "codepoint": 57352,
+      "fontFamily": "Cib",
+      "identifier": "adobeAcrobatReader"
+    },
+    "adobe-after-effects": {
+      "codepoint": 57353,
+      "fontFamily": "Cib",
+      "identifier": "adobeAfterEffects"
+    },
+    "adobe-audition": {
+      "codepoint": 57354,
+      "fontFamily": "Cib",
+      "identifier": "adobeAudition"
+    },
+    "adobe-creative-cloud": {
+      "codepoint": 57355,
+      "fontFamily": "Cib",
+      "identifier": "adobeCreativeCloud"
+    },
+    "adobe-dreamweaver": {
+      "codepoint": 57356,
+      "fontFamily": "Cib",
+      "identifier": "adobeDreamweaver"
+    },
+    "adobe-illustrator": {
+      "codepoint": 57357,
+      "fontFamily": "Cib",
+      "identifier": "adobeIllustrator"
+    },
+    "adobe-indesign": {
+      "codepoint": 57358,
+      "fontFamily": "Cib",
+      "identifier": "adobeIndesign"
+    },
+    "adobe-lightroom": {
+      "codepoint": 57359,
+      "fontFamily": "Cib",
+      "identifier": "adobeLightroom"
+    },
+    "adobe-lightroom-classic": {
+      "codepoint": 57360,
+      "fontFamily": "Cib",
+      "identifier": "adobeLightroomClassic"
+    },
+    "adobe-photoshop": {
+      "codepoint": 57361,
+      "fontFamily": "Cib",
+      "identifier": "adobePhotoshop"
+    },
+    "adobe-premiere": {
+      "codepoint": 57362,
+      "fontFamily": "Cib",
+      "identifier": "adobePremiere"
+    },
+    "adobe-typekit": {
+      "codepoint": 57363,
+      "fontFamily": "Cib",
+      "identifier": "adobeTypekit"
+    },
+    "adobe-xd": {
+      "codepoint": 57364,
+      "fontFamily": "Cib",
+      "identifier": "adobeXd"
+    },
+    "airbnb": {
+      "codepoint": 57365,
+      "fontFamily": "Cib",
+      "identifier": "airbnb"
+    },
+    "algolia": {
+      "codepoint": 57366,
+      "fontFamily": "Cib",
+      "identifier": "algolia"
+    },
+    "alipay": {
+      "codepoint": 57367,
+      "fontFamily": "Cib",
+      "identifier": "alipay"
+    },
+    "allocine": {
+      "codepoint": 57368,
+      "fontFamily": "Cib",
+      "identifier": "allocine"
+    },
+    "amazon": {
+      "codepoint": 57369,
+      "fontFamily": "Cib",
+      "identifier": "amazon"
+    },
+    "amazon-aws": {
+      "codepoint": 57370,
+      "fontFamily": "Cib",
+      "identifier": "amazonAws"
+    },
+    "amazon-pay": {
+      "codepoint": 57371,
+      "fontFamily": "Cib",
+      "identifier": "amazonPay"
+    },
+    "amd": {
+      "codepoint": 57372,
+      "fontFamily": "Cib",
+      "identifier": "amd"
+    },
+    "american-express": {
+      "codepoint": 57373,
+      "fontFamily": "Cib",
+      "identifier": "americanExpress"
+    },
+    "anaconda": {
+      "codepoint": 57374,
+      "fontFamily": "Cib",
+      "identifier": "anaconda"
+    },
+    "analogue": {
+      "codepoint": 57375,
+      "fontFamily": "Cib",
+      "identifier": "analogue"
+    },
+    "android": {
+      "codepoint": 57376,
+      "fontFamily": "Cib",
+      "identifier": "android"
+    },
+    "android-alt": {
+      "codepoint": 57377,
+      "fontFamily": "Cib",
+      "identifier": "androidAlt"
+    },
+    "angellist": {
+      "codepoint": 57378,
+      "fontFamily": "Cib",
+      "identifier": "angellist"
+    },
+    "angular": {
+      "codepoint": 57379,
+      "fontFamily": "Cib",
+      "identifier": "angular"
+    },
+    "angular-universal": {
+      "codepoint": 57380,
+      "fontFamily": "Cib",
+      "identifier": "angularUniversal"
+    },
+    "ansible": {
+      "codepoint": 57381,
+      "fontFamily": "Cib",
+      "identifier": "ansible"
+    },
+    "apache": {
+      "codepoint": 57382,
+      "fontFamily": "Cib",
+      "identifier": "apache"
+    },
+    "apache-airflow": {
+      "codepoint": 57383,
+      "fontFamily": "Cib",
+      "identifier": "apacheAirflow"
+    },
+    "apache-flink": {
+      "codepoint": 57384,
+      "fontFamily": "Cib",
+      "identifier": "apacheFlink"
+    },
+    "apache-spark": {
+      "codepoint": 57385,
+      "fontFamily": "Cib",
+      "identifier": "apacheSpark"
+    },
+    "app-store": {
+      "codepoint": 57386,
+      "fontFamily": "Cib",
+      "identifier": "appStore"
+    },
+    "app-store-ios": {
+      "codepoint": 57387,
+      "fontFamily": "Cib",
+      "identifier": "appStoreIos"
+    },
+    "apple": {
+      "codepoint": 57388,
+      "fontFamily": "Cib",
+      "identifier": "apple"
+    },
+    "apple-music": {
+      "codepoint": 57389,
+      "fontFamily": "Cib",
+      "identifier": "appleMusic"
+    },
+    "apple-pay": {
+      "codepoint": 57390,
+      "fontFamily": "Cib",
+      "identifier": "applePay"
+    },
+    "apple-podcasts": {
+      "codepoint": 57391,
+      "fontFamily": "Cib",
+      "identifier": "applePodcasts"
+    },
+    "appveyor": {
+      "codepoint": 57392,
+      "fontFamily": "Cib",
+      "identifier": "appveyor"
+    },
+    "aral": {
+      "codepoint": 57393,
+      "fontFamily": "Cib",
+      "identifier": "aral"
+    },
+    "arch-linux": {
+      "codepoint": 57394,
+      "fontFamily": "Cib",
+      "identifier": "archLinux"
+    },
+    "archive-of-our-own": {
+      "codepoint": 57395,
+      "fontFamily": "Cib",
+      "identifier": "archiveOfOurOwn"
+    },
+    "arduino": {
+      "codepoint": 57396,
+      "fontFamily": "Cib",
+      "identifier": "arduino"
+    },
+    "artstation": {
+      "codepoint": 57397,
+      "fontFamily": "Cib",
+      "identifier": "artstation"
+    },
+    "arxiv": {
+      "codepoint": 57398,
+      "fontFamily": "Cib",
+      "identifier": "arxiv"
+    },
+    "asana": {
+      "codepoint": 57399,
+      "fontFamily": "Cib",
+      "identifier": "asana"
+    },
+    "at-and-t": {
+      "codepoint": 57400,
+      "fontFamily": "Cib",
+      "identifier": "atAndT"
+    },
+    "atlassian": {
+      "codepoint": 57401,
+      "fontFamily": "Cib",
+      "identifier": "atlassian"
+    },
+    "atom": {
+      "codepoint": 57402,
+      "fontFamily": "Cib",
+      "identifier": "atom"
+    },
+    "audible": {
+      "codepoint": 57403,
+      "fontFamily": "Cib",
+      "identifier": "audible"
+    },
+    "aurelia": {
+      "codepoint": 57404,
+      "fontFamily": "Cib",
+      "identifier": "aurelia"
+    },
+    "auth0": {
+      "codepoint": 57405,
+      "fontFamily": "Cib",
+      "identifier": "auth0"
+    },
+    "automatic": {
+      "codepoint": 57406,
+      "fontFamily": "Cib",
+      "identifier": "automatic"
+    },
+    "autotask": {
+      "codepoint": 57407,
+      "fontFamily": "Cib",
+      "identifier": "autotask"
+    },
+    "aventrix": {
+      "codepoint": 57408,
+      "fontFamily": "Cib",
+      "identifier": "aventrix"
+    },
+    "azure-artifacts": {
+      "codepoint": 57409,
+      "fontFamily": "Cib",
+      "identifier": "azureArtifacts"
+    },
+    "azure-devops": {
+      "codepoint": 57410,
+      "fontFamily": "Cib",
+      "identifier": "azureDevops"
+    },
+    "azure-pipelines": {
+      "codepoint": 57411,
+      "fontFamily": "Cib",
+      "identifier": "azurePipelines"
+    },
+    "babel": {
+      "codepoint": 57412,
+      "fontFamily": "Cib",
+      "identifier": "babel"
+    },
+    "baidu": {
+      "codepoint": 57413,
+      "fontFamily": "Cib",
+      "identifier": "baidu"
+    },
+    "bamboo": {
+      "codepoint": 57414,
+      "fontFamily": "Cib",
+      "identifier": "bamboo"
+    },
+    "bancontact": {
+      "codepoint": 57415,
+      "fontFamily": "Cib",
+      "identifier": "bancontact"
+    },
+    "bandcamp": {
+      "codepoint": 57416,
+      "fontFamily": "Cib",
+      "identifier": "bandcamp"
+    },
+    "basecamp": {
+      "codepoint": 57417,
+      "fontFamily": "Cib",
+      "identifier": "basecamp"
+    },
+    "bathasu": {
+      "codepoint": 57418,
+      "fontFamily": "Cib",
+      "identifier": "bathasu"
+    },
+    "behance": {
+      "codepoint": 57419,
+      "fontFamily": "Cib",
+      "identifier": "behance"
+    },
+    "big-cartel": {
+      "codepoint": 57420,
+      "fontFamily": "Cib",
+      "identifier": "bigCartel"
+    },
+    "bing": {
+      "codepoint": 57421,
+      "fontFamily": "Cib",
+      "identifier": "bing"
+    },
+    "bit": {
+      "codepoint": 57422,
+      "fontFamily": "Cib",
+      "identifier": "bit"
+    },
+    "bitbucket": {
+      "codepoint": 57423,
+      "fontFamily": "Cib",
+      "identifier": "bitbucket"
+    },
+    "bitcoin": {
+      "codepoint": 57424,
+      "fontFamily": "Cib",
+      "identifier": "bitcoin"
+    },
+    "bitdefender": {
+      "codepoint": 57425,
+      "fontFamily": "Cib",
+      "identifier": "bitdefender"
+    },
+    "bitly": {
+      "codepoint": 57426,
+      "fontFamily": "Cib",
+      "identifier": "bitly"
+    },
+    "blackberry": {
+      "codepoint": 57427,
+      "fontFamily": "Cib",
+      "identifier": "blackberry"
+    },
+    "blender": {
+      "codepoint": 57428,
+      "fontFamily": "Cib",
+      "identifier": "blender"
+    },
+    "blogger": {
+      "codepoint": 57429,
+      "fontFamily": "Cib",
+      "identifier": "blogger"
+    },
+    "blogger-b": {
+      "codepoint": 57430,
+      "fontFamily": "Cib",
+      "identifier": "bloggerB"
+    },
+    "bluetooth": {
+      "codepoint": 57431,
+      "fontFamily": "Cib",
+      "identifier": "bluetooth"
+    },
+    "bluetooth-b": {
+      "codepoint": 57432,
+      "fontFamily": "Cib",
+      "identifier": "bluetoothB"
+    },
+    "boeing": {
+      "codepoint": 57433,
+      "fontFamily": "Cib",
+      "identifier": "boeing"
+    },
+    "boost": {
+      "codepoint": 57434,
+      "fontFamily": "Cib",
+      "identifier": "boost"
+    },
+    "bootstrap": {
+      "codepoint": 57435,
+      "fontFamily": "Cib",
+      "identifier": "bootstrap"
+    },
+    "bower": {
+      "codepoint": 57436,
+      "fontFamily": "Cib",
+      "identifier": "bower"
+    },
+    "brand-ai": {
+      "codepoint": 57437,
+      "fontFamily": "Cib",
+      "identifier": "brandAi"
+    },
+    "brave": {
+      "codepoint": 57438,
+      "fontFamily": "Cib",
+      "identifier": "brave"
+    },
+    "btc": {
+      "codepoint": 57439,
+      "fontFamily": "Cib",
+      "identifier": "btc"
+    },
+    "buddy": {
+      "codepoint": 57440,
+      "fontFamily": "Cib",
+      "identifier": "buddy"
+    },
+    "buffer": {
+      "codepoint": 57441,
+      "fontFamily": "Cib",
+      "identifier": "buffer"
+    },
+    "buy-me-a-coffee": {
+      "codepoint": 57442,
+      "fontFamily": "Cib",
+      "identifier": "buyMeACoffee"
+    },
+    "buysellads": {
+      "codepoint": 57443,
+      "fontFamily": "Cib",
+      "identifier": "buysellads"
+    },
+    "buzzfeed": {
+      "codepoint": 57444,
+      "fontFamily": "Cib",
+      "identifier": "buzzfeed"
+    },
+    "c": {
+      "codepoint": 57445,
+      "fontFamily": "Cib",
+      "identifier": "c"
+    },
+    "cakephp": {
+      "codepoint": 57446,
+      "fontFamily": "Cib",
+      "identifier": "cakephp"
+    },
+    "campaign-monitor": {
+      "codepoint": 57447,
+      "fontFamily": "Cib",
+      "identifier": "campaignMonitor"
+    },
+    "canva": {
+      "codepoint": 57448,
+      "fontFamily": "Cib",
+      "identifier": "canva"
+    },
+    "cashapp": {
+      "codepoint": 57449,
+      "fontFamily": "Cib",
+      "identifier": "cashapp"
+    },
+    "cassandra": {
+      "codepoint": 57450,
+      "fontFamily": "Cib",
+      "identifier": "cassandra"
+    },
+    "castro": {
+      "codepoint": 57451,
+      "fontFamily": "Cib",
+      "identifier": "castro"
+    },
+    "cc-amazon-pay": {
+      "codepoint": 57452,
+      "fontFamily": "Cib",
+      "identifier": "ccAmazonPay"
+    },
+    "cc-amex": {
+      "codepoint": 57453,
+      "fontFamily": "Cib",
+      "identifier": "ccAmex"
+    },
+    "cc-apple-pay": {
+      "codepoint": 57454,
+      "fontFamily": "Cib",
+      "identifier": "ccApplePay"
+    },
+    "cc-diners-club": {
+      "codepoint": 57455,
+      "fontFamily": "Cib",
+      "identifier": "ccDinersClub"
+    },
+    "cc-discover": {
+      "codepoint": 57456,
+      "fontFamily": "Cib",
+      "identifier": "ccDiscover"
+    },
+    "cc-jcb": {
+      "codepoint": 57457,
+      "fontFamily": "Cib",
+      "identifier": "ccJcb"
+    },
+    "cc-mastercard": {
+      "codepoint": 57458,
+      "fontFamily": "Cib",
+      "identifier": "ccMastercard"
+    },
+    "cc-paypal": {
+      "codepoint": 57459,
+      "fontFamily": "Cib",
+      "identifier": "ccPaypal"
+    },
+    "cc-stripe": {
+      "codepoint": 57460,
+      "fontFamily": "Cib",
+      "identifier": "ccStripe"
+    },
+    "cc-visa": {
+      "codepoint": 57461,
+      "fontFamily": "Cib",
+      "identifier": "ccVisa"
+    },
+    "centos": {
+      "codepoint": 57462,
+      "fontFamily": "Cib",
+      "identifier": "centos"
+    },
+    "cevo": {
+      "codepoint": 57463,
+      "fontFamily": "Cib",
+      "identifier": "cevo"
+    },
+    "chase": {
+      "codepoint": 57464,
+      "fontFamily": "Cib",
+      "identifier": "chase"
+    },
+    "chef": {
+      "codepoint": 57465,
+      "fontFamily": "Cib",
+      "identifier": "chef"
+    },
+    "chromecast": {
+      "codepoint": 57466,
+      "fontFamily": "Cib",
+      "identifier": "chromecast"
+    },
+    "circle": {
+      "codepoint": 57467,
+      "fontFamily": "Cib",
+      "identifier": "circle"
+    },
+    "circleci": {
+      "codepoint": 57468,
+      "fontFamily": "Cib",
+      "identifier": "circleci"
+    },
+    "cirrusci": {
+      "codepoint": 57469,
+      "fontFamily": "Cib",
+      "identifier": "cirrusci"
+    },
+    "cisco": {
+      "codepoint": 57470,
+      "fontFamily": "Cib",
+      "identifier": "cisco"
+    },
+    "civicrm": {
+      "codepoint": 57471,
+      "fontFamily": "Cib",
+      "identifier": "civicrm"
+    },
+    "clockify": {
+      "codepoint": 57472,
+      "fontFamily": "Cib",
+      "identifier": "clockify"
+    },
+    "clojure": {
+      "codepoint": 57473,
+      "fontFamily": "Cib",
+      "identifier": "clojure"
+    },
+    "cloudbees": {
+      "codepoint": 57474,
+      "fontFamily": "Cib",
+      "identifier": "cloudbees"
+    },
+    "cloudflare": {
+      "codepoint": 57475,
+      "fontFamily": "Cib",
+      "identifier": "cloudflare"
+    },
+    "cmake": {
+      "codepoint": 57476,
+      "fontFamily": "Cib",
+      "identifier": "cmake"
+    },
+    "co-op": {
+      "codepoint": 57477,
+      "fontFamily": "Cib",
+      "identifier": "coOp"
+    },
+    "codacy": {
+      "codepoint": 57478,
+      "fontFamily": "Cib",
+      "identifier": "codacy"
+    },
+    "code-climate": {
+      "codepoint": 57479,
+      "fontFamily": "Cib",
+      "identifier": "codeClimate"
+    },
+    "codecademy": {
+      "codepoint": 57480,
+      "fontFamily": "Cib",
+      "identifier": "codecademy"
+    },
+    "codecov": {
+      "codepoint": 57481,
+      "fontFamily": "Cib",
+      "identifier": "codecov"
+    },
+    "codeigniter": {
+      "codepoint": 57482,
+      "fontFamily": "Cib",
+      "identifier": "codeigniter"
+    },
+    "codepen": {
+      "codepoint": 57483,
+      "fontFamily": "Cib",
+      "identifier": "codepen"
+    },
+    "coderwall": {
+      "codepoint": 57484,
+      "fontFamily": "Cib",
+      "identifier": "coderwall"
+    },
+    "codesandbox": {
+      "codepoint": 57485,
+      "fontFamily": "Cib",
+      "identifier": "codesandbox"
+    },
+    "codeship": {
+      "codepoint": 57486,
+      "fontFamily": "Cib",
+      "identifier": "codeship"
+    },
+    "codewars": {
+      "codepoint": 57487,
+      "fontFamily": "Cib",
+      "identifier": "codewars"
+    },
+    "codio": {
+      "codepoint": 57488,
+      "fontFamily": "Cib",
+      "identifier": "codio"
+    },
+    "coffeescript": {
+      "codepoint": 57489,
+      "fontFamily": "Cib",
+      "identifier": "coffeescript"
+    },
+    "common-workflow-language": {
+      "codepoint": 57490,
+      "fontFamily": "Cib",
+      "identifier": "commonWorkflowLanguage"
+    },
+    "composer": {
+      "codepoint": 57491,
+      "fontFamily": "Cib",
+      "identifier": "composer"
+    },
+    "conda-forge": {
+      "codepoint": 57492,
+      "fontFamily": "Cib",
+      "identifier": "condaForge"
+    },
+    "conekta": {
+      "codepoint": 57493,
+      "fontFamily": "Cib",
+      "identifier": "conekta"
+    },
+    "confluence": {
+      "codepoint": 57494,
+      "fontFamily": "Cib",
+      "identifier": "confluence"
+    },
+    "coreui": {
+      "codepoint": 57495,
+      "fontFamily": "Cib",
+      "identifier": "coreui"
+    },
+    "coreui-c": {
+      "codepoint": 57496,
+      "fontFamily": "Cib",
+      "identifier": "coreuiC"
+    },
+    "coursera": {
+      "codepoint": 57497,
+      "fontFamily": "Cib",
+      "identifier": "coursera"
+    },
+    "coveralls": {
+      "codepoint": 57498,
+      "fontFamily": "Cib",
+      "identifier": "coveralls"
+    },
+    "cpanel": {
+      "codepoint": 57499,
+      "fontFamily": "Cib",
+      "identifier": "cpanel"
+    },
+    "cplusplus": {
+      "codepoint": 57500,
+      "fontFamily": "Cib",
+      "identifier": "cplusplus"
+    },
+    "creative-commons": {
+      "codepoint": 57501,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommons"
+    },
+    "creative-commons-by": {
+      "codepoint": 57502,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsBy"
+    },
+    "creative-commons-nc": {
+      "codepoint": 57503,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsNc"
+    },
+    "creative-commons-nc-eu": {
+      "codepoint": 57504,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsNcEu"
+    },
+    "creative-commons-nc-jp": {
+      "codepoint": 57505,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsNcJp"
+    },
+    "creative-commons-nd": {
+      "codepoint": 57506,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsNd"
+    },
+    "creative-commons-pd": {
+      "codepoint": 57507,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsPd"
+    },
+    "creative-commons-pd-alt": {
+      "codepoint": 57508,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsPdAlt"
+    },
+    "creative-commons-remix": {
+      "codepoint": 57509,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsRemix"
+    },
+    "creative-commons-sa": {
+      "codepoint": 57510,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsSa"
+    },
+    "creative-commons-sampling": {
+      "codepoint": 57511,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsSampling"
+    },
+    "creative-commons-sampling-plus": {
+      "codepoint": 57512,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsSamplingPlus"
+    },
+    "creative-commons-share": {
+      "codepoint": 57513,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsShare"
+    },
+    "creative-commons-zero": {
+      "codepoint": 57514,
+      "fontFamily": "Cib",
+      "identifier": "creativeCommonsZero"
+    },
+    "crunchbase": {
+      "codepoint": 57515,
+      "fontFamily": "Cib",
+      "identifier": "crunchbase"
+    },
+    "crunchyroll": {
+      "codepoint": 57516,
+      "fontFamily": "Cib",
+      "identifier": "crunchyroll"
+    },
+    "css3": {
+      "codepoint": 57517,
+      "fontFamily": "Cib",
+      "identifier": "css3"
+    },
+    "css3-shiled": {
+      "codepoint": 57518,
+      "fontFamily": "Cib",
+      "identifier": "css3Shiled"
+    },
+    "csswizardry": {
+      "codepoint": 57519,
+      "fontFamily": "Cib",
+      "identifier": "csswizardry"
+    },
+    "d3-js": {
+      "codepoint": 57520,
+      "fontFamily": "Cib",
+      "identifier": "d3Js"
+    },
+    "dailymotion": {
+      "codepoint": 57521,
+      "fontFamily": "Cib",
+      "identifier": "dailymotion"
+    },
+    "dashlane": {
+      "codepoint": 57522,
+      "fontFamily": "Cib",
+      "identifier": "dashlane"
+    },
+    "dazn": {
+      "codepoint": 57523,
+      "fontFamily": "Cib",
+      "identifier": "dazn"
+    },
+    "dblp": {
+      "codepoint": 57524,
+      "fontFamily": "Cib",
+      "identifier": "dblp"
+    },
+    "debian": {
+      "codepoint": 57525,
+      "fontFamily": "Cib",
+      "identifier": "debian"
+    },
+    "deepin": {
+      "codepoint": 57526,
+      "fontFamily": "Cib",
+      "identifier": "deepin"
+    },
+    "deezer": {
+      "codepoint": 57527,
+      "fontFamily": "Cib",
+      "identifier": "deezer"
+    },
+    "delicious": {
+      "codepoint": 57528,
+      "fontFamily": "Cib",
+      "identifier": "delicious"
+    },
+    "dell": {
+      "codepoint": 57529,
+      "fontFamily": "Cib",
+      "identifier": "dell"
+    },
+    "deno": {
+      "codepoint": 57530,
+      "fontFamily": "Cib",
+      "identifier": "deno"
+    },
+    "dependabot": {
+      "codepoint": 57531,
+      "fontFamily": "Cib",
+      "identifier": "dependabot"
+    },
+    "designer-news": {
+      "codepoint": 57532,
+      "fontFamily": "Cib",
+      "identifier": "designerNews"
+    },
+    "dev-to": {
+      "codepoint": 57533,
+      "fontFamily": "Cib",
+      "identifier": "devTo"
+    },
+    "deviantart": {
+      "codepoint": 57534,
+      "fontFamily": "Cib",
+      "identifier": "deviantart"
+    },
+    "devrant": {
+      "codepoint": 57535,
+      "fontFamily": "Cib",
+      "identifier": "devrant"
+    },
+    "diaspora": {
+      "codepoint": 57536,
+      "fontFamily": "Cib",
+      "identifier": "diaspora"
+    },
+    "digg": {
+      "codepoint": 57537,
+      "fontFamily": "Cib",
+      "identifier": "digg"
+    },
+    "digital-ocean": {
+      "codepoint": 57538,
+      "fontFamily": "Cib",
+      "identifier": "digitalOcean"
+    },
+    "discord": {
+      "codepoint": 57539,
+      "fontFamily": "Cib",
+      "identifier": "discord"
+    },
+    "discourse": {
+      "codepoint": 57540,
+      "fontFamily": "Cib",
+      "identifier": "discourse"
+    },
+    "discover": {
+      "codepoint": 57541,
+      "fontFamily": "Cib",
+      "identifier": "discover"
+    },
+    "disqus": {
+      "codepoint": 57542,
+      "fontFamily": "Cib",
+      "identifier": "disqus"
+    },
+    "disroot": {
+      "codepoint": 57543,
+      "fontFamily": "Cib",
+      "identifier": "disroot"
+    },
+    "django": {
+      "codepoint": 57544,
+      "fontFamily": "Cib",
+      "identifier": "django"
+    },
+    "docker": {
+      "codepoint": 57545,
+      "fontFamily": "Cib",
+      "identifier": "docker"
+    },
+    "docusign": {
+      "codepoint": 57546,
+      "fontFamily": "Cib",
+      "identifier": "docusign"
+    },
+    "dot-net": {
+      "codepoint": 57547,
+      "fontFamily": "Cib",
+      "identifier": "dotNet"
+    },
+    "draugiem-lv": {
+      "codepoint": 57548,
+      "fontFamily": "Cib",
+      "identifier": "draugiemLv"
+    },
+    "dribbble": {
+      "codepoint": 57549,
+      "fontFamily": "Cib",
+      "identifier": "dribbble"
+    },
+    "drone": {
+      "codepoint": 57550,
+      "fontFamily": "Cib",
+      "identifier": "drone"
+    },
+    "dropbox": {
+      "codepoint": 57551,
+      "fontFamily": "Cib",
+      "identifier": "dropbox"
+    },
+    "drupal": {
+      "codepoint": 57552,
+      "fontFamily": "Cib",
+      "identifier": "drupal"
+    },
+    "dtube": {
+      "codepoint": 57553,
+      "fontFamily": "Cib",
+      "identifier": "dtube"
+    },
+    "duckduckgo": {
+      "codepoint": 57554,
+      "fontFamily": "Cib",
+      "identifier": "duckduckgo"
+    },
+    "dynatrace": {
+      "codepoint": 57555,
+      "fontFamily": "Cib",
+      "identifier": "dynatrace"
+    },
+    "ebay": {
+      "codepoint": 57556,
+      "fontFamily": "Cib",
+      "identifier": "ebay"
+    },
+    "eclipseide": {
+      "codepoint": 57557,
+      "fontFamily": "Cib",
+      "identifier": "eclipseide"
+    },
+    "elastic": {
+      "codepoint": 57558,
+      "fontFamily": "Cib",
+      "identifier": "elastic"
+    },
+    "elastic-cloud": {
+      "codepoint": 57559,
+      "fontFamily": "Cib",
+      "identifier": "elasticCloud"
+    },
+    "elastic-search": {
+      "codepoint": 57560,
+      "fontFamily": "Cib",
+      "identifier": "elasticSearch"
+    },
+    "elastic-stack": {
+      "codepoint": 57561,
+      "fontFamily": "Cib",
+      "identifier": "elasticStack"
+    },
+    "electron": {
+      "codepoint": 57562,
+      "fontFamily": "Cib",
+      "identifier": "electron"
+    },
+    "elementary": {
+      "codepoint": 57563,
+      "fontFamily": "Cib",
+      "identifier": "elementary"
+    },
+    "eleventy": {
+      "codepoint": 57564,
+      "fontFamily": "Cib",
+      "identifier": "eleventy"
+    },
+    "ello": {
+      "codepoint": 57565,
+      "fontFamily": "Cib",
+      "identifier": "ello"
+    },
+    "elsevier": {
+      "codepoint": 57566,
+      "fontFamily": "Cib",
+      "identifier": "elsevier"
+    },
+    "emlakjet": {
+      "codepoint": 57567,
+      "fontFamily": "Cib",
+      "identifier": "emlakjet"
+    },
+    "empirekred": {
+      "codepoint": 57568,
+      "fontFamily": "Cib",
+      "identifier": "empirekred"
+    },
+    "envato": {
+      "codepoint": 57569,
+      "fontFamily": "Cib",
+      "identifier": "envato"
+    },
+    "epic-games": {
+      "codepoint": 57570,
+      "fontFamily": "Cib",
+      "identifier": "epicGames"
+    },
+    "epson": {
+      "codepoint": 57571,
+      "fontFamily": "Cib",
+      "identifier": "epson"
+    },
+    "esea": {
+      "codepoint": 57572,
+      "fontFamily": "Cib",
+      "identifier": "esea"
+    },
+    "eslint": {
+      "codepoint": 57573,
+      "fontFamily": "Cib",
+      "identifier": "eslint"
+    },
+    "ethereum": {
+      "codepoint": 57574,
+      "fontFamily": "Cib",
+      "identifier": "ethereum"
+    },
+    "etsy": {
+      "codepoint": 57575,
+      "fontFamily": "Cib",
+      "identifier": "etsy"
+    },
+    "event-store": {
+      "codepoint": 57576,
+      "fontFamily": "Cib",
+      "identifier": "eventStore"
+    },
+    "eventbrite": {
+      "codepoint": 57577,
+      "fontFamily": "Cib",
+      "identifier": "eventbrite"
+    },
+    "evernote": {
+      "codepoint": 57578,
+      "fontFamily": "Cib",
+      "identifier": "evernote"
+    },
+    "everplaces": {
+      "codepoint": 57579,
+      "fontFamily": "Cib",
+      "identifier": "everplaces"
+    },
+    "evry": {
+      "codepoint": 57580,
+      "fontFamily": "Cib",
+      "identifier": "evry"
+    },
+    "exercism": {
+      "codepoint": 57581,
+      "fontFamily": "Cib",
+      "identifier": "exercism"
+    },
+    "experts-exchange": {
+      "codepoint": 57582,
+      "fontFamily": "Cib",
+      "identifier": "expertsExchange"
+    },
+    "expo": {
+      "codepoint": 57583,
+      "fontFamily": "Cib",
+      "identifier": "expo"
+    },
+    "eyeem": {
+      "codepoint": 57584,
+      "fontFamily": "Cib",
+      "identifier": "eyeem"
+    },
+    "f-secure": {
+      "codepoint": 57585,
+      "fontFamily": "Cib",
+      "identifier": "fSecure"
+    },
+    "facebook": {
+      "codepoint": 57586,
+      "fontFamily": "Cib",
+      "identifier": "facebook"
+    },
+    "facebook-f": {
+      "codepoint": 57587,
+      "fontFamily": "Cib",
+      "identifier": "facebookF"
+    },
+    "faceit": {
+      "codepoint": 57588,
+      "fontFamily": "Cib",
+      "identifier": "faceit"
+    },
+    "fandango": {
+      "codepoint": 57589,
+      "fontFamily": "Cib",
+      "identifier": "fandango"
+    },
+    "favro": {
+      "codepoint": 57590,
+      "fontFamily": "Cib",
+      "identifier": "favro"
+    },
+    "feathub": {
+      "codepoint": 57591,
+      "fontFamily": "Cib",
+      "identifier": "feathub"
+    },
+    "fedex": {
+      "codepoint": 57592,
+      "fontFamily": "Cib",
+      "identifier": "fedex"
+    },
+    "fedora": {
+      "codepoint": 57593,
+      "fontFamily": "Cib",
+      "identifier": "fedora"
+    },
+    "feedly": {
+      "codepoint": 57594,
+      "fontFamily": "Cib",
+      "identifier": "feedly"
+    },
+    "fido-alliance": {
+      "codepoint": 57595,
+      "fontFamily": "Cib",
+      "identifier": "fidoAlliance"
+    },
+    "figma": {
+      "codepoint": 57596,
+      "fontFamily": "Cib",
+      "identifier": "figma"
+    },
+    "filezilla": {
+      "codepoint": 57597,
+      "fontFamily": "Cib",
+      "identifier": "filezilla"
+    },
+    "firebase": {
+      "codepoint": 57598,
+      "fontFamily": "Cib",
+      "identifier": "firebase"
+    },
+    "fitbit": {
+      "codepoint": 57599,
+      "fontFamily": "Cib",
+      "identifier": "fitbit"
+    },
+    "flask": {
+      "codepoint": 57600,
+      "fontFamily": "Cib",
+      "identifier": "flask"
+    },
+    "flattr": {
+      "codepoint": 57601,
+      "fontFamily": "Cib",
+      "identifier": "flattr"
+    },
+    "flickr": {
+      "codepoint": 57602,
+      "fontFamily": "Cib",
+      "identifier": "flickr"
+    },
+    "flipboard": {
+      "codepoint": 57603,
+      "fontFamily": "Cib",
+      "identifier": "flipboard"
+    },
+    "flutter": {
+      "codepoint": 57604,
+      "fontFamily": "Cib",
+      "identifier": "flutter"
+    },
+    "fnac": {
+      "codepoint": 57605,
+      "fontFamily": "Cib",
+      "identifier": "fnac"
+    },
+    "foursquare": {
+      "codepoint": 57606,
+      "fontFamily": "Cib",
+      "identifier": "foursquare"
+    },
+    "framer": {
+      "codepoint": 57607,
+      "fontFamily": "Cib",
+      "identifier": "framer"
+    },
+    "freebsd": {
+      "codepoint": 57608,
+      "fontFamily": "Cib",
+      "identifier": "freebsd"
+    },
+    "freecodecamp": {
+      "codepoint": 57609,
+      "fontFamily": "Cib",
+      "identifier": "freecodecamp"
+    },
+    "fur-affinity": {
+      "codepoint": 57610,
+      "fontFamily": "Cib",
+      "identifier": "furAffinity"
+    },
+    "furry-network": {
+      "codepoint": 57611,
+      "fontFamily": "Cib",
+      "identifier": "furryNetwork"
+    },
+    "garmin": {
+      "codepoint": 57612,
+      "fontFamily": "Cib",
+      "identifier": "garmin"
+    },
+    "gatsby": {
+      "codepoint": 57613,
+      "fontFamily": "Cib",
+      "identifier": "gatsby"
+    },
+    "gauges": {
+      "codepoint": 57614,
+      "fontFamily": "Cib",
+      "identifier": "gauges"
+    },
+    "genius": {
+      "codepoint": 57615,
+      "fontFamily": "Cib",
+      "identifier": "genius"
+    },
+    "gentoo": {
+      "codepoint": 57616,
+      "fontFamily": "Cib",
+      "identifier": "gentoo"
+    },
+    "geocaching": {
+      "codepoint": 57617,
+      "fontFamily": "Cib",
+      "identifier": "geocaching"
+    },
+    "gerrit": {
+      "codepoint": 57618,
+      "fontFamily": "Cib",
+      "identifier": "gerrit"
+    },
+    "gg": {
+      "codepoint": 57619,
+      "fontFamily": "Cib",
+      "identifier": "gg"
+    },
+    "ghost": {
+      "codepoint": 57620,
+      "fontFamily": "Cib",
+      "identifier": "ghost"
+    },
+    "gimp": {
+      "codepoint": 57621,
+      "fontFamily": "Cib",
+      "identifier": "gimp"
+    },
+    "git": {
+      "codepoint": 57622,
+      "fontFamily": "Cib",
+      "identifier": "git"
+    },
+    "gitea": {
+      "codepoint": 57623,
+      "fontFamily": "Cib",
+      "identifier": "gitea"
+    },
+    "github": {
+      "codepoint": 57624,
+      "fontFamily": "Cib",
+      "identifier": "github"
+    },
+    "gitkraken": {
+      "codepoint": 57625,
+      "fontFamily": "Cib",
+      "identifier": "gitkraken"
+    },
+    "gitlab": {
+      "codepoint": 57626,
+      "fontFamily": "Cib",
+      "identifier": "gitlab"
+    },
+    "gitpod": {
+      "codepoint": 57627,
+      "fontFamily": "Cib",
+      "identifier": "gitpod"
+    },
+    "gitter": {
+      "codepoint": 57628,
+      "fontFamily": "Cib",
+      "identifier": "gitter"
+    },
+    "glassdoor": {
+      "codepoint": 57629,
+      "fontFamily": "Cib",
+      "identifier": "glassdoor"
+    },
+    "glitch": {
+      "codepoint": 57630,
+      "fontFamily": "Cib",
+      "identifier": "glitch"
+    },
+    "gmail": {
+      "codepoint": 57631,
+      "fontFamily": "Cib",
+      "identifier": "gmail"
+    },
+    "gnu": {
+      "codepoint": 57632,
+      "fontFamily": "Cib",
+      "identifier": "gnu"
+    },
+    "gnu-privacy-guard": {
+      "codepoint": 57633,
+      "fontFamily": "Cib",
+      "identifier": "gnuPrivacyGuard"
+    },
+    "gnu-social": {
+      "codepoint": 57634,
+      "fontFamily": "Cib",
+      "identifier": "gnuSocial"
+    },
+    "go": {
+      "codepoint": 57635,
+      "fontFamily": "Cib",
+      "identifier": "go"
+    },
+    "godot-engine": {
+      "codepoint": 57636,
+      "fontFamily": "Cib",
+      "identifier": "godotEngine"
+    },
+    "gog-com": {
+      "codepoint": 57637,
+      "fontFamily": "Cib",
+      "identifier": "gogCom"
+    },
+    "goldenline": {
+      "codepoint": 57638,
+      "fontFamily": "Cib",
+      "identifier": "goldenline"
+    },
+    "goodreads": {
+      "codepoint": 57639,
+      "fontFamily": "Cib",
+      "identifier": "goodreads"
+    },
+    "google": {
+      "codepoint": 57640,
+      "fontFamily": "Cib",
+      "identifier": "google"
+    },
+    "google-ads": {
+      "codepoint": 57641,
+      "fontFamily": "Cib",
+      "identifier": "googleAds"
+    },
+    "google-allo": {
+      "codepoint": 57642,
+      "fontFamily": "Cib",
+      "identifier": "googleAllo"
+    },
+    "google-analytics": {
+      "codepoint": 57643,
+      "fontFamily": "Cib",
+      "identifier": "googleAnalytics"
+    },
+    "google-chrome": {
+      "codepoint": 57644,
+      "fontFamily": "Cib",
+      "identifier": "googleChrome"
+    },
+    "google-cloud": {
+      "codepoint": 57645,
+      "fontFamily": "Cib",
+      "identifier": "googleCloud"
+    },
+    "google-keep": {
+      "codepoint": 57646,
+      "fontFamily": "Cib",
+      "identifier": "googleKeep"
+    },
+    "google-pay": {
+      "codepoint": 57647,
+      "fontFamily": "Cib",
+      "identifier": "googlePay"
+    },
+    "google-play": {
+      "codepoint": 57648,
+      "fontFamily": "Cib",
+      "identifier": "googlePlay"
+    },
+    "google-podcasts": {
+      "codepoint": 57649,
+      "fontFamily": "Cib",
+      "identifier": "googlePodcasts"
+    },
+    "googles-cholar": {
+      "codepoint": 57650,
+      "fontFamily": "Cib",
+      "identifier": "googlesCholar"
+    },
+    "gov-uk": {
+      "codepoint": 57651,
+      "fontFamily": "Cib",
+      "identifier": "govUk"
+    },
+    "gradle": {
+      "codepoint": 57652,
+      "fontFamily": "Cib",
+      "identifier": "gradle"
+    },
+    "grafana": {
+      "codepoint": 57653,
+      "fontFamily": "Cib",
+      "identifier": "grafana"
+    },
+    "graphcool": {
+      "codepoint": 57654,
+      "fontFamily": "Cib",
+      "identifier": "graphcool"
+    },
+    "graphql": {
+      "codepoint": 57655,
+      "fontFamily": "Cib",
+      "identifier": "graphql"
+    },
+    "grav": {
+      "codepoint": 57656,
+      "fontFamily": "Cib",
+      "identifier": "grav"
+    },
+    "gravatar": {
+      "codepoint": 57657,
+      "fontFamily": "Cib",
+      "identifier": "gravatar"
+    },
+    "greenkeeper": {
+      "codepoint": 57658,
+      "fontFamily": "Cib",
+      "identifier": "greenkeeper"
+    },
+    "greensock": {
+      "codepoint": 57659,
+      "fontFamily": "Cib",
+      "identifier": "greensock"
+    },
+    "groovy": {
+      "codepoint": 57660,
+      "fontFamily": "Cib",
+      "identifier": "groovy"
+    },
+    "groupon": {
+      "codepoint": 57661,
+      "fontFamily": "Cib",
+      "identifier": "groupon"
+    },
+    "grunt": {
+      "codepoint": 57662,
+      "fontFamily": "Cib",
+      "identifier": "grunt"
+    },
+    "gulp": {
+      "codepoint": 57663,
+      "fontFamily": "Cib",
+      "identifier": "gulp"
+    },
+    "gumroad": {
+      "codepoint": 57664,
+      "fontFamily": "Cib",
+      "identifier": "gumroad"
+    },
+    "gumtree": {
+      "codepoint": 57665,
+      "fontFamily": "Cib",
+      "identifier": "gumtree"
+    },
+    "habr": {
+      "codepoint": 57666,
+      "fontFamily": "Cib",
+      "identifier": "habr"
+    },
+    "hackaday": {
+      "codepoint": 57667,
+      "fontFamily": "Cib",
+      "identifier": "hackaday"
+    },
+    "hackerearth": {
+      "codepoint": 57668,
+      "fontFamily": "Cib",
+      "identifier": "hackerearth"
+    },
+    "hackerone": {
+      "codepoint": 57669,
+      "fontFamily": "Cib",
+      "identifier": "hackerone"
+    },
+    "hackerrank": {
+      "codepoint": 57670,
+      "fontFamily": "Cib",
+      "identifier": "hackerrank"
+    },
+    "hackhands": {
+      "codepoint": 57671,
+      "fontFamily": "Cib",
+      "identifier": "hackhands"
+    },
+    "hackster": {
+      "codepoint": 57672,
+      "fontFamily": "Cib",
+      "identifier": "hackster"
+    },
+    "happycow": {
+      "codepoint": 57673,
+      "fontFamily": "Cib",
+      "identifier": "happycow"
+    },
+    "hashnode": {
+      "codepoint": 57674,
+      "fontFamily": "Cib",
+      "identifier": "hashnode"
+    },
+    "haskell": {
+      "codepoint": 57675,
+      "fontFamily": "Cib",
+      "identifier": "haskell"
+    },
+    "hatena-bookmark": {
+      "codepoint": 57676,
+      "fontFamily": "Cib",
+      "identifier": "hatenaBookmark"
+    },
+    "haxe": {
+      "codepoint": 57677,
+      "fontFamily": "Cib",
+      "identifier": "haxe"
+    },
+    "helm": {
+      "codepoint": 57678,
+      "fontFamily": "Cib",
+      "identifier": "helm"
+    },
+    "here": {
+      "codepoint": 57679,
+      "fontFamily": "Cib",
+      "identifier": "here"
+    },
+    "heroku": {
+      "codepoint": 57680,
+      "fontFamily": "Cib",
+      "identifier": "heroku"
+    },
+    "hexo": {
+      "codepoint": 57681,
+      "fontFamily": "Cib",
+      "identifier": "hexo"
+    },
+    "highly": {
+      "codepoint": 57682,
+      "fontFamily": "Cib",
+      "identifier": "highly"
+    },
+    "hipchat": {
+      "codepoint": 57683,
+      "fontFamily": "Cib",
+      "identifier": "hipchat"
+    },
+    "hitachi": {
+      "codepoint": 57684,
+      "fontFamily": "Cib",
+      "identifier": "hitachi"
+    },
+    "hockeyapp": {
+      "codepoint": 57685,
+      "fontFamily": "Cib",
+      "identifier": "hockeyapp"
+    },
+    "homify": {
+      "codepoint": 57686,
+      "fontFamily": "Cib",
+      "identifier": "homify"
+    },
+    "hootsuite": {
+      "codepoint": 57687,
+      "fontFamily": "Cib",
+      "identifier": "hootsuite"
+    },
+    "hotjar": {
+      "codepoint": 57688,
+      "fontFamily": "Cib",
+      "identifier": "hotjar"
+    },
+    "houzz": {
+      "codepoint": 57689,
+      "fontFamily": "Cib",
+      "identifier": "houzz"
+    },
+    "hp": {
+      "codepoint": 57690,
+      "fontFamily": "Cib",
+      "identifier": "hp"
+    },
+    "html5": {
+      "codepoint": 57691,
+      "fontFamily": "Cib",
+      "identifier": "html5"
+    },
+    "html5-shield": {
+      "codepoint": 57692,
+      "fontFamily": "Cib",
+      "identifier": "html5Shield"
+    },
+    "htmlacademy": {
+      "codepoint": 57693,
+      "fontFamily": "Cib",
+      "identifier": "htmlacademy"
+    },
+    "huawei": {
+      "codepoint": 57694,
+      "fontFamily": "Cib",
+      "identifier": "huawei"
+    },
+    "hubspot": {
+      "codepoint": 57695,
+      "fontFamily": "Cib",
+      "identifier": "hubspot"
+    },
+    "hulu": {
+      "codepoint": 57696,
+      "fontFamily": "Cib",
+      "identifier": "hulu"
+    },
+    "humble-bundle": {
+      "codepoint": 57697,
+      "fontFamily": "Cib",
+      "identifier": "humbleBundle"
+    },
+    "iata": {
+      "codepoint": 57698,
+      "fontFamily": "Cib",
+      "identifier": "iata"
+    },
+    "ibm": {
+      "codepoint": 57699,
+      "fontFamily": "Cib",
+      "identifier": "ibm"
+    },
+    "icloud": {
+      "codepoint": 57700,
+      "fontFamily": "Cib",
+      "identifier": "icloud"
+    },
+    "iconjar": {
+      "codepoint": 57701,
+      "fontFamily": "Cib",
+      "identifier": "iconjar"
+    },
+    "icq": {
+      "codepoint": 57702,
+      "fontFamily": "Cib",
+      "identifier": "icq"
+    },
+    "ideal": {
+      "codepoint": 57703,
+      "fontFamily": "Cib",
+      "identifier": "ideal"
+    },
+    "ifixit": {
+      "codepoint": 57704,
+      "fontFamily": "Cib",
+      "identifier": "ifixit"
+    },
+    "imdb": {
+      "codepoint": 57705,
+      "fontFamily": "Cib",
+      "identifier": "imdb"
+    },
+    "indeed": {
+      "codepoint": 57706,
+      "fontFamily": "Cib",
+      "identifier": "indeed"
+    },
+    "inkscape": {
+      "codepoint": 57707,
+      "fontFamily": "Cib",
+      "identifier": "inkscape"
+    },
+    "instacart": {
+      "codepoint": 57708,
+      "fontFamily": "Cib",
+      "identifier": "instacart"
+    },
+    "instagram": {
+      "codepoint": 57709,
+      "fontFamily": "Cib",
+      "identifier": "instagram"
+    },
+    "instapaper": {
+      "codepoint": 57710,
+      "fontFamily": "Cib",
+      "identifier": "instapaper"
+    },
+    "intel": {
+      "codepoint": 57711,
+      "fontFamily": "Cib",
+      "identifier": "intel"
+    },
+    "intellijidea": {
+      "codepoint": 57712,
+      "fontFamily": "Cib",
+      "identifier": "intellijidea"
+    },
+    "intercom": {
+      "codepoint": 57713,
+      "fontFamily": "Cib",
+      "identifier": "intercom"
+    },
+    "internet-explorer": {
+      "codepoint": 57714,
+      "fontFamily": "Cib",
+      "identifier": "internetExplorer"
+    },
+    "invision": {
+      "codepoint": 57715,
+      "fontFamily": "Cib",
+      "identifier": "invision"
+    },
+    "ionic": {
+      "codepoint": 57716,
+      "fontFamily": "Cib",
+      "identifier": "ionic"
+    },
+    "issuu": {
+      "codepoint": 57717,
+      "fontFamily": "Cib",
+      "identifier": "issuu"
+    },
+    "itch-io": {
+      "codepoint": 57718,
+      "fontFamily": "Cib",
+      "identifier": "itchIo"
+    },
+    "jabber": {
+      "codepoint": 57719,
+      "fontFamily": "Cib",
+      "identifier": "jabber"
+    },
+    "java": {
+      "codepoint": 57720,
+      "fontFamily": "Cib",
+      "identifier": "java"
+    },
+    "javascript": {
+      "codepoint": 57721,
+      "fontFamily": "Cib",
+      "identifier": "javascript"
+    },
+    "jekyll": {
+      "codepoint": 57722,
+      "fontFamily": "Cib",
+      "identifier": "jekyll"
+    },
+    "jenkins": {
+      "codepoint": 57723,
+      "fontFamily": "Cib",
+      "identifier": "jenkins"
+    },
+    "jest": {
+      "codepoint": 57724,
+      "fontFamily": "Cib",
+      "identifier": "jest"
+    },
+    "jet": {
+      "codepoint": 57725,
+      "fontFamily": "Cib",
+      "identifier": "jet"
+    },
+    "jetbrains": {
+      "codepoint": 57726,
+      "fontFamily": "Cib",
+      "identifier": "jetbrains"
+    },
+    "jira": {
+      "codepoint": 57727,
+      "fontFamily": "Cib",
+      "identifier": "jira"
+    },
+    "joomla": {
+      "codepoint": 57728,
+      "fontFamily": "Cib",
+      "identifier": "joomla"
+    },
+    "jquery": {
+      "codepoint": 57729,
+      "fontFamily": "Cib",
+      "identifier": "jquery"
+    },
+    "js": {
+      "codepoint": 57730,
+      "fontFamily": "Cib",
+      "identifier": "js"
+    },
+    "jsdelivr": {
+      "codepoint": 57731,
+      "fontFamily": "Cib",
+      "identifier": "jsdelivr"
+    },
+    "jsfiddle": {
+      "codepoint": 57732,
+      "fontFamily": "Cib",
+      "identifier": "jsfiddle"
+    },
+    "json": {
+      "codepoint": 57733,
+      "fontFamily": "Cib",
+      "identifier": "json"
+    },
+    "jupyter": {
+      "codepoint": 57734,
+      "fontFamily": "Cib",
+      "identifier": "jupyter"
+    },
+    "justgiving": {
+      "codepoint": 57735,
+      "fontFamily": "Cib",
+      "identifier": "justgiving"
+    },
+    "kaggle": {
+      "codepoint": 57736,
+      "fontFamily": "Cib",
+      "identifier": "kaggle"
+    },
+    "kaios": {
+      "codepoint": 57737,
+      "fontFamily": "Cib",
+      "identifier": "kaios"
+    },
+    "kaspersky": {
+      "codepoint": 57738,
+      "fontFamily": "Cib",
+      "identifier": "kaspersky"
+    },
+    "kentico": {
+      "codepoint": 57739,
+      "fontFamily": "Cib",
+      "identifier": "kentico"
+    },
+    "keras": {
+      "codepoint": 57740,
+      "fontFamily": "Cib",
+      "identifier": "keras"
+    },
+    "keybase": {
+      "codepoint": 57741,
+      "fontFamily": "Cib",
+      "identifier": "keybase"
+    },
+    "keycdn": {
+      "codepoint": 57742,
+      "fontFamily": "Cib",
+      "identifier": "keycdn"
+    },
+    "khan-academy": {
+      "codepoint": 57743,
+      "fontFamily": "Cib",
+      "identifier": "khanAcademy"
+    },
+    "kibana": {
+      "codepoint": 57744,
+      "fontFamily": "Cib",
+      "identifier": "kibana"
+    },
+    "kickstarter": {
+      "codepoint": 57745,
+      "fontFamily": "Cib",
+      "identifier": "kickstarter"
+    },
+    "kik": {
+      "codepoint": 57746,
+      "fontFamily": "Cib",
+      "identifier": "kik"
+    },
+    "kirby": {
+      "codepoint": 57747,
+      "fontFamily": "Cib",
+      "identifier": "kirby"
+    },
+    "klout": {
+      "codepoint": 57748,
+      "fontFamily": "Cib",
+      "identifier": "klout"
+    },
+    "known": {
+      "codepoint": 57749,
+      "fontFamily": "Cib",
+      "identifier": "known"
+    },
+    "ko-fi": {
+      "codepoint": 57750,
+      "fontFamily": "Cib",
+      "identifier": "koFi"
+    },
+    "kodi": {
+      "codepoint": 57751,
+      "fontFamily": "Cib",
+      "identifier": "kodi"
+    },
+    "koding": {
+      "codepoint": 57752,
+      "fontFamily": "Cib",
+      "identifier": "koding"
+    },
+    "kotlin": {
+      "codepoint": 57753,
+      "fontFamily": "Cib",
+      "identifier": "kotlin"
+    },
+    "krita": {
+      "codepoint": 57754,
+      "fontFamily": "Cib",
+      "identifier": "krita"
+    },
+    "kubernetes": {
+      "codepoint": 57755,
+      "fontFamily": "Cib",
+      "identifier": "kubernetes"
+    },
+    "lanyrd": {
+      "codepoint": 57756,
+      "fontFamily": "Cib",
+      "identifier": "lanyrd"
+    },
+    "laravel": {
+      "codepoint": 57757,
+      "fontFamily": "Cib",
+      "identifier": "laravel"
+    },
+    "laravel-horizon": {
+      "codepoint": 57758,
+      "fontFamily": "Cib",
+      "identifier": "laravelHorizon"
+    },
+    "laravel-nova": {
+      "codepoint": 57759,
+      "fontFamily": "Cib",
+      "identifier": "laravelNova"
+    },
+    "last-fm": {
+      "codepoint": 57760,
+      "fontFamily": "Cib",
+      "identifier": "lastFm"
+    },
+    "latex": {
+      "codepoint": 57761,
+      "fontFamily": "Cib",
+      "identifier": "latex"
+    },
+    "launchpad": {
+      "codepoint": 57762,
+      "fontFamily": "Cib",
+      "identifier": "launchpad"
+    },
+    "leetcode": {
+      "codepoint": 57763,
+      "fontFamily": "Cib",
+      "identifier": "leetcode"
+    },
+    "lenovo": {
+      "codepoint": 57764,
+      "fontFamily": "Cib",
+      "identifier": "lenovo"
+    },
+    "less": {
+      "codepoint": 57765,
+      "fontFamily": "Cib",
+      "identifier": "less"
+    },
+    "lets-encrypt": {
+      "codepoint": 57766,
+      "fontFamily": "Cib",
+      "identifier": "letsEncrypt"
+    },
+    "letterboxd": {
+      "codepoint": 57767,
+      "fontFamily": "Cib",
+      "identifier": "letterboxd"
+    },
+    "lgtm": {
+      "codepoint": 57768,
+      "fontFamily": "Cib",
+      "identifier": "lgtm"
+    },
+    "liberapay": {
+      "codepoint": 57769,
+      "fontFamily": "Cib",
+      "identifier": "liberapay"
+    },
+    "librarything": {
+      "codepoint": 57770,
+      "fontFamily": "Cib",
+      "identifier": "librarything"
+    },
+    "libreoffice": {
+      "codepoint": 57771,
+      "fontFamily": "Cib",
+      "identifier": "libreoffice"
+    },
+    "line": {
+      "codepoint": 57772,
+      "fontFamily": "Cib",
+      "identifier": "line"
+    },
+    "linkedin": {
+      "codepoint": 57773,
+      "fontFamily": "Cib",
+      "identifier": "linkedin"
+    },
+    "linkedin-in": {
+      "codepoint": 57774,
+      "fontFamily": "Cib",
+      "identifier": "linkedinIn"
+    },
+    "linux": {
+      "codepoint": 57775,
+      "fontFamily": "Cib",
+      "identifier": "linux"
+    },
+    "linux-foundation": {
+      "codepoint": 57776,
+      "fontFamily": "Cib",
+      "identifier": "linuxFoundation"
+    },
+    "linux-mint": {
+      "codepoint": 57777,
+      "fontFamily": "Cib",
+      "identifier": "linuxMint"
+    },
+    "livejournal": {
+      "codepoint": 57778,
+      "fontFamily": "Cib",
+      "identifier": "livejournal"
+    },
+    "livestream": {
+      "codepoint": 57779,
+      "fontFamily": "Cib",
+      "identifier": "livestream"
+    },
+    "logstash": {
+      "codepoint": 57780,
+      "fontFamily": "Cib",
+      "identifier": "logstash"
+    },
+    "lua": {
+      "codepoint": 57781,
+      "fontFamily": "Cib",
+      "identifier": "lua"
+    },
+    "lumen": {
+      "codepoint": 57782,
+      "fontFamily": "Cib",
+      "identifier": "lumen"
+    },
+    "lyft": {
+      "codepoint": 57783,
+      "fontFamily": "Cib",
+      "identifier": "lyft"
+    },
+    "macys": {
+      "codepoint": 57784,
+      "fontFamily": "Cib",
+      "identifier": "macys"
+    },
+    "magento": {
+      "codepoint": 57785,
+      "fontFamily": "Cib",
+      "identifier": "magento"
+    },
+    "magisk": {
+      "codepoint": 57786,
+      "fontFamily": "Cib",
+      "identifier": "magisk"
+    },
+    "mail-ru": {
+      "codepoint": 57787,
+      "fontFamily": "Cib",
+      "identifier": "mailRu"
+    },
+    "mailchimp": {
+      "codepoint": 57788,
+      "fontFamily": "Cib",
+      "identifier": "mailchimp"
+    },
+    "makerbot": {
+      "codepoint": 57789,
+      "fontFamily": "Cib",
+      "identifier": "makerbot"
+    },
+    "manjaro": {
+      "codepoint": 57790,
+      "fontFamily": "Cib",
+      "identifier": "manjaro"
+    },
+    "markdown": {
+      "codepoint": 57791,
+      "fontFamily": "Cib",
+      "identifier": "markdown"
+    },
+    "marketo": {
+      "codepoint": 57792,
+      "fontFamily": "Cib",
+      "identifier": "marketo"
+    },
+    "mastercard": {
+      "codepoint": 57793,
+      "fontFamily": "Cib",
+      "identifier": "mastercard"
+    },
+    "mastodon": {
+      "codepoint": 57794,
+      "fontFamily": "Cib",
+      "identifier": "mastodon"
+    },
+    "material-design": {
+      "codepoint": 57795,
+      "fontFamily": "Cib",
+      "identifier": "materialDesign"
+    },
+    "mathworks": {
+      "codepoint": 57796,
+      "fontFamily": "Cib",
+      "identifier": "mathworks"
+    },
+    "matrix": {
+      "codepoint": 57797,
+      "fontFamily": "Cib",
+      "identifier": "matrix"
+    },
+    "mattermost": {
+      "codepoint": 57798,
+      "fontFamily": "Cib",
+      "identifier": "mattermost"
+    },
+    "matternet": {
+      "codepoint": 57799,
+      "fontFamily": "Cib",
+      "identifier": "matternet"
+    },
+    "maxcdn": {
+      "codepoint": 57800,
+      "fontFamily": "Cib",
+      "identifier": "maxcdn"
+    },
+    "mcafee": {
+      "codepoint": 57801,
+      "fontFamily": "Cib",
+      "identifier": "mcafee"
+    },
+    "media-temple": {
+      "codepoint": 57802,
+      "fontFamily": "Cib",
+      "identifier": "mediaTemple"
+    },
+    "mediafire": {
+      "codepoint": 57803,
+      "fontFamily": "Cib",
+      "identifier": "mediafire"
+    },
+    "medium": {
+      "codepoint": 57804,
+      "fontFamily": "Cib",
+      "identifier": "medium"
+    },
+    "medium-m": {
+      "codepoint": 57805,
+      "fontFamily": "Cib",
+      "identifier": "mediumM"
+    },
+    "meetup": {
+      "codepoint": 57806,
+      "fontFamily": "Cib",
+      "identifier": "meetup"
+    },
+    "mega": {
+      "codepoint": 57807,
+      "fontFamily": "Cib",
+      "identifier": "mega"
+    },
+    "mendeley": {
+      "codepoint": 57808,
+      "fontFamily": "Cib",
+      "identifier": "mendeley"
+    },
+    "messenger": {
+      "codepoint": 57809,
+      "fontFamily": "Cib",
+      "identifier": "messenger"
+    },
+    "meteor": {
+      "codepoint": 57810,
+      "fontFamily": "Cib",
+      "identifier": "meteor"
+    },
+    "micro-blog": {
+      "codepoint": 57811,
+      "fontFamily": "Cib",
+      "identifier": "microBlog"
+    },
+    "microgenetics": {
+      "codepoint": 57812,
+      "fontFamily": "Cib",
+      "identifier": "microgenetics"
+    },
+    "microsoft": {
+      "codepoint": 57813,
+      "fontFamily": "Cib",
+      "identifier": "microsoft"
+    },
+    "microsoft-edge": {
+      "codepoint": 57814,
+      "fontFamily": "Cib",
+      "identifier": "microsoftEdge"
+    },
+    "minetest": {
+      "codepoint": 57815,
+      "fontFamily": "Cib",
+      "identifier": "minetest"
+    },
+    "minutemailer": {
+      "codepoint": 57816,
+      "fontFamily": "Cib",
+      "identifier": "minutemailer"
+    },
+    "mix": {
+      "codepoint": 57817,
+      "fontFamily": "Cib",
+      "identifier": "mix"
+    },
+    "mixcloud": {
+      "codepoint": 57818,
+      "fontFamily": "Cib",
+      "identifier": "mixcloud"
+    },
+    "mixer": {
+      "codepoint": 57819,
+      "fontFamily": "Cib",
+      "identifier": "mixer"
+    },
+    "mojang": {
+      "codepoint": 57820,
+      "fontFamily": "Cib",
+      "identifier": "mojang"
+    },
+    "monero": {
+      "codepoint": 57821,
+      "fontFamily": "Cib",
+      "identifier": "monero"
+    },
+    "mongodb": {
+      "codepoint": 57822,
+      "fontFamily": "Cib",
+      "identifier": "mongodb"
+    },
+    "monkeytie": {
+      "codepoint": 57823,
+      "fontFamily": "Cib",
+      "identifier": "monkeytie"
+    },
+    "monogram": {
+      "codepoint": 57824,
+      "fontFamily": "Cib",
+      "identifier": "monogram"
+    },
+    "monzo": {
+      "codepoint": 57825,
+      "fontFamily": "Cib",
+      "identifier": "monzo"
+    },
+    "moo": {
+      "codepoint": 57826,
+      "fontFamily": "Cib",
+      "identifier": "moo"
+    },
+    "mozilla": {
+      "codepoint": 57827,
+      "fontFamily": "Cib",
+      "identifier": "mozilla"
+    },
+    "mozilla-firefox": {
+      "codepoint": 57828,
+      "fontFamily": "Cib",
+      "identifier": "mozillaFirefox"
+    },
+    "musescore": {
+      "codepoint": 57829,
+      "fontFamily": "Cib",
+      "identifier": "musescore"
+    },
+    "mxlinux": {
+      "codepoint": 57830,
+      "fontFamily": "Cib",
+      "identifier": "mxlinux"
+    },
+    "myspace": {
+      "codepoint": 57831,
+      "fontFamily": "Cib",
+      "identifier": "myspace"
+    },
+    "mysql": {
+      "codepoint": 57832,
+      "fontFamily": "Cib",
+      "identifier": "mysql"
+    },
+    "nativescript": {
+      "codepoint": 57833,
+      "fontFamily": "Cib",
+      "identifier": "nativescript"
+    },
+    "nec": {
+      "codepoint": 57834,
+      "fontFamily": "Cib",
+      "identifier": "nec"
+    },
+    "neo4j": {
+      "codepoint": 57835,
+      "fontFamily": "Cib",
+      "identifier": "neo4j"
+    },
+    "netflix": {
+      "codepoint": 57836,
+      "fontFamily": "Cib",
+      "identifier": "netflix"
+    },
+    "netlify": {
+      "codepoint": 57837,
+      "fontFamily": "Cib",
+      "identifier": "netlify"
+    },
+    "next-js": {
+      "codepoint": 57838,
+      "fontFamily": "Cib",
+      "identifier": "nextJs"
+    },
+    "nextcloud": {
+      "codepoint": 57839,
+      "fontFamily": "Cib",
+      "identifier": "nextcloud"
+    },
+    "nextdoor": {
+      "codepoint": 57840,
+      "fontFamily": "Cib",
+      "identifier": "nextdoor"
+    },
+    "nginx": {
+      "codepoint": 57841,
+      "fontFamily": "Cib",
+      "identifier": "nginx"
+    },
+    "nim": {
+      "codepoint": 57842,
+      "fontFamily": "Cib",
+      "identifier": "nim"
+    },
+    "nintendo": {
+      "codepoint": 57843,
+      "fontFamily": "Cib",
+      "identifier": "nintendo"
+    },
+    "nintendo-3ds": {
+      "codepoint": 57844,
+      "fontFamily": "Cib",
+      "identifier": "nintendo3ds"
+    },
+    "nintendo-gamecube": {
+      "codepoint": 57845,
+      "fontFamily": "Cib",
+      "identifier": "nintendoGamecube"
+    },
+    "nintendo-switch": {
+      "codepoint": 57846,
+      "fontFamily": "Cib",
+      "identifier": "nintendoSwitch"
+    },
+    "node-js": {
+      "codepoint": 57847,
+      "fontFamily": "Cib",
+      "identifier": "nodeJs"
+    },
+    "node-red": {
+      "codepoint": 57848,
+      "fontFamily": "Cib",
+      "identifier": "nodeRed"
+    },
+    "nodemon": {
+      "codepoint": 57849,
+      "fontFamily": "Cib",
+      "identifier": "nodemon"
+    },
+    "nokia": {
+      "codepoint": 57850,
+      "fontFamily": "Cib",
+      "identifier": "nokia"
+    },
+    "notion": {
+      "codepoint": 57851,
+      "fontFamily": "Cib",
+      "identifier": "notion"
+    },
+    "npm": {
+      "codepoint": 57852,
+      "fontFamily": "Cib",
+      "identifier": "npm"
+    },
+    "nucleo": {
+      "codepoint": 57853,
+      "fontFamily": "Cib",
+      "identifier": "nucleo"
+    },
+    "nuget": {
+      "codepoint": 57854,
+      "fontFamily": "Cib",
+      "identifier": "nuget"
+    },
+    "nuxt-js": {
+      "codepoint": 57855,
+      "fontFamily": "Cib",
+      "identifier": "nuxtJs"
+    },
+    "nvidia": {
+      "codepoint": 57856,
+      "fontFamily": "Cib",
+      "identifier": "nvidia"
+    },
+    "ocaml": {
+      "codepoint": 57857,
+      "fontFamily": "Cib",
+      "identifier": "ocaml"
+    },
+    "octave": {
+      "codepoint": 57858,
+      "fontFamily": "Cib",
+      "identifier": "octave"
+    },
+    "octopus-deploy": {
+      "codepoint": 57859,
+      "fontFamily": "Cib",
+      "identifier": "octopusDeploy"
+    },
+    "oculus": {
+      "codepoint": 57860,
+      "fontFamily": "Cib",
+      "identifier": "oculus"
+    },
+    "odnoklassniki": {
+      "codepoint": 57861,
+      "fontFamily": "Cib",
+      "identifier": "odnoklassniki"
+    },
+    "open-access": {
+      "codepoint": 57862,
+      "fontFamily": "Cib",
+      "identifier": "openAccess"
+    },
+    "open-collective": {
+      "codepoint": 57863,
+      "fontFamily": "Cib",
+      "identifier": "openCollective"
+    },
+    "open-id": {
+      "codepoint": 57864,
+      "fontFamily": "Cib",
+      "identifier": "openId"
+    },
+    "open-source-initiative": {
+      "codepoint": 57865,
+      "fontFamily": "Cib",
+      "identifier": "openSourceInitiative"
+    },
+    "openstreetmap": {
+      "codepoint": 57866,
+      "fontFamily": "Cib",
+      "identifier": "openstreetmap"
+    },
+    "opensuse": {
+      "codepoint": 57867,
+      "fontFamily": "Cib",
+      "identifier": "opensuse"
+    },
+    "openvpn": {
+      "codepoint": 57868,
+      "fontFamily": "Cib",
+      "identifier": "openvpn"
+    },
+    "opera": {
+      "codepoint": 57869,
+      "fontFamily": "Cib",
+      "identifier": "opera"
+    },
+    "opsgenie": {
+      "codepoint": 57870,
+      "fontFamily": "Cib",
+      "identifier": "opsgenie"
+    },
+    "oracle": {
+      "codepoint": 57871,
+      "fontFamily": "Cib",
+      "identifier": "oracle"
+    },
+    "oracle-netsuite": {
+      "codepoint": 57872,
+      "fontFamily": "Cib",
+      "identifier": "oracleNetsuite"
+    },
+    "orcid": {
+      "codepoint": 57873,
+      "fontFamily": "Cib",
+      "identifier": "orcid"
+    },
+    "origin": {
+      "codepoint": 57874,
+      "fontFamily": "Cib",
+      "identifier": "origin"
+    },
+    "osi": {
+      "codepoint": 57875,
+      "fontFamily": "Cib",
+      "identifier": "osi"
+    },
+    "osmc": {
+      "codepoint": 57876,
+      "fontFamily": "Cib",
+      "identifier": "osmc"
+    },
+    "overcast": {
+      "codepoint": 57877,
+      "fontFamily": "Cib",
+      "identifier": "overcast"
+    },
+    "overleaf": {
+      "codepoint": 57878,
+      "fontFamily": "Cib",
+      "identifier": "overleaf"
+    },
+    "ovh": {
+      "codepoint": 57879,
+      "fontFamily": "Cib",
+      "identifier": "ovh"
+    },
+    "pagekit": {
+      "codepoint": 57880,
+      "fontFamily": "Cib",
+      "identifier": "pagekit"
+    },
+    "palantir": {
+      "codepoint": 57881,
+      "fontFamily": "Cib",
+      "identifier": "palantir"
+    },
+    "pandora": {
+      "codepoint": 57882,
+      "fontFamily": "Cib",
+      "identifier": "pandora"
+    },
+    "pantheon": {
+      "codepoint": 57883,
+      "fontFamily": "Cib",
+      "identifier": "pantheon"
+    },
+    "patreon": {
+      "codepoint": 57884,
+      "fontFamily": "Cib",
+      "identifier": "patreon"
+    },
+    "paypal": {
+      "codepoint": 57885,
+      "fontFamily": "Cib",
+      "identifier": "paypal"
+    },
+    "periscope": {
+      "codepoint": 57886,
+      "fontFamily": "Cib",
+      "identifier": "periscope"
+    },
+    "php": {
+      "codepoint": 57887,
+      "fontFamily": "Cib",
+      "identifier": "php"
+    },
+    "picarto-tv": {
+      "codepoint": 57888,
+      "fontFamily": "Cib",
+      "identifier": "picartoTv"
+    },
+    "pinboard": {
+      "codepoint": 57889,
+      "fontFamily": "Cib",
+      "identifier": "pinboard"
+    },
+    "pingdom": {
+      "codepoint": 57890,
+      "fontFamily": "Cib",
+      "identifier": "pingdom"
+    },
+    "pingup": {
+      "codepoint": 57891,
+      "fontFamily": "Cib",
+      "identifier": "pingup"
+    },
+    "pinterest": {
+      "codepoint": 57892,
+      "fontFamily": "Cib",
+      "identifier": "pinterest"
+    },
+    "pinterest-p": {
+      "codepoint": 57893,
+      "fontFamily": "Cib",
+      "identifier": "pinterestP"
+    },
+    "pivotaltracker": {
+      "codepoint": 57894,
+      "fontFamily": "Cib",
+      "identifier": "pivotaltracker"
+    },
+    "plangrid": {
+      "codepoint": 57895,
+      "fontFamily": "Cib",
+      "identifier": "plangrid"
+    },
+    "player-me": {
+      "codepoint": 57896,
+      "fontFamily": "Cib",
+      "identifier": "playerMe"
+    },
+    "playerfm": {
+      "codepoint": 57897,
+      "fontFamily": "Cib",
+      "identifier": "playerfm"
+    },
+    "playstation": {
+      "codepoint": 57898,
+      "fontFamily": "Cib",
+      "identifier": "playstation"
+    },
+    "playstation3": {
+      "codepoint": 57899,
+      "fontFamily": "Cib",
+      "identifier": "playstation3"
+    },
+    "playstation4": {
+      "codepoint": 57900,
+      "fontFamily": "Cib",
+      "identifier": "playstation4"
+    },
+    "plesk": {
+      "codepoint": 57901,
+      "fontFamily": "Cib",
+      "identifier": "plesk"
+    },
+    "plex": {
+      "codepoint": 57902,
+      "fontFamily": "Cib",
+      "identifier": "plex"
+    },
+    "pluralsight": {
+      "codepoint": 57903,
+      "fontFamily": "Cib",
+      "identifier": "pluralsight"
+    },
+    "plurk": {
+      "codepoint": 57904,
+      "fontFamily": "Cib",
+      "identifier": "plurk"
+    },
+    "pocket": {
+      "codepoint": 57905,
+      "fontFamily": "Cib",
+      "identifier": "pocket"
+    },
+    "postgresql": {
+      "codepoint": 57906,
+      "fontFamily": "Cib",
+      "identifier": "postgresql"
+    },
+    "postman": {
+      "codepoint": 57907,
+      "fontFamily": "Cib",
+      "identifier": "postman"
+    },
+    "postwoman": {
+      "codepoint": 57908,
+      "fontFamily": "Cib",
+      "identifier": "postwoman"
+    },
+    "powershell": {
+      "codepoint": 57909,
+      "fontFamily": "Cib",
+      "identifier": "powershell"
+    },
+    "prettier": {
+      "codepoint": 57910,
+      "fontFamily": "Cib",
+      "identifier": "prettier"
+    },
+    "prismic": {
+      "codepoint": 57911,
+      "fontFamily": "Cib",
+      "identifier": "prismic"
+    },
+    "probot": {
+      "codepoint": 57912,
+      "fontFamily": "Cib",
+      "identifier": "probot"
+    },
+    "processwire": {
+      "codepoint": 57913,
+      "fontFamily": "Cib",
+      "identifier": "processwire"
+    },
+    "product-hunt": {
+      "codepoint": 57914,
+      "fontFamily": "Cib",
+      "identifier": "productHunt"
+    },
+    "proto-io": {
+      "codepoint": 57915,
+      "fontFamily": "Cib",
+      "identifier": "protoIo"
+    },
+    "protonmail": {
+      "codepoint": 57916,
+      "fontFamily": "Cib",
+      "identifier": "protonmail"
+    },
+    "proxmox": {
+      "codepoint": 57917,
+      "fontFamily": "Cib",
+      "identifier": "proxmox"
+    },
+    "pypi": {
+      "codepoint": 57918,
+      "fontFamily": "Cib",
+      "identifier": "pypi"
+    },
+    "python": {
+      "codepoint": 57919,
+      "fontFamily": "Cib",
+      "identifier": "python"
+    },
+    "pytorch": {
+      "codepoint": 57920,
+      "fontFamily": "Cib",
+      "identifier": "pytorch"
+    },
+    "qgis": {
+      "codepoint": 57921,
+      "fontFamily": "Cib",
+      "identifier": "qgis"
+    },
+    "qiita": {
+      "codepoint": 57922,
+      "fontFamily": "Cib",
+      "identifier": "qiita"
+    },
+    "qq": {
+      "codepoint": 57923,
+      "fontFamily": "Cib",
+      "identifier": "qq"
+    },
+    "qualcomm": {
+      "codepoint": 57924,
+      "fontFamily": "Cib",
+      "identifier": "qualcomm"
+    },
+    "quantcast": {
+      "codepoint": 57925,
+      "fontFamily": "Cib",
+      "identifier": "quantcast"
+    },
+    "quantopian": {
+      "codepoint": 57926,
+      "fontFamily": "Cib",
+      "identifier": "quantopian"
+    },
+    "quarkus": {
+      "codepoint": 57927,
+      "fontFamily": "Cib",
+      "identifier": "quarkus"
+    },
+    "quora": {
+      "codepoint": 57928,
+      "fontFamily": "Cib",
+      "identifier": "quora"
+    },
+    "qwiklabs": {
+      "codepoint": 57929,
+      "fontFamily": "Cib",
+      "identifier": "qwiklabs"
+    },
+    "qzone": {
+      "codepoint": 57930,
+      "fontFamily": "Cib",
+      "identifier": "qzone"
+    },
+    "r": {
+      "codepoint": 57931,
+      "fontFamily": "Cib",
+      "identifier": "r"
+    },
+    "radiopublic": {
+      "codepoint": 57932,
+      "fontFamily": "Cib",
+      "identifier": "radiopublic"
+    },
+    "rails": {
+      "codepoint": 57933,
+      "fontFamily": "Cib",
+      "identifier": "rails"
+    },
+    "raspberry-pi": {
+      "codepoint": 57934,
+      "fontFamily": "Cib",
+      "identifier": "raspberryPi"
+    },
+    "react": {
+      "codepoint": 57935,
+      "fontFamily": "Cib",
+      "identifier": "react"
+    },
+    "read-the-docs": {
+      "codepoint": 57936,
+      "fontFamily": "Cib",
+      "identifier": "readTheDocs"
+    },
+    "readme": {
+      "codepoint": 57937,
+      "fontFamily": "Cib",
+      "identifier": "readme"
+    },
+    "realm": {
+      "codepoint": 57938,
+      "fontFamily": "Cib",
+      "identifier": "realm"
+    },
+    "reason": {
+      "codepoint": 57939,
+      "fontFamily": "Cib",
+      "identifier": "reason"
+    },
+    "redbubble": {
+      "codepoint": 57940,
+      "fontFamily": "Cib",
+      "identifier": "redbubble"
+    },
+    "reddit": {
+      "codepoint": 57941,
+      "fontFamily": "Cib",
+      "identifier": "reddit"
+    },
+    "reddit-alt": {
+      "codepoint": 57942,
+      "fontFamily": "Cib",
+      "identifier": "redditAlt"
+    },
+    "redhat": {
+      "codepoint": 57943,
+      "fontFamily": "Cib",
+      "identifier": "redhat"
+    },
+    "redis": {
+      "codepoint": 57944,
+      "fontFamily": "Cib",
+      "identifier": "redis"
+    },
+    "redux": {
+      "codepoint": 57945,
+      "fontFamily": "Cib",
+      "identifier": "redux"
+    },
+    "renren": {
+      "codepoint": 57946,
+      "fontFamily": "Cib",
+      "identifier": "renren"
+    },
+    "reverbnation": {
+      "codepoint": 57947,
+      "fontFamily": "Cib",
+      "identifier": "reverbnation"
+    },
+    "riot": {
+      "codepoint": 57948,
+      "fontFamily": "Cib",
+      "identifier": "riot"
+    },
+    "ripple": {
+      "codepoint": 57949,
+      "fontFamily": "Cib",
+      "identifier": "ripple"
+    },
+    "riseup": {
+      "codepoint": 57950,
+      "fontFamily": "Cib",
+      "identifier": "riseup"
+    },
+    "rollup-js": {
+      "codepoint": 57951,
+      "fontFamily": "Cib",
+      "identifier": "rollupJs"
+    },
+    "roots": {
+      "codepoint": 57952,
+      "fontFamily": "Cib",
+      "identifier": "roots"
+    },
+    "roundcube": {
+      "codepoint": 57953,
+      "fontFamily": "Cib",
+      "identifier": "roundcube"
+    },
+    "rss": {
+      "codepoint": 57954,
+      "fontFamily": "Cib",
+      "identifier": "rss"
+    },
+    "rstudio": {
+      "codepoint": 57955,
+      "fontFamily": "Cib",
+      "identifier": "rstudio"
+    },
+    "ruby": {
+      "codepoint": 57956,
+      "fontFamily": "Cib",
+      "identifier": "ruby"
+    },
+    "rubygems": {
+      "codepoint": 57957,
+      "fontFamily": "Cib",
+      "identifier": "rubygems"
+    },
+    "runkeeper": {
+      "codepoint": 57958,
+      "fontFamily": "Cib",
+      "identifier": "runkeeper"
+    },
+    "rust": {
+      "codepoint": 57959,
+      "fontFamily": "Cib",
+      "identifier": "rust"
+    },
+    "safari": {
+      "codepoint": 57960,
+      "fontFamily": "Cib",
+      "identifier": "safari"
+    },
+    "sahibinden": {
+      "codepoint": 57961,
+      "fontFamily": "Cib",
+      "identifier": "sahibinden"
+    },
+    "salesforce": {
+      "codepoint": 57962,
+      "fontFamily": "Cib",
+      "identifier": "salesforce"
+    },
+    "saltstack": {
+      "codepoint": 57963,
+      "fontFamily": "Cib",
+      "identifier": "saltstack"
+    },
+    "samsung": {
+      "codepoint": 57964,
+      "fontFamily": "Cib",
+      "identifier": "samsung"
+    },
+    "samsung-pay": {
+      "codepoint": 57965,
+      "fontFamily": "Cib",
+      "identifier": "samsungPay"
+    },
+    "sap": {
+      "codepoint": 57966,
+      "fontFamily": "Cib",
+      "identifier": "sap"
+    },
+    "sass": {
+      "codepoint": 57967,
+      "fontFamily": "Cib",
+      "identifier": "sass"
+    },
+    "sass-alt": {
+      "codepoint": 57968,
+      "fontFamily": "Cib",
+      "identifier": "sassAlt"
+    },
+    "saucelabs": {
+      "codepoint": 57969,
+      "fontFamily": "Cib",
+      "identifier": "saucelabs"
+    },
+    "scala": {
+      "codepoint": 57970,
+      "fontFamily": "Cib",
+      "identifier": "scala"
+    },
+    "scaleway": {
+      "codepoint": 57971,
+      "fontFamily": "Cib",
+      "identifier": "scaleway"
+    },
+    "scribd": {
+      "codepoint": 57972,
+      "fontFamily": "Cib",
+      "identifier": "scribd"
+    },
+    "scrutinizerci": {
+      "codepoint": 57973,
+      "fontFamily": "Cib",
+      "identifier": "scrutinizerci"
+    },
+    "seagate": {
+      "codepoint": 57974,
+      "fontFamily": "Cib",
+      "identifier": "seagate"
+    },
+    "sega": {
+      "codepoint": 57975,
+      "fontFamily": "Cib",
+      "identifier": "sega"
+    },
+    "sellfy": {
+      "codepoint": 57976,
+      "fontFamily": "Cib",
+      "identifier": "sellfy"
+    },
+    "semaphoreci": {
+      "codepoint": 57977,
+      "fontFamily": "Cib",
+      "identifier": "semaphoreci"
+    },
+    "sensu": {
+      "codepoint": 57978,
+      "fontFamily": "Cib",
+      "identifier": "sensu"
+    },
+    "sentry": {
+      "codepoint": 57979,
+      "fontFamily": "Cib",
+      "identifier": "sentry"
+    },
+    "server-fault": {
+      "codepoint": 57980,
+      "fontFamily": "Cib",
+      "identifier": "serverFault"
+    },
+    "shazam": {
+      "codepoint": 57981,
+      "fontFamily": "Cib",
+      "identifier": "shazam"
+    },
+    "shell": {
+      "codepoint": 57982,
+      "fontFamily": "Cib",
+      "identifier": "shell"
+    },
+    "shopify": {
+      "codepoint": 57983,
+      "fontFamily": "Cib",
+      "identifier": "shopify"
+    },
+    "showpad": {
+      "codepoint": 57984,
+      "fontFamily": "Cib",
+      "identifier": "showpad"
+    },
+    "siemens": {
+      "codepoint": 57985,
+      "fontFamily": "Cib",
+      "identifier": "siemens"
+    },
+    "signal": {
+      "codepoint": 57986,
+      "fontFamily": "Cib",
+      "identifier": "signal"
+    },
+    "sina-weibo": {
+      "codepoint": 57987,
+      "fontFamily": "Cib",
+      "identifier": "sinaWeibo"
+    },
+    "sitepoint": {
+      "codepoint": 57988,
+      "fontFamily": "Cib",
+      "identifier": "sitepoint"
+    },
+    "sketch": {
+      "codepoint": 57989,
+      "fontFamily": "Cib",
+      "identifier": "sketch"
+    },
+    "skillshare": {
+      "codepoint": 57990,
+      "fontFamily": "Cib",
+      "identifier": "skillshare"
+    },
+    "skyliner": {
+      "codepoint": 57991,
+      "fontFamily": "Cib",
+      "identifier": "skyliner"
+    },
+    "skype": {
+      "codepoint": 57992,
+      "fontFamily": "Cib",
+      "identifier": "skype"
+    },
+    "slack": {
+      "codepoint": 57993,
+      "fontFamily": "Cib",
+      "identifier": "slack"
+    },
+    "slashdot": {
+      "codepoint": 57994,
+      "fontFamily": "Cib",
+      "identifier": "slashdot"
+    },
+    "slickpic": {
+      "codepoint": 57995,
+      "fontFamily": "Cib",
+      "identifier": "slickpic"
+    },
+    "slides": {
+      "codepoint": 57996,
+      "fontFamily": "Cib",
+      "identifier": "slides"
+    },
+    "slideshare": {
+      "codepoint": 57997,
+      "fontFamily": "Cib",
+      "identifier": "slideshare"
+    },
+    "smashingmagazine": {
+      "codepoint": 57998,
+      "fontFamily": "Cib",
+      "identifier": "smashingmagazine"
+    },
+    "snapchat": {
+      "codepoint": 57999,
+      "fontFamily": "Cib",
+      "identifier": "snapchat"
+    },
+    "snapcraft": {
+      "codepoint": 58000,
+      "fontFamily": "Cib",
+      "identifier": "snapcraft"
+    },
+    "snyk": {
+      "codepoint": 58001,
+      "fontFamily": "Cib",
+      "identifier": "snyk"
+    },
+    "society6": {
+      "codepoint": 58002,
+      "fontFamily": "Cib",
+      "identifier": "society6"
+    },
+    "socket-io": {
+      "codepoint": 58003,
+      "fontFamily": "Cib",
+      "identifier": "socketIo"
+    },
+    "sogou": {
+      "codepoint": 58004,
+      "fontFamily": "Cib",
+      "identifier": "sogou"
+    },
+    "solus": {
+      "codepoint": 58005,
+      "fontFamily": "Cib",
+      "identifier": "solus"
+    },
+    "songkick": {
+      "codepoint": 58006,
+      "fontFamily": "Cib",
+      "identifier": "songkick"
+    },
+    "sonos": {
+      "codepoint": 58007,
+      "fontFamily": "Cib",
+      "identifier": "sonos"
+    },
+    "soundcloud": {
+      "codepoint": 58008,
+      "fontFamily": "Cib",
+      "identifier": "soundcloud"
+    },
+    "sourceforge": {
+      "codepoint": 58009,
+      "fontFamily": "Cib",
+      "identifier": "sourceforge"
+    },
+    "sourcegraph": {
+      "codepoint": 58010,
+      "fontFamily": "Cib",
+      "identifier": "sourcegraph"
+    },
+    "spacemacs": {
+      "codepoint": 58011,
+      "fontFamily": "Cib",
+      "identifier": "spacemacs"
+    },
+    "spacex": {
+      "codepoint": 58012,
+      "fontFamily": "Cib",
+      "identifier": "spacex"
+    },
+    "sparkfun": {
+      "codepoint": 58013,
+      "fontFamily": "Cib",
+      "identifier": "sparkfun"
+    },
+    "sparkpost": {
+      "codepoint": 58014,
+      "fontFamily": "Cib",
+      "identifier": "sparkpost"
+    },
+    "spdx": {
+      "codepoint": 58015,
+      "fontFamily": "Cib",
+      "identifier": "spdx"
+    },
+    "speaker-deck": {
+      "codepoint": 58016,
+      "fontFamily": "Cib",
+      "identifier": "speakerDeck"
+    },
+    "spectrum": {
+      "codepoint": 58017,
+      "fontFamily": "Cib",
+      "identifier": "spectrum"
+    },
+    "spotify": {
+      "codepoint": 58018,
+      "fontFamily": "Cib",
+      "identifier": "spotify"
+    },
+    "spotlight": {
+      "codepoint": 58019,
+      "fontFamily": "Cib",
+      "identifier": "spotlight"
+    },
+    "spreaker": {
+      "codepoint": 58020,
+      "fontFamily": "Cib",
+      "identifier": "spreaker"
+    },
+    "spring": {
+      "codepoint": 58021,
+      "fontFamily": "Cib",
+      "identifier": "spring"
+    },
+    "sprint": {
+      "codepoint": 58022,
+      "fontFamily": "Cib",
+      "identifier": "sprint"
+    },
+    "squarespace": {
+      "codepoint": 58023,
+      "fontFamily": "Cib",
+      "identifier": "squarespace"
+    },
+    "stack-overflow": {
+      "codepoint": 58024,
+      "fontFamily": "Cib",
+      "identifier": "stackOverflow"
+    },
+    "stackbit": {
+      "codepoint": 58025,
+      "fontFamily": "Cib",
+      "identifier": "stackbit"
+    },
+    "stackexchange": {
+      "codepoint": 58026,
+      "fontFamily": "Cib",
+      "identifier": "stackexchange"
+    },
+    "stackoverflow": {
+      "codepoint": 58027,
+      "fontFamily": "Cib",
+      "identifier": "stackoverflow"
+    },
+    "stackpath": {
+      "codepoint": 58028,
+      "fontFamily": "Cib",
+      "identifier": "stackpath"
+    },
+    "stackshare": {
+      "codepoint": 58029,
+      "fontFamily": "Cib",
+      "identifier": "stackshare"
+    },
+    "stadia": {
+      "codepoint": 58030,
+      "fontFamily": "Cib",
+      "identifier": "stadia"
+    },
+    "statamic": {
+      "codepoint": 58031,
+      "fontFamily": "Cib",
+      "identifier": "statamic"
+    },
+    "staticman": {
+      "codepoint": 58032,
+      "fontFamily": "Cib",
+      "identifier": "staticman"
+    },
+    "statuspage": {
+      "codepoint": 58033,
+      "fontFamily": "Cib",
+      "identifier": "statuspage"
+    },
+    "steam": {
+      "codepoint": 58034,
+      "fontFamily": "Cib",
+      "identifier": "steam"
+    },
+    "steem": {
+      "codepoint": 58035,
+      "fontFamily": "Cib",
+      "identifier": "steem"
+    },
+    "steemit": {
+      "codepoint": 58036,
+      "fontFamily": "Cib",
+      "identifier": "steemit"
+    },
+    "stitcher": {
+      "codepoint": 58037,
+      "fontFamily": "Cib",
+      "identifier": "stitcher"
+    },
+    "storify": {
+      "codepoint": 58038,
+      "fontFamily": "Cib",
+      "identifier": "storify"
+    },
+    "storybook": {
+      "codepoint": 58039,
+      "fontFamily": "Cib",
+      "identifier": "storybook"
+    },
+    "strapi": {
+      "codepoint": 58040,
+      "fontFamily": "Cib",
+      "identifier": "strapi"
+    },
+    "strava": {
+      "codepoint": 58041,
+      "fontFamily": "Cib",
+      "identifier": "strava"
+    },
+    "stripe": {
+      "codepoint": 58042,
+      "fontFamily": "Cib",
+      "identifier": "stripe"
+    },
+    "stripe-s": {
+      "codepoint": 58043,
+      "fontFamily": "Cib",
+      "identifier": "stripeS"
+    },
+    "stubhub": {
+      "codepoint": 58044,
+      "fontFamily": "Cib",
+      "identifier": "stubhub"
+    },
+    "stumbleupon": {
+      "codepoint": 58045,
+      "fontFamily": "Cib",
+      "identifier": "stumbleupon"
+    },
+    "styleshare": {
+      "codepoint": 58046,
+      "fontFamily": "Cib",
+      "identifier": "styleshare"
+    },
+    "stylus": {
+      "codepoint": 58047,
+      "fontFamily": "Cib",
+      "identifier": "stylus"
+    },
+    "sublime-text": {
+      "codepoint": 58048,
+      "fontFamily": "Cib",
+      "identifier": "sublimeText"
+    },
+    "subversion": {
+      "codepoint": 58049,
+      "fontFamily": "Cib",
+      "identifier": "subversion"
+    },
+    "superuser": {
+      "codepoint": 58050,
+      "fontFamily": "Cib",
+      "identifier": "superuser"
+    },
+    "svelte": {
+      "codepoint": 58051,
+      "fontFamily": "Cib",
+      "identifier": "svelte"
+    },
+    "svg": {
+      "codepoint": 58052,
+      "fontFamily": "Cib",
+      "identifier": "svg"
+    },
+    "swagger": {
+      "codepoint": 58053,
+      "fontFamily": "Cib",
+      "identifier": "swagger"
+    },
+    "swarm": {
+      "codepoint": 58054,
+      "fontFamily": "Cib",
+      "identifier": "swarm"
+    },
+    "swift": {
+      "codepoint": 58055,
+      "fontFamily": "Cib",
+      "identifier": "swift"
+    },
+    "symantec": {
+      "codepoint": 58056,
+      "fontFamily": "Cib",
+      "identifier": "symantec"
+    },
+    "symfony": {
+      "codepoint": 58057,
+      "fontFamily": "Cib",
+      "identifier": "symfony"
+    },
+    "synology": {
+      "codepoint": 58058,
+      "fontFamily": "Cib",
+      "identifier": "synology"
+    },
+    "t-mobile": {
+      "codepoint": 58059,
+      "fontFamily": "Cib",
+      "identifier": "tMobile"
+    },
+    "tableau": {
+      "codepoint": 58060,
+      "fontFamily": "Cib",
+      "identifier": "tableau"
+    },
+    "tails": {
+      "codepoint": 58061,
+      "fontFamily": "Cib",
+      "identifier": "tails"
+    },
+    "tapas": {
+      "codepoint": 58062,
+      "fontFamily": "Cib",
+      "identifier": "tapas"
+    },
+    "teamviewer": {
+      "codepoint": 58063,
+      "fontFamily": "Cib",
+      "identifier": "teamviewer"
+    },
+    "ted": {
+      "codepoint": 58064,
+      "fontFamily": "Cib",
+      "identifier": "ted"
+    },
+    "teespring": {
+      "codepoint": 58065,
+      "fontFamily": "Cib",
+      "identifier": "teespring"
+    },
+    "telegram": {
+      "codepoint": 58066,
+      "fontFamily": "Cib",
+      "identifier": "telegram"
+    },
+    "telegram-plane": {
+      "codepoint": 58067,
+      "fontFamily": "Cib",
+      "identifier": "telegramPlane"
+    },
+    "tencent-qq": {
+      "codepoint": 58068,
+      "fontFamily": "Cib",
+      "identifier": "tencentQq"
+    },
+    "tencent-weibo": {
+      "codepoint": 58069,
+      "fontFamily": "Cib",
+      "identifier": "tencentWeibo"
+    },
+    "tensorflow": {
+      "codepoint": 58070,
+      "fontFamily": "Cib",
+      "identifier": "tensorflow"
+    },
+    "terraform": {
+      "codepoint": 58071,
+      "fontFamily": "Cib",
+      "identifier": "terraform"
+    },
+    "tesla": {
+      "codepoint": 58072,
+      "fontFamily": "Cib",
+      "identifier": "tesla"
+    },
+    "the-mighty": {
+      "codepoint": 58073,
+      "fontFamily": "Cib",
+      "identifier": "theMighty"
+    },
+    "the-movie-database": {
+      "codepoint": 58074,
+      "fontFamily": "Cib",
+      "identifier": "theMovieDatabase"
+    },
+    "tidal": {
+      "codepoint": 58075,
+      "fontFamily": "Cib",
+      "identifier": "tidal"
+    },
+    "tiktok": {
+      "codepoint": 58076,
+      "fontFamily": "Cib",
+      "identifier": "tiktok"
+    },
+    "tinder": {
+      "codepoint": 58077,
+      "fontFamily": "Cib",
+      "identifier": "tinder"
+    },
+    "todoist": {
+      "codepoint": 58078,
+      "fontFamily": "Cib",
+      "identifier": "todoist"
+    },
+    "toggl": {
+      "codepoint": 58079,
+      "fontFamily": "Cib",
+      "identifier": "toggl"
+    },
+    "topcoder": {
+      "codepoint": 58080,
+      "fontFamily": "Cib",
+      "identifier": "topcoder"
+    },
+    "toptal": {
+      "codepoint": 58081,
+      "fontFamily": "Cib",
+      "identifier": "toptal"
+    },
+    "tor": {
+      "codepoint": 58082,
+      "fontFamily": "Cib",
+      "identifier": "tor"
+    },
+    "toshiba": {
+      "codepoint": 58083,
+      "fontFamily": "Cib",
+      "identifier": "toshiba"
+    },
+    "trainerroad": {
+      "codepoint": 58084,
+      "fontFamily": "Cib",
+      "identifier": "trainerroad"
+    },
+    "trakt": {
+      "codepoint": 58085,
+      "fontFamily": "Cib",
+      "identifier": "trakt"
+    },
+    "travisci": {
+      "codepoint": 58086,
+      "fontFamily": "Cib",
+      "identifier": "travisci"
+    },
+    "treehouse": {
+      "codepoint": 58087,
+      "fontFamily": "Cib",
+      "identifier": "treehouse"
+    },
+    "trello": {
+      "codepoint": 58088,
+      "fontFamily": "Cib",
+      "identifier": "trello"
+    },
+    "tripadvisor": {
+      "codepoint": 58089,
+      "fontFamily": "Cib",
+      "identifier": "tripadvisor"
+    },
+    "trulia": {
+      "codepoint": 58090,
+      "fontFamily": "Cib",
+      "identifier": "trulia"
+    },
+    "tumblr": {
+      "codepoint": 58091,
+      "fontFamily": "Cib",
+      "identifier": "tumblr"
+    },
+    "twilio": {
+      "codepoint": 58092,
+      "fontFamily": "Cib",
+      "identifier": "twilio"
+    },
+    "twitch": {
+      "codepoint": 58093,
+      "fontFamily": "Cib",
+      "identifier": "twitch"
+    },
+    "twitter": {
+      "codepoint": 58094,
+      "fontFamily": "Cib",
+      "identifier": "twitter"
+    },
+    "twoo": {
+      "codepoint": 58095,
+      "fontFamily": "Cib",
+      "identifier": "twoo"
+    },
+    "typescript": {
+      "codepoint": 58096,
+      "fontFamily": "Cib",
+      "identifier": "typescript"
+    },
+    "typo3": {
+      "codepoint": 58097,
+      "fontFamily": "Cib",
+      "identifier": "typo3"
+    },
+    "uber": {
+      "codepoint": 58098,
+      "fontFamily": "Cib",
+      "identifier": "uber"
+    },
+    "ubisoft": {
+      "codepoint": 58099,
+      "fontFamily": "Cib",
+      "identifier": "ubisoft"
+    },
+    "ublock-origin": {
+      "codepoint": 58100,
+      "fontFamily": "Cib",
+      "identifier": "ublockOrigin"
+    },
+    "ubuntu": {
+      "codepoint": 58101,
+      "fontFamily": "Cib",
+      "identifier": "ubuntu"
+    },
+    "udacity": {
+      "codepoint": 58102,
+      "fontFamily": "Cib",
+      "identifier": "udacity"
+    },
+    "udemy": {
+      "codepoint": 58103,
+      "fontFamily": "Cib",
+      "identifier": "udemy"
+    },
+    "uikit": {
+      "codepoint": 58104,
+      "fontFamily": "Cib",
+      "identifier": "uikit"
+    },
+    "umbraco": {
+      "codepoint": 58105,
+      "fontFamily": "Cib",
+      "identifier": "umbraco"
+    },
+    "unity": {
+      "codepoint": 58106,
+      "fontFamily": "Cib",
+      "identifier": "unity"
+    },
+    "unreal-engine": {
+      "codepoint": 58107,
+      "fontFamily": "Cib",
+      "identifier": "unrealEngine"
+    },
+    "unsplash": {
+      "codepoint": 58108,
+      "fontFamily": "Cib",
+      "identifier": "unsplash"
+    },
+    "untappd": {
+      "codepoint": 58109,
+      "fontFamily": "Cib",
+      "identifier": "untappd"
+    },
+    "upwork": {
+      "codepoint": 58110,
+      "fontFamily": "Cib",
+      "identifier": "upwork"
+    },
+    "usb": {
+      "codepoint": 58111,
+      "fontFamily": "Cib",
+      "identifier": "usb"
+    },
+    "v8": {
+      "codepoint": 58112,
+      "fontFamily": "Cib",
+      "identifier": "v8"
+    },
+    "vagrant": {
+      "codepoint": 58113,
+      "fontFamily": "Cib",
+      "identifier": "vagrant"
+    },
+    "venmo": {
+      "codepoint": 58114,
+      "fontFamily": "Cib",
+      "identifier": "venmo"
+    },
+    "verizon": {
+      "codepoint": 58115,
+      "fontFamily": "Cib",
+      "identifier": "verizon"
+    },
+    "viadeo": {
+      "codepoint": 58116,
+      "fontFamily": "Cib",
+      "identifier": "viadeo"
+    },
+    "viber": {
+      "codepoint": 58117,
+      "fontFamily": "Cib",
+      "identifier": "viber"
+    },
+    "vim": {
+      "codepoint": 58118,
+      "fontFamily": "Cib",
+      "identifier": "vim"
+    },
+    "vimeo": {
+      "codepoint": 58119,
+      "fontFamily": "Cib",
+      "identifier": "vimeo"
+    },
+    "vimeo-v": {
+      "codepoint": 58120,
+      "fontFamily": "Cib",
+      "identifier": "vimeoV"
+    },
+    "vine": {
+      "codepoint": 58121,
+      "fontFamily": "Cib",
+      "identifier": "vine"
+    },
+    "virb": {
+      "codepoint": 58122,
+      "fontFamily": "Cib",
+      "identifier": "virb"
+    },
+    "visa": {
+      "codepoint": 58123,
+      "fontFamily": "Cib",
+      "identifier": "visa"
+    },
+    "visual-studio": {
+      "codepoint": 58124,
+      "fontFamily": "Cib",
+      "identifier": "visualStudio"
+    },
+    "visual-studio-code": {
+      "codepoint": 58125,
+      "fontFamily": "Cib",
+      "identifier": "visualStudioCode"
+    },
+    "vk": {
+      "codepoint": 58126,
+      "fontFamily": "Cib",
+      "identifier": "vk"
+    },
+    "vlc": {
+      "codepoint": 58127,
+      "fontFamily": "Cib",
+      "identifier": "vlc"
+    },
+    "vsco": {
+      "codepoint": 58128,
+      "fontFamily": "Cib",
+      "identifier": "vsco"
+    },
+    "vue-js": {
+      "codepoint": 58129,
+      "fontFamily": "Cib",
+      "identifier": "vueJs"
+    },
+    "wattpad": {
+      "codepoint": 58130,
+      "fontFamily": "Cib",
+      "identifier": "wattpad"
+    },
+    "weasyl": {
+      "codepoint": 58131,
+      "fontFamily": "Cib",
+      "identifier": "weasyl"
+    },
+    "webcomponents-org": {
+      "codepoint": 58132,
+      "fontFamily": "Cib",
+      "identifier": "webcomponentsOrg"
+    },
+    "webpack": {
+      "codepoint": 58133,
+      "fontFamily": "Cib",
+      "identifier": "webpack"
+    },
+    "webstorm": {
+      "codepoint": 58134,
+      "fontFamily": "Cib",
+      "identifier": "webstorm"
+    },
+    "wechat": {
+      "codepoint": 58135,
+      "fontFamily": "Cib",
+      "identifier": "wechat"
+    },
+    "whatsapp": {
+      "codepoint": 58136,
+      "fontFamily": "Cib",
+      "identifier": "whatsapp"
+    },
+    "when-i-work": {
+      "codepoint": 58137,
+      "fontFamily": "Cib",
+      "identifier": "whenIWork"
+    },
+    "wii": {
+      "codepoint": 58138,
+      "fontFamily": "Cib",
+      "identifier": "wii"
+    },
+    "wiiu": {
+      "codepoint": 58139,
+      "fontFamily": "Cib",
+      "identifier": "wiiu"
+    },
+    "wikipedia": {
+      "codepoint": 58140,
+      "fontFamily": "Cib",
+      "identifier": "wikipedia"
+    },
+    "windows": {
+      "codepoint": 58141,
+      "fontFamily": "Cib",
+      "identifier": "windows"
+    },
+    "wire": {
+      "codepoint": 58142,
+      "fontFamily": "Cib",
+      "identifier": "wire"
+    },
+    "wireguard": {
+      "codepoint": 58143,
+      "fontFamily": "Cib",
+      "identifier": "wireguard"
+    },
+    "wix": {
+      "codepoint": 58144,
+      "fontFamily": "Cib",
+      "identifier": "wix"
+    },
+    "wolfram": {
+      "codepoint": 58145,
+      "fontFamily": "Cib",
+      "identifier": "wolfram"
+    },
+    "wolfram-language": {
+      "codepoint": 58146,
+      "fontFamily": "Cib",
+      "identifier": "wolframLanguage"
+    },
+    "wolfram-mathematica": {
+      "codepoint": 58147,
+      "fontFamily": "Cib",
+      "identifier": "wolframMathematica"
+    },
+    "wordpress": {
+      "codepoint": 58148,
+      "fontFamily": "Cib",
+      "identifier": "wordpress"
+    },
+    "wpengine": {
+      "codepoint": 58149,
+      "fontFamily": "Cib",
+      "identifier": "wpengine"
+    },
+    "x-pack": {
+      "codepoint": 58150,
+      "fontFamily": "Cib",
+      "identifier": "xPack"
+    },
+    "xbox": {
+      "codepoint": 58151,
+      "fontFamily": "Cib",
+      "identifier": "xbox"
+    },
+    "xcode": {
+      "codepoint": 58152,
+      "fontFamily": "Cib",
+      "identifier": "xcode"
+    },
+    "xero": {
+      "codepoint": 58153,
+      "fontFamily": "Cib",
+      "identifier": "xero"
+    },
+    "xiaomi": {
+      "codepoint": 58154,
+      "fontFamily": "Cib",
+      "identifier": "xiaomi"
+    },
+    "xing": {
+      "codepoint": 58155,
+      "fontFamily": "Cib",
+      "identifier": "xing"
+    },
+    "xrp": {
+      "codepoint": 58156,
+      "fontFamily": "Cib",
+      "identifier": "xrp"
+    },
+    "xsplit": {
+      "codepoint": 58157,
+      "fontFamily": "Cib",
+      "identifier": "xsplit"
+    },
+    "y-combinator": {
+      "codepoint": 58158,
+      "fontFamily": "Cib",
+      "identifier": "yCombinator"
+    },
+    "yahoo": {
+      "codepoint": 58159,
+      "fontFamily": "Cib",
+      "identifier": "yahoo"
+    },
+    "yammer": {
+      "codepoint": 58160,
+      "fontFamily": "Cib",
+      "identifier": "yammer"
+    },
+    "yandex": {
+      "codepoint": 58161,
+      "fontFamily": "Cib",
+      "identifier": "yandex"
+    },
+    "yarn": {
+      "codepoint": 58162,
+      "fontFamily": "Cib",
+      "identifier": "yarn"
+    },
+    "yelp": {
+      "codepoint": 58163,
+      "fontFamily": "Cib",
+      "identifier": "yelp"
+    },
+    "youtube": {
+      "codepoint": 58164,
+      "fontFamily": "Cib",
+      "identifier": "youtube"
+    },
+    "zalando": {
+      "codepoint": 58165,
+      "fontFamily": "Cib",
+      "identifier": "zalando"
+    },
+    "zapier": {
+      "codepoint": 58166,
+      "fontFamily": "Cib",
+      "identifier": "zapier"
+    },
+    "zeit": {
+      "codepoint": 58167,
+      "fontFamily": "Cib",
+      "identifier": "zeit"
+    },
+    "zendesk": {
+      "codepoint": 58168,
+      "fontFamily": "Cib",
+      "identifier": "zendesk"
+    },
+    "zerply": {
+      "codepoint": 58169,
+      "fontFamily": "Cib",
+      "identifier": "zerply"
+    },
+    "zillow": {
+      "codepoint": 58170,
+      "fontFamily": "Cib",
+      "identifier": "zillow"
+    },
+    "zingat": {
+      "codepoint": 58171,
+      "fontFamily": "Cib",
+      "identifier": "zingat"
+    },
+    "zoom": {
+      "codepoint": 58172,
+      "fontFamily": "Cib",
+      "identifier": "zoom"
+    },
+    "zorin": {
+      "codepoint": 58173,
+      "fontFamily": "Cib",
+      "identifier": "zorin"
+    },
+    "zulip": {
+      "codepoint": 58174,
+      "fontFamily": "Cib",
+      "identifier": "zulip"
+    }
+  }
+}

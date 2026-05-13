@@ -1,0 +1,22 @@
+name: iconifyx_simple_line_icons
+description: >-
+  Simple line icons icons from Iconify, packaged for Flutter (194 icons, MIT license).
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+
+flutter:
+  uses-material-design: false
+  fonts:
+    - family: SimpleLineIcons
+      fonts:
+        - asset: assets/fonts/SimpleLineIcons.ttf

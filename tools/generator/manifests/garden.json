@@ -1,0 +1,5165 @@
+{
+  "schemaVersion": 1,
+  "prefix": "garden",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_garden",
+  "info": {
+    "name": "Garden SVG Icons",
+    "author": {
+      "name": "Zendesk",
+      "url": "https://github.com/zendeskgarden/svg-icons"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/zendeskgarden/svg-icons/blob/main/LICENSE.md"
+    },
+    "total": 1027
+  },
+  "fonts": [
+    {
+      "family": "Garden",
+      "nextCodepoint": 58371,
+      "iconCount": 1027
+    }
+  ],
+  "icons": {
+    "123-fill-12": {
+      "codepoint": 57344,
+      "fontFamily": "Garden",
+      "identifier": "n123Fill12"
+    },
+    "123-fill-16": {
+      "codepoint": 57345,
+      "fontFamily": "Garden",
+      "identifier": "n123Fill16"
+    },
+    "123-stroke-12": {
+      "codepoint": 57346,
+      "fontFamily": "Garden",
+      "identifier": "n123Stroke12"
+    },
+    "123-stroke-16": {
+      "codepoint": 57347,
+      "fontFamily": "Garden",
+      "identifier": "n123Stroke16"
+    },
+    "adjust-fill-12": {
+      "codepoint": 57348,
+      "fontFamily": "Garden",
+      "identifier": "adjustFill12"
+    },
+    "adjust-fill-16": {
+      "codepoint": 57349,
+      "fontFamily": "Garden",
+      "identifier": "adjustFill16"
+    },
+    "adjust-stroke-12": {
+      "codepoint": 57350,
+      "fontFamily": "Garden",
+      "identifier": "adjustStroke12"
+    },
+    "adjust-stroke-16": {
+      "codepoint": 57351,
+      "fontFamily": "Garden",
+      "identifier": "adjustStroke16"
+    },
+    "alert-error-fill-12": {
+      "codepoint": 57352,
+      "fontFamily": "Garden",
+      "identifier": "alertErrorFill12"
+    },
+    "alert-error-fill-16": {
+      "codepoint": 57353,
+      "fontFamily": "Garden",
+      "identifier": "alertErrorFill16"
+    },
+    "alert-error-stroke-12": {
+      "codepoint": 57354,
+      "fontFamily": "Garden",
+      "identifier": "alertErrorStroke12"
+    },
+    "alert-error-stroke-16": {
+      "codepoint": 57355,
+      "fontFamily": "Garden",
+      "identifier": "alertErrorStroke16"
+    },
+    "alert-warning-fill-12": {
+      "codepoint": 57356,
+      "fontFamily": "Garden",
+      "identifier": "alertWarningFill12"
+    },
+    "alert-warning-fill-16": {
+      "codepoint": 57357,
+      "fontFamily": "Garden",
+      "identifier": "alertWarningFill16"
+    },
+    "alert-warning-stroke-12": {
+      "codepoint": 57358,
+      "fontFamily": "Garden",
+      "identifier": "alertWarningStroke12"
+    },
+    "alert-warning-stroke-16": {
+      "codepoint": 57359,
+      "fontFamily": "Garden",
+      "identifier": "alertWarningStroke16"
+    },
+    "align-center-fill-12": {
+      "codepoint": 57360,
+      "fontFamily": "Garden",
+      "identifier": "alignCenterFill12"
+    },
+    "align-center-fill-16": {
+      "codepoint": 57361,
+      "fontFamily": "Garden",
+      "identifier": "alignCenterFill16"
+    },
+    "align-center-stroke-12": {
+      "codepoint": 57362,
+      "fontFamily": "Garden",
+      "identifier": "alignCenterStroke12"
+    },
+    "align-center-stroke-16": {
+      "codepoint": 57363,
+      "fontFamily": "Garden",
+      "identifier": "alignCenterStroke16"
+    },
+    "align-justify-fill-12": {
+      "codepoint": 57364,
+      "fontFamily": "Garden",
+      "identifier": "alignJustifyFill12"
+    },
+    "align-justify-fill-16": {
+      "codepoint": 57365,
+      "fontFamily": "Garden",
+      "identifier": "alignJustifyFill16"
+    },
+    "align-justify-stroke-12": {
+      "codepoint": 57366,
+      "fontFamily": "Garden",
+      "identifier": "alignJustifyStroke12"
+    },
+    "align-justify-stroke-16": {
+      "codepoint": 57367,
+      "fontFamily": "Garden",
+      "identifier": "alignJustifyStroke16"
+    },
+    "align-left-fill-12": {
+      "codepoint": 57368,
+      "fontFamily": "Garden",
+      "identifier": "alignLeftFill12"
+    },
+    "align-left-fill-16": {
+      "codepoint": 57369,
+      "fontFamily": "Garden",
+      "identifier": "alignLeftFill16"
+    },
+    "align-left-stroke-12": {
+      "codepoint": 57370,
+      "fontFamily": "Garden",
+      "identifier": "alignLeftStroke12"
+    },
+    "align-left-stroke-16": {
+      "codepoint": 57371,
+      "fontFamily": "Garden",
+      "identifier": "alignLeftStroke16"
+    },
+    "align-right-fill-12": {
+      "codepoint": 57372,
+      "fontFamily": "Garden",
+      "identifier": "alignRightFill12"
+    },
+    "align-right-fill-16": {
+      "codepoint": 57373,
+      "fontFamily": "Garden",
+      "identifier": "alignRightFill16"
+    },
+    "align-right-stroke-12": {
+      "codepoint": 57374,
+      "fontFamily": "Garden",
+      "identifier": "alignRightStroke12"
+    },
+    "align-right-stroke-16": {
+      "codepoint": 57375,
+      "fontFamily": "Garden",
+      "identifier": "alignRightStroke16"
+    },
+    "alt-text-fill-12": {
+      "codepoint": 57376,
+      "fontFamily": "Garden",
+      "identifier": "altTextFill12"
+    },
+    "alt-text-fill-16": {
+      "codepoint": 57377,
+      "fontFamily": "Garden",
+      "identifier": "altTextFill16"
+    },
+    "alt-text-stroke-12": {
+      "codepoint": 57378,
+      "fontFamily": "Garden",
+      "identifier": "altTextStroke12"
+    },
+    "alt-text-stroke-16": {
+      "codepoint": 57379,
+      "fontFamily": "Garden",
+      "identifier": "altTextStroke16"
+    },
+    "answer-bot-26": {
+      "codepoint": 57380,
+      "fontFamily": "Garden",
+      "identifier": "answerBot26"
+    },
+    "app-26": {
+      "codepoint": 57381,
+      "fontFamily": "Garden",
+      "identifier": "app26"
+    },
+    "arrange-content-26": {
+      "codepoint": 57382,
+      "fontFamily": "Garden",
+      "identifier": "arrangeContent26"
+    },
+    "arrow-left-fill-12": {
+      "codepoint": 57383,
+      "fontFamily": "Garden",
+      "identifier": "arrowLeftFill12"
+    },
+    "arrow-left-fill-16": {
+      "codepoint": 57384,
+      "fontFamily": "Garden",
+      "identifier": "arrowLeftFill16"
+    },
+    "arrow-left-sm-fill-12": {
+      "codepoint": 57385,
+      "fontFamily": "Garden",
+      "identifier": "arrowLeftSmFill12"
+    },
+    "arrow-left-sm-fill-16": {
+      "codepoint": 57386,
+      "fontFamily": "Garden",
+      "identifier": "arrowLeftSmFill16"
+    },
+    "arrow-left-sm-stroke-12": {
+      "codepoint": 57387,
+      "fontFamily": "Garden",
+      "identifier": "arrowLeftSmStroke12"
+    },
+    "arrow-left-sm-stroke-16": {
+      "codepoint": 57388,
+      "fontFamily": "Garden",
+      "identifier": "arrowLeftSmStroke16"
+    },
+    "arrow-left-stroke-12": {
+      "codepoint": 57389,
+      "fontFamily": "Garden",
+      "identifier": "arrowLeftStroke12"
+    },
+    "arrow-left-stroke-16": {
+      "codepoint": 57390,
+      "fontFamily": "Garden",
+      "identifier": "arrowLeftStroke16"
+    },
+    "arrow-left-up-fill-12": {
+      "codepoint": 57391,
+      "fontFamily": "Garden",
+      "identifier": "arrowLeftUpFill12"
+    },
+    "arrow-left-up-fill-16": {
+      "codepoint": 57392,
+      "fontFamily": "Garden",
+      "identifier": "arrowLeftUpFill16"
+    },
+    "arrow-left-up-stroke-12": {
+      "codepoint": 57393,
+      "fontFamily": "Garden",
+      "identifier": "arrowLeftUpStroke12"
+    },
+    "arrow-left-up-stroke-16": {
+      "codepoint": 57394,
+      "fontFamily": "Garden",
+      "identifier": "arrowLeftUpStroke16"
+    },
+    "arrow-retweet-fill-12": {
+      "codepoint": 57395,
+      "fontFamily": "Garden",
+      "identifier": "arrowRetweetFill12"
+    },
+    "arrow-retweet-fill-16": {
+      "codepoint": 57396,
+      "fontFamily": "Garden",
+      "identifier": "arrowRetweetFill16"
+    },
+    "arrow-retweet-stroke-12": {
+      "codepoint": 57397,
+      "fontFamily": "Garden",
+      "identifier": "arrowRetweetStroke12"
+    },
+    "arrow-retweet-stroke-16": {
+      "codepoint": 57398,
+      "fontFamily": "Garden",
+      "identifier": "arrowRetweetStroke16"
+    },
+    "arrow-reverse-fill-12": {
+      "codepoint": 57399,
+      "fontFamily": "Garden",
+      "identifier": "arrowReverseFill12"
+    },
+    "arrow-reverse-fill-16": {
+      "codepoint": 57400,
+      "fontFamily": "Garden",
+      "identifier": "arrowReverseFill16"
+    },
+    "arrow-reverse-stroke-12": {
+      "codepoint": 57401,
+      "fontFamily": "Garden",
+      "identifier": "arrowReverseStroke12"
+    },
+    "arrow-reverse-stroke-16": {
+      "codepoint": 57402,
+      "fontFamily": "Garden",
+      "identifier": "arrowReverseStroke16"
+    },
+    "arrow-right-left-26": {
+      "codepoint": 57403,
+      "fontFamily": "Garden",
+      "identifier": "arrowRightLeft26"
+    },
+    "arrow-trending-fill-12": {
+      "codepoint": 57404,
+      "fontFamily": "Garden",
+      "identifier": "arrowTrendingFill12"
+    },
+    "arrow-trending-fill-16": {
+      "codepoint": 57405,
+      "fontFamily": "Garden",
+      "identifier": "arrowTrendingFill16"
+    },
+    "arrow-trending-stroke-12": {
+      "codepoint": 57406,
+      "fontFamily": "Garden",
+      "identifier": "arrowTrendingStroke12"
+    },
+    "arrow-trending-stroke-16": {
+      "codepoint": 57407,
+      "fontFamily": "Garden",
+      "identifier": "arrowTrendingStroke16"
+    },
+    "arrow-up-box-fill-12": {
+      "codepoint": 57408,
+      "fontFamily": "Garden",
+      "identifier": "arrowUpBoxFill12"
+    },
+    "arrow-up-box-fill-16": {
+      "codepoint": 57409,
+      "fontFamily": "Garden",
+      "identifier": "arrowUpBoxFill16"
+    },
+    "arrow-up-box-stroke-12": {
+      "codepoint": 57410,
+      "fontFamily": "Garden",
+      "identifier": "arrowUpBoxStroke12"
+    },
+    "arrow-up-box-stroke-16": {
+      "codepoint": 57411,
+      "fontFamily": "Garden",
+      "identifier": "arrowUpBoxStroke16"
+    },
+    "asterisk-fill-12": {
+      "codepoint": 57412,
+      "fontFamily": "Garden",
+      "identifier": "asteriskFill12"
+    },
+    "asterisk-fill-16": {
+      "codepoint": 57413,
+      "fontFamily": "Garden",
+      "identifier": "asteriskFill16"
+    },
+    "asterisk-stroke-12": {
+      "codepoint": 57414,
+      "fontFamily": "Garden",
+      "identifier": "asteriskStroke12"
+    },
+    "asterisk-stroke-16": {
+      "codepoint": 57415,
+      "fontFamily": "Garden",
+      "identifier": "asteriskStroke16"
+    },
+    "at-fill-12": {
+      "codepoint": 57416,
+      "fontFamily": "Garden",
+      "identifier": "atFill12"
+    },
+    "at-fill-16": {
+      "codepoint": 57417,
+      "fontFamily": "Garden",
+      "identifier": "atFill16"
+    },
+    "at-stroke-12": {
+      "codepoint": 57418,
+      "fontFamily": "Garden",
+      "identifier": "atStroke12"
+    },
+    "at-stroke-16": {
+      "codepoint": 57419,
+      "fontFamily": "Garden",
+      "identifier": "atStroke16"
+    },
+    "banknote-fill-12": {
+      "codepoint": 57420,
+      "fontFamily": "Garden",
+      "identifier": "banknoteFill12"
+    },
+    "banknote-fill-16": {
+      "codepoint": 57421,
+      "fontFamily": "Garden",
+      "identifier": "banknoteFill16"
+    },
+    "banknote-stroke-12": {
+      "codepoint": 57422,
+      "fontFamily": "Garden",
+      "identifier": "banknoteStroke12"
+    },
+    "banknote-stroke-16": {
+      "codepoint": 57423,
+      "fontFamily": "Garden",
+      "identifier": "banknoteStroke16"
+    },
+    "bar-chart-26": {
+      "codepoint": 57424,
+      "fontFamily": "Garden",
+      "identifier": "barChart26"
+    },
+    "bar-chart-fill-12": {
+      "codepoint": 57425,
+      "fontFamily": "Garden",
+      "identifier": "barChartFill12"
+    },
+    "bar-chart-fill-16": {
+      "codepoint": 57426,
+      "fontFamily": "Garden",
+      "identifier": "barChartFill16"
+    },
+    "bar-chart-stroke-12": {
+      "codepoint": 57427,
+      "fontFamily": "Garden",
+      "identifier": "barChartStroke12"
+    },
+    "bar-chart-stroke-16": {
+      "codepoint": 57428,
+      "fontFamily": "Garden",
+      "identifier": "barChartStroke16"
+    },
+    "basketball-fill-12": {
+      "codepoint": 57429,
+      "fontFamily": "Garden",
+      "identifier": "basketballFill12"
+    },
+    "basketball-fill-16": {
+      "codepoint": 57430,
+      "fontFamily": "Garden",
+      "identifier": "basketballFill16"
+    },
+    "basketball-stroke-12": {
+      "codepoint": 57431,
+      "fontFamily": "Garden",
+      "identifier": "basketballStroke12"
+    },
+    "basketball-stroke-16": {
+      "codepoint": 57432,
+      "fontFamily": "Garden",
+      "identifier": "basketballStroke16"
+    },
+    "bold-fill-12": {
+      "codepoint": 57433,
+      "fontFamily": "Garden",
+      "identifier": "boldFill12"
+    },
+    "bold-fill-16": {
+      "codepoint": 57434,
+      "fontFamily": "Garden",
+      "identifier": "boldFill16"
+    },
+    "bold-stroke-12": {
+      "codepoint": 57435,
+      "fontFamily": "Garden",
+      "identifier": "boldStroke12"
+    },
+    "bold-stroke-16": {
+      "codepoint": 57436,
+      "fontFamily": "Garden",
+      "identifier": "boldStroke16"
+    },
+    "book-26": {
+      "codepoint": 57437,
+      "fontFamily": "Garden",
+      "identifier": "book26"
+    },
+    "book-closed-fill-12": {
+      "codepoint": 57438,
+      "fontFamily": "Garden",
+      "identifier": "bookClosedFill12"
+    },
+    "book-closed-fill-16": {
+      "codepoint": 57439,
+      "fontFamily": "Garden",
+      "identifier": "bookClosedFill16"
+    },
+    "book-closed-stroke-12": {
+      "codepoint": 57440,
+      "fontFamily": "Garden",
+      "identifier": "bookClosedStroke12"
+    },
+    "book-closed-stroke-16": {
+      "codepoint": 57441,
+      "fontFamily": "Garden",
+      "identifier": "bookClosedStroke16"
+    },
+    "book-open-fill-12": {
+      "codepoint": 57442,
+      "fontFamily": "Garden",
+      "identifier": "bookOpenFill12"
+    },
+    "book-open-fill-16": {
+      "codepoint": 57443,
+      "fontFamily": "Garden",
+      "identifier": "bookOpenFill16"
+    },
+    "book-open-stroke-12": {
+      "codepoint": 57444,
+      "fontFamily": "Garden",
+      "identifier": "bookOpenStroke12"
+    },
+    "book-open-stroke-16": {
+      "codepoint": 57445,
+      "fontFamily": "Garden",
+      "identifier": "bookOpenStroke16"
+    },
+    "bookmark-fill-12": {
+      "codepoint": 57446,
+      "fontFamily": "Garden",
+      "identifier": "bookmarkFill12"
+    },
+    "bookmark-fill-16": {
+      "codepoint": 57447,
+      "fontFamily": "Garden",
+      "identifier": "bookmarkFill16"
+    },
+    "bookmark-stroke-12": {
+      "codepoint": 57448,
+      "fontFamily": "Garden",
+      "identifier": "bookmarkStroke12"
+    },
+    "bookmark-stroke-16": {
+      "codepoint": 57449,
+      "fontFamily": "Garden",
+      "identifier": "bookmarkStroke16"
+    },
+    "bot-generic-26": {
+      "codepoint": 57450,
+      "fontFamily": "Garden",
+      "identifier": "botGeneric26"
+    },
+    "bot-sparkle-fill-12": {
+      "codepoint": 57451,
+      "fontFamily": "Garden",
+      "identifier": "botSparkleFill12"
+    },
+    "bot-sparkle-fill-16": {
+      "codepoint": 57452,
+      "fontFamily": "Garden",
+      "identifier": "botSparkleFill16"
+    },
+    "bot-sparkle-stroke-12": {
+      "codepoint": 57453,
+      "fontFamily": "Garden",
+      "identifier": "botSparkleStroke12"
+    },
+    "bot-sparkle-stroke-16": {
+      "codepoint": 57454,
+      "fontFamily": "Garden",
+      "identifier": "botSparkleStroke16"
+    },
+    "box-3d-fill-12": {
+      "codepoint": 57455,
+      "fontFamily": "Garden",
+      "identifier": "box3dFill12"
+    },
+    "box-3d-fill-16": {
+      "codepoint": 57456,
+      "fontFamily": "Garden",
+      "identifier": "box3dFill16"
+    },
+    "box-3d-stroke-12": {
+      "codepoint": 57457,
+      "fontFamily": "Garden",
+      "identifier": "box3dStroke12"
+    },
+    "box-3d-stroke-16": {
+      "codepoint": 57458,
+      "fontFamily": "Garden",
+      "identifier": "box3dStroke16"
+    },
+    "building-26": {
+      "codepoint": 57459,
+      "fontFamily": "Garden",
+      "identifier": "building26"
+    },
+    "building-fill-12": {
+      "codepoint": 57460,
+      "fontFamily": "Garden",
+      "identifier": "buildingFill12"
+    },
+    "building-fill-16": {
+      "codepoint": 57461,
+      "fontFamily": "Garden",
+      "identifier": "buildingFill16"
+    },
+    "building-stroke-12": {
+      "codepoint": 57462,
+      "fontFamily": "Garden",
+      "identifier": "buildingStroke12"
+    },
+    "building-stroke-16": {
+      "codepoint": 57463,
+      "fontFamily": "Garden",
+      "identifier": "buildingStroke16"
+    },
+    "calendar-fill-12": {
+      "codepoint": 57464,
+      "fontFamily": "Garden",
+      "identifier": "calendarFill12"
+    },
+    "calendar-fill-16": {
+      "codepoint": 57465,
+      "fontFamily": "Garden",
+      "identifier": "calendarFill16"
+    },
+    "calendar-stroke-12": {
+      "codepoint": 57466,
+      "fontFamily": "Garden",
+      "identifier": "calendarStroke12"
+    },
+    "calendar-stroke-16": {
+      "codepoint": 57467,
+      "fontFamily": "Garden",
+      "identifier": "calendarStroke16"
+    },
+    "call-in-26": {
+      "codepoint": 57468,
+      "fontFamily": "Garden",
+      "identifier": "callIn26"
+    },
+    "camera-fill-12": {
+      "codepoint": 57469,
+      "fontFamily": "Garden",
+      "identifier": "cameraFill12"
+    },
+    "camera-fill-16": {
+      "codepoint": 57470,
+      "fontFamily": "Garden",
+      "identifier": "cameraFill16"
+    },
+    "camera-stroke-12": {
+      "codepoint": 57471,
+      "fontFamily": "Garden",
+      "identifier": "cameraStroke12"
+    },
+    "camera-stroke-16": {
+      "codepoint": 57472,
+      "fontFamily": "Garden",
+      "identifier": "cameraStroke16"
+    },
+    "car-fill-12": {
+      "codepoint": 57473,
+      "fontFamily": "Garden",
+      "identifier": "carFill12"
+    },
+    "car-fill-16": {
+      "codepoint": 57474,
+      "fontFamily": "Garden",
+      "identifier": "carFill16"
+    },
+    "car-stroke-12": {
+      "codepoint": 57475,
+      "fontFamily": "Garden",
+      "identifier": "carStroke12"
+    },
+    "car-stroke-16": {
+      "codepoint": 57476,
+      "fontFamily": "Garden",
+      "identifier": "carStroke16"
+    },
+    "center-fill-12": {
+      "codepoint": 57477,
+      "fontFamily": "Garden",
+      "identifier": "centerFill12"
+    },
+    "center-fill-16": {
+      "codepoint": 57478,
+      "fontFamily": "Garden",
+      "identifier": "centerFill16"
+    },
+    "center-stroke-12": {
+      "codepoint": 57479,
+      "fontFamily": "Garden",
+      "identifier": "centerStroke12"
+    },
+    "center-stroke-16": {
+      "codepoint": 57480,
+      "fontFamily": "Garden",
+      "identifier": "centerStroke16"
+    },
+    "chat-26": {
+      "codepoint": 57481,
+      "fontFamily": "Garden",
+      "identifier": "chat26"
+    },
+    "check-badge-fill-12": {
+      "codepoint": 57482,
+      "fontFamily": "Garden",
+      "identifier": "checkBadgeFill12"
+    },
+    "check-badge-fill-16": {
+      "codepoint": 57483,
+      "fontFamily": "Garden",
+      "identifier": "checkBadgeFill16"
+    },
+    "check-badge-stroke-12": {
+      "codepoint": 57484,
+      "fontFamily": "Garden",
+      "identifier": "checkBadgeStroke12"
+    },
+    "check-badge-stroke-16": {
+      "codepoint": 57485,
+      "fontFamily": "Garden",
+      "identifier": "checkBadgeStroke16"
+    },
+    "check-box-double-fill-12": {
+      "codepoint": 57486,
+      "fontFamily": "Garden",
+      "identifier": "checkBoxDoubleFill12"
+    },
+    "check-box-double-fill-16": {
+      "codepoint": 57487,
+      "fontFamily": "Garden",
+      "identifier": "checkBoxDoubleFill16"
+    },
+    "check-box-double-stroke-12": {
+      "codepoint": 57488,
+      "fontFamily": "Garden",
+      "identifier": "checkBoxDoubleStroke12"
+    },
+    "check-box-double-stroke-16": {
+      "codepoint": 57489,
+      "fontFamily": "Garden",
+      "identifier": "checkBoxDoubleStroke16"
+    },
+    "check-box-fill-12": {
+      "codepoint": 57490,
+      "fontFamily": "Garden",
+      "identifier": "checkBoxFill12"
+    },
+    "check-box-fill-16": {
+      "codepoint": 57491,
+      "fontFamily": "Garden",
+      "identifier": "checkBoxFill16"
+    },
+    "check-box-stroke-12": {
+      "codepoint": 57492,
+      "fontFamily": "Garden",
+      "identifier": "checkBoxStroke12"
+    },
+    "check-box-stroke-16": {
+      "codepoint": 57493,
+      "fontFamily": "Garden",
+      "identifier": "checkBoxStroke16"
+    },
+    "check-circle-fill-12": {
+      "codepoint": 57494,
+      "fontFamily": "Garden",
+      "identifier": "checkCircleFill12"
+    },
+    "check-circle-fill-16": {
+      "codepoint": 57495,
+      "fontFamily": "Garden",
+      "identifier": "checkCircleFill16"
+    },
+    "check-circle-stroke-12": {
+      "codepoint": 57496,
+      "fontFamily": "Garden",
+      "identifier": "checkCircleStroke12"
+    },
+    "check-circle-stroke-16": {
+      "codepoint": 57497,
+      "fontFamily": "Garden",
+      "identifier": "checkCircleStroke16"
+    },
+    "check-double-fill-12": {
+      "codepoint": 57498,
+      "fontFamily": "Garden",
+      "identifier": "checkDoubleFill12"
+    },
+    "check-double-fill-16": {
+      "codepoint": 57499,
+      "fontFamily": "Garden",
+      "identifier": "checkDoubleFill16"
+    },
+    "check-double-stroke-12": {
+      "codepoint": 57500,
+      "fontFamily": "Garden",
+      "identifier": "checkDoubleStroke12"
+    },
+    "check-double-stroke-16": {
+      "codepoint": 57501,
+      "fontFamily": "Garden",
+      "identifier": "checkDoubleStroke16"
+    },
+    "check-lg-fill-12": {
+      "codepoint": 57502,
+      "fontFamily": "Garden",
+      "identifier": "checkLgFill12"
+    },
+    "check-lg-fill-16": {
+      "codepoint": 57503,
+      "fontFamily": "Garden",
+      "identifier": "checkLgFill16"
+    },
+    "check-lg-stroke-12": {
+      "codepoint": 57504,
+      "fontFamily": "Garden",
+      "identifier": "checkLgStroke12"
+    },
+    "check-lg-stroke-16": {
+      "codepoint": 57505,
+      "fontFamily": "Garden",
+      "identifier": "checkLgStroke16"
+    },
+    "check-sm-fill-12": {
+      "codepoint": 57506,
+      "fontFamily": "Garden",
+      "identifier": "checkSmFill12"
+    },
+    "check-sm-fill-16": {
+      "codepoint": 57507,
+      "fontFamily": "Garden",
+      "identifier": "checkSmFill16"
+    },
+    "check-sm-stroke-12": {
+      "codepoint": 57508,
+      "fontFamily": "Garden",
+      "identifier": "checkSmStroke12"
+    },
+    "check-sm-stroke-16": {
+      "codepoint": 57509,
+      "fontFamily": "Garden",
+      "identifier": "checkSmStroke16"
+    },
+    "checkbox-26": {
+      "codepoint": 57510,
+      "fontFamily": "Garden",
+      "identifier": "checkbox26"
+    },
+    "chevron-box-fill-12": {
+      "codepoint": 57511,
+      "fontFamily": "Garden",
+      "identifier": "chevronBoxFill12"
+    },
+    "chevron-box-fill-16": {
+      "codepoint": 57512,
+      "fontFamily": "Garden",
+      "identifier": "chevronBoxFill16"
+    },
+    "chevron-box-stroke-12": {
+      "codepoint": 57513,
+      "fontFamily": "Garden",
+      "identifier": "chevronBoxStroke12"
+    },
+    "chevron-box-stroke-16": {
+      "codepoint": 57514,
+      "fontFamily": "Garden",
+      "identifier": "chevronBoxStroke16"
+    },
+    "chevron-double-down-fill-12": {
+      "codepoint": 57515,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleDownFill12"
+    },
+    "chevron-double-down-fill-16": {
+      "codepoint": 57516,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleDownFill16"
+    },
+    "chevron-double-down-stroke-12": {
+      "codepoint": 57517,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleDownStroke12"
+    },
+    "chevron-double-down-stroke-16": {
+      "codepoint": 57518,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleDownStroke16"
+    },
+    "chevron-double-left-fill-12": {
+      "codepoint": 57519,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleLeftFill12"
+    },
+    "chevron-double-left-fill-16": {
+      "codepoint": 57520,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleLeftFill16"
+    },
+    "chevron-double-left-stroke-12": {
+      "codepoint": 57521,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleLeftStroke12"
+    },
+    "chevron-double-left-stroke-16": {
+      "codepoint": 57522,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleLeftStroke16"
+    },
+    "chevron-double-right-fill-12": {
+      "codepoint": 57523,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleRightFill12"
+    },
+    "chevron-double-right-fill-16": {
+      "codepoint": 57524,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleRightFill16"
+    },
+    "chevron-double-right-stroke-12": {
+      "codepoint": 57525,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleRightStroke12"
+    },
+    "chevron-double-right-stroke-16": {
+      "codepoint": 57526,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleRightStroke16"
+    },
+    "chevron-double-up-fill-12": {
+      "codepoint": 57527,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleUpFill12"
+    },
+    "chevron-double-up-fill-16": {
+      "codepoint": 57528,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleUpFill16"
+    },
+    "chevron-double-up-stroke-12": {
+      "codepoint": 57529,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleUpStroke12"
+    },
+    "chevron-double-up-stroke-16": {
+      "codepoint": 57530,
+      "fontFamily": "Garden",
+      "identifier": "chevronDoubleUpStroke16"
+    },
+    "chevron-down-fill-12": {
+      "codepoint": 57531,
+      "fontFamily": "Garden",
+      "identifier": "chevronDownFill12"
+    },
+    "chevron-down-fill-16": {
+      "codepoint": 57532,
+      "fontFamily": "Garden",
+      "identifier": "chevronDownFill16"
+    },
+    "chevron-down-stroke-12": {
+      "codepoint": 57533,
+      "fontFamily": "Garden",
+      "identifier": "chevronDownStroke12"
+    },
+    "chevron-down-stroke-16": {
+      "codepoint": 57534,
+      "fontFamily": "Garden",
+      "identifier": "chevronDownStroke16"
+    },
+    "chevron-left-fill-12": {
+      "codepoint": 57535,
+      "fontFamily": "Garden",
+      "identifier": "chevronLeftFill12"
+    },
+    "chevron-left-fill-16": {
+      "codepoint": 57536,
+      "fontFamily": "Garden",
+      "identifier": "chevronLeftFill16"
+    },
+    "chevron-left-stroke-12": {
+      "codepoint": 57537,
+      "fontFamily": "Garden",
+      "identifier": "chevronLeftStroke12"
+    },
+    "chevron-left-stroke-16": {
+      "codepoint": 57538,
+      "fontFamily": "Garden",
+      "identifier": "chevronLeftStroke16"
+    },
+    "chevron-right-fill-12": {
+      "codepoint": 57539,
+      "fontFamily": "Garden",
+      "identifier": "chevronRightFill12"
+    },
+    "chevron-right-fill-16": {
+      "codepoint": 57540,
+      "fontFamily": "Garden",
+      "identifier": "chevronRightFill16"
+    },
+    "chevron-right-stroke-12": {
+      "codepoint": 57541,
+      "fontFamily": "Garden",
+      "identifier": "chevronRightStroke12"
+    },
+    "chevron-right-stroke-16": {
+      "codepoint": 57542,
+      "fontFamily": "Garden",
+      "identifier": "chevronRightStroke16"
+    },
+    "chevron-up-fill-12": {
+      "codepoint": 57543,
+      "fontFamily": "Garden",
+      "identifier": "chevronUpFill12"
+    },
+    "chevron-up-fill-16": {
+      "codepoint": 57544,
+      "fontFamily": "Garden",
+      "identifier": "chevronUpFill16"
+    },
+    "chevron-up-stroke-12": {
+      "codepoint": 57545,
+      "fontFamily": "Garden",
+      "identifier": "chevronUpStroke12"
+    },
+    "chevron-up-stroke-16": {
+      "codepoint": 57546,
+      "fontFamily": "Garden",
+      "identifier": "chevronUpStroke16"
+    },
+    "circle-fill-12": {
+      "codepoint": 57547,
+      "fontFamily": "Garden",
+      "identifier": "circleFill12"
+    },
+    "circle-fill-16": {
+      "codepoint": 57548,
+      "fontFamily": "Garden",
+      "identifier": "circleFill16"
+    },
+    "circle-full-fill-12": {
+      "codepoint": 57549,
+      "fontFamily": "Garden",
+      "identifier": "circleFullFill12"
+    },
+    "circle-full-fill-16": {
+      "codepoint": 57550,
+      "fontFamily": "Garden",
+      "identifier": "circleFullFill16"
+    },
+    "circle-full-stroke-12": {
+      "codepoint": 57551,
+      "fontFamily": "Garden",
+      "identifier": "circleFullStroke12"
+    },
+    "circle-full-stroke-16": {
+      "codepoint": 57552,
+      "fontFamily": "Garden",
+      "identifier": "circleFullStroke16"
+    },
+    "circle-line-fill-12": {
+      "codepoint": 57553,
+      "fontFamily": "Garden",
+      "identifier": "circleLineFill12"
+    },
+    "circle-line-fill-16": {
+      "codepoint": 57554,
+      "fontFamily": "Garden",
+      "identifier": "circleLineFill16"
+    },
+    "circle-line-stroke-12": {
+      "codepoint": 57555,
+      "fontFamily": "Garden",
+      "identifier": "circleLineStroke12"
+    },
+    "circle-line-stroke-16": {
+      "codepoint": 57556,
+      "fontFamily": "Garden",
+      "identifier": "circleLineStroke16"
+    },
+    "circle-sm-fill-12": {
+      "codepoint": 57557,
+      "fontFamily": "Garden",
+      "identifier": "circleSmFill12"
+    },
+    "circle-sm-fill-16": {
+      "codepoint": 57558,
+      "fontFamily": "Garden",
+      "identifier": "circleSmFill16"
+    },
+    "circle-sm-stroke-12": {
+      "codepoint": 57559,
+      "fontFamily": "Garden",
+      "identifier": "circleSmStroke12"
+    },
+    "circle-sm-stroke-16": {
+      "codepoint": 57560,
+      "fontFamily": "Garden",
+      "identifier": "circleSmStroke16"
+    },
+    "circle-stroke-12": {
+      "codepoint": 57561,
+      "fontFamily": "Garden",
+      "identifier": "circleStroke12"
+    },
+    "circle-stroke-16": {
+      "codepoint": 57562,
+      "fontFamily": "Garden",
+      "identifier": "circleStroke16"
+    },
+    "clipboard-26": {
+      "codepoint": 57563,
+      "fontFamily": "Garden",
+      "identifier": "clipboard26"
+    },
+    "clipboard-blank-fill-12": {
+      "codepoint": 57564,
+      "fontFamily": "Garden",
+      "identifier": "clipboardBlankFill12"
+    },
+    "clipboard-blank-fill-16": {
+      "codepoint": 57565,
+      "fontFamily": "Garden",
+      "identifier": "clipboardBlankFill16"
+    },
+    "clipboard-blank-stroke-12": {
+      "codepoint": 57566,
+      "fontFamily": "Garden",
+      "identifier": "clipboardBlankStroke12"
+    },
+    "clipboard-blank-stroke-16": {
+      "codepoint": 57567,
+      "fontFamily": "Garden",
+      "identifier": "clipboardBlankStroke16"
+    },
+    "clipboard-check-fill-12": {
+      "codepoint": 57568,
+      "fontFamily": "Garden",
+      "identifier": "clipboardCheckFill12"
+    },
+    "clipboard-check-fill-16": {
+      "codepoint": 57569,
+      "fontFamily": "Garden",
+      "identifier": "clipboardCheckFill16"
+    },
+    "clipboard-check-stroke-12": {
+      "codepoint": 57570,
+      "fontFamily": "Garden",
+      "identifier": "clipboardCheckStroke12"
+    },
+    "clipboard-check-stroke-16": {
+      "codepoint": 57571,
+      "fontFamily": "Garden",
+      "identifier": "clipboardCheckStroke16"
+    },
+    "clipboard-list-fill-12": {
+      "codepoint": 57572,
+      "fontFamily": "Garden",
+      "identifier": "clipboardListFill12"
+    },
+    "clipboard-list-fill-16": {
+      "codepoint": 57573,
+      "fontFamily": "Garden",
+      "identifier": "clipboardListFill16"
+    },
+    "clipboard-list-stroke-12": {
+      "codepoint": 57574,
+      "fontFamily": "Garden",
+      "identifier": "clipboardListStroke12"
+    },
+    "clipboard-list-stroke-16": {
+      "codepoint": 57575,
+      "fontFamily": "Garden",
+      "identifier": "clipboardListStroke16"
+    },
+    "clock-26": {
+      "codepoint": 57576,
+      "fontFamily": "Garden",
+      "identifier": "clock26"
+    },
+    "clock-cycle-fill-12": {
+      "codepoint": 57577,
+      "fontFamily": "Garden",
+      "identifier": "clockCycleFill12"
+    },
+    "clock-cycle-fill-16": {
+      "codepoint": 57578,
+      "fontFamily": "Garden",
+      "identifier": "clockCycleFill16"
+    },
+    "clock-cycle-stroke-12": {
+      "codepoint": 57579,
+      "fontFamily": "Garden",
+      "identifier": "clockCycleStroke12"
+    },
+    "clock-cycle-stroke-16": {
+      "codepoint": 57580,
+      "fontFamily": "Garden",
+      "identifier": "clockCycleStroke16"
+    },
+    "clock-fill-12": {
+      "codepoint": 57581,
+      "fontFamily": "Garden",
+      "identifier": "clockFill12"
+    },
+    "clock-fill-16": {
+      "codepoint": 57582,
+      "fontFamily": "Garden",
+      "identifier": "clockFill16"
+    },
+    "clock-in-fill-12": {
+      "codepoint": 57583,
+      "fontFamily": "Garden",
+      "identifier": "clockInFill12"
+    },
+    "clock-in-fill-16": {
+      "codepoint": 57584,
+      "fontFamily": "Garden",
+      "identifier": "clockInFill16"
+    },
+    "clock-in-stroke-12": {
+      "codepoint": 57585,
+      "fontFamily": "Garden",
+      "identifier": "clockInStroke12"
+    },
+    "clock-in-stroke-16": {
+      "codepoint": 57586,
+      "fontFamily": "Garden",
+      "identifier": "clockInStroke16"
+    },
+    "clock-out-fill-12": {
+      "codepoint": 57587,
+      "fontFamily": "Garden",
+      "identifier": "clockOutFill12"
+    },
+    "clock-out-fill-16": {
+      "codepoint": 57588,
+      "fontFamily": "Garden",
+      "identifier": "clockOutFill16"
+    },
+    "clock-out-stroke-12": {
+      "codepoint": 57589,
+      "fontFamily": "Garden",
+      "identifier": "clockOutStroke12"
+    },
+    "clock-out-stroke-16": {
+      "codepoint": 57590,
+      "fontFamily": "Garden",
+      "identifier": "clockOutStroke16"
+    },
+    "clock-stroke-12": {
+      "codepoint": 57591,
+      "fontFamily": "Garden",
+      "identifier": "clockStroke12"
+    },
+    "clock-stroke-16": {
+      "codepoint": 57592,
+      "fontFamily": "Garden",
+      "identifier": "clockStroke16"
+    },
+    "cloud-upload-26": {
+      "codepoint": 57593,
+      "fontFamily": "Garden",
+      "identifier": "cloudUpload26"
+    },
+    "copy-fill-12": {
+      "codepoint": 57594,
+      "fontFamily": "Garden",
+      "identifier": "copyFill12"
+    },
+    "copy-fill-16": {
+      "codepoint": 57595,
+      "fontFamily": "Garden",
+      "identifier": "copyFill16"
+    },
+    "copy-stroke-12": {
+      "codepoint": 57596,
+      "fontFamily": "Garden",
+      "identifier": "copyStroke12"
+    },
+    "copy-stroke-16": {
+      "codepoint": 57597,
+      "fontFamily": "Garden",
+      "identifier": "copyStroke16"
+    },
+    "credit-card-26": {
+      "codepoint": 57598,
+      "fontFamily": "Garden",
+      "identifier": "creditCard26"
+    },
+    "credit-card-fill-12": {
+      "codepoint": 57599,
+      "fontFamily": "Garden",
+      "identifier": "creditCardFill12"
+    },
+    "credit-card-fill-16": {
+      "codepoint": 57600,
+      "fontFamily": "Garden",
+      "identifier": "creditCardFill16"
+    },
+    "credit-card-stroke-12": {
+      "codepoint": 57601,
+      "fontFamily": "Garden",
+      "identifier": "creditCardStroke12"
+    },
+    "credit-card-stroke-16": {
+      "codepoint": 57602,
+      "fontFamily": "Garden",
+      "identifier": "creditCardStroke16"
+    },
+    "css-fill-12": {
+      "codepoint": 57603,
+      "fontFamily": "Garden",
+      "identifier": "cssFill12"
+    },
+    "css-fill-16": {
+      "codepoint": 57604,
+      "fontFamily": "Garden",
+      "identifier": "cssFill16"
+    },
+    "css-stroke-12": {
+      "codepoint": 57605,
+      "fontFamily": "Garden",
+      "identifier": "cssStroke12"
+    },
+    "css-stroke-16": {
+      "codepoint": 57606,
+      "fontFamily": "Garden",
+      "identifier": "cssStroke16"
+    },
+    "cursor-arrow-fill-12": {
+      "codepoint": 57607,
+      "fontFamily": "Garden",
+      "identifier": "cursorArrowFill12"
+    },
+    "cursor-arrow-fill-16": {
+      "codepoint": 57608,
+      "fontFamily": "Garden",
+      "identifier": "cursorArrowFill16"
+    },
+    "cursor-arrow-stroke-12": {
+      "codepoint": 57609,
+      "fontFamily": "Garden",
+      "identifier": "cursorArrowStroke12"
+    },
+    "cursor-arrow-stroke-16": {
+      "codepoint": 57610,
+      "fontFamily": "Garden",
+      "identifier": "cursorArrowStroke16"
+    },
+    "customer-lists-fill-26": {
+      "codepoint": 57611,
+      "fontFamily": "Garden",
+      "identifier": "customerListsFill26"
+    },
+    "customize-26": {
+      "codepoint": 57612,
+      "fontFamily": "Garden",
+      "identifier": "customize26"
+    },
+    "cutlery-fill-12": {
+      "codepoint": 57613,
+      "fontFamily": "Garden",
+      "identifier": "cutleryFill12"
+    },
+    "cutlery-fill-16": {
+      "codepoint": 57614,
+      "fontFamily": "Garden",
+      "identifier": "cutleryFill16"
+    },
+    "cutlery-stroke-12": {
+      "codepoint": 57615,
+      "fontFamily": "Garden",
+      "identifier": "cutleryStroke12"
+    },
+    "cutlery-stroke-16": {
+      "codepoint": 57616,
+      "fontFamily": "Garden",
+      "identifier": "cutleryStroke16"
+    },
+    "dash-fill-12": {
+      "codepoint": 57617,
+      "fontFamily": "Garden",
+      "identifier": "dashFill12"
+    },
+    "dash-fill-16": {
+      "codepoint": 57618,
+      "fontFamily": "Garden",
+      "identifier": "dashFill16"
+    },
+    "dash-stroke-12": {
+      "codepoint": 57619,
+      "fontFamily": "Garden",
+      "identifier": "dashStroke12"
+    },
+    "dash-stroke-16": {
+      "codepoint": 57620,
+      "fontFamily": "Garden",
+      "identifier": "dashStroke16"
+    },
+    "dashboard-26": {
+      "codepoint": 57621,
+      "fontFamily": "Garden",
+      "identifier": "dashboard26"
+    },
+    "database-fill-12": {
+      "codepoint": 57622,
+      "fontFamily": "Garden",
+      "identifier": "databaseFill12"
+    },
+    "database-fill-16": {
+      "codepoint": 57623,
+      "fontFamily": "Garden",
+      "identifier": "databaseFill16"
+    },
+    "database-stroke-12": {
+      "codepoint": 57624,
+      "fontFamily": "Garden",
+      "identifier": "databaseStroke12"
+    },
+    "database-stroke-16": {
+      "codepoint": 57625,
+      "fontFamily": "Garden",
+      "identifier": "databaseStroke16"
+    },
+    "decimal-fill-12": {
+      "codepoint": 57626,
+      "fontFamily": "Garden",
+      "identifier": "decimalFill12"
+    },
+    "decimal-fill-16": {
+      "codepoint": 57627,
+      "fontFamily": "Garden",
+      "identifier": "decimalFill16"
+    },
+    "decimal-stroke-12": {
+      "codepoint": 57628,
+      "fontFamily": "Garden",
+      "identifier": "decimalStroke12"
+    },
+    "decimal-stroke-16": {
+      "codepoint": 57629,
+      "fontFamily": "Garden",
+      "identifier": "decimalStroke16"
+    },
+    "direction-ltr-fill-12": {
+      "codepoint": 57630,
+      "fontFamily": "Garden",
+      "identifier": "directionLtrFill12"
+    },
+    "direction-ltr-fill-16": {
+      "codepoint": 57631,
+      "fontFamily": "Garden",
+      "identifier": "directionLtrFill16"
+    },
+    "direction-ltr-stroke-12": {
+      "codepoint": 57632,
+      "fontFamily": "Garden",
+      "identifier": "directionLtrStroke12"
+    },
+    "direction-ltr-stroke-16": {
+      "codepoint": 57633,
+      "fontFamily": "Garden",
+      "identifier": "directionLtrStroke16"
+    },
+    "direction-rtl-fill-12": {
+      "codepoint": 57634,
+      "fontFamily": "Garden",
+      "identifier": "directionRtlFill12"
+    },
+    "direction-rtl-fill-16": {
+      "codepoint": 57635,
+      "fontFamily": "Garden",
+      "identifier": "directionRtlFill16"
+    },
+    "direction-rtl-stroke-12": {
+      "codepoint": 57636,
+      "fontFamily": "Garden",
+      "identifier": "directionRtlStroke12"
+    },
+    "direction-rtl-stroke-16": {
+      "codepoint": 57637,
+      "fontFamily": "Garden",
+      "identifier": "directionRtlStroke16"
+    },
+    "document-search-fill-12": {
+      "codepoint": 57638,
+      "fontFamily": "Garden",
+      "identifier": "documentSearchFill12"
+    },
+    "document-search-fill-16": {
+      "codepoint": 57639,
+      "fontFamily": "Garden",
+      "identifier": "documentSearchFill16"
+    },
+    "document-search-stroke-12": {
+      "codepoint": 57640,
+      "fontFamily": "Garden",
+      "identifier": "documentSearchStroke12"
+    },
+    "document-search-stroke-16": {
+      "codepoint": 57641,
+      "fontFamily": "Garden",
+      "identifier": "documentSearchStroke16"
+    },
+    "download-fill-12": {
+      "codepoint": 57642,
+      "fontFamily": "Garden",
+      "identifier": "downloadFill12"
+    },
+    "download-fill-16": {
+      "codepoint": 57643,
+      "fontFamily": "Garden",
+      "identifier": "downloadFill16"
+    },
+    "download-stroke-12": {
+      "codepoint": 57644,
+      "fontFamily": "Garden",
+      "identifier": "downloadStroke12"
+    },
+    "download-stroke-16": {
+      "codepoint": 57645,
+      "fontFamily": "Garden",
+      "identifier": "downloadStroke16"
+    },
+    "duplicate-fill-12": {
+      "codepoint": 57646,
+      "fontFamily": "Garden",
+      "identifier": "duplicateFill12"
+    },
+    "duplicate-fill-16": {
+      "codepoint": 57647,
+      "fontFamily": "Garden",
+      "identifier": "duplicateFill16"
+    },
+    "duplicate-stroke-12": {
+      "codepoint": 57648,
+      "fontFamily": "Garden",
+      "identifier": "duplicateStroke12"
+    },
+    "duplicate-stroke-16": {
+      "codepoint": 57649,
+      "fontFamily": "Garden",
+      "identifier": "duplicateStroke16"
+    },
+    "edit-redo-fill-12": {
+      "codepoint": 57650,
+      "fontFamily": "Garden",
+      "identifier": "editRedoFill12"
+    },
+    "edit-redo-fill-16": {
+      "codepoint": 57651,
+      "fontFamily": "Garden",
+      "identifier": "editRedoFill16"
+    },
+    "edit-redo-stroke-12": {
+      "codepoint": 57652,
+      "fontFamily": "Garden",
+      "identifier": "editRedoStroke12"
+    },
+    "edit-redo-stroke-16": {
+      "codepoint": 57653,
+      "fontFamily": "Garden",
+      "identifier": "editRedoStroke16"
+    },
+    "edit-undo-fill-12": {
+      "codepoint": 57654,
+      "fontFamily": "Garden",
+      "identifier": "editUndoFill12"
+    },
+    "edit-undo-fill-16": {
+      "codepoint": 57655,
+      "fontFamily": "Garden",
+      "identifier": "editUndoFill16"
+    },
+    "edit-undo-stroke-12": {
+      "codepoint": 57656,
+      "fontFamily": "Garden",
+      "identifier": "editUndoStroke12"
+    },
+    "edit-undo-stroke-16": {
+      "codepoint": 57657,
+      "fontFamily": "Garden",
+      "identifier": "editUndoStroke16"
+    },
+    "ellipsis-26": {
+      "codepoint": 57658,
+      "fontFamily": "Garden",
+      "identifier": "ellipsis26"
+    },
+    "email-fill-12": {
+      "codepoint": 57659,
+      "fontFamily": "Garden",
+      "identifier": "emailFill12"
+    },
+    "email-fill-16": {
+      "codepoint": 57660,
+      "fontFamily": "Garden",
+      "identifier": "emailFill16"
+    },
+    "email-fill-26": {
+      "codepoint": 57661,
+      "fontFamily": "Garden",
+      "identifier": "emailFill26"
+    },
+    "email-stroke-12": {
+      "codepoint": 57662,
+      "fontFamily": "Garden",
+      "identifier": "emailStroke12"
+    },
+    "email-stroke-16": {
+      "codepoint": 57663,
+      "fontFamily": "Garden",
+      "identifier": "emailStroke16"
+    },
+    "eraser-fill-12": {
+      "codepoint": 57664,
+      "fontFamily": "Garden",
+      "identifier": "eraserFill12"
+    },
+    "eraser-fill-16": {
+      "codepoint": 57665,
+      "fontFamily": "Garden",
+      "identifier": "eraserFill16"
+    },
+    "eraser-stroke-12": {
+      "codepoint": 57666,
+      "fontFamily": "Garden",
+      "identifier": "eraserStroke12"
+    },
+    "eraser-stroke-16": {
+      "codepoint": 57667,
+      "fontFamily": "Garden",
+      "identifier": "eraserStroke16"
+    },
+    "exit-fill-12": {
+      "codepoint": 57668,
+      "fontFamily": "Garden",
+      "identifier": "exitFill12"
+    },
+    "exit-fill-16": {
+      "codepoint": 57669,
+      "fontFamily": "Garden",
+      "identifier": "exitFill16"
+    },
+    "exit-stroke-12": {
+      "codepoint": 57670,
+      "fontFamily": "Garden",
+      "identifier": "exitStroke12"
+    },
+    "exit-stroke-16": {
+      "codepoint": 57671,
+      "fontFamily": "Garden",
+      "identifier": "exitStroke16"
+    },
+    "eye-fill-12": {
+      "codepoint": 57672,
+      "fontFamily": "Garden",
+      "identifier": "eyeFill12"
+    },
+    "eye-fill-16": {
+      "codepoint": 57673,
+      "fontFamily": "Garden",
+      "identifier": "eyeFill16"
+    },
+    "eye-hide-fill-12": {
+      "codepoint": 57674,
+      "fontFamily": "Garden",
+      "identifier": "eyeHideFill12"
+    },
+    "eye-hide-fill-16": {
+      "codepoint": 57675,
+      "fontFamily": "Garden",
+      "identifier": "eyeHideFill16"
+    },
+    "eye-hide-stroke-12": {
+      "codepoint": 57676,
+      "fontFamily": "Garden",
+      "identifier": "eyeHideStroke12"
+    },
+    "eye-hide-stroke-16": {
+      "codepoint": 57677,
+      "fontFamily": "Garden",
+      "identifier": "eyeHideStroke16"
+    },
+    "eye-stroke-12": {
+      "codepoint": 57678,
+      "fontFamily": "Garden",
+      "identifier": "eyeStroke12"
+    },
+    "eye-stroke-16": {
+      "codepoint": 57679,
+      "fontFamily": "Garden",
+      "identifier": "eyeStroke16"
+    },
+    "face-neutral-fill-12": {
+      "codepoint": 57680,
+      "fontFamily": "Garden",
+      "identifier": "faceNeutralFill12"
+    },
+    "face-neutral-fill-16": {
+      "codepoint": 57681,
+      "fontFamily": "Garden",
+      "identifier": "faceNeutralFill16"
+    },
+    "face-neutral-stroke-12": {
+      "codepoint": 57682,
+      "fontFamily": "Garden",
+      "identifier": "faceNeutralStroke12"
+    },
+    "face-neutral-stroke-16": {
+      "codepoint": 57683,
+      "fontFamily": "Garden",
+      "identifier": "faceNeutralStroke16"
+    },
+    "face-sad-fill-12": {
+      "codepoint": 57684,
+      "fontFamily": "Garden",
+      "identifier": "faceSadFill12"
+    },
+    "face-sad-fill-16": {
+      "codepoint": 57685,
+      "fontFamily": "Garden",
+      "identifier": "faceSadFill16"
+    },
+    "face-sad-stroke-12": {
+      "codepoint": 57686,
+      "fontFamily": "Garden",
+      "identifier": "faceSadStroke12"
+    },
+    "face-sad-stroke-16": {
+      "codepoint": 57687,
+      "fontFamily": "Garden",
+      "identifier": "faceSadStroke16"
+    },
+    "face-very-happy-fill-12": {
+      "codepoint": 57688,
+      "fontFamily": "Garden",
+      "identifier": "faceVeryHappyFill12"
+    },
+    "face-very-happy-fill-16": {
+      "codepoint": 57689,
+      "fontFamily": "Garden",
+      "identifier": "faceVeryHappyFill16"
+    },
+    "face-very-happy-stroke-12": {
+      "codepoint": 57690,
+      "fontFamily": "Garden",
+      "identifier": "faceVeryHappyStroke12"
+    },
+    "face-very-happy-stroke-16": {
+      "codepoint": 57691,
+      "fontFamily": "Garden",
+      "identifier": "faceVeryHappyStroke16"
+    },
+    "face-very-sad-fill-12": {
+      "codepoint": 57692,
+      "fontFamily": "Garden",
+      "identifier": "faceVerySadFill12"
+    },
+    "face-very-sad-fill-16": {
+      "codepoint": 57693,
+      "fontFamily": "Garden",
+      "identifier": "faceVerySadFill16"
+    },
+    "face-very-sad-stroke-12": {
+      "codepoint": 57694,
+      "fontFamily": "Garden",
+      "identifier": "faceVerySadStroke12"
+    },
+    "face-very-sad-stroke-16": {
+      "codepoint": 57695,
+      "fontFamily": "Garden",
+      "identifier": "faceVerySadStroke16"
+    },
+    "facebook-fill-12": {
+      "codepoint": 57696,
+      "fontFamily": "Garden",
+      "identifier": "facebookFill12"
+    },
+    "facebook-fill-16": {
+      "codepoint": 57697,
+      "fontFamily": "Garden",
+      "identifier": "facebookFill16"
+    },
+    "facebook-stroke-12": {
+      "codepoint": 57698,
+      "fontFamily": "Garden",
+      "identifier": "facebookStroke12"
+    },
+    "facebook-stroke-16": {
+      "codepoint": 57699,
+      "fontFamily": "Garden",
+      "identifier": "facebookStroke16"
+    },
+    "file-26": {
+      "codepoint": 57700,
+      "fontFamily": "Garden",
+      "identifier": "file26"
+    },
+    "file-document-26": {
+      "codepoint": 57701,
+      "fontFamily": "Garden",
+      "identifier": "fileDocument26"
+    },
+    "file-document-fill-12": {
+      "codepoint": 57702,
+      "fontFamily": "Garden",
+      "identifier": "fileDocumentFill12"
+    },
+    "file-document-fill-16": {
+      "codepoint": 57703,
+      "fontFamily": "Garden",
+      "identifier": "fileDocumentFill16"
+    },
+    "file-document-stroke-12": {
+      "codepoint": 57704,
+      "fontFamily": "Garden",
+      "identifier": "fileDocumentStroke12"
+    },
+    "file-document-stroke-16": {
+      "codepoint": 57705,
+      "fontFamily": "Garden",
+      "identifier": "fileDocumentStroke16"
+    },
+    "file-error-26": {
+      "codepoint": 57706,
+      "fontFamily": "Garden",
+      "identifier": "fileError26"
+    },
+    "file-error-fill-12": {
+      "codepoint": 57707,
+      "fontFamily": "Garden",
+      "identifier": "fileErrorFill12"
+    },
+    "file-error-fill-16": {
+      "codepoint": 57708,
+      "fontFamily": "Garden",
+      "identifier": "fileErrorFill16"
+    },
+    "file-error-stroke-12": {
+      "codepoint": 57709,
+      "fontFamily": "Garden",
+      "identifier": "fileErrorStroke12"
+    },
+    "file-error-stroke-16": {
+      "codepoint": 57710,
+      "fontFamily": "Garden",
+      "identifier": "fileErrorStroke16"
+    },
+    "file-generic-fill-12": {
+      "codepoint": 57711,
+      "fontFamily": "Garden",
+      "identifier": "fileGenericFill12"
+    },
+    "file-generic-fill-16": {
+      "codepoint": 57712,
+      "fontFamily": "Garden",
+      "identifier": "fileGenericFill16"
+    },
+    "file-generic-stroke-12": {
+      "codepoint": 57713,
+      "fontFamily": "Garden",
+      "identifier": "fileGenericStroke12"
+    },
+    "file-generic-stroke-16": {
+      "codepoint": 57714,
+      "fontFamily": "Garden",
+      "identifier": "fileGenericStroke16"
+    },
+    "file-image-26": {
+      "codepoint": 57715,
+      "fontFamily": "Garden",
+      "identifier": "fileImage26"
+    },
+    "file-image-fill-12": {
+      "codepoint": 57716,
+      "fontFamily": "Garden",
+      "identifier": "fileImageFill12"
+    },
+    "file-image-fill-16": {
+      "codepoint": 57717,
+      "fontFamily": "Garden",
+      "identifier": "fileImageFill16"
+    },
+    "file-image-stroke-12": {
+      "codepoint": 57718,
+      "fontFamily": "Garden",
+      "identifier": "fileImageStroke12"
+    },
+    "file-image-stroke-16": {
+      "codepoint": 57719,
+      "fontFamily": "Garden",
+      "identifier": "fileImageStroke16"
+    },
+    "file-pdf-26": {
+      "codepoint": 57720,
+      "fontFamily": "Garden",
+      "identifier": "filePdf26"
+    },
+    "file-pdf-fill-12": {
+      "codepoint": 57721,
+      "fontFamily": "Garden",
+      "identifier": "filePdfFill12"
+    },
+    "file-pdf-fill-16": {
+      "codepoint": 57722,
+      "fontFamily": "Garden",
+      "identifier": "filePdfFill16"
+    },
+    "file-pdf-stroke-12": {
+      "codepoint": 57723,
+      "fontFamily": "Garden",
+      "identifier": "filePdfStroke12"
+    },
+    "file-pdf-stroke-16": {
+      "codepoint": 57724,
+      "fontFamily": "Garden",
+      "identifier": "filePdfStroke16"
+    },
+    "file-presentation-26": {
+      "codepoint": 57725,
+      "fontFamily": "Garden",
+      "identifier": "filePresentation26"
+    },
+    "file-presentation-fill-12": {
+      "codepoint": 57726,
+      "fontFamily": "Garden",
+      "identifier": "filePresentationFill12"
+    },
+    "file-presentation-fill-16": {
+      "codepoint": 57727,
+      "fontFamily": "Garden",
+      "identifier": "filePresentationFill16"
+    },
+    "file-presentation-stroke-12": {
+      "codepoint": 57728,
+      "fontFamily": "Garden",
+      "identifier": "filePresentationStroke12"
+    },
+    "file-presentation-stroke-16": {
+      "codepoint": 57729,
+      "fontFamily": "Garden",
+      "identifier": "filePresentationStroke16"
+    },
+    "file-spreadsheet-26": {
+      "codepoint": 57730,
+      "fontFamily": "Garden",
+      "identifier": "fileSpreadsheet26"
+    },
+    "file-spreadsheet-fill-12": {
+      "codepoint": 57731,
+      "fontFamily": "Garden",
+      "identifier": "fileSpreadsheetFill12"
+    },
+    "file-spreadsheet-fill-16": {
+      "codepoint": 57732,
+      "fontFamily": "Garden",
+      "identifier": "fileSpreadsheetFill16"
+    },
+    "file-spreadsheet-stroke-12": {
+      "codepoint": 57733,
+      "fontFamily": "Garden",
+      "identifier": "fileSpreadsheetStroke12"
+    },
+    "file-spreadsheet-stroke-16": {
+      "codepoint": 57734,
+      "fontFamily": "Garden",
+      "identifier": "fileSpreadsheetStroke16"
+    },
+    "file-zip-26": {
+      "codepoint": 57735,
+      "fontFamily": "Garden",
+      "identifier": "fileZip26"
+    },
+    "file-zip-fill-12": {
+      "codepoint": 57736,
+      "fontFamily": "Garden",
+      "identifier": "fileZipFill12"
+    },
+    "file-zip-fill-16": {
+      "codepoint": 57737,
+      "fontFamily": "Garden",
+      "identifier": "fileZipFill16"
+    },
+    "file-zip-stroke-12": {
+      "codepoint": 57738,
+      "fontFamily": "Garden",
+      "identifier": "fileZipStroke12"
+    },
+    "file-zip-stroke-16": {
+      "codepoint": 57739,
+      "fontFamily": "Garden",
+      "identifier": "fileZipStroke16"
+    },
+    "filter-fill-12": {
+      "codepoint": 57740,
+      "fontFamily": "Garden",
+      "identifier": "filterFill12"
+    },
+    "filter-fill-16": {
+      "codepoint": 57741,
+      "fontFamily": "Garden",
+      "identifier": "filterFill16"
+    },
+    "filter-stroke-12": {
+      "codepoint": 57742,
+      "fontFamily": "Garden",
+      "identifier": "filterStroke12"
+    },
+    "filter-stroke-16": {
+      "codepoint": 57743,
+      "fontFamily": "Garden",
+      "identifier": "filterStroke16"
+    },
+    "flag-fill-12": {
+      "codepoint": 57744,
+      "fontFamily": "Garden",
+      "identifier": "flagFill12"
+    },
+    "flag-fill-16": {
+      "codepoint": 57745,
+      "fontFamily": "Garden",
+      "identifier": "flagFill16"
+    },
+    "flag-stroke-12": {
+      "codepoint": 57746,
+      "fontFamily": "Garden",
+      "identifier": "flagStroke12"
+    },
+    "flag-stroke-16": {
+      "codepoint": 57747,
+      "fontFamily": "Garden",
+      "identifier": "flagStroke16"
+    },
+    "folder-closed-fill-12": {
+      "codepoint": 57748,
+      "fontFamily": "Garden",
+      "identifier": "folderClosedFill12"
+    },
+    "folder-closed-fill-16": {
+      "codepoint": 57749,
+      "fontFamily": "Garden",
+      "identifier": "folderClosedFill16"
+    },
+    "folder-closed-stroke-12": {
+      "codepoint": 57750,
+      "fontFamily": "Garden",
+      "identifier": "folderClosedStroke12"
+    },
+    "folder-closed-stroke-16": {
+      "codepoint": 57751,
+      "fontFamily": "Garden",
+      "identifier": "folderClosedStroke16"
+    },
+    "folder-open-fill-12": {
+      "codepoint": 57752,
+      "fontFamily": "Garden",
+      "identifier": "folderOpenFill12"
+    },
+    "folder-open-fill-16": {
+      "codepoint": 57753,
+      "fontFamily": "Garden",
+      "identifier": "folderOpenFill16"
+    },
+    "folder-open-stroke-12": {
+      "codepoint": 57754,
+      "fontFamily": "Garden",
+      "identifier": "folderOpenStroke12"
+    },
+    "folder-open-stroke-16": {
+      "codepoint": 57755,
+      "fontFamily": "Garden",
+      "identifier": "folderOpenStroke16"
+    },
+    "full-width-fill-12": {
+      "codepoint": 57756,
+      "fontFamily": "Garden",
+      "identifier": "fullWidthFill12"
+    },
+    "full-width-fill-16": {
+      "codepoint": 57757,
+      "fontFamily": "Garden",
+      "identifier": "fullWidthFill16"
+    },
+    "full-width-stroke-12": {
+      "codepoint": 57758,
+      "fontFamily": "Garden",
+      "identifier": "fullWidthStroke12"
+    },
+    "full-width-stroke-16": {
+      "codepoint": 57759,
+      "fontFamily": "Garden",
+      "identifier": "fullWidthStroke16"
+    },
+    "garden-26": {
+      "codepoint": 57760,
+      "fontFamily": "Garden",
+      "identifier": "garden26"
+    },
+    "gear-fill-12": {
+      "codepoint": 57761,
+      "fontFamily": "Garden",
+      "identifier": "gearFill12"
+    },
+    "gear-fill-16": {
+      "codepoint": 57762,
+      "fontFamily": "Garden",
+      "identifier": "gearFill16"
+    },
+    "gear-stroke-12": {
+      "codepoint": 57763,
+      "fontFamily": "Garden",
+      "identifier": "gearStroke12"
+    },
+    "gear-stroke-16": {
+      "codepoint": 57764,
+      "fontFamily": "Garden",
+      "identifier": "gearStroke16"
+    },
+    "github-fill-12": {
+      "codepoint": 57765,
+      "fontFamily": "Garden",
+      "identifier": "githubFill12"
+    },
+    "github-fill-16": {
+      "codepoint": 57766,
+      "fontFamily": "Garden",
+      "identifier": "githubFill16"
+    },
+    "github-stroke-12": {
+      "codepoint": 57767,
+      "fontFamily": "Garden",
+      "identifier": "githubStroke12"
+    },
+    "github-stroke-16": {
+      "codepoint": 57768,
+      "fontFamily": "Garden",
+      "identifier": "githubStroke16"
+    },
+    "globe-fill-12": {
+      "codepoint": 57769,
+      "fontFamily": "Garden",
+      "identifier": "globeFill12"
+    },
+    "globe-fill-16": {
+      "codepoint": 57770,
+      "fontFamily": "Garden",
+      "identifier": "globeFill16"
+    },
+    "globe-stroke-12": {
+      "codepoint": 57771,
+      "fontFamily": "Garden",
+      "identifier": "globeStroke12"
+    },
+    "globe-stroke-16": {
+      "codepoint": 57772,
+      "fontFamily": "Garden",
+      "identifier": "globeStroke16"
+    },
+    "grid-2x2-fill-12": {
+      "codepoint": 57773,
+      "fontFamily": "Garden",
+      "identifier": "grid2x2Fill12"
+    },
+    "grid-2x2-fill-16": {
+      "codepoint": 57774,
+      "fontFamily": "Garden",
+      "identifier": "grid2x2Fill16"
+    },
+    "grid-2x2-stroke-12": {
+      "codepoint": 57775,
+      "fontFamily": "Garden",
+      "identifier": "grid2x2Stroke12"
+    },
+    "grid-2x2-stroke-16": {
+      "codepoint": 57776,
+      "fontFamily": "Garden",
+      "identifier": "grid2x2Stroke16"
+    },
+    "grid-3x3-fill-12": {
+      "codepoint": 57777,
+      "fontFamily": "Garden",
+      "identifier": "grid3x3Fill12"
+    },
+    "grid-3x3-fill-16": {
+      "codepoint": 57778,
+      "fontFamily": "Garden",
+      "identifier": "grid3x3Fill16"
+    },
+    "grid-3x3-stroke-12": {
+      "codepoint": 57779,
+      "fontFamily": "Garden",
+      "identifier": "grid3x3Stroke12"
+    },
+    "grid-3x3-stroke-16": {
+      "codepoint": 57780,
+      "fontFamily": "Garden",
+      "identifier": "grid3x3Stroke16"
+    },
+    "grid-add-26": {
+      "codepoint": 57781,
+      "fontFamily": "Garden",
+      "identifier": "gridAdd26"
+    },
+    "grip-12": {
+      "codepoint": 57782,
+      "fontFamily": "Garden",
+      "identifier": "grip12"
+    },
+    "grip-16": {
+      "codepoint": 57783,
+      "fontFamily": "Garden",
+      "identifier": "grip16"
+    },
+    "group-fill-26": {
+      "codepoint": 57784,
+      "fontFamily": "Garden",
+      "identifier": "groupFill26"
+    },
+    "growth-chart-fill-12": {
+      "codepoint": 57785,
+      "fontFamily": "Garden",
+      "identifier": "growthChartFill12"
+    },
+    "growth-chart-fill-16": {
+      "codepoint": 57786,
+      "fontFamily": "Garden",
+      "identifier": "growthChartFill16"
+    },
+    "growth-chart-stroke-12": {
+      "codepoint": 57787,
+      "fontFamily": "Garden",
+      "identifier": "growthChartStroke12"
+    },
+    "growth-chart-stroke-16": {
+      "codepoint": 57788,
+      "fontFamily": "Garden",
+      "identifier": "growthChartStroke16"
+    },
+    "heading-fill-12": {
+      "codepoint": 57789,
+      "fontFamily": "Garden",
+      "identifier": "headingFill12"
+    },
+    "heading-fill-16": {
+      "codepoint": 57790,
+      "fontFamily": "Garden",
+      "identifier": "headingFill16"
+    },
+    "heading-stroke-12": {
+      "codepoint": 57791,
+      "fontFamily": "Garden",
+      "identifier": "headingStroke12"
+    },
+    "heading-stroke-16": {
+      "codepoint": 57792,
+      "fontFamily": "Garden",
+      "identifier": "headingStroke16"
+    },
+    "headset-26": {
+      "codepoint": 57793,
+      "fontFamily": "Garden",
+      "identifier": "headset26"
+    },
+    "headset-fill-12": {
+      "codepoint": 57794,
+      "fontFamily": "Garden",
+      "identifier": "headsetFill12"
+    },
+    "headset-fill-16": {
+      "codepoint": 57795,
+      "fontFamily": "Garden",
+      "identifier": "headsetFill16"
+    },
+    "headset-sparkle-fill-12": {
+      "codepoint": 57796,
+      "fontFamily": "Garden",
+      "identifier": "headsetSparkleFill12"
+    },
+    "headset-sparkle-fill-16": {
+      "codepoint": 57797,
+      "fontFamily": "Garden",
+      "identifier": "headsetSparkleFill16"
+    },
+    "headset-sparkle-stroke-12": {
+      "codepoint": 57798,
+      "fontFamily": "Garden",
+      "identifier": "headsetSparkleStroke12"
+    },
+    "headset-sparkle-stroke-16": {
+      "codepoint": 57799,
+      "fontFamily": "Garden",
+      "identifier": "headsetSparkleStroke16"
+    },
+    "headset-stroke-12": {
+      "codepoint": 57800,
+      "fontFamily": "Garden",
+      "identifier": "headsetStroke12"
+    },
+    "headset-stroke-16": {
+      "codepoint": 57801,
+      "fontFamily": "Garden",
+      "identifier": "headsetStroke16"
+    },
+    "heart-fill-12": {
+      "codepoint": 57802,
+      "fontFamily": "Garden",
+      "identifier": "heartFill12"
+    },
+    "heart-fill-16": {
+      "codepoint": 57803,
+      "fontFamily": "Garden",
+      "identifier": "heartFill16"
+    },
+    "heart-stroke-12": {
+      "codepoint": 57804,
+      "fontFamily": "Garden",
+      "identifier": "heartStroke12"
+    },
+    "heart-stroke-16": {
+      "codepoint": 57805,
+      "fontFamily": "Garden",
+      "identifier": "heartStroke16"
+    },
+    "help-center-26": {
+      "codepoint": 57806,
+      "fontFamily": "Garden",
+      "identifier": "helpCenter26"
+    },
+    "history-fill-12": {
+      "codepoint": 57807,
+      "fontFamily": "Garden",
+      "identifier": "historyFill12"
+    },
+    "history-fill-16": {
+      "codepoint": 57808,
+      "fontFamily": "Garden",
+      "identifier": "historyFill16"
+    },
+    "history-stroke-12": {
+      "codepoint": 57809,
+      "fontFamily": "Garden",
+      "identifier": "historyStroke12"
+    },
+    "history-stroke-16": {
+      "codepoint": 57810,
+      "fontFamily": "Garden",
+      "identifier": "historyStroke16"
+    },
+    "home-fill-12": {
+      "codepoint": 57811,
+      "fontFamily": "Garden",
+      "identifier": "homeFill12"
+    },
+    "home-fill-16": {
+      "codepoint": 57812,
+      "fontFamily": "Garden",
+      "identifier": "homeFill16"
+    },
+    "home-fill-26": {
+      "codepoint": 57813,
+      "fontFamily": "Garden",
+      "identifier": "homeFill26"
+    },
+    "home-stroke-12": {
+      "codepoint": 57814,
+      "fontFamily": "Garden",
+      "identifier": "homeStroke12"
+    },
+    "home-stroke-16": {
+      "codepoint": 57815,
+      "fontFamily": "Garden",
+      "identifier": "homeStroke16"
+    },
+    "hook-26": {
+      "codepoint": 57816,
+      "fontFamily": "Garden",
+      "identifier": "hook26"
+    },
+    "horizontal-rule-fill-12": {
+      "codepoint": 57817,
+      "fontFamily": "Garden",
+      "identifier": "horizontalRuleFill12"
+    },
+    "horizontal-rule-fill-16": {
+      "codepoint": 57818,
+      "fontFamily": "Garden",
+      "identifier": "horizontalRuleFill16"
+    },
+    "horizontal-rule-stroke-12": {
+      "codepoint": 57819,
+      "fontFamily": "Garden",
+      "identifier": "horizontalRuleStroke12"
+    },
+    "horizontal-rule-stroke-16": {
+      "codepoint": 57820,
+      "fontFamily": "Garden",
+      "identifier": "horizontalRuleStroke16"
+    },
+    "image-fill-12": {
+      "codepoint": 57821,
+      "fontFamily": "Garden",
+      "identifier": "imageFill12"
+    },
+    "image-fill-16": {
+      "codepoint": 57822,
+      "fontFamily": "Garden",
+      "identifier": "imageFill16"
+    },
+    "image-stroke-12": {
+      "codepoint": 57823,
+      "fontFamily": "Garden",
+      "identifier": "imageStroke12"
+    },
+    "image-stroke-16": {
+      "codepoint": 57824,
+      "fontFamily": "Garden",
+      "identifier": "imageStroke16"
+    },
+    "inbox-fill-12": {
+      "codepoint": 57825,
+      "fontFamily": "Garden",
+      "identifier": "inboxFill12"
+    },
+    "inbox-fill-16": {
+      "codepoint": 57826,
+      "fontFamily": "Garden",
+      "identifier": "inboxFill16"
+    },
+    "inbox-stroke-12": {
+      "codepoint": 57827,
+      "fontFamily": "Garden",
+      "identifier": "inboxStroke12"
+    },
+    "inbox-stroke-16": {
+      "codepoint": 57828,
+      "fontFamily": "Garden",
+      "identifier": "inboxStroke16"
+    },
+    "indent-decrease-fill-12": {
+      "codepoint": 57829,
+      "fontFamily": "Garden",
+      "identifier": "indentDecreaseFill12"
+    },
+    "indent-decrease-fill-16": {
+      "codepoint": 57830,
+      "fontFamily": "Garden",
+      "identifier": "indentDecreaseFill16"
+    },
+    "indent-decrease-stroke-12": {
+      "codepoint": 57831,
+      "fontFamily": "Garden",
+      "identifier": "indentDecreaseStroke12"
+    },
+    "indent-decrease-stroke-16": {
+      "codepoint": 57832,
+      "fontFamily": "Garden",
+      "identifier": "indentDecreaseStroke16"
+    },
+    "indent-increase-fill-12": {
+      "codepoint": 57833,
+      "fontFamily": "Garden",
+      "identifier": "indentIncreaseFill12"
+    },
+    "indent-increase-fill-16": {
+      "codepoint": 57834,
+      "fontFamily": "Garden",
+      "identifier": "indentIncreaseFill16"
+    },
+    "indent-increase-stroke-12": {
+      "codepoint": 57835,
+      "fontFamily": "Garden",
+      "identifier": "indentIncreaseStroke12"
+    },
+    "indent-increase-stroke-16": {
+      "codepoint": 57836,
+      "fontFamily": "Garden",
+      "identifier": "indentIncreaseStroke16"
+    },
+    "info-fill-12": {
+      "codepoint": 57837,
+      "fontFamily": "Garden",
+      "identifier": "infoFill12"
+    },
+    "info-fill-16": {
+      "codepoint": 57838,
+      "fontFamily": "Garden",
+      "identifier": "infoFill16"
+    },
+    "info-stroke-12": {
+      "codepoint": 57839,
+      "fontFamily": "Garden",
+      "identifier": "infoStroke12"
+    },
+    "info-stroke-16": {
+      "codepoint": 57840,
+      "fontFamily": "Garden",
+      "identifier": "infoStroke16"
+    },
+    "interlocking-rings-fill-12": {
+      "codepoint": 57841,
+      "fontFamily": "Garden",
+      "identifier": "interlockingRingsFill12"
+    },
+    "interlocking-rings-fill-16": {
+      "codepoint": 57842,
+      "fontFamily": "Garden",
+      "identifier": "interlockingRingsFill16"
+    },
+    "interlocking-rings-stroke-12": {
+      "codepoint": 57843,
+      "fontFamily": "Garden",
+      "identifier": "interlockingRingsStroke12"
+    },
+    "interlocking-rings-stroke-16": {
+      "codepoint": 57844,
+      "fontFamily": "Garden",
+      "identifier": "interlockingRingsStroke16"
+    },
+    "italic-fill-12": {
+      "codepoint": 57845,
+      "fontFamily": "Garden",
+      "identifier": "italicFill12"
+    },
+    "italic-fill-16": {
+      "codepoint": 57846,
+      "fontFamily": "Garden",
+      "identifier": "italicFill16"
+    },
+    "italic-stroke-12": {
+      "codepoint": 57847,
+      "fontFamily": "Garden",
+      "identifier": "italicStroke12"
+    },
+    "italic-stroke-16": {
+      "codepoint": 57848,
+      "fontFamily": "Garden",
+      "identifier": "italicStroke16"
+    },
+    "knowledge-base-26": {
+      "codepoint": 57849,
+      "fontFamily": "Garden",
+      "identifier": "knowledgeBase26"
+    },
+    "leaf-fill-12": {
+      "codepoint": 57850,
+      "fontFamily": "Garden",
+      "identifier": "leafFill12"
+    },
+    "leaf-fill-16": {
+      "codepoint": 57851,
+      "fontFamily": "Garden",
+      "identifier": "leafFill16"
+    },
+    "leaf-stroke-12": {
+      "codepoint": 57852,
+      "fontFamily": "Garden",
+      "identifier": "leafStroke12"
+    },
+    "leaf-stroke-16": {
+      "codepoint": 57853,
+      "fontFamily": "Garden",
+      "identifier": "leafStroke16"
+    },
+    "lifesaver-fill-12": {
+      "codepoint": 57854,
+      "fontFamily": "Garden",
+      "identifier": "lifesaverFill12"
+    },
+    "lifesaver-fill-16": {
+      "codepoint": 57855,
+      "fontFamily": "Garden",
+      "identifier": "lifesaverFill16"
+    },
+    "lifesaver-stroke-12": {
+      "codepoint": 57856,
+      "fontFamily": "Garden",
+      "identifier": "lifesaverStroke12"
+    },
+    "lifesaver-stroke-16": {
+      "codepoint": 57857,
+      "fontFamily": "Garden",
+      "identifier": "lifesaverStroke16"
+    },
+    "lightbulb-fill-12": {
+      "codepoint": 57858,
+      "fontFamily": "Garden",
+      "identifier": "lightbulbFill12"
+    },
+    "lightbulb-fill-16": {
+      "codepoint": 57859,
+      "fontFamily": "Garden",
+      "identifier": "lightbulbFill16"
+    },
+    "lightbulb-stroke-12": {
+      "codepoint": 57860,
+      "fontFamily": "Garden",
+      "identifier": "lightbulbStroke12"
+    },
+    "lightbulb-stroke-16": {
+      "codepoint": 57861,
+      "fontFamily": "Garden",
+      "identifier": "lightbulbStroke16"
+    },
+    "lightning-bolt-fill-12": {
+      "codepoint": 57862,
+      "fontFamily": "Garden",
+      "identifier": "lightningBoltFill12"
+    },
+    "lightning-bolt-fill-16": {
+      "codepoint": 57863,
+      "fontFamily": "Garden",
+      "identifier": "lightningBoltFill16"
+    },
+    "lightning-bolt-stroke-12": {
+      "codepoint": 57864,
+      "fontFamily": "Garden",
+      "identifier": "lightningBoltStroke12"
+    },
+    "lightning-bolt-stroke-16": {
+      "codepoint": 57865,
+      "fontFamily": "Garden",
+      "identifier": "lightningBoltStroke16"
+    },
+    "line-chart-26": {
+      "codepoint": 57866,
+      "fontFamily": "Garden",
+      "identifier": "lineChart26"
+    },
+    "line-graph-fill-12": {
+      "codepoint": 57867,
+      "fontFamily": "Garden",
+      "identifier": "lineGraphFill12"
+    },
+    "line-graph-fill-16": {
+      "codepoint": 57868,
+      "fontFamily": "Garden",
+      "identifier": "lineGraphFill16"
+    },
+    "line-graph-stroke-12": {
+      "codepoint": 57869,
+      "fontFamily": "Garden",
+      "identifier": "lineGraphStroke12"
+    },
+    "line-graph-stroke-16": {
+      "codepoint": 57870,
+      "fontFamily": "Garden",
+      "identifier": "lineGraphStroke16"
+    },
+    "line-social-fill-12": {
+      "codepoint": 57871,
+      "fontFamily": "Garden",
+      "identifier": "lineSocialFill12"
+    },
+    "line-social-fill-16": {
+      "codepoint": 57872,
+      "fontFamily": "Garden",
+      "identifier": "lineSocialFill16"
+    },
+    "line-social-stroke-12": {
+      "codepoint": 57873,
+      "fontFamily": "Garden",
+      "identifier": "lineSocialStroke12"
+    },
+    "line-social-stroke-16": {
+      "codepoint": 57874,
+      "fontFamily": "Garden",
+      "identifier": "lineSocialStroke16"
+    },
+    "link-fill-12": {
+      "codepoint": 57875,
+      "fontFamily": "Garden",
+      "identifier": "linkFill12"
+    },
+    "link-fill-16": {
+      "codepoint": 57876,
+      "fontFamily": "Garden",
+      "identifier": "linkFill16"
+    },
+    "link-remove-fill-12": {
+      "codepoint": 57877,
+      "fontFamily": "Garden",
+      "identifier": "linkRemoveFill12"
+    },
+    "link-remove-fill-16": {
+      "codepoint": 57878,
+      "fontFamily": "Garden",
+      "identifier": "linkRemoveFill16"
+    },
+    "link-remove-stroke-12": {
+      "codepoint": 57879,
+      "fontFamily": "Garden",
+      "identifier": "linkRemoveStroke12"
+    },
+    "link-remove-stroke-16": {
+      "codepoint": 57880,
+      "fontFamily": "Garden",
+      "identifier": "linkRemoveStroke16"
+    },
+    "link-stroke-12": {
+      "codepoint": 57881,
+      "fontFamily": "Garden",
+      "identifier": "linkStroke12"
+    },
+    "link-stroke-16": {
+      "codepoint": 57882,
+      "fontFamily": "Garden",
+      "identifier": "linkStroke16"
+    },
+    "linkedin-fill-12": {
+      "codepoint": 57883,
+      "fontFamily": "Garden",
+      "identifier": "linkedinFill12"
+    },
+    "linkedin-fill-16": {
+      "codepoint": 57884,
+      "fontFamily": "Garden",
+      "identifier": "linkedinFill16"
+    },
+    "linkedin-stroke-12": {
+      "codepoint": 57885,
+      "fontFamily": "Garden",
+      "identifier": "linkedinStroke12"
+    },
+    "linkedin-stroke-16": {
+      "codepoint": 57886,
+      "fontFamily": "Garden",
+      "identifier": "linkedinStroke16"
+    },
+    "list-bullet-fill-12": {
+      "codepoint": 57887,
+      "fontFamily": "Garden",
+      "identifier": "listBulletFill12"
+    },
+    "list-bullet-fill-16": {
+      "codepoint": 57888,
+      "fontFamily": "Garden",
+      "identifier": "listBulletFill16"
+    },
+    "list-bullet-stroke-12": {
+      "codepoint": 57889,
+      "fontFamily": "Garden",
+      "identifier": "listBulletStroke12"
+    },
+    "list-bullet-stroke-16": {
+      "codepoint": 57890,
+      "fontFamily": "Garden",
+      "identifier": "listBulletStroke16"
+    },
+    "list-number-fill-12": {
+      "codepoint": 57891,
+      "fontFamily": "Garden",
+      "identifier": "listNumberFill12"
+    },
+    "list-number-fill-16": {
+      "codepoint": 57892,
+      "fontFamily": "Garden",
+      "identifier": "listNumberFill16"
+    },
+    "list-number-rtl-fill-12": {
+      "codepoint": 57893,
+      "fontFamily": "Garden",
+      "identifier": "listNumberRtlFill12"
+    },
+    "list-number-rtl-fill-16": {
+      "codepoint": 57894,
+      "fontFamily": "Garden",
+      "identifier": "listNumberRtlFill16"
+    },
+    "list-number-rtl-stroke-12": {
+      "codepoint": 57895,
+      "fontFamily": "Garden",
+      "identifier": "listNumberRtlStroke12"
+    },
+    "list-number-rtl-stroke-16": {
+      "codepoint": 57896,
+      "fontFamily": "Garden",
+      "identifier": "listNumberRtlStroke16"
+    },
+    "list-number-stroke-12": {
+      "codepoint": 57897,
+      "fontFamily": "Garden",
+      "identifier": "listNumberStroke12"
+    },
+    "list-number-stroke-16": {
+      "codepoint": 57898,
+      "fontFamily": "Garden",
+      "identifier": "listNumberStroke16"
+    },
+    "location-fill-12": {
+      "codepoint": 57899,
+      "fontFamily": "Garden",
+      "identifier": "locationFill12"
+    },
+    "location-fill-16": {
+      "codepoint": 57900,
+      "fontFamily": "Garden",
+      "identifier": "locationFill16"
+    },
+    "location-stroke-12": {
+      "codepoint": 57901,
+      "fontFamily": "Garden",
+      "identifier": "locationStroke12"
+    },
+    "location-stroke-16": {
+      "codepoint": 57902,
+      "fontFamily": "Garden",
+      "identifier": "locationStroke16"
+    },
+    "lock-locked-fill-12": {
+      "codepoint": 57903,
+      "fontFamily": "Garden",
+      "identifier": "lockLockedFill12"
+    },
+    "lock-locked-fill-16": {
+      "codepoint": 57904,
+      "fontFamily": "Garden",
+      "identifier": "lockLockedFill16"
+    },
+    "lock-locked-stroke-12": {
+      "codepoint": 57905,
+      "fontFamily": "Garden",
+      "identifier": "lockLockedStroke12"
+    },
+    "lock-locked-stroke-16": {
+      "codepoint": 57906,
+      "fontFamily": "Garden",
+      "identifier": "lockLockedStroke16"
+    },
+    "lock-unlocked-fill-12": {
+      "codepoint": 57907,
+      "fontFamily": "Garden",
+      "identifier": "lockUnlockedFill12"
+    },
+    "lock-unlocked-fill-16": {
+      "codepoint": 57908,
+      "fontFamily": "Garden",
+      "identifier": "lockUnlockedFill16"
+    },
+    "lock-unlocked-stroke-12": {
+      "codepoint": 57909,
+      "fontFamily": "Garden",
+      "identifier": "lockUnlockedStroke12"
+    },
+    "lock-unlocked-stroke-16": {
+      "codepoint": 57910,
+      "fontFamily": "Garden",
+      "identifier": "lockUnlockedStroke16"
+    },
+    "macro-26": {
+      "codepoint": 57911,
+      "fontFamily": "Garden",
+      "identifier": "macro26"
+    },
+    "markup-fill-12": {
+      "codepoint": 57912,
+      "fontFamily": "Garden",
+      "identifier": "markupFill12"
+    },
+    "markup-fill-16": {
+      "codepoint": 57913,
+      "fontFamily": "Garden",
+      "identifier": "markupFill16"
+    },
+    "markup-stroke-12": {
+      "codepoint": 57914,
+      "fontFamily": "Garden",
+      "identifier": "markupStroke12"
+    },
+    "markup-stroke-16": {
+      "codepoint": 57915,
+      "fontFamily": "Garden",
+      "identifier": "markupStroke16"
+    },
+    "maximize-fill-12": {
+      "codepoint": 57916,
+      "fontFamily": "Garden",
+      "identifier": "maximizeFill12"
+    },
+    "maximize-fill-16": {
+      "codepoint": 57917,
+      "fontFamily": "Garden",
+      "identifier": "maximizeFill16"
+    },
+    "maximize-stroke-12": {
+      "codepoint": 57918,
+      "fontFamily": "Garden",
+      "identifier": "maximizeStroke12"
+    },
+    "maximize-stroke-16": {
+      "codepoint": 57919,
+      "fontFamily": "Garden",
+      "identifier": "maximizeStroke16"
+    },
+    "megaphone-fill-12": {
+      "codepoint": 57920,
+      "fontFamily": "Garden",
+      "identifier": "megaphoneFill12"
+    },
+    "megaphone-fill-16": {
+      "codepoint": 57921,
+      "fontFamily": "Garden",
+      "identifier": "megaphoneFill16"
+    },
+    "megaphone-stroke-12": {
+      "codepoint": 57922,
+      "fontFamily": "Garden",
+      "identifier": "megaphoneStroke12"
+    },
+    "megaphone-stroke-16": {
+      "codepoint": 57923,
+      "fontFamily": "Garden",
+      "identifier": "megaphoneStroke16"
+    },
+    "menu-fill-12": {
+      "codepoint": 57924,
+      "fontFamily": "Garden",
+      "identifier": "menuFill12"
+    },
+    "menu-fill-16": {
+      "codepoint": 57925,
+      "fontFamily": "Garden",
+      "identifier": "menuFill16"
+    },
+    "menu-stroke-12": {
+      "codepoint": 57926,
+      "fontFamily": "Garden",
+      "identifier": "menuStroke12"
+    },
+    "menu-stroke-16": {
+      "codepoint": 57927,
+      "fontFamily": "Garden",
+      "identifier": "menuStroke16"
+    },
+    "messenger-fill-12": {
+      "codepoint": 57928,
+      "fontFamily": "Garden",
+      "identifier": "messengerFill12"
+    },
+    "messenger-fill-16": {
+      "codepoint": 57929,
+      "fontFamily": "Garden",
+      "identifier": "messengerFill16"
+    },
+    "messenger-stroke-12": {
+      "codepoint": 57930,
+      "fontFamily": "Garden",
+      "identifier": "messengerStroke12"
+    },
+    "messenger-stroke-16": {
+      "codepoint": 57931,
+      "fontFamily": "Garden",
+      "identifier": "messengerStroke16"
+    },
+    "microphone-off-fill-12": {
+      "codepoint": 57932,
+      "fontFamily": "Garden",
+      "identifier": "microphoneOffFill12"
+    },
+    "microphone-off-fill-16": {
+      "codepoint": 57933,
+      "fontFamily": "Garden",
+      "identifier": "microphoneOffFill16"
+    },
+    "microphone-off-stroke-12": {
+      "codepoint": 57934,
+      "fontFamily": "Garden",
+      "identifier": "microphoneOffStroke12"
+    },
+    "microphone-off-stroke-16": {
+      "codepoint": 57935,
+      "fontFamily": "Garden",
+      "identifier": "microphoneOffStroke16"
+    },
+    "microphone-on-fill-12": {
+      "codepoint": 57936,
+      "fontFamily": "Garden",
+      "identifier": "microphoneOnFill12"
+    },
+    "microphone-on-fill-16": {
+      "codepoint": 57937,
+      "fontFamily": "Garden",
+      "identifier": "microphoneOnFill16"
+    },
+    "microphone-on-stroke-12": {
+      "codepoint": 57938,
+      "fontFamily": "Garden",
+      "identifier": "microphoneOnStroke12"
+    },
+    "microphone-on-stroke-16": {
+      "codepoint": 57939,
+      "fontFamily": "Garden",
+      "identifier": "microphoneOnStroke16"
+    },
+    "minimize-fill-12": {
+      "codepoint": 57940,
+      "fontFamily": "Garden",
+      "identifier": "minimizeFill12"
+    },
+    "minimize-fill-16": {
+      "codepoint": 57941,
+      "fontFamily": "Garden",
+      "identifier": "minimizeFill16"
+    },
+    "minimize-stroke-12": {
+      "codepoint": 57942,
+      "fontFamily": "Garden",
+      "identifier": "minimizeStroke12"
+    },
+    "minimize-stroke-16": {
+      "codepoint": 57943,
+      "fontFamily": "Garden",
+      "identifier": "minimizeStroke16"
+    },
+    "mobile-phone-fill-12": {
+      "codepoint": 57944,
+      "fontFamily": "Garden",
+      "identifier": "mobilePhoneFill12"
+    },
+    "mobile-phone-fill-16": {
+      "codepoint": 57945,
+      "fontFamily": "Garden",
+      "identifier": "mobilePhoneFill16"
+    },
+    "mobile-phone-stroke-12": {
+      "codepoint": 57946,
+      "fontFamily": "Garden",
+      "identifier": "mobilePhoneStroke12"
+    },
+    "mobile-phone-stroke-16": {
+      "codepoint": 57947,
+      "fontFamily": "Garden",
+      "identifier": "mobilePhoneStroke16"
+    },
+    "moderation-26": {
+      "codepoint": 57948,
+      "fontFamily": "Garden",
+      "identifier": "moderation26"
+    },
+    "monitor-26": {
+      "codepoint": 57949,
+      "fontFamily": "Garden",
+      "identifier": "monitor26"
+    },
+    "monitor-fill-12": {
+      "codepoint": 57950,
+      "fontFamily": "Garden",
+      "identifier": "monitorFill12"
+    },
+    "monitor-fill-16": {
+      "codepoint": 57951,
+      "fontFamily": "Garden",
+      "identifier": "monitorFill16"
+    },
+    "monitor-stroke-12": {
+      "codepoint": 57952,
+      "fontFamily": "Garden",
+      "identifier": "monitorStroke12"
+    },
+    "monitor-stroke-16": {
+      "codepoint": 57953,
+      "fontFamily": "Garden",
+      "identifier": "monitorStroke16"
+    },
+    "moon-fill-12": {
+      "codepoint": 57954,
+      "fontFamily": "Garden",
+      "identifier": "moonFill12"
+    },
+    "moon-fill-16": {
+      "codepoint": 57955,
+      "fontFamily": "Garden",
+      "identifier": "moonFill16"
+    },
+    "moon-stroke-12": {
+      "codepoint": 57956,
+      "fontFamily": "Garden",
+      "identifier": "moonStroke12"
+    },
+    "moon-stroke-16": {
+      "codepoint": 57957,
+      "fontFamily": "Garden",
+      "identifier": "moonStroke16"
+    },
+    "multiline-fill-12": {
+      "codepoint": 57958,
+      "fontFamily": "Garden",
+      "identifier": "multilineFill12"
+    },
+    "multiline-fill-16": {
+      "codepoint": 57959,
+      "fontFamily": "Garden",
+      "identifier": "multilineFill16"
+    },
+    "multiline-stroke-12": {
+      "codepoint": 57960,
+      "fontFamily": "Garden",
+      "identifier": "multilineStroke12"
+    },
+    "multiline-stroke-16": {
+      "codepoint": 57961,
+      "fontFamily": "Garden",
+      "identifier": "multilineStroke16"
+    },
+    "new-window-fill-12": {
+      "codepoint": 57962,
+      "fontFamily": "Garden",
+      "identifier": "newWindowFill12"
+    },
+    "new-window-fill-16": {
+      "codepoint": 57963,
+      "fontFamily": "Garden",
+      "identifier": "newWindowFill16"
+    },
+    "new-window-stroke-12": {
+      "codepoint": 57964,
+      "fontFamily": "Garden",
+      "identifier": "newWindowStroke12"
+    },
+    "new-window-stroke-16": {
+      "codepoint": 57965,
+      "fontFamily": "Garden",
+      "identifier": "newWindowStroke16"
+    },
+    "notes-fill-12": {
+      "codepoint": 57966,
+      "fontFamily": "Garden",
+      "identifier": "notesFill12"
+    },
+    "notes-fill-16": {
+      "codepoint": 57967,
+      "fontFamily": "Garden",
+      "identifier": "notesFill16"
+    },
+    "notes-stroke-12": {
+      "codepoint": 57968,
+      "fontFamily": "Garden",
+      "identifier": "notesStroke12"
+    },
+    "notes-stroke-16": {
+      "codepoint": 57969,
+      "fontFamily": "Garden",
+      "identifier": "notesStroke16"
+    },
+    "notification-fill-12": {
+      "codepoint": 57970,
+      "fontFamily": "Garden",
+      "identifier": "notificationFill12"
+    },
+    "notification-fill-16": {
+      "codepoint": 57971,
+      "fontFamily": "Garden",
+      "identifier": "notificationFill16"
+    },
+    "notification-stroke-12": {
+      "codepoint": 57972,
+      "fontFamily": "Garden",
+      "identifier": "notificationStroke12"
+    },
+    "notification-stroke-16": {
+      "codepoint": 57973,
+      "fontFamily": "Garden",
+      "identifier": "notificationStroke16"
+    },
+    "number-fill-12": {
+      "codepoint": 57974,
+      "fontFamily": "Garden",
+      "identifier": "numberFill12"
+    },
+    "number-fill-16": {
+      "codepoint": 57975,
+      "fontFamily": "Garden",
+      "identifier": "numberFill16"
+    },
+    "number-stroke-12": {
+      "codepoint": 57976,
+      "fontFamily": "Garden",
+      "identifier": "numberStroke12"
+    },
+    "number-stroke-16": {
+      "codepoint": 57977,
+      "fontFamily": "Garden",
+      "identifier": "numberStroke16"
+    },
+    "organization-26": {
+      "codepoint": 57978,
+      "fontFamily": "Garden",
+      "identifier": "organization26"
+    },
+    "original-size-fill-12": {
+      "codepoint": 57979,
+      "fontFamily": "Garden",
+      "identifier": "originalSizeFill12"
+    },
+    "original-size-fill-16": {
+      "codepoint": 57980,
+      "fontFamily": "Garden",
+      "identifier": "originalSizeFill16"
+    },
+    "original-size-stroke-12": {
+      "codepoint": 57981,
+      "fontFamily": "Garden",
+      "identifier": "originalSizeStroke12"
+    },
+    "original-size-stroke-16": {
+      "codepoint": 57982,
+      "fontFamily": "Garden",
+      "identifier": "originalSizeStroke16"
+    },
+    "overflow-fill-12": {
+      "codepoint": 57983,
+      "fontFamily": "Garden",
+      "identifier": "overflowFill12"
+    },
+    "overflow-fill-16": {
+      "codepoint": 57984,
+      "fontFamily": "Garden",
+      "identifier": "overflowFill16"
+    },
+    "overflow-stroke-12": {
+      "codepoint": 57985,
+      "fontFamily": "Garden",
+      "identifier": "overflowStroke12"
+    },
+    "overflow-stroke-16": {
+      "codepoint": 57986,
+      "fontFamily": "Garden",
+      "identifier": "overflowStroke16"
+    },
+    "overflow-vertical-fill-12": {
+      "codepoint": 57987,
+      "fontFamily": "Garden",
+      "identifier": "overflowVerticalFill12"
+    },
+    "overflow-vertical-fill-16": {
+      "codepoint": 57988,
+      "fontFamily": "Garden",
+      "identifier": "overflowVerticalFill16"
+    },
+    "overflow-vertical-stroke-12": {
+      "codepoint": 57989,
+      "fontFamily": "Garden",
+      "identifier": "overflowVerticalStroke12"
+    },
+    "overflow-vertical-stroke-16": {
+      "codepoint": 57990,
+      "fontFamily": "Garden",
+      "identifier": "overflowVerticalStroke16"
+    },
+    "palette-fill-12": {
+      "codepoint": 57991,
+      "fontFamily": "Garden",
+      "identifier": "paletteFill12"
+    },
+    "palette-fill-16": {
+      "codepoint": 57992,
+      "fontFamily": "Garden",
+      "identifier": "paletteFill16"
+    },
+    "palette-stroke-12": {
+      "codepoint": 57993,
+      "fontFamily": "Garden",
+      "identifier": "paletteStroke12"
+    },
+    "palette-stroke-16": {
+      "codepoint": 57994,
+      "fontFamily": "Garden",
+      "identifier": "paletteStroke16"
+    },
+    "panels-fill-12": {
+      "codepoint": 57995,
+      "fontFamily": "Garden",
+      "identifier": "panelsFill12"
+    },
+    "panels-fill-16": {
+      "codepoint": 57996,
+      "fontFamily": "Garden",
+      "identifier": "panelsFill16"
+    },
+    "panels-stroke-12": {
+      "codepoint": 57997,
+      "fontFamily": "Garden",
+      "identifier": "panelsStroke12"
+    },
+    "panels-stroke-16": {
+      "codepoint": 57998,
+      "fontFamily": "Garden",
+      "identifier": "panelsStroke16"
+    },
+    "paperclip-12": {
+      "codepoint": 57999,
+      "fontFamily": "Garden",
+      "identifier": "paperclip12"
+    },
+    "paperclip-16": {
+      "codepoint": 58000,
+      "fontFamily": "Garden",
+      "identifier": "paperclip16"
+    },
+    "parentheses-fill-12": {
+      "codepoint": 58001,
+      "fontFamily": "Garden",
+      "identifier": "parenthesesFill12"
+    },
+    "parentheses-fill-16": {
+      "codepoint": 58002,
+      "fontFamily": "Garden",
+      "identifier": "parenthesesFill16"
+    },
+    "parentheses-stroke-12": {
+      "codepoint": 58003,
+      "fontFamily": "Garden",
+      "identifier": "parenthesesStroke12"
+    },
+    "parentheses-stroke-16": {
+      "codepoint": 58004,
+      "fontFamily": "Garden",
+      "identifier": "parenthesesStroke16"
+    },
+    "pause-fill-12": {
+      "codepoint": 58005,
+      "fontFamily": "Garden",
+      "identifier": "pauseFill12"
+    },
+    "pause-fill-16": {
+      "codepoint": 58006,
+      "fontFamily": "Garden",
+      "identifier": "pauseFill16"
+    },
+    "pause-stroke-12": {
+      "codepoint": 58007,
+      "fontFamily": "Garden",
+      "identifier": "pauseStroke12"
+    },
+    "pause-stroke-16": {
+      "codepoint": 58008,
+      "fontFamily": "Garden",
+      "identifier": "pauseStroke16"
+    },
+    "pencil-fill-12": {
+      "codepoint": 58009,
+      "fontFamily": "Garden",
+      "identifier": "pencilFill12"
+    },
+    "pencil-fill-16": {
+      "codepoint": 58010,
+      "fontFamily": "Garden",
+      "identifier": "pencilFill16"
+    },
+    "pencil-stroke-12": {
+      "codepoint": 58011,
+      "fontFamily": "Garden",
+      "identifier": "pencilStroke12"
+    },
+    "pencil-stroke-16": {
+      "codepoint": 58012,
+      "fontFamily": "Garden",
+      "identifier": "pencilStroke16"
+    },
+    "person-26": {
+      "codepoint": 58013,
+      "fontFamily": "Garden",
+      "identifier": "person26"
+    },
+    "phone-call-end-fill-12": {
+      "codepoint": 58014,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallEndFill12"
+    },
+    "phone-call-end-fill-16": {
+      "codepoint": 58015,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallEndFill16"
+    },
+    "phone-call-end-stroke-12": {
+      "codepoint": 58016,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallEndStroke12"
+    },
+    "phone-call-end-stroke-16": {
+      "codepoint": 58017,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallEndStroke16"
+    },
+    "phone-call-in-fill-12": {
+      "codepoint": 58018,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallInFill12"
+    },
+    "phone-call-in-fill-16": {
+      "codepoint": 58019,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallInFill16"
+    },
+    "phone-call-in-stroke-12": {
+      "codepoint": 58020,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallInStroke12"
+    },
+    "phone-call-in-stroke-16": {
+      "codepoint": 58021,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallInStroke16"
+    },
+    "phone-call-out-fill-12": {
+      "codepoint": 58022,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallOutFill12"
+    },
+    "phone-call-out-fill-16": {
+      "codepoint": 58023,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallOutFill16"
+    },
+    "phone-call-out-stroke-12": {
+      "codepoint": 58024,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallOutStroke12"
+    },
+    "phone-call-out-stroke-16": {
+      "codepoint": 58025,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallOutStroke16"
+    },
+    "phone-call-pause-fill-12": {
+      "codepoint": 58026,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallPauseFill12"
+    },
+    "phone-call-pause-fill-16": {
+      "codepoint": 58027,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallPauseFill16"
+    },
+    "phone-call-pause-stroke-12": {
+      "codepoint": 58028,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallPauseStroke12"
+    },
+    "phone-call-pause-stroke-16": {
+      "codepoint": 58029,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallPauseStroke16"
+    },
+    "phone-call-speaker-fill-12": {
+      "codepoint": 58030,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallSpeakerFill12"
+    },
+    "phone-call-speaker-fill-16": {
+      "codepoint": 58031,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallSpeakerFill16"
+    },
+    "phone-call-speaker-stroke-12": {
+      "codepoint": 58032,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallSpeakerStroke12"
+    },
+    "phone-call-speaker-stroke-16": {
+      "codepoint": 58033,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallSpeakerStroke16"
+    },
+    "phone-call-transfer-fill-12": {
+      "codepoint": 58034,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallTransferFill12"
+    },
+    "phone-call-transfer-fill-16": {
+      "codepoint": 58035,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallTransferFill16"
+    },
+    "phone-call-transfer-only-fill-12": {
+      "codepoint": 58036,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallTransferOnlyFill12"
+    },
+    "phone-call-transfer-only-fill-16": {
+      "codepoint": 58037,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallTransferOnlyFill16"
+    },
+    "phone-call-transfer-only-stroke-12": {
+      "codepoint": 58038,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallTransferOnlyStroke12"
+    },
+    "phone-call-transfer-only-stroke-16": {
+      "codepoint": 58039,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallTransferOnlyStroke16"
+    },
+    "phone-call-transfer-stroke-12": {
+      "codepoint": 58040,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallTransferStroke12"
+    },
+    "phone-call-transfer-stroke-16": {
+      "codepoint": 58041,
+      "fontFamily": "Garden",
+      "identifier": "phoneCallTransferStroke16"
+    },
+    "phone-fill-12": {
+      "codepoint": 58042,
+      "fontFamily": "Garden",
+      "identifier": "phoneFill12"
+    },
+    "phone-fill-16": {
+      "codepoint": 58043,
+      "fontFamily": "Garden",
+      "identifier": "phoneFill16"
+    },
+    "phone-stroke-12": {
+      "codepoint": 58044,
+      "fontFamily": "Garden",
+      "identifier": "phoneStroke12"
+    },
+    "phone-stroke-16": {
+      "codepoint": 58045,
+      "fontFamily": "Garden",
+      "identifier": "phoneStroke16"
+    },
+    "pin-fill-12": {
+      "codepoint": 58046,
+      "fontFamily": "Garden",
+      "identifier": "pinFill12"
+    },
+    "pin-fill-16": {
+      "codepoint": 58047,
+      "fontFamily": "Garden",
+      "identifier": "pinFill16"
+    },
+    "pin-remove-fill-12": {
+      "codepoint": 58048,
+      "fontFamily": "Garden",
+      "identifier": "pinRemoveFill12"
+    },
+    "pin-remove-fill-16": {
+      "codepoint": 58049,
+      "fontFamily": "Garden",
+      "identifier": "pinRemoveFill16"
+    },
+    "pin-remove-stroke-12": {
+      "codepoint": 58050,
+      "fontFamily": "Garden",
+      "identifier": "pinRemoveStroke12"
+    },
+    "pin-remove-stroke-16": {
+      "codepoint": 58051,
+      "fontFamily": "Garden",
+      "identifier": "pinRemoveStroke16"
+    },
+    "pin-stroke-12": {
+      "codepoint": 58052,
+      "fontFamily": "Garden",
+      "identifier": "pinStroke12"
+    },
+    "pin-stroke-16": {
+      "codepoint": 58053,
+      "fontFamily": "Garden",
+      "identifier": "pinStroke16"
+    },
+    "platform-26": {
+      "codepoint": 58054,
+      "fontFamily": "Garden",
+      "identifier": "platform26"
+    },
+    "play-26": {
+      "codepoint": 58055,
+      "fontFamily": "Garden",
+      "identifier": "play26"
+    },
+    "play-circle-fill-12": {
+      "codepoint": 58056,
+      "fontFamily": "Garden",
+      "identifier": "playCircleFill12"
+    },
+    "play-circle-fill-16": {
+      "codepoint": 58057,
+      "fontFamily": "Garden",
+      "identifier": "playCircleFill16"
+    },
+    "play-circle-stroke-12": {
+      "codepoint": 58058,
+      "fontFamily": "Garden",
+      "identifier": "playCircleStroke12"
+    },
+    "play-circle-stroke-16": {
+      "codepoint": 58059,
+      "fontFamily": "Garden",
+      "identifier": "playCircleStroke16"
+    },
+    "play-fill-12": {
+      "codepoint": 58060,
+      "fontFamily": "Garden",
+      "identifier": "playFill12"
+    },
+    "play-fill-16": {
+      "codepoint": 58061,
+      "fontFamily": "Garden",
+      "identifier": "playFill16"
+    },
+    "play-stroke-12": {
+      "codepoint": 58062,
+      "fontFamily": "Garden",
+      "identifier": "playStroke12"
+    },
+    "play-stroke-16": {
+      "codepoint": 58063,
+      "fontFamily": "Garden",
+      "identifier": "playStroke16"
+    },
+    "plug-fill-12": {
+      "codepoint": 58064,
+      "fontFamily": "Garden",
+      "identifier": "plugFill12"
+    },
+    "plug-fill-16": {
+      "codepoint": 58065,
+      "fontFamily": "Garden",
+      "identifier": "plugFill16"
+    },
+    "plug-stroke-12": {
+      "codepoint": 58066,
+      "fontFamily": "Garden",
+      "identifier": "plugStroke12"
+    },
+    "plug-stroke-16": {
+      "codepoint": 58067,
+      "fontFamily": "Garden",
+      "identifier": "plugStroke16"
+    },
+    "plus-circle-fill-12": {
+      "codepoint": 58068,
+      "fontFamily": "Garden",
+      "identifier": "plusCircleFill12"
+    },
+    "plus-circle-fill-16": {
+      "codepoint": 58069,
+      "fontFamily": "Garden",
+      "identifier": "plusCircleFill16"
+    },
+    "plus-circle-stroke-12": {
+      "codepoint": 58070,
+      "fontFamily": "Garden",
+      "identifier": "plusCircleStroke12"
+    },
+    "plus-circle-stroke-16": {
+      "codepoint": 58071,
+      "fontFamily": "Garden",
+      "identifier": "plusCircleStroke16"
+    },
+    "plus-fill-12": {
+      "codepoint": 58072,
+      "fontFamily": "Garden",
+      "identifier": "plusFill12"
+    },
+    "plus-fill-16": {
+      "codepoint": 58073,
+      "fontFamily": "Garden",
+      "identifier": "plusFill16"
+    },
+    "plus-stroke-12": {
+      "codepoint": 58074,
+      "fontFamily": "Garden",
+      "identifier": "plusStroke12"
+    },
+    "plus-stroke-16": {
+      "codepoint": 58075,
+      "fontFamily": "Garden",
+      "identifier": "plusStroke16"
+    },
+    "puzzle-piece-fill-12": {
+      "codepoint": 58076,
+      "fontFamily": "Garden",
+      "identifier": "puzzlePieceFill12"
+    },
+    "puzzle-piece-fill-16": {
+      "codepoint": 58077,
+      "fontFamily": "Garden",
+      "identifier": "puzzlePieceFill16"
+    },
+    "puzzle-piece-stroke-12": {
+      "codepoint": 58078,
+      "fontFamily": "Garden",
+      "identifier": "puzzlePieceStroke12"
+    },
+    "puzzle-piece-stroke-16": {
+      "codepoint": 58079,
+      "fontFamily": "Garden",
+      "identifier": "puzzlePieceStroke16"
+    },
+    "question-mark-fill-12": {
+      "codepoint": 58080,
+      "fontFamily": "Garden",
+      "identifier": "questionMarkFill12"
+    },
+    "question-mark-fill-16": {
+      "codepoint": 58081,
+      "fontFamily": "Garden",
+      "identifier": "questionMarkFill16"
+    },
+    "question-mark-stroke-12": {
+      "codepoint": 58082,
+      "fontFamily": "Garden",
+      "identifier": "questionMarkStroke12"
+    },
+    "question-mark-stroke-16": {
+      "codepoint": 58083,
+      "fontFamily": "Garden",
+      "identifier": "questionMarkStroke16"
+    },
+    "quote-fill-12": {
+      "codepoint": 58084,
+      "fontFamily": "Garden",
+      "identifier": "quoteFill12"
+    },
+    "quote-fill-16": {
+      "codepoint": 58085,
+      "fontFamily": "Garden",
+      "identifier": "quoteFill16"
+    },
+    "quote-stroke-12": {
+      "codepoint": 58086,
+      "fontFamily": "Garden",
+      "identifier": "quoteStroke12"
+    },
+    "quote-stroke-16": {
+      "codepoint": 58087,
+      "fontFamily": "Garden",
+      "identifier": "quoteStroke16"
+    },
+    "rearrange-fill-12": {
+      "codepoint": 58088,
+      "fontFamily": "Garden",
+      "identifier": "rearrangeFill12"
+    },
+    "rearrange-fill-16": {
+      "codepoint": 58089,
+      "fontFamily": "Garden",
+      "identifier": "rearrangeFill16"
+    },
+    "rearrange-stroke-12": {
+      "codepoint": 58090,
+      "fontFamily": "Garden",
+      "identifier": "rearrangeStroke12"
+    },
+    "rearrange-stroke-16": {
+      "codepoint": 58091,
+      "fontFamily": "Garden",
+      "identifier": "rearrangeStroke16"
+    },
+    "record-fill-12": {
+      "codepoint": 58092,
+      "fontFamily": "Garden",
+      "identifier": "recordFill12"
+    },
+    "record-fill-16": {
+      "codepoint": 58093,
+      "fontFamily": "Garden",
+      "identifier": "recordFill16"
+    },
+    "record-stroke-12": {
+      "codepoint": 58094,
+      "fontFamily": "Garden",
+      "identifier": "recordStroke12"
+    },
+    "record-stroke-16": {
+      "codepoint": 58095,
+      "fontFamily": "Garden",
+      "identifier": "recordStroke16"
+    },
+    "relationshape-chat-26": {
+      "codepoint": 58096,
+      "fontFamily": "Garden",
+      "identifier": "relationshapeChat26"
+    },
+    "relationshape-connect-26": {
+      "codepoint": 58097,
+      "fontFamily": "Garden",
+      "identifier": "relationshapeConnect26"
+    },
+    "relationshape-explore-26": {
+      "codepoint": 58098,
+      "fontFamily": "Garden",
+      "identifier": "relationshapeExplore26"
+    },
+    "relationshape-gather-26": {
+      "codepoint": 58099,
+      "fontFamily": "Garden",
+      "identifier": "relationshapeGather26"
+    },
+    "relationshape-guide-26": {
+      "codepoint": 58100,
+      "fontFamily": "Garden",
+      "identifier": "relationshapeGuide26"
+    },
+    "relationshape-message-26": {
+      "codepoint": 58101,
+      "fontFamily": "Garden",
+      "identifier": "relationshapeMessage26"
+    },
+    "relationshape-sell-26": {
+      "codepoint": 58102,
+      "fontFamily": "Garden",
+      "identifier": "relationshapeSell26"
+    },
+    "relationshape-support-26": {
+      "codepoint": 58103,
+      "fontFamily": "Garden",
+      "identifier": "relationshapeSupport26"
+    },
+    "relationshape-talk-26": {
+      "codepoint": 58104,
+      "fontFamily": "Garden",
+      "identifier": "relationshapeTalk26"
+    },
+    "reload-fill-12": {
+      "codepoint": 58105,
+      "fontFamily": "Garden",
+      "identifier": "reloadFill12"
+    },
+    "reload-fill-16": {
+      "codepoint": 58106,
+      "fontFamily": "Garden",
+      "identifier": "reloadFill16"
+    },
+    "reload-stroke-12": {
+      "codepoint": 58107,
+      "fontFamily": "Garden",
+      "identifier": "reloadStroke12"
+    },
+    "reload-stroke-16": {
+      "codepoint": 58108,
+      "fontFamily": "Garden",
+      "identifier": "reloadStroke16"
+    },
+    "rocket-fill-12": {
+      "codepoint": 58109,
+      "fontFamily": "Garden",
+      "identifier": "rocketFill12"
+    },
+    "rocket-fill-16": {
+      "codepoint": 58110,
+      "fontFamily": "Garden",
+      "identifier": "rocketFill16"
+    },
+    "rocket-stroke-12": {
+      "codepoint": 58111,
+      "fontFamily": "Garden",
+      "identifier": "rocketStroke12"
+    },
+    "rocket-stroke-16": {
+      "codepoint": 58112,
+      "fontFamily": "Garden",
+      "identifier": "rocketStroke16"
+    },
+    "sandbox-fill-12": {
+      "codepoint": 58113,
+      "fontFamily": "Garden",
+      "identifier": "sandboxFill12"
+    },
+    "sandbox-fill-16": {
+      "codepoint": 58114,
+      "fontFamily": "Garden",
+      "identifier": "sandboxFill16"
+    },
+    "sandbox-stroke-12": {
+      "codepoint": 58115,
+      "fontFamily": "Garden",
+      "identifier": "sandboxStroke12"
+    },
+    "sandbox-stroke-16": {
+      "codepoint": 58116,
+      "fontFamily": "Garden",
+      "identifier": "sandboxStroke16"
+    },
+    "search-26": {
+      "codepoint": 58117,
+      "fontFamily": "Garden",
+      "identifier": "search26"
+    },
+    "search-fill-12": {
+      "codepoint": 58118,
+      "fontFamily": "Garden",
+      "identifier": "searchFill12"
+    },
+    "search-fill-16": {
+      "codepoint": 58119,
+      "fontFamily": "Garden",
+      "identifier": "searchFill16"
+    },
+    "search-stroke-12": {
+      "codepoint": 58120,
+      "fontFamily": "Garden",
+      "identifier": "searchStroke12"
+    },
+    "search-stroke-16": {
+      "codepoint": 58121,
+      "fontFamily": "Garden",
+      "identifier": "searchStroke16"
+    },
+    "security-26": {
+      "codepoint": 58122,
+      "fontFamily": "Garden",
+      "identifier": "security26"
+    },
+    "settings-fill-26": {
+      "codepoint": 58123,
+      "fontFamily": "Garden",
+      "identifier": "settingsFill26"
+    },
+    "shapes-26": {
+      "codepoint": 58124,
+      "fontFamily": "Garden",
+      "identifier": "shapes26"
+    },
+    "shapes-fill-12": {
+      "codepoint": 58125,
+      "fontFamily": "Garden",
+      "identifier": "shapesFill12"
+    },
+    "shapes-fill-16": {
+      "codepoint": 58126,
+      "fontFamily": "Garden",
+      "identifier": "shapesFill16"
+    },
+    "shapes-stroke-12": {
+      "codepoint": 58127,
+      "fontFamily": "Garden",
+      "identifier": "shapesStroke12"
+    },
+    "shapes-stroke-16": {
+      "codepoint": 58128,
+      "fontFamily": "Garden",
+      "identifier": "shapesStroke16"
+    },
+    "share-fill-12": {
+      "codepoint": 58129,
+      "fontFamily": "Garden",
+      "identifier": "shareFill12"
+    },
+    "share-fill-16": {
+      "codepoint": 58130,
+      "fontFamily": "Garden",
+      "identifier": "shareFill16"
+    },
+    "share-stroke-12": {
+      "codepoint": 58131,
+      "fontFamily": "Garden",
+      "identifier": "shareStroke12"
+    },
+    "share-stroke-16": {
+      "codepoint": 58132,
+      "fontFamily": "Garden",
+      "identifier": "shareStroke16"
+    },
+    "shield-fill-12": {
+      "codepoint": 58133,
+      "fontFamily": "Garden",
+      "identifier": "shieldFill12"
+    },
+    "shield-fill-16": {
+      "codepoint": 58134,
+      "fontFamily": "Garden",
+      "identifier": "shieldFill16"
+    },
+    "shield-stroke-12": {
+      "codepoint": 58135,
+      "fontFamily": "Garden",
+      "identifier": "shieldStroke12"
+    },
+    "shield-stroke-16": {
+      "codepoint": 58136,
+      "fontFamily": "Garden",
+      "identifier": "shieldStroke16"
+    },
+    "shopping-cart-fill-12": {
+      "codepoint": 58137,
+      "fontFamily": "Garden",
+      "identifier": "shoppingCartFill12"
+    },
+    "shopping-cart-fill-16": {
+      "codepoint": 58138,
+      "fontFamily": "Garden",
+      "identifier": "shoppingCartFill16"
+    },
+    "shopping-cart-stroke-12": {
+      "codepoint": 58139,
+      "fontFamily": "Garden",
+      "identifier": "shoppingCartStroke12"
+    },
+    "shopping-cart-stroke-16": {
+      "codepoint": 58140,
+      "fontFamily": "Garden",
+      "identifier": "shoppingCartStroke16"
+    },
+    "signpost-fill-12": {
+      "codepoint": 58141,
+      "fontFamily": "Garden",
+      "identifier": "signpostFill12"
+    },
+    "signpost-fill-16": {
+      "codepoint": 58142,
+      "fontFamily": "Garden",
+      "identifier": "signpostFill16"
+    },
+    "signpost-stroke-12": {
+      "codepoint": 58143,
+      "fontFamily": "Garden",
+      "identifier": "signpostStroke12"
+    },
+    "signpost-stroke-16": {
+      "codepoint": 58144,
+      "fontFamily": "Garden",
+      "identifier": "signpostStroke16"
+    },
+    "slack-fill-12": {
+      "codepoint": 58145,
+      "fontFamily": "Garden",
+      "identifier": "slackFill12"
+    },
+    "slack-fill-16": {
+      "codepoint": 58146,
+      "fontFamily": "Garden",
+      "identifier": "slackFill16"
+    },
+    "slack-stroke-12": {
+      "codepoint": 58147,
+      "fontFamily": "Garden",
+      "identifier": "slackStroke12"
+    },
+    "slack-stroke-16": {
+      "codepoint": 58148,
+      "fontFamily": "Garden",
+      "identifier": "slackStroke16"
+    },
+    "smile-slight-fill-12": {
+      "codepoint": 58149,
+      "fontFamily": "Garden",
+      "identifier": "smileSlightFill12"
+    },
+    "smile-slight-fill-16": {
+      "codepoint": 58150,
+      "fontFamily": "Garden",
+      "identifier": "smileSlightFill16"
+    },
+    "smile-slight-stroke-12": {
+      "codepoint": 58151,
+      "fontFamily": "Garden",
+      "identifier": "smileSlightStroke12"
+    },
+    "smile-slight-stroke-16": {
+      "codepoint": 58152,
+      "fontFamily": "Garden",
+      "identifier": "smileSlightStroke16"
+    },
+    "smiley-fill-12": {
+      "codepoint": 58153,
+      "fontFamily": "Garden",
+      "identifier": "smileyFill12"
+    },
+    "smiley-fill-16": {
+      "codepoint": 58154,
+      "fontFamily": "Garden",
+      "identifier": "smileyFill16"
+    },
+    "smiley-stroke-12": {
+      "codepoint": 58155,
+      "fontFamily": "Garden",
+      "identifier": "smileyStroke12"
+    },
+    "smiley-stroke-16": {
+      "codepoint": 58156,
+      "fontFamily": "Garden",
+      "identifier": "smileyStroke16"
+    },
+    "sort-fill-12": {
+      "codepoint": 58157,
+      "fontFamily": "Garden",
+      "identifier": "sortFill12"
+    },
+    "sort-fill-16": {
+      "codepoint": 58158,
+      "fontFamily": "Garden",
+      "identifier": "sortFill16"
+    },
+    "sort-stroke-12": {
+      "codepoint": 58159,
+      "fontFamily": "Garden",
+      "identifier": "sortStroke12"
+    },
+    "sort-stroke-16": {
+      "codepoint": 58160,
+      "fontFamily": "Garden",
+      "identifier": "sortStroke16"
+    },
+    "sparkle-fill-12": {
+      "codepoint": 58161,
+      "fontFamily": "Garden",
+      "identifier": "sparkleFill12"
+    },
+    "sparkle-fill-16": {
+      "codepoint": 58162,
+      "fontFamily": "Garden",
+      "identifier": "sparkleFill16"
+    },
+    "sparkle-stroke-12": {
+      "codepoint": 58163,
+      "fontFamily": "Garden",
+      "identifier": "sparkleStroke12"
+    },
+    "sparkle-stroke-16": {
+      "codepoint": 58164,
+      "fontFamily": "Garden",
+      "identifier": "sparkleStroke16"
+    },
+    "speech-bubble-conversation-fill-12": {
+      "codepoint": 58165,
+      "fontFamily": "Garden",
+      "identifier": "speechBubbleConversationFill12"
+    },
+    "speech-bubble-conversation-fill-16": {
+      "codepoint": 58166,
+      "fontFamily": "Garden",
+      "identifier": "speechBubbleConversationFill16"
+    },
+    "speech-bubble-conversation-stroke-12": {
+      "codepoint": 58167,
+      "fontFamily": "Garden",
+      "identifier": "speechBubbleConversationStroke12"
+    },
+    "speech-bubble-conversation-stroke-16": {
+      "codepoint": 58168,
+      "fontFamily": "Garden",
+      "identifier": "speechBubbleConversationStroke16"
+    },
+    "speech-bubble-lightning-bolt-fill-12": {
+      "codepoint": 58169,
+      "fontFamily": "Garden",
+      "identifier": "speechBubbleLightningBoltFill12"
+    },
+    "speech-bubble-lightning-bolt-fill-16": {
+      "codepoint": 58170,
+      "fontFamily": "Garden",
+      "identifier": "speechBubbleLightningBoltFill16"
+    },
+    "speech-bubble-lightning-bolt-stroke-12": {
+      "codepoint": 58171,
+      "fontFamily": "Garden",
+      "identifier": "speechBubbleLightningBoltStroke12"
+    },
+    "speech-bubble-lightning-bolt-stroke-16": {
+      "codepoint": 58172,
+      "fontFamily": "Garden",
+      "identifier": "speechBubbleLightningBoltStroke16"
+    },
+    "speech-bubble-plain-fill-12": {
+      "codepoint": 58173,
+      "fontFamily": "Garden",
+      "identifier": "speechBubblePlainFill12"
+    },
+    "speech-bubble-plain-fill-16": {
+      "codepoint": 58174,
+      "fontFamily": "Garden",
+      "identifier": "speechBubblePlainFill16"
+    },
+    "speech-bubble-plain-stroke-12": {
+      "codepoint": 58175,
+      "fontFamily": "Garden",
+      "identifier": "speechBubblePlainStroke12"
+    },
+    "speech-bubble-plain-stroke-16": {
+      "codepoint": 58176,
+      "fontFamily": "Garden",
+      "identifier": "speechBubblePlainStroke16"
+    },
+    "speech-bubble-typing-fill-12": {
+      "codepoint": 58177,
+      "fontFamily": "Garden",
+      "identifier": "speechBubbleTypingFill12"
+    },
+    "speech-bubble-typing-fill-16": {
+      "codepoint": 58178,
+      "fontFamily": "Garden",
+      "identifier": "speechBubbleTypingFill16"
+    },
+    "speech-bubble-typing-stroke-12": {
+      "codepoint": 58179,
+      "fontFamily": "Garden",
+      "identifier": "speechBubbleTypingStroke12"
+    },
+    "speech-bubble-typing-stroke-16": {
+      "codepoint": 58180,
+      "fontFamily": "Garden",
+      "identifier": "speechBubbleTypingStroke16"
+    },
+    "stamp-fill-12": {
+      "codepoint": 58181,
+      "fontFamily": "Garden",
+      "identifier": "stampFill12"
+    },
+    "stamp-fill-16": {
+      "codepoint": 58182,
+      "fontFamily": "Garden",
+      "identifier": "stampFill16"
+    },
+    "stamp-stroke-12": {
+      "codepoint": 58183,
+      "fontFamily": "Garden",
+      "identifier": "stampStroke12"
+    },
+    "stamp-stroke-16": {
+      "codepoint": 58184,
+      "fontFamily": "Garden",
+      "identifier": "stampStroke16"
+    },
+    "star-fill-12": {
+      "codepoint": 58185,
+      "fontFamily": "Garden",
+      "identifier": "starFill12"
+    },
+    "star-fill-16": {
+      "codepoint": 58186,
+      "fontFamily": "Garden",
+      "identifier": "starFill16"
+    },
+    "star-stroke-12": {
+      "codepoint": 58187,
+      "fontFamily": "Garden",
+      "identifier": "starStroke12"
+    },
+    "star-stroke-16": {
+      "codepoint": 58188,
+      "fontFamily": "Garden",
+      "identifier": "starStroke16"
+    },
+    "sun-fill-12": {
+      "codepoint": 58189,
+      "fontFamily": "Garden",
+      "identifier": "sunFill12"
+    },
+    "sun-fill-16": {
+      "codepoint": 58190,
+      "fontFamily": "Garden",
+      "identifier": "sunFill16"
+    },
+    "sun-stroke-12": {
+      "codepoint": 58191,
+      "fontFamily": "Garden",
+      "identifier": "sunStroke12"
+    },
+    "sun-stroke-16": {
+      "codepoint": 58192,
+      "fontFamily": "Garden",
+      "identifier": "sunStroke16"
+    },
+    "sunshine-26": {
+      "codepoint": 58193,
+      "fontFamily": "Garden",
+      "identifier": "sunshine26"
+    },
+    "table-fill-12": {
+      "codepoint": 58194,
+      "fontFamily": "Garden",
+      "identifier": "tableFill12"
+    },
+    "table-fill-16": {
+      "codepoint": 58195,
+      "fontFamily": "Garden",
+      "identifier": "tableFill16"
+    },
+    "table-stroke-12": {
+      "codepoint": 58196,
+      "fontFamily": "Garden",
+      "identifier": "tableStroke12"
+    },
+    "table-stroke-16": {
+      "codepoint": 58197,
+      "fontFamily": "Garden",
+      "identifier": "tableStroke16"
+    },
+    "tag-fill-12": {
+      "codepoint": 58198,
+      "fontFamily": "Garden",
+      "identifier": "tagFill12"
+    },
+    "tag-fill-16": {
+      "codepoint": 58199,
+      "fontFamily": "Garden",
+      "identifier": "tagFill16"
+    },
+    "tag-stroke-12": {
+      "codepoint": 58200,
+      "fontFamily": "Garden",
+      "identifier": "tagStroke12"
+    },
+    "tag-stroke-16": {
+      "codepoint": 58201,
+      "fontFamily": "Garden",
+      "identifier": "tagStroke16"
+    },
+    "terminal-cli-fill-12": {
+      "codepoint": 58202,
+      "fontFamily": "Garden",
+      "identifier": "terminalCliFill12"
+    },
+    "terminal-cli-fill-16": {
+      "codepoint": 58203,
+      "fontFamily": "Garden",
+      "identifier": "terminalCliFill16"
+    },
+    "terminal-cli-stroke-12": {
+      "codepoint": 58204,
+      "fontFamily": "Garden",
+      "identifier": "terminalCliStroke12"
+    },
+    "terminal-cli-stroke-16": {
+      "codepoint": 58205,
+      "fontFamily": "Garden",
+      "identifier": "terminalCliStroke16"
+    },
+    "terminal-window-fill-12": {
+      "codepoint": 58206,
+      "fontFamily": "Garden",
+      "identifier": "terminalWindowFill12"
+    },
+    "terminal-window-fill-16": {
+      "codepoint": 58207,
+      "fontFamily": "Garden",
+      "identifier": "terminalWindowFill16"
+    },
+    "terminal-window-stroke-12": {
+      "codepoint": 58208,
+      "fontFamily": "Garden",
+      "identifier": "terminalWindowStroke12"
+    },
+    "terminal-window-stroke-16": {
+      "codepoint": 58209,
+      "fontFamily": "Garden",
+      "identifier": "terminalWindowStroke16"
+    },
+    "text-color-fill-12": {
+      "codepoint": 58210,
+      "fontFamily": "Garden",
+      "identifier": "textColorFill12"
+    },
+    "text-color-fill-16": {
+      "codepoint": 58211,
+      "fontFamily": "Garden",
+      "identifier": "textColorFill16"
+    },
+    "text-color-stroke-12": {
+      "codepoint": 58212,
+      "fontFamily": "Garden",
+      "identifier": "textColorStroke12"
+    },
+    "text-color-stroke-16": {
+      "codepoint": 58213,
+      "fontFamily": "Garden",
+      "identifier": "textColorStroke16"
+    },
+    "text-fill-12": {
+      "codepoint": 58214,
+      "fontFamily": "Garden",
+      "identifier": "textFill12"
+    },
+    "text-fill-16": {
+      "codepoint": 58215,
+      "fontFamily": "Garden",
+      "identifier": "textFill16"
+    },
+    "text-stroke-12": {
+      "codepoint": 58216,
+      "fontFamily": "Garden",
+      "identifier": "textStroke12"
+    },
+    "text-stroke-16": {
+      "codepoint": 58217,
+      "fontFamily": "Garden",
+      "identifier": "textStroke16"
+    },
+    "thumbs-down-fill-12": {
+      "codepoint": 58218,
+      "fontFamily": "Garden",
+      "identifier": "thumbsDownFill12"
+    },
+    "thumbs-down-fill-16": {
+      "codepoint": 58219,
+      "fontFamily": "Garden",
+      "identifier": "thumbsDownFill16"
+    },
+    "thumbs-down-stroke-12": {
+      "codepoint": 58220,
+      "fontFamily": "Garden",
+      "identifier": "thumbsDownStroke12"
+    },
+    "thumbs-down-stroke-16": {
+      "codepoint": 58221,
+      "fontFamily": "Garden",
+      "identifier": "thumbsDownStroke16"
+    },
+    "thumbs-up-fill-12": {
+      "codepoint": 58222,
+      "fontFamily": "Garden",
+      "identifier": "thumbsUpFill12"
+    },
+    "thumbs-up-fill-16": {
+      "codepoint": 58223,
+      "fontFamily": "Garden",
+      "identifier": "thumbsUpFill16"
+    },
+    "thumbs-up-stroke-12": {
+      "codepoint": 58224,
+      "fontFamily": "Garden",
+      "identifier": "thumbsUpStroke12"
+    },
+    "thumbs-up-stroke-16": {
+      "codepoint": 58225,
+      "fontFamily": "Garden",
+      "identifier": "thumbsUpStroke16"
+    },
+    "translation-created-fill-12": {
+      "codepoint": 58226,
+      "fontFamily": "Garden",
+      "identifier": "translationCreatedFill12"
+    },
+    "translation-created-fill-16": {
+      "codepoint": 58227,
+      "fontFamily": "Garden",
+      "identifier": "translationCreatedFill16"
+    },
+    "translation-created-stroke-12": {
+      "codepoint": 58228,
+      "fontFamily": "Garden",
+      "identifier": "translationCreatedStroke12"
+    },
+    "translation-created-stroke-16": {
+      "codepoint": 58229,
+      "fontFamily": "Garden",
+      "identifier": "translationCreatedStroke16"
+    },
+    "translation-deleted-fill-12": {
+      "codepoint": 58230,
+      "fontFamily": "Garden",
+      "identifier": "translationDeletedFill12"
+    },
+    "translation-deleted-fill-16": {
+      "codepoint": 58231,
+      "fontFamily": "Garden",
+      "identifier": "translationDeletedFill16"
+    },
+    "translation-deleted-stroke-12": {
+      "codepoint": 58232,
+      "fontFamily": "Garden",
+      "identifier": "translationDeletedStroke12"
+    },
+    "translation-deleted-stroke-16": {
+      "codepoint": 58233,
+      "fontFamily": "Garden",
+      "identifier": "translationDeletedStroke16"
+    },
+    "translation-exists-fill-12": {
+      "codepoint": 58234,
+      "fontFamily": "Garden",
+      "identifier": "translationExistsFill12"
+    },
+    "translation-exists-fill-16": {
+      "codepoint": 58235,
+      "fontFamily": "Garden",
+      "identifier": "translationExistsFill16"
+    },
+    "translation-exists-stroke-12": {
+      "codepoint": 58236,
+      "fontFamily": "Garden",
+      "identifier": "translationExistsStroke12"
+    },
+    "translation-exists-stroke-16": {
+      "codepoint": 58237,
+      "fontFamily": "Garden",
+      "identifier": "translationExistsStroke16"
+    },
+    "translation-outdated-fill-12": {
+      "codepoint": 58238,
+      "fontFamily": "Garden",
+      "identifier": "translationOutdatedFill12"
+    },
+    "translation-outdated-fill-16": {
+      "codepoint": 58239,
+      "fontFamily": "Garden",
+      "identifier": "translationOutdatedFill16"
+    },
+    "translation-outdated-stroke-12": {
+      "codepoint": 58240,
+      "fontFamily": "Garden",
+      "identifier": "translationOutdatedStroke12"
+    },
+    "translation-outdated-stroke-16": {
+      "codepoint": 58241,
+      "fontFamily": "Garden",
+      "identifier": "translationOutdatedStroke16"
+    },
+    "translation-updated-fill-12": {
+      "codepoint": 58242,
+      "fontFamily": "Garden",
+      "identifier": "translationUpdatedFill12"
+    },
+    "translation-updated-fill-16": {
+      "codepoint": 58243,
+      "fontFamily": "Garden",
+      "identifier": "translationUpdatedFill16"
+    },
+    "translation-updated-stroke-12": {
+      "codepoint": 58244,
+      "fontFamily": "Garden",
+      "identifier": "translationUpdatedStroke12"
+    },
+    "translation-updated-stroke-16": {
+      "codepoint": 58245,
+      "fontFamily": "Garden",
+      "identifier": "translationUpdatedStroke16"
+    },
+    "trash-fill-12": {
+      "codepoint": 58246,
+      "fontFamily": "Garden",
+      "identifier": "trashFill12"
+    },
+    "trash-fill-16": {
+      "codepoint": 58247,
+      "fontFamily": "Garden",
+      "identifier": "trashFill16"
+    },
+    "trash-stroke-12": {
+      "codepoint": 58248,
+      "fontFamily": "Garden",
+      "identifier": "trashStroke12"
+    },
+    "trash-stroke-16": {
+      "codepoint": 58249,
+      "fontFamily": "Garden",
+      "identifier": "trashStroke16"
+    },
+    "tray-bar-chart-26": {
+      "codepoint": 58250,
+      "fontFamily": "Garden",
+      "identifier": "trayBarChart26"
+    },
+    "tray-book-26": {
+      "codepoint": 58251,
+      "fontFamily": "Garden",
+      "identifier": "trayBook26"
+    },
+    "tray-bot-sparkle-26": {
+      "codepoint": 58252,
+      "fontFamily": "Garden",
+      "identifier": "trayBotSparkle26"
+    },
+    "tray-calendar-26": {
+      "codepoint": 58253,
+      "fontFamily": "Garden",
+      "identifier": "trayCalendar26"
+    },
+    "tray-clipboard-26": {
+      "codepoint": 58254,
+      "fontFamily": "Garden",
+      "identifier": "trayClipboard26"
+    },
+    "tray-gear-26": {
+      "codepoint": 58255,
+      "fontFamily": "Garden",
+      "identifier": "trayGear26"
+    },
+    "tray-growth-chart-26": {
+      "codepoint": 58256,
+      "fontFamily": "Garden",
+      "identifier": "trayGrowthChart26"
+    },
+    "tray-headset-26": {
+      "codepoint": 58257,
+      "fontFamily": "Garden",
+      "identifier": "trayHeadset26"
+    },
+    "tray-phone-26": {
+      "codepoint": 58258,
+      "fontFamily": "Garden",
+      "identifier": "trayPhone26"
+    },
+    "tray-speech-bubble-26": {
+      "codepoint": 58259,
+      "fontFamily": "Garden",
+      "identifier": "traySpeechBubble26"
+    },
+    "tray-user-group-26": {
+      "codepoint": 58260,
+      "fontFamily": "Garden",
+      "identifier": "trayUserGroup26"
+    },
+    "twitter-fill-12": {
+      "codepoint": 58261,
+      "fontFamily": "Garden",
+      "identifier": "twitterFill12"
+    },
+    "twitter-fill-16": {
+      "codepoint": 58262,
+      "fontFamily": "Garden",
+      "identifier": "twitterFill16"
+    },
+    "twitter-stroke-12": {
+      "codepoint": 58263,
+      "fontFamily": "Garden",
+      "identifier": "twitterStroke12"
+    },
+    "twitter-stroke-16": {
+      "codepoint": 58264,
+      "fontFamily": "Garden",
+      "identifier": "twitterStroke16"
+    },
+    "underline-fill-12": {
+      "codepoint": 58265,
+      "fontFamily": "Garden",
+      "identifier": "underlineFill12"
+    },
+    "underline-fill-16": {
+      "codepoint": 58266,
+      "fontFamily": "Garden",
+      "identifier": "underlineFill16"
+    },
+    "underline-stroke-12": {
+      "codepoint": 58267,
+      "fontFamily": "Garden",
+      "identifier": "underlineStroke12"
+    },
+    "underline-stroke-16": {
+      "codepoint": 58268,
+      "fontFamily": "Garden",
+      "identifier": "underlineStroke16"
+    },
+    "upload-fill-12": {
+      "codepoint": 58269,
+      "fontFamily": "Garden",
+      "identifier": "uploadFill12"
+    },
+    "upload-fill-16": {
+      "codepoint": 58270,
+      "fontFamily": "Garden",
+      "identifier": "uploadFill16"
+    },
+    "upload-stroke-12": {
+      "codepoint": 58271,
+      "fontFamily": "Garden",
+      "identifier": "uploadStroke12"
+    },
+    "upload-stroke-16": {
+      "codepoint": 58272,
+      "fontFamily": "Garden",
+      "identifier": "uploadStroke16"
+    },
+    "user-circle-fill-12": {
+      "codepoint": 58273,
+      "fontFamily": "Garden",
+      "identifier": "userCircleFill12"
+    },
+    "user-circle-fill-16": {
+      "codepoint": 58274,
+      "fontFamily": "Garden",
+      "identifier": "userCircleFill16"
+    },
+    "user-circle-stroke-12": {
+      "codepoint": 58275,
+      "fontFamily": "Garden",
+      "identifier": "userCircleStroke12"
+    },
+    "user-circle-stroke-16": {
+      "codepoint": 58276,
+      "fontFamily": "Garden",
+      "identifier": "userCircleStroke16"
+    },
+    "user-follow-fill-12": {
+      "codepoint": 58277,
+      "fontFamily": "Garden",
+      "identifier": "userFollowFill12"
+    },
+    "user-follow-fill-16": {
+      "codepoint": 58278,
+      "fontFamily": "Garden",
+      "identifier": "userFollowFill16"
+    },
+    "user-follow-stroke-12": {
+      "codepoint": 58279,
+      "fontFamily": "Garden",
+      "identifier": "userFollowStroke12"
+    },
+    "user-follow-stroke-16": {
+      "codepoint": 58280,
+      "fontFamily": "Garden",
+      "identifier": "userFollowStroke16"
+    },
+    "user-group-fill-12": {
+      "codepoint": 58281,
+      "fontFamily": "Garden",
+      "identifier": "userGroupFill12"
+    },
+    "user-group-fill-16": {
+      "codepoint": 58282,
+      "fontFamily": "Garden",
+      "identifier": "userGroupFill16"
+    },
+    "user-group-stroke-12": {
+      "codepoint": 58283,
+      "fontFamily": "Garden",
+      "identifier": "userGroupStroke12"
+    },
+    "user-group-stroke-16": {
+      "codepoint": 58284,
+      "fontFamily": "Garden",
+      "identifier": "userGroupStroke16"
+    },
+    "user-list-fill-12": {
+      "codepoint": 58285,
+      "fontFamily": "Garden",
+      "identifier": "userListFill12"
+    },
+    "user-list-fill-16": {
+      "codepoint": 58286,
+      "fontFamily": "Garden",
+      "identifier": "userListFill16"
+    },
+    "user-list-stroke-12": {
+      "codepoint": 58287,
+      "fontFamily": "Garden",
+      "identifier": "userListStroke12"
+    },
+    "user-list-stroke-16": {
+      "codepoint": 58288,
+      "fontFamily": "Garden",
+      "identifier": "userListStroke16"
+    },
+    "user-lock-26": {
+      "codepoint": 58289,
+      "fontFamily": "Garden",
+      "identifier": "userLock26"
+    },
+    "user-solo-fill-12": {
+      "codepoint": 58290,
+      "fontFamily": "Garden",
+      "identifier": "userSoloFill12"
+    },
+    "user-solo-fill-16": {
+      "codepoint": 58291,
+      "fontFamily": "Garden",
+      "identifier": "userSoloFill16"
+    },
+    "user-solo-stroke-12": {
+      "codepoint": 58292,
+      "fontFamily": "Garden",
+      "identifier": "userSoloStroke12"
+    },
+    "user-solo-stroke-16": {
+      "codepoint": 58293,
+      "fontFamily": "Garden",
+      "identifier": "userSoloStroke16"
+    },
+    "user-unfollow-fill-12": {
+      "codepoint": 58294,
+      "fontFamily": "Garden",
+      "identifier": "userUnfollowFill12"
+    },
+    "user-unfollow-fill-16": {
+      "codepoint": 58295,
+      "fontFamily": "Garden",
+      "identifier": "userUnfollowFill16"
+    },
+    "user-unfollow-stroke-12": {
+      "codepoint": 58296,
+      "fontFamily": "Garden",
+      "identifier": "userUnfollowStroke12"
+    },
+    "user-unfollow-stroke-16": {
+      "codepoint": 58297,
+      "fontFamily": "Garden",
+      "identifier": "userUnfollowStroke16"
+    },
+    "video-fill-12": {
+      "codepoint": 58298,
+      "fontFamily": "Garden",
+      "identifier": "videoFill12"
+    },
+    "video-fill-16": {
+      "codepoint": 58299,
+      "fontFamily": "Garden",
+      "identifier": "videoFill16"
+    },
+    "video-off-fill-12": {
+      "codepoint": 58300,
+      "fontFamily": "Garden",
+      "identifier": "videoOffFill12"
+    },
+    "video-off-fill-16": {
+      "codepoint": 58301,
+      "fontFamily": "Garden",
+      "identifier": "videoOffFill16"
+    },
+    "video-off-stroke-12": {
+      "codepoint": 58302,
+      "fontFamily": "Garden",
+      "identifier": "videoOffStroke12"
+    },
+    "video-off-stroke-16": {
+      "codepoint": 58303,
+      "fontFamily": "Garden",
+      "identifier": "videoOffStroke16"
+    },
+    "video-stroke-12": {
+      "codepoint": 58304,
+      "fontFamily": "Garden",
+      "identifier": "videoStroke12"
+    },
+    "video-stroke-16": {
+      "codepoint": 58305,
+      "fontFamily": "Garden",
+      "identifier": "videoStroke16"
+    },
+    "views-fill-26": {
+      "codepoint": 58306,
+      "fontFamily": "Garden",
+      "identifier": "viewsFill26"
+    },
+    "voicemail-fill-12": {
+      "codepoint": 58307,
+      "fontFamily": "Garden",
+      "identifier": "voicemailFill12"
+    },
+    "voicemail-fill-16": {
+      "codepoint": 58308,
+      "fontFamily": "Garden",
+      "identifier": "voicemailFill16"
+    },
+    "voicemail-stroke-12": {
+      "codepoint": 58309,
+      "fontFamily": "Garden",
+      "identifier": "voicemailStroke12"
+    },
+    "voicemail-stroke-16": {
+      "codepoint": 58310,
+      "fontFamily": "Garden",
+      "identifier": "voicemailStroke16"
+    },
+    "volume-muted-fill-12": {
+      "codepoint": 58311,
+      "fontFamily": "Garden",
+      "identifier": "volumeMutedFill12"
+    },
+    "volume-muted-fill-16": {
+      "codepoint": 58312,
+      "fontFamily": "Garden",
+      "identifier": "volumeMutedFill16"
+    },
+    "volume-muted-stroke-12": {
+      "codepoint": 58313,
+      "fontFamily": "Garden",
+      "identifier": "volumeMutedStroke12"
+    },
+    "volume-muted-stroke-16": {
+      "codepoint": 58314,
+      "fontFamily": "Garden",
+      "identifier": "volumeMutedStroke16"
+    },
+    "volume-unmuted-fill-12": {
+      "codepoint": 58315,
+      "fontFamily": "Garden",
+      "identifier": "volumeUnmutedFill12"
+    },
+    "volume-unmuted-fill-16": {
+      "codepoint": 58316,
+      "fontFamily": "Garden",
+      "identifier": "volumeUnmutedFill16"
+    },
+    "volume-unmuted-stroke-12": {
+      "codepoint": 58317,
+      "fontFamily": "Garden",
+      "identifier": "volumeUnmutedStroke12"
+    },
+    "volume-unmuted-stroke-16": {
+      "codepoint": 58318,
+      "fontFamily": "Garden",
+      "identifier": "volumeUnmutedStroke16"
+    },
+    "wechat-fill-12": {
+      "codepoint": 58319,
+      "fontFamily": "Garden",
+      "identifier": "wechatFill12"
+    },
+    "wechat-fill-16": {
+      "codepoint": 58320,
+      "fontFamily": "Garden",
+      "identifier": "wechatFill16"
+    },
+    "wechat-stroke-12": {
+      "codepoint": 58321,
+      "fontFamily": "Garden",
+      "identifier": "wechatStroke12"
+    },
+    "wechat-stroke-16": {
+      "codepoint": 58322,
+      "fontFamily": "Garden",
+      "identifier": "wechatStroke16"
+    },
+    "whatsapp-fill-12": {
+      "codepoint": 58323,
+      "fontFamily": "Garden",
+      "identifier": "whatsappFill12"
+    },
+    "whatsapp-fill-16": {
+      "codepoint": 58324,
+      "fontFamily": "Garden",
+      "identifier": "whatsappFill16"
+    },
+    "whatsapp-stroke-12": {
+      "codepoint": 58325,
+      "fontFamily": "Garden",
+      "identifier": "whatsappStroke12"
+    },
+    "whatsapp-stroke-16": {
+      "codepoint": 58326,
+      "fontFamily": "Garden",
+      "identifier": "whatsappStroke16"
+    },
+    "widget-26": {
+      "codepoint": 58327,
+      "fontFamily": "Garden",
+      "identifier": "widget26"
+    },
+    "wordmark-bold-suite-26": {
+      "codepoint": 58328,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkBoldSuite26"
+    },
+    "wordmark-bold-support-26": {
+      "codepoint": 58329,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkBoldSupport26"
+    },
+    "wordmark-capital-suite-26": {
+      "codepoint": 58330,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkCapitalSuite26"
+    },
+    "wordmark-capital-the-26": {
+      "codepoint": 58331,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkCapitalThe26"
+    },
+    "wordmark-capital-zendesk-26": {
+      "codepoint": 58332,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkCapitalZendesk26"
+    },
+    "wordmark-chat-26": {
+      "codepoint": 58333,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkChat26"
+    },
+    "wordmark-connect-26": {
+      "codepoint": 58334,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkConnect26"
+    },
+    "wordmark-explore-26": {
+      "codepoint": 58335,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkExplore26"
+    },
+    "wordmark-garden-26": {
+      "codepoint": 58336,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkGarden26"
+    },
+    "wordmark-gather-26": {
+      "codepoint": 58337,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkGather26"
+    },
+    "wordmark-guide-26": {
+      "codepoint": 58338,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkGuide26"
+    },
+    "wordmark-help-center-26": {
+      "codepoint": 58339,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkHelpCenter26"
+    },
+    "wordmark-inbox-26": {
+      "codepoint": 58340,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkInbox26"
+    },
+    "wordmark-message-26": {
+      "codepoint": 58341,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkMessage26"
+    },
+    "wordmark-messaging-26": {
+      "codepoint": 58342,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkMessaging26"
+    },
+    "wordmark-reach-26": {
+      "codepoint": 58343,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkReach26"
+    },
+    "wordmark-sell-26": {
+      "codepoint": 58344,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkSell26"
+    },
+    "wordmark-sunshine-26": {
+      "codepoint": 58345,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkSunshine26"
+    },
+    "wordmark-support-26": {
+      "codepoint": 58346,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkSupport26"
+    },
+    "wordmark-talk-26": {
+      "codepoint": 58347,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkTalk26"
+    },
+    "wordmark-zendesk-26": {
+      "codepoint": 58348,
+      "fontFamily": "Garden",
+      "identifier": "wordmarkZendesk26"
+    },
+    "workflow-26": {
+      "codepoint": 58349,
+      "fontFamily": "Garden",
+      "identifier": "workflow26"
+    },
+    "wrap-left-fill-12": {
+      "codepoint": 58350,
+      "fontFamily": "Garden",
+      "identifier": "wrapLeftFill12"
+    },
+    "wrap-left-fill-16": {
+      "codepoint": 58351,
+      "fontFamily": "Garden",
+      "identifier": "wrapLeftFill16"
+    },
+    "wrap-left-stroke-12": {
+      "codepoint": 58352,
+      "fontFamily": "Garden",
+      "identifier": "wrapLeftStroke12"
+    },
+    "wrap-left-stroke-16": {
+      "codepoint": 58353,
+      "fontFamily": "Garden",
+      "identifier": "wrapLeftStroke16"
+    },
+    "wrap-right-fill-12": {
+      "codepoint": 58354,
+      "fontFamily": "Garden",
+      "identifier": "wrapRightFill12"
+    },
+    "wrap-right-fill-16": {
+      "codepoint": 58355,
+      "fontFamily": "Garden",
+      "identifier": "wrapRightFill16"
+    },
+    "wrap-right-stroke-12": {
+      "codepoint": 58356,
+      "fontFamily": "Garden",
+      "identifier": "wrapRightStroke12"
+    },
+    "wrap-right-stroke-16": {
+      "codepoint": 58357,
+      "fontFamily": "Garden",
+      "identifier": "wrapRightStroke16"
+    },
+    "x-circle-fill-12": {
+      "codepoint": 58358,
+      "fontFamily": "Garden",
+      "identifier": "xCircleFill12"
+    },
+    "x-circle-fill-16": {
+      "codepoint": 58359,
+      "fontFamily": "Garden",
+      "identifier": "xCircleFill16"
+    },
+    "x-circle-stroke-12": {
+      "codepoint": 58360,
+      "fontFamily": "Garden",
+      "identifier": "xCircleStroke12"
+    },
+    "x-circle-stroke-16": {
+      "codepoint": 58361,
+      "fontFamily": "Garden",
+      "identifier": "xCircleStroke16"
+    },
+    "x-fill-12": {
+      "codepoint": 58362,
+      "fontFamily": "Garden",
+      "identifier": "xFill12"
+    },
+    "x-fill-16": {
+      "codepoint": 58363,
+      "fontFamily": "Garden",
+      "identifier": "xFill16"
+    },
+    "x-stroke-12": {
+      "codepoint": 58364,
+      "fontFamily": "Garden",
+      "identifier": "xStroke12"
+    },
+    "x-stroke-16": {
+      "codepoint": 58365,
+      "fontFamily": "Garden",
+      "identifier": "xStroke16"
+    },
+    "zendesk-26": {
+      "codepoint": 58366,
+      "fontFamily": "Garden",
+      "identifier": "zendesk26"
+    },
+    "zendesk-fill-12": {
+      "codepoint": 58367,
+      "fontFamily": "Garden",
+      "identifier": "zendeskFill12"
+    },
+    "zendesk-fill-16": {
+      "codepoint": 58368,
+      "fontFamily": "Garden",
+      "identifier": "zendeskFill16"
+    },
+    "zendesk-stroke-12": {
+      "codepoint": 58369,
+      "fontFamily": "Garden",
+      "identifier": "zendeskStroke12"
+    },
+    "zendesk-stroke-16": {
+      "codepoint": 58370,
+      "fontFamily": "Garden",
+      "identifier": "zendeskStroke16"
+    }
+  }
+}

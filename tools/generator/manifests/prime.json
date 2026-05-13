@@ -1,0 +1,1595 @@
+{
+  "schemaVersion": 1,
+  "prefix": "prime",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_prime",
+  "info": {
+    "name": "Prime Icons",
+    "author": {
+      "name": "PrimeTek",
+      "url": "https://github.com/primefaces/primeicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/primefaces/primeicons/blob/master/LICENSE"
+    },
+    "total": 313
+  },
+  "fonts": [
+    {
+      "family": "Prime",
+      "nextCodepoint": 57657,
+      "iconCount": 313
+    }
+  ],
+  "icons": {
+    "address-book": {
+      "codepoint": 57344,
+      "fontFamily": "Prime",
+      "identifier": "addressBook"
+    },
+    "align-center": {
+      "codepoint": 57345,
+      "fontFamily": "Prime",
+      "identifier": "alignCenter"
+    },
+    "align-justify": {
+      "codepoint": 57346,
+      "fontFamily": "Prime",
+      "identifier": "alignJustify"
+    },
+    "align-left": {
+      "codepoint": 57347,
+      "fontFamily": "Prime",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57348,
+      "fontFamily": "Prime",
+      "identifier": "alignRight"
+    },
+    "android": {
+      "codepoint": 57349,
+      "fontFamily": "Prime",
+      "identifier": "android"
+    },
+    "angle-double-down": {
+      "codepoint": 57350,
+      "fontFamily": "Prime",
+      "identifier": "angleDoubleDown"
+    },
+    "angle-double-left": {
+      "codepoint": 57351,
+      "fontFamily": "Prime",
+      "identifier": "angleDoubleLeft"
+    },
+    "angle-double-right": {
+      "codepoint": 57352,
+      "fontFamily": "Prime",
+      "identifier": "angleDoubleRight"
+    },
+    "angle-double-up": {
+      "codepoint": 57353,
+      "fontFamily": "Prime",
+      "identifier": "angleDoubleUp"
+    },
+    "angle-down": {
+      "codepoint": 57354,
+      "fontFamily": "Prime",
+      "identifier": "angleDown"
+    },
+    "angle-left": {
+      "codepoint": 57355,
+      "fontFamily": "Prime",
+      "identifier": "angleLeft"
+    },
+    "angle-right": {
+      "codepoint": 57356,
+      "fontFamily": "Prime",
+      "identifier": "angleRight"
+    },
+    "angle-up": {
+      "codepoint": 57357,
+      "fontFamily": "Prime",
+      "identifier": "angleUp"
+    },
+    "apple": {
+      "codepoint": 57358,
+      "fontFamily": "Prime",
+      "identifier": "apple"
+    },
+    "arrow-circle-down": {
+      "codepoint": 57359,
+      "fontFamily": "Prime",
+      "identifier": "arrowCircleDown"
+    },
+    "arrow-circle-left": {
+      "codepoint": 57360,
+      "fontFamily": "Prime",
+      "identifier": "arrowCircleLeft"
+    },
+    "arrow-circle-right": {
+      "codepoint": 57361,
+      "fontFamily": "Prime",
+      "identifier": "arrowCircleRight"
+    },
+    "arrow-circle-up": {
+      "codepoint": 57362,
+      "fontFamily": "Prime",
+      "identifier": "arrowCircleUp"
+    },
+    "arrow-down": {
+      "codepoint": 57363,
+      "fontFamily": "Prime",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-left": {
+      "codepoint": 57364,
+      "fontFamily": "Prime",
+      "identifier": "arrowDownLeft"
+    },
+    "arrow-down-left-and-arrow-up-right-to-center": {
+      "codepoint": 57365,
+      "fontFamily": "Prime",
+      "identifier": "arrowDownLeftAndArrowUpRightToCenter"
+    },
+    "arrow-down-right": {
+      "codepoint": 57366,
+      "fontFamily": "Prime",
+      "identifier": "arrowDownRight"
+    },
+    "arrow-left": {
+      "codepoint": 57367,
+      "fontFamily": "Prime",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57368,
+      "fontFamily": "Prime",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-arrow-left": {
+      "codepoint": 57369,
+      "fontFamily": "Prime",
+      "identifier": "arrowRightArrowLeft"
+    },
+    "arrow-up": {
+      "codepoint": 57370,
+      "fontFamily": "Prime",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-left": {
+      "codepoint": 57371,
+      "fontFamily": "Prime",
+      "identifier": "arrowUpLeft"
+    },
+    "arrow-up-right": {
+      "codepoint": 57372,
+      "fontFamily": "Prime",
+      "identifier": "arrowUpRight"
+    },
+    "arrow-up-right-and-arrow-down-left-from-center": {
+      "codepoint": 57373,
+      "fontFamily": "Prime",
+      "identifier": "arrowUpRightAndArrowDownLeftFromCenter"
+    },
+    "arrows-alt": {
+      "codepoint": 57374,
+      "fontFamily": "Prime",
+      "identifier": "arrowsAlt"
+    },
+    "arrows-h": {
+      "codepoint": 57375,
+      "fontFamily": "Prime",
+      "identifier": "arrowsH"
+    },
+    "arrows-v": {
+      "codepoint": 57376,
+      "fontFamily": "Prime",
+      "identifier": "arrowsV"
+    },
+    "asteriks": {
+      "codepoint": 57377,
+      "fontFamily": "Prime",
+      "identifier": "asteriks"
+    },
+    "at": {
+      "codepoint": 57378,
+      "fontFamily": "Prime",
+      "identifier": "at"
+    },
+    "backward": {
+      "codepoint": 57379,
+      "fontFamily": "Prime",
+      "identifier": "backward"
+    },
+    "ban": {
+      "codepoint": 57380,
+      "fontFamily": "Prime",
+      "identifier": "ban"
+    },
+    "barcode": {
+      "codepoint": 57381,
+      "fontFamily": "Prime",
+      "identifier": "barcode"
+    },
+    "bars": {
+      "codepoint": 57382,
+      "fontFamily": "Prime",
+      "identifier": "bars"
+    },
+    "bell": {
+      "codepoint": 57383,
+      "fontFamily": "Prime",
+      "identifier": "bell"
+    },
+    "bell-slash": {
+      "codepoint": 57384,
+      "fontFamily": "Prime",
+      "identifier": "bellSlash"
+    },
+    "bitcoin": {
+      "codepoint": 57385,
+      "fontFamily": "Prime",
+      "identifier": "bitcoin"
+    },
+    "bolt": {
+      "codepoint": 57386,
+      "fontFamily": "Prime",
+      "identifier": "bolt"
+    },
+    "book": {
+      "codepoint": 57387,
+      "fontFamily": "Prime",
+      "identifier": "book"
+    },
+    "bookmark": {
+      "codepoint": 57388,
+      "fontFamily": "Prime",
+      "identifier": "bookmark"
+    },
+    "bookmark-fill": {
+      "codepoint": 57389,
+      "fontFamily": "Prime",
+      "identifier": "bookmarkFill"
+    },
+    "box": {
+      "codepoint": 57390,
+      "fontFamily": "Prime",
+      "identifier": "box"
+    },
+    "briefcase": {
+      "codepoint": 57391,
+      "fontFamily": "Prime",
+      "identifier": "briefcase"
+    },
+    "building": {
+      "codepoint": 57392,
+      "fontFamily": "Prime",
+      "identifier": "building"
+    },
+    "building-columns": {
+      "codepoint": 57393,
+      "fontFamily": "Prime",
+      "identifier": "buildingColumns"
+    },
+    "bullseye": {
+      "codepoint": 57394,
+      "fontFamily": "Prime",
+      "identifier": "bullseye"
+    },
+    "calculator": {
+      "codepoint": 57395,
+      "fontFamily": "Prime",
+      "identifier": "calculator"
+    },
+    "calendar": {
+      "codepoint": 57396,
+      "fontFamily": "Prime",
+      "identifier": "calendar"
+    },
+    "calendar-clock": {
+      "codepoint": 57397,
+      "fontFamily": "Prime",
+      "identifier": "calendarClock"
+    },
+    "calendar-minus": {
+      "codepoint": 57398,
+      "fontFamily": "Prime",
+      "identifier": "calendarMinus"
+    },
+    "calendar-plus": {
+      "codepoint": 57399,
+      "fontFamily": "Prime",
+      "identifier": "calendarPlus"
+    },
+    "calendar-times": {
+      "codepoint": 57400,
+      "fontFamily": "Prime",
+      "identifier": "calendarTimes"
+    },
+    "camera": {
+      "codepoint": 57401,
+      "fontFamily": "Prime",
+      "identifier": "camera"
+    },
+    "car": {
+      "codepoint": 57402,
+      "fontFamily": "Prime",
+      "identifier": "car"
+    },
+    "caret-down": {
+      "codepoint": 57403,
+      "fontFamily": "Prime",
+      "identifier": "caretDown"
+    },
+    "caret-left": {
+      "codepoint": 57404,
+      "fontFamily": "Prime",
+      "identifier": "caretLeft"
+    },
+    "caret-right": {
+      "codepoint": 57405,
+      "fontFamily": "Prime",
+      "identifier": "caretRight"
+    },
+    "caret-up": {
+      "codepoint": 57406,
+      "fontFamily": "Prime",
+      "identifier": "caretUp"
+    },
+    "cart-arrow-down": {
+      "codepoint": 57407,
+      "fontFamily": "Prime",
+      "identifier": "cartArrowDown"
+    },
+    "cart-minus": {
+      "codepoint": 57408,
+      "fontFamily": "Prime",
+      "identifier": "cartMinus"
+    },
+    "cart-plus": {
+      "codepoint": 57409,
+      "fontFamily": "Prime",
+      "identifier": "cartPlus"
+    },
+    "chart-bar": {
+      "codepoint": 57410,
+      "fontFamily": "Prime",
+      "identifier": "chartBar"
+    },
+    "chart-line": {
+      "codepoint": 57411,
+      "fontFamily": "Prime",
+      "identifier": "chartLine"
+    },
+    "chart-pie": {
+      "codepoint": 57412,
+      "fontFamily": "Prime",
+      "identifier": "chartPie"
+    },
+    "chart-scatter": {
+      "codepoint": 57413,
+      "fontFamily": "Prime",
+      "identifier": "chartScatter"
+    },
+    "check": {
+      "codepoint": 57414,
+      "fontFamily": "Prime",
+      "identifier": "check"
+    },
+    "check-circle": {
+      "codepoint": 57415,
+      "fontFamily": "Prime",
+      "identifier": "checkCircle"
+    },
+    "check-square": {
+      "codepoint": 57416,
+      "fontFamily": "Prime",
+      "identifier": "checkSquare"
+    },
+    "chevron-circle-down": {
+      "codepoint": 57417,
+      "fontFamily": "Prime",
+      "identifier": "chevronCircleDown"
+    },
+    "chevron-circle-left": {
+      "codepoint": 57418,
+      "fontFamily": "Prime",
+      "identifier": "chevronCircleLeft"
+    },
+    "chevron-circle-right": {
+      "codepoint": 57419,
+      "fontFamily": "Prime",
+      "identifier": "chevronCircleRight"
+    },
+    "chevron-circle-up": {
+      "codepoint": 57420,
+      "fontFamily": "Prime",
+      "identifier": "chevronCircleUp"
+    },
+    "chevron-down": {
+      "codepoint": 57421,
+      "fontFamily": "Prime",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57422,
+      "fontFamily": "Prime",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57423,
+      "fontFamily": "Prime",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57424,
+      "fontFamily": "Prime",
+      "identifier": "chevronUp"
+    },
+    "circle": {
+      "codepoint": 57425,
+      "fontFamily": "Prime",
+      "identifier": "circle"
+    },
+    "circle-fill": {
+      "codepoint": 57426,
+      "fontFamily": "Prime",
+      "identifier": "circleFill"
+    },
+    "circle-off": {
+      "codepoint": 57427,
+      "fontFamily": "Prime",
+      "identifier": "circleOff"
+    },
+    "circle-on": {
+      "codepoint": 57428,
+      "fontFamily": "Prime",
+      "identifier": "circleOn"
+    },
+    "clipboard": {
+      "codepoint": 57429,
+      "fontFamily": "Prime",
+      "identifier": "clipboard"
+    },
+    "clock": {
+      "codepoint": 57430,
+      "fontFamily": "Prime",
+      "identifier": "clock"
+    },
+    "clone": {
+      "codepoint": 57431,
+      "fontFamily": "Prime",
+      "identifier": "clone"
+    },
+    "cloud": {
+      "codepoint": 57432,
+      "fontFamily": "Prime",
+      "identifier": "cloud"
+    },
+    "cloud-download": {
+      "codepoint": 57433,
+      "fontFamily": "Prime",
+      "identifier": "cloudDownload"
+    },
+    "cloud-upload": {
+      "codepoint": 57434,
+      "fontFamily": "Prime",
+      "identifier": "cloudUpload"
+    },
+    "code": {
+      "codepoint": 57435,
+      "fontFamily": "Prime",
+      "identifier": "code"
+    },
+    "cog": {
+      "codepoint": 57436,
+      "fontFamily": "Prime",
+      "identifier": "cog"
+    },
+    "comment": {
+      "codepoint": 57437,
+      "fontFamily": "Prime",
+      "identifier": "comment"
+    },
+    "comments": {
+      "codepoint": 57438,
+      "fontFamily": "Prime",
+      "identifier": "comments"
+    },
+    "compass": {
+      "codepoint": 57439,
+      "fontFamily": "Prime",
+      "identifier": "compass"
+    },
+    "copy": {
+      "codepoint": 57440,
+      "fontFamily": "Prime",
+      "identifier": "copy"
+    },
+    "credit-card": {
+      "codepoint": 57441,
+      "fontFamily": "Prime",
+      "identifier": "creditCard"
+    },
+    "crown": {
+      "codepoint": 57442,
+      "fontFamily": "Prime",
+      "identifier": "crown"
+    },
+    "database": {
+      "codepoint": 57443,
+      "fontFamily": "Prime",
+      "identifier": "database"
+    },
+    "delete-left": {
+      "codepoint": 57444,
+      "fontFamily": "Prime",
+      "identifier": "deleteLeft"
+    },
+    "desktop": {
+      "codepoint": 57445,
+      "fontFamily": "Prime",
+      "identifier": "desktop"
+    },
+    "directions": {
+      "codepoint": 57446,
+      "fontFamily": "Prime",
+      "identifier": "directions"
+    },
+    "directions-alt": {
+      "codepoint": 57447,
+      "fontFamily": "Prime",
+      "identifier": "directionsAlt"
+    },
+    "discord": {
+      "codepoint": 57448,
+      "fontFamily": "Prime",
+      "identifier": "discord"
+    },
+    "dollar": {
+      "codepoint": 57449,
+      "fontFamily": "Prime",
+      "identifier": "dollar"
+    },
+    "download": {
+      "codepoint": 57450,
+      "fontFamily": "Prime",
+      "identifier": "download"
+    },
+    "eject": {
+      "codepoint": 57451,
+      "fontFamily": "Prime",
+      "identifier": "eject"
+    },
+    "ellipsis-h": {
+      "codepoint": 57452,
+      "fontFamily": "Prime",
+      "identifier": "ellipsisH"
+    },
+    "ellipsis-v": {
+      "codepoint": 57453,
+      "fontFamily": "Prime",
+      "identifier": "ellipsisV"
+    },
+    "envelope": {
+      "codepoint": 57454,
+      "fontFamily": "Prime",
+      "identifier": "envelope"
+    },
+    "equals": {
+      "codepoint": 57455,
+      "fontFamily": "Prime",
+      "identifier": "equals"
+    },
+    "eraser": {
+      "codepoint": 57456,
+      "fontFamily": "Prime",
+      "identifier": "eraser"
+    },
+    "ethereum": {
+      "codepoint": 57457,
+      "fontFamily": "Prime",
+      "identifier": "ethereum"
+    },
+    "euro": {
+      "codepoint": 57458,
+      "fontFamily": "Prime",
+      "identifier": "euro"
+    },
+    "exclamation-circle": {
+      "codepoint": 57459,
+      "fontFamily": "Prime",
+      "identifier": "exclamationCircle"
+    },
+    "exclamation-triangle": {
+      "codepoint": 57460,
+      "fontFamily": "Prime",
+      "identifier": "exclamationTriangle"
+    },
+    "expand": {
+      "codepoint": 57461,
+      "fontFamily": "Prime",
+      "identifier": "expand"
+    },
+    "external-link": {
+      "codepoint": 57462,
+      "fontFamily": "Prime",
+      "identifier": "externalLink"
+    },
+    "eye": {
+      "codepoint": 57463,
+      "fontFamily": "Prime",
+      "identifier": "eye"
+    },
+    "eye-slash": {
+      "codepoint": 57464,
+      "fontFamily": "Prime",
+      "identifier": "eyeSlash"
+    },
+    "face-smile": {
+      "codepoint": 57465,
+      "fontFamily": "Prime",
+      "identifier": "faceSmile"
+    },
+    "facebook": {
+      "codepoint": 57466,
+      "fontFamily": "Prime",
+      "identifier": "facebook"
+    },
+    "fast-backward": {
+      "codepoint": 57467,
+      "fontFamily": "Prime",
+      "identifier": "fastBackward"
+    },
+    "fast-forward": {
+      "codepoint": 57468,
+      "fontFamily": "Prime",
+      "identifier": "fastForward"
+    },
+    "file": {
+      "codepoint": 57469,
+      "fontFamily": "Prime",
+      "identifier": "file"
+    },
+    "file-arrow-up": {
+      "codepoint": 57470,
+      "fontFamily": "Prime",
+      "identifier": "fileArrowUp"
+    },
+    "file-check": {
+      "codepoint": 57471,
+      "fontFamily": "Prime",
+      "identifier": "fileCheck"
+    },
+    "file-edit": {
+      "codepoint": 57472,
+      "fontFamily": "Prime",
+      "identifier": "fileEdit"
+    },
+    "file-excel": {
+      "codepoint": 57473,
+      "fontFamily": "Prime",
+      "identifier": "fileExcel"
+    },
+    "file-export": {
+      "codepoint": 57474,
+      "fontFamily": "Prime",
+      "identifier": "fileExport"
+    },
+    "file-import": {
+      "codepoint": 57475,
+      "fontFamily": "Prime",
+      "identifier": "fileImport"
+    },
+    "file-o": {
+      "codepoint": 57476,
+      "fontFamily": "Prime",
+      "identifier": "fileO"
+    },
+    "file-pdf": {
+      "codepoint": 57477,
+      "fontFamily": "Prime",
+      "identifier": "filePdf"
+    },
+    "file-plus": {
+      "codepoint": 57478,
+      "fontFamily": "Prime",
+      "identifier": "filePlus"
+    },
+    "file-word": {
+      "codepoint": 57479,
+      "fontFamily": "Prime",
+      "identifier": "fileWord"
+    },
+    "filter": {
+      "codepoint": 57480,
+      "fontFamily": "Prime",
+      "identifier": "filter"
+    },
+    "filter-fill": {
+      "codepoint": 57481,
+      "fontFamily": "Prime",
+      "identifier": "filterFill"
+    },
+    "filter-slash": {
+      "codepoint": 57482,
+      "fontFamily": "Prime",
+      "identifier": "filterSlash"
+    },
+    "flag": {
+      "codepoint": 57483,
+      "fontFamily": "Prime",
+      "identifier": "flag"
+    },
+    "flag-fill": {
+      "codepoint": 57484,
+      "fontFamily": "Prime",
+      "identifier": "flagFill"
+    },
+    "folder": {
+      "codepoint": 57485,
+      "fontFamily": "Prime",
+      "identifier": "folder"
+    },
+    "folder-open": {
+      "codepoint": 57486,
+      "fontFamily": "Prime",
+      "identifier": "folderOpen"
+    },
+    "folder-plus": {
+      "codepoint": 57487,
+      "fontFamily": "Prime",
+      "identifier": "folderPlus"
+    },
+    "forward": {
+      "codepoint": 57488,
+      "fontFamily": "Prime",
+      "identifier": "forward"
+    },
+    "gauge": {
+      "codepoint": 57489,
+      "fontFamily": "Prime",
+      "identifier": "gauge"
+    },
+    "gift": {
+      "codepoint": 57490,
+      "fontFamily": "Prime",
+      "identifier": "gift"
+    },
+    "github": {
+      "codepoint": 57491,
+      "fontFamily": "Prime",
+      "identifier": "github"
+    },
+    "globe": {
+      "codepoint": 57492,
+      "fontFamily": "Prime",
+      "identifier": "globe"
+    },
+    "google": {
+      "codepoint": 57493,
+      "fontFamily": "Prime",
+      "identifier": "google"
+    },
+    "graduation-cap": {
+      "codepoint": 57494,
+      "fontFamily": "Prime",
+      "identifier": "graduationCap"
+    },
+    "hammer": {
+      "codepoint": 57495,
+      "fontFamily": "Prime",
+      "identifier": "hammer"
+    },
+    "hashtag": {
+      "codepoint": 57496,
+      "fontFamily": "Prime",
+      "identifier": "hashtag"
+    },
+    "headphones": {
+      "codepoint": 57497,
+      "fontFamily": "Prime",
+      "identifier": "headphones"
+    },
+    "heart": {
+      "codepoint": 57498,
+      "fontFamily": "Prime",
+      "identifier": "heart"
+    },
+    "heart-fill": {
+      "codepoint": 57499,
+      "fontFamily": "Prime",
+      "identifier": "heartFill"
+    },
+    "history": {
+      "codepoint": 57500,
+      "fontFamily": "Prime",
+      "identifier": "history"
+    },
+    "home": {
+      "codepoint": 57501,
+      "fontFamily": "Prime",
+      "identifier": "home"
+    },
+    "hourglass": {
+      "codepoint": 57502,
+      "fontFamily": "Prime",
+      "identifier": "hourglass"
+    },
+    "id-card": {
+      "codepoint": 57503,
+      "fontFamily": "Prime",
+      "identifier": "idCard"
+    },
+    "image": {
+      "codepoint": 57504,
+      "fontFamily": "Prime",
+      "identifier": "image"
+    },
+    "images": {
+      "codepoint": 57505,
+      "fontFamily": "Prime",
+      "identifier": "images"
+    },
+    "inbox": {
+      "codepoint": 57506,
+      "fontFamily": "Prime",
+      "identifier": "inbox"
+    },
+    "indian-rupee": {
+      "codepoint": 57507,
+      "fontFamily": "Prime",
+      "identifier": "indianRupee"
+    },
+    "info": {
+      "codepoint": 57508,
+      "fontFamily": "Prime",
+      "identifier": "info"
+    },
+    "info-circle": {
+      "codepoint": 57509,
+      "fontFamily": "Prime",
+      "identifier": "infoCircle"
+    },
+    "instagram": {
+      "codepoint": 57510,
+      "fontFamily": "Prime",
+      "identifier": "instagram"
+    },
+    "key": {
+      "codepoint": 57511,
+      "fontFamily": "Prime",
+      "identifier": "key"
+    },
+    "language": {
+      "codepoint": 57512,
+      "fontFamily": "Prime",
+      "identifier": "language"
+    },
+    "lightbulb": {
+      "codepoint": 57513,
+      "fontFamily": "Prime",
+      "identifier": "lightbulb"
+    },
+    "link": {
+      "codepoint": 57514,
+      "fontFamily": "Prime",
+      "identifier": "link"
+    },
+    "linkedin": {
+      "codepoint": 57515,
+      "fontFamily": "Prime",
+      "identifier": "linkedin"
+    },
+    "list": {
+      "codepoint": 57516,
+      "fontFamily": "Prime",
+      "identifier": "list"
+    },
+    "list-check": {
+      "codepoint": 57517,
+      "fontFamily": "Prime",
+      "identifier": "listCheck"
+    },
+    "lock": {
+      "codepoint": 57518,
+      "fontFamily": "Prime",
+      "identifier": "lock"
+    },
+    "lock-open": {
+      "codepoint": 57519,
+      "fontFamily": "Prime",
+      "identifier": "lockOpen"
+    },
+    "map": {
+      "codepoint": 57520,
+      "fontFamily": "Prime",
+      "identifier": "map"
+    },
+    "map-marker": {
+      "codepoint": 57521,
+      "fontFamily": "Prime",
+      "identifier": "mapMarker"
+    },
+    "mars": {
+      "codepoint": 57522,
+      "fontFamily": "Prime",
+      "identifier": "mars"
+    },
+    "megaphone": {
+      "codepoint": 57523,
+      "fontFamily": "Prime",
+      "identifier": "megaphone"
+    },
+    "microchip": {
+      "codepoint": 57524,
+      "fontFamily": "Prime",
+      "identifier": "microchip"
+    },
+    "microchip-ai": {
+      "codepoint": 57525,
+      "fontFamily": "Prime",
+      "identifier": "microchipAi"
+    },
+    "microphone": {
+      "codepoint": 57526,
+      "fontFamily": "Prime",
+      "identifier": "microphone"
+    },
+    "microsoft": {
+      "codepoint": 57527,
+      "fontFamily": "Prime",
+      "identifier": "microsoft"
+    },
+    "minus": {
+      "codepoint": 57528,
+      "fontFamily": "Prime",
+      "identifier": "minus"
+    },
+    "minus-circle": {
+      "codepoint": 57529,
+      "fontFamily": "Prime",
+      "identifier": "minusCircle"
+    },
+    "mobile": {
+      "codepoint": 57530,
+      "fontFamily": "Prime",
+      "identifier": "mobile"
+    },
+    "money-bill": {
+      "codepoint": 57531,
+      "fontFamily": "Prime",
+      "identifier": "moneyBill"
+    },
+    "moon": {
+      "codepoint": 57532,
+      "fontFamily": "Prime",
+      "identifier": "moon"
+    },
+    "objects-column": {
+      "codepoint": 57533,
+      "fontFamily": "Prime",
+      "identifier": "objectsColumn"
+    },
+    "palette": {
+      "codepoint": 57534,
+      "fontFamily": "Prime",
+      "identifier": "palette"
+    },
+    "paperclip": {
+      "codepoint": 57535,
+      "fontFamily": "Prime",
+      "identifier": "paperclip"
+    },
+    "pause": {
+      "codepoint": 57536,
+      "fontFamily": "Prime",
+      "identifier": "pause"
+    },
+    "pause-circle": {
+      "codepoint": 57537,
+      "fontFamily": "Prime",
+      "identifier": "pauseCircle"
+    },
+    "paypal": {
+      "codepoint": 57538,
+      "fontFamily": "Prime",
+      "identifier": "paypal"
+    },
+    "pen-to-square": {
+      "codepoint": 57539,
+      "fontFamily": "Prime",
+      "identifier": "penToSquare"
+    },
+    "pencil": {
+      "codepoint": 57540,
+      "fontFamily": "Prime",
+      "identifier": "pencil"
+    },
+    "percentage": {
+      "codepoint": 57541,
+      "fontFamily": "Prime",
+      "identifier": "percentage"
+    },
+    "phone": {
+      "codepoint": 57542,
+      "fontFamily": "Prime",
+      "identifier": "phone"
+    },
+    "pinterest": {
+      "codepoint": 57543,
+      "fontFamily": "Prime",
+      "identifier": "pinterest"
+    },
+    "play": {
+      "codepoint": 57544,
+      "fontFamily": "Prime",
+      "identifier": "play"
+    },
+    "play-circle": {
+      "codepoint": 57545,
+      "fontFamily": "Prime",
+      "identifier": "playCircle"
+    },
+    "plus": {
+      "codepoint": 57546,
+      "fontFamily": "Prime",
+      "identifier": "plus"
+    },
+    "plus-circle": {
+      "codepoint": 57547,
+      "fontFamily": "Prime",
+      "identifier": "plusCircle"
+    },
+    "pound": {
+      "codepoint": 57548,
+      "fontFamily": "Prime",
+      "identifier": "pound"
+    },
+    "power-off": {
+      "codepoint": 57549,
+      "fontFamily": "Prime",
+      "identifier": "powerOff"
+    },
+    "prime": {
+      "codepoint": 57550,
+      "fontFamily": "Prime",
+      "identifier": "prime"
+    },
+    "print": {
+      "codepoint": 57551,
+      "fontFamily": "Prime",
+      "identifier": "print"
+    },
+    "qrcode": {
+      "codepoint": 57552,
+      "fontFamily": "Prime",
+      "identifier": "qrcode"
+    },
+    "question": {
+      "codepoint": 57553,
+      "fontFamily": "Prime",
+      "identifier": "question"
+    },
+    "question-circle": {
+      "codepoint": 57554,
+      "fontFamily": "Prime",
+      "identifier": "questionCircle"
+    },
+    "receipt": {
+      "codepoint": 57555,
+      "fontFamily": "Prime",
+      "identifier": "receipt"
+    },
+    "reddit": {
+      "codepoint": 57556,
+      "fontFamily": "Prime",
+      "identifier": "reddit"
+    },
+    "refresh": {
+      "codepoint": 57557,
+      "fontFamily": "Prime",
+      "identifier": "refresh"
+    },
+    "replay": {
+      "codepoint": 57558,
+      "fontFamily": "Prime",
+      "identifier": "replay"
+    },
+    "reply": {
+      "codepoint": 57559,
+      "fontFamily": "Prime",
+      "identifier": "reply"
+    },
+    "save": {
+      "codepoint": 57560,
+      "fontFamily": "Prime",
+      "identifier": "save"
+    },
+    "search": {
+      "codepoint": 57561,
+      "fontFamily": "Prime",
+      "identifier": "search"
+    },
+    "search-minus": {
+      "codepoint": 57562,
+      "fontFamily": "Prime",
+      "identifier": "searchMinus"
+    },
+    "search-plus": {
+      "codepoint": 57563,
+      "fontFamily": "Prime",
+      "identifier": "searchPlus"
+    },
+    "send": {
+      "codepoint": 57564,
+      "fontFamily": "Prime",
+      "identifier": "send"
+    },
+    "server": {
+      "codepoint": 57565,
+      "fontFamily": "Prime",
+      "identifier": "server"
+    },
+    "share-alt": {
+      "codepoint": 57566,
+      "fontFamily": "Prime",
+      "identifier": "shareAlt"
+    },
+    "shield": {
+      "codepoint": 57567,
+      "fontFamily": "Prime",
+      "identifier": "shield"
+    },
+    "shop": {
+      "codepoint": 57568,
+      "fontFamily": "Prime",
+      "identifier": "shop"
+    },
+    "shopping-bag": {
+      "codepoint": 57569,
+      "fontFamily": "Prime",
+      "identifier": "shoppingBag"
+    },
+    "shopping-cart": {
+      "codepoint": 57570,
+      "fontFamily": "Prime",
+      "identifier": "shoppingCart"
+    },
+    "sign-in": {
+      "codepoint": 57571,
+      "fontFamily": "Prime",
+      "identifier": "signIn"
+    },
+    "sign-out": {
+      "codepoint": 57572,
+      "fontFamily": "Prime",
+      "identifier": "signOut"
+    },
+    "sitemap": {
+      "codepoint": 57573,
+      "fontFamily": "Prime",
+      "identifier": "sitemap"
+    },
+    "slack": {
+      "codepoint": 57574,
+      "fontFamily": "Prime",
+      "identifier": "slack"
+    },
+    "sliders-h": {
+      "codepoint": 57575,
+      "fontFamily": "Prime",
+      "identifier": "slidersH"
+    },
+    "sliders-v": {
+      "codepoint": 57576,
+      "fontFamily": "Prime",
+      "identifier": "slidersV"
+    },
+    "sort": {
+      "codepoint": 57577,
+      "fontFamily": "Prime",
+      "identifier": "sort"
+    },
+    "sort-alpha-alt-down": {
+      "codepoint": 57578,
+      "fontFamily": "Prime",
+      "identifier": "sortAlphaAltDown"
+    },
+    "sort-alpha-alt-up": {
+      "codepoint": 57579,
+      "fontFamily": "Prime",
+      "identifier": "sortAlphaAltUp"
+    },
+    "sort-alpha-down": {
+      "codepoint": 57580,
+      "fontFamily": "Prime",
+      "identifier": "sortAlphaDown"
+    },
+    "sort-alpha-up": {
+      "codepoint": 57581,
+      "fontFamily": "Prime",
+      "identifier": "sortAlphaUp"
+    },
+    "sort-alt": {
+      "codepoint": 57582,
+      "fontFamily": "Prime",
+      "identifier": "sortAlt"
+    },
+    "sort-alt-slash": {
+      "codepoint": 57583,
+      "fontFamily": "Prime",
+      "identifier": "sortAltSlash"
+    },
+    "sort-amount-down": {
+      "codepoint": 57584,
+      "fontFamily": "Prime",
+      "identifier": "sortAmountDown"
+    },
+    "sort-amount-down-alt": {
+      "codepoint": 57585,
+      "fontFamily": "Prime",
+      "identifier": "sortAmountDownAlt"
+    },
+    "sort-amount-up": {
+      "codepoint": 57586,
+      "fontFamily": "Prime",
+      "identifier": "sortAmountUp"
+    },
+    "sort-amount-up-alt": {
+      "codepoint": 57587,
+      "fontFamily": "Prime",
+      "identifier": "sortAmountUpAlt"
+    },
+    "sort-down": {
+      "codepoint": 57588,
+      "fontFamily": "Prime",
+      "identifier": "sortDown"
+    },
+    "sort-down-fill": {
+      "codepoint": 57589,
+      "fontFamily": "Prime",
+      "identifier": "sortDownFill"
+    },
+    "sort-numeric-alt-down": {
+      "codepoint": 57590,
+      "fontFamily": "Prime",
+      "identifier": "sortNumericAltDown"
+    },
+    "sort-numeric-alt-up": {
+      "codepoint": 57591,
+      "fontFamily": "Prime",
+      "identifier": "sortNumericAltUp"
+    },
+    "sort-numeric-down": {
+      "codepoint": 57592,
+      "fontFamily": "Prime",
+      "identifier": "sortNumericDown"
+    },
+    "sort-numeric-up": {
+      "codepoint": 57593,
+      "fontFamily": "Prime",
+      "identifier": "sortNumericUp"
+    },
+    "sort-up": {
+      "codepoint": 57594,
+      "fontFamily": "Prime",
+      "identifier": "sortUp"
+    },
+    "sort-up-fill": {
+      "codepoint": 57595,
+      "fontFamily": "Prime",
+      "identifier": "sortUpFill"
+    },
+    "sparkles": {
+      "codepoint": 57596,
+      "fontFamily": "Prime",
+      "identifier": "sparkles"
+    },
+    "spinner": {
+      "codepoint": 57597,
+      "fontFamily": "Prime",
+      "identifier": "spinner"
+    },
+    "spinner-dotted": {
+      "codepoint": 57598,
+      "fontFamily": "Prime",
+      "identifier": "spinnerDotted"
+    },
+    "star": {
+      "codepoint": 57599,
+      "fontFamily": "Prime",
+      "identifier": "star"
+    },
+    "star-fill": {
+      "codepoint": 57600,
+      "fontFamily": "Prime",
+      "identifier": "starFill"
+    },
+    "star-half": {
+      "codepoint": 57601,
+      "fontFamily": "Prime",
+      "identifier": "starHalf"
+    },
+    "star-half-fill": {
+      "codepoint": 57602,
+      "fontFamily": "Prime",
+      "identifier": "starHalfFill"
+    },
+    "step-backward": {
+      "codepoint": 57603,
+      "fontFamily": "Prime",
+      "identifier": "stepBackward"
+    },
+    "step-backward-alt": {
+      "codepoint": 57604,
+      "fontFamily": "Prime",
+      "identifier": "stepBackwardAlt"
+    },
+    "step-forward": {
+      "codepoint": 57605,
+      "fontFamily": "Prime",
+      "identifier": "stepForward"
+    },
+    "step-forward-alt": {
+      "codepoint": 57606,
+      "fontFamily": "Prime",
+      "identifier": "stepForwardAlt"
+    },
+    "stop": {
+      "codepoint": 57607,
+      "fontFamily": "Prime",
+      "identifier": "stop"
+    },
+    "stop-circle": {
+      "codepoint": 57608,
+      "fontFamily": "Prime",
+      "identifier": "stopCircle"
+    },
+    "stopwatch": {
+      "codepoint": 57609,
+      "fontFamily": "Prime",
+      "identifier": "stopwatch"
+    },
+    "sun": {
+      "codepoint": 57610,
+      "fontFamily": "Prime",
+      "identifier": "sun"
+    },
+    "sync": {
+      "codepoint": 57611,
+      "fontFamily": "Prime",
+      "identifier": "sync_"
+    },
+    "table": {
+      "codepoint": 57612,
+      "fontFamily": "Prime",
+      "identifier": "table"
+    },
+    "tablet": {
+      "codepoint": 57613,
+      "fontFamily": "Prime",
+      "identifier": "tablet"
+    },
+    "tag": {
+      "codepoint": 57614,
+      "fontFamily": "Prime",
+      "identifier": "tag"
+    },
+    "tags": {
+      "codepoint": 57615,
+      "fontFamily": "Prime",
+      "identifier": "tags"
+    },
+    "telegram": {
+      "codepoint": 57616,
+      "fontFamily": "Prime",
+      "identifier": "telegram"
+    },
+    "th-large": {
+      "codepoint": 57617,
+      "fontFamily": "Prime",
+      "identifier": "thLarge"
+    },
+    "thumbs-down": {
+      "codepoint": 57618,
+      "fontFamily": "Prime",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-down-fill": {
+      "codepoint": 57619,
+      "fontFamily": "Prime",
+      "identifier": "thumbsDownFill"
+    },
+    "thumbs-up": {
+      "codepoint": 57620,
+      "fontFamily": "Prime",
+      "identifier": "thumbsUp"
+    },
+    "thumbs-up-fill": {
+      "codepoint": 57621,
+      "fontFamily": "Prime",
+      "identifier": "thumbsUpFill"
+    },
+    "thumbtack": {
+      "codepoint": 57622,
+      "fontFamily": "Prime",
+      "identifier": "thumbtack"
+    },
+    "ticket": {
+      "codepoint": 57623,
+      "fontFamily": "Prime",
+      "identifier": "ticket"
+    },
+    "tiktok": {
+      "codepoint": 57624,
+      "fontFamily": "Prime",
+      "identifier": "tiktok"
+    },
+    "times": {
+      "codepoint": 57625,
+      "fontFamily": "Prime",
+      "identifier": "times"
+    },
+    "times-circle": {
+      "codepoint": 57626,
+      "fontFamily": "Prime",
+      "identifier": "timesCircle"
+    },
+    "trash": {
+      "codepoint": 57627,
+      "fontFamily": "Prime",
+      "identifier": "trash"
+    },
+    "trophy": {
+      "codepoint": 57628,
+      "fontFamily": "Prime",
+      "identifier": "trophy"
+    },
+    "truck": {
+      "codepoint": 57629,
+      "fontFamily": "Prime",
+      "identifier": "truck"
+    },
+    "turkish-lira": {
+      "codepoint": 57630,
+      "fontFamily": "Prime",
+      "identifier": "turkishLira"
+    },
+    "twitch": {
+      "codepoint": 57631,
+      "fontFamily": "Prime",
+      "identifier": "twitch"
+    },
+    "twitter": {
+      "codepoint": 57632,
+      "fontFamily": "Prime",
+      "identifier": "twitter"
+    },
+    "undo": {
+      "codepoint": 57633,
+      "fontFamily": "Prime",
+      "identifier": "undo"
+    },
+    "unlock": {
+      "codepoint": 57634,
+      "fontFamily": "Prime",
+      "identifier": "unlock"
+    },
+    "upload": {
+      "codepoint": 57635,
+      "fontFamily": "Prime",
+      "identifier": "upload"
+    },
+    "user": {
+      "codepoint": 57636,
+      "fontFamily": "Prime",
+      "identifier": "user"
+    },
+    "user-edit": {
+      "codepoint": 57637,
+      "fontFamily": "Prime",
+      "identifier": "userEdit"
+    },
+    "user-minus": {
+      "codepoint": 57638,
+      "fontFamily": "Prime",
+      "identifier": "userMinus"
+    },
+    "user-plus": {
+      "codepoint": 57639,
+      "fontFamily": "Prime",
+      "identifier": "userPlus"
+    },
+    "users": {
+      "codepoint": 57640,
+      "fontFamily": "Prime",
+      "identifier": "users"
+    },
+    "venus": {
+      "codepoint": 57641,
+      "fontFamily": "Prime",
+      "identifier": "venus"
+    },
+    "verified": {
+      "codepoint": 57642,
+      "fontFamily": "Prime",
+      "identifier": "verified"
+    },
+    "video": {
+      "codepoint": 57643,
+      "fontFamily": "Prime",
+      "identifier": "video"
+    },
+    "vimeo": {
+      "codepoint": 57644,
+      "fontFamily": "Prime",
+      "identifier": "vimeo"
+    },
+    "volume-down": {
+      "codepoint": 57645,
+      "fontFamily": "Prime",
+      "identifier": "volumeDown"
+    },
+    "volume-off": {
+      "codepoint": 57646,
+      "fontFamily": "Prime",
+      "identifier": "volumeOff"
+    },
+    "volume-up": {
+      "codepoint": 57647,
+      "fontFamily": "Prime",
+      "identifier": "volumeUp"
+    },
+    "wallet": {
+      "codepoint": 57648,
+      "fontFamily": "Prime",
+      "identifier": "wallet"
+    },
+    "warehouse": {
+      "codepoint": 57649,
+      "fontFamily": "Prime",
+      "identifier": "warehouse"
+    },
+    "wave-pulse": {
+      "codepoint": 57650,
+      "fontFamily": "Prime",
+      "identifier": "wavePulse"
+    },
+    "whatsapp": {
+      "codepoint": 57651,
+      "fontFamily": "Prime",
+      "identifier": "whatsapp"
+    },
+    "wifi": {
+      "codepoint": 57652,
+      "fontFamily": "Prime",
+      "identifier": "wifi"
+    },
+    "window-maximize": {
+      "codepoint": 57653,
+      "fontFamily": "Prime",
+      "identifier": "windowMaximize"
+    },
+    "window-minimize": {
+      "codepoint": 57654,
+      "fontFamily": "Prime",
+      "identifier": "windowMinimize"
+    },
+    "wrench": {
+      "codepoint": 57655,
+      "fontFamily": "Prime",
+      "identifier": "wrench"
+    },
+    "youtube": {
+      "codepoint": 57656,
+      "fontFamily": "Prime",
+      "identifier": "youtube"
+    }
+  }
+}

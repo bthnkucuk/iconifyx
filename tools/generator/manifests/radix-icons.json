@@ -1,0 +1,1755 @@
+{
+  "schemaVersion": 1,
+  "prefix": "radix-icons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_radix_icons",
+  "info": {
+    "name": "Radix Icons",
+    "author": {
+      "name": "WorkOS",
+      "url": "https://github.com/radix-ui/icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/radix-ui/icons/blob/master/LICENSE"
+    },
+    "total": 345
+  },
+  "fonts": [
+    {
+      "family": "RadixIcons",
+      "nextCodepoint": 57689,
+      "iconCount": 345
+    }
+  ],
+  "icons": {
+    "accessibility": {
+      "codepoint": 57344,
+      "fontFamily": "RadixIcons",
+      "identifier": "accessibility"
+    },
+    "activity-log": {
+      "codepoint": 57345,
+      "fontFamily": "RadixIcons",
+      "identifier": "activityLog"
+    },
+    "align-baseline": {
+      "codepoint": 57346,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignBaseline"
+    },
+    "align-bottom": {
+      "codepoint": 57347,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignBottom"
+    },
+    "align-center": {
+      "codepoint": 57348,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignCenter"
+    },
+    "align-center-horizontally": {
+      "codepoint": 57349,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignCenterHorizontally"
+    },
+    "align-center-vertically": {
+      "codepoint": 57350,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignCenterVertically"
+    },
+    "align-end": {
+      "codepoint": 57351,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignEnd"
+    },
+    "align-horizontal-centers": {
+      "codepoint": 57352,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignHorizontalCenters"
+    },
+    "align-left": {
+      "codepoint": 57353,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57354,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignRight"
+    },
+    "align-start": {
+      "codepoint": 57355,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignStart"
+    },
+    "align-stretch": {
+      "codepoint": 57356,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignStretch"
+    },
+    "align-top": {
+      "codepoint": 57357,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignTop"
+    },
+    "align-vertical-centers": {
+      "codepoint": 57358,
+      "fontFamily": "RadixIcons",
+      "identifier": "alignVerticalCenters"
+    },
+    "all-sides": {
+      "codepoint": 57359,
+      "fontFamily": "RadixIcons",
+      "identifier": "allSides"
+    },
+    "angle": {
+      "codepoint": 57360,
+      "fontFamily": "RadixIcons",
+      "identifier": "angle"
+    },
+    "archive": {
+      "codepoint": 57361,
+      "fontFamily": "RadixIcons",
+      "identifier": "archive"
+    },
+    "arrow-bottom-left": {
+      "codepoint": 57362,
+      "fontFamily": "RadixIcons",
+      "identifier": "arrowBottomLeft"
+    },
+    "arrow-bottom-right": {
+      "codepoint": 57363,
+      "fontFamily": "RadixIcons",
+      "identifier": "arrowBottomRight"
+    },
+    "arrow-down": {
+      "codepoint": 57364,
+      "fontFamily": "RadixIcons",
+      "identifier": "arrowDown"
+    },
+    "arrow-left": {
+      "codepoint": 57365,
+      "fontFamily": "RadixIcons",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57366,
+      "fontFamily": "RadixIcons",
+      "identifier": "arrowRight"
+    },
+    "arrow-top-left": {
+      "codepoint": 57367,
+      "fontFamily": "RadixIcons",
+      "identifier": "arrowTopLeft"
+    },
+    "arrow-top-right": {
+      "codepoint": 57368,
+      "fontFamily": "RadixIcons",
+      "identifier": "arrowTopRight"
+    },
+    "arrow-up": {
+      "codepoint": 57369,
+      "fontFamily": "RadixIcons",
+      "identifier": "arrowUp"
+    },
+    "aspect-ratio": {
+      "codepoint": 57370,
+      "fontFamily": "RadixIcons",
+      "identifier": "aspectRatio"
+    },
+    "avatar": {
+      "codepoint": 57371,
+      "fontFamily": "RadixIcons",
+      "identifier": "avatar"
+    },
+    "backpack": {
+      "codepoint": 57372,
+      "fontFamily": "RadixIcons",
+      "identifier": "backpack"
+    },
+    "badge": {
+      "codepoint": 57373,
+      "fontFamily": "RadixIcons",
+      "identifier": "badge"
+    },
+    "bar-chart": {
+      "codepoint": 57374,
+      "fontFamily": "RadixIcons",
+      "identifier": "barChart"
+    },
+    "bell": {
+      "codepoint": 57375,
+      "fontFamily": "RadixIcons",
+      "identifier": "bell"
+    },
+    "blending-mode": {
+      "codepoint": 57376,
+      "fontFamily": "RadixIcons",
+      "identifier": "blendingMode"
+    },
+    "bookmark": {
+      "codepoint": 57377,
+      "fontFamily": "RadixIcons",
+      "identifier": "bookmark"
+    },
+    "bookmark-filled": {
+      "codepoint": 57378,
+      "fontFamily": "RadixIcons",
+      "identifier": "bookmarkFilled"
+    },
+    "border-all": {
+      "codepoint": 57379,
+      "fontFamily": "RadixIcons",
+      "identifier": "borderAll"
+    },
+    "border-bottom": {
+      "codepoint": 57380,
+      "fontFamily": "RadixIcons",
+      "identifier": "borderBottom"
+    },
+    "border-dashed": {
+      "codepoint": 57381,
+      "fontFamily": "RadixIcons",
+      "identifier": "borderDashed"
+    },
+    "border-dotted": {
+      "codepoint": 57382,
+      "fontFamily": "RadixIcons",
+      "identifier": "borderDotted"
+    },
+    "border-left": {
+      "codepoint": 57383,
+      "fontFamily": "RadixIcons",
+      "identifier": "borderLeft"
+    },
+    "border-none": {
+      "codepoint": 57384,
+      "fontFamily": "RadixIcons",
+      "identifier": "borderNone"
+    },
+    "border-right": {
+      "codepoint": 57385,
+      "fontFamily": "RadixIcons",
+      "identifier": "borderRight"
+    },
+    "border-solid": {
+      "codepoint": 57386,
+      "fontFamily": "RadixIcons",
+      "identifier": "borderSolid"
+    },
+    "border-split": {
+      "codepoint": 57387,
+      "fontFamily": "RadixIcons",
+      "identifier": "borderSplit"
+    },
+    "border-style": {
+      "codepoint": 57388,
+      "fontFamily": "RadixIcons",
+      "identifier": "borderStyle"
+    },
+    "border-top": {
+      "codepoint": 57389,
+      "fontFamily": "RadixIcons",
+      "identifier": "borderTop"
+    },
+    "border-width": {
+      "codepoint": 57390,
+      "fontFamily": "RadixIcons",
+      "identifier": "borderWidth"
+    },
+    "box": {
+      "codepoint": 57391,
+      "fontFamily": "RadixIcons",
+      "identifier": "box"
+    },
+    "box-model": {
+      "codepoint": 57392,
+      "fontFamily": "RadixIcons",
+      "identifier": "boxModel"
+    },
+    "button": {
+      "codepoint": 57393,
+      "fontFamily": "RadixIcons",
+      "identifier": "button"
+    },
+    "calendar": {
+      "codepoint": 57394,
+      "fontFamily": "RadixIcons",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57395,
+      "fontFamily": "RadixIcons",
+      "identifier": "camera"
+    },
+    "card-stack": {
+      "codepoint": 57396,
+      "fontFamily": "RadixIcons",
+      "identifier": "cardStack"
+    },
+    "card-stack-minus": {
+      "codepoint": 57397,
+      "fontFamily": "RadixIcons",
+      "identifier": "cardStackMinus"
+    },
+    "card-stack-plus": {
+      "codepoint": 57398,
+      "fontFamily": "RadixIcons",
+      "identifier": "cardStackPlus"
+    },
+    "caret-down": {
+      "codepoint": 57399,
+      "fontFamily": "RadixIcons",
+      "identifier": "caretDown"
+    },
+    "caret-left": {
+      "codepoint": 57400,
+      "fontFamily": "RadixIcons",
+      "identifier": "caretLeft"
+    },
+    "caret-right": {
+      "codepoint": 57401,
+      "fontFamily": "RadixIcons",
+      "identifier": "caretRight"
+    },
+    "caret-sort": {
+      "codepoint": 57402,
+      "fontFamily": "RadixIcons",
+      "identifier": "caretSort"
+    },
+    "caret-up": {
+      "codepoint": 57403,
+      "fontFamily": "RadixIcons",
+      "identifier": "caretUp"
+    },
+    "chat-bubble": {
+      "codepoint": 57404,
+      "fontFamily": "RadixIcons",
+      "identifier": "chatBubble"
+    },
+    "check": {
+      "codepoint": 57405,
+      "fontFamily": "RadixIcons",
+      "identifier": "check"
+    },
+    "check-circled": {
+      "codepoint": 57406,
+      "fontFamily": "RadixIcons",
+      "identifier": "checkCircled"
+    },
+    "checkbox": {
+      "codepoint": 57407,
+      "fontFamily": "RadixIcons",
+      "identifier": "checkbox"
+    },
+    "chevron-down": {
+      "codepoint": 57408,
+      "fontFamily": "RadixIcons",
+      "identifier": "chevronDown"
+    },
+    "chevron-left": {
+      "codepoint": 57409,
+      "fontFamily": "RadixIcons",
+      "identifier": "chevronLeft"
+    },
+    "chevron-right": {
+      "codepoint": 57410,
+      "fontFamily": "RadixIcons",
+      "identifier": "chevronRight"
+    },
+    "chevron-up": {
+      "codepoint": 57411,
+      "fontFamily": "RadixIcons",
+      "identifier": "chevronUp"
+    },
+    "circle": {
+      "codepoint": 57412,
+      "fontFamily": "RadixIcons",
+      "identifier": "circle"
+    },
+    "circle-backslash": {
+      "codepoint": 57413,
+      "fontFamily": "RadixIcons",
+      "identifier": "circleBackslash"
+    },
+    "clipboard": {
+      "codepoint": 57414,
+      "fontFamily": "RadixIcons",
+      "identifier": "clipboard"
+    },
+    "clipboard-copy": {
+      "codepoint": 57415,
+      "fontFamily": "RadixIcons",
+      "identifier": "clipboardCopy"
+    },
+    "clock": {
+      "codepoint": 57416,
+      "fontFamily": "RadixIcons",
+      "identifier": "clock"
+    },
+    "code": {
+      "codepoint": 57417,
+      "fontFamily": "RadixIcons",
+      "identifier": "code"
+    },
+    "codesandbox-logo": {
+      "codepoint": 57418,
+      "fontFamily": "RadixIcons",
+      "identifier": "codesandboxLogo"
+    },
+    "color-wheel": {
+      "codepoint": 57419,
+      "fontFamily": "RadixIcons",
+      "identifier": "colorWheel"
+    },
+    "column-spacing": {
+      "codepoint": 57420,
+      "fontFamily": "RadixIcons",
+      "identifier": "columnSpacing"
+    },
+    "columns": {
+      "codepoint": 57421,
+      "fontFamily": "RadixIcons",
+      "identifier": "columns"
+    },
+    "commit": {
+      "codepoint": 57422,
+      "fontFamily": "RadixIcons",
+      "identifier": "commit"
+    },
+    "component-1": {
+      "codepoint": 57423,
+      "fontFamily": "RadixIcons",
+      "identifier": "component1"
+    },
+    "component-2": {
+      "codepoint": 57424,
+      "fontFamily": "RadixIcons",
+      "identifier": "component2"
+    },
+    "component-boolean": {
+      "codepoint": 57425,
+      "fontFamily": "RadixIcons",
+      "identifier": "componentBoolean"
+    },
+    "component-instance": {
+      "codepoint": 57426,
+      "fontFamily": "RadixIcons",
+      "identifier": "componentInstance"
+    },
+    "component-none": {
+      "codepoint": 57427,
+      "fontFamily": "RadixIcons",
+      "identifier": "componentNone"
+    },
+    "component-placeholder": {
+      "codepoint": 57428,
+      "fontFamily": "RadixIcons",
+      "identifier": "componentPlaceholder"
+    },
+    "container": {
+      "codepoint": 57429,
+      "fontFamily": "RadixIcons",
+      "identifier": "container"
+    },
+    "cookie": {
+      "codepoint": 57430,
+      "fontFamily": "RadixIcons",
+      "identifier": "cookie"
+    },
+    "copy": {
+      "codepoint": 57431,
+      "fontFamily": "RadixIcons",
+      "identifier": "copy"
+    },
+    "corner-bottom-left": {
+      "codepoint": 57432,
+      "fontFamily": "RadixIcons",
+      "identifier": "cornerBottomLeft"
+    },
+    "corner-bottom-right": {
+      "codepoint": 57433,
+      "fontFamily": "RadixIcons",
+      "identifier": "cornerBottomRight"
+    },
+    "corner-top-left": {
+      "codepoint": 57434,
+      "fontFamily": "RadixIcons",
+      "identifier": "cornerTopLeft"
+    },
+    "corner-top-right": {
+      "codepoint": 57435,
+      "fontFamily": "RadixIcons",
+      "identifier": "cornerTopRight"
+    },
+    "corners": {
+      "codepoint": 57436,
+      "fontFamily": "RadixIcons",
+      "identifier": "corners"
+    },
+    "countdown-timer": {
+      "codepoint": 57437,
+      "fontFamily": "RadixIcons",
+      "identifier": "countdownTimer"
+    },
+    "counter-clockwise-clock": {
+      "codepoint": 57438,
+      "fontFamily": "RadixIcons",
+      "identifier": "counterClockwiseClock"
+    },
+    "crop": {
+      "codepoint": 57439,
+      "fontFamily": "RadixIcons",
+      "identifier": "crop"
+    },
+    "cross-1": {
+      "codepoint": 57440,
+      "fontFamily": "RadixIcons",
+      "identifier": "cross1"
+    },
+    "cross-2": {
+      "codepoint": 57441,
+      "fontFamily": "RadixIcons",
+      "identifier": "cross2"
+    },
+    "cross-circled": {
+      "codepoint": 57442,
+      "fontFamily": "RadixIcons",
+      "identifier": "crossCircled"
+    },
+    "crosshair-1": {
+      "codepoint": 57443,
+      "fontFamily": "RadixIcons",
+      "identifier": "crosshair1"
+    },
+    "crosshair-2": {
+      "codepoint": 57444,
+      "fontFamily": "RadixIcons",
+      "identifier": "crosshair2"
+    },
+    "crumpled-paper": {
+      "codepoint": 57445,
+      "fontFamily": "RadixIcons",
+      "identifier": "crumpledPaper"
+    },
+    "cube": {
+      "codepoint": 57446,
+      "fontFamily": "RadixIcons",
+      "identifier": "cube"
+    },
+    "cursor-arrow": {
+      "codepoint": 57447,
+      "fontFamily": "RadixIcons",
+      "identifier": "cursorArrow"
+    },
+    "cursor-text": {
+      "codepoint": 57448,
+      "fontFamily": "RadixIcons",
+      "identifier": "cursorText"
+    },
+    "dash": {
+      "codepoint": 57449,
+      "fontFamily": "RadixIcons",
+      "identifier": "dash"
+    },
+    "dashboard": {
+      "codepoint": 57450,
+      "fontFamily": "RadixIcons",
+      "identifier": "dashboard"
+    },
+    "database": {
+      "codepoint": 57451,
+      "fontFamily": "RadixIcons",
+      "identifier": "database"
+    },
+    "desktop": {
+      "codepoint": 57452,
+      "fontFamily": "RadixIcons",
+      "identifier": "desktop"
+    },
+    "dimensions": {
+      "codepoint": 57453,
+      "fontFamily": "RadixIcons",
+      "identifier": "dimensions"
+    },
+    "disc": {
+      "codepoint": 57454,
+      "fontFamily": "RadixIcons",
+      "identifier": "disc"
+    },
+    "discord-logo": {
+      "codepoint": 57455,
+      "fontFamily": "RadixIcons",
+      "identifier": "discordLogo"
+    },
+    "divider-horizontal": {
+      "codepoint": 57456,
+      "fontFamily": "RadixIcons",
+      "identifier": "dividerHorizontal"
+    },
+    "divider-vertical": {
+      "codepoint": 57457,
+      "fontFamily": "RadixIcons",
+      "identifier": "dividerVertical"
+    },
+    "dot": {
+      "codepoint": 57458,
+      "fontFamily": "RadixIcons",
+      "identifier": "dot"
+    },
+    "dot-filled": {
+      "codepoint": 57459,
+      "fontFamily": "RadixIcons",
+      "identifier": "dotFilled"
+    },
+    "dot-solid": {
+      "codepoint": 57460,
+      "fontFamily": "RadixIcons",
+      "identifier": "dotSolid"
+    },
+    "dots-horizontal": {
+      "codepoint": 57461,
+      "fontFamily": "RadixIcons",
+      "identifier": "dotsHorizontal"
+    },
+    "dots-vertical": {
+      "codepoint": 57462,
+      "fontFamily": "RadixIcons",
+      "identifier": "dotsVertical"
+    },
+    "double-arrow-down": {
+      "codepoint": 57463,
+      "fontFamily": "RadixIcons",
+      "identifier": "doubleArrowDown"
+    },
+    "double-arrow-left": {
+      "codepoint": 57464,
+      "fontFamily": "RadixIcons",
+      "identifier": "doubleArrowLeft"
+    },
+    "double-arrow-right": {
+      "codepoint": 57465,
+      "fontFamily": "RadixIcons",
+      "identifier": "doubleArrowRight"
+    },
+    "double-arrow-up": {
+      "codepoint": 57466,
+      "fontFamily": "RadixIcons",
+      "identifier": "doubleArrowUp"
+    },
+    "download": {
+      "codepoint": 57467,
+      "fontFamily": "RadixIcons",
+      "identifier": "download"
+    },
+    "drag-handle-dots-1": {
+      "codepoint": 57468,
+      "fontFamily": "RadixIcons",
+      "identifier": "dragHandleDots1"
+    },
+    "drag-handle-dots-2": {
+      "codepoint": 57469,
+      "fontFamily": "RadixIcons",
+      "identifier": "dragHandleDots2"
+    },
+    "drag-handle-horizontal": {
+      "codepoint": 57470,
+      "fontFamily": "RadixIcons",
+      "identifier": "dragHandleHorizontal"
+    },
+    "drag-handle-vertical": {
+      "codepoint": 57471,
+      "fontFamily": "RadixIcons",
+      "identifier": "dragHandleVertical"
+    },
+    "drawing-pin": {
+      "codepoint": 57472,
+      "fontFamily": "RadixIcons",
+      "identifier": "drawingPin"
+    },
+    "drawing-pin-filled": {
+      "codepoint": 57473,
+      "fontFamily": "RadixIcons",
+      "identifier": "drawingPinFilled"
+    },
+    "drawing-pin-solid": {
+      "codepoint": 57474,
+      "fontFamily": "RadixIcons",
+      "identifier": "drawingPinSolid"
+    },
+    "dropdown-menu": {
+      "codepoint": 57475,
+      "fontFamily": "RadixIcons",
+      "identifier": "dropdownMenu"
+    },
+    "enter": {
+      "codepoint": 57476,
+      "fontFamily": "RadixIcons",
+      "identifier": "enter"
+    },
+    "enter-full-screen": {
+      "codepoint": 57477,
+      "fontFamily": "RadixIcons",
+      "identifier": "enterFullScreen"
+    },
+    "envelope-closed": {
+      "codepoint": 57478,
+      "fontFamily": "RadixIcons",
+      "identifier": "envelopeClosed"
+    },
+    "envelope-open": {
+      "codepoint": 57479,
+      "fontFamily": "RadixIcons",
+      "identifier": "envelopeOpen"
+    },
+    "eraser": {
+      "codepoint": 57480,
+      "fontFamily": "RadixIcons",
+      "identifier": "eraser"
+    },
+    "exclamation-circled": {
+      "codepoint": 57481,
+      "fontFamily": "RadixIcons",
+      "identifier": "exclamationCircled"
+    },
+    "exclamation-mark": {
+      "codepoint": 57482,
+      "fontFamily": "RadixIcons",
+      "identifier": "exclamationMark"
+    },
+    "exclamation-triangle": {
+      "codepoint": 57483,
+      "fontFamily": "RadixIcons",
+      "identifier": "exclamationTriangle"
+    },
+    "exit": {
+      "codepoint": 57484,
+      "fontFamily": "RadixIcons",
+      "identifier": "exit"
+    },
+    "exit-full-screen": {
+      "codepoint": 57485,
+      "fontFamily": "RadixIcons",
+      "identifier": "exitFullScreen"
+    },
+    "external-link": {
+      "codepoint": 57486,
+      "fontFamily": "RadixIcons",
+      "identifier": "externalLink"
+    },
+    "eye-closed": {
+      "codepoint": 57487,
+      "fontFamily": "RadixIcons",
+      "identifier": "eyeClosed"
+    },
+    "eye-none": {
+      "codepoint": 57488,
+      "fontFamily": "RadixIcons",
+      "identifier": "eyeNone"
+    },
+    "eye-open": {
+      "codepoint": 57489,
+      "fontFamily": "RadixIcons",
+      "identifier": "eyeOpen"
+    },
+    "face": {
+      "codepoint": 57490,
+      "fontFamily": "RadixIcons",
+      "identifier": "face"
+    },
+    "figma-logo": {
+      "codepoint": 57491,
+      "fontFamily": "RadixIcons",
+      "identifier": "figmaLogo"
+    },
+    "file": {
+      "codepoint": 57492,
+      "fontFamily": "RadixIcons",
+      "identifier": "file"
+    },
+    "file-minus": {
+      "codepoint": 57493,
+      "fontFamily": "RadixIcons",
+      "identifier": "fileMinus"
+    },
+    "file-plus": {
+      "codepoint": 57494,
+      "fontFamily": "RadixIcons",
+      "identifier": "filePlus"
+    },
+    "file-text": {
+      "codepoint": 57495,
+      "fontFamily": "RadixIcons",
+      "identifier": "fileText"
+    },
+    "filter": {
+      "codepoint": 57496,
+      "fontFamily": "RadixIcons",
+      "identifier": "filter"
+    },
+    "font-bold": {
+      "codepoint": 57497,
+      "fontFamily": "RadixIcons",
+      "identifier": "fontBold"
+    },
+    "font-family": {
+      "codepoint": 57498,
+      "fontFamily": "RadixIcons",
+      "identifier": "fontFamily"
+    },
+    "font-italic": {
+      "codepoint": 57499,
+      "fontFamily": "RadixIcons",
+      "identifier": "fontItalic"
+    },
+    "font-roman": {
+      "codepoint": 57500,
+      "fontFamily": "RadixIcons",
+      "identifier": "fontRoman"
+    },
+    "font-size": {
+      "codepoint": 57501,
+      "fontFamily": "RadixIcons",
+      "identifier": "fontSize"
+    },
+    "font-style": {
+      "codepoint": 57502,
+      "fontFamily": "RadixIcons",
+      "identifier": "fontStyle"
+    },
+    "frame": {
+      "codepoint": 57503,
+      "fontFamily": "RadixIcons",
+      "identifier": "frame"
+    },
+    "framer-logo": {
+      "codepoint": 57504,
+      "fontFamily": "RadixIcons",
+      "identifier": "framerLogo"
+    },
+    "gear": {
+      "codepoint": 57505,
+      "fontFamily": "RadixIcons",
+      "identifier": "gear"
+    },
+    "github-logo": {
+      "codepoint": 57506,
+      "fontFamily": "RadixIcons",
+      "identifier": "githubLogo"
+    },
+    "globe": {
+      "codepoint": 57507,
+      "fontFamily": "RadixIcons",
+      "identifier": "globe"
+    },
+    "globe-2": {
+      "codepoint": 57508,
+      "fontFamily": "RadixIcons",
+      "identifier": "globe2"
+    },
+    "grid": {
+      "codepoint": 57509,
+      "fontFamily": "RadixIcons",
+      "identifier": "grid"
+    },
+    "group": {
+      "codepoint": 57510,
+      "fontFamily": "RadixIcons",
+      "identifier": "group"
+    },
+    "half-1": {
+      "codepoint": 57511,
+      "fontFamily": "RadixIcons",
+      "identifier": "half1"
+    },
+    "half-2": {
+      "codepoint": 57512,
+      "fontFamily": "RadixIcons",
+      "identifier": "half2"
+    },
+    "hamburger-menu": {
+      "codepoint": 57513,
+      "fontFamily": "RadixIcons",
+      "identifier": "hamburgerMenu"
+    },
+    "hand": {
+      "codepoint": 57514,
+      "fontFamily": "RadixIcons",
+      "identifier": "hand"
+    },
+    "heading": {
+      "codepoint": 57515,
+      "fontFamily": "RadixIcons",
+      "identifier": "heading"
+    },
+    "heart": {
+      "codepoint": 57516,
+      "fontFamily": "RadixIcons",
+      "identifier": "heart"
+    },
+    "heart-filled": {
+      "codepoint": 57517,
+      "fontFamily": "RadixIcons",
+      "identifier": "heartFilled"
+    },
+    "height": {
+      "codepoint": 57518,
+      "fontFamily": "RadixIcons",
+      "identifier": "height"
+    },
+    "hobby-knife": {
+      "codepoint": 57519,
+      "fontFamily": "RadixIcons",
+      "identifier": "hobbyKnife"
+    },
+    "home": {
+      "codepoint": 57520,
+      "fontFamily": "RadixIcons",
+      "identifier": "home"
+    },
+    "iconjar-logo": {
+      "codepoint": 57521,
+      "fontFamily": "RadixIcons",
+      "identifier": "iconjarLogo"
+    },
+    "id-card": {
+      "codepoint": 57522,
+      "fontFamily": "RadixIcons",
+      "identifier": "idCard"
+    },
+    "image": {
+      "codepoint": 57523,
+      "fontFamily": "RadixIcons",
+      "identifier": "image"
+    },
+    "info-circled": {
+      "codepoint": 57524,
+      "fontFamily": "RadixIcons",
+      "identifier": "infoCircled"
+    },
+    "input": {
+      "codepoint": 57525,
+      "fontFamily": "RadixIcons",
+      "identifier": "input"
+    },
+    "instagram-logo": {
+      "codepoint": 57526,
+      "fontFamily": "RadixIcons",
+      "identifier": "instagramLogo"
+    },
+    "justify-center": {
+      "codepoint": 57527,
+      "fontFamily": "RadixIcons",
+      "identifier": "justifyCenter"
+    },
+    "justify-end": {
+      "codepoint": 57528,
+      "fontFamily": "RadixIcons",
+      "identifier": "justifyEnd"
+    },
+    "justify-start": {
+      "codepoint": 57529,
+      "fontFamily": "RadixIcons",
+      "identifier": "justifyStart"
+    },
+    "justify-stretch": {
+      "codepoint": 57530,
+      "fontFamily": "RadixIcons",
+      "identifier": "justifyStretch"
+    },
+    "keyboard": {
+      "codepoint": 57531,
+      "fontFamily": "RadixIcons",
+      "identifier": "keyboard"
+    },
+    "lap-timer": {
+      "codepoint": 57532,
+      "fontFamily": "RadixIcons",
+      "identifier": "lapTimer"
+    },
+    "laptop": {
+      "codepoint": 57533,
+      "fontFamily": "RadixIcons",
+      "identifier": "laptop"
+    },
+    "layers": {
+      "codepoint": 57534,
+      "fontFamily": "RadixIcons",
+      "identifier": "layers"
+    },
+    "layout": {
+      "codepoint": 57535,
+      "fontFamily": "RadixIcons",
+      "identifier": "layout"
+    },
+    "letter-case-capitalize": {
+      "codepoint": 57536,
+      "fontFamily": "RadixIcons",
+      "identifier": "letterCaseCapitalize"
+    },
+    "letter-case-lowercase": {
+      "codepoint": 57537,
+      "fontFamily": "RadixIcons",
+      "identifier": "letterCaseLowercase"
+    },
+    "letter-case-toggle": {
+      "codepoint": 57538,
+      "fontFamily": "RadixIcons",
+      "identifier": "letterCaseToggle"
+    },
+    "letter-case-uppercase": {
+      "codepoint": 57539,
+      "fontFamily": "RadixIcons",
+      "identifier": "letterCaseUppercase"
+    },
+    "letter-spacing": {
+      "codepoint": 57540,
+      "fontFamily": "RadixIcons",
+      "identifier": "letterSpacing"
+    },
+    "lightning-bolt": {
+      "codepoint": 57541,
+      "fontFamily": "RadixIcons",
+      "identifier": "lightningBolt"
+    },
+    "line-height": {
+      "codepoint": 57542,
+      "fontFamily": "RadixIcons",
+      "identifier": "lineHeight"
+    },
+    "link-1": {
+      "codepoint": 57543,
+      "fontFamily": "RadixIcons",
+      "identifier": "link1"
+    },
+    "link-2": {
+      "codepoint": 57544,
+      "fontFamily": "RadixIcons",
+      "identifier": "link2"
+    },
+    "link-break-1": {
+      "codepoint": 57545,
+      "fontFamily": "RadixIcons",
+      "identifier": "linkBreak1"
+    },
+    "link-break-2": {
+      "codepoint": 57546,
+      "fontFamily": "RadixIcons",
+      "identifier": "linkBreak2"
+    },
+    "link-none-1": {
+      "codepoint": 57547,
+      "fontFamily": "RadixIcons",
+      "identifier": "linkNone1"
+    },
+    "link-none-2": {
+      "codepoint": 57548,
+      "fontFamily": "RadixIcons",
+      "identifier": "linkNone2"
+    },
+    "linkedin-logo": {
+      "codepoint": 57549,
+      "fontFamily": "RadixIcons",
+      "identifier": "linkedinLogo"
+    },
+    "list-bullet": {
+      "codepoint": 57550,
+      "fontFamily": "RadixIcons",
+      "identifier": "listBullet"
+    },
+    "lock-closed": {
+      "codepoint": 57551,
+      "fontFamily": "RadixIcons",
+      "identifier": "lockClosed"
+    },
+    "lock-open-1": {
+      "codepoint": 57552,
+      "fontFamily": "RadixIcons",
+      "identifier": "lockOpen1"
+    },
+    "lock-open-2": {
+      "codepoint": 57553,
+      "fontFamily": "RadixIcons",
+      "identifier": "lockOpen2"
+    },
+    "loop": {
+      "codepoint": 57554,
+      "fontFamily": "RadixIcons",
+      "identifier": "loop"
+    },
+    "magic-wand": {
+      "codepoint": 57555,
+      "fontFamily": "RadixIcons",
+      "identifier": "magicWand"
+    },
+    "magnifying-glass": {
+      "codepoint": 57556,
+      "fontFamily": "RadixIcons",
+      "identifier": "magnifyingGlass"
+    },
+    "margin": {
+      "codepoint": 57557,
+      "fontFamily": "RadixIcons",
+      "identifier": "margin"
+    },
+    "mask-off": {
+      "codepoint": 57558,
+      "fontFamily": "RadixIcons",
+      "identifier": "maskOff"
+    },
+    "mask-on": {
+      "codepoint": 57559,
+      "fontFamily": "RadixIcons",
+      "identifier": "maskOn"
+    },
+    "minimize": {
+      "codepoint": 57560,
+      "fontFamily": "RadixIcons",
+      "identifier": "minimize"
+    },
+    "minus": {
+      "codepoint": 57561,
+      "fontFamily": "RadixIcons",
+      "identifier": "minus"
+    },
+    "minus-circled": {
+      "codepoint": 57562,
+      "fontFamily": "RadixIcons",
+      "identifier": "minusCircled"
+    },
+    "mix": {
+      "codepoint": 57563,
+      "fontFamily": "RadixIcons",
+      "identifier": "mix"
+    },
+    "mixer-horizontal": {
+      "codepoint": 57564,
+      "fontFamily": "RadixIcons",
+      "identifier": "mixerHorizontal"
+    },
+    "mixer-vertical": {
+      "codepoint": 57565,
+      "fontFamily": "RadixIcons",
+      "identifier": "mixerVertical"
+    },
+    "mobile": {
+      "codepoint": 57566,
+      "fontFamily": "RadixIcons",
+      "identifier": "mobile"
+    },
+    "modulz-logo": {
+      "codepoint": 57567,
+      "fontFamily": "RadixIcons",
+      "identifier": "modulzLogo"
+    },
+    "moon": {
+      "codepoint": 57568,
+      "fontFamily": "RadixIcons",
+      "identifier": "moon"
+    },
+    "move": {
+      "codepoint": 57569,
+      "fontFamily": "RadixIcons",
+      "identifier": "move"
+    },
+    "notion-logo": {
+      "codepoint": 57570,
+      "fontFamily": "RadixIcons",
+      "identifier": "notionLogo"
+    },
+    "opacity": {
+      "codepoint": 57571,
+      "fontFamily": "RadixIcons",
+      "identifier": "opacity"
+    },
+    "open-in-new-window": {
+      "codepoint": 57572,
+      "fontFamily": "RadixIcons",
+      "identifier": "openInNewWindow"
+    },
+    "overline": {
+      "codepoint": 57573,
+      "fontFamily": "RadixIcons",
+      "identifier": "overline"
+    },
+    "padding": {
+      "codepoint": 57574,
+      "fontFamily": "RadixIcons",
+      "identifier": "padding"
+    },
+    "panel-bottom": {
+      "codepoint": 57575,
+      "fontFamily": "RadixIcons",
+      "identifier": "panelBottom"
+    },
+    "panel-bottom-minimized": {
+      "codepoint": 57576,
+      "fontFamily": "RadixIcons",
+      "identifier": "panelBottomMinimized"
+    },
+    "panel-left": {
+      "codepoint": 57577,
+      "fontFamily": "RadixIcons",
+      "identifier": "panelLeft"
+    },
+    "panel-left-minimized": {
+      "codepoint": 57578,
+      "fontFamily": "RadixIcons",
+      "identifier": "panelLeftMinimized"
+    },
+    "panel-right": {
+      "codepoint": 57579,
+      "fontFamily": "RadixIcons",
+      "identifier": "panelRight"
+    },
+    "panel-right-minimized": {
+      "codepoint": 57580,
+      "fontFamily": "RadixIcons",
+      "identifier": "panelRightMinimized"
+    },
+    "paper-plane": {
+      "codepoint": 57581,
+      "fontFamily": "RadixIcons",
+      "identifier": "paperPlane"
+    },
+    "pause": {
+      "codepoint": 57582,
+      "fontFamily": "RadixIcons",
+      "identifier": "pause"
+    },
+    "pencil-1": {
+      "codepoint": 57583,
+      "fontFamily": "RadixIcons",
+      "identifier": "pencil1"
+    },
+    "pencil-2": {
+      "codepoint": 57584,
+      "fontFamily": "RadixIcons",
+      "identifier": "pencil2"
+    },
+    "people": {
+      "codepoint": 57585,
+      "fontFamily": "RadixIcons",
+      "identifier": "people"
+    },
+    "person": {
+      "codepoint": 57586,
+      "fontFamily": "RadixIcons",
+      "identifier": "person"
+    },
+    "pie-chart": {
+      "codepoint": 57587,
+      "fontFamily": "RadixIcons",
+      "identifier": "pieChart"
+    },
+    "pilcrow": {
+      "codepoint": 57588,
+      "fontFamily": "RadixIcons",
+      "identifier": "pilcrow"
+    },
+    "pin-bottom": {
+      "codepoint": 57589,
+      "fontFamily": "RadixIcons",
+      "identifier": "pinBottom"
+    },
+    "pin-left": {
+      "codepoint": 57590,
+      "fontFamily": "RadixIcons",
+      "identifier": "pinLeft"
+    },
+    "pin-right": {
+      "codepoint": 57591,
+      "fontFamily": "RadixIcons",
+      "identifier": "pinRight"
+    },
+    "pin-top": {
+      "codepoint": 57592,
+      "fontFamily": "RadixIcons",
+      "identifier": "pinTop"
+    },
+    "play": {
+      "codepoint": 57593,
+      "fontFamily": "RadixIcons",
+      "identifier": "play"
+    },
+    "plus": {
+      "codepoint": 57594,
+      "fontFamily": "RadixIcons",
+      "identifier": "plus"
+    },
+    "plus-circled": {
+      "codepoint": 57595,
+      "fontFamily": "RadixIcons",
+      "identifier": "plusCircled"
+    },
+    "question-mark": {
+      "codepoint": 57596,
+      "fontFamily": "RadixIcons",
+      "identifier": "questionMark"
+    },
+    "question-mark-circled": {
+      "codepoint": 57597,
+      "fontFamily": "RadixIcons",
+      "identifier": "questionMarkCircled"
+    },
+    "quote": {
+      "codepoint": 57598,
+      "fontFamily": "RadixIcons",
+      "identifier": "quote"
+    },
+    "radiobutton": {
+      "codepoint": 57599,
+      "fontFamily": "RadixIcons",
+      "identifier": "radiobutton"
+    },
+    "reader": {
+      "codepoint": 57600,
+      "fontFamily": "RadixIcons",
+      "identifier": "reader"
+    },
+    "reload": {
+      "codepoint": 57601,
+      "fontFamily": "RadixIcons",
+      "identifier": "reload"
+    },
+    "reset": {
+      "codepoint": 57602,
+      "fontFamily": "RadixIcons",
+      "identifier": "reset"
+    },
+    "resume": {
+      "codepoint": 57603,
+      "fontFamily": "RadixIcons",
+      "identifier": "resume"
+    },
+    "rocket": {
+      "codepoint": 57604,
+      "fontFamily": "RadixIcons",
+      "identifier": "rocket"
+    },
+    "rotate-counter-clockwise": {
+      "codepoint": 57605,
+      "fontFamily": "RadixIcons",
+      "identifier": "rotateCounterClockwise"
+    },
+    "row-spacing": {
+      "codepoint": 57606,
+      "fontFamily": "RadixIcons",
+      "identifier": "rowSpacing"
+    },
+    "rows": {
+      "codepoint": 57607,
+      "fontFamily": "RadixIcons",
+      "identifier": "rows"
+    },
+    "ruler-horizontal": {
+      "codepoint": 57608,
+      "fontFamily": "RadixIcons",
+      "identifier": "rulerHorizontal"
+    },
+    "ruler-square": {
+      "codepoint": 57609,
+      "fontFamily": "RadixIcons",
+      "identifier": "rulerSquare"
+    },
+    "scissors": {
+      "codepoint": 57610,
+      "fontFamily": "RadixIcons",
+      "identifier": "scissors"
+    },
+    "section": {
+      "codepoint": 57611,
+      "fontFamily": "RadixIcons",
+      "identifier": "section"
+    },
+    "server": {
+      "codepoint": 57612,
+      "fontFamily": "RadixIcons",
+      "identifier": "server"
+    },
+    "sewing-pin": {
+      "codepoint": 57613,
+      "fontFamily": "RadixIcons",
+      "identifier": "sewingPin"
+    },
+    "sewing-pin-filled": {
+      "codepoint": 57614,
+      "fontFamily": "RadixIcons",
+      "identifier": "sewingPinFilled"
+    },
+    "sewing-pin-solid": {
+      "codepoint": 57615,
+      "fontFamily": "RadixIcons",
+      "identifier": "sewingPinSolid"
+    },
+    "shadow": {
+      "codepoint": 57616,
+      "fontFamily": "RadixIcons",
+      "identifier": "shadow"
+    },
+    "shadow-inner": {
+      "codepoint": 57617,
+      "fontFamily": "RadixIcons",
+      "identifier": "shadowInner"
+    },
+    "shadow-none": {
+      "codepoint": 57618,
+      "fontFamily": "RadixIcons",
+      "identifier": "shadowNone"
+    },
+    "shadow-outer": {
+      "codepoint": 57619,
+      "fontFamily": "RadixIcons",
+      "identifier": "shadowOuter"
+    },
+    "share-1": {
+      "codepoint": 57620,
+      "fontFamily": "RadixIcons",
+      "identifier": "share1"
+    },
+    "share-2": {
+      "codepoint": 57621,
+      "fontFamily": "RadixIcons",
+      "identifier": "share2"
+    },
+    "shuffle": {
+      "codepoint": 57622,
+      "fontFamily": "RadixIcons",
+      "identifier": "shuffle"
+    },
+    "size": {
+      "codepoint": 57623,
+      "fontFamily": "RadixIcons",
+      "identifier": "size"
+    },
+    "sketch-logo": {
+      "codepoint": 57624,
+      "fontFamily": "RadixIcons",
+      "identifier": "sketchLogo"
+    },
+    "slash": {
+      "codepoint": 57625,
+      "fontFamily": "RadixIcons",
+      "identifier": "slash"
+    },
+    "slider": {
+      "codepoint": 57626,
+      "fontFamily": "RadixIcons",
+      "identifier": "slider"
+    },
+    "space-between-horizontally": {
+      "codepoint": 57627,
+      "fontFamily": "RadixIcons",
+      "identifier": "spaceBetweenHorizontally"
+    },
+    "space-between-vertically": {
+      "codepoint": 57628,
+      "fontFamily": "RadixIcons",
+      "identifier": "spaceBetweenVertically"
+    },
+    "space-evenly-horizontally": {
+      "codepoint": 57629,
+      "fontFamily": "RadixIcons",
+      "identifier": "spaceEvenlyHorizontally"
+    },
+    "space-evenly-vertically": {
+      "codepoint": 57630,
+      "fontFamily": "RadixIcons",
+      "identifier": "spaceEvenlyVertically"
+    },
+    "speaker-loud": {
+      "codepoint": 57631,
+      "fontFamily": "RadixIcons",
+      "identifier": "speakerLoud"
+    },
+    "speaker-moderate": {
+      "codepoint": 57632,
+      "fontFamily": "RadixIcons",
+      "identifier": "speakerModerate"
+    },
+    "speaker-off": {
+      "codepoint": 57633,
+      "fontFamily": "RadixIcons",
+      "identifier": "speakerOff"
+    },
+    "speaker-quiet": {
+      "codepoint": 57634,
+      "fontFamily": "RadixIcons",
+      "identifier": "speakerQuiet"
+    },
+    "square": {
+      "codepoint": 57635,
+      "fontFamily": "RadixIcons",
+      "identifier": "square"
+    },
+    "stack": {
+      "codepoint": 57636,
+      "fontFamily": "RadixIcons",
+      "identifier": "stack"
+    },
+    "star": {
+      "codepoint": 57637,
+      "fontFamily": "RadixIcons",
+      "identifier": "star"
+    },
+    "star-filled": {
+      "codepoint": 57638,
+      "fontFamily": "RadixIcons",
+      "identifier": "starFilled"
+    },
+    "stitches-logo": {
+      "codepoint": 57639,
+      "fontFamily": "RadixIcons",
+      "identifier": "stitchesLogo"
+    },
+    "stop": {
+      "codepoint": 57640,
+      "fontFamily": "RadixIcons",
+      "identifier": "stop"
+    },
+    "stopwatch": {
+      "codepoint": 57641,
+      "fontFamily": "RadixIcons",
+      "identifier": "stopwatch"
+    },
+    "stretch-horizontally": {
+      "codepoint": 57642,
+      "fontFamily": "RadixIcons",
+      "identifier": "stretchHorizontally"
+    },
+    "stretch-vertically": {
+      "codepoint": 57643,
+      "fontFamily": "RadixIcons",
+      "identifier": "stretchVertically"
+    },
+    "strikethrough": {
+      "codepoint": 57644,
+      "fontFamily": "RadixIcons",
+      "identifier": "strikethrough"
+    },
+    "sun": {
+      "codepoint": 57645,
+      "fontFamily": "RadixIcons",
+      "identifier": "sun"
+    },
+    "switch": {
+      "codepoint": 57646,
+      "fontFamily": "RadixIcons",
+      "identifier": "switch_"
+    },
+    "symbol": {
+      "codepoint": 57647,
+      "fontFamily": "RadixIcons",
+      "identifier": "symbol"
+    },
+    "table": {
+      "codepoint": 57648,
+      "fontFamily": "RadixIcons",
+      "identifier": "table"
+    },
+    "target": {
+      "codepoint": 57649,
+      "fontFamily": "RadixIcons",
+      "identifier": "target"
+    },
+    "text": {
+      "codepoint": 57650,
+      "fontFamily": "RadixIcons",
+      "identifier": "text"
+    },
+    "text-align-bottom": {
+      "codepoint": 57651,
+      "fontFamily": "RadixIcons",
+      "identifier": "textAlignBottom"
+    },
+    "text-align-center": {
+      "codepoint": 57652,
+      "fontFamily": "RadixIcons",
+      "identifier": "textAlignCenter"
+    },
+    "text-align-justify": {
+      "codepoint": 57653,
+      "fontFamily": "RadixIcons",
+      "identifier": "textAlignJustify"
+    },
+    "text-align-left": {
+      "codepoint": 57654,
+      "fontFamily": "RadixIcons",
+      "identifier": "textAlignLeft"
+    },
+    "text-align-middle": {
+      "codepoint": 57655,
+      "fontFamily": "RadixIcons",
+      "identifier": "textAlignMiddle"
+    },
+    "text-align-right": {
+      "codepoint": 57656,
+      "fontFamily": "RadixIcons",
+      "identifier": "textAlignRight"
+    },
+    "text-align-top": {
+      "codepoint": 57657,
+      "fontFamily": "RadixIcons",
+      "identifier": "textAlignTop"
+    },
+    "text-none": {
+      "codepoint": 57658,
+      "fontFamily": "RadixIcons",
+      "identifier": "textNone"
+    },
+    "thick-arrow-down": {
+      "codepoint": 57659,
+      "fontFamily": "RadixIcons",
+      "identifier": "thickArrowDown"
+    },
+    "thick-arrow-left": {
+      "codepoint": 57660,
+      "fontFamily": "RadixIcons",
+      "identifier": "thickArrowLeft"
+    },
+    "thick-arrow-right": {
+      "codepoint": 57661,
+      "fontFamily": "RadixIcons",
+      "identifier": "thickArrowRight"
+    },
+    "thick-arrow-up": {
+      "codepoint": 57662,
+      "fontFamily": "RadixIcons",
+      "identifier": "thickArrowUp"
+    },
+    "timer": {
+      "codepoint": 57663,
+      "fontFamily": "RadixIcons",
+      "identifier": "timer"
+    },
+    "tokens": {
+      "codepoint": 57664,
+      "fontFamily": "RadixIcons",
+      "identifier": "tokens"
+    },
+    "track-next": {
+      "codepoint": 57665,
+      "fontFamily": "RadixIcons",
+      "identifier": "trackNext"
+    },
+    "track-previous": {
+      "codepoint": 57666,
+      "fontFamily": "RadixIcons",
+      "identifier": "trackPrevious"
+    },
+    "transform": {
+      "codepoint": 57667,
+      "fontFamily": "RadixIcons",
+      "identifier": "transform"
+    },
+    "transparency-grid": {
+      "codepoint": 57668,
+      "fontFamily": "RadixIcons",
+      "identifier": "transparencyGrid"
+    },
+    "trash": {
+      "codepoint": 57669,
+      "fontFamily": "RadixIcons",
+      "identifier": "trash"
+    },
+    "triangle-down": {
+      "codepoint": 57670,
+      "fontFamily": "RadixIcons",
+      "identifier": "triangleDown"
+    },
+    "triangle-left": {
+      "codepoint": 57671,
+      "fontFamily": "RadixIcons",
+      "identifier": "triangleLeft"
+    },
+    "triangle-right": {
+      "codepoint": 57672,
+      "fontFamily": "RadixIcons",
+      "identifier": "triangleRight"
+    },
+    "triangle-up": {
+      "codepoint": 57673,
+      "fontFamily": "RadixIcons",
+      "identifier": "triangleUp"
+    },
+    "twitter-logo": {
+      "codepoint": 57674,
+      "fontFamily": "RadixIcons",
+      "identifier": "twitterLogo"
+    },
+    "underline": {
+      "codepoint": 57675,
+      "fontFamily": "RadixIcons",
+      "identifier": "underline"
+    },
+    "update": {
+      "codepoint": 57676,
+      "fontFamily": "RadixIcons",
+      "identifier": "update"
+    },
+    "upload": {
+      "codepoint": 57677,
+      "fontFamily": "RadixIcons",
+      "identifier": "upload"
+    },
+    "value": {
+      "codepoint": 57678,
+      "fontFamily": "RadixIcons",
+      "identifier": "value"
+    },
+    "value-none": {
+      "codepoint": 57679,
+      "fontFamily": "RadixIcons",
+      "identifier": "valueNone"
+    },
+    "vercel-logo": {
+      "codepoint": 57680,
+      "fontFamily": "RadixIcons",
+      "identifier": "vercelLogo"
+    },
+    "video": {
+      "codepoint": 57681,
+      "fontFamily": "RadixIcons",
+      "identifier": "video"
+    },
+    "view-grid": {
+      "codepoint": 57682,
+      "fontFamily": "RadixIcons",
+      "identifier": "viewGrid"
+    },
+    "view-horizontal": {
+      "codepoint": 57683,
+      "fontFamily": "RadixIcons",
+      "identifier": "viewHorizontal"
+    },
+    "view-none": {
+      "codepoint": 57684,
+      "fontFamily": "RadixIcons",
+      "identifier": "viewNone"
+    },
+    "view-vertical": {
+      "codepoint": 57685,
+      "fontFamily": "RadixIcons",
+      "identifier": "viewVertical"
+    },
+    "width": {
+      "codepoint": 57686,
+      "fontFamily": "RadixIcons",
+      "identifier": "width"
+    },
+    "zoom-in": {
+      "codepoint": 57687,
+      "fontFamily": "RadixIcons",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 57688,
+      "fontFamily": "RadixIcons",
+      "identifier": "zoomOut"
+    }
+  }
+}

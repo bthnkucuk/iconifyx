@@ -1,0 +1,1190 @@
+{
+  "schemaVersion": 1,
+  "prefix": "sidekickicons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI Other / Mixed Grid",
+  "subPackage": "iconifyx_sidekickicons",
+  "info": {
+    "name": "SidekickIcons",
+    "author": {
+      "name": "Andri Soone",
+      "url": "https://github.com/ndri/sidekickicons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/ndri/sidekickicons/blob/master/LICENSE"
+    },
+    "total": 232
+  },
+  "fonts": [
+    {
+      "family": "Sidekickicons",
+      "nextCodepoint": 57576,
+      "iconCount": 232
+    }
+  ],
+  "icons": {
+    "arc-third": {
+      "codepoint": 57344,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arcThird"
+    },
+    "arc-third-16-solid": {
+      "codepoint": 57345,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arcThird16Solid"
+    },
+    "arc-third-20-solid": {
+      "codepoint": 57346,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arcThird20Solid"
+    },
+    "arc-third-solid": {
+      "codepoint": 57347,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arcThirdSolid"
+    },
+    "archive-box-arrow-up": {
+      "codepoint": 57348,
+      "fontFamily": "Sidekickicons",
+      "identifier": "archiveBoxArrowUp"
+    },
+    "archive-box-arrow-up-16-solid": {
+      "codepoint": 57349,
+      "fontFamily": "Sidekickicons",
+      "identifier": "archiveBoxArrowUp16Solid"
+    },
+    "archive-box-arrow-up-20-solid": {
+      "codepoint": 57350,
+      "fontFamily": "Sidekickicons",
+      "identifier": "archiveBoxArrowUp20Solid"
+    },
+    "archive-box-arrow-up-solid": {
+      "codepoint": 57351,
+      "fontFamily": "Sidekickicons",
+      "identifier": "archiveBoxArrowUpSolid"
+    },
+    "arrow-bottom-left-on-square": {
+      "codepoint": 57352,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowBottomLeftOnSquare"
+    },
+    "arrow-bottom-left-on-square-16-solid": {
+      "codepoint": 57353,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowBottomLeftOnSquare16Solid"
+    },
+    "arrow-bottom-left-on-square-20-solid": {
+      "codepoint": 57354,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowBottomLeftOnSquare20Solid"
+    },
+    "arrow-bottom-left-on-square-solid": {
+      "codepoint": 57355,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowBottomLeftOnSquareSolid"
+    },
+    "arrow-path-clock": {
+      "codepoint": 57356,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowPathClock"
+    },
+    "arrow-path-clock-16-solid": {
+      "codepoint": 57357,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowPathClock16Solid"
+    },
+    "arrow-path-clock-20-solid": {
+      "codepoint": 57358,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowPathClock20Solid"
+    },
+    "arrow-path-clock-solid": {
+      "codepoint": 57359,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowPathClockSolid"
+    },
+    "arrow-path-single-clockwise": {
+      "codepoint": 57360,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowPathSingleClockwise"
+    },
+    "arrow-path-single-clockwise-16-solid": {
+      "codepoint": 57361,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowPathSingleClockwise16Solid"
+    },
+    "arrow-path-single-clockwise-20-solid": {
+      "codepoint": 57362,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowPathSingleClockwise20Solid"
+    },
+    "arrow-path-single-clockwise-solid": {
+      "codepoint": 57363,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowPathSingleClockwiseSolid"
+    },
+    "arrow-path-single-counterclockwise": {
+      "codepoint": 57364,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowPathSingleCounterclockwise"
+    },
+    "arrow-path-single-counterclockwise-16-solid": {
+      "codepoint": 57365,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowPathSingleCounterclockwise16Solid"
+    },
+    "arrow-path-single-counterclockwise-20-solid": {
+      "codepoint": 57366,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowPathSingleCounterclockwise20Solid"
+    },
+    "arrow-path-single-counterclockwise-solid": {
+      "codepoint": 57367,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowPathSingleCounterclockwiseSolid"
+    },
+    "arrows-crossing": {
+      "codepoint": 57368,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowsCrossing"
+    },
+    "arrows-crossing-16-solid": {
+      "codepoint": 57369,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowsCrossing16Solid"
+    },
+    "arrows-crossing-20-solid": {
+      "codepoint": 57370,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowsCrossing20Solid"
+    },
+    "arrows-crossing-solid": {
+      "codepoint": 57371,
+      "fontFamily": "Sidekickicons",
+      "identifier": "arrowsCrossingSolid"
+    },
+    "badge": {
+      "codepoint": 57372,
+      "fontFamily": "Sidekickicons",
+      "identifier": "badge"
+    },
+    "badge-16-solid": {
+      "codepoint": 57373,
+      "fontFamily": "Sidekickicons",
+      "identifier": "badge16Solid"
+    },
+    "badge-20-solid": {
+      "codepoint": 57374,
+      "fontFamily": "Sidekickicons",
+      "identifier": "badge20Solid"
+    },
+    "badge-solid": {
+      "codepoint": 57375,
+      "fontFamily": "Sidekickicons",
+      "identifier": "badgeSolid"
+    },
+    "bars-3-bottom-center": {
+      "codepoint": 57376,
+      "fontFamily": "Sidekickicons",
+      "identifier": "bars3BottomCenter"
+    },
+    "bars-3-bottom-center-16-solid": {
+      "codepoint": 57377,
+      "fontFamily": "Sidekickicons",
+      "identifier": "bars3BottomCenter16Solid"
+    },
+    "bars-3-bottom-center-20-solid": {
+      "codepoint": 57378,
+      "fontFamily": "Sidekickicons",
+      "identifier": "bars3BottomCenter20Solid"
+    },
+    "bars-3-bottom-center-solid": {
+      "codepoint": 57379,
+      "fontFamily": "Sidekickicons",
+      "identifier": "bars3BottomCenterSolid"
+    },
+    "blockquote": {
+      "codepoint": 57380,
+      "fontFamily": "Sidekickicons",
+      "identifier": "blockquote"
+    },
+    "blockquote-16-solid": {
+      "codepoint": 57381,
+      "fontFamily": "Sidekickicons",
+      "identifier": "blockquote16Solid"
+    },
+    "blockquote-20-solid": {
+      "codepoint": 57382,
+      "fontFamily": "Sidekickicons",
+      "identifier": "blockquote20Solid"
+    },
+    "blockquote-solid": {
+      "codepoint": 57383,
+      "fontFamily": "Sidekickicons",
+      "identifier": "blockquoteSolid"
+    },
+    "check-double": {
+      "codepoint": 57384,
+      "fontFamily": "Sidekickicons",
+      "identifier": "checkDouble"
+    },
+    "check-double-16-solid": {
+      "codepoint": 57385,
+      "fontFamily": "Sidekickicons",
+      "identifier": "checkDouble16Solid"
+    },
+    "check-double-20-solid": {
+      "codepoint": 57386,
+      "fontFamily": "Sidekickicons",
+      "identifier": "checkDouble20Solid"
+    },
+    "check-double-solid": {
+      "codepoint": 57387,
+      "fontFamily": "Sidekickicons",
+      "identifier": "checkDoubleSolid"
+    },
+    "checklist": {
+      "codepoint": 57388,
+      "fontFamily": "Sidekickicons",
+      "identifier": "checklist"
+    },
+    "checklist-16-solid": {
+      "codepoint": 57389,
+      "fontFamily": "Sidekickicons",
+      "identifier": "checklist16Solid"
+    },
+    "checklist-20-solid": {
+      "codepoint": 57390,
+      "fontFamily": "Sidekickicons",
+      "identifier": "checklist20Solid"
+    },
+    "checklist-boxes": {
+      "codepoint": 57391,
+      "fontFamily": "Sidekickicons",
+      "identifier": "checklistBoxes"
+    },
+    "checklist-boxes-16-solid": {
+      "codepoint": 57392,
+      "fontFamily": "Sidekickicons",
+      "identifier": "checklistBoxes16Solid"
+    },
+    "checklist-boxes-20-solid": {
+      "codepoint": 57393,
+      "fontFamily": "Sidekickicons",
+      "identifier": "checklistBoxes20Solid"
+    },
+    "checklist-boxes-solid": {
+      "codepoint": 57394,
+      "fontFamily": "Sidekickicons",
+      "identifier": "checklistBoxesSolid"
+    },
+    "checklist-solid": {
+      "codepoint": 57395,
+      "fontFamily": "Sidekickicons",
+      "identifier": "checklistSolid"
+    },
+    "chevron-down-up": {
+      "codepoint": 57396,
+      "fontFamily": "Sidekickicons",
+      "identifier": "chevronDownUp"
+    },
+    "chevron-down-up-16-solid": {
+      "codepoint": 57397,
+      "fontFamily": "Sidekickicons",
+      "identifier": "chevronDownUp16Solid"
+    },
+    "chevron-down-up-20-solid": {
+      "codepoint": 57398,
+      "fontFamily": "Sidekickicons",
+      "identifier": "chevronDownUp20Solid"
+    },
+    "chevron-down-up-solid": {
+      "codepoint": 57399,
+      "fontFamily": "Sidekickicons",
+      "identifier": "chevronDownUpSolid"
+    },
+    "chevron-left-right": {
+      "codepoint": 57400,
+      "fontFamily": "Sidekickicons",
+      "identifier": "chevronLeftRight"
+    },
+    "chevron-left-right-16-solid": {
+      "codepoint": 57401,
+      "fontFamily": "Sidekickicons",
+      "identifier": "chevronLeftRight16Solid"
+    },
+    "chevron-left-right-20-solid": {
+      "codepoint": 57402,
+      "fontFamily": "Sidekickicons",
+      "identifier": "chevronLeftRight20Solid"
+    },
+    "chevron-left-right-solid": {
+      "codepoint": 57403,
+      "fontFamily": "Sidekickicons",
+      "identifier": "chevronLeftRightSolid"
+    },
+    "chevron-right-left": {
+      "codepoint": 57404,
+      "fontFamily": "Sidekickicons",
+      "identifier": "chevronRightLeft"
+    },
+    "chevron-right-left-16-solid": {
+      "codepoint": 57405,
+      "fontFamily": "Sidekickicons",
+      "identifier": "chevronRightLeft16Solid"
+    },
+    "chevron-right-left-20-solid": {
+      "codepoint": 57406,
+      "fontFamily": "Sidekickicons",
+      "identifier": "chevronRightLeft20Solid"
+    },
+    "chevron-right-left-solid": {
+      "codepoint": 57407,
+      "fontFamily": "Sidekickicons",
+      "identifier": "chevronRightLeftSolid"
+    },
+    "circle": {
+      "codepoint": 57408,
+      "fontFamily": "Sidekickicons",
+      "identifier": "circle"
+    },
+    "circle-16-solid": {
+      "codepoint": 57409,
+      "fontFamily": "Sidekickicons",
+      "identifier": "circle16Solid"
+    },
+    "circle-20-solid": {
+      "codepoint": 57410,
+      "fontFamily": "Sidekickicons",
+      "identifier": "circle20Solid"
+    },
+    "circle-dashed": {
+      "codepoint": 57411,
+      "fontFamily": "Sidekickicons",
+      "identifier": "circleDashed"
+    },
+    "circle-dashed-16-solid": {
+      "codepoint": 57412,
+      "fontFamily": "Sidekickicons",
+      "identifier": "circleDashed16Solid"
+    },
+    "circle-dashed-20-solid": {
+      "codepoint": 57413,
+      "fontFamily": "Sidekickicons",
+      "identifier": "circleDashed20Solid"
+    },
+    "circle-dashed-solid": {
+      "codepoint": 57414,
+      "fontFamily": "Sidekickicons",
+      "identifier": "circleDashedSolid"
+    },
+    "circle-solid": {
+      "codepoint": 57415,
+      "fontFamily": "Sidekickicons",
+      "identifier": "circleSolid"
+    },
+    "compass": {
+      "codepoint": 57416,
+      "fontFamily": "Sidekickicons",
+      "identifier": "compass"
+    },
+    "compass-16-solid": {
+      "codepoint": 57417,
+      "fontFamily": "Sidekickicons",
+      "identifier": "compass16Solid"
+    },
+    "compass-20-solid": {
+      "codepoint": 57418,
+      "fontFamily": "Sidekickicons",
+      "identifier": "compass20Solid"
+    },
+    "compass-solid": {
+      "codepoint": 57419,
+      "fontFamily": "Sidekickicons",
+      "identifier": "compassSolid"
+    },
+    "computer-laptop": {
+      "codepoint": 57420,
+      "fontFamily": "Sidekickicons",
+      "identifier": "computerLaptop"
+    },
+    "computer-laptop-16-solid": {
+      "codepoint": 57421,
+      "fontFamily": "Sidekickicons",
+      "identifier": "computerLaptop16Solid"
+    },
+    "computer-laptop-20-solid": {
+      "codepoint": 57422,
+      "fontFamily": "Sidekickicons",
+      "identifier": "computerLaptop20Solid"
+    },
+    "computer-laptop-solid": {
+      "codepoint": 57423,
+      "fontFamily": "Sidekickicons",
+      "identifier": "computerLaptopSolid"
+    },
+    "cookie": {
+      "codepoint": 57424,
+      "fontFamily": "Sidekickicons",
+      "identifier": "cookie"
+    },
+    "cookie-16-solid": {
+      "codepoint": 57425,
+      "fontFamily": "Sidekickicons",
+      "identifier": "cookie16Solid"
+    },
+    "cookie-20-solid": {
+      "codepoint": 57426,
+      "fontFamily": "Sidekickicons",
+      "identifier": "cookie20Solid"
+    },
+    "cookie-solid": {
+      "codepoint": 57427,
+      "fontFamily": "Sidekickicons",
+      "identifier": "cookieSolid"
+    },
+    "crown": {
+      "codepoint": 57428,
+      "fontFamily": "Sidekickicons",
+      "identifier": "crown"
+    },
+    "crown-16-solid": {
+      "codepoint": 57429,
+      "fontFamily": "Sidekickicons",
+      "identifier": "crown16Solid"
+    },
+    "crown-20-solid": {
+      "codepoint": 57430,
+      "fontFamily": "Sidekickicons",
+      "identifier": "crown20Solid"
+    },
+    "crown-solid": {
+      "codepoint": 57431,
+      "fontFamily": "Sidekickicons",
+      "identifier": "crownSolid"
+    },
+    "dice": {
+      "codepoint": 57432,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dice"
+    },
+    "dice-16-solid": {
+      "codepoint": 57433,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dice16Solid"
+    },
+    "dice-20-solid": {
+      "codepoint": 57434,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dice20Solid"
+    },
+    "dice-solid": {
+      "codepoint": 57435,
+      "fontFamily": "Sidekickicons",
+      "identifier": "diceSolid"
+    },
+    "dots-2x2": {
+      "codepoint": 57436,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots2x2"
+    },
+    "dots-2x2-16-solid": {
+      "codepoint": 57437,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots2x216Solid"
+    },
+    "dots-2x2-20-solid": {
+      "codepoint": 57438,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots2x220Solid"
+    },
+    "dots-2x2-solid": {
+      "codepoint": 57439,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots2x2Solid"
+    },
+    "dots-2x3": {
+      "codepoint": 57440,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots2x3"
+    },
+    "dots-2x3-16-solid": {
+      "codepoint": 57441,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots2x316Solid"
+    },
+    "dots-2x3-20-solid": {
+      "codepoint": 57442,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots2x320Solid"
+    },
+    "dots-2x3-solid": {
+      "codepoint": 57443,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots2x3Solid"
+    },
+    "dots-3x2": {
+      "codepoint": 57444,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots3x2"
+    },
+    "dots-3x2-16-solid": {
+      "codepoint": 57445,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots3x216Solid"
+    },
+    "dots-3x2-20-solid": {
+      "codepoint": 57446,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots3x220Solid"
+    },
+    "dots-3x2-solid": {
+      "codepoint": 57447,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots3x2Solid"
+    },
+    "dots-3x3": {
+      "codepoint": 57448,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots3x3"
+    },
+    "dots-3x3-16-solid": {
+      "codepoint": 57449,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots3x316Solid"
+    },
+    "dots-3x3-20-solid": {
+      "codepoint": 57450,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots3x320Solid"
+    },
+    "dots-3x3-solid": {
+      "codepoint": 57451,
+      "fontFamily": "Sidekickicons",
+      "identifier": "dots3x3Solid"
+    },
+    "face-meh": {
+      "codepoint": 57452,
+      "fontFamily": "Sidekickicons",
+      "identifier": "faceMeh"
+    },
+    "face-meh-16-solid": {
+      "codepoint": 57453,
+      "fontFamily": "Sidekickicons",
+      "identifier": "faceMeh16Solid"
+    },
+    "face-meh-20-solid": {
+      "codepoint": 57454,
+      "fontFamily": "Sidekickicons",
+      "identifier": "faceMeh20Solid"
+    },
+    "face-meh-solid": {
+      "codepoint": 57455,
+      "fontFamily": "Sidekickicons",
+      "identifier": "faceMehSolid"
+    },
+    "face-smile-plus": {
+      "codepoint": 57456,
+      "fontFamily": "Sidekickicons",
+      "identifier": "faceSmilePlus"
+    },
+    "face-smile-plus-16-solid": {
+      "codepoint": 57457,
+      "fontFamily": "Sidekickicons",
+      "identifier": "faceSmilePlus16Solid"
+    },
+    "face-smile-plus-20-solid": {
+      "codepoint": 57458,
+      "fontFamily": "Sidekickicons",
+      "identifier": "faceSmilePlus20Solid"
+    },
+    "face-smile-plus-solid": {
+      "codepoint": 57459,
+      "fontFamily": "Sidekickicons",
+      "identifier": "faceSmilePlusSolid"
+    },
+    "floppy-disk": {
+      "codepoint": 57460,
+      "fontFamily": "Sidekickicons",
+      "identifier": "floppyDisk"
+    },
+    "floppy-disk-16-solid": {
+      "codepoint": 57461,
+      "fontFamily": "Sidekickicons",
+      "identifier": "floppyDisk16Solid"
+    },
+    "floppy-disk-20-solid": {
+      "codepoint": 57462,
+      "fontFamily": "Sidekickicons",
+      "identifier": "floppyDisk20Solid"
+    },
+    "floppy-disk-solid": {
+      "codepoint": 57463,
+      "fontFamily": "Sidekickicons",
+      "identifier": "floppyDiskSolid"
+    },
+    "gamepad": {
+      "codepoint": 57464,
+      "fontFamily": "Sidekickicons",
+      "identifier": "gamepad"
+    },
+    "gamepad-16-solid": {
+      "codepoint": 57465,
+      "fontFamily": "Sidekickicons",
+      "identifier": "gamepad16Solid"
+    },
+    "gamepad-20-solid": {
+      "codepoint": 57466,
+      "fontFamily": "Sidekickicons",
+      "identifier": "gamepad20Solid"
+    },
+    "gamepad-solid": {
+      "codepoint": 57467,
+      "fontFamily": "Sidekickicons",
+      "identifier": "gamepadSolid"
+    },
+    "h4": {
+      "codepoint": 57468,
+      "fontFamily": "Sidekickicons",
+      "identifier": "h4"
+    },
+    "h4-16-solid": {
+      "codepoint": 57469,
+      "fontFamily": "Sidekickicons",
+      "identifier": "h416Solid"
+    },
+    "h4-20-solid": {
+      "codepoint": 57470,
+      "fontFamily": "Sidekickicons",
+      "identifier": "h420Solid"
+    },
+    "h4-solid": {
+      "codepoint": 57471,
+      "fontFamily": "Sidekickicons",
+      "identifier": "h4Solid"
+    },
+    "h5": {
+      "codepoint": 57472,
+      "fontFamily": "Sidekickicons",
+      "identifier": "h5"
+    },
+    "h5-16-solid": {
+      "codepoint": 57473,
+      "fontFamily": "Sidekickicons",
+      "identifier": "h516Solid"
+    },
+    "h5-20-solid": {
+      "codepoint": 57474,
+      "fontFamily": "Sidekickicons",
+      "identifier": "h520Solid"
+    },
+    "h5-solid": {
+      "codepoint": 57475,
+      "fontFamily": "Sidekickicons",
+      "identifier": "h5Solid"
+    },
+    "h6": {
+      "codepoint": 57476,
+      "fontFamily": "Sidekickicons",
+      "identifier": "h6"
+    },
+    "h6-16-solid": {
+      "codepoint": 57477,
+      "fontFamily": "Sidekickicons",
+      "identifier": "h616Solid"
+    },
+    "h6-20-solid": {
+      "codepoint": 57478,
+      "fontFamily": "Sidekickicons",
+      "identifier": "h620Solid"
+    },
+    "h6-solid": {
+      "codepoint": 57479,
+      "fontFamily": "Sidekickicons",
+      "identifier": "h6Solid"
+    },
+    "heading": {
+      "codepoint": 57480,
+      "fontFamily": "Sidekickicons",
+      "identifier": "heading"
+    },
+    "heading-16-solid": {
+      "codepoint": 57481,
+      "fontFamily": "Sidekickicons",
+      "identifier": "heading16Solid"
+    },
+    "heading-20-solid": {
+      "codepoint": 57482,
+      "fontFamily": "Sidekickicons",
+      "identifier": "heading20Solid"
+    },
+    "heading-solid": {
+      "codepoint": 57483,
+      "fontFamily": "Sidekickicons",
+      "identifier": "headingSolid"
+    },
+    "headphones": {
+      "codepoint": 57484,
+      "fontFamily": "Sidekickicons",
+      "identifier": "headphones"
+    },
+    "headphones-16-solid": {
+      "codepoint": 57485,
+      "fontFamily": "Sidekickicons",
+      "identifier": "headphones16Solid"
+    },
+    "headphones-20-solid": {
+      "codepoint": 57486,
+      "fontFamily": "Sidekickicons",
+      "identifier": "headphones20Solid"
+    },
+    "headphones-slash": {
+      "codepoint": 57487,
+      "fontFamily": "Sidekickicons",
+      "identifier": "headphonesSlash"
+    },
+    "headphones-slash-16-solid": {
+      "codepoint": 57488,
+      "fontFamily": "Sidekickicons",
+      "identifier": "headphonesSlash16Solid"
+    },
+    "headphones-slash-20-solid": {
+      "codepoint": 57489,
+      "fontFamily": "Sidekickicons",
+      "identifier": "headphonesSlash20Solid"
+    },
+    "headphones-slash-solid": {
+      "codepoint": 57490,
+      "fontFamily": "Sidekickicons",
+      "identifier": "headphonesSlashSolid"
+    },
+    "headphones-solid": {
+      "codepoint": 57491,
+      "fontFamily": "Sidekickicons",
+      "identifier": "headphonesSolid"
+    },
+    "indent": {
+      "codepoint": 57492,
+      "fontFamily": "Sidekickicons",
+      "identifier": "indent"
+    },
+    "indent-16-solid": {
+      "codepoint": 57493,
+      "fontFamily": "Sidekickicons",
+      "identifier": "indent16Solid"
+    },
+    "indent-20-solid": {
+      "codepoint": 57494,
+      "fontFamily": "Sidekickicons",
+      "identifier": "indent20Solid"
+    },
+    "indent-solid": {
+      "codepoint": 57495,
+      "fontFamily": "Sidekickicons",
+      "identifier": "indentSolid"
+    },
+    "lettered-list": {
+      "codepoint": 57496,
+      "fontFamily": "Sidekickicons",
+      "identifier": "letteredList"
+    },
+    "lettered-list-16-solid": {
+      "codepoint": 57497,
+      "fontFamily": "Sidekickicons",
+      "identifier": "letteredList16Solid"
+    },
+    "lettered-list-20-solid": {
+      "codepoint": 57498,
+      "fontFamily": "Sidekickicons",
+      "identifier": "letteredList20Solid"
+    },
+    "lettered-list-solid": {
+      "codepoint": 57499,
+      "fontFamily": "Sidekickicons",
+      "identifier": "letteredListSolid"
+    },
+    "lock-semi-open": {
+      "codepoint": 57500,
+      "fontFamily": "Sidekickicons",
+      "identifier": "lockSemiOpen"
+    },
+    "lock-semi-open-16-solid": {
+      "codepoint": 57501,
+      "fontFamily": "Sidekickicons",
+      "identifier": "lockSemiOpen16Solid"
+    },
+    "lock-semi-open-20-solid": {
+      "codepoint": 57502,
+      "fontFamily": "Sidekickicons",
+      "identifier": "lockSemiOpen20Solid"
+    },
+    "lock-semi-open-solid": {
+      "codepoint": 57503,
+      "fontFamily": "Sidekickicons",
+      "identifier": "lockSemiOpenSolid"
+    },
+    "mask": {
+      "codepoint": 57504,
+      "fontFamily": "Sidekickicons",
+      "identifier": "mask"
+    },
+    "mask-16-solid": {
+      "codepoint": 57505,
+      "fontFamily": "Sidekickicons",
+      "identifier": "mask16Solid"
+    },
+    "mask-20-solid": {
+      "codepoint": 57506,
+      "fontFamily": "Sidekickicons",
+      "identifier": "mask20Solid"
+    },
+    "mask-solid": {
+      "codepoint": 57507,
+      "fontFamily": "Sidekickicons",
+      "identifier": "maskSolid"
+    },
+    "microphone-slash": {
+      "codepoint": 57508,
+      "fontFamily": "Sidekickicons",
+      "identifier": "microphoneSlash"
+    },
+    "microphone-slash-16-solid": {
+      "codepoint": 57509,
+      "fontFamily": "Sidekickicons",
+      "identifier": "microphoneSlash16Solid"
+    },
+    "microphone-slash-20-solid": {
+      "codepoint": 57510,
+      "fontFamily": "Sidekickicons",
+      "identifier": "microphoneSlash20Solid"
+    },
+    "microphone-slash-solid": {
+      "codepoint": 57511,
+      "fontFamily": "Sidekickicons",
+      "identifier": "microphoneSlashSolid"
+    },
+    "outdent": {
+      "codepoint": 57512,
+      "fontFamily": "Sidekickicons",
+      "identifier": "outdent"
+    },
+    "outdent-16-solid": {
+      "codepoint": 57513,
+      "fontFamily": "Sidekickicons",
+      "identifier": "outdent16Solid"
+    },
+    "outdent-20-solid": {
+      "codepoint": 57514,
+      "fontFamily": "Sidekickicons",
+      "identifier": "outdent20Solid"
+    },
+    "outdent-solid": {
+      "codepoint": 57515,
+      "fontFamily": "Sidekickicons",
+      "identifier": "outdentSolid"
+    },
+    "password": {
+      "codepoint": 57516,
+      "fontFamily": "Sidekickicons",
+      "identifier": "password"
+    },
+    "password-16-solid": {
+      "codepoint": 57517,
+      "fontFamily": "Sidekickicons",
+      "identifier": "password16Solid"
+    },
+    "password-20-solid": {
+      "codepoint": 57518,
+      "fontFamily": "Sidekickicons",
+      "identifier": "password20Solid"
+    },
+    "password-pencil": {
+      "codepoint": 57519,
+      "fontFamily": "Sidekickicons",
+      "identifier": "passwordPencil"
+    },
+    "password-pencil-16-solid": {
+      "codepoint": 57520,
+      "fontFamily": "Sidekickicons",
+      "identifier": "passwordPencil16Solid"
+    },
+    "password-pencil-20-solid": {
+      "codepoint": 57521,
+      "fontFamily": "Sidekickicons",
+      "identifier": "passwordPencil20Solid"
+    },
+    "password-pencil-solid": {
+      "codepoint": 57522,
+      "fontFamily": "Sidekickicons",
+      "identifier": "passwordPencilSolid"
+    },
+    "password-solid": {
+      "codepoint": 57523,
+      "fontFamily": "Sidekickicons",
+      "identifier": "passwordSolid"
+    },
+    "photo-plus": {
+      "codepoint": 57524,
+      "fontFamily": "Sidekickicons",
+      "identifier": "photoPlus"
+    },
+    "photo-plus-16-solid": {
+      "codepoint": 57525,
+      "fontFamily": "Sidekickicons",
+      "identifier": "photoPlus16Solid"
+    },
+    "photo-plus-20-solid": {
+      "codepoint": 57526,
+      "fontFamily": "Sidekickicons",
+      "identifier": "photoPlus20Solid"
+    },
+    "photo-plus-solid": {
+      "codepoint": 57527,
+      "fontFamily": "Sidekickicons",
+      "identifier": "photoPlusSolid"
+    },
+    "pilcrow": {
+      "codepoint": 57528,
+      "fontFamily": "Sidekickicons",
+      "identifier": "pilcrow"
+    },
+    "pilcrow-16-solid": {
+      "codepoint": 57529,
+      "fontFamily": "Sidekickicons",
+      "identifier": "pilcrow16Solid"
+    },
+    "pilcrow-20-solid": {
+      "codepoint": 57530,
+      "fontFamily": "Sidekickicons",
+      "identifier": "pilcrow20Solid"
+    },
+    "pilcrow-solid": {
+      "codepoint": 57531,
+      "fontFamily": "Sidekickicons",
+      "identifier": "pilcrowSolid"
+    },
+    "pin": {
+      "codepoint": 57532,
+      "fontFamily": "Sidekickicons",
+      "identifier": "pin"
+    },
+    "pin-16-solid": {
+      "codepoint": 57533,
+      "fontFamily": "Sidekickicons",
+      "identifier": "pin16Solid"
+    },
+    "pin-20-solid": {
+      "codepoint": 57534,
+      "fontFamily": "Sidekickicons",
+      "identifier": "pin20Solid"
+    },
+    "pin-slash": {
+      "codepoint": 57535,
+      "fontFamily": "Sidekickicons",
+      "identifier": "pinSlash"
+    },
+    "pin-slash-16-solid": {
+      "codepoint": 57536,
+      "fontFamily": "Sidekickicons",
+      "identifier": "pinSlash16Solid"
+    },
+    "pin-slash-20-solid": {
+      "codepoint": 57537,
+      "fontFamily": "Sidekickicons",
+      "identifier": "pinSlash20Solid"
+    },
+    "pin-slash-solid": {
+      "codepoint": 57538,
+      "fontFamily": "Sidekickicons",
+      "identifier": "pinSlashSolid"
+    },
+    "pin-solid": {
+      "codepoint": 57539,
+      "fontFamily": "Sidekickicons",
+      "identifier": "pinSolid"
+    },
+    "quotation-mark": {
+      "codepoint": 57540,
+      "fontFamily": "Sidekickicons",
+      "identifier": "quotationMark"
+    },
+    "quotation-mark-16-solid": {
+      "codepoint": 57541,
+      "fontFamily": "Sidekickicons",
+      "identifier": "quotationMark16Solid"
+    },
+    "quotation-mark-20-solid": {
+      "codepoint": 57542,
+      "fontFamily": "Sidekickicons",
+      "identifier": "quotationMark20Solid"
+    },
+    "quotation-mark-solid": {
+      "codepoint": 57543,
+      "fontFamily": "Sidekickicons",
+      "identifier": "quotationMarkSolid"
+    },
+    "radial-rays": {
+      "codepoint": 57544,
+      "fontFamily": "Sidekickicons",
+      "identifier": "radialRays"
+    },
+    "radial-rays-16-solid": {
+      "codepoint": 57545,
+      "fontFamily": "Sidekickicons",
+      "identifier": "radialRays16Solid"
+    },
+    "radial-rays-20-solid": {
+      "codepoint": 57546,
+      "fontFamily": "Sidekickicons",
+      "identifier": "radialRays20Solid"
+    },
+    "radial-rays-solid": {
+      "codepoint": 57547,
+      "fontFamily": "Sidekickicons",
+      "identifier": "radialRaysSolid"
+    },
+    "robot": {
+      "codepoint": 57548,
+      "fontFamily": "Sidekickicons",
+      "identifier": "robot"
+    },
+    "robot-16-solid": {
+      "codepoint": 57549,
+      "fontFamily": "Sidekickicons",
+      "identifier": "robot16Solid"
+    },
+    "robot-20-solid": {
+      "codepoint": 57550,
+      "fontFamily": "Sidekickicons",
+      "identifier": "robot20Solid"
+    },
+    "robot-solid": {
+      "codepoint": 57551,
+      "fontFamily": "Sidekickicons",
+      "identifier": "robotSolid"
+    },
+    "shield": {
+      "codepoint": 57552,
+      "fontFamily": "Sidekickicons",
+      "identifier": "shield"
+    },
+    "shield-16-solid": {
+      "codepoint": 57553,
+      "fontFamily": "Sidekickicons",
+      "identifier": "shield16Solid"
+    },
+    "shield-20-solid": {
+      "codepoint": 57554,
+      "fontFamily": "Sidekickicons",
+      "identifier": "shield20Solid"
+    },
+    "shield-solid": {
+      "codepoint": 57555,
+      "fontFamily": "Sidekickicons",
+      "identifier": "shieldSolid"
+    },
+    "sidebar-left": {
+      "codepoint": 57556,
+      "fontFamily": "Sidekickicons",
+      "identifier": "sidebarLeft"
+    },
+    "sidebar-left-16-solid": {
+      "codepoint": 57557,
+      "fontFamily": "Sidekickicons",
+      "identifier": "sidebarLeft16Solid"
+    },
+    "sidebar-left-20-solid": {
+      "codepoint": 57558,
+      "fontFamily": "Sidekickicons",
+      "identifier": "sidebarLeft20Solid"
+    },
+    "sidebar-left-solid": {
+      "codepoint": 57559,
+      "fontFamily": "Sidekickicons",
+      "identifier": "sidebarLeftSolid"
+    },
+    "sidebar-right": {
+      "codepoint": 57560,
+      "fontFamily": "Sidekickicons",
+      "identifier": "sidebarRight"
+    },
+    "sidebar-right-16-solid": {
+      "codepoint": 57561,
+      "fontFamily": "Sidekickicons",
+      "identifier": "sidebarRight16Solid"
+    },
+    "sidebar-right-20-solid": {
+      "codepoint": 57562,
+      "fontFamily": "Sidekickicons",
+      "identifier": "sidebarRight20Solid"
+    },
+    "sidebar-right-solid": {
+      "codepoint": 57563,
+      "fontFamily": "Sidekickicons",
+      "identifier": "sidebarRightSolid"
+    },
+    "square": {
+      "codepoint": 57564,
+      "fontFamily": "Sidekickicons",
+      "identifier": "square"
+    },
+    "square-16-solid": {
+      "codepoint": 57565,
+      "fontFamily": "Sidekickicons",
+      "identifier": "square16Solid"
+    },
+    "square-20-solid": {
+      "codepoint": 57566,
+      "fontFamily": "Sidekickicons",
+      "identifier": "square20Solid"
+    },
+    "square-solid": {
+      "codepoint": 57567,
+      "fontFamily": "Sidekickicons",
+      "identifier": "squareSolid"
+    },
+    "triangle": {
+      "codepoint": 57568,
+      "fontFamily": "Sidekickicons",
+      "identifier": "triangle"
+    },
+    "triangle-16-solid": {
+      "codepoint": 57569,
+      "fontFamily": "Sidekickicons",
+      "identifier": "triangle16Solid"
+    },
+    "triangle-20-solid": {
+      "codepoint": 57570,
+      "fontFamily": "Sidekickicons",
+      "identifier": "triangle20Solid"
+    },
+    "triangle-solid": {
+      "codepoint": 57571,
+      "fontFamily": "Sidekickicons",
+      "identifier": "triangleSolid"
+    },
+    "view-split": {
+      "codepoint": 57572,
+      "fontFamily": "Sidekickicons",
+      "identifier": "viewSplit"
+    },
+    "view-split-16-solid": {
+      "codepoint": 57573,
+      "fontFamily": "Sidekickicons",
+      "identifier": "viewSplit16Solid"
+    },
+    "view-split-20-solid": {
+      "codepoint": 57574,
+      "fontFamily": "Sidekickicons",
+      "identifier": "viewSplit20Solid"
+    },
+    "view-split-solid": {
+      "codepoint": 57575,
+      "fontFamily": "Sidekickicons",
+      "identifier": "viewSplitSolid"
+    }
+  }
+}

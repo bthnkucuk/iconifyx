@@ -1,0 +1,3340 @@
+{
+  "schemaVersion": 1,
+  "prefix": "streamline-pixel",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 16px / 32px",
+  "subPackage": "iconifyx_streamline_pixel",
+  "info": {
+    "name": "Pixel free icons",
+    "author": {
+      "name": "Streamline",
+      "url": "https://github.com/webalys-hq/streamline-vectors"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 662
+  },
+  "fonts": [
+    {
+      "family": "StreamlinePixel",
+      "nextCodepoint": 58006,
+      "iconCount": 662
+    }
+  ],
+  "icons": {
+    "beauty-barber-light-sign": {
+      "codepoint": 57344,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "beautyBarberLightSign"
+    },
+    "beauty-beard-style": {
+      "codepoint": 57345,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "beautyBeardStyle"
+    },
+    "beauty-body-care-snail": {
+      "codepoint": 57346,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "beautyBodyCareSnail"
+    },
+    "beauty-body-care-sun-screen": {
+      "codepoint": 57347,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "beautyBodyCareSunScreen"
+    },
+    "beauty-cosmatic-brush-set": {
+      "codepoint": 57348,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "beautyCosmaticBrushSet"
+    },
+    "beauty-cosmatic-lip-stick": {
+      "codepoint": 57349,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "beautyCosmaticLipStick"
+    },
+    "beauty-healthy-food-dish": {
+      "codepoint": 57350,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "beautyHealthyFoodDish"
+    },
+    "beauty-mirror-1": {
+      "codepoint": 57351,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "beautyMirror1"
+    },
+    "beauty-mirror-2": {
+      "codepoint": 57352,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "beautyMirror2"
+    },
+    "beauty-nail-polish": {
+      "codepoint": 57353,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "beautyNailPolish"
+    },
+    "beauty-perfume-1": {
+      "codepoint": 57354,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "beautyPerfume1"
+    },
+    "beauty-perfume-2": {
+      "codepoint": 57355,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "beautyPerfume2"
+    },
+    "building-real-eastate-deal-documant": {
+      "codepoint": 57356,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "buildingRealEastateDealDocumant"
+    },
+    "building-real-eastate-for-sale": {
+      "codepoint": 57357,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "buildingRealEastateForSale"
+    },
+    "building-real-eastate-house-1": {
+      "codepoint": 57358,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "buildingRealEastateHouse1"
+    },
+    "building-real-eastate-house-2": {
+      "codepoint": 57359,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "buildingRealEastateHouse2"
+    },
+    "building-real-eastate-houses-location": {
+      "codepoint": 57360,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "buildingRealEastateHousesLocation"
+    },
+    "building-real-eastate-location": {
+      "codepoint": 57361,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "buildingRealEastateLocation"
+    },
+    "building-real-eastate-project-blueprint": {
+      "codepoint": 57362,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "buildingRealEastateProjectBlueprint"
+    },
+    "building-real-eastate-sign-for-rent": {
+      "codepoint": 57363,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "buildingRealEastateSignForRent"
+    },
+    "building-real-eastate-sign-house-1": {
+      "codepoint": 57364,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "buildingRealEastateSignHouse1"
+    },
+    "building-real-eastate-sign-house-2": {
+      "codepoint": 57365,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "buildingRealEastateSignHouse2"
+    },
+    "building-real-eastate-storage": {
+      "codepoint": 57366,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "buildingRealEastateStorage"
+    },
+    "business-money-coin-currency": {
+      "codepoint": 57367,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessMoneyCoinCurrency"
+    },
+    "business-prodect-diamond": {
+      "codepoint": 57368,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProdectDiamond"
+    },
+    "business-product-check": {
+      "codepoint": 57369,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductCheck"
+    },
+    "business-product-piggy-bank": {
+      "codepoint": 57370,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductPiggyBank"
+    },
+    "business-product-price-tag": {
+      "codepoint": 57371,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductPriceTag"
+    },
+    "business-product-report-present-grahp": {
+      "codepoint": 57372,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductReportPresentGrahp"
+    },
+    "business-product-scale": {
+      "codepoint": 57373,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductScale"
+    },
+    "business-product-startup-1": {
+      "codepoint": 57374,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductStartup1"
+    },
+    "business-product-startup-2": {
+      "codepoint": 57375,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductStartup2"
+    },
+    "business-product-target": {
+      "codepoint": 57376,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductTarget"
+    },
+    "business-products-bag": {
+      "codepoint": 57377,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsBag"
+    },
+    "business-products-bag-1": {
+      "codepoint": 57378,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsBag1"
+    },
+    "business-products-bag-money": {
+      "codepoint": 57379,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsBagMoney"
+    },
+    "business-products-boat-success": {
+      "codepoint": 57380,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsBoatSuccess"
+    },
+    "business-products-cash-search": {
+      "codepoint": 57381,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsCashSearch"
+    },
+    "business-products-cash-shield": {
+      "codepoint": 57382,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsCashShield"
+    },
+    "business-products-cash-user-man-message": {
+      "codepoint": 57383,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsCashUserManMessage"
+    },
+    "business-products-climb-top": {
+      "codepoint": 57384,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsClimbTop"
+    },
+    "business-products-data-file-bars": {
+      "codepoint": 57385,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsDataFileBars"
+    },
+    "business-products-deal-handshake": {
+      "codepoint": 57386,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsDealHandshake"
+    },
+    "business-products-factory": {
+      "codepoint": 57387,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsFactory"
+    },
+    "business-products-magic-rabbit": {
+      "codepoint": 57388,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsMagicRabbit"
+    },
+    "business-products-money": {
+      "codepoint": 57389,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsMoney"
+    },
+    "business-products-network-user": {
+      "codepoint": 57390,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsNetworkUser"
+    },
+    "business-products-performance-money-decrease": {
+      "codepoint": 57391,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsPerformanceMoneyDecrease"
+    },
+    "business-products-performance-money-increase": {
+      "codepoint": 57392,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsPerformanceMoneyIncrease"
+    },
+    "business-products-safe": {
+      "codepoint": 57393,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsSafe"
+    },
+    "business-products-treasure": {
+      "codepoint": 57394,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsTreasure"
+    },
+    "business-products-wallet-money": {
+      "codepoint": 57395,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "businessProductsWalletMoney"
+    },
+    "change-clean-energy": {
+      "codepoint": 57396,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "changeCleanEnergy"
+    },
+    "chat-email": {
+      "codepoint": 57397,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "chatEmail"
+    },
+    "coding-app-website-ui": {
+      "codepoint": 57398,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppWebsiteUi"
+    },
+    "coding-apps-websites": {
+      "codepoint": 57399,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsites"
+    },
+    "coding-apps-websites-404-error": {
+      "codepoint": 57400,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsites404Error"
+    },
+    "coding-apps-websites-android": {
+      "codepoint": 57401,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesAndroid"
+    },
+    "coding-apps-websites-browser-bugs-2": {
+      "codepoint": 57402,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesBrowserBugs2"
+    },
+    "coding-apps-websites-conference": {
+      "codepoint": 57403,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesConference"
+    },
+    "coding-apps-websites-constuction": {
+      "codepoint": 57404,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesConstuction"
+    },
+    "coding-apps-websites-database": {
+      "codepoint": 57405,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesDatabase"
+    },
+    "coding-apps-websites-dinosaur-error": {
+      "codepoint": 57406,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesDinosaurError"
+    },
+    "coding-apps-websites-favorite-rate": {
+      "codepoint": 57407,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesFavoriteRate"
+    },
+    "coding-apps-websites-finder": {
+      "codepoint": 57408,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesFinder"
+    },
+    "coding-apps-websites-firewall": {
+      "codepoint": 57409,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesFirewall"
+    },
+    "coding-apps-websites-live-status": {
+      "codepoint": 57410,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesLiveStatus"
+    },
+    "coding-apps-websites-mobile": {
+      "codepoint": 57411,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesMobile"
+    },
+    "coding-apps-websites-module": {
+      "codepoint": 57412,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesModule"
+    },
+    "coding-apps-websites-music-player": {
+      "codepoint": 57413,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesMusicPlayer"
+    },
+    "coding-apps-websites-phone-tablet": {
+      "codepoint": 57414,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesPhoneTablet"
+    },
+    "coding-apps-websites-plugin": {
+      "codepoint": 57415,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesPlugin"
+    },
+    "coding-apps-websites-programming-browser": {
+      "codepoint": 57416,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesProgrammingBrowser"
+    },
+    "coding-apps-websites-programming-browser-bugs-1": {
+      "codepoint": 57417,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesProgrammingBrowserBugs1"
+    },
+    "coding-apps-websites-programming-bug": {
+      "codepoint": 57418,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesProgrammingBug"
+    },
+    "coding-apps-websites-programming-hold-code": {
+      "codepoint": 57419,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesProgrammingHoldCode"
+    },
+    "coding-apps-websites-search-bug": {
+      "codepoint": 57420,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesSearchBug"
+    },
+    "coding-apps-websites-setting-computer": {
+      "codepoint": 57421,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesSettingComputer"
+    },
+    "coding-apps-websites-shield-lock": {
+      "codepoint": 57422,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesShieldLock"
+    },
+    "coding-apps-websites-solves": {
+      "codepoint": 57423,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "codingAppsWebsitesSolves"
+    },
+    "computer-old-electronics": {
+      "codepoint": 57424,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computerOldElectronics"
+    },
+    "computer-old-electronics-bug": {
+      "codepoint": 57425,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computerOldElectronicsBug"
+    },
+    "computers-devices-electronics-battery-charge": {
+      "codepoint": 57426,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsBatteryCharge"
+    },
+    "computers-devices-electronics-board": {
+      "codepoint": 57427,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsBoard"
+    },
+    "computers-devices-electronics-chipset": {
+      "codepoint": 57428,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsChipset"
+    },
+    "computers-devices-electronics-click-select-tablet": {
+      "codepoint": 57429,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsClickSelectTablet"
+    },
+    "computers-devices-electronics-desktop": {
+      "codepoint": 57430,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsDesktop"
+    },
+    "computers-devices-electronics-earpod-sound": {
+      "codepoint": 57431,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsEarpodSound"
+    },
+    "computers-devices-electronics-flash-drive-1": {
+      "codepoint": 57432,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsFlashDrive1"
+    },
+    "computers-devices-electronics-flash-drive-2": {
+      "codepoint": 57433,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsFlashDrive2"
+    },
+    "computers-devices-electronics-graphic-tablet": {
+      "codepoint": 57434,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsGraphicTablet"
+    },
+    "computers-devices-electronics-graphic-tablet-draw": {
+      "codepoint": 57435,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsGraphicTabletDraw"
+    },
+    "computers-devices-electronics-harddisk": {
+      "codepoint": 57436,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsHarddisk"
+    },
+    "computers-devices-electronics-keyboard": {
+      "codepoint": 57437,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsKeyboard"
+    },
+    "computers-devices-electronics-keyboard-button": {
+      "codepoint": 57438,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsKeyboardButton"
+    },
+    "computers-devices-electronics-keyboard-pad": {
+      "codepoint": 57439,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsKeyboardPad"
+    },
+    "computers-devices-electronics-keyboard-wireless": {
+      "codepoint": 57440,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsKeyboardWireless"
+    },
+    "computers-devices-electronics-laptop": {
+      "codepoint": 57441,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsLaptop"
+    },
+    "computers-devices-electronics-memory": {
+      "codepoint": 57442,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsMemory"
+    },
+    "computers-devices-electronics-mobile-qr-scan": {
+      "codepoint": 57443,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsMobileQrScan"
+    },
+    "computers-devices-electronics-monitor": {
+      "codepoint": 57444,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsMonitor"
+    },
+    "computers-devices-electronics-mouse": {
+      "codepoint": 57445,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsMouse"
+    },
+    "computers-devices-electronics-smart-watch": {
+      "codepoint": 57446,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsSmartWatch"
+    },
+    "computers-devices-electronics-tablet": {
+      "codepoint": 57447,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsTablet"
+    },
+    "computers-devices-electronics-tape-cassette": {
+      "codepoint": 57448,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsTapeCassette"
+    },
+    "computers-devices-electronics-television-vintage": {
+      "codepoint": 57449,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsTelevisionVintage"
+    },
+    "computers-devices-electronics-vintage-mac": {
+      "codepoint": 57450,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsVintageMac"
+    },
+    "computers-devices-electronics-webcam": {
+      "codepoint": 57451,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsWebcam"
+    },
+    "computers-devices-electronicscd-disk": {
+      "codepoint": 57452,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicscdDisk"
+    },
+    "computers-devices-electronicsmicrochip-board": {
+      "codepoint": 57453,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "computersDevicesElectronicsmicrochipBoard"
+    },
+    "construction-building-real-eastate": {
+      "codepoint": 57454,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "constructionBuildingRealEastate"
+    },
+    "content-files-archive-books-1": {
+      "codepoint": 57455,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesArchiveBooks1"
+    },
+    "content-files-archive-books-2": {
+      "codepoint": 57456,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesArchiveBooks2"
+    },
+    "content-files-archive-books-3": {
+      "codepoint": 57457,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesArchiveBooks3"
+    },
+    "content-files-book": {
+      "codepoint": 57458,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesBook"
+    },
+    "content-files-book-library": {
+      "codepoint": 57459,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesBookLibrary"
+    },
+    "content-files-books-1": {
+      "codepoint": 57460,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesBooks1"
+    },
+    "content-files-books-2": {
+      "codepoint": 57461,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesBooks2"
+    },
+    "content-files-close-book-bookmark": {
+      "codepoint": 57462,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesCloseBookBookmark"
+    },
+    "content-files-draw-content": {
+      "codepoint": 57463,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesDrawContent"
+    },
+    "content-files-favorite-book": {
+      "codepoint": 57464,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesFavoriteBook"
+    },
+    "content-files-folder-open": {
+      "codepoint": 57465,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesFolderOpen"
+    },
+    "content-files-newspaper": {
+      "codepoint": 57466,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesNewspaper"
+    },
+    "content-files-note": {
+      "codepoint": 57467,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesNote"
+    },
+    "content-files-note-book": {
+      "codepoint": 57468,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesNoteBook"
+    },
+    "content-files-notepad": {
+      "codepoint": 57469,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesNotepad"
+    },
+    "content-files-open-book": {
+      "codepoint": 57470,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesOpenBook"
+    },
+    "content-files-open-book-bookmark": {
+      "codepoint": 57471,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesOpenBookBookmark"
+    },
+    "content-files-pdf": {
+      "codepoint": 57472,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesPdf"
+    },
+    "content-files-pen": {
+      "codepoint": 57473,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesPen"
+    },
+    "content-files-pencil-brush": {
+      "codepoint": 57474,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesPencilBrush"
+    },
+    "content-files-pencil-ruler": {
+      "codepoint": 57475,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesPencilRuler"
+    },
+    "content-files-phone-book": {
+      "codepoint": 57476,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesPhoneBook"
+    },
+    "content-files-quill-ink": {
+      "codepoint": 57477,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesQuillInk"
+    },
+    "content-files-sticky-notepad-1": {
+      "codepoint": 57478,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesStickyNotepad1"
+    },
+    "content-files-sticky-notepad-2": {
+      "codepoint": 57479,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesStickyNotepad2"
+    },
+    "content-files-typing-machine": {
+      "codepoint": 57480,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesTypingMachine"
+    },
+    "content-files-write-note": {
+      "codepoint": 57481,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "contentFilesWriteNote"
+    },
+    "cursor-hand": {
+      "codepoint": 57482,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "cursorHand"
+    },
+    "design-artboard-shapes": {
+      "codepoint": 57483,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designArtboardShapes"
+    },
+    "design-color-brush-paint": {
+      "codepoint": 57484,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designColorBrushPaint"
+    },
+    "design-color-bucket": {
+      "codepoint": 57485,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designColorBucket"
+    },
+    "design-color-bucket-brush": {
+      "codepoint": 57486,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designColorBucketBrush"
+    },
+    "design-color-painting-palette": {
+      "codepoint": 57487,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designColorPaintingPalette"
+    },
+    "design-color-palette-sample": {
+      "codepoint": 57488,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designColorPaletteSample"
+    },
+    "design-color-spray": {
+      "codepoint": 57489,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designColorSpray"
+    },
+    "design-color-tube-pastel": {
+      "codepoint": 57490,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designColorTubePastel"
+    },
+    "design-crop-edit-picture": {
+      "codepoint": 57491,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designCropEditPicture"
+    },
+    "design-drawing-board": {
+      "codepoint": 57492,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designDrawingBoard"
+    },
+    "design-dropper-1": {
+      "codepoint": 57493,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designDropper1"
+    },
+    "design-dropper-2": {
+      "codepoint": 57494,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designDropper2"
+    },
+    "design-half-circle-ruler": {
+      "codepoint": 57495,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designHalfCircleRuler"
+    },
+    "design-hilight": {
+      "codepoint": 57496,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designHilight"
+    },
+    "design-ink-pen": {
+      "codepoint": 57497,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designInkPen"
+    },
+    "design-layer": {
+      "codepoint": 57498,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designLayer"
+    },
+    "design-magic-wand": {
+      "codepoint": 57499,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designMagicWand"
+    },
+    "design-pencil": {
+      "codepoint": 57500,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designPencil"
+    },
+    "design-ruler": {
+      "codepoint": 57501,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designRuler"
+    },
+    "design-stamp": {
+      "codepoint": 57502,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designStamp"
+    },
+    "design-vectors-pen-new-anchor": {
+      "codepoint": 57503,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "designVectorsPenNewAnchor"
+    },
+    "ecology-bush": {
+      "codepoint": 57504,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyBush"
+    },
+    "ecology-cactus": {
+      "codepoint": 57505,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyCactus"
+    },
+    "ecology-clean-battery": {
+      "codepoint": 57506,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyCleanBattery"
+    },
+    "ecology-clean-car-cable-charge": {
+      "codepoint": 57507,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyCleanCarCableCharge"
+    },
+    "ecology-global-house": {
+      "codepoint": 57508,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyGlobalHouse"
+    },
+    "ecology-global-warming-globe": {
+      "codepoint": 57509,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyGlobalWarmingGlobe"
+    },
+    "ecology-global-warming-globe-fire": {
+      "codepoint": 57510,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyGlobalWarmingGlobeFire"
+    },
+    "ecology-gmo-food-fruit": {
+      "codepoint": 57511,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyGmoFoodFruit"
+    },
+    "ecology-growth-plant": {
+      "codepoint": 57512,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyGrowthPlant"
+    },
+    "ecology-leaf-bug": {
+      "codepoint": 57513,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyLeafBug"
+    },
+    "ecology-nuclear-energy": {
+      "codepoint": 57514,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyNuclearEnergy"
+    },
+    "ecology-organic-sun-growth": {
+      "codepoint": 57515,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyOrganicSunGrowth"
+    },
+    "ecology-plant-growth-soil-nature": {
+      "codepoint": 57516,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyPlantGrowthSoilNature"
+    },
+    "ecology-renewable-energy-solar-panel": {
+      "codepoint": 57517,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyRenewableEnergySolarPanel"
+    },
+    "ecology-renewable-energy-wind-turbine": {
+      "codepoint": 57518,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyRenewableEnergyWindTurbine"
+    },
+    "ecology-solar-cell": {
+      "codepoint": 57519,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologySolarCell"
+    },
+    "ecology-tree": {
+      "codepoint": 57520,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyTree"
+    },
+    "ecology-windmill-1": {
+      "codepoint": 57521,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyWindmill1"
+    },
+    "ecology-windmill-2": {
+      "codepoint": 57522,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyWindmill2"
+    },
+    "ecology-wood-plant-grow": {
+      "codepoint": 57523,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "ecologyWoodPlantGrow"
+    },
+    "email-chat-think": {
+      "codepoint": 57524,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailChatThink"
+    },
+    "email-emoji-smile-smart": {
+      "codepoint": 57525,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailEmojiSmileSmart"
+    },
+    "email-envelope": {
+      "codepoint": 57526,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailEnvelope"
+    },
+    "email-envelope-close": {
+      "codepoint": 57527,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailEnvelopeClose"
+    },
+    "email-envelope-open": {
+      "codepoint": 57528,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailEnvelopeOpen"
+    },
+    "email-forward-mail": {
+      "codepoint": 57529,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailForwardMail"
+    },
+    "email-mail-chat": {
+      "codepoint": 57530,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailMailChat"
+    },
+    "email-mail-open-address": {
+      "codepoint": 57531,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailMailOpenAddress"
+    },
+    "email-mailbox": {
+      "codepoint": 57532,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailMailbox"
+    },
+    "email-mailbox-close": {
+      "codepoint": 57533,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailMailboxClose"
+    },
+    "email-mailbox-open": {
+      "codepoint": 57534,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailMailboxOpen"
+    },
+    "email-stamp-mail": {
+      "codepoint": 57535,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailStampMail"
+    },
+    "email-tray": {
+      "codepoint": 57536,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "emailTray"
+    },
+    "entertainment-events-hobbies-board-game-dice": {
+      "codepoint": 57537,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesBoardGameDice"
+    },
+    "entertainment-events-hobbies-bomb": {
+      "codepoint": 57538,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesBomb"
+    },
+    "entertainment-events-hobbies-card-game-card-club": {
+      "codepoint": 57539,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesCardGameCardClub"
+    },
+    "entertainment-events-hobbies-chess-knight": {
+      "codepoint": 57540,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesChessKnight"
+    },
+    "entertainment-events-hobbies-chess-pawn": {
+      "codepoint": 57541,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesChessPawn"
+    },
+    "entertainment-events-hobbies-chess-rook": {
+      "codepoint": 57542,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesChessRook"
+    },
+    "entertainment-events-hobbies-film-camrea": {
+      "codepoint": 57543,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesFilmCamrea"
+    },
+    "entertainment-events-hobbies-film-player": {
+      "codepoint": 57544,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesFilmPlayer"
+    },
+    "entertainment-events-hobbies-film-roll": {
+      "codepoint": 57545,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesFilmRoll"
+    },
+    "entertainment-events-hobbies-game-machines-arcade-1": {
+      "codepoint": 57546,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesGameMachinesArcade1"
+    },
+    "entertainment-events-hobbies-game-machines-arcade-2": {
+      "codepoint": 57547,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesGameMachinesArcade2"
+    },
+    "entertainment-events-hobbies-game-pool-snooker-ball": {
+      "codepoint": 57548,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesGamePoolSnookerBall"
+    },
+    "entertainment-events-hobbies-glasses-3d": {
+      "codepoint": 57549,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesGlasses3d"
+    },
+    "entertainment-events-hobbies-horror-ghost": {
+      "codepoint": 57550,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesHorrorGhost"
+    },
+    "entertainment-events-hobbies-popcorn": {
+      "codepoint": 57551,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesPopcorn"
+    },
+    "entertainment-events-hobbies-record-player": {
+      "codepoint": 57552,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesRecordPlayer"
+    },
+    "entertainment-events-hobbies-reward-winner-talent": {
+      "codepoint": 57553,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesRewardWinnerTalent"
+    },
+    "entertainment-events-hobbies-ticket": {
+      "codepoint": 57554,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesTicket"
+    },
+    "entertainment-events-hobbies-video-camera-film-1": {
+      "codepoint": 57555,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesVideoCameraFilm1"
+    },
+    "entertainment-events-hobbies-video-camera-film-2": {
+      "codepoint": 57556,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesVideoCameraFilm2"
+    },
+    "entertainment-events-hobbies-video-camera-film-3": {
+      "codepoint": 57557,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesVideoCameraFilm3"
+    },
+    "entertainment-events-hobbies-video-movie-producer-director-chair": {
+      "codepoint": 57558,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "entertainmentEventsHobbiesVideoMovieProducerDirectorChair"
+    },
+    "food-drink-bread": {
+      "codepoint": 57559,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkBread"
+    },
+    "food-drink-coffee": {
+      "codepoint": 57560,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkCoffee"
+    },
+    "food-drink-coffee-cup": {
+      "codepoint": 57561,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkCoffeeCup"
+    },
+    "food-drink-desert-cake": {
+      "codepoint": 57562,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkDesertCake"
+    },
+    "food-drink-desert-cake-pond": {
+      "codepoint": 57563,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkDesertCakePond"
+    },
+    "food-drink-desert-cotton-candy": {
+      "codepoint": 57564,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkDesertCottonCandy"
+    },
+    "food-drink-desert-cupcake": {
+      "codepoint": 57565,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkDesertCupcake"
+    },
+    "food-drink-desert-donut": {
+      "codepoint": 57566,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkDesertDonut"
+    },
+    "food-drink-desert-icecream": {
+      "codepoint": 57567,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkDesertIcecream"
+    },
+    "food-drink-egg": {
+      "codepoint": 57568,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkEgg"
+    },
+    "food-drink-fish": {
+      "codepoint": 57569,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkFish"
+    },
+    "food-drink-fish-bone": {
+      "codepoint": 57570,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkFishBone"
+    },
+    "food-drink-fried-chicken": {
+      "codepoint": 57571,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkFriedChicken"
+    },
+    "food-drink-fruit-cherry": {
+      "codepoint": 57572,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkFruitCherry"
+    },
+    "food-drink-hamburger": {
+      "codepoint": 57573,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkHamburger"
+    },
+    "food-drink-milk": {
+      "codepoint": 57574,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkMilk"
+    },
+    "food-drink-pizza": {
+      "codepoint": 57575,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkPizza"
+    },
+    "food-drink-rice-ball": {
+      "codepoint": 57576,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkRiceBall"
+    },
+    "food-drink-sushi": {
+      "codepoint": 57577,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkSushi"
+    },
+    "food-drink-tea": {
+      "codepoint": 57578,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "foodDrinkTea"
+    },
+    "hand": {
+      "codepoint": 57579,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "hand"
+    },
+    "hand-awesome": {
+      "codepoint": 57580,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handAwesome"
+    },
+    "hand-cross-finger-heart": {
+      "codepoint": 57581,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handCrossFingerHeart"
+    },
+    "hand-dislike": {
+      "codepoint": 57582,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handDislike"
+    },
+    "hand-fight-2-finger": {
+      "codepoint": 57583,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handFight2Finger"
+    },
+    "hand-fiist": {
+      "codepoint": 57584,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handFiist"
+    },
+    "hand-four": {
+      "codepoint": 57585,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handFour"
+    },
+    "hand-fuck-middle-finger": {
+      "codepoint": 57586,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handFuckMiddleFinger"
+    },
+    "hand-gesture-finger-click": {
+      "codepoint": 57587,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handGestureFingerClick"
+    },
+    "hand-like": {
+      "codepoint": 57588,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handLike"
+    },
+    "hand-little-finger": {
+      "codepoint": 57589,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handLittleFinger"
+    },
+    "hand-love": {
+      "codepoint": 57590,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handLove"
+    },
+    "hand-love-sign": {
+      "codepoint": 57591,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handLoveSign"
+    },
+    "hand-ok": {
+      "codepoint": 57592,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handOk"
+    },
+    "hand-point": {
+      "codepoint": 57593,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handPoint"
+    },
+    "hand-three-finger": {
+      "codepoint": 57594,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handThreeFinger"
+    },
+    "hand-writing": {
+      "codepoint": 57595,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handWriting"
+    },
+    "hand-zombie": {
+      "codepoint": 57596,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handZombie"
+    },
+    "hand-zoom": {
+      "codepoint": 57597,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "handZoom"
+    },
+    "health-ambulance-call": {
+      "codepoint": 57598,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthAmbulanceCall"
+    },
+    "health-ambulance-car": {
+      "codepoint": 57599,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthAmbulanceCar"
+    },
+    "health-anti-virus": {
+      "codepoint": 57600,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthAntiVirus"
+    },
+    "health-bandage": {
+      "codepoint": 57601,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthBandage"
+    },
+    "health-blood-drop-type": {
+      "codepoint": 57602,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthBloodDropType"
+    },
+    "health-brain-1": {
+      "codepoint": 57603,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthBrain1"
+    },
+    "health-brain-2": {
+      "codepoint": 57604,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthBrain2"
+    },
+    "health-dentistry-tooth": {
+      "codepoint": 57605,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthDentistryTooth"
+    },
+    "health-drug-medicine": {
+      "codepoint": 57606,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthDrugMedicine"
+    },
+    "health-drug-medicine-bag-aid-1": {
+      "codepoint": 57607,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthDrugMedicineBagAid1"
+    },
+    "health-drug-medicine-bag-aid-2": {
+      "codepoint": 57608,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthDrugMedicineBagAid2"
+    },
+    "health-drug-medicine-water": {
+      "codepoint": 57609,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthDrugMedicineWater"
+    },
+    "health-drugs-cannabis": {
+      "codepoint": 57610,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthDrugsCannabis"
+    },
+    "health-drugs-pill": {
+      "codepoint": 57611,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthDrugsPill"
+    },
+    "health-health-dead": {
+      "codepoint": 57612,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthHealthDead"
+    },
+    "health-hospital-building-1": {
+      "codepoint": 57613,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthHospitalBuilding1"
+    },
+    "health-hospital-building-2": {
+      "codepoint": 57614,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthHospitalBuilding2"
+    },
+    "health-injection": {
+      "codepoint": 57615,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthInjection"
+    },
+    "health-laboratory": {
+      "codepoint": 57616,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthLaboratory"
+    },
+    "health-laboratory-test-blood-sugar": {
+      "codepoint": 57617,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthLaboratoryTestBloodSugar"
+    },
+    "health-laboratory-test-stool-cup": {
+      "codepoint": 57618,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthLaboratoryTestStoolCup"
+    },
+    "health-medical-notes": {
+      "codepoint": 57619,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthMedicalNotes"
+    },
+    "health-monitor-heart-beat": {
+      "codepoint": 57620,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthMonitorHeartBeat"
+    },
+    "health-stool": {
+      "codepoint": 57621,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthStool"
+    },
+    "health-transfusion-bag": {
+      "codepoint": 57622,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthTransfusionBag"
+    },
+    "health-virus": {
+      "codepoint": 57623,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "healthVirus"
+    },
+    "interface-essential-alarm-bell-off": {
+      "codepoint": 57624,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialAlarmBellOff"
+    },
+    "interface-essential-alarm-bell-sleep": {
+      "codepoint": 57625,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialAlarmBellSleep"
+    },
+    "interface-essential-alert": {
+      "codepoint": 57626,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialAlert"
+    },
+    "interface-essential-alert-caution": {
+      "codepoint": 57627,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialAlertCaution"
+    },
+    "interface-essential-alert-circle-1": {
+      "codepoint": 57628,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialAlertCircle1"
+    },
+    "interface-essential-alert-circle-2": {
+      "codepoint": 57629,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialAlertCircle2"
+    },
+    "interface-essential-alert-triangle-1": {
+      "codepoint": 57630,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialAlertTriangle1"
+    },
+    "interface-essential-alert-triangle-2": {
+      "codepoint": 57631,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialAlertTriangle2"
+    },
+    "interface-essential-battery": {
+      "codepoint": 57632,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialBattery"
+    },
+    "interface-essential-bin": {
+      "codepoint": 57633,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialBin"
+    },
+    "interface-essential-blutooth": {
+      "codepoint": 57634,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialBlutooth"
+    },
+    "interface-essential-bookmark": {
+      "codepoint": 57635,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialBookmark"
+    },
+    "interface-essential-bookmark-1": {
+      "codepoint": 57636,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialBookmark1"
+    },
+    "interface-essential-calendar-appointment": {
+      "codepoint": 57637,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialCalendarAppointment"
+    },
+    "interface-essential-calendar-date": {
+      "codepoint": 57638,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialCalendarDate"
+    },
+    "interface-essential-call-center-contact-help": {
+      "codepoint": 57639,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialCallCenterContactHelp"
+    },
+    "interface-essential-clip-1": {
+      "codepoint": 57640,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialClip1"
+    },
+    "interface-essential-clip-2": {
+      "codepoint": 57641,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialClip2"
+    },
+    "interface-essential-clock": {
+      "codepoint": 57642,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialClock"
+    },
+    "interface-essential-clound-download": {
+      "codepoint": 57643,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialCloundDownload"
+    },
+    "interface-essential-cog-browser": {
+      "codepoint": 57644,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialCogBrowser"
+    },
+    "interface-essential-cog-double": {
+      "codepoint": 57645,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialCogDouble"
+    },
+    "interface-essential-cog-hand-give": {
+      "codepoint": 57646,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialCogHandGive"
+    },
+    "interface-essential-cog-search": {
+      "codepoint": 57647,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialCogSearch"
+    },
+    "interface-essential-crown": {
+      "codepoint": 57648,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialCrown"
+    },
+    "interface-essential-cursor": {
+      "codepoint": 57649,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialCursor"
+    },
+    "interface-essential-cursor-click-point": {
+      "codepoint": 57650,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialCursorClickPoint"
+    },
+    "interface-essential-cursor-select": {
+      "codepoint": 57651,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialCursorSelect"
+    },
+    "interface-essential-dial-pad-1": {
+      "codepoint": 57652,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialDialPad1"
+    },
+    "interface-essential-dial-pad-2": {
+      "codepoint": 57653,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialDialPad2"
+    },
+    "interface-essential-dial-pad-finger-1": {
+      "codepoint": 57654,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialDialPadFinger1"
+    },
+    "interface-essential-dial-pad-finger-2": {
+      "codepoint": 57655,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialDialPadFinger2"
+    },
+    "interface-essential-direction-button": {
+      "codepoint": 57656,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialDirectionButton"
+    },
+    "interface-essential-edit-fill": {
+      "codepoint": 57657,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialEditFill"
+    },
+    "interface-essential-eraser": {
+      "codepoint": 57658,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialEraser"
+    },
+    "interface-essential-expand-1": {
+      "codepoint": 57659,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialExpand1"
+    },
+    "interface-essential-expand-2": {
+      "codepoint": 57660,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialExpand2"
+    },
+    "interface-essential-expand-3": {
+      "codepoint": 57661,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialExpand3"
+    },
+    "interface-essential-face-id": {
+      "codepoint": 57662,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialFaceId"
+    },
+    "interface-essential-face-id-1": {
+      "codepoint": 57663,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialFaceId1"
+    },
+    "interface-essential-file-error": {
+      "codepoint": 57664,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialFileError"
+    },
+    "interface-essential-filter": {
+      "codepoint": 57665,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialFilter"
+    },
+    "interface-essential-find-text": {
+      "codepoint": 57666,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialFindText"
+    },
+    "interface-essential-finger-print-scan": {
+      "codepoint": 57667,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialFingerPrintScan"
+    },
+    "interface-essential-flag": {
+      "codepoint": 57668,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialFlag"
+    },
+    "interface-essential-flash": {
+      "codepoint": 57669,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialFlash"
+    },
+    "interface-essential-flip-vertical-down": {
+      "codepoint": 57670,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialFlipVerticalDown"
+    },
+    "interface-essential-flip-vertical-up": {
+      "codepoint": 57671,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialFlipVerticalUp"
+    },
+    "interface-essential-floppy-disk": {
+      "codepoint": 57672,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialFloppyDisk"
+    },
+    "interface-essential-global-public": {
+      "codepoint": 57673,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialGlobalPublic"
+    },
+    "interface-essential-hammer-1": {
+      "codepoint": 57674,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialHammer1"
+    },
+    "interface-essential-hammer-2": {
+      "codepoint": 57675,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialHammer2"
+    },
+    "interface-essential-heart-favorite": {
+      "codepoint": 57676,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialHeartFavorite"
+    },
+    "interface-essential-hierarchy-1": {
+      "codepoint": 57677,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialHierarchy1"
+    },
+    "interface-essential-hierarchy-2": {
+      "codepoint": 57678,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialHierarchy2"
+    },
+    "interface-essential-hierarchy-3": {
+      "codepoint": 57679,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialHierarchy3"
+    },
+    "interface-essential-hierarchy-4": {
+      "codepoint": 57680,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialHierarchy4"
+    },
+    "interface-essential-hierarchy-5": {
+      "codepoint": 57681,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialHierarchy5"
+    },
+    "interface-essential-hierarchy-files": {
+      "codepoint": 57682,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialHierarchyFiles"
+    },
+    "interface-essential-home-1": {
+      "codepoint": 57683,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialHome1"
+    },
+    "interface-essential-home-2": {
+      "codepoint": 57684,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialHome2"
+    },
+    "interface-essential-hyperlink": {
+      "codepoint": 57685,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialHyperlink"
+    },
+    "interface-essential-information-circle-1": {
+      "codepoint": 57686,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialInformationCircle1"
+    },
+    "interface-essential-information-circle-2": {
+      "codepoint": 57687,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialInformationCircle2"
+    },
+    "interface-essential-iris-scan": {
+      "codepoint": 57688,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialIrisScan"
+    },
+    "interface-essential-iris-scan-approved": {
+      "codepoint": 57689,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialIrisScanApproved"
+    },
+    "interface-essential-key": {
+      "codepoint": 57690,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialKey"
+    },
+    "interface-essential-key-1": {
+      "codepoint": 57691,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialKey1"
+    },
+    "interface-essential-key-lock": {
+      "codepoint": 57692,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialKeyLock"
+    },
+    "interface-essential-key-login": {
+      "codepoint": 57693,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialKeyLogin"
+    },
+    "interface-essential-keyboard-button-direction-1": {
+      "codepoint": 57694,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialKeyboardButtonDirection1"
+    },
+    "interface-essential-keyboard-button-direction-2": {
+      "codepoint": 57695,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialKeyboardButtonDirection2"
+    },
+    "interface-essential-light-bulb": {
+      "codepoint": 57696,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLightBulb"
+    },
+    "interface-essential-link": {
+      "codepoint": 57697,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLink"
+    },
+    "interface-essential-link-broken-1": {
+      "codepoint": 57698,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLinkBroken1"
+    },
+    "interface-essential-link-broken-2": {
+      "codepoint": 57699,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLinkBroken2"
+    },
+    "interface-essential-list": {
+      "codepoint": 57700,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialList"
+    },
+    "interface-essential-loading-0-percent": {
+      "codepoint": 57701,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoading0Percent"
+    },
+    "interface-essential-loading-0-percent-1": {
+      "codepoint": 57702,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoading0Percent1"
+    },
+    "interface-essential-loading-100-percent": {
+      "codepoint": 57703,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoading100Percent"
+    },
+    "interface-essential-loading-100-percent-1": {
+      "codepoint": 57704,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoading100Percent1"
+    },
+    "interface-essential-loading-20-percent": {
+      "codepoint": 57705,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoading20Percent"
+    },
+    "interface-essential-loading-25-percent-1": {
+      "codepoint": 57706,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoading25Percent1"
+    },
+    "interface-essential-loading-50-percent": {
+      "codepoint": 57707,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoading50Percent"
+    },
+    "interface-essential-loading-50-percent-1": {
+      "codepoint": 57708,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoading50Percent1"
+    },
+    "interface-essential-loading-75-percent-1": {
+      "codepoint": 57709,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoading75Percent1"
+    },
+    "interface-essential-loading-80-percent": {
+      "codepoint": 57710,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoading80Percent"
+    },
+    "interface-essential-loading-circle-1": {
+      "codepoint": 57711,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoadingCircle1"
+    },
+    "interface-essential-loading-circle-2": {
+      "codepoint": 57712,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoadingCircle2"
+    },
+    "interface-essential-loading-status": {
+      "codepoint": 57713,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLoadingStatus"
+    },
+    "interface-essential-lock": {
+      "codepoint": 57714,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLock"
+    },
+    "interface-essential-lock-1": {
+      "codepoint": 57715,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLock1"
+    },
+    "interface-essential-lock-door-out": {
+      "codepoint": 57716,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLockDoorOut"
+    },
+    "interface-essential-lock-shield": {
+      "codepoint": 57717,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialLockShield"
+    },
+    "interface-essential-magnet": {
+      "codepoint": 57718,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialMagnet"
+    },
+    "interface-essential-map": {
+      "codepoint": 57719,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialMap"
+    },
+    "interface-essential-message": {
+      "codepoint": 57720,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialMessage"
+    },
+    "interface-essential-microphone": {
+      "codepoint": 57721,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialMicrophone"
+    },
+    "interface-essential-move": {
+      "codepoint": 57722,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialMove"
+    },
+    "interface-essential-navigation-left-circle-1": {
+      "codepoint": 57723,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialNavigationLeftCircle1"
+    },
+    "interface-essential-navigation-left-circle-2": {
+      "codepoint": 57724,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialNavigationLeftCircle2"
+    },
+    "interface-essential-navigation-menu-1": {
+      "codepoint": 57725,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialNavigationMenu1"
+    },
+    "interface-essential-navigation-menu-2": {
+      "codepoint": 57726,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialNavigationMenu2"
+    },
+    "interface-essential-navigation-menu-3": {
+      "codepoint": 57727,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialNavigationMenu3"
+    },
+    "interface-essential-navigation-right-circle-1": {
+      "codepoint": 57728,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialNavigationRightCircle1"
+    },
+    "interface-essential-navigation-right-circle-2": {
+      "codepoint": 57729,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialNavigationRightCircle2"
+    },
+    "interface-essential-note-music": {
+      "codepoint": 57730,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialNoteMusic"
+    },
+    "interface-essential-notification-alert": {
+      "codepoint": 57731,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialNotificationAlert"
+    },
+    "interface-essential-pacman-loading": {
+      "codepoint": 57732,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPacmanLoading"
+    },
+    "interface-essential-paginate-filter-camera": {
+      "codepoint": 57733,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPaginateFilterCamera"
+    },
+    "interface-essential-paginate-filter-heart": {
+      "codepoint": 57734,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPaginateFilterHeart"
+    },
+    "interface-essential-paginate-filter-music": {
+      "codepoint": 57735,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPaginateFilterMusic"
+    },
+    "interface-essential-paginate-filter-picture": {
+      "codepoint": 57736,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPaginateFilterPicture"
+    },
+    "interface-essential-paginate-filter-video": {
+      "codepoint": 57737,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPaginateFilterVideo"
+    },
+    "interface-essential-password-type": {
+      "codepoint": 57738,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPasswordType"
+    },
+    "interface-essential-pencil-edit-1": {
+      "codepoint": 57739,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPencilEdit1"
+    },
+    "interface-essential-pencil-edit-2": {
+      "codepoint": 57740,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPencilEdit2"
+    },
+    "interface-essential-pie-chart-poll-report-1": {
+      "codepoint": 57741,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPieChartPollReport1"
+    },
+    "interface-essential-pie-chart-poll-report-2": {
+      "codepoint": 57742,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPieChartPollReport2"
+    },
+    "interface-essential-pin": {
+      "codepoint": 57743,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPin"
+    },
+    "interface-essential-poll": {
+      "codepoint": 57744,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPoll"
+    },
+    "interface-essential-print": {
+      "codepoint": 57745,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialPrint"
+    },
+    "interface-essential-profile-female": {
+      "codepoint": 57746,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialProfileFemale"
+    },
+    "interface-essential-profile-male": {
+      "codepoint": 57747,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialProfileMale"
+    },
+    "interface-essential-protect-guard": {
+      "codepoint": 57748,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialProtectGuard"
+    },
+    "interface-essential-protect-rubber-ring": {
+      "codepoint": 57749,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialProtectRubberRing"
+    },
+    "interface-essential-question-help-circle-1": {
+      "codepoint": 57750,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialQuestionHelpCircle1"
+    },
+    "interface-essential-question-help-circle-2": {
+      "codepoint": 57751,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialQuestionHelpCircle2"
+    },
+    "interface-essential-question-help-square": {
+      "codepoint": 57752,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialQuestionHelpSquare"
+    },
+    "interface-essential-recycle": {
+      "codepoint": 57753,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialRecycle"
+    },
+    "interface-essential-reflect-down": {
+      "codepoint": 57754,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialReflectDown"
+    },
+    "interface-essential-reflect-down-up": {
+      "codepoint": 57755,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialReflectDownUp"
+    },
+    "interface-essential-refresh": {
+      "codepoint": 57756,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialRefresh"
+    },
+    "interface-essential-safari-compass": {
+      "codepoint": 57757,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSafariCompass"
+    },
+    "interface-essential-satellite": {
+      "codepoint": 57758,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSatellite"
+    },
+    "interface-essential-scisor": {
+      "codepoint": 57759,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialScisor"
+    },
+    "interface-essential-scroll-horizontal": {
+      "codepoint": 57760,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialScrollHorizontal"
+    },
+    "interface-essential-scroll-vertical": {
+      "codepoint": 57761,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialScrollVertical"
+    },
+    "interface-essential-search-1": {
+      "codepoint": 57762,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSearch1"
+    },
+    "interface-essential-search-binocular": {
+      "codepoint": 57763,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSearchBinocular"
+    },
+    "interface-essential-search-check": {
+      "codepoint": 57764,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSearchCheck"
+    },
+    "interface-essential-search-remove": {
+      "codepoint": 57765,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSearchRemove"
+    },
+    "interface-essential-send-mail": {
+      "codepoint": 57766,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSendMail"
+    },
+    "interface-essential-setting-cog": {
+      "codepoint": 57767,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSettingCog"
+    },
+    "interface-essential-setting-slide": {
+      "codepoint": 57768,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSettingSlide"
+    },
+    "interface-essential-settings-toggle-horizontal": {
+      "codepoint": 57769,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSettingsToggleHorizontal"
+    },
+    "interface-essential-share-1": {
+      "codepoint": 57770,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialShare1"
+    },
+    "interface-essential-share-2": {
+      "codepoint": 57771,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialShare2"
+    },
+    "interface-essential-share-3": {
+      "codepoint": 57772,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialShare3"
+    },
+    "interface-essential-shrink-1": {
+      "codepoint": 57773,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialShrink1"
+    },
+    "interface-essential-shrink-2": {
+      "codepoint": 57774,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialShrink2"
+    },
+    "interface-essential-shrink-3": {
+      "codepoint": 57775,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialShrink3"
+    },
+    "interface-essential-shrink-4": {
+      "codepoint": 57776,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialShrink4"
+    },
+    "interface-essential-signin-expand": {
+      "codepoint": 57777,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSigninExpand"
+    },
+    "interface-essential-signin-login": {
+      "codepoint": 57778,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSigninLogin"
+    },
+    "interface-essential-signout-logout": {
+      "codepoint": 57779,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSignoutLogout"
+    },
+    "interface-essential-skull-1": {
+      "codepoint": 57780,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSkull1"
+    },
+    "interface-essential-skull-2": {
+      "codepoint": 57781,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSkull2"
+    },
+    "interface-essential-sound": {
+      "codepoint": 57782,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSound"
+    },
+    "interface-essential-speaker-announce": {
+      "codepoint": 57783,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSpeakerAnnounce"
+    },
+    "interface-essential-stat": {
+      "codepoint": 57784,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialStat"
+    },
+    "interface-essential-stop-sign-1": {
+      "codepoint": 57785,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialStopSign1"
+    },
+    "interface-essential-stop-sign-2": {
+      "codepoint": 57786,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialStopSign2"
+    },
+    "interface-essential-stopwatch": {
+      "codepoint": 57787,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialStopwatch"
+    },
+    "interface-essential-switch-off": {
+      "codepoint": 57788,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSwitchOff"
+    },
+    "interface-essential-switch-on": {
+      "codepoint": 57789,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSwitchOn"
+    },
+    "interface-essential-synchronize-arrows-square-1": {
+      "codepoint": 57790,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSynchronizeArrowsSquare1"
+    },
+    "interface-essential-synchronize-arrows-square-2": {
+      "codepoint": 57791,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialSynchronizeArrowsSquare2"
+    },
+    "interface-essential-text-format-1": {
+      "codepoint": 57792,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialTextFormat1"
+    },
+    "interface-essential-text-format-2": {
+      "codepoint": 57793,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialTextFormat2"
+    },
+    "interface-essential-text-input-area-1": {
+      "codepoint": 57794,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialTextInputArea1"
+    },
+    "interface-essential-text-input-area-2": {
+      "codepoint": 57795,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialTextInputArea2"
+    },
+    "interface-essential-text-input-area-3": {
+      "codepoint": 57796,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialTextInputArea3"
+    },
+    "interface-essential-touch-id-lock": {
+      "codepoint": 57797,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialTouchIdLock"
+    },
+    "interface-essential-touch-id-smartphone": {
+      "codepoint": 57798,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialTouchIdSmartphone"
+    },
+    "interface-essential-translate": {
+      "codepoint": 57799,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialTranslate"
+    },
+    "interface-essential-trophy": {
+      "codepoint": 57800,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialTrophy"
+    },
+    "interface-essential-view-eye": {
+      "codepoint": 57801,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialViewEye"
+    },
+    "interface-essential-voice-id": {
+      "codepoint": 57802,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialVoiceId"
+    },
+    "interface-essential-waiting-hourglass-loading": {
+      "codepoint": 57803,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialWaitingHourglassLoading"
+    },
+    "interface-essential-watch-time": {
+      "codepoint": 57804,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialWatchTime"
+    },
+    "interface-essential-wifi-feed": {
+      "codepoint": 57805,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialWifiFeed"
+    },
+    "interface-essential-wifi-signal": {
+      "codepoint": 57806,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialWifiSignal"
+    },
+    "interface-essential-wireless": {
+      "codepoint": 57807,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialWireless"
+    },
+    "interface-essential-wrench-1": {
+      "codepoint": 57808,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialWrench1"
+    },
+    "interface-essential-wrench-2": {
+      "codepoint": 57809,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialWrench2"
+    },
+    "interface-essential-zoom-in": {
+      "codepoint": 57810,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialZoomIn"
+    },
+    "interface-essential-zoom-in-page": {
+      "codepoint": 57811,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialZoomInPage"
+    },
+    "interface-essential-zoom-out": {
+      "codepoint": 57812,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialZoomOut"
+    },
+    "interface-essential-zoom-out-page": {
+      "codepoint": 57813,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "interfaceEssentialZoomOutPage"
+    },
+    "internet-network-arrow-sync": {
+      "codepoint": 57814,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "internetNetworkArrowSync"
+    },
+    "internet-network-cloud-error": {
+      "codepoint": 57815,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "internetNetworkCloudError"
+    },
+    "internet-network-cloud-off": {
+      "codepoint": 57816,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "internetNetworkCloudOff"
+    },
+    "internet-network-computer-download": {
+      "codepoint": 57817,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "internetNetworkComputerDownload"
+    },
+    "internet-network-computer-upload": {
+      "codepoint": 57818,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "internetNetworkComputerUpload"
+    },
+    "internet-network-download": {
+      "codepoint": 57819,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "internetNetworkDownload"
+    },
+    "internet-network-laptop": {
+      "codepoint": 57820,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "internetNetworkLaptop"
+    },
+    "internet-network-upload": {
+      "codepoint": 57821,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "internetNetworkUpload"
+    },
+    "internet-network-wifi-monitor": {
+      "codepoint": 57822,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "internetNetworkWifiMonitor"
+    },
+    "internet-network-www": {
+      "codepoint": 57823,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "internetNetworkWww"
+    },
+    "logo-discord": {
+      "codepoint": 57824,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoDiscord"
+    },
+    "logo-linkedin": {
+      "codepoint": 57825,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoLinkedin"
+    },
+    "logo-pinterest": {
+      "codepoint": 57826,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoPinterest"
+    },
+    "logo-snapchat": {
+      "codepoint": 57827,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSnapchat"
+    },
+    "logo-social-media-dropbox": {
+      "codepoint": 57828,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSocialMediaDropbox"
+    },
+    "logo-social-media-facebook-circle": {
+      "codepoint": 57829,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSocialMediaFacebookCircle"
+    },
+    "logo-social-media-instagram": {
+      "codepoint": 57830,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSocialMediaInstagram"
+    },
+    "logo-social-media-instagram-circle": {
+      "codepoint": 57831,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSocialMediaInstagramCircle"
+    },
+    "logo-social-media-old-instagram": {
+      "codepoint": 57832,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSocialMediaOldInstagram"
+    },
+    "logo-social-media-tiktok": {
+      "codepoint": 57833,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSocialMediaTiktok"
+    },
+    "logo-social-media-tiktok-circle": {
+      "codepoint": 57834,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSocialMediaTiktokCircle"
+    },
+    "logo-social-media-twitter-circle": {
+      "codepoint": 57835,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSocialMediaTwitterCircle"
+    },
+    "logo-social-media-youtube": {
+      "codepoint": 57836,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSocialMediaYoutube"
+    },
+    "logo-social-media-youtube-circle": {
+      "codepoint": 57837,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSocialMediaYoutubeCircle"
+    },
+    "logo-soundcloud-1": {
+      "codepoint": 57838,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSoundcloud1"
+    },
+    "logo-soundcloud-2": {
+      "codepoint": 57839,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSoundcloud2"
+    },
+    "logo-spotify": {
+      "codepoint": 57840,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoSpotify"
+    },
+    "logo-twitch-1": {
+      "codepoint": 57841,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoTwitch1"
+    },
+    "logo-twitch-2": {
+      "codepoint": 57842,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoTwitch2"
+    },
+    "logo-twitter": {
+      "codepoint": 57843,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoTwitter"
+    },
+    "logo-whatapp": {
+      "codepoint": 57844,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "logoWhatapp"
+    },
+    "map-navigation-compass-direction": {
+      "codepoint": 57845,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "mapNavigationCompassDirection"
+    },
+    "map-navigation-location-focus": {
+      "codepoint": 57846,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "mapNavigationLocationFocus"
+    },
+    "map-navigation-pin-location-1": {
+      "codepoint": 57847,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "mapNavigationPinLocation1"
+    },
+    "map-navigation-pin-location-2": {
+      "codepoint": 57848,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "mapNavigationPinLocation2"
+    },
+    "map-navigation-pin-location-trip": {
+      "codepoint": 57849,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "mapNavigationPinLocationTrip"
+    },
+    "mobile-phone": {
+      "codepoint": 57850,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "mobilePhone"
+    },
+    "money-payments-accounting-bill-money-1": {
+      "codepoint": 57851,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsAccountingBillMoney1"
+    },
+    "money-payments-accounting-bill-money-2": {
+      "codepoint": 57852,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsAccountingBillMoney2"
+    },
+    "money-payments-accounting-calculator": {
+      "codepoint": 57853,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsAccountingCalculator"
+    },
+    "money-payments-bank": {
+      "codepoint": 57854,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsBank"
+    },
+    "money-payments-calculator-app": {
+      "codepoint": 57855,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsCalculatorApp"
+    },
+    "money-payments-cash-payment-coin": {
+      "codepoint": 57856,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsCashPaymentCoin"
+    },
+    "money-payments-credit-card-mastercard": {
+      "codepoint": 57857,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsCreditCardMastercard"
+    },
+    "money-payments-credit-card-visa": {
+      "codepoint": 57858,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsCreditCardVisa"
+    },
+    "money-payments-currency-euro-dollar-exchange": {
+      "codepoint": 57859,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsCurrencyEuroDollarExchange"
+    },
+    "money-payments-diamond": {
+      "codepoint": 57860,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsDiamond"
+    },
+    "money-payments-saving-treasure": {
+      "codepoint": 57861,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsSavingTreasure"
+    },
+    "money-payments-self-payment": {
+      "codepoint": 57862,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsSelfPayment"
+    },
+    "money-payments-smartphone-pay-dollar": {
+      "codepoint": 57863,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "moneyPaymentsSmartphonePayDollar"
+    },
+    "multiple-user": {
+      "codepoint": 57864,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "multipleUser"
+    },
+    "music-album-cd-disk-playlist": {
+      "codepoint": 57865,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicAlbumCdDiskPlaylist"
+    },
+    "music-clef-sheet": {
+      "codepoint": 57866,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicClefSheet"
+    },
+    "music-disk-cd-1": {
+      "codepoint": 57867,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicDiskCd1"
+    },
+    "music-disk-cd-2": {
+      "codepoint": 57868,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicDiskCd2"
+    },
+    "music-headphones-human": {
+      "codepoint": 57869,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicHeadphonesHuman"
+    },
+    "music-microphone-1": {
+      "codepoint": 57870,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicMicrophone1"
+    },
+    "music-microphone-2": {
+      "codepoint": 57871,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicMicrophone2"
+    },
+    "music-microphone-off": {
+      "codepoint": 57872,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicMicrophoneOff"
+    },
+    "music-notes-music-1": {
+      "codepoint": 57873,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicNotesMusic1"
+    },
+    "music-notes-music-2": {
+      "codepoint": 57874,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicNotesMusic2"
+    },
+    "music-radio-stereo": {
+      "codepoint": 57875,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicRadioStereo"
+    },
+    "music-speaker": {
+      "codepoint": 57876,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicSpeaker"
+    },
+    "music-vinyl-record": {
+      "codepoint": 57877,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicVinylRecord"
+    },
+    "music-walkman-cassette": {
+      "codepoint": 57878,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "musicWalkmanCassette"
+    },
+    "non-gmo-fertilizer": {
+      "codepoint": 57879,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "nonGmoFertilizer"
+    },
+    "notification-email": {
+      "codepoint": 57880,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "notificationEmail"
+    },
+    "pet-animals-bear": {
+      "codepoint": 57881,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "petAnimalsBear"
+    },
+    "pet-animals-buffalo": {
+      "codepoint": 57882,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "petAnimalsBuffalo"
+    },
+    "pet-animals-cat": {
+      "codepoint": 57883,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "petAnimalsCat"
+    },
+    "pet-animals-dog": {
+      "codepoint": 57884,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "petAnimalsDog"
+    },
+    "pet-animals-frog": {
+      "codepoint": 57885,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "petAnimalsFrog"
+    },
+    "pet-animals-frog-face": {
+      "codepoint": 57886,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "petAnimalsFrogFace"
+    },
+    "pet-animals-gorilla": {
+      "codepoint": 57887,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "petAnimalsGorilla"
+    },
+    "pet-animals-ox": {
+      "codepoint": 57888,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "petAnimalsOx"
+    },
+    "pet-animals-pig": {
+      "codepoint": 57889,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "petAnimalsPig"
+    },
+    "pet-animals-rabbit-1": {
+      "codepoint": 57890,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "petAnimalsRabbit1"
+    },
+    "pet-animals-rabbit-2": {
+      "codepoint": 57891,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "petAnimalsRabbit2"
+    },
+    "pet-animals-turtle": {
+      "codepoint": 57892,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "petAnimalsTurtle"
+    },
+    "phone-actions-remove-1": {
+      "codepoint": 57893,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "phoneActionsRemove1"
+    },
+    "phone-actions-remove-2": {
+      "codepoint": 57894,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "phoneActionsRemove2"
+    },
+    "phone-incoming-call": {
+      "codepoint": 57895,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "phoneIncomingCall"
+    },
+    "phone-off-1": {
+      "codepoint": 57896,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "phoneOff1"
+    },
+    "phone-off-2": {
+      "codepoint": 57897,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "phoneOff2"
+    },
+    "phone-scan-qr-code-1": {
+      "codepoint": 57898,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "phoneScanQrCode1"
+    },
+    "phone-scan-qr-code-2": {
+      "codepoint": 57899,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "phoneScanQrCode2"
+    },
+    "phone-signal-full": {
+      "codepoint": 57900,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "phoneSignalFull"
+    },
+    "phone-vibrate": {
+      "codepoint": 57901,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "phoneVibrate"
+    },
+    "photography-camera-1": {
+      "codepoint": 57902,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "photographyCamera1"
+    },
+    "photography-equipment-film-print": {
+      "codepoint": 57903,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "photographyEquipmentFilmPrint"
+    },
+    "photography-file-picture": {
+      "codepoint": 57904,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "photographyFilePicture"
+    },
+    "photography-focus-flower": {
+      "codepoint": 57905,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "photographyFocusFlower"
+    },
+    "photography-frame-picture": {
+      "codepoint": 57906,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "photographyFramePicture"
+    },
+    "photography-light-mode-flash-on": {
+      "codepoint": 57907,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "photographyLightModeFlashOn"
+    },
+    "photography-photo-image": {
+      "codepoint": 57908,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "photographyPhotoImage"
+    },
+    "photography-picture-polaroid": {
+      "codepoint": 57909,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "photographyPicturePolaroid"
+    },
+    "photography-retouch-wand": {
+      "codepoint": 57910,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "photographyRetouchWand"
+    },
+    "photography-retouch-wand-star": {
+      "codepoint": 57911,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "photographyRetouchWandStar"
+    },
+    "photography-taking-pictures-circle-alternate": {
+      "codepoint": 57912,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "photographyTakingPicturesCircleAlternate"
+    },
+    "real-estate-building-1": {
+      "codepoint": 57913,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "realEstateBuilding1"
+    },
+    "real-estate-building-2": {
+      "codepoint": 57914,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "realEstateBuilding2"
+    },
+    "real-estate-building-3": {
+      "codepoint": 57915,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "realEstateBuilding3"
+    },
+    "real-estate-building-4": {
+      "codepoint": 57916,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "realEstateBuilding4"
+    },
+    "real-estate-building-ad": {
+      "codepoint": 57917,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "realEstateBuildingAd"
+    },
+    "real-estate-building-factory": {
+      "codepoint": 57918,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "realEstateBuildingFactory"
+    },
+    "real-estate-building-house": {
+      "codepoint": 57919,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "realEstateBuildingHouse"
+    },
+    "real-estate-sign-building": {
+      "codepoint": 57920,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "realEstateSignBuilding"
+    },
+    "romance-heart-lock": {
+      "codepoint": 57921,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "romanceHeartLock"
+    },
+    "romance-love-letter-open": {
+      "codepoint": 57922,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "romanceLoveLetterOpen"
+    },
+    "school-science-bag": {
+      "codepoint": 57923,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "schoolScienceBag"
+    },
+    "school-science-dna": {
+      "codepoint": 57924,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "schoolScienceDna"
+    },
+    "school-science-graduation-cap": {
+      "codepoint": 57925,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "schoolScienceGraduationCap"
+    },
+    "school-science-test-flask": {
+      "codepoint": 57926,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "schoolScienceTestFlask"
+    },
+    "search-coding": {
+      "codepoint": 57927,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "searchCoding"
+    },
+    "search-user": {
+      "codepoint": 57928,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "searchUser"
+    },
+    "send-email": {
+      "codepoint": 57929,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "sendEmail"
+    },
+    "shopping-shipping-bag-1": {
+      "codepoint": 57930,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingBag1"
+    },
+    "shopping-shipping-bag-2": {
+      "codepoint": 57931,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingBag2"
+    },
+    "shopping-shipping-barcode": {
+      "codepoint": 57932,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingBarcode"
+    },
+    "shopping-shipping-basket": {
+      "codepoint": 57933,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingBasket"
+    },
+    "shopping-shipping-box": {
+      "codepoint": 57934,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingBox"
+    },
+    "shopping-shipping-cart": {
+      "codepoint": 57935,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingCart"
+    },
+    "shopping-shipping-crack-1": {
+      "codepoint": 57936,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingCrack1"
+    },
+    "shopping-shipping-crack-2": {
+      "codepoint": 57937,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingCrack2"
+    },
+    "shopping-shipping-delivery-person-motorcycle": {
+      "codepoint": 57938,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingDeliveryPersonMotorcycle"
+    },
+    "shopping-shipping-delivery-truck": {
+      "codepoint": 57939,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingDeliveryTruck"
+    },
+    "shopping-shipping-discount-coupon": {
+      "codepoint": 57940,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingDiscountCoupon"
+    },
+    "shopping-shipping-loading-box": {
+      "codepoint": 57941,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingLoadingBox"
+    },
+    "shopping-shipping-products-gift": {
+      "codepoint": 57942,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingProductsGift"
+    },
+    "shopping-shipping-receipt-slip": {
+      "codepoint": 57943,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingReceiptSlip"
+    },
+    "shopping-shipping-shipment-deliver": {
+      "codepoint": 57944,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingShipmentDeliver"
+    },
+    "shopping-shipping-shop": {
+      "codepoint": 57945,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingShop"
+    },
+    "shopping-shipping-upload-information": {
+      "codepoint": 57946,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingUploadInformation"
+    },
+    "shopping-shipping-warehouse-truck-delivery": {
+      "codepoint": 57947,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingWarehouseTruckDelivery"
+    },
+    "shopping-shipping-weight-kg": {
+      "codepoint": 57948,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "shoppingShippingWeightKg"
+    },
+    "single-user-shield": {
+      "codepoint": 57949,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "singleUserShield"
+    },
+    "social-rewards-certified-diploma": {
+      "codepoint": 57950,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "socialRewardsCertifiedDiploma"
+    },
+    "social-rewards-certified-ribbon": {
+      "codepoint": 57951,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "socialRewardsCertifiedRibbon"
+    },
+    "social-rewards-flag": {
+      "codepoint": 57952,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "socialRewardsFlag"
+    },
+    "social-rewards-heart-like-circle": {
+      "codepoint": 57953,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "socialRewardsHeartLikeCircle"
+    },
+    "social-rewards-like-bubble": {
+      "codepoint": 57954,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "socialRewardsLikeBubble"
+    },
+    "social-rewards-like-circle": {
+      "codepoint": 57955,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "socialRewardsLikeCircle"
+    },
+    "social-rewards-rating-star-1": {
+      "codepoint": 57956,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "socialRewardsRatingStar1"
+    },
+    "social-rewards-rating-star-2": {
+      "codepoint": 57957,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "socialRewardsRatingStar2"
+    },
+    "social-rewards-reward-gift": {
+      "codepoint": 57958,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "socialRewardsRewardGift"
+    },
+    "social-rewards-trends-hot-flame": {
+      "codepoint": 57959,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "socialRewardsTrendsHotFlame"
+    },
+    "social-rewards-vip-crown-king": {
+      "codepoint": 57960,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "socialRewardsVipCrownKing"
+    },
+    "technology-drone-camera": {
+      "codepoint": 57961,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "technologyDroneCamera"
+    },
+    "technology-drone-signal": {
+      "codepoint": 57962,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "technologyDroneSignal"
+    },
+    "technology-robot-ai": {
+      "codepoint": 57963,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "technologyRobotAi"
+    },
+    "technology-robot-ai-signal-1": {
+      "codepoint": 57964,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "technologyRobotAiSignal1"
+    },
+    "technology-robot-ai-signal-2": {
+      "codepoint": 57965,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "technologyRobotAiSignal2"
+    },
+    "transportation-bicycle": {
+      "codepoint": 57966,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "transportationBicycle"
+    },
+    "transportation-helicopter": {
+      "codepoint": 57967,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "transportationHelicopter"
+    },
+    "transportation-motorcycle": {
+      "codepoint": 57968,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "transportationMotorcycle"
+    },
+    "transportation-plane": {
+      "codepoint": 57969,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "transportationPlane"
+    },
+    "transportation-train": {
+      "codepoint": 57970,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "transportationTrain"
+    },
+    "transportation-truck": {
+      "codepoint": 57971,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "transportationTruck"
+    },
+    "transportation-vintage-train": {
+      "codepoint": 57972,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "transportationVintageTrain"
+    },
+    "travel-wayfinding-balloon": {
+      "codepoint": 57973,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "travelWayfindingBalloon"
+    },
+    "travel-wayfinding-beach-coconut-tree": {
+      "codepoint": 57974,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "travelWayfindingBeachCoconutTree"
+    },
+    "travel-wayfinding-beach-umbrella": {
+      "codepoint": 57975,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "travelWayfindingBeachUmbrella"
+    },
+    "travel-wayfinding-pool-ladder": {
+      "codepoint": 57976,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "travelWayfindingPoolLadder"
+    },
+    "ui-design-website": {
+      "codepoint": 57977,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "uiDesignWebsite"
+    },
+    "user-gender-female": {
+      "codepoint": 57978,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "userGenderFemale"
+    },
+    "user-gender-female-male": {
+      "codepoint": 57979,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "userGenderFemaleMale"
+    },
+    "user-gender-gay": {
+      "codepoint": 57980,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "userGenderGay"
+    },
+    "user-gender-lesbian": {
+      "codepoint": 57981,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "userGenderLesbian"
+    },
+    "user-gender-male": {
+      "codepoint": 57982,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "userGenderMale"
+    },
+    "user-man-love": {
+      "codepoint": 57983,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "userManLove"
+    },
+    "user-single-aim": {
+      "codepoint": 57984,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "userSingleAim"
+    },
+    "user-sleep": {
+      "codepoint": 57985,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "userSleep"
+    },
+    "user-woman-increasing-arrow": {
+      "codepoint": 57986,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "userWomanIncreasingArrow"
+    },
+    "video-movies-play": {
+      "codepoint": 57987,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "videoMoviesPlay"
+    },
+    "video-movies-player": {
+      "codepoint": 57988,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "videoMoviesPlayer"
+    },
+    "video-movies-set-equipment": {
+      "codepoint": 57989,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "videoMoviesSetEquipment"
+    },
+    "video-movies-square-off": {
+      "codepoint": 57990,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "videoMoviesSquareOff"
+    },
+    "video-movies-video-square": {
+      "codepoint": 57991,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "videoMoviesVideoSquare"
+    },
+    "video-movies-vintage-tv-1": {
+      "codepoint": 57992,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "videoMoviesVintageTv1"
+    },
+    "video-movies-vintage-tv-2": {
+      "codepoint": 57993,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "videoMoviesVintageTv2"
+    },
+    "video-movies-vintage-tv-3": {
+      "codepoint": 57994,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "videoMoviesVintageTv3"
+    },
+    "vintage-phone": {
+      "codepoint": 57995,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "vintagePhone"
+    },
+    "weather-cloud-sun-fine": {
+      "codepoint": 57996,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "weatherCloudSunFine"
+    },
+    "weather-cresent-moon-stars": {
+      "codepoint": 57997,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "weatherCresentMoonStars"
+    },
+    "weather-meteor": {
+      "codepoint": 57998,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "weatherMeteor"
+    },
+    "weather-moon": {
+      "codepoint": 57999,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "weatherMoon"
+    },
+    "weather-rainbow": {
+      "codepoint": 58000,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "weatherRainbow"
+    },
+    "weather-snowman": {
+      "codepoint": 58001,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "weatherSnowman"
+    },
+    "weather-temperature-thermometer": {
+      "codepoint": 58002,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "weatherTemperatureThermometer"
+    },
+    "weather-umbrella": {
+      "codepoint": 58003,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "weatherUmbrella"
+    },
+    "weather-umbrella-snowing": {
+      "codepoint": 58004,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "weatherUmbrellaSnowing"
+    },
+    "weather-wind-flag": {
+      "codepoint": 58005,
+      "fontFamily": "StreamlinePixel",
+      "identifier": "weatherWindFlag"
+    }
+  }
+}

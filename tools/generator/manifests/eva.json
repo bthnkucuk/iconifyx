@@ -1,0 +1,2480 @@
+{
+  "schemaVersion": 1,
+  "prefix": "eva",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Archive / Unmaintained",
+  "subPackage": "iconifyx_eva",
+  "info": {
+    "name": "Eva Icons",
+    "author": {
+      "name": "Akveo",
+      "url": "https://github.com/akveo/eva-icons/"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/akveo/eva-icons/blob/master/LICENSE.txt"
+    },
+    "total": 490
+  },
+  "fonts": [
+    {
+      "family": "Eva",
+      "nextCodepoint": 57834,
+      "iconCount": 490
+    }
+  ],
+  "icons": {
+    "activity-fill": {
+      "codepoint": 57344,
+      "fontFamily": "Eva",
+      "identifier": "activityFill"
+    },
+    "activity-outline": {
+      "codepoint": 57345,
+      "fontFamily": "Eva",
+      "identifier": "activityOutline"
+    },
+    "alert-circle-fill": {
+      "codepoint": 57346,
+      "fontFamily": "Eva",
+      "identifier": "alertCircleFill"
+    },
+    "alert-circle-outline": {
+      "codepoint": 57347,
+      "fontFamily": "Eva",
+      "identifier": "alertCircleOutline"
+    },
+    "alert-triangle-fill": {
+      "codepoint": 57348,
+      "fontFamily": "Eva",
+      "identifier": "alertTriangleFill"
+    },
+    "alert-triangle-outline": {
+      "codepoint": 57349,
+      "fontFamily": "Eva",
+      "identifier": "alertTriangleOutline"
+    },
+    "archive-fill": {
+      "codepoint": 57350,
+      "fontFamily": "Eva",
+      "identifier": "archiveFill"
+    },
+    "archive-outline": {
+      "codepoint": 57351,
+      "fontFamily": "Eva",
+      "identifier": "archiveOutline"
+    },
+    "arrow-back-fill": {
+      "codepoint": 57352,
+      "fontFamily": "Eva",
+      "identifier": "arrowBackFill"
+    },
+    "arrow-back-outline": {
+      "codepoint": 57353,
+      "fontFamily": "Eva",
+      "identifier": "arrowBackOutline"
+    },
+    "arrow-circle-down-fill": {
+      "codepoint": 57354,
+      "fontFamily": "Eva",
+      "identifier": "arrowCircleDownFill"
+    },
+    "arrow-circle-down-outline": {
+      "codepoint": 57355,
+      "fontFamily": "Eva",
+      "identifier": "arrowCircleDownOutline"
+    },
+    "arrow-circle-left-fill": {
+      "codepoint": 57356,
+      "fontFamily": "Eva",
+      "identifier": "arrowCircleLeftFill"
+    },
+    "arrow-circle-left-outline": {
+      "codepoint": 57357,
+      "fontFamily": "Eva",
+      "identifier": "arrowCircleLeftOutline"
+    },
+    "arrow-circle-right-fill": {
+      "codepoint": 57358,
+      "fontFamily": "Eva",
+      "identifier": "arrowCircleRightFill"
+    },
+    "arrow-circle-right-outline": {
+      "codepoint": 57359,
+      "fontFamily": "Eva",
+      "identifier": "arrowCircleRightOutline"
+    },
+    "arrow-circle-up-fill": {
+      "codepoint": 57360,
+      "fontFamily": "Eva",
+      "identifier": "arrowCircleUpFill"
+    },
+    "arrow-circle-up-outline": {
+      "codepoint": 57361,
+      "fontFamily": "Eva",
+      "identifier": "arrowCircleUpOutline"
+    },
+    "arrow-down-fill": {
+      "codepoint": 57362,
+      "fontFamily": "Eva",
+      "identifier": "arrowDownFill"
+    },
+    "arrow-down-outline": {
+      "codepoint": 57363,
+      "fontFamily": "Eva",
+      "identifier": "arrowDownOutline"
+    },
+    "arrow-downward-fill": {
+      "codepoint": 57364,
+      "fontFamily": "Eva",
+      "identifier": "arrowDownwardFill"
+    },
+    "arrow-downward-outline": {
+      "codepoint": 57365,
+      "fontFamily": "Eva",
+      "identifier": "arrowDownwardOutline"
+    },
+    "arrow-forward-fill": {
+      "codepoint": 57366,
+      "fontFamily": "Eva",
+      "identifier": "arrowForwardFill"
+    },
+    "arrow-forward-outline": {
+      "codepoint": 57367,
+      "fontFamily": "Eva",
+      "identifier": "arrowForwardOutline"
+    },
+    "arrow-ios-back-fill": {
+      "codepoint": 57368,
+      "fontFamily": "Eva",
+      "identifier": "arrowIosBackFill"
+    },
+    "arrow-ios-back-outline": {
+      "codepoint": 57369,
+      "fontFamily": "Eva",
+      "identifier": "arrowIosBackOutline"
+    },
+    "arrow-ios-downward-fill": {
+      "codepoint": 57370,
+      "fontFamily": "Eva",
+      "identifier": "arrowIosDownwardFill"
+    },
+    "arrow-ios-downward-outline": {
+      "codepoint": 57371,
+      "fontFamily": "Eva",
+      "identifier": "arrowIosDownwardOutline"
+    },
+    "arrow-ios-forward-fill": {
+      "codepoint": 57372,
+      "fontFamily": "Eva",
+      "identifier": "arrowIosForwardFill"
+    },
+    "arrow-ios-forward-outline": {
+      "codepoint": 57373,
+      "fontFamily": "Eva",
+      "identifier": "arrowIosForwardOutline"
+    },
+    "arrow-ios-upward-fill": {
+      "codepoint": 57374,
+      "fontFamily": "Eva",
+      "identifier": "arrowIosUpwardFill"
+    },
+    "arrow-ios-upward-outline": {
+      "codepoint": 57375,
+      "fontFamily": "Eva",
+      "identifier": "arrowIosUpwardOutline"
+    },
+    "arrow-left-fill": {
+      "codepoint": 57376,
+      "fontFamily": "Eva",
+      "identifier": "arrowLeftFill"
+    },
+    "arrow-left-outline": {
+      "codepoint": 57377,
+      "fontFamily": "Eva",
+      "identifier": "arrowLeftOutline"
+    },
+    "arrow-right-fill": {
+      "codepoint": 57378,
+      "fontFamily": "Eva",
+      "identifier": "arrowRightFill"
+    },
+    "arrow-right-outline": {
+      "codepoint": 57379,
+      "fontFamily": "Eva",
+      "identifier": "arrowRightOutline"
+    },
+    "arrow-up-fill": {
+      "codepoint": 57380,
+      "fontFamily": "Eva",
+      "identifier": "arrowUpFill"
+    },
+    "arrow-up-outline": {
+      "codepoint": 57381,
+      "fontFamily": "Eva",
+      "identifier": "arrowUpOutline"
+    },
+    "arrow-upward-fill": {
+      "codepoint": 57382,
+      "fontFamily": "Eva",
+      "identifier": "arrowUpwardFill"
+    },
+    "arrow-upward-outline": {
+      "codepoint": 57383,
+      "fontFamily": "Eva",
+      "identifier": "arrowUpwardOutline"
+    },
+    "arrowhead-down-fill": {
+      "codepoint": 57384,
+      "fontFamily": "Eva",
+      "identifier": "arrowheadDownFill"
+    },
+    "arrowhead-down-outline": {
+      "codepoint": 57385,
+      "fontFamily": "Eva",
+      "identifier": "arrowheadDownOutline"
+    },
+    "arrowhead-left-fill": {
+      "codepoint": 57386,
+      "fontFamily": "Eva",
+      "identifier": "arrowheadLeftFill"
+    },
+    "arrowhead-left-outline": {
+      "codepoint": 57387,
+      "fontFamily": "Eva",
+      "identifier": "arrowheadLeftOutline"
+    },
+    "arrowhead-right-fill": {
+      "codepoint": 57388,
+      "fontFamily": "Eva",
+      "identifier": "arrowheadRightFill"
+    },
+    "arrowhead-right-outline": {
+      "codepoint": 57389,
+      "fontFamily": "Eva",
+      "identifier": "arrowheadRightOutline"
+    },
+    "arrowhead-up-fill": {
+      "codepoint": 57390,
+      "fontFamily": "Eva",
+      "identifier": "arrowheadUpFill"
+    },
+    "arrowhead-up-outline": {
+      "codepoint": 57391,
+      "fontFamily": "Eva",
+      "identifier": "arrowheadUpOutline"
+    },
+    "at-fill": {
+      "codepoint": 57392,
+      "fontFamily": "Eva",
+      "identifier": "atFill"
+    },
+    "at-outline": {
+      "codepoint": 57393,
+      "fontFamily": "Eva",
+      "identifier": "atOutline"
+    },
+    "attach-2-fill": {
+      "codepoint": 57394,
+      "fontFamily": "Eva",
+      "identifier": "attach2Fill"
+    },
+    "attach-2-outline": {
+      "codepoint": 57395,
+      "fontFamily": "Eva",
+      "identifier": "attach2Outline"
+    },
+    "attach-fill": {
+      "codepoint": 57396,
+      "fontFamily": "Eva",
+      "identifier": "attachFill"
+    },
+    "attach-outline": {
+      "codepoint": 57397,
+      "fontFamily": "Eva",
+      "identifier": "attachOutline"
+    },
+    "award-fill": {
+      "codepoint": 57398,
+      "fontFamily": "Eva",
+      "identifier": "awardFill"
+    },
+    "award-outline": {
+      "codepoint": 57399,
+      "fontFamily": "Eva",
+      "identifier": "awardOutline"
+    },
+    "backspace-fill": {
+      "codepoint": 57400,
+      "fontFamily": "Eva",
+      "identifier": "backspaceFill"
+    },
+    "backspace-outline": {
+      "codepoint": 57401,
+      "fontFamily": "Eva",
+      "identifier": "backspaceOutline"
+    },
+    "bar-chart-2-fill": {
+      "codepoint": 57402,
+      "fontFamily": "Eva",
+      "identifier": "barChart2Fill"
+    },
+    "bar-chart-2-outline": {
+      "codepoint": 57403,
+      "fontFamily": "Eva",
+      "identifier": "barChart2Outline"
+    },
+    "bar-chart-fill": {
+      "codepoint": 57404,
+      "fontFamily": "Eva",
+      "identifier": "barChartFill"
+    },
+    "bar-chart-outline": {
+      "codepoint": 57405,
+      "fontFamily": "Eva",
+      "identifier": "barChartOutline"
+    },
+    "battery-fill": {
+      "codepoint": 57406,
+      "fontFamily": "Eva",
+      "identifier": "batteryFill"
+    },
+    "battery-outline": {
+      "codepoint": 57407,
+      "fontFamily": "Eva",
+      "identifier": "batteryOutline"
+    },
+    "behance-fill": {
+      "codepoint": 57408,
+      "fontFamily": "Eva",
+      "identifier": "behanceFill"
+    },
+    "behance-outline": {
+      "codepoint": 57409,
+      "fontFamily": "Eva",
+      "identifier": "behanceOutline"
+    },
+    "bell-fill": {
+      "codepoint": 57410,
+      "fontFamily": "Eva",
+      "identifier": "bellFill"
+    },
+    "bell-off-fill": {
+      "codepoint": 57411,
+      "fontFamily": "Eva",
+      "identifier": "bellOffFill"
+    },
+    "bell-off-outline": {
+      "codepoint": 57412,
+      "fontFamily": "Eva",
+      "identifier": "bellOffOutline"
+    },
+    "bell-outline": {
+      "codepoint": 57413,
+      "fontFamily": "Eva",
+      "identifier": "bellOutline"
+    },
+    "bluetooth-fill": {
+      "codepoint": 57414,
+      "fontFamily": "Eva",
+      "identifier": "bluetoothFill"
+    },
+    "bluetooth-outline": {
+      "codepoint": 57415,
+      "fontFamily": "Eva",
+      "identifier": "bluetoothOutline"
+    },
+    "book-fill": {
+      "codepoint": 57416,
+      "fontFamily": "Eva",
+      "identifier": "bookFill"
+    },
+    "book-open-fill": {
+      "codepoint": 57417,
+      "fontFamily": "Eva",
+      "identifier": "bookOpenFill"
+    },
+    "book-open-outline": {
+      "codepoint": 57418,
+      "fontFamily": "Eva",
+      "identifier": "bookOpenOutline"
+    },
+    "book-outline": {
+      "codepoint": 57419,
+      "fontFamily": "Eva",
+      "identifier": "bookOutline"
+    },
+    "bookmark-fill": {
+      "codepoint": 57420,
+      "fontFamily": "Eva",
+      "identifier": "bookmarkFill"
+    },
+    "bookmark-outline": {
+      "codepoint": 57421,
+      "fontFamily": "Eva",
+      "identifier": "bookmarkOutline"
+    },
+    "briefcase-fill": {
+      "codepoint": 57422,
+      "fontFamily": "Eva",
+      "identifier": "briefcaseFill"
+    },
+    "briefcase-outline": {
+      "codepoint": 57423,
+      "fontFamily": "Eva",
+      "identifier": "briefcaseOutline"
+    },
+    "browser-fill": {
+      "codepoint": 57424,
+      "fontFamily": "Eva",
+      "identifier": "browserFill"
+    },
+    "browser-outline": {
+      "codepoint": 57425,
+      "fontFamily": "Eva",
+      "identifier": "browserOutline"
+    },
+    "brush-fill": {
+      "codepoint": 57426,
+      "fontFamily": "Eva",
+      "identifier": "brushFill"
+    },
+    "brush-outline": {
+      "codepoint": 57427,
+      "fontFamily": "Eva",
+      "identifier": "brushOutline"
+    },
+    "bulb-fill": {
+      "codepoint": 57428,
+      "fontFamily": "Eva",
+      "identifier": "bulbFill"
+    },
+    "bulb-outline": {
+      "codepoint": 57429,
+      "fontFamily": "Eva",
+      "identifier": "bulbOutline"
+    },
+    "calendar-fill": {
+      "codepoint": 57430,
+      "fontFamily": "Eva",
+      "identifier": "calendarFill"
+    },
+    "calendar-outline": {
+      "codepoint": 57431,
+      "fontFamily": "Eva",
+      "identifier": "calendarOutline"
+    },
+    "camera-fill": {
+      "codepoint": 57432,
+      "fontFamily": "Eva",
+      "identifier": "cameraFill"
+    },
+    "camera-outline": {
+      "codepoint": 57433,
+      "fontFamily": "Eva",
+      "identifier": "cameraOutline"
+    },
+    "car-fill": {
+      "codepoint": 57434,
+      "fontFamily": "Eva",
+      "identifier": "carFill"
+    },
+    "car-outline": {
+      "codepoint": 57435,
+      "fontFamily": "Eva",
+      "identifier": "carOutline"
+    },
+    "cast-fill": {
+      "codepoint": 57436,
+      "fontFamily": "Eva",
+      "identifier": "castFill"
+    },
+    "cast-outline": {
+      "codepoint": 57437,
+      "fontFamily": "Eva",
+      "identifier": "castOutline"
+    },
+    "charging-fill": {
+      "codepoint": 57438,
+      "fontFamily": "Eva",
+      "identifier": "chargingFill"
+    },
+    "charging-outline": {
+      "codepoint": 57439,
+      "fontFamily": "Eva",
+      "identifier": "chargingOutline"
+    },
+    "checkmark-circle-2-fill": {
+      "codepoint": 57440,
+      "fontFamily": "Eva",
+      "identifier": "checkmarkCircle2Fill"
+    },
+    "checkmark-circle-2-outline": {
+      "codepoint": 57441,
+      "fontFamily": "Eva",
+      "identifier": "checkmarkCircle2Outline"
+    },
+    "checkmark-circle-fill": {
+      "codepoint": 57442,
+      "fontFamily": "Eva",
+      "identifier": "checkmarkCircleFill"
+    },
+    "checkmark-circle-outline": {
+      "codepoint": 57443,
+      "fontFamily": "Eva",
+      "identifier": "checkmarkCircleOutline"
+    },
+    "checkmark-fill": {
+      "codepoint": 57444,
+      "fontFamily": "Eva",
+      "identifier": "checkmarkFill"
+    },
+    "checkmark-outline": {
+      "codepoint": 57445,
+      "fontFamily": "Eva",
+      "identifier": "checkmarkOutline"
+    },
+    "checkmark-square-2-fill": {
+      "codepoint": 57446,
+      "fontFamily": "Eva",
+      "identifier": "checkmarkSquare2Fill"
+    },
+    "checkmark-square-2-outline": {
+      "codepoint": 57447,
+      "fontFamily": "Eva",
+      "identifier": "checkmarkSquare2Outline"
+    },
+    "checkmark-square-fill": {
+      "codepoint": 57448,
+      "fontFamily": "Eva",
+      "identifier": "checkmarkSquareFill"
+    },
+    "checkmark-square-outline": {
+      "codepoint": 57449,
+      "fontFamily": "Eva",
+      "identifier": "checkmarkSquareOutline"
+    },
+    "chevron-down-fill": {
+      "codepoint": 57450,
+      "fontFamily": "Eva",
+      "identifier": "chevronDownFill"
+    },
+    "chevron-down-outline": {
+      "codepoint": 57451,
+      "fontFamily": "Eva",
+      "identifier": "chevronDownOutline"
+    },
+    "chevron-left-fill": {
+      "codepoint": 57452,
+      "fontFamily": "Eva",
+      "identifier": "chevronLeftFill"
+    },
+    "chevron-left-outline": {
+      "codepoint": 57453,
+      "fontFamily": "Eva",
+      "identifier": "chevronLeftOutline"
+    },
+    "chevron-right-fill": {
+      "codepoint": 57454,
+      "fontFamily": "Eva",
+      "identifier": "chevronRightFill"
+    },
+    "chevron-right-outline": {
+      "codepoint": 57455,
+      "fontFamily": "Eva",
+      "identifier": "chevronRightOutline"
+    },
+    "chevron-up-fill": {
+      "codepoint": 57456,
+      "fontFamily": "Eva",
+      "identifier": "chevronUpFill"
+    },
+    "chevron-up-outline": {
+      "codepoint": 57457,
+      "fontFamily": "Eva",
+      "identifier": "chevronUpOutline"
+    },
+    "clipboard-fill": {
+      "codepoint": 57458,
+      "fontFamily": "Eva",
+      "identifier": "clipboardFill"
+    },
+    "clipboard-outline": {
+      "codepoint": 57459,
+      "fontFamily": "Eva",
+      "identifier": "clipboardOutline"
+    },
+    "clock-fill": {
+      "codepoint": 57460,
+      "fontFamily": "Eva",
+      "identifier": "clockFill"
+    },
+    "clock-outline": {
+      "codepoint": 57461,
+      "fontFamily": "Eva",
+      "identifier": "clockOutline"
+    },
+    "close-circle-fill": {
+      "codepoint": 57462,
+      "fontFamily": "Eva",
+      "identifier": "closeCircleFill"
+    },
+    "close-circle-outline": {
+      "codepoint": 57463,
+      "fontFamily": "Eva",
+      "identifier": "closeCircleOutline"
+    },
+    "close-fill": {
+      "codepoint": 57464,
+      "fontFamily": "Eva",
+      "identifier": "closeFill"
+    },
+    "close-outline": {
+      "codepoint": 57465,
+      "fontFamily": "Eva",
+      "identifier": "closeOutline"
+    },
+    "close-square-fill": {
+      "codepoint": 57466,
+      "fontFamily": "Eva",
+      "identifier": "closeSquareFill"
+    },
+    "close-square-outline": {
+      "codepoint": 57467,
+      "fontFamily": "Eva",
+      "identifier": "closeSquareOutline"
+    },
+    "cloud-download-fill": {
+      "codepoint": 57468,
+      "fontFamily": "Eva",
+      "identifier": "cloudDownloadFill"
+    },
+    "cloud-download-outline": {
+      "codepoint": 57469,
+      "fontFamily": "Eva",
+      "identifier": "cloudDownloadOutline"
+    },
+    "cloud-upload-fill": {
+      "codepoint": 57470,
+      "fontFamily": "Eva",
+      "identifier": "cloudUploadFill"
+    },
+    "cloud-upload-outline": {
+      "codepoint": 57471,
+      "fontFamily": "Eva",
+      "identifier": "cloudUploadOutline"
+    },
+    "code-download-fill": {
+      "codepoint": 57472,
+      "fontFamily": "Eva",
+      "identifier": "codeDownloadFill"
+    },
+    "code-download-outline": {
+      "codepoint": 57473,
+      "fontFamily": "Eva",
+      "identifier": "codeDownloadOutline"
+    },
+    "code-fill": {
+      "codepoint": 57474,
+      "fontFamily": "Eva",
+      "identifier": "codeFill"
+    },
+    "code-outline": {
+      "codepoint": 57475,
+      "fontFamily": "Eva",
+      "identifier": "codeOutline"
+    },
+    "collapse-fill": {
+      "codepoint": 57476,
+      "fontFamily": "Eva",
+      "identifier": "collapseFill"
+    },
+    "collapse-outline": {
+      "codepoint": 57477,
+      "fontFamily": "Eva",
+      "identifier": "collapseOutline"
+    },
+    "color-palette-fill": {
+      "codepoint": 57478,
+      "fontFamily": "Eva",
+      "identifier": "colorPaletteFill"
+    },
+    "color-palette-outline": {
+      "codepoint": 57479,
+      "fontFamily": "Eva",
+      "identifier": "colorPaletteOutline"
+    },
+    "color-picker-fill": {
+      "codepoint": 57480,
+      "fontFamily": "Eva",
+      "identifier": "colorPickerFill"
+    },
+    "color-picker-outline": {
+      "codepoint": 57481,
+      "fontFamily": "Eva",
+      "identifier": "colorPickerOutline"
+    },
+    "compass-fill": {
+      "codepoint": 57482,
+      "fontFamily": "Eva",
+      "identifier": "compassFill"
+    },
+    "compass-outline": {
+      "codepoint": 57483,
+      "fontFamily": "Eva",
+      "identifier": "compassOutline"
+    },
+    "copy-fill": {
+      "codepoint": 57484,
+      "fontFamily": "Eva",
+      "identifier": "copyFill"
+    },
+    "copy-outline": {
+      "codepoint": 57485,
+      "fontFamily": "Eva",
+      "identifier": "copyOutline"
+    },
+    "corner-down-left-fill": {
+      "codepoint": 57486,
+      "fontFamily": "Eva",
+      "identifier": "cornerDownLeftFill"
+    },
+    "corner-down-left-outline": {
+      "codepoint": 57487,
+      "fontFamily": "Eva",
+      "identifier": "cornerDownLeftOutline"
+    },
+    "corner-down-right-fill": {
+      "codepoint": 57488,
+      "fontFamily": "Eva",
+      "identifier": "cornerDownRightFill"
+    },
+    "corner-down-right-outline": {
+      "codepoint": 57489,
+      "fontFamily": "Eva",
+      "identifier": "cornerDownRightOutline"
+    },
+    "corner-left-down-fill": {
+      "codepoint": 57490,
+      "fontFamily": "Eva",
+      "identifier": "cornerLeftDownFill"
+    },
+    "corner-left-down-outline": {
+      "codepoint": 57491,
+      "fontFamily": "Eva",
+      "identifier": "cornerLeftDownOutline"
+    },
+    "corner-left-up-fill": {
+      "codepoint": 57492,
+      "fontFamily": "Eva",
+      "identifier": "cornerLeftUpFill"
+    },
+    "corner-left-up-outline": {
+      "codepoint": 57493,
+      "fontFamily": "Eva",
+      "identifier": "cornerLeftUpOutline"
+    },
+    "corner-right-down-fill": {
+      "codepoint": 57494,
+      "fontFamily": "Eva",
+      "identifier": "cornerRightDownFill"
+    },
+    "corner-right-down-outline": {
+      "codepoint": 57495,
+      "fontFamily": "Eva",
+      "identifier": "cornerRightDownOutline"
+    },
+    "corner-right-up-fill": {
+      "codepoint": 57496,
+      "fontFamily": "Eva",
+      "identifier": "cornerRightUpFill"
+    },
+    "corner-right-up-outline": {
+      "codepoint": 57497,
+      "fontFamily": "Eva",
+      "identifier": "cornerRightUpOutline"
+    },
+    "corner-up-left-fill": {
+      "codepoint": 57498,
+      "fontFamily": "Eva",
+      "identifier": "cornerUpLeftFill"
+    },
+    "corner-up-left-outline": {
+      "codepoint": 57499,
+      "fontFamily": "Eva",
+      "identifier": "cornerUpLeftOutline"
+    },
+    "corner-up-right-fill": {
+      "codepoint": 57500,
+      "fontFamily": "Eva",
+      "identifier": "cornerUpRightFill"
+    },
+    "corner-up-right-outline": {
+      "codepoint": 57501,
+      "fontFamily": "Eva",
+      "identifier": "cornerUpRightOutline"
+    },
+    "credit-card-fill": {
+      "codepoint": 57502,
+      "fontFamily": "Eva",
+      "identifier": "creditCardFill"
+    },
+    "credit-card-outline": {
+      "codepoint": 57503,
+      "fontFamily": "Eva",
+      "identifier": "creditCardOutline"
+    },
+    "crop-fill": {
+      "codepoint": 57504,
+      "fontFamily": "Eva",
+      "identifier": "cropFill"
+    },
+    "crop-outline": {
+      "codepoint": 57505,
+      "fontFamily": "Eva",
+      "identifier": "cropOutline"
+    },
+    "cube-fill": {
+      "codepoint": 57506,
+      "fontFamily": "Eva",
+      "identifier": "cubeFill"
+    },
+    "cube-outline": {
+      "codepoint": 57507,
+      "fontFamily": "Eva",
+      "identifier": "cubeOutline"
+    },
+    "diagonal-arrow-left-down-fill": {
+      "codepoint": 57508,
+      "fontFamily": "Eva",
+      "identifier": "diagonalArrowLeftDownFill"
+    },
+    "diagonal-arrow-left-down-outline": {
+      "codepoint": 57509,
+      "fontFamily": "Eva",
+      "identifier": "diagonalArrowLeftDownOutline"
+    },
+    "diagonal-arrow-left-up-fill": {
+      "codepoint": 57510,
+      "fontFamily": "Eva",
+      "identifier": "diagonalArrowLeftUpFill"
+    },
+    "diagonal-arrow-left-up-outline": {
+      "codepoint": 57511,
+      "fontFamily": "Eva",
+      "identifier": "diagonalArrowLeftUpOutline"
+    },
+    "diagonal-arrow-right-down-fill": {
+      "codepoint": 57512,
+      "fontFamily": "Eva",
+      "identifier": "diagonalArrowRightDownFill"
+    },
+    "diagonal-arrow-right-down-outline": {
+      "codepoint": 57513,
+      "fontFamily": "Eva",
+      "identifier": "diagonalArrowRightDownOutline"
+    },
+    "diagonal-arrow-right-up-fill": {
+      "codepoint": 57514,
+      "fontFamily": "Eva",
+      "identifier": "diagonalArrowRightUpFill"
+    },
+    "diagonal-arrow-right-up-outline": {
+      "codepoint": 57515,
+      "fontFamily": "Eva",
+      "identifier": "diagonalArrowRightUpOutline"
+    },
+    "done-all-fill": {
+      "codepoint": 57516,
+      "fontFamily": "Eva",
+      "identifier": "doneAllFill"
+    },
+    "done-all-outline": {
+      "codepoint": 57517,
+      "fontFamily": "Eva",
+      "identifier": "doneAllOutline"
+    },
+    "download-fill": {
+      "codepoint": 57518,
+      "fontFamily": "Eva",
+      "identifier": "downloadFill"
+    },
+    "download-outline": {
+      "codepoint": 57519,
+      "fontFamily": "Eva",
+      "identifier": "downloadOutline"
+    },
+    "droplet-fill": {
+      "codepoint": 57520,
+      "fontFamily": "Eva",
+      "identifier": "dropletFill"
+    },
+    "droplet-off-fill": {
+      "codepoint": 57521,
+      "fontFamily": "Eva",
+      "identifier": "dropletOffFill"
+    },
+    "droplet-off-outline": {
+      "codepoint": 57522,
+      "fontFamily": "Eva",
+      "identifier": "dropletOffOutline"
+    },
+    "droplet-outline": {
+      "codepoint": 57523,
+      "fontFamily": "Eva",
+      "identifier": "dropletOutline"
+    },
+    "edit-2-fill": {
+      "codepoint": 57524,
+      "fontFamily": "Eva",
+      "identifier": "edit2Fill"
+    },
+    "edit-2-outline": {
+      "codepoint": 57525,
+      "fontFamily": "Eva",
+      "identifier": "edit2Outline"
+    },
+    "edit-fill": {
+      "codepoint": 57526,
+      "fontFamily": "Eva",
+      "identifier": "editFill"
+    },
+    "edit-outline": {
+      "codepoint": 57527,
+      "fontFamily": "Eva",
+      "identifier": "editOutline"
+    },
+    "email-fill": {
+      "codepoint": 57528,
+      "fontFamily": "Eva",
+      "identifier": "emailFill"
+    },
+    "email-outline": {
+      "codepoint": 57529,
+      "fontFamily": "Eva",
+      "identifier": "emailOutline"
+    },
+    "expand-fill": {
+      "codepoint": 57530,
+      "fontFamily": "Eva",
+      "identifier": "expandFill"
+    },
+    "expand-outline": {
+      "codepoint": 57531,
+      "fontFamily": "Eva",
+      "identifier": "expandOutline"
+    },
+    "external-link-fill": {
+      "codepoint": 57532,
+      "fontFamily": "Eva",
+      "identifier": "externalLinkFill"
+    },
+    "external-link-outline": {
+      "codepoint": 57533,
+      "fontFamily": "Eva",
+      "identifier": "externalLinkOutline"
+    },
+    "eye-fill": {
+      "codepoint": 57534,
+      "fontFamily": "Eva",
+      "identifier": "eyeFill"
+    },
+    "eye-off-2-fill": {
+      "codepoint": 57535,
+      "fontFamily": "Eva",
+      "identifier": "eyeOff2Fill"
+    },
+    "eye-off-2-outline": {
+      "codepoint": 57536,
+      "fontFamily": "Eva",
+      "identifier": "eyeOff2Outline"
+    },
+    "eye-off-fill": {
+      "codepoint": 57537,
+      "fontFamily": "Eva",
+      "identifier": "eyeOffFill"
+    },
+    "eye-off-outline": {
+      "codepoint": 57538,
+      "fontFamily": "Eva",
+      "identifier": "eyeOffOutline"
+    },
+    "eye-outline": {
+      "codepoint": 57539,
+      "fontFamily": "Eva",
+      "identifier": "eyeOutline"
+    },
+    "facebook-fill": {
+      "codepoint": 57540,
+      "fontFamily": "Eva",
+      "identifier": "facebookFill"
+    },
+    "facebook-outline": {
+      "codepoint": 57541,
+      "fontFamily": "Eva",
+      "identifier": "facebookOutline"
+    },
+    "file-add-fill": {
+      "codepoint": 57542,
+      "fontFamily": "Eva",
+      "identifier": "fileAddFill"
+    },
+    "file-add-outline": {
+      "codepoint": 57543,
+      "fontFamily": "Eva",
+      "identifier": "fileAddOutline"
+    },
+    "file-fill": {
+      "codepoint": 57544,
+      "fontFamily": "Eva",
+      "identifier": "fileFill"
+    },
+    "file-outline": {
+      "codepoint": 57545,
+      "fontFamily": "Eva",
+      "identifier": "fileOutline"
+    },
+    "file-remove-fill": {
+      "codepoint": 57546,
+      "fontFamily": "Eva",
+      "identifier": "fileRemoveFill"
+    },
+    "file-remove-outline": {
+      "codepoint": 57547,
+      "fontFamily": "Eva",
+      "identifier": "fileRemoveOutline"
+    },
+    "file-text-fill": {
+      "codepoint": 57548,
+      "fontFamily": "Eva",
+      "identifier": "fileTextFill"
+    },
+    "file-text-outline": {
+      "codepoint": 57549,
+      "fontFamily": "Eva",
+      "identifier": "fileTextOutline"
+    },
+    "film-fill": {
+      "codepoint": 57550,
+      "fontFamily": "Eva",
+      "identifier": "filmFill"
+    },
+    "film-outline": {
+      "codepoint": 57551,
+      "fontFamily": "Eva",
+      "identifier": "filmOutline"
+    },
+    "flag-fill": {
+      "codepoint": 57552,
+      "fontFamily": "Eva",
+      "identifier": "flagFill"
+    },
+    "flag-outline": {
+      "codepoint": 57553,
+      "fontFamily": "Eva",
+      "identifier": "flagOutline"
+    },
+    "flash-fill": {
+      "codepoint": 57554,
+      "fontFamily": "Eva",
+      "identifier": "flashFill"
+    },
+    "flash-off-fill": {
+      "codepoint": 57555,
+      "fontFamily": "Eva",
+      "identifier": "flashOffFill"
+    },
+    "flash-off-outline": {
+      "codepoint": 57556,
+      "fontFamily": "Eva",
+      "identifier": "flashOffOutline"
+    },
+    "flash-outline": {
+      "codepoint": 57557,
+      "fontFamily": "Eva",
+      "identifier": "flashOutline"
+    },
+    "flip-2-fill": {
+      "codepoint": 57558,
+      "fontFamily": "Eva",
+      "identifier": "flip2Fill"
+    },
+    "flip-2-outline": {
+      "codepoint": 57559,
+      "fontFamily": "Eva",
+      "identifier": "flip2Outline"
+    },
+    "flip-fill": {
+      "codepoint": 57560,
+      "fontFamily": "Eva",
+      "identifier": "flipFill"
+    },
+    "flip-outline": {
+      "codepoint": 57561,
+      "fontFamily": "Eva",
+      "identifier": "flipOutline"
+    },
+    "folder-add-fill": {
+      "codepoint": 57562,
+      "fontFamily": "Eva",
+      "identifier": "folderAddFill"
+    },
+    "folder-add-outline": {
+      "codepoint": 57563,
+      "fontFamily": "Eva",
+      "identifier": "folderAddOutline"
+    },
+    "folder-fill": {
+      "codepoint": 57564,
+      "fontFamily": "Eva",
+      "identifier": "folderFill"
+    },
+    "folder-outline": {
+      "codepoint": 57565,
+      "fontFamily": "Eva",
+      "identifier": "folderOutline"
+    },
+    "folder-remove-fill": {
+      "codepoint": 57566,
+      "fontFamily": "Eva",
+      "identifier": "folderRemoveFill"
+    },
+    "folder-remove-outline": {
+      "codepoint": 57567,
+      "fontFamily": "Eva",
+      "identifier": "folderRemoveOutline"
+    },
+    "funnel-fill": {
+      "codepoint": 57568,
+      "fontFamily": "Eva",
+      "identifier": "funnelFill"
+    },
+    "funnel-outline": {
+      "codepoint": 57569,
+      "fontFamily": "Eva",
+      "identifier": "funnelOutline"
+    },
+    "gift-fill": {
+      "codepoint": 57570,
+      "fontFamily": "Eva",
+      "identifier": "giftFill"
+    },
+    "gift-outline": {
+      "codepoint": 57571,
+      "fontFamily": "Eva",
+      "identifier": "giftOutline"
+    },
+    "github-fill": {
+      "codepoint": 57572,
+      "fontFamily": "Eva",
+      "identifier": "githubFill"
+    },
+    "github-outline": {
+      "codepoint": 57573,
+      "fontFamily": "Eva",
+      "identifier": "githubOutline"
+    },
+    "globe-2-fill": {
+      "codepoint": 57574,
+      "fontFamily": "Eva",
+      "identifier": "globe2Fill"
+    },
+    "globe-2-outline": {
+      "codepoint": 57575,
+      "fontFamily": "Eva",
+      "identifier": "globe2Outline"
+    },
+    "globe-3-fill": {
+      "codepoint": 57576,
+      "fontFamily": "Eva",
+      "identifier": "globe3Fill"
+    },
+    "globe-fill": {
+      "codepoint": 57577,
+      "fontFamily": "Eva",
+      "identifier": "globeFill"
+    },
+    "globe-outline": {
+      "codepoint": 57578,
+      "fontFamily": "Eva",
+      "identifier": "globeOutline"
+    },
+    "google-fill": {
+      "codepoint": 57579,
+      "fontFamily": "Eva",
+      "identifier": "googleFill"
+    },
+    "google-outline": {
+      "codepoint": 57580,
+      "fontFamily": "Eva",
+      "identifier": "googleOutline"
+    },
+    "grid-fill": {
+      "codepoint": 57581,
+      "fontFamily": "Eva",
+      "identifier": "gridFill"
+    },
+    "grid-outline": {
+      "codepoint": 57582,
+      "fontFamily": "Eva",
+      "identifier": "gridOutline"
+    },
+    "hard-drive-fill": {
+      "codepoint": 57583,
+      "fontFamily": "Eva",
+      "identifier": "hardDriveFill"
+    },
+    "hard-drive-outline": {
+      "codepoint": 57584,
+      "fontFamily": "Eva",
+      "identifier": "hardDriveOutline"
+    },
+    "hash-fill": {
+      "codepoint": 57585,
+      "fontFamily": "Eva",
+      "identifier": "hashFill"
+    },
+    "hash-outline": {
+      "codepoint": 57586,
+      "fontFamily": "Eva",
+      "identifier": "hashOutline"
+    },
+    "headphones-fill": {
+      "codepoint": 57587,
+      "fontFamily": "Eva",
+      "identifier": "headphonesFill"
+    },
+    "headphones-outline": {
+      "codepoint": 57588,
+      "fontFamily": "Eva",
+      "identifier": "headphonesOutline"
+    },
+    "heart-fill": {
+      "codepoint": 57589,
+      "fontFamily": "Eva",
+      "identifier": "heartFill"
+    },
+    "heart-outline": {
+      "codepoint": 57590,
+      "fontFamily": "Eva",
+      "identifier": "heartOutline"
+    },
+    "home-fill": {
+      "codepoint": 57591,
+      "fontFamily": "Eva",
+      "identifier": "homeFill"
+    },
+    "home-outline": {
+      "codepoint": 57592,
+      "fontFamily": "Eva",
+      "identifier": "homeOutline"
+    },
+    "image-2-fill": {
+      "codepoint": 57593,
+      "fontFamily": "Eva",
+      "identifier": "image2Fill"
+    },
+    "image-fill": {
+      "codepoint": 57594,
+      "fontFamily": "Eva",
+      "identifier": "imageFill"
+    },
+    "image-outline": {
+      "codepoint": 57595,
+      "fontFamily": "Eva",
+      "identifier": "imageOutline"
+    },
+    "inbox-fill": {
+      "codepoint": 57596,
+      "fontFamily": "Eva",
+      "identifier": "inboxFill"
+    },
+    "inbox-outline": {
+      "codepoint": 57597,
+      "fontFamily": "Eva",
+      "identifier": "inboxOutline"
+    },
+    "info-fill": {
+      "codepoint": 57598,
+      "fontFamily": "Eva",
+      "identifier": "infoFill"
+    },
+    "info-outline": {
+      "codepoint": 57599,
+      "fontFamily": "Eva",
+      "identifier": "infoOutline"
+    },
+    "keypad-fill": {
+      "codepoint": 57600,
+      "fontFamily": "Eva",
+      "identifier": "keypadFill"
+    },
+    "keypad-outline": {
+      "codepoint": 57601,
+      "fontFamily": "Eva",
+      "identifier": "keypadOutline"
+    },
+    "layers-fill": {
+      "codepoint": 57602,
+      "fontFamily": "Eva",
+      "identifier": "layersFill"
+    },
+    "layers-outline": {
+      "codepoint": 57603,
+      "fontFamily": "Eva",
+      "identifier": "layersOutline"
+    },
+    "layout-fill": {
+      "codepoint": 57604,
+      "fontFamily": "Eva",
+      "identifier": "layoutFill"
+    },
+    "layout-outline": {
+      "codepoint": 57605,
+      "fontFamily": "Eva",
+      "identifier": "layoutOutline"
+    },
+    "link-2-fill": {
+      "codepoint": 57606,
+      "fontFamily": "Eva",
+      "identifier": "link2Fill"
+    },
+    "link-2-outline": {
+      "codepoint": 57607,
+      "fontFamily": "Eva",
+      "identifier": "link2Outline"
+    },
+    "link-fill": {
+      "codepoint": 57608,
+      "fontFamily": "Eva",
+      "identifier": "linkFill"
+    },
+    "link-outline": {
+      "codepoint": 57609,
+      "fontFamily": "Eva",
+      "identifier": "linkOutline"
+    },
+    "linkedin-fill": {
+      "codepoint": 57610,
+      "fontFamily": "Eva",
+      "identifier": "linkedinFill"
+    },
+    "linkedin-outline": {
+      "codepoint": 57611,
+      "fontFamily": "Eva",
+      "identifier": "linkedinOutline"
+    },
+    "list-fill": {
+      "codepoint": 57612,
+      "fontFamily": "Eva",
+      "identifier": "listFill"
+    },
+    "list-outline": {
+      "codepoint": 57613,
+      "fontFamily": "Eva",
+      "identifier": "listOutline"
+    },
+    "loader-outline": {
+      "codepoint": 57614,
+      "fontFamily": "Eva",
+      "identifier": "loaderOutline"
+    },
+    "lock-fill": {
+      "codepoint": 57615,
+      "fontFamily": "Eva",
+      "identifier": "lockFill"
+    },
+    "lock-outline": {
+      "codepoint": 57616,
+      "fontFamily": "Eva",
+      "identifier": "lockOutline"
+    },
+    "log-in-fill": {
+      "codepoint": 57617,
+      "fontFamily": "Eva",
+      "identifier": "logInFill"
+    },
+    "log-in-outline": {
+      "codepoint": 57618,
+      "fontFamily": "Eva",
+      "identifier": "logInOutline"
+    },
+    "log-out-fill": {
+      "codepoint": 57619,
+      "fontFamily": "Eva",
+      "identifier": "logOutFill"
+    },
+    "log-out-outline": {
+      "codepoint": 57620,
+      "fontFamily": "Eva",
+      "identifier": "logOutOutline"
+    },
+    "map-fill": {
+      "codepoint": 57621,
+      "fontFamily": "Eva",
+      "identifier": "mapFill"
+    },
+    "map-outline": {
+      "codepoint": 57622,
+      "fontFamily": "Eva",
+      "identifier": "mapOutline"
+    },
+    "maximize-fill": {
+      "codepoint": 57623,
+      "fontFamily": "Eva",
+      "identifier": "maximizeFill"
+    },
+    "maximize-outline": {
+      "codepoint": 57624,
+      "fontFamily": "Eva",
+      "identifier": "maximizeOutline"
+    },
+    "menu-2-fill": {
+      "codepoint": 57625,
+      "fontFamily": "Eva",
+      "identifier": "menu2Fill"
+    },
+    "menu-2-outline": {
+      "codepoint": 57626,
+      "fontFamily": "Eva",
+      "identifier": "menu2Outline"
+    },
+    "menu-arrow-fill": {
+      "codepoint": 57627,
+      "fontFamily": "Eva",
+      "identifier": "menuArrowFill"
+    },
+    "menu-arrow-outline": {
+      "codepoint": 57628,
+      "fontFamily": "Eva",
+      "identifier": "menuArrowOutline"
+    },
+    "menu-fill": {
+      "codepoint": 57629,
+      "fontFamily": "Eva",
+      "identifier": "menuFill"
+    },
+    "menu-outline": {
+      "codepoint": 57630,
+      "fontFamily": "Eva",
+      "identifier": "menuOutline"
+    },
+    "message-circle-fill": {
+      "codepoint": 57631,
+      "fontFamily": "Eva",
+      "identifier": "messageCircleFill"
+    },
+    "message-circle-outline": {
+      "codepoint": 57632,
+      "fontFamily": "Eva",
+      "identifier": "messageCircleOutline"
+    },
+    "message-square-fill": {
+      "codepoint": 57633,
+      "fontFamily": "Eva",
+      "identifier": "messageSquareFill"
+    },
+    "message-square-outline": {
+      "codepoint": 57634,
+      "fontFamily": "Eva",
+      "identifier": "messageSquareOutline"
+    },
+    "mic-fill": {
+      "codepoint": 57635,
+      "fontFamily": "Eva",
+      "identifier": "micFill"
+    },
+    "mic-off-fill": {
+      "codepoint": 57636,
+      "fontFamily": "Eva",
+      "identifier": "micOffFill"
+    },
+    "mic-off-outline": {
+      "codepoint": 57637,
+      "fontFamily": "Eva",
+      "identifier": "micOffOutline"
+    },
+    "mic-outline": {
+      "codepoint": 57638,
+      "fontFamily": "Eva",
+      "identifier": "micOutline"
+    },
+    "minimize-fill": {
+      "codepoint": 57639,
+      "fontFamily": "Eva",
+      "identifier": "minimizeFill"
+    },
+    "minimize-outline": {
+      "codepoint": 57640,
+      "fontFamily": "Eva",
+      "identifier": "minimizeOutline"
+    },
+    "minus-circle-fill": {
+      "codepoint": 57641,
+      "fontFamily": "Eva",
+      "identifier": "minusCircleFill"
+    },
+    "minus-circle-outline": {
+      "codepoint": 57642,
+      "fontFamily": "Eva",
+      "identifier": "minusCircleOutline"
+    },
+    "minus-fill": {
+      "codepoint": 57643,
+      "fontFamily": "Eva",
+      "identifier": "minusFill"
+    },
+    "minus-outline": {
+      "codepoint": 57644,
+      "fontFamily": "Eva",
+      "identifier": "minusOutline"
+    },
+    "minus-square-fill": {
+      "codepoint": 57645,
+      "fontFamily": "Eva",
+      "identifier": "minusSquareFill"
+    },
+    "minus-square-outline": {
+      "codepoint": 57646,
+      "fontFamily": "Eva",
+      "identifier": "minusSquareOutline"
+    },
+    "monitor-fill": {
+      "codepoint": 57647,
+      "fontFamily": "Eva",
+      "identifier": "monitorFill"
+    },
+    "monitor-outline": {
+      "codepoint": 57648,
+      "fontFamily": "Eva",
+      "identifier": "monitorOutline"
+    },
+    "moon-fill": {
+      "codepoint": 57649,
+      "fontFamily": "Eva",
+      "identifier": "moonFill"
+    },
+    "moon-outline": {
+      "codepoint": 57650,
+      "fontFamily": "Eva",
+      "identifier": "moonOutline"
+    },
+    "more-horizontal-fill": {
+      "codepoint": 57651,
+      "fontFamily": "Eva",
+      "identifier": "moreHorizontalFill"
+    },
+    "more-horizontal-outline": {
+      "codepoint": 57652,
+      "fontFamily": "Eva",
+      "identifier": "moreHorizontalOutline"
+    },
+    "more-vertical-fill": {
+      "codepoint": 57653,
+      "fontFamily": "Eva",
+      "identifier": "moreVerticalFill"
+    },
+    "more-vertical-outline": {
+      "codepoint": 57654,
+      "fontFamily": "Eva",
+      "identifier": "moreVerticalOutline"
+    },
+    "move-fill": {
+      "codepoint": 57655,
+      "fontFamily": "Eva",
+      "identifier": "moveFill"
+    },
+    "move-outline": {
+      "codepoint": 57656,
+      "fontFamily": "Eva",
+      "identifier": "moveOutline"
+    },
+    "music-fill": {
+      "codepoint": 57657,
+      "fontFamily": "Eva",
+      "identifier": "musicFill"
+    },
+    "music-outline": {
+      "codepoint": 57658,
+      "fontFamily": "Eva",
+      "identifier": "musicOutline"
+    },
+    "navigation-2-fill": {
+      "codepoint": 57659,
+      "fontFamily": "Eva",
+      "identifier": "navigation2Fill"
+    },
+    "navigation-2-outline": {
+      "codepoint": 57660,
+      "fontFamily": "Eva",
+      "identifier": "navigation2Outline"
+    },
+    "navigation-fill": {
+      "codepoint": 57661,
+      "fontFamily": "Eva",
+      "identifier": "navigationFill"
+    },
+    "navigation-outline": {
+      "codepoint": 57662,
+      "fontFamily": "Eva",
+      "identifier": "navigationOutline"
+    },
+    "npm-fill": {
+      "codepoint": 57663,
+      "fontFamily": "Eva",
+      "identifier": "npmFill"
+    },
+    "npm-outline": {
+      "codepoint": 57664,
+      "fontFamily": "Eva",
+      "identifier": "npmOutline"
+    },
+    "options-2-fill": {
+      "codepoint": 57665,
+      "fontFamily": "Eva",
+      "identifier": "options2Fill"
+    },
+    "options-2-outline": {
+      "codepoint": 57666,
+      "fontFamily": "Eva",
+      "identifier": "options2Outline"
+    },
+    "options-fill": {
+      "codepoint": 57667,
+      "fontFamily": "Eva",
+      "identifier": "optionsFill"
+    },
+    "options-outline": {
+      "codepoint": 57668,
+      "fontFamily": "Eva",
+      "identifier": "optionsOutline"
+    },
+    "pantone-fill": {
+      "codepoint": 57669,
+      "fontFamily": "Eva",
+      "identifier": "pantoneFill"
+    },
+    "pantone-outline": {
+      "codepoint": 57670,
+      "fontFamily": "Eva",
+      "identifier": "pantoneOutline"
+    },
+    "paper-plane-fill": {
+      "codepoint": 57671,
+      "fontFamily": "Eva",
+      "identifier": "paperPlaneFill"
+    },
+    "paper-plane-outline": {
+      "codepoint": 57672,
+      "fontFamily": "Eva",
+      "identifier": "paperPlaneOutline"
+    },
+    "pause-circle-fill": {
+      "codepoint": 57673,
+      "fontFamily": "Eva",
+      "identifier": "pauseCircleFill"
+    },
+    "pause-circle-outline": {
+      "codepoint": 57674,
+      "fontFamily": "Eva",
+      "identifier": "pauseCircleOutline"
+    },
+    "people-fill": {
+      "codepoint": 57675,
+      "fontFamily": "Eva",
+      "identifier": "peopleFill"
+    },
+    "people-outline": {
+      "codepoint": 57676,
+      "fontFamily": "Eva",
+      "identifier": "peopleOutline"
+    },
+    "percent-fill": {
+      "codepoint": 57677,
+      "fontFamily": "Eva",
+      "identifier": "percentFill"
+    },
+    "percent-outline": {
+      "codepoint": 57678,
+      "fontFamily": "Eva",
+      "identifier": "percentOutline"
+    },
+    "person-add-fill": {
+      "codepoint": 57679,
+      "fontFamily": "Eva",
+      "identifier": "personAddFill"
+    },
+    "person-add-outline": {
+      "codepoint": 57680,
+      "fontFamily": "Eva",
+      "identifier": "personAddOutline"
+    },
+    "person-delete-fill": {
+      "codepoint": 57681,
+      "fontFamily": "Eva",
+      "identifier": "personDeleteFill"
+    },
+    "person-delete-outline": {
+      "codepoint": 57682,
+      "fontFamily": "Eva",
+      "identifier": "personDeleteOutline"
+    },
+    "person-done-fill": {
+      "codepoint": 57683,
+      "fontFamily": "Eva",
+      "identifier": "personDoneFill"
+    },
+    "person-done-outline": {
+      "codepoint": 57684,
+      "fontFamily": "Eva",
+      "identifier": "personDoneOutline"
+    },
+    "person-fill": {
+      "codepoint": 57685,
+      "fontFamily": "Eva",
+      "identifier": "personFill"
+    },
+    "person-outline": {
+      "codepoint": 57686,
+      "fontFamily": "Eva",
+      "identifier": "personOutline"
+    },
+    "person-remove-fill": {
+      "codepoint": 57687,
+      "fontFamily": "Eva",
+      "identifier": "personRemoveFill"
+    },
+    "person-remove-outline": {
+      "codepoint": 57688,
+      "fontFamily": "Eva",
+      "identifier": "personRemoveOutline"
+    },
+    "phone-call-fill": {
+      "codepoint": 57689,
+      "fontFamily": "Eva",
+      "identifier": "phoneCallFill"
+    },
+    "phone-call-outline": {
+      "codepoint": 57690,
+      "fontFamily": "Eva",
+      "identifier": "phoneCallOutline"
+    },
+    "phone-fill": {
+      "codepoint": 57691,
+      "fontFamily": "Eva",
+      "identifier": "phoneFill"
+    },
+    "phone-missed-fill": {
+      "codepoint": 57692,
+      "fontFamily": "Eva",
+      "identifier": "phoneMissedFill"
+    },
+    "phone-missed-outline": {
+      "codepoint": 57693,
+      "fontFamily": "Eva",
+      "identifier": "phoneMissedOutline"
+    },
+    "phone-off-fill": {
+      "codepoint": 57694,
+      "fontFamily": "Eva",
+      "identifier": "phoneOffFill"
+    },
+    "phone-off-outline": {
+      "codepoint": 57695,
+      "fontFamily": "Eva",
+      "identifier": "phoneOffOutline"
+    },
+    "phone-outline": {
+      "codepoint": 57696,
+      "fontFamily": "Eva",
+      "identifier": "phoneOutline"
+    },
+    "pie-chart-2-fill": {
+      "codepoint": 57697,
+      "fontFamily": "Eva",
+      "identifier": "pieChart2Fill"
+    },
+    "pie-chart-fill": {
+      "codepoint": 57698,
+      "fontFamily": "Eva",
+      "identifier": "pieChartFill"
+    },
+    "pie-chart-outline": {
+      "codepoint": 57699,
+      "fontFamily": "Eva",
+      "identifier": "pieChartOutline"
+    },
+    "pin-fill": {
+      "codepoint": 57700,
+      "fontFamily": "Eva",
+      "identifier": "pinFill"
+    },
+    "pin-outline": {
+      "codepoint": 57701,
+      "fontFamily": "Eva",
+      "identifier": "pinOutline"
+    },
+    "play-circle-fill": {
+      "codepoint": 57702,
+      "fontFamily": "Eva",
+      "identifier": "playCircleFill"
+    },
+    "play-circle-outline": {
+      "codepoint": 57703,
+      "fontFamily": "Eva",
+      "identifier": "playCircleOutline"
+    },
+    "plus-circle-fill": {
+      "codepoint": 57704,
+      "fontFamily": "Eva",
+      "identifier": "plusCircleFill"
+    },
+    "plus-circle-outline": {
+      "codepoint": 57705,
+      "fontFamily": "Eva",
+      "identifier": "plusCircleOutline"
+    },
+    "plus-fill": {
+      "codepoint": 57706,
+      "fontFamily": "Eva",
+      "identifier": "plusFill"
+    },
+    "plus-outline": {
+      "codepoint": 57707,
+      "fontFamily": "Eva",
+      "identifier": "plusOutline"
+    },
+    "plus-square-fill": {
+      "codepoint": 57708,
+      "fontFamily": "Eva",
+      "identifier": "plusSquareFill"
+    },
+    "plus-square-outline": {
+      "codepoint": 57709,
+      "fontFamily": "Eva",
+      "identifier": "plusSquareOutline"
+    },
+    "power-fill": {
+      "codepoint": 57710,
+      "fontFamily": "Eva",
+      "identifier": "powerFill"
+    },
+    "power-outline": {
+      "codepoint": 57711,
+      "fontFamily": "Eva",
+      "identifier": "powerOutline"
+    },
+    "pricetags-fill": {
+      "codepoint": 57712,
+      "fontFamily": "Eva",
+      "identifier": "pricetagsFill"
+    },
+    "pricetags-outline": {
+      "codepoint": 57713,
+      "fontFamily": "Eva",
+      "identifier": "pricetagsOutline"
+    },
+    "printer-fill": {
+      "codepoint": 57714,
+      "fontFamily": "Eva",
+      "identifier": "printerFill"
+    },
+    "printer-outline": {
+      "codepoint": 57715,
+      "fontFamily": "Eva",
+      "identifier": "printerOutline"
+    },
+    "question-mark-circle-fill": {
+      "codepoint": 57716,
+      "fontFamily": "Eva",
+      "identifier": "questionMarkCircleFill"
+    },
+    "question-mark-circle-outline": {
+      "codepoint": 57717,
+      "fontFamily": "Eva",
+      "identifier": "questionMarkCircleOutline"
+    },
+    "question-mark-fill": {
+      "codepoint": 57718,
+      "fontFamily": "Eva",
+      "identifier": "questionMarkFill"
+    },
+    "question-mark-outline": {
+      "codepoint": 57719,
+      "fontFamily": "Eva",
+      "identifier": "questionMarkOutline"
+    },
+    "radio-button-off-fill": {
+      "codepoint": 57720,
+      "fontFamily": "Eva",
+      "identifier": "radioButtonOffFill"
+    },
+    "radio-button-off-outline": {
+      "codepoint": 57721,
+      "fontFamily": "Eva",
+      "identifier": "radioButtonOffOutline"
+    },
+    "radio-button-on-fill": {
+      "codepoint": 57722,
+      "fontFamily": "Eva",
+      "identifier": "radioButtonOnFill"
+    },
+    "radio-button-on-outline": {
+      "codepoint": 57723,
+      "fontFamily": "Eva",
+      "identifier": "radioButtonOnOutline"
+    },
+    "radio-fill": {
+      "codepoint": 57724,
+      "fontFamily": "Eva",
+      "identifier": "radioFill"
+    },
+    "radio-outline": {
+      "codepoint": 57725,
+      "fontFamily": "Eva",
+      "identifier": "radioOutline"
+    },
+    "recording-fill": {
+      "codepoint": 57726,
+      "fontFamily": "Eva",
+      "identifier": "recordingFill"
+    },
+    "recording-outline": {
+      "codepoint": 57727,
+      "fontFamily": "Eva",
+      "identifier": "recordingOutline"
+    },
+    "refresh-fill": {
+      "codepoint": 57728,
+      "fontFamily": "Eva",
+      "identifier": "refreshFill"
+    },
+    "refresh-outline": {
+      "codepoint": 57729,
+      "fontFamily": "Eva",
+      "identifier": "refreshOutline"
+    },
+    "repeat-fill": {
+      "codepoint": 57730,
+      "fontFamily": "Eva",
+      "identifier": "repeatFill"
+    },
+    "repeat-outline": {
+      "codepoint": 57731,
+      "fontFamily": "Eva",
+      "identifier": "repeatOutline"
+    },
+    "rewind-left-fill": {
+      "codepoint": 57732,
+      "fontFamily": "Eva",
+      "identifier": "rewindLeftFill"
+    },
+    "rewind-left-outline": {
+      "codepoint": 57733,
+      "fontFamily": "Eva",
+      "identifier": "rewindLeftOutline"
+    },
+    "rewind-right-fill": {
+      "codepoint": 57734,
+      "fontFamily": "Eva",
+      "identifier": "rewindRightFill"
+    },
+    "rewind-right-outline": {
+      "codepoint": 57735,
+      "fontFamily": "Eva",
+      "identifier": "rewindRightOutline"
+    },
+    "save-fill": {
+      "codepoint": 57736,
+      "fontFamily": "Eva",
+      "identifier": "saveFill"
+    },
+    "save-outline": {
+      "codepoint": 57737,
+      "fontFamily": "Eva",
+      "identifier": "saveOutline"
+    },
+    "scissors-fill": {
+      "codepoint": 57738,
+      "fontFamily": "Eva",
+      "identifier": "scissorsFill"
+    },
+    "scissors-outline": {
+      "codepoint": 57739,
+      "fontFamily": "Eva",
+      "identifier": "scissorsOutline"
+    },
+    "search-fill": {
+      "codepoint": 57740,
+      "fontFamily": "Eva",
+      "identifier": "searchFill"
+    },
+    "search-outline": {
+      "codepoint": 57741,
+      "fontFamily": "Eva",
+      "identifier": "searchOutline"
+    },
+    "settings-2-fill": {
+      "codepoint": 57742,
+      "fontFamily": "Eva",
+      "identifier": "settings2Fill"
+    },
+    "settings-2-outline": {
+      "codepoint": 57743,
+      "fontFamily": "Eva",
+      "identifier": "settings2Outline"
+    },
+    "settings-fill": {
+      "codepoint": 57744,
+      "fontFamily": "Eva",
+      "identifier": "settingsFill"
+    },
+    "settings-outline": {
+      "codepoint": 57745,
+      "fontFamily": "Eva",
+      "identifier": "settingsOutline"
+    },
+    "shake-fill": {
+      "codepoint": 57746,
+      "fontFamily": "Eva",
+      "identifier": "shakeFill"
+    },
+    "shake-outline": {
+      "codepoint": 57747,
+      "fontFamily": "Eva",
+      "identifier": "shakeOutline"
+    },
+    "share-fill": {
+      "codepoint": 57748,
+      "fontFamily": "Eva",
+      "identifier": "shareFill"
+    },
+    "share-outline": {
+      "codepoint": 57749,
+      "fontFamily": "Eva",
+      "identifier": "shareOutline"
+    },
+    "shield-fill": {
+      "codepoint": 57750,
+      "fontFamily": "Eva",
+      "identifier": "shieldFill"
+    },
+    "shield-off-fill": {
+      "codepoint": 57751,
+      "fontFamily": "Eva",
+      "identifier": "shieldOffFill"
+    },
+    "shield-off-outline": {
+      "codepoint": 57752,
+      "fontFamily": "Eva",
+      "identifier": "shieldOffOutline"
+    },
+    "shield-outline": {
+      "codepoint": 57753,
+      "fontFamily": "Eva",
+      "identifier": "shieldOutline"
+    },
+    "shopping-bag-fill": {
+      "codepoint": 57754,
+      "fontFamily": "Eva",
+      "identifier": "shoppingBagFill"
+    },
+    "shopping-bag-outline": {
+      "codepoint": 57755,
+      "fontFamily": "Eva",
+      "identifier": "shoppingBagOutline"
+    },
+    "shopping-cart-fill": {
+      "codepoint": 57756,
+      "fontFamily": "Eva",
+      "identifier": "shoppingCartFill"
+    },
+    "shopping-cart-outline": {
+      "codepoint": 57757,
+      "fontFamily": "Eva",
+      "identifier": "shoppingCartOutline"
+    },
+    "shuffle-2-fill": {
+      "codepoint": 57758,
+      "fontFamily": "Eva",
+      "identifier": "shuffle2Fill"
+    },
+    "shuffle-2-outline": {
+      "codepoint": 57759,
+      "fontFamily": "Eva",
+      "identifier": "shuffle2Outline"
+    },
+    "shuffle-fill": {
+      "codepoint": 57760,
+      "fontFamily": "Eva",
+      "identifier": "shuffleFill"
+    },
+    "shuffle-outline": {
+      "codepoint": 57761,
+      "fontFamily": "Eva",
+      "identifier": "shuffleOutline"
+    },
+    "skip-back-fill": {
+      "codepoint": 57762,
+      "fontFamily": "Eva",
+      "identifier": "skipBackFill"
+    },
+    "skip-back-outline": {
+      "codepoint": 57763,
+      "fontFamily": "Eva",
+      "identifier": "skipBackOutline"
+    },
+    "skip-forward-fill": {
+      "codepoint": 57764,
+      "fontFamily": "Eva",
+      "identifier": "skipForwardFill"
+    },
+    "skip-forward-outline": {
+      "codepoint": 57765,
+      "fontFamily": "Eva",
+      "identifier": "skipForwardOutline"
+    },
+    "slash-fill": {
+      "codepoint": 57766,
+      "fontFamily": "Eva",
+      "identifier": "slashFill"
+    },
+    "slash-outline": {
+      "codepoint": 57767,
+      "fontFamily": "Eva",
+      "identifier": "slashOutline"
+    },
+    "smartphone-fill": {
+      "codepoint": 57768,
+      "fontFamily": "Eva",
+      "identifier": "smartphoneFill"
+    },
+    "smartphone-outline": {
+      "codepoint": 57769,
+      "fontFamily": "Eva",
+      "identifier": "smartphoneOutline"
+    },
+    "smiling-face-fill": {
+      "codepoint": 57770,
+      "fontFamily": "Eva",
+      "identifier": "smilingFaceFill"
+    },
+    "smiling-face-outline": {
+      "codepoint": 57771,
+      "fontFamily": "Eva",
+      "identifier": "smilingFaceOutline"
+    },
+    "speaker-fill": {
+      "codepoint": 57772,
+      "fontFamily": "Eva",
+      "identifier": "speakerFill"
+    },
+    "speaker-outline": {
+      "codepoint": 57773,
+      "fontFamily": "Eva",
+      "identifier": "speakerOutline"
+    },
+    "square-fill": {
+      "codepoint": 57774,
+      "fontFamily": "Eva",
+      "identifier": "squareFill"
+    },
+    "square-outline": {
+      "codepoint": 57775,
+      "fontFamily": "Eva",
+      "identifier": "squareOutline"
+    },
+    "star-fill": {
+      "codepoint": 57776,
+      "fontFamily": "Eva",
+      "identifier": "starFill"
+    },
+    "star-outline": {
+      "codepoint": 57777,
+      "fontFamily": "Eva",
+      "identifier": "starOutline"
+    },
+    "stop-circle-fill": {
+      "codepoint": 57778,
+      "fontFamily": "Eva",
+      "identifier": "stopCircleFill"
+    },
+    "stop-circle-outline": {
+      "codepoint": 57779,
+      "fontFamily": "Eva",
+      "identifier": "stopCircleOutline"
+    },
+    "sun-fill": {
+      "codepoint": 57780,
+      "fontFamily": "Eva",
+      "identifier": "sunFill"
+    },
+    "sun-outline": {
+      "codepoint": 57781,
+      "fontFamily": "Eva",
+      "identifier": "sunOutline"
+    },
+    "swap-fill": {
+      "codepoint": 57782,
+      "fontFamily": "Eva",
+      "identifier": "swapFill"
+    },
+    "swap-outline": {
+      "codepoint": 57783,
+      "fontFamily": "Eva",
+      "identifier": "swapOutline"
+    },
+    "sync-fill": {
+      "codepoint": 57784,
+      "fontFamily": "Eva",
+      "identifier": "syncFill"
+    },
+    "sync-outline": {
+      "codepoint": 57785,
+      "fontFamily": "Eva",
+      "identifier": "syncOutline"
+    },
+    "text-fill": {
+      "codepoint": 57786,
+      "fontFamily": "Eva",
+      "identifier": "textFill"
+    },
+    "text-outline": {
+      "codepoint": 57787,
+      "fontFamily": "Eva",
+      "identifier": "textOutline"
+    },
+    "thermometer-fill": {
+      "codepoint": 57788,
+      "fontFamily": "Eva",
+      "identifier": "thermometerFill"
+    },
+    "thermometer-minus-fill": {
+      "codepoint": 57789,
+      "fontFamily": "Eva",
+      "identifier": "thermometerMinusFill"
+    },
+    "thermometer-minus-outline": {
+      "codepoint": 57790,
+      "fontFamily": "Eva",
+      "identifier": "thermometerMinusOutline"
+    },
+    "thermometer-outline": {
+      "codepoint": 57791,
+      "fontFamily": "Eva",
+      "identifier": "thermometerOutline"
+    },
+    "thermometer-plus-fill": {
+      "codepoint": 57792,
+      "fontFamily": "Eva",
+      "identifier": "thermometerPlusFill"
+    },
+    "thermometer-plus-outline": {
+      "codepoint": 57793,
+      "fontFamily": "Eva",
+      "identifier": "thermometerPlusOutline"
+    },
+    "toggle-left-fill": {
+      "codepoint": 57794,
+      "fontFamily": "Eva",
+      "identifier": "toggleLeftFill"
+    },
+    "toggle-left-outline": {
+      "codepoint": 57795,
+      "fontFamily": "Eva",
+      "identifier": "toggleLeftOutline"
+    },
+    "toggle-right-fill": {
+      "codepoint": 57796,
+      "fontFamily": "Eva",
+      "identifier": "toggleRightFill"
+    },
+    "toggle-right-outline": {
+      "codepoint": 57797,
+      "fontFamily": "Eva",
+      "identifier": "toggleRightOutline"
+    },
+    "trash-2-fill": {
+      "codepoint": 57798,
+      "fontFamily": "Eva",
+      "identifier": "trash2Fill"
+    },
+    "trash-2-outline": {
+      "codepoint": 57799,
+      "fontFamily": "Eva",
+      "identifier": "trash2Outline"
+    },
+    "trash-fill": {
+      "codepoint": 57800,
+      "fontFamily": "Eva",
+      "identifier": "trashFill"
+    },
+    "trash-outline": {
+      "codepoint": 57801,
+      "fontFamily": "Eva",
+      "identifier": "trashOutline"
+    },
+    "trending-down-fill": {
+      "codepoint": 57802,
+      "fontFamily": "Eva",
+      "identifier": "trendingDownFill"
+    },
+    "trending-down-outline": {
+      "codepoint": 57803,
+      "fontFamily": "Eva",
+      "identifier": "trendingDownOutline"
+    },
+    "trending-up-fill": {
+      "codepoint": 57804,
+      "fontFamily": "Eva",
+      "identifier": "trendingUpFill"
+    },
+    "trending-up-outline": {
+      "codepoint": 57805,
+      "fontFamily": "Eva",
+      "identifier": "trendingUpOutline"
+    },
+    "tv-fill": {
+      "codepoint": 57806,
+      "fontFamily": "Eva",
+      "identifier": "tvFill"
+    },
+    "tv-outline": {
+      "codepoint": 57807,
+      "fontFamily": "Eva",
+      "identifier": "tvOutline"
+    },
+    "twitter-fill": {
+      "codepoint": 57808,
+      "fontFamily": "Eva",
+      "identifier": "twitterFill"
+    },
+    "twitter-outline": {
+      "codepoint": 57809,
+      "fontFamily": "Eva",
+      "identifier": "twitterOutline"
+    },
+    "umbrella-fill": {
+      "codepoint": 57810,
+      "fontFamily": "Eva",
+      "identifier": "umbrellaFill"
+    },
+    "umbrella-outline": {
+      "codepoint": 57811,
+      "fontFamily": "Eva",
+      "identifier": "umbrellaOutline"
+    },
+    "undo-fill": {
+      "codepoint": 57812,
+      "fontFamily": "Eva",
+      "identifier": "undoFill"
+    },
+    "undo-outline": {
+      "codepoint": 57813,
+      "fontFamily": "Eva",
+      "identifier": "undoOutline"
+    },
+    "unlock-fill": {
+      "codepoint": 57814,
+      "fontFamily": "Eva",
+      "identifier": "unlockFill"
+    },
+    "unlock-outline": {
+      "codepoint": 57815,
+      "fontFamily": "Eva",
+      "identifier": "unlockOutline"
+    },
+    "upload-fill": {
+      "codepoint": 57816,
+      "fontFamily": "Eva",
+      "identifier": "uploadFill"
+    },
+    "upload-outline": {
+      "codepoint": 57817,
+      "fontFamily": "Eva",
+      "identifier": "uploadOutline"
+    },
+    "video-fill": {
+      "codepoint": 57818,
+      "fontFamily": "Eva",
+      "identifier": "videoFill"
+    },
+    "video-off-fill": {
+      "codepoint": 57819,
+      "fontFamily": "Eva",
+      "identifier": "videoOffFill"
+    },
+    "video-off-outline": {
+      "codepoint": 57820,
+      "fontFamily": "Eva",
+      "identifier": "videoOffOutline"
+    },
+    "video-outline": {
+      "codepoint": 57821,
+      "fontFamily": "Eva",
+      "identifier": "videoOutline"
+    },
+    "volume-down-fill": {
+      "codepoint": 57822,
+      "fontFamily": "Eva",
+      "identifier": "volumeDownFill"
+    },
+    "volume-down-outline": {
+      "codepoint": 57823,
+      "fontFamily": "Eva",
+      "identifier": "volumeDownOutline"
+    },
+    "volume-mute-fill": {
+      "codepoint": 57824,
+      "fontFamily": "Eva",
+      "identifier": "volumeMuteFill"
+    },
+    "volume-mute-outline": {
+      "codepoint": 57825,
+      "fontFamily": "Eva",
+      "identifier": "volumeMuteOutline"
+    },
+    "volume-off-fill": {
+      "codepoint": 57826,
+      "fontFamily": "Eva",
+      "identifier": "volumeOffFill"
+    },
+    "volume-off-outline": {
+      "codepoint": 57827,
+      "fontFamily": "Eva",
+      "identifier": "volumeOffOutline"
+    },
+    "volume-up-fill": {
+      "codepoint": 57828,
+      "fontFamily": "Eva",
+      "identifier": "volumeUpFill"
+    },
+    "volume-up-outline": {
+      "codepoint": 57829,
+      "fontFamily": "Eva",
+      "identifier": "volumeUpOutline"
+    },
+    "wifi-fill": {
+      "codepoint": 57830,
+      "fontFamily": "Eva",
+      "identifier": "wifiFill"
+    },
+    "wifi-off-fill": {
+      "codepoint": 57831,
+      "fontFamily": "Eva",
+      "identifier": "wifiOffFill"
+    },
+    "wifi-off-outline": {
+      "codepoint": 57832,
+      "fontFamily": "Eva",
+      "identifier": "wifiOffOutline"
+    },
+    "wifi-outline": {
+      "codepoint": 57833,
+      "fontFamily": "Eva",
+      "identifier": "wifiOutline"
+    }
+  }
+}

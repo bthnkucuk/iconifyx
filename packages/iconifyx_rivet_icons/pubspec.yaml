@@ -1,0 +1,22 @@
+name: iconifyx_rivet_icons
+description: >-
+  Rivet Icons icons from Iconify, packaged for Flutter (210 icons, BSD 3-Clause license).
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+
+flutter:
+  uses-material-design: false
+  fonts:
+    - family: RivetIcons
+      fonts:
+        - asset: assets/fonts/RivetIcons.ttf

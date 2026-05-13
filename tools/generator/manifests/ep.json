@@ -1,0 +1,1495 @@
+{
+  "schemaVersion": 1,
+  "prefix": "ep",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 16px / 32px",
+  "subPackage": "iconifyx_ep",
+  "info": {
+    "name": "Element Plus",
+    "author": {
+      "name": "Element Plus",
+      "url": "https://github.com/element-plus/element-plus-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/element-plus/element-plus-icons/blob/main/packages/svg/package.json"
+    },
+    "total": 293
+  },
+  "fonts": [
+    {
+      "family": "Ep",
+      "nextCodepoint": 57637,
+      "iconCount": 293
+    }
+  ],
+  "icons": {
+    "add-location": {
+      "codepoint": 57344,
+      "fontFamily": "Ep",
+      "identifier": "addLocation"
+    },
+    "aim": {
+      "codepoint": 57345,
+      "fontFamily": "Ep",
+      "identifier": "aim"
+    },
+    "alarm-clock": {
+      "codepoint": 57346,
+      "fontFamily": "Ep",
+      "identifier": "alarmClock"
+    },
+    "apple": {
+      "codepoint": 57347,
+      "fontFamily": "Ep",
+      "identifier": "apple"
+    },
+    "arrow-down": {
+      "codepoint": 57348,
+      "fontFamily": "Ep",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-bold": {
+      "codepoint": 57349,
+      "fontFamily": "Ep",
+      "identifier": "arrowDownBold"
+    },
+    "arrow-left": {
+      "codepoint": 57350,
+      "fontFamily": "Ep",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-bold": {
+      "codepoint": 57351,
+      "fontFamily": "Ep",
+      "identifier": "arrowLeftBold"
+    },
+    "arrow-right": {
+      "codepoint": 57352,
+      "fontFamily": "Ep",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-bold": {
+      "codepoint": 57353,
+      "fontFamily": "Ep",
+      "identifier": "arrowRightBold"
+    },
+    "arrow-up": {
+      "codepoint": 57354,
+      "fontFamily": "Ep",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-bold": {
+      "codepoint": 57355,
+      "fontFamily": "Ep",
+      "identifier": "arrowUpBold"
+    },
+    "avatar": {
+      "codepoint": 57356,
+      "fontFamily": "Ep",
+      "identifier": "avatar"
+    },
+    "back": {
+      "codepoint": 57357,
+      "fontFamily": "Ep",
+      "identifier": "back"
+    },
+    "baseball": {
+      "codepoint": 57358,
+      "fontFamily": "Ep",
+      "identifier": "baseball"
+    },
+    "basketball": {
+      "codepoint": 57359,
+      "fontFamily": "Ep",
+      "identifier": "basketball"
+    },
+    "bell": {
+      "codepoint": 57360,
+      "fontFamily": "Ep",
+      "identifier": "bell"
+    },
+    "bell-filled": {
+      "codepoint": 57361,
+      "fontFamily": "Ep",
+      "identifier": "bellFilled"
+    },
+    "bicycle": {
+      "codepoint": 57362,
+      "fontFamily": "Ep",
+      "identifier": "bicycle"
+    },
+    "bottom": {
+      "codepoint": 57363,
+      "fontFamily": "Ep",
+      "identifier": "bottom"
+    },
+    "bottom-left": {
+      "codepoint": 57364,
+      "fontFamily": "Ep",
+      "identifier": "bottomLeft"
+    },
+    "bottom-right": {
+      "codepoint": 57365,
+      "fontFamily": "Ep",
+      "identifier": "bottomRight"
+    },
+    "bowl": {
+      "codepoint": 57366,
+      "fontFamily": "Ep",
+      "identifier": "bowl"
+    },
+    "box": {
+      "codepoint": 57367,
+      "fontFamily": "Ep",
+      "identifier": "box"
+    },
+    "briefcase": {
+      "codepoint": 57368,
+      "fontFamily": "Ep",
+      "identifier": "briefcase"
+    },
+    "brush": {
+      "codepoint": 57369,
+      "fontFamily": "Ep",
+      "identifier": "brush"
+    },
+    "brush-filled": {
+      "codepoint": 57370,
+      "fontFamily": "Ep",
+      "identifier": "brushFilled"
+    },
+    "burger": {
+      "codepoint": 57371,
+      "fontFamily": "Ep",
+      "identifier": "burger"
+    },
+    "calendar": {
+      "codepoint": 57372,
+      "fontFamily": "Ep",
+      "identifier": "calendar"
+    },
+    "camera": {
+      "codepoint": 57373,
+      "fontFamily": "Ep",
+      "identifier": "camera"
+    },
+    "camera-filled": {
+      "codepoint": 57374,
+      "fontFamily": "Ep",
+      "identifier": "cameraFilled"
+    },
+    "caret-bottom": {
+      "codepoint": 57375,
+      "fontFamily": "Ep",
+      "identifier": "caretBottom"
+    },
+    "caret-left": {
+      "codepoint": 57376,
+      "fontFamily": "Ep",
+      "identifier": "caretLeft"
+    },
+    "caret-right": {
+      "codepoint": 57377,
+      "fontFamily": "Ep",
+      "identifier": "caretRight"
+    },
+    "caret-top": {
+      "codepoint": 57378,
+      "fontFamily": "Ep",
+      "identifier": "caretTop"
+    },
+    "cellphone": {
+      "codepoint": 57379,
+      "fontFamily": "Ep",
+      "identifier": "cellphone"
+    },
+    "chat-dot-round": {
+      "codepoint": 57380,
+      "fontFamily": "Ep",
+      "identifier": "chatDotRound"
+    },
+    "chat-dot-square": {
+      "codepoint": 57381,
+      "fontFamily": "Ep",
+      "identifier": "chatDotSquare"
+    },
+    "chat-line-round": {
+      "codepoint": 57382,
+      "fontFamily": "Ep",
+      "identifier": "chatLineRound"
+    },
+    "chat-line-square": {
+      "codepoint": 57383,
+      "fontFamily": "Ep",
+      "identifier": "chatLineSquare"
+    },
+    "chat-round": {
+      "codepoint": 57384,
+      "fontFamily": "Ep",
+      "identifier": "chatRound"
+    },
+    "chat-square": {
+      "codepoint": 57385,
+      "fontFamily": "Ep",
+      "identifier": "chatSquare"
+    },
+    "check": {
+      "codepoint": 57386,
+      "fontFamily": "Ep",
+      "identifier": "check"
+    },
+    "checked": {
+      "codepoint": 57387,
+      "fontFamily": "Ep",
+      "identifier": "checked"
+    },
+    "cherry": {
+      "codepoint": 57388,
+      "fontFamily": "Ep",
+      "identifier": "cherry"
+    },
+    "chicken": {
+      "codepoint": 57389,
+      "fontFamily": "Ep",
+      "identifier": "chicken"
+    },
+    "chrome-filled": {
+      "codepoint": 57390,
+      "fontFamily": "Ep",
+      "identifier": "chromeFilled"
+    },
+    "circle-check": {
+      "codepoint": 57391,
+      "fontFamily": "Ep",
+      "identifier": "circleCheck"
+    },
+    "circle-check-filled": {
+      "codepoint": 57392,
+      "fontFamily": "Ep",
+      "identifier": "circleCheckFilled"
+    },
+    "circle-close": {
+      "codepoint": 57393,
+      "fontFamily": "Ep",
+      "identifier": "circleClose"
+    },
+    "circle-close-filled": {
+      "codepoint": 57394,
+      "fontFamily": "Ep",
+      "identifier": "circleCloseFilled"
+    },
+    "circle-plus": {
+      "codepoint": 57395,
+      "fontFamily": "Ep",
+      "identifier": "circlePlus"
+    },
+    "circle-plus-filled": {
+      "codepoint": 57396,
+      "fontFamily": "Ep",
+      "identifier": "circlePlusFilled"
+    },
+    "clock": {
+      "codepoint": 57397,
+      "fontFamily": "Ep",
+      "identifier": "clock"
+    },
+    "close": {
+      "codepoint": 57398,
+      "fontFamily": "Ep",
+      "identifier": "close"
+    },
+    "close-bold": {
+      "codepoint": 57399,
+      "fontFamily": "Ep",
+      "identifier": "closeBold"
+    },
+    "cloudy": {
+      "codepoint": 57400,
+      "fontFamily": "Ep",
+      "identifier": "cloudy"
+    },
+    "coffee": {
+      "codepoint": 57401,
+      "fontFamily": "Ep",
+      "identifier": "coffee"
+    },
+    "coffee-cup": {
+      "codepoint": 57402,
+      "fontFamily": "Ep",
+      "identifier": "coffeeCup"
+    },
+    "coin": {
+      "codepoint": 57403,
+      "fontFamily": "Ep",
+      "identifier": "coin"
+    },
+    "cold-drink": {
+      "codepoint": 57404,
+      "fontFamily": "Ep",
+      "identifier": "coldDrink"
+    },
+    "collection": {
+      "codepoint": 57405,
+      "fontFamily": "Ep",
+      "identifier": "collection"
+    },
+    "collection-tag": {
+      "codepoint": 57406,
+      "fontFamily": "Ep",
+      "identifier": "collectionTag"
+    },
+    "comment": {
+      "codepoint": 57407,
+      "fontFamily": "Ep",
+      "identifier": "comment"
+    },
+    "compass": {
+      "codepoint": 57408,
+      "fontFamily": "Ep",
+      "identifier": "compass"
+    },
+    "connection": {
+      "codepoint": 57409,
+      "fontFamily": "Ep",
+      "identifier": "connection"
+    },
+    "coordinate": {
+      "codepoint": 57410,
+      "fontFamily": "Ep",
+      "identifier": "coordinate"
+    },
+    "copy-document": {
+      "codepoint": 57411,
+      "fontFamily": "Ep",
+      "identifier": "copyDocument"
+    },
+    "cpu": {
+      "codepoint": 57412,
+      "fontFamily": "Ep",
+      "identifier": "cpu"
+    },
+    "credit-card": {
+      "codepoint": 57413,
+      "fontFamily": "Ep",
+      "identifier": "creditCard"
+    },
+    "crop": {
+      "codepoint": 57414,
+      "fontFamily": "Ep",
+      "identifier": "crop"
+    },
+    "d-arrow-left": {
+      "codepoint": 57415,
+      "fontFamily": "Ep",
+      "identifier": "dArrowLeft"
+    },
+    "d-arrow-right": {
+      "codepoint": 57416,
+      "fontFamily": "Ep",
+      "identifier": "dArrowRight"
+    },
+    "d-caret": {
+      "codepoint": 57417,
+      "fontFamily": "Ep",
+      "identifier": "dCaret"
+    },
+    "data-analysis": {
+      "codepoint": 57418,
+      "fontFamily": "Ep",
+      "identifier": "dataAnalysis"
+    },
+    "data-board": {
+      "codepoint": 57419,
+      "fontFamily": "Ep",
+      "identifier": "dataBoard"
+    },
+    "data-line": {
+      "codepoint": 57420,
+      "fontFamily": "Ep",
+      "identifier": "dataLine"
+    },
+    "delete": {
+      "codepoint": 57421,
+      "fontFamily": "Ep",
+      "identifier": "delete"
+    },
+    "delete-filled": {
+      "codepoint": 57422,
+      "fontFamily": "Ep",
+      "identifier": "deleteFilled"
+    },
+    "delete-location": {
+      "codepoint": 57423,
+      "fontFamily": "Ep",
+      "identifier": "deleteLocation"
+    },
+    "dessert": {
+      "codepoint": 57424,
+      "fontFamily": "Ep",
+      "identifier": "dessert"
+    },
+    "discount": {
+      "codepoint": 57425,
+      "fontFamily": "Ep",
+      "identifier": "discount"
+    },
+    "dish": {
+      "codepoint": 57426,
+      "fontFamily": "Ep",
+      "identifier": "dish"
+    },
+    "dish-dot": {
+      "codepoint": 57427,
+      "fontFamily": "Ep",
+      "identifier": "dishDot"
+    },
+    "document": {
+      "codepoint": 57428,
+      "fontFamily": "Ep",
+      "identifier": "document"
+    },
+    "document-add": {
+      "codepoint": 57429,
+      "fontFamily": "Ep",
+      "identifier": "documentAdd"
+    },
+    "document-checked": {
+      "codepoint": 57430,
+      "fontFamily": "Ep",
+      "identifier": "documentChecked"
+    },
+    "document-copy": {
+      "codepoint": 57431,
+      "fontFamily": "Ep",
+      "identifier": "documentCopy"
+    },
+    "document-delete": {
+      "codepoint": 57432,
+      "fontFamily": "Ep",
+      "identifier": "documentDelete"
+    },
+    "document-remove": {
+      "codepoint": 57433,
+      "fontFamily": "Ep",
+      "identifier": "documentRemove"
+    },
+    "download": {
+      "codepoint": 57434,
+      "fontFamily": "Ep",
+      "identifier": "download"
+    },
+    "drizzling": {
+      "codepoint": 57435,
+      "fontFamily": "Ep",
+      "identifier": "drizzling"
+    },
+    "edit": {
+      "codepoint": 57436,
+      "fontFamily": "Ep",
+      "identifier": "edit"
+    },
+    "edit-pen": {
+      "codepoint": 57437,
+      "fontFamily": "Ep",
+      "identifier": "editPen"
+    },
+    "eleme": {
+      "codepoint": 57438,
+      "fontFamily": "Ep",
+      "identifier": "eleme"
+    },
+    "eleme-filled": {
+      "codepoint": 57439,
+      "fontFamily": "Ep",
+      "identifier": "elemeFilled"
+    },
+    "element-plus": {
+      "codepoint": 57440,
+      "fontFamily": "Ep",
+      "identifier": "elementPlus"
+    },
+    "expand": {
+      "codepoint": 57441,
+      "fontFamily": "Ep",
+      "identifier": "expand"
+    },
+    "failed": {
+      "codepoint": 57442,
+      "fontFamily": "Ep",
+      "identifier": "failed"
+    },
+    "female": {
+      "codepoint": 57443,
+      "fontFamily": "Ep",
+      "identifier": "female"
+    },
+    "files": {
+      "codepoint": 57444,
+      "fontFamily": "Ep",
+      "identifier": "files"
+    },
+    "film": {
+      "codepoint": 57445,
+      "fontFamily": "Ep",
+      "identifier": "film"
+    },
+    "filter": {
+      "codepoint": 57446,
+      "fontFamily": "Ep",
+      "identifier": "filter"
+    },
+    "finished": {
+      "codepoint": 57447,
+      "fontFamily": "Ep",
+      "identifier": "finished"
+    },
+    "first-aid-kit": {
+      "codepoint": 57448,
+      "fontFamily": "Ep",
+      "identifier": "firstAidKit"
+    },
+    "flag": {
+      "codepoint": 57449,
+      "fontFamily": "Ep",
+      "identifier": "flag"
+    },
+    "fold": {
+      "codepoint": 57450,
+      "fontFamily": "Ep",
+      "identifier": "fold"
+    },
+    "folder": {
+      "codepoint": 57451,
+      "fontFamily": "Ep",
+      "identifier": "folder"
+    },
+    "folder-add": {
+      "codepoint": 57452,
+      "fontFamily": "Ep",
+      "identifier": "folderAdd"
+    },
+    "folder-checked": {
+      "codepoint": 57453,
+      "fontFamily": "Ep",
+      "identifier": "folderChecked"
+    },
+    "folder-delete": {
+      "codepoint": 57454,
+      "fontFamily": "Ep",
+      "identifier": "folderDelete"
+    },
+    "folder-opened": {
+      "codepoint": 57455,
+      "fontFamily": "Ep",
+      "identifier": "folderOpened"
+    },
+    "folder-remove": {
+      "codepoint": 57456,
+      "fontFamily": "Ep",
+      "identifier": "folderRemove"
+    },
+    "food": {
+      "codepoint": 57457,
+      "fontFamily": "Ep",
+      "identifier": "food"
+    },
+    "football": {
+      "codepoint": 57458,
+      "fontFamily": "Ep",
+      "identifier": "football"
+    },
+    "fork-spoon": {
+      "codepoint": 57459,
+      "fontFamily": "Ep",
+      "identifier": "forkSpoon"
+    },
+    "fries": {
+      "codepoint": 57460,
+      "fontFamily": "Ep",
+      "identifier": "fries"
+    },
+    "full-screen": {
+      "codepoint": 57461,
+      "fontFamily": "Ep",
+      "identifier": "fullScreen"
+    },
+    "goblet": {
+      "codepoint": 57462,
+      "fontFamily": "Ep",
+      "identifier": "goblet"
+    },
+    "goblet-full": {
+      "codepoint": 57463,
+      "fontFamily": "Ep",
+      "identifier": "gobletFull"
+    },
+    "goblet-square": {
+      "codepoint": 57464,
+      "fontFamily": "Ep",
+      "identifier": "gobletSquare"
+    },
+    "goblet-square-full": {
+      "codepoint": 57465,
+      "fontFamily": "Ep",
+      "identifier": "gobletSquareFull"
+    },
+    "gold-medal": {
+      "codepoint": 57466,
+      "fontFamily": "Ep",
+      "identifier": "goldMedal"
+    },
+    "goods": {
+      "codepoint": 57467,
+      "fontFamily": "Ep",
+      "identifier": "goods"
+    },
+    "goods-filled": {
+      "codepoint": 57468,
+      "fontFamily": "Ep",
+      "identifier": "goodsFilled"
+    },
+    "grape": {
+      "codepoint": 57469,
+      "fontFamily": "Ep",
+      "identifier": "grape"
+    },
+    "grid": {
+      "codepoint": 57470,
+      "fontFamily": "Ep",
+      "identifier": "grid"
+    },
+    "guide": {
+      "codepoint": 57471,
+      "fontFamily": "Ep",
+      "identifier": "guide"
+    },
+    "handbag": {
+      "codepoint": 57472,
+      "fontFamily": "Ep",
+      "identifier": "handbag"
+    },
+    "headset": {
+      "codepoint": 57473,
+      "fontFamily": "Ep",
+      "identifier": "headset"
+    },
+    "help": {
+      "codepoint": 57474,
+      "fontFamily": "Ep",
+      "identifier": "help"
+    },
+    "help-filled": {
+      "codepoint": 57475,
+      "fontFamily": "Ep",
+      "identifier": "helpFilled"
+    },
+    "hide": {
+      "codepoint": 57476,
+      "fontFamily": "Ep",
+      "identifier": "hide"
+    },
+    "histogram": {
+      "codepoint": 57477,
+      "fontFamily": "Ep",
+      "identifier": "histogram"
+    },
+    "home-filled": {
+      "codepoint": 57478,
+      "fontFamily": "Ep",
+      "identifier": "homeFilled"
+    },
+    "hot-water": {
+      "codepoint": 57479,
+      "fontFamily": "Ep",
+      "identifier": "hotWater"
+    },
+    "house": {
+      "codepoint": 57480,
+      "fontFamily": "Ep",
+      "identifier": "house"
+    },
+    "ice-cream": {
+      "codepoint": 57481,
+      "fontFamily": "Ep",
+      "identifier": "iceCream"
+    },
+    "ice-cream-round": {
+      "codepoint": 57482,
+      "fontFamily": "Ep",
+      "identifier": "iceCreamRound"
+    },
+    "ice-cream-square": {
+      "codepoint": 57483,
+      "fontFamily": "Ep",
+      "identifier": "iceCreamSquare"
+    },
+    "ice-drink": {
+      "codepoint": 57484,
+      "fontFamily": "Ep",
+      "identifier": "iceDrink"
+    },
+    "ice-tea": {
+      "codepoint": 57485,
+      "fontFamily": "Ep",
+      "identifier": "iceTea"
+    },
+    "info-filled": {
+      "codepoint": 57486,
+      "fontFamily": "Ep",
+      "identifier": "infoFilled"
+    },
+    "iphone": {
+      "codepoint": 57487,
+      "fontFamily": "Ep",
+      "identifier": "iphone"
+    },
+    "key": {
+      "codepoint": 57488,
+      "fontFamily": "Ep",
+      "identifier": "key"
+    },
+    "knife-fork": {
+      "codepoint": 57489,
+      "fontFamily": "Ep",
+      "identifier": "knifeFork"
+    },
+    "lightning": {
+      "codepoint": 57490,
+      "fontFamily": "Ep",
+      "identifier": "lightning"
+    },
+    "link": {
+      "codepoint": 57491,
+      "fontFamily": "Ep",
+      "identifier": "link"
+    },
+    "list": {
+      "codepoint": 57492,
+      "fontFamily": "Ep",
+      "identifier": "list"
+    },
+    "loading": {
+      "codepoint": 57493,
+      "fontFamily": "Ep",
+      "identifier": "loading"
+    },
+    "location": {
+      "codepoint": 57494,
+      "fontFamily": "Ep",
+      "identifier": "location"
+    },
+    "location-filled": {
+      "codepoint": 57495,
+      "fontFamily": "Ep",
+      "identifier": "locationFilled"
+    },
+    "location-information": {
+      "codepoint": 57496,
+      "fontFamily": "Ep",
+      "identifier": "locationInformation"
+    },
+    "lock": {
+      "codepoint": 57497,
+      "fontFamily": "Ep",
+      "identifier": "lock"
+    },
+    "lollipop": {
+      "codepoint": 57498,
+      "fontFamily": "Ep",
+      "identifier": "lollipop"
+    },
+    "magic-stick": {
+      "codepoint": 57499,
+      "fontFamily": "Ep",
+      "identifier": "magicStick"
+    },
+    "magnet": {
+      "codepoint": 57500,
+      "fontFamily": "Ep",
+      "identifier": "magnet"
+    },
+    "male": {
+      "codepoint": 57501,
+      "fontFamily": "Ep",
+      "identifier": "male"
+    },
+    "management": {
+      "codepoint": 57502,
+      "fontFamily": "Ep",
+      "identifier": "management"
+    },
+    "map-location": {
+      "codepoint": 57503,
+      "fontFamily": "Ep",
+      "identifier": "mapLocation"
+    },
+    "medal": {
+      "codepoint": 57504,
+      "fontFamily": "Ep",
+      "identifier": "medal"
+    },
+    "memo": {
+      "codepoint": 57505,
+      "fontFamily": "Ep",
+      "identifier": "memo"
+    },
+    "menu": {
+      "codepoint": 57506,
+      "fontFamily": "Ep",
+      "identifier": "menu"
+    },
+    "message": {
+      "codepoint": 57507,
+      "fontFamily": "Ep",
+      "identifier": "message"
+    },
+    "message-box": {
+      "codepoint": 57508,
+      "fontFamily": "Ep",
+      "identifier": "messageBox"
+    },
+    "mic": {
+      "codepoint": 57509,
+      "fontFamily": "Ep",
+      "identifier": "mic"
+    },
+    "microphone": {
+      "codepoint": 57510,
+      "fontFamily": "Ep",
+      "identifier": "microphone"
+    },
+    "milk-tea": {
+      "codepoint": 57511,
+      "fontFamily": "Ep",
+      "identifier": "milkTea"
+    },
+    "minus": {
+      "codepoint": 57512,
+      "fontFamily": "Ep",
+      "identifier": "minus"
+    },
+    "money": {
+      "codepoint": 57513,
+      "fontFamily": "Ep",
+      "identifier": "money"
+    },
+    "monitor": {
+      "codepoint": 57514,
+      "fontFamily": "Ep",
+      "identifier": "monitor"
+    },
+    "moon": {
+      "codepoint": 57515,
+      "fontFamily": "Ep",
+      "identifier": "moon"
+    },
+    "moon-night": {
+      "codepoint": 57516,
+      "fontFamily": "Ep",
+      "identifier": "moonNight"
+    },
+    "more": {
+      "codepoint": 57517,
+      "fontFamily": "Ep",
+      "identifier": "more"
+    },
+    "more-filled": {
+      "codepoint": 57518,
+      "fontFamily": "Ep",
+      "identifier": "moreFilled"
+    },
+    "mostly-cloudy": {
+      "codepoint": 57519,
+      "fontFamily": "Ep",
+      "identifier": "mostlyCloudy"
+    },
+    "mouse": {
+      "codepoint": 57520,
+      "fontFamily": "Ep",
+      "identifier": "mouse"
+    },
+    "mug": {
+      "codepoint": 57521,
+      "fontFamily": "Ep",
+      "identifier": "mug"
+    },
+    "mute": {
+      "codepoint": 57522,
+      "fontFamily": "Ep",
+      "identifier": "mute"
+    },
+    "mute-notification": {
+      "codepoint": 57523,
+      "fontFamily": "Ep",
+      "identifier": "muteNotification"
+    },
+    "no-smoking": {
+      "codepoint": 57524,
+      "fontFamily": "Ep",
+      "identifier": "noSmoking"
+    },
+    "notebook": {
+      "codepoint": 57525,
+      "fontFamily": "Ep",
+      "identifier": "notebook"
+    },
+    "notification": {
+      "codepoint": 57526,
+      "fontFamily": "Ep",
+      "identifier": "notification"
+    },
+    "odometer": {
+      "codepoint": 57527,
+      "fontFamily": "Ep",
+      "identifier": "odometer"
+    },
+    "office-building": {
+      "codepoint": 57528,
+      "fontFamily": "Ep",
+      "identifier": "officeBuilding"
+    },
+    "open": {
+      "codepoint": 57529,
+      "fontFamily": "Ep",
+      "identifier": "open"
+    },
+    "operation": {
+      "codepoint": 57530,
+      "fontFamily": "Ep",
+      "identifier": "operation"
+    },
+    "opportunity": {
+      "codepoint": 57531,
+      "fontFamily": "Ep",
+      "identifier": "opportunity"
+    },
+    "orange": {
+      "codepoint": 57532,
+      "fontFamily": "Ep",
+      "identifier": "orange"
+    },
+    "paperclip": {
+      "codepoint": 57533,
+      "fontFamily": "Ep",
+      "identifier": "paperclip"
+    },
+    "partly-cloudy": {
+      "codepoint": 57534,
+      "fontFamily": "Ep",
+      "identifier": "partlyCloudy"
+    },
+    "pear": {
+      "codepoint": 57535,
+      "fontFamily": "Ep",
+      "identifier": "pear"
+    },
+    "phone": {
+      "codepoint": 57536,
+      "fontFamily": "Ep",
+      "identifier": "phone"
+    },
+    "phone-filled": {
+      "codepoint": 57537,
+      "fontFamily": "Ep",
+      "identifier": "phoneFilled"
+    },
+    "picture": {
+      "codepoint": 57538,
+      "fontFamily": "Ep",
+      "identifier": "picture"
+    },
+    "picture-filled": {
+      "codepoint": 57539,
+      "fontFamily": "Ep",
+      "identifier": "pictureFilled"
+    },
+    "picture-rounded": {
+      "codepoint": 57540,
+      "fontFamily": "Ep",
+      "identifier": "pictureRounded"
+    },
+    "pie-chart": {
+      "codepoint": 57541,
+      "fontFamily": "Ep",
+      "identifier": "pieChart"
+    },
+    "place": {
+      "codepoint": 57542,
+      "fontFamily": "Ep",
+      "identifier": "place"
+    },
+    "platform": {
+      "codepoint": 57543,
+      "fontFamily": "Ep",
+      "identifier": "platform"
+    },
+    "plus": {
+      "codepoint": 57544,
+      "fontFamily": "Ep",
+      "identifier": "plus"
+    },
+    "pointer": {
+      "codepoint": 57545,
+      "fontFamily": "Ep",
+      "identifier": "pointer"
+    },
+    "position": {
+      "codepoint": 57546,
+      "fontFamily": "Ep",
+      "identifier": "position"
+    },
+    "postcard": {
+      "codepoint": 57547,
+      "fontFamily": "Ep",
+      "identifier": "postcard"
+    },
+    "pouring": {
+      "codepoint": 57548,
+      "fontFamily": "Ep",
+      "identifier": "pouring"
+    },
+    "present": {
+      "codepoint": 57549,
+      "fontFamily": "Ep",
+      "identifier": "present"
+    },
+    "price-tag": {
+      "codepoint": 57550,
+      "fontFamily": "Ep",
+      "identifier": "priceTag"
+    },
+    "printer": {
+      "codepoint": 57551,
+      "fontFamily": "Ep",
+      "identifier": "printer"
+    },
+    "promotion": {
+      "codepoint": 57552,
+      "fontFamily": "Ep",
+      "identifier": "promotion"
+    },
+    "quartz-watch": {
+      "codepoint": 57553,
+      "fontFamily": "Ep",
+      "identifier": "quartzWatch"
+    },
+    "question-filled": {
+      "codepoint": 57554,
+      "fontFamily": "Ep",
+      "identifier": "questionFilled"
+    },
+    "rank": {
+      "codepoint": 57555,
+      "fontFamily": "Ep",
+      "identifier": "rank"
+    },
+    "reading": {
+      "codepoint": 57556,
+      "fontFamily": "Ep",
+      "identifier": "reading"
+    },
+    "reading-lamp": {
+      "codepoint": 57557,
+      "fontFamily": "Ep",
+      "identifier": "readingLamp"
+    },
+    "refresh": {
+      "codepoint": 57558,
+      "fontFamily": "Ep",
+      "identifier": "refresh"
+    },
+    "refresh-left": {
+      "codepoint": 57559,
+      "fontFamily": "Ep",
+      "identifier": "refreshLeft"
+    },
+    "refresh-right": {
+      "codepoint": 57560,
+      "fontFamily": "Ep",
+      "identifier": "refreshRight"
+    },
+    "refrigerator": {
+      "codepoint": 57561,
+      "fontFamily": "Ep",
+      "identifier": "refrigerator"
+    },
+    "remove": {
+      "codepoint": 57562,
+      "fontFamily": "Ep",
+      "identifier": "remove"
+    },
+    "remove-filled": {
+      "codepoint": 57563,
+      "fontFamily": "Ep",
+      "identifier": "removeFilled"
+    },
+    "right": {
+      "codepoint": 57564,
+      "fontFamily": "Ep",
+      "identifier": "right"
+    },
+    "scale-to-original": {
+      "codepoint": 57565,
+      "fontFamily": "Ep",
+      "identifier": "scaleToOriginal"
+    },
+    "school": {
+      "codepoint": 57566,
+      "fontFamily": "Ep",
+      "identifier": "school"
+    },
+    "scissor": {
+      "codepoint": 57567,
+      "fontFamily": "Ep",
+      "identifier": "scissor"
+    },
+    "search": {
+      "codepoint": 57568,
+      "fontFamily": "Ep",
+      "identifier": "search"
+    },
+    "select": {
+      "codepoint": 57569,
+      "fontFamily": "Ep",
+      "identifier": "select"
+    },
+    "sell": {
+      "codepoint": 57570,
+      "fontFamily": "Ep",
+      "identifier": "sell"
+    },
+    "semi-select": {
+      "codepoint": 57571,
+      "fontFamily": "Ep",
+      "identifier": "semiSelect"
+    },
+    "service": {
+      "codepoint": 57572,
+      "fontFamily": "Ep",
+      "identifier": "service"
+    },
+    "set-up": {
+      "codepoint": 57573,
+      "fontFamily": "Ep",
+      "identifier": "setUp"
+    },
+    "setting": {
+      "codepoint": 57574,
+      "fontFamily": "Ep",
+      "identifier": "setting"
+    },
+    "share": {
+      "codepoint": 57575,
+      "fontFamily": "Ep",
+      "identifier": "share"
+    },
+    "ship": {
+      "codepoint": 57576,
+      "fontFamily": "Ep",
+      "identifier": "ship"
+    },
+    "shop": {
+      "codepoint": 57577,
+      "fontFamily": "Ep",
+      "identifier": "shop"
+    },
+    "shopping-bag": {
+      "codepoint": 57578,
+      "fontFamily": "Ep",
+      "identifier": "shoppingBag"
+    },
+    "shopping-cart": {
+      "codepoint": 57579,
+      "fontFamily": "Ep",
+      "identifier": "shoppingCart"
+    },
+    "shopping-cart-full": {
+      "codepoint": 57580,
+      "fontFamily": "Ep",
+      "identifier": "shoppingCartFull"
+    },
+    "shopping-trolley": {
+      "codepoint": 57581,
+      "fontFamily": "Ep",
+      "identifier": "shoppingTrolley"
+    },
+    "smoking": {
+      "codepoint": 57582,
+      "fontFamily": "Ep",
+      "identifier": "smoking"
+    },
+    "soccer": {
+      "codepoint": 57583,
+      "fontFamily": "Ep",
+      "identifier": "soccer"
+    },
+    "sold-out": {
+      "codepoint": 57584,
+      "fontFamily": "Ep",
+      "identifier": "soldOut"
+    },
+    "sort": {
+      "codepoint": 57585,
+      "fontFamily": "Ep",
+      "identifier": "sort"
+    },
+    "sort-down": {
+      "codepoint": 57586,
+      "fontFamily": "Ep",
+      "identifier": "sortDown"
+    },
+    "sort-up": {
+      "codepoint": 57587,
+      "fontFamily": "Ep",
+      "identifier": "sortUp"
+    },
+    "stamp": {
+      "codepoint": 57588,
+      "fontFamily": "Ep",
+      "identifier": "stamp"
+    },
+    "star": {
+      "codepoint": 57589,
+      "fontFamily": "Ep",
+      "identifier": "star"
+    },
+    "star-filled": {
+      "codepoint": 57590,
+      "fontFamily": "Ep",
+      "identifier": "starFilled"
+    },
+    "stopwatch": {
+      "codepoint": 57591,
+      "fontFamily": "Ep",
+      "identifier": "stopwatch"
+    },
+    "success-filled": {
+      "codepoint": 57592,
+      "fontFamily": "Ep",
+      "identifier": "successFilled"
+    },
+    "sugar": {
+      "codepoint": 57593,
+      "fontFamily": "Ep",
+      "identifier": "sugar"
+    },
+    "suitcase": {
+      "codepoint": 57594,
+      "fontFamily": "Ep",
+      "identifier": "suitcase"
+    },
+    "suitcase-line": {
+      "codepoint": 57595,
+      "fontFamily": "Ep",
+      "identifier": "suitcaseLine"
+    },
+    "sunny": {
+      "codepoint": 57596,
+      "fontFamily": "Ep",
+      "identifier": "sunny"
+    },
+    "sunrise": {
+      "codepoint": 57597,
+      "fontFamily": "Ep",
+      "identifier": "sunrise"
+    },
+    "sunset": {
+      "codepoint": 57598,
+      "fontFamily": "Ep",
+      "identifier": "sunset"
+    },
+    "switch": {
+      "codepoint": 57599,
+      "fontFamily": "Ep",
+      "identifier": "switch_"
+    },
+    "switch-button": {
+      "codepoint": 57600,
+      "fontFamily": "Ep",
+      "identifier": "switchButton"
+    },
+    "switch-filled": {
+      "codepoint": 57601,
+      "fontFamily": "Ep",
+      "identifier": "switchFilled"
+    },
+    "takeaway-box": {
+      "codepoint": 57602,
+      "fontFamily": "Ep",
+      "identifier": "takeawayBox"
+    },
+    "ticket": {
+      "codepoint": 57603,
+      "fontFamily": "Ep",
+      "identifier": "ticket"
+    },
+    "tickets": {
+      "codepoint": 57604,
+      "fontFamily": "Ep",
+      "identifier": "tickets"
+    },
+    "timer": {
+      "codepoint": 57605,
+      "fontFamily": "Ep",
+      "identifier": "timer"
+    },
+    "toilet-paper": {
+      "codepoint": 57606,
+      "fontFamily": "Ep",
+      "identifier": "toiletPaper"
+    },
+    "tools": {
+      "codepoint": 57607,
+      "fontFamily": "Ep",
+      "identifier": "tools"
+    },
+    "top": {
+      "codepoint": 57608,
+      "fontFamily": "Ep",
+      "identifier": "top"
+    },
+    "top-left": {
+      "codepoint": 57609,
+      "fontFamily": "Ep",
+      "identifier": "topLeft"
+    },
+    "top-right": {
+      "codepoint": 57610,
+      "fontFamily": "Ep",
+      "identifier": "topRight"
+    },
+    "trend-charts": {
+      "codepoint": 57611,
+      "fontFamily": "Ep",
+      "identifier": "trendCharts"
+    },
+    "trophy": {
+      "codepoint": 57612,
+      "fontFamily": "Ep",
+      "identifier": "trophy"
+    },
+    "trophy-base": {
+      "codepoint": 57613,
+      "fontFamily": "Ep",
+      "identifier": "trophyBase"
+    },
+    "turn-off": {
+      "codepoint": 57614,
+      "fontFamily": "Ep",
+      "identifier": "turnOff"
+    },
+    "umbrella": {
+      "codepoint": 57615,
+      "fontFamily": "Ep",
+      "identifier": "umbrella"
+    },
+    "unlock": {
+      "codepoint": 57616,
+      "fontFamily": "Ep",
+      "identifier": "unlock"
+    },
+    "upload": {
+      "codepoint": 57617,
+      "fontFamily": "Ep",
+      "identifier": "upload"
+    },
+    "upload-filled": {
+      "codepoint": 57618,
+      "fontFamily": "Ep",
+      "identifier": "uploadFilled"
+    },
+    "user": {
+      "codepoint": 57619,
+      "fontFamily": "Ep",
+      "identifier": "user"
+    },
+    "user-filled": {
+      "codepoint": 57620,
+      "fontFamily": "Ep",
+      "identifier": "userFilled"
+    },
+    "van": {
+      "codepoint": 57621,
+      "fontFamily": "Ep",
+      "identifier": "van"
+    },
+    "video-camera": {
+      "codepoint": 57622,
+      "fontFamily": "Ep",
+      "identifier": "videoCamera"
+    },
+    "video-camera-filled": {
+      "codepoint": 57623,
+      "fontFamily": "Ep",
+      "identifier": "videoCameraFilled"
+    },
+    "video-pause": {
+      "codepoint": 57624,
+      "fontFamily": "Ep",
+      "identifier": "videoPause"
+    },
+    "video-play": {
+      "codepoint": 57625,
+      "fontFamily": "Ep",
+      "identifier": "videoPlay"
+    },
+    "view": {
+      "codepoint": 57626,
+      "fontFamily": "Ep",
+      "identifier": "view"
+    },
+    "wallet": {
+      "codepoint": 57627,
+      "fontFamily": "Ep",
+      "identifier": "wallet"
+    },
+    "wallet-filled": {
+      "codepoint": 57628,
+      "fontFamily": "Ep",
+      "identifier": "walletFilled"
+    },
+    "warn-triangle-filled": {
+      "codepoint": 57629,
+      "fontFamily": "Ep",
+      "identifier": "warnTriangleFilled"
+    },
+    "warning": {
+      "codepoint": 57630,
+      "fontFamily": "Ep",
+      "identifier": "warning"
+    },
+    "warning-filled": {
+      "codepoint": 57631,
+      "fontFamily": "Ep",
+      "identifier": "warningFilled"
+    },
+    "watch": {
+      "codepoint": 57632,
+      "fontFamily": "Ep",
+      "identifier": "watch"
+    },
+    "watermelon": {
+      "codepoint": 57633,
+      "fontFamily": "Ep",
+      "identifier": "watermelon"
+    },
+    "wind-power": {
+      "codepoint": 57634,
+      "fontFamily": "Ep",
+      "identifier": "windPower"
+    },
+    "zoom-in": {
+      "codepoint": 57635,
+      "fontFamily": "Ep",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 57636,
+      "fontFamily": "Ep",
+      "identifier": "zoomOut"
+    }
+  }
+}

@@ -1,0 +1,5240 @@
+{
+  "schemaVersion": 1,
+  "prefix": "mage",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_mage",
+  "info": {
+    "name": "Mage Icons",
+    "author": {
+      "name": "MageIcons",
+      "url": "https://github.com/Mage-Icons/mage-icons"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/Mage-Icons/mage-icons/blob/main/License.txt"
+    },
+    "total": 1042
+  },
+  "fonts": [
+    {
+      "family": "Mage",
+      "nextCodepoint": 58386,
+      "iconCount": 1042
+    }
+  ],
+  "icons": {
+    "adobe": {
+      "codepoint": 57344,
+      "fontFamily": "Mage",
+      "identifier": "adobe"
+    },
+    "aeroplane": {
+      "codepoint": 57345,
+      "fontFamily": "Mage",
+      "identifier": "aeroplane"
+    },
+    "aeroplane-fill": {
+      "codepoint": 57346,
+      "fontFamily": "Mage",
+      "identifier": "aeroplaneFill"
+    },
+    "after-effects": {
+      "codepoint": 57347,
+      "fontFamily": "Mage",
+      "identifier": "afterEffects"
+    },
+    "alarm-clock": {
+      "codepoint": 57348,
+      "fontFamily": "Mage",
+      "identifier": "alarmClock"
+    },
+    "alarm-clock-fill": {
+      "codepoint": 57349,
+      "fontFamily": "Mage",
+      "identifier": "alarmClockFill"
+    },
+    "align-center": {
+      "codepoint": 57350,
+      "fontFamily": "Mage",
+      "identifier": "alignCenter"
+    },
+    "align-left": {
+      "codepoint": 57351,
+      "fontFamily": "Mage",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57352,
+      "fontFamily": "Mage",
+      "identifier": "alignRight"
+    },
+    "amazon": {
+      "codepoint": 57353,
+      "fontFamily": "Mage",
+      "identifier": "amazon"
+    },
+    "apple": {
+      "codepoint": 57354,
+      "fontFamily": "Mage",
+      "identifier": "apple"
+    },
+    "archive": {
+      "codepoint": 57355,
+      "fontFamily": "Mage",
+      "identifier": "archive"
+    },
+    "archive-drawer": {
+      "codepoint": 57356,
+      "fontFamily": "Mage",
+      "identifier": "archiveDrawer"
+    },
+    "archive-drawer-fill": {
+      "codepoint": 57357,
+      "fontFamily": "Mage",
+      "identifier": "archiveDrawerFill"
+    },
+    "archive-fill": {
+      "codepoint": 57358,
+      "fontFamily": "Mage",
+      "identifier": "archiveFill"
+    },
+    "arrow-down": {
+      "codepoint": 57359,
+      "fontFamily": "Mage",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-circle": {
+      "codepoint": 57360,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownCircle"
+    },
+    "arrow-down-circle-fill": {
+      "codepoint": 57361,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownCircleFill"
+    },
+    "arrow-down-left": {
+      "codepoint": 57362,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownLeft"
+    },
+    "arrow-down-left-circle": {
+      "codepoint": 57363,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownLeftCircle"
+    },
+    "arrow-down-left-circle-fill": {
+      "codepoint": 57364,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownLeftCircleFill"
+    },
+    "arrow-down-left-square": {
+      "codepoint": 57365,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownLeftSquare"
+    },
+    "arrow-down-left-square-fill": {
+      "codepoint": 57366,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownLeftSquareFill"
+    },
+    "arrow-down-right": {
+      "codepoint": 57367,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownRight"
+    },
+    "arrow-down-right-circle": {
+      "codepoint": 57368,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownRightCircle"
+    },
+    "arrow-down-right-circle-fill": {
+      "codepoint": 57369,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownRightCircleFill"
+    },
+    "arrow-down-right-square": {
+      "codepoint": 57370,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownRightSquare"
+    },
+    "arrow-down-right-square-fill": {
+      "codepoint": 57371,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownRightSquareFill"
+    },
+    "arrow-down-square": {
+      "codepoint": 57372,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownSquare"
+    },
+    "arrow-down-square-fill": {
+      "codepoint": 57373,
+      "fontFamily": "Mage",
+      "identifier": "arrowDownSquareFill"
+    },
+    "arrow-left": {
+      "codepoint": 57374,
+      "fontFamily": "Mage",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-circle": {
+      "codepoint": 57375,
+      "fontFamily": "Mage",
+      "identifier": "arrowLeftCircle"
+    },
+    "arrow-left-circle-fill": {
+      "codepoint": 57376,
+      "fontFamily": "Mage",
+      "identifier": "arrowLeftCircleFill"
+    },
+    "arrow-left-square": {
+      "codepoint": 57377,
+      "fontFamily": "Mage",
+      "identifier": "arrowLeftSquare"
+    },
+    "arrow-left-square-fill": {
+      "codepoint": 57378,
+      "fontFamily": "Mage",
+      "identifier": "arrowLeftSquareFill"
+    },
+    "arrow-right": {
+      "codepoint": 57379,
+      "fontFamily": "Mage",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-circle": {
+      "codepoint": 57380,
+      "fontFamily": "Mage",
+      "identifier": "arrowRightCircle"
+    },
+    "arrow-right-circle-fill": {
+      "codepoint": 57381,
+      "fontFamily": "Mage",
+      "identifier": "arrowRightCircleFill"
+    },
+    "arrow-right-square": {
+      "codepoint": 57382,
+      "fontFamily": "Mage",
+      "identifier": "arrowRightSquare"
+    },
+    "arrow-right-square-fill": {
+      "codepoint": 57383,
+      "fontFamily": "Mage",
+      "identifier": "arrowRightSquareFill"
+    },
+    "arrow-up": {
+      "codepoint": 57384,
+      "fontFamily": "Mage",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-circle": {
+      "codepoint": 57385,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpCircle"
+    },
+    "arrow-up-circle-fill": {
+      "codepoint": 57386,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpCircleFill"
+    },
+    "arrow-up-left": {
+      "codepoint": 57387,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpLeft"
+    },
+    "arrow-up-left-circle": {
+      "codepoint": 57388,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpLeftCircle"
+    },
+    "arrow-up-left-circle-fill": {
+      "codepoint": 57389,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpLeftCircleFill"
+    },
+    "arrow-up-left-square": {
+      "codepoint": 57390,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpLeftSquare"
+    },
+    "arrow-up-left-square-fill": {
+      "codepoint": 57391,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpLeftSquareFill"
+    },
+    "arrow-up-right": {
+      "codepoint": 57392,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpRight"
+    },
+    "arrow-up-right-circle": {
+      "codepoint": 57393,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpRightCircle"
+    },
+    "arrow-up-right-circle-fill": {
+      "codepoint": 57394,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpRightCircleFill"
+    },
+    "arrow-up-right-square": {
+      "codepoint": 57395,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpRightSquare"
+    },
+    "arrow-up-right-square-fill": {
+      "codepoint": 57396,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpRightSquareFill"
+    },
+    "arrow-up-square": {
+      "codepoint": 57397,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpSquare"
+    },
+    "arrow-up-square-fill": {
+      "codepoint": 57398,
+      "fontFamily": "Mage",
+      "identifier": "arrowUpSquareFill"
+    },
+    "arrowlist": {
+      "codepoint": 57399,
+      "fontFamily": "Mage",
+      "identifier": "arrowlist"
+    },
+    "arrows-all-direction": {
+      "codepoint": 57400,
+      "fontFamily": "Mage",
+      "identifier": "arrowsAllDirection"
+    },
+    "arrows-all-direction-2": {
+      "codepoint": 57401,
+      "fontFamily": "Mage",
+      "identifier": "arrowsAllDirection2"
+    },
+    "attachment": {
+      "codepoint": 57402,
+      "fontFamily": "Mage",
+      "identifier": "attachment"
+    },
+    "bag-a": {
+      "codepoint": 57403,
+      "fontFamily": "Mage",
+      "identifier": "bagA"
+    },
+    "bag-a-fill": {
+      "codepoint": 57404,
+      "fontFamily": "Mage",
+      "identifier": "bagAFill"
+    },
+    "bag-b": {
+      "codepoint": 57405,
+      "fontFamily": "Mage",
+      "identifier": "bagB"
+    },
+    "bag-b-fill": {
+      "codepoint": 57406,
+      "fontFamily": "Mage",
+      "identifier": "bagBFill"
+    },
+    "bar-code-scan": {
+      "codepoint": 57407,
+      "fontFamily": "Mage",
+      "identifier": "barCodeScan"
+    },
+    "basket": {
+      "codepoint": 57408,
+      "fontFamily": "Mage",
+      "identifier": "basket"
+    },
+    "basket-fill": {
+      "codepoint": 57409,
+      "fontFamily": "Mage",
+      "identifier": "basketFill"
+    },
+    "battery-charging": {
+      "codepoint": 57410,
+      "fontFamily": "Mage",
+      "identifier": "batteryCharging"
+    },
+    "battery-charging-fill": {
+      "codepoint": 57411,
+      "fontFamily": "Mage",
+      "identifier": "batteryChargingFill"
+    },
+    "battery-dead": {
+      "codepoint": 57412,
+      "fontFamily": "Mage",
+      "identifier": "batteryDead"
+    },
+    "battery-dead-fill": {
+      "codepoint": 57413,
+      "fontFamily": "Mage",
+      "identifier": "batteryDeadFill"
+    },
+    "battery-empty": {
+      "codepoint": 57414,
+      "fontFamily": "Mage",
+      "identifier": "batteryEmpty"
+    },
+    "battery-empty-fill": {
+      "codepoint": 57415,
+      "fontFamily": "Mage",
+      "identifier": "batteryEmptyFill"
+    },
+    "battery-full": {
+      "codepoint": 57416,
+      "fontFamily": "Mage",
+      "identifier": "batteryFull"
+    },
+    "battery-full-fill": {
+      "codepoint": 57417,
+      "fontFamily": "Mage",
+      "identifier": "batteryFullFill"
+    },
+    "battery-half": {
+      "codepoint": 57418,
+      "fontFamily": "Mage",
+      "identifier": "batteryHalf"
+    },
+    "battery-half-fill": {
+      "codepoint": 57419,
+      "fontFamily": "Mage",
+      "identifier": "batteryHalfFill"
+    },
+    "battery-low": {
+      "codepoint": 57420,
+      "fontFamily": "Mage",
+      "identifier": "batteryLow"
+    },
+    "battery-low-fill": {
+      "codepoint": 57421,
+      "fontFamily": "Mage",
+      "identifier": "batteryLowFill"
+    },
+    "behance": {
+      "codepoint": 57422,
+      "fontFamily": "Mage",
+      "identifier": "behance"
+    },
+    "bell-notification-square": {
+      "codepoint": 57423,
+      "fontFamily": "Mage",
+      "identifier": "bellNotificationSquare"
+    },
+    "bell-notification-square-fill": {
+      "codepoint": 57424,
+      "fontFamily": "Mage",
+      "identifier": "bellNotificationSquareFill"
+    },
+    "bolt": {
+      "codepoint": 57425,
+      "fontFamily": "Mage",
+      "identifier": "bolt"
+    },
+    "bolt-fill": {
+      "codepoint": 57426,
+      "fontFamily": "Mage",
+      "identifier": "boltFill"
+    },
+    "book": {
+      "codepoint": 57427,
+      "fontFamily": "Mage",
+      "identifier": "book"
+    },
+    "book-fill": {
+      "codepoint": 57428,
+      "fontFamily": "Mage",
+      "identifier": "bookFill"
+    },
+    "book-text": {
+      "codepoint": 57429,
+      "fontFamily": "Mage",
+      "identifier": "bookText"
+    },
+    "book-text-fill": {
+      "codepoint": 57430,
+      "fontFamily": "Mage",
+      "identifier": "bookTextFill"
+    },
+    "bookmark": {
+      "codepoint": 57431,
+      "fontFamily": "Mage",
+      "identifier": "bookmark"
+    },
+    "bookmark-check": {
+      "codepoint": 57432,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkCheck"
+    },
+    "bookmark-check-fill": {
+      "codepoint": 57433,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkCheckFill"
+    },
+    "bookmark-cross": {
+      "codepoint": 57434,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkCross"
+    },
+    "bookmark-cross-fill": {
+      "codepoint": 57435,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkCrossFill"
+    },
+    "bookmark-download": {
+      "codepoint": 57436,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkDownload"
+    },
+    "bookmark-download-fill": {
+      "codepoint": 57437,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkDownloadFill"
+    },
+    "bookmark-fill": {
+      "codepoint": 57438,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkFill"
+    },
+    "bookmark-minus": {
+      "codepoint": 57439,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkMinus"
+    },
+    "bookmark-minus-fill": {
+      "codepoint": 57440,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkMinusFill"
+    },
+    "bookmark-plus": {
+      "codepoint": 57441,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkPlus"
+    },
+    "bookmark-plus-fill": {
+      "codepoint": 57442,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkPlusFill"
+    },
+    "bookmark-question-mark": {
+      "codepoint": 57443,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkQuestionMark"
+    },
+    "bookmark-question-mark-fill": {
+      "codepoint": 57444,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkQuestionMarkFill"
+    },
+    "bookmark-upload": {
+      "codepoint": 57445,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkUpload"
+    },
+    "bookmark-upload-fill": {
+      "codepoint": 57446,
+      "fontFamily": "Mage",
+      "identifier": "bookmarkUploadFill"
+    },
+    "box": {
+      "codepoint": 57447,
+      "fontFamily": "Mage",
+      "identifier": "box"
+    },
+    "box-3d": {
+      "codepoint": 57448,
+      "fontFamily": "Mage",
+      "identifier": "box3d"
+    },
+    "box-3d-check": {
+      "codepoint": 57449,
+      "fontFamily": "Mage",
+      "identifier": "box3dCheck"
+    },
+    "box-3d-check-fill": {
+      "codepoint": 57450,
+      "fontFamily": "Mage",
+      "identifier": "box3dCheckFill"
+    },
+    "box-3d-cross": {
+      "codepoint": 57451,
+      "fontFamily": "Mage",
+      "identifier": "box3dCross"
+    },
+    "box-3d-cross-fill": {
+      "codepoint": 57452,
+      "fontFamily": "Mage",
+      "identifier": "box3dCrossFill"
+    },
+    "box-3d-download": {
+      "codepoint": 57453,
+      "fontFamily": "Mage",
+      "identifier": "box3dDownload"
+    },
+    "box-3d-download-fill": {
+      "codepoint": 57454,
+      "fontFamily": "Mage",
+      "identifier": "box3dDownloadFill"
+    },
+    "box-3d-fill": {
+      "codepoint": 57455,
+      "fontFamily": "Mage",
+      "identifier": "box3dFill"
+    },
+    "box-3d-minus": {
+      "codepoint": 57456,
+      "fontFamily": "Mage",
+      "identifier": "box3dMinus"
+    },
+    "box-3d-minus-fill": {
+      "codepoint": 57457,
+      "fontFamily": "Mage",
+      "identifier": "box3dMinusFill"
+    },
+    "box-3d-notification": {
+      "codepoint": 57458,
+      "fontFamily": "Mage",
+      "identifier": "box3dNotification"
+    },
+    "box-3d-notification-fill": {
+      "codepoint": 57459,
+      "fontFamily": "Mage",
+      "identifier": "box3dNotificationFill"
+    },
+    "box-3d-plus": {
+      "codepoint": 57460,
+      "fontFamily": "Mage",
+      "identifier": "box3dPlus"
+    },
+    "box-3d-plus-fill": {
+      "codepoint": 57461,
+      "fontFamily": "Mage",
+      "identifier": "box3dPlusFill"
+    },
+    "box-3d-question-mark": {
+      "codepoint": 57462,
+      "fontFamily": "Mage",
+      "identifier": "box3dQuestionMark"
+    },
+    "box-3d-question-mark-fill": {
+      "codepoint": 57463,
+      "fontFamily": "Mage",
+      "identifier": "box3dQuestionMarkFill"
+    },
+    "box-3d-scan": {
+      "codepoint": 57464,
+      "fontFamily": "Mage",
+      "identifier": "box3dScan"
+    },
+    "box-3d-scan-fill": {
+      "codepoint": 57465,
+      "fontFamily": "Mage",
+      "identifier": "box3dScanFill"
+    },
+    "box-3d-upload": {
+      "codepoint": 57466,
+      "fontFamily": "Mage",
+      "identifier": "box3dUpload"
+    },
+    "box-3d-upload-fill": {
+      "codepoint": 57467,
+      "fontFamily": "Mage",
+      "identifier": "box3dUploadFill"
+    },
+    "box-check": {
+      "codepoint": 57468,
+      "fontFamily": "Mage",
+      "identifier": "boxCheck"
+    },
+    "box-check-fill": {
+      "codepoint": 57469,
+      "fontFamily": "Mage",
+      "identifier": "boxCheckFill"
+    },
+    "box-cross": {
+      "codepoint": 57470,
+      "fontFamily": "Mage",
+      "identifier": "boxCross"
+    },
+    "box-cross-fill": {
+      "codepoint": 57471,
+      "fontFamily": "Mage",
+      "identifier": "boxCrossFill"
+    },
+    "box-fill": {
+      "codepoint": 57472,
+      "fontFamily": "Mage",
+      "identifier": "boxFill"
+    },
+    "box-minus": {
+      "codepoint": 57473,
+      "fontFamily": "Mage",
+      "identifier": "boxMinus"
+    },
+    "box-minus-fill": {
+      "codepoint": 57474,
+      "fontFamily": "Mage",
+      "identifier": "boxMinusFill"
+    },
+    "box-plus": {
+      "codepoint": 57475,
+      "fontFamily": "Mage",
+      "identifier": "boxPlus"
+    },
+    "box-plus-fill": {
+      "codepoint": 57476,
+      "fontFamily": "Mage",
+      "identifier": "boxPlusFill"
+    },
+    "box-question-mark": {
+      "codepoint": 57477,
+      "fontFamily": "Mage",
+      "identifier": "boxQuestionMark"
+    },
+    "box-question-mark-fill": {
+      "codepoint": 57478,
+      "fontFamily": "Mage",
+      "identifier": "boxQuestionMarkFill"
+    },
+    "box-upload": {
+      "codepoint": 57479,
+      "fontFamily": "Mage",
+      "identifier": "boxUpload"
+    },
+    "box-upload-fill": {
+      "codepoint": 57480,
+      "fontFamily": "Mage",
+      "identifier": "boxUploadFill"
+    },
+    "briefcase": {
+      "codepoint": 57481,
+      "fontFamily": "Mage",
+      "identifier": "briefcase"
+    },
+    "briefcase-fill": {
+      "codepoint": 57482,
+      "fontFamily": "Mage",
+      "identifier": "briefcaseFill"
+    },
+    "broadcast": {
+      "codepoint": 57483,
+      "fontFamily": "Mage",
+      "identifier": "broadcast"
+    },
+    "broadcast-fill": {
+      "codepoint": 57484,
+      "fontFamily": "Mage",
+      "identifier": "broadcastFill"
+    },
+    "building-a": {
+      "codepoint": 57485,
+      "fontFamily": "Mage",
+      "identifier": "buildingA"
+    },
+    "building-a-fill": {
+      "codepoint": 57486,
+      "fontFamily": "Mage",
+      "identifier": "buildingAFill"
+    },
+    "building-b": {
+      "codepoint": 57487,
+      "fontFamily": "Mage",
+      "identifier": "buildingB"
+    },
+    "building-b-fill": {
+      "codepoint": 57488,
+      "fontFamily": "Mage",
+      "identifier": "buildingBFill"
+    },
+    "building-tree": {
+      "codepoint": 57489,
+      "fontFamily": "Mage",
+      "identifier": "buildingTree"
+    },
+    "building-tree-fill": {
+      "codepoint": 57490,
+      "fontFamily": "Mage",
+      "identifier": "buildingTreeFill"
+    },
+    "calculator": {
+      "codepoint": 57491,
+      "fontFamily": "Mage",
+      "identifier": "calculator"
+    },
+    "calculator-fill": {
+      "codepoint": 57492,
+      "fontFamily": "Mage",
+      "identifier": "calculatorFill"
+    },
+    "calendar": {
+      "codepoint": 57493,
+      "fontFamily": "Mage",
+      "identifier": "calendar"
+    },
+    "calendar-2": {
+      "codepoint": 57494,
+      "fontFamily": "Mage",
+      "identifier": "calendar2"
+    },
+    "calendar-2-fill": {
+      "codepoint": 57495,
+      "fontFamily": "Mage",
+      "identifier": "calendar2Fill"
+    },
+    "calendar-3": {
+      "codepoint": 57496,
+      "fontFamily": "Mage",
+      "identifier": "calendar3"
+    },
+    "calendar-3-fill": {
+      "codepoint": 57497,
+      "fontFamily": "Mage",
+      "identifier": "calendar3Fill"
+    },
+    "calendar-check": {
+      "codepoint": 57498,
+      "fontFamily": "Mage",
+      "identifier": "calendarCheck"
+    },
+    "calendar-check-fill": {
+      "codepoint": 57499,
+      "fontFamily": "Mage",
+      "identifier": "calendarCheckFill"
+    },
+    "calendar-cross": {
+      "codepoint": 57500,
+      "fontFamily": "Mage",
+      "identifier": "calendarCross"
+    },
+    "calendar-cross-fill": {
+      "codepoint": 57501,
+      "fontFamily": "Mage",
+      "identifier": "calendarCrossFill"
+    },
+    "calendar-download": {
+      "codepoint": 57502,
+      "fontFamily": "Mage",
+      "identifier": "calendarDownload"
+    },
+    "calendar-download-fill": {
+      "codepoint": 57503,
+      "fontFamily": "Mage",
+      "identifier": "calendarDownloadFill"
+    },
+    "calendar-fill": {
+      "codepoint": 57504,
+      "fontFamily": "Mage",
+      "identifier": "calendarFill"
+    },
+    "calendar-minus": {
+      "codepoint": 57505,
+      "fontFamily": "Mage",
+      "identifier": "calendarMinus"
+    },
+    "calendar-minus-fill": {
+      "codepoint": 57506,
+      "fontFamily": "Mage",
+      "identifier": "calendarMinusFill"
+    },
+    "calendar-plus": {
+      "codepoint": 57507,
+      "fontFamily": "Mage",
+      "identifier": "calendarPlus"
+    },
+    "calendar-plus-fill": {
+      "codepoint": 57508,
+      "fontFamily": "Mage",
+      "identifier": "calendarPlusFill"
+    },
+    "calendar-question-mark": {
+      "codepoint": 57509,
+      "fontFamily": "Mage",
+      "identifier": "calendarQuestionMark"
+    },
+    "calendar-question-mark-fill": {
+      "codepoint": 57510,
+      "fontFamily": "Mage",
+      "identifier": "calendarQuestionMarkFill"
+    },
+    "calendar-upload": {
+      "codepoint": 57511,
+      "fontFamily": "Mage",
+      "identifier": "calendarUpload"
+    },
+    "calendar-upload-fill": {
+      "codepoint": 57512,
+      "fontFamily": "Mage",
+      "identifier": "calendarUploadFill"
+    },
+    "camera": {
+      "codepoint": 57513,
+      "fontFamily": "Mage",
+      "identifier": "camera"
+    },
+    "camera-2": {
+      "codepoint": 57514,
+      "fontFamily": "Mage",
+      "identifier": "camera2"
+    },
+    "camera-2-fill": {
+      "codepoint": 57515,
+      "fontFamily": "Mage",
+      "identifier": "camera2Fill"
+    },
+    "camera-fill": {
+      "codepoint": 57516,
+      "fontFamily": "Mage",
+      "identifier": "cameraFill"
+    },
+    "cancel": {
+      "codepoint": 57517,
+      "fontFamily": "Mage",
+      "identifier": "cancel"
+    },
+    "cancel-fill": {
+      "codepoint": 57518,
+      "fontFamily": "Mage",
+      "identifier": "cancelFill"
+    },
+    "caret-down": {
+      "codepoint": 57519,
+      "fontFamily": "Mage",
+      "identifier": "caretDown"
+    },
+    "caret-down-fill": {
+      "codepoint": 57520,
+      "fontFamily": "Mage",
+      "identifier": "caretDownFill"
+    },
+    "caret-left": {
+      "codepoint": 57521,
+      "fontFamily": "Mage",
+      "identifier": "caretLeft"
+    },
+    "caret-left-fill": {
+      "codepoint": 57522,
+      "fontFamily": "Mage",
+      "identifier": "caretLeftFill"
+    },
+    "caret-right": {
+      "codepoint": 57523,
+      "fontFamily": "Mage",
+      "identifier": "caretRight"
+    },
+    "caret-right-fill": {
+      "codepoint": 57524,
+      "fontFamily": "Mage",
+      "identifier": "caretRightFill"
+    },
+    "caret-up": {
+      "codepoint": 57525,
+      "fontFamily": "Mage",
+      "identifier": "caretUp"
+    },
+    "caret-up-fill": {
+      "codepoint": 57526,
+      "fontFamily": "Mage",
+      "identifier": "caretUpFill"
+    },
+    "chart": {
+      "codepoint": 57527,
+      "fontFamily": "Mage",
+      "identifier": "chart"
+    },
+    "chart-15": {
+      "codepoint": 57528,
+      "fontFamily": "Mage",
+      "identifier": "chart15"
+    },
+    "chart-15-fill": {
+      "codepoint": 57529,
+      "fontFamily": "Mage",
+      "identifier": "chart15Fill"
+    },
+    "chart-25": {
+      "codepoint": 57530,
+      "fontFamily": "Mage",
+      "identifier": "chart25"
+    },
+    "chart-25-fill": {
+      "codepoint": 57531,
+      "fontFamily": "Mage",
+      "identifier": "chart25Fill"
+    },
+    "chart-50": {
+      "codepoint": 57532,
+      "fontFamily": "Mage",
+      "identifier": "chart50"
+    },
+    "chart-50-fill": {
+      "codepoint": 57533,
+      "fontFamily": "Mage",
+      "identifier": "chart50Fill"
+    },
+    "chart-b": {
+      "codepoint": 57534,
+      "fontFamily": "Mage",
+      "identifier": "chartB"
+    },
+    "chart-b-fill": {
+      "codepoint": 57535,
+      "fontFamily": "Mage",
+      "identifier": "chartBFill"
+    },
+    "chart-down": {
+      "codepoint": 57536,
+      "fontFamily": "Mage",
+      "identifier": "chartDown"
+    },
+    "chart-down-b": {
+      "codepoint": 57537,
+      "fontFamily": "Mage",
+      "identifier": "chartDownB"
+    },
+    "chart-down-b-fill": {
+      "codepoint": 57538,
+      "fontFamily": "Mage",
+      "identifier": "chartDownBFill"
+    },
+    "chart-down-fill": {
+      "codepoint": 57539,
+      "fontFamily": "Mage",
+      "identifier": "chartDownFill"
+    },
+    "chart-fill": {
+      "codepoint": 57540,
+      "fontFamily": "Mage",
+      "identifier": "chartFill"
+    },
+    "chart-up": {
+      "codepoint": 57541,
+      "fontFamily": "Mage",
+      "identifier": "chartUp"
+    },
+    "chart-up-b": {
+      "codepoint": 57542,
+      "fontFamily": "Mage",
+      "identifier": "chartUpB"
+    },
+    "chart-up-b-fill": {
+      "codepoint": 57543,
+      "fontFamily": "Mage",
+      "identifier": "chartUpBFill"
+    },
+    "chart-up-fill": {
+      "codepoint": 57544,
+      "fontFamily": "Mage",
+      "identifier": "chartUpFill"
+    },
+    "chart-vertical": {
+      "codepoint": 57545,
+      "fontFamily": "Mage",
+      "identifier": "chartVertical"
+    },
+    "chart-vertical-fill": {
+      "codepoint": 57546,
+      "fontFamily": "Mage",
+      "identifier": "chartVerticalFill"
+    },
+    "check": {
+      "codepoint": 57547,
+      "fontFamily": "Mage",
+      "identifier": "check"
+    },
+    "check-circle": {
+      "codepoint": 57548,
+      "fontFamily": "Mage",
+      "identifier": "checkCircle"
+    },
+    "check-circle-fill": {
+      "codepoint": 57549,
+      "fontFamily": "Mage",
+      "identifier": "checkCircleFill"
+    },
+    "check-square": {
+      "codepoint": 57550,
+      "fontFamily": "Mage",
+      "identifier": "checkSquare"
+    },
+    "check-square-fill": {
+      "codepoint": 57551,
+      "fontFamily": "Mage",
+      "identifier": "checkSquareFill"
+    },
+    "checklist": {
+      "codepoint": 57552,
+      "fontFamily": "Mage",
+      "identifier": "checklist"
+    },
+    "checklist-note": {
+      "codepoint": 57553,
+      "fontFamily": "Mage",
+      "identifier": "checklistNote"
+    },
+    "checklist-note-fill": {
+      "codepoint": 57554,
+      "fontFamily": "Mage",
+      "identifier": "checklistNoteFill"
+    },
+    "chevron-down": {
+      "codepoint": 57555,
+      "fontFamily": "Mage",
+      "identifier": "chevronDown"
+    },
+    "chevron-down-circle": {
+      "codepoint": 57556,
+      "fontFamily": "Mage",
+      "identifier": "chevronDownCircle"
+    },
+    "chevron-down-circle-fill": {
+      "codepoint": 57557,
+      "fontFamily": "Mage",
+      "identifier": "chevronDownCircleFill"
+    },
+    "chevron-down-square": {
+      "codepoint": 57558,
+      "fontFamily": "Mage",
+      "identifier": "chevronDownSquare"
+    },
+    "chevron-down-square-fill": {
+      "codepoint": 57559,
+      "fontFamily": "Mage",
+      "identifier": "chevronDownSquareFill"
+    },
+    "chevron-left": {
+      "codepoint": 57560,
+      "fontFamily": "Mage",
+      "identifier": "chevronLeft"
+    },
+    "chevron-left-circle": {
+      "codepoint": 57561,
+      "fontFamily": "Mage",
+      "identifier": "chevronLeftCircle"
+    },
+    "chevron-left-circle-fill": {
+      "codepoint": 57562,
+      "fontFamily": "Mage",
+      "identifier": "chevronLeftCircleFill"
+    },
+    "chevron-left-square": {
+      "codepoint": 57563,
+      "fontFamily": "Mage",
+      "identifier": "chevronLeftSquare"
+    },
+    "chevron-left-square-fill": {
+      "codepoint": 57564,
+      "fontFamily": "Mage",
+      "identifier": "chevronLeftSquareFill"
+    },
+    "chevron-right": {
+      "codepoint": 57565,
+      "fontFamily": "Mage",
+      "identifier": "chevronRight"
+    },
+    "chevron-right-circle": {
+      "codepoint": 57566,
+      "fontFamily": "Mage",
+      "identifier": "chevronRightCircle"
+    },
+    "chevron-right-circle-fill": {
+      "codepoint": 57567,
+      "fontFamily": "Mage",
+      "identifier": "chevronRightCircleFill"
+    },
+    "chevron-right-square": {
+      "codepoint": 57568,
+      "fontFamily": "Mage",
+      "identifier": "chevronRightSquare"
+    },
+    "chevron-right-square-fill": {
+      "codepoint": 57569,
+      "fontFamily": "Mage",
+      "identifier": "chevronRightSquareFill"
+    },
+    "chevron-up": {
+      "codepoint": 57570,
+      "fontFamily": "Mage",
+      "identifier": "chevronUp"
+    },
+    "chevron-up-circle": {
+      "codepoint": 57571,
+      "fontFamily": "Mage",
+      "identifier": "chevronUpCircle"
+    },
+    "chevron-up-circle-fill": {
+      "codepoint": 57572,
+      "fontFamily": "Mage",
+      "identifier": "chevronUpCircleFill"
+    },
+    "chevron-up-square": {
+      "codepoint": 57573,
+      "fontFamily": "Mage",
+      "identifier": "chevronUpSquare"
+    },
+    "chevron-up-square-fill": {
+      "codepoint": 57574,
+      "fontFamily": "Mage",
+      "identifier": "chevronUpSquareFill"
+    },
+    "chip": {
+      "codepoint": 57575,
+      "fontFamily": "Mage",
+      "identifier": "chip"
+    },
+    "chip-fill": {
+      "codepoint": 57576,
+      "fontFamily": "Mage",
+      "identifier": "chipFill"
+    },
+    "clipboard": {
+      "codepoint": 57577,
+      "fontFamily": "Mage",
+      "identifier": "clipboard"
+    },
+    "clipboard-2": {
+      "codepoint": 57578,
+      "fontFamily": "Mage",
+      "identifier": "clipboard2"
+    },
+    "clipboard-2-fill": {
+      "codepoint": 57579,
+      "fontFamily": "Mage",
+      "identifier": "clipboard2Fill"
+    },
+    "clipboard-3": {
+      "codepoint": 57580,
+      "fontFamily": "Mage",
+      "identifier": "clipboard3"
+    },
+    "clipboard-fill": {
+      "codepoint": 57581,
+      "fontFamily": "Mage",
+      "identifier": "clipboardFill"
+    },
+    "clock": {
+      "codepoint": 57582,
+      "fontFamily": "Mage",
+      "identifier": "clock"
+    },
+    "clock-fill": {
+      "codepoint": 57583,
+      "fontFamily": "Mage",
+      "identifier": "clockFill"
+    },
+    "coin-a": {
+      "codepoint": 57584,
+      "fontFamily": "Mage",
+      "identifier": "coinA"
+    },
+    "coin-a-fill": {
+      "codepoint": 57585,
+      "fontFamily": "Mage",
+      "identifier": "coinAFill"
+    },
+    "coin-b": {
+      "codepoint": 57586,
+      "fontFamily": "Mage",
+      "identifier": "coinB"
+    },
+    "coin-b-fill": {
+      "codepoint": 57587,
+      "fontFamily": "Mage",
+      "identifier": "coinBFill"
+    },
+    "color-picker": {
+      "codepoint": 57588,
+      "fontFamily": "Mage",
+      "identifier": "colorPicker"
+    },
+    "color-picker-fill": {
+      "codepoint": 57589,
+      "fontFamily": "Mage",
+      "identifier": "colorPickerFill"
+    },
+    "color-swatch": {
+      "codepoint": 57590,
+      "fontFamily": "Mage",
+      "identifier": "colorSwatch"
+    },
+    "color-swatch-fill": {
+      "codepoint": 57591,
+      "fontFamily": "Mage",
+      "identifier": "colorSwatchFill"
+    },
+    "compact-disk": {
+      "codepoint": 57592,
+      "fontFamily": "Mage",
+      "identifier": "compactDisk"
+    },
+    "compact-disk-fill": {
+      "codepoint": 57593,
+      "fontFamily": "Mage",
+      "identifier": "compactDiskFill"
+    },
+    "compass": {
+      "codepoint": 57594,
+      "fontFamily": "Mage",
+      "identifier": "compass"
+    },
+    "compass-fill": {
+      "codepoint": 57595,
+      "fontFamily": "Mage",
+      "identifier": "compassFill"
+    },
+    "contact-book": {
+      "codepoint": 57596,
+      "fontFamily": "Mage",
+      "identifier": "contactBook"
+    },
+    "contact-book-fill": {
+      "codepoint": 57597,
+      "fontFamily": "Mage",
+      "identifier": "contactBookFill"
+    },
+    "copy": {
+      "codepoint": 57598,
+      "fontFamily": "Mage",
+      "identifier": "copy"
+    },
+    "copy-fill": {
+      "codepoint": 57599,
+      "fontFamily": "Mage",
+      "identifier": "copyFill"
+    },
+    "credit-card": {
+      "codepoint": 57600,
+      "fontFamily": "Mage",
+      "identifier": "creditCard"
+    },
+    "credit-card-fill": {
+      "codepoint": 57601,
+      "fontFamily": "Mage",
+      "identifier": "creditCardFill"
+    },
+    "crown-a": {
+      "codepoint": 57602,
+      "fontFamily": "Mage",
+      "identifier": "crownA"
+    },
+    "crown-a-fill": {
+      "codepoint": 57603,
+      "fontFamily": "Mage",
+      "identifier": "crownAFill"
+    },
+    "crown-b": {
+      "codepoint": 57604,
+      "fontFamily": "Mage",
+      "identifier": "crownB"
+    },
+    "crown-b-fill": {
+      "codepoint": 57605,
+      "fontFamily": "Mage",
+      "identifier": "crownBFill"
+    },
+    "cup-hot": {
+      "codepoint": 57606,
+      "fontFamily": "Mage",
+      "identifier": "cupHot"
+    },
+    "cup-hot-fill": {
+      "codepoint": 57607,
+      "fontFamily": "Mage",
+      "identifier": "cupHotFill"
+    },
+    "dash-menu": {
+      "codepoint": 57608,
+      "fontFamily": "Mage",
+      "identifier": "dashMenu"
+    },
+    "dashboard": {
+      "codepoint": 57609,
+      "fontFamily": "Mage",
+      "identifier": "dashboard"
+    },
+    "dashboard-2": {
+      "codepoint": 57610,
+      "fontFamily": "Mage",
+      "identifier": "dashboard2"
+    },
+    "dashboard-2-fill": {
+      "codepoint": 57611,
+      "fontFamily": "Mage",
+      "identifier": "dashboard2Fill"
+    },
+    "dashboard-3": {
+      "codepoint": 57612,
+      "fontFamily": "Mage",
+      "identifier": "dashboard3"
+    },
+    "dashboard-3-fill": {
+      "codepoint": 57613,
+      "fontFamily": "Mage",
+      "identifier": "dashboard3Fill"
+    },
+    "dashboard-4": {
+      "codepoint": 57614,
+      "fontFamily": "Mage",
+      "identifier": "dashboard4"
+    },
+    "dashboard-4-fill": {
+      "codepoint": 57615,
+      "fontFamily": "Mage",
+      "identifier": "dashboard4Fill"
+    },
+    "dashboard-bar": {
+      "codepoint": 57616,
+      "fontFamily": "Mage",
+      "identifier": "dashboardBar"
+    },
+    "dashboard-bar-fill": {
+      "codepoint": 57617,
+      "fontFamily": "Mage",
+      "identifier": "dashboardBarFill"
+    },
+    "dashboard-bar-notification": {
+      "codepoint": 57618,
+      "fontFamily": "Mage",
+      "identifier": "dashboardBarNotification"
+    },
+    "dashboard-chart": {
+      "codepoint": 57619,
+      "fontFamily": "Mage",
+      "identifier": "dashboardChart"
+    },
+    "dashboard-chart-arrow": {
+      "codepoint": 57620,
+      "fontFamily": "Mage",
+      "identifier": "dashboardChartArrow"
+    },
+    "dashboard-chart-arrow-fill": {
+      "codepoint": 57621,
+      "fontFamily": "Mage",
+      "identifier": "dashboardChartArrowFill"
+    },
+    "dashboard-chart-fill": {
+      "codepoint": 57622,
+      "fontFamily": "Mage",
+      "identifier": "dashboardChartFill"
+    },
+    "dashboard-chart-notification": {
+      "codepoint": 57623,
+      "fontFamily": "Mage",
+      "identifier": "dashboardChartNotification"
+    },
+    "dashboard-chart-star": {
+      "codepoint": 57624,
+      "fontFamily": "Mage",
+      "identifier": "dashboardChartStar"
+    },
+    "dashboard-check": {
+      "codepoint": 57625,
+      "fontFamily": "Mage",
+      "identifier": "dashboardCheck"
+    },
+    "dashboard-check-fill": {
+      "codepoint": 57626,
+      "fontFamily": "Mage",
+      "identifier": "dashboardCheckFill"
+    },
+    "dashboard-circle-bar": {
+      "codepoint": 57627,
+      "fontFamily": "Mage",
+      "identifier": "dashboardCircleBar"
+    },
+    "dashboard-circle-bar-fill": {
+      "codepoint": 57628,
+      "fontFamily": "Mage",
+      "identifier": "dashboardCircleBarFill"
+    },
+    "dashboard-circle-chart": {
+      "codepoint": 57629,
+      "fontFamily": "Mage",
+      "identifier": "dashboardCircleChart"
+    },
+    "dashboard-circle-chart-fill": {
+      "codepoint": 57630,
+      "fontFamily": "Mage",
+      "identifier": "dashboardCircleChartFill"
+    },
+    "dashboard-cross": {
+      "codepoint": 57631,
+      "fontFamily": "Mage",
+      "identifier": "dashboardCross"
+    },
+    "dashboard-cross-fill": {
+      "codepoint": 57632,
+      "fontFamily": "Mage",
+      "identifier": "dashboardCrossFill"
+    },
+    "dashboard-fill": {
+      "codepoint": 57633,
+      "fontFamily": "Mage",
+      "identifier": "dashboardFill"
+    },
+    "dashboard-minus": {
+      "codepoint": 57634,
+      "fontFamily": "Mage",
+      "identifier": "dashboardMinus"
+    },
+    "dashboard-minus-fill": {
+      "codepoint": 57635,
+      "fontFamily": "Mage",
+      "identifier": "dashboardMinusFill"
+    },
+    "dashboard-plus": {
+      "codepoint": 57636,
+      "fontFamily": "Mage",
+      "identifier": "dashboardPlus"
+    },
+    "dashboard-plus-fill": {
+      "codepoint": 57637,
+      "fontFamily": "Mage",
+      "identifier": "dashboardPlusFill"
+    },
+    "database": {
+      "codepoint": 57638,
+      "fontFamily": "Mage",
+      "identifier": "database"
+    },
+    "database-2": {
+      "codepoint": 57639,
+      "fontFamily": "Mage",
+      "identifier": "database2"
+    },
+    "database-2-fill": {
+      "codepoint": 57640,
+      "fontFamily": "Mage",
+      "identifier": "database2Fill"
+    },
+    "database-fill": {
+      "codepoint": 57641,
+      "fontFamily": "Mage",
+      "identifier": "databaseFill"
+    },
+    "delivery-truck": {
+      "codepoint": 57642,
+      "fontFamily": "Mage",
+      "identifier": "deliveryTruck"
+    },
+    "delivery-truck-fill": {
+      "codepoint": 57643,
+      "fontFamily": "Mage",
+      "identifier": "deliveryTruckFill"
+    },
+    "dialer-keypad": {
+      "codepoint": 57644,
+      "fontFamily": "Mage",
+      "identifier": "dialerKeypad"
+    },
+    "dialer-keypad-fill": {
+      "codepoint": 57645,
+      "fontFamily": "Mage",
+      "identifier": "dialerKeypadFill"
+    },
+    "direction-right": {
+      "codepoint": 57646,
+      "fontFamily": "Mage",
+      "identifier": "directionRight"
+    },
+    "direction-right-2": {
+      "codepoint": 57647,
+      "fontFamily": "Mage",
+      "identifier": "directionRight2"
+    },
+    "direction-right-2-fill": {
+      "codepoint": 57648,
+      "fontFamily": "Mage",
+      "identifier": "directionRight2Fill"
+    },
+    "direction-right-fill": {
+      "codepoint": 57649,
+      "fontFamily": "Mage",
+      "identifier": "directionRightFill"
+    },
+    "direction-up": {
+      "codepoint": 57650,
+      "fontFamily": "Mage",
+      "identifier": "directionUp"
+    },
+    "direction-up-2": {
+      "codepoint": 57651,
+      "fontFamily": "Mage",
+      "identifier": "directionUp2"
+    },
+    "direction-up-2-fill": {
+      "codepoint": 57652,
+      "fontFamily": "Mage",
+      "identifier": "directionUp2Fill"
+    },
+    "direction-up-fill": {
+      "codepoint": 57653,
+      "fontFamily": "Mage",
+      "identifier": "directionUpFill"
+    },
+    "direction-up-right": {
+      "codepoint": 57654,
+      "fontFamily": "Mage",
+      "identifier": "directionUpRight"
+    },
+    "direction-up-right-2": {
+      "codepoint": 57655,
+      "fontFamily": "Mage",
+      "identifier": "directionUpRight2"
+    },
+    "direction-up-right-2-fill": {
+      "codepoint": 57656,
+      "fontFamily": "Mage",
+      "identifier": "directionUpRight2Fill"
+    },
+    "direction-up-right-fill": {
+      "codepoint": 57657,
+      "fontFamily": "Mage",
+      "identifier": "directionUpRightFill"
+    },
+    "discord": {
+      "codepoint": 57658,
+      "fontFamily": "Mage",
+      "identifier": "discord"
+    },
+    "divide": {
+      "codepoint": 57659,
+      "fontFamily": "Mage",
+      "identifier": "divide"
+    },
+    "divide-circle": {
+      "codepoint": 57660,
+      "fontFamily": "Mage",
+      "identifier": "divideCircle"
+    },
+    "divide-circle-fill": {
+      "codepoint": 57661,
+      "fontFamily": "Mage",
+      "identifier": "divideCircleFill"
+    },
+    "divide-square": {
+      "codepoint": 57662,
+      "fontFamily": "Mage",
+      "identifier": "divideSquare"
+    },
+    "divide-square-fill": {
+      "codepoint": 57663,
+      "fontFamily": "Mage",
+      "identifier": "divideSquareFill"
+    },
+    "dollar": {
+      "codepoint": 57664,
+      "fontFamily": "Mage",
+      "identifier": "dollar"
+    },
+    "dollar-fill": {
+      "codepoint": 57665,
+      "fontFamily": "Mage",
+      "identifier": "dollarFill"
+    },
+    "dots": {
+      "codepoint": 57666,
+      "fontFamily": "Mage",
+      "identifier": "dots"
+    },
+    "dots-circle": {
+      "codepoint": 57667,
+      "fontFamily": "Mage",
+      "identifier": "dotsCircle"
+    },
+    "dots-circle-fill": {
+      "codepoint": 57668,
+      "fontFamily": "Mage",
+      "identifier": "dotsCircleFill"
+    },
+    "dots-horizontal": {
+      "codepoint": 57669,
+      "fontFamily": "Mage",
+      "identifier": "dotsHorizontal"
+    },
+    "dots-horizontal-circle": {
+      "codepoint": 57670,
+      "fontFamily": "Mage",
+      "identifier": "dotsHorizontalCircle"
+    },
+    "dots-horizontal-circle-fill": {
+      "codepoint": 57671,
+      "fontFamily": "Mage",
+      "identifier": "dotsHorizontalCircleFill"
+    },
+    "dots-horizontal-square": {
+      "codepoint": 57672,
+      "fontFamily": "Mage",
+      "identifier": "dotsHorizontalSquare"
+    },
+    "dots-horizontal-square-fill": {
+      "codepoint": 57673,
+      "fontFamily": "Mage",
+      "identifier": "dotsHorizontalSquareFill"
+    },
+    "dots-menu": {
+      "codepoint": 57674,
+      "fontFamily": "Mage",
+      "identifier": "dotsMenu"
+    },
+    "dots-square": {
+      "codepoint": 57675,
+      "fontFamily": "Mage",
+      "identifier": "dotsSquare"
+    },
+    "dots-square-fill": {
+      "codepoint": 57676,
+      "fontFamily": "Mage",
+      "identifier": "dotsSquareFill"
+    },
+    "double-arrow-circle": {
+      "codepoint": 57677,
+      "fontFamily": "Mage",
+      "identifier": "doubleArrowCircle"
+    },
+    "double-arrow-circle-fill": {
+      "codepoint": 57678,
+      "fontFamily": "Mage",
+      "identifier": "doubleArrowCircleFill"
+    },
+    "double-arrow-down": {
+      "codepoint": 57679,
+      "fontFamily": "Mage",
+      "identifier": "doubleArrowDown"
+    },
+    "double-arrow-left": {
+      "codepoint": 57680,
+      "fontFamily": "Mage",
+      "identifier": "doubleArrowLeft"
+    },
+    "double-arrow-right": {
+      "codepoint": 57681,
+      "fontFamily": "Mage",
+      "identifier": "doubleArrowRight"
+    },
+    "double-arrow-up": {
+      "codepoint": 57682,
+      "fontFamily": "Mage",
+      "identifier": "doubleArrowUp"
+    },
+    "double-circle": {
+      "codepoint": 57683,
+      "fontFamily": "Mage",
+      "identifier": "doubleCircle"
+    },
+    "double-circle-fill": {
+      "codepoint": 57684,
+      "fontFamily": "Mage",
+      "identifier": "doubleCircleFill"
+    },
+    "double-diamond": {
+      "codepoint": 57685,
+      "fontFamily": "Mage",
+      "identifier": "doubleDiamond"
+    },
+    "double-diamond-fill": {
+      "codepoint": 57686,
+      "fontFamily": "Mage",
+      "identifier": "doubleDiamondFill"
+    },
+    "double-square": {
+      "codepoint": 57687,
+      "fontFamily": "Mage",
+      "identifier": "doubleSquare"
+    },
+    "double-square-fill": {
+      "codepoint": 57688,
+      "fontFamily": "Mage",
+      "identifier": "doubleSquareFill"
+    },
+    "download": {
+      "codepoint": 57689,
+      "fontFamily": "Mage",
+      "identifier": "download"
+    },
+    "dribbble": {
+      "codepoint": 57690,
+      "fontFamily": "Mage",
+      "identifier": "dribbble"
+    },
+    "earth": {
+      "codepoint": 57691,
+      "fontFamily": "Mage",
+      "identifier": "earth"
+    },
+    "earth-fill": {
+      "codepoint": 57692,
+      "fontFamily": "Mage",
+      "identifier": "earthFill"
+    },
+    "edit": {
+      "codepoint": 57693,
+      "fontFamily": "Mage",
+      "identifier": "edit"
+    },
+    "edit-fill": {
+      "codepoint": 57694,
+      "fontFamily": "Mage",
+      "identifier": "editFill"
+    },
+    "edit-pen": {
+      "codepoint": 57695,
+      "fontFamily": "Mage",
+      "identifier": "editPen"
+    },
+    "edit-pen-fill": {
+      "codepoint": 57696,
+      "fontFamily": "Mage",
+      "identifier": "editPenFill"
+    },
+    "electricity": {
+      "codepoint": 57697,
+      "fontFamily": "Mage",
+      "identifier": "electricity"
+    },
+    "electricity-danger": {
+      "codepoint": 57698,
+      "fontFamily": "Mage",
+      "identifier": "electricityDanger"
+    },
+    "electricity-danger-fill": {
+      "codepoint": 57699,
+      "fontFamily": "Mage",
+      "identifier": "electricityDangerFill"
+    },
+    "electricity-fill": {
+      "codepoint": 57700,
+      "fontFamily": "Mage",
+      "identifier": "electricityFill"
+    },
+    "email": {
+      "codepoint": 57701,
+      "fontFamily": "Mage",
+      "identifier": "email"
+    },
+    "email-fill": {
+      "codepoint": 57702,
+      "fontFamily": "Mage",
+      "identifier": "emailFill"
+    },
+    "email-notification": {
+      "codepoint": 57703,
+      "fontFamily": "Mage",
+      "identifier": "emailNotification"
+    },
+    "email-opened": {
+      "codepoint": 57704,
+      "fontFamily": "Mage",
+      "identifier": "emailOpened"
+    },
+    "email-opened-fill": {
+      "codepoint": 57705,
+      "fontFamily": "Mage",
+      "identifier": "emailOpenedFill"
+    },
+    "exchange-a": {
+      "codepoint": 57706,
+      "fontFamily": "Mage",
+      "identifier": "exchangeA"
+    },
+    "exchange-b": {
+      "codepoint": 57707,
+      "fontFamily": "Mage",
+      "identifier": "exchangeB"
+    },
+    "exclamation-circle": {
+      "codepoint": 57708,
+      "fontFamily": "Mage",
+      "identifier": "exclamationCircle"
+    },
+    "exclamation-circle-fill": {
+      "codepoint": 57709,
+      "fontFamily": "Mage",
+      "identifier": "exclamationCircleFill"
+    },
+    "exclamation-hexagon": {
+      "codepoint": 57710,
+      "fontFamily": "Mage",
+      "identifier": "exclamationHexagon"
+    },
+    "exclamation-hexagon-fill": {
+      "codepoint": 57711,
+      "fontFamily": "Mage",
+      "identifier": "exclamationHexagonFill"
+    },
+    "exclamation-square": {
+      "codepoint": 57712,
+      "fontFamily": "Mage",
+      "identifier": "exclamationSquare"
+    },
+    "exclamation-square-fill": {
+      "codepoint": 57713,
+      "fontFamily": "Mage",
+      "identifier": "exclamationSquareFill"
+    },
+    "exclamation-triangle": {
+      "codepoint": 57714,
+      "fontFamily": "Mage",
+      "identifier": "exclamationTriangle"
+    },
+    "exclamation-triangle-fill": {
+      "codepoint": 57715,
+      "fontFamily": "Mage",
+      "identifier": "exclamationTriangleFill"
+    },
+    "external-link": {
+      "codepoint": 57716,
+      "fontFamily": "Mage",
+      "identifier": "externalLink"
+    },
+    "eye": {
+      "codepoint": 57717,
+      "fontFamily": "Mage",
+      "identifier": "eye"
+    },
+    "eye-closed": {
+      "codepoint": 57718,
+      "fontFamily": "Mage",
+      "identifier": "eyeClosed"
+    },
+    "eye-fill": {
+      "codepoint": 57719,
+      "fontFamily": "Mage",
+      "identifier": "eyeFill"
+    },
+    "eye-off": {
+      "codepoint": 57720,
+      "fontFamily": "Mage",
+      "identifier": "eyeOff"
+    },
+    "eye-off-fill": {
+      "codepoint": 57721,
+      "fontFamily": "Mage",
+      "identifier": "eyeOffFill"
+    },
+    "facebook": {
+      "codepoint": 57722,
+      "fontFamily": "Mage",
+      "identifier": "facebook"
+    },
+    "facebook-circle": {
+      "codepoint": 57723,
+      "fontFamily": "Mage",
+      "identifier": "facebookCircle"
+    },
+    "facebook-square": {
+      "codepoint": 57724,
+      "fontFamily": "Mage",
+      "identifier": "facebookSquare"
+    },
+    "fast-forward": {
+      "codepoint": 57725,
+      "fontFamily": "Mage",
+      "identifier": "fastForward"
+    },
+    "fast-forward-back": {
+      "codepoint": 57726,
+      "fontFamily": "Mage",
+      "identifier": "fastForwardBack"
+    },
+    "fast-forward-back-fill": {
+      "codepoint": 57727,
+      "fontFamily": "Mage",
+      "identifier": "fastForwardBackFill"
+    },
+    "fast-forward-fill": {
+      "codepoint": 57728,
+      "fontFamily": "Mage",
+      "identifier": "fastForwardFill"
+    },
+    "female": {
+      "codepoint": 57729,
+      "fontFamily": "Mage",
+      "identifier": "female"
+    },
+    "figma": {
+      "codepoint": 57730,
+      "fontFamily": "Mage",
+      "identifier": "figma"
+    },
+    "file": {
+      "codepoint": 57731,
+      "fontFamily": "Mage",
+      "identifier": "file"
+    },
+    "file-2": {
+      "codepoint": 57732,
+      "fontFamily": "Mage",
+      "identifier": "file2"
+    },
+    "file-2-fill": {
+      "codepoint": 57733,
+      "fontFamily": "Mage",
+      "identifier": "file2Fill"
+    },
+    "file-3": {
+      "codepoint": 57734,
+      "fontFamily": "Mage",
+      "identifier": "file3"
+    },
+    "file-check": {
+      "codepoint": 57735,
+      "fontFamily": "Mage",
+      "identifier": "fileCheck"
+    },
+    "file-check-fill": {
+      "codepoint": 57736,
+      "fontFamily": "Mage",
+      "identifier": "fileCheckFill"
+    },
+    "file-cross": {
+      "codepoint": 57737,
+      "fontFamily": "Mage",
+      "identifier": "fileCross"
+    },
+    "file-cross-fill": {
+      "codepoint": 57738,
+      "fontFamily": "Mage",
+      "identifier": "fileCrossFill"
+    },
+    "file-download": {
+      "codepoint": 57739,
+      "fontFamily": "Mage",
+      "identifier": "fileDownload"
+    },
+    "file-download-fill": {
+      "codepoint": 57740,
+      "fontFamily": "Mage",
+      "identifier": "fileDownloadFill"
+    },
+    "file-fill": {
+      "codepoint": 57741,
+      "fontFamily": "Mage",
+      "identifier": "fileFill"
+    },
+    "file-minus": {
+      "codepoint": 57742,
+      "fontFamily": "Mage",
+      "identifier": "fileMinus"
+    },
+    "file-minus-fill": {
+      "codepoint": 57743,
+      "fontFamily": "Mage",
+      "identifier": "fileMinusFill"
+    },
+    "file-plus": {
+      "codepoint": 57744,
+      "fontFamily": "Mage",
+      "identifier": "filePlus"
+    },
+    "file-plus-fill": {
+      "codepoint": 57745,
+      "fontFamily": "Mage",
+      "identifier": "filePlusFill"
+    },
+    "file-question-mark": {
+      "codepoint": 57746,
+      "fontFamily": "Mage",
+      "identifier": "fileQuestionMark"
+    },
+    "file-question-mark-fill": {
+      "codepoint": 57747,
+      "fontFamily": "Mage",
+      "identifier": "fileQuestionMarkFill"
+    },
+    "file-records": {
+      "codepoint": 57748,
+      "fontFamily": "Mage",
+      "identifier": "fileRecords"
+    },
+    "file-records-fill": {
+      "codepoint": 57749,
+      "fontFamily": "Mage",
+      "identifier": "fileRecordsFill"
+    },
+    "file-upload": {
+      "codepoint": 57750,
+      "fontFamily": "Mage",
+      "identifier": "fileUpload"
+    },
+    "file-upload-fill": {
+      "codepoint": 57751,
+      "fontFamily": "Mage",
+      "identifier": "fileUploadFill"
+    },
+    "filter": {
+      "codepoint": 57752,
+      "fontFamily": "Mage",
+      "identifier": "filter"
+    },
+    "filter-2": {
+      "codepoint": 57753,
+      "fontFamily": "Mage",
+      "identifier": "filter2"
+    },
+    "filter-2-fill": {
+      "codepoint": 57754,
+      "fontFamily": "Mage",
+      "identifier": "filter2Fill"
+    },
+    "filter-fill": {
+      "codepoint": 57755,
+      "fontFamily": "Mage",
+      "identifier": "filterFill"
+    },
+    "filter-square": {
+      "codepoint": 57756,
+      "fontFamily": "Mage",
+      "identifier": "filterSquare"
+    },
+    "filter-square-fill": {
+      "codepoint": 57757,
+      "fontFamily": "Mage",
+      "identifier": "filterSquareFill"
+    },
+    "fingerprint": {
+      "codepoint": 57758,
+      "fontFamily": "Mage",
+      "identifier": "fingerprint"
+    },
+    "fingerprint-minimal": {
+      "codepoint": 57759,
+      "fontFamily": "Mage",
+      "identifier": "fingerprintMinimal"
+    },
+    "fire-a": {
+      "codepoint": 57760,
+      "fontFamily": "Mage",
+      "identifier": "fireA"
+    },
+    "fire-a-fill": {
+      "codepoint": 57761,
+      "fontFamily": "Mage",
+      "identifier": "fireAFill"
+    },
+    "fire-b": {
+      "codepoint": 57762,
+      "fontFamily": "Mage",
+      "identifier": "fireB"
+    },
+    "fire-b-fill": {
+      "codepoint": 57763,
+      "fontFamily": "Mage",
+      "identifier": "fireBFill"
+    },
+    "first-aid-kit": {
+      "codepoint": 57764,
+      "fontFamily": "Mage",
+      "identifier": "firstAidKit"
+    },
+    "first-aid-kit-fill": {
+      "codepoint": 57765,
+      "fontFamily": "Mage",
+      "identifier": "firstAidKitFill"
+    },
+    "flag": {
+      "codepoint": 57766,
+      "fontFamily": "Mage",
+      "identifier": "flag"
+    },
+    "flag-fill": {
+      "codepoint": 57767,
+      "fontFamily": "Mage",
+      "identifier": "flagFill"
+    },
+    "focus": {
+      "codepoint": 57768,
+      "fontFamily": "Mage",
+      "identifier": "focus"
+    },
+    "focus-fill": {
+      "codepoint": 57769,
+      "fontFamily": "Mage",
+      "identifier": "focusFill"
+    },
+    "folder": {
+      "codepoint": 57770,
+      "fontFamily": "Mage",
+      "identifier": "folder"
+    },
+    "folder-2": {
+      "codepoint": 57771,
+      "fontFamily": "Mage",
+      "identifier": "folder2"
+    },
+    "folder-2-fill": {
+      "codepoint": 57772,
+      "fontFamily": "Mage",
+      "identifier": "folder2Fill"
+    },
+    "folder-check": {
+      "codepoint": 57773,
+      "fontFamily": "Mage",
+      "identifier": "folderCheck"
+    },
+    "folder-check-fill": {
+      "codepoint": 57774,
+      "fontFamily": "Mage",
+      "identifier": "folderCheckFill"
+    },
+    "folder-cross": {
+      "codepoint": 57775,
+      "fontFamily": "Mage",
+      "identifier": "folderCross"
+    },
+    "folder-cross-fill": {
+      "codepoint": 57776,
+      "fontFamily": "Mage",
+      "identifier": "folderCrossFill"
+    },
+    "folder-fill": {
+      "codepoint": 57777,
+      "fontFamily": "Mage",
+      "identifier": "folderFill"
+    },
+    "folder-minus": {
+      "codepoint": 57778,
+      "fontFamily": "Mage",
+      "identifier": "folderMinus"
+    },
+    "folder-minus-fill": {
+      "codepoint": 57779,
+      "fontFamily": "Mage",
+      "identifier": "folderMinusFill"
+    },
+    "folder-open": {
+      "codepoint": 57780,
+      "fontFamily": "Mage",
+      "identifier": "folderOpen"
+    },
+    "folder-open-fill": {
+      "codepoint": 57781,
+      "fontFamily": "Mage",
+      "identifier": "folderOpenFill"
+    },
+    "folder-plus": {
+      "codepoint": 57782,
+      "fontFamily": "Mage",
+      "identifier": "folderPlus"
+    },
+    "folder-plus-fill": {
+      "codepoint": 57783,
+      "fontFamily": "Mage",
+      "identifier": "folderPlusFill"
+    },
+    "gameboy": {
+      "codepoint": 57784,
+      "fontFamily": "Mage",
+      "identifier": "gameboy"
+    },
+    "gameboy-fill": {
+      "codepoint": 57785,
+      "fontFamily": "Mage",
+      "identifier": "gameboyFill"
+    },
+    "gem-a": {
+      "codepoint": 57786,
+      "fontFamily": "Mage",
+      "identifier": "gemA"
+    },
+    "gem-a-fill": {
+      "codepoint": 57787,
+      "fontFamily": "Mage",
+      "identifier": "gemAFill"
+    },
+    "gem-b": {
+      "codepoint": 57788,
+      "fontFamily": "Mage",
+      "identifier": "gemB"
+    },
+    "gem-b-fill": {
+      "codepoint": 57789,
+      "fontFamily": "Mage",
+      "identifier": "gemBFill"
+    },
+    "gem-c": {
+      "codepoint": 57790,
+      "fontFamily": "Mage",
+      "identifier": "gemC"
+    },
+    "gem-c-fill": {
+      "codepoint": 57791,
+      "fontFamily": "Mage",
+      "identifier": "gemCFill"
+    },
+    "gem-stone": {
+      "codepoint": 57792,
+      "fontFamily": "Mage",
+      "identifier": "gemStone"
+    },
+    "gem-stone-fill": {
+      "codepoint": 57793,
+      "fontFamily": "Mage",
+      "identifier": "gemStoneFill"
+    },
+    "gif": {
+      "codepoint": 57794,
+      "fontFamily": "Mage",
+      "identifier": "gif"
+    },
+    "gif-fill": {
+      "codepoint": 57795,
+      "fontFamily": "Mage",
+      "identifier": "gifFill"
+    },
+    "gift": {
+      "codepoint": 57796,
+      "fontFamily": "Mage",
+      "identifier": "gift"
+    },
+    "gift-fill": {
+      "codepoint": 57797,
+      "fontFamily": "Mage",
+      "identifier": "giftFill"
+    },
+    "github": {
+      "codepoint": 57798,
+      "fontFamily": "Mage",
+      "identifier": "github"
+    },
+    "globe": {
+      "codepoint": 57799,
+      "fontFamily": "Mage",
+      "identifier": "globe"
+    },
+    "globe-fill": {
+      "codepoint": 57800,
+      "fontFamily": "Mage",
+      "identifier": "globeFill"
+    },
+    "goals": {
+      "codepoint": 57801,
+      "fontFamily": "Mage",
+      "identifier": "goals"
+    },
+    "goals-fill": {
+      "codepoint": 57802,
+      "fontFamily": "Mage",
+      "identifier": "goalsFill"
+    },
+    "google": {
+      "codepoint": 57803,
+      "fontFamily": "Mage",
+      "identifier": "google"
+    },
+    "handicapped": {
+      "codepoint": 57804,
+      "fontFamily": "Mage",
+      "identifier": "handicapped"
+    },
+    "handicapped-fill": {
+      "codepoint": 57805,
+      "fontFamily": "Mage",
+      "identifier": "handicappedFill"
+    },
+    "hash": {
+      "codepoint": 57806,
+      "fontFamily": "Mage",
+      "identifier": "hash"
+    },
+    "headphone-mute": {
+      "codepoint": 57807,
+      "fontFamily": "Mage",
+      "identifier": "headphoneMute"
+    },
+    "headphone-mute-fill": {
+      "codepoint": 57808,
+      "fontFamily": "Mage",
+      "identifier": "headphoneMuteFill"
+    },
+    "health-circle": {
+      "codepoint": 57809,
+      "fontFamily": "Mage",
+      "identifier": "healthCircle"
+    },
+    "health-circle-fill": {
+      "codepoint": 57810,
+      "fontFamily": "Mage",
+      "identifier": "healthCircleFill"
+    },
+    "health-square": {
+      "codepoint": 57811,
+      "fontFamily": "Mage",
+      "identifier": "healthSquare"
+    },
+    "health-square-fill": {
+      "codepoint": 57812,
+      "fontFamily": "Mage",
+      "identifier": "healthSquareFill"
+    },
+    "heaphone": {
+      "codepoint": 57813,
+      "fontFamily": "Mage",
+      "identifier": "heaphone"
+    },
+    "heaphone-fill": {
+      "codepoint": 57814,
+      "fontFamily": "Mage",
+      "identifier": "heaphoneFill"
+    },
+    "heart": {
+      "codepoint": 57815,
+      "fontFamily": "Mage",
+      "identifier": "heart"
+    },
+    "heart-fill": {
+      "codepoint": 57816,
+      "fontFamily": "Mage",
+      "identifier": "heartFill"
+    },
+    "heart-health": {
+      "codepoint": 57817,
+      "fontFamily": "Mage",
+      "identifier": "heartHealth"
+    },
+    "heart-health-fill": {
+      "codepoint": 57818,
+      "fontFamily": "Mage",
+      "identifier": "heartHealthFill"
+    },
+    "heart-square": {
+      "codepoint": 57819,
+      "fontFamily": "Mage",
+      "identifier": "heartSquare"
+    },
+    "heart-square-fill": {
+      "codepoint": 57820,
+      "fontFamily": "Mage",
+      "identifier": "heartSquareFill"
+    },
+    "home": {
+      "codepoint": 57821,
+      "fontFamily": "Mage",
+      "identifier": "home"
+    },
+    "home-2": {
+      "codepoint": 57822,
+      "fontFamily": "Mage",
+      "identifier": "home2"
+    },
+    "home-2-fill": {
+      "codepoint": 57823,
+      "fontFamily": "Mage",
+      "identifier": "home2Fill"
+    },
+    "home-3": {
+      "codepoint": 57824,
+      "fontFamily": "Mage",
+      "identifier": "home3"
+    },
+    "home-3-fill": {
+      "codepoint": 57825,
+      "fontFamily": "Mage",
+      "identifier": "home3Fill"
+    },
+    "home-4": {
+      "codepoint": 57826,
+      "fontFamily": "Mage",
+      "identifier": "home4"
+    },
+    "home-4-fill": {
+      "codepoint": 57827,
+      "fontFamily": "Mage",
+      "identifier": "home4Fill"
+    },
+    "home-check": {
+      "codepoint": 57828,
+      "fontFamily": "Mage",
+      "identifier": "homeCheck"
+    },
+    "home-check-fill": {
+      "codepoint": 57829,
+      "fontFamily": "Mage",
+      "identifier": "homeCheckFill"
+    },
+    "home-cross": {
+      "codepoint": 57830,
+      "fontFamily": "Mage",
+      "identifier": "homeCross"
+    },
+    "home-cross-fill": {
+      "codepoint": 57831,
+      "fontFamily": "Mage",
+      "identifier": "homeCrossFill"
+    },
+    "home-fill": {
+      "codepoint": 57832,
+      "fontFamily": "Mage",
+      "identifier": "homeFill"
+    },
+    "home-heart": {
+      "codepoint": 57833,
+      "fontFamily": "Mage",
+      "identifier": "homeHeart"
+    },
+    "home-heart-fill": {
+      "codepoint": 57834,
+      "fontFamily": "Mage",
+      "identifier": "homeHeartFill"
+    },
+    "home-plus": {
+      "codepoint": 57835,
+      "fontFamily": "Mage",
+      "identifier": "homePlus"
+    },
+    "home-plus-fill": {
+      "codepoint": 57836,
+      "fontFamily": "Mage",
+      "identifier": "homePlusFill"
+    },
+    "home-security-lock": {
+      "codepoint": 57837,
+      "fontFamily": "Mage",
+      "identifier": "homeSecurityLock"
+    },
+    "home-security-lock-fill": {
+      "codepoint": 57838,
+      "fontFamily": "Mage",
+      "identifier": "homeSecurityLockFill"
+    },
+    "hospital-circle": {
+      "codepoint": 57839,
+      "fontFamily": "Mage",
+      "identifier": "hospitalCircle"
+    },
+    "hospital-circle-fill": {
+      "codepoint": 57840,
+      "fontFamily": "Mage",
+      "identifier": "hospitalCircleFill"
+    },
+    "hospital-plus": {
+      "codepoint": 57841,
+      "fontFamily": "Mage",
+      "identifier": "hospitalPlus"
+    },
+    "hospital-plus-fill": {
+      "codepoint": 57842,
+      "fontFamily": "Mage",
+      "identifier": "hospitalPlusFill"
+    },
+    "hospital-shield": {
+      "codepoint": 57843,
+      "fontFamily": "Mage",
+      "identifier": "hospitalShield"
+    },
+    "hospital-shield-fill": {
+      "codepoint": 57844,
+      "fontFamily": "Mage",
+      "identifier": "hospitalShieldFill"
+    },
+    "hospital-square": {
+      "codepoint": 57845,
+      "fontFamily": "Mage",
+      "identifier": "hospitalSquare"
+    },
+    "hospital-square-fill": {
+      "codepoint": 57846,
+      "fontFamily": "Mage",
+      "identifier": "hospitalSquareFill"
+    },
+    "hour-glass": {
+      "codepoint": 57847,
+      "fontFamily": "Mage",
+      "identifier": "hourGlass"
+    },
+    "hour-glass-fill": {
+      "codepoint": 57848,
+      "fontFamily": "Mage",
+      "identifier": "hourGlassFill"
+    },
+    "id-card": {
+      "codepoint": 57849,
+      "fontFamily": "Mage",
+      "identifier": "idCard"
+    },
+    "id-card-fill": {
+      "codepoint": 57850,
+      "fontFamily": "Mage",
+      "identifier": "idCardFill"
+    },
+    "illustrator": {
+      "codepoint": 57851,
+      "fontFamily": "Mage",
+      "identifier": "illustrator"
+    },
+    "image": {
+      "codepoint": 57852,
+      "fontFamily": "Mage",
+      "identifier": "image"
+    },
+    "image-check": {
+      "codepoint": 57853,
+      "fontFamily": "Mage",
+      "identifier": "imageCheck"
+    },
+    "image-cross": {
+      "codepoint": 57854,
+      "fontFamily": "Mage",
+      "identifier": "imageCross"
+    },
+    "image-download": {
+      "codepoint": 57855,
+      "fontFamily": "Mage",
+      "identifier": "imageDownload"
+    },
+    "image-fill": {
+      "codepoint": 57856,
+      "fontFamily": "Mage",
+      "identifier": "imageFill"
+    },
+    "image-minus": {
+      "codepoint": 57857,
+      "fontFamily": "Mage",
+      "identifier": "imageMinus"
+    },
+    "image-plus": {
+      "codepoint": 57858,
+      "fontFamily": "Mage",
+      "identifier": "imagePlus"
+    },
+    "image-question-mark": {
+      "codepoint": 57859,
+      "fontFamily": "Mage",
+      "identifier": "imageQuestionMark"
+    },
+    "image-upload": {
+      "codepoint": 57860,
+      "fontFamily": "Mage",
+      "identifier": "imageUpload"
+    },
+    "inbox": {
+      "codepoint": 57861,
+      "fontFamily": "Mage",
+      "identifier": "inbox"
+    },
+    "inbox-check": {
+      "codepoint": 57862,
+      "fontFamily": "Mage",
+      "identifier": "inboxCheck"
+    },
+    "inbox-check-fill": {
+      "codepoint": 57863,
+      "fontFamily": "Mage",
+      "identifier": "inboxCheckFill"
+    },
+    "inbox-cross": {
+      "codepoint": 57864,
+      "fontFamily": "Mage",
+      "identifier": "inboxCross"
+    },
+    "inbox-cross-fill": {
+      "codepoint": 57865,
+      "fontFamily": "Mage",
+      "identifier": "inboxCrossFill"
+    },
+    "inbox-download": {
+      "codepoint": 57866,
+      "fontFamily": "Mage",
+      "identifier": "inboxDownload"
+    },
+    "inbox-download-fill": {
+      "codepoint": 57867,
+      "fontFamily": "Mage",
+      "identifier": "inboxDownloadFill"
+    },
+    "inbox-fill": {
+      "codepoint": 57868,
+      "fontFamily": "Mage",
+      "identifier": "inboxFill"
+    },
+    "inbox-minus": {
+      "codepoint": 57869,
+      "fontFamily": "Mage",
+      "identifier": "inboxMinus"
+    },
+    "inbox-minus-fill": {
+      "codepoint": 57870,
+      "fontFamily": "Mage",
+      "identifier": "inboxMinusFill"
+    },
+    "inbox-notification": {
+      "codepoint": 57871,
+      "fontFamily": "Mage",
+      "identifier": "inboxNotification"
+    },
+    "inbox-notification-fill": {
+      "codepoint": 57872,
+      "fontFamily": "Mage",
+      "identifier": "inboxNotificationFill"
+    },
+    "inbox-plus": {
+      "codepoint": 57873,
+      "fontFamily": "Mage",
+      "identifier": "inboxPlus"
+    },
+    "inbox-plus-fill": {
+      "codepoint": 57874,
+      "fontFamily": "Mage",
+      "identifier": "inboxPlusFill"
+    },
+    "inbox-question-mark": {
+      "codepoint": 57875,
+      "fontFamily": "Mage",
+      "identifier": "inboxQuestionMark"
+    },
+    "inbox-question-mark-fill": {
+      "codepoint": 57876,
+      "fontFamily": "Mage",
+      "identifier": "inboxQuestionMarkFill"
+    },
+    "inbox-star": {
+      "codepoint": 57877,
+      "fontFamily": "Mage",
+      "identifier": "inboxStar"
+    },
+    "inbox-star-fill": {
+      "codepoint": 57878,
+      "fontFamily": "Mage",
+      "identifier": "inboxStarFill"
+    },
+    "inbox-upload": {
+      "codepoint": 57879,
+      "fontFamily": "Mage",
+      "identifier": "inboxUpload"
+    },
+    "inbox-upload-fill": {
+      "codepoint": 57880,
+      "fontFamily": "Mage",
+      "identifier": "inboxUploadFill"
+    },
+    "information-circle": {
+      "codepoint": 57881,
+      "fontFamily": "Mage",
+      "identifier": "informationCircle"
+    },
+    "information-circle-fill": {
+      "codepoint": 57882,
+      "fontFamily": "Mage",
+      "identifier": "informationCircleFill"
+    },
+    "information-square": {
+      "codepoint": 57883,
+      "fontFamily": "Mage",
+      "identifier": "informationSquare"
+    },
+    "information-square-fill": {
+      "codepoint": 57884,
+      "fontFamily": "Mage",
+      "identifier": "informationSquareFill"
+    },
+    "instagram-circle": {
+      "codepoint": 57885,
+      "fontFamily": "Mage",
+      "identifier": "instagramCircle"
+    },
+    "instagram-square": {
+      "codepoint": 57886,
+      "fontFamily": "Mage",
+      "identifier": "instagramSquare"
+    },
+    "key": {
+      "codepoint": 57887,
+      "fontFamily": "Mage",
+      "identifier": "key"
+    },
+    "key-fill": {
+      "codepoint": 57888,
+      "fontFamily": "Mage",
+      "identifier": "keyFill"
+    },
+    "keyboard": {
+      "codepoint": 57889,
+      "fontFamily": "Mage",
+      "identifier": "keyboard"
+    },
+    "keyboard-fill": {
+      "codepoint": 57890,
+      "fontFamily": "Mage",
+      "identifier": "keyboardFill"
+    },
+    "l-arrow-down-left": {
+      "codepoint": 57891,
+      "fontFamily": "Mage",
+      "identifier": "lArrowDownLeft"
+    },
+    "l-arrow-down-right": {
+      "codepoint": 57892,
+      "fontFamily": "Mage",
+      "identifier": "lArrowDownRight"
+    },
+    "l-arrow-left-down": {
+      "codepoint": 57893,
+      "fontFamily": "Mage",
+      "identifier": "lArrowLeftDown"
+    },
+    "l-arrow-left-up": {
+      "codepoint": 57894,
+      "fontFamily": "Mage",
+      "identifier": "lArrowLeftUp"
+    },
+    "l-arrow-right-down": {
+      "codepoint": 57895,
+      "fontFamily": "Mage",
+      "identifier": "lArrowRightDown"
+    },
+    "l-arrow-right-up": {
+      "codepoint": 57896,
+      "fontFamily": "Mage",
+      "identifier": "lArrowRightUp"
+    },
+    "l-arrow-up-left": {
+      "codepoint": 57897,
+      "fontFamily": "Mage",
+      "identifier": "lArrowUpLeft"
+    },
+    "l-arrow-up-right": {
+      "codepoint": 57898,
+      "fontFamily": "Mage",
+      "identifier": "lArrowUpRight"
+    },
+    "laptop": {
+      "codepoint": 57899,
+      "fontFamily": "Mage",
+      "identifier": "laptop"
+    },
+    "laptop-fill": {
+      "codepoint": 57900,
+      "fontFamily": "Mage",
+      "identifier": "laptopFill"
+    },
+    "layout-center": {
+      "codepoint": 57901,
+      "fontFamily": "Mage",
+      "identifier": "layoutCenter"
+    },
+    "layout-center-fill": {
+      "codepoint": 57902,
+      "fontFamily": "Mage",
+      "identifier": "layoutCenterFill"
+    },
+    "layout-down": {
+      "codepoint": 57903,
+      "fontFamily": "Mage",
+      "identifier": "layoutDown"
+    },
+    "layout-down-fill": {
+      "codepoint": 57904,
+      "fontFamily": "Mage",
+      "identifier": "layoutDownFill"
+    },
+    "layout-grid": {
+      "codepoint": 57905,
+      "fontFamily": "Mage",
+      "identifier": "layoutGrid"
+    },
+    "layout-grid-fill": {
+      "codepoint": 57906,
+      "fontFamily": "Mage",
+      "identifier": "layoutGridFill"
+    },
+    "layout-left": {
+      "codepoint": 57907,
+      "fontFamily": "Mage",
+      "identifier": "layoutLeft"
+    },
+    "layout-left-fill": {
+      "codepoint": 57908,
+      "fontFamily": "Mage",
+      "identifier": "layoutLeftFill"
+    },
+    "layout-right": {
+      "codepoint": 57909,
+      "fontFamily": "Mage",
+      "identifier": "layoutRight"
+    },
+    "layout-right-fill": {
+      "codepoint": 57910,
+      "fontFamily": "Mage",
+      "identifier": "layoutRightFill"
+    },
+    "layout-up": {
+      "codepoint": 57911,
+      "fontFamily": "Mage",
+      "identifier": "layoutUp"
+    },
+    "layout-up-fill": {
+      "codepoint": 57912,
+      "fontFamily": "Mage",
+      "identifier": "layoutUpFill"
+    },
+    "layout-up-left": {
+      "codepoint": 57913,
+      "fontFamily": "Mage",
+      "identifier": "layoutUpLeft"
+    },
+    "layout-up-left-fill": {
+      "codepoint": 57914,
+      "fontFamily": "Mage",
+      "identifier": "layoutUpLeftFill"
+    },
+    "layout-up-right": {
+      "codepoint": 57915,
+      "fontFamily": "Mage",
+      "identifier": "layoutUpRight"
+    },
+    "layout-up-right-fill": {
+      "codepoint": 57916,
+      "fontFamily": "Mage",
+      "identifier": "layoutUpRightFill"
+    },
+    "lens": {
+      "codepoint": 57917,
+      "fontFamily": "Mage",
+      "identifier": "lens"
+    },
+    "lens-fill": {
+      "codepoint": 57918,
+      "fontFamily": "Mage",
+      "identifier": "lensFill"
+    },
+    "light-bulb": {
+      "codepoint": 57919,
+      "fontFamily": "Mage",
+      "identifier": "lightBulb"
+    },
+    "light-bulb-electricity": {
+      "codepoint": 57920,
+      "fontFamily": "Mage",
+      "identifier": "lightBulbElectricity"
+    },
+    "light-bulb-electricity-fill": {
+      "codepoint": 57921,
+      "fontFamily": "Mage",
+      "identifier": "lightBulbElectricityFill"
+    },
+    "light-bulb-fill": {
+      "codepoint": 57922,
+      "fontFamily": "Mage",
+      "identifier": "lightBulbFill"
+    },
+    "light-bulb-off": {
+      "codepoint": 57923,
+      "fontFamily": "Mage",
+      "identifier": "lightBulbOff"
+    },
+    "light-bulb-off-fill": {
+      "codepoint": 57924,
+      "fontFamily": "Mage",
+      "identifier": "lightBulbOffFill"
+    },
+    "line": {
+      "codepoint": 57925,
+      "fontFamily": "Mage",
+      "identifier": "line"
+    },
+    "link": {
+      "codepoint": 57926,
+      "fontFamily": "Mage",
+      "identifier": "link"
+    },
+    "linkedin": {
+      "codepoint": 57927,
+      "fontFamily": "Mage",
+      "identifier": "linkedin"
+    },
+    "location": {
+      "codepoint": 57928,
+      "fontFamily": "Mage",
+      "identifier": "location"
+    },
+    "location-fill": {
+      "codepoint": 57929,
+      "fontFamily": "Mage",
+      "identifier": "locationFill"
+    },
+    "location-pin": {
+      "codepoint": 57930,
+      "fontFamily": "Mage",
+      "identifier": "locationPin"
+    },
+    "lock": {
+      "codepoint": 57931,
+      "fontFamily": "Mage",
+      "identifier": "lock"
+    },
+    "lock-fill": {
+      "codepoint": 57932,
+      "fontFamily": "Mage",
+      "identifier": "lockFill"
+    },
+    "lock-square": {
+      "codepoint": 57933,
+      "fontFamily": "Mage",
+      "identifier": "lockSquare"
+    },
+    "lock-square-fill": {
+      "codepoint": 57934,
+      "fontFamily": "Mage",
+      "identifier": "lockSquareFill"
+    },
+    "login": {
+      "codepoint": 57935,
+      "fontFamily": "Mage",
+      "identifier": "login"
+    },
+    "logout": {
+      "codepoint": 57936,
+      "fontFamily": "Mage",
+      "identifier": "logout"
+    },
+    "magnet-down": {
+      "codepoint": 57937,
+      "fontFamily": "Mage",
+      "identifier": "magnetDown"
+    },
+    "magnet-down-fill": {
+      "codepoint": 57938,
+      "fontFamily": "Mage",
+      "identifier": "magnetDownFill"
+    },
+    "magnet-left": {
+      "codepoint": 57939,
+      "fontFamily": "Mage",
+      "identifier": "magnetLeft"
+    },
+    "magnet-left-fill": {
+      "codepoint": 57940,
+      "fontFamily": "Mage",
+      "identifier": "magnetLeftFill"
+    },
+    "magnet-right": {
+      "codepoint": 57941,
+      "fontFamily": "Mage",
+      "identifier": "magnetRight"
+    },
+    "magnet-right-fill": {
+      "codepoint": 57942,
+      "fontFamily": "Mage",
+      "identifier": "magnetRightFill"
+    },
+    "magnet-up": {
+      "codepoint": 57943,
+      "fontFamily": "Mage",
+      "identifier": "magnetUp"
+    },
+    "magnet-up-fill": {
+      "codepoint": 57944,
+      "fontFamily": "Mage",
+      "identifier": "magnetUpFill"
+    },
+    "male": {
+      "codepoint": 57945,
+      "fontFamily": "Mage",
+      "identifier": "male"
+    },
+    "map-marker": {
+      "codepoint": 57946,
+      "fontFamily": "Mage",
+      "identifier": "mapMarker"
+    },
+    "map-marker-fill": {
+      "codepoint": 57947,
+      "fontFamily": "Mage",
+      "identifier": "mapMarkerFill"
+    },
+    "maximize": {
+      "codepoint": 57948,
+      "fontFamily": "Mage",
+      "identifier": "maximize"
+    },
+    "media-reel-h": {
+      "codepoint": 57949,
+      "fontFamily": "Mage",
+      "identifier": "mediaReelH"
+    },
+    "media-reel-h-fill": {
+      "codepoint": 57950,
+      "fontFamily": "Mage",
+      "identifier": "mediaReelHFill"
+    },
+    "media-reel-v": {
+      "codepoint": 57951,
+      "fontFamily": "Mage",
+      "identifier": "mediaReelV"
+    },
+    "media-reel-v-fill": {
+      "codepoint": 57952,
+      "fontFamily": "Mage",
+      "identifier": "mediaReelVFill"
+    },
+    "medium": {
+      "codepoint": 57953,
+      "fontFamily": "Mage",
+      "identifier": "medium"
+    },
+    "megaphone-a": {
+      "codepoint": 57954,
+      "fontFamily": "Mage",
+      "identifier": "megaphoneA"
+    },
+    "megaphone-a-fill": {
+      "codepoint": 57955,
+      "fontFamily": "Mage",
+      "identifier": "megaphoneAFill"
+    },
+    "megaphone-b": {
+      "codepoint": 57956,
+      "fontFamily": "Mage",
+      "identifier": "megaphoneB"
+    },
+    "megaphone-b-fill": {
+      "codepoint": 57957,
+      "fontFamily": "Mage",
+      "identifier": "megaphoneBFill"
+    },
+    "memory-card": {
+      "codepoint": 57958,
+      "fontFamily": "Mage",
+      "identifier": "memoryCard"
+    },
+    "memory-card-fill": {
+      "codepoint": 57959,
+      "fontFamily": "Mage",
+      "identifier": "memoryCardFill"
+    },
+    "message": {
+      "codepoint": 57960,
+      "fontFamily": "Mage",
+      "identifier": "message"
+    },
+    "message-check": {
+      "codepoint": 57961,
+      "fontFamily": "Mage",
+      "identifier": "messageCheck"
+    },
+    "message-check-fill": {
+      "codepoint": 57962,
+      "fontFamily": "Mage",
+      "identifier": "messageCheckFill"
+    },
+    "message-check-round": {
+      "codepoint": 57963,
+      "fontFamily": "Mage",
+      "identifier": "messageCheckRound"
+    },
+    "message-check-round-fill": {
+      "codepoint": 57964,
+      "fontFamily": "Mage",
+      "identifier": "messageCheckRoundFill"
+    },
+    "message-conversation": {
+      "codepoint": 57965,
+      "fontFamily": "Mage",
+      "identifier": "messageConversation"
+    },
+    "message-conversation-fill": {
+      "codepoint": 57966,
+      "fontFamily": "Mage",
+      "identifier": "messageConversationFill"
+    },
+    "message-dots": {
+      "codepoint": 57967,
+      "fontFamily": "Mage",
+      "identifier": "messageDots"
+    },
+    "message-dots-check": {
+      "codepoint": 57968,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsCheck"
+    },
+    "message-dots-cross": {
+      "codepoint": 57969,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsCross"
+    },
+    "message-dots-download": {
+      "codepoint": 57970,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsDownload"
+    },
+    "message-dots-fill": {
+      "codepoint": 57971,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsFill"
+    },
+    "message-dots-minus": {
+      "codepoint": 57972,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsMinus"
+    },
+    "message-dots-plus": {
+      "codepoint": 57973,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsPlus"
+    },
+    "message-dots-question-mark": {
+      "codepoint": 57974,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsQuestionMark"
+    },
+    "message-dots-round": {
+      "codepoint": 57975,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsRound"
+    },
+    "message-dots-round-check": {
+      "codepoint": 57976,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsRoundCheck"
+    },
+    "message-dots-round-cross": {
+      "codepoint": 57977,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsRoundCross"
+    },
+    "message-dots-round-download": {
+      "codepoint": 57978,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsRoundDownload"
+    },
+    "message-dots-round-fill": {
+      "codepoint": 57979,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsRoundFill"
+    },
+    "message-dots-round-minus": {
+      "codepoint": 57980,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsRoundMinus"
+    },
+    "message-dots-round-plus": {
+      "codepoint": 57981,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsRoundPlus"
+    },
+    "message-dots-round-question-mark": {
+      "codepoint": 57982,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsRoundQuestionMark"
+    },
+    "message-dots-round-upload": {
+      "codepoint": 57983,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsRoundUpload"
+    },
+    "message-dots-upload": {
+      "codepoint": 57984,
+      "fontFamily": "Mage",
+      "identifier": "messageDotsUpload"
+    },
+    "message-fill": {
+      "codepoint": 57985,
+      "fontFamily": "Mage",
+      "identifier": "messageFill"
+    },
+    "message-info-round": {
+      "codepoint": 57986,
+      "fontFamily": "Mage",
+      "identifier": "messageInfoRound"
+    },
+    "message-info-round-fill": {
+      "codepoint": 57987,
+      "fontFamily": "Mage",
+      "identifier": "messageInfoRoundFill"
+    },
+    "message-information": {
+      "codepoint": 57988,
+      "fontFamily": "Mage",
+      "identifier": "messageInformation"
+    },
+    "message-information-fill": {
+      "codepoint": 57989,
+      "fontFamily": "Mage",
+      "identifier": "messageInformationFill"
+    },
+    "message-minus": {
+      "codepoint": 57990,
+      "fontFamily": "Mage",
+      "identifier": "messageMinus"
+    },
+    "message-minus-fill": {
+      "codepoint": 57991,
+      "fontFamily": "Mage",
+      "identifier": "messageMinusFill"
+    },
+    "message-minus-round": {
+      "codepoint": 57992,
+      "fontFamily": "Mage",
+      "identifier": "messageMinusRound"
+    },
+    "message-minus-round-fill": {
+      "codepoint": 57993,
+      "fontFamily": "Mage",
+      "identifier": "messageMinusRoundFill"
+    },
+    "message-plus": {
+      "codepoint": 57994,
+      "fontFamily": "Mage",
+      "identifier": "messagePlus"
+    },
+    "message-plus-fill": {
+      "codepoint": 57995,
+      "fontFamily": "Mage",
+      "identifier": "messagePlusFill"
+    },
+    "message-plus-round": {
+      "codepoint": 57996,
+      "fontFamily": "Mage",
+      "identifier": "messagePlusRound"
+    },
+    "message-plus-round-fill": {
+      "codepoint": 57997,
+      "fontFamily": "Mage",
+      "identifier": "messagePlusRoundFill"
+    },
+    "message-question-mark": {
+      "codepoint": 57998,
+      "fontFamily": "Mage",
+      "identifier": "messageQuestionMark"
+    },
+    "message-question-mark-fill": {
+      "codepoint": 57999,
+      "fontFamily": "Mage",
+      "identifier": "messageQuestionMarkFill"
+    },
+    "message-question-mark-round": {
+      "codepoint": 58000,
+      "fontFamily": "Mage",
+      "identifier": "messageQuestionMarkRound"
+    },
+    "message-question-mark-round-fill": {
+      "codepoint": 58001,
+      "fontFamily": "Mage",
+      "identifier": "messageQuestionMarkRoundFill"
+    },
+    "message-round": {
+      "codepoint": 58002,
+      "fontFamily": "Mage",
+      "identifier": "messageRound"
+    },
+    "message-round-fill": {
+      "codepoint": 58003,
+      "fontFamily": "Mage",
+      "identifier": "messageRoundFill"
+    },
+    "message-round-square": {
+      "codepoint": 58004,
+      "fontFamily": "Mage",
+      "identifier": "messageRoundSquare"
+    },
+    "message-round-square-fill": {
+      "codepoint": 58005,
+      "fontFamily": "Mage",
+      "identifier": "messageRoundSquareFill"
+    },
+    "message-square": {
+      "codepoint": 58006,
+      "fontFamily": "Mage",
+      "identifier": "messageSquare"
+    },
+    "message-square-fill": {
+      "codepoint": 58007,
+      "fontFamily": "Mage",
+      "identifier": "messageSquareFill"
+    },
+    "messenger": {
+      "codepoint": 58008,
+      "fontFamily": "Mage",
+      "identifier": "messenger"
+    },
+    "meta": {
+      "codepoint": 58009,
+      "fontFamily": "Mage",
+      "identifier": "meta"
+    },
+    "microphone": {
+      "codepoint": 58010,
+      "fontFamily": "Mage",
+      "identifier": "microphone"
+    },
+    "microphone-fill": {
+      "codepoint": 58011,
+      "fontFamily": "Mage",
+      "identifier": "microphoneFill"
+    },
+    "microphone-mute": {
+      "codepoint": 58012,
+      "fontFamily": "Mage",
+      "identifier": "microphoneMute"
+    },
+    "microphone-mute-fill": {
+      "codepoint": 58013,
+      "fontFamily": "Mage",
+      "identifier": "microphoneMuteFill"
+    },
+    "microsoft-windows": {
+      "codepoint": 58014,
+      "fontFamily": "Mage",
+      "identifier": "microsoftWindows"
+    },
+    "minimize": {
+      "codepoint": 58015,
+      "fontFamily": "Mage",
+      "identifier": "minimize"
+    },
+    "minus": {
+      "codepoint": 58016,
+      "fontFamily": "Mage",
+      "identifier": "minus"
+    },
+    "minus-circle": {
+      "codepoint": 58017,
+      "fontFamily": "Mage",
+      "identifier": "minusCircle"
+    },
+    "minus-circle-fill": {
+      "codepoint": 58018,
+      "fontFamily": "Mage",
+      "identifier": "minusCircleFill"
+    },
+    "minus-square": {
+      "codepoint": 58019,
+      "fontFamily": "Mage",
+      "identifier": "minusSquare"
+    },
+    "minus-square-fill": {
+      "codepoint": 58020,
+      "fontFamily": "Mage",
+      "identifier": "minusSquareFill"
+    },
+    "mobile-phone": {
+      "codepoint": 58021,
+      "fontFamily": "Mage",
+      "identifier": "mobilePhone"
+    },
+    "mobile-phone-fill": {
+      "codepoint": 58022,
+      "fontFamily": "Mage",
+      "identifier": "mobilePhoneFill"
+    },
+    "money-exchange": {
+      "codepoint": 58023,
+      "fontFamily": "Mage",
+      "identifier": "moneyExchange"
+    },
+    "moon": {
+      "codepoint": 58024,
+      "fontFamily": "Mage",
+      "identifier": "moon"
+    },
+    "moon-fill": {
+      "codepoint": 58025,
+      "fontFamily": "Mage",
+      "identifier": "moonFill"
+    },
+    "mouse": {
+      "codepoint": 58026,
+      "fontFamily": "Mage",
+      "identifier": "mouse"
+    },
+    "mouse-2": {
+      "codepoint": 58027,
+      "fontFamily": "Mage",
+      "identifier": "mouse2"
+    },
+    "mouse-2-fill": {
+      "codepoint": 58028,
+      "fontFamily": "Mage",
+      "identifier": "mouse2Fill"
+    },
+    "mouse-fill": {
+      "codepoint": 58029,
+      "fontFamily": "Mage",
+      "identifier": "mouseFill"
+    },
+    "mouse-pointer": {
+      "codepoint": 58030,
+      "fontFamily": "Mage",
+      "identifier": "mousePointer"
+    },
+    "mouse-pointer-fill": {
+      "codepoint": 58031,
+      "fontFamily": "Mage",
+      "identifier": "mousePointerFill"
+    },
+    "multiply": {
+      "codepoint": 58032,
+      "fontFamily": "Mage",
+      "identifier": "multiply"
+    },
+    "multiply-circle": {
+      "codepoint": 58033,
+      "fontFamily": "Mage",
+      "identifier": "multiplyCircle"
+    },
+    "multiply-circle-fill": {
+      "codepoint": 58034,
+      "fontFamily": "Mage",
+      "identifier": "multiplyCircleFill"
+    },
+    "multiply-square": {
+      "codepoint": 58035,
+      "fontFamily": "Mage",
+      "identifier": "multiplySquare"
+    },
+    "multiply-square-fill": {
+      "codepoint": 58036,
+      "fontFamily": "Mage",
+      "identifier": "multiplySquareFill"
+    },
+    "music": {
+      "codepoint": 58037,
+      "fontFamily": "Mage",
+      "identifier": "music"
+    },
+    "music-alternate": {
+      "codepoint": 58038,
+      "fontFamily": "Mage",
+      "identifier": "musicAlternate"
+    },
+    "music-alternate-fill": {
+      "codepoint": 58039,
+      "fontFamily": "Mage",
+      "identifier": "musicAlternateFill"
+    },
+    "music-circle": {
+      "codepoint": 58040,
+      "fontFamily": "Mage",
+      "identifier": "musicCircle"
+    },
+    "music-circle-fill": {
+      "codepoint": 58041,
+      "fontFamily": "Mage",
+      "identifier": "musicCircleFill"
+    },
+    "music-fill": {
+      "codepoint": 58042,
+      "fontFamily": "Mage",
+      "identifier": "musicFill"
+    },
+    "music-square": {
+      "codepoint": 58043,
+      "fontFamily": "Mage",
+      "identifier": "musicSquare"
+    },
+    "music-square-fill": {
+      "codepoint": 58044,
+      "fontFamily": "Mage",
+      "identifier": "musicSquareFill"
+    },
+    "netflix": {
+      "codepoint": 58045,
+      "fontFamily": "Mage",
+      "identifier": "netflix"
+    },
+    "next": {
+      "codepoint": 58046,
+      "fontFamily": "Mage",
+      "identifier": "next"
+    },
+    "next-fill": {
+      "codepoint": 58047,
+      "fontFamily": "Mage",
+      "identifier": "nextFill"
+    },
+    "note": {
+      "codepoint": 58048,
+      "fontFamily": "Mage",
+      "identifier": "note"
+    },
+    "note-fill": {
+      "codepoint": 58049,
+      "fontFamily": "Mage",
+      "identifier": "noteFill"
+    },
+    "note-text": {
+      "codepoint": 58050,
+      "fontFamily": "Mage",
+      "identifier": "noteText"
+    },
+    "note-text-fill": {
+      "codepoint": 58051,
+      "fontFamily": "Mage",
+      "identifier": "noteTextFill"
+    },
+    "note-with-text": {
+      "codepoint": 58052,
+      "fontFamily": "Mage",
+      "identifier": "noteWithText"
+    },
+    "note-with-text-fill": {
+      "codepoint": 58053,
+      "fontFamily": "Mage",
+      "identifier": "noteWithTextFill"
+    },
+    "notification-bell": {
+      "codepoint": 58054,
+      "fontFamily": "Mage",
+      "identifier": "notificationBell"
+    },
+    "notification-bell-check": {
+      "codepoint": 58055,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellCheck"
+    },
+    "notification-bell-check-fill": {
+      "codepoint": 58056,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellCheckFill"
+    },
+    "notification-bell-cross": {
+      "codepoint": 58057,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellCross"
+    },
+    "notification-bell-cross-fill": {
+      "codepoint": 58058,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellCrossFill"
+    },
+    "notification-bell-download": {
+      "codepoint": 58059,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellDownload"
+    },
+    "notification-bell-download-fill": {
+      "codepoint": 58060,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellDownloadFill"
+    },
+    "notification-bell-fill": {
+      "codepoint": 58061,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellFill"
+    },
+    "notification-bell-minus": {
+      "codepoint": 58062,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellMinus"
+    },
+    "notification-bell-minus-fill": {
+      "codepoint": 58063,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellMinusFill"
+    },
+    "notification-bell-muted": {
+      "codepoint": 58064,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellMuted"
+    },
+    "notification-bell-muted-fill": {
+      "codepoint": 58065,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellMutedFill"
+    },
+    "notification-bell-pending": {
+      "codepoint": 58066,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellPending"
+    },
+    "notification-bell-pending-fill": {
+      "codepoint": 58067,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellPendingFill"
+    },
+    "notification-bell-plus": {
+      "codepoint": 58068,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellPlus"
+    },
+    "notification-bell-plus-fill": {
+      "codepoint": 58069,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellPlusFill"
+    },
+    "notification-bell-question-mark": {
+      "codepoint": 58070,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellQuestionMark"
+    },
+    "notification-bell-question-mark-fill": {
+      "codepoint": 58071,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellQuestionMarkFill"
+    },
+    "notification-bell-snooze": {
+      "codepoint": 58072,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellSnooze"
+    },
+    "notification-bell-snooze-2": {
+      "codepoint": 58073,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellSnooze2"
+    },
+    "notification-bell-snooze-2-fill": {
+      "codepoint": 58074,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellSnooze2Fill"
+    },
+    "notification-bell-upload": {
+      "codepoint": 58075,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellUpload"
+    },
+    "notification-bell-upload-fill": {
+      "codepoint": 58076,
+      "fontFamily": "Mage",
+      "identifier": "notificationBellUploadFill"
+    },
+    "notion": {
+      "codepoint": 58077,
+      "fontFamily": "Mage",
+      "identifier": "notion"
+    },
+    "package-box": {
+      "codepoint": 58078,
+      "fontFamily": "Mage",
+      "identifier": "packageBox"
+    },
+    "package-box-fill": {
+      "codepoint": 58079,
+      "fontFamily": "Mage",
+      "identifier": "packageBoxFill"
+    },
+    "pause": {
+      "codepoint": 58080,
+      "fontFamily": "Mage",
+      "identifier": "pause"
+    },
+    "pause-fill": {
+      "codepoint": 58081,
+      "fontFamily": "Mage",
+      "identifier": "pauseFill"
+    },
+    "pause-square": {
+      "codepoint": 58082,
+      "fontFamily": "Mage",
+      "identifier": "pauseSquare"
+    },
+    "pause-square-fill": {
+      "codepoint": 58083,
+      "fontFamily": "Mage",
+      "identifier": "pauseSquareFill"
+    },
+    "paypal": {
+      "codepoint": 58084,
+      "fontFamily": "Mage",
+      "identifier": "paypal"
+    },
+    "pen": {
+      "codepoint": 58085,
+      "fontFamily": "Mage",
+      "identifier": "pen"
+    },
+    "pen-fill": {
+      "codepoint": 58086,
+      "fontFamily": "Mage",
+      "identifier": "penFill"
+    },
+    "phone": {
+      "codepoint": 58087,
+      "fontFamily": "Mage",
+      "identifier": "phone"
+    },
+    "phone-call": {
+      "codepoint": 58088,
+      "fontFamily": "Mage",
+      "identifier": "phoneCall"
+    },
+    "phone-call-fill": {
+      "codepoint": 58089,
+      "fontFamily": "Mage",
+      "identifier": "phoneCallFill"
+    },
+    "phone-cancel": {
+      "codepoint": 58090,
+      "fontFamily": "Mage",
+      "identifier": "phoneCancel"
+    },
+    "phone-cancel-fill": {
+      "codepoint": 58091,
+      "fontFamily": "Mage",
+      "identifier": "phoneCancelFill"
+    },
+    "phone-cross": {
+      "codepoint": 58092,
+      "fontFamily": "Mage",
+      "identifier": "phoneCross"
+    },
+    "phone-cross-fill": {
+      "codepoint": 58093,
+      "fontFamily": "Mage",
+      "identifier": "phoneCrossFill"
+    },
+    "phone-fill": {
+      "codepoint": 58094,
+      "fontFamily": "Mage",
+      "identifier": "phoneFill"
+    },
+    "phone-incoming": {
+      "codepoint": 58095,
+      "fontFamily": "Mage",
+      "identifier": "phoneIncoming"
+    },
+    "phone-incoming-fill": {
+      "codepoint": 58096,
+      "fontFamily": "Mage",
+      "identifier": "phoneIncomingFill"
+    },
+    "phone-minus": {
+      "codepoint": 58097,
+      "fontFamily": "Mage",
+      "identifier": "phoneMinus"
+    },
+    "phone-minus-fill": {
+      "codepoint": 58098,
+      "fontFamily": "Mage",
+      "identifier": "phoneMinusFill"
+    },
+    "phone-missed-call": {
+      "codepoint": 58099,
+      "fontFamily": "Mage",
+      "identifier": "phoneMissedCall"
+    },
+    "phone-missed-call-fill": {
+      "codepoint": 58100,
+      "fontFamily": "Mage",
+      "identifier": "phoneMissedCallFill"
+    },
+    "phone-outgoing": {
+      "codepoint": 58101,
+      "fontFamily": "Mage",
+      "identifier": "phoneOutgoing"
+    },
+    "phone-outgoing-fill": {
+      "codepoint": 58102,
+      "fontFamily": "Mage",
+      "identifier": "phoneOutgoingFill"
+    },
+    "phone-plus": {
+      "codepoint": 58103,
+      "fontFamily": "Mage",
+      "identifier": "phonePlus"
+    },
+    "phone-plus-fill": {
+      "codepoint": 58104,
+      "fontFamily": "Mage",
+      "identifier": "phonePlusFill"
+    },
+    "phone-ringing-loud": {
+      "codepoint": 58105,
+      "fontFamily": "Mage",
+      "identifier": "phoneRingingLoud"
+    },
+    "phone-ringing-loud-fill": {
+      "codepoint": 58106,
+      "fontFamily": "Mage",
+      "identifier": "phoneRingingLoudFill"
+    },
+    "photoshop": {
+      "codepoint": 58107,
+      "fontFamily": "Mage",
+      "identifier": "photoshop"
+    },
+    "pin": {
+      "codepoint": 58108,
+      "fontFamily": "Mage",
+      "identifier": "pin"
+    },
+    "pin-fill": {
+      "codepoint": 58109,
+      "fontFamily": "Mage",
+      "identifier": "pinFill"
+    },
+    "pinterest": {
+      "codepoint": 58110,
+      "fontFamily": "Mage",
+      "identifier": "pinterest"
+    },
+    "play": {
+      "codepoint": 58111,
+      "fontFamily": "Mage",
+      "identifier": "play"
+    },
+    "play-circle": {
+      "codepoint": 58112,
+      "fontFamily": "Mage",
+      "identifier": "playCircle"
+    },
+    "play-circle-fill": {
+      "codepoint": 58113,
+      "fontFamily": "Mage",
+      "identifier": "playCircleFill"
+    },
+    "play-fill": {
+      "codepoint": 58114,
+      "fontFamily": "Mage",
+      "identifier": "playFill"
+    },
+    "play-square": {
+      "codepoint": 58115,
+      "fontFamily": "Mage",
+      "identifier": "playSquare"
+    },
+    "play-square-fill": {
+      "codepoint": 58116,
+      "fontFamily": "Mage",
+      "identifier": "playSquareFill"
+    },
+    "playlist": {
+      "codepoint": 58117,
+      "fontFamily": "Mage",
+      "identifier": "playlist"
+    },
+    "playlist-add": {
+      "codepoint": 58118,
+      "fontFamily": "Mage",
+      "identifier": "playlistAdd"
+    },
+    "playlist-alternate": {
+      "codepoint": 58119,
+      "fontFamily": "Mage",
+      "identifier": "playlistAlternate"
+    },
+    "playlist-alternate-fill": {
+      "codepoint": 58120,
+      "fontFamily": "Mage",
+      "identifier": "playlistAlternateFill"
+    },
+    "playlist-fill": {
+      "codepoint": 58121,
+      "fontFamily": "Mage",
+      "identifier": "playlistFill"
+    },
+    "playstore": {
+      "codepoint": 58122,
+      "fontFamily": "Mage",
+      "identifier": "playstore"
+    },
+    "plus": {
+      "codepoint": 58123,
+      "fontFamily": "Mage",
+      "identifier": "plus"
+    },
+    "plus-circle": {
+      "codepoint": 58124,
+      "fontFamily": "Mage",
+      "identifier": "plusCircle"
+    },
+    "plus-circle-fill": {
+      "codepoint": 58125,
+      "fontFamily": "Mage",
+      "identifier": "plusCircleFill"
+    },
+    "plus-square": {
+      "codepoint": 58126,
+      "fontFamily": "Mage",
+      "identifier": "plusSquare"
+    },
+    "plus-square-fill": {
+      "codepoint": 58127,
+      "fontFamily": "Mage",
+      "identifier": "plusSquareFill"
+    },
+    "premier-pro": {
+      "codepoint": 58128,
+      "fontFamily": "Mage",
+      "identifier": "premierPro"
+    },
+    "preview": {
+      "codepoint": 58129,
+      "fontFamily": "Mage",
+      "identifier": "preview"
+    },
+    "preview-circle": {
+      "codepoint": 58130,
+      "fontFamily": "Mage",
+      "identifier": "previewCircle"
+    },
+    "preview-circle-fill": {
+      "codepoint": 58131,
+      "fontFamily": "Mage",
+      "identifier": "previewCircleFill"
+    },
+    "preview-fill": {
+      "codepoint": 58132,
+      "fontFamily": "Mage",
+      "identifier": "previewFill"
+    },
+    "previous": {
+      "codepoint": 58133,
+      "fontFamily": "Mage",
+      "identifier": "previous"
+    },
+    "previous-fill": {
+      "codepoint": 58134,
+      "fontFamily": "Mage",
+      "identifier": "previousFill"
+    },
+    "printer": {
+      "codepoint": 58135,
+      "fontFamily": "Mage",
+      "identifier": "printer"
+    },
+    "printer-fill": {
+      "codepoint": 58136,
+      "fontFamily": "Mage",
+      "identifier": "printerFill"
+    },
+    "qr-code": {
+      "codepoint": 58137,
+      "fontFamily": "Mage",
+      "identifier": "qrCode"
+    },
+    "qr-code-fill": {
+      "codepoint": 58138,
+      "fontFamily": "Mage",
+      "identifier": "qrCodeFill"
+    },
+    "question-mark-circle": {
+      "codepoint": 58139,
+      "fontFamily": "Mage",
+      "identifier": "questionMarkCircle"
+    },
+    "question-mark-circle-fill": {
+      "codepoint": 58140,
+      "fontFamily": "Mage",
+      "identifier": "questionMarkCircleFill"
+    },
+    "question-mark-square": {
+      "codepoint": 58141,
+      "fontFamily": "Mage",
+      "identifier": "questionMarkSquare"
+    },
+    "question-mark-square-fill": {
+      "codepoint": 58142,
+      "fontFamily": "Mage",
+      "identifier": "questionMarkSquareFill"
+    },
+    "reddit": {
+      "codepoint": 58143,
+      "fontFamily": "Mage",
+      "identifier": "reddit"
+    },
+    "refresh": {
+      "codepoint": 58144,
+      "fontFamily": "Mage",
+      "identifier": "refresh"
+    },
+    "refresh-reverse": {
+      "codepoint": 58145,
+      "fontFamily": "Mage",
+      "identifier": "refreshReverse"
+    },
+    "reload": {
+      "codepoint": 58146,
+      "fontFamily": "Mage",
+      "identifier": "reload"
+    },
+    "reload-reverse": {
+      "codepoint": 58147,
+      "fontFamily": "Mage",
+      "identifier": "reloadReverse"
+    },
+    "ribbon": {
+      "codepoint": 58148,
+      "fontFamily": "Mage",
+      "identifier": "ribbon"
+    },
+    "ribbon-fill": {
+      "codepoint": 58149,
+      "fontFamily": "Mage",
+      "identifier": "ribbonFill"
+    },
+    "robot": {
+      "codepoint": 58150,
+      "fontFamily": "Mage",
+      "identifier": "robot"
+    },
+    "robot-appreciate": {
+      "codepoint": 58151,
+      "fontFamily": "Mage",
+      "identifier": "robotAppreciate"
+    },
+    "robot-appreciate-fill": {
+      "codepoint": 58152,
+      "fontFamily": "Mage",
+      "identifier": "robotAppreciateFill"
+    },
+    "robot-dead": {
+      "codepoint": 58153,
+      "fontFamily": "Mage",
+      "identifier": "robotDead"
+    },
+    "robot-dead-fill": {
+      "codepoint": 58154,
+      "fontFamily": "Mage",
+      "identifier": "robotDeadFill"
+    },
+    "robot-fill": {
+      "codepoint": 58155,
+      "fontFamily": "Mage",
+      "identifier": "robotFill"
+    },
+    "robot-happy": {
+      "codepoint": 58156,
+      "fontFamily": "Mage",
+      "identifier": "robotHappy"
+    },
+    "robot-happy-fill": {
+      "codepoint": 58157,
+      "fontFamily": "Mage",
+      "identifier": "robotHappyFill"
+    },
+    "robot-sad": {
+      "codepoint": 58158,
+      "fontFamily": "Mage",
+      "identifier": "robotSad"
+    },
+    "robot-sad-fill": {
+      "codepoint": 58159,
+      "fontFamily": "Mage",
+      "identifier": "robotSadFill"
+    },
+    "robot-screen": {
+      "codepoint": 58160,
+      "fontFamily": "Mage",
+      "identifier": "robotScreen"
+    },
+    "robot-screen-fill": {
+      "codepoint": 58161,
+      "fontFamily": "Mage",
+      "identifier": "robotScreenFill"
+    },
+    "robot-uwu": {
+      "codepoint": 58162,
+      "fontFamily": "Mage",
+      "identifier": "robotUwu"
+    },
+    "robot-uwu-fill": {
+      "codepoint": 58163,
+      "fontFamily": "Mage",
+      "identifier": "robotUwuFill"
+    },
+    "robot-wink": {
+      "codepoint": 58164,
+      "fontFamily": "Mage",
+      "identifier": "robotWink"
+    },
+    "robot-wink-fill": {
+      "codepoint": 58165,
+      "fontFamily": "Mage",
+      "identifier": "robotWinkFill"
+    },
+    "rocket": {
+      "codepoint": 58166,
+      "fontFamily": "Mage",
+      "identifier": "rocket"
+    },
+    "rocket-fill": {
+      "codepoint": 58167,
+      "fontFamily": "Mage",
+      "identifier": "rocketFill"
+    },
+    "round-sticker": {
+      "codepoint": 58168,
+      "fontFamily": "Mage",
+      "identifier": "roundSticker"
+    },
+    "round-sticker-fill": {
+      "codepoint": 58169,
+      "fontFamily": "Mage",
+      "identifier": "roundStickerFill"
+    },
+    "save-floppy": {
+      "codepoint": 58170,
+      "fontFamily": "Mage",
+      "identifier": "saveFloppy"
+    },
+    "save-floppy-fill": {
+      "codepoint": 58171,
+      "fontFamily": "Mage",
+      "identifier": "saveFloppyFill"
+    },
+    "scale-down": {
+      "codepoint": 58172,
+      "fontFamily": "Mage",
+      "identifier": "scaleDown"
+    },
+    "scale-up": {
+      "codepoint": 58173,
+      "fontFamily": "Mage",
+      "identifier": "scaleUp"
+    },
+    "scan": {
+      "codepoint": 58174,
+      "fontFamily": "Mage",
+      "identifier": "scan"
+    },
+    "scan-user": {
+      "codepoint": 58175,
+      "fontFamily": "Mage",
+      "identifier": "scanUser"
+    },
+    "scan-user-fill": {
+      "codepoint": 58176,
+      "fontFamily": "Mage",
+      "identifier": "scanUserFill"
+    },
+    "screencast": {
+      "codepoint": 58177,
+      "fontFamily": "Mage",
+      "identifier": "screencast"
+    },
+    "screencast-fill": {
+      "codepoint": 58178,
+      "fontFamily": "Mage",
+      "identifier": "screencastFill"
+    },
+    "search": {
+      "codepoint": 58179,
+      "fontFamily": "Mage",
+      "identifier": "search"
+    },
+    "search-fill": {
+      "codepoint": 58180,
+      "fontFamily": "Mage",
+      "identifier": "searchFill"
+    },
+    "search-square": {
+      "codepoint": 58181,
+      "fontFamily": "Mage",
+      "identifier": "searchSquare"
+    },
+    "search-square-fill": {
+      "codepoint": 58182,
+      "fontFamily": "Mage",
+      "identifier": "searchSquareFill"
+    },
+    "security-shield": {
+      "codepoint": 58183,
+      "fontFamily": "Mage",
+      "identifier": "securityShield"
+    },
+    "security-shield-fill": {
+      "codepoint": 58184,
+      "fontFamily": "Mage",
+      "identifier": "securityShieldFill"
+    },
+    "select-box": {
+      "codepoint": 58185,
+      "fontFamily": "Mage",
+      "identifier": "selectBox"
+    },
+    "server": {
+      "codepoint": 58186,
+      "fontFamily": "Mage",
+      "identifier": "server"
+    },
+    "server-2": {
+      "codepoint": 58187,
+      "fontFamily": "Mage",
+      "identifier": "server2"
+    },
+    "server-2-fill": {
+      "codepoint": 58188,
+      "fontFamily": "Mage",
+      "identifier": "server2Fill"
+    },
+    "server-fill": {
+      "codepoint": 58189,
+      "fontFamily": "Mage",
+      "identifier": "serverFill"
+    },
+    "settings": {
+      "codepoint": 58190,
+      "fontFamily": "Mage",
+      "identifier": "settings"
+    },
+    "settings-fill": {
+      "codepoint": 58191,
+      "fontFamily": "Mage",
+      "identifier": "settingsFill"
+    },
+    "share": {
+      "codepoint": 58192,
+      "fontFamily": "Mage",
+      "identifier": "share"
+    },
+    "share-fill": {
+      "codepoint": 58193,
+      "fontFamily": "Mage",
+      "identifier": "shareFill"
+    },
+    "shield-check": {
+      "codepoint": 58194,
+      "fontFamily": "Mage",
+      "identifier": "shieldCheck"
+    },
+    "shield-check-fill": {
+      "codepoint": 58195,
+      "fontFamily": "Mage",
+      "identifier": "shieldCheckFill"
+    },
+    "shield-cross": {
+      "codepoint": 58196,
+      "fontFamily": "Mage",
+      "identifier": "shieldCross"
+    },
+    "shield-cross-fill": {
+      "codepoint": 58197,
+      "fontFamily": "Mage",
+      "identifier": "shieldCrossFill"
+    },
+    "shield-plus": {
+      "codepoint": 58198,
+      "fontFamily": "Mage",
+      "identifier": "shieldPlus"
+    },
+    "shield-plus-fill": {
+      "codepoint": 58199,
+      "fontFamily": "Mage",
+      "identifier": "shieldPlusFill"
+    },
+    "shield-question-mark": {
+      "codepoint": 58200,
+      "fontFamily": "Mage",
+      "identifier": "shieldQuestionMark"
+    },
+    "shield-question-mark-fill": {
+      "codepoint": 58201,
+      "fontFamily": "Mage",
+      "identifier": "shieldQuestionMarkFill"
+    },
+    "shiled-minus": {
+      "codepoint": 58202,
+      "fontFamily": "Mage",
+      "identifier": "shiledMinus"
+    },
+    "shiled-minus-fill": {
+      "codepoint": 58203,
+      "fontFamily": "Mage",
+      "identifier": "shiledMinusFill"
+    },
+    "shop": {
+      "codepoint": 58204,
+      "fontFamily": "Mage",
+      "identifier": "shop"
+    },
+    "shop-fill": {
+      "codepoint": 58205,
+      "fontFamily": "Mage",
+      "identifier": "shopFill"
+    },
+    "shopping-bag": {
+      "codepoint": 58206,
+      "fontFamily": "Mage",
+      "identifier": "shoppingBag"
+    },
+    "shopping-bag-fill": {
+      "codepoint": 58207,
+      "fontFamily": "Mage",
+      "identifier": "shoppingBagFill"
+    },
+    "shopping-cart": {
+      "codepoint": 58208,
+      "fontFamily": "Mage",
+      "identifier": "shoppingCart"
+    },
+    "shopping-cart-fill": {
+      "codepoint": 58209,
+      "fontFamily": "Mage",
+      "identifier": "shoppingCartFill"
+    },
+    "shut-down": {
+      "codepoint": 58210,
+      "fontFamily": "Mage",
+      "identifier": "shutDown"
+    },
+    "shut-down-fill": {
+      "codepoint": 58211,
+      "fontFamily": "Mage",
+      "identifier": "shutDownFill"
+    },
+    "sim-card": {
+      "codepoint": 58212,
+      "fontFamily": "Mage",
+      "identifier": "simCard"
+    },
+    "sim-card-fill": {
+      "codepoint": 58213,
+      "fontFamily": "Mage",
+      "identifier": "simCardFill"
+    },
+    "slack": {
+      "codepoint": 58214,
+      "fontFamily": "Mage",
+      "identifier": "slack"
+    },
+    "snapchat": {
+      "codepoint": 58215,
+      "fontFamily": "Mage",
+      "identifier": "snapchat"
+    },
+    "sound-waves": {
+      "codepoint": 58216,
+      "fontFamily": "Mage",
+      "identifier": "soundWaves"
+    },
+    "spotify": {
+      "codepoint": 58217,
+      "fontFamily": "Mage",
+      "identifier": "spotify"
+    },
+    "stack": {
+      "codepoint": 58218,
+      "fontFamily": "Mage",
+      "identifier": "stack"
+    },
+    "stack-fill": {
+      "codepoint": 58219,
+      "fontFamily": "Mage",
+      "identifier": "stackFill"
+    },
+    "star": {
+      "codepoint": 58220,
+      "fontFamily": "Mage",
+      "identifier": "star"
+    },
+    "star-circle": {
+      "codepoint": 58221,
+      "fontFamily": "Mage",
+      "identifier": "starCircle"
+    },
+    "star-circle-fill": {
+      "codepoint": 58222,
+      "fontFamily": "Mage",
+      "identifier": "starCircleFill"
+    },
+    "star-fill": {
+      "codepoint": 58223,
+      "fontFamily": "Mage",
+      "identifier": "starFill"
+    },
+    "star-moving": {
+      "codepoint": 58224,
+      "fontFamily": "Mage",
+      "identifier": "starMoving"
+    },
+    "star-moving-fill": {
+      "codepoint": 58225,
+      "fontFamily": "Mage",
+      "identifier": "starMovingFill"
+    },
+    "star-square": {
+      "codepoint": 58226,
+      "fontFamily": "Mage",
+      "identifier": "starSquare"
+    },
+    "star-square-fill": {
+      "codepoint": 58227,
+      "fontFamily": "Mage",
+      "identifier": "starSquareFill"
+    },
+    "stars-a": {
+      "codepoint": 58228,
+      "fontFamily": "Mage",
+      "identifier": "starsA"
+    },
+    "stars-a-fill": {
+      "codepoint": 58229,
+      "fontFamily": "Mage",
+      "identifier": "starsAFill"
+    },
+    "stars-b": {
+      "codepoint": 58230,
+      "fontFamily": "Mage",
+      "identifier": "starsB"
+    },
+    "stars-b-fill": {
+      "codepoint": 58231,
+      "fontFamily": "Mage",
+      "identifier": "starsBFill"
+    },
+    "stars-c": {
+      "codepoint": 58232,
+      "fontFamily": "Mage",
+      "identifier": "starsC"
+    },
+    "stars-c-fill": {
+      "codepoint": 58233,
+      "fontFamily": "Mage",
+      "identifier": "starsCFill"
+    },
+    "steam": {
+      "codepoint": 58234,
+      "fontFamily": "Mage",
+      "identifier": "steam"
+    },
+    "stop": {
+      "codepoint": 58235,
+      "fontFamily": "Mage",
+      "identifier": "stop"
+    },
+    "stop-circle": {
+      "codepoint": 58236,
+      "fontFamily": "Mage",
+      "identifier": "stopCircle"
+    },
+    "stop-circle-fill": {
+      "codepoint": 58237,
+      "fontFamily": "Mage",
+      "identifier": "stopCircleFill"
+    },
+    "stop-fill": {
+      "codepoint": 58238,
+      "fontFamily": "Mage",
+      "identifier": "stopFill"
+    },
+    "stop-square": {
+      "codepoint": 58239,
+      "fontFamily": "Mage",
+      "identifier": "stopSquare"
+    },
+    "stop-square-fill": {
+      "codepoint": 58240,
+      "fontFamily": "Mage",
+      "identifier": "stopSquareFill"
+    },
+    "stripe": {
+      "codepoint": 58241,
+      "fontFamily": "Mage",
+      "identifier": "stripe"
+    },
+    "sun": {
+      "codepoint": 58242,
+      "fontFamily": "Mage",
+      "identifier": "sun"
+    },
+    "sun-fill": {
+      "codepoint": 58243,
+      "fontFamily": "Mage",
+      "identifier": "sunFill"
+    },
+    "swim-ring-fill": {
+      "codepoint": 58244,
+      "fontFamily": "Mage",
+      "identifier": "swimRingFill"
+    },
+    "tablet": {
+      "codepoint": 58245,
+      "fontFamily": "Mage",
+      "identifier": "tablet"
+    },
+    "tablet-fill": {
+      "codepoint": 58246,
+      "fontFamily": "Mage",
+      "identifier": "tabletFill"
+    },
+    "tag": {
+      "codepoint": 58247,
+      "fontFamily": "Mage",
+      "identifier": "tag"
+    },
+    "tag-2": {
+      "codepoint": 58248,
+      "fontFamily": "Mage",
+      "identifier": "tag2"
+    },
+    "tag-2-fill": {
+      "codepoint": 58249,
+      "fontFamily": "Mage",
+      "identifier": "tag2Fill"
+    },
+    "tag-check": {
+      "codepoint": 58250,
+      "fontFamily": "Mage",
+      "identifier": "tagCheck"
+    },
+    "tag-check-fill": {
+      "codepoint": 58251,
+      "fontFamily": "Mage",
+      "identifier": "tagCheckFill"
+    },
+    "tag-cross": {
+      "codepoint": 58252,
+      "fontFamily": "Mage",
+      "identifier": "tagCross"
+    },
+    "tag-cross-fill": {
+      "codepoint": 58253,
+      "fontFamily": "Mage",
+      "identifier": "tagCrossFill"
+    },
+    "tag-fill": {
+      "codepoint": 58254,
+      "fontFamily": "Mage",
+      "identifier": "tagFill"
+    },
+    "tag-minus": {
+      "codepoint": 58255,
+      "fontFamily": "Mage",
+      "identifier": "tagMinus"
+    },
+    "tag-minus-fill": {
+      "codepoint": 58256,
+      "fontFamily": "Mage",
+      "identifier": "tagMinusFill"
+    },
+    "tag-plus": {
+      "codepoint": 58257,
+      "fontFamily": "Mage",
+      "identifier": "tagPlus"
+    },
+    "tag-plus-fill": {
+      "codepoint": 58258,
+      "fontFamily": "Mage",
+      "identifier": "tagPlusFill"
+    },
+    "tag-question-mark": {
+      "codepoint": 58259,
+      "fontFamily": "Mage",
+      "identifier": "tagQuestionMark"
+    },
+    "tag-question-mark-fill": {
+      "codepoint": 58260,
+      "fontFamily": "Mage",
+      "identifier": "tagQuestionMarkFill"
+    },
+    "telegram": {
+      "codepoint": 58261,
+      "fontFamily": "Mage",
+      "identifier": "telegram"
+    },
+    "television": {
+      "codepoint": 58262,
+      "fontFamily": "Mage",
+      "identifier": "television"
+    },
+    "television-check": {
+      "codepoint": 58263,
+      "fontFamily": "Mage",
+      "identifier": "televisionCheck"
+    },
+    "television-check-fill": {
+      "codepoint": 58264,
+      "fontFamily": "Mage",
+      "identifier": "televisionCheckFill"
+    },
+    "television-cross": {
+      "codepoint": 58265,
+      "fontFamily": "Mage",
+      "identifier": "televisionCross"
+    },
+    "television-cross-fill": {
+      "codepoint": 58266,
+      "fontFamily": "Mage",
+      "identifier": "televisionCrossFill"
+    },
+    "television-download": {
+      "codepoint": 58267,
+      "fontFamily": "Mage",
+      "identifier": "televisionDownload"
+    },
+    "television-download-fill": {
+      "codepoint": 58268,
+      "fontFamily": "Mage",
+      "identifier": "televisionDownloadFill"
+    },
+    "television-fill": {
+      "codepoint": 58269,
+      "fontFamily": "Mage",
+      "identifier": "televisionFill"
+    },
+    "television-minus": {
+      "codepoint": 58270,
+      "fontFamily": "Mage",
+      "identifier": "televisionMinus"
+    },
+    "television-minus-fill": {
+      "codepoint": 58271,
+      "fontFamily": "Mage",
+      "identifier": "televisionMinusFill"
+    },
+    "television-plus": {
+      "codepoint": 58272,
+      "fontFamily": "Mage",
+      "identifier": "televisionPlus"
+    },
+    "television-plus-fill": {
+      "codepoint": 58273,
+      "fontFamily": "Mage",
+      "identifier": "televisionPlusFill"
+    },
+    "television-question-mark": {
+      "codepoint": 58274,
+      "fontFamily": "Mage",
+      "identifier": "televisionQuestionMark"
+    },
+    "television-question-mark-fill": {
+      "codepoint": 58275,
+      "fontFamily": "Mage",
+      "identifier": "televisionQuestionMarkFill"
+    },
+    "television-upload": {
+      "codepoint": 58276,
+      "fontFamily": "Mage",
+      "identifier": "televisionUpload"
+    },
+    "television-upload-fill": {
+      "codepoint": 58277,
+      "fontFamily": "Mage",
+      "identifier": "televisionUploadFill"
+    },
+    "threads": {
+      "codepoint": 58278,
+      "fontFamily": "Mage",
+      "identifier": "threads"
+    },
+    "threads-square": {
+      "codepoint": 58279,
+      "fontFamily": "Mage",
+      "identifier": "threadsSquare"
+    },
+    "three-d-box-square": {
+      "codepoint": 58280,
+      "fontFamily": "Mage",
+      "identifier": "threeDBoxSquare"
+    },
+    "three-d-box-square-fill": {
+      "codepoint": 58281,
+      "fontFamily": "Mage",
+      "identifier": "threeDBoxSquareFill"
+    },
+    "thumbs-down": {
+      "codepoint": 58282,
+      "fontFamily": "Mage",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-down-fill": {
+      "codepoint": 58283,
+      "fontFamily": "Mage",
+      "identifier": "thumbsDownFill"
+    },
+    "thumbs-up": {
+      "codepoint": 58284,
+      "fontFamily": "Mage",
+      "identifier": "thumbsUp"
+    },
+    "thumbs-up-fill": {
+      "codepoint": 58285,
+      "fontFamily": "Mage",
+      "identifier": "thumbsUpFill"
+    },
+    "tiktok": {
+      "codepoint": 58286,
+      "fontFamily": "Mage",
+      "identifier": "tiktok"
+    },
+    "tiktok-circle": {
+      "codepoint": 58287,
+      "fontFamily": "Mage",
+      "identifier": "tiktokCircle"
+    },
+    "trash": {
+      "codepoint": 58288,
+      "fontFamily": "Mage",
+      "identifier": "trash"
+    },
+    "trash-2": {
+      "codepoint": 58289,
+      "fontFamily": "Mage",
+      "identifier": "trash2"
+    },
+    "trash-2-fill": {
+      "codepoint": 58290,
+      "fontFamily": "Mage",
+      "identifier": "trash2Fill"
+    },
+    "trash-3": {
+      "codepoint": 58291,
+      "fontFamily": "Mage",
+      "identifier": "trash3"
+    },
+    "trash-3-fill": {
+      "codepoint": 58292,
+      "fontFamily": "Mage",
+      "identifier": "trash3Fill"
+    },
+    "trash-fill": {
+      "codepoint": 58293,
+      "fontFamily": "Mage",
+      "identifier": "trashFill"
+    },
+    "trash-square": {
+      "codepoint": 58294,
+      "fontFamily": "Mage",
+      "identifier": "trashSquare"
+    },
+    "trash-square-fill": {
+      "codepoint": 58295,
+      "fontFamily": "Mage",
+      "identifier": "trashSquareFill"
+    },
+    "trophy": {
+      "codepoint": 58296,
+      "fontFamily": "Mage",
+      "identifier": "trophy"
+    },
+    "trophy-circle": {
+      "codepoint": 58297,
+      "fontFamily": "Mage",
+      "identifier": "trophyCircle"
+    },
+    "trophy-circle-fill": {
+      "codepoint": 58298,
+      "fontFamily": "Mage",
+      "identifier": "trophyCircleFill"
+    },
+    "trophy-down": {
+      "codepoint": 58299,
+      "fontFamily": "Mage",
+      "identifier": "trophyDown"
+    },
+    "trophy-down-fill": {
+      "codepoint": 58300,
+      "fontFamily": "Mage",
+      "identifier": "trophyDownFill"
+    },
+    "trophy-fill": {
+      "codepoint": 58301,
+      "fontFamily": "Mage",
+      "identifier": "trophyFill"
+    },
+    "trophy-star": {
+      "codepoint": 58302,
+      "fontFamily": "Mage",
+      "identifier": "trophyStar"
+    },
+    "trophy-star-fill": {
+      "codepoint": 58303,
+      "fontFamily": "Mage",
+      "identifier": "trophyStarFill"
+    },
+    "trophy-up": {
+      "codepoint": 58304,
+      "fontFamily": "Mage",
+      "identifier": "trophyUp"
+    },
+    "trophy-up-fill": {
+      "codepoint": 58305,
+      "fontFamily": "Mage",
+      "identifier": "trophyUpFill"
+    },
+    "tube": {
+      "codepoint": 58306,
+      "fontFamily": "Mage",
+      "identifier": "tube"
+    },
+    "tube-fill": {
+      "codepoint": 58307,
+      "fontFamily": "Mage",
+      "identifier": "tubeFill"
+    },
+    "twitter": {
+      "codepoint": 58308,
+      "fontFamily": "Mage",
+      "identifier": "twitter"
+    },
+    "twtich": {
+      "codepoint": 58309,
+      "fontFamily": "Mage",
+      "identifier": "twtich"
+    },
+    "unlocked": {
+      "codepoint": 58310,
+      "fontFamily": "Mage",
+      "identifier": "unlocked"
+    },
+    "unlocked-fill": {
+      "codepoint": 58311,
+      "fontFamily": "Mage",
+      "identifier": "unlockedFill"
+    },
+    "upload": {
+      "codepoint": 58312,
+      "fontFamily": "Mage",
+      "identifier": "upload"
+    },
+    "user": {
+      "codepoint": 58313,
+      "fontFamily": "Mage",
+      "identifier": "user"
+    },
+    "user-check": {
+      "codepoint": 58314,
+      "fontFamily": "Mage",
+      "identifier": "userCheck"
+    },
+    "user-check-fill": {
+      "codepoint": 58315,
+      "fontFamily": "Mage",
+      "identifier": "userCheckFill"
+    },
+    "user-circle": {
+      "codepoint": 58316,
+      "fontFamily": "Mage",
+      "identifier": "userCircle"
+    },
+    "user-circle-fill": {
+      "codepoint": 58317,
+      "fontFamily": "Mage",
+      "identifier": "userCircleFill"
+    },
+    "user-cross": {
+      "codepoint": 58318,
+      "fontFamily": "Mage",
+      "identifier": "userCross"
+    },
+    "user-cross-fill": {
+      "codepoint": 58319,
+      "fontFamily": "Mage",
+      "identifier": "userCrossFill"
+    },
+    "user-fill": {
+      "codepoint": 58320,
+      "fontFamily": "Mage",
+      "identifier": "userFill"
+    },
+    "user-minus": {
+      "codepoint": 58321,
+      "fontFamily": "Mage",
+      "identifier": "userMinus"
+    },
+    "user-minus-fill": {
+      "codepoint": 58322,
+      "fontFamily": "Mage",
+      "identifier": "userMinusFill"
+    },
+    "user-plus": {
+      "codepoint": 58323,
+      "fontFamily": "Mage",
+      "identifier": "userPlus"
+    },
+    "user-plus-fill": {
+      "codepoint": 58324,
+      "fontFamily": "Mage",
+      "identifier": "userPlusFill"
+    },
+    "user-question-mark": {
+      "codepoint": 58325,
+      "fontFamily": "Mage",
+      "identifier": "userQuestionMark"
+    },
+    "user-question-mark-fill": {
+      "codepoint": 58326,
+      "fontFamily": "Mage",
+      "identifier": "userQuestionMarkFill"
+    },
+    "user-square": {
+      "codepoint": 58327,
+      "fontFamily": "Mage",
+      "identifier": "userSquare"
+    },
+    "user-square-fill": {
+      "codepoint": 58328,
+      "fontFamily": "Mage",
+      "identifier": "userSquareFill"
+    },
+    "users": {
+      "codepoint": 58329,
+      "fontFamily": "Mage",
+      "identifier": "users"
+    },
+    "users-fill": {
+      "codepoint": 58330,
+      "fontFamily": "Mage",
+      "identifier": "usersFill"
+    },
+    "verified-check": {
+      "codepoint": 58331,
+      "fontFamily": "Mage",
+      "identifier": "verifiedCheck"
+    },
+    "verified-check-fill": {
+      "codepoint": 58332,
+      "fontFamily": "Mage",
+      "identifier": "verifiedCheckFill"
+    },
+    "video": {
+      "codepoint": 58333,
+      "fontFamily": "Mage",
+      "identifier": "video"
+    },
+    "video-check": {
+      "codepoint": 58334,
+      "fontFamily": "Mage",
+      "identifier": "videoCheck"
+    },
+    "video-check-fill": {
+      "codepoint": 58335,
+      "fontFamily": "Mage",
+      "identifier": "videoCheckFill"
+    },
+    "video-cross": {
+      "codepoint": 58336,
+      "fontFamily": "Mage",
+      "identifier": "videoCross"
+    },
+    "video-cross-fill": {
+      "codepoint": 58337,
+      "fontFamily": "Mage",
+      "identifier": "videoCrossFill"
+    },
+    "video-download": {
+      "codepoint": 58338,
+      "fontFamily": "Mage",
+      "identifier": "videoDownload"
+    },
+    "video-download-fill": {
+      "codepoint": 58339,
+      "fontFamily": "Mage",
+      "identifier": "videoDownloadFill"
+    },
+    "video-fill": {
+      "codepoint": 58340,
+      "fontFamily": "Mage",
+      "identifier": "videoFill"
+    },
+    "video-minus": {
+      "codepoint": 58341,
+      "fontFamily": "Mage",
+      "identifier": "videoMinus"
+    },
+    "video-minus-fill": {
+      "codepoint": 58342,
+      "fontFamily": "Mage",
+      "identifier": "videoMinusFill"
+    },
+    "video-player": {
+      "codepoint": 58343,
+      "fontFamily": "Mage",
+      "identifier": "videoPlayer"
+    },
+    "video-player-fill": {
+      "codepoint": 58344,
+      "fontFamily": "Mage",
+      "identifier": "videoPlayerFill"
+    },
+    "video-plus": {
+      "codepoint": 58345,
+      "fontFamily": "Mage",
+      "identifier": "videoPlus"
+    },
+    "video-plus-fill": {
+      "codepoint": 58346,
+      "fontFamily": "Mage",
+      "identifier": "videoPlusFill"
+    },
+    "video-question-mark": {
+      "codepoint": 58347,
+      "fontFamily": "Mage",
+      "identifier": "videoQuestionMark"
+    },
+    "video-question-mark-fill": {
+      "codepoint": 58348,
+      "fontFamily": "Mage",
+      "identifier": "videoQuestionMarkFill"
+    },
+    "video-upload": {
+      "codepoint": 58349,
+      "fontFamily": "Mage",
+      "identifier": "videoUpload"
+    },
+    "video-upload-fill": {
+      "codepoint": 58350,
+      "fontFamily": "Mage",
+      "identifier": "videoUploadFill"
+    },
+    "visa": {
+      "codepoint": 58351,
+      "fontFamily": "Mage",
+      "identifier": "visa"
+    },
+    "visa-square": {
+      "codepoint": 58352,
+      "fontFamily": "Mage",
+      "identifier": "visaSquare"
+    },
+    "voicemail": {
+      "codepoint": 58353,
+      "fontFamily": "Mage",
+      "identifier": "voicemail"
+    },
+    "voicemail-fill": {
+      "codepoint": 58354,
+      "fontFamily": "Mage",
+      "identifier": "voicemailFill"
+    },
+    "volume-down": {
+      "codepoint": 58355,
+      "fontFamily": "Mage",
+      "identifier": "volumeDown"
+    },
+    "volume-down-fill": {
+      "codepoint": 58356,
+      "fontFamily": "Mage",
+      "identifier": "volumeDownFill"
+    },
+    "volume-mute": {
+      "codepoint": 58357,
+      "fontFamily": "Mage",
+      "identifier": "volumeMute"
+    },
+    "volume-mute-fill": {
+      "codepoint": 58358,
+      "fontFamily": "Mage",
+      "identifier": "volumeMuteFill"
+    },
+    "volume-up": {
+      "codepoint": 58359,
+      "fontFamily": "Mage",
+      "identifier": "volumeUp"
+    },
+    "volume-up-fill": {
+      "codepoint": 58360,
+      "fontFamily": "Mage",
+      "identifier": "volumeUpFill"
+    },
+    "volume-zero": {
+      "codepoint": 58361,
+      "fontFamily": "Mage",
+      "identifier": "volumeZero"
+    },
+    "volume-zero-fill": {
+      "codepoint": 58362,
+      "fontFamily": "Mage",
+      "identifier": "volumeZeroFill"
+    },
+    "water-drop": {
+      "codepoint": 58363,
+      "fontFamily": "Mage",
+      "identifier": "waterDrop"
+    },
+    "water-drop-fill": {
+      "codepoint": 58364,
+      "fontFamily": "Mage",
+      "identifier": "waterDropFill"
+    },
+    "water-glass": {
+      "codepoint": 58365,
+      "fontFamily": "Mage",
+      "identifier": "waterGlass"
+    },
+    "water-glass-fill": {
+      "codepoint": 58366,
+      "fontFamily": "Mage",
+      "identifier": "waterGlassFill"
+    },
+    "we-chat": {
+      "codepoint": 58367,
+      "fontFamily": "Mage",
+      "identifier": "weChat"
+    },
+    "whatsapp": {
+      "codepoint": 58368,
+      "fontFamily": "Mage",
+      "identifier": "whatsapp"
+    },
+    "whatsapp-filled": {
+      "codepoint": 58369,
+      "fontFamily": "Mage",
+      "identifier": "whatsappFilled"
+    },
+    "wifi": {
+      "codepoint": 58370,
+      "fontFamily": "Mage",
+      "identifier": "wifi"
+    },
+    "wrench": {
+      "codepoint": 58371,
+      "fontFamily": "Mage",
+      "identifier": "wrench"
+    },
+    "wrench-fill": {
+      "codepoint": 58372,
+      "fontFamily": "Mage",
+      "identifier": "wrenchFill"
+    },
+    "x": {
+      "codepoint": 58373,
+      "fontFamily": "Mage",
+      "identifier": "x"
+    },
+    "x-square": {
+      "codepoint": 58374,
+      "fontFamily": "Mage",
+      "identifier": "xSquare"
+    },
+    "youtube": {
+      "codepoint": 58375,
+      "fontFamily": "Mage",
+      "identifier": "youtube"
+    },
+    "zap": {
+      "codepoint": 58376,
+      "fontFamily": "Mage",
+      "identifier": "zap"
+    },
+    "zap-circle": {
+      "codepoint": 58377,
+      "fontFamily": "Mage",
+      "identifier": "zapCircle"
+    },
+    "zap-circle-fill": {
+      "codepoint": 58378,
+      "fontFamily": "Mage",
+      "identifier": "zapCircleFill"
+    },
+    "zap-fill": {
+      "codepoint": 58379,
+      "fontFamily": "Mage",
+      "identifier": "zapFill"
+    },
+    "zap-square": {
+      "codepoint": 58380,
+      "fontFamily": "Mage",
+      "identifier": "zapSquare"
+    },
+    "zap-square-fill": {
+      "codepoint": 58381,
+      "fontFamily": "Mage",
+      "identifier": "zapSquareFill"
+    },
+    "zoom-in": {
+      "codepoint": 58382,
+      "fontFamily": "Mage",
+      "identifier": "zoomIn"
+    },
+    "zoom-in-fill": {
+      "codepoint": 58383,
+      "fontFamily": "Mage",
+      "identifier": "zoomInFill"
+    },
+    "zoom-out": {
+      "codepoint": 58384,
+      "fontFamily": "Mage",
+      "identifier": "zoomOut"
+    },
+    "zoom-out-fill": {
+      "codepoint": 58385,
+      "fontFamily": "Mage",
+      "identifier": "zoomOutFill"
+    }
+  }
+}
