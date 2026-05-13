@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:iconifyx_core/iconifyx_core.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
@@ -13,13 +14,16 @@ import '../../shared/widgets/hover_box.dart';
 import '../../shared/widgets/site_footer.dart';
 import '../../theme/app_theme.dart';
 
-/// All packs listing.
+/// All packs page.
 ///
-/// Filter state lives entirely on the [AllPacksRoute] via its
-/// `RouteQueryParameters` mixin — that means the URL (`/packs?cat=…&q=…`) is
-/// always the source of truth, deep links work, browser back/forward works,
-/// and the page rebuilds **only** the bits that depend on the changed query
-/// via `route.selectorBuilder<T>(...)`.
+/// URL = source of truth via [AllPacksRoute]'s [RouteQueryParameters]:
+///   `/packs?cat=<slug>&q=<text>`
+///
+/// **The masonry grid is a TOP-LEVEL sliver in the outer CustomScrollView.**
+/// Previously the grid was nested inside `CustomScrollView(shrinkWrap: true)`
+/// which forced full inflation up-front — that's what made `/packs` open
+/// slowly. With the masonry as a direct sliver, only rows that overlap the
+/// outer viewport are materialised.
 class AllPacksPage extends StatefulWidget {
   const AllPacksPage({super.key, required this.route});
   final AllPacksRoute route;
@@ -36,8 +40,6 @@ class _AllPacksPageState extends State<AllPacksPage> {
     super.initState();
     _filterController =
         TextEditingController(text: widget.route.query('q') ?? '');
-    // Keep the controller text in sync if queries change externally (e.g.
-    // user navigates to /packs?q=foo or clears via category click).
     widget.route.queryNotifier.addListener(_onQueriesChanged);
   }
 
@@ -70,11 +72,11 @@ class _AllPacksPageState extends State<AllPacksPage> {
 
   void _setFilter(String text) {
     final qs = Map<String, String>.from(widget.route.queries);
-    final trimmed = text.trim();
-    if (trimmed.isEmpty) {
+    final t = text.trim();
+    if (t.isEmpty) {
       qs.remove('q');
     } else {
-      qs['q'] = trimmed;
+      qs['q'] = t;
     }
     widget.route.updateQueries(appCoordinator, queries: qs);
   }
@@ -85,8 +87,8 @@ class _AllPacksPageState extends State<AllPacksPage> {
         : () {
             final cat = packs.categories.firstWhere(
               (c) => c.slug == slug,
-              orElse: () => CategoryEntry(
-                  slug: slug, name: slug, packPrefixes: const []),
+              orElse: () =>
+                  CategoryEntry(slug: slug, name: slug, packPrefixes: const []),
             );
             return [
               for (final p in cat.packPrefixes)
@@ -112,9 +114,6 @@ class _AllPacksPageState extends State<AllPacksPage> {
               child: CircularProgressIndicator(color: AppTheme.coral));
         }
         final packs = state.packs;
-        final isDark = Theme.of(context).brightness == Brightness.dark;
-        final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-
         return Material(
           color: Theme.of(context).scaffoldBackgroundColor,
           child: LayoutBuilder(
@@ -122,113 +121,47 @@ class _AllPacksPageState extends State<AllPacksPage> {
               final wide = c.maxWidth >= 900;
               final pad = ((c.maxWidth - AppShellLayout.pageMaxWidth) / 2)
                   .clamp(0.0, double.infinity);
-
-              // Sidebar is a query-driven selectorBuilder — only rebuilds
-              // when the `cat` query changes.
-              final sidebarWidget = widget.route.selectorBuilder<String?>(
-                selector: (q) => q['cat'],
-                builder: (ctx, selected) => _CategorySidebar(
-                  packs: packs,
-                  selected: selected,
-                  onSelect: _setCategory,
-                ),
-              );
-
-              // Main column rebuilds via a selectorBuilder over the FULL
-              // query map (only 2 keys, so still cheap and consistent).
-              final mainWidget = widget.route.selectorBuilder<_QueryState>(
-                selector: (q) =>
-                    _QueryState(cat: q['cat'], filter: q['q'] ?? ''),
-                builder: (ctx, qs) {
-                  final filtered = _visible(packs, qs.cat, qs.filter);
-                  final activeCat = qs.cat == null
+              return ValueListenableBuilder<Map<String, String>>(
+                valueListenable: widget.route.queryNotifier,
+                builder: (context, queries, _) {
+                  final cat = queries['cat'];
+                  final q = queries['q'] ?? '';
+                  final filtered = _visible(packs, cat, q);
+                  final activeCat = cat == null
                       ? null
                       : packs.categories.firstWhere(
-                          (c) => c.slug == qs.cat,
+                          (c) => c.slug == cat,
                           orElse: () => CategoryEntry(
-                              slug: qs.cat!,
-                              name: qs.cat!,
+                              slug: cat,
+                              name: cat,
                               packPrefixes: const []),
                         );
-                  final emptyMessage = filtered.isEmpty
-                      ? (qs.filter.trim().isEmpty
-                          ? 'No packs in this category.'
-                          : 'No packs matched "${qs.filter.trim()}".')
-                      : null;
-                  return _MainContent(
-                    titleText: activeCat?.name ?? 'All packs',
-                    countText:
-                        '${_fmt(filtered.length)} of ${_fmt(packs.packs.length)} packs',
-                    filterController: _filterController,
-                    onFilterChanged: _setFilter,
-                    emptyMessage: emptyMessage,
-                    filteredPacks: filtered,
-                    wide: wide,
-                    horizontalPadding: pad,
-                  );
+                  return wide
+                      ? _WideLayout(
+                          packs: packs,
+                          activeCat: activeCat,
+                          filtered: filtered,
+                          allCount: packs.packs.length,
+                          filter: q,
+                          filterController: _filterController,
+                          onSelectCat: _setCategory,
+                          onFilter: _setFilter,
+                          pad: pad,
+                          selectedSlug: cat,
+                        )
+                      : _NarrowLayout(
+                          packs: packs,
+                          activeCat: activeCat,
+                          filtered: filtered,
+                          allCount: packs.packs.length,
+                          filter: q,
+                          filterController: _filterController,
+                          onSelectCat: _setCategory,
+                          onFilter: _setFilter,
+                          pad: pad,
+                          selectedSlug: cat,
+                        );
                 },
-              );
-
-              final breadcrumb = Padding(
-                padding: const EdgeInsets.fromLTRB(28, 28, 28, 16),
-                child: Row(
-                  children: [
-                    _CrumbLink(
-                        label: 'iconifyx',
-                        onTap: () => appCoordinator.navigate(HomeRoute())),
-                    Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
-                    Text('packs',
-                        style: AppTheme.mono(
-                            size: 12, color: muted, weight: FontWeight.w600)),
-                  ],
-                ),
-              );
-
-              if (wide) {
-                return Row(
-                  crossAxisAlignment: CrossAxisAlignment.stretch,
-                  children: [
-                    SingleChildScrollView(
-                      padding: EdgeInsets.fromLTRB(pad + 28, 28, 24, 40),
-                      child: SizedBox(width: 240, child: sidebarWidget),
-                    ),
-                    Expanded(
-                      child: CustomScrollView(
-                        slivers: [
-                          SliverToBoxAdapter(child: breadcrumb),
-                          SliverToBoxAdapter(child: mainWidget),
-                          SliverPadding(
-                            padding: EdgeInsets.only(right: pad),
-                            sliver: const SliverToBoxAdapter(
-                              child: SiteFooter(),
-                            ),
-                          ),
-                        ],
-                      ),
-                    ),
-                  ],
-                );
-              }
-              // Narrow: stacked single scroll.
-              return CustomScrollView(
-                slivers: [
-                  SliverPadding(
-                    padding: EdgeInsets.symmetric(horizontal: pad),
-                    sliver: SliverToBoxAdapter(child: breadcrumb),
-                  ),
-                  SliverPadding(
-                    padding: EdgeInsets.fromLTRB(28 + pad, 0, 28 + pad, 16),
-                    sliver: SliverToBoxAdapter(child: sidebarWidget),
-                  ),
-                  SliverPadding(
-                    padding: EdgeInsets.symmetric(horizontal: pad),
-                    sliver: SliverToBoxAdapter(child: mainWidget),
-                  ),
-                  SliverPadding(
-                    padding: EdgeInsets.symmetric(horizontal: pad),
-                    sliver: const SliverToBoxAdapter(child: SiteFooter()),
-                  ),
-                ],
               );
             },
           ),
@@ -238,70 +171,228 @@ class _AllPacksPageState extends State<AllPacksPage> {
   }
 }
 
-@immutable
-class _QueryState {
-  const _QueryState({required this.cat, required this.filter});
-  final String? cat;
-  final String filter;
-  @override
-  bool operator ==(Object other) =>
-      other is _QueryState && other.cat == cat && other.filter == filter;
-  @override
-  int get hashCode => Object.hash(cat, filter);
-}
-
-// ─── Main content (title + filter + grid) ───────────────────────────────────
-class _MainContent extends StatelessWidget {
-  const _MainContent({
-    required this.titleText,
-    required this.countText,
+// ─── Wide layout (sidebar | main scroll) ────────────────────────────────────
+class _WideLayout extends StatelessWidget {
+  const _WideLayout({
+    required this.packs,
+    required this.activeCat,
+    required this.filtered,
+    required this.allCount,
+    required this.filter,
     required this.filterController,
-    required this.onFilterChanged,
-    required this.emptyMessage,
-    required this.filteredPacks,
-    required this.wide,
-    required this.horizontalPadding,
+    required this.onSelectCat,
+    required this.onFilter,
+    required this.pad,
+    required this.selectedSlug,
   });
 
-  final String titleText;
-  final String countText;
+  final PackIndex packs;
+  final CategoryEntry? activeCat;
+  final List<PackSummary> filtered;
+  final int allCount;
+  final String filter;
   final TextEditingController filterController;
-  final ValueChanged<String> onFilterChanged;
-  final String? emptyMessage;
-  final List<PackSummary> filteredPacks;
-  final bool wide;
-  final double horizontalPadding;
+  final ValueChanged<String?> onSelectCat;
+  final ValueChanged<String> onFilter;
+  final double pad;
+  final String? selectedSlug;
+
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        SingleChildScrollView(
+          padding: EdgeInsets.fromLTRB(pad + 28, 28, 24, 40),
+          child: SizedBox(
+            width: 240,
+            child: _CategorySidebar(
+              packs: packs,
+              selected: selectedSlug,
+              onSelect: onSelectCat,
+            ),
+          ),
+        ),
+        Expanded(
+          child: _PageScroll(
+            packs: packs,
+            activeCat: activeCat,
+            filtered: filtered,
+            allCount: allCount,
+            filter: filter,
+            filterController: filterController,
+            onFilter: onFilter,
+            inlineSidebar: null,
+            rightPad: pad,
+            horizontalPad: 0,
+          ),
+        ),
+      ],
+    );
+  }
+}
+
+// ─── Narrow layout (stacked single scroll) ──────────────────────────────────
+class _NarrowLayout extends StatelessWidget {
+  const _NarrowLayout({
+    required this.packs,
+    required this.activeCat,
+    required this.filtered,
+    required this.allCount,
+    required this.filter,
+    required this.filterController,
+    required this.onSelectCat,
+    required this.onFilter,
+    required this.pad,
+    required this.selectedSlug,
+  });
+
+  final PackIndex packs;
+  final CategoryEntry? activeCat;
+  final List<PackSummary> filtered;
+  final int allCount;
+  final String filter;
+  final TextEditingController filterController;
+  final ValueChanged<String?> onSelectCat;
+  final ValueChanged<String> onFilter;
+  final double pad;
+  final String? selectedSlug;
+
+  @override
+  Widget build(BuildContext context) {
+    return _PageScroll(
+      packs: packs,
+      activeCat: activeCat,
+      filtered: filtered,
+      allCount: allCount,
+      filter: filter,
+      filterController: filterController,
+      onFilter: onFilter,
+      inlineSidebar: _CategorySidebar(
+        packs: packs,
+        selected: selectedSlug,
+        onSelect: onSelectCat,
+      ),
+      rightPad: pad,
+      horizontalPad: pad,
+    );
+  }
+}
+
+// ─── Single-column scroll view with top-level masonry sliver ────────────────
+class _PageScroll extends StatelessWidget {
+  const _PageScroll({
+    required this.packs,
+    required this.activeCat,
+    required this.filtered,
+    required this.allCount,
+    required this.filter,
+    required this.filterController,
+    required this.onFilter,
+    required this.inlineSidebar,
+    required this.rightPad,
+    required this.horizontalPad,
+  });
+
+  final PackIndex packs;
+  final CategoryEntry? activeCat;
+  final List<PackSummary> filtered;
+  final int allCount;
+  final String filter;
+  final TextEditingController filterController;
+  final ValueChanged<String> onFilter;
+  final Widget? inlineSidebar;
+  final double rightPad;
+  final double horizontalPad;
 
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    final breadcrumb = Padding(
+      padding: const EdgeInsets.fromLTRB(28, 28, 28, 16),
+      child: Row(
+        children: [
+          _CrumbLink(
+              label: 'iconifyx',
+              onTap: () => appCoordinator.navigate(HomeRoute())),
+          Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
+          Text('packs',
+              style: AppTheme.mono(
+                  size: 12, color: muted, weight: FontWeight.w600)),
+        ],
+      ),
+    );
+    final titleBar = Padding(
+      padding: const EdgeInsets.fromLTRB(28, 0, 28, 18),
+      child: _TitleBar(
+        title: activeCat?.name ?? 'All packs',
+        countText:
+            '${_fmt(filtered.length)} of ${_fmt(allCount)} packs',
+        controller: filterController,
+        onChanged: onFilter,
+      ),
+    );
+
     return CustomScrollView(
-      shrinkWrap: true,
-      physics: const NeverScrollableScrollPhysics(),
       slivers: [
-        SliverToBoxAdapter(
-          child: Padding(
-            padding: const EdgeInsets.fromLTRB(28, 0, 28, 18),
-            child: _TitleBar(
-              title: titleText,
-              countText: countText,
-              filterController: filterController,
-              onFilterChanged: onFilterChanged,
-            ),
-          ),
+        SliverPadding(
+          padding: EdgeInsets.symmetric(horizontal: horizontalPad),
+          sliver: SliverToBoxAdapter(child: breadcrumb),
         ),
-        if (emptyMessage != null)
+        if (inlineSidebar != null)
           SliverPadding(
-            padding: const EdgeInsets.fromLTRB(28, 0, 28, 64),
+            padding: EdgeInsets.fromLTRB(28 + horizontalPad, 0, 28 + horizontalPad, 16),
+            sliver: SliverToBoxAdapter(child: inlineSidebar),
+          ),
+        SliverPadding(
+          padding: EdgeInsets.symmetric(horizontal: horizontalPad),
+          sliver: SliverToBoxAdapter(child: titleBar),
+        ),
+        if (filtered.isEmpty)
+          SliverPadding(
+            padding: EdgeInsets.fromLTRB(28 + horizontalPad, 0, 28 + horizontalPad, 64),
             sliver: SliverToBoxAdapter(
               child: Center(
-                child: Text(emptyMessage!, style: TextStyle(color: muted)),
+                child: Text(
+                  filter.trim().isEmpty
+                      ? 'No packs in this category.'
+                      : 'No packs matched "${filter.trim()}".',
+                  style: TextStyle(color: muted),
+                ),
               ),
             ),
           )
         else
-          _PackGridSliver(packs: filteredPacks),
+          // Top-level masonry sliver → SliverChildBuilderDelegate only inflates
+          // visible tiles.
+          SliverPadding(
+            padding: EdgeInsets.fromLTRB(28 + horizontalPad, 0, 28 + horizontalPad, 40),
+            sliver: SliverLayoutBuilder(
+              builder: (context, constraints) {
+                final w = constraints.crossAxisExtent;
+                final cols = w >= 1240
+                    ? 4
+                    : w >= 900
+                        ? 3
+                        : w >= 560
+                            ? 2
+                            : 1;
+                return SliverMasonryGrid.count(
+                  crossAxisCount: cols,
+                  mainAxisSpacing: 14,
+                  crossAxisSpacing: 14,
+                  childCount: filtered.length,
+                  itemBuilder: (context, i) =>
+                      _PackTile(summary: filtered[i]),
+                );
+              },
+            ),
+          ),
+        SliverPadding(
+          padding: EdgeInsets.only(right: rightPad),
+          sliver: const SliverToBoxAdapter(child: SiteFooter()),
+        ),
       ],
     );
   }
@@ -312,14 +403,14 @@ class _TitleBar extends StatelessWidget {
   const _TitleBar({
     required this.title,
     required this.countText,
-    required this.filterController,
-    required this.onFilterChanged,
+    required this.controller,
+    required this.onChanged,
   });
 
   final String title;
   final String countText;
-  final TextEditingController filterController;
-  final ValueChanged<String> onFilterChanged;
+  final TextEditingController controller;
+  final ValueChanged<String> onChanged;
 
   @override
   Widget build(BuildContext context) {
@@ -352,8 +443,8 @@ class _TitleBar extends StatelessWidget {
         final filter = SizedBox(
           width: wide ? 240 : double.infinity,
           child: TextField(
-            controller: filterController,
-            onChanged: onFilterChanged,
+            controller: controller,
+            onChanged: onChanged,
             decoration: InputDecoration(
               hintText: 'Filter packs…',
               prefixIcon: Icon(Icons.search, size: 16, color: muted),
@@ -371,11 +462,7 @@ class _TitleBar extends StatelessWidget {
         }
         return Column(
           crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            titleRow,
-            const SizedBox(height: 10),
-            filter,
-          ],
+          children: [titleRow, const SizedBox(height: 10), filter],
         );
       },
     );
@@ -498,40 +585,7 @@ class _CategoryRow extends StatelessWidget {
   }
 }
 
-// ─── Sliver pack grid (LAZY, only builds visible tiles) ─────────────────────
-class _PackGridSliver extends StatelessWidget {
-  const _PackGridSliver({required this.packs});
-  final List<PackSummary> packs;
-  @override
-  Widget build(BuildContext context) {
-    return SliverPadding(
-      padding: const EdgeInsets.fromLTRB(28, 0, 28, 40),
-      sliver: SliverLayoutBuilder(
-        builder: (context, constraints) {
-          final w = constraints.crossAxisExtent;
-          final cols = w >= 1240
-              ? 4
-              : w >= 900
-                  ? 3
-                  : w >= 560
-                      ? 2
-                      : 1;
-          return SliverGrid.builder(
-            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-              crossAxisCount: cols,
-              mainAxisSpacing: 14,
-              crossAxisSpacing: 14,
-              childAspectRatio: 1.4,
-            ),
-            itemCount: packs.length,
-            itemBuilder: (context, i) => _PackTile(summary: packs[i]),
-          );
-        },
-      ),
-    );
-  }
-}
-
+// ─── Pack tile ──────────────────────────────────────────────────────────────
 class _PackTile extends StatelessWidget {
   const _PackTile({required this.summary});
   final PackSummary summary;
@@ -575,6 +629,7 @@ class _PackTile extends StatelessWidget {
           padding: const EdgeInsets.all(20),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
+            mainAxisSize: MainAxisSize.min,
             children: [
               Row(
                 children: [
@@ -672,7 +727,6 @@ class _CrumbLink extends StatelessWidget {
   const _CrumbLink({required this.label, required this.onTap});
   final String label;
   final VoidCallback onTap;
-
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;

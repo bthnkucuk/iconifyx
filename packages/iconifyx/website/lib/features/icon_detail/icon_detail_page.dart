@@ -6,7 +6,6 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
-import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
 import '../../shared/widgets/hover_box.dart';
@@ -35,7 +34,8 @@ class IconDetailPage extends StatelessWidget {
           (r) => r.name == name,
           orElse: () => icons.first,
         );
-        final related = icons.where((r) => r.name != record.name).take(12).toList();
+        final related =
+            icons.where((r) => r.name != record.name).take(12).toList();
         return _IconView(record: record, pack: pack, related: related);
       },
     );
@@ -43,53 +43,84 @@ class IconDetailPage extends StatelessWidget {
 }
 
 class _IconView extends StatelessWidget {
-  const _IconView({required this.record, required this.pack, required this.related});
+  const _IconView(
+      {required this.record, required this.pack, required this.related});
   final IconRecord record;
   final PackSummary pack;
   final List<IconRecord> related;
 
   @override
   Widget build(BuildContext context) {
-    return PageContainer(
-      children: [
-        _Breadcrumb(packPrefix: pack.prefix, packName: pack.name, iconName: record.name),
-        const SizedBox(height: 16),
-        Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 28),
-          child: LayoutBuilder(
-            builder: (context, c) {
-              final wide = c.maxWidth >= 980;
-              final preview = _PreviewCard(record: record, pack: pack);
-              final right = _RightColumn(record: record, pack: pack, related: related);
-              if (wide) {
-                return Row(
-                  crossAxisAlignment: CrossAxisAlignment.start,
+    return Material(
+      color: Theme.of(context).scaffoldBackgroundColor,
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(16)),
+      ),
+      clipBehavior: Clip.antiAlias,
+      child: SafeArea(
+        top: false,
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Flexible(
+              child: SingleChildScrollView(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  mainAxisSize: MainAxisSize.min,
                   children: [
-                    Expanded(child: preview),
-                    const SizedBox(width: 48),
-                    SizedBox(width: 420, child: right),
+                    _Breadcrumb(
+                        packPrefix: pack.prefix,
+                        packName: pack.name,
+                        iconName: record.name),
+                    const SizedBox(height: 16),
+                    Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 28),
+                      child: LayoutBuilder(
+                        builder: (context, c) {
+                          final wide = c.maxWidth >= 980;
+                          final preview =
+                              _PreviewCard(record: record, pack: pack);
+                          final right = _RightColumn(
+                              record: record, pack: pack, related: related);
+                          if (wide) {
+                            return Row(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Expanded(child: preview),
+                                const SizedBox(width: 48),
+                                SizedBox(width: 420, child: right),
+                              ],
+                            );
+                          }
+                          return Column(
+                            crossAxisAlignment: CrossAxisAlignment.stretch,
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              preview,
+                              const SizedBox(height: 24),
+                              right,
+                            ],
+                          );
+                        },
+                      ),
+                    ),
+                    const SizedBox(height: 24),
                   ],
-                );
-              }
-              return Column(
-                crossAxisAlignment: CrossAxisAlignment.stretch,
-                children: [
-                  preview,
-                  const SizedBox(height: 24),
-                  right,
-                ],
-              );
-            },
-          ),
+                ),
+              ),
+            ),
+          ],
         ),
-        const SizedBox(height: 56),
-      ],
+      ),
     );
   }
 }
 
 class _Breadcrumb extends StatelessWidget {
-  const _Breadcrumb({required this.packPrefix, required this.packName, required this.iconName});
+  const _Breadcrumb(
+      {required this.packPrefix,
+      required this.packName,
+      required this.iconName});
   final String packPrefix;
   final String packName;
   final String iconName;
@@ -103,13 +134,24 @@ class _Breadcrumb extends StatelessWidget {
       padding: const EdgeInsets.fromLTRB(28, 28, 28, 0),
       child: Row(
         children: [
-          _CrumbLink(label: 'iconifyx', onTap: () => appCoordinator.navigate(HomeRoute())),
+          _CrumbLink(
+              label: 'iconifyx',
+              onTap: () => appCoordinator.navigate(HomeRoute())),
           Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
-          _CrumbLink(label: 'icons', onTap: () => appCoordinator.navigate(HomeRoute())),
+          _CrumbLink(
+              label: 'icons',
+              onTap: () => appCoordinator.navigate(HomeRoute())),
           Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
-          _CrumbLink(label: packName, onTap: () => appCoordinator.navigate(PackDetailRoute(prefix: packPrefix))),
+          _CrumbLink(
+              label: packName,
+              onTap: () =>
+                  appCoordinator.navigate(PackDetailRoute(prefix: packPrefix))),
           Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
-          Flexible(child: Text(iconName, overflow: TextOverflow.ellipsis, style: AppTheme.mono(size: 12, color: ink, weight: FontWeight.w600))),
+          Flexible(
+              child: Text(iconName,
+                  overflow: TextOverflow.ellipsis,
+                  style: AppTheme.mono(
+                      size: 12, color: ink, weight: FontWeight.w600))),
         ],
       ),
     );
@@ -128,8 +170,8 @@ class _CrumbLink extends StatelessWidget {
     return HoverBuilder(
       onTap: onTap,
       builder: (ctx, hovered) => Text(label,
-          style: AppTheme.mono(
-              size: 12, color: hovered ? AppTheme.coral : muted)),
+          style:
+              AppTheme.mono(size: 12, color: hovered ? AppTheme.coral : muted)),
     );
   }
 }
@@ -238,7 +280,8 @@ class _PreviewCard extends StatelessWidget {
 }
 
 class _RightColumn extends StatelessWidget {
-  const _RightColumn({required this.record, required this.pack, required this.related});
+  const _RightColumn(
+      {required this.record, required this.pack, required this.related});
   final IconRecord record;
   final PackSummary pack;
   final List<IconRecord> related;
@@ -330,7 +373,8 @@ class _CodeTabsState extends State<_CodeTabs> {
 }
 
 class _TabBtn extends StatelessWidget {
-  const _TabBtn({required this.label, required this.active, required this.onTap});
+  const _TabBtn(
+      {required this.label, required this.active, required this.onTap});
   final String label;
   final bool active;
   final VoidCallback onTap;
@@ -348,9 +392,14 @@ class _TabBtn extends StatelessWidget {
           decoration: BoxDecoration(
             color: active ? card : Colors.transparent,
             borderRadius: BorderRadius.circular(6),
-            border: Border.all(color: active ? Theme.of(context).dividerColor : Colors.transparent),
+            border: Border.all(
+                color: active
+                    ? Theme.of(context).dividerColor
+                    : Colors.transparent),
           ),
-          child: Text(label, style: AppTheme.mono(size: 12, color: ink2, weight: FontWeight.w600)),
+          child: Text(label,
+              style: AppTheme.mono(
+                  size: 12, color: ink2, weight: FontWeight.w600)),
         ),
       ),
     );
@@ -434,12 +483,18 @@ class _MetaCard extends StatelessWidget {
         children: [
           Text(k.toUpperCase(),
               style: AppTheme.mono(
-                  size: 10, color: muted, weight: FontWeight.w700, letterSpacing: 1.0)),
+                  size: 10,
+                  color: muted,
+                  weight: FontWeight.w700,
+                  letterSpacing: 1.0)),
           const SizedBox(height: 4),
-          Text(v, style: AppTheme.mono(size: 13, color: ink, weight: FontWeight.w500)),
+          Text(v,
+              style:
+                  AppTheme.mono(size: 13, color: ink, weight: FontWeight.w500)),
         ],
       );
     }
+
     final items = [
       kv('Style', record.duotone ? 'Duotone' : 'Mono'),
       kv('Codepoint', '0x${record.codepoint.toRadixString(16).toUpperCase()}'),
@@ -525,7 +580,8 @@ class _RelatedTileState extends State<_RelatedTile> {
             decoration: BoxDecoration(
               color: hovered ? coralSoft : Colors.transparent,
               border: Border.all(
-                color: hovered ? AppTheme.coral : Theme.of(context).dividerColor,
+                color:
+                    hovered ? AppTheme.coral : Theme.of(context).dividerColor,
               ),
               borderRadius: BorderRadius.circular(8),
             ),
@@ -548,7 +604,8 @@ class _RelatedTileState extends State<_RelatedTile> {
 
 // ─── Buttons ────────────────────────────────────────────────────────────────
 class _PrimaryButton extends StatefulWidget {
-  const _PrimaryButton({required this.icon, required this.label, required this.onTap});
+  const _PrimaryButton(
+      {required this.icon, required this.label, required this.onTap});
   final IconData icon;
   final String label;
   final VoidCallback onTap;
@@ -585,7 +642,8 @@ class _PrimaryButtonState extends State<_PrimaryButton> {
 }
 
 class _SecondaryButton extends StatefulWidget {
-  const _SecondaryButton({required this.icon, required this.label, required this.onTap});
+  const _SecondaryButton(
+      {required this.icon, required this.label, required this.onTap});
   final IconData icon;
   final String label;
   final VoidCallback onTap;

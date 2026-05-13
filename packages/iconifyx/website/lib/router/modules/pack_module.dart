@@ -11,7 +11,10 @@ class PackModule extends RouteModule<AppRoute> {
 
   @override
   FutureOr<AppRoute?> parseRouteFromUri(Uri uri) => switch (uri.pathSegments) {
-        ['pack', final prefix] => PackDetailRoute(prefix: prefix),
+        ['pack', final prefix] => PackDetailRoute(
+            prefix: prefix,
+            initialQueries: Map<String, String>.from(uri.queryParameters),
+          ),
         ['pack', final prefix, 'icon', final name] =>
           IconDetailRoute(prefix: prefix, name: Uri.decodeComponent(name)),
         _ => null,

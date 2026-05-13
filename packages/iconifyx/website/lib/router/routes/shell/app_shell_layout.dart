@@ -92,8 +92,8 @@ class PageContainer extends StatelessWidget {
               slivers: [
                 for (final s in slivers!)
                   SliverPadding(
-                      padding:
-                          EdgeInsets.symmetric(horizontal: pad), sliver: s),
+                      padding: EdgeInsets.symmetric(horizontal: pad),
+                      sliver: s),
                 if (showFooter)
                   SliverPadding(
                     padding: EdgeInsets.symmetric(horizontal: pad),
