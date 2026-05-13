@@ -67,15 +67,12 @@ class _Ready extends StatelessWidget {
   Widget build(BuildContext context) {
     final mdiPack = packs.byPrefix['mdi'];
     return PageContainer(
-      child: Column(
-        mainAxisSize: MainAxisSize.min,
-        children: [
-          _Hero(packs: packs, mdiPack: mdiPack, scatterIcons: _scatterIcons),
-          _CategorySection(packs: packs),
-          _PopSection(mdiPack: mdiPack, names: _featuredIcons),
-          const SizedBox(height: 56),
-        ],
-      ),
+      children: [
+        _Hero(packs: packs, mdiPack: mdiPack, scatterIcons: _scatterIcons),
+        _CategorySection(packs: packs),
+        _PopSection(mdiPack: mdiPack, names: _featuredIcons),
+        const SizedBox(height: 56),
+      ],
     );
   }
 }
@@ -649,42 +646,59 @@ class _AllPacksCardState extends State<_AllPacksCard> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Container(
-                width: 60,
-                height: 60,
-                decoration: BoxDecoration(
-                  color: AppTheme.coral,
-                  borderRadius: BorderRadius.circular(14),
-                ),
-                child: const Icon(Icons.grid_view_rounded,
-                    color: Colors.white, size: 30),
-              ),
-              const SizedBox(height: 30),
-              Text('All icons',
-                  style: Theme.of(context)
-                      .textTheme
-                      .titleMedium
-                      ?.copyWith(color: AppTheme.coral)),
-              const SizedBox(height: 2),
-              Text(
-                'Search across every pack',
-                style: TextStyle(
-                    fontSize: 12, color: AppTheme.coral.withValues(alpha: 0.8)),
-              ),
-              const Spacer(),
               Row(
                 children: [
-                  Text(_fmt(widget.totalPacks),
-                      style: AppTheme.mono(
-                          size: 11,
-                          weight: FontWeight.w600,
-                          color: AppTheme.coral)),
-                  const SizedBox(width: 4),
-                  Text('packs',
-                      style: TextStyle(
-                          fontSize: 11,
-                          color:
-                              AppTheme.coral.withValues(alpha: 0.7))),
+                  Container(
+                    width: 38,
+                    height: 38,
+                    decoration: BoxDecoration(
+                      color: AppTheme.coral,
+                      borderRadius: BorderRadius.circular(10),
+                    ),
+                    child: const Icon(Icons.grid_view_rounded,
+                        color: Colors.white, size: 20),
+                  ),
+                  const SizedBox(width: 8),
+                  for (var i = 0; i < 3; i++) ...[
+                    Container(
+                      width: 38,
+                      height: 38,
+                      decoration: BoxDecoration(
+                        color: AppTheme.coral.withValues(alpha: 0.18),
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                    ),
+                    if (i < 2) const SizedBox(width: 8),
+                  ],
+                ],
+              ),
+              const SizedBox(height: 16),
+              Row(
+                crossAxisAlignment: CrossAxisAlignment.center,
+                children: [
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text('All icons',
+                            style: Theme.of(context)
+                                .textTheme
+                                .titleMedium
+                                ?.copyWith(color: AppTheme.coral)),
+                        const SizedBox(height: 2),
+                        Text(
+                          'Search across every pack',
+                          style: TextStyle(
+                              fontSize: 12,
+                              color:
+                                  AppTheme.coral.withValues(alpha: 0.8)),
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  _CountPill(
+                      text: _fmt(widget.totalPacks), color: AppTheme.coral),
                 ],
               ),
             ],
