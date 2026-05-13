@@ -1,6 +1,29 @@
+import path from 'node:path';
+import { readFile } from 'node:fs/promises';
 import type { Manifest } from './manifest.ts';
 import { dartClassNameFromPrefix } from './group_sets.ts';
 import { setPackageName } from './paths.ts';
+
+const TEMPLATE_DIR = path.resolve(import.meta.dir, '..', 'templates');
+
+/**
+ * Load the example app's UI source from the template at
+ * `tools/generator/templates/example_app.dart` and return it verbatim.
+ *
+ * The template is just a Dart file — IDE will flag Flutter imports as
+ * unresolved (the templates directory isn't a Flutter package), but the
+ * file is copied unchanged to `packages/iconifyx/example/lib/app.dart` on
+ * every regen, where the imports resolve normally.
+ *
+ * Keeping the template as plain Dart (instead of inline template literals
+ * in TypeScript) lets us syntax-highlight, format, and edit the UI like
+ * any other Dart file. The hand-written `main.dart` in the example
+ * imports `app.dart` and just calls `runApp` — that file is small enough
+ * to stay static.
+ */
+export async function emitExampleApp(): Promise<string> {
+  return await readFile(path.join(TEMPLATE_DIR, 'example_app.dart'), 'utf8');
+}
 
 export interface ExampleCodegenInput {
   /** Every successfully built manifest, paired with its display category. */

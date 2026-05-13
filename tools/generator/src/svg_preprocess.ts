@@ -64,6 +64,25 @@ export function isLikelyStrokeSet(
   return strokeCount / sample.length >= 0.7;
 }
 
+/**
+ * Replace every `stroke-width="…"` occurrence in an icon body with a new
+ * value, leaving the rest of the body intact. Used by the multi-weight
+ * synthesizer to derive thin/light/bold variants from a regular set.
+ *
+ * If the body has no `stroke-width` attribute at all (stroke-width defaults
+ * to 1, set elsewhere, or already on a CSS class), this is a no-op. That's
+ * acceptable: the variant is then identical to the original and the
+ * codepoint allocator still gives it a distinct slot, but visual output
+ * matches the regular weight. Iconify stroke-only sets all carry the
+ * attribute on their `<g>` wrapper, so the common case works.
+ */
+export function setStrokeWidth(body: string, newWidth: number): string {
+  return body.replace(
+    /stroke-width\s*=\s*["'][^"']+["']/g,
+    `stroke-width="${newWidth}"`
+  );
+}
+
 // ============================================================================
 // Duo-tone support
 // ============================================================================

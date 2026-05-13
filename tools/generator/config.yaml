@@ -51,6 +51,41 @@ strokeFillSets:
   - tdesign
   - circum
 
+# Synthesize multi-weight variants for stroke-only sets that don't already
+# ship weight families upstream. For each listed prefix, the generator
+# clones every icon body N times, swapping `stroke-width="2"` for the
+# configured value, and gives the variant a name suffix (e.g.
+# `activity` → `activity-thin`, `activity-light`, `activity-bold`). The
+# variants flow through stroke-fill, codepoint allocation, and Dart codegen
+# like ordinary icons and ship as additional static const fields
+# (`LucideIcons.activityThin`, `LucideIcons.activityBold`, …). The default
+# (no suffix) keeps the regular weight.
+#
+# Sets that already ship native weight variants in Iconify (`ph`, `fa6-*`,
+# `heroicons*`, …) do NOT need to be here — those weight families are
+# already separate icon names in the source JSON.
+multiWeightStrokeSets:
+  lucide:
+    thin: 1.0
+    light: 1.5
+    bold: 2.5
+  lucide-lab:
+    thin: 1.0
+    light: 1.5
+    bold: 2.5
+  tabler:
+    thin: 1.0
+    light: 1.5
+    bold: 2.5
+  iconoir:
+    thin: 1.0
+    light: 1.5
+    bold: 2.5
+  feather:
+    thin: 1.0
+    light: 1.5
+    bold: 2.5
+
 # Pretty names for Iconify category strings (example app drawer headers).
 displayCategoryAliases:
   "UI 24px": "UI · 24px Grid"

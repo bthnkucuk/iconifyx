@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'ISC',
   licenseSpdx: 'ISC',
   licenseUrl: 'https://github.com/lucide-icons/lucide/blob/main/LICENSE',
-  iconCount: 1980,
+  iconCount: 7920,
 );

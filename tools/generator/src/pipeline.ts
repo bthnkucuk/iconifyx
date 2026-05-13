@@ -16,7 +16,7 @@ import {
 import { loadConfig, displayCategory, fontFamilyFromPrefix, dartFileNameFromPrefix } from './group_sets.ts';
 import { validateIconBody } from './glyph_validator.ts';
 import { strokeFillBatch } from './stroke_fill.ts';
-import { isDuotoneBody, splitDuotoneBody } from './svg_preprocess.ts';
+import { isDuotoneBody, splitDuotoneBody, setStrokeWidth } from './svg_preprocess.ts';
 import { secondaryFontFamily } from './manifest.ts';
 import {
   readManifest,
@@ -34,7 +34,7 @@ import {
   emitMetaLibraryFile,
 } from './pubspec_codegen.ts';
 import { emitSetThirdPartyLicense, emitSetLicenseDart } from './license_codegen.ts';
-import { emitExampleIndex, emitExamplePubspec } from './example_codegen.ts';
+import { emitExampleIndex, emitExamplePubspec, emitExampleApp } from './example_codegen.ts';
 import {
   setPackageDir,
   setPackageFontsDir,
@@ -200,6 +200,31 @@ async function processOneSet(
 }> {
   const set = await loadIconifySet(prefix);
   const allResolved = resolveIcons(set);
+
+  // Multi-weight synthesis. For stroke-only sets that don't ship native
+  // weight variants upstream (Lucide, Tabler, Iconoir, …), clone every
+  // icon N times with the configured stroke-widths and append a name
+  // suffix. The default (`stroke-width="2"`) keeps the original name; the
+  // synthetic variants get `<name>-thin`, `<name>-light`, `<name>-bold`,
+  // etc. Must happen BEFORE duotone/stroke-fill so the variants flow
+  // through the rest of the pipeline like normal icons.
+  const weights = config.multiWeightStrokeSets?.[prefix];
+  if (weights && Object.keys(weights).length > 0) {
+    const synth: ResolvedIcon[] = [];
+    for (const orig of allResolved) {
+      for (const [weightName, sw] of Object.entries(weights)) {
+        synth.push({
+          ...orig,
+          name: `${orig.name}-${weightName}`,
+          body: setStrokeWidth(orig.body, sw),
+        });
+      }
+    }
+    allResolved.push(...synth);
+    log.info(
+      `  "${prefix}": synthesized ${synth.length} weight variant${synth.length === 1 ? '' : 's'} (${Object.keys(weights).join(', ')})`
+    );
+  }
 
   // Duotone detection / split. Must happen BEFORE stroke-fill, otherwise
   // oslllo-svg-fixer's rasterize+trace collapses the two layers into a
@@ -489,6 +514,16 @@ async function writeExampleData(
   await writeFile(
     path.join(exampleDir(), 'pubspec.yaml'),
     emitExamplePubspec(setPackages),
+    'utf8'
+  );
+
+  // UI body: copied from tools/generator/templates/example_app.dart on
+  // every regen so the example app's appearance lives under generator
+  // control. The example's `main.dart` is a tiny hand-written entry
+  // that imports `app.dart` and calls `runApp(IconifyxExampleApp())`.
+  await writeFile(
+    path.join(exampleDir(), 'lib', 'app.dart'),
+    await emitExampleApp(),
     'utf8'
   );
 }

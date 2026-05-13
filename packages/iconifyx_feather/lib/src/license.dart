@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/feathericons/feather/blob/master/LICENSE',
-  iconCount: 286,
+  iconCount: 1144,
 );

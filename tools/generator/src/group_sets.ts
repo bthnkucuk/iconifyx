@@ -18,6 +18,14 @@ export interface GeneratorConfig {
    * solid filled shapes inside the font).
    */
   strokeFillSets?: string[];
+  /**
+   * Iconify prefixes that ship synthetic weight variants. For each entry,
+   * the generator clones every icon body, swapping `stroke-width="2"` for
+   * the configured value, and appends the weight name as a suffix to the
+   * icon name (e.g. `activity` → `activity-thin`). The "regular" weight
+   * (2.0) is implicit and keeps the original icon name (no suffix).
+   */
+  multiWeightStrokeSets?: Record<string, Record<string, number>>;
 }
 
 const CONFIG_PATH = path.resolve(import.meta.dir, '..', 'config.yaml');

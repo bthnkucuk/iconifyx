@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/iconoir-icons/iconoir/blob/main/LICENSE',
-  iconCount: 2020,
+  iconCount: 8080,
 );

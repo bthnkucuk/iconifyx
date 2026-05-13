@@ -1,6 +1,6 @@
 name: iconifyx_lucide
 description: >-
-  Lucide icons from Iconify, packaged for Flutter (1980 icons, ISC license).
+  Lucide icons from Iconify, packaged for Flutter (7920 icons, ISC license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: Lucide
       fonts:
         - asset: assets/fonts/Lucide.ttf
+    - family: Lucide_2
+      fonts:
+        - asset: assets/fonts/Lucide_2.ttf
