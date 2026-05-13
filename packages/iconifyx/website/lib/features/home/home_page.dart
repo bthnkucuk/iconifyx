@@ -55,13 +55,25 @@ class _Ready extends StatelessWidget {
   final PackIndex packs;
 
   static const _featuredIcons = [
-    'home', 'magnify', 'heart-outline', 'account-outline', 'bell-outline',
-    'download-outline', 'star-outline', 'cog-outline',
+    'home',
+    'magnify',
+    'heart-outline',
+    'account-outline',
+    'bell-outline',
+    'download-outline',
+    'star-outline',
+    'cog-outline',
   ];
 
   static const _scatterIcons = [
-    'home', 'heart-outline', 'star-outline', 'bell-outline',
-    'download-outline', 'cog-outline', 'magnify', 'account-outline',
+    'home',
+    'heart-outline',
+    'star-outline',
+    'bell-outline',
+    'download-outline',
+    'cog-outline',
+    'magnify',
+    'account-outline',
   ];
 
   @override
@@ -80,7 +92,8 @@ class _Ready extends StatelessWidget {
 
 // ─── Hero ────────────────────────────────────────────────────────────────────
 class _Hero extends StatelessWidget {
-  const _Hero({required this.packs, required this.mdiPack, required this.scatterIcons});
+  const _Hero(
+      {required this.packs, required this.mdiPack, required this.scatterIcons});
 
   final PackIndex packs;
   final PackSummary? mdiPack;
@@ -99,38 +112,38 @@ class _Hero extends StatelessWidget {
             Column(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-              ConstrainedBox(
-                constraints: const BoxConstraints(maxWidth: 880),
-                child: Text.rich(
-                  TextSpan(
-                    style: Theme.of(context).textTheme.displayLarge,
-                    children: const [
-                      TextSpan(text: 'Friendly icons,\nbuilt for '),
-                      TextSpan(
-                        text: 'Flutter',
-                        style: TextStyle(color: AppTheme.coral),
-                      ),
-                      TextSpan(text: '.'),
-                    ],
+                ConstrainedBox(
+                  constraints: const BoxConstraints(maxWidth: 880),
+                  child: Text.rich(
+                    TextSpan(
+                      style: Theme.of(context).textTheme.displayLarge,
+                      children: const [
+                        TextSpan(text: 'Friendly icons,\nbuilt for '),
+                        TextSpan(
+                          text: 'Flutter',
+                          style: TextStyle(color: AppTheme.coral),
+                        ),
+                        TextSpan(text: '.'),
+                      ],
+                    ),
+                    textAlign: TextAlign.center,
                   ),
-                  textAlign: TextAlign.center,
                 ),
-              ),
-              const SizedBox(height: 14),
-              ConstrainedBox(
-                constraints: const BoxConstraints(maxWidth: 600),
-                child: Text(
-                  '${_fmt(packs.totalIcons)} hand-vetted icons across ${packs.packs.length} Iconify packs — type-safe in Dart, tree-shake-clean, ready to ship.',
-                  textAlign: TextAlign.center,
-                  style: Theme.of(context).textTheme.bodyLarge,
+                const SizedBox(height: 14),
+                ConstrainedBox(
+                  constraints: const BoxConstraints(maxWidth: 600),
+                  child: Text(
+                    '${_fmt(packs.totalIcons)} hand-vetted icons across ${packs.packs.length} Iconify packs — type-safe in Dart, tree-shake-clean, ready to ship.',
+                    textAlign: TextAlign.center,
+                    style: Theme.of(context).textTheme.bodyLarge,
+                  ),
                 ),
-              ),
-              const SizedBox(height: 28),
-              const _InstallBar(command: 'flutter pub add iconifyx_mdi'),
-              const SizedBox(height: 36),
-              _HeroStats(packs: packs),
-            ],
-          ),
+                const SizedBox(height: 28),
+                const _InstallBar(command: 'flutter pub add iconifyx_mdi'),
+                const SizedBox(height: 36),
+                _HeroStats(packs: packs),
+              ],
+            ),
           ],
         ),
       ),
@@ -148,7 +161,9 @@ class _HeroScatter extends StatelessWidget {
     final pack = mdiPack;
     if (pack == null) return const SizedBox.shrink();
     // Build a {name → IconRecord} from the pack preview (only ~12 items).
-    final byName = <String, IconRecord>{for (final r in pack.preview) r.name: r};
+    final byName = <String, IconRecord>{
+      for (final r in pack.preview) r.name: r
+    };
     return Positioned.fill(
       child: IgnorePointer(
         child: ClipRect(
@@ -165,19 +180,62 @@ class _HeroScatter extends StatelessWidget {
               }
               // top%, side (l/r), rotate°, highlighted.
               const spots = <_ScatterGutterSpot>[
-                _ScatterGutterSpot(top: 0.10, side: _Side.left, dx: 0.55, rotate: -7, highlighted: false),
-                _ScatterGutterSpot(top: 0.18, side: _Side.right, dx: 0.45, rotate: 6, highlighted: true),
-                _ScatterGutterSpot(top: 0.48, side: _Side.left, dx: 0.20, rotate: 4, highlighted: false),
-                _ScatterGutterSpot(top: 0.58, side: _Side.right, dx: 0.65, rotate: -3, highlighted: false),
-                _ScatterGutterSpot(top: 0.72, side: _Side.left, dx: 0.60, rotate: 3, highlighted: false),
-                _ScatterGutterSpot(top: 0.78, side: _Side.right, dx: 0.30, rotate: -5, highlighted: true),
-                _ScatterGutterSpot(top: 0.36, side: _Side.left, dx: 0.35, rotate: 8, highlighted: false),
-                _ScatterGutterSpot(top: 0.32, side: _Side.right, dx: 0.55, rotate: -8, highlighted: false),
+                _ScatterGutterSpot(
+                    top: 0.10,
+                    side: _Side.left,
+                    dx: 0.55,
+                    rotate: -7,
+                    highlighted: false),
+                _ScatterGutterSpot(
+                    top: 0.18,
+                    side: _Side.right,
+                    dx: 0.45,
+                    rotate: 6,
+                    highlighted: true),
+                _ScatterGutterSpot(
+                    top: 0.48,
+                    side: _Side.left,
+                    dx: 0.20,
+                    rotate: 4,
+                    highlighted: false),
+                _ScatterGutterSpot(
+                    top: 0.58,
+                    side: _Side.right,
+                    dx: 0.65,
+                    rotate: -3,
+                    highlighted: false),
+                _ScatterGutterSpot(
+                    top: 0.72,
+                    side: _Side.left,
+                    dx: 0.60,
+                    rotate: 3,
+                    highlighted: false),
+                _ScatterGutterSpot(
+                    top: 0.78,
+                    side: _Side.right,
+                    dx: 0.30,
+                    rotate: -5,
+                    highlighted: true),
+                _ScatterGutterSpot(
+                    top: 0.36,
+                    side: _Side.left,
+                    dx: 0.35,
+                    rotate: 8,
+                    highlighted: false),
+                _ScatterGutterSpot(
+                    top: 0.32,
+                    side: _Side.right,
+                    dx: 0.55,
+                    rotate: -8,
+                    highlighted: false),
               ];
               final children = <Widget>[];
               for (var i = 0; i < spots.length && i < names.length; i++) {
                 final name = names[i];
-                final rec = byName[name] ?? (pack.preview.isNotEmpty ? pack.preview[i % pack.preview.length] : null);
+                final rec = byName[name] ??
+                    (pack.preview.isNotEmpty
+                        ? pack.preview[i % pack.preview.length]
+                        : null);
                 if (rec == null) continue;
                 final s = spots[i];
                 // dx is a 0..1 position WITHIN the gutter band.
@@ -187,7 +245,10 @@ class _HeroScatter extends StatelessWidget {
                 children.add(Positioned(
                   top: c.maxHeight * s.top,
                   left: left,
-                  child: _ScatterTile(record: rec, rotate: s.rotate, highlighted: s.highlighted),
+                  child: _ScatterTile(
+                      record: rec,
+                      rotate: s.rotate,
+                      highlighted: s.highlighted),
                 ));
               }
               return Stack(children: children);
@@ -217,7 +278,8 @@ class _ScatterGutterSpot {
 }
 
 class _ScatterTile extends StatelessWidget {
-  const _ScatterTile({required this.record, required this.rotate, required this.highlighted});
+  const _ScatterTile(
+      {required this.record, required this.rotate, required this.highlighted});
   final IconRecord record;
   final double rotate;
   final bool highlighted;
@@ -236,8 +298,7 @@ class _ScatterTile extends StatelessWidget {
         height: 44,
         decoration: BoxDecoration(
           color: highlighted ? coralSoft : card,
-          border: Border.all(
-              color: highlighted ? AppTheme.coral : rule),
+          border: Border.all(color: highlighted ? AppTheme.coral : rule),
           borderRadius: BorderRadius.circular(12),
           boxShadow: const [
             BoxShadow(
@@ -331,34 +392,40 @@ class _InstallBarState extends State<_InstallBar> {
                 ),
               ),
               Container(width: 1, color: rule),
-              HoverBuilder(
-                onTap: _copy,
-                builder: (ctx, hovered) => AnimatedContainer(
-                  duration: const Duration(milliseconds: 120),
-                  padding: const EdgeInsets.symmetric(horizontal: 18),
-                  decoration: BoxDecoration(
-                    color: hovered ? AppTheme.coral : paper2,
-                  ),
-                  child: Row(
-                    children: [
-                      Icon(
-                        _copied ? Icons.check : Icons.copy_outlined,
-                        size: 14,
-                        color: hovered ? Colors.white : ink2,
-                      ),
-                      const SizedBox(width: 8),
-                      Text(
-                        _copied ? 'COPIED' : 'COPY',
-                        style: AppTheme.mono(
-                          size: 12,
-                          weight: FontWeight.w600,
-                          color: hovered ? Colors.white : ink2,
-                          letterSpacing: 0.24,
+              Column(
+                children: [
+                  Expanded(
+                    child: HoverBuilder(
+                      onTap: _copy,
+                      builder: (ctx, hovered) => AnimatedContainer(
+                        duration: const Duration(milliseconds: 120),
+                        padding: const EdgeInsets.symmetric(horizontal: 18),
+                        decoration: BoxDecoration(
+                          color: hovered ? AppTheme.coral : paper2,
+                        ),
+                        child: Row(
+                          children: [
+                            Icon(
+                              _copied ? Icons.check : Icons.copy_outlined,
+                              size: 14,
+                              color: hovered ? Colors.white : ink2,
+                            ),
+                            const SizedBox(width: 8),
+                            Text(
+                              _copied ? 'COPIED' : 'COPY',
+                              style: AppTheme.mono(
+                                size: 12,
+                                weight: FontWeight.w600,
+                                color: hovered ? Colors.white : ink2,
+                                letterSpacing: 0.24,
+                              ),
+                            ),
+                          ],
                         ),
                       ),
-                    ],
+                    ),
                   ),
-                ),
+                ],
               ),
             ],
           ),
@@ -401,7 +468,8 @@ class _HeroStats extends StatelessWidget {
                   fontWeight: FontWeight.w700,
                   letterSpacing: -0.18,
                   color: ink,
-                  fontFamily: Theme.of(context).textTheme.titleLarge?.fontFamily,
+                  fontFamily:
+                      Theme.of(context).textTheme.titleLarge?.fontFamily,
                 ),
               ),
               const SizedBox(width: 8),
@@ -410,7 +478,8 @@ class _HeroStats extends StatelessWidget {
                 style: TextStyle(
                   fontSize: 13,
                   color: muted,
-                  fontFamily: Theme.of(context).textTheme.bodyMedium?.fontFamily,
+                  fontFamily:
+                      Theme.of(context).textTheme.bodyMedium?.fontFamily,
                 ),
               ),
             ],
@@ -522,13 +591,12 @@ class _CategoryCardState extends State<_CategoryCard> {
     }
 
     return HoverBuilder(
-      onTap: () => appCoordinator
-          .navigate(CategoryRoute(slug: widget.category.slug)),
+      onTap: () =>
+          appCoordinator.navigate(CategoryRoute(slug: widget.category.slug)),
       builder: (ctx, hovered) => AnimatedContainer(
         duration: const Duration(milliseconds: 150),
-        transform: hovered
-            ? Matrix4.translationValues(0, -2, 0)
-            : Matrix4.identity(),
+        transform:
+            hovered ? Matrix4.translationValues(0, -2, 0) : Matrix4.identity(),
         decoration: BoxDecoration(
           color: card,
           borderRadius: BorderRadius.circular(16),
@@ -545,51 +613,53 @@ class _CategoryCardState extends State<_CategoryCard> {
         ),
         padding: const EdgeInsets.all(20),
         child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(
-                children: [
-                  for (var i = 0; i < 4; i++) ...[
-                    if (i > 0) const SizedBox(width: 8),
-                    _SampleCell(
-                      record: samples[i],
-                      bg: i == 0 ? coralSoft : paper2,
-                      color: i == 0 ? AppTheme.coral : ink2,
-                    ),
-                  ],
-                ],
-              ),
-              const SizedBox(height: 16),
-              Row(
-                crossAxisAlignment: CrossAxisAlignment.center,
-                children: [
-                  Expanded(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text(widget.category.name,
-                            style: Theme.of(context).textTheme.titleMedium),
-                        const SizedBox(height: 2),
-                        Text(
-                          '${widget.category.packPrefixes.length} packs',
-                          style: TextStyle(fontSize: 12, color: muted),
-                        ),
-                      ],
-                    ),
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                for (var i = 0; i < 4; i++) ...[
+                  if (i > 0) const SizedBox(width: 8),
+                  _SampleCell(
+                    record: samples[i],
+                    bg: i == 0 ? coralSoft : paper2,
+                    color: i == 0 ? AppTheme.coral : ink2,
                   ),
-                  _CountPill(
-                      text: '${widget.category.packPrefixes.length}', color: ink2),
                 ],
-              ),
-            ],
-          ),
+              ],
+            ),
+            const SizedBox(height: 16),
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(widget.category.name,
+                          style: Theme.of(context).textTheme.titleMedium),
+                      const SizedBox(height: 2),
+                      Text(
+                        '${widget.category.packPrefixes.length} packs',
+                        style: TextStyle(fontSize: 12, color: muted),
+                      ),
+                    ],
+                  ),
+                ),
+                _CountPill(
+                    text: '${widget.category.packPrefixes.length}',
+                    color: ink2),
+              ],
+            ),
+          ],
         ),
-      );
+      ),
+    );
   }
 }
 
 class _SampleCell extends StatelessWidget {
-  const _SampleCell({required this.record, required this.bg, required this.color});
+  const _SampleCell(
+      {required this.record, required this.bg, required this.color});
   final IconRecord record;
   final Color bg;
   final Color color;
@@ -599,7 +669,8 @@ class _SampleCell extends StatelessWidget {
     return Container(
       width: 38,
       height: 38,
-      decoration: BoxDecoration(color: bg, borderRadius: BorderRadius.circular(10)),
+      decoration:
+          BoxDecoration(color: bg, borderRadius: BorderRadius.circular(10)),
       child: Center(
         child: IconifyIcon(record.toIconifyData(), size: 20, color: color),
       ),
@@ -643,9 +714,8 @@ class _AllPacksCardState extends State<_AllPacksCard> {
       onTap: () => appCoordinator.navigate(AllPacksRoute()),
       builder: (ctx, hovered) => AnimatedContainer(
         duration: const Duration(milliseconds: 150),
-        transform: hovered
-            ? Matrix4.translationValues(0, -2, 0)
-            : Matrix4.identity(),
+        transform:
+            hovered ? Matrix4.translationValues(0, -2, 0) : Matrix4.identity(),
         decoration: BoxDecoration(
           color: coralSoft,
           borderRadius: BorderRadius.circular(16),
@@ -662,67 +732,66 @@ class _AllPacksCardState extends State<_AllPacksCard> {
         ),
         padding: const EdgeInsets.all(20),
         child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(
-                children: [
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                Container(
+                  width: 38,
+                  height: 38,
+                  decoration: BoxDecoration(
+                    color: AppTheme.coral,
+                    borderRadius: BorderRadius.circular(10),
+                  ),
+                  child: const Icon(Icons.grid_view_rounded,
+                      color: Colors.white, size: 20),
+                ),
+                const SizedBox(width: 8),
+                for (var i = 0; i < 3; i++) ...[
                   Container(
                     width: 38,
                     height: 38,
                     decoration: BoxDecoration(
-                      color: AppTheme.coral,
+                      color: AppTheme.coral.withValues(alpha: 0.18),
                       borderRadius: BorderRadius.circular(10),
                     ),
-                    child: const Icon(Icons.grid_view_rounded,
-                        color: Colors.white, size: 20),
                   ),
-                  const SizedBox(width: 8),
-                  for (var i = 0; i < 3; i++) ...[
-                    Container(
-                      width: 38,
-                      height: 38,
-                      decoration: BoxDecoration(
-                        color: AppTheme.coral.withValues(alpha: 0.18),
-                        borderRadius: BorderRadius.circular(10),
+                  if (i < 2) const SizedBox(width: 8),
+                ],
+              ],
+            ),
+            const SizedBox(height: 16),
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text('All icons',
+                          style: Theme.of(context)
+                              .textTheme
+                              .titleMedium
+                              ?.copyWith(color: AppTheme.coral)),
+                      const SizedBox(height: 2),
+                      Text(
+                        'Search across every pack',
+                        style: TextStyle(
+                            fontSize: 12,
+                            color: AppTheme.coral.withValues(alpha: 0.8)),
                       ),
-                    ),
-                    if (i < 2) const SizedBox(width: 8),
-                  ],
-                ],
-              ),
-              const SizedBox(height: 16),
-              Row(
-                crossAxisAlignment: CrossAxisAlignment.center,
-                children: [
-                  Expanded(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text('All icons',
-                            style: Theme.of(context)
-                                .textTheme
-                                .titleMedium
-                                ?.copyWith(color: AppTheme.coral)),
-                        const SizedBox(height: 2),
-                        Text(
-                          'Search across every pack',
-                          style: TextStyle(
-                              fontSize: 12,
-                              color:
-                                  AppTheme.coral.withValues(alpha: 0.8)),
-                        ),
-                      ],
-                    ),
+                    ],
                   ),
-                  const SizedBox(width: 8),
-                  _CountPill(
-                      text: _fmt(widget.totalPacks), color: AppTheme.coral),
-                ],
-              ),
-            ],
-          ),
+                ),
+                const SizedBox(width: 8),
+                _CountPill(
+                    text: _fmt(widget.totalPacks), color: AppTheme.coral),
+              ],
+            ),
+          ],
         ),
-      );
+      ),
+    );
   }
 }
 
@@ -736,7 +805,9 @@ class _PopSection extends StatelessWidget {
   Widget build(BuildContext context) {
     final pack = mdiPack;
     if (pack == null) return const SizedBox.shrink();
-    final byName = <String, IconRecord>{for (final r in pack.preview) r.name: r};
+    final byName = <String, IconRecord>{
+      for (final r in pack.preview) r.name: r
+    };
     final shown = <IconRecord>[];
     for (final n in names) {
       final r = byName[n];
@@ -866,5 +937,6 @@ class _TextButtonWithIconState extends State<_TextButtonWithIcon> {
   }
 }
 
-String _fmt(int n) => n.toString().replaceAllMapped(
-    RegExp(r'(\d)(?=(\d{3})+(?!\d))'), (m) => '${m[1]},');
+String _fmt(int n) => n
+    .toString()
+    .replaceAllMapped(RegExp(r'(\d)(?=(\d{3})+(?!\d))'), (m) => '${m[1]},');

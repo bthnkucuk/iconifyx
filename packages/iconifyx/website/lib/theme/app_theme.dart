@@ -9,7 +9,11 @@ class AppTheme {
 
   // ─── Light palette ────────────────────────────────────────────────────────
   static const coral = Color(0xFFFF6A3D);
-  static const coralSoft = Color(0xFFFFE9DF);
+  // Translucent coral overlay. Renders ~ #FFE9DF on paper/card backgrounds
+  // (the spec's literal value), but animates cleanly through low-alpha
+  // midpoints when hovering — opaque #FFE9DF lerped from Colors.transparent
+  // passes through visible grayish-pink mids in light theme.
+  static const coralSoft = Color(0x29FF6A3D);
   static const sky = Color(0xFF4DA3FF);
   static const mint = Color(0xFF18C29C);
   static const plum = Color(0xFF7C5CFF);
