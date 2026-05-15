@@ -544,12 +544,70 @@ interface ClassifierVerdict {
   remediation: string;
 }
 
+function classifyTtfOnly(
+  resolved: ResolvedIcon,
+  primaryGlyph: GlyphReport,
+  secondaryGlyph: GlyphReport | null
+): ClassifierVerdict | null {
+  // TTF-only rules — fire even when --skip-flutter omits the pixel diff.
+
+  // Rule 8 (TTF half): primary glyph empty.
+  if (primaryGlyph.empty || !primaryGlyph.bbox) {
+    return {
+      status: 'different',
+      primaryReason: 'EMPTY_GLYPH',
+      confidence: 'high',
+      problem: 'Primary glyph has empty outline in TTF',
+      remediation: 'Check FONT_AUDIT.md; svg2ttf likely dropped this glyph during build',
+    };
+  }
+  if (resolved.duotone && secondaryGlyph && (secondaryGlyph.empty || !secondaryGlyph.bbox)) {
+    return {
+      status: 'different',
+      primaryReason: 'DUOTONE_HALF_BROKEN',
+      confidence: 'high',
+      problem: 'Manifest declares duotone but secondary glyph is empty in <Family>Secondary.ttf',
+      remediation: 'svg_preprocess.splitDuotoneBody yielded empty body; check secondary cache or splitter path',
+    };
+  }
+  // Rule 7a: duotone bbox mismatch (TTF-only — independent of flutter render).
+  if (
+    resolved.duotone &&
+    primaryGlyph.bbox &&
+    secondaryGlyph?.bbox
+  ) {
+    const dx = Math.abs(primaryGlyph.bbox.cx - secondaryGlyph.bbox.cx) / primaryGlyph.unitsPerEm;
+    const dy = Math.abs(primaryGlyph.bbox.cy - secondaryGlyph.bbox.cy) / primaryGlyph.unitsPerEm;
+    if (dx > 0.04 || dy > 0.04) {
+      return {
+        status: 'different',
+        primaryReason: 'DUOTONE_BBOX_MISMATCH',
+        confidence: 'high',
+        problem:
+          `Primary glyph centroid (${primaryGlyph.bbox.cx.toFixed(0)},${primaryGlyph.bbox.cy.toFixed(0)}) ` +
+          `differs from secondary (${secondaryGlyph.bbox.cx.toFixed(0)},${secondaryGlyph.bbox.cy.toFixed(0)}) ` +
+          `by ${(dx * 100).toFixed(1)}% / ${(dy * 100).toFixed(1)}% of em — layers will overlay misaligned`,
+        remediation:
+          'GLYPH_METRICS_AUDIT.md likely flags this pair. Root cause is usually svg2ttf glyph dedup ' +
+          '(identical SVG bodies collapsed into one glyph with whichever first-encountered xMin) — see ' +
+          'RESEARCH_PLAN §33 for fix.',
+      };
+    }
+  }
+  return null;
+}
+
 function classify(
   resolved: ResolvedIcon,
   diff: DiffResult,
   primaryGlyph: GlyphReport,
   secondaryGlyph: GlyphReport | null
 ): ClassifierVerdict {
+  // Try TTF-only rules first — bbox mismatch is the highest-signal verdict
+  // and doesn't need the flutter render comparison.
+  const ttfVerdict = classifyTtfOnly(resolved, primaryGlyph, secondaryGlyph);
+  if (ttfVerdict) return ttfVerdict;
+
   const { mismatchPct, inkA, inkB, cxDriftPx, cyDriftPx, width } = diff;
   // Drift relative to the canvas size; > 4 % is visible at 24-48 px.
   const driftFracX = Math.abs(cxDriftPx) / width;
@@ -893,6 +951,19 @@ async function main() {
   let flutterPng: string | null = null;
   let diff: DiffResult | null = null;
   let verdict: ClassifierVerdict | null = null;
+  // Always compute the TTF-only verdict — these are high-signal rules
+  // (duotone bbox mismatch, empty primary, empty secondary) that don't
+  // require the slower flutter render to fire.
+  verdict = classifyTtfOnly(resolved, primaryGlyph, secondaryGlyph);
+  if (verdict === null) {
+    verdict = {
+      status: 'same',
+      primaryReason: 'TTF_OK',
+      confidence: 'low',
+      problem: 'TTF-only checks pass; run without --skip-flutter for end-to-end verdict',
+      remediation: '—',
+    };
+  }
   if (!args.skipFlutter) {
     flutterPng = join(outDir, 'flutter-rendered.png');
     await renderFlutter(args.iconRef, args.size, 'duotone', flutterPng, args.verbose);

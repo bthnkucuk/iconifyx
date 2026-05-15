@@ -10,7 +10,11 @@ Generated 2026-05-15. Phase 1 single-icon diff (see RESEARCH_PLAN §33).
 
 ## Verdict
 
-_Flutter render skipped (`--skip-flutter`) — no end-to-end verdict._
+- **Status**: `same`
+- **Primary reason**: `TTF_OK`
+- **Confidence**: `low`
+- **Problem**: TTF-only checks pass; run without --skip-flutter for end-to-end verdict
+- **Remediation**: —
 
 ## Frames
 

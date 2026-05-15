@@ -50,7 +50,13 @@
     "empty": false
   },
   "diff": null,
-  "verdict": null,
+  "verdict": {
+    "status": "same",
+    "primaryReason": "TTF_OK",
+    "confidence": "low",
+    "problem": "TTF-only checks pass; run without --skip-flutter for end-to-end verdict",
+    "remediation": "—"
+  },
   "fontTtfPath": "/Users/obenkucuk/dev/icons/packages/iconifyx_solar/assets/fonts/Solar.ttf",
   "secondaryTtfPath": "/Users/obenkucuk/dev/icons/packages/iconifyx_solar/assets/fonts/SolarSecondary.ttf",
   "duotone": true

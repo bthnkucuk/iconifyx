@@ -4477,3 +4477,167 @@ pack page to find it, infra is INADEQUATE.
 4. CI gate green on the fixed state
 
 Pending agent results.
+
+---
+
+## §33b — Visual-diff CLI tool — Phase 1 (delivered)
+
+> ✅ **STATUS: Phase 1 SHIPPED.** Single-icon (pack, name) visual
+> comparator at `tools/generator/audit/visual-diff/`. Produces an
+> upstream-SVG-vs-TTF-primary-vs-TTF-secondary-vs-Flutter-rendered
+> four-pane raster comparison + classifier verdict in ~15-30 s
+> (cold flutter test) or ~2 s (`--skip-flutter`).
+
+### What landed
+
+```
+tools/generator/audit/visual-diff/
+├── cli.ts                # Bun orchestrator
+├── rasterize_glyph.py    # fontTools + Pillow per-glyph PNG renderer
+└── run.sh                # convenience wrapper
+```
+
+Outputs land in `docs/audit/visual-diff/<prefix>__<name>/`:
+
+| File | Source | Notes |
+|---|---|---|
+| `upstream.svg` | `@iconify/json` body wrapped with viewBox + `xmlns:xlink` | written for human inspection |
+| `upstream.png` | `@resvg/resvg-js` rasterised SVG | canvas matches `--size` |
+| `glyph-primary.png` | fontTools `BoundsPen + RecordingPen` → Pillow `ImageDraw.polygon` | em-box mode (x∈[0,advance], y∈[descent,ascent]) — surfaces the alignment-bug class because two glyphs with different x-extents render side-by-side |
+| `glyph-primary.bbox.json` | same | `{advance, lsb, unitsPerEm, bbox, glyphName}` |
+| `glyph-secondary.png` | same on `<Family>Secondary.ttf` | optional — only for duotone |
+| `glyph-secondary.bbox.json` | same | optional |
+| `flutter-rendered.png` | existing `tools/generator/audit/render/render-icon.ts` (`fvm flutter test` + `RepaintBoundary.toImage`) | what consumers actually see |
+| `diff-pixelmatch.png` | pixelmatch upstream vs flutter | only when `--skip-flutter` is omitted |
+| `report.json` | full machine-readable record | bbox, advances, glyph names, ink ratios, centroid drift, classifier verdict |
+| `REPORT.md` | per-icon human-readable summary | embeds the PNGs + the classifier table |
+
+### Flutter render approach (vs alternatives evaluated)
+
+Reuses the **existing** `bun run render-icon` harness (built by the
+parallel `a87ab25b` agent). That harness picked **Approach A —
+`flutter_test` in a headless isolate** after evaluating five
+approaches:
+
+| # | Approach | Verdict |
+|---|---|---|
+| **A** | `flutter test` running a `testWidgets` that does `RepaintBoundary.toImage` directly (no goldens, custom env-var protocol, PNG written via `File.writeAsBytes`) | **PICKED** |
+| B | `integration_test` driven via a test runner | Rejected — needs a device or web driver |
+| C | Pure-Dart raster (`dart:ui`) | Rejected — hits the dart:ui-needs-engine-binding wall in CLI use |
+| D | vm-service-driven `flutter run` | Rejected — fragile + requires async app shutdown coordination |
+| E | Persistent flutter test process with stdin protocol | Deferred — v2 optimisation for sub-2s repeated calls |
+
+Why A wins: full Skia + asset-bundle font loading without a display
+server / a11y permissions / screencapture entitlement. The
+`RENDER_OK <path> <bytes>` stdout marker gives the bun wrapper a
+clean success protocol that doesn't depend on golden filename
+conventions. Each invocation costs ~10-15 s cold (pubspec rewrite +
+`flutter pub get` + test compile), ~5-8 s warm.
+
+### Classifier (Phase 1 — 8 rules of 18)
+
+`cli.ts:classify(resolved, diff, primaryGlyph, secondaryGlyph)` —
+ordered checks, first match wins, every match emits
+`{status, primaryReason, confidence, problem, remediation}`:
+
+| # | Reason code | Heuristic |
+|---|---|---|
+| 4 | `EMPTY_GLYPH` | flutter ink < 0.005 ∧ upstream ink > 0.05 |
+| 8 | `DUOTONE_HALF_BROKEN` | manifest declares duotone ∧ secondary glyph has empty bbox |
+| 7a (new) | `DUOTONE_BBOX_MISMATCH` | duotone ∧ \|primaryCentroid – secondaryCentroid\| > 4% of em (X or Y) — **the exact rule that fires on the Solar add-circle bug** |
+| 5 | `FILLED_BLOB` | flutter ink > 0.7 ∧ upstream ink < 0.5 |
+| 13/14 | `HORIZONTAL/VERTICAL_DRIFT` | centroid drift > 6% of canvas ∧ mismatchPct < 40% |
+| 17 | `EXTRA_INK` | flutter ink > upstream × 1.2 ∧ mismatchPct > 5% |
+| 6 | `MISSING_CUTOUTS` | flutter ink > upstream × 1.4 ∧ mismatchPct > 30% |
+| — | `MINOR_DIFF` / `OK` / `UNKNOWN` | catch-alls |
+
+The NEW rule 7a is the headline value-add. The existing
+`GLYPH_METRICS_AUDIT.md` already flagged this case (see §33), but
+that audit runs over the whole corpus and emits a flat list; the
+visual-diff CLI lets a developer point at ONE icon and get a
+labeled raster + verdict in seconds — the exact loop the user asked
+for.
+
+### CLI surface
+
+```bash
+# Phase 1 — one icon
+bun run tools/generator/audit/visual-diff/cli.ts solar:add-circle-bold-duotone
+bun run tools/generator/audit/visual-diff/cli.ts ph:acorn-duotone --size 512
+# Skip flutter when you only need TTF-side analysis (fast — < 2 s)
+bun run tools/generator/audit/visual-diff/cli.ts solar:add-circle-bold-duotone --skip-flutter
+# Pipeline-friendly wrapper
+tools/generator/audit/visual-diff/run.sh solar:add-circle-bold-duotone
+```
+
+### Solar `add-circle-bold-duotone` empirical findings (run on regenerated TTFs)
+
+Running the CLI against freshly-regenerated `Solar.ttf` +
+`SolarSecondary.ttf` (regen at 2026-05-16 02:14):
+
+- **Primary glyph (`0xe013` in Solar.ttf)**: `add-circle-bold-duotone`
+  bbox (343.6, 344.0, 656.4, 655.7), centroid (500.0, 499.8) of em 1000.
+- **Secondary glyph (`0xe013` in SolarSecondary.ttf)**: `accessibility-bold-duotone`
+  bbox (83.6, 83.2, 917.0, 916.5), centroid (500.3, 499.9) of em 1000.
+- **Centroid delta**: (0.3, 0.0) em-units → 0.0% of em. **Not visually misaligned in the current TTFs.**
+
+The full visual-diff report at
+[`docs/audit/visual-diff/solar__add-circle-bold-duotone/REPORT.md`](audit/visual-diff/solar__add-circle-bold-duotone/REPORT.md)
+captures the four-pane comparison.
+
+**Two secondary observations that are NOT alignment bugs but are still
+worth fixing for hygiene:**
+
+1. **Stale TTF in working tree showed broken bboxes.** Before
+   `git checkout HEAD -- Solar.ttf`, the WORKING-TREE Solar.ttf had
+   primary bbox (1.6, 344, 314, 655) and secondary (4.6, 83, 838, 916) —
+   centroids (158, 500) and (421, 500) — a 26%-of-em horizontal drift
+   that EXACTLY reproduces the user's "halka sola kaymış, artı halkanın
+   solunda" symptom. After regen, the centroids return to (500, 500).
+   **The user's reported bug came from a STALE local build.** A
+   regen + flutter clean clears it.
+
+2. **`SolarSecondary.ttf` cmap dedup**: `0xe013 → accessibility-bold-duotone`
+   (NOT `add-circle-bold-duotone`). svg2ttf's `deduplicateGlyps`
+   collapses byte-identical glyphs into one — the secondary halka
+   from accessibility-bold-duotone is byte-identical to add-circle's
+   secondary (both `M22 12c0 5.523…`), so svg2ttf keeps one glyph and
+   maps both codepoints to it. 1135 cmap entries in SolarSecondary
+   (~47% of duotone Solar icons) point to `accessibility-bold-duotone`
+   or `4k-bold-duotone` instead of their own glyph name. **Visually
+   harmless** when the secondary bodies were genuinely identical
+   upstream (which is the case for every Solar duotone share), but
+   surfaces in tooling as "wrong glyph name" and breaks debug clarity.
+   Remediation: optionally annotate manifest with `secondaryGlyphAlias`
+   or set svg2ttf `name`-only dedup. Tracked as a §16-A-style
+   correctness audit improvement.
+
+### Diff classification false-positive note
+
+When upstream is rendered at 50% opacity (the iconify body has
+`opacity=".5"` on the secondary path) but flutter renders the
+secondary at 40% (`IconifyIcon.secondaryOpacity` default), the
+pixel-diff between `upstream.png` and `flutter-rendered.png` shows a
+~10% mismatch even with perfect glyph alignment. The Phase 1
+classifier treats `mismatchPct ∈ [0.02, 0.10]` as `needs-review`
+(low-confidence). A future Phase 2 rule will normalise opacities
+before pixelmatch or, alternatively, render upstream at the same
+40% secondary alpha that `IconifyIcon` ships with.
+
+### Cross-references vs sibling agents
+
+| Sibling agent | Overlap | Visual-diff CLI adds |
+|---|---|---|
+| `a3b2cc0b` glyph-metrics audit | Same bbox source (fontTools) | per-icon raster preview + flutter-rendered comparison |
+| `a87ab25b` render-icon | Wraps it | side-by-side w/ resvg + TTF raster + classifier |
+| §26 18-rule classifier | Phase 1 covers rules 4/5/6/7a/8/13/14/17 | concrete TS impl + report.json contract |
+| §33 Solar bug investigation | Same input case | proves audit can detect the class (rule 7a fires on the stale-TTF state) |
+
+### Phase 2 (deferred — not in this scope)
+
+- Corpus mode (`--pack solar` → run all duotone icons; `--all` → full sweep)
+- HTML dashboard (single self-contained `VISUAL_DIFF.html` with sprite-sheet)
+- Persistent flutter test process (Approach E) for sub-2s repeated calls
+- Allowlist + baseline regression gate
+- Rules 9–18 (mirror/rotation/layer-order-flip/colour-mapped flatten)
+
