@@ -7,7 +7,7 @@ Verifies that the generator emits byte-identical TTFs / Dart / manifests across 
 - Mode: `snapshot`
 - Snapshot schema version: `1`
 - `@iconify/json`: `2.2.472`
-- Generator commit (current HEAD): `2c75f10cd167387663bd38e6321dcb04c112e504`
+- Generator commit (current HEAD): `72174d7a4a3976fbe7b423c87747fee9782df1f3`
 - Files snapshotted: **745** (295 TTFs, 225 Dart, 225 manifests)
 - Baseline commit: `a34929d41eca1ffca185d2b73727500e963dcb3e`
 - Baseline `@iconify/json`: `2.2.472`

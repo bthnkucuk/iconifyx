@@ -5,7 +5,7 @@ Generated 2026-05-15; `@iconify/json` ^2.2.300. Three checks: A1 (manifest inter
 ## Summary
 
 - Packs scanned: **225**
-- A1 violations: **11 icon/font-level issues across 11 packs**
+- A1 violations: **10 icon/font-level issues across 10 packs**
 - A2 violations: **319 orphan consts across 11 packs**
 - A3 renames detected: **0 icons across 0 packs** (vs previous git HEAD)
 
@@ -22,7 +22,6 @@ Detail per pack: [`docs/audit/manifest-lint/<prefix>.json`](docs/audit/manifest-
 | `lucide` | error | `nextCodepoint-underflow` | font 'Lucide' nextCodepoint=0xf770 is <= max used codepoint 0xf077f — next allocation would collide |
 | `material-symbols` | error | `nextCodepoint-underflow` | font 'MaterialSymbols' nextCodepoint=0xf770 is <= max used codepoint 0xf311e — next allocation would collide |
 | `material-symbols-light` | error | `nextCodepoint-underflow` | font 'MaterialSymbolsLight' nextCodepoint=0xf770 is <= max used codepoint 0xf270c — next allocation would collide |
-| `mdi` | error | `nextCodepoint-underflow` | font 'Mdi' nextCodepoint=0xf770 is <= max used codepoint 0xf1f3d — next allocation would collide |
 | `ph` | error | `nextCodepoint-underflow` | font 'Ph' nextCodepoint=0xf770 is <= max used codepoint 0xf0c7d — next allocation would collide |
 | `solar` | error | `nextCodepoint-underflow` | font 'Solar' nextCodepoint=0xf770 is <= max used codepoint 0xf0581 — next allocation would collide |
 | `tabler` | error | `nextCodepoint-underflow` | font 'Tabler' nextCodepoint=0xf770 is <= max used codepoint 0xf4c36 — next allocation would collide |
@@ -159,7 +158,6 @@ Click through for the full per-pack breakdown (every flagged row).
 | `lucide` | 1 | 0 | 0 | [`lucide.json`](docs/audit/manifest-lint/lucide.json) |
 | `material-symbols` | 1 | 0 | 0 | [`material-symbols.json`](docs/audit/manifest-lint/material-symbols.json) |
 | `material-symbols-light` | 1 | 0 | 0 | [`material-symbols-light.json`](docs/audit/manifest-lint/material-symbols-light.json) |
-| `mdi` | 1 | 0 | 0 | [`mdi.json`](docs/audit/manifest-lint/mdi.json) |
 | `meteocons` | 0 | 158 | 0 | [`meteocons.json`](docs/audit/manifest-lint/meteocons.json) |
 | `openmoji` | 0 | 1 | 0 | [`openmoji.json`](docs/audit/manifest-lint/openmoji.json) |
 | `oui` | 0 | 6 | 0 | [`oui.json`](docs/audit/manifest-lint/oui.json) |

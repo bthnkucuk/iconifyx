@@ -434,17 +434,31 @@ export async function mergeSiblingsInManifest(
     const isSecondary = base.endsWith('Secondary');
     const primaryBase = isSecondary ? base.slice(0, -'Secondary'.length) : base;
     let iconCount = 0;
+    let maxCodepoint = -1;
     for (const e of Object.values(manifest.icons)) {
       if (e.deprecated) continue;
       if (e.fontFamily !== primaryBase) continue;
       if (isSecondary && !e.duotone) continue;
       iconCount++;
+      if (e.codepoint > maxCodepoint) maxCodepoint = e.codepoint;
     }
     if (iconCount === 0) continue;
+    // nextCodepoint must reflect post-merge codepoint reality. Pre-merge
+    // it was the pack's BMP `nextCodepoint` cursor (e.g. 0xf770). After
+    // merge, ex-sibling icons live in supp PUA at 0xF0000+ so the cursor
+    // has to jump there too; otherwise allocateCodepoints on the next
+    // regen would issue a NEW icon at 0xf770 — colliding with an existing
+    // BMP slot if any, OR more subtly trying to land at a codepoint the
+    // current manifest already considers used. Caught by manifest-lint
+    // §16-A1 as the "nextCodepoint-underflow" violation.
     const oldBase = manifest.fonts.find((f) => f.family === base);
+    const oldCursor = oldBase?.nextCodepoint ?? 0xe000;
+    const nextCodepoint = maxCodepoint >= 0
+      ? Math.max(oldCursor, maxCodepoint + 1)
+      : oldCursor;
     newFonts.push({
       family: base,
-      nextCodepoint: oldBase?.nextCodepoint ?? 0xe000,
+      nextCodepoint,
       iconCount,
     });
   }

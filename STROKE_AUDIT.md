@@ -2,7 +2,7 @@
 
 Generated 2026-05-15. For each set we sample the first 25 icons and measure two ratios: **stroke** (icons with `stroke=` and no fill) and **evenodd** (icons that rely on `fill-rule="evenodd"` for internal cutouts). Both cases need the rasterize+Potrace pre-pass (`oslllo-svg-fixer`) — otherwise stroke icons render as solid discs and evenodd icons lose their holes (the `car` / `bug` gravity-ui glyphs we initially shipped as blobs).
 
-- **Sets receiving raster pre-pass:** 1 / 225
+- **Sets receiving raster pre-pass:** 0 / 225
 - **Of those, auto-detected:** 0
 - **Sets with ≥20% raster signal that were NOT processed:** 0
 - **Sets containing duo-tone icons:** 70 (18,114 icons across them)
@@ -104,23 +104,21 @@ _No per-icon traces this run._
 
 Icons whose body uses `<defs><mask id="X">...</mask></defs>` plus a consumer `<path mask="url(#X)"/>` (Solar bold, icon-park-twotone, icon-park-solid, line-md, pepicons-pop/pencil, lets-icons duotone-line, …). Before the custom stroke-fill worker landed, these icons shipped with their main body invisible because `oslllo-svg-fixer` force-set the first <path>'s fill to black inside the mask. The worker bypasses that step now and the bodies trace correctly via resvg.
 
-- **Icons using the inverse-mask pattern across all packs:** 28
+- **Icons using the inverse-mask pattern across all packs:** 0
 
-| Set | Prefix | Mask icons | % of pack | Spot-check |
-|---|---|---:|---:|---|
-| Solar | `solar` | 28 | 0% | `accumulator-bold`, `card-bold`, `chat-round-dots-bold` |
+_No mask-pattern icons detected._
 
 ## All sets
 
 | Set | Prefix | Stroke % | Evenodd % | Paint-order % | Per-icon | Duotone | Applied | Source |
 |---|---|---:|---:|---:|---:|---:|:---:|---|
-| Solar | `solar` | 48% | 40% | 0% | — | 2,413 | ✓ | explicit |
 | Material Symbols | `material-symbols` | 0% | 0% | 0% | — | — | — | none |
 | Material Symbols Light | `material-symbols-light` | 0% | 0% | 0% | — | — | — | none |
 | Google Material Icons | `ic` | 0% | 0% | 0% | — | 1,500 | — | none |
 | Material Design Icons | `mdi` | 0% | 0% | 0% | — | — | — | none |
 | Material Design Light | `mdi-light` | 0% | 0% | 0% | — | — | — | none |
 | Material Line Icons | `line-md` | 0% | 0% | 0% | — | — | — | none |
+| Solar | `solar` | 0% | 0% | 0% | — | 2,413 | — | none |
 | Tabler Icons | `tabler` | 0% | 0% | 0% | — | 4 | — | none |
 | Boxicons | `boxicons` | 0% | 0% | 0% | — | — | — | none |
 | MingCute Icon | `mingcute` | 0% | 0% | 0% | — | 2 | — | none |
