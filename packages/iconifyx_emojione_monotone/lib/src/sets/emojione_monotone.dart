@@ -4503,3887 +4503,3887 @@ class EmojioneMonotoneIcons {
 
   /// `fork-and-knife`
   static const IconifyIconData forkAndKnife = IconifyIconData.solo(
-    IconData(0xe689, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe381, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `fork-and-knife-with-plate`
   static const IconifyIconData forkAndKnifeWithPlate = IconifyIconData.solo(
-    IconData(0xe381, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe382, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `fountain`
   static const IconifyIconData fountain = IconifyIconData.solo(
-    IconData(0xe382, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe383, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `fountain-pen`
   static const IconifyIconData fountainPen = IconifyIconData.solo(
-    IconData(0xe383, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe384, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `four-leaf-clover`
   static const IconifyIconData fourLeafClover = IconifyIconData.solo(
-    IconData(0xe384, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe385, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `four-oclock`
   static const IconifyIconData fourOclock = IconifyIconData.solo(
-    IconData(0xe385, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe386, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `four-thirty`
   static const IconifyIconData fourThirty = IconifyIconData.solo(
-    IconData(0xe386, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe387, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `fox`
   static const IconifyIconData fox = IconifyIconData.solo(
-    IconData(0xe387, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe388, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `fox-face`
   static const IconifyIconData foxFace = IconifyIconData.solo(
-    IconData(0xe388, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe389, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `framed-picture`
   static const IconifyIconData framedPicture = IconifyIconData.solo(
-    IconData(0xe389, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe38a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `free-button`
   static const IconifyIconData freeButton = IconifyIconData.solo(
-    IconData(0xe38a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe38b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `french-fries`
   static const IconifyIconData frenchFries = IconifyIconData.solo(
-    IconData(0xe38b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe38c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `fried-shrimp`
   static const IconifyIconData friedShrimp = IconifyIconData.solo(
-    IconData(0xe38c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe38d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `frog`
   static const IconifyIconData frog = IconifyIconData.solo(
-    IconData(0xe38d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe38e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `frog-face`
   static const IconifyIconData frogFace = IconifyIconData.solo(
-    IconData(0xe38e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe38f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `front-facing-baby-chick`
   static const IconifyIconData frontFacingBabyChick = IconifyIconData.solo(
-    IconData(0xe38f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe390, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `frowning-face`
   static const IconifyIconData frowningFace = IconifyIconData.solo(
-    IconData(0xe390, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe391, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `frowning-face-with-open-mouth`
   static const IconifyIconData frowningFaceWithOpenMouth = IconifyIconData.solo(
-    IconData(0xe391, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe392, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `fuel-pump`
   static const IconifyIconData fuelPump = IconifyIconData.solo(
-    IconData(0xe392, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe393, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `full-moon`
   static const IconifyIconData fullMoon = IconifyIconData.solo(
-    IconData(0xe393, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe394, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `full-moon-face`
   static const IconifyIconData fullMoonFace = IconifyIconData.solo(
-    IconData(0xe394, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe395, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `full-moon-with-face`
   static const IconifyIconData fullMoonWithFace = IconifyIconData.solo(
-    IconData(0xe395, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe396, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `funeral-urn`
   static const IconifyIconData funeralUrn = IconifyIconData.solo(
-    IconData(0xe396, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe397, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `game-die`
   static const IconifyIconData gameDie = IconifyIconData.solo(
-    IconData(0xe397, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe398, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `gear`
   static const IconifyIconData gear = IconifyIconData.solo(
-    IconData(0xe398, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe399, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `gem-stone`
   static const IconifyIconData gemStone = IconifyIconData.solo(
-    IconData(0xe399, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe39a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `gemini`
   static const IconifyIconData gemini = IconifyIconData.solo(
-    IconData(0xe39a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe39b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `girl`
   static const IconifyIconData girl = IconifyIconData.solo(
-    IconData(0xe39b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe39c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `glass-of-milk`
   static const IconifyIconData glassOfMilk = IconifyIconData.solo(
-    IconData(0xe39c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe39d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `glasses`
   static const IconifyIconData glasses = IconifyIconData.solo(
-    IconData(0xe39d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe39e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `globe-showing-americas`
   static const IconifyIconData globeShowingAmericas = IconifyIconData.solo(
-    IconData(0xe39e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe39f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `globe-showing-asia-australia`
   static const IconifyIconData globeShowingAsiaAustralia = IconifyIconData.solo(
-    IconData(0xe39f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3a0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `globe-showing-europe-africa`
   static const IconifyIconData globeShowingEuropeAfrica = IconifyIconData.solo(
-    IconData(0xe3a0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3a1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `globe-with-meridians`
   static const IconifyIconData globeWithMeridians = IconifyIconData.solo(
-    IconData(0xe3a1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3a2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `glowing-star`
   static const IconifyIconData glowingStar = IconifyIconData.solo(
-    IconData(0xe3a2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3a3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `goat`
   static const IconifyIconData goat = IconifyIconData.solo(
-    IconData(0xe3a3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3a4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `goblin`
   static const IconifyIconData goblin = IconifyIconData.solo(
-    IconData(0xe3a4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3a5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `graduation-cap`
   static const IconifyIconData graduationCap = IconifyIconData.solo(
-    IconData(0xe3a5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3a6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `green-apple`
   static const IconifyIconData greenApple = IconifyIconData.solo(
-    IconData(0xe3a6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3a7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `green-book`
   static const IconifyIconData greenBook = IconifyIconData.solo(
-    IconData(0xe3a7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3a8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `green-heart`
   static const IconifyIconData greenHeart = IconifyIconData.solo(
-    IconData(0xe3a8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3a9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `green-salad`
   static const IconifyIconData greenSalad = IconifyIconData.solo(
-    IconData(0xe3a9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3aa, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `grimacing-face`
   static const IconifyIconData grimacingFace = IconifyIconData.solo(
-    IconData(0xe3aa, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ab, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `grinning-cat-face`
   static const IconifyIconData grinningCatFace = IconifyIconData.solo(
-    IconData(0xe3ab, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ac, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `grinning-cat-face-with-smiling-eyes`
   static const IconifyIconData grinningCatFaceWithSmilingEyes = IconifyIconData.solo(
-    IconData(0xe3ac, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ad, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `grinning-face`
   static const IconifyIconData grinningFace = IconifyIconData.solo(
-    IconData(0xe3ad, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ae, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `grinning-face-with-big-eyes`
   static const IconifyIconData grinningFaceWithBigEyes = IconifyIconData.solo(
-    IconData(0xe3ae, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3af, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `grinning-face-with-smiling-eyes`
   static const IconifyIconData grinningFaceWithSmilingEyes = IconifyIconData.solo(
-    IconData(0xe3af, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3b0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `grinning-face-with-sweat`
   static const IconifyIconData grinningFaceWithSweat = IconifyIconData.solo(
-    IconData(0xe3b0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3b1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `grinning-squinting-face`
   static const IconifyIconData grinningSquintingFace = IconifyIconData.solo(
-    IconData(0xe3b1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3b2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `growing-heart`
   static const IconifyIconData growingHeart = IconifyIconData.solo(
-    IconData(0xe3b2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3b3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `guard`
   static const IconifyIconData guard = IconifyIconData.solo(
-    IconData(0xe3b3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3b4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `guitar`
   static const IconifyIconData guitar = IconifyIconData.solo(
-    IconData(0xe3b4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3b5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hamburger`
   static const IconifyIconData hamburger = IconifyIconData.solo(
-    IconData(0xe3b5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3b6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hammer`
   static const IconifyIconData hammer = IconifyIconData.solo(
-    IconData(0xe3b6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3b7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hammer-and-pick`
   static const IconifyIconData hammerAndPick = IconifyIconData.solo(
-    IconData(0xe3b7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3b8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hamster`
   static const IconifyIconData hamster = IconifyIconData.solo(
-    IconData(0xe3b8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3b9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hamster-face`
   static const IconifyIconData hamsterFace = IconifyIconData.solo(
-    IconData(0xe3b9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ba, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hand-with-fingers-splayed`
   static const IconifyIconData handWithFingersSplayed = IconifyIconData.solo(
-    IconData(0xe3ba, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3bb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `handshake`
   static const IconifyIconData handshake = IconifyIconData.solo(
-    IconData(0xe3bb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3bc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hatching-chick`
   static const IconifyIconData hatchingChick = IconifyIconData.solo(
-    IconData(0xe3bc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3bd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `headphone`
   static const IconifyIconData headphone = IconifyIconData.solo(
-    IconData(0xe3bd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3be, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hear-no-evil-monkey`
   static const IconifyIconData hearNoEvilMonkey = IconifyIconData.solo(
-    IconData(0xe3be, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3bf, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `heart-decoration`
   static const IconifyIconData heartDecoration = IconifyIconData.solo(
-    IconData(0xe3bf, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3c0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `heart-suit`
   static const IconifyIconData heartSuit = IconifyIconData.solo(
-    IconData(0xe3c0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3c1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `heart-with-arrow`
   static const IconifyIconData heartWithArrow = IconifyIconData.solo(
-    IconData(0xe3c1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3c2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `heart-with-ribbon`
   static const IconifyIconData heartWithRibbon = IconifyIconData.solo(
-    IconData(0xe3c2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3c3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `heavy-check-mark`
   static const IconifyIconData heavyCheckMark = IconifyIconData.solo(
-    IconData(0xe3c3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3c4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `heavy-division-sign`
   static const IconifyIconData heavyDivisionSign = IconifyIconData.solo(
-    IconData(0xe3c4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3c5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `heavy-dollar-sign`
   static const IconifyIconData heavyDollarSign = IconifyIconData.solo(
-    IconData(0xe3c5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3c6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `heavy-heart-exclamation`
   static const IconifyIconData heavyHeartExclamation = IconifyIconData.solo(
-    IconData(0xe3c6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3c7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `heavy-large-circle`
   static const IconifyIconData heavyLargeCircle = IconifyIconData.solo(
-    IconData(0xe3c7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3c8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `heavy-minus-sign`
   static const IconifyIconData heavyMinusSign = IconifyIconData.solo(
-    IconData(0xe3c8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3c9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `heavy-multiplication-x`
   static const IconifyIconData heavyMultiplicationX = IconifyIconData.solo(
-    IconData(0xe3c9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ca, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `heavy-plus-sign`
   static const IconifyIconData heavyPlusSign = IconifyIconData.solo(
-    IconData(0xe3ca, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3cb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `herb`
   static const IconifyIconData herb = IconifyIconData.solo(
-    IconData(0xe3cb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3cc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hibiscus`
   static const IconifyIconData hibiscus = IconifyIconData.solo(
-    IconData(0xe3cc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3cd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `high-heeled-shoe`
   static const IconifyIconData highHeeledShoe = IconifyIconData.solo(
-    IconData(0xe3cd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ce, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `high-speed-train`
   static const IconifyIconData highSpeedTrain = IconifyIconData.solo(
-    IconData(0xe3ce, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3cf, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `high-speed-train-with-bullet-nose`
   static const IconifyIconData highSpeedTrainWithBulletNose = IconifyIconData.solo(
-    IconData(0xe3cf, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3d0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `high-voltage`
   static const IconifyIconData highVoltage = IconifyIconData.solo(
-    IconData(0xe3d0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3d1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hole`
   static const IconifyIconData hole = IconifyIconData.solo(
-    IconData(0xe3d1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3d2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hollow-red-circle`
   static const IconifyIconData hollowRedCircle = IconifyIconData.solo(
-    IconData(0xe3d2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3d3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `honey-pot`
   static const IconifyIconData honeyPot = IconifyIconData.solo(
-    IconData(0xe3d3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3d4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `honeybee`
   static const IconifyIconData honeybee = IconifyIconData.solo(
-    IconData(0xe3d4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3d5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `horizontal-traffic-light`
   static const IconifyIconData horizontalTrafficLight = IconifyIconData.solo(
-    IconData(0xe3d5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3d6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `horse`
   static const IconifyIconData horse = IconifyIconData.solo(
-    IconData(0xe3d6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3d7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `horse-face`
   static const IconifyIconData horseFace = IconifyIconData.solo(
-    IconData(0xe3d7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3d8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `horse-racing`
   static const IconifyIconData horseRacing = IconifyIconData.solo(
-    IconData(0xe3d8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3d9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hospital`
   static const IconifyIconData hospital = IconifyIconData.solo(
-    IconData(0xe3d9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3da, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hot-beverage`
   static const IconifyIconData hotBeverage = IconifyIconData.solo(
-    IconData(0xe3da, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3db, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hot-dog`
   static const IconifyIconData hotDog = IconifyIconData.solo(
-    IconData(0xe3db, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3dc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hot-pepper`
   static const IconifyIconData hotPepper = IconifyIconData.solo(
-    IconData(0xe3dc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3dd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hot-springs`
   static const IconifyIconData hotSprings = IconifyIconData.solo(
-    IconData(0xe3dd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3de, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hotel`
   static const IconifyIconData hotel = IconifyIconData.solo(
-    IconData(0xe3de, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3df, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hourglass`
   static const IconifyIconData hourglass = IconifyIconData.solo(
-    IconData(0xe3df, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3e0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hourglass-done`
   static const IconifyIconData hourglassDone = IconifyIconData.solo(
-    IconData(0xe3e0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3e1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hourglass-not-done`
   static const IconifyIconData hourglassNotDone = IconifyIconData.solo(
-    IconData(0xe3e1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3e2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hourglass-with-flowing-sand`
   static const IconifyIconData hourglassWithFlowingSand = IconifyIconData.solo(
-    IconData(0xe3e2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3e3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `house`
   static const IconifyIconData house = IconifyIconData.solo(
-    IconData(0xe3e3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3e4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `house-with-garden`
   static const IconifyIconData houseWithGarden = IconifyIconData.solo(
-    IconData(0xe3e4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3e5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `houses`
   static const IconifyIconData houses = IconifyIconData.solo(
-    IconData(0xe3e5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3e6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hugging-face`
   static const IconifyIconData huggingFace = IconifyIconData.solo(
-    IconData(0xe3e6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3e7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hundred-points`
   static const IconifyIconData hundredPoints = IconifyIconData.solo(
-    IconData(0xe3e7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3e8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `hushed-face`
   static const IconifyIconData hushedFace = IconifyIconData.solo(
-    IconData(0xe3e8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3e9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ice-cream`
   static const IconifyIconData iceCream = IconifyIconData.solo(
-    IconData(0xe3e9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ea, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ice-hockey`
   static const IconifyIconData iceHockey = IconifyIconData.solo(
-    IconData(0xe3ea, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3eb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ice-skate`
   static const IconifyIconData iceSkate = IconifyIconData.solo(
-    IconData(0xe3eb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ec, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `id-button`
   static const IconifyIconData idButton = IconifyIconData.solo(
-    IconData(0xe3ec, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ed, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `inbox-tray`
   static const IconifyIconData inboxTray = IconifyIconData.solo(
-    IconData(0xe3ed, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ee, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `incoming-envelope`
   static const IconifyIconData incomingEnvelope = IconifyIconData.solo(
-    IconData(0xe3ee, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ef, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `index-pointing-up`
   static const IconifyIconData indexPointingUp = IconifyIconData.solo(
-    IconData(0xe3ef, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3f0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `information`
   static const IconifyIconData information = IconifyIconData.solo(
-    IconData(0xe3f0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3f1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `input-latin-letters`
   static const IconifyIconData inputLatinLetters = IconifyIconData.solo(
-    IconData(0xe3f1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3f2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `input-latin-lowercase`
   static const IconifyIconData inputLatinLowercase = IconifyIconData.solo(
-    IconData(0xe3f2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3f3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `input-latin-uppercase`
   static const IconifyIconData inputLatinUppercase = IconifyIconData.solo(
-    IconData(0xe3f3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3f4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `input-numbers`
   static const IconifyIconData inputNumbers = IconifyIconData.solo(
-    IconData(0xe3f4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3f5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `input-symbols`
   static const IconifyIconData inputSymbols = IconifyIconData.solo(
-    IconData(0xe3f5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3f6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `jack-o-lantern`
   static const IconifyIconData jackOLantern = IconifyIconData.solo(
-    IconData(0xe3f6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3f7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-acceptable-button`
   static const IconifyIconData japaneseAcceptableButton = IconifyIconData.solo(
-    IconData(0xe3f7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3f8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-application-button`
   static const IconifyIconData japaneseApplicationButton = IconifyIconData.solo(
-    IconData(0xe3f8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3f9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-bargain-button`
   static const IconifyIconData japaneseBargainButton = IconifyIconData.solo(
-    IconData(0xe3f9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3fa, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-castle`
   static const IconifyIconData japaneseCastle = IconifyIconData.solo(
-    IconData(0xe3fa, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3fb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-congratulations-button`
   static const IconifyIconData japaneseCongratulationsButton = IconifyIconData.solo(
-    IconData(0xe3fb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3fc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-discount-button`
   static const IconifyIconData japaneseDiscountButton = IconifyIconData.solo(
-    IconData(0xe3fc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3fd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-dolls`
   static const IconifyIconData japaneseDolls = IconifyIconData.solo(
-    IconData(0xe3fd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3fe, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-free-of-charge-button`
   static const IconifyIconData japaneseFreeOfChargeButton = IconifyIconData.solo(
-    IconData(0xe3fe, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe3ff, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-here-button`
   static const IconifyIconData japaneseHereButton = IconifyIconData.solo(
-    IconData(0xe3ff, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe400, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-monthly-amount-button`
   static const IconifyIconData japaneseMonthlyAmountButton = IconifyIconData.solo(
-    IconData(0xe400, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe401, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-no-vacancy-button`
   static const IconifyIconData japaneseNoVacancyButton = IconifyIconData.solo(
-    IconData(0xe401, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe402, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-not-free-of-charge-button`
   static const IconifyIconData japaneseNotFreeOfChargeButton = IconifyIconData.solo(
-    IconData(0xe402, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe403, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-open-for-business-button`
   static const IconifyIconData japaneseOpenForBusinessButton = IconifyIconData.solo(
-    IconData(0xe403, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe404, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-passing-grade-button`
   static const IconifyIconData japanesePassingGradeButton = IconifyIconData.solo(
-    IconData(0xe404, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe405, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-post-office`
   static const IconifyIconData japanesePostOffice = IconifyIconData.solo(
-    IconData(0xe405, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe406, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-prohibited-button`
   static const IconifyIconData japaneseProhibitedButton = IconifyIconData.solo(
-    IconData(0xe406, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe407, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-reserved-button`
   static const IconifyIconData japaneseReservedButton = IconifyIconData.solo(
-    IconData(0xe407, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe408, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-secret-button`
   static const IconifyIconData japaneseSecretButton = IconifyIconData.solo(
-    IconData(0xe408, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe409, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-service-charge-button`
   static const IconifyIconData japaneseServiceChargeButton = IconifyIconData.solo(
-    IconData(0xe409, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe40a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-symbol-for-beginner`
   static const IconifyIconData japaneseSymbolForBeginner = IconifyIconData.solo(
-    IconData(0xe40a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe40b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `japanese-vacancy-button`
   static const IconifyIconData japaneseVacancyButton = IconifyIconData.solo(
-    IconData(0xe40b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe40c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `jeans`
   static const IconifyIconData jeans = IconifyIconData.solo(
-    IconData(0xe40c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe40d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `joker`
   static const IconifyIconData joker = IconifyIconData.solo(
-    IconData(0xe40d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe40e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kaaba`
   static const IconifyIconData kaaba = IconifyIconData.solo(
-    IconData(0xe40e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe40f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `key`
   static const IconifyIconData key = IconifyIconData.solo(
-    IconData(0xe40f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe410, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keyboard`
   static const IconifyIconData keyboard = IconifyIconData.solo(
-    IconData(0xe410, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe411, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-0`
   static const IconifyIconData keycap0 = IconifyIconData.solo(
-    IconData(0xe411, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe412, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-1`
   static const IconifyIconData keycap1 = IconifyIconData.solo(
-    IconData(0xe412, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe413, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-10`
   static const IconifyIconData keycap10 = IconifyIconData.solo(
-    IconData(0xe413, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe414, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-2`
   static const IconifyIconData keycap2 = IconifyIconData.solo(
-    IconData(0xe414, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe415, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-3`
   static const IconifyIconData keycap3 = IconifyIconData.solo(
-    IconData(0xe415, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe416, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-4`
   static const IconifyIconData keycap4 = IconifyIconData.solo(
-    IconData(0xe416, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe417, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-5`
   static const IconifyIconData keycap5 = IconifyIconData.solo(
-    IconData(0xe417, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe418, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-6`
   static const IconifyIconData keycap6 = IconifyIconData.solo(
-    IconData(0xe418, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe419, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-7`
   static const IconifyIconData keycap7 = IconifyIconData.solo(
-    IconData(0xe419, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe41a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-8`
   static const IconifyIconData keycap8 = IconifyIconData.solo(
-    IconData(0xe41a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe41b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-9`
   static const IconifyIconData keycap9 = IconifyIconData.solo(
-    IconData(0xe41b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe41c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-asterisk`
   static const IconifyIconData keycapAsterisk = IconifyIconData.solo(
-    IconData(0xe41c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe41d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `keycap-pound`
   static const IconifyIconData keycapPound = IconifyIconData.solo(
-    IconData(0xe41d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe41e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kick-scooter`
   static const IconifyIconData kickScooter = IconifyIconData.solo(
-    IconData(0xe41e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe41f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kimono`
   static const IconifyIconData kimono = IconifyIconData.solo(
-    IconData(0xe41f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe420, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kiss`
   static const IconifyIconData kiss = IconifyIconData.solo(
-    IconData(0xe420, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe421, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kiss-man-man`
   static const IconifyIconData kissManMan = IconifyIconData.solo(
-    IconData(0xe421, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe422, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kiss-mark`
   static const IconifyIconData kissMark = IconifyIconData.solo(
-    IconData(0xe422, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe423, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kiss-woman-woman`
   static const IconifyIconData kissWomanWoman = IconifyIconData.solo(
-    IconData(0xe423, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe424, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kissing-cat-face`
   static const IconifyIconData kissingCatFace = IconifyIconData.solo(
-    IconData(0xe424, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe425, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kissing-cat-face-with-closed-eyes`
   static const IconifyIconData kissingCatFaceWithClosedEyes = IconifyIconData.solo(
-    IconData(0xe425, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe426, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kissing-face`
   static const IconifyIconData kissingFace = IconifyIconData.solo(
-    IconData(0xe426, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe427, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kissing-face-with-closed-eyes`
   static const IconifyIconData kissingFaceWithClosedEyes = IconifyIconData.solo(
-    IconData(0xe427, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe428, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kissing-face-with-smiling-eyes`
   static const IconifyIconData kissingFaceWithSmilingEyes = IconifyIconData.solo(
-    IconData(0xe428, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe429, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kitchen-knife`
   static const IconifyIconData kitchenKnife = IconifyIconData.solo(
-    IconData(0xe429, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe42a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `kiwi-fruit`
   static const IconifyIconData kiwiFruit = IconifyIconData.solo(
-    IconData(0xe42a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe42b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `koala`
   static const IconifyIconData koala = IconifyIconData.solo(
-    IconData(0xe42b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe42c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `label`
   static const IconifyIconData label = IconifyIconData.solo(
-    IconData(0xe42c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe42d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `lady-beetle`
   static const IconifyIconData ladyBeetle = IconifyIconData.solo(
-    IconData(0xe42d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe42e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `laptop`
   static const IconifyIconData laptop = IconifyIconData.solo(
-    IconData(0xe42e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe42f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `laptop-computer`
   static const IconifyIconData laptopComputer = IconifyIconData.solo(
-    IconData(0xe42f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe430, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `large-blue-diamond`
   static const IconifyIconData largeBlueDiamond = IconifyIconData.solo(
-    IconData(0xe430, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe431, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `large-orange-diamond`
   static const IconifyIconData largeOrangeDiamond = IconifyIconData.solo(
-    IconData(0xe431, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe432, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `last-quarter-moon`
   static const IconifyIconData lastQuarterMoon = IconifyIconData.solo(
-    IconData(0xe432, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe433, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `last-quarter-moon-face`
   static const IconifyIconData lastQuarterMoonFace = IconifyIconData.solo(
-    IconData(0xe433, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe434, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `last-quarter-moon-with-face`
   static const IconifyIconData lastQuarterMoonWithFace = IconifyIconData.solo(
-    IconData(0xe434, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe435, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `last-track-button`
   static const IconifyIconData lastTrackButton = IconifyIconData.solo(
-    IconData(0xe435, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe436, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `latin-cross`
   static const IconifyIconData latinCross = IconifyIconData.solo(
-    IconData(0xe436, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe437, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `leaf-fluttering-in-wind`
   static const IconifyIconData leafFlutteringInWind = IconifyIconData.solo(
-    IconData(0xe437, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe438, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ledger`
   static const IconifyIconData ledger = IconifyIconData.solo(
-    IconData(0xe438, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe439, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `left-arrow`
   static const IconifyIconData leftArrow = IconifyIconData.solo(
-    IconData(0xe439, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe43a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `left-arrow-curving-right`
   static const IconifyIconData leftArrowCurvingRight = IconifyIconData.solo(
-    IconData(0xe43a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe43b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `left-facing-fist`
   static const IconifyIconData leftFacingFist = IconifyIconData.solo(
-    IconData(0xe43b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe43c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `left-luggage`
   static const IconifyIconData leftLuggage = IconifyIconData.solo(
-    IconData(0xe43c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe43d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `left-pointing-magnifying-glass`
   static const IconifyIconData leftPointingMagnifyingGlass = IconifyIconData.solo(
-    IconData(0xe43d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe43e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `left-right-arrow`
   static const IconifyIconData leftRightArrow = IconifyIconData.solo(
-    IconData(0xe43e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe43f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `left-speech-bubble`
   static const IconifyIconData leftSpeechBubble = IconifyIconData.solo(
-    IconData(0xe43f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe440, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `lemon`
   static const IconifyIconData lemon = IconifyIconData.solo(
-    IconData(0xe440, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe441, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `leo`
   static const IconifyIconData leo = IconifyIconData.solo(
-    IconData(0xe441, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe442, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `leopard`
   static const IconifyIconData leopard = IconifyIconData.solo(
-    IconData(0xe442, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe443, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-a`
   static const IconifyIconData letterA = IconifyIconData.solo(
-    IconData(0xe443, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe444, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-b`
   static const IconifyIconData letterB = IconifyIconData.solo(
-    IconData(0xe444, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe445, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-c`
   static const IconifyIconData letterC = IconifyIconData.solo(
-    IconData(0xe445, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe446, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-d`
   static const IconifyIconData letterD = IconifyIconData.solo(
-    IconData(0xe446, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe447, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-e`
   static const IconifyIconData letterE = IconifyIconData.solo(
-    IconData(0xe447, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe448, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-f`
   static const IconifyIconData letterF = IconifyIconData.solo(
-    IconData(0xe448, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe449, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-g`
   static const IconifyIconData letterG = IconifyIconData.solo(
-    IconData(0xe449, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe44a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-h`
   static const IconifyIconData letterH = IconifyIconData.solo(
-    IconData(0xe44a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe44b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-i`
   static const IconifyIconData letterI = IconifyIconData.solo(
-    IconData(0xe44b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe44c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-j`
   static const IconifyIconData letterJ = IconifyIconData.solo(
-    IconData(0xe44c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe44d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-k`
   static const IconifyIconData letterK = IconifyIconData.solo(
-    IconData(0xe44d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe44e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-l`
   static const IconifyIconData letterL = IconifyIconData.solo(
-    IconData(0xe44e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe44f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-m`
   static const IconifyIconData letterM = IconifyIconData.solo(
-    IconData(0xe44f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe450, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-n`
   static const IconifyIconData letterN = IconifyIconData.solo(
-    IconData(0xe450, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe451, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-o`
   static const IconifyIconData letterO = IconifyIconData.solo(
-    IconData(0xe451, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe452, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-p`
   static const IconifyIconData letterP = IconifyIconData.solo(
-    IconData(0xe452, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe453, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-q`
   static const IconifyIconData letterQ = IconifyIconData.solo(
-    IconData(0xe453, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe454, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-r`
   static const IconifyIconData letterR = IconifyIconData.solo(
-    IconData(0xe454, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe455, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-s`
   static const IconifyIconData letterS = IconifyIconData.solo(
-    IconData(0xe455, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe456, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-t`
   static const IconifyIconData letterT = IconifyIconData.solo(
-    IconData(0xe456, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe457, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-u`
   static const IconifyIconData letterU = IconifyIconData.solo(
-    IconData(0xe457, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe458, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-v`
   static const IconifyIconData letterV = IconifyIconData.solo(
-    IconData(0xe458, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe459, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-w`
   static const IconifyIconData letterW = IconifyIconData.solo(
-    IconData(0xe459, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe45a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-x`
   static const IconifyIconData letterX = IconifyIconData.solo(
-    IconData(0xe45a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe45b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-y`
   static const IconifyIconData letterY = IconifyIconData.solo(
-    IconData(0xe45b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe45c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `letter-z`
   static const IconifyIconData letterZ = IconifyIconData.solo(
-    IconData(0xe45c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe45d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `level-slider`
   static const IconifyIconData levelSlider = IconifyIconData.solo(
-    IconData(0xe45d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe45e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `libra`
   static const IconifyIconData libra = IconifyIconData.solo(
-    IconData(0xe45e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe45f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `light-rail`
   static const IconifyIconData lightRail = IconifyIconData.solo(
-    IconData(0xe45f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe460, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `link`
   static const IconifyIconData link = IconifyIconData.solo(
-    IconData(0xe460, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe461, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `linked-paperclips`
   static const IconifyIconData linkedPaperclips = IconifyIconData.solo(
-    IconData(0xe461, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe462, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `lion`
   static const IconifyIconData lion = IconifyIconData.solo(
-    IconData(0xe462, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe463, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `lion-face`
   static const IconifyIconData lionFace = IconifyIconData.solo(
-    IconData(0xe463, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe464, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `lipstick`
   static const IconifyIconData lipstick = IconifyIconData.solo(
-    IconData(0xe464, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe465, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `litter-in-bin-sign`
   static const IconifyIconData litterInBinSign = IconifyIconData.solo(
-    IconData(0xe465, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe466, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `lizard`
   static const IconifyIconData lizard = IconifyIconData.solo(
-    IconData(0xe466, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe467, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `locked`
   static const IconifyIconData locked = IconifyIconData.solo(
-    IconData(0xe467, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe468, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `locked-with-key`
   static const IconifyIconData lockedWithKey = IconifyIconData.solo(
-    IconData(0xe468, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe469, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `locked-with-pen`
   static const IconifyIconData lockedWithPen = IconifyIconData.solo(
-    IconData(0xe469, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe46a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `locomotive`
   static const IconifyIconData locomotive = IconifyIconData.solo(
-    IconData(0xe46a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe46b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `lollipop`
   static const IconifyIconData lollipop = IconifyIconData.solo(
-    IconData(0xe46b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe46c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `loudly-crying-face`
   static const IconifyIconData loudlyCryingFace = IconifyIconData.solo(
-    IconData(0xe46c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe46d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `loudspeaker`
   static const IconifyIconData loudspeaker = IconifyIconData.solo(
-    IconData(0xe46d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe46e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `love-hotel`
   static const IconifyIconData loveHotel = IconifyIconData.solo(
-    IconData(0xe46e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe46f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `love-letter`
   static const IconifyIconData loveLetter = IconifyIconData.solo(
-    IconData(0xe46f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe470, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `lying-face`
   static const IconifyIconData lyingFace = IconifyIconData.solo(
-    IconData(0xe470, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe471, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `magnifying-glass-tilted-left`
   static const IconifyIconData magnifyingGlassTiltedLeft = IconifyIconData.solo(
-    IconData(0xe471, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe472, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `magnifying-glass-tilted-right`
   static const IconifyIconData magnifyingGlassTiltedRight = IconifyIconData.solo(
-    IconData(0xe472, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe473, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mahjong-red-dragon`
   static const IconifyIconData mahjongRedDragon = IconifyIconData.solo(
-    IconData(0xe473, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe474, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `man`
   static const IconifyIconData man = IconifyIconData.solo(
-    IconData(0xe474, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe475, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `man-and-woman-holding-hands`
   static const IconifyIconData manAndWomanHoldingHands = IconifyIconData.solo(
-    IconData(0xe475, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe476, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `man-dancing`
   static const IconifyIconData manDancing = IconifyIconData.solo(
-    IconData(0xe476, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe477, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `man-in-business-suit-levitating`
   static const IconifyIconData manInBusinessSuitLevitating = IconifyIconData.solo(
-    IconData(0xe477, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe478, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `man-in-suit-levitating`
   static const IconifyIconData manInSuitLevitating = IconifyIconData.solo(
-    IconData(0xe478, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe479, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `man-in-tuxedo`
   static const IconifyIconData manInTuxedo = IconifyIconData.solo(
-    IconData(0xe479, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe47a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `man-with-chinese-cap`
   static const IconifyIconData manWithChineseCap = IconifyIconData.solo(
-    IconData(0xe47a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe47b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mans-shoe`
   static const IconifyIconData mansShoe = IconifyIconData.solo(
-    IconData(0xe47b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe47c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mantelpiece-clock`
   static const IconifyIconData mantelpieceClock = IconifyIconData.solo(
-    IconData(0xe47c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe47d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `map-of-japan`
   static const IconifyIconData mapOfJapan = IconifyIconData.solo(
-    IconData(0xe47d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe47e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `meat-on-bone`
   static const IconifyIconData meatOnBone = IconifyIconData.solo(
-    IconData(0xe47e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe47f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `melon`
   static const IconifyIconData melon = IconifyIconData.solo(
-    IconData(0xe47f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe480, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `memo`
   static const IconifyIconData memo = IconifyIconData.solo(
-    IconData(0xe480, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe481, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `menorah`
   static const IconifyIconData menorah = IconifyIconData.solo(
-    IconData(0xe481, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe482, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mens-room`
   static const IconifyIconData mensRoom = IconifyIconData.solo(
-    IconData(0xe482, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe483, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `metro`
   static const IconifyIconData metro = IconifyIconData.solo(
-    IconData(0xe483, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe484, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `microphone`
   static const IconifyIconData microphone = IconifyIconData.solo(
-    IconData(0xe484, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe485, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `microscope`
   static const IconifyIconData microscope = IconifyIconData.solo(
-    IconData(0xe485, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe486, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `middle-finger`
   static const IconifyIconData middleFinger = IconifyIconData.solo(
-    IconData(0xe486, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe487, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `military-medal`
   static const IconifyIconData militaryMedal = IconifyIconData.solo(
-    IconData(0xe487, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe488, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `milky-way`
   static const IconifyIconData milkyWay = IconifyIconData.solo(
-    IconData(0xe488, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe489, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `minibus`
   static const IconifyIconData minibus = IconifyIconData.solo(
-    IconData(0xe489, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe48a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `minus`
   static const IconifyIconData minus = IconifyIconData.solo(
-    IconData(0xe48a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe48b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `minus-sign`
   static const IconifyIconData minusSign = IconifyIconData.solo(
-    IconData(0xe48b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe48c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `moai`
   static const IconifyIconData moai = IconifyIconData.solo(
-    IconData(0xe48c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe48d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mobile-phone`
   static const IconifyIconData mobilePhone = IconifyIconData.solo(
-    IconData(0xe48d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe48e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mobile-phone-off`
   static const IconifyIconData mobilePhoneOff = IconifyIconData.solo(
-    IconData(0xe48e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe48f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mobile-phone-with-arrow`
   static const IconifyIconData mobilePhoneWithArrow = IconifyIconData.solo(
-    IconData(0xe48f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe490, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `money-bag`
   static const IconifyIconData moneyBag = IconifyIconData.solo(
-    IconData(0xe490, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe491, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `money-mouth-face`
   static const IconifyIconData moneyMouthFace = IconifyIconData.solo(
-    IconData(0xe491, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe492, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `money-with-wings`
   static const IconifyIconData moneyWithWings = IconifyIconData.solo(
-    IconData(0xe492, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe493, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `monkey`
   static const IconifyIconData monkey = IconifyIconData.solo(
-    IconData(0xe493, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe494, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `monkey-face`
   static const IconifyIconData monkeyFace = IconifyIconData.solo(
-    IconData(0xe494, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe495, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `monorail`
   static const IconifyIconData monorail = IconifyIconData.solo(
-    IconData(0xe495, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe496, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `moon-viewing-ceremony`
   static const IconifyIconData moonViewingCeremony = IconifyIconData.solo(
-    IconData(0xe496, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe497, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mosque`
   static const IconifyIconData mosque = IconifyIconData.solo(
-    IconData(0xe497, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe498, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `motor-boat`
   static const IconifyIconData motorBoat = IconifyIconData.solo(
-    IconData(0xe498, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe499, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `motor-scooter`
   static const IconifyIconData motorScooter = IconifyIconData.solo(
-    IconData(0xe499, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe49a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `motorcycle`
   static const IconifyIconData motorcycle = IconifyIconData.solo(
-    IconData(0xe49a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe49b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `motorway`
   static const IconifyIconData motorway = IconifyIconData.solo(
-    IconData(0xe49b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe49c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mount-fuji`
   static const IconifyIconData mountFuji = IconifyIconData.solo(
-    IconData(0xe49c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe49d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mountain`
   static const IconifyIconData mountain = IconifyIconData.solo(
-    IconData(0xe49d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe49e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mountain-cableway`
   static const IconifyIconData mountainCableway = IconifyIconData.solo(
-    IconData(0xe49e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe49f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mountain-railway`
   static const IconifyIconData mountainRailway = IconifyIconData.solo(
-    IconData(0xe49f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4a0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mouse`
   static const IconifyIconData mouse = IconifyIconData.solo(
-    IconData(0xe4a0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4a1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mouse-face`
   static const IconifyIconData mouseFace = IconifyIconData.solo(
-    IconData(0xe4a1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4a2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mouth`
   static const IconifyIconData mouth = IconifyIconData.solo(
-    IconData(0xe4a2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4a3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `movie-camera`
   static const IconifyIconData movieCamera = IconifyIconData.solo(
-    IconData(0xe4a3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4a4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mrs-claus`
   static const IconifyIconData mrsClaus = IconifyIconData.solo(
-    IconData(0xe4a4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4a5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `multiplication-sign`
   static const IconifyIconData multiplicationSign = IconifyIconData.solo(
-    IconData(0xe4a5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4a6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `multiply`
   static const IconifyIconData multiply = IconifyIconData.solo(
-    IconData(0xe4a6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4a7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `mushroom`
   static const IconifyIconData mushroom = IconifyIconData.solo(
-    IconData(0xe4a7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4a8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `musical-note`
   static const IconifyIconData musicalNote = IconifyIconData.solo(
-    IconData(0xe4a8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4a9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `musical-notes`
   static const IconifyIconData musicalNotes = IconifyIconData.solo(
-    IconData(0xe4a9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4aa, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `musical-score`
   static const IconifyIconData musicalScore = IconifyIconData.solo(
-    IconData(0xe4aa, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ab, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `muted-speaker`
   static const IconifyIconData mutedSpeaker = IconifyIconData.solo(
-    IconData(0xe4ab, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ac, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `nail-polish`
   static const IconifyIconData nailPolish = IconifyIconData.solo(
-    IconData(0xe4ac, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ad, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `name-badge`
   static const IconifyIconData nameBadge = IconifyIconData.solo(
-    IconData(0xe4ad, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ae, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `national-park`
   static const IconifyIconData nationalPark = IconifyIconData.solo(
-    IconData(0xe4ae, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4af, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `nauseated-face`
   static const IconifyIconData nauseatedFace = IconifyIconData.solo(
-    IconData(0xe4af, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4b0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `necktie`
   static const IconifyIconData necktie = IconifyIconData.solo(
-    IconData(0xe4b0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4b1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `nerd-face`
   static const IconifyIconData nerdFace = IconifyIconData.solo(
-    IconData(0xe4b1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4b2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `neutral-face`
   static const IconifyIconData neutralFace = IconifyIconData.solo(
-    IconData(0xe4b2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4b3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `new-button`
   static const IconifyIconData newButton = IconifyIconData.solo(
-    IconData(0xe4b3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4b4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `new-moon`
   static const IconifyIconData newMoon = IconifyIconData.solo(
-    IconData(0xe4b4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4b5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `new-moon-face`
   static const IconifyIconData newMoonFace = IconifyIconData.solo(
-    IconData(0xe4b5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4b6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `newspaper`
   static const IconifyIconData newspaper = IconifyIconData.solo(
-    IconData(0xe4b6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4b7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `next-track-button`
   static const IconifyIconData nextTrackButton = IconifyIconData.solo(
-    IconData(0xe4b7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4b8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ng-button`
   static const IconifyIconData ngButton = IconifyIconData.solo(
-    IconData(0xe4b8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4b9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `night-with-stars`
   static const IconifyIconData nightWithStars = IconifyIconData.solo(
-    IconData(0xe4b9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ba, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `nine-oclock`
   static const IconifyIconData nineOclock = IconifyIconData.solo(
-    IconData(0xe4ba, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4bb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `nine-thirty`
   static const IconifyIconData nineThirty = IconifyIconData.solo(
-    IconData(0xe4bb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4bc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `no-entry`
   static const IconifyIconData noEntry = IconifyIconData.solo(
-    IconData(0xe4bc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4bd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `no-littering`
   static const IconifyIconData noLittering = IconifyIconData.solo(
-    IconData(0xe4bd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4be, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `no-mobile-phones`
   static const IconifyIconData noMobilePhones = IconifyIconData.solo(
-    IconData(0xe4be, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4bf, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `no-one-under-eighteen`
   static const IconifyIconData noOneUnderEighteen = IconifyIconData.solo(
-    IconData(0xe4bf, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4c0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `no-pedestrians`
   static const IconifyIconData noPedestrians = IconifyIconData.solo(
-    IconData(0xe4c0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4c1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `no-smoking`
   static const IconifyIconData noSmoking = IconifyIconData.solo(
-    IconData(0xe4c1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4c2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `non-potable-water`
   static const IconifyIconData nonPotableWater = IconifyIconData.solo(
-    IconData(0xe4c2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4c3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `nose`
   static const IconifyIconData nose = IconifyIconData.solo(
-    IconData(0xe4c3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4c4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `notebook`
   static const IconifyIconData notebook = IconifyIconData.solo(
-    IconData(0xe4c4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4c5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `notebook-with-decorative-cover`
   static const IconifyIconData notebookWithDecorativeCover = IconifyIconData.solo(
-    IconData(0xe4c5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4c6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `nut-and-bolt`
   static const IconifyIconData nutAndBolt = IconifyIconData.solo(
-    IconData(0xe4c6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4c7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `o-button`
   static const IconifyIconData oButton = IconifyIconData.solo(
-    IconData(0xe4c7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4c8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `octopus`
   static const IconifyIconData octopus = IconifyIconData.solo(
-    IconData(0xe4c8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4c9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `oden`
   static const IconifyIconData oden = IconifyIconData.solo(
-    IconData(0xe4c9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ca, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `office-building`
   static const IconifyIconData officeBuilding = IconifyIconData.solo(
-    IconData(0xe4ca, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4cb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ogre`
   static const IconifyIconData ogre = IconifyIconData.solo(
-    IconData(0xe4cb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4cc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `oil-drum`
   static const IconifyIconData oilDrum = IconifyIconData.solo(
-    IconData(0xe4cc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4cd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ok-button`
   static const IconifyIconData okButton = IconifyIconData.solo(
-    IconData(0xe4cd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ce, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ok-hand`
   static const IconifyIconData okHand = IconifyIconData.solo(
-    IconData(0xe4ce, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4cf, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `old-key`
   static const IconifyIconData oldKey = IconifyIconData.solo(
-    IconData(0xe4cf, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4d0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `old-man`
   static const IconifyIconData oldMan = IconifyIconData.solo(
-    IconData(0xe4d0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4d1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `old-woman`
   static const IconifyIconData oldWoman = IconifyIconData.solo(
-    IconData(0xe4d1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4d2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `om`
   static const IconifyIconData om = IconifyIconData.solo(
-    IconData(0xe4d2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4d3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `on-arrow`
   static const IconifyIconData onArrow = IconifyIconData.solo(
-    IconData(0xe4d3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4d4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `oncoming-automobile`
   static const IconifyIconData oncomingAutomobile = IconifyIconData.solo(
-    IconData(0xe4d4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4d5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `oncoming-bus`
   static const IconifyIconData oncomingBus = IconifyIconData.solo(
-    IconData(0xe4d5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4d6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `oncoming-fist`
   static const IconifyIconData oncomingFist = IconifyIconData.solo(
-    IconData(0xe4d6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4d7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `oncoming-police-car`
   static const IconifyIconData oncomingPoliceCar = IconifyIconData.solo(
-    IconData(0xe4d7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4d8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `oncoming-taxi`
   static const IconifyIconData oncomingTaxi = IconifyIconData.solo(
-    IconData(0xe4d8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4d9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `one-oclock`
   static const IconifyIconData oneOclock = IconifyIconData.solo(
-    IconData(0xe4d9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4da, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `one-thirty`
   static const IconifyIconData oneThirty = IconifyIconData.solo(
-    IconData(0xe4da, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4db, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `open-book`
   static const IconifyIconData openBook = IconifyIconData.solo(
-    IconData(0xe4db, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4dc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `open-file-folder`
   static const IconifyIconData openFileFolder = IconifyIconData.solo(
-    IconData(0xe4dc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4dd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `open-hands`
   static const IconifyIconData openHands = IconifyIconData.solo(
-    IconData(0xe4dd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4de, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `open-mailbox-with-lowered-flag`
   static const IconifyIconData openMailboxWithLoweredFlag = IconifyIconData.solo(
-    IconData(0xe4de, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4df, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `open-mailbox-with-raised-flag`
   static const IconifyIconData openMailboxWithRaisedFlag = IconifyIconData.solo(
-    IconData(0xe4df, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4e0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ophiuchus`
   static const IconifyIconData ophiuchus = IconifyIconData.solo(
-    IconData(0xe4e0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4e1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `optical-disk`
   static const IconifyIconData opticalDisk = IconifyIconData.solo(
-    IconData(0xe4e1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4e2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `orange-book`
   static const IconifyIconData orangeBook = IconifyIconData.solo(
-    IconData(0xe4e2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4e3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `orthodox-cross`
   static const IconifyIconData orthodoxCross = IconifyIconData.solo(
-    IconData(0xe4e3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4e4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `outbox-tray`
   static const IconifyIconData outboxTray = IconifyIconData.solo(
-    IconData(0xe4e4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4e5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `owl`
   static const IconifyIconData owl = IconifyIconData.solo(
-    IconData(0xe4e5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4e6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ox`
   static const IconifyIconData ox = IconifyIconData.solo(
-    IconData(0xe4e6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4e7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `p-button`
   static const IconifyIconData pButton = IconifyIconData.solo(
-    IconData(0xe4e7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4e8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `package`
   static const IconifyIconData package = IconifyIconData.solo(
-    IconData(0xe4e8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4e9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `page-facing-up`
   static const IconifyIconData pageFacingUp = IconifyIconData.solo(
-    IconData(0xe4e9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ea, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `page-with-curl`
   static const IconifyIconData pageWithCurl = IconifyIconData.solo(
-    IconData(0xe4ea, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4eb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pager`
   static const IconifyIconData pager = IconifyIconData.solo(
-    IconData(0xe4eb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ec, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `paintbrush`
   static const IconifyIconData paintbrush = IconifyIconData.solo(
-    IconData(0xe4ec, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ed, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `palm-tree`
   static const IconifyIconData palmTree = IconifyIconData.solo(
-    IconData(0xe4ed, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ee, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pancakes`
   static const IconifyIconData pancakes = IconifyIconData.solo(
-    IconData(0xe4ee, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ef, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `panda`
   static const IconifyIconData panda = IconifyIconData.solo(
-    IconData(0xe4ef, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4f0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `panda-face`
   static const IconifyIconData pandaFace = IconifyIconData.solo(
-    IconData(0xe4f0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4f1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `part-alternation-mark`
   static const IconifyIconData partAlternationMark = IconifyIconData.solo(
-    IconData(0xe4f1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4f2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `party-popper`
   static const IconifyIconData partyPopper = IconifyIconData.solo(
-    IconData(0xe4f2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4f3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `passenger-ship`
   static const IconifyIconData passengerShip = IconifyIconData.solo(
-    IconData(0xe4f3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4f4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `passport-control`
   static const IconifyIconData passportControl = IconifyIconData.solo(
-    IconData(0xe4f4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4f5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pause-button`
   static const IconifyIconData pauseButton = IconifyIconData.solo(
-    IconData(0xe4f5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4f6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `paw-prints`
   static const IconifyIconData pawPrints = IconifyIconData.solo(
-    IconData(0xe4f6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4f7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `peace-symbol`
   static const IconifyIconData peaceSymbol = IconifyIconData.solo(
-    IconData(0xe4f7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4f8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `peach`
   static const IconifyIconData peach = IconifyIconData.solo(
-    IconData(0xe4f8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4f9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `peanuts`
   static const IconifyIconData peanuts = IconifyIconData.solo(
-    IconData(0xe4f9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4fa, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pear`
   static const IconifyIconData pear = IconifyIconData.solo(
-    IconData(0xe4fa, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4fb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pen`
   static const IconifyIconData pen = IconifyIconData.solo(
-    IconData(0xe4fb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4fc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pencil`
   static const IconifyIconData pencil = IconifyIconData.solo(
-    IconData(0xe4fc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4fd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `penguin`
   static const IconifyIconData penguin = IconifyIconData.solo(
-    IconData(0xe4fd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4fe, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pensive-face`
   static const IconifyIconData pensiveFace = IconifyIconData.solo(
-    IconData(0xe4fe, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe4ff, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `people-with-bunny-ears`
   static const IconifyIconData peopleWithBunnyEars = IconifyIconData.solo(
-    IconData(0xe4ff, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe500, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `people-with-bunny-ears-partying`
   static const IconifyIconData peopleWithBunnyEarsPartying = IconifyIconData.solo(
-    IconData(0xe500, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe501, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `performing-arts`
   static const IconifyIconData performingArts = IconifyIconData.solo(
-    IconData(0xe501, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe502, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `persevering-face`
   static const IconifyIconData perseveringFace = IconifyIconData.solo(
-    IconData(0xe502, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe503, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-biking`
   static const IconifyIconData personBiking = IconifyIconData.solo(
-    IconData(0xe503, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe504, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-bouncing-ball`
   static const IconifyIconData personBouncingBall = IconifyIconData.solo(
-    IconData(0xe504, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe505, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-bowing`
   static const IconifyIconData personBowing = IconifyIconData.solo(
-    IconData(0xe505, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe506, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-cartwheeling`
   static const IconifyIconData personCartwheeling = IconifyIconData.solo(
-    IconData(0xe506, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe507, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-facepalming`
   static const IconifyIconData personFacepalming = IconifyIconData.solo(
-    IconData(0xe507, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe508, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-frowning`
   static const IconifyIconData personFrowning = IconifyIconData.solo(
-    IconData(0xe508, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe509, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-gesturing-no`
   static const IconifyIconData personGesturingNo = IconifyIconData.solo(
-    IconData(0xe509, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe50a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-gesturing-ok`
   static const IconifyIconData personGesturingOk = IconifyIconData.solo(
-    IconData(0xe50a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe50b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-getting-haircut`
   static const IconifyIconData personGettingHaircut = IconifyIconData.solo(
-    IconData(0xe50b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe50c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-getting-massage`
   static const IconifyIconData personGettingMassage = IconifyIconData.solo(
-    IconData(0xe50c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe50d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-golfing`
   static const IconifyIconData personGolfing = IconifyIconData.solo(
-    IconData(0xe50d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe50e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-in-bed`
   static const IconifyIconData personInBed = IconifyIconData.solo(
-    IconData(0xe50e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe50f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-juggling`
   static const IconifyIconData personJuggling = IconifyIconData.solo(
-    IconData(0xe50f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe510, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-lifting-weights`
   static const IconifyIconData personLiftingWeights = IconifyIconData.solo(
-    IconData(0xe510, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe511, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-mountain-biking`
   static const IconifyIconData personMountainBiking = IconifyIconData.solo(
-    IconData(0xe511, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe512, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-playing-water-polo`
   static const IconifyIconData personPlayingWaterPolo = IconifyIconData.solo(
-    IconData(0xe512, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe513, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-pouting`
   static const IconifyIconData personPouting = IconifyIconData.solo(
-    IconData(0xe513, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe514, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-raising-hand`
   static const IconifyIconData personRaisingHand = IconifyIconData.solo(
-    IconData(0xe514, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe515, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-rowing-boat`
   static const IconifyIconData personRowingBoat = IconifyIconData.solo(
-    IconData(0xe515, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe516, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-running`
   static const IconifyIconData personRunning = IconifyIconData.solo(
-    IconData(0xe516, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe517, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-shrugging`
   static const IconifyIconData personShrugging = IconifyIconData.solo(
-    IconData(0xe517, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe518, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-surfing`
   static const IconifyIconData personSurfing = IconifyIconData.solo(
-    IconData(0xe518, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe519, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-swimming`
   static const IconifyIconData personSwimming = IconifyIconData.solo(
-    IconData(0xe519, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe51a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-taking-bath`
   static const IconifyIconData personTakingBath = IconifyIconData.solo(
-    IconData(0xe51a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe51b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-tipping-hand`
   static const IconifyIconData personTippingHand = IconifyIconData.solo(
-    IconData(0xe51b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe51c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-walking`
   static const IconifyIconData personWalking = IconifyIconData.solo(
-    IconData(0xe51c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe51d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `person-wearing-turban`
   static const IconifyIconData personWearingTurban = IconifyIconData.solo(
-    IconData(0xe51d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe51e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pick`
   static const IconifyIconData pick = IconifyIconData.solo(
-    IconData(0xe51e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe51f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pig`
   static const IconifyIconData pig = IconifyIconData.solo(
-    IconData(0xe51f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe520, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pig-face`
   static const IconifyIconData pigFace = IconifyIconData.solo(
-    IconData(0xe520, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe521, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pig-nose`
   static const IconifyIconData pigNose = IconifyIconData.solo(
-    IconData(0xe521, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe522, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pile-of-poo`
   static const IconifyIconData pileOfPoo = IconifyIconData.solo(
-    IconData(0xe522, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe523, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pill`
   static const IconifyIconData pill = IconifyIconData.solo(
-    IconData(0xe523, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe524, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pine-decoration`
   static const IconifyIconData pineDecoration = IconifyIconData.solo(
-    IconData(0xe524, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe525, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pineapple`
   static const IconifyIconData pineapple = IconifyIconData.solo(
-    IconData(0xe525, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe526, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ping-pong`
   static const IconifyIconData pingPong = IconifyIconData.solo(
-    IconData(0xe526, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe527, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pisces`
   static const IconifyIconData pisces = IconifyIconData.solo(
-    IconData(0xe527, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe528, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pistol`
   static const IconifyIconData pistol = IconifyIconData.solo(
-    IconData(0xe528, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe529, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pizza`
   static const IconifyIconData pizza = IconifyIconData.solo(
-    IconData(0xe529, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe52a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `play-button`
   static const IconifyIconData playButton = IconifyIconData.solo(
-    IconData(0xe52a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe52b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `play-or-pause-button`
   static const IconifyIconData playOrPauseButton = IconifyIconData.solo(
-    IconData(0xe52b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe52c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `plus`
   static const IconifyIconData plus = IconifyIconData.solo(
-    IconData(0xe52c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe52d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `plus-sign`
   static const IconifyIconData plusSign = IconifyIconData.solo(
-    IconData(0xe52d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe52e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `police-car`
   static const IconifyIconData policeCar = IconifyIconData.solo(
-    IconData(0xe52e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe52f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `police-car-light`
   static const IconifyIconData policeCarLight = IconifyIconData.solo(
-    IconData(0xe52f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe530, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `police-officer`
   static const IconifyIconData policeOfficer = IconifyIconData.solo(
-    IconData(0xe530, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe531, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `poodle`
   static const IconifyIconData poodle = IconifyIconData.solo(
-    IconData(0xe531, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe532, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pool-8-ball`
   static const IconifyIconData pool8Ball = IconifyIconData.solo(
-    IconData(0xe532, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe533, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `popcorn`
   static const IconifyIconData popcorn = IconifyIconData.solo(
-    IconData(0xe533, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe534, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `post-office`
   static const IconifyIconData postOffice = IconifyIconData.solo(
-    IconData(0xe534, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe535, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `postal-horn`
   static const IconifyIconData postalHorn = IconifyIconData.solo(
-    IconData(0xe535, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe536, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `postbox`
   static const IconifyIconData postbox = IconifyIconData.solo(
-    IconData(0xe536, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe537, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pot-of-food`
   static const IconifyIconData potOfFood = IconifyIconData.solo(
-    IconData(0xe537, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe538, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `potable-water`
   static const IconifyIconData potableWater = IconifyIconData.solo(
-    IconData(0xe538, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe539, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `potato`
   static const IconifyIconData potato = IconifyIconData.solo(
-    IconData(0xe539, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe53a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `poultry-leg`
   static const IconifyIconData poultryLeg = IconifyIconData.solo(
-    IconData(0xe53a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe53b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pound-banknote`
   static const IconifyIconData poundBanknote = IconifyIconData.solo(
-    IconData(0xe53b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe53c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pound-symbol`
   static const IconifyIconData poundSymbol = IconifyIconData.solo(
-    IconData(0xe53c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe53d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pouting-cat-face`
   static const IconifyIconData poutingCatFace = IconifyIconData.solo(
-    IconData(0xe53d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe53e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pouting-face`
   static const IconifyIconData poutingFace = IconifyIconData.solo(
-    IconData(0xe53e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe53f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `prayer-beads`
   static const IconifyIconData prayerBeads = IconifyIconData.solo(
-    IconData(0xe53f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe540, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pregnant-woman`
   static const IconifyIconData pregnantWoman = IconifyIconData.solo(
-    IconData(0xe540, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe541, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `prince`
   static const IconifyIconData prince = IconifyIconData.solo(
-    IconData(0xe541, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe542, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `princess`
   static const IconifyIconData princess = IconifyIconData.solo(
-    IconData(0xe542, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe543, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `printer`
   static const IconifyIconData printer = IconifyIconData.solo(
-    IconData(0xe543, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe544, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `prohibited`
   static const IconifyIconData prohibited = IconifyIconData.solo(
-    IconData(0xe544, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe545, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `purple-heart`
   static const IconifyIconData purpleHeart = IconifyIconData.solo(
-    IconData(0xe545, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe546, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `purse`
   static const IconifyIconData purse = IconifyIconData.solo(
-    IconData(0xe546, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe547, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `pushpin`
   static const IconifyIconData pushpin = IconifyIconData.solo(
-    IconData(0xe547, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe548, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `question-mark`
   static const IconifyIconData questionMark = IconifyIconData.solo(
-    IconData(0xe548, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe549, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rabbit-face`
   static const IconifyIconData rabbitFace = IconifyIconData.solo(
-    IconData(0xe549, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe54a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `racing-car`
   static const IconifyIconData racingCar = IconifyIconData.solo(
-    IconData(0xe54a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe54b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `radio`
   static const IconifyIconData radio = IconifyIconData.solo(
-    IconData(0xe54b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe54c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `radio-button`
   static const IconifyIconData radioButton = IconifyIconData.solo(
-    IconData(0xe54c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe54d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `radioactive`
   static const IconifyIconData radioactive = IconifyIconData.solo(
-    IconData(0xe54d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe54e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `railway-car`
   static const IconifyIconData railwayCar = IconifyIconData.solo(
-    IconData(0xe54e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe54f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `railway-track`
   static const IconifyIconData railwayTrack = IconifyIconData.solo(
-    IconData(0xe54f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe550, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rainbow`
   static const IconifyIconData rainbow = IconifyIconData.solo(
-    IconData(0xe550, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe551, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `raised-back-of-hand`
   static const IconifyIconData raisedBackOfHand = IconifyIconData.solo(
-    IconData(0xe551, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe552, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `raised-fist`
   static const IconifyIconData raisedFist = IconifyIconData.solo(
-    IconData(0xe552, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe553, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `raised-hand`
   static const IconifyIconData raisedHand = IconifyIconData.solo(
-    IconData(0xe553, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe554, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `raised-hand-with-fingers-splayed`
   static const IconifyIconData raisedHandWithFingersSplayed = IconifyIconData.solo(
-    IconData(0xe554, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe555, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `raising-hands`
   static const IconifyIconData raisingHands = IconifyIconData.solo(
-    IconData(0xe555, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe556, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ram`
   static const IconifyIconData ram = IconifyIconData.solo(
-    IconData(0xe556, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe557, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rat`
   static const IconifyIconData rat = IconifyIconData.solo(
-    IconData(0xe557, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe558, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `record-button`
   static const IconifyIconData recordButton = IconifyIconData.solo(
-    IconData(0xe558, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe559, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `recycling-symbol`
   static const IconifyIconData recyclingSymbol = IconifyIconData.solo(
-    IconData(0xe559, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe55a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `red-apple`
   static const IconifyIconData redApple = IconifyIconData.solo(
-    IconData(0xe55a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe55b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `red-circle`
   static const IconifyIconData redCircle = IconifyIconData.solo(
-    IconData(0xe55b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe55c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `red-heart`
   static const IconifyIconData redHeart = IconifyIconData.solo(
-    IconData(0xe55c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe55d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `red-paper-lantern`
   static const IconifyIconData redPaperLantern = IconifyIconData.solo(
-    IconData(0xe55d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe55e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `red-triangle-pointed-down`
   static const IconifyIconData redTrianglePointedDown = IconifyIconData.solo(
-    IconData(0xe55e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe55f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `red-triangle-pointed-up`
   static const IconifyIconData redTrianglePointedUp = IconifyIconData.solo(
-    IconData(0xe55f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe560, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `registered`
   static const IconifyIconData registered = IconifyIconData.solo(
-    IconData(0xe560, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe561, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `relieved-face`
   static const IconifyIconData relievedFace = IconifyIconData.solo(
-    IconData(0xe561, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe562, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `reminder-ribbon`
   static const IconifyIconData reminderRibbon = IconifyIconData.solo(
-    IconData(0xe562, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe563, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `repeat-button`
   static const IconifyIconData repeatButton = IconifyIconData.solo(
-    IconData(0xe563, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe564, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `repeat-single-button`
   static const IconifyIconData repeatSingleButton = IconifyIconData.solo(
-    IconData(0xe564, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe565, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rescue-workers-helmet`
   static const IconifyIconData rescueWorkersHelmet = IconifyIconData.solo(
-    IconData(0xe565, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe566, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `restroom`
   static const IconifyIconData restroom = IconifyIconData.solo(
-    IconData(0xe566, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe567, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `reverse-button`
   static const IconifyIconData reverseButton = IconifyIconData.solo(
-    IconData(0xe567, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe568, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `revolving-hearts`
   static const IconifyIconData revolvingHearts = IconifyIconData.solo(
-    IconData(0xe568, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe569, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rhinoceros`
   static const IconifyIconData rhinoceros = IconifyIconData.solo(
-    IconData(0xe569, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe56a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ribbon`
   static const IconifyIconData ribbon = IconifyIconData.solo(
-    IconData(0xe56a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe56b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rice-ball`
   static const IconifyIconData riceBall = IconifyIconData.solo(
-    IconData(0xe56b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe56c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rice-cracker`
   static const IconifyIconData riceCracker = IconifyIconData.solo(
-    IconData(0xe56c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe56d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `right-anger-bubble`
   static const IconifyIconData rightAngerBubble = IconifyIconData.solo(
-    IconData(0xe56d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe56e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `right-arrow`
   static const IconifyIconData rightArrow = IconifyIconData.solo(
-    IconData(0xe56e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe56f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `right-arrow-curving-down`
   static const IconifyIconData rightArrowCurvingDown = IconifyIconData.solo(
-    IconData(0xe56f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe570, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `right-arrow-curving-left`
   static const IconifyIconData rightArrowCurvingLeft = IconifyIconData.solo(
-    IconData(0xe570, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe571, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `right-arrow-curving-up`
   static const IconifyIconData rightArrowCurvingUp = IconifyIconData.solo(
-    IconData(0xe571, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe572, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `right-facing-fist`
   static const IconifyIconData rightFacingFist = IconifyIconData.solo(
-    IconData(0xe572, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe573, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `right-pointing-magnifying-glass`
   static const IconifyIconData rightPointingMagnifyingGlass = IconifyIconData.solo(
-    IconData(0xe573, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe574, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ring`
   static const IconifyIconData ring = IconifyIconData.solo(
-    IconData(0xe574, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe575, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `roasted-sweet-potato`
   static const IconifyIconData roastedSweetPotato = IconifyIconData.solo(
-    IconData(0xe575, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe576, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `robot-face`
   static const IconifyIconData robotFace = IconifyIconData.solo(
-    IconData(0xe576, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe577, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rocket`
   static const IconifyIconData rocket = IconifyIconData.solo(
-    IconData(0xe577, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe578, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rolled-up-newspaper`
   static const IconifyIconData rolledUpNewspaper = IconifyIconData.solo(
-    IconData(0xe578, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe579, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `roller-coaster`
   static const IconifyIconData rollerCoaster = IconifyIconData.solo(
-    IconData(0xe579, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe57a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rolling-on-the-floor-laughing`
   static const IconifyIconData rollingOnTheFloorLaughing = IconifyIconData.solo(
-    IconData(0xe57a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe57b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rooster`
   static const IconifyIconData rooster = IconifyIconData.solo(
-    IconData(0xe57b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe57c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rose`
   static const IconifyIconData rose = IconifyIconData.solo(
-    IconData(0xe57c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe57d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rosette`
   static const IconifyIconData rosette = IconifyIconData.solo(
-    IconData(0xe57d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe57e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `round-pushpin`
   static const IconifyIconData roundPushpin = IconifyIconData.solo(
-    IconData(0xe57e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe57f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `rugby-football`
   static const IconifyIconData rugbyFootball = IconifyIconData.solo(
-    IconData(0xe57f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe580, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `running-shirt`
   static const IconifyIconData runningShirt = IconifyIconData.solo(
-    IconData(0xe580, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe581, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sad-but-relieved-face`
   static const IconifyIconData sadButRelievedFace = IconifyIconData.solo(
-    IconData(0xe581, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe582, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sagittarius`
   static const IconifyIconData sagittarius = IconifyIconData.solo(
-    IconData(0xe582, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe583, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sailboat`
   static const IconifyIconData sailboat = IconifyIconData.solo(
-    IconData(0xe583, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe584, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sake`
   static const IconifyIconData sake = IconifyIconData.solo(
-    IconData(0xe584, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe585, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `santa-claus`
   static const IconifyIconData santaClaus = IconifyIconData.solo(
-    IconData(0xe585, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe586, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `satellite`
   static const IconifyIconData satellite = IconifyIconData.solo(
-    IconData(0xe586, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe587, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `satellite-antenna`
   static const IconifyIconData satelliteAntenna = IconifyIconData.solo(
-    IconData(0xe587, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe588, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `school`
   static const IconifyIconData school = IconifyIconData.solo(
-    IconData(0xe588, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe589, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `school-backpack`
   static const IconifyIconData schoolBackpack = IconifyIconData.solo(
-    IconData(0xe589, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe58a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `scorpio`
   static const IconifyIconData scorpio = IconifyIconData.solo(
-    IconData(0xe58a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe58b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `scorpion`
   static const IconifyIconData scorpion = IconifyIconData.solo(
-    IconData(0xe58b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe58c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `scorpius`
   static const IconifyIconData scorpius = IconifyIconData.solo(
-    IconData(0xe58c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe58d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `scroll`
   static const IconifyIconData scroll = IconifyIconData.solo(
-    IconData(0xe58d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe58e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `seat`
   static const IconifyIconData seat = IconifyIconData.solo(
-    IconData(0xe58e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe58f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `see-no-evil-monkey`
   static const IconifyIconData seeNoEvilMonkey = IconifyIconData.solo(
-    IconData(0xe58f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe590, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `seedling`
   static const IconifyIconData seedling = IconifyIconData.solo(
-    IconData(0xe590, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe591, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `seven-oclock`
   static const IconifyIconData sevenOclock = IconifyIconData.solo(
-    IconData(0xe591, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe592, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `seven-thirty`
   static const IconifyIconData sevenThirty = IconifyIconData.solo(
-    IconData(0xe592, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe593, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shallow-pan-of-food`
   static const IconifyIconData shallowPanOfFood = IconifyIconData.solo(
-    IconData(0xe593, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe594, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shamrock`
   static const IconifyIconData shamrock = IconifyIconData.solo(
-    IconData(0xe594, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe595, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shark`
   static const IconifyIconData shark = IconifyIconData.solo(
-    IconData(0xe595, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe596, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shaved-ice`
   static const IconifyIconData shavedIce = IconifyIconData.solo(
-    IconData(0xe596, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe597, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sheaf-of-rice`
   static const IconifyIconData sheafOfRice = IconifyIconData.solo(
-    IconData(0xe597, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe598, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shield`
   static const IconifyIconData shield = IconifyIconData.solo(
-    IconData(0xe598, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe599, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shinto-shrine`
   static const IconifyIconData shintoShrine = IconifyIconData.solo(
-    IconData(0xe599, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe59a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ship`
   static const IconifyIconData ship = IconifyIconData.solo(
-    IconData(0xe59a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe59b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shooting-star`
   static const IconifyIconData shootingStar = IconifyIconData.solo(
-    IconData(0xe59b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe59c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shopping-bags`
   static const IconifyIconData shoppingBags = IconifyIconData.solo(
-    IconData(0xe59c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe59d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shopping-cart`
   static const IconifyIconData shoppingCart = IconifyIconData.solo(
-    IconData(0xe59d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe59e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shortcake`
   static const IconifyIconData shortcake = IconifyIconData.solo(
-    IconData(0xe59e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe59f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shower`
   static const IconifyIconData shower = IconifyIconData.solo(
-    IconData(0xe59f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5a0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shrimp`
   static const IconifyIconData shrimp = IconifyIconData.solo(
-    IconData(0xe5a0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5a1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `shuffle-tracks-button`
   static const IconifyIconData shuffleTracksButton = IconifyIconData.solo(
-    IconData(0xe5a1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5a2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sign-of-the-horns`
   static const IconifyIconData signOfTheHorns = IconifyIconData.solo(
-    IconData(0xe5a2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5a3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `six-oclock`
   static const IconifyIconData sixOclock = IconifyIconData.solo(
-    IconData(0xe5a3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5a4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `six-thirty`
   static const IconifyIconData sixThirty = IconifyIconData.solo(
-    IconData(0xe5a4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5a5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `skier`
   static const IconifyIconData skier = IconifyIconData.solo(
-    IconData(0xe5a5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5a6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `skis`
   static const IconifyIconData skis = IconifyIconData.solo(
-    IconData(0xe5a6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5a7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `skull`
   static const IconifyIconData skull = IconifyIconData.solo(
-    IconData(0xe5a7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5a8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `skull-and-crossbones`
   static const IconifyIconData skullAndCrossbones = IconifyIconData.solo(
-    IconData(0xe5a8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5a9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sleeping-face`
   static const IconifyIconData sleepingFace = IconifyIconData.solo(
-    IconData(0xe5a9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5aa, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sleepy-face`
   static const IconifyIconData sleepyFace = IconifyIconData.solo(
-    IconData(0xe5aa, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ab, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `slightly-frowning-face`
   static const IconifyIconData slightlyFrowningFace = IconifyIconData.solo(
-    IconData(0xe5ab, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ac, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `slightly-smiling-face`
   static const IconifyIconData slightlySmilingFace = IconifyIconData.solo(
-    IconData(0xe5ac, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ad, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `slot-machine`
   static const IconifyIconData slotMachine = IconifyIconData.solo(
-    IconData(0xe5ad, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ae, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `small-blue-diamond`
   static const IconifyIconData smallBlueDiamond = IconifyIconData.solo(
-    IconData(0xe5ae, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5af, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `small-orange-diamond`
   static const IconifyIconData smallOrangeDiamond = IconifyIconData.solo(
-    IconData(0xe5af, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5b0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smiling-cat-face-with-heart-eyes`
   static const IconifyIconData smilingCatFaceWithHeartEyes = IconifyIconData.solo(
-    IconData(0xe5b0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5b1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smiling-cat-face-with-open-mouth`
   static const IconifyIconData smilingCatFaceWithOpenMouth = IconifyIconData.solo(
-    IconData(0xe5b1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5b2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smiling-face`
   static const IconifyIconData smilingFace = IconifyIconData.solo(
-    IconData(0xe5b2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5b3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smiling-face-with-halo`
   static const IconifyIconData smilingFaceWithHalo = IconifyIconData.solo(
-    IconData(0xe5b3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5b4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smiling-face-with-heart-eyes`
   static const IconifyIconData smilingFaceWithHeartEyes = IconifyIconData.solo(
-    IconData(0xe5b4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5b5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smiling-face-with-horns`
   static const IconifyIconData smilingFaceWithHorns = IconifyIconData.solo(
-    IconData(0xe5b5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5b6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smiling-face-with-open-mouth`
   static const IconifyIconData smilingFaceWithOpenMouth = IconifyIconData.solo(
-    IconData(0xe5b6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5b7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smiling-face-with-open-mouth-and-closed-eyes`
   static const IconifyIconData smilingFaceWithOpenMouthAndClosedEyes = IconifyIconData.solo(
-    IconData(0xe5b7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5b8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smiling-face-with-open-mouth-and-cold-sweat`
   static const IconifyIconData smilingFaceWithOpenMouthAndColdSweat = IconifyIconData.solo(
-    IconData(0xe5b8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5b9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smiling-face-with-open-mouth-and-smiling-eyes`
   static const IconifyIconData smilingFaceWithOpenMouthAndSmilingEyes = IconifyIconData.solo(
-    IconData(0xe5b9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ba, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smiling-face-with-smiling-eyes`
   static const IconifyIconData smilingFaceWithSmilingEyes = IconifyIconData.solo(
-    IconData(0xe5ba, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5bb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smiling-face-with-sunglasses`
   static const IconifyIconData smilingFaceWithSunglasses = IconifyIconData.solo(
-    IconData(0xe5bb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5bc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `smirking-face`
   static const IconifyIconData smirkingFace = IconifyIconData.solo(
-    IconData(0xe5bc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5bd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `snail`
   static const IconifyIconData snail = IconifyIconData.solo(
-    IconData(0xe5bd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5be, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `snake`
   static const IconifyIconData snake = IconifyIconData.solo(
-    IconData(0xe5be, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5bf, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sneezing-face`
   static const IconifyIconData sneezingFace = IconifyIconData.solo(
-    IconData(0xe5bf, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5c0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `snow-capped-mountain`
   static const IconifyIconData snowCappedMountain = IconifyIconData.solo(
-    IconData(0xe5c0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5c1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `snowboarder`
   static const IconifyIconData snowboarder = IconifyIconData.solo(
-    IconData(0xe5c1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5c2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `snowflake`
   static const IconifyIconData snowflake = IconifyIconData.solo(
-    IconData(0xe5c2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5c3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `snowman`
   static const IconifyIconData snowman = IconifyIconData.solo(
-    IconData(0xe5c3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5c4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `snowman-without-snow`
   static const IconifyIconData snowmanWithoutSnow = IconifyIconData.solo(
-    IconData(0xe5c4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5c5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `soft-ice-cream`
   static const IconifyIconData softIceCream = IconifyIconData.solo(
-    IconData(0xe5c5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5c6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `soon-arrow`
   static const IconifyIconData soonArrow = IconifyIconData.solo(
-    IconData(0xe5c6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5c7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sos-button`
   static const IconifyIconData sosButton = IconifyIconData.solo(
-    IconData(0xe5c7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5c8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `spade-suit`
   static const IconifyIconData spadeSuit = IconifyIconData.solo(
-    IconData(0xe5c8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5c9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `spaghetti`
   static const IconifyIconData spaghetti = IconifyIconData.solo(
-    IconData(0xe5c9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ca, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sparkle`
   static const IconifyIconData sparkle = IconifyIconData.solo(
-    IconData(0xe5ca, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5cb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sparkler`
   static const IconifyIconData sparkler = IconifyIconData.solo(
-    IconData(0xe5cb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5cc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sparkles`
   static const IconifyIconData sparkles = IconifyIconData.solo(
-    IconData(0xe5cc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5cd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sparkling-heart`
   static const IconifyIconData sparklingHeart = IconifyIconData.solo(
-    IconData(0xe5cd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ce, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `speak-no-evil-monkey`
   static const IconifyIconData speakNoEvilMonkey = IconifyIconData.solo(
-    IconData(0xe5ce, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5cf, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `speaker-high-volume`
   static const IconifyIconData speakerHighVolume = IconifyIconData.solo(
-    IconData(0xe5cf, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5d0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `speaker-low-volume`
   static const IconifyIconData speakerLowVolume = IconifyIconData.solo(
-    IconData(0xe5d0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5d1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `speaker-medium-volume`
   static const IconifyIconData speakerMediumVolume = IconifyIconData.solo(
-    IconData(0xe5d1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5d2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `speaking-head`
   static const IconifyIconData speakingHead = IconifyIconData.solo(
-    IconData(0xe5d2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5d3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `speech-balloon`
   static const IconifyIconData speechBalloon = IconifyIconData.solo(
-    IconData(0xe5d3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5d4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `speedboat`
   static const IconifyIconData speedboat = IconifyIconData.solo(
-    IconData(0xe5d4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5d5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `spider`
   static const IconifyIconData spider = IconifyIconData.solo(
-    IconData(0xe5d5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5d6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `spider-web`
   static const IconifyIconData spiderWeb = IconifyIconData.solo(
-    IconData(0xe5d6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5d7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `spiral-calendar`
   static const IconifyIconData spiralCalendar = IconifyIconData.solo(
-    IconData(0xe5d7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5d8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `spiral-notepad`
   static const IconifyIconData spiralNotepad = IconifyIconData.solo(
-    IconData(0xe5d8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5d9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `spiral-shell`
   static const IconifyIconData spiralShell = IconifyIconData.solo(
-    IconData(0xe5d9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5da, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `spoon`
   static const IconifyIconData spoon = IconifyIconData.solo(
-    IconData(0xe5da, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5db, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sport-utility-vehicle`
   static const IconifyIconData sportUtilityVehicle = IconifyIconData.solo(
-    IconData(0xe5db, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5dc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sports-medal`
   static const IconifyIconData sportsMedal = IconifyIconData.solo(
-    IconData(0xe5dc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5dd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `spouting-whale`
   static const IconifyIconData spoutingWhale = IconifyIconData.solo(
-    IconData(0xe5dd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5de, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `squid`
   static const IconifyIconData squid = IconifyIconData.solo(
-    IconData(0xe5de, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5df, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `squinting-face-with-tongue`
   static const IconifyIconData squintingFaceWithTongue = IconifyIconData.solo(
-    IconData(0xe5df, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5e0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `stadium`
   static const IconifyIconData stadium = IconifyIconData.solo(
-    IconData(0xe5e0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5e1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `star`
   static const IconifyIconData star = IconifyIconData.solo(
-    IconData(0xe5e1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5e2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `star-and-crescent`
   static const IconifyIconData starAndCrescent = IconifyIconData.solo(
-    IconData(0xe5e2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5e3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `star-of-david`
   static const IconifyIconData starOfDavid = IconifyIconData.solo(
-    IconData(0xe5e3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5e4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `station`
   static const IconifyIconData station = IconifyIconData.solo(
-    IconData(0xe5e4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5e5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `statue-of-liberty`
   static const IconifyIconData statueOfLiberty = IconifyIconData.solo(
-    IconData(0xe5e5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5e6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `steaming-bowl`
   static const IconifyIconData steamingBowl = IconifyIconData.solo(
-    IconData(0xe5e6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5e7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `stop-button`
   static const IconifyIconData stopButton = IconifyIconData.solo(
-    IconData(0xe5e7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5e8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `stop-sign`
   static const IconifyIconData stopSign = IconifyIconData.solo(
-    IconData(0xe5e8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5e9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `stopwatch`
   static const IconifyIconData stopwatch = IconifyIconData.solo(
-    IconData(0xe5e9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ea, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `straight-ruler`
   static const IconifyIconData straightRuler = IconifyIconData.solo(
-    IconData(0xe5ea, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5eb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `strawberry`
   static const IconifyIconData strawberry = IconifyIconData.solo(
-    IconData(0xe5eb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ec, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `studio-microphone`
   static const IconifyIconData studioMicrophone = IconifyIconData.solo(
-    IconData(0xe5ec, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ed, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sun`
   static const IconifyIconData sun = IconifyIconData.solo(
-    IconData(0xe5ed, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ee, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sun-behind-cloud`
   static const IconifyIconData sunBehindCloud = IconifyIconData.solo(
-    IconData(0xe5ee, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ef, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sun-behind-large-cloud`
   static const IconifyIconData sunBehindLargeCloud = IconifyIconData.solo(
-    IconData(0xe5ef, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5f0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sun-behind-rain-cloud`
   static const IconifyIconData sunBehindRainCloud = IconifyIconData.solo(
-    IconData(0xe5f0, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5f1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sun-behind-small-cloud`
   static const IconifyIconData sunBehindSmallCloud = IconifyIconData.solo(
-    IconData(0xe5f1, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5f2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sun-with-face`
   static const IconifyIconData sunWithFace = IconifyIconData.solo(
-    IconData(0xe5f2, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5f3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sunflower`
   static const IconifyIconData sunflower = IconifyIconData.solo(
-    IconData(0xe5f3, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5f4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sunglasses`
   static const IconifyIconData sunglasses = IconifyIconData.solo(
-    IconData(0xe5f4, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5f5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sunrise`
   static const IconifyIconData sunrise = IconifyIconData.solo(
-    IconData(0xe5f5, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5f6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sunrise-over-mountains`
   static const IconifyIconData sunriseOverMountains = IconifyIconData.solo(
-    IconData(0xe5f6, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5f7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sunset`
   static const IconifyIconData sunset = IconifyIconData.solo(
-    IconData(0xe5f7, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5f8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sushi`
   static const IconifyIconData sushi = IconifyIconData.solo(
-    IconData(0xe5f8, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5f9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `suspension-railway`
   static const IconifyIconData suspensionRailway = IconifyIconData.solo(
-    IconData(0xe5f9, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5fa, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `sweat-droplets`
   static const IconifyIconData sweatDroplets = IconifyIconData.solo(
-    IconData(0xe5fa, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5fb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `synagogue`
   static const IconifyIconData synagogue = IconifyIconData.solo(
-    IconData(0xe5fb, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5fc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `syringe`
   static const IconifyIconData syringe = IconifyIconData.solo(
-    IconData(0xe5fc, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5fd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `t-shirt`
   static const IconifyIconData tShirt = IconifyIconData.solo(
-    IconData(0xe5fd, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5fe, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `taco`
   static const IconifyIconData taco = IconifyIconData.solo(
-    IconData(0xe5fe, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe5ff, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tanabata-tree`
   static const IconifyIconData tanabataTree = IconifyIconData.solo(
-    IconData(0xe5ff, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe600, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tangerine`
   static const IconifyIconData tangerine = IconifyIconData.solo(
-    IconData(0xe600, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe601, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `taurus`
   static const IconifyIconData taurus = IconifyIconData.solo(
-    IconData(0xe601, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe602, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `taxi`
   static const IconifyIconData taxi = IconifyIconData.solo(
-    IconData(0xe602, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe603, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `teacup-without-handle`
   static const IconifyIconData teacupWithoutHandle = IconifyIconData.solo(
-    IconData(0xe603, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe604, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tear-off-calendar`
   static const IconifyIconData tearOffCalendar = IconifyIconData.solo(
-    IconData(0xe604, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe605, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `telephone`
   static const IconifyIconData telephone = IconifyIconData.solo(
-    IconData(0xe605, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe606, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `telephone-receiver`
   static const IconifyIconData telephoneReceiver = IconifyIconData.solo(
-    IconData(0xe606, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe607, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `telescope`
   static const IconifyIconData telescope = IconifyIconData.solo(
-    IconData(0xe607, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe608, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `television`
   static const IconifyIconData television = IconifyIconData.solo(
-    IconData(0xe608, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe609, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ten-oclock`
   static const IconifyIconData tenOclock = IconifyIconData.solo(
-    IconData(0xe609, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe60a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ten-thirty`
   static const IconifyIconData tenThirty = IconifyIconData.solo(
-    IconData(0xe60a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe60b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tennis`
   static const IconifyIconData tennis = IconifyIconData.solo(
-    IconData(0xe60b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe60c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tent`
   static const IconifyIconData tent = IconifyIconData.solo(
-    IconData(0xe60c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe60d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `thermometer`
   static const IconifyIconData thermometer = IconifyIconData.solo(
-    IconData(0xe60d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe60e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `thinking-face`
   static const IconifyIconData thinkingFace = IconifyIconData.solo(
-    IconData(0xe60e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe60f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `thought-balloon`
   static const IconifyIconData thoughtBalloon = IconifyIconData.solo(
-    IconData(0xe60f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe610, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `three-oclock`
   static const IconifyIconData threeOclock = IconifyIconData.solo(
-    IconData(0xe610, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe611, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `three-thirty`
   static const IconifyIconData threeThirty = IconifyIconData.solo(
-    IconData(0xe611, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe612, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `thumbs-down`
   static const IconifyIconData thumbsDown = IconifyIconData.solo(
-    IconData(0xe612, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe613, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `thumbs-up`
   static const IconifyIconData thumbsUp = IconifyIconData.solo(
-    IconData(0xe613, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe614, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `ticket`
   static const IconifyIconData ticket = IconifyIconData.solo(
-    IconData(0xe614, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe615, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tiger`
   static const IconifyIconData tiger = IconifyIconData.solo(
-    IconData(0xe615, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe616, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tiger-face`
   static const IconifyIconData tigerFace = IconifyIconData.solo(
-    IconData(0xe616, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe617, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `timer-clock`
   static const IconifyIconData timerClock = IconifyIconData.solo(
-    IconData(0xe617, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe618, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tired-face`
   static const IconifyIconData tiredFace = IconifyIconData.solo(
-    IconData(0xe618, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe619, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `toilet`
   static const IconifyIconData toilet = IconifyIconData.solo(
-    IconData(0xe619, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe61a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tokyo-tower`
   static const IconifyIconData tokyoTower = IconifyIconData.solo(
-    IconData(0xe61a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe61b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tomato`
   static const IconifyIconData tomato = IconifyIconData.solo(
-    IconData(0xe61b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe61c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tongue`
   static const IconifyIconData tongue = IconifyIconData.solo(
-    IconData(0xe61c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe61d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `top-arrow`
   static const IconifyIconData topArrow = IconifyIconData.solo(
-    IconData(0xe61d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe61e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `top-hat`
   static const IconifyIconData topHat = IconifyIconData.solo(
-    IconData(0xe61e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe61f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tornado`
   static const IconifyIconData tornado = IconifyIconData.solo(
-    IconData(0xe61f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe620, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `trackball`
   static const IconifyIconData trackball = IconifyIconData.solo(
-    IconData(0xe620, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe621, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tractor`
   static const IconifyIconData tractor = IconifyIconData.solo(
-    IconData(0xe621, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe622, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `trade-mark`
   static const IconifyIconData tradeMark = IconifyIconData.solo(
-    IconData(0xe622, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe623, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `train`
   static const IconifyIconData train = IconifyIconData.solo(
-    IconData(0xe623, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe624, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tram`
   static const IconifyIconData tram = IconifyIconData.solo(
-    IconData(0xe624, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe625, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tram-car`
   static const IconifyIconData tramCar = IconifyIconData.solo(
-    IconData(0xe625, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe626, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `triangular-ruler`
   static const IconifyIconData triangularRuler = IconifyIconData.solo(
-    IconData(0xe626, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe627, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `trident-emblem`
   static const IconifyIconData tridentEmblem = IconifyIconData.solo(
-    IconData(0xe627, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe628, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `trolleybus`
   static const IconifyIconData trolleybus = IconifyIconData.solo(
-    IconData(0xe628, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe629, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `trophy`
   static const IconifyIconData trophy = IconifyIconData.solo(
-    IconData(0xe629, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe62a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tropical-drink`
   static const IconifyIconData tropicalDrink = IconifyIconData.solo(
-    IconData(0xe62a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe62b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tropical-fish`
   static const IconifyIconData tropicalFish = IconifyIconData.solo(
-    IconData(0xe62b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe62c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `trumpet`
   static const IconifyIconData trumpet = IconifyIconData.solo(
-    IconData(0xe62c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe62d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tulip`
   static const IconifyIconData tulip = IconifyIconData.solo(
-    IconData(0xe62d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe62e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `tumbler-glass`
   static const IconifyIconData tumblerGlass = IconifyIconData.solo(
-    IconData(0xe62e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe62f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `turkey`
   static const IconifyIconData turkey = IconifyIconData.solo(
-    IconData(0xe62f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe630, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `turtle`
   static const IconifyIconData turtle = IconifyIconData.solo(
-    IconData(0xe630, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe631, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `twelve-oclock`
   static const IconifyIconData twelveOclock = IconifyIconData.solo(
-    IconData(0xe631, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe632, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `twelve-thirty`
   static const IconifyIconData twelveThirty = IconifyIconData.solo(
-    IconData(0xe632, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe633, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `two-hearts`
   static const IconifyIconData twoHearts = IconifyIconData.solo(
-    IconData(0xe633, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe634, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `two-hump-camel`
   static const IconifyIconData twoHumpCamel = IconifyIconData.solo(
-    IconData(0xe634, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe635, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `two-men-holding-hands`
   static const IconifyIconData twoMenHoldingHands = IconifyIconData.solo(
-    IconData(0xe635, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe636, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `two-oclock`
   static const IconifyIconData twoOclock = IconifyIconData.solo(
-    IconData(0xe636, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe637, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `two-thirty`
   static const IconifyIconData twoThirty = IconifyIconData.solo(
-    IconData(0xe637, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe638, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `two-women-holding-hands`
   static const IconifyIconData twoWomenHoldingHands = IconifyIconData.solo(
-    IconData(0xe638, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe639, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `umbrella`
   static const IconifyIconData umbrella = IconifyIconData.solo(
-    IconData(0xe639, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe63a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `umbrella-on-ground`
   static const IconifyIconData umbrellaOnGround = IconifyIconData.solo(
-    IconData(0xe63a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe63b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `umbrella-with-rain-drops`
   static const IconifyIconData umbrellaWithRainDrops = IconifyIconData.solo(
-    IconData(0xe63b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe63c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `unamused-face`
   static const IconifyIconData unamusedFace = IconifyIconData.solo(
-    IconData(0xe63c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe63d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `unicorn`
   static const IconifyIconData unicorn = IconifyIconData.solo(
-    IconData(0xe63d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe63e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `unicorn-face`
   static const IconifyIconData unicornFace = IconifyIconData.solo(
-    IconData(0xe63e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe63f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `unlocked`
   static const IconifyIconData unlocked = IconifyIconData.solo(
-    IconData(0xe63f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe640, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `up-arrow`
   static const IconifyIconData upArrow = IconifyIconData.solo(
-    IconData(0xe640, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe641, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `up-button`
   static const IconifyIconData upButton = IconifyIconData.solo(
-    IconData(0xe641, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe642, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `up-down-arrow`
   static const IconifyIconData upDownArrow = IconifyIconData.solo(
-    IconData(0xe642, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe643, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `up-left-arrow`
   static const IconifyIconData upLeftArrow = IconifyIconData.solo(
-    IconData(0xe643, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe644, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `up-right-arrow`
   static const IconifyIconData upRightArrow = IconifyIconData.solo(
-    IconData(0xe644, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe645, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `up-text-button`
   static const IconifyIconData upTextButton = IconifyIconData.solo(
-    IconData(0xe645, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe646, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `upside-down-face`
   static const IconifyIconData upsideDownFace = IconifyIconData.solo(
-    IconData(0xe646, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe647, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `upwards-button`
   static const IconifyIconData upwardsButton = IconifyIconData.solo(
-    IconData(0xe647, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe648, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `vertical-traffic-light`
   static const IconifyIconData verticalTrafficLight = IconifyIconData.solo(
-    IconData(0xe648, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe649, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `vibration-mode`
   static const IconifyIconData vibrationMode = IconifyIconData.solo(
-    IconData(0xe649, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe64a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `victory-hand`
   static const IconifyIconData victoryHand = IconifyIconData.solo(
-    IconData(0xe64a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe64b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `video-camera`
   static const IconifyIconData videoCamera = IconifyIconData.solo(
-    IconData(0xe64b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe64c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `video-game`
   static const IconifyIconData videoGame = IconifyIconData.solo(
-    IconData(0xe64c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe64d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `videocassette`
   static const IconifyIconData videocassette = IconifyIconData.solo(
-    IconData(0xe64d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe64e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `violin`
   static const IconifyIconData violin = IconifyIconData.solo(
-    IconData(0xe64e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe64f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `virgo`
   static const IconifyIconData virgo = IconifyIconData.solo(
-    IconData(0xe64f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe650, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `volcano`
   static const IconifyIconData volcano = IconifyIconData.solo(
-    IconData(0xe650, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe651, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `volleyball`
   static const IconifyIconData volleyball = IconifyIconData.solo(
-    IconData(0xe651, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe652, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `vs-button`
   static const IconifyIconData vsButton = IconifyIconData.solo(
-    IconData(0xe652, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe653, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `vulcan-salute`
   static const IconifyIconData vulcanSalute = IconifyIconData.solo(
-    IconData(0xe653, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe654, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `waning-crescent-moon`
   static const IconifyIconData waningCrescentMoon = IconifyIconData.solo(
-    IconData(0xe654, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe655, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `waning-gibbous-moon`
   static const IconifyIconData waningGibbousMoon = IconifyIconData.solo(
-    IconData(0xe655, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe656, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `warning`
   static const IconifyIconData warning = IconifyIconData.solo(
-    IconData(0xe656, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe657, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `wastebasket`
   static const IconifyIconData wastebasket = IconifyIconData.solo(
-    IconData(0xe657, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe658, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `watch`
   static const IconifyIconData watch = IconifyIconData.solo(
-    IconData(0xe658, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe659, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `water-buffalo`
   static const IconifyIconData waterBuffalo = IconifyIconData.solo(
-    IconData(0xe659, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe65a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `water-closet`
   static const IconifyIconData waterCloset = IconifyIconData.solo(
-    IconData(0xe65a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe65b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `water-wave`
   static const IconifyIconData waterWave = IconifyIconData.solo(
-    IconData(0xe65b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe65c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `watermelon`
   static const IconifyIconData watermelon = IconifyIconData.solo(
-    IconData(0xe65c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe65d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `waving-hand`
   static const IconifyIconData wavingHand = IconifyIconData.solo(
-    IconData(0xe65d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe65e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `wavy-dash`
   static const IconifyIconData wavyDash = IconifyIconData.solo(
-    IconData(0xe65e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe65f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `waxing-crescent-moon`
   static const IconifyIconData waxingCrescentMoon = IconifyIconData.solo(
-    IconData(0xe65f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe660, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `waxing-gibbous-moon`
   static const IconifyIconData waxingGibbousMoon = IconifyIconData.solo(
-    IconData(0xe660, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe661, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `weary-cat-face`
   static const IconifyIconData wearyCatFace = IconifyIconData.solo(
-    IconData(0xe661, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe662, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `weary-face`
   static const IconifyIconData wearyFace = IconifyIconData.solo(
-    IconData(0xe662, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe663, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `wedding`
   static const IconifyIconData wedding = IconifyIconData.solo(
-    IconData(0xe663, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe664, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `whale`
   static const IconifyIconData whale = IconifyIconData.solo(
-    IconData(0xe664, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe665, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `wheel-of-dharma`
   static const IconifyIconData wheelOfDharma = IconifyIconData.solo(
-    IconData(0xe665, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe666, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `wheelchair-symbol`
   static const IconifyIconData wheelchairSymbol = IconifyIconData.solo(
-    IconData(0xe666, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe667, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `white-circle`
   static const IconifyIconData whiteCircle = IconifyIconData.solo(
-    IconData(0xe667, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe668, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `white-exclamation-mark`
   static const IconifyIconData whiteExclamationMark = IconifyIconData.solo(
-    IconData(0xe668, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe669, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `white-flower`
   static const IconifyIconData whiteFlower = IconifyIconData.solo(
-    IconData(0xe669, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe66a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `white-heavy-check-mark`
   static const IconifyIconData whiteHeavyCheckMark = IconifyIconData.solo(
-    IconData(0xe66a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe66b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `white-large-square`
   static const IconifyIconData whiteLargeSquare = IconifyIconData.solo(
-    IconData(0xe66b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe66c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `white-medium-small-square`
   static const IconifyIconData whiteMediumSmallSquare = IconifyIconData.solo(
-    IconData(0xe66c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe66d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `white-medium-square`
   static const IconifyIconData whiteMediumSquare = IconifyIconData.solo(
-    IconData(0xe66d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe66e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `white-medium-star`
   static const IconifyIconData whiteMediumStar = IconifyIconData.solo(
-    IconData(0xe66e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe66f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `white-question-mark`
   static const IconifyIconData whiteQuestionMark = IconifyIconData.solo(
-    IconData(0xe66f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe670, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `white-small-square`
   static const IconifyIconData whiteSmallSquare = IconifyIconData.solo(
-    IconData(0xe670, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe671, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `white-square-button`
   static const IconifyIconData whiteSquareButton = IconifyIconData.solo(
-    IconData(0xe671, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe672, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `wilted-flower`
   static const IconifyIconData wiltedFlower = IconifyIconData.solo(
-    IconData(0xe672, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe673, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `wind-chime`
   static const IconifyIconData windChime = IconifyIconData.solo(
-    IconData(0xe673, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe674, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `wine-glass`
   static const IconifyIconData wineGlass = IconifyIconData.solo(
-    IconData(0xe674, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe675, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `winking-face`
   static const IconifyIconData winkingFace = IconifyIconData.solo(
-    IconData(0xe675, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe676, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `winking-face-with-tongue`
   static const IconifyIconData winkingFaceWithTongue = IconifyIconData.solo(
-    IconData(0xe676, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe677, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `wolf`
   static const IconifyIconData wolf = IconifyIconData.solo(
-    IconData(0xe677, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe678, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `wolf-face`
   static const IconifyIconData wolfFace = IconifyIconData.solo(
-    IconData(0xe678, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe679, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `woman`
   static const IconifyIconData woman = IconifyIconData.solo(
-    IconData(0xe679, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe67a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `woman-dancing`
   static const IconifyIconData womanDancing = IconifyIconData.solo(
-    IconData(0xe67a, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe67b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `womans-boot`
   static const IconifyIconData womansBoot = IconifyIconData.solo(
-    IconData(0xe67b, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe67c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `womans-clothes`
   static const IconifyIconData womansClothes = IconifyIconData.solo(
-    IconData(0xe67c, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe67d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `womans-hat`
   static const IconifyIconData womansHat = IconifyIconData.solo(
-    IconData(0xe67d, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe67e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `womans-sandal`
   static const IconifyIconData womansSandal = IconifyIconData.solo(
-    IconData(0xe67e, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe67f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `womens-room`
   static const IconifyIconData womensRoom = IconifyIconData.solo(
-    IconData(0xe67f, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe680, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `world-map`
   static const IconifyIconData worldMap = IconifyIconData.solo(
-    IconData(0xe680, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe681, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `worried-face`
   static const IconifyIconData worriedFace = IconifyIconData.solo(
-    IconData(0xe681, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe682, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `wrench`
   static const IconifyIconData wrench = IconifyIconData.solo(
-    IconData(0xe682, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe683, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `writing-hand`
   static const IconifyIconData writingHand = IconifyIconData.solo(
-    IconData(0xe683, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe684, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `yellow-heart`
   static const IconifyIconData yellowHeart = IconifyIconData.solo(
-    IconData(0xe684, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe685, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `yen-banknote`
   static const IconifyIconData yenBanknote = IconifyIconData.solo(
-    IconData(0xe685, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe686, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `yin-yang`
   static const IconifyIconData yinYang = IconifyIconData.solo(
-    IconData(0xe686, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe687, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `zipper-mouth-face`
   static const IconifyIconData zipperMouthFace = IconifyIconData.solo(
-    IconData(0xe687, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe688, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `zzz`
   static const IconifyIconData zzz = IconifyIconData.solo(
-    IconData(0xe688, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+    IconData(0xe689, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
 }

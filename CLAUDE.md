@@ -26,7 +26,9 @@ icons/
     └── config.yaml                     # exclusions + display category aliases
 ```
 
-**One package per Iconify set.** This is the key design decision (revised 2026-05-13 after the previous category-grouped layout): an app that depends only on `iconifyx_mdi` and `iconifyx_lucide` bundles exactly those two sets' fonts (~2 MB pre-shake) — not every Iconify set. The earlier 5-sub-package layout bundled tens of MB of unused fonts for any single use of one icon.
+**One package per Iconify set.** This is the key design decision (revised 2026-05-13 after the previous category-grouped layout): an app that depends only on `iconifyx_mdi` and `iconifyx_lucide` bundles exactly those two sets' fonts — not every Iconify set. The earlier 5-sub-package layout bundled tens of MB of unused fonts for any single use of one icon.
+
+**Per-pack single-TTF (§32 fix, 2026-05-16):** every pack ships exactly ONE primary TTF (plus one Secondary TTF for duotone packs). Multi-sibling auto-split (`Mdi.ttf` + `Mdi_2.ttf` + `Mdi_3.ttf`) is collapsed mid-pipeline into a single TTF using cmap format 12 + supp PUA. **Empirically verified bundle size**: 10 packs × 5 icons each = 50 icons → **17.66 KB total fonts** in macOS release. Tree-shake works end-to-end with zero consumer action. See invariant #4 below.
 
 ## Critical invariants — do not break
 
@@ -148,11 +150,23 @@ render layer, no Stack overhead. See [packages/iconifyx_core/lib/src/iconify_ico
 
 **These files are committed to git.** Never delete or hand-edit them. The codepoint allocator (`tools/generator/src/codepoint_allocator.ts`) preserves every existing assignment verbatim, then appends new icons. Deleting a manifest re-runs allocation from scratch, which would shift every existing codepoint and break consumers' built apps.
 
-### 4. `svgicons2svgfont` is BMP-only; sets >6000 icons auto-split.
+### 4. One TTF per pack via cmap format 12 (BMP + supp PUA).
 
-The OpenType cmap format 4 used internally is 16-bit. Sets that have more than 6000 live icons get split into multiple TTFs (`Mdi.ttf`, `Mdi_2.ttf`, `Mdi_3.ttf`, …), each within BMP PUA. The split is automatic in `codepoint_allocator.ts`; the generated Dart class still emits one class per set, but icons reference different `fontFamily` strings.
+`svgicons2svgfont` + `svg2ttf` are BMP-only (cmap format 4, 16-bit). Sets with > 6000 icons get auto-split mid-pipeline (`Mdi.ttf`, `Mdi_2.ttf`, `Mdi_3.ttf`, …) — but a **post-process step in `tools/generator/src/font_merger.ts` MERGES every sibling group into a single TTF** using `fontTools` (Python subprocess via `uv`) with cmap format 12 (32-bit Unicode), so each generated `iconifyx_<prefix>` package ships **exactly one primary TTF** (plus one Secondary TTF for duotone packs).
 
-**Do not** try to use supplementary PUA (`0xF0000+`). The font generator does not support it and Flutter's icon text renderer is fragile there. See `ICONS_PER_FONT_SOFT_CAP = 6000` in `codepoint_allocator.ts`.
+Codepoint layout in the merged TTF:
+- BMP PUA `0xE000-0xF8FF`: the first sibling's icons (codepoint stability preserved verbatim).
+- Supp PUA `0xF0000-0x10FFFF`: ex-sibling icons remapped sequentially.
+
+Each `ManifestIconEntry` carries an optional `tier: 'bmp' | 'supp'` field marking which range its codepoint lives in.
+
+**This eliminates the multi-sibling bundle-size tax**. Empirically: 10 packs × 5 icons each → **17.66 KB** of fonts in the release bundle (vs. ~30-50 MB before §32). Each per-pack TTF subsets correctly under Flutter's `--tree-shake-icons` because there's only one TTF per pack and `font-subset` runs against the file holding the referenced codepoint.
+
+**Supp PUA renders correctly** on macOS desktop release, Flutter web (CanvasKit) release, and iOS — empirically verified (Flutter 3.44, `docs/RESEARCH_PLAN.md` §32). Earlier "fragile" warnings were stale.
+
+The Python merge step is run once per pack via `mergeSiblingsInManifest` in `tools/generator/src/font_merger.ts`. First generator run after fresh clone takes ~3 s extra to `uv venv` + install fontTools; warm-cache runs no-op the venv setup.
+
+For consumers: nothing to do. `flutter build --release` (which enables `--tree-shake-icons` by default) ships exactly the glyphs you reference.
 
 ### 5. TTF generation must be deterministic.
 
@@ -347,13 +361,19 @@ cd packages/iconifyx/example
 fvm flutter pub get
 fvm flutter run -d macos
 
-# Two-icon bundle-size test (verifies per-set package design)
+# Bundle-size regression check (50 icons across 10 packs; §32 invariant)
+cd test_apps/treeshake_regression
+fvm flutter pub get
+fvm flutter create --platforms=macos --no-pub .
+fvm flutter build macos --release --tree-shake-icons
+find build/macos/Build/Products/Release/iconifyx_treeshake_regression.app -name "*.ttf" -exec ls -la {} \;
+# Expected: ONE TTF per referenced pack; total ~17-20 KB.
+# CI gate enforces total < 35 KB — see .github/workflows/treeshake-regression.yml.
+
+# Duotone API smoke test (icons + IconifyIcon variants)
 cd test_apps/two_icon_test
 fvm flutter pub get
-fvm flutter build macos --release --tree-shake-icons
-find build/macos -name "*.ttf" | xargs ls -la
-# Expected: only mdi + lucide fonts present (not every set);
-#          Mdi_2.ttf ≈ 664 bytes, Lucide.ttf ≈ 720 bytes.
+fvm flutter run -d macos
 ```
 
 User prefers `fvm` over `flutter` directly.

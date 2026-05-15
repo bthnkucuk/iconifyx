@@ -11063,2843 +11063,2843 @@ class FluentEmojiIcons {
 
   /// `tongue` (paint-order duotone)
   static const IconifyIconData tongue = IconifyIconData.duo(
-    IconData(0xead8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
-    IconData(0xead8, fontFamily: 'FluentEmojiSecondary', fontPackage: 'iconifyx_fluent_emoji'), kind: IconifyIconData.kindPaintOrder,
+    IconData(0xe8a1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8a1, fontFamily: 'FluentEmojiSecondary', fontPackage: 'iconifyx_fluent_emoji'), kind: IconifyIconData.kindPaintOrder,
   );
 
   /// `toolbox`
   static const IconifyIconData toolbox = IconifyIconData.solo(
-    IconData(0xe8a1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8a2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `tooth`
   static const IconifyIconData tooth = IconifyIconData.solo(
-    IconData(0xe8a2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8a3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `toothbrush`
   static const IconifyIconData toothbrush = IconifyIconData.solo(
-    IconData(0xe8a3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8a4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `top-hat`
   static const IconifyIconData topHat = IconifyIconData.solo(
-    IconData(0xe8a4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8a5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `tornado`
   static const IconifyIconData tornado = IconifyIconData.solo(
-    IconData(0xe8a5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8a6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `trackball`
   static const IconifyIconData trackball = IconifyIconData.solo(
-    IconData(0xe8a6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8a7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `trade-mark`
   static const IconifyIconData tradeMark = IconifyIconData.solo(
-    IconData(0xe8a7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8a8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `train`
   static const IconifyIconData train = IconifyIconData.solo(
-    IconData(0xe8a8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8a9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `tram`
   static const IconifyIconData tram = IconifyIconData.solo(
-    IconData(0xe8a9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8aa, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `tram-car`
   static const IconifyIconData tramCar = IconifyIconData.solo(
-    IconData(0xe8aa, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ab, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `transgender-symbol`
   static const IconifyIconData transgenderSymbol = IconifyIconData.solo(
-    IconData(0xe8ab, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ac, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `triangular-flag`
   static const IconifyIconData triangularFlag = IconifyIconData.solo(
-    IconData(0xe8ac, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ad, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `triangular-ruler`
   static const IconifyIconData triangularRuler = IconifyIconData.solo(
-    IconData(0xe8ad, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ae, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `trident-emblem`
   static const IconifyIconData tridentEmblem = IconifyIconData.solo(
-    IconData(0xe8ae, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8af, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `troll`
   static const IconifyIconData troll = IconifyIconData.solo(
-    IconData(0xe8af, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8b0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `trolleybus`
   static const IconifyIconData trolleybus = IconifyIconData.solo(
-    IconData(0xe8b0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8b1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `tropical-drink`
   static const IconifyIconData tropicalDrink = IconifyIconData.solo(
-    IconData(0xe8b1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8b2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `tropical-fish`
   static const IconifyIconData tropicalFish = IconifyIconData.solo(
-    IconData(0xe8b2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8b3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `trumpet`
   static const IconifyIconData trumpet = IconifyIconData.solo(
-    IconData(0xe8b3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8b4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `tulip`
   static const IconifyIconData tulip = IconifyIconData.solo(
-    IconData(0xe8b4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8b5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `tumbler-glass`
   static const IconifyIconData tumblerGlass = IconifyIconData.solo(
-    IconData(0xe8b5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8b6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `turkey`
   static const IconifyIconData turkey = IconifyIconData.solo(
-    IconData(0xe8b6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8b7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `turtle`
   static const IconifyIconData turtle = IconifyIconData.solo(
-    IconData(0xe8b7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8b8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `twelve-oclock`
   static const IconifyIconData twelveOclock = IconifyIconData.solo(
-    IconData(0xe8b8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8b9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `twelve-thirty`
   static const IconifyIconData twelveThirty = IconifyIconData.solo(
-    IconData(0xe8b9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ba, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `two-hearts`
   static const IconifyIconData twoHearts = IconifyIconData.solo(
-    IconData(0xe8ba, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8bb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `two-hump-camel`
   static const IconifyIconData twoHumpCamel = IconifyIconData.solo(
-    IconData(0xe8bb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8bc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `two-oclock`
   static const IconifyIconData twoOclock = IconifyIconData.solo(
-    IconData(0xe8bc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8bd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `two-thirty`
   static const IconifyIconData twoThirty = IconifyIconData.solo(
-    IconData(0xe8bd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8be, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `umbrella`
   static const IconifyIconData umbrella = IconifyIconData.solo(
-    IconData(0xe8be, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8bf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `umbrella-on-ground`
   static const IconifyIconData umbrellaOnGround = IconifyIconData.solo(
-    IconData(0xe8bf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8c0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `umbrella-with-rain-drops`
   static const IconifyIconData umbrellaWithRainDrops = IconifyIconData.solo(
-    IconData(0xe8c0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8c1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `unamused-face`
   static const IconifyIconData unamusedFace = IconifyIconData.solo(
-    IconData(0xe8c1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8c2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `unicorn`
   static const IconifyIconData unicorn = IconifyIconData.solo(
-    IconData(0xe8c2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8c3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `unlocked`
   static const IconifyIconData unlocked = IconifyIconData.solo(
-    IconData(0xe8c3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8c4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `up-arrow`
   static const IconifyIconData upArrow = IconifyIconData.solo(
-    IconData(0xe8c4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8c5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `up-button`
   static const IconifyIconData upButton = IconifyIconData.solo(
-    IconData(0xe8c5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8c6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `up-down-arrow`
   static const IconifyIconData upDownArrow = IconifyIconData.solo(
-    IconData(0xe8c6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8c7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `up-left-arrow`
   static const IconifyIconData upLeftArrow = IconifyIconData.solo(
-    IconData(0xe8c7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8c8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `up-right-arrow`
   static const IconifyIconData upRightArrow = IconifyIconData.solo(
-    IconData(0xe8c8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8c9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `upside-down-face`
   static const IconifyIconData upsideDownFace = IconifyIconData.solo(
-    IconData(0xe8c9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ca, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `upwards-button`
   static const IconifyIconData upwardsButton = IconifyIconData.solo(
-    IconData(0xe8ca, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8cb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `vertical-traffic-light`
   static const IconifyIconData verticalTrafficLight = IconifyIconData.solo(
-    IconData(0xe8cb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8cc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `vibration-mode`
   static const IconifyIconData vibrationMode = IconifyIconData.solo(
-    IconData(0xe8cc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8cd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `victory-hand`
   static const IconifyIconData victoryHand = IconifyIconData.solo(
-    IconData(0xe8cd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ce, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `victory-hand-light`
   static const IconifyIconData victoryHandLight = IconifyIconData.solo(
-    IconData(0xe8ce, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8cf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `victory-hand-medium`
   static const IconifyIconData victoryHandMedium = IconifyIconData.solo(
-    IconData(0xe8cf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8d0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `victory-hand-medium-dark`
   static const IconifyIconData victoryHandMediumDark = IconifyIconData.solo(
-    IconData(0xe8d0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8d1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `video-camera`
   static const IconifyIconData videoCamera = IconifyIconData.solo(
-    IconData(0xe8d1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8d2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `video-game`
   static const IconifyIconData videoGame = IconifyIconData.solo(
-    IconData(0xe8d2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8d3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `violin`
   static const IconifyIconData violin = IconifyIconData.solo(
-    IconData(0xe8d3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8d4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `virgo`
   static const IconifyIconData virgo = IconifyIconData.solo(
-    IconData(0xe8d4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8d5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `volcano`
   static const IconifyIconData volcano = IconifyIconData.solo(
-    IconData(0xe8d5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8d6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `volleyball`
   static const IconifyIconData volleyball = IconifyIconData.solo(
-    IconData(0xe8d6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8d7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `vs-button`
   static const IconifyIconData vsButton = IconifyIconData.solo(
-    IconData(0xe8d7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8d8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `vulcan-salute`
   static const IconifyIconData vulcanSalute = IconifyIconData.solo(
-    IconData(0xe8d8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8d9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `vulcan-salute-dark`
   static const IconifyIconData vulcanSaluteDark = IconifyIconData.solo(
-    IconData(0xe8d9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8da, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `vulcan-salute-light`
   static const IconifyIconData vulcanSaluteLight = IconifyIconData.solo(
-    IconData(0xe8da, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8db, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `waffle`
   static const IconifyIconData waffle = IconifyIconData.solo(
-    IconData(0xe8db, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8dc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `waning-crescent-moon`
   static const IconifyIconData waningCrescentMoon = IconifyIconData.solo(
-    IconData(0xe8dc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8dd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `waning-gibbous-moon`
   static const IconifyIconData waningGibbousMoon = IconifyIconData.solo(
-    IconData(0xe8dd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8de, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `warning`
   static const IconifyIconData warning = IconifyIconData.solo(
-    IconData(0xe8de, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8df, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `wastebasket`
   static const IconifyIconData wastebasket = IconifyIconData.solo(
-    IconData(0xe8df, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8e0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `watch`
   static const IconifyIconData watch = IconifyIconData.solo(
-    IconData(0xe8e0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8e1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `water-buffalo`
   static const IconifyIconData waterBuffalo = IconifyIconData.solo(
-    IconData(0xe8e1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8e2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `water-closet`
   static const IconifyIconData waterCloset = IconifyIconData.solo(
-    IconData(0xe8e2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8e3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `water-pistol`
   static const IconifyIconData waterPistol = IconifyIconData.solo(
-    IconData(0xe8e3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8e4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `water-wave`
   static const IconifyIconData waterWave = IconifyIconData.solo(
-    IconData(0xe8e4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8e5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `watermelon`
   static const IconifyIconData watermelon = IconifyIconData.solo(
-    IconData(0xe8e5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8e6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `waving-hand`
   static const IconifyIconData wavingHand = IconifyIconData.solo(
-    IconData(0xe8e6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8e7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `waving-hand-light`
   static const IconifyIconData wavingHandLight = IconifyIconData.solo(
-    IconData(0xe8e7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8e8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `waving-hand-medium-dark`
   static const IconifyIconData wavingHandMediumDark = IconifyIconData.solo(
-    IconData(0xe8e8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8e9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `waving-hand-medium-light`
   static const IconifyIconData wavingHandMediumLight = IconifyIconData.solo(
-    IconData(0xe8e9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ea, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `waxing-crescent-moon`
   static const IconifyIconData waxingCrescentMoon = IconifyIconData.solo(
-    IconData(0xe8ea, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8eb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `waxing-gibbous-moon`
   static const IconifyIconData waxingGibbousMoon = IconifyIconData.solo(
-    IconData(0xe8eb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ec, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `weary-cat`
   static const IconifyIconData wearyCat = IconifyIconData.solo(
-    IconData(0xe8ec, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ed, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `weary-face`
   static const IconifyIconData wearyFace = IconifyIconData.solo(
-    IconData(0xe8ed, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ee, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `whale`
   static const IconifyIconData whale = IconifyIconData.solo(
-    IconData(0xe8ee, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ef, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `wheel-of-dharma`
   static const IconifyIconData wheelOfDharma = IconifyIconData.solo(
-    IconData(0xe8ef, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8f0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `wheelchair-symbol`
   static const IconifyIconData wheelchairSymbol = IconifyIconData.solo(
-    IconData(0xe8f0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8f1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `white-cane`
   static const IconifyIconData whiteCane = IconifyIconData.solo(
-    IconData(0xe8f1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8f2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `white-circle`
   static const IconifyIconData whiteCircle = IconifyIconData.solo(
-    IconData(0xe8f2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8f3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `white-exclamation-mark`
   static const IconifyIconData whiteExclamationMark = IconifyIconData.solo(
-    IconData(0xe8f3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8f4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `white-flag`
   static const IconifyIconData whiteFlag = IconifyIconData.solo(
-    IconData(0xe8f4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8f5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `white-flower`
   static const IconifyIconData whiteFlower = IconifyIconData.solo(
-    IconData(0xe8f5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8f6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `white-heart`
   static const IconifyIconData whiteHeart = IconifyIconData.solo(
-    IconData(0xe8f6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8f7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `white-large-square`
   static const IconifyIconData whiteLargeSquare = IconifyIconData.solo(
-    IconData(0xe8f7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8f8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `white-medium-small-square`
   static const IconifyIconData whiteMediumSmallSquare = IconifyIconData.solo(
-    IconData(0xe8f8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8f9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `white-medium-square`
   static const IconifyIconData whiteMediumSquare = IconifyIconData.solo(
-    IconData(0xe8f9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8fa, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `white-question-mark`
   static const IconifyIconData whiteQuestionMark = IconifyIconData.solo(
-    IconData(0xe8fa, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8fb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `white-small-square`
   static const IconifyIconData whiteSmallSquare = IconifyIconData.solo(
-    IconData(0xe8fb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8fc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `white-square-button`
   static const IconifyIconData whiteSquareButton = IconifyIconData.solo(
-    IconData(0xe8fc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8fd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `wind-chime`
   static const IconifyIconData windChime = IconifyIconData.solo(
-    IconData(0xe8fd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8fe, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `wind-face`
   static const IconifyIconData windFace = IconifyIconData.solo(
-    IconData(0xe8fe, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe8ff, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `window`
   static const IconifyIconData window = IconifyIconData.solo(
-    IconData(0xe8ff, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe900, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `wine-glass`
   static const IconifyIconData wineGlass = IconifyIconData.solo(
-    IconData(0xe900, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe901, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `winking-face`
   static const IconifyIconData winkingFace = IconifyIconData.solo(
-    IconData(0xe901, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe902, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `winking-face-with-tongue`
   static const IconifyIconData winkingFaceWithTongue = IconifyIconData.solo(
-    IconData(0xe902, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe903, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `wireless`
   static const IconifyIconData wireless = IconifyIconData.solo(
-    IconData(0xe903, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe904, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `wolf`
   static const IconifyIconData wolf = IconifyIconData.solo(
-    IconData(0xe904, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe905, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman`
   static const IconifyIconData woman = IconifyIconData.solo(
-    IconData(0xe905, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe906, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-artist`
   static const IconifyIconData womanArtist = IconifyIconData.solo(
-    IconData(0xe906, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe907, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-artist-dark`
   static const IconifyIconData womanArtistDark = IconifyIconData.solo(
-    IconData(0xe907, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe908, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-artist-light`
   static const IconifyIconData womanArtistLight = IconifyIconData.solo(
-    IconData(0xe908, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe909, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-artist-medium`
   static const IconifyIconData womanArtistMedium = IconifyIconData.solo(
-    IconData(0xe909, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe90a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-artist-medium-dark`
   static const IconifyIconData womanArtistMediumDark = IconifyIconData.solo(
-    IconData(0xe90a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe90b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-artist-medium-light`
   static const IconifyIconData womanArtistMediumLight = IconifyIconData.solo(
-    IconData(0xe90b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe90c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-astronaut`
   static const IconifyIconData womanAstronaut = IconifyIconData.solo(
-    IconData(0xe90c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe90d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-astronaut-dark`
   static const IconifyIconData womanAstronautDark = IconifyIconData.solo(
-    IconData(0xe90d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe90e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-astronaut-light`
   static const IconifyIconData womanAstronautLight = IconifyIconData.solo(
-    IconData(0xe90e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe90f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-astronaut-medium`
   static const IconifyIconData womanAstronautMedium = IconifyIconData.solo(
-    IconData(0xe90f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe910, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-astronaut-medium-dark`
   static const IconifyIconData womanAstronautMediumDark = IconifyIconData.solo(
-    IconData(0xe910, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe911, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-astronaut-medium-light`
   static const IconifyIconData womanAstronautMediumLight = IconifyIconData.solo(
-    IconData(0xe911, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe912, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bald`
   static const IconifyIconData womanBald = IconifyIconData.solo(
-    IconData(0xe912, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe913, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bald-dark`
   static const IconifyIconData womanBaldDark = IconifyIconData.solo(
-    IconData(0xe913, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe914, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bald-light`
   static const IconifyIconData womanBaldLight = IconifyIconData.solo(
-    IconData(0xe914, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe915, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bald-medium`
   static const IconifyIconData womanBaldMedium = IconifyIconData.solo(
-    IconData(0xe915, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe916, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bald-medium-dark`
   static const IconifyIconData womanBaldMediumDark = IconifyIconData.solo(
-    IconData(0xe916, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe917, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bald-medium-light`
   static const IconifyIconData womanBaldMediumLight = IconifyIconData.solo(
-    IconData(0xe917, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe918, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-beard`
   static const IconifyIconData womanBeard = IconifyIconData.solo(
-    IconData(0xe918, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe919, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-beard-dark`
   static const IconifyIconData womanBeardDark = IconifyIconData.solo(
-    IconData(0xe919, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe91a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-beard-light`
   static const IconifyIconData womanBeardLight = IconifyIconData.solo(
-    IconData(0xe91a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe91b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-beard-medium`
   static const IconifyIconData womanBeardMedium = IconifyIconData.solo(
-    IconData(0xe91b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe91c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-beard-medium-dark`
   static const IconifyIconData womanBeardMediumDark = IconifyIconData.solo(
-    IconData(0xe91c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe91d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-biking`
   static const IconifyIconData womanBiking = IconifyIconData.solo(
-    IconData(0xe91d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe91e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-biking-dark`
   static const IconifyIconData womanBikingDark = IconifyIconData.solo(
-    IconData(0xe91e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe91f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-biking-light`
   static const IconifyIconData womanBikingLight = IconifyIconData.solo(
-    IconData(0xe91f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe920, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-biking-medium-dark`
   static const IconifyIconData womanBikingMediumDark = IconifyIconData.solo(
-    IconData(0xe920, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe921, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-biking-medium-light`
   static const IconifyIconData womanBikingMediumLight = IconifyIconData.solo(
-    IconData(0xe921, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe922, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-blonde-hair`
   static const IconifyIconData womanBlondeHair = IconifyIconData.solo(
-    IconData(0xe922, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe923, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-blonde-hair-dark`
   static const IconifyIconData womanBlondeHairDark = IconifyIconData.solo(
-    IconData(0xe923, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe924, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-blonde-hair-light`
   static const IconifyIconData womanBlondeHairLight = IconifyIconData.solo(
-    IconData(0xe924, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe925, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-blonde-hair-medium`
   static const IconifyIconData womanBlondeHairMedium = IconifyIconData.solo(
-    IconData(0xe925, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe926, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-blonde-hair-medium-dark`
   static const IconifyIconData womanBlondeHairMediumDark = IconifyIconData.solo(
-    IconData(0xe926, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe927, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-blonde-hair-medium-light`
   static const IconifyIconData womanBlondeHairMediumLight = IconifyIconData.solo(
-    IconData(0xe927, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe928, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bouncing-ball`
   static const IconifyIconData womanBouncingBall = IconifyIconData.solo(
-    IconData(0xe928, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe929, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bouncing-ball-dark`
   static const IconifyIconData womanBouncingBallDark = IconifyIconData.solo(
-    IconData(0xe929, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe92a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bouncing-ball-light`
   static const IconifyIconData womanBouncingBallLight = IconifyIconData.solo(
-    IconData(0xe92a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe92b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bouncing-ball-medium`
   static const IconifyIconData womanBouncingBallMedium = IconifyIconData.solo(
-    IconData(0xe92b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe92c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bouncing-ball-medium-dark`
   static const IconifyIconData womanBouncingBallMediumDark = IconifyIconData.solo(
-    IconData(0xe92c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe92d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bouncing-ball-medium-light`
   static const IconifyIconData womanBouncingBallMediumLight = IconifyIconData.solo(
-    IconData(0xe92d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe92e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bowing`
   static const IconifyIconData womanBowing = IconifyIconData.solo(
-    IconData(0xe92e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe92f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bowing-dark`
   static const IconifyIconData womanBowingDark = IconifyIconData.solo(
-    IconData(0xe92f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe930, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bowing-light`
   static const IconifyIconData womanBowingLight = IconifyIconData.solo(
-    IconData(0xe930, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe931, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bowing-medium`
   static const IconifyIconData womanBowingMedium = IconifyIconData.solo(
-    IconData(0xe931, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe932, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bowing-medium-dark`
   static const IconifyIconData womanBowingMediumDark = IconifyIconData.solo(
-    IconData(0xe932, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe933, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-bowing-medium-light`
   static const IconifyIconData womanBowingMediumLight = IconifyIconData.solo(
-    IconData(0xe933, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe934, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-cartwheeling`
   static const IconifyIconData womanCartwheeling = IconifyIconData.solo(
-    IconData(0xe934, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe935, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-cartwheeling-dark`
   static const IconifyIconData womanCartwheelingDark = IconifyIconData.solo(
-    IconData(0xe935, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe936, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-cartwheeling-light`
   static const IconifyIconData womanCartwheelingLight = IconifyIconData.solo(
-    IconData(0xe936, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe937, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-cartwheeling-medium`
   static const IconifyIconData womanCartwheelingMedium = IconifyIconData.solo(
-    IconData(0xe937, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe938, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-cartwheeling-medium-dark`
   static const IconifyIconData womanCartwheelingMediumDark = IconifyIconData.solo(
-    IconData(0xe938, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe939, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-cartwheeling-medium-light`
   static const IconifyIconData womanCartwheelingMediumLight = IconifyIconData.solo(
-    IconData(0xe939, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe93a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-climbing-dark`
   static const IconifyIconData womanClimbingDark = IconifyIconData.solo(
-    IconData(0xe93a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe93b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-climbing-light`
   static const IconifyIconData womanClimbingLight = IconifyIconData.solo(
-    IconData(0xe93b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe93c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-climbing-medium`
   static const IconifyIconData womanClimbingMedium = IconifyIconData.solo(
-    IconData(0xe93c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe93d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-climbing-medium-dark`
   static const IconifyIconData womanClimbingMediumDark = IconifyIconData.solo(
-    IconData(0xe93d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe93e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-climbing-medium-light`
   static const IconifyIconData womanClimbingMediumLight = IconifyIconData.solo(
-    IconData(0xe93e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe93f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-construction-worker`
   static const IconifyIconData womanConstructionWorker = IconifyIconData.solo(
-    IconData(0xe93f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe940, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-construction-worker-light`
   static const IconifyIconData womanConstructionWorkerLight = IconifyIconData.solo(
-    IconData(0xe940, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe941, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-construction-worker-medium`
   static const IconifyIconData womanConstructionWorkerMedium = IconifyIconData.solo(
-    IconData(0xe941, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe942, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-construction-worker-medium-dark`
   static const IconifyIconData womanConstructionWorkerMediumDark = IconifyIconData.solo(
-    IconData(0xe942, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe943, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-construction-worker-medium-light`
   static const IconifyIconData womanConstructionWorkerMediumLight = IconifyIconData.solo(
-    IconData(0xe943, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe944, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-cook`
   static const IconifyIconData womanCook = IconifyIconData.solo(
-    IconData(0xe944, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe945, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-cook-dark`
   static const IconifyIconData womanCookDark = IconifyIconData.solo(
-    IconData(0xe945, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe946, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-cook-light`
   static const IconifyIconData womanCookLight = IconifyIconData.solo(
-    IconData(0xe946, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe947, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-cook-medium`
   static const IconifyIconData womanCookMedium = IconifyIconData.solo(
-    IconData(0xe947, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe948, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-cook-medium-dark`
   static const IconifyIconData womanCookMediumDark = IconifyIconData.solo(
-    IconData(0xe948, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe949, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-cook-medium-light`
   static const IconifyIconData womanCookMediumLight = IconifyIconData.solo(
-    IconData(0xe949, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe94a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-dancing`
   static const IconifyIconData womanDancing = IconifyIconData.solo(
-    IconData(0xe94a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe94b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-dancing-dark`
   static const IconifyIconData womanDancingDark = IconifyIconData.solo(
-    IconData(0xe94b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe94c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-dancing-light`
   static const IconifyIconData womanDancingLight = IconifyIconData.solo(
-    IconData(0xe94c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe94d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-dancing-medium`
   static const IconifyIconData womanDancingMedium = IconifyIconData.solo(
-    IconData(0xe94d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe94e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-dancing-medium-dark`
   static const IconifyIconData womanDancingMediumDark = IconifyIconData.solo(
-    IconData(0xe94e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe94f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-dancing-medium-light`
   static const IconifyIconData womanDancingMediumLight = IconifyIconData.solo(
-    IconData(0xe94f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe950, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-dark`
   static const IconifyIconData womanDark = IconifyIconData.solo(
-    IconData(0xe950, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe951, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-deaf`
   static const IconifyIconData womanDeaf = IconifyIconData.solo(
-    IconData(0xe951, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe952, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-deaf-medium-light`
   static const IconifyIconData womanDeafMediumLight = IconifyIconData.solo(
-    IconData(0xe952, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe953, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-detective`
   static const IconifyIconData womanDetective = IconifyIconData.solo(
-    IconData(0xe953, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe954, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-detective-dark`
   static const IconifyIconData womanDetectiveDark = IconifyIconData.solo(
-    IconData(0xe954, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe955, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-detective-light`
   static const IconifyIconData womanDetectiveLight = IconifyIconData.solo(
-    IconData(0xe955, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe956, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-detective-medium`
   static const IconifyIconData womanDetectiveMedium = IconifyIconData.solo(
-    IconData(0xe956, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe957, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-detective-medium-dark`
   static const IconifyIconData womanDetectiveMediumDark = IconifyIconData.solo(
-    IconData(0xe957, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe958, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-detective-medium-light`
   static const IconifyIconData womanDetectiveMediumLight = IconifyIconData.solo(
-    IconData(0xe958, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe959, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-facepalming`
   static const IconifyIconData womanFacepalming = IconifyIconData.solo(
-    IconData(0xe959, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe95a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-facepalming-dark`
   static const IconifyIconData womanFacepalmingDark = IconifyIconData.solo(
-    IconData(0xe95a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe95b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-facepalming-light`
   static const IconifyIconData womanFacepalmingLight = IconifyIconData.solo(
-    IconData(0xe95b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe95c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-facepalming-medium`
   static const IconifyIconData womanFacepalmingMedium = IconifyIconData.solo(
-    IconData(0xe95c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe95d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-facepalming-medium-dark`
   static const IconifyIconData womanFacepalmingMediumDark = IconifyIconData.solo(
-    IconData(0xe95d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe95e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-facepalming-medium-light`
   static const IconifyIconData womanFacepalmingMediumLight = IconifyIconData.solo(
-    IconData(0xe95e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe95f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-factory-worker`
   static const IconifyIconData womanFactoryWorker = IconifyIconData.solo(
-    IconData(0xe95f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe960, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-factory-worker-dark`
   static const IconifyIconData womanFactoryWorkerDark = IconifyIconData.solo(
-    IconData(0xe960, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe961, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-factory-worker-light`
   static const IconifyIconData womanFactoryWorkerLight = IconifyIconData.solo(
-    IconData(0xe961, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe962, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-factory-worker-medium`
   static const IconifyIconData womanFactoryWorkerMedium = IconifyIconData.solo(
-    IconData(0xe962, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe963, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-factory-worker-medium-dark`
   static const IconifyIconData womanFactoryWorkerMediumDark = IconifyIconData.solo(
-    IconData(0xe963, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe964, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-factory-worker-medium-light`
   static const IconifyIconData womanFactoryWorkerMediumLight = IconifyIconData.solo(
-    IconData(0xe964, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe965, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-fairy`
   static const IconifyIconData womanFairy = IconifyIconData.solo(
-    IconData(0xe965, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe966, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-fairy-dark`
   static const IconifyIconData womanFairyDark = IconifyIconData.solo(
-    IconData(0xe966, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe967, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-fairy-light`
   static const IconifyIconData womanFairyLight = IconifyIconData.solo(
-    IconData(0xe967, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe968, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-fairy-medium`
   static const IconifyIconData womanFairyMedium = IconifyIconData.solo(
-    IconData(0xe968, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe969, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-fairy-medium-light`
   static const IconifyIconData womanFairyMediumLight = IconifyIconData.solo(
-    IconData(0xe969, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe96a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-farmer`
   static const IconifyIconData womanFarmer = IconifyIconData.solo(
-    IconData(0xe96a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe96b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-farmer-dark`
   static const IconifyIconData womanFarmerDark = IconifyIconData.solo(
-    IconData(0xe96b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe96c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-farmer-light`
   static const IconifyIconData womanFarmerLight = IconifyIconData.solo(
-    IconData(0xe96c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe96d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-farmer-medium`
   static const IconifyIconData womanFarmerMedium = IconifyIconData.solo(
-    IconData(0xe96d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe96e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-farmer-medium-dark`
   static const IconifyIconData womanFarmerMediumDark = IconifyIconData.solo(
-    IconData(0xe96e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe96f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-farmer-medium-light`
   static const IconifyIconData womanFarmerMediumLight = IconifyIconData.solo(
-    IconData(0xe96f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe970, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-feeding-baby`
   static const IconifyIconData womanFeedingBaby = IconifyIconData.solo(
-    IconData(0xe970, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe971, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-feeding-baby-dark`
   static const IconifyIconData womanFeedingBabyDark = IconifyIconData.solo(
-    IconData(0xe971, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe972, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-feeding-baby-light`
   static const IconifyIconData womanFeedingBabyLight = IconifyIconData.solo(
-    IconData(0xe972, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe973, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-feeding-baby-medium`
   static const IconifyIconData womanFeedingBabyMedium = IconifyIconData.solo(
-    IconData(0xe973, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe974, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-feeding-baby-medium-light`
   static const IconifyIconData womanFeedingBabyMediumLight = IconifyIconData.solo(
-    IconData(0xe974, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe975, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-firefighter`
   static const IconifyIconData womanFirefighter = IconifyIconData.solo(
-    IconData(0xe975, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe976, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-firefighter-dark`
   static const IconifyIconData womanFirefighterDark = IconifyIconData.solo(
-    IconData(0xe976, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe977, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-firefighter-light`
   static const IconifyIconData womanFirefighterLight = IconifyIconData.solo(
-    IconData(0xe977, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe978, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-firefighter-medium`
   static const IconifyIconData womanFirefighterMedium = IconifyIconData.solo(
-    IconData(0xe978, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe979, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-firefighter-medium-dark`
   static const IconifyIconData womanFirefighterMediumDark = IconifyIconData.solo(
-    IconData(0xe979, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe97a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-firefighter-medium-light`
   static const IconifyIconData womanFirefighterMediumLight = IconifyIconData.solo(
-    IconData(0xe97a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe97b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-frowning`
   static const IconifyIconData womanFrowning = IconifyIconData.solo(
-    IconData(0xe97b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe97c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-frowning-dark`
   static const IconifyIconData womanFrowningDark = IconifyIconData.solo(
-    IconData(0xe97c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe97d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-frowning-light`
   static const IconifyIconData womanFrowningLight = IconifyIconData.solo(
-    IconData(0xe97d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe97e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-frowning-medium`
   static const IconifyIconData womanFrowningMedium = IconifyIconData.solo(
-    IconData(0xe97e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe97f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-frowning-medium-light`
   static const IconifyIconData womanFrowningMediumLight = IconifyIconData.solo(
-    IconData(0xe97f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe980, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-genie`
   static const IconifyIconData womanGenie = IconifyIconData.solo(
-    IconData(0xe980, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe981, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-gesturing-no`
   static const IconifyIconData womanGesturingNo = IconifyIconData.solo(
-    IconData(0xe981, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe982, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-gesturing-no-dark`
   static const IconifyIconData womanGesturingNoDark = IconifyIconData.solo(
-    IconData(0xe982, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe983, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-gesturing-no-light`
   static const IconifyIconData womanGesturingNoLight = IconifyIconData.solo(
-    IconData(0xe983, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe984, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-gesturing-no-medium`
   static const IconifyIconData womanGesturingNoMedium = IconifyIconData.solo(
-    IconData(0xe984, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe985, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-gesturing-no-medium-dark`
   static const IconifyIconData womanGesturingNoMediumDark = IconifyIconData.solo(
-    IconData(0xe985, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe986, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-gesturing-no-medium-light`
   static const IconifyIconData womanGesturingNoMediumLight = IconifyIconData.solo(
-    IconData(0xe986, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe987, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-gesturing-ok`
   static const IconifyIconData womanGesturingOk = IconifyIconData.solo(
-    IconData(0xe987, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe988, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-gesturing-ok-dark`
   static const IconifyIconData womanGesturingOkDark = IconifyIconData.solo(
-    IconData(0xe988, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe989, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-gesturing-ok-light`
   static const IconifyIconData womanGesturingOkLight = IconifyIconData.solo(
-    IconData(0xe989, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe98a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-gesturing-ok-medium`
   static const IconifyIconData womanGesturingOkMedium = IconifyIconData.solo(
-    IconData(0xe98a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe98b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-gesturing-ok-medium-dark`
   static const IconifyIconData womanGesturingOkMediumDark = IconifyIconData.solo(
-    IconData(0xe98b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe98c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-gesturing-ok-medium-light`
   static const IconifyIconData womanGesturingOkMediumLight = IconifyIconData.solo(
-    IconData(0xe98c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe98d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-getting-haircut`
   static const IconifyIconData womanGettingHaircut = IconifyIconData.solo(
-    IconData(0xe98d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe98e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-getting-haircut-dark`
   static const IconifyIconData womanGettingHaircutDark = IconifyIconData.solo(
-    IconData(0xe98e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe98f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-getting-haircut-light`
   static const IconifyIconData womanGettingHaircutLight = IconifyIconData.solo(
-    IconData(0xe98f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe990, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-getting-haircut-medium`
   static const IconifyIconData womanGettingHaircutMedium = IconifyIconData.solo(
-    IconData(0xe990, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe991, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-getting-haircut-medium-light`
   static const IconifyIconData womanGettingHaircutMediumLight = IconifyIconData.solo(
-    IconData(0xe991, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe992, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-getting-massage`
   static const IconifyIconData womanGettingMassage = IconifyIconData.solo(
-    IconData(0xe992, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe993, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-getting-massage-dark`
   static const IconifyIconData womanGettingMassageDark = IconifyIconData.solo(
-    IconData(0xe993, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe994, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-getting-massage-light`
   static const IconifyIconData womanGettingMassageLight = IconifyIconData.solo(
-    IconData(0xe994, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe995, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-getting-massage-medium`
   static const IconifyIconData womanGettingMassageMedium = IconifyIconData.solo(
-    IconData(0xe995, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe996, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-getting-massage-medium-dark`
   static const IconifyIconData womanGettingMassageMediumDark = IconifyIconData.solo(
-    IconData(0xe996, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe997, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-getting-massage-medium-light`
   static const IconifyIconData womanGettingMassageMediumLight = IconifyIconData.solo(
-    IconData(0xe997, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe998, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-golfing`
   static const IconifyIconData womanGolfing = IconifyIconData.solo(
-    IconData(0xe998, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe999, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-golfing-medium-light`
   static const IconifyIconData womanGolfingMediumLight = IconifyIconData.solo(
-    IconData(0xe999, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe99a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-guard`
   static const IconifyIconData womanGuard = IconifyIconData.solo(
-    IconData(0xe99a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe99b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-guard-dark`
   static const IconifyIconData womanGuardDark = IconifyIconData.solo(
-    IconData(0xe99b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe99c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-guard-light`
   static const IconifyIconData womanGuardLight = IconifyIconData.solo(
-    IconData(0xe99c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe99d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-guard-medium`
   static const IconifyIconData womanGuardMedium = IconifyIconData.solo(
-    IconData(0xe99d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe99e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-guard-medium-dark`
   static const IconifyIconData womanGuardMediumDark = IconifyIconData.solo(
-    IconData(0xe99e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe99f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-guard-medium-light`
   static const IconifyIconData womanGuardMediumLight = IconifyIconData.solo(
-    IconData(0xe99f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9a0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-health-worker`
   static const IconifyIconData womanHealthWorker = IconifyIconData.solo(
-    IconData(0xe9a0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9a1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-health-worker-dark`
   static const IconifyIconData womanHealthWorkerDark = IconifyIconData.solo(
-    IconData(0xe9a1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9a2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-health-worker-light`
   static const IconifyIconData womanHealthWorkerLight = IconifyIconData.solo(
-    IconData(0xe9a2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9a3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-health-worker-medium`
   static const IconifyIconData womanHealthWorkerMedium = IconifyIconData.solo(
-    IconData(0xe9a3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9a4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-health-worker-medium-dark`
   static const IconifyIconData womanHealthWorkerMediumDark = IconifyIconData.solo(
-    IconData(0xe9a4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9a5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-health-worker-medium-light`
   static const IconifyIconData womanHealthWorkerMediumLight = IconifyIconData.solo(
-    IconData(0xe9a5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9a6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-lotus-position`
   static const IconifyIconData womanInLotusPosition = IconifyIconData.solo(
-    IconData(0xe9a6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9a7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-lotus-position-dark`
   static const IconifyIconData womanInLotusPositionDark = IconifyIconData.solo(
-    IconData(0xe9a7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9a8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-lotus-position-light`
   static const IconifyIconData womanInLotusPositionLight = IconifyIconData.solo(
-    IconData(0xe9a8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9a9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-lotus-position-medium`
   static const IconifyIconData womanInLotusPositionMedium = IconifyIconData.solo(
-    IconData(0xe9a9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9aa, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-lotus-position-medium-light`
   static const IconifyIconData womanInLotusPositionMediumLight = IconifyIconData.solo(
-    IconData(0xe9aa, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ab, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-manual-wheelchair`
   static const IconifyIconData womanInManualWheelchair = IconifyIconData.solo(
-    IconData(0xe9ab, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ac, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-manual-wheelchair-dark`
   static const IconifyIconData womanInManualWheelchairDark = IconifyIconData.solo(
-    IconData(0xe9ac, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ad, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-manual-wheelchair-facing-right`
   static const IconifyIconData womanInManualWheelchairFacingRight = IconifyIconData.solo(
-    IconData(0xe9ad, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ae, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-manual-wheelchair-facing-right-dark`
   static const IconifyIconData womanInManualWheelchairFacingRightDark = IconifyIconData.solo(
-    IconData(0xe9ae, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9af, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-manual-wheelchair-facing-right-light`
   static const IconifyIconData womanInManualWheelchairFacingRightLight = IconifyIconData.solo(
-    IconData(0xe9af, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9b0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-manual-wheelchair-facing-right-medium`
   static const IconifyIconData womanInManualWheelchairFacingRightMedium = IconifyIconData.solo(
-    IconData(0xe9b0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9b1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-manual-wheelchair-facing-right-medium-dark`
   static const IconifyIconData womanInManualWheelchairFacingRightMediumDark = IconifyIconData.solo(
-    IconData(0xe9b1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9b2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-manual-wheelchair-facing-right-medium-light`
   static const IconifyIconData womanInManualWheelchairFacingRightMediumLight = IconifyIconData.solo(
-    IconData(0xe9b2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9b3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-manual-wheelchair-light`
   static const IconifyIconData womanInManualWheelchairLight = IconifyIconData.solo(
-    IconData(0xe9b3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9b4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-manual-wheelchair-medium`
   static const IconifyIconData womanInManualWheelchairMedium = IconifyIconData.solo(
-    IconData(0xe9b4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9b5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-manual-wheelchair-medium-dark`
   static const IconifyIconData womanInManualWheelchairMediumDark = IconifyIconData.solo(
-    IconData(0xe9b5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9b6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-manual-wheelchair-medium-light`
   static const IconifyIconData womanInManualWheelchairMediumLight = IconifyIconData.solo(
-    IconData(0xe9b6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9b7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-motorized-wheelchair`
   static const IconifyIconData womanInMotorizedWheelchair = IconifyIconData.solo(
-    IconData(0xe9b7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9b8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-motorized-wheelchair-dark`
   static const IconifyIconData womanInMotorizedWheelchairDark = IconifyIconData.solo(
-    IconData(0xe9b8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9b9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-motorized-wheelchair-facing-right`
   static const IconifyIconData womanInMotorizedWheelchairFacingRight = IconifyIconData.solo(
-    IconData(0xe9b9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ba, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-motorized-wheelchair-facing-right-dark`
   static const IconifyIconData womanInMotorizedWheelchairFacingRightDark = IconifyIconData.solo(
-    IconData(0xe9ba, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9bb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-motorized-wheelchair-facing-right-light`
   static const IconifyIconData womanInMotorizedWheelchairFacingRightLight = IconifyIconData.solo(
-    IconData(0xe9bb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9bc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-motorized-wheelchair-facing-right-medium`
   static const IconifyIconData womanInMotorizedWheelchairFacingRightMedium = IconifyIconData.solo(
-    IconData(0xe9bc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9bd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-motorized-wheelchair-facing-right-medium-dark`
   static const IconifyIconData womanInMotorizedWheelchairFacingRightMediumDark = IconifyIconData.solo(
-    IconData(0xe9bd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9be, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-motorized-wheelchair-facing-right-medium-light`
   static const IconifyIconData womanInMotorizedWheelchairFacingRightMediumLight = IconifyIconData.solo(
-    IconData(0xe9be, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9bf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-motorized-wheelchair-light`
   static const IconifyIconData womanInMotorizedWheelchairLight = IconifyIconData.solo(
-    IconData(0xe9bf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9c0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-motorized-wheelchair-medium`
   static const IconifyIconData womanInMotorizedWheelchairMedium = IconifyIconData.solo(
-    IconData(0xe9c0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9c1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-motorized-wheelchair-medium-dark`
   static const IconifyIconData womanInMotorizedWheelchairMediumDark = IconifyIconData.solo(
-    IconData(0xe9c1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9c2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-motorized-wheelchair-medium-light`
   static const IconifyIconData womanInMotorizedWheelchairMediumLight = IconifyIconData.solo(
-    IconData(0xe9c2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9c3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-steamy-room`
   static const IconifyIconData womanInSteamyRoom = IconifyIconData.solo(
-    IconData(0xe9c3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9c4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-steamy-room-dark`
   static const IconifyIconData womanInSteamyRoomDark = IconifyIconData.solo(
-    IconData(0xe9c4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9c5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-steamy-room-light`
   static const IconifyIconData womanInSteamyRoomLight = IconifyIconData.solo(
-    IconData(0xe9c5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9c6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-steamy-room-medium`
   static const IconifyIconData womanInSteamyRoomMedium = IconifyIconData.solo(
-    IconData(0xe9c6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9c7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-steamy-room-medium-light`
   static const IconifyIconData womanInSteamyRoomMediumLight = IconifyIconData.solo(
-    IconData(0xe9c7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9c8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-tuxedo`
   static const IconifyIconData womanInTuxedo = IconifyIconData.solo(
-    IconData(0xe9c8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9c9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-tuxedo-dark`
   static const IconifyIconData womanInTuxedoDark = IconifyIconData.solo(
-    IconData(0xe9c9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ca, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-tuxedo-light`
   static const IconifyIconData womanInTuxedoLight = IconifyIconData.solo(
-    IconData(0xe9ca, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9cb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-tuxedo-medium`
   static const IconifyIconData womanInTuxedoMedium = IconifyIconData.solo(
-    IconData(0xe9cb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9cc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-in-tuxedo-medium-light`
   static const IconifyIconData womanInTuxedoMediumLight = IconifyIconData.solo(
-    IconData(0xe9cc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9cd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-judge`
   static const IconifyIconData womanJudge = IconifyIconData.solo(
-    IconData(0xe9cd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ce, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-judge-dark`
   static const IconifyIconData womanJudgeDark = IconifyIconData.solo(
-    IconData(0xe9ce, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9cf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-judge-light`
   static const IconifyIconData womanJudgeLight = IconifyIconData.solo(
-    IconData(0xe9cf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9d0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-judge-medium`
   static const IconifyIconData womanJudgeMedium = IconifyIconData.solo(
-    IconData(0xe9d0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9d1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-judge-medium-dark`
   static const IconifyIconData womanJudgeMediumDark = IconifyIconData.solo(
-    IconData(0xe9d1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9d2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-judge-medium-light`
   static const IconifyIconData womanJudgeMediumLight = IconifyIconData.solo(
-    IconData(0xe9d2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9d3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-juggling`
   static const IconifyIconData womanJuggling = IconifyIconData.solo(
-    IconData(0xe9d3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9d4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-juggling-dark`
   static const IconifyIconData womanJugglingDark = IconifyIconData.solo(
-    IconData(0xe9d4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9d5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-juggling-light`
   static const IconifyIconData womanJugglingLight = IconifyIconData.solo(
-    IconData(0xe9d5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9d6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-juggling-medium`
   static const IconifyIconData womanJugglingMedium = IconifyIconData.solo(
-    IconData(0xe9d6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9d7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-juggling-medium-light`
   static const IconifyIconData womanJugglingMediumLight = IconifyIconData.solo(
-    IconData(0xe9d7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9d8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-lifting-weights`
   static const IconifyIconData womanLiftingWeights = IconifyIconData.solo(
-    IconData(0xe9d8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9d9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-lifting-weights-dark`
   static const IconifyIconData womanLiftingWeightsDark = IconifyIconData.solo(
-    IconData(0xe9d9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9da, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-lifting-weights-light`
   static const IconifyIconData womanLiftingWeightsLight = IconifyIconData.solo(
-    IconData(0xe9da, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9db, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-lifting-weights-medium`
   static const IconifyIconData womanLiftingWeightsMedium = IconifyIconData.solo(
-    IconData(0xe9db, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9dc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-lifting-weights-medium-dark`
   static const IconifyIconData womanLiftingWeightsMediumDark = IconifyIconData.solo(
-    IconData(0xe9dc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9dd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-lifting-weights-medium-light`
   static const IconifyIconData womanLiftingWeightsMediumLight = IconifyIconData.solo(
-    IconData(0xe9dd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9de, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-light`
   static const IconifyIconData womanLight = IconifyIconData.solo(
-    IconData(0xe9de, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9df, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mage`
   static const IconifyIconData womanMage = IconifyIconData.solo(
-    IconData(0xe9df, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9e0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mage-dark`
   static const IconifyIconData womanMageDark = IconifyIconData.solo(
-    IconData(0xe9e0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9e1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mage-light`
   static const IconifyIconData womanMageLight = IconifyIconData.solo(
-    IconData(0xe9e1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9e2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mage-medium`
   static const IconifyIconData womanMageMedium = IconifyIconData.solo(
-    IconData(0xe9e2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9e3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mage-medium-dark`
   static const IconifyIconData womanMageMediumDark = IconifyIconData.solo(
-    IconData(0xe9e3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9e4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mage-medium-light`
   static const IconifyIconData womanMageMediumLight = IconifyIconData.solo(
-    IconData(0xe9e4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9e5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mechanic`
   static const IconifyIconData womanMechanic = IconifyIconData.solo(
-    IconData(0xe9e5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9e6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mechanic-dark`
   static const IconifyIconData womanMechanicDark = IconifyIconData.solo(
-    IconData(0xe9e6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9e7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mechanic-light`
   static const IconifyIconData womanMechanicLight = IconifyIconData.solo(
-    IconData(0xe9e7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9e8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mechanic-medium`
   static const IconifyIconData womanMechanicMedium = IconifyIconData.solo(
-    IconData(0xe9e8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9e9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mechanic-medium-dark`
   static const IconifyIconData womanMechanicMediumDark = IconifyIconData.solo(
-    IconData(0xe9e9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ea, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mechanic-medium-light`
   static const IconifyIconData womanMechanicMediumLight = IconifyIconData.solo(
-    IconData(0xe9ea, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9eb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-medium`
   static const IconifyIconData womanMedium = IconifyIconData.solo(
-    IconData(0xe9eb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ec, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-medium-dark`
   static const IconifyIconData womanMediumDark = IconifyIconData.solo(
-    IconData(0xe9ec, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ed, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-medium-light`
   static const IconifyIconData womanMediumLight = IconifyIconData.solo(
-    IconData(0xe9ed, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ee, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-merpeople`
   static const IconifyIconData womanMerpeople = IconifyIconData.solo(
-    IconData(0xe9ee, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ef, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-merpeople-dark`
   static const IconifyIconData womanMerpeopleDark = IconifyIconData.solo(
-    IconData(0xe9ef, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9f0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-merpeople-light`
   static const IconifyIconData womanMerpeopleLight = IconifyIconData.solo(
-    IconData(0xe9f0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9f1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-merpeople-medium`
   static const IconifyIconData womanMerpeopleMedium = IconifyIconData.solo(
-    IconData(0xe9f1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9f2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-merpeople-medium-dark`
   static const IconifyIconData womanMerpeopleMediumDark = IconifyIconData.solo(
-    IconData(0xe9f2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9f3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-merpeople-medium-light`
   static const IconifyIconData womanMerpeopleMediumLight = IconifyIconData.solo(
-    IconData(0xe9f3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9f4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mountain-biking`
   static const IconifyIconData womanMountainBiking = IconifyIconData.solo(
-    IconData(0xe9f4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9f5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mountain-biking-dark`
   static const IconifyIconData womanMountainBikingDark = IconifyIconData.solo(
-    IconData(0xe9f5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9f6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mountain-biking-light`
   static const IconifyIconData womanMountainBikingLight = IconifyIconData.solo(
-    IconData(0xe9f6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9f7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mountain-biking-medium`
   static const IconifyIconData womanMountainBikingMedium = IconifyIconData.solo(
-    IconData(0xe9f7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9f8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mountain-biking-medium-dark`
   static const IconifyIconData womanMountainBikingMediumDark = IconifyIconData.solo(
-    IconData(0xe9f8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9f9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-mountain-biking-medium-light`
   static const IconifyIconData womanMountainBikingMediumLight = IconifyIconData.solo(
-    IconData(0xe9f9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9fa, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-office-worker`
   static const IconifyIconData womanOfficeWorker = IconifyIconData.solo(
-    IconData(0xe9fa, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9fb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-office-worker-dark`
   static const IconifyIconData womanOfficeWorkerDark = IconifyIconData.solo(
-    IconData(0xe9fb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9fc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-office-worker-light`
   static const IconifyIconData womanOfficeWorkerLight = IconifyIconData.solo(
-    IconData(0xe9fc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9fd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-office-worker-medium`
   static const IconifyIconData womanOfficeWorkerMedium = IconifyIconData.solo(
-    IconData(0xe9fd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9fe, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-office-worker-medium-dark`
   static const IconifyIconData womanOfficeWorkerMediumDark = IconifyIconData.solo(
-    IconData(0xe9fe, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xe9ff, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-office-worker-medium-light`
   static const IconifyIconData womanOfficeWorkerMediumLight = IconifyIconData.solo(
-    IconData(0xe9ff, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea00, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-pilot`
   static const IconifyIconData womanPilot = IconifyIconData.solo(
-    IconData(0xea00, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea01, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-pilot-dark`
   static const IconifyIconData womanPilotDark = IconifyIconData.solo(
-    IconData(0xea01, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea02, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-pilot-light`
   static const IconifyIconData womanPilotLight = IconifyIconData.solo(
-    IconData(0xea02, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea03, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-pilot-medium`
   static const IconifyIconData womanPilotMedium = IconifyIconData.solo(
-    IconData(0xea03, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea04, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-pilot-medium-dark`
   static const IconifyIconData womanPilotMediumDark = IconifyIconData.solo(
-    IconData(0xea04, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea05, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-pilot-medium-light`
   static const IconifyIconData womanPilotMediumLight = IconifyIconData.solo(
-    IconData(0xea05, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea06, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-playing-handball`
   static const IconifyIconData womanPlayingHandball = IconifyIconData.solo(
-    IconData(0xea06, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea07, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-playing-handball-dark`
   static const IconifyIconData womanPlayingHandballDark = IconifyIconData.solo(
-    IconData(0xea07, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea08, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-playing-handball-light`
   static const IconifyIconData womanPlayingHandballLight = IconifyIconData.solo(
-    IconData(0xea08, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea09, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-playing-handball-medium`
   static const IconifyIconData womanPlayingHandballMedium = IconifyIconData.solo(
-    IconData(0xea09, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea0a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-playing-handball-medium-dark`
   static const IconifyIconData womanPlayingHandballMediumDark = IconifyIconData.solo(
-    IconData(0xea0a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea0b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-playing-handball-medium-light`
   static const IconifyIconData womanPlayingHandballMediumLight = IconifyIconData.solo(
-    IconData(0xea0b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea0c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-playing-water-polo`
   static const IconifyIconData womanPlayingWaterPolo = IconifyIconData.solo(
-    IconData(0xea0c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea0d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-playing-water-polo-dark`
   static const IconifyIconData womanPlayingWaterPoloDark = IconifyIconData.solo(
-    IconData(0xea0d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea0e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-playing-water-polo-light`
   static const IconifyIconData womanPlayingWaterPoloLight = IconifyIconData.solo(
-    IconData(0xea0e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea0f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-playing-water-polo-medium`
   static const IconifyIconData womanPlayingWaterPoloMedium = IconifyIconData.solo(
-    IconData(0xea0f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea10, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-playing-water-polo-medium-dark`
   static const IconifyIconData womanPlayingWaterPoloMediumDark = IconifyIconData.solo(
-    IconData(0xea10, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea11, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-playing-water-polo-medium-light`
   static const IconifyIconData womanPlayingWaterPoloMediumLight = IconifyIconData.solo(
-    IconData(0xea11, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea12, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-police-officer`
   static const IconifyIconData womanPoliceOfficer = IconifyIconData.solo(
-    IconData(0xea12, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea13, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-police-officer-dark`
   static const IconifyIconData womanPoliceOfficerDark = IconifyIconData.solo(
-    IconData(0xea13, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea14, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-police-officer-light`
   static const IconifyIconData womanPoliceOfficerLight = IconifyIconData.solo(
-    IconData(0xea14, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea15, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-police-officer-medium`
   static const IconifyIconData womanPoliceOfficerMedium = IconifyIconData.solo(
-    IconData(0xea15, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea16, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-police-officer-medium-dark`
   static const IconifyIconData womanPoliceOfficerMediumDark = IconifyIconData.solo(
-    IconData(0xea16, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea17, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-police-officer-medium-light`
   static const IconifyIconData womanPoliceOfficerMediumLight = IconifyIconData.solo(
-    IconData(0xea17, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea18, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-pouting`
   static const IconifyIconData womanPouting = IconifyIconData.solo(
-    IconData(0xea18, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea19, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-pouting-dark`
   static const IconifyIconData womanPoutingDark = IconifyIconData.solo(
-    IconData(0xea19, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea1a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-pouting-light`
   static const IconifyIconData womanPoutingLight = IconifyIconData.solo(
-    IconData(0xea1a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea1b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-pouting-medium`
   static const IconifyIconData womanPoutingMedium = IconifyIconData.solo(
-    IconData(0xea1b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea1c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-pouting-medium-dark`
   static const IconifyIconData womanPoutingMediumDark = IconifyIconData.solo(
-    IconData(0xea1c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea1d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-pouting-medium-light`
   static const IconifyIconData womanPoutingMediumLight = IconifyIconData.solo(
-    IconData(0xea1d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea1e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-raising-hand`
   static const IconifyIconData womanRaisingHand = IconifyIconData.solo(
-    IconData(0xea1e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea1f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-raising-hand-dark`
   static const IconifyIconData womanRaisingHandDark = IconifyIconData.solo(
-    IconData(0xea1f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea20, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-raising-hand-light`
   static const IconifyIconData womanRaisingHandLight = IconifyIconData.solo(
-    IconData(0xea20, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea21, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-raising-hand-medium`
   static const IconifyIconData womanRaisingHandMedium = IconifyIconData.solo(
-    IconData(0xea21, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea22, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-raising-hand-medium-dark`
   static const IconifyIconData womanRaisingHandMediumDark = IconifyIconData.solo(
-    IconData(0xea22, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea23, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-raising-hand-medium-light`
   static const IconifyIconData womanRaisingHandMediumLight = IconifyIconData.solo(
-    IconData(0xea23, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea24, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-red-hair`
   static const IconifyIconData womanRedHair = IconifyIconData.solo(
-    IconData(0xea24, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea25, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-red-hair-dark`
   static const IconifyIconData womanRedHairDark = IconifyIconData.solo(
-    IconData(0xea25, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea26, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-red-hair-light`
   static const IconifyIconData womanRedHairLight = IconifyIconData.solo(
-    IconData(0xea26, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea27, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-red-hair-medium`
   static const IconifyIconData womanRedHairMedium = IconifyIconData.solo(
-    IconData(0xea27, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea28, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-red-hair-medium-dark`
   static const IconifyIconData womanRedHairMediumDark = IconifyIconData.solo(
-    IconData(0xea28, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea29, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-red-hair-medium-light`
   static const IconifyIconData womanRedHairMediumLight = IconifyIconData.solo(
-    IconData(0xea29, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea2a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-rowing-boat`
   static const IconifyIconData womanRowingBoat = IconifyIconData.solo(
-    IconData(0xea2a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea2b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-rowing-boat-dark`
   static const IconifyIconData womanRowingBoatDark = IconifyIconData.solo(
-    IconData(0xea2b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea2c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-rowing-boat-light`
   static const IconifyIconData womanRowingBoatLight = IconifyIconData.solo(
-    IconData(0xea2c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea2d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-rowing-boat-medium`
   static const IconifyIconData womanRowingBoatMedium = IconifyIconData.solo(
-    IconData(0xea2d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea2e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-rowing-boat-medium-dark`
   static const IconifyIconData womanRowingBoatMediumDark = IconifyIconData.solo(
-    IconData(0xea2e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea2f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-rowing-boat-medium-light`
   static const IconifyIconData womanRowingBoatMediumLight = IconifyIconData.solo(
-    IconData(0xea2f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea30, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-running`
   static const IconifyIconData womanRunning = IconifyIconData.solo(
-    IconData(0xea30, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea31, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-running-dark`
   static const IconifyIconData womanRunningDark = IconifyIconData.solo(
-    IconData(0xea31, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea32, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-running-facing-right`
   static const IconifyIconData womanRunningFacingRight = IconifyIconData.solo(
-    IconData(0xea32, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea33, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-running-facing-right-dark`
   static const IconifyIconData womanRunningFacingRightDark = IconifyIconData.solo(
-    IconData(0xea33, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea34, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-running-facing-right-light`
   static const IconifyIconData womanRunningFacingRightLight = IconifyIconData.solo(
-    IconData(0xea34, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea35, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-running-facing-right-medium`
   static const IconifyIconData womanRunningFacingRightMedium = IconifyIconData.solo(
-    IconData(0xea35, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea36, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-running-facing-right-medium-dark`
   static const IconifyIconData womanRunningFacingRightMediumDark = IconifyIconData.solo(
-    IconData(0xea36, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea37, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-running-facing-right-medium-light`
   static const IconifyIconData womanRunningFacingRightMediumLight = IconifyIconData.solo(
-    IconData(0xea37, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea38, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-running-light`
   static const IconifyIconData womanRunningLight = IconifyIconData.solo(
-    IconData(0xea38, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea39, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-running-medium`
   static const IconifyIconData womanRunningMedium = IconifyIconData.solo(
-    IconData(0xea39, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea3a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-running-medium-dark`
   static const IconifyIconData womanRunningMediumDark = IconifyIconData.solo(
-    IconData(0xea3a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea3b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-running-medium-light`
   static const IconifyIconData womanRunningMediumLight = IconifyIconData.solo(
-    IconData(0xea3b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea3c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-scientist`
   static const IconifyIconData womanScientist = IconifyIconData.solo(
-    IconData(0xea3c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea3d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-scientist-dark`
   static const IconifyIconData womanScientistDark = IconifyIconData.solo(
-    IconData(0xea3d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea3e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-scientist-light`
   static const IconifyIconData womanScientistLight = IconifyIconData.solo(
-    IconData(0xea3e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea3f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-scientist-medium`
   static const IconifyIconData womanScientistMedium = IconifyIconData.solo(
-    IconData(0xea3f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea40, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-scientist-medium-dark`
   static const IconifyIconData womanScientistMediumDark = IconifyIconData.solo(
-    IconData(0xea40, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea41, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-scientist-medium-light`
   static const IconifyIconData womanScientistMediumLight = IconifyIconData.solo(
-    IconData(0xea41, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea42, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-shrugging`
   static const IconifyIconData womanShrugging = IconifyIconData.solo(
-    IconData(0xea42, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea43, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-shrugging-dark`
   static const IconifyIconData womanShruggingDark = IconifyIconData.solo(
-    IconData(0xea43, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea44, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-shrugging-light`
   static const IconifyIconData womanShruggingLight = IconifyIconData.solo(
-    IconData(0xea44, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea45, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-shrugging-medium`
   static const IconifyIconData womanShruggingMedium = IconifyIconData.solo(
-    IconData(0xea45, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea46, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-shrugging-medium-dark`
   static const IconifyIconData womanShruggingMediumDark = IconifyIconData.solo(
-    IconData(0xea46, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea47, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-shrugging-medium-light`
   static const IconifyIconData womanShruggingMediumLight = IconifyIconData.solo(
-    IconData(0xea47, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea48, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-singer`
   static const IconifyIconData womanSinger = IconifyIconData.solo(
-    IconData(0xea48, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea49, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-singer-dark`
   static const IconifyIconData womanSingerDark = IconifyIconData.solo(
-    IconData(0xea49, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea4a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-singer-light`
   static const IconifyIconData womanSingerLight = IconifyIconData.solo(
-    IconData(0xea4a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea4b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-singer-medium`
   static const IconifyIconData womanSingerMedium = IconifyIconData.solo(
-    IconData(0xea4b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea4c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-singer-medium-dark`
   static const IconifyIconData womanSingerMediumDark = IconifyIconData.solo(
-    IconData(0xea4c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea4d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-singer-medium-light`
   static const IconifyIconData womanSingerMediumLight = IconifyIconData.solo(
-    IconData(0xea4d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea4e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-standing`
   static const IconifyIconData womanStanding = IconifyIconData.solo(
-    IconData(0xea4e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea4f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-standing-dark`
   static const IconifyIconData womanStandingDark = IconifyIconData.solo(
-    IconData(0xea4f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea50, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-standing-light`
   static const IconifyIconData womanStandingLight = IconifyIconData.solo(
-    IconData(0xea50, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea51, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-standing-medium`
   static const IconifyIconData womanStandingMedium = IconifyIconData.solo(
-    IconData(0xea51, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea52, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-standing-medium-dark`
   static const IconifyIconData womanStandingMediumDark = IconifyIconData.solo(
-    IconData(0xea52, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea53, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-standing-medium-light`
   static const IconifyIconData womanStandingMediumLight = IconifyIconData.solo(
-    IconData(0xea53, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea54, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-student`
   static const IconifyIconData womanStudent = IconifyIconData.solo(
-    IconData(0xea54, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea55, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-student-dark`
   static const IconifyIconData womanStudentDark = IconifyIconData.solo(
-    IconData(0xea55, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea56, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-student-light`
   static const IconifyIconData womanStudentLight = IconifyIconData.solo(
-    IconData(0xea56, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea57, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-student-medium`
   static const IconifyIconData womanStudentMedium = IconifyIconData.solo(
-    IconData(0xea57, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea58, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-student-medium-dark`
   static const IconifyIconData womanStudentMediumDark = IconifyIconData.solo(
-    IconData(0xea58, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea59, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-student-medium-light`
   static const IconifyIconData womanStudentMediumLight = IconifyIconData.solo(
-    IconData(0xea59, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea5a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-superhero`
   static const IconifyIconData womanSuperhero = IconifyIconData.solo(
-    IconData(0xea5a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea5b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-superhero-dark`
   static const IconifyIconData womanSuperheroDark = IconifyIconData.solo(
-    IconData(0xea5b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea5c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-superhero-light`
   static const IconifyIconData womanSuperheroLight = IconifyIconData.solo(
-    IconData(0xea5c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea5d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-superhero-medium`
   static const IconifyIconData womanSuperheroMedium = IconifyIconData.solo(
-    IconData(0xea5d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea5e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-superhero-medium-light`
   static const IconifyIconData womanSuperheroMediumLight = IconifyIconData.solo(
-    IconData(0xea5e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea5f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-supervillain`
   static const IconifyIconData womanSupervillain = IconifyIconData.solo(
-    IconData(0xea5f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea60, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-supervillain-dark`
   static const IconifyIconData womanSupervillainDark = IconifyIconData.solo(
-    IconData(0xea60, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea61, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-supervillain-light`
   static const IconifyIconData womanSupervillainLight = IconifyIconData.solo(
-    IconData(0xea61, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea62, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-supervillain-medium`
   static const IconifyIconData womanSupervillainMedium = IconifyIconData.solo(
-    IconData(0xea62, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea63, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-supervillain-medium-dark`
   static const IconifyIconData womanSupervillainMediumDark = IconifyIconData.solo(
-    IconData(0xea63, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea64, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-supervillain-medium-light`
   static const IconifyIconData womanSupervillainMediumLight = IconifyIconData.solo(
-    IconData(0xea64, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea65, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-surfing`
   static const IconifyIconData womanSurfing = IconifyIconData.solo(
-    IconData(0xea65, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea66, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-surfing-dark`
   static const IconifyIconData womanSurfingDark = IconifyIconData.solo(
-    IconData(0xea66, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea67, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-surfing-light`
   static const IconifyIconData womanSurfingLight = IconifyIconData.solo(
-    IconData(0xea67, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea68, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-surfing-medium`
   static const IconifyIconData womanSurfingMedium = IconifyIconData.solo(
-    IconData(0xea68, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea69, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-surfing-medium-dark`
   static const IconifyIconData womanSurfingMediumDark = IconifyIconData.solo(
-    IconData(0xea69, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea6a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-surfing-medium-light`
   static const IconifyIconData womanSurfingMediumLight = IconifyIconData.solo(
-    IconData(0xea6a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea6b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-swimming`
   static const IconifyIconData womanSwimming = IconifyIconData.solo(
-    IconData(0xea6b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea6c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-swimming-dark`
   static const IconifyIconData womanSwimmingDark = IconifyIconData.solo(
-    IconData(0xea6c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea6d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-swimming-light`
   static const IconifyIconData womanSwimmingLight = IconifyIconData.solo(
-    IconData(0xea6d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea6e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-swimming-medium`
   static const IconifyIconData womanSwimmingMedium = IconifyIconData.solo(
-    IconData(0xea6e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea6f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-swimming-medium-dark`
   static const IconifyIconData womanSwimmingMediumDark = IconifyIconData.solo(
-    IconData(0xea6f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea70, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-swimming-medium-light`
   static const IconifyIconData womanSwimmingMediumLight = IconifyIconData.solo(
-    IconData(0xea70, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea71, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-teacher`
   static const IconifyIconData womanTeacher = IconifyIconData.solo(
-    IconData(0xea71, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea72, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-teacher-dark`
   static const IconifyIconData womanTeacherDark = IconifyIconData.solo(
-    IconData(0xea72, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea73, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-teacher-light`
   static const IconifyIconData womanTeacherLight = IconifyIconData.solo(
-    IconData(0xea73, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea74, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-teacher-medium`
   static const IconifyIconData womanTeacherMedium = IconifyIconData.solo(
-    IconData(0xea74, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea75, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-teacher-medium-dark`
   static const IconifyIconData womanTeacherMediumDark = IconifyIconData.solo(
-    IconData(0xea75, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea76, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-teacher-medium-light`
   static const IconifyIconData womanTeacherMediumLight = IconifyIconData.solo(
-    IconData(0xea76, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea77, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-technologist`
   static const IconifyIconData womanTechnologist = IconifyIconData.solo(
-    IconData(0xea77, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea78, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-technologist-light`
   static const IconifyIconData womanTechnologistLight = IconifyIconData.solo(
-    IconData(0xea78, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea79, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-technologist-medium`
   static const IconifyIconData womanTechnologistMedium = IconifyIconData.solo(
-    IconData(0xea79, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea7a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-technologist-medium-dark`
   static const IconifyIconData womanTechnologistMediumDark = IconifyIconData.solo(
-    IconData(0xea7a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea7b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-technologist-medium-light`
   static const IconifyIconData womanTechnologistMediumLight = IconifyIconData.solo(
-    IconData(0xea7b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea7c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-tipping-hand`
   static const IconifyIconData womanTippingHand = IconifyIconData.solo(
-    IconData(0xea7c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea7d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-tipping-hand-dark`
   static const IconifyIconData womanTippingHandDark = IconifyIconData.solo(
-    IconData(0xea7d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea7e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-tipping-hand-light`
   static const IconifyIconData womanTippingHandLight = IconifyIconData.solo(
-    IconData(0xea7e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea7f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-tipping-hand-medium`
   static const IconifyIconData womanTippingHandMedium = IconifyIconData.solo(
-    IconData(0xea7f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea80, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-tipping-hand-medium-dark`
   static const IconifyIconData womanTippingHandMediumDark = IconifyIconData.solo(
-    IconData(0xea80, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea81, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-tipping-hand-medium-light`
   static const IconifyIconData womanTippingHandMediumLight = IconifyIconData.solo(
-    IconData(0xea81, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea82, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-vampire`
   static const IconifyIconData womanVampire = IconifyIconData.solo(
-    IconData(0xea82, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea83, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-vampire-dark`
   static const IconifyIconData womanVampireDark = IconifyIconData.solo(
-    IconData(0xea83, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea84, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-vampire-light`
   static const IconifyIconData womanVampireLight = IconifyIconData.solo(
-    IconData(0xea84, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea85, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-vampire-medium`
   static const IconifyIconData womanVampireMedium = IconifyIconData.solo(
-    IconData(0xea85, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea86, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-vampire-medium-dark`
   static const IconifyIconData womanVampireMediumDark = IconifyIconData.solo(
-    IconData(0xea86, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea87, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-vampire-medium-light`
   static const IconifyIconData womanVampireMediumLight = IconifyIconData.solo(
-    IconData(0xea87, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea88, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-walking`
   static const IconifyIconData womanWalking = IconifyIconData.solo(
-    IconData(0xea88, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea89, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-walking-dark`
   static const IconifyIconData womanWalkingDark = IconifyIconData.solo(
-    IconData(0xea89, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea8a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-walking-facing-right`
   static const IconifyIconData womanWalkingFacingRight = IconifyIconData.solo(
-    IconData(0xea8a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea8b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-walking-facing-right-dark`
   static const IconifyIconData womanWalkingFacingRightDark = IconifyIconData.solo(
-    IconData(0xea8b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea8c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-walking-facing-right-light`
   static const IconifyIconData womanWalkingFacingRightLight = IconifyIconData.solo(
-    IconData(0xea8c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea8d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-walking-facing-right-medium`
   static const IconifyIconData womanWalkingFacingRightMedium = IconifyIconData.solo(
-    IconData(0xea8d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea8e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-walking-facing-right-medium-dark`
   static const IconifyIconData womanWalkingFacingRightMediumDark = IconifyIconData.solo(
-    IconData(0xea8e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea8f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-walking-facing-right-medium-light`
   static const IconifyIconData womanWalkingFacingRightMediumLight = IconifyIconData.solo(
-    IconData(0xea8f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea90, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-walking-light`
   static const IconifyIconData womanWalkingLight = IconifyIconData.solo(
-    IconData(0xea90, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea91, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-walking-medium`
   static const IconifyIconData womanWalkingMedium = IconifyIconData.solo(
-    IconData(0xea91, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea92, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-walking-medium-dark`
   static const IconifyIconData womanWalkingMediumDark = IconifyIconData.solo(
-    IconData(0xea92, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea93, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-walking-medium-light`
   static const IconifyIconData womanWalkingMediumLight = IconifyIconData.solo(
-    IconData(0xea93, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea94, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-wearing-turban`
   static const IconifyIconData womanWearingTurban = IconifyIconData.solo(
-    IconData(0xea94, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea95, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-wearing-turban-dark`
   static const IconifyIconData womanWearingTurbanDark = IconifyIconData.solo(
-    IconData(0xea95, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea96, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-wearing-turban-light`
   static const IconifyIconData womanWearingTurbanLight = IconifyIconData.solo(
-    IconData(0xea96, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea97, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-wearing-turban-medium`
   static const IconifyIconData womanWearingTurbanMedium = IconifyIconData.solo(
-    IconData(0xea97, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea98, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-wearing-turban-medium-light`
   static const IconifyIconData womanWearingTurbanMediumLight = IconifyIconData.solo(
-    IconData(0xea98, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea99, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-white-hair`
   static const IconifyIconData womanWhiteHair = IconifyIconData.solo(
-    IconData(0xea99, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea9a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-white-hair-dark`
   static const IconifyIconData womanWhiteHairDark = IconifyIconData.solo(
-    IconData(0xea9a, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea9b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-white-hair-light`
   static const IconifyIconData womanWhiteHairLight = IconifyIconData.solo(
-    IconData(0xea9b, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea9c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-white-hair-medium`
   static const IconifyIconData womanWhiteHairMedium = IconifyIconData.solo(
-    IconData(0xea9c, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea9d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-white-hair-medium-dark`
   static const IconifyIconData womanWhiteHairMediumDark = IconifyIconData.solo(
-    IconData(0xea9d, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea9e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-white-hair-medium-light`
   static const IconifyIconData womanWhiteHairMediumLight = IconifyIconData.solo(
-    IconData(0xea9e, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xea9f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-bunny-ears`
   static const IconifyIconData womanWithBunnyEars = IconifyIconData.solo(
-    IconData(0xea9f, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaa0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-bunny-ears-dark`
   static const IconifyIconData womanWithBunnyEarsDark = IconifyIconData.solo(
-    IconData(0xeaa0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaa1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-bunny-ears-light`
   static const IconifyIconData womanWithBunnyEarsLight = IconifyIconData.solo(
-    IconData(0xeaa1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaa2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-bunny-ears-medium`
   static const IconifyIconData womanWithBunnyEarsMedium = IconifyIconData.solo(
-    IconData(0xeaa2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaa3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-bunny-ears-medium-dark`
   static const IconifyIconData womanWithBunnyEarsMediumDark = IconifyIconData.solo(
-    IconData(0xeaa3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaa4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-bunny-ears-medium-light`
   static const IconifyIconData womanWithBunnyEarsMediumLight = IconifyIconData.solo(
-    IconData(0xeaa4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaa5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-headscarf`
   static const IconifyIconData womanWithHeadscarf = IconifyIconData.solo(
-    IconData(0xeaa5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaa6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-headscarf-dark`
   static const IconifyIconData womanWithHeadscarfDark = IconifyIconData.solo(
-    IconData(0xeaa6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaa7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-headscarf-light`
   static const IconifyIconData womanWithHeadscarfLight = IconifyIconData.solo(
-    IconData(0xeaa7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaa8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-headscarf-medium`
   static const IconifyIconData womanWithHeadscarfMedium = IconifyIconData.solo(
-    IconData(0xeaa8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaa9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-headscarf-medium-light`
   static const IconifyIconData womanWithHeadscarfMediumLight = IconifyIconData.solo(
-    IconData(0xeaa9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaaa, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-veil`
   static const IconifyIconData womanWithVeil = IconifyIconData.solo(
-    IconData(0xeaaa, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaab, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-veil-dark`
   static const IconifyIconData womanWithVeilDark = IconifyIconData.solo(
-    IconData(0xeaab, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaac, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-veil-light`
   static const IconifyIconData womanWithVeilLight = IconifyIconData.solo(
-    IconData(0xeaac, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaad, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-veil-medium`
   static const IconifyIconData womanWithVeilMedium = IconifyIconData.solo(
-    IconData(0xeaad, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaae, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-veil-medium-light`
   static const IconifyIconData womanWithVeilMediumLight = IconifyIconData.solo(
-    IconData(0xeaae, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaaf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-white-cane`
   static const IconifyIconData womanWithWhiteCane = IconifyIconData.solo(
-    IconData(0xeaaf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeab0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-white-cane-facing-right`
   static const IconifyIconData womanWithWhiteCaneFacingRight = IconifyIconData.solo(
-    IconData(0xeab0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeab1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-white-cane-facing-right-light`
   static const IconifyIconData womanWithWhiteCaneFacingRightLight = IconifyIconData.solo(
-    IconData(0xeab1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeab2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-white-cane-facing-right-medium`
   static const IconifyIconData womanWithWhiteCaneFacingRightMedium = IconifyIconData.solo(
-    IconData(0xeab2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeab3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-white-cane-light`
   static const IconifyIconData womanWithWhiteCaneLight = IconifyIconData.solo(
-    IconData(0xeab3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeab4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-with-white-cane-medium`
   static const IconifyIconData womanWithWhiteCaneMedium = IconifyIconData.solo(
-    IconData(0xeab4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeab5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-wrestling`
   static const IconifyIconData womanWrestling = IconifyIconData.solo(
-    IconData(0xeab5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeab6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-wrestling-dark`
   static const IconifyIconData womanWrestlingDark = IconifyIconData.solo(
-    IconData(0xeab6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeab7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-wrestling-light`
   static const IconifyIconData womanWrestlingLight = IconifyIconData.solo(
-    IconData(0xeab7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeab8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-wrestling-medium`
   static const IconifyIconData womanWrestlingMedium = IconifyIconData.solo(
-    IconData(0xeab8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeab9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-wrestling-medium-dark`
   static const IconifyIconData womanWrestlingMediumDark = IconifyIconData.solo(
-    IconData(0xeab9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaba, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-wrestling-medium-light`
   static const IconifyIconData womanWrestlingMediumLight = IconifyIconData.solo(
-    IconData(0xeaba, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeabb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woman-zombie`
   static const IconifyIconData womanZombie = IconifyIconData.solo(
-    IconData(0xeabb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeabc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `womans-boot`
   static const IconifyIconData womansBoot = IconifyIconData.solo(
-    IconData(0xeabc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeabd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `womans-clothes`
   static const IconifyIconData womansClothes = IconifyIconData.solo(
-    IconData(0xeabd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeabe, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `womans-hat`
   static const IconifyIconData womansHat = IconifyIconData.solo(
-    IconData(0xeabe, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeabf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `womans-sandal`
   static const IconifyIconData womansSandal = IconifyIconData.solo(
-    IconData(0xeabf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeac0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `womens-room`
   static const IconifyIconData womensRoom = IconifyIconData.solo(
-    IconData(0xeac0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeac1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `wood`
   static const IconifyIconData wood = IconifyIconData.solo(
-    IconData(0xeac1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeac2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `woozy-face`
   static const IconifyIconData woozyFace = IconifyIconData.solo(
-    IconData(0xeac2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeac3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `world-map`
   static const IconifyIconData worldMap = IconifyIconData.solo(
-    IconData(0xeac3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeac4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `worried-face`
   static const IconifyIconData worriedFace = IconifyIconData.solo(
-    IconData(0xeac4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeac5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `wrench`
   static const IconifyIconData wrench = IconifyIconData.solo(
-    IconData(0xeac5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeac6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `writing-hand`
   static const IconifyIconData writingHand = IconifyIconData.solo(
-    IconData(0xeac6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeac7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `writing-hand-dark`
   static const IconifyIconData writingHandDark = IconifyIconData.solo(
-    IconData(0xeac7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeac8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `writing-hand-light`
   static const IconifyIconData writingHandLight = IconifyIconData.solo(
-    IconData(0xeac8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeac9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `writing-hand-medium`
   static const IconifyIconData writingHandMedium = IconifyIconData.solo(
-    IconData(0xeac9, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeaca, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `writing-hand-medium-dark`
   static const IconifyIconData writingHandMediumDark = IconifyIconData.solo(
-    IconData(0xeaca, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeacb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `writing-hand-medium-light`
   static const IconifyIconData writingHandMediumLight = IconifyIconData.solo(
-    IconData(0xeacb, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeacc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `x-ray`
   static const IconifyIconData xRay = IconifyIconData.solo(
-    IconData(0xeacc, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeacd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `yarn`
   static const IconifyIconData yarn = IconifyIconData.solo(
-    IconData(0xeacd, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeace, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `yawning-face`
   static const IconifyIconData yawningFace = IconifyIconData.solo(
-    IconData(0xeace, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xeacf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `yellow-circle`
   static const IconifyIconData yellowCircle = IconifyIconData.solo(
-    IconData(0xeacf, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xead0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `yellow-heart`
   static const IconifyIconData yellowHeart = IconifyIconData.solo(
-    IconData(0xead0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xead1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `yellow-square`
   static const IconifyIconData yellowSquare = IconifyIconData.solo(
-    IconData(0xead1, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xead2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `yen-banknote`
   static const IconifyIconData yenBanknote = IconifyIconData.solo(
-    IconData(0xead2, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xead3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `yin-yang`
   static const IconifyIconData yinYang = IconifyIconData.solo(
-    IconData(0xead3, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xead4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `yo-yo`
   static const IconifyIconData yoYo = IconifyIconData.solo(
-    IconData(0xead4, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xead5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `zany-face`
   static const IconifyIconData zanyFace = IconifyIconData.solo(
-    IconData(0xead5, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xead6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `zipper-mouth-face`
   static const IconifyIconData zipperMouthFace = IconifyIconData.solo(
-    IconData(0xead6, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xead7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `zzz`
   static const IconifyIconData zzz = IconifyIconData.solo(
-    IconData(0xead7, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xead8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
 }

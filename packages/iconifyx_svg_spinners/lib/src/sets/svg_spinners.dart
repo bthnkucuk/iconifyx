@@ -18,107 +18,107 @@ class SvgSpinnersIcons {
 
   /// `3-dots-bounce`
   static const IconifyIconData n3DotsBounce = IconifyIconData.solo(
-    IconData(0xe001, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe000, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `3-dots-fade`
   static const IconifyIconData n3DotsFade = IconifyIconData.solo(
-    IconData(0xe002, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe001, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `3-dots-move`
   static const IconifyIconData n3DotsMove = IconifyIconData.solo(
-    IconData(0xe003, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe002, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `3-dots-scale`
   static const IconifyIconData n3DotsScale = IconifyIconData.solo(
-    IconData(0xe004, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe003, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `3-dots-scale-middle`
   static const IconifyIconData n3DotsScaleMiddle = IconifyIconData.solo(
-    IconData(0xe005, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe004, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `6-dots-scale`
   static const IconifyIconData n6DotsScale = IconifyIconData.solo(
-    IconData(0xe006, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe005, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `6-dots-scale-middle`
   static const IconifyIconData n6DotsScaleMiddle = IconifyIconData.solo(
-    IconData(0xe007, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe006, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `bars-fade`
   static const IconifyIconData barsFade = IconifyIconData.solo(
-    IconData(0xe008, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe007, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `bars-scale`
   static const IconifyIconData barsScale = IconifyIconData.solo(
-    IconData(0xe009, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe008, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `bars-scale-fade`
   static const IconifyIconData barsScaleFade = IconifyIconData.solo(
-    IconData(0xe00a, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe009, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `bars-scale-middle`
   static const IconifyIconData barsScaleMiddle = IconifyIconData.solo(
-    IconData(0xe00b, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe00a, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `blocks-scale`
   static const IconifyIconData blocksScale = IconifyIconData.solo(
-    IconData(0xe00c, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe00b, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `blocks-shuffle-2`
   static const IconifyIconData blocksShuffle2 = IconifyIconData.solo(
-    IconData(0xe00d, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe00c, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `blocks-shuffle-3`
   static const IconifyIconData blocksShuffle3 = IconifyIconData.solo(
-    IconData(0xe00e, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe00d, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `blocks-wave`
   static const IconifyIconData blocksWave = IconifyIconData.solo(
-    IconData(0xe00f, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe00e, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `bouncing-ball`
   static const IconifyIconData bouncingBall = IconifyIconData.solo(
-    IconData(0xe010, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe00f, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `pulse`
   static const IconifyIconData pulse = IconifyIconData.solo(
-    IconData(0xe011, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe010, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `pulse-2`
   static const IconifyIconData pulse2 = IconifyIconData.solo(
-    IconData(0xe012, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe011, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `pulse-3`
   static const IconifyIconData pulse3 = IconifyIconData.solo(
-    IconData(0xe013, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe012, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `pulse-multiple`
   static const IconifyIconData pulseMultiple = IconifyIconData.solo(
-    IconData(0xe014, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe013, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `ring-resize`
   static const IconifyIconData ringResize = IconifyIconData.solo(
-    IconData(0xe000, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
+    IconData(0xe018, fontFamily: 'SvgSpinners', fontPackage: 'iconifyx_svg_spinners'),
   );
 
   /// `wifi`

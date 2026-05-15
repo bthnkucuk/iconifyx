@@ -738,27 +738,27 @@ class AcademiconsIcons {
 
   /// `wiley`
   static const IconifyIconData wiley = IconifyIconData.solo(
-    IconData(0xe094, fontFamily: 'Academicons', fontPackage: 'iconifyx_academicons'),
+    IconData(0xe090, fontFamily: 'Academicons', fontPackage: 'iconifyx_academicons'),
   );
 
   /// `zenodo`
   static const IconifyIconData zenodo = IconifyIconData.solo(
-    IconData(0xe090, fontFamily: 'Academicons', fontPackage: 'iconifyx_academicons'),
+    IconData(0xe091, fontFamily: 'Academicons', fontPackage: 'iconifyx_academicons'),
   );
 
   /// `zenodo-square`
   static const IconifyIconData zenodoSquare = IconifyIconData.solo(
-    IconData(0xe091, fontFamily: 'Academicons', fontPackage: 'iconifyx_academicons'),
+    IconData(0xe092, fontFamily: 'Academicons', fontPackage: 'iconifyx_academicons'),
   );
 
   /// `zotero`
   static const IconifyIconData zotero = IconifyIconData.solo(
-    IconData(0xe092, fontFamily: 'Academicons', fontPackage: 'iconifyx_academicons'),
+    IconData(0xe093, fontFamily: 'Academicons', fontPackage: 'iconifyx_academicons'),
   );
 
   /// `zotero-square`
   static const IconifyIconData zoteroSquare = IconifyIconData.solo(
-    IconData(0xe093, fontFamily: 'Academicons', fontPackage: 'iconifyx_academicons'),
+    IconData(0xe094, fontFamily: 'Academicons', fontPackage: 'iconifyx_academicons'),
   );
 
 }

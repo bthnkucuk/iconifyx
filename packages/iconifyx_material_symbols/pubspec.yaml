@@ -20,12 +20,3 @@ flutter:
     - family: MaterialSymbols
       fonts:
         - asset: assets/fonts/MaterialSymbols.ttf
-    - family: MaterialSymbols_2
-      fonts:
-        - asset: assets/fonts/MaterialSymbols_2.ttf
-    - family: MaterialSymbols_3
-      fonts:
-        - asset: assets/fonts/MaterialSymbols_3.ttf
-    - family: MaterialSymbols_4
-      fonts:
-        - asset: assets/fonts/MaterialSymbols_4.ttf

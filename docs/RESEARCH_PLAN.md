@@ -3142,14 +3142,19 @@ real value.**
 
 ## §28 — Multi-pack tree-shake: EMPIRICAL findings + invariant correction
 
-**Verdict: CLAUDE.md §1 invariant claim is OVERSTATED. Tree-shake
-works at the glyph level — the sibling TTF containing a referenced
-codepoint shrinks to ~700-1 000 B. BUT every OTHER sibling TTF in
-the same auto-split pack ships at FULL SIZE because Flutter's
-bundler has no "drop empty TTF" step. Net result for the user's
-exact scenario (3 icons from 3 packs: mdi + lucide + tabler):
-12.1 MB shaken vs 15.8 MB unshaken — only 24 % reduction, NOT 99 %.
-Full empirical report at [docs/TREESHAKE_VERIFICATION.md](TREESHAKE_VERIFICATION.md).**
+> ✅ **RESOLVED in §32 (single-TTF-per-pack via cmap format 12).**
+> The 12.1 MB → 2.5 KB delta for the same 3-pack scenario is now
+> the shipped behaviour. Historical record below preserved.
+
+**Original verdict (2026-05-15): CLAUDE.md §1 invariant claim is
+OVERSTATED. Tree-shake works at the glyph level — the sibling TTF
+containing a referenced codepoint shrinks to ~700-1 000 B. BUT every
+OTHER sibling TTF in the same auto-split pack ships at FULL SIZE
+because Flutter's bundler has no "drop empty TTF" step. Net result
+for the user's exact scenario (3 icons from 3 packs: mdi + lucide +
+tabler): 12.1 MB shaken vs 15.8 MB unshaken — only 24 % reduction,
+NOT 99 %.** Full empirical report at
+[docs/TREESHAKE_VERIFICATION.md](TREESHAKE_VERIFICATION.md).
 
 ### The user's exact question — measured answer
 
@@ -3717,13 +3722,25 @@ long. Skip §8 Python unless §3-quick + §4 prove insufficient.
 
 ## §31 — Tree-shake sibling-TTF tax: zero-config auto-fix research
 
-**Verdict: With current Flutter SDK, "consumer runs `flutter build`
-with zero config, 50 icons across 10 packs = 35 KB" is NOT
-achievable on all platforms. The single blocker is one line in
-`packages/flutter_tools/lib/src/build_system/targets/assets.dart`
+> ✅ **OBSOLETE — superseded by §32.** §32 found a generator-side path
+> (cmap format 12 + Supplementary PUA, empirically verified) that
+> delivers zero-config tree-shake on ALL platforms WITHOUT a Flutter
+> SDK PR. Historical investigation below preserved as record.
+
+**Original verdict (2026-05-15): With current Flutter SDK, "consumer
+runs `flutter build` with zero config, 50 icons across 10 packs =
+35 KB" is NOT achievable on all platforms. The single blocker is one
+line in `packages/flutter_tools/lib/src/build_system/targets/assets.dart`
 that we don't control. Best achievable today: ~80 % reduction via
-popularity-reallocation + Android-only Gradle post-build strip;
-real fix requires Flutter SDK PR (issue #64106, dormant 6 years).**
+popularity-reallocation + Android-only Gradle post-build strip; real
+fix requires Flutter SDK PR (issue #64106, dormant 6 years).**
+
+*Update (2026-05-16): the underlying assumption — that we couldn't
+move icons out of BMP — was empirically wrong. §32's cmap-format-12 +
+supp-PUA approach skips the Flutter SDK blocker entirely. The
+~30-line `assets.dart` PR may still be a worthwhile upstream
+contribution for the broader Flutter ecosystem, but iconifyx no
+longer depends on it.*
 
 ### The single line that's blocking us
 
@@ -3947,16 +3964,23 @@ platforms today without modifying Flutter SDK.**
 
 ---
 
-## §32 — Single-TTF-per-pack via cmap format 12 + supp PUA: **EMPIRICAL GO**
+## §32 — Single-TTF-per-pack via cmap format 12 + supp PUA: **SHIPPED**
 
-**Verdict: VERIFIED. cmap format 12 + Supplementary PUA codepoints
-render correctly across macOS desktop release, Flutter web CanvasKit
-release, and iOS simulator. Tree-shake `font-subset` correctly
-subsets supp-PUA references (724 B for one icon, vs 1736 B baseline).
-SOLVES the sibling-TTF tax (§28) WITHOUT Flutter SDK PR / Android
-Gradle plugin / popularity reallocation / configurator. CLAUDE.md
-§4's "renderer fragile in supp PUA" claim is empirically false as
-of Flutter 3.44.**
+> 🚀 **STATUS: SHIPPED in commits f75c572 (Phase A), aa68b3d (Phase B),
+> + Phase C/D/E in the final commit.** Generator now collapses every
+> multi-sibling pack into a single TTF mid-pipeline. Empirically
+> measured: 10 packs × 5 icons = **17.66 KB total bundled fonts**
+> (vs ~30-50 MB before). CI gate at `.github/workflows/treeshake-
+> regression.yml` enforces the invariant.
+
+**Original verdict (2026-05-16, pre-implementation): VERIFIED. cmap
+format 12 + Supplementary PUA codepoints render correctly across
+macOS desktop release, Flutter web CanvasKit release, and iOS
+simulator. Tree-shake `font-subset` correctly subsets supp-PUA
+references (724 B for one icon, vs 1736 B baseline). SOLVES the
+sibling-TTF tax (§28) WITHOUT Flutter SDK PR / Android Gradle plugin
+/ popularity reallocation / configurator. CLAUDE.md §4's "renderer
+fragile in supp PUA" claim is empirically false as of Flutter 3.44.**
 
 ### Test methodology
 

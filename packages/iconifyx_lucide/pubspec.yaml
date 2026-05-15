@@ -20,6 +20,3 @@ flutter:
     - family: Lucide
       fonts:
         - asset: assets/fonts/Lucide.ttf
-    - family: Lucide_2
-      fonts:
-        - asset: assets/fonts/Lucide_2.ttf

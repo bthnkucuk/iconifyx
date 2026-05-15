@@ -1202,1027 +1202,1027 @@
       "identifier": "pollenFill"
     },
     "pollen-flower": {
-      "codepoint": 57776,
+      "codepoint": 57579,
       "fontFamily": "Meteocons",
       "identifier": "pollenFlower"
     },
     "pollen-flower-fill": {
-      "codepoint": 57579,
+      "codepoint": 57580,
       "fontFamily": "Meteocons",
       "identifier": "pollenFlowerFill"
     },
     "pollen-grass": {
-      "codepoint": 57580,
+      "codepoint": 57581,
       "fontFamily": "Meteocons",
       "identifier": "pollenGrass"
     },
     "pollen-grass-fill": {
-      "codepoint": 57581,
+      "codepoint": 57582,
       "fontFamily": "Meteocons",
       "identifier": "pollenGrassFill"
     },
     "pollen-tree": {
-      "codepoint": 57777,
+      "codepoint": 57583,
       "fontFamily": "Meteocons",
       "identifier": "pollenTree"
     },
     "pollen-tree-fill": {
-      "codepoint": 57582,
+      "codepoint": 57584,
       "fontFamily": "Meteocons",
       "identifier": "pollenTreeFill"
     },
     "pressure-high": {
-      "codepoint": 57778,
+      "codepoint": 57585,
       "fontFamily": "Meteocons",
       "identifier": "pressureHigh"
     },
     "pressure-high-alt-fill": {
-      "codepoint": 57583,
+      "codepoint": 57586,
       "fontFamily": "Meteocons",
       "identifier": "pressureHighAltFill"
     },
     "pressure-high-fill": {
-      "codepoint": 57779,
+      "codepoint": 57587,
       "fontFamily": "Meteocons",
       "identifier": "pressureHighFill"
     },
     "pressure-low": {
-      "codepoint": 57584,
+      "codepoint": 57588,
       "fontFamily": "Meteocons",
       "identifier": "pressureLow"
     },
     "pressure-low-alt-fill": {
-      "codepoint": 57585,
+      "codepoint": 57589,
       "fontFamily": "Meteocons",
       "identifier": "pressureLowAltFill"
     },
     "pressure-low-fill": {
-      "codepoint": 57586,
+      "codepoint": 57590,
       "fontFamily": "Meteocons",
       "identifier": "pressureLowFill"
     },
     "rain": {
-      "codepoint": 57587,
+      "codepoint": 57591,
       "fontFamily": "Meteocons",
       "identifier": "rain"
     },
     "rain-fill": {
-      "codepoint": 57588,
+      "codepoint": 57592,
       "fontFamily": "Meteocons",
       "identifier": "rainFill"
     },
     "rainbow": {
-      "codepoint": 57589,
+      "codepoint": 57593,
       "fontFamily": "Meteocons",
       "identifier": "rainbow"
     },
     "rainbow-clear": {
-      "codepoint": 57590,
+      "codepoint": 57594,
       "fontFamily": "Meteocons",
       "identifier": "rainbowClear"
     },
     "rainbow-clear-fill": {
-      "codepoint": 57591,
+      "codepoint": 57595,
       "fontFamily": "Meteocons",
       "identifier": "rainbowClearFill"
     },
     "rainbow-fill": {
-      "codepoint": 57592,
+      "codepoint": 57596,
       "fontFamily": "Meteocons",
       "identifier": "rainbowFill"
     },
     "raindrop": {
-      "codepoint": 57593,
+      "codepoint": 57597,
       "fontFamily": "Meteocons",
       "identifier": "raindrop"
     },
     "raindrop-fill": {
-      "codepoint": 57594,
+      "codepoint": 57598,
       "fontFamily": "Meteocons",
       "identifier": "raindropFill"
     },
     "raindrop-measure": {
-      "codepoint": 57595,
+      "codepoint": 57599,
       "fontFamily": "Meteocons",
       "identifier": "raindropMeasure"
     },
     "raindrop-measure-fill": {
-      "codepoint": 57596,
+      "codepoint": 57600,
       "fontFamily": "Meteocons",
       "identifier": "raindropMeasureFill"
     },
     "raindrops": {
-      "codepoint": 57597,
+      "codepoint": 57601,
       "fontFamily": "Meteocons",
       "identifier": "raindrops"
     },
     "raindrops-fill": {
-      "codepoint": 57598,
+      "codepoint": 57602,
       "fontFamily": "Meteocons",
       "identifier": "raindropsFill"
     },
     "sleet": {
-      "codepoint": 57599,
+      "codepoint": 57603,
       "fontFamily": "Meteocons",
       "identifier": "sleet"
     },
     "sleet-fill": {
-      "codepoint": 57600,
+      "codepoint": 57604,
       "fontFamily": "Meteocons",
       "identifier": "sleetFill"
     },
     "smoke": {
-      "codepoint": 57601,
+      "codepoint": 57605,
       "fontFamily": "Meteocons",
       "identifier": "smoke"
     },
     "smoke-fill": {
-      "codepoint": 57602,
+      "codepoint": 57606,
       "fontFamily": "Meteocons",
       "identifier": "smokeFill"
     },
     "smoke-particles": {
-      "codepoint": 57603,
+      "codepoint": 57607,
       "fontFamily": "Meteocons",
       "identifier": "smokeParticles"
     },
     "smoke-particles-fill": {
-      "codepoint": 57604,
+      "codepoint": 57608,
       "fontFamily": "Meteocons",
       "identifier": "smokeParticlesFill"
     },
     "snow": {
-      "codepoint": 57605,
+      "codepoint": 57609,
       "fontFamily": "Meteocons",
       "identifier": "snow"
     },
     "snow-fill": {
-      "codepoint": 57606,
+      "codepoint": 57610,
       "fontFamily": "Meteocons",
       "identifier": "snowFill"
     },
     "snowflake": {
-      "codepoint": 57607,
+      "codepoint": 57611,
       "fontFamily": "Meteocons",
       "identifier": "snowflake"
     },
     "snowflake-fill": {
-      "codepoint": 57608,
+      "codepoint": 57612,
       "fontFamily": "Meteocons",
       "identifier": "snowflakeFill"
     },
     "snowman": {
-      "codepoint": 57609,
+      "codepoint": 57613,
       "fontFamily": "Meteocons",
       "identifier": "snowman"
     },
     "solar-eclipse": {
-      "codepoint": 57610,
+      "codepoint": 57614,
       "fontFamily": "Meteocons",
       "identifier": "solarEclipse"
     },
     "solar-eclipse-fill": {
-      "codepoint": 57611,
+      "codepoint": 57615,
       "fontFamily": "Meteocons",
       "identifier": "solarEclipseFill"
     },
     "star": {
-      "codepoint": 57612,
+      "codepoint": 57616,
       "fontFamily": "Meteocons",
       "identifier": "star"
     },
     "star-fill": {
-      "codepoint": 57613,
+      "codepoint": 57617,
       "fontFamily": "Meteocons",
       "identifier": "starFill"
     },
     "starry-night": {
-      "codepoint": 57614,
+      "codepoint": 57618,
       "fontFamily": "Meteocons",
       "identifier": "starryNight"
     },
     "starry-night-fill": {
-      "codepoint": 57615,
+      "codepoint": 57619,
       "fontFamily": "Meteocons",
       "identifier": "starryNightFill"
     },
     "sun-hot": {
-      "codepoint": 57616,
+      "codepoint": 57620,
       "fontFamily": "Meteocons",
       "identifier": "sunHot"
     },
     "sun-hot-fill": {
-      "codepoint": 57617,
+      "codepoint": 57621,
       "fontFamily": "Meteocons",
       "identifier": "sunHotFill"
     },
     "sunrise": {
-      "codepoint": 57618,
+      "codepoint": 57622,
       "fontFamily": "Meteocons",
       "identifier": "sunrise"
     },
     "sunrise-fill": {
-      "codepoint": 57619,
+      "codepoint": 57623,
       "fontFamily": "Meteocons",
       "identifier": "sunriseFill"
     },
     "sunset": {
-      "codepoint": 57620,
+      "codepoint": 57624,
       "fontFamily": "Meteocons",
       "identifier": "sunset"
     },
     "sunset-fill": {
-      "codepoint": 57621,
+      "codepoint": 57625,
       "fontFamily": "Meteocons",
       "identifier": "sunsetFill"
     },
     "thermometer": {
-      "codepoint": 57622,
+      "codepoint": 57626,
       "fontFamily": "Meteocons",
       "identifier": "thermometer"
     },
     "thermometer-celsius": {
-      "codepoint": 57780,
+      "codepoint": 57627,
       "fontFamily": "Meteocons",
       "identifier": "thermometerCelsius"
     },
     "thermometer-celsius-fill": {
-      "codepoint": 57781,
+      "codepoint": 57628,
       "fontFamily": "Meteocons",
       "identifier": "thermometerCelsiusFill"
     },
     "thermometer-colder": {
-      "codepoint": 57623,
+      "codepoint": 57629,
       "fontFamily": "Meteocons",
       "identifier": "thermometerColder"
     },
     "thermometer-colder-fill": {
-      "codepoint": 57624,
+      "codepoint": 57630,
       "fontFamily": "Meteocons",
       "identifier": "thermometerColderFill"
     },
     "thermometer-fahrenheit": {
-      "codepoint": 57782,
+      "codepoint": 57631,
       "fontFamily": "Meteocons",
       "identifier": "thermometerFahrenheit"
     },
     "thermometer-fahrenheit-fill": {
-      "codepoint": 57783,
+      "codepoint": 57632,
       "fontFamily": "Meteocons",
       "identifier": "thermometerFahrenheitFill"
     },
     "thermometer-fill": {
-      "codepoint": 57625,
+      "codepoint": 57633,
       "fontFamily": "Meteocons",
       "identifier": "thermometerFill"
     },
     "thermometer-glass": {
-      "codepoint": 57626,
+      "codepoint": 57634,
       "fontFamily": "Meteocons",
       "identifier": "thermometerGlass"
     },
     "thermometer-glass-celsius": {
-      "codepoint": 57627,
+      "codepoint": 57635,
       "fontFamily": "Meteocons",
       "identifier": "thermometerGlassCelsius"
     },
     "thermometer-glass-celsius-fill": {
-      "codepoint": 57628,
+      "codepoint": 57636,
       "fontFamily": "Meteocons",
       "identifier": "thermometerGlassCelsiusFill"
     },
     "thermometer-glass-fahrenheit": {
-      "codepoint": 57629,
+      "codepoint": 57637,
       "fontFamily": "Meteocons",
       "identifier": "thermometerGlassFahrenheit"
     },
     "thermometer-glass-fahrenheit-fill": {
-      "codepoint": 57630,
+      "codepoint": 57638,
       "fontFamily": "Meteocons",
       "identifier": "thermometerGlassFahrenheitFill"
     },
     "thermometer-glass-fill": {
-      "codepoint": 57631,
+      "codepoint": 57639,
       "fontFamily": "Meteocons",
       "identifier": "thermometerGlassFill"
     },
     "thermometer-mercury": {
-      "codepoint": 57632,
+      "codepoint": 57640,
       "fontFamily": "Meteocons",
       "identifier": "thermometerMercury"
     },
     "thermometer-mercury-cold": {
-      "codepoint": 57633,
+      "codepoint": 57641,
       "fontFamily": "Meteocons",
       "identifier": "thermometerMercuryCold"
     },
     "thermometer-mercury-cold-fill": {
-      "codepoint": 57634,
+      "codepoint": 57642,
       "fontFamily": "Meteocons",
       "identifier": "thermometerMercuryColdFill"
     },
     "thermometer-mercury-fill": {
-      "codepoint": 57635,
+      "codepoint": 57643,
       "fontFamily": "Meteocons",
       "identifier": "thermometerMercuryFill"
     },
     "thermometer-moon": {
-      "codepoint": 57636,
+      "codepoint": 57644,
       "fontFamily": "Meteocons",
       "identifier": "thermometerMoon"
     },
     "thermometer-moon-fill": {
-      "codepoint": 57637,
+      "codepoint": 57645,
       "fontFamily": "Meteocons",
       "identifier": "thermometerMoonFill"
     },
     "thermometer-raindrop": {
-      "codepoint": 57638,
+      "codepoint": 57646,
       "fontFamily": "Meteocons",
       "identifier": "thermometerRaindrop"
     },
     "thermometer-raindrop-fill": {
-      "codepoint": 57639,
+      "codepoint": 57647,
       "fontFamily": "Meteocons",
       "identifier": "thermometerRaindropFill"
     },
     "thermometer-snow": {
-      "codepoint": 57640,
+      "codepoint": 57648,
       "fontFamily": "Meteocons",
       "identifier": "thermometerSnow"
     },
     "thermometer-snow-fill": {
-      "codepoint": 57641,
+      "codepoint": 57649,
       "fontFamily": "Meteocons",
       "identifier": "thermometerSnowFill"
     },
     "thermometer-sun": {
-      "codepoint": 57642,
+      "codepoint": 57650,
       "fontFamily": "Meteocons",
       "identifier": "thermometerSun"
     },
     "thermometer-sun-fill": {
-      "codepoint": 57643,
+      "codepoint": 57651,
       "fontFamily": "Meteocons",
       "identifier": "thermometerSunFill"
     },
     "thermometer-warmer": {
-      "codepoint": 57644,
+      "codepoint": 57652,
       "fontFamily": "Meteocons",
       "identifier": "thermometerWarmer"
     },
     "thermometer-warmer-fill": {
-      "codepoint": 57645,
+      "codepoint": 57653,
       "fontFamily": "Meteocons",
       "identifier": "thermometerWarmerFill"
     },
     "thermometer-water": {
-      "codepoint": 57646,
+      "codepoint": 57654,
       "fontFamily": "Meteocons",
       "identifier": "thermometerWater"
     },
     "thermometer-water-fill": {
-      "codepoint": 57647,
+      "codepoint": 57655,
       "fontFamily": "Meteocons",
       "identifier": "thermometerWaterFill"
     },
     "thunderstorms": {
-      "codepoint": 57648,
+      "codepoint": 57656,
       "fontFamily": "Meteocons",
       "identifier": "thunderstorms"
     },
     "thunderstorms-day": {
-      "codepoint": 57649,
+      "codepoint": 57657,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDay"
     },
     "thunderstorms-day-extreme": {
-      "codepoint": 57650,
+      "codepoint": 57658,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDayExtreme"
     },
     "thunderstorms-day-extreme-fill": {
-      "codepoint": 57651,
+      "codepoint": 57659,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDayExtremeFill"
     },
     "thunderstorms-day-extreme-snow": {
-      "codepoint": 57652,
+      "codepoint": 57660,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDayExtremeSnow"
     },
     "thunderstorms-day-extreme-snow-fill": {
-      "codepoint": 57653,
+      "codepoint": 57661,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDayExtremeSnowFill"
     },
     "thunderstorms-day-fill": {
-      "codepoint": 57654,
+      "codepoint": 57662,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDayFill"
     },
     "thunderstorms-day-overcast": {
-      "codepoint": 57655,
+      "codepoint": 57663,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDayOvercast"
     },
     "thunderstorms-day-overcast-fill": {
-      "codepoint": 57656,
+      "codepoint": 57664,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDayOvercastFill"
     },
     "thunderstorms-day-overcast-snow": {
-      "codepoint": 57657,
+      "codepoint": 57665,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDayOvercastSnow"
     },
     "thunderstorms-day-overcast-snow-fill": {
-      "codepoint": 57658,
+      "codepoint": 57666,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDayOvercastSnowFill"
     },
     "thunderstorms-day-snow": {
-      "codepoint": 57659,
+      "codepoint": 57667,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDaySnow"
     },
     "thunderstorms-day-snow-fill": {
-      "codepoint": 57660,
+      "codepoint": 57668,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsDaySnowFill"
     },
     "thunderstorms-extreme": {
-      "codepoint": 57661,
+      "codepoint": 57669,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsExtreme"
     },
     "thunderstorms-extreme-fill": {
-      "codepoint": 57662,
+      "codepoint": 57670,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsExtremeFill"
     },
     "thunderstorms-extreme-snow": {
-      "codepoint": 57663,
+      "codepoint": 57671,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsExtremeSnow"
     },
     "thunderstorms-extreme-snow-fill": {
-      "codepoint": 57664,
+      "codepoint": 57672,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsExtremeSnowFill"
     },
     "thunderstorms-fill": {
-      "codepoint": 57665,
+      "codepoint": 57673,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsFill"
     },
     "thunderstorms-night": {
-      "codepoint": 57666,
+      "codepoint": 57674,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNight"
     },
     "thunderstorms-night-extreme": {
-      "codepoint": 57667,
+      "codepoint": 57675,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightExtreme"
     },
     "thunderstorms-night-extreme-fill": {
-      "codepoint": 57668,
+      "codepoint": 57676,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightExtremeFill"
     },
     "thunderstorms-night-extreme-snow": {
-      "codepoint": 57669,
+      "codepoint": 57677,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightExtremeSnow"
     },
     "thunderstorms-night-extreme-snow-fill": {
-      "codepoint": 57670,
+      "codepoint": 57678,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightExtremeSnowFill"
     },
     "thunderstorms-night-fill": {
-      "codepoint": 57671,
+      "codepoint": 57679,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightFill"
     },
     "thunderstorms-night-overcast": {
-      "codepoint": 57672,
+      "codepoint": 57680,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightOvercast"
     },
     "thunderstorms-night-overcast-fill": {
-      "codepoint": 57673,
+      "codepoint": 57681,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightOvercastFill"
     },
     "thunderstorms-night-overcast-snow": {
-      "codepoint": 57674,
+      "codepoint": 57682,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightOvercastSnow"
     },
     "thunderstorms-night-overcast-snow-fill": {
-      "codepoint": 57675,
+      "codepoint": 57683,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightOvercastSnowFill"
     },
     "thunderstorms-night-snow": {
-      "codepoint": 57676,
+      "codepoint": 57684,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightSnow"
     },
     "thunderstorms-night-snow-fill": {
-      "codepoint": 57677,
+      "codepoint": 57685,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsNightSnowFill"
     },
     "thunderstorms-overcast": {
-      "codepoint": 57678,
+      "codepoint": 57686,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsOvercast"
     },
     "thunderstorms-overcast-fill": {
-      "codepoint": 57679,
+      "codepoint": 57687,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsOvercastFill"
     },
     "thunderstorms-overcast-snow": {
-      "codepoint": 57680,
+      "codepoint": 57688,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsOvercastSnow"
     },
     "thunderstorms-overcast-snow-fill": {
-      "codepoint": 57681,
+      "codepoint": 57689,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsOvercastSnowFill"
     },
     "thunderstorms-snow": {
-      "codepoint": 57682,
+      "codepoint": 57690,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsSnow"
     },
     "thunderstorms-snow-fill": {
-      "codepoint": 57683,
+      "codepoint": 57691,
       "fontFamily": "Meteocons",
       "identifier": "thunderstormsSnowFill"
     },
     "tide-high": {
-      "codepoint": 57684,
+      "codepoint": 57692,
       "fontFamily": "Meteocons",
       "identifier": "tideHigh"
     },
     "tide-high-fill": {
-      "codepoint": 57685,
+      "codepoint": 57693,
       "fontFamily": "Meteocons",
       "identifier": "tideHighFill"
     },
     "tide-low": {
-      "codepoint": 57686,
+      "codepoint": 57694,
       "fontFamily": "Meteocons",
       "identifier": "tideLow"
     },
     "tide-low-fill": {
-      "codepoint": 57687,
+      "codepoint": 57695,
       "fontFamily": "Meteocons",
       "identifier": "tideLowFill"
     },
     "time-afternoon": {
-      "codepoint": 57688,
+      "codepoint": 57696,
       "fontFamily": "Meteocons",
       "identifier": "timeAfternoon"
     },
     "time-afternoon-fill": {
-      "codepoint": 57689,
+      "codepoint": 57697,
       "fontFamily": "Meteocons",
       "identifier": "timeAfternoonFill"
     },
     "time-evening": {
-      "codepoint": 57690,
+      "codepoint": 57698,
       "fontFamily": "Meteocons",
       "identifier": "timeEvening"
     },
     "time-evening-fill": {
-      "codepoint": 57691,
+      "codepoint": 57699,
       "fontFamily": "Meteocons",
       "identifier": "timeEveningFill"
     },
     "time-late-afternoon": {
-      "codepoint": 57692,
+      "codepoint": 57700,
       "fontFamily": "Meteocons",
       "identifier": "timeLateAfternoon"
     },
     "time-late-afternoon-fill": {
-      "codepoint": 57693,
+      "codepoint": 57701,
       "fontFamily": "Meteocons",
       "identifier": "timeLateAfternoonFill"
     },
     "time-late-evening": {
-      "codepoint": 57694,
+      "codepoint": 57702,
       "fontFamily": "Meteocons",
       "identifier": "timeLateEvening"
     },
     "time-late-evening-fill": {
-      "codepoint": 57695,
+      "codepoint": 57703,
       "fontFamily": "Meteocons",
       "identifier": "timeLateEveningFill"
     },
     "time-late-morning": {
-      "codepoint": 57696,
+      "codepoint": 57704,
       "fontFamily": "Meteocons",
       "identifier": "timeLateMorning"
     },
     "time-late-morning-fill": {
-      "codepoint": 57697,
+      "codepoint": 57705,
       "fontFamily": "Meteocons",
       "identifier": "timeLateMorningFill"
     },
     "time-late-night": {
-      "codepoint": 57698,
+      "codepoint": 57706,
       "fontFamily": "Meteocons",
       "identifier": "timeLateNight"
     },
     "time-late-night-fill": {
-      "codepoint": 57699,
+      "codepoint": 57707,
       "fontFamily": "Meteocons",
       "identifier": "timeLateNightFill"
     },
     "time-morning": {
-      "codepoint": 57700,
+      "codepoint": 57708,
       "fontFamily": "Meteocons",
       "identifier": "timeMorning"
     },
     "time-morning-fill": {
-      "codepoint": 57701,
+      "codepoint": 57709,
       "fontFamily": "Meteocons",
       "identifier": "timeMorningFill"
     },
     "time-night": {
-      "codepoint": 57702,
+      "codepoint": 57710,
       "fontFamily": "Meteocons",
       "identifier": "timeNight"
     },
     "time-night-fill": {
-      "codepoint": 57703,
+      "codepoint": 57711,
       "fontFamily": "Meteocons",
       "identifier": "timeNightFill"
     },
     "tornado": {
-      "codepoint": 57704,
+      "codepoint": 57712,
       "fontFamily": "Meteocons",
       "identifier": "tornado"
     },
     "tornado-fill": {
-      "codepoint": 57705,
+      "codepoint": 57713,
       "fontFamily": "Meteocons",
       "identifier": "tornadoFill"
     },
     "umbrella": {
-      "codepoint": 57706,
+      "codepoint": 57714,
       "fontFamily": "Meteocons",
       "identifier": "umbrella"
     },
     "umbrella-fill": {
-      "codepoint": 57707,
+      "codepoint": 57715,
       "fontFamily": "Meteocons",
       "identifier": "umbrellaFill"
     },
     "umbrella-wind": {
-      "codepoint": 57708,
+      "codepoint": 57716,
       "fontFamily": "Meteocons",
       "identifier": "umbrellaWind"
     },
     "umbrella-wind-alt": {
-      "codepoint": 57709,
+      "codepoint": 57717,
       "fontFamily": "Meteocons",
       "identifier": "umbrellaWindAlt"
     },
     "umbrella-wind-alt-fill": {
-      "codepoint": 57710,
+      "codepoint": 57718,
       "fontFamily": "Meteocons",
       "identifier": "umbrellaWindAltFill"
     },
     "umbrella-wind-fill": {
-      "codepoint": 57711,
+      "codepoint": 57719,
       "fontFamily": "Meteocons",
       "identifier": "umbrellaWindFill"
     },
     "uv-index": {
-      "codepoint": 57712,
+      "codepoint": 57720,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex"
     },
     "uv-index-1": {
-      "codepoint": 57713,
+      "codepoint": 57721,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex1"
     },
     "uv-index-1-fill": {
-      "codepoint": 57714,
+      "codepoint": 57722,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex1Fill"
     },
     "uv-index-10": {
-      "codepoint": 57715,
+      "codepoint": 57723,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex10"
     },
     "uv-index-10-fill": {
-      "codepoint": 57716,
+      "codepoint": 57724,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex10Fill"
     },
     "uv-index-11": {
-      "codepoint": 57717,
+      "codepoint": 57725,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex11"
     },
     "uv-index-11-fill": {
-      "codepoint": 57718,
+      "codepoint": 57726,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex11Fill"
     },
     "uv-index-2": {
-      "codepoint": 57719,
+      "codepoint": 57727,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex2"
     },
     "uv-index-2-fill": {
-      "codepoint": 57720,
+      "codepoint": 57728,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex2Fill"
     },
     "uv-index-3": {
-      "codepoint": 57721,
+      "codepoint": 57729,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex3"
     },
     "uv-index-3-fill": {
-      "codepoint": 57722,
+      "codepoint": 57730,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex3Fill"
     },
     "uv-index-4": {
-      "codepoint": 57723,
+      "codepoint": 57731,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex4"
     },
     "uv-index-4-fill": {
-      "codepoint": 57724,
+      "codepoint": 57732,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex4Fill"
     },
     "uv-index-5": {
-      "codepoint": 57725,
+      "codepoint": 57733,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex5"
     },
     "uv-index-5-fill": {
-      "codepoint": 57726,
+      "codepoint": 57734,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex5Fill"
     },
     "uv-index-6": {
-      "codepoint": 57727,
+      "codepoint": 57735,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex6"
     },
     "uv-index-6-fill": {
-      "codepoint": 57728,
+      "codepoint": 57736,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex6Fill"
     },
     "uv-index-7": {
-      "codepoint": 57729,
+      "codepoint": 57737,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex7"
     },
     "uv-index-7-fill": {
-      "codepoint": 57730,
+      "codepoint": 57738,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex7Fill"
     },
     "uv-index-8": {
-      "codepoint": 57731,
+      "codepoint": 57739,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex8"
     },
     "uv-index-8-fill": {
-      "codepoint": 57732,
+      "codepoint": 57740,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex8Fill"
     },
     "uv-index-9": {
-      "codepoint": 57733,
+      "codepoint": 57741,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex9"
     },
     "uv-index-9-fill": {
-      "codepoint": 57734,
+      "codepoint": 57742,
       "fontFamily": "Meteocons",
       "identifier": "uvIndex9Fill"
     },
     "uv-index-fill": {
-      "codepoint": 57735,
+      "codepoint": 57743,
       "fontFamily": "Meteocons",
       "identifier": "uvIndexFill"
     },
     "wind": {
-      "codepoint": 57736,
+      "codepoint": 57744,
       "fontFamily": "Meteocons",
       "identifier": "wind"
     },
     "wind-alert": {
-      "codepoint": 57737,
+      "codepoint": 57745,
       "fontFamily": "Meteocons",
       "identifier": "windAlert"
     },
     "wind-alert-fill": {
-      "codepoint": 57738,
+      "codepoint": 57746,
       "fontFamily": "Meteocons",
       "identifier": "windAlertFill"
     },
     "wind-beaufort-0": {
-      "codepoint": 57739,
+      "codepoint": 57747,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort0"
     },
     "wind-beaufort-0-fill": {
-      "codepoint": 57740,
+      "codepoint": 57748,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort0Fill"
     },
     "wind-beaufort-1": {
-      "codepoint": 57741,
+      "codepoint": 57749,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort1"
     },
     "wind-beaufort-1-fill": {
-      "codepoint": 57742,
+      "codepoint": 57750,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort1Fill"
     },
     "wind-beaufort-10": {
-      "codepoint": 57743,
+      "codepoint": 57751,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort10"
     },
     "wind-beaufort-10-fill": {
-      "codepoint": 57744,
+      "codepoint": 57752,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort10Fill"
     },
     "wind-beaufort-11": {
-      "codepoint": 57745,
+      "codepoint": 57753,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort11"
     },
     "wind-beaufort-11-fill": {
-      "codepoint": 57746,
+      "codepoint": 57754,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort11Fill"
     },
     "wind-beaufort-12": {
-      "codepoint": 57747,
+      "codepoint": 57755,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort12"
     },
     "wind-beaufort-12-fill": {
-      "codepoint": 57748,
+      "codepoint": 57756,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort12Fill"
     },
     "wind-beaufort-2": {
-      "codepoint": 57749,
+      "codepoint": 57757,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort2"
     },
     "wind-beaufort-2-fill": {
-      "codepoint": 57750,
+      "codepoint": 57758,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort2Fill"
     },
     "wind-beaufort-3": {
-      "codepoint": 57751,
+      "codepoint": 57759,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort3"
     },
     "wind-beaufort-3-fill": {
-      "codepoint": 57752,
+      "codepoint": 57760,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort3Fill"
     },
     "wind-beaufort-4": {
-      "codepoint": 57753,
+      "codepoint": 57761,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort4"
     },
     "wind-beaufort-4-fill": {
-      "codepoint": 57754,
+      "codepoint": 57762,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort4Fill"
     },
     "wind-beaufort-5": {
-      "codepoint": 57755,
+      "codepoint": 57763,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort5"
     },
     "wind-beaufort-5-fill": {
-      "codepoint": 57756,
+      "codepoint": 57764,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort5Fill"
     },
     "wind-beaufort-6": {
-      "codepoint": 57757,
+      "codepoint": 57765,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort6"
     },
     "wind-beaufort-6-fill": {
-      "codepoint": 57758,
+      "codepoint": 57766,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort6Fill"
     },
     "wind-beaufort-7": {
-      "codepoint": 57759,
+      "codepoint": 57767,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort7"
     },
     "wind-beaufort-7-fill": {
-      "codepoint": 57760,
+      "codepoint": 57768,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort7Fill"
     },
     "wind-beaufort-8": {
-      "codepoint": 57761,
+      "codepoint": 57769,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort8"
     },
     "wind-beaufort-8-fill": {
-      "codepoint": 57762,
+      "codepoint": 57770,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort8Fill"
     },
     "wind-beaufort-9": {
-      "codepoint": 57763,
+      "codepoint": 57771,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort9"
     },
     "wind-beaufort-9-fill": {
-      "codepoint": 57764,
+      "codepoint": 57772,
       "fontFamily": "Meteocons",
       "identifier": "windBeaufort9Fill"
     },
     "wind-fill": {
-      "codepoint": 57765,
+      "codepoint": 57773,
       "fontFamily": "Meteocons",
       "identifier": "windFill"
     },
     "wind-offshore": {
-      "codepoint": 57766,
+      "codepoint": 57774,
       "fontFamily": "Meteocons",
       "identifier": "windOffshore"
     },
     "wind-offshore-fill": {
-      "codepoint": 57767,
+      "codepoint": 57775,
       "fontFamily": "Meteocons",
       "identifier": "windOffshoreFill"
     },
     "wind-onshore": {
-      "codepoint": 57768,
+      "codepoint": 57776,
       "fontFamily": "Meteocons",
       "identifier": "windOnshore"
     },
     "wind-onshore-fill": {
-      "codepoint": 57769,
+      "codepoint": 57777,
       "fontFamily": "Meteocons",
       "identifier": "windOnshoreFill"
     },
     "wind-snow": {
-      "codepoint": 57770,
+      "codepoint": 57778,
       "fontFamily": "Meteocons",
       "identifier": "windSnow"
     },
     "wind-snow-fill": {
-      "codepoint": 57771,
+      "codepoint": 57779,
       "fontFamily": "Meteocons",
       "identifier": "windSnowFill"
     },
     "windsock": {
-      "codepoint": 57772,
+      "codepoint": 57780,
       "fontFamily": "Meteocons",
       "identifier": "windsock"
     },
     "windsock-fill": {
-      "codepoint": 57773,
+      "codepoint": 57781,
       "fontFamily": "Meteocons",
       "identifier": "windsockFill"
     },
     "windsock-weak": {
-      "codepoint": 57774,
+      "codepoint": 57782,
       "fontFamily": "Meteocons",
       "identifier": "windsockWeak"
     },
     "windsock-weak-fill": {
-      "codepoint": 57775,
+      "codepoint": 57783,
       "fontFamily": "Meteocons",
       "identifier": "windsockWeakFill"
     }

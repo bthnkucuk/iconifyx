@@ -1,0 +1,72 @@
+name: Tree-shake bundle regression
+
+# Empirical guard for the §32 single-TTF-per-pack invariant. Builds a
+# canonical Flutter app that references 50 icons across 10 packs and
+# asserts the bundled font payload stays below a threshold.
+#
+# Before §32 (sibling-TTF tax): this exact app shipped ~30-50 MB of
+# fonts. After §32: 17.66 KB (measured 2026-05-16 on Flutter 3.44).
+# Threshold below leaves ~2× headroom over the measured baseline.
+
+on:
+  pull_request:
+    paths:
+      - 'packages/iconifyx_*/**'
+      - 'tools/generator/**'
+      - 'test_apps/treeshake_regression/**'
+      - '.github/workflows/treeshake-regression.yml'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  bundle-size:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version-file: .fvmrc
+          channel: any
+          cache: true
+
+      - name: Pub get
+        working-directory: test_apps/treeshake_regression
+        run: flutter pub get
+
+      - name: Build macOS release (tree-shake-icons)
+        working-directory: test_apps/treeshake_regression
+        run: |
+          flutter create --platforms=macos --no-pub .
+          flutter build macos --release --tree-shake-icons
+
+      - name: Sum bundled TTF sizes + assert under threshold
+        working-directory: test_apps/treeshake_regression
+        run: |
+          APP=build/macos/Build/Products/Release/iconifyx_treeshake_regression.app
+          if [ ! -d "$APP" ]; then
+            echo "::error::Built .app missing at $APP"
+            exit 1
+          fi
+          BYTES=$(find "$APP" -name "*.ttf" -exec stat -f %z {} \; | awk '{s+=$1} END {print s}')
+          KB=$(awk "BEGIN {printf \"%.2f\", $BYTES/1024}")
+          THRESHOLD=35840  # 35 KB — 2x headroom over 17.66 KB baseline
+          echo "Bundled TTF total: ${BYTES} bytes (${KB} KB)"
+          echo "Threshold:         ${THRESHOLD} bytes (35.00 KB)"
+          echo ""
+          echo "Per-pack breakdown:"
+          find "$APP" -name "*.ttf" -exec ls -la {} \; \
+            | awk '{printf "  %8d  %s\n", $5, $NF}' \
+            | sort -t/ -k 2
+          if [ "$BYTES" -gt "$THRESHOLD" ]; then
+            echo ""
+            echo "::error::Tree-shake regressed: ${BYTES} bytes > ${THRESHOLD} threshold."
+            echo "  This usually means a per-set package gained sibling TTFs again,"
+            echo "  OR the §1 tree-shake invariant (IconifyIconData extension type)"
+            echo "  was broken by a wrapper-class refactor."
+            exit 1
+          fi
+          echo ""
+          echo "::notice::Tree-shake bundle within budget: ${KB} KB"

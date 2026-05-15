@@ -20,7 +20,7 @@
   "fonts": [
     {
       "family": "Unjs",
-      "nextCodepoint": 57351,
+      "nextCodepoint": 57349,
       "iconCount": 5
     }
   ],
@@ -31,26 +31,12 @@
       "identifier": "mkdist"
     },
     "nitro": {
-      "codepoint": 57349,
+      "codepoint": 57345,
       "fontFamily": "Unjs",
       "identifier": "nitro"
     },
-    "scule": {
-      "codepoint": 57345,
-      "fontFamily": "Unjs",
-      "identifier": "scule",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "unctx": {
-      "codepoint": 57346,
-      "fontFamily": "Unjs",
-      "identifier": "unctx",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "undocs": {
-      "codepoint": 57350,
+      "codepoint": 57346,
       "fontFamily": "Unjs",
       "identifier": "undocs"
     },

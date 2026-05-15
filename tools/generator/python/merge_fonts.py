@@ -109,13 +109,22 @@ def merge_fonts(
     output_path: Path,
     family_name: str,
     supp_start: int,
+    explicit_remap: dict[str, dict[int, int]] | None = None,
 ) -> dict[str, dict[str, str]]:
     """Merge N sibling TTFs into one TTF with cmap format 12.
 
     Returns the remap manifest: {sibling_stem -> {orig_cp_hex -> new_cp_hex}}.
     The first input is the base; its codepoints don't change. Each
-    subsequent input has its codepoints remapped to consecutive supp-PUA
-    range starting at ``supp_start``.
+    subsequent input has its codepoints remapped:
+
+    - If ``explicit_remap`` is given and the sibling's stem appears in it,
+      each glyph's new codepoint is looked up in that map (used to pair
+      duotone secondary fonts to the same codepoints as their primaries).
+    - Otherwise, codepoints are allocated sequentially from ``supp_start``.
+
+    A glyph whose original codepoint has no entry in ``explicit_remap`` (e.g.
+    a glyph in the secondary font that no longer exists in the primary)
+    falls back to sequential allocation, advancing the cursor.
     """
     if not input_paths:
         raise SystemExit("at least one input TTF required")
@@ -134,6 +143,10 @@ def merge_fonts(
         sib_cmap = collect_codepoints_to_glyph(sib)
         sib_stem = sibling_path.stem
         per_sibling_remap: dict[str, str] = {}
+        # Per-sibling explicit lookup table (None means sequential allocation).
+        sib_explicit = (
+            explicit_remap.get(sib_stem) if explicit_remap is not None else None
+        )
 
         # Sort by original codepoint so the remap is deterministic.
         for orig_cp in sorted(sib_cmap.keys()):
@@ -169,13 +182,19 @@ def merge_fonts(
             base_glyph_order.append(new_glyph_name)
             base_glyph_set.add(new_glyph_name)
 
-            # Allocate the new (supp PUA) codepoint.
-            new_cp = next_supp_cp
-            next_supp_cp += 1
-            if next_supp_cp > 0x10FFFF:
-                raise SystemExit(
-                    f"supp PUA exhausted: tried to allocate {new_cp:#x}, max 0x10FFFF"
-                )
+            # Allocate the new codepoint. Prefer the explicit map when one
+            # is given (used to pair duotone secondary glyphs to their
+            # primaries' new codepoints). Fall back to sequential supp-PUA
+            # allocation otherwise.
+            if sib_explicit is not None and orig_cp in sib_explicit:
+                new_cp = sib_explicit[orig_cp]
+            else:
+                new_cp = next_supp_cp
+                next_supp_cp += 1
+                if next_supp_cp > 0x10FFFF:
+                    raise SystemExit(
+                        f"supp PUA exhausted: tried to allocate {new_cp:#x}, max 0x10FFFF"
+                    )
 
             merged_cmap[new_cp] = new_glyph_name
             per_sibling_remap[f"0x{orig_cp:x}"] = f"0x{new_cp:x}"
@@ -255,6 +274,16 @@ def main(argv: list[str]) -> int:
         default="0xF0000",
         help="First codepoint of the supp PUA range to allocate from. Default 0xF0000.",
     )
+    p.add_argument(
+        "--remap-input",
+        default=None,
+        help=(
+            "Optional JSON file with explicit codepoint mappings, shape "
+            "{sibling_stem: {orig_cp_hex: new_cp_hex}}. Glyphs in a sibling "
+            "are remapped via this lookup when available; unmapped glyphs "
+            "fall back to sequential supp-PUA allocation."
+        ),
+    )
 
     args = p.parse_args(argv)
     inputs = [Path(s) for s in args.inputs.split(":")]
@@ -270,11 +299,21 @@ def main(argv: list[str]) -> int:
     output.parent.mkdir(parents=True, exist_ok=True)
     remap_out.parent.mkdir(parents=True, exist_ok=True)
 
+    explicit_remap: dict[str, dict[int, int]] | None = None
+    if args.remap_input is not None:
+        with open(args.remap_input) as f:
+            raw = json.load(f)
+        explicit_remap = {
+            sib_stem: {parse_cp(k): parse_cp(v) for k, v in m.items()}
+            for sib_stem, m in raw.items()
+        }
+
     remap = merge_fonts(
         input_paths=inputs,
         output_path=output,
         family_name=args.family_name,
         supp_start=supp_start,
+        explicit_remap=explicit_remap,
     )
 
     with remap_out.open("w") as f:

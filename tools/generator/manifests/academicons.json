@@ -747,27 +747,27 @@
       "identifier": "viafSquare"
     },
     "wiley": {
-      "codepoint": 57492,
+      "codepoint": 57488,
       "fontFamily": "Academicons",
       "identifier": "wiley"
     },
     "zenodo": {
-      "codepoint": 57488,
+      "codepoint": 57489,
       "fontFamily": "Academicons",
       "identifier": "zenodo"
     },
     "zenodo-square": {
-      "codepoint": 57489,
+      "codepoint": 57490,
       "fontFamily": "Academicons",
       "identifier": "zenodoSquare"
     },
     "zotero": {
-      "codepoint": 57490,
+      "codepoint": 57491,
       "fontFamily": "Academicons",
       "identifier": "zotero"
     },
     "zotero-square": {
-      "codepoint": 57491,
+      "codepoint": 57492,
       "fontFamily": "Academicons",
       "identifier": "zoteroSquare"
     }

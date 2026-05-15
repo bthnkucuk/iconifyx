@@ -27,135 +27,135 @@
   ],
   "icons": {
     "3-dots-bounce": {
-      "codepoint": 57345,
+      "codepoint": 57344,
       "fontFamily": "SvgSpinners",
       "identifier": "n3DotsBounce"
     },
     "3-dots-fade": {
-      "codepoint": 57346,
+      "codepoint": 57345,
       "fontFamily": "SvgSpinners",
       "identifier": "n3DotsFade"
     },
     "3-dots-move": {
-      "codepoint": 57347,
+      "codepoint": 57346,
       "fontFamily": "SvgSpinners",
       "identifier": "n3DotsMove"
     },
     "3-dots-scale": {
-      "codepoint": 57348,
+      "codepoint": 57347,
       "fontFamily": "SvgSpinners",
       "identifier": "n3DotsScale"
     },
     "3-dots-scale-middle": {
-      "codepoint": 57349,
+      "codepoint": 57348,
       "fontFamily": "SvgSpinners",
       "identifier": "n3DotsScaleMiddle"
     },
     "6-dots-scale": {
-      "codepoint": 57350,
+      "codepoint": 57349,
       "fontFamily": "SvgSpinners",
       "identifier": "n6DotsScale"
     },
     "6-dots-scale-middle": {
-      "codepoint": 57351,
+      "codepoint": 57350,
       "fontFamily": "SvgSpinners",
       "identifier": "n6DotsScaleMiddle"
     },
     "bars-fade": {
-      "codepoint": 57352,
+      "codepoint": 57351,
       "fontFamily": "SvgSpinners",
       "identifier": "barsFade"
     },
     "bars-scale": {
-      "codepoint": 57353,
+      "codepoint": 57352,
       "fontFamily": "SvgSpinners",
       "identifier": "barsScale"
     },
     "bars-scale-fade": {
-      "codepoint": 57354,
+      "codepoint": 57353,
       "fontFamily": "SvgSpinners",
       "identifier": "barsScaleFade"
     },
     "bars-scale-middle": {
-      "codepoint": 57355,
+      "codepoint": 57354,
       "fontFamily": "SvgSpinners",
       "identifier": "barsScaleMiddle"
     },
     "blocks-scale": {
-      "codepoint": 57356,
+      "codepoint": 57355,
       "fontFamily": "SvgSpinners",
       "identifier": "blocksScale"
     },
     "blocks-shuffle-2": {
-      "codepoint": 57357,
+      "codepoint": 57356,
       "fontFamily": "SvgSpinners",
       "identifier": "blocksShuffle2"
     },
     "blocks-shuffle-3": {
-      "codepoint": 57358,
+      "codepoint": 57357,
       "fontFamily": "SvgSpinners",
       "identifier": "blocksShuffle3"
     },
     "blocks-wave": {
-      "codepoint": 57359,
+      "codepoint": 57358,
       "fontFamily": "SvgSpinners",
       "identifier": "blocksWave"
     },
     "bouncing-ball": {
-      "codepoint": 57360,
+      "codepoint": 57359,
       "fontFamily": "SvgSpinners",
       "identifier": "bouncingBall"
     },
     "pulse": {
-      "codepoint": 57361,
+      "codepoint": 57360,
       "fontFamily": "SvgSpinners",
       "identifier": "pulse"
     },
     "pulse-2": {
-      "codepoint": 57362,
+      "codepoint": 57361,
       "fontFamily": "SvgSpinners",
       "identifier": "pulse2"
     },
     "pulse-3": {
-      "codepoint": 57363,
+      "codepoint": 57362,
       "fontFamily": "SvgSpinners",
       "identifier": "pulse3"
     },
     "pulse-multiple": {
-      "codepoint": 57364,
+      "codepoint": 57363,
       "fontFamily": "SvgSpinners",
       "identifier": "pulseMultiple"
     },
     "pulse-ring": {
-      "codepoint": 57365,
+      "codepoint": 57364,
       "fontFamily": "SvgSpinners",
       "identifier": "pulseRing",
       "deprecated": true,
       "deprecatedSince": "2026-05-15"
     },
     "pulse-rings-2": {
-      "codepoint": 57366,
+      "codepoint": 57365,
       "fontFamily": "SvgSpinners",
       "identifier": "pulseRings2",
       "deprecated": true,
       "deprecatedSince": "2026-05-15"
     },
     "pulse-rings-3": {
-      "codepoint": 57367,
+      "codepoint": 57366,
       "fontFamily": "SvgSpinners",
       "identifier": "pulseRings3",
       "deprecated": true,
       "deprecatedSince": "2026-05-15"
     },
     "pulse-rings-multiple": {
-      "codepoint": 57368,
+      "codepoint": 57367,
       "fontFamily": "SvgSpinners",
       "identifier": "pulseRingsMultiple",
       "deprecated": true,
       "deprecatedSince": "2026-05-15"
     },
     "ring-resize": {
-      "codepoint": 57344,
+      "codepoint": 57368,
       "fontFamily": "SvgSpinners",
       "identifier": "ringResize"
     },

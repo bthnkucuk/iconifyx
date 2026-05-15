@@ -2,7 +2,7 @@
 
 Generated 2026-05-15. For every `(font, codepoint)` pair declared in a pack's manifest, we open the emitted TTF with `fontkit` and verify the codepoint maps to a glyph with a non-empty outline. Anything that fails one of those checks ships as a blank box in the consumer app.
 
-- **Codepoints expected across all fonts:** 357,604
+- **Codepoints expected across all fonts:** 352,156
 - **Codepoints missing from emitted TTF:** 0
 - **Codepoints present but with empty outline:** 569
 - **TTFs that failed to open:** 0

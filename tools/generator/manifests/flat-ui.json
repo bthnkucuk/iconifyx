@@ -226,206 +226,206 @@
       "identifier": "imac"
     },
     "ipad": {
-      "codepoint": 57417,
+      "codepoint": 57381,
       "fontFamily": "FlatUi",
       "identifier": "ipad",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "iphone": {
-      "codepoint": 57418,
+      "codepoint": 57382,
       "fontFamily": "FlatUi",
       "identifier": "iphone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "lettersymbol": {
-      "codepoint": 57381,
+      "codepoint": 57383,
       "fontFamily": "FlatUi",
       "identifier": "lettersymbol"
     },
     "lock": {
-      "codepoint": 57382,
+      "codepoint": 57384,
       "fontFamily": "FlatUi",
       "identifier": "lock"
     },
     "loop": {
-      "codepoint": 57383,
+      "codepoint": 57385,
       "fontFamily": "FlatUi",
       "identifier": "loop",
       "duotone": true
     },
     "magic": {
-      "codepoint": 57384,
+      "codepoint": 57386,
       "fontFamily": "FlatUi",
       "identifier": "magic"
     },
     "magicmouse": {
-      "codepoint": 57385,
+      "codepoint": 57387,
       "fontFamily": "FlatUi",
       "identifier": "magicmouse",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "map": {
-      "codepoint": 57386,
+      "codepoint": 57388,
       "fontFamily": "FlatUi",
       "identifier": "map",
       "duotone": true
     },
     "mic": {
-      "codepoint": 57387,
+      "codepoint": 57389,
       "fontFamily": "FlatUi",
       "identifier": "mic"
     },
     "money": {
-      "codepoint": 57388,
+      "codepoint": 57390,
       "fontFamily": "FlatUi",
       "identifier": "money",
       "duotone": true
     },
     "mountain": {
-      "codepoint": 57389,
+      "codepoint": 57391,
       "fontFamily": "FlatUi",
       "identifier": "mountain"
     },
     "news": {
-      "codepoint": 57390,
+      "codepoint": 57392,
       "fontFamily": "FlatUi",
       "identifier": "news"
     },
     "paper-bag": {
-      "codepoint": 57391,
+      "codepoint": 57393,
       "fontFamily": "FlatUi",
       "identifier": "paperBag",
       "duotone": true
     },
     "pencil": {
-      "codepoint": 57392,
+      "codepoint": 57394,
       "fontFamily": "FlatUi",
       "identifier": "pencil"
     },
     "pencils": {
-      "codepoint": 57393,
+      "codepoint": 57395,
       "fontFamily": "FlatUi",
       "identifier": "pencils",
       "duotone": true
     },
     "picture": {
-      "codepoint": 57394,
+      "codepoint": 57396,
       "fontFamily": "FlatUi",
       "identifier": "picture"
     },
     "pig": {
-      "codepoint": 57395,
+      "codepoint": 57397,
       "fontFamily": "FlatUi",
       "identifier": "pig"
     },
     "pills": {
-      "codepoint": 57396,
+      "codepoint": 57398,
       "fontFamily": "FlatUi",
       "identifier": "pills"
     },
     "play": {
-      "codepoint": 57397,
+      "codepoint": 57399,
       "fontFamily": "FlatUi",
       "identifier": "play"
     },
     "retina": {
-      "codepoint": 57398,
+      "codepoint": 57400,
       "fontFamily": "FlatUi",
       "identifier": "retina"
     },
     "ring": {
-      "codepoint": 57399,
+      "codepoint": 57401,
       "fontFamily": "FlatUi",
       "identifier": "ring"
     },
     "rocket": {
-      "codepoint": 57400,
+      "codepoint": 57402,
       "fontFamily": "FlatUi",
       "identifier": "rocket"
     },
     "rss": {
-      "codepoint": 57401,
+      "codepoint": 57403,
       "fontFamily": "FlatUi",
       "identifier": "rss"
     },
     "safe": {
-      "codepoint": 57402,
+      "codepoint": 57404,
       "fontFamily": "FlatUi",
       "identifier": "safe"
     },
     "settings": {
-      "codepoint": 57403,
+      "codepoint": 57405,
       "fontFamily": "FlatUi",
       "identifier": "settings"
     },
     "shield": {
-      "codepoint": 57404,
+      "codepoint": 57406,
       "fontFamily": "FlatUi",
       "identifier": "shield",
       "duotone": true
     },
     "skateboard": {
-      "codepoint": 57405,
+      "codepoint": 57407,
       "fontFamily": "FlatUi",
       "identifier": "skateboard"
     },
     "storage": {
-      "codepoint": 57406,
+      "codepoint": 57408,
       "fontFamily": "FlatUi",
       "identifier": "storage"
     },
     "support": {
-      "codepoint": 57407,
+      "codepoint": 57409,
       "fontFamily": "FlatUi",
       "identifier": "support"
     },
     "ticket": {
-      "codepoint": 57408,
+      "codepoint": 57410,
       "fontFamily": "FlatUi",
       "identifier": "ticket"
     },
     "toilet-paper": {
-      "codepoint": 57409,
+      "codepoint": 57411,
       "fontFamily": "FlatUi",
       "identifier": "toiletPaper",
       "duotone": true
     },
     "trip-bag": {
-      "codepoint": 57410,
+      "codepoint": 57412,
       "fontFamily": "FlatUi",
       "identifier": "tripBag"
     },
     "trunk": {
-      "codepoint": 57411,
+      "codepoint": 57413,
       "fontFamily": "FlatUi",
       "identifier": "trunk"
     },
     "ubmrella": {
-      "codepoint": 57412,
+      "codepoint": 57414,
       "fontFamily": "FlatUi",
       "identifier": "ubmrella",
       "duotone": true
     },
     "user-interface": {
-      "codepoint": 57413,
+      "codepoint": 57415,
       "fontFamily": "FlatUi",
       "identifier": "userInterface"
     },
     "video": {
-      "codepoint": 57414,
+      "codepoint": 57416,
       "fontFamily": "FlatUi",
       "identifier": "video"
     },
     "wine": {
-      "codepoint": 57415,
+      "codepoint": 57417,
       "fontFamily": "FlatUi",
       "identifier": "wine"
     },
     "yinyang": {
-      "codepoint": 57416,
+      "codepoint": 57418,
       "fontFamily": "FlatUi",
       "identifier": "yinyang",
       "duotone": true,

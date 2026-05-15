@@ -18,27 +18,27 @@ class CircleFlagsIcons {
 
   /// `it-21`
   static const IconifyIconData it21 = IconifyIconData.solo(
-    IconData(0xe09a, fontFamily: 'CircleFlags', fontPackage: 'iconifyx_circle_flags'),
+    IconData(0xe000, fontFamily: 'CircleFlags', fontPackage: 'iconifyx_circle_flags'),
   );
 
   /// `it-42`
   static const IconifyIconData it42 = IconifyIconData.solo(
-    IconData(0xe09b, fontFamily: 'CircleFlags', fontPackage: 'iconifyx_circle_flags'),
+    IconData(0xe001, fontFamily: 'CircleFlags', fontPackage: 'iconifyx_circle_flags'),
   );
 
   /// `it-67`
   static const IconifyIconData it67 = IconifyIconData.solo(
-    IconData(0xe099, fontFamily: 'CircleFlags', fontPackage: 'iconifyx_circle_flags'),
+    IconData(0xe002, fontFamily: 'CircleFlags', fontPackage: 'iconifyx_circle_flags'),
   );
 
   /// `lang-pms`
   static const IconifyIconData langPms = IconifyIconData.solo(
-    IconData(0xe09c, fontFamily: 'CircleFlags', fontPackage: 'iconifyx_circle_flags'),
+    IconData(0xe003, fontFamily: 'CircleFlags', fontPackage: 'iconifyx_circle_flags'),
   );
 
   /// `pms`
   static const IconifyIconData pms = IconifyIconData.solo(
-    IconData(0xe09d, fontFamily: 'CircleFlags', fontPackage: 'iconifyx_circle_flags'),
+    IconData(0xe004, fontFamily: 'CircleFlags', fontPackage: 'iconifyx_circle_flags'),
   );
 
 }

@@ -21,12 +21,12 @@
   "fonts": [
     {
       "family": "VscodeIcons",
-      "nextCodepoint": 58100,
+      "nextCodepoint": 58045,
       "iconCount": 701
     },
     {
       "family": "VscodeIconsSecondary",
-      "nextCodepoint": 58100,
+      "nextCodepoint": 58045,
       "iconCount": 329
     }
   ],
@@ -42,4533 +42,4148 @@
       "identifier": "defaultFolderOpened"
     },
     "default-root-folder": {
-      "codepoint": 57762,
+      "codepoint": 57346,
       "fontFamily": "VscodeIcons",
       "identifier": "defaultRootFolder",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "default-root-folder-opened": {
-      "codepoint": 57346,
+      "codepoint": 57347,
       "fontFamily": "VscodeIcons",
       "identifier": "defaultRootFolderOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-access2": {
-      "codepoint": 57763,
+      "codepoint": 57348,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAccess2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-actionscript2": {
-      "codepoint": 57764,
+      "codepoint": 57349,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeActionscript2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-advpl": {
-      "codepoint": 58071,
+      "codepoint": 57350,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAdvpl"
     },
     "file-type-affinity": {
-      "codepoint": 57974,
+      "codepoint": 57351,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAffinity"
     },
     "file-type-agda": {
-      "codepoint": 57347,
+      "codepoint": 57352,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAgda"
     },
     "file-type-agents": {
-      "codepoint": 57348,
+      "codepoint": 57353,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAgents"
     },
     "file-type-ai": {
-      "codepoint": 57349,
+      "codepoint": 57354,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAi",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-al": {
-      "codepoint": 57350,
+      "codepoint": 57355,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAl"
     },
     "file-type-alchemy": {
-      "codepoint": 58072,
+      "codepoint": 57356,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAlchemy"
     },
     "file-type-allcontributors": {
-      "codepoint": 57765,
+      "codepoint": 57357,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAllcontributors",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-allure": {
-      "codepoint": 57975,
+      "codepoint": 57358,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAllure"
     },
     "file-type-antlers-html": {
-      "codepoint": 57351,
+      "codepoint": 57359,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAntlersHtml"
     },
     "file-type-antlr": {
-      "codepoint": 57352,
+      "codepoint": 57360,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAntlr",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-apex": {
-      "codepoint": 57353,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeApex",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-apib": {
-      "codepoint": 57766,
+      "codepoint": 57361,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeApib",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-apib2": {
-      "codepoint": 57767,
+      "codepoint": 57362,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeApib2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-apl": {
-      "codepoint": 57354,
+      "codepoint": 57363,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeApl"
     },
     "file-type-applescript": {
-      "codepoint": 57355,
+      "codepoint": 57364,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeApplescript"
     },
     "file-type-appsemble": {
-      "codepoint": 57768,
+      "codepoint": 57365,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAppsemble",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-appveyor": {
-      "codepoint": 57356,
+      "codepoint": 57366,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAppveyor",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-asciidoc": {
-      "codepoint": 57769,
+      "codepoint": 57367,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAsciidoc",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-asp": {
-      "codepoint": 57357,
+      "codepoint": 57368,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAsp"
     },
-    "file-type-aspx": {
-      "codepoint": 57358,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeAspx",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-assembly-script": {
-      "codepoint": 57359,
+      "codepoint": 57369,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAssemblyScript",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-atom": {
-      "codepoint": 57976,
+      "codepoint": 57370,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAtom"
     },
     "file-type-attw": {
-      "codepoint": 57360,
+      "codepoint": 57371,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAttw",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-audio": {
-      "codepoint": 57361,
+      "codepoint": 57372,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAudio"
     },
     "file-type-autoit": {
-      "codepoint": 57362,
+      "codepoint": 57373,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAutoit",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-avro": {
-      "codepoint": 57363,
+      "codepoint": 57374,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAvro"
     },
     "file-type-awk": {
-      "codepoint": 57364,
+      "codepoint": 57375,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAwk"
     },
     "file-type-babel": {
-      "codepoint": 57365,
+      "codepoint": 57376,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBabel"
     },
     "file-type-babel2": {
-      "codepoint": 57366,
+      "codepoint": 57377,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBabel2"
     },
     "file-type-bak": {
-      "codepoint": 57367,
+      "codepoint": 57378,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBak",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-ballerina": {
-      "codepoint": 57368,
+      "codepoint": 57379,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBallerina"
     },
     "file-type-bats": {
-      "codepoint": 57369,
+      "codepoint": 57380,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBats",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-bicep": {
-      "codepoint": 57370,
+      "codepoint": 57381,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBicep"
     },
     "file-type-biml": {
-      "codepoint": 57770,
+      "codepoint": 57382,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBiml",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-biome": {
-      "codepoint": 57371,
+      "codepoint": 57383,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBiome"
     },
     "file-type-blender": {
-      "codepoint": 57771,
+      "codepoint": 57384,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBlender",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-blitzbasic": {
-      "codepoint": 57372,
+      "codepoint": 57385,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBlitzbasic",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-bolt": {
-      "codepoint": 57373,
+      "codepoint": 57386,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBolt"
     },
     "file-type-bower2": {
-      "codepoint": 57374,
+      "codepoint": 57387,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBower2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-brew": {
-      "codepoint": 57375,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeBrew",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-buckbuild": {
-      "codepoint": 57376,
+      "codepoint": 57388,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBuckbuild"
     },
     "file-type-buf": {
-      "codepoint": 57772,
+      "codepoint": 57389,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBuf",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-bun": {
-      "codepoint": 57977,
+      "codepoint": 57390,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBun"
     },
     "file-type-bunfig": {
-      "codepoint": 57978,
+      "codepoint": 57391,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeBunfig"
     },
     "file-type-c": {
-      "codepoint": 57377,
+      "codepoint": 57392,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeC"
     },
     "file-type-c2": {
-      "codepoint": 57378,
+      "codepoint": 57393,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeC2"
     },
     "file-type-c3": {
-      "codepoint": 57773,
+      "codepoint": 57394,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeC3",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-cakephp": {
-      "codepoint": 57774,
+      "codepoint": 57395,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCakephp",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-cangjie": {
-      "codepoint": 57775,
+      "codepoint": 57396,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCangjie",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-capnp": {
-      "codepoint": 57776,
+      "codepoint": 57397,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCapnp",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-cargo": {
-      "codepoint": 57979,
+      "codepoint": 57398,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCargo"
     },
-    "file-type-casc": {
-      "codepoint": 57379,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeCasc",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-cddl": {
-      "codepoint": 57777,
+      "codepoint": 57399,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCddl",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-ceylon": {
-      "codepoint": 57778,
+      "codepoint": 57400,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCeylon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-cf": {
-      "codepoint": 57779,
+      "codepoint": 57401,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCf",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-changie": {
-      "codepoint": 57780,
+      "codepoint": 57402,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeChangie",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-cheader": {
-      "codepoint": 57380,
+      "codepoint": 57403,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCheader"
     },
     "file-type-chef": {
-      "codepoint": 57781,
+      "codepoint": 57404,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeChef",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-circleci": {
-      "codepoint": 57381,
+      "codepoint": 57405,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCircleci"
     },
     "file-type-circom": {
-      "codepoint": 57782,
+      "codepoint": 57406,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCircom",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-clangd": {
-      "codepoint": 57980,
+      "codepoint": 57407,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeClangd"
     },
     "file-type-class": {
-      "codepoint": 57382,
+      "codepoint": 57408,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeClass"
     },
     "file-type-clojurescript": {
-      "codepoint": 57383,
+      "codepoint": 57409,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeClojurescript",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-cobol": {
-      "codepoint": 57384,
+      "codepoint": 57410,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCobol"
     },
     "file-type-codacy": {
-      "codepoint": 57385,
+      "codepoint": 57411,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCodacy"
     },
     "file-type-codeclimate": {
-      "codepoint": 57783,
+      "codepoint": 57412,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCodeclimate",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-codekit": {
-      "codepoint": 57386,
+      "codepoint": 57413,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCodekit"
     },
     "file-type-codeowners": {
-      "codepoint": 57387,
+      "codepoint": 57414,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCodeowners"
     },
     "file-type-coffeelint": {
-      "codepoint": 57784,
+      "codepoint": 57415,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCoffeelint",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-commitizen": {
-      "codepoint": 57785,
+      "codepoint": 57416,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCommitizen",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-commitlint": {
-      "codepoint": 57388,
+      "codepoint": 57417,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCommitlint",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-conda": {
-      "codepoint": 57389,
+      "codepoint": 57418,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeConda"
     },
     "file-type-config": {
-      "codepoint": 57390,
+      "codepoint": 57419,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeConfig"
     },
     "file-type-copilot": {
-      "codepoint": 57391,
+      "codepoint": 57420,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCopilot"
     },
     "file-type-coveralls": {
-      "codepoint": 57786,
+      "codepoint": 57421,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCoveralls",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-cpp2": {
-      "codepoint": 57392,
+      "codepoint": 57422,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCpp2"
     },
     "file-type-craco": {
-      "codepoint": 57787,
+      "codepoint": 57423,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCraco",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-crowdin": {
-      "codepoint": 57788,
+      "codepoint": 57424,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCrowdin",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-crystal": {
-      "codepoint": 57393,
+      "codepoint": 57425,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCrystal"
     },
     "file-type-css": {
-      "codepoint": 57789,
+      "codepoint": 57426,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCss",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-cssmap": {
-      "codepoint": 57790,
+      "codepoint": 57427,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCssmap",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-cucumber": {
-      "codepoint": 57791,
+      "codepoint": 57428,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCucumber",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-cuda": {
-      "codepoint": 57394,
+      "codepoint": 57429,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCuda"
     },
-    "file-type-cvs": {
-      "codepoint": 57395,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeCvs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-darcs": {
-      "codepoint": 57396,
+      "codepoint": 57430,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDarcs"
     },
     "file-type-dartlang-ignore": {
-      "codepoint": 57792,
+      "codepoint": 57431,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDartlangIgnore",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-datadog": {
-      "codepoint": 57793,
+      "codepoint": 57432,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDatadog",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-db": {
-      "codepoint": 57397,
+      "codepoint": 57433,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDb"
     },
     "file-type-delphi": {
-      "codepoint": 58073,
+      "codepoint": 57434,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDelphi"
     },
     "file-type-deno": {
-      "codepoint": 57398,
+      "codepoint": 57435,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDeno"
     },
     "file-type-denoify": {
-      "codepoint": 57794,
+      "codepoint": 57436,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDenoify",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-dependabot": {
-      "codepoint": 57795,
+      "codepoint": 57437,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDependabot",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-dependencies": {
-      "codepoint": 57399,
+      "codepoint": 57438,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDependencies"
     },
     "file-type-design-tokens": {
-      "codepoint": 57400,
+      "codepoint": 57439,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDesignTokens",
       "duotone": true
     },
     "file-type-devcontainer": {
-      "codepoint": 57796,
+      "codepoint": 57440,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDevcontainer",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-dhall": {
-      "codepoint": 57401,
+      "codepoint": 57441,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDhall"
     },
     "file-type-diff": {
-      "codepoint": 57402,
+      "codepoint": 57442,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDiff",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-django": {
-      "codepoint": 57403,
+      "codepoint": 57443,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDjango"
     },
     "file-type-docker2": {
-      "codepoint": 57797,
+      "codepoint": 57444,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDocker2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-dockertest2": {
-      "codepoint": 57798,
+      "codepoint": 57445,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDockertest2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-docpad": {
-      "codepoint": 57404,
+      "codepoint": 57446,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDocpad"
     },
     "file-type-docusaurus": {
-      "codepoint": 57405,
+      "codepoint": 57447,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDocusaurus"
     },
     "file-type-doppler": {
-      "codepoint": 57981,
+      "codepoint": 57448,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDoppler"
     },
     "file-type-dotenv": {
-      "codepoint": 57406,
+      "codepoint": 57449,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDotenv"
     },
     "file-type-doxygen": {
-      "codepoint": 57407,
+      "codepoint": 57450,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDoxygen",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-drawio": {
-      "codepoint": 57982,
+      "codepoint": 57451,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDrawio"
     },
     "file-type-drone": {
-      "codepoint": 57408,
+      "codepoint": 57452,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDrone"
     },
     "file-type-dtd": {
-      "codepoint": 57409,
+      "codepoint": 57453,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDtd"
     },
     "file-type-duckdb": {
-      "codepoint": 57410,
+      "codepoint": 57454,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDuckdb",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-dustjs": {
-      "codepoint": 57411,
+      "codepoint": 57455,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDustjs"
     },
     "file-type-eas-metadata": {
-      "codepoint": 57412,
+      "codepoint": 57456,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeEasMetadata"
     },
     "file-type-ejs": {
-      "codepoint": 57413,
+      "codepoint": 57457,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeEjs"
     },
     "file-type-electron": {
-      "codepoint": 57983,
+      "codepoint": 57458,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeElectron"
     },
     "file-type-eleventy": {
-      "codepoint": 57414,
+      "codepoint": 57459,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeEleventy"
     },
     "file-type-eleventy2": {
-      "codepoint": 57415,
+      "codepoint": 57460,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeEleventy2"
     },
     "file-type-ember": {
-      "codepoint": 57416,
+      "codepoint": 57461,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeEmber",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-erlang2": {
-      "codepoint": 57799,
+      "codepoint": 57462,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeErlang2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-esbuild": {
-      "codepoint": 57800,
+      "codepoint": 57463,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeEsbuild",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-eslint": {
-      "codepoint": 57801,
+      "codepoint": 57464,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeEslint",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-eslint2": {
-      "codepoint": 57802,
+      "codepoint": 57465,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeEslint2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-esphome": {
-      "codepoint": 57417,
+      "codepoint": 57466,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeEsphome"
     },
     "file-type-excel2": {
-      "codepoint": 57803,
+      "codepoint": 57467,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeExcel2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-expo": {
-      "codepoint": 57804,
+      "codepoint": 57468,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeExpo",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-fantasticon": {
-      "codepoint": 57418,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeFantasticon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-firestore": {
-      "codepoint": 58074,
+      "codepoint": 57469,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFirestore"
     },
     "file-type-fitbit": {
-      "codepoint": 57419,
+      "codepoint": 57470,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFitbit"
     },
     "file-type-flash": {
-      "codepoint": 57984,
+      "codepoint": 57471,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFlash"
     },
-    "file-type-flutter": {
-      "codepoint": 57420,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeFlutter",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-font": {
-      "codepoint": 57421,
+      "codepoint": 57472,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFont"
     },
     "file-type-formkit": {
-      "codepoint": 57985,
+      "codepoint": 57473,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFormkit"
     },
     "file-type-fortran": {
-      "codepoint": 57805,
+      "codepoint": 57474,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFortran",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-fossa": {
-      "codepoint": 57422,
+      "codepoint": 57475,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFossa"
     },
     "file-type-fossil": {
-      "codepoint": 57423,
+      "codepoint": 57476,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFossil"
     },
     "file-type-freemarker": {
-      "codepoint": 57424,
+      "codepoint": 57477,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFreemarker"
     },
     "file-type-fsharp": {
-      "codepoint": 57806,
+      "codepoint": 57478,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFsharp",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-fsharp2": {
-      "codepoint": 57807,
+      "codepoint": 57479,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFsharp2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-funding": {
-      "codepoint": 57425,
+      "codepoint": 57480,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFunding"
     },
     "file-type-galen": {
-      "codepoint": 57808,
+      "codepoint": 57481,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGalen",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-gamemaker": {
-      "codepoint": 57426,
+      "codepoint": 57482,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGamemaker"
     },
     "file-type-gamemaker2": {
-      "codepoint": 57427,
+      "codepoint": 57483,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGamemaker2"
     },
     "file-type-gatsby": {
-      "codepoint": 57809,
+      "codepoint": 57484,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGatsby",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-gcode": {
-      "codepoint": 57428,
+      "codepoint": 57485,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGcode",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-geojson": {
-      "codepoint": 57429,
+      "codepoint": 57486,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGeojson"
     },
     "file-type-git": {
-      "codepoint": 57430,
+      "codepoint": 57487,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGit",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-git2": {
-      "codepoint": 57431,
+      "codepoint": 57488,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGit2"
     },
     "file-type-gitpod": {
-      "codepoint": 57986,
+      "codepoint": 57489,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGitpod"
     },
     "file-type-gleam": {
-      "codepoint": 57810,
+      "codepoint": 57490,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGleam",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-glimmer": {
-      "codepoint": 57811,
+      "codepoint": 57491,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGlimmer",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-glitter": {
-      "codepoint": 57432,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeGlitter",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-gnu": {
-      "codepoint": 57812,
+      "codepoint": 57492,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGnu",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-go": {
-      "codepoint": 57433,
+      "codepoint": 57493,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGo"
     },
     "file-type-go-aqua": {
-      "codepoint": 57434,
+      "codepoint": 57494,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGoAqua"
     },
     "file-type-go-black": {
-      "codepoint": 57435,
+      "codepoint": 57495,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGoBlack"
     },
     "file-type-go-gopher": {
-      "codepoint": 57987,
+      "codepoint": 57496,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGoGopher"
     },
     "file-type-go-lightblue": {
-      "codepoint": 57436,
+      "codepoint": 57497,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGoLightblue"
     },
     "file-type-go-white": {
-      "codepoint": 57437,
+      "codepoint": 57498,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGoWhite"
     },
     "file-type-go-work": {
-      "codepoint": 57438,
+      "codepoint": 57499,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGoWork"
     },
     "file-type-go-yellow": {
-      "codepoint": 57439,
+      "codepoint": 57500,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGoYellow"
     },
-    "file-type-goctl": {
-      "codepoint": 57440,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeGoctl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-gpg": {
-      "codepoint": 57441,
+      "codepoint": 57501,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGpg",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-gradle": {
-      "codepoint": 57442,
+      "codepoint": 57502,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGradle"
     },
     "file-type-graphql-config": {
-      "codepoint": 57813,
+      "codepoint": 57503,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGraphqlConfig",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-gridsome": {
-      "codepoint": 57988,
+      "codepoint": 57504,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGridsome"
     },
     "file-type-grit": {
-      "codepoint": 57443,
+      "codepoint": 57505,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGrit"
     },
     "file-type-groovy": {
-      "codepoint": 57814,
+      "codepoint": 57506,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGroovy",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-haml": {
-      "codepoint": 57815,
+      "codepoint": 57507,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHaml",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-hashicorp": {
-      "codepoint": 57444,
+      "codepoint": 57508,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHashicorp"
     },
     "file-type-helix": {
-      "codepoint": 57445,
+      "codepoint": 57509,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHelix"
     },
-    "file-type-histoire": {
-      "codepoint": 57816,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeHistoire",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-15"
-    },
     "file-type-hjson": {
-      "codepoint": 57446,
+      "codepoint": 57510,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHjson",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-hlsl": {
-      "codepoint": 57447,
+      "codepoint": 57511,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHlsl"
     },
     "file-type-homeassistant": {
-      "codepoint": 57448,
+      "codepoint": 57512,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHomeassistant",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-horusec": {
-      "codepoint": 58075,
+      "codepoint": 57513,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHorusec"
     },
     "file-type-htmlhint": {
-      "codepoint": 57817,
+      "codepoint": 57514,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHtmlhint",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-humanstxt": {
-      "codepoint": 57818,
+      "codepoint": 57515,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHumanstxt",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-husky": {
-      "codepoint": 57449,
+      "codepoint": 57516,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHusky"
     },
     "file-type-hygen": {
-      "codepoint": 57989,
+      "codepoint": 57517,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHygen"
     },
     "file-type-image": {
-      "codepoint": 57450,
+      "codepoint": 57518,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeImage",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-imba": {
-      "codepoint": 57451,
+      "codepoint": 57519,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeImba"
     },
     "file-type-inc": {
-      "codepoint": 57452,
+      "codepoint": 57520,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeInc",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-infopath": {
-      "codepoint": 57819,
+      "codepoint": 57521,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeInfopath",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-informix": {
-      "codepoint": 57453,
+      "codepoint": 57522,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeInformix",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-ini": {
-      "codepoint": 57454,
+      "codepoint": 57523,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeIni"
     },
     "file-type-io": {
-      "codepoint": 57455,
+      "codepoint": 57524,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeIo"
     },
     "file-type-iodine": {
-      "codepoint": 57456,
+      "codepoint": 57525,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeIodine"
     },
     "file-type-jake": {
-      "codepoint": 57820,
+      "codepoint": 57526,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJake",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-janet": {
-      "codepoint": 57821,
+      "codepoint": 57527,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJanet",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-java": {
-      "codepoint": 57822,
+      "codepoint": 57528,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJava",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-jest": {
-      "codepoint": 57457,
+      "codepoint": 57529,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJest",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-jest-snapshot": {
-      "codepoint": 57823,
+      "codepoint": 57530,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJestSnapshot",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-jpm": {
-      "codepoint": 57458,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeJpm",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-js": {
-      "codepoint": 57459,
+      "codepoint": 57531,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJs"
     },
     "file-type-js-official": {
-      "codepoint": 57460,
+      "codepoint": 57532,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJsOfficial"
     },
     "file-type-jsconfig": {
-      "codepoint": 57461,
+      "codepoint": 57533,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJsconfig",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-jshint": {
-      "codepoint": 57824,
+      "codepoint": 57534,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJshint",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-jsmap": {
-      "codepoint": 57462,
+      "codepoint": 57535,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJsmap"
     },
     "file-type-json": {
-      "codepoint": 57463,
+      "codepoint": 57536,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJson"
     },
     "file-type-json-schema": {
-      "codepoint": 57464,
+      "codepoint": 57537,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJsonSchema"
     },
     "file-type-json5": {
-      "codepoint": 57825,
+      "codepoint": 57538,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJson5",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-jsonnet": {
-      "codepoint": 57465,
+      "codepoint": 57539,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJsonnet"
     },
     "file-type-jsr": {
-      "codepoint": 57826,
+      "codepoint": 57540,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJsr",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-jss": {
-      "codepoint": 57466,
+      "codepoint": 57541,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJss"
     },
     "file-type-juice": {
-      "codepoint": 57990,
+      "codepoint": 57542,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJuice"
     },
     "file-type-just": {
-      "codepoint": 57467,
+      "codepoint": 57543,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJust"
     },
     "file-type-karma": {
-      "codepoint": 57827,
+      "codepoint": 57544,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeKarma",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-kitchenci": {
-      "codepoint": 57828,
+      "codepoint": 57545,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeKitchenci",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-kite": {
-      "codepoint": 57468,
+      "codepoint": 57546,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeKite"
     },
     "file-type-knip": {
-      "codepoint": 57469,
+      "codepoint": 57547,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeKnip",
       "duotone": true
     },
     "file-type-language-configuration": {
-      "codepoint": 57829,
+      "codepoint": 57548,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLanguageConfiguration",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-lark": {
-      "codepoint": 57470,
+      "codepoint": 57549,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLark"
     },
     "file-type-latino": {
-      "codepoint": 57830,
+      "codepoint": 57550,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLatino",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-layout": {
-      "codepoint": 57831,
+      "codepoint": 57551,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLayout",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-lean": {
-      "codepoint": 57471,
+      "codepoint": 57552,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLean"
     },
     "file-type-leanconfig": {
-      "codepoint": 57472,
+      "codepoint": 57553,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLeanconfig"
     },
     "file-type-lex": {
-      "codepoint": 57832,
+      "codepoint": 57554,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLex",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-libreoffice-base": {
-      "codepoint": 57991,
+      "codepoint": 57555,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLibreofficeBase"
     },
     "file-type-libreoffice-calc": {
-      "codepoint": 57992,
+      "codepoint": 57556,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLibreofficeCalc"
     },
     "file-type-libreoffice-draw": {
-      "codepoint": 57993,
+      "codepoint": 57557,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLibreofficeDraw"
     },
     "file-type-libreoffice-impress": {
-      "codepoint": 57994,
+      "codepoint": 57558,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLibreofficeImpress"
     },
     "file-type-libreoffice-math": {
-      "codepoint": 57995,
+      "codepoint": 57559,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLibreofficeMath"
     },
     "file-type-libreoffice-writer": {
-      "codepoint": 57996,
+      "codepoint": 57560,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLibreofficeWriter"
     },
     "file-type-light-agda": {
-      "codepoint": 57473,
+      "codepoint": 57561,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightAgda"
     },
     "file-type-light-agents": {
-      "codepoint": 57474,
+      "codepoint": 57562,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightAgents"
     },
     "file-type-light-apl": {
-      "codepoint": 57475,
+      "codepoint": 57563,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightApl"
     },
     "file-type-light-babel": {
-      "codepoint": 57476,
+      "codepoint": 57564,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightBabel"
     },
     "file-type-light-babel2": {
-      "codepoint": 57477,
+      "codepoint": 57565,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightBabel2"
     },
     "file-type-light-codacy": {
-      "codepoint": 57478,
+      "codepoint": 57566,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightCodacy"
     },
     "file-type-light-codeowners": {
-      "codepoint": 58076,
+      "codepoint": 57567,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightCodeowners"
     },
     "file-type-light-copilot": {
-      "codepoint": 57479,
+      "codepoint": 57568,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightCopilot"
     },
     "file-type-light-deno": {
-      "codepoint": 57480,
+      "codepoint": 57569,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightDeno"
     },
     "file-type-light-dhall": {
-      "codepoint": 58077,
+      "codepoint": 57570,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightDhall"
     },
     "file-type-light-docpad": {
-      "codepoint": 57481,
+      "codepoint": 57571,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightDocpad"
     },
     "file-type-light-duckdb": {
-      "codepoint": 57482,
+      "codepoint": 57572,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightDuckdb",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-eas-metadata": {
-      "codepoint": 57483,
+      "codepoint": 57573,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightEasMetadata"
     },
     "file-type-light-eleventy": {
-      "codepoint": 57484,
+      "codepoint": 57574,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightEleventy"
     },
     "file-type-light-esphome": {
-      "codepoint": 57485,
+      "codepoint": 57575,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightEsphome"
     },
     "file-type-light-expo": {
-      "codepoint": 57486,
+      "codepoint": 57576,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightExpo"
     },
     "file-type-light-firebasehosting": {
-      "codepoint": 57997,
+      "codepoint": 57577,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightFirebasehosting"
     },
     "file-type-light-fla": {
-      "codepoint": 57833,
+      "codepoint": 57578,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightFla",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-font": {
-      "codepoint": 57487,
+      "codepoint": 57579,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightFont"
     },
     "file-type-light-gamemaker2": {
-      "codepoint": 57488,
+      "codepoint": 57580,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightGamemaker2"
     },
     "file-type-light-hashicorp": {
-      "codepoint": 57489,
+      "codepoint": 57581,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightHashicorp"
     },
     "file-type-light-hjson": {
-      "codepoint": 57490,
+      "codepoint": 57582,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightHjson"
     },
     "file-type-light-io": {
-      "codepoint": 57491,
+      "codepoint": 57583,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightIo"
     },
     "file-type-light-js": {
-      "codepoint": 57492,
+      "codepoint": 57584,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightJs"
     },
     "file-type-light-jsconfig": {
-      "codepoint": 57493,
+      "codepoint": 57585,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightJsconfig",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-jsmap": {
-      "codepoint": 57494,
+      "codepoint": 57586,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightJsmap"
     },
     "file-type-light-json": {
-      "codepoint": 57495,
+      "codepoint": 57587,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightJson"
     },
     "file-type-light-json-schema": {
-      "codepoint": 57496,
+      "codepoint": 57588,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightJsonSchema"
     },
     "file-type-light-lark": {
-      "codepoint": 57497,
+      "codepoint": 57589,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightLark"
     },
     "file-type-light-lean": {
-      "codepoint": 57498,
+      "codepoint": 57590,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightLean"
     },
     "file-type-light-leanconfig": {
-      "codepoint": 57499,
+      "codepoint": 57591,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightLeanconfig"
     },
     "file-type-light-mailing": {
-      "codepoint": 57500,
+      "codepoint": 57592,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightMailing"
     },
     "file-type-light-markuplint": {
-      "codepoint": 57834,
+      "codepoint": 57593,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightMarkuplint",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-mcp": {
-      "codepoint": 57501,
+      "codepoint": 57594,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightMcp"
     },
     "file-type-light-mdx": {
-      "codepoint": 57502,
+      "codepoint": 57595,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightMdx"
     },
-    "file-type-light-mdx-components": {
-      "codepoint": 57503,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeLightMdxComponents",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-light-mlang": {
-      "codepoint": 57504,
+      "codepoint": 57596,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightMlang"
     },
     "file-type-light-mustache": {
-      "codepoint": 57998,
+      "codepoint": 57597,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightMustache"
     },
     "file-type-light-mypy": {
-      "codepoint": 57835,
+      "codepoint": 57598,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightMypy",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-neo4j": {
-      "codepoint": 57505,
+      "codepoint": 57599,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightNeo4j"
     },
     "file-type-light-nim": {
-      "codepoint": 57836,
+      "codepoint": 57600,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightNim",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-objidconfig": {
-      "codepoint": 57837,
+      "codepoint": 57601,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightObjidconfig",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-openhab": {
-      "codepoint": 57838,
+      "codepoint": 57602,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightOpenhab",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-packship": {
-      "codepoint": 57506,
+      "codepoint": 57603,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightPackship"
     },
     "file-type-light-pcl": {
-      "codepoint": 57839,
+      "codepoint": 57604,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightPcl",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-pnpm": {
-      "codepoint": 57840,
+      "codepoint": 57605,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightPnpm",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-prettier": {
-      "codepoint": 57999,
+      "codepoint": 57606,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightPrettier",
       "duotone": true
     },
     "file-type-light-prisma": {
-      "codepoint": 58078,
+      "codepoint": 57607,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightPrisma"
     },
     "file-type-light-purescript": {
-      "codepoint": 57507,
+      "codepoint": 57608,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightPurescript"
     },
     "file-type-light-quasar": {
-      "codepoint": 57508,
+      "codepoint": 57609,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightQuasar",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-railway": {
-      "codepoint": 57509,
+      "codepoint": 57610,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightRailway"
     },
     "file-type-light-raku": {
-      "codepoint": 57510,
+      "codepoint": 57611,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightRaku"
     },
     "file-type-light-reactrouter": {
-      "codepoint": 57841,
+      "codepoint": 57612,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightReactrouter",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-render": {
-      "codepoint": 57511,
+      "codepoint": 57613,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightRender"
     },
     "file-type-light-replit": {
-      "codepoint": 57512,
+      "codepoint": 57614,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightReplit"
     },
     "file-type-light-rome": {
-      "codepoint": 57842,
+      "codepoint": 57615,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightRome",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-rubocop": {
-      "codepoint": 57513,
+      "codepoint": 57616,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightRubocop"
     },
     "file-type-light-rust-toolchain": {
-      "codepoint": 57514,
+      "codepoint": 57617,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightRustToolchain"
     },
     "file-type-light-safetensors": {
-      "codepoint": 57515,
+      "codepoint": 57618,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightSafetensors"
     },
     "file-type-light-shadcn": {
-      "codepoint": 57516,
+      "codepoint": 57619,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightShadcn"
     },
     "file-type-light-skill": {
-      "codepoint": 57517,
+      "codepoint": 57620,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightSkill"
     },
     "file-type-light-solidity": {
-      "codepoint": 57518,
+      "codepoint": 57621,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightSolidity"
     },
     "file-type-light-spin": {
-      "codepoint": 57519,
+      "codepoint": 57622,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightSpin"
     },
     "file-type-light-stylelint": {
-      "codepoint": 57520,
+      "codepoint": 57623,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightStylelint"
     },
     "file-type-light-systemd": {
-      "codepoint": 57843,
+      "codepoint": 57624,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightSystemd",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-testcafe": {
-      "codepoint": 57844,
+      "codepoint": 57625,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightTestcafe",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-testjs": {
-      "codepoint": 57521,
+      "codepoint": 57626,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightTestjs"
     },
     "file-type-light-tex": {
-      "codepoint": 57522,
+      "codepoint": 57627,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightTex"
     },
     "file-type-light-tm": {
-      "codepoint": 58079,
+      "codepoint": 57628,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightTm"
     },
     "file-type-light-tmux": {
-      "codepoint": 57523,
+      "codepoint": 57629,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightTmux",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-light-todo": {
-      "codepoint": 57524,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeLightTodo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-light-toit": {
-      "codepoint": 58080,
+      "codepoint": 57630,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightToit"
     },
     "file-type-light-toon": {
-      "codepoint": 57525,
+      "codepoint": 57631,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightToon"
     },
     "file-type-light-tree": {
-      "codepoint": 57526,
+      "codepoint": 57632,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightTree"
     },
     "file-type-light-turbo": {
-      "codepoint": 58000,
+      "codepoint": 57633,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightTurbo"
     },
     "file-type-light-unibeautify": {
-      "codepoint": 57527,
+      "codepoint": 57634,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightUnibeautify"
     },
     "file-type-light-vash": {
-      "codepoint": 57528,
+      "codepoint": 57635,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightVash"
     },
     "file-type-light-vercel": {
-      "codepoint": 58001,
+      "codepoint": 57636,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightVercel"
     },
     "file-type-light-vsixmanifest": {
-      "codepoint": 57845,
+      "codepoint": 57637,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightVsixmanifest",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-xfl": {
-      "codepoint": 57846,
+      "codepoint": 57638,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightXfl",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-light-yaml": {
-      "codepoint": 57529,
+      "codepoint": 57639,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightYaml"
     },
     "file-type-light-zeit": {
-      "codepoint": 58002,
+      "codepoint": 57640,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightZeit"
     },
     "file-type-log": {
-      "codepoint": 57530,
+      "codepoint": 57641,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLog"
     },
-    "file-type-lua": {
-      "codepoint": 57531,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeLua",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-luau": {
-      "codepoint": 57532,
+      "codepoint": 57642,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLuau",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-lync": {
-      "codepoint": 57533,
+      "codepoint": 57643,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLync",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-mailing": {
-      "codepoint": 57534,
+      "codepoint": 57644,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMailing"
     },
     "file-type-makefile": {
-      "codepoint": 57847,
+      "codepoint": 57645,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMakefile",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-manifest": {
-      "codepoint": 57848,
+      "codepoint": 57646,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeManifest",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-mariadb": {
-      "codepoint": 57535,
+      "codepoint": 57647,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMariadb",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-markdown": {
-      "codepoint": 58003,
+      "codepoint": 57648,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMarkdown"
     },
     "file-type-markdownlint": {
-      "codepoint": 57849,
+      "codepoint": 57649,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMarkdownlint",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-markdownlint-ignore": {
-      "codepoint": 57850,
+      "codepoint": 57650,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMarkdownlintIgnore",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-marko": {
-      "codepoint": 58081,
+      "codepoint": 57651,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMarko"
     },
     "file-type-markojs": {
-      "codepoint": 58082,
+      "codepoint": 57652,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMarkojs"
     },
     "file-type-markuplint": {
-      "codepoint": 57851,
+      "codepoint": 57653,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMarkuplint",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-maxscript": {
-      "codepoint": 58004,
+      "codepoint": 57654,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMaxscript"
     },
     "file-type-mcp": {
-      "codepoint": 57536,
+      "codepoint": 57655,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMcp"
     },
     "file-type-mdx": {
-      "codepoint": 57537,
+      "codepoint": 57656,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMdx",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-mdx-components": {
-      "codepoint": 57538,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeMdxComponents",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-mdxlint": {
-      "codepoint": 57539,
+      "codepoint": 57657,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMdxlint"
     },
     "file-type-meson": {
-      "codepoint": 57852,
+      "codepoint": 57658,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMeson",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-meteor": {
-      "codepoint": 57540,
+      "codepoint": 57659,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMeteor"
     },
     "file-type-mise": {
-      "codepoint": 58005,
+      "codepoint": 57660,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMise"
     },
     "file-type-mivascript": {
-      "codepoint": 58006,
+      "codepoint": 57661,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMivascript"
     },
     "file-type-mjml": {
-      "codepoint": 57853,
+      "codepoint": 57662,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMjml",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-mlang": {
-      "codepoint": 57541,
+      "codepoint": 57663,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMlang"
     },
     "file-type-mocha": {
-      "codepoint": 57854,
+      "codepoint": 57664,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMocha",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-modernizr": {
-      "codepoint": 57542,
+      "codepoint": 57665,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeModernizr"
     },
     "file-type-mojo": {
-      "codepoint": 57543,
+      "codepoint": 57666,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMojo"
     },
     "file-type-mojolicious": {
-      "codepoint": 57544,
+      "codepoint": 57667,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMojolicious"
     },
     "file-type-moleculer": {
-      "codepoint": 57545,
+      "codepoint": 57668,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMoleculer"
     },
     "file-type-monotone": {
-      "codepoint": 57546,
+      "codepoint": 57669,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMonotone",
       "duotone": true
     },
     "file-type-motif": {
-      "codepoint": 58007,
+      "codepoint": 57670,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMotif"
     },
     "file-type-mson": {
-      "codepoint": 57855,
+      "codepoint": 57671,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMson",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-mustache": {
-      "codepoint": 57547,
+      "codepoint": 57672,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMustache"
     },
     "file-type-mvt": {
-      "codepoint": 58008,
+      "codepoint": 57673,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMvt"
     },
     "file-type-mvtcss": {
-      "codepoint": 58009,
+      "codepoint": 57674,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMvtcss"
     },
     "file-type-mvtjs": {
-      "codepoint": 58010,
+      "codepoint": 57675,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMvtjs"
     },
     "file-type-mypy": {
-      "codepoint": 57548,
+      "codepoint": 57676,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMypy",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-mysql": {
-      "codepoint": 57856,
+      "codepoint": 57677,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMysql",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-nanostaged": {
-      "codepoint": 57549,
+      "codepoint": 57678,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNanostaged"
     },
     "file-type-neo4j": {
-      "codepoint": 57550,
+      "codepoint": 57679,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNeo4j",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-nest-adapter-js": {
-      "codepoint": 58011,
+      "codepoint": 57680,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestAdapterJs"
     },
     "file-type-nest-adapter-ts": {
-      "codepoint": 58012,
+      "codepoint": 57681,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestAdapterTs"
     },
     "file-type-nest-controller-js": {
-      "codepoint": 58013,
+      "codepoint": 57682,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestControllerJs"
     },
     "file-type-nest-controller-ts": {
-      "codepoint": 58014,
+      "codepoint": 57683,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestControllerTs"
     },
     "file-type-nest-decorator-js": {
-      "codepoint": 58015,
+      "codepoint": 57684,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestDecoratorJs"
     },
     "file-type-nest-decorator-ts": {
-      "codepoint": 58016,
+      "codepoint": 57685,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestDecoratorTs"
     },
     "file-type-nest-filter-js": {
-      "codepoint": 58017,
+      "codepoint": 57686,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestFilterJs"
     },
     "file-type-nest-filter-ts": {
-      "codepoint": 58018,
+      "codepoint": 57687,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestFilterTs"
     },
     "file-type-nest-gateway-js": {
-      "codepoint": 58019,
+      "codepoint": 57688,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestGatewayJs"
     },
     "file-type-nest-gateway-ts": {
-      "codepoint": 58020,
+      "codepoint": 57689,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestGatewayTs"
     },
     "file-type-nest-guard-js": {
-      "codepoint": 58021,
+      "codepoint": 57690,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestGuardJs"
     },
     "file-type-nest-guard-ts": {
-      "codepoint": 58022,
+      "codepoint": 57691,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestGuardTs"
     },
     "file-type-nest-interceptor-js": {
-      "codepoint": 58023,
+      "codepoint": 57692,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestInterceptorJs"
     },
     "file-type-nest-interceptor-ts": {
-      "codepoint": 58024,
+      "codepoint": 57693,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestInterceptorTs"
     },
     "file-type-nest-middleware-js": {
-      "codepoint": 58025,
+      "codepoint": 57694,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestMiddlewareJs"
     },
     "file-type-nest-middleware-ts": {
-      "codepoint": 58026,
+      "codepoint": 57695,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestMiddlewareTs"
     },
     "file-type-nest-module-js": {
-      "codepoint": 58027,
+      "codepoint": 57696,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestModuleJs"
     },
     "file-type-nest-module-ts": {
-      "codepoint": 58028,
+      "codepoint": 57697,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestModuleTs"
     },
     "file-type-nest-pipe-js": {
-      "codepoint": 58029,
+      "codepoint": 57698,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestPipeJs"
     },
     "file-type-nest-pipe-ts": {
-      "codepoint": 58030,
+      "codepoint": 57699,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestPipeTs"
     },
     "file-type-nest-service-js": {
-      "codepoint": 58031,
+      "codepoint": 57700,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestServiceJs"
     },
     "file-type-nest-service-ts": {
-      "codepoint": 58032,
+      "codepoint": 57701,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestServiceTs"
     },
     "file-type-nestjs": {
-      "codepoint": 58083,
+      "codepoint": 57702,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNestjs"
     },
     "file-type-nextflow": {
-      "codepoint": 57551,
+      "codepoint": 57703,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNextflow"
     },
     "file-type-nginx": {
-      "codepoint": 57857,
+      "codepoint": 57704,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNginx",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-nim": {
-      "codepoint": 57858,
+      "codepoint": 57705,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNim",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-nix": {
-      "codepoint": 57859,
+      "codepoint": 57706,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNix",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-noc": {
-      "codepoint": 57552,
+      "codepoint": 57707,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNoc",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-node": {
-      "codepoint": 57553,
+      "codepoint": 57708,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNode"
     },
     "file-type-node2": {
-      "codepoint": 57554,
+      "codepoint": 57709,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNode2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-nodemon": {
-      "codepoint": 57555,
+      "codepoint": 57710,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNodemon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-npm": {
-      "codepoint": 57860,
+      "codepoint": 57711,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNpm",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-nsri-integrity": {
-      "codepoint": 58033,
+      "codepoint": 57712,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNsriIntegrity"
     },
     "file-type-nuget": {
-      "codepoint": 57861,
+      "codepoint": 57713,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNuget",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-numpy": {
-      "codepoint": 57556,
+      "codepoint": 57714,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNumpy",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-nunjucks": {
-      "codepoint": 57862,
+      "codepoint": 57715,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNunjucks",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-nuxt": {
-      "codepoint": 57557,
+      "codepoint": 57716,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNuxt"
     },
     "file-type-nyc": {
-      "codepoint": 57558,
+      "codepoint": 57717,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNyc"
     },
     "file-type-objectivec": {
-      "codepoint": 57559,
+      "codepoint": 57718,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeObjectivec"
     },
     "file-type-objectivecpp": {
-      "codepoint": 57560,
+      "codepoint": 57719,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeObjectivecpp"
     },
     "file-type-objidconfig": {
-      "codepoint": 57561,
+      "codepoint": 57720,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeObjidconfig",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-ogone": {
-      "codepoint": 57863,
+      "codepoint": 57721,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeOgone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-onenote": {
-      "codepoint": 57864,
+      "codepoint": 57722,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeOnenote",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-openhab": {
-      "codepoint": 57562,
+      "codepoint": 57723,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeOpenhab",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-openscad": {
-      "codepoint": 57563,
+      "codepoint": 57724,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeOpenscad"
     },
     "file-type-orval": {
-      "codepoint": 58034,
+      "codepoint": 57725,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeOrval"
     },
     "file-type-outlook": {
-      "codepoint": 57564,
+      "codepoint": 57726,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeOutlook"
     },
     "file-type-ovpn": {
-      "codepoint": 57865,
+      "codepoint": 57727,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeOvpn",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-packship": {
-      "codepoint": 57565,
+      "codepoint": 57728,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePackship"
     },
     "file-type-paket": {
-      "codepoint": 58035,
+      "codepoint": 57729,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePaket"
     },
     "file-type-pandacss": {
-      "codepoint": 57566,
+      "codepoint": 57730,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePandacss"
     },
     "file-type-parquet": {
-      "codepoint": 57567,
+      "codepoint": 57731,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeParquet"
     },
     "file-type-pcl": {
-      "codepoint": 57568,
+      "codepoint": 57732,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePcl",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-pddl": {
-      "codepoint": 57569,
+      "codepoint": 57733,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePddl",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-pddl-happenings": {
-      "codepoint": 57570,
+      "codepoint": 57734,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePddlHappenings"
     },
     "file-type-pddl-plan": {
-      "codepoint": 57571,
+      "codepoint": 57735,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePddlPlan"
     },
     "file-type-pdm": {
-      "codepoint": 57572,
+      "codepoint": 57736,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePdm"
     },
     "file-type-peeky": {
-      "codepoint": 58036,
+      "codepoint": 57737,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePeeky"
     },
     "file-type-perl": {
-      "codepoint": 57573,
+      "codepoint": 57738,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePerl",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-perl2": {
-      "codepoint": 57574,
+      "codepoint": 57739,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePerl2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-photoshop": {
-      "codepoint": 57866,
+      "codepoint": 57740,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePhotoshop",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-photoshop2": {
-      "codepoint": 57867,
+      "codepoint": 57741,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePhotoshop2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-pine": {
-      "codepoint": 57868,
+      "codepoint": 57742,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePine",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-pipeline": {
-      "codepoint": 57575,
+      "codepoint": 57743,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePipeline"
     },
     "file-type-pixi": {
-      "codepoint": 58084,
+      "codepoint": 57744,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePixi"
     },
     "file-type-plsql": {
-      "codepoint": 57576,
+      "codepoint": 57745,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePlsql"
     },
     "file-type-pnpm": {
-      "codepoint": 57577,
+      "codepoint": 57746,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePnpm",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-polyglot": {
-      "codepoint": 58037,
+      "codepoint": 57747,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePolyglot"
     },
     "file-type-postcssconfig": {
-      "codepoint": 57869,
+      "codepoint": 57748,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePostcssconfig",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-postman": {
-      "codepoint": 57578,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypePostman",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-powerpoint2": {
-      "codepoint": 57870,
+      "codepoint": 57749,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePowerpoint2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-powershell": {
-      "codepoint": 58038,
+      "codepoint": 57750,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePowershell"
     },
     "file-type-powershell-format": {
-      "codepoint": 58039,
+      "codepoint": 57751,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePowershellFormat"
     },
     "file-type-powershell-psd": {
-      "codepoint": 58040,
+      "codepoint": 57752,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePowershellPsd"
     },
     "file-type-powershell-psd2": {
-      "codepoint": 58085,
+      "codepoint": 57753,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePowershellPsd2"
     },
     "file-type-powershell-psm": {
-      "codepoint": 58041,
+      "codepoint": 57754,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePowershellPsm"
     },
     "file-type-powershell-psm2": {
-      "codepoint": 58042,
+      "codepoint": 57755,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePowershellPsm2"
     },
     "file-type-powershell-types": {
-      "codepoint": 58043,
+      "codepoint": 57756,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePowershellTypes"
     },
     "file-type-powershell2": {
-      "codepoint": 58044,
+      "codepoint": 57757,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePowershell2"
     },
     "file-type-preact": {
-      "codepoint": 58086,
+      "codepoint": 57758,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePreact"
     },
     "file-type-prettier": {
-      "codepoint": 58045,
+      "codepoint": 57759,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePrettier",
       "duotone": true
     },
     "file-type-prisma": {
-      "codepoint": 57579,
+      "codepoint": 57760,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePrisma"
     },
     "file-type-prismaconfig": {
-      "codepoint": 57580,
+      "codepoint": 57761,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePrismaconfig",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-publisher": {
-      "codepoint": 57871,
+      "codepoint": 57762,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePublisher",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-puppet": {
-      "codepoint": 57581,
+      "codepoint": 57763,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePuppet"
     },
     "file-type-purescript": {
-      "codepoint": 57872,
+      "codepoint": 57764,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePurescript",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-pythowo": {
-      "codepoint": 57873,
+      "codepoint": 57765,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePythowo",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-pytyped": {
-      "codepoint": 57582,
+      "codepoint": 57766,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePytyped"
     },
     "file-type-qlikview": {
-      "codepoint": 57874,
+      "codepoint": 57767,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeQlikview",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-qml": {
-      "codepoint": 57583,
+      "codepoint": 57768,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeQml"
     },
     "file-type-qsharp": {
-      "codepoint": 57584,
+      "codepoint": 57769,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeQsharp"
     },
     "file-type-quasar": {
-      "codepoint": 57585,
+      "codepoint": 57770,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeQuasar",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-railway": {
-      "codepoint": 57586,
+      "codepoint": 57771,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRailway"
     },
     "file-type-raku": {
-      "codepoint": 57587,
+      "codepoint": 57772,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRaku"
     },
     "file-type-raml": {
-      "codepoint": 57588,
+      "codepoint": 57773,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRaml"
     },
     "file-type-reactjs": {
-      "codepoint": 57589,
+      "codepoint": 57774,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeReactjs"
     },
     "file-type-reactrouter": {
-      "codepoint": 57875,
+      "codepoint": 57775,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeReactrouter",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-reacttemplate": {
-      "codepoint": 57590,
+      "codepoint": 57776,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeReacttemplate"
     },
     "file-type-reactts": {
-      "codepoint": 57591,
+      "codepoint": 57777,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeReactts"
     },
     "file-type-reason": {
-      "codepoint": 57592,
+      "codepoint": 57778,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeReason",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-registry": {
-      "codepoint": 57593,
+      "codepoint": 57779,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRegistry",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-rego": {
-      "codepoint": 58046,
+      "codepoint": 57780,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRego"
     },
     "file-type-rehype": {
-      "codepoint": 57876,
+      "codepoint": 57781,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRehype",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-remark": {
-      "codepoint": 57877,
+      "codepoint": 57782,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRemark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-render": {
-      "codepoint": 57594,
+      "codepoint": 57783,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRender"
     },
-    "file-type-renovate": {
-      "codepoint": 57595,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeRenovate",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-replit": {
-      "codepoint": 57596,
+      "codepoint": 57784,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeReplit"
     },
     "file-type-rest": {
-      "codepoint": 57597,
+      "codepoint": 57785,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRest",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-retext": {
-      "codepoint": 57878,
+      "codepoint": 57786,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRetext",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-rmd": {
-      "codepoint": 57879,
+      "codepoint": 57787,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRmd",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-rnc": {
-      "codepoint": 57598,
+      "codepoint": 57788,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRnc"
     },
     "file-type-robotframework": {
-      "codepoint": 57599,
+      "codepoint": 57789,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRobotframework"
     },
     "file-type-robots": {
-      "codepoint": 57880,
+      "codepoint": 57790,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRobots",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-rome": {
-      "codepoint": 57881,
+      "codepoint": 57791,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRome",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-ron": {
-      "codepoint": 57600,
+      "codepoint": 57792,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRon"
     },
     "file-type-rproj": {
-      "codepoint": 57601,
+      "codepoint": 57793,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRproj",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-rubocop": {
-      "codepoint": 57602,
+      "codepoint": 57794,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRubocop",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-ruff": {
-      "codepoint": 57603,
+      "codepoint": 57795,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRuff"
     },
     "file-type-safetensors": {
-      "codepoint": 57604,
+      "codepoint": 57796,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSafetensors"
     },
     "file-type-sails": {
-      "codepoint": 57605,
+      "codepoint": 57797,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSails"
     },
     "file-type-san": {
-      "codepoint": 57882,
+      "codepoint": 57798,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSan",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-sas": {
-      "codepoint": 57606,
+      "codepoint": 57799,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSas",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-script": {
-      "codepoint": 57883,
+      "codepoint": 57800,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeScript",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-scss2": {
-      "codepoint": 57607,
+      "codepoint": 57801,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeScss2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-search-result": {
-      "codepoint": 57608,
+      "codepoint": 57802,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSearchResult"
     },
     "file-type-seedkit": {
-      "codepoint": 57884,
+      "codepoint": 57803,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSeedkit",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-serverless": {
-      "codepoint": 58087,
+      "codepoint": 57804,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeServerless"
     },
     "file-type-shadcn": {
-      "codepoint": 57609,
+      "codepoint": 57805,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeShadcn"
     },
     "file-type-shaderlab": {
-      "codepoint": 57610,
+      "codepoint": 57806,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeShaderlab"
     },
     "file-type-shellcheck": {
-      "codepoint": 57611,
+      "codepoint": 57807,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeShellcheck",
       "duotone": true
     },
     "file-type-shuttle": {
-      "codepoint": 58047,
+      "codepoint": 57808,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeShuttle"
     },
     "file-type-silverstripe": {
-      "codepoint": 57612,
+      "codepoint": 57809,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSilverstripe"
     },
-    "file-type-sino": {
-      "codepoint": 57613,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeSino",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-skill": {
-      "codepoint": 57614,
+      "codepoint": 57810,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSkill"
     },
-    "file-type-skipper": {
-      "codepoint": 57615,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeSkipper",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-slang": {
-      "codepoint": 57885,
+      "codepoint": 57811,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSlang",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-slashup": {
-      "codepoint": 57616,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeSlashup",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-slice": {
-      "codepoint": 57886,
+      "codepoint": 57812,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSlice",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-sln2": {
-      "codepoint": 57887,
+      "codepoint": 57813,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSln2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-smithery": {
-      "codepoint": 57888,
+      "codepoint": 57814,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSmithery",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-snapcraft": {
-      "codepoint": 57889,
+      "codepoint": 57815,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSnapcraft",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-snort": {
-      "codepoint": 57890,
+      "codepoint": 57816,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSnort",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-solidity": {
-      "codepoint": 57617,
+      "codepoint": 57817,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSolidity"
     },
     "file-type-source": {
-      "codepoint": 57618,
+      "codepoint": 57818,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSource"
     },
     "file-type-sparql": {
-      "codepoint": 57891,
+      "codepoint": 57819,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSparql",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-spin": {
-      "codepoint": 57619,
+      "codepoint": 57820,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSpin"
     },
     "file-type-sqf": {
-      "codepoint": 57620,
+      "codepoint": 57821,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSqf"
     },
     "file-type-sql": {
-      "codepoint": 57621,
+      "codepoint": 57822,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSql"
     },
     "file-type-stan": {
-      "codepoint": 57892,
+      "codepoint": 57823,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeStan",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-stencil": {
-      "codepoint": 57622,
+      "codepoint": 57824,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeStencil"
     },
     "file-type-storyboard": {
-      "codepoint": 57623,
+      "codepoint": 57825,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeStoryboard",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-storybook": {
-      "codepoint": 57893,
+      "codepoint": 57826,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeStorybook",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-stryker": {
-      "codepoint": 57624,
+      "codepoint": 57827,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeStryker"
     },
     "file-type-stylelint": {
-      "codepoint": 57625,
+      "codepoint": 57828,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeStylelint"
     },
     "file-type-stylus": {
-      "codepoint": 57626,
+      "codepoint": 57829,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeStylus"
     },
     "file-type-subversion": {
-      "codepoint": 57894,
+      "codepoint": 57830,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSubversion",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-svelte": {
-      "codepoint": 57627,
+      "codepoint": 57831,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSvelte",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-svelteconfig": {
-      "codepoint": 57628,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeSvelteconfig",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "file-type-svg": {
-      "codepoint": 57629,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeSvg",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-swagger": {
-      "codepoint": 57630,
+      "codepoint": 57832,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSwagger",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-swig": {
-      "codepoint": 57895,
+      "codepoint": 57833,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSwig",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-symfony": {
-      "codepoint": 57631,
+      "codepoint": 57834,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSymfony"
     },
     "file-type-systemd": {
-      "codepoint": 57896,
+      "codepoint": 57835,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeSystemd",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-tailwind": {
-      "codepoint": 57632,
+      "codepoint": 57836,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTailwind"
     },
-    "file-type-taskfile": {
-      "codepoint": 57633,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeTaskfile",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-tauri": {
-      "codepoint": 57634,
+      "codepoint": 57837,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTauri",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-tcl": {
-      "codepoint": 57635,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeTcl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-teal": {
-      "codepoint": 57636,
+      "codepoint": 57838,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTeal",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-templ": {
-      "codepoint": 57637,
+      "codepoint": 57839,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTempl"
     },
     "file-type-test": {
-      "codepoint": 57638,
+      "codepoint": 57840,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTest"
     },
     "file-type-testcafe": {
-      "codepoint": 57897,
+      "codepoint": 57841,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTestcafe",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-testjs": {
-      "codepoint": 57639,
+      "codepoint": 57842,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTestjs"
     },
     "file-type-testts": {
-      "codepoint": 57640,
+      "codepoint": 57843,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTestts"
     },
     "file-type-tex": {
-      "codepoint": 57641,
+      "codepoint": 57844,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTex"
     },
     "file-type-text": {
-      "codepoint": 57898,
+      "codepoint": 57845,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeText",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-textile": {
-      "codepoint": 57642,
+      "codepoint": 57846,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTextile"
     },
     "file-type-tiltfile": {
-      "codepoint": 57643,
+      "codepoint": 57847,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTiltfile",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-tm": {
-      "codepoint": 57644,
+      "codepoint": 57848,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTm"
     },
     "file-type-tmux": {
-      "codepoint": 57645,
+      "codepoint": 57849,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTmux",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-todo": {
-      "codepoint": 57646,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeTodo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-toit": {
-      "codepoint": 58088,
+      "codepoint": 57850,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeToit"
     },
     "file-type-toml": {
-      "codepoint": 57647,
+      "codepoint": 57851,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeToml",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-toon": {
-      "codepoint": 57648,
+      "codepoint": 57852,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeToon"
     },
     "file-type-tree": {
-      "codepoint": 57649,
+      "codepoint": 57853,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTree"
     },
-    "file-type-truffle": {
-      "codepoint": 57650,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeTruffle",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-trunk": {
-      "codepoint": 57651,
+      "codepoint": 57854,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTrunk"
     },
     "file-type-tsbuildinfo": {
-      "codepoint": 57652,
+      "codepoint": 57855,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTsbuildinfo",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-tsconfig": {
-      "codepoint": 57653,
+      "codepoint": 57856,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTsconfig",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-tsconfig-official": {
-      "codepoint": 57899,
+      "codepoint": 57857,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTsconfigOfficial",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-tsdoc": {
-      "codepoint": 57900,
+      "codepoint": 57858,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTsdoc",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-tsdown": {
-      "codepoint": 58048,
+      "codepoint": 57859,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTsdown"
     },
     "file-type-tt": {
-      "codepoint": 57654,
+      "codepoint": 57860,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTt",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-ttcn": {
-      "codepoint": 57901,
+      "codepoint": 57861,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTtcn",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-tuc": {
-      "codepoint": 57902,
+      "codepoint": 57862,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTuc",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-turbo": {
-      "codepoint": 58049,
+      "codepoint": 57863,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTurbo"
     },
-    "file-type-twig": {
-      "codepoint": 57655,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeTwig",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-typescript": {
-      "codepoint": 57656,
+      "codepoint": 57864,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTypescript"
     },
     "file-type-typescript-official": {
-      "codepoint": 57903,
+      "codepoint": 57865,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTypescriptOfficial",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-typescriptdef": {
-      "codepoint": 57657,
+      "codepoint": 57866,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTypescriptdef"
     },
     "file-type-typescriptdef-official": {
-      "codepoint": 57904,
+      "codepoint": 57867,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTypescriptdefOfficial",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-unibeautify": {
-      "codepoint": 57658,
+      "codepoint": 57868,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeUnibeautify"
     },
     "file-type-unison": {
-      "codepoint": 57659,
+      "codepoint": 57869,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeUnison",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-unlicense": {
-      "codepoint": 57660,
+      "codepoint": 57870,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeUnlicense"
     },
     "file-type-uv": {
-      "codepoint": 57661,
+      "codepoint": 57871,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeUv"
     },
     "file-type-vala": {
-      "codepoint": 57905,
+      "codepoint": 57872,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVala",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-vapi": {
-      "codepoint": 57906,
+      "codepoint": 57873,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVapi",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-vapor": {
-      "codepoint": 57662,
+      "codepoint": 57874,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVapor",
       "duotone": true
     },
     "file-type-vash": {
-      "codepoint": 57663,
+      "codepoint": 57875,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVash"
     },
     "file-type-vbhtml": {
-      "codepoint": 57664,
+      "codepoint": 57876,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVbhtml"
     },
-    "file-type-vento": {
-      "codepoint": 57665,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeVento",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-vercel": {
-      "codepoint": 58050,
+      "codepoint": 57877,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVercel"
     },
     "file-type-vhdl": {
-      "codepoint": 57666,
+      "codepoint": 57878,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVhdl",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-vim": {
-      "codepoint": 58051,
+      "codepoint": 57879,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVim"
     },
     "file-type-vlang": {
-      "codepoint": 57907,
+      "codepoint": 57880,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVlang",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-volt": {
-      "codepoint": 57667,
+      "codepoint": 57881,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVolt"
     },
-    "file-type-vscode": {
-      "codepoint": 57668,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeVscode",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-vscode2": {
-      "codepoint": 57669,
+      "codepoint": 57882,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVscode2"
     },
     "file-type-vscode3": {
-      "codepoint": 57670,
+      "codepoint": 57883,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVscode3"
     },
     "file-type-vsix": {
-      "codepoint": 57671,
+      "codepoint": 57884,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVsix"
     },
     "file-type-vsixmanifest": {
-      "codepoint": 57908,
+      "codepoint": 57885,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVsixmanifest",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-vue": {
-      "codepoint": 57909,
+      "codepoint": 57886,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVue",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-vyper": {
-      "codepoint": 57672,
+      "codepoint": 57887,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVyper"
     },
     "file-type-wallaby": {
-      "codepoint": 57673,
+      "codepoint": 57888,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWallaby"
     },
     "file-type-wasm": {
-      "codepoint": 57910,
+      "codepoint": 57889,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWasm",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-watchmanconfig": {
-      "codepoint": 57911,
+      "codepoint": 57890,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWatchmanconfig",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-wdio": {
-      "codepoint": 57912,
+      "codepoint": 57891,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWdio",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-webp": {
-      "codepoint": 58052,
+      "codepoint": 57892,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWebp"
     },
     "file-type-wercker": {
-      "codepoint": 57674,
+      "codepoint": 57893,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWercker"
     },
     "file-type-wgsl": {
-      "codepoint": 58053,
+      "codepoint": 57894,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWgsl"
     },
     "file-type-wikitext": {
-      "codepoint": 57675,
+      "codepoint": 57895,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWikitext"
     },
     "file-type-wolfram": {
-      "codepoint": 57676,
+      "codepoint": 57896,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWolfram",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-word2": {
-      "codepoint": 57913,
+      "codepoint": 57897,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWord2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-wurst": {
-      "codepoint": 57677,
+      "codepoint": 57898,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWurst",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-wxss": {
-      "codepoint": 57678,
+      "codepoint": 57899,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWxss"
     },
     "file-type-wxt": {
-      "codepoint": 57679,
+      "codepoint": 57900,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWxt"
     },
     "file-type-xib": {
-      "codepoint": 57680,
+      "codepoint": 57901,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeXib",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-xliff": {
-      "codepoint": 57681,
+      "codepoint": 57902,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeXliff",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "file-type-xmake": {
-      "codepoint": 57682,
-      "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeXmake",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "file-type-xquery": {
-      "codepoint": 57914,
+      "codepoint": 57903,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeXquery",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-xsl": {
-      "codepoint": 57683,
+      "codepoint": 57904,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeXsl"
     },
     "file-type-yacc": {
-      "codepoint": 57684,
+      "codepoint": 57905,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeYacc"
     },
     "file-type-yaml-official": {
-      "codepoint": 57915,
+      "codepoint": 57906,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeYamlOfficial",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-yamllint": {
-      "codepoint": 57916,
+      "codepoint": 57907,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeYamllint",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-yang": {
-      "codepoint": 57917,
+      "codepoint": 57908,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeYang",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-type-zeit": {
-      "codepoint": 58054,
+      "codepoint": 57909,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeZeit"
     },
     "file-type-zig": {
-      "codepoint": 57685,
+      "codepoint": 57910,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeZig"
     },
     "folder-type-android": {
-      "codepoint": 57918,
+      "codepoint": 57911,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeAndroid",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-android-opened": {
-      "codepoint": 57686,
+      "codepoint": 57912,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeAndroidOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-app": {
-      "codepoint": 57919,
+      "codepoint": 57913,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeApp",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-app-opened": {
-      "codepoint": 57920,
+      "codepoint": 57914,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeAppOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-audio": {
-      "codepoint": 57921,
+      "codepoint": 57915,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeAudio",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-audio-opened": {
-      "codepoint": 57687,
+      "codepoint": 57916,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeAudioOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "folder-type-bloc": {
-      "codepoint": 57688,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeBloc",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "folder-type-bloc-opened": {
-      "codepoint": 57689,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeBlocOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "folder-type-buildkite": {
-      "codepoint": 57690,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeBuildkite",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "folder-type-buildkite-opened": {
-      "codepoint": 57691,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeBuildkiteOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-cargo": {
-      "codepoint": 58055,
+      "codepoint": 57917,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeCargo"
     },
     "folder-type-cargo-opened": {
-      "codepoint": 58056,
+      "codepoint": 57918,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeCargoOpened"
     },
     "folder-type-certificate": {
-      "codepoint": 57922,
+      "codepoint": 57919,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeCertificate",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-certificate-opened": {
-      "codepoint": 57923,
+      "codepoint": 57920,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeCertificateOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-circleci": {
-      "codepoint": 57692,
+      "codepoint": 57921,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeCircleci",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-circleci-opened": {
-      "codepoint": 57693,
+      "codepoint": 57922,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeCircleciOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-claude": {
-      "codepoint": 57924,
+      "codepoint": 57923,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeClaude",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-claude-opened": {
-      "codepoint": 57925,
+      "codepoint": 57924,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeClaudeOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "folder-type-common": {
-      "codepoint": 57694,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeCommon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-common-opened": {
-      "codepoint": 57695,
+      "codepoint": 57925,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeCommonOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-config": {
-      "codepoint": 57696,
+      "codepoint": 57926,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeConfig",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-config-opened": {
-      "codepoint": 57697,
+      "codepoint": 57927,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeConfigOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "folder-type-cubit": {
-      "codepoint": 57698,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeCubit",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "folder-type-cubit-opened": {
-      "codepoint": 57699,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeCubitOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "folder-type-cursor": {
-      "codepoint": 57700,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeCursor",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "folder-type-cursor-opened": {
-      "codepoint": 57701,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeCursorOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-datadog": {
-      "codepoint": 57926,
+      "codepoint": 57928,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeDatadog",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-datadog-opened": {
-      "codepoint": 58057,
+      "codepoint": 57929,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeDatadogOpened"
     },
     "folder-type-db": {
-      "codepoint": 57927,
+      "codepoint": 57930,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeDb",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-db-opened": {
-      "codepoint": 57702,
+      "codepoint": 57931,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeDbOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-debian": {
-      "codepoint": 57928,
+      "codepoint": 57932,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeDebian",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-debian-opened": {
-      "codepoint": 57929,
+      "codepoint": 57933,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeDebianOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "folder-type-docs-opened": {
-      "codepoint": 57703,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeDocsOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-electron": {
-      "codepoint": 57930,
+      "codepoint": 57934,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeElectron",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-electron-opened": {
-      "codepoint": 57931,
+      "codepoint": 57935,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeElectronOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-expo-opened": {
-      "codepoint": 58058,
+      "codepoint": 57936,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeExpoOpened"
     },
     "folder-type-fonts": {
-      "codepoint": 57704,
+      "codepoint": 57937,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeFonts",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-fonts-opened": {
-      "codepoint": 57705,
+      "codepoint": 57938,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeFontsOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-frontcommerce": {
-      "codepoint": 58089,
+      "codepoint": 57939,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeFrontcommerce"
     },
     "folder-type-frontcommerce-opened": {
-      "codepoint": 58090,
+      "codepoint": 57940,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeFrontcommerceOpened"
     },
     "folder-type-github": {
-      "codepoint": 58059,
+      "codepoint": 57941,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeGithub"
     },
     "folder-type-github-opened": {
-      "codepoint": 58060,
+      "codepoint": 57942,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeGithubOpened"
     },
     "folder-type-gradle": {
-      "codepoint": 57706,
+      "codepoint": 57943,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeGradle",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-gradle-opened": {
-      "codepoint": 57707,
+      "codepoint": 57944,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeGradleOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-graphql": {
-      "codepoint": 57932,
+      "codepoint": 57945,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeGraphql",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-graphql-opened": {
-      "codepoint": 57933,
+      "codepoint": 57946,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeGraphqlOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-gulp": {
-      "codepoint": 57934,
+      "codepoint": 57947,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeGulp",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-gulp-opened": {
-      "codepoint": 57935,
+      "codepoint": 57948,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeGulpOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-helper": {
-      "codepoint": 57936,
+      "codepoint": 57949,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeHelper",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-helper-opened": {
-      "codepoint": 57937,
+      "codepoint": 57950,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeHelperOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-hook": {
-      "codepoint": 57938,
+      "codepoint": 57951,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeHook",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-hook-opened": {
-      "codepoint": 57708,
+      "codepoint": 57952,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeHookOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-husky": {
-      "codepoint": 57709,
+      "codepoint": 57953,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeHusky",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-husky-opened": {
-      "codepoint": 57710,
+      "codepoint": 57954,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeHuskyOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "folder-type-images": {
-      "codepoint": 57711,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeImages",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "folder-type-images-opened": {
-      "codepoint": 57712,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeImagesOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "folder-type-include-opened": {
-      "codepoint": 57713,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeIncludeOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-interfaces": {
-      "codepoint": 57714,
+      "codepoint": 57955,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeInterfaces"
     },
     "folder-type-interfaces-opened": {
-      "codepoint": 57715,
+      "codepoint": 57956,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeInterfacesOpened"
     },
     "folder-type-ios": {
-      "codepoint": 57716,
+      "codepoint": 57957,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeIos",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-ios-opened": {
-      "codepoint": 57939,
+      "codepoint": 57958,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeIosOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-js": {
-      "codepoint": 57940,
+      "codepoint": 57959,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeJs",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-js-opened": {
-      "codepoint": 57717,
+      "codepoint": 57960,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeJsOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-json": {
-      "codepoint": 57941,
+      "codepoint": 57961,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeJson",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-json-opened": {
-      "codepoint": 57718,
+      "codepoint": 57962,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeJsonOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-junie": {
-      "codepoint": 57942,
+      "codepoint": 57963,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeJunie",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-junie-opened": {
-      "codepoint": 57943,
+      "codepoint": 57964,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeJunieOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-light-electron": {
-      "codepoint": 57944,
+      "codepoint": 57965,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightElectron",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-light-electron-opened": {
-      "codepoint": 57945,
+      "codepoint": 57966,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightElectronOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-light-expo-opened": {
-      "codepoint": 57719,
+      "codepoint": 57967,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightExpoOpened"
     },
     "folder-type-light-fonts": {
-      "codepoint": 57720,
+      "codepoint": 57968,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightFonts"
     },
     "folder-type-light-fonts-opened": {
-      "codepoint": 57721,
+      "codepoint": 57969,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightFontsOpened"
     },
     "folder-type-light-gradle": {
-      "codepoint": 57946,
+      "codepoint": 57970,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightGradle",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-light-gradle-opened": {
-      "codepoint": 57947,
+      "codepoint": 57971,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightGradleOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-light-meteor": {
-      "codepoint": 57948,
+      "codepoint": 57972,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightMeteor",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-light-meteor-opened": {
-      "codepoint": 57722,
+      "codepoint": 57973,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightMeteorOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-light-mysql": {
-      "codepoint": 58091,
+      "codepoint": 57974,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightMysql"
     },
     "folder-type-light-mysql-opened": {
-      "codepoint": 58061,
+      "codepoint": 57975,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightMysqlOpened"
     },
     "folder-type-light-node": {
-      "codepoint": 57723,
+      "codepoint": 57976,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightNode"
     },
     "folder-type-light-node-opened": {
-      "codepoint": 57724,
+      "codepoint": 57977,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightNodeOpened"
     },
     "folder-type-light-redux": {
-      "codepoint": 57949,
+      "codepoint": 57978,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightRedux",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-light-redux-opened": {
-      "codepoint": 57950,
+      "codepoint": 57979,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightReduxOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-light-sass": {
-      "codepoint": 58092,
+      "codepoint": 57980,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightSass"
     },
     "folder-type-light-sass-opened": {
-      "codepoint": 57725,
+      "codepoint": 57981,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightSassOpened"
     },
     "folder-type-light-zed": {
-      "codepoint": 57951,
+      "codepoint": 57982,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightZed",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-light-zed-opened": {
-      "codepoint": 58062,
+      "codepoint": 57983,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightZedOpened"
     },
-    "folder-type-log": {
-      "codepoint": 57726,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeLog",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "folder-type-log-opened": {
-      "codepoint": 57727,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeLogOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-macos": {
-      "codepoint": 58063,
+      "codepoint": 57984,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMacos"
     },
     "folder-type-macos-opened": {
-      "codepoint": 58064,
+      "codepoint": 57985,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMacosOpened"
     },
-    "folder-type-mariadb-opened": {
-      "codepoint": 57728,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeMariadbOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-mediawiki": {
-      "codepoint": 58093,
+      "codepoint": 57986,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMediawiki"
     },
     "folder-type-mediawiki-opened": {
-      "codepoint": 58065,
+      "codepoint": 57987,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMediawikiOpened"
     },
     "folder-type-meteor": {
-      "codepoint": 57952,
+      "codepoint": 57988,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMeteor",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-meteor-opened": {
-      "codepoint": 57729,
+      "codepoint": 57989,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMeteorOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-minikube": {
-      "codepoint": 58066,
+      "codepoint": 57990,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMinikube"
     },
     "folder-type-minikube-opened": {
-      "codepoint": 58067,
+      "codepoint": 57991,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMinikubeOpened"
     },
-    "folder-type-model-opened": {
-      "codepoint": 57730,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeModelOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "folder-type-module": {
-      "codepoint": 57731,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeModule",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "folder-type-module-opened": {
-      "codepoint": 57732,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeModuleOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-mojo": {
-      "codepoint": 57733,
+      "codepoint": 57992,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMojo"
     },
     "folder-type-mojo-opened": {
-      "codepoint": 57734,
+      "codepoint": 57993,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMojoOpened"
     },
-    "folder-type-mypy": {
-      "codepoint": 57735,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeMypy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-mysql": {
-      "codepoint": 57736,
+      "codepoint": 57994,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMysql"
     },
     "folder-type-mysql-opened": {
-      "codepoint": 58094,
+      "codepoint": 57995,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMysqlOpened"
     },
     "folder-type-nix": {
-      "codepoint": 58095,
+      "codepoint": 57996,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeNix"
     },
     "folder-type-nix-opened": {
-      "codepoint": 58068,
+      "codepoint": 57997,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeNixOpened"
     },
     "folder-type-node": {
-      "codepoint": 57737,
+      "codepoint": 57998,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeNode",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-node-opened": {
-      "codepoint": 57738,
+      "codepoint": 57999,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeNodeOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "folder-type-notification": {
-      "codepoint": 57739,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeNotification",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-nuxt-opened": {
-      "codepoint": 57740,
+      "codepoint": 58000,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeNuxtOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-plugin": {
-      "codepoint": 57741,
+      "codepoint": 58001,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypePlugin",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-plugin-opened": {
-      "codepoint": 57742,
+      "codepoint": 58002,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypePluginOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-prisma": {
-      "codepoint": 58069,
+      "codepoint": 58003,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypePrisma"
     },
     "folder-type-prisma-opened": {
-      "codepoint": 58096,
+      "codepoint": 58004,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypePrismaOpened"
     },
     "folder-type-private": {
-      "codepoint": 57953,
+      "codepoint": 58005,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypePrivate",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-private-opened": {
-      "codepoint": 57954,
+      "codepoint": 58006,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypePrivateOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-public": {
-      "codepoint": 57743,
+      "codepoint": 58007,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypePublic",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-public-opened": {
-      "codepoint": 57955,
+      "codepoint": 58008,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypePublicOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-redux": {
-      "codepoint": 57956,
+      "codepoint": 58009,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeRedux",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-redux-opened": {
-      "codepoint": 57744,
+      "codepoint": 58010,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeReduxOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-sass": {
-      "codepoint": 57957,
+      "codepoint": 58011,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeSass",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-sass-opened": {
-      "codepoint": 57745,
+      "codepoint": 58012,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeSassOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-seedkit": {
-      "codepoint": 57958,
+      "codepoint": 58013,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeSeedkit",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-seedkit-opened": {
-      "codepoint": 57959,
+      "codepoint": 58014,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeSeedkitOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-spin-opened": {
-      "codepoint": 57746,
+      "codepoint": 58015,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeSpinOpened"
     },
     "folder-type-src": {
-      "codepoint": 57960,
+      "codepoint": 58016,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeSrc",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-src-opened": {
-      "codepoint": 57961,
+      "codepoint": 58017,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeSrcOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "folder-type-svelte-opened": {
-      "codepoint": 57747,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeSvelteOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-temp": {
-      "codepoint": 57962,
+      "codepoint": 58018,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTemp",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-temp-opened": {
-      "codepoint": 57963,
+      "codepoint": 58019,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTempOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-test": {
-      "codepoint": 57748,
+      "codepoint": 58020,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTest",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-test-opened": {
-      "codepoint": 57964,
+      "codepoint": 58021,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTestOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-tools": {
-      "codepoint": 57965,
+      "codepoint": 58022,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTools",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-tools-opened": {
-      "codepoint": 57966,
+      "codepoint": 58023,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeToolsOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-turbo": {
-      "codepoint": 58097,
+      "codepoint": 58024,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTurbo"
     },
     "folder-type-turbo-opened": {
-      "codepoint": 58098,
+      "codepoint": 58025,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTurboOpened"
     },
     "folder-type-typescript": {
-      "codepoint": 57749,
+      "codepoint": 58026,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTypescript",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-typings": {
-      "codepoint": 57750,
+      "codepoint": 58027,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTypings",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-typings-opened": {
-      "codepoint": 57967,
+      "codepoint": 58028,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTypingsOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-typings2": {
-      "codepoint": 57751,
+      "codepoint": 58029,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTypings2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-typings2-opened": {
-      "codepoint": 57752,
+      "codepoint": 58030,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTypings2Opened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-vercel": {
-      "codepoint": 58099,
+      "codepoint": 58031,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeVercel"
     },
     "folder-type-vercel-opened": {
-      "codepoint": 58070,
+      "codepoint": 58032,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeVercelOpened"
     },
-    "folder-type-vscode-opened": {
-      "codepoint": 57753,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeVscodeOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-vscode-test2": {
-      "codepoint": 57754,
+      "codepoint": 58033,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeVscodeTest2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-vscode-test2-opened": {
-      "codepoint": 57968,
+      "codepoint": 58034,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeVscodeTest2Opened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "folder-type-vscode-test3": {
-      "codepoint": 57755,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeVscodeTest3",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-vscode2": {
-      "codepoint": 57969,
+      "codepoint": 58035,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeVscode2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-vscode2-opened": {
-      "codepoint": 57756,
+      "codepoint": 58036,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeVscode2Opened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "folder-type-vscode3-opened": {
-      "codepoint": 57757,
-      "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeVscode3Opened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "folder-type-windows": {
-      "codepoint": 57970,
+      "codepoint": 58037,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeWindows",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-windows-opened": {
-      "codepoint": 57758,
+      "codepoint": 58038,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeWindowsOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-windsurf": {
-      "codepoint": 57971,
+      "codepoint": 58039,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeWindsurf",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-windsurf-opened": {
-      "codepoint": 57759,
+      "codepoint": 58040,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeWindsurfOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-yarn": {
-      "codepoint": 57972,
+      "codepoint": 58041,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeYarn",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-yarn-opened": {
-      "codepoint": 57973,
+      "codepoint": 58042,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeYarnOpened",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "folder-type-zed": {
-      "codepoint": 57760,
+      "codepoint": 58043,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeZed"
     },
     "folder-type-zed-opened": {
-      "codepoint": 57761,
+      "codepoint": 58044,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeZedOpened"
     }

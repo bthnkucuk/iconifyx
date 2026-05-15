@@ -20,12 +20,3 @@ flutter:
     - family: Ic
       fonts:
         - asset: assets/fonts/Ic.ttf
-    - family: Ic_2
-      fonts:
-        - asset: assets/fonts/Ic_2.ttf
-    - family: Ic_2Secondary
-      fonts:
-        - asset: assets/fonts/Ic_2Secondary.ttf
-    - family: IcSecondary
-      fonts:
-        - asset: assets/fonts/IcSecondary.ttf

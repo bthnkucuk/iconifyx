@@ -21,12 +21,12 @@
   "fonts": [
     {
       "family": "FluentEmojiFlat",
-      "nextCodepoint": 58074,
+      "nextCodepoint": 57989,
       "iconCount": 645
     },
     {
       "family": "FluentEmojiFlatSecondary",
-      "nextCodepoint": 58074,
+      "nextCodepoint": 57989,
       "iconCount": 495
     }
   ],
@@ -53,32 +53,18 @@
       "duotoneKind": "paintOrder"
     },
     "admission-tickets": {
-      "codepoint": 57778,
+      "codepoint": 57347,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "admissionTickets",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "airplane": {
-      "codepoint": 57347,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "airplane",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "alien-monster": {
-      "codepoint": 57779,
+      "codepoint": 57348,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "alienMonster",
       "duotone": true,
       "duotoneKind": "paintOrder"
-    },
-    "anatomical-heart": {
-      "codepoint": 57348,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "anatomicalHeart",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
     },
     "anchor": {
       "codepoint": 57349,
@@ -86,39 +72,32 @@
       "identifier": "anchor"
     },
     "ant": {
-      "codepoint": 57780,
+      "codepoint": 57350,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "ant",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "antenna-bars": {
-      "codepoint": 57350,
+      "codepoint": 57351,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "antennaBars",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "aquarius": {
-      "codepoint": 57351,
+      "codepoint": 57352,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "aquarius",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "aries": {
-      "codepoint": 57352,
+      "codepoint": 57353,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "aries",
       "duotone": true,
       "duotoneKind": "paintOrder"
-    },
-    "artist-palette": {
-      "codepoint": 57353,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "artistPalette",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
     },
     "atm-sign": {
       "codepoint": 57354,
@@ -141,29 +120,22 @@
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "baby-bottle": {
-      "codepoint": 57357,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "babyBottle",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "baby-symbol": {
-      "codepoint": 57358,
+      "codepoint": 57357,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "babySymbol",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-down": {
-      "codepoint": 57359,
+      "codepoint": 57358,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingDown",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-down-dark": {
-      "codepoint": 57781,
+      "codepoint": 57359,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingDownDark",
       "duotone": true,
@@ -177,4667 +149,4100 @@
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-down-medium": {
-      "codepoint": 57782,
+      "codepoint": 57361,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingDownMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-down-medium-dark": {
-      "codepoint": 57783,
+      "codepoint": 57362,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingDownMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-down-medium-light": {
-      "codepoint": 57361,
+      "codepoint": 57363,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingDownMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-left": {
-      "codepoint": 57362,
+      "codepoint": 57364,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingLeft",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-left-dark": {
-      "codepoint": 57784,
+      "codepoint": 57365,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingLeftDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-left-light": {
-      "codepoint": 57363,
+      "codepoint": 57366,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingLeftLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-left-medium": {
-      "codepoint": 57785,
+      "codepoint": 57367,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingLeftMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-left-medium-dark": {
-      "codepoint": 57786,
+      "codepoint": 57368,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingLeftMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-left-medium-light": {
-      "codepoint": 57364,
+      "codepoint": 57369,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingLeftMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-right": {
-      "codepoint": 57365,
+      "codepoint": 57370,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingRight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-right-dark": {
-      "codepoint": 57787,
+      "codepoint": 57371,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingRightDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-right-light": {
-      "codepoint": 57366,
+      "codepoint": 57372,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingRightLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-right-medium": {
-      "codepoint": 57788,
+      "codepoint": 57373,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingRightMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-right-medium-dark": {
-      "codepoint": 57789,
+      "codepoint": 57374,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingRightMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-right-medium-light": {
-      "codepoint": 57367,
+      "codepoint": 57375,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingRightMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-up": {
-      "codepoint": 57368,
+      "codepoint": 57376,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingUp",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "backhand-index-pointing-up-light": {
-      "codepoint": 57369,
+      "codepoint": 57377,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingUpLight"
     },
     "backhand-index-pointing-up-medium": {
-      "codepoint": 57979,
+      "codepoint": 57378,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingUpMedium"
     },
     "backhand-index-pointing-up-medium-light": {
-      "codepoint": 57370,
+      "codepoint": 57379,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "backhandIndexPointingUpMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "bacon": {
-      "codepoint": 57371,
+      "codepoint": 57380,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "bacon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "baggage-claim": {
-      "codepoint": 57372,
+      "codepoint": 57381,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "baggageClaim",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "baguette-bread": {
-      "codepoint": 57373,
+      "codepoint": 57382,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "baguetteBread",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "balance-scale": {
-      "codepoint": 57374,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "balanceScale",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "banana": {
-      "codepoint": 57980,
+      "codepoint": 57383,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "banana"
     },
-    "bar-chart": {
-      "codepoint": 57375,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "barChart",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "barber-pole": {
-      "codepoint": 57376,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "barberPole",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "basketball": {
-      "codepoint": 57790,
+      "codepoint": 57384,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "basketball",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "battery": {
-      "codepoint": 57377,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "battery",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "beans": {
-      "codepoint": 57791,
+      "codepoint": 57385,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "beans",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "beating-heart": {
-      "codepoint": 57378,
+      "codepoint": 57386,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "beatingHeart"
     },
     "beer-mug": {
-      "codepoint": 57981,
+      "codepoint": 57387,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "beerMug"
     },
     "bicycle": {
-      "codepoint": 57982,
+      "codepoint": 57388,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "bicycle"
     },
     "bikini": {
-      "codepoint": 57379,
+      "codepoint": 57389,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "bikini",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "billed-cap": {
-      "codepoint": 57983,
+      "codepoint": 57390,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "billedCap"
     },
     "biohazard": {
-      "codepoint": 57380,
+      "codepoint": 57391,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "biohazard",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "black-circle": {
-      "codepoint": 57381,
+      "codepoint": 57392,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "blackCircle"
     },
     "black-flag": {
-      "codepoint": 57382,
+      "codepoint": 57393,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "blackFlag",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "black-large-square": {
-      "codepoint": 57383,
+      "codepoint": 57394,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "blackLargeSquare"
     },
     "black-medium-small-square": {
-      "codepoint": 57384,
+      "codepoint": 57395,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "blackMediumSmallSquare"
     },
     "black-medium-square": {
-      "codepoint": 57385,
+      "codepoint": 57396,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "blackMediumSquare"
     },
     "black-small-square": {
-      "codepoint": 57386,
+      "codepoint": 57397,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "blackSmallSquare"
     },
     "black-square-button": {
-      "codepoint": 57387,
+      "codepoint": 57398,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "blackSquareButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "blossom": {
-      "codepoint": 57388,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "blossom",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "blue-book": {
-      "codepoint": 57389,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "blueBook",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "blue-circle": {
-      "codepoint": 57390,
+      "codepoint": 57399,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "blueCircle"
     },
     "blue-square": {
-      "codepoint": 57391,
+      "codepoint": 57400,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "blueSquare"
     },
     "bone": {
-      "codepoint": 57984,
+      "codepoint": 57401,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "bone"
     },
-    "bowl-with-spoon": {
-      "codepoint": 57392,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "bowlWithSpoon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "bowling": {
-      "codepoint": 57985,
+      "codepoint": 57402,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "bowling"
     },
     "brain": {
-      "codepoint": 57393,
+      "codepoint": 57403,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "brain",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "brick": {
-      "codepoint": 57792,
+      "codepoint": 57404,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "brick",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "briefs": {
-      "codepoint": 57394,
+      "codepoint": 57405,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "briefs",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "bright-button": {
-      "codepoint": 57395,
+      "codepoint": 57406,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "brightButton"
     },
     "broccoli": {
-      "codepoint": 57793,
+      "codepoint": 57407,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "broccoli",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "broken-chain": {
-      "codepoint": 57986,
+      "codepoint": 57408,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "brokenChain"
     },
     "broken-heart": {
-      "codepoint": 57396,
+      "codepoint": 57409,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "brokenHeart"
     },
-    "bubbles": {
-      "codepoint": 57397,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "bubbles",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "bucket": {
-      "codepoint": 57398,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "bucket",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "bust-in-silhouette": {
-      "codepoint": 57794,
+      "codepoint": 57410,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "bustInSilhouette",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "busts-in-silhouette": {
-      "codepoint": 57795,
+      "codepoint": 57411,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "bustsInSilhouette",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "call-me-hand": {
-      "codepoint": 57399,
+      "codepoint": 57412,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "callMeHand",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "call-me-hand-dark": {
-      "codepoint": 57796,
+      "codepoint": 57413,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "callMeHandDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "call-me-hand-light": {
-      "codepoint": 57400,
+      "codepoint": 57414,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "callMeHandLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "call-me-hand-medium": {
-      "codepoint": 57797,
+      "codepoint": 57415,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "callMeHandMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "call-me-hand-medium-dark": {
-      "codepoint": 57798,
+      "codepoint": 57416,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "callMeHandMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "call-me-hand-medium-light": {
-      "codepoint": 57401,
+      "codepoint": 57417,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "callMeHandMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cancer": {
-      "codepoint": 57402,
+      "codepoint": 57418,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "cancer",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "candle": {
-      "codepoint": 57403,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "candle",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "candy": {
-      "codepoint": 57799,
+      "codepoint": 57419,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "candy",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "capricorn": {
-      "codepoint": 57404,
+      "codepoint": 57420,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "capricorn",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "carpentry-saw": {
-      "codepoint": 57800,
+      "codepoint": 57421,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "carpentrySaw",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "chains": {
-      "codepoint": 57405,
+      "codepoint": 57422,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "chains",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "chart-increasing-with-yen": {
-      "codepoint": 57406,
+      "codepoint": 57423,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "chartIncreasingWithYen",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "check-box-with-check": {
-      "codepoint": 57801,
+      "codepoint": 57424,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "checkBoxWithCheck",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "check-mark-button": {
-      "codepoint": 57407,
+      "codepoint": 57425,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "checkMarkButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cheese-wedge": {
-      "codepoint": 57408,
+      "codepoint": 57426,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "cheeseWedge",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "chequered-flag": {
-      "codepoint": 57409,
+      "codepoint": 57427,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "chequeredFlag"
     },
     "cherries": {
-      "codepoint": 57802,
+      "codepoint": 57428,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "cherries",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cherry-blossom": {
-      "codepoint": 57410,
+      "codepoint": 57429,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "cherryBlossom",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "chestnut": {
-      "codepoint": 57803,
+      "codepoint": 57430,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "chestnut",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "children-crossing": {
-      "codepoint": 57411,
+      "codepoint": 57431,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "childrenCrossing",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "chopsticks": {
-      "codepoint": 57804,
+      "codepoint": 57432,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "chopsticks",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cinema": {
-      "codepoint": 57412,
+      "codepoint": 57433,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "cinema",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "circled-m": {
-      "codepoint": 57805,
+      "codepoint": 57434,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "circledM",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cl-button": {
-      "codepoint": 57413,
+      "codepoint": 57435,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "clButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "clinking-beer-mugs": {
-      "codepoint": 57987,
+      "codepoint": 57436,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "clinkingBeerMugs"
     },
-    "clinking-glasses": {
-      "codepoint": 57414,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "clinkingGlasses",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "clockwise-vertical-arrows": {
-      "codepoint": 57415,
+      "codepoint": 57437,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "clockwiseVerticalArrows",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "closed-book": {
-      "codepoint": 57988,
+      "codepoint": 57438,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "closedBook"
     },
     "cloud": {
-      "codepoint": 57416,
+      "codepoint": 57439,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "cloud",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-with-lightning": {
-      "codepoint": 57806,
+      "codepoint": 57440,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "cloudWithLightning",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "cloud-with-rain": {
-      "codepoint": 57417,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "cloudWithRain",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "cloud-with-snow": {
-      "codepoint": 57418,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "cloudWithSnow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "clutch-bag": {
-      "codepoint": 57419,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "clutchBag",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "cockroach": {
-      "codepoint": 57807,
+      "codepoint": 57441,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "cockroach",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "coin": {
-      "codepoint": 57420,
+      "codepoint": 57442,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "coin",
       "duotone": true
     },
     "collision": {
-      "codepoint": 57808,
+      "codepoint": 57443,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "collision",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "comet": {
-      "codepoint": 57809,
+      "codepoint": 57444,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "comet",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "computer-mouse": {
-      "codepoint": 57810,
+      "codepoint": 57445,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "computerMouse",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "confounded-face": {
-      "codepoint": 57811,
+      "codepoint": 57446,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "confoundedFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "control-knobs": {
-      "codepoint": 57989,
+      "codepoint": 57447,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "controlKnobs"
     },
     "cookie": {
-      "codepoint": 57812,
+      "codepoint": 57448,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "cookie",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cool-button": {
-      "codepoint": 57421,
+      "codepoint": 57449,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "coolButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "counterclockwise-arrows-button": {
-      "codepoint": 57422,
+      "codepoint": 57450,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "counterclockwiseArrowsButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "crescent-moon": {
-      "codepoint": 57423,
+      "codepoint": 57451,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "crescentMoon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cross-mark": {
-      "codepoint": 57424,
+      "codepoint": 57452,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "crossMark"
     },
     "cross-mark-button": {
-      "codepoint": 57425,
+      "codepoint": 57453,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "crossMarkButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "crossed-fingers": {
-      "codepoint": 57426,
+      "codepoint": 57454,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "crossedFingers",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "crossed-fingers-dark": {
-      "codepoint": 57813,
+      "codepoint": 57455,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "crossedFingersDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "crossed-fingers-light": {
-      "codepoint": 57427,
+      "codepoint": 57456,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "crossedFingersLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "crossed-fingers-medium": {
-      "codepoint": 57814,
+      "codepoint": 57457,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "crossedFingersMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "crossed-fingers-medium-dark": {
-      "codepoint": 57815,
+      "codepoint": 57458,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "crossedFingersMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "crossed-fingers-medium-light": {
-      "codepoint": 57428,
+      "codepoint": 57459,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "crossedFingersMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "crown": {
-      "codepoint": 57990,
+      "codepoint": 57460,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "crown"
     },
     "cucumber": {
-      "codepoint": 57816,
+      "codepoint": 57461,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "cucumber",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "currency-exchange": {
-      "codepoint": 57817,
+      "codepoint": 57462,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "currencyExchange",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "customs": {
-      "codepoint": 57429,
+      "codepoint": 57463,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "customs",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cut-of-meat": {
-      "codepoint": 57991,
+      "codepoint": 57464,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "cutOfMeat"
     },
     "deciduous-tree": {
-      "codepoint": 57818,
+      "codepoint": 57465,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "deciduousTree",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "diamond-with-a-dot": {
-      "codepoint": 57430,
+      "codepoint": 57466,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "diamondWithADot",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "dim-button": {
-      "codepoint": 57431,
+      "codepoint": 57467,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "dimButton"
     },
     "disappointed-face": {
-      "codepoint": 57819,
+      "codepoint": 57468,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "disappointedFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "dizzy": {
-      "codepoint": 57432,
+      "codepoint": 57469,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "dizzy",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "dolphin": {
-      "codepoint": 57433,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "dolphin",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "donkey": {
-      "codepoint": 57992,
+      "codepoint": 57470,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "donkey"
     },
     "dotted-six-pointed-star": {
-      "codepoint": 57434,
+      "codepoint": 57471,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "dottedSixPointedStar",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "down-arrow": {
-      "codepoint": 57435,
+      "codepoint": 57472,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "downArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "down-left-arrow": {
-      "codepoint": 57436,
+      "codepoint": 57473,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "downLeftArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "down-right-arrow": {
-      "codepoint": 57437,
+      "codepoint": 57474,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "downRightArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "downwards-button": {
-      "codepoint": 57438,
+      "codepoint": 57475,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "downwardsButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "dress": {
-      "codepoint": 57820,
+      "codepoint": 57476,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "dress",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "droplet": {
-      "codepoint": 57439,
+      "codepoint": 57477,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "droplet"
     },
-    "drum": {
-      "codepoint": 57440,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "drum",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "dumpling": {
-      "codepoint": 57441,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "dumpling",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "ear": {
-      "codepoint": 57821,
+      "codepoint": 57478,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "ear",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ear-dark": {
-      "codepoint": 57822,
+      "codepoint": 57479,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "earDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ear-light": {
-      "codepoint": 57823,
+      "codepoint": 57480,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "earLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ear-medium": {
-      "codepoint": 57824,
+      "codepoint": 57481,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "earMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ear-medium-dark": {
-      "codepoint": 57825,
+      "codepoint": 57482,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "earMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ear-medium-light": {
-      "codepoint": 57826,
+      "codepoint": 57483,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "earMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "ear-with-hearing-aid": {
-      "codepoint": 57442,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "earWithHearingAid",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "ear-with-hearing-aid-light": {
-      "codepoint": 57443,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "earWithHearingAidLight",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "ear-with-hearing-aid-medium-light": {
-      "codepoint": 57444,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "earWithHearingAidMediumLight",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "egg": {
-      "codepoint": 57445,
+      "codepoint": 57484,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "egg"
     },
-    "eggplant": {
-      "codepoint": 57446,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "eggplant",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "eight-pointed-star": {
-      "codepoint": 57447,
+      "codepoint": 57485,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "eightPointedStar",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "eight-spoked-asterisk": {
-      "codepoint": 57448,
+      "codepoint": 57486,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "eightSpokedAsterisk",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "eject-button": {
-      "codepoint": 57449,
+      "codepoint": 57487,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "ejectButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "elevator": {
-      "codepoint": 57450,
+      "codepoint": 57488,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "elevator"
     },
     "empty-nest": {
-      "codepoint": 57993,
+      "codepoint": 57489,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "emptyNest"
     },
     "evergreen-tree": {
-      "codepoint": 57827,
+      "codepoint": 57490,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "evergreenTree",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "expressionless-face": {
-      "codepoint": 57828,
+      "codepoint": 57491,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "expressionlessFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "eye-in-speech-bubble": {
-      "codepoint": 57829,
+      "codepoint": 57492,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "eyeInSpeechBubble",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "face-with-spiral-eyes": {
-      "codepoint": 57830,
+      "codepoint": 57493,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "faceWithSpiralEyes",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "fast-down-button": {
-      "codepoint": 57451,
+      "codepoint": 57494,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "fastDownButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "fast-forward-button": {
-      "codepoint": 57452,
+      "codepoint": 57495,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "fastForwardButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "fast-reverse-button": {
-      "codepoint": 57453,
+      "codepoint": 57496,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "fastReverseButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "fast-up-button": {
-      "codepoint": 57454,
+      "codepoint": 57497,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "fastUpButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "female-sign": {
-      "codepoint": 57455,
+      "codepoint": 57498,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "femaleSign",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "file-folder": {
-      "codepoint": 57456,
+      "codepoint": 57499,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "fileFolder",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "film-frames": {
-      "codepoint": 57831,
+      "codepoint": 57500,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "filmFrames",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "fire": {
-      "codepoint": 57832,
+      "codepoint": 57501,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "fire",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "fish": {
-      "codepoint": 57457,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "fish",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "flat-shoe": {
-      "codepoint": 57458,
+      "codepoint": 57502,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "flatShoe",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flatbread": {
-      "codepoint": 57833,
+      "codepoint": 57503,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "flatbread",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flexed-biceps": {
-      "codepoint": 57459,
+      "codepoint": 57504,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "flexedBiceps",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flexed-biceps-dark": {
-      "codepoint": 57834,
+      "codepoint": 57505,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "flexedBicepsDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flexed-biceps-light": {
-      "codepoint": 57460,
+      "codepoint": 57506,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "flexedBicepsLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flexed-biceps-medium": {
-      "codepoint": 57835,
+      "codepoint": 57507,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "flexedBicepsMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flexed-biceps-medium-dark": {
-      "codepoint": 57836,
+      "codepoint": 57508,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "flexedBicepsMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flexed-biceps-medium-light": {
-      "codepoint": 57461,
+      "codepoint": 57509,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "flexedBicepsMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flute": {
-      "codepoint": 57994,
+      "codepoint": 57510,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "flute"
     },
     "flying-disc": {
-      "codepoint": 57462,
+      "codepoint": 57511,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "flyingDisc"
     },
     "folded-hands-light": {
-      "codepoint": 57995,
+      "codepoint": 57512,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "foldedHandsLight"
     },
     "folded-hands-medium-dark": {
-      "codepoint": 57996,
+      "codepoint": 57513,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "foldedHandsMediumDark"
     },
     "folded-hands-medium-light": {
-      "codepoint": 57997,
+      "codepoint": 57514,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "foldedHandsMediumLight"
     },
     "folding-hand-fan": {
-      "codepoint": 57998,
+      "codepoint": 57515,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "foldingHandFan"
     },
-    "foot": {
-      "codepoint": 57463,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "foot",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "foot-light": {
-      "codepoint": 57464,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "footLight",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "foot-medium-light": {
-      "codepoint": 57465,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "footMediumLight",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "fork-and-knife": {
-      "codepoint": 57466,
+      "codepoint": 57516,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "forkAndKnife"
     },
     "fountain": {
-      "codepoint": 57467,
+      "codepoint": 57517,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "fountain",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "four-leaf-clover": {
-      "codepoint": 57837,
+      "codepoint": 57518,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "fourLeafClover",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "free-button": {
-      "codepoint": 57468,
+      "codepoint": 57519,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "freeButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "full-moon": {
-      "codepoint": 57469,
+      "codepoint": 57520,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "fullMoon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "garlic": {
-      "codepoint": 57470,
+      "codepoint": 57521,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "garlic",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "gem-stone": {
-      "codepoint": 57471,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "gemStone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "gemini": {
-      "codepoint": 57472,
+      "codepoint": 57522,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "gemini",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "glass-of-milk": {
-      "codepoint": 57473,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "glassOfMilk",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "globe-showing-americas": {
-      "codepoint": 57474,
+      "codepoint": 57523,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "globeShowingAmericas",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "globe-showing-asia-australia": {
-      "codepoint": 57475,
+      "codepoint": 57524,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "globeShowingAsiaAustralia",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "globe-showing-europe-africa": {
-      "codepoint": 57476,
+      "codepoint": 57525,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "globeShowingEuropeAfrica",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "globe-with-meridians": {
-      "codepoint": 57477,
+      "codepoint": 57526,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "globeWithMeridians"
     },
     "glowing-star": {
-      "codepoint": 57478,
+      "codepoint": 57527,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "glowingStar"
     },
     "goal-net": {
-      "codepoint": 57838,
+      "codepoint": 57528,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "goalNet",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "green-apple": {
-      "codepoint": 57479,
+      "codepoint": 57529,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "greenApple",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "green-circle": {
-      "codepoint": 57480,
+      "codepoint": 57530,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "greenCircle"
     },
     "green-square": {
-      "codepoint": 57481,
+      "codepoint": 57531,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "greenSquare"
     },
-    "growing-heart": {
-      "codepoint": 57482,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "growingHeart",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "hair-pick": {
-      "codepoint": 57839,
+      "codepoint": 57532,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "hairPick",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hamsa": {
-      "codepoint": 57999,
+      "codepoint": 57533,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "hamsa"
     },
     "hand-with-fingers-splayed": {
-      "codepoint": 57483,
+      "codepoint": 57534,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handWithFingersSplayed",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hand-with-fingers-splayed-dark": {
-      "codepoint": 57840,
+      "codepoint": 57535,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handWithFingersSplayedDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hand-with-fingers-splayed-light": {
-      "codepoint": 57484,
+      "codepoint": 57536,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handWithFingersSplayedLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hand-with-fingers-splayed-medium": {
-      "codepoint": 57841,
+      "codepoint": 57537,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handWithFingersSplayedMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hand-with-fingers-splayed-medium-dark": {
-      "codepoint": 57842,
+      "codepoint": 57538,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handWithFingersSplayedMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hand-with-fingers-splayed-medium-light": {
-      "codepoint": 57485,
+      "codepoint": 57539,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handWithFingersSplayedMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hand-with-index-finger-and-thumb-crossed": {
-      "codepoint": 57486,
+      "codepoint": 57540,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handWithIndexFingerAndThumbCrossed",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hand-with-index-finger-and-thumb-crossed-dark": {
-      "codepoint": 57843,
+      "codepoint": 57541,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handWithIndexFingerAndThumbCrossedDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hand-with-index-finger-and-thumb-crossed-light": {
-      "codepoint": 57487,
+      "codepoint": 57542,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handWithIndexFingerAndThumbCrossedLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hand-with-index-finger-and-thumb-crossed-medium": {
-      "codepoint": 57844,
+      "codepoint": 57543,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handWithIndexFingerAndThumbCrossedMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hand-with-index-finger-and-thumb-crossed-medium-dark": {
-      "codepoint": 57845,
+      "codepoint": 57544,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handWithIndexFingerAndThumbCrossedMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hand-with-index-finger-and-thumb-crossed-medium-light": {
-      "codepoint": 57488,
+      "codepoint": 57545,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handWithIndexFingerAndThumbCrossedMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "handbag": {
-      "codepoint": 57846,
+      "codepoint": 57546,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "handbag",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "handshake": {
-      "codepoint": 57489,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "handshake",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "head-shaking-horizontally": {
-      "codepoint": 58000,
+      "codepoint": 57547,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "headShakingHorizontally"
     },
     "head-shaking-vertically": {
-      "codepoint": 58001,
+      "codepoint": 57548,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "headShakingVertically"
     },
     "headphone": {
-      "codepoint": 57847,
+      "codepoint": 57549,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "headphone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "heart-decoration": {
-      "codepoint": 57490,
+      "codepoint": 57550,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "heartDecoration",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "heart-exclamation": {
-      "codepoint": 57491,
+      "codepoint": 57551,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "heartExclamation"
     },
     "heart-hands": {
-      "codepoint": 57492,
+      "codepoint": 57552,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "heartHands"
     },
     "heart-hands-light": {
-      "codepoint": 57493,
+      "codepoint": 57553,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "heartHandsLight"
     },
     "heart-hands-medium-dark": {
-      "codepoint": 58002,
+      "codepoint": 57554,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "heartHandsMediumDark"
     },
     "heart-hands-medium-light": {
-      "codepoint": 57494,
+      "codepoint": 57555,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "heartHandsMediumLight"
     },
     "heart-on-fire": {
-      "codepoint": 57495,
+      "codepoint": 57556,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "heartOnFire",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "heavy-dollar-sign": {
-      "codepoint": 57496,
+      "codepoint": 57557,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "heavyDollarSign"
     },
     "herb": {
-      "codepoint": 57848,
+      "codepoint": 57558,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "herb",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hiking-boot": {
-      "codepoint": 57849,
+      "codepoint": 57559,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "hikingBoot",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hole": {
-      "codepoint": 57850,
+      "codepoint": 57560,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "hole",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "hollow-red-circle": {
-      "codepoint": 57497,
+      "codepoint": 57561,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "hollowRedCircle"
     },
     "hook": {
-      "codepoint": 57498,
+      "codepoint": 57562,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "hook"
     },
     "hot-pepper": {
-      "codepoint": 57851,
+      "codepoint": 57563,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "hotPepper",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "hourglass-done": {
-      "codepoint": 57499,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "hourglassDone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "hourglass-not-done": {
-      "codepoint": 57500,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "hourglassNotDone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "house": {
-      "codepoint": 58003,
+      "codepoint": 57564,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "house"
     },
-    "ice": {
-      "codepoint": 57501,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "ice",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "id-button": {
-      "codepoint": 57502,
+      "codepoint": 57565,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "idButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "index-pointing-at-the-viewer": {
-      "codepoint": 57503,
+      "codepoint": 57566,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "indexPointingAtTheViewer",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "index-pointing-at-the-viewer-dark": {
-      "codepoint": 57852,
+      "codepoint": 57567,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "indexPointingAtTheViewerDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "index-pointing-at-the-viewer-light": {
-      "codepoint": 57504,
+      "codepoint": 57568,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "indexPointingAtTheViewerLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "index-pointing-at-the-viewer-medium": {
-      "codepoint": 57853,
+      "codepoint": 57569,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "indexPointingAtTheViewerMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "index-pointing-at-the-viewer-medium-dark": {
-      "codepoint": 57854,
+      "codepoint": 57570,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "indexPointingAtTheViewerMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "index-pointing-at-the-viewer-medium-light": {
-      "codepoint": 57505,
+      "codepoint": 57571,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "indexPointingAtTheViewerMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "index-pointing-up": {
-      "codepoint": 57506,
+      "codepoint": 57572,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "indexPointingUp",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "index-pointing-up-dark": {
-      "codepoint": 57855,
+      "codepoint": 57573,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "indexPointingUpDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "index-pointing-up-light": {
-      "codepoint": 57507,
+      "codepoint": 57574,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "indexPointingUpLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "index-pointing-up-medium": {
-      "codepoint": 57856,
+      "codepoint": 57575,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "indexPointingUpMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "index-pointing-up-medium-dark": {
-      "codepoint": 57857,
+      "codepoint": 57576,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "indexPointingUpMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "index-pointing-up-medium-light": {
-      "codepoint": 57508,
+      "codepoint": 57577,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "indexPointingUpMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "infinity": {
-      "codepoint": 57509,
+      "codepoint": 57578,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "infinity"
     },
     "information": {
-      "codepoint": 57510,
+      "codepoint": 57579,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "information",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "input-latin-letters": {
-      "codepoint": 57511,
+      "codepoint": 57580,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "inputLatinLetters",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "input-latin-lowercase": {
-      "codepoint": 57512,
+      "codepoint": 57581,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "inputLatinLowercase",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "input-latin-uppercase": {
-      "codepoint": 57513,
+      "codepoint": 57582,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "inputLatinUppercase",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "input-numbers": {
-      "codepoint": 57514,
+      "codepoint": 57583,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "inputNumbers",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "input-symbols": {
-      "codepoint": 57515,
+      "codepoint": 57584,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "inputSymbols",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-acceptable-button": {
-      "codepoint": 57858,
+      "codepoint": 57585,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseAcceptableButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-application-button": {
-      "codepoint": 57859,
+      "codepoint": 57586,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseApplicationButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-bargain-button": {
-      "codepoint": 57516,
+      "codepoint": 57587,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseBargainButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-congratulations-button": {
-      "codepoint": 57517,
+      "codepoint": 57588,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseCongratulationsButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-discount-button": {
-      "codepoint": 57518,
+      "codepoint": 57589,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseDiscountButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-free-of-charge-button": {
-      "codepoint": 57860,
+      "codepoint": 57590,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseFreeOfChargeButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-hear-button": {
-      "codepoint": 57519,
+      "codepoint": 57591,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseHearButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-here-button": {
-      "codepoint": 57520,
+      "codepoint": 57592,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseHereButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-monthly-amount-button": {
-      "codepoint": 57861,
+      "codepoint": 57593,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseMonthlyAmountButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-no-vacancy-button": {
-      "codepoint": 57521,
+      "codepoint": 57594,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseNoVacancyButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-not-free-of-charge-button": {
-      "codepoint": 57862,
+      "codepoint": 57595,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseNotFreeOfChargeButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-open-for-business-button": {
-      "codepoint": 57863,
+      "codepoint": 57596,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseOpenForBusinessButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-passing-grade-button": {
-      "codepoint": 57522,
+      "codepoint": 57597,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japanesePassingGradeButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-post-office": {
-      "codepoint": 58004,
+      "codepoint": 57598,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japanesePostOffice"
     },
     "japanese-prohibited-button": {
-      "codepoint": 57523,
+      "codepoint": 57599,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseProhibitedButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-reserved-button": {
-      "codepoint": 57524,
+      "codepoint": 57600,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseReservedButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-secret-button": {
-      "codepoint": 57525,
+      "codepoint": 57601,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseSecretButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-service-charge-button": {
-      "codepoint": 57526,
+      "codepoint": 57602,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseServiceChargeButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-symbol-for-beginner": {
-      "codepoint": 57864,
+      "codepoint": 57603,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseSymbolForBeginner",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-vacancy-button": {
-      "codepoint": 57527,
+      "codepoint": 57604,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "japaneseVacancyButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "jar": {
-      "codepoint": 57528,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "jar",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "jeans": {
-      "codepoint": 57529,
+      "codepoint": 57605,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "jeans",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "jellyfish": {
-      "codepoint": 58005,
+      "codepoint": 57606,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "jellyfish"
     },
     "joker": {
-      "codepoint": 58006,
+      "codepoint": 57607,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "joker"
     },
     "keyboard": {
-      "codepoint": 57865,
+      "codepoint": 57608,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keyboard",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-0": {
-      "codepoint": 57530,
+      "codepoint": 57609,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap0",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-1": {
-      "codepoint": 57531,
+      "codepoint": 57610,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap1",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-10": {
-      "codepoint": 57532,
+      "codepoint": 57611,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap10",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-2": {
-      "codepoint": 57533,
+      "codepoint": 57612,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap2",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-3": {
-      "codepoint": 57534,
+      "codepoint": 57613,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap3",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-4": {
-      "codepoint": 57535,
+      "codepoint": 57614,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap4",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-5": {
-      "codepoint": 57536,
+      "codepoint": 57615,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap5",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-6": {
-      "codepoint": 57537,
+      "codepoint": 57616,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap6",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-7": {
-      "codepoint": 57538,
+      "codepoint": 57617,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap7",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-8": {
-      "codepoint": 57539,
+      "codepoint": 57618,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap8",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-9": {
-      "codepoint": 57540,
+      "codepoint": 57619,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap9",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-asterisk": {
-      "codepoint": 57541,
+      "codepoint": 57620,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycapAsterisk",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "keycap-hashtag": {
-      "codepoint": 57542,
+      "codepoint": 57621,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycapHashtag",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "khanda": {
-      "codepoint": 57543,
+      "codepoint": 57622,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "khanda",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "kick-scooter": {
-      "codepoint": 57544,
+      "codepoint": 57623,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "kickScooter",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "kiss-mark": {
-      "codepoint": 57545,
+      "codepoint": 57624,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "kissMark"
     },
     "kissing-face-with-smiling-eyes": {
-      "codepoint": 57866,
+      "codepoint": 57625,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "kissingFaceWithSmilingEyes",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "knot": {
-      "codepoint": 57867,
+      "codepoint": 57626,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "knot",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "lab-coat": {
-      "codepoint": 57546,
+      "codepoint": 57627,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "labCoat"
     },
     "lacrosse": {
-      "codepoint": 58007,
+      "codepoint": 57628,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "lacrosse"
     },
     "ladder": {
-      "codepoint": 57868,
+      "codepoint": 57629,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "ladder",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "lady-beetle": {
-      "codepoint": 57869,
+      "codepoint": 57630,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "ladyBeetle",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "laptop": {
-      "codepoint": 58008,
+      "codepoint": 57631,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "laptop"
     },
     "large-blue-diamond": {
-      "codepoint": 57547,
+      "codepoint": 57632,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "largeBlueDiamond"
     },
     "last-track-button": {
-      "codepoint": 57548,
+      "codepoint": 57633,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "lastTrackButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "latin-cross": {
-      "codepoint": 57549,
+      "codepoint": 57634,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "latinCross",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "ledger": {
-      "codepoint": 57550,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "ledger",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "left-arrow": {
-      "codepoint": 57551,
+      "codepoint": 57635,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-arrow-curving-right": {
-      "codepoint": 57552,
+      "codepoint": 57636,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftArrowCurvingRight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-facing-fist": {
-      "codepoint": 57553,
+      "codepoint": 57637,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftFacingFist",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-facing-fist-dark": {
-      "codepoint": 57870,
+      "codepoint": 57638,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftFacingFistDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-facing-fist-light": {
-      "codepoint": 57554,
+      "codepoint": 57639,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftFacingFistLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-facing-fist-medium": {
-      "codepoint": 57871,
+      "codepoint": 57640,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftFacingFistMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-facing-fist-medium-dark": {
-      "codepoint": 57872,
+      "codepoint": 57641,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftFacingFistMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-facing-fist-medium-light": {
-      "codepoint": 57555,
+      "codepoint": 57642,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftFacingFistMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-luggage": {
-      "codepoint": 57556,
+      "codepoint": 57643,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftLuggage",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-right-arrow": {
-      "codepoint": 57557,
+      "codepoint": 57644,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftRightArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-speech-bubble": {
-      "codepoint": 57558,
+      "codepoint": 57645,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftSpeechBubble",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leftwards-hand": {
-      "codepoint": 57559,
+      "codepoint": 57646,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftwardsHand",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leftwards-hand-dark": {
-      "codepoint": 57873,
+      "codepoint": 57647,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftwardsHandDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leftwards-hand-light": {
-      "codepoint": 57560,
+      "codepoint": 57648,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftwardsHandLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leftwards-hand-medium": {
-      "codepoint": 57874,
+      "codepoint": 57649,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftwardsHandMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leftwards-hand-medium-dark": {
-      "codepoint": 57875,
+      "codepoint": 57650,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftwardsHandMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leftwards-hand-medium-light": {
-      "codepoint": 57561,
+      "codepoint": 57651,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leftwardsHandMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leg": {
-      "codepoint": 57562,
+      "codepoint": 57652,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leg",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leg-dark": {
-      "codepoint": 57876,
+      "codepoint": 57653,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "legDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leg-light": {
-      "codepoint": 57563,
+      "codepoint": 57654,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "legLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leg-medium": {
-      "codepoint": 57877,
+      "codepoint": 57655,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "legMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leg-medium-dark": {
-      "codepoint": 57878,
+      "codepoint": 57656,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "legMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leg-medium-light": {
-      "codepoint": 57564,
+      "codepoint": 57657,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "legMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "lemon": {
-      "codepoint": 57565,
+      "codepoint": 57658,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "lemon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "leo": {
-      "codepoint": 57566,
+      "codepoint": 57659,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leo",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "libra": {
-      "codepoint": 57567,
+      "codepoint": 57660,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "libra",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "light-blue-heart": {
-      "codepoint": 57568,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "lightBlueHeart",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "link": {
-      "codepoint": 57569,
+      "codepoint": 57661,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "link",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "linked-paperclips": {
-      "codepoint": 57570,
+      "codepoint": 57662,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "linkedPaperclips",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "litter-in-bin-sign": {
-      "codepoint": 57571,
+      "codepoint": 57663,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "litterInBinSign",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "lizard": {
-      "codepoint": 57572,
+      "codepoint": 57664,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "lizard",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "llama": {
-      "codepoint": 57573,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "llama",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "lobster": {
-      "codepoint": 58009,
+      "codepoint": 57665,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "lobster"
     },
-    "love-letter": {
-      "codepoint": 57574,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "loveLetter",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "love-you-gesture": {
-      "codepoint": 57575,
+      "codepoint": 57666,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "loveYouGesture",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "love-you-gesture-dark": {
-      "codepoint": 57879,
+      "codepoint": 57667,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "loveYouGestureDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "love-you-gesture-light": {
-      "codepoint": 57576,
+      "codepoint": 57668,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "loveYouGestureLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "love-you-gesture-medium": {
-      "codepoint": 57880,
+      "codepoint": 57669,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "loveYouGestureMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "love-you-gesture-medium-dark": {
-      "codepoint": 57881,
+      "codepoint": 57670,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "loveYouGestureMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "love-you-gesture-medium-light": {
-      "codepoint": 57577,
+      "codepoint": 57671,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "loveYouGestureMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "low-battery": {
-      "codepoint": 57578,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "lowBattery",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "magnet": {
-      "codepoint": 57882,
+      "codepoint": 57672,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "magnet",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "male-sign": {
-      "codepoint": 57579,
+      "codepoint": 57673,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "maleSign",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "man-facepalming": {
-      "codepoint": 58010,
+      "codepoint": 57674,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manFacepalming"
     },
     "man-facepalming-dark": {
-      "codepoint": 58011,
+      "codepoint": 57675,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manFacepalmingDark"
     },
     "man-facepalming-medium-light": {
-      "codepoint": 58012,
+      "codepoint": 57676,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manFacepalmingMediumLight"
     },
     "man-frowning": {
-      "codepoint": 58013,
+      "codepoint": 57677,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manFrowning"
     },
     "man-frowning-dark": {
-      "codepoint": 58014,
+      "codepoint": 57678,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manFrowningDark"
     },
     "man-frowning-medium-light": {
-      "codepoint": 58015,
+      "codepoint": 57679,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manFrowningMediumLight"
     },
     "man-genie": {
-      "codepoint": 58016,
+      "codepoint": 57680,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manGenie"
     },
     "man-gesturing-ok": {
-      "codepoint": 58017,
+      "codepoint": 57681,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manGesturingOk"
     },
     "man-gesturing-ok-dark": {
-      "codepoint": 58018,
+      "codepoint": 57682,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manGesturingOkDark"
     },
     "man-gesturing-ok-light": {
-      "codepoint": 58019,
+      "codepoint": 57683,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manGesturingOkLight"
     },
     "man-gesturing-ok-medium-dark": {
-      "codepoint": 58020,
+      "codepoint": 57684,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manGesturingOkMediumDark"
     },
     "man-gesturing-ok-medium-light": {
-      "codepoint": 58021,
+      "codepoint": 57685,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manGesturingOkMediumLight"
     },
     "man-golfing": {
-      "codepoint": 58022,
+      "codepoint": 57686,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manGolfing"
     },
     "man-golfing-light": {
-      "codepoint": 58023,
+      "codepoint": 57687,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manGolfingLight"
     },
     "man-golfing-medium-light": {
-      "codepoint": 58024,
+      "codepoint": 57688,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manGolfingMediumLight"
     },
     "man-in-lotus-position": {
-      "codepoint": 58025,
+      "codepoint": 57689,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manInLotusPosition"
     },
     "man-in-lotus-position-light": {
-      "codepoint": 58026,
+      "codepoint": 57690,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manInLotusPositionLight"
     },
     "man-in-lotus-position-medium-light": {
-      "codepoint": 58027,
+      "codepoint": 57691,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manInLotusPositionMediumLight"
     },
     "man-surfing": {
-      "codepoint": 58028,
+      "codepoint": 57692,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manSurfing"
     },
     "man-surfing-dark": {
-      "codepoint": 58029,
+      "codepoint": 57693,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manSurfingDark"
     },
     "man-surfing-light": {
-      "codepoint": 58030,
+      "codepoint": 57694,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manSurfingLight"
     },
     "man-surfing-medium": {
-      "codepoint": 58031,
+      "codepoint": 57695,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manSurfingMedium"
     },
     "man-surfing-medium-dark": {
-      "codepoint": 58032,
+      "codepoint": 57696,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manSurfingMediumDark"
     },
     "man-surfing-medium-light": {
-      "codepoint": 58033,
+      "codepoint": 57697,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manSurfingMediumLight"
     },
     "man-white-hair": {
-      "codepoint": 58034,
+      "codepoint": 57698,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "manWhiteHair"
     },
     "mango": {
-      "codepoint": 57580,
+      "codepoint": 57699,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "mango",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "mans-shoe": {
-      "codepoint": 57883,
+      "codepoint": 57700,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "mansShoe",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "map-of-japan": {
-      "codepoint": 57581,
+      "codepoint": 57701,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "mapOfJapan"
     },
     "maple-leaf": {
-      "codepoint": 57884,
+      "codepoint": 57702,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "mapleLeaf",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "medical-symbol": {
-      "codepoint": 57582,
+      "codepoint": 57703,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "medicalSymbol",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "megaphone": {
-      "codepoint": 57583,
+      "codepoint": 57704,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "megaphone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "menorah": {
-      "codepoint": 57584,
+      "codepoint": 57705,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "menorah",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "mens-room": {
-      "codepoint": 57585,
+      "codepoint": 57706,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "mensRoom",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "middle-finger": {
-      "codepoint": 57586,
+      "codepoint": 57707,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "middleFinger",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "middle-finger-dark": {
-      "codepoint": 57885,
+      "codepoint": 57708,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "middleFingerDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "middle-finger-light": {
-      "codepoint": 57587,
+      "codepoint": 57709,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "middleFingerLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "middle-finger-medium": {
-      "codepoint": 57886,
+      "codepoint": 57710,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "middleFingerMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "middle-finger-medium-dark": {
-      "codepoint": 57887,
+      "codepoint": 57711,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "middleFingerMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "middle-finger-medium-light": {
-      "codepoint": 57588,
+      "codepoint": 57712,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "middleFingerMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "mirror": {
-      "codepoint": 57589,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "mirror",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "mobile-phone-off": {
-      "codepoint": 57590,
+      "codepoint": 57713,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "mobilePhoneOff",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "money-bag": {
-      "codepoint": 57888,
+      "codepoint": 57714,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "moneyBag",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "monorail": {
-      "codepoint": 58035,
+      "codepoint": 57715,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "monorail"
     },
-    "musical-score": {
-      "codepoint": 57591,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "musicalScore",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "name-badge": {
-      "codepoint": 57592,
+      "codepoint": 57716,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "nameBadge",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nest-with-eggs": {
-      "codepoint": 58036,
+      "codepoint": 57717,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "nestWithEggs"
     },
     "new-button": {
-      "codepoint": 57593,
+      "codepoint": 57718,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "newButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "new-moon": {
-      "codepoint": 57889,
+      "codepoint": 57719,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "newMoon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "next-track-button": {
-      "codepoint": 57594,
+      "codepoint": 57720,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "nextTrackButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ng-button": {
-      "codepoint": 57595,
+      "codepoint": 57721,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "ngButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "no-entry": {
-      "codepoint": 57890,
+      "codepoint": 57722,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "noEntry",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nose": {
-      "codepoint": 57891,
+      "codepoint": 57723,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "nose",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nose-dark": {
-      "codepoint": 57892,
+      "codepoint": 57724,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "noseDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nose-light": {
-      "codepoint": 57893,
+      "codepoint": 57725,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "noseLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nose-medium": {
-      "codepoint": 57894,
+      "codepoint": 57726,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "noseMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nose-medium-dark": {
-      "codepoint": 57895,
+      "codepoint": 57727,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "noseMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nose-medium-light": {
-      "codepoint": 57896,
+      "codepoint": 57728,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "noseMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "o-button-blood-type": {
-      "codepoint": 57596,
+      "codepoint": 57729,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "oButtonBloodType",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "office-building": {
-      "codepoint": 57597,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "officeBuilding",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "ok-button": {
-      "codepoint": 57598,
+      "codepoint": 57730,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "okButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ok-hand": {
-      "codepoint": 57599,
+      "codepoint": 57731,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "okHand",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ok-hand-dark": {
-      "codepoint": 57897,
+      "codepoint": 57732,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "okHandDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ok-hand-light": {
-      "codepoint": 57600,
+      "codepoint": 57733,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "okHandLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ok-hand-medium": {
-      "codepoint": 57898,
+      "codepoint": 57734,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "okHandMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ok-hand-medium-dark": {
-      "codepoint": 57899,
+      "codepoint": 57735,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "okHandMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ok-hand-medium-light": {
-      "codepoint": 57601,
+      "codepoint": 57736,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "okHandMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "old-key": {
-      "codepoint": 57602,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "oldKey",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "om": {
-      "codepoint": 57603,
+      "codepoint": 57737,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "om",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "one-piece-swimsuit": {
-      "codepoint": 57604,
+      "codepoint": 57738,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "onePieceSwimsuit",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-book": {
-      "codepoint": 57605,
+      "codepoint": 57739,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "openBook"
     },
     "open-file-folder": {
-      "codepoint": 57606,
+      "codepoint": 57740,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "openFileFolder",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-hands": {
-      "codepoint": 57607,
+      "codepoint": 57741,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "openHands",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-hands-dark": {
-      "codepoint": 57900,
+      "codepoint": 57742,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "openHandsDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-hands-light": {
-      "codepoint": 57608,
+      "codepoint": 57743,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "openHandsLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-hands-medium": {
-      "codepoint": 57901,
+      "codepoint": 57744,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "openHandsMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-hands-medium-dark": {
-      "codepoint": 57902,
+      "codepoint": 57745,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "openHandsMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-hands-medium-light": {
-      "codepoint": 57609,
+      "codepoint": 57746,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "openHandsMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ophiuchus": {
-      "codepoint": 57610,
+      "codepoint": 57747,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "ophiuchus",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "optical-disk": {
-      "codepoint": 57611,
+      "codepoint": 57748,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "opticalDisk",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "orthodox-cross": {
-      "codepoint": 57612,
+      "codepoint": 57749,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "orthodoxCross",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "p-button": {
-      "codepoint": 57613,
+      "codepoint": 57750,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "paintbrush": {
-      "codepoint": 57614,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "paintbrush",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "palm-down-hand": {
-      "codepoint": 57615,
+      "codepoint": 57751,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmDownHand",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palm-down-hand-dark": {
-      "codepoint": 57903,
+      "codepoint": 57752,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmDownHandDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palm-down-hand-light": {
-      "codepoint": 57616,
+      "codepoint": 57753,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmDownHandLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palm-down-hand-medium": {
-      "codepoint": 57904,
+      "codepoint": 57754,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmDownHandMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palm-down-hand-medium-dark": {
-      "codepoint": 57905,
+      "codepoint": 57755,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmDownHandMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palm-down-hand-medium-light": {
-      "codepoint": 57617,
+      "codepoint": 57756,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmDownHandMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palm-up-hand": {
-      "codepoint": 57618,
+      "codepoint": 57757,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmUpHand",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palm-up-hand-dark": {
-      "codepoint": 57906,
+      "codepoint": 57758,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmUpHandDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palm-up-hand-light": {
-      "codepoint": 57619,
+      "codepoint": 57759,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmUpHandLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palm-up-hand-medium": {
-      "codepoint": 57907,
+      "codepoint": 57760,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmUpHandMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palm-up-hand-medium-dark": {
-      "codepoint": 57908,
+      "codepoint": 57761,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmUpHandMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palm-up-hand-medium-light": {
-      "codepoint": 57620,
+      "codepoint": 57762,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmUpHandMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palms-up-together": {
-      "codepoint": 57621,
+      "codepoint": 57763,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmsUpTogether",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palms-up-together-dark": {
-      "codepoint": 57909,
+      "codepoint": 57764,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmsUpTogetherDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palms-up-together-light": {
-      "codepoint": 57622,
+      "codepoint": 57765,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmsUpTogetherLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palms-up-together-medium": {
-      "codepoint": 57910,
+      "codepoint": 57766,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmsUpTogetherMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palms-up-together-medium-dark": {
-      "codepoint": 57911,
+      "codepoint": 57767,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmsUpTogetherMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "palms-up-together-medium-light": {
-      "codepoint": 57623,
+      "codepoint": 57768,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "palmsUpTogetherMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "paperclip": {
-      "codepoint": 57624,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "paperclip",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "part-alternation-mark": {
-      "codepoint": 57625,
+      "codepoint": 57769,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "partAlternationMark"
     },
     "passport-control": {
-      "codepoint": 57626,
+      "codepoint": 57770,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "passportControl",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pause-button": {
-      "codepoint": 57627,
+      "codepoint": 57771,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pauseButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "peace-symbol": {
-      "codepoint": 57628,
+      "codepoint": 57772,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "peaceSymbol",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "peanuts": {
-      "codepoint": 57912,
+      "codepoint": 57773,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "peanuts",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pear": {
-      "codepoint": 57629,
+      "codepoint": 57774,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pear",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pensive-face": {
-      "codepoint": 57913,
+      "codepoint": 57775,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pensiveFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "performing-arts": {
-      "codepoint": 57630,
+      "codepoint": 57776,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "performingArts",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "persevering-face": {
-      "codepoint": 57914,
+      "codepoint": 57777,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "perseveringFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "person-in-lotus-position": {
-      "codepoint": 58037,
+      "codepoint": 57778,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "personInLotusPosition"
     },
     "person-in-lotus-position-light": {
-      "codepoint": 58038,
+      "codepoint": 57779,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "personInLotusPositionLight"
     },
     "person-in-lotus-position-medium-light": {
-      "codepoint": 58039,
+      "codepoint": 57780,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "personInLotusPositionMediumLight"
     },
     "person-taking-bath": {
-      "codepoint": 58040,
+      "codepoint": 57781,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "personTakingBath"
     },
     "person-white-hair": {
-      "codepoint": 58041,
+      "codepoint": 57782,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "personWhiteHair"
     },
     "person-white-hair-dark": {
-      "codepoint": 58042,
+      "codepoint": 57783,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "personWhiteHairDark"
     },
     "person-white-hair-light": {
-      "codepoint": 58043,
+      "codepoint": 57784,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "personWhiteHairLight"
     },
     "person-white-hair-medium": {
-      "codepoint": 58044,
+      "codepoint": 57785,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "personWhiteHairMedium"
     },
     "person-white-hair-medium-dark": {
-      "codepoint": 58045,
+      "codepoint": 57786,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "personWhiteHairMediumDark"
     },
     "person-white-hair-medium-light": {
-      "codepoint": 58046,
+      "codepoint": 57787,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "personWhiteHairMediumLight"
     },
-    "petri-dish": {
-      "codepoint": 57631,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "petriDish",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "phoenix-bird": {
-      "codepoint": 58047,
+      "codepoint": 57788,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "phoenixBird"
     },
     "pick": {
-      "codepoint": 57915,
+      "codepoint": 57789,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pick",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pig-nose": {
-      "codepoint": 57916,
+      "codepoint": 57790,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pigNose",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pile-of-poo": {
-      "codepoint": 58048,
+      "codepoint": 57791,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pileOfPoo"
     },
     "pinched-fingers": {
-      "codepoint": 57632,
+      "codepoint": 57792,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pinchedFingers",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pinched-fingers-dark": {
-      "codepoint": 57917,
+      "codepoint": 57793,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pinchedFingersDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pinched-fingers-light": {
-      "codepoint": 57633,
+      "codepoint": 57794,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pinchedFingersLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pinched-fingers-medium": {
-      "codepoint": 57918,
+      "codepoint": 57795,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pinchedFingersMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pinched-fingers-medium-dark": {
-      "codepoint": 57919,
+      "codepoint": 57796,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pinchedFingersMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pinched-fingers-medium-light": {
-      "codepoint": 57634,
+      "codepoint": 57797,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pinchedFingersMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pinching-hand": {
-      "codepoint": 57920,
+      "codepoint": 57798,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pinchingHand",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pinching-hand-dark": {
-      "codepoint": 57921,
+      "codepoint": 57799,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pinchingHandDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pinching-hand-light": {
-      "codepoint": 57922,
+      "codepoint": 57800,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pinchingHandLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pinching-hand-medium": {
-      "codepoint": 57923,
+      "codepoint": 57801,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pinchingHandMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pinching-hand-medium-dark": {
-      "codepoint": 57924,
+      "codepoint": 57802,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pinchingHandMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pinching-hand-medium-light": {
-      "codepoint": 57925,
+      "codepoint": 57803,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pinchingHandMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "pink-heart": {
-      "codepoint": 57635,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "pinkHeart",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "pirate-flag": {
-      "codepoint": 57926,
+      "codepoint": 57804,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pirateFlag",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pisces": {
-      "codepoint": 57636,
+      "codepoint": 57805,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pisces",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "place-of-worship": {
-      "codepoint": 57637,
+      "codepoint": 57806,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "placeOfWorship",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "play-button": {
-      "codepoint": 57638,
+      "codepoint": 57807,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "playButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "play-or-pause-button": {
-      "codepoint": 57639,
+      "codepoint": 57808,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "playOrPauseButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "plunger": {
-      "codepoint": 57927,
+      "codepoint": 57809,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "plunger",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "police-car": {
-      "codepoint": 58049,
+      "codepoint": 57810,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "policeCar"
     },
     "potable-water": {
-      "codepoint": 57640,
+      "codepoint": 57811,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "potableWater",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "potato": {
-      "codepoint": 57928,
+      "codepoint": 57812,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "potato",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "pouring-liquid": {
-      "codepoint": 57641,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "pouringLiquid",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "pregnant-man": {
-      "codepoint": 58050,
+      "codepoint": 57813,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pregnantMan"
     },
     "pregnant-man-dark": {
-      "codepoint": 58051,
+      "codepoint": 57814,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pregnantManDark"
     },
     "pregnant-man-light": {
-      "codepoint": 58052,
+      "codepoint": 57815,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pregnantManLight"
     },
     "pregnant-man-medium": {
-      "codepoint": 58053,
+      "codepoint": 57816,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pregnantManMedium"
     },
     "pregnant-man-medium-dark": {
-      "codepoint": 58054,
+      "codepoint": 57817,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pregnantManMediumDark"
     },
     "pregnant-man-medium-light": {
-      "codepoint": 58055,
+      "codepoint": 57818,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pregnantManMediumLight"
     },
     "prohibited": {
-      "codepoint": 57929,
+      "codepoint": 57819,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "prohibited",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "purple-circle": {
-      "codepoint": 57642,
+      "codepoint": 57820,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "purpleCircle"
     },
-    "purse": {
-      "codepoint": 57643,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "purse",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "puzzle-piece": {
-      "codepoint": 57644,
+      "codepoint": 57821,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "puzzlePiece",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "rabbit": {
-      "codepoint": 58056,
+      "codepoint": 57822,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rabbit"
     },
     "radio-button": {
-      "codepoint": 57930,
+      "codepoint": 57823,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "radioButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "radioactive": {
-      "codepoint": 57645,
+      "codepoint": 57824,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "radioactive",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-back-of-hand": {
-      "codepoint": 57646,
+      "codepoint": 57825,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedBackOfHand",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-back-of-hand-dark": {
-      "codepoint": 57931,
+      "codepoint": 57826,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedBackOfHandDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-back-of-hand-light": {
-      "codepoint": 57647,
+      "codepoint": 57827,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedBackOfHandLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-back-of-hand-medium": {
-      "codepoint": 57932,
+      "codepoint": 57828,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedBackOfHandMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-back-of-hand-medium-dark": {
-      "codepoint": 57933,
+      "codepoint": 57829,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedBackOfHandMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-back-of-hand-medium-light": {
-      "codepoint": 57648,
+      "codepoint": 57830,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedBackOfHandMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-fist": {
-      "codepoint": 57649,
+      "codepoint": 57831,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedFist",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-fist-dark": {
-      "codepoint": 57934,
+      "codepoint": 57832,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedFistDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-fist-light": {
-      "codepoint": 57650,
+      "codepoint": 57833,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedFistLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-fist-medium": {
-      "codepoint": 57935,
+      "codepoint": 57834,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedFistMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-fist-medium-dark": {
-      "codepoint": 57936,
+      "codepoint": 57835,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedFistMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-fist-medium-light": {
-      "codepoint": 57651,
+      "codepoint": 57836,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedFistMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-hand": {
-      "codepoint": 57652,
+      "codepoint": 57837,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedHand"
     },
     "raised-hand-dark": {
-      "codepoint": 57937,
+      "codepoint": 57838,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedHandDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-hand-light": {
-      "codepoint": 57653,
+      "codepoint": 57839,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedHandLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-hand-medium": {
-      "codepoint": 57938,
+      "codepoint": 57840,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedHandMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-hand-medium-dark": {
-      "codepoint": 57939,
+      "codepoint": 57841,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedHandMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-hand-medium-light": {
-      "codepoint": 57654,
+      "codepoint": 57842,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "raisedHandMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "receipt": {
-      "codepoint": 57655,
+      "codepoint": 57843,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "receipt",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "record-button": {
-      "codepoint": 57656,
+      "codepoint": 57844,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "recordButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "recycling-symbol": {
-      "codepoint": 57940,
+      "codepoint": 57845,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "recyclingSymbol",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "red-apple": {
-      "codepoint": 57941,
+      "codepoint": 57846,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "redApple",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "relieved-face": {
-      "codepoint": 57942,
+      "codepoint": 57847,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "relievedFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "reminder-ribbon": {
-      "codepoint": 57657,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "reminderRibbon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "repeat-button": {
-      "codepoint": 57658,
+      "codepoint": 57848,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "repeatButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "repeat-single-button": {
-      "codepoint": 57659,
+      "codepoint": 57849,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "repeatSingleButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "restroom": {
-      "codepoint": 57660,
+      "codepoint": 57850,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "restroom",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "reverse-button": {
-      "codepoint": 57661,
+      "codepoint": 57851,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "reverseButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "revolving-hearts": {
-      "codepoint": 57662,
+      "codepoint": 57852,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "revolvingHearts"
     },
     "ribbon": {
-      "codepoint": 57943,
+      "codepoint": 57853,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "ribbon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-anger-bubble": {
-      "codepoint": 57663,
+      "codepoint": 57854,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightAngerBubble",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-arrow": {
-      "codepoint": 57664,
+      "codepoint": 57855,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-arrow-curving-down": {
-      "codepoint": 57665,
+      "codepoint": 57856,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightArrowCurvingDown",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-arrow-curving-left": {
-      "codepoint": 57666,
+      "codepoint": 57857,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightArrowCurvingLeft",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-arrow-curving-up": {
-      "codepoint": 57667,
+      "codepoint": 57858,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightArrowCurvingUp",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-facing-fist": {
-      "codepoint": 57668,
+      "codepoint": 57859,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightFacingFist",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-facing-fist-dark": {
-      "codepoint": 57944,
+      "codepoint": 57860,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightFacingFistDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-facing-fist-light": {
-      "codepoint": 57669,
+      "codepoint": 57861,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightFacingFistLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-facing-fist-medium": {
-      "codepoint": 57945,
+      "codepoint": 57862,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightFacingFistMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-facing-fist-medium-dark": {
-      "codepoint": 57946,
+      "codepoint": 57863,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightFacingFistMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-facing-fist-medium-light": {
-      "codepoint": 57670,
+      "codepoint": 57864,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightFacingFistMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "rightwards-hand": {
-      "codepoint": 57671,
+      "codepoint": 57865,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightwardsHand",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "rightwards-hand-dark": {
-      "codepoint": 57947,
+      "codepoint": 57866,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightwardsHandDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "rightwards-hand-light": {
-      "codepoint": 57672,
+      "codepoint": 57867,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightwardsHandLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "rightwards-hand-medium": {
-      "codepoint": 57948,
+      "codepoint": 57868,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightwardsHandMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "rightwards-hand-medium-dark": {
-      "codepoint": 57949,
+      "codepoint": 57869,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightwardsHandMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "rightwards-hand-medium-light": {
-      "codepoint": 57673,
+      "codepoint": 57870,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rightwardsHandMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "ring": {
-      "codepoint": 57674,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "ring",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "ring-buoy": {
-      "codepoint": 57675,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "ringBuoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "rolled-up-newspaper": {
-      "codepoint": 57676,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "rolledUpNewspaper",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "round-pushpin": {
-      "codepoint": 57677,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "roundPushpin",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "rugby-football": {
-      "codepoint": 57950,
+      "codepoint": 57871,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "rugbyFootball",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "running-shirt": {
-      "codepoint": 57951,
+      "codepoint": 57872,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "runningShirt",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "safety-pin": {
-      "codepoint": 57678,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "safetyPin",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "sagittarius": {
-      "codepoint": 57679,
+      "codepoint": 57873,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "sagittarius",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "sake": {
-      "codepoint": 57680,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "sake",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "salt": {
-      "codepoint": 57681,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "salt",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "scorpio": {
-      "codepoint": 57682,
+      "codepoint": 57874,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "scorpio",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "screwdriver": {
-      "codepoint": 57683,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "screwdriver",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "seat": {
-      "codepoint": 57684,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "seat",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "seedling": {
-      "codepoint": 57952,
+      "codepoint": 57875,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "seedling",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sewing-needle": {
-      "codepoint": 57953,
+      "codepoint": 57876,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "sewingNeedle",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "shaking-face": {
-      "codepoint": 58057,
+      "codepoint": 57877,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "shakingFace",
       "duotone": true
     },
-    "shaved-ice": {
-      "codepoint": 57685,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "shavedIce",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "sheaf-of-rice": {
-      "codepoint": 57954,
+      "codepoint": 57878,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "sheafOfRice",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "shopping-cart": {
-      "codepoint": 57686,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "shoppingCart",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "shorts": {
-      "codepoint": 57687,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "shorts",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "shuffle-tracks-button": {
-      "codepoint": 57688,
+      "codepoint": 57879,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "shuffleTracksButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sign-of-the-horns": {
-      "codepoint": 57689,
+      "codepoint": 57880,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "signOfTheHorns",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sign-of-the-horns-dark": {
-      "codepoint": 57955,
+      "codepoint": 57881,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "signOfTheHornsDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sign-of-the-horns-light": {
-      "codepoint": 57690,
+      "codepoint": 57882,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "signOfTheHornsLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sign-of-the-horns-medium": {
-      "codepoint": 57956,
+      "codepoint": 57883,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "signOfTheHornsMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sign-of-the-horns-medium-dark": {
-      "codepoint": 57957,
+      "codepoint": 57884,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "signOfTheHornsMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sign-of-the-horns-medium-light": {
-      "codepoint": 57691,
+      "codepoint": 57885,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "signOfTheHornsMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "skateboard": {
-      "codepoint": 58058,
+      "codepoint": 57886,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "skateboard"
     },
     "slightly-smiling-face": {
-      "codepoint": 58059,
+      "codepoint": 57887,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "slightlySmilingFace"
     },
     "small-blue-diamond": {
-      "codepoint": 57692,
+      "codepoint": 57888,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "smallBlueDiamond"
     },
-    "smiling-face-with-heart-eyes": {
-      "codepoint": 57693,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "smilingFaceWithHeartEyes",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "snowflake": {
-      "codepoint": 57694,
+      "codepoint": 57889,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "snowflake"
     },
-    "soap": {
-      "codepoint": 57695,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "soap",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "soccer-ball": {
-      "codepoint": 57696,
+      "codepoint": 57890,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "soccerBall"
     },
     "socks": {
-      "codepoint": 57697,
+      "codepoint": 57891,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "socks"
     },
     "sos-button": {
-      "codepoint": 57698,
+      "codepoint": 57892,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "sosButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sparkle": {
-      "codepoint": 57699,
+      "codepoint": 57893,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "sparkle",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sparkles": {
-      "codepoint": 57700,
+      "codepoint": 57894,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "sparkles"
     },
     "sparkling-heart": {
-      "codepoint": 57701,
+      "codepoint": 57895,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "sparklingHeart",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "speaker-high-volume": {
-      "codepoint": 57702,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "speakerHighVolume",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "speaker-low-volume": {
-      "codepoint": 57703,
+      "codepoint": 57896,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "speakerLowVolume",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "speaker-medium-volume": {
-      "codepoint": 57704,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "speakerMediumVolume",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "speech-balloon": {
-      "codepoint": 57705,
+      "codepoint": 57897,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "speechBalloon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "spoon": {
-      "codepoint": 57958,
+      "codepoint": 57898,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "spoon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "spouting-whale": {
-      "codepoint": 57706,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "spoutingWhale",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "squid": {
-      "codepoint": 57707,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "squid",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "star": {
-      "codepoint": 57708,
+      "codepoint": 57899,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "star"
     },
     "star-of-david": {
-      "codepoint": 57709,
+      "codepoint": 57900,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "starOfDavid",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "star-struck": {
-      "codepoint": 57710,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "starStruck",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "stop-button": {
-      "codepoint": 57711,
+      "codepoint": 57901,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "stopButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "stop-sign": {
-      "codepoint": 57959,
+      "codepoint": 57902,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "stopSign",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "straight-ruler": {
-      "codepoint": 57712,
+      "codepoint": 57903,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "straightRuler",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sun": {
-      "codepoint": 57960,
+      "codepoint": 57904,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "sun",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sweat-droplets": {
-      "codepoint": 57713,
+      "codepoint": 57905,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "sweatDroplets"
     },
     "tangerine": {
-      "codepoint": 57961,
+      "codepoint": 57906,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "tangerine",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "taurus": {
-      "codepoint": 57714,
+      "codepoint": 57907,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "taurus",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "telephone-receiver": {
-      "codepoint": 57962,
+      "codepoint": 57908,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "telephoneReceiver",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thought-balloon": {
-      "codepoint": 57715,
+      "codepoint": 57909,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thoughtBalloon"
     },
-    "thread": {
-      "codepoint": 57716,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "thread",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "thumbs-down": {
-      "codepoint": 57717,
+      "codepoint": 57910,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thumbsDown",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-down-dark": {
-      "codepoint": 57963,
+      "codepoint": 57911,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thumbsDownDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-down-light": {
-      "codepoint": 57718,
+      "codepoint": 57912,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thumbsDownLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-down-medium": {
-      "codepoint": 57964,
+      "codepoint": 57913,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thumbsDownMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-down-medium-dark": {
-      "codepoint": 57965,
+      "codepoint": 57914,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thumbsDownMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-down-medium-light": {
-      "codepoint": 57719,
+      "codepoint": 57915,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thumbsDownMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-up": {
-      "codepoint": 57720,
+      "codepoint": 57916,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thumbsUp",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-up-dark": {
-      "codepoint": 57966,
+      "codepoint": 57917,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thumbsUpDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-up-light": {
-      "codepoint": 57721,
+      "codepoint": 57918,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thumbsUpLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-up-medium": {
-      "codepoint": 57967,
+      "codepoint": 57919,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thumbsUpMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-up-medium-dark": {
-      "codepoint": 57968,
+      "codepoint": 57920,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thumbsUpMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-up-medium-light": {
-      "codepoint": 57722,
+      "codepoint": 57921,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "thumbsUpMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ticket": {
-      "codepoint": 57969,
+      "codepoint": 57922,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "ticket",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "tired-face": {
-      "codepoint": 58060,
+      "codepoint": 57923,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "tiredFace"
     },
     "toilet": {
-      "codepoint": 57723,
+      "codepoint": 57924,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "toilet",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "tongue": {
-      "codepoint": 57970,
+      "codepoint": 57925,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "tongue",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "tooth": {
-      "codepoint": 57724,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "tooth",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "tornado": {
-      "codepoint": 57725,
+      "codepoint": 57926,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "tornado",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "transgender-flag": {
-      "codepoint": 57726,
+      "codepoint": 57927,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "transgenderFlag"
     },
     "transgender-symbol": {
-      "codepoint": 57727,
+      "codepoint": 57928,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "transgenderSymbol",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "triangular-flag": {
-      "codepoint": 57971,
+      "codepoint": 57929,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "triangularFlag",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "triangular-ruler": {
-      "codepoint": 57728,
+      "codepoint": 57930,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "triangularRuler",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "trident-emblem": {
-      "codepoint": 57729,
+      "codepoint": 57931,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "tridentEmblem",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "tulip": {
-      "codepoint": 57730,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "tulip",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "two-hearts": {
-      "codepoint": 57731,
+      "codepoint": 57932,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "twoHearts"
     },
     "up-arrow": {
-      "codepoint": 57732,
+      "codepoint": 57933,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "upArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "up-button": {
-      "codepoint": 57733,
+      "codepoint": 57934,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "upButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "up-down-arrow": {
-      "codepoint": 57734,
+      "codepoint": 57935,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "upDownArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "up-left-arrow": {
-      "codepoint": 57735,
+      "codepoint": 57936,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "upLeftArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "up-right-arrow": {
-      "codepoint": 57736,
+      "codepoint": 57937,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "upRightArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "upwards-button": {
-      "codepoint": 57737,
+      "codepoint": 57938,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "upwardsButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "vibration-mode": {
-      "codepoint": 57738,
+      "codepoint": 57939,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "vibrationMode",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "victory-hand": {
-      "codepoint": 57739,
+      "codepoint": 57940,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "victoryHand",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "victory-hand-dark": {
-      "codepoint": 57972,
+      "codepoint": 57941,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "victoryHandDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "victory-hand-light": {
-      "codepoint": 57740,
+      "codepoint": 57942,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "victoryHandLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "victory-hand-medium": {
-      "codepoint": 57973,
+      "codepoint": 57943,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "victoryHandMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "victory-hand-medium-dark": {
-      "codepoint": 57974,
+      "codepoint": 57944,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "victoryHandMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "victory-hand-medium-light": {
-      "codepoint": 57741,
+      "codepoint": 57945,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "victoryHandMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "virgo": {
-      "codepoint": 57742,
+      "codepoint": 57946,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "virgo",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "volleyball": {
-      "codepoint": 57743,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "volleyball",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "vs-button": {
-      "codepoint": 57975,
+      "codepoint": 57947,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "vsButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "vulcan-salute": {
-      "codepoint": 57744,
+      "codepoint": 57948,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "vulcanSalute",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "vulcan-salute-dark": {
-      "codepoint": 57976,
+      "codepoint": 57949,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "vulcanSaluteDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "vulcan-salute-light": {
-      "codepoint": 57745,
+      "codepoint": 57950,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "vulcanSaluteLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "vulcan-salute-medium": {
-      "codepoint": 57977,
+      "codepoint": 57951,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "vulcanSaluteMedium",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "vulcan-salute-medium-dark": {
-      "codepoint": 57978,
+      "codepoint": 57952,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "vulcanSaluteMediumDark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "vulcan-salute-medium-light": {
-      "codepoint": 57746,
+      "codepoint": 57953,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "vulcanSaluteMediumLight",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "warning": {
-      "codepoint": 57747,
+      "codepoint": 57954,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "warning",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "wastebasket": {
-      "codepoint": 57748,
+      "codepoint": 57955,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "wastebasket",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "water-closet": {
-      "codepoint": 57749,
+      "codepoint": 57956,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "waterCloset",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "water-wave": {
-      "codepoint": 57750,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "waterWave",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "whale": {
-      "codepoint": 57751,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "whale",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "wheel-of-dharma": {
-      "codepoint": 57752,
+      "codepoint": 57957,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "wheelOfDharma",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "wheelchair-symbol": {
-      "codepoint": 57753,
+      "codepoint": 57958,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "wheelchairSymbol",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "white-circle": {
-      "codepoint": 57754,
+      "codepoint": 57959,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteCircle",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "white-exclamation-mark": {
-      "codepoint": 57755,
+      "codepoint": 57960,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteExclamationMark"
     },
     "white-flag": {
-      "codepoint": 57756,
+      "codepoint": 57961,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteFlag",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "white-flower": {
-      "codepoint": 57757,
+      "codepoint": 57962,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteFlower",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "white-heart": {
-      "codepoint": 57758,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "whiteHeart",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "white-large-square": {
-      "codepoint": 57759,
+      "codepoint": 57963,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteLargeSquare",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "white-medium-small-square": {
-      "codepoint": 57760,
+      "codepoint": 57964,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteMediumSmallSquare",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "white-medium-square": {
-      "codepoint": 57761,
+      "codepoint": 57965,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteMediumSquare",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "white-question-mark": {
-      "codepoint": 57762,
+      "codepoint": 57966,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteQuestionMark"
     },
     "white-small-square": {
-      "codepoint": 57763,
+      "codepoint": 57967,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteSmallSquare",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "white-square-button": {
-      "codepoint": 57764,
+      "codepoint": 57968,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteSquareButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "window": {
-      "codepoint": 57765,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "window",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "wine-glass": {
-      "codepoint": 57766,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "wineGlass",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "wing": {
-      "codepoint": 58061,
+      "codepoint": 57969,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "wing"
     },
     "wireless": {
-      "codepoint": 57767,
+      "codepoint": 57970,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "wireless",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "wolf": {
-      "codepoint": 57768,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "wolf",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "woman-in-lotus-position": {
-      "codepoint": 58062,
+      "codepoint": 57971,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "womanInLotusPosition"
     },
     "woman-in-lotus-position-light": {
-      "codepoint": 58063,
+      "codepoint": 57972,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "womanInLotusPositionLight"
     },
     "woman-in-lotus-position-medium": {
-      "codepoint": 58064,
+      "codepoint": 57973,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "womanInLotusPositionMedium"
     },
     "woman-in-lotus-position-medium-light": {
-      "codepoint": 58065,
+      "codepoint": 57974,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "womanInLotusPositionMediumLight"
     },
     "woman-white-hair": {
-      "codepoint": 58066,
+      "codepoint": 57975,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "womanWhiteHair"
     },
     "woman-white-hair-dark": {
-      "codepoint": 58067,
+      "codepoint": 57976,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "womanWhiteHairDark"
     },
     "woman-white-hair-light": {
-      "codepoint": 58068,
+      "codepoint": 57977,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "womanWhiteHairLight"
     },
     "woman-white-hair-medium": {
-      "codepoint": 58069,
+      "codepoint": 57978,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "womanWhiteHairMedium"
     },
     "woman-white-hair-medium-dark": {
-      "codepoint": 58070,
+      "codepoint": 57979,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "womanWhiteHairMediumDark"
     },
     "woman-white-hair-medium-light": {
-      "codepoint": 58071,
+      "codepoint": 57980,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "womanWhiteHairMediumLight"
     },
     "womans-boot": {
-      "codepoint": 57769,
+      "codepoint": 57981,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "womansBoot",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "womans-clothes": {
-      "codepoint": 57770,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "womansClothes",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "womens-room": {
-      "codepoint": 57771,
+      "codepoint": 57982,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "womensRoom",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "woozy-face": {
-      "codepoint": 58072,
+      "codepoint": 57983,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "woozyFace"
     },
     "wrench": {
-      "codepoint": 57772,
+      "codepoint": 57984,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "wrench"
     },
-    "yarn": {
-      "codepoint": 57773,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "yarn",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "yawning-face": {
-      "codepoint": 58073,
+      "codepoint": 57985,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "yawningFace"
     },
     "yellow-circle": {
-      "codepoint": 57774,
+      "codepoint": 57986,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "yellowCircle"
     },
     "yellow-square": {
-      "codepoint": 57775,
+      "codepoint": 57987,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "yellowSquare"
     },
     "yin-yang": {
-      "codepoint": 57776,
+      "codepoint": 57988,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "yinYang",
       "duotone": true,
       "duotoneKind": "paintOrder"
-    },
-    "zzz": {
-      "codepoint": 57777,
-      "fontFamily": "FluentEmojiFlat",
-      "identifier": "zzz",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
     }
   }
 }

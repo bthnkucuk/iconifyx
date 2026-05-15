@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: 480 Design
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 7410 (split across 4 fonts)
+/// Icons: 7410
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -31972,7511 +31972,7511 @@ class SolarIcons {
 
   /// `square-double-alt-arrow-down-bold`
   static const IconifyIconData squareDoubleAltArrowDownBold = IconifyIconData.solo(
-    IconData(0xe000, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0000, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-down-bold-duotone` (duo-tone)
   static const IconifyIconData squareDoubleAltArrowDownBoldDuotone = IconifyIconData.duo(
-    IconData(0xe001, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe001, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0001, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0001, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-down-broken`
   static const IconifyIconData squareDoubleAltArrowDownBroken = IconifyIconData.solo(
-    IconData(0xe002, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0002, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-down-line-duotone` (duo-tone)
   static const IconifyIconData squareDoubleAltArrowDownLineDuotone = IconifyIconData.duo(
-    IconData(0xe003, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe003, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0003, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0003, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-down-linear`
   static const IconifyIconData squareDoubleAltArrowDownLinear = IconifyIconData.solo(
-    IconData(0xe004, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0004, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-down-outline`
   static const IconifyIconData squareDoubleAltArrowDownOutline = IconifyIconData.solo(
-    IconData(0xe005, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0005, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-left-bold`
   static const IconifyIconData squareDoubleAltArrowLeftBold = IconifyIconData.solo(
-    IconData(0xe006, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0006, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-left-bold-duotone` (duo-tone)
   static const IconifyIconData squareDoubleAltArrowLeftBoldDuotone = IconifyIconData.duo(
-    IconData(0xe007, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe007, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0007, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0007, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-left-broken`
   static const IconifyIconData squareDoubleAltArrowLeftBroken = IconifyIconData.solo(
-    IconData(0xe008, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0008, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-left-line-duotone` (duo-tone)
   static const IconifyIconData squareDoubleAltArrowLeftLineDuotone = IconifyIconData.duo(
-    IconData(0xe009, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe009, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0009, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0009, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-left-linear`
   static const IconifyIconData squareDoubleAltArrowLeftLinear = IconifyIconData.solo(
-    IconData(0xe00a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf000a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-left-outline`
   static const IconifyIconData squareDoubleAltArrowLeftOutline = IconifyIconData.solo(
-    IconData(0xe00b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf000b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-right-bold`
   static const IconifyIconData squareDoubleAltArrowRightBold = IconifyIconData.solo(
-    IconData(0xe00c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf000c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-right-bold-duotone` (duo-tone)
   static const IconifyIconData squareDoubleAltArrowRightBoldDuotone = IconifyIconData.duo(
-    IconData(0xe00d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe00d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf000d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf000d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-right-broken`
   static const IconifyIconData squareDoubleAltArrowRightBroken = IconifyIconData.solo(
-    IconData(0xe00e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf000e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-right-line-duotone` (duo-tone)
   static const IconifyIconData squareDoubleAltArrowRightLineDuotone = IconifyIconData.duo(
-    IconData(0xe00f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe00f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf000f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf000f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-right-linear`
   static const IconifyIconData squareDoubleAltArrowRightLinear = IconifyIconData.solo(
-    IconData(0xe010, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0010, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-right-outline`
   static const IconifyIconData squareDoubleAltArrowRightOutline = IconifyIconData.solo(
-    IconData(0xe011, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0011, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-up-bold`
   static const IconifyIconData squareDoubleAltArrowUpBold = IconifyIconData.solo(
-    IconData(0xe012, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0012, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-up-bold-duotone` (duo-tone)
   static const IconifyIconData squareDoubleAltArrowUpBoldDuotone = IconifyIconData.duo(
-    IconData(0xe013, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe013, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0013, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0013, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-up-broken`
   static const IconifyIconData squareDoubleAltArrowUpBroken = IconifyIconData.solo(
-    IconData(0xe014, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0014, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-up-line-duotone` (duo-tone)
   static const IconifyIconData squareDoubleAltArrowUpLineDuotone = IconifyIconData.duo(
-    IconData(0xe015, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe015, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0015, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0015, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-up-linear`
   static const IconifyIconData squareDoubleAltArrowUpLinear = IconifyIconData.solo(
-    IconData(0xe016, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0016, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-double-alt-arrow-up-outline`
   static const IconifyIconData squareDoubleAltArrowUpOutline = IconifyIconData.solo(
-    IconData(0xe017, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0017, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-forward-bold`
   static const IconifyIconData squareForwardBold = IconifyIconData.solo(
-    IconData(0xe018, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0018, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-forward-bold-duotone` (duo-tone)
   static const IconifyIconData squareForwardBoldDuotone = IconifyIconData.duo(
-    IconData(0xe019, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe019, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0019, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0019, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-forward-broken`
   static const IconifyIconData squareForwardBroken = IconifyIconData.solo(
-    IconData(0xe01a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf001a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-forward-line-duotone` (duo-tone)
   static const IconifyIconData squareForwardLineDuotone = IconifyIconData.duo(
-    IconData(0xe01b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe01b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf001b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf001b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-forward-linear`
   static const IconifyIconData squareForwardLinear = IconifyIconData.solo(
-    IconData(0xe01c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf001c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-forward-outline`
   static const IconifyIconData squareForwardOutline = IconifyIconData.solo(
-    IconData(0xe01d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf001d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-share-line-bold`
   static const IconifyIconData squareShareLineBold = IconifyIconData.solo(
-    IconData(0xe01e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf001e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-share-line-bold-duotone` (duo-tone)
   static const IconifyIconData squareShareLineBoldDuotone = IconifyIconData.duo(
-    IconData(0xe01f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe01f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf001f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf001f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-share-line-broken`
   static const IconifyIconData squareShareLineBroken = IconifyIconData.solo(
-    IconData(0xe020, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0020, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-share-line-line-duotone` (duo-tone)
   static const IconifyIconData squareShareLineLineDuotone = IconifyIconData.duo(
-    IconData(0xe021, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe021, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0021, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0021, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-share-line-linear`
   static const IconifyIconData squareShareLineLinear = IconifyIconData.solo(
-    IconData(0xe022, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0022, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-share-line-outline`
   static const IconifyIconData squareShareLineOutline = IconifyIconData.solo(
-    IconData(0xe023, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0023, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-horizontal-bold`
   static const IconifyIconData squareSortHorizontalBold = IconifyIconData.solo(
-    IconData(0xe024, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0024, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-horizontal-bold-duotone` (duo-tone)
   static const IconifyIconData squareSortHorizontalBoldDuotone = IconifyIconData.duo(
-    IconData(0xe025, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe025, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0025, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0025, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-horizontal-broken`
   static const IconifyIconData squareSortHorizontalBroken = IconifyIconData.solo(
-    IconData(0xe026, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0026, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-horizontal-line-duotone` (duo-tone)
   static const IconifyIconData squareSortHorizontalLineDuotone = IconifyIconData.duo(
-    IconData(0xe027, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe027, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0027, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0027, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-horizontal-linear`
   static const IconifyIconData squareSortHorizontalLinear = IconifyIconData.solo(
-    IconData(0xe028, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0028, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-horizontal-outline`
   static const IconifyIconData squareSortHorizontalOutline = IconifyIconData.solo(
-    IconData(0xe029, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0029, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-vertical-bold`
   static const IconifyIconData squareSortVerticalBold = IconifyIconData.solo(
-    IconData(0xe02a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf002a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-vertical-bold-duotone` (duo-tone)
   static const IconifyIconData squareSortVerticalBoldDuotone = IconifyIconData.duo(
-    IconData(0xe02b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe02b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf002b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf002b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-vertical-broken`
   static const IconifyIconData squareSortVerticalBroken = IconifyIconData.solo(
-    IconData(0xe02c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf002c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-vertical-line-duotone` (duo-tone)
   static const IconifyIconData squareSortVerticalLineDuotone = IconifyIconData.duo(
-    IconData(0xe02d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe02d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf002d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf002d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-vertical-linear`
   static const IconifyIconData squareSortVerticalLinear = IconifyIconData.solo(
-    IconData(0xe02e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf002e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-sort-vertical-outline`
   static const IconifyIconData squareSortVerticalOutline = IconifyIconData.solo(
-    IconData(0xe02f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf002f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-down-bold`
   static const IconifyIconData squareTopDownBold = IconifyIconData.solo(
-    IconData(0xe030, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0030, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-down-bold-duotone` (duo-tone)
   static const IconifyIconData squareTopDownBoldDuotone = IconifyIconData.duo(
-    IconData(0xe031, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe031, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0031, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0031, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-down-broken`
   static const IconifyIconData squareTopDownBroken = IconifyIconData.solo(
-    IconData(0xe032, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0032, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-down-line-duotone` (duo-tone)
   static const IconifyIconData squareTopDownLineDuotone = IconifyIconData.duo(
-    IconData(0xe033, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe033, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0033, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0033, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-down-linear`
   static const IconifyIconData squareTopDownLinear = IconifyIconData.solo(
-    IconData(0xe034, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0034, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-down-outline`
   static const IconifyIconData squareTopDownOutline = IconifyIconData.solo(
-    IconData(0xe035, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0035, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-up-bold`
   static const IconifyIconData squareTopUpBold = IconifyIconData.solo(
-    IconData(0xe036, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0036, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-up-bold-duotone` (duo-tone)
   static const IconifyIconData squareTopUpBoldDuotone = IconifyIconData.duo(
-    IconData(0xe037, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe037, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0037, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0037, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-up-broken`
   static const IconifyIconData squareTopUpBroken = IconifyIconData.solo(
-    IconData(0xe038, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0038, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-up-line-duotone` (duo-tone)
   static const IconifyIconData squareTopUpLineDuotone = IconifyIconData.duo(
-    IconData(0xe039, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe039, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0039, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0039, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-up-linear`
   static const IconifyIconData squareTopUpLinear = IconifyIconData.solo(
-    IconData(0xe03a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf003a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-top-up-outline`
   static const IconifyIconData squareTopUpOutline = IconifyIconData.solo(
-    IconData(0xe03b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf003b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-horizontal-bold`
   static const IconifyIconData squareTransferHorizontalBold = IconifyIconData.solo(
-    IconData(0xe03c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf003c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-horizontal-bold-duotone` (duo-tone)
   static const IconifyIconData squareTransferHorizontalBoldDuotone = IconifyIconData.duo(
-    IconData(0xe03d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe03d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf003d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf003d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-horizontal-broken`
   static const IconifyIconData squareTransferHorizontalBroken = IconifyIconData.solo(
-    IconData(0xe03e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf003e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-horizontal-line-duotone` (duo-tone)
   static const IconifyIconData squareTransferHorizontalLineDuotone = IconifyIconData.duo(
-    IconData(0xe03f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe03f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf003f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf003f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-horizontal-linear`
   static const IconifyIconData squareTransferHorizontalLinear = IconifyIconData.solo(
-    IconData(0xe040, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0040, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-horizontal-outline`
   static const IconifyIconData squareTransferHorizontalOutline = IconifyIconData.solo(
-    IconData(0xe041, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0041, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-vertical-bold`
   static const IconifyIconData squareTransferVerticalBold = IconifyIconData.solo(
-    IconData(0xe042, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0042, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-vertical-bold-duotone` (duo-tone)
   static const IconifyIconData squareTransferVerticalBoldDuotone = IconifyIconData.duo(
-    IconData(0xe043, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe043, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0043, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0043, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-vertical-broken`
   static const IconifyIconData squareTransferVerticalBroken = IconifyIconData.solo(
-    IconData(0xe044, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0044, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-vertical-line-duotone` (duo-tone)
   static const IconifyIconData squareTransferVerticalLineDuotone = IconifyIconData.duo(
-    IconData(0xe045, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe045, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0045, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0045, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-vertical-linear`
   static const IconifyIconData squareTransferVerticalLinear = IconifyIconData.solo(
-    IconData(0xe046, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0046, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `square-transfer-vertical-outline`
   static const IconifyIconData squareTransferVerticalOutline = IconifyIconData.solo(
-    IconData(0xe047, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0047, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ssd-round-bold`
   static const IconifyIconData ssdRoundBold = IconifyIconData.solo(
-    IconData(0xe048, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0048, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ssd-round-bold-duotone` (duo-tone)
   static const IconifyIconData ssdRoundBoldDuotone = IconifyIconData.duo(
-    IconData(0xe049, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe049, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0049, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0049, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ssd-round-broken`
   static const IconifyIconData ssdRoundBroken = IconifyIconData.solo(
-    IconData(0xe04a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf004a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ssd-round-line-duotone` (duo-tone)
   static const IconifyIconData ssdRoundLineDuotone = IconifyIconData.duo(
-    IconData(0xe04b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe04b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf004b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf004b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ssd-round-linear`
   static const IconifyIconData ssdRoundLinear = IconifyIconData.solo(
-    IconData(0xe04c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf004c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ssd-round-outline`
   static const IconifyIconData ssdRoundOutline = IconifyIconData.solo(
-    IconData(0xe04d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf004d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ssd-square-bold`
   static const IconifyIconData ssdSquareBold = IconifyIconData.solo(
-    IconData(0xe04e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf004e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ssd-square-bold-duotone` (duo-tone)
   static const IconifyIconData ssdSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe04f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe04f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf004f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf004f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ssd-square-broken`
   static const IconifyIconData ssdSquareBroken = IconifyIconData.solo(
-    IconData(0xe050, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0050, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ssd-square-line-duotone` (duo-tone)
   static const IconifyIconData ssdSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe051, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe051, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0051, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0051, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ssd-square-linear`
   static const IconifyIconData ssdSquareLinear = IconifyIconData.solo(
-    IconData(0xe052, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0052, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ssd-square-outline`
   static const IconifyIconData ssdSquareOutline = IconifyIconData.solo(
-    IconData(0xe053, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0053, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-angle-bold`
   static const IconifyIconData starAngleBold = IconifyIconData.solo(
-    IconData(0xe054, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0054, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-angle-bold-duotone` (duo-tone)
   static const IconifyIconData starAngleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe055, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe055, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0055, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0055, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-angle-broken`
   static const IconifyIconData starAngleBroken = IconifyIconData.solo(
-    IconData(0xe056, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0056, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-angle-line-duotone` (duo-tone)
   static const IconifyIconData starAngleLineDuotone = IconifyIconData.duo(
-    IconData(0xe057, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe057, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0057, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0057, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-angle-linear`
   static const IconifyIconData starAngleLinear = IconifyIconData.solo(
-    IconData(0xe058, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0058, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-angle-outline`
   static const IconifyIconData starAngleOutline = IconifyIconData.solo(
-    IconData(0xe059, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0059, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-bold`
   static const IconifyIconData starBold = IconifyIconData.solo(
-    IconData(0xe05a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf005a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-bold-duotone` (duo-tone)
   static const IconifyIconData starBoldDuotone = IconifyIconData.duo(
-    IconData(0xe05b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe05b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf005b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf005b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-broken`
   static const IconifyIconData starBroken = IconifyIconData.solo(
-    IconData(0xe05c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf005c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-circle-bold`
   static const IconifyIconData starCircleBold = IconifyIconData.solo(
-    IconData(0xe05d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf005d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-circle-bold-duotone` (duo-tone)
   static const IconifyIconData starCircleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe05e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe05e, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf005e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf005e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-circle-broken`
   static const IconifyIconData starCircleBroken = IconifyIconData.solo(
-    IconData(0xe05f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf005f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-circle-line-duotone` (duo-tone)
   static const IconifyIconData starCircleLineDuotone = IconifyIconData.duo(
-    IconData(0xe060, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe060, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0060, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0060, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-circle-linear`
   static const IconifyIconData starCircleLinear = IconifyIconData.solo(
-    IconData(0xe061, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0061, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-circle-outline`
   static const IconifyIconData starCircleOutline = IconifyIconData.solo(
-    IconData(0xe062, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0062, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-2-bold`
   static const IconifyIconData starFall2Bold = IconifyIconData.solo(
-    IconData(0xe063, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0063, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-2-bold-duotone` (duo-tone)
   static const IconifyIconData starFall2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe064, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe064, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0064, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0064, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-2-broken`
   static const IconifyIconData starFall2Broken = IconifyIconData.solo(
-    IconData(0xe065, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0065, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-2-line-duotone` (duo-tone)
   static const IconifyIconData starFall2LineDuotone = IconifyIconData.duo(
-    IconData(0xe066, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe066, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0066, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0066, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-2-linear`
   static const IconifyIconData starFall2Linear = IconifyIconData.solo(
-    IconData(0xe067, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0067, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-2-outline`
   static const IconifyIconData starFall2Outline = IconifyIconData.solo(
-    IconData(0xe068, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0068, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-bold`
   static const IconifyIconData starFallBold = IconifyIconData.solo(
-    IconData(0xe069, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0069, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-bold-duotone` (duo-tone)
   static const IconifyIconData starFallBoldDuotone = IconifyIconData.duo(
-    IconData(0xe06a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe06a, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf006a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf006a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-broken`
   static const IconifyIconData starFallBroken = IconifyIconData.solo(
-    IconData(0xe06b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf006b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-line-duotone` (duo-tone)
   static const IconifyIconData starFallLineDuotone = IconifyIconData.duo(
-    IconData(0xe06c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe06c, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf006c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf006c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-linear`
   static const IconifyIconData starFallLinear = IconifyIconData.solo(
-    IconData(0xe06d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf006d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-minimalistic-2-bold`
   static const IconifyIconData starFallMinimalistic2Bold = IconifyIconData.solo(
-    IconData(0xe06e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf006e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-minimalistic-2-bold-duotone` (duo-tone)
   static const IconifyIconData starFallMinimalistic2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe06f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe06f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf006f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf006f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-minimalistic-2-broken`
   static const IconifyIconData starFallMinimalistic2Broken = IconifyIconData.solo(
-    IconData(0xe070, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0070, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-minimalistic-2-line-duotone` (duo-tone)
   static const IconifyIconData starFallMinimalistic2LineDuotone = IconifyIconData.duo(
-    IconData(0xe071, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe071, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0071, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0071, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-minimalistic-2-linear`
   static const IconifyIconData starFallMinimalistic2Linear = IconifyIconData.solo(
-    IconData(0xe072, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0072, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-minimalistic-2-outline`
   static const IconifyIconData starFallMinimalistic2Outline = IconifyIconData.solo(
-    IconData(0xe073, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0073, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-minimalistic-bold`
   static const IconifyIconData starFallMinimalisticBold = IconifyIconData.solo(
-    IconData(0xe074, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0074, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-minimalistic-bold-duotone` (duo-tone)
   static const IconifyIconData starFallMinimalisticBoldDuotone = IconifyIconData.duo(
-    IconData(0xe075, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe075, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0075, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0075, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-minimalistic-broken`
   static const IconifyIconData starFallMinimalisticBroken = IconifyIconData.solo(
-    IconData(0xe076, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0076, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-minimalistic-line-duotone` (duo-tone)
   static const IconifyIconData starFallMinimalisticLineDuotone = IconifyIconData.duo(
-    IconData(0xe077, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe077, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0077, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0077, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-minimalistic-linear`
   static const IconifyIconData starFallMinimalisticLinear = IconifyIconData.solo(
-    IconData(0xe078, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0078, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-minimalistic-outline`
   static const IconifyIconData starFallMinimalisticOutline = IconifyIconData.solo(
-    IconData(0xe079, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0079, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-fall-outline`
   static const IconifyIconData starFallOutline = IconifyIconData.solo(
-    IconData(0xe07a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf007a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-line-duotone`
   static const IconifyIconData starLineDuotone = IconifyIconData.solo(
-    IconData(0xe07b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf007b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-linear`
   static const IconifyIconData starLinear = IconifyIconData.solo(
-    IconData(0xe07c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf007c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-outline`
   static const IconifyIconData starOutline = IconifyIconData.solo(
-    IconData(0xe07d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf007d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-rainbow-bold`
   static const IconifyIconData starRainbowBold = IconifyIconData.solo(
-    IconData(0xe07e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf007e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-rainbow-bold-duotone` (duo-tone)
   static const IconifyIconData starRainbowBoldDuotone = IconifyIconData.duo(
-    IconData(0xe07f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe07f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf007f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf007f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-rainbow-broken`
   static const IconifyIconData starRainbowBroken = IconifyIconData.solo(
-    IconData(0xe080, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0080, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-rainbow-line-duotone` (duo-tone)
   static const IconifyIconData starRainbowLineDuotone = IconifyIconData.duo(
-    IconData(0xe081, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe081, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0081, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0081, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-rainbow-linear`
   static const IconifyIconData starRainbowLinear = IconifyIconData.solo(
-    IconData(0xe082, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0082, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-rainbow-outline`
   static const IconifyIconData starRainbowOutline = IconifyIconData.solo(
-    IconData(0xe083, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0083, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-ring-bold`
   static const IconifyIconData starRingBold = IconifyIconData.solo(
-    IconData(0xe084, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0084, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-ring-bold-duotone` (duo-tone)
   static const IconifyIconData starRingBoldDuotone = IconifyIconData.duo(
-    IconData(0xe085, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe085, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0085, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0085, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-ring-broken`
   static const IconifyIconData starRingBroken = IconifyIconData.solo(
-    IconData(0xe086, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0086, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-ring-line-duotone` (duo-tone)
   static const IconifyIconData starRingLineDuotone = IconifyIconData.duo(
-    IconData(0xe087, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe087, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0087, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0087, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-ring-linear`
   static const IconifyIconData starRingLinear = IconifyIconData.solo(
-    IconData(0xe088, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0088, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-ring-outline`
   static const IconifyIconData starRingOutline = IconifyIconData.solo(
-    IconData(0xe089, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0089, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-rings-bold`
   static const IconifyIconData starRingsBold = IconifyIconData.solo(
-    IconData(0xe08a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf008a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-rings-bold-duotone` (duo-tone)
   static const IconifyIconData starRingsBoldDuotone = IconifyIconData.duo(
-    IconData(0xe08b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe08b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf008b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf008b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-rings-broken`
   static const IconifyIconData starRingsBroken = IconifyIconData.solo(
-    IconData(0xe08c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf008c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-rings-line-duotone` (duo-tone)
   static const IconifyIconData starRingsLineDuotone = IconifyIconData.duo(
-    IconData(0xe08d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe08d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf008d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf008d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-rings-linear`
   static const IconifyIconData starRingsLinear = IconifyIconData.solo(
-    IconData(0xe08e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf008e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-rings-outline`
   static const IconifyIconData starRingsOutline = IconifyIconData.solo(
-    IconData(0xe08f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf008f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-shine-bold`
   static const IconifyIconData starShineBold = IconifyIconData.solo(
-    IconData(0xe090, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0090, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-shine-bold-duotone` (duo-tone)
   static const IconifyIconData starShineBoldDuotone = IconifyIconData.duo(
-    IconData(0xe091, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe091, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0091, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0091, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-shine-broken`
   static const IconifyIconData starShineBroken = IconifyIconData.solo(
-    IconData(0xe092, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0092, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-shine-line-duotone` (duo-tone)
   static const IconifyIconData starShineLineDuotone = IconifyIconData.duo(
-    IconData(0xe093, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe093, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0093, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0093, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-shine-linear`
   static const IconifyIconData starShineLinear = IconifyIconData.solo(
-    IconData(0xe094, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0094, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `star-shine-outline`
   static const IconifyIconData starShineOutline = IconifyIconData.solo(
-    IconData(0xe095, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0095, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-bold`
   static const IconifyIconData starsBold = IconifyIconData.solo(
-    IconData(0xe096, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0096, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-bold-duotone` (duo-tone)
   static const IconifyIconData starsBoldDuotone = IconifyIconData.duo(
-    IconData(0xe097, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe097, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0097, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0097, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-broken`
   static const IconifyIconData starsBroken = IconifyIconData.solo(
-    IconData(0xe098, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0098, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-line-bold`
   static const IconifyIconData starsLineBold = IconifyIconData.solo(
-    IconData(0xe099, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0099, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-line-bold-duotone` (duo-tone)
   static const IconifyIconData starsLineBoldDuotone = IconifyIconData.duo(
-    IconData(0xe09a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe09a, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf009a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf009a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-line-broken`
   static const IconifyIconData starsLineBroken = IconifyIconData.solo(
-    IconData(0xe09b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf009b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-line-duotone` (duo-tone)
   static const IconifyIconData starsLineDuotone = IconifyIconData.duo(
-    IconData(0xe09c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe09c, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf009c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf009c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-line-line-duotone` (duo-tone)
   static const IconifyIconData starsLineLineDuotone = IconifyIconData.duo(
-    IconData(0xe09d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe09d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf009d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf009d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-line-linear`
   static const IconifyIconData starsLineLinear = IconifyIconData.solo(
-    IconData(0xe09e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf009e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-line-outline`
   static const IconifyIconData starsLineOutline = IconifyIconData.solo(
-    IconData(0xe09f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf009f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-linear`
   static const IconifyIconData starsLinear = IconifyIconData.solo(
-    IconData(0xe0a0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-minimalistic-bold`
   static const IconifyIconData starsMinimalisticBold = IconifyIconData.solo(
-    IconData(0xe0a1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-minimalistic-bold-duotone` (duo-tone)
   static const IconifyIconData starsMinimalisticBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0a2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0a2, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-minimalistic-broken`
   static const IconifyIconData starsMinimalisticBroken = IconifyIconData.solo(
-    IconData(0xe0a3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-minimalistic-line-duotone` (duo-tone)
   static const IconifyIconData starsMinimalisticLineDuotone = IconifyIconData.duo(
-    IconData(0xe0a4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0a4, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-minimalistic-linear`
   static const IconifyIconData starsMinimalisticLinear = IconifyIconData.solo(
-    IconData(0xe0a5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-minimalistic-outline`
   static const IconifyIconData starsMinimalisticOutline = IconifyIconData.solo(
-    IconData(0xe0a6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stars-outline`
   static const IconifyIconData starsOutline = IconifyIconData.solo(
-    IconData(0xe0a7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `station-bold`
   static const IconifyIconData stationBold = IconifyIconData.solo(
-    IconData(0xe0a8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `station-bold-duotone` (duo-tone)
   static const IconifyIconData stationBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0a9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0a9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00a9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `station-broken`
   static const IconifyIconData stationBroken = IconifyIconData.solo(
-    IconData(0xe0aa, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00aa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `station-line-duotone` (duo-tone)
   static const IconifyIconData stationLineDuotone = IconifyIconData.duo(
-    IconData(0xe0ab, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0ab, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ab, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ab, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `station-linear`
   static const IconifyIconData stationLinear = IconifyIconData.solo(
-    IconData(0xe0ac, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ac, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `station-minimalistic-bold`
   static const IconifyIconData stationMinimalisticBold = IconifyIconData.solo(
-    IconData(0xe0ad, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `station-minimalistic-bold-duotone` (duo-tone)
   static const IconifyIconData stationMinimalisticBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0ae, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0ae, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ae, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ae, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `station-minimalistic-broken`
   static const IconifyIconData stationMinimalisticBroken = IconifyIconData.solo(
-    IconData(0xe0af, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00af, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `station-minimalistic-line-duotone` (duo-tone)
   static const IconifyIconData stationMinimalisticLineDuotone = IconifyIconData.duo(
-    IconData(0xe0b0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0b0, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `station-minimalistic-linear`
   static const IconifyIconData stationMinimalisticLinear = IconifyIconData.solo(
-    IconData(0xe0b1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `station-minimalistic-outline`
   static const IconifyIconData stationMinimalisticOutline = IconifyIconData.solo(
-    IconData(0xe0b2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `station-outline`
   static const IconifyIconData stationOutline = IconifyIconData.solo(
-    IconData(0xe0b3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stethoscope-bold`
   static const IconifyIconData stethoscopeBold = IconifyIconData.solo(
-    IconData(0xe0b4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stethoscope-bold-duotone` (duo-tone)
   static const IconifyIconData stethoscopeBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0b5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0b5, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stethoscope-broken`
   static const IconifyIconData stethoscopeBroken = IconifyIconData.solo(
-    IconData(0xe0b6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stethoscope-line-duotone` (duo-tone)
   static const IconifyIconData stethoscopeLineDuotone = IconifyIconData.duo(
-    IconData(0xe0b7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0b7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stethoscope-linear`
   static const IconifyIconData stethoscopeLinear = IconifyIconData.solo(
-    IconData(0xe0b8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stethoscope-outline`
   static const IconifyIconData stethoscopeOutline = IconifyIconData.solo(
-    IconData(0xe0b9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00b9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-circle-bold`
   static const IconifyIconData stickerCircleBold = IconifyIconData.solo(
-    IconData(0xe0ba, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-circle-bold-duotone` (duo-tone)
   static const IconifyIconData stickerCircleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0bb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0bb, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00bb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00bb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-circle-broken`
   static const IconifyIconData stickerCircleBroken = IconifyIconData.solo(
-    IconData(0xe0bc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00bc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-circle-line-duotone` (duo-tone)
   static const IconifyIconData stickerCircleLineDuotone = IconifyIconData.duo(
-    IconData(0xe0bd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0bd, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00bd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00bd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-circle-linear`
   static const IconifyIconData stickerCircleLinear = IconifyIconData.solo(
-    IconData(0xe0be, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00be, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-circle-outline`
   static const IconifyIconData stickerCircleOutline = IconifyIconData.solo(
-    IconData(0xe0bf, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00bf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-2-bold`
   static const IconifyIconData stickerSmileCircle2Bold = IconifyIconData.solo(
-    IconData(0xe0c0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-2-bold-duotone` (duo-tone)
   static const IconifyIconData stickerSmileCircle2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe0c1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0c1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-2-broken`
   static const IconifyIconData stickerSmileCircle2Broken = IconifyIconData.solo(
-    IconData(0xe0c2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-2-line-duotone` (duo-tone)
   static const IconifyIconData stickerSmileCircle2LineDuotone = IconifyIconData.duo(
-    IconData(0xe0c3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0c3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-2-linear`
   static const IconifyIconData stickerSmileCircle2Linear = IconifyIconData.solo(
-    IconData(0xe0c4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-2-outline`
   static const IconifyIconData stickerSmileCircle2Outline = IconifyIconData.solo(
-    IconData(0xe0c5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-bold`
   static const IconifyIconData stickerSmileCircleBold = IconifyIconData.solo(
-    IconData(0xe0c6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-bold-duotone` (duo-tone)
   static const IconifyIconData stickerSmileCircleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0c7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0c7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-broken`
   static const IconifyIconData stickerSmileCircleBroken = IconifyIconData.solo(
-    IconData(0xe0c8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-line-duotone` (duo-tone)
   static const IconifyIconData stickerSmileCircleLineDuotone = IconifyIconData.duo(
-    IconData(0xe0c9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0c9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00c9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-linear`
   static const IconifyIconData stickerSmileCircleLinear = IconifyIconData.solo(
-    IconData(0xe0ca, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ca, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-circle-outline`
   static const IconifyIconData stickerSmileCircleOutline = IconifyIconData.solo(
-    IconData(0xe0cb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00cb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-square-bold`
   static const IconifyIconData stickerSmileSquareBold = IconifyIconData.solo(
-    IconData(0xe0cc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00cc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-square-bold-duotone` (duo-tone)
   static const IconifyIconData stickerSmileSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0cd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0cd, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00cd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00cd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-square-broken`
   static const IconifyIconData stickerSmileSquareBroken = IconifyIconData.solo(
-    IconData(0xe0ce, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ce, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-square-line-duotone` (duo-tone)
   static const IconifyIconData stickerSmileSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe0cf, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0cf, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00cf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00cf, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-square-linear`
   static const IconifyIconData stickerSmileSquareLinear = IconifyIconData.solo(
-    IconData(0xe0d0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-smile-square-outline`
   static const IconifyIconData stickerSmileSquareOutline = IconifyIconData.solo(
-    IconData(0xe0d1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-square-bold`
   static const IconifyIconData stickerSquareBold = IconifyIconData.solo(
-    IconData(0xe0d2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-square-bold-duotone` (duo-tone)
   static const IconifyIconData stickerSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0d3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0d3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-square-broken`
   static const IconifyIconData stickerSquareBroken = IconifyIconData.solo(
-    IconData(0xe0d4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-square-line-duotone` (duo-tone)
   static const IconifyIconData stickerSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe0d5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0d5, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-square-linear`
   static const IconifyIconData stickerSquareLinear = IconifyIconData.solo(
-    IconData(0xe0d6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sticker-square-outline`
   static const IconifyIconData stickerSquareOutline = IconifyIconData.solo(
-    IconData(0xe0d7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-bold`
   static const IconifyIconData stopBold = IconifyIconData.solo(
-    IconData(0xe0d8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-bold-duotone` (duo-tone)
   static const IconifyIconData stopBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0d9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0d9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00d9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-broken`
   static const IconifyIconData stopBroken = IconifyIconData.solo(
-    IconData(0xe0da, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00da, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-circle-bold`
   static const IconifyIconData stopCircleBold = IconifyIconData.solo(
-    IconData(0xe0db, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00db, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-circle-bold-duotone` (duo-tone)
   static const IconifyIconData stopCircleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0dc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0dc, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00dc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00dc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-circle-broken`
   static const IconifyIconData stopCircleBroken = IconifyIconData.solo(
-    IconData(0xe0dd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00dd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-circle-line-duotone` (duo-tone)
   static const IconifyIconData stopCircleLineDuotone = IconifyIconData.duo(
-    IconData(0xe0de, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0de, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00de, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-circle-linear`
   static const IconifyIconData stopCircleLinear = IconifyIconData.solo(
-    IconData(0xe0df, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-circle-outline`
   static const IconifyIconData stopCircleOutline = IconifyIconData.solo(
-    IconData(0xe0e0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-line-duotone`
   static const IconifyIconData stopLineDuotone = IconifyIconData.solo(
-    IconData(0xe0e1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00e1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-linear`
   static const IconifyIconData stopLinear = IconifyIconData.solo(
-    IconData(0xe0e2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stop-outline`
   static const IconifyIconData stopOutline = IconifyIconData.solo(
-    IconData(0xe0e3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-bold`
   static const IconifyIconData stopwatchBold = IconifyIconData.solo(
-    IconData(0xe0e4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00e4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-bold-duotone` (duo-tone)
   static const IconifyIconData stopwatchBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0e5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0e5, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00e5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00e5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-broken`
   static const IconifyIconData stopwatchBroken = IconifyIconData.solo(
-    IconData(0xe0e6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00e6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-line-duotone` (duo-tone)
   static const IconifyIconData stopwatchLineDuotone = IconifyIconData.duo(
-    IconData(0xe0e7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0e7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00e7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00e7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-linear`
   static const IconifyIconData stopwatchLinear = IconifyIconData.solo(
-    IconData(0xe0e8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00e8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-outline`
   static const IconifyIconData stopwatchOutline = IconifyIconData.solo(
-    IconData(0xe0e9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00e9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-pause-bold`
   static const IconifyIconData stopwatchPauseBold = IconifyIconData.solo(
-    IconData(0xe0ea, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ea, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-pause-bold-duotone` (duo-tone)
   static const IconifyIconData stopwatchPauseBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0eb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0eb, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00eb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00eb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-pause-broken`
   static const IconifyIconData stopwatchPauseBroken = IconifyIconData.solo(
-    IconData(0xe0ec, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-pause-line-duotone` (duo-tone)
   static const IconifyIconData stopwatchPauseLineDuotone = IconifyIconData.duo(
-    IconData(0xe0ed, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0ed, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ed, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-pause-linear`
   static const IconifyIconData stopwatchPauseLinear = IconifyIconData.solo(
-    IconData(0xe0ee, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ee, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-pause-outline`
   static const IconifyIconData stopwatchPauseOutline = IconifyIconData.solo(
-    IconData(0xe0ef, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-play-bold`
   static const IconifyIconData stopwatchPlayBold = IconifyIconData.solo(
-    IconData(0xe0f0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-play-bold-duotone` (duo-tone)
   static const IconifyIconData stopwatchPlayBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0f1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0f1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-play-broken`
   static const IconifyIconData stopwatchPlayBroken = IconifyIconData.solo(
-    IconData(0xe0f2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-play-line-duotone` (duo-tone)
   static const IconifyIconData stopwatchPlayLineDuotone = IconifyIconData.duo(
-    IconData(0xe0f3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0f3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-play-linear`
   static const IconifyIconData stopwatchPlayLinear = IconifyIconData.solo(
-    IconData(0xe0f4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stopwatch-play-outline`
   static const IconifyIconData stopwatchPlayOutline = IconifyIconData.solo(
-    IconData(0xe0f5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stream-bold`
   static const IconifyIconData streamBold = IconifyIconData.solo(
-    IconData(0xe0f6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stream-bold-duotone` (duo-tone)
   static const IconifyIconData streamBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0f7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0f7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stream-broken`
   static const IconifyIconData streamBroken = IconifyIconData.solo(
-    IconData(0xe0f8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stream-line-duotone` (duo-tone)
   static const IconifyIconData streamLineDuotone = IconifyIconData.duo(
-    IconData(0xe0f9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0f9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00f9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stream-linear`
   static const IconifyIconData streamLinear = IconifyIconData.solo(
-    IconData(0xe0fa, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00fa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stream-outline`
   static const IconifyIconData streamOutline = IconifyIconData.solo(
-    IconData(0xe0fb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00fb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-bold`
   static const IconifyIconData streetsBold = IconifyIconData.solo(
-    IconData(0xe0fc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00fc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-bold-duotone` (duo-tone)
   static const IconifyIconData streetsBoldDuotone = IconifyIconData.duo(
-    IconData(0xe0fd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0fd, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00fd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00fd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-broken`
   static const IconifyIconData streetsBroken = IconifyIconData.solo(
-    IconData(0xe0fe, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-line-duotone` (duo-tone)
   static const IconifyIconData streetsLineDuotone = IconifyIconData.duo(
-    IconData(0xe0ff, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe0ff, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf00ff, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-linear`
   static const IconifyIconData streetsLinear = IconifyIconData.solo(
-    IconData(0xe100, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0100, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-map-point-bold`
   static const IconifyIconData streetsMapPointBold = IconifyIconData.solo(
-    IconData(0xe101, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0101, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-map-point-bold-duotone` (duo-tone)
   static const IconifyIconData streetsMapPointBoldDuotone = IconifyIconData.duo(
-    IconData(0xe102, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe102, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0102, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0102, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-map-point-broken`
   static const IconifyIconData streetsMapPointBroken = IconifyIconData.solo(
-    IconData(0xe103, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0103, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-map-point-line-duotone` (duo-tone)
   static const IconifyIconData streetsMapPointLineDuotone = IconifyIconData.duo(
-    IconData(0xe104, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe104, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0104, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0104, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-map-point-linear`
   static const IconifyIconData streetsMapPointLinear = IconifyIconData.solo(
-    IconData(0xe105, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0105, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-map-point-outline`
   static const IconifyIconData streetsMapPointOutline = IconifyIconData.solo(
-    IconData(0xe106, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0106, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-navigation-bold`
   static const IconifyIconData streetsNavigationBold = IconifyIconData.solo(
-    IconData(0xe107, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0107, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-navigation-bold-duotone` (duo-tone)
   static const IconifyIconData streetsNavigationBoldDuotone = IconifyIconData.duo(
-    IconData(0xe108, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe108, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0108, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0108, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-navigation-broken`
   static const IconifyIconData streetsNavigationBroken = IconifyIconData.solo(
-    IconData(0xe109, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0109, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-navigation-line-duotone` (duo-tone)
   static const IconifyIconData streetsNavigationLineDuotone = IconifyIconData.duo(
-    IconData(0xe10a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe10a, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf010a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf010a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-navigation-linear`
   static const IconifyIconData streetsNavigationLinear = IconifyIconData.solo(
-    IconData(0xe10b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf010b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-navigation-outline`
   static const IconifyIconData streetsNavigationOutline = IconifyIconData.solo(
-    IconData(0xe10c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf010c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `streets-outline`
   static const IconifyIconData streetsOutline = IconifyIconData.solo(
-    IconData(0xe10d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf010d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stretching-bold`
   static const IconifyIconData stretchingBold = IconifyIconData.solo(
-    IconData(0xe10e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf010e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stretching-bold-duotone` (duo-tone)
   static const IconifyIconData stretchingBoldDuotone = IconifyIconData.duo(
-    IconData(0xe10f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe10f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf010f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf010f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stretching-broken`
   static const IconifyIconData stretchingBroken = IconifyIconData.solo(
-    IconData(0xe110, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0110, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stretching-line-duotone` (duo-tone)
   static const IconifyIconData stretchingLineDuotone = IconifyIconData.duo(
-    IconData(0xe111, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe111, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0111, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0111, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stretching-linear`
   static const IconifyIconData stretchingLinear = IconifyIconData.solo(
-    IconData(0xe112, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0112, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stretching-outline`
   static const IconifyIconData stretchingOutline = IconifyIconData.solo(
-    IconData(0xe113, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0113, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stretching-round-bold`
   static const IconifyIconData stretchingRoundBold = IconifyIconData.solo(
-    IconData(0xe114, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0114, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stretching-round-bold-duotone` (duo-tone)
   static const IconifyIconData stretchingRoundBoldDuotone = IconifyIconData.duo(
-    IconData(0xe115, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe115, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0115, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0115, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stretching-round-broken`
   static const IconifyIconData stretchingRoundBroken = IconifyIconData.solo(
-    IconData(0xe116, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0116, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stretching-round-line-duotone` (duo-tone)
   static const IconifyIconData stretchingRoundLineDuotone = IconifyIconData.duo(
-    IconData(0xe117, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe117, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0117, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0117, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stretching-round-linear`
   static const IconifyIconData stretchingRoundLinear = IconifyIconData.solo(
-    IconData(0xe118, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0118, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `stretching-round-outline`
   static const IconifyIconData stretchingRoundOutline = IconifyIconData.solo(
-    IconData(0xe119, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0119, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `structure-bold`
   static const IconifyIconData structureBold = IconifyIconData.solo(
-    IconData(0xe11a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf011a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `structure-bold-duotone` (duo-tone)
   static const IconifyIconData structureBoldDuotone = IconifyIconData.duo(
-    IconData(0xe11b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe11b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf011b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf011b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `structure-broken`
   static const IconifyIconData structureBroken = IconifyIconData.solo(
-    IconData(0xe11c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf011c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `structure-line-duotone` (duo-tone)
   static const IconifyIconData structureLineDuotone = IconifyIconData.duo(
-    IconData(0xe11d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe11d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf011d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf011d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `structure-linear`
   static const IconifyIconData structureLinear = IconifyIconData.solo(
-    IconData(0xe11e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf011e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `structure-outline`
   static const IconifyIconData structureOutline = IconifyIconData.solo(
-    IconData(0xe11f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf011f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `subtitles-bold`
   static const IconifyIconData subtitlesBold = IconifyIconData.solo(
-    IconData(0xe120, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0120, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `subtitles-bold-duotone` (duo-tone)
   static const IconifyIconData subtitlesBoldDuotone = IconifyIconData.duo(
-    IconData(0xe121, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe121, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0121, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0121, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `subtitles-broken`
   static const IconifyIconData subtitlesBroken = IconifyIconData.solo(
-    IconData(0xe122, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0122, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `subtitles-line-duotone` (duo-tone)
   static const IconifyIconData subtitlesLineDuotone = IconifyIconData.duo(
-    IconData(0xe123, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe123, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0123, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0123, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `subtitles-linear`
   static const IconifyIconData subtitlesLinear = IconifyIconData.solo(
-    IconData(0xe124, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0124, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `subtitles-outline`
   static const IconifyIconData subtitlesOutline = IconifyIconData.solo(
-    IconData(0xe125, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0125, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-bold`
   static const IconifyIconData suitcaseBold = IconifyIconData.solo(
-    IconData(0xe126, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0126, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-bold-duotone` (duo-tone)
   static const IconifyIconData suitcaseBoldDuotone = IconifyIconData.duo(
-    IconData(0xe127, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe127, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0127, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0127, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-broken`
   static const IconifyIconData suitcaseBroken = IconifyIconData.solo(
-    IconData(0xe128, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0128, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-line-duotone` (duo-tone)
   static const IconifyIconData suitcaseLineDuotone = IconifyIconData.duo(
-    IconData(0xe129, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe129, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0129, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0129, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-linear`
   static const IconifyIconData suitcaseLinear = IconifyIconData.solo(
-    IconData(0xe12a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf012a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-lines-bold`
   static const IconifyIconData suitcaseLinesBold = IconifyIconData.solo(
-    IconData(0xe12b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf012b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-lines-bold-duotone` (duo-tone)
   static const IconifyIconData suitcaseLinesBoldDuotone = IconifyIconData.duo(
-    IconData(0xe12c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe12c, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf012c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf012c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-lines-broken`
   static const IconifyIconData suitcaseLinesBroken = IconifyIconData.solo(
-    IconData(0xe12d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf012d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-lines-line-duotone` (duo-tone)
   static const IconifyIconData suitcaseLinesLineDuotone = IconifyIconData.duo(
-    IconData(0xe12e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe12e, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf012e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf012e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-lines-linear`
   static const IconifyIconData suitcaseLinesLinear = IconifyIconData.solo(
-    IconData(0xe12f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf012f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-lines-outline`
   static const IconifyIconData suitcaseLinesOutline = IconifyIconData.solo(
-    IconData(0xe130, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0130, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-outline`
   static const IconifyIconData suitcaseOutline = IconifyIconData.solo(
-    IconData(0xe131, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0131, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-tag-bold`
   static const IconifyIconData suitcaseTagBold = IconifyIconData.solo(
-    IconData(0xe132, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0132, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-tag-bold-duotone` (duo-tone)
   static const IconifyIconData suitcaseTagBoldDuotone = IconifyIconData.duo(
-    IconData(0xe133, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe133, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0133, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0133, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-tag-broken`
   static const IconifyIconData suitcaseTagBroken = IconifyIconData.solo(
-    IconData(0xe134, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0134, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-tag-line-duotone` (duo-tone)
   static const IconifyIconData suitcaseTagLineDuotone = IconifyIconData.duo(
-    IconData(0xe135, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe135, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0135, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0135, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-tag-linear`
   static const IconifyIconData suitcaseTagLinear = IconifyIconData.solo(
-    IconData(0xe136, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0136, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suitcase-tag-outline`
   static const IconifyIconData suitcaseTagOutline = IconifyIconData.solo(
-    IconData(0xe137, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0137, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-2-bold`
   static const IconifyIconData sun2Bold = IconifyIconData.solo(
-    IconData(0xe138, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0138, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-2-bold-duotone` (duo-tone)
   static const IconifyIconData sun2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe139, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe139, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0139, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0139, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-2-broken`
   static const IconifyIconData sun2Broken = IconifyIconData.solo(
-    IconData(0xe13a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf013a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-2-line-duotone` (duo-tone)
   static const IconifyIconData sun2LineDuotone = IconifyIconData.duo(
-    IconData(0xe13b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe13b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf013b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf013b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-2-linear`
   static const IconifyIconData sun2Linear = IconifyIconData.solo(
-    IconData(0xe13c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf013c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-2-outline`
   static const IconifyIconData sun2Outline = IconifyIconData.solo(
-    IconData(0xe13d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf013d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-bold`
   static const IconifyIconData sunBold = IconifyIconData.solo(
-    IconData(0xe13e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf013e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-bold-duotone` (duo-tone)
   static const IconifyIconData sunBoldDuotone = IconifyIconData.duo(
-    IconData(0xe13f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe13f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf013f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf013f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-broken`
   static const IconifyIconData sunBroken = IconifyIconData.solo(
-    IconData(0xe140, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0140, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-fog-bold`
   static const IconifyIconData sunFogBold = IconifyIconData.solo(
-    IconData(0xe141, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0141, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-fog-bold-duotone` (duo-tone)
   static const IconifyIconData sunFogBoldDuotone = IconifyIconData.duo(
-    IconData(0xe142, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe142, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0142, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0142, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-fog-broken`
   static const IconifyIconData sunFogBroken = IconifyIconData.solo(
-    IconData(0xe143, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0143, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-fog-line-duotone` (duo-tone)
   static const IconifyIconData sunFogLineDuotone = IconifyIconData.duo(
-    IconData(0xe144, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe144, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0144, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0144, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-fog-linear`
   static const IconifyIconData sunFogLinear = IconifyIconData.solo(
-    IconData(0xe145, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0145, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-fog-outline`
   static const IconifyIconData sunFogOutline = IconifyIconData.solo(
-    IconData(0xe146, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0146, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-line-duotone` (duo-tone)
   static const IconifyIconData sunLineDuotone = IconifyIconData.duo(
-    IconData(0xe147, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe147, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0147, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0147, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-linear`
   static const IconifyIconData sunLinear = IconifyIconData.solo(
-    IconData(0xe148, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0148, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sun-outline`
   static const IconifyIconData sunOutline = IconifyIconData.solo(
-    IconData(0xe149, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0149, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunrise-bold`
   static const IconifyIconData sunriseBold = IconifyIconData.solo(
-    IconData(0xe14a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf014a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunrise-bold-duotone` (duo-tone)
   static const IconifyIconData sunriseBoldDuotone = IconifyIconData.duo(
-    IconData(0xe14b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe14b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf014b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf014b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunrise-broken`
   static const IconifyIconData sunriseBroken = IconifyIconData.solo(
-    IconData(0xe14c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf014c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunrise-line-duotone` (duo-tone)
   static const IconifyIconData sunriseLineDuotone = IconifyIconData.duo(
-    IconData(0xe14d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe14d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf014d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf014d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunrise-linear`
   static const IconifyIconData sunriseLinear = IconifyIconData.solo(
-    IconData(0xe14e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf014e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunrise-outline`
   static const IconifyIconData sunriseOutline = IconifyIconData.solo(
-    IconData(0xe14f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf014f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunset-bold`
   static const IconifyIconData sunsetBold = IconifyIconData.solo(
-    IconData(0xe150, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0150, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunset-bold-duotone` (duo-tone)
   static const IconifyIconData sunsetBoldDuotone = IconifyIconData.duo(
-    IconData(0xe151, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe151, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0151, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0151, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunset-broken`
   static const IconifyIconData sunsetBroken = IconifyIconData.solo(
-    IconData(0xe152, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0152, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunset-line-duotone` (duo-tone)
   static const IconifyIconData sunsetLineDuotone = IconifyIconData.duo(
-    IconData(0xe153, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe153, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0153, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0153, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunset-linear`
   static const IconifyIconData sunsetLinear = IconifyIconData.solo(
-    IconData(0xe154, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0154, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `sunset-outline`
   static const IconifyIconData sunsetOutline = IconifyIconData.solo(
-    IconData(0xe155, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0155, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-bold`
   static const IconifyIconData suspensionBold = IconifyIconData.solo(
-    IconData(0xe156, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0156, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-bold-duotone` (duo-tone)
   static const IconifyIconData suspensionBoldDuotone = IconifyIconData.duo(
-    IconData(0xe157, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe157, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0157, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0157, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-bolt-bold`
   static const IconifyIconData suspensionBoltBold = IconifyIconData.solo(
-    IconData(0xe158, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0158, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-bolt-bold-duotone` (duo-tone)
   static const IconifyIconData suspensionBoltBoldDuotone = IconifyIconData.duo(
-    IconData(0xe159, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe159, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0159, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0159, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-bolt-broken`
   static const IconifyIconData suspensionBoltBroken = IconifyIconData.solo(
-    IconData(0xe15a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf015a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-bolt-line-duotone` (duo-tone)
   static const IconifyIconData suspensionBoltLineDuotone = IconifyIconData.duo(
-    IconData(0xe15b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe15b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf015b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf015b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-bolt-linear`
   static const IconifyIconData suspensionBoltLinear = IconifyIconData.solo(
-    IconData(0xe15c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf015c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-bolt-outline`
   static const IconifyIconData suspensionBoltOutline = IconifyIconData.solo(
-    IconData(0xe15d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf015d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-broken`
   static const IconifyIconData suspensionBroken = IconifyIconData.solo(
-    IconData(0xe15e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf015e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-cross-bold`
   static const IconifyIconData suspensionCrossBold = IconifyIconData.solo(
-    IconData(0xe15f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf015f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-cross-bold-duotone` (duo-tone)
   static const IconifyIconData suspensionCrossBoldDuotone = IconifyIconData.duo(
-    IconData(0xe160, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe160, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0160, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0160, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-cross-broken`
   static const IconifyIconData suspensionCrossBroken = IconifyIconData.solo(
-    IconData(0xe161, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0161, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-cross-line-duotone` (duo-tone)
   static const IconifyIconData suspensionCrossLineDuotone = IconifyIconData.duo(
-    IconData(0xe162, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe162, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0162, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0162, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-cross-linear`
   static const IconifyIconData suspensionCrossLinear = IconifyIconData.solo(
-    IconData(0xe163, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0163, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-cross-outline`
   static const IconifyIconData suspensionCrossOutline = IconifyIconData.solo(
-    IconData(0xe164, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0164, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-line-duotone` (duo-tone)
   static const IconifyIconData suspensionLineDuotone = IconifyIconData.duo(
-    IconData(0xe165, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe165, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0165, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0165, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-linear`
   static const IconifyIconData suspensionLinear = IconifyIconData.solo(
-    IconData(0xe166, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0166, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `suspension-outline`
   static const IconifyIconData suspensionOutline = IconifyIconData.solo(
-    IconData(0xe167, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0167, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `swimming-bold`
   static const IconifyIconData swimmingBold = IconifyIconData.solo(
-    IconData(0xe168, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0168, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `swimming-bold-duotone` (duo-tone)
   static const IconifyIconData swimmingBoldDuotone = IconifyIconData.duo(
-    IconData(0xe169, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe169, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0169, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0169, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `swimming-broken`
   static const IconifyIconData swimmingBroken = IconifyIconData.solo(
-    IconData(0xe16a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf016a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `swimming-line-duotone` (duo-tone)
   static const IconifyIconData swimmingLineDuotone = IconifyIconData.duo(
-    IconData(0xe16b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe16b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf016b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf016b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `swimming-linear`
   static const IconifyIconData swimmingLinear = IconifyIconData.solo(
-    IconData(0xe16c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf016c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `swimming-outline`
   static const IconifyIconData swimmingOutline = IconifyIconData.solo(
-    IconData(0xe16d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf016d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `syringe-bold`
   static const IconifyIconData syringeBold = IconifyIconData.solo(
-    IconData(0xe16e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf016e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `syringe-bold-duotone`
   static const IconifyIconData syringeBoldDuotone = IconifyIconData.solo(
-    IconData(0xe16f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf016f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `syringe-broken`
   static const IconifyIconData syringeBroken = IconifyIconData.solo(
-    IconData(0xe170, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0170, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `syringe-line-duotone` (duo-tone)
   static const IconifyIconData syringeLineDuotone = IconifyIconData.duo(
-    IconData(0xe171, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe171, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0171, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0171, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `syringe-linear`
   static const IconifyIconData syringeLinear = IconifyIconData.solo(
-    IconData(0xe172, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0172, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `syringe-outline`
   static const IconifyIconData syringeOutline = IconifyIconData.solo(
-    IconData(0xe173, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0173, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `t-shirt-bold`
   static const IconifyIconData tShirtBold = IconifyIconData.solo(
-    IconData(0xe174, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0174, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `t-shirt-bold-duotone` (duo-tone)
   static const IconifyIconData tShirtBoldDuotone = IconifyIconData.duo(
-    IconData(0xe175, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe175, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0175, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0175, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `t-shirt-broken`
   static const IconifyIconData tShirtBroken = IconifyIconData.solo(
-    IconData(0xe176, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0176, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `t-shirt-line-duotone`
   static const IconifyIconData tShirtLineDuotone = IconifyIconData.solo(
-    IconData(0xe177, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0177, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `t-shirt-linear`
   static const IconifyIconData tShirtLinear = IconifyIconData.solo(
-    IconData(0xe178, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0178, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `t-shirt-outline`
   static const IconifyIconData tShirtOutline = IconifyIconData.solo(
-    IconData(0xe179, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0179, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tablet-bold`
   static const IconifyIconData tabletBold = IconifyIconData.solo(
-    IconData(0xe17a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf017a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tablet-bold-duotone` (duo-tone)
   static const IconifyIconData tabletBoldDuotone = IconifyIconData.duo(
-    IconData(0xe17b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe17b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf017b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf017b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tablet-broken`
   static const IconifyIconData tabletBroken = IconifyIconData.solo(
-    IconData(0xe17c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf017c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tablet-line-duotone` (duo-tone)
   static const IconifyIconData tabletLineDuotone = IconifyIconData.duo(
-    IconData(0xe17d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe17d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf017d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf017d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tablet-linear`
   static const IconifyIconData tabletLinear = IconifyIconData.solo(
-    IconData(0xe17e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf017e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tablet-outline`
   static const IconifyIconData tabletOutline = IconifyIconData.solo(
-    IconData(0xe17f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf017f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-bold`
   static const IconifyIconData tagBold = IconifyIconData.solo(
-    IconData(0xe180, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0180, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-bold-duotone` (duo-tone)
   static const IconifyIconData tagBoldDuotone = IconifyIconData.duo(
-    IconData(0xe181, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe181, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0181, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0181, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-broken`
   static const IconifyIconData tagBroken = IconifyIconData.solo(
-    IconData(0xe182, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0182, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-horizontal-bold`
   static const IconifyIconData tagHorizontalBold = IconifyIconData.solo(
-    IconData(0xe183, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0183, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-horizontal-bold-duotone` (duo-tone)
   static const IconifyIconData tagHorizontalBoldDuotone = IconifyIconData.duo(
-    IconData(0xe184, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe184, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0184, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0184, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-horizontal-broken`
   static const IconifyIconData tagHorizontalBroken = IconifyIconData.solo(
-    IconData(0xe185, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0185, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-horizontal-line-duotone` (duo-tone)
   static const IconifyIconData tagHorizontalLineDuotone = IconifyIconData.duo(
-    IconData(0xe186, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe186, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0186, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0186, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-horizontal-linear`
   static const IconifyIconData tagHorizontalLinear = IconifyIconData.solo(
-    IconData(0xe187, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0187, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-horizontal-outline`
   static const IconifyIconData tagHorizontalOutline = IconifyIconData.solo(
-    IconData(0xe188, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0188, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-line-duotone` (duo-tone)
   static const IconifyIconData tagLineDuotone = IconifyIconData.duo(
-    IconData(0xe189, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe189, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0189, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0189, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-linear`
   static const IconifyIconData tagLinear = IconifyIconData.solo(
-    IconData(0xe18a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf018a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-outline`
   static const IconifyIconData tagOutline = IconifyIconData.solo(
-    IconData(0xe18b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf018b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-price-bold`
   static const IconifyIconData tagPriceBold = IconifyIconData.solo(
-    IconData(0xe18c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf018c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-price-bold-duotone` (duo-tone)
   static const IconifyIconData tagPriceBoldDuotone = IconifyIconData.duo(
-    IconData(0xe18d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe18d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf018d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf018d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-price-broken`
   static const IconifyIconData tagPriceBroken = IconifyIconData.solo(
-    IconData(0xe18e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf018e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-price-line-duotone` (duo-tone)
   static const IconifyIconData tagPriceLineDuotone = IconifyIconData.duo(
-    IconData(0xe18f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe18f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf018f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf018f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-price-linear`
   static const IconifyIconData tagPriceLinear = IconifyIconData.solo(
-    IconData(0xe190, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0190, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tag-price-outline`
   static const IconifyIconData tagPriceOutline = IconifyIconData.solo(
-    IconData(0xe191, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0191, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `target-bold`
   static const IconifyIconData targetBold = IconifyIconData.solo(
-    IconData(0xe192, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0192, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `target-bold-duotone` (duo-tone)
   static const IconifyIconData targetBoldDuotone = IconifyIconData.duo(
-    IconData(0xe193, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe193, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0193, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0193, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `target-broken`
   static const IconifyIconData targetBroken = IconifyIconData.solo(
-    IconData(0xe194, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0194, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `target-line-duotone` (duo-tone)
   static const IconifyIconData targetLineDuotone = IconifyIconData.duo(
-    IconData(0xe195, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe195, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0195, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0195, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `target-linear`
   static const IconifyIconData targetLinear = IconifyIconData.solo(
-    IconData(0xe196, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0196, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `target-outline`
   static const IconifyIconData targetOutline = IconifyIconData.solo(
-    IconData(0xe197, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0197, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tea-cup-bold`
   static const IconifyIconData teaCupBold = IconifyIconData.solo(
-    IconData(0xe198, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0198, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tea-cup-bold-duotone` (duo-tone)
   static const IconifyIconData teaCupBoldDuotone = IconifyIconData.duo(
-    IconData(0xe199, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe199, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0199, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0199, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tea-cup-broken`
   static const IconifyIconData teaCupBroken = IconifyIconData.solo(
-    IconData(0xe19a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf019a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tea-cup-line-duotone` (duo-tone)
   static const IconifyIconData teaCupLineDuotone = IconifyIconData.duo(
-    IconData(0xe19b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe19b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf019b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf019b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tea-cup-linear`
   static const IconifyIconData teaCupLinear = IconifyIconData.solo(
-    IconData(0xe19c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf019c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tea-cup-outline`
   static const IconifyIconData teaCupOutline = IconifyIconData.solo(
-    IconData(0xe19d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf019d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `telescope-bold`
   static const IconifyIconData telescopeBold = IconifyIconData.solo(
-    IconData(0xe19e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf019e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `telescope-bold-duotone` (duo-tone)
   static const IconifyIconData telescopeBoldDuotone = IconifyIconData.duo(
-    IconData(0xe19f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe19f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf019f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf019f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `telescope-broken`
   static const IconifyIconData telescopeBroken = IconifyIconData.solo(
-    IconData(0xe1a0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `telescope-line-duotone` (duo-tone)
   static const IconifyIconData telescopeLineDuotone = IconifyIconData.duo(
-    IconData(0xe1a1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1a1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `telescope-linear`
   static const IconifyIconData telescopeLinear = IconifyIconData.solo(
-    IconData(0xe1a2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `telescope-outline`
   static const IconifyIconData telescopeOutline = IconifyIconData.solo(
-    IconData(0xe1a3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `temperature-bold`
   static const IconifyIconData temperatureBold = IconifyIconData.solo(
-    IconData(0xe1a4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `temperature-bold-duotone` (duo-tone)
   static const IconifyIconData temperatureBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1a5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1a5, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `temperature-broken`
   static const IconifyIconData temperatureBroken = IconifyIconData.solo(
-    IconData(0xe1a6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `temperature-line-duotone` (duo-tone)
   static const IconifyIconData temperatureLineDuotone = IconifyIconData.duo(
-    IconData(0xe1a7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1a7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `temperature-linear`
   static const IconifyIconData temperatureLinear = IconifyIconData.solo(
-    IconData(0xe1a8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `temperature-outline`
   static const IconifyIconData temperatureOutline = IconifyIconData.solo(
-    IconData(0xe1a9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01a9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tennis-2-bold`
   static const IconifyIconData tennis2Bold = IconifyIconData.solo(
-    IconData(0xe1aa, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01aa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tennis-2-bold-duotone` (duo-tone)
   static const IconifyIconData tennis2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe1ab, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1ab, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ab, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ab, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tennis-2-broken`
   static const IconifyIconData tennis2Broken = IconifyIconData.solo(
-    IconData(0xe1ac, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ac, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tennis-2-line-duotone` (duo-tone)
   static const IconifyIconData tennis2LineDuotone = IconifyIconData.duo(
-    IconData(0xe1ad, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1ad, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ad, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tennis-2-linear`
   static const IconifyIconData tennis2Linear = IconifyIconData.solo(
-    IconData(0xe1ae, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ae, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tennis-2-outline`
   static const IconifyIconData tennis2Outline = IconifyIconData.solo(
-    IconData(0xe1af, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01af, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tennis-bold`
   static const IconifyIconData tennisBold = IconifyIconData.solo(
-    IconData(0xe1b0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tennis-bold-duotone` (duo-tone)
   static const IconifyIconData tennisBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1b1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1b1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tennis-broken`
   static const IconifyIconData tennisBroken = IconifyIconData.solo(
-    IconData(0xe1b2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tennis-line-duotone` (duo-tone)
   static const IconifyIconData tennisLineDuotone = IconifyIconData.duo(
-    IconData(0xe1b3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1b3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tennis-linear`
   static const IconifyIconData tennisLinear = IconifyIconData.solo(
-    IconData(0xe1b4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tennis-outline`
   static const IconifyIconData tennisOutline = IconifyIconData.solo(
-    IconData(0xe1b5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `test-tube-bold`
   static const IconifyIconData testTubeBold = IconifyIconData.solo(
-    IconData(0xe1b6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `test-tube-bold-duotone` (duo-tone)
   static const IconifyIconData testTubeBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1b7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1b7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `test-tube-broken`
   static const IconifyIconData testTubeBroken = IconifyIconData.solo(
-    IconData(0xe1b8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `test-tube-line-duotone` (duo-tone)
   static const IconifyIconData testTubeLineDuotone = IconifyIconData.duo(
-    IconData(0xe1b9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1b9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01b9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `test-tube-linear`
   static const IconifyIconData testTubeLinear = IconifyIconData.solo(
-    IconData(0xe1ba, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `test-tube-minimalistic-bold`
   static const IconifyIconData testTubeMinimalisticBold = IconifyIconData.solo(
-    IconData(0xe1bb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01bb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `test-tube-minimalistic-bold-duotone` (duo-tone)
   static const IconifyIconData testTubeMinimalisticBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1bc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1bc, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01bc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01bc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `test-tube-minimalistic-broken`
   static const IconifyIconData testTubeMinimalisticBroken = IconifyIconData.solo(
-    IconData(0xe1bd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01bd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `test-tube-minimalistic-line-duotone` (duo-tone)
   static const IconifyIconData testTubeMinimalisticLineDuotone = IconifyIconData.duo(
-    IconData(0xe1be, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1be, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01be, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01be, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `test-tube-minimalistic-linear`
   static const IconifyIconData testTubeMinimalisticLinear = IconifyIconData.solo(
-    IconData(0xe1bf, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01bf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `test-tube-minimalistic-outline`
   static const IconifyIconData testTubeMinimalisticOutline = IconifyIconData.solo(
-    IconData(0xe1c0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `test-tube-outline`
   static const IconifyIconData testTubeOutline = IconifyIconData.solo(
-    IconData(0xe1c1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold`
   static const IconifyIconData textBold = IconifyIconData.solo(
-    IconData(0xe1c2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-bold`
   static const IconifyIconData textBoldBold = IconifyIconData.solo(
-    IconData(0xe1c3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-bold-duotone` (duo-tone)
   static const IconifyIconData textBoldBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1c4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1c4, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-broken`
   static const IconifyIconData textBoldBroken = IconifyIconData.solo(
-    IconData(0xe1c5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-circle-bold`
   static const IconifyIconData textBoldCircleBold = IconifyIconData.solo(
-    IconData(0xe1c6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-circle-bold-duotone` (duo-tone)
   static const IconifyIconData textBoldCircleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1c7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1c7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-circle-broken`
   static const IconifyIconData textBoldCircleBroken = IconifyIconData.solo(
-    IconData(0xe1c8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-circle-line-duotone` (duo-tone)
   static const IconifyIconData textBoldCircleLineDuotone = IconifyIconData.duo(
-    IconData(0xe1c9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1c9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01c9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-circle-linear`
   static const IconifyIconData textBoldCircleLinear = IconifyIconData.solo(
-    IconData(0xe1ca, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ca, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-circle-outline`
   static const IconifyIconData textBoldCircleOutline = IconifyIconData.solo(
-    IconData(0xe1cb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01cb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-duotone` (duo-tone)
   static const IconifyIconData textBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1cc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1cc, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01cc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01cc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-line-duotone` (duo-tone)
   static const IconifyIconData textBoldLineDuotone = IconifyIconData.duo(
-    IconData(0xe1cd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1cd, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01cd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01cd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-linear`
   static const IconifyIconData textBoldLinear = IconifyIconData.solo(
-    IconData(0xe1ce, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ce, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-outline`
   static const IconifyIconData textBoldOutline = IconifyIconData.solo(
-    IconData(0xe1cf, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01cf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-square-bold`
   static const IconifyIconData textBoldSquareBold = IconifyIconData.solo(
-    IconData(0xe1d0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-square-bold-duotone` (duo-tone)
   static const IconifyIconData textBoldSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1d1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1d1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-square-broken`
   static const IconifyIconData textBoldSquareBroken = IconifyIconData.solo(
-    IconData(0xe1d2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-square-line-duotone` (duo-tone)
   static const IconifyIconData textBoldSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe1d3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1d3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-square-linear`
   static const IconifyIconData textBoldSquareLinear = IconifyIconData.solo(
-    IconData(0xe1d4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-bold-square-outline`
   static const IconifyIconData textBoldSquareOutline = IconifyIconData.solo(
-    IconData(0xe1d5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-broken`
   static const IconifyIconData textBroken = IconifyIconData.solo(
-    IconData(0xe1d6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-circle-bold`
   static const IconifyIconData textCircleBold = IconifyIconData.solo(
-    IconData(0xe1d7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-circle-bold-duotone` (duo-tone)
   static const IconifyIconData textCircleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1d8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1d8, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-circle-broken`
   static const IconifyIconData textCircleBroken = IconifyIconData.solo(
-    IconData(0xe1d9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01d9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-circle-line-duotone` (duo-tone)
   static const IconifyIconData textCircleLineDuotone = IconifyIconData.duo(
-    IconData(0xe1da, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1da, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01da, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01da, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-circle-linear`
   static const IconifyIconData textCircleLinear = IconifyIconData.solo(
-    IconData(0xe1db, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01db, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-circle-outline`
   static const IconifyIconData textCircleOutline = IconifyIconData.solo(
-    IconData(0xe1dc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01dc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-bold`
   static const IconifyIconData textCrossBold = IconifyIconData.solo(
-    IconData(0xe1dd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01dd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-bold-duotone` (duo-tone)
   static const IconifyIconData textCrossBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1de, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1de, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01de, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-broken`
   static const IconifyIconData textCrossBroken = IconifyIconData.solo(
-    IconData(0xe1df, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-circle-bold`
   static const IconifyIconData textCrossCircleBold = IconifyIconData.solo(
-    IconData(0xe1e0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-circle-bold-duotone` (duo-tone)
   static const IconifyIconData textCrossCircleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1e1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1e1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-circle-broken`
   static const IconifyIconData textCrossCircleBroken = IconifyIconData.solo(
-    IconData(0xe1e2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-circle-line-duotone` (duo-tone)
   static const IconifyIconData textCrossCircleLineDuotone = IconifyIconData.duo(
-    IconData(0xe1e3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1e3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-circle-linear`
   static const IconifyIconData textCrossCircleLinear = IconifyIconData.solo(
-    IconData(0xe1e4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-circle-outline`
   static const IconifyIconData textCrossCircleOutline = IconifyIconData.solo(
-    IconData(0xe1e5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-line-duotone` (duo-tone)
   static const IconifyIconData textCrossLineDuotone = IconifyIconData.duo(
-    IconData(0xe1e6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1e6, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e6, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-linear`
   static const IconifyIconData textCrossLinear = IconifyIconData.solo(
-    IconData(0xe1e7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-outline`
   static const IconifyIconData textCrossOutline = IconifyIconData.solo(
-    IconData(0xe1e8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-square-bold`
   static const IconifyIconData textCrossSquareBold = IconifyIconData.solo(
-    IconData(0xe1e9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01e9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-square-bold-duotone` (duo-tone)
   static const IconifyIconData textCrossSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1ea, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1ea, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ea, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ea, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-square-broken`
   static const IconifyIconData textCrossSquareBroken = IconifyIconData.solo(
-    IconData(0xe1eb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01eb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-square-line-duotone` (duo-tone)
   static const IconifyIconData textCrossSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe1ec, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1ec, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ec, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-square-linear`
   static const IconifyIconData textCrossSquareLinear = IconifyIconData.solo(
-    IconData(0xe1ed, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-cross-square-outline`
   static const IconifyIconData textCrossSquareOutline = IconifyIconData.solo(
-    IconData(0xe1ee, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ee, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-bold`
   static const IconifyIconData textFieldBold = IconifyIconData.solo(
-    IconData(0xe1ef, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-bold-duotone` (duo-tone)
   static const IconifyIconData textFieldBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1f0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1f0, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-broken`
   static const IconifyIconData textFieldBroken = IconifyIconData.solo(
-    IconData(0xe1f1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-focus-bold`
   static const IconifyIconData textFieldFocusBold = IconifyIconData.solo(
-    IconData(0xe1f2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-focus-bold-duotone` (duo-tone)
   static const IconifyIconData textFieldFocusBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1f3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1f3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-focus-broken`
   static const IconifyIconData textFieldFocusBroken = IconifyIconData.solo(
-    IconData(0xe1f4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-focus-line-duotone` (duo-tone)
   static const IconifyIconData textFieldFocusLineDuotone = IconifyIconData.duo(
-    IconData(0xe1f5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1f5, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-focus-linear`
   static const IconifyIconData textFieldFocusLinear = IconifyIconData.solo(
-    IconData(0xe1f6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-focus-outline`
   static const IconifyIconData textFieldFocusOutline = IconifyIconData.solo(
-    IconData(0xe1f7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-line-duotone` (duo-tone)
   static const IconifyIconData textFieldLineDuotone = IconifyIconData.duo(
-    IconData(0xe1f8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1f8, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-linear`
   static const IconifyIconData textFieldLinear = IconifyIconData.solo(
-    IconData(0xe1f9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01f9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-field-outline`
   static const IconifyIconData textFieldOutline = IconifyIconData.solo(
-    IconData(0xe1fa, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01fa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-bold`
   static const IconifyIconData textItalicBold = IconifyIconData.solo(
-    IconData(0xe1fb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01fb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-bold-duotone` (duo-tone)
   static const IconifyIconData textItalicBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1fc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1fc, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01fc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01fc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-broken`
   static const IconifyIconData textItalicBroken = IconifyIconData.solo(
-    IconData(0xe1fd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01fd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-circle-bold`
   static const IconifyIconData textItalicCircleBold = IconifyIconData.solo(
-    IconData(0xe1fe, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-circle-bold-duotone` (duo-tone)
   static const IconifyIconData textItalicCircleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe1ff, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe1ff, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf01ff, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-circle-broken`
   static const IconifyIconData textItalicCircleBroken = IconifyIconData.solo(
-    IconData(0xe200, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0200, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-circle-line-duotone` (duo-tone)
   static const IconifyIconData textItalicCircleLineDuotone = IconifyIconData.duo(
-    IconData(0xe201, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe201, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0201, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0201, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-circle-linear`
   static const IconifyIconData textItalicCircleLinear = IconifyIconData.solo(
-    IconData(0xe202, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0202, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-circle-outline`
   static const IconifyIconData textItalicCircleOutline = IconifyIconData.solo(
-    IconData(0xe203, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0203, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-line-duotone` (duo-tone)
   static const IconifyIconData textItalicLineDuotone = IconifyIconData.duo(
-    IconData(0xe204, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe204, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0204, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0204, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-linear`
   static const IconifyIconData textItalicLinear = IconifyIconData.solo(
-    IconData(0xe205, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0205, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-outline`
   static const IconifyIconData textItalicOutline = IconifyIconData.solo(
-    IconData(0xe206, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0206, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-square-bold`
   static const IconifyIconData textItalicSquareBold = IconifyIconData.solo(
-    IconData(0xe207, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0207, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-square-bold-duotone` (duo-tone)
   static const IconifyIconData textItalicSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe208, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe208, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0208, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0208, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-square-broken`
   static const IconifyIconData textItalicSquareBroken = IconifyIconData.solo(
-    IconData(0xe209, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0209, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-square-line-duotone` (duo-tone)
   static const IconifyIconData textItalicSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe20a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe20a, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf020a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf020a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-square-linear`
   static const IconifyIconData textItalicSquareLinear = IconifyIconData.solo(
-    IconData(0xe20b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf020b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-italic-square-outline`
   static const IconifyIconData textItalicSquareOutline = IconifyIconData.solo(
-    IconData(0xe20c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf020c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-line-duotone` (duo-tone)
   static const IconifyIconData textLineDuotone = IconifyIconData.duo(
-    IconData(0xe20d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe20d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf020d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf020d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-linear`
   static const IconifyIconData textLinear = IconifyIconData.solo(
-    IconData(0xe20e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf020e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-outline`
   static const IconifyIconData textOutline = IconifyIconData.solo(
-    IconData(0xe20f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf020f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-selection-bold`
   static const IconifyIconData textSelectionBold = IconifyIconData.solo(
-    IconData(0xe210, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0210, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-selection-bold-duotone` (duo-tone)
   static const IconifyIconData textSelectionBoldDuotone = IconifyIconData.duo(
-    IconData(0xe211, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe211, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0211, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0211, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-selection-broken`
   static const IconifyIconData textSelectionBroken = IconifyIconData.solo(
-    IconData(0xe212, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0212, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-selection-line-duotone` (duo-tone)
   static const IconifyIconData textSelectionLineDuotone = IconifyIconData.duo(
-    IconData(0xe213, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe213, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0213, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0213, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-selection-linear`
   static const IconifyIconData textSelectionLinear = IconifyIconData.solo(
-    IconData(0xe214, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0214, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-selection-outline`
   static const IconifyIconData textSelectionOutline = IconifyIconData.solo(
-    IconData(0xe215, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0215, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-2-bold`
   static const IconifyIconData textSquare2Bold = IconifyIconData.solo(
-    IconData(0xe216, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0216, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-2-bold-duotone` (duo-tone)
   static const IconifyIconData textSquare2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe217, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe217, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0217, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0217, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-2-broken`
   static const IconifyIconData textSquare2Broken = IconifyIconData.solo(
-    IconData(0xe218, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0218, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-2-line-duotone` (duo-tone)
   static const IconifyIconData textSquare2LineDuotone = IconifyIconData.duo(
-    IconData(0xe219, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe219, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0219, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0219, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-2-linear`
   static const IconifyIconData textSquare2Linear = IconifyIconData.solo(
-    IconData(0xe21a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf021a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-2-outline`
   static const IconifyIconData textSquare2Outline = IconifyIconData.solo(
-    IconData(0xe21b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf021b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-bold`
   static const IconifyIconData textSquareBold = IconifyIconData.solo(
-    IconData(0xe21c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf021c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-bold-duotone` (duo-tone)
   static const IconifyIconData textSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe21d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe21d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf021d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf021d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-broken`
   static const IconifyIconData textSquareBroken = IconifyIconData.solo(
-    IconData(0xe21e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf021e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-line-duotone` (duo-tone)
   static const IconifyIconData textSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe21f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe21f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf021f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf021f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-linear`
   static const IconifyIconData textSquareLinear = IconifyIconData.solo(
-    IconData(0xe220, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0220, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-square-outline`
   static const IconifyIconData textSquareOutline = IconifyIconData.solo(
-    IconData(0xe221, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0221, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-bold`
   static const IconifyIconData textUnderlineBold = IconifyIconData.solo(
-    IconData(0xe222, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0222, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-bold-duotone` (duo-tone)
   static const IconifyIconData textUnderlineBoldDuotone = IconifyIconData.duo(
-    IconData(0xe223, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe223, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0223, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0223, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-broken`
   static const IconifyIconData textUnderlineBroken = IconifyIconData.solo(
-    IconData(0xe224, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0224, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-circle-bold`
   static const IconifyIconData textUnderlineCircleBold = IconifyIconData.solo(
-    IconData(0xe225, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0225, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-circle-bold-duotone` (duo-tone)
   static const IconifyIconData textUnderlineCircleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe226, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe226, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0226, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0226, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-circle-broken`
   static const IconifyIconData textUnderlineCircleBroken = IconifyIconData.solo(
-    IconData(0xe227, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0227, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-circle-line-duotone` (duo-tone)
   static const IconifyIconData textUnderlineCircleLineDuotone = IconifyIconData.duo(
-    IconData(0xe228, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe228, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0228, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0228, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-circle-linear`
   static const IconifyIconData textUnderlineCircleLinear = IconifyIconData.solo(
-    IconData(0xe229, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0229, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-circle-outline`
   static const IconifyIconData textUnderlineCircleOutline = IconifyIconData.solo(
-    IconData(0xe22a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf022a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-cross-bold`
   static const IconifyIconData textUnderlineCrossBold = IconifyIconData.solo(
-    IconData(0xe22b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf022b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-cross-bold-duotone` (duo-tone)
   static const IconifyIconData textUnderlineCrossBoldDuotone = IconifyIconData.duo(
-    IconData(0xe22c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe22c, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf022c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf022c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-cross-broken`
   static const IconifyIconData textUnderlineCrossBroken = IconifyIconData.solo(
-    IconData(0xe22d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf022d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-cross-line-duotone` (duo-tone)
   static const IconifyIconData textUnderlineCrossLineDuotone = IconifyIconData.duo(
-    IconData(0xe22e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe22e, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf022e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf022e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-cross-linear`
   static const IconifyIconData textUnderlineCrossLinear = IconifyIconData.solo(
-    IconData(0xe22f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf022f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-cross-outline`
   static const IconifyIconData textUnderlineCrossOutline = IconifyIconData.solo(
-    IconData(0xe230, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0230, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-line-duotone` (duo-tone)
   static const IconifyIconData textUnderlineLineDuotone = IconifyIconData.duo(
-    IconData(0xe231, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe231, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0231, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0231, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-linear`
   static const IconifyIconData textUnderlineLinear = IconifyIconData.solo(
-    IconData(0xe232, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0232, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `text-underline-outline`
   static const IconifyIconData textUnderlineOutline = IconifyIconData.solo(
-    IconData(0xe233, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0233, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `thermometer-bold`
   static const IconifyIconData thermometerBold = IconifyIconData.solo(
-    IconData(0xe234, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0234, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `thermometer-bold-duotone` (duo-tone)
   static const IconifyIconData thermometerBoldDuotone = IconifyIconData.duo(
-    IconData(0xe235, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe235, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0235, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0235, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `thermometer-broken`
   static const IconifyIconData thermometerBroken = IconifyIconData.solo(
-    IconData(0xe236, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0236, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `thermometer-line-duotone` (duo-tone)
   static const IconifyIconData thermometerLineDuotone = IconifyIconData.duo(
-    IconData(0xe237, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe237, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0237, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0237, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `thermometer-linear`
   static const IconifyIconData thermometerLinear = IconifyIconData.solo(
-    IconData(0xe238, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0238, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `thermometer-outline`
   static const IconifyIconData thermometerOutline = IconifyIconData.solo(
-    IconData(0xe239, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0239, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `three-squares-bold`
   static const IconifyIconData threeSquaresBold = IconifyIconData.solo(
-    IconData(0xe23a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf023a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `three-squares-bold-duotone` (duo-tone)
   static const IconifyIconData threeSquaresBoldDuotone = IconifyIconData.duo(
-    IconData(0xe23b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe23b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf023b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf023b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `three-squares-broken`
   static const IconifyIconData threeSquaresBroken = IconifyIconData.solo(
-    IconData(0xe23c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf023c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `three-squares-line-duotone` (duo-tone)
   static const IconifyIconData threeSquaresLineDuotone = IconifyIconData.duo(
-    IconData(0xe23d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe23d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf023d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf023d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `three-squares-linear`
   static const IconifyIconData threeSquaresLinear = IconifyIconData.solo(
-    IconData(0xe23e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf023e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `three-squares-outline`
   static const IconifyIconData threeSquaresOutline = IconifyIconData.solo(
-    IconData(0xe23f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf023f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticker-star-bold`
   static const IconifyIconData tickerStarBold = IconifyIconData.solo(
-    IconData(0xe240, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0240, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticker-star-bold-duotone` (duo-tone)
   static const IconifyIconData tickerStarBoldDuotone = IconifyIconData.duo(
-    IconData(0xe241, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe241, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0241, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0241, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticker-star-broken`
   static const IconifyIconData tickerStarBroken = IconifyIconData.solo(
-    IconData(0xe242, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0242, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticker-star-line-duotone` (duo-tone)
   static const IconifyIconData tickerStarLineDuotone = IconifyIconData.duo(
-    IconData(0xe243, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe243, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0243, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0243, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticker-star-linear`
   static const IconifyIconData tickerStarLinear = IconifyIconData.solo(
-    IconData(0xe244, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0244, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticker-star-outline`
   static const IconifyIconData tickerStarOutline = IconifyIconData.solo(
-    IconData(0xe245, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0245, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticket-bold`
   static const IconifyIconData ticketBold = IconifyIconData.solo(
-    IconData(0xe246, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0246, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticket-bold-duotone` (duo-tone)
   static const IconifyIconData ticketBoldDuotone = IconifyIconData.duo(
-    IconData(0xe247, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe247, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0247, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0247, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticket-broken`
   static const IconifyIconData ticketBroken = IconifyIconData.solo(
-    IconData(0xe248, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0248, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticket-line-duotone` (duo-tone)
   static const IconifyIconData ticketLineDuotone = IconifyIconData.duo(
-    IconData(0xe249, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe249, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0249, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0249, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticket-linear`
   static const IconifyIconData ticketLinear = IconifyIconData.solo(
-    IconData(0xe24a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf024a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticket-outline`
   static const IconifyIconData ticketOutline = IconifyIconData.solo(
-    IconData(0xe24b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf024b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticket-sale-bold`
   static const IconifyIconData ticketSaleBold = IconifyIconData.solo(
-    IconData(0xe24c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf024c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticket-sale-bold-duotone` (duo-tone)
   static const IconifyIconData ticketSaleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe24d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe24d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf024d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf024d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticket-sale-broken`
   static const IconifyIconData ticketSaleBroken = IconifyIconData.solo(
-    IconData(0xe24e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf024e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticket-sale-line-duotone` (duo-tone)
   static const IconifyIconData ticketSaleLineDuotone = IconifyIconData.duo(
-    IconData(0xe24f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe24f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf024f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf024f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticket-sale-linear`
   static const IconifyIconData ticketSaleLinear = IconifyIconData.solo(
-    IconData(0xe250, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0250, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ticket-sale-outline`
   static const IconifyIconData ticketSaleOutline = IconifyIconData.solo(
-    IconData(0xe251, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0251, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `to-pip-bold`
   static const IconifyIconData toPipBold = IconifyIconData.solo(
-    IconData(0xe252, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0252, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `to-pip-bold-duotone` (duo-tone)
   static const IconifyIconData toPipBoldDuotone = IconifyIconData.duo(
-    IconData(0xe253, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe253, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0253, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0253, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `to-pip-broken`
   static const IconifyIconData toPipBroken = IconifyIconData.solo(
-    IconData(0xe254, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0254, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `to-pip-line-duotone` (duo-tone)
   static const IconifyIconData toPipLineDuotone = IconifyIconData.duo(
-    IconData(0xe255, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe255, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0255, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0255, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `to-pip-linear`
   static const IconifyIconData toPipLinear = IconifyIconData.solo(
-    IconData(0xe256, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0256, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `to-pip-outline`
   static const IconifyIconData toPipOutline = IconifyIconData.solo(
-    IconData(0xe257, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0257, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tornado-bold`
   static const IconifyIconData tornadoBold = IconifyIconData.solo(
-    IconData(0xe258, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0258, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tornado-bold-duotone` (duo-tone)
   static const IconifyIconData tornadoBoldDuotone = IconifyIconData.duo(
-    IconData(0xe259, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe259, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0259, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0259, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tornado-broken`
   static const IconifyIconData tornadoBroken = IconifyIconData.solo(
-    IconData(0xe25a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf025a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tornado-line-duotone` (duo-tone)
   static const IconifyIconData tornadoLineDuotone = IconifyIconData.duo(
-    IconData(0xe25b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe25b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf025b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf025b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tornado-linear`
   static const IconifyIconData tornadoLinear = IconifyIconData.solo(
-    IconData(0xe25c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf025c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tornado-outline`
   static const IconifyIconData tornadoOutline = IconifyIconData.solo(
-    IconData(0xe25d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf025d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tornado-small-bold`
   static const IconifyIconData tornadoSmallBold = IconifyIconData.solo(
-    IconData(0xe25e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf025e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tornado-small-bold-duotone` (duo-tone)
   static const IconifyIconData tornadoSmallBoldDuotone = IconifyIconData.duo(
-    IconData(0xe25f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe25f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf025f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf025f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tornado-small-broken`
   static const IconifyIconData tornadoSmallBroken = IconifyIconData.solo(
-    IconData(0xe260, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0260, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tornado-small-line-duotone` (duo-tone)
   static const IconifyIconData tornadoSmallLineDuotone = IconifyIconData.duo(
-    IconData(0xe261, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe261, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0261, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0261, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tornado-small-linear`
   static const IconifyIconData tornadoSmallLinear = IconifyIconData.solo(
-    IconData(0xe262, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0262, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tornado-small-outline`
   static const IconifyIconData tornadoSmallOutline = IconifyIconData.solo(
-    IconData(0xe263, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0263, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-bold`
   static const IconifyIconData trafficBold = IconifyIconData.solo(
-    IconData(0xe264, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0264, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-bold-duotone` (duo-tone)
   static const IconifyIconData trafficBoldDuotone = IconifyIconData.duo(
-    IconData(0xe265, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe265, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0265, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0265, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-broken`
   static const IconifyIconData trafficBroken = IconifyIconData.solo(
-    IconData(0xe266, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0266, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-economy-bold`
   static const IconifyIconData trafficEconomyBold = IconifyIconData.solo(
-    IconData(0xe267, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0267, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-economy-bold-duotone` (duo-tone)
   static const IconifyIconData trafficEconomyBoldDuotone = IconifyIconData.duo(
-    IconData(0xe268, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe268, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0268, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0268, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-economy-broken`
   static const IconifyIconData trafficEconomyBroken = IconifyIconData.solo(
-    IconData(0xe269, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0269, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-economy-line-duotone` (duo-tone)
   static const IconifyIconData trafficEconomyLineDuotone = IconifyIconData.duo(
-    IconData(0xe26a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe26a, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf026a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf026a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-economy-linear`
   static const IconifyIconData trafficEconomyLinear = IconifyIconData.solo(
-    IconData(0xe26b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf026b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-economy-outline`
   static const IconifyIconData trafficEconomyOutline = IconifyIconData.solo(
-    IconData(0xe26c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf026c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-line-duotone` (duo-tone)
   static const IconifyIconData trafficLineDuotone = IconifyIconData.duo(
-    IconData(0xe26d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe26d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf026d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf026d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-linear`
   static const IconifyIconData trafficLinear = IconifyIconData.solo(
-    IconData(0xe26e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf026e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `traffic-outline`
   static const IconifyIconData trafficOutline = IconifyIconData.solo(
-    IconData(0xe26f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf026f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tram-bold`
   static const IconifyIconData tramBold = IconifyIconData.solo(
-    IconData(0xe270, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0270, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tram-bold-duotone` (duo-tone)
   static const IconifyIconData tramBoldDuotone = IconifyIconData.duo(
-    IconData(0xe271, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe271, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0271, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0271, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tram-broken`
   static const IconifyIconData tramBroken = IconifyIconData.solo(
-    IconData(0xe272, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0272, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tram-line-duotone` (duo-tone)
   static const IconifyIconData tramLineDuotone = IconifyIconData.duo(
-    IconData(0xe273, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe273, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0273, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0273, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tram-linear`
   static const IconifyIconData tramLinear = IconifyIconData.solo(
-    IconData(0xe274, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0274, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tram-outline`
   static const IconifyIconData tramOutline = IconifyIconData.solo(
-    IconData(0xe275, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0275, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transfer-horizontal-bold`
   static const IconifyIconData transferHorizontalBold = IconifyIconData.solo(
-    IconData(0xe276, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0276, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transfer-horizontal-bold-duotone` (duo-tone)
   static const IconifyIconData transferHorizontalBoldDuotone = IconifyIconData.duo(
-    IconData(0xe277, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe277, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0277, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0277, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transfer-horizontal-broken`
   static const IconifyIconData transferHorizontalBroken = IconifyIconData.solo(
-    IconData(0xe278, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0278, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transfer-horizontal-line-duotone` (duo-tone)
   static const IconifyIconData transferHorizontalLineDuotone = IconifyIconData.duo(
-    IconData(0xe279, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe279, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0279, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0279, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transfer-horizontal-linear`
   static const IconifyIconData transferHorizontalLinear = IconifyIconData.solo(
-    IconData(0xe27a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf027a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transfer-horizontal-outline`
   static const IconifyIconData transferHorizontalOutline = IconifyIconData.solo(
-    IconData(0xe27b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf027b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transfer-vertical-bold`
   static const IconifyIconData transferVerticalBold = IconifyIconData.solo(
-    IconData(0xe27c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf027c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transfer-vertical-bold-duotone` (duo-tone)
   static const IconifyIconData transferVerticalBoldDuotone = IconifyIconData.duo(
-    IconData(0xe27d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe27d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf027d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf027d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transfer-vertical-broken`
   static const IconifyIconData transferVerticalBroken = IconifyIconData.solo(
-    IconData(0xe27e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf027e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transfer-vertical-line-duotone` (duo-tone)
   static const IconifyIconData transferVerticalLineDuotone = IconifyIconData.duo(
-    IconData(0xe27f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe27f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf027f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf027f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transfer-vertical-linear`
   static const IconifyIconData transferVerticalLinear = IconifyIconData.solo(
-    IconData(0xe280, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0280, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transfer-vertical-outline`
   static const IconifyIconData transferVerticalOutline = IconifyIconData.solo(
-    IconData(0xe281, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0281, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-2-bold`
   static const IconifyIconData translation2Bold = IconifyIconData.solo(
-    IconData(0xe282, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0282, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-2-bold-duotone` (duo-tone)
   static const IconifyIconData translation2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe283, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe283, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0283, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0283, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-2-broken`
   static const IconifyIconData translation2Broken = IconifyIconData.solo(
-    IconData(0xe284, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0284, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-2-line-duotone` (duo-tone)
   static const IconifyIconData translation2LineDuotone = IconifyIconData.duo(
-    IconData(0xe285, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe285, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0285, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0285, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-2-linear`
   static const IconifyIconData translation2Linear = IconifyIconData.solo(
-    IconData(0xe286, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0286, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-2-outline`
   static const IconifyIconData translation2Outline = IconifyIconData.solo(
-    IconData(0xe287, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0287, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-bold`
   static const IconifyIconData translationBold = IconifyIconData.solo(
-    IconData(0xe288, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0288, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-bold-duotone` (duo-tone)
   static const IconifyIconData translationBoldDuotone = IconifyIconData.duo(
-    IconData(0xe289, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe289, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0289, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0289, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-broken`
   static const IconifyIconData translationBroken = IconifyIconData.solo(
-    IconData(0xe28a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf028a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-line-duotone` (duo-tone)
   static const IconifyIconData translationLineDuotone = IconifyIconData.duo(
-    IconData(0xe28b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe28b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf028b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf028b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-linear`
   static const IconifyIconData translationLinear = IconifyIconData.solo(
-    IconData(0xe28c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf028c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `translation-outline`
   static const IconifyIconData translationOutline = IconifyIconData.solo(
-    IconData(0xe28d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf028d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-bold`
   static const IconifyIconData transmissionBold = IconifyIconData.solo(
-    IconData(0xe28e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf028e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-bold-duotone` (duo-tone)
   static const IconifyIconData transmissionBoldDuotone = IconifyIconData.duo(
-    IconData(0xe28f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe28f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf028f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf028f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-broken`
   static const IconifyIconData transmissionBroken = IconifyIconData.solo(
-    IconData(0xe290, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0290, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-circle-bold`
   static const IconifyIconData transmissionCircleBold = IconifyIconData.solo(
-    IconData(0xe291, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0291, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-circle-bold-duotone` (duo-tone)
   static const IconifyIconData transmissionCircleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe292, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe292, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0292, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0292, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-circle-broken`
   static const IconifyIconData transmissionCircleBroken = IconifyIconData.solo(
-    IconData(0xe293, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0293, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-circle-line-duotone` (duo-tone)
   static const IconifyIconData transmissionCircleLineDuotone = IconifyIconData.duo(
-    IconData(0xe294, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe294, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0294, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0294, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-circle-linear`
   static const IconifyIconData transmissionCircleLinear = IconifyIconData.solo(
-    IconData(0xe295, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0295, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-circle-outline`
   static const IconifyIconData transmissionCircleOutline = IconifyIconData.solo(
-    IconData(0xe296, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0296, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-line-duotone` (duo-tone)
   static const IconifyIconData transmissionLineDuotone = IconifyIconData.duo(
-    IconData(0xe297, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe297, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0297, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0297, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-linear`
   static const IconifyIconData transmissionLinear = IconifyIconData.solo(
-    IconData(0xe298, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0298, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-outline`
   static const IconifyIconData transmissionOutline = IconifyIconData.solo(
-    IconData(0xe299, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0299, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-square-bold`
   static const IconifyIconData transmissionSquareBold = IconifyIconData.solo(
-    IconData(0xe29a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf029a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-square-bold-duotone` (duo-tone)
   static const IconifyIconData transmissionSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe29b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe29b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf029b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf029b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-square-broken`
   static const IconifyIconData transmissionSquareBroken = IconifyIconData.solo(
-    IconData(0xe29c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf029c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-square-line-duotone` (duo-tone)
   static const IconifyIconData transmissionSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe29d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe29d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf029d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf029d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-square-linear`
   static const IconifyIconData transmissionSquareLinear = IconifyIconData.solo(
-    IconData(0xe29e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf029e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `transmission-square-outline`
   static const IconifyIconData transmissionSquareOutline = IconifyIconData.solo(
-    IconData(0xe29f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf029f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-2-bold`
   static const IconifyIconData trashBin2Bold = IconifyIconData.solo(
-    IconData(0xe2a0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-2-bold-duotone` (duo-tone)
   static const IconifyIconData trashBin2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe2a1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2a1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-2-broken`
   static const IconifyIconData trashBin2Broken = IconifyIconData.solo(
-    IconData(0xe2a2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-2-line-duotone` (duo-tone)
   static const IconifyIconData trashBin2LineDuotone = IconifyIconData.duo(
-    IconData(0xe2a3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2a3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-2-linear`
   static const IconifyIconData trashBin2Linear = IconifyIconData.solo(
-    IconData(0xe2a4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-2-outline`
   static const IconifyIconData trashBin2Outline = IconifyIconData.solo(
-    IconData(0xe2a5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-2-bold`
   static const IconifyIconData trashBinMinimalistic2Bold = IconifyIconData.solo(
-    IconData(0xe2a6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-2-bold-duotone` (duo-tone)
   static const IconifyIconData trashBinMinimalistic2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe2a7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2a7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-2-broken`
   static const IconifyIconData trashBinMinimalistic2Broken = IconifyIconData.solo(
-    IconData(0xe2a8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-2-line-duotone` (duo-tone)
   static const IconifyIconData trashBinMinimalistic2LineDuotone = IconifyIconData.duo(
-    IconData(0xe2a9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2a9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02a9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-2-linear`
   static const IconifyIconData trashBinMinimalistic2Linear = IconifyIconData.solo(
-    IconData(0xe2aa, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02aa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-2-outline`
   static const IconifyIconData trashBinMinimalistic2Outline = IconifyIconData.solo(
-    IconData(0xe2ab, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ab, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-bold`
   static const IconifyIconData trashBinMinimalisticBold = IconifyIconData.solo(
-    IconData(0xe2ac, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ac, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-bold-duotone` (duo-tone)
   static const IconifyIconData trashBinMinimalisticBoldDuotone = IconifyIconData.duo(
-    IconData(0xe2ad, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2ad, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ad, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-broken`
   static const IconifyIconData trashBinMinimalisticBroken = IconifyIconData.solo(
-    IconData(0xe2ae, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ae, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-line-duotone` (duo-tone)
   static const IconifyIconData trashBinMinimalisticLineDuotone = IconifyIconData.duo(
-    IconData(0xe2af, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2af, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02af, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02af, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-linear`
   static const IconifyIconData trashBinMinimalisticLinear = IconifyIconData.solo(
-    IconData(0xe2b0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-minimalistic-outline`
   static const IconifyIconData trashBinMinimalisticOutline = IconifyIconData.solo(
-    IconData(0xe2b1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-trash-bold`
   static const IconifyIconData trashBinTrashBold = IconifyIconData.solo(
-    IconData(0xe2b2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-trash-bold-duotone` (duo-tone)
   static const IconifyIconData trashBinTrashBoldDuotone = IconifyIconData.duo(
-    IconData(0xe2b3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2b3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-trash-broken`
   static const IconifyIconData trashBinTrashBroken = IconifyIconData.solo(
-    IconData(0xe2b4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-trash-line-duotone` (duo-tone)
   static const IconifyIconData trashBinTrashLineDuotone = IconifyIconData.duo(
-    IconData(0xe2b5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2b5, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-trash-linear`
   static const IconifyIconData trashBinTrashLinear = IconifyIconData.solo(
-    IconData(0xe2b6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trash-bin-trash-outline`
   static const IconifyIconData trashBinTrashOutline = IconifyIconData.solo(
-    IconData(0xe2b7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `treadmill-bold`
   static const IconifyIconData treadmillBold = IconifyIconData.solo(
-    IconData(0xe2b8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `treadmill-bold-duotone` (duo-tone)
   static const IconifyIconData treadmillBoldDuotone = IconifyIconData.duo(
-    IconData(0xe2b9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2b9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02b9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `treadmill-broken`
   static const IconifyIconData treadmillBroken = IconifyIconData.solo(
-    IconData(0xe2ba, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `treadmill-line-duotone` (duo-tone)
   static const IconifyIconData treadmillLineDuotone = IconifyIconData.duo(
-    IconData(0xe2bb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2bb, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02bb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02bb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `treadmill-linear`
   static const IconifyIconData treadmillLinear = IconifyIconData.solo(
-    IconData(0xe2bc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02bc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `treadmill-outline`
   static const IconifyIconData treadmillOutline = IconifyIconData.solo(
-    IconData(0xe2bd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02bd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `treadmill-round-bold`
   static const IconifyIconData treadmillRoundBold = IconifyIconData.solo(
-    IconData(0xe2be, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02be, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `treadmill-round-bold-duotone` (duo-tone)
   static const IconifyIconData treadmillRoundBoldDuotone = IconifyIconData.duo(
-    IconData(0xe2bf, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2bf, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02bf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02bf, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `treadmill-round-broken`
   static const IconifyIconData treadmillRoundBroken = IconifyIconData.solo(
-    IconData(0xe2c0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `treadmill-round-line-duotone` (duo-tone)
   static const IconifyIconData treadmillRoundLineDuotone = IconifyIconData.duo(
-    IconData(0xe2c1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2c1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `treadmill-round-linear`
   static const IconifyIconData treadmillRoundLinear = IconifyIconData.solo(
-    IconData(0xe2c2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `treadmill-round-outline`
   static const IconifyIconData treadmillRoundOutline = IconifyIconData.solo(
-    IconData(0xe2c3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trellis-bold`
   static const IconifyIconData trellisBold = IconifyIconData.solo(
-    IconData(0xe2c4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trellis-bold-duotone` (duo-tone)
   static const IconifyIconData trellisBoldDuotone = IconifyIconData.duo(
-    IconData(0xe2c5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2c5, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trellis-broken`
   static const IconifyIconData trellisBroken = IconifyIconData.solo(
-    IconData(0xe2c6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trellis-line-duotone` (duo-tone)
   static const IconifyIconData trellisLineDuotone = IconifyIconData.duo(
-    IconData(0xe2c7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2c7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trellis-linear`
   static const IconifyIconData trellisLinear = IconifyIconData.solo(
-    IconData(0xe2c8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `trellis-outline`
   static const IconifyIconData trellisOutline = IconifyIconData.solo(
-    IconData(0xe2c9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-2-bold`
   static const IconifyIconData tuning2Bold = IconifyIconData.solo(
-    IconData(0xe2ca, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ca, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-2-bold-duotone` (duo-tone)
   static const IconifyIconData tuning2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe2cb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2cb, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02cb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02cb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-2-broken`
   static const IconifyIconData tuning2Broken = IconifyIconData.solo(
-    IconData(0xe2cc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02cc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-2-line-duotone` (duo-tone)
   static const IconifyIconData tuning2LineDuotone = IconifyIconData.duo(
-    IconData(0xe2cd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2cd, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02cd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02cd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-2-linear`
   static const IconifyIconData tuning2Linear = IconifyIconData.solo(
-    IconData(0xe2ce, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ce, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-2-outline`
   static const IconifyIconData tuning2Outline = IconifyIconData.solo(
-    IconData(0xe2cf, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02cf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-3-bold`
   static const IconifyIconData tuning3Bold = IconifyIconData.solo(
-    IconData(0xe2d0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-3-bold-duotone` (duo-tone)
   static const IconifyIconData tuning3BoldDuotone = IconifyIconData.duo(
-    IconData(0xe2d1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2d1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-3-broken`
   static const IconifyIconData tuning3Broken = IconifyIconData.solo(
-    IconData(0xe2d2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-3-line-duotone` (duo-tone)
   static const IconifyIconData tuning3LineDuotone = IconifyIconData.duo(
-    IconData(0xe2d3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2d3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-3-linear`
   static const IconifyIconData tuning3Linear = IconifyIconData.solo(
-    IconData(0xe2d4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-3-outline`
   static const IconifyIconData tuning3Outline = IconifyIconData.solo(
-    IconData(0xe2d5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-4-bold`
   static const IconifyIconData tuning4Bold = IconifyIconData.solo(
-    IconData(0xe2d6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-4-bold-duotone` (duo-tone)
   static const IconifyIconData tuning4BoldDuotone = IconifyIconData.duo(
-    IconData(0xe2d7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2d7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-4-broken`
   static const IconifyIconData tuning4Broken = IconifyIconData.solo(
-    IconData(0xe2d8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-4-line-duotone` (duo-tone)
   static const IconifyIconData tuning4LineDuotone = IconifyIconData.duo(
-    IconData(0xe2d9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2d9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02d9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-4-linear`
   static const IconifyIconData tuning4Linear = IconifyIconData.solo(
-    IconData(0xe2da, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02da, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-4-outline`
   static const IconifyIconData tuning4Outline = IconifyIconData.solo(
-    IconData(0xe2db, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02db, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-bold`
   static const IconifyIconData tuningBold = IconifyIconData.solo(
-    IconData(0xe2dc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02dc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-bold-duotone` (duo-tone)
   static const IconifyIconData tuningBoldDuotone = IconifyIconData.duo(
-    IconData(0xe2dd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2dd, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02dd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02dd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-broken`
   static const IconifyIconData tuningBroken = IconifyIconData.solo(
-    IconData(0xe2de, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-line-duotone` (duo-tone)
   static const IconifyIconData tuningLineDuotone = IconifyIconData.duo(
-    IconData(0xe2df, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2df, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02df, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-linear`
   static const IconifyIconData tuningLinear = IconifyIconData.solo(
-    IconData(0xe2e0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-outline`
   static const IconifyIconData tuningOutline = IconifyIconData.solo(
-    IconData(0xe2e1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-2-bold`
   static const IconifyIconData tuningSquare2Bold = IconifyIconData.solo(
-    IconData(0xe2e2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-2-bold-duotone` (duo-tone)
   static const IconifyIconData tuningSquare2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe2e3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2e3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-2-broken`
   static const IconifyIconData tuningSquare2Broken = IconifyIconData.solo(
-    IconData(0xe2e4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-2-line-duotone` (duo-tone)
   static const IconifyIconData tuningSquare2LineDuotone = IconifyIconData.duo(
-    IconData(0xe2e5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2e5, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-2-linear`
   static const IconifyIconData tuningSquare2Linear = IconifyIconData.solo(
-    IconData(0xe2e6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-2-outline`
   static const IconifyIconData tuningSquare2Outline = IconifyIconData.solo(
-    IconData(0xe2e7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-bold`
   static const IconifyIconData tuningSquareBold = IconifyIconData.solo(
-    IconData(0xe2e8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-bold-duotone` (duo-tone)
   static const IconifyIconData tuningSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe2e9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2e9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02e9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-broken`
   static const IconifyIconData tuningSquareBroken = IconifyIconData.solo(
-    IconData(0xe2ea, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ea, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-line-duotone` (duo-tone)
   static const IconifyIconData tuningSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe2eb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2eb, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02eb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02eb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-linear`
   static const IconifyIconData tuningSquareLinear = IconifyIconData.solo(
-    IconData(0xe2ec, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tuning-square-outline`
   static const IconifyIconData tuningSquareOutline = IconifyIconData.solo(
-    IconData(0xe2ed, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-bold`
   static const IconifyIconData turntableBold = IconifyIconData.solo(
-    IconData(0xe2ee, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ee, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-bold-duotone` (duo-tone)
   static const IconifyIconData turntableBoldDuotone = IconifyIconData.duo(
-    IconData(0xe2ef, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2ef, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ef, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-broken`
   static const IconifyIconData turntableBroken = IconifyIconData.solo(
-    IconData(0xe2f0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-line-duotone` (duo-tone)
   static const IconifyIconData turntableLineDuotone = IconifyIconData.duo(
-    IconData(0xe2f1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2f1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-linear`
   static const IconifyIconData turntableLinear = IconifyIconData.solo(
-    IconData(0xe2f2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-minimalistic-bold`
   static const IconifyIconData turntableMinimalisticBold = IconifyIconData.solo(
-    IconData(0xe2f3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-minimalistic-bold-duotone` (duo-tone)
   static const IconifyIconData turntableMinimalisticBoldDuotone = IconifyIconData.duo(
-    IconData(0xe2f4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2f4, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-minimalistic-broken`
   static const IconifyIconData turntableMinimalisticBroken = IconifyIconData.solo(
-    IconData(0xe2f5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-minimalistic-line-duotone` (duo-tone)
   static const IconifyIconData turntableMinimalisticLineDuotone = IconifyIconData.duo(
-    IconData(0xe2f6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2f6, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f6, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-minimalistic-linear`
   static const IconifyIconData turntableMinimalisticLinear = IconifyIconData.solo(
-    IconData(0xe2f7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-minimalistic-outline`
   static const IconifyIconData turntableMinimalisticOutline = IconifyIconData.solo(
-    IconData(0xe2f8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-music-note-bold`
   static const IconifyIconData turntableMusicNoteBold = IconifyIconData.solo(
-    IconData(0xe2f9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02f9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-music-note-bold-duotone` (duo-tone)
   static const IconifyIconData turntableMusicNoteBoldDuotone = IconifyIconData.duo(
-    IconData(0xe2fa, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2fa, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02fa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02fa, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-music-note-broken`
   static const IconifyIconData turntableMusicNoteBroken = IconifyIconData.solo(
-    IconData(0xe2fb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02fb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-music-note-line-duotone` (duo-tone)
   static const IconifyIconData turntableMusicNoteLineDuotone = IconifyIconData.duo(
-    IconData(0xe2fc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe2fc, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02fc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02fc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-music-note-linear`
   static const IconifyIconData turntableMusicNoteLinear = IconifyIconData.solo(
-    IconData(0xe2fd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02fd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-music-note-outline`
   static const IconifyIconData turntableMusicNoteOutline = IconifyIconData.solo(
-    IconData(0xe2fe, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `turntable-outline`
   static const IconifyIconData turntableOutline = IconifyIconData.solo(
-    IconData(0xe2ff, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf02ff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tv-bold`
   static const IconifyIconData tvBold = IconifyIconData.solo(
-    IconData(0xe300, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0300, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tv-bold-duotone` (duo-tone)
   static const IconifyIconData tvBoldDuotone = IconifyIconData.duo(
-    IconData(0xe301, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe301, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0301, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0301, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tv-broken`
   static const IconifyIconData tvBroken = IconifyIconData.solo(
-    IconData(0xe302, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0302, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tv-line-duotone` (duo-tone)
   static const IconifyIconData tvLineDuotone = IconifyIconData.duo(
-    IconData(0xe303, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe303, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0303, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0303, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tv-linear`
   static const IconifyIconData tvLinear = IconifyIconData.solo(
-    IconData(0xe304, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0304, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `tv-outline`
   static const IconifyIconData tvOutline = IconifyIconData.solo(
-    IconData(0xe305, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0305, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-2-bold`
   static const IconifyIconData ufo2Bold = IconifyIconData.solo(
-    IconData(0xe306, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0306, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-2-bold-duotone` (duo-tone)
   static const IconifyIconData ufo2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe307, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe307, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0307, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0307, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-2-broken`
   static const IconifyIconData ufo2Broken = IconifyIconData.solo(
-    IconData(0xe308, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0308, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-2-line-duotone`
   static const IconifyIconData ufo2LineDuotone = IconifyIconData.solo(
-    IconData(0xe309, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0309, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-2-linear`
   static const IconifyIconData ufo2Linear = IconifyIconData.solo(
-    IconData(0xe30a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf030a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-2-outline`
   static const IconifyIconData ufo2Outline = IconifyIconData.solo(
-    IconData(0xe30b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf030b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-3-bold`
   static const IconifyIconData ufo3Bold = IconifyIconData.solo(
-    IconData(0xe30c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf030c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-3-bold-duotone` (duo-tone)
   static const IconifyIconData ufo3BoldDuotone = IconifyIconData.duo(
-    IconData(0xe30d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe30d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf030d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf030d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-3-broken`
   static const IconifyIconData ufo3Broken = IconifyIconData.solo(
-    IconData(0xe30e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf030e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-3-line-duotone`
   static const IconifyIconData ufo3LineDuotone = IconifyIconData.solo(
-    IconData(0xe30f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf030f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-3-linear`
   static const IconifyIconData ufo3Linear = IconifyIconData.solo(
-    IconData(0xe310, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0310, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-3-outline`
   static const IconifyIconData ufo3Outline = IconifyIconData.solo(
-    IconData(0xe311, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0311, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-bold`
   static const IconifyIconData ufoBold = IconifyIconData.solo(
-    IconData(0xe312, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0312, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-bold-duotone` (duo-tone)
   static const IconifyIconData ufoBoldDuotone = IconifyIconData.duo(
-    IconData(0xe313, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe313, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0313, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0313, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-broken`
   static const IconifyIconData ufoBroken = IconifyIconData.solo(
-    IconData(0xe314, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0314, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-line-duotone`
   static const IconifyIconData ufoLineDuotone = IconifyIconData.solo(
-    IconData(0xe315, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0315, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-linear`
   static const IconifyIconData ufoLinear = IconifyIconData.solo(
-    IconData(0xe316, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0316, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `ufo-outline`
   static const IconifyIconData ufoOutline = IconifyIconData.solo(
-    IconData(0xe317, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0317, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `umbrella-bold`
   static const IconifyIconData umbrellaBold = IconifyIconData.solo(
-    IconData(0xe318, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0318, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `umbrella-bold-duotone` (duo-tone)
   static const IconifyIconData umbrellaBoldDuotone = IconifyIconData.duo(
-    IconData(0xe319, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe319, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0319, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0319, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `umbrella-broken`
   static const IconifyIconData umbrellaBroken = IconifyIconData.solo(
-    IconData(0xe31a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf031a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `umbrella-line-duotone` (duo-tone)
   static const IconifyIconData umbrellaLineDuotone = IconifyIconData.duo(
-    IconData(0xe31b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe31b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf031b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf031b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `umbrella-linear`
   static const IconifyIconData umbrellaLinear = IconifyIconData.solo(
-    IconData(0xe31c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf031c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `umbrella-outline`
   static const IconifyIconData umbrellaOutline = IconifyIconData.solo(
-    IconData(0xe31d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf031d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-bold`
   static const IconifyIconData undoLeftBold = IconifyIconData.solo(
-    IconData(0xe31e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf031e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-bold-duotone` (duo-tone)
   static const IconifyIconData undoLeftBoldDuotone = IconifyIconData.duo(
-    IconData(0xe31f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe31f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf031f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf031f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-broken`
   static const IconifyIconData undoLeftBroken = IconifyIconData.solo(
-    IconData(0xe320, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0320, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-line-duotone` (duo-tone)
   static const IconifyIconData undoLeftLineDuotone = IconifyIconData.duo(
-    IconData(0xe321, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe321, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0321, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0321, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-linear`
   static const IconifyIconData undoLeftLinear = IconifyIconData.solo(
-    IconData(0xe322, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0322, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-outline`
   static const IconifyIconData undoLeftOutline = IconifyIconData.solo(
-    IconData(0xe323, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0323, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-bold`
   static const IconifyIconData undoLeftRoundBold = IconifyIconData.solo(
-    IconData(0xe324, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0324, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-bold-duotone` (duo-tone)
   static const IconifyIconData undoLeftRoundBoldDuotone = IconifyIconData.duo(
-    IconData(0xe325, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe325, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0325, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0325, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-broken`
   static const IconifyIconData undoLeftRoundBroken = IconifyIconData.solo(
-    IconData(0xe326, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0326, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-line-duotone` (duo-tone)
   static const IconifyIconData undoLeftRoundLineDuotone = IconifyIconData.duo(
-    IconData(0xe327, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe327, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0327, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0327, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-linear`
   static const IconifyIconData undoLeftRoundLinear = IconifyIconData.solo(
-    IconData(0xe328, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0328, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-outline`
   static const IconifyIconData undoLeftRoundOutline = IconifyIconData.solo(
-    IconData(0xe329, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0329, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-square-bold`
   static const IconifyIconData undoLeftRoundSquareBold = IconifyIconData.solo(
-    IconData(0xe32a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf032a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-square-bold-duotone` (duo-tone)
   static const IconifyIconData undoLeftRoundSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe32b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe32b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf032b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf032b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-square-broken`
   static const IconifyIconData undoLeftRoundSquareBroken = IconifyIconData.solo(
-    IconData(0xe32c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf032c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-square-line-duotone` (duo-tone)
   static const IconifyIconData undoLeftRoundSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe32d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe32d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf032d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf032d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-square-linear`
   static const IconifyIconData undoLeftRoundSquareLinear = IconifyIconData.solo(
-    IconData(0xe32e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf032e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-round-square-outline`
   static const IconifyIconData undoLeftRoundSquareOutline = IconifyIconData.solo(
-    IconData(0xe32f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf032f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-square-bold`
   static const IconifyIconData undoLeftSquareBold = IconifyIconData.solo(
-    IconData(0xe330, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0330, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-square-bold-duotone` (duo-tone)
   static const IconifyIconData undoLeftSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe331, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe331, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0331, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0331, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-square-broken`
   static const IconifyIconData undoLeftSquareBroken = IconifyIconData.solo(
-    IconData(0xe332, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0332, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-square-line-duotone` (duo-tone)
   static const IconifyIconData undoLeftSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe333, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe333, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0333, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0333, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-square-linear`
   static const IconifyIconData undoLeftSquareLinear = IconifyIconData.solo(
-    IconData(0xe334, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0334, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-left-square-outline`
   static const IconifyIconData undoLeftSquareOutline = IconifyIconData.solo(
-    IconData(0xe335, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0335, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-bold`
   static const IconifyIconData undoRightBold = IconifyIconData.solo(
-    IconData(0xe336, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0336, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-bold-duotone` (duo-tone)
   static const IconifyIconData undoRightBoldDuotone = IconifyIconData.duo(
-    IconData(0xe337, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe337, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0337, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0337, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-broken`
   static const IconifyIconData undoRightBroken = IconifyIconData.solo(
-    IconData(0xe338, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0338, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-line-duotone` (duo-tone)
   static const IconifyIconData undoRightLineDuotone = IconifyIconData.duo(
-    IconData(0xe339, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe339, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0339, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0339, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-linear`
   static const IconifyIconData undoRightLinear = IconifyIconData.solo(
-    IconData(0xe33a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf033a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-outline`
   static const IconifyIconData undoRightOutline = IconifyIconData.solo(
-    IconData(0xe33b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf033b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-bold`
   static const IconifyIconData undoRightRoundBold = IconifyIconData.solo(
-    IconData(0xe33c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf033c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-bold-duotone` (duo-tone)
   static const IconifyIconData undoRightRoundBoldDuotone = IconifyIconData.duo(
-    IconData(0xe33d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe33d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf033d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf033d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-broken`
   static const IconifyIconData undoRightRoundBroken = IconifyIconData.solo(
-    IconData(0xe33e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf033e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-line-duotone` (duo-tone)
   static const IconifyIconData undoRightRoundLineDuotone = IconifyIconData.duo(
-    IconData(0xe33f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe33f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf033f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf033f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-linear`
   static const IconifyIconData undoRightRoundLinear = IconifyIconData.solo(
-    IconData(0xe340, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0340, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-outline`
   static const IconifyIconData undoRightRoundOutline = IconifyIconData.solo(
-    IconData(0xe341, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0341, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-square-bold`
   static const IconifyIconData undoRightRoundSquareBold = IconifyIconData.solo(
-    IconData(0xe342, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0342, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-square-bold-duotone` (duo-tone)
   static const IconifyIconData undoRightRoundSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe343, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe343, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0343, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0343, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-square-broken`
   static const IconifyIconData undoRightRoundSquareBroken = IconifyIconData.solo(
-    IconData(0xe344, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0344, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-square-line-duotone` (duo-tone)
   static const IconifyIconData undoRightRoundSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe345, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe345, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0345, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0345, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-square-linear`
   static const IconifyIconData undoRightRoundSquareLinear = IconifyIconData.solo(
-    IconData(0xe346, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0346, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-round-square-outline`
   static const IconifyIconData undoRightRoundSquareOutline = IconifyIconData.solo(
-    IconData(0xe347, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0347, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-square-bold`
   static const IconifyIconData undoRightSquareBold = IconifyIconData.solo(
-    IconData(0xe348, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0348, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-square-bold-duotone` (duo-tone)
   static const IconifyIconData undoRightSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe349, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe349, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0349, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0349, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-square-broken`
   static const IconifyIconData undoRightSquareBroken = IconifyIconData.solo(
-    IconData(0xe34a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf034a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-square-line-duotone` (duo-tone)
   static const IconifyIconData undoRightSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe34b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe34b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf034b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf034b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-square-linear`
   static const IconifyIconData undoRightSquareLinear = IconifyIconData.solo(
-    IconData(0xe34c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf034c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `undo-right-square-outline`
   static const IconifyIconData undoRightSquareOutline = IconifyIconData.solo(
-    IconData(0xe34d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf034d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `unread-bold`
   static const IconifyIconData unreadBold = IconifyIconData.solo(
-    IconData(0xe34e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf034e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `unread-bold-duotone` (duo-tone)
   static const IconifyIconData unreadBoldDuotone = IconifyIconData.duo(
-    IconData(0xe34f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe34f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf034f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf034f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `unread-broken`
   static const IconifyIconData unreadBroken = IconifyIconData.solo(
-    IconData(0xe350, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0350, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `unread-line-duotone`
   static const IconifyIconData unreadLineDuotone = IconifyIconData.solo(
-    IconData(0xe351, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0351, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `unread-linear`
   static const IconifyIconData unreadLinear = IconifyIconData.solo(
-    IconData(0xe352, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0352, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `unread-outline`
   static const IconifyIconData unreadOutline = IconifyIconData.solo(
-    IconData(0xe353, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0353, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-bold`
   static const IconifyIconData uploadBold = IconifyIconData.solo(
-    IconData(0xe354, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0354, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-bold-duotone` (duo-tone)
   static const IconifyIconData uploadBoldDuotone = IconifyIconData.duo(
-    IconData(0xe355, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe355, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0355, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0355, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-broken`
   static const IconifyIconData uploadBroken = IconifyIconData.solo(
-    IconData(0xe356, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0356, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-line-duotone` (duo-tone)
   static const IconifyIconData uploadLineDuotone = IconifyIconData.duo(
-    IconData(0xe357, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe357, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0357, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0357, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-linear`
   static const IconifyIconData uploadLinear = IconifyIconData.solo(
-    IconData(0xe358, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0358, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-minimalistic-bold`
   static const IconifyIconData uploadMinimalisticBold = IconifyIconData.solo(
-    IconData(0xe359, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0359, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-minimalistic-bold-duotone` (duo-tone)
   static const IconifyIconData uploadMinimalisticBoldDuotone = IconifyIconData.duo(
-    IconData(0xe35a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe35a, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf035a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf035a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-minimalistic-broken`
   static const IconifyIconData uploadMinimalisticBroken = IconifyIconData.solo(
-    IconData(0xe35b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf035b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-minimalistic-line-duotone` (duo-tone)
   static const IconifyIconData uploadMinimalisticLineDuotone = IconifyIconData.duo(
-    IconData(0xe35c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe35c, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf035c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf035c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-minimalistic-linear`
   static const IconifyIconData uploadMinimalisticLinear = IconifyIconData.solo(
-    IconData(0xe35d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf035d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-minimalistic-outline`
   static const IconifyIconData uploadMinimalisticOutline = IconifyIconData.solo(
-    IconData(0xe35e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf035e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-outline`
   static const IconifyIconData uploadOutline = IconifyIconData.solo(
-    IconData(0xe35f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf035f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-square-bold`
   static const IconifyIconData uploadSquareBold = IconifyIconData.solo(
-    IconData(0xe360, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0360, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-square-bold-duotone` (duo-tone)
   static const IconifyIconData uploadSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe361, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe361, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0361, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0361, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-square-broken`
   static const IconifyIconData uploadSquareBroken = IconifyIconData.solo(
-    IconData(0xe362, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0362, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-square-line-duotone` (duo-tone)
   static const IconifyIconData uploadSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe363, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe363, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0363, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0363, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-square-linear`
   static const IconifyIconData uploadSquareLinear = IconifyIconData.solo(
-    IconData(0xe364, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0364, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-square-outline`
   static const IconifyIconData uploadSquareOutline = IconifyIconData.solo(
-    IconData(0xe365, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0365, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-2-bold`
   static const IconifyIconData uploadTrack2Bold = IconifyIconData.solo(
-    IconData(0xe366, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0366, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-2-bold-duotone` (duo-tone)
   static const IconifyIconData uploadTrack2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe367, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe367, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0367, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0367, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-2-broken`
   static const IconifyIconData uploadTrack2Broken = IconifyIconData.solo(
-    IconData(0xe368, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0368, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-2-line-duotone` (duo-tone)
   static const IconifyIconData uploadTrack2LineDuotone = IconifyIconData.duo(
-    IconData(0xe369, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe369, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0369, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0369, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-2-linear`
   static const IconifyIconData uploadTrack2Linear = IconifyIconData.solo(
-    IconData(0xe36a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf036a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-2-outline`
   static const IconifyIconData uploadTrack2Outline = IconifyIconData.solo(
-    IconData(0xe36b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf036b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-bold`
   static const IconifyIconData uploadTrackBold = IconifyIconData.solo(
-    IconData(0xe36c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf036c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-bold-duotone` (duo-tone)
   static const IconifyIconData uploadTrackBoldDuotone = IconifyIconData.duo(
-    IconData(0xe36d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe36d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf036d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf036d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-broken`
   static const IconifyIconData uploadTrackBroken = IconifyIconData.solo(
-    IconData(0xe36e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf036e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-line-duotone` (duo-tone)
   static const IconifyIconData uploadTrackLineDuotone = IconifyIconData.duo(
-    IconData(0xe36f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe36f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf036f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf036f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-linear`
   static const IconifyIconData uploadTrackLinear = IconifyIconData.solo(
-    IconData(0xe370, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0370, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-track-outline`
   static const IconifyIconData uploadTrackOutline = IconifyIconData.solo(
-    IconData(0xe371, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0371, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-twice-square-bold`
   static const IconifyIconData uploadTwiceSquareBold = IconifyIconData.solo(
-    IconData(0xe372, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0372, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-twice-square-bold-duotone` (duo-tone)
   static const IconifyIconData uploadTwiceSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe373, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe373, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0373, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0373, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-twice-square-broken`
   static const IconifyIconData uploadTwiceSquareBroken = IconifyIconData.solo(
-    IconData(0xe374, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0374, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-twice-square-line-duotone` (duo-tone)
   static const IconifyIconData uploadTwiceSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe375, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe375, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0375, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0375, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-twice-square-linear`
   static const IconifyIconData uploadTwiceSquareLinear = IconifyIconData.solo(
-    IconData(0xe376, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0376, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `upload-twice-square-outline`
   static const IconifyIconData uploadTwiceSquareOutline = IconifyIconData.solo(
-    IconData(0xe377, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0377, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-bold`
   static const IconifyIconData usbBold = IconifyIconData.solo(
-    IconData(0xe378, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0378, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-bold-duotone` (duo-tone)
   static const IconifyIconData usbBoldDuotone = IconifyIconData.duo(
-    IconData(0xe379, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe379, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0379, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0379, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-broken`
   static const IconifyIconData usbBroken = IconifyIconData.solo(
-    IconData(0xe37a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf037a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-circle-bold`
   static const IconifyIconData usbCircleBold = IconifyIconData.solo(
-    IconData(0xe37b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf037b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-circle-bold-duotone` (duo-tone)
   static const IconifyIconData usbCircleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe37c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe37c, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf037c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf037c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-circle-broken`
   static const IconifyIconData usbCircleBroken = IconifyIconData.solo(
-    IconData(0xe37d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf037d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-circle-line-duotone` (duo-tone)
   static const IconifyIconData usbCircleLineDuotone = IconifyIconData.duo(
-    IconData(0xe37e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe37e, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf037e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf037e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-circle-linear`
   static const IconifyIconData usbCircleLinear = IconifyIconData.solo(
-    IconData(0xe37f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf037f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-circle-outline`
   static const IconifyIconData usbCircleOutline = IconifyIconData.solo(
-    IconData(0xe380, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0380, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-line-duotone` (duo-tone)
   static const IconifyIconData usbLineDuotone = IconifyIconData.duo(
-    IconData(0xe381, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe381, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0381, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0381, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-linear`
   static const IconifyIconData usbLinear = IconifyIconData.solo(
-    IconData(0xe382, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0382, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-outline`
   static const IconifyIconData usbOutline = IconifyIconData.solo(
-    IconData(0xe383, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0383, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-square-bold`
   static const IconifyIconData usbSquareBold = IconifyIconData.solo(
-    IconData(0xe384, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0384, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-square-bold-duotone` (duo-tone)
   static const IconifyIconData usbSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe385, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe385, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0385, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0385, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-square-broken`
   static const IconifyIconData usbSquareBroken = IconifyIconData.solo(
-    IconData(0xe386, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0386, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-square-line-duotone` (duo-tone)
   static const IconifyIconData usbSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe387, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe387, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0387, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0387, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-square-linear`
   static const IconifyIconData usbSquareLinear = IconifyIconData.solo(
-    IconData(0xe388, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0388, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `usb-square-outline`
   static const IconifyIconData usbSquareOutline = IconifyIconData.solo(
-    IconData(0xe389, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0389, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-block-bold`
   static const IconifyIconData userBlockBold = IconifyIconData.solo(
-    IconData(0xe38a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf038a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-block-bold-duotone` (duo-tone)
   static const IconifyIconData userBlockBoldDuotone = IconifyIconData.duo(
-    IconData(0xe38b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe38b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf038b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf038b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-block-broken`
   static const IconifyIconData userBlockBroken = IconifyIconData.solo(
-    IconData(0xe38c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf038c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-block-line-duotone` (duo-tone)
   static const IconifyIconData userBlockLineDuotone = IconifyIconData.duo(
-    IconData(0xe38d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe38d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf038d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf038d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-block-linear`
   static const IconifyIconData userBlockLinear = IconifyIconData.solo(
-    IconData(0xe38e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf038e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-block-outline`
   static const IconifyIconData userBlockOutline = IconifyIconData.solo(
-    IconData(0xe38f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf038f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-block-rounded-bold`
   static const IconifyIconData userBlockRoundedBold = IconifyIconData.solo(
-    IconData(0xe390, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0390, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-block-rounded-bold-duotone` (duo-tone)
   static const IconifyIconData userBlockRoundedBoldDuotone = IconifyIconData.duo(
-    IconData(0xe391, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe391, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0391, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0391, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-block-rounded-broken`
   static const IconifyIconData userBlockRoundedBroken = IconifyIconData.solo(
-    IconData(0xe392, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0392, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-block-rounded-line-duotone` (duo-tone)
   static const IconifyIconData userBlockRoundedLineDuotone = IconifyIconData.duo(
-    IconData(0xe393, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe393, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0393, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0393, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-block-rounded-linear`
   static const IconifyIconData userBlockRoundedLinear = IconifyIconData.solo(
-    IconData(0xe394, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0394, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-block-rounded-outline`
   static const IconifyIconData userBlockRoundedOutline = IconifyIconData.solo(
-    IconData(0xe395, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0395, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-bold`
   static const IconifyIconData userBold = IconifyIconData.solo(
-    IconData(0xe396, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0396, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-bold-duotone` (duo-tone)
   static const IconifyIconData userBoldDuotone = IconifyIconData.duo(
-    IconData(0xe397, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe397, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0397, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0397, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-broken`
   static const IconifyIconData userBroken = IconifyIconData.solo(
-    IconData(0xe398, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0398, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-bold`
   static const IconifyIconData userCheckBold = IconifyIconData.solo(
-    IconData(0xe399, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0399, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-bold-duotone` (duo-tone)
   static const IconifyIconData userCheckBoldDuotone = IconifyIconData.duo(
-    IconData(0xe39a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe39a, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf039a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf039a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-broken`
   static const IconifyIconData userCheckBroken = IconifyIconData.solo(
-    IconData(0xe39b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf039b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-line-duotone` (duo-tone)
   static const IconifyIconData userCheckLineDuotone = IconifyIconData.duo(
-    IconData(0xe39c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe39c, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf039c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf039c, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-linear`
   static const IconifyIconData userCheckLinear = IconifyIconData.solo(
-    IconData(0xe39d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf039d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-outline`
   static const IconifyIconData userCheckOutline = IconifyIconData.solo(
-    IconData(0xe39e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf039e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-rounded-bold`
   static const IconifyIconData userCheckRoundedBold = IconifyIconData.solo(
-    IconData(0xe39f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf039f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-rounded-bold-duotone` (duo-tone)
   static const IconifyIconData userCheckRoundedBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3a0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3a0, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-rounded-broken`
   static const IconifyIconData userCheckRoundedBroken = IconifyIconData.solo(
-    IconData(0xe3a1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-rounded-line-duotone` (duo-tone)
   static const IconifyIconData userCheckRoundedLineDuotone = IconifyIconData.duo(
-    IconData(0xe3a2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3a2, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-rounded-linear`
   static const IconifyIconData userCheckRoundedLinear = IconifyIconData.solo(
-    IconData(0xe3a3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-check-rounded-outline`
   static const IconifyIconData userCheckRoundedOutline = IconifyIconData.solo(
-    IconData(0xe3a4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-circle-bold`
   static const IconifyIconData userCircleBold = IconifyIconData.solo(
-    IconData(0xe3a5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-circle-bold-duotone` (duo-tone)
   static const IconifyIconData userCircleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3a6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3a6, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a6, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-circle-broken`
   static const IconifyIconData userCircleBroken = IconifyIconData.solo(
-    IconData(0xe3a7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-circle-line-duotone` (duo-tone)
   static const IconifyIconData userCircleLineDuotone = IconifyIconData.duo(
-    IconData(0xe3a8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3a8, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-circle-linear`
   static const IconifyIconData userCircleLinear = IconifyIconData.solo(
-    IconData(0xe3a9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03a9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-circle-outline`
   static const IconifyIconData userCircleOutline = IconifyIconData.solo(
-    IconData(0xe3aa, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03aa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-bold`
   static const IconifyIconData userCrossBold = IconifyIconData.solo(
-    IconData(0xe3ab, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ab, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-bold-duotone` (duo-tone)
   static const IconifyIconData userCrossBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3ac, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3ac, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ac, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ac, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-broken`
   static const IconifyIconData userCrossBroken = IconifyIconData.solo(
-    IconData(0xe3ad, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-line-duotone` (duo-tone)
   static const IconifyIconData userCrossLineDuotone = IconifyIconData.duo(
-    IconData(0xe3ae, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3ae, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ae, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ae, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-linear`
   static const IconifyIconData userCrossLinear = IconifyIconData.solo(
-    IconData(0xe3af, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03af, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-outline`
   static const IconifyIconData userCrossOutline = IconifyIconData.solo(
-    IconData(0xe3b0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-rounded-bold`
   static const IconifyIconData userCrossRoundedBold = IconifyIconData.solo(
-    IconData(0xe3b1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-rounded-bold-duotone` (duo-tone)
   static const IconifyIconData userCrossRoundedBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3b2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3b2, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-rounded-broken`
   static const IconifyIconData userCrossRoundedBroken = IconifyIconData.solo(
-    IconData(0xe3b3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-rounded-line-duotone` (duo-tone)
   static const IconifyIconData userCrossRoundedLineDuotone = IconifyIconData.duo(
-    IconData(0xe3b4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3b4, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-rounded-linear`
   static const IconifyIconData userCrossRoundedLinear = IconifyIconData.solo(
-    IconData(0xe3b5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-cross-rounded-outline`
   static const IconifyIconData userCrossRoundedOutline = IconifyIconData.solo(
-    IconData(0xe3b6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hand-up-bold`
   static const IconifyIconData userHandUpBold = IconifyIconData.solo(
-    IconData(0xe3b7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hand-up-bold-duotone` (duo-tone)
   static const IconifyIconData userHandUpBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3b8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3b8, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hand-up-broken`
   static const IconifyIconData userHandUpBroken = IconifyIconData.solo(
-    IconData(0xe3b9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03b9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hand-up-line-duotone` (duo-tone)
   static const IconifyIconData userHandUpLineDuotone = IconifyIconData.duo(
-    IconData(0xe3ba, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3ba, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ba, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hand-up-linear`
   static const IconifyIconData userHandUpLinear = IconifyIconData.solo(
-    IconData(0xe3bb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03bb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hand-up-outline`
   static const IconifyIconData userHandUpOutline = IconifyIconData.solo(
-    IconData(0xe3bc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03bc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hands-bold`
   static const IconifyIconData userHandsBold = IconifyIconData.solo(
-    IconData(0xe3bd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03bd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hands-bold-duotone` (duo-tone)
   static const IconifyIconData userHandsBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3be, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3be, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03be, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03be, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hands-broken`
   static const IconifyIconData userHandsBroken = IconifyIconData.solo(
-    IconData(0xe3bf, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03bf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hands-line-duotone` (duo-tone)
   static const IconifyIconData userHandsLineDuotone = IconifyIconData.duo(
-    IconData(0xe3c0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3c0, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hands-linear`
   static const IconifyIconData userHandsLinear = IconifyIconData.solo(
-    IconData(0xe3c1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-hands-outline`
   static const IconifyIconData userHandsOutline = IconifyIconData.solo(
-    IconData(0xe3c2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-bold`
   static const IconifyIconData userHeartBold = IconifyIconData.solo(
-    IconData(0xe3c3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-bold-duotone` (duo-tone)
   static const IconifyIconData userHeartBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3c4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3c4, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-broken`
   static const IconifyIconData userHeartBroken = IconifyIconData.solo(
-    IconData(0xe3c5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-line-duotone` (duo-tone)
   static const IconifyIconData userHeartLineDuotone = IconifyIconData.duo(
-    IconData(0xe3c6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3c6, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c6, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-linear`
   static const IconifyIconData userHeartLinear = IconifyIconData.solo(
-    IconData(0xe3c7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-outline`
   static const IconifyIconData userHeartOutline = IconifyIconData.solo(
-    IconData(0xe3c8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-rounded-bold`
   static const IconifyIconData userHeartRoundedBold = IconifyIconData.solo(
-    IconData(0xe3c9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-rounded-bold-duotone` (duo-tone)
   static const IconifyIconData userHeartRoundedBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3ca, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3ca, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ca, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ca, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-rounded-broken`
   static const IconifyIconData userHeartRoundedBroken = IconifyIconData.solo(
-    IconData(0xe3cb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03cb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-rounded-line-duotone` (duo-tone)
   static const IconifyIconData userHeartRoundedLineDuotone = IconifyIconData.duo(
-    IconData(0xe3cc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3cc, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03cc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03cc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-rounded-linear`
   static const IconifyIconData userHeartRoundedLinear = IconifyIconData.solo(
-    IconData(0xe3cd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03cd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-heart-rounded-outline`
   static const IconifyIconData userHeartRoundedOutline = IconifyIconData.solo(
-    IconData(0xe3ce, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ce, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-id-bold`
   static const IconifyIconData userIdBold = IconifyIconData.solo(
-    IconData(0xe3cf, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03cf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-id-bold-duotone` (duo-tone)
   static const IconifyIconData userIdBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3d0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3d0, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-id-broken`
   static const IconifyIconData userIdBroken = IconifyIconData.solo(
-    IconData(0xe3d1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-id-line-duotone` (duo-tone)
   static const IconifyIconData userIdLineDuotone = IconifyIconData.duo(
-    IconData(0xe3d2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3d2, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-id-linear`
   static const IconifyIconData userIdLinear = IconifyIconData.solo(
-    IconData(0xe3d3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-id-outline`
   static const IconifyIconData userIdOutline = IconifyIconData.solo(
-    IconData(0xe3d4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-line-duotone` (duo-tone)
   static const IconifyIconData userLineDuotone = IconifyIconData.duo(
-    IconData(0xe3d5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3d5, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-linear`
   static const IconifyIconData userLinear = IconifyIconData.solo(
-    IconData(0xe3d6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-bold`
   static const IconifyIconData userMinusBold = IconifyIconData.solo(
-    IconData(0xe3d7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-bold-duotone` (duo-tone)
   static const IconifyIconData userMinusBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3d8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3d8, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d8, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-broken`
   static const IconifyIconData userMinusBroken = IconifyIconData.solo(
-    IconData(0xe3d9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03d9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-line-duotone` (duo-tone)
   static const IconifyIconData userMinusLineDuotone = IconifyIconData.duo(
-    IconData(0xe3da, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3da, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03da, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03da, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-linear`
   static const IconifyIconData userMinusLinear = IconifyIconData.solo(
-    IconData(0xe3db, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03db, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-outline`
   static const IconifyIconData userMinusOutline = IconifyIconData.solo(
-    IconData(0xe3dc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03dc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-rounded-bold`
   static const IconifyIconData userMinusRoundedBold = IconifyIconData.solo(
-    IconData(0xe3dd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03dd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-rounded-bold-duotone` (duo-tone)
   static const IconifyIconData userMinusRoundedBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3de, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3de, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03de, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-rounded-broken`
   static const IconifyIconData userMinusRoundedBroken = IconifyIconData.solo(
-    IconData(0xe3df, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-rounded-line-duotone` (duo-tone)
   static const IconifyIconData userMinusRoundedLineDuotone = IconifyIconData.duo(
-    IconData(0xe3e0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3e0, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-rounded-linear`
   static const IconifyIconData userMinusRoundedLinear = IconifyIconData.solo(
-    IconData(0xe3e1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-minus-rounded-outline`
   static const IconifyIconData userMinusRoundedOutline = IconifyIconData.solo(
-    IconData(0xe3e2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-outline`
   static const IconifyIconData userOutline = IconifyIconData.solo(
-    IconData(0xe3e3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-bold`
   static const IconifyIconData userPlusBold = IconifyIconData.solo(
-    IconData(0xe3e4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-bold-duotone` (duo-tone)
   static const IconifyIconData userPlusBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3e5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3e5, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-broken`
   static const IconifyIconData userPlusBroken = IconifyIconData.solo(
-    IconData(0xe3e6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-line-duotone` (duo-tone)
   static const IconifyIconData userPlusLineDuotone = IconifyIconData.duo(
-    IconData(0xe3e7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3e7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-linear`
   static const IconifyIconData userPlusLinear = IconifyIconData.solo(
-    IconData(0xe3e8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-outline`
   static const IconifyIconData userPlusOutline = IconifyIconData.solo(
-    IconData(0xe3e9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03e9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-rounded-bold`
   static const IconifyIconData userPlusRoundedBold = IconifyIconData.solo(
-    IconData(0xe3ea, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ea, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-rounded-bold-duotone` (duo-tone)
   static const IconifyIconData userPlusRoundedBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3eb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3eb, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03eb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03eb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-rounded-broken`
   static const IconifyIconData userPlusRoundedBroken = IconifyIconData.solo(
-    IconData(0xe3ec, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-rounded-line-duotone` (duo-tone)
   static const IconifyIconData userPlusRoundedLineDuotone = IconifyIconData.duo(
-    IconData(0xe3ed, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3ed, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ed, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-rounded-linear`
   static const IconifyIconData userPlusRoundedLinear = IconifyIconData.solo(
-    IconData(0xe3ee, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ee, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-plus-rounded-outline`
   static const IconifyIconData userPlusRoundedOutline = IconifyIconData.solo(
-    IconData(0xe3ef, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-rounded-bold`
   static const IconifyIconData userRoundedBold = IconifyIconData.solo(
-    IconData(0xe3f0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-rounded-bold-duotone` (duo-tone)
   static const IconifyIconData userRoundedBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3f1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3f1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-rounded-broken`
   static const IconifyIconData userRoundedBroken = IconifyIconData.solo(
-    IconData(0xe3f2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-rounded-line-duotone` (duo-tone)
   static const IconifyIconData userRoundedLineDuotone = IconifyIconData.duo(
-    IconData(0xe3f3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3f3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-rounded-linear`
   static const IconifyIconData userRoundedLinear = IconifyIconData.solo(
-    IconData(0xe3f4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-rounded-outline`
   static const IconifyIconData userRoundedOutline = IconifyIconData.solo(
-    IconData(0xe3f5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-bold`
   static const IconifyIconData userSpeakBold = IconifyIconData.solo(
-    IconData(0xe3f6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-bold-duotone` (duo-tone)
   static const IconifyIconData userSpeakBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3f7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3f7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-broken`
   static const IconifyIconData userSpeakBroken = IconifyIconData.solo(
-    IconData(0xe3f8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-line-duotone` (duo-tone)
   static const IconifyIconData userSpeakLineDuotone = IconifyIconData.duo(
-    IconData(0xe3f9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3f9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03f9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-linear`
   static const IconifyIconData userSpeakLinear = IconifyIconData.solo(
-    IconData(0xe3fa, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03fa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-outline`
   static const IconifyIconData userSpeakOutline = IconifyIconData.solo(
-    IconData(0xe3fb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03fb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-rounded-bold`
   static const IconifyIconData userSpeakRoundedBold = IconifyIconData.solo(
-    IconData(0xe3fc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03fc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-rounded-bold-duotone` (duo-tone)
   static const IconifyIconData userSpeakRoundedBoldDuotone = IconifyIconData.duo(
-    IconData(0xe3fd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3fd, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03fd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03fd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-rounded-broken`
   static const IconifyIconData userSpeakRoundedBroken = IconifyIconData.solo(
-    IconData(0xe3fe, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-rounded-line-duotone` (duo-tone)
   static const IconifyIconData userSpeakRoundedLineDuotone = IconifyIconData.duo(
-    IconData(0xe3ff, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe3ff, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf03ff, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-rounded-linear`
   static const IconifyIconData userSpeakRoundedLinear = IconifyIconData.solo(
-    IconData(0xe400, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0400, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `user-speak-rounded-outline`
   static const IconifyIconData userSpeakRoundedOutline = IconifyIconData.solo(
-    IconData(0xe401, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0401, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `users-group-rounded-bold`
   static const IconifyIconData usersGroupRoundedBold = IconifyIconData.solo(
-    IconData(0xe402, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0402, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `users-group-rounded-bold-duotone` (duo-tone)
   static const IconifyIconData usersGroupRoundedBoldDuotone = IconifyIconData.duo(
-    IconData(0xe403, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe403, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0403, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0403, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `users-group-rounded-broken`
   static const IconifyIconData usersGroupRoundedBroken = IconifyIconData.solo(
-    IconData(0xe404, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0404, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `users-group-rounded-line-duotone` (duo-tone)
   static const IconifyIconData usersGroupRoundedLineDuotone = IconifyIconData.duo(
-    IconData(0xe405, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe405, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0405, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0405, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `users-group-rounded-linear`
   static const IconifyIconData usersGroupRoundedLinear = IconifyIconData.solo(
-    IconData(0xe406, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0406, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `users-group-rounded-outline`
   static const IconifyIconData usersGroupRoundedOutline = IconifyIconData.solo(
-    IconData(0xe407, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0407, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `users-group-two-rounded-bold`
   static const IconifyIconData usersGroupTwoRoundedBold = IconifyIconData.solo(
-    IconData(0xe408, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0408, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `users-group-two-rounded-bold-duotone` (duo-tone)
   static const IconifyIconData usersGroupTwoRoundedBoldDuotone = IconifyIconData.duo(
-    IconData(0xe409, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe409, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0409, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0409, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `users-group-two-rounded-broken`
   static const IconifyIconData usersGroupTwoRoundedBroken = IconifyIconData.solo(
-    IconData(0xe40a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf040a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `users-group-two-rounded-line-duotone` (duo-tone)
   static const IconifyIconData usersGroupTwoRoundedLineDuotone = IconifyIconData.duo(
-    IconData(0xe40b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe40b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf040b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf040b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `users-group-two-rounded-linear`
   static const IconifyIconData usersGroupTwoRoundedLinear = IconifyIconData.solo(
-    IconData(0xe40c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf040c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `users-group-two-rounded-outline`
   static const IconifyIconData usersGroupTwoRoundedOutline = IconifyIconData.solo(
-    IconData(0xe40d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf040d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `verified-check-bold`
   static const IconifyIconData verifiedCheckBold = IconifyIconData.solo(
-    IconData(0xe40e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf040e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `verified-check-bold-duotone` (duo-tone)
   static const IconifyIconData verifiedCheckBoldDuotone = IconifyIconData.duo(
-    IconData(0xe40f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe40f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf040f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf040f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `verified-check-broken`
   static const IconifyIconData verifiedCheckBroken = IconifyIconData.solo(
-    IconData(0xe410, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0410, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `verified-check-line-duotone` (duo-tone)
   static const IconifyIconData verifiedCheckLineDuotone = IconifyIconData.duo(
-    IconData(0xe411, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe411, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0411, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0411, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `verified-check-linear`
   static const IconifyIconData verifiedCheckLinear = IconifyIconData.solo(
-    IconData(0xe412, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0412, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `verified-check-outline`
   static const IconifyIconData verifiedCheckOutline = IconifyIconData.solo(
-    IconData(0xe413, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0413, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-2-bold`
   static const IconifyIconData videoFrame2Bold = IconifyIconData.solo(
-    IconData(0xe414, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0414, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-2-bold-duotone` (duo-tone)
   static const IconifyIconData videoFrame2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe415, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe415, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0415, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0415, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-2-broken`
   static const IconifyIconData videoFrame2Broken = IconifyIconData.solo(
-    IconData(0xe416, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0416, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-2-line-duotone` (duo-tone)
   static const IconifyIconData videoFrame2LineDuotone = IconifyIconData.duo(
-    IconData(0xe417, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe417, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0417, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0417, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-2-linear`
   static const IconifyIconData videoFrame2Linear = IconifyIconData.solo(
-    IconData(0xe418, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0418, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-2-outline`
   static const IconifyIconData videoFrame2Outline = IconifyIconData.solo(
-    IconData(0xe419, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0419, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-bold`
   static const IconifyIconData videoFrameBold = IconifyIconData.solo(
-    IconData(0xe41a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf041a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-bold-duotone` (duo-tone)
   static const IconifyIconData videoFrameBoldDuotone = IconifyIconData.duo(
-    IconData(0xe41b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe41b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf041b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf041b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-broken`
   static const IconifyIconData videoFrameBroken = IconifyIconData.solo(
-    IconData(0xe41c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf041c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-cut-2-bold`
   static const IconifyIconData videoFrameCut2Bold = IconifyIconData.solo(
-    IconData(0xe41d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf041d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-cut-2-bold-duotone` (duo-tone)
   static const IconifyIconData videoFrameCut2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe41e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe41e, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf041e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf041e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-cut-2-broken`
   static const IconifyIconData videoFrameCut2Broken = IconifyIconData.solo(
-    IconData(0xe41f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf041f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-cut-2-line-duotone` (duo-tone)
   static const IconifyIconData videoFrameCut2LineDuotone = IconifyIconData.duo(
-    IconData(0xe420, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe420, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0420, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0420, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-cut-2-linear`
   static const IconifyIconData videoFrameCut2Linear = IconifyIconData.solo(
-    IconData(0xe421, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0421, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-cut-2-outline`
   static const IconifyIconData videoFrameCut2Outline = IconifyIconData.solo(
-    IconData(0xe422, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0422, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-cut-bold`
   static const IconifyIconData videoFrameCutBold = IconifyIconData.solo(
-    IconData(0xe423, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0423, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-cut-bold-duotone` (duo-tone)
   static const IconifyIconData videoFrameCutBoldDuotone = IconifyIconData.duo(
-    IconData(0xe424, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe424, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0424, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0424, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-cut-broken`
   static const IconifyIconData videoFrameCutBroken = IconifyIconData.solo(
-    IconData(0xe425, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0425, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-cut-line-duotone` (duo-tone)
   static const IconifyIconData videoFrameCutLineDuotone = IconifyIconData.duo(
-    IconData(0xe426, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe426, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0426, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0426, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-cut-linear`
   static const IconifyIconData videoFrameCutLinear = IconifyIconData.solo(
-    IconData(0xe427, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0427, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-cut-outline`
   static const IconifyIconData videoFrameCutOutline = IconifyIconData.solo(
-    IconData(0xe428, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0428, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-line-duotone` (duo-tone)
   static const IconifyIconData videoFrameLineDuotone = IconifyIconData.duo(
-    IconData(0xe429, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe429, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0429, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0429, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-linear`
   static const IconifyIconData videoFrameLinear = IconifyIconData.solo(
-    IconData(0xe42a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf042a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-outline`
   static const IconifyIconData videoFrameOutline = IconifyIconData.solo(
-    IconData(0xe42b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf042b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-horizontal-bold`
   static const IconifyIconData videoFramePlayHorizontalBold = IconifyIconData.solo(
-    IconData(0xe42c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf042c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-horizontal-bold-duotone` (duo-tone)
   static const IconifyIconData videoFramePlayHorizontalBoldDuotone = IconifyIconData.duo(
-    IconData(0xe42d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe42d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf042d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf042d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-horizontal-broken`
   static const IconifyIconData videoFramePlayHorizontalBroken = IconifyIconData.solo(
-    IconData(0xe42e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf042e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-horizontal-line-duotone` (duo-tone)
   static const IconifyIconData videoFramePlayHorizontalLineDuotone = IconifyIconData.duo(
-    IconData(0xe42f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe42f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf042f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf042f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-horizontal-linear`
   static const IconifyIconData videoFramePlayHorizontalLinear = IconifyIconData.solo(
-    IconData(0xe430, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0430, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-horizontal-outline`
   static const IconifyIconData videoFramePlayHorizontalOutline = IconifyIconData.solo(
-    IconData(0xe431, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0431, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-vertical-bold`
   static const IconifyIconData videoFramePlayVerticalBold = IconifyIconData.solo(
-    IconData(0xe432, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0432, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-vertical-bold-duotone` (duo-tone)
   static const IconifyIconData videoFramePlayVerticalBoldDuotone = IconifyIconData.duo(
-    IconData(0xe433, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe433, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0433, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0433, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-vertical-broken`
   static const IconifyIconData videoFramePlayVerticalBroken = IconifyIconData.solo(
-    IconData(0xe434, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0434, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-vertical-line-duotone` (duo-tone)
   static const IconifyIconData videoFramePlayVerticalLineDuotone = IconifyIconData.duo(
-    IconData(0xe435, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe435, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0435, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0435, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-vertical-linear`
   static const IconifyIconData videoFramePlayVerticalLinear = IconifyIconData.solo(
-    IconData(0xe436, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0436, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-play-vertical-outline`
   static const IconifyIconData videoFramePlayVerticalOutline = IconifyIconData.solo(
-    IconData(0xe437, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0437, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-replace-bold`
   static const IconifyIconData videoFrameReplaceBold = IconifyIconData.solo(
-    IconData(0xe438, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0438, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-replace-bold-duotone` (duo-tone)
   static const IconifyIconData videoFrameReplaceBoldDuotone = IconifyIconData.duo(
-    IconData(0xe439, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe439, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0439, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0439, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-replace-broken`
   static const IconifyIconData videoFrameReplaceBroken = IconifyIconData.solo(
-    IconData(0xe43a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf043a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-replace-line-duotone` (duo-tone)
   static const IconifyIconData videoFrameReplaceLineDuotone = IconifyIconData.duo(
-    IconData(0xe43b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe43b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf043b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf043b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-replace-linear`
   static const IconifyIconData videoFrameReplaceLinear = IconifyIconData.solo(
-    IconData(0xe43c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf043c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-frame-replace-outline`
   static const IconifyIconData videoFrameReplaceOutline = IconifyIconData.solo(
-    IconData(0xe43d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf043d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-library-bold`
   static const IconifyIconData videoLibraryBold = IconifyIconData.solo(
-    IconData(0xe43e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf043e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-library-bold-duotone` (duo-tone)
   static const IconifyIconData videoLibraryBoldDuotone = IconifyIconData.duo(
-    IconData(0xe43f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe43f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf043f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf043f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-library-broken`
   static const IconifyIconData videoLibraryBroken = IconifyIconData.solo(
-    IconData(0xe440, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0440, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-library-line-duotone` (duo-tone)
   static const IconifyIconData videoLibraryLineDuotone = IconifyIconData.duo(
-    IconData(0xe441, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe441, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0441, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0441, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-library-linear`
   static const IconifyIconData videoLibraryLinear = IconifyIconData.solo(
-    IconData(0xe442, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0442, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `video-library-outline`
   static const IconifyIconData videoLibraryOutline = IconifyIconData.solo(
-    IconData(0xe443, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0443, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-add-bold`
   static const IconifyIconData videocameraAddBold = IconifyIconData.solo(
-    IconData(0xe444, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0444, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-add-bold-duotone` (duo-tone)
   static const IconifyIconData videocameraAddBoldDuotone = IconifyIconData.duo(
-    IconData(0xe445, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe445, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0445, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0445, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-add-broken`
   static const IconifyIconData videocameraAddBroken = IconifyIconData.solo(
-    IconData(0xe446, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0446, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-add-line-duotone` (duo-tone)
   static const IconifyIconData videocameraAddLineDuotone = IconifyIconData.duo(
-    IconData(0xe447, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe447, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0447, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0447, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-add-linear`
   static const IconifyIconData videocameraAddLinear = IconifyIconData.solo(
-    IconData(0xe448, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0448, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-add-outline`
   static const IconifyIconData videocameraAddOutline = IconifyIconData.solo(
-    IconData(0xe449, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0449, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-bold`
   static const IconifyIconData videocameraBold = IconifyIconData.solo(
-    IconData(0xe44a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf044a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-bold-duotone` (duo-tone)
   static const IconifyIconData videocameraBoldDuotone = IconifyIconData.duo(
-    IconData(0xe44b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe44b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf044b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf044b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-broken`
   static const IconifyIconData videocameraBroken = IconifyIconData.solo(
-    IconData(0xe44c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf044c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-line-duotone` (duo-tone)
   static const IconifyIconData videocameraLineDuotone = IconifyIconData.duo(
-    IconData(0xe44d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe44d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf044d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf044d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-linear`
   static const IconifyIconData videocameraLinear = IconifyIconData.solo(
-    IconData(0xe44e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf044e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-outline`
   static const IconifyIconData videocameraOutline = IconifyIconData.solo(
-    IconData(0xe44f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf044f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-record-bold`
   static const IconifyIconData videocameraRecordBold = IconifyIconData.solo(
-    IconData(0xe450, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0450, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-record-bold-duotone` (duo-tone)
   static const IconifyIconData videocameraRecordBoldDuotone = IconifyIconData.duo(
-    IconData(0xe451, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe451, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0451, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0451, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-record-broken`
   static const IconifyIconData videocameraRecordBroken = IconifyIconData.solo(
-    IconData(0xe452, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0452, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-record-line-duotone` (duo-tone)
   static const IconifyIconData videocameraRecordLineDuotone = IconifyIconData.duo(
-    IconData(0xe453, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe453, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0453, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0453, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-record-linear`
   static const IconifyIconData videocameraRecordLinear = IconifyIconData.solo(
-    IconData(0xe454, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0454, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `videocamera-record-outline`
   static const IconifyIconData videocameraRecordOutline = IconifyIconData.solo(
-    IconData(0xe455, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0455, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-bold`
   static const IconifyIconData vinylBold = IconifyIconData.solo(
-    IconData(0xe456, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0456, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-bold-duotone` (duo-tone)
   static const IconifyIconData vinylBoldDuotone = IconifyIconData.duo(
-    IconData(0xe457, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe457, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0457, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0457, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-broken`
   static const IconifyIconData vinylBroken = IconifyIconData.solo(
-    IconData(0xe458, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0458, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-line-duotone` (duo-tone)
   static const IconifyIconData vinylLineDuotone = IconifyIconData.duo(
-    IconData(0xe459, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe459, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0459, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0459, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-linear`
   static const IconifyIconData vinylLinear = IconifyIconData.solo(
-    IconData(0xe45a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf045a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-outline`
   static const IconifyIconData vinylOutline = IconifyIconData.solo(
-    IconData(0xe45b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf045b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-record-bold`
   static const IconifyIconData vinylRecordBold = IconifyIconData.solo(
-    IconData(0xe45c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf045c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-record-bold-duotone` (duo-tone)
   static const IconifyIconData vinylRecordBoldDuotone = IconifyIconData.duo(
-    IconData(0xe45d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe45d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf045d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf045d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-record-broken`
   static const IconifyIconData vinylRecordBroken = IconifyIconData.solo(
-    IconData(0xe45e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf045e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-record-line-duotone` (duo-tone)
   static const IconifyIconData vinylRecordLineDuotone = IconifyIconData.duo(
-    IconData(0xe45f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe45f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf045f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf045f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-record-linear`
   static const IconifyIconData vinylRecordLinear = IconifyIconData.solo(
-    IconData(0xe460, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0460, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `vinyl-record-outline`
   static const IconifyIconData vinylRecordOutline = IconifyIconData.solo(
-    IconData(0xe461, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0461, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `virus-bold`
   static const IconifyIconData virusBold = IconifyIconData.solo(
-    IconData(0xe462, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0462, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `virus-bold-duotone` (duo-tone)
   static const IconifyIconData virusBoldDuotone = IconifyIconData.duo(
-    IconData(0xe463, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe463, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0463, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0463, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `virus-broken`
   static const IconifyIconData virusBroken = IconifyIconData.solo(
-    IconData(0xe464, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0464, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `virus-line-duotone` (duo-tone)
   static const IconifyIconData virusLineDuotone = IconifyIconData.duo(
-    IconData(0xe465, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe465, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0465, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0465, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `virus-linear`
   static const IconifyIconData virusLinear = IconifyIconData.solo(
-    IconData(0xe466, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0466, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `virus-outline`
   static const IconifyIconData virusOutline = IconifyIconData.solo(
-    IconData(0xe467, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0467, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volleyball-2-bold`
   static const IconifyIconData volleyball2Bold = IconifyIconData.solo(
-    IconData(0xe468, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0468, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volleyball-2-bold-duotone` (duo-tone)
   static const IconifyIconData volleyball2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe469, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe469, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0469, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0469, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volleyball-2-broken`
   static const IconifyIconData volleyball2Broken = IconifyIconData.solo(
-    IconData(0xe46a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf046a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volleyball-2-line-duotone` (duo-tone)
   static const IconifyIconData volleyball2LineDuotone = IconifyIconData.duo(
-    IconData(0xe46b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe46b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf046b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf046b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volleyball-2-linear`
   static const IconifyIconData volleyball2Linear = IconifyIconData.solo(
-    IconData(0xe46c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf046c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volleyball-2-outline`
   static const IconifyIconData volleyball2Outline = IconifyIconData.solo(
-    IconData(0xe46d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf046d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volleyball-bold`
   static const IconifyIconData volleyballBold = IconifyIconData.solo(
-    IconData(0xe46e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf046e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volleyball-bold-duotone` (duo-tone)
   static const IconifyIconData volleyballBoldDuotone = IconifyIconData.duo(
-    IconData(0xe46f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe46f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf046f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf046f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volleyball-broken`
   static const IconifyIconData volleyballBroken = IconifyIconData.solo(
-    IconData(0xe470, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0470, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volleyball-line-duotone` (duo-tone)
   static const IconifyIconData volleyballLineDuotone = IconifyIconData.duo(
-    IconData(0xe471, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe471, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0471, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0471, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volleyball-linear`
   static const IconifyIconData volleyballLinear = IconifyIconData.solo(
-    IconData(0xe472, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0472, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volleyball-outline`
   static const IconifyIconData volleyballOutline = IconifyIconData.solo(
-    IconData(0xe473, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0473, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-bold`
   static const IconifyIconData volumeBold = IconifyIconData.solo(
-    IconData(0xe474, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0474, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-bold-duotone` (duo-tone)
   static const IconifyIconData volumeBoldDuotone = IconifyIconData.duo(
-    IconData(0xe475, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe475, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0475, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0475, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-broken`
   static const IconifyIconData volumeBroken = IconifyIconData.solo(
-    IconData(0xe476, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0476, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-cross-bold`
   static const IconifyIconData volumeCrossBold = IconifyIconData.solo(
-    IconData(0xe477, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0477, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-cross-bold-duotone` (duo-tone)
   static const IconifyIconData volumeCrossBoldDuotone = IconifyIconData.duo(
-    IconData(0xe478, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe478, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0478, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0478, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-cross-broken`
   static const IconifyIconData volumeCrossBroken = IconifyIconData.solo(
-    IconData(0xe479, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0479, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-cross-line-duotone` (duo-tone)
   static const IconifyIconData volumeCrossLineDuotone = IconifyIconData.duo(
-    IconData(0xe47a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe47a, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf047a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf047a, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-cross-linear`
   static const IconifyIconData volumeCrossLinear = IconifyIconData.solo(
-    IconData(0xe47b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf047b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-cross-outline`
   static const IconifyIconData volumeCrossOutline = IconifyIconData.solo(
-    IconData(0xe47c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf047c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-knob-bold`
   static const IconifyIconData volumeKnobBold = IconifyIconData.solo(
-    IconData(0xe47d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf047d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-knob-bold-duotone` (duo-tone)
   static const IconifyIconData volumeKnobBoldDuotone = IconifyIconData.duo(
-    IconData(0xe47e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe47e, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf047e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf047e, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-knob-broken`
   static const IconifyIconData volumeKnobBroken = IconifyIconData.solo(
-    IconData(0xe47f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf047f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-knob-line-duotone` (duo-tone)
   static const IconifyIconData volumeKnobLineDuotone = IconifyIconData.duo(
-    IconData(0xe480, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe480, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0480, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0480, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-knob-linear`
   static const IconifyIconData volumeKnobLinear = IconifyIconData.solo(
-    IconData(0xe481, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0481, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-knob-outline`
   static const IconifyIconData volumeKnobOutline = IconifyIconData.solo(
-    IconData(0xe482, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0482, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-line-duotone`
   static const IconifyIconData volumeLineDuotone = IconifyIconData.solo(
-    IconData(0xe483, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0483, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-linear`
   static const IconifyIconData volumeLinear = IconifyIconData.solo(
-    IconData(0xe484, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0484, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-loud-bold`
   static const IconifyIconData volumeLoudBold = IconifyIconData.solo(
-    IconData(0xe485, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0485, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-loud-bold-duotone` (duo-tone)
   static const IconifyIconData volumeLoudBoldDuotone = IconifyIconData.duo(
-    IconData(0xe486, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe486, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0486, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0486, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-loud-broken`
   static const IconifyIconData volumeLoudBroken = IconifyIconData.solo(
-    IconData(0xe487, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0487, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-loud-line-duotone` (duo-tone)
   static const IconifyIconData volumeLoudLineDuotone = IconifyIconData.duo(
-    IconData(0xe488, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe488, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0488, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0488, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-loud-linear`
   static const IconifyIconData volumeLoudLinear = IconifyIconData.solo(
-    IconData(0xe489, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0489, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-loud-outline`
   static const IconifyIconData volumeLoudOutline = IconifyIconData.solo(
-    IconData(0xe48a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf048a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-outline`
   static const IconifyIconData volumeOutline = IconifyIconData.solo(
-    IconData(0xe48b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf048b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-small-bold`
   static const IconifyIconData volumeSmallBold = IconifyIconData.solo(
-    IconData(0xe48c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf048c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-small-bold-duotone` (duo-tone)
   static const IconifyIconData volumeSmallBoldDuotone = IconifyIconData.duo(
-    IconData(0xe48d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe48d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf048d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf048d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-small-broken`
   static const IconifyIconData volumeSmallBroken = IconifyIconData.solo(
-    IconData(0xe48e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf048e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-small-line-duotone` (duo-tone)
   static const IconifyIconData volumeSmallLineDuotone = IconifyIconData.duo(
-    IconData(0xe48f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe48f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf048f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf048f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-small-linear`
   static const IconifyIconData volumeSmallLinear = IconifyIconData.solo(
-    IconData(0xe490, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0490, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `volume-small-outline`
   static const IconifyIconData volumeSmallOutline = IconifyIconData.solo(
-    IconData(0xe491, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0491, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wad-of-money-bold`
   static const IconifyIconData wadOfMoneyBold = IconifyIconData.solo(
-    IconData(0xe492, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0492, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wad-of-money-bold-duotone` (duo-tone)
   static const IconifyIconData wadOfMoneyBoldDuotone = IconifyIconData.duo(
-    IconData(0xe493, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe493, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0493, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0493, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wad-of-money-broken`
   static const IconifyIconData wadOfMoneyBroken = IconifyIconData.solo(
-    IconData(0xe494, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0494, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wad-of-money-line-duotone` (duo-tone)
   static const IconifyIconData wadOfMoneyLineDuotone = IconifyIconData.duo(
-    IconData(0xe495, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe495, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0495, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0495, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wad-of-money-linear`
   static const IconifyIconData wadOfMoneyLinear = IconifyIconData.solo(
-    IconData(0xe496, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0496, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wad-of-money-outline`
   static const IconifyIconData wadOfMoneyOutline = IconifyIconData.solo(
-    IconData(0xe497, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0497, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `walking-bold`
   static const IconifyIconData walkingBold = IconifyIconData.solo(
-    IconData(0xe498, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0498, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `walking-bold-duotone` (duo-tone)
   static const IconifyIconData walkingBoldDuotone = IconifyIconData.duo(
-    IconData(0xe499, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe499, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0499, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0499, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `walking-broken`
   static const IconifyIconData walkingBroken = IconifyIconData.solo(
-    IconData(0xe49a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf049a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `walking-line-duotone` (duo-tone)
   static const IconifyIconData walkingLineDuotone = IconifyIconData.duo(
-    IconData(0xe49b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe49b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf049b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf049b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `walking-linear`
   static const IconifyIconData walkingLinear = IconifyIconData.solo(
-    IconData(0xe49c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf049c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `walking-outline`
   static const IconifyIconData walkingOutline = IconifyIconData.solo(
-    IconData(0xe49d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf049d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `walking-round-bold`
   static const IconifyIconData walkingRoundBold = IconifyIconData.solo(
-    IconData(0xe49e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf049e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `walking-round-bold-duotone` (duo-tone)
   static const IconifyIconData walkingRoundBoldDuotone = IconifyIconData.duo(
-    IconData(0xe49f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe49f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf049f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf049f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `walking-round-broken`
   static const IconifyIconData walkingRoundBroken = IconifyIconData.solo(
-    IconData(0xe4a0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `walking-round-line-duotone` (duo-tone)
   static const IconifyIconData walkingRoundLineDuotone = IconifyIconData.duo(
-    IconData(0xe4a1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4a1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `walking-round-linear`
   static const IconifyIconData walkingRoundLinear = IconifyIconData.solo(
-    IconData(0xe4a2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `walking-round-outline`
   static const IconifyIconData walkingRoundOutline = IconifyIconData.solo(
-    IconData(0xe4a3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-2-bold`
   static const IconifyIconData wallet2Bold = IconifyIconData.solo(
-    IconData(0xe4a4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-2-bold-duotone` (duo-tone)
   static const IconifyIconData wallet2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe4a5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4a5, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-2-broken`
   static const IconifyIconData wallet2Broken = IconifyIconData.solo(
-    IconData(0xe4a6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-2-line-duotone` (duo-tone)
   static const IconifyIconData wallet2LineDuotone = IconifyIconData.duo(
-    IconData(0xe4a7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4a7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-2-linear`
   static const IconifyIconData wallet2Linear = IconifyIconData.solo(
-    IconData(0xe4a8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-2-outline`
   static const IconifyIconData wallet2Outline = IconifyIconData.solo(
-    IconData(0xe4a9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04a9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-bold`
   static const IconifyIconData walletBold = IconifyIconData.solo(
-    IconData(0xe4aa, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04aa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-bold-duotone` (duo-tone)
   static const IconifyIconData walletBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4ab, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4ab, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ab, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ab, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-broken`
   static const IconifyIconData walletBroken = IconifyIconData.solo(
-    IconData(0xe4ac, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ac, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-line-duotone` (duo-tone)
   static const IconifyIconData walletLineDuotone = IconifyIconData.duo(
-    IconData(0xe4ad, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4ad, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ad, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ad, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-linear`
   static const IconifyIconData walletLinear = IconifyIconData.solo(
-    IconData(0xe4ae, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ae, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-money-bold`
   static const IconifyIconData walletMoneyBold = IconifyIconData.solo(
-    IconData(0xe4af, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04af, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-money-bold-duotone` (duo-tone)
   static const IconifyIconData walletMoneyBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4b0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4b0, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b0, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-money-broken`
   static const IconifyIconData walletMoneyBroken = IconifyIconData.solo(
-    IconData(0xe4b1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-money-line-duotone` (duo-tone)
   static const IconifyIconData walletMoneyLineDuotone = IconifyIconData.duo(
-    IconData(0xe4b2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4b2, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-money-linear`
   static const IconifyIconData walletMoneyLinear = IconifyIconData.solo(
-    IconData(0xe4b3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-money-outline`
   static const IconifyIconData walletMoneyOutline = IconifyIconData.solo(
-    IconData(0xe4b4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallet-outline`
   static const IconifyIconData walletOutline = IconifyIconData.solo(
-    IconData(0xe4b5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallpaper-bold`
   static const IconifyIconData wallpaperBold = IconifyIconData.solo(
-    IconData(0xe4b6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallpaper-bold-duotone` (duo-tone)
   static const IconifyIconData wallpaperBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4b7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4b7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallpaper-broken`
   static const IconifyIconData wallpaperBroken = IconifyIconData.solo(
-    IconData(0xe4b8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallpaper-line-duotone` (duo-tone)
   static const IconifyIconData wallpaperLineDuotone = IconifyIconData.duo(
-    IconData(0xe4b9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4b9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04b9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallpaper-linear`
   static const IconifyIconData wallpaperLinear = IconifyIconData.solo(
-    IconData(0xe4ba, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ba, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wallpaper-outline`
   static const IconifyIconData wallpaperOutline = IconifyIconData.solo(
-    IconData(0xe4bb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04bb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-bold`
   static const IconifyIconData washingMachineBold = IconifyIconData.solo(
-    IconData(0xe4bc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04bc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-bold-duotone` (duo-tone)
   static const IconifyIconData washingMachineBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4bd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4bd, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04bd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04bd, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-broken`
   static const IconifyIconData washingMachineBroken = IconifyIconData.solo(
-    IconData(0xe4be, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04be, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-line-duotone` (duo-tone)
   static const IconifyIconData washingMachineLineDuotone = IconifyIconData.duo(
-    IconData(0xe4bf, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4bf, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04bf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04bf, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-linear`
   static const IconifyIconData washingMachineLinear = IconifyIconData.solo(
-    IconData(0xe4c0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-minimalistic-bold`
   static const IconifyIconData washingMachineMinimalisticBold = IconifyIconData.solo(
-    IconData(0xe4c1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-minimalistic-bold-duotone` (duo-tone)
   static const IconifyIconData washingMachineMinimalisticBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4c2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4c2, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c2, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-minimalistic-broken`
   static const IconifyIconData washingMachineMinimalisticBroken = IconifyIconData.solo(
-    IconData(0xe4c3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-minimalistic-line-duotone` (duo-tone)
   static const IconifyIconData washingMachineMinimalisticLineDuotone = IconifyIconData.duo(
-    IconData(0xe4c4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4c4, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-minimalistic-linear`
   static const IconifyIconData washingMachineMinimalisticLinear = IconifyIconData.solo(
-    IconData(0xe4c5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-minimalistic-outline`
   static const IconifyIconData washingMachineMinimalisticOutline = IconifyIconData.solo(
-    IconData(0xe4c6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `washing-machine-outline`
   static const IconifyIconData washingMachineOutline = IconifyIconData.solo(
-    IconData(0xe4c7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-round-bold`
   static const IconifyIconData watchRoundBold = IconifyIconData.solo(
-    IconData(0xe4c8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-round-bold-duotone` (duo-tone)
   static const IconifyIconData watchRoundBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4c9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4c9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04c9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-round-broken`
   static const IconifyIconData watchRoundBroken = IconifyIconData.solo(
-    IconData(0xe4ca, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ca, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-round-line-duotone` (duo-tone)
   static const IconifyIconData watchRoundLineDuotone = IconifyIconData.duo(
-    IconData(0xe4cb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4cb, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04cb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04cb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-round-linear`
   static const IconifyIconData watchRoundLinear = IconifyIconData.solo(
-    IconData(0xe4cc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04cc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-round-outline`
   static const IconifyIconData watchRoundOutline = IconifyIconData.solo(
-    IconData(0xe4cd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04cd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-bold`
   static const IconifyIconData watchSquareBold = IconifyIconData.solo(
-    IconData(0xe4ce, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ce, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-bold-duotone` (duo-tone)
   static const IconifyIconData watchSquareBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4cf, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4cf, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04cf, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04cf, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-broken`
   static const IconifyIconData watchSquareBroken = IconifyIconData.solo(
-    IconData(0xe4d0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-line-duotone` (duo-tone)
   static const IconifyIconData watchSquareLineDuotone = IconifyIconData.duo(
-    IconData(0xe4d1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4d1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-linear`
   static const IconifyIconData watchSquareLinear = IconifyIconData.solo(
-    IconData(0xe4d2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-bold`
   static const IconifyIconData watchSquareMinimalisticBold = IconifyIconData.solo(
-    IconData(0xe4d3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-bold-duotone` (duo-tone)
   static const IconifyIconData watchSquareMinimalisticBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4d4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4d4, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d4, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-broken`
   static const IconifyIconData watchSquareMinimalisticBroken = IconifyIconData.solo(
-    IconData(0xe4d5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-charge-bold`
   static const IconifyIconData watchSquareMinimalisticChargeBold = IconifyIconData.solo(
-    IconData(0xe4d6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-charge-bold-duotone` (duo-tone)
   static const IconifyIconData watchSquareMinimalisticChargeBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4d7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4d7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-charge-broken`
   static const IconifyIconData watchSquareMinimalisticChargeBroken = IconifyIconData.solo(
-    IconData(0xe4d8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-charge-line-duotone` (duo-tone)
   static const IconifyIconData watchSquareMinimalisticChargeLineDuotone = IconifyIconData.duo(
-    IconData(0xe4d9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4d9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04d9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-charge-linear`
   static const IconifyIconData watchSquareMinimalisticChargeLinear = IconifyIconData.solo(
-    IconData(0xe4da, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04da, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-charge-outline`
   static const IconifyIconData watchSquareMinimalisticChargeOutline = IconifyIconData.solo(
-    IconData(0xe4db, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04db, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-line-duotone` (duo-tone)
   static const IconifyIconData watchSquareMinimalisticLineDuotone = IconifyIconData.duo(
-    IconData(0xe4dc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4dc, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04dc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04dc, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-linear`
   static const IconifyIconData watchSquareMinimalisticLinear = IconifyIconData.solo(
-    IconData(0xe4dd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04dd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-minimalistic-outline`
   static const IconifyIconData watchSquareMinimalisticOutline = IconifyIconData.solo(
-    IconData(0xe4de, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04de, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `watch-square-outline`
   static const IconifyIconData watchSquareOutline = IconifyIconData.solo(
-    IconData(0xe4df, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04df, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `water-bold`
   static const IconifyIconData waterBold = IconifyIconData.solo(
-    IconData(0xe4e0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `water-bold-duotone` (duo-tone)
   static const IconifyIconData waterBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4e1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4e1, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e1, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `water-broken`
   static const IconifyIconData waterBroken = IconifyIconData.solo(
-    IconData(0xe4e2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `water-line-duotone` (duo-tone)
   static const IconifyIconData waterLineDuotone = IconifyIconData.duo(
-    IconData(0xe4e3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4e3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `water-linear`
   static const IconifyIconData waterLinear = IconifyIconData.solo(
-    IconData(0xe4e4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `water-outline`
   static const IconifyIconData waterOutline = IconifyIconData.solo(
-    IconData(0xe4e5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `water-sun-bold`
   static const IconifyIconData waterSunBold = IconifyIconData.solo(
-    IconData(0xe4e6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `water-sun-bold-duotone` (duo-tone)
   static const IconifyIconData waterSunBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4e7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4e7, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e7, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `water-sun-broken`
   static const IconifyIconData waterSunBroken = IconifyIconData.solo(
-    IconData(0xe4e8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `water-sun-line-duotone` (duo-tone)
   static const IconifyIconData waterSunLineDuotone = IconifyIconData.duo(
-    IconData(0xe4e9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4e9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04e9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `water-sun-linear`
   static const IconifyIconData waterSunLinear = IconifyIconData.solo(
-    IconData(0xe4ea, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ea, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `water-sun-outline`
   static const IconifyIconData waterSunOutline = IconifyIconData.solo(
-    IconData(0xe4eb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04eb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `waterdrop-bold`
   static const IconifyIconData waterdropBold = IconifyIconData.solo(
-    IconData(0xe4ec, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ec, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `waterdrop-bold-duotone` (duo-tone)
   static const IconifyIconData waterdropBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4ed, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4ed, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ed, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ed, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `waterdrop-broken`
   static const IconifyIconData waterdropBroken = IconifyIconData.solo(
-    IconData(0xe4ee, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ee, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `waterdrop-line-duotone` (duo-tone)
   static const IconifyIconData waterdropLineDuotone = IconifyIconData.duo(
-    IconData(0xe4ef, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4ef, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ef, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ef, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `waterdrop-linear`
   static const IconifyIconData waterdropLinear = IconifyIconData.solo(
-    IconData(0xe4f0, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f0, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `waterdrop-outline`
   static const IconifyIconData waterdropOutline = IconifyIconData.solo(
-    IconData(0xe4f1, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f1, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `waterdrops-bold`
   static const IconifyIconData waterdropsBold = IconifyIconData.solo(
-    IconData(0xe4f2, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f2, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `waterdrops-bold-duotone` (duo-tone)
   static const IconifyIconData waterdropsBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4f3, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4f3, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f3, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f3, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `waterdrops-broken`
   static const IconifyIconData waterdropsBroken = IconifyIconData.solo(
-    IconData(0xe4f4, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f4, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `waterdrops-line-duotone` (duo-tone)
   static const IconifyIconData waterdropsLineDuotone = IconifyIconData.duo(
-    IconData(0xe4f5, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4f5, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f5, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f5, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `waterdrops-linear`
   static const IconifyIconData waterdropsLinear = IconifyIconData.solo(
-    IconData(0xe4f6, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f6, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `waterdrops-outline`
   static const IconifyIconData waterdropsOutline = IconifyIconData.solo(
-    IconData(0xe4f7, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f7, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `weigher-bold`
   static const IconifyIconData weigherBold = IconifyIconData.solo(
-    IconData(0xe4f8, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f8, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `weigher-bold-duotone` (duo-tone)
   static const IconifyIconData weigherBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4f9, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4f9, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f9, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04f9, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `weigher-broken`
   static const IconifyIconData weigherBroken = IconifyIconData.solo(
-    IconData(0xe4fa, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04fa, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `weigher-line-duotone` (duo-tone)
   static const IconifyIconData weigherLineDuotone = IconifyIconData.duo(
-    IconData(0xe4fb, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4fb, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04fb, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04fb, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `weigher-linear`
   static const IconifyIconData weigherLinear = IconifyIconData.solo(
-    IconData(0xe4fc, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04fc, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `weigher-outline`
   static const IconifyIconData weigherOutline = IconifyIconData.solo(
-    IconData(0xe4fd, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04fd, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wheel-angle-bold`
   static const IconifyIconData wheelAngleBold = IconifyIconData.solo(
-    IconData(0xe4fe, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04fe, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wheel-angle-bold-duotone` (duo-tone)
   static const IconifyIconData wheelAngleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe4ff, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe4ff, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ff, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf04ff, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wheel-angle-broken`
   static const IconifyIconData wheelAngleBroken = IconifyIconData.solo(
-    IconData(0xe500, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0500, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wheel-angle-line-duotone` (duo-tone)
   static const IconifyIconData wheelAngleLineDuotone = IconifyIconData.duo(
-    IconData(0xe501, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe501, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0501, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0501, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wheel-angle-linear`
   static const IconifyIconData wheelAngleLinear = IconifyIconData.solo(
-    IconData(0xe502, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0502, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wheel-angle-outline`
   static const IconifyIconData wheelAngleOutline = IconifyIconData.solo(
-    IconData(0xe503, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0503, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wheel-bold`
   static const IconifyIconData wheelBold = IconifyIconData.solo(
-    IconData(0xe504, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0504, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wheel-bold-duotone`
   static const IconifyIconData wheelBoldDuotone = IconifyIconData.solo(
-    IconData(0xe505, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0505, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wheel-broken`
   static const IconifyIconData wheelBroken = IconifyIconData.solo(
-    IconData(0xe506, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0506, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wheel-line-duotone` (duo-tone)
   static const IconifyIconData wheelLineDuotone = IconifyIconData.duo(
-    IconData(0xe507, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe507, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0507, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0507, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wheel-linear`
   static const IconifyIconData wheelLinear = IconifyIconData.solo(
-    IconData(0xe508, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0508, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wheel-outline`
   static const IconifyIconData wheelOutline = IconifyIconData.solo(
-    IconData(0xe509, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0509, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `whisk-bold`
   static const IconifyIconData whiskBold = IconifyIconData.solo(
-    IconData(0xe50a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf050a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `whisk-bold-duotone` (duo-tone)
   static const IconifyIconData whiskBoldDuotone = IconifyIconData.duo(
-    IconData(0xe50b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe50b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf050b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf050b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `whisk-broken`
   static const IconifyIconData whiskBroken = IconifyIconData.solo(
-    IconData(0xe50c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf050c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `whisk-line-duotone` (duo-tone)
   static const IconifyIconData whiskLineDuotone = IconifyIconData.duo(
-    IconData(0xe50d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe50d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf050d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf050d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `whisk-linear`
   static const IconifyIconData whiskLinear = IconifyIconData.solo(
-    IconData(0xe50e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf050e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `whisk-outline`
   static const IconifyIconData whiskOutline = IconifyIconData.solo(
-    IconData(0xe50f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf050f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-bold`
   static const IconifyIconData wiFiRouterBold = IconifyIconData.solo(
-    IconData(0xe510, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0510, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-bold-duotone` (duo-tone)
   static const IconifyIconData wiFiRouterBoldDuotone = IconifyIconData.duo(
-    IconData(0xe511, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe511, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0511, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0511, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-broken`
   static const IconifyIconData wiFiRouterBroken = IconifyIconData.solo(
-    IconData(0xe512, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0512, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-line-duotone` (duo-tone)
   static const IconifyIconData wiFiRouterLineDuotone = IconifyIconData.duo(
-    IconData(0xe513, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe513, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0513, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0513, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-linear`
   static const IconifyIconData wiFiRouterLinear = IconifyIconData.solo(
-    IconData(0xe514, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0514, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-minimalistic-bold`
   static const IconifyIconData wiFiRouterMinimalisticBold = IconifyIconData.solo(
-    IconData(0xe515, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0515, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-minimalistic-bold-duotone` (duo-tone)
   static const IconifyIconData wiFiRouterMinimalisticBoldDuotone = IconifyIconData.duo(
-    IconData(0xe516, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe516, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0516, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0516, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-minimalistic-broken`
   static const IconifyIconData wiFiRouterMinimalisticBroken = IconifyIconData.solo(
-    IconData(0xe517, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0517, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-minimalistic-line-duotone` (duo-tone)
   static const IconifyIconData wiFiRouterMinimalisticLineDuotone = IconifyIconData.duo(
-    IconData(0xe518, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe518, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0518, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0518, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-minimalistic-linear`
   static const IconifyIconData wiFiRouterMinimalisticLinear = IconifyIconData.solo(
-    IconData(0xe519, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0519, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-minimalistic-outline`
   static const IconifyIconData wiFiRouterMinimalisticOutline = IconifyIconData.solo(
-    IconData(0xe51a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf051a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-outline`
   static const IconifyIconData wiFiRouterOutline = IconifyIconData.solo(
-    IconData(0xe51b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf051b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-round-bold`
   static const IconifyIconData wiFiRouterRoundBold = IconifyIconData.solo(
-    IconData(0xe51c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf051c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-round-bold-duotone` (duo-tone)
   static const IconifyIconData wiFiRouterRoundBoldDuotone = IconifyIconData.duo(
-    IconData(0xe51d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe51d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf051d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf051d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-round-broken`
   static const IconifyIconData wiFiRouterRoundBroken = IconifyIconData.solo(
-    IconData(0xe51e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf051e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-round-line-duotone` (duo-tone)
   static const IconifyIconData wiFiRouterRoundLineDuotone = IconifyIconData.duo(
-    IconData(0xe51f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe51f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf051f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf051f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-round-linear`
   static const IconifyIconData wiFiRouterRoundLinear = IconifyIconData.solo(
-    IconData(0xe520, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0520, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wi-fi-router-round-outline`
   static const IconifyIconData wiFiRouterRoundOutline = IconifyIconData.solo(
-    IconData(0xe521, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0521, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-2-bold`
   static const IconifyIconData widget2Bold = IconifyIconData.solo(
-    IconData(0xe522, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0522, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-2-bold-duotone` (duo-tone)
   static const IconifyIconData widget2BoldDuotone = IconifyIconData.duo(
-    IconData(0xe523, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe523, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0523, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0523, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-2-broken`
   static const IconifyIconData widget2Broken = IconifyIconData.solo(
-    IconData(0xe524, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0524, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-2-line-duotone` (duo-tone)
   static const IconifyIconData widget2LineDuotone = IconifyIconData.duo(
-    IconData(0xe525, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe525, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0525, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0525, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-2-linear`
   static const IconifyIconData widget2Linear = IconifyIconData.solo(
-    IconData(0xe526, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0526, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-2-outline`
   static const IconifyIconData widget2Outline = IconifyIconData.solo(
-    IconData(0xe527, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0527, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-3-bold`
   static const IconifyIconData widget3Bold = IconifyIconData.solo(
-    IconData(0xe528, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0528, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-3-bold-duotone` (duo-tone)
   static const IconifyIconData widget3BoldDuotone = IconifyIconData.duo(
-    IconData(0xe529, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe529, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0529, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0529, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-3-broken`
   static const IconifyIconData widget3Broken = IconifyIconData.solo(
-    IconData(0xe52a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf052a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-3-line-duotone` (duo-tone)
   static const IconifyIconData widget3LineDuotone = IconifyIconData.duo(
-    IconData(0xe52b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe52b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf052b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf052b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-3-linear`
   static const IconifyIconData widget3Linear = IconifyIconData.solo(
-    IconData(0xe52c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf052c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-3-outline`
   static const IconifyIconData widget3Outline = IconifyIconData.solo(
-    IconData(0xe52d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf052d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-4-bold`
   static const IconifyIconData widget4Bold = IconifyIconData.solo(
-    IconData(0xe52e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf052e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-4-bold-duotone` (duo-tone)
   static const IconifyIconData widget4BoldDuotone = IconifyIconData.duo(
-    IconData(0xe52f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe52f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf052f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf052f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-4-broken`
   static const IconifyIconData widget4Broken = IconifyIconData.solo(
-    IconData(0xe530, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0530, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-4-line-duotone` (duo-tone)
   static const IconifyIconData widget4LineDuotone = IconifyIconData.duo(
-    IconData(0xe531, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe531, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0531, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0531, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-4-linear`
   static const IconifyIconData widget4Linear = IconifyIconData.solo(
-    IconData(0xe532, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0532, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-4-outline`
   static const IconifyIconData widget4Outline = IconifyIconData.solo(
-    IconData(0xe533, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0533, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-5-bold`
   static const IconifyIconData widget5Bold = IconifyIconData.solo(
-    IconData(0xe534, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0534, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-5-bold-duotone` (duo-tone)
   static const IconifyIconData widget5BoldDuotone = IconifyIconData.duo(
-    IconData(0xe535, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe535, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0535, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0535, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-5-broken`
   static const IconifyIconData widget5Broken = IconifyIconData.solo(
-    IconData(0xe536, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0536, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-5-line-duotone` (duo-tone)
   static const IconifyIconData widget5LineDuotone = IconifyIconData.duo(
-    IconData(0xe537, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe537, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0537, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0537, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-5-linear`
   static const IconifyIconData widget5Linear = IconifyIconData.solo(
-    IconData(0xe538, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0538, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-5-outline`
   static const IconifyIconData widget5Outline = IconifyIconData.solo(
-    IconData(0xe539, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0539, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-6-bold`
   static const IconifyIconData widget6Bold = IconifyIconData.solo(
-    IconData(0xe53a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf053a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-6-bold-duotone` (duo-tone)
   static const IconifyIconData widget6BoldDuotone = IconifyIconData.duo(
-    IconData(0xe53b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe53b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf053b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf053b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-6-broken`
   static const IconifyIconData widget6Broken = IconifyIconData.solo(
-    IconData(0xe53c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf053c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-6-line-duotone` (duo-tone)
   static const IconifyIconData widget6LineDuotone = IconifyIconData.duo(
-    IconData(0xe53d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe53d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf053d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf053d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-6-linear`
   static const IconifyIconData widget6Linear = IconifyIconData.solo(
-    IconData(0xe53e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf053e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-6-outline`
   static const IconifyIconData widget6Outline = IconifyIconData.solo(
-    IconData(0xe53f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf053f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-add-bold`
   static const IconifyIconData widgetAddBold = IconifyIconData.solo(
-    IconData(0xe540, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0540, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-add-bold-duotone` (duo-tone)
   static const IconifyIconData widgetAddBoldDuotone = IconifyIconData.duo(
-    IconData(0xe541, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe541, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0541, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0541, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-add-broken`
   static const IconifyIconData widgetAddBroken = IconifyIconData.solo(
-    IconData(0xe542, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0542, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-add-line-duotone` (duo-tone)
   static const IconifyIconData widgetAddLineDuotone = IconifyIconData.duo(
-    IconData(0xe543, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe543, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0543, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0543, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-add-linear`
   static const IconifyIconData widgetAddLinear = IconifyIconData.solo(
-    IconData(0xe544, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0544, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-add-outline`
   static const IconifyIconData widgetAddOutline = IconifyIconData.solo(
-    IconData(0xe545, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0545, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-bold`
   static const IconifyIconData widgetBold = IconifyIconData.solo(
-    IconData(0xe546, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0546, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-bold-duotone` (duo-tone)
   static const IconifyIconData widgetBoldDuotone = IconifyIconData.duo(
-    IconData(0xe547, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe547, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0547, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0547, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-broken`
   static const IconifyIconData widgetBroken = IconifyIconData.solo(
-    IconData(0xe548, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0548, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-line-duotone` (duo-tone)
   static const IconifyIconData widgetLineDuotone = IconifyIconData.duo(
-    IconData(0xe549, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe549, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0549, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0549, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-linear`
   static const IconifyIconData widgetLinear = IconifyIconData.solo(
-    IconData(0xe54a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf054a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `widget-outline`
   static const IconifyIconData widgetOutline = IconifyIconData.solo(
-    IconData(0xe54b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf054b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wind-bold`
   static const IconifyIconData windBold = IconifyIconData.solo(
-    IconData(0xe54c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf054c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wind-bold-duotone` (duo-tone)
   static const IconifyIconData windBoldDuotone = IconifyIconData.duo(
-    IconData(0xe54d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe54d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf054d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf054d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wind-broken`
   static const IconifyIconData windBroken = IconifyIconData.solo(
-    IconData(0xe54e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf054e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wind-line-duotone` (duo-tone)
   static const IconifyIconData windLineDuotone = IconifyIconData.duo(
-    IconData(0xe54f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe54f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf054f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf054f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wind-linear`
   static const IconifyIconData windLinear = IconifyIconData.solo(
-    IconData(0xe550, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0550, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wind-outline`
   static const IconifyIconData windOutline = IconifyIconData.solo(
-    IconData(0xe551, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0551, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `window-frame-bold`
   static const IconifyIconData windowFrameBold = IconifyIconData.solo(
-    IconData(0xe552, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0552, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `window-frame-bold-duotone` (duo-tone)
   static const IconifyIconData windowFrameBoldDuotone = IconifyIconData.duo(
-    IconData(0xe553, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe553, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0553, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0553, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `window-frame-broken`
   static const IconifyIconData windowFrameBroken = IconifyIconData.solo(
-    IconData(0xe554, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0554, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `window-frame-line-duotone` (duo-tone)
   static const IconifyIconData windowFrameLineDuotone = IconifyIconData.duo(
-    IconData(0xe555, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe555, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0555, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0555, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `window-frame-linear`
   static const IconifyIconData windowFrameLinear = IconifyIconData.solo(
-    IconData(0xe556, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0556, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `window-frame-outline`
   static const IconifyIconData windowFrameOutline = IconifyIconData.solo(
-    IconData(0xe557, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0557, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wineglass-bold`
   static const IconifyIconData wineglassBold = IconifyIconData.solo(
-    IconData(0xe558, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0558, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wineglass-bold-duotone` (duo-tone)
   static const IconifyIconData wineglassBoldDuotone = IconifyIconData.duo(
-    IconData(0xe559, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe559, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0559, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0559, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wineglass-broken`
   static const IconifyIconData wineglassBroken = IconifyIconData.solo(
-    IconData(0xe55a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf055a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wineglass-line-duotone` (duo-tone)
   static const IconifyIconData wineglassLineDuotone = IconifyIconData.duo(
-    IconData(0xe55b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe55b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf055b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf055b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wineglass-linear`
   static const IconifyIconData wineglassLinear = IconifyIconData.solo(
-    IconData(0xe55c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf055c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wineglass-outline`
   static const IconifyIconData wineglassOutline = IconifyIconData.solo(
-    IconData(0xe55d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf055d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wineglass-triangle-bold`
   static const IconifyIconData wineglassTriangleBold = IconifyIconData.solo(
-    IconData(0xe55e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf055e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wineglass-triangle-bold-duotone` (duo-tone)
   static const IconifyIconData wineglassTriangleBoldDuotone = IconifyIconData.duo(
-    IconData(0xe55f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe55f, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf055f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf055f, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wineglass-triangle-broken`
   static const IconifyIconData wineglassTriangleBroken = IconifyIconData.solo(
-    IconData(0xe560, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0560, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wineglass-triangle-line-duotone` (duo-tone)
   static const IconifyIconData wineglassTriangleLineDuotone = IconifyIconData.duo(
-    IconData(0xe561, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe561, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0561, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0561, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wineglass-triangle-linear`
   static const IconifyIconData wineglassTriangleLinear = IconifyIconData.solo(
-    IconData(0xe562, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0562, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wineglass-triangle-outline`
   static const IconifyIconData wineglassTriangleOutline = IconifyIconData.solo(
-    IconData(0xe563, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0563, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `winrar-bold`
   static const IconifyIconData winrarBold = IconifyIconData.solo(
-    IconData(0xe564, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0564, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `winrar-bold-duotone` (duo-tone)
   static const IconifyIconData winrarBoldDuotone = IconifyIconData.duo(
-    IconData(0xe565, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe565, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0565, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0565, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `winrar-broken`
   static const IconifyIconData winrarBroken = IconifyIconData.solo(
-    IconData(0xe566, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0566, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `winrar-line-duotone` (duo-tone)
   static const IconifyIconData winrarLineDuotone = IconifyIconData.duo(
-    IconData(0xe567, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe567, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0567, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0567, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `winrar-linear`
   static const IconifyIconData winrarLinear = IconifyIconData.solo(
-    IconData(0xe568, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0568, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `winrar-outline`
   static const IconifyIconData winrarOutline = IconifyIconData.solo(
-    IconData(0xe569, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0569, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wireless-charge-bold`
   static const IconifyIconData wirelessChargeBold = IconifyIconData.solo(
-    IconData(0xe56a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf056a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wireless-charge-bold-duotone` (duo-tone)
   static const IconifyIconData wirelessChargeBoldDuotone = IconifyIconData.duo(
-    IconData(0xe56b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe56b, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf056b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf056b, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wireless-charge-broken`
   static const IconifyIconData wirelessChargeBroken = IconifyIconData.solo(
-    IconData(0xe56c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf056c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wireless-charge-line-duotone` (duo-tone)
   static const IconifyIconData wirelessChargeLineDuotone = IconifyIconData.duo(
-    IconData(0xe56d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe56d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf056d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf056d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wireless-charge-linear`
   static const IconifyIconData wirelessChargeLinear = IconifyIconData.solo(
-    IconData(0xe56e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf056e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `wireless-charge-outline`
   static const IconifyIconData wirelessChargeOutline = IconifyIconData.solo(
-    IconData(0xe56f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf056f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `women-bold`
   static const IconifyIconData womenBold = IconifyIconData.solo(
-    IconData(0xe570, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0570, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `women-bold-duotone` (duo-tone)
   static const IconifyIconData womenBoldDuotone = IconifyIconData.duo(
-    IconData(0xe571, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe571, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0571, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0571, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `women-broken`
   static const IconifyIconData womenBroken = IconifyIconData.solo(
-    IconData(0xe572, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0572, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `women-line-duotone` (duo-tone)
   static const IconifyIconData womenLineDuotone = IconifyIconData.duo(
-    IconData(0xe573, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe573, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0573, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0573, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `women-linear`
   static const IconifyIconData womenLinear = IconifyIconData.solo(
-    IconData(0xe574, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0574, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `women-outline`
   static const IconifyIconData womenOutline = IconifyIconData.solo(
-    IconData(0xe575, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0575, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `xxx-bold`
   static const IconifyIconData xxxBold = IconifyIconData.solo(
-    IconData(0xe576, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0576, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `xxx-bold-duotone` (duo-tone)
   static const IconifyIconData xxxBoldDuotone = IconifyIconData.duo(
-    IconData(0xe577, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe577, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0577, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0577, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `xxx-broken`
   static const IconifyIconData xxxBroken = IconifyIconData.solo(
-    IconData(0xe578, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0578, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `xxx-line-duotone` (duo-tone)
   static const IconifyIconData xxxLineDuotone = IconifyIconData.duo(
-    IconData(0xe579, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe579, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0579, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0579, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `xxx-linear`
   static const IconifyIconData xxxLinear = IconifyIconData.solo(
-    IconData(0xe57a, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf057a, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `xxx-outline`
   static const IconifyIconData xxxOutline = IconifyIconData.solo(
-    IconData(0xe57b, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf057b, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `zip-file-bold`
   static const IconifyIconData zipFileBold = IconifyIconData.solo(
-    IconData(0xe57c, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf057c, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `zip-file-bold-duotone` (duo-tone)
   static const IconifyIconData zipFileBoldDuotone = IconifyIconData.duo(
-    IconData(0xe57d, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
-    IconData(0xe57d, fontFamily: 'Solar_2Secondary', fontPackage: 'iconifyx_solar'),
+    IconData(0xf057d, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
+    IconData(0xf057d, fontFamily: 'SolarSecondary', fontPackage: 'iconifyx_solar'),
   );
 
   /// `zip-file-broken`
   static const IconifyIconData zipFileBroken = IconifyIconData.solo(
-    IconData(0xe57e, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf057e, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `zip-file-line-duotone`
   static const IconifyIconData zipFileLineDuotone = IconifyIconData.solo(
-    IconData(0xe57f, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf057f, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `zip-file-linear`
   static const IconifyIconData zipFileLinear = IconifyIconData.solo(
-    IconData(0xe580, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0580, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
   /// `zip-file-outline`
   static const IconifyIconData zipFileOutline = IconifyIconData.solo(
-    IconData(0xe581, fontFamily: 'Solar_2', fontPackage: 'iconifyx_solar'),
+    IconData(0xf0581, fontFamily: 'Solar', fontPackage: 'iconifyx_solar'),
   );
 
 }

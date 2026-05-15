@@ -20,6 +20,3 @@ flutter:
     - family: Iconoir
       fonts:
         - asset: assets/fonts/Iconoir.ttf
-    - family: Iconoir_2
-      fonts:
-        - asset: assets/fonts/Iconoir_2.ttf

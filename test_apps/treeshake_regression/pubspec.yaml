@@ -1,0 +1,39 @@
+name: iconifyx_treeshake_regression
+description: >
+  Canonical bundle-size regression check for iconifyx's §32 single-TTF-per-pack
+  invariant. Uses 50 icons across 10 packs; the macOS release build with
+  --tree-shake-icons MUST produce a total bundled font payload below the
+  threshold defined in `.github/workflows/treeshake-regression.yml`.
+publish_to: 'none'
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../../packages/iconifyx_core
+  iconifyx_mdi:
+    path: ../../packages/iconifyx_mdi
+  iconifyx_lucide:
+    path: ../../packages/iconifyx_lucide
+  iconifyx_tabler:
+    path: ../../packages/iconifyx_tabler
+  iconifyx_ph:
+    path: ../../packages/iconifyx_ph
+  iconifyx_ic:
+    path: ../../packages/iconifyx_ic
+  iconifyx_solar:
+    path: ../../packages/iconifyx_solar
+  iconifyx_iconoir:
+    path: ../../packages/iconifyx_iconoir
+  iconifyx_carbon:
+    path: ../../packages/iconifyx_carbon
+  iconifyx_feather:
+    path: ../../packages/iconifyx_feather
+  iconifyx_heroicons:
+    path: ../../packages/iconifyx_heroicons
+
+flutter:
+  uses-material-design: false

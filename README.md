@@ -15,24 +15,24 @@ IconifyIcon(LucideIcons.house, color: Colors.blue);
 
 ## Bundle size
 
-An app that uses two icons from two different sets bundles only those sets' fonts:
+Empirically measured: **your app bundle grows by roughly the number of icons you reference, NOT by the number of packs**. Tree-shake works end-to-end on macOS desktop release, Flutter web (CanvasKit) release, and iOS — verified Flutter 3.44.
 
 | Scenario | Bundle font size |
 |---|---|
 | Vanilla Flutter app (no icon packages) | ~0 |
-| App + `iconifyx_mdi` + `iconifyx_lucide`, two icons used | **~1.1 MB** |
-| Same against a monolithic icons dep | 50+ MB |
+| **3 icons across 3 packs** (mdi + lucide + tabler) | **2.5 KB** |
+| **50 icons across 10 packs** | **~18 KB** |
+| Same against a monolithic icons dep (or `iconifyx` meta) | 30+ MB |
 
-Tree-shake details (release build with `--tree-shake-icons`, on by default):
+Per-glyph cost in a release build with `--tree-shake-icons` (default-on):
 
-| File | Before | After |
-|---|---|---|
-| `Lucide.ttf` (used: `house`) | 176 KB | **720 B** |
-| `Mdi_2.ttf` (used: `home`) | 784 KB | **664 B** |
-| `Mdi.ttf` (zero references) | 808 KB | 808 KB |
-| `Mdi_3.ttf` (zero references) | 300 KB | 300 KB |
+| Scenario | Bundled TTF size |
+|---|---|
+| `Mdi.ttf` (used: 1 icon) | ~700 B |
+| `Lucide.ttf` (used: 5 icons) | ~2 KB |
+| `Tabler.ttf` (used: 5 icons) | ~2 KB |
 
-Flutter only subsets fonts where it finds at least one IconData reference; fonts with zero references stay full size but at least your app doesn't ship the other 200 sets. See [test_apps/two_icon_test/](test_apps/two_icon_test/) for the verification harness.
+Every pack ships exactly ONE primary TTF (plus one Secondary for duotone packs). The generator merges multi-sibling auto-split fonts internally via `cmap format 12` + Supplementary PUA codepoints, so Flutter's per-pack `font-subset` runs against a single file with no "unreferenced sibling" tax. See [test_apps/treeshake_regression/](test_apps/treeshake_regression/) for the canonical bundle-size regression harness; CI enforces total < 35 KB for the 10-pack / 50-icon scenario.
 
 ## Quick start
 

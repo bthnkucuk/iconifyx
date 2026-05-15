@@ -23,12 +23,12 @@ class UnjsIcons {
 
   /// `nitro`
   static const IconifyIconData nitro = IconifyIconData.solo(
-    IconData(0xe005, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
+    IconData(0xe001, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
   );
 
   /// `undocs`
   static const IconifyIconData undocs = IconifyIconData.solo(
-    IconData(0xe006, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
+    IconData(0xe002, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
   );
 
   /// `unpdf`

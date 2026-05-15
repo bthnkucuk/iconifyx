@@ -20,9 +20,3 @@ flutter:
     - family: MaterialSymbolsLight
       fonts:
         - asset: assets/fonts/MaterialSymbolsLight.ttf
-    - family: MaterialSymbolsLight_2
-      fonts:
-        - asset: assets/fonts/MaterialSymbolsLight_2.ttf
-    - family: MaterialSymbolsLight_3
-      fonts:
-        - asset: assets/fonts/MaterialSymbolsLight_3.ttf

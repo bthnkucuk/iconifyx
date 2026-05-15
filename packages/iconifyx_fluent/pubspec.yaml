@@ -20,12 +20,3 @@ flutter:
     - family: Fluent
       fonts:
         - asset: assets/fonts/Fluent.ttf
-    - family: Fluent_2
-      fonts:
-        - asset: assets/fonts/Fluent_2.ttf
-    - family: Fluent_3
-      fonts:
-        - asset: assets/fonts/Fluent_3.ttf
-    - family: Fluent_4
-      fonts:
-        - asset: assets/fonts/Fluent_4.ttf

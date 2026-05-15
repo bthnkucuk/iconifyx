@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Phosphor Icons
 /// License: MIT — https://github.com/phosphor-icons/core/blob/main/LICENSE
-/// Icons: 9198 (split across 4 fonts)
+/// Icons: 9198
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -31016,16522 +31016,16522 @@ class PhIcons {
 
   /// `number-square-three`
   static const IconifyIconData numberSquareThree = IconifyIconData.solo(
-    IconData(0xe000, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0000, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-three-bold`
   static const IconifyIconData numberSquareThreeBold = IconifyIconData.solo(
-    IconData(0xe001, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0001, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-three-duotone` (duo-tone)
   static const IconifyIconData numberSquareThreeDuotone = IconifyIconData.duo(
-    IconData(0xe002, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe002, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0002, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0002, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-three-fill`
   static const IconifyIconData numberSquareThreeFill = IconifyIconData.solo(
-    IconData(0xe003, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0003, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-three-light`
   static const IconifyIconData numberSquareThreeLight = IconifyIconData.solo(
-    IconData(0xe004, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0004, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-three-thin`
   static const IconifyIconData numberSquareThreeThin = IconifyIconData.solo(
-    IconData(0xe005, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0005, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-two`
   static const IconifyIconData numberSquareTwo = IconifyIconData.solo(
-    IconData(0xe006, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0006, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-two-bold`
   static const IconifyIconData numberSquareTwoBold = IconifyIconData.solo(
-    IconData(0xe007, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0007, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-two-duotone` (duo-tone)
   static const IconifyIconData numberSquareTwoDuotone = IconifyIconData.duo(
-    IconData(0xe008, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe008, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0008, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0008, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-two-fill`
   static const IconifyIconData numberSquareTwoFill = IconifyIconData.solo(
-    IconData(0xe009, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0009, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-two-light`
   static const IconifyIconData numberSquareTwoLight = IconifyIconData.solo(
-    IconData(0xe00a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf000a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-two-thin`
   static const IconifyIconData numberSquareTwoThin = IconifyIconData.solo(
-    IconData(0xe00b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf000b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-zero`
   static const IconifyIconData numberSquareZero = IconifyIconData.solo(
-    IconData(0xe00c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf000c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-zero-bold`
   static const IconifyIconData numberSquareZeroBold = IconifyIconData.solo(
-    IconData(0xe00d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf000d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-zero-duotone` (duo-tone)
   static const IconifyIconData numberSquareZeroDuotone = IconifyIconData.duo(
-    IconData(0xe00e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe00e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf000e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf000e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-zero-fill`
   static const IconifyIconData numberSquareZeroFill = IconifyIconData.solo(
-    IconData(0xe00f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf000f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-zero-light`
   static const IconifyIconData numberSquareZeroLight = IconifyIconData.solo(
-    IconData(0xe010, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0010, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-square-zero-thin`
   static const IconifyIconData numberSquareZeroThin = IconifyIconData.solo(
-    IconData(0xe011, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0011, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-three`
   static const IconifyIconData numberThree = IconifyIconData.solo(
-    IconData(0xe012, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0012, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-three-bold`
   static const IconifyIconData numberThreeBold = IconifyIconData.solo(
-    IconData(0xe013, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0013, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-three-duotone` (duo-tone)
   static const IconifyIconData numberThreeDuotone = IconifyIconData.duo(
-    IconData(0xe014, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe014, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0014, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0014, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-three-fill`
   static const IconifyIconData numberThreeFill = IconifyIconData.solo(
-    IconData(0xe015, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0015, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-three-light`
   static const IconifyIconData numberThreeLight = IconifyIconData.solo(
-    IconData(0xe016, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0016, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-three-thin`
   static const IconifyIconData numberThreeThin = IconifyIconData.solo(
-    IconData(0xe017, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0017, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-two`
   static const IconifyIconData numberTwo = IconifyIconData.solo(
-    IconData(0xe018, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0018, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-two-bold`
   static const IconifyIconData numberTwoBold = IconifyIconData.solo(
-    IconData(0xe019, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0019, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-two-duotone` (duo-tone)
   static const IconifyIconData numberTwoDuotone = IconifyIconData.duo(
-    IconData(0xe01a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe01a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf001a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf001a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-two-fill`
   static const IconifyIconData numberTwoFill = IconifyIconData.solo(
-    IconData(0xe01b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf001b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-two-light`
   static const IconifyIconData numberTwoLight = IconifyIconData.solo(
-    IconData(0xe01c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf001c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-two-thin`
   static const IconifyIconData numberTwoThin = IconifyIconData.solo(
-    IconData(0xe01d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf001d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-zero`
   static const IconifyIconData numberZero = IconifyIconData.solo(
-    IconData(0xe01e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf001e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-zero-bold`
   static const IconifyIconData numberZeroBold = IconifyIconData.solo(
-    IconData(0xe01f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf001f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-zero-duotone` (duo-tone)
   static const IconifyIconData numberZeroDuotone = IconifyIconData.duo(
-    IconData(0xe020, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe020, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0020, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0020, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-zero-fill`
   static const IconifyIconData numberZeroFill = IconifyIconData.solo(
-    IconData(0xe021, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0021, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-zero-light`
   static const IconifyIconData numberZeroLight = IconifyIconData.solo(
-    IconData(0xe022, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0022, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `number-zero-thin`
   static const IconifyIconData numberZeroThin = IconifyIconData.solo(
-    IconData(0xe023, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0023, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `numpad`
   static const IconifyIconData numpad = IconifyIconData.solo(
-    IconData(0xe024, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0024, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `numpad-bold`
   static const IconifyIconData numpadBold = IconifyIconData.solo(
-    IconData(0xe025, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0025, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `numpad-duotone` (duo-tone)
   static const IconifyIconData numpadDuotone = IconifyIconData.duo(
-    IconData(0xe026, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe026, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0026, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0026, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `numpad-fill`
   static const IconifyIconData numpadFill = IconifyIconData.solo(
-    IconData(0xe027, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0027, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `numpad-light`
   static const IconifyIconData numpadLight = IconifyIconData.solo(
-    IconData(0xe028, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0028, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `numpad-thin`
   static const IconifyIconData numpadThin = IconifyIconData.solo(
-    IconData(0xe029, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0029, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `nut`
   static const IconifyIconData nut = IconifyIconData.solo(
-    IconData(0xe02a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf002a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `nut-bold`
   static const IconifyIconData nutBold = IconifyIconData.solo(
-    IconData(0xe02b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf002b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `nut-duotone` (duo-tone)
   static const IconifyIconData nutDuotone = IconifyIconData.duo(
-    IconData(0xe02c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe02c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf002c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf002c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `nut-fill`
   static const IconifyIconData nutFill = IconifyIconData.solo(
-    IconData(0xe02d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf002d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `nut-light`
   static const IconifyIconData nutLight = IconifyIconData.solo(
-    IconData(0xe02e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf002e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `nut-thin`
   static const IconifyIconData nutThin = IconifyIconData.solo(
-    IconData(0xe02f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf002f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ny-times-logo`
   static const IconifyIconData nyTimesLogo = IconifyIconData.solo(
-    IconData(0xe030, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0030, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ny-times-logo-bold`
   static const IconifyIconData nyTimesLogoBold = IconifyIconData.solo(
-    IconData(0xe031, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0031, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ny-times-logo-duotone` (duo-tone)
   static const IconifyIconData nyTimesLogoDuotone = IconifyIconData.duo(
-    IconData(0xe032, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe032, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0032, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0032, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ny-times-logo-fill`
   static const IconifyIconData nyTimesLogoFill = IconifyIconData.solo(
-    IconData(0xe033, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0033, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ny-times-logo-light`
   static const IconifyIconData nyTimesLogoLight = IconifyIconData.solo(
-    IconData(0xe034, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0034, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ny-times-logo-thin`
   static const IconifyIconData nyTimesLogoThin = IconifyIconData.solo(
-    IconData(0xe035, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0035, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `octagon`
   static const IconifyIconData octagon = IconifyIconData.solo(
-    IconData(0xe036, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0036, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `octagon-bold`
   static const IconifyIconData octagonBold = IconifyIconData.solo(
-    IconData(0xe037, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0037, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `octagon-duotone` (duo-tone)
   static const IconifyIconData octagonDuotone = IconifyIconData.duo(
-    IconData(0xe038, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe038, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0038, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0038, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `octagon-fill`
   static const IconifyIconData octagonFill = IconifyIconData.solo(
-    IconData(0xe039, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0039, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `octagon-light`
   static const IconifyIconData octagonLight = IconifyIconData.solo(
-    IconData(0xe03a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf003a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `octagon-thin`
   static const IconifyIconData octagonThin = IconifyIconData.solo(
-    IconData(0xe03b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf003b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `office-chair`
   static const IconifyIconData officeChair = IconifyIconData.solo(
-    IconData(0xe03c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf003c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `office-chair-bold`
   static const IconifyIconData officeChairBold = IconifyIconData.solo(
-    IconData(0xe03d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf003d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `office-chair-duotone` (duo-tone)
   static const IconifyIconData officeChairDuotone = IconifyIconData.duo(
-    IconData(0xe03e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe03e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf003e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf003e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `office-chair-fill`
   static const IconifyIconData officeChairFill = IconifyIconData.solo(
-    IconData(0xe03f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf003f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `office-chair-light`
   static const IconifyIconData officeChairLight = IconifyIconData.solo(
-    IconData(0xe040, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0040, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `office-chair-thin`
   static const IconifyIconData officeChairThin = IconifyIconData.solo(
-    IconData(0xe041, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0041, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `onigiri`
   static const IconifyIconData onigiri = IconifyIconData.solo(
-    IconData(0xe042, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0042, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `onigiri-bold`
   static const IconifyIconData onigiriBold = IconifyIconData.solo(
-    IconData(0xe043, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0043, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `onigiri-duotone` (duo-tone)
   static const IconifyIconData onigiriDuotone = IconifyIconData.duo(
-    IconData(0xe044, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe044, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0044, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0044, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `onigiri-fill`
   static const IconifyIconData onigiriFill = IconifyIconData.solo(
-    IconData(0xe045, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0045, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `onigiri-light`
   static const IconifyIconData onigiriLight = IconifyIconData.solo(
-    IconData(0xe046, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0046, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `onigiri-thin`
   static const IconifyIconData onigiriThin = IconifyIconData.solo(
-    IconData(0xe047, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0047, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `open-ai-logo`
   static const IconifyIconData openAiLogo = IconifyIconData.solo(
-    IconData(0xe048, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0048, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `open-ai-logo-bold`
   static const IconifyIconData openAiLogoBold = IconifyIconData.solo(
-    IconData(0xe049, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0049, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `open-ai-logo-duotone` (duo-tone)
   static const IconifyIconData openAiLogoDuotone = IconifyIconData.duo(
-    IconData(0xe04a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe04a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf004a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf004a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `open-ai-logo-fill`
   static const IconifyIconData openAiLogoFill = IconifyIconData.solo(
-    IconData(0xe04b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf004b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `open-ai-logo-light`
   static const IconifyIconData openAiLogoLight = IconifyIconData.solo(
-    IconData(0xe04c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf004c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `open-ai-logo-thin`
   static const IconifyIconData openAiLogoThin = IconifyIconData.solo(
-    IconData(0xe04d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf004d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `option`
   static const IconifyIconData option = IconifyIconData.solo(
-    IconData(0xe04e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf004e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `option-bold`
   static const IconifyIconData optionBold = IconifyIconData.solo(
-    IconData(0xe04f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf004f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `option-duotone` (duo-tone)
   static const IconifyIconData optionDuotone = IconifyIconData.duo(
-    IconData(0xe050, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe050, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0050, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0050, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `option-fill`
   static const IconifyIconData optionFill = IconifyIconData.solo(
-    IconData(0xe051, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0051, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `option-light`
   static const IconifyIconData optionLight = IconifyIconData.solo(
-    IconData(0xe052, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0052, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `option-thin`
   static const IconifyIconData optionThin = IconifyIconData.solo(
-    IconData(0xe053, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0053, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange`
   static const IconifyIconData orange = IconifyIconData.solo(
-    IconData(0xe054, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0054, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange-bold`
   static const IconifyIconData orangeBold = IconifyIconData.solo(
-    IconData(0xe055, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0055, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange-duotone` (duo-tone)
   static const IconifyIconData orangeDuotone = IconifyIconData.duo(
-    IconData(0xe056, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe056, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0056, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0056, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange-fill`
   static const IconifyIconData orangeFill = IconifyIconData.solo(
-    IconData(0xe057, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0057, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange-light`
   static const IconifyIconData orangeLight = IconifyIconData.solo(
-    IconData(0xe058, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0058, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange-slice`
   static const IconifyIconData orangeSlice = IconifyIconData.solo(
-    IconData(0xe059, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0059, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange-slice-bold`
   static const IconifyIconData orangeSliceBold = IconifyIconData.solo(
-    IconData(0xe05a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf005a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange-slice-duotone` (duo-tone)
   static const IconifyIconData orangeSliceDuotone = IconifyIconData.duo(
-    IconData(0xe05b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe05b, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf005b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf005b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange-slice-fill`
   static const IconifyIconData orangeSliceFill = IconifyIconData.solo(
-    IconData(0xe05c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf005c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange-slice-light`
   static const IconifyIconData orangeSliceLight = IconifyIconData.solo(
-    IconData(0xe05d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf005d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange-slice-thin`
   static const IconifyIconData orangeSliceThin = IconifyIconData.solo(
-    IconData(0xe05e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf005e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `orange-thin`
   static const IconifyIconData orangeThin = IconifyIconData.solo(
-    IconData(0xe05f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf005f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `oven`
   static const IconifyIconData oven = IconifyIconData.solo(
-    IconData(0xe060, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0060, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `oven-bold`
   static const IconifyIconData ovenBold = IconifyIconData.solo(
-    IconData(0xe061, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0061, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `oven-duotone` (duo-tone)
   static const IconifyIconData ovenDuotone = IconifyIconData.duo(
-    IconData(0xe062, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe062, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0062, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0062, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `oven-fill`
   static const IconifyIconData ovenFill = IconifyIconData.solo(
-    IconData(0xe063, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0063, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `oven-light`
   static const IconifyIconData ovenLight = IconifyIconData.solo(
-    IconData(0xe064, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0064, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `oven-thin`
   static const IconifyIconData ovenThin = IconifyIconData.solo(
-    IconData(0xe065, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0065, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `package`
   static const IconifyIconData package = IconifyIconData.solo(
-    IconData(0xe066, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0066, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `package-bold`
   static const IconifyIconData packageBold = IconifyIconData.solo(
-    IconData(0xe067, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0067, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `package-duotone` (duo-tone)
   static const IconifyIconData packageDuotone = IconifyIconData.duo(
-    IconData(0xe068, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe068, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0068, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0068, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `package-fill`
   static const IconifyIconData packageFill = IconifyIconData.solo(
-    IconData(0xe069, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0069, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `package-light`
   static const IconifyIconData packageLight = IconifyIconData.solo(
-    IconData(0xe06a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf006a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `package-thin`
   static const IconifyIconData packageThin = IconifyIconData.solo(
-    IconData(0xe06b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf006b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush`
   static const IconifyIconData paintBrush = IconifyIconData.solo(
-    IconData(0xe06c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf006c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-bold`
   static const IconifyIconData paintBrushBold = IconifyIconData.solo(
-    IconData(0xe06d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf006d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-broad`
   static const IconifyIconData paintBrushBroad = IconifyIconData.solo(
-    IconData(0xe06e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf006e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-broad-bold`
   static const IconifyIconData paintBrushBroadBold = IconifyIconData.solo(
-    IconData(0xe06f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf006f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-broad-duotone` (duo-tone)
   static const IconifyIconData paintBrushBroadDuotone = IconifyIconData.duo(
-    IconData(0xe070, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe070, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0070, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0070, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-broad-fill`
   static const IconifyIconData paintBrushBroadFill = IconifyIconData.solo(
-    IconData(0xe071, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0071, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-broad-light`
   static const IconifyIconData paintBrushBroadLight = IconifyIconData.solo(
-    IconData(0xe072, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0072, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-broad-thin`
   static const IconifyIconData paintBrushBroadThin = IconifyIconData.solo(
-    IconData(0xe073, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0073, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-duotone` (duo-tone)
   static const IconifyIconData paintBrushDuotone = IconifyIconData.duo(
-    IconData(0xe074, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe074, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0074, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0074, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-fill`
   static const IconifyIconData paintBrushFill = IconifyIconData.solo(
-    IconData(0xe075, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0075, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-household`
   static const IconifyIconData paintBrushHousehold = IconifyIconData.solo(
-    IconData(0xe076, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0076, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-household-bold`
   static const IconifyIconData paintBrushHouseholdBold = IconifyIconData.solo(
-    IconData(0xe077, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0077, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-household-duotone` (duo-tone)
   static const IconifyIconData paintBrushHouseholdDuotone = IconifyIconData.duo(
-    IconData(0xe078, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe078, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0078, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0078, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-household-fill`
   static const IconifyIconData paintBrushHouseholdFill = IconifyIconData.solo(
-    IconData(0xe079, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0079, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-household-light`
   static const IconifyIconData paintBrushHouseholdLight = IconifyIconData.solo(
-    IconData(0xe07a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf007a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-household-thin`
   static const IconifyIconData paintBrushHouseholdThin = IconifyIconData.solo(
-    IconData(0xe07b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf007b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-light`
   static const IconifyIconData paintBrushLight = IconifyIconData.solo(
-    IconData(0xe07c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf007c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-brush-thin`
   static const IconifyIconData paintBrushThin = IconifyIconData.solo(
-    IconData(0xe07d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf007d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-bucket`
   static const IconifyIconData paintBucket = IconifyIconData.solo(
-    IconData(0xe07e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf007e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-bucket-bold`
   static const IconifyIconData paintBucketBold = IconifyIconData.solo(
-    IconData(0xe07f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf007f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-bucket-duotone` (duo-tone)
   static const IconifyIconData paintBucketDuotone = IconifyIconData.duo(
-    IconData(0xe080, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe080, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0080, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0080, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-bucket-fill`
   static const IconifyIconData paintBucketFill = IconifyIconData.solo(
-    IconData(0xe081, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0081, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-bucket-light`
   static const IconifyIconData paintBucketLight = IconifyIconData.solo(
-    IconData(0xe082, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0082, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-bucket-thin`
   static const IconifyIconData paintBucketThin = IconifyIconData.solo(
-    IconData(0xe083, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0083, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-roller`
   static const IconifyIconData paintRoller = IconifyIconData.solo(
-    IconData(0xe084, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0084, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-roller-bold`
   static const IconifyIconData paintRollerBold = IconifyIconData.solo(
-    IconData(0xe085, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0085, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-roller-duotone` (duo-tone)
   static const IconifyIconData paintRollerDuotone = IconifyIconData.duo(
-    IconData(0xe086, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe086, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0086, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0086, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-roller-fill`
   static const IconifyIconData paintRollerFill = IconifyIconData.solo(
-    IconData(0xe087, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0087, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-roller-light`
   static const IconifyIconData paintRollerLight = IconifyIconData.solo(
-    IconData(0xe088, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0088, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paint-roller-thin`
   static const IconifyIconData paintRollerThin = IconifyIconData.solo(
-    IconData(0xe089, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0089, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `palette`
   static const IconifyIconData palette = IconifyIconData.solo(
-    IconData(0xe08a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf008a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `palette-bold`
   static const IconifyIconData paletteBold = IconifyIconData.solo(
-    IconData(0xe08b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf008b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `palette-duotone` (duo-tone)
   static const IconifyIconData paletteDuotone = IconifyIconData.duo(
-    IconData(0xe08c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe08c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf008c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf008c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `palette-fill`
   static const IconifyIconData paletteFill = IconifyIconData.solo(
-    IconData(0xe08d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf008d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `palette-light`
   static const IconifyIconData paletteLight = IconifyIconData.solo(
-    IconData(0xe08e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf008e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `palette-thin`
   static const IconifyIconData paletteThin = IconifyIconData.solo(
-    IconData(0xe08f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf008f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `panorama`
   static const IconifyIconData panorama = IconifyIconData.solo(
-    IconData(0xe090, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0090, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `panorama-bold`
   static const IconifyIconData panoramaBold = IconifyIconData.solo(
-    IconData(0xe091, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0091, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `panorama-duotone` (duo-tone)
   static const IconifyIconData panoramaDuotone = IconifyIconData.duo(
-    IconData(0xe092, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe092, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0092, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0092, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `panorama-fill`
   static const IconifyIconData panoramaFill = IconifyIconData.solo(
-    IconData(0xe093, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0093, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `panorama-light`
   static const IconifyIconData panoramaLight = IconifyIconData.solo(
-    IconData(0xe094, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0094, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `panorama-thin`
   static const IconifyIconData panoramaThin = IconifyIconData.solo(
-    IconData(0xe095, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0095, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pants`
   static const IconifyIconData pants = IconifyIconData.solo(
-    IconData(0xe096, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0096, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pants-bold`
   static const IconifyIconData pantsBold = IconifyIconData.solo(
-    IconData(0xe097, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0097, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pants-duotone` (duo-tone)
   static const IconifyIconData pantsDuotone = IconifyIconData.duo(
-    IconData(0xe098, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe098, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0098, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0098, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pants-fill`
   static const IconifyIconData pantsFill = IconifyIconData.solo(
-    IconData(0xe099, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0099, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pants-light`
   static const IconifyIconData pantsLight = IconifyIconData.solo(
-    IconData(0xe09a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf009a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pants-thin`
   static const IconifyIconData pantsThin = IconifyIconData.solo(
-    IconData(0xe09b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf009b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane`
   static const IconifyIconData paperPlane = IconifyIconData.solo(
-    IconData(0xe09c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf009c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-bold`
   static const IconifyIconData paperPlaneBold = IconifyIconData.solo(
-    IconData(0xe09d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf009d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-duotone` (duo-tone)
   static const IconifyIconData paperPlaneDuotone = IconifyIconData.duo(
-    IconData(0xe09e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe09e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf009e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf009e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-fill`
   static const IconifyIconData paperPlaneFill = IconifyIconData.solo(
-    IconData(0xe09f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf009f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-light`
   static const IconifyIconData paperPlaneLight = IconifyIconData.solo(
-    IconData(0xe0a0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-right`
   static const IconifyIconData paperPlaneRight = IconifyIconData.solo(
-    IconData(0xe0a1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00a1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-right-bold`
   static const IconifyIconData paperPlaneRightBold = IconifyIconData.solo(
-    IconData(0xe0a2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-right-duotone` (duo-tone)
   static const IconifyIconData paperPlaneRightDuotone = IconifyIconData.duo(
-    IconData(0xe0a3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0a3, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00a3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00a3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-right-fill`
   static const IconifyIconData paperPlaneRightFill = IconifyIconData.solo(
-    IconData(0xe0a4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-right-light`
   static const IconifyIconData paperPlaneRightLight = IconifyIconData.solo(
-    IconData(0xe0a5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-right-thin`
   static const IconifyIconData paperPlaneRightThin = IconifyIconData.solo(
-    IconData(0xe0a6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-thin`
   static const IconifyIconData paperPlaneThin = IconifyIconData.solo(
-    IconData(0xe0a7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-tilt`
   static const IconifyIconData paperPlaneTilt = IconifyIconData.solo(
-    IconData(0xe0a8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-tilt-bold`
   static const IconifyIconData paperPlaneTiltBold = IconifyIconData.solo(
-    IconData(0xe0a9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-tilt-duotone` (duo-tone)
   static const IconifyIconData paperPlaneTiltDuotone = IconifyIconData.duo(
-    IconData(0xe0aa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0aa, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00aa, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-tilt-fill`
   static const IconifyIconData paperPlaneTiltFill = IconifyIconData.solo(
-    IconData(0xe0ab, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-tilt-light`
   static const IconifyIconData paperPlaneTiltLight = IconifyIconData.solo(
-    IconData(0xe0ac, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paper-plane-tilt-thin`
   static const IconifyIconData paperPlaneTiltThin = IconifyIconData.solo(
-    IconData(0xe0ad, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paperclip`
   static const IconifyIconData paperclip = IconifyIconData.solo(
-    IconData(0xe0ae, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paperclip-bold`
   static const IconifyIconData paperclipBold = IconifyIconData.solo(
-    IconData(0xe0af, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00af, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paperclip-duotone` (duo-tone)
   static const IconifyIconData paperclipDuotone = IconifyIconData.duo(
-    IconData(0xe0b0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0b0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00b0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00b0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paperclip-fill`
   static const IconifyIconData paperclipFill = IconifyIconData.solo(
-    IconData(0xe0b1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00b1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paperclip-horizontal`
   static const IconifyIconData paperclipHorizontal = IconifyIconData.solo(
-    IconData(0xe0b2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00b2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paperclip-horizontal-bold`
   static const IconifyIconData paperclipHorizontalBold = IconifyIconData.solo(
-    IconData(0xe0b3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00b3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paperclip-horizontal-duotone` (duo-tone)
   static const IconifyIconData paperclipHorizontalDuotone = IconifyIconData.duo(
-    IconData(0xe0b4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0b4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00b4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00b4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paperclip-horizontal-fill`
   static const IconifyIconData paperclipHorizontalFill = IconifyIconData.solo(
-    IconData(0xe0b5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00b5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paperclip-horizontal-light`
   static const IconifyIconData paperclipHorizontalLight = IconifyIconData.solo(
-    IconData(0xe0b6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00b6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paperclip-horizontal-thin`
   static const IconifyIconData paperclipHorizontalThin = IconifyIconData.solo(
-    IconData(0xe0b7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00b7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paperclip-light`
   static const IconifyIconData paperclipLight = IconifyIconData.solo(
-    IconData(0xe0b8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00b8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paperclip-thin`
   static const IconifyIconData paperclipThin = IconifyIconData.solo(
-    IconData(0xe0b9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00b9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `parachute`
   static const IconifyIconData parachute = IconifyIconData.solo(
-    IconData(0xe0ba, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `parachute-bold`
   static const IconifyIconData parachuteBold = IconifyIconData.solo(
-    IconData(0xe0bb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `parachute-duotone` (duo-tone)
   static const IconifyIconData parachuteDuotone = IconifyIconData.duo(
-    IconData(0xe0bc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0bc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00bc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `parachute-fill`
   static const IconifyIconData parachuteFill = IconifyIconData.solo(
-    IconData(0xe0bd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00bd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `parachute-light`
   static const IconifyIconData parachuteLight = IconifyIconData.solo(
-    IconData(0xe0be, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00be, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `parachute-thin`
   static const IconifyIconData parachuteThin = IconifyIconData.solo(
-    IconData(0xe0bf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00bf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paragraph`
   static const IconifyIconData paragraph = IconifyIconData.solo(
-    IconData(0xe0c0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00c0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paragraph-bold`
   static const IconifyIconData paragraphBold = IconifyIconData.solo(
-    IconData(0xe0c1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paragraph-duotone` (duo-tone)
   static const IconifyIconData paragraphDuotone = IconifyIconData.duo(
-    IconData(0xe0c2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0c2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00c2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paragraph-fill`
   static const IconifyIconData paragraphFill = IconifyIconData.solo(
-    IconData(0xe0c3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00c3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paragraph-light`
   static const IconifyIconData paragraphLight = IconifyIconData.solo(
-    IconData(0xe0c4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00c4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paragraph-thin`
   static const IconifyIconData paragraphThin = IconifyIconData.solo(
-    IconData(0xe0c5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00c5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `parallelogram`
   static const IconifyIconData parallelogram = IconifyIconData.solo(
-    IconData(0xe0c6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00c6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `parallelogram-bold`
   static const IconifyIconData parallelogramBold = IconifyIconData.solo(
-    IconData(0xe0c7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `parallelogram-duotone` (duo-tone)
   static const IconifyIconData parallelogramDuotone = IconifyIconData.duo(
-    IconData(0xe0c8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0c8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00c8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `parallelogram-fill`
   static const IconifyIconData parallelogramFill = IconifyIconData.solo(
-    IconData(0xe0c9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `parallelogram-light`
   static const IconifyIconData parallelogramLight = IconifyIconData.solo(
-    IconData(0xe0ca, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `parallelogram-thin`
   static const IconifyIconData parallelogramThin = IconifyIconData.solo(
-    IconData(0xe0cb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `park`
   static const IconifyIconData park = IconifyIconData.solo(
-    IconData(0xe0cc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `park-bold`
   static const IconifyIconData parkBold = IconifyIconData.solo(
-    IconData(0xe0cd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `park-duotone` (duo-tone)
   static const IconifyIconData parkDuotone = IconifyIconData.duo(
-    IconData(0xe0ce, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0ce, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ce, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `park-fill`
   static const IconifyIconData parkFill = IconifyIconData.solo(
-    IconData(0xe0cf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `park-light`
   static const IconifyIconData parkLight = IconifyIconData.solo(
-    IconData(0xe0d0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `park-thin`
   static const IconifyIconData parkThin = IconifyIconData.solo(
-    IconData(0xe0d1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00d1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `password`
   static const IconifyIconData password = IconifyIconData.solo(
-    IconData(0xe0d2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `password-bold`
   static const IconifyIconData passwordBold = IconifyIconData.solo(
-    IconData(0xe0d3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `password-duotone` (duo-tone)
   static const IconifyIconData passwordDuotone = IconifyIconData.duo(
-    IconData(0xe0d4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0d4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00d4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `password-fill`
   static const IconifyIconData passwordFill = IconifyIconData.solo(
-    IconData(0xe0d5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00d5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `password-light`
   static const IconifyIconData passwordLight = IconifyIconData.solo(
-    IconData(0xe0d6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00d6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `password-thin`
   static const IconifyIconData passwordThin = IconifyIconData.solo(
-    IconData(0xe0d7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `path`
   static const IconifyIconData path = IconifyIconData.solo(
-    IconData(0xe0d8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00d8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `path-bold`
   static const IconifyIconData pathBold = IconifyIconData.solo(
-    IconData(0xe0d9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00d9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `path-duotone` (duo-tone)
   static const IconifyIconData pathDuotone = IconifyIconData.duo(
-    IconData(0xe0da, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0da, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00da, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00da, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `path-fill`
   static const IconifyIconData pathFill = IconifyIconData.solo(
-    IconData(0xe0db, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `path-light`
   static const IconifyIconData pathLight = IconifyIconData.solo(
-    IconData(0xe0dc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `path-thin`
   static const IconifyIconData pathThin = IconifyIconData.solo(
-    IconData(0xe0dd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `patreon-logo`
   static const IconifyIconData patreonLogo = IconifyIconData.solo(
-    IconData(0xe0de, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00de, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `patreon-logo-bold`
   static const IconifyIconData patreonLogoBold = IconifyIconData.solo(
-    IconData(0xe0df, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00df, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `patreon-logo-duotone` (duo-tone)
   static const IconifyIconData patreonLogoDuotone = IconifyIconData.duo(
-    IconData(0xe0e0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0e0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00e0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00e0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `patreon-logo-fill`
   static const IconifyIconData patreonLogoFill = IconifyIconData.solo(
-    IconData(0xe0e1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `patreon-logo-light`
   static const IconifyIconData patreonLogoLight = IconifyIconData.solo(
-    IconData(0xe0e2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `patreon-logo-thin`
   static const IconifyIconData patreonLogoThin = IconifyIconData.solo(
-    IconData(0xe0e3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause`
   static const IconifyIconData pause = IconifyIconData.solo(
-    IconData(0xe0e4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause-bold`
   static const IconifyIconData pauseBold = IconifyIconData.solo(
-    IconData(0xe0e5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00e5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause-circle`
   static const IconifyIconData pauseCircle = IconifyIconData.solo(
-    IconData(0xe0e6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause-circle-bold`
   static const IconifyIconData pauseCircleBold = IconifyIconData.solo(
-    IconData(0xe0e7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause-circle-duotone` (duo-tone)
   static const IconifyIconData pauseCircleDuotone = IconifyIconData.duo(
-    IconData(0xe0e8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0e8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00e8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause-circle-fill`
   static const IconifyIconData pauseCircleFill = IconifyIconData.solo(
-    IconData(0xe0e9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00e9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause-circle-light`
   static const IconifyIconData pauseCircleLight = IconifyIconData.solo(
-    IconData(0xe0ea, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause-circle-thin`
   static const IconifyIconData pauseCircleThin = IconifyIconData.solo(
-    IconData(0xe0eb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause-duotone` (duo-tone)
   static const IconifyIconData pauseDuotone = IconifyIconData.duo(
-    IconData(0xe0ec, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0ec, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ec, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause-fill`
   static const IconifyIconData pauseFill = IconifyIconData.solo(
-    IconData(0xe0ed, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause-light`
   static const IconifyIconData pauseLight = IconifyIconData.solo(
-    IconData(0xe0ee, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pause-thin`
   static const IconifyIconData pauseThin = IconifyIconData.solo(
-    IconData(0xe0ef, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paw-print`
   static const IconifyIconData pawPrint = IconifyIconData.solo(
-    IconData(0xe0f0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paw-print-bold`
   static const IconifyIconData pawPrintBold = IconifyIconData.solo(
-    IconData(0xe0f1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00f1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paw-print-duotone` (duo-tone)
   static const IconifyIconData pawPrintDuotone = IconifyIconData.duo(
-    IconData(0xe0f2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0f2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00f2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00f2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paw-print-fill`
   static const IconifyIconData pawPrintFill = IconifyIconData.solo(
-    IconData(0xe0f3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paw-print-light`
   static const IconifyIconData pawPrintLight = IconifyIconData.solo(
-    IconData(0xe0f4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paw-print-thin`
   static const IconifyIconData pawPrintThin = IconifyIconData.solo(
-    IconData(0xe0f5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paypal-logo`
   static const IconifyIconData paypalLogo = IconifyIconData.solo(
-    IconData(0xe0f6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paypal-logo-bold`
   static const IconifyIconData paypalLogoBold = IconifyIconData.solo(
-    IconData(0xe0f7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00f7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paypal-logo-duotone` (duo-tone)
   static const IconifyIconData paypalLogoDuotone = IconifyIconData.duo(
-    IconData(0xe0f8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0f8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00f8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00f8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paypal-logo-fill`
   static const IconifyIconData paypalLogoFill = IconifyIconData.solo(
-    IconData(0xe0f9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paypal-logo-light`
   static const IconifyIconData paypalLogoLight = IconifyIconData.solo(
-    IconData(0xe0fa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `paypal-logo-thin`
   static const IconifyIconData paypalLogoThin = IconifyIconData.solo(
-    IconData(0xe0fb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `peace`
   static const IconifyIconData peace = IconifyIconData.solo(
-    IconData(0xe0fc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `peace-bold`
   static const IconifyIconData peaceBold = IconifyIconData.solo(
-    IconData(0xe0fd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `peace-duotone` (duo-tone)
   static const IconifyIconData peaceDuotone = IconifyIconData.duo(
-    IconData(0xe0fe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe0fe, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00fe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00fe, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `peace-fill`
   static const IconifyIconData peaceFill = IconifyIconData.solo(
-    IconData(0xe0ff, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf00ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `peace-light`
   static const IconifyIconData peaceLight = IconifyIconData.solo(
-    IconData(0xe100, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0100, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `peace-thin`
   static const IconifyIconData peaceThin = IconifyIconData.solo(
-    IconData(0xe101, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0101, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pedestrian`
   static const IconifyIconData pedestrian = IconifyIconData.solo(
-    IconData(0xe102, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0102, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pedestrian-bold`
   static const IconifyIconData pedestrianBold = IconifyIconData.solo(
-    IconData(0xe103, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0103, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pedestrian-duotone` (duo-tone)
   static const IconifyIconData pedestrianDuotone = IconifyIconData.duo(
-    IconData(0xe104, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe104, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0104, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0104, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pedestrian-fill`
   static const IconifyIconData pedestrianFill = IconifyIconData.solo(
-    IconData(0xe105, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0105, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pedestrian-light`
   static const IconifyIconData pedestrianLight = IconifyIconData.solo(
-    IconData(0xe106, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0106, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pedestrian-thin`
   static const IconifyIconData pedestrianThin = IconifyIconData.solo(
-    IconData(0xe107, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0107, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen`
   static const IconifyIconData pen = IconifyIconData.solo(
-    IconData(0xe108, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0108, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-bold`
   static const IconifyIconData penBold = IconifyIconData.solo(
-    IconData(0xe109, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0109, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-duotone` (duo-tone)
   static const IconifyIconData penDuotone = IconifyIconData.duo(
-    IconData(0xe10a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe10a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf010a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf010a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-fill`
   static const IconifyIconData penFill = IconifyIconData.solo(
-    IconData(0xe10b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf010b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-light`
   static const IconifyIconData penLight = IconifyIconData.solo(
-    IconData(0xe10c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf010c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-nib`
   static const IconifyIconData penNib = IconifyIconData.solo(
-    IconData(0xe10d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf010d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-nib-bold`
   static const IconifyIconData penNibBold = IconifyIconData.solo(
-    IconData(0xe10e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf010e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-nib-duotone` (duo-tone)
   static const IconifyIconData penNibDuotone = IconifyIconData.duo(
-    IconData(0xe10f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe10f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf010f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf010f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-nib-fill`
   static const IconifyIconData penNibFill = IconifyIconData.solo(
-    IconData(0xe110, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0110, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-nib-light`
   static const IconifyIconData penNibLight = IconifyIconData.solo(
-    IconData(0xe111, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0111, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-nib-straight`
   static const IconifyIconData penNibStraight = IconifyIconData.solo(
-    IconData(0xe112, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0112, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-nib-straight-bold`
   static const IconifyIconData penNibStraightBold = IconifyIconData.solo(
-    IconData(0xe113, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0113, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-nib-straight-duotone` (duo-tone)
   static const IconifyIconData penNibStraightDuotone = IconifyIconData.duo(
-    IconData(0xe114, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe114, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0114, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0114, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-nib-straight-fill`
   static const IconifyIconData penNibStraightFill = IconifyIconData.solo(
-    IconData(0xe115, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0115, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-nib-straight-light`
   static const IconifyIconData penNibStraightLight = IconifyIconData.solo(
-    IconData(0xe116, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0116, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-nib-straight-thin`
   static const IconifyIconData penNibStraightThin = IconifyIconData.solo(
-    IconData(0xe117, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0117, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-nib-thin`
   static const IconifyIconData penNibThin = IconifyIconData.solo(
-    IconData(0xe118, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0118, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pen-thin`
   static const IconifyIconData penThin = IconifyIconData.solo(
-    IconData(0xe119, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0119, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil`
   static const IconifyIconData pencil = IconifyIconData.solo(
-    IconData(0xe11a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf011a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-bold`
   static const IconifyIconData pencilBold = IconifyIconData.solo(
-    IconData(0xe11b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf011b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-circle`
   static const IconifyIconData pencilCircle = IconifyIconData.solo(
-    IconData(0xe11c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf011c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-circle-bold`
   static const IconifyIconData pencilCircleBold = IconifyIconData.solo(
-    IconData(0xe11d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf011d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-circle-duotone` (duo-tone)
   static const IconifyIconData pencilCircleDuotone = IconifyIconData.duo(
-    IconData(0xe11e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe11e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf011e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf011e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-circle-fill`
   static const IconifyIconData pencilCircleFill = IconifyIconData.solo(
-    IconData(0xe11f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf011f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-circle-light`
   static const IconifyIconData pencilCircleLight = IconifyIconData.solo(
-    IconData(0xe120, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0120, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-circle-thin`
   static const IconifyIconData pencilCircleThin = IconifyIconData.solo(
-    IconData(0xe121, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0121, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-duotone` (duo-tone)
   static const IconifyIconData pencilDuotone = IconifyIconData.duo(
-    IconData(0xe122, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe122, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0122, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0122, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-fill`
   static const IconifyIconData pencilFill = IconifyIconData.solo(
-    IconData(0xe123, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0123, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-light`
   static const IconifyIconData pencilLight = IconifyIconData.solo(
-    IconData(0xe124, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0124, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-line`
   static const IconifyIconData pencilLine = IconifyIconData.solo(
-    IconData(0xe125, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0125, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-line-bold`
   static const IconifyIconData pencilLineBold = IconifyIconData.solo(
-    IconData(0xe126, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0126, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-line-duotone` (duo-tone)
   static const IconifyIconData pencilLineDuotone = IconifyIconData.duo(
-    IconData(0xe127, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe127, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0127, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0127, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-line-fill`
   static const IconifyIconData pencilLineFill = IconifyIconData.solo(
-    IconData(0xe128, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0128, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-line-light`
   static const IconifyIconData pencilLineLight = IconifyIconData.solo(
-    IconData(0xe129, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0129, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-line-thin`
   static const IconifyIconData pencilLineThin = IconifyIconData.solo(
-    IconData(0xe12a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf012a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-ruler`
   static const IconifyIconData pencilRuler = IconifyIconData.solo(
-    IconData(0xe12b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf012b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-ruler-bold`
   static const IconifyIconData pencilRulerBold = IconifyIconData.solo(
-    IconData(0xe12c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf012c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-ruler-duotone` (duo-tone)
   static const IconifyIconData pencilRulerDuotone = IconifyIconData.duo(
-    IconData(0xe12d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe12d, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf012d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf012d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-ruler-fill`
   static const IconifyIconData pencilRulerFill = IconifyIconData.solo(
-    IconData(0xe12e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf012e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-ruler-light`
   static const IconifyIconData pencilRulerLight = IconifyIconData.solo(
-    IconData(0xe12f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf012f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-ruler-thin`
   static const IconifyIconData pencilRulerThin = IconifyIconData.solo(
-    IconData(0xe130, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0130, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple`
   static const IconifyIconData pencilSimple = IconifyIconData.solo(
-    IconData(0xe131, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0131, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-bold`
   static const IconifyIconData pencilSimpleBold = IconifyIconData.solo(
-    IconData(0xe132, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0132, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-duotone` (duo-tone)
   static const IconifyIconData pencilSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe133, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe133, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0133, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0133, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-fill`
   static const IconifyIconData pencilSimpleFill = IconifyIconData.solo(
-    IconData(0xe134, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0134, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-light`
   static const IconifyIconData pencilSimpleLight = IconifyIconData.solo(
-    IconData(0xe135, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0135, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-line`
   static const IconifyIconData pencilSimpleLine = IconifyIconData.solo(
-    IconData(0xe136, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0136, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-line-bold`
   static const IconifyIconData pencilSimpleLineBold = IconifyIconData.solo(
-    IconData(0xe137, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0137, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-line-duotone` (duo-tone)
   static const IconifyIconData pencilSimpleLineDuotone = IconifyIconData.duo(
-    IconData(0xe138, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe138, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0138, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0138, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-line-fill`
   static const IconifyIconData pencilSimpleLineFill = IconifyIconData.solo(
-    IconData(0xe139, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0139, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-line-light`
   static const IconifyIconData pencilSimpleLineLight = IconifyIconData.solo(
-    IconData(0xe13a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf013a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-line-thin`
   static const IconifyIconData pencilSimpleLineThin = IconifyIconData.solo(
-    IconData(0xe13b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf013b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-slash`
   static const IconifyIconData pencilSimpleSlash = IconifyIconData.solo(
-    IconData(0xe13c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf013c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-slash-bold`
   static const IconifyIconData pencilSimpleSlashBold = IconifyIconData.solo(
-    IconData(0xe13d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf013d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-slash-duotone` (duo-tone)
   static const IconifyIconData pencilSimpleSlashDuotone = IconifyIconData.duo(
-    IconData(0xe13e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe13e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf013e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf013e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-slash-fill`
   static const IconifyIconData pencilSimpleSlashFill = IconifyIconData.solo(
-    IconData(0xe13f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf013f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-slash-light`
   static const IconifyIconData pencilSimpleSlashLight = IconifyIconData.solo(
-    IconData(0xe140, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0140, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-slash-thin`
   static const IconifyIconData pencilSimpleSlashThin = IconifyIconData.solo(
-    IconData(0xe141, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0141, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-simple-thin`
   static const IconifyIconData pencilSimpleThin = IconifyIconData.solo(
-    IconData(0xe142, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0142, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-slash`
   static const IconifyIconData pencilSlash = IconifyIconData.solo(
-    IconData(0xe143, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0143, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-slash-bold`
   static const IconifyIconData pencilSlashBold = IconifyIconData.solo(
-    IconData(0xe144, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0144, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-slash-duotone` (duo-tone)
   static const IconifyIconData pencilSlashDuotone = IconifyIconData.duo(
-    IconData(0xe145, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe145, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0145, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0145, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-slash-fill`
   static const IconifyIconData pencilSlashFill = IconifyIconData.solo(
-    IconData(0xe146, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0146, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-slash-light`
   static const IconifyIconData pencilSlashLight = IconifyIconData.solo(
-    IconData(0xe147, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0147, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-slash-thin`
   static const IconifyIconData pencilSlashThin = IconifyIconData.solo(
-    IconData(0xe148, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0148, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pencil-thin`
   static const IconifyIconData pencilThin = IconifyIconData.solo(
-    IconData(0xe149, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0149, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pentagon`
   static const IconifyIconData pentagon = IconifyIconData.solo(
-    IconData(0xe14a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf014a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pentagon-bold`
   static const IconifyIconData pentagonBold = IconifyIconData.solo(
-    IconData(0xe14b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf014b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pentagon-duotone` (duo-tone)
   static const IconifyIconData pentagonDuotone = IconifyIconData.duo(
-    IconData(0xe14c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe14c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf014c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf014c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pentagon-fill`
   static const IconifyIconData pentagonFill = IconifyIconData.solo(
-    IconData(0xe14d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf014d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pentagon-light`
   static const IconifyIconData pentagonLight = IconifyIconData.solo(
-    IconData(0xe14e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf014e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pentagon-thin`
   static const IconifyIconData pentagonThin = IconifyIconData.solo(
-    IconData(0xe14f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf014f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pentagram`
   static const IconifyIconData pentagram = IconifyIconData.solo(
-    IconData(0xe150, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0150, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pentagram-bold`
   static const IconifyIconData pentagramBold = IconifyIconData.solo(
-    IconData(0xe151, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0151, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pentagram-duotone` (duo-tone)
   static const IconifyIconData pentagramDuotone = IconifyIconData.duo(
-    IconData(0xe152, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe152, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0152, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0152, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pentagram-fill`
   static const IconifyIconData pentagramFill = IconifyIconData.solo(
-    IconData(0xe153, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0153, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pentagram-light`
   static const IconifyIconData pentagramLight = IconifyIconData.solo(
-    IconData(0xe154, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0154, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pentagram-thin`
   static const IconifyIconData pentagramThin = IconifyIconData.solo(
-    IconData(0xe155, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0155, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pepper`
   static const IconifyIconData pepper = IconifyIconData.solo(
-    IconData(0xe156, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0156, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pepper-bold`
   static const IconifyIconData pepperBold = IconifyIconData.solo(
-    IconData(0xe157, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0157, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pepper-duotone` (duo-tone)
   static const IconifyIconData pepperDuotone = IconifyIconData.duo(
-    IconData(0xe158, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe158, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0158, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0158, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pepper-fill`
   static const IconifyIconData pepperFill = IconifyIconData.solo(
-    IconData(0xe159, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0159, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pepper-light`
   static const IconifyIconData pepperLight = IconifyIconData.solo(
-    IconData(0xe15a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf015a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pepper-thin`
   static const IconifyIconData pepperThin = IconifyIconData.solo(
-    IconData(0xe15b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf015b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `percent`
   static const IconifyIconData percent = IconifyIconData.solo(
-    IconData(0xe15c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf015c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `percent-bold`
   static const IconifyIconData percentBold = IconifyIconData.solo(
-    IconData(0xe15d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf015d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `percent-duotone` (duo-tone)
   static const IconifyIconData percentDuotone = IconifyIconData.duo(
-    IconData(0xe15e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe15e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf015e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf015e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `percent-fill`
   static const IconifyIconData percentFill = IconifyIconData.solo(
-    IconData(0xe15f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf015f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `percent-light`
   static const IconifyIconData percentLight = IconifyIconData.solo(
-    IconData(0xe160, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0160, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `percent-thin`
   static const IconifyIconData percentThin = IconifyIconData.solo(
-    IconData(0xe161, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0161, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person`
   static const IconifyIconData person = IconifyIconData.solo(
-    IconData(0xe162, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0162, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-arms-spread`
   static const IconifyIconData personArmsSpread = IconifyIconData.solo(
-    IconData(0xe163, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0163, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-arms-spread-bold`
   static const IconifyIconData personArmsSpreadBold = IconifyIconData.solo(
-    IconData(0xe164, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0164, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-arms-spread-duotone` (duo-tone)
   static const IconifyIconData personArmsSpreadDuotone = IconifyIconData.duo(
-    IconData(0xe165, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe165, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0165, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0165, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-arms-spread-fill`
   static const IconifyIconData personArmsSpreadFill = IconifyIconData.solo(
-    IconData(0xe166, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0166, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-arms-spread-light`
   static const IconifyIconData personArmsSpreadLight = IconifyIconData.solo(
-    IconData(0xe167, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0167, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-arms-spread-thin`
   static const IconifyIconData personArmsSpreadThin = IconifyIconData.solo(
-    IconData(0xe168, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0168, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-bold`
   static const IconifyIconData personBold = IconifyIconData.solo(
-    IconData(0xe169, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0169, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-duotone` (duo-tone)
   static const IconifyIconData personDuotone = IconifyIconData.duo(
-    IconData(0xe16a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe16a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf016a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf016a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-fill`
   static const IconifyIconData personFill = IconifyIconData.solo(
-    IconData(0xe16b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf016b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-light`
   static const IconifyIconData personLight = IconifyIconData.solo(
-    IconData(0xe16c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf016c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple`
   static const IconifyIconData personSimple = IconifyIconData.solo(
-    IconData(0xe16d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf016d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-bike`
   static const IconifyIconData personSimpleBike = IconifyIconData.solo(
-    IconData(0xe16e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf016e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-bike-bold`
   static const IconifyIconData personSimpleBikeBold = IconifyIconData.solo(
-    IconData(0xe16f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf016f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-bike-duotone` (duo-tone)
   static const IconifyIconData personSimpleBikeDuotone = IconifyIconData.duo(
-    IconData(0xe170, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe170, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0170, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0170, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-bike-fill`
   static const IconifyIconData personSimpleBikeFill = IconifyIconData.solo(
-    IconData(0xe171, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0171, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-bike-light`
   static const IconifyIconData personSimpleBikeLight = IconifyIconData.solo(
-    IconData(0xe172, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0172, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-bike-thin`
   static const IconifyIconData personSimpleBikeThin = IconifyIconData.solo(
-    IconData(0xe173, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0173, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-bold`
   static const IconifyIconData personSimpleBold = IconifyIconData.solo(
-    IconData(0xe174, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0174, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-circle`
   static const IconifyIconData personSimpleCircle = IconifyIconData.solo(
-    IconData(0xe175, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0175, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-circle-bold`
   static const IconifyIconData personSimpleCircleBold = IconifyIconData.solo(
-    IconData(0xe176, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0176, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-circle-duotone` (duo-tone)
   static const IconifyIconData personSimpleCircleDuotone = IconifyIconData.duo(
-    IconData(0xe177, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe177, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0177, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0177, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-circle-fill`
   static const IconifyIconData personSimpleCircleFill = IconifyIconData.solo(
-    IconData(0xe178, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0178, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-circle-light`
   static const IconifyIconData personSimpleCircleLight = IconifyIconData.solo(
-    IconData(0xe179, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0179, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-circle-thin`
   static const IconifyIconData personSimpleCircleThin = IconifyIconData.solo(
-    IconData(0xe17a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf017a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-duotone` (duo-tone)
   static const IconifyIconData personSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe17b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe17b, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf017b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf017b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-fill`
   static const IconifyIconData personSimpleFill = IconifyIconData.solo(
-    IconData(0xe17c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf017c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-hike`
   static const IconifyIconData personSimpleHike = IconifyIconData.solo(
-    IconData(0xe17d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf017d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-hike-bold`
   static const IconifyIconData personSimpleHikeBold = IconifyIconData.solo(
-    IconData(0xe17e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf017e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-hike-duotone` (duo-tone)
   static const IconifyIconData personSimpleHikeDuotone = IconifyIconData.duo(
-    IconData(0xe17f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe17f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf017f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf017f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-hike-fill`
   static const IconifyIconData personSimpleHikeFill = IconifyIconData.solo(
-    IconData(0xe180, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0180, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-hike-light`
   static const IconifyIconData personSimpleHikeLight = IconifyIconData.solo(
-    IconData(0xe181, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0181, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-hike-thin`
   static const IconifyIconData personSimpleHikeThin = IconifyIconData.solo(
-    IconData(0xe182, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0182, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-light`
   static const IconifyIconData personSimpleLight = IconifyIconData.solo(
-    IconData(0xe183, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0183, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-run`
   static const IconifyIconData personSimpleRun = IconifyIconData.solo(
-    IconData(0xe184, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0184, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-run-bold`
   static const IconifyIconData personSimpleRunBold = IconifyIconData.solo(
-    IconData(0xe185, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0185, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-run-duotone` (duo-tone)
   static const IconifyIconData personSimpleRunDuotone = IconifyIconData.duo(
-    IconData(0xe186, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe186, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0186, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0186, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-run-fill`
   static const IconifyIconData personSimpleRunFill = IconifyIconData.solo(
-    IconData(0xe187, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0187, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-run-light`
   static const IconifyIconData personSimpleRunLight = IconifyIconData.solo(
-    IconData(0xe188, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0188, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-run-thin`
   static const IconifyIconData personSimpleRunThin = IconifyIconData.solo(
-    IconData(0xe189, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0189, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-ski`
   static const IconifyIconData personSimpleSki = IconifyIconData.solo(
-    IconData(0xe18a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf018a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-ski-bold`
   static const IconifyIconData personSimpleSkiBold = IconifyIconData.solo(
-    IconData(0xe18b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf018b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-ski-duotone` (duo-tone)
   static const IconifyIconData personSimpleSkiDuotone = IconifyIconData.duo(
-    IconData(0xe18c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe18c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf018c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf018c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-ski-fill`
   static const IconifyIconData personSimpleSkiFill = IconifyIconData.solo(
-    IconData(0xe18d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf018d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-ski-light`
   static const IconifyIconData personSimpleSkiLight = IconifyIconData.solo(
-    IconData(0xe18e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf018e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-ski-thin`
   static const IconifyIconData personSimpleSkiThin = IconifyIconData.solo(
-    IconData(0xe18f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf018f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-snowboard`
   static const IconifyIconData personSimpleSnowboard = IconifyIconData.solo(
-    IconData(0xe190, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0190, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-snowboard-bold`
   static const IconifyIconData personSimpleSnowboardBold = IconifyIconData.solo(
-    IconData(0xe191, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0191, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-snowboard-duotone` (duo-tone)
   static const IconifyIconData personSimpleSnowboardDuotone = IconifyIconData.duo(
-    IconData(0xe192, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe192, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0192, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0192, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-snowboard-fill`
   static const IconifyIconData personSimpleSnowboardFill = IconifyIconData.solo(
-    IconData(0xe193, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0193, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-snowboard-light`
   static const IconifyIconData personSimpleSnowboardLight = IconifyIconData.solo(
-    IconData(0xe194, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0194, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-snowboard-thin`
   static const IconifyIconData personSimpleSnowboardThin = IconifyIconData.solo(
-    IconData(0xe195, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0195, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-swim`
   static const IconifyIconData personSimpleSwim = IconifyIconData.solo(
-    IconData(0xe196, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0196, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-swim-bold`
   static const IconifyIconData personSimpleSwimBold = IconifyIconData.solo(
-    IconData(0xe197, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0197, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-swim-duotone` (duo-tone)
   static const IconifyIconData personSimpleSwimDuotone = IconifyIconData.duo(
-    IconData(0xe198, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe198, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0198, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0198, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-swim-fill`
   static const IconifyIconData personSimpleSwimFill = IconifyIconData.solo(
-    IconData(0xe199, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0199, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-swim-light`
   static const IconifyIconData personSimpleSwimLight = IconifyIconData.solo(
-    IconData(0xe19a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf019a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-swim-thin`
   static const IconifyIconData personSimpleSwimThin = IconifyIconData.solo(
-    IconData(0xe19b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf019b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-tai-chi`
   static const IconifyIconData personSimpleTaiChi = IconifyIconData.solo(
-    IconData(0xe19c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf019c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-tai-chi-bold`
   static const IconifyIconData personSimpleTaiChiBold = IconifyIconData.solo(
-    IconData(0xe19d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf019d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-tai-chi-duotone` (duo-tone)
   static const IconifyIconData personSimpleTaiChiDuotone = IconifyIconData.duo(
-    IconData(0xe19e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe19e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf019e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf019e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-tai-chi-fill`
   static const IconifyIconData personSimpleTaiChiFill = IconifyIconData.solo(
-    IconData(0xe19f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf019f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-tai-chi-light`
   static const IconifyIconData personSimpleTaiChiLight = IconifyIconData.solo(
-    IconData(0xe1a0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-tai-chi-thin`
   static const IconifyIconData personSimpleTaiChiThin = IconifyIconData.solo(
-    IconData(0xe1a1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01a1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-thin`
   static const IconifyIconData personSimpleThin = IconifyIconData.solo(
-    IconData(0xe1a2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-throw`
   static const IconifyIconData personSimpleThrow = IconifyIconData.solo(
-    IconData(0xe1a3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01a3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-throw-bold`
   static const IconifyIconData personSimpleThrowBold = IconifyIconData.solo(
-    IconData(0xe1a4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-throw-duotone` (duo-tone)
   static const IconifyIconData personSimpleThrowDuotone = IconifyIconData.duo(
-    IconData(0xe1a5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1a5, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01a5, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-throw-fill`
   static const IconifyIconData personSimpleThrowFill = IconifyIconData.solo(
-    IconData(0xe1a6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-throw-light`
   static const IconifyIconData personSimpleThrowLight = IconifyIconData.solo(
-    IconData(0xe1a7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-throw-thin`
   static const IconifyIconData personSimpleThrowThin = IconifyIconData.solo(
-    IconData(0xe1a8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-walk`
   static const IconifyIconData personSimpleWalk = IconifyIconData.solo(
-    IconData(0xe1a9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-walk-bold`
   static const IconifyIconData personSimpleWalkBold = IconifyIconData.solo(
-    IconData(0xe1aa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-walk-duotone` (duo-tone)
   static const IconifyIconData personSimpleWalkDuotone = IconifyIconData.duo(
-    IconData(0xe1ab, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1ab, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ab, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-walk-fill`
   static const IconifyIconData personSimpleWalkFill = IconifyIconData.solo(
-    IconData(0xe1ac, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-walk-light`
   static const IconifyIconData personSimpleWalkLight = IconifyIconData.solo(
-    IconData(0xe1ad, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-simple-walk-thin`
   static const IconifyIconData personSimpleWalkThin = IconifyIconData.solo(
-    IconData(0xe1ae, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `person-thin`
   static const IconifyIconData personThin = IconifyIconData.solo(
-    IconData(0xe1af, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01af, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `perspective`
   static const IconifyIconData perspective = IconifyIconData.solo(
-    IconData(0xe1b0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01b0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `perspective-bold`
   static const IconifyIconData perspectiveBold = IconifyIconData.solo(
-    IconData(0xe1b1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01b1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `perspective-duotone` (duo-tone)
   static const IconifyIconData perspectiveDuotone = IconifyIconData.duo(
-    IconData(0xe1b2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1b2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01b2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01b2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `perspective-fill`
   static const IconifyIconData perspectiveFill = IconifyIconData.solo(
-    IconData(0xe1b3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01b3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `perspective-light`
   static const IconifyIconData perspectiveLight = IconifyIconData.solo(
-    IconData(0xe1b4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01b4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `perspective-thin`
   static const IconifyIconData perspectiveThin = IconifyIconData.solo(
-    IconData(0xe1b5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01b5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone`
   static const IconifyIconData phone = IconifyIconData.solo(
-    IconData(0xe1b6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01b6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-bold`
   static const IconifyIconData phoneBold = IconifyIconData.solo(
-    IconData(0xe1b7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01b7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-call`
   static const IconifyIconData phoneCall = IconifyIconData.solo(
-    IconData(0xe1b8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01b8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-call-bold`
   static const IconifyIconData phoneCallBold = IconifyIconData.solo(
-    IconData(0xe1b9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01b9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-call-duotone` (duo-tone)
   static const IconifyIconData phoneCallDuotone = IconifyIconData.duo(
-    IconData(0xe1ba, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1ba, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ba, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-call-fill`
   static const IconifyIconData phoneCallFill = IconifyIconData.solo(
-    IconData(0xe1bb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-call-light`
   static const IconifyIconData phoneCallLight = IconifyIconData.solo(
-    IconData(0xe1bc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-call-thin`
   static const IconifyIconData phoneCallThin = IconifyIconData.solo(
-    IconData(0xe1bd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01bd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-disconnect`
   static const IconifyIconData phoneDisconnect = IconifyIconData.solo(
-    IconData(0xe1be, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01be, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-disconnect-bold`
   static const IconifyIconData phoneDisconnectBold = IconifyIconData.solo(
-    IconData(0xe1bf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01bf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-disconnect-duotone` (duo-tone)
   static const IconifyIconData phoneDisconnectDuotone = IconifyIconData.duo(
-    IconData(0xe1c0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1c0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-disconnect-fill`
   static const IconifyIconData phoneDisconnectFill = IconifyIconData.solo(
-    IconData(0xe1c1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-disconnect-light`
   static const IconifyIconData phoneDisconnectLight = IconifyIconData.solo(
-    IconData(0xe1c2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-disconnect-thin`
   static const IconifyIconData phoneDisconnectThin = IconifyIconData.solo(
-    IconData(0xe1c3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-duotone` (duo-tone)
   static const IconifyIconData phoneDuotone = IconifyIconData.duo(
-    IconData(0xe1c4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1c4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-fill`
   static const IconifyIconData phoneFill = IconifyIconData.solo(
-    IconData(0xe1c5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-incoming`
   static const IconifyIconData phoneIncoming = IconifyIconData.solo(
-    IconData(0xe1c6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-incoming-bold`
   static const IconifyIconData phoneIncomingBold = IconifyIconData.solo(
-    IconData(0xe1c7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-incoming-duotone` (duo-tone)
   static const IconifyIconData phoneIncomingDuotone = IconifyIconData.duo(
-    IconData(0xe1c8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1c8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-incoming-fill`
   static const IconifyIconData phoneIncomingFill = IconifyIconData.solo(
-    IconData(0xe1c9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-incoming-light`
   static const IconifyIconData phoneIncomingLight = IconifyIconData.solo(
-    IconData(0xe1ca, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-incoming-thin`
   static const IconifyIconData phoneIncomingThin = IconifyIconData.solo(
-    IconData(0xe1cb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-light`
   static const IconifyIconData phoneLight = IconifyIconData.solo(
-    IconData(0xe1cc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-list`
   static const IconifyIconData phoneList = IconifyIconData.solo(
-    IconData(0xe1cd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-list-bold`
   static const IconifyIconData phoneListBold = IconifyIconData.solo(
-    IconData(0xe1ce, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-list-duotone` (duo-tone)
   static const IconifyIconData phoneListDuotone = IconifyIconData.duo(
-    IconData(0xe1cf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1cf, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01cf, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-list-fill`
   static const IconifyIconData phoneListFill = IconifyIconData.solo(
-    IconData(0xe1d0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-list-light`
   static const IconifyIconData phoneListLight = IconifyIconData.solo(
-    IconData(0xe1d1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01d1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-list-thin`
   static const IconifyIconData phoneListThin = IconifyIconData.solo(
-    IconData(0xe1d2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-outgoing`
   static const IconifyIconData phoneOutgoing = IconifyIconData.solo(
-    IconData(0xe1d3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-outgoing-bold`
   static const IconifyIconData phoneOutgoingBold = IconifyIconData.solo(
-    IconData(0xe1d4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-outgoing-duotone` (duo-tone)
   static const IconifyIconData phoneOutgoingDuotone = IconifyIconData.duo(
-    IconData(0xe1d5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1d5, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01d5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01d5, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-outgoing-fill`
   static const IconifyIconData phoneOutgoingFill = IconifyIconData.solo(
-    IconData(0xe1d6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01d6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-outgoing-light`
   static const IconifyIconData phoneOutgoingLight = IconifyIconData.solo(
-    IconData(0xe1d7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-outgoing-thin`
   static const IconifyIconData phoneOutgoingThin = IconifyIconData.solo(
-    IconData(0xe1d8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01d8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-pause`
   static const IconifyIconData phonePause = IconifyIconData.solo(
-    IconData(0xe1d9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01d9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-pause-bold`
   static const IconifyIconData phonePauseBold = IconifyIconData.solo(
-    IconData(0xe1da, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01da, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-pause-duotone` (duo-tone)
   static const IconifyIconData phonePauseDuotone = IconifyIconData.duo(
-    IconData(0xe1db, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1db, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01db, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-pause-fill`
   static const IconifyIconData phonePauseFill = IconifyIconData.solo(
-    IconData(0xe1dc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-pause-light`
   static const IconifyIconData phonePauseLight = IconifyIconData.solo(
-    IconData(0xe1dd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-pause-thin`
   static const IconifyIconData phonePauseThin = IconifyIconData.solo(
-    IconData(0xe1de, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01de, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-plus`
   static const IconifyIconData phonePlus = IconifyIconData.solo(
-    IconData(0xe1df, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01df, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-plus-bold`
   static const IconifyIconData phonePlusBold = IconifyIconData.solo(
-    IconData(0xe1e0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01e0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-plus-duotone` (duo-tone)
   static const IconifyIconData phonePlusDuotone = IconifyIconData.duo(
-    IconData(0xe1e1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1e1, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01e1, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-plus-fill`
   static const IconifyIconData phonePlusFill = IconifyIconData.solo(
-    IconData(0xe1e2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-plus-light`
   static const IconifyIconData phonePlusLight = IconifyIconData.solo(
-    IconData(0xe1e3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-plus-thin`
   static const IconifyIconData phonePlusThin = IconifyIconData.solo(
-    IconData(0xe1e4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-slash`
   static const IconifyIconData phoneSlash = IconifyIconData.solo(
-    IconData(0xe1e5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01e5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-slash-bold`
   static const IconifyIconData phoneSlashBold = IconifyIconData.solo(
-    IconData(0xe1e6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-slash-duotone` (duo-tone)
   static const IconifyIconData phoneSlashDuotone = IconifyIconData.duo(
-    IconData(0xe1e7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1e7, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01e7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-slash-fill`
   static const IconifyIconData phoneSlashFill = IconifyIconData.solo(
-    IconData(0xe1e8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-slash-light`
   static const IconifyIconData phoneSlashLight = IconifyIconData.solo(
-    IconData(0xe1e9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01e9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-slash-thin`
   static const IconifyIconData phoneSlashThin = IconifyIconData.solo(
-    IconData(0xe1ea, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-thin`
   static const IconifyIconData phoneThin = IconifyIconData.solo(
-    IconData(0xe1eb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-transfer`
   static const IconifyIconData phoneTransfer = IconifyIconData.solo(
-    IconData(0xe1ec, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-transfer-bold`
   static const IconifyIconData phoneTransferBold = IconifyIconData.solo(
-    IconData(0xe1ed, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-transfer-duotone` (duo-tone)
   static const IconifyIconData phoneTransferDuotone = IconifyIconData.duo(
-    IconData(0xe1ee, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1ee, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ee, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-transfer-fill`
   static const IconifyIconData phoneTransferFill = IconifyIconData.solo(
-    IconData(0xe1ef, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-transfer-light`
   static const IconifyIconData phoneTransferLight = IconifyIconData.solo(
-    IconData(0xe1f0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-transfer-thin`
   static const IconifyIconData phoneTransferThin = IconifyIconData.solo(
-    IconData(0xe1f1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01f1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-x`
   static const IconifyIconData phoneX = IconifyIconData.solo(
-    IconData(0xe1f2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01f2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-x-bold`
   static const IconifyIconData phoneXBold = IconifyIconData.solo(
-    IconData(0xe1f3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-x-duotone` (duo-tone)
   static const IconifyIconData phoneXDuotone = IconifyIconData.duo(
-    IconData(0xe1f4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1f4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01f4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-x-fill`
   static const IconifyIconData phoneXFill = IconifyIconData.solo(
-    IconData(0xe1f5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-x-light`
   static const IconifyIconData phoneXLight = IconifyIconData.solo(
-    IconData(0xe1f6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phone-x-thin`
   static const IconifyIconData phoneXThin = IconifyIconData.solo(
-    IconData(0xe1f7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01f7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phosphor-logo`
   static const IconifyIconData phosphorLogo = IconifyIconData.solo(
-    IconData(0xe1f8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01f8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phosphor-logo-bold`
   static const IconifyIconData phosphorLogoBold = IconifyIconData.solo(
-    IconData(0xe1f9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phosphor-logo-duotone` (duo-tone)
   static const IconifyIconData phosphorLogoDuotone = IconifyIconData.duo(
-    IconData(0xe1fa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe1fa, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01fa, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phosphor-logo-fill`
   static const IconifyIconData phosphorLogoFill = IconifyIconData.solo(
-    IconData(0xe1fb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phosphor-logo-light`
   static const IconifyIconData phosphorLogoLight = IconifyIconData.solo(
-    IconData(0xe1fc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `phosphor-logo-thin`
   static const IconifyIconData phosphorLogoThin = IconifyIconData.solo(
-    IconData(0xe1fd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pi`
   static const IconifyIconData pi = IconifyIconData.solo(
-    IconData(0xe1fe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01fe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pi-bold`
   static const IconifyIconData piBold = IconifyIconData.solo(
-    IconData(0xe1ff, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf01ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pi-duotone` (duo-tone)
   static const IconifyIconData piDuotone = IconifyIconData.duo(
-    IconData(0xe200, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe200, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0200, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0200, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pi-fill`
   static const IconifyIconData piFill = IconifyIconData.solo(
-    IconData(0xe201, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0201, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pi-light`
   static const IconifyIconData piLight = IconifyIconData.solo(
-    IconData(0xe202, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0202, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pi-thin`
   static const IconifyIconData piThin = IconifyIconData.solo(
-    IconData(0xe203, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0203, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `piano-keys`
   static const IconifyIconData pianoKeys = IconifyIconData.solo(
-    IconData(0xe204, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0204, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `piano-keys-bold`
   static const IconifyIconData pianoKeysBold = IconifyIconData.solo(
-    IconData(0xe205, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0205, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `piano-keys-duotone` (duo-tone)
   static const IconifyIconData pianoKeysDuotone = IconifyIconData.duo(
-    IconData(0xe206, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe206, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0206, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0206, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `piano-keys-fill`
   static const IconifyIconData pianoKeysFill = IconifyIconData.solo(
-    IconData(0xe207, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0207, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `piano-keys-light`
   static const IconifyIconData pianoKeysLight = IconifyIconData.solo(
-    IconData(0xe208, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0208, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `piano-keys-thin`
   static const IconifyIconData pianoKeysThin = IconifyIconData.solo(
-    IconData(0xe209, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0209, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `picnic-table`
   static const IconifyIconData picnicTable = IconifyIconData.solo(
-    IconData(0xe20a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf020a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `picnic-table-bold`
   static const IconifyIconData picnicTableBold = IconifyIconData.solo(
-    IconData(0xe20b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf020b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `picnic-table-duotone` (duo-tone)
   static const IconifyIconData picnicTableDuotone = IconifyIconData.duo(
-    IconData(0xe20c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe20c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf020c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf020c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `picnic-table-fill`
   static const IconifyIconData picnicTableFill = IconifyIconData.solo(
-    IconData(0xe20d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf020d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `picnic-table-light`
   static const IconifyIconData picnicTableLight = IconifyIconData.solo(
-    IconData(0xe20e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf020e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `picnic-table-thin`
   static const IconifyIconData picnicTableThin = IconifyIconData.solo(
-    IconData(0xe20f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf020f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `picture-in-picture`
   static const IconifyIconData pictureInPicture = IconifyIconData.solo(
-    IconData(0xe210, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0210, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `picture-in-picture-bold`
   static const IconifyIconData pictureInPictureBold = IconifyIconData.solo(
-    IconData(0xe211, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0211, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `picture-in-picture-duotone` (duo-tone)
   static const IconifyIconData pictureInPictureDuotone = IconifyIconData.duo(
-    IconData(0xe212, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe212, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0212, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0212, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `picture-in-picture-fill`
   static const IconifyIconData pictureInPictureFill = IconifyIconData.solo(
-    IconData(0xe213, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0213, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `picture-in-picture-light`
   static const IconifyIconData pictureInPictureLight = IconifyIconData.solo(
-    IconData(0xe214, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0214, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `picture-in-picture-thin`
   static const IconifyIconData pictureInPictureThin = IconifyIconData.solo(
-    IconData(0xe215, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0215, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `piggy-bank`
   static const IconifyIconData piggyBank = IconifyIconData.solo(
-    IconData(0xe216, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0216, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `piggy-bank-bold`
   static const IconifyIconData piggyBankBold = IconifyIconData.solo(
-    IconData(0xe217, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0217, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `piggy-bank-duotone` (duo-tone)
   static const IconifyIconData piggyBankDuotone = IconifyIconData.duo(
-    IconData(0xe218, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe218, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0218, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0218, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `piggy-bank-fill`
   static const IconifyIconData piggyBankFill = IconifyIconData.solo(
-    IconData(0xe219, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0219, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `piggy-bank-light`
   static const IconifyIconData piggyBankLight = IconifyIconData.solo(
-    IconData(0xe21a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf021a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `piggy-bank-thin`
   static const IconifyIconData piggyBankThin = IconifyIconData.solo(
-    IconData(0xe21b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf021b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pill`
   static const IconifyIconData pill = IconifyIconData.solo(
-    IconData(0xe21c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf021c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pill-bold`
   static const IconifyIconData pillBold = IconifyIconData.solo(
-    IconData(0xe21d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf021d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pill-duotone` (duo-tone)
   static const IconifyIconData pillDuotone = IconifyIconData.duo(
-    IconData(0xe21e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe21e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf021e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf021e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pill-fill`
   static const IconifyIconData pillFill = IconifyIconData.solo(
-    IconData(0xe21f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf021f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pill-light`
   static const IconifyIconData pillLight = IconifyIconData.solo(
-    IconData(0xe220, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0220, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pill-thin`
   static const IconifyIconData pillThin = IconifyIconData.solo(
-    IconData(0xe221, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0221, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ping-pong`
   static const IconifyIconData pingPong = IconifyIconData.solo(
-    IconData(0xe222, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0222, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ping-pong-bold`
   static const IconifyIconData pingPongBold = IconifyIconData.solo(
-    IconData(0xe223, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0223, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ping-pong-duotone` (duo-tone)
   static const IconifyIconData pingPongDuotone = IconifyIconData.duo(
-    IconData(0xe224, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe224, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0224, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0224, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ping-pong-fill`
   static const IconifyIconData pingPongFill = IconifyIconData.solo(
-    IconData(0xe225, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0225, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ping-pong-light`
   static const IconifyIconData pingPongLight = IconifyIconData.solo(
-    IconData(0xe226, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0226, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ping-pong-thin`
   static const IconifyIconData pingPongThin = IconifyIconData.solo(
-    IconData(0xe227, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0227, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pint-glass`
   static const IconifyIconData pintGlass = IconifyIconData.solo(
-    IconData(0xe228, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0228, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pint-glass-bold`
   static const IconifyIconData pintGlassBold = IconifyIconData.solo(
-    IconData(0xe229, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0229, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pint-glass-duotone` (duo-tone)
   static const IconifyIconData pintGlassDuotone = IconifyIconData.duo(
-    IconData(0xe22a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe22a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf022a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf022a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pint-glass-fill`
   static const IconifyIconData pintGlassFill = IconifyIconData.solo(
-    IconData(0xe22b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf022b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pint-glass-light`
   static const IconifyIconData pintGlassLight = IconifyIconData.solo(
-    IconData(0xe22c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf022c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pint-glass-thin`
   static const IconifyIconData pintGlassThin = IconifyIconData.solo(
-    IconData(0xe22d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf022d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pinterest-logo`
   static const IconifyIconData pinterestLogo = IconifyIconData.solo(
-    IconData(0xe22e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf022e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pinterest-logo-bold`
   static const IconifyIconData pinterestLogoBold = IconifyIconData.solo(
-    IconData(0xe22f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf022f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pinterest-logo-duotone` (duo-tone)
   static const IconifyIconData pinterestLogoDuotone = IconifyIconData.duo(
-    IconData(0xe230, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe230, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0230, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0230, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pinterest-logo-fill`
   static const IconifyIconData pinterestLogoFill = IconifyIconData.solo(
-    IconData(0xe231, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0231, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pinterest-logo-light`
   static const IconifyIconData pinterestLogoLight = IconifyIconData.solo(
-    IconData(0xe232, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0232, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pinterest-logo-thin`
   static const IconifyIconData pinterestLogoThin = IconifyIconData.solo(
-    IconData(0xe233, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0233, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pinwheel`
   static const IconifyIconData pinwheel = IconifyIconData.solo(
-    IconData(0xe234, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0234, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pinwheel-bold`
   static const IconifyIconData pinwheelBold = IconifyIconData.solo(
-    IconData(0xe235, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0235, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pinwheel-duotone` (duo-tone)
   static const IconifyIconData pinwheelDuotone = IconifyIconData.duo(
-    IconData(0xe236, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe236, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0236, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0236, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pinwheel-fill`
   static const IconifyIconData pinwheelFill = IconifyIconData.solo(
-    IconData(0xe237, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0237, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pinwheel-light`
   static const IconifyIconData pinwheelLight = IconifyIconData.solo(
-    IconData(0xe238, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0238, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pinwheel-thin`
   static const IconifyIconData pinwheelThin = IconifyIconData.solo(
-    IconData(0xe239, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0239, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pipe`
   static const IconifyIconData pipe = IconifyIconData.solo(
-    IconData(0xe23a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf023a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pipe-bold`
   static const IconifyIconData pipeBold = IconifyIconData.solo(
-    IconData(0xe23b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf023b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pipe-duotone` (duo-tone)
   static const IconifyIconData pipeDuotone = IconifyIconData.duo(
-    IconData(0xe23c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe23c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf023c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf023c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pipe-fill`
   static const IconifyIconData pipeFill = IconifyIconData.solo(
-    IconData(0xe23d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf023d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pipe-light`
   static const IconifyIconData pipeLight = IconifyIconData.solo(
-    IconData(0xe23e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf023e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pipe-thin`
   static const IconifyIconData pipeThin = IconifyIconData.solo(
-    IconData(0xe23f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf023f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pipe-wrench`
   static const IconifyIconData pipeWrench = IconifyIconData.solo(
-    IconData(0xe240, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0240, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pipe-wrench-bold`
   static const IconifyIconData pipeWrenchBold = IconifyIconData.solo(
-    IconData(0xe241, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0241, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pipe-wrench-duotone` (duo-tone)
   static const IconifyIconData pipeWrenchDuotone = IconifyIconData.duo(
-    IconData(0xe242, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe242, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0242, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0242, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pipe-wrench-fill`
   static const IconifyIconData pipeWrenchFill = IconifyIconData.solo(
-    IconData(0xe243, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0243, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pipe-wrench-light`
   static const IconifyIconData pipeWrenchLight = IconifyIconData.solo(
-    IconData(0xe244, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0244, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pipe-wrench-thin`
   static const IconifyIconData pipeWrenchThin = IconifyIconData.solo(
-    IconData(0xe245, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0245, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pix-logo`
   static const IconifyIconData pixLogo = IconifyIconData.solo(
-    IconData(0xe246, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0246, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pix-logo-bold`
   static const IconifyIconData pixLogoBold = IconifyIconData.solo(
-    IconData(0xe247, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0247, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pix-logo-duotone` (duo-tone)
   static const IconifyIconData pixLogoDuotone = IconifyIconData.duo(
-    IconData(0xe248, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe248, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0248, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0248, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pix-logo-fill`
   static const IconifyIconData pixLogoFill = IconifyIconData.solo(
-    IconData(0xe249, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0249, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pix-logo-light`
   static const IconifyIconData pixLogoLight = IconifyIconData.solo(
-    IconData(0xe24a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf024a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pix-logo-thin`
   static const IconifyIconData pixLogoThin = IconifyIconData.solo(
-    IconData(0xe24b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf024b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pizza`
   static const IconifyIconData pizza = IconifyIconData.solo(
-    IconData(0xe24c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf024c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pizza-bold`
   static const IconifyIconData pizzaBold = IconifyIconData.solo(
-    IconData(0xe24d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf024d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pizza-duotone` (duo-tone)
   static const IconifyIconData pizzaDuotone = IconifyIconData.duo(
-    IconData(0xe24e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe24e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf024e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf024e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pizza-fill`
   static const IconifyIconData pizzaFill = IconifyIconData.solo(
-    IconData(0xe24f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf024f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pizza-light`
   static const IconifyIconData pizzaLight = IconifyIconData.solo(
-    IconData(0xe250, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0250, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pizza-thin`
   static const IconifyIconData pizzaThin = IconifyIconData.solo(
-    IconData(0xe251, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0251, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `placeholder`
   static const IconifyIconData placeholder = IconifyIconData.solo(
-    IconData(0xe252, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0252, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `placeholder-bold`
   static const IconifyIconData placeholderBold = IconifyIconData.solo(
-    IconData(0xe253, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0253, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `placeholder-duotone` (duo-tone)
   static const IconifyIconData placeholderDuotone = IconifyIconData.duo(
-    IconData(0xe254, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe254, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0254, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0254, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `placeholder-fill`
   static const IconifyIconData placeholderFill = IconifyIconData.solo(
-    IconData(0xe255, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0255, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `placeholder-light`
   static const IconifyIconData placeholderLight = IconifyIconData.solo(
-    IconData(0xe256, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0256, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `placeholder-thin`
   static const IconifyIconData placeholderThin = IconifyIconData.solo(
-    IconData(0xe257, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0257, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `planet`
   static const IconifyIconData planet = IconifyIconData.solo(
-    IconData(0xe258, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0258, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `planet-bold`
   static const IconifyIconData planetBold = IconifyIconData.solo(
-    IconData(0xe259, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0259, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `planet-duotone` (duo-tone)
   static const IconifyIconData planetDuotone = IconifyIconData.duo(
-    IconData(0xe25a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe25a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf025a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf025a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `planet-fill`
   static const IconifyIconData planetFill = IconifyIconData.solo(
-    IconData(0xe25b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf025b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `planet-light`
   static const IconifyIconData planetLight = IconifyIconData.solo(
-    IconData(0xe25c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf025c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `planet-thin`
   static const IconifyIconData planetThin = IconifyIconData.solo(
-    IconData(0xe25d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf025d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plant`
   static const IconifyIconData plant = IconifyIconData.solo(
-    IconData(0xe25e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf025e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plant-bold`
   static const IconifyIconData plantBold = IconifyIconData.solo(
-    IconData(0xe25f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf025f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plant-duotone` (duo-tone)
   static const IconifyIconData plantDuotone = IconifyIconData.duo(
-    IconData(0xe260, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe260, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0260, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0260, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plant-fill`
   static const IconifyIconData plantFill = IconifyIconData.solo(
-    IconData(0xe261, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0261, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plant-light`
   static const IconifyIconData plantLight = IconifyIconData.solo(
-    IconData(0xe262, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0262, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plant-thin`
   static const IconifyIconData plantThin = IconifyIconData.solo(
-    IconData(0xe263, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0263, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play`
   static const IconifyIconData play = IconifyIconData.solo(
-    IconData(0xe264, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0264, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-bold`
   static const IconifyIconData playBold = IconifyIconData.solo(
-    IconData(0xe265, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0265, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-circle`
   static const IconifyIconData playCircle = IconifyIconData.solo(
-    IconData(0xe266, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0266, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-circle-bold`
   static const IconifyIconData playCircleBold = IconifyIconData.solo(
-    IconData(0xe267, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0267, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-circle-duotone` (duo-tone)
   static const IconifyIconData playCircleDuotone = IconifyIconData.duo(
-    IconData(0xe268, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe268, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0268, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0268, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-circle-fill`
   static const IconifyIconData playCircleFill = IconifyIconData.solo(
-    IconData(0xe269, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0269, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-circle-light`
   static const IconifyIconData playCircleLight = IconifyIconData.solo(
-    IconData(0xe26a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf026a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-circle-thin`
   static const IconifyIconData playCircleThin = IconifyIconData.solo(
-    IconData(0xe26b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf026b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-duotone` (duo-tone)
   static const IconifyIconData playDuotone = IconifyIconData.duo(
-    IconData(0xe26c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe26c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf026c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf026c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-fill`
   static const IconifyIconData playFill = IconifyIconData.solo(
-    IconData(0xe26d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf026d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-light`
   static const IconifyIconData playLight = IconifyIconData.solo(
-    IconData(0xe26e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf026e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-pause`
   static const IconifyIconData playPause = IconifyIconData.solo(
-    IconData(0xe26f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf026f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-pause-bold`
   static const IconifyIconData playPauseBold = IconifyIconData.solo(
-    IconData(0xe270, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0270, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-pause-duotone` (duo-tone)
   static const IconifyIconData playPauseDuotone = IconifyIconData.duo(
-    IconData(0xe271, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe271, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0271, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0271, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-pause-fill`
   static const IconifyIconData playPauseFill = IconifyIconData.solo(
-    IconData(0xe272, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0272, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-pause-light`
   static const IconifyIconData playPauseLight = IconifyIconData.solo(
-    IconData(0xe273, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0273, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-pause-thin`
   static const IconifyIconData playPauseThin = IconifyIconData.solo(
-    IconData(0xe274, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0274, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `play-thin`
   static const IconifyIconData playThin = IconifyIconData.solo(
-    IconData(0xe275, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0275, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `playlist`
   static const IconifyIconData playlist = IconifyIconData.solo(
-    IconData(0xe276, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0276, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `playlist-bold`
   static const IconifyIconData playlistBold = IconifyIconData.solo(
-    IconData(0xe277, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0277, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `playlist-duotone` (duo-tone)
   static const IconifyIconData playlistDuotone = IconifyIconData.duo(
-    IconData(0xe278, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe278, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0278, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0278, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `playlist-fill`
   static const IconifyIconData playlistFill = IconifyIconData.solo(
-    IconData(0xe279, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0279, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `playlist-light`
   static const IconifyIconData playlistLight = IconifyIconData.solo(
-    IconData(0xe27a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf027a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `playlist-thin`
   static const IconifyIconData playlistThin = IconifyIconData.solo(
-    IconData(0xe27b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf027b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plug`
   static const IconifyIconData plug = IconifyIconData.solo(
-    IconData(0xe27c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf027c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plug-bold`
   static const IconifyIconData plugBold = IconifyIconData.solo(
-    IconData(0xe27d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf027d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plug-charging`
   static const IconifyIconData plugCharging = IconifyIconData.solo(
-    IconData(0xe27e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf027e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plug-charging-bold`
   static const IconifyIconData plugChargingBold = IconifyIconData.solo(
-    IconData(0xe27f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf027f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plug-charging-duotone` (duo-tone)
   static const IconifyIconData plugChargingDuotone = IconifyIconData.duo(
-    IconData(0xe280, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe280, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0280, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0280, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plug-charging-fill`
   static const IconifyIconData plugChargingFill = IconifyIconData.solo(
-    IconData(0xe281, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0281, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plug-charging-light`
   static const IconifyIconData plugChargingLight = IconifyIconData.solo(
-    IconData(0xe282, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0282, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plug-charging-thin`
   static const IconifyIconData plugChargingThin = IconifyIconData.solo(
-    IconData(0xe283, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0283, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plug-duotone` (duo-tone)
   static const IconifyIconData plugDuotone = IconifyIconData.duo(
-    IconData(0xe284, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe284, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0284, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0284, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plug-fill`
   static const IconifyIconData plugFill = IconifyIconData.solo(
-    IconData(0xe285, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0285, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plug-light`
   static const IconifyIconData plugLight = IconifyIconData.solo(
-    IconData(0xe286, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0286, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plug-thin`
   static const IconifyIconData plugThin = IconifyIconData.solo(
-    IconData(0xe287, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0287, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plugs`
   static const IconifyIconData plugs = IconifyIconData.solo(
-    IconData(0xe288, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0288, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plugs-bold`
   static const IconifyIconData plugsBold = IconifyIconData.solo(
-    IconData(0xe289, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0289, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plugs-connected`
   static const IconifyIconData plugsConnected = IconifyIconData.solo(
-    IconData(0xe28a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf028a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plugs-connected-bold`
   static const IconifyIconData plugsConnectedBold = IconifyIconData.solo(
-    IconData(0xe28b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf028b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plugs-connected-duotone` (duo-tone)
   static const IconifyIconData plugsConnectedDuotone = IconifyIconData.duo(
-    IconData(0xe28c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe28c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf028c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf028c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plugs-connected-fill`
   static const IconifyIconData plugsConnectedFill = IconifyIconData.solo(
-    IconData(0xe28d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf028d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plugs-connected-light`
   static const IconifyIconData plugsConnectedLight = IconifyIconData.solo(
-    IconData(0xe28e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf028e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plugs-connected-thin`
   static const IconifyIconData plugsConnectedThin = IconifyIconData.solo(
-    IconData(0xe28f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf028f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plugs-duotone` (duo-tone)
   static const IconifyIconData plugsDuotone = IconifyIconData.duo(
-    IconData(0xe290, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe290, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0290, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0290, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plugs-fill`
   static const IconifyIconData plugsFill = IconifyIconData.solo(
-    IconData(0xe291, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0291, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plugs-light`
   static const IconifyIconData plugsLight = IconifyIconData.solo(
-    IconData(0xe292, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0292, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plugs-thin`
   static const IconifyIconData plugsThin = IconifyIconData.solo(
-    IconData(0xe293, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0293, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus`
   static const IconifyIconData plus = IconifyIconData.solo(
-    IconData(0xe294, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0294, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-bold`
   static const IconifyIconData plusBold = IconifyIconData.solo(
-    IconData(0xe295, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0295, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-circle`
   static const IconifyIconData plusCircle = IconifyIconData.solo(
-    IconData(0xe296, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0296, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-circle-bold`
   static const IconifyIconData plusCircleBold = IconifyIconData.solo(
-    IconData(0xe297, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0297, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-circle-duotone` (duo-tone)
   static const IconifyIconData plusCircleDuotone = IconifyIconData.duo(
-    IconData(0xe298, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe298, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0298, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0298, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-circle-fill`
   static const IconifyIconData plusCircleFill = IconifyIconData.solo(
-    IconData(0xe299, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0299, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-circle-light`
   static const IconifyIconData plusCircleLight = IconifyIconData.solo(
-    IconData(0xe29a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf029a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-circle-thin`
   static const IconifyIconData plusCircleThin = IconifyIconData.solo(
-    IconData(0xe29b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf029b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-duotone` (duo-tone)
   static const IconifyIconData plusDuotone = IconifyIconData.duo(
-    IconData(0xe29c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe29c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf029c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf029c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-fill`
   static const IconifyIconData plusFill = IconifyIconData.solo(
-    IconData(0xe29d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf029d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-light`
   static const IconifyIconData plusLight = IconifyIconData.solo(
-    IconData(0xe29e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf029e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-minus`
   static const IconifyIconData plusMinus = IconifyIconData.solo(
-    IconData(0xe29f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf029f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-minus-bold`
   static const IconifyIconData plusMinusBold = IconifyIconData.solo(
-    IconData(0xe2a0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-minus-duotone` (duo-tone)
   static const IconifyIconData plusMinusDuotone = IconifyIconData.duo(
-    IconData(0xe2a1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2a1, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02a1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02a1, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-minus-fill`
   static const IconifyIconData plusMinusFill = IconifyIconData.solo(
-    IconData(0xe2a2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-minus-light`
   static const IconifyIconData plusMinusLight = IconifyIconData.solo(
-    IconData(0xe2a3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02a3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-minus-thin`
   static const IconifyIconData plusMinusThin = IconifyIconData.solo(
-    IconData(0xe2a4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-square`
   static const IconifyIconData plusSquare = IconifyIconData.solo(
-    IconData(0xe2a5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-square-bold`
   static const IconifyIconData plusSquareBold = IconifyIconData.solo(
-    IconData(0xe2a6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-square-duotone` (duo-tone)
   static const IconifyIconData plusSquareDuotone = IconifyIconData.duo(
-    IconData(0xe2a7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2a7, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02a7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-square-fill`
   static const IconifyIconData plusSquareFill = IconifyIconData.solo(
-    IconData(0xe2a8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-square-light`
   static const IconifyIconData plusSquareLight = IconifyIconData.solo(
-    IconData(0xe2a9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-square-thin`
   static const IconifyIconData plusSquareThin = IconifyIconData.solo(
-    IconData(0xe2aa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `plus-thin`
   static const IconifyIconData plusThin = IconifyIconData.solo(
-    IconData(0xe2ab, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `poker-chip`
   static const IconifyIconData pokerChip = IconifyIconData.solo(
-    IconData(0xe2ac, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `poker-chip-bold`
   static const IconifyIconData pokerChipBold = IconifyIconData.solo(
-    IconData(0xe2ad, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `poker-chip-duotone` (duo-tone)
   static const IconifyIconData pokerChipDuotone = IconifyIconData.duo(
-    IconData(0xe2ae, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2ae, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ae, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `poker-chip-fill`
   static const IconifyIconData pokerChipFill = IconifyIconData.solo(
-    IconData(0xe2af, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02af, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `poker-chip-light`
   static const IconifyIconData pokerChipLight = IconifyIconData.solo(
-    IconData(0xe2b0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02b0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `poker-chip-thin`
   static const IconifyIconData pokerChipThin = IconifyIconData.solo(
-    IconData(0xe2b1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02b1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `police-car`
   static const IconifyIconData policeCar = IconifyIconData.solo(
-    IconData(0xe2b2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02b2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `police-car-bold`
   static const IconifyIconData policeCarBold = IconifyIconData.solo(
-    IconData(0xe2b3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02b3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `police-car-duotone` (duo-tone)
   static const IconifyIconData policeCarDuotone = IconifyIconData.duo(
-    IconData(0xe2b4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2b4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02b4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02b4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `police-car-fill`
   static const IconifyIconData policeCarFill = IconifyIconData.solo(
-    IconData(0xe2b5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02b5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `police-car-light`
   static const IconifyIconData policeCarLight = IconifyIconData.solo(
-    IconData(0xe2b6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02b6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `police-car-thin`
   static const IconifyIconData policeCarThin = IconifyIconData.solo(
-    IconData(0xe2b7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02b7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `polygon`
   static const IconifyIconData polygon = IconifyIconData.solo(
-    IconData(0xe2b8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02b8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `polygon-bold`
   static const IconifyIconData polygonBold = IconifyIconData.solo(
-    IconData(0xe2b9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02b9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `polygon-duotone` (duo-tone)
   static const IconifyIconData polygonDuotone = IconifyIconData.duo(
-    IconData(0xe2ba, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2ba, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ba, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `polygon-fill`
   static const IconifyIconData polygonFill = IconifyIconData.solo(
-    IconData(0xe2bb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `polygon-light`
   static const IconifyIconData polygonLight = IconifyIconData.solo(
-    IconData(0xe2bc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `polygon-thin`
   static const IconifyIconData polygonThin = IconifyIconData.solo(
-    IconData(0xe2bd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02bd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `popcorn`
   static const IconifyIconData popcorn = IconifyIconData.solo(
-    IconData(0xe2be, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02be, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `popcorn-bold`
   static const IconifyIconData popcornBold = IconifyIconData.solo(
-    IconData(0xe2bf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02bf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `popcorn-duotone` (duo-tone)
   static const IconifyIconData popcornDuotone = IconifyIconData.duo(
-    IconData(0xe2c0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2c0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02c0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02c0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `popcorn-fill`
   static const IconifyIconData popcornFill = IconifyIconData.solo(
-    IconData(0xe2c1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `popcorn-light`
   static const IconifyIconData popcornLight = IconifyIconData.solo(
-    IconData(0xe2c2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `popcorn-thin`
   static const IconifyIconData popcornThin = IconifyIconData.solo(
-    IconData(0xe2c3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02c3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `popsicle`
   static const IconifyIconData popsicle = IconifyIconData.solo(
-    IconData(0xe2c4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02c4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `popsicle-bold`
   static const IconifyIconData popsicleBold = IconifyIconData.solo(
-    IconData(0xe2c5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02c5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `popsicle-duotone` (duo-tone)
   static const IconifyIconData popsicleDuotone = IconifyIconData.duo(
-    IconData(0xe2c6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2c6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02c6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02c6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `popsicle-fill`
   static const IconifyIconData popsicleFill = IconifyIconData.solo(
-    IconData(0xe2c7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `popsicle-light`
   static const IconifyIconData popsicleLight = IconifyIconData.solo(
-    IconData(0xe2c8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `popsicle-thin`
   static const IconifyIconData popsicleThin = IconifyIconData.solo(
-    IconData(0xe2c9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `potted-plant`
   static const IconifyIconData pottedPlant = IconifyIconData.solo(
-    IconData(0xe2ca, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `potted-plant-bold`
   static const IconifyIconData pottedPlantBold = IconifyIconData.solo(
-    IconData(0xe2cb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `potted-plant-duotone` (duo-tone)
   static const IconifyIconData pottedPlantDuotone = IconifyIconData.duo(
-    IconData(0xe2cc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2cc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02cc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `potted-plant-fill`
   static const IconifyIconData pottedPlantFill = IconifyIconData.solo(
-    IconData(0xe2cd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `potted-plant-light`
   static const IconifyIconData pottedPlantLight = IconifyIconData.solo(
-    IconData(0xe2ce, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `potted-plant-thin`
   static const IconifyIconData pottedPlantThin = IconifyIconData.solo(
-    IconData(0xe2cf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `power`
   static const IconifyIconData power = IconifyIconData.solo(
-    IconData(0xe2d0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `power-bold`
   static const IconifyIconData powerBold = IconifyIconData.solo(
-    IconData(0xe2d1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02d1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `power-duotone` (duo-tone)
   static const IconifyIconData powerDuotone = IconifyIconData.duo(
-    IconData(0xe2d2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2d2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02d2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `power-fill`
   static const IconifyIconData powerFill = IconifyIconData.solo(
-    IconData(0xe2d3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `power-light`
   static const IconifyIconData powerLight = IconifyIconData.solo(
-    IconData(0xe2d4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `power-thin`
   static const IconifyIconData powerThin = IconifyIconData.solo(
-    IconData(0xe2d5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02d5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prescription`
   static const IconifyIconData prescription = IconifyIconData.solo(
-    IconData(0xe2d6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02d6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prescription-bold`
   static const IconifyIconData prescriptionBold = IconifyIconData.solo(
-    IconData(0xe2d7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prescription-duotone` (duo-tone)
   static const IconifyIconData prescriptionDuotone = IconifyIconData.duo(
-    IconData(0xe2d8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2d8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02d8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02d8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prescription-fill`
   static const IconifyIconData prescriptionFill = IconifyIconData.solo(
-    IconData(0xe2d9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02d9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prescription-light`
   static const IconifyIconData prescriptionLight = IconifyIconData.solo(
-    IconData(0xe2da, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02da, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prescription-thin`
   static const IconifyIconData prescriptionThin = IconifyIconData.solo(
-    IconData(0xe2db, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation`
   static const IconifyIconData presentation = IconifyIconData.solo(
-    IconData(0xe2dc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation-bold`
   static const IconifyIconData presentationBold = IconifyIconData.solo(
-    IconData(0xe2dd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation-chart`
   static const IconifyIconData presentationChart = IconifyIconData.solo(
-    IconData(0xe2de, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02de, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation-chart-bold`
   static const IconifyIconData presentationChartBold = IconifyIconData.solo(
-    IconData(0xe2df, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02df, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation-chart-duotone` (duo-tone)
   static const IconifyIconData presentationChartDuotone = IconifyIconData.duo(
-    IconData(0xe2e0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2e0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02e0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02e0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation-chart-fill`
   static const IconifyIconData presentationChartFill = IconifyIconData.solo(
-    IconData(0xe2e1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation-chart-light`
   static const IconifyIconData presentationChartLight = IconifyIconData.solo(
-    IconData(0xe2e2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation-chart-thin`
   static const IconifyIconData presentationChartThin = IconifyIconData.solo(
-    IconData(0xe2e3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation-duotone` (duo-tone)
   static const IconifyIconData presentationDuotone = IconifyIconData.duo(
-    IconData(0xe2e4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2e4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02e4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation-fill`
   static const IconifyIconData presentationFill = IconifyIconData.solo(
-    IconData(0xe2e5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02e5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation-light`
   static const IconifyIconData presentationLight = IconifyIconData.solo(
-    IconData(0xe2e6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `presentation-thin`
   static const IconifyIconData presentationThin = IconifyIconData.solo(
-    IconData(0xe2e7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `printer`
   static const IconifyIconData printer = IconifyIconData.solo(
-    IconData(0xe2e8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `printer-bold`
   static const IconifyIconData printerBold = IconifyIconData.solo(
-    IconData(0xe2e9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02e9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `printer-duotone` (duo-tone)
   static const IconifyIconData printerDuotone = IconifyIconData.duo(
-    IconData(0xe2ea, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2ea, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ea, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `printer-fill`
   static const IconifyIconData printerFill = IconifyIconData.solo(
-    IconData(0xe2eb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `printer-light`
   static const IconifyIconData printerLight = IconifyIconData.solo(
-    IconData(0xe2ec, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `printer-thin`
   static const IconifyIconData printerThin = IconifyIconData.solo(
-    IconData(0xe2ed, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit`
   static const IconifyIconData prohibit = IconifyIconData.solo(
-    IconData(0xe2ee, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-bold`
   static const IconifyIconData prohibitBold = IconifyIconData.solo(
-    IconData(0xe2ef, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-duotone` (duo-tone)
   static const IconifyIconData prohibitDuotone = IconifyIconData.duo(
-    IconData(0xe2f0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2f0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02f0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-fill`
   static const IconifyIconData prohibitFill = IconifyIconData.solo(
-    IconData(0xe2f1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02f1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-inset`
   static const IconifyIconData prohibitInset = IconifyIconData.solo(
-    IconData(0xe2f2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02f2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-inset-bold`
   static const IconifyIconData prohibitInsetBold = IconifyIconData.solo(
-    IconData(0xe2f3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-inset-duotone` (duo-tone)
   static const IconifyIconData prohibitInsetDuotone = IconifyIconData.duo(
-    IconData(0xe2f4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2f4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02f4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-inset-fill`
   static const IconifyIconData prohibitInsetFill = IconifyIconData.solo(
-    IconData(0xe2f5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-inset-light`
   static const IconifyIconData prohibitInsetLight = IconifyIconData.solo(
-    IconData(0xe2f6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-inset-thin`
   static const IconifyIconData prohibitInsetThin = IconifyIconData.solo(
-    IconData(0xe2f7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02f7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-light`
   static const IconifyIconData prohibitLight = IconifyIconData.solo(
-    IconData(0xe2f8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02f8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `prohibit-thin`
   static const IconifyIconData prohibitThin = IconifyIconData.solo(
-    IconData(0xe2f9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen`
   static const IconifyIconData projectorScreen = IconifyIconData.solo(
-    IconData(0xe2fa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen-bold`
   static const IconifyIconData projectorScreenBold = IconifyIconData.solo(
-    IconData(0xe2fb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen-chart`
   static const IconifyIconData projectorScreenChart = IconifyIconData.solo(
-    IconData(0xe2fc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen-chart-bold`
   static const IconifyIconData projectorScreenChartBold = IconifyIconData.solo(
-    IconData(0xe2fd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen-chart-duotone` (duo-tone)
   static const IconifyIconData projectorScreenChartDuotone = IconifyIconData.duo(
-    IconData(0xe2fe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe2fe, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02fe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02fe, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen-chart-fill`
   static const IconifyIconData projectorScreenChartFill = IconifyIconData.solo(
-    IconData(0xe2ff, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf02ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen-chart-light`
   static const IconifyIconData projectorScreenChartLight = IconifyIconData.solo(
-    IconData(0xe300, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0300, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen-chart-thin`
   static const IconifyIconData projectorScreenChartThin = IconifyIconData.solo(
-    IconData(0xe301, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0301, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen-duotone` (duo-tone)
   static const IconifyIconData projectorScreenDuotone = IconifyIconData.duo(
-    IconData(0xe302, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe302, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0302, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0302, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen-fill`
   static const IconifyIconData projectorScreenFill = IconifyIconData.solo(
-    IconData(0xe303, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0303, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen-light`
   static const IconifyIconData projectorScreenLight = IconifyIconData.solo(
-    IconData(0xe304, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0304, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `projector-screen-thin`
   static const IconifyIconData projectorScreenThin = IconifyIconData.solo(
-    IconData(0xe305, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0305, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pulse`
   static const IconifyIconData pulse = IconifyIconData.solo(
-    IconData(0xe306, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0306, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pulse-bold`
   static const IconifyIconData pulseBold = IconifyIconData.solo(
-    IconData(0xe307, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0307, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pulse-duotone` (duo-tone)
   static const IconifyIconData pulseDuotone = IconifyIconData.duo(
-    IconData(0xe308, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe308, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0308, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0308, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pulse-fill`
   static const IconifyIconData pulseFill = IconifyIconData.solo(
-    IconData(0xe309, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0309, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pulse-light`
   static const IconifyIconData pulseLight = IconifyIconData.solo(
-    IconData(0xe30a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf030a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `pulse-thin`
   static const IconifyIconData pulseThin = IconifyIconData.solo(
-    IconData(0xe30b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf030b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin`
   static const IconifyIconData pushPin = IconifyIconData.solo(
-    IconData(0xe30c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf030c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-bold`
   static const IconifyIconData pushPinBold = IconifyIconData.solo(
-    IconData(0xe30d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf030d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-duotone` (duo-tone)
   static const IconifyIconData pushPinDuotone = IconifyIconData.duo(
-    IconData(0xe30e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe30e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf030e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf030e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-fill`
   static const IconifyIconData pushPinFill = IconifyIconData.solo(
-    IconData(0xe30f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf030f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-light`
   static const IconifyIconData pushPinLight = IconifyIconData.solo(
-    IconData(0xe310, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0310, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-simple`
   static const IconifyIconData pushPinSimple = IconifyIconData.solo(
-    IconData(0xe311, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0311, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-simple-bold`
   static const IconifyIconData pushPinSimpleBold = IconifyIconData.solo(
-    IconData(0xe312, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0312, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-simple-duotone` (duo-tone)
   static const IconifyIconData pushPinSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe313, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe313, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0313, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0313, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-simple-fill`
   static const IconifyIconData pushPinSimpleFill = IconifyIconData.solo(
-    IconData(0xe314, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0314, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-simple-light`
   static const IconifyIconData pushPinSimpleLight = IconifyIconData.solo(
-    IconData(0xe315, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0315, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-simple-slash`
   static const IconifyIconData pushPinSimpleSlash = IconifyIconData.solo(
-    IconData(0xe316, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0316, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-simple-slash-bold`
   static const IconifyIconData pushPinSimpleSlashBold = IconifyIconData.solo(
-    IconData(0xe317, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0317, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-simple-slash-duotone` (duo-tone)
   static const IconifyIconData pushPinSimpleSlashDuotone = IconifyIconData.duo(
-    IconData(0xe318, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe318, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0318, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0318, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-simple-slash-fill`
   static const IconifyIconData pushPinSimpleSlashFill = IconifyIconData.solo(
-    IconData(0xe319, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0319, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-simple-slash-light`
   static const IconifyIconData pushPinSimpleSlashLight = IconifyIconData.solo(
-    IconData(0xe31a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf031a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-simple-slash-thin`
   static const IconifyIconData pushPinSimpleSlashThin = IconifyIconData.solo(
-    IconData(0xe31b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf031b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-simple-thin`
   static const IconifyIconData pushPinSimpleThin = IconifyIconData.solo(
-    IconData(0xe31c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf031c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-slash`
   static const IconifyIconData pushPinSlash = IconifyIconData.solo(
-    IconData(0xe31d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf031d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-slash-bold`
   static const IconifyIconData pushPinSlashBold = IconifyIconData.solo(
-    IconData(0xe31e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf031e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-slash-duotone` (duo-tone)
   static const IconifyIconData pushPinSlashDuotone = IconifyIconData.duo(
-    IconData(0xe31f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe31f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf031f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf031f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-slash-fill`
   static const IconifyIconData pushPinSlashFill = IconifyIconData.solo(
-    IconData(0xe320, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0320, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-slash-light`
   static const IconifyIconData pushPinSlashLight = IconifyIconData.solo(
-    IconData(0xe321, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0321, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-slash-thin`
   static const IconifyIconData pushPinSlashThin = IconifyIconData.solo(
-    IconData(0xe322, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0322, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `push-pin-thin`
   static const IconifyIconData pushPinThin = IconifyIconData.solo(
-    IconData(0xe323, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0323, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `puzzle-piece`
   static const IconifyIconData puzzlePiece = IconifyIconData.solo(
-    IconData(0xe324, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0324, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `puzzle-piece-bold`
   static const IconifyIconData puzzlePieceBold = IconifyIconData.solo(
-    IconData(0xe325, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0325, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `puzzle-piece-duotone` (duo-tone)
   static const IconifyIconData puzzlePieceDuotone = IconifyIconData.duo(
-    IconData(0xe326, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe326, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0326, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0326, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `puzzle-piece-fill`
   static const IconifyIconData puzzlePieceFill = IconifyIconData.solo(
-    IconData(0xe327, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0327, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `puzzle-piece-light`
   static const IconifyIconData puzzlePieceLight = IconifyIconData.solo(
-    IconData(0xe328, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0328, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `puzzle-piece-thin`
   static const IconifyIconData puzzlePieceThin = IconifyIconData.solo(
-    IconData(0xe329, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0329, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `qr-code`
   static const IconifyIconData qrCode = IconifyIconData.solo(
-    IconData(0xe32a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf032a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `qr-code-bold`
   static const IconifyIconData qrCodeBold = IconifyIconData.solo(
-    IconData(0xe32b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf032b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `qr-code-duotone` (duo-tone)
   static const IconifyIconData qrCodeDuotone = IconifyIconData.duo(
-    IconData(0xe32c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe32c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf032c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf032c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `qr-code-fill`
   static const IconifyIconData qrCodeFill = IconifyIconData.solo(
-    IconData(0xe32d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf032d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `qr-code-light`
   static const IconifyIconData qrCodeLight = IconifyIconData.solo(
-    IconData(0xe32e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf032e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `qr-code-thin`
   static const IconifyIconData qrCodeThin = IconifyIconData.solo(
-    IconData(0xe32f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf032f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question`
   static const IconifyIconData question = IconifyIconData.solo(
-    IconData(0xe330, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0330, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-bold`
   static const IconifyIconData questionBold = IconifyIconData.solo(
-    IconData(0xe331, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0331, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-duotone` (duo-tone)
   static const IconifyIconData questionDuotone = IconifyIconData.duo(
-    IconData(0xe332, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe332, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0332, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0332, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-fill`
   static const IconifyIconData questionFill = IconifyIconData.solo(
-    IconData(0xe333, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0333, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-light`
   static const IconifyIconData questionLight = IconifyIconData.solo(
-    IconData(0xe334, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0334, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-mark`
   static const IconifyIconData questionMark = IconifyIconData.solo(
-    IconData(0xe335, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0335, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-mark-bold`
   static const IconifyIconData questionMarkBold = IconifyIconData.solo(
-    IconData(0xe336, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0336, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-mark-duotone` (duo-tone)
   static const IconifyIconData questionMarkDuotone = IconifyIconData.duo(
-    IconData(0xe337, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe337, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0337, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0337, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-mark-fill`
   static const IconifyIconData questionMarkFill = IconifyIconData.solo(
-    IconData(0xe338, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0338, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-mark-light`
   static const IconifyIconData questionMarkLight = IconifyIconData.solo(
-    IconData(0xe339, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0339, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-mark-thin`
   static const IconifyIconData questionMarkThin = IconifyIconData.solo(
-    IconData(0xe33a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf033a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `question-thin`
   static const IconifyIconData questionThin = IconifyIconData.solo(
-    IconData(0xe33b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf033b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `queue`
   static const IconifyIconData queue = IconifyIconData.solo(
-    IconData(0xe33c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf033c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `queue-bold`
   static const IconifyIconData queueBold = IconifyIconData.solo(
-    IconData(0xe33d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf033d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `queue-duotone` (duo-tone)
   static const IconifyIconData queueDuotone = IconifyIconData.duo(
-    IconData(0xe33e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe33e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf033e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf033e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `queue-fill`
   static const IconifyIconData queueFill = IconifyIconData.solo(
-    IconData(0xe33f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf033f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `queue-light`
   static const IconifyIconData queueLight = IconifyIconData.solo(
-    IconData(0xe340, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0340, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `queue-thin`
   static const IconifyIconData queueThin = IconifyIconData.solo(
-    IconData(0xe341, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0341, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `quotes`
   static const IconifyIconData quotes = IconifyIconData.solo(
-    IconData(0xe342, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0342, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `quotes-bold`
   static const IconifyIconData quotesBold = IconifyIconData.solo(
-    IconData(0xe343, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0343, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `quotes-duotone` (duo-tone)
   static const IconifyIconData quotesDuotone = IconifyIconData.duo(
-    IconData(0xe344, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe344, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0344, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0344, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `quotes-fill`
   static const IconifyIconData quotesFill = IconifyIconData.solo(
-    IconData(0xe345, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0345, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `quotes-light`
   static const IconifyIconData quotesLight = IconifyIconData.solo(
-    IconData(0xe346, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0346, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `quotes-thin`
   static const IconifyIconData quotesThin = IconifyIconData.solo(
-    IconData(0xe347, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0347, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rabbit`
   static const IconifyIconData rabbit = IconifyIconData.solo(
-    IconData(0xe348, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0348, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rabbit-bold`
   static const IconifyIconData rabbitBold = IconifyIconData.solo(
-    IconData(0xe349, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0349, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rabbit-duotone` (duo-tone)
   static const IconifyIconData rabbitDuotone = IconifyIconData.duo(
-    IconData(0xe34a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe34a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf034a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf034a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rabbit-fill`
   static const IconifyIconData rabbitFill = IconifyIconData.solo(
-    IconData(0xe34b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf034b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rabbit-light`
   static const IconifyIconData rabbitLight = IconifyIconData.solo(
-    IconData(0xe34c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf034c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rabbit-thin`
   static const IconifyIconData rabbitThin = IconifyIconData.solo(
-    IconData(0xe34d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf034d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `racquet`
   static const IconifyIconData racquet = IconifyIconData.solo(
-    IconData(0xe34e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf034e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `racquet-bold`
   static const IconifyIconData racquetBold = IconifyIconData.solo(
-    IconData(0xe34f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf034f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `racquet-duotone` (duo-tone)
   static const IconifyIconData racquetDuotone = IconifyIconData.duo(
-    IconData(0xe350, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe350, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0350, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0350, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `racquet-fill`
   static const IconifyIconData racquetFill = IconifyIconData.solo(
-    IconData(0xe351, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0351, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `racquet-light`
   static const IconifyIconData racquetLight = IconifyIconData.solo(
-    IconData(0xe352, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0352, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `racquet-thin`
   static const IconifyIconData racquetThin = IconifyIconData.solo(
-    IconData(0xe353, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0353, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radical`
   static const IconifyIconData radical = IconifyIconData.solo(
-    IconData(0xe354, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0354, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radical-bold`
   static const IconifyIconData radicalBold = IconifyIconData.solo(
-    IconData(0xe355, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0355, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radical-duotone` (duo-tone)
   static const IconifyIconData radicalDuotone = IconifyIconData.duo(
-    IconData(0xe356, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe356, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0356, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0356, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radical-fill`
   static const IconifyIconData radicalFill = IconifyIconData.solo(
-    IconData(0xe357, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0357, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radical-light`
   static const IconifyIconData radicalLight = IconifyIconData.solo(
-    IconData(0xe358, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0358, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radical-thin`
   static const IconifyIconData radicalThin = IconifyIconData.solo(
-    IconData(0xe359, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0359, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio`
   static const IconifyIconData radio = IconifyIconData.solo(
-    IconData(0xe35a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf035a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio-bold`
   static const IconifyIconData radioBold = IconifyIconData.solo(
-    IconData(0xe35b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf035b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio-button`
   static const IconifyIconData radioButton = IconifyIconData.solo(
-    IconData(0xe35c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf035c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio-button-bold`
   static const IconifyIconData radioButtonBold = IconifyIconData.solo(
-    IconData(0xe35d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf035d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio-button-duotone` (duo-tone)
   static const IconifyIconData radioButtonDuotone = IconifyIconData.duo(
-    IconData(0xe35e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe35e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf035e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf035e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio-button-fill`
   static const IconifyIconData radioButtonFill = IconifyIconData.solo(
-    IconData(0xe35f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf035f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio-button-light`
   static const IconifyIconData radioButtonLight = IconifyIconData.solo(
-    IconData(0xe360, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0360, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio-button-thin`
   static const IconifyIconData radioButtonThin = IconifyIconData.solo(
-    IconData(0xe361, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0361, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio-duotone` (duo-tone)
   static const IconifyIconData radioDuotone = IconifyIconData.duo(
-    IconData(0xe362, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe362, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0362, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0362, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio-fill`
   static const IconifyIconData radioFill = IconifyIconData.solo(
-    IconData(0xe363, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0363, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio-light`
   static const IconifyIconData radioLight = IconifyIconData.solo(
-    IconData(0xe364, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0364, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radio-thin`
   static const IconifyIconData radioThin = IconifyIconData.solo(
-    IconData(0xe365, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0365, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radioactive`
   static const IconifyIconData radioactive = IconifyIconData.solo(
-    IconData(0xe366, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0366, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radioactive-bold`
   static const IconifyIconData radioactiveBold = IconifyIconData.solo(
-    IconData(0xe367, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0367, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radioactive-duotone` (duo-tone)
   static const IconifyIconData radioactiveDuotone = IconifyIconData.duo(
-    IconData(0xe368, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe368, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0368, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0368, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radioactive-fill`
   static const IconifyIconData radioactiveFill = IconifyIconData.solo(
-    IconData(0xe369, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0369, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radioactive-light`
   static const IconifyIconData radioactiveLight = IconifyIconData.solo(
-    IconData(0xe36a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf036a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `radioactive-thin`
   static const IconifyIconData radioactiveThin = IconifyIconData.solo(
-    IconData(0xe36b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf036b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rainbow`
   static const IconifyIconData rainbow = IconifyIconData.solo(
-    IconData(0xe36c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf036c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rainbow-bold`
   static const IconifyIconData rainbowBold = IconifyIconData.solo(
-    IconData(0xe36d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf036d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rainbow-cloud`
   static const IconifyIconData rainbowCloud = IconifyIconData.solo(
-    IconData(0xe36e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf036e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rainbow-cloud-bold`
   static const IconifyIconData rainbowCloudBold = IconifyIconData.solo(
-    IconData(0xe36f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf036f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rainbow-cloud-duotone` (duo-tone)
   static const IconifyIconData rainbowCloudDuotone = IconifyIconData.duo(
-    IconData(0xe370, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe370, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0370, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0370, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rainbow-cloud-fill`
   static const IconifyIconData rainbowCloudFill = IconifyIconData.solo(
-    IconData(0xe371, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0371, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rainbow-cloud-light`
   static const IconifyIconData rainbowCloudLight = IconifyIconData.solo(
-    IconData(0xe372, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0372, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rainbow-cloud-thin`
   static const IconifyIconData rainbowCloudThin = IconifyIconData.solo(
-    IconData(0xe373, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0373, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rainbow-duotone` (duo-tone)
   static const IconifyIconData rainbowDuotone = IconifyIconData.duo(
-    IconData(0xe374, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe374, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0374, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0374, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rainbow-fill`
   static const IconifyIconData rainbowFill = IconifyIconData.solo(
-    IconData(0xe375, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0375, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rainbow-light`
   static const IconifyIconData rainbowLight = IconifyIconData.solo(
-    IconData(0xe376, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0376, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rainbow-thin`
   static const IconifyIconData rainbowThin = IconifyIconData.solo(
-    IconData(0xe377, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0377, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ranking`
   static const IconifyIconData ranking = IconifyIconData.solo(
-    IconData(0xe378, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0378, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ranking-bold`
   static const IconifyIconData rankingBold = IconifyIconData.solo(
-    IconData(0xe379, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0379, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ranking-duotone` (duo-tone)
   static const IconifyIconData rankingDuotone = IconifyIconData.duo(
-    IconData(0xe37a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe37a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf037a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf037a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ranking-fill`
   static const IconifyIconData rankingFill = IconifyIconData.solo(
-    IconData(0xe37b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf037b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ranking-light`
   static const IconifyIconData rankingLight = IconifyIconData.solo(
-    IconData(0xe37c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf037c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ranking-thin`
   static const IconifyIconData rankingThin = IconifyIconData.solo(
-    IconData(0xe37d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf037d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `read-cv-logo`
   static const IconifyIconData readCvLogo = IconifyIconData.solo(
-    IconData(0xe37e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf037e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `read-cv-logo-bold`
   static const IconifyIconData readCvLogoBold = IconifyIconData.solo(
-    IconData(0xe37f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf037f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `read-cv-logo-duotone` (duo-tone)
   static const IconifyIconData readCvLogoDuotone = IconifyIconData.duo(
-    IconData(0xe380, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe380, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0380, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0380, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `read-cv-logo-fill`
   static const IconifyIconData readCvLogoFill = IconifyIconData.solo(
-    IconData(0xe381, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0381, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `read-cv-logo-light`
   static const IconifyIconData readCvLogoLight = IconifyIconData.solo(
-    IconData(0xe382, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0382, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `read-cv-logo-thin`
   static const IconifyIconData readCvLogoThin = IconifyIconData.solo(
-    IconData(0xe383, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0383, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt`
   static const IconifyIconData receipt = IconifyIconData.solo(
-    IconData(0xe384, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0384, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt-bold`
   static const IconifyIconData receiptBold = IconifyIconData.solo(
-    IconData(0xe385, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0385, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt-duotone` (duo-tone)
   static const IconifyIconData receiptDuotone = IconifyIconData.duo(
-    IconData(0xe386, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe386, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0386, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0386, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt-fill`
   static const IconifyIconData receiptFill = IconifyIconData.solo(
-    IconData(0xe387, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0387, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt-light`
   static const IconifyIconData receiptLight = IconifyIconData.solo(
-    IconData(0xe388, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0388, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt-thin`
   static const IconifyIconData receiptThin = IconifyIconData.solo(
-    IconData(0xe389, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0389, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt-x`
   static const IconifyIconData receiptX = IconifyIconData.solo(
-    IconData(0xe38a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf038a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt-x-bold`
   static const IconifyIconData receiptXBold = IconifyIconData.solo(
-    IconData(0xe38b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf038b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt-x-duotone` (duo-tone)
   static const IconifyIconData receiptXDuotone = IconifyIconData.duo(
-    IconData(0xe38c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe38c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf038c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf038c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt-x-fill`
   static const IconifyIconData receiptXFill = IconifyIconData.solo(
-    IconData(0xe38d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf038d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt-x-light`
   static const IconifyIconData receiptXLight = IconifyIconData.solo(
-    IconData(0xe38e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf038e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `receipt-x-thin`
   static const IconifyIconData receiptXThin = IconifyIconData.solo(
-    IconData(0xe38f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf038f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `record`
   static const IconifyIconData record = IconifyIconData.solo(
-    IconData(0xe390, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0390, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `record-bold`
   static const IconifyIconData recordBold = IconifyIconData.solo(
-    IconData(0xe391, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0391, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `record-duotone` (duo-tone)
   static const IconifyIconData recordDuotone = IconifyIconData.duo(
-    IconData(0xe392, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe392, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0392, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0392, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `record-fill`
   static const IconifyIconData recordFill = IconifyIconData.solo(
-    IconData(0xe393, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0393, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `record-light`
   static const IconifyIconData recordLight = IconifyIconData.solo(
-    IconData(0xe394, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0394, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `record-thin`
   static const IconifyIconData recordThin = IconifyIconData.solo(
-    IconData(0xe395, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0395, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle`
   static const IconifyIconData rectangle = IconifyIconData.solo(
-    IconData(0xe396, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0396, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-bold`
   static const IconifyIconData rectangleBold = IconifyIconData.solo(
-    IconData(0xe397, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0397, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-dashed`
   static const IconifyIconData rectangleDashed = IconifyIconData.solo(
-    IconData(0xe398, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0398, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-dashed-bold`
   static const IconifyIconData rectangleDashedBold = IconifyIconData.solo(
-    IconData(0xe399, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0399, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-dashed-duotone` (duo-tone)
   static const IconifyIconData rectangleDashedDuotone = IconifyIconData.duo(
-    IconData(0xe39a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe39a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf039a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf039a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-dashed-fill`
   static const IconifyIconData rectangleDashedFill = IconifyIconData.solo(
-    IconData(0xe39b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf039b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-dashed-light`
   static const IconifyIconData rectangleDashedLight = IconifyIconData.solo(
-    IconData(0xe39c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf039c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-dashed-thin`
   static const IconifyIconData rectangleDashedThin = IconifyIconData.solo(
-    IconData(0xe39d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf039d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-duotone` (duo-tone)
   static const IconifyIconData rectangleDuotone = IconifyIconData.duo(
-    IconData(0xe39e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe39e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf039e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf039e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-fill`
   static const IconifyIconData rectangleFill = IconifyIconData.solo(
-    IconData(0xe39f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf039f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-light`
   static const IconifyIconData rectangleLight = IconifyIconData.solo(
-    IconData(0xe3a0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangle-thin`
   static const IconifyIconData rectangleThin = IconifyIconData.solo(
-    IconData(0xe3a1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03a1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangles-two`
   static const IconifyIconData rectanglesTwo = IconifyIconData.solo(
-    IconData(0xe3a2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangles-two-bold`
   static const IconifyIconData rectanglesTwoBold = IconifyIconData.solo(
-    IconData(0xe3a3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03a3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangles-two-duotone` (duo-tone)
   static const IconifyIconData rectanglesTwoDuotone = IconifyIconData.duo(
-    IconData(0xe3a4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3a4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03a4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangles-two-fill`
   static const IconifyIconData rectanglesTwoFill = IconifyIconData.solo(
-    IconData(0xe3a5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangles-two-light`
   static const IconifyIconData rectanglesTwoLight = IconifyIconData.solo(
-    IconData(0xe3a6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rectangles-two-thin`
   static const IconifyIconData rectanglesTwoThin = IconifyIconData.solo(
-    IconData(0xe3a7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `recycle`
   static const IconifyIconData recycle = IconifyIconData.solo(
-    IconData(0xe3a8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `recycle-bold`
   static const IconifyIconData recycleBold = IconifyIconData.solo(
-    IconData(0xe3a9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `recycle-duotone` (duo-tone)
   static const IconifyIconData recycleDuotone = IconifyIconData.duo(
-    IconData(0xe3aa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3aa, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03aa, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `recycle-fill`
   static const IconifyIconData recycleFill = IconifyIconData.solo(
-    IconData(0xe3ab, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `recycle-light`
   static const IconifyIconData recycleLight = IconifyIconData.solo(
-    IconData(0xe3ac, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `recycle-thin`
   static const IconifyIconData recycleThin = IconifyIconData.solo(
-    IconData(0xe3ad, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `reddit-logo`
   static const IconifyIconData redditLogo = IconifyIconData.solo(
-    IconData(0xe3ae, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `reddit-logo-bold`
   static const IconifyIconData redditLogoBold = IconifyIconData.solo(
-    IconData(0xe3af, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03af, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `reddit-logo-duotone` (duo-tone)
   static const IconifyIconData redditLogoDuotone = IconifyIconData.duo(
-    IconData(0xe3b0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3b0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03b0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03b0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `reddit-logo-fill`
   static const IconifyIconData redditLogoFill = IconifyIconData.solo(
-    IconData(0xe3b1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03b1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `reddit-logo-light`
   static const IconifyIconData redditLogoLight = IconifyIconData.solo(
-    IconData(0xe3b2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03b2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `reddit-logo-thin`
   static const IconifyIconData redditLogoThin = IconifyIconData.solo(
-    IconData(0xe3b3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03b3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat`
   static const IconifyIconData repeat = IconifyIconData.solo(
-    IconData(0xe3b4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03b4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat-bold`
   static const IconifyIconData repeatBold = IconifyIconData.solo(
-    IconData(0xe3b5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03b5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat-duotone` (duo-tone)
   static const IconifyIconData repeatDuotone = IconifyIconData.duo(
-    IconData(0xe3b6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3b6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03b6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03b6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat-fill`
   static const IconifyIconData repeatFill = IconifyIconData.solo(
-    IconData(0xe3b7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03b7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat-light`
   static const IconifyIconData repeatLight = IconifyIconData.solo(
-    IconData(0xe3b8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03b8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat-once`
   static const IconifyIconData repeatOnce = IconifyIconData.solo(
-    IconData(0xe3b9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03b9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat-once-bold`
   static const IconifyIconData repeatOnceBold = IconifyIconData.solo(
-    IconData(0xe3ba, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat-once-duotone` (duo-tone)
   static const IconifyIconData repeatOnceDuotone = IconifyIconData.duo(
-    IconData(0xe3bb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3bb, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03bb, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat-once-fill`
   static const IconifyIconData repeatOnceFill = IconifyIconData.solo(
-    IconData(0xe3bc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat-once-light`
   static const IconifyIconData repeatOnceLight = IconifyIconData.solo(
-    IconData(0xe3bd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03bd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat-once-thin`
   static const IconifyIconData repeatOnceThin = IconifyIconData.solo(
-    IconData(0xe3be, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03be, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `repeat-thin`
   static const IconifyIconData repeatThin = IconifyIconData.solo(
-    IconData(0xe3bf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03bf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `replit-logo`
   static const IconifyIconData replitLogo = IconifyIconData.solo(
-    IconData(0xe3c0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03c0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `replit-logo-bold`
   static const IconifyIconData replitLogoBold = IconifyIconData.solo(
-    IconData(0xe3c1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `replit-logo-duotone` (duo-tone)
   static const IconifyIconData replitLogoDuotone = IconifyIconData.duo(
-    IconData(0xe3c2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3c2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03c2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `replit-logo-fill`
   static const IconifyIconData replitLogoFill = IconifyIconData.solo(
-    IconData(0xe3c3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03c3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `replit-logo-light`
   static const IconifyIconData replitLogoLight = IconifyIconData.solo(
-    IconData(0xe3c4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03c4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `replit-logo-thin`
   static const IconifyIconData replitLogoThin = IconifyIconData.solo(
-    IconData(0xe3c5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03c5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `resize`
   static const IconifyIconData resize = IconifyIconData.solo(
-    IconData(0xe3c6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03c6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `resize-bold`
   static const IconifyIconData resizeBold = IconifyIconData.solo(
-    IconData(0xe3c7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `resize-duotone` (duo-tone)
   static const IconifyIconData resizeDuotone = IconifyIconData.duo(
-    IconData(0xe3c8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3c8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03c8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `resize-fill`
   static const IconifyIconData resizeFill = IconifyIconData.solo(
-    IconData(0xe3c9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `resize-light`
   static const IconifyIconData resizeLight = IconifyIconData.solo(
-    IconData(0xe3ca, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `resize-thin`
   static const IconifyIconData resizeThin = IconifyIconData.solo(
-    IconData(0xe3cb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rewind`
   static const IconifyIconData rewind = IconifyIconData.solo(
-    IconData(0xe3cc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rewind-bold`
   static const IconifyIconData rewindBold = IconifyIconData.solo(
-    IconData(0xe3cd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rewind-circle`
   static const IconifyIconData rewindCircle = IconifyIconData.solo(
-    IconData(0xe3ce, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rewind-circle-bold`
   static const IconifyIconData rewindCircleBold = IconifyIconData.solo(
-    IconData(0xe3cf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rewind-circle-duotone` (duo-tone)
   static const IconifyIconData rewindCircleDuotone = IconifyIconData.duo(
-    IconData(0xe3d0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3d0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03d0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rewind-circle-fill`
   static const IconifyIconData rewindCircleFill = IconifyIconData.solo(
-    IconData(0xe3d1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03d1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rewind-circle-light`
   static const IconifyIconData rewindCircleLight = IconifyIconData.solo(
-    IconData(0xe3d2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rewind-circle-thin`
   static const IconifyIconData rewindCircleThin = IconifyIconData.solo(
-    IconData(0xe3d3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rewind-duotone` (duo-tone)
   static const IconifyIconData rewindDuotone = IconifyIconData.duo(
-    IconData(0xe3d4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3d4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03d4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rewind-fill`
   static const IconifyIconData rewindFill = IconifyIconData.solo(
-    IconData(0xe3d5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03d5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rewind-light`
   static const IconifyIconData rewindLight = IconifyIconData.solo(
-    IconData(0xe3d6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03d6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rewind-thin`
   static const IconifyIconData rewindThin = IconifyIconData.solo(
-    IconData(0xe3d7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `road-horizon`
   static const IconifyIconData roadHorizon = IconifyIconData.solo(
-    IconData(0xe3d8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03d8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `road-horizon-bold`
   static const IconifyIconData roadHorizonBold = IconifyIconData.solo(
-    IconData(0xe3d9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03d9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `road-horizon-duotone` (duo-tone)
   static const IconifyIconData roadHorizonDuotone = IconifyIconData.duo(
-    IconData(0xe3da, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3da, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03da, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03da, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `road-horizon-fill`
   static const IconifyIconData roadHorizonFill = IconifyIconData.solo(
-    IconData(0xe3db, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `road-horizon-light`
   static const IconifyIconData roadHorizonLight = IconifyIconData.solo(
-    IconData(0xe3dc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `road-horizon-thin`
   static const IconifyIconData roadHorizonThin = IconifyIconData.solo(
-    IconData(0xe3dd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `robot`
   static const IconifyIconData robot = IconifyIconData.solo(
-    IconData(0xe3de, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03de, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `robot-bold`
   static const IconifyIconData robotBold = IconifyIconData.solo(
-    IconData(0xe3df, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03df, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `robot-duotone` (duo-tone)
   static const IconifyIconData robotDuotone = IconifyIconData.duo(
-    IconData(0xe3e0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3e0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03e0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03e0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `robot-fill`
   static const IconifyIconData robotFill = IconifyIconData.solo(
-    IconData(0xe3e1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `robot-light`
   static const IconifyIconData robotLight = IconifyIconData.solo(
-    IconData(0xe3e2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `robot-thin`
   static const IconifyIconData robotThin = IconifyIconData.solo(
-    IconData(0xe3e3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rocket`
   static const IconifyIconData rocket = IconifyIconData.solo(
-    IconData(0xe3e4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rocket-bold`
   static const IconifyIconData rocketBold = IconifyIconData.solo(
-    IconData(0xe3e5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03e5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rocket-duotone` (duo-tone)
   static const IconifyIconData rocketDuotone = IconifyIconData.duo(
-    IconData(0xe3e6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3e6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03e6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rocket-fill`
   static const IconifyIconData rocketFill = IconifyIconData.solo(
-    IconData(0xe3e7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rocket-launch`
   static const IconifyIconData rocketLaunch = IconifyIconData.solo(
-    IconData(0xe3e8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rocket-launch-bold`
   static const IconifyIconData rocketLaunchBold = IconifyIconData.solo(
-    IconData(0xe3e9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03e9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rocket-launch-duotone` (duo-tone)
   static const IconifyIconData rocketLaunchDuotone = IconifyIconData.duo(
-    IconData(0xe3ea, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3ea, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ea, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rocket-launch-fill`
   static const IconifyIconData rocketLaunchFill = IconifyIconData.solo(
-    IconData(0xe3eb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rocket-launch-light`
   static const IconifyIconData rocketLaunchLight = IconifyIconData.solo(
-    IconData(0xe3ec, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rocket-launch-thin`
   static const IconifyIconData rocketLaunchThin = IconifyIconData.solo(
-    IconData(0xe3ed, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rocket-light`
   static const IconifyIconData rocketLight = IconifyIconData.solo(
-    IconData(0xe3ee, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rocket-thin`
   static const IconifyIconData rocketThin = IconifyIconData.solo(
-    IconData(0xe3ef, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows`
   static const IconifyIconData rows = IconifyIconData.solo(
-    IconData(0xe3f0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-bold`
   static const IconifyIconData rowsBold = IconifyIconData.solo(
-    IconData(0xe3f1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-duotone` (duo-tone)
   static const IconifyIconData rowsDuotone = IconifyIconData.duo(
-    IconData(0xe3f2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3f2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-fill`
   static const IconifyIconData rowsFill = IconifyIconData.solo(
-    IconData(0xe3f3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-light`
   static const IconifyIconData rowsLight = IconifyIconData.solo(
-    IconData(0xe3f4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-plus-bottom`
   static const IconifyIconData rowsPlusBottom = IconifyIconData.solo(
-    IconData(0xe3f5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-plus-bottom-bold`
   static const IconifyIconData rowsPlusBottomBold = IconifyIconData.solo(
-    IconData(0xe3f6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-plus-bottom-duotone` (duo-tone)
   static const IconifyIconData rowsPlusBottomDuotone = IconifyIconData.duo(
-    IconData(0xe3f7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3f7, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-plus-bottom-fill`
   static const IconifyIconData rowsPlusBottomFill = IconifyIconData.solo(
-    IconData(0xe3f8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-plus-bottom-light`
   static const IconifyIconData rowsPlusBottomLight = IconifyIconData.solo(
-    IconData(0xe3f9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-plus-bottom-thin`
   static const IconifyIconData rowsPlusBottomThin = IconifyIconData.solo(
-    IconData(0xe3fa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-plus-top`
   static const IconifyIconData rowsPlusTop = IconifyIconData.solo(
-    IconData(0xe3fb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-plus-top-bold`
   static const IconifyIconData rowsPlusTopBold = IconifyIconData.solo(
-    IconData(0xe3fc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-plus-top-duotone` (duo-tone)
   static const IconifyIconData rowsPlusTopDuotone = IconifyIconData.duo(
-    IconData(0xe3fd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe3fd, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03fd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-plus-top-fill`
   static const IconifyIconData rowsPlusTopFill = IconifyIconData.solo(
-    IconData(0xe3fe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03fe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-plus-top-light`
   static const IconifyIconData rowsPlusTopLight = IconifyIconData.solo(
-    IconData(0xe3ff, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf03ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-plus-top-thin`
   static const IconifyIconData rowsPlusTopThin = IconifyIconData.solo(
-    IconData(0xe400, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0400, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rows-thin`
   static const IconifyIconData rowsThin = IconifyIconData.solo(
-    IconData(0xe401, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0401, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rss`
   static const IconifyIconData rss = IconifyIconData.solo(
-    IconData(0xe402, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0402, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rss-bold`
   static const IconifyIconData rssBold = IconifyIconData.solo(
-    IconData(0xe403, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0403, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rss-duotone` (duo-tone)
   static const IconifyIconData rssDuotone = IconifyIconData.duo(
-    IconData(0xe404, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe404, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0404, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0404, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rss-fill`
   static const IconifyIconData rssFill = IconifyIconData.solo(
-    IconData(0xe405, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0405, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rss-light`
   static const IconifyIconData rssLight = IconifyIconData.solo(
-    IconData(0xe406, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0406, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rss-simple`
   static const IconifyIconData rssSimple = IconifyIconData.solo(
-    IconData(0xe407, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0407, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rss-simple-bold`
   static const IconifyIconData rssSimpleBold = IconifyIconData.solo(
-    IconData(0xe408, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0408, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rss-simple-duotone` (duo-tone)
   static const IconifyIconData rssSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe409, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe409, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0409, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0409, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rss-simple-fill`
   static const IconifyIconData rssSimpleFill = IconifyIconData.solo(
-    IconData(0xe40a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf040a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rss-simple-light`
   static const IconifyIconData rssSimpleLight = IconifyIconData.solo(
-    IconData(0xe40b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf040b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rss-simple-thin`
   static const IconifyIconData rssSimpleThin = IconifyIconData.solo(
-    IconData(0xe40c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf040c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rss-thin`
   static const IconifyIconData rssThin = IconifyIconData.solo(
-    IconData(0xe40d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf040d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rug`
   static const IconifyIconData rug = IconifyIconData.solo(
-    IconData(0xe40e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf040e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rug-bold`
   static const IconifyIconData rugBold = IconifyIconData.solo(
-    IconData(0xe40f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf040f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rug-duotone` (duo-tone)
   static const IconifyIconData rugDuotone = IconifyIconData.duo(
-    IconData(0xe410, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe410, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0410, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0410, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rug-fill`
   static const IconifyIconData rugFill = IconifyIconData.solo(
-    IconData(0xe411, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0411, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rug-light`
   static const IconifyIconData rugLight = IconifyIconData.solo(
-    IconData(0xe412, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0412, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `rug-thin`
   static const IconifyIconData rugThin = IconifyIconData.solo(
-    IconData(0xe413, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0413, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ruler`
   static const IconifyIconData ruler = IconifyIconData.solo(
-    IconData(0xe414, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0414, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ruler-bold`
   static const IconifyIconData rulerBold = IconifyIconData.solo(
-    IconData(0xe415, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0415, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ruler-duotone` (duo-tone)
   static const IconifyIconData rulerDuotone = IconifyIconData.duo(
-    IconData(0xe416, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe416, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0416, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0416, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ruler-fill`
   static const IconifyIconData rulerFill = IconifyIconData.solo(
-    IconData(0xe417, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0417, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ruler-light`
   static const IconifyIconData rulerLight = IconifyIconData.solo(
-    IconData(0xe418, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0418, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ruler-thin`
   static const IconifyIconData rulerThin = IconifyIconData.solo(
-    IconData(0xe419, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0419, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sailboat`
   static const IconifyIconData sailboat = IconifyIconData.solo(
-    IconData(0xe41a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf041a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sailboat-bold`
   static const IconifyIconData sailboatBold = IconifyIconData.solo(
-    IconData(0xe41b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf041b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sailboat-duotone` (duo-tone)
   static const IconifyIconData sailboatDuotone = IconifyIconData.duo(
-    IconData(0xe41c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe41c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf041c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf041c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sailboat-fill`
   static const IconifyIconData sailboatFill = IconifyIconData.solo(
-    IconData(0xe41d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf041d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sailboat-light`
   static const IconifyIconData sailboatLight = IconifyIconData.solo(
-    IconData(0xe41e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf041e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sailboat-thin`
   static const IconifyIconData sailboatThin = IconifyIconData.solo(
-    IconData(0xe41f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf041f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scales`
   static const IconifyIconData scales = IconifyIconData.solo(
-    IconData(0xe420, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0420, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scales-bold`
   static const IconifyIconData scalesBold = IconifyIconData.solo(
-    IconData(0xe421, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0421, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scales-duotone` (duo-tone)
   static const IconifyIconData scalesDuotone = IconifyIconData.duo(
-    IconData(0xe422, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe422, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0422, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0422, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scales-fill`
   static const IconifyIconData scalesFill = IconifyIconData.solo(
-    IconData(0xe423, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0423, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scales-light`
   static const IconifyIconData scalesLight = IconifyIconData.solo(
-    IconData(0xe424, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0424, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scales-thin`
   static const IconifyIconData scalesThin = IconifyIconData.solo(
-    IconData(0xe425, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0425, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan`
   static const IconifyIconData scan = IconifyIconData.solo(
-    IconData(0xe426, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0426, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan-bold`
   static const IconifyIconData scanBold = IconifyIconData.solo(
-    IconData(0xe427, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0427, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan-duotone` (duo-tone)
   static const IconifyIconData scanDuotone = IconifyIconData.duo(
-    IconData(0xe428, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe428, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0428, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0428, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan-fill`
   static const IconifyIconData scanFill = IconifyIconData.solo(
-    IconData(0xe429, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0429, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan-light`
   static const IconifyIconData scanLight = IconifyIconData.solo(
-    IconData(0xe42a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf042a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan-smiley`
   static const IconifyIconData scanSmiley = IconifyIconData.solo(
-    IconData(0xe42b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf042b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan-smiley-bold`
   static const IconifyIconData scanSmileyBold = IconifyIconData.solo(
-    IconData(0xe42c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf042c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan-smiley-duotone` (duo-tone)
   static const IconifyIconData scanSmileyDuotone = IconifyIconData.duo(
-    IconData(0xe42d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe42d, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf042d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf042d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan-smiley-fill`
   static const IconifyIconData scanSmileyFill = IconifyIconData.solo(
-    IconData(0xe42e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf042e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan-smiley-light`
   static const IconifyIconData scanSmileyLight = IconifyIconData.solo(
-    IconData(0xe42f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf042f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan-smiley-thin`
   static const IconifyIconData scanSmileyThin = IconifyIconData.solo(
-    IconData(0xe430, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0430, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scan-thin`
   static const IconifyIconData scanThin = IconifyIconData.solo(
-    IconData(0xe431, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0431, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scissors`
   static const IconifyIconData scissors = IconifyIconData.solo(
-    IconData(0xe432, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0432, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scissors-bold`
   static const IconifyIconData scissorsBold = IconifyIconData.solo(
-    IconData(0xe433, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0433, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scissors-duotone` (duo-tone)
   static const IconifyIconData scissorsDuotone = IconifyIconData.duo(
-    IconData(0xe434, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe434, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0434, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0434, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scissors-fill`
   static const IconifyIconData scissorsFill = IconifyIconData.solo(
-    IconData(0xe435, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0435, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scissors-light`
   static const IconifyIconData scissorsLight = IconifyIconData.solo(
-    IconData(0xe436, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0436, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scissors-thin`
   static const IconifyIconData scissorsThin = IconifyIconData.solo(
-    IconData(0xe437, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0437, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scooter`
   static const IconifyIconData scooter = IconifyIconData.solo(
-    IconData(0xe438, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0438, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scooter-bold`
   static const IconifyIconData scooterBold = IconifyIconData.solo(
-    IconData(0xe439, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0439, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scooter-duotone` (duo-tone)
   static const IconifyIconData scooterDuotone = IconifyIconData.duo(
-    IconData(0xe43a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe43a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf043a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf043a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scooter-fill`
   static const IconifyIconData scooterFill = IconifyIconData.solo(
-    IconData(0xe43b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf043b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scooter-light`
   static const IconifyIconData scooterLight = IconifyIconData.solo(
-    IconData(0xe43c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf043c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scooter-thin`
   static const IconifyIconData scooterThin = IconifyIconData.solo(
-    IconData(0xe43d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf043d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `screencast`
   static const IconifyIconData screencast = IconifyIconData.solo(
-    IconData(0xe43e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf043e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `screencast-bold`
   static const IconifyIconData screencastBold = IconifyIconData.solo(
-    IconData(0xe43f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf043f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `screencast-duotone` (duo-tone)
   static const IconifyIconData screencastDuotone = IconifyIconData.duo(
-    IconData(0xe440, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe440, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0440, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0440, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `screencast-fill`
   static const IconifyIconData screencastFill = IconifyIconData.solo(
-    IconData(0xe441, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0441, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `screencast-light`
   static const IconifyIconData screencastLight = IconifyIconData.solo(
-    IconData(0xe442, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0442, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `screencast-thin`
   static const IconifyIconData screencastThin = IconifyIconData.solo(
-    IconData(0xe443, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0443, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `screwdriver`
   static const IconifyIconData screwdriver = IconifyIconData.solo(
-    IconData(0xe444, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0444, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `screwdriver-bold`
   static const IconifyIconData screwdriverBold = IconifyIconData.solo(
-    IconData(0xe445, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0445, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `screwdriver-duotone` (duo-tone)
   static const IconifyIconData screwdriverDuotone = IconifyIconData.duo(
-    IconData(0xe446, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe446, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0446, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0446, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `screwdriver-fill`
   static const IconifyIconData screwdriverFill = IconifyIconData.solo(
-    IconData(0xe447, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0447, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `screwdriver-light`
   static const IconifyIconData screwdriverLight = IconifyIconData.solo(
-    IconData(0xe448, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0448, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `screwdriver-thin`
   static const IconifyIconData screwdriverThin = IconifyIconData.solo(
-    IconData(0xe449, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0449, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble`
   static const IconifyIconData scribble = IconifyIconData.solo(
-    IconData(0xe44a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf044a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble-bold`
   static const IconifyIconData scribbleBold = IconifyIconData.solo(
-    IconData(0xe44b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf044b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble-duotone` (duo-tone)
   static const IconifyIconData scribbleDuotone = IconifyIconData.duo(
-    IconData(0xe44c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe44c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf044c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf044c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble-fill`
   static const IconifyIconData scribbleFill = IconifyIconData.solo(
-    IconData(0xe44d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf044d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble-light`
   static const IconifyIconData scribbleLight = IconifyIconData.solo(
-    IconData(0xe44e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf044e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble-loop`
   static const IconifyIconData scribbleLoop = IconifyIconData.solo(
-    IconData(0xe44f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf044f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble-loop-bold`
   static const IconifyIconData scribbleLoopBold = IconifyIconData.solo(
-    IconData(0xe450, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0450, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble-loop-duotone` (duo-tone)
   static const IconifyIconData scribbleLoopDuotone = IconifyIconData.duo(
-    IconData(0xe451, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe451, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0451, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0451, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble-loop-fill`
   static const IconifyIconData scribbleLoopFill = IconifyIconData.solo(
-    IconData(0xe452, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0452, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble-loop-light`
   static const IconifyIconData scribbleLoopLight = IconifyIconData.solo(
-    IconData(0xe453, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0453, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble-loop-thin`
   static const IconifyIconData scribbleLoopThin = IconifyIconData.solo(
-    IconData(0xe454, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0454, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scribble-thin`
   static const IconifyIconData scribbleThin = IconifyIconData.solo(
-    IconData(0xe455, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0455, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scroll`
   static const IconifyIconData scroll = IconifyIconData.solo(
-    IconData(0xe456, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0456, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scroll-bold`
   static const IconifyIconData scrollBold = IconifyIconData.solo(
-    IconData(0xe457, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0457, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scroll-duotone` (duo-tone)
   static const IconifyIconData scrollDuotone = IconifyIconData.duo(
-    IconData(0xe458, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe458, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0458, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0458, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scroll-fill`
   static const IconifyIconData scrollFill = IconifyIconData.solo(
-    IconData(0xe459, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0459, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scroll-light`
   static const IconifyIconData scrollLight = IconifyIconData.solo(
-    IconData(0xe45a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf045a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `scroll-thin`
   static const IconifyIconData scrollThin = IconifyIconData.solo(
-    IconData(0xe45b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf045b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal`
   static const IconifyIconData seal = IconifyIconData.solo(
-    IconData(0xe45c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf045c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-bold`
   static const IconifyIconData sealBold = IconifyIconData.solo(
-    IconData(0xe45d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf045d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-check`
   static const IconifyIconData sealCheck = IconifyIconData.solo(
-    IconData(0xe45e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf045e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-check-bold`
   static const IconifyIconData sealCheckBold = IconifyIconData.solo(
-    IconData(0xe45f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf045f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-check-duotone` (duo-tone)
   static const IconifyIconData sealCheckDuotone = IconifyIconData.duo(
-    IconData(0xe460, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe460, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0460, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0460, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-check-fill`
   static const IconifyIconData sealCheckFill = IconifyIconData.solo(
-    IconData(0xe461, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0461, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-check-light`
   static const IconifyIconData sealCheckLight = IconifyIconData.solo(
-    IconData(0xe462, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0462, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-check-thin`
   static const IconifyIconData sealCheckThin = IconifyIconData.solo(
-    IconData(0xe463, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0463, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-duotone` (duo-tone)
   static const IconifyIconData sealDuotone = IconifyIconData.duo(
-    IconData(0xe464, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe464, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0464, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0464, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-fill`
   static const IconifyIconData sealFill = IconifyIconData.solo(
-    IconData(0xe465, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0465, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-light`
   static const IconifyIconData sealLight = IconifyIconData.solo(
-    IconData(0xe466, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0466, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-percent`
   static const IconifyIconData sealPercent = IconifyIconData.solo(
-    IconData(0xe467, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0467, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-percent-bold`
   static const IconifyIconData sealPercentBold = IconifyIconData.solo(
-    IconData(0xe468, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0468, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-percent-duotone` (duo-tone)
   static const IconifyIconData sealPercentDuotone = IconifyIconData.duo(
-    IconData(0xe469, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe469, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0469, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0469, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-percent-fill`
   static const IconifyIconData sealPercentFill = IconifyIconData.solo(
-    IconData(0xe46a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf046a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-percent-light`
   static const IconifyIconData sealPercentLight = IconifyIconData.solo(
-    IconData(0xe46b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf046b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-percent-thin`
   static const IconifyIconData sealPercentThin = IconifyIconData.solo(
-    IconData(0xe46c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf046c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-question`
   static const IconifyIconData sealQuestion = IconifyIconData.solo(
-    IconData(0xe46d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf046d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-question-bold`
   static const IconifyIconData sealQuestionBold = IconifyIconData.solo(
-    IconData(0xe46e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf046e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-question-duotone` (duo-tone)
   static const IconifyIconData sealQuestionDuotone = IconifyIconData.duo(
-    IconData(0xe46f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe46f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf046f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf046f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-question-fill`
   static const IconifyIconData sealQuestionFill = IconifyIconData.solo(
-    IconData(0xe470, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0470, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-question-light`
   static const IconifyIconData sealQuestionLight = IconifyIconData.solo(
-    IconData(0xe471, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0471, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-question-thin`
   static const IconifyIconData sealQuestionThin = IconifyIconData.solo(
-    IconData(0xe472, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0472, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-thin`
   static const IconifyIconData sealThin = IconifyIconData.solo(
-    IconData(0xe473, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0473, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-warning`
   static const IconifyIconData sealWarning = IconifyIconData.solo(
-    IconData(0xe474, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0474, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-warning-bold`
   static const IconifyIconData sealWarningBold = IconifyIconData.solo(
-    IconData(0xe475, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0475, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-warning-duotone` (duo-tone)
   static const IconifyIconData sealWarningDuotone = IconifyIconData.duo(
-    IconData(0xe476, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe476, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0476, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0476, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-warning-fill`
   static const IconifyIconData sealWarningFill = IconifyIconData.solo(
-    IconData(0xe477, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0477, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-warning-light`
   static const IconifyIconData sealWarningLight = IconifyIconData.solo(
-    IconData(0xe478, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0478, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seal-warning-thin`
   static const IconifyIconData sealWarningThin = IconifyIconData.solo(
-    IconData(0xe479, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0479, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seat`
   static const IconifyIconData seat = IconifyIconData.solo(
-    IconData(0xe47a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf047a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seat-bold`
   static const IconifyIconData seatBold = IconifyIconData.solo(
-    IconData(0xe47b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf047b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seat-duotone` (duo-tone)
   static const IconifyIconData seatDuotone = IconifyIconData.duo(
-    IconData(0xe47c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe47c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf047c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf047c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seat-fill`
   static const IconifyIconData seatFill = IconifyIconData.solo(
-    IconData(0xe47d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf047d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seat-light`
   static const IconifyIconData seatLight = IconifyIconData.solo(
-    IconData(0xe47e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf047e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seat-thin`
   static const IconifyIconData seatThin = IconifyIconData.solo(
-    IconData(0xe47f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf047f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seatbelt`
   static const IconifyIconData seatbelt = IconifyIconData.solo(
-    IconData(0xe480, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0480, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seatbelt-bold`
   static const IconifyIconData seatbeltBold = IconifyIconData.solo(
-    IconData(0xe481, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0481, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seatbelt-duotone` (duo-tone)
   static const IconifyIconData seatbeltDuotone = IconifyIconData.duo(
-    IconData(0xe482, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe482, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0482, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0482, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seatbelt-fill`
   static const IconifyIconData seatbeltFill = IconifyIconData.solo(
-    IconData(0xe483, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0483, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seatbelt-light`
   static const IconifyIconData seatbeltLight = IconifyIconData.solo(
-    IconData(0xe484, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0484, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `seatbelt-thin`
   static const IconifyIconData seatbeltThin = IconifyIconData.solo(
-    IconData(0xe485, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0485, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `security-camera`
   static const IconifyIconData securityCamera = IconifyIconData.solo(
-    IconData(0xe486, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0486, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `security-camera-bold`
   static const IconifyIconData securityCameraBold = IconifyIconData.solo(
-    IconData(0xe487, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0487, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `security-camera-duotone` (duo-tone)
   static const IconifyIconData securityCameraDuotone = IconifyIconData.duo(
-    IconData(0xe488, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe488, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0488, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0488, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `security-camera-fill`
   static const IconifyIconData securityCameraFill = IconifyIconData.solo(
-    IconData(0xe489, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0489, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `security-camera-light`
   static const IconifyIconData securityCameraLight = IconifyIconData.solo(
-    IconData(0xe48a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf048a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `security-camera-thin`
   static const IconifyIconData securityCameraThin = IconifyIconData.solo(
-    IconData(0xe48b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf048b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection`
   static const IconifyIconData selection = IconifyIconData.solo(
-    IconData(0xe48c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf048c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-all`
   static const IconifyIconData selectionAll = IconifyIconData.solo(
-    IconData(0xe48d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf048d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-all-bold`
   static const IconifyIconData selectionAllBold = IconifyIconData.solo(
-    IconData(0xe48e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf048e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-all-duotone` (duo-tone)
   static const IconifyIconData selectionAllDuotone = IconifyIconData.duo(
-    IconData(0xe48f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe48f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf048f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf048f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-all-fill`
   static const IconifyIconData selectionAllFill = IconifyIconData.solo(
-    IconData(0xe490, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0490, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-all-light`
   static const IconifyIconData selectionAllLight = IconifyIconData.solo(
-    IconData(0xe491, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0491, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-all-thin`
   static const IconifyIconData selectionAllThin = IconifyIconData.solo(
-    IconData(0xe492, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0492, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-background`
   static const IconifyIconData selectionBackground = IconifyIconData.solo(
-    IconData(0xe493, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0493, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-background-bold`
   static const IconifyIconData selectionBackgroundBold = IconifyIconData.solo(
-    IconData(0xe494, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0494, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-background-duotone` (duo-tone)
   static const IconifyIconData selectionBackgroundDuotone = IconifyIconData.duo(
-    IconData(0xe495, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe495, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0495, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0495, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-background-fill`
   static const IconifyIconData selectionBackgroundFill = IconifyIconData.solo(
-    IconData(0xe496, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0496, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-background-light`
   static const IconifyIconData selectionBackgroundLight = IconifyIconData.solo(
-    IconData(0xe497, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0497, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-background-thin`
   static const IconifyIconData selectionBackgroundThin = IconifyIconData.solo(
-    IconData(0xe498, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0498, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-bold`
   static const IconifyIconData selectionBold = IconifyIconData.solo(
-    IconData(0xe499, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0499, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-duotone` (duo-tone)
   static const IconifyIconData selectionDuotone = IconifyIconData.duo(
-    IconData(0xe49a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe49a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf049a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf049a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-fill`
   static const IconifyIconData selectionFill = IconifyIconData.solo(
-    IconData(0xe49b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf049b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-foreground`
   static const IconifyIconData selectionForeground = IconifyIconData.solo(
-    IconData(0xe49c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf049c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-foreground-bold`
   static const IconifyIconData selectionForegroundBold = IconifyIconData.solo(
-    IconData(0xe49d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf049d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-foreground-duotone` (duo-tone)
   static const IconifyIconData selectionForegroundDuotone = IconifyIconData.duo(
-    IconData(0xe49e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe49e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf049e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf049e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-foreground-fill`
   static const IconifyIconData selectionForegroundFill = IconifyIconData.solo(
-    IconData(0xe49f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf049f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-foreground-light`
   static const IconifyIconData selectionForegroundLight = IconifyIconData.solo(
-    IconData(0xe4a0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-foreground-thin`
   static const IconifyIconData selectionForegroundThin = IconifyIconData.solo(
-    IconData(0xe4a1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04a1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-inverse`
   static const IconifyIconData selectionInverse = IconifyIconData.solo(
-    IconData(0xe4a2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-inverse-bold`
   static const IconifyIconData selectionInverseBold = IconifyIconData.solo(
-    IconData(0xe4a3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04a3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-inverse-duotone` (duo-tone)
   static const IconifyIconData selectionInverseDuotone = IconifyIconData.duo(
-    IconData(0xe4a4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4a4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04a4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-inverse-fill`
   static const IconifyIconData selectionInverseFill = IconifyIconData.solo(
-    IconData(0xe4a5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-inverse-light`
   static const IconifyIconData selectionInverseLight = IconifyIconData.solo(
-    IconData(0xe4a6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-inverse-thin`
   static const IconifyIconData selectionInverseThin = IconifyIconData.solo(
-    IconData(0xe4a7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-light`
   static const IconifyIconData selectionLight = IconifyIconData.solo(
-    IconData(0xe4a8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-plus`
   static const IconifyIconData selectionPlus = IconifyIconData.solo(
-    IconData(0xe4a9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-plus-bold`
   static const IconifyIconData selectionPlusBold = IconifyIconData.solo(
-    IconData(0xe4aa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-plus-duotone` (duo-tone)
   static const IconifyIconData selectionPlusDuotone = IconifyIconData.duo(
-    IconData(0xe4ab, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4ab, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ab, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-plus-fill`
   static const IconifyIconData selectionPlusFill = IconifyIconData.solo(
-    IconData(0xe4ac, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-plus-light`
   static const IconifyIconData selectionPlusLight = IconifyIconData.solo(
-    IconData(0xe4ad, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-plus-thin`
   static const IconifyIconData selectionPlusThin = IconifyIconData.solo(
-    IconData(0xe4ae, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-slash`
   static const IconifyIconData selectionSlash = IconifyIconData.solo(
-    IconData(0xe4af, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04af, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-slash-bold`
   static const IconifyIconData selectionSlashBold = IconifyIconData.solo(
-    IconData(0xe4b0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04b0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-slash-duotone` (duo-tone)
   static const IconifyIconData selectionSlashDuotone = IconifyIconData.duo(
-    IconData(0xe4b1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4b1, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04b1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04b1, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-slash-fill`
   static const IconifyIconData selectionSlashFill = IconifyIconData.solo(
-    IconData(0xe4b2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04b2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-slash-light`
   static const IconifyIconData selectionSlashLight = IconifyIconData.solo(
-    IconData(0xe4b3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04b3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-slash-thin`
   static const IconifyIconData selectionSlashThin = IconifyIconData.solo(
-    IconData(0xe4b4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04b4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `selection-thin`
   static const IconifyIconData selectionThin = IconifyIconData.solo(
-    IconData(0xe4b5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04b5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shapes`
   static const IconifyIconData shapes = IconifyIconData.solo(
-    IconData(0xe4b6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04b6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shapes-bold`
   static const IconifyIconData shapesBold = IconifyIconData.solo(
-    IconData(0xe4b7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04b7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shapes-duotone` (duo-tone)
   static const IconifyIconData shapesDuotone = IconifyIconData.duo(
-    IconData(0xe4b8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4b8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04b8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04b8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shapes-fill`
   static const IconifyIconData shapesFill = IconifyIconData.solo(
-    IconData(0xe4b9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04b9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shapes-light`
   static const IconifyIconData shapesLight = IconifyIconData.solo(
-    IconData(0xe4ba, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shapes-thin`
   static const IconifyIconData shapesThin = IconifyIconData.solo(
-    IconData(0xe4bb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share`
   static const IconifyIconData share = IconifyIconData.solo(
-    IconData(0xe4bc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-bold`
   static const IconifyIconData shareBold = IconifyIconData.solo(
-    IconData(0xe4bd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04bd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-duotone` (duo-tone)
   static const IconifyIconData shareDuotone = IconifyIconData.duo(
-    IconData(0xe4be, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4be, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04be, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04be, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-fat`
   static const IconifyIconData shareFat = IconifyIconData.solo(
-    IconData(0xe4bf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04bf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-fat-bold`
   static const IconifyIconData shareFatBold = IconifyIconData.solo(
-    IconData(0xe4c0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04c0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-fat-duotone` (duo-tone)
   static const IconifyIconData shareFatDuotone = IconifyIconData.duo(
-    IconData(0xe4c1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4c1, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04c1, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-fat-fill`
   static const IconifyIconData shareFatFill = IconifyIconData.solo(
-    IconData(0xe4c2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-fat-light`
   static const IconifyIconData shareFatLight = IconifyIconData.solo(
-    IconData(0xe4c3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04c3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-fat-thin`
   static const IconifyIconData shareFatThin = IconifyIconData.solo(
-    IconData(0xe4c4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04c4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-fill`
   static const IconifyIconData shareFill = IconifyIconData.solo(
-    IconData(0xe4c5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04c5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-light`
   static const IconifyIconData shareLight = IconifyIconData.solo(
-    IconData(0xe4c6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04c6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-network`
   static const IconifyIconData shareNetwork = IconifyIconData.solo(
-    IconData(0xe4c7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-network-bold`
   static const IconifyIconData shareNetworkBold = IconifyIconData.solo(
-    IconData(0xe4c8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-network-duotone` (duo-tone)
   static const IconifyIconData shareNetworkDuotone = IconifyIconData.duo(
-    IconData(0xe4c9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4c9, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04c9, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-network-fill`
   static const IconifyIconData shareNetworkFill = IconifyIconData.solo(
-    IconData(0xe4ca, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-network-light`
   static const IconifyIconData shareNetworkLight = IconifyIconData.solo(
-    IconData(0xe4cb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-network-thin`
   static const IconifyIconData shareNetworkThin = IconifyIconData.solo(
-    IconData(0xe4cc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `share-thin`
   static const IconifyIconData shareThin = IconifyIconData.solo(
-    IconData(0xe4cd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield`
   static const IconifyIconData shield = IconifyIconData.solo(
-    IconData(0xe4ce, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-bold`
   static const IconifyIconData shieldBold = IconifyIconData.solo(
-    IconData(0xe4cf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-check`
   static const IconifyIconData shieldCheck = IconifyIconData.solo(
-    IconData(0xe4d0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-check-bold`
   static const IconifyIconData shieldCheckBold = IconifyIconData.solo(
-    IconData(0xe4d1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04d1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-check-duotone` (duo-tone)
   static const IconifyIconData shieldCheckDuotone = IconifyIconData.duo(
-    IconData(0xe4d2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4d2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04d2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-check-fill`
   static const IconifyIconData shieldCheckFill = IconifyIconData.solo(
-    IconData(0xe4d3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-check-light`
   static const IconifyIconData shieldCheckLight = IconifyIconData.solo(
-    IconData(0xe4d4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-check-thin`
   static const IconifyIconData shieldCheckThin = IconifyIconData.solo(
-    IconData(0xe4d5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04d5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-checkered`
   static const IconifyIconData shieldCheckered = IconifyIconData.solo(
-    IconData(0xe4d6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04d6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-checkered-bold`
   static const IconifyIconData shieldCheckeredBold = IconifyIconData.solo(
-    IconData(0xe4d7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-checkered-duotone` (duo-tone)
   static const IconifyIconData shieldCheckeredDuotone = IconifyIconData.duo(
-    IconData(0xe4d8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4d8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04d8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04d8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-checkered-fill`
   static const IconifyIconData shieldCheckeredFill = IconifyIconData.solo(
-    IconData(0xe4d9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04d9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-checkered-light`
   static const IconifyIconData shieldCheckeredLight = IconifyIconData.solo(
-    IconData(0xe4da, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04da, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-checkered-thin`
   static const IconifyIconData shieldCheckeredThin = IconifyIconData.solo(
-    IconData(0xe4db, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-chevron`
   static const IconifyIconData shieldChevron = IconifyIconData.solo(
-    IconData(0xe4dc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-chevron-bold`
   static const IconifyIconData shieldChevronBold = IconifyIconData.solo(
-    IconData(0xe4dd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-chevron-duotone` (duo-tone)
   static const IconifyIconData shieldChevronDuotone = IconifyIconData.duo(
-    IconData(0xe4de, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4de, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04de, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04de, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-chevron-fill`
   static const IconifyIconData shieldChevronFill = IconifyIconData.solo(
-    IconData(0xe4df, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04df, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-chevron-light`
   static const IconifyIconData shieldChevronLight = IconifyIconData.solo(
-    IconData(0xe4e0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04e0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-chevron-thin`
   static const IconifyIconData shieldChevronThin = IconifyIconData.solo(
-    IconData(0xe4e1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-duotone` (duo-tone)
   static const IconifyIconData shieldDuotone = IconifyIconData.duo(
-    IconData(0xe4e2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4e2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04e2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-fill`
   static const IconifyIconData shieldFill = IconifyIconData.solo(
-    IconData(0xe4e3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-light`
   static const IconifyIconData shieldLight = IconifyIconData.solo(
-    IconData(0xe4e4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-plus`
   static const IconifyIconData shieldPlus = IconifyIconData.solo(
-    IconData(0xe4e5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04e5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-plus-bold`
   static const IconifyIconData shieldPlusBold = IconifyIconData.solo(
-    IconData(0xe4e6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-plus-duotone` (duo-tone)
   static const IconifyIconData shieldPlusDuotone = IconifyIconData.duo(
-    IconData(0xe4e7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4e7, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04e7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-plus-fill`
   static const IconifyIconData shieldPlusFill = IconifyIconData.solo(
-    IconData(0xe4e8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-plus-light`
   static const IconifyIconData shieldPlusLight = IconifyIconData.solo(
-    IconData(0xe4e9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04e9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-plus-thin`
   static const IconifyIconData shieldPlusThin = IconifyIconData.solo(
-    IconData(0xe4ea, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-slash`
   static const IconifyIconData shieldSlash = IconifyIconData.solo(
-    IconData(0xe4eb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-slash-bold`
   static const IconifyIconData shieldSlashBold = IconifyIconData.solo(
-    IconData(0xe4ec, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-slash-duotone` (duo-tone)
   static const IconifyIconData shieldSlashDuotone = IconifyIconData.duo(
-    IconData(0xe4ed, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4ed, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ed, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-slash-fill`
   static const IconifyIconData shieldSlashFill = IconifyIconData.solo(
-    IconData(0xe4ee, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-slash-light`
   static const IconifyIconData shieldSlashLight = IconifyIconData.solo(
-    IconData(0xe4ef, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-slash-thin`
   static const IconifyIconData shieldSlashThin = IconifyIconData.solo(
-    IconData(0xe4f0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-star`
   static const IconifyIconData shieldStar = IconifyIconData.solo(
-    IconData(0xe4f1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04f1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-star-bold`
   static const IconifyIconData shieldStarBold = IconifyIconData.solo(
-    IconData(0xe4f2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04f2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-star-duotone` (duo-tone)
   static const IconifyIconData shieldStarDuotone = IconifyIconData.duo(
-    IconData(0xe4f3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4f3, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04f3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-star-fill`
   static const IconifyIconData shieldStarFill = IconifyIconData.solo(
-    IconData(0xe4f4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-star-light`
   static const IconifyIconData shieldStarLight = IconifyIconData.solo(
-    IconData(0xe4f5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-star-thin`
   static const IconifyIconData shieldStarThin = IconifyIconData.solo(
-    IconData(0xe4f6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-thin`
   static const IconifyIconData shieldThin = IconifyIconData.solo(
-    IconData(0xe4f7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04f7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-warning`
   static const IconifyIconData shieldWarning = IconifyIconData.solo(
-    IconData(0xe4f8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04f8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-warning-bold`
   static const IconifyIconData shieldWarningBold = IconifyIconData.solo(
-    IconData(0xe4f9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-warning-duotone` (duo-tone)
   static const IconifyIconData shieldWarningDuotone = IconifyIconData.duo(
-    IconData(0xe4fa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe4fa, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04fa, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-warning-fill`
   static const IconifyIconData shieldWarningFill = IconifyIconData.solo(
-    IconData(0xe4fb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-warning-light`
   static const IconifyIconData shieldWarningLight = IconifyIconData.solo(
-    IconData(0xe4fc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shield-warning-thin`
   static const IconifyIconData shieldWarningThin = IconifyIconData.solo(
-    IconData(0xe4fd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shipping-container`
   static const IconifyIconData shippingContainer = IconifyIconData.solo(
-    IconData(0xe4fe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04fe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shipping-container-bold`
   static const IconifyIconData shippingContainerBold = IconifyIconData.solo(
-    IconData(0xe4ff, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf04ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shipping-container-duotone` (duo-tone)
   static const IconifyIconData shippingContainerDuotone = IconifyIconData.duo(
-    IconData(0xe500, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe500, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0500, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0500, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shipping-container-fill`
   static const IconifyIconData shippingContainerFill = IconifyIconData.solo(
-    IconData(0xe501, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0501, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shipping-container-light`
   static const IconifyIconData shippingContainerLight = IconifyIconData.solo(
-    IconData(0xe502, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0502, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shipping-container-thin`
   static const IconifyIconData shippingContainerThin = IconifyIconData.solo(
-    IconData(0xe503, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0503, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shirt-folded`
   static const IconifyIconData shirtFolded = IconifyIconData.solo(
-    IconData(0xe504, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0504, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shirt-folded-bold`
   static const IconifyIconData shirtFoldedBold = IconifyIconData.solo(
-    IconData(0xe505, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0505, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shirt-folded-duotone` (duo-tone)
   static const IconifyIconData shirtFoldedDuotone = IconifyIconData.duo(
-    IconData(0xe506, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe506, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0506, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0506, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shirt-folded-fill`
   static const IconifyIconData shirtFoldedFill = IconifyIconData.solo(
-    IconData(0xe507, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0507, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shirt-folded-light`
   static const IconifyIconData shirtFoldedLight = IconifyIconData.solo(
-    IconData(0xe508, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0508, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shirt-folded-thin`
   static const IconifyIconData shirtFoldedThin = IconifyIconData.solo(
-    IconData(0xe509, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0509, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shooting-star`
   static const IconifyIconData shootingStar = IconifyIconData.solo(
-    IconData(0xe50a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf050a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shooting-star-bold`
   static const IconifyIconData shootingStarBold = IconifyIconData.solo(
-    IconData(0xe50b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf050b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shooting-star-duotone` (duo-tone)
   static const IconifyIconData shootingStarDuotone = IconifyIconData.duo(
-    IconData(0xe50c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe50c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf050c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf050c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shooting-star-fill`
   static const IconifyIconData shootingStarFill = IconifyIconData.solo(
-    IconData(0xe50d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf050d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shooting-star-light`
   static const IconifyIconData shootingStarLight = IconifyIconData.solo(
-    IconData(0xe50e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf050e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shooting-star-thin`
   static const IconifyIconData shootingStarThin = IconifyIconData.solo(
-    IconData(0xe50f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf050f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag`
   static const IconifyIconData shoppingBag = IconifyIconData.solo(
-    IconData(0xe510, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0510, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag-bold`
   static const IconifyIconData shoppingBagBold = IconifyIconData.solo(
-    IconData(0xe511, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0511, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag-duotone` (duo-tone)
   static const IconifyIconData shoppingBagDuotone = IconifyIconData.duo(
-    IconData(0xe512, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe512, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0512, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0512, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag-fill`
   static const IconifyIconData shoppingBagFill = IconifyIconData.solo(
-    IconData(0xe513, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0513, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag-light`
   static const IconifyIconData shoppingBagLight = IconifyIconData.solo(
-    IconData(0xe514, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0514, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag-open`
   static const IconifyIconData shoppingBagOpen = IconifyIconData.solo(
-    IconData(0xe515, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0515, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag-open-bold`
   static const IconifyIconData shoppingBagOpenBold = IconifyIconData.solo(
-    IconData(0xe516, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0516, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag-open-duotone` (duo-tone)
   static const IconifyIconData shoppingBagOpenDuotone = IconifyIconData.duo(
-    IconData(0xe517, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe517, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0517, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0517, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag-open-fill`
   static const IconifyIconData shoppingBagOpenFill = IconifyIconData.solo(
-    IconData(0xe518, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0518, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag-open-light`
   static const IconifyIconData shoppingBagOpenLight = IconifyIconData.solo(
-    IconData(0xe519, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0519, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag-open-thin`
   static const IconifyIconData shoppingBagOpenThin = IconifyIconData.solo(
-    IconData(0xe51a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf051a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-bag-thin`
   static const IconifyIconData shoppingBagThin = IconifyIconData.solo(
-    IconData(0xe51b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf051b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-cart`
   static const IconifyIconData shoppingCart = IconifyIconData.solo(
-    IconData(0xe51c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf051c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-cart-bold`
   static const IconifyIconData shoppingCartBold = IconifyIconData.solo(
-    IconData(0xe51d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf051d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-cart-duotone` (duo-tone)
   static const IconifyIconData shoppingCartDuotone = IconifyIconData.duo(
-    IconData(0xe51e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe51e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf051e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf051e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-cart-fill`
   static const IconifyIconData shoppingCartFill = IconifyIconData.solo(
-    IconData(0xe51f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf051f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-cart-light`
   static const IconifyIconData shoppingCartLight = IconifyIconData.solo(
-    IconData(0xe520, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0520, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-cart-simple`
   static const IconifyIconData shoppingCartSimple = IconifyIconData.solo(
-    IconData(0xe521, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0521, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-cart-simple-bold`
   static const IconifyIconData shoppingCartSimpleBold = IconifyIconData.solo(
-    IconData(0xe522, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0522, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-cart-simple-duotone` (duo-tone)
   static const IconifyIconData shoppingCartSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe523, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe523, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0523, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0523, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-cart-simple-fill`
   static const IconifyIconData shoppingCartSimpleFill = IconifyIconData.solo(
-    IconData(0xe524, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0524, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-cart-simple-light`
   static const IconifyIconData shoppingCartSimpleLight = IconifyIconData.solo(
-    IconData(0xe525, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0525, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-cart-simple-thin`
   static const IconifyIconData shoppingCartSimpleThin = IconifyIconData.solo(
-    IconData(0xe526, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0526, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shopping-cart-thin`
   static const IconifyIconData shoppingCartThin = IconifyIconData.solo(
-    IconData(0xe527, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0527, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shovel`
   static const IconifyIconData shovel = IconifyIconData.solo(
-    IconData(0xe528, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0528, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shovel-bold`
   static const IconifyIconData shovelBold = IconifyIconData.solo(
-    IconData(0xe529, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0529, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shovel-duotone` (duo-tone)
   static const IconifyIconData shovelDuotone = IconifyIconData.duo(
-    IconData(0xe52a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe52a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf052a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf052a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shovel-fill`
   static const IconifyIconData shovelFill = IconifyIconData.solo(
-    IconData(0xe52b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf052b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shovel-light`
   static const IconifyIconData shovelLight = IconifyIconData.solo(
-    IconData(0xe52c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf052c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shovel-thin`
   static const IconifyIconData shovelThin = IconifyIconData.solo(
-    IconData(0xe52d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf052d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shower`
   static const IconifyIconData shower = IconifyIconData.solo(
-    IconData(0xe52e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf052e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shower-bold`
   static const IconifyIconData showerBold = IconifyIconData.solo(
-    IconData(0xe52f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf052f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shower-duotone` (duo-tone)
   static const IconifyIconData showerDuotone = IconifyIconData.duo(
-    IconData(0xe530, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe530, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0530, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0530, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shower-fill`
   static const IconifyIconData showerFill = IconifyIconData.solo(
-    IconData(0xe531, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0531, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shower-light`
   static const IconifyIconData showerLight = IconifyIconData.solo(
-    IconData(0xe532, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0532, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shower-thin`
   static const IconifyIconData showerThin = IconifyIconData.solo(
-    IconData(0xe533, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0533, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shrimp`
   static const IconifyIconData shrimp = IconifyIconData.solo(
-    IconData(0xe534, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0534, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shrimp-bold`
   static const IconifyIconData shrimpBold = IconifyIconData.solo(
-    IconData(0xe535, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0535, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shrimp-duotone` (duo-tone)
   static const IconifyIconData shrimpDuotone = IconifyIconData.duo(
-    IconData(0xe536, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe536, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0536, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0536, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shrimp-fill`
   static const IconifyIconData shrimpFill = IconifyIconData.solo(
-    IconData(0xe537, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0537, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shrimp-light`
   static const IconifyIconData shrimpLight = IconifyIconData.solo(
-    IconData(0xe538, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0538, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shrimp-thin`
   static const IconifyIconData shrimpThin = IconifyIconData.solo(
-    IconData(0xe539, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0539, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle`
   static const IconifyIconData shuffle = IconifyIconData.solo(
-    IconData(0xe53a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf053a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-angular`
   static const IconifyIconData shuffleAngular = IconifyIconData.solo(
-    IconData(0xe53b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf053b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-angular-bold`
   static const IconifyIconData shuffleAngularBold = IconifyIconData.solo(
-    IconData(0xe53c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf053c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-angular-duotone` (duo-tone)
   static const IconifyIconData shuffleAngularDuotone = IconifyIconData.duo(
-    IconData(0xe53d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe53d, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf053d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf053d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-angular-fill`
   static const IconifyIconData shuffleAngularFill = IconifyIconData.solo(
-    IconData(0xe53e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf053e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-angular-light`
   static const IconifyIconData shuffleAngularLight = IconifyIconData.solo(
-    IconData(0xe53f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf053f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-angular-thin`
   static const IconifyIconData shuffleAngularThin = IconifyIconData.solo(
-    IconData(0xe540, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0540, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-bold`
   static const IconifyIconData shuffleBold = IconifyIconData.solo(
-    IconData(0xe541, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0541, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-duotone` (duo-tone)
   static const IconifyIconData shuffleDuotone = IconifyIconData.duo(
-    IconData(0xe542, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe542, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0542, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0542, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-fill`
   static const IconifyIconData shuffleFill = IconifyIconData.solo(
-    IconData(0xe543, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0543, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-light`
   static const IconifyIconData shuffleLight = IconifyIconData.solo(
-    IconData(0xe544, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0544, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-simple`
   static const IconifyIconData shuffleSimple = IconifyIconData.solo(
-    IconData(0xe545, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0545, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-simple-bold`
   static const IconifyIconData shuffleSimpleBold = IconifyIconData.solo(
-    IconData(0xe546, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0546, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-simple-duotone` (duo-tone)
   static const IconifyIconData shuffleSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe547, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe547, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0547, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0547, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-simple-fill`
   static const IconifyIconData shuffleSimpleFill = IconifyIconData.solo(
-    IconData(0xe548, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0548, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-simple-light`
   static const IconifyIconData shuffleSimpleLight = IconifyIconData.solo(
-    IconData(0xe549, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0549, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-simple-thin`
   static const IconifyIconData shuffleSimpleThin = IconifyIconData.solo(
-    IconData(0xe54a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf054a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `shuffle-thin`
   static const IconifyIconData shuffleThin = IconifyIconData.solo(
-    IconData(0xe54b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf054b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar`
   static const IconifyIconData sidebar = IconifyIconData.solo(
-    IconData(0xe54c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf054c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar-bold`
   static const IconifyIconData sidebarBold = IconifyIconData.solo(
-    IconData(0xe54d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf054d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar-duotone` (duo-tone)
   static const IconifyIconData sidebarDuotone = IconifyIconData.duo(
-    IconData(0xe54e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe54e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf054e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf054e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar-fill`
   static const IconifyIconData sidebarFill = IconifyIconData.solo(
-    IconData(0xe54f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf054f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar-light`
   static const IconifyIconData sidebarLight = IconifyIconData.solo(
-    IconData(0xe550, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0550, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar-simple`
   static const IconifyIconData sidebarSimple = IconifyIconData.solo(
-    IconData(0xe551, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0551, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar-simple-bold`
   static const IconifyIconData sidebarSimpleBold = IconifyIconData.solo(
-    IconData(0xe552, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0552, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar-simple-duotone` (duo-tone)
   static const IconifyIconData sidebarSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe553, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe553, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0553, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0553, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar-simple-fill`
   static const IconifyIconData sidebarSimpleFill = IconifyIconData.solo(
-    IconData(0xe554, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0554, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar-simple-light`
   static const IconifyIconData sidebarSimpleLight = IconifyIconData.solo(
-    IconData(0xe555, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0555, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar-simple-thin`
   static const IconifyIconData sidebarSimpleThin = IconifyIconData.solo(
-    IconData(0xe556, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0556, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sidebar-thin`
   static const IconifyIconData sidebarThin = IconifyIconData.solo(
-    IconData(0xe557, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0557, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sigma`
   static const IconifyIconData sigma = IconifyIconData.solo(
-    IconData(0xe558, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0558, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sigma-bold`
   static const IconifyIconData sigmaBold = IconifyIconData.solo(
-    IconData(0xe559, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0559, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sigma-duotone` (duo-tone)
   static const IconifyIconData sigmaDuotone = IconifyIconData.duo(
-    IconData(0xe55a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe55a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf055a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf055a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sigma-fill`
   static const IconifyIconData sigmaFill = IconifyIconData.solo(
-    IconData(0xe55b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf055b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sigma-light`
   static const IconifyIconData sigmaLight = IconifyIconData.solo(
-    IconData(0xe55c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf055c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sigma-thin`
   static const IconifyIconData sigmaThin = IconifyIconData.solo(
-    IconData(0xe55d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf055d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sign-in`
   static const IconifyIconData signIn = IconifyIconData.solo(
-    IconData(0xe55e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf055e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sign-in-bold`
   static const IconifyIconData signInBold = IconifyIconData.solo(
-    IconData(0xe55f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf055f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sign-in-duotone` (duo-tone)
   static const IconifyIconData signInDuotone = IconifyIconData.duo(
-    IconData(0xe560, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe560, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0560, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0560, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sign-in-fill`
   static const IconifyIconData signInFill = IconifyIconData.solo(
-    IconData(0xe561, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0561, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sign-in-light`
   static const IconifyIconData signInLight = IconifyIconData.solo(
-    IconData(0xe562, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0562, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sign-in-thin`
   static const IconifyIconData signInThin = IconifyIconData.solo(
-    IconData(0xe563, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0563, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sign-out`
   static const IconifyIconData signOut = IconifyIconData.solo(
-    IconData(0xe564, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0564, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sign-out-bold`
   static const IconifyIconData signOutBold = IconifyIconData.solo(
-    IconData(0xe565, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0565, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sign-out-duotone` (duo-tone)
   static const IconifyIconData signOutDuotone = IconifyIconData.duo(
-    IconData(0xe566, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe566, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0566, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0566, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sign-out-fill`
   static const IconifyIconData signOutFill = IconifyIconData.solo(
-    IconData(0xe567, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0567, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sign-out-light`
   static const IconifyIconData signOutLight = IconifyIconData.solo(
-    IconData(0xe568, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0568, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sign-out-thin`
   static const IconifyIconData signOutThin = IconifyIconData.solo(
-    IconData(0xe569, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0569, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `signature`
   static const IconifyIconData signature = IconifyIconData.solo(
-    IconData(0xe56a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf056a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `signature-bold`
   static const IconifyIconData signatureBold = IconifyIconData.solo(
-    IconData(0xe56b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf056b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `signature-duotone` (duo-tone)
   static const IconifyIconData signatureDuotone = IconifyIconData.duo(
-    IconData(0xe56c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe56c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf056c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf056c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `signature-fill`
   static const IconifyIconData signatureFill = IconifyIconData.solo(
-    IconData(0xe56d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf056d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `signature-light`
   static const IconifyIconData signatureLight = IconifyIconData.solo(
-    IconData(0xe56e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf056e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `signature-thin`
   static const IconifyIconData signatureThin = IconifyIconData.solo(
-    IconData(0xe56f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf056f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `signpost`
   static const IconifyIconData signpost = IconifyIconData.solo(
-    IconData(0xe570, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0570, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `signpost-bold`
   static const IconifyIconData signpostBold = IconifyIconData.solo(
-    IconData(0xe571, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0571, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `signpost-duotone` (duo-tone)
   static const IconifyIconData signpostDuotone = IconifyIconData.duo(
-    IconData(0xe572, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe572, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0572, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0572, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `signpost-fill`
   static const IconifyIconData signpostFill = IconifyIconData.solo(
-    IconData(0xe573, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0573, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `signpost-light`
   static const IconifyIconData signpostLight = IconifyIconData.solo(
-    IconData(0xe574, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0574, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `signpost-thin`
   static const IconifyIconData signpostThin = IconifyIconData.solo(
-    IconData(0xe575, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0575, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sim-card`
   static const IconifyIconData simCard = IconifyIconData.solo(
-    IconData(0xe576, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0576, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sim-card-bold`
   static const IconifyIconData simCardBold = IconifyIconData.solo(
-    IconData(0xe577, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0577, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sim-card-duotone` (duo-tone)
   static const IconifyIconData simCardDuotone = IconifyIconData.duo(
-    IconData(0xe578, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe578, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0578, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0578, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sim-card-fill`
   static const IconifyIconData simCardFill = IconifyIconData.solo(
-    IconData(0xe579, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0579, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sim-card-light`
   static const IconifyIconData simCardLight = IconifyIconData.solo(
-    IconData(0xe57a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf057a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sim-card-thin`
   static const IconifyIconData simCardThin = IconifyIconData.solo(
-    IconData(0xe57b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf057b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `siren`
   static const IconifyIconData siren = IconifyIconData.solo(
-    IconData(0xe57c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf057c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `siren-bold`
   static const IconifyIconData sirenBold = IconifyIconData.solo(
-    IconData(0xe57d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf057d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `siren-duotone` (duo-tone)
   static const IconifyIconData sirenDuotone = IconifyIconData.duo(
-    IconData(0xe57e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe57e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf057e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf057e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `siren-fill`
   static const IconifyIconData sirenFill = IconifyIconData.solo(
-    IconData(0xe57f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf057f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `siren-light`
   static const IconifyIconData sirenLight = IconifyIconData.solo(
-    IconData(0xe580, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0580, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `siren-thin`
   static const IconifyIconData sirenThin = IconifyIconData.solo(
-    IconData(0xe581, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0581, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sketch-logo`
   static const IconifyIconData sketchLogo = IconifyIconData.solo(
-    IconData(0xe582, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0582, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sketch-logo-bold`
   static const IconifyIconData sketchLogoBold = IconifyIconData.solo(
-    IconData(0xe583, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0583, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sketch-logo-duotone` (duo-tone)
   static const IconifyIconData sketchLogoDuotone = IconifyIconData.duo(
-    IconData(0xe584, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe584, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0584, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0584, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sketch-logo-fill`
   static const IconifyIconData sketchLogoFill = IconifyIconData.solo(
-    IconData(0xe585, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0585, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sketch-logo-light`
   static const IconifyIconData sketchLogoLight = IconifyIconData.solo(
-    IconData(0xe586, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0586, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sketch-logo-thin`
   static const IconifyIconData sketchLogoThin = IconifyIconData.solo(
-    IconData(0xe587, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0587, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-back`
   static const IconifyIconData skipBack = IconifyIconData.solo(
-    IconData(0xe588, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0588, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-back-bold`
   static const IconifyIconData skipBackBold = IconifyIconData.solo(
-    IconData(0xe589, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0589, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-back-circle`
   static const IconifyIconData skipBackCircle = IconifyIconData.solo(
-    IconData(0xe58a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf058a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-back-circle-bold`
   static const IconifyIconData skipBackCircleBold = IconifyIconData.solo(
-    IconData(0xe58b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf058b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-back-circle-duotone` (duo-tone)
   static const IconifyIconData skipBackCircleDuotone = IconifyIconData.duo(
-    IconData(0xe58c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe58c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf058c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf058c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-back-circle-fill`
   static const IconifyIconData skipBackCircleFill = IconifyIconData.solo(
-    IconData(0xe58d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf058d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-back-circle-light`
   static const IconifyIconData skipBackCircleLight = IconifyIconData.solo(
-    IconData(0xe58e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf058e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-back-circle-thin`
   static const IconifyIconData skipBackCircleThin = IconifyIconData.solo(
-    IconData(0xe58f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf058f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-back-duotone` (duo-tone)
   static const IconifyIconData skipBackDuotone = IconifyIconData.duo(
-    IconData(0xe590, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe590, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0590, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0590, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-back-fill`
   static const IconifyIconData skipBackFill = IconifyIconData.solo(
-    IconData(0xe591, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0591, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-back-light`
   static const IconifyIconData skipBackLight = IconifyIconData.solo(
-    IconData(0xe592, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0592, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-back-thin`
   static const IconifyIconData skipBackThin = IconifyIconData.solo(
-    IconData(0xe593, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0593, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-forward`
   static const IconifyIconData skipForward = IconifyIconData.solo(
-    IconData(0xe594, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0594, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-forward-bold`
   static const IconifyIconData skipForwardBold = IconifyIconData.solo(
-    IconData(0xe595, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0595, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-forward-circle`
   static const IconifyIconData skipForwardCircle = IconifyIconData.solo(
-    IconData(0xe596, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0596, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-forward-circle-bold`
   static const IconifyIconData skipForwardCircleBold = IconifyIconData.solo(
-    IconData(0xe597, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0597, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-forward-circle-duotone` (duo-tone)
   static const IconifyIconData skipForwardCircleDuotone = IconifyIconData.duo(
-    IconData(0xe598, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe598, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0598, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0598, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-forward-circle-fill`
   static const IconifyIconData skipForwardCircleFill = IconifyIconData.solo(
-    IconData(0xe599, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0599, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-forward-circle-light`
   static const IconifyIconData skipForwardCircleLight = IconifyIconData.solo(
-    IconData(0xe59a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf059a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-forward-circle-thin`
   static const IconifyIconData skipForwardCircleThin = IconifyIconData.solo(
-    IconData(0xe59b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf059b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-forward-duotone` (duo-tone)
   static const IconifyIconData skipForwardDuotone = IconifyIconData.duo(
-    IconData(0xe59c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe59c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf059c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf059c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-forward-fill`
   static const IconifyIconData skipForwardFill = IconifyIconData.solo(
-    IconData(0xe59d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf059d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-forward-light`
   static const IconifyIconData skipForwardLight = IconifyIconData.solo(
-    IconData(0xe59e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf059e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skip-forward-thin`
   static const IconifyIconData skipForwardThin = IconifyIconData.solo(
-    IconData(0xe59f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf059f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skull`
   static const IconifyIconData skull = IconifyIconData.solo(
-    IconData(0xe5a0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skull-bold`
   static const IconifyIconData skullBold = IconifyIconData.solo(
-    IconData(0xe5a1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05a1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skull-duotone` (duo-tone)
   static const IconifyIconData skullDuotone = IconifyIconData.duo(
-    IconData(0xe5a2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5a2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05a2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skull-fill`
   static const IconifyIconData skullFill = IconifyIconData.solo(
-    IconData(0xe5a3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05a3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skull-light`
   static const IconifyIconData skullLight = IconifyIconData.solo(
-    IconData(0xe5a4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skull-thin`
   static const IconifyIconData skullThin = IconifyIconData.solo(
-    IconData(0xe5a5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skype-logo`
   static const IconifyIconData skypeLogo = IconifyIconData.solo(
-    IconData(0xe5a6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skype-logo-bold`
   static const IconifyIconData skypeLogoBold = IconifyIconData.solo(
-    IconData(0xe5a7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skype-logo-duotone` (duo-tone)
   static const IconifyIconData skypeLogoDuotone = IconifyIconData.duo(
-    IconData(0xe5a8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5a8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05a8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skype-logo-fill`
   static const IconifyIconData skypeLogoFill = IconifyIconData.solo(
-    IconData(0xe5a9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skype-logo-light`
   static const IconifyIconData skypeLogoLight = IconifyIconData.solo(
-    IconData(0xe5aa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `skype-logo-thin`
   static const IconifyIconData skypeLogoThin = IconifyIconData.solo(
-    IconData(0xe5ab, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `slack-logo`
   static const IconifyIconData slackLogo = IconifyIconData.solo(
-    IconData(0xe5ac, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `slack-logo-bold`
   static const IconifyIconData slackLogoBold = IconifyIconData.solo(
-    IconData(0xe5ad, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `slack-logo-duotone` (duo-tone)
   static const IconifyIconData slackLogoDuotone = IconifyIconData.duo(
-    IconData(0xe5ae, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5ae, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ae, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `slack-logo-fill`
   static const IconifyIconData slackLogoFill = IconifyIconData.solo(
-    IconData(0xe5af, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05af, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `slack-logo-light`
   static const IconifyIconData slackLogoLight = IconifyIconData.solo(
-    IconData(0xe5b0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05b0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `slack-logo-thin`
   static const IconifyIconData slackLogoThin = IconifyIconData.solo(
-    IconData(0xe5b1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05b1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sliders`
   static const IconifyIconData sliders = IconifyIconData.solo(
-    IconData(0xe5b2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05b2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sliders-bold`
   static const IconifyIconData slidersBold = IconifyIconData.solo(
-    IconData(0xe5b3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05b3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sliders-duotone` (duo-tone)
   static const IconifyIconData slidersDuotone = IconifyIconData.duo(
-    IconData(0xe5b4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5b4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05b4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05b4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sliders-fill`
   static const IconifyIconData slidersFill = IconifyIconData.solo(
-    IconData(0xe5b5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05b5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sliders-horizontal`
   static const IconifyIconData slidersHorizontal = IconifyIconData.solo(
-    IconData(0xe5b6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05b6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sliders-horizontal-bold`
   static const IconifyIconData slidersHorizontalBold = IconifyIconData.solo(
-    IconData(0xe5b7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05b7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sliders-horizontal-duotone` (duo-tone)
   static const IconifyIconData slidersHorizontalDuotone = IconifyIconData.duo(
-    IconData(0xe5b8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5b8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05b8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05b8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sliders-horizontal-fill`
   static const IconifyIconData slidersHorizontalFill = IconifyIconData.solo(
-    IconData(0xe5b9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05b9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sliders-horizontal-light`
   static const IconifyIconData slidersHorizontalLight = IconifyIconData.solo(
-    IconData(0xe5ba, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sliders-horizontal-thin`
   static const IconifyIconData slidersHorizontalThin = IconifyIconData.solo(
-    IconData(0xe5bb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sliders-light`
   static const IconifyIconData slidersLight = IconifyIconData.solo(
-    IconData(0xe5bc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sliders-thin`
   static const IconifyIconData slidersThin = IconifyIconData.solo(
-    IconData(0xe5bd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05bd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `slideshow`
   static const IconifyIconData slideshow = IconifyIconData.solo(
-    IconData(0xe5be, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05be, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `slideshow-bold`
   static const IconifyIconData slideshowBold = IconifyIconData.solo(
-    IconData(0xe5bf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05bf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `slideshow-duotone` (duo-tone)
   static const IconifyIconData slideshowDuotone = IconifyIconData.duo(
-    IconData(0xe5c0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5c0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05c0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05c0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `slideshow-fill`
   static const IconifyIconData slideshowFill = IconifyIconData.solo(
-    IconData(0xe5c1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `slideshow-light`
   static const IconifyIconData slideshowLight = IconifyIconData.solo(
-    IconData(0xe5c2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `slideshow-thin`
   static const IconifyIconData slideshowThin = IconifyIconData.solo(
-    IconData(0xe5c3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05c3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley`
   static const IconifyIconData smiley = IconifyIconData.solo(
-    IconData(0xe5c4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05c4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-angry`
   static const IconifyIconData smileyAngry = IconifyIconData.solo(
-    IconData(0xe5c5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05c5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-angry-bold`
   static const IconifyIconData smileyAngryBold = IconifyIconData.solo(
-    IconData(0xe5c6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05c6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-angry-duotone` (duo-tone)
   static const IconifyIconData smileyAngryDuotone = IconifyIconData.duo(
-    IconData(0xe5c7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5c7, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05c7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-angry-fill`
   static const IconifyIconData smileyAngryFill = IconifyIconData.solo(
-    IconData(0xe5c8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-angry-light`
   static const IconifyIconData smileyAngryLight = IconifyIconData.solo(
-    IconData(0xe5c9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-angry-thin`
   static const IconifyIconData smileyAngryThin = IconifyIconData.solo(
-    IconData(0xe5ca, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-blank`
   static const IconifyIconData smileyBlank = IconifyIconData.solo(
-    IconData(0xe5cb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-blank-bold`
   static const IconifyIconData smileyBlankBold = IconifyIconData.solo(
-    IconData(0xe5cc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-blank-duotone` (duo-tone)
   static const IconifyIconData smileyBlankDuotone = IconifyIconData.duo(
-    IconData(0xe5cd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5cd, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05cd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-blank-fill`
   static const IconifyIconData smileyBlankFill = IconifyIconData.solo(
-    IconData(0xe5ce, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-blank-light`
   static const IconifyIconData smileyBlankLight = IconifyIconData.solo(
-    IconData(0xe5cf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-blank-thin`
   static const IconifyIconData smileyBlankThin = IconifyIconData.solo(
-    IconData(0xe5d0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-bold`
   static const IconifyIconData smileyBold = IconifyIconData.solo(
-    IconData(0xe5d1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05d1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-duotone` (duo-tone)
   static const IconifyIconData smileyDuotone = IconifyIconData.duo(
-    IconData(0xe5d2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5d2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05d2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-fill`
   static const IconifyIconData smileyFill = IconifyIconData.solo(
-    IconData(0xe5d3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-light`
   static const IconifyIconData smileyLight = IconifyIconData.solo(
-    IconData(0xe5d4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-meh`
   static const IconifyIconData smileyMeh = IconifyIconData.solo(
-    IconData(0xe5d5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05d5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-meh-bold`
   static const IconifyIconData smileyMehBold = IconifyIconData.solo(
-    IconData(0xe5d6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05d6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-meh-duotone` (duo-tone)
   static const IconifyIconData smileyMehDuotone = IconifyIconData.duo(
-    IconData(0xe5d7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5d7, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05d7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-meh-fill`
   static const IconifyIconData smileyMehFill = IconifyIconData.solo(
-    IconData(0xe5d8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05d8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-meh-light`
   static const IconifyIconData smileyMehLight = IconifyIconData.solo(
-    IconData(0xe5d9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05d9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-meh-thin`
   static const IconifyIconData smileyMehThin = IconifyIconData.solo(
-    IconData(0xe5da, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05da, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-melting`
   static const IconifyIconData smileyMelting = IconifyIconData.solo(
-    IconData(0xe5db, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-melting-bold`
   static const IconifyIconData smileyMeltingBold = IconifyIconData.solo(
-    IconData(0xe5dc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-melting-duotone` (duo-tone)
   static const IconifyIconData smileyMeltingDuotone = IconifyIconData.duo(
-    IconData(0xe5dd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5dd, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05dd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-melting-fill`
   static const IconifyIconData smileyMeltingFill = IconifyIconData.solo(
-    IconData(0xe5de, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05de, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-melting-light`
   static const IconifyIconData smileyMeltingLight = IconifyIconData.solo(
-    IconData(0xe5df, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05df, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-melting-thin`
   static const IconifyIconData smileyMeltingThin = IconifyIconData.solo(
-    IconData(0xe5e0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05e0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-nervous`
   static const IconifyIconData smileyNervous = IconifyIconData.solo(
-    IconData(0xe5e1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-nervous-bold`
   static const IconifyIconData smileyNervousBold = IconifyIconData.solo(
-    IconData(0xe5e2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-nervous-duotone` (duo-tone)
   static const IconifyIconData smileyNervousDuotone = IconifyIconData.duo(
-    IconData(0xe5e3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5e3, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05e3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-nervous-fill`
   static const IconifyIconData smileyNervousFill = IconifyIconData.solo(
-    IconData(0xe5e4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-nervous-light`
   static const IconifyIconData smileyNervousLight = IconifyIconData.solo(
-    IconData(0xe5e5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05e5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-nervous-thin`
   static const IconifyIconData smileyNervousThin = IconifyIconData.solo(
-    IconData(0xe5e6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sad`
   static const IconifyIconData smileySad = IconifyIconData.solo(
-    IconData(0xe5e7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sad-bold`
   static const IconifyIconData smileySadBold = IconifyIconData.solo(
-    IconData(0xe5e8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sad-duotone` (duo-tone)
   static const IconifyIconData smileySadDuotone = IconifyIconData.duo(
-    IconData(0xe5e9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5e9, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05e9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05e9, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sad-fill`
   static const IconifyIconData smileySadFill = IconifyIconData.solo(
-    IconData(0xe5ea, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sad-light`
   static const IconifyIconData smileySadLight = IconifyIconData.solo(
-    IconData(0xe5eb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sad-thin`
   static const IconifyIconData smileySadThin = IconifyIconData.solo(
-    IconData(0xe5ec, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sticker`
   static const IconifyIconData smileySticker = IconifyIconData.solo(
-    IconData(0xe5ed, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sticker-bold`
   static const IconifyIconData smileyStickerBold = IconifyIconData.solo(
-    IconData(0xe5ee, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sticker-duotone` (duo-tone)
   static const IconifyIconData smileyStickerDuotone = IconifyIconData.duo(
-    IconData(0xe5ef, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5ef, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ef, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sticker-fill`
   static const IconifyIconData smileyStickerFill = IconifyIconData.solo(
-    IconData(0xe5f0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sticker-light`
   static const IconifyIconData smileyStickerLight = IconifyIconData.solo(
-    IconData(0xe5f1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05f1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-sticker-thin`
   static const IconifyIconData smileyStickerThin = IconifyIconData.solo(
-    IconData(0xe5f2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05f2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-thin`
   static const IconifyIconData smileyThin = IconifyIconData.solo(
-    IconData(0xe5f3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-wink`
   static const IconifyIconData smileyWink = IconifyIconData.solo(
-    IconData(0xe5f4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-wink-bold`
   static const IconifyIconData smileyWinkBold = IconifyIconData.solo(
-    IconData(0xe5f5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-wink-duotone` (duo-tone)
   static const IconifyIconData smileyWinkDuotone = IconifyIconData.duo(
-    IconData(0xe5f6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5f6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05f6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-wink-fill`
   static const IconifyIconData smileyWinkFill = IconifyIconData.solo(
-    IconData(0xe5f7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05f7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-wink-light`
   static const IconifyIconData smileyWinkLight = IconifyIconData.solo(
-    IconData(0xe5f8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05f8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-wink-thin`
   static const IconifyIconData smileyWinkThin = IconifyIconData.solo(
-    IconData(0xe5f9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-x-eyes`
   static const IconifyIconData smileyXEyes = IconifyIconData.solo(
-    IconData(0xe5fa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-x-eyes-bold`
   static const IconifyIconData smileyXEyesBold = IconifyIconData.solo(
-    IconData(0xe5fb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-x-eyes-duotone` (duo-tone)
   static const IconifyIconData smileyXEyesDuotone = IconifyIconData.duo(
-    IconData(0xe5fc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe5fc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05fc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-x-eyes-fill`
   static const IconifyIconData smileyXEyesFill = IconifyIconData.solo(
-    IconData(0xe5fd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-x-eyes-light`
   static const IconifyIconData smileyXEyesLight = IconifyIconData.solo(
-    IconData(0xe5fe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05fe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `smiley-x-eyes-thin`
   static const IconifyIconData smileyXEyesThin = IconifyIconData.solo(
-    IconData(0xe5ff, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf05ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `snapchat-logo`
   static const IconifyIconData snapchatLogo = IconifyIconData.solo(
-    IconData(0xe600, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0600, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `snapchat-logo-bold`
   static const IconifyIconData snapchatLogoBold = IconifyIconData.solo(
-    IconData(0xe601, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0601, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `snapchat-logo-duotone` (duo-tone)
   static const IconifyIconData snapchatLogoDuotone = IconifyIconData.duo(
-    IconData(0xe602, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe602, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0602, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0602, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `snapchat-logo-fill`
   static const IconifyIconData snapchatLogoFill = IconifyIconData.solo(
-    IconData(0xe603, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0603, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `snapchat-logo-light`
   static const IconifyIconData snapchatLogoLight = IconifyIconData.solo(
-    IconData(0xe604, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0604, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `snapchat-logo-thin`
   static const IconifyIconData snapchatLogoThin = IconifyIconData.solo(
-    IconData(0xe605, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0605, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sneaker`
   static const IconifyIconData sneaker = IconifyIconData.solo(
-    IconData(0xe606, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0606, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sneaker-bold`
   static const IconifyIconData sneakerBold = IconifyIconData.solo(
-    IconData(0xe607, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0607, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sneaker-duotone` (duo-tone)
   static const IconifyIconData sneakerDuotone = IconifyIconData.duo(
-    IconData(0xe608, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe608, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0608, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0608, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sneaker-fill`
   static const IconifyIconData sneakerFill = IconifyIconData.solo(
-    IconData(0xe609, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0609, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sneaker-light`
   static const IconifyIconData sneakerLight = IconifyIconData.solo(
-    IconData(0xe60a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf060a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sneaker-move`
   static const IconifyIconData sneakerMove = IconifyIconData.solo(
-    IconData(0xe60b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf060b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sneaker-move-bold`
   static const IconifyIconData sneakerMoveBold = IconifyIconData.solo(
-    IconData(0xe60c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf060c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sneaker-move-duotone` (duo-tone)
   static const IconifyIconData sneakerMoveDuotone = IconifyIconData.duo(
-    IconData(0xe60d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe60d, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf060d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf060d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sneaker-move-fill`
   static const IconifyIconData sneakerMoveFill = IconifyIconData.solo(
-    IconData(0xe60e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf060e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sneaker-move-light`
   static const IconifyIconData sneakerMoveLight = IconifyIconData.solo(
-    IconData(0xe60f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf060f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sneaker-move-thin`
   static const IconifyIconData sneakerMoveThin = IconifyIconData.solo(
-    IconData(0xe610, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0610, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sneaker-thin`
   static const IconifyIconData sneakerThin = IconifyIconData.solo(
-    IconData(0xe611, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0611, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `snowflake`
   static const IconifyIconData snowflake = IconifyIconData.solo(
-    IconData(0xe612, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0612, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `snowflake-bold`
   static const IconifyIconData snowflakeBold = IconifyIconData.solo(
-    IconData(0xe613, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0613, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `snowflake-duotone` (duo-tone)
   static const IconifyIconData snowflakeDuotone = IconifyIconData.duo(
-    IconData(0xe614, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe614, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0614, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0614, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `snowflake-fill`
   static const IconifyIconData snowflakeFill = IconifyIconData.solo(
-    IconData(0xe615, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0615, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `snowflake-light`
   static const IconifyIconData snowflakeLight = IconifyIconData.solo(
-    IconData(0xe616, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0616, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `snowflake-thin`
   static const IconifyIconData snowflakeThin = IconifyIconData.solo(
-    IconData(0xe617, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0617, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `soccer-ball`
   static const IconifyIconData soccerBall = IconifyIconData.solo(
-    IconData(0xe618, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0618, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `soccer-ball-bold`
   static const IconifyIconData soccerBallBold = IconifyIconData.solo(
-    IconData(0xe619, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0619, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `soccer-ball-duotone` (duo-tone)
   static const IconifyIconData soccerBallDuotone = IconifyIconData.duo(
-    IconData(0xe61a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe61a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf061a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf061a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `soccer-ball-fill`
   static const IconifyIconData soccerBallFill = IconifyIconData.solo(
-    IconData(0xe61b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf061b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `soccer-ball-light`
   static const IconifyIconData soccerBallLight = IconifyIconData.solo(
-    IconData(0xe61c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf061c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `soccer-ball-thin`
   static const IconifyIconData soccerBallThin = IconifyIconData.solo(
-    IconData(0xe61d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf061d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sock`
   static const IconifyIconData sock = IconifyIconData.solo(
-    IconData(0xe61e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf061e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sock-bold`
   static const IconifyIconData sockBold = IconifyIconData.solo(
-    IconData(0xe61f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf061f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sock-duotone` (duo-tone)
   static const IconifyIconData sockDuotone = IconifyIconData.duo(
-    IconData(0xe620, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe620, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0620, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0620, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sock-fill`
   static const IconifyIconData sockFill = IconifyIconData.solo(
-    IconData(0xe621, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0621, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sock-light`
   static const IconifyIconData sockLight = IconifyIconData.solo(
-    IconData(0xe622, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0622, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sock-thin`
   static const IconifyIconData sockThin = IconifyIconData.solo(
-    IconData(0xe623, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0623, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `solar-panel`
   static const IconifyIconData solarPanel = IconifyIconData.solo(
-    IconData(0xe624, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0624, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `solar-panel-bold`
   static const IconifyIconData solarPanelBold = IconifyIconData.solo(
-    IconData(0xe625, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0625, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `solar-panel-duotone` (duo-tone)
   static const IconifyIconData solarPanelDuotone = IconifyIconData.duo(
-    IconData(0xe626, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe626, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0626, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0626, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `solar-panel-fill`
   static const IconifyIconData solarPanelFill = IconifyIconData.solo(
-    IconData(0xe627, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0627, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `solar-panel-light`
   static const IconifyIconData solarPanelLight = IconifyIconData.solo(
-    IconData(0xe628, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0628, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `solar-panel-thin`
   static const IconifyIconData solarPanelThin = IconifyIconData.solo(
-    IconData(0xe629, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0629, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `solar-roof`
   static const IconifyIconData solarRoof = IconifyIconData.solo(
-    IconData(0xe62a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf062a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `solar-roof-bold`
   static const IconifyIconData solarRoofBold = IconifyIconData.solo(
-    IconData(0xe62b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf062b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `solar-roof-duotone` (duo-tone)
   static const IconifyIconData solarRoofDuotone = IconifyIconData.duo(
-    IconData(0xe62c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe62c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf062c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf062c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `solar-roof-fill`
   static const IconifyIconData solarRoofFill = IconifyIconData.solo(
-    IconData(0xe62d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf062d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `solar-roof-light`
   static const IconifyIconData solarRoofLight = IconifyIconData.solo(
-    IconData(0xe62e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf062e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `solar-roof-thin`
   static const IconifyIconData solarRoofThin = IconifyIconData.solo(
-    IconData(0xe62f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf062f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sort-ascending`
   static const IconifyIconData sortAscending = IconifyIconData.solo(
-    IconData(0xe630, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0630, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sort-ascending-bold`
   static const IconifyIconData sortAscendingBold = IconifyIconData.solo(
-    IconData(0xe631, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0631, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sort-ascending-duotone` (duo-tone)
   static const IconifyIconData sortAscendingDuotone = IconifyIconData.duo(
-    IconData(0xe632, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe632, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0632, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0632, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sort-ascending-fill`
   static const IconifyIconData sortAscendingFill = IconifyIconData.solo(
-    IconData(0xe633, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0633, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sort-ascending-light`
   static const IconifyIconData sortAscendingLight = IconifyIconData.solo(
-    IconData(0xe634, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0634, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sort-ascending-thin`
   static const IconifyIconData sortAscendingThin = IconifyIconData.solo(
-    IconData(0xe635, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0635, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sort-descending`
   static const IconifyIconData sortDescending = IconifyIconData.solo(
-    IconData(0xe636, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0636, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sort-descending-bold`
   static const IconifyIconData sortDescendingBold = IconifyIconData.solo(
-    IconData(0xe637, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0637, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sort-descending-duotone` (duo-tone)
   static const IconifyIconData sortDescendingDuotone = IconifyIconData.duo(
-    IconData(0xe638, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe638, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0638, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0638, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sort-descending-fill`
   static const IconifyIconData sortDescendingFill = IconifyIconData.solo(
-    IconData(0xe639, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0639, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sort-descending-light`
   static const IconifyIconData sortDescendingLight = IconifyIconData.solo(
-    IconData(0xe63a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf063a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sort-descending-thin`
   static const IconifyIconData sortDescendingThin = IconifyIconData.solo(
-    IconData(0xe63b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf063b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `soundcloud-logo`
   static const IconifyIconData soundcloudLogo = IconifyIconData.solo(
-    IconData(0xe63c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf063c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `soundcloud-logo-bold`
   static const IconifyIconData soundcloudLogoBold = IconifyIconData.solo(
-    IconData(0xe63d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf063d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `soundcloud-logo-duotone` (duo-tone)
   static const IconifyIconData soundcloudLogoDuotone = IconifyIconData.duo(
-    IconData(0xe63e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe63e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf063e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf063e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `soundcloud-logo-fill`
   static const IconifyIconData soundcloudLogoFill = IconifyIconData.solo(
-    IconData(0xe63f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf063f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `soundcloud-logo-light`
   static const IconifyIconData soundcloudLogoLight = IconifyIconData.solo(
-    IconData(0xe640, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0640, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `soundcloud-logo-thin`
   static const IconifyIconData soundcloudLogoThin = IconifyIconData.solo(
-    IconData(0xe641, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0641, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spade`
   static const IconifyIconData spade = IconifyIconData.solo(
-    IconData(0xe642, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0642, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spade-bold`
   static const IconifyIconData spadeBold = IconifyIconData.solo(
-    IconData(0xe643, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0643, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spade-duotone` (duo-tone)
   static const IconifyIconData spadeDuotone = IconifyIconData.duo(
-    IconData(0xe644, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe644, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0644, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0644, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spade-fill`
   static const IconifyIconData spadeFill = IconifyIconData.solo(
-    IconData(0xe645, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0645, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spade-light`
   static const IconifyIconData spadeLight = IconifyIconData.solo(
-    IconData(0xe646, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0646, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spade-thin`
   static const IconifyIconData spadeThin = IconifyIconData.solo(
-    IconData(0xe647, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0647, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sparkle`
   static const IconifyIconData sparkle = IconifyIconData.solo(
-    IconData(0xe648, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0648, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sparkle-bold`
   static const IconifyIconData sparkleBold = IconifyIconData.solo(
-    IconData(0xe649, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0649, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sparkle-duotone` (duo-tone)
   static const IconifyIconData sparkleDuotone = IconifyIconData.duo(
-    IconData(0xe64a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe64a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf064a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf064a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sparkle-fill`
   static const IconifyIconData sparkleFill = IconifyIconData.solo(
-    IconData(0xe64b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf064b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sparkle-light`
   static const IconifyIconData sparkleLight = IconifyIconData.solo(
-    IconData(0xe64c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf064c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sparkle-thin`
   static const IconifyIconData sparkleThin = IconifyIconData.solo(
-    IconData(0xe64d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf064d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-hifi`
   static const IconifyIconData speakerHifi = IconifyIconData.solo(
-    IconData(0xe64e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf064e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-hifi-bold`
   static const IconifyIconData speakerHifiBold = IconifyIconData.solo(
-    IconData(0xe64f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf064f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-hifi-duotone` (duo-tone)
   static const IconifyIconData speakerHifiDuotone = IconifyIconData.duo(
-    IconData(0xe650, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe650, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0650, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0650, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-hifi-fill`
   static const IconifyIconData speakerHifiFill = IconifyIconData.solo(
-    IconData(0xe651, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0651, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-hifi-light`
   static const IconifyIconData speakerHifiLight = IconifyIconData.solo(
-    IconData(0xe652, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0652, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-hifi-thin`
   static const IconifyIconData speakerHifiThin = IconifyIconData.solo(
-    IconData(0xe653, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0653, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-high`
   static const IconifyIconData speakerHigh = IconifyIconData.solo(
-    IconData(0xe654, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0654, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-high-bold`
   static const IconifyIconData speakerHighBold = IconifyIconData.solo(
-    IconData(0xe655, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0655, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-high-duotone` (duo-tone)
   static const IconifyIconData speakerHighDuotone = IconifyIconData.duo(
-    IconData(0xe656, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe656, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0656, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0656, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-high-fill`
   static const IconifyIconData speakerHighFill = IconifyIconData.solo(
-    IconData(0xe657, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0657, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-high-light`
   static const IconifyIconData speakerHighLight = IconifyIconData.solo(
-    IconData(0xe658, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0658, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-high-thin`
   static const IconifyIconData speakerHighThin = IconifyIconData.solo(
-    IconData(0xe659, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0659, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-low`
   static const IconifyIconData speakerLow = IconifyIconData.solo(
-    IconData(0xe65a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf065a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-low-bold`
   static const IconifyIconData speakerLowBold = IconifyIconData.solo(
-    IconData(0xe65b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf065b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-low-duotone` (duo-tone)
   static const IconifyIconData speakerLowDuotone = IconifyIconData.duo(
-    IconData(0xe65c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe65c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf065c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf065c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-low-fill`
   static const IconifyIconData speakerLowFill = IconifyIconData.solo(
-    IconData(0xe65d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf065d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-low-light`
   static const IconifyIconData speakerLowLight = IconifyIconData.solo(
-    IconData(0xe65e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf065e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-low-thin`
   static const IconifyIconData speakerLowThin = IconifyIconData.solo(
-    IconData(0xe65f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf065f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-none`
   static const IconifyIconData speakerNone = IconifyIconData.solo(
-    IconData(0xe660, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0660, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-none-bold`
   static const IconifyIconData speakerNoneBold = IconifyIconData.solo(
-    IconData(0xe661, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0661, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-none-duotone` (duo-tone)
   static const IconifyIconData speakerNoneDuotone = IconifyIconData.duo(
-    IconData(0xe662, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe662, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0662, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0662, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-none-fill`
   static const IconifyIconData speakerNoneFill = IconifyIconData.solo(
-    IconData(0xe663, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0663, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-none-light`
   static const IconifyIconData speakerNoneLight = IconifyIconData.solo(
-    IconData(0xe664, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0664, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-none-thin`
   static const IconifyIconData speakerNoneThin = IconifyIconData.solo(
-    IconData(0xe665, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0665, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-high`
   static const IconifyIconData speakerSimpleHigh = IconifyIconData.solo(
-    IconData(0xe666, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0666, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-high-bold`
   static const IconifyIconData speakerSimpleHighBold = IconifyIconData.solo(
-    IconData(0xe667, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0667, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-high-duotone` (duo-tone)
   static const IconifyIconData speakerSimpleHighDuotone = IconifyIconData.duo(
-    IconData(0xe668, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe668, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0668, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0668, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-high-fill`
   static const IconifyIconData speakerSimpleHighFill = IconifyIconData.solo(
-    IconData(0xe669, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0669, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-high-light`
   static const IconifyIconData speakerSimpleHighLight = IconifyIconData.solo(
-    IconData(0xe66a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf066a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-high-thin`
   static const IconifyIconData speakerSimpleHighThin = IconifyIconData.solo(
-    IconData(0xe66b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf066b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-low`
   static const IconifyIconData speakerSimpleLow = IconifyIconData.solo(
-    IconData(0xe66c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf066c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-low-bold`
   static const IconifyIconData speakerSimpleLowBold = IconifyIconData.solo(
-    IconData(0xe66d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf066d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-low-duotone` (duo-tone)
   static const IconifyIconData speakerSimpleLowDuotone = IconifyIconData.duo(
-    IconData(0xe66e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe66e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf066e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf066e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-low-fill`
   static const IconifyIconData speakerSimpleLowFill = IconifyIconData.solo(
-    IconData(0xe66f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf066f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-low-light`
   static const IconifyIconData speakerSimpleLowLight = IconifyIconData.solo(
-    IconData(0xe670, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0670, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-low-thin`
   static const IconifyIconData speakerSimpleLowThin = IconifyIconData.solo(
-    IconData(0xe671, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0671, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-none`
   static const IconifyIconData speakerSimpleNone = IconifyIconData.solo(
-    IconData(0xe672, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0672, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-none-bold`
   static const IconifyIconData speakerSimpleNoneBold = IconifyIconData.solo(
-    IconData(0xe673, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0673, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-none-duotone` (duo-tone)
   static const IconifyIconData speakerSimpleNoneDuotone = IconifyIconData.duo(
-    IconData(0xe674, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe674, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0674, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0674, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-none-fill`
   static const IconifyIconData speakerSimpleNoneFill = IconifyIconData.solo(
-    IconData(0xe675, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0675, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-none-light`
   static const IconifyIconData speakerSimpleNoneLight = IconifyIconData.solo(
-    IconData(0xe676, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0676, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-none-thin`
   static const IconifyIconData speakerSimpleNoneThin = IconifyIconData.solo(
-    IconData(0xe677, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0677, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-slash`
   static const IconifyIconData speakerSimpleSlash = IconifyIconData.solo(
-    IconData(0xe678, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0678, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-slash-bold`
   static const IconifyIconData speakerSimpleSlashBold = IconifyIconData.solo(
-    IconData(0xe679, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0679, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-slash-duotone` (duo-tone)
   static const IconifyIconData speakerSimpleSlashDuotone = IconifyIconData.duo(
-    IconData(0xe67a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe67a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf067a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf067a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-slash-fill`
   static const IconifyIconData speakerSimpleSlashFill = IconifyIconData.solo(
-    IconData(0xe67b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf067b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-slash-light`
   static const IconifyIconData speakerSimpleSlashLight = IconifyIconData.solo(
-    IconData(0xe67c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf067c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-slash-thin`
   static const IconifyIconData speakerSimpleSlashThin = IconifyIconData.solo(
-    IconData(0xe67d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf067d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-x`
   static const IconifyIconData speakerSimpleX = IconifyIconData.solo(
-    IconData(0xe67e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf067e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-x-bold`
   static const IconifyIconData speakerSimpleXBold = IconifyIconData.solo(
-    IconData(0xe67f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf067f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-x-duotone` (duo-tone)
   static const IconifyIconData speakerSimpleXDuotone = IconifyIconData.duo(
-    IconData(0xe680, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe680, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0680, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0680, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-x-fill`
   static const IconifyIconData speakerSimpleXFill = IconifyIconData.solo(
-    IconData(0xe681, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0681, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-x-light`
   static const IconifyIconData speakerSimpleXLight = IconifyIconData.solo(
-    IconData(0xe682, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0682, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-simple-x-thin`
   static const IconifyIconData speakerSimpleXThin = IconifyIconData.solo(
-    IconData(0xe683, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0683, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-slash`
   static const IconifyIconData speakerSlash = IconifyIconData.solo(
-    IconData(0xe684, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0684, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-slash-bold`
   static const IconifyIconData speakerSlashBold = IconifyIconData.solo(
-    IconData(0xe685, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0685, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-slash-duotone` (duo-tone)
   static const IconifyIconData speakerSlashDuotone = IconifyIconData.duo(
-    IconData(0xe686, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe686, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0686, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0686, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-slash-fill`
   static const IconifyIconData speakerSlashFill = IconifyIconData.solo(
-    IconData(0xe687, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0687, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-slash-light`
   static const IconifyIconData speakerSlashLight = IconifyIconData.solo(
-    IconData(0xe688, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0688, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-slash-thin`
   static const IconifyIconData speakerSlashThin = IconifyIconData.solo(
-    IconData(0xe689, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0689, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-x`
   static const IconifyIconData speakerX = IconifyIconData.solo(
-    IconData(0xe68a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf068a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-x-bold`
   static const IconifyIconData speakerXBold = IconifyIconData.solo(
-    IconData(0xe68b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf068b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-x-duotone` (duo-tone)
   static const IconifyIconData speakerXDuotone = IconifyIconData.duo(
-    IconData(0xe68c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe68c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf068c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf068c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-x-fill`
   static const IconifyIconData speakerXFill = IconifyIconData.solo(
-    IconData(0xe68d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf068d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-x-light`
   static const IconifyIconData speakerXLight = IconifyIconData.solo(
-    IconData(0xe68e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf068e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speaker-x-thin`
   static const IconifyIconData speakerXThin = IconifyIconData.solo(
-    IconData(0xe68f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf068f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speedometer`
   static const IconifyIconData speedometer = IconifyIconData.solo(
-    IconData(0xe690, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0690, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speedometer-bold`
   static const IconifyIconData speedometerBold = IconifyIconData.solo(
-    IconData(0xe691, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0691, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speedometer-duotone` (duo-tone)
   static const IconifyIconData speedometerDuotone = IconifyIconData.duo(
-    IconData(0xe692, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe692, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0692, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0692, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speedometer-fill`
   static const IconifyIconData speedometerFill = IconifyIconData.solo(
-    IconData(0xe693, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0693, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speedometer-light`
   static const IconifyIconData speedometerLight = IconifyIconData.solo(
-    IconData(0xe694, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0694, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `speedometer-thin`
   static const IconifyIconData speedometerThin = IconifyIconData.solo(
-    IconData(0xe695, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0695, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sphere`
   static const IconifyIconData sphere = IconifyIconData.solo(
-    IconData(0xe696, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0696, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sphere-bold`
   static const IconifyIconData sphereBold = IconifyIconData.solo(
-    IconData(0xe697, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0697, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sphere-duotone` (duo-tone)
   static const IconifyIconData sphereDuotone = IconifyIconData.duo(
-    IconData(0xe698, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe698, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0698, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0698, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sphere-fill`
   static const IconifyIconData sphereFill = IconifyIconData.solo(
-    IconData(0xe699, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0699, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sphere-light`
   static const IconifyIconData sphereLight = IconifyIconData.solo(
-    IconData(0xe69a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf069a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sphere-thin`
   static const IconifyIconData sphereThin = IconifyIconData.solo(
-    IconData(0xe69b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf069b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner`
   static const IconifyIconData spinner = IconifyIconData.solo(
-    IconData(0xe69c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf069c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-ball`
   static const IconifyIconData spinnerBall = IconifyIconData.solo(
-    IconData(0xe69d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf069d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-ball-bold`
   static const IconifyIconData spinnerBallBold = IconifyIconData.solo(
-    IconData(0xe69e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf069e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-ball-duotone` (duo-tone)
   static const IconifyIconData spinnerBallDuotone = IconifyIconData.duo(
-    IconData(0xe69f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe69f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf069f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf069f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-ball-fill`
   static const IconifyIconData spinnerBallFill = IconifyIconData.solo(
-    IconData(0xe6a0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-ball-light`
   static const IconifyIconData spinnerBallLight = IconifyIconData.solo(
-    IconData(0xe6a1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06a1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-ball-thin`
   static const IconifyIconData spinnerBallThin = IconifyIconData.solo(
-    IconData(0xe6a2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-bold`
   static const IconifyIconData spinnerBold = IconifyIconData.solo(
-    IconData(0xe6a3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06a3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-duotone` (duo-tone)
   static const IconifyIconData spinnerDuotone = IconifyIconData.duo(
-    IconData(0xe6a4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6a4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06a4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-fill`
   static const IconifyIconData spinnerFill = IconifyIconData.solo(
-    IconData(0xe6a5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-gap`
   static const IconifyIconData spinnerGap = IconifyIconData.solo(
-    IconData(0xe6a6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-gap-bold`
   static const IconifyIconData spinnerGapBold = IconifyIconData.solo(
-    IconData(0xe6a7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-gap-duotone` (duo-tone)
   static const IconifyIconData spinnerGapDuotone = IconifyIconData.duo(
-    IconData(0xe6a8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6a8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06a8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-gap-fill`
   static const IconifyIconData spinnerGapFill = IconifyIconData.solo(
-    IconData(0xe6a9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-gap-light`
   static const IconifyIconData spinnerGapLight = IconifyIconData.solo(
-    IconData(0xe6aa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-gap-thin`
   static const IconifyIconData spinnerGapThin = IconifyIconData.solo(
-    IconData(0xe6ab, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-light`
   static const IconifyIconData spinnerLight = IconifyIconData.solo(
-    IconData(0xe6ac, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spinner-thin`
   static const IconifyIconData spinnerThin = IconifyIconData.solo(
-    IconData(0xe6ad, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spiral`
   static const IconifyIconData spiral = IconifyIconData.solo(
-    IconData(0xe6ae, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spiral-bold`
   static const IconifyIconData spiralBold = IconifyIconData.solo(
-    IconData(0xe6af, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06af, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spiral-duotone` (duo-tone)
   static const IconifyIconData spiralDuotone = IconifyIconData.duo(
-    IconData(0xe6b0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6b0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06b0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06b0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spiral-fill`
   static const IconifyIconData spiralFill = IconifyIconData.solo(
-    IconData(0xe6b1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06b1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spiral-light`
   static const IconifyIconData spiralLight = IconifyIconData.solo(
-    IconData(0xe6b2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06b2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spiral-thin`
   static const IconifyIconData spiralThin = IconifyIconData.solo(
-    IconData(0xe6b3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06b3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `split-horizontal`
   static const IconifyIconData splitHorizontal = IconifyIconData.solo(
-    IconData(0xe6b4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06b4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `split-horizontal-bold`
   static const IconifyIconData splitHorizontalBold = IconifyIconData.solo(
-    IconData(0xe6b5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06b5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `split-horizontal-duotone` (duo-tone)
   static const IconifyIconData splitHorizontalDuotone = IconifyIconData.duo(
-    IconData(0xe6b6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6b6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06b6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06b6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `split-horizontal-fill`
   static const IconifyIconData splitHorizontalFill = IconifyIconData.solo(
-    IconData(0xe6b7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06b7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `split-horizontal-light`
   static const IconifyIconData splitHorizontalLight = IconifyIconData.solo(
-    IconData(0xe6b8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06b8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `split-horizontal-thin`
   static const IconifyIconData splitHorizontalThin = IconifyIconData.solo(
-    IconData(0xe6b9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06b9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `split-vertical`
   static const IconifyIconData splitVertical = IconifyIconData.solo(
-    IconData(0xe6ba, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `split-vertical-bold`
   static const IconifyIconData splitVerticalBold = IconifyIconData.solo(
-    IconData(0xe6bb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `split-vertical-duotone` (duo-tone)
   static const IconifyIconData splitVerticalDuotone = IconifyIconData.duo(
-    IconData(0xe6bc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6bc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06bc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `split-vertical-fill`
   static const IconifyIconData splitVerticalFill = IconifyIconData.solo(
-    IconData(0xe6bd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06bd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `split-vertical-light`
   static const IconifyIconData splitVerticalLight = IconifyIconData.solo(
-    IconData(0xe6be, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06be, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `split-vertical-thin`
   static const IconifyIconData splitVerticalThin = IconifyIconData.solo(
-    IconData(0xe6bf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06bf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spotify-logo`
   static const IconifyIconData spotifyLogo = IconifyIconData.solo(
-    IconData(0xe6c0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06c0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spotify-logo-bold`
   static const IconifyIconData spotifyLogoBold = IconifyIconData.solo(
-    IconData(0xe6c1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spotify-logo-duotone` (duo-tone)
   static const IconifyIconData spotifyLogoDuotone = IconifyIconData.duo(
-    IconData(0xe6c2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6c2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06c2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spotify-logo-fill`
   static const IconifyIconData spotifyLogoFill = IconifyIconData.solo(
-    IconData(0xe6c3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06c3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spotify-logo-light`
   static const IconifyIconData spotifyLogoLight = IconifyIconData.solo(
-    IconData(0xe6c4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06c4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spotify-logo-thin`
   static const IconifyIconData spotifyLogoThin = IconifyIconData.solo(
-    IconData(0xe6c5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06c5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spray-bottle`
   static const IconifyIconData sprayBottle = IconifyIconData.solo(
-    IconData(0xe6c6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06c6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spray-bottle-bold`
   static const IconifyIconData sprayBottleBold = IconifyIconData.solo(
-    IconData(0xe6c7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spray-bottle-duotone` (duo-tone)
   static const IconifyIconData sprayBottleDuotone = IconifyIconData.duo(
-    IconData(0xe6c8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6c8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06c8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spray-bottle-fill`
   static const IconifyIconData sprayBottleFill = IconifyIconData.solo(
-    IconData(0xe6c9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spray-bottle-light`
   static const IconifyIconData sprayBottleLight = IconifyIconData.solo(
-    IconData(0xe6ca, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `spray-bottle-thin`
   static const IconifyIconData sprayBottleThin = IconifyIconData.solo(
-    IconData(0xe6cb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square`
   static const IconifyIconData square = IconifyIconData.solo(
-    IconData(0xe6cc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-bold`
   static const IconifyIconData squareBold = IconifyIconData.solo(
-    IconData(0xe6cd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-duotone` (duo-tone)
   static const IconifyIconData squareDuotone = IconifyIconData.duo(
-    IconData(0xe6ce, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6ce, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ce, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-fill`
   static const IconifyIconData squareFill = IconifyIconData.solo(
-    IconData(0xe6cf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half`
   static const IconifyIconData squareHalf = IconifyIconData.solo(
-    IconData(0xe6d0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half-bold`
   static const IconifyIconData squareHalfBold = IconifyIconData.solo(
-    IconData(0xe6d1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06d1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half-bottom`
   static const IconifyIconData squareHalfBottom = IconifyIconData.solo(
-    IconData(0xe6d2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half-bottom-bold`
   static const IconifyIconData squareHalfBottomBold = IconifyIconData.solo(
-    IconData(0xe6d3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half-bottom-duotone` (duo-tone)
   static const IconifyIconData squareHalfBottomDuotone = IconifyIconData.duo(
-    IconData(0xe6d4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6d4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06d4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half-bottom-fill`
   static const IconifyIconData squareHalfBottomFill = IconifyIconData.solo(
-    IconData(0xe6d5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06d5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half-bottom-light`
   static const IconifyIconData squareHalfBottomLight = IconifyIconData.solo(
-    IconData(0xe6d6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06d6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half-bottom-thin`
   static const IconifyIconData squareHalfBottomThin = IconifyIconData.solo(
-    IconData(0xe6d7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half-duotone` (duo-tone)
   static const IconifyIconData squareHalfDuotone = IconifyIconData.duo(
-    IconData(0xe6d8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6d8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06d8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06d8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half-fill`
   static const IconifyIconData squareHalfFill = IconifyIconData.solo(
-    IconData(0xe6d9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06d9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half-light`
   static const IconifyIconData squareHalfLight = IconifyIconData.solo(
-    IconData(0xe6da, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06da, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-half-thin`
   static const IconifyIconData squareHalfThin = IconifyIconData.solo(
-    IconData(0xe6db, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-light`
   static const IconifyIconData squareLight = IconifyIconData.solo(
-    IconData(0xe6dc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-logo`
   static const IconifyIconData squareLogo = IconifyIconData.solo(
-    IconData(0xe6dd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-logo-bold`
   static const IconifyIconData squareLogoBold = IconifyIconData.solo(
-    IconData(0xe6de, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06de, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-logo-duotone` (duo-tone)
   static const IconifyIconData squareLogoDuotone = IconifyIconData.duo(
-    IconData(0xe6df, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6df, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06df, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06df, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-logo-fill`
   static const IconifyIconData squareLogoFill = IconifyIconData.solo(
-    IconData(0xe6e0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06e0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-logo-light`
   static const IconifyIconData squareLogoLight = IconifyIconData.solo(
-    IconData(0xe6e1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-logo-thin`
   static const IconifyIconData squareLogoThin = IconifyIconData.solo(
-    IconData(0xe6e2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-horizontal`
   static const IconifyIconData squareSplitHorizontal = IconifyIconData.solo(
-    IconData(0xe6e3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-horizontal-bold`
   static const IconifyIconData squareSplitHorizontalBold = IconifyIconData.solo(
-    IconData(0xe6e4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-horizontal-duotone` (duo-tone)
   static const IconifyIconData squareSplitHorizontalDuotone = IconifyIconData.duo(
-    IconData(0xe6e5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6e5, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06e5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06e5, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-horizontal-fill`
   static const IconifyIconData squareSplitHorizontalFill = IconifyIconData.solo(
-    IconData(0xe6e6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-horizontal-light`
   static const IconifyIconData squareSplitHorizontalLight = IconifyIconData.solo(
-    IconData(0xe6e7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-horizontal-thin`
   static const IconifyIconData squareSplitHorizontalThin = IconifyIconData.solo(
-    IconData(0xe6e8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-vertical`
   static const IconifyIconData squareSplitVertical = IconifyIconData.solo(
-    IconData(0xe6e9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06e9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-vertical-bold`
   static const IconifyIconData squareSplitVerticalBold = IconifyIconData.solo(
-    IconData(0xe6ea, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-vertical-duotone` (duo-tone)
   static const IconifyIconData squareSplitVerticalDuotone = IconifyIconData.duo(
-    IconData(0xe6eb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6eb, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06eb, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-vertical-fill`
   static const IconifyIconData squareSplitVerticalFill = IconifyIconData.solo(
-    IconData(0xe6ec, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-vertical-light`
   static const IconifyIconData squareSplitVerticalLight = IconifyIconData.solo(
-    IconData(0xe6ed, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-split-vertical-thin`
   static const IconifyIconData squareSplitVerticalThin = IconifyIconData.solo(
-    IconData(0xe6ee, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `square-thin`
   static const IconifyIconData squareThin = IconifyIconData.solo(
-    IconData(0xe6ef, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `squares-four`
   static const IconifyIconData squaresFour = IconifyIconData.solo(
-    IconData(0xe6f0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `squares-four-bold`
   static const IconifyIconData squaresFourBold = IconifyIconData.solo(
-    IconData(0xe6f1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06f1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `squares-four-duotone` (duo-tone)
   static const IconifyIconData squaresFourDuotone = IconifyIconData.duo(
-    IconData(0xe6f2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6f2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06f2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06f2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `squares-four-fill`
   static const IconifyIconData squaresFourFill = IconifyIconData.solo(
-    IconData(0xe6f3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `squares-four-light`
   static const IconifyIconData squaresFourLight = IconifyIconData.solo(
-    IconData(0xe6f4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `squares-four-thin`
   static const IconifyIconData squaresFourThin = IconifyIconData.solo(
-    IconData(0xe6f5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack`
   static const IconifyIconData stack = IconifyIconData.solo(
-    IconData(0xe6f6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-bold`
   static const IconifyIconData stackBold = IconifyIconData.solo(
-    IconData(0xe6f7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06f7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-duotone` (duo-tone)
   static const IconifyIconData stackDuotone = IconifyIconData.duo(
-    IconData(0xe6f8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6f8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06f8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06f8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-fill`
   static const IconifyIconData stackFill = IconifyIconData.solo(
-    IconData(0xe6f9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-light`
   static const IconifyIconData stackLight = IconifyIconData.solo(
-    IconData(0xe6fa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-minus`
   static const IconifyIconData stackMinus = IconifyIconData.solo(
-    IconData(0xe6fb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-minus-bold`
   static const IconifyIconData stackMinusBold = IconifyIconData.solo(
-    IconData(0xe6fc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-minus-duotone` (duo-tone)
   static const IconifyIconData stackMinusDuotone = IconifyIconData.duo(
-    IconData(0xe6fd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe6fd, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06fd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-minus-fill`
   static const IconifyIconData stackMinusFill = IconifyIconData.solo(
-    IconData(0xe6fe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06fe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-minus-light`
   static const IconifyIconData stackMinusLight = IconifyIconData.solo(
-    IconData(0xe6ff, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf06ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-minus-thin`
   static const IconifyIconData stackMinusThin = IconifyIconData.solo(
-    IconData(0xe700, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0700, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-overflow-logo`
   static const IconifyIconData stackOverflowLogo = IconifyIconData.solo(
-    IconData(0xe701, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0701, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-overflow-logo-bold`
   static const IconifyIconData stackOverflowLogoBold = IconifyIconData.solo(
-    IconData(0xe702, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0702, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-overflow-logo-duotone` (duo-tone)
   static const IconifyIconData stackOverflowLogoDuotone = IconifyIconData.duo(
-    IconData(0xe703, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe703, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0703, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0703, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-overflow-logo-fill`
   static const IconifyIconData stackOverflowLogoFill = IconifyIconData.solo(
-    IconData(0xe704, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0704, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-overflow-logo-light`
   static const IconifyIconData stackOverflowLogoLight = IconifyIconData.solo(
-    IconData(0xe705, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0705, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-overflow-logo-thin`
   static const IconifyIconData stackOverflowLogoThin = IconifyIconData.solo(
-    IconData(0xe706, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0706, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-plus`
   static const IconifyIconData stackPlus = IconifyIconData.solo(
-    IconData(0xe707, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0707, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-plus-bold`
   static const IconifyIconData stackPlusBold = IconifyIconData.solo(
-    IconData(0xe708, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0708, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-plus-duotone` (duo-tone)
   static const IconifyIconData stackPlusDuotone = IconifyIconData.duo(
-    IconData(0xe709, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe709, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0709, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0709, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-plus-fill`
   static const IconifyIconData stackPlusFill = IconifyIconData.solo(
-    IconData(0xe70a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf070a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-plus-light`
   static const IconifyIconData stackPlusLight = IconifyIconData.solo(
-    IconData(0xe70b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf070b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-plus-thin`
   static const IconifyIconData stackPlusThin = IconifyIconData.solo(
-    IconData(0xe70c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf070c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-simple`
   static const IconifyIconData stackSimple = IconifyIconData.solo(
-    IconData(0xe70d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf070d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-simple-bold`
   static const IconifyIconData stackSimpleBold = IconifyIconData.solo(
-    IconData(0xe70e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf070e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-simple-duotone` (duo-tone)
   static const IconifyIconData stackSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe70f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe70f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf070f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf070f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-simple-fill`
   static const IconifyIconData stackSimpleFill = IconifyIconData.solo(
-    IconData(0xe710, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0710, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-simple-light`
   static const IconifyIconData stackSimpleLight = IconifyIconData.solo(
-    IconData(0xe711, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0711, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-simple-thin`
   static const IconifyIconData stackSimpleThin = IconifyIconData.solo(
-    IconData(0xe712, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0712, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stack-thin`
   static const IconifyIconData stackThin = IconifyIconData.solo(
-    IconData(0xe713, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0713, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stairs`
   static const IconifyIconData stairs = IconifyIconData.solo(
-    IconData(0xe714, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0714, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stairs-bold`
   static const IconifyIconData stairsBold = IconifyIconData.solo(
-    IconData(0xe715, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0715, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stairs-duotone` (duo-tone)
   static const IconifyIconData stairsDuotone = IconifyIconData.duo(
-    IconData(0xe716, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe716, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0716, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0716, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stairs-fill`
   static const IconifyIconData stairsFill = IconifyIconData.solo(
-    IconData(0xe717, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0717, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stairs-light`
   static const IconifyIconData stairsLight = IconifyIconData.solo(
-    IconData(0xe718, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0718, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stairs-thin`
   static const IconifyIconData stairsThin = IconifyIconData.solo(
-    IconData(0xe719, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0719, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stamp`
   static const IconifyIconData stamp = IconifyIconData.solo(
-    IconData(0xe71a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf071a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stamp-bold`
   static const IconifyIconData stampBold = IconifyIconData.solo(
-    IconData(0xe71b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf071b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stamp-duotone` (duo-tone)
   static const IconifyIconData stampDuotone = IconifyIconData.duo(
-    IconData(0xe71c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe71c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf071c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf071c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stamp-fill`
   static const IconifyIconData stampFill = IconifyIconData.solo(
-    IconData(0xe71d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf071d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stamp-light`
   static const IconifyIconData stampLight = IconifyIconData.solo(
-    IconData(0xe71e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf071e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stamp-thin`
   static const IconifyIconData stampThin = IconifyIconData.solo(
-    IconData(0xe71f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf071f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `standard-definition`
   static const IconifyIconData standardDefinition = IconifyIconData.solo(
-    IconData(0xe720, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0720, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `standard-definition-bold`
   static const IconifyIconData standardDefinitionBold = IconifyIconData.solo(
-    IconData(0xe721, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0721, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `standard-definition-duotone` (duo-tone)
   static const IconifyIconData standardDefinitionDuotone = IconifyIconData.duo(
-    IconData(0xe722, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe722, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0722, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0722, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `standard-definition-fill`
   static const IconifyIconData standardDefinitionFill = IconifyIconData.solo(
-    IconData(0xe723, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0723, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `standard-definition-light`
   static const IconifyIconData standardDefinitionLight = IconifyIconData.solo(
-    IconData(0xe724, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0724, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `standard-definition-thin`
   static const IconifyIconData standardDefinitionThin = IconifyIconData.solo(
-    IconData(0xe725, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0725, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star`
   static const IconifyIconData star = IconifyIconData.solo(
-    IconData(0xe726, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0726, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-and-crescent`
   static const IconifyIconData starAndCrescent = IconifyIconData.solo(
-    IconData(0xe727, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0727, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-and-crescent-bold`
   static const IconifyIconData starAndCrescentBold = IconifyIconData.solo(
-    IconData(0xe728, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0728, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-and-crescent-duotone` (duo-tone)
   static const IconifyIconData starAndCrescentDuotone = IconifyIconData.duo(
-    IconData(0xe729, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe729, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0729, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0729, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-and-crescent-fill`
   static const IconifyIconData starAndCrescentFill = IconifyIconData.solo(
-    IconData(0xe72a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf072a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-and-crescent-light`
   static const IconifyIconData starAndCrescentLight = IconifyIconData.solo(
-    IconData(0xe72b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf072b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-and-crescent-thin`
   static const IconifyIconData starAndCrescentThin = IconifyIconData.solo(
-    IconData(0xe72c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf072c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-bold`
   static const IconifyIconData starBold = IconifyIconData.solo(
-    IconData(0xe72d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf072d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-duotone` (duo-tone)
   static const IconifyIconData starDuotone = IconifyIconData.duo(
-    IconData(0xe72e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe72e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf072e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf072e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-fill`
   static const IconifyIconData starFill = IconifyIconData.solo(
-    IconData(0xe72f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf072f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-four`
   static const IconifyIconData starFour = IconifyIconData.solo(
-    IconData(0xe730, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0730, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-four-bold`
   static const IconifyIconData starFourBold = IconifyIconData.solo(
-    IconData(0xe731, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0731, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-four-duotone` (duo-tone)
   static const IconifyIconData starFourDuotone = IconifyIconData.duo(
-    IconData(0xe732, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe732, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0732, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0732, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-four-fill`
   static const IconifyIconData starFourFill = IconifyIconData.solo(
-    IconData(0xe733, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0733, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-four-light`
   static const IconifyIconData starFourLight = IconifyIconData.solo(
-    IconData(0xe734, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0734, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-four-thin`
   static const IconifyIconData starFourThin = IconifyIconData.solo(
-    IconData(0xe735, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0735, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-half`
   static const IconifyIconData starHalf = IconifyIconData.solo(
-    IconData(0xe736, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0736, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-half-bold`
   static const IconifyIconData starHalfBold = IconifyIconData.solo(
-    IconData(0xe737, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0737, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-half-duotone` (duo-tone)
   static const IconifyIconData starHalfDuotone = IconifyIconData.duo(
-    IconData(0xe738, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe738, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0738, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0738, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-half-fill`
   static const IconifyIconData starHalfFill = IconifyIconData.solo(
-    IconData(0xe739, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0739, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-half-light`
   static const IconifyIconData starHalfLight = IconifyIconData.solo(
-    IconData(0xe73a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf073a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-half-thin`
   static const IconifyIconData starHalfThin = IconifyIconData.solo(
-    IconData(0xe73b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf073b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-light`
   static const IconifyIconData starLight = IconifyIconData.solo(
-    IconData(0xe73c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf073c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-of-david`
   static const IconifyIconData starOfDavid = IconifyIconData.solo(
-    IconData(0xe73d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf073d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-of-david-bold`
   static const IconifyIconData starOfDavidBold = IconifyIconData.solo(
-    IconData(0xe73e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf073e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-of-david-duotone` (duo-tone)
   static const IconifyIconData starOfDavidDuotone = IconifyIconData.duo(
-    IconData(0xe73f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe73f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf073f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf073f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-of-david-fill`
   static const IconifyIconData starOfDavidFill = IconifyIconData.solo(
-    IconData(0xe740, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0740, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-of-david-light`
   static const IconifyIconData starOfDavidLight = IconifyIconData.solo(
-    IconData(0xe741, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0741, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-of-david-thin`
   static const IconifyIconData starOfDavidThin = IconifyIconData.solo(
-    IconData(0xe742, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0742, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `star-thin`
   static const IconifyIconData starThin = IconifyIconData.solo(
-    IconData(0xe743, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0743, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steam-logo`
   static const IconifyIconData steamLogo = IconifyIconData.solo(
-    IconData(0xe744, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0744, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steam-logo-bold`
   static const IconifyIconData steamLogoBold = IconifyIconData.solo(
-    IconData(0xe745, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0745, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steam-logo-duotone` (duo-tone)
   static const IconifyIconData steamLogoDuotone = IconifyIconData.duo(
-    IconData(0xe746, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe746, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0746, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0746, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steam-logo-fill`
   static const IconifyIconData steamLogoFill = IconifyIconData.solo(
-    IconData(0xe747, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0747, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steam-logo-light`
   static const IconifyIconData steamLogoLight = IconifyIconData.solo(
-    IconData(0xe748, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0748, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steam-logo-thin`
   static const IconifyIconData steamLogoThin = IconifyIconData.solo(
-    IconData(0xe749, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0749, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steering-wheel`
   static const IconifyIconData steeringWheel = IconifyIconData.solo(
-    IconData(0xe74a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf074a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steering-wheel-bold`
   static const IconifyIconData steeringWheelBold = IconifyIconData.solo(
-    IconData(0xe74b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf074b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steering-wheel-duotone` (duo-tone)
   static const IconifyIconData steeringWheelDuotone = IconifyIconData.duo(
-    IconData(0xe74c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe74c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf074c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf074c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steering-wheel-fill`
   static const IconifyIconData steeringWheelFill = IconifyIconData.solo(
-    IconData(0xe74d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf074d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steering-wheel-light`
   static const IconifyIconData steeringWheelLight = IconifyIconData.solo(
-    IconData(0xe74e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf074e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steering-wheel-thin`
   static const IconifyIconData steeringWheelThin = IconifyIconData.solo(
-    IconData(0xe74f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf074f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steps`
   static const IconifyIconData steps = IconifyIconData.solo(
-    IconData(0xe750, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0750, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steps-bold`
   static const IconifyIconData stepsBold = IconifyIconData.solo(
-    IconData(0xe751, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0751, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steps-duotone` (duo-tone)
   static const IconifyIconData stepsDuotone = IconifyIconData.duo(
-    IconData(0xe752, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe752, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0752, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0752, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steps-fill`
   static const IconifyIconData stepsFill = IconifyIconData.solo(
-    IconData(0xe753, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0753, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steps-light`
   static const IconifyIconData stepsLight = IconifyIconData.solo(
-    IconData(0xe754, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0754, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `steps-thin`
   static const IconifyIconData stepsThin = IconifyIconData.solo(
-    IconData(0xe755, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0755, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stethoscope`
   static const IconifyIconData stethoscope = IconifyIconData.solo(
-    IconData(0xe756, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0756, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stethoscope-bold`
   static const IconifyIconData stethoscopeBold = IconifyIconData.solo(
-    IconData(0xe757, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0757, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stethoscope-duotone` (duo-tone)
   static const IconifyIconData stethoscopeDuotone = IconifyIconData.duo(
-    IconData(0xe758, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe758, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0758, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0758, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stethoscope-fill`
   static const IconifyIconData stethoscopeFill = IconifyIconData.solo(
-    IconData(0xe759, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0759, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stethoscope-light`
   static const IconifyIconData stethoscopeLight = IconifyIconData.solo(
-    IconData(0xe75a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf075a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stethoscope-thin`
   static const IconifyIconData stethoscopeThin = IconifyIconData.solo(
-    IconData(0xe75b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf075b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sticker`
   static const IconifyIconData sticker = IconifyIconData.solo(
-    IconData(0xe75c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf075c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sticker-bold`
   static const IconifyIconData stickerBold = IconifyIconData.solo(
-    IconData(0xe75d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf075d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sticker-duotone` (duo-tone)
   static const IconifyIconData stickerDuotone = IconifyIconData.duo(
-    IconData(0xe75e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe75e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf075e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf075e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sticker-fill`
   static const IconifyIconData stickerFill = IconifyIconData.solo(
-    IconData(0xe75f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf075f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sticker-light`
   static const IconifyIconData stickerLight = IconifyIconData.solo(
-    IconData(0xe760, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0760, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sticker-thin`
   static const IconifyIconData stickerThin = IconifyIconData.solo(
-    IconData(0xe761, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0761, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stool`
   static const IconifyIconData stool = IconifyIconData.solo(
-    IconData(0xe762, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0762, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stool-bold`
   static const IconifyIconData stoolBold = IconifyIconData.solo(
-    IconData(0xe763, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0763, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stool-duotone` (duo-tone)
   static const IconifyIconData stoolDuotone = IconifyIconData.duo(
-    IconData(0xe764, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe764, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0764, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0764, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stool-fill`
   static const IconifyIconData stoolFill = IconifyIconData.solo(
-    IconData(0xe765, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0765, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stool-light`
   static const IconifyIconData stoolLight = IconifyIconData.solo(
-    IconData(0xe766, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0766, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stool-thin`
   static const IconifyIconData stoolThin = IconifyIconData.solo(
-    IconData(0xe767, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0767, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop`
   static const IconifyIconData stop = IconifyIconData.solo(
-    IconData(0xe768, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0768, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop-bold`
   static const IconifyIconData stopBold = IconifyIconData.solo(
-    IconData(0xe769, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0769, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop-circle`
   static const IconifyIconData stopCircle = IconifyIconData.solo(
-    IconData(0xe76a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf076a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop-circle-bold`
   static const IconifyIconData stopCircleBold = IconifyIconData.solo(
-    IconData(0xe76b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf076b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop-circle-duotone` (duo-tone)
   static const IconifyIconData stopCircleDuotone = IconifyIconData.duo(
-    IconData(0xe76c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe76c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf076c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf076c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop-circle-fill`
   static const IconifyIconData stopCircleFill = IconifyIconData.solo(
-    IconData(0xe76d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf076d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop-circle-light`
   static const IconifyIconData stopCircleLight = IconifyIconData.solo(
-    IconData(0xe76e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf076e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop-circle-thin`
   static const IconifyIconData stopCircleThin = IconifyIconData.solo(
-    IconData(0xe76f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf076f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop-duotone` (duo-tone)
   static const IconifyIconData stopDuotone = IconifyIconData.duo(
-    IconData(0xe770, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe770, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0770, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0770, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop-fill`
   static const IconifyIconData stopFill = IconifyIconData.solo(
-    IconData(0xe771, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0771, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop-light`
   static const IconifyIconData stopLight = IconifyIconData.solo(
-    IconData(0xe772, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0772, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stop-thin`
   static const IconifyIconData stopThin = IconifyIconData.solo(
-    IconData(0xe773, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0773, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `storefront`
   static const IconifyIconData storefront = IconifyIconData.solo(
-    IconData(0xe774, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0774, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `storefront-bold`
   static const IconifyIconData storefrontBold = IconifyIconData.solo(
-    IconData(0xe775, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0775, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `storefront-duotone` (duo-tone)
   static const IconifyIconData storefrontDuotone = IconifyIconData.duo(
-    IconData(0xe776, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe776, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0776, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0776, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `storefront-fill`
   static const IconifyIconData storefrontFill = IconifyIconData.solo(
-    IconData(0xe777, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0777, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `storefront-light`
   static const IconifyIconData storefrontLight = IconifyIconData.solo(
-    IconData(0xe778, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0778, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `storefront-thin`
   static const IconifyIconData storefrontThin = IconifyIconData.solo(
-    IconData(0xe779, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0779, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `strategy`
   static const IconifyIconData strategy = IconifyIconData.solo(
-    IconData(0xe77a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf077a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `strategy-bold`
   static const IconifyIconData strategyBold = IconifyIconData.solo(
-    IconData(0xe77b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf077b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `strategy-duotone` (duo-tone)
   static const IconifyIconData strategyDuotone = IconifyIconData.duo(
-    IconData(0xe77c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe77c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf077c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf077c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `strategy-fill`
   static const IconifyIconData strategyFill = IconifyIconData.solo(
-    IconData(0xe77d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf077d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `strategy-light`
   static const IconifyIconData strategyLight = IconifyIconData.solo(
-    IconData(0xe77e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf077e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `strategy-thin`
   static const IconifyIconData strategyThin = IconifyIconData.solo(
-    IconData(0xe77f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf077f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stripe-logo`
   static const IconifyIconData stripeLogo = IconifyIconData.solo(
-    IconData(0xe780, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0780, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stripe-logo-bold`
   static const IconifyIconData stripeLogoBold = IconifyIconData.solo(
-    IconData(0xe781, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0781, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stripe-logo-duotone` (duo-tone)
   static const IconifyIconData stripeLogoDuotone = IconifyIconData.duo(
-    IconData(0xe782, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe782, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0782, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0782, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stripe-logo-fill`
   static const IconifyIconData stripeLogoFill = IconifyIconData.solo(
-    IconData(0xe783, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0783, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stripe-logo-light`
   static const IconifyIconData stripeLogoLight = IconifyIconData.solo(
-    IconData(0xe784, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0784, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `stripe-logo-thin`
   static const IconifyIconData stripeLogoThin = IconifyIconData.solo(
-    IconData(0xe785, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0785, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `student`
   static const IconifyIconData student = IconifyIconData.solo(
-    IconData(0xe786, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0786, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `student-bold`
   static const IconifyIconData studentBold = IconifyIconData.solo(
-    IconData(0xe787, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0787, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `student-duotone` (duo-tone)
   static const IconifyIconData studentDuotone = IconifyIconData.duo(
-    IconData(0xe788, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe788, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0788, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0788, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `student-fill`
   static const IconifyIconData studentFill = IconifyIconData.solo(
-    IconData(0xe789, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0789, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `student-light`
   static const IconifyIconData studentLight = IconifyIconData.solo(
-    IconData(0xe78a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf078a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `student-thin`
   static const IconifyIconData studentThin = IconifyIconData.solo(
-    IconData(0xe78b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf078b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-of`
   static const IconifyIconData subsetOf = IconifyIconData.solo(
-    IconData(0xe78c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf078c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-of-bold`
   static const IconifyIconData subsetOfBold = IconifyIconData.solo(
-    IconData(0xe78d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf078d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-of-duotone` (duo-tone)
   static const IconifyIconData subsetOfDuotone = IconifyIconData.duo(
-    IconData(0xe78e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe78e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf078e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf078e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-of-fill`
   static const IconifyIconData subsetOfFill = IconifyIconData.solo(
-    IconData(0xe78f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf078f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-of-light`
   static const IconifyIconData subsetOfLight = IconifyIconData.solo(
-    IconData(0xe790, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0790, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-of-thin`
   static const IconifyIconData subsetOfThin = IconifyIconData.solo(
-    IconData(0xe791, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0791, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-proper-of`
   static const IconifyIconData subsetProperOf = IconifyIconData.solo(
-    IconData(0xe792, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0792, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-proper-of-bold`
   static const IconifyIconData subsetProperOfBold = IconifyIconData.solo(
-    IconData(0xe793, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0793, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-proper-of-duotone` (duo-tone)
   static const IconifyIconData subsetProperOfDuotone = IconifyIconData.duo(
-    IconData(0xe794, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe794, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0794, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0794, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-proper-of-fill`
   static const IconifyIconData subsetProperOfFill = IconifyIconData.solo(
-    IconData(0xe795, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0795, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-proper-of-light`
   static const IconifyIconData subsetProperOfLight = IconifyIconData.solo(
-    IconData(0xe796, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0796, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subset-proper-of-thin`
   static const IconifyIconData subsetProperOfThin = IconifyIconData.solo(
-    IconData(0xe797, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0797, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles`
   static const IconifyIconData subtitles = IconifyIconData.solo(
-    IconData(0xe798, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0798, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-bold`
   static const IconifyIconData subtitlesBold = IconifyIconData.solo(
-    IconData(0xe799, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0799, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-duotone` (duo-tone)
   static const IconifyIconData subtitlesDuotone = IconifyIconData.duo(
-    IconData(0xe79a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe79a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf079a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf079a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-fill`
   static const IconifyIconData subtitlesFill = IconifyIconData.solo(
-    IconData(0xe79b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf079b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-light`
   static const IconifyIconData subtitlesLight = IconifyIconData.solo(
-    IconData(0xe79c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf079c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-slash`
   static const IconifyIconData subtitlesSlash = IconifyIconData.solo(
-    IconData(0xe79d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf079d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-slash-bold`
   static const IconifyIconData subtitlesSlashBold = IconifyIconData.solo(
-    IconData(0xe79e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf079e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-slash-duotone` (duo-tone)
   static const IconifyIconData subtitlesSlashDuotone = IconifyIconData.duo(
-    IconData(0xe79f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe79f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf079f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf079f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-slash-fill`
   static const IconifyIconData subtitlesSlashFill = IconifyIconData.solo(
-    IconData(0xe7a0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-slash-light`
   static const IconifyIconData subtitlesSlashLight = IconifyIconData.solo(
-    IconData(0xe7a1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07a1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-slash-thin`
   static const IconifyIconData subtitlesSlashThin = IconifyIconData.solo(
-    IconData(0xe7a2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtitles-thin`
   static const IconifyIconData subtitlesThin = IconifyIconData.solo(
-    IconData(0xe7a3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07a3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtract`
   static const IconifyIconData subtract = IconifyIconData.solo(
-    IconData(0xe7a4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtract-bold`
   static const IconifyIconData subtractBold = IconifyIconData.solo(
-    IconData(0xe7a5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtract-duotone` (duo-tone)
   static const IconifyIconData subtractDuotone = IconifyIconData.duo(
-    IconData(0xe7a6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7a6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07a6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtract-fill`
   static const IconifyIconData subtractFill = IconifyIconData.solo(
-    IconData(0xe7a7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtract-light`
   static const IconifyIconData subtractLight = IconifyIconData.solo(
-    IconData(0xe7a8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtract-square`
   static const IconifyIconData subtractSquare = IconifyIconData.solo(
-    IconData(0xe7a9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtract-square-bold`
   static const IconifyIconData subtractSquareBold = IconifyIconData.solo(
-    IconData(0xe7aa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtract-square-duotone` (duo-tone)
   static const IconifyIconData subtractSquareDuotone = IconifyIconData.duo(
-    IconData(0xe7ab, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7ab, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ab, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtract-square-fill`
   static const IconifyIconData subtractSquareFill = IconifyIconData.solo(
-    IconData(0xe7ac, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtract-square-light`
   static const IconifyIconData subtractSquareLight = IconifyIconData.solo(
-    IconData(0xe7ad, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtract-square-thin`
   static const IconifyIconData subtractSquareThin = IconifyIconData.solo(
-    IconData(0xe7ae, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subtract-thin`
   static const IconifyIconData subtractThin = IconifyIconData.solo(
-    IconData(0xe7af, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07af, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subway`
   static const IconifyIconData subway = IconifyIconData.solo(
-    IconData(0xe7b0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07b0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subway-bold`
   static const IconifyIconData subwayBold = IconifyIconData.solo(
-    IconData(0xe7b1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07b1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subway-duotone` (duo-tone)
   static const IconifyIconData subwayDuotone = IconifyIconData.duo(
-    IconData(0xe7b2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7b2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07b2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07b2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subway-fill`
   static const IconifyIconData subwayFill = IconifyIconData.solo(
-    IconData(0xe7b3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07b3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subway-light`
   static const IconifyIconData subwayLight = IconifyIconData.solo(
-    IconData(0xe7b4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07b4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `subway-thin`
   static const IconifyIconData subwayThin = IconifyIconData.solo(
-    IconData(0xe7b5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07b5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase`
   static const IconifyIconData suitcase = IconifyIconData.solo(
-    IconData(0xe7b6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07b6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-bold`
   static const IconifyIconData suitcaseBold = IconifyIconData.solo(
-    IconData(0xe7b7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07b7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-duotone` (duo-tone)
   static const IconifyIconData suitcaseDuotone = IconifyIconData.duo(
-    IconData(0xe7b8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7b8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07b8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07b8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-fill`
   static const IconifyIconData suitcaseFill = IconifyIconData.solo(
-    IconData(0xe7b9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07b9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-light`
   static const IconifyIconData suitcaseLight = IconifyIconData.solo(
-    IconData(0xe7ba, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-rolling`
   static const IconifyIconData suitcaseRolling = IconifyIconData.solo(
-    IconData(0xe7bb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-rolling-bold`
   static const IconifyIconData suitcaseRollingBold = IconifyIconData.solo(
-    IconData(0xe7bc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-rolling-duotone` (duo-tone)
   static const IconifyIconData suitcaseRollingDuotone = IconifyIconData.duo(
-    IconData(0xe7bd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7bd, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07bd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07bd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-rolling-fill`
   static const IconifyIconData suitcaseRollingFill = IconifyIconData.solo(
-    IconData(0xe7be, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07be, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-rolling-light`
   static const IconifyIconData suitcaseRollingLight = IconifyIconData.solo(
-    IconData(0xe7bf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07bf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-rolling-thin`
   static const IconifyIconData suitcaseRollingThin = IconifyIconData.solo(
-    IconData(0xe7c0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07c0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-simple`
   static const IconifyIconData suitcaseSimple = IconifyIconData.solo(
-    IconData(0xe7c1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-simple-bold`
   static const IconifyIconData suitcaseSimpleBold = IconifyIconData.solo(
-    IconData(0xe7c2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-simple-duotone` (duo-tone)
   static const IconifyIconData suitcaseSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe7c3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7c3, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07c3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07c3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-simple-fill`
   static const IconifyIconData suitcaseSimpleFill = IconifyIconData.solo(
-    IconData(0xe7c4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07c4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-simple-light`
   static const IconifyIconData suitcaseSimpleLight = IconifyIconData.solo(
-    IconData(0xe7c5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07c5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-simple-thin`
   static const IconifyIconData suitcaseSimpleThin = IconifyIconData.solo(
-    IconData(0xe7c6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07c6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `suitcase-thin`
   static const IconifyIconData suitcaseThin = IconifyIconData.solo(
-    IconData(0xe7c7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun`
   static const IconifyIconData sun = IconifyIconData.solo(
-    IconData(0xe7c8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-bold`
   static const IconifyIconData sunBold = IconifyIconData.solo(
-    IconData(0xe7c9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-dim`
   static const IconifyIconData sunDim = IconifyIconData.solo(
-    IconData(0xe7ca, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-dim-bold`
   static const IconifyIconData sunDimBold = IconifyIconData.solo(
-    IconData(0xe7cb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-dim-duotone` (duo-tone)
   static const IconifyIconData sunDimDuotone = IconifyIconData.duo(
-    IconData(0xe7cc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7cc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07cc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-dim-fill`
   static const IconifyIconData sunDimFill = IconifyIconData.solo(
-    IconData(0xe7cd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-dim-light`
   static const IconifyIconData sunDimLight = IconifyIconData.solo(
-    IconData(0xe7ce, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-dim-thin`
   static const IconifyIconData sunDimThin = IconifyIconData.solo(
-    IconData(0xe7cf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-duotone` (duo-tone)
   static const IconifyIconData sunDuotone = IconifyIconData.duo(
-    IconData(0xe7d0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7d0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07d0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-fill`
   static const IconifyIconData sunFill = IconifyIconData.solo(
-    IconData(0xe7d1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07d1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-horizon`
   static const IconifyIconData sunHorizon = IconifyIconData.solo(
-    IconData(0xe7d2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-horizon-bold`
   static const IconifyIconData sunHorizonBold = IconifyIconData.solo(
-    IconData(0xe7d3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-horizon-duotone` (duo-tone)
   static const IconifyIconData sunHorizonDuotone = IconifyIconData.duo(
-    IconData(0xe7d4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7d4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07d4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-horizon-fill`
   static const IconifyIconData sunHorizonFill = IconifyIconData.solo(
-    IconData(0xe7d5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07d5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-horizon-light`
   static const IconifyIconData sunHorizonLight = IconifyIconData.solo(
-    IconData(0xe7d6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07d6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-horizon-thin`
   static const IconifyIconData sunHorizonThin = IconifyIconData.solo(
-    IconData(0xe7d7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-light`
   static const IconifyIconData sunLight = IconifyIconData.solo(
-    IconData(0xe7d8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07d8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sun-thin`
   static const IconifyIconData sunThin = IconifyIconData.solo(
-    IconData(0xe7d9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07d9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sunglasses`
   static const IconifyIconData sunglasses = IconifyIconData.solo(
-    IconData(0xe7da, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07da, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sunglasses-bold`
   static const IconifyIconData sunglassesBold = IconifyIconData.solo(
-    IconData(0xe7db, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sunglasses-duotone` (duo-tone)
   static const IconifyIconData sunglassesDuotone = IconifyIconData.duo(
-    IconData(0xe7dc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7dc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07dc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sunglasses-fill`
   static const IconifyIconData sunglassesFill = IconifyIconData.solo(
-    IconData(0xe7dd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sunglasses-light`
   static const IconifyIconData sunglassesLight = IconifyIconData.solo(
-    IconData(0xe7de, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07de, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sunglasses-thin`
   static const IconifyIconData sunglassesThin = IconifyIconData.solo(
-    IconData(0xe7df, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07df, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-of`
   static const IconifyIconData supersetOf = IconifyIconData.solo(
-    IconData(0xe7e0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07e0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-of-bold`
   static const IconifyIconData supersetOfBold = IconifyIconData.solo(
-    IconData(0xe7e1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-of-duotone` (duo-tone)
   static const IconifyIconData supersetOfDuotone = IconifyIconData.duo(
-    IconData(0xe7e2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7e2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07e2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-of-fill`
   static const IconifyIconData supersetOfFill = IconifyIconData.solo(
-    IconData(0xe7e3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-of-light`
   static const IconifyIconData supersetOfLight = IconifyIconData.solo(
-    IconData(0xe7e4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-of-thin`
   static const IconifyIconData supersetOfThin = IconifyIconData.solo(
-    IconData(0xe7e5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07e5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-proper-of`
   static const IconifyIconData supersetProperOf = IconifyIconData.solo(
-    IconData(0xe7e6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-proper-of-bold`
   static const IconifyIconData supersetProperOfBold = IconifyIconData.solo(
-    IconData(0xe7e7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-proper-of-duotone` (duo-tone)
   static const IconifyIconData supersetProperOfDuotone = IconifyIconData.duo(
-    IconData(0xe7e8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7e8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07e8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-proper-of-fill`
   static const IconifyIconData supersetProperOfFill = IconifyIconData.solo(
-    IconData(0xe7e9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07e9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-proper-of-light`
   static const IconifyIconData supersetProperOfLight = IconifyIconData.solo(
-    IconData(0xe7ea, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `superset-proper-of-thin`
   static const IconifyIconData supersetProperOfThin = IconifyIconData.solo(
-    IconData(0xe7eb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swap`
   static const IconifyIconData swap = IconifyIconData.solo(
-    IconData(0xe7ec, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swap-bold`
   static const IconifyIconData swapBold = IconifyIconData.solo(
-    IconData(0xe7ed, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swap-duotone` (duo-tone)
   static const IconifyIconData swapDuotone = IconifyIconData.duo(
-    IconData(0xe7ee, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7ee, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ee, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swap-fill`
   static const IconifyIconData swapFill = IconifyIconData.solo(
-    IconData(0xe7ef, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swap-light`
   static const IconifyIconData swapLight = IconifyIconData.solo(
-    IconData(0xe7f0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swap-thin`
   static const IconifyIconData swapThin = IconifyIconData.solo(
-    IconData(0xe7f1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07f1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swatches`
   static const IconifyIconData swatches = IconifyIconData.solo(
-    IconData(0xe7f2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07f2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swatches-bold`
   static const IconifyIconData swatchesBold = IconifyIconData.solo(
-    IconData(0xe7f3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swatches-duotone` (duo-tone)
   static const IconifyIconData swatchesDuotone = IconifyIconData.duo(
-    IconData(0xe7f4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7f4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07f4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swatches-fill`
   static const IconifyIconData swatchesFill = IconifyIconData.solo(
-    IconData(0xe7f5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swatches-light`
   static const IconifyIconData swatchesLight = IconifyIconData.solo(
-    IconData(0xe7f6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swatches-thin`
   static const IconifyIconData swatchesThin = IconifyIconData.solo(
-    IconData(0xe7f7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07f7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swimming-pool`
   static const IconifyIconData swimmingPool = IconifyIconData.solo(
-    IconData(0xe7f8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07f8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swimming-pool-bold`
   static const IconifyIconData swimmingPoolBold = IconifyIconData.solo(
-    IconData(0xe7f9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swimming-pool-duotone` (duo-tone)
   static const IconifyIconData swimmingPoolDuotone = IconifyIconData.duo(
-    IconData(0xe7fa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe7fa, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07fa, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swimming-pool-fill`
   static const IconifyIconData swimmingPoolFill = IconifyIconData.solo(
-    IconData(0xe7fb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swimming-pool-light`
   static const IconifyIconData swimmingPoolLight = IconifyIconData.solo(
-    IconData(0xe7fc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `swimming-pool-thin`
   static const IconifyIconData swimmingPoolThin = IconifyIconData.solo(
-    IconData(0xe7fd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sword`
   static const IconifyIconData sword = IconifyIconData.solo(
-    IconData(0xe7fe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07fe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sword-bold`
   static const IconifyIconData swordBold = IconifyIconData.solo(
-    IconData(0xe7ff, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf07ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sword-duotone` (duo-tone)
   static const IconifyIconData swordDuotone = IconifyIconData.duo(
-    IconData(0xe800, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe800, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0800, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0800, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sword-fill`
   static const IconifyIconData swordFill = IconifyIconData.solo(
-    IconData(0xe801, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0801, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sword-light`
   static const IconifyIconData swordLight = IconifyIconData.solo(
-    IconData(0xe802, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0802, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `sword-thin`
   static const IconifyIconData swordThin = IconifyIconData.solo(
-    IconData(0xe803, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0803, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `synagogue`
   static const IconifyIconData synagogue = IconifyIconData.solo(
-    IconData(0xe804, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0804, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `synagogue-bold`
   static const IconifyIconData synagogueBold = IconifyIconData.solo(
-    IconData(0xe805, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0805, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `synagogue-duotone` (duo-tone)
   static const IconifyIconData synagogueDuotone = IconifyIconData.duo(
-    IconData(0xe806, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe806, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0806, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0806, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `synagogue-fill`
   static const IconifyIconData synagogueFill = IconifyIconData.solo(
-    IconData(0xe807, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0807, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `synagogue-light`
   static const IconifyIconData synagogueLight = IconifyIconData.solo(
-    IconData(0xe808, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0808, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `synagogue-thin`
   static const IconifyIconData synagogueThin = IconifyIconData.solo(
-    IconData(0xe809, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0809, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `syringe`
   static const IconifyIconData syringe = IconifyIconData.solo(
-    IconData(0xe80a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf080a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `syringe-bold`
   static const IconifyIconData syringeBold = IconifyIconData.solo(
-    IconData(0xe80b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf080b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `syringe-duotone` (duo-tone)
   static const IconifyIconData syringeDuotone = IconifyIconData.duo(
-    IconData(0xe80c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe80c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf080c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf080c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `syringe-fill`
   static const IconifyIconData syringeFill = IconifyIconData.solo(
-    IconData(0xe80d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf080d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `syringe-light`
   static const IconifyIconData syringeLight = IconifyIconData.solo(
-    IconData(0xe80e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf080e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `syringe-thin`
   static const IconifyIconData syringeThin = IconifyIconData.solo(
-    IconData(0xe80f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf080f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `t-shirt`
   static const IconifyIconData tShirt = IconifyIconData.solo(
-    IconData(0xe810, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0810, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `t-shirt-bold`
   static const IconifyIconData tShirtBold = IconifyIconData.solo(
-    IconData(0xe811, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0811, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `t-shirt-duotone` (duo-tone)
   static const IconifyIconData tShirtDuotone = IconifyIconData.duo(
-    IconData(0xe812, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe812, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0812, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0812, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `t-shirt-fill`
   static const IconifyIconData tShirtFill = IconifyIconData.solo(
-    IconData(0xe813, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0813, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `t-shirt-light`
   static const IconifyIconData tShirtLight = IconifyIconData.solo(
-    IconData(0xe814, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0814, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `t-shirt-thin`
   static const IconifyIconData tShirtThin = IconifyIconData.solo(
-    IconData(0xe815, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0815, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `table`
   static const IconifyIconData table = IconifyIconData.solo(
-    IconData(0xe816, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0816, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `table-bold`
   static const IconifyIconData tableBold = IconifyIconData.solo(
-    IconData(0xe817, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0817, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `table-duotone` (duo-tone)
   static const IconifyIconData tableDuotone = IconifyIconData.duo(
-    IconData(0xe818, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe818, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0818, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0818, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `table-fill`
   static const IconifyIconData tableFill = IconifyIconData.solo(
-    IconData(0xe819, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0819, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `table-light`
   static const IconifyIconData tableLight = IconifyIconData.solo(
-    IconData(0xe81a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf081a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `table-thin`
   static const IconifyIconData tableThin = IconifyIconData.solo(
-    IconData(0xe81b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf081b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tabs`
   static const IconifyIconData tabs = IconifyIconData.solo(
-    IconData(0xe81c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf081c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tabs-bold`
   static const IconifyIconData tabsBold = IconifyIconData.solo(
-    IconData(0xe81d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf081d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tabs-duotone` (duo-tone)
   static const IconifyIconData tabsDuotone = IconifyIconData.duo(
-    IconData(0xe81e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe81e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf081e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf081e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tabs-fill`
   static const IconifyIconData tabsFill = IconifyIconData.solo(
-    IconData(0xe81f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf081f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tabs-light`
   static const IconifyIconData tabsLight = IconifyIconData.solo(
-    IconData(0xe820, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0820, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tabs-thin`
   static const IconifyIconData tabsThin = IconifyIconData.solo(
-    IconData(0xe821, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0821, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag`
   static const IconifyIconData tag = IconifyIconData.solo(
-    IconData(0xe822, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0822, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-bold`
   static const IconifyIconData tagBold = IconifyIconData.solo(
-    IconData(0xe823, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0823, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-chevron`
   static const IconifyIconData tagChevron = IconifyIconData.solo(
-    IconData(0xe824, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0824, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-chevron-bold`
   static const IconifyIconData tagChevronBold = IconifyIconData.solo(
-    IconData(0xe825, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0825, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-chevron-duotone` (duo-tone)
   static const IconifyIconData tagChevronDuotone = IconifyIconData.duo(
-    IconData(0xe826, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe826, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0826, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0826, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-chevron-fill`
   static const IconifyIconData tagChevronFill = IconifyIconData.solo(
-    IconData(0xe827, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0827, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-chevron-light`
   static const IconifyIconData tagChevronLight = IconifyIconData.solo(
-    IconData(0xe828, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0828, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-chevron-thin`
   static const IconifyIconData tagChevronThin = IconifyIconData.solo(
-    IconData(0xe829, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0829, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-duotone` (duo-tone)
   static const IconifyIconData tagDuotone = IconifyIconData.duo(
-    IconData(0xe82a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe82a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf082a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf082a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-fill`
   static const IconifyIconData tagFill = IconifyIconData.solo(
-    IconData(0xe82b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf082b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-light`
   static const IconifyIconData tagLight = IconifyIconData.solo(
-    IconData(0xe82c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf082c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-simple`
   static const IconifyIconData tagSimple = IconifyIconData.solo(
-    IconData(0xe82d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf082d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-simple-bold`
   static const IconifyIconData tagSimpleBold = IconifyIconData.solo(
-    IconData(0xe82e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf082e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-simple-duotone` (duo-tone)
   static const IconifyIconData tagSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe82f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe82f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf082f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf082f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-simple-fill`
   static const IconifyIconData tagSimpleFill = IconifyIconData.solo(
-    IconData(0xe830, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0830, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-simple-light`
   static const IconifyIconData tagSimpleLight = IconifyIconData.solo(
-    IconData(0xe831, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0831, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-simple-thin`
   static const IconifyIconData tagSimpleThin = IconifyIconData.solo(
-    IconData(0xe832, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0832, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tag-thin`
   static const IconifyIconData tagThin = IconifyIconData.solo(
-    IconData(0xe833, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0833, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `target`
   static const IconifyIconData target = IconifyIconData.solo(
-    IconData(0xe834, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0834, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `target-bold`
   static const IconifyIconData targetBold = IconifyIconData.solo(
-    IconData(0xe835, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0835, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `target-duotone` (duo-tone)
   static const IconifyIconData targetDuotone = IconifyIconData.duo(
-    IconData(0xe836, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe836, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0836, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0836, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `target-fill`
   static const IconifyIconData targetFill = IconifyIconData.solo(
-    IconData(0xe837, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0837, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `target-light`
   static const IconifyIconData targetLight = IconifyIconData.solo(
-    IconData(0xe838, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0838, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `target-thin`
   static const IconifyIconData targetThin = IconifyIconData.solo(
-    IconData(0xe839, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0839, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `taxi`
   static const IconifyIconData taxi = IconifyIconData.solo(
-    IconData(0xe83a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf083a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `taxi-bold`
   static const IconifyIconData taxiBold = IconifyIconData.solo(
-    IconData(0xe83b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf083b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `taxi-duotone` (duo-tone)
   static const IconifyIconData taxiDuotone = IconifyIconData.duo(
-    IconData(0xe83c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe83c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf083c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf083c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `taxi-fill`
   static const IconifyIconData taxiFill = IconifyIconData.solo(
-    IconData(0xe83d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf083d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `taxi-light`
   static const IconifyIconData taxiLight = IconifyIconData.solo(
-    IconData(0xe83e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf083e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `taxi-thin`
   static const IconifyIconData taxiThin = IconifyIconData.solo(
-    IconData(0xe83f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf083f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tea-bag`
   static const IconifyIconData teaBag = IconifyIconData.solo(
-    IconData(0xe840, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0840, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tea-bag-bold`
   static const IconifyIconData teaBagBold = IconifyIconData.solo(
-    IconData(0xe841, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0841, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tea-bag-duotone` (duo-tone)
   static const IconifyIconData teaBagDuotone = IconifyIconData.duo(
-    IconData(0xe842, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe842, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0842, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0842, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tea-bag-fill`
   static const IconifyIconData teaBagFill = IconifyIconData.solo(
-    IconData(0xe843, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0843, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tea-bag-light`
   static const IconifyIconData teaBagLight = IconifyIconData.solo(
-    IconData(0xe844, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0844, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tea-bag-thin`
   static const IconifyIconData teaBagThin = IconifyIconData.solo(
-    IconData(0xe845, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0845, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `telegram-logo`
   static const IconifyIconData telegramLogo = IconifyIconData.solo(
-    IconData(0xe846, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0846, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `telegram-logo-bold`
   static const IconifyIconData telegramLogoBold = IconifyIconData.solo(
-    IconData(0xe847, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0847, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `telegram-logo-duotone` (duo-tone)
   static const IconifyIconData telegramLogoDuotone = IconifyIconData.duo(
-    IconData(0xe848, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe848, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0848, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0848, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `telegram-logo-fill`
   static const IconifyIconData telegramLogoFill = IconifyIconData.solo(
-    IconData(0xe849, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0849, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `telegram-logo-light`
   static const IconifyIconData telegramLogoLight = IconifyIconData.solo(
-    IconData(0xe84a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf084a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `telegram-logo-thin`
   static const IconifyIconData telegramLogoThin = IconifyIconData.solo(
-    IconData(0xe84b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf084b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television`
   static const IconifyIconData television = IconifyIconData.solo(
-    IconData(0xe84c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf084c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television-bold`
   static const IconifyIconData televisionBold = IconifyIconData.solo(
-    IconData(0xe84d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf084d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television-duotone` (duo-tone)
   static const IconifyIconData televisionDuotone = IconifyIconData.duo(
-    IconData(0xe84e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe84e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf084e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf084e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television-fill`
   static const IconifyIconData televisionFill = IconifyIconData.solo(
-    IconData(0xe84f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf084f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television-light`
   static const IconifyIconData televisionLight = IconifyIconData.solo(
-    IconData(0xe850, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0850, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television-simple`
   static const IconifyIconData televisionSimple = IconifyIconData.solo(
-    IconData(0xe851, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0851, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television-simple-bold`
   static const IconifyIconData televisionSimpleBold = IconifyIconData.solo(
-    IconData(0xe852, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0852, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television-simple-duotone` (duo-tone)
   static const IconifyIconData televisionSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe853, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe853, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0853, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0853, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television-simple-fill`
   static const IconifyIconData televisionSimpleFill = IconifyIconData.solo(
-    IconData(0xe854, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0854, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television-simple-light`
   static const IconifyIconData televisionSimpleLight = IconifyIconData.solo(
-    IconData(0xe855, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0855, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television-simple-thin`
   static const IconifyIconData televisionSimpleThin = IconifyIconData.solo(
-    IconData(0xe856, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0856, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `television-thin`
   static const IconifyIconData televisionThin = IconifyIconData.solo(
-    IconData(0xe857, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0857, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tennis-ball`
   static const IconifyIconData tennisBall = IconifyIconData.solo(
-    IconData(0xe858, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0858, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tennis-ball-bold`
   static const IconifyIconData tennisBallBold = IconifyIconData.solo(
-    IconData(0xe859, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0859, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tennis-ball-duotone` (duo-tone)
   static const IconifyIconData tennisBallDuotone = IconifyIconData.duo(
-    IconData(0xe85a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe85a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf085a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf085a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tennis-ball-fill`
   static const IconifyIconData tennisBallFill = IconifyIconData.solo(
-    IconData(0xe85b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf085b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tennis-ball-light`
   static const IconifyIconData tennisBallLight = IconifyIconData.solo(
-    IconData(0xe85c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf085c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tennis-ball-thin`
   static const IconifyIconData tennisBallThin = IconifyIconData.solo(
-    IconData(0xe85d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf085d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tent`
   static const IconifyIconData tent = IconifyIconData.solo(
-    IconData(0xe85e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf085e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tent-bold`
   static const IconifyIconData tentBold = IconifyIconData.solo(
-    IconData(0xe85f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf085f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tent-duotone` (duo-tone)
   static const IconifyIconData tentDuotone = IconifyIconData.duo(
-    IconData(0xe860, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe860, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0860, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0860, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tent-fill`
   static const IconifyIconData tentFill = IconifyIconData.solo(
-    IconData(0xe861, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0861, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tent-light`
   static const IconifyIconData tentLight = IconifyIconData.solo(
-    IconData(0xe862, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0862, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tent-thin`
   static const IconifyIconData tentThin = IconifyIconData.solo(
-    IconData(0xe863, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0863, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal`
   static const IconifyIconData terminal = IconifyIconData.solo(
-    IconData(0xe864, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0864, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal-bold`
   static const IconifyIconData terminalBold = IconifyIconData.solo(
-    IconData(0xe865, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0865, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal-duotone` (duo-tone)
   static const IconifyIconData terminalDuotone = IconifyIconData.duo(
-    IconData(0xe866, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe866, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0866, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0866, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal-fill`
   static const IconifyIconData terminalFill = IconifyIconData.solo(
-    IconData(0xe867, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0867, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal-light`
   static const IconifyIconData terminalLight = IconifyIconData.solo(
-    IconData(0xe868, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0868, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal-thin`
   static const IconifyIconData terminalThin = IconifyIconData.solo(
-    IconData(0xe869, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0869, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal-window`
   static const IconifyIconData terminalWindow = IconifyIconData.solo(
-    IconData(0xe86a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf086a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal-window-bold`
   static const IconifyIconData terminalWindowBold = IconifyIconData.solo(
-    IconData(0xe86b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf086b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal-window-duotone` (duo-tone)
   static const IconifyIconData terminalWindowDuotone = IconifyIconData.duo(
-    IconData(0xe86c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe86c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf086c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf086c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal-window-fill`
   static const IconifyIconData terminalWindowFill = IconifyIconData.solo(
-    IconData(0xe86d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf086d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal-window-light`
   static const IconifyIconData terminalWindowLight = IconifyIconData.solo(
-    IconData(0xe86e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf086e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `terminal-window-thin`
   static const IconifyIconData terminalWindowThin = IconifyIconData.solo(
-    IconData(0xe86f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf086f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `test-tube`
   static const IconifyIconData testTube = IconifyIconData.solo(
-    IconData(0xe870, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0870, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `test-tube-bold`
   static const IconifyIconData testTubeBold = IconifyIconData.solo(
-    IconData(0xe871, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0871, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `test-tube-duotone` (duo-tone)
   static const IconifyIconData testTubeDuotone = IconifyIconData.duo(
-    IconData(0xe872, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe872, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0872, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0872, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `test-tube-fill`
   static const IconifyIconData testTubeFill = IconifyIconData.solo(
-    IconData(0xe873, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0873, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `test-tube-light`
   static const IconifyIconData testTubeLight = IconifyIconData.solo(
-    IconData(0xe874, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0874, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `test-tube-thin`
   static const IconifyIconData testTubeThin = IconifyIconData.solo(
-    IconData(0xe875, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0875, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text`
   static const IconifyIconData text = IconifyIconData.solo(
-    IconData(0xe876, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0876, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-a-underline`
   static const IconifyIconData textAUnderline = IconifyIconData.solo(
-    IconData(0xe877, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0877, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-a-underline-bold`
   static const IconifyIconData textAUnderlineBold = IconifyIconData.solo(
-    IconData(0xe878, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0878, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-a-underline-duotone` (duo-tone)
   static const IconifyIconData textAUnderlineDuotone = IconifyIconData.duo(
-    IconData(0xe879, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe879, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0879, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0879, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-a-underline-fill`
   static const IconifyIconData textAUnderlineFill = IconifyIconData.solo(
-    IconData(0xe87a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf087a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-a-underline-light`
   static const IconifyIconData textAUnderlineLight = IconifyIconData.solo(
-    IconData(0xe87b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf087b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-a-underline-thin`
   static const IconifyIconData textAUnderlineThin = IconifyIconData.solo(
-    IconData(0xe87c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf087c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-aa`
   static const IconifyIconData textAa = IconifyIconData.solo(
-    IconData(0xe87d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf087d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-aa-bold`
   static const IconifyIconData textAaBold = IconifyIconData.solo(
-    IconData(0xe87e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf087e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-aa-duotone` (duo-tone)
   static const IconifyIconData textAaDuotone = IconifyIconData.duo(
-    IconData(0xe87f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe87f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf087f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf087f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-aa-fill`
   static const IconifyIconData textAaFill = IconifyIconData.solo(
-    IconData(0xe880, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0880, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-aa-light`
   static const IconifyIconData textAaLight = IconifyIconData.solo(
-    IconData(0xe881, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0881, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-aa-thin`
   static const IconifyIconData textAaThin = IconifyIconData.solo(
-    IconData(0xe882, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0882, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-center`
   static const IconifyIconData textAlignCenter = IconifyIconData.solo(
-    IconData(0xe883, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0883, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-center-bold`
   static const IconifyIconData textAlignCenterBold = IconifyIconData.solo(
-    IconData(0xe884, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0884, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-center-duotone` (duo-tone)
   static const IconifyIconData textAlignCenterDuotone = IconifyIconData.duo(
-    IconData(0xe885, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe885, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0885, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0885, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-center-fill`
   static const IconifyIconData textAlignCenterFill = IconifyIconData.solo(
-    IconData(0xe886, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0886, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-center-light`
   static const IconifyIconData textAlignCenterLight = IconifyIconData.solo(
-    IconData(0xe887, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0887, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-center-thin`
   static const IconifyIconData textAlignCenterThin = IconifyIconData.solo(
-    IconData(0xe888, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0888, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-justify`
   static const IconifyIconData textAlignJustify = IconifyIconData.solo(
-    IconData(0xe889, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0889, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-justify-bold`
   static const IconifyIconData textAlignJustifyBold = IconifyIconData.solo(
-    IconData(0xe88a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf088a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-justify-duotone` (duo-tone)
   static const IconifyIconData textAlignJustifyDuotone = IconifyIconData.duo(
-    IconData(0xe88b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe88b, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf088b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf088b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-justify-fill`
   static const IconifyIconData textAlignJustifyFill = IconifyIconData.solo(
-    IconData(0xe88c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf088c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-justify-light`
   static const IconifyIconData textAlignJustifyLight = IconifyIconData.solo(
-    IconData(0xe88d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf088d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-justify-thin`
   static const IconifyIconData textAlignJustifyThin = IconifyIconData.solo(
-    IconData(0xe88e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf088e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-left`
   static const IconifyIconData textAlignLeft = IconifyIconData.solo(
-    IconData(0xe88f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf088f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-left-bold`
   static const IconifyIconData textAlignLeftBold = IconifyIconData.solo(
-    IconData(0xe890, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0890, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-left-duotone` (duo-tone)
   static const IconifyIconData textAlignLeftDuotone = IconifyIconData.duo(
-    IconData(0xe891, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe891, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0891, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0891, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-left-fill`
   static const IconifyIconData textAlignLeftFill = IconifyIconData.solo(
-    IconData(0xe892, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0892, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-left-light`
   static const IconifyIconData textAlignLeftLight = IconifyIconData.solo(
-    IconData(0xe893, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0893, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-left-thin`
   static const IconifyIconData textAlignLeftThin = IconifyIconData.solo(
-    IconData(0xe894, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0894, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-right`
   static const IconifyIconData textAlignRight = IconifyIconData.solo(
-    IconData(0xe895, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0895, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-right-bold`
   static const IconifyIconData textAlignRightBold = IconifyIconData.solo(
-    IconData(0xe896, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0896, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-right-duotone` (duo-tone)
   static const IconifyIconData textAlignRightDuotone = IconifyIconData.duo(
-    IconData(0xe897, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe897, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0897, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0897, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-right-fill`
   static const IconifyIconData textAlignRightFill = IconifyIconData.solo(
-    IconData(0xe898, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0898, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-right-light`
   static const IconifyIconData textAlignRightLight = IconifyIconData.solo(
-    IconData(0xe899, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0899, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-align-right-thin`
   static const IconifyIconData textAlignRightThin = IconifyIconData.solo(
-    IconData(0xe89a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf089a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-b`
   static const IconifyIconData textB = IconifyIconData.solo(
-    IconData(0xe89b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf089b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-b-bold`
   static const IconifyIconData textBBold = IconifyIconData.solo(
-    IconData(0xe89c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf089c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-b-duotone` (duo-tone)
   static const IconifyIconData textBDuotone = IconifyIconData.duo(
-    IconData(0xe89d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe89d, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf089d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf089d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-b-fill`
   static const IconifyIconData textBFill = IconifyIconData.solo(
-    IconData(0xe89e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf089e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-b-light`
   static const IconifyIconData textBLight = IconifyIconData.solo(
-    IconData(0xe89f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf089f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-b-thin`
   static const IconifyIconData textBThin = IconifyIconData.solo(
-    IconData(0xe8a0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-bold`
   static const IconifyIconData textBold = IconifyIconData.solo(
-    IconData(0xe8a1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08a1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-bolder`
   static const IconifyIconData textBolder = IconifyIconData.solo(
-    IconData(0xe8a2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-bolder-bold`
   static const IconifyIconData textBolderBold = IconifyIconData.solo(
-    IconData(0xe8a3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08a3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-bolder-duotone`
   static const IconifyIconData textBolderDuotone = IconifyIconData.solo(
-    IconData(0xe8a4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-bolder-fill`
   static const IconifyIconData textBolderFill = IconifyIconData.solo(
-    IconData(0xe8a5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-bolder-light`
   static const IconifyIconData textBolderLight = IconifyIconData.solo(
-    IconData(0xe8a6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-bolder-thin`
   static const IconifyIconData textBolderThin = IconifyIconData.solo(
-    IconData(0xe8a7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-columns`
   static const IconifyIconData textColumns = IconifyIconData.solo(
-    IconData(0xe8a8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-columns-bold`
   static const IconifyIconData textColumnsBold = IconifyIconData.solo(
-    IconData(0xe8a9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-columns-duotone` (duo-tone)
   static const IconifyIconData textColumnsDuotone = IconifyIconData.duo(
-    IconData(0xe8aa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8aa, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08aa, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-columns-fill`
   static const IconifyIconData textColumnsFill = IconifyIconData.solo(
-    IconData(0xe8ab, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-columns-light`
   static const IconifyIconData textColumnsLight = IconifyIconData.solo(
-    IconData(0xe8ac, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-columns-thin`
   static const IconifyIconData textColumnsThin = IconifyIconData.solo(
-    IconData(0xe8ad, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-duotone`
   static const IconifyIconData textDuotone = IconifyIconData.solo(
-    IconData(0xe8ae, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-fill`
   static const IconifyIconData textFill = IconifyIconData.solo(
-    IconData(0xe8af, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08af, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h`
   static const IconifyIconData textH = IconifyIconData.solo(
-    IconData(0xe8b0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08b0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-bold`
   static const IconifyIconData textHBold = IconifyIconData.solo(
-    IconData(0xe8b1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08b1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-duotone` (duo-tone)
   static const IconifyIconData textHDuotone = IconifyIconData.duo(
-    IconData(0xe8b2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8b2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08b2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08b2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-fill`
   static const IconifyIconData textHFill = IconifyIconData.solo(
-    IconData(0xe8b3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08b3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-five`
   static const IconifyIconData textHFive = IconifyIconData.solo(
-    IconData(0xe8b4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08b4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-five-bold`
   static const IconifyIconData textHFiveBold = IconifyIconData.solo(
-    IconData(0xe8b5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08b5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-five-duotone` (duo-tone)
   static const IconifyIconData textHFiveDuotone = IconifyIconData.duo(
-    IconData(0xe8b6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8b6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08b6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08b6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-five-fill`
   static const IconifyIconData textHFiveFill = IconifyIconData.solo(
-    IconData(0xe8b7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08b7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-five-light`
   static const IconifyIconData textHFiveLight = IconifyIconData.solo(
-    IconData(0xe8b8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08b8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-five-thin`
   static const IconifyIconData textHFiveThin = IconifyIconData.solo(
-    IconData(0xe8b9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08b9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-four`
   static const IconifyIconData textHFour = IconifyIconData.solo(
-    IconData(0xe8ba, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-four-bold`
   static const IconifyIconData textHFourBold = IconifyIconData.solo(
-    IconData(0xe8bb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-four-duotone` (duo-tone)
   static const IconifyIconData textHFourDuotone = IconifyIconData.duo(
-    IconData(0xe8bc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8bc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08bc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-four-fill`
   static const IconifyIconData textHFourFill = IconifyIconData.solo(
-    IconData(0xe8bd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08bd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-four-light`
   static const IconifyIconData textHFourLight = IconifyIconData.solo(
-    IconData(0xe8be, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08be, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-four-thin`
   static const IconifyIconData textHFourThin = IconifyIconData.solo(
-    IconData(0xe8bf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08bf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-light`
   static const IconifyIconData textHLight = IconifyIconData.solo(
-    IconData(0xe8c0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08c0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-one`
   static const IconifyIconData textHOne = IconifyIconData.solo(
-    IconData(0xe8c1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-one-bold`
   static const IconifyIconData textHOneBold = IconifyIconData.solo(
-    IconData(0xe8c2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-one-duotone` (duo-tone)
   static const IconifyIconData textHOneDuotone = IconifyIconData.duo(
-    IconData(0xe8c3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8c3, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08c3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08c3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-one-fill`
   static const IconifyIconData textHOneFill = IconifyIconData.solo(
-    IconData(0xe8c4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08c4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-one-light`
   static const IconifyIconData textHOneLight = IconifyIconData.solo(
-    IconData(0xe8c5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08c5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-one-thin`
   static const IconifyIconData textHOneThin = IconifyIconData.solo(
-    IconData(0xe8c6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08c6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-six`
   static const IconifyIconData textHSix = IconifyIconData.solo(
-    IconData(0xe8c7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-six-bold`
   static const IconifyIconData textHSixBold = IconifyIconData.solo(
-    IconData(0xe8c8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-six-duotone` (duo-tone)
   static const IconifyIconData textHSixDuotone = IconifyIconData.duo(
-    IconData(0xe8c9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8c9, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08c9, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-six-fill`
   static const IconifyIconData textHSixFill = IconifyIconData.solo(
-    IconData(0xe8ca, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-six-light`
   static const IconifyIconData textHSixLight = IconifyIconData.solo(
-    IconData(0xe8cb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-six-thin`
   static const IconifyIconData textHSixThin = IconifyIconData.solo(
-    IconData(0xe8cc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-thin`
   static const IconifyIconData textHThin = IconifyIconData.solo(
-    IconData(0xe8cd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-three`
   static const IconifyIconData textHThree = IconifyIconData.solo(
-    IconData(0xe8ce, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-three-bold`
   static const IconifyIconData textHThreeBold = IconifyIconData.solo(
-    IconData(0xe8cf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-three-duotone` (duo-tone)
   static const IconifyIconData textHThreeDuotone = IconifyIconData.duo(
-    IconData(0xe8d0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8d0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08d0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-three-fill`
   static const IconifyIconData textHThreeFill = IconifyIconData.solo(
-    IconData(0xe8d1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08d1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-three-light`
   static const IconifyIconData textHThreeLight = IconifyIconData.solo(
-    IconData(0xe8d2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-three-thin`
   static const IconifyIconData textHThreeThin = IconifyIconData.solo(
-    IconData(0xe8d3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-two`
   static const IconifyIconData textHTwo = IconifyIconData.solo(
-    IconData(0xe8d4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-two-bold`
   static const IconifyIconData textHTwoBold = IconifyIconData.solo(
-    IconData(0xe8d5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08d5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-two-duotone` (duo-tone)
   static const IconifyIconData textHTwoDuotone = IconifyIconData.duo(
-    IconData(0xe8d6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8d6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08d6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08d6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-two-fill`
   static const IconifyIconData textHTwoFill = IconifyIconData.solo(
-    IconData(0xe8d7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-two-light`
   static const IconifyIconData textHTwoLight = IconifyIconData.solo(
-    IconData(0xe8d8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08d8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-h-two-thin`
   static const IconifyIconData textHTwoThin = IconifyIconData.solo(
-    IconData(0xe8d9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08d9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-indent`
   static const IconifyIconData textIndent = IconifyIconData.solo(
-    IconData(0xe8da, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08da, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-indent-bold`
   static const IconifyIconData textIndentBold = IconifyIconData.solo(
-    IconData(0xe8db, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-indent-duotone` (duo-tone)
   static const IconifyIconData textIndentDuotone = IconifyIconData.duo(
-    IconData(0xe8dc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8dc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08dc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-indent-fill`
   static const IconifyIconData textIndentFill = IconifyIconData.solo(
-    IconData(0xe8dd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-indent-light`
   static const IconifyIconData textIndentLight = IconifyIconData.solo(
-    IconData(0xe8de, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08de, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-indent-thin`
   static const IconifyIconData textIndentThin = IconifyIconData.solo(
-    IconData(0xe8df, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08df, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-italic`
   static const IconifyIconData textItalic = IconifyIconData.solo(
-    IconData(0xe8e0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08e0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-italic-bold`
   static const IconifyIconData textItalicBold = IconifyIconData.solo(
-    IconData(0xe8e1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-italic-duotone` (duo-tone)
   static const IconifyIconData textItalicDuotone = IconifyIconData.duo(
-    IconData(0xe8e2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8e2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08e2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-italic-fill`
   static const IconifyIconData textItalicFill = IconifyIconData.solo(
-    IconData(0xe8e3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-italic-light`
   static const IconifyIconData textItalicLight = IconifyIconData.solo(
-    IconData(0xe8e4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-italic-thin`
   static const IconifyIconData textItalicThin = IconifyIconData.solo(
-    IconData(0xe8e5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08e5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-light`
   static const IconifyIconData textLight = IconifyIconData.solo(
-    IconData(0xe8e6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-outdent`
   static const IconifyIconData textOutdent = IconifyIconData.solo(
-    IconData(0xe8e7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-outdent-bold`
   static const IconifyIconData textOutdentBold = IconifyIconData.solo(
-    IconData(0xe8e8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-outdent-duotone` (duo-tone)
   static const IconifyIconData textOutdentDuotone = IconifyIconData.duo(
-    IconData(0xe8e9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8e9, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08e9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08e9, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-outdent-fill`
   static const IconifyIconData textOutdentFill = IconifyIconData.solo(
-    IconData(0xe8ea, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-outdent-light`
   static const IconifyIconData textOutdentLight = IconifyIconData.solo(
-    IconData(0xe8eb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-outdent-thin`
   static const IconifyIconData textOutdentThin = IconifyIconData.solo(
-    IconData(0xe8ec, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-strikethrough`
   static const IconifyIconData textStrikethrough = IconifyIconData.solo(
-    IconData(0xe8ed, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-strikethrough-bold`
   static const IconifyIconData textStrikethroughBold = IconifyIconData.solo(
-    IconData(0xe8ee, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-strikethrough-duotone` (duo-tone)
   static const IconifyIconData textStrikethroughDuotone = IconifyIconData.duo(
-    IconData(0xe8ef, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8ef, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ef, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-strikethrough-fill`
   static const IconifyIconData textStrikethroughFill = IconifyIconData.solo(
-    IconData(0xe8f0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-strikethrough-light`
   static const IconifyIconData textStrikethroughLight = IconifyIconData.solo(
-    IconData(0xe8f1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08f1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-strikethrough-thin`
   static const IconifyIconData textStrikethroughThin = IconifyIconData.solo(
-    IconData(0xe8f2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08f2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-subscript`
   static const IconifyIconData textSubscript = IconifyIconData.solo(
-    IconData(0xe8f3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-subscript-bold`
   static const IconifyIconData textSubscriptBold = IconifyIconData.solo(
-    IconData(0xe8f4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-subscript-duotone` (duo-tone)
   static const IconifyIconData textSubscriptDuotone = IconifyIconData.duo(
-    IconData(0xe8f5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8f5, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08f5, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-subscript-fill`
   static const IconifyIconData textSubscriptFill = IconifyIconData.solo(
-    IconData(0xe8f6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-subscript-light`
   static const IconifyIconData textSubscriptLight = IconifyIconData.solo(
-    IconData(0xe8f7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08f7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-subscript-thin`
   static const IconifyIconData textSubscriptThin = IconifyIconData.solo(
-    IconData(0xe8f8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08f8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-superscript`
   static const IconifyIconData textSuperscript = IconifyIconData.solo(
-    IconData(0xe8f9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-superscript-bold`
   static const IconifyIconData textSuperscriptBold = IconifyIconData.solo(
-    IconData(0xe8fa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-superscript-duotone` (duo-tone)
   static const IconifyIconData textSuperscriptDuotone = IconifyIconData.duo(
-    IconData(0xe8fb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe8fb, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08fb, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-superscript-fill`
   static const IconifyIconData textSuperscriptFill = IconifyIconData.solo(
-    IconData(0xe8fc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-superscript-light`
   static const IconifyIconData textSuperscriptLight = IconifyIconData.solo(
-    IconData(0xe8fd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-superscript-thin`
   static const IconifyIconData textSuperscriptThin = IconifyIconData.solo(
-    IconData(0xe8fe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08fe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-t`
   static const IconifyIconData textT = IconifyIconData.solo(
-    IconData(0xe8ff, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf08ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-t-bold`
   static const IconifyIconData textTBold = IconifyIconData.solo(
-    IconData(0xe900, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0900, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-t-duotone` (duo-tone)
   static const IconifyIconData textTDuotone = IconifyIconData.duo(
-    IconData(0xe901, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe901, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0901, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0901, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-t-fill`
   static const IconifyIconData textTFill = IconifyIconData.solo(
-    IconData(0xe902, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0902, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-t-light`
   static const IconifyIconData textTLight = IconifyIconData.solo(
-    IconData(0xe903, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0903, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-t-slash`
   static const IconifyIconData textTSlash = IconifyIconData.solo(
-    IconData(0xe904, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0904, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-t-slash-bold`
   static const IconifyIconData textTSlashBold = IconifyIconData.solo(
-    IconData(0xe905, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0905, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-t-slash-duotone` (duo-tone)
   static const IconifyIconData textTSlashDuotone = IconifyIconData.duo(
-    IconData(0xe906, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe906, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0906, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0906, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-t-slash-fill`
   static const IconifyIconData textTSlashFill = IconifyIconData.solo(
-    IconData(0xe907, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0907, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-t-slash-light`
   static const IconifyIconData textTSlashLight = IconifyIconData.solo(
-    IconData(0xe908, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0908, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-t-slash-thin`
   static const IconifyIconData textTSlashThin = IconifyIconData.solo(
-    IconData(0xe909, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0909, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-t-thin`
   static const IconifyIconData textTThin = IconifyIconData.solo(
-    IconData(0xe90a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf090a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-thin`
   static const IconifyIconData textThin = IconifyIconData.solo(
-    IconData(0xe90b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf090b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-underline`
   static const IconifyIconData textUnderline = IconifyIconData.solo(
-    IconData(0xe90c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf090c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-underline-bold`
   static const IconifyIconData textUnderlineBold = IconifyIconData.solo(
-    IconData(0xe90d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf090d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-underline-duotone` (duo-tone)
   static const IconifyIconData textUnderlineDuotone = IconifyIconData.duo(
-    IconData(0xe90e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe90e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf090e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf090e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-underline-fill`
   static const IconifyIconData textUnderlineFill = IconifyIconData.solo(
-    IconData(0xe90f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf090f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-underline-light`
   static const IconifyIconData textUnderlineLight = IconifyIconData.solo(
-    IconData(0xe910, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0910, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `text-underline-thin`
   static const IconifyIconData textUnderlineThin = IconifyIconData.solo(
-    IconData(0xe911, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0911, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `textbox`
   static const IconifyIconData textbox = IconifyIconData.solo(
-    IconData(0xe912, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0912, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `textbox-bold`
   static const IconifyIconData textboxBold = IconifyIconData.solo(
-    IconData(0xe913, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0913, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `textbox-duotone` (duo-tone)
   static const IconifyIconData textboxDuotone = IconifyIconData.duo(
-    IconData(0xe914, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe914, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0914, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0914, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `textbox-fill`
   static const IconifyIconData textboxFill = IconifyIconData.solo(
-    IconData(0xe915, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0915, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `textbox-light`
   static const IconifyIconData textboxLight = IconifyIconData.solo(
-    IconData(0xe916, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0916, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `textbox-thin`
   static const IconifyIconData textboxThin = IconifyIconData.solo(
-    IconData(0xe917, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0917, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer`
   static const IconifyIconData thermometer = IconifyIconData.solo(
-    IconData(0xe918, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0918, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-bold`
   static const IconifyIconData thermometerBold = IconifyIconData.solo(
-    IconData(0xe919, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0919, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-cold`
   static const IconifyIconData thermometerCold = IconifyIconData.solo(
-    IconData(0xe91a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf091a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-cold-bold`
   static const IconifyIconData thermometerColdBold = IconifyIconData.solo(
-    IconData(0xe91b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf091b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-cold-duotone` (duo-tone)
   static const IconifyIconData thermometerColdDuotone = IconifyIconData.duo(
-    IconData(0xe91c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe91c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf091c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf091c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-cold-fill`
   static const IconifyIconData thermometerColdFill = IconifyIconData.solo(
-    IconData(0xe91d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf091d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-cold-light`
   static const IconifyIconData thermometerColdLight = IconifyIconData.solo(
-    IconData(0xe91e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf091e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-cold-thin`
   static const IconifyIconData thermometerColdThin = IconifyIconData.solo(
-    IconData(0xe91f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf091f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-duotone` (duo-tone)
   static const IconifyIconData thermometerDuotone = IconifyIconData.duo(
-    IconData(0xe920, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe920, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0920, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0920, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-fill`
   static const IconifyIconData thermometerFill = IconifyIconData.solo(
-    IconData(0xe921, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0921, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-hot`
   static const IconifyIconData thermometerHot = IconifyIconData.solo(
-    IconData(0xe922, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0922, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-hot-bold`
   static const IconifyIconData thermometerHotBold = IconifyIconData.solo(
-    IconData(0xe923, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0923, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-hot-duotone` (duo-tone)
   static const IconifyIconData thermometerHotDuotone = IconifyIconData.duo(
-    IconData(0xe924, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe924, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0924, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0924, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-hot-fill`
   static const IconifyIconData thermometerHotFill = IconifyIconData.solo(
-    IconData(0xe925, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0925, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-hot-light`
   static const IconifyIconData thermometerHotLight = IconifyIconData.solo(
-    IconData(0xe926, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0926, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-hot-thin`
   static const IconifyIconData thermometerHotThin = IconifyIconData.solo(
-    IconData(0xe927, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0927, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-light`
   static const IconifyIconData thermometerLight = IconifyIconData.solo(
-    IconData(0xe928, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0928, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-simple`
   static const IconifyIconData thermometerSimple = IconifyIconData.solo(
-    IconData(0xe929, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0929, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-simple-bold`
   static const IconifyIconData thermometerSimpleBold = IconifyIconData.solo(
-    IconData(0xe92a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf092a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-simple-duotone` (duo-tone)
   static const IconifyIconData thermometerSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe92b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe92b, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf092b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf092b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-simple-fill`
   static const IconifyIconData thermometerSimpleFill = IconifyIconData.solo(
-    IconData(0xe92c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf092c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-simple-light`
   static const IconifyIconData thermometerSimpleLight = IconifyIconData.solo(
-    IconData(0xe92d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf092d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-simple-thin`
   static const IconifyIconData thermometerSimpleThin = IconifyIconData.solo(
-    IconData(0xe92e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf092e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thermometer-thin`
   static const IconifyIconData thermometerThin = IconifyIconData.solo(
-    IconData(0xe92f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf092f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `threads-logo`
   static const IconifyIconData threadsLogo = IconifyIconData.solo(
-    IconData(0xe930, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0930, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `threads-logo-bold`
   static const IconifyIconData threadsLogoBold = IconifyIconData.solo(
-    IconData(0xe931, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0931, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `threads-logo-duotone` (duo-tone)
   static const IconifyIconData threadsLogoDuotone = IconifyIconData.duo(
-    IconData(0xe932, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe932, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0932, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0932, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `threads-logo-fill`
   static const IconifyIconData threadsLogoFill = IconifyIconData.solo(
-    IconData(0xe933, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0933, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `threads-logo-light`
   static const IconifyIconData threadsLogoLight = IconifyIconData.solo(
-    IconData(0xe934, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0934, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `threads-logo-thin`
   static const IconifyIconData threadsLogoThin = IconifyIconData.solo(
-    IconData(0xe935, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0935, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `three-d`
   static const IconifyIconData threeD = IconifyIconData.solo(
-    IconData(0xe936, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0936, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `three-d-bold`
   static const IconifyIconData threeDBold = IconifyIconData.solo(
-    IconData(0xe937, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0937, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `three-d-duotone` (duo-tone)
   static const IconifyIconData threeDDuotone = IconifyIconData.duo(
-    IconData(0xe938, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe938, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0938, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0938, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `three-d-fill`
   static const IconifyIconData threeDFill = IconifyIconData.solo(
-    IconData(0xe939, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0939, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `three-d-light`
   static const IconifyIconData threeDLight = IconifyIconData.solo(
-    IconData(0xe93a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf093a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `three-d-thin`
   static const IconifyIconData threeDThin = IconifyIconData.solo(
-    IconData(0xe93b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf093b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thumbs-down`
   static const IconifyIconData thumbsDown = IconifyIconData.solo(
-    IconData(0xe93c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf093c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thumbs-down-bold`
   static const IconifyIconData thumbsDownBold = IconifyIconData.solo(
-    IconData(0xe93d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf093d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thumbs-down-duotone` (duo-tone)
   static const IconifyIconData thumbsDownDuotone = IconifyIconData.duo(
-    IconData(0xe93e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe93e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf093e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf093e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thumbs-down-fill`
   static const IconifyIconData thumbsDownFill = IconifyIconData.solo(
-    IconData(0xe93f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf093f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thumbs-down-light`
   static const IconifyIconData thumbsDownLight = IconifyIconData.solo(
-    IconData(0xe940, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0940, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thumbs-down-thin`
   static const IconifyIconData thumbsDownThin = IconifyIconData.solo(
-    IconData(0xe941, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0941, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thumbs-up`
   static const IconifyIconData thumbsUp = IconifyIconData.solo(
-    IconData(0xe942, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0942, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thumbs-up-bold`
   static const IconifyIconData thumbsUpBold = IconifyIconData.solo(
-    IconData(0xe943, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0943, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thumbs-up-duotone` (duo-tone)
   static const IconifyIconData thumbsUpDuotone = IconifyIconData.duo(
-    IconData(0xe944, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe944, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0944, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0944, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thumbs-up-fill`
   static const IconifyIconData thumbsUpFill = IconifyIconData.solo(
-    IconData(0xe945, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0945, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thumbs-up-light`
   static const IconifyIconData thumbsUpLight = IconifyIconData.solo(
-    IconData(0xe946, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0946, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `thumbs-up-thin`
   static const IconifyIconData thumbsUpThin = IconifyIconData.solo(
-    IconData(0xe947, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0947, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ticket`
   static const IconifyIconData ticket = IconifyIconData.solo(
-    IconData(0xe948, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0948, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ticket-bold`
   static const IconifyIconData ticketBold = IconifyIconData.solo(
-    IconData(0xe949, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0949, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ticket-duotone` (duo-tone)
   static const IconifyIconData ticketDuotone = IconifyIconData.duo(
-    IconData(0xe94a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe94a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf094a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf094a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ticket-fill`
   static const IconifyIconData ticketFill = IconifyIconData.solo(
-    IconData(0xe94b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf094b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ticket-light`
   static const IconifyIconData ticketLight = IconifyIconData.solo(
-    IconData(0xe94c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf094c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `ticket-thin`
   static const IconifyIconData ticketThin = IconifyIconData.solo(
-    IconData(0xe94d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf094d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tidal-logo`
   static const IconifyIconData tidalLogo = IconifyIconData.solo(
-    IconData(0xe94e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf094e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tidal-logo-bold`
   static const IconifyIconData tidalLogoBold = IconifyIconData.solo(
-    IconData(0xe94f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf094f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tidal-logo-duotone` (duo-tone)
   static const IconifyIconData tidalLogoDuotone = IconifyIconData.duo(
-    IconData(0xe950, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe950, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0950, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0950, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tidal-logo-fill`
   static const IconifyIconData tidalLogoFill = IconifyIconData.solo(
-    IconData(0xe951, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0951, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tidal-logo-light`
   static const IconifyIconData tidalLogoLight = IconifyIconData.solo(
-    IconData(0xe952, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0952, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tidal-logo-thin`
   static const IconifyIconData tidalLogoThin = IconifyIconData.solo(
-    IconData(0xe953, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0953, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tiktok-logo`
   static const IconifyIconData tiktokLogo = IconifyIconData.solo(
-    IconData(0xe954, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0954, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tiktok-logo-bold`
   static const IconifyIconData tiktokLogoBold = IconifyIconData.solo(
-    IconData(0xe955, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0955, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tiktok-logo-duotone` (duo-tone)
   static const IconifyIconData tiktokLogoDuotone = IconifyIconData.duo(
-    IconData(0xe956, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe956, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0956, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0956, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tiktok-logo-fill`
   static const IconifyIconData tiktokLogoFill = IconifyIconData.solo(
-    IconData(0xe957, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0957, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tiktok-logo-light`
   static const IconifyIconData tiktokLogoLight = IconifyIconData.solo(
-    IconData(0xe958, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0958, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tiktok-logo-thin`
   static const IconifyIconData tiktokLogoThin = IconifyIconData.solo(
-    IconData(0xe959, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0959, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tilde`
   static const IconifyIconData tilde = IconifyIconData.solo(
-    IconData(0xe95a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf095a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tilde-bold`
   static const IconifyIconData tildeBold = IconifyIconData.solo(
-    IconData(0xe95b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf095b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tilde-duotone` (duo-tone)
   static const IconifyIconData tildeDuotone = IconifyIconData.duo(
-    IconData(0xe95c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe95c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf095c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf095c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tilde-fill`
   static const IconifyIconData tildeFill = IconifyIconData.solo(
-    IconData(0xe95d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf095d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tilde-light`
   static const IconifyIconData tildeLight = IconifyIconData.solo(
-    IconData(0xe95e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf095e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tilde-thin`
   static const IconifyIconData tildeThin = IconifyIconData.solo(
-    IconData(0xe95f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf095f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `timer`
   static const IconifyIconData timer = IconifyIconData.solo(
-    IconData(0xe960, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0960, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `timer-bold`
   static const IconifyIconData timerBold = IconifyIconData.solo(
-    IconData(0xe961, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0961, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `timer-duotone` (duo-tone)
   static const IconifyIconData timerDuotone = IconifyIconData.duo(
-    IconData(0xe962, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe962, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0962, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0962, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `timer-fill`
   static const IconifyIconData timerFill = IconifyIconData.solo(
-    IconData(0xe963, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0963, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `timer-light`
   static const IconifyIconData timerLight = IconifyIconData.solo(
-    IconData(0xe964, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0964, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `timer-thin`
   static const IconifyIconData timerThin = IconifyIconData.solo(
-    IconData(0xe965, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0965, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tip-jar`
   static const IconifyIconData tipJar = IconifyIconData.solo(
-    IconData(0xe966, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0966, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tip-jar-bold`
   static const IconifyIconData tipJarBold = IconifyIconData.solo(
-    IconData(0xe967, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0967, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tip-jar-duotone` (duo-tone)
   static const IconifyIconData tipJarDuotone = IconifyIconData.duo(
-    IconData(0xe968, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe968, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0968, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0968, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tip-jar-fill`
   static const IconifyIconData tipJarFill = IconifyIconData.solo(
-    IconData(0xe969, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0969, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tip-jar-light`
   static const IconifyIconData tipJarLight = IconifyIconData.solo(
-    IconData(0xe96a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf096a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tip-jar-thin`
   static const IconifyIconData tipJarThin = IconifyIconData.solo(
-    IconData(0xe96b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf096b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tipi`
   static const IconifyIconData tipi = IconifyIconData.solo(
-    IconData(0xe96c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf096c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tipi-bold`
   static const IconifyIconData tipiBold = IconifyIconData.solo(
-    IconData(0xe96d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf096d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tipi-duotone` (duo-tone)
   static const IconifyIconData tipiDuotone = IconifyIconData.duo(
-    IconData(0xe96e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe96e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf096e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf096e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tipi-fill`
   static const IconifyIconData tipiFill = IconifyIconData.solo(
-    IconData(0xe96f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf096f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tipi-light`
   static const IconifyIconData tipiLight = IconifyIconData.solo(
-    IconData(0xe970, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0970, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tipi-thin`
   static const IconifyIconData tipiThin = IconifyIconData.solo(
-    IconData(0xe971, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0971, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tire`
   static const IconifyIconData tire = IconifyIconData.solo(
-    IconData(0xe972, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0972, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tire-bold`
   static const IconifyIconData tireBold = IconifyIconData.solo(
-    IconData(0xe973, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0973, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tire-duotone` (duo-tone)
   static const IconifyIconData tireDuotone = IconifyIconData.duo(
-    IconData(0xe974, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe974, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0974, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0974, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tire-fill`
   static const IconifyIconData tireFill = IconifyIconData.solo(
-    IconData(0xe975, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0975, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tire-light`
   static const IconifyIconData tireLight = IconifyIconData.solo(
-    IconData(0xe976, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0976, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tire-thin`
   static const IconifyIconData tireThin = IconifyIconData.solo(
-    IconData(0xe977, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0977, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toggle-left`
   static const IconifyIconData toggleLeft = IconifyIconData.solo(
-    IconData(0xe978, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0978, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toggle-left-bold`
   static const IconifyIconData toggleLeftBold = IconifyIconData.solo(
-    IconData(0xe979, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0979, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toggle-left-duotone` (duo-tone)
   static const IconifyIconData toggleLeftDuotone = IconifyIconData.duo(
-    IconData(0xe97a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe97a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf097a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf097a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toggle-left-fill`
   static const IconifyIconData toggleLeftFill = IconifyIconData.solo(
-    IconData(0xe97b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf097b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toggle-left-light`
   static const IconifyIconData toggleLeftLight = IconifyIconData.solo(
-    IconData(0xe97c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf097c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toggle-left-thin`
   static const IconifyIconData toggleLeftThin = IconifyIconData.solo(
-    IconData(0xe97d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf097d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toggle-right`
   static const IconifyIconData toggleRight = IconifyIconData.solo(
-    IconData(0xe97e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf097e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toggle-right-bold`
   static const IconifyIconData toggleRightBold = IconifyIconData.solo(
-    IconData(0xe97f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf097f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toggle-right-duotone` (duo-tone)
   static const IconifyIconData toggleRightDuotone = IconifyIconData.duo(
-    IconData(0xe980, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe980, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0980, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0980, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toggle-right-fill`
   static const IconifyIconData toggleRightFill = IconifyIconData.solo(
-    IconData(0xe981, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0981, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toggle-right-light`
   static const IconifyIconData toggleRightLight = IconifyIconData.solo(
-    IconData(0xe982, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0982, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toggle-right-thin`
   static const IconifyIconData toggleRightThin = IconifyIconData.solo(
-    IconData(0xe983, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0983, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toilet`
   static const IconifyIconData toilet = IconifyIconData.solo(
-    IconData(0xe984, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0984, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toilet-bold`
   static const IconifyIconData toiletBold = IconifyIconData.solo(
-    IconData(0xe985, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0985, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toilet-duotone` (duo-tone)
   static const IconifyIconData toiletDuotone = IconifyIconData.duo(
-    IconData(0xe986, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe986, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0986, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0986, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toilet-fill`
   static const IconifyIconData toiletFill = IconifyIconData.solo(
-    IconData(0xe987, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0987, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toilet-light`
   static const IconifyIconData toiletLight = IconifyIconData.solo(
-    IconData(0xe988, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0988, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toilet-paper`
   static const IconifyIconData toiletPaper = IconifyIconData.solo(
-    IconData(0xe989, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0989, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toilet-paper-bold`
   static const IconifyIconData toiletPaperBold = IconifyIconData.solo(
-    IconData(0xe98a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf098a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toilet-paper-duotone` (duo-tone)
   static const IconifyIconData toiletPaperDuotone = IconifyIconData.duo(
-    IconData(0xe98b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe98b, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf098b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf098b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toilet-paper-fill`
   static const IconifyIconData toiletPaperFill = IconifyIconData.solo(
-    IconData(0xe98c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf098c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toilet-paper-light`
   static const IconifyIconData toiletPaperLight = IconifyIconData.solo(
-    IconData(0xe98d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf098d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toilet-paper-thin`
   static const IconifyIconData toiletPaperThin = IconifyIconData.solo(
-    IconData(0xe98e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf098e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toilet-thin`
   static const IconifyIconData toiletThin = IconifyIconData.solo(
-    IconData(0xe98f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf098f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toolbox`
   static const IconifyIconData toolbox = IconifyIconData.solo(
-    IconData(0xe990, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0990, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toolbox-bold`
   static const IconifyIconData toolboxBold = IconifyIconData.solo(
-    IconData(0xe991, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0991, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toolbox-duotone` (duo-tone)
   static const IconifyIconData toolboxDuotone = IconifyIconData.duo(
-    IconData(0xe992, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe992, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0992, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0992, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toolbox-fill`
   static const IconifyIconData toolboxFill = IconifyIconData.solo(
-    IconData(0xe993, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0993, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toolbox-light`
   static const IconifyIconData toolboxLight = IconifyIconData.solo(
-    IconData(0xe994, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0994, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `toolbox-thin`
   static const IconifyIconData toolboxThin = IconifyIconData.solo(
-    IconData(0xe995, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0995, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tooth`
   static const IconifyIconData tooth = IconifyIconData.solo(
-    IconData(0xe996, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0996, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tooth-bold`
   static const IconifyIconData toothBold = IconifyIconData.solo(
-    IconData(0xe997, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0997, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tooth-duotone` (duo-tone)
   static const IconifyIconData toothDuotone = IconifyIconData.duo(
-    IconData(0xe998, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe998, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0998, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0998, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tooth-fill`
   static const IconifyIconData toothFill = IconifyIconData.solo(
-    IconData(0xe999, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0999, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tooth-light`
   static const IconifyIconData toothLight = IconifyIconData.solo(
-    IconData(0xe99a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf099a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tooth-thin`
   static const IconifyIconData toothThin = IconifyIconData.solo(
-    IconData(0xe99b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf099b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tornado`
   static const IconifyIconData tornado = IconifyIconData.solo(
-    IconData(0xe99c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf099c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tornado-bold`
   static const IconifyIconData tornadoBold = IconifyIconData.solo(
-    IconData(0xe99d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf099d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tornado-duotone` (duo-tone)
   static const IconifyIconData tornadoDuotone = IconifyIconData.duo(
-    IconData(0xe99e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe99e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf099e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf099e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tornado-fill`
   static const IconifyIconData tornadoFill = IconifyIconData.solo(
-    IconData(0xe99f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf099f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tornado-light`
   static const IconifyIconData tornadoLight = IconifyIconData.solo(
-    IconData(0xe9a0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09a0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tornado-thin`
   static const IconifyIconData tornadoThin = IconifyIconData.solo(
-    IconData(0xe9a1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09a1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote`
   static const IconifyIconData tote = IconifyIconData.solo(
-    IconData(0xe9a2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09a2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote-bold`
   static const IconifyIconData toteBold = IconifyIconData.solo(
-    IconData(0xe9a3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09a3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote-duotone` (duo-tone)
   static const IconifyIconData toteDuotone = IconifyIconData.duo(
-    IconData(0xe9a4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9a4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09a4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09a4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote-fill`
   static const IconifyIconData toteFill = IconifyIconData.solo(
-    IconData(0xe9a5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09a5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote-light`
   static const IconifyIconData toteLight = IconifyIconData.solo(
-    IconData(0xe9a6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09a6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote-simple`
   static const IconifyIconData toteSimple = IconifyIconData.solo(
-    IconData(0xe9a7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09a7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote-simple-bold`
   static const IconifyIconData toteSimpleBold = IconifyIconData.solo(
-    IconData(0xe9a8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09a8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote-simple-duotone` (duo-tone)
   static const IconifyIconData toteSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe9a9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9a9, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09a9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09a9, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote-simple-fill`
   static const IconifyIconData toteSimpleFill = IconifyIconData.solo(
-    IconData(0xe9aa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09aa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote-simple-light`
   static const IconifyIconData toteSimpleLight = IconifyIconData.solo(
-    IconData(0xe9ab, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote-simple-thin`
   static const IconifyIconData toteSimpleThin = IconifyIconData.solo(
-    IconData(0xe9ac, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tote-thin`
   static const IconifyIconData toteThin = IconifyIconData.solo(
-    IconData(0xe9ad, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `towel`
   static const IconifyIconData towel = IconifyIconData.solo(
-    IconData(0xe9ae, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `towel-bold`
   static const IconifyIconData towelBold = IconifyIconData.solo(
-    IconData(0xe9af, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09af, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `towel-duotone` (duo-tone)
   static const IconifyIconData towelDuotone = IconifyIconData.duo(
-    IconData(0xe9b0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9b0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09b0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09b0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `towel-fill`
   static const IconifyIconData towelFill = IconifyIconData.solo(
-    IconData(0xe9b1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09b1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `towel-light`
   static const IconifyIconData towelLight = IconifyIconData.solo(
-    IconData(0xe9b2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09b2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `towel-thin`
   static const IconifyIconData towelThin = IconifyIconData.solo(
-    IconData(0xe9b3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09b3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tractor`
   static const IconifyIconData tractor = IconifyIconData.solo(
-    IconData(0xe9b4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09b4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tractor-bold`
   static const IconifyIconData tractorBold = IconifyIconData.solo(
-    IconData(0xe9b5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09b5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tractor-duotone` (duo-tone)
   static const IconifyIconData tractorDuotone = IconifyIconData.duo(
-    IconData(0xe9b6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9b6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09b6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09b6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tractor-fill`
   static const IconifyIconData tractorFill = IconifyIconData.solo(
-    IconData(0xe9b7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09b7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tractor-light`
   static const IconifyIconData tractorLight = IconifyIconData.solo(
-    IconData(0xe9b8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09b8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tractor-thin`
   static const IconifyIconData tractorThin = IconifyIconData.solo(
-    IconData(0xe9b9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09b9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark`
   static const IconifyIconData trademark = IconifyIconData.solo(
-    IconData(0xe9ba, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-bold`
   static const IconifyIconData trademarkBold = IconifyIconData.solo(
-    IconData(0xe9bb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09bb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-duotone` (duo-tone)
   static const IconifyIconData trademarkDuotone = IconifyIconData.duo(
-    IconData(0xe9bc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9bc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09bc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09bc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-fill`
   static const IconifyIconData trademarkFill = IconifyIconData.solo(
-    IconData(0xe9bd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09bd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-light`
   static const IconifyIconData trademarkLight = IconifyIconData.solo(
-    IconData(0xe9be, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09be, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-registered`
   static const IconifyIconData trademarkRegistered = IconifyIconData.solo(
-    IconData(0xe9bf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09bf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-registered-bold`
   static const IconifyIconData trademarkRegisteredBold = IconifyIconData.solo(
-    IconData(0xe9c0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09c0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-registered-duotone` (duo-tone)
   static const IconifyIconData trademarkRegisteredDuotone = IconifyIconData.duo(
-    IconData(0xe9c1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9c1, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09c1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09c1, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-registered-fill`
   static const IconifyIconData trademarkRegisteredFill = IconifyIconData.solo(
-    IconData(0xe9c2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09c2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-registered-light`
   static const IconifyIconData trademarkRegisteredLight = IconifyIconData.solo(
-    IconData(0xe9c3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09c3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-registered-thin`
   static const IconifyIconData trademarkRegisteredThin = IconifyIconData.solo(
-    IconData(0xe9c4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09c4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trademark-thin`
   static const IconifyIconData trademarkThin = IconifyIconData.solo(
-    IconData(0xe9c5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09c5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-cone`
   static const IconifyIconData trafficCone = IconifyIconData.solo(
-    IconData(0xe9c6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09c6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-cone-bold`
   static const IconifyIconData trafficConeBold = IconifyIconData.solo(
-    IconData(0xe9c7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09c7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-cone-duotone` (duo-tone)
   static const IconifyIconData trafficConeDuotone = IconifyIconData.duo(
-    IconData(0xe9c8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9c8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09c8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09c8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-cone-fill`
   static const IconifyIconData trafficConeFill = IconifyIconData.solo(
-    IconData(0xe9c9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09c9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-cone-light`
   static const IconifyIconData trafficConeLight = IconifyIconData.solo(
-    IconData(0xe9ca, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-cone-thin`
   static const IconifyIconData trafficConeThin = IconifyIconData.solo(
-    IconData(0xe9cb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09cb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-sign`
   static const IconifyIconData trafficSign = IconifyIconData.solo(
-    IconData(0xe9cc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09cc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-sign-bold`
   static const IconifyIconData trafficSignBold = IconifyIconData.solo(
-    IconData(0xe9cd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09cd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-sign-duotone` (duo-tone)
   static const IconifyIconData trafficSignDuotone = IconifyIconData.duo(
-    IconData(0xe9ce, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9ce, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ce, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-sign-fill`
   static const IconifyIconData trafficSignFill = IconifyIconData.solo(
-    IconData(0xe9cf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09cf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-sign-light`
   static const IconifyIconData trafficSignLight = IconifyIconData.solo(
-    IconData(0xe9d0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09d0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-sign-thin`
   static const IconifyIconData trafficSignThin = IconifyIconData.solo(
-    IconData(0xe9d1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09d1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-signal`
   static const IconifyIconData trafficSignal = IconifyIconData.solo(
-    IconData(0xe9d2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09d2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-signal-bold`
   static const IconifyIconData trafficSignalBold = IconifyIconData.solo(
-    IconData(0xe9d3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09d3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-signal-duotone` (duo-tone)
   static const IconifyIconData trafficSignalDuotone = IconifyIconData.duo(
-    IconData(0xe9d4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9d4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09d4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09d4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-signal-fill`
   static const IconifyIconData trafficSignalFill = IconifyIconData.solo(
-    IconData(0xe9d5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09d5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-signal-light`
   static const IconifyIconData trafficSignalLight = IconifyIconData.solo(
-    IconData(0xe9d6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09d6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `traffic-signal-thin`
   static const IconifyIconData trafficSignalThin = IconifyIconData.solo(
-    IconData(0xe9d7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09d7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train`
   static const IconifyIconData train = IconifyIconData.solo(
-    IconData(0xe9d8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09d8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-bold`
   static const IconifyIconData trainBold = IconifyIconData.solo(
-    IconData(0xe9d9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09d9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-duotone` (duo-tone)
   static const IconifyIconData trainDuotone = IconifyIconData.duo(
-    IconData(0xe9da, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9da, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09da, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09da, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-fill`
   static const IconifyIconData trainFill = IconifyIconData.solo(
-    IconData(0xe9db, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09db, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-light`
   static const IconifyIconData trainLight = IconifyIconData.solo(
-    IconData(0xe9dc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09dc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-regional`
   static const IconifyIconData trainRegional = IconifyIconData.solo(
-    IconData(0xe9dd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09dd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-regional-bold`
   static const IconifyIconData trainRegionalBold = IconifyIconData.solo(
-    IconData(0xe9de, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09de, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-regional-duotone` (duo-tone)
   static const IconifyIconData trainRegionalDuotone = IconifyIconData.duo(
-    IconData(0xe9df, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9df, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09df, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09df, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-regional-fill`
   static const IconifyIconData trainRegionalFill = IconifyIconData.solo(
-    IconData(0xe9e0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09e0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-regional-light`
   static const IconifyIconData trainRegionalLight = IconifyIconData.solo(
-    IconData(0xe9e1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09e1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-regional-thin`
   static const IconifyIconData trainRegionalThin = IconifyIconData.solo(
-    IconData(0xe9e2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09e2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-simple`
   static const IconifyIconData trainSimple = IconifyIconData.solo(
-    IconData(0xe9e3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09e3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-simple-bold`
   static const IconifyIconData trainSimpleBold = IconifyIconData.solo(
-    IconData(0xe9e4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09e4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-simple-duotone` (duo-tone)
   static const IconifyIconData trainSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe9e5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9e5, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09e5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09e5, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-simple-fill`
   static const IconifyIconData trainSimpleFill = IconifyIconData.solo(
-    IconData(0xe9e6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09e6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-simple-light`
   static const IconifyIconData trainSimpleLight = IconifyIconData.solo(
-    IconData(0xe9e7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09e7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-simple-thin`
   static const IconifyIconData trainSimpleThin = IconifyIconData.solo(
-    IconData(0xe9e8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09e8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `train-thin`
   static const IconifyIconData trainThin = IconifyIconData.solo(
-    IconData(0xe9e9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09e9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tram`
   static const IconifyIconData tram = IconifyIconData.solo(
-    IconData(0xe9ea, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tram-bold`
   static const IconifyIconData tramBold = IconifyIconData.solo(
-    IconData(0xe9eb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09eb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tram-duotone` (duo-tone)
   static const IconifyIconData tramDuotone = IconifyIconData.duo(
-    IconData(0xe9ec, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9ec, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ec, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tram-fill`
   static const IconifyIconData tramFill = IconifyIconData.solo(
-    IconData(0xe9ed, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tram-light`
   static const IconifyIconData tramLight = IconifyIconData.solo(
-    IconData(0xe9ee, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tram-thin`
   static const IconifyIconData tramThin = IconifyIconData.solo(
-    IconData(0xe9ef, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `translate`
   static const IconifyIconData translate = IconifyIconData.solo(
-    IconData(0xe9f0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09f0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `translate-bold`
   static const IconifyIconData translateBold = IconifyIconData.solo(
-    IconData(0xe9f1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09f1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `translate-duotone` (duo-tone)
   static const IconifyIconData translateDuotone = IconifyIconData.duo(
-    IconData(0xe9f2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9f2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09f2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09f2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `translate-fill`
   static const IconifyIconData translateFill = IconifyIconData.solo(
-    IconData(0xe9f3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09f3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `translate-light`
   static const IconifyIconData translateLight = IconifyIconData.solo(
-    IconData(0xe9f4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09f4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `translate-thin`
   static const IconifyIconData translateThin = IconifyIconData.solo(
-    IconData(0xe9f5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09f5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash`
   static const IconifyIconData trash = IconifyIconData.solo(
-    IconData(0xe9f6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09f6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash-bold`
   static const IconifyIconData trashBold = IconifyIconData.solo(
-    IconData(0xe9f7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09f7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash-duotone` (duo-tone)
   static const IconifyIconData trashDuotone = IconifyIconData.duo(
-    IconData(0xe9f8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9f8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09f8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09f8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash-fill`
   static const IconifyIconData trashFill = IconifyIconData.solo(
-    IconData(0xe9f9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09f9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash-light`
   static const IconifyIconData trashLight = IconifyIconData.solo(
-    IconData(0xe9fa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09fa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash-simple`
   static const IconifyIconData trashSimple = IconifyIconData.solo(
-    IconData(0xe9fb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09fb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash-simple-bold`
   static const IconifyIconData trashSimpleBold = IconifyIconData.solo(
-    IconData(0xe9fc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09fc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash-simple-duotone` (duo-tone)
   static const IconifyIconData trashSimpleDuotone = IconifyIconData.duo(
-    IconData(0xe9fd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xe9fd, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09fd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09fd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash-simple-fill`
   static const IconifyIconData trashSimpleFill = IconifyIconData.solo(
-    IconData(0xe9fe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09fe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash-simple-light`
   static const IconifyIconData trashSimpleLight = IconifyIconData.solo(
-    IconData(0xe9ff, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf09ff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash-simple-thin`
   static const IconifyIconData trashSimpleThin = IconifyIconData.solo(
-    IconData(0xea00, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a00, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trash-thin`
   static const IconifyIconData trashThin = IconifyIconData.solo(
-    IconData(0xea01, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a01, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray`
   static const IconifyIconData tray = IconifyIconData.solo(
-    IconData(0xea02, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a02, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-down`
   static const IconifyIconData trayArrowDown = IconifyIconData.solo(
-    IconData(0xea03, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a03, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-down-bold`
   static const IconifyIconData trayArrowDownBold = IconifyIconData.solo(
-    IconData(0xea04, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a04, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-down-duotone` (duo-tone)
   static const IconifyIconData trayArrowDownDuotone = IconifyIconData.duo(
-    IconData(0xea05, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea05, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a05, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a05, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-down-fill`
   static const IconifyIconData trayArrowDownFill = IconifyIconData.solo(
-    IconData(0xea06, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a06, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-down-light`
   static const IconifyIconData trayArrowDownLight = IconifyIconData.solo(
-    IconData(0xea07, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a07, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-down-thin`
   static const IconifyIconData trayArrowDownThin = IconifyIconData.solo(
-    IconData(0xea08, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a08, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-up`
   static const IconifyIconData trayArrowUp = IconifyIconData.solo(
-    IconData(0xea09, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a09, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-up-bold`
   static const IconifyIconData trayArrowUpBold = IconifyIconData.solo(
-    IconData(0xea0a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a0a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-up-duotone` (duo-tone)
   static const IconifyIconData trayArrowUpDuotone = IconifyIconData.duo(
-    IconData(0xea0b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea0b, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a0b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a0b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-up-fill`
   static const IconifyIconData trayArrowUpFill = IconifyIconData.solo(
-    IconData(0xea0c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a0c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-up-light`
   static const IconifyIconData trayArrowUpLight = IconifyIconData.solo(
-    IconData(0xea0d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a0d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-arrow-up-thin`
   static const IconifyIconData trayArrowUpThin = IconifyIconData.solo(
-    IconData(0xea0e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a0e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-bold`
   static const IconifyIconData trayBold = IconifyIconData.solo(
-    IconData(0xea0f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a0f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-duotone` (duo-tone)
   static const IconifyIconData trayDuotone = IconifyIconData.duo(
-    IconData(0xea10, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea10, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a10, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a10, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-fill`
   static const IconifyIconData trayFill = IconifyIconData.solo(
-    IconData(0xea11, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a11, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-light`
   static const IconifyIconData trayLight = IconifyIconData.solo(
-    IconData(0xea12, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a12, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tray-thin`
   static const IconifyIconData trayThin = IconifyIconData.solo(
-    IconData(0xea13, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a13, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `treasure-chest`
   static const IconifyIconData treasureChest = IconifyIconData.solo(
-    IconData(0xea14, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a14, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `treasure-chest-bold`
   static const IconifyIconData treasureChestBold = IconifyIconData.solo(
-    IconData(0xea15, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a15, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `treasure-chest-duotone` (duo-tone)
   static const IconifyIconData treasureChestDuotone = IconifyIconData.duo(
-    IconData(0xea16, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea16, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a16, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a16, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `treasure-chest-fill`
   static const IconifyIconData treasureChestFill = IconifyIconData.solo(
-    IconData(0xea17, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a17, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `treasure-chest-light`
   static const IconifyIconData treasureChestLight = IconifyIconData.solo(
-    IconData(0xea18, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a18, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `treasure-chest-thin`
   static const IconifyIconData treasureChestThin = IconifyIconData.solo(
-    IconData(0xea19, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a19, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree`
   static const IconifyIconData tree = IconifyIconData.solo(
-    IconData(0xea1a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a1a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-bold`
   static const IconifyIconData treeBold = IconifyIconData.solo(
-    IconData(0xea1b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a1b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-duotone` (duo-tone)
   static const IconifyIconData treeDuotone = IconifyIconData.duo(
-    IconData(0xea1c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea1c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a1c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a1c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-evergreen`
   static const IconifyIconData treeEvergreen = IconifyIconData.solo(
-    IconData(0xea1d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a1d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-evergreen-bold`
   static const IconifyIconData treeEvergreenBold = IconifyIconData.solo(
-    IconData(0xea1e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a1e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-evergreen-duotone` (duo-tone)
   static const IconifyIconData treeEvergreenDuotone = IconifyIconData.duo(
-    IconData(0xea1f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea1f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a1f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a1f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-evergreen-fill`
   static const IconifyIconData treeEvergreenFill = IconifyIconData.solo(
-    IconData(0xea20, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a20, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-evergreen-light`
   static const IconifyIconData treeEvergreenLight = IconifyIconData.solo(
-    IconData(0xea21, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a21, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-evergreen-thin`
   static const IconifyIconData treeEvergreenThin = IconifyIconData.solo(
-    IconData(0xea22, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a22, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-fill`
   static const IconifyIconData treeFill = IconifyIconData.solo(
-    IconData(0xea23, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a23, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-light`
   static const IconifyIconData treeLight = IconifyIconData.solo(
-    IconData(0xea24, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a24, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-palm`
   static const IconifyIconData treePalm = IconifyIconData.solo(
-    IconData(0xea25, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a25, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-palm-bold`
   static const IconifyIconData treePalmBold = IconifyIconData.solo(
-    IconData(0xea26, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a26, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-palm-duotone` (duo-tone)
   static const IconifyIconData treePalmDuotone = IconifyIconData.duo(
-    IconData(0xea27, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea27, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a27, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a27, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-palm-fill`
   static const IconifyIconData treePalmFill = IconifyIconData.solo(
-    IconData(0xea28, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a28, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-palm-light`
   static const IconifyIconData treePalmLight = IconifyIconData.solo(
-    IconData(0xea29, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a29, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-palm-thin`
   static const IconifyIconData treePalmThin = IconifyIconData.solo(
-    IconData(0xea2a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a2a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-structure`
   static const IconifyIconData treeStructure = IconifyIconData.solo(
-    IconData(0xea2b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a2b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-structure-bold`
   static const IconifyIconData treeStructureBold = IconifyIconData.solo(
-    IconData(0xea2c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a2c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-structure-duotone` (duo-tone)
   static const IconifyIconData treeStructureDuotone = IconifyIconData.duo(
-    IconData(0xea2d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea2d, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a2d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a2d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-structure-fill`
   static const IconifyIconData treeStructureFill = IconifyIconData.solo(
-    IconData(0xea2e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a2e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-structure-light`
   static const IconifyIconData treeStructureLight = IconifyIconData.solo(
-    IconData(0xea2f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a2f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-structure-thin`
   static const IconifyIconData treeStructureThin = IconifyIconData.solo(
-    IconData(0xea30, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a30, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-thin`
   static const IconifyIconData treeThin = IconifyIconData.solo(
-    IconData(0xea31, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a31, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-view`
   static const IconifyIconData treeView = IconifyIconData.solo(
-    IconData(0xea32, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a32, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-view-bold`
   static const IconifyIconData treeViewBold = IconifyIconData.solo(
-    IconData(0xea33, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a33, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-view-duotone` (duo-tone)
   static const IconifyIconData treeViewDuotone = IconifyIconData.duo(
-    IconData(0xea34, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea34, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a34, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a34, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-view-fill`
   static const IconifyIconData treeViewFill = IconifyIconData.solo(
-    IconData(0xea35, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a35, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-view-light`
   static const IconifyIconData treeViewLight = IconifyIconData.solo(
-    IconData(0xea36, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a36, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tree-view-thin`
   static const IconifyIconData treeViewThin = IconifyIconData.solo(
-    IconData(0xea37, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a37, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trend-down`
   static const IconifyIconData trendDown = IconifyIconData.solo(
-    IconData(0xea38, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a38, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trend-down-bold`
   static const IconifyIconData trendDownBold = IconifyIconData.solo(
-    IconData(0xea39, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a39, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trend-down-duotone` (duo-tone)
   static const IconifyIconData trendDownDuotone = IconifyIconData.duo(
-    IconData(0xea3a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea3a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a3a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a3a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trend-down-fill`
   static const IconifyIconData trendDownFill = IconifyIconData.solo(
-    IconData(0xea3b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a3b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trend-down-light`
   static const IconifyIconData trendDownLight = IconifyIconData.solo(
-    IconData(0xea3c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a3c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trend-down-thin`
   static const IconifyIconData trendDownThin = IconifyIconData.solo(
-    IconData(0xea3d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a3d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trend-up`
   static const IconifyIconData trendUp = IconifyIconData.solo(
-    IconData(0xea3e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a3e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trend-up-bold`
   static const IconifyIconData trendUpBold = IconifyIconData.solo(
-    IconData(0xea3f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a3f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trend-up-duotone` (duo-tone)
   static const IconifyIconData trendUpDuotone = IconifyIconData.duo(
-    IconData(0xea40, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea40, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a40, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a40, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trend-up-fill`
   static const IconifyIconData trendUpFill = IconifyIconData.solo(
-    IconData(0xea41, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a41, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trend-up-light`
   static const IconifyIconData trendUpLight = IconifyIconData.solo(
-    IconData(0xea42, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a42, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trend-up-thin`
   static const IconifyIconData trendUpThin = IconifyIconData.solo(
-    IconData(0xea43, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a43, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle`
   static const IconifyIconData triangle = IconifyIconData.solo(
-    IconData(0xea44, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a44, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle-bold`
   static const IconifyIconData triangleBold = IconifyIconData.solo(
-    IconData(0xea45, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a45, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle-dashed`
   static const IconifyIconData triangleDashed = IconifyIconData.solo(
-    IconData(0xea46, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a46, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle-dashed-bold`
   static const IconifyIconData triangleDashedBold = IconifyIconData.solo(
-    IconData(0xea47, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a47, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle-dashed-duotone` (duo-tone)
   static const IconifyIconData triangleDashedDuotone = IconifyIconData.duo(
-    IconData(0xea48, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea48, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a48, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a48, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle-dashed-fill`
   static const IconifyIconData triangleDashedFill = IconifyIconData.solo(
-    IconData(0xea49, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a49, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle-dashed-light`
   static const IconifyIconData triangleDashedLight = IconifyIconData.solo(
-    IconData(0xea4a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a4a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle-dashed-thin`
   static const IconifyIconData triangleDashedThin = IconifyIconData.solo(
-    IconData(0xea4b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a4b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle-duotone` (duo-tone)
   static const IconifyIconData triangleDuotone = IconifyIconData.duo(
-    IconData(0xea4c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea4c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a4c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a4c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle-fill`
   static const IconifyIconData triangleFill = IconifyIconData.solo(
-    IconData(0xea4d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a4d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle-light`
   static const IconifyIconData triangleLight = IconifyIconData.solo(
-    IconData(0xea4e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a4e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `triangle-thin`
   static const IconifyIconData triangleThin = IconifyIconData.solo(
-    IconData(0xea4f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a4f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trolley`
   static const IconifyIconData trolley = IconifyIconData.solo(
-    IconData(0xea50, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a50, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trolley-bold`
   static const IconifyIconData trolleyBold = IconifyIconData.solo(
-    IconData(0xea51, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a51, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trolley-duotone` (duo-tone)
   static const IconifyIconData trolleyDuotone = IconifyIconData.duo(
-    IconData(0xea52, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea52, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a52, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a52, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trolley-fill`
   static const IconifyIconData trolleyFill = IconifyIconData.solo(
-    IconData(0xea53, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a53, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trolley-light`
   static const IconifyIconData trolleyLight = IconifyIconData.solo(
-    IconData(0xea54, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a54, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trolley-suitcase`
   static const IconifyIconData trolleySuitcase = IconifyIconData.solo(
-    IconData(0xea55, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a55, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trolley-suitcase-bold`
   static const IconifyIconData trolleySuitcaseBold = IconifyIconData.solo(
-    IconData(0xea56, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a56, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trolley-suitcase-duotone` (duo-tone)
   static const IconifyIconData trolleySuitcaseDuotone = IconifyIconData.duo(
-    IconData(0xea57, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea57, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a57, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a57, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trolley-suitcase-fill`
   static const IconifyIconData trolleySuitcaseFill = IconifyIconData.solo(
-    IconData(0xea58, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a58, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trolley-suitcase-light`
   static const IconifyIconData trolleySuitcaseLight = IconifyIconData.solo(
-    IconData(0xea59, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a59, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trolley-suitcase-thin`
   static const IconifyIconData trolleySuitcaseThin = IconifyIconData.solo(
-    IconData(0xea5a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a5a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trolley-thin`
   static const IconifyIconData trolleyThin = IconifyIconData.solo(
-    IconData(0xea5b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a5b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trophy`
   static const IconifyIconData trophy = IconifyIconData.solo(
-    IconData(0xea5c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a5c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trophy-bold`
   static const IconifyIconData trophyBold = IconifyIconData.solo(
-    IconData(0xea5d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a5d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trophy-duotone` (duo-tone)
   static const IconifyIconData trophyDuotone = IconifyIconData.duo(
-    IconData(0xea5e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea5e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a5e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a5e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trophy-fill`
   static const IconifyIconData trophyFill = IconifyIconData.solo(
-    IconData(0xea5f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a5f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trophy-light`
   static const IconifyIconData trophyLight = IconifyIconData.solo(
-    IconData(0xea60, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a60, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `trophy-thin`
   static const IconifyIconData trophyThin = IconifyIconData.solo(
-    IconData(0xea61, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a61, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `truck`
   static const IconifyIconData truck = IconifyIconData.solo(
-    IconData(0xea62, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a62, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `truck-bold`
   static const IconifyIconData truckBold = IconifyIconData.solo(
-    IconData(0xea63, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a63, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `truck-duotone` (duo-tone)
   static const IconifyIconData truckDuotone = IconifyIconData.duo(
-    IconData(0xea64, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea64, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a64, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a64, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `truck-fill`
   static const IconifyIconData truckFill = IconifyIconData.solo(
-    IconData(0xea65, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a65, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `truck-light`
   static const IconifyIconData truckLight = IconifyIconData.solo(
-    IconData(0xea66, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a66, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `truck-thin`
   static const IconifyIconData truckThin = IconifyIconData.solo(
-    IconData(0xea67, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a67, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `truck-trailer`
   static const IconifyIconData truckTrailer = IconifyIconData.solo(
-    IconData(0xea68, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a68, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `truck-trailer-bold`
   static const IconifyIconData truckTrailerBold = IconifyIconData.solo(
-    IconData(0xea69, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a69, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `truck-trailer-duotone` (duo-tone)
   static const IconifyIconData truckTrailerDuotone = IconifyIconData.duo(
-    IconData(0xea6a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea6a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a6a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a6a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `truck-trailer-fill`
   static const IconifyIconData truckTrailerFill = IconifyIconData.solo(
-    IconData(0xea6b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a6b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `truck-trailer-light`
   static const IconifyIconData truckTrailerLight = IconifyIconData.solo(
-    IconData(0xea6c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a6c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `truck-trailer-thin`
   static const IconifyIconData truckTrailerThin = IconifyIconData.solo(
-    IconData(0xea6d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a6d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tumblr-logo`
   static const IconifyIconData tumblrLogo = IconifyIconData.solo(
-    IconData(0xea6e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a6e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tumblr-logo-bold`
   static const IconifyIconData tumblrLogoBold = IconifyIconData.solo(
-    IconData(0xea6f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a6f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tumblr-logo-duotone` (duo-tone)
   static const IconifyIconData tumblrLogoDuotone = IconifyIconData.duo(
-    IconData(0xea70, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea70, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a70, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a70, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tumblr-logo-fill`
   static const IconifyIconData tumblrLogoFill = IconifyIconData.solo(
-    IconData(0xea71, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a71, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tumblr-logo-light`
   static const IconifyIconData tumblrLogoLight = IconifyIconData.solo(
-    IconData(0xea72, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a72, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `tumblr-logo-thin`
   static const IconifyIconData tumblrLogoThin = IconifyIconData.solo(
-    IconData(0xea73, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a73, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `twitch-logo`
   static const IconifyIconData twitchLogo = IconifyIconData.solo(
-    IconData(0xea74, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a74, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `twitch-logo-bold`
   static const IconifyIconData twitchLogoBold = IconifyIconData.solo(
-    IconData(0xea75, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a75, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `twitch-logo-duotone` (duo-tone)
   static const IconifyIconData twitchLogoDuotone = IconifyIconData.duo(
-    IconData(0xea76, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea76, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a76, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a76, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `twitch-logo-fill`
   static const IconifyIconData twitchLogoFill = IconifyIconData.solo(
-    IconData(0xea77, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a77, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `twitch-logo-light`
   static const IconifyIconData twitchLogoLight = IconifyIconData.solo(
-    IconData(0xea78, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a78, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `twitch-logo-thin`
   static const IconifyIconData twitchLogoThin = IconifyIconData.solo(
-    IconData(0xea79, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a79, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `twitter-logo`
   static const IconifyIconData twitterLogo = IconifyIconData.solo(
-    IconData(0xea7a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a7a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `twitter-logo-bold`
   static const IconifyIconData twitterLogoBold = IconifyIconData.solo(
-    IconData(0xea7b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a7b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `twitter-logo-duotone` (duo-tone)
   static const IconifyIconData twitterLogoDuotone = IconifyIconData.duo(
-    IconData(0xea7c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea7c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a7c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a7c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `twitter-logo-fill`
   static const IconifyIconData twitterLogoFill = IconifyIconData.solo(
-    IconData(0xea7d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a7d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `twitter-logo-light`
   static const IconifyIconData twitterLogoLight = IconifyIconData.solo(
-    IconData(0xea7e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a7e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `twitter-logo-thin`
   static const IconifyIconData twitterLogoThin = IconifyIconData.solo(
-    IconData(0xea7f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a7f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `umbrella`
   static const IconifyIconData umbrella = IconifyIconData.solo(
-    IconData(0xea80, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a80, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `umbrella-bold`
   static const IconifyIconData umbrellaBold = IconifyIconData.solo(
-    IconData(0xea81, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a81, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `umbrella-duotone` (duo-tone)
   static const IconifyIconData umbrellaDuotone = IconifyIconData.duo(
-    IconData(0xea82, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea82, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a82, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a82, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `umbrella-fill`
   static const IconifyIconData umbrellaFill = IconifyIconData.solo(
-    IconData(0xea83, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a83, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `umbrella-light`
   static const IconifyIconData umbrellaLight = IconifyIconData.solo(
-    IconData(0xea84, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a84, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `umbrella-simple`
   static const IconifyIconData umbrellaSimple = IconifyIconData.solo(
-    IconData(0xea85, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a85, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `umbrella-simple-bold`
   static const IconifyIconData umbrellaSimpleBold = IconifyIconData.solo(
-    IconData(0xea86, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a86, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `umbrella-simple-duotone` (duo-tone)
   static const IconifyIconData umbrellaSimpleDuotone = IconifyIconData.duo(
-    IconData(0xea87, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea87, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a87, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a87, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `umbrella-simple-fill`
   static const IconifyIconData umbrellaSimpleFill = IconifyIconData.solo(
-    IconData(0xea88, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a88, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `umbrella-simple-light`
   static const IconifyIconData umbrellaSimpleLight = IconifyIconData.solo(
-    IconData(0xea89, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a89, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `umbrella-simple-thin`
   static const IconifyIconData umbrellaSimpleThin = IconifyIconData.solo(
-    IconData(0xea8a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a8a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `umbrella-thin`
   static const IconifyIconData umbrellaThin = IconifyIconData.solo(
-    IconData(0xea8b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a8b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `union`
   static const IconifyIconData union = IconifyIconData.solo(
-    IconData(0xea8c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a8c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `union-bold`
   static const IconifyIconData unionBold = IconifyIconData.solo(
-    IconData(0xea8d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a8d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `union-duotone` (duo-tone)
   static const IconifyIconData unionDuotone = IconifyIconData.duo(
-    IconData(0xea8e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea8e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a8e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a8e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `union-fill`
   static const IconifyIconData unionFill = IconifyIconData.solo(
-    IconData(0xea8f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a8f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `union-light`
   static const IconifyIconData unionLight = IconifyIconData.solo(
-    IconData(0xea90, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a90, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `union-thin`
   static const IconifyIconData unionThin = IconifyIconData.solo(
-    IconData(0xea91, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a91, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `unite`
   static const IconifyIconData unite = IconifyIconData.solo(
-    IconData(0xea92, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a92, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `unite-bold`
   static const IconifyIconData uniteBold = IconifyIconData.solo(
-    IconData(0xea93, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a93, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `unite-duotone` (duo-tone)
   static const IconifyIconData uniteDuotone = IconifyIconData.duo(
-    IconData(0xea94, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea94, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a94, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a94, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `unite-fill`
   static const IconifyIconData uniteFill = IconifyIconData.solo(
-    IconData(0xea95, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a95, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `unite-light`
   static const IconifyIconData uniteLight = IconifyIconData.solo(
-    IconData(0xea96, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a96, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `unite-square`
   static const IconifyIconData uniteSquare = IconifyIconData.solo(
-    IconData(0xea97, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a97, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `unite-square-bold`
   static const IconifyIconData uniteSquareBold = IconifyIconData.solo(
-    IconData(0xea98, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a98, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `unite-square-duotone` (duo-tone)
   static const IconifyIconData uniteSquareDuotone = IconifyIconData.duo(
-    IconData(0xea99, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xea99, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a99, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a99, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `unite-square-fill`
   static const IconifyIconData uniteSquareFill = IconifyIconData.solo(
-    IconData(0xea9a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a9a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `unite-square-light`
   static const IconifyIconData uniteSquareLight = IconifyIconData.solo(
-    IconData(0xea9b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a9b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `unite-square-thin`
   static const IconifyIconData uniteSquareThin = IconifyIconData.solo(
-    IconData(0xea9c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a9c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `unite-thin`
   static const IconifyIconData uniteThin = IconifyIconData.solo(
-    IconData(0xea9d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a9d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload`
   static const IconifyIconData upload = IconifyIconData.solo(
-    IconData(0xea9e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a9e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-bold`
   static const IconifyIconData uploadBold = IconifyIconData.solo(
-    IconData(0xea9f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0a9f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-duotone` (duo-tone)
   static const IconifyIconData uploadDuotone = IconifyIconData.duo(
-    IconData(0xeaa0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeaa0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aa0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aa0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-fill`
   static const IconifyIconData uploadFill = IconifyIconData.solo(
-    IconData(0xeaa1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aa1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-light`
   static const IconifyIconData uploadLight = IconifyIconData.solo(
-    IconData(0xeaa2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aa2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-simple`
   static const IconifyIconData uploadSimple = IconifyIconData.solo(
-    IconData(0xeaa3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aa3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-simple-bold`
   static const IconifyIconData uploadSimpleBold = IconifyIconData.solo(
-    IconData(0xeaa4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aa4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-simple-duotone` (duo-tone)
   static const IconifyIconData uploadSimpleDuotone = IconifyIconData.duo(
-    IconData(0xeaa5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeaa5, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aa5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aa5, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-simple-fill`
   static const IconifyIconData uploadSimpleFill = IconifyIconData.solo(
-    IconData(0xeaa6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aa6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-simple-light`
   static const IconifyIconData uploadSimpleLight = IconifyIconData.solo(
-    IconData(0xeaa7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aa7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-simple-thin`
   static const IconifyIconData uploadSimpleThin = IconifyIconData.solo(
-    IconData(0xeaa8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aa8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `upload-thin`
   static const IconifyIconData uploadThin = IconifyIconData.solo(
-    IconData(0xeaa9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aa9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `usb`
   static const IconifyIconData usb = IconifyIconData.solo(
-    IconData(0xeaaa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aaa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `usb-bold`
   static const IconifyIconData usbBold = IconifyIconData.solo(
-    IconData(0xeaab, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `usb-duotone` (duo-tone)
   static const IconifyIconData usbDuotone = IconifyIconData.duo(
-    IconData(0xeaac, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeaac, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aac, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `usb-fill`
   static const IconifyIconData usbFill = IconifyIconData.solo(
-    IconData(0xeaad, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `usb-light`
   static const IconifyIconData usbLight = IconifyIconData.solo(
-    IconData(0xeaae, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `usb-thin`
   static const IconifyIconData usbThin = IconifyIconData.solo(
-    IconData(0xeaaf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aaf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user`
   static const IconifyIconData user = IconifyIconData.solo(
-    IconData(0xeab0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ab0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-bold`
   static const IconifyIconData userBold = IconifyIconData.solo(
-    IconData(0xeab1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ab1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-check`
   static const IconifyIconData userCheck = IconifyIconData.solo(
-    IconData(0xeab2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ab2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-check-bold`
   static const IconifyIconData userCheckBold = IconifyIconData.solo(
-    IconData(0xeab3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ab3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-check-duotone` (duo-tone)
   static const IconifyIconData userCheckDuotone = IconifyIconData.duo(
-    IconData(0xeab4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeab4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ab4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ab4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-check-fill`
   static const IconifyIconData userCheckFill = IconifyIconData.solo(
-    IconData(0xeab5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ab5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-check-light`
   static const IconifyIconData userCheckLight = IconifyIconData.solo(
-    IconData(0xeab6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ab6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-check-thin`
   static const IconifyIconData userCheckThin = IconifyIconData.solo(
-    IconData(0xeab7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ab7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle`
   static const IconifyIconData userCircle = IconifyIconData.solo(
-    IconData(0xeab8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ab8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-bold`
   static const IconifyIconData userCircleBold = IconifyIconData.solo(
-    IconData(0xeab9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ab9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-check`
   static const IconifyIconData userCircleCheck = IconifyIconData.solo(
-    IconData(0xeaba, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-check-bold`
   static const IconifyIconData userCircleCheckBold = IconifyIconData.solo(
-    IconData(0xeabb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0abb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-check-duotone` (duo-tone)
   static const IconifyIconData userCircleCheckDuotone = IconifyIconData.duo(
-    IconData(0xeabc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeabc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0abc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0abc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-check-fill`
   static const IconifyIconData userCircleCheckFill = IconifyIconData.solo(
-    IconData(0xeabd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0abd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-check-light`
   static const IconifyIconData userCircleCheckLight = IconifyIconData.solo(
-    IconData(0xeabe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0abe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-check-thin`
   static const IconifyIconData userCircleCheckThin = IconifyIconData.solo(
-    IconData(0xeabf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0abf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-dashed`
   static const IconifyIconData userCircleDashed = IconifyIconData.solo(
-    IconData(0xeac0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ac0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-dashed-bold`
   static const IconifyIconData userCircleDashedBold = IconifyIconData.solo(
-    IconData(0xeac1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ac1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-dashed-duotone` (duo-tone)
   static const IconifyIconData userCircleDashedDuotone = IconifyIconData.duo(
-    IconData(0xeac2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeac2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ac2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ac2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-dashed-fill`
   static const IconifyIconData userCircleDashedFill = IconifyIconData.solo(
-    IconData(0xeac3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ac3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-dashed-light`
   static const IconifyIconData userCircleDashedLight = IconifyIconData.solo(
-    IconData(0xeac4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ac4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-dashed-thin`
   static const IconifyIconData userCircleDashedThin = IconifyIconData.solo(
-    IconData(0xeac5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ac5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-duotone` (duo-tone)
   static const IconifyIconData userCircleDuotone = IconifyIconData.duo(
-    IconData(0xeac6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeac6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ac6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ac6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-fill`
   static const IconifyIconData userCircleFill = IconifyIconData.solo(
-    IconData(0xeac7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ac7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-gear`
   static const IconifyIconData userCircleGear = IconifyIconData.solo(
-    IconData(0xeac8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ac8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-gear-bold`
   static const IconifyIconData userCircleGearBold = IconifyIconData.solo(
-    IconData(0xeac9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ac9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-gear-duotone` (duo-tone)
   static const IconifyIconData userCircleGearDuotone = IconifyIconData.duo(
-    IconData(0xeaca, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeaca, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aca, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-gear-fill`
   static const IconifyIconData userCircleGearFill = IconifyIconData.solo(
-    IconData(0xeacb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0acb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-gear-light`
   static const IconifyIconData userCircleGearLight = IconifyIconData.solo(
-    IconData(0xeacc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0acc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-gear-thin`
   static const IconifyIconData userCircleGearThin = IconifyIconData.solo(
-    IconData(0xeacd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0acd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-light`
   static const IconifyIconData userCircleLight = IconifyIconData.solo(
-    IconData(0xeace, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ace, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-minus`
   static const IconifyIconData userCircleMinus = IconifyIconData.solo(
-    IconData(0xeacf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0acf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-minus-bold`
   static const IconifyIconData userCircleMinusBold = IconifyIconData.solo(
-    IconData(0xead0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ad0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-minus-duotone` (duo-tone)
   static const IconifyIconData userCircleMinusDuotone = IconifyIconData.duo(
-    IconData(0xead1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xead1, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ad1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ad1, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-minus-fill`
   static const IconifyIconData userCircleMinusFill = IconifyIconData.solo(
-    IconData(0xead2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ad2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-minus-light`
   static const IconifyIconData userCircleMinusLight = IconifyIconData.solo(
-    IconData(0xead3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ad3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-minus-thin`
   static const IconifyIconData userCircleMinusThin = IconifyIconData.solo(
-    IconData(0xead4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ad4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-plus`
   static const IconifyIconData userCirclePlus = IconifyIconData.solo(
-    IconData(0xead5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ad5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-plus-bold`
   static const IconifyIconData userCirclePlusBold = IconifyIconData.solo(
-    IconData(0xead6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ad6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-plus-duotone` (duo-tone)
   static const IconifyIconData userCirclePlusDuotone = IconifyIconData.duo(
-    IconData(0xead7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xead7, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ad7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ad7, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-plus-fill`
   static const IconifyIconData userCirclePlusFill = IconifyIconData.solo(
-    IconData(0xead8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ad8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-plus-light`
   static const IconifyIconData userCirclePlusLight = IconifyIconData.solo(
-    IconData(0xead9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ad9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-plus-thin`
   static const IconifyIconData userCirclePlusThin = IconifyIconData.solo(
-    IconData(0xeada, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ada, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-circle-thin`
   static const IconifyIconData userCircleThin = IconifyIconData.solo(
-    IconData(0xeadb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0adb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-duotone` (duo-tone)
   static const IconifyIconData userDuotone = IconifyIconData.duo(
-    IconData(0xeadc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeadc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0adc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0adc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-fill`
   static const IconifyIconData userFill = IconifyIconData.solo(
-    IconData(0xeadd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0add, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-focus`
   static const IconifyIconData userFocus = IconifyIconData.solo(
-    IconData(0xeade, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ade, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-focus-bold`
   static const IconifyIconData userFocusBold = IconifyIconData.solo(
-    IconData(0xeadf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0adf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-focus-duotone` (duo-tone)
   static const IconifyIconData userFocusDuotone = IconifyIconData.duo(
-    IconData(0xeae0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeae0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ae0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ae0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-focus-fill`
   static const IconifyIconData userFocusFill = IconifyIconData.solo(
-    IconData(0xeae1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ae1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-focus-light`
   static const IconifyIconData userFocusLight = IconifyIconData.solo(
-    IconData(0xeae2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ae2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-focus-thin`
   static const IconifyIconData userFocusThin = IconifyIconData.solo(
-    IconData(0xeae3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ae3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-gear`
   static const IconifyIconData userGear = IconifyIconData.solo(
-    IconData(0xeae4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ae4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-gear-bold`
   static const IconifyIconData userGearBold = IconifyIconData.solo(
-    IconData(0xeae5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ae5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-gear-duotone` (duo-tone)
   static const IconifyIconData userGearDuotone = IconifyIconData.duo(
-    IconData(0xeae6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeae6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ae6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ae6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-gear-fill`
   static const IconifyIconData userGearFill = IconifyIconData.solo(
-    IconData(0xeae7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ae7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-gear-light`
   static const IconifyIconData userGearLight = IconifyIconData.solo(
-    IconData(0xeae8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ae8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-gear-thin`
   static const IconifyIconData userGearThin = IconifyIconData.solo(
-    IconData(0xeae9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ae9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-light`
   static const IconifyIconData userLight = IconifyIconData.solo(
-    IconData(0xeaea, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-list`
   static const IconifyIconData userList = IconifyIconData.solo(
-    IconData(0xeaeb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aeb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-list-bold`
   static const IconifyIconData userListBold = IconifyIconData.solo(
-    IconData(0xeaec, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-list-duotone` (duo-tone)
   static const IconifyIconData userListDuotone = IconifyIconData.duo(
-    IconData(0xeaed, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeaed, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aed, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-list-fill`
   static const IconifyIconData userListFill = IconifyIconData.solo(
-    IconData(0xeaee, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-list-light`
   static const IconifyIconData userListLight = IconifyIconData.solo(
-    IconData(0xeaef, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-list-thin`
   static const IconifyIconData userListThin = IconifyIconData.solo(
-    IconData(0xeaf0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0af0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-minus`
   static const IconifyIconData userMinus = IconifyIconData.solo(
-    IconData(0xeaf1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0af1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-minus-bold`
   static const IconifyIconData userMinusBold = IconifyIconData.solo(
-    IconData(0xeaf2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0af2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-minus-duotone` (duo-tone)
   static const IconifyIconData userMinusDuotone = IconifyIconData.duo(
-    IconData(0xeaf3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeaf3, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0af3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0af3, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-minus-fill`
   static const IconifyIconData userMinusFill = IconifyIconData.solo(
-    IconData(0xeaf4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0af4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-minus-light`
   static const IconifyIconData userMinusLight = IconifyIconData.solo(
-    IconData(0xeaf5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0af5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-minus-thin`
   static const IconifyIconData userMinusThin = IconifyIconData.solo(
-    IconData(0xeaf6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0af6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-plus`
   static const IconifyIconData userPlus = IconifyIconData.solo(
-    IconData(0xeaf7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0af7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-plus-bold`
   static const IconifyIconData userPlusBold = IconifyIconData.solo(
-    IconData(0xeaf8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0af8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-plus-duotone` (duo-tone)
   static const IconifyIconData userPlusDuotone = IconifyIconData.duo(
-    IconData(0xeaf9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeaf9, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0af9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0af9, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-plus-fill`
   static const IconifyIconData userPlusFill = IconifyIconData.solo(
-    IconData(0xeafa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0afa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-plus-light`
   static const IconifyIconData userPlusLight = IconifyIconData.solo(
-    IconData(0xeafb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0afb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-plus-thin`
   static const IconifyIconData userPlusThin = IconifyIconData.solo(
-    IconData(0xeafc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0afc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-rectangle`
   static const IconifyIconData userRectangle = IconifyIconData.solo(
-    IconData(0xeafd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0afd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-rectangle-bold`
   static const IconifyIconData userRectangleBold = IconifyIconData.solo(
-    IconData(0xeafe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0afe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-rectangle-duotone` (duo-tone)
   static const IconifyIconData userRectangleDuotone = IconifyIconData.duo(
-    IconData(0xeaff, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeaff, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0aff, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-rectangle-fill`
   static const IconifyIconData userRectangleFill = IconifyIconData.solo(
-    IconData(0xeb00, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b00, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-rectangle-light`
   static const IconifyIconData userRectangleLight = IconifyIconData.solo(
-    IconData(0xeb01, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b01, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-rectangle-thin`
   static const IconifyIconData userRectangleThin = IconifyIconData.solo(
-    IconData(0xeb02, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b02, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-sound`
   static const IconifyIconData userSound = IconifyIconData.solo(
-    IconData(0xeb03, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b03, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-sound-bold`
   static const IconifyIconData userSoundBold = IconifyIconData.solo(
-    IconData(0xeb04, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b04, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-sound-duotone` (duo-tone)
   static const IconifyIconData userSoundDuotone = IconifyIconData.duo(
-    IconData(0xeb05, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb05, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b05, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b05, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-sound-fill`
   static const IconifyIconData userSoundFill = IconifyIconData.solo(
-    IconData(0xeb06, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b06, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-sound-light`
   static const IconifyIconData userSoundLight = IconifyIconData.solo(
-    IconData(0xeb07, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b07, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-sound-thin`
   static const IconifyIconData userSoundThin = IconifyIconData.solo(
-    IconData(0xeb08, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b08, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-square`
   static const IconifyIconData userSquare = IconifyIconData.solo(
-    IconData(0xeb09, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b09, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-square-bold`
   static const IconifyIconData userSquareBold = IconifyIconData.solo(
-    IconData(0xeb0a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b0a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-square-duotone` (duo-tone)
   static const IconifyIconData userSquareDuotone = IconifyIconData.duo(
-    IconData(0xeb0b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb0b, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b0b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b0b, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-square-fill`
   static const IconifyIconData userSquareFill = IconifyIconData.solo(
-    IconData(0xeb0c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b0c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-square-light`
   static const IconifyIconData userSquareLight = IconifyIconData.solo(
-    IconData(0xeb0d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b0d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-square-thin`
   static const IconifyIconData userSquareThin = IconifyIconData.solo(
-    IconData(0xeb0e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b0e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-switch`
   static const IconifyIconData userSwitch = IconifyIconData.solo(
-    IconData(0xeb0f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b0f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-switch-bold`
   static const IconifyIconData userSwitchBold = IconifyIconData.solo(
-    IconData(0xeb10, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b10, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-switch-duotone` (duo-tone)
   static const IconifyIconData userSwitchDuotone = IconifyIconData.duo(
-    IconData(0xeb11, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb11, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b11, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b11, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-switch-fill`
   static const IconifyIconData userSwitchFill = IconifyIconData.solo(
-    IconData(0xeb12, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b12, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-switch-light`
   static const IconifyIconData userSwitchLight = IconifyIconData.solo(
-    IconData(0xeb13, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b13, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-switch-thin`
   static const IconifyIconData userSwitchThin = IconifyIconData.solo(
-    IconData(0xeb14, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b14, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `user-thin`
   static const IconifyIconData userThin = IconifyIconData.solo(
-    IconData(0xeb15, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b15, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users`
   static const IconifyIconData users = IconifyIconData.solo(
-    IconData(0xeb16, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b16, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-bold`
   static const IconifyIconData usersBold = IconifyIconData.solo(
-    IconData(0xeb17, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b17, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-duotone` (duo-tone)
   static const IconifyIconData usersDuotone = IconifyIconData.duo(
-    IconData(0xeb18, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb18, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b18, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b18, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-fill`
   static const IconifyIconData usersFill = IconifyIconData.solo(
-    IconData(0xeb19, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b19, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-four`
   static const IconifyIconData usersFour = IconifyIconData.solo(
-    IconData(0xeb1a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b1a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-four-bold`
   static const IconifyIconData usersFourBold = IconifyIconData.solo(
-    IconData(0xeb1b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b1b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-four-duotone` (duo-tone)
   static const IconifyIconData usersFourDuotone = IconifyIconData.duo(
-    IconData(0xeb1c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb1c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b1c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b1c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-four-fill`
   static const IconifyIconData usersFourFill = IconifyIconData.solo(
-    IconData(0xeb1d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b1d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-four-light`
   static const IconifyIconData usersFourLight = IconifyIconData.solo(
-    IconData(0xeb1e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b1e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-four-thin`
   static const IconifyIconData usersFourThin = IconifyIconData.solo(
-    IconData(0xeb1f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b1f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-light`
   static const IconifyIconData usersLight = IconifyIconData.solo(
-    IconData(0xeb20, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b20, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-thin`
   static const IconifyIconData usersThin = IconifyIconData.solo(
-    IconData(0xeb21, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b21, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-three`
   static const IconifyIconData usersThree = IconifyIconData.solo(
-    IconData(0xeb22, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b22, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-three-bold`
   static const IconifyIconData usersThreeBold = IconifyIconData.solo(
-    IconData(0xeb23, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b23, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-three-duotone` (duo-tone)
   static const IconifyIconData usersThreeDuotone = IconifyIconData.duo(
-    IconData(0xeb24, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb24, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b24, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b24, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-three-fill`
   static const IconifyIconData usersThreeFill = IconifyIconData.solo(
-    IconData(0xeb25, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b25, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-three-light`
   static const IconifyIconData usersThreeLight = IconifyIconData.solo(
-    IconData(0xeb26, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b26, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `users-three-thin`
   static const IconifyIconData usersThreeThin = IconifyIconData.solo(
-    IconData(0xeb27, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b27, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `van`
   static const IconifyIconData van = IconifyIconData.solo(
-    IconData(0xeb28, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b28, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `van-bold`
   static const IconifyIconData vanBold = IconifyIconData.solo(
-    IconData(0xeb29, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b29, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `van-duotone` (duo-tone)
   static const IconifyIconData vanDuotone = IconifyIconData.duo(
-    IconData(0xeb2a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb2a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b2a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b2a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `van-fill`
   static const IconifyIconData vanFill = IconifyIconData.solo(
-    IconData(0xeb2b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b2b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `van-light`
   static const IconifyIconData vanLight = IconifyIconData.solo(
-    IconData(0xeb2c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b2c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `van-thin`
   static const IconifyIconData vanThin = IconifyIconData.solo(
-    IconData(0xeb2d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b2d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vault`
   static const IconifyIconData vault = IconifyIconData.solo(
-    IconData(0xeb2e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b2e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vault-bold`
   static const IconifyIconData vaultBold = IconifyIconData.solo(
-    IconData(0xeb2f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b2f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vault-duotone` (duo-tone)
   static const IconifyIconData vaultDuotone = IconifyIconData.duo(
-    IconData(0xeb30, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb30, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b30, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b30, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vault-fill`
   static const IconifyIconData vaultFill = IconifyIconData.solo(
-    IconData(0xeb31, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b31, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vault-light`
   static const IconifyIconData vaultLight = IconifyIconData.solo(
-    IconData(0xeb32, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b32, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vault-thin`
   static const IconifyIconData vaultThin = IconifyIconData.solo(
-    IconData(0xeb33, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b33, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vector-three`
   static const IconifyIconData vectorThree = IconifyIconData.solo(
-    IconData(0xeb34, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b34, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vector-three-bold`
   static const IconifyIconData vectorThreeBold = IconifyIconData.solo(
-    IconData(0xeb35, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b35, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vector-three-duotone` (duo-tone)
   static const IconifyIconData vectorThreeDuotone = IconifyIconData.duo(
-    IconData(0xeb36, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb36, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b36, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b36, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vector-three-fill`
   static const IconifyIconData vectorThreeFill = IconifyIconData.solo(
-    IconData(0xeb37, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b37, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vector-three-light`
   static const IconifyIconData vectorThreeLight = IconifyIconData.solo(
-    IconData(0xeb38, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b38, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vector-three-thin`
   static const IconifyIconData vectorThreeThin = IconifyIconData.solo(
-    IconData(0xeb39, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b39, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vector-two`
   static const IconifyIconData vectorTwo = IconifyIconData.solo(
-    IconData(0xeb3a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b3a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vector-two-bold`
   static const IconifyIconData vectorTwoBold = IconifyIconData.solo(
-    IconData(0xeb3b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b3b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vector-two-duotone` (duo-tone)
   static const IconifyIconData vectorTwoDuotone = IconifyIconData.duo(
-    IconData(0xeb3c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb3c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b3c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b3c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vector-two-fill`
   static const IconifyIconData vectorTwoFill = IconifyIconData.solo(
-    IconData(0xeb3d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b3d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vector-two-light`
   static const IconifyIconData vectorTwoLight = IconifyIconData.solo(
-    IconData(0xeb3e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b3e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vector-two-thin`
   static const IconifyIconData vectorTwoThin = IconifyIconData.solo(
-    IconData(0xeb3f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b3f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vibrate`
   static const IconifyIconData vibrate = IconifyIconData.solo(
-    IconData(0xeb40, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b40, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vibrate-bold`
   static const IconifyIconData vibrateBold = IconifyIconData.solo(
-    IconData(0xeb41, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b41, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vibrate-duotone` (duo-tone)
   static const IconifyIconData vibrateDuotone = IconifyIconData.duo(
-    IconData(0xeb42, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb42, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b42, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b42, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vibrate-fill`
   static const IconifyIconData vibrateFill = IconifyIconData.solo(
-    IconData(0xeb43, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b43, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vibrate-light`
   static const IconifyIconData vibrateLight = IconifyIconData.solo(
-    IconData(0xeb44, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b44, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vibrate-thin`
   static const IconifyIconData vibrateThin = IconifyIconData.solo(
-    IconData(0xeb45, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b45, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video`
   static const IconifyIconData video = IconifyIconData.solo(
-    IconData(0xeb46, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b46, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-bold`
   static const IconifyIconData videoBold = IconifyIconData.solo(
-    IconData(0xeb47, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b47, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera`
   static const IconifyIconData videoCamera = IconifyIconData.solo(
-    IconData(0xeb48, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b48, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera-bold`
   static const IconifyIconData videoCameraBold = IconifyIconData.solo(
-    IconData(0xeb49, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b49, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera-duotone` (duo-tone)
   static const IconifyIconData videoCameraDuotone = IconifyIconData.duo(
-    IconData(0xeb4a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb4a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b4a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b4a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera-fill`
   static const IconifyIconData videoCameraFill = IconifyIconData.solo(
-    IconData(0xeb4b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b4b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera-light`
   static const IconifyIconData videoCameraLight = IconifyIconData.solo(
-    IconData(0xeb4c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b4c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera-slash`
   static const IconifyIconData videoCameraSlash = IconifyIconData.solo(
-    IconData(0xeb4d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b4d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera-slash-bold`
   static const IconifyIconData videoCameraSlashBold = IconifyIconData.solo(
-    IconData(0xeb4e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b4e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera-slash-duotone` (duo-tone)
   static const IconifyIconData videoCameraSlashDuotone = IconifyIconData.duo(
-    IconData(0xeb4f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb4f, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b4f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b4f, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera-slash-fill`
   static const IconifyIconData videoCameraSlashFill = IconifyIconData.solo(
-    IconData(0xeb50, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b50, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera-slash-light`
   static const IconifyIconData videoCameraSlashLight = IconifyIconData.solo(
-    IconData(0xeb51, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b51, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera-slash-thin`
   static const IconifyIconData videoCameraSlashThin = IconifyIconData.solo(
-    IconData(0xeb52, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b52, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-camera-thin`
   static const IconifyIconData videoCameraThin = IconifyIconData.solo(
-    IconData(0xeb53, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b53, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-conference`
   static const IconifyIconData videoConference = IconifyIconData.solo(
-    IconData(0xeb54, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b54, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-conference-bold`
   static const IconifyIconData videoConferenceBold = IconifyIconData.solo(
-    IconData(0xeb55, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b55, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-conference-duotone` (duo-tone)
   static const IconifyIconData videoConferenceDuotone = IconifyIconData.duo(
-    IconData(0xeb56, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb56, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b56, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b56, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-conference-fill`
   static const IconifyIconData videoConferenceFill = IconifyIconData.solo(
-    IconData(0xeb57, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b57, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-conference-light`
   static const IconifyIconData videoConferenceLight = IconifyIconData.solo(
-    IconData(0xeb58, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b58, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-conference-thin`
   static const IconifyIconData videoConferenceThin = IconifyIconData.solo(
-    IconData(0xeb59, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b59, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-duotone` (duo-tone)
   static const IconifyIconData videoDuotone = IconifyIconData.duo(
-    IconData(0xeb5a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb5a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b5a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b5a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-fill`
   static const IconifyIconData videoFill = IconifyIconData.solo(
-    IconData(0xeb5b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b5b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-light`
   static const IconifyIconData videoLight = IconifyIconData.solo(
-    IconData(0xeb5c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b5c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `video-thin`
   static const IconifyIconData videoThin = IconifyIconData.solo(
-    IconData(0xeb5d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b5d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vignette`
   static const IconifyIconData vignette = IconifyIconData.solo(
-    IconData(0xeb5e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b5e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vignette-bold`
   static const IconifyIconData vignetteBold = IconifyIconData.solo(
-    IconData(0xeb5f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b5f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vignette-duotone` (duo-tone)
   static const IconifyIconData vignetteDuotone = IconifyIconData.duo(
-    IconData(0xeb60, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb60, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b60, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b60, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vignette-fill`
   static const IconifyIconData vignetteFill = IconifyIconData.solo(
-    IconData(0xeb61, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b61, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vignette-light`
   static const IconifyIconData vignetteLight = IconifyIconData.solo(
-    IconData(0xeb62, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b62, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vignette-thin`
   static const IconifyIconData vignetteThin = IconifyIconData.solo(
-    IconData(0xeb63, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b63, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vinyl-record`
   static const IconifyIconData vinylRecord = IconifyIconData.solo(
-    IconData(0xeb64, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b64, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vinyl-record-bold`
   static const IconifyIconData vinylRecordBold = IconifyIconData.solo(
-    IconData(0xeb65, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b65, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vinyl-record-duotone` (duo-tone)
   static const IconifyIconData vinylRecordDuotone = IconifyIconData.duo(
-    IconData(0xeb66, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb66, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b66, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b66, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vinyl-record-fill`
   static const IconifyIconData vinylRecordFill = IconifyIconData.solo(
-    IconData(0xeb67, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b67, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vinyl-record-light`
   static const IconifyIconData vinylRecordLight = IconifyIconData.solo(
-    IconData(0xeb68, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b68, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `vinyl-record-thin`
   static const IconifyIconData vinylRecordThin = IconifyIconData.solo(
-    IconData(0xeb69, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b69, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `virtual-reality`
   static const IconifyIconData virtualReality = IconifyIconData.solo(
-    IconData(0xeb6a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b6a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `virtual-reality-bold`
   static const IconifyIconData virtualRealityBold = IconifyIconData.solo(
-    IconData(0xeb6b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b6b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `virtual-reality-duotone` (duo-tone)
   static const IconifyIconData virtualRealityDuotone = IconifyIconData.duo(
-    IconData(0xeb6c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb6c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b6c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b6c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `virtual-reality-fill`
   static const IconifyIconData virtualRealityFill = IconifyIconData.solo(
-    IconData(0xeb6d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b6d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `virtual-reality-light`
   static const IconifyIconData virtualRealityLight = IconifyIconData.solo(
-    IconData(0xeb6e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b6e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `virtual-reality-thin`
   static const IconifyIconData virtualRealityThin = IconifyIconData.solo(
-    IconData(0xeb6f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b6f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `virus`
   static const IconifyIconData virus = IconifyIconData.solo(
-    IconData(0xeb70, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b70, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `virus-bold`
   static const IconifyIconData virusBold = IconifyIconData.solo(
-    IconData(0xeb71, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b71, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `virus-duotone` (duo-tone)
   static const IconifyIconData virusDuotone = IconifyIconData.duo(
-    IconData(0xeb72, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb72, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b72, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b72, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `virus-fill`
   static const IconifyIconData virusFill = IconifyIconData.solo(
-    IconData(0xeb73, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b73, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `virus-light`
   static const IconifyIconData virusLight = IconifyIconData.solo(
-    IconData(0xeb74, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b74, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `virus-thin`
   static const IconifyIconData virusThin = IconifyIconData.solo(
-    IconData(0xeb75, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b75, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `visor`
   static const IconifyIconData visor = IconifyIconData.solo(
-    IconData(0xeb76, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b76, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `visor-bold`
   static const IconifyIconData visorBold = IconifyIconData.solo(
-    IconData(0xeb77, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b77, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `visor-duotone` (duo-tone)
   static const IconifyIconData visorDuotone = IconifyIconData.duo(
-    IconData(0xeb78, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb78, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b78, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b78, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `visor-fill`
   static const IconifyIconData visorFill = IconifyIconData.solo(
-    IconData(0xeb79, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b79, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `visor-light`
   static const IconifyIconData visorLight = IconifyIconData.solo(
-    IconData(0xeb7a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b7a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `visor-thin`
   static const IconifyIconData visorThin = IconifyIconData.solo(
-    IconData(0xeb7b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b7b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `voicemail`
   static const IconifyIconData voicemail = IconifyIconData.solo(
-    IconData(0xeb7c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b7c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `voicemail-bold`
   static const IconifyIconData voicemailBold = IconifyIconData.solo(
-    IconData(0xeb7d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b7d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `voicemail-duotone` (duo-tone)
   static const IconifyIconData voicemailDuotone = IconifyIconData.duo(
-    IconData(0xeb7e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb7e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b7e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b7e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `voicemail-fill`
   static const IconifyIconData voicemailFill = IconifyIconData.solo(
-    IconData(0xeb7f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b7f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `voicemail-light`
   static const IconifyIconData voicemailLight = IconifyIconData.solo(
-    IconData(0xeb80, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b80, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `voicemail-thin`
   static const IconifyIconData voicemailThin = IconifyIconData.solo(
-    IconData(0xeb81, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b81, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `volleyball`
   static const IconifyIconData volleyball = IconifyIconData.solo(
-    IconData(0xeb82, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b82, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `volleyball-bold`
   static const IconifyIconData volleyballBold = IconifyIconData.solo(
-    IconData(0xeb83, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b83, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `volleyball-duotone` (duo-tone)
   static const IconifyIconData volleyballDuotone = IconifyIconData.duo(
-    IconData(0xeb84, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb84, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b84, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b84, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `volleyball-fill`
   static const IconifyIconData volleyballFill = IconifyIconData.solo(
-    IconData(0xeb85, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b85, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `volleyball-light`
   static const IconifyIconData volleyballLight = IconifyIconData.solo(
-    IconData(0xeb86, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b86, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `volleyball-thin`
   static const IconifyIconData volleyballThin = IconifyIconData.solo(
-    IconData(0xeb87, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b87, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wall`
   static const IconifyIconData wall = IconifyIconData.solo(
-    IconData(0xeb88, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b88, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wall-bold`
   static const IconifyIconData wallBold = IconifyIconData.solo(
-    IconData(0xeb89, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b89, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wall-duotone` (duo-tone)
   static const IconifyIconData wallDuotone = IconifyIconData.duo(
-    IconData(0xeb8a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb8a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b8a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b8a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wall-fill`
   static const IconifyIconData wallFill = IconifyIconData.solo(
-    IconData(0xeb8b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b8b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wall-light`
   static const IconifyIconData wallLight = IconifyIconData.solo(
-    IconData(0xeb8c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b8c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wall-thin`
   static const IconifyIconData wallThin = IconifyIconData.solo(
-    IconData(0xeb8d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b8d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wallet`
   static const IconifyIconData wallet = IconifyIconData.solo(
-    IconData(0xeb8e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b8e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wallet-bold`
   static const IconifyIconData walletBold = IconifyIconData.solo(
-    IconData(0xeb8f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b8f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wallet-duotone` (duo-tone)
   static const IconifyIconData walletDuotone = IconifyIconData.duo(
-    IconData(0xeb90, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb90, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b90, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b90, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wallet-fill`
   static const IconifyIconData walletFill = IconifyIconData.solo(
-    IconData(0xeb91, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b91, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wallet-light`
   static const IconifyIconData walletLight = IconifyIconData.solo(
-    IconData(0xeb92, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b92, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wallet-thin`
   static const IconifyIconData walletThin = IconifyIconData.solo(
-    IconData(0xeb93, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b93, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warehouse`
   static const IconifyIconData warehouse = IconifyIconData.solo(
-    IconData(0xeb94, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b94, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warehouse-bold`
   static const IconifyIconData warehouseBold = IconifyIconData.solo(
-    IconData(0xeb95, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b95, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warehouse-duotone` (duo-tone)
   static const IconifyIconData warehouseDuotone = IconifyIconData.duo(
-    IconData(0xeb96, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb96, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b96, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b96, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warehouse-fill`
   static const IconifyIconData warehouseFill = IconifyIconData.solo(
-    IconData(0xeb97, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b97, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warehouse-light`
   static const IconifyIconData warehouseLight = IconifyIconData.solo(
-    IconData(0xeb98, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b98, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warehouse-thin`
   static const IconifyIconData warehouseThin = IconifyIconData.solo(
-    IconData(0xeb99, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b99, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning`
   static const IconifyIconData warning = IconifyIconData.solo(
-    IconData(0xeb9a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b9a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-bold`
   static const IconifyIconData warningBold = IconifyIconData.solo(
-    IconData(0xeb9b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b9b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-circle`
   static const IconifyIconData warningCircle = IconifyIconData.solo(
-    IconData(0xeb9c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b9c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-circle-bold`
   static const IconifyIconData warningCircleBold = IconifyIconData.solo(
-    IconData(0xeb9d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b9d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-circle-duotone` (duo-tone)
   static const IconifyIconData warningCircleDuotone = IconifyIconData.duo(
-    IconData(0xeb9e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeb9e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b9e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b9e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-circle-fill`
   static const IconifyIconData warningCircleFill = IconifyIconData.solo(
-    IconData(0xeb9f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0b9f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-circle-light`
   static const IconifyIconData warningCircleLight = IconifyIconData.solo(
-    IconData(0xeba0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ba0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-circle-thin`
   static const IconifyIconData warningCircleThin = IconifyIconData.solo(
-    IconData(0xeba1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ba1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-diamond`
   static const IconifyIconData warningDiamond = IconifyIconData.solo(
-    IconData(0xeba2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ba2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-diamond-bold`
   static const IconifyIconData warningDiamondBold = IconifyIconData.solo(
-    IconData(0xeba3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ba3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-diamond-duotone` (duo-tone)
   static const IconifyIconData warningDiamondDuotone = IconifyIconData.duo(
-    IconData(0xeba4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeba4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ba4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ba4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-diamond-fill`
   static const IconifyIconData warningDiamondFill = IconifyIconData.solo(
-    IconData(0xeba5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ba5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-diamond-light`
   static const IconifyIconData warningDiamondLight = IconifyIconData.solo(
-    IconData(0xeba6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ba6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-diamond-thin`
   static const IconifyIconData warningDiamondThin = IconifyIconData.solo(
-    IconData(0xeba7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ba7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-duotone` (duo-tone)
   static const IconifyIconData warningDuotone = IconifyIconData.duo(
-    IconData(0xeba8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xeba8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ba8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ba8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-fill`
   static const IconifyIconData warningFill = IconifyIconData.solo(
-    IconData(0xeba9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0ba9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-light`
   static const IconifyIconData warningLight = IconifyIconData.solo(
-    IconData(0xebaa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0baa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-octagon`
   static const IconifyIconData warningOctagon = IconifyIconData.solo(
-    IconData(0xebab, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bab, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-octagon-bold`
   static const IconifyIconData warningOctagonBold = IconifyIconData.solo(
-    IconData(0xebac, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bac, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-octagon-duotone` (duo-tone)
   static const IconifyIconData warningOctagonDuotone = IconifyIconData.duo(
-    IconData(0xebad, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebad, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bad, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bad, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-octagon-fill`
   static const IconifyIconData warningOctagonFill = IconifyIconData.solo(
-    IconData(0xebae, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bae, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-octagon-light`
   static const IconifyIconData warningOctagonLight = IconifyIconData.solo(
-    IconData(0xebaf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0baf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-octagon-thin`
   static const IconifyIconData warningOctagonThin = IconifyIconData.solo(
-    IconData(0xebb0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bb0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `warning-thin`
   static const IconifyIconData warningThin = IconifyIconData.solo(
-    IconData(0xebb1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bb1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `washing-machine`
   static const IconifyIconData washingMachine = IconifyIconData.solo(
-    IconData(0xebb2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bb2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `washing-machine-bold`
   static const IconifyIconData washingMachineBold = IconifyIconData.solo(
-    IconData(0xebb3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bb3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `washing-machine-duotone` (duo-tone)
   static const IconifyIconData washingMachineDuotone = IconifyIconData.duo(
-    IconData(0xebb4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebb4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bb4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bb4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `washing-machine-fill`
   static const IconifyIconData washingMachineFill = IconifyIconData.solo(
-    IconData(0xebb5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bb5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `washing-machine-light`
   static const IconifyIconData washingMachineLight = IconifyIconData.solo(
-    IconData(0xebb6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bb6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `washing-machine-thin`
   static const IconifyIconData washingMachineThin = IconifyIconData.solo(
-    IconData(0xebb7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bb7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `watch`
   static const IconifyIconData watch = IconifyIconData.solo(
-    IconData(0xebb8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bb8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `watch-bold`
   static const IconifyIconData watchBold = IconifyIconData.solo(
-    IconData(0xebb9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bb9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `watch-duotone` (duo-tone)
   static const IconifyIconData watchDuotone = IconifyIconData.duo(
-    IconData(0xebba, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebba, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bba, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bba, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `watch-fill`
   static const IconifyIconData watchFill = IconifyIconData.solo(
-    IconData(0xebbb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bbb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `watch-light`
   static const IconifyIconData watchLight = IconifyIconData.solo(
-    IconData(0xebbc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bbc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `watch-thin`
   static const IconifyIconData watchThin = IconifyIconData.solo(
-    IconData(0xebbd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bbd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-sawtooth`
   static const IconifyIconData waveSawtooth = IconifyIconData.solo(
-    IconData(0xebbe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bbe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-sawtooth-bold`
   static const IconifyIconData waveSawtoothBold = IconifyIconData.solo(
-    IconData(0xebbf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bbf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-sawtooth-duotone` (duo-tone)
   static const IconifyIconData waveSawtoothDuotone = IconifyIconData.duo(
-    IconData(0xebc0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebc0, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bc0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bc0, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-sawtooth-fill`
   static const IconifyIconData waveSawtoothFill = IconifyIconData.solo(
-    IconData(0xebc1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bc1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-sawtooth-light`
   static const IconifyIconData waveSawtoothLight = IconifyIconData.solo(
-    IconData(0xebc2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bc2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-sawtooth-thin`
   static const IconifyIconData waveSawtoothThin = IconifyIconData.solo(
-    IconData(0xebc3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bc3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-sine`
   static const IconifyIconData waveSine = IconifyIconData.solo(
-    IconData(0xebc4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bc4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-sine-bold`
   static const IconifyIconData waveSineBold = IconifyIconData.solo(
-    IconData(0xebc5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bc5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-sine-duotone` (duo-tone)
   static const IconifyIconData waveSineDuotone = IconifyIconData.duo(
-    IconData(0xebc6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebc6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bc6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bc6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-sine-fill`
   static const IconifyIconData waveSineFill = IconifyIconData.solo(
-    IconData(0xebc7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bc7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-sine-light`
   static const IconifyIconData waveSineLight = IconifyIconData.solo(
-    IconData(0xebc8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bc8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-sine-thin`
   static const IconifyIconData waveSineThin = IconifyIconData.solo(
-    IconData(0xebc9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bc9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-square`
   static const IconifyIconData waveSquare = IconifyIconData.solo(
-    IconData(0xebca, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bca, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-square-bold`
   static const IconifyIconData waveSquareBold = IconifyIconData.solo(
-    IconData(0xebcb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bcb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-square-duotone` (duo-tone)
   static const IconifyIconData waveSquareDuotone = IconifyIconData.duo(
-    IconData(0xebcc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebcc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bcc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bcc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-square-fill`
   static const IconifyIconData waveSquareFill = IconifyIconData.solo(
-    IconData(0xebcd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bcd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-square-light`
   static const IconifyIconData waveSquareLight = IconifyIconData.solo(
-    IconData(0xebce, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bce, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-square-thin`
   static const IconifyIconData waveSquareThin = IconifyIconData.solo(
-    IconData(0xebcf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bcf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-triangle`
   static const IconifyIconData waveTriangle = IconifyIconData.solo(
-    IconData(0xebd0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bd0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-triangle-bold`
   static const IconifyIconData waveTriangleBold = IconifyIconData.solo(
-    IconData(0xebd1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bd1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-triangle-duotone` (duo-tone)
   static const IconifyIconData waveTriangleDuotone = IconifyIconData.duo(
-    IconData(0xebd2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebd2, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bd2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bd2, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-triangle-fill`
   static const IconifyIconData waveTriangleFill = IconifyIconData.solo(
-    IconData(0xebd3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bd3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-triangle-light`
   static const IconifyIconData waveTriangleLight = IconifyIconData.solo(
-    IconData(0xebd4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bd4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wave-triangle-thin`
   static const IconifyIconData waveTriangleThin = IconifyIconData.solo(
-    IconData(0xebd5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bd5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform`
   static const IconifyIconData waveform = IconifyIconData.solo(
-    IconData(0xebd6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bd6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform-bold`
   static const IconifyIconData waveformBold = IconifyIconData.solo(
-    IconData(0xebd7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bd7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform-duotone` (duo-tone)
   static const IconifyIconData waveformDuotone = IconifyIconData.duo(
-    IconData(0xebd8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebd8, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bd8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bd8, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform-fill`
   static const IconifyIconData waveformFill = IconifyIconData.solo(
-    IconData(0xebd9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bd9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform-light`
   static const IconifyIconData waveformLight = IconifyIconData.solo(
-    IconData(0xebda, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bda, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform-slash`
   static const IconifyIconData waveformSlash = IconifyIconData.solo(
-    IconData(0xebdb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bdb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform-slash-bold`
   static const IconifyIconData waveformSlashBold = IconifyIconData.solo(
-    IconData(0xebdc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bdc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform-slash-duotone` (duo-tone)
   static const IconifyIconData waveformSlashDuotone = IconifyIconData.duo(
-    IconData(0xebdd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebdd, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bdd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bdd, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform-slash-fill`
   static const IconifyIconData waveformSlashFill = IconifyIconData.solo(
-    IconData(0xebde, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bde, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform-slash-light`
   static const IconifyIconData waveformSlashLight = IconifyIconData.solo(
-    IconData(0xebdf, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bdf, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform-slash-thin`
   static const IconifyIconData waveformSlashThin = IconifyIconData.solo(
-    IconData(0xebe0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0be0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waveform-thin`
   static const IconifyIconData waveformThin = IconifyIconData.solo(
-    IconData(0xebe1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0be1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waves`
   static const IconifyIconData waves = IconifyIconData.solo(
-    IconData(0xebe2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0be2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waves-bold`
   static const IconifyIconData wavesBold = IconifyIconData.solo(
-    IconData(0xebe3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0be3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waves-duotone` (duo-tone)
   static const IconifyIconData wavesDuotone = IconifyIconData.duo(
-    IconData(0xebe4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebe4, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0be4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0be4, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waves-fill`
   static const IconifyIconData wavesFill = IconifyIconData.solo(
-    IconData(0xebe5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0be5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waves-light`
   static const IconifyIconData wavesLight = IconifyIconData.solo(
-    IconData(0xebe6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0be6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `waves-thin`
   static const IconifyIconData wavesThin = IconifyIconData.solo(
-    IconData(0xebe7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0be7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam`
   static const IconifyIconData webcam = IconifyIconData.solo(
-    IconData(0xebe8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0be8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam-bold`
   static const IconifyIconData webcamBold = IconifyIconData.solo(
-    IconData(0xebe9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0be9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam-duotone` (duo-tone)
   static const IconifyIconData webcamDuotone = IconifyIconData.duo(
-    IconData(0xebea, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebea, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bea, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bea, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam-fill`
   static const IconifyIconData webcamFill = IconifyIconData.solo(
-    IconData(0xebeb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0beb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam-light`
   static const IconifyIconData webcamLight = IconifyIconData.solo(
-    IconData(0xebec, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bec, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam-slash`
   static const IconifyIconData webcamSlash = IconifyIconData.solo(
-    IconData(0xebed, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bed, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam-slash-bold`
   static const IconifyIconData webcamSlashBold = IconifyIconData.solo(
-    IconData(0xebee, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bee, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam-slash-duotone` (duo-tone)
   static const IconifyIconData webcamSlashDuotone = IconifyIconData.duo(
-    IconData(0xebef, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebef, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bef, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bef, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam-slash-fill`
   static const IconifyIconData webcamSlashFill = IconifyIconData.solo(
-    IconData(0xebf0, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bf0, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam-slash-light`
   static const IconifyIconData webcamSlashLight = IconifyIconData.solo(
-    IconData(0xebf1, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bf1, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam-slash-thin`
   static const IconifyIconData webcamSlashThin = IconifyIconData.solo(
-    IconData(0xebf2, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bf2, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webcam-thin`
   static const IconifyIconData webcamThin = IconifyIconData.solo(
-    IconData(0xebf3, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bf3, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webhooks-logo`
   static const IconifyIconData webhooksLogo = IconifyIconData.solo(
-    IconData(0xebf4, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bf4, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webhooks-logo-bold`
   static const IconifyIconData webhooksLogoBold = IconifyIconData.solo(
-    IconData(0xebf5, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bf5, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webhooks-logo-duotone` (duo-tone)
   static const IconifyIconData webhooksLogoDuotone = IconifyIconData.duo(
-    IconData(0xebf6, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebf6, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bf6, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bf6, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webhooks-logo-fill`
   static const IconifyIconData webhooksLogoFill = IconifyIconData.solo(
-    IconData(0xebf7, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bf7, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webhooks-logo-light`
   static const IconifyIconData webhooksLogoLight = IconifyIconData.solo(
-    IconData(0xebf8, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bf8, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `webhooks-logo-thin`
   static const IconifyIconData webhooksLogoThin = IconifyIconData.solo(
-    IconData(0xebf9, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bf9, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wechat-logo`
   static const IconifyIconData wechatLogo = IconifyIconData.solo(
-    IconData(0xebfa, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bfa, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wechat-logo-bold`
   static const IconifyIconData wechatLogoBold = IconifyIconData.solo(
-    IconData(0xebfb, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bfb, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wechat-logo-duotone` (duo-tone)
   static const IconifyIconData wechatLogoDuotone = IconifyIconData.duo(
-    IconData(0xebfc, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xebfc, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bfc, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bfc, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wechat-logo-fill`
   static const IconifyIconData wechatLogoFill = IconifyIconData.solo(
-    IconData(0xebfd, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bfd, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wechat-logo-light`
   static const IconifyIconData wechatLogoLight = IconifyIconData.solo(
-    IconData(0xebfe, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bfe, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wechat-logo-thin`
   static const IconifyIconData wechatLogoThin = IconifyIconData.solo(
-    IconData(0xebff, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0bff, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `whatsapp-logo`
   static const IconifyIconData whatsappLogo = IconifyIconData.solo(
-    IconData(0xec00, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c00, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `whatsapp-logo-bold`
   static const IconifyIconData whatsappLogoBold = IconifyIconData.solo(
-    IconData(0xec01, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c01, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `whatsapp-logo-duotone` (duo-tone)
   static const IconifyIconData whatsappLogoDuotone = IconifyIconData.duo(
-    IconData(0xec02, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec02, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c02, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c02, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `whatsapp-logo-fill`
   static const IconifyIconData whatsappLogoFill = IconifyIconData.solo(
-    IconData(0xec03, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c03, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `whatsapp-logo-light`
   static const IconifyIconData whatsappLogoLight = IconifyIconData.solo(
-    IconData(0xec04, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c04, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `whatsapp-logo-thin`
   static const IconifyIconData whatsappLogoThin = IconifyIconData.solo(
-    IconData(0xec05, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c05, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wheelchair`
   static const IconifyIconData wheelchair = IconifyIconData.solo(
-    IconData(0xec06, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c06, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wheelchair-bold`
   static const IconifyIconData wheelchairBold = IconifyIconData.solo(
-    IconData(0xec07, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c07, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wheelchair-duotone` (duo-tone)
   static const IconifyIconData wheelchairDuotone = IconifyIconData.duo(
-    IconData(0xec08, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec08, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c08, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c08, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wheelchair-fill`
   static const IconifyIconData wheelchairFill = IconifyIconData.solo(
-    IconData(0xec09, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c09, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wheelchair-light`
   static const IconifyIconData wheelchairLight = IconifyIconData.solo(
-    IconData(0xec0a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c0a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wheelchair-motion`
   static const IconifyIconData wheelchairMotion = IconifyIconData.solo(
-    IconData(0xec0b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c0b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wheelchair-motion-bold`
   static const IconifyIconData wheelchairMotionBold = IconifyIconData.solo(
-    IconData(0xec0c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c0c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wheelchair-motion-duotone` (duo-tone)
   static const IconifyIconData wheelchairMotionDuotone = IconifyIconData.duo(
-    IconData(0xec0d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec0d, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c0d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c0d, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wheelchair-motion-fill`
   static const IconifyIconData wheelchairMotionFill = IconifyIconData.solo(
-    IconData(0xec0e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c0e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wheelchair-motion-light`
   static const IconifyIconData wheelchairMotionLight = IconifyIconData.solo(
-    IconData(0xec0f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c0f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wheelchair-motion-thin`
   static const IconifyIconData wheelchairMotionThin = IconifyIconData.solo(
-    IconData(0xec10, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c10, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wheelchair-thin`
   static const IconifyIconData wheelchairThin = IconifyIconData.solo(
-    IconData(0xec11, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c11, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-high`
   static const IconifyIconData wifiHigh = IconifyIconData.solo(
-    IconData(0xec12, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c12, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-high-bold`
   static const IconifyIconData wifiHighBold = IconifyIconData.solo(
-    IconData(0xec13, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c13, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-high-duotone` (duo-tone)
   static const IconifyIconData wifiHighDuotone = IconifyIconData.duo(
-    IconData(0xec14, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec14, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c14, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c14, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-high-fill`
   static const IconifyIconData wifiHighFill = IconifyIconData.solo(
-    IconData(0xec15, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c15, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-high-light`
   static const IconifyIconData wifiHighLight = IconifyIconData.solo(
-    IconData(0xec16, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c16, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-high-thin`
   static const IconifyIconData wifiHighThin = IconifyIconData.solo(
-    IconData(0xec17, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c17, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-low`
   static const IconifyIconData wifiLow = IconifyIconData.solo(
-    IconData(0xec18, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c18, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-low-bold`
   static const IconifyIconData wifiLowBold = IconifyIconData.solo(
-    IconData(0xec19, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c19, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-low-duotone` (duo-tone)
   static const IconifyIconData wifiLowDuotone = IconifyIconData.duo(
-    IconData(0xec1a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec1a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c1a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c1a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-low-fill`
   static const IconifyIconData wifiLowFill = IconifyIconData.solo(
-    IconData(0xec1b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c1b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-low-light`
   static const IconifyIconData wifiLowLight = IconifyIconData.solo(
-    IconData(0xec1c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c1c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-low-thin`
   static const IconifyIconData wifiLowThin = IconifyIconData.solo(
-    IconData(0xec1d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c1d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-medium`
   static const IconifyIconData wifiMedium = IconifyIconData.solo(
-    IconData(0xec1e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c1e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-medium-bold`
   static const IconifyIconData wifiMediumBold = IconifyIconData.solo(
-    IconData(0xec1f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c1f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-medium-duotone` (duo-tone)
   static const IconifyIconData wifiMediumDuotone = IconifyIconData.duo(
-    IconData(0xec20, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec20, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c20, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c20, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-medium-fill`
   static const IconifyIconData wifiMediumFill = IconifyIconData.solo(
-    IconData(0xec21, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c21, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-medium-light`
   static const IconifyIconData wifiMediumLight = IconifyIconData.solo(
-    IconData(0xec22, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c22, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-medium-thin`
   static const IconifyIconData wifiMediumThin = IconifyIconData.solo(
-    IconData(0xec23, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c23, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-none`
   static const IconifyIconData wifiNone = IconifyIconData.solo(
-    IconData(0xec24, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c24, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-none-bold`
   static const IconifyIconData wifiNoneBold = IconifyIconData.solo(
-    IconData(0xec25, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c25, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-none-duotone`
   static const IconifyIconData wifiNoneDuotone = IconifyIconData.solo(
-    IconData(0xec26, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c26, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-none-fill`
   static const IconifyIconData wifiNoneFill = IconifyIconData.solo(
-    IconData(0xec27, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c27, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-none-light`
   static const IconifyIconData wifiNoneLight = IconifyIconData.solo(
-    IconData(0xec28, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c28, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-none-thin`
   static const IconifyIconData wifiNoneThin = IconifyIconData.solo(
-    IconData(0xec29, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c29, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-slash`
   static const IconifyIconData wifiSlash = IconifyIconData.solo(
-    IconData(0xec2a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c2a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-slash-bold`
   static const IconifyIconData wifiSlashBold = IconifyIconData.solo(
-    IconData(0xec2b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c2b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-slash-duotone` (duo-tone)
   static const IconifyIconData wifiSlashDuotone = IconifyIconData.duo(
-    IconData(0xec2c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec2c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c2c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c2c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-slash-fill`
   static const IconifyIconData wifiSlashFill = IconifyIconData.solo(
-    IconData(0xec2d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c2d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-slash-light`
   static const IconifyIconData wifiSlashLight = IconifyIconData.solo(
-    IconData(0xec2e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c2e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-slash-thin`
   static const IconifyIconData wifiSlashThin = IconifyIconData.solo(
-    IconData(0xec2f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c2f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-x`
   static const IconifyIconData wifiX = IconifyIconData.solo(
-    IconData(0xec30, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c30, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-x-bold`
   static const IconifyIconData wifiXBold = IconifyIconData.solo(
-    IconData(0xec31, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c31, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-x-duotone` (duo-tone)
   static const IconifyIconData wifiXDuotone = IconifyIconData.duo(
-    IconData(0xec32, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec32, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c32, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c32, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-x-fill`
   static const IconifyIconData wifiXFill = IconifyIconData.solo(
-    IconData(0xec33, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c33, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-x-light`
   static const IconifyIconData wifiXLight = IconifyIconData.solo(
-    IconData(0xec34, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c34, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wifi-x-thin`
   static const IconifyIconData wifiXThin = IconifyIconData.solo(
-    IconData(0xec35, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c35, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wind`
   static const IconifyIconData wind = IconifyIconData.solo(
-    IconData(0xec36, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c36, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wind-bold`
   static const IconifyIconData windBold = IconifyIconData.solo(
-    IconData(0xec37, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c37, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wind-duotone` (duo-tone)
   static const IconifyIconData windDuotone = IconifyIconData.duo(
-    IconData(0xec38, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec38, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c38, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c38, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wind-fill`
   static const IconifyIconData windFill = IconifyIconData.solo(
-    IconData(0xec39, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c39, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wind-light`
   static const IconifyIconData windLight = IconifyIconData.solo(
-    IconData(0xec3a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c3a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wind-thin`
   static const IconifyIconData windThin = IconifyIconData.solo(
-    IconData(0xec3b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c3b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `windmill`
   static const IconifyIconData windmill = IconifyIconData.solo(
-    IconData(0xec3c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c3c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `windmill-bold`
   static const IconifyIconData windmillBold = IconifyIconData.solo(
-    IconData(0xec3d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c3d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `windmill-duotone` (duo-tone)
   static const IconifyIconData windmillDuotone = IconifyIconData.duo(
-    IconData(0xec3e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec3e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c3e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c3e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `windmill-fill`
   static const IconifyIconData windmillFill = IconifyIconData.solo(
-    IconData(0xec3f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c3f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `windmill-light`
   static const IconifyIconData windmillLight = IconifyIconData.solo(
-    IconData(0xec40, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c40, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `windmill-thin`
   static const IconifyIconData windmillThin = IconifyIconData.solo(
-    IconData(0xec41, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c41, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `windows-logo`
   static const IconifyIconData windowsLogo = IconifyIconData.solo(
-    IconData(0xec42, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c42, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `windows-logo-bold`
   static const IconifyIconData windowsLogoBold = IconifyIconData.solo(
-    IconData(0xec43, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c43, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `windows-logo-duotone` (duo-tone)
   static const IconifyIconData windowsLogoDuotone = IconifyIconData.duo(
-    IconData(0xec44, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec44, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c44, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c44, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `windows-logo-fill`
   static const IconifyIconData windowsLogoFill = IconifyIconData.solo(
-    IconData(0xec45, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c45, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `windows-logo-light`
   static const IconifyIconData windowsLogoLight = IconifyIconData.solo(
-    IconData(0xec46, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c46, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `windows-logo-thin`
   static const IconifyIconData windowsLogoThin = IconifyIconData.solo(
-    IconData(0xec47, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c47, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wine`
   static const IconifyIconData wine = IconifyIconData.solo(
-    IconData(0xec48, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c48, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wine-bold`
   static const IconifyIconData wineBold = IconifyIconData.solo(
-    IconData(0xec49, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c49, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wine-duotone` (duo-tone)
   static const IconifyIconData wineDuotone = IconifyIconData.duo(
-    IconData(0xec4a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec4a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c4a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c4a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wine-fill`
   static const IconifyIconData wineFill = IconifyIconData.solo(
-    IconData(0xec4b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c4b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wine-light`
   static const IconifyIconData wineLight = IconifyIconData.solo(
-    IconData(0xec4c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c4c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wine-thin`
   static const IconifyIconData wineThin = IconifyIconData.solo(
-    IconData(0xec4d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c4d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wrench`
   static const IconifyIconData wrench = IconifyIconData.solo(
-    IconData(0xec4e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c4e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wrench-bold`
   static const IconifyIconData wrenchBold = IconifyIconData.solo(
-    IconData(0xec4f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c4f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wrench-duotone` (duo-tone)
   static const IconifyIconData wrenchDuotone = IconifyIconData.duo(
-    IconData(0xec50, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec50, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c50, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c50, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wrench-fill`
   static const IconifyIconData wrenchFill = IconifyIconData.solo(
-    IconData(0xec51, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c51, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wrench-light`
   static const IconifyIconData wrenchLight = IconifyIconData.solo(
-    IconData(0xec52, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c52, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `wrench-thin`
   static const IconifyIconData wrenchThin = IconifyIconData.solo(
-    IconData(0xec53, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c53, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x`
   static const IconifyIconData x = IconifyIconData.solo(
-    IconData(0xec54, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c54, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-bold`
   static const IconifyIconData xBold = IconifyIconData.solo(
-    IconData(0xec55, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c55, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-circle`
   static const IconifyIconData xCircle = IconifyIconData.solo(
-    IconData(0xec56, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c56, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-circle-bold`
   static const IconifyIconData xCircleBold = IconifyIconData.solo(
-    IconData(0xec57, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c57, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-circle-duotone` (duo-tone)
   static const IconifyIconData xCircleDuotone = IconifyIconData.duo(
-    IconData(0xec58, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec58, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c58, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c58, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-circle-fill`
   static const IconifyIconData xCircleFill = IconifyIconData.solo(
-    IconData(0xec59, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c59, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-circle-light`
   static const IconifyIconData xCircleLight = IconifyIconData.solo(
-    IconData(0xec5a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c5a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-circle-thin`
   static const IconifyIconData xCircleThin = IconifyIconData.solo(
-    IconData(0xec5b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c5b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-duotone` (duo-tone)
   static const IconifyIconData xDuotone = IconifyIconData.duo(
-    IconData(0xec5c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec5c, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c5c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c5c, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-fill`
   static const IconifyIconData xFill = IconifyIconData.solo(
-    IconData(0xec5d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c5d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-light`
   static const IconifyIconData xLight = IconifyIconData.solo(
-    IconData(0xec5e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c5e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-logo`
   static const IconifyIconData xLogo = IconifyIconData.solo(
-    IconData(0xec5f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c5f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-logo-bold`
   static const IconifyIconData xLogoBold = IconifyIconData.solo(
-    IconData(0xec60, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c60, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-logo-duotone` (duo-tone)
   static const IconifyIconData xLogoDuotone = IconifyIconData.duo(
-    IconData(0xec61, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec61, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c61, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c61, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-logo-fill`
   static const IconifyIconData xLogoFill = IconifyIconData.solo(
-    IconData(0xec62, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c62, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-logo-light`
   static const IconifyIconData xLogoLight = IconifyIconData.solo(
-    IconData(0xec63, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c63, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-logo-thin`
   static const IconifyIconData xLogoThin = IconifyIconData.solo(
-    IconData(0xec64, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c64, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-square`
   static const IconifyIconData xSquare = IconifyIconData.solo(
-    IconData(0xec65, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c65, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-square-bold`
   static const IconifyIconData xSquareBold = IconifyIconData.solo(
-    IconData(0xec66, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c66, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-square-duotone` (duo-tone)
   static const IconifyIconData xSquareDuotone = IconifyIconData.duo(
-    IconData(0xec67, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec67, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c67, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c67, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-square-fill`
   static const IconifyIconData xSquareFill = IconifyIconData.solo(
-    IconData(0xec68, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c68, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-square-light`
   static const IconifyIconData xSquareLight = IconifyIconData.solo(
-    IconData(0xec69, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c69, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-square-thin`
   static const IconifyIconData xSquareThin = IconifyIconData.solo(
-    IconData(0xec6a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c6a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `x-thin`
   static const IconifyIconData xThin = IconifyIconData.solo(
-    IconData(0xec6b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c6b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yarn`
   static const IconifyIconData yarn = IconifyIconData.solo(
-    IconData(0xec6c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c6c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yarn-bold`
   static const IconifyIconData yarnBold = IconifyIconData.solo(
-    IconData(0xec6d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c6d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yarn-duotone` (duo-tone)
   static const IconifyIconData yarnDuotone = IconifyIconData.duo(
-    IconData(0xec6e, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec6e, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c6e, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c6e, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yarn-fill`
   static const IconifyIconData yarnFill = IconifyIconData.solo(
-    IconData(0xec6f, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c6f, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yarn-light`
   static const IconifyIconData yarnLight = IconifyIconData.solo(
-    IconData(0xec70, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c70, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yarn-thin`
   static const IconifyIconData yarnThin = IconifyIconData.solo(
-    IconData(0xec71, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c71, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yin-yang`
   static const IconifyIconData yinYang = IconifyIconData.solo(
-    IconData(0xec72, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c72, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yin-yang-bold`
   static const IconifyIconData yinYangBold = IconifyIconData.solo(
-    IconData(0xec73, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c73, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yin-yang-duotone` (duo-tone)
   static const IconifyIconData yinYangDuotone = IconifyIconData.duo(
-    IconData(0xec74, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec74, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c74, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c74, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yin-yang-fill`
   static const IconifyIconData yinYangFill = IconifyIconData.solo(
-    IconData(0xec75, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c75, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yin-yang-light`
   static const IconifyIconData yinYangLight = IconifyIconData.solo(
-    IconData(0xec76, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c76, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `yin-yang-thin`
   static const IconifyIconData yinYangThin = IconifyIconData.solo(
-    IconData(0xec77, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c77, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `youtube-logo`
   static const IconifyIconData youtubeLogo = IconifyIconData.solo(
-    IconData(0xec78, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c78, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `youtube-logo-bold`
   static const IconifyIconData youtubeLogoBold = IconifyIconData.solo(
-    IconData(0xec79, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c79, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `youtube-logo-duotone` (duo-tone)
   static const IconifyIconData youtubeLogoDuotone = IconifyIconData.duo(
-    IconData(0xec7a, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
-    IconData(0xec7a, fontFamily: 'Ph_2Secondary', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c7a, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c7a, fontFamily: 'PhSecondary', fontPackage: 'iconifyx_ph'),
   );
 
   /// `youtube-logo-fill`
   static const IconifyIconData youtubeLogoFill = IconifyIconData.solo(
-    IconData(0xec7b, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c7b, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `youtube-logo-light`
   static const IconifyIconData youtubeLogoLight = IconifyIconData.solo(
-    IconData(0xec7c, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c7c, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
   /// `youtube-logo-thin`
   static const IconifyIconData youtubeLogoThin = IconifyIconData.solo(
-    IconData(0xec7d, fontFamily: 'Ph_2', fontPackage: 'iconifyx_ph'),
+    IconData(0xf0c7d, fontFamily: 'Ph', fontPackage: 'iconifyx_ph'),
   );
 
 }

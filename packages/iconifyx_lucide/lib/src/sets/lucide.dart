@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Lucide Contributors
 /// License: ISC — https://github.com/lucide-icons/lucide/blob/main/LICENSE
-/// Icons: 7920 (split across 2 fonts)
+/// Icons: 7920
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -30018,9602 +30018,9602 @@ class LucideIcons {
 
   /// `scissors-square-dashed-bottom-thin`
   static const IconifyIconData scissorsSquareDashedBottomThin = IconifyIconData.solo(
-    IconData(0xe000, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0000, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scissors-square-light`
   static const IconifyIconData scissorsSquareLight = IconifyIconData.solo(
-    IconData(0xe001, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0001, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scissors-square-thin`
   static const IconifyIconData scissorsSquareThin = IconifyIconData.solo(
-    IconData(0xe002, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0002, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scissors-thin`
   static const IconifyIconData scissorsThin = IconifyIconData.solo(
-    IconData(0xe003, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0003, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scooter`
   static const IconifyIconData scooter = IconifyIconData.solo(
-    IconData(0xe004, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0004, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scooter-bold`
   static const IconifyIconData scooterBold = IconifyIconData.solo(
-    IconData(0xe005, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0005, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scooter-light`
   static const IconifyIconData scooterLight = IconifyIconData.solo(
-    IconData(0xe006, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0006, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scooter-thin`
   static const IconifyIconData scooterThin = IconifyIconData.solo(
-    IconData(0xe007, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0007, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `screen-share`
   static const IconifyIconData screenShare = IconifyIconData.solo(
-    IconData(0xe008, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0008, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `screen-share-bold`
   static const IconifyIconData screenShareBold = IconifyIconData.solo(
-    IconData(0xe009, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0009, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `screen-share-light`
   static const IconifyIconData screenShareLight = IconifyIconData.solo(
-    IconData(0xe00a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf000a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `screen-share-off`
   static const IconifyIconData screenShareOff = IconifyIconData.solo(
-    IconData(0xe00b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf000b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `screen-share-off-bold`
   static const IconifyIconData screenShareOffBold = IconifyIconData.solo(
-    IconData(0xe00c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf000c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `screen-share-off-light`
   static const IconifyIconData screenShareOffLight = IconifyIconData.solo(
-    IconData(0xe00d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf000d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `screen-share-off-thin`
   static const IconifyIconData screenShareOffThin = IconifyIconData.solo(
-    IconData(0xe00e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf000e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `screen-share-thin`
   static const IconifyIconData screenShareThin = IconifyIconData.solo(
-    IconData(0xe00f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf000f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scroll`
   static const IconifyIconData scroll = IconifyIconData.solo(
-    IconData(0xe010, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0010, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scroll-bold`
   static const IconifyIconData scrollBold = IconifyIconData.solo(
-    IconData(0xe011, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0011, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scroll-light`
   static const IconifyIconData scrollLight = IconifyIconData.solo(
-    IconData(0xe012, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0012, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scroll-text`
   static const IconifyIconData scrollText = IconifyIconData.solo(
-    IconData(0xe013, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0013, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scroll-text-bold`
   static const IconifyIconData scrollTextBold = IconifyIconData.solo(
-    IconData(0xe014, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0014, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scroll-text-light`
   static const IconifyIconData scrollTextLight = IconifyIconData.solo(
-    IconData(0xe015, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0015, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scroll-text-thin`
   static const IconifyIconData scrollTextThin = IconifyIconData.solo(
-    IconData(0xe016, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0016, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `scroll-thin`
   static const IconifyIconData scrollThin = IconifyIconData.solo(
-    IconData(0xe017, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0017, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search`
   static const IconifyIconData search = IconifyIconData.solo(
-    IconData(0xe018, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0018, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-alert`
   static const IconifyIconData searchAlert = IconifyIconData.solo(
-    IconData(0xe019, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0019, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-alert-bold`
   static const IconifyIconData searchAlertBold = IconifyIconData.solo(
-    IconData(0xe01a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf001a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-alert-light`
   static const IconifyIconData searchAlertLight = IconifyIconData.solo(
-    IconData(0xe01b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf001b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-alert-thin`
   static const IconifyIconData searchAlertThin = IconifyIconData.solo(
-    IconData(0xe01c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf001c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-bold`
   static const IconifyIconData searchBold = IconifyIconData.solo(
-    IconData(0xe01d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf001d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-check`
   static const IconifyIconData searchCheck = IconifyIconData.solo(
-    IconData(0xe01e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf001e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-check-bold`
   static const IconifyIconData searchCheckBold = IconifyIconData.solo(
-    IconData(0xe01f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf001f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-check-light`
   static const IconifyIconData searchCheckLight = IconifyIconData.solo(
-    IconData(0xe020, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0020, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-check-thin`
   static const IconifyIconData searchCheckThin = IconifyIconData.solo(
-    IconData(0xe021, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0021, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-code`
   static const IconifyIconData searchCode = IconifyIconData.solo(
-    IconData(0xe022, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0022, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-code-bold`
   static const IconifyIconData searchCodeBold = IconifyIconData.solo(
-    IconData(0xe023, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0023, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-code-light`
   static const IconifyIconData searchCodeLight = IconifyIconData.solo(
-    IconData(0xe024, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0024, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-code-thin`
   static const IconifyIconData searchCodeThin = IconifyIconData.solo(
-    IconData(0xe025, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0025, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-large`
   static const IconifyIconData searchLarge = IconifyIconData.solo(
-    IconData(0xe026, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0026, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-large-bold`
   static const IconifyIconData searchLargeBold = IconifyIconData.solo(
-    IconData(0xe027, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0027, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-large-light`
   static const IconifyIconData searchLargeLight = IconifyIconData.solo(
-    IconData(0xe028, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0028, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-large-thin`
   static const IconifyIconData searchLargeThin = IconifyIconData.solo(
-    IconData(0xe029, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0029, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-light`
   static const IconifyIconData searchLight = IconifyIconData.solo(
-    IconData(0xe02a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf002a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-slash`
   static const IconifyIconData searchSlash = IconifyIconData.solo(
-    IconData(0xe02b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf002b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-slash-bold`
   static const IconifyIconData searchSlashBold = IconifyIconData.solo(
-    IconData(0xe02c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf002c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-slash-light`
   static const IconifyIconData searchSlashLight = IconifyIconData.solo(
-    IconData(0xe02d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf002d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-slash-thin`
   static const IconifyIconData searchSlashThin = IconifyIconData.solo(
-    IconData(0xe02e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf002e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-thin`
   static const IconifyIconData searchThin = IconifyIconData.solo(
-    IconData(0xe02f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf002f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-x`
   static const IconifyIconData searchX = IconifyIconData.solo(
-    IconData(0xe030, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0030, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-x-bold`
   static const IconifyIconData searchXBold = IconifyIconData.solo(
-    IconData(0xe031, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0031, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-x-light`
   static const IconifyIconData searchXLight = IconifyIconData.solo(
-    IconData(0xe032, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0032, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `search-x-thin`
   static const IconifyIconData searchXThin = IconifyIconData.solo(
-    IconData(0xe033, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0033, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `section`
   static const IconifyIconData section = IconifyIconData.solo(
-    IconData(0xe034, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0034, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `section-bold`
   static const IconifyIconData sectionBold = IconifyIconData.solo(
-    IconData(0xe035, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0035, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `section-light`
   static const IconifyIconData sectionLight = IconifyIconData.solo(
-    IconData(0xe036, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0036, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `section-thin`
   static const IconifyIconData sectionThin = IconifyIconData.solo(
-    IconData(0xe037, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0037, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send`
   static const IconifyIconData send = IconifyIconData.solo(
-    IconData(0xe038, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0038, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-bold`
   static const IconifyIconData sendBold = IconifyIconData.solo(
-    IconData(0xe039, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0039, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-horizonal`
   static const IconifyIconData sendHorizonal = IconifyIconData.solo(
-    IconData(0xe03a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf003a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-horizonal-bold`
   static const IconifyIconData sendHorizonalBold = IconifyIconData.solo(
-    IconData(0xe03b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf003b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-horizonal-light`
   static const IconifyIconData sendHorizonalLight = IconifyIconData.solo(
-    IconData(0xe03c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf003c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-horizonal-thin`
   static const IconifyIconData sendHorizonalThin = IconifyIconData.solo(
-    IconData(0xe03d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf003d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-horizontal`
   static const IconifyIconData sendHorizontal = IconifyIconData.solo(
-    IconData(0xe03e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf003e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-horizontal-bold`
   static const IconifyIconData sendHorizontalBold = IconifyIconData.solo(
-    IconData(0xe03f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf003f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-horizontal-light`
   static const IconifyIconData sendHorizontalLight = IconifyIconData.solo(
-    IconData(0xe040, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0040, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-horizontal-thin`
   static const IconifyIconData sendHorizontalThin = IconifyIconData.solo(
-    IconData(0xe041, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0041, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-light`
   static const IconifyIconData sendLight = IconifyIconData.solo(
-    IconData(0xe042, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0042, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-thin`
   static const IconifyIconData sendThin = IconifyIconData.solo(
-    IconData(0xe043, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0043, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-to-back`
   static const IconifyIconData sendToBack = IconifyIconData.solo(
-    IconData(0xe044, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0044, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-to-back-bold`
   static const IconifyIconData sendToBackBold = IconifyIconData.solo(
-    IconData(0xe045, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0045, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-to-back-light`
   static const IconifyIconData sendToBackLight = IconifyIconData.solo(
-    IconData(0xe046, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0046, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `send-to-back-thin`
   static const IconifyIconData sendToBackThin = IconifyIconData.solo(
-    IconData(0xe047, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0047, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `separator-horizontal`
   static const IconifyIconData separatorHorizontal = IconifyIconData.solo(
-    IconData(0xe048, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0048, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `separator-horizontal-bold`
   static const IconifyIconData separatorHorizontalBold = IconifyIconData.solo(
-    IconData(0xe049, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0049, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `separator-horizontal-light`
   static const IconifyIconData separatorHorizontalLight = IconifyIconData.solo(
-    IconData(0xe04a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf004a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `separator-horizontal-thin`
   static const IconifyIconData separatorHorizontalThin = IconifyIconData.solo(
-    IconData(0xe04b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf004b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `separator-vertical`
   static const IconifyIconData separatorVertical = IconifyIconData.solo(
-    IconData(0xe04c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf004c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `separator-vertical-bold`
   static const IconifyIconData separatorVerticalBold = IconifyIconData.solo(
-    IconData(0xe04d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf004d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `separator-vertical-light`
   static const IconifyIconData separatorVerticalLight = IconifyIconData.solo(
-    IconData(0xe04e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf004e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `separator-vertical-thin`
   static const IconifyIconData separatorVerticalThin = IconifyIconData.solo(
-    IconData(0xe04f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf004f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server`
   static const IconifyIconData server = IconifyIconData.solo(
-    IconData(0xe050, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0050, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-bold`
   static const IconifyIconData serverBold = IconifyIconData.solo(
-    IconData(0xe051, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0051, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-cog`
   static const IconifyIconData serverCog = IconifyIconData.solo(
-    IconData(0xe052, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0052, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-cog-bold`
   static const IconifyIconData serverCogBold = IconifyIconData.solo(
-    IconData(0xe053, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0053, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-cog-light`
   static const IconifyIconData serverCogLight = IconifyIconData.solo(
-    IconData(0xe054, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0054, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-cog-thin`
   static const IconifyIconData serverCogThin = IconifyIconData.solo(
-    IconData(0xe055, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0055, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-crash`
   static const IconifyIconData serverCrash = IconifyIconData.solo(
-    IconData(0xe056, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0056, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-crash-bold`
   static const IconifyIconData serverCrashBold = IconifyIconData.solo(
-    IconData(0xe057, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0057, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-crash-light`
   static const IconifyIconData serverCrashLight = IconifyIconData.solo(
-    IconData(0xe058, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0058, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-crash-thin`
   static const IconifyIconData serverCrashThin = IconifyIconData.solo(
-    IconData(0xe059, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0059, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-light`
   static const IconifyIconData serverLight = IconifyIconData.solo(
-    IconData(0xe05a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf005a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-off`
   static const IconifyIconData serverOff = IconifyIconData.solo(
-    IconData(0xe05b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf005b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-off-bold`
   static const IconifyIconData serverOffBold = IconifyIconData.solo(
-    IconData(0xe05c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf005c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-off-light`
   static const IconifyIconData serverOffLight = IconifyIconData.solo(
-    IconData(0xe05d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf005d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-off-thin`
   static const IconifyIconData serverOffThin = IconifyIconData.solo(
-    IconData(0xe05e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf005e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `server-thin`
   static const IconifyIconData serverThin = IconifyIconData.solo(
-    IconData(0xe05f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf005f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `settings`
   static const IconifyIconData settings = IconifyIconData.solo(
-    IconData(0xe060, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0060, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `settings-2`
   static const IconifyIconData settings2 = IconifyIconData.solo(
-    IconData(0xe061, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0061, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `settings-2-bold`
   static const IconifyIconData settings2Bold = IconifyIconData.solo(
-    IconData(0xe062, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0062, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `settings-2-light`
   static const IconifyIconData settings2Light = IconifyIconData.solo(
-    IconData(0xe063, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0063, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `settings-2-thin`
   static const IconifyIconData settings2Thin = IconifyIconData.solo(
-    IconData(0xe064, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0064, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `settings-bold`
   static const IconifyIconData settingsBold = IconifyIconData.solo(
-    IconData(0xe065, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0065, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `settings-light`
   static const IconifyIconData settingsLight = IconifyIconData.solo(
-    IconData(0xe066, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0066, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `settings-thin`
   static const IconifyIconData settingsThin = IconifyIconData.solo(
-    IconData(0xe067, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0067, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shapes`
   static const IconifyIconData shapes = IconifyIconData.solo(
-    IconData(0xe068, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0068, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shapes-bold`
   static const IconifyIconData shapesBold = IconifyIconData.solo(
-    IconData(0xe069, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0069, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shapes-light`
   static const IconifyIconData shapesLight = IconifyIconData.solo(
-    IconData(0xe06a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf006a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shapes-thin`
   static const IconifyIconData shapesThin = IconifyIconData.solo(
-    IconData(0xe06b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf006b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `share`
   static const IconifyIconData share = IconifyIconData.solo(
-    IconData(0xe06c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf006c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `share-2`
   static const IconifyIconData share2 = IconifyIconData.solo(
-    IconData(0xe06d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf006d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `share-2-bold`
   static const IconifyIconData share2Bold = IconifyIconData.solo(
-    IconData(0xe06e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf006e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `share-2-light`
   static const IconifyIconData share2Light = IconifyIconData.solo(
-    IconData(0xe06f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf006f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `share-2-thin`
   static const IconifyIconData share2Thin = IconifyIconData.solo(
-    IconData(0xe070, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0070, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `share-bold`
   static const IconifyIconData shareBold = IconifyIconData.solo(
-    IconData(0xe071, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0071, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `share-light`
   static const IconifyIconData shareLight = IconifyIconData.solo(
-    IconData(0xe072, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0072, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `share-thin`
   static const IconifyIconData shareThin = IconifyIconData.solo(
-    IconData(0xe073, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0073, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sheet`
   static const IconifyIconData sheet = IconifyIconData.solo(
-    IconData(0xe074, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0074, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sheet-bold`
   static const IconifyIconData sheetBold = IconifyIconData.solo(
-    IconData(0xe075, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0075, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sheet-light`
   static const IconifyIconData sheetLight = IconifyIconData.solo(
-    IconData(0xe076, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0076, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sheet-thin`
   static const IconifyIconData sheetThin = IconifyIconData.solo(
-    IconData(0xe077, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0077, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shell`
   static const IconifyIconData shell = IconifyIconData.solo(
-    IconData(0xe078, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0078, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shell-bold`
   static const IconifyIconData shellBold = IconifyIconData.solo(
-    IconData(0xe079, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0079, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shell-light`
   static const IconifyIconData shellLight = IconifyIconData.solo(
-    IconData(0xe07a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf007a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shell-thin`
   static const IconifyIconData shellThin = IconifyIconData.solo(
-    IconData(0xe07b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf007b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shelving-unit`
   static const IconifyIconData shelvingUnit = IconifyIconData.solo(
-    IconData(0xe07c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf007c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shelving-unit-bold`
   static const IconifyIconData shelvingUnitBold = IconifyIconData.solo(
-    IconData(0xe07d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf007d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shelving-unit-light`
   static const IconifyIconData shelvingUnitLight = IconifyIconData.solo(
-    IconData(0xe07e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf007e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shelving-unit-thin`
   static const IconifyIconData shelvingUnitThin = IconifyIconData.solo(
-    IconData(0xe07f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf007f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield`
   static const IconifyIconData shield = IconifyIconData.solo(
-    IconData(0xe080, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0080, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-alert`
   static const IconifyIconData shieldAlert = IconifyIconData.solo(
-    IconData(0xe081, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0081, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-alert-bold`
   static const IconifyIconData shieldAlertBold = IconifyIconData.solo(
-    IconData(0xe082, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0082, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-alert-light`
   static const IconifyIconData shieldAlertLight = IconifyIconData.solo(
-    IconData(0xe083, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0083, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-alert-thin`
   static const IconifyIconData shieldAlertThin = IconifyIconData.solo(
-    IconData(0xe084, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0084, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-ban`
   static const IconifyIconData shieldBan = IconifyIconData.solo(
-    IconData(0xe085, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0085, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-ban-bold`
   static const IconifyIconData shieldBanBold = IconifyIconData.solo(
-    IconData(0xe086, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0086, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-ban-light`
   static const IconifyIconData shieldBanLight = IconifyIconData.solo(
-    IconData(0xe087, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0087, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-ban-thin`
   static const IconifyIconData shieldBanThin = IconifyIconData.solo(
-    IconData(0xe088, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0088, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-bold`
   static const IconifyIconData shieldBold = IconifyIconData.solo(
-    IconData(0xe089, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0089, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-check`
   static const IconifyIconData shieldCheck = IconifyIconData.solo(
-    IconData(0xe08a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf008a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-check-bold`
   static const IconifyIconData shieldCheckBold = IconifyIconData.solo(
-    IconData(0xe08b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf008b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-check-light`
   static const IconifyIconData shieldCheckLight = IconifyIconData.solo(
-    IconData(0xe08c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf008c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-check-thin`
   static const IconifyIconData shieldCheckThin = IconifyIconData.solo(
-    IconData(0xe08d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf008d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-close`
   static const IconifyIconData shieldClose = IconifyIconData.solo(
-    IconData(0xe08e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf008e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-close-bold`
   static const IconifyIconData shieldCloseBold = IconifyIconData.solo(
-    IconData(0xe08f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf008f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-close-light`
   static const IconifyIconData shieldCloseLight = IconifyIconData.solo(
-    IconData(0xe090, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0090, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-close-thin`
   static const IconifyIconData shieldCloseThin = IconifyIconData.solo(
-    IconData(0xe091, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0091, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-cog`
   static const IconifyIconData shieldCog = IconifyIconData.solo(
-    IconData(0xe092, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0092, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-cog-bold`
   static const IconifyIconData shieldCogBold = IconifyIconData.solo(
-    IconData(0xe093, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0093, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-cog-corner`
   static const IconifyIconData shieldCogCorner = IconifyIconData.solo(
-    IconData(0xe094, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0094, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-cog-corner-bold`
   static const IconifyIconData shieldCogCornerBold = IconifyIconData.solo(
-    IconData(0xe095, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0095, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-cog-corner-light`
   static const IconifyIconData shieldCogCornerLight = IconifyIconData.solo(
-    IconData(0xe096, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0096, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-cog-corner-thin`
   static const IconifyIconData shieldCogCornerThin = IconifyIconData.solo(
-    IconData(0xe097, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0097, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-cog-light`
   static const IconifyIconData shieldCogLight = IconifyIconData.solo(
-    IconData(0xe098, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0098, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-cog-thin`
   static const IconifyIconData shieldCogThin = IconifyIconData.solo(
-    IconData(0xe099, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0099, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-ellipsis`
   static const IconifyIconData shieldEllipsis = IconifyIconData.solo(
-    IconData(0xe09a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf009a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-ellipsis-bold`
   static const IconifyIconData shieldEllipsisBold = IconifyIconData.solo(
-    IconData(0xe09b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf009b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-ellipsis-light`
   static const IconifyIconData shieldEllipsisLight = IconifyIconData.solo(
-    IconData(0xe09c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf009c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-ellipsis-thin`
   static const IconifyIconData shieldEllipsisThin = IconifyIconData.solo(
-    IconData(0xe09d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf009d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-half`
   static const IconifyIconData shieldHalf = IconifyIconData.solo(
-    IconData(0xe09e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf009e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-half-bold`
   static const IconifyIconData shieldHalfBold = IconifyIconData.solo(
-    IconData(0xe09f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf009f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-half-light`
   static const IconifyIconData shieldHalfLight = IconifyIconData.solo(
-    IconData(0xe0a0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00a0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-half-thin`
   static const IconifyIconData shieldHalfThin = IconifyIconData.solo(
-    IconData(0xe0a1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00a1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-light`
   static const IconifyIconData shieldLight = IconifyIconData.solo(
-    IconData(0xe0a2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00a2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-minus`
   static const IconifyIconData shieldMinus = IconifyIconData.solo(
-    IconData(0xe0a3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00a3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-minus-bold`
   static const IconifyIconData shieldMinusBold = IconifyIconData.solo(
-    IconData(0xe0a4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00a4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-minus-light`
   static const IconifyIconData shieldMinusLight = IconifyIconData.solo(
-    IconData(0xe0a5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00a5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-minus-thin`
   static const IconifyIconData shieldMinusThin = IconifyIconData.solo(
-    IconData(0xe0a6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00a6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-off`
   static const IconifyIconData shieldOff = IconifyIconData.solo(
-    IconData(0xe0a7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00a7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-off-bold`
   static const IconifyIconData shieldOffBold = IconifyIconData.solo(
-    IconData(0xe0a8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00a8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-off-light`
   static const IconifyIconData shieldOffLight = IconifyIconData.solo(
-    IconData(0xe0a9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00a9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-off-thin`
   static const IconifyIconData shieldOffThin = IconifyIconData.solo(
-    IconData(0xe0aa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00aa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-plus`
   static const IconifyIconData shieldPlus = IconifyIconData.solo(
-    IconData(0xe0ab, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ab, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-plus-bold`
   static const IconifyIconData shieldPlusBold = IconifyIconData.solo(
-    IconData(0xe0ac, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ac, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-plus-light`
   static const IconifyIconData shieldPlusLight = IconifyIconData.solo(
-    IconData(0xe0ad, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ad, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-plus-thin`
   static const IconifyIconData shieldPlusThin = IconifyIconData.solo(
-    IconData(0xe0ae, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ae, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-question`
   static const IconifyIconData shieldQuestion = IconifyIconData.solo(
-    IconData(0xe0af, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00af, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-question-bold`
   static const IconifyIconData shieldQuestionBold = IconifyIconData.solo(
-    IconData(0xe0b0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00b0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-question-light`
   static const IconifyIconData shieldQuestionLight = IconifyIconData.solo(
-    IconData(0xe0b1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00b1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-question-mark`
   static const IconifyIconData shieldQuestionMark = IconifyIconData.solo(
-    IconData(0xe0b2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00b2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-question-mark-bold`
   static const IconifyIconData shieldQuestionMarkBold = IconifyIconData.solo(
-    IconData(0xe0b3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00b3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-question-mark-light`
   static const IconifyIconData shieldQuestionMarkLight = IconifyIconData.solo(
-    IconData(0xe0b4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00b4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-question-mark-thin`
   static const IconifyIconData shieldQuestionMarkThin = IconifyIconData.solo(
-    IconData(0xe0b5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00b5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-question-thin`
   static const IconifyIconData shieldQuestionThin = IconifyIconData.solo(
-    IconData(0xe0b6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00b6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-thin`
   static const IconifyIconData shieldThin = IconifyIconData.solo(
-    IconData(0xe0b7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00b7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-user`
   static const IconifyIconData shieldUser = IconifyIconData.solo(
-    IconData(0xe0b8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00b8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-user-bold`
   static const IconifyIconData shieldUserBold = IconifyIconData.solo(
-    IconData(0xe0b9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00b9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-user-light`
   static const IconifyIconData shieldUserLight = IconifyIconData.solo(
-    IconData(0xe0ba, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ba, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-user-thin`
   static const IconifyIconData shieldUserThin = IconifyIconData.solo(
-    IconData(0xe0bb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00bb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-x`
   static const IconifyIconData shieldX = IconifyIconData.solo(
-    IconData(0xe0bc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00bc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-x-bold`
   static const IconifyIconData shieldXBold = IconifyIconData.solo(
-    IconData(0xe0bd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00bd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-x-light`
   static const IconifyIconData shieldXLight = IconifyIconData.solo(
-    IconData(0xe0be, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00be, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shield-x-thin`
   static const IconifyIconData shieldXThin = IconifyIconData.solo(
-    IconData(0xe0bf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00bf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ship`
   static const IconifyIconData ship = IconifyIconData.solo(
-    IconData(0xe0c0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00c0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ship-bold`
   static const IconifyIconData shipBold = IconifyIconData.solo(
-    IconData(0xe0c1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00c1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ship-light`
   static const IconifyIconData shipLight = IconifyIconData.solo(
-    IconData(0xe0c2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00c2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ship-thin`
   static const IconifyIconData shipThin = IconifyIconData.solo(
-    IconData(0xe0c3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00c3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ship-wheel`
   static const IconifyIconData shipWheel = IconifyIconData.solo(
-    IconData(0xe0c4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00c4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ship-wheel-bold`
   static const IconifyIconData shipWheelBold = IconifyIconData.solo(
-    IconData(0xe0c5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00c5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ship-wheel-light`
   static const IconifyIconData shipWheelLight = IconifyIconData.solo(
-    IconData(0xe0c6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00c6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ship-wheel-thin`
   static const IconifyIconData shipWheelThin = IconifyIconData.solo(
-    IconData(0xe0c7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00c7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shirt`
   static const IconifyIconData shirt = IconifyIconData.solo(
-    IconData(0xe0c8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00c8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shirt-bold`
   static const IconifyIconData shirtBold = IconifyIconData.solo(
-    IconData(0xe0c9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00c9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shirt-light`
   static const IconifyIconData shirtLight = IconifyIconData.solo(
-    IconData(0xe0ca, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ca, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shirt-thin`
   static const IconifyIconData shirtThin = IconifyIconData.solo(
-    IconData(0xe0cb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00cb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shopping-bag`
   static const IconifyIconData shoppingBag = IconifyIconData.solo(
-    IconData(0xe0cc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00cc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shopping-bag-bold`
   static const IconifyIconData shoppingBagBold = IconifyIconData.solo(
-    IconData(0xe0cd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00cd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shopping-bag-light`
   static const IconifyIconData shoppingBagLight = IconifyIconData.solo(
-    IconData(0xe0ce, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ce, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shopping-bag-thin`
   static const IconifyIconData shoppingBagThin = IconifyIconData.solo(
-    IconData(0xe0cf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00cf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shopping-basket`
   static const IconifyIconData shoppingBasket = IconifyIconData.solo(
-    IconData(0xe0d0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00d0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shopping-basket-bold`
   static const IconifyIconData shoppingBasketBold = IconifyIconData.solo(
-    IconData(0xe0d1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00d1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shopping-basket-light`
   static const IconifyIconData shoppingBasketLight = IconifyIconData.solo(
-    IconData(0xe0d2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00d2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shopping-basket-thin`
   static const IconifyIconData shoppingBasketThin = IconifyIconData.solo(
-    IconData(0xe0d3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00d3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shopping-cart`
   static const IconifyIconData shoppingCart = IconifyIconData.solo(
-    IconData(0xe0d4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00d4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shopping-cart-bold`
   static const IconifyIconData shoppingCartBold = IconifyIconData.solo(
-    IconData(0xe0d5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00d5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shopping-cart-light`
   static const IconifyIconData shoppingCartLight = IconifyIconData.solo(
-    IconData(0xe0d6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00d6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shopping-cart-thin`
   static const IconifyIconData shoppingCartThin = IconifyIconData.solo(
-    IconData(0xe0d7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00d7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shovel`
   static const IconifyIconData shovel = IconifyIconData.solo(
-    IconData(0xe0d8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00d8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shovel-bold`
   static const IconifyIconData shovelBold = IconifyIconData.solo(
-    IconData(0xe0d9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00d9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shovel-light`
   static const IconifyIconData shovelLight = IconifyIconData.solo(
-    IconData(0xe0da, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00da, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shovel-thin`
   static const IconifyIconData shovelThin = IconifyIconData.solo(
-    IconData(0xe0db, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00db, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shower-head`
   static const IconifyIconData showerHead = IconifyIconData.solo(
-    IconData(0xe0dc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00dc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shower-head-bold`
   static const IconifyIconData showerHeadBold = IconifyIconData.solo(
-    IconData(0xe0dd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00dd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shower-head-light`
   static const IconifyIconData showerHeadLight = IconifyIconData.solo(
-    IconData(0xe0de, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00de, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shower-head-thin`
   static const IconifyIconData showerHeadThin = IconifyIconData.solo(
-    IconData(0xe0df, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00df, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shredder`
   static const IconifyIconData shredder = IconifyIconData.solo(
-    IconData(0xe0e0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00e0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shredder-bold`
   static const IconifyIconData shredderBold = IconifyIconData.solo(
-    IconData(0xe0e1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00e1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shredder-light`
   static const IconifyIconData shredderLight = IconifyIconData.solo(
-    IconData(0xe0e2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00e2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shredder-thin`
   static const IconifyIconData shredderThin = IconifyIconData.solo(
-    IconData(0xe0e3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00e3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shrimp`
   static const IconifyIconData shrimp = IconifyIconData.solo(
-    IconData(0xe0e4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00e4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shrimp-bold`
   static const IconifyIconData shrimpBold = IconifyIconData.solo(
-    IconData(0xe0e5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00e5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shrimp-light`
   static const IconifyIconData shrimpLight = IconifyIconData.solo(
-    IconData(0xe0e6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00e6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shrimp-thin`
   static const IconifyIconData shrimpThin = IconifyIconData.solo(
-    IconData(0xe0e7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00e7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shrink`
   static const IconifyIconData shrink = IconifyIconData.solo(
-    IconData(0xe0e8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00e8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shrink-bold`
   static const IconifyIconData shrinkBold = IconifyIconData.solo(
-    IconData(0xe0e9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00e9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shrink-light`
   static const IconifyIconData shrinkLight = IconifyIconData.solo(
-    IconData(0xe0ea, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ea, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shrink-thin`
   static const IconifyIconData shrinkThin = IconifyIconData.solo(
-    IconData(0xe0eb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00eb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shrub`
   static const IconifyIconData shrub = IconifyIconData.solo(
-    IconData(0xe0ec, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ec, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shrub-bold`
   static const IconifyIconData shrubBold = IconifyIconData.solo(
-    IconData(0xe0ed, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ed, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shrub-light`
   static const IconifyIconData shrubLight = IconifyIconData.solo(
-    IconData(0xe0ee, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ee, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shrub-thin`
   static const IconifyIconData shrubThin = IconifyIconData.solo(
-    IconData(0xe0ef, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ef, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shuffle`
   static const IconifyIconData shuffle = IconifyIconData.solo(
-    IconData(0xe0f0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00f0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shuffle-bold`
   static const IconifyIconData shuffleBold = IconifyIconData.solo(
-    IconData(0xe0f1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00f1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shuffle-light`
   static const IconifyIconData shuffleLight = IconifyIconData.solo(
-    IconData(0xe0f2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00f2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `shuffle-thin`
   static const IconifyIconData shuffleThin = IconifyIconData.solo(
-    IconData(0xe0f3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00f3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sidebar`
   static const IconifyIconData sidebar = IconifyIconData.solo(
-    IconData(0xe0f4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00f4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sidebar-bold`
   static const IconifyIconData sidebarBold = IconifyIconData.solo(
-    IconData(0xe0f5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00f5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sidebar-close`
   static const IconifyIconData sidebarClose = IconifyIconData.solo(
-    IconData(0xe0f6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00f6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sidebar-close-bold`
   static const IconifyIconData sidebarCloseBold = IconifyIconData.solo(
-    IconData(0xe0f7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00f7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sidebar-close-light`
   static const IconifyIconData sidebarCloseLight = IconifyIconData.solo(
-    IconData(0xe0f8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00f8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sidebar-close-thin`
   static const IconifyIconData sidebarCloseThin = IconifyIconData.solo(
-    IconData(0xe0f9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00f9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sidebar-light`
   static const IconifyIconData sidebarLight = IconifyIconData.solo(
-    IconData(0xe0fa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00fa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sidebar-open`
   static const IconifyIconData sidebarOpen = IconifyIconData.solo(
-    IconData(0xe0fb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00fb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sidebar-open-bold`
   static const IconifyIconData sidebarOpenBold = IconifyIconData.solo(
-    IconData(0xe0fc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00fc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sidebar-open-light`
   static const IconifyIconData sidebarOpenLight = IconifyIconData.solo(
-    IconData(0xe0fd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00fd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sidebar-open-thin`
   static const IconifyIconData sidebarOpenThin = IconifyIconData.solo(
-    IconData(0xe0fe, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00fe, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sidebar-thin`
   static const IconifyIconData sidebarThin = IconifyIconData.solo(
-    IconData(0xe0ff, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf00ff, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sigma`
   static const IconifyIconData sigma = IconifyIconData.solo(
-    IconData(0xe100, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0100, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sigma-bold`
   static const IconifyIconData sigmaBold = IconifyIconData.solo(
-    IconData(0xe101, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0101, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sigma-light`
   static const IconifyIconData sigmaLight = IconifyIconData.solo(
-    IconData(0xe102, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0102, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sigma-square`
   static const IconifyIconData sigmaSquare = IconifyIconData.solo(
-    IconData(0xe103, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0103, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sigma-square-bold`
   static const IconifyIconData sigmaSquareBold = IconifyIconData.solo(
-    IconData(0xe104, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0104, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sigma-square-light`
   static const IconifyIconData sigmaSquareLight = IconifyIconData.solo(
-    IconData(0xe105, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0105, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sigma-square-thin`
   static const IconifyIconData sigmaSquareThin = IconifyIconData.solo(
-    IconData(0xe106, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0106, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sigma-thin`
   static const IconifyIconData sigmaThin = IconifyIconData.solo(
-    IconData(0xe107, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0107, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal`
   static const IconifyIconData signal = IconifyIconData.solo(
-    IconData(0xe108, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0108, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-bold`
   static const IconifyIconData signalBold = IconifyIconData.solo(
-    IconData(0xe109, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0109, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-high`
   static const IconifyIconData signalHigh = IconifyIconData.solo(
-    IconData(0xe10a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf010a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-high-bold`
   static const IconifyIconData signalHighBold = IconifyIconData.solo(
-    IconData(0xe10b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf010b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-high-light`
   static const IconifyIconData signalHighLight = IconifyIconData.solo(
-    IconData(0xe10c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf010c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-high-thin`
   static const IconifyIconData signalHighThin = IconifyIconData.solo(
-    IconData(0xe10d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf010d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-light`
   static const IconifyIconData signalLight = IconifyIconData.solo(
-    IconData(0xe10e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf010e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-low`
   static const IconifyIconData signalLow = IconifyIconData.solo(
-    IconData(0xe10f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf010f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-low-bold`
   static const IconifyIconData signalLowBold = IconifyIconData.solo(
-    IconData(0xe110, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0110, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-low-light`
   static const IconifyIconData signalLowLight = IconifyIconData.solo(
-    IconData(0xe111, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0111, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-low-thin`
   static const IconifyIconData signalLowThin = IconifyIconData.solo(
-    IconData(0xe112, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0112, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-medium`
   static const IconifyIconData signalMedium = IconifyIconData.solo(
-    IconData(0xe113, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0113, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-medium-bold`
   static const IconifyIconData signalMediumBold = IconifyIconData.solo(
-    IconData(0xe114, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0114, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-medium-light`
   static const IconifyIconData signalMediumLight = IconifyIconData.solo(
-    IconData(0xe115, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0115, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-medium-thin`
   static const IconifyIconData signalMediumThin = IconifyIconData.solo(
-    IconData(0xe116, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0116, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-thin`
   static const IconifyIconData signalThin = IconifyIconData.solo(
-    IconData(0xe117, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0117, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-zero`
   static const IconifyIconData signalZero = IconifyIconData.solo(
-    IconData(0xe118, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0118, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-zero-bold`
   static const IconifyIconData signalZeroBold = IconifyIconData.solo(
-    IconData(0xe119, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0119, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-zero-light`
   static const IconifyIconData signalZeroLight = IconifyIconData.solo(
-    IconData(0xe11a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf011a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signal-zero-thin`
   static const IconifyIconData signalZeroThin = IconifyIconData.solo(
-    IconData(0xe11b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf011b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signature`
   static const IconifyIconData signature = IconifyIconData.solo(
-    IconData(0xe11c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf011c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signature-bold`
   static const IconifyIconData signatureBold = IconifyIconData.solo(
-    IconData(0xe11d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf011d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signature-light`
   static const IconifyIconData signatureLight = IconifyIconData.solo(
-    IconData(0xe11e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf011e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signature-thin`
   static const IconifyIconData signatureThin = IconifyIconData.solo(
-    IconData(0xe11f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf011f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signpost`
   static const IconifyIconData signpost = IconifyIconData.solo(
-    IconData(0xe120, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0120, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signpost-big`
   static const IconifyIconData signpostBig = IconifyIconData.solo(
-    IconData(0xe121, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0121, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signpost-big-bold`
   static const IconifyIconData signpostBigBold = IconifyIconData.solo(
-    IconData(0xe122, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0122, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signpost-big-light`
   static const IconifyIconData signpostBigLight = IconifyIconData.solo(
-    IconData(0xe123, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0123, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signpost-big-thin`
   static const IconifyIconData signpostBigThin = IconifyIconData.solo(
-    IconData(0xe124, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0124, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signpost-bold`
   static const IconifyIconData signpostBold = IconifyIconData.solo(
-    IconData(0xe125, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0125, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signpost-light`
   static const IconifyIconData signpostLight = IconifyIconData.solo(
-    IconData(0xe126, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0126, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `signpost-thin`
   static const IconifyIconData signpostThin = IconifyIconData.solo(
-    IconData(0xe127, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0127, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `siren`
   static const IconifyIconData siren = IconifyIconData.solo(
-    IconData(0xe128, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0128, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `siren-bold`
   static const IconifyIconData sirenBold = IconifyIconData.solo(
-    IconData(0xe129, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0129, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `siren-light`
   static const IconifyIconData sirenLight = IconifyIconData.solo(
-    IconData(0xe12a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf012a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `siren-thin`
   static const IconifyIconData sirenThin = IconifyIconData.solo(
-    IconData(0xe12b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf012b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `skip-back`
   static const IconifyIconData skipBack = IconifyIconData.solo(
-    IconData(0xe12c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf012c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `skip-back-bold`
   static const IconifyIconData skipBackBold = IconifyIconData.solo(
-    IconData(0xe12d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf012d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `skip-back-light`
   static const IconifyIconData skipBackLight = IconifyIconData.solo(
-    IconData(0xe12e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf012e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `skip-back-thin`
   static const IconifyIconData skipBackThin = IconifyIconData.solo(
-    IconData(0xe12f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf012f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `skip-forward`
   static const IconifyIconData skipForward = IconifyIconData.solo(
-    IconData(0xe130, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0130, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `skip-forward-bold`
   static const IconifyIconData skipForwardBold = IconifyIconData.solo(
-    IconData(0xe131, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0131, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `skip-forward-light`
   static const IconifyIconData skipForwardLight = IconifyIconData.solo(
-    IconData(0xe132, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0132, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `skip-forward-thin`
   static const IconifyIconData skipForwardThin = IconifyIconData.solo(
-    IconData(0xe133, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0133, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `skull`
   static const IconifyIconData skull = IconifyIconData.solo(
-    IconData(0xe134, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0134, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `skull-bold`
   static const IconifyIconData skullBold = IconifyIconData.solo(
-    IconData(0xe135, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0135, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `skull-light`
   static const IconifyIconData skullLight = IconifyIconData.solo(
-    IconData(0xe136, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0136, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `skull-thin`
   static const IconifyIconData skullThin = IconifyIconData.solo(
-    IconData(0xe137, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0137, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slack`
   static const IconifyIconData slack = IconifyIconData.solo(
-    IconData(0xe138, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0138, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slack-bold`
   static const IconifyIconData slackBold = IconifyIconData.solo(
-    IconData(0xe139, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0139, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slack-light`
   static const IconifyIconData slackLight = IconifyIconData.solo(
-    IconData(0xe13a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf013a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slack-thin`
   static const IconifyIconData slackThin = IconifyIconData.solo(
-    IconData(0xe13b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf013b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slash`
   static const IconifyIconData slash = IconifyIconData.solo(
-    IconData(0xe13c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf013c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slash-bold`
   static const IconifyIconData slashBold = IconifyIconData.solo(
-    IconData(0xe13d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf013d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slash-light`
   static const IconifyIconData slashLight = IconifyIconData.solo(
-    IconData(0xe13e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf013e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slash-square`
   static const IconifyIconData slashSquare = IconifyIconData.solo(
-    IconData(0xe13f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf013f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slash-square-bold`
   static const IconifyIconData slashSquareBold = IconifyIconData.solo(
-    IconData(0xe140, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0140, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slash-square-light`
   static const IconifyIconData slashSquareLight = IconifyIconData.solo(
-    IconData(0xe141, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0141, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slash-square-thin`
   static const IconifyIconData slashSquareThin = IconifyIconData.solo(
-    IconData(0xe142, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0142, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slash-thin`
   static const IconifyIconData slashThin = IconifyIconData.solo(
-    IconData(0xe143, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0143, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slice`
   static const IconifyIconData slice = IconifyIconData.solo(
-    IconData(0xe144, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0144, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slice-bold`
   static const IconifyIconData sliceBold = IconifyIconData.solo(
-    IconData(0xe145, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0145, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slice-light`
   static const IconifyIconData sliceLight = IconifyIconData.solo(
-    IconData(0xe146, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0146, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `slice-thin`
   static const IconifyIconData sliceThin = IconifyIconData.solo(
-    IconData(0xe147, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0147, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sliders`
   static const IconifyIconData sliders = IconifyIconData.solo(
-    IconData(0xe148, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0148, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sliders-bold`
   static const IconifyIconData slidersBold = IconifyIconData.solo(
-    IconData(0xe149, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0149, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sliders-horizontal`
   static const IconifyIconData slidersHorizontal = IconifyIconData.solo(
-    IconData(0xe14a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf014a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sliders-horizontal-bold`
   static const IconifyIconData slidersHorizontalBold = IconifyIconData.solo(
-    IconData(0xe14b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf014b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sliders-horizontal-light`
   static const IconifyIconData slidersHorizontalLight = IconifyIconData.solo(
-    IconData(0xe14c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf014c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sliders-horizontal-thin`
   static const IconifyIconData slidersHorizontalThin = IconifyIconData.solo(
-    IconData(0xe14d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf014d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sliders-light`
   static const IconifyIconData slidersLight = IconifyIconData.solo(
-    IconData(0xe14e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf014e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sliders-thin`
   static const IconifyIconData slidersThin = IconifyIconData.solo(
-    IconData(0xe14f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf014f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sliders-vertical`
   static const IconifyIconData slidersVertical = IconifyIconData.solo(
-    IconData(0xe150, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0150, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sliders-vertical-bold`
   static const IconifyIconData slidersVerticalBold = IconifyIconData.solo(
-    IconData(0xe151, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0151, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sliders-vertical-light`
   static const IconifyIconData slidersVerticalLight = IconifyIconData.solo(
-    IconData(0xe152, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0152, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sliders-vertical-thin`
   static const IconifyIconData slidersVerticalThin = IconifyIconData.solo(
-    IconData(0xe153, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0153, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smartphone`
   static const IconifyIconData smartphone = IconifyIconData.solo(
-    IconData(0xe154, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0154, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smartphone-bold`
   static const IconifyIconData smartphoneBold = IconifyIconData.solo(
-    IconData(0xe155, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0155, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smartphone-charging`
   static const IconifyIconData smartphoneCharging = IconifyIconData.solo(
-    IconData(0xe156, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0156, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smartphone-charging-bold`
   static const IconifyIconData smartphoneChargingBold = IconifyIconData.solo(
-    IconData(0xe157, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0157, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smartphone-charging-light`
   static const IconifyIconData smartphoneChargingLight = IconifyIconData.solo(
-    IconData(0xe158, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0158, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smartphone-charging-thin`
   static const IconifyIconData smartphoneChargingThin = IconifyIconData.solo(
-    IconData(0xe159, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0159, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smartphone-light`
   static const IconifyIconData smartphoneLight = IconifyIconData.solo(
-    IconData(0xe15a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf015a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smartphone-nfc`
   static const IconifyIconData smartphoneNfc = IconifyIconData.solo(
-    IconData(0xe15b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf015b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smartphone-nfc-bold`
   static const IconifyIconData smartphoneNfcBold = IconifyIconData.solo(
-    IconData(0xe15c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf015c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smartphone-nfc-light`
   static const IconifyIconData smartphoneNfcLight = IconifyIconData.solo(
-    IconData(0xe15d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf015d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smartphone-nfc-thin`
   static const IconifyIconData smartphoneNfcThin = IconifyIconData.solo(
-    IconData(0xe15e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf015e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smartphone-thin`
   static const IconifyIconData smartphoneThin = IconifyIconData.solo(
-    IconData(0xe15f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf015f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smile`
   static const IconifyIconData smile = IconifyIconData.solo(
-    IconData(0xe160, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0160, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smile-bold`
   static const IconifyIconData smileBold = IconifyIconData.solo(
-    IconData(0xe161, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0161, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smile-light`
   static const IconifyIconData smileLight = IconifyIconData.solo(
-    IconData(0xe162, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0162, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smile-plus`
   static const IconifyIconData smilePlus = IconifyIconData.solo(
-    IconData(0xe163, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0163, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smile-plus-bold`
   static const IconifyIconData smilePlusBold = IconifyIconData.solo(
-    IconData(0xe164, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0164, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smile-plus-light`
   static const IconifyIconData smilePlusLight = IconifyIconData.solo(
-    IconData(0xe165, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0165, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smile-plus-thin`
   static const IconifyIconData smilePlusThin = IconifyIconData.solo(
-    IconData(0xe166, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0166, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `smile-thin`
   static const IconifyIconData smileThin = IconifyIconData.solo(
-    IconData(0xe167, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0167, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `snail`
   static const IconifyIconData snail = IconifyIconData.solo(
-    IconData(0xe168, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0168, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `snail-bold`
   static const IconifyIconData snailBold = IconifyIconData.solo(
-    IconData(0xe169, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0169, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `snail-light`
   static const IconifyIconData snailLight = IconifyIconData.solo(
-    IconData(0xe16a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf016a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `snail-thin`
   static const IconifyIconData snailThin = IconifyIconData.solo(
-    IconData(0xe16b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf016b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `snowflake`
   static const IconifyIconData snowflake = IconifyIconData.solo(
-    IconData(0xe16c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf016c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `snowflake-bold`
   static const IconifyIconData snowflakeBold = IconifyIconData.solo(
-    IconData(0xe16d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf016d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `snowflake-light`
   static const IconifyIconData snowflakeLight = IconifyIconData.solo(
-    IconData(0xe16e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf016e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `snowflake-thin`
   static const IconifyIconData snowflakeThin = IconifyIconData.solo(
-    IconData(0xe16f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf016f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `soap-dispenser-droplet`
   static const IconifyIconData soapDispenserDroplet = IconifyIconData.solo(
-    IconData(0xe170, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0170, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `soap-dispenser-droplet-bold`
   static const IconifyIconData soapDispenserDropletBold = IconifyIconData.solo(
-    IconData(0xe171, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0171, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `soap-dispenser-droplet-light`
   static const IconifyIconData soapDispenserDropletLight = IconifyIconData.solo(
-    IconData(0xe172, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0172, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `soap-dispenser-droplet-thin`
   static const IconifyIconData soapDispenserDropletThin = IconifyIconData.solo(
-    IconData(0xe173, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0173, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sofa`
   static const IconifyIconData sofa = IconifyIconData.solo(
-    IconData(0xe174, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0174, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sofa-bold`
   static const IconifyIconData sofaBold = IconifyIconData.solo(
-    IconData(0xe175, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0175, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sofa-light`
   static const IconifyIconData sofaLight = IconifyIconData.solo(
-    IconData(0xe176, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0176, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sofa-thin`
   static const IconifyIconData sofaThin = IconifyIconData.solo(
-    IconData(0xe177, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0177, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `solar-panel`
   static const IconifyIconData solarPanel = IconifyIconData.solo(
-    IconData(0xe178, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0178, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `solar-panel-bold`
   static const IconifyIconData solarPanelBold = IconifyIconData.solo(
-    IconData(0xe179, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0179, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `solar-panel-light`
   static const IconifyIconData solarPanelLight = IconifyIconData.solo(
-    IconData(0xe17a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf017a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `solar-panel-thin`
   static const IconifyIconData solarPanelThin = IconifyIconData.solo(
-    IconData(0xe17b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf017b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sort-asc`
   static const IconifyIconData sortAsc = IconifyIconData.solo(
-    IconData(0xe17c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf017c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sort-asc-bold`
   static const IconifyIconData sortAscBold = IconifyIconData.solo(
-    IconData(0xe17d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf017d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sort-asc-light`
   static const IconifyIconData sortAscLight = IconifyIconData.solo(
-    IconData(0xe17e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf017e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sort-asc-thin`
   static const IconifyIconData sortAscThin = IconifyIconData.solo(
-    IconData(0xe17f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf017f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sort-desc`
   static const IconifyIconData sortDesc = IconifyIconData.solo(
-    IconData(0xe180, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0180, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sort-desc-bold`
   static const IconifyIconData sortDescBold = IconifyIconData.solo(
-    IconData(0xe181, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0181, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sort-desc-light`
   static const IconifyIconData sortDescLight = IconifyIconData.solo(
-    IconData(0xe182, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0182, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sort-desc-thin`
   static const IconifyIconData sortDescThin = IconifyIconData.solo(
-    IconData(0xe183, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0183, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `soup`
   static const IconifyIconData soup = IconifyIconData.solo(
-    IconData(0xe184, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0184, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `soup-bold`
   static const IconifyIconData soupBold = IconifyIconData.solo(
-    IconData(0xe185, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0185, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `soup-light`
   static const IconifyIconData soupLight = IconifyIconData.solo(
-    IconData(0xe186, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0186, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `soup-thin`
   static const IconifyIconData soupThin = IconifyIconData.solo(
-    IconData(0xe187, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0187, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `space`
   static const IconifyIconData space = IconifyIconData.solo(
-    IconData(0xe188, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0188, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `space-bold`
   static const IconifyIconData spaceBold = IconifyIconData.solo(
-    IconData(0xe189, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0189, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `space-light`
   static const IconifyIconData spaceLight = IconifyIconData.solo(
-    IconData(0xe18a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf018a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `space-thin`
   static const IconifyIconData spaceThin = IconifyIconData.solo(
-    IconData(0xe18b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf018b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spade`
   static const IconifyIconData spade = IconifyIconData.solo(
-    IconData(0xe18c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf018c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spade-bold`
   static const IconifyIconData spadeBold = IconifyIconData.solo(
-    IconData(0xe18d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf018d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spade-light`
   static const IconifyIconData spadeLight = IconifyIconData.solo(
-    IconData(0xe18e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf018e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spade-thin`
   static const IconifyIconData spadeThin = IconifyIconData.solo(
-    IconData(0xe18f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf018f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sparkle`
   static const IconifyIconData sparkle = IconifyIconData.solo(
-    IconData(0xe190, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0190, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sparkle-bold`
   static const IconifyIconData sparkleBold = IconifyIconData.solo(
-    IconData(0xe191, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0191, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sparkle-light`
   static const IconifyIconData sparkleLight = IconifyIconData.solo(
-    IconData(0xe192, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0192, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sparkle-thin`
   static const IconifyIconData sparkleThin = IconifyIconData.solo(
-    IconData(0xe193, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0193, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sparkles`
   static const IconifyIconData sparkles = IconifyIconData.solo(
-    IconData(0xe194, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0194, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sparkles-bold`
   static const IconifyIconData sparklesBold = IconifyIconData.solo(
-    IconData(0xe195, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0195, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sparkles-light`
   static const IconifyIconData sparklesLight = IconifyIconData.solo(
-    IconData(0xe196, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0196, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sparkles-thin`
   static const IconifyIconData sparklesThin = IconifyIconData.solo(
-    IconData(0xe197, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0197, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `speaker`
   static const IconifyIconData speaker = IconifyIconData.solo(
-    IconData(0xe198, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0198, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `speaker-bold`
   static const IconifyIconData speakerBold = IconifyIconData.solo(
-    IconData(0xe199, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0199, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `speaker-light`
   static const IconifyIconData speakerLight = IconifyIconData.solo(
-    IconData(0xe19a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf019a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `speaker-thin`
   static const IconifyIconData speakerThin = IconifyIconData.solo(
-    IconData(0xe19b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf019b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `speech`
   static const IconifyIconData speech = IconifyIconData.solo(
-    IconData(0xe19c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf019c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `speech-bold`
   static const IconifyIconData speechBold = IconifyIconData.solo(
-    IconData(0xe19d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf019d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `speech-light`
   static const IconifyIconData speechLight = IconifyIconData.solo(
-    IconData(0xe19e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf019e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `speech-thin`
   static const IconifyIconData speechThin = IconifyIconData.solo(
-    IconData(0xe19f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf019f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spell-check`
   static const IconifyIconData spellCheck = IconifyIconData.solo(
-    IconData(0xe1a0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01a0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spell-check-2`
   static const IconifyIconData spellCheck2 = IconifyIconData.solo(
-    IconData(0xe1a1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01a1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spell-check-2-bold`
   static const IconifyIconData spellCheck2Bold = IconifyIconData.solo(
-    IconData(0xe1a2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01a2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spell-check-2-light`
   static const IconifyIconData spellCheck2Light = IconifyIconData.solo(
-    IconData(0xe1a3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01a3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spell-check-2-thin`
   static const IconifyIconData spellCheck2Thin = IconifyIconData.solo(
-    IconData(0xe1a4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01a4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spell-check-bold`
   static const IconifyIconData spellCheckBold = IconifyIconData.solo(
-    IconData(0xe1a5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01a5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spell-check-light`
   static const IconifyIconData spellCheckLight = IconifyIconData.solo(
-    IconData(0xe1a6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01a6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spell-check-thin`
   static const IconifyIconData spellCheckThin = IconifyIconData.solo(
-    IconData(0xe1a7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01a7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spline`
   static const IconifyIconData spline = IconifyIconData.solo(
-    IconData(0xe1a8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01a8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spline-bold`
   static const IconifyIconData splineBold = IconifyIconData.solo(
-    IconData(0xe1a9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01a9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spline-light`
   static const IconifyIconData splineLight = IconifyIconData.solo(
-    IconData(0xe1aa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01aa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spline-pointer`
   static const IconifyIconData splinePointer = IconifyIconData.solo(
-    IconData(0xe1ab, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ab, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spline-pointer-bold`
   static const IconifyIconData splinePointerBold = IconifyIconData.solo(
-    IconData(0xe1ac, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ac, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spline-pointer-light`
   static const IconifyIconData splinePointerLight = IconifyIconData.solo(
-    IconData(0xe1ad, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ad, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spline-pointer-thin`
   static const IconifyIconData splinePointerThin = IconifyIconData.solo(
-    IconData(0xe1ae, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ae, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spline-thin`
   static const IconifyIconData splineThin = IconifyIconData.solo(
-    IconData(0xe1af, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01af, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `split`
   static const IconifyIconData split = IconifyIconData.solo(
-    IconData(0xe1b0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01b0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `split-bold`
   static const IconifyIconData splitBold = IconifyIconData.solo(
-    IconData(0xe1b1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01b1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `split-light`
   static const IconifyIconData splitLight = IconifyIconData.solo(
-    IconData(0xe1b2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01b2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `split-square-horizontal`
   static const IconifyIconData splitSquareHorizontal = IconifyIconData.solo(
-    IconData(0xe1b3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01b3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `split-square-horizontal-bold`
   static const IconifyIconData splitSquareHorizontalBold = IconifyIconData.solo(
-    IconData(0xe1b4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01b4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `split-square-horizontal-light`
   static const IconifyIconData splitSquareHorizontalLight = IconifyIconData.solo(
-    IconData(0xe1b5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01b5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `split-square-horizontal-thin`
   static const IconifyIconData splitSquareHorizontalThin = IconifyIconData.solo(
-    IconData(0xe1b6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01b6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `split-square-vertical`
   static const IconifyIconData splitSquareVertical = IconifyIconData.solo(
-    IconData(0xe1b7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01b7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `split-square-vertical-bold`
   static const IconifyIconData splitSquareVerticalBold = IconifyIconData.solo(
-    IconData(0xe1b8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01b8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `split-square-vertical-light`
   static const IconifyIconData splitSquareVerticalLight = IconifyIconData.solo(
-    IconData(0xe1b9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01b9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `split-square-vertical-thin`
   static const IconifyIconData splitSquareVerticalThin = IconifyIconData.solo(
-    IconData(0xe1ba, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ba, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `split-thin`
   static const IconifyIconData splitThin = IconifyIconData.solo(
-    IconData(0xe1bb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01bb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spool`
   static const IconifyIconData spool = IconifyIconData.solo(
-    IconData(0xe1bc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01bc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spool-bold`
   static const IconifyIconData spoolBold = IconifyIconData.solo(
-    IconData(0xe1bd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01bd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spool-light`
   static const IconifyIconData spoolLight = IconifyIconData.solo(
-    IconData(0xe1be, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01be, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spool-thin`
   static const IconifyIconData spoolThin = IconifyIconData.solo(
-    IconData(0xe1bf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01bf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sport-shoe`
   static const IconifyIconData sportShoe = IconifyIconData.solo(
-    IconData(0xe1c0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01c0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sport-shoe-bold`
   static const IconifyIconData sportShoeBold = IconifyIconData.solo(
-    IconData(0xe1c1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01c1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sport-shoe-light`
   static const IconifyIconData sportShoeLight = IconifyIconData.solo(
-    IconData(0xe1c2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01c2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sport-shoe-thin`
   static const IconifyIconData sportShoeThin = IconifyIconData.solo(
-    IconData(0xe1c3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01c3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spotlight`
   static const IconifyIconData spotlight = IconifyIconData.solo(
-    IconData(0xe1c4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01c4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spotlight-bold`
   static const IconifyIconData spotlightBold = IconifyIconData.solo(
-    IconData(0xe1c5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01c5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spotlight-light`
   static const IconifyIconData spotlightLight = IconifyIconData.solo(
-    IconData(0xe1c6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01c6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spotlight-thin`
   static const IconifyIconData spotlightThin = IconifyIconData.solo(
-    IconData(0xe1c7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01c7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spray-can`
   static const IconifyIconData sprayCan = IconifyIconData.solo(
-    IconData(0xe1c8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01c8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spray-can-bold`
   static const IconifyIconData sprayCanBold = IconifyIconData.solo(
-    IconData(0xe1c9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01c9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spray-can-light`
   static const IconifyIconData sprayCanLight = IconifyIconData.solo(
-    IconData(0xe1ca, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ca, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `spray-can-thin`
   static const IconifyIconData sprayCanThin = IconifyIconData.solo(
-    IconData(0xe1cb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01cb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sprout`
   static const IconifyIconData sprout = IconifyIconData.solo(
-    IconData(0xe1cc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01cc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sprout-bold`
   static const IconifyIconData sproutBold = IconifyIconData.solo(
-    IconData(0xe1cd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01cd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sprout-light`
   static const IconifyIconData sproutLight = IconifyIconData.solo(
-    IconData(0xe1ce, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ce, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sprout-thin`
   static const IconifyIconData sproutThin = IconifyIconData.solo(
-    IconData(0xe1cf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01cf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square`
   static const IconifyIconData square = IconifyIconData.solo(
-    IconData(0xe1d0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01d0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-activity`
   static const IconifyIconData squareActivity = IconifyIconData.solo(
-    IconData(0xe1d1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01d1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-activity-bold`
   static const IconifyIconData squareActivityBold = IconifyIconData.solo(
-    IconData(0xe1d2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01d2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-activity-light`
   static const IconifyIconData squareActivityLight = IconifyIconData.solo(
-    IconData(0xe1d3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01d3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-activity-thin`
   static const IconifyIconData squareActivityThin = IconifyIconData.solo(
-    IconData(0xe1d4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01d4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-down`
   static const IconifyIconData squareArrowDown = IconifyIconData.solo(
-    IconData(0xe1d5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01d5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-down-bold`
   static const IconifyIconData squareArrowDownBold = IconifyIconData.solo(
-    IconData(0xe1d6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01d6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-down-left`
   static const IconifyIconData squareArrowDownLeft = IconifyIconData.solo(
-    IconData(0xe1d7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01d7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-down-left-bold`
   static const IconifyIconData squareArrowDownLeftBold = IconifyIconData.solo(
-    IconData(0xe1d8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01d8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-down-left-light`
   static const IconifyIconData squareArrowDownLeftLight = IconifyIconData.solo(
-    IconData(0xe1d9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01d9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-down-left-thin`
   static const IconifyIconData squareArrowDownLeftThin = IconifyIconData.solo(
-    IconData(0xe1da, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01da, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-down-light`
   static const IconifyIconData squareArrowDownLight = IconifyIconData.solo(
-    IconData(0xe1db, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01db, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-down-right`
   static const IconifyIconData squareArrowDownRight = IconifyIconData.solo(
-    IconData(0xe1dc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01dc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-down-right-bold`
   static const IconifyIconData squareArrowDownRightBold = IconifyIconData.solo(
-    IconData(0xe1dd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01dd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-down-right-light`
   static const IconifyIconData squareArrowDownRightLight = IconifyIconData.solo(
-    IconData(0xe1de, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01de, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-down-right-thin`
   static const IconifyIconData squareArrowDownRightThin = IconifyIconData.solo(
-    IconData(0xe1df, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01df, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-down-thin`
   static const IconifyIconData squareArrowDownThin = IconifyIconData.solo(
-    IconData(0xe1e0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01e0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-left`
   static const IconifyIconData squareArrowLeft = IconifyIconData.solo(
-    IconData(0xe1e1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01e1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-left-bold`
   static const IconifyIconData squareArrowLeftBold = IconifyIconData.solo(
-    IconData(0xe1e2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01e2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-left-light`
   static const IconifyIconData squareArrowLeftLight = IconifyIconData.solo(
-    IconData(0xe1e3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01e3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-left-thin`
   static const IconifyIconData squareArrowLeftThin = IconifyIconData.solo(
-    IconData(0xe1e4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01e4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-down-left`
   static const IconifyIconData squareArrowOutDownLeft = IconifyIconData.solo(
-    IconData(0xe1e5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01e5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-down-left-bold`
   static const IconifyIconData squareArrowOutDownLeftBold = IconifyIconData.solo(
-    IconData(0xe1e6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01e6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-down-left-light`
   static const IconifyIconData squareArrowOutDownLeftLight = IconifyIconData.solo(
-    IconData(0xe1e7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01e7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-down-left-thin`
   static const IconifyIconData squareArrowOutDownLeftThin = IconifyIconData.solo(
-    IconData(0xe1e8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01e8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-down-right`
   static const IconifyIconData squareArrowOutDownRight = IconifyIconData.solo(
-    IconData(0xe1e9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01e9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-down-right-bold`
   static const IconifyIconData squareArrowOutDownRightBold = IconifyIconData.solo(
-    IconData(0xe1ea, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ea, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-down-right-light`
   static const IconifyIconData squareArrowOutDownRightLight = IconifyIconData.solo(
-    IconData(0xe1eb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01eb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-down-right-thin`
   static const IconifyIconData squareArrowOutDownRightThin = IconifyIconData.solo(
-    IconData(0xe1ec, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ec, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-up-left`
   static const IconifyIconData squareArrowOutUpLeft = IconifyIconData.solo(
-    IconData(0xe1ed, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ed, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-up-left-bold`
   static const IconifyIconData squareArrowOutUpLeftBold = IconifyIconData.solo(
-    IconData(0xe1ee, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ee, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-up-left-light`
   static const IconifyIconData squareArrowOutUpLeftLight = IconifyIconData.solo(
-    IconData(0xe1ef, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ef, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-up-left-thin`
   static const IconifyIconData squareArrowOutUpLeftThin = IconifyIconData.solo(
-    IconData(0xe1f0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01f0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-up-right`
   static const IconifyIconData squareArrowOutUpRight = IconifyIconData.solo(
-    IconData(0xe1f1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01f1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-up-right-bold`
   static const IconifyIconData squareArrowOutUpRightBold = IconifyIconData.solo(
-    IconData(0xe1f2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01f2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-up-right-light`
   static const IconifyIconData squareArrowOutUpRightLight = IconifyIconData.solo(
-    IconData(0xe1f3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01f3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-out-up-right-thin`
   static const IconifyIconData squareArrowOutUpRightThin = IconifyIconData.solo(
-    IconData(0xe1f4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01f4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-right`
   static const IconifyIconData squareArrowRight = IconifyIconData.solo(
-    IconData(0xe1f5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01f5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-right-bold`
   static const IconifyIconData squareArrowRightBold = IconifyIconData.solo(
-    IconData(0xe1f6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01f6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-right-enter`
   static const IconifyIconData squareArrowRightEnter = IconifyIconData.solo(
-    IconData(0xe1f7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01f7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-right-enter-bold`
   static const IconifyIconData squareArrowRightEnterBold = IconifyIconData.solo(
-    IconData(0xe1f8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01f8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-right-enter-light`
   static const IconifyIconData squareArrowRightEnterLight = IconifyIconData.solo(
-    IconData(0xe1f9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01f9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-right-enter-thin`
   static const IconifyIconData squareArrowRightEnterThin = IconifyIconData.solo(
-    IconData(0xe1fa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01fa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-right-exit`
   static const IconifyIconData squareArrowRightExit = IconifyIconData.solo(
-    IconData(0xe1fb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01fb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-right-exit-bold`
   static const IconifyIconData squareArrowRightExitBold = IconifyIconData.solo(
-    IconData(0xe1fc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01fc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-right-exit-light`
   static const IconifyIconData squareArrowRightExitLight = IconifyIconData.solo(
-    IconData(0xe1fd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01fd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-right-exit-thin`
   static const IconifyIconData squareArrowRightExitThin = IconifyIconData.solo(
-    IconData(0xe1fe, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01fe, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-right-light`
   static const IconifyIconData squareArrowRightLight = IconifyIconData.solo(
-    IconData(0xe1ff, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf01ff, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-right-thin`
   static const IconifyIconData squareArrowRightThin = IconifyIconData.solo(
-    IconData(0xe200, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0200, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-up`
   static const IconifyIconData squareArrowUp = IconifyIconData.solo(
-    IconData(0xe201, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0201, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-up-bold`
   static const IconifyIconData squareArrowUpBold = IconifyIconData.solo(
-    IconData(0xe202, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0202, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-up-left`
   static const IconifyIconData squareArrowUpLeft = IconifyIconData.solo(
-    IconData(0xe203, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0203, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-up-left-bold`
   static const IconifyIconData squareArrowUpLeftBold = IconifyIconData.solo(
-    IconData(0xe204, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0204, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-up-left-light`
   static const IconifyIconData squareArrowUpLeftLight = IconifyIconData.solo(
-    IconData(0xe205, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0205, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-up-left-thin`
   static const IconifyIconData squareArrowUpLeftThin = IconifyIconData.solo(
-    IconData(0xe206, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0206, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-up-light`
   static const IconifyIconData squareArrowUpLight = IconifyIconData.solo(
-    IconData(0xe207, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0207, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-up-right`
   static const IconifyIconData squareArrowUpRight = IconifyIconData.solo(
-    IconData(0xe208, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0208, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-up-right-bold`
   static const IconifyIconData squareArrowUpRightBold = IconifyIconData.solo(
-    IconData(0xe209, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0209, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-up-right-light`
   static const IconifyIconData squareArrowUpRightLight = IconifyIconData.solo(
-    IconData(0xe20a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf020a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-up-right-thin`
   static const IconifyIconData squareArrowUpRightThin = IconifyIconData.solo(
-    IconData(0xe20b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf020b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-arrow-up-thin`
   static const IconifyIconData squareArrowUpThin = IconifyIconData.solo(
-    IconData(0xe20c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf020c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-asterisk`
   static const IconifyIconData squareAsterisk = IconifyIconData.solo(
-    IconData(0xe20d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf020d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-asterisk-bold`
   static const IconifyIconData squareAsteriskBold = IconifyIconData.solo(
-    IconData(0xe20e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf020e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-asterisk-light`
   static const IconifyIconData squareAsteriskLight = IconifyIconData.solo(
-    IconData(0xe20f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf020f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-asterisk-thin`
   static const IconifyIconData squareAsteriskThin = IconifyIconData.solo(
-    IconData(0xe210, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0210, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-bold`
   static const IconifyIconData squareBold = IconifyIconData.solo(
-    IconData(0xe211, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0211, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-bottom-dashed-scissors`
   static const IconifyIconData squareBottomDashedScissors = IconifyIconData.solo(
-    IconData(0xe212, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0212, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-bottom-dashed-scissors-bold`
   static const IconifyIconData squareBottomDashedScissorsBold = IconifyIconData.solo(
-    IconData(0xe213, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0213, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-bottom-dashed-scissors-light`
   static const IconifyIconData squareBottomDashedScissorsLight = IconifyIconData.solo(
-    IconData(0xe214, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0214, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-bottom-dashed-scissors-thin`
   static const IconifyIconData squareBottomDashedScissorsThin = IconifyIconData.solo(
-    IconData(0xe215, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0215, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-centerline-dashed-horizontal`
   static const IconifyIconData squareCenterlineDashedHorizontal = IconifyIconData.solo(
-    IconData(0xe216, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0216, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-centerline-dashed-horizontal-bold`
   static const IconifyIconData squareCenterlineDashedHorizontalBold = IconifyIconData.solo(
-    IconData(0xe217, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0217, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-centerline-dashed-horizontal-light`
   static const IconifyIconData squareCenterlineDashedHorizontalLight = IconifyIconData.solo(
-    IconData(0xe218, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0218, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-centerline-dashed-horizontal-thin`
   static const IconifyIconData squareCenterlineDashedHorizontalThin = IconifyIconData.solo(
-    IconData(0xe219, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0219, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-centerline-dashed-vertical`
   static const IconifyIconData squareCenterlineDashedVertical = IconifyIconData.solo(
-    IconData(0xe21a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf021a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-centerline-dashed-vertical-bold`
   static const IconifyIconData squareCenterlineDashedVerticalBold = IconifyIconData.solo(
-    IconData(0xe21b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf021b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-centerline-dashed-vertical-light`
   static const IconifyIconData squareCenterlineDashedVerticalLight = IconifyIconData.solo(
-    IconData(0xe21c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf021c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-centerline-dashed-vertical-thin`
   static const IconifyIconData squareCenterlineDashedVerticalThin = IconifyIconData.solo(
-    IconData(0xe21d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf021d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chart-gantt`
   static const IconifyIconData squareChartGantt = IconifyIconData.solo(
-    IconData(0xe21e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf021e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chart-gantt-bold`
   static const IconifyIconData squareChartGanttBold = IconifyIconData.solo(
-    IconData(0xe21f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf021f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chart-gantt-light`
   static const IconifyIconData squareChartGanttLight = IconifyIconData.solo(
-    IconData(0xe220, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0220, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chart-gantt-thin`
   static const IconifyIconData squareChartGanttThin = IconifyIconData.solo(
-    IconData(0xe221, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0221, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-check`
   static const IconifyIconData squareCheck = IconifyIconData.solo(
-    IconData(0xe222, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0222, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-check-big`
   static const IconifyIconData squareCheckBig = IconifyIconData.solo(
-    IconData(0xe223, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0223, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-check-big-bold`
   static const IconifyIconData squareCheckBigBold = IconifyIconData.solo(
-    IconData(0xe224, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0224, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-check-big-light`
   static const IconifyIconData squareCheckBigLight = IconifyIconData.solo(
-    IconData(0xe225, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0225, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-check-big-thin`
   static const IconifyIconData squareCheckBigThin = IconifyIconData.solo(
-    IconData(0xe226, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0226, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-check-bold`
   static const IconifyIconData squareCheckBold = IconifyIconData.solo(
-    IconData(0xe227, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0227, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-check-light`
   static const IconifyIconData squareCheckLight = IconifyIconData.solo(
-    IconData(0xe228, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0228, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-check-thin`
   static const IconifyIconData squareCheckThin = IconifyIconData.solo(
-    IconData(0xe229, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0229, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-down`
   static const IconifyIconData squareChevronDown = IconifyIconData.solo(
-    IconData(0xe22a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf022a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-down-bold`
   static const IconifyIconData squareChevronDownBold = IconifyIconData.solo(
-    IconData(0xe22b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf022b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-down-light`
   static const IconifyIconData squareChevronDownLight = IconifyIconData.solo(
-    IconData(0xe22c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf022c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-down-thin`
   static const IconifyIconData squareChevronDownThin = IconifyIconData.solo(
-    IconData(0xe22d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf022d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-left`
   static const IconifyIconData squareChevronLeft = IconifyIconData.solo(
-    IconData(0xe22e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf022e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-left-bold`
   static const IconifyIconData squareChevronLeftBold = IconifyIconData.solo(
-    IconData(0xe22f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf022f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-left-light`
   static const IconifyIconData squareChevronLeftLight = IconifyIconData.solo(
-    IconData(0xe230, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0230, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-left-thin`
   static const IconifyIconData squareChevronLeftThin = IconifyIconData.solo(
-    IconData(0xe231, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0231, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-right`
   static const IconifyIconData squareChevronRight = IconifyIconData.solo(
-    IconData(0xe232, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0232, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-right-bold`
   static const IconifyIconData squareChevronRightBold = IconifyIconData.solo(
-    IconData(0xe233, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0233, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-right-light`
   static const IconifyIconData squareChevronRightLight = IconifyIconData.solo(
-    IconData(0xe234, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0234, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-right-thin`
   static const IconifyIconData squareChevronRightThin = IconifyIconData.solo(
-    IconData(0xe235, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0235, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-up`
   static const IconifyIconData squareChevronUp = IconifyIconData.solo(
-    IconData(0xe236, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0236, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-up-bold`
   static const IconifyIconData squareChevronUpBold = IconifyIconData.solo(
-    IconData(0xe237, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0237, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-up-light`
   static const IconifyIconData squareChevronUpLight = IconifyIconData.solo(
-    IconData(0xe238, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0238, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-chevron-up-thin`
   static const IconifyIconData squareChevronUpThin = IconifyIconData.solo(
-    IconData(0xe239, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0239, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-code`
   static const IconifyIconData squareCode = IconifyIconData.solo(
-    IconData(0xe23a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf023a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-code-bold`
   static const IconifyIconData squareCodeBold = IconifyIconData.solo(
-    IconData(0xe23b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf023b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-code-light`
   static const IconifyIconData squareCodeLight = IconifyIconData.solo(
-    IconData(0xe23c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf023c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-code-thin`
   static const IconifyIconData squareCodeThin = IconifyIconData.solo(
-    IconData(0xe23d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf023d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed`
   static const IconifyIconData squareDashed = IconifyIconData.solo(
-    IconData(0xe23e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf023e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-bold`
   static const IconifyIconData squareDashedBold = IconifyIconData.solo(
-    IconData(0xe23f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf023f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-bottom`
   static const IconifyIconData squareDashedBottom = IconifyIconData.solo(
-    IconData(0xe240, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0240, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-bottom-bold`
   static const IconifyIconData squareDashedBottomBold = IconifyIconData.solo(
-    IconData(0xe241, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0241, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-bottom-code`
   static const IconifyIconData squareDashedBottomCode = IconifyIconData.solo(
-    IconData(0xe242, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0242, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-bottom-code-bold`
   static const IconifyIconData squareDashedBottomCodeBold = IconifyIconData.solo(
-    IconData(0xe243, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0243, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-bottom-code-light`
   static const IconifyIconData squareDashedBottomCodeLight = IconifyIconData.solo(
-    IconData(0xe244, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0244, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-bottom-code-thin`
   static const IconifyIconData squareDashedBottomCodeThin = IconifyIconData.solo(
-    IconData(0xe245, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0245, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-bottom-light`
   static const IconifyIconData squareDashedBottomLight = IconifyIconData.solo(
-    IconData(0xe246, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0246, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-bottom-thin`
   static const IconifyIconData squareDashedBottomThin = IconifyIconData.solo(
-    IconData(0xe247, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0247, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-kanban`
   static const IconifyIconData squareDashedKanban = IconifyIconData.solo(
-    IconData(0xe248, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0248, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-kanban-bold`
   static const IconifyIconData squareDashedKanbanBold = IconifyIconData.solo(
-    IconData(0xe249, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0249, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-kanban-light`
   static const IconifyIconData squareDashedKanbanLight = IconifyIconData.solo(
-    IconData(0xe24a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf024a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-kanban-thin`
   static const IconifyIconData squareDashedKanbanThin = IconifyIconData.solo(
-    IconData(0xe24b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf024b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-light`
   static const IconifyIconData squareDashedLight = IconifyIconData.solo(
-    IconData(0xe24c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf024c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-mouse-pointer`
   static const IconifyIconData squareDashedMousePointer = IconifyIconData.solo(
-    IconData(0xe24d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf024d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-mouse-pointer-bold`
   static const IconifyIconData squareDashedMousePointerBold = IconifyIconData.solo(
-    IconData(0xe24e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf024e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-mouse-pointer-light`
   static const IconifyIconData squareDashedMousePointerLight = IconifyIconData.solo(
-    IconData(0xe24f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf024f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-mouse-pointer-thin`
   static const IconifyIconData squareDashedMousePointerThin = IconifyIconData.solo(
-    IconData(0xe250, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0250, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-text`
   static const IconifyIconData squareDashedText = IconifyIconData.solo(
-    IconData(0xe251, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0251, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-text-bold`
   static const IconifyIconData squareDashedTextBold = IconifyIconData.solo(
-    IconData(0xe252, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0252, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-text-light`
   static const IconifyIconData squareDashedTextLight = IconifyIconData.solo(
-    IconData(0xe253, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0253, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-text-thin`
   static const IconifyIconData squareDashedTextThin = IconifyIconData.solo(
-    IconData(0xe254, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0254, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-thin`
   static const IconifyIconData squareDashedThin = IconifyIconData.solo(
-    IconData(0xe255, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0255, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-top-solid`
   static const IconifyIconData squareDashedTopSolid = IconifyIconData.solo(
-    IconData(0xe256, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0256, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-top-solid-bold`
   static const IconifyIconData squareDashedTopSolidBold = IconifyIconData.solo(
-    IconData(0xe257, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0257, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-top-solid-light`
   static const IconifyIconData squareDashedTopSolidLight = IconifyIconData.solo(
-    IconData(0xe258, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0258, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dashed-top-solid-thin`
   static const IconifyIconData squareDashedTopSolidThin = IconifyIconData.solo(
-    IconData(0xe259, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0259, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-divide`
   static const IconifyIconData squareDivide = IconifyIconData.solo(
-    IconData(0xe25a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf025a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-divide-bold`
   static const IconifyIconData squareDivideBold = IconifyIconData.solo(
-    IconData(0xe25b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf025b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-divide-light`
   static const IconifyIconData squareDivideLight = IconifyIconData.solo(
-    IconData(0xe25c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf025c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-divide-thin`
   static const IconifyIconData squareDivideThin = IconifyIconData.solo(
-    IconData(0xe25d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf025d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dot`
   static const IconifyIconData squareDot = IconifyIconData.solo(
-    IconData(0xe25e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf025e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dot-bold`
   static const IconifyIconData squareDotBold = IconifyIconData.solo(
-    IconData(0xe25f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf025f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dot-light`
   static const IconifyIconData squareDotLight = IconifyIconData.solo(
-    IconData(0xe260, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0260, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-dot-thin`
   static const IconifyIconData squareDotThin = IconifyIconData.solo(
-    IconData(0xe261, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0261, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-equal`
   static const IconifyIconData squareEqual = IconifyIconData.solo(
-    IconData(0xe262, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0262, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-equal-bold`
   static const IconifyIconData squareEqualBold = IconifyIconData.solo(
-    IconData(0xe263, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0263, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-equal-light`
   static const IconifyIconData squareEqualLight = IconifyIconData.solo(
-    IconData(0xe264, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0264, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-equal-thin`
   static const IconifyIconData squareEqualThin = IconifyIconData.solo(
-    IconData(0xe265, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0265, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-function`
   static const IconifyIconData squareFunction = IconifyIconData.solo(
-    IconData(0xe266, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0266, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-function-bold`
   static const IconifyIconData squareFunctionBold = IconifyIconData.solo(
-    IconData(0xe267, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0267, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-function-light`
   static const IconifyIconData squareFunctionLight = IconifyIconData.solo(
-    IconData(0xe268, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0268, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-function-thin`
   static const IconifyIconData squareFunctionThin = IconifyIconData.solo(
-    IconData(0xe269, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0269, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-gantt`
   static const IconifyIconData squareGantt = IconifyIconData.solo(
-    IconData(0xe26a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf026a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-gantt-bold`
   static const IconifyIconData squareGanttBold = IconifyIconData.solo(
-    IconData(0xe26b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf026b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-gantt-chart`
   static const IconifyIconData squareGanttChart = IconifyIconData.solo(
-    IconData(0xe26c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf026c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-gantt-chart-bold`
   static const IconifyIconData squareGanttChartBold = IconifyIconData.solo(
-    IconData(0xe26d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf026d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-gantt-chart-light`
   static const IconifyIconData squareGanttChartLight = IconifyIconData.solo(
-    IconData(0xe26e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf026e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-gantt-chart-thin`
   static const IconifyIconData squareGanttChartThin = IconifyIconData.solo(
-    IconData(0xe26f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf026f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-gantt-light`
   static const IconifyIconData squareGanttLight = IconifyIconData.solo(
-    IconData(0xe270, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0270, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-gantt-thin`
   static const IconifyIconData squareGanttThin = IconifyIconData.solo(
-    IconData(0xe271, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0271, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-kanban`
   static const IconifyIconData squareKanban = IconifyIconData.solo(
-    IconData(0xe272, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0272, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-kanban-bold`
   static const IconifyIconData squareKanbanBold = IconifyIconData.solo(
-    IconData(0xe273, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0273, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-kanban-dashed`
   static const IconifyIconData squareKanbanDashed = IconifyIconData.solo(
-    IconData(0xe274, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0274, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-kanban-dashed-bold`
   static const IconifyIconData squareKanbanDashedBold = IconifyIconData.solo(
-    IconData(0xe275, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0275, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-kanban-dashed-light`
   static const IconifyIconData squareKanbanDashedLight = IconifyIconData.solo(
-    IconData(0xe276, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0276, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-kanban-dashed-thin`
   static const IconifyIconData squareKanbanDashedThin = IconifyIconData.solo(
-    IconData(0xe277, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0277, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-kanban-light`
   static const IconifyIconData squareKanbanLight = IconifyIconData.solo(
-    IconData(0xe278, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0278, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-kanban-thin`
   static const IconifyIconData squareKanbanThin = IconifyIconData.solo(
-    IconData(0xe279, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0279, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-library`
   static const IconifyIconData squareLibrary = IconifyIconData.solo(
-    IconData(0xe27a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf027a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-library-bold`
   static const IconifyIconData squareLibraryBold = IconifyIconData.solo(
-    IconData(0xe27b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf027b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-library-light`
   static const IconifyIconData squareLibraryLight = IconifyIconData.solo(
-    IconData(0xe27c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf027c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-library-thin`
   static const IconifyIconData squareLibraryThin = IconifyIconData.solo(
-    IconData(0xe27d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf027d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-light`
   static const IconifyIconData squareLight = IconifyIconData.solo(
-    IconData(0xe27e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf027e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-m`
   static const IconifyIconData squareM = IconifyIconData.solo(
-    IconData(0xe27f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf027f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-m-bold`
   static const IconifyIconData squareMBold = IconifyIconData.solo(
-    IconData(0xe280, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0280, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-m-light`
   static const IconifyIconData squareMLight = IconifyIconData.solo(
-    IconData(0xe281, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0281, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-m-thin`
   static const IconifyIconData squareMThin = IconifyIconData.solo(
-    IconData(0xe282, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0282, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-menu`
   static const IconifyIconData squareMenu = IconifyIconData.solo(
-    IconData(0xe283, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0283, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-menu-bold`
   static const IconifyIconData squareMenuBold = IconifyIconData.solo(
-    IconData(0xe284, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0284, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-menu-light`
   static const IconifyIconData squareMenuLight = IconifyIconData.solo(
-    IconData(0xe285, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0285, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-menu-thin`
   static const IconifyIconData squareMenuThin = IconifyIconData.solo(
-    IconData(0xe286, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0286, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-minus`
   static const IconifyIconData squareMinus = IconifyIconData.solo(
-    IconData(0xe287, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0287, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-minus-bold`
   static const IconifyIconData squareMinusBold = IconifyIconData.solo(
-    IconData(0xe288, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0288, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-minus-light`
   static const IconifyIconData squareMinusLight = IconifyIconData.solo(
-    IconData(0xe289, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0289, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-minus-thin`
   static const IconifyIconData squareMinusThin = IconifyIconData.solo(
-    IconData(0xe28a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf028a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-mouse-pointer`
   static const IconifyIconData squareMousePointer = IconifyIconData.solo(
-    IconData(0xe28b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf028b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-mouse-pointer-bold`
   static const IconifyIconData squareMousePointerBold = IconifyIconData.solo(
-    IconData(0xe28c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf028c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-mouse-pointer-light`
   static const IconifyIconData squareMousePointerLight = IconifyIconData.solo(
-    IconData(0xe28d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf028d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-mouse-pointer-thin`
   static const IconifyIconData squareMousePointerThin = IconifyIconData.solo(
-    IconData(0xe28e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf028e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-parking`
   static const IconifyIconData squareParking = IconifyIconData.solo(
-    IconData(0xe28f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf028f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-parking-bold`
   static const IconifyIconData squareParkingBold = IconifyIconData.solo(
-    IconData(0xe290, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0290, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-parking-light`
   static const IconifyIconData squareParkingLight = IconifyIconData.solo(
-    IconData(0xe291, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0291, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-parking-off`
   static const IconifyIconData squareParkingOff = IconifyIconData.solo(
-    IconData(0xe292, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0292, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-parking-off-bold`
   static const IconifyIconData squareParkingOffBold = IconifyIconData.solo(
-    IconData(0xe293, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0293, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-parking-off-light`
   static const IconifyIconData squareParkingOffLight = IconifyIconData.solo(
-    IconData(0xe294, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0294, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-parking-off-thin`
   static const IconifyIconData squareParkingOffThin = IconifyIconData.solo(
-    IconData(0xe295, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0295, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-parking-thin`
   static const IconifyIconData squareParkingThin = IconifyIconData.solo(
-    IconData(0xe296, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0296, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pause`
   static const IconifyIconData squarePause = IconifyIconData.solo(
-    IconData(0xe297, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0297, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pause-bold`
   static const IconifyIconData squarePauseBold = IconifyIconData.solo(
-    IconData(0xe298, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0298, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pause-light`
   static const IconifyIconData squarePauseLight = IconifyIconData.solo(
-    IconData(0xe299, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0299, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pause-thin`
   static const IconifyIconData squarePauseThin = IconifyIconData.solo(
-    IconData(0xe29a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf029a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pen`
   static const IconifyIconData squarePen = IconifyIconData.solo(
-    IconData(0xe29b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf029b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pen-bold`
   static const IconifyIconData squarePenBold = IconifyIconData.solo(
-    IconData(0xe29c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf029c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pen-light`
   static const IconifyIconData squarePenLight = IconifyIconData.solo(
-    IconData(0xe29d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf029d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pen-thin`
   static const IconifyIconData squarePenThin = IconifyIconData.solo(
-    IconData(0xe29e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf029e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-percent`
   static const IconifyIconData squarePercent = IconifyIconData.solo(
-    IconData(0xe29f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf029f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-percent-bold`
   static const IconifyIconData squarePercentBold = IconifyIconData.solo(
-    IconData(0xe2a0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02a0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-percent-light`
   static const IconifyIconData squarePercentLight = IconifyIconData.solo(
-    IconData(0xe2a1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02a1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-percent-thin`
   static const IconifyIconData squarePercentThin = IconifyIconData.solo(
-    IconData(0xe2a2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02a2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pi`
   static const IconifyIconData squarePi = IconifyIconData.solo(
-    IconData(0xe2a3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02a3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pi-bold`
   static const IconifyIconData squarePiBold = IconifyIconData.solo(
-    IconData(0xe2a4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02a4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pi-light`
   static const IconifyIconData squarePiLight = IconifyIconData.solo(
-    IconData(0xe2a5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02a5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pi-thin`
   static const IconifyIconData squarePiThin = IconifyIconData.solo(
-    IconData(0xe2a6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02a6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pilcrow`
   static const IconifyIconData squarePilcrow = IconifyIconData.solo(
-    IconData(0xe2a7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02a7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pilcrow-bold`
   static const IconifyIconData squarePilcrowBold = IconifyIconData.solo(
-    IconData(0xe2a8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02a8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pilcrow-light`
   static const IconifyIconData squarePilcrowLight = IconifyIconData.solo(
-    IconData(0xe2a9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02a9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-pilcrow-thin`
   static const IconifyIconData squarePilcrowThin = IconifyIconData.solo(
-    IconData(0xe2aa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02aa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-play`
   static const IconifyIconData squarePlay = IconifyIconData.solo(
-    IconData(0xe2ab, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ab, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-play-bold`
   static const IconifyIconData squarePlayBold = IconifyIconData.solo(
-    IconData(0xe2ac, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ac, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-play-light`
   static const IconifyIconData squarePlayLight = IconifyIconData.solo(
-    IconData(0xe2ad, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ad, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-play-thin`
   static const IconifyIconData squarePlayThin = IconifyIconData.solo(
-    IconData(0xe2ae, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ae, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-plus`
   static const IconifyIconData squarePlus = IconifyIconData.solo(
-    IconData(0xe2af, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02af, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-plus-bold`
   static const IconifyIconData squarePlusBold = IconifyIconData.solo(
-    IconData(0xe2b0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02b0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-plus-light`
   static const IconifyIconData squarePlusLight = IconifyIconData.solo(
-    IconData(0xe2b1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02b1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-plus-thin`
   static const IconifyIconData squarePlusThin = IconifyIconData.solo(
-    IconData(0xe2b2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02b2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-power`
   static const IconifyIconData squarePower = IconifyIconData.solo(
-    IconData(0xe2b3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02b3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-power-bold`
   static const IconifyIconData squarePowerBold = IconifyIconData.solo(
-    IconData(0xe2b4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02b4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-power-light`
   static const IconifyIconData squarePowerLight = IconifyIconData.solo(
-    IconData(0xe2b5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02b5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-power-thin`
   static const IconifyIconData squarePowerThin = IconifyIconData.solo(
-    IconData(0xe2b6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02b6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-radical`
   static const IconifyIconData squareRadical = IconifyIconData.solo(
-    IconData(0xe2b7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02b7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-radical-bold`
   static const IconifyIconData squareRadicalBold = IconifyIconData.solo(
-    IconData(0xe2b8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02b8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-radical-light`
   static const IconifyIconData squareRadicalLight = IconifyIconData.solo(
-    IconData(0xe2b9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02b9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-radical-thin`
   static const IconifyIconData squareRadicalThin = IconifyIconData.solo(
-    IconData(0xe2ba, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ba, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-round-corner`
   static const IconifyIconData squareRoundCorner = IconifyIconData.solo(
-    IconData(0xe2bb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02bb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-round-corner-bold`
   static const IconifyIconData squareRoundCornerBold = IconifyIconData.solo(
-    IconData(0xe2bc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02bc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-round-corner-light`
   static const IconifyIconData squareRoundCornerLight = IconifyIconData.solo(
-    IconData(0xe2bd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02bd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-round-corner-thin`
   static const IconifyIconData squareRoundCornerThin = IconifyIconData.solo(
-    IconData(0xe2be, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02be, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-scissors`
   static const IconifyIconData squareScissors = IconifyIconData.solo(
-    IconData(0xe2bf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02bf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-scissors-bold`
   static const IconifyIconData squareScissorsBold = IconifyIconData.solo(
-    IconData(0xe2c0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02c0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-scissors-light`
   static const IconifyIconData squareScissorsLight = IconifyIconData.solo(
-    IconData(0xe2c1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02c1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-scissors-thin`
   static const IconifyIconData squareScissorsThin = IconifyIconData.solo(
-    IconData(0xe2c2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02c2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-sigma`
   static const IconifyIconData squareSigma = IconifyIconData.solo(
-    IconData(0xe2c3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02c3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-sigma-bold`
   static const IconifyIconData squareSigmaBold = IconifyIconData.solo(
-    IconData(0xe2c4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02c4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-sigma-light`
   static const IconifyIconData squareSigmaLight = IconifyIconData.solo(
-    IconData(0xe2c5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02c5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-sigma-thin`
   static const IconifyIconData squareSigmaThin = IconifyIconData.solo(
-    IconData(0xe2c6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02c6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-slash`
   static const IconifyIconData squareSlash = IconifyIconData.solo(
-    IconData(0xe2c7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02c7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-slash-bold`
   static const IconifyIconData squareSlashBold = IconifyIconData.solo(
-    IconData(0xe2c8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02c8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-slash-light`
   static const IconifyIconData squareSlashLight = IconifyIconData.solo(
-    IconData(0xe2c9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02c9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-slash-thin`
   static const IconifyIconData squareSlashThin = IconifyIconData.solo(
-    IconData(0xe2ca, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ca, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-split-horizontal`
   static const IconifyIconData squareSplitHorizontal = IconifyIconData.solo(
-    IconData(0xe2cb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02cb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-split-horizontal-bold`
   static const IconifyIconData squareSplitHorizontalBold = IconifyIconData.solo(
-    IconData(0xe2cc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02cc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-split-horizontal-light`
   static const IconifyIconData squareSplitHorizontalLight = IconifyIconData.solo(
-    IconData(0xe2cd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02cd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-split-horizontal-thin`
   static const IconifyIconData squareSplitHorizontalThin = IconifyIconData.solo(
-    IconData(0xe2ce, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ce, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-split-vertical`
   static const IconifyIconData squareSplitVertical = IconifyIconData.solo(
-    IconData(0xe2cf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02cf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-split-vertical-bold`
   static const IconifyIconData squareSplitVerticalBold = IconifyIconData.solo(
-    IconData(0xe2d0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02d0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-split-vertical-light`
   static const IconifyIconData squareSplitVerticalLight = IconifyIconData.solo(
-    IconData(0xe2d1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02d1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-split-vertical-thin`
   static const IconifyIconData squareSplitVerticalThin = IconifyIconData.solo(
-    IconData(0xe2d2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02d2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-square`
   static const IconifyIconData squareSquare = IconifyIconData.solo(
-    IconData(0xe2d3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02d3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-square-bold`
   static const IconifyIconData squareSquareBold = IconifyIconData.solo(
-    IconData(0xe2d4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02d4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-square-light`
   static const IconifyIconData squareSquareLight = IconifyIconData.solo(
-    IconData(0xe2d5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02d5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-square-thin`
   static const IconifyIconData squareSquareThin = IconifyIconData.solo(
-    IconData(0xe2d6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02d6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-stack`
   static const IconifyIconData squareStack = IconifyIconData.solo(
-    IconData(0xe2d7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02d7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-stack-bold`
   static const IconifyIconData squareStackBold = IconifyIconData.solo(
-    IconData(0xe2d8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02d8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-stack-light`
   static const IconifyIconData squareStackLight = IconifyIconData.solo(
-    IconData(0xe2d9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02d9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-stack-thin`
   static const IconifyIconData squareStackThin = IconifyIconData.solo(
-    IconData(0xe2da, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02da, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-star`
   static const IconifyIconData squareStar = IconifyIconData.solo(
-    IconData(0xe2db, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02db, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-star-bold`
   static const IconifyIconData squareStarBold = IconifyIconData.solo(
-    IconData(0xe2dc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02dc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-star-light`
   static const IconifyIconData squareStarLight = IconifyIconData.solo(
-    IconData(0xe2dd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02dd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-star-thin`
   static const IconifyIconData squareStarThin = IconifyIconData.solo(
-    IconData(0xe2de, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02de, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-stop`
   static const IconifyIconData squareStop = IconifyIconData.solo(
-    IconData(0xe2df, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02df, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-stop-bold`
   static const IconifyIconData squareStopBold = IconifyIconData.solo(
-    IconData(0xe2e0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02e0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-stop-light`
   static const IconifyIconData squareStopLight = IconifyIconData.solo(
-    IconData(0xe2e1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02e1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-stop-thin`
   static const IconifyIconData squareStopThin = IconifyIconData.solo(
-    IconData(0xe2e2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02e2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-terminal`
   static const IconifyIconData squareTerminal = IconifyIconData.solo(
-    IconData(0xe2e3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02e3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-terminal-bold`
   static const IconifyIconData squareTerminalBold = IconifyIconData.solo(
-    IconData(0xe2e4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02e4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-terminal-light`
   static const IconifyIconData squareTerminalLight = IconifyIconData.solo(
-    IconData(0xe2e5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02e5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-terminal-thin`
   static const IconifyIconData squareTerminalThin = IconifyIconData.solo(
-    IconData(0xe2e6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02e6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-thin`
   static const IconifyIconData squareThin = IconifyIconData.solo(
-    IconData(0xe2e7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02e7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-user`
   static const IconifyIconData squareUser = IconifyIconData.solo(
-    IconData(0xe2e8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02e8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-user-bold`
   static const IconifyIconData squareUserBold = IconifyIconData.solo(
-    IconData(0xe2e9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02e9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-user-light`
   static const IconifyIconData squareUserLight = IconifyIconData.solo(
-    IconData(0xe2ea, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ea, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-user-round`
   static const IconifyIconData squareUserRound = IconifyIconData.solo(
-    IconData(0xe2eb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02eb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-user-round-bold`
   static const IconifyIconData squareUserRoundBold = IconifyIconData.solo(
-    IconData(0xe2ec, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ec, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-user-round-light`
   static const IconifyIconData squareUserRoundLight = IconifyIconData.solo(
-    IconData(0xe2ed, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ed, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-user-round-thin`
   static const IconifyIconData squareUserRoundThin = IconifyIconData.solo(
-    IconData(0xe2ee, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ee, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-user-thin`
   static const IconifyIconData squareUserThin = IconifyIconData.solo(
-    IconData(0xe2ef, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ef, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-x`
   static const IconifyIconData squareX = IconifyIconData.solo(
-    IconData(0xe2f0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02f0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-x-bold`
   static const IconifyIconData squareXBold = IconifyIconData.solo(
-    IconData(0xe2f1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02f1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-x-light`
   static const IconifyIconData squareXLight = IconifyIconData.solo(
-    IconData(0xe2f2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02f2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `square-x-thin`
   static const IconifyIconData squareXThin = IconifyIconData.solo(
-    IconData(0xe2f3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02f3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-exclude`
   static const IconifyIconData squaresExclude = IconifyIconData.solo(
-    IconData(0xe2f4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02f4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-exclude-bold`
   static const IconifyIconData squaresExcludeBold = IconifyIconData.solo(
-    IconData(0xe2f5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02f5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-exclude-light`
   static const IconifyIconData squaresExcludeLight = IconifyIconData.solo(
-    IconData(0xe2f6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02f6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-exclude-thin`
   static const IconifyIconData squaresExcludeThin = IconifyIconData.solo(
-    IconData(0xe2f7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02f7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-intersect`
   static const IconifyIconData squaresIntersect = IconifyIconData.solo(
-    IconData(0xe2f8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02f8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-intersect-bold`
   static const IconifyIconData squaresIntersectBold = IconifyIconData.solo(
-    IconData(0xe2f9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02f9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-intersect-light`
   static const IconifyIconData squaresIntersectLight = IconifyIconData.solo(
-    IconData(0xe2fa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02fa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-intersect-thin`
   static const IconifyIconData squaresIntersectThin = IconifyIconData.solo(
-    IconData(0xe2fb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02fb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-subtract`
   static const IconifyIconData squaresSubtract = IconifyIconData.solo(
-    IconData(0xe2fc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02fc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-subtract-bold`
   static const IconifyIconData squaresSubtractBold = IconifyIconData.solo(
-    IconData(0xe2fd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02fd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-subtract-light`
   static const IconifyIconData squaresSubtractLight = IconifyIconData.solo(
-    IconData(0xe2fe, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02fe, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-subtract-thin`
   static const IconifyIconData squaresSubtractThin = IconifyIconData.solo(
-    IconData(0xe2ff, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf02ff, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-unite`
   static const IconifyIconData squaresUnite = IconifyIconData.solo(
-    IconData(0xe300, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0300, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-unite-bold`
   static const IconifyIconData squaresUniteBold = IconifyIconData.solo(
-    IconData(0xe301, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0301, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-unite-light`
   static const IconifyIconData squaresUniteLight = IconifyIconData.solo(
-    IconData(0xe302, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0302, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squares-unite-thin`
   static const IconifyIconData squaresUniteThin = IconifyIconData.solo(
-    IconData(0xe303, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0303, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squircle`
   static const IconifyIconData squircle = IconifyIconData.solo(
-    IconData(0xe304, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0304, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squircle-bold`
   static const IconifyIconData squircleBold = IconifyIconData.solo(
-    IconData(0xe305, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0305, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squircle-dashed`
   static const IconifyIconData squircleDashed = IconifyIconData.solo(
-    IconData(0xe306, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0306, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squircle-dashed-bold`
   static const IconifyIconData squircleDashedBold = IconifyIconData.solo(
-    IconData(0xe307, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0307, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squircle-dashed-light`
   static const IconifyIconData squircleDashedLight = IconifyIconData.solo(
-    IconData(0xe308, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0308, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squircle-dashed-thin`
   static const IconifyIconData squircleDashedThin = IconifyIconData.solo(
-    IconData(0xe309, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0309, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squircle-light`
   static const IconifyIconData squircleLight = IconifyIconData.solo(
-    IconData(0xe30a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf030a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squircle-thin`
   static const IconifyIconData squircleThin = IconifyIconData.solo(
-    IconData(0xe30b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf030b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squirrel`
   static const IconifyIconData squirrel = IconifyIconData.solo(
-    IconData(0xe30c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf030c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squirrel-bold`
   static const IconifyIconData squirrelBold = IconifyIconData.solo(
-    IconData(0xe30d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf030d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squirrel-light`
   static const IconifyIconData squirrelLight = IconifyIconData.solo(
-    IconData(0xe30e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf030e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `squirrel-thin`
   static const IconifyIconData squirrelThin = IconifyIconData.solo(
-    IconData(0xe30f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf030f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stamp`
   static const IconifyIconData stamp = IconifyIconData.solo(
-    IconData(0xe310, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0310, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stamp-bold`
   static const IconifyIconData stampBold = IconifyIconData.solo(
-    IconData(0xe311, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0311, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stamp-light`
   static const IconifyIconData stampLight = IconifyIconData.solo(
-    IconData(0xe312, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0312, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stamp-thin`
   static const IconifyIconData stampThin = IconifyIconData.solo(
-    IconData(0xe313, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0313, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `star`
   static const IconifyIconData star = IconifyIconData.solo(
-    IconData(0xe314, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0314, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `star-bold`
   static const IconifyIconData starBold = IconifyIconData.solo(
-    IconData(0xe315, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0315, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `star-half`
   static const IconifyIconData starHalf = IconifyIconData.solo(
-    IconData(0xe316, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0316, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `star-half-bold`
   static const IconifyIconData starHalfBold = IconifyIconData.solo(
-    IconData(0xe317, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0317, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `star-half-light`
   static const IconifyIconData starHalfLight = IconifyIconData.solo(
-    IconData(0xe318, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0318, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `star-half-thin`
   static const IconifyIconData starHalfThin = IconifyIconData.solo(
-    IconData(0xe319, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0319, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `star-light`
   static const IconifyIconData starLight = IconifyIconData.solo(
-    IconData(0xe31a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf031a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `star-off`
   static const IconifyIconData starOff = IconifyIconData.solo(
-    IconData(0xe31b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf031b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `star-off-bold`
   static const IconifyIconData starOffBold = IconifyIconData.solo(
-    IconData(0xe31c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf031c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `star-off-light`
   static const IconifyIconData starOffLight = IconifyIconData.solo(
-    IconData(0xe31d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf031d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `star-off-thin`
   static const IconifyIconData starOffThin = IconifyIconData.solo(
-    IconData(0xe31e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf031e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `star-thin`
   static const IconifyIconData starThin = IconifyIconData.solo(
-    IconData(0xe31f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf031f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stars`
   static const IconifyIconData stars = IconifyIconData.solo(
-    IconData(0xe320, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0320, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stars-bold`
   static const IconifyIconData starsBold = IconifyIconData.solo(
-    IconData(0xe321, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0321, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stars-light`
   static const IconifyIconData starsLight = IconifyIconData.solo(
-    IconData(0xe322, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0322, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stars-thin`
   static const IconifyIconData starsThin = IconifyIconData.solo(
-    IconData(0xe323, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0323, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `step-back`
   static const IconifyIconData stepBack = IconifyIconData.solo(
-    IconData(0xe324, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0324, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `step-back-bold`
   static const IconifyIconData stepBackBold = IconifyIconData.solo(
-    IconData(0xe325, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0325, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `step-back-light`
   static const IconifyIconData stepBackLight = IconifyIconData.solo(
-    IconData(0xe326, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0326, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `step-back-thin`
   static const IconifyIconData stepBackThin = IconifyIconData.solo(
-    IconData(0xe327, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0327, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `step-forward`
   static const IconifyIconData stepForward = IconifyIconData.solo(
-    IconData(0xe328, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0328, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `step-forward-bold`
   static const IconifyIconData stepForwardBold = IconifyIconData.solo(
-    IconData(0xe329, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0329, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `step-forward-light`
   static const IconifyIconData stepForwardLight = IconifyIconData.solo(
-    IconData(0xe32a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf032a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `step-forward-thin`
   static const IconifyIconData stepForwardThin = IconifyIconData.solo(
-    IconData(0xe32b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf032b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stethoscope`
   static const IconifyIconData stethoscope = IconifyIconData.solo(
-    IconData(0xe32c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf032c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stethoscope-bold`
   static const IconifyIconData stethoscopeBold = IconifyIconData.solo(
-    IconData(0xe32d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf032d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stethoscope-light`
   static const IconifyIconData stethoscopeLight = IconifyIconData.solo(
-    IconData(0xe32e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf032e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stethoscope-thin`
   static const IconifyIconData stethoscopeThin = IconifyIconData.solo(
-    IconData(0xe32f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf032f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sticker`
   static const IconifyIconData sticker = IconifyIconData.solo(
-    IconData(0xe330, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0330, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sticker-bold`
   static const IconifyIconData stickerBold = IconifyIconData.solo(
-    IconData(0xe331, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0331, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sticker-light`
   static const IconifyIconData stickerLight = IconifyIconData.solo(
-    IconData(0xe332, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0332, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sticker-thin`
   static const IconifyIconData stickerThin = IconifyIconData.solo(
-    IconData(0xe333, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0333, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sticky-note`
   static const IconifyIconData stickyNote = IconifyIconData.solo(
-    IconData(0xe334, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0334, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sticky-note-bold`
   static const IconifyIconData stickyNoteBold = IconifyIconData.solo(
-    IconData(0xe335, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0335, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sticky-note-light`
   static const IconifyIconData stickyNoteLight = IconifyIconData.solo(
-    IconData(0xe336, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0336, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sticky-note-thin`
   static const IconifyIconData stickyNoteThin = IconifyIconData.solo(
-    IconData(0xe337, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0337, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stone`
   static const IconifyIconData stone = IconifyIconData.solo(
-    IconData(0xe338, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0338, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stone-bold`
   static const IconifyIconData stoneBold = IconifyIconData.solo(
-    IconData(0xe339, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0339, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stone-light`
   static const IconifyIconData stoneLight = IconifyIconData.solo(
-    IconData(0xe33a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf033a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stone-thin`
   static const IconifyIconData stoneThin = IconifyIconData.solo(
-    IconData(0xe33b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf033b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stop-circle`
   static const IconifyIconData stopCircle = IconifyIconData.solo(
-    IconData(0xe33c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf033c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stop-circle-bold`
   static const IconifyIconData stopCircleBold = IconifyIconData.solo(
-    IconData(0xe33d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf033d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stop-circle-light`
   static const IconifyIconData stopCircleLight = IconifyIconData.solo(
-    IconData(0xe33e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf033e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stop-circle-thin`
   static const IconifyIconData stopCircleThin = IconifyIconData.solo(
-    IconData(0xe33f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf033f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `store`
   static const IconifyIconData store = IconifyIconData.solo(
-    IconData(0xe340, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0340, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `store-bold`
   static const IconifyIconData storeBold = IconifyIconData.solo(
-    IconData(0xe341, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0341, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `store-light`
   static const IconifyIconData storeLight = IconifyIconData.solo(
-    IconData(0xe342, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0342, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `store-thin`
   static const IconifyIconData storeThin = IconifyIconData.solo(
-    IconData(0xe343, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0343, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stretch-horizontal`
   static const IconifyIconData stretchHorizontal = IconifyIconData.solo(
-    IconData(0xe344, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0344, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stretch-horizontal-bold`
   static const IconifyIconData stretchHorizontalBold = IconifyIconData.solo(
-    IconData(0xe345, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0345, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stretch-horizontal-light`
   static const IconifyIconData stretchHorizontalLight = IconifyIconData.solo(
-    IconData(0xe346, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0346, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stretch-horizontal-thin`
   static const IconifyIconData stretchHorizontalThin = IconifyIconData.solo(
-    IconData(0xe347, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0347, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stretch-vertical`
   static const IconifyIconData stretchVertical = IconifyIconData.solo(
-    IconData(0xe348, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0348, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stretch-vertical-bold`
   static const IconifyIconData stretchVerticalBold = IconifyIconData.solo(
-    IconData(0xe349, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0349, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stretch-vertical-light`
   static const IconifyIconData stretchVerticalLight = IconifyIconData.solo(
-    IconData(0xe34a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf034a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `stretch-vertical-thin`
   static const IconifyIconData stretchVerticalThin = IconifyIconData.solo(
-    IconData(0xe34b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf034b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `strikethrough`
   static const IconifyIconData strikethrough = IconifyIconData.solo(
-    IconData(0xe34c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf034c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `strikethrough-bold`
   static const IconifyIconData strikethroughBold = IconifyIconData.solo(
-    IconData(0xe34d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf034d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `strikethrough-light`
   static const IconifyIconData strikethroughLight = IconifyIconData.solo(
-    IconData(0xe34e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf034e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `strikethrough-thin`
   static const IconifyIconData strikethroughThin = IconifyIconData.solo(
-    IconData(0xe34f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf034f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `subscript`
   static const IconifyIconData subscript = IconifyIconData.solo(
-    IconData(0xe350, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0350, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `subscript-bold`
   static const IconifyIconData subscriptBold = IconifyIconData.solo(
-    IconData(0xe351, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0351, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `subscript-light`
   static const IconifyIconData subscriptLight = IconifyIconData.solo(
-    IconData(0xe352, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0352, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `subscript-thin`
   static const IconifyIconData subscriptThin = IconifyIconData.solo(
-    IconData(0xe353, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0353, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `subtitles`
   static const IconifyIconData subtitles = IconifyIconData.solo(
-    IconData(0xe354, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0354, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `subtitles-bold`
   static const IconifyIconData subtitlesBold = IconifyIconData.solo(
-    IconData(0xe355, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0355, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `subtitles-light`
   static const IconifyIconData subtitlesLight = IconifyIconData.solo(
-    IconData(0xe356, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0356, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `subtitles-thin`
   static const IconifyIconData subtitlesThin = IconifyIconData.solo(
-    IconData(0xe357, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0357, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun`
   static const IconifyIconData sun = IconifyIconData.solo(
-    IconData(0xe358, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0358, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-bold`
   static const IconifyIconData sunBold = IconifyIconData.solo(
-    IconData(0xe359, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0359, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-dim`
   static const IconifyIconData sunDim = IconifyIconData.solo(
-    IconData(0xe35a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf035a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-dim-bold`
   static const IconifyIconData sunDimBold = IconifyIconData.solo(
-    IconData(0xe35b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf035b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-dim-light`
   static const IconifyIconData sunDimLight = IconifyIconData.solo(
-    IconData(0xe35c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf035c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-dim-thin`
   static const IconifyIconData sunDimThin = IconifyIconData.solo(
-    IconData(0xe35d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf035d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-light`
   static const IconifyIconData sunLight = IconifyIconData.solo(
-    IconData(0xe35e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf035e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-medium`
   static const IconifyIconData sunMedium = IconifyIconData.solo(
-    IconData(0xe35f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf035f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-medium-bold`
   static const IconifyIconData sunMediumBold = IconifyIconData.solo(
-    IconData(0xe360, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0360, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-medium-light`
   static const IconifyIconData sunMediumLight = IconifyIconData.solo(
-    IconData(0xe361, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0361, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-medium-thin`
   static const IconifyIconData sunMediumThin = IconifyIconData.solo(
-    IconData(0xe362, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0362, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-moon`
   static const IconifyIconData sunMoon = IconifyIconData.solo(
-    IconData(0xe363, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0363, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-moon-bold`
   static const IconifyIconData sunMoonBold = IconifyIconData.solo(
-    IconData(0xe364, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0364, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-moon-light`
   static const IconifyIconData sunMoonLight = IconifyIconData.solo(
-    IconData(0xe365, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0365, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-moon-thin`
   static const IconifyIconData sunMoonThin = IconifyIconData.solo(
-    IconData(0xe366, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0366, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-snow`
   static const IconifyIconData sunSnow = IconifyIconData.solo(
-    IconData(0xe367, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0367, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-snow-bold`
   static const IconifyIconData sunSnowBold = IconifyIconData.solo(
-    IconData(0xe368, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0368, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-snow-light`
   static const IconifyIconData sunSnowLight = IconifyIconData.solo(
-    IconData(0xe369, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0369, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-snow-thin`
   static const IconifyIconData sunSnowThin = IconifyIconData.solo(
-    IconData(0xe36a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf036a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sun-thin`
   static const IconifyIconData sunThin = IconifyIconData.solo(
-    IconData(0xe36b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf036b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sunrise`
   static const IconifyIconData sunrise = IconifyIconData.solo(
-    IconData(0xe36c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf036c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sunrise-bold`
   static const IconifyIconData sunriseBold = IconifyIconData.solo(
-    IconData(0xe36d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf036d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sunrise-light`
   static const IconifyIconData sunriseLight = IconifyIconData.solo(
-    IconData(0xe36e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf036e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sunrise-thin`
   static const IconifyIconData sunriseThin = IconifyIconData.solo(
-    IconData(0xe36f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf036f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sunset`
   static const IconifyIconData sunset = IconifyIconData.solo(
-    IconData(0xe370, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0370, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sunset-bold`
   static const IconifyIconData sunsetBold = IconifyIconData.solo(
-    IconData(0xe371, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0371, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sunset-light`
   static const IconifyIconData sunsetLight = IconifyIconData.solo(
-    IconData(0xe372, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0372, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sunset-thin`
   static const IconifyIconData sunsetThin = IconifyIconData.solo(
-    IconData(0xe373, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0373, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `superscript`
   static const IconifyIconData superscript = IconifyIconData.solo(
-    IconData(0xe374, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0374, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `superscript-bold`
   static const IconifyIconData superscriptBold = IconifyIconData.solo(
-    IconData(0xe375, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0375, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `superscript-light`
   static const IconifyIconData superscriptLight = IconifyIconData.solo(
-    IconData(0xe376, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0376, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `superscript-thin`
   static const IconifyIconData superscriptThin = IconifyIconData.solo(
-    IconData(0xe377, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0377, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `swatch-book`
   static const IconifyIconData swatchBook = IconifyIconData.solo(
-    IconData(0xe378, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0378, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `swatch-book-bold`
   static const IconifyIconData swatchBookBold = IconifyIconData.solo(
-    IconData(0xe379, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0379, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `swatch-book-light`
   static const IconifyIconData swatchBookLight = IconifyIconData.solo(
-    IconData(0xe37a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf037a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `swatch-book-thin`
   static const IconifyIconData swatchBookThin = IconifyIconData.solo(
-    IconData(0xe37b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf037b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `swiss-franc`
   static const IconifyIconData swissFranc = IconifyIconData.solo(
-    IconData(0xe37c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf037c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `swiss-franc-bold`
   static const IconifyIconData swissFrancBold = IconifyIconData.solo(
-    IconData(0xe37d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf037d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `swiss-franc-light`
   static const IconifyIconData swissFrancLight = IconifyIconData.solo(
-    IconData(0xe37e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf037e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `swiss-franc-thin`
   static const IconifyIconData swissFrancThin = IconifyIconData.solo(
-    IconData(0xe37f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf037f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `switch-camera`
   static const IconifyIconData switchCamera = IconifyIconData.solo(
-    IconData(0xe380, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0380, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `switch-camera-bold`
   static const IconifyIconData switchCameraBold = IconifyIconData.solo(
-    IconData(0xe381, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0381, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `switch-camera-light`
   static const IconifyIconData switchCameraLight = IconifyIconData.solo(
-    IconData(0xe382, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0382, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `switch-camera-thin`
   static const IconifyIconData switchCameraThin = IconifyIconData.solo(
-    IconData(0xe383, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0383, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sword`
   static const IconifyIconData sword = IconifyIconData.solo(
-    IconData(0xe384, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0384, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sword-bold`
   static const IconifyIconData swordBold = IconifyIconData.solo(
-    IconData(0xe385, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0385, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sword-light`
   static const IconifyIconData swordLight = IconifyIconData.solo(
-    IconData(0xe386, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0386, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `sword-thin`
   static const IconifyIconData swordThin = IconifyIconData.solo(
-    IconData(0xe387, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0387, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `swords`
   static const IconifyIconData swords = IconifyIconData.solo(
-    IconData(0xe388, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0388, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `swords-bold`
   static const IconifyIconData swordsBold = IconifyIconData.solo(
-    IconData(0xe389, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0389, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `swords-light`
   static const IconifyIconData swordsLight = IconifyIconData.solo(
-    IconData(0xe38a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf038a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `swords-thin`
   static const IconifyIconData swordsThin = IconifyIconData.solo(
-    IconData(0xe38b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf038b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `syringe`
   static const IconifyIconData syringe = IconifyIconData.solo(
-    IconData(0xe38c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf038c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `syringe-bold`
   static const IconifyIconData syringeBold = IconifyIconData.solo(
-    IconData(0xe38d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf038d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `syringe-light`
   static const IconifyIconData syringeLight = IconifyIconData.solo(
-    IconData(0xe38e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf038e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `syringe-thin`
   static const IconifyIconData syringeThin = IconifyIconData.solo(
-    IconData(0xe38f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf038f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table`
   static const IconifyIconData table = IconifyIconData.solo(
-    IconData(0xe390, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0390, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-2`
   static const IconifyIconData table2 = IconifyIconData.solo(
-    IconData(0xe391, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0391, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-2-bold`
   static const IconifyIconData table2Bold = IconifyIconData.solo(
-    IconData(0xe392, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0392, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-2-light`
   static const IconifyIconData table2Light = IconifyIconData.solo(
-    IconData(0xe393, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0393, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-2-thin`
   static const IconifyIconData table2Thin = IconifyIconData.solo(
-    IconData(0xe394, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0394, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-bold`
   static const IconifyIconData tableBold = IconifyIconData.solo(
-    IconData(0xe395, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0395, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-cells-merge`
   static const IconifyIconData tableCellsMerge = IconifyIconData.solo(
-    IconData(0xe396, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0396, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-cells-merge-bold`
   static const IconifyIconData tableCellsMergeBold = IconifyIconData.solo(
-    IconData(0xe397, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0397, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-cells-merge-light`
   static const IconifyIconData tableCellsMergeLight = IconifyIconData.solo(
-    IconData(0xe398, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0398, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-cells-merge-thin`
   static const IconifyIconData tableCellsMergeThin = IconifyIconData.solo(
-    IconData(0xe399, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0399, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-cells-split`
   static const IconifyIconData tableCellsSplit = IconifyIconData.solo(
-    IconData(0xe39a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf039a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-cells-split-bold`
   static const IconifyIconData tableCellsSplitBold = IconifyIconData.solo(
-    IconData(0xe39b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf039b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-cells-split-light`
   static const IconifyIconData tableCellsSplitLight = IconifyIconData.solo(
-    IconData(0xe39c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf039c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-cells-split-thin`
   static const IconifyIconData tableCellsSplitThin = IconifyIconData.solo(
-    IconData(0xe39d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf039d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-columns-split`
   static const IconifyIconData tableColumnsSplit = IconifyIconData.solo(
-    IconData(0xe39e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf039e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-columns-split-bold`
   static const IconifyIconData tableColumnsSplitBold = IconifyIconData.solo(
-    IconData(0xe39f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf039f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-columns-split-light`
   static const IconifyIconData tableColumnsSplitLight = IconifyIconData.solo(
-    IconData(0xe3a0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03a0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-columns-split-thin`
   static const IconifyIconData tableColumnsSplitThin = IconifyIconData.solo(
-    IconData(0xe3a1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03a1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-config`
   static const IconifyIconData tableConfig = IconifyIconData.solo(
-    IconData(0xe3a2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03a2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-config-bold`
   static const IconifyIconData tableConfigBold = IconifyIconData.solo(
-    IconData(0xe3a3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03a3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-config-light`
   static const IconifyIconData tableConfigLight = IconifyIconData.solo(
-    IconData(0xe3a4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03a4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-config-thin`
   static const IconifyIconData tableConfigThin = IconifyIconData.solo(
-    IconData(0xe3a5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03a5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-light`
   static const IconifyIconData tableLight = IconifyIconData.solo(
-    IconData(0xe3a6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03a6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-of-contents`
   static const IconifyIconData tableOfContents = IconifyIconData.solo(
-    IconData(0xe3a7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03a7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-of-contents-bold`
   static const IconifyIconData tableOfContentsBold = IconifyIconData.solo(
-    IconData(0xe3a8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03a8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-of-contents-light`
   static const IconifyIconData tableOfContentsLight = IconifyIconData.solo(
-    IconData(0xe3a9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03a9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-of-contents-thin`
   static const IconifyIconData tableOfContentsThin = IconifyIconData.solo(
-    IconData(0xe3aa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03aa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-properties`
   static const IconifyIconData tableProperties = IconifyIconData.solo(
-    IconData(0xe3ab, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ab, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-properties-bold`
   static const IconifyIconData tablePropertiesBold = IconifyIconData.solo(
-    IconData(0xe3ac, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ac, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-properties-light`
   static const IconifyIconData tablePropertiesLight = IconifyIconData.solo(
-    IconData(0xe3ad, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ad, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-properties-thin`
   static const IconifyIconData tablePropertiesThin = IconifyIconData.solo(
-    IconData(0xe3ae, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ae, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-rows-split`
   static const IconifyIconData tableRowsSplit = IconifyIconData.solo(
-    IconData(0xe3af, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03af, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-rows-split-bold`
   static const IconifyIconData tableRowsSplitBold = IconifyIconData.solo(
-    IconData(0xe3b0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03b0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-rows-split-light`
   static const IconifyIconData tableRowsSplitLight = IconifyIconData.solo(
-    IconData(0xe3b1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03b1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-rows-split-thin`
   static const IconifyIconData tableRowsSplitThin = IconifyIconData.solo(
-    IconData(0xe3b2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03b2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `table-thin`
   static const IconifyIconData tableThin = IconifyIconData.solo(
-    IconData(0xe3b3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03b3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tablet`
   static const IconifyIconData tablet = IconifyIconData.solo(
-    IconData(0xe3b4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03b4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tablet-bold`
   static const IconifyIconData tabletBold = IconifyIconData.solo(
-    IconData(0xe3b5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03b5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tablet-light`
   static const IconifyIconData tabletLight = IconifyIconData.solo(
-    IconData(0xe3b6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03b6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tablet-smartphone`
   static const IconifyIconData tabletSmartphone = IconifyIconData.solo(
-    IconData(0xe3b7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03b7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tablet-smartphone-bold`
   static const IconifyIconData tabletSmartphoneBold = IconifyIconData.solo(
-    IconData(0xe3b8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03b8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tablet-smartphone-light`
   static const IconifyIconData tabletSmartphoneLight = IconifyIconData.solo(
-    IconData(0xe3b9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03b9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tablet-smartphone-thin`
   static const IconifyIconData tabletSmartphoneThin = IconifyIconData.solo(
-    IconData(0xe3ba, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ba, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tablet-thin`
   static const IconifyIconData tabletThin = IconifyIconData.solo(
-    IconData(0xe3bb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03bb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tablets`
   static const IconifyIconData tablets = IconifyIconData.solo(
-    IconData(0xe3bc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03bc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tablets-bold`
   static const IconifyIconData tabletsBold = IconifyIconData.solo(
-    IconData(0xe3bd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03bd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tablets-light`
   static const IconifyIconData tabletsLight = IconifyIconData.solo(
-    IconData(0xe3be, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03be, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tablets-thin`
   static const IconifyIconData tabletsThin = IconifyIconData.solo(
-    IconData(0xe3bf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03bf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tag`
   static const IconifyIconData tag = IconifyIconData.solo(
-    IconData(0xe3c0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03c0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tag-bold`
   static const IconifyIconData tagBold = IconifyIconData.solo(
-    IconData(0xe3c1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03c1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tag-light`
   static const IconifyIconData tagLight = IconifyIconData.solo(
-    IconData(0xe3c2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03c2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tag-thin`
   static const IconifyIconData tagThin = IconifyIconData.solo(
-    IconData(0xe3c3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03c3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tags`
   static const IconifyIconData tags = IconifyIconData.solo(
-    IconData(0xe3c4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03c4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tags-bold`
   static const IconifyIconData tagsBold = IconifyIconData.solo(
-    IconData(0xe3c5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03c5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tags-light`
   static const IconifyIconData tagsLight = IconifyIconData.solo(
-    IconData(0xe3c6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03c6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tags-thin`
   static const IconifyIconData tagsThin = IconifyIconData.solo(
-    IconData(0xe3c7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03c7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-1`
   static const IconifyIconData tally1 = IconifyIconData.solo(
-    IconData(0xe3c8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03c8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-1-bold`
   static const IconifyIconData tally1Bold = IconifyIconData.solo(
-    IconData(0xe3c9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03c9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-1-light`
   static const IconifyIconData tally1Light = IconifyIconData.solo(
-    IconData(0xe3ca, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ca, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-1-thin`
   static const IconifyIconData tally1Thin = IconifyIconData.solo(
-    IconData(0xe3cb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03cb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-2`
   static const IconifyIconData tally2 = IconifyIconData.solo(
-    IconData(0xe3cc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03cc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-2-bold`
   static const IconifyIconData tally2Bold = IconifyIconData.solo(
-    IconData(0xe3cd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03cd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-2-light`
   static const IconifyIconData tally2Light = IconifyIconData.solo(
-    IconData(0xe3ce, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ce, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-2-thin`
   static const IconifyIconData tally2Thin = IconifyIconData.solo(
-    IconData(0xe3cf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03cf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-3`
   static const IconifyIconData tally3 = IconifyIconData.solo(
-    IconData(0xe3d0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03d0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-3-bold`
   static const IconifyIconData tally3Bold = IconifyIconData.solo(
-    IconData(0xe3d1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03d1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-3-light`
   static const IconifyIconData tally3Light = IconifyIconData.solo(
-    IconData(0xe3d2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03d2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-3-thin`
   static const IconifyIconData tally3Thin = IconifyIconData.solo(
-    IconData(0xe3d3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03d3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-4`
   static const IconifyIconData tally4 = IconifyIconData.solo(
-    IconData(0xe3d4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03d4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-4-bold`
   static const IconifyIconData tally4Bold = IconifyIconData.solo(
-    IconData(0xe3d5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03d5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-4-light`
   static const IconifyIconData tally4Light = IconifyIconData.solo(
-    IconData(0xe3d6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03d6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-4-thin`
   static const IconifyIconData tally4Thin = IconifyIconData.solo(
-    IconData(0xe3d7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03d7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-5`
   static const IconifyIconData tally5 = IconifyIconData.solo(
-    IconData(0xe3d8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03d8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-5-bold`
   static const IconifyIconData tally5Bold = IconifyIconData.solo(
-    IconData(0xe3d9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03d9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-5-light`
   static const IconifyIconData tally5Light = IconifyIconData.solo(
-    IconData(0xe3da, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03da, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tally-5-thin`
   static const IconifyIconData tally5Thin = IconifyIconData.solo(
-    IconData(0xe3db, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03db, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tangent`
   static const IconifyIconData tangent = IconifyIconData.solo(
-    IconData(0xe3dc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03dc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tangent-bold`
   static const IconifyIconData tangentBold = IconifyIconData.solo(
-    IconData(0xe3dd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03dd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tangent-light`
   static const IconifyIconData tangentLight = IconifyIconData.solo(
-    IconData(0xe3de, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03de, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tangent-thin`
   static const IconifyIconData tangentThin = IconifyIconData.solo(
-    IconData(0xe3df, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03df, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `target`
   static const IconifyIconData target = IconifyIconData.solo(
-    IconData(0xe3e0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03e0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `target-bold`
   static const IconifyIconData targetBold = IconifyIconData.solo(
-    IconData(0xe3e1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03e1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `target-light`
   static const IconifyIconData targetLight = IconifyIconData.solo(
-    IconData(0xe3e2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03e2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `target-thin`
   static const IconifyIconData targetThin = IconifyIconData.solo(
-    IconData(0xe3e3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03e3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `telescope`
   static const IconifyIconData telescope = IconifyIconData.solo(
-    IconData(0xe3e4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03e4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `telescope-bold`
   static const IconifyIconData telescopeBold = IconifyIconData.solo(
-    IconData(0xe3e5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03e5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `telescope-light`
   static const IconifyIconData telescopeLight = IconifyIconData.solo(
-    IconData(0xe3e6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03e6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `telescope-thin`
   static const IconifyIconData telescopeThin = IconifyIconData.solo(
-    IconData(0xe3e7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03e7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tent`
   static const IconifyIconData tent = IconifyIconData.solo(
-    IconData(0xe3e8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03e8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tent-bold`
   static const IconifyIconData tentBold = IconifyIconData.solo(
-    IconData(0xe3e9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03e9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tent-light`
   static const IconifyIconData tentLight = IconifyIconData.solo(
-    IconData(0xe3ea, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ea, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tent-thin`
   static const IconifyIconData tentThin = IconifyIconData.solo(
-    IconData(0xe3eb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03eb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tent-tree`
   static const IconifyIconData tentTree = IconifyIconData.solo(
-    IconData(0xe3ec, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ec, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tent-tree-bold`
   static const IconifyIconData tentTreeBold = IconifyIconData.solo(
-    IconData(0xe3ed, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ed, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tent-tree-light`
   static const IconifyIconData tentTreeLight = IconifyIconData.solo(
-    IconData(0xe3ee, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ee, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tent-tree-thin`
   static const IconifyIconData tentTreeThin = IconifyIconData.solo(
-    IconData(0xe3ef, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ef, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `terminal`
   static const IconifyIconData terminal = IconifyIconData.solo(
-    IconData(0xe3f0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03f0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `terminal-bold`
   static const IconifyIconData terminalBold = IconifyIconData.solo(
-    IconData(0xe3f1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03f1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `terminal-light`
   static const IconifyIconData terminalLight = IconifyIconData.solo(
-    IconData(0xe3f2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03f2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `terminal-square`
   static const IconifyIconData terminalSquare = IconifyIconData.solo(
-    IconData(0xe3f3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03f3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `terminal-square-bold`
   static const IconifyIconData terminalSquareBold = IconifyIconData.solo(
-    IconData(0xe3f4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03f4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `terminal-square-light`
   static const IconifyIconData terminalSquareLight = IconifyIconData.solo(
-    IconData(0xe3f5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03f5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `terminal-square-thin`
   static const IconifyIconData terminalSquareThin = IconifyIconData.solo(
-    IconData(0xe3f6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03f6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `terminal-thin`
   static const IconifyIconData terminalThin = IconifyIconData.solo(
-    IconData(0xe3f7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03f7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tube`
   static const IconifyIconData testTube = IconifyIconData.solo(
-    IconData(0xe3f8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03f8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tube-2`
   static const IconifyIconData testTube2 = IconifyIconData.solo(
-    IconData(0xe3f9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03f9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tube-2-bold`
   static const IconifyIconData testTube2Bold = IconifyIconData.solo(
-    IconData(0xe3fa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03fa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tube-2-light`
   static const IconifyIconData testTube2Light = IconifyIconData.solo(
-    IconData(0xe3fb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03fb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tube-2-thin`
   static const IconifyIconData testTube2Thin = IconifyIconData.solo(
-    IconData(0xe3fc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03fc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tube-bold`
   static const IconifyIconData testTubeBold = IconifyIconData.solo(
-    IconData(0xe3fd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03fd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tube-diagonal`
   static const IconifyIconData testTubeDiagonal = IconifyIconData.solo(
-    IconData(0xe3fe, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03fe, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tube-diagonal-bold`
   static const IconifyIconData testTubeDiagonalBold = IconifyIconData.solo(
-    IconData(0xe3ff, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf03ff, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tube-diagonal-light`
   static const IconifyIconData testTubeDiagonalLight = IconifyIconData.solo(
-    IconData(0xe400, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0400, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tube-diagonal-thin`
   static const IconifyIconData testTubeDiagonalThin = IconifyIconData.solo(
-    IconData(0xe401, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0401, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tube-light`
   static const IconifyIconData testTubeLight = IconifyIconData.solo(
-    IconData(0xe402, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0402, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tube-thin`
   static const IconifyIconData testTubeThin = IconifyIconData.solo(
-    IconData(0xe403, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0403, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tubes`
   static const IconifyIconData testTubes = IconifyIconData.solo(
-    IconData(0xe404, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0404, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tubes-bold`
   static const IconifyIconData testTubesBold = IconifyIconData.solo(
-    IconData(0xe405, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0405, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tubes-light`
   static const IconifyIconData testTubesLight = IconifyIconData.solo(
-    IconData(0xe406, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0406, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `test-tubes-thin`
   static const IconifyIconData testTubesThin = IconifyIconData.solo(
-    IconData(0xe407, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0407, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text`
   static const IconifyIconData text = IconifyIconData.solo(
-    IconData(0xe408, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0408, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-center`
   static const IconifyIconData textAlignCenter = IconifyIconData.solo(
-    IconData(0xe409, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0409, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-center-bold`
   static const IconifyIconData textAlignCenterBold = IconifyIconData.solo(
-    IconData(0xe40a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf040a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-center-light`
   static const IconifyIconData textAlignCenterLight = IconifyIconData.solo(
-    IconData(0xe40b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf040b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-center-thin`
   static const IconifyIconData textAlignCenterThin = IconifyIconData.solo(
-    IconData(0xe40c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf040c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-end`
   static const IconifyIconData textAlignEnd = IconifyIconData.solo(
-    IconData(0xe40d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf040d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-end-bold`
   static const IconifyIconData textAlignEndBold = IconifyIconData.solo(
-    IconData(0xe40e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf040e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-end-light`
   static const IconifyIconData textAlignEndLight = IconifyIconData.solo(
-    IconData(0xe40f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf040f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-end-thin`
   static const IconifyIconData textAlignEndThin = IconifyIconData.solo(
-    IconData(0xe410, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0410, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-justify`
   static const IconifyIconData textAlignJustify = IconifyIconData.solo(
-    IconData(0xe411, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0411, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-justify-bold`
   static const IconifyIconData textAlignJustifyBold = IconifyIconData.solo(
-    IconData(0xe412, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0412, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-justify-light`
   static const IconifyIconData textAlignJustifyLight = IconifyIconData.solo(
-    IconData(0xe413, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0413, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-justify-thin`
   static const IconifyIconData textAlignJustifyThin = IconifyIconData.solo(
-    IconData(0xe414, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0414, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-start`
   static const IconifyIconData textAlignStart = IconifyIconData.solo(
-    IconData(0xe415, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0415, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-start-bold`
   static const IconifyIconData textAlignStartBold = IconifyIconData.solo(
-    IconData(0xe416, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0416, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-start-light`
   static const IconifyIconData textAlignStartLight = IconifyIconData.solo(
-    IconData(0xe417, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0417, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-align-start-thin`
   static const IconifyIconData textAlignStartThin = IconifyIconData.solo(
-    IconData(0xe418, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0418, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-bold`
   static const IconifyIconData textBold = IconifyIconData.solo(
-    IconData(0xe419, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0419, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-cursor`
   static const IconifyIconData textCursor = IconifyIconData.solo(
-    IconData(0xe41a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf041a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-cursor-bold`
   static const IconifyIconData textCursorBold = IconifyIconData.solo(
-    IconData(0xe41b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf041b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-cursor-input`
   static const IconifyIconData textCursorInput = IconifyIconData.solo(
-    IconData(0xe41c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf041c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-cursor-input-bold`
   static const IconifyIconData textCursorInputBold = IconifyIconData.solo(
-    IconData(0xe41d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf041d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-cursor-input-light`
   static const IconifyIconData textCursorInputLight = IconifyIconData.solo(
-    IconData(0xe41e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf041e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-cursor-input-thin`
   static const IconifyIconData textCursorInputThin = IconifyIconData.solo(
-    IconData(0xe41f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf041f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-cursor-light`
   static const IconifyIconData textCursorLight = IconifyIconData.solo(
-    IconData(0xe420, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0420, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-cursor-thin`
   static const IconifyIconData textCursorThin = IconifyIconData.solo(
-    IconData(0xe421, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0421, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-initial`
   static const IconifyIconData textInitial = IconifyIconData.solo(
-    IconData(0xe422, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0422, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-initial-bold`
   static const IconifyIconData textInitialBold = IconifyIconData.solo(
-    IconData(0xe423, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0423, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-initial-light`
   static const IconifyIconData textInitialLight = IconifyIconData.solo(
-    IconData(0xe424, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0424, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-initial-thin`
   static const IconifyIconData textInitialThin = IconifyIconData.solo(
-    IconData(0xe425, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0425, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-light`
   static const IconifyIconData textLight = IconifyIconData.solo(
-    IconData(0xe426, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0426, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-quote`
   static const IconifyIconData textQuote = IconifyIconData.solo(
-    IconData(0xe427, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0427, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-quote-bold`
   static const IconifyIconData textQuoteBold = IconifyIconData.solo(
-    IconData(0xe428, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0428, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-quote-light`
   static const IconifyIconData textQuoteLight = IconifyIconData.solo(
-    IconData(0xe429, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0429, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-quote-thin`
   static const IconifyIconData textQuoteThin = IconifyIconData.solo(
-    IconData(0xe42a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf042a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-search`
   static const IconifyIconData textSearch = IconifyIconData.solo(
-    IconData(0xe42b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf042b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-search-bold`
   static const IconifyIconData textSearchBold = IconifyIconData.solo(
-    IconData(0xe42c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf042c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-search-light`
   static const IconifyIconData textSearchLight = IconifyIconData.solo(
-    IconData(0xe42d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf042d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-search-thin`
   static const IconifyIconData textSearchThin = IconifyIconData.solo(
-    IconData(0xe42e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf042e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-select`
   static const IconifyIconData textSelect = IconifyIconData.solo(
-    IconData(0xe42f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf042f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-select-bold`
   static const IconifyIconData textSelectBold = IconifyIconData.solo(
-    IconData(0xe430, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0430, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-select-light`
   static const IconifyIconData textSelectLight = IconifyIconData.solo(
-    IconData(0xe431, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0431, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-select-thin`
   static const IconifyIconData textSelectThin = IconifyIconData.solo(
-    IconData(0xe432, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0432, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-selection`
   static const IconifyIconData textSelection = IconifyIconData.solo(
-    IconData(0xe433, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0433, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-selection-bold`
   static const IconifyIconData textSelectionBold = IconifyIconData.solo(
-    IconData(0xe434, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0434, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-selection-light`
   static const IconifyIconData textSelectionLight = IconifyIconData.solo(
-    IconData(0xe435, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0435, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-selection-thin`
   static const IconifyIconData textSelectionThin = IconifyIconData.solo(
-    IconData(0xe436, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0436, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-thin`
   static const IconifyIconData textThin = IconifyIconData.solo(
-    IconData(0xe437, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0437, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-wrap`
   static const IconifyIconData textWrap = IconifyIconData.solo(
-    IconData(0xe438, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0438, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-wrap-bold`
   static const IconifyIconData textWrapBold = IconifyIconData.solo(
-    IconData(0xe439, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0439, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-wrap-light`
   static const IconifyIconData textWrapLight = IconifyIconData.solo(
-    IconData(0xe43a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf043a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `text-wrap-thin`
   static const IconifyIconData textWrapThin = IconifyIconData.solo(
-    IconData(0xe43b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf043b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `theater`
   static const IconifyIconData theater = IconifyIconData.solo(
-    IconData(0xe43c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf043c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `theater-bold`
   static const IconifyIconData theaterBold = IconifyIconData.solo(
-    IconData(0xe43d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf043d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `theater-light`
   static const IconifyIconData theaterLight = IconifyIconData.solo(
-    IconData(0xe43e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf043e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `theater-thin`
   static const IconifyIconData theaterThin = IconifyIconData.solo(
-    IconData(0xe43f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf043f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thermometer`
   static const IconifyIconData thermometer = IconifyIconData.solo(
-    IconData(0xe440, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0440, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thermometer-bold`
   static const IconifyIconData thermometerBold = IconifyIconData.solo(
-    IconData(0xe441, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0441, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thermometer-light`
   static const IconifyIconData thermometerLight = IconifyIconData.solo(
-    IconData(0xe442, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0442, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thermometer-snowflake`
   static const IconifyIconData thermometerSnowflake = IconifyIconData.solo(
-    IconData(0xe443, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0443, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thermometer-snowflake-bold`
   static const IconifyIconData thermometerSnowflakeBold = IconifyIconData.solo(
-    IconData(0xe444, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0444, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thermometer-snowflake-light`
   static const IconifyIconData thermometerSnowflakeLight = IconifyIconData.solo(
-    IconData(0xe445, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0445, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thermometer-snowflake-thin`
   static const IconifyIconData thermometerSnowflakeThin = IconifyIconData.solo(
-    IconData(0xe446, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0446, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thermometer-sun`
   static const IconifyIconData thermometerSun = IconifyIconData.solo(
-    IconData(0xe447, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0447, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thermometer-sun-bold`
   static const IconifyIconData thermometerSunBold = IconifyIconData.solo(
-    IconData(0xe448, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0448, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thermometer-sun-light`
   static const IconifyIconData thermometerSunLight = IconifyIconData.solo(
-    IconData(0xe449, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0449, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thermometer-sun-thin`
   static const IconifyIconData thermometerSunThin = IconifyIconData.solo(
-    IconData(0xe44a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf044a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thermometer-thin`
   static const IconifyIconData thermometerThin = IconifyIconData.solo(
-    IconData(0xe44b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf044b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thumbs-down`
   static const IconifyIconData thumbsDown = IconifyIconData.solo(
-    IconData(0xe44c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf044c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thumbs-down-bold`
   static const IconifyIconData thumbsDownBold = IconifyIconData.solo(
-    IconData(0xe44d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf044d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thumbs-down-light`
   static const IconifyIconData thumbsDownLight = IconifyIconData.solo(
-    IconData(0xe44e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf044e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thumbs-down-thin`
   static const IconifyIconData thumbsDownThin = IconifyIconData.solo(
-    IconData(0xe44f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf044f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thumbs-up`
   static const IconifyIconData thumbsUp = IconifyIconData.solo(
-    IconData(0xe450, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0450, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thumbs-up-bold`
   static const IconifyIconData thumbsUpBold = IconifyIconData.solo(
-    IconData(0xe451, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0451, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thumbs-up-light`
   static const IconifyIconData thumbsUpLight = IconifyIconData.solo(
-    IconData(0xe452, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0452, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `thumbs-up-thin`
   static const IconifyIconData thumbsUpThin = IconifyIconData.solo(
-    IconData(0xe453, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0453, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket`
   static const IconifyIconData ticket = IconifyIconData.solo(
-    IconData(0xe454, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0454, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-bold`
   static const IconifyIconData ticketBold = IconifyIconData.solo(
-    IconData(0xe455, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0455, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-check`
   static const IconifyIconData ticketCheck = IconifyIconData.solo(
-    IconData(0xe456, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0456, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-check-bold`
   static const IconifyIconData ticketCheckBold = IconifyIconData.solo(
-    IconData(0xe457, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0457, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-check-light`
   static const IconifyIconData ticketCheckLight = IconifyIconData.solo(
-    IconData(0xe458, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0458, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-check-thin`
   static const IconifyIconData ticketCheckThin = IconifyIconData.solo(
-    IconData(0xe459, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0459, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-light`
   static const IconifyIconData ticketLight = IconifyIconData.solo(
-    IconData(0xe45a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf045a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-minus`
   static const IconifyIconData ticketMinus = IconifyIconData.solo(
-    IconData(0xe45b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf045b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-minus-bold`
   static const IconifyIconData ticketMinusBold = IconifyIconData.solo(
-    IconData(0xe45c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf045c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-minus-light`
   static const IconifyIconData ticketMinusLight = IconifyIconData.solo(
-    IconData(0xe45d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf045d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-minus-thin`
   static const IconifyIconData ticketMinusThin = IconifyIconData.solo(
-    IconData(0xe45e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf045e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-percent`
   static const IconifyIconData ticketPercent = IconifyIconData.solo(
-    IconData(0xe45f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf045f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-percent-bold`
   static const IconifyIconData ticketPercentBold = IconifyIconData.solo(
-    IconData(0xe460, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0460, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-percent-light`
   static const IconifyIconData ticketPercentLight = IconifyIconData.solo(
-    IconData(0xe461, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0461, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-percent-thin`
   static const IconifyIconData ticketPercentThin = IconifyIconData.solo(
-    IconData(0xe462, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0462, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-plus`
   static const IconifyIconData ticketPlus = IconifyIconData.solo(
-    IconData(0xe463, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0463, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-plus-bold`
   static const IconifyIconData ticketPlusBold = IconifyIconData.solo(
-    IconData(0xe464, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0464, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-plus-light`
   static const IconifyIconData ticketPlusLight = IconifyIconData.solo(
-    IconData(0xe465, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0465, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-plus-thin`
   static const IconifyIconData ticketPlusThin = IconifyIconData.solo(
-    IconData(0xe466, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0466, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-slash`
   static const IconifyIconData ticketSlash = IconifyIconData.solo(
-    IconData(0xe467, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0467, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-slash-bold`
   static const IconifyIconData ticketSlashBold = IconifyIconData.solo(
-    IconData(0xe468, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0468, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-slash-light`
   static const IconifyIconData ticketSlashLight = IconifyIconData.solo(
-    IconData(0xe469, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0469, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-slash-thin`
   static const IconifyIconData ticketSlashThin = IconifyIconData.solo(
-    IconData(0xe46a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf046a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-thin`
   static const IconifyIconData ticketThin = IconifyIconData.solo(
-    IconData(0xe46b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf046b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-x`
   static const IconifyIconData ticketX = IconifyIconData.solo(
-    IconData(0xe46c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf046c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-x-bold`
   static const IconifyIconData ticketXBold = IconifyIconData.solo(
-    IconData(0xe46d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf046d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-x-light`
   static const IconifyIconData ticketXLight = IconifyIconData.solo(
-    IconData(0xe46e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf046e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ticket-x-thin`
   static const IconifyIconData ticketXThin = IconifyIconData.solo(
-    IconData(0xe46f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf046f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tickets`
   static const IconifyIconData tickets = IconifyIconData.solo(
-    IconData(0xe470, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0470, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tickets-bold`
   static const IconifyIconData ticketsBold = IconifyIconData.solo(
-    IconData(0xe471, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0471, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tickets-light`
   static const IconifyIconData ticketsLight = IconifyIconData.solo(
-    IconData(0xe472, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0472, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tickets-plane`
   static const IconifyIconData ticketsPlane = IconifyIconData.solo(
-    IconData(0xe473, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0473, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tickets-plane-bold`
   static const IconifyIconData ticketsPlaneBold = IconifyIconData.solo(
-    IconData(0xe474, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0474, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tickets-plane-light`
   static const IconifyIconData ticketsPlaneLight = IconifyIconData.solo(
-    IconData(0xe475, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0475, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tickets-plane-thin`
   static const IconifyIconData ticketsPlaneThin = IconifyIconData.solo(
-    IconData(0xe476, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0476, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tickets-thin`
   static const IconifyIconData ticketsThin = IconifyIconData.solo(
-    IconData(0xe477, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0477, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timeline`
   static const IconifyIconData timeline = IconifyIconData.solo(
-    IconData(0xe478, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0478, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timeline-bold`
   static const IconifyIconData timelineBold = IconifyIconData.solo(
-    IconData(0xe479, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0479, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timeline-light`
   static const IconifyIconData timelineLight = IconifyIconData.solo(
-    IconData(0xe47a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf047a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timeline-thin`
   static const IconifyIconData timelineThin = IconifyIconData.solo(
-    IconData(0xe47b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf047b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timer`
   static const IconifyIconData timer = IconifyIconData.solo(
-    IconData(0xe47c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf047c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timer-bold`
   static const IconifyIconData timerBold = IconifyIconData.solo(
-    IconData(0xe47d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf047d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timer-light`
   static const IconifyIconData timerLight = IconifyIconData.solo(
-    IconData(0xe47e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf047e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timer-off`
   static const IconifyIconData timerOff = IconifyIconData.solo(
-    IconData(0xe47f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf047f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timer-off-bold`
   static const IconifyIconData timerOffBold = IconifyIconData.solo(
-    IconData(0xe480, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0480, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timer-off-light`
   static const IconifyIconData timerOffLight = IconifyIconData.solo(
-    IconData(0xe481, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0481, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timer-off-thin`
   static const IconifyIconData timerOffThin = IconifyIconData.solo(
-    IconData(0xe482, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0482, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timer-reset`
   static const IconifyIconData timerReset = IconifyIconData.solo(
-    IconData(0xe483, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0483, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timer-reset-bold`
   static const IconifyIconData timerResetBold = IconifyIconData.solo(
-    IconData(0xe484, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0484, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timer-reset-light`
   static const IconifyIconData timerResetLight = IconifyIconData.solo(
-    IconData(0xe485, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0485, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timer-reset-thin`
   static const IconifyIconData timerResetThin = IconifyIconData.solo(
-    IconData(0xe486, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0486, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `timer-thin`
   static const IconifyIconData timerThin = IconifyIconData.solo(
-    IconData(0xe487, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0487, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toggle-left`
   static const IconifyIconData toggleLeft = IconifyIconData.solo(
-    IconData(0xe488, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0488, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toggle-left-bold`
   static const IconifyIconData toggleLeftBold = IconifyIconData.solo(
-    IconData(0xe489, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0489, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toggle-left-light`
   static const IconifyIconData toggleLeftLight = IconifyIconData.solo(
-    IconData(0xe48a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf048a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toggle-left-thin`
   static const IconifyIconData toggleLeftThin = IconifyIconData.solo(
-    IconData(0xe48b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf048b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toggle-right`
   static const IconifyIconData toggleRight = IconifyIconData.solo(
-    IconData(0xe48c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf048c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toggle-right-bold`
   static const IconifyIconData toggleRightBold = IconifyIconData.solo(
-    IconData(0xe48d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf048d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toggle-right-light`
   static const IconifyIconData toggleRightLight = IconifyIconData.solo(
-    IconData(0xe48e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf048e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toggle-right-thin`
   static const IconifyIconData toggleRightThin = IconifyIconData.solo(
-    IconData(0xe48f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf048f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toilet`
   static const IconifyIconData toilet = IconifyIconData.solo(
-    IconData(0xe490, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0490, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toilet-bold`
   static const IconifyIconData toiletBold = IconifyIconData.solo(
-    IconData(0xe491, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0491, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toilet-light`
   static const IconifyIconData toiletLight = IconifyIconData.solo(
-    IconData(0xe492, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0492, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toilet-thin`
   static const IconifyIconData toiletThin = IconifyIconData.solo(
-    IconData(0xe493, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0493, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tool-case`
   static const IconifyIconData toolCase = IconifyIconData.solo(
-    IconData(0xe494, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0494, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tool-case-bold`
   static const IconifyIconData toolCaseBold = IconifyIconData.solo(
-    IconData(0xe495, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0495, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tool-case-light`
   static const IconifyIconData toolCaseLight = IconifyIconData.solo(
-    IconData(0xe496, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0496, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tool-case-thin`
   static const IconifyIconData toolCaseThin = IconifyIconData.solo(
-    IconData(0xe497, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0497, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toolbox`
   static const IconifyIconData toolbox = IconifyIconData.solo(
-    IconData(0xe498, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0498, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toolbox-bold`
   static const IconifyIconData toolboxBold = IconifyIconData.solo(
-    IconData(0xe499, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0499, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toolbox-light`
   static const IconifyIconData toolboxLight = IconifyIconData.solo(
-    IconData(0xe49a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf049a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toolbox-thin`
   static const IconifyIconData toolboxThin = IconifyIconData.solo(
-    IconData(0xe49b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf049b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tornado`
   static const IconifyIconData tornado = IconifyIconData.solo(
-    IconData(0xe49c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf049c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tornado-bold`
   static const IconifyIconData tornadoBold = IconifyIconData.solo(
-    IconData(0xe49d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf049d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tornado-light`
   static const IconifyIconData tornadoLight = IconifyIconData.solo(
-    IconData(0xe49e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf049e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tornado-thin`
   static const IconifyIconData tornadoThin = IconifyIconData.solo(
-    IconData(0xe49f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf049f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `torus`
   static const IconifyIconData torus = IconifyIconData.solo(
-    IconData(0xe4a0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04a0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `torus-bold`
   static const IconifyIconData torusBold = IconifyIconData.solo(
-    IconData(0xe4a1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04a1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `torus-light`
   static const IconifyIconData torusLight = IconifyIconData.solo(
-    IconData(0xe4a2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04a2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `torus-thin`
   static const IconifyIconData torusThin = IconifyIconData.solo(
-    IconData(0xe4a3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04a3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `touchpad`
   static const IconifyIconData touchpad = IconifyIconData.solo(
-    IconData(0xe4a4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04a4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `touchpad-bold`
   static const IconifyIconData touchpadBold = IconifyIconData.solo(
-    IconData(0xe4a5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04a5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `touchpad-light`
   static const IconifyIconData touchpadLight = IconifyIconData.solo(
-    IconData(0xe4a6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04a6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `touchpad-off`
   static const IconifyIconData touchpadOff = IconifyIconData.solo(
-    IconData(0xe4a7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04a7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `touchpad-off-bold`
   static const IconifyIconData touchpadOffBold = IconifyIconData.solo(
-    IconData(0xe4a8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04a8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `touchpad-off-light`
   static const IconifyIconData touchpadOffLight = IconifyIconData.solo(
-    IconData(0xe4a9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04a9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `touchpad-off-thin`
   static const IconifyIconData touchpadOffThin = IconifyIconData.solo(
-    IconData(0xe4aa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04aa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `touchpad-thin`
   static const IconifyIconData touchpadThin = IconifyIconData.solo(
-    IconData(0xe4ab, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ab, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `towel-rack`
   static const IconifyIconData towelRack = IconifyIconData.solo(
-    IconData(0xe4ac, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ac, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `towel-rack-bold`
   static const IconifyIconData towelRackBold = IconifyIconData.solo(
-    IconData(0xe4ad, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ad, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `towel-rack-light`
   static const IconifyIconData towelRackLight = IconifyIconData.solo(
-    IconData(0xe4ae, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ae, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `towel-rack-thin`
   static const IconifyIconData towelRackThin = IconifyIconData.solo(
-    IconData(0xe4af, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04af, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tower-control`
   static const IconifyIconData towerControl = IconifyIconData.solo(
-    IconData(0xe4b0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04b0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tower-control-bold`
   static const IconifyIconData towerControlBold = IconifyIconData.solo(
-    IconData(0xe4b1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04b1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tower-control-light`
   static const IconifyIconData towerControlLight = IconifyIconData.solo(
-    IconData(0xe4b2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04b2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tower-control-thin`
   static const IconifyIconData towerControlThin = IconifyIconData.solo(
-    IconData(0xe4b3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04b3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toy-brick`
   static const IconifyIconData toyBrick = IconifyIconData.solo(
-    IconData(0xe4b4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04b4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toy-brick-bold`
   static const IconifyIconData toyBrickBold = IconifyIconData.solo(
-    IconData(0xe4b5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04b5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toy-brick-light`
   static const IconifyIconData toyBrickLight = IconifyIconData.solo(
-    IconData(0xe4b6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04b6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `toy-brick-thin`
   static const IconifyIconData toyBrickThin = IconifyIconData.solo(
-    IconData(0xe4b7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04b7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tractor`
   static const IconifyIconData tractor = IconifyIconData.solo(
-    IconData(0xe4b8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04b8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tractor-bold`
   static const IconifyIconData tractorBold = IconifyIconData.solo(
-    IconData(0xe4b9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04b9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tractor-light`
   static const IconifyIconData tractorLight = IconifyIconData.solo(
-    IconData(0xe4ba, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ba, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tractor-thin`
   static const IconifyIconData tractorThin = IconifyIconData.solo(
-    IconData(0xe4bb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04bb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `traffic-cone`
   static const IconifyIconData trafficCone = IconifyIconData.solo(
-    IconData(0xe4bc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04bc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `traffic-cone-bold`
   static const IconifyIconData trafficConeBold = IconifyIconData.solo(
-    IconData(0xe4bd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04bd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `traffic-cone-light`
   static const IconifyIconData trafficConeLight = IconifyIconData.solo(
-    IconData(0xe4be, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04be, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `traffic-cone-thin`
   static const IconifyIconData trafficConeThin = IconifyIconData.solo(
-    IconData(0xe4bf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04bf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train`
   static const IconifyIconData train = IconifyIconData.solo(
-    IconData(0xe4c0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04c0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-bold`
   static const IconifyIconData trainBold = IconifyIconData.solo(
-    IconData(0xe4c1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04c1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-front`
   static const IconifyIconData trainFront = IconifyIconData.solo(
-    IconData(0xe4c2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04c2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-front-bold`
   static const IconifyIconData trainFrontBold = IconifyIconData.solo(
-    IconData(0xe4c3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04c3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-front-light`
   static const IconifyIconData trainFrontLight = IconifyIconData.solo(
-    IconData(0xe4c4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04c4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-front-thin`
   static const IconifyIconData trainFrontThin = IconifyIconData.solo(
-    IconData(0xe4c5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04c5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-front-tunnel`
   static const IconifyIconData trainFrontTunnel = IconifyIconData.solo(
-    IconData(0xe4c6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04c6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-front-tunnel-bold`
   static const IconifyIconData trainFrontTunnelBold = IconifyIconData.solo(
-    IconData(0xe4c7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04c7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-front-tunnel-light`
   static const IconifyIconData trainFrontTunnelLight = IconifyIconData.solo(
-    IconData(0xe4c8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04c8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-front-tunnel-thin`
   static const IconifyIconData trainFrontTunnelThin = IconifyIconData.solo(
-    IconData(0xe4c9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04c9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-light`
   static const IconifyIconData trainLight = IconifyIconData.solo(
-    IconData(0xe4ca, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ca, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-thin`
   static const IconifyIconData trainThin = IconifyIconData.solo(
-    IconData(0xe4cb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04cb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-track`
   static const IconifyIconData trainTrack = IconifyIconData.solo(
-    IconData(0xe4cc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04cc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-track-bold`
   static const IconifyIconData trainTrackBold = IconifyIconData.solo(
-    IconData(0xe4cd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04cd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-track-light`
   static const IconifyIconData trainTrackLight = IconifyIconData.solo(
-    IconData(0xe4ce, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ce, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `train-track-thin`
   static const IconifyIconData trainTrackThin = IconifyIconData.solo(
-    IconData(0xe4cf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04cf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tram-front`
   static const IconifyIconData tramFront = IconifyIconData.solo(
-    IconData(0xe4d0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04d0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tram-front-bold`
   static const IconifyIconData tramFrontBold = IconifyIconData.solo(
-    IconData(0xe4d1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04d1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tram-front-light`
   static const IconifyIconData tramFrontLight = IconifyIconData.solo(
-    IconData(0xe4d2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04d2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tram-front-thin`
   static const IconifyIconData tramFrontThin = IconifyIconData.solo(
-    IconData(0xe4d3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04d3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `transgender`
   static const IconifyIconData transgender = IconifyIconData.solo(
-    IconData(0xe4d4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04d4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `transgender-bold`
   static const IconifyIconData transgenderBold = IconifyIconData.solo(
-    IconData(0xe4d5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04d5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `transgender-light`
   static const IconifyIconData transgenderLight = IconifyIconData.solo(
-    IconData(0xe4d6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04d6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `transgender-thin`
   static const IconifyIconData transgenderThin = IconifyIconData.solo(
-    IconData(0xe4d7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04d7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trash`
   static const IconifyIconData trash = IconifyIconData.solo(
-    IconData(0xe4d8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04d8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trash-2`
   static const IconifyIconData trash2 = IconifyIconData.solo(
-    IconData(0xe4d9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04d9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trash-2-bold`
   static const IconifyIconData trash2Bold = IconifyIconData.solo(
-    IconData(0xe4da, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04da, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trash-2-light`
   static const IconifyIconData trash2Light = IconifyIconData.solo(
-    IconData(0xe4db, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04db, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trash-2-thin`
   static const IconifyIconData trash2Thin = IconifyIconData.solo(
-    IconData(0xe4dc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04dc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trash-bold`
   static const IconifyIconData trashBold = IconifyIconData.solo(
-    IconData(0xe4dd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04dd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trash-light`
   static const IconifyIconData trashLight = IconifyIconData.solo(
-    IconData(0xe4de, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04de, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trash-thin`
   static const IconifyIconData trashThin = IconifyIconData.solo(
-    IconData(0xe4df, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04df, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tree-deciduous`
   static const IconifyIconData treeDeciduous = IconifyIconData.solo(
-    IconData(0xe4e0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04e0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tree-deciduous-bold`
   static const IconifyIconData treeDeciduousBold = IconifyIconData.solo(
-    IconData(0xe4e1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04e1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tree-deciduous-light`
   static const IconifyIconData treeDeciduousLight = IconifyIconData.solo(
-    IconData(0xe4e2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04e2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tree-deciduous-thin`
   static const IconifyIconData treeDeciduousThin = IconifyIconData.solo(
-    IconData(0xe4e3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04e3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tree-palm`
   static const IconifyIconData treePalm = IconifyIconData.solo(
-    IconData(0xe4e4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04e4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tree-palm-bold`
   static const IconifyIconData treePalmBold = IconifyIconData.solo(
-    IconData(0xe4e5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04e5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tree-palm-light`
   static const IconifyIconData treePalmLight = IconifyIconData.solo(
-    IconData(0xe4e6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04e6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tree-palm-thin`
   static const IconifyIconData treePalmThin = IconifyIconData.solo(
-    IconData(0xe4e7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04e7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tree-pine`
   static const IconifyIconData treePine = IconifyIconData.solo(
-    IconData(0xe4e8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04e8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tree-pine-bold`
   static const IconifyIconData treePineBold = IconifyIconData.solo(
-    IconData(0xe4e9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04e9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tree-pine-light`
   static const IconifyIconData treePineLight = IconifyIconData.solo(
-    IconData(0xe4ea, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ea, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tree-pine-thin`
   static const IconifyIconData treePineThin = IconifyIconData.solo(
-    IconData(0xe4eb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04eb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trees`
   static const IconifyIconData trees = IconifyIconData.solo(
-    IconData(0xe4ec, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ec, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trees-bold`
   static const IconifyIconData treesBold = IconifyIconData.solo(
-    IconData(0xe4ed, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ed, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trees-light`
   static const IconifyIconData treesLight = IconifyIconData.solo(
-    IconData(0xe4ee, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ee, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trees-thin`
   static const IconifyIconData treesThin = IconifyIconData.solo(
-    IconData(0xe4ef, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ef, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trello`
   static const IconifyIconData trello = IconifyIconData.solo(
-    IconData(0xe4f0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04f0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trello-bold`
   static const IconifyIconData trelloBold = IconifyIconData.solo(
-    IconData(0xe4f1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04f1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trello-light`
   static const IconifyIconData trelloLight = IconifyIconData.solo(
-    IconData(0xe4f2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04f2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trello-thin`
   static const IconifyIconData trelloThin = IconifyIconData.solo(
-    IconData(0xe4f3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04f3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trending-down`
   static const IconifyIconData trendingDown = IconifyIconData.solo(
-    IconData(0xe4f4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04f4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trending-down-bold`
   static const IconifyIconData trendingDownBold = IconifyIconData.solo(
-    IconData(0xe4f5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04f5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trending-down-light`
   static const IconifyIconData trendingDownLight = IconifyIconData.solo(
-    IconData(0xe4f6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04f6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trending-down-thin`
   static const IconifyIconData trendingDownThin = IconifyIconData.solo(
-    IconData(0xe4f7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04f7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trending-up`
   static const IconifyIconData trendingUp = IconifyIconData.solo(
-    IconData(0xe4f8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04f8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trending-up-bold`
   static const IconifyIconData trendingUpBold = IconifyIconData.solo(
-    IconData(0xe4f9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04f9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trending-up-down`
   static const IconifyIconData trendingUpDown = IconifyIconData.solo(
-    IconData(0xe4fa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04fa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trending-up-down-bold`
   static const IconifyIconData trendingUpDownBold = IconifyIconData.solo(
-    IconData(0xe4fb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04fb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trending-up-down-light`
   static const IconifyIconData trendingUpDownLight = IconifyIconData.solo(
-    IconData(0xe4fc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04fc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trending-up-down-thin`
   static const IconifyIconData trendingUpDownThin = IconifyIconData.solo(
-    IconData(0xe4fd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04fd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trending-up-light`
   static const IconifyIconData trendingUpLight = IconifyIconData.solo(
-    IconData(0xe4fe, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04fe, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trending-up-thin`
   static const IconifyIconData trendingUpThin = IconifyIconData.solo(
-    IconData(0xe4ff, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf04ff, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle`
   static const IconifyIconData triangle = IconifyIconData.solo(
-    IconData(0xe500, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0500, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-alert`
   static const IconifyIconData triangleAlert = IconifyIconData.solo(
-    IconData(0xe501, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0501, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-alert-bold`
   static const IconifyIconData triangleAlertBold = IconifyIconData.solo(
-    IconData(0xe502, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0502, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-alert-light`
   static const IconifyIconData triangleAlertLight = IconifyIconData.solo(
-    IconData(0xe503, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0503, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-alert-thin`
   static const IconifyIconData triangleAlertThin = IconifyIconData.solo(
-    IconData(0xe504, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0504, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-bold`
   static const IconifyIconData triangleBold = IconifyIconData.solo(
-    IconData(0xe505, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0505, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-dashed`
   static const IconifyIconData triangleDashed = IconifyIconData.solo(
-    IconData(0xe506, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0506, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-dashed-bold`
   static const IconifyIconData triangleDashedBold = IconifyIconData.solo(
-    IconData(0xe507, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0507, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-dashed-light`
   static const IconifyIconData triangleDashedLight = IconifyIconData.solo(
-    IconData(0xe508, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0508, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-dashed-thin`
   static const IconifyIconData triangleDashedThin = IconifyIconData.solo(
-    IconData(0xe509, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0509, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-light`
   static const IconifyIconData triangleLight = IconifyIconData.solo(
-    IconData(0xe50a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf050a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-right`
   static const IconifyIconData triangleRight = IconifyIconData.solo(
-    IconData(0xe50b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf050b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-right-bold`
   static const IconifyIconData triangleRightBold = IconifyIconData.solo(
-    IconData(0xe50c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf050c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-right-light`
   static const IconifyIconData triangleRightLight = IconifyIconData.solo(
-    IconData(0xe50d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf050d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-right-thin`
   static const IconifyIconData triangleRightThin = IconifyIconData.solo(
-    IconData(0xe50e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf050e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `triangle-thin`
   static const IconifyIconData triangleThin = IconifyIconData.solo(
-    IconData(0xe50f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf050f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trophy`
   static const IconifyIconData trophy = IconifyIconData.solo(
-    IconData(0xe510, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0510, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trophy-bold`
   static const IconifyIconData trophyBold = IconifyIconData.solo(
-    IconData(0xe511, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0511, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trophy-light`
   static const IconifyIconData trophyLight = IconifyIconData.solo(
-    IconData(0xe512, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0512, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `trophy-thin`
   static const IconifyIconData trophyThin = IconifyIconData.solo(
-    IconData(0xe513, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0513, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `truck`
   static const IconifyIconData truck = IconifyIconData.solo(
-    IconData(0xe514, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0514, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `truck-bold`
   static const IconifyIconData truckBold = IconifyIconData.solo(
-    IconData(0xe515, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0515, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `truck-electric`
   static const IconifyIconData truckElectric = IconifyIconData.solo(
-    IconData(0xe516, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0516, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `truck-electric-bold`
   static const IconifyIconData truckElectricBold = IconifyIconData.solo(
-    IconData(0xe517, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0517, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `truck-electric-light`
   static const IconifyIconData truckElectricLight = IconifyIconData.solo(
-    IconData(0xe518, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0518, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `truck-electric-thin`
   static const IconifyIconData truckElectricThin = IconifyIconData.solo(
-    IconData(0xe519, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0519, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `truck-light`
   static const IconifyIconData truckLight = IconifyIconData.solo(
-    IconData(0xe51a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf051a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `truck-thin`
   static const IconifyIconData truckThin = IconifyIconData.solo(
-    IconData(0xe51b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf051b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `turkish-lira`
   static const IconifyIconData turkishLira = IconifyIconData.solo(
-    IconData(0xe51c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf051c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `turkish-lira-bold`
   static const IconifyIconData turkishLiraBold = IconifyIconData.solo(
-    IconData(0xe51d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf051d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `turkish-lira-light`
   static const IconifyIconData turkishLiraLight = IconifyIconData.solo(
-    IconData(0xe51e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf051e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `turkish-lira-thin`
   static const IconifyIconData turkishLiraThin = IconifyIconData.solo(
-    IconData(0xe51f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf051f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `turntable`
   static const IconifyIconData turntable = IconifyIconData.solo(
-    IconData(0xe520, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0520, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `turntable-bold`
   static const IconifyIconData turntableBold = IconifyIconData.solo(
-    IconData(0xe521, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0521, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `turntable-light`
   static const IconifyIconData turntableLight = IconifyIconData.solo(
-    IconData(0xe522, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0522, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `turntable-thin`
   static const IconifyIconData turntableThin = IconifyIconData.solo(
-    IconData(0xe523, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0523, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `turtle`
   static const IconifyIconData turtle = IconifyIconData.solo(
-    IconData(0xe524, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0524, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `turtle-bold`
   static const IconifyIconData turtleBold = IconifyIconData.solo(
-    IconData(0xe525, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0525, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `turtle-light`
   static const IconifyIconData turtleLight = IconifyIconData.solo(
-    IconData(0xe526, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0526, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `turtle-thin`
   static const IconifyIconData turtleThin = IconifyIconData.solo(
-    IconData(0xe527, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0527, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv`
   static const IconifyIconData tv = IconifyIconData.solo(
-    IconData(0xe528, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0528, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-2`
   static const IconifyIconData tv2 = IconifyIconData.solo(
-    IconData(0xe529, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0529, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-2-bold`
   static const IconifyIconData tv2Bold = IconifyIconData.solo(
-    IconData(0xe52a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf052a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-2-light`
   static const IconifyIconData tv2Light = IconifyIconData.solo(
-    IconData(0xe52b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf052b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-2-thin`
   static const IconifyIconData tv2Thin = IconifyIconData.solo(
-    IconData(0xe52c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf052c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-bold`
   static const IconifyIconData tvBold = IconifyIconData.solo(
-    IconData(0xe52d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf052d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-light`
   static const IconifyIconData tvLight = IconifyIconData.solo(
-    IconData(0xe52e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf052e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-minimal`
   static const IconifyIconData tvMinimal = IconifyIconData.solo(
-    IconData(0xe52f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf052f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-minimal-bold`
   static const IconifyIconData tvMinimalBold = IconifyIconData.solo(
-    IconData(0xe530, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0530, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-minimal-light`
   static const IconifyIconData tvMinimalLight = IconifyIconData.solo(
-    IconData(0xe531, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0531, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-minimal-play`
   static const IconifyIconData tvMinimalPlay = IconifyIconData.solo(
-    IconData(0xe532, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0532, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-minimal-play-bold`
   static const IconifyIconData tvMinimalPlayBold = IconifyIconData.solo(
-    IconData(0xe533, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0533, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-minimal-play-light`
   static const IconifyIconData tvMinimalPlayLight = IconifyIconData.solo(
-    IconData(0xe534, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0534, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-minimal-play-thin`
   static const IconifyIconData tvMinimalPlayThin = IconifyIconData.solo(
-    IconData(0xe535, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0535, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-minimal-thin`
   static const IconifyIconData tvMinimalThin = IconifyIconData.solo(
-    IconData(0xe536, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0536, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `tv-thin`
   static const IconifyIconData tvThin = IconifyIconData.solo(
-    IconData(0xe537, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0537, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `twitch`
   static const IconifyIconData twitch = IconifyIconData.solo(
-    IconData(0xe538, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0538, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `twitch-bold`
   static const IconifyIconData twitchBold = IconifyIconData.solo(
-    IconData(0xe539, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0539, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `twitch-light`
   static const IconifyIconData twitchLight = IconifyIconData.solo(
-    IconData(0xe53a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf053a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `twitch-thin`
   static const IconifyIconData twitchThin = IconifyIconData.solo(
-    IconData(0xe53b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf053b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `twitter`
   static const IconifyIconData twitter = IconifyIconData.solo(
-    IconData(0xe53c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf053c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `twitter-bold`
   static const IconifyIconData twitterBold = IconifyIconData.solo(
-    IconData(0xe53d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf053d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `twitter-light`
   static const IconifyIconData twitterLight = IconifyIconData.solo(
-    IconData(0xe53e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf053e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `twitter-thin`
   static const IconifyIconData twitterThin = IconifyIconData.solo(
-    IconData(0xe53f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf053f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `type`
   static const IconifyIconData type = IconifyIconData.solo(
-    IconData(0xe540, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0540, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `type-bold`
   static const IconifyIconData typeBold = IconifyIconData.solo(
-    IconData(0xe541, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0541, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `type-light`
   static const IconifyIconData typeLight = IconifyIconData.solo(
-    IconData(0xe542, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0542, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `type-outline`
   static const IconifyIconData typeOutline = IconifyIconData.solo(
-    IconData(0xe543, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0543, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `type-outline-bold`
   static const IconifyIconData typeOutlineBold = IconifyIconData.solo(
-    IconData(0xe544, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0544, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `type-outline-light`
   static const IconifyIconData typeOutlineLight = IconifyIconData.solo(
-    IconData(0xe545, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0545, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `type-outline-thin`
   static const IconifyIconData typeOutlineThin = IconifyIconData.solo(
-    IconData(0xe546, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0546, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `type-thin`
   static const IconifyIconData typeThin = IconifyIconData.solo(
-    IconData(0xe547, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0547, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `umbrella`
   static const IconifyIconData umbrella = IconifyIconData.solo(
-    IconData(0xe548, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0548, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `umbrella-bold`
   static const IconifyIconData umbrellaBold = IconifyIconData.solo(
-    IconData(0xe549, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0549, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `umbrella-light`
   static const IconifyIconData umbrellaLight = IconifyIconData.solo(
-    IconData(0xe54a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf054a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `umbrella-off`
   static const IconifyIconData umbrellaOff = IconifyIconData.solo(
-    IconData(0xe54b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf054b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `umbrella-off-bold`
   static const IconifyIconData umbrellaOffBold = IconifyIconData.solo(
-    IconData(0xe54c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf054c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `umbrella-off-light`
   static const IconifyIconData umbrellaOffLight = IconifyIconData.solo(
-    IconData(0xe54d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf054d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `umbrella-off-thin`
   static const IconifyIconData umbrellaOffThin = IconifyIconData.solo(
-    IconData(0xe54e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf054e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `umbrella-thin`
   static const IconifyIconData umbrellaThin = IconifyIconData.solo(
-    IconData(0xe54f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf054f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `underline`
   static const IconifyIconData underline = IconifyIconData.solo(
-    IconData(0xe550, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0550, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `underline-bold`
   static const IconifyIconData underlineBold = IconifyIconData.solo(
-    IconData(0xe551, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0551, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `underline-light`
   static const IconifyIconData underlineLight = IconifyIconData.solo(
-    IconData(0xe552, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0552, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `underline-thin`
   static const IconifyIconData underlineThin = IconifyIconData.solo(
-    IconData(0xe553, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0553, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `undo`
   static const IconifyIconData undo = IconifyIconData.solo(
-    IconData(0xe554, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0554, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `undo-2`
   static const IconifyIconData undo2 = IconifyIconData.solo(
-    IconData(0xe555, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0555, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `undo-2-bold`
   static const IconifyIconData undo2Bold = IconifyIconData.solo(
-    IconData(0xe556, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0556, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `undo-2-light`
   static const IconifyIconData undo2Light = IconifyIconData.solo(
-    IconData(0xe557, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0557, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `undo-2-thin`
   static const IconifyIconData undo2Thin = IconifyIconData.solo(
-    IconData(0xe558, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0558, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `undo-bold`
   static const IconifyIconData undoBold = IconifyIconData.solo(
-    IconData(0xe559, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0559, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `undo-dot`
   static const IconifyIconData undoDot = IconifyIconData.solo(
-    IconData(0xe55a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf055a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `undo-dot-bold`
   static const IconifyIconData undoDotBold = IconifyIconData.solo(
-    IconData(0xe55b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf055b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `undo-dot-light`
   static const IconifyIconData undoDotLight = IconifyIconData.solo(
-    IconData(0xe55c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf055c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `undo-dot-thin`
   static const IconifyIconData undoDotThin = IconifyIconData.solo(
-    IconData(0xe55d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf055d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `undo-light`
   static const IconifyIconData undoLight = IconifyIconData.solo(
-    IconData(0xe55e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf055e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `undo-thin`
   static const IconifyIconData undoThin = IconifyIconData.solo(
-    IconData(0xe55f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf055f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unfold-horizontal`
   static const IconifyIconData unfoldHorizontal = IconifyIconData.solo(
-    IconData(0xe560, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0560, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unfold-horizontal-bold`
   static const IconifyIconData unfoldHorizontalBold = IconifyIconData.solo(
-    IconData(0xe561, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0561, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unfold-horizontal-light`
   static const IconifyIconData unfoldHorizontalLight = IconifyIconData.solo(
-    IconData(0xe562, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0562, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unfold-horizontal-thin`
   static const IconifyIconData unfoldHorizontalThin = IconifyIconData.solo(
-    IconData(0xe563, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0563, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unfold-vertical`
   static const IconifyIconData unfoldVertical = IconifyIconData.solo(
-    IconData(0xe564, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0564, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unfold-vertical-bold`
   static const IconifyIconData unfoldVerticalBold = IconifyIconData.solo(
-    IconData(0xe565, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0565, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unfold-vertical-light`
   static const IconifyIconData unfoldVerticalLight = IconifyIconData.solo(
-    IconData(0xe566, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0566, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unfold-vertical-thin`
   static const IconifyIconData unfoldVerticalThin = IconifyIconData.solo(
-    IconData(0xe567, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0567, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ungroup`
   static const IconifyIconData ungroup = IconifyIconData.solo(
-    IconData(0xe568, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0568, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ungroup-bold`
   static const IconifyIconData ungroupBold = IconifyIconData.solo(
-    IconData(0xe569, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0569, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ungroup-light`
   static const IconifyIconData ungroupLight = IconifyIconData.solo(
-    IconData(0xe56a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf056a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `ungroup-thin`
   static const IconifyIconData ungroupThin = IconifyIconData.solo(
-    IconData(0xe56b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf056b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `university`
   static const IconifyIconData university = IconifyIconData.solo(
-    IconData(0xe56c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf056c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `university-bold`
   static const IconifyIconData universityBold = IconifyIconData.solo(
-    IconData(0xe56d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf056d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `university-light`
   static const IconifyIconData universityLight = IconifyIconData.solo(
-    IconData(0xe56e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf056e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `university-thin`
   static const IconifyIconData universityThin = IconifyIconData.solo(
-    IconData(0xe56f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf056f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlink`
   static const IconifyIconData unlink = IconifyIconData.solo(
-    IconData(0xe570, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0570, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlink-2`
   static const IconifyIconData unlink2 = IconifyIconData.solo(
-    IconData(0xe571, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0571, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlink-2-bold`
   static const IconifyIconData unlink2Bold = IconifyIconData.solo(
-    IconData(0xe572, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0572, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlink-2-light`
   static const IconifyIconData unlink2Light = IconifyIconData.solo(
-    IconData(0xe573, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0573, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlink-2-thin`
   static const IconifyIconData unlink2Thin = IconifyIconData.solo(
-    IconData(0xe574, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0574, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlink-bold`
   static const IconifyIconData unlinkBold = IconifyIconData.solo(
-    IconData(0xe575, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0575, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlink-light`
   static const IconifyIconData unlinkLight = IconifyIconData.solo(
-    IconData(0xe576, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0576, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlink-thin`
   static const IconifyIconData unlinkThin = IconifyIconData.solo(
-    IconData(0xe577, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0577, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlock`
   static const IconifyIconData unlock = IconifyIconData.solo(
-    IconData(0xe578, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0578, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlock-bold`
   static const IconifyIconData unlockBold = IconifyIconData.solo(
-    IconData(0xe579, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0579, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlock-keyhole`
   static const IconifyIconData unlockKeyhole = IconifyIconData.solo(
-    IconData(0xe57a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf057a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlock-keyhole-bold`
   static const IconifyIconData unlockKeyholeBold = IconifyIconData.solo(
-    IconData(0xe57b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf057b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlock-keyhole-light`
   static const IconifyIconData unlockKeyholeLight = IconifyIconData.solo(
-    IconData(0xe57c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf057c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlock-keyhole-thin`
   static const IconifyIconData unlockKeyholeThin = IconifyIconData.solo(
-    IconData(0xe57d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf057d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlock-light`
   static const IconifyIconData unlockLight = IconifyIconData.solo(
-    IconData(0xe57e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf057e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unlock-thin`
   static const IconifyIconData unlockThin = IconifyIconData.solo(
-    IconData(0xe57f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf057f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unplug`
   static const IconifyIconData unplug = IconifyIconData.solo(
-    IconData(0xe580, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0580, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unplug-bold`
   static const IconifyIconData unplugBold = IconifyIconData.solo(
-    IconData(0xe581, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0581, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unplug-light`
   static const IconifyIconData unplugLight = IconifyIconData.solo(
-    IconData(0xe582, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0582, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `unplug-thin`
   static const IconifyIconData unplugThin = IconifyIconData.solo(
-    IconData(0xe583, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0583, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `upload`
   static const IconifyIconData upload = IconifyIconData.solo(
-    IconData(0xe584, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0584, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `upload-bold`
   static const IconifyIconData uploadBold = IconifyIconData.solo(
-    IconData(0xe585, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0585, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `upload-cloud`
   static const IconifyIconData uploadCloud = IconifyIconData.solo(
-    IconData(0xe586, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0586, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `upload-cloud-bold`
   static const IconifyIconData uploadCloudBold = IconifyIconData.solo(
-    IconData(0xe587, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0587, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `upload-cloud-light`
   static const IconifyIconData uploadCloudLight = IconifyIconData.solo(
-    IconData(0xe588, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0588, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `upload-cloud-thin`
   static const IconifyIconData uploadCloudThin = IconifyIconData.solo(
-    IconData(0xe589, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0589, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `upload-light`
   static const IconifyIconData uploadLight = IconifyIconData.solo(
-    IconData(0xe58a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf058a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `upload-thin`
   static const IconifyIconData uploadThin = IconifyIconData.solo(
-    IconData(0xe58b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf058b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `usb`
   static const IconifyIconData usb = IconifyIconData.solo(
-    IconData(0xe58c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf058c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `usb-bold`
   static const IconifyIconData usbBold = IconifyIconData.solo(
-    IconData(0xe58d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf058d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `usb-light`
   static const IconifyIconData usbLight = IconifyIconData.solo(
-    IconData(0xe58e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf058e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `usb-thin`
   static const IconifyIconData usbThin = IconifyIconData.solo(
-    IconData(0xe58f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf058f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user`
   static const IconifyIconData user = IconifyIconData.solo(
-    IconData(0xe590, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0590, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-2`
   static const IconifyIconData user2 = IconifyIconData.solo(
-    IconData(0xe591, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0591, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-2-bold`
   static const IconifyIconData user2Bold = IconifyIconData.solo(
-    IconData(0xe592, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0592, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-2-light`
   static const IconifyIconData user2Light = IconifyIconData.solo(
-    IconData(0xe593, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0593, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-2-thin`
   static const IconifyIconData user2Thin = IconifyIconData.solo(
-    IconData(0xe594, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0594, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-bold`
   static const IconifyIconData userBold = IconifyIconData.solo(
-    IconData(0xe595, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0595, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-check`
   static const IconifyIconData userCheck = IconifyIconData.solo(
-    IconData(0xe596, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0596, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-check-2`
   static const IconifyIconData userCheck2 = IconifyIconData.solo(
-    IconData(0xe597, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0597, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-check-2-bold`
   static const IconifyIconData userCheck2Bold = IconifyIconData.solo(
-    IconData(0xe598, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0598, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-check-2-light`
   static const IconifyIconData userCheck2Light = IconifyIconData.solo(
-    IconData(0xe599, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0599, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-check-2-thin`
   static const IconifyIconData userCheck2Thin = IconifyIconData.solo(
-    IconData(0xe59a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf059a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-check-bold`
   static const IconifyIconData userCheckBold = IconifyIconData.solo(
-    IconData(0xe59b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf059b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-check-light`
   static const IconifyIconData userCheckLight = IconifyIconData.solo(
-    IconData(0xe59c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf059c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-check-thin`
   static const IconifyIconData userCheckThin = IconifyIconData.solo(
-    IconData(0xe59d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf059d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-circle`
   static const IconifyIconData userCircle = IconifyIconData.solo(
-    IconData(0xe59e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf059e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-circle-2`
   static const IconifyIconData userCircle2 = IconifyIconData.solo(
-    IconData(0xe59f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf059f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-circle-2-bold`
   static const IconifyIconData userCircle2Bold = IconifyIconData.solo(
-    IconData(0xe5a0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05a0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-circle-2-light`
   static const IconifyIconData userCircle2Light = IconifyIconData.solo(
-    IconData(0xe5a1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05a1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-circle-2-thin`
   static const IconifyIconData userCircle2Thin = IconifyIconData.solo(
-    IconData(0xe5a2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05a2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-circle-bold`
   static const IconifyIconData userCircleBold = IconifyIconData.solo(
-    IconData(0xe5a3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05a3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-circle-light`
   static const IconifyIconData userCircleLight = IconifyIconData.solo(
-    IconData(0xe5a4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05a4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-circle-thin`
   static const IconifyIconData userCircleThin = IconifyIconData.solo(
-    IconData(0xe5a5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05a5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-cog`
   static const IconifyIconData userCog = IconifyIconData.solo(
-    IconData(0xe5a6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05a6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-cog-2`
   static const IconifyIconData userCog2 = IconifyIconData.solo(
-    IconData(0xe5a7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05a7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-cog-2-bold`
   static const IconifyIconData userCog2Bold = IconifyIconData.solo(
-    IconData(0xe5a8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05a8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-cog-2-light`
   static const IconifyIconData userCog2Light = IconifyIconData.solo(
-    IconData(0xe5a9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05a9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-cog-2-thin`
   static const IconifyIconData userCog2Thin = IconifyIconData.solo(
-    IconData(0xe5aa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05aa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-cog-bold`
   static const IconifyIconData userCogBold = IconifyIconData.solo(
-    IconData(0xe5ab, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ab, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-cog-light`
   static const IconifyIconData userCogLight = IconifyIconData.solo(
-    IconData(0xe5ac, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ac, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-cog-thin`
   static const IconifyIconData userCogThin = IconifyIconData.solo(
-    IconData(0xe5ad, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ad, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-key`
   static const IconifyIconData userKey = IconifyIconData.solo(
-    IconData(0xe5ae, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ae, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-key-bold`
   static const IconifyIconData userKeyBold = IconifyIconData.solo(
-    IconData(0xe5af, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05af, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-key-light`
   static const IconifyIconData userKeyLight = IconifyIconData.solo(
-    IconData(0xe5b0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05b0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-key-thin`
   static const IconifyIconData userKeyThin = IconifyIconData.solo(
-    IconData(0xe5b1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05b1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-light`
   static const IconifyIconData userLight = IconifyIconData.solo(
-    IconData(0xe5b2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05b2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-lock`
   static const IconifyIconData userLock = IconifyIconData.solo(
-    IconData(0xe5b3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05b3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-lock-bold`
   static const IconifyIconData userLockBold = IconifyIconData.solo(
-    IconData(0xe5b4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05b4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-lock-light`
   static const IconifyIconData userLockLight = IconifyIconData.solo(
-    IconData(0xe5b5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05b5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-lock-thin`
   static const IconifyIconData userLockThin = IconifyIconData.solo(
-    IconData(0xe5b6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05b6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-minus`
   static const IconifyIconData userMinus = IconifyIconData.solo(
-    IconData(0xe5b7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05b7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-minus-2`
   static const IconifyIconData userMinus2 = IconifyIconData.solo(
-    IconData(0xe5b8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05b8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-minus-2-bold`
   static const IconifyIconData userMinus2Bold = IconifyIconData.solo(
-    IconData(0xe5b9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05b9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-minus-2-light`
   static const IconifyIconData userMinus2Light = IconifyIconData.solo(
-    IconData(0xe5ba, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ba, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-minus-2-thin`
   static const IconifyIconData userMinus2Thin = IconifyIconData.solo(
-    IconData(0xe5bb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05bb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-minus-bold`
   static const IconifyIconData userMinusBold = IconifyIconData.solo(
-    IconData(0xe5bc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05bc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-minus-light`
   static const IconifyIconData userMinusLight = IconifyIconData.solo(
-    IconData(0xe5bd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05bd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-minus-thin`
   static const IconifyIconData userMinusThin = IconifyIconData.solo(
-    IconData(0xe5be, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05be, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-pen`
   static const IconifyIconData userPen = IconifyIconData.solo(
-    IconData(0xe5bf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05bf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-pen-bold`
   static const IconifyIconData userPenBold = IconifyIconData.solo(
-    IconData(0xe5c0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05c0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-pen-light`
   static const IconifyIconData userPenLight = IconifyIconData.solo(
-    IconData(0xe5c1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05c1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-pen-thin`
   static const IconifyIconData userPenThin = IconifyIconData.solo(
-    IconData(0xe5c2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05c2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-plus`
   static const IconifyIconData userPlus = IconifyIconData.solo(
-    IconData(0xe5c3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05c3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-plus-2`
   static const IconifyIconData userPlus2 = IconifyIconData.solo(
-    IconData(0xe5c4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05c4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-plus-2-bold`
   static const IconifyIconData userPlus2Bold = IconifyIconData.solo(
-    IconData(0xe5c5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05c5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-plus-2-light`
   static const IconifyIconData userPlus2Light = IconifyIconData.solo(
-    IconData(0xe5c6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05c6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-plus-2-thin`
   static const IconifyIconData userPlus2Thin = IconifyIconData.solo(
-    IconData(0xe5c7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05c7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-plus-bold`
   static const IconifyIconData userPlusBold = IconifyIconData.solo(
-    IconData(0xe5c8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05c8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-plus-light`
   static const IconifyIconData userPlusLight = IconifyIconData.solo(
-    IconData(0xe5c9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05c9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-plus-thin`
   static const IconifyIconData userPlusThin = IconifyIconData.solo(
-    IconData(0xe5ca, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ca, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round`
   static const IconifyIconData userRound = IconifyIconData.solo(
-    IconData(0xe5cb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05cb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-bold`
   static const IconifyIconData userRoundBold = IconifyIconData.solo(
-    IconData(0xe5cc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05cc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-check`
   static const IconifyIconData userRoundCheck = IconifyIconData.solo(
-    IconData(0xe5cd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05cd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-check-bold`
   static const IconifyIconData userRoundCheckBold = IconifyIconData.solo(
-    IconData(0xe5ce, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ce, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-check-light`
   static const IconifyIconData userRoundCheckLight = IconifyIconData.solo(
-    IconData(0xe5cf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05cf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-check-thin`
   static const IconifyIconData userRoundCheckThin = IconifyIconData.solo(
-    IconData(0xe5d0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05d0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-cog`
   static const IconifyIconData userRoundCog = IconifyIconData.solo(
-    IconData(0xe5d1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05d1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-cog-bold`
   static const IconifyIconData userRoundCogBold = IconifyIconData.solo(
-    IconData(0xe5d2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05d2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-cog-light`
   static const IconifyIconData userRoundCogLight = IconifyIconData.solo(
-    IconData(0xe5d3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05d3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-cog-thin`
   static const IconifyIconData userRoundCogThin = IconifyIconData.solo(
-    IconData(0xe5d4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05d4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-key`
   static const IconifyIconData userRoundKey = IconifyIconData.solo(
-    IconData(0xe5d5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05d5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-key-bold`
   static const IconifyIconData userRoundKeyBold = IconifyIconData.solo(
-    IconData(0xe5d6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05d6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-key-light`
   static const IconifyIconData userRoundKeyLight = IconifyIconData.solo(
-    IconData(0xe5d7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05d7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-key-thin`
   static const IconifyIconData userRoundKeyThin = IconifyIconData.solo(
-    IconData(0xe5d8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05d8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-light`
   static const IconifyIconData userRoundLight = IconifyIconData.solo(
-    IconData(0xe5d9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05d9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-minus`
   static const IconifyIconData userRoundMinus = IconifyIconData.solo(
-    IconData(0xe5da, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05da, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-minus-bold`
   static const IconifyIconData userRoundMinusBold = IconifyIconData.solo(
-    IconData(0xe5db, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05db, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-minus-light`
   static const IconifyIconData userRoundMinusLight = IconifyIconData.solo(
-    IconData(0xe5dc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05dc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-minus-thin`
   static const IconifyIconData userRoundMinusThin = IconifyIconData.solo(
-    IconData(0xe5dd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05dd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-pen`
   static const IconifyIconData userRoundPen = IconifyIconData.solo(
-    IconData(0xe5de, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05de, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-pen-bold`
   static const IconifyIconData userRoundPenBold = IconifyIconData.solo(
-    IconData(0xe5df, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05df, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-pen-light`
   static const IconifyIconData userRoundPenLight = IconifyIconData.solo(
-    IconData(0xe5e0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05e0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-pen-thin`
   static const IconifyIconData userRoundPenThin = IconifyIconData.solo(
-    IconData(0xe5e1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05e1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-plus`
   static const IconifyIconData userRoundPlus = IconifyIconData.solo(
-    IconData(0xe5e2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05e2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-plus-bold`
   static const IconifyIconData userRoundPlusBold = IconifyIconData.solo(
-    IconData(0xe5e3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05e3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-plus-light`
   static const IconifyIconData userRoundPlusLight = IconifyIconData.solo(
-    IconData(0xe5e4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05e4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-plus-thin`
   static const IconifyIconData userRoundPlusThin = IconifyIconData.solo(
-    IconData(0xe5e5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05e5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-search`
   static const IconifyIconData userRoundSearch = IconifyIconData.solo(
-    IconData(0xe5e6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05e6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-search-bold`
   static const IconifyIconData userRoundSearchBold = IconifyIconData.solo(
-    IconData(0xe5e7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05e7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-search-light`
   static const IconifyIconData userRoundSearchLight = IconifyIconData.solo(
-    IconData(0xe5e8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05e8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-search-thin`
   static const IconifyIconData userRoundSearchThin = IconifyIconData.solo(
-    IconData(0xe5e9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05e9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-thin`
   static const IconifyIconData userRoundThin = IconifyIconData.solo(
-    IconData(0xe5ea, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ea, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-x`
   static const IconifyIconData userRoundX = IconifyIconData.solo(
-    IconData(0xe5eb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05eb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-x-bold`
   static const IconifyIconData userRoundXBold = IconifyIconData.solo(
-    IconData(0xe5ec, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ec, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-x-light`
   static const IconifyIconData userRoundXLight = IconifyIconData.solo(
-    IconData(0xe5ed, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ed, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-round-x-thin`
   static const IconifyIconData userRoundXThin = IconifyIconData.solo(
-    IconData(0xe5ee, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ee, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-search`
   static const IconifyIconData userSearch = IconifyIconData.solo(
-    IconData(0xe5ef, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ef, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-search-bold`
   static const IconifyIconData userSearchBold = IconifyIconData.solo(
-    IconData(0xe5f0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05f0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-search-light`
   static const IconifyIconData userSearchLight = IconifyIconData.solo(
-    IconData(0xe5f1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05f1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-search-thin`
   static const IconifyIconData userSearchThin = IconifyIconData.solo(
-    IconData(0xe5f2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05f2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-square`
   static const IconifyIconData userSquare = IconifyIconData.solo(
-    IconData(0xe5f3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05f3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-square-2`
   static const IconifyIconData userSquare2 = IconifyIconData.solo(
-    IconData(0xe5f4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05f4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-square-2-bold`
   static const IconifyIconData userSquare2Bold = IconifyIconData.solo(
-    IconData(0xe5f5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05f5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-square-2-light`
   static const IconifyIconData userSquare2Light = IconifyIconData.solo(
-    IconData(0xe5f6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05f6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-square-2-thin`
   static const IconifyIconData userSquare2Thin = IconifyIconData.solo(
-    IconData(0xe5f7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05f7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-square-bold`
   static const IconifyIconData userSquareBold = IconifyIconData.solo(
-    IconData(0xe5f8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05f8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-square-light`
   static const IconifyIconData userSquareLight = IconifyIconData.solo(
-    IconData(0xe5f9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05f9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-square-thin`
   static const IconifyIconData userSquareThin = IconifyIconData.solo(
-    IconData(0xe5fa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05fa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-star`
   static const IconifyIconData userStar = IconifyIconData.solo(
-    IconData(0xe5fb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05fb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-star-bold`
   static const IconifyIconData userStarBold = IconifyIconData.solo(
-    IconData(0xe5fc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05fc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-star-light`
   static const IconifyIconData userStarLight = IconifyIconData.solo(
-    IconData(0xe5fd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05fd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-star-thin`
   static const IconifyIconData userStarThin = IconifyIconData.solo(
-    IconData(0xe5fe, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05fe, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-thin`
   static const IconifyIconData userThin = IconifyIconData.solo(
-    IconData(0xe5ff, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf05ff, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-x`
   static const IconifyIconData userX = IconifyIconData.solo(
-    IconData(0xe600, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0600, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-x-2`
   static const IconifyIconData userX2 = IconifyIconData.solo(
-    IconData(0xe601, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0601, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-x-2-bold`
   static const IconifyIconData userX2Bold = IconifyIconData.solo(
-    IconData(0xe602, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0602, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-x-2-light`
   static const IconifyIconData userX2Light = IconifyIconData.solo(
-    IconData(0xe603, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0603, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-x-2-thin`
   static const IconifyIconData userX2Thin = IconifyIconData.solo(
-    IconData(0xe604, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0604, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-x-bold`
   static const IconifyIconData userXBold = IconifyIconData.solo(
-    IconData(0xe605, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0605, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-x-light`
   static const IconifyIconData userXLight = IconifyIconData.solo(
-    IconData(0xe606, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0606, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `user-x-thin`
   static const IconifyIconData userXThin = IconifyIconData.solo(
-    IconData(0xe607, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0607, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `users`
   static const IconifyIconData users = IconifyIconData.solo(
-    IconData(0xe608, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0608, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `users-2`
   static const IconifyIconData users2 = IconifyIconData.solo(
-    IconData(0xe609, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0609, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `users-2-bold`
   static const IconifyIconData users2Bold = IconifyIconData.solo(
-    IconData(0xe60a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf060a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `users-2-light`
   static const IconifyIconData users2Light = IconifyIconData.solo(
-    IconData(0xe60b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf060b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `users-2-thin`
   static const IconifyIconData users2Thin = IconifyIconData.solo(
-    IconData(0xe60c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf060c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `users-bold`
   static const IconifyIconData usersBold = IconifyIconData.solo(
-    IconData(0xe60d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf060d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `users-light`
   static const IconifyIconData usersLight = IconifyIconData.solo(
-    IconData(0xe60e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf060e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `users-round`
   static const IconifyIconData usersRound = IconifyIconData.solo(
-    IconData(0xe60f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf060f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `users-round-bold`
   static const IconifyIconData usersRoundBold = IconifyIconData.solo(
-    IconData(0xe610, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0610, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `users-round-light`
   static const IconifyIconData usersRoundLight = IconifyIconData.solo(
-    IconData(0xe611, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0611, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `users-round-thin`
   static const IconifyIconData usersRoundThin = IconifyIconData.solo(
-    IconData(0xe612, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0612, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `users-thin`
   static const IconifyIconData usersThin = IconifyIconData.solo(
-    IconData(0xe613, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0613, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `utensils`
   static const IconifyIconData utensils = IconifyIconData.solo(
-    IconData(0xe614, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0614, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `utensils-bold`
   static const IconifyIconData utensilsBold = IconifyIconData.solo(
-    IconData(0xe615, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0615, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `utensils-crossed`
   static const IconifyIconData utensilsCrossed = IconifyIconData.solo(
-    IconData(0xe616, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0616, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `utensils-crossed-bold`
   static const IconifyIconData utensilsCrossedBold = IconifyIconData.solo(
-    IconData(0xe617, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0617, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `utensils-crossed-light`
   static const IconifyIconData utensilsCrossedLight = IconifyIconData.solo(
-    IconData(0xe618, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0618, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `utensils-crossed-thin`
   static const IconifyIconData utensilsCrossedThin = IconifyIconData.solo(
-    IconData(0xe619, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0619, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `utensils-light`
   static const IconifyIconData utensilsLight = IconifyIconData.solo(
-    IconData(0xe61a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf061a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `utensils-thin`
   static const IconifyIconData utensilsThin = IconifyIconData.solo(
-    IconData(0xe61b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf061b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `utility-pole`
   static const IconifyIconData utilityPole = IconifyIconData.solo(
-    IconData(0xe61c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf061c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `utility-pole-bold`
   static const IconifyIconData utilityPoleBold = IconifyIconData.solo(
-    IconData(0xe61d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf061d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `utility-pole-light`
   static const IconifyIconData utilityPoleLight = IconifyIconData.solo(
-    IconData(0xe61e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf061e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `utility-pole-thin`
   static const IconifyIconData utilityPoleThin = IconifyIconData.solo(
-    IconData(0xe61f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf061f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `van`
   static const IconifyIconData van = IconifyIconData.solo(
-    IconData(0xe620, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0620, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `van-bold`
   static const IconifyIconData vanBold = IconifyIconData.solo(
-    IconData(0xe621, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0621, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `van-light`
   static const IconifyIconData vanLight = IconifyIconData.solo(
-    IconData(0xe622, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0622, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `van-thin`
   static const IconifyIconData vanThin = IconifyIconData.solo(
-    IconData(0xe623, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0623, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `variable`
   static const IconifyIconData variable = IconifyIconData.solo(
-    IconData(0xe624, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0624, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `variable-bold`
   static const IconifyIconData variableBold = IconifyIconData.solo(
-    IconData(0xe625, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0625, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `variable-light`
   static const IconifyIconData variableLight = IconifyIconData.solo(
-    IconData(0xe626, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0626, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `variable-thin`
   static const IconifyIconData variableThin = IconifyIconData.solo(
-    IconData(0xe627, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0627, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vault`
   static const IconifyIconData vault = IconifyIconData.solo(
-    IconData(0xe628, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0628, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vault-bold`
   static const IconifyIconData vaultBold = IconifyIconData.solo(
-    IconData(0xe629, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0629, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vault-light`
   static const IconifyIconData vaultLight = IconifyIconData.solo(
-    IconData(0xe62a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf062a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vault-thin`
   static const IconifyIconData vaultThin = IconifyIconData.solo(
-    IconData(0xe62b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf062b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vector-square`
   static const IconifyIconData vectorSquare = IconifyIconData.solo(
-    IconData(0xe62c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf062c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vector-square-bold`
   static const IconifyIconData vectorSquareBold = IconifyIconData.solo(
-    IconData(0xe62d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf062d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vector-square-light`
   static const IconifyIconData vectorSquareLight = IconifyIconData.solo(
-    IconData(0xe62e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf062e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vector-square-thin`
   static const IconifyIconData vectorSquareThin = IconifyIconData.solo(
-    IconData(0xe62f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf062f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vegan`
   static const IconifyIconData vegan = IconifyIconData.solo(
-    IconData(0xe630, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0630, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vegan-bold`
   static const IconifyIconData veganBold = IconifyIconData.solo(
-    IconData(0xe631, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0631, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vegan-light`
   static const IconifyIconData veganLight = IconifyIconData.solo(
-    IconData(0xe632, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0632, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vegan-thin`
   static const IconifyIconData veganThin = IconifyIconData.solo(
-    IconData(0xe633, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0633, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `venetian-mask`
   static const IconifyIconData venetianMask = IconifyIconData.solo(
-    IconData(0xe634, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0634, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `venetian-mask-bold`
   static const IconifyIconData venetianMaskBold = IconifyIconData.solo(
-    IconData(0xe635, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0635, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `venetian-mask-light`
   static const IconifyIconData venetianMaskLight = IconifyIconData.solo(
-    IconData(0xe636, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0636, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `venetian-mask-thin`
   static const IconifyIconData venetianMaskThin = IconifyIconData.solo(
-    IconData(0xe637, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0637, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `venus`
   static const IconifyIconData venus = IconifyIconData.solo(
-    IconData(0xe638, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0638, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `venus-and-mars`
   static const IconifyIconData venusAndMars = IconifyIconData.solo(
-    IconData(0xe639, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0639, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `venus-and-mars-bold`
   static const IconifyIconData venusAndMarsBold = IconifyIconData.solo(
-    IconData(0xe63a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf063a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `venus-and-mars-light`
   static const IconifyIconData venusAndMarsLight = IconifyIconData.solo(
-    IconData(0xe63b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf063b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `venus-and-mars-thin`
   static const IconifyIconData venusAndMarsThin = IconifyIconData.solo(
-    IconData(0xe63c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf063c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `venus-bold`
   static const IconifyIconData venusBold = IconifyIconData.solo(
-    IconData(0xe63d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf063d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `venus-light`
   static const IconifyIconData venusLight = IconifyIconData.solo(
-    IconData(0xe63e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf063e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `venus-thin`
   static const IconifyIconData venusThin = IconifyIconData.solo(
-    IconData(0xe63f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf063f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `verified`
   static const IconifyIconData verified = IconifyIconData.solo(
-    IconData(0xe640, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0640, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `verified-bold`
   static const IconifyIconData verifiedBold = IconifyIconData.solo(
-    IconData(0xe641, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0641, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `verified-light`
   static const IconifyIconData verifiedLight = IconifyIconData.solo(
-    IconData(0xe642, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0642, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `verified-thin`
   static const IconifyIconData verifiedThin = IconifyIconData.solo(
-    IconData(0xe643, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0643, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vibrate`
   static const IconifyIconData vibrate = IconifyIconData.solo(
-    IconData(0xe644, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0644, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vibrate-bold`
   static const IconifyIconData vibrateBold = IconifyIconData.solo(
-    IconData(0xe645, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0645, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vibrate-light`
   static const IconifyIconData vibrateLight = IconifyIconData.solo(
-    IconData(0xe646, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0646, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vibrate-off`
   static const IconifyIconData vibrateOff = IconifyIconData.solo(
-    IconData(0xe647, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0647, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vibrate-off-bold`
   static const IconifyIconData vibrateOffBold = IconifyIconData.solo(
-    IconData(0xe648, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0648, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vibrate-off-light`
   static const IconifyIconData vibrateOffLight = IconifyIconData.solo(
-    IconData(0xe649, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0649, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vibrate-off-thin`
   static const IconifyIconData vibrateOffThin = IconifyIconData.solo(
-    IconData(0xe64a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf064a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vibrate-thin`
   static const IconifyIconData vibrateThin = IconifyIconData.solo(
-    IconData(0xe64b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf064b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `video`
   static const IconifyIconData video = IconifyIconData.solo(
-    IconData(0xe64c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf064c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `video-bold`
   static const IconifyIconData videoBold = IconifyIconData.solo(
-    IconData(0xe64d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf064d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `video-light`
   static const IconifyIconData videoLight = IconifyIconData.solo(
-    IconData(0xe64e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf064e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `video-off`
   static const IconifyIconData videoOff = IconifyIconData.solo(
-    IconData(0xe64f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf064f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `video-off-bold`
   static const IconifyIconData videoOffBold = IconifyIconData.solo(
-    IconData(0xe650, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0650, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `video-off-light`
   static const IconifyIconData videoOffLight = IconifyIconData.solo(
-    IconData(0xe651, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0651, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `video-off-thin`
   static const IconifyIconData videoOffThin = IconifyIconData.solo(
-    IconData(0xe652, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0652, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `video-thin`
   static const IconifyIconData videoThin = IconifyIconData.solo(
-    IconData(0xe653, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0653, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `videotape`
   static const IconifyIconData videotape = IconifyIconData.solo(
-    IconData(0xe654, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0654, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `videotape-bold`
   static const IconifyIconData videotapeBold = IconifyIconData.solo(
-    IconData(0xe655, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0655, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `videotape-light`
   static const IconifyIconData videotapeLight = IconifyIconData.solo(
-    IconData(0xe656, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0656, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `videotape-thin`
   static const IconifyIconData videotapeThin = IconifyIconData.solo(
-    IconData(0xe657, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0657, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `view`
   static const IconifyIconData view = IconifyIconData.solo(
-    IconData(0xe658, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0658, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `view-bold`
   static const IconifyIconData viewBold = IconifyIconData.solo(
-    IconData(0xe659, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0659, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `view-light`
   static const IconifyIconData viewLight = IconifyIconData.solo(
-    IconData(0xe65a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf065a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `view-thin`
   static const IconifyIconData viewThin = IconifyIconData.solo(
-    IconData(0xe65b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf065b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `voicemail`
   static const IconifyIconData voicemail = IconifyIconData.solo(
-    IconData(0xe65c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf065c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `voicemail-bold`
   static const IconifyIconData voicemailBold = IconifyIconData.solo(
-    IconData(0xe65d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf065d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `voicemail-light`
   static const IconifyIconData voicemailLight = IconifyIconData.solo(
-    IconData(0xe65e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf065e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `voicemail-thin`
   static const IconifyIconData voicemailThin = IconifyIconData.solo(
-    IconData(0xe65f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf065f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volleyball`
   static const IconifyIconData volleyball = IconifyIconData.solo(
-    IconData(0xe660, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0660, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volleyball-bold`
   static const IconifyIconData volleyballBold = IconifyIconData.solo(
-    IconData(0xe661, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0661, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volleyball-light`
   static const IconifyIconData volleyballLight = IconifyIconData.solo(
-    IconData(0xe662, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0662, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volleyball-thin`
   static const IconifyIconData volleyballThin = IconifyIconData.solo(
-    IconData(0xe663, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0663, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume`
   static const IconifyIconData volume = IconifyIconData.solo(
-    IconData(0xe664, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0664, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-1`
   static const IconifyIconData volume1 = IconifyIconData.solo(
-    IconData(0xe665, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0665, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-1-bold`
   static const IconifyIconData volume1Bold = IconifyIconData.solo(
-    IconData(0xe666, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0666, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-1-light`
   static const IconifyIconData volume1Light = IconifyIconData.solo(
-    IconData(0xe667, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0667, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-1-thin`
   static const IconifyIconData volume1Thin = IconifyIconData.solo(
-    IconData(0xe668, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0668, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-2`
   static const IconifyIconData volume2 = IconifyIconData.solo(
-    IconData(0xe669, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0669, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-2-bold`
   static const IconifyIconData volume2Bold = IconifyIconData.solo(
-    IconData(0xe66a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf066a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-2-light`
   static const IconifyIconData volume2Light = IconifyIconData.solo(
-    IconData(0xe66b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf066b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-2-thin`
   static const IconifyIconData volume2Thin = IconifyIconData.solo(
-    IconData(0xe66c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf066c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-bold`
   static const IconifyIconData volumeBold = IconifyIconData.solo(
-    IconData(0xe66d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf066d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-light`
   static const IconifyIconData volumeLight = IconifyIconData.solo(
-    IconData(0xe66e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf066e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-off`
   static const IconifyIconData volumeOff = IconifyIconData.solo(
-    IconData(0xe66f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf066f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-off-bold`
   static const IconifyIconData volumeOffBold = IconifyIconData.solo(
-    IconData(0xe670, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0670, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-off-light`
   static const IconifyIconData volumeOffLight = IconifyIconData.solo(
-    IconData(0xe671, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0671, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-off-thin`
   static const IconifyIconData volumeOffThin = IconifyIconData.solo(
-    IconData(0xe672, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0672, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-thin`
   static const IconifyIconData volumeThin = IconifyIconData.solo(
-    IconData(0xe673, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0673, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-x`
   static const IconifyIconData volumeX = IconifyIconData.solo(
-    IconData(0xe674, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0674, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-x-bold`
   static const IconifyIconData volumeXBold = IconifyIconData.solo(
-    IconData(0xe675, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0675, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-x-light`
   static const IconifyIconData volumeXLight = IconifyIconData.solo(
-    IconData(0xe676, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0676, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `volume-x-thin`
   static const IconifyIconData volumeXThin = IconifyIconData.solo(
-    IconData(0xe677, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0677, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vote`
   static const IconifyIconData vote = IconifyIconData.solo(
-    IconData(0xe678, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0678, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vote-bold`
   static const IconifyIconData voteBold = IconifyIconData.solo(
-    IconData(0xe679, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0679, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vote-light`
   static const IconifyIconData voteLight = IconifyIconData.solo(
-    IconData(0xe67a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf067a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `vote-thin`
   static const IconifyIconData voteThin = IconifyIconData.solo(
-    IconData(0xe67b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf067b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet`
   static const IconifyIconData wallet = IconifyIconData.solo(
-    IconData(0xe67c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf067c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-2`
   static const IconifyIconData wallet2 = IconifyIconData.solo(
-    IconData(0xe67d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf067d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-2-bold`
   static const IconifyIconData wallet2Bold = IconifyIconData.solo(
-    IconData(0xe67e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf067e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-2-light`
   static const IconifyIconData wallet2Light = IconifyIconData.solo(
-    IconData(0xe67f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf067f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-2-thin`
   static const IconifyIconData wallet2Thin = IconifyIconData.solo(
-    IconData(0xe680, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0680, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-bold`
   static const IconifyIconData walletBold = IconifyIconData.solo(
-    IconData(0xe681, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0681, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-cards`
   static const IconifyIconData walletCards = IconifyIconData.solo(
-    IconData(0xe682, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0682, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-cards-bold`
   static const IconifyIconData walletCardsBold = IconifyIconData.solo(
-    IconData(0xe683, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0683, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-cards-light`
   static const IconifyIconData walletCardsLight = IconifyIconData.solo(
-    IconData(0xe684, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0684, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-cards-thin`
   static const IconifyIconData walletCardsThin = IconifyIconData.solo(
-    IconData(0xe685, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0685, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-light`
   static const IconifyIconData walletLight = IconifyIconData.solo(
-    IconData(0xe686, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0686, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-minimal`
   static const IconifyIconData walletMinimal = IconifyIconData.solo(
-    IconData(0xe687, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0687, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-minimal-bold`
   static const IconifyIconData walletMinimalBold = IconifyIconData.solo(
-    IconData(0xe688, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0688, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-minimal-light`
   static const IconifyIconData walletMinimalLight = IconifyIconData.solo(
-    IconData(0xe689, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0689, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-minimal-thin`
   static const IconifyIconData walletMinimalThin = IconifyIconData.solo(
-    IconData(0xe68a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf068a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallet-thin`
   static const IconifyIconData walletThin = IconifyIconData.solo(
-    IconData(0xe68b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf068b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallpaper`
   static const IconifyIconData wallpaper = IconifyIconData.solo(
-    IconData(0xe68c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf068c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallpaper-bold`
   static const IconifyIconData wallpaperBold = IconifyIconData.solo(
-    IconData(0xe68d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf068d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallpaper-light`
   static const IconifyIconData wallpaperLight = IconifyIconData.solo(
-    IconData(0xe68e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf068e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wallpaper-thin`
   static const IconifyIconData wallpaperThin = IconifyIconData.solo(
-    IconData(0xe68f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf068f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wand`
   static const IconifyIconData wand = IconifyIconData.solo(
-    IconData(0xe690, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0690, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wand-2`
   static const IconifyIconData wand2 = IconifyIconData.solo(
-    IconData(0xe691, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0691, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wand-2-bold`
   static const IconifyIconData wand2Bold = IconifyIconData.solo(
-    IconData(0xe692, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0692, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wand-2-light`
   static const IconifyIconData wand2Light = IconifyIconData.solo(
-    IconData(0xe693, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0693, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wand-2-thin`
   static const IconifyIconData wand2Thin = IconifyIconData.solo(
-    IconData(0xe694, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0694, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wand-bold`
   static const IconifyIconData wandBold = IconifyIconData.solo(
-    IconData(0xe695, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0695, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wand-light`
   static const IconifyIconData wandLight = IconifyIconData.solo(
-    IconData(0xe696, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0696, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wand-sparkles`
   static const IconifyIconData wandSparkles = IconifyIconData.solo(
-    IconData(0xe697, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0697, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wand-sparkles-bold`
   static const IconifyIconData wandSparklesBold = IconifyIconData.solo(
-    IconData(0xe698, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0698, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wand-sparkles-light`
   static const IconifyIconData wandSparklesLight = IconifyIconData.solo(
-    IconData(0xe699, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0699, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wand-sparkles-thin`
   static const IconifyIconData wandSparklesThin = IconifyIconData.solo(
-    IconData(0xe69a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf069a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wand-thin`
   static const IconifyIconData wandThin = IconifyIconData.solo(
-    IconData(0xe69b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf069b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `warehouse`
   static const IconifyIconData warehouse = IconifyIconData.solo(
-    IconData(0xe69c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf069c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `warehouse-bold`
   static const IconifyIconData warehouseBold = IconifyIconData.solo(
-    IconData(0xe69d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf069d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `warehouse-light`
   static const IconifyIconData warehouseLight = IconifyIconData.solo(
-    IconData(0xe69e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf069e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `warehouse-thin`
   static const IconifyIconData warehouseThin = IconifyIconData.solo(
-    IconData(0xe69f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf069f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `washing-machine`
   static const IconifyIconData washingMachine = IconifyIconData.solo(
-    IconData(0xe6a0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06a0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `washing-machine-bold`
   static const IconifyIconData washingMachineBold = IconifyIconData.solo(
-    IconData(0xe6a1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06a1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `washing-machine-light`
   static const IconifyIconData washingMachineLight = IconifyIconData.solo(
-    IconData(0xe6a2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06a2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `washing-machine-thin`
   static const IconifyIconData washingMachineThin = IconifyIconData.solo(
-    IconData(0xe6a3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06a3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `watch`
   static const IconifyIconData watch = IconifyIconData.solo(
-    IconData(0xe6a4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06a4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `watch-bold`
   static const IconifyIconData watchBold = IconifyIconData.solo(
-    IconData(0xe6a5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06a5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `watch-light`
   static const IconifyIconData watchLight = IconifyIconData.solo(
-    IconData(0xe6a6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06a6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `watch-thin`
   static const IconifyIconData watchThin = IconifyIconData.solo(
-    IconData(0xe6a7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06a7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves`
   static const IconifyIconData waves = IconifyIconData.solo(
-    IconData(0xe6a8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06a8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-arrow-down`
   static const IconifyIconData wavesArrowDown = IconifyIconData.solo(
-    IconData(0xe6a9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06a9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-arrow-down-bold`
   static const IconifyIconData wavesArrowDownBold = IconifyIconData.solo(
-    IconData(0xe6aa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06aa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-arrow-down-light`
   static const IconifyIconData wavesArrowDownLight = IconifyIconData.solo(
-    IconData(0xe6ab, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ab, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-arrow-down-thin`
   static const IconifyIconData wavesArrowDownThin = IconifyIconData.solo(
-    IconData(0xe6ac, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ac, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-arrow-up`
   static const IconifyIconData wavesArrowUp = IconifyIconData.solo(
-    IconData(0xe6ad, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ad, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-arrow-up-bold`
   static const IconifyIconData wavesArrowUpBold = IconifyIconData.solo(
-    IconData(0xe6ae, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ae, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-arrow-up-light`
   static const IconifyIconData wavesArrowUpLight = IconifyIconData.solo(
-    IconData(0xe6af, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06af, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-arrow-up-thin`
   static const IconifyIconData wavesArrowUpThin = IconifyIconData.solo(
-    IconData(0xe6b0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06b0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-bold`
   static const IconifyIconData wavesBold = IconifyIconData.solo(
-    IconData(0xe6b1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06b1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-horizontal`
   static const IconifyIconData wavesHorizontal = IconifyIconData.solo(
-    IconData(0xe6b2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06b2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-horizontal-bold`
   static const IconifyIconData wavesHorizontalBold = IconifyIconData.solo(
-    IconData(0xe6b3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06b3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-horizontal-light`
   static const IconifyIconData wavesHorizontalLight = IconifyIconData.solo(
-    IconData(0xe6b4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06b4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-horizontal-thin`
   static const IconifyIconData wavesHorizontalThin = IconifyIconData.solo(
-    IconData(0xe6b5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06b5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-ladder`
   static const IconifyIconData wavesLadder = IconifyIconData.solo(
-    IconData(0xe6b6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06b6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-ladder-bold`
   static const IconifyIconData wavesLadderBold = IconifyIconData.solo(
-    IconData(0xe6b7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06b7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-ladder-light`
   static const IconifyIconData wavesLadderLight = IconifyIconData.solo(
-    IconData(0xe6b8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06b8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-ladder-thin`
   static const IconifyIconData wavesLadderThin = IconifyIconData.solo(
-    IconData(0xe6b9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06b9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-light`
   static const IconifyIconData wavesLight = IconifyIconData.solo(
-    IconData(0xe6ba, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ba, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-thin`
   static const IconifyIconData wavesThin = IconifyIconData.solo(
-    IconData(0xe6bb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06bb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-vertical`
   static const IconifyIconData wavesVertical = IconifyIconData.solo(
-    IconData(0xe6bc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06bc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-vertical-bold`
   static const IconifyIconData wavesVerticalBold = IconifyIconData.solo(
-    IconData(0xe6bd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06bd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-vertical-light`
   static const IconifyIconData wavesVerticalLight = IconifyIconData.solo(
-    IconData(0xe6be, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06be, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waves-vertical-thin`
   static const IconifyIconData wavesVerticalThin = IconifyIconData.solo(
-    IconData(0xe6bf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06bf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waypoints`
   static const IconifyIconData waypoints = IconifyIconData.solo(
-    IconData(0xe6c0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06c0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waypoints-bold`
   static const IconifyIconData waypointsBold = IconifyIconData.solo(
-    IconData(0xe6c1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06c1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waypoints-light`
   static const IconifyIconData waypointsLight = IconifyIconData.solo(
-    IconData(0xe6c2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06c2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `waypoints-thin`
   static const IconifyIconData waypointsThin = IconifyIconData.solo(
-    IconData(0xe6c3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06c3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `webcam`
   static const IconifyIconData webcam = IconifyIconData.solo(
-    IconData(0xe6c4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06c4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `webcam-bold`
   static const IconifyIconData webcamBold = IconifyIconData.solo(
-    IconData(0xe6c5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06c5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `webcam-light`
   static const IconifyIconData webcamLight = IconifyIconData.solo(
-    IconData(0xe6c6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06c6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `webcam-thin`
   static const IconifyIconData webcamThin = IconifyIconData.solo(
-    IconData(0xe6c7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06c7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `webhook`
   static const IconifyIconData webhook = IconifyIconData.solo(
-    IconData(0xe6c8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06c8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `webhook-bold`
   static const IconifyIconData webhookBold = IconifyIconData.solo(
-    IconData(0xe6c9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06c9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `webhook-light`
   static const IconifyIconData webhookLight = IconifyIconData.solo(
-    IconData(0xe6ca, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ca, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `webhook-off`
   static const IconifyIconData webhookOff = IconifyIconData.solo(
-    IconData(0xe6cb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06cb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `webhook-off-bold`
   static const IconifyIconData webhookOffBold = IconifyIconData.solo(
-    IconData(0xe6cc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06cc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `webhook-off-light`
   static const IconifyIconData webhookOffLight = IconifyIconData.solo(
-    IconData(0xe6cd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06cd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `webhook-off-thin`
   static const IconifyIconData webhookOffThin = IconifyIconData.solo(
-    IconData(0xe6ce, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ce, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `webhook-thin`
   static const IconifyIconData webhookThin = IconifyIconData.solo(
-    IconData(0xe6cf, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06cf, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `weight`
   static const IconifyIconData weight = IconifyIconData.solo(
-    IconData(0xe6d0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06d0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `weight-bold`
   static const IconifyIconData weightBold = IconifyIconData.solo(
-    IconData(0xe6d1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06d1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `weight-light`
   static const IconifyIconData weightLight = IconifyIconData.solo(
-    IconData(0xe6d2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06d2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `weight-thin`
   static const IconifyIconData weightThin = IconifyIconData.solo(
-    IconData(0xe6d3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06d3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `weight-tilde`
   static const IconifyIconData weightTilde = IconifyIconData.solo(
-    IconData(0xe6d4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06d4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `weight-tilde-bold`
   static const IconifyIconData weightTildeBold = IconifyIconData.solo(
-    IconData(0xe6d5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06d5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `weight-tilde-light`
   static const IconifyIconData weightTildeLight = IconifyIconData.solo(
-    IconData(0xe6d6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06d6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `weight-tilde-thin`
   static const IconifyIconData weightTildeThin = IconifyIconData.solo(
-    IconData(0xe6d7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06d7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wheat`
   static const IconifyIconData wheat = IconifyIconData.solo(
-    IconData(0xe6d8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06d8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wheat-bold`
   static const IconifyIconData wheatBold = IconifyIconData.solo(
-    IconData(0xe6d9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06d9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wheat-light`
   static const IconifyIconData wheatLight = IconifyIconData.solo(
-    IconData(0xe6da, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06da, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wheat-off`
   static const IconifyIconData wheatOff = IconifyIconData.solo(
-    IconData(0xe6db, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06db, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wheat-off-bold`
   static const IconifyIconData wheatOffBold = IconifyIconData.solo(
-    IconData(0xe6dc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06dc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wheat-off-light`
   static const IconifyIconData wheatOffLight = IconifyIconData.solo(
-    IconData(0xe6dd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06dd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wheat-off-thin`
   static const IconifyIconData wheatOffThin = IconifyIconData.solo(
-    IconData(0xe6de, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06de, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wheat-thin`
   static const IconifyIconData wheatThin = IconifyIconData.solo(
-    IconData(0xe6df, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06df, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `whole-word`
   static const IconifyIconData wholeWord = IconifyIconData.solo(
-    IconData(0xe6e0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06e0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `whole-word-bold`
   static const IconifyIconData wholeWordBold = IconifyIconData.solo(
-    IconData(0xe6e1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06e1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `whole-word-light`
   static const IconifyIconData wholeWordLight = IconifyIconData.solo(
-    IconData(0xe6e2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06e2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `whole-word-thin`
   static const IconifyIconData wholeWordThin = IconifyIconData.solo(
-    IconData(0xe6e3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06e3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi`
   static const IconifyIconData wifi = IconifyIconData.solo(
-    IconData(0xe6e4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06e4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-bold`
   static const IconifyIconData wifiBold = IconifyIconData.solo(
-    IconData(0xe6e5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06e5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-cog`
   static const IconifyIconData wifiCog = IconifyIconData.solo(
-    IconData(0xe6e6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06e6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-cog-bold`
   static const IconifyIconData wifiCogBold = IconifyIconData.solo(
-    IconData(0xe6e7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06e7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-cog-light`
   static const IconifyIconData wifiCogLight = IconifyIconData.solo(
-    IconData(0xe6e8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06e8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-cog-thin`
   static const IconifyIconData wifiCogThin = IconifyIconData.solo(
-    IconData(0xe6e9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06e9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-high`
   static const IconifyIconData wifiHigh = IconifyIconData.solo(
-    IconData(0xe6ea, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ea, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-high-bold`
   static const IconifyIconData wifiHighBold = IconifyIconData.solo(
-    IconData(0xe6eb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06eb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-high-light`
   static const IconifyIconData wifiHighLight = IconifyIconData.solo(
-    IconData(0xe6ec, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ec, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-high-thin`
   static const IconifyIconData wifiHighThin = IconifyIconData.solo(
-    IconData(0xe6ed, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ed, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-light`
   static const IconifyIconData wifiLight = IconifyIconData.solo(
-    IconData(0xe6ee, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ee, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-low`
   static const IconifyIconData wifiLow = IconifyIconData.solo(
-    IconData(0xe6ef, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ef, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-low-bold`
   static const IconifyIconData wifiLowBold = IconifyIconData.solo(
-    IconData(0xe6f0, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06f0, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-low-light`
   static const IconifyIconData wifiLowLight = IconifyIconData.solo(
-    IconData(0xe6f1, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06f1, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-low-thin`
   static const IconifyIconData wifiLowThin = IconifyIconData.solo(
-    IconData(0xe6f2, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06f2, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-off`
   static const IconifyIconData wifiOff = IconifyIconData.solo(
-    IconData(0xe6f3, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06f3, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-off-bold`
   static const IconifyIconData wifiOffBold = IconifyIconData.solo(
-    IconData(0xe6f4, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06f4, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-off-light`
   static const IconifyIconData wifiOffLight = IconifyIconData.solo(
-    IconData(0xe6f5, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06f5, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-off-thin`
   static const IconifyIconData wifiOffThin = IconifyIconData.solo(
-    IconData(0xe6f6, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06f6, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-pen`
   static const IconifyIconData wifiPen = IconifyIconData.solo(
-    IconData(0xe6f7, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06f7, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-pen-bold`
   static const IconifyIconData wifiPenBold = IconifyIconData.solo(
-    IconData(0xe6f8, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06f8, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-pen-light`
   static const IconifyIconData wifiPenLight = IconifyIconData.solo(
-    IconData(0xe6f9, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06f9, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-pen-thin`
   static const IconifyIconData wifiPenThin = IconifyIconData.solo(
-    IconData(0xe6fa, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06fa, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-sync`
   static const IconifyIconData wifiSync = IconifyIconData.solo(
-    IconData(0xe6fb, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06fb, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-sync-bold`
   static const IconifyIconData wifiSyncBold = IconifyIconData.solo(
-    IconData(0xe6fc, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06fc, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-sync-light`
   static const IconifyIconData wifiSyncLight = IconifyIconData.solo(
-    IconData(0xe6fd, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06fd, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-sync-thin`
   static const IconifyIconData wifiSyncThin = IconifyIconData.solo(
-    IconData(0xe6fe, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06fe, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-thin`
   static const IconifyIconData wifiThin = IconifyIconData.solo(
-    IconData(0xe6ff, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf06ff, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-zero`
   static const IconifyIconData wifiZero = IconifyIconData.solo(
-    IconData(0xe700, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0700, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-zero-bold`
   static const IconifyIconData wifiZeroBold = IconifyIconData.solo(
-    IconData(0xe701, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0701, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-zero-light`
   static const IconifyIconData wifiZeroLight = IconifyIconData.solo(
-    IconData(0xe702, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0702, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wifi-zero-thin`
   static const IconifyIconData wifiZeroThin = IconifyIconData.solo(
-    IconData(0xe703, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0703, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wind`
   static const IconifyIconData wind = IconifyIconData.solo(
-    IconData(0xe704, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0704, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wind-arrow-down`
   static const IconifyIconData windArrowDown = IconifyIconData.solo(
-    IconData(0xe705, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0705, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wind-arrow-down-bold`
   static const IconifyIconData windArrowDownBold = IconifyIconData.solo(
-    IconData(0xe706, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0706, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wind-arrow-down-light`
   static const IconifyIconData windArrowDownLight = IconifyIconData.solo(
-    IconData(0xe707, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0707, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wind-arrow-down-thin`
   static const IconifyIconData windArrowDownThin = IconifyIconData.solo(
-    IconData(0xe708, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0708, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wind-bold`
   static const IconifyIconData windBold = IconifyIconData.solo(
-    IconData(0xe709, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0709, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wind-light`
   static const IconifyIconData windLight = IconifyIconData.solo(
-    IconData(0xe70a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf070a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wind-thin`
   static const IconifyIconData windThin = IconifyIconData.solo(
-    IconData(0xe70b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf070b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wine`
   static const IconifyIconData wine = IconifyIconData.solo(
-    IconData(0xe70c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf070c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wine-bold`
   static const IconifyIconData wineBold = IconifyIconData.solo(
-    IconData(0xe70d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf070d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wine-light`
   static const IconifyIconData wineLight = IconifyIconData.solo(
-    IconData(0xe70e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf070e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wine-off`
   static const IconifyIconData wineOff = IconifyIconData.solo(
-    IconData(0xe70f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf070f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wine-off-bold`
   static const IconifyIconData wineOffBold = IconifyIconData.solo(
-    IconData(0xe710, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0710, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wine-off-light`
   static const IconifyIconData wineOffLight = IconifyIconData.solo(
-    IconData(0xe711, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0711, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wine-off-thin`
   static const IconifyIconData wineOffThin = IconifyIconData.solo(
-    IconData(0xe712, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0712, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wine-thin`
   static const IconifyIconData wineThin = IconifyIconData.solo(
-    IconData(0xe713, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0713, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `workflow`
   static const IconifyIconData workflow = IconifyIconData.solo(
-    IconData(0xe714, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0714, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `workflow-bold`
   static const IconifyIconData workflowBold = IconifyIconData.solo(
-    IconData(0xe715, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0715, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `workflow-light`
   static const IconifyIconData workflowLight = IconifyIconData.solo(
-    IconData(0xe716, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0716, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `workflow-thin`
   static const IconifyIconData workflowThin = IconifyIconData.solo(
-    IconData(0xe717, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0717, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `worm`
   static const IconifyIconData worm = IconifyIconData.solo(
-    IconData(0xe718, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0718, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `worm-bold`
   static const IconifyIconData wormBold = IconifyIconData.solo(
-    IconData(0xe719, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0719, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `worm-light`
   static const IconifyIconData wormLight = IconifyIconData.solo(
-    IconData(0xe71a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf071a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `worm-thin`
   static const IconifyIconData wormThin = IconifyIconData.solo(
-    IconData(0xe71b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf071b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wrap-text`
   static const IconifyIconData wrapText = IconifyIconData.solo(
-    IconData(0xe71c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf071c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wrap-text-bold`
   static const IconifyIconData wrapTextBold = IconifyIconData.solo(
-    IconData(0xe71d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf071d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wrap-text-light`
   static const IconifyIconData wrapTextLight = IconifyIconData.solo(
-    IconData(0xe71e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf071e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wrap-text-thin`
   static const IconifyIconData wrapTextThin = IconifyIconData.solo(
-    IconData(0xe71f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf071f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wrench`
   static const IconifyIconData wrench = IconifyIconData.solo(
-    IconData(0xe720, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0720, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wrench-bold`
   static const IconifyIconData wrenchBold = IconifyIconData.solo(
-    IconData(0xe721, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0721, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wrench-light`
   static const IconifyIconData wrenchLight = IconifyIconData.solo(
-    IconData(0xe722, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0722, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `wrench-thin`
   static const IconifyIconData wrenchThin = IconifyIconData.solo(
-    IconData(0xe723, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0723, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x`
   static const IconifyIconData x = IconifyIconData.solo(
-    IconData(0xe724, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0724, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-bold`
   static const IconifyIconData xBold = IconifyIconData.solo(
-    IconData(0xe725, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0725, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-circle`
   static const IconifyIconData xCircle = IconifyIconData.solo(
-    IconData(0xe726, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0726, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-circle-bold`
   static const IconifyIconData xCircleBold = IconifyIconData.solo(
-    IconData(0xe727, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0727, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-circle-light`
   static const IconifyIconData xCircleLight = IconifyIconData.solo(
-    IconData(0xe728, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0728, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-circle-thin`
   static const IconifyIconData xCircleThin = IconifyIconData.solo(
-    IconData(0xe729, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0729, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-light`
   static const IconifyIconData xLight = IconifyIconData.solo(
-    IconData(0xe72a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf072a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-line-top`
   static const IconifyIconData xLineTop = IconifyIconData.solo(
-    IconData(0xe72b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf072b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-line-top-bold`
   static const IconifyIconData xLineTopBold = IconifyIconData.solo(
-    IconData(0xe72c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf072c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-line-top-light`
   static const IconifyIconData xLineTopLight = IconifyIconData.solo(
-    IconData(0xe72d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf072d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-line-top-thin`
   static const IconifyIconData xLineTopThin = IconifyIconData.solo(
-    IconData(0xe72e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf072e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-octagon`
   static const IconifyIconData xOctagon = IconifyIconData.solo(
-    IconData(0xe72f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf072f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-octagon-bold`
   static const IconifyIconData xOctagonBold = IconifyIconData.solo(
-    IconData(0xe730, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0730, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-octagon-light`
   static const IconifyIconData xOctagonLight = IconifyIconData.solo(
-    IconData(0xe731, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0731, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-octagon-thin`
   static const IconifyIconData xOctagonThin = IconifyIconData.solo(
-    IconData(0xe732, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0732, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-square`
   static const IconifyIconData xSquare = IconifyIconData.solo(
-    IconData(0xe733, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0733, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-square-bold`
   static const IconifyIconData xSquareBold = IconifyIconData.solo(
-    IconData(0xe734, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0734, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-square-light`
   static const IconifyIconData xSquareLight = IconifyIconData.solo(
-    IconData(0xe735, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0735, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-square-thin`
   static const IconifyIconData xSquareThin = IconifyIconData.solo(
-    IconData(0xe736, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0736, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `x-thin`
   static const IconifyIconData xThin = IconifyIconData.solo(
-    IconData(0xe737, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0737, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `youtube`
   static const IconifyIconData youtube = IconifyIconData.solo(
-    IconData(0xe738, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0738, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `youtube-bold`
   static const IconifyIconData youtubeBold = IconifyIconData.solo(
-    IconData(0xe739, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0739, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `youtube-light`
   static const IconifyIconData youtubeLight = IconifyIconData.solo(
-    IconData(0xe73a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf073a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `youtube-thin`
   static const IconifyIconData youtubeThin = IconifyIconData.solo(
-    IconData(0xe73b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf073b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zap`
   static const IconifyIconData zap = IconifyIconData.solo(
-    IconData(0xe73c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf073c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zap-bold`
   static const IconifyIconData zapBold = IconifyIconData.solo(
-    IconData(0xe73d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf073d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zap-light`
   static const IconifyIconData zapLight = IconifyIconData.solo(
-    IconData(0xe73e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf073e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zap-off`
   static const IconifyIconData zapOff = IconifyIconData.solo(
-    IconData(0xe73f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf073f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zap-off-bold`
   static const IconifyIconData zapOffBold = IconifyIconData.solo(
-    IconData(0xe740, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0740, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zap-off-light`
   static const IconifyIconData zapOffLight = IconifyIconData.solo(
-    IconData(0xe741, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0741, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zap-off-thin`
   static const IconifyIconData zapOffThin = IconifyIconData.solo(
-    IconData(0xe742, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0742, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zap-thin`
   static const IconifyIconData zapThin = IconifyIconData.solo(
-    IconData(0xe743, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0743, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-aquarius`
   static const IconifyIconData zodiacAquarius = IconifyIconData.solo(
-    IconData(0xe744, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0744, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-aquarius-bold`
   static const IconifyIconData zodiacAquariusBold = IconifyIconData.solo(
-    IconData(0xe745, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0745, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-aquarius-light`
   static const IconifyIconData zodiacAquariusLight = IconifyIconData.solo(
-    IconData(0xe746, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0746, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-aquarius-thin`
   static const IconifyIconData zodiacAquariusThin = IconifyIconData.solo(
-    IconData(0xe747, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0747, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-aries`
   static const IconifyIconData zodiacAries = IconifyIconData.solo(
-    IconData(0xe748, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0748, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-aries-bold`
   static const IconifyIconData zodiacAriesBold = IconifyIconData.solo(
-    IconData(0xe749, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0749, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-aries-light`
   static const IconifyIconData zodiacAriesLight = IconifyIconData.solo(
-    IconData(0xe74a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf074a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-aries-thin`
   static const IconifyIconData zodiacAriesThin = IconifyIconData.solo(
-    IconData(0xe74b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf074b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-cancer`
   static const IconifyIconData zodiacCancer = IconifyIconData.solo(
-    IconData(0xe74c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf074c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-cancer-bold`
   static const IconifyIconData zodiacCancerBold = IconifyIconData.solo(
-    IconData(0xe74d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf074d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-cancer-light`
   static const IconifyIconData zodiacCancerLight = IconifyIconData.solo(
-    IconData(0xe74e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf074e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-cancer-thin`
   static const IconifyIconData zodiacCancerThin = IconifyIconData.solo(
-    IconData(0xe74f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf074f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-capricorn`
   static const IconifyIconData zodiacCapricorn = IconifyIconData.solo(
-    IconData(0xe750, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0750, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-capricorn-bold`
   static const IconifyIconData zodiacCapricornBold = IconifyIconData.solo(
-    IconData(0xe751, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0751, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-capricorn-light`
   static const IconifyIconData zodiacCapricornLight = IconifyIconData.solo(
-    IconData(0xe752, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0752, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-capricorn-thin`
   static const IconifyIconData zodiacCapricornThin = IconifyIconData.solo(
-    IconData(0xe753, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0753, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-gemini`
   static const IconifyIconData zodiacGemini = IconifyIconData.solo(
-    IconData(0xe754, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0754, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-gemini-bold`
   static const IconifyIconData zodiacGeminiBold = IconifyIconData.solo(
-    IconData(0xe755, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0755, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-gemini-light`
   static const IconifyIconData zodiacGeminiLight = IconifyIconData.solo(
-    IconData(0xe756, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0756, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-gemini-thin`
   static const IconifyIconData zodiacGeminiThin = IconifyIconData.solo(
-    IconData(0xe757, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0757, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-leo`
   static const IconifyIconData zodiacLeo = IconifyIconData.solo(
-    IconData(0xe758, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0758, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-leo-bold`
   static const IconifyIconData zodiacLeoBold = IconifyIconData.solo(
-    IconData(0xe759, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0759, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-leo-light`
   static const IconifyIconData zodiacLeoLight = IconifyIconData.solo(
-    IconData(0xe75a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf075a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-leo-thin`
   static const IconifyIconData zodiacLeoThin = IconifyIconData.solo(
-    IconData(0xe75b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf075b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-libra`
   static const IconifyIconData zodiacLibra = IconifyIconData.solo(
-    IconData(0xe75c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf075c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-libra-bold`
   static const IconifyIconData zodiacLibraBold = IconifyIconData.solo(
-    IconData(0xe75d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf075d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-libra-light`
   static const IconifyIconData zodiacLibraLight = IconifyIconData.solo(
-    IconData(0xe75e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf075e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-libra-thin`
   static const IconifyIconData zodiacLibraThin = IconifyIconData.solo(
-    IconData(0xe75f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf075f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-ophiuchus`
   static const IconifyIconData zodiacOphiuchus = IconifyIconData.solo(
-    IconData(0xe760, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0760, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-ophiuchus-bold`
   static const IconifyIconData zodiacOphiuchusBold = IconifyIconData.solo(
-    IconData(0xe761, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0761, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-ophiuchus-light`
   static const IconifyIconData zodiacOphiuchusLight = IconifyIconData.solo(
-    IconData(0xe762, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0762, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-ophiuchus-thin`
   static const IconifyIconData zodiacOphiuchusThin = IconifyIconData.solo(
-    IconData(0xe763, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0763, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-pisces`
   static const IconifyIconData zodiacPisces = IconifyIconData.solo(
-    IconData(0xe764, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0764, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-pisces-bold`
   static const IconifyIconData zodiacPiscesBold = IconifyIconData.solo(
-    IconData(0xe765, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0765, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-pisces-light`
   static const IconifyIconData zodiacPiscesLight = IconifyIconData.solo(
-    IconData(0xe766, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0766, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-pisces-thin`
   static const IconifyIconData zodiacPiscesThin = IconifyIconData.solo(
-    IconData(0xe767, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0767, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-sagittarius`
   static const IconifyIconData zodiacSagittarius = IconifyIconData.solo(
-    IconData(0xe768, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0768, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-sagittarius-bold`
   static const IconifyIconData zodiacSagittariusBold = IconifyIconData.solo(
-    IconData(0xe769, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0769, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-sagittarius-light`
   static const IconifyIconData zodiacSagittariusLight = IconifyIconData.solo(
-    IconData(0xe76a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf076a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-sagittarius-thin`
   static const IconifyIconData zodiacSagittariusThin = IconifyIconData.solo(
-    IconData(0xe76b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf076b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-scorpio`
   static const IconifyIconData zodiacScorpio = IconifyIconData.solo(
-    IconData(0xe76c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf076c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-scorpio-bold`
   static const IconifyIconData zodiacScorpioBold = IconifyIconData.solo(
-    IconData(0xe76d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf076d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-scorpio-light`
   static const IconifyIconData zodiacScorpioLight = IconifyIconData.solo(
-    IconData(0xe76e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf076e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-scorpio-thin`
   static const IconifyIconData zodiacScorpioThin = IconifyIconData.solo(
-    IconData(0xe76f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf076f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-taurus`
   static const IconifyIconData zodiacTaurus = IconifyIconData.solo(
-    IconData(0xe770, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0770, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-taurus-bold`
   static const IconifyIconData zodiacTaurusBold = IconifyIconData.solo(
-    IconData(0xe771, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0771, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-taurus-light`
   static const IconifyIconData zodiacTaurusLight = IconifyIconData.solo(
-    IconData(0xe772, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0772, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-taurus-thin`
   static const IconifyIconData zodiacTaurusThin = IconifyIconData.solo(
-    IconData(0xe773, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0773, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-virgo`
   static const IconifyIconData zodiacVirgo = IconifyIconData.solo(
-    IconData(0xe774, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0774, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-virgo-bold`
   static const IconifyIconData zodiacVirgoBold = IconifyIconData.solo(
-    IconData(0xe775, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0775, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-virgo-light`
   static const IconifyIconData zodiacVirgoLight = IconifyIconData.solo(
-    IconData(0xe776, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0776, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zodiac-virgo-thin`
   static const IconifyIconData zodiacVirgoThin = IconifyIconData.solo(
-    IconData(0xe777, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0777, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zoom-in`
   static const IconifyIconData zoomIn = IconifyIconData.solo(
-    IconData(0xe778, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0778, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zoom-in-bold`
   static const IconifyIconData zoomInBold = IconifyIconData.solo(
-    IconData(0xe779, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf0779, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zoom-in-light`
   static const IconifyIconData zoomInLight = IconifyIconData.solo(
-    IconData(0xe77a, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf077a, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zoom-in-thin`
   static const IconifyIconData zoomInThin = IconifyIconData.solo(
-    IconData(0xe77b, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf077b, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zoom-out`
   static const IconifyIconData zoomOut = IconifyIconData.solo(
-    IconData(0xe77c, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf077c, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zoom-out-bold`
   static const IconifyIconData zoomOutBold = IconifyIconData.solo(
-    IconData(0xe77d, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf077d, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zoom-out-light`
   static const IconifyIconData zoomOutLight = IconifyIconData.solo(
-    IconData(0xe77e, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf077e, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
   /// `zoom-out-thin`
   static const IconifyIconData zoomOutThin = IconifyIconData.solo(
-    IconData(0xe77f, fontFamily: 'Lucide_2', fontPackage: 'iconifyx_lucide'),
+    IconData(0xf077f, fontFamily: 'Lucide', fontPackage: 'iconifyx_lucide'),
   );
 
 }

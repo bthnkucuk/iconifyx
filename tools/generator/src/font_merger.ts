@@ -61,6 +61,17 @@ export interface FontMergeInput {
    * 0xF0000-0x10FFFF (Supplementary PUA range A or B).
    */
   suppStart?: number;
+  /**
+   * Optional explicit codepoint remap, shape
+   * `Map<siblingFamily, Map<origCp, newCp>>`. Glyphs in a sibling get
+   * their codepoint from this map when one is given; unmapped glyphs
+   * fall back to sequential supp-PUA allocation.
+   *
+   * Used for secondary (duotone) merges: a duotone icon's primary and
+   * secondary glyphs must share a codepoint, so the secondary merge
+   * reuses the primary merge's remap to keep them aligned.
+   */
+  explicitRemap?: Map<string, Map<number, number>>;
 }
 
 export interface FontMergeResult {
@@ -83,7 +94,12 @@ export interface FontMergeResult {
 export async function mergeFonts(
   input: FontMergeInput
 ): Promise<FontMergeResult> {
-  const { siblings, canonicalFamily, suppStart = 0xf0000 } = input;
+  const {
+    siblings,
+    canonicalFamily,
+    suppStart = 0xf0000,
+    explicitRemap,
+  } = input;
 
   if (siblings.length === 0) {
     throw new Error('mergeFonts called with no siblings');
@@ -134,6 +150,24 @@ export async function mergeFonts(
       `0x${suppStart.toString(16)}`,
     ];
 
+    // Optional explicit codepoint remap — serialise to a temp JSON the
+    // Python script consumes via `--remap-input`. Used by the secondary
+    // (duotone) merge pass so secondary glyphs land at the same codepoints
+    // as their primaries.
+    if (explicitRemap !== undefined && explicitRemap.size > 0) {
+      const remapInputPath = path.join(work, 'remap-input.json');
+      const obj: Record<string, Record<string, string>> = {};
+      for (const [siblingFamily, m] of explicitRemap) {
+        const inner: Record<string, string> = {};
+        for (const [origCp, newCp] of m) {
+          inner[`0x${origCp.toString(16)}`] = `0x${newCp.toString(16)}`;
+        }
+        obj[siblingFamily] = inner;
+      }
+      await writeFile(remapInputPath, JSON.stringify(obj, null, 2), 'utf8');
+      args.push('--remap-input', remapInputPath);
+    }
+
     const proc = Bun.spawn(['uv', ...args], {
       cwd: PYTHON_DIR,
       stdout: 'pipe',
@@ -175,10 +209,33 @@ export async function mergeFonts(
 }
 
 /**
+ * Strip the `_N` auto-split suffix from a font family name to yield its
+ * base family.
+ *
+ * - `Mdi`               → `Mdi`
+ * - `Mdi_2` / `Mdi_3`   → `Mdi`
+ * - `MdiSecondary`      → `MdiSecondary`
+ * - `Mdi_2Secondary` / `Mdi_3Secondary` → `MdiSecondary`
+ *
+ * The auto-split suffix can land in the MIDDLE of a family name when
+ * the pack is duotone (`buildFonts` emits `<primary>Secondary`, so
+ * sibling N's secondary is `<primary>_N` + `Secondary`).
+ */
+function baseFamilyOf(family: string): string {
+  return family.replace(/_\d+(?=Secondary$|$)/, '');
+}
+
+/** Extract the numeric sibling index, or 1 for the base family. */
+function siblingIndexOf(family: string): number {
+  const m = family.match(/_(\d+)(?:Secondary)?$/);
+  return m ? parseInt(m[1]!, 10) : 1;
+}
+
+/**
  * Group `manifest.fonts` entries by their base family name. A base
  * family is the one without a `_N` suffix; siblings are `<base>_2`,
  * `<base>_3`, etc. Duotone Secondary fonts get grouped separately
- * (`<base>Secondary`, `<base>Secondary_2`, …).
+ * (`<base>Secondary`, `<base>_2Secondary`, …).
  *
  * Returns `Map<baseFamily, orderedSiblingFamilies>`. Groups of size 1
  * (single-TTF packs and bases with no siblings) are still included —
@@ -191,15 +248,13 @@ function groupSiblingFamilies(
   const groups = new Map<string, string[]>();
   // Sort so base comes first then _2, _3, ...
   const sorted = [...fontFamilies].sort((a, b) => {
-    const baseA = a.replace(/_\d+$/, '');
-    const baseB = b.replace(/_\d+$/, '');
+    const baseA = baseFamilyOf(a);
+    const baseB = baseFamilyOf(b);
     if (baseA !== baseB) return baseA.localeCompare(baseB);
-    const numA = a.match(/_(\d+)$/);
-    const numB = b.match(/_(\d+)$/);
-    return (numA ? parseInt(numA[1]!) : 1) - (numB ? parseInt(numB[1]!) : 1);
+    return siblingIndexOf(a) - siblingIndexOf(b);
   });
   for (const family of sorted) {
-    const base = family.replace(/_\d+$/, '');
+    const base = baseFamilyOf(family);
     const arr = groups.get(base);
     if (arr) arr.push(family);
     else groups.set(base, [family]);
@@ -259,22 +314,35 @@ export async function mergeSiblingsInManifest(
   const siblingToBase = new Map<string, string>(); // 'Mdi_2' -> 'Mdi'
   const baseSet = new Set<string>(); // {'Mdi', 'MdiSecondary', ...}
 
+  // Separate primary groups from secondary groups. Primaries are merged
+  // FIRST so the secondary merge can reuse the primary's codepoint remap
+  // (duotone primary + secondary glyphs share a codepoint).
+  const primaryGroups: Array<[string, string[]]> = [];
+  const secondaryGroups: Array<[string, string[]]> = [];
   for (const [base, siblings] of groups) {
+    if (base.endsWith('Secondary')) secondaryGroups.push([base, siblings]);
+    else primaryGroups.push([base, siblings]);
+  }
+
+  // Helper that runs a single merge pass over one group and updates
+  // bookkeeping (ttfs, accumulatedRemap, siblingToBase, baseSet).
+  const mergeOneGroup = async (
+    base: string,
+    siblings: string[],
+    explicit?: Map<string, Map<number, number>>
+  ): Promise<void> => {
     for (const sib of siblings) siblingToBase.set(sib, base);
     baseSet.add(base);
 
-    if (siblings.length === 1) continue; // single-TTF group, no merge
+    if (siblings.length === 1) return; // single-TTF group, no merge
 
     const orderedBuffers: Array<{ family: string; ttf: Buffer }> = [];
     for (const family of siblings) {
       const buf = ttfs.get(family);
-      if (!buf) {
-        // buildFonts didn't emit this family (it was empty-pruned). Skip.
-        continue;
-      }
+      if (!buf) continue; // buildFonts didn't emit this family (empty-pruned)
       orderedBuffers.push({ family, ttf: buf });
     }
-    if (orderedBuffers.length < 2) continue;
+    if (orderedBuffers.length < 2) return;
 
     log.info(
       `  "${manifest.prefix}": merging ${orderedBuffers.length} sibling fonts -> "${base}.ttf"`
@@ -282,6 +350,7 @@ export async function mergeSiblingsInManifest(
     const { ttf: mergedTtf, remap } = await mergeFonts({
       siblings: orderedBuffers,
       canonicalFamily: base,
+      explicitRemap: explicit,
     });
 
     // Replace base buffer with merged; drop siblings.
@@ -293,6 +362,33 @@ export async function mergeSiblingsInManifest(
       accumulatedRemap.set(siblingFamily, m);
     }
     groupsMerged++;
+  };
+
+  // Pass 1: merge primary groups.
+  for (const [base, siblings] of primaryGroups) {
+    await mergeOneGroup(base, siblings);
+  }
+
+  // Pass 2: merge secondary groups. For each secondary group, build an
+  // explicit remap from the corresponding primary's remap so duotone
+  // primary/secondary glyphs land at matching codepoints.
+  //
+  // Mapping: secondary sibling `<P>_NSecondary` ↔ primary sibling `<P>_N`.
+  for (const [secBase, secSiblings] of secondaryGroups) {
+    // Determine the primary base by stripping the `Secondary` suffix.
+    const primaryBase = secBase.slice(0, -'Secondary'.length);
+    // Construct an explicit remap keyed by SECONDARY sibling stem names.
+    // For each secondary sibling `<P>_NSecondary`, look up the primary
+    // sibling `<P>_N`'s remap and reuse its codepoint mapping verbatim.
+    const explicit = new Map<string, Map<number, number>>();
+    for (const secSib of secSiblings) {
+      if (secSib === secBase) continue; // base secondary — no remap input
+      const idx = siblingIndexOf(secSib); // 2, 3, ...
+      const primarySib = `${primaryBase}_${idx}`;
+      const primaryRemap = accumulatedRemap.get(primarySib);
+      if (primaryRemap) explicit.set(secSib, primaryRemap);
+    }
+    await mergeOneGroup(secBase, secSiblings, explicit);
   }
 
   if (groupsMerged === 0) {
@@ -300,11 +396,16 @@ export async function mergeSiblingsInManifest(
   }
 
   // Manifest mutation: walk icons + collapse fonts list.
+  //
+  // Important: `manifest.icons[i].fontFamily` always names the PRIMARY
+  // sibling (e.g. `Mdi_2`) — the secondary side of a duotone is implicit
+  // (synthesised at codegen time via `secondaryFontFamily(primary)`).
+  // So we only need to walk primary families here; the manifest does
+  // not store secondary fontFamily values.
   for (const [, entry] of Object.entries(manifest.icons)) {
     const base = siblingToBase.get(entry.fontFamily);
-    if (base === undefined) continue; // family not in our group map (shouldn't happen)
+    if (base === undefined) continue; // family not in our group map
     if (base === entry.fontFamily) {
-      // Icon already in base; mark BMP tier if not already.
       if (entry.tier === undefined) entry.tier = 'bmp';
       continue;
     }
@@ -327,15 +428,11 @@ export async function mergeSiblingsInManifest(
     for (const e of Object.values(manifest.icons)) {
       if (e.deprecated) continue;
       if (e.fontFamily !== base) continue;
-      // Duotone secondary mirroring is handled by the Secondary base
-      // entry separately; the primary entry counts only primary icons.
       const isSecondary = base.endsWith('Secondary');
       if (isSecondary && !e.duotone) continue;
       iconCount++;
     }
     if (iconCount === 0) continue;
-    // Preserve any nextCodepoint cursor from the original base entry
-    // (might be useful for future allocations even after merge).
     const oldBase = manifest.fonts.find((f) => f.family === base);
     newFonts.push({
       family: base,

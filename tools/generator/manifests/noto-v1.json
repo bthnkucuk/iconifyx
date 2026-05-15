@@ -21,867 +21,566 @@
   "fonts": [
     {
       "family": "NotoV1",
-      "nextCodepoint": 58168,
+      "nextCodepoint": 57991,
       "iconCount": 647
     },
     {
       "family": "NotoV1Secondary",
-      "nextCodepoint": 58168,
+      "nextCodepoint": 57991,
       "iconCount": 246
     }
   ],
   "icons": {
     "ab-button": {
-      "codepoint": 57807,
+      "codepoint": 57344,
       "fontFamily": "NotoV1",
       "identifier": "abButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ab-button-blood-type": {
-      "codepoint": 57808,
+      "codepoint": 57345,
       "fontFamily": "NotoV1",
       "identifier": "abButtonBloodType",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "admission-tickets": {
-      "codepoint": 58100,
+      "codepoint": 57346,
       "fontFamily": "NotoV1",
       "identifier": "admissionTickets"
     },
-    "aerial-tramway": {
-      "codepoint": 57344,
-      "fontFamily": "NotoV1",
-      "identifier": "aerialTramway",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "airplane": {
-      "codepoint": 57345,
+      "codepoint": 57347,
       "fontFamily": "NotoV1",
       "identifier": "airplane"
     },
-    "alarm-clock": {
-      "codepoint": 57346,
-      "fontFamily": "NotoV1",
-      "identifier": "alarmClock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "alembic": {
-      "codepoint": 58101,
+      "codepoint": 57348,
       "fontFamily": "NotoV1",
       "identifier": "alembic"
     },
-    "alien": {
-      "codepoint": 57347,
-      "fontFamily": "NotoV1",
-      "identifier": "alien",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "american-football": {
-      "codepoint": 57809,
+      "codepoint": 57349,
       "fontFamily": "NotoV1",
       "identifier": "americanFootball",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "amphora": {
-      "codepoint": 57934,
+      "codepoint": 57350,
       "fontFamily": "NotoV1",
       "identifier": "amphora"
     },
     "anchor": {
-      "codepoint": 57348,
+      "codepoint": 57351,
       "fontFamily": "NotoV1",
       "identifier": "anchor"
     },
     "anger-symbol": {
-      "codepoint": 57349,
+      "codepoint": 57352,
       "fontFamily": "NotoV1",
       "identifier": "angerSymbol"
     },
     "angry-face": {
-      "codepoint": 57350,
+      "codepoint": 57353,
       "fontFamily": "NotoV1",
       "identifier": "angryFace"
     },
     "anguished-face": {
-      "codepoint": 57351,
+      "codepoint": 57354,
       "fontFamily": "NotoV1",
       "identifier": "anguishedFace"
     },
     "antenna-bars": {
-      "codepoint": 57352,
+      "codepoint": 57355,
       "fontFamily": "NotoV1",
       "identifier": "antennaBars"
     },
     "anticlockwise-arrows-button": {
-      "codepoint": 57353,
+      "codepoint": 57356,
       "fontFamily": "NotoV1",
       "identifier": "anticlockwiseArrowsButton"
     },
     "aquarius": {
-      "codepoint": 57354,
+      "codepoint": 57357,
       "fontFamily": "NotoV1",
       "identifier": "aquarius"
     },
     "aries": {
-      "codepoint": 57355,
+      "codepoint": 57358,
       "fontFamily": "NotoV1",
       "identifier": "aries"
     },
     "asterisk": {
-      "codepoint": 57356,
+      "codepoint": 57359,
       "fontFamily": "NotoV1",
       "identifier": "asterisk"
     },
-    "astonished-face": {
-      "codepoint": 57357,
-      "fontFamily": "NotoV1",
-      "identifier": "astonishedFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "atm-sign": {
-      "codepoint": 57358,
-      "fontFamily": "NotoV1",
-      "identifier": "atmSign",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "atom-symbol": {
-      "codepoint": 58102,
+      "codepoint": 57360,
       "fontFamily": "NotoV1",
       "identifier": "atomSymbol"
     },
-    "automobile": {
-      "codepoint": 57359,
-      "fontFamily": "NotoV1",
-      "identifier": "automobile",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "b-button": {
-      "codepoint": 57810,
+      "codepoint": 57361,
       "fontFamily": "NotoV1",
       "identifier": "bButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "b-button-blood-type": {
-      "codepoint": 57811,
+      "codepoint": 57362,
       "fontFamily": "NotoV1",
       "identifier": "bButtonBloodType",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "back-arrow": {
-      "codepoint": 57360,
+      "codepoint": 57363,
       "fontFamily": "NotoV1",
       "identifier": "backArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "backpack": {
-      "codepoint": 57361,
-      "fontFamily": "NotoV1",
-      "identifier": "backpack",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "badminton": {
-      "codepoint": 57935,
+      "codepoint": 57364,
       "fontFamily": "NotoV1",
       "identifier": "badminton"
     },
-    "baggage-claim": {
-      "codepoint": 57362,
-      "fontFamily": "NotoV1",
-      "identifier": "baggageClaim",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "balance-scale": {
-      "codepoint": 58103,
+      "codepoint": 57365,
       "fontFamily": "NotoV1",
       "identifier": "balanceScale"
     },
-    "balloon": {
-      "codepoint": 57363,
-      "fontFamily": "NotoV1",
-      "identifier": "balloon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "ballot-box-with-ballot": {
-      "codepoint": 57936,
+      "codepoint": 57366,
       "fontFamily": "NotoV1",
       "identifier": "ballotBoxWithBallot"
     },
     "ballot-box-with-check": {
-      "codepoint": 57364,
+      "codepoint": 57367,
       "fontFamily": "NotoV1",
       "identifier": "ballotBoxWithCheck"
     },
-    "bank": {
-      "codepoint": 57365,
-      "fontFamily": "NotoV1",
-      "identifier": "bank",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "bat": {
-      "codepoint": 57366,
+      "codepoint": 57368,
       "fontFamily": "NotoV1",
       "identifier": "bat"
     },
-    "bathtub": {
-      "codepoint": 57367,
-      "fontFamily": "NotoV1",
-      "identifier": "bathtub",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "beating-heart": {
-      "codepoint": 57812,
+      "codepoint": 57369,
       "fontFamily": "NotoV1",
       "identifier": "beatingHeart",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "bicycle": {
-      "codepoint": 57937,
+      "codepoint": 57370,
       "fontFamily": "NotoV1",
       "identifier": "bicycle"
     },
     "bikini": {
-      "codepoint": 57368,
+      "codepoint": 57371,
       "fontFamily": "NotoV1",
       "identifier": "bikini",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "biohazard": {
-      "codepoint": 57369,
+      "codepoint": 57372,
       "fontFamily": "NotoV1",
       "identifier": "biohazard"
     },
     "birthday-cake": {
-      "codepoint": 57370,
+      "codepoint": 57373,
       "fontFamily": "NotoV1",
       "identifier": "birthdayCake"
     },
     "black-heart": {
-      "codepoint": 57371,
+      "codepoint": 57374,
       "fontFamily": "NotoV1",
       "identifier": "blackHeart"
     },
     "black-square-button": {
-      "codepoint": 57813,
+      "codepoint": 57375,
       "fontFamily": "NotoV1",
       "identifier": "blackSquareButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "blossom": {
-      "codepoint": 57814,
+      "codepoint": 57376,
       "fontFamily": "NotoV1",
       "identifier": "blossom",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "blowfish": {
-      "codepoint": 57372,
-      "fontFamily": "NotoV1",
-      "identifier": "blowfish",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "blue-book": {
-      "codepoint": 57373,
-      "fontFamily": "NotoV1",
-      "identifier": "blueBook",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "blue-circle": {
-      "codepoint": 57374,
+      "codepoint": 57377,
       "fontFamily": "NotoV1",
       "identifier": "blueCircle"
     },
     "blue-heart": {
-      "codepoint": 57375,
+      "codepoint": 57378,
       "fontFamily": "NotoV1",
       "identifier": "blueHeart"
     },
-    "bomb": {
-      "codepoint": 57376,
-      "fontFamily": "NotoV1",
-      "identifier": "bomb",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "books": {
-      "codepoint": 57377,
-      "fontFamily": "NotoV1",
-      "identifier": "books",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "bottle-with-popping-cork": {
-      "codepoint": 57938,
+      "codepoint": 57379,
       "fontFamily": "NotoV1",
       "identifier": "bottleWithPoppingCork"
     },
-    "bouquet": {
-      "codepoint": 57378,
-      "fontFamily": "NotoV1",
-      "identifier": "bouquet",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "briefcase": {
-      "codepoint": 57939,
+      "codepoint": 57380,
       "fontFamily": "NotoV1",
       "identifier": "briefcase"
     },
     "bright-button": {
-      "codepoint": 57379,
+      "codepoint": 57381,
       "fontFamily": "NotoV1",
       "identifier": "brightButton"
     },
     "bust-in-silhouette": {
-      "codepoint": 57380,
+      "codepoint": 57382,
       "fontFamily": "NotoV1",
       "identifier": "bustInSilhouette"
     },
     "busts-in-silhouette": {
-      "codepoint": 57381,
+      "codepoint": 57383,
       "fontFamily": "NotoV1",
       "identifier": "bustsInSilhouette"
     },
     "cactus": {
-      "codepoint": 57815,
+      "codepoint": 57384,
       "fontFamily": "NotoV1",
       "identifier": "cactus",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "call-me-hand": {
-      "codepoint": 57382,
+      "codepoint": 57385,
       "fontFamily": "NotoV1",
       "identifier": "callMeHand",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "call-me-hand-dark-skin-tone": {
-      "codepoint": 57816,
+      "codepoint": 57386,
       "fontFamily": "NotoV1",
       "identifier": "callMeHandDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "call-me-hand-light-skin-tone": {
-      "codepoint": 57817,
+      "codepoint": 57387,
       "fontFamily": "NotoV1",
       "identifier": "callMeHandLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "call-me-hand-medium-dark-skin-tone": {
-      "codepoint": 57818,
+      "codepoint": 57388,
       "fontFamily": "NotoV1",
       "identifier": "callMeHandMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "call-me-hand-medium-light-skin-tone": {
-      "codepoint": 57819,
+      "codepoint": 57389,
       "fontFamily": "NotoV1",
       "identifier": "callMeHandMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "call-me-hand-medium-skin-tone": {
-      "codepoint": 57820,
+      "codepoint": 57390,
       "fontFamily": "NotoV1",
       "identifier": "callMeHandMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "camera-with-flash": {
-      "codepoint": 57383,
+      "codepoint": 57391,
       "fontFamily": "NotoV1",
       "identifier": "cameraWithFlash"
     },
     "cancer": {
-      "codepoint": 57384,
+      "codepoint": 57392,
       "fontFamily": "NotoV1",
       "identifier": "cancer"
     },
     "capricorn": {
-      "codepoint": 57385,
+      "codepoint": 57393,
       "fontFamily": "NotoV1",
       "identifier": "capricorn"
     },
-    "card-index": {
-      "codepoint": 57386,
-      "fontFamily": "NotoV1",
-      "identifier": "cardIndex",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "carp-streamer": {
-      "codepoint": 57387,
-      "fontFamily": "NotoV1",
-      "identifier": "carpStreamer",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "carrot": {
-      "codepoint": 57388,
-      "fontFamily": "NotoV1",
-      "identifier": "carrot",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "castle": {
-      "codepoint": 57389,
-      "fontFamily": "NotoV1",
-      "identifier": "castle",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "cat-face-with-wry-smile": {
-      "codepoint": 57821,
+      "codepoint": 57394,
       "fontFamily": "NotoV1",
       "identifier": "catFaceWithWrySmile",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cat-with-wry-smile": {
-      "codepoint": 57822,
+      "codepoint": 57395,
       "fontFamily": "NotoV1",
       "identifier": "catWithWrySmile",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "chart-increasing-with-yen": {
-      "codepoint": 57940,
+      "codepoint": 57396,
       "fontFamily": "NotoV1",
       "identifier": "chartIncreasingWithYen"
     },
     "check-box-with-check": {
-      "codepoint": 57390,
+      "codepoint": 57397,
       "fontFamily": "NotoV1",
       "identifier": "checkBoxWithCheck"
     },
     "check-mark": {
-      "codepoint": 57391,
+      "codepoint": 57398,
       "fontFamily": "NotoV1",
       "identifier": "checkMark"
     },
     "check-mark-button": {
-      "codepoint": 57823,
+      "codepoint": 57399,
       "fontFamily": "NotoV1",
       "identifier": "checkMarkButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "chequered-flag": {
-      "codepoint": 57392,
-      "fontFamily": "NotoV1",
-      "identifier": "chequeredFlag",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "cherry-blossom": {
-      "codepoint": 57824,
+      "codepoint": 57400,
       "fontFamily": "NotoV1",
       "identifier": "cherryBlossom",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "chestnut": {
-      "codepoint": 57941,
+      "codepoint": 57401,
       "fontFamily": "NotoV1",
       "identifier": "chestnut"
     },
-    "chicken": {
-      "codepoint": 57393,
-      "fontFamily": "NotoV1",
-      "identifier": "chicken",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "children-crossing": {
-      "codepoint": 57394,
+      "codepoint": 57402,
       "fontFamily": "NotoV1",
       "identifier": "childrenCrossing"
     },
-    "cigarette": {
-      "codepoint": 57395,
-      "fontFamily": "NotoV1",
-      "identifier": "cigarette",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "cinema": {
-      "codepoint": 57396,
-      "fontFamily": "NotoV1",
-      "identifier": "cinema",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "circled-m": {
-      "codepoint": 57397,
+      "codepoint": 57403,
       "fontFamily": "NotoV1",
       "identifier": "circledM"
     },
-    "cityscape": {
-      "codepoint": 57398,
-      "fontFamily": "NotoV1",
-      "identifier": "cityscape",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "cl-button": {
-      "codepoint": 57825,
+      "codepoint": 57404,
       "fontFamily": "NotoV1",
       "identifier": "clButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "clapping-hands": {
-      "codepoint": 57399,
+      "codepoint": 57405,
       "fontFamily": "NotoV1",
       "identifier": "clappingHands"
     },
     "clapping-hands-dark-skin-tone": {
-      "codepoint": 58104,
+      "codepoint": 57406,
       "fontFamily": "NotoV1",
       "identifier": "clappingHandsDarkSkinTone"
     },
     "clapping-hands-light-skin-tone": {
-      "codepoint": 57942,
+      "codepoint": 57407,
       "fontFamily": "NotoV1",
       "identifier": "clappingHandsLightSkinTone"
     },
     "clapping-hands-medium-dark-skin-tone": {
-      "codepoint": 58105,
+      "codepoint": 57408,
       "fontFamily": "NotoV1",
       "identifier": "clappingHandsMediumDarkSkinTone"
     },
     "clapping-hands-medium-light-skin-tone": {
-      "codepoint": 57943,
+      "codepoint": 57409,
       "fontFamily": "NotoV1",
       "identifier": "clappingHandsMediumLightSkinTone"
     },
     "clapping-hands-medium-skin-tone": {
-      "codepoint": 57944,
+      "codepoint": 57410,
       "fontFamily": "NotoV1",
       "identifier": "clappingHandsMediumSkinTone"
     },
     "clockwise-vertical-arrows": {
-      "codepoint": 57400,
+      "codepoint": 57411,
       "fontFamily": "NotoV1",
       "identifier": "clockwiseVerticalArrows"
     },
-    "closed-umbrella": {
-      "codepoint": 57401,
-      "fontFamily": "NotoV1",
-      "identifier": "closedUmbrella",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "cloud": {
-      "codepoint": 57402,
+      "codepoint": 57412,
       "fontFamily": "NotoV1",
       "identifier": "cloud",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "cloud-with-lightning": {
-      "codepoint": 57403,
-      "fontFamily": "NotoV1",
-      "identifier": "cloudWithLightning",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "cloud-with-lightning-and-rain": {
-      "codepoint": 57404,
-      "fontFamily": "NotoV1",
-      "identifier": "cloudWithLightningAndRain",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "cloud-with-rain": {
-      "codepoint": 57405,
-      "fontFamily": "NotoV1",
-      "identifier": "cloudWithRain",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "cloud-with-snow": {
-      "codepoint": 57406,
-      "fontFamily": "NotoV1",
-      "identifier": "cloudWithSnow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "club-suit": {
-      "codepoint": 57407,
+      "codepoint": 57413,
       "fontFamily": "NotoV1",
       "identifier": "clubSuit"
     },
     "clutch-bag": {
-      "codepoint": 57826,
+      "codepoint": 57414,
       "fontFamily": "NotoV1",
       "identifier": "clutchBag",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "coffin": {
-      "codepoint": 58106,
+      "codepoint": 57415,
       "fontFamily": "NotoV1",
       "identifier": "coffin"
     },
     "collision": {
-      "codepoint": 57408,
+      "codepoint": 57416,
       "fontFamily": "NotoV1",
       "identifier": "collision",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "computer-disk": {
-      "codepoint": 57409,
-      "fontFamily": "NotoV1",
-      "identifier": "computerDisk",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "computer-mouse": {
-      "codepoint": 57410,
-      "fontFamily": "NotoV1",
-      "identifier": "computerMouse",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "confounded-face": {
-      "codepoint": 57411,
+      "codepoint": 57417,
       "fontFamily": "NotoV1",
       "identifier": "confoundedFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "confused-face": {
-      "codepoint": 57945,
+      "codepoint": 57418,
       "fontFamily": "NotoV1",
       "identifier": "confusedFace"
     },
     "control-knobs": {
-      "codepoint": 57946,
+      "codepoint": 57419,
       "fontFamily": "NotoV1",
       "identifier": "controlKnobs"
     },
-    "cooking": {
-      "codepoint": 57412,
-      "fontFamily": "NotoV1",
-      "identifier": "cooking",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "cool-button": {
-      "codepoint": 57413,
-      "fontFamily": "NotoV1",
-      "identifier": "coolButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "copyright": {
-      "codepoint": 57414,
+      "codepoint": 57420,
       "fontFamily": "NotoV1",
       "identifier": "copyright"
     },
     "couch-and-lamp": {
-      "codepoint": 57947,
+      "codepoint": 57421,
       "fontFamily": "NotoV1",
       "identifier": "couchAndLamp"
     },
     "counterclockwise-arrows-button": {
-      "codepoint": 57415,
+      "codepoint": 57422,
       "fontFamily": "NotoV1",
       "identifier": "counterclockwiseArrowsButton"
     },
-    "cow": {
-      "codepoint": 57416,
-      "fontFamily": "NotoV1",
-      "identifier": "cow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "cow-face": {
-      "codepoint": 57417,
-      "fontFamily": "NotoV1",
-      "identifier": "cowFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "crescent-moon": {
-      "codepoint": 57418,
+      "codepoint": 57423,
       "fontFamily": "NotoV1",
       "identifier": "crescentMoon"
     },
     "cross-mark": {
-      "codepoint": 57419,
+      "codepoint": 57424,
       "fontFamily": "NotoV1",
       "identifier": "crossMark"
     },
     "cross-mark-button": {
-      "codepoint": 57420,
+      "codepoint": 57425,
       "fontFamily": "NotoV1",
       "identifier": "crossMarkButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "crossed-fingers": {
-      "codepoint": 57421,
-      "fontFamily": "NotoV1",
-      "identifier": "crossedFingers",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "crying-face": {
-      "codepoint": 57422,
-      "fontFamily": "NotoV1",
-      "identifier": "cryingFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "curly-loop": {
-      "codepoint": 57423,
+      "codepoint": 57426,
       "fontFamily": "NotoV1",
       "identifier": "curlyLoop"
     },
-    "customs": {
-      "codepoint": 57424,
-      "fontFamily": "NotoV1",
-      "identifier": "customs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "cyclone": {
-      "codepoint": 57425,
+      "codepoint": 57427,
       "fontFamily": "NotoV1",
       "identifier": "cyclone"
     },
-    "dashing-away": {
-      "codepoint": 57426,
-      "fontFamily": "NotoV1",
-      "identifier": "dashingAway",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "department-store": {
-      "codepoint": 57427,
-      "fontFamily": "NotoV1",
-      "identifier": "departmentStore",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "diamond-with-a-dot": {
-      "codepoint": 57827,
+      "codepoint": 57428,
       "fontFamily": "NotoV1",
       "identifier": "diamondWithADot",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "digit-eight": {
-      "codepoint": 57428,
+      "codepoint": 57429,
       "fontFamily": "NotoV1",
       "identifier": "digitEight"
     },
     "digit-five": {
-      "codepoint": 57429,
+      "codepoint": 57430,
       "fontFamily": "NotoV1",
       "identifier": "digitFive"
     },
     "digit-four": {
-      "codepoint": 57430,
+      "codepoint": 57431,
       "fontFamily": "NotoV1",
       "identifier": "digitFour"
     },
     "digit-nine": {
-      "codepoint": 57431,
+      "codepoint": 57432,
       "fontFamily": "NotoV1",
       "identifier": "digitNine"
     },
     "digit-one": {
-      "codepoint": 57432,
+      "codepoint": 57433,
       "fontFamily": "NotoV1",
       "identifier": "digitOne"
     },
     "digit-seven": {
-      "codepoint": 57433,
+      "codepoint": 57434,
       "fontFamily": "NotoV1",
       "identifier": "digitSeven"
     },
     "digit-six": {
-      "codepoint": 57434,
+      "codepoint": 57435,
       "fontFamily": "NotoV1",
       "identifier": "digitSix"
     },
     "digit-three": {
-      "codepoint": 57435,
+      "codepoint": 57436,
       "fontFamily": "NotoV1",
       "identifier": "digitThree"
     },
     "digit-two": {
-      "codepoint": 57436,
+      "codepoint": 57437,
       "fontFamily": "NotoV1",
       "identifier": "digitTwo"
     },
     "digit-zero": {
-      "codepoint": 57437,
+      "codepoint": 57438,
       "fontFamily": "NotoV1",
       "identifier": "digitZero"
     },
     "dim-button": {
-      "codepoint": 57438,
+      "codepoint": 57439,
       "fontFamily": "NotoV1",
       "identifier": "dimButton"
     },
-    "direct-hit": {
-      "codepoint": 57439,
-      "fontFamily": "NotoV1",
-      "identifier": "directHit",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "disappointed-but-relieved-face": {
-      "codepoint": 57440,
-      "fontFamily": "NotoV1",
-      "identifier": "disappointedButRelievedFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "disappointed-face": {
-      "codepoint": 57441,
+      "codepoint": 57440,
       "fontFamily": "NotoV1",
       "identifier": "disappointedFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "dizzy-face": {
-      "codepoint": 57442,
+      "codepoint": 57441,
       "fontFamily": "NotoV1",
       "identifier": "dizzyFace"
     },
     "dog-face": {
-      "codepoint": 57828,
+      "codepoint": 57442,
       "fontFamily": "NotoV1",
       "identifier": "dogFace",
       "duotone": true,
@@ -897,170 +596,128 @@
       "fontFamily": "NotoV1",
       "identifier": "doubleExclamationMark"
     },
-    "dove": {
-      "codepoint": 57445,
-      "fontFamily": "NotoV1",
-      "identifier": "dove",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "down-arrow": {
-      "codepoint": 57446,
+      "codepoint": 57445,
       "fontFamily": "NotoV1",
       "identifier": "downArrow"
     },
     "down-left-arrow": {
-      "codepoint": 57447,
+      "codepoint": 57446,
       "fontFamily": "NotoV1",
       "identifier": "downLeftArrow"
     },
     "down-right-arrow": {
-      "codepoint": 57448,
+      "codepoint": 57447,
       "fontFamily": "NotoV1",
       "identifier": "downRightArrow"
     },
-    "downcast-face-with-sweat": {
-      "codepoint": 57449,
-      "fontFamily": "NotoV1",
-      "identifier": "downcastFaceWithSweat",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "drooling-face": {
-      "codepoint": 57450,
-      "fontFamily": "NotoV1",
-      "identifier": "droolingFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "droplet": {
-      "codepoint": 57451,
+      "codepoint": 57448,
       "fontFamily": "NotoV1",
       "identifier": "droplet"
     },
     "e-mail": {
-      "codepoint": 57452,
+      "codepoint": 57449,
       "fontFamily": "NotoV1",
       "identifier": "eMail"
     },
     "eagle": {
-      "codepoint": 57948,
+      "codepoint": 57450,
       "fontFamily": "NotoV1",
       "identifier": "eagle"
     },
     "ear": {
-      "codepoint": 57453,
+      "codepoint": 57451,
       "fontFamily": "NotoV1",
       "identifier": "ear",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ear-dark-skin-tone": {
-      "codepoint": 57829,
+      "codepoint": 57452,
       "fontFamily": "NotoV1",
       "identifier": "earDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ear-light-skin-tone": {
-      "codepoint": 57830,
+      "codepoint": 57453,
       "fontFamily": "NotoV1",
       "identifier": "earLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ear-medium-dark-skin-tone": {
-      "codepoint": 57831,
+      "codepoint": 57454,
       "fontFamily": "NotoV1",
       "identifier": "earMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ear-medium-light-skin-tone": {
-      "codepoint": 57832,
+      "codepoint": 57455,
       "fontFamily": "NotoV1",
       "identifier": "earMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ear-medium-skin-tone": {
-      "codepoint": 57833,
+      "codepoint": 57456,
       "fontFamily": "NotoV1",
       "identifier": "earMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "egg": {
-      "codepoint": 57454,
+      "codepoint": 57457,
       "fontFamily": "NotoV1",
       "identifier": "egg",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "eight-oclock": {
-      "codepoint": 57455,
-      "fontFamily": "NotoV1",
-      "identifier": "eightOclock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "eight-pointed-star": {
-      "codepoint": 57456,
+      "codepoint": 57458,
       "fontFamily": "NotoV1",
       "identifier": "eightPointedStar"
     },
     "eject-button": {
-      "codepoint": 57457,
+      "codepoint": 57459,
       "fontFamily": "NotoV1",
       "identifier": "ejectButton"
     },
-    "eleven-oclock": {
-      "codepoint": 57458,
-      "fontFamily": "NotoV1",
-      "identifier": "elevenOclock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "end-arrow": {
-      "codepoint": 57459,
+      "codepoint": 57460,
       "fontFamily": "NotoV1",
       "identifier": "endArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "envelope": {
-      "codepoint": 57460,
+      "codepoint": 57461,
       "fontFamily": "NotoV1",
       "identifier": "envelope"
     },
     "envelope-with-arrow": {
-      "codepoint": 57461,
+      "codepoint": 57462,
       "fontFamily": "NotoV1",
       "identifier": "envelopeWithArrow"
     },
     "exclamation-mark": {
-      "codepoint": 57462,
+      "codepoint": 57463,
       "fontFamily": "NotoV1",
       "identifier": "exclamationMark"
     },
     "exclamation-question-mark": {
-      "codepoint": 57463,
+      "codepoint": 57464,
       "fontFamily": "NotoV1",
       "identifier": "exclamationQuestionMark"
     },
     "expressionless-face": {
-      "codepoint": 57464,
+      "codepoint": 57465,
       "fontFamily": "NotoV1",
       "identifier": "expressionlessFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
-    },
-    "eye": {
-      "codepoint": 57465,
-      "fontFamily": "NotoV1",
-      "identifier": "eye",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
     },
     "eyes": {
       "codepoint": 57466,
@@ -1069,115 +726,80 @@
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "face-with-cold-sweat": {
-      "codepoint": 57467,
-      "fontFamily": "NotoV1",
-      "identifier": "faceWithColdSweat",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "face-with-head-bandage": {
-      "codepoint": 57949,
+      "codepoint": 57467,
       "fontFamily": "NotoV1",
       "identifier": "faceWithHeadBandage"
     },
-    "face-with-open-mouth": {
-      "codepoint": 57468,
-      "fontFamily": "NotoV1",
-      "identifier": "faceWithOpenMouth",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "face-with-stuck-out-tongue-and-closed-eyes": {
-      "codepoint": 57950,
+      "codepoint": 57468,
       "fontFamily": "NotoV1",
       "identifier": "faceWithStuckOutTongueAndClosedEyes"
     },
     "face-with-thermometer": {
-      "codepoint": 57951,
+      "codepoint": 57469,
       "fontFamily": "NotoV1",
       "identifier": "faceWithThermometer"
     },
     "face-without-mouth": {
-      "codepoint": 57469,
+      "codepoint": 57470,
       "fontFamily": "NotoV1",
       "identifier": "faceWithoutMouth",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "fallen-leaf": {
-      "codepoint": 57834,
+      "codepoint": 57471,
       "fontFamily": "NotoV1",
       "identifier": "fallenLeaf",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "fast-down-button": {
-      "codepoint": 57470,
+      "codepoint": 57472,
       "fontFamily": "NotoV1",
       "identifier": "fastDownButton"
     },
     "fast-forward-button": {
-      "codepoint": 57471,
+      "codepoint": 57473,
       "fontFamily": "NotoV1",
       "identifier": "fastForwardButton"
     },
     "fast-reverse-button": {
-      "codepoint": 57472,
+      "codepoint": 57474,
       "fontFamily": "NotoV1",
       "identifier": "fastReverseButton"
     },
     "fast-up-button": {
-      "codepoint": 57473,
+      "codepoint": 57475,
       "fontFamily": "NotoV1",
       "identifier": "fastUpButton"
     },
-    "fax-machine": {
-      "codepoint": 57474,
-      "fontFamily": "NotoV1",
-      "identifier": "faxMachine",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "female-sign": {
-      "codepoint": 57475,
+      "codepoint": 57476,
       "fontFamily": "NotoV1",
       "identifier": "femaleSign"
     },
     "file-folder": {
-      "codepoint": 57476,
+      "codepoint": 57477,
       "fontFamily": "NotoV1",
       "identifier": "fileFolder",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "film-frames": {
-      "codepoint": 57835,
+      "codepoint": 57478,
       "fontFamily": "NotoV1",
       "identifier": "filmFrames",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "film-projector": {
-      "codepoint": 57477,
-      "fontFamily": "NotoV1",
-      "identifier": "filmProjector",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "fire": {
-      "codepoint": 57478,
+      "codepoint": 57479,
       "fontFamily": "NotoV1",
       "identifier": "fire",
       "duotone": true,
       "duotoneKind": "paintOrder"
-    },
-    "fire-engine": {
-      "codepoint": 57479,
-      "fontFamily": "NotoV1",
-      "identifier": "fireEngine",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
     },
     "first-quarter-moon-face": {
       "codepoint": 57480,
@@ -1193,41 +815,27 @@
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "five-oclock": {
-      "codepoint": 57482,
-      "fontFamily": "NotoV1",
-      "identifier": "fiveOclock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "flag-for-chequered-flag": {
-      "codepoint": 57483,
-      "fontFamily": "NotoV1",
-      "identifier": "flagForChequeredFlag",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "flag-for-china": {
-      "codepoint": 57484,
+      "codepoint": 57482,
       "fontFamily": "NotoV1",
       "identifier": "flagForChina",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flag-for-flag-china": {
-      "codepoint": 57485,
+      "codepoint": 57483,
       "fontFamily": "NotoV1",
       "identifier": "flagForFlagChina",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flag-for-flag-spain": {
-      "codepoint": 57952,
+      "codepoint": 57484,
       "fontFamily": "NotoV1",
       "identifier": "flagForFlagSpain"
     },
     "flag-for-spain": {
-      "codepoint": 57953,
+      "codepoint": 57485,
       "fontFamily": "NotoV1",
       "identifier": "flagForSpain"
     },
@@ -1238,323 +846,176 @@
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "flag-for-white-flag": {
-      "codepoint": 57487,
-      "fontFamily": "NotoV1",
-      "identifier": "flagForWhiteFlag",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "flashlight": {
-      "codepoint": 57488,
-      "fontFamily": "NotoV1",
-      "identifier": "flashlight",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "flexed-biceps": {
-      "codepoint": 57489,
+      "codepoint": 57487,
       "fontFamily": "NotoV1",
       "identifier": "flexedBiceps",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flexed-biceps-dark-skin-tone": {
-      "codepoint": 57836,
+      "codepoint": 57488,
       "fontFamily": "NotoV1",
       "identifier": "flexedBicepsDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flexed-biceps-light-skin-tone": {
-      "codepoint": 57837,
+      "codepoint": 57489,
       "fontFamily": "NotoV1",
       "identifier": "flexedBicepsLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flexed-biceps-medium-dark-skin-tone": {
-      "codepoint": 57838,
+      "codepoint": 57490,
       "fontFamily": "NotoV1",
       "identifier": "flexedBicepsMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flexed-biceps-medium-light-skin-tone": {
-      "codepoint": 57839,
+      "codepoint": 57491,
       "fontFamily": "NotoV1",
       "identifier": "flexedBicepsMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "flexed-biceps-medium-skin-tone": {
-      "codepoint": 57840,
+      "codepoint": 57492,
       "fontFamily": "NotoV1",
       "identifier": "flexedBicepsMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "floppy-disk": {
-      "codepoint": 57490,
-      "fontFamily": "NotoV1",
-      "identifier": "floppyDisk",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "flushed-face": {
-      "codepoint": 57954,
+      "codepoint": 57493,
       "fontFamily": "NotoV1",
       "identifier": "flushedFace"
     },
     "fog": {
-      "codepoint": 57491,
+      "codepoint": 57494,
       "fontFamily": "NotoV1",
       "identifier": "fog",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "footprints": {
-      "codepoint": 57492,
+      "codepoint": 57495,
       "fontFamily": "NotoV1",
       "identifier": "footprints"
     },
     "fork-and-knife": {
-      "codepoint": 57493,
+      "codepoint": 57496,
       "fontFamily": "NotoV1",
       "identifier": "forkAndKnife"
     },
     "fork-and-knife-with-plate": {
-      "codepoint": 57494,
+      "codepoint": 57497,
       "fontFamily": "NotoV1",
       "identifier": "forkAndKnifeWithPlate",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "four-oclock": {
-      "codepoint": 57495,
-      "fontFamily": "NotoV1",
-      "identifier": "fourOclock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "fox": {
-      "codepoint": 58107,
+      "codepoint": 57498,
       "fontFamily": "NotoV1",
       "identifier": "fox"
     },
     "fox-face": {
-      "codepoint": 58108,
+      "codepoint": 57499,
       "fontFamily": "NotoV1",
       "identifier": "foxFace"
     },
     "free-button": {
-      "codepoint": 57496,
+      "codepoint": 57500,
       "fontFamily": "NotoV1",
       "identifier": "freeButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "fried-shrimp": {
-      "codepoint": 57497,
-      "fontFamily": "NotoV1",
-      "identifier": "friedShrimp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "frog": {
-      "codepoint": 57498,
-      "fontFamily": "NotoV1",
-      "identifier": "frog",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "frog-face": {
-      "codepoint": 57499,
-      "fontFamily": "NotoV1",
-      "identifier": "frogFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "frowning-face": {
-      "codepoint": 57500,
-      "fontFamily": "NotoV1",
-      "identifier": "frowningFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "frowning-face-with-open-mouth": {
-      "codepoint": 57501,
-      "fontFamily": "NotoV1",
-      "identifier": "frowningFaceWithOpenMouth",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "full-moon-face": {
-      "codepoint": 57502,
-      "fontFamily": "NotoV1",
-      "identifier": "fullMoonFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "full-moon-with-face": {
-      "codepoint": 57503,
-      "fontFamily": "NotoV1",
-      "identifier": "fullMoonWithFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "gemini": {
-      "codepoint": 57504,
+      "codepoint": 57501,
       "fontFamily": "NotoV1",
       "identifier": "gemini"
     },
-    "ghost": {
-      "codepoint": 57505,
-      "fontFamily": "NotoV1",
-      "identifier": "ghost",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "globe-with-meridians": {
-      "codepoint": 57506,
+      "codepoint": 57502,
       "fontFamily": "NotoV1",
       "identifier": "globeWithMeridians"
     },
-    "goat": {
-      "codepoint": 57507,
-      "fontFamily": "NotoV1",
-      "identifier": "goat",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "goblin": {
-      "codepoint": 57508,
-      "fontFamily": "NotoV1",
-      "identifier": "goblin",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "gorilla": {
-      "codepoint": 57841,
+      "codepoint": 57503,
       "fontFamily": "NotoV1",
       "identifier": "gorilla",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "green-book": {
-      "codepoint": 57509,
-      "fontFamily": "NotoV1",
-      "identifier": "greenBook",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "grimacing-face": {
-      "codepoint": 57510,
-      "fontFamily": "NotoV1",
-      "identifier": "grimacingFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "grinning-cat": {
-      "codepoint": 57842,
+      "codepoint": 57504,
       "fontFamily": "NotoV1",
       "identifier": "grinningCat",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "grinning-cat-face": {
-      "codepoint": 57843,
+      "codepoint": 57505,
       "fontFamily": "NotoV1",
       "identifier": "grinningCatFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "grinning-face-with-big-eyes": {
-      "codepoint": 57511,
-      "fontFamily": "NotoV1",
-      "identifier": "grinningFaceWithBigEyes",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "grinning-face-with-sweat": {
-      "codepoint": 57512,
-      "fontFamily": "NotoV1",
-      "identifier": "grinningFaceWithSweat",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "guard": {
-      "codepoint": 58109,
+      "codepoint": 57506,
       "fontFamily": "NotoV1",
       "identifier": "guard"
     },
     "guard-dark-skin-tone": {
-      "codepoint": 58110,
+      "codepoint": 57507,
       "fontFamily": "NotoV1",
       "identifier": "guardDarkSkinTone"
     },
     "guard-light-skin-tone": {
-      "codepoint": 58111,
+      "codepoint": 57508,
       "fontFamily": "NotoV1",
       "identifier": "guardLightSkinTone"
     },
     "guard-medium-dark-skin-tone": {
-      "codepoint": 58112,
+      "codepoint": 57509,
       "fontFamily": "NotoV1",
       "identifier": "guardMediumDarkSkinTone"
     },
     "guard-medium-light-skin-tone": {
-      "codepoint": 58113,
+      "codepoint": 57510,
       "fontFamily": "NotoV1",
       "identifier": "guardMediumLightSkinTone"
     },
     "guard-medium-skin-tone": {
-      "codepoint": 58114,
+      "codepoint": 57511,
       "fontFamily": "NotoV1",
       "identifier": "guardMediumSkinTone"
     },
-    "hand-with-fingers-splayed": {
-      "codepoint": 57513,
-      "fontFamily": "NotoV1",
-      "identifier": "handWithFingersSplayed",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "handbag": {
-      "codepoint": 57514,
-      "fontFamily": "NotoV1",
-      "identifier": "handbag",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "handshake": {
-      "codepoint": 57955,
+      "codepoint": 57512,
       "fontFamily": "NotoV1",
       "identifier": "handshake"
     },
-    "hatching-chick": {
-      "codepoint": 57515,
-      "fontFamily": "NotoV1",
-      "identifier": "hatchingChick",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "heart-decoration": {
-      "codepoint": 57844,
+      "codepoint": 57513,
       "fontFamily": "NotoV1",
       "identifier": "heartDecoration",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "heart-exclamation": {
-      "codepoint": 57845,
+      "codepoint": 57514,
       "fontFamily": "NotoV1",
       "identifier": "heartExclamation",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "heart-with-ribbon": {
-      "codepoint": 57846,
+      "codepoint": 57515,
       "fontFamily": "NotoV1",
       "identifier": "heartWithRibbon",
       "duotone": true,
@@ -1571,42 +1032,28 @@
       "identifier": "heavyDollarSign"
     },
     "heavy-heart-exclamation": {
-      "codepoint": 57847,
+      "codepoint": 57518,
       "fontFamily": "NotoV1",
       "identifier": "heavyHeartExclamation",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "heavy-minus-sign": {
-      "codepoint": 57518,
+      "codepoint": 57519,
       "fontFamily": "NotoV1",
       "identifier": "heavyMinusSign"
     },
     "heavy-plus-sign": {
-      "codepoint": 57519,
+      "codepoint": 57520,
       "fontFamily": "NotoV1",
       "identifier": "heavyPlusSign"
     },
-    "helicopter": {
-      "codepoint": 57520,
-      "fontFamily": "NotoV1",
-      "identifier": "helicopter",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "herb": {
-      "codepoint": 57848,
+      "codepoint": 57521,
       "fontFamily": "NotoV1",
       "identifier": "herb",
       "duotone": true,
       "duotoneKind": "paintOrder"
-    },
-    "hibiscus": {
-      "codepoint": 57521,
-      "fontFamily": "NotoV1",
-      "identifier": "hibiscus",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
     },
     "high-voltage": {
       "codepoint": 57522,
@@ -1614,119 +1061,77 @@
       "identifier": "highVoltage"
     },
     "honeybee": {
-      "codepoint": 57956,
+      "codepoint": 57523,
       "fontFamily": "NotoV1",
       "identifier": "honeybee"
     },
-    "hospital": {
-      "codepoint": 57523,
-      "fontFamily": "NotoV1",
-      "identifier": "hospital",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "hot-dog": {
-      "codepoint": 57524,
-      "fontFamily": "NotoV1",
-      "identifier": "hotDog",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "hot-springs": {
-      "codepoint": 57525,
+      "codepoint": 57524,
       "fontFamily": "NotoV1",
       "identifier": "hotSprings"
     },
     "hundred-points": {
-      "codepoint": 57526,
+      "codepoint": 57525,
       "fontFamily": "NotoV1",
       "identifier": "hundredPoints"
     },
     "hushed-face": {
-      "codepoint": 57527,
+      "codepoint": 57526,
       "fontFamily": "NotoV1",
       "identifier": "hushedFace"
     },
     "ice-skate": {
-      "codepoint": 57957,
+      "codepoint": 57527,
       "fontFamily": "NotoV1",
       "identifier": "iceSkate"
     },
     "id-button": {
-      "codepoint": 57849,
+      "codepoint": 57528,
       "fontFamily": "NotoV1",
       "identifier": "idButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "incoming-envelope": {
-      "codepoint": 57958,
+      "codepoint": 57529,
       "fontFamily": "NotoV1",
       "identifier": "incomingEnvelope"
     },
     "information": {
-      "codepoint": 57528,
+      "codepoint": 57530,
       "fontFamily": "NotoV1",
       "identifier": "information"
     },
     "input-latin-letters": {
-      "codepoint": 57529,
+      "codepoint": 57531,
       "fontFamily": "NotoV1",
       "identifier": "inputLatinLetters",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "input-latin-lowercase": {
-      "codepoint": 57530,
-      "fontFamily": "NotoV1",
-      "identifier": "inputLatinLowercase",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "input-latin-uppercase": {
-      "codepoint": 57531,
-      "fontFamily": "NotoV1",
-      "identifier": "inputLatinUppercase",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "input-numbers": {
-      "codepoint": 57532,
-      "fontFamily": "NotoV1",
-      "identifier": "inputNumbers",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "input-symbols": {
-      "codepoint": 57533,
-      "fontFamily": "NotoV1",
-      "identifier": "inputSymbols",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "japanese-acceptable-button": {
-      "codepoint": 57534,
+      "codepoint": 57532,
       "fontFamily": "NotoV1",
       "identifier": "japaneseAcceptableButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-application-button": {
-      "codepoint": 57850,
+      "codepoint": 57533,
       "fontFamily": "NotoV1",
       "identifier": "japaneseApplicationButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-bargain-button": {
-      "codepoint": 57535,
+      "codepoint": 57534,
       "fontFamily": "NotoV1",
       "identifier": "japaneseBargainButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-congratulations-button": {
-      "codepoint": 57851,
+      "codepoint": 57535,
       "fontFamily": "NotoV1",
       "identifier": "japaneseCongratulationsButton",
       "duotone": true,
@@ -1775,25 +1180,18 @@
       "duotoneKind": "paintOrder"
     },
     "japanese-open-for-business-button": {
-      "codepoint": 57852,
+      "codepoint": 57542,
       "fontFamily": "NotoV1",
       "identifier": "japaneseOpenForBusinessButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-passing-grade-button": {
-      "codepoint": 57542,
+      "codepoint": 57543,
       "fontFamily": "NotoV1",
       "identifier": "japanesePassingGradeButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
-    },
-    "japanese-post-office": {
-      "codepoint": 57543,
-      "fontFamily": "NotoV1",
-      "identifier": "japanesePostOffice",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
     },
     "japanese-prohibited-button": {
       "codepoint": 57544,
@@ -1809,3166 +1207,2529 @@
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "japanese-secret-button": {
-      "codepoint": 57546,
-      "fontFamily": "NotoV1",
-      "identifier": "japaneseSecretButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "japanese-service-charge-button": {
-      "codepoint": 57547,
+      "codepoint": 57546,
       "fontFamily": "NotoV1",
       "identifier": "japaneseServiceChargeButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "japanese-vacancy-button": {
-      "codepoint": 57548,
+      "codepoint": 57547,
       "fontFamily": "NotoV1",
       "identifier": "japaneseVacancyButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "jeans": {
-      "codepoint": 57549,
-      "fontFamily": "NotoV1",
-      "identifier": "jeans",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "joker": {
-      "codepoint": 57959,
+      "codepoint": 57548,
       "fontFamily": "NotoV1",
       "identifier": "joker"
     },
-    "joystick": {
-      "codepoint": 57550,
-      "fontFamily": "NotoV1",
-      "identifier": "joystick",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "kaaba": {
-      "codepoint": 57960,
+      "codepoint": 57549,
       "fontFamily": "NotoV1",
       "identifier": "kaaba"
     },
     "key": {
-      "codepoint": 57551,
+      "codepoint": 57550,
       "fontFamily": "NotoV1",
       "identifier": "key"
     },
     "keycap": {
-      "codepoint": 57853,
+      "codepoint": 57551,
       "fontFamily": "NotoV1",
       "identifier": "keycap",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "kissing-cat": {
-      "codepoint": 57854,
+      "codepoint": 57552,
       "fontFamily": "NotoV1",
       "identifier": "kissingCat",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "kissing-cat-face": {
-      "codepoint": 57855,
+      "codepoint": 57553,
       "fontFamily": "NotoV1",
       "identifier": "kissingCatFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "kissing-cat-face-with-closed-eyes": {
-      "codepoint": 57856,
+      "codepoint": 57554,
       "fontFamily": "NotoV1",
       "identifier": "kissingCatFaceWithClosedEyes",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "kissing-face": {
-      "codepoint": 57552,
+      "codepoint": 57555,
       "fontFamily": "NotoV1",
       "identifier": "kissingFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "kissing-face-with-smiling-eyes": {
-      "codepoint": 57553,
+      "codepoint": 57556,
       "fontFamily": "NotoV1",
       "identifier": "kissingFaceWithSmilingEyes",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "label": {
-      "codepoint": 57961,
+      "codepoint": 57557,
       "fontFamily": "NotoV1",
       "identifier": "label"
     },
     "large-blue-diamond": {
-      "codepoint": 57554,
+      "codepoint": 57558,
       "fontFamily": "NotoV1",
       "identifier": "largeBlueDiamond"
     },
     "last-quarter-moon-face": {
-      "codepoint": 57555,
+      "codepoint": 57559,
       "fontFamily": "NotoV1",
       "identifier": "lastQuarterMoonFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "last-quarter-moon-with-face": {
-      "codepoint": 57556,
+      "codepoint": 57560,
       "fontFamily": "NotoV1",
       "identifier": "lastQuarterMoonWithFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "last-track-button": {
-      "codepoint": 57557,
+      "codepoint": 57561,
       "fontFamily": "NotoV1",
       "identifier": "lastTrackButton"
     },
     "leaf-fluttering-in-wind": {
-      "codepoint": 57857,
+      "codepoint": 57562,
       "fontFamily": "NotoV1",
       "identifier": "leafFlutteringInWind",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-arrow": {
-      "codepoint": 57558,
+      "codepoint": 57563,
       "fontFamily": "NotoV1",
       "identifier": "leftArrow"
     },
     "left-arrow-curving-right": {
-      "codepoint": 57559,
+      "codepoint": 57564,
       "fontFamily": "NotoV1",
       "identifier": "leftArrowCurvingRight"
     },
     "left-facing-fist": {
-      "codepoint": 57560,
+      "codepoint": 57565,
       "fontFamily": "NotoV1",
       "identifier": "leftFacingFist",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-facing-fist-dark-skin-tone": {
-      "codepoint": 57858,
+      "codepoint": 57566,
       "fontFamily": "NotoV1",
       "identifier": "leftFacingFistDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-facing-fist-light-skin-tone": {
-      "codepoint": 57859,
+      "codepoint": 57567,
       "fontFamily": "NotoV1",
       "identifier": "leftFacingFistLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-facing-fist-medium-dark-skin-tone": {
-      "codepoint": 57860,
+      "codepoint": 57568,
       "fontFamily": "NotoV1",
       "identifier": "leftFacingFistMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-facing-fist-medium-light-skin-tone": {
-      "codepoint": 57861,
+      "codepoint": 57569,
       "fontFamily": "NotoV1",
       "identifier": "leftFacingFistMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "left-facing-fist-medium-skin-tone": {
-      "codepoint": 57862,
+      "codepoint": 57570,
       "fontFamily": "NotoV1",
       "identifier": "leftFacingFistMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "left-luggage": {
-      "codepoint": 57561,
-      "fontFamily": "NotoV1",
-      "identifier": "leftLuggage",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "left-right-arrow": {
-      "codepoint": 57562,
+      "codepoint": 57571,
       "fontFamily": "NotoV1",
       "identifier": "leftRightArrow"
     },
     "left-speech-bubble": {
-      "codepoint": 57563,
+      "codepoint": 57572,
       "fontFamily": "NotoV1",
       "identifier": "leftSpeechBubble"
     },
     "leo": {
-      "codepoint": 57564,
+      "codepoint": 57573,
       "fontFamily": "NotoV1",
       "identifier": "leo"
     },
     "letter-a": {
-      "codepoint": 57565,
+      "codepoint": 57574,
       "fontFamily": "NotoV1",
       "identifier": "letterA"
     },
     "letter-b": {
-      "codepoint": 57566,
+      "codepoint": 57575,
       "fontFamily": "NotoV1",
       "identifier": "letterB"
     },
     "letter-c": {
-      "codepoint": 57567,
+      "codepoint": 57576,
       "fontFamily": "NotoV1",
       "identifier": "letterC"
     },
     "letter-d": {
-      "codepoint": 57568,
+      "codepoint": 57577,
       "fontFamily": "NotoV1",
       "identifier": "letterD"
     },
     "letter-e": {
-      "codepoint": 57569,
+      "codepoint": 57578,
       "fontFamily": "NotoV1",
       "identifier": "letterE"
     },
     "letter-f": {
-      "codepoint": 57570,
+      "codepoint": 57579,
       "fontFamily": "NotoV1",
       "identifier": "letterF"
     },
     "letter-g": {
-      "codepoint": 57571,
+      "codepoint": 57580,
       "fontFamily": "NotoV1",
       "identifier": "letterG"
     },
     "letter-h": {
-      "codepoint": 57572,
+      "codepoint": 57581,
       "fontFamily": "NotoV1",
       "identifier": "letterH"
     },
     "letter-i": {
-      "codepoint": 57573,
+      "codepoint": 57582,
       "fontFamily": "NotoV1",
       "identifier": "letterI"
     },
     "letter-j": {
-      "codepoint": 57574,
+      "codepoint": 57583,
       "fontFamily": "NotoV1",
       "identifier": "letterJ"
     },
     "letter-k": {
-      "codepoint": 57575,
+      "codepoint": 57584,
       "fontFamily": "NotoV1",
       "identifier": "letterK"
     },
     "letter-l": {
-      "codepoint": 57576,
+      "codepoint": 57585,
       "fontFamily": "NotoV1",
       "identifier": "letterL"
     },
     "letter-m": {
-      "codepoint": 57577,
+      "codepoint": 57586,
       "fontFamily": "NotoV1",
       "identifier": "letterM"
     },
     "letter-n": {
-      "codepoint": 57578,
+      "codepoint": 57587,
       "fontFamily": "NotoV1",
       "identifier": "letterN"
     },
     "letter-o": {
-      "codepoint": 57579,
+      "codepoint": 57588,
       "fontFamily": "NotoV1",
       "identifier": "letterO"
     },
     "letter-p": {
-      "codepoint": 57580,
+      "codepoint": 57589,
       "fontFamily": "NotoV1",
       "identifier": "letterP"
     },
     "letter-q": {
-      "codepoint": 57581,
+      "codepoint": 57590,
       "fontFamily": "NotoV1",
       "identifier": "letterQ"
     },
     "letter-r": {
-      "codepoint": 57582,
+      "codepoint": 57591,
       "fontFamily": "NotoV1",
       "identifier": "letterR"
     },
     "letter-s": {
-      "codepoint": 57583,
+      "codepoint": 57592,
       "fontFamily": "NotoV1",
       "identifier": "letterS"
     },
     "letter-t": {
-      "codepoint": 57584,
+      "codepoint": 57593,
       "fontFamily": "NotoV1",
       "identifier": "letterT"
     },
     "letter-u": {
-      "codepoint": 57585,
+      "codepoint": 57594,
       "fontFamily": "NotoV1",
       "identifier": "letterU"
     },
     "letter-v": {
-      "codepoint": 57586,
+      "codepoint": 57595,
       "fontFamily": "NotoV1",
       "identifier": "letterV"
     },
     "letter-w": {
-      "codepoint": 57587,
+      "codepoint": 57596,
       "fontFamily": "NotoV1",
       "identifier": "letterW"
     },
     "letter-x": {
-      "codepoint": 57588,
+      "codepoint": 57597,
       "fontFamily": "NotoV1",
       "identifier": "letterX"
     },
     "letter-y": {
-      "codepoint": 57589,
+      "codepoint": 57598,
       "fontFamily": "NotoV1",
       "identifier": "letterY"
     },
     "letter-z": {
-      "codepoint": 57590,
+      "codepoint": 57599,
       "fontFamily": "NotoV1",
       "identifier": "letterZ"
     },
     "libra": {
-      "codepoint": 57591,
+      "codepoint": 57600,
       "fontFamily": "NotoV1",
       "identifier": "libra"
     },
     "light-skin-tone": {
-      "codepoint": 57592,
+      "codepoint": 57601,
       "fontFamily": "NotoV1",
       "identifier": "lightSkinTone"
     },
-    "link": {
-      "codepoint": 57593,
-      "fontFamily": "NotoV1",
-      "identifier": "link",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "lion": {
-      "codepoint": 58115,
+      "codepoint": 57602,
       "fontFamily": "NotoV1",
       "identifier": "lion"
     },
     "lion-face": {
-      "codepoint": 58116,
+      "codepoint": 57603,
       "fontFamily": "NotoV1",
       "identifier": "lionFace"
     },
     "lizard": {
-      "codepoint": 57863,
+      "codepoint": 57604,
       "fontFamily": "NotoV1",
       "identifier": "lizard",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "locked": {
-      "codepoint": 57594,
-      "fontFamily": "NotoV1",
-      "identifier": "locked",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "locomotive": {
-      "codepoint": 57595,
-      "fontFamily": "NotoV1",
-      "identifier": "locomotive",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "loudly-crying-face": {
-      "codepoint": 57596,
-      "fontFamily": "NotoV1",
-      "identifier": "loudlyCryingFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "loudspeaker": {
-      "codepoint": 57597,
-      "fontFamily": "NotoV1",
-      "identifier": "loudspeaker",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "lying-face": {
-      "codepoint": 57962,
+      "codepoint": 57605,
       "fontFamily": "NotoV1",
       "identifier": "lyingFace"
     },
-    "mahjong-red-dragon": {
-      "codepoint": 57598,
-      "fontFamily": "NotoV1",
-      "identifier": "mahjongRedDragon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "male-sign": {
-      "codepoint": 57599,
+      "codepoint": 57606,
       "fontFamily": "NotoV1",
       "identifier": "maleSign"
     },
     "man-biking": {
-      "codepoint": 58117,
+      "codepoint": 57607,
       "fontFamily": "NotoV1",
       "identifier": "manBiking"
     },
     "man-biking-dark-skin-tone": {
-      "codepoint": 58118,
+      "codepoint": 57608,
       "fontFamily": "NotoV1",
       "identifier": "manBikingDarkSkinTone"
     },
     "man-biking-light-skin-tone": {
-      "codepoint": 58119,
+      "codepoint": 57609,
       "fontFamily": "NotoV1",
       "identifier": "manBikingLightSkinTone"
     },
     "man-biking-medium-dark-skin-tone": {
-      "codepoint": 58120,
+      "codepoint": 57610,
       "fontFamily": "NotoV1",
       "identifier": "manBikingMediumDarkSkinTone"
     },
     "man-biking-medium-light-skin-tone": {
-      "codepoint": 58121,
+      "codepoint": 57611,
       "fontFamily": "NotoV1",
       "identifier": "manBikingMediumLightSkinTone"
     },
     "man-biking-medium-skin-tone": {
-      "codepoint": 58122,
+      "codepoint": 57612,
       "fontFamily": "NotoV1",
       "identifier": "manBikingMediumSkinTone"
     },
     "man-bowing": {
-      "codepoint": 57963,
+      "codepoint": 57613,
       "fontFamily": "NotoV1",
       "identifier": "manBowing",
       "duotone": true
     },
     "man-bowing-dark-skin-tone": {
-      "codepoint": 57964,
+      "codepoint": 57614,
       "fontFamily": "NotoV1",
       "identifier": "manBowingDarkSkinTone",
       "duotone": true
     },
     "man-bowing-light-skin-tone": {
-      "codepoint": 57965,
+      "codepoint": 57615,
       "fontFamily": "NotoV1",
       "identifier": "manBowingLightSkinTone",
       "duotone": true
     },
     "man-bowing-medium-dark-skin-tone": {
-      "codepoint": 57966,
+      "codepoint": 57616,
       "fontFamily": "NotoV1",
       "identifier": "manBowingMediumDarkSkinTone",
       "duotone": true
     },
     "man-bowing-medium-light-skin-tone": {
-      "codepoint": 57967,
+      "codepoint": 57617,
       "fontFamily": "NotoV1",
       "identifier": "manBowingMediumLightSkinTone",
       "duotone": true
     },
     "man-bowing-medium-skin-tone": {
-      "codepoint": 57968,
+      "codepoint": 57618,
       "fontFamily": "NotoV1",
       "identifier": "manBowingMediumSkinTone",
       "duotone": true
     },
     "man-farmer": {
-      "codepoint": 57969,
+      "codepoint": 57619,
       "fontFamily": "NotoV1",
       "identifier": "manFarmer"
     },
     "man-farmer-dark-skin-tone": {
-      "codepoint": 57970,
+      "codepoint": 57620,
       "fontFamily": "NotoV1",
       "identifier": "manFarmerDarkSkinTone"
     },
     "man-farmer-light-skin-tone": {
-      "codepoint": 57971,
+      "codepoint": 57621,
       "fontFamily": "NotoV1",
       "identifier": "manFarmerLightSkinTone"
     },
     "man-farmer-medium-dark-skin-tone": {
-      "codepoint": 57972,
+      "codepoint": 57622,
       "fontFamily": "NotoV1",
       "identifier": "manFarmerMediumDarkSkinTone"
     },
     "man-farmer-medium-light-skin-tone": {
-      "codepoint": 57973,
+      "codepoint": 57623,
       "fontFamily": "NotoV1",
       "identifier": "manFarmerMediumLightSkinTone"
     },
     "man-farmer-medium-skin-tone": {
-      "codepoint": 57974,
+      "codepoint": 57624,
       "fontFamily": "NotoV1",
       "identifier": "manFarmerMediumSkinTone"
     },
     "man-guard": {
-      "codepoint": 58123,
+      "codepoint": 57625,
       "fontFamily": "NotoV1",
       "identifier": "manGuard"
     },
     "man-guard-dark-skin-tone": {
-      "codepoint": 58124,
+      "codepoint": 57626,
       "fontFamily": "NotoV1",
       "identifier": "manGuardDarkSkinTone"
     },
     "man-guard-light-skin-tone": {
-      "codepoint": 58125,
+      "codepoint": 57627,
       "fontFamily": "NotoV1",
       "identifier": "manGuardLightSkinTone"
     },
     "man-guard-medium-dark-skin-tone": {
-      "codepoint": 58126,
+      "codepoint": 57628,
       "fontFamily": "NotoV1",
       "identifier": "manGuardMediumDarkSkinTone"
     },
     "man-guard-medium-light-skin-tone": {
-      "codepoint": 58127,
+      "codepoint": 57629,
       "fontFamily": "NotoV1",
       "identifier": "manGuardMediumLightSkinTone"
     },
     "man-guard-medium-skin-tone": {
-      "codepoint": 58128,
+      "codepoint": 57630,
       "fontFamily": "NotoV1",
       "identifier": "manGuardMediumSkinTone"
     },
     "man-health-worker": {
-      "codepoint": 58129,
+      "codepoint": 57631,
       "fontFamily": "NotoV1",
       "identifier": "manHealthWorker"
     },
     "man-health-worker-dark-skin-tone": {
-      "codepoint": 58130,
+      "codepoint": 57632,
       "fontFamily": "NotoV1",
       "identifier": "manHealthWorkerDarkSkinTone"
     },
     "man-health-worker-light-skin-tone": {
-      "codepoint": 58131,
+      "codepoint": 57633,
       "fontFamily": "NotoV1",
       "identifier": "manHealthWorkerLightSkinTone"
     },
     "man-health-worker-medium-dark-skin-tone": {
-      "codepoint": 58132,
+      "codepoint": 57634,
       "fontFamily": "NotoV1",
       "identifier": "manHealthWorkerMediumDarkSkinTone"
     },
     "man-health-worker-medium-light-skin-tone": {
-      "codepoint": 58133,
+      "codepoint": 57635,
       "fontFamily": "NotoV1",
       "identifier": "manHealthWorkerMediumLightSkinTone"
     },
     "man-health-worker-medium-skin-tone": {
-      "codepoint": 58134,
+      "codepoint": 57636,
       "fontFamily": "NotoV1",
       "identifier": "manHealthWorkerMediumSkinTone"
     },
     "man-in-business-suit-levitating": {
-      "codepoint": 57975,
+      "codepoint": 57637,
       "fontFamily": "NotoV1",
       "identifier": "manInBusinessSuitLevitating"
     },
     "man-in-suit-levitating": {
-      "codepoint": 57976,
+      "codepoint": 57638,
       "fontFamily": "NotoV1",
       "identifier": "manInSuitLevitating"
     },
     "man-mountain-biking": {
-      "codepoint": 57977,
+      "codepoint": 57639,
       "fontFamily": "NotoV1",
       "identifier": "manMountainBiking"
     },
     "man-mountain-biking-dark-skin-tone": {
-      "codepoint": 57978,
+      "codepoint": 57640,
       "fontFamily": "NotoV1",
       "identifier": "manMountainBikingDarkSkinTone"
     },
     "man-mountain-biking-light-skin-tone": {
-      "codepoint": 57979,
+      "codepoint": 57641,
       "fontFamily": "NotoV1",
       "identifier": "manMountainBikingLightSkinTone"
     },
     "man-mountain-biking-medium-dark-skin-tone": {
-      "codepoint": 57980,
+      "codepoint": 57642,
       "fontFamily": "NotoV1",
       "identifier": "manMountainBikingMediumDarkSkinTone"
     },
     "man-mountain-biking-medium-light-skin-tone": {
-      "codepoint": 57981,
+      "codepoint": 57643,
       "fontFamily": "NotoV1",
       "identifier": "manMountainBikingMediumLightSkinTone"
     },
     "man-mountain-biking-medium-skin-tone": {
-      "codepoint": 57982,
+      "codepoint": 57644,
       "fontFamily": "NotoV1",
       "identifier": "manMountainBikingMediumSkinTone"
     },
     "man-playing-water-polo": {
-      "codepoint": 57983,
+      "codepoint": 57645,
       "fontFamily": "NotoV1",
       "identifier": "manPlayingWaterPolo"
     },
     "man-playing-water-polo-dark-skin-tone": {
-      "codepoint": 57984,
+      "codepoint": 57646,
       "fontFamily": "NotoV1",
       "identifier": "manPlayingWaterPoloDarkSkinTone"
     },
     "man-playing-water-polo-light-skin-tone": {
-      "codepoint": 57985,
+      "codepoint": 57647,
       "fontFamily": "NotoV1",
       "identifier": "manPlayingWaterPoloLightSkinTone"
     },
     "man-playing-water-polo-medium-dark-skin-tone": {
-      "codepoint": 57986,
+      "codepoint": 57648,
       "fontFamily": "NotoV1",
       "identifier": "manPlayingWaterPoloMediumDarkSkinTone"
     },
     "man-playing-water-polo-medium-light-skin-tone": {
-      "codepoint": 57987,
+      "codepoint": 57649,
       "fontFamily": "NotoV1",
       "identifier": "manPlayingWaterPoloMediumLightSkinTone"
     },
     "man-playing-water-polo-medium-skin-tone": {
-      "codepoint": 57988,
+      "codepoint": 57650,
       "fontFamily": "NotoV1",
       "identifier": "manPlayingWaterPoloMediumSkinTone"
     },
     "man-singer": {
-      "codepoint": 57989,
+      "codepoint": 57651,
       "fontFamily": "NotoV1",
       "identifier": "manSinger"
     },
     "man-singer-dark-skin-tone": {
-      "codepoint": 57990,
+      "codepoint": 57652,
       "fontFamily": "NotoV1",
       "identifier": "manSingerDarkSkinTone"
     },
     "man-singer-light-skin-tone": {
-      "codepoint": 57991,
+      "codepoint": 57653,
       "fontFamily": "NotoV1",
       "identifier": "manSingerLightSkinTone"
     },
     "man-singer-medium-dark-skin-tone": {
-      "codepoint": 57992,
+      "codepoint": 57654,
       "fontFamily": "NotoV1",
       "identifier": "manSingerMediumDarkSkinTone"
     },
     "man-singer-medium-light-skin-tone": {
-      "codepoint": 57993,
+      "codepoint": 57655,
       "fontFamily": "NotoV1",
       "identifier": "manSingerMediumLightSkinTone"
     },
     "man-singer-medium-skin-tone": {
-      "codepoint": 57994,
+      "codepoint": 57656,
       "fontFamily": "NotoV1",
       "identifier": "manSingerMediumSkinTone"
     },
     "man-teacher": {
-      "codepoint": 57995,
+      "codepoint": 57657,
       "fontFamily": "NotoV1",
       "identifier": "manTeacher"
     },
     "man-teacher-dark-skin-tone": {
-      "codepoint": 57996,
+      "codepoint": 57658,
       "fontFamily": "NotoV1",
       "identifier": "manTeacherDarkSkinTone"
     },
     "man-teacher-light-skin-tone": {
-      "codepoint": 57997,
+      "codepoint": 57659,
       "fontFamily": "NotoV1",
       "identifier": "manTeacherLightSkinTone"
     },
     "man-teacher-medium-dark-skin-tone": {
-      "codepoint": 57998,
+      "codepoint": 57660,
       "fontFamily": "NotoV1",
       "identifier": "manTeacherMediumDarkSkinTone"
     },
     "man-teacher-medium-light-skin-tone": {
-      "codepoint": 57999,
+      "codepoint": 57661,
       "fontFamily": "NotoV1",
       "identifier": "manTeacherMediumLightSkinTone"
     },
     "man-teacher-medium-skin-tone": {
-      "codepoint": 58000,
+      "codepoint": 57662,
       "fontFamily": "NotoV1",
       "identifier": "manTeacherMediumSkinTone"
     },
     "meat-on-bone": {
-      "codepoint": 57864,
+      "codepoint": 57663,
       "fontFamily": "NotoV1",
       "identifier": "meatOnBone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "medium-light-skin-tone": {
-      "codepoint": 57600,
+      "codepoint": 57664,
       "fontFamily": "NotoV1",
       "identifier": "mediumLightSkinTone"
     },
     "medium-skin-tone": {
-      "codepoint": 57601,
+      "codepoint": 57665,
       "fontFamily": "NotoV1",
       "identifier": "mediumSkinTone"
     },
     "memo": {
-      "codepoint": 58001,
+      "codepoint": 57666,
       "fontFamily": "NotoV1",
       "identifier": "memo"
     },
     "menorah": {
-      "codepoint": 58135,
+      "codepoint": 57667,
       "fontFamily": "NotoV1",
       "identifier": "menorah"
     },
     "mens-room": {
-      "codepoint": 57602,
+      "codepoint": 57668,
       "fontFamily": "NotoV1",
       "identifier": "mensRoom"
     },
     "microphone": {
-      "codepoint": 57865,
+      "codepoint": 57669,
       "fontFamily": "NotoV1",
       "identifier": "microphone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "middle-finger": {
-      "codepoint": 57603,
-      "fontFamily": "NotoV1",
-      "identifier": "middleFinger",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "military-medal": {
-      "codepoint": 58136,
+      "codepoint": 57670,
       "fontFamily": "NotoV1",
       "identifier": "militaryMedal"
     },
-    "milky-way": {
-      "codepoint": 57604,
-      "fontFamily": "NotoV1",
-      "identifier": "milkyWay",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "minibus": {
-      "codepoint": 57605,
-      "fontFamily": "NotoV1",
-      "identifier": "minibus",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "minus": {
-      "codepoint": 57606,
+      "codepoint": 57671,
       "fontFamily": "NotoV1",
       "identifier": "minus"
     },
     "minus-sign": {
-      "codepoint": 57607,
+      "codepoint": 57672,
       "fontFamily": "NotoV1",
       "identifier": "minusSign"
     },
-    "moai": {
-      "codepoint": 57608,
-      "fontFamily": "NotoV1",
-      "identifier": "moai",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "mobile-phone-off": {
-      "codepoint": 57609,
-      "fontFamily": "NotoV1",
-      "identifier": "mobilePhoneOff",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "money-mouth-face": {
-      "codepoint": 57610,
+      "codepoint": 57673,
       "fontFamily": "NotoV1",
       "identifier": "moneyMouthFace"
     },
     "money-with-wings": {
-      "codepoint": 58002,
+      "codepoint": 57674,
       "fontFamily": "NotoV1",
       "identifier": "moneyWithWings"
     },
     "motor-boat": {
-      "codepoint": 58003,
+      "codepoint": 57675,
       "fontFamily": "NotoV1",
       "identifier": "motorBoat"
     },
     "motor-scooter": {
-      "codepoint": 58004,
+      "codepoint": 57676,
       "fontFamily": "NotoV1",
       "identifier": "motorScooter"
     },
     "motorcycle": {
-      "codepoint": 57611,
+      "codepoint": 57677,
       "fontFamily": "NotoV1",
       "identifier": "motorcycle"
     },
     "motorway": {
-      "codepoint": 58005,
+      "codepoint": 57678,
       "fontFamily": "NotoV1",
       "identifier": "motorway"
     },
     "mount-fuji": {
-      "codepoint": 57612,
+      "codepoint": 57679,
       "fontFamily": "NotoV1",
       "identifier": "mountFuji",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "mountain": {
-      "codepoint": 57613,
-      "fontFamily": "NotoV1",
-      "identifier": "mountain",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "mountain-cableway": {
-      "codepoint": 57614,
-      "fontFamily": "NotoV1",
-      "identifier": "mountainCableway",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "mouse": {
-      "codepoint": 57615,
-      "fontFamily": "NotoV1",
-      "identifier": "mouse",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "mouse-face": {
-      "codepoint": 57616,
-      "fontFamily": "NotoV1",
-      "identifier": "mouseFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "movie-camera": {
-      "codepoint": 57866,
+      "codepoint": 57680,
       "fontFamily": "NotoV1",
       "identifier": "movieCamera",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "musical-note": {
-      "codepoint": 57617,
+      "codepoint": 57681,
       "fontFamily": "NotoV1",
       "identifier": "musicalNote"
     },
     "nauseated-face": {
-      "codepoint": 57618,
+      "codepoint": 57682,
       "fontFamily": "NotoV1",
       "identifier": "nauseatedFace"
     },
     "nerd-face": {
-      "codepoint": 58006,
+      "codepoint": 57683,
       "fontFamily": "NotoV1",
       "identifier": "nerdFace"
     },
     "neutral-face": {
-      "codepoint": 57619,
+      "codepoint": 57684,
       "fontFamily": "NotoV1",
       "identifier": "neutralFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "new-button": {
-      "codepoint": 57620,
+      "codepoint": 57685,
       "fontFamily": "NotoV1",
       "identifier": "newButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "new-moon": {
-      "codepoint": 57621,
+      "codepoint": 57686,
       "fontFamily": "NotoV1",
       "identifier": "newMoon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "new-moon-face": {
-      "codepoint": 57622,
-      "fontFamily": "NotoV1",
-      "identifier": "newMoonFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "newspaper": {
-      "codepoint": 58007,
+      "codepoint": 57687,
       "fontFamily": "NotoV1",
       "identifier": "newspaper"
     },
     "next-track-button": {
-      "codepoint": 57623,
+      "codepoint": 57688,
       "fontFamily": "NotoV1",
       "identifier": "nextTrackButton"
     },
     "ng-button": {
-      "codepoint": 57624,
+      "codepoint": 57689,
       "fontFamily": "NotoV1",
       "identifier": "ngButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "night-with-stars": {
-      "codepoint": 57625,
+      "codepoint": 57690,
       "fontFamily": "NotoV1",
       "identifier": "nightWithStars",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "nine-oclock": {
-      "codepoint": 57626,
-      "fontFamily": "NotoV1",
-      "identifier": "nineOclock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "no-entry": {
-      "codepoint": 57627,
+      "codepoint": 57691,
       "fontFamily": "NotoV1",
       "identifier": "noEntry",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nose": {
-      "codepoint": 57628,
+      "codepoint": 57692,
       "fontFamily": "NotoV1",
       "identifier": "nose",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nose-dark-skin-tone": {
-      "codepoint": 57867,
+      "codepoint": 57693,
       "fontFamily": "NotoV1",
       "identifier": "noseDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nose-light-skin-tone": {
-      "codepoint": 57868,
+      "codepoint": 57694,
       "fontFamily": "NotoV1",
       "identifier": "noseLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nose-medium-dark-skin-tone": {
-      "codepoint": 57869,
+      "codepoint": 57695,
       "fontFamily": "NotoV1",
       "identifier": "noseMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nose-medium-light-skin-tone": {
-      "codepoint": 57870,
+      "codepoint": 57696,
       "fontFamily": "NotoV1",
       "identifier": "noseMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "nose-medium-skin-tone": {
-      "codepoint": 57871,
+      "codepoint": 57697,
       "fontFamily": "NotoV1",
       "identifier": "noseMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "notebook": {
-      "codepoint": 57629,
-      "fontFamily": "NotoV1",
-      "identifier": "notebook",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "nut-and-bolt": {
-      "codepoint": 57630,
-      "fontFamily": "NotoV1",
-      "identifier": "nutAndBolt",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "o-button": {
-      "codepoint": 57872,
+      "codepoint": 57698,
       "fontFamily": "NotoV1",
       "identifier": "oButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "o-button-blood-type": {
-      "codepoint": 57873,
+      "codepoint": 57699,
       "fontFamily": "NotoV1",
       "identifier": "oButtonBloodType",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "office-building": {
-      "codepoint": 57631,
+      "codepoint": 57700,
       "fontFamily": "NotoV1",
       "identifier": "officeBuilding",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "ogre": {
-      "codepoint": 57632,
-      "fontFamily": "NotoV1",
-      "identifier": "ogre",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "oil-drum": {
-      "codepoint": 57633,
+      "codepoint": 57701,
       "fontFamily": "NotoV1",
       "identifier": "oilDrum"
     },
     "ok-button": {
-      "codepoint": 57634,
+      "codepoint": 57702,
       "fontFamily": "NotoV1",
       "identifier": "okButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ok-hand": {
-      "codepoint": 57635,
+      "codepoint": 57703,
       "fontFamily": "NotoV1",
       "identifier": "okHand",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ok-hand-dark-skin-tone": {
-      "codepoint": 57874,
+      "codepoint": 57704,
       "fontFamily": "NotoV1",
       "identifier": "okHandDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ok-hand-light-skin-tone": {
-      "codepoint": 57875,
+      "codepoint": 57705,
       "fontFamily": "NotoV1",
       "identifier": "okHandLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ok-hand-medium-dark-skin-tone": {
-      "codepoint": 57876,
+      "codepoint": 57706,
       "fontFamily": "NotoV1",
       "identifier": "okHandMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ok-hand-medium-light-skin-tone": {
-      "codepoint": 57877,
+      "codepoint": 57707,
       "fontFamily": "NotoV1",
       "identifier": "okHandMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ok-hand-medium-skin-tone": {
-      "codepoint": 57878,
+      "codepoint": 57708,
       "fontFamily": "NotoV1",
       "identifier": "okHandMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "old-key": {
-      "codepoint": 57879,
+      "codepoint": 57709,
       "fontFamily": "NotoV1",
       "identifier": "oldKey",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "on-arrow": {
-      "codepoint": 57636,
+      "codepoint": 57710,
       "fontFamily": "NotoV1",
       "identifier": "onArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "on-exclamation-arrow": {
-      "codepoint": 57637,
+      "codepoint": 57711,
       "fontFamily": "NotoV1",
       "identifier": "onExclamationArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "oncoming-automobile": {
-      "codepoint": 57638,
-      "fontFamily": "NotoV1",
-      "identifier": "oncomingAutomobile",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "oncoming-fist": {
-      "codepoint": 57639,
+      "codepoint": 57712,
       "fontFamily": "NotoV1",
       "identifier": "oncomingFist",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "oncoming-fist-dark-skin-tone": {
-      "codepoint": 57880,
+      "codepoint": 57713,
       "fontFamily": "NotoV1",
       "identifier": "oncomingFistDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "oncoming-fist-light-skin-tone": {
-      "codepoint": 57881,
+      "codepoint": 57714,
       "fontFamily": "NotoV1",
       "identifier": "oncomingFistLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "oncoming-fist-medium-dark-skin-tone": {
-      "codepoint": 57882,
+      "codepoint": 57715,
       "fontFamily": "NotoV1",
       "identifier": "oncomingFistMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "oncoming-fist-medium-light-skin-tone": {
-      "codepoint": 57883,
+      "codepoint": 57716,
       "fontFamily": "NotoV1",
       "identifier": "oncomingFistMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "oncoming-fist-medium-skin-tone": {
-      "codepoint": 57884,
+      "codepoint": 57717,
       "fontFamily": "NotoV1",
       "identifier": "oncomingFistMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "oncoming-police-car": {
-      "codepoint": 57640,
-      "fontFamily": "NotoV1",
-      "identifier": "oncomingPoliceCar",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "oncoming-taxi": {
-      "codepoint": 57641,
-      "fontFamily": "NotoV1",
-      "identifier": "oncomingTaxi",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "one-oclock": {
-      "codepoint": 57642,
-      "fontFamily": "NotoV1",
-      "identifier": "oneOclock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "open-book": {
-      "codepoint": 57643,
-      "fontFamily": "NotoV1",
-      "identifier": "openBook",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "open-file-folder": {
-      "codepoint": 57644,
+      "codepoint": 57718,
       "fontFamily": "NotoV1",
       "identifier": "openFileFolder",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-hands": {
-      "codepoint": 57645,
+      "codepoint": 57719,
       "fontFamily": "NotoV1",
       "identifier": "openHands",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-hands-dark-skin-tone": {
-      "codepoint": 57885,
+      "codepoint": 57720,
       "fontFamily": "NotoV1",
       "identifier": "openHandsDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-hands-light-skin-tone": {
-      "codepoint": 57886,
+      "codepoint": 57721,
       "fontFamily": "NotoV1",
       "identifier": "openHandsLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-hands-medium-dark-skin-tone": {
-      "codepoint": 57887,
+      "codepoint": 57722,
       "fontFamily": "NotoV1",
       "identifier": "openHandsMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-hands-medium-light-skin-tone": {
-      "codepoint": 57888,
+      "codepoint": 57723,
       "fontFamily": "NotoV1",
       "identifier": "openHandsMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "open-hands-medium-skin-tone": {
-      "codepoint": 57889,
+      "codepoint": 57724,
       "fontFamily": "NotoV1",
       "identifier": "openHandsMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ophiuchus": {
-      "codepoint": 57646,
+      "codepoint": 57725,
       "fontFamily": "NotoV1",
       "identifier": "ophiuchus"
     },
-    "optical-disk": {
-      "codepoint": 57647,
-      "fontFamily": "NotoV1",
-      "identifier": "opticalDisk",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "orange-book": {
-      "codepoint": 57648,
-      "fontFamily": "NotoV1",
-      "identifier": "orangeBook",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "owl": {
-      "codepoint": 58137,
+      "codepoint": 57726,
       "fontFamily": "NotoV1",
       "identifier": "owl"
     },
     "p-button": {
-      "codepoint": 57649,
+      "codepoint": 57727,
       "fontFamily": "NotoV1",
       "identifier": "pButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "page-facing-up": {
-      "codepoint": 58008,
+      "codepoint": 57728,
       "fontFamily": "NotoV1",
       "identifier": "pageFacingUp"
     },
     "page-with-curl": {
-      "codepoint": 58009,
+      "codepoint": 57729,
       "fontFamily": "NotoV1",
       "identifier": "pageWithCurl"
     },
-    "pager": {
-      "codepoint": 57650,
-      "fontFamily": "NotoV1",
-      "identifier": "pager",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "panda": {
-      "codepoint": 57651,
+      "codepoint": 57730,
       "fontFamily": "NotoV1",
       "identifier": "panda",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "panda-face": {
-      "codepoint": 57652,
+      "codepoint": 57731,
       "fontFamily": "NotoV1",
       "identifier": "pandaFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "paperclip": {
-      "codepoint": 57653,
+      "codepoint": 57732,
       "fontFamily": "NotoV1",
       "identifier": "paperclip"
     },
     "part-alternation-mark": {
-      "codepoint": 57654,
+      "codepoint": 57733,
       "fontFamily": "NotoV1",
       "identifier": "partAlternationMark"
     },
-    "passenger-ship": {
-      "codepoint": 57655,
-      "fontFamily": "NotoV1",
-      "identifier": "passengerShip",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "passport-control": {
-      "codepoint": 57656,
-      "fontFamily": "NotoV1",
-      "identifier": "passportControl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "pause-button": {
-      "codepoint": 57657,
+      "codepoint": 57734,
       "fontFamily": "NotoV1",
       "identifier": "pauseButton"
     },
     "paw-prints": {
-      "codepoint": 57658,
+      "codepoint": 57735,
       "fontFamily": "NotoV1",
       "identifier": "pawPrints"
     },
     "peace-symbol": {
-      "codepoint": 58010,
+      "codepoint": 57736,
       "fontFamily": "NotoV1",
       "identifier": "peaceSymbol"
     },
     "peanuts": {
-      "codepoint": 58011,
+      "codepoint": 57737,
       "fontFamily": "NotoV1",
       "identifier": "peanuts"
     },
     "pensive-face": {
-      "codepoint": 57659,
+      "codepoint": 57738,
       "fontFamily": "NotoV1",
       "identifier": "pensiveFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "person-biking": {
-      "codepoint": 58138,
+      "codepoint": 57739,
       "fontFamily": "NotoV1",
       "identifier": "personBiking"
     },
     "person-biking-dark-skin-tone": {
-      "codepoint": 58139,
+      "codepoint": 57740,
       "fontFamily": "NotoV1",
       "identifier": "personBikingDarkSkinTone"
     },
     "person-biking-light-skin-tone": {
-      "codepoint": 58140,
+      "codepoint": 57741,
       "fontFamily": "NotoV1",
       "identifier": "personBikingLightSkinTone"
     },
     "person-biking-medium-dark-skin-tone": {
-      "codepoint": 58141,
+      "codepoint": 57742,
       "fontFamily": "NotoV1",
       "identifier": "personBikingMediumDarkSkinTone"
     },
     "person-biking-medium-light-skin-tone": {
-      "codepoint": 58142,
+      "codepoint": 57743,
       "fontFamily": "NotoV1",
       "identifier": "personBikingMediumLightSkinTone"
     },
     "person-biking-medium-skin-tone": {
-      "codepoint": 58143,
+      "codepoint": 57744,
       "fontFamily": "NotoV1",
       "identifier": "personBikingMediumSkinTone"
     },
     "person-bowing": {
-      "codepoint": 58012,
+      "codepoint": 57745,
       "fontFamily": "NotoV1",
       "identifier": "personBowing",
       "duotone": true
     },
     "person-bowing-dark-skin-tone": {
-      "codepoint": 58013,
+      "codepoint": 57746,
       "fontFamily": "NotoV1",
       "identifier": "personBowingDarkSkinTone",
       "duotone": true
     },
     "person-bowing-light-skin-tone": {
-      "codepoint": 58014,
+      "codepoint": 57747,
       "fontFamily": "NotoV1",
       "identifier": "personBowingLightSkinTone",
       "duotone": true
     },
     "person-bowing-medium-dark-skin-tone": {
-      "codepoint": 58015,
+      "codepoint": 57748,
       "fontFamily": "NotoV1",
       "identifier": "personBowingMediumDarkSkinTone",
       "duotone": true
     },
     "person-bowing-medium-light-skin-tone": {
-      "codepoint": 58016,
+      "codepoint": 57749,
       "fontFamily": "NotoV1",
       "identifier": "personBowingMediumLightSkinTone",
       "duotone": true
     },
     "person-bowing-medium-skin-tone": {
-      "codepoint": 58017,
+      "codepoint": 57750,
       "fontFamily": "NotoV1",
       "identifier": "personBowingMediumSkinTone",
       "duotone": true
     },
     "person-in-suit-levitating": {
-      "codepoint": 58018,
+      "codepoint": 57751,
       "fontFamily": "NotoV1",
       "identifier": "personInSuitLevitating"
     },
     "person-mountain-biking": {
-      "codepoint": 58019,
+      "codepoint": 57752,
       "fontFamily": "NotoV1",
       "identifier": "personMountainBiking"
     },
     "person-mountain-biking-dark-skin-tone": {
-      "codepoint": 58020,
+      "codepoint": 57753,
       "fontFamily": "NotoV1",
       "identifier": "personMountainBikingDarkSkinTone"
     },
     "person-mountain-biking-light-skin-tone": {
-      "codepoint": 58021,
+      "codepoint": 57754,
       "fontFamily": "NotoV1",
       "identifier": "personMountainBikingLightSkinTone"
     },
     "person-mountain-biking-medium-dark-skin-tone": {
-      "codepoint": 58022,
+      "codepoint": 57755,
       "fontFamily": "NotoV1",
       "identifier": "personMountainBikingMediumDarkSkinTone"
     },
     "person-mountain-biking-medium-light-skin-tone": {
-      "codepoint": 58023,
+      "codepoint": 57756,
       "fontFamily": "NotoV1",
       "identifier": "personMountainBikingMediumLightSkinTone"
     },
     "person-mountain-biking-medium-skin-tone": {
-      "codepoint": 58024,
+      "codepoint": 57757,
       "fontFamily": "NotoV1",
       "identifier": "personMountainBikingMediumSkinTone"
     },
     "person-playing-water-polo": {
-      "codepoint": 58025,
+      "codepoint": 57758,
       "fontFamily": "NotoV1",
       "identifier": "personPlayingWaterPolo"
     },
     "person-playing-water-polo-dark-skin-tone": {
-      "codepoint": 58026,
+      "codepoint": 57759,
       "fontFamily": "NotoV1",
       "identifier": "personPlayingWaterPoloDarkSkinTone"
     },
     "person-playing-water-polo-light-skin-tone": {
-      "codepoint": 58027,
+      "codepoint": 57760,
       "fontFamily": "NotoV1",
       "identifier": "personPlayingWaterPoloLightSkinTone"
     },
     "person-playing-water-polo-medium-dark-skin-tone": {
-      "codepoint": 58028,
+      "codepoint": 57761,
       "fontFamily": "NotoV1",
       "identifier": "personPlayingWaterPoloMediumDarkSkinTone"
     },
     "person-playing-water-polo-medium-light-skin-tone": {
-      "codepoint": 58029,
+      "codepoint": 57762,
       "fontFamily": "NotoV1",
       "identifier": "personPlayingWaterPoloMediumLightSkinTone"
     },
     "person-playing-water-polo-medium-skin-tone": {
-      "codepoint": 58030,
+      "codepoint": 57763,
       "fontFamily": "NotoV1",
       "identifier": "personPlayingWaterPoloMediumSkinTone"
     },
-    "person-taking-bath": {
-      "codepoint": 57660,
-      "fontFamily": "NotoV1",
-      "identifier": "personTakingBath",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "person-taking-bath-light-skin-tone": {
-      "codepoint": 57661,
-      "fontFamily": "NotoV1",
-      "identifier": "personTakingBathLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "person-taking-bath-medium-light-skin-tone": {
-      "codepoint": 57662,
-      "fontFamily": "NotoV1",
-      "identifier": "personTakingBathMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "pill": {
-      "codepoint": 57663,
+      "codepoint": 57764,
       "fontFamily": "NotoV1",
       "identifier": "pill",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pisces": {
-      "codepoint": 57664,
+      "codepoint": 57765,
       "fontFamily": "NotoV1",
       "identifier": "pisces"
     },
     "play-button": {
-      "codepoint": 57665,
+      "codepoint": 57766,
       "fontFamily": "NotoV1",
       "identifier": "playButton"
     },
     "play-or-pause-button": {
-      "codepoint": 57666,
+      "codepoint": 57767,
       "fontFamily": "NotoV1",
       "identifier": "playOrPauseButton"
     },
     "plus": {
-      "codepoint": 57667,
+      "codepoint": 57768,
       "fontFamily": "NotoV1",
       "identifier": "plus"
     },
     "plus-sign": {
-      "codepoint": 57668,
+      "codepoint": 57769,
       "fontFamily": "NotoV1",
       "identifier": "plusSign"
     },
-    "police-car": {
-      "codepoint": 57669,
-      "fontFamily": "NotoV1",
-      "identifier": "policeCar",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "postal-horn": {
-      "codepoint": 57670,
+      "codepoint": 57770,
       "fontFamily": "NotoV1",
       "identifier": "postalHorn",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "potable-water": {
-      "codepoint": 57671,
+      "codepoint": 57771,
       "fontFamily": "NotoV1",
       "identifier": "potableWater"
     },
     "poultry-leg": {
-      "codepoint": 57890,
+      "codepoint": 57772,
       "fontFamily": "NotoV1",
       "identifier": "poultryLeg",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pound-symbol": {
-      "codepoint": 57672,
+      "codepoint": 57773,
       "fontFamily": "NotoV1",
       "identifier": "poundSymbol"
     },
     "pouting-cat": {
-      "codepoint": 57891,
+      "codepoint": 57774,
       "fontFamily": "NotoV1",
       "identifier": "poutingCat",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "pouting-cat-face": {
-      "codepoint": 57892,
+      "codepoint": 57775,
       "fontFamily": "NotoV1",
       "identifier": "poutingCatFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "prayer-beads": {
-      "codepoint": 58144,
+      "codepoint": 57776,
       "fontFamily": "NotoV1",
       "identifier": "prayerBeads"
     },
     "pregnant-woman": {
-      "codepoint": 58031,
+      "codepoint": 57777,
       "fontFamily": "NotoV1",
       "identifier": "pregnantWoman"
     },
     "pregnant-woman-dark-skin-tone": {
-      "codepoint": 58145,
+      "codepoint": 57778,
       "fontFamily": "NotoV1",
       "identifier": "pregnantWomanDarkSkinTone"
     },
     "pregnant-woman-light-skin-tone": {
-      "codepoint": 58032,
+      "codepoint": 57779,
       "fontFamily": "NotoV1",
       "identifier": "pregnantWomanLightSkinTone"
     },
     "pregnant-woman-medium-dark-skin-tone": {
-      "codepoint": 58146,
+      "codepoint": 57780,
       "fontFamily": "NotoV1",
       "identifier": "pregnantWomanMediumDarkSkinTone"
     },
     "pregnant-woman-medium-light-skin-tone": {
-      "codepoint": 58033,
+      "codepoint": 57781,
       "fontFamily": "NotoV1",
       "identifier": "pregnantWomanMediumLightSkinTone"
     },
     "pregnant-woman-medium-skin-tone": {
-      "codepoint": 58034,
+      "codepoint": 57782,
       "fontFamily": "NotoV1",
       "identifier": "pregnantWomanMediumSkinTone"
     },
     "prohibited": {
-      "codepoint": 57893,
+      "codepoint": 57783,
       "fontFamily": "NotoV1",
       "identifier": "prohibited",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "question-mark": {
-      "codepoint": 57673,
+      "codepoint": 57784,
       "fontFamily": "NotoV1",
       "identifier": "questionMark"
     },
-    "rabbit": {
-      "codepoint": 57674,
-      "fontFamily": "NotoV1",
-      "identifier": "rabbit",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "rabbit-face": {
-      "codepoint": 57675,
-      "fontFamily": "NotoV1",
-      "identifier": "rabbitFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "racing-car": {
-      "codepoint": 57676,
+      "codepoint": 57785,
       "fontFamily": "NotoV1",
       "identifier": "racingCar"
     },
     "radioactive": {
-      "codepoint": 57677,
+      "codepoint": 57786,
       "fontFamily": "NotoV1",
       "identifier": "radioactive"
     },
     "raised-back-of-hand": {
-      "codepoint": 57678,
+      "codepoint": 57787,
       "fontFamily": "NotoV1",
       "identifier": "raisedBackOfHand",
       "duotone": true
     },
     "raised-back-of-hand-light-skin-tone": {
-      "codepoint": 57679,
+      "codepoint": 57788,
       "fontFamily": "NotoV1",
       "identifier": "raisedBackOfHandLightSkinTone",
       "duotone": true
     },
     "raised-back-of-hand-medium-light-skin-tone": {
-      "codepoint": 57680,
+      "codepoint": 57789,
       "fontFamily": "NotoV1",
       "identifier": "raisedBackOfHandMediumLightSkinTone",
       "duotone": true
     },
     "raised-back-of-hand-medium-skin-tone": {
-      "codepoint": 57681,
+      "codepoint": 57790,
       "fontFamily": "NotoV1",
       "identifier": "raisedBackOfHandMediumSkinTone",
       "duotone": true
     },
     "raised-fist": {
-      "codepoint": 57682,
+      "codepoint": 57791,
       "fontFamily": "NotoV1",
       "identifier": "raisedFist",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-fist-dark-skin-tone": {
-      "codepoint": 57894,
+      "codepoint": 57792,
       "fontFamily": "NotoV1",
       "identifier": "raisedFistDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-fist-light-skin-tone": {
-      "codepoint": 57895,
+      "codepoint": 57793,
       "fontFamily": "NotoV1",
       "identifier": "raisedFistLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-fist-medium-dark-skin-tone": {
-      "codepoint": 57896,
+      "codepoint": 57794,
       "fontFamily": "NotoV1",
       "identifier": "raisedFistMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-fist-medium-light-skin-tone": {
-      "codepoint": 57897,
+      "codepoint": 57795,
       "fontFamily": "NotoV1",
       "identifier": "raisedFistMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-fist-medium-skin-tone": {
-      "codepoint": 57898,
+      "codepoint": 57796,
       "fontFamily": "NotoV1",
       "identifier": "raisedFistMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-hand": {
-      "codepoint": 57683,
+      "codepoint": 57797,
       "fontFamily": "NotoV1",
       "identifier": "raisedHand",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-hand-dark-skin-tone": {
-      "codepoint": 57899,
+      "codepoint": 57798,
       "fontFamily": "NotoV1",
       "identifier": "raisedHandDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-hand-light-skin-tone": {
-      "codepoint": 57900,
+      "codepoint": 57799,
       "fontFamily": "NotoV1",
       "identifier": "raisedHandLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-hand-medium-dark-skin-tone": {
-      "codepoint": 57901,
+      "codepoint": 57800,
       "fontFamily": "NotoV1",
       "identifier": "raisedHandMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-hand-medium-light-skin-tone": {
-      "codepoint": 57902,
+      "codepoint": 57801,
       "fontFamily": "NotoV1",
       "identifier": "raisedHandMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "raised-hand-medium-skin-tone": {
-      "codepoint": 57903,
+      "codepoint": 57802,
       "fontFamily": "NotoV1",
       "identifier": "raisedHandMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "raised-hand-with-fingers-splayed": {
-      "codepoint": 57684,
-      "fontFamily": "NotoV1",
-      "identifier": "raisedHandWithFingersSplayed",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "raising-hands": {
-      "codepoint": 58035,
+      "codepoint": 57803,
       "fontFamily": "NotoV1",
       "identifier": "raisingHands"
     },
     "raising-hands-dark-skin-tone": {
-      "codepoint": 58036,
+      "codepoint": 57804,
       "fontFamily": "NotoV1",
       "identifier": "raisingHandsDarkSkinTone"
     },
     "raising-hands-light-skin-tone": {
-      "codepoint": 58037,
+      "codepoint": 57805,
       "fontFamily": "NotoV1",
       "identifier": "raisingHandsLightSkinTone"
     },
     "raising-hands-medium-dark-skin-tone": {
-      "codepoint": 58038,
+      "codepoint": 57806,
       "fontFamily": "NotoV1",
       "identifier": "raisingHandsMediumDarkSkinTone"
     },
     "raising-hands-medium-light-skin-tone": {
-      "codepoint": 58039,
+      "codepoint": 57807,
       "fontFamily": "NotoV1",
       "identifier": "raisingHandsMediumLightSkinTone"
     },
     "raising-hands-medium-skin-tone": {
-      "codepoint": 58040,
+      "codepoint": 57808,
       "fontFamily": "NotoV1",
       "identifier": "raisingHandsMediumSkinTone"
     },
-    "rat": {
-      "codepoint": 57685,
-      "fontFamily": "NotoV1",
-      "identifier": "rat",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "record-button": {
-      "codepoint": 57686,
+      "codepoint": 57809,
       "fontFamily": "NotoV1",
       "identifier": "recordButton"
     },
-    "red-paper-lantern": {
-      "codepoint": 57687,
-      "fontFamily": "NotoV1",
-      "identifier": "redPaperLantern",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "registered": {
-      "codepoint": 57688,
+      "codepoint": 57810,
       "fontFamily": "NotoV1",
       "identifier": "registered"
     },
-    "reminder-ribbon": {
-      "codepoint": 57689,
-      "fontFamily": "NotoV1",
-      "identifier": "reminderRibbon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "repeat-button": {
-      "codepoint": 57690,
+      "codepoint": 57811,
       "fontFamily": "NotoV1",
       "identifier": "repeatButton"
     },
     "repeat-single-button": {
-      "codepoint": 57691,
+      "codepoint": 57812,
       "fontFamily": "NotoV1",
       "identifier": "repeatSingleButton"
     },
     "restroom": {
-      "codepoint": 57692,
+      "codepoint": 57813,
       "fontFamily": "NotoV1",
       "identifier": "restroom",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "reverse-button": {
-      "codepoint": 57693,
+      "codepoint": 57814,
       "fontFamily": "NotoV1",
       "identifier": "reverseButton"
     },
     "right-anger-bubble": {
-      "codepoint": 57694,
+      "codepoint": 57815,
       "fontFamily": "NotoV1",
       "identifier": "rightAngerBubble",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-arrow": {
-      "codepoint": 57695,
+      "codepoint": 57816,
       "fontFamily": "NotoV1",
       "identifier": "rightArrow"
     },
     "right-arrow-curving-down": {
-      "codepoint": 57696,
+      "codepoint": 57817,
       "fontFamily": "NotoV1",
       "identifier": "rightArrowCurvingDown"
     },
     "right-arrow-curving-left": {
-      "codepoint": 57697,
+      "codepoint": 57818,
       "fontFamily": "NotoV1",
       "identifier": "rightArrowCurvingLeft"
     },
     "right-arrow-curving-up": {
-      "codepoint": 57698,
+      "codepoint": 57819,
       "fontFamily": "NotoV1",
       "identifier": "rightArrowCurvingUp"
     },
     "right-facing-fist": {
-      "codepoint": 57699,
+      "codepoint": 57820,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFist",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-facing-fist-dark-skin-tone": {
-      "codepoint": 57904,
+      "codepoint": 57821,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFistDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-facing-fist-light-skin-tone": {
-      "codepoint": 57905,
+      "codepoint": 57822,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFistLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-facing-fist-medium-dark-skin-tone": {
-      "codepoint": 57906,
+      "codepoint": 57823,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFistMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-facing-fist-medium-light-skin-tone": {
-      "codepoint": 57907,
+      "codepoint": 57824,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFistMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "right-facing-fist-medium-skin-tone": {
-      "codepoint": 57908,
+      "codepoint": 57825,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFistMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ring": {
-      "codepoint": 58041,
+      "codepoint": 57826,
       "fontFamily": "NotoV1",
       "identifier": "ring"
     },
-    "rolling-on-the-floor-laughing": {
-      "codepoint": 57700,
-      "fontFamily": "NotoV1",
-      "identifier": "rollingOnTheFloorLaughing",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "rooster": {
-      "codepoint": 57701,
-      "fontFamily": "NotoV1",
-      "identifier": "rooster",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "rosette": {
-      "codepoint": 57702,
-      "fontFamily": "NotoV1",
-      "identifier": "rosette",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "round-pushpin": {
-      "codepoint": 57703,
-      "fontFamily": "NotoV1",
-      "identifier": "roundPushpin",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "rugby-football": {
-      "codepoint": 57909,
+      "codepoint": 57827,
       "fontFamily": "NotoV1",
       "identifier": "rugbyFootball",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "sad-but-relieved-face": {
-      "codepoint": 57704,
-      "fontFamily": "NotoV1",
-      "identifier": "sadButRelievedFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "sagittarius": {
-      "codepoint": 57705,
+      "codepoint": 57828,
       "fontFamily": "NotoV1",
       "identifier": "sagittarius"
     },
-    "sailboat": {
-      "codepoint": 57706,
-      "fontFamily": "NotoV1",
-      "identifier": "sailboat",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "school-backpack": {
-      "codepoint": 57707,
-      "fontFamily": "NotoV1",
-      "identifier": "schoolBackpack",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "scissors": {
-      "codepoint": 58042,
+      "codepoint": 57829,
       "fontFamily": "NotoV1",
       "identifier": "scissors"
     },
     "scorpio": {
-      "codepoint": 57708,
+      "codepoint": 57830,
       "fontFamily": "NotoV1",
       "identifier": "scorpio"
     },
     "scorpius": {
-      "codepoint": 57709,
+      "codepoint": 57831,
       "fontFamily": "NotoV1",
       "identifier": "scorpius"
     },
     "seedling": {
-      "codepoint": 57910,
+      "codepoint": 57832,
       "fontFamily": "NotoV1",
       "identifier": "seedling",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "seven-oclock": {
-      "codepoint": 57710,
-      "fontFamily": "NotoV1",
-      "identifier": "sevenOclock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "sheaf-of-rice": {
-      "codepoint": 57911,
+      "codepoint": 57833,
       "fontFamily": "NotoV1",
       "identifier": "sheafOfRice",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "shrimp": {
-      "codepoint": 58043,
+      "codepoint": 57834,
       "fontFamily": "NotoV1",
       "identifier": "shrimp"
     },
     "shuffle-tracks-button": {
-      "codepoint": 57711,
+      "codepoint": 57835,
       "fontFamily": "NotoV1",
       "identifier": "shuffleTracksButton"
     },
-    "six-oclock": {
-      "codepoint": 57712,
-      "fontFamily": "NotoV1",
-      "identifier": "sixOclock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "skier": {
-      "codepoint": 58044,
+      "codepoint": 57836,
       "fontFamily": "NotoV1",
       "identifier": "skier"
     },
     "skull": {
-      "codepoint": 57713,
+      "codepoint": 57837,
       "fontFamily": "NotoV1",
       "identifier": "skull"
     },
     "skull-and-crossbones": {
-      "codepoint": 58045,
+      "codepoint": 57838,
       "fontFamily": "NotoV1",
       "identifier": "skullAndCrossbones"
     },
-    "sleepy-face": {
-      "codepoint": 57714,
-      "fontFamily": "NotoV1",
-      "identifier": "sleepyFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "slightly-frowning-face": {
-      "codepoint": 57715,
-      "fontFamily": "NotoV1",
-      "identifier": "slightlyFrowningFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "slightly-smiling-face": {
-      "codepoint": 57716,
-      "fontFamily": "NotoV1",
-      "identifier": "slightlySmilingFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "slot-machine": {
-      "codepoint": 57717,
-      "fontFamily": "NotoV1",
-      "identifier": "slotMachine",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "small-blue-diamond": {
-      "codepoint": 57718,
+      "codepoint": 57839,
       "fontFamily": "NotoV1",
       "identifier": "smallBlueDiamond"
     },
     "smiling-cat-face-with-open-mouth": {
-      "codepoint": 57912,
+      "codepoint": 57840,
       "fontFamily": "NotoV1",
       "identifier": "smilingCatFaceWithOpenMouth",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "smiling-face": {
-      "codepoint": 57719,
+      "codepoint": 57841,
       "fontFamily": "NotoV1",
       "identifier": "smilingFace"
     },
-    "smiling-face-with-halo": {
-      "codepoint": 57720,
-      "fontFamily": "NotoV1",
-      "identifier": "smilingFaceWithHalo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "smiling-face-with-open-mouth": {
-      "codepoint": 57721,
-      "fontFamily": "NotoV1",
-      "identifier": "smilingFaceWithOpenMouth",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "smiling-face-with-open-mouth-and-cold-sweat": {
-      "codepoint": 57722,
-      "fontFamily": "NotoV1",
-      "identifier": "smilingFaceWithOpenMouthAndColdSweat",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "smiling-face-with-sunglasses": {
-      "codepoint": 57723,
-      "fontFamily": "NotoV1",
-      "identifier": "smilingFaceWithSunglasses",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "smirking-face": {
-      "codepoint": 57724,
-      "fontFamily": "NotoV1",
-      "identifier": "smirkingFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "snowflake": {
-      "codepoint": 57725,
+      "codepoint": 57842,
       "fontFamily": "NotoV1",
       "identifier": "snowflake"
     },
     "snowman": {
-      "codepoint": 57726,
+      "codepoint": 57843,
       "fontFamily": "NotoV1",
       "identifier": "snowman",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "snowman-without-snow": {
-      "codepoint": 57727,
+      "codepoint": 57844,
       "fontFamily": "NotoV1",
       "identifier": "snowmanWithoutSnow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "soccer-ball": {
-      "codepoint": 57728,
-      "fontFamily": "NotoV1",
-      "identifier": "soccerBall",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "soon-arrow": {
-      "codepoint": 57729,
+      "codepoint": 57845,
       "fontFamily": "NotoV1",
       "identifier": "soonArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "spade-suit": {
-      "codepoint": 57730,
+      "codepoint": 57846,
       "fontFamily": "NotoV1",
       "identifier": "spadeSuit"
     },
     "sparkles": {
-      "codepoint": 57913,
+      "codepoint": 57847,
       "fontFamily": "NotoV1",
       "identifier": "sparkles",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sparkling-heart": {
-      "codepoint": 57914,
+      "codepoint": 57848,
       "fontFamily": "NotoV1",
       "identifier": "sparklingHeart",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "speaker-high-volume": {
-      "codepoint": 57731,
-      "fontFamily": "NotoV1",
-      "identifier": "speakerHighVolume",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "speaker-low-volume": {
-      "codepoint": 57732,
+      "codepoint": 57849,
       "fontFamily": "NotoV1",
       "identifier": "speakerLowVolume",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "speaker-medium-volume": {
-      "codepoint": 57733,
-      "fontFamily": "NotoV1",
-      "identifier": "speakerMediumVolume",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "speaking-head": {
-      "codepoint": 57915,
+      "codepoint": 57850,
       "fontFamily": "NotoV1",
       "identifier": "speakingHead",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "speech-balloon": {
-      "codepoint": 57734,
+      "codepoint": 57851,
       "fontFamily": "NotoV1",
       "identifier": "speechBalloon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "spider": {
-      "codepoint": 57735,
+      "codepoint": 57852,
       "fontFamily": "NotoV1",
       "identifier": "spider"
     },
     "spider-web": {
-      "codepoint": 57736,
+      "codepoint": 57853,
       "fontFamily": "NotoV1",
       "identifier": "spiderWeb",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "spiral-notepad": {
-      "codepoint": 58046,
+      "codepoint": 57854,
       "fontFamily": "NotoV1",
       "identifier": "spiralNotepad"
     },
     "spoon": {
-      "codepoint": 57737,
+      "codepoint": 57855,
       "fontFamily": "NotoV1",
       "identifier": "spoon"
     },
     "sports-medal": {
-      "codepoint": 58047,
+      "codepoint": 57856,
       "fontFamily": "NotoV1",
       "identifier": "sportsMedal",
       "duotone": true
     },
-    "spouting-whale": {
-      "codepoint": 57738,
-      "fontFamily": "NotoV1",
-      "identifier": "spoutingWhale",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "squinting-face-with-tongue": {
-      "codepoint": 58048,
+      "codepoint": 57857,
       "fontFamily": "NotoV1",
       "identifier": "squintingFaceWithTongue"
     },
     "stadium": {
-      "codepoint": 58049,
+      "codepoint": 57858,
       "fontFamily": "NotoV1",
       "identifier": "stadium"
     },
     "star": {
-      "codepoint": 57916,
+      "codepoint": 57859,
       "fontFamily": "NotoV1",
       "identifier": "star",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "star-of-david": {
-      "codepoint": 58050,
+      "codepoint": 57860,
       "fontFamily": "NotoV1",
       "identifier": "starOfDavid"
     },
     "stop-button": {
-      "codepoint": 57739,
+      "codepoint": 57861,
       "fontFamily": "NotoV1",
       "identifier": "stopButton"
     },
     "straight-ruler": {
-      "codepoint": 57740,
+      "codepoint": 57862,
       "fontFamily": "NotoV1",
       "identifier": "straightRuler",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sun": {
-      "codepoint": 57741,
+      "codepoint": 57863,
       "fontFamily": "NotoV1",
       "identifier": "sun"
     },
-    "sun-behind-cloud": {
-      "codepoint": 57742,
-      "fontFamily": "NotoV1",
-      "identifier": "sunBehindCloud",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "sun-behind-large-cloud": {
-      "codepoint": 57743,
-      "fontFamily": "NotoV1",
-      "identifier": "sunBehindLargeCloud",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "sun-behind-rain-cloud": {
-      "codepoint": 57744,
-      "fontFamily": "NotoV1",
-      "identifier": "sunBehindRainCloud",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "sun-behind-small-cloud": {
-      "codepoint": 57745,
-      "fontFamily": "NotoV1",
-      "identifier": "sunBehindSmallCloud",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "sun-with-face": {
-      "codepoint": 57746,
-      "fontFamily": "NotoV1",
-      "identifier": "sunWithFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "sunglasses": {
-      "codepoint": 58051,
+      "codepoint": 57864,
       "fontFamily": "NotoV1",
       "identifier": "sunglasses",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "sweat-droplets": {
-      "codepoint": 57747,
+      "codepoint": 57865,
       "fontFamily": "NotoV1",
       "identifier": "sweatDroplets"
     },
     "taurus": {
-      "codepoint": 57748,
+      "codepoint": 57866,
       "fontFamily": "NotoV1",
       "identifier": "taurus"
     },
     "telephone-receiver": {
-      "codepoint": 57749,
+      "codepoint": 57867,
       "fontFamily": "NotoV1",
       "identifier": "telephoneReceiver",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "telescope": {
-      "codepoint": 57750,
+      "codepoint": 57868,
       "fontFamily": "NotoV1",
       "identifier": "telescope"
     },
-    "ten-oclock": {
-      "codepoint": 57751,
-      "fontFamily": "NotoV1",
-      "identifier": "tenOclock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "thermometer": {
-      "codepoint": 57752,
+      "codepoint": 57869,
       "fontFamily": "NotoV1",
       "identifier": "thermometer"
     },
     "thinking-face": {
-      "codepoint": 57753,
+      "codepoint": 57870,
       "fontFamily": "NotoV1",
       "identifier": "thinkingFace"
     },
     "thought-balloon": {
-      "codepoint": 57754,
+      "codepoint": 57871,
       "fontFamily": "NotoV1",
       "identifier": "thoughtBalloon",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "three-oclock": {
-      "codepoint": 57755,
-      "fontFamily": "NotoV1",
-      "identifier": "threeOclock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "thumbs-down": {
-      "codepoint": 57756,
+      "codepoint": 57872,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDown",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-down-dark-skin-tone": {
-      "codepoint": 57917,
+      "codepoint": 57873,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDownDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-down-light-skin-tone": {
-      "codepoint": 57918,
+      "codepoint": 57874,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDownLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-down-medium-dark-skin-tone": {
-      "codepoint": 57919,
+      "codepoint": 57875,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDownMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-down-medium-light-skin-tone": {
-      "codepoint": 57920,
+      "codepoint": 57876,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDownMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-down-medium-skin-tone": {
-      "codepoint": 57921,
+      "codepoint": 57877,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDownMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-up": {
-      "codepoint": 57757,
+      "codepoint": 57878,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUp",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-up-dark-skin-tone": {
-      "codepoint": 57922,
+      "codepoint": 57879,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUpDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-up-light-skin-tone": {
-      "codepoint": 57923,
+      "codepoint": 57880,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUpLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-up-medium-dark-skin-tone": {
-      "codepoint": 57924,
+      "codepoint": 57881,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUpMediumDarkSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-up-medium-light-skin-tone": {
-      "codepoint": 57925,
+      "codepoint": 57882,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUpMediumLightSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "thumbs-up-medium-skin-tone": {
-      "codepoint": 57926,
+      "codepoint": 57883,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUpMediumSkinTone",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ticket": {
-      "codepoint": 57758,
+      "codepoint": 57884,
       "fontFamily": "NotoV1",
       "identifier": "ticket",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "tiger-face": {
-      "codepoint": 57759,
-      "fontFamily": "NotoV1",
-      "identifier": "tigerFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "tired-face": {
-      "codepoint": 57760,
-      "fontFamily": "NotoV1",
-      "identifier": "tiredFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "tokyo-tower": {
-      "codepoint": 57761,
+      "codepoint": 57885,
       "fontFamily": "NotoV1",
       "identifier": "tokyoTower",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "top-arrow": {
-      "codepoint": 57762,
+      "codepoint": 57886,
       "fontFamily": "NotoV1",
       "identifier": "topArrow",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "trackball": {
-      "codepoint": 57763,
+      "codepoint": 57887,
       "fontFamily": "NotoV1",
       "identifier": "trackball"
     },
-    "tractor": {
-      "codepoint": 57764,
-      "fontFamily": "NotoV1",
-      "identifier": "tractor",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "trade-mark": {
-      "codepoint": 57765,
+      "codepoint": 57888,
       "fontFamily": "NotoV1",
       "identifier": "tradeMark"
     },
     "triangular-flag": {
-      "codepoint": 57766,
+      "codepoint": 57889,
       "fontFamily": "NotoV1",
       "identifier": "triangularFlag",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "triangular-ruler": {
-      "codepoint": 57767,
-      "fontFamily": "NotoV1",
-      "identifier": "triangularRuler",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "trident-emblem": {
-      "codepoint": 57927,
+      "codepoint": 57890,
       "fontFamily": "NotoV1",
       "identifier": "tridentEmblem",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "tumbler-glass": {
-      "codepoint": 58052,
+      "codepoint": 57891,
       "fontFamily": "NotoV1",
       "identifier": "tumblerGlass"
     },
-    "twelve-oclock": {
-      "codepoint": 57768,
-      "fontFamily": "NotoV1",
-      "identifier": "twelveOclock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "two-oclock": {
-      "codepoint": 57769,
-      "fontFamily": "NotoV1",
-      "identifier": "twoOclock",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "unamused-face": {
-      "codepoint": 57770,
+      "codepoint": 57892,
       "fontFamily": "NotoV1",
       "identifier": "unamusedFace"
     },
     "unknown-flag": {
-      "codepoint": 58053,
+      "codepoint": 57893,
       "fontFamily": "NotoV1",
       "identifier": "unknownFlag"
     },
-    "unlocked": {
-      "codepoint": 57771,
-      "fontFamily": "NotoV1",
-      "identifier": "unlocked",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "up-arrow": {
-      "codepoint": 57772,
+      "codepoint": 57894,
       "fontFamily": "NotoV1",
       "identifier": "upArrow"
     },
     "up-down-arrow": {
-      "codepoint": 57773,
+      "codepoint": 57895,
       "fontFamily": "NotoV1",
       "identifier": "upDownArrow"
     },
     "up-exclamation-button": {
-      "codepoint": 57774,
+      "codepoint": 57896,
       "fontFamily": "NotoV1",
       "identifier": "upExclamationButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "up-left-arrow": {
-      "codepoint": 57775,
+      "codepoint": 57897,
       "fontFamily": "NotoV1",
       "identifier": "upLeftArrow"
     },
     "up-right-arrow": {
-      "codepoint": 57776,
+      "codepoint": 57898,
       "fontFamily": "NotoV1",
       "identifier": "upRightArrow"
     },
     "up-text-button": {
-      "codepoint": 57777,
+      "codepoint": 57899,
       "fontFamily": "NotoV1",
       "identifier": "upTextButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "video-camera": {
-      "codepoint": 57778,
-      "fontFamily": "NotoV1",
-      "identifier": "videoCamera",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "video-game": {
-      "codepoint": 58054,
+      "codepoint": 57900,
       "fontFamily": "NotoV1",
       "identifier": "videoGame"
     },
     "videocassette": {
-      "codepoint": 57779,
+      "codepoint": 57901,
       "fontFamily": "NotoV1",
       "identifier": "videocassette",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "virgo": {
-      "codepoint": 57780,
+      "codepoint": 57902,
       "fontFamily": "NotoV1",
       "identifier": "virgo"
     },
-    "volleyball": {
-      "codepoint": 57781,
-      "fontFamily": "NotoV1",
-      "identifier": "volleyball",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "vs-button": {
-      "codepoint": 57782,
+      "codepoint": 57903,
       "fontFamily": "NotoV1",
       "identifier": "vsButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "vulcan-salute": {
-      "codepoint": 57783,
-      "fontFamily": "NotoV1",
-      "identifier": "vulcanSalute",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "warning": {
-      "codepoint": 57784,
-      "fontFamily": "NotoV1",
-      "identifier": "warning",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "wastebasket": {
-      "codepoint": 57785,
-      "fontFamily": "NotoV1",
-      "identifier": "wastebasket",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
-    "water-buffalo": {
-      "codepoint": 57786,
-      "fontFamily": "NotoV1",
-      "identifier": "waterBuffalo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "water-closet": {
-      "codepoint": 57787,
+      "codepoint": 57904,
       "fontFamily": "NotoV1",
       "identifier": "waterCloset",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "water-wave": {
-      "codepoint": 57788,
-      "fontFamily": "NotoV1",
-      "identifier": "waterWave",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "waving-hand": {
-      "codepoint": 58055,
+      "codepoint": 57905,
       "fontFamily": "NotoV1",
       "identifier": "wavingHand"
     },
     "waving-hand-dark-skin-tone": {
-      "codepoint": 58147,
+      "codepoint": 57906,
       "fontFamily": "NotoV1",
       "identifier": "wavingHandDarkSkinTone"
     },
     "waving-hand-light-skin-tone": {
-      "codepoint": 58056,
+      "codepoint": 57907,
       "fontFamily": "NotoV1",
       "identifier": "wavingHandLightSkinTone"
     },
     "waving-hand-medium-dark-skin-tone": {
-      "codepoint": 58148,
+      "codepoint": 57908,
       "fontFamily": "NotoV1",
       "identifier": "wavingHandMediumDarkSkinTone"
     },
     "waving-hand-medium-light-skin-tone": {
-      "codepoint": 58057,
+      "codepoint": 57909,
       "fontFamily": "NotoV1",
       "identifier": "wavingHandMediumLightSkinTone"
     },
     "waving-hand-medium-skin-tone": {
-      "codepoint": 58058,
+      "codepoint": 57910,
       "fontFamily": "NotoV1",
       "identifier": "wavingHandMediumSkinTone"
     },
     "wavy-dash": {
-      "codepoint": 57789,
+      "codepoint": 57911,
       "fontFamily": "NotoV1",
       "identifier": "wavyDash"
     },
     "weary-cat": {
-      "codepoint": 57928,
+      "codepoint": 57912,
       "fontFamily": "NotoV1",
       "identifier": "wearyCat",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "weary-cat-face": {
-      "codepoint": 57929,
+      "codepoint": 57913,
       "fontFamily": "NotoV1",
       "identifier": "wearyCatFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "weary-face": {
-      "codepoint": 57790,
-      "fontFamily": "NotoV1",
-      "identifier": "wearyFace",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "wheelchair-symbol": {
-      "codepoint": 57791,
+      "codepoint": 57914,
       "fontFamily": "NotoV1",
       "identifier": "wheelchairSymbol"
     },
     "white-circle": {
-      "codepoint": 57792,
+      "codepoint": 57915,
       "fontFamily": "NotoV1",
       "identifier": "whiteCircle"
     },
     "white-exclamation-mark": {
-      "codepoint": 57793,
+      "codepoint": 57916,
       "fontFamily": "NotoV1",
       "identifier": "whiteExclamationMark"
     },
-    "white-flag": {
-      "codepoint": 57794,
-      "fontFamily": "NotoV1",
-      "identifier": "whiteFlag",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "white-flower": {
-      "codepoint": 58059,
+      "codepoint": 57917,
       "fontFamily": "NotoV1",
       "identifier": "whiteFlower"
     },
     "white-heavy-check-mark": {
-      "codepoint": 57930,
+      "codepoint": 57918,
       "fontFamily": "NotoV1",
       "identifier": "whiteHeavyCheckMark",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "white-large-square": {
-      "codepoint": 57795,
+      "codepoint": 57919,
       "fontFamily": "NotoV1",
       "identifier": "whiteLargeSquare"
     },
     "white-medium-small-square": {
-      "codepoint": 57796,
+      "codepoint": 57920,
       "fontFamily": "NotoV1",
       "identifier": "whiteMediumSmallSquare"
     },
     "white-medium-square": {
-      "codepoint": 57797,
+      "codepoint": 57921,
       "fontFamily": "NotoV1",
       "identifier": "whiteMediumSquare"
     },
     "white-medium-star": {
-      "codepoint": 57931,
+      "codepoint": 57922,
       "fontFamily": "NotoV1",
       "identifier": "whiteMediumStar",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "white-question-mark": {
-      "codepoint": 57798,
+      "codepoint": 57923,
       "fontFamily": "NotoV1",
       "identifier": "whiteQuestionMark"
     },
     "white-small-square": {
-      "codepoint": 57799,
+      "codepoint": 57924,
       "fontFamily": "NotoV1",
       "identifier": "whiteSmallSquare"
     },
     "white-square-button": {
-      "codepoint": 57932,
+      "codepoint": 57925,
       "fontFamily": "NotoV1",
       "identifier": "whiteSquareButton",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "wilted-flower": {
-      "codepoint": 58149,
+      "codepoint": 57926,
       "fontFamily": "NotoV1",
       "identifier": "wiltedFlower"
     },
     "wind-face": {
-      "codepoint": 57800,
+      "codepoint": 57927,
       "fontFamily": "NotoV1",
       "identifier": "windFace"
     },
     "winking-face": {
-      "codepoint": 57801,
+      "codepoint": 57928,
       "fontFamily": "NotoV1",
       "identifier": "winkingFace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "woman-biking": {
-      "codepoint": 58150,
+      "codepoint": 57929,
       "fontFamily": "NotoV1",
       "identifier": "womanBiking"
     },
     "woman-biking-dark-skin-tone": {
-      "codepoint": 58151,
+      "codepoint": 57930,
       "fontFamily": "NotoV1",
       "identifier": "womanBikingDarkSkinTone",
       "duotone": true
     },
     "woman-biking-light-skin-tone": {
-      "codepoint": 58152,
+      "codepoint": 57931,
       "fontFamily": "NotoV1",
       "identifier": "womanBikingLightSkinTone"
     },
     "woman-biking-medium-dark-skin-tone": {
-      "codepoint": 58153,
+      "codepoint": 57932,
       "fontFamily": "NotoV1",
       "identifier": "womanBikingMediumDarkSkinTone"
     },
     "woman-biking-medium-light-skin-tone": {
-      "codepoint": 58154,
+      "codepoint": 57933,
       "fontFamily": "NotoV1",
       "identifier": "womanBikingMediumLightSkinTone"
     },
     "woman-biking-medium-skin-tone": {
-      "codepoint": 58155,
+      "codepoint": 57934,
       "fontFamily": "NotoV1",
       "identifier": "womanBikingMediumSkinTone"
     },
     "woman-bowing": {
-      "codepoint": 58060,
+      "codepoint": 57935,
       "fontFamily": "NotoV1",
       "identifier": "womanBowing",
       "duotone": true
     },
     "woman-bowing-dark-skin-tone": {
-      "codepoint": 58156,
+      "codepoint": 57936,
       "fontFamily": "NotoV1",
       "identifier": "womanBowingDarkSkinTone",
       "duotone": true
     },
     "woman-bowing-light-skin-tone": {
-      "codepoint": 58061,
+      "codepoint": 57937,
       "fontFamily": "NotoV1",
       "identifier": "womanBowingLightSkinTone",
       "duotone": true
     },
     "woman-bowing-medium-dark-skin-tone": {
-      "codepoint": 58157,
+      "codepoint": 57938,
       "fontFamily": "NotoV1",
       "identifier": "womanBowingMediumDarkSkinTone",
       "duotone": true
     },
     "woman-bowing-medium-light-skin-tone": {
-      "codepoint": 58062,
+      "codepoint": 57939,
       "fontFamily": "NotoV1",
       "identifier": "womanBowingMediumLightSkinTone",
       "duotone": true
     },
     "woman-bowing-medium-skin-tone": {
-      "codepoint": 58063,
+      "codepoint": 57940,
       "fontFamily": "NotoV1",
       "identifier": "womanBowingMediumSkinTone",
       "duotone": true
     },
     "woman-cook-light-skin-tone": {
-      "codepoint": 58064,
+      "codepoint": 57941,
       "fontFamily": "NotoV1",
       "identifier": "womanCookLightSkinTone"
     },
     "woman-cook-medium-light-skin-tone": {
-      "codepoint": 58065,
+      "codepoint": 57942,
       "fontFamily": "NotoV1",
       "identifier": "womanCookMediumLightSkinTone"
     },
     "woman-cook-medium-skin-tone": {
-      "codepoint": 58066,
+      "codepoint": 57943,
       "fontFamily": "NotoV1",
       "identifier": "womanCookMediumSkinTone"
     },
     "woman-farmer": {
-      "codepoint": 58067,
+      "codepoint": 57944,
       "fontFamily": "NotoV1",
       "identifier": "womanFarmer"
     },
     "woman-farmer-dark-skin-tone": {
-      "codepoint": 58068,
+      "codepoint": 57945,
       "fontFamily": "NotoV1",
       "identifier": "womanFarmerDarkSkinTone"
     },
     "woman-farmer-light-skin-tone": {
-      "codepoint": 58069,
+      "codepoint": 57946,
       "fontFamily": "NotoV1",
       "identifier": "womanFarmerLightSkinTone"
     },
     "woman-farmer-medium-dark-skin-tone": {
-      "codepoint": 58070,
+      "codepoint": 57947,
       "fontFamily": "NotoV1",
       "identifier": "womanFarmerMediumDarkSkinTone"
     },
     "woman-farmer-medium-light-skin-tone": {
-      "codepoint": 58071,
+      "codepoint": 57948,
       "fontFamily": "NotoV1",
       "identifier": "womanFarmerMediumLightSkinTone"
     },
     "woman-farmer-medium-skin-tone": {
-      "codepoint": 58072,
+      "codepoint": 57949,
       "fontFamily": "NotoV1",
       "identifier": "womanFarmerMediumSkinTone"
     },
     "woman-guard": {
-      "codepoint": 58073,
+      "codepoint": 57950,
       "fontFamily": "NotoV1",
       "identifier": "womanGuard"
     },
     "woman-guard-dark-skin-tone": {
-      "codepoint": 58074,
+      "codepoint": 57951,
       "fontFamily": "NotoV1",
       "identifier": "womanGuardDarkSkinTone"
     },
     "woman-guard-light-skin-tone": {
-      "codepoint": 58075,
+      "codepoint": 57952,
       "fontFamily": "NotoV1",
       "identifier": "womanGuardLightSkinTone"
     },
     "woman-guard-medium-dark-skin-tone": {
-      "codepoint": 58076,
+      "codepoint": 57953,
       "fontFamily": "NotoV1",
       "identifier": "womanGuardMediumDarkSkinTone"
     },
     "woman-guard-medium-light-skin-tone": {
-      "codepoint": 58077,
+      "codepoint": 57954,
       "fontFamily": "NotoV1",
       "identifier": "womanGuardMediumLightSkinTone"
     },
     "woman-guard-medium-skin-tone": {
-      "codepoint": 58078,
+      "codepoint": 57955,
       "fontFamily": "NotoV1",
       "identifier": "womanGuardMediumSkinTone"
     },
     "woman-health-worker": {
-      "codepoint": 58079,
+      "codepoint": 57956,
       "fontFamily": "NotoV1",
       "identifier": "womanHealthWorker"
     },
     "woman-health-worker-dark-skin-tone": {
-      "codepoint": 58158,
+      "codepoint": 57957,
       "fontFamily": "NotoV1",
       "identifier": "womanHealthWorkerDarkSkinTone"
     },
     "woman-health-worker-light-skin-tone": {
-      "codepoint": 58080,
+      "codepoint": 57958,
       "fontFamily": "NotoV1",
       "identifier": "womanHealthWorkerLightSkinTone"
     },
     "woman-health-worker-medium-dark-skin-tone": {
-      "codepoint": 58159,
+      "codepoint": 57959,
       "fontFamily": "NotoV1",
       "identifier": "womanHealthWorkerMediumDarkSkinTone"
     },
     "woman-health-worker-medium-light-skin-tone": {
-      "codepoint": 58081,
+      "codepoint": 57960,
       "fontFamily": "NotoV1",
       "identifier": "womanHealthWorkerMediumLightSkinTone"
     },
     "woman-health-worker-medium-skin-tone": {
-      "codepoint": 58082,
+      "codepoint": 57961,
       "fontFamily": "NotoV1",
       "identifier": "womanHealthWorkerMediumSkinTone"
     },
     "woman-mountain-biking": {
-      "codepoint": 58160,
+      "codepoint": 57962,
       "fontFamily": "NotoV1",
       "identifier": "womanMountainBiking"
     },
     "woman-mountain-biking-dark-skin-tone": {
-      "codepoint": 58161,
+      "codepoint": 57963,
       "fontFamily": "NotoV1",
       "identifier": "womanMountainBikingDarkSkinTone",
       "duotone": true
     },
     "woman-mountain-biking-light-skin-tone": {
-      "codepoint": 58162,
+      "codepoint": 57964,
       "fontFamily": "NotoV1",
       "identifier": "womanMountainBikingLightSkinTone"
     },
     "woman-mountain-biking-medium-dark-skin-tone": {
-      "codepoint": 58163,
+      "codepoint": 57965,
       "fontFamily": "NotoV1",
       "identifier": "womanMountainBikingMediumDarkSkinTone"
     },
     "woman-mountain-biking-medium-light-skin-tone": {
-      "codepoint": 58164,
+      "codepoint": 57966,
       "fontFamily": "NotoV1",
       "identifier": "womanMountainBikingMediumLightSkinTone"
     },
     "woman-mountain-biking-medium-skin-tone": {
-      "codepoint": 58165,
+      "codepoint": 57967,
       "fontFamily": "NotoV1",
       "identifier": "womanMountainBikingMediumSkinTone"
     },
     "woman-playing-water-polo": {
-      "codepoint": 58083,
+      "codepoint": 57968,
       "fontFamily": "NotoV1",
       "identifier": "womanPlayingWaterPolo"
     },
     "woman-playing-water-polo-dark-skin-tone": {
-      "codepoint": 58084,
+      "codepoint": 57969,
       "fontFamily": "NotoV1",
       "identifier": "womanPlayingWaterPoloDarkSkinTone"
     },
     "woman-playing-water-polo-light-skin-tone": {
-      "codepoint": 58085,
+      "codepoint": 57970,
       "fontFamily": "NotoV1",
       "identifier": "womanPlayingWaterPoloLightSkinTone"
     },
     "woman-playing-water-polo-medium-dark-skin-tone": {
-      "codepoint": 58086,
+      "codepoint": 57971,
       "fontFamily": "NotoV1",
       "identifier": "womanPlayingWaterPoloMediumDarkSkinTone"
     },
     "woman-playing-water-polo-medium-light-skin-tone": {
-      "codepoint": 58087,
+      "codepoint": 57972,
       "fontFamily": "NotoV1",
       "identifier": "womanPlayingWaterPoloMediumLightSkinTone"
     },
     "woman-playing-water-polo-medium-skin-tone": {
-      "codepoint": 58088,
+      "codepoint": 57973,
       "fontFamily": "NotoV1",
       "identifier": "womanPlayingWaterPoloMediumSkinTone"
     },
     "woman-singer": {
-      "codepoint": 58089,
+      "codepoint": 57974,
       "fontFamily": "NotoV1",
       "identifier": "womanSinger"
     },
     "woman-singer-dark-skin-tone": {
-      "codepoint": 58166,
+      "codepoint": 57975,
       "fontFamily": "NotoV1",
       "identifier": "womanSingerDarkSkinTone"
     },
     "woman-singer-light-skin-tone": {
-      "codepoint": 58090,
+      "codepoint": 57976,
       "fontFamily": "NotoV1",
       "identifier": "womanSingerLightSkinTone"
     },
     "woman-singer-medium-dark-skin-tone": {
-      "codepoint": 58167,
+      "codepoint": 57977,
       "fontFamily": "NotoV1",
       "identifier": "womanSingerMediumDarkSkinTone"
     },
     "woman-singer-medium-light-skin-tone": {
-      "codepoint": 58091,
+      "codepoint": 57978,
       "fontFamily": "NotoV1",
       "identifier": "womanSingerMediumLightSkinTone"
     },
     "woman-singer-medium-skin-tone": {
-      "codepoint": 58092,
+      "codepoint": 57979,
       "fontFamily": "NotoV1",
       "identifier": "womanSingerMediumSkinTone"
     },
     "woman-teacher": {
-      "codepoint": 58093,
+      "codepoint": 57980,
       "fontFamily": "NotoV1",
       "identifier": "womanTeacher"
     },
     "woman-teacher-dark-skin-tone": {
-      "codepoint": 58094,
+      "codepoint": 57981,
       "fontFamily": "NotoV1",
       "identifier": "womanTeacherDarkSkinTone"
     },
     "woman-teacher-light-skin-tone": {
-      "codepoint": 58095,
+      "codepoint": 57982,
       "fontFamily": "NotoV1",
       "identifier": "womanTeacherLightSkinTone"
     },
     "woman-teacher-medium-dark-skin-tone": {
-      "codepoint": 58096,
+      "codepoint": 57983,
       "fontFamily": "NotoV1",
       "identifier": "womanTeacherMediumDarkSkinTone"
     },
     "woman-teacher-medium-light-skin-tone": {
-      "codepoint": 58097,
+      "codepoint": 57984,
       "fontFamily": "NotoV1",
       "identifier": "womanTeacherMediumLightSkinTone"
     },
     "woman-teacher-medium-skin-tone": {
-      "codepoint": 58098,
+      "codepoint": 57985,
       "fontFamily": "NotoV1",
       "identifier": "womanTeacherMediumSkinTone"
     },
     "womans-hat": {
-      "codepoint": 57933,
+      "codepoint": 57986,
       "fontFamily": "NotoV1",
       "identifier": "womansHat",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "womens-room": {
-      "codepoint": 57802,
+      "codepoint": 57987,
       "fontFamily": "NotoV1",
       "identifier": "womensRoom",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
-    "world-map": {
-      "codepoint": 57803,
-      "fontFamily": "NotoV1",
-      "identifier": "worldMap",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "worried-face": {
-      "codepoint": 57804,
+      "codepoint": 57988,
       "fontFamily": "NotoV1",
       "identifier": "worriedFace"
     },
-    "wrench": {
-      "codepoint": 57805,
-      "fontFamily": "NotoV1",
-      "identifier": "wrench",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
-    },
     "yin-yang": {
-      "codepoint": 58099,
+      "codepoint": 57989,
       "fontFamily": "NotoV1",
       "identifier": "yinYang"
     },
     "zipper-mouth-face": {
-      "codepoint": 57806,
+      "codepoint": 57990,
       "fontFamily": "NotoV1",
       "identifier": "zipperMouthFace"
     }

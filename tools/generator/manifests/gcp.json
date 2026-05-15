@@ -46,1139 +46,1139 @@
       "identifier": "advancedAgentModeling"
     },
     "advanced-solutions-lab": {
-      "codepoint": 57462,
+      "codepoint": 57347,
       "fontFamily": "Gcp",
       "identifier": "advancedSolutionsLab"
     },
     "agent-assist": {
-      "codepoint": 57463,
+      "codepoint": 57348,
       "fontFamily": "Gcp",
       "identifier": "agentAssist"
     },
     "ai-hub": {
-      "codepoint": 57464,
+      "codepoint": 57349,
       "fontFamily": "Gcp",
       "identifier": "aiHub"
     },
     "ai-platform": {
-      "codepoint": 57428,
+      "codepoint": 57350,
       "fontFamily": "Gcp",
       "identifier": "aiPlatform",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "ai-platform-unified": {
-      "codepoint": 57347,
+      "codepoint": 57351,
       "fontFamily": "Gcp",
       "identifier": "aiPlatformUnified"
     },
     "analytics-hub": {
-      "codepoint": 57465,
+      "codepoint": 57352,
       "fontFamily": "Gcp",
       "identifier": "analyticsHub"
     },
     "anthos": {
-      "codepoint": 57348,
+      "codepoint": 57353,
       "fontFamily": "Gcp",
       "identifier": "anthos"
     },
     "anthos-config-management": {
-      "codepoint": 57466,
+      "codepoint": 57354,
       "fontFamily": "Gcp",
       "identifier": "anthosConfigManagement"
     },
     "anthos-service-mesh": {
-      "codepoint": 57467,
+      "codepoint": 57355,
       "fontFamily": "Gcp",
       "identifier": "anthosServiceMesh"
     },
     "api": {
-      "codepoint": 57349,
+      "codepoint": 57356,
       "fontFamily": "Gcp",
       "identifier": "api"
     },
     "api-analytics": {
-      "codepoint": 57468,
+      "codepoint": 57357,
       "fontFamily": "Gcp",
       "identifier": "apiAnalytics"
     },
     "api-monetization": {
-      "codepoint": 57469,
+      "codepoint": 57358,
       "fontFamily": "Gcp",
       "identifier": "apiMonetization"
     },
     "apigee-api-platform": {
-      "codepoint": 57429,
+      "codepoint": 57359,
       "fontFamily": "Gcp",
       "identifier": "apigeeApiPlatform",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "apigee-sense": {
-      "codepoint": 57470,
+      "codepoint": 57360,
       "fontFamily": "Gcp",
       "identifier": "apigeeSense"
     },
     "app-engine": {
-      "codepoint": 57471,
+      "codepoint": 57361,
       "fontFamily": "Gcp",
       "identifier": "appEngine"
     },
     "artifact-registry": {
-      "codepoint": 57350,
+      "codepoint": 57362,
       "fontFamily": "Gcp",
       "identifier": "artifactRegistry"
     },
     "asset-inventory": {
-      "codepoint": 57472,
+      "codepoint": 57363,
       "fontFamily": "Gcp",
       "identifier": "assetInventory"
     },
     "assured-workloads": {
-      "codepoint": 57473,
+      "codepoint": 57364,
       "fontFamily": "Gcp",
       "identifier": "assuredWorkloads"
     },
     "automl": {
-      "codepoint": 57474,
+      "codepoint": 57365,
       "fontFamily": "Gcp",
       "identifier": "automl",
       "duotone": true
     },
     "automl-natural-language": {
-      "codepoint": 57351,
+      "codepoint": 57366,
       "fontFamily": "Gcp",
       "identifier": "automlNaturalLanguage"
     },
     "automl-tables": {
-      "codepoint": 57475,
+      "codepoint": 57367,
       "fontFamily": "Gcp",
       "identifier": "automlTables"
     },
     "automl-translation": {
-      "codepoint": 57476,
+      "codepoint": 57368,
       "fontFamily": "Gcp",
       "identifier": "automlTranslation"
     },
     "automl-video-intelligence": {
-      "codepoint": 57477,
+      "codepoint": 57369,
       "fontFamily": "Gcp",
       "identifier": "automlVideoIntelligence"
     },
     "automl-vision": {
-      "codepoint": 57430,
+      "codepoint": 57370,
       "fontFamily": "Gcp",
       "identifier": "automlVision",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "bare-metal-solutions": {
-      "codepoint": 57352,
+      "codepoint": 57371,
       "fontFamily": "Gcp",
       "identifier": "bareMetalSolutions"
     },
     "batch": {
-      "codepoint": 57478,
+      "codepoint": 57372,
       "fontFamily": "Gcp",
       "identifier": "batch"
     },
     "beyondcorp": {
-      "codepoint": 57479,
+      "codepoint": 57373,
       "fontFamily": "Gcp",
       "identifier": "beyondcorp"
     },
     "bigquery": {
-      "codepoint": 57353,
+      "codepoint": 57374,
       "fontFamily": "Gcp",
       "identifier": "bigquery"
     },
     "bigtable": {
-      "codepoint": 57480,
+      "codepoint": 57375,
       "fontFamily": "Gcp",
       "identifier": "bigtable"
     },
     "billing": {
-      "codepoint": 57354,
+      "codepoint": 57376,
       "fontFamily": "Gcp",
       "identifier": "billing"
     },
     "binary-authorization": {
-      "codepoint": 57481,
+      "codepoint": 57377,
       "fontFamily": "Gcp",
       "identifier": "binaryAuthorization"
     },
     "catalog": {
-      "codepoint": 57355,
+      "codepoint": 57378,
       "fontFamily": "Gcp",
       "identifier": "catalog"
     },
     "certificate-authority-service": {
-      "codepoint": 57482,
+      "codepoint": 57379,
       "fontFamily": "Gcp",
       "identifier": "certificateAuthorityService"
     },
     "certificate-manager": {
-      "codepoint": 57356,
+      "codepoint": 57380,
       "fontFamily": "Gcp",
       "identifier": "certificateManager"
     },
     "cloud-api-gateway": {
-      "codepoint": 57483,
+      "codepoint": 57381,
       "fontFamily": "Gcp",
       "identifier": "cloudApiGateway"
     },
     "cloud-apis": {
-      "codepoint": 57484,
+      "codepoint": 57382,
       "fontFamily": "Gcp",
       "identifier": "cloudApis"
     },
     "cloud-armor": {
-      "codepoint": 57357,
+      "codepoint": 57383,
       "fontFamily": "Gcp",
       "identifier": "cloudArmor",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-asset-inventory": {
-      "codepoint": 57358,
+      "codepoint": 57384,
       "fontFamily": "Gcp",
       "identifier": "cloudAssetInventory"
     },
     "cloud-audit-logs": {
-      "codepoint": 57485,
+      "codepoint": 57385,
       "fontFamily": "Gcp",
       "identifier": "cloudAuditLogs"
     },
     "cloud-build": {
-      "codepoint": 57486,
+      "codepoint": 57386,
       "fontFamily": "Gcp",
       "identifier": "cloudBuild"
     },
     "cloud-cdn": {
-      "codepoint": 57359,
+      "codepoint": 57387,
       "fontFamily": "Gcp",
       "identifier": "cloudCdn"
     },
     "cloud-code": {
-      "codepoint": 57360,
+      "codepoint": 57388,
       "fontFamily": "Gcp",
       "identifier": "cloudCode"
     },
     "cloud-composer": {
-      "codepoint": 57361,
+      "codepoint": 57389,
       "fontFamily": "Gcp",
       "identifier": "cloudComposer",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-data-fusion": {
-      "codepoint": 57362,
+      "codepoint": 57390,
       "fontFamily": "Gcp",
       "identifier": "cloudDataFusion"
     },
     "cloud-deploy": {
-      "codepoint": 57487,
+      "codepoint": 57391,
       "fontFamily": "Gcp",
       "identifier": "cloudDeploy"
     },
     "cloud-deployment-manager": {
-      "codepoint": 57488,
+      "codepoint": 57392,
       "fontFamily": "Gcp",
       "identifier": "cloudDeploymentManager"
     },
     "cloud-dns": {
-      "codepoint": 57489,
+      "codepoint": 57393,
       "fontFamily": "Gcp",
       "identifier": "cloudDns"
     },
     "cloud-domains": {
-      "codepoint": 57431,
+      "codepoint": 57394,
       "fontFamily": "Gcp",
       "identifier": "cloudDomains",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-ekm": {
-      "codepoint": 57490,
+      "codepoint": 57395,
       "fontFamily": "Gcp",
       "identifier": "cloudEkm"
     },
     "cloud-endpoints": {
-      "codepoint": 57432,
+      "codepoint": 57396,
       "fontFamily": "Gcp",
       "identifier": "cloudEndpoints",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-external-ip-addresses": {
-      "codepoint": 57433,
+      "codepoint": 57397,
       "fontFamily": "Gcp",
       "identifier": "cloudExternalIpAddresses",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-firewall-rules": {
-      "codepoint": 57491,
+      "codepoint": 57398,
       "fontFamily": "Gcp",
       "identifier": "cloudFirewallRules"
     },
     "cloud-for-marketing": {
-      "codepoint": 57492,
+      "codepoint": 57399,
       "fontFamily": "Gcp",
       "identifier": "cloudForMarketing"
     },
     "cloud-functions": {
-      "codepoint": 57493,
+      "codepoint": 57400,
       "fontFamily": "Gcp",
       "identifier": "cloudFunctions"
     },
     "cloud-generic": {
-      "codepoint": 57494,
+      "codepoint": 57401,
       "fontFamily": "Gcp",
       "identifier": "cloudGeneric"
     },
     "cloud-gpu": {
-      "codepoint": 57363,
+      "codepoint": 57402,
       "fontFamily": "Gcp",
       "identifier": "cloudGpu"
     },
     "cloud-healthcare-api": {
-      "codepoint": 57364,
+      "codepoint": 57403,
       "fontFamily": "Gcp",
       "identifier": "cloudHealthcareApi"
     },
     "cloud-healthcare-marketplace": {
-      "codepoint": 57365,
+      "codepoint": 57404,
       "fontFamily": "Gcp",
       "identifier": "cloudHealthcareMarketplace"
     },
     "cloud-hsm": {
-      "codepoint": 57495,
+      "codepoint": 57405,
       "fontFamily": "Gcp",
       "identifier": "cloudHsm"
     },
     "cloud-ids": {
-      "codepoint": 57366,
+      "codepoint": 57406,
       "fontFamily": "Gcp",
       "identifier": "cloudIds"
     },
     "cloud-inference-api": {
-      "codepoint": 57434,
+      "codepoint": 57407,
       "fontFamily": "Gcp",
       "identifier": "cloudInferenceApi",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-interconnect": {
-      "codepoint": 57496,
+      "codepoint": 57408,
       "fontFamily": "Gcp",
       "identifier": "cloudInterconnect"
     },
     "cloud-jobs-api": {
-      "codepoint": 57367,
+      "codepoint": 57409,
       "fontFamily": "Gcp",
       "identifier": "cloudJobsApi"
     },
     "cloud-load-balancing": {
-      "codepoint": 57368,
+      "codepoint": 57410,
       "fontFamily": "Gcp",
       "identifier": "cloudLoadBalancing"
     },
     "cloud-logging": {
-      "codepoint": 57497,
+      "codepoint": 57411,
       "fontFamily": "Gcp",
       "identifier": "cloudLogging"
     },
     "cloud-media-edge": {
-      "codepoint": 57369,
+      "codepoint": 57412,
       "fontFamily": "Gcp",
       "identifier": "cloudMediaEdge"
     },
     "cloud-monitoring": {
-      "codepoint": 57435,
+      "codepoint": 57413,
       "fontFamily": "Gcp",
       "identifier": "cloudMonitoring",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-nat": {
-      "codepoint": 57436,
+      "codepoint": 57414,
       "fontFamily": "Gcp",
       "identifier": "cloudNat",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-natural-language-api": {
-      "codepoint": 57498,
+      "codepoint": 57415,
       "fontFamily": "Gcp",
       "identifier": "cloudNaturalLanguageApi"
     },
     "cloud-network": {
-      "codepoint": 57499,
+      "codepoint": 57416,
       "fontFamily": "Gcp",
       "identifier": "cloudNetwork"
     },
     "cloud-ops": {
-      "codepoint": 57370,
+      "codepoint": 57417,
       "fontFamily": "Gcp",
       "identifier": "cloudOps"
     },
     "cloud-optimization-ai": {
-      "codepoint": 57500,
+      "codepoint": 57418,
       "fontFamily": "Gcp",
       "identifier": "cloudOptimizationAi"
     },
     "cloud-optimization-ai-fleet-routing-api": {
-      "codepoint": 57371,
+      "codepoint": 57419,
       "fontFamily": "Gcp",
       "identifier": "cloudOptimizationAiFleetRoutingApi",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-router": {
-      "codepoint": 57501,
+      "codepoint": 57420,
       "fontFamily": "Gcp",
       "identifier": "cloudRouter"
     },
     "cloud-routes": {
-      "codepoint": 57437,
+      "codepoint": 57421,
       "fontFamily": "Gcp",
       "identifier": "cloudRoutes",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-run": {
-      "codepoint": 57372,
+      "codepoint": 57422,
       "fontFamily": "Gcp",
       "identifier": "cloudRun",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-run-for-anthos": {
-      "codepoint": 57373,
+      "codepoint": 57423,
       "fontFamily": "Gcp",
       "identifier": "cloudRunForAnthos",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-scheduler": {
-      "codepoint": 57502,
+      "codepoint": 57424,
       "fontFamily": "Gcp",
       "identifier": "cloudScheduler"
     },
     "cloud-security-scanner": {
-      "codepoint": 57374,
+      "codepoint": 57425,
       "fontFamily": "Gcp",
       "identifier": "cloudSecurityScanner"
     },
     "cloud-shell": {
-      "codepoint": 57375,
+      "codepoint": 57426,
       "fontFamily": "Gcp",
       "identifier": "cloudShell"
     },
     "cloud-spanner": {
-      "codepoint": 57503,
+      "codepoint": 57427,
       "fontFamily": "Gcp",
       "identifier": "cloudSpanner"
     },
     "cloud-sql": {
-      "codepoint": 57376,
+      "codepoint": 57428,
       "fontFamily": "Gcp",
       "identifier": "cloudSql"
     },
     "cloud-storage": {
-      "codepoint": 57377,
+      "codepoint": 57429,
       "fontFamily": "Gcp",
       "identifier": "cloudStorage"
     },
     "cloud-tasks": {
-      "codepoint": 57378,
+      "codepoint": 57430,
       "fontFamily": "Gcp",
       "identifier": "cloudTasks"
     },
     "cloud-test-lab": {
-      "codepoint": 57438,
+      "codepoint": 57431,
       "fontFamily": "Gcp",
       "identifier": "cloudTestLab",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-tpu": {
-      "codepoint": 57379,
+      "codepoint": 57432,
       "fontFamily": "Gcp",
       "identifier": "cloudTpu"
     },
     "cloud-translation-api": {
-      "codepoint": 57439,
+      "codepoint": 57433,
       "fontFamily": "Gcp",
       "identifier": "cloudTranslationApi",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "cloud-vision-api": {
-      "codepoint": 57380,
+      "codepoint": 57434,
       "fontFamily": "Gcp",
       "identifier": "cloudVisionApi"
     },
     "cloud-vpn": {
-      "codepoint": 57440,
+      "codepoint": 57435,
       "fontFamily": "Gcp",
       "identifier": "cloudVpn",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "compute-engine": {
-      "codepoint": 57381,
+      "codepoint": 57436,
       "fontFamily": "Gcp",
       "identifier": "computeEngine"
     },
     "configuration-management": {
-      "codepoint": 57441,
+      "codepoint": 57437,
       "fontFamily": "Gcp",
       "identifier": "configurationManagement",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "connectivity-test": {
-      "codepoint": 57382,
+      "codepoint": 57438,
       "fontFamily": "Gcp",
       "identifier": "connectivityTest"
     },
     "connectors": {
-      "codepoint": 57383,
+      "codepoint": 57439,
       "fontFamily": "Gcp",
       "identifier": "connectors"
     },
     "contact-center-ai": {
-      "codepoint": 57504,
+      "codepoint": 57440,
       "fontFamily": "Gcp",
       "identifier": "contactCenterAi"
     },
     "container-optimized-os": {
-      "codepoint": 57505,
+      "codepoint": 57441,
       "fontFamily": "Gcp",
       "identifier": "containerOptimizedOs"
     },
     "container-registry": {
-      "codepoint": 57384,
+      "codepoint": 57442,
       "fontFamily": "Gcp",
       "identifier": "containerRegistry"
     },
     "data-catalog": {
-      "codepoint": 57442,
+      "codepoint": 57443,
       "fontFamily": "Gcp",
       "identifier": "dataCatalog",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "data-labeling": {
-      "codepoint": 57385,
+      "codepoint": 57444,
       "fontFamily": "Gcp",
       "identifier": "dataLabeling"
     },
     "data-layers": {
-      "codepoint": 57386,
+      "codepoint": 57445,
       "fontFamily": "Gcp",
       "identifier": "dataLayers"
     },
     "data-loss-prevention-api": {
-      "codepoint": 57506,
+      "codepoint": 57446,
       "fontFamily": "Gcp",
       "identifier": "dataLossPreventionApi"
     },
     "data-qna": {
-      "codepoint": 57507,
+      "codepoint": 57447,
       "fontFamily": "Gcp",
       "identifier": "dataQna"
     },
     "data-studio": {
-      "codepoint": 57443,
+      "codepoint": 57448,
       "fontFamily": "Gcp",
       "identifier": "dataStudio",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "data-transfer": {
-      "codepoint": 57508,
+      "codepoint": 57449,
       "fontFamily": "Gcp",
       "identifier": "dataTransfer"
     },
     "database-migration-service": {
-      "codepoint": 57509,
+      "codepoint": 57450,
       "fontFamily": "Gcp",
       "identifier": "databaseMigrationService"
     },
     "dataflow": {
-      "codepoint": 57510,
+      "codepoint": 57451,
       "fontFamily": "Gcp",
       "identifier": "dataflow"
     },
     "datalab": {
-      "codepoint": 57511,
+      "codepoint": 57452,
       "fontFamily": "Gcp",
       "identifier": "datalab"
     },
     "dataplex": {
-      "codepoint": 57387,
+      "codepoint": 57453,
       "fontFamily": "Gcp",
       "identifier": "dataplex"
     },
     "datapol": {
-      "codepoint": 57444,
+      "codepoint": 57454,
       "fontFamily": "Gcp",
       "identifier": "datapol",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "dataprep": {
-      "codepoint": 57445,
+      "codepoint": 57455,
       "fontFamily": "Gcp",
       "identifier": "dataprep",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "dataproc": {
-      "codepoint": 57388,
+      "codepoint": 57456,
       "fontFamily": "Gcp",
       "identifier": "dataproc"
     },
     "dataproc-metastore": {
-      "codepoint": 57512,
+      "codepoint": 57457,
       "fontFamily": "Gcp",
       "identifier": "dataprocMetastore"
     },
     "datashare": {
-      "codepoint": 57446,
+      "codepoint": 57458,
       "fontFamily": "Gcp",
       "identifier": "datashare",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "datastore": {
-      "codepoint": 57389,
+      "codepoint": 57459,
       "fontFamily": "Gcp",
       "identifier": "datastore"
     },
     "datastream": {
-      "codepoint": 57390,
+      "codepoint": 57460,
       "fontFamily": "Gcp",
       "identifier": "datastream"
     },
     "debugger": {
-      "codepoint": 57391,
+      "codepoint": 57461,
       "fontFamily": "Gcp",
       "identifier": "debugger"
     },
     "developer-portal": {
-      "codepoint": 57447,
+      "codepoint": 57462,
       "fontFamily": "Gcp",
       "identifier": "developerPortal",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "dialogflow-cx": {
-      "codepoint": 57392,
+      "codepoint": 57463,
       "fontFamily": "Gcp",
       "identifier": "dialogflowCx"
     },
     "dialogflow-insights": {
-      "codepoint": 57393,
+      "codepoint": 57464,
       "fontFamily": "Gcp",
       "identifier": "dialogflowInsights"
     },
     "document-ai": {
-      "codepoint": 57394,
+      "codepoint": 57465,
       "fontFamily": "Gcp",
       "identifier": "documentAi"
     },
     "early-access-center": {
-      "codepoint": 57513,
+      "codepoint": 57466,
       "fontFamily": "Gcp",
       "identifier": "earlyAccessCenter"
     },
     "error-reporting": {
-      "codepoint": 57448,
+      "codepoint": 57467,
       "fontFamily": "Gcp",
       "identifier": "errorReporting",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "eventarc": {
-      "codepoint": 57514,
+      "codepoint": 57468,
       "fontFamily": "Gcp",
       "identifier": "eventarc"
     },
     "filestore": {
-      "codepoint": 57515,
+      "codepoint": 57469,
       "fontFamily": "Gcp",
       "identifier": "filestore"
     },
     "financial-services-marketplace": {
-      "codepoint": 57449,
+      "codepoint": 57470,
       "fontFamily": "Gcp",
       "identifier": "financialServicesMarketplace",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "firestore": {
-      "codepoint": 57516,
+      "codepoint": 57471,
       "fontFamily": "Gcp",
       "identifier": "firestore"
     },
     "fleet-engine": {
-      "codepoint": 57395,
+      "codepoint": 57472,
       "fontFamily": "Gcp",
       "identifier": "fleetEngine"
     },
     "free-trial": {
-      "codepoint": 57396,
+      "codepoint": 57473,
       "fontFamily": "Gcp",
       "identifier": "freeTrial"
     },
     "game-servers": {
-      "codepoint": 57397,
+      "codepoint": 57474,
       "fontFamily": "Gcp",
       "identifier": "gameServers"
     },
     "gce-systems-management": {
-      "codepoint": 57517,
+      "codepoint": 57475,
       "fontFamily": "Gcp",
       "identifier": "gceSystemsManagement"
     },
     "genomics": {
-      "codepoint": 57518,
+      "codepoint": 57476,
       "fontFamily": "Gcp",
       "identifier": "genomics"
     },
     "gke-on-prem": {
-      "codepoint": 57398,
+      "codepoint": 57477,
       "fontFamily": "Gcp",
       "identifier": "gkeOnPrem"
     },
     "google-cloud-marketplace": {
-      "codepoint": 57399,
+      "codepoint": 57478,
       "fontFamily": "Gcp",
       "identifier": "googleCloudMarketplace",
       "duotone": true
     },
     "google-kubernetes-engine": {
-      "codepoint": 57519,
+      "codepoint": 57479,
       "fontFamily": "Gcp",
       "identifier": "googleKubernetesEngine"
     },
     "google-maps-platform": {
-      "codepoint": 57520,
+      "codepoint": 57480,
       "fontFamily": "Gcp",
       "identifier": "googleMapsPlatform"
     },
     "healthcare-nlp-api": {
-      "codepoint": 57521,
+      "codepoint": 57481,
       "fontFamily": "Gcp",
       "identifier": "healthcareNlpApi"
     },
     "home": {
-      "codepoint": 57400,
+      "codepoint": 57482,
       "fontFamily": "Gcp",
       "identifier": "home"
     },
     "identity-and-access-management": {
-      "codepoint": 57450,
+      "codepoint": 57483,
       "fontFamily": "Gcp",
       "identifier": "identityAndAccessManagement",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "identity-aware-proxy": {
-      "codepoint": 57522,
+      "codepoint": 57484,
       "fontFamily": "Gcp",
       "identifier": "identityAwareProxy"
     },
     "identity-platform": {
-      "codepoint": 57451,
+      "codepoint": 57485,
       "fontFamily": "Gcp",
       "identifier": "identityPlatform",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "iot-core": {
-      "codepoint": 57452,
+      "codepoint": 57486,
       "fontFamily": "Gcp",
       "identifier": "iotCore",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "iot-edge": {
-      "codepoint": 57401,
+      "codepoint": 57487,
       "fontFamily": "Gcp",
       "identifier": "iotEdge"
     },
     "key-access-justifications": {
-      "codepoint": 57402,
+      "codepoint": 57488,
       "fontFamily": "Gcp",
       "identifier": "keyAccessJustifications"
     },
     "key-management-service": {
-      "codepoint": 57453,
+      "codepoint": 57489,
       "fontFamily": "Gcp",
       "identifier": "keyManagementService",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "kuberun": {
-      "codepoint": 57523,
+      "codepoint": 57490,
       "fontFamily": "Gcp",
       "identifier": "kuberun"
     },
     "launcher": {
-      "codepoint": 57403,
+      "codepoint": 57491,
       "fontFamily": "Gcp",
       "identifier": "launcher"
     },
     "local-ssd": {
-      "codepoint": 57524,
+      "codepoint": 57492,
       "fontFamily": "Gcp",
       "identifier": "localSsd"
     },
     "managed-service-for-microsoft-active-directory": {
-      "codepoint": 57525,
+      "codepoint": 57493,
       "fontFamily": "Gcp",
       "identifier": "managedServiceForMicrosoftActiveDirectory"
     },
     "media-translation-api": {
-      "codepoint": 57404,
+      "codepoint": 57494,
       "fontFamily": "Gcp",
       "identifier": "mediaTranslationApi"
     },
     "memorystore": {
-      "codepoint": 57526,
+      "codepoint": 57495,
       "fontFamily": "Gcp",
       "identifier": "memorystore"
     },
     "migrate-for-anthos": {
-      "codepoint": 57527,
+      "codepoint": 57496,
       "fontFamily": "Gcp",
       "identifier": "migrateForAnthos"
     },
     "migrate-for-compute-engine": {
-      "codepoint": 57528,
+      "codepoint": 57497,
       "fontFamily": "Gcp",
       "identifier": "migrateForComputeEngine"
     },
     "my-cloud": {
-      "codepoint": 57405,
+      "codepoint": 57498,
       "fontFamily": "Gcp",
       "identifier": "myCloud"
     },
     "network-connectivity-center": {
-      "codepoint": 57529,
+      "codepoint": 57499,
       "fontFamily": "Gcp",
       "identifier": "networkConnectivityCenter"
     },
     "network-intelligence-center": {
-      "codepoint": 57530,
+      "codepoint": 57500,
       "fontFamily": "Gcp",
       "identifier": "networkIntelligenceCenter"
     },
     "network-security": {
-      "codepoint": 57406,
+      "codepoint": 57501,
       "fontFamily": "Gcp",
       "identifier": "networkSecurity"
     },
     "network-tiers": {
-      "codepoint": 57531,
+      "codepoint": 57502,
       "fontFamily": "Gcp",
       "identifier": "networkTiers"
     },
     "network-topology": {
-      "codepoint": 57532,
+      "codepoint": 57503,
       "fontFamily": "Gcp",
       "identifier": "networkTopology"
     },
     "onboarding": {
-      "codepoint": 57407,
+      "codepoint": 57504,
       "fontFamily": "Gcp",
       "identifier": "onboarding"
     },
     "os-configuration-management": {
-      "codepoint": 57533,
+      "codepoint": 57505,
       "fontFamily": "Gcp",
       "identifier": "osConfigurationManagement"
     },
     "os-inventory-management": {
-      "codepoint": 57408,
+      "codepoint": 57506,
       "fontFamily": "Gcp",
       "identifier": "osInventoryManagement"
     },
     "os-patch-management": {
-      "codepoint": 57534,
+      "codepoint": 57507,
       "fontFamily": "Gcp",
       "identifier": "osPatchManagement"
     },
     "partner-interconnect": {
-      "codepoint": 57454,
+      "codepoint": 57508,
       "fontFamily": "Gcp",
       "identifier": "partnerInterconnect",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "partner-portal": {
-      "codepoint": 57409,
+      "codepoint": 57509,
       "fontFamily": "Gcp",
       "identifier": "partnerPortal"
     },
     "performance-dashboard": {
-      "codepoint": 57535,
+      "codepoint": 57510,
       "fontFamily": "Gcp",
       "identifier": "performanceDashboard"
     },
     "permissions": {
-      "codepoint": 57410,
+      "codepoint": 57511,
       "fontFamily": "Gcp",
       "identifier": "permissions"
     },
     "persistent-disk": {
-      "codepoint": 57536,
+      "codepoint": 57512,
       "fontFamily": "Gcp",
       "identifier": "persistentDisk"
     },
     "phishing-protection": {
-      "codepoint": 57537,
+      "codepoint": 57513,
       "fontFamily": "Gcp",
       "identifier": "phishingProtection"
     },
     "policy-analyzer": {
-      "codepoint": 57538,
+      "codepoint": 57514,
       "fontFamily": "Gcp",
       "identifier": "policyAnalyzer"
     },
     "premium-network-tier": {
-      "codepoint": 57539,
+      "codepoint": 57515,
       "fontFamily": "Gcp",
       "identifier": "premiumNetworkTier"
     },
     "private-connectivity": {
-      "codepoint": 57411,
+      "codepoint": 57516,
       "fontFamily": "Gcp",
       "identifier": "privateConnectivity"
     },
     "private-service-connect": {
-      "codepoint": 57540,
+      "codepoint": 57517,
       "fontFamily": "Gcp",
       "identifier": "privateServiceConnect"
     },
     "producer-portal": {
-      "codepoint": 57412,
+      "codepoint": 57518,
       "fontFamily": "Gcp",
       "identifier": "producerPortal",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "profiler": {
-      "codepoint": 57541,
+      "codepoint": 57519,
       "fontFamily": "Gcp",
       "identifier": "profiler"
     },
     "project": {
-      "codepoint": 57413,
+      "codepoint": 57520,
       "fontFamily": "Gcp",
       "identifier": "project"
     },
     "pubsub": {
-      "codepoint": 57414,
+      "codepoint": 57521,
       "fontFamily": "Gcp",
       "identifier": "pubsub"
     },
     "quantum-engine": {
-      "codepoint": 57415,
+      "codepoint": 57522,
       "fontFamily": "Gcp",
       "identifier": "quantumEngine"
     },
     "quotas": {
-      "codepoint": 57455,
+      "codepoint": 57523,
       "fontFamily": "Gcp",
       "identifier": "quotas",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "real-world-insights": {
-      "codepoint": 57416,
+      "codepoint": 57524,
       "fontFamily": "Gcp",
       "identifier": "realWorldInsights"
     },
     "recommendations-ai": {
-      "codepoint": 57417,
+      "codepoint": 57525,
       "fontFamily": "Gcp",
       "identifier": "recommendationsAi"
     },
     "release-notes": {
-      "codepoint": 57542,
+      "codepoint": 57526,
       "fontFamily": "Gcp",
       "identifier": "releaseNotes"
     },
     "retail-api": {
-      "codepoint": 57418,
+      "codepoint": 57527,
       "fontFamily": "Gcp",
       "identifier": "retailApi"
     },
     "risk-manager": {
-      "codepoint": 57543,
+      "codepoint": 57528,
       "fontFamily": "Gcp",
       "identifier": "riskManager"
     },
     "runtime-config": {
-      "codepoint": 57419,
+      "codepoint": 57529,
       "fontFamily": "Gcp",
       "identifier": "runtimeConfig"
     },
     "secret-manager": {
-      "codepoint": 57544,
+      "codepoint": 57530,
       "fontFamily": "Gcp",
       "identifier": "secretManager"
     },
     "security": {
-      "codepoint": 57545,
+      "codepoint": 57531,
       "fontFamily": "Gcp",
       "identifier": "security"
     },
     "security-command-center": {
-      "codepoint": 57456,
+      "codepoint": 57532,
       "fontFamily": "Gcp",
       "identifier": "securityCommandCenter",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "security-health-advisor": {
-      "codepoint": 57420,
+      "codepoint": 57533,
       "fontFamily": "Gcp",
       "identifier": "securityHealthAdvisor"
     },
     "security-key-enforcement": {
-      "codepoint": 57457,
+      "codepoint": 57534,
       "fontFamily": "Gcp",
       "identifier": "securityKeyEnforcement",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "service-discovery": {
-      "codepoint": 57458,
+      "codepoint": 57535,
       "fontFamily": "Gcp",
       "identifier": "serviceDiscovery",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "speech-to-text": {
-      "codepoint": 57546,
+      "codepoint": 57536,
       "fontFamily": "Gcp",
       "identifier": "speechToText"
     },
     "stackdriver": {
-      "codepoint": 57421,
+      "codepoint": 57537,
       "fontFamily": "Gcp",
       "identifier": "stackdriver"
     },
     "standard-network-tier": {
-      "codepoint": 57547,
+      "codepoint": 57538,
       "fontFamily": "Gcp",
       "identifier": "standardNetworkTier"
     },
     "stream-suite": {
-      "codepoint": 57548,
+      "codepoint": 57539,
       "fontFamily": "Gcp",
       "identifier": "streamSuite"
     },
     "support": {
-      "codepoint": 57422,
+      "codepoint": 57540,
       "fontFamily": "Gcp",
       "identifier": "support"
     },
     "tensorflow-enterprise": {
-      "codepoint": 57549,
+      "codepoint": 57541,
       "fontFamily": "Gcp",
       "identifier": "tensorflowEnterprise"
     },
     "text-to-speech": {
-      "codepoint": 57459,
+      "codepoint": 57542,
       "fontFamily": "Gcp",
       "identifier": "textToSpeech",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "tools-for-powershell": {
-      "codepoint": 57550,
+      "codepoint": 57543,
       "fontFamily": "Gcp",
       "identifier": "toolsForPowershell"
     },
     "trace": {
-      "codepoint": 57423,
+      "codepoint": 57544,
       "fontFamily": "Gcp",
       "identifier": "trace"
     },
     "traffic-director": {
-      "codepoint": 57551,
+      "codepoint": 57545,
       "fontFamily": "Gcp",
       "identifier": "trafficDirector"
     },
     "transfer": {
-      "codepoint": 57552,
+      "codepoint": 57546,
       "fontFamily": "Gcp",
       "identifier": "transfer"
     },
     "transfer-appliance": {
-      "codepoint": 57553,
+      "codepoint": 57547,
       "fontFamily": "Gcp",
       "identifier": "transferAppliance"
     },
     "user-preferences": {
-      "codepoint": 57424,
+      "codepoint": 57548,
       "fontFamily": "Gcp",
       "identifier": "userPreferences"
     },
     "vertexai": {
-      "codepoint": 57554,
+      "codepoint": 57549,
       "fontFamily": "Gcp",
       "identifier": "vertexai"
     },
     "video-intelligence-api": {
-      "codepoint": 57460,
+      "codepoint": 57550,
       "fontFamily": "Gcp",
       "identifier": "videoIntelligenceApi",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "virtual-private-cloud": {
-      "codepoint": 57425,
+      "codepoint": 57551,
       "fontFamily": "Gcp",
       "identifier": "virtualPrivateCloud"
     },
     "visual-inspection": {
-      "codepoint": 57555,
+      "codepoint": 57552,
       "fontFamily": "Gcp",
       "identifier": "visualInspection"
     },
     "vmware-engine": {
-      "codepoint": 57556,
+      "codepoint": 57553,
       "fontFamily": "Gcp",
       "identifier": "vmwareEngine"
     },
     "web-risk": {
-      "codepoint": 57426,
+      "codepoint": 57554,
       "fontFamily": "Gcp",
       "identifier": "webRisk"
     },
     "web-security-scanner": {
-      "codepoint": 57461,
+      "codepoint": 57555,
       "fontFamily": "Gcp",
       "identifier": "webSecurityScanner",
       "duotone": true,
       "duotoneKind": "paintOrder"
     },
     "workflows": {
-      "codepoint": 57557,
+      "codepoint": 57556,
       "fontFamily": "Gcp",
       "identifier": "workflows"
     },
     "workload-identity-pool": {
-      "codepoint": 57427,
+      "codepoint": 57557,
       "fontFamily": "Gcp",
       "identifier": "workloadIdentityPool"
     }
