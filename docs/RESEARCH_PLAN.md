@@ -1977,6 +1977,1169 @@ the data path first.**
 
 ---
 
+## §20 — Figma + ecosystem SVG tooling (publicly known)
+
+**Verdict: Two NEW ideas worth adopting beyond §17 — (a) `usvg`
+subprocess as a normaliser PRE-PASS for the whole pipeline (supersedes
+parts of §7), and (b) OKLab/RGB K-means k=2 for 3-colour → duotone
+reduction (recovers ~2-4 k currently-dropped icons).**
+
+### Figma's renderer (what's publicly known)
+
+- C++ → WebAssembly via Emscripten; same source compiles to native
+  binaries for server-side rendering ([Figma WebGPU blog](https://www.figma.com/blog/figma-rendering-powered-by-webgpu/))
+- Tile-based GPU renderer; migrated GLSL → WGSL for WebGPU (2025)
+- Custom SVG importer, not Skia's — Evan Wallace: "no standardized
+  way of converting SVG markup to pixels; most tools have their own
+  custom importers"
+- Path simplification, transform flattening, malformed SVG handling —
+  **not publicly documented**
+
+**For iconifyx**: zero direct adoption — proprietary runtime renderer.
+The transferable principle is "**normalise before rendering**", which
+maps directly to picosvg + usvg.
+
+### Other commercial tools
+
+- **Sketch / Affinity** — Core Graphics / Metal proprietary; not
+  borrowable.
+- **Adobe Illustrator** — proprietary PostScript-derived; closed.
+- **Inkscape** — Cairo + `lib2geom` (C++ Bezier arithmetic). No JS
+  bindings; kurbo (Rust) is a simpler analogue.
+- **Penpot** — JS/SVG-native browser rendering; wrong abstraction for
+  batch codegen.
+
+### Open-source production SVG tools — verdict table
+
+| Tool | Lang | Role | Real-world dirty SVG | Verdict |
+|---|---|---|---|---|
+| **resvg + usvg** (Linebender) | Rust | Parser + rasterizer | Best in class — beats librsvg 7/7, more spec tests passing | **Already in use; direct adoption per §17** |
+| **librsvg** | Rust (was C) | Renderer | Slower, less spec-compliant than resvg | Skip |
+| **Skia (SkSVG)** | C++ | Renderer | Experimental per Skia team | Skip |
+| **picosvg** (Google) | Python | Normaliser | Resolves `<use>`, flattens transforms via skia-pathops, strokes→fills, expands clip paths | **Adopt per §8** |
+| **`usvg` (standalone)** | Rust | Normaliser | Resolves all references/transforms; outputs `M/L/Q/C/Z` only with absolute coords | **NEW Adopt — pure Rust, no Python dep** |
+| **vtracer** (visioncortex) | Rust | Image → SVG tracer | Hierarchical multi-colour stacked | **Adopt per §1** |
+| **svgo** | JS | Optimiser | Designed for clean SVG; transform flattening NOT implemented ([issue #624 since 2015](https://github.com/svg/svgo/issues/624)) | Light cleanup only |
+| **Inkscape CLI** | C++/Py | Full app | Strongest dirty handler | Too slow (GUI startup); last-resort only |
+| **ThorVG / Pathfinder / Vello** | various | Renderers | SVG Tiny / research-grade / immature | Skip — wrong abstraction for build-time |
+
+### Multi-colour → monochrome reduction (key §5e unlock)
+
+**No mainstream tool does "intelligent" multi-colour → mono reduction**
+— every icon-font builder (IcoMoon, Fontello, fantasticon) drops fill
+info and ships the union silhouette (= our current paint-order drop
+failure mode).
+
+The genuine state of the art:
+- **vtracer Binary mode** — same silhouette failure as ours; skip
+- **vtracer Color mode + stacked hierarchy** — §1 plan; top-2 layers
+  map onto our duotone primary/secondary slots
+- **OKLab / DeltaE2000 K-means clustering** ([Okolors](https://github.com/IanManske/Okolors))
+  — for 3+ colour bodies, cluster to top-2 OKLab centroids, assign
+  each path to nearest centroid, emit as duotone
+
+**NEW concrete proposal: 3-colour → duotone via k-means clustering**
+
+For the ~3 k currently-dropped 3-colour emojis (subset of 22 k):
+1. Run OKLab (or cheaper RGB-Euclidean — §2 notes 50× cheaper at 95 %
+   accuracy) K-means with k=2 over per-path fill colours, weighted by
+   shoelace area
+2. Assign each path to closer centroid
+3. Emit as duotone — larger cluster = primary, smaller = secondary
+
+**Expected recovery**: ~2-4 k icons (needs prototyping). Combined with
+vtracer (10-14 k) reduces the 22 k drop to ~6-8 k truly intractable.
+
+**Cost**: ~1 day implementation. **Not in any prior section.**
+
+### Transform flattening — `usvg` is the answer
+
+`usvg` (Rust) and `picosvg` (Python) are both production-grade. svgo's
+transform flattening is explicitly broken (open issue 10+ years). The
+new recommendation:
+
+**Adopt `usvg` as a subprocess PRE-PASS before `svg_preprocess.ts`.**
+
+- Eliminates ALL `<use>`-related bugs in current regex paths
+- Removes much of §7's motivation (htmlparser2 AST migration) on the
+  parsing-correctness axis — usvg already normalised everything
+- Pre-normalised bodies have stable hashes → cache hit rate jumps
+- Pure Rust; no Python dependency (vs picosvg)
+- Cost: subprocess hop per cache-miss icon (~5 ms with §15's
+  persistent worker pool)
+
+This is genuinely new and supersedes ~50 % of §7's value.
+
+### SVG → font glyph: state of the art
+
+| Pipeline | Adoption | Verdict |
+|---|---|---|
+| **fontTools + cu2qu + skia-pathops** (Python) | **Google Fonts, Adobe, Apple, Material Symbols all use this** | Gold standard — `cu2qu` properly converts SVG cubics to TTF quadratics (svg2ttf does NOT) |
+| **opentype.js** (JS) | Lighter alternative | Lacks built-in cu2qu; needs partial port |
+| **harfbuzz_rs / harfbuzzjs** | Verifier layer, not builder | True-render empty-glyph detection |
+
+**For iconifyx**: §3 already plans this swap. fontTools is the right
+replacement despite Python dep (uv venv mitigates); explains
+meteocons/devicon ~570 silent empty-glyph rate.
+
+### GPU vs CPU verdict
+
+**CPU wins for our pipeline.** Reasons:
+- Hot path is parse → normalise → trace → emit TTF, not rasterise
+- Rasterise only inside stroke-fill + future visual-diff audit
+- At 64×64, GPU is starving (texture upload + readback dominates)
+- Skia team's own benchmarks: "CPU rasterisation still beats GPU
+  Skia for complex content" — and icon paths qualify as "complex"
+- Vello / WebGPU is impressive but wgpu setup tax is real
+
+**Stick with CPU**: resvg + tiny-skia via §17's Rust crate. Skip
+Vello, GPU Skia, Pathfinder. Revisit if 340 k → 5 M icons.
+
+### Top-5 adoption recommendations
+
+| # | What | Where | Recovery / Δ | Cost |
+|---|---|---|---:|---:|
+| 1 | **vtracer for paint-order recovery** (§1 plan) | New `vtracer_worker.ts`, paint-order drop branch | **+10-14 k icons** (twemoji, noto, fluent-emoji, circle-flags) | 2 days |
+| 2 | **`usvg` subprocess as normaliser pre-pass** (NEW) | Insert before `svg_preprocess.ts` | Correctness uplift across ALL packs; cache stability; eliminates ~5-8 regex bugs | 1.5 days |
+| 3 | **picosvg pre-validator** (§8 plan) | Subprocess after preprocess, before font build | -570 silent empties (~3 %) + svg2ttf failure prediction | 1 day |
+| 4 | **OKLab K-means k=2 for 3-colour → duotone** (NEW) | New path in `trySplitTwoColorBody` after vtracer | **+2-4 k icons** | 1 day |
+| 5 | **fontTools (or opentype.js) replacing svgicons2svgfont + svg2ttf** (§3 plan) | Swap `font_builder.ts` backend | -95 % silent empties; proper cu2qu cubic→quadratic | 2-3 days |
+
+**Combined effect**: ~22 k drop → ~6-8 k truly intractable (70 %
+recovery). Plus ~95 % empty-glyph reduction. Cleaner preprocessing.
+Total ~6-8 days; the two genuinely-new ideas are usvg-as-normaliser
+and OKLab-3-colour-to-duotone.
+
+### Explicit non-adoption
+
+- Vello / WebGPU / GPU rasterisation — CPU sufficient
+- lib2geom — C++ only, kurbo simpler
+- ThorVG / Pathfinder / Skia GPU — wrong abstraction
+- SVGO `convertTransform` — broken for our transforms
+- Inkscape CLI — too slow even headless
+
+---
+
+## §21 — GitHub Pages deployment plan
+
+**Verdict: Ship via single GitHub Actions workflow at
+`.github/workflows/deploy-web.yml` — CanvasKit renderer, hash routing
+(already active), base href `/icons/`, generator does NOT run in CI
+(generated files committed), ~169 MB bundle today. Day-1 deploy with
+clear day-2 perf roadmap.**
+
+### Pre-flight checklist
+
+- **FVM pin exists** — `.fvmrc:1-3` declares `flutter: 3.44.0-0.3.pre`;
+  `subosito/flutter-action@v2` accepts `flutter-version-file: .fvmrc`
+- **Website is its own pub workspace** — `packages/iconifyx/website/
+  pubspec.yaml` has ~206 `path:` deps; CI must `cd` into this dir
+- **All generated package source is committed** per CLAUDE.md "File
+  ownership" — codegen output is NOT regenerated in CI
+- **Website data JSONs committed** — `lib/data/icons_index.json`
+  (9.3 MB), `packs.json` (204 KB) declared as assets
+- **NO `setUrlStrategy(PathUrlStrategy())` call** — confirmed via
+  grep. Flutter web defaults to hash routing → `/#/pack/mdi`. This
+  is what we want for Pages (no 404.html SPA fallback needed).
+- **`web/index.html:17` uses `$FLUTTER_BASE_HREF` placeholder** —
+  build substitutes correctly
+- **Pages must be set to "GitHub Actions" source** (not "Deploy from
+  branch") in repo settings — one-time manual step
+
+### Renderer + routing decision
+
+**Renderer: CanvasKit, locked.** Site renders 15 k cells via TTF text
+rendering — HTML renderer would catastrophically regress the
+`IconifyIcon` `CustomPaint` + `TextPainter` path. Pass `--web-renderer
+canvaskit`. CanvasKit's ~3 MB WASM served from `gstatic.com` by
+default (faster + globally cached than Pages).
+
+**Routing: hash (default).** URLs are `/#/pack/mdi`. GitHub Pages
+serves the hash fragment; SPA handles it. No 404.html dance.
+
+### Concrete `.github/workflows/deploy-web.yml`
+
+```yaml
+name: Deploy website to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'packages/iconifyx/website/**'
+      - 'packages/iconifyx_*/**'
+      - '.fvmrc'
+      - '.github/workflows/deploy-web.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: packages/iconifyx/website
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Flutter (via .fvmrc pin)
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version-file: .fvmrc
+          channel: any
+          cache: true
+
+      - name: Pub cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ${{ env.PUB_CACHE }}
+            ~/.pub-cache
+          key: pub-${{ runner.os }}-${{ hashFiles('packages/iconifyx/website/pubspec.lock') }}
+          restore-keys: pub-${{ runner.os }}-
+
+      - run: flutter pub get
+      - run: flutter analyze lib --no-fatal-infos
+
+      - name: Build web (CanvasKit, hash routing, no service worker)
+        run: |
+          flutter build web \
+            --release \
+            --web-renderer canvaskit \
+            --base-href "/icons/" \
+            --pwa-strategy none \
+            --source-maps=false
+
+      - name: Bundle size guard
+        run: |
+          size=$(du -sm build/web | cut -f1)
+          test "$size" -lt 250 || { echo "build/web exceeded 250 MB"; exit 1; }
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: packages/iconifyx/website/build/web
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+```
+
+### Base href + custom domain matrix
+
+| Scenario | URL | `--base-href` | `web/CNAME` |
+|---|---|---|---|
+| Default (repo Pages) | `https://Bthn.github.io/icons/` | `"/icons/"` | omit |
+| User Pages (rename repo) | `https://Bthn.github.io/` | `"/"` | omit |
+| Custom domain | `https://iconifyx.dev/` | `"/"` | `iconifyx.dev` |
+
+Hash routing means base href is the only mount-path-coupled config —
+no zenrouter changes.
+
+### Asset hosting
+
+**Day 1: serve everything from GitHub Pages.** Pages auto-gzips JS /
+CSS / JSON / HTML via Fastly CDN. TTFs uncompressed but already
+internally compressed (~5-10 % brotli/gzip gain). 100 GB/month
+bandwidth + 100 MB/file limit fine for our largest TTF.
+
+**Day 2: migrate `icons_index.json` + `packs.json` to jsDelivr per
+§11/§12.** Trims ~10 MB off initial download. Don't do day 1; ship
+Pages-only first, validate pipeline, layer CDN later.
+
+**TTFs stay on Pages** until §9's `FontLoader` lazy registration
+lands (1-2 days). Today Flutter web declares every TTF in
+`FontManifest.json` but downloads lazily on first glyph render.
+
+### Day-1 perf caveats
+
+Real numbers from current `build/web`:
+- `main.dart.js` 2.8 MB → ~700 KB gzipped by Pages
+- `canvaskit.wasm` ~5 MB (loaded from gstatic)
+- `assets/packages/` 112 MB across 320 TTFs — lazy-fetched on first
+  glyph render (median ~360 KB per pack first-visit)
+- `assets/lib/icons_index.json` 9.3 MB → ~2.1 MB gzipped (parsed via
+  `compute(_parse)` so main thread isn't blocked)
+- Lighthouse score: probably 40-60 on mobile until §11 + §9 land
+- WASM-out-of-bounds crash from heavy navigation NOT made worse by
+  Pages — CanvasKit heap accumulation; fixed only by `FontLoader`
+  lazy registration
+
+### Day-2+ roadmap
+
+1. `packs.json` via jsDelivr (§12; 3-4 h) — fastest perceived win
+2. `icons_index.json` shards + `names.bin` (§11; 4-6 days) — drops
+   initial download from ~12 MB → ~1.5 MB; phased rollout with
+   `kUseCdn` const for one-flip rollback
+3. Lazy `FontLoader` per pack (§9; 1-2 days) — fixes WASM OOB
+4. Custom domain + HSTS once chosen
+
+### Rollback plan
+
+No point-in-time restore on Pages. Three layered options:
+
+1. **Re-deploy known-good SHA**: `gh workflow run "Deploy website to
+   GitHub Pages" --ref <good-sha>` (workflow_dispatch trigger
+   enables this). ~2 min back to that SHA's output.
+2. **Pin to release branch**: change trigger to `branches: [release]`;
+   cherry-pick stable commits.
+3. **Disable site**: repo Settings → Pages → "Unpublish site" until
+   you fix forward.
+
+Deploy artifact retained 90 days in Actions tab.
+
+---
+
+## §22 — Pack structural audit
+
+**Verdict: Adopt 5 incremental structural changes (~18 h total)
+without touching the per-set-package layout (which is load-bearing).
+Biggest win: split alias double-emission off into a separate library
+— halves MDI's class file from 70 k → 35 k LOC. Don't add nested
+sub-classes or runtime name-lookup — both break tree-shake.**
+
+### Current inventory
+
+226 packs (225 Iconify sets + core + meta). Per-pack: one
+`@staticIconProvider class XxxIcons` with N flat `static const`
+fields. Size dramatically varies:
+
+| Pack | LOC | Icons |
+|---|---:|---:|
+| MaterialSymbolsIcons | 92 894 | 18 575 |
+| MdiIcons | 70 009 | 13 998 |
+| TablerIcons | 127 578 | — |
+| PhIcons | 47 537 | 7 920 (1 528 duotone) |
+| LucideIcons | 39 619 | ~4 500 |
+
+Every pack pins `version: 0.1.0`. Class names follow `<Camel>Icons`
+consistently across 10 sampled packs — no drift.
+
+### Manifest metadata leakage
+
+Iconify's upstream `categories`, `aliases`, `tags`, `samples`,
+`suffixes` are read by `load_iconify.ts` / `website_codegen.ts` and
+flow to website's `icons_index.json` — but **NOT into manifests or
+Dart codegen**. 9.8 MB JSON is the de-facto reflection layer; it's
+website-only.
+
+### Granularity findings
+
+**50 of 225 packs ship explicit `suffixes` metadata** (Material
+Symbols has 6 styles, Phosphor 6 weights, Solar 6 styles, Fluent 20
+size+fill combos). Today codegen flattens ALL into one class. 22 %
+of catalog has structural axes we discard.
+
+**75 of 225 packs ship `info.categories`** (MDI has 61, fa7-solid 74,
+solar 37, iconoir 46). None surfaces in Dart.
+
+**Near-duplicate clusters**: mdi + mdi-light + memory (Pictogrammers,
+disjoint names); Font Awesome v4 + v6 + v7 × 3 styles = 9 packs;
+streamline 23 packs from one vendor; fluent 6 prefixes; token +
+token-branded (half overlap).
+
+### Verdict on granularity
+
+- **Per-set fonts must stay separate** (tree-shake/bundle invariant
+  per CLAUDE.md §6, empirically verified) — NON-NEGOTIABLE
+- **Per-set DART PACKAGES are a separate question** — consumer bundle
+  depends on which TTFs ship, not which pub package the const came
+  from. Current 225-package layout duplicates pubspec/license/re-
+  export for no per-app benefit. But: merging risks tree-shake
+  regression. Status quo is safer.
+
+### API shape weaknesses
+
+1. **Identifier soup**: `MdiIcons.n123Off` (Dart reserved prefix `n`
+   for leading digit), `aBCOff`, `homeOutlineRounded`. Autocomplete
+   guessing game past ~5 k items.
+2. **No compile-time metadata reachable**: can't ask
+   `MdiIcons.home.category` or `.style`.
+3. **Aliases doubled**: MDI has 6 363 aliases on 7 638 base icons
+   (**83 % alias ratio** — half of `MdiIcons` is alias const fields).
+   Material Symbols 2 364 aliases, iconoir 338, lucide 216.
+4. **No variant resolver** linking `PhIcons.acornThin` /
+   `PhIcons.acornDuotone` siblings.
+
+### Alternative API shapes — verdicts
+
+| Shape | Tree-shake | Verdict |
+|---|---|---|
+| Status quo (flat consts) | full | What we have |
+| Sub-classes (`MdiIcons.weather.sunny`) | **BROKEN** | `@staticIconProvider` requires flat-field invariant; const_finder doesn't recurse into non-annotated nested classes |
+| Multi-class same-package (`MdiWeatherIcons`) | full | Each sub-class itself `@staticIconProvider`; ~60 classes per pack to import |
+| Runtime resolver (`Pack.mdi.iconNamed('home')`) | **BROKEN** | Any string lookup forces all icons retained — exact reason `font_awesome_flutter` is broken |
+| Variant resolver (`Phosphor.acorn(weight: thin)`) | **partial broken** | At call site forces all variants retained |
+| Lazy metadata map (`MdiIcons.byCategory['weather']`) | **broken for map** | Map keyed by category retains all referenced icons — acceptable for browse, not for "I only use 3 icons" |
+
+**High-ROI shape**: keep flat consts AND add a SEPARATE
+`<Prefix>Catalog` runtime data layer in its OWN library file. Default
+import unchanged (shakable); browse-needing consumers opt into
+`import 'package:iconifyx_mdi/catalog.dart'`.
+
+### Top-5 structural recommendations
+
+#### Rec 1 — Move alias double-emission into a separate library (highest ROI)
+
+**Change**: emit canonical consts in main class + sibling `lib/
+aliases.dart` exporting `const Map<String, IconifyIconData> mdiAliases`.
+
+**Cost**: ~6 h. One change in `dart_codegen.ts`. Manifest entries
+grow `aliasOf?: string`.
+
+**Benefit**: `MdiIcons` 70 k → ~35 k LOC. Material-symbols, iconoir,
+lucide similarly halved. IDE autocomplete on MDI becomes usable
+(14 k → 7 635 entries).
+
+**Tree-shake**: canonical fields preserve shake; alias map opt-in
+breaks shake by design (correct).
+
+**Compat break**: call sites referencing alias-only consts
+(`MdiIcons.account` for canonical `person`). Mitigation: ship
+`lib/aliases_legacy.dart` with `@Deprecated` re-exports for one
+release.
+
+#### Rec 2 — Per-pack category data layer
+
+**Change**: for 75 packs with `info.categories`, emit `lib/
+categories.dart` with `const Map<String, List<IconifyIconData>>`.
+NOT part of default export.
+
+**Cost**: ~4 h. Manifest field + `category_codegen.ts`.
+
+**Benefit**: picker / docs consumers do `mdiCategories['weather']!
+.map((i) => IconifyIcon(i))` instead of importing the website's
+9.8 MB index.
+
+**Tree-shake**: preserved for non-importers. Importers get correct
+all-or-nothing retention.
+
+**Compat**: purely additive.
+
+#### Rec 3 — Independent per-pack versioning
+
+**Change**: `pubspec_codegen.ts` hashes manifest + fonts + license
+per pack. On regen, only bump packs whose hash changed.
+
+**Cost**: ~3 h.
+
+**Benefit**: `iconifyx_mdi 1.4.2` and `iconifyx_streamline 0.7.0`
+co-exist with honest semantics. pub.dev consumers can pin
+meaningfully. Today's "everything at 0.1.0" forecloses publishing.
+
+**Tree-shake / compat**: zero impact.
+
+#### Rec 4 — Category-meta packages (`iconifyx_logos`, `iconifyx_emoji`, …)
+
+**Change**: for top-level Iconify `info.category` buckets (~15) with
+> 2 packs, emit a meta pack re-exporting its members.
+
+**Cost**: ~3 h.
+
+**Benefit**: "all logo packs" → `depends_on: iconifyx_logos_meta`
+instead of enumerating logos + simple-icons + cib + cryptocurrency-
+color + token-branded + vscode-icons. Middle ground between
+kitchen-sink `iconifyx` and individual packs.
+
+**Tree-shake**: identical to current meta. Asset cost explicit per
+meta-pack.
+
+**Compat**: purely additive; existing `iconifyx` stays.
+
+#### Rec 5 — Promote `IconSetLicense` → `PackInfo`
+
+**Change**: rename + extend to include `category`, `tags`,
+`iconifyPrefix`, `hasDuotone`, `hasPaintOrder`. Keep
+`iconSetLicense` as `@Deprecated` alias.
+
+**Cost**: ~2 h.
+
+**Benefit**: compile-time pack-capability introspection. Useful for
+picker UI ("filter to duotone-capable packs").
+
+**Tree-shake**: one const per pack — zero impact.
+
+**Compat**: old `iconSetLicense` stays for one release.
+
+### What NOT to do
+
+1. **DO NOT nested sub-classes** — `@staticIconProvider` requires
+   flat-field invariant; nested non-annotated classes drop out of
+   tree-shake (Flutter issue #63920).
+2. **DO NOT merge per-set Dart packages into one mega-package** —
+   would re-ship every font for any consumer (the exact failure
+   `font_awesome_flutter` has).
+3. **DO NOT add runtime `Pack.iconNamed(String)` to the main class**
+   — string lookup forces all icons retained.
+4. **DO NOT add `Material.resolve(name, style, weight)` top-level** —
+   same issue. Move it to a separate library if anyone wants it.
+5. **DO NOT collapse `mdi` + `mdi-light`** — disjoint icon names;
+   merging bloats every consumer with both fonts.
+6. **DO NOT emit per-icon category docstrings by default** —
+   MDI would balloon 70 k → ~110 k LOC. Opt-in config flag only.
+7. **DO NOT silently remove empty packs (`svg-spinners`, `fluent-
+   color`)** — preserve manifests (codepoint invariant). Skip
+   pubspec emission when icon count < 10; document in COVERAGE.md.
+
+### Total combined cost
+
+~18 h for top 5. Largest wins: alias-map split (halves biggest pack
+class files) and category data layer (closes the 75-pack metadata
+gap that pushes consumers to fetch the website's 9.8 MB index).
+
+---
+
+## §23 — Website performance bottlenecks (audit + top-10 fixes)
+
+**Verdict: Three changes (~4 h total) deliver the biggest user-felt
+wins. #1: remove the per-cell `SvgPicture.network` call from
+`_IconCell` — currently fires 50+ external HTTPS requests per
+viewport scroll on /pack/<x>. #2: stop `setState()` on every
+ScrollEndNotification — rebuilds 15 k filter scan per fling-stop.
+#3: debounce search keystrokes 60-80 ms.**
+
+### Bottleneck inventory (ranked by user-felt impact)
+
+| Rank | Bottleneck | Where | Evidence |
+|---|---|---|---|
+| **1** | Every pack-detail cell fires `SvgPicture.network()` against api.iconify.design | `pack_detail_page.dart:580` | `SvgPicture.network(iconifySvgUrlTinted(record, accent), ...)` inside `_IconCell.build`, gated only by `Scrollable.recommendDeferredLoadingForContext` |
+| **2** | Every TTF declared eagerly in `FontManifest.json` — 330 entries, 320 TTFs, **112 MB icon fonts** | `pubspec.yaml:13-464`, `build/web/assets/FontManifest.json` | CanvasKit cache grows monotonically → `memory access out of bounds` after navigating ~20 packs |
+| **3** | `icons_index.json` 9.3 MB shipped in main bundle, parsed on boot | `lib/data/icons_index.json`, `icon_catalog.dart:207-256` | measured file size |
+| **4** | Search scans 165 k icons linearly per keystroke (no index) | `search_page.dart:163-170`, `pack_detail_page.dart:141-165` | `catalog.lowerNames[i].contains(q)` per icon, no debounce, no index |
+| **5** | `PackDetailPage._onScrollNotification` calls `setState()` on every ScrollEndNotification | `pack_detail_page.dart:174-182` | `_LoadedBody` is StatelessWidget so its build rebuilds + reruns `_applyFilters(15k)` per fling |
+| **6** | `_PaletteRow.AnimatedContainer` 90 ms color tween per row | `search_page.dart:633-639` | also flickers mid-tone — same anti-pattern HoverBox rule fixed elsewhere |
+| **7** | `IconifyIcon` builds fresh `TextPainter` per paint (no shape cache) | `iconifyx_core/lib/src/iconify_icon.dart:154-178` | 15 k cell scroll allocates 1-2 TextPainters per cell, replaced on `shouldRepaint` |
+| **8** | CanvasKit text-shape cache unbounded across pack nav | engine-level | CLAUDE.md performance section already documents |
+| **9** | Nested LayoutBuilder scopes (PageContainer LB → page LB → SliverPersistentHeader LB) | `pack_detail_page.dart:231`, `all_packs_page.dart:116`, `app_shell_layout.dart:159` | double layout pass per resize/scroll cycle |
+| **10** | `/packs` SliverMasonryGrid renders 206 PackTiles × 4 IconifyThumb previews each | `pack_tile.dart:60-75` | 824 max IconifyThumbs but lazy |
+
+### CLAUDE.md rules — drift verification
+
+| Rule | Status | Notes |
+|---|---|---|
+| §1 No `shrinkWrap`+`NeverScrollable` | OK | grep clean |
+| §2 Top-level `Sliver*.builder` for big lists | OK | both pages correct |
+| §3 NEVER wrap big slivers in `SliverLayoutBuilder` | OK | comments document |
+| §4 Hoist `Theme.of` out of cell builders | **PARTIAL VIOLATION** | `_IconCell` clean BUT `pack_tile.dart:18-26` does 6× Theme.of per tile (206 × 6); ditto `_AllPacksHeader`, `_FeaturedPacksSection`, `_HeroScatter`, `_ScatterTile`, `_PaletteRow` (`search_page.dart:613`) |
+| §5 Render via `IconifyThumb` | OK | icon-detail uses `IconifyIcon` (fine — canonical render path) |
+| §6 Slider commits on snap | OK | `_SizeSliderRow` stateless `onChanged: onCommit` |
+| §7 Deferred-rendering for fling scrolls | **PARTIALLY DEFEATED** | `_IconCell` reads the helper (good) but `_onScrollNotification` then triggers full `setState` on every ScrollEndNotification — rebuilds `_LoadedBody`, re-runs `_applyFilters`, re-allocates SliverGrid |
+
+### Cold-start audit (hypothesised waterfall)
+
+1. `index.html` (~1.5 KB), `flutter_bootstrap.js` (~10 KB) — instant
+2. `main.dart.js` **~3.0 MB minified** → ~700 KB brotli → 250 ms
+   cable / 1.5 s 4G LTE
+3. `canvaskit.js` (88 KB) + `canvaskit.wasm` **6.9 MB** → parallel
+   with #2, 300-800 ms compile
+4. `_BootScreen` shows spinner (good — no white screen)
+5. `packs.json` (204 KB raw, ~32 KB brotli) — fine
+6. **`icons_index.json` 9.3 MB raw → ~2.1 MB brotli** — 400-900 ms
+   cable / 2-5 s 4G LTE. Parsed via `compute(_parse)` Web Worker so
+   doesn't block home paint, but search/pack-detail wait on it.
+7. First viewport paint ~1.5-3 s cable / 5-10 s 4G LTE
+8. **First IconifyThumb paint** triggers Flutter web to fetch the
+   relevant TTF lazily on first `TextPainter.layout()` — confirmed
+   NOT preloaded into CanvasKit
+
+**Net**: home interactive in 2-4 s cable, 8-15 s 4G LTE. The 112 MB
+icon fonts are LAZY — only fetched on first reference. But every
+visited pack's TTF stays in CanvasKit cache forever → §8 crash.
+
+### CanvasKit font memory pathway (confirmed)
+
+1. Flutter web loads a TTF lazily on first `(fontFamily, package)`
+   TextPainter reference. Font goes into `FontFallbackManager`
+   registry.
+2. **No public API to unregister.** Loaded TTFs persist for page
+   lifetime.
+3. Each pack nav adds ~50 KB-10 MB to resident set. Average ~545 KB.
+4. After ~20 unique packs → ~10 MB font memory + shaped-glyph cache.
+5. Once CanvasKit WASM heap exceeds ~2 GB linear-memory cap (4 GB on
+   COOP+COEP isolated) → crash.
+
+### Search bottleneck
+
+Today: 165 k UTF-16 substring searches per keystroke. ~30-80 ms
+steady state release; users perceive ~50-100 ms input latency.
+
+Recommended layered fixes:
+1. **Debounce keystrokes** 60-80 ms — 1-line fix, immediate UX win
+2. **Trigram bitmap pre-filter** (§9.3-gram plan) for `q ≥ 3` chars:
+   `Uint32List` per trigram, AND bitsets at query time. <16 ms per
+   keystroke. Memory ~5 MB with Bloom-filter or pack-bucketing.
+3. FlexSearch via JS interop — works but 300 KB JS + boundary
+   crossing per keystroke. Trigram-in-Dart is faster.
+
+### Top-10 ranked fixes
+
+| # | Change | Files | Cost | Δ user-felt | Risk |
+|---|---|---|---:|---|---|
+| **1** | **Remove `SvgPicture.network` from `_IconCell`**; keep on icon-detail sheet only | `pack_detail_page.dart:580`, `:255-264` | 1 h | **huge**: kills 50+ HTTPS req/scroll on /pack/<x>; fixes offline; fixes "right half blank" | low |
+| **2** | **Replace `setState()` on ScrollEndNotification with ValueNotifier<int>**; only `_IconCell.build` listens via ValueListenableBuilder | `pack_detail_page.dart:174-182` + `_IconCell` | 2 h | **medium-large**: scroll-end jank vanishes; 15 k filter scan no longer per fling | low |
+| **3** | **Debounce search keystrokes 60-80 ms** | `search_page.dart:87-99`, `pack_detail_page.dart:105-114`, `all_packs_page.dart:72-81` | 1 h | medium: search feels instant; cheaper URL stack | low |
+| **4** | Add `RepaintBoundary` around `_IconCell` outer container | `pack_detail_page.dart:520-545` | 30 min | medium: hover snappiness on long lists | low |
+| **5** | Hoist `Theme.of` out of `PackTile` and `_PaletteRow` — mirror `_CellPalette` pattern | `pack_tile.dart:18-26`, `search_page.dart:613-620`, `home_page.dart` | 1.5 h | small-medium: tile rebuilds ~2× cheaper | low |
+| **6** | Trigram pre-filter for queries ≥ 3 chars in `IconCatalog._parse` | `bootstrap/icon_catalog.dart`, `search_page.dart:163-170` | 1 day | medium-large: search feels instant on mobile too | medium (verify memory ≤ 5 MB) |
+| **7** | Cache `ui.Picture` of painted glyph in `_IconifyPainter`, LRU ~2000 | `iconifyx_core/lib/src/iconify_icon.dart` | 3 h | medium: scroll-back over seen cells ~2× faster | low |
+| **8** | Wire `performance.measureUserAgentSpecificMemory()` → prompt user reload at heap threshold; needs COOP/COEP headers | `web/index.html`, bootstrap probe | 3 h | medium for heavy users (crash gone) | medium (COOP/COEP can break embeds) |
+| **9** | Split `selectorBuilder` so grid sliver listens only to q + style; count text only to filter-length | `pack_detail_page.dart:331-357`, `:483-487` | 2 h | small-medium: typing in filter doesn't tear down pinned title sliver | low |
+| **10** | Replace `_PaletteRow.AnimatedContainer` with plain `Container` (mirrors HoverBox flicker rule) | `search_page.dart:633-639` | 20 min | small: search arrow-nav less mushy | low |
+
+Top-3 deliver biggest measurable improvement at ~4 h total.
+
+### Anti-recommendations (don't do)
+
+- DON'T preload icon TTFs — they're already lazy, would force 112 MB upfront
+- DON'T switch from CanvasKit — duotone CustomPainter unsupported on HTML
+- DON'T shard `packs.json` (204 KB raw, 32 KB brotli — one HTTP/2 frame)
+- DON'T add per-cell `RepaintBoundary` to `PackTile` — masonry sliver already isolates
+- DON'T precompile glyph→`ui.Picture` at build time — bundles ~50 MB of never-rendered icons
+- DON'T introduce `flutter_svg` for `IconifyThumb` — TTF render is 10× faster
+- DON'T precache 112 MB icon fonts in a service worker — cripples mobile cache budget
+- DON'T refactor `IconifyIcon` away from `CustomPaint` — single-layer composition is faster than Stack+FittedBox
+
+---
+
+## §24 — AI workflow + hooks + skills + memory enrichment
+
+**Verdict: 5 highest-ROI improvements achievable in one afternoon —
+PreToolUse Bash guard for `bun run generate`, settings allowlist for
+read-only commands, 3 new memory entries (parallel-agent workflow,
+no-auto-push-to-main, profile-first), CLAUDE.md split into 5 on-
+demand `docs/agent/*.md` files, and `bun run` script aliases for
+the 4 long-form command chains the user repeats.**
+
+### Hooks plan (`.claude/settings.json` at repo root)
+
+| Event | Matcher | Behaviour |
+|---|---|---|
+| `PreToolUse` | `Bash` matching `^bun run generate(\s\|$)` without `--dry-run` / `--check` / `--new-only` | **Block** — exit 2 with `"Full regen mutates 225 packages. Use --dry-run / --check / --new-only / --set, or re-run after explicit OK."` |
+| `PreToolUse` | `Bash` matching `^git push.* (main\|HEAD:main\|origin main)` | **Block** — direct push to main; require PR or explicit confirm |
+| `PreToolUse` | `Bash` matching `^git commit --amend\|^git rebase` | **Block** — codifies "always new commit, never rewrite history" |
+| `PreToolUse` | `Bash` matching `^rm -rf .*/manifests\b\|^rm .*manifests/.*\.json` | **Hard block** — defends invariant #3; point at `feedback_codepoint_stability` |
+| `PostToolUse` | `Edit\|Write` on `tools/generator/src/*.ts` | Echo: `"Generator source changed. Likely need: bun run generate -- --dry-run."` Non-blocking. |
+| `PostToolUse` | `Edit\|Write` on `packages/iconifyx_*/lib/*` | Echo loud warning citing CLAUDE.md File Ownership table |
+| `PostToolUse` | `Bash` after non-dry-run `bun run generate` | Echo first 40 lines of `COVERAGE.md` diff vs HEAD + new paint-order-risk entries |
+| `UserPromptSubmit` | always | Inject one-line `git status --short` count + branch + dirty-manifest flag |
+| `Stop` | always | If manifests dirty and no commit this session, echo reminder |
+
+All as tiny shell one-liners or `tools/agent-hooks/*.sh`. <100 ms.
+**DO NOT auto-run `bun run generate` on edits** — 80 s warm regen
+burns ~10-30 min/session.
+
+### Custom skills (bundle: `iconifyx-tools`)
+
+| Skill | Trigger | Cost |
+|---|---|---:|
+| `regen` | "regen", "regenerate" | 1 h |
+| `pack-open` | "show me <prefix>" | 1 h |
+| `icon-inspect` | "inspect <prefix>:<name>" | 2 h |
+| `audit` | "audit", "show coverage" | 1.5 h |
+| `shake-test` | "tree shake test" | 2 h |
+| `research-plan` | "add to plan" | 1 h |
+| `iconifyx-deep` | "deep dive", "explain pipeline" | 2 h |
+| `website-dev` | "run website" | 30 min |
+| `parallel-audit` | "run agents", "research X" | 3 h |
+
+Skip a "bundled iconifyx supervisor" — user explicitly prefers many
+parallel granular agents over bundled.
+
+### Memory entries to add
+
+| Name | Type | Content |
+|---|---|---|
+| `workflow_parallel_research_agents.md` | feedback | User runs 8+ granular agents in parallel; each appends to RESEARCH_PLAN.md §N; main agent merges + commits. Never centralise. |
+| `workflow_research_plan_append.md` | feedback | RESEARCH_PLAN.md is append-only, numbered, every section ends with verdict + file refs. New agents reserve next free §N. |
+| `rule_no_auto_push_to_main.md` | feedback | Never `git push` to main without explicit user request. Auto-mode classifier blocks; document so agents stop trying. Always NEW commits — never amend, never rebase. |
+| `rule_subprocess_isolation_and_bisect.md` | feedback | Native panics (resvg etc.) abort JS. Wrap in `Bun.spawn`, bisect on non-zero exit. Apply pattern to any new native tool. |
+| `rule_profile_first.md` | feedback | Before perf "fix", profile in --release. Debug is 5-10× slower and misleads. 600-rebuilds/sec SliverLayoutBuilder bug only diagnosed because profiled. |
+| `rule_document_everything_from_agents.md` | feedback | Every parallel agent output captured in writing. Don't summarise away. Don't merge similar verdicts — keep distinct angles. |
+| `repo_layout_quick.md` | reference | 10-line skim: generator src, manifests, per-set packages, meta, website, example, two-icon-test. Saves agents a `find .` pass. |
+
+Updates to existing entries:
+- `reference_audit_reports.md` — add `FONT_AUDIT.md`, "regenerated every regen even if subprocesses panic"
+- `feedback_stroke_and_glyph_recovery.md` — cross-link to new subprocess-isolation rule
+- `feedback_oref_hover_pattern.md` — note `mix` package incompatible with Flutter 3.44+
+
+### CLAUDE.md restructure
+
+**Repo-root CLAUDE.md (target ~2.5 k tokens, down from ~10 k):**
+- Repo layout (one diagram)
+- 5 hard invariants only, one paragraph each
+- File-ownership table verbatim
+- Four-line "if generator src changed, regen" reminder
+- One-paragraph operations pointer at `bun run` script names
+- Pointer: `"For deeper context use /iconifyx-deep <topic>"`
+
+**On-demand `docs/agent/*.md` files** loaded by `iconifyx-deep` skill:
+- `pipeline.md` — current §1 + §5a/§5a-bis
+- `duotone.md` — §5b (4 detection paths) + kind enum semantics
+- `stroke-fill.md` — §5a + §5e (paint-order risk)
+- `treeshake.md` — invariant #1 + `two_icon_test` protocol
+- `audits.md` — §5d expanded
+
+Per-turn context cost drops ~60 %.
+
+### Parallel-agent coordination — keep human-in-loop
+
+**Don't build a coordinator.** Convention via `parallel-audit` skill:
+1. Each fan-out call assigns explicit `§N` slot in dispatch prompt
+2. Subagents write to `docs/agent-drafts/§N-<topic>.md` instead of
+   RESEARCH_PLAN.md directly
+3. Main agent reviews + concatenates + numbers atomically
+
+This is what's effectively happening already.
+
+### `bun run` script aliases (root `package.json`)
+
+```json
+"website:dev":     "cd packages/iconifyx/website && fvm flutter run -d chrome --release",
+"website:debug":   "cd packages/iconifyx/website && fvm flutter run -d chrome",
+"website:analyze": "cd packages/iconifyx/website && fvm flutter analyze lib",
+"example:run":     "cd packages/iconifyx/example && fvm flutter run -d macos",
+"shake:test":      "cd test_apps/two_icon_test && fvm flutter pub get && fvm flutter build macos --release --tree-shake-icons && find build/macos -name '*.ttf' | xargs ls -la",
+"audit:font":      "cat FONT_AUDIT.md | head -60",
+"audit:stroke":    "cat STROKE_AUDIT.md | head -60",
+"audit:coverage":  "cat COVERAGE.md | head -60"
+```
+
+DO NOT introduce Makefile / Justfile — adds toolchain.
+
+### Settings.json allowlist (`.claude/settings.local.json`)
+
+Allow (no prompt): `git status/log/diff/show`, `ls`, `find`, `rg`,
+`grep`, `wc`, `file`, `cat tools/generator/manifests/*`, `cat
+*AUDIT*.md`, `cat COVERAGE.md`, `bun test*`, `bun run generate
+-- --dry-run/--check/--new-only*`, `bun website:analyze`, `bun
+audit:*`, `fvm flutter analyze*`, `fvm flutter pub get*`,
+`WebSearch`.
+
+Deny: `git push origin main*`, `git commit --amend*`, `git rebase*`,
+`rm -rf tools/generator/manifests*`, `rm tools/generator/manifests
+/*.json`.
+
+Still prompted: `bun run generate` without flags, `fvm flutter
+build *`, `git push` to any branch except blocked main, `bun
+install/update`, all `Edit`/`Write` (gated separately).
+
+### Anti-recommendations
+
+1. **DON'T auto-regen on `Edit` to generator src** — 80 s × 5-20
+   edits/session = 10-30 min wasted
+2. **DON'T add a single supervising orchestrator** — contradicts
+   user's "many parallel granular agents" preference
+3. **DON'T add pre-push test gating** — user pushes WIP all day
+4. **DON'T add "auto-fix stroke-audit regressions" skill** — audit
+   is intentionally advisory; user wants to SEE deltas
+5. **DON'T add "validate all manifests on every Bash"** — 225 JSON
+   files × every call = noticeable lag; do it in Stop hook
+6. **DON'T auto-load every `docs/agent/*.md` on session start** —
+   defeats the on-demand split
+7. **DON'T add husky-style pre-commit** — bun has no equivalent,
+   `.husky/` adds npm baggage; use Claude `PreToolUse` hook instead
+
+---
+
+## §25 — Multi-colour → mono/two-tone reduction (empirical)
+
+**Verdict: With concrete per-pack data, only 3 packs (vscode-icons,
+streamline-color, partial circle-flags) benefit from mono reduction
+without losing the icon. The rest of the 22 k drop is mostly emoji
+(twemoji, noto, fluent-emoji) where mono is fundamentally lossy
+— ship them as a separate SVG-asset companion or document as out-
+of-scope. Top-3 wins (~23-32 h total): §14 stroke-detection
+(already planned, ~2 080 icons), vtracer integration (~8-12 k icons),
+circle-flag silhouette via mask-carrier (~700 flags).**
+
+### Empirical colour distribution (measured against @iconify/json 2.2.472)
+
+| Pack | Total | 1 c | 2 c | 3 c | 4+ c | gradient | `<mask>` |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| **circle-flags** | 731 | 0 | 0 | 156 | 270 | 0 | 731 (100 %) |
+| **twemoji** | 4 169 | 158 | 631 | 454 | **2 926** | 0 | 0 |
+| **noto** | 3 800 | 78 | 116 | 451 | **3 156** | **2 086 (55 %)** | 0 |
+| **fluent-emoji-flat** | 3 174 | 88 | 499 | 289 | **2 298** | 3 | 0 |
+| **vscode-icons** | 1 493 | **498** | **463** | 202 | 330 | 304 | 20 |
+| **streamline-color** | 2 000 | 326 | **1 294** | 380 | 0 | 0 | 0 |
+
+Key reframings from the data:
+- **circle-flags carries `<mask>` on 100 % of bodies** — NOT
+  `lets-icons:*-duotone-line` pattern. Current `bodyUsesMaskPattern`
+  matches but `trySplitMaskInternalBody` requires self-closing
+  elements + faint-bold split — flags violate both.
+- **noto is gradient-heavy** (55 % use `<linearGradient>` for
+  shading). Any non-gradient approach leaves half the pack.
+- **vscode-icons has 75 zero-colour + 423 single-colour + 463
+  two-colour = 64 % ≤ 2 colours**, recoverable by §14 with NO new
+  infrastructure.
+- **streamline-color has zero 4+-colour icons** — entire pack
+  reachable by §14 stroke-detection + §2 area extension.
+
+### Approach comparison
+
+| # | Approach | Best for | Recovery | Cost | Visual quality | ROI |
+|---|---|---|---:|---:|---|---:|
+| 1 | Luminance silhouette → Potrace mono | circle-flags, vscode app, some fluent-emoji | ~5 200 | 6-10 h | flags: GOOD; emoji faces: BAD; vscode file-type: GOOD | **2** |
+| 2 | Canny edge → Potrace outline | emoji faces / interior | ~2 000 | 12-16 h | TTF too small for hair-thin lines; noisy | 5 |
+| 3 | k-means → 2 buckets (paint-order duotone) | vscode-icons, simple emoji, streamline residue | ~3 000 | 8-12 h | GOOD when k=2 separates cleanly | **3** |
+| 4 | **vtracer multi-colour + reduce to top-2 layers** | circle-flags, twemoji, fluent-emoji, noto (partial) | **8 000-12 000** | 16-24 h | BEST automated — preserves shapes (§1 plan) | **1** |
+| 5 | Semantic group extraction | none (Iconify bodies lack semantic names) | <50 | high | N/A | Reject |
+| 6 | Per-category curated rules | emoji only | <500 | very high | brittle | Reject |
+| 7 | **Drop emoji + ship SVG-asset companion** | noto, twemoji, fluent-emoji-flat | all emoji via different API | 24-32 h | original colour preserved | **4** |
+
+### Per-pack recommendation
+
+| Pack | Approach | Recovered | Rationale |
+|---|---|---:|---|
+| **circle-flags** (731) | Mask-carrier silhouette (Approach 1 narrow) | ~700 | Flags-as-discs — honest silhouette ("flag pack placeholder"). One-line config: `silhouetteOnlySets: [circle-flags]`. |
+| **twemoji** (4 169) | DROP officially + opt-in Approach 3/4 for 789 ≤2-colour subset | ~789 | 70 % is 4+ colour; mono destroys identity. Document workaround → `flutter_emoji_picker` or raw twemoji CDN PNGs. |
+| **noto** (3 800) | DROP officially | <200 | Gradient-heavy + organic. vtracer produces 5-8-layer unusable output at 24 px. |
+| **fluent-emoji-flat** (3 174) | Approach 4 (vtracer) for 587 ≤2-colour; silhouette opt-in for ~2 587 rest | ~1 200-1 800 | "Flat" misleading (most 4+); object/symbol emoji (`pool-8-ball`, medals) survive vtracer; faces still bad |
+| **vscode-icons** (1 493) | **§14 improvements only — NO new approach** | ~960 | 75 zero + 423 single + 463 two-colour all recoverable by §14 stroke-detection + white-as-FG + shoelace. 330 with 4+ via Approach 3 (file icon + colour dot) |
+| **streamline-color** (2 000) | **§14 stroke-detection (already planned)** | ~1 500 | 1 294 of 2 000 are exactly 2-colour — §14 unlocks mechanically. 380 three-colour need §2 "top-2 by area" extension. |
+
+**Bottom-line total**: ~5 100 icons recoverable from 22 k drop with
+NO new approaches beyond §14 + §1 (vtracer) + simple silhouette
+path. Of remaining ~10 000 mostly-emoji, the honest call is DO NOT
+pursue mono reduction.
+
+### Top-3 recommendations
+
+1. **§14 stroke-detection + white-as-FG (4 h, ~2 080 icons)** —
+   already planned. Strictly best icons-recovered-per-hour. No new
+   dep.
+2. **vtracer + 2-layer reduction (16-24 h, ~8 000-12 000 icons)** —
+   §1 implementation. Biggest absolute recovery. Gate per-pack.
+3. **Circle-flag silhouette via mask-carrier flatten (3-4 h, ~700
+   icons)** — surgical config-driven fix. One pack 100 % lost → 100 %
+   recovered as discs. Document trade-off in LICENSE-3RD-PARTY.md.
+
+### Hybrid alternative — `iconifyx_<x>_color` SVG-asset companion
+
+For packs mono can't recover. Structure:
+```
+packages/iconifyx_twemoji_color/
+├── assets/svg/<icon>.svg           (one per icon, original body)
+├── lib/iconifyx_twemoji_color.dart
+└── lib/src/sets/twemoji_color.dart (static const name→asset path)
+```
+
+Adds `flutter_svg` dep to `iconifyx_core`. Twemoji's 4 169 SVGs are
+~15 MB raw, ~6 MB gzipped. Per-set-package layout means apps that
+don't depend on it ship 0 bytes.
+
+**Tree-shake risk**: `flutter_svg` doesn't tree-shake asset maps;
+emit `static const` per icon with literal path so Flutter asset
+shaker only ships referenced. **NEEDS VERIFICATION** via
+`flutter build --tree-shake-icons`.
+
+**API divergence**: `IconifyColorIcon(TwemojiColorIcons.firstPlace
+Medal, size: 24)` is fundamentally different widget. Acceptable —
+the kind IS different.
+
+**When to build**: only if Approaches 1+3+4 leave a pack < 20 %
+recovery AND user explicitly wants the pack. Otherwise drop with
+docs.
+
+### What NOT to do
+
+- **DON'T ship mono emoji (twemoji/noto/fluent human emoji)** —
+  reduction destroys icon. Document limitation; point users at
+  `flutter_emoji_picker` or system emoji.
+- **DON'T invest in Canny edge detection** — TTF render at 16-24 px
+  lacks dynamic range for hair-thin outlines; noisier than
+  silhouette.
+- **DON'T pursue semantic group extraction** — Iconify bodies don't
+  carry semantic group names; only geometric signal available
+  (colour, area, position) — Approaches 1/3/4 already exploit.
+- **DON'T ship SVG-asset companion unless user explicitly asks** —
+  bundle-size + API divergence are real costs.
+
+### Files
+
+- `tools/generator/src/svg_preprocess.ts` — extend
+  `extractConcreteFills` → `extractConcretePaints` (stroke-aware),
+  add `flattenToMaskCarrier`, refine `trySplitTwoColorBody`
+- `tools/generator/src/pipeline.ts:594-627` — paint-order drop site
+  where new recovery passes splice in
+- `tools/generator/config.yaml` — gain `silhouetteOnlySets`,
+  `vtracerSets`, optional `colorAssetPackSets`
+- `tools/generator/src/stroke_fill_worker.ts` — template for new
+  `vtracer_worker.ts` (panic-isolation pattern ports directly)
+
+### Cross-reference
+
+- §1 (vtracer) — this is the implementation gate. §25 contributes
+  the 2-layer reduction step + per-pack opt-in framework.
+- §14 (stroke + white-as-FG) — explicitly the #1 recommendation in
+  §25; recovers ~2 080 with no new approach.
+- §20 (Figma/ecosystem tools) — proposes OKLab K-means for 3-colour
+  reduction, complementary to §25's Approach 3.
+
+---
+
+## §26 — Visual-diff tool design (`iconifyx-visual-diff`)
+
+**Verdict: Build Phase 1 (~1 day, pure TS). Render upstream + TTF
+glyph at 64×64 grayscale, dHash + pixelmatch + ink ratio, rule-based
+classifier (8 rules cover Catppuccin blanks / gravity-ui blobs /
+streamline body-on-fg / lets-icons mask / duotone half-failures /
+meteocons empty outlines). Outputs JSONL + MD with `{prefix, icon,
+status, reason, problem, remediation}`. Day 1 replaces manual
+website scanning. Promote to Phase 3 Rust kernel (§17 Area 2 #2)
+only if wall-clock > 5 min becomes painful.**
+
+### CLI surface
+
+```bash
+bun run visual-diff                              # full scan
+bun run visual-diff --set logos --icon adobe-after-effects
+bun run visual-diff --only different             # JSONL filtered
+bun run visual-diff --reason filled-blob         # one bucket
+bun run visual-diff --confirm streamline-color:ai-chip-spark-flat
+bun run visual-diff --baseline                   # snapshot expected
+```
+
+### Outputs
+
+- `VISUAL_DIFF.jsonl` — 340 k rows (~80 MB, gitignored)
+- `VISUAL_DIFF.md` — pack-grouped human report (committed)
+- `VISUAL_DIFF.html` — self-contained dashboard with PNG sprite
+- `.cache/visual_diff/raster/<prefix>/<sha>.{up,tt,df}.png`
+- `.cache/visual_diff/allowlist.yaml` — user-curated expected diffs
+
+### Sample JSONL row
+
+```json
+{"prefix":"streamline-color","icon":"ai-chip-spark-flat",
+ "status":"different","confidence":"high","primaryReason":"FILLED_BLOB",
+ "problem":"shipped as solid filled square — two-colour split classified
+  small accent path as background; foreground letterform absorbed",
+ "remediation":"§14 stroke-aware extractConcretePaints + shoelace 1.3× gap",
+ "metrics":{"hamming":21,"ssim":0.31,"pixelMatch":0.46,
+            "inkRatioUpstream":0.21,"inkRatioOurs":0.78,
+            "coverage":0.89,"mirrorMatch":false}}
+```
+
+### Comparison strategy (3 layers)
+
+| Layer | Cost/icon | Used as | Threshold |
+|---|---|---|---|
+| **A. dHash 64-bit** | ~0.5 ms | First-pass filter | Hamming < 4 = same; > 14 = different; 4-14 = needs-review |
+| **B. Pixelmatch + ink stats** | ~3 ms | Classifier input | mismatch%, inkRatio, coverage, cx/cy centroid |
+| **C. SSIM-lite** | ~8 ms | Disambiguator on ~5 % needs-review only | luminance + structure score |
+
+Both upstream + TTF rendered via SAME rasterizer (`oslllo-svg2`) at
+64×64 grayscale → AA symmetric → no false positives from rasterizer
+mismatch.
+
+### Classifier rules (18 total; Phase 1 = rules 1-8)
+
+| # | Reason | Heuristic | Remediation |
+|---|---|---|---|
+| 1 | `PAINT_ORDER_DROPPED` | `deprecated:true && reason==='paintOrderRisk'` | §1 vtracer — intentional, not regression |
+| 2 | `VALIDATOR_DROPPED` | `deprecated:true && reason∈{unsupported,malformedPath,coordOverflow}` | §3 / §7 |
+| 3 | `MISSING_TTF` | font file or fontkit error | manifest↔pubspec sync (A7/§16) |
+| 4 | `EMPTY_GLYPH` | `inkOurs<0.005 && inkUp>0.05` | §3 svg2ttf path drop |
+| 5 | **`FILLED_BLOB`** | `inkOurs>0.7 && coverage>0.85 && inkUp<0.5` | §5e paint-order OR §14 layer-flip — **most common** |
+| 6 | `MISSING_CUTOUTS` | `inkOurs > inkUp×1.4 && pixelMatch>0.3` | `iconNeedsRasterTrace` per-icon fallback missed |
+| 7 | `LAYER_ORDER_FLIP` | duotone AND swapping primary/secondary drops Hamming < 4 | §14 white-as-FG / shoelace |
+| 8 | `DUOTONE_HALF_BROKEN` | duotone AND secondary glyph `inkRatio < 0.005` | §16-A6 sync audit |
+| 9 | `DUOTONE_COLLAPSED` | source has opacity<1 OR 2-paint; ours mono | duotone detection missed |
+| 10 | `DUOTONE_FALSE_POSITIVE` | source mono; ours has non-empty secondary | over-trigger in `splitDuotoneBody` |
+| 11 | `MIRRORED` | `pixelMatch(ours, mirror(upstream))<0.05` AND `(upstream)>0.4` | `svgpath` transform-flatten regression |
+| 12 | `ROTATED_90` | `pixelMatch(ours, rot90(upstream))<0.05` | transform-flatten regression |
+| 13 | `VERTICAL_DRIFT` | `cy` diff > 0.15 × em AND pixelMatch<0.2 after shift | viewBox normalisation |
+| 14 | `HORIZONTAL_DRIFT` | same with `cx` | viewBox normalisation |
+| 15 | `SCALE_DRIFT` | bbox ratio >1.6 or <0.6 AND pixelMatch<0.2 after scale | em-square scaling regression |
+| 16 | `MISSING_STROKES` | upstream low ink + many edges; ours ink<0.005 | stroke-only missed by `rasterFillSignal` |
+| 17 | `EXTRA_INK` | `inkOurs > inkUp×1.2` AND not blob | over-aggressive raster-trace widening |
+| 18 | `MOSTLY_WHITE_SOURCE` | `inkUp<0.02 && source fill="#fff" only` | colour-mapped flatten needed (Catppuccin) |
+| 99 | `UNKNOWN` | no match | manual triage |
+
+Pure TypeScript, rule-based, **NOT ML**. Each rule is an auditable
+predicate + one-line problem string. Adding a new rule = one function
++ one table row; rerun produces new explanations from cached metrics.
+
+### Architecture decision
+
+**Phase 1 (~1 day)**: Pure TS. `oslllo-svg2 + fontkit + pixelmatch`.
+~5-7 min on 8-core via `p-limit(8)`. Acceptable as regen post-step.
+Rules 1-8 only — covers ~90 % of known failure modes.
+
+**Phase 2 (~3 days)**: Rules 9-18 + HTML dashboard + allowlist +
+baseline regression gate.
+
+**Phase 3 (~1 week)**: Rust kernel via `tiny-skia + skrifa` (§17
+Area 2 #2) ONLY if Phase 2 wall-clock > 5 min painful. ~5 min → 30 s.
+Classifier stays TS so rule table evolves without recompiling.
+
+### Cross-reference vs existing plans
+
+| Plan | Overlap | What visual-diff adds |
+|---|---|---|
+| §4 visual regression | Same rasterize stack | §4 is regression (CI fail on hash change); visual-diff is discovery + explanation |
+| §16-A14 suspicious-glyph | dHash + ink-ratio | A14 is rule 5+4 only; visual-diff is 18-rule generalisation |
+| §17 Area 2 #2 Rust diff | Kernel intent | §17 = kernel; visual-diff = TS classifier on top |
+| `FONT_AUDIT.md` | Empty codepoint | FONT_AUDIT finds `commands===0`; visual-diff finds blank/blob/mirrored/drifted that fontkit can't see |
+
+**Net addition**: the explainable-classifier layer. None of existing
+plans deliver `{prefix, icon, reason, remediation}` — they deliver
+`{prefix, icon, similarityScore}` or `{prefix, icon, isEmpty}`.
+
+### False-positive strategy
+
+1. **3 buckets**: `same` / `needs-review` / `different`. Only
+   `different` blocks CI.
+2. **Per-rule confidence floor**: low-confidence rules default to
+   `needs-review`.
+3. **`PAINT_ORDER_DROPPED` + `VALIDATOR_DROPPED` are status
+   `dropped-on-purpose`**, not `different`.
+4. **Allowlist** (`.cache/visual_diff/allowlist.yaml`) — user curates
+   via `--confirm <prefix>:<icon> --note "..."`.
+5. **Baseline regression gate** — `--baseline` snapshots current;
+   subsequent runs only fail CI on NEW `different` entries.
+   Eliminates "440 historical issues block every PR" anti-pattern.
+
+### First-iteration scope (day-1 minimum)
+
+Files to build:
+- `tools/generator/src/visual_diff.ts` — `runVisualDiff(prefix?)`
+- `tools/generator/src/visual_diff_report.ts` — `writeVisualDiffMd()`
+- `tools/generator/src/index.ts` — wire `visual-diff` subcommand
+- `pipeline.ts` — call after `verifyFontsAgainstManifests`
+
+Phase 1 rules 1-8 only. Skip HTML dashboard, mirror/rotation/drift,
+allowlist file, baseline gate. **User stops manually checking
+icons in the website tomorrow.** That's the goal.
+
+Only NEW dep: `pixelmatch` (~150 LOC, MIT, no transitive deps).
+
+---
+
+## §27 — Sheet back-button routing bug (root cause + universal fix)
+
+**Verdict: The sheet IS a proper `PopupRoute`; closing DOES pop the
+zenrouter path. The bug lives in how zenrouter (2.0.3) translates
+path mutations into browser history. EVERY `notifyListeners()`
+becomes a push, never a replace. Closing a sheet pushes a NEW history
+entry whose URL coincidentally matches the previous one — so browser-
+back walks INTO closed sheets. Same bug also pollutes filter
+keystrokes (one history entry per character) across pack-detail,
+all-packs, search.**
+
+### Walk-through
+
+1. User on `/pack/mdi`. History: `[..., /packs, /pack/mdi]`
+2. Tap icon "home" → `push(IconDetailRoute)` → `IconDetailRoute` on
+   `shellStack`. `notifyListeners` fires; `currentConfiguration`
+   returns `/pack/mdi/icon/home`. **Flutter Router reports default
+   `RouteInformationReportingType.none` which engine treats as push.
+   zenrouter does NOT override `shouldReplaceRouteInformation`.**
+   History: `[..., /pack/mdi, /pack/mdi/icon/home]`
+3. Close sheet → `Navigator.pop` → `StupidSimpleSheetRoute.didPop` →
+   `PopScope.onPopInvokedWithResult` → `path.remove(this,
+   discard:false)`. Route off stack. `notifyListeners`. URI back to
+   `/pack/mdi`. **Another push, not replace.** History: `[...,
+   /pack/mdi, /pack/mdi/icon/home, /pack/mdi]`
+4. Tap "star" → URL `/pack/mdi/icon/star` (push)
+5. Close → URL `/pack/mdi` (push)
+6. **Browser BACK** → URL = `/pack/mdi/icon/star` → `parseRouteFromUri`
+   returns FRESH `IconDetailRoute` → `coordinator.navigate(route)` →
+   `path.navigate` does `indexOf(target)`. Previous IconDetailRoute
+   removed in step 3 → `index == -1` → new route push-ed →
+   **sheet re-opens**.
+
+The structural mistake: **closing-the-sheet pseudo-navigation push
+(step 3) creates a history entry that, when revisited, takes you
+BACK INTO the sheet you just closed.**
+
+### Fix recommendation
+
+**Option A (recommended)**: override `RouterDelegate.reportConfiguration`
+at the `CoordinatorRouterDelegate` level. When the new URI is a
+prefix of (i.e. popping back to) the previous URI, return
+`RouteInformationReportingType.replace`. Subclass the zenrouter
+delegate in `AppCoordinator`.
+
+**Option B (rejected)**: make sheet `toUri()` return parent route's
+URI. Sacrifices deep-link-by-URL for icon detail (`/pack/mdi/icon/
+home`) which user values for sharing.
+
+### Other instances of same bug
+
+| Location | Symptom | Same fix |
+|---|---|---|
+| **Search palette** ([search_route.dart:88](packages/iconifyx/website/lib/router/routes/shell/search_route.dart#L88)) | Cmd-K opens, Esc closes, browser-back re-opens | YES + change `app_shell_layout.dart:39-44` `push` → `pushOrMoveToTop` |
+| **Pack-detail filter** ([pack_detail_page.dart:105-114](packages/iconifyx/website/lib/features/pack/pack_detail_page.dart#L105)) | Type "star" → 4 history entries `?q=s, ?q=st, ?q=sta, ?q=star` | YES — query-only changes must always be `replace` |
+| **All-packs filter + category** ([all_packs_page.dart:62-80](packages/iconifyx/website/lib/features/home/all_packs_page.dart#L62)) | Same per-keystroke pollution | YES |
+| **Search page typing** | Same | YES |
+
+### Universal invariant to enforce
+
+> **A path-stack mutation that does not change the URL's path
+> segments (only changes queries, or shrinks back to a parent path
+> previously on the stack) MUST report with `RouteInformation
+> ReportingType.replace`. Only strictly forward navigation (new
+> path segments first encountered) should push.**
+
+Enforce in `CoordinatorRouterDelegate`. Retain last-reported URI;
+on each `currentConfiguration` read, compare path segments:
+- equal OR new URI is prefix of old → `replace`
+- otherwise → `push`
+
+### Regression test
+
+`integration_test/back_button_test.dart` running on `flutter test
+--platform chrome`:
+
+1. Drive: /packs → /pack/mdi → tap home icon (sheet) → close →
+   tap star icon → close → `js_util.callMethod(window.history,
+   'back', [])`
+2. Assert: `find.byType(IconDetailPage)` is NONE; `find.byType(
+   PackDetailPage)` is one.
+
+Faster unit-level test: stub `TestPlatformDispatcher` to record
+every `routeInformationUpdated` call. Type 4 chars in filter →
+assert all 4 reports have `replace: true`.
+
+### Files affected by the fix
+
+- `packages/iconifyx/website/lib/router/coordinator.dart` —
+  delegate override lives here
+- `app_shell_layout.dart:39-44` — change shortcut `push` →
+  `pushOrMoveToTop`
+- `~/.pub-cache/hosted/pub.dev/zenrouter-2.0.3/lib/src/coordinator/
+  router.dart:64,105` — offending no-replace report (consider
+  upstream PR after local fix lands)
+
+### Opinion
+
+This bug class was baked in the moment `RouteQueryParameters`
+updates via `markNeedRebuild` met sheet-as-route. Both decisions
+reasonable individually; combined they make browser-back unusable
+in any non-trivial flow. The architectural fix belongs in zenrouter
+(override defaults); until upstream lands, do the local override.
+**Don't paper over by making sheets non-URL-backed — that loses
+real value.**
+
+---
+
 ## Cross-cutting recommendations
 
 ### Tools shortlist (consolidated)
