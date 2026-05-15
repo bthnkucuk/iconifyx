@@ -103,12 +103,15 @@ class _PackDetailPageState extends State<PackDetailPage> {
   }
 
   void _setFilter(String text) {
+    // Store the user's LITERAL text in the URL. Trimming here used to wipe
+    // any trailing space the user just typed — the round-trip listener then
+    // overwrote the controller with the trimmed value, eating every space.
+    // See RESEARCH_PLAN.md §19. `_applyFilters` already trims on read.
     final qs = Map<String, String>.from(widget.route.queries);
-    final t = text.trim();
-    if (t.isEmpty) {
+    if (text.isEmpty) {
       qs.remove('q');
     } else {
-      qs['q'] = t;
+      qs['q'] = text;
     }
     widget.route.updateQueries(appCoordinator, queries: qs);
   }

@@ -88,12 +88,18 @@ class _SearchPageState extends State<SearchPage> {
     // Write to the route's query notifier — this updates the URL via
     // [RouteQueryParameters.updateQueries] and triggers _onRouteQueryChanged
     // (which calls setState above to re-render the results).
-    final t = value.trim();
+    //
+    // IMPORTANT: store the user's LITERAL text. Trimming here used to wipe
+    // any trailing space the user just typed — the round-trip listener then
+    // overwrote the controller with the trimmed value before the user could
+    // type the next character, eating every space. See RESEARCH_PLAN.md §19.
+    // Trimming/normalisation happens at consumption sites only (`_entries`
+    // does `.trim().toLowerCase()`).
     final qs = Map<String, String>.from(widget.route.queries);
-    if (t.isEmpty) {
+    if (value.isEmpty) {
       qs.remove('q');
     } else {
-      qs['q'] = t;
+      qs['q'] = value;
     }
     widget.route.updateQueries(appCoordinator, queries: qs);
   }
