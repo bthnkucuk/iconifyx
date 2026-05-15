@@ -46,6 +46,17 @@ export interface AuditEntry {
   duotoneSamples: string[];
   paintOrderSamples: string[];
   perIconTracedSamples: string[];
+  /**
+   * Count of icons in this pack whose body uses the inverse-mask pattern
+   * (`<defs><mask>` + consumer rect). These were historically miscoded by
+   * oslllo-svg-fixer's `checkFillState` — the body path lived inside the
+   * mask and got its fill forced to black, making it invisible. Surfaced
+   * here so we can see how many icons per pack were silently broken before
+   * the worker bypass landed.
+   */
+  maskPatternCount: number;
+  /** Up to 3 sample names of mask-pattern icons in this pack. */
+  maskPatternSamples: string[];
 }
 
 /**
@@ -243,6 +254,54 @@ export async function writeStrokeAudit(entries: AuditEntry[]): Promise<void> {
         : '—';
       lines.push(
         `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${r.perIconTraced.toLocaleString('en-US')} | ${pctStroke} | ${pctEven} | ${samples} |`
+      );
+    }
+  }
+  lines.push('');
+
+  // Inverse-mask pattern section. Packs here ship icons using
+  // `<defs><mask id="X">...</mask></defs><path mask="url(#X)"/>`. The
+  // mask-internal path that holds the icon's main body used to be
+  // silently corrupted by `oslllo-svg-fixer`'s `checkFillState` — it
+  // force-set the first <path>'s fill to `#000`, which inside a mask
+  // makes that region invisible. The custom stroke-fill worker bypasses
+  // `checkFillState`, so the body now traces correctly. This section
+  // surfaces how many icons per pack were silently broken before the fix.
+  const maskRows = [...rows]
+    .filter((r) => r.maskPatternCount > 0)
+    .sort((a, b) => b.maskPatternCount - a.maskPatternCount);
+  const totalMask = rows.reduce((s, r) => s + r.maskPatternCount, 0);
+  lines.push('## Inverse-mask pattern (resvg-aware trace)');
+  lines.push('');
+  lines.push(
+    'Icons whose body uses `<defs><mask id="X">...</mask></defs>` plus a ' +
+      'consumer `<path mask="url(#X)"/>` (Solar bold, icon-park-twotone, ' +
+      'icon-park-solid, line-md, pepicons-pop/pencil, lets-icons duotone-line, …). ' +
+      'Before the custom stroke-fill worker landed, these icons shipped with ' +
+      'their main body invisible because `oslllo-svg-fixer` force-set the ' +
+      "first <path>'s fill to black inside the mask. The worker bypasses " +
+      'that step now and the bodies trace correctly via resvg.'
+  );
+  lines.push('');
+  lines.push(`- **Icons using the inverse-mask pattern across all packs:** ${totalMask.toLocaleString('en-US')}`);
+  lines.push('');
+  if (maskRows.length === 0) {
+    lines.push('_No mask-pattern icons detected._');
+  } else {
+    lines.push('| Set | Prefix | Mask icons | % of pack | Spot-check |');
+    lines.push('|---|---|---:|---:|---|');
+    for (const r of maskRows) {
+      // Cap at 100%: maskPatternCount is captured pre-drop while iconCount
+      // is post-drop, so packs like circle-flags (where most icons get
+      // paint-order-dropped) can otherwise show 460%.
+      const pct = r.iconCount > 0
+        ? Math.min(100, (r.maskPatternCount / r.iconCount) * 100).toFixed(0) + '%'
+        : '—';
+      const samples = r.maskPatternSamples.length > 0
+        ? r.maskPatternSamples.map((n) => `\`${n}\``).join(', ')
+        : '—';
+      lines.push(
+        `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${r.maskPatternCount.toLocaleString('en-US')} | ${pct} | ${samples} |`
       );
     }
   }

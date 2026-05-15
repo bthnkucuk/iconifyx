@@ -16,17 +16,17 @@
       "spdx": "MIT",
       "url": "https://github.com/Yummygum/flagpack-core/blob/main/LICENSE"
     },
-    "total": 191
+    "total": 256
   },
   "fonts": [
     {
       "family": "Flagpack",
-      "nextCodepoint": 57535,
-      "iconCount": 191
+      "nextCodepoint": 57600,
+      "iconCount": 256
     },
     {
       "family": "FlagpackSecondary",
-      "nextCodepoint": 57535,
+      "nextCodepoint": 57600,
       "iconCount": 16
     }
   ],
@@ -62,10 +62,20 @@
       "identifier": "al",
       "duotone": true
     },
+    "am": {
+      "codepoint": 57535,
+      "fontFamily": "Flagpack",
+      "identifier": "am"
+    },
     "ao": {
       "codepoint": 57349,
       "fontFamily": "Flagpack",
       "identifier": "ao"
+    },
+    "aq": {
+      "codepoint": 57536,
+      "fontFamily": "Flagpack",
+      "identifier": "aq"
     },
     "ar": {
       "codepoint": 57350,
@@ -101,6 +111,16 @@
       "codepoint": 57356,
       "fontFamily": "Flagpack",
       "identifier": "az"
+    },
+    "ba": {
+      "codepoint": 57537,
+      "fontFamily": "Flagpack",
+      "identifier": "ba"
+    },
+    "bb": {
+      "codepoint": 57538,
+      "fontFamily": "Flagpack",
+      "identifier": "bb"
     },
     "bd": {
       "codepoint": 57357,
@@ -139,10 +159,20 @@
       "fontFamily": "Flagpack",
       "identifier": "bj"
     },
+    "bl": {
+      "codepoint": 57539,
+      "fontFamily": "Flagpack",
+      "identifier": "bl"
+    },
     "bm": {
       "codepoint": 57364,
       "fontFamily": "Flagpack",
       "identifier": "bm"
+    },
+    "bn": {
+      "codepoint": 57540,
+      "fontFamily": "Flagpack",
+      "identifier": "bn"
     },
     "bo": {
       "codepoint": 57365,
@@ -159,6 +189,11 @@
       "fontFamily": "Flagpack",
       "identifier": "bqSa"
     },
+    "bq-se": {
+      "codepoint": 57541,
+      "fontFamily": "Flagpack",
+      "identifier": "bqSe"
+    },
     "br": {
       "codepoint": 57368,
       "fontFamily": "Flagpack",
@@ -168,6 +203,11 @@
       "codepoint": 57369,
       "fontFamily": "Flagpack",
       "identifier": "bs"
+    },
+    "bt": {
+      "codepoint": 57542,
+      "fontFamily": "Flagpack",
+      "identifier": "bt"
     },
     "bv": {
       "codepoint": 57370,
@@ -184,6 +224,11 @@
       "fontFamily": "Flagpack",
       "identifier": "by"
     },
+    "bz": {
+      "codepoint": 57543,
+      "fontFamily": "Flagpack",
+      "identifier": "bz"
+    },
     "ca": {
       "codepoint": 57373,
       "fontFamily": "Flagpack",
@@ -195,10 +240,20 @@
       "fontFamily": "Flagpack",
       "identifier": "cc"
     },
+    "cd": {
+      "codepoint": 57544,
+      "fontFamily": "Flagpack",
+      "identifier": "cd"
+    },
     "cf": {
       "codepoint": 57375,
       "fontFamily": "Flagpack",
       "identifier": "cf"
+    },
+    "cg": {
+      "codepoint": 57545,
+      "fontFamily": "Flagpack",
+      "identifier": "cg"
     },
     "ch": {
       "codepoint": 57376,
@@ -231,10 +286,30 @@
       "identifier": "cn",
       "duotone": true
     },
+    "co": {
+      "codepoint": 57546,
+      "fontFamily": "Flagpack",
+      "identifier": "co"
+    },
+    "cr": {
+      "codepoint": 57547,
+      "fontFamily": "Flagpack",
+      "identifier": "cr"
+    },
     "cu": {
       "codepoint": 57382,
       "fontFamily": "Flagpack",
       "identifier": "cu"
+    },
+    "cv": {
+      "codepoint": 57548,
+      "fontFamily": "Flagpack",
+      "identifier": "cv"
+    },
+    "cw": {
+      "codepoint": 57549,
+      "fontFamily": "Flagpack",
+      "identifier": "cw"
     },
     "cx": {
       "codepoint": 57383,
@@ -261,10 +336,30 @@
       "fontFamily": "Flagpack",
       "identifier": "dj"
     },
+    "dk": {
+      "codepoint": 57550,
+      "fontFamily": "Flagpack",
+      "identifier": "dk"
+    },
+    "dm": {
+      "codepoint": 57551,
+      "fontFamily": "Flagpack",
+      "identifier": "dm"
+    },
+    "do": {
+      "codepoint": 57552,
+      "fontFamily": "Flagpack",
+      "identifier": "do_"
+    },
     "dz": {
       "codepoint": 57388,
       "fontFamily": "Flagpack",
       "identifier": "dz"
+    },
+    "ec": {
+      "codepoint": 57553,
+      "fontFamily": "Flagpack",
+      "identifier": "ec"
     },
     "ee": {
       "codepoint": 57389,
@@ -280,6 +375,16 @@
       "codepoint": 57391,
       "fontFamily": "Flagpack",
       "identifier": "eh"
+    },
+    "er": {
+      "codepoint": 57554,
+      "fontFamily": "Flagpack",
+      "identifier": "er"
+    },
+    "es": {
+      "codepoint": 57555,
+      "fontFamily": "Flagpack",
+      "identifier": "es"
     },
     "et": {
       "codepoint": 57392,
@@ -311,6 +416,11 @@
       "fontFamily": "Flagpack",
       "identifier": "fo"
     },
+    "fr": {
+      "codepoint": 57556,
+      "fontFamily": "Flagpack",
+      "identifier": "fr"
+    },
     "ga": {
       "codepoint": 57398,
       "fontFamily": "Flagpack",
@@ -327,16 +437,31 @@
       "fontFamily": "Flagpack",
       "identifier": "gbEng"
     },
+    "gb-nir": {
+      "codepoint": 57557,
+      "fontFamily": "Flagpack",
+      "identifier": "gbNir"
+    },
     "gb-sct": {
       "codepoint": 57530,
       "fontFamily": "Flagpack",
       "identifier": "gbSct",
       "duotone": true
     },
+    "gb-ukm": {
+      "codepoint": 57558,
+      "fontFamily": "Flagpack",
+      "identifier": "gbUkm"
+    },
     "gb-wls": {
       "codepoint": 57401,
       "fontFamily": "Flagpack",
       "identifier": "gbWls"
+    },
+    "gd": {
+      "codepoint": 57559,
+      "fontFamily": "Flagpack",
+      "identifier": "gd"
     },
     "ge": {
       "codepoint": 57402,
@@ -363,6 +488,11 @@
       "fontFamily": "Flagpack",
       "identifier": "gi"
     },
+    "gl": {
+      "codepoint": 57560,
+      "fontFamily": "Flagpack",
+      "identifier": "gl"
+    },
     "gm": {
       "codepoint": 57407,
       "fontFamily": "Flagpack",
@@ -372,6 +502,11 @@
       "codepoint": 57408,
       "fontFamily": "Flagpack",
       "identifier": "gn"
+    },
+    "gp": {
+      "codepoint": 57561,
+      "fontFamily": "Flagpack",
+      "identifier": "gp"
     },
     "gq": {
       "codepoint": 57409,
@@ -384,10 +519,20 @@
       "identifier": "gr",
       "duotone": true
     },
+    "gs": {
+      "codepoint": 57562,
+      "fontFamily": "Flagpack",
+      "identifier": "gs"
+    },
     "gt": {
       "codepoint": 57411,
       "fontFamily": "Flagpack",
       "identifier": "gt"
+    },
+    "gu": {
+      "codepoint": 57563,
+      "fontFamily": "Flagpack",
+      "identifier": "gu"
     },
     "gw": {
       "codepoint": 57412,
@@ -474,6 +619,11 @@
       "fontFamily": "Flagpack",
       "identifier": "is_"
     },
+    "it": {
+      "codepoint": 57564,
+      "fontFamily": "Flagpack",
+      "identifier": "it"
+    },
     "je": {
       "codepoint": 57429,
       "fontFamily": "Flagpack",
@@ -500,6 +650,11 @@
       "fontFamily": "Flagpack",
       "identifier": "ke"
     },
+    "kg": {
+      "codepoint": 57565,
+      "fontFamily": "Flagpack",
+      "identifier": "kg"
+    },
     "kh": {
       "codepoint": 57434,
       "fontFamily": "Flagpack",
@@ -509,6 +664,16 @@
       "codepoint": 57435,
       "fontFamily": "Flagpack",
       "identifier": "ki"
+    },
+    "km": {
+      "codepoint": 57566,
+      "fontFamily": "Flagpack",
+      "identifier": "km"
+    },
+    "kn": {
+      "codepoint": 57567,
+      "fontFamily": "Flagpack",
+      "identifier": "kn"
     },
     "kp": {
       "codepoint": 57436,
@@ -539,6 +704,11 @@
       "codepoint": 57441,
       "fontFamily": "Flagpack",
       "identifier": "la"
+    },
+    "lb": {
+      "codepoint": 57568,
+      "fontFamily": "Flagpack",
+      "identifier": "lb"
     },
     "lc": {
       "codepoint": 57442,
@@ -586,20 +756,45 @@
       "fontFamily": "Flagpack",
       "identifier": "ly"
     },
+    "ma": {
+      "codepoint": 57569,
+      "fontFamily": "Flagpack",
+      "identifier": "ma"
+    },
     "mc": {
       "codepoint": 57450,
       "fontFamily": "Flagpack",
       "identifier": "mc"
+    },
+    "md": {
+      "codepoint": 57570,
+      "fontFamily": "Flagpack",
+      "identifier": "md"
     },
     "me": {
       "codepoint": 57451,
       "fontFamily": "Flagpack",
       "identifier": "me"
     },
+    "mf": {
+      "codepoint": 57571,
+      "fontFamily": "Flagpack",
+      "identifier": "mf"
+    },
+    "mg": {
+      "codepoint": 57572,
+      "fontFamily": "Flagpack",
+      "identifier": "mg"
+    },
     "mh": {
       "codepoint": 57452,
       "fontFamily": "Flagpack",
       "identifier": "mh"
+    },
+    "mk": {
+      "codepoint": 57573,
+      "fontFamily": "Flagpack",
+      "identifier": "mk"
     },
     "ml": {
       "codepoint": 57453,
@@ -610,6 +805,26 @@
       "codepoint": 57454,
       "fontFamily": "Flagpack",
       "identifier": "mm"
+    },
+    "mn": {
+      "codepoint": 57574,
+      "fontFamily": "Flagpack",
+      "identifier": "mn"
+    },
+    "mo": {
+      "codepoint": 57575,
+      "fontFamily": "Flagpack",
+      "identifier": "mo"
+    },
+    "mp": {
+      "codepoint": 57576,
+      "fontFamily": "Flagpack",
+      "identifier": "mp"
+    },
+    "mq": {
+      "codepoint": 57577,
+      "fontFamily": "Flagpack",
+      "identifier": "mq"
     },
     "mr": {
       "codepoint": 57455,
@@ -626,10 +841,25 @@
       "fontFamily": "Flagpack",
       "identifier": "mt"
     },
+    "mu": {
+      "codepoint": 57578,
+      "fontFamily": "Flagpack",
+      "identifier": "mu"
+    },
+    "mv": {
+      "codepoint": 57579,
+      "fontFamily": "Flagpack",
+      "identifier": "mv"
+    },
     "mw": {
       "codepoint": 57458,
       "fontFamily": "Flagpack",
       "identifier": "mw"
+    },
+    "mx": {
+      "codepoint": 57580,
+      "fontFamily": "Flagpack",
+      "identifier": "mx"
     },
     "my": {
       "codepoint": 57459,
@@ -645,6 +875,11 @@
       "codepoint": 57461,
       "fontFamily": "Flagpack",
       "identifier": "na"
+    },
+    "nc": {
+      "codepoint": 57581,
+      "fontFamily": "Flagpack",
+      "identifier": "nc"
     },
     "ne": {
       "codepoint": 57462,
@@ -683,10 +918,25 @@
       "fontFamily": "Flagpack",
       "identifier": "np"
     },
+    "nr": {
+      "codepoint": 57582,
+      "fontFamily": "Flagpack",
+      "identifier": "nr"
+    },
+    "nu": {
+      "codepoint": 57583,
+      "fontFamily": "Flagpack",
+      "identifier": "nu"
+    },
     "nz": {
       "codepoint": 57468,
       "fontFamily": "Flagpack",
       "identifier": "nz"
+    },
+    "om": {
+      "codepoint": 57584,
+      "fontFamily": "Flagpack",
+      "identifier": "om"
     },
     "pa": {
       "codepoint": 57469,
@@ -708,6 +958,11 @@
       "fontFamily": "Flagpack",
       "identifier": "pg"
     },
+    "ph": {
+      "codepoint": 57585,
+      "fontFamily": "Flagpack",
+      "identifier": "ph"
+    },
     "pk": {
       "codepoint": 57473,
       "fontFamily": "Flagpack",
@@ -717,6 +972,11 @@
       "codepoint": 57474,
       "fontFamily": "Flagpack",
       "identifier": "pl"
+    },
+    "pm": {
+      "codepoint": 57586,
+      "fontFamily": "Flagpack",
+      "identifier": "pm"
     },
     "pn": {
       "codepoint": 57475,
@@ -754,10 +1014,20 @@
       "identifier": "qa",
       "duotone": true
     },
+    "re": {
+      "codepoint": 57587,
+      "fontFamily": "Flagpack",
+      "identifier": "re"
+    },
     "ro": {
       "codepoint": 57482,
       "fontFamily": "Flagpack",
       "identifier": "ro"
+    },
+    "rs": {
+      "codepoint": 57588,
+      "fontFamily": "Flagpack",
+      "identifier": "rs"
     },
     "ru": {
       "codepoint": 57483,
@@ -780,6 +1050,11 @@
       "fontFamily": "Flagpack",
       "identifier": "sb"
     },
+    "sc": {
+      "codepoint": 57589,
+      "fontFamily": "Flagpack",
+      "identifier": "sc"
+    },
     "sd": {
       "codepoint": 57486,
       "fontFamily": "Flagpack",
@@ -799,6 +1074,11 @@
       "codepoint": 57489,
       "fontFamily": "Flagpack",
       "identifier": "sh"
+    },
+    "si": {
+      "codepoint": 57590,
+      "fontFamily": "Flagpack",
+      "identifier": "si"
     },
     "sj": {
       "codepoint": 57490,
@@ -830,6 +1110,11 @@
       "fontFamily": "Flagpack",
       "identifier": "so",
       "duotone": true
+    },
+    "sr": {
+      "codepoint": 57591,
+      "fontFamily": "Flagpack",
+      "identifier": "sr"
     },
     "ss": {
       "codepoint": 57496,
@@ -871,6 +1156,11 @@
       "fontFamily": "Flagpack",
       "identifier": "td"
     },
+    "tf": {
+      "codepoint": 57592,
+      "fontFamily": "Flagpack",
+      "identifier": "tf"
+    },
     "tg": {
       "codepoint": 57504,
       "fontFamily": "Flagpack",
@@ -887,10 +1177,20 @@
       "fontFamily": "Flagpack",
       "identifier": "tj"
     },
+    "tk": {
+      "codepoint": 57593,
+      "fontFamily": "Flagpack",
+      "identifier": "tk"
+    },
     "tl": {
       "codepoint": 57506,
       "fontFamily": "Flagpack",
       "identifier": "tl"
+    },
+    "tm": {
+      "codepoint": 57594,
+      "fontFamily": "Flagpack",
+      "identifier": "tm"
     },
     "tn": {
       "codepoint": 57507,
@@ -921,6 +1221,16 @@
       "codepoint": 57512,
       "fontFamily": "Flagpack",
       "identifier": "tw"
+    },
+    "tz": {
+      "codepoint": 57595,
+      "fontFamily": "Flagpack",
+      "identifier": "tz"
+    },
+    "ua": {
+      "codepoint": 57596,
+      "fontFamily": "Flagpack",
+      "identifier": "ua"
     },
     "ug": {
       "codepoint": 57513,
@@ -957,6 +1267,11 @@
       "fontFamily": "Flagpack",
       "identifier": "vc"
     },
+    "ve": {
+      "codepoint": 57597,
+      "fontFamily": "Flagpack",
+      "identifier": "ve"
+    },
     "vg": {
       "codepoint": 57520,
       "fontFamily": "Flagpack",
@@ -976,6 +1291,16 @@
       "codepoint": 57523,
       "fontFamily": "Flagpack",
       "identifier": "vu"
+    },
+    "wf": {
+      "codepoint": 57598,
+      "fontFamily": "Flagpack",
+      "identifier": "wf"
+    },
+    "ws": {
+      "codepoint": 57599,
+      "fontFamily": "Flagpack",
+      "identifier": "ws"
     },
     "ye": {
       "codepoint": 57524,

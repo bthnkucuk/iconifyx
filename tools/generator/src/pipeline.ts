@@ -28,6 +28,7 @@ import {
   paintOrderSignal,
   isPaintOrderRiskBody,
   iconNeedsRasterTrace,
+  bodyUsesMaskPattern,
 } from './svg_preprocess.ts';
 import { secondaryFontFamily } from './manifest.ts';
 import {
@@ -116,6 +117,15 @@ interface RasterFillAuditEntry {
    */
   paintOrderDroppedSamples: string[];
   perIconTracedSamples: string[];
+  /**
+   * Per-set count of icons whose body uses the inverse-mask pattern
+   * (`<defs><mask>` + consumer rect). Pre-fix these icons shipped with
+   * their main body invisible because oslllo-svg-fixer force-set the
+   * mask-internal first-path fill to black. Surfaced in the audit so we
+   * can see which packs benefit from the custom worker bypass.
+   */
+  maskPatternCount: number;
+  maskPatternSamples: string[];
 }
 const rasterFillSignalCache = new Map<string, RasterFillAuditEntry>();
 
@@ -276,6 +286,8 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
       duotoneSamples,
       paintOrderSamples: cached?.paintOrderDroppedSamples ?? [],
       perIconTracedSamples: cached?.perIconTracedSamples ?? [],
+      maskPatternCount: cached?.maskPatternCount ?? 0,
+      maskPatternSamples: cached?.maskPatternSamples ?? [],
     });
   }
   await writeStrokeAudit(auditEntries);
@@ -415,6 +427,19 @@ async function processOneSet(
   //   2. Auto-detection on the icon sample: stroke ratio ≥ 50% OR
   //      evenodd ratio ≥ 20% (50% combined catches gravity-ui-style sets
   //      whose icons use evenodd cutouts but no explicit stroke).
+  // Count icons that use the inverse-mask pattern before stroke-fill
+  // rewrites their bodies. These were silently broken by oslllo-svg-fixer
+  // before the custom worker bypass — surface counts in the audit so we
+  // can verify the fix landed and watch for regressions.
+  let maskPatternCount = 0;
+  const maskPatternNames: string[] = [];
+  for (const r of allResolved) {
+    if (bodyUsesMaskPattern(r.body)) {
+      maskPatternCount += 1;
+      if (maskPatternNames.length < 3) maskPatternNames.push(r.name);
+    }
+  }
+
   // Per-icon: ~5-20 ms first time, then disk-cached.
   const sig = rasterFillSignal(allResolved);
   const explicitlyConfigured = config.strokeFillSets?.includes(prefix) ?? false;
@@ -518,6 +543,8 @@ async function processOneSet(
     perIconTraced,
     paintOrderDroppedSamples: [...paintOrderDroppedNames].slice(0, 3),
     perIconTracedSamples: perIconTracedNames.slice(0, 3),
+    maskPatternCount,
+    maskPatternSamples: maskPatternNames,
   });
 
   if (paintOrderDropped > 0) {

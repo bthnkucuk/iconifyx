@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Leonid Tsvetkov
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 1541 (split across 2 fonts)
+/// Icons: 1544 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -993,6 +993,11 @@ class LetsIconsIcons {
   /// `book-open-alt`
   static const IconifyIconData bookOpenAlt = IconifyIconData.solo(
     IconData(0xe0bc, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
+  );
+
+  /// `book-open-alt-duotone`
+  static const IconifyIconData bookOpenAltDuotone = IconifyIconData.solo(
+    IconData(0xe605, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `book-open-alt-duotone-light` (duo-tone)
@@ -4056,6 +4061,11 @@ class LetsIconsIcons {
     IconData(0xe309, fontFamily: 'LetsIconsSecondary', fontPackage: 'iconifyx_lets_icons'),
   );
 
+  /// `img-box-duotone-line`
+  static const IconifyIconData imgBoxDuotoneLine = IconifyIconData.solo(
+    IconData(0xe606, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
+  );
+
   /// `img-box-fill`
   static const IconifyIconData imgBoxFill = IconifyIconData.solo(
     IconData(0xe30a, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
@@ -5591,6 +5601,11 @@ class LetsIconsIcons {
   /// `pipette-light`
   static const IconifyIconData pipetteLight = IconifyIconData.solo(
     IconData(0xe431, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
+  );
+
+  /// `pizza`
+  static const IconifyIconData pizza = IconifyIconData.solo(
+    IconData(0xe607, fontFamily: 'LetsIcons', fontPackage: 'iconifyx_lets_icons'),
   );
 
   /// `play`

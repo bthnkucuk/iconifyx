@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE"
     },
-    "total": 1
+    "total": 5
   },
   "fonts": [
     {
       "family": "CircleFlags",
-      "nextCodepoint": 57498,
-      "iconCount": 1
+      "nextCodepoint": 57502,
+      "iconCount": 5
     }
   ],
   "icons": {
@@ -397,6 +397,11 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-15"
     },
+    "it-21": {
+      "codepoint": 57498,
+      "fontFamily": "CircleFlags",
+      "identifier": "it21"
+    },
     "it-25": {
       "codepoint": 57397,
       "fontFamily": "CircleFlags",
@@ -410,6 +415,11 @@
       "identifier": "it36",
       "deprecated": true,
       "deprecatedSince": "2026-05-15"
+    },
+    "it-42": {
+      "codepoint": 57499,
+      "fontFamily": "CircleFlags",
+      "identifier": "it42"
     },
     "it-67": {
       "codepoint": 57497,
@@ -654,6 +664,11 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-15"
     },
+    "lang-pms": {
+      "codepoint": 57500,
+      "fontFamily": "CircleFlags",
+      "identifier": "langPms"
+    },
     "lang-rm": {
       "codepoint": 57433,
       "fontFamily": "CircleFlags",
@@ -856,6 +871,11 @@
       "identifier": "pirate",
       "deprecated": true,
       "deprecatedSince": "2026-05-15"
+    },
+    "pms": {
+      "codepoint": 57501,
+      "fontFamily": "CircleFlags",
+      "identifier": "pms"
     },
     "pw": {
       "codepoint": 57462,

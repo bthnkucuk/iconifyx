@@ -164,6 +164,10 @@ ${deps}
   shared_preferences: ^2.3.2
   url_launcher: ^6.3.2
   oref: ^2.8.1
+  # flutter_svg is used ONLY on the icon-detail sheet, to render the
+  # original Iconify-CDN SVG next to our generated TTF rendering for
+  # visual QA. Not used anywhere else in the website.
+  flutter_svg: ^2.3.0
   # IconDetailRoute presents the icon detail page as a content-sized sheet
   # over the shell layout. \`google_fonts\` is intentionally NOT a dep —
   # runtime gstatic.com fetches were crashing CanvasKit on web; we ship

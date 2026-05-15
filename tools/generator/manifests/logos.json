@@ -16,17 +16,17 @@
       "spdx": "CC0-1.0",
       "url": "https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt"
     },
-    "total": 928
+    "total": 937
   },
   "fonts": [
     {
       "family": "Logos",
-      "nextCodepoint": 59042,
-      "iconCount": 928
+      "nextCodepoint": 59051,
+      "iconCount": 937
     },
     {
       "family": "LogosSecondary",
-      "nextCodepoint": 59042,
+      "nextCodepoint": 59051,
       "iconCount": 378
     }
   ],
@@ -708,6 +708,11 @@
       "fontFamily": "Logos",
       "identifier": "auth0Icon"
     },
+    "autocode": {
+      "codepoint": 59042,
+      "fontFamily": "Logos",
+      "identifier": "autocode"
+    },
     "autoit": {
       "codepoint": 57399,
       "fontFamily": "Logos",
@@ -1303,6 +1308,11 @@
       "codepoint": 57415,
       "fontFamily": "Logos",
       "identifier": "biomejsIcon"
+    },
+    "bitballoon": {
+      "codepoint": 59043,
+      "fontFamily": "Logos",
+      "identifier": "bitballoon"
     },
     "bitbar": {
       "codepoint": 58935,
@@ -4129,6 +4139,11 @@
       "fontFamily": "Logos",
       "identifier": "graylogIcon"
     },
+    "greensock": {
+      "codepoint": 59044,
+      "fontFamily": "Logos",
+      "identifier": "greensock"
+    },
     "greensock-icon": {
       "codepoint": 57645,
       "fontFamily": "Logos",
@@ -4317,6 +4332,16 @@
       "codepoint": 57657,
       "fontFamily": "Logos",
       "identifier": "hashicorpIcon"
+    },
+    "hashnode": {
+      "codepoint": 59045,
+      "fontFamily": "Logos",
+      "identifier": "hashnode"
+    },
+    "hashnode-icon": {
+      "codepoint": 59046,
+      "fontFamily": "Logos",
+      "identifier": "hashnodeIcon"
     },
     "haskell": {
       "codepoint": 58510,
@@ -4573,6 +4598,11 @@
       "identifier": "huggy",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "hugo": {
+      "codepoint": 59047,
+      "fontFamily": "Logos",
+      "identifier": "hugo"
     },
     "hyper": {
       "codepoint": 58529,
@@ -5139,6 +5169,11 @@
       "identifier": "kloudless",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "knockout": {
+      "codepoint": 59048,
+      "fontFamily": "Logos",
+      "identifier": "knockout"
     },
     "koa": {
       "codepoint": 57725,
@@ -7326,6 +7361,16 @@
       "codepoint": 57916,
       "fontFamily": "Logos",
       "identifier": "prisma"
+    },
+    "prismic": {
+      "codepoint": 59049,
+      "fontFamily": "Logos",
+      "identifier": "prismic"
+    },
+    "prismic-icon": {
+      "codepoint": 59050,
+      "fontFamily": "Logos",
+      "identifier": "prismicIcon"
     },
     "processing": {
       "codepoint": 57917,

@@ -16,17 +16,17 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 1541
+    "total": 1544
   },
   "fonts": [
     {
       "family": "LetsIcons",
-      "nextCodepoint": 58885,
-      "iconCount": 1541
+      "nextCodepoint": 58888,
+      "iconCount": 1544
     },
     {
       "family": "LetsIconsSecondary",
-      "nextCodepoint": 58885,
+      "nextCodepoint": 58888,
       "iconCount": 290
     }
   ],
@@ -1009,6 +1009,11 @@
       "codepoint": 57532,
       "fontFamily": "LetsIcons",
       "identifier": "bookOpenAlt"
+    },
+    "book-open-alt-duotone": {
+      "codepoint": 58885,
+      "fontFamily": "LetsIcons",
+      "identifier": "bookOpenAltDuotone"
     },
     "book-open-alt-duotone-light": {
       "codepoint": 57533,
@@ -4071,6 +4076,11 @@
       "identifier": "imgBoxDuotone",
       "duotone": true
     },
+    "img-box-duotone-line": {
+      "codepoint": 58886,
+      "fontFamily": "LetsIcons",
+      "identifier": "imgBoxDuotoneLine"
+    },
     "img-box-fill": {
       "codepoint": 58122,
       "fontFamily": "LetsIcons",
@@ -5607,6 +5617,11 @@
       "codepoint": 58417,
       "fontFamily": "LetsIcons",
       "identifier": "pipetteLight"
+    },
+    "pizza": {
+      "codepoint": 58887,
+      "fontFamily": "LetsIcons",
+      "identifier": "pizza"
     },
     "play": {
       "codepoint": 58418,

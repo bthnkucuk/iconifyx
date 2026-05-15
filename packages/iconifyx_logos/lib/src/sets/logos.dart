@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Gil Barbara
 /// License: CC0 — https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt
-/// Icons: 928 (split across 2 fonts)
+/// Icons: 937 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -427,6 +427,11 @@ class LogosIcons {
     IconData(0xe036, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
+  /// `autocode`
+  static const IconifyIconData autocode = IconifyIconData.solo(
+    IconData(0xe6a2, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+  );
+
   /// `autoit` (duo-tone)
   static const IconifyIconData autoit = IconifyIconData.duo(
     IconData(0xe037, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
@@ -524,6 +529,11 @@ class LogosIcons {
   /// `biomejs-icon`
   static const IconifyIconData biomejsIcon = IconifyIconData.solo(
     IconData(0xe047, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+  );
+
+  /// `bitballoon`
+  static const IconifyIconData bitballoon = IconifyIconData.solo(
+    IconData(0xe6a3, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
   /// `bitbar` (duo-tone)
@@ -1860,6 +1870,11 @@ class LogosIcons {
     IconData(0xe12c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
+  /// `greensock`
+  static const IconifyIconData greensock = IconifyIconData.solo(
+    IconData(0xe6a4, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+  );
+
   /// `greensock-icon`
   static const IconifyIconData greensockIcon = IconifyIconData.solo(
     IconData(0xe12d, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
@@ -1942,6 +1957,16 @@ class LogosIcons {
   /// `hashicorp-icon`
   static const IconifyIconData hashicorpIcon = IconifyIconData.solo(
     IconData(0xe139, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+  );
+
+  /// `hashnode`
+  static const IconifyIconData hashnode = IconifyIconData.solo(
+    IconData(0xe6a5, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+  );
+
+  /// `hashnode-icon`
+  static const IconifyIconData hashnodeIcon = IconifyIconData.solo(
+    IconData(0xe6a6, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
   /// `hasura` (duo-tone)
@@ -2086,6 +2111,11 @@ class LogosIcons {
   static const IconifyIconData hubspot = IconifyIconData.duo(
     IconData(0xe658, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe658, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
+  );
+
+  /// `hugo`
+  static const IconifyIconData hugo = IconifyIconData.solo(
+    IconData(0xe6a7, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
   /// `hyperapp`
@@ -2407,6 +2437,11 @@ class LogosIcons {
   static const IconifyIconData kitematic = IconifyIconData.duo(
     IconData(0xe664, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
     IconData(0xe664, fontFamily: 'LogosSecondary', fontPackage: 'iconifyx_logos'),
+  );
+
+  /// `knockout`
+  static const IconifyIconData knockout = IconifyIconData.solo(
+    IconData(0xe6a8, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
   /// `koa`
@@ -3509,6 +3544,16 @@ class LogosIcons {
   /// `prisma`
   static const IconifyIconData prisma = IconifyIconData.solo(
     IconData(0xe23c, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+  );
+
+  /// `prismic`
+  static const IconifyIconData prismic = IconifyIconData.solo(
+    IconData(0xe6a9, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
+  );
+
+  /// `prismic-icon`
+  static const IconifyIconData prismicIcon = IconifyIconData.solo(
+    IconData(0xe6aa, fontFamily: 'Logos', fontPackage: 'iconifyx_logos'),
   );
 
   /// `processwire-icon`

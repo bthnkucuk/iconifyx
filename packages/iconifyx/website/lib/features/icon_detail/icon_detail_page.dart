@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 import 'package:stupid_simple_sheet/stupid_simple_sheet.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
@@ -225,17 +227,12 @@ class _PreviewCard extends StatelessWidget {
       ),
       child: Column(
         children: [
-          // 240×240 preview stage @ 120px icon.
-          Container(
-            width: 240,
-            height: 240,
-            decoration: BoxDecoration(
-              color: paper,
-              borderRadius: BorderRadius.circular(16),
-              border: Border.all(color: Theme.of(context).dividerColor),
-            ),
-            alignment: Alignment.center,
-            child: IconifyThumb(record.toIconifyData(), size: 120, color: ink),
+          // Side-by-side preview: OUR TTF rendering | original Iconify SVG.
+          _SideBySidePreview(
+            record: record,
+            paperBg: paper,
+            ink: ink,
+            muted: muted,
           ),
           const SizedBox(height: 32),
           // Name + Iconfyx.foo · Category mono sub.
@@ -281,6 +278,7 @@ class _PreviewCard extends StatelessWidget {
           Wrap(
             alignment: WrapAlignment.center,
             spacing: 8,
+            runSpacing: 8,
             children: [
               _PrimaryButton(
                 icon: Icons.copy_rounded,
@@ -296,6 +294,11 @@ class _PreviewCard extends StatelessWidget {
                 icon: Icons.share_outlined,
                 label: 'Share URL',
                 onTap: () => _shareUrl(context, record),
+              ),
+              _SecondaryButton(
+                icon: Icons.bug_report_outlined,
+                label: 'Report defect',
+                onTap: () => _reportDefect(context, record),
               ),
             ],
           ),
@@ -803,6 +806,187 @@ Future<void> _shareUrl(BuildContext context, IconRecord r) async {
   if (context.mounted) {
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(content: Text('URL copied: $url')),
+    );
+  }
+}
+
+String _iconifySvgUrl(IconRecord r) =>
+    'https://api.iconify.design/${r.prefix}/${r.name}.svg';
+
+/// Iconify CDN URL with an explicit color so monochrome icons (whose paths
+/// use `currentColor`) render in the requested tint instead of fallback
+/// black. Multi-color icons (`logos`, color emojis) ignore the `color`
+/// query param and keep their own palette.
+String _iconifySvgUrlTinted(IconRecord r, Color tint) {
+  final argb = tint.toARGB32();
+  final hex = (argb & 0xFFFFFF).toRadixString(16).padLeft(6, '0');
+  return 'https://api.iconify.design/${r.prefix}/${r.name}.svg?color=%23$hex';
+}
+
+Future<void> _reportDefect(BuildContext context, IconRecord r) async {
+  final iconifyUrl = _iconifySvgUrl(r);
+  final title = 'Icon defect: ${r.prefix}/${r.name}';
+  final body = '''
+Pack: ${r.prefix}
+Icon: ${r.name}
+Iconify source: $iconifyUrl
+
+What's wrong:
+- (describe the visual defect)
+
+Expected:
+- (what should it look like)
+''';
+  final uri = Uri.https(
+    'github.com',
+    '/bthnkucuk/iconifyx/issues/new',
+    {'title': title, 'body': body},
+  );
+  final ok = await launchUrl(uri, mode: LaunchMode.externalApplication);
+  if (!ok && context.mounted) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(content: Text('Could not open issue tracker')),
+    );
+  }
+}
+
+// ─── Side-by-side preview ───────────────────────────────────────────────────
+/// Two-tile preview: OUR generated TTF rendering vs the original Iconify CDN
+/// SVG. Lets the user spot generator regressions during manual visual QA
+/// without bouncing to iconify.design.
+class _SideBySidePreview extends StatelessWidget {
+  const _SideBySidePreview({
+    required this.record,
+    required this.paperBg,
+    required this.ink,
+    required this.muted,
+  });
+
+  final IconRecord record;
+  final Color paperBg;
+  final Color ink;
+  final Color muted;
+
+  static const double _tileSize = 200;
+  static const double _iconSize = 120;
+
+  @override
+  Widget build(BuildContext context) {
+    return LayoutBuilder(
+      builder: (context, c) {
+        // Stack vertically on very narrow viewports, side-by-side otherwise.
+        final stacked = c.maxWidth < 460;
+        final ours = _PreviewTile(
+          label: 'iconifyx (ttf)',
+          muted: muted,
+          paperBg: paperBg,
+          ink: ink,
+          size: _tileSize,
+          child: IconifyThumb(record.toIconifyData(),
+              size: _iconSize, color: ink),
+        );
+        final source = _PreviewTile(
+          label: 'iconify (source)',
+          muted: muted,
+          paperBg: paperBg,
+          ink: ink,
+          size: _tileSize,
+          child: _IconifySourcePreview(
+              url: _iconifySvgUrlTinted(record, ink),
+              size: _iconSize,
+              muted: muted),
+        );
+        if (stacked) {
+          return Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [ours, const SizedBox(height: 16), source],
+          );
+        }
+        return Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [ours, const SizedBox(width: 20), source],
+        );
+      },
+    );
+  }
+}
+
+class _PreviewTile extends StatelessWidget {
+  const _PreviewTile({
+    required this.label,
+    required this.muted,
+    required this.paperBg,
+    required this.ink,
+    required this.size,
+    required this.child,
+  });
+
+  final String label;
+  final Color muted;
+  final Color paperBg;
+  final Color ink;
+  final double size;
+  final Widget child;
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        Text(label.toUpperCase(),
+            style: AppTheme.mono(
+              size: 10,
+              color: muted,
+              weight: FontWeight.w700,
+              letterSpacing: 1.2,
+            )),
+        const SizedBox(height: 8),
+        Container(
+          width: size,
+          height: size,
+          decoration: BoxDecoration(
+            color: paperBg,
+            borderRadius: BorderRadius.circular(16),
+            border: Border.all(color: Theme.of(context).dividerColor),
+          ),
+          alignment: Alignment.center,
+          child: child,
+        ),
+      ],
+    );
+  }
+}
+
+/// Renders the raw Iconify CDN SVG at the given size. Color resolution is
+/// done server-side via the URL's `?color=` query (see
+/// [_iconifySvgUrlTinted]) so multi-color sets (`logos`, color emojis) keep
+/// their native palette while monochrome icons honour the requested tint.
+class _IconifySourcePreview extends StatelessWidget {
+  const _IconifySourcePreview({
+    required this.url,
+    required this.size,
+    required this.muted,
+  });
+
+  final String url;
+  final double size;
+  final Color muted;
+
+  @override
+  Widget build(BuildContext context) {
+    return SvgPicture.network(
+      url,
+      width: size,
+      height: size,
+      fit: BoxFit.contain,
+      placeholderBuilder: (_) => SizedBox(
+        width: size * 0.3,
+        height: size * 0.3,
+        child: CircularProgressIndicator(
+          strokeWidth: 2,
+          color: muted,
+        ),
+      ),
     );
   }
 }

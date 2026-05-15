@@ -4,9 +4,9 @@ Generated 2026-05-15 from `@iconify/json` v2.2.472. Source counts are Iconify's 
 
 - **Sets built:** 225 / 225
 - **Sets fully missing:** 0
-- **Sets partially missing (≥5% gap):** 33
+- **Sets partially missing (≥5% gap):** 27
 - **Source icons:** 301,637
-- **Built icons:** 304,613
+- **Built icons:** 306,298
 
 Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light`/`-bold` suffixes) are excluded from the built count so source-vs-built comparisons stay meaningful — those are local clones, not upstream icons.
 
@@ -18,7 +18,7 @@ _None._
 
 | Set | Prefix | Source | Built | Missing | % |
 |---|---|---:|---:|---:|---:|
-| Circle Flags | `circle-flags` | 634 | 1 | 633 | 99.8% |
+| Circle Flags | `circle-flags` | 634 | 5 | 629 | 99.2% |
 | SVG Spinners | `svg-spinners` | 46 | 1 | 45 | 97.8% |
 | UnJS Logos | `unjs` | 63 | 5 | 58 | 92.1% |
 | Noto Emoji | `noto` | 3,710 | 328 | 3,382 | 91.2% |
@@ -28,21 +28,15 @@ _None._
 | Emoji One (Colored) | `emojione` | 1,834 | 357 | 1,477 | 80.5% |
 | Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 645 | 2,500 | 79.5% |
 | Firefox OS Emoji | `fxemoji` | 1,034 | 244 | 790 | 76.4% |
-| Noto Emoji (v1) | `noto-v1` | 2,162 | 579 | 1,583 | 73.2% |
 | Emoji One (v1) | `emojione-v1` | 1,262 | 367 | 895 | 70.9% |
 | Flat Color Icons | `flat-color-icons` | 329 | 97 | 232 | 70.5% |
-| VSCode Icons | `vscode-icons` | 1,489 | 672 | 817 | 54.9% |
-| IconPark TwoTone | `icon-park-twotone` | 1,944 | 884 | 1,060 | 54.5% |
-| SVG Logos | `logos` | 1,861 | 928 | 933 | 50.1% |
+| Noto Emoji (v1) | `noto-v1` | 2,162 | 647 | 1,515 | 70.1% |
+| VSCode Icons | `vscode-icons` | 1,489 | 701 | 788 | 52.9% |
+| SVG Logos | `logos` | 1,861 | 937 | 924 | 49.7% |
 | Streamline Emojis | `streamline-emojis` | 787 | 407 | 380 | 48.3% |
-| Google Cloud Icons | `gcp` | 214 | 118 | 96 | 44.9% |
 | Ultimate color icons | `streamline-ultimate-color` | 998 | 587 | 411 | 41.2% |
 | Material Icon Theme | `material-icon-theme` | 1,168 | 778 | 390 | 33.4% |
 | Flat UI Icons | `flat-ui` | 100 | 75 | 25 | 25.0% |
-| Flagpack | `flagpack` | 254 | 191 | 63 | 24.8% |
-| Devicon | `devicon` | 1,036 | 808 | 228 | 22.0% |
-| CoreUI Flags | `cif` | 199 | 160 | 39 | 19.6% |
-| Skill Icons | `skill-icons` | 400 | 328 | 72 | 18.0% |
 | Web3 Icons Branded | `token-branded` | 2,028 | 1,664 | 364 | 17.9% |
 | Stickies color icons | `streamline-stickies-color` | 200 | 165 | 35 | 17.5% |
 | Glyphs Poly | `glyphs-poly` | 863 | 733 | 130 | 15.1% |
@@ -56,7 +50,7 @@ _None._
 
 | Set | Prefix | Source | Built | Δ | Status |
 |---|---|---:|---:|---:|---|
-| Circle Flags | `circle-flags` | 634 | 1 | +633 | ⚠ partial |
+| Circle Flags | `circle-flags` | 634 | 5 | +629 | ⚠ partial |
 | SVG Spinners | `svg-spinners` | 46 | 1 | +45 | ⚠ partial |
 | UnJS Logos | `unjs` | 63 | 5 | +58 | ⚠ partial |
 | Noto Emoji | `noto` | 3,710 | 328 | +3382 | ⚠ partial |
@@ -66,21 +60,15 @@ _None._
 | Emoji One (Colored) | `emojione` | 1,834 | 357 | +1477 | ⚠ partial |
 | Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 645 | +2500 | ⚠ partial |
 | Firefox OS Emoji | `fxemoji` | 1,034 | 244 | +790 | ⚠ partial |
-| Noto Emoji (v1) | `noto-v1` | 2,162 | 579 | +1583 | ⚠ partial |
 | Emoji One (v1) | `emojione-v1` | 1,262 | 367 | +895 | ⚠ partial |
 | Flat Color Icons | `flat-color-icons` | 329 | 97 | +232 | ⚠ partial |
-| VSCode Icons | `vscode-icons` | 1,489 | 672 | +817 | ⚠ partial |
-| IconPark TwoTone | `icon-park-twotone` | 1,944 | 884 | +1060 | ⚠ partial |
-| SVG Logos | `logos` | 1,861 | 928 | +933 | ⚠ partial |
+| Noto Emoji (v1) | `noto-v1` | 2,162 | 647 | +1515 | ⚠ partial |
+| VSCode Icons | `vscode-icons` | 1,489 | 701 | +788 | ⚠ partial |
+| SVG Logos | `logos` | 1,861 | 937 | +924 | ⚠ partial |
 | Streamline Emojis | `streamline-emojis` | 787 | 407 | +380 | ⚠ partial |
-| Google Cloud Icons | `gcp` | 214 | 118 | +96 | ⚠ partial |
 | Ultimate color icons | `streamline-ultimate-color` | 998 | 587 | +411 | ⚠ partial |
 | Material Icon Theme | `material-icon-theme` | 1,168 | 778 | +390 | ⚠ partial |
 | Flat UI Icons | `flat-ui` | 100 | 75 | +25 | ⚠ partial |
-| Flagpack | `flagpack` | 254 | 191 | +63 | ⚠ partial |
-| Devicon | `devicon` | 1,036 | 808 | +228 | ⚠ partial |
-| CoreUI Flags | `cif` | 199 | 160 | +39 | ⚠ partial |
-| Skill Icons | `skill-icons` | 400 | 328 | +72 | ⚠ partial |
 | Web3 Icons Branded | `token-branded` | 2,028 | 1,664 | +364 | ⚠ partial |
 | Stickies color icons | `streamline-stickies-color` | 200 | 165 | +35 | ⚠ partial |
 | Glyphs Poly | `glyphs-poly` | 863 | 733 | +130 | ⚠ partial |
@@ -162,10 +150,13 @@ _None._
 | IconPark | `icon-park` | 2,658 | 2,658 | 0 | ✓ |
 | Marketeq | `marketeq` | 590 | 590 | 0 | ✓ |
 | File Icons | `file-icons` | 930 | 930 | 0 | ✓ |
+| Skill Icons | `skill-icons` | 400 | 400 | 0 | ✓ |
+| Google Cloud Icons | `gcp` | 214 | 214 | 0 | ✓ |
 | Logos free icons | `streamline-logos` | 1,362 | 1,362 | 0 | ✓ |
 | Font Awesome Brands | `fa7-brands` | 586 | 586 | 0 | ✓ |
 | Nonicons | `nonicons` | 69 | 69 | 0 | ✓ |
 | Entypo+ Social | `entypo-social` | 76 | 76 | 0 | ✓ |
+| CoreUI Flags | `cif` | 199 | 199 | 0 | ✓ |
 | Font-GIS | `gis` | 367 | 367 | 0 | ✓ |
 | GeoGlyphs | `geo` | 30 | 30 | 0 | ✓ |
 | FontAudio | `fad` | 155 | 155 | 0 | ✓ |
@@ -194,6 +185,7 @@ _None._
 | Clarity | `clarity` | 1,103 | 1,104 | -1 | ✓ |
 | Solar | `solar` | 7,401 | 7,410 | -9 | ✓ |
 | css.gg | `gg` | 704 | 705 | -1 | ✓ |
+| IconPark TwoTone | `icon-park-twotone` | 1,944 | 1,947 | -3 | ✓ |
 | Grommet Icons | `grommet-icons` | 636 | 637 | -1 | ✓ |
 | Bootstrap Icons | `bi` | 2,078 | 2,082 | -4 | ✓ |
 | Subway Icon Set | `subway` | 306 | 307 | -1 | ✓ |
@@ -211,13 +203,15 @@ _None._
 | HeroIcons | `heroicons` | 1,288 | 1,297 | -9 | ✓ |
 | Humbleicons | `humbleicons` | 286 | 288 | -2 | ✓ |
 | Charm Icons | `charm` | 261 | 263 | -2 | ✓ |
+| Flagpack | `flagpack` | 254 | 256 | -2 | ✓ |
 | Basil | `basil` | 493 | 497 | -4 | ✓ |
 | MingCute Icon | `mingcute` | 3,324 | 3,352 | -28 | ✓ |
-| Lets Icons | `lets-icons` | 1,528 | 1,541 | -13 | ✓ |
 | Pepicons Print | `pepicons-print` | 1,275 | 1,286 | -11 | ✓ |
+| Devicon | `devicon` | 1,036 | 1,045 | -9 | ✓ |
 | WordPress Icons | `wordpress` | 331 | 334 | -3 | ✓ |
 | Bytesize Icons | `bytesize` | 101 | 102 | -1 | ✓ |
 | Huge Icons | `hugeicons` | 5,062 | 5,115 | -53 | ✓ |
+| Lets Icons | `lets-icons` | 1,528 | 1,544 | -16 | ✓ |
 | IconPark Solid | `icon-park-solid` | 1,947 | 1,970 | -23 | ✓ |
 | Cryptocurrency Icons | `cryptocurrency` | 483 | 489 | -6 | ✓ |
 | Custom Brand Icons | `cbi` | 1,581 | 1,602 | -21 | ✓ |

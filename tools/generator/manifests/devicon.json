@@ -16,21 +16,31 @@
       "spdx": "MIT",
       "url": "https://github.com/devicons/devicon/blob/master/LICENSE"
     },
-    "total": 808
+    "total": 1045
   },
   "fonts": [
     {
       "family": "Devicon",
-      "nextCodepoint": 58152,
-      "iconCount": 808
+      "nextCodepoint": 58389,
+      "iconCount": 1045
     },
     {
       "family": "DeviconSecondary",
-      "nextCodepoint": 58152,
-      "iconCount": 180
+      "nextCodepoint": 58389,
+      "iconCount": 192
     }
   ],
   "icons": {
+    "3dsmax": {
+      "codepoint": 58152,
+      "fontFamily": "Devicon",
+      "identifier": "n3dsmax"
+    },
+    "aarch64": {
+      "codepoint": 58153,
+      "fontFamily": "Devicon",
+      "identifier": "aarch64"
+    },
     "adonisjs": {
       "codepoint": 57344,
       "fontFamily": "Devicon",
@@ -40,6 +50,16 @@
       "codepoint": 57345,
       "fontFamily": "Devicon",
       "identifier": "adonisjsWordmark"
+    },
+    "aerospike": {
+      "codepoint": 58154,
+      "fontFamily": "Devicon",
+      "identifier": "aerospike"
+    },
+    "aerospike-wordmark": {
+      "codepoint": 58155,
+      "fontFamily": "Devicon",
+      "identifier": "aerospikeWordmark"
     },
     "aframe": {
       "codepoint": 57346,
@@ -146,6 +166,11 @@
       "identifier": "androidWordmark",
       "duotone": true
     },
+    "androidstudio": {
+      "codepoint": 58156,
+      "fontFamily": "Devicon",
+      "identifier": "androidstudio"
+    },
     "androidstudio-wordmark": {
       "codepoint": 57361,
       "fontFamily": "Devicon",
@@ -170,6 +195,11 @@
       "codepoint": 57365,
       "fontFamily": "Devicon",
       "identifier": "angularjsWordmark"
+    },
+    "angularmaterial": {
+      "codepoint": 58157,
+      "fontFamily": "Devicon",
+      "identifier": "angularmaterial"
     },
     "ansible": {
       "codepoint": 58093,
@@ -242,6 +272,11 @@
       "codepoint": 57377,
       "fontFamily": "Devicon",
       "identifier": "apachekafkaWordmark"
+    },
+    "apachespark": {
+      "codepoint": 58158,
+      "fontFamily": "Devicon",
+      "identifier": "apachespark"
     },
     "apachespark-wordmark": {
       "codepoint": 58095,
@@ -358,6 +393,16 @@
       "fontFamily": "Devicon",
       "identifier": "astroWordmark"
     },
+    "atom": {
+      "codepoint": 58159,
+      "fontFamily": "Devicon",
+      "identifier": "atom"
+    },
+    "atom-wordmark": {
+      "codepoint": 58160,
+      "fontFamily": "Devicon",
+      "identifier": "atomWordmark"
+    },
     "awk": {
       "codepoint": 57398,
       "fontFamily": "Devicon",
@@ -398,6 +443,16 @@
       "fontFamily": "Devicon",
       "identifier": "babel"
     },
+    "babylonjs": {
+      "codepoint": 58161,
+      "fontFamily": "Devicon",
+      "identifier": "babylonjs"
+    },
+    "babylonjs-wordmark": {
+      "codepoint": 58162,
+      "fontFamily": "Devicon",
+      "identifier": "babylonjsWordmark"
+    },
     "backbonejs": {
       "codepoint": 57406,
       "fontFamily": "Devicon",
@@ -419,6 +474,16 @@
       "codepoint": 57409,
       "fontFamily": "Devicon",
       "identifier": "ballerinaWordmark"
+    },
+    "bamboo": {
+      "codepoint": 58163,
+      "fontFamily": "Devicon",
+      "identifier": "bamboo"
+    },
+    "bamboo-wordmark": {
+      "codepoint": 58164,
+      "fontFamily": "Devicon",
+      "identifier": "bambooWordmark"
     },
     "bash": {
       "codepoint": 58097,
@@ -472,6 +537,16 @@
       "identifier": "biomeWordmark",
       "duotone": true
     },
+    "bitbucket": {
+      "codepoint": 58165,
+      "fontFamily": "Devicon",
+      "identifier": "bitbucket"
+    },
+    "bitbucket-wordmark": {
+      "codepoint": 58166,
+      "fontFamily": "Devicon",
+      "identifier": "bitbucketWordmark"
+    },
     "blazor": {
       "codepoint": 57419,
       "fontFamily": "Devicon",
@@ -497,6 +572,21 @@
       "codepoint": 57422,
       "fontFamily": "Devicon",
       "identifier": "bootstrapWordmark"
+    },
+    "bower": {
+      "codepoint": 58167,
+      "fontFamily": "Devicon",
+      "identifier": "bower"
+    },
+    "bower-wordmark": {
+      "codepoint": 58168,
+      "fontFamily": "Devicon",
+      "identifier": "bowerWordmark"
+    },
+    "browserstack": {
+      "codepoint": 58169,
+      "fontFamily": "Devicon",
+      "identifier": "browserstack"
     },
     "browserstack-wordmark": {
       "codepoint": 57423,
@@ -591,6 +681,11 @@
       "identifier": "cassandraWordmark",
       "duotone": true
     },
+    "centos": {
+      "codepoint": 58170,
+      "fontFamily": "Devicon",
+      "identifier": "centos"
+    },
     "centos-wordmark": {
       "codepoint": 57438,
       "fontFamily": "Devicon",
@@ -607,10 +702,25 @@
       "identifier": "cephWordmark",
       "duotone": true
     },
+    "ceylon": {
+      "codepoint": 58171,
+      "fontFamily": "Devicon",
+      "identifier": "ceylon"
+    },
+    "ceylon-wordmark": {
+      "codepoint": 58172,
+      "fontFamily": "Devicon",
+      "identifier": "ceylonWordmark"
+    },
     "chakraui": {
       "codepoint": 57441,
       "fontFamily": "Devicon",
       "identifier": "chakraui"
+    },
+    "chakraui-wordmark": {
+      "codepoint": 58173,
+      "fontFamily": "Devicon",
+      "identifier": "chakrauiWordmark"
     },
     "chartjs": {
       "codepoint": 57442,
@@ -618,10 +728,31 @@
       "identifier": "chartjs",
       "duotone": true
     },
+    "chartjs-wordmark": {
+      "codepoint": 58174,
+      "fontFamily": "Devicon",
+      "identifier": "chartjsWordmark",
+      "duotone": true
+    },
     "chrome": {
       "codepoint": 57443,
       "fontFamily": "Devicon",
       "identifier": "chrome"
+    },
+    "chrome-wordmark": {
+      "codepoint": 58175,
+      "fontFamily": "Devicon",
+      "identifier": "chromeWordmark"
+    },
+    "clarity": {
+      "codepoint": 58176,
+      "fontFamily": "Devicon",
+      "identifier": "clarity"
+    },
+    "clarity-wordmark": {
+      "codepoint": 58177,
+      "fontFamily": "Devicon",
+      "identifier": "clarityWordmark"
     },
     "clickhouse": {
       "codepoint": 57444,
@@ -654,10 +785,20 @@
       "fontFamily": "Devicon",
       "identifier": "cloudflare"
     },
+    "cloudflare-wordmark": {
+      "codepoint": 58178,
+      "fontFamily": "Devicon",
+      "identifier": "cloudflareWordmark"
+    },
     "cloudflareworkers": {
       "codepoint": 57450,
       "fontFamily": "Devicon",
       "identifier": "cloudflareworkers"
+    },
+    "cloudflareworkers-wordmark": {
+      "codepoint": 58179,
+      "fontFamily": "Devicon",
+      "identifier": "cloudflareworkersWordmark"
     },
     "cloudrun": {
       "codepoint": 57451,
@@ -680,10 +821,20 @@
       "fontFamily": "Devicon",
       "identifier": "cobol"
     },
+    "codeac": {
+      "codepoint": 58180,
+      "fontFamily": "Devicon",
+      "identifier": "codeac"
+    },
     "codeberg": {
       "codepoint": 57455,
       "fontFamily": "Devicon",
       "identifier": "codeberg"
+    },
+    "codeberg-wordmark": {
+      "codepoint": 58181,
+      "fontFamily": "Devicon",
+      "identifier": "codebergWordmark"
     },
     "codepen": {
       "codepoint": 57456,
@@ -694,6 +845,16 @@
       "codepoint": 57457,
       "fontFamily": "Devicon",
       "identifier": "codepenWordmark"
+    },
+    "coffeescript": {
+      "codepoint": 58182,
+      "fontFamily": "Devicon",
+      "identifier": "coffeescript"
+    },
+    "coffeescript-wordmark": {
+      "codepoint": 58183,
+      "fontFamily": "Devicon",
+      "identifier": "coffeescriptWordmark"
     },
     "composer": {
       "codepoint": 57458,
@@ -709,6 +870,11 @@
       "codepoint": 57460,
       "fontFamily": "Devicon",
       "identifier": "confluenceWordmark"
+    },
+    "consul": {
+      "codepoint": 58184,
+      "fontFamily": "Devicon",
+      "identifier": "consul"
     },
     "consul-wordmark": {
       "codepoint": 57461,
@@ -755,10 +921,20 @@
       "fontFamily": "Devicon",
       "identifier": "cosmosdbWordmark"
     },
+    "couchbase": {
+      "codepoint": 58185,
+      "fontFamily": "Devicon",
+      "identifier": "couchbase"
+    },
     "couchbase-wordmark": {
       "codepoint": 57470,
       "fontFamily": "Devicon",
       "identifier": "couchbaseWordmark"
+    },
+    "couchdb": {
+      "codepoint": 58186,
+      "fontFamily": "Devicon",
+      "identifier": "couchdb"
     },
     "couchdb-wordmark": {
       "codepoint": 57471,
@@ -801,6 +977,16 @@
       "fontFamily": "Devicon",
       "identifier": "css",
       "duotone": true
+    },
+    "css3": {
+      "codepoint": 58187,
+      "fontFamily": "Devicon",
+      "identifier": "css3"
+    },
+    "css3-wordmark": {
+      "codepoint": 58188,
+      "fontFamily": "Devicon",
+      "identifier": "css3Wordmark"
     },
     "cursor": {
       "codepoint": 57479,
@@ -877,6 +1063,16 @@
       "fontFamily": "Devicon",
       "identifier": "dbeaver"
     },
+    "debian": {
+      "codepoint": 58189,
+      "fontFamily": "Devicon",
+      "identifier": "debian"
+    },
+    "debian-wordmark": {
+      "codepoint": 58190,
+      "fontFamily": "Devicon",
+      "identifier": "debianWordmark"
+    },
     "delphi": {
       "codepoint": 57494,
       "fontFamily": "Devicon",
@@ -936,6 +1132,11 @@
       "codepoint": 57505,
       "fontFamily": "Devicon",
       "identifier": "discordjs"
+    },
+    "discordjs-wordmark": {
+      "codepoint": 58191,
+      "fontFamily": "Devicon",
+      "identifier": "discordjsWordmark"
     },
     "djangorest": {
       "codepoint": 57506,
@@ -1015,6 +1216,12 @@
       "fontFamily": "Devicon",
       "identifier": "duckdb"
     },
+    "dyalog": {
+      "codepoint": 58192,
+      "fontFamily": "Devicon",
+      "identifier": "dyalog",
+      "duotone": true
+    },
     "dyalog-wordmark": {
       "codepoint": 57520,
       "fontFamily": "Devicon",
@@ -1025,10 +1232,25 @@
       "fontFamily": "Devicon",
       "identifier": "dynamodb"
     },
+    "dynatrace": {
+      "codepoint": 58193,
+      "fontFamily": "Devicon",
+      "identifier": "dynatrace"
+    },
     "dynatrace-wordmark": {
       "codepoint": 57522,
       "fontFamily": "Devicon",
       "identifier": "dynatraceWordmark"
+    },
+    "eclipse": {
+      "codepoint": 58194,
+      "fontFamily": "Devicon",
+      "identifier": "eclipse"
+    },
+    "eclipse-wordmark": {
+      "codepoint": 58195,
+      "fontFamily": "Devicon",
+      "identifier": "eclipseWordmark"
     },
     "ecto": {
       "codepoint": 57523,
@@ -1039,6 +1261,11 @@
       "codepoint": 57524,
       "fontFamily": "Devicon",
       "identifier": "ectoWordmark"
+    },
+    "elasticsearch": {
+      "codepoint": 58196,
+      "fontFamily": "Devicon",
+      "identifier": "elasticsearch"
     },
     "elasticsearch-wordmark": {
       "codepoint": 57525,
@@ -1086,6 +1313,11 @@
       "fontFamily": "Devicon",
       "identifier": "emacs"
     },
+    "emailjs": {
+      "codepoint": 58197,
+      "fontFamily": "Devicon",
+      "identifier": "emailjs"
+    },
     "emailjs-wordmark": {
       "codepoint": 58102,
       "fontFamily": "Devicon",
@@ -1108,6 +1340,11 @@
       "identifier": "ember",
       "duotone": true
     },
+    "ember-wordmark": {
+      "codepoint": 58198,
+      "fontFamily": "Devicon",
+      "identifier": "emberWordmark"
+    },
     "entityframeworkcore": {
       "codepoint": 57536,
       "fontFamily": "Devicon",
@@ -1124,11 +1361,26 @@
       "fontFamily": "Devicon",
       "identifier": "envoyWordmark"
     },
+    "erlang": {
+      "codepoint": 58199,
+      "fontFamily": "Devicon",
+      "identifier": "erlang"
+    },
+    "erlang-wordmark": {
+      "codepoint": 58200,
+      "fontFamily": "Devicon",
+      "identifier": "erlangWordmark"
+    },
     "eslint": {
       "codepoint": 58104,
       "fontFamily": "Devicon",
       "identifier": "eslint",
       "duotone": true
+    },
+    "eslint-wordmark": {
+      "codepoint": 58201,
+      "fontFamily": "Devicon",
+      "identifier": "eslintWordmark"
     },
     "expo": {
       "codepoint": 57539,
@@ -1156,6 +1408,16 @@
       "identifier": "facebook",
       "duotone": true
     },
+    "fastapi": {
+      "codepoint": 58202,
+      "fontFamily": "Devicon",
+      "identifier": "fastapi"
+    },
+    "fastapi-wordmark": {
+      "codepoint": 58203,
+      "fontFamily": "Devicon",
+      "identifier": "fastapiWordmark"
+    },
     "fastify": {
       "codepoint": 57544,
       "fontFamily": "Devicon",
@@ -1180,6 +1442,11 @@
       "codepoint": 57548,
       "fontFamily": "Devicon",
       "identifier": "feathersjs"
+    },
+    "fedora": {
+      "codepoint": 58204,
+      "fontFamily": "Devicon",
+      "identifier": "fedora"
     },
     "fiber": {
       "codepoint": 57549,
@@ -1240,6 +1507,11 @@
       "identifier": "fish",
       "duotone": true
     },
+    "flask": {
+      "codepoint": 58205,
+      "fontFamily": "Devicon",
+      "identifier": "flask"
+    },
     "flask-wordmark": {
       "codepoint": 57560,
       "fontFamily": "Devicon",
@@ -1271,6 +1543,11 @@
       "fontFamily": "Devicon",
       "identifier": "forgejoWordmark",
       "duotone": true
+    },
+    "fortran": {
+      "codepoint": 58206,
+      "fontFamily": "Devicon",
+      "identifier": "fortran"
     },
     "foundation": {
       "codepoint": 57566,
@@ -1308,22 +1585,48 @@
       "identifier": "frankenphp",
       "duotone": true
     },
+    "frankenphp-wordmark": {
+      "codepoint": 58207,
+      "fontFamily": "Devicon",
+      "identifier": "frankenphpWordmark",
+      "duotone": true
+    },
     "fsharp": {
       "codepoint": 57573,
       "fontFamily": "Devicon",
       "identifier": "fsharp",
       "duotone": true
     },
+    "fusion": {
+      "codepoint": 58208,
+      "fontFamily": "Devicon",
+      "identifier": "fusion"
+    },
     "gardener": {
       "codepoint": 57574,
       "fontFamily": "Devicon",
       "identifier": "gardener"
+    },
+    "gatling": {
+      "codepoint": 58209,
+      "fontFamily": "Devicon",
+      "identifier": "gatling"
     },
     "gatling-wordmark": {
       "codepoint": 58105,
       "fontFamily": "Devicon",
       "identifier": "gatlingWordmark",
       "duotone": true
+    },
+    "gatsby": {
+      "codepoint": 58210,
+      "fontFamily": "Devicon",
+      "identifier": "gatsby"
+    },
+    "gatsby-wordmark": {
+      "codepoint": 58211,
+      "fontFamily": "Devicon",
+      "identifier": "gatsbyWordmark"
     },
     "gazebo": {
       "codepoint": 57575,
@@ -1380,6 +1683,11 @@
       "fontFamily": "Devicon",
       "identifier": "git"
     },
+    "git-wordmark": {
+      "codepoint": 58212,
+      "fontFamily": "Devicon",
+      "identifier": "gitWordmark"
+    },
     "gitbook": {
       "codepoint": 57586,
       "fontFamily": "Devicon",
@@ -1389,6 +1697,11 @@
       "codepoint": 57587,
       "fontFamily": "Devicon",
       "identifier": "gitbookWordmark"
+    },
+    "gitea": {
+      "codepoint": 58213,
+      "fontFamily": "Devicon",
+      "identifier": "gitea"
     },
     "gitea-wordmark": {
       "codepoint": 58106,
@@ -1412,6 +1725,16 @@
       "identifier": "githubactions",
       "duotone": true
     },
+    "githubactions-wordmark": {
+      "codepoint": 58214,
+      "fontFamily": "Devicon",
+      "identifier": "githubactionsWordmark"
+    },
+    "githubcodespaces": {
+      "codepoint": 58215,
+      "fontFamily": "Devicon",
+      "identifier": "githubcodespaces"
+    },
     "githubcopilot": {
       "codepoint": 57590,
       "fontFamily": "Devicon",
@@ -1422,10 +1745,25 @@
       "fontFamily": "Devicon",
       "identifier": "githubcopilotWordmark"
     },
+    "gitkraken": {
+      "codepoint": 58216,
+      "fontFamily": "Devicon",
+      "identifier": "gitkraken"
+    },
     "gitkraken-wordmark": {
       "codepoint": 57592,
       "fontFamily": "Devicon",
       "identifier": "gitkrakenWordmark"
+    },
+    "gitlab": {
+      "codepoint": 58217,
+      "fontFamily": "Devicon",
+      "identifier": "gitlab"
+    },
+    "gitlab-wordmark": {
+      "codepoint": 58218,
+      "fontFamily": "Devicon",
+      "identifier": "gitlabWordmark"
     },
     "gitpod": {
       "codepoint": 57593,
@@ -1442,6 +1780,16 @@
       "fontFamily": "Devicon",
       "identifier": "gleam",
       "duotone": true
+    },
+    "glitch": {
+      "codepoint": 58219,
+      "fontFamily": "Devicon",
+      "identifier": "glitch"
+    },
+    "gnuradio": {
+      "codepoint": 58220,
+      "fontFamily": "Devicon",
+      "identifier": "gnuradio"
     },
     "gnuradio-wordmark": {
       "codepoint": 58108,
@@ -1464,6 +1812,16 @@
       "fontFamily": "Devicon",
       "identifier": "godot"
     },
+    "godot-wordmark": {
+      "codepoint": 58221,
+      "fontFamily": "Devicon",
+      "identifier": "godotWordmark"
+    },
+    "goland": {
+      "codepoint": 58222,
+      "fontFamily": "Devicon",
+      "identifier": "goland"
+    },
     "goland-wordmark": {
       "codepoint": 57599,
       "fontFamily": "Devicon",
@@ -1474,16 +1832,46 @@
       "fontFamily": "Devicon",
       "identifier": "google"
     },
+    "google-wordmark": {
+      "codepoint": 58223,
+      "fontFamily": "Devicon",
+      "identifier": "googleWordmark"
+    },
+    "googlecloud": {
+      "codepoint": 58224,
+      "fontFamily": "Devicon",
+      "identifier": "googlecloud"
+    },
+    "googlecloud-wordmark": {
+      "codepoint": 58225,
+      "fontFamily": "Devicon",
+      "identifier": "googlecloudWordmark"
+    },
     "googlecolab": {
       "codepoint": 57601,
       "fontFamily": "Devicon",
       "identifier": "googlecolab",
       "duotone": true
     },
+    "gradle": {
+      "codepoint": 58226,
+      "fontFamily": "Devicon",
+      "identifier": "gradle"
+    },
+    "gradle-wordmark": {
+      "codepoint": 58227,
+      "fontFamily": "Devicon",
+      "identifier": "gradleWordmark"
+    },
     "grafana": {
       "codepoint": 57602,
       "fontFamily": "Devicon",
       "identifier": "grafana"
+    },
+    "grafana-wordmark": {
+      "codepoint": 58228,
+      "fontFamily": "Devicon",
+      "identifier": "grafanaWordmark"
     },
     "grails": {
       "codepoint": 57603,
@@ -1500,6 +1888,16 @@
       "codepoint": 57605,
       "fontFamily": "Devicon",
       "identifier": "grpc"
+    },
+    "grunt": {
+      "codepoint": 58229,
+      "fontFamily": "Devicon",
+      "identifier": "grunt"
+    },
+    "grunt-wordmark": {
+      "codepoint": 58230,
+      "fontFamily": "Devicon",
+      "identifier": "gruntWordmark"
     },
     "hadoop": {
       "codepoint": 57606,
@@ -1520,6 +1918,16 @@
       "codepoint": 57609,
       "fontFamily": "Devicon",
       "identifier": "handlebarsWordmark"
+    },
+    "haproxy": {
+      "codepoint": 58231,
+      "fontFamily": "Devicon",
+      "identifier": "haproxy"
+    },
+    "haproxy-wordmark": {
+      "codepoint": 58232,
+      "fontFamily": "Devicon",
+      "identifier": "haproxyWordmark"
     },
     "harbor": {
       "codepoint": 57610,
@@ -1567,6 +1975,26 @@
       "codepoint": 57618,
       "fontFamily": "Devicon",
       "identifier": "haxe"
+    },
+    "helix": {
+      "codepoint": 58233,
+      "fontFamily": "Devicon",
+      "identifier": "helix"
+    },
+    "helm": {
+      "codepoint": 58234,
+      "fontFamily": "Devicon",
+      "identifier": "helm"
+    },
+    "heroku": {
+      "codepoint": 58235,
+      "fontFamily": "Devicon",
+      "identifier": "heroku"
+    },
+    "heroku-wordmark": {
+      "codepoint": 58236,
+      "fontFamily": "Devicon",
+      "identifier": "herokuWordmark"
     },
     "hibernate": {
       "codepoint": 58109,
@@ -1626,6 +2054,16 @@
       "codepoint": 57626,
       "fontFamily": "Devicon",
       "identifier": "huggingfaceWordmark"
+    },
+    "hugo": {
+      "codepoint": 58237,
+      "fontFamily": "Devicon",
+      "identifier": "hugo"
+    },
+    "hugo-wordmark": {
+      "codepoint": 58238,
+      "fontFamily": "Devicon",
+      "identifier": "hugoWordmark"
     },
     "hyperv": {
       "codepoint": 57627,
@@ -1703,6 +2141,11 @@
       "fontFamily": "Devicon",
       "identifier": "insomniaWordmark"
     },
+    "intellij": {
+      "codepoint": 58239,
+      "fontFamily": "Devicon",
+      "identifier": "intellij"
+    },
     "intellij-wordmark": {
       "codepoint": 57642,
       "fontFamily": "Devicon",
@@ -1749,6 +2192,16 @@
       "identifier": "jamstackWordmark",
       "duotone": true
     },
+    "jasmine": {
+      "codepoint": 58240,
+      "fontFamily": "Devicon",
+      "identifier": "jasmine"
+    },
+    "jasmine-wordmark": {
+      "codepoint": 58241,
+      "fontFamily": "Devicon",
+      "identifier": "jasmineWordmark"
+    },
     "java": {
       "codepoint": 57650,
       "fontFamily": "Devicon",
@@ -1772,15 +2225,36 @@
       "fontFamily": "Devicon",
       "identifier": "jeet"
     },
+    "jeet-wordmark": {
+      "codepoint": 58242,
+      "fontFamily": "Devicon",
+      "identifier": "jeetWordmark"
+    },
     "jekyll": {
       "codepoint": 57654,
       "fontFamily": "Devicon",
       "identifier": "jekyll"
     },
+    "jenkins": {
+      "codepoint": 58243,
+      "fontFamily": "Devicon",
+      "identifier": "jenkins"
+    },
     "jetbrains": {
       "codepoint": 57655,
       "fontFamily": "Devicon",
       "identifier": "jetbrains"
+    },
+    "jetpackcompose": {
+      "codepoint": 58244,
+      "fontFamily": "Devicon",
+      "identifier": "jetpackcompose",
+      "duotone": true
+    },
+    "jetpackcompose-wordmark": {
+      "codepoint": 58245,
+      "fontFamily": "Devicon",
+      "identifier": "jetpackcomposeWordmark"
     },
     "jhipster": {
       "codepoint": 58113,
@@ -1788,10 +2262,35 @@
       "identifier": "jhipster",
       "duotone": true
     },
+    "jhipster-wordmark": {
+      "codepoint": 58246,
+      "fontFamily": "Devicon",
+      "identifier": "jhipsterWordmark"
+    },
+    "jira": {
+      "codepoint": 58247,
+      "fontFamily": "Devicon",
+      "identifier": "jira"
+    },
+    "jira-wordmark": {
+      "codepoint": 58248,
+      "fontFamily": "Devicon",
+      "identifier": "jiraWordmark"
+    },
     "jiraalign": {
       "codepoint": 57656,
       "fontFamily": "Devicon",
       "identifier": "jiraalign"
+    },
+    "jiraalign-wordmark": {
+      "codepoint": 58249,
+      "fontFamily": "Devicon",
+      "identifier": "jiraalignWordmark"
+    },
+    "jquery": {
+      "codepoint": 58250,
+      "fontFamily": "Devicon",
+      "identifier": "jquery"
     },
     "jquery-wordmark": {
       "codepoint": 58114,
@@ -1804,6 +2303,16 @@
       "fontFamily": "Devicon",
       "identifier": "json"
     },
+    "jule": {
+      "codepoint": 58251,
+      "fontFamily": "Devicon",
+      "identifier": "jule"
+    },
+    "jule-wordmark": {
+      "codepoint": 58252,
+      "fontFamily": "Devicon",
+      "identifier": "juleWordmark"
+    },
     "julia": {
       "codepoint": 57658,
       "fontFamily": "Devicon",
@@ -1813,6 +2322,11 @@
       "codepoint": 57659,
       "fontFamily": "Devicon",
       "identifier": "juliaWordmark"
+    },
+    "junie": {
+      "codepoint": 58253,
+      "fontFamily": "Devicon",
+      "identifier": "junie"
     },
     "junie-wordmark": {
       "codepoint": 58115,
@@ -1831,10 +2345,30 @@
       "fontFamily": "Devicon",
       "identifier": "junitWordmark"
     },
+    "jupyter": {
+      "codepoint": 58254,
+      "fontFamily": "Devicon",
+      "identifier": "jupyter"
+    },
+    "jupyter-wordmark": {
+      "codepoint": 58255,
+      "fontFamily": "Devicon",
+      "identifier": "jupyterWordmark"
+    },
+    "jwt": {
+      "codepoint": 58256,
+      "fontFamily": "Devicon",
+      "identifier": "jwt"
+    },
     "jwt-wordmark": {
       "codepoint": 57662,
       "fontFamily": "Devicon",
       "identifier": "jwtWordmark"
+    },
+    "k3os": {
+      "codepoint": 58257,
+      "fontFamily": "Devicon",
+      "identifier": "k3os"
     },
     "k3os-wordmark": {
       "codepoint": 58116,
@@ -1880,6 +2414,11 @@
       "identifier": "kaldiWordmark",
       "duotone": true
     },
+    "kalilinux": {
+      "codepoint": 58258,
+      "fontFamily": "Devicon",
+      "identifier": "kalilinux"
+    },
     "kalilinux-wordmark": {
       "codepoint": 57667,
       "fontFamily": "Devicon",
@@ -1917,10 +2456,25 @@
       "fontFamily": "Devicon",
       "identifier": "kerasWordmark"
     },
+    "kibana": {
+      "codepoint": 58259,
+      "fontFamily": "Devicon",
+      "identifier": "kibana"
+    },
     "kibana-wordmark": {
       "codepoint": 57674,
       "fontFamily": "Devicon",
       "identifier": "kibanaWordmark"
+    },
+    "knexjs": {
+      "codepoint": 58260,
+      "fontFamily": "Devicon",
+      "identifier": "knexjs"
+    },
+    "knexjs-wordmark": {
+      "codepoint": 58261,
+      "fontFamily": "Devicon",
+      "identifier": "knexjsWordmark"
     },
     "kotlin": {
       "codepoint": 57675,
@@ -1952,6 +2506,16 @@
       "fontFamily": "Devicon",
       "identifier": "ktorWordmark"
     },
+    "kubeflow": {
+      "codepoint": 58262,
+      "fontFamily": "Devicon",
+      "identifier": "kubeflow"
+    },
+    "kubeflow-wordmark": {
+      "codepoint": 58263,
+      "fontFamily": "Devicon",
+      "identifier": "kubeflowWordmark"
+    },
     "kubernetes": {
       "codepoint": 57681,
       "fontFamily": "Devicon",
@@ -1973,6 +2537,16 @@
       "fontFamily": "Devicon",
       "identifier": "labviewWordmark"
     },
+    "laminas": {
+      "codepoint": 58264,
+      "fontFamily": "Devicon",
+      "identifier": "laminas"
+    },
+    "laminas-wordmark": {
+      "codepoint": 58265,
+      "fontFamily": "Devicon",
+      "identifier": "laminasWordmark"
+    },
     "laravel": {
       "codepoint": 57685,
       "fontFamily": "Devicon",
@@ -1982,6 +2556,11 @@
       "codepoint": 57686,
       "fontFamily": "Devicon",
       "identifier": "laravelWordmark"
+    },
+    "laraveljetstream": {
+      "codepoint": 58266,
+      "fontFamily": "Devicon",
+      "identifier": "laraveljetstream"
     },
     "laraveljetstream-wordmark": {
       "codepoint": 57687,
@@ -2105,6 +2684,16 @@
       "identifier": "luau",
       "duotone": true
     },
+    "lumen": {
+      "codepoint": 58267,
+      "fontFamily": "Devicon",
+      "identifier": "lumen"
+    },
+    "magento": {
+      "codepoint": 58268,
+      "fontFamily": "Devicon",
+      "identifier": "magento"
+    },
     "magento-wordmark": {
       "codepoint": 58120,
       "fontFamily": "Devicon",
@@ -2115,6 +2704,16 @@
       "codepoint": 57711,
       "fontFamily": "Devicon",
       "identifier": "mapbox"
+    },
+    "mariadb": {
+      "codepoint": 58269,
+      "fontFamily": "Devicon",
+      "identifier": "mariadb"
+    },
+    "mariadb-wordmark": {
+      "codepoint": 58270,
+      "fontFamily": "Devicon",
+      "identifier": "mariadbWordmark"
     },
     "markdown": {
       "codepoint": 57712,
@@ -2142,6 +2741,21 @@
       "codepoint": 57716,
       "fontFamily": "Devicon",
       "identifier": "matplotlib"
+    },
+    "matplotlib-wordmark": {
+      "codepoint": 58271,
+      "fontFamily": "Devicon",
+      "identifier": "matplotlibWordmark"
+    },
+    "mattermost": {
+      "codepoint": 58272,
+      "fontFamily": "Devicon",
+      "identifier": "mattermost"
+    },
+    "mattermost-wordmark": {
+      "codepoint": 58273,
+      "fontFamily": "Devicon",
+      "identifier": "mattermostWordmark"
     },
     "maven": {
       "codepoint": 57717,
@@ -2183,6 +2797,11 @@
       "fontFamily": "Devicon",
       "identifier": "mercurialWordmark"
     },
+    "meteor": {
+      "codepoint": 58274,
+      "fontFamily": "Devicon",
+      "identifier": "meteor"
+    },
     "meteor-wordmark": {
       "codepoint": 57725,
       "fontFamily": "Devicon",
@@ -2202,6 +2821,16 @@
       "codepoint": 57728,
       "fontFamily": "Devicon",
       "identifier": "minitab"
+    },
+    "mithril": {
+      "codepoint": 58275,
+      "fontFamily": "Devicon",
+      "identifier": "mithril"
+    },
+    "mobx": {
+      "codepoint": 58276,
+      "fontFamily": "Devicon",
+      "identifier": "mobx"
     },
     "mocha": {
       "codepoint": 58121,
@@ -2234,6 +2863,26 @@
       "fontFamily": "Devicon",
       "identifier": "mongock"
     },
+    "mongodb": {
+      "codepoint": 58277,
+      "fontFamily": "Devicon",
+      "identifier": "mongodb"
+    },
+    "mongodb-wordmark": {
+      "codepoint": 58278,
+      "fontFamily": "Devicon",
+      "identifier": "mongodbWordmark"
+    },
+    "mongoose": {
+      "codepoint": 58279,
+      "fontFamily": "Devicon",
+      "identifier": "mongoose"
+    },
+    "mongoose-wordmark": {
+      "codepoint": 58280,
+      "fontFamily": "Devicon",
+      "identifier": "mongooseWordmark"
+    },
     "monogame": {
       "codepoint": 57734,
       "fontFamily": "Devicon",
@@ -2259,6 +2908,11 @@
       "codepoint": 57737,
       "fontFamily": "Devicon",
       "identifier": "motion"
+    },
+    "msbuild": {
+      "codepoint": 58281,
+      "fontFamily": "Devicon",
+      "identifier": "msbuild"
     },
     "msdos": {
       "codepoint": 57738,
@@ -2341,6 +2995,16 @@
       "fontFamily": "Devicon",
       "identifier": "nestjsWordmark"
     },
+    "netbeans": {
+      "codepoint": 58282,
+      "fontFamily": "Devicon",
+      "identifier": "netbeans"
+    },
+    "netbeans-wordmark": {
+      "codepoint": 58283,
+      "fontFamily": "Devicon",
+      "identifier": "netbeansWordmark"
+    },
     "netbox": {
       "codepoint": 58123,
       "fontFamily": "Devicon",
@@ -2395,6 +3059,11 @@
       "codepoint": 57759,
       "fontFamily": "Devicon",
       "identifier": "nginx"
+    },
+    "ngrok": {
+      "codepoint": 58284,
+      "fontFamily": "Devicon",
+      "identifier": "ngrok"
     },
     "ngrx": {
       "codepoint": 57760,
@@ -2491,22 +3160,47 @@
       "fontFamily": "Devicon",
       "identifier": "notion"
     },
+    "novelwriter": {
+      "codepoint": 58285,
+      "fontFamily": "Devicon",
+      "identifier": "novelwriter"
+    },
     "npm": {
       "codepoint": 58128,
       "fontFamily": "Devicon",
       "identifier": "npm",
       "duotone": true
     },
+    "npm-wordmark": {
+      "codepoint": 58286,
+      "fontFamily": "Devicon",
+      "identifier": "npmWordmark"
+    },
     "npss": {
       "codepoint": 57776,
       "fontFamily": "Devicon",
       "identifier": "npss"
+    },
+    "nuget": {
+      "codepoint": 58287,
+      "fontFamily": "Devicon",
+      "identifier": "nuget"
+    },
+    "nuget-wordmark": {
+      "codepoint": 58288,
+      "fontFamily": "Devicon",
+      "identifier": "nugetWordmark"
     },
     "numpy": {
       "codepoint": 57777,
       "fontFamily": "Devicon",
       "identifier": "numpy",
       "duotone": true
+    },
+    "numpy-wordmark": {
+      "codepoint": 58289,
+      "fontFamily": "Devicon",
+      "identifier": "numpyWordmark"
     },
     "nuxt": {
       "codepoint": 57778,
@@ -2532,6 +3226,11 @@
       "codepoint": 57782,
       "fontFamily": "Devicon",
       "identifier": "oauth"
+    },
+    "ocaml": {
+      "codepoint": 58290,
+      "fontFamily": "Devicon",
+      "identifier": "ocaml"
     },
     "ocaml-wordmark": {
       "codepoint": 58129,
@@ -2597,6 +3296,11 @@
       "fontFamily": "Devicon",
       "identifier": "opengl"
     },
+    "openstack": {
+      "codepoint": 58291,
+      "fontFamily": "Devicon",
+      "identifier": "openstack"
+    },
     "openstack-wordmark": {
       "codepoint": 57794,
       "fontFamily": "Devicon",
@@ -2651,6 +3355,16 @@
       "fontFamily": "Devicon",
       "identifier": "oracle"
     },
+    "ory": {
+      "codepoint": 58292,
+      "fontFamily": "Devicon",
+      "identifier": "ory"
+    },
+    "ory-wordmark": {
+      "codepoint": 58293,
+      "fontFamily": "Devicon",
+      "identifier": "oryWordmark"
+    },
     "p5js": {
       "codepoint": 57802,
       "fontFamily": "Devicon",
@@ -2666,6 +3380,16 @@
       "codepoint": 57804,
       "fontFamily": "Devicon",
       "identifier": "packerWordmark"
+    },
+    "pandas": {
+      "codepoint": 58294,
+      "fontFamily": "Devicon",
+      "identifier": "pandas"
+    },
+    "pandas-wordmark": {
+      "codepoint": 58295,
+      "fontFamily": "Devicon",
+      "identifier": "pandasWordmark"
     },
     "passport": {
       "codepoint": 57805,
@@ -2703,6 +3427,11 @@
       "fontFamily": "Devicon",
       "identifier": "pfsenseWordmark"
     },
+    "phalcon": {
+      "codepoint": 58296,
+      "fontFamily": "Devicon",
+      "identifier": "phalcon"
+    },
     "phoenix": {
       "codepoint": 57812,
       "fontFamily": "Devicon",
@@ -2713,6 +3442,11 @@
       "fontFamily": "Devicon",
       "identifier": "phoenixWordmark",
       "duotone": true
+    },
+    "photonengine": {
+      "codepoint": 58297,
+      "fontFamily": "Devicon",
+      "identifier": "photonengine"
     },
     "photoshop": {
       "codepoint": 58133,
@@ -2735,6 +3469,23 @@
       "fontFamily": "Devicon",
       "identifier": "phpstormWordmark"
     },
+    "pixijs": {
+      "codepoint": 58298,
+      "fontFamily": "Devicon",
+      "identifier": "pixijs",
+      "duotone": true
+    },
+    "pixijs-wordmark": {
+      "codepoint": 58299,
+      "fontFamily": "Devicon",
+      "identifier": "pixijsWordmark",
+      "duotone": true
+    },
+    "playwright": {
+      "codepoint": 58300,
+      "fontFamily": "Devicon",
+      "identifier": "playwright"
+    },
     "plotly": {
       "codepoint": 57816,
       "fontFamily": "Devicon",
@@ -2749,6 +3500,11 @@
       "codepoint": 57818,
       "fontFamily": "Devicon",
       "identifier": "pm2"
+    },
+    "pm2-wordmark": {
+      "codepoint": 58301,
+      "fontFamily": "Devicon",
+      "identifier": "pm2Wordmark"
     },
     "pnpm": {
       "codepoint": 57819,
@@ -2767,6 +3523,11 @@
       "fontFamily": "Devicon",
       "identifier": "podman"
     },
+    "podman-wordmark": {
+      "codepoint": 58302,
+      "fontFamily": "Devicon",
+      "identifier": "podmanWordmark"
+    },
     "poetry": {
       "codepoint": 57822,
       "fontFamily": "Devicon",
@@ -2777,6 +3538,11 @@
       "fontFamily": "Devicon",
       "identifier": "polygon",
       "duotone": true
+    },
+    "polygon-wordmark": {
+      "codepoint": 58303,
+      "fontFamily": "Devicon",
+      "identifier": "polygonWordmark"
     },
     "portainer": {
       "codepoint": 57824,
@@ -2842,10 +3608,25 @@
       "fontFamily": "Devicon",
       "identifier": "prestashop"
     },
+    "prestashop-wordmark": {
+      "codepoint": 58304,
+      "fontFamily": "Devicon",
+      "identifier": "prestashopWordmark"
+    },
     "primeng": {
       "codepoint": 57835,
       "fontFamily": "Devicon",
       "identifier": "primeng"
+    },
+    "prisma": {
+      "codepoint": 58305,
+      "fontFamily": "Devicon",
+      "identifier": "prisma"
+    },
+    "prisma-wordmark": {
+      "codepoint": 58306,
+      "fontFamily": "Devicon",
+      "identifier": "prismaWordmark"
     },
     "processing": {
       "codepoint": 57836,
@@ -2856,6 +3637,11 @@
       "codepoint": 57837,
       "fontFamily": "Devicon",
       "identifier": "processingWordmark"
+    },
+    "processwire": {
+      "codepoint": 58307,
+      "fontFamily": "Devicon",
+      "identifier": "processwire"
     },
     "processwire-wordmark": {
       "codepoint": 58135,
@@ -2873,6 +3659,11 @@
       "fontFamily": "Devicon",
       "identifier": "prologWordmark"
     },
+    "prometheus": {
+      "codepoint": 58308,
+      "fontFamily": "Devicon",
+      "identifier": "prometheus"
+    },
     "prometheus-wordmark": {
       "codepoint": 57840,
       "fontFamily": "Devicon",
@@ -2889,20 +3680,65 @@
       "fontFamily": "Devicon",
       "identifier": "protractorWordmark"
     },
+    "proxmox": {
+      "codepoint": 58309,
+      "fontFamily": "Devicon",
+      "identifier": "proxmox"
+    },
+    "proxmox-wordmark": {
+      "codepoint": 58310,
+      "fontFamily": "Devicon",
+      "identifier": "proxmoxWordmark"
+    },
     "pug": {
       "codepoint": 57843,
       "fontFamily": "Devicon",
       "identifier": "pug"
+    },
+    "pulsar": {
+      "codepoint": 58311,
+      "fontFamily": "Devicon",
+      "identifier": "pulsar"
+    },
+    "pulsar-wordmark": {
+      "codepoint": 58312,
+      "fontFamily": "Devicon",
+      "identifier": "pulsarWordmark"
+    },
+    "pulumi": {
+      "codepoint": 58313,
+      "fontFamily": "Devicon",
+      "identifier": "pulumi"
+    },
+    "pulumi-wordmark": {
+      "codepoint": 58314,
+      "fontFamily": "Devicon",
+      "identifier": "pulumiWordmark"
     },
     "puppeteer": {
       "codepoint": 57844,
       "fontFamily": "Devicon",
       "identifier": "puppeteer"
     },
+    "purescript": {
+      "codepoint": 58315,
+      "fontFamily": "Devicon",
+      "identifier": "purescript"
+    },
+    "purescript-wordmark": {
+      "codepoint": 58316,
+      "fontFamily": "Devicon",
+      "identifier": "purescriptWordmark"
+    },
     "putty": {
       "codepoint": 57845,
       "fontFamily": "Devicon",
       "identifier": "putty"
+    },
+    "pycharm": {
+      "codepoint": 58317,
+      "fontFamily": "Devicon",
+      "identifier": "pycharm"
     },
     "pycharm-wordmark": {
       "codepoint": 57846,
@@ -2924,6 +3760,16 @@
       "fontFamily": "Devicon",
       "identifier": "pyscriptWordmark",
       "duotone": true
+    },
+    "pytest": {
+      "codepoint": 58318,
+      "fontFamily": "Devicon",
+      "identifier": "pytest"
+    },
+    "pytest-wordmark": {
+      "codepoint": 58319,
+      "fontFamily": "Devicon",
+      "identifier": "pytestWordmark"
     },
     "python": {
       "codepoint": 57849,
@@ -2965,6 +3811,16 @@
       "codepoint": 57856,
       "fontFamily": "Devicon",
       "identifier": "qtestWordmark"
+    },
+    "quarkus": {
+      "codepoint": 58320,
+      "fontFamily": "Devicon",
+      "identifier": "quarkus"
+    },
+    "quarkus-wordmark": {
+      "codepoint": 58321,
+      "fontFamily": "Devicon",
+      "identifier": "quarkusWordmark"
     },
     "quasar": {
       "codepoint": 57857,
@@ -3027,10 +3883,25 @@
       "fontFamily": "Devicon",
       "identifier": "railwayWordmark"
     },
+    "rancher": {
+      "codepoint": 58322,
+      "fontFamily": "Devicon",
+      "identifier": "rancher"
+    },
     "rancher-wordmark": {
       "codepoint": 57869,
       "fontFamily": "Devicon",
       "identifier": "rancherWordmark"
+    },
+    "raspberrypi": {
+      "codepoint": 58323,
+      "fontFamily": "Devicon",
+      "identifier": "raspberrypi"
+    },
+    "raspberrypi-wordmark": {
+      "codepoint": 58324,
+      "fontFamily": "Devicon",
+      "identifier": "raspberrypiWordmark"
     },
     "ravendb": {
       "codepoint": 57870,
@@ -3090,6 +3961,16 @@
       "identifier": "reactrouterWordmark",
       "duotone": true
     },
+    "readthedocs": {
+      "codepoint": 58325,
+      "fontFamily": "Devicon",
+      "identifier": "readthedocs"
+    },
+    "readthedocs-wordmark": {
+      "codepoint": 58326,
+      "fontFamily": "Devicon",
+      "identifier": "readthedocsWordmark"
+    },
     "realm": {
       "codepoint": 57878,
       "fontFamily": "Devicon",
@@ -3099,6 +3980,11 @@
       "codepoint": 57879,
       "fontFamily": "Devicon",
       "identifier": "realmWordmark"
+    },
+    "rect": {
+      "codepoint": 58327,
+      "fontFamily": "Devicon",
+      "identifier": "rect"
     },
     "redhat": {
       "codepoint": 57880,
@@ -3110,16 +3996,51 @@
       "fontFamily": "Devicon",
       "identifier": "redhatWordmark"
     },
+    "redis": {
+      "codepoint": 58328,
+      "fontFamily": "Devicon",
+      "identifier": "redis"
+    },
+    "redis-wordmark": {
+      "codepoint": 58329,
+      "fontFamily": "Devicon",
+      "identifier": "redisWordmark"
+    },
+    "redux": {
+      "codepoint": 58330,
+      "fontFamily": "Devicon",
+      "identifier": "redux"
+    },
     "reflex": {
       "codepoint": 58140,
       "fontFamily": "Devicon",
       "identifier": "reflex",
       "duotone": true
     },
+    "reflex-wordmark": {
+      "codepoint": 58331,
+      "fontFamily": "Devicon",
+      "identifier": "reflexWordmark"
+    },
+    "remix": {
+      "codepoint": 58332,
+      "fontFamily": "Devicon",
+      "identifier": "remix"
+    },
+    "remix-wordmark": {
+      "codepoint": 58333,
+      "fontFamily": "Devicon",
+      "identifier": "remixWordmark"
+    },
     "renpy": {
       "codepoint": 57882,
       "fontFamily": "Devicon",
       "identifier": "renpy"
+    },
+    "replit": {
+      "codepoint": 58334,
+      "fontFamily": "Devicon",
+      "identifier": "replit"
     },
     "replit-wordmark": {
       "codepoint": 57883,
@@ -3153,6 +4074,16 @@
       "identifier": "rocksdb",
       "duotone": true
     },
+    "rockylinux": {
+      "codepoint": 58335,
+      "fontFamily": "Devicon",
+      "identifier": "rockylinux"
+    },
+    "rockylinux-wordmark": {
+      "codepoint": 58336,
+      "fontFamily": "Devicon",
+      "identifier": "rockylinuxWordmark"
+    },
     "rollup": {
       "codepoint": 57889,
       "fontFamily": "Devicon",
@@ -3162,6 +4093,16 @@
       "codepoint": 57890,
       "fontFamily": "Devicon",
       "identifier": "rollupWordmark"
+    },
+    "ros": {
+      "codepoint": 58337,
+      "fontFamily": "Devicon",
+      "identifier": "ros"
+    },
+    "ros-wordmark": {
+      "codepoint": 58338,
+      "fontFamily": "Devicon",
+      "identifier": "rosWordmark"
     },
     "rspec": {
       "codepoint": 57891,
@@ -3204,6 +4145,11 @@
       "fontFamily": "Devicon",
       "identifier": "rust"
     },
+    "rxjs": {
+      "codepoint": 58339,
+      "fontFamily": "Devicon",
+      "identifier": "rxjs"
+    },
     "safari": {
       "codepoint": 57899,
       "fontFamily": "Devicon",
@@ -3225,6 +4171,11 @@
       "fontFamily": "Devicon",
       "identifier": "sanity"
     },
+    "sass": {
+      "codepoint": 58340,
+      "fontFamily": "Devicon",
+      "identifier": "sass"
+    },
     "scala": {
       "codepoint": 57903,
       "fontFamily": "Devicon",
@@ -3237,6 +4188,16 @@
       "identifier": "scalaWordmark",
       "duotone": true
     },
+    "scaleway": {
+      "codepoint": 58341,
+      "fontFamily": "Devicon",
+      "identifier": "scaleway"
+    },
+    "scaleway-wordmark": {
+      "codepoint": 58342,
+      "fontFamily": "Devicon",
+      "identifier": "scalewayWordmark"
+    },
     "scalingo": {
       "codepoint": 57905,
       "fontFamily": "Devicon",
@@ -3247,6 +4208,11 @@
       "codepoint": 57906,
       "fontFamily": "Devicon",
       "identifier": "scalingoWordmark"
+    },
+    "scikitlearn": {
+      "codepoint": 58343,
+      "fontFamily": "Devicon",
+      "identifier": "scikitlearn"
     },
     "sdl": {
       "codepoint": 57907,
@@ -3385,6 +4351,16 @@
       "identifier": "sourceengine",
       "duotone": true
     },
+    "sourceengine-wordmark": {
+      "codepoint": 58344,
+      "fontFamily": "Devicon",
+      "identifier": "sourceengineWordmark"
+    },
+    "sourcetree": {
+      "codepoint": 58345,
+      "fontFamily": "Devicon",
+      "identifier": "sourcetree"
+    },
     "sourcetree-wordmark": {
       "codepoint": 57933,
       "fontFamily": "Devicon",
@@ -3395,10 +4371,25 @@
       "fontFamily": "Devicon",
       "identifier": "spack"
     },
+    "spicedb": {
+      "codepoint": 58346,
+      "fontFamily": "Devicon",
+      "identifier": "spicedb"
+    },
+    "splunk-wordmark": {
+      "codepoint": 58347,
+      "fontFamily": "Devicon",
+      "identifier": "splunkWordmark"
+    },
     "spring": {
       "codepoint": 57935,
       "fontFamily": "Devicon",
       "identifier": "spring"
+    },
+    "spring-wordmark": {
+      "codepoint": 58348,
+      "fontFamily": "Devicon",
+      "identifier": "springWordmark"
     },
     "spss": {
       "codepoint": 58142,
@@ -3440,6 +4431,11 @@
       "fontFamily": "Devicon",
       "identifier": "sqlite"
     },
+    "sqlite-wordmark": {
+      "codepoint": 58349,
+      "fontFamily": "Devicon",
+      "identifier": "sqliteWordmark"
+    },
     "ssh": {
       "codepoint": 57941,
       "fontFamily": "Devicon",
@@ -3449,6 +4445,16 @@
       "codepoint": 57942,
       "fontFamily": "Devicon",
       "identifier": "sshWordmark"
+    },
+    "stackblitz": {
+      "codepoint": 58350,
+      "fontFamily": "Devicon",
+      "identifier": "stackblitz"
+    },
+    "stackblitz-wordmark": {
+      "codepoint": 58351,
+      "fontFamily": "Devicon",
+      "identifier": "stackblitzWordmark"
     },
     "stackoverflow": {
       "codepoint": 57943,
@@ -3486,6 +4492,21 @@
       "fontFamily": "Devicon",
       "identifier": "stenciljsWordmark"
     },
+    "stimulus": {
+      "codepoint": 58352,
+      "fontFamily": "Devicon",
+      "identifier": "stimulus"
+    },
+    "stimulus-wordmark": {
+      "codepoint": 58353,
+      "fontFamily": "Devicon",
+      "identifier": "stimulusWordmark"
+    },
+    "storybook": {
+      "codepoint": 58354,
+      "fontFamily": "Devicon",
+      "identifier": "storybook"
+    },
     "storybook-wordmark": {
       "codepoint": 57950,
       "fontFamily": "Devicon",
@@ -3517,6 +4538,11 @@
       "fontFamily": "Devicon",
       "identifier": "stylus"
     },
+    "subversion": {
+      "codepoint": 58355,
+      "fontFamily": "Devicon",
+      "identifier": "subversion"
+    },
     "subversion-wordmark": {
       "codepoint": 57956,
       "fontFamily": "Devicon",
@@ -3546,6 +4572,11 @@
       "codepoint": 57961,
       "fontFamily": "Devicon",
       "identifier": "surrealdb"
+    },
+    "surrealdb-wordmark": {
+      "codepoint": 58356,
+      "fontFamily": "Devicon",
+      "identifier": "surrealdbWordmark"
     },
     "svelte": {
       "codepoint": 57962,
@@ -3586,6 +4617,11 @@
       "fontFamily": "Devicon",
       "identifier": "swift",
       "duotone": true
+    },
+    "swift-wordmark": {
+      "codepoint": 58357,
+      "fontFamily": "Devicon",
+      "identifier": "swiftWordmark"
     },
     "swiper": {
       "codepoint": 57968,
@@ -3718,6 +4754,11 @@
       "identifier": "thealgorithmsWordmark",
       "duotone": true
     },
+    "threedsmax": {
+      "codepoint": 58358,
+      "fontFamily": "Devicon",
+      "identifier": "threedsmax"
+    },
     "threejs": {
       "codepoint": 57993,
       "fontFamily": "Devicon",
@@ -3811,10 +4852,27 @@
       "fontFamily": "Devicon",
       "identifier": "traefikproxyWordmark"
     },
+    "travis": {
+      "codepoint": 58359,
+      "fontFamily": "Devicon",
+      "identifier": "travis",
+      "duotone": true
+    },
+    "travis-wordmark": {
+      "codepoint": 58360,
+      "fontFamily": "Devicon",
+      "identifier": "travisWordmark",
+      "duotone": true
+    },
     "trello": {
       "codepoint": 58011,
       "fontFamily": "Devicon",
       "identifier": "trello"
+    },
+    "trello-wordmark": {
+      "codepoint": 58361,
+      "fontFamily": "Devicon",
+      "identifier": "trelloWordmark"
     },
     "trpc": {
       "codepoint": 58012,
@@ -3828,10 +4886,25 @@
       "identifier": "trpcWordmark",
       "duotone": true
     },
+    "turbo": {
+      "codepoint": 58362,
+      "fontFamily": "Devicon",
+      "identifier": "turbo"
+    },
+    "turbo-wordmark": {
+      "codepoint": 58363,
+      "fontFamily": "Devicon",
+      "identifier": "turboWordmark"
+    },
     "twilio": {
       "codepoint": 58014,
       "fontFamily": "Devicon",
       "identifier": "twilio"
+    },
+    "twilio-wordmark": {
+      "codepoint": 58364,
+      "fontFamily": "Devicon",
+      "identifier": "twilioWordmark"
     },
     "twitter": {
       "codepoint": 58015,
@@ -3865,6 +4938,16 @@
       "identifier": "typescript",
       "duotone": true
     },
+    "typo3": {
+      "codepoint": 58365,
+      "fontFamily": "Devicon",
+      "identifier": "typo3"
+    },
+    "typo3-wordmark": {
+      "codepoint": 58366,
+      "fontFamily": "Devicon",
+      "identifier": "typo3Wordmark"
+    },
     "ubuntu": {
       "codepoint": 58145,
       "fontFamily": "Devicon",
@@ -3895,6 +4978,11 @@
       "codepoint": 58025,
       "fontFamily": "Devicon",
       "identifier": "unityWordmark"
+    },
+    "unix": {
+      "codepoint": 58367,
+      "fontFamily": "Devicon",
+      "identifier": "unix"
     },
     "unrealengine": {
       "codepoint": 58026,
@@ -3952,10 +5040,32 @@
       "fontFamily": "Devicon",
       "identifier": "valaWordmark"
     },
+    "vapor": {
+      "codepoint": 58368,
+      "fontFamily": "Devicon",
+      "identifier": "vapor",
+      "duotone": true
+    },
+    "vapor-wordmark": {
+      "codepoint": 58369,
+      "fontFamily": "Devicon",
+      "identifier": "vaporWordmark",
+      "duotone": true
+    },
+    "vault": {
+      "codepoint": 58370,
+      "fontFamily": "Devicon",
+      "identifier": "vault"
+    },
     "vault-wordmark": {
       "codepoint": 58036,
       "fontFamily": "Devicon",
       "identifier": "vaultWordmark"
+    },
+    "veevalidate": {
+      "codepoint": 58371,
+      "fontFamily": "Devicon",
+      "identifier": "veevalidate"
     },
     "vercel": {
       "codepoint": 58037,
@@ -3983,6 +5093,17 @@
       "fontFamily": "Devicon",
       "identifier": "vim"
     },
+    "visualbasic": {
+      "codepoint": 58372,
+      "fontFamily": "Devicon",
+      "identifier": "visualbasic",
+      "duotone": true
+    },
+    "visualstudio": {
+      "codepoint": 58373,
+      "fontFamily": "Devicon",
+      "identifier": "visualstudio"
+    },
     "visualstudio-wordmark": {
       "codepoint": 58041,
       "fontFamily": "Devicon",
@@ -4002,6 +5123,16 @@
       "codepoint": 58044,
       "fontFamily": "Devicon",
       "identifier": "vitejs"
+    },
+    "vitess": {
+      "codepoint": 58374,
+      "fontFamily": "Devicon",
+      "identifier": "vitess"
+    },
+    "vitess-wordmark": {
+      "codepoint": 58375,
+      "fontFamily": "Devicon",
+      "identifier": "vitessWordmark"
     },
     "vitest": {
       "codepoint": 58045,
@@ -4039,10 +5170,20 @@
       "fontFamily": "Devicon",
       "identifier": "vuejs"
     },
+    "vuejs-wordmark": {
+      "codepoint": 58376,
+      "fontFamily": "Devicon",
+      "identifier": "vuejsWordmark"
+    },
     "vuestorefront": {
       "codepoint": 58052,
       "fontFamily": "Devicon",
       "identifier": "vuestorefront"
+    },
+    "vuetify": {
+      "codepoint": 58377,
+      "fontFamily": "Devicon",
+      "identifier": "vuetify"
     },
     "vulkan": {
       "codepoint": 58053,
@@ -4065,11 +5206,41 @@
       "identifier": "waku",
       "duotone": true
     },
+    "wasm": {
+      "codepoint": 58378,
+      "fontFamily": "Devicon",
+      "identifier": "wasm"
+    },
     "wasm-wordmark": {
       "codepoint": 58149,
       "fontFamily": "Devicon",
       "identifier": "wasmWordmark",
       "duotone": true
+    },
+    "web3": {
+      "codepoint": 58379,
+      "fontFamily": "Devicon",
+      "identifier": "web3"
+    },
+    "web3js": {
+      "codepoint": 58380,
+      "fontFamily": "Devicon",
+      "identifier": "web3js"
+    },
+    "webflow": {
+      "codepoint": 58381,
+      "fontFamily": "Devicon",
+      "identifier": "webflow"
+    },
+    "webgpu": {
+      "codepoint": 58382,
+      "fontFamily": "Devicon",
+      "identifier": "webgpu"
+    },
+    "webgpu-wordmark": {
+      "codepoint": 58383,
+      "fontFamily": "Devicon",
+      "identifier": "webgpuWordmark"
     },
     "weblate": {
       "codepoint": 58056,
@@ -4123,6 +5294,16 @@
       "fontFamily": "Devicon",
       "identifier": "windows8Wordmark"
     },
+    "wireguard": {
+      "codepoint": 58384,
+      "fontFamily": "Devicon",
+      "identifier": "wireguard"
+    },
+    "wireguard-wordmark": {
+      "codepoint": 58385,
+      "fontFamily": "Devicon",
+      "identifier": "wireguardWordmark"
+    },
     "wolfram": {
       "codepoint": 58066,
       "fontFamily": "Devicon",
@@ -4148,6 +5329,16 @@
       "codepoint": 58070,
       "fontFamily": "Devicon",
       "identifier": "wordpress"
+    },
+    "xamarin": {
+      "codepoint": 58386,
+      "fontFamily": "Devicon",
+      "identifier": "xamarin"
+    },
+    "xamarin-wordmark": {
+      "codepoint": 58387,
+      "fontFamily": "Devicon",
+      "identifier": "xamarinWordmark"
     },
     "xcode": {
       "codepoint": 58071,
@@ -4250,6 +5441,12 @@
       "codepoint": 58088,
       "fontFamily": "Devicon",
       "identifier": "zshWordmark"
+    },
+    "zustand": {
+      "codepoint": 58388,
+      "fontFamily": "Devicon",
+      "identifier": "zustand",
+      "duotone": true
     }
   }
 }

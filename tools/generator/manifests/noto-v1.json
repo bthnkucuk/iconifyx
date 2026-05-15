@@ -16,18 +16,18 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE"
     },
-    "total": 579
+    "total": 647
   },
   "fonts": [
     {
       "family": "NotoV1",
-      "nextCodepoint": 58100,
-      "iconCount": 579
+      "nextCodepoint": 58168,
+      "iconCount": 647
     },
     {
       "family": "NotoV1Secondary",
-      "nextCodepoint": 58100,
-      "iconCount": 242
+      "nextCodepoint": 58168,
+      "iconCount": 246
     }
   ],
   "icons": {
@@ -42,6 +42,11 @@
       "fontFamily": "NotoV1",
       "identifier": "abButtonBloodType",
       "duotone": true
+    },
+    "admission-tickets": {
+      "codepoint": 58100,
+      "fontFamily": "NotoV1",
+      "identifier": "admissionTickets"
     },
     "aerial-tramway": {
       "codepoint": 57344,
@@ -61,6 +66,11 @@
       "identifier": "alarmClock",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "alembic": {
+      "codepoint": 58101,
+      "fontFamily": "NotoV1",
+      "identifier": "alembic"
     },
     "alien": {
       "codepoint": 57347,
@@ -139,6 +149,11 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "atom-symbol": {
+      "codepoint": 58102,
+      "fontFamily": "NotoV1",
+      "identifier": "atomSymbol"
+    },
     "automobile": {
       "codepoint": 57359,
       "fontFamily": "NotoV1",
@@ -182,6 +197,11 @@
       "identifier": "baggageClaim",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "balance-scale": {
+      "codepoint": 58103,
+      "fontFamily": "NotoV1",
+      "identifier": "balanceScale"
     },
     "balloon": {
       "codepoint": 57363,
@@ -518,10 +538,20 @@
       "fontFamily": "NotoV1",
       "identifier": "clappingHands"
     },
+    "clapping-hands-dark-skin-tone": {
+      "codepoint": 58104,
+      "fontFamily": "NotoV1",
+      "identifier": "clappingHandsDarkSkinTone"
+    },
     "clapping-hands-light-skin-tone": {
       "codepoint": 57942,
       "fontFamily": "NotoV1",
       "identifier": "clappingHandsLightSkinTone"
+    },
+    "clapping-hands-medium-dark-skin-tone": {
+      "codepoint": 58105,
+      "fontFamily": "NotoV1",
+      "identifier": "clappingHandsMediumDarkSkinTone"
     },
     "clapping-hands-medium-light-skin-tone": {
       "codepoint": 57943,
@@ -589,6 +619,11 @@
       "fontFamily": "NotoV1",
       "identifier": "clutchBag",
       "duotone": true
+    },
+    "coffin": {
+      "codepoint": 58106,
+      "fontFamily": "NotoV1",
+      "identifier": "coffin"
     },
     "collision": {
       "codepoint": 57408,
@@ -1244,6 +1279,16 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "fox": {
+      "codepoint": 58107,
+      "fontFamily": "NotoV1",
+      "identifier": "fox"
+    },
+    "fox-face": {
+      "codepoint": 58108,
+      "fontFamily": "NotoV1",
+      "identifier": "foxFace"
+    },
     "free-button": {
       "codepoint": 57496,
       "fontFamily": "NotoV1",
@@ -1375,6 +1420,36 @@
       "identifier": "grinningFaceWithSweat",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "guard": {
+      "codepoint": 58109,
+      "fontFamily": "NotoV1",
+      "identifier": "guard"
+    },
+    "guard-dark-skin-tone": {
+      "codepoint": 58110,
+      "fontFamily": "NotoV1",
+      "identifier": "guardDarkSkinTone"
+    },
+    "guard-light-skin-tone": {
+      "codepoint": 58111,
+      "fontFamily": "NotoV1",
+      "identifier": "guardLightSkinTone"
+    },
+    "guard-medium-dark-skin-tone": {
+      "codepoint": 58112,
+      "fontFamily": "NotoV1",
+      "identifier": "guardMediumDarkSkinTone"
+    },
+    "guard-medium-light-skin-tone": {
+      "codepoint": 58113,
+      "fontFamily": "NotoV1",
+      "identifier": "guardMediumLightSkinTone"
+    },
+    "guard-medium-skin-tone": {
+      "codepoint": 58114,
+      "fontFamily": "NotoV1",
+      "identifier": "guardMediumSkinTone"
     },
     "hand-with-fingers-splayed": {
       "codepoint": 57513,
@@ -1983,6 +2058,16 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "lion": {
+      "codepoint": 58115,
+      "fontFamily": "NotoV1",
+      "identifier": "lion"
+    },
+    "lion-face": {
+      "codepoint": 58116,
+      "fontFamily": "NotoV1",
+      "identifier": "lionFace"
+    },
     "lizard": {
       "codepoint": 57863,
       "fontFamily": "NotoV1",
@@ -2033,6 +2118,36 @@
       "codepoint": 57599,
       "fontFamily": "NotoV1",
       "identifier": "maleSign"
+    },
+    "man-biking": {
+      "codepoint": 58117,
+      "fontFamily": "NotoV1",
+      "identifier": "manBiking"
+    },
+    "man-biking-dark-skin-tone": {
+      "codepoint": 58118,
+      "fontFamily": "NotoV1",
+      "identifier": "manBikingDarkSkinTone"
+    },
+    "man-biking-light-skin-tone": {
+      "codepoint": 58119,
+      "fontFamily": "NotoV1",
+      "identifier": "manBikingLightSkinTone"
+    },
+    "man-biking-medium-dark-skin-tone": {
+      "codepoint": 58120,
+      "fontFamily": "NotoV1",
+      "identifier": "manBikingMediumDarkSkinTone"
+    },
+    "man-biking-medium-light-skin-tone": {
+      "codepoint": 58121,
+      "fontFamily": "NotoV1",
+      "identifier": "manBikingMediumLightSkinTone"
+    },
+    "man-biking-medium-skin-tone": {
+      "codepoint": 58122,
+      "fontFamily": "NotoV1",
+      "identifier": "manBikingMediumSkinTone"
     },
     "man-bowing": {
       "codepoint": 57963,
@@ -2099,6 +2214,66 @@
       "codepoint": 57974,
       "fontFamily": "NotoV1",
       "identifier": "manFarmerMediumSkinTone"
+    },
+    "man-guard": {
+      "codepoint": 58123,
+      "fontFamily": "NotoV1",
+      "identifier": "manGuard"
+    },
+    "man-guard-dark-skin-tone": {
+      "codepoint": 58124,
+      "fontFamily": "NotoV1",
+      "identifier": "manGuardDarkSkinTone"
+    },
+    "man-guard-light-skin-tone": {
+      "codepoint": 58125,
+      "fontFamily": "NotoV1",
+      "identifier": "manGuardLightSkinTone"
+    },
+    "man-guard-medium-dark-skin-tone": {
+      "codepoint": 58126,
+      "fontFamily": "NotoV1",
+      "identifier": "manGuardMediumDarkSkinTone"
+    },
+    "man-guard-medium-light-skin-tone": {
+      "codepoint": 58127,
+      "fontFamily": "NotoV1",
+      "identifier": "manGuardMediumLightSkinTone"
+    },
+    "man-guard-medium-skin-tone": {
+      "codepoint": 58128,
+      "fontFamily": "NotoV1",
+      "identifier": "manGuardMediumSkinTone"
+    },
+    "man-health-worker": {
+      "codepoint": 58129,
+      "fontFamily": "NotoV1",
+      "identifier": "manHealthWorker"
+    },
+    "man-health-worker-dark-skin-tone": {
+      "codepoint": 58130,
+      "fontFamily": "NotoV1",
+      "identifier": "manHealthWorkerDarkSkinTone"
+    },
+    "man-health-worker-light-skin-tone": {
+      "codepoint": 58131,
+      "fontFamily": "NotoV1",
+      "identifier": "manHealthWorkerLightSkinTone"
+    },
+    "man-health-worker-medium-dark-skin-tone": {
+      "codepoint": 58132,
+      "fontFamily": "NotoV1",
+      "identifier": "manHealthWorkerMediumDarkSkinTone"
+    },
+    "man-health-worker-medium-light-skin-tone": {
+      "codepoint": 58133,
+      "fontFamily": "NotoV1",
+      "identifier": "manHealthWorkerMediumLightSkinTone"
+    },
+    "man-health-worker-medium-skin-tone": {
+      "codepoint": 58134,
+      "fontFamily": "NotoV1",
+      "identifier": "manHealthWorkerMediumSkinTone"
     },
     "man-in-business-suit-levitating": {
       "codepoint": 57975,
@@ -2251,6 +2426,11 @@
       "fontFamily": "NotoV1",
       "identifier": "memo"
     },
+    "menorah": {
+      "codepoint": 58135,
+      "fontFamily": "NotoV1",
+      "identifier": "menorah"
+    },
     "mens-room": {
       "codepoint": 57602,
       "fontFamily": "NotoV1",
@@ -2268,6 +2448,11 @@
       "identifier": "middleFinger",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "military-medal": {
+      "codepoint": 58136,
+      "fontFamily": "NotoV1",
+      "identifier": "militaryMedal"
     },
     "milky-way": {
       "codepoint": 57604,
@@ -2724,6 +2909,11 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "owl": {
+      "codepoint": 58137,
+      "fontFamily": "NotoV1",
+      "identifier": "owl"
+    },
     "p-button": {
       "codepoint": 57649,
       "fontFamily": "NotoV1",
@@ -2808,6 +2998,36 @@
       "fontFamily": "NotoV1",
       "identifier": "pensiveFace",
       "duotone": true
+    },
+    "person-biking": {
+      "codepoint": 58138,
+      "fontFamily": "NotoV1",
+      "identifier": "personBiking"
+    },
+    "person-biking-dark-skin-tone": {
+      "codepoint": 58139,
+      "fontFamily": "NotoV1",
+      "identifier": "personBikingDarkSkinTone"
+    },
+    "person-biking-light-skin-tone": {
+      "codepoint": 58140,
+      "fontFamily": "NotoV1",
+      "identifier": "personBikingLightSkinTone"
+    },
+    "person-biking-medium-dark-skin-tone": {
+      "codepoint": 58141,
+      "fontFamily": "NotoV1",
+      "identifier": "personBikingMediumDarkSkinTone"
+    },
+    "person-biking-medium-light-skin-tone": {
+      "codepoint": 58142,
+      "fontFamily": "NotoV1",
+      "identifier": "personBikingMediumLightSkinTone"
+    },
+    "person-biking-medium-skin-tone": {
+      "codepoint": 58143,
+      "fontFamily": "NotoV1",
+      "identifier": "personBikingMediumSkinTone"
     },
     "person-bowing": {
       "codepoint": 58012,
@@ -3003,15 +3223,30 @@
       "identifier": "poutingCatFace",
       "duotone": true
     },
+    "prayer-beads": {
+      "codepoint": 58144,
+      "fontFamily": "NotoV1",
+      "identifier": "prayerBeads"
+    },
     "pregnant-woman": {
       "codepoint": 58031,
       "fontFamily": "NotoV1",
       "identifier": "pregnantWoman"
     },
+    "pregnant-woman-dark-skin-tone": {
+      "codepoint": 58145,
+      "fontFamily": "NotoV1",
+      "identifier": "pregnantWomanDarkSkinTone"
+    },
     "pregnant-woman-light-skin-tone": {
       "codepoint": 58032,
       "fontFamily": "NotoV1",
       "identifier": "pregnantWomanLightSkinTone"
+    },
+    "pregnant-woman-medium-dark-skin-tone": {
+      "codepoint": 58146,
+      "fontFamily": "NotoV1",
+      "identifier": "pregnantWomanMediumDarkSkinTone"
     },
     "pregnant-woman-medium-light-skin-tone": {
       "codepoint": 58033,
@@ -4047,10 +4282,20 @@
       "fontFamily": "NotoV1",
       "identifier": "wavingHand"
     },
+    "waving-hand-dark-skin-tone": {
+      "codepoint": 58147,
+      "fontFamily": "NotoV1",
+      "identifier": "wavingHandDarkSkinTone"
+    },
     "waving-hand-light-skin-tone": {
       "codepoint": 58056,
       "fontFamily": "NotoV1",
       "identifier": "wavingHandLightSkinTone"
+    },
+    "waving-hand-medium-dark-skin-tone": {
+      "codepoint": 58148,
+      "fontFamily": "NotoV1",
+      "identifier": "wavingHandMediumDarkSkinTone"
     },
     "waving-hand-medium-light-skin-tone": {
       "codepoint": 58057,
@@ -4156,6 +4401,11 @@
       "identifier": "whiteSquareButton",
       "duotone": true
     },
+    "wilted-flower": {
+      "codepoint": 58149,
+      "fontFamily": "NotoV1",
+      "identifier": "wiltedFlower"
+    },
     "wind-face": {
       "codepoint": 57800,
       "fontFamily": "NotoV1",
@@ -4167,16 +4417,59 @@
       "identifier": "winkingFace",
       "duotone": true
     },
+    "woman-biking": {
+      "codepoint": 58150,
+      "fontFamily": "NotoV1",
+      "identifier": "womanBiking"
+    },
+    "woman-biking-dark-skin-tone": {
+      "codepoint": 58151,
+      "fontFamily": "NotoV1",
+      "identifier": "womanBikingDarkSkinTone",
+      "duotone": true
+    },
+    "woman-biking-light-skin-tone": {
+      "codepoint": 58152,
+      "fontFamily": "NotoV1",
+      "identifier": "womanBikingLightSkinTone"
+    },
+    "woman-biking-medium-dark-skin-tone": {
+      "codepoint": 58153,
+      "fontFamily": "NotoV1",
+      "identifier": "womanBikingMediumDarkSkinTone"
+    },
+    "woman-biking-medium-light-skin-tone": {
+      "codepoint": 58154,
+      "fontFamily": "NotoV1",
+      "identifier": "womanBikingMediumLightSkinTone"
+    },
+    "woman-biking-medium-skin-tone": {
+      "codepoint": 58155,
+      "fontFamily": "NotoV1",
+      "identifier": "womanBikingMediumSkinTone"
+    },
     "woman-bowing": {
       "codepoint": 58060,
       "fontFamily": "NotoV1",
       "identifier": "womanBowing",
       "duotone": true
     },
+    "woman-bowing-dark-skin-tone": {
+      "codepoint": 58156,
+      "fontFamily": "NotoV1",
+      "identifier": "womanBowingDarkSkinTone",
+      "duotone": true
+    },
     "woman-bowing-light-skin-tone": {
       "codepoint": 58061,
       "fontFamily": "NotoV1",
       "identifier": "womanBowingLightSkinTone",
+      "duotone": true
+    },
+    "woman-bowing-medium-dark-skin-tone": {
+      "codepoint": 58157,
+      "fontFamily": "NotoV1",
+      "identifier": "womanBowingMediumDarkSkinTone",
       "duotone": true
     },
     "woman-bowing-medium-light-skin-tone": {
@@ -4271,10 +4564,20 @@
       "fontFamily": "NotoV1",
       "identifier": "womanHealthWorker"
     },
+    "woman-health-worker-dark-skin-tone": {
+      "codepoint": 58158,
+      "fontFamily": "NotoV1",
+      "identifier": "womanHealthWorkerDarkSkinTone"
+    },
     "woman-health-worker-light-skin-tone": {
       "codepoint": 58080,
       "fontFamily": "NotoV1",
       "identifier": "womanHealthWorkerLightSkinTone"
+    },
+    "woman-health-worker-medium-dark-skin-tone": {
+      "codepoint": 58159,
+      "fontFamily": "NotoV1",
+      "identifier": "womanHealthWorkerMediumDarkSkinTone"
     },
     "woman-health-worker-medium-light-skin-tone": {
       "codepoint": 58081,
@@ -4285,6 +4588,37 @@
       "codepoint": 58082,
       "fontFamily": "NotoV1",
       "identifier": "womanHealthWorkerMediumSkinTone"
+    },
+    "woman-mountain-biking": {
+      "codepoint": 58160,
+      "fontFamily": "NotoV1",
+      "identifier": "womanMountainBiking"
+    },
+    "woman-mountain-biking-dark-skin-tone": {
+      "codepoint": 58161,
+      "fontFamily": "NotoV1",
+      "identifier": "womanMountainBikingDarkSkinTone",
+      "duotone": true
+    },
+    "woman-mountain-biking-light-skin-tone": {
+      "codepoint": 58162,
+      "fontFamily": "NotoV1",
+      "identifier": "womanMountainBikingLightSkinTone"
+    },
+    "woman-mountain-biking-medium-dark-skin-tone": {
+      "codepoint": 58163,
+      "fontFamily": "NotoV1",
+      "identifier": "womanMountainBikingMediumDarkSkinTone"
+    },
+    "woman-mountain-biking-medium-light-skin-tone": {
+      "codepoint": 58164,
+      "fontFamily": "NotoV1",
+      "identifier": "womanMountainBikingMediumLightSkinTone"
+    },
+    "woman-mountain-biking-medium-skin-tone": {
+      "codepoint": 58165,
+      "fontFamily": "NotoV1",
+      "identifier": "womanMountainBikingMediumSkinTone"
     },
     "woman-playing-water-polo": {
       "codepoint": 58083,
@@ -4321,10 +4655,20 @@
       "fontFamily": "NotoV1",
       "identifier": "womanSinger"
     },
+    "woman-singer-dark-skin-tone": {
+      "codepoint": 58166,
+      "fontFamily": "NotoV1",
+      "identifier": "womanSingerDarkSkinTone"
+    },
     "woman-singer-light-skin-tone": {
       "codepoint": 58090,
       "fontFamily": "NotoV1",
       "identifier": "womanSingerLightSkinTone"
+    },
+    "woman-singer-medium-dark-skin-tone": {
+      "codepoint": 58167,
+      "fontFamily": "NotoV1",
+      "identifier": "womanSingerMediumDarkSkinTone"
     },
     "woman-singer-medium-light-skin-tone": {
       "codepoint": 58091,

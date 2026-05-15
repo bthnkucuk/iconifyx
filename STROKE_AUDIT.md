@@ -5,7 +5,7 @@ Generated 2026-05-15. For each set we sample the first 25 icons and measure two 
 - **Sets receiving raster pre-pass:** 111 / 225
 - **Of those, auto-detected:** 85
 - **Sets with ≥20% raster signal that were NOT processed:** 6
-- **Sets containing duo-tone icons:** 68 (17,549 icons across them)
+- **Sets containing duo-tone icons:** 68 (17,567 icons across them)
 - **Sets with ≥20% paint-order risk (multi-fill bodies that would render as monochrome blobs):** 12
 - **Icons proactively dropped this run for paint-order risk:** 17,158
 
@@ -62,15 +62,15 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | Lets Icons | `lets-icons` | 290 | `3d-box-duotone`, `add-duotone`, `add-ring-duotone` |
 | Emoji One (Colored) | `emojione` | 271 | `a-button`, `ab-button`, `antenna-bars` |
 | Catppuccin Icons | `catppuccin` | 264 | `angular`, `angular-component`, `angular-directive` |
-| Noto Emoji (v1) | `noto-v1` | 242 | `ab-button`, `ab-button-blood-type`, `american-football` |
+| Noto Emoji (v1) | `noto-v1` | 246 | `ab-button`, `ab-button-blood-type`, `american-football` |
 | IconaMoon | `iconamoon` | 235 | `3d-duotone`, `arrow-bottom-left-3-square-duotone`, `arrow-bottom-left-4-square-duotone` |
 | Web3 Icons Branded | `token-branded` | 205 | `0x0`, `adoge`, `aevo` |
 | Emoji One (v1) | `emojione-v1` | 197 | `a-button`, `ab-button`, `anchor` |
 | Stash Icons | `stash` | 193 | `airplane-duotone`, `arrows-switch-duotone`, `article-alt-duotone` |
+| Devicon | `devicon` | 192 | `aframe`, `aftereffects`, `akka` |
 | Unicons Monochrome | `uim` | 188 | `airplay`, `align`, `android` |
-| Devicon | `devicon` | 180 | `aframe`, `aftereffects`, `akka` |
 | Ant Design Icons | `ant-design` | 153 | `account-book-twotone`, `alert-twotone`, `api-twotone` |
-| Skill Icons | `skill-icons` | 130 | `ableton-dark`, `ableton-light`, `actix-dark` |
+| Skill Icons | `skill-icons` | 131 | `ableton-dark`, `ableton-light`, `actix-dark` |
 | Firefox OS Emoji | `fxemoji` | 128 | `2hearts`, `alien`, `alienmonster` |
 | Pepicons | `pepicons` | 125 | `airplane-print`, `alarm-print`, `angle-down-print` |
 | Duoicons | `duo-icons` | 91 | `add-circle`, `airplay`, `alert-octagon` |
@@ -79,7 +79,7 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | Noto Emoji | `noto` | 58 | `admission-tickets`, `alien`, `bell-pepper` |
 | Flag Icons | `flag` | 47 | `at-1x1`, `at-4x3`, `bd-1x1` |
 | Qlementine Icons | `qlementine-icons` | 45 | `anchor-bottom-left-16`, `anchor-bottom-middle-16`, `anchor-bottom-right-16` |
-| Google Cloud Icons | `gcp` | 41 | `ai-platform`, `apigee-api-platform`, `automl-vision` |
+| Google Cloud Icons | `gcp` | 42 | `ai-platform`, `apigee-api-platform`, `automl` |
 | CoreUI Flags | `cif` | 35 | `al`, `at`, `bd` |
 | css.gg | `gg` | 31 | `align-bottom`, `align-center`, `align-left` |
 | NRK Core Icons | `nrk` | 23 | `dialogue`, `download`, `edit` |
@@ -174,6 +174,31 @@ Sets where the pack-level sample was below the stroke/evenodd threshold but indi
 | Map Icons | `map` | 1 | 0% | 0% | `sign-language` |
 | Elusive Icons | `el` | 1 | 0% | 0% | `plurk-alt` |
 
+## Inverse-mask pattern (resvg-aware trace)
+
+Icons whose body uses `<defs><mask id="X">...</mask></defs>` plus a consumer `<path mask="url(#X)"/>` (Solar bold, icon-park-twotone, icon-park-solid, line-md, pepicons-pop/pencil, lets-icons duotone-line, …). Before the custom stroke-fill worker landed, these icons shipped with their main body invisible because `oslllo-svg-fixer` force-set the first <path>'s fill to black inside the mask. The worker bypasses that step now and the bodies trace correctly via resvg.
+
+- **Icons using the inverse-mask pattern across all packs:** 4,032
+
+| Set | Prefix | Mask icons | % of pack | Spot-check |
+|---|---|---:|---:|---|
+| IconPark TwoTone | `icon-park-twotone` | 1,944 | 100% | `abnormal`, `acceleration`, `activity-source` |
+| IconPark Solid | `icon-park-solid` | 928 | 47% | `abnormal`, `ad`, `add` |
+| Material Line Icons | `line-md` | 482 | 38% | `beer`, `beer-alt`, `beer-alt-filled` |
+| Pepicons Pop! | `pepicons-pop` | 255 | 20% | `airplane-circle-filled`, `alarm-circle-filled`, `angle-down-circle-filled` |
+| Pepicons Pencil | `pepicons-pencil` | 255 | 20% | `airplane-circle-filled`, `alarm-circle-filled`, `angle-down-circle-filled` |
+| Lets Icons | `lets-icons` | 85 | 6% | `add-duotone-line`, `add-ring-duotone-line`, `add-round-duotone-line` |
+| Solar | `solar` | 29 | 0% | `accumulator-bold`, `camera-minimalistic-bold-duotone`, `card-bold` |
+| Circle Flags | `circle-flags` | 23 | 460% | `it-21`, `it-23`, `it-25` |
+| VSCode Icons | `vscode-icons` | 11 | 2% | `file-type-azurepipelines`, `file-type-compass`, `file-type-gemini` |
+| Devicon | `devicon` | 10 | 1% | `argocd`, `jekyll`, `lovable` |
+| Google Cloud Icons | `gcp` | 3 | 1% | `cloud-healthcare-api`, `pubsub`, `security-health-advisor` |
+| Bitcoin Icons | `bitcoin-icons` | 2 | 1% | `chair-filled`, `printer-outline` |
+| Skill Icons | `skill-icons` | 2 | 1% | `less-dark`, `less-light` |
+| Noto Emoji (v1) | `noto-v1` | 1 | 0% | `bow-and-arrow` |
+| Devicon Plain | `devicon-plain` | 1 | 0% | `starship` |
+| Lineicons | `lineicons` | 1 | 0% | `facebook-rounded` |
+
 ## All sets
 
 | Set | Prefix | Stroke % | Evenodd % | Paint-order % | Per-icon | Duotone | Applied | Source |
@@ -183,7 +208,7 @@ Sets where the pack-level sample was below the stroke/evenodd threshold but indi
 | Garden SVG Icons | `garden` | 28% | 0% | 0% | 348 | — | — | none |
 | BPMN | `bpmn` | 28% | 0% | 0% | 27 | — | — | none |
 | UnJS Logos | `unjs` | 24% | 0% | 76% | 13 | — | — | none |
-| Noto Emoji (v1) | `noto-v1` | 24% | 0% | 56% | 276 | 242 | — | none |
+| Noto Emoji (v1) | `noto-v1` | 24% | 0% | 56% | 276 | 246 | — | none |
 | VSCode Icons | `vscode-icons` | 8% | 12% | 24% | 189 | 329 | — | none |
 | Ant Design Icons | `ant-design` | 0% | 16% | 0% | 71 | 153 | — | none |
 | OpenSearch UI | `oui` | 0% | 16% | 0% | 112 | — | — | none |
@@ -291,7 +316,7 @@ Sets where the pack-level sample was below the stroke/evenodd threshold but indi
 | Nonicons | `nonicons` | 0% | 52% | 0% | — | — | ✓ | auto |
 | Cryptocurrency Color Icons | `cryptocurrency-color` | 0% | 52% | 0% | — | 379 | ✓ | auto |
 | Duoicons | `duo-icons` | 0% | 48% | 0% | — | 91 | ✓ | auto |
-| Google Cloud Icons | `gcp` | 0% | 48% | 0% | — | 41 | ✓ | auto |
+| Google Cloud Icons | `gcp` | 0% | 48% | 0% | — | 42 | ✓ | auto |
 | uiw icons | `uiw` | 0% | 44% | 0% | — | — | ✓ | auto |
 | MingCute Icon | `mingcute` | 0% | 40% | 0% | — | 2 | ✓ | auto |
 | Qlementine Icons | `qlementine-icons` | 0% | 40% | 0% | — | 45 | ✓ | auto |
@@ -304,8 +329,8 @@ Sets where the pack-level sample was below the stroke/evenodd threshold but indi
 | FormKit Icons | `formkit` | 4% | 20% | 0% | — | — | ✓ | auto |
 | Radix Icons | `radix-icons` | 0% | 24% | 0% | — | 4 | ✓ | explicit |
 | File Icons | `file-icons` | 0% | 24% | 0% | — | — | ✓ | auto |
-| Skill Icons | `skill-icons` | 0% | 24% | 0% | — | 130 | ✓ | auto |
-| Devicon | `devicon` | 0% | 20% | 0% | — | 180 | ✓ | auto |
+| Skill Icons | `skill-icons` | 0% | 24% | 0% | — | 131 | ✓ | auto |
+| Devicon | `devicon` | 0% | 20% | 0% | — | 192 | ✓ | auto |
 | Web3 Icons Branded | `token-branded` | 0% | 20% | 0% | — | 205 | ✓ | auto |
 | Font-GIS | `gis` | 0% | 20% | 0% | — | — | ✓ | auto |
 | Lineicons | `lineicons` | 0% | 16% | 0% | — | — | ✓ | explicit |

@@ -326,6 +326,30 @@ export interface PaintOrderReason {
 }
 
 /**
+ * True if the body uses the inverse-mask pattern: a `<defs><mask id="X">`
+ * block followed by a consumer `<path ... mask="url(#X)"/>`. Solar bold,
+ * icon-park-twotone/solid, line-md, pepicons-pop/pencil, lets-icons
+ * duotone-lines, and ~20 other packs ship icons this way. The pattern was
+ * historically silent-broken inside the stroke-fill pipeline: oslllo-svg-
+ * fixer's `checkFillState` would force the first <path> element's fill to
+ * black, and inside the mask that path is the icon's BODY — flipping it
+ * to black made it invisible (only the visible-in-mask white paths got
+ * traced). Now that the worker bypasses `checkFillState`, these icons
+ * trace correctly. Surfaced in the audit so we can see how many icons
+ * per pack were silently broken before the fix.
+ */
+export function bodyUsesMaskPattern(body: string): boolean {
+  // Cheap fast-path: both tokens must appear.
+  if (body.indexOf('<mask') === -1) return false;
+  if (body.indexOf('mask="url(') === -1 && body.indexOf("mask='url(") === -1) {
+    return false;
+  }
+  // Confirm: a <defs>...<mask id="X">...</mask>...</defs> block plus a
+  // matching mask="url(#X)" reference somewhere outside the defs.
+  return /<defs[^>]*>[\s\S]*?<mask\s+id=["']([^"']+)["'][\s\S]*?<\/mask>[\s\S]*?<\/defs>/.test(body);
+}
+
+/**
  * Sample-based per-set paint-order signal. Mirrors `rasterFillSignal`
  * but for the multi-fill failure mode. Surfaced in the audit report so
  * we can spot packs that ship a lot of multicolor logos.
