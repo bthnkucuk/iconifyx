@@ -1039,6 +1039,151 @@ buffers).
 
 ---
 
+## §14 — SVG layer-order conventions (empirical survey)
+
+**Verdict: Adopt three concrete changes; ~2 080 icons fixed in ~4 h.**
+
+Empirical survey across @iconify/json 2.2.472 (~166 k icons) measured
+how often each heuristic gets the right primary/secondary assignment
+per pack.
+
+### Source-order ↔ area-leader agreement by pack
+
+| Pack | Two-color icons | Source-order = area-leader |
+|---|---:|---:|
+| cryptocurrency-color | 480 | **99.7 %** |
+| material-icon-theme | 567 | 92.9 % |
+| vscode-icons | 463 | 78 % |
+| logos | 473 | 68.7 % |
+| **streamline-color** | 1 289 | **62 %** ← worst |
+
+**White-as-foreground rule**: across logos / crypto-color / vscode-
+icons, when two-colour body contains canonical white, the white path
+is the SMALLER-area (foreground) **86 %** of the time. Strong signal.
+
+### Ecosystem consensus
+
+- **Opacity-based duotone** (Phosphor / Solar / IC / FA Duotone): opacity
+  < 1 = secondary. Independent of source order. iconifyx handles
+  correctly via `splitDuotoneBody`.
+- **W3C SVG painters algorithm** (§3 SVG 1.1): "child elements rendered
+  in order they appear" — first child = bottom, last = top. This MATCHES
+  logos / crypto / material-icon-theme / twemoji convention. Does NOT
+  match streamline-color (accent → body → accent ordering).
+- **Lucide / Tabler / Heroicons / Iconoir / Material Symbols**: monochrome
+  packs, no duotone convention. N/A.
+
+### Critical bug: stroke colour ignored
+
+The hidden killer: `extractConcreteFills` only looks at `fill=`
+attribute. For streamline-color the dominant pattern is:
+
+```svg
+<path fill="#d7e0ff" stroke="#4147d5" d="..."/>
+```
+
+A path with fill colour A + stroke colour B → 2 distinct paints, but
+detector reports 1 fill → no split → ships as flat solid light-blue
+body with NO dark outline. **1 190 streamline-color icons + 80
+streamline-cyber-color + 40 streamline-flex-color = ~1 300 icons**
+currently failing this way.
+
+Fix: rename `extractConcreteFills` → `extractConcretePaints`, walk
+both `fill=` and `stroke=` (incl. `style="fill:...; stroke:..."`),
+treat `(fill A, stroke B)` body as 2-paint duotone candidate. **~1 h
+implementation, ~1 300 icons recovered.**
+
+### Area calculation — shoelace not bbox
+
+First-cut "area-based" heuristic in §2 used sum-of-individual-path-bboxes
+per colour group. Layer-order agent notes: for sparse-edge-spanning
+accents (ai-chip-spark-flat's 8 pins on the 4 edges), bbox **over-
+estimates** ink area. Correct metric is **shoelace polygon area** —
+sum of `Σ (x_i · y_{i+1} - x_{i+1} · y_i) / 2` over each closed path,
+approximating curves as line segments at endpoints.
+
+For our scale + Potrace's rendering tolerance, shoelace is "good
+enough"; exact path-area integrals via kurbo / bezier-js are overkill.
+
+### Unified decision tree
+
+```ts
+function classifyDuotone(body): {primary, secondary, kind} | null {
+  // 1. Opacity-based (Phosphor / Solar / ic) — highest confidence.
+  if (isDuotoneBody(body)) return splitDuotoneBody(body);
+
+  // 2. Mask-internal pattern (lets-icons).
+  if (bodyUsesMaskPattern(body)) {
+    const m = trySplitMaskInternalBody(body);
+    if (m) return {...m, kind: 'maskInternal'};
+  }
+
+  // 3. Two-paint split: walk fill+stroke, bucket by colour.
+  const paints = extractPaintRolesPerElement(body);     // NEW: fill+stroke aware
+  if (paints.distinctColors.size !== 2) return null;
+
+  const areas = sumShoelaceAreaPerColor(paints);
+  const [colorA, colorB] = [...paints.distinctColors];
+
+  // 4a. White-as-foreground override (86 % accurate across logos/crypto/vscode)
+  if (isWhite(colorA) && !isWhite(colorB))
+    return assign(colorB /*primary*/, colorA /*secondary*/);
+  if (isWhite(colorB) && !isWhite(colorA))
+    return assign(colorA /*primary*/, colorB /*secondary*/);
+
+  // 4b. Area-leader wins when gap > 1.3× (avoids flipping Solar's
+  // near-symmetric duotone where source-order is the right tie-break).
+  if (areas[colorA] > 1.3 * areas[colorB]) return assign(colorA, colorB);
+  if (areas[colorB] > 1.3 * areas[colorA]) return assign(colorB, colorA);
+
+  // 5. Tie-break: source-order BG-first (painters algorithm).
+  return assign(paints.firstColor, paints.otherColor);
+}
+```
+
+### Estimated fix counts per change
+
+| Change | Cost | Icons fixed |
+|---|---:|---:|
+| Include `stroke=` in 2-paint detection | ~1 h | **~1 300** (streamline-color family) |
+| Shoelace area + white-as-FG override + 1.3× gap | ~3 h | **~780** (streamline-color flip + ~150 logos + ~100 vscode-icons + ~40 material-icon-theme) |
+| 3-color reduction (top-2 by area → primary/secondary, 3rd flattened) | ~4 h | **~290** (gcp tiles, three-color logos, vscode-icons multi-accent) |
+| **Combined top-2** | **~4 h** | **~2 080 icons** (≈ 5 % lift in live count) |
+
+### Gradients / blends / `<use>`
+
+- Gradients: unrecoverable for monochrome duotone (no discrete bg/fg
+  layering). Already dropped via validator.
+- `mix-blend-mode`: 0 hits in @iconify/json 2.2.472. Skip.
+- `<use>`: flattened by `oslllo-svg-fixer`. Resolved geometry inherits
+  parent `fill`; doesn't affect classification.
+- Filters: dropped via validator. Always.
+
+### Cross-reference with §2
+
+The §2 recommendation (area-based duotone classification) is REFINED
+by this agent's findings:
+- Bbox-sum-per-colour → upgrade to **shoelace polygon area** for
+  accents that span the canvas edges
+- Add **stroke-colour detection** as a HIGHER priority than area
+  (recovers 1.7× more icons per hour)
+- Add **white-as-foreground rule** as an explicit override
+- Add **1.3× area-gap floor** before flipping (preserves Solar/Phosphor
+  near-symmetric duotones)
+
+### Files
+
+- `tools/generator/src/svg_preprocess.ts` — `extractConcreteFills` →
+  `extractConcretePaints` (fill + stroke); `trySplitTwoColorBody` →
+  unified `classifyDuotone` with shoelace area + white override
+- `svg_preprocess.test.ts` — regression cases for `streamline-color:
+  ai-chip-spark-flat`, `logos:adobe-after-effects`, `cryptocurrency-
+  color:xmr`, white-as-foreground edge case
+- `manifests/streamline-color.json` — currently 0 duotone live count;
+  expected to climb to ~1 300 after the stroke-colour fix
+
+---
+
 ## Cross-cutting recommendations
 
 ### Tools shortlist (consolidated)
