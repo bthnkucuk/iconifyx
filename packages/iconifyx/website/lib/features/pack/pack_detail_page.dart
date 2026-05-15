@@ -52,6 +52,14 @@ class _PackDetailPageState extends State<PackDetailPage> {
   // paint-order duotones (logos, crypto-color) where the foreground
   // letterform reads against a different surface than the card.
   Color? _iconSecondaryColor;
+  // Debug toggle: swap primary <-> secondary in every duotone icon.
+  // Some packs (streamline-color, streamline-flex-color, …) have
+  // mixed-order paths where `trySplitTwoColorBody`'s "first color in
+  // source order = primary" heuristic ends up putting the BACKGROUND
+  // on top of the FOREGROUND accent. This toggle flips it so we can
+  // identify which icons would render correctly with the inverse
+  // split, then we know how to fix the generator.
+  bool _swapLayers = false;
 
   @override
   void initState() {
@@ -82,6 +90,7 @@ class _PackDetailPageState extends State<PackDetailPage> {
   void setIconColor(Color? c) => setState(() => _iconColor = c);
   void setIconSecondaryColor(Color? c) =>
       setState(() => _iconSecondaryColor = c);
+  void setSwapLayers(bool v) => setState(() => _swapLayers = v);
 
   void _setStyle(String? style) {
     final qs = Map<String, String>.from(widget.route.queries);
@@ -272,6 +281,7 @@ class _LoadedBody extends StatelessWidget {
           // "SECONDARY COLOR" swatches.
           surfaceForKnockout:
               page._iconSecondaryColor ?? const Color(0xFF000000),
+          swapLayers: page._swapLayers,
         );
 
         final sidebar = route.selectorBuilder<String?>(
@@ -287,6 +297,8 @@ class _LoadedBody extends StatelessWidget {
             onColor: page.setIconColor,
             secondaryColor: page._iconSecondaryColor,
             onSecondaryColor: page.setIconSecondaryColor,
+            swapLayers: page._swapLayers,
+            onSwapLayers: page.setSwapLayers,
           ),
         );
 
@@ -425,6 +437,7 @@ class _CellPalette {
     required this.iconColor,
     required this.iconRenderSize,
     required this.surfaceForKnockout,
+    required this.swapLayers,
   });
   final Color card;
   final Color rule;
@@ -439,6 +452,13 @@ class _CellPalette {
   /// colour — the foreground letter visually "punches out" of the
   /// currentColor-filled tile and the gap reads as the card surface.
   final Color surfaceForKnockout;
+  /// Debug toggle: swap primary <-> secondary in every duotone icon.
+  /// Useful for packs (streamline-color family) where the two-color split
+  /// heuristic picked the wrong "first" colour as background and the
+  /// foreground accents ended up underneath. Wired into `IconifyThumb`
+  /// which reconstructs an `IconifyIconData` with the IconDatas swapped
+  /// (kind preserved). Off by default.
+  final bool swapLayers;
 }
 
 class _GridContent extends StatelessWidget {
@@ -542,6 +562,7 @@ class _IconCell extends StatelessWidget {
                                 size: palette.iconRenderSize,
                                 color: accent,
                                 secondaryColor: palette.surfaceForKnockout,
+                                swapLayers: palette.swapLayers,
                               ),
                       ),
                     ),
@@ -600,6 +621,8 @@ class _Sidebar extends StatelessWidget {
     required this.onColor,
     required this.secondaryColor,
     required this.onSecondaryColor,
+    required this.swapLayers,
+    required this.onSwapLayers,
   });
 
   final PackSummary summary;
@@ -612,6 +635,8 @@ class _Sidebar extends StatelessWidget {
   final ValueChanged<Color?> onColor;
   final Color? secondaryColor;
   final ValueChanged<Color?> onSecondaryColor;
+  final bool swapLayers;
+  final ValueChanged<bool> onSwapLayers;
 
   @override
   Widget build(BuildContext context) {
@@ -692,6 +717,29 @@ class _Sidebar extends StatelessWidget {
                       (secondaryColor != null && secondaryColor == c),
                   onTap: () => onSecondaryColor(c),
                 ),
+            ],
+          ),
+        ),
+        const SizedBox(height: 14),
+        // Debug: swap primary <-> secondary in every duotone icon.
+        // For streamline-color and similar packs where the two-color
+        // split's "first colour = primary" heuristic ended up with the
+        // background on top of the foreground accent.
+        _SidebarLabel('SWAP LAYERS'),
+        const SizedBox(height: 6),
+        Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 8),
+          child: Row(
+            children: [
+              Switch.adaptive(
+                value: swapLayers,
+                onChanged: onSwapLayers,
+              ),
+              const SizedBox(width: 8),
+              Text(
+                swapLayers ? 'on' : 'off',
+                style: AppTheme.mono(size: 11, color: muted),
+              ),
             ],
           ),
         ),

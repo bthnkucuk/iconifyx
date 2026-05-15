@@ -17,6 +17,7 @@ class IconifyThumb extends StatelessWidget {
     required this.size,
     this.color,
     this.secondaryColor,
+    this.swapLayers = false,
   });
 
   final IconifyIconData icon;
@@ -28,10 +29,24 @@ class IconifyThumb extends StatelessWidget {
   /// letterform should knock out to.
   final Color? secondaryColor;
 
+  /// Debug-only flag. When true and [icon] is a duotone, reconstruct
+  /// the [IconifyIconData] with `primary` <-> `secondary` swapped (kind
+  /// preserved). Lets the website spot icons whose source-order-based
+  /// two-color split picked the wrong "first" colour as background.
+  /// No-op for solo icons.
+  final bool swapLayers;
+
   @override
   Widget build(BuildContext context) {
+    IconifyIconData effective = icon;
+    if (swapLayers) {
+      final s = icon.secondary;
+      if (s != null) {
+        effective = IconifyIconData.duo(s, icon.primary, kind: icon.kind);
+      }
+    }
     return IconifyIcon(
-      icon,
+      effective,
       size: size,
       color: color,
       secondaryColor: secondaryColor,
