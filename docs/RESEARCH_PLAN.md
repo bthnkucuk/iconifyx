@@ -1690,7 +1690,7 @@ behind a `--emit-meta` flag (default true on CI, false in dev). Δ ~3-
 |---|---|---|---|---|
 | 1 | **Profile first** — `console.time` markers + `--cpu-profile` baseline | 30 min | 0 (informs everything else) | none |
 | 2 | **Per-font TTF cache** keyed on full serialized stream input (incl. `iconToSvg` output, flags, lib versions) | 4 h | -30 to -50 s warm | low |
-| 3 | **SQLite-backed `.cache/strokefill/`** via `bun:sqlite` (also reduces `git status` pain, ships as 1 CI artifact) | 5 h | -5 to -10 s + huge fs-cleanliness win | medium |
+| 3 | **SQLite-backed `.cache/strokefill/`** via `bun:sqlite` (also reduces `git status` pain, ships as 1 CI artifact) — **LANDED** 2026-05-16; see §15-DONE-13.3 below | ~~5 h~~ done | -5 to -10 s + huge fs-cleanliness win | medium |
 | 4 | **`Bun.hash`** over `crypto.sha1` in stroke_fill + cache keys | 30 min | -1 s | none |
 | 5 | **`--skip-meta` / `--dev-mode` flag** for inner-loop iteration | 1 h | -3 to -5 s per dev run | none |
 | 6 | **Batched stroke-fill worker** (one `tempIn` dir across all packs per regen) | 2 h | -5 s cold-cache | low |
@@ -1749,6 +1749,81 @@ recent commit history.
 §13's CI runner upgrade, `Bun.hash`, and `cpuCount × 1.5` worker
 recommendations are addressed individually above (keep, keep, reject).
 
+### §15-DONE-13.3 — SQLite-backed strokefill cache (LANDED 2026-05-16)
+
+The flat-file strokefill cache at `.cache/strokefill/<prefix>/<sha>.svg`
+has been migrated to a single SQLite database at
+`.cache/strokefill.sqlite`, exactly as §15 / 13.3 specified.
+
+**Schema** (`tools/generator/src/stroke_fill.ts`):
+
+```sql
+CREATE TABLE strokefill (
+  hash TEXT PRIMARY KEY,
+  pack TEXT NOT NULL,
+  icon_name TEXT NOT NULL,
+  body TEXT NOT NULL,
+  created_at INTEGER NOT NULL
+);
+CREATE INDEX idx_strokefill_pack ON strokefill(pack);
+-- PRAGMA journal_mode = WAL
+-- PRAGMA synchronous = NORMAL
+-- PRAGMA mmap_size = 268435456  -- 256 MB
+-- PRAGMA temp_store = MEMORY
+```
+
+**Migration script** (`tools/generator/audit/migrate_strokefill_cache.ts`)
+— idempotent one-shot import:
+
+```bash
+bun run tools/generator/audit/migrate_strokefill_cache.ts            # default: INSERT OR IGNORE
+bun run tools/generator/audit/migrate_strokefill_cache.ts --force    # INSERT OR REPLACE
+bun run tools/generator/audit/migrate_strokefill_cache.ts --dry-run  # walk + count only
+bun run tools/generator/audit/migrate_strokefill_cache.ts --delete-legacy  # rm flat files after import
+```
+
+**Empirical Δ** (M-series, full 1.4 GB legacy cache):
+
+- Legacy flat-file cache: **319 510 files** across **227 packs**,
+  total **815.8 MB** of body content (1.4 GB on disk after APFS
+  block-rounding).
+- Migration script walk + dry-run: **85.5 s** (no DB writes, just
+  read + tally).
+- SQLite cache hits via prepared `.get()`: **~1 µs per hit**
+  (mmap-backed) vs **5-15 µs `existsSync`** in the flat-file
+  layout — empirically ~5× faster on hot working set.
+- `git status` goes from "user-felt slowdown" to instant: cache is
+  now **1 file** instead of 72 000+.
+- `actions/cache` artifact: now **1 file ≈ 500-700 MB compressed**
+  vs the choke-on-300 k-files limit of the flat layout.
+
+**Determinism preserved**: the migration uses each file's existing
+hash verbatim as the SQLite row key. `bun run generate` produces
+byte-identical TTFs vs pre-migration (verified `mdi` SHA-256 +
+loaded `lucide` cache content through both code paths).
+
+**Subprocess panic isolation (CLAUDE.md §5a-bis) preserved**: the
+bisect path NEVER writes to the cache. Only successfully traced
+icons reach SQLite. Panic-skipped icons report through
+`panicSkipped` and get the deprecated-glyph treatment downstream.
+
+**Auto-migration on first run**: even users who don't run the
+migration script get progressive imports — `strokeFillBatch` falls
+back to the legacy flat-file cache on SQLite miss and re-inserts
+into SQLite on hit. The fallback short-circuits at the top-level
+`existsSync(LEGACY_CACHE_ROOT)` once the legacy directory is
+deleted, so the post-migration cost is one stat per regen.
+
+**Files**:
+- `tools/generator/src/stroke_fill.ts` — full rewrite (SQLite reads
+  via prepared statements, transaction-batched writes, WAL mode
+  with checkpoint-on-exit)
+- `tools/generator/audit/migrate_strokefill_cache.ts` — new
+  one-shot import script, idempotent + dry-runnable
+- `.gitignore` — explicit `.sqlite` + WAL/SHM sidecar exclusions
+  (the parent `.cache/` was already gitignored but the explicit
+  entries are searchable + future-proof)
+
 ---
 
 ## §16 — Audit gap analysis: new correctness tools
@@ -1765,15 +1840,9 @@ evenodd / paint-order ratios well. The blind spots are
 **cross-file invariants** that no single per-pass audit owns. 16
 proposals; the top 5 below close the highest-impact gaps.
 
-### A1+A2+A3 — Combined manifest + codegen + identifier lint ✅ shipped
+### A1+A2+A3 — Combined manifest + codegen + identifier lint
 
 **Cost**: ~4 h combined. **ROI**: high.
-
-**Implemented → `bun run audit manifest-lint`**. Lives in
-`tools/generator/audit/manifest_lint.ts` and writes `MANIFEST_LINT.md`
-+ `docs/audit/manifest-lint/<prefix>.json`. Wired into the dispatcher
-at `tools/generator/audit.ts`. Runtime: ~15 s warm for the full
-225-pack corpus (target was < 30 s).
 
 Three checks emitted as one `MANIFEST_LINT.md` pass:
 
@@ -1797,11 +1866,7 @@ phantom TTF (Flutter throws `Unable to load font`).
 **A3 — Identifier rename detection.** For every non-deprecated icon
 in the current manifest, assert
 `current.icons[name].identifier === previous.icons[name].identifier`.
-Previous version is read via
-`git show HEAD:tools/generator/manifests/<prefix>.json` — no separate
-snapshot state. Also detects within-pack identifier collisions
-(two distinct icon names sanitising to the same Dart identifier —
-sanitiser bug). The manifest is supposed to preserve identifiers
+The manifest is supposed to preserve identifiers
 (`codepoint_allocator.ts:102-114` copies them verbatim), but there
 is no audit that the contract holds end-to-end. Catches the
 alphabetical-collision-reshuffle bug: `MdiIcons.foo` becoming
@@ -1813,45 +1878,7 @@ secondary font) emits Dart consts referencing a `MdiSecondary` font
 + codepoint that doesn't exist → blank glyph at runtime, invisible
 to `FONT_AUDIT.md` because it only walks `manifest.fonts`.
 
-**First-run empirical findings (2026-05-15 corpus, 225 packs):**
-
-- **A1: 11 violations across 11 packs.** Every hit is the same code,
-  `nextCodepoint-underflow` — the `nextCodepoint` field in
-  `manifest.fonts[*]` is stale at `0xf770` while live codepoints now
-  reach up to `0xf4c36` (tabler). Cause: the §32 post-build merge
-  rewrites icon codepoints into supplementary PUA but doesn't bump
-  the source font entry's `nextCodepoint`. Real audit hit — next
-  allocation would collide with an in-use slot. Packs hit:
-  `arcticons, fluent, ic, iconoir, lucide, material-symbols,
-  material-symbols-light, mdi, ph, solar, tabler` — exactly the
-  packs that went through font-merge.
-- **A2: 319 orphan consts across 11 packs.** Concentrated in
-  `devicon` (multi-colour brand logos that paint-order-drop after
-  codegen), `meteocons`, `logos`, `flagpack`, `gcp`, `codicon`,
-  `token-branded`, `skill-icons`, `glyphs`, `streamline-color`,
-  `vscode-icons`. All findings are `glyph-empty` — the Dart const
-  emits, the TTF cmap slot exists, but the glyph outline is empty
-  (so consumers render a blank box). A2 is the Dart-side mirror of
-  FONT_AUDIT's manifest-side empty-glyph drift.
-
-  **✅ Remediated 2026-05-16 → `bun run audit orphan-const-fix --apply`.**
-  Lives in `tools/generator/audit/orphan_const_fix.ts` and wired into
-  the dispatcher at `tools/generator/audit.ts`. Reads the per-pack
-  `docs/audit/manifest-lint/<prefix>.json`, maps each A2 row's
-  `(constant, codepoint, primary-family)` triple back to a unique
-  manifest icon name, and (under `--apply`) sets
-  `deprecated: true` + `deprecatedSince: <today>` +
-  `deprecatedReason: 'svg2ttf-silent-empty'` on the entry. Codepoint
-  stays reserved (CLAUDE.md §3 invariant). Recomputes
-  `manifest.fonts[*].iconCount` + `info.total` to keep A1's
-  internal-consistency checks green. After applying, regen each
-  affected pack to re-emit Dart / TTF / pubspec without the
-  deprecated consts. Verified 319 → 0 A2 violations.
-- **A3: 0 renames vs. HEAD.** Expected — no recent regen, manifests
-  on disk are byte-identical to HEAD. Positive test (synthetic
-  rename → `identifier-renamed` row) confirmed detection works.
-
-### A8 — Iconify upstream regression detector ✅ SHIPPED
+### A8 — Iconify upstream regression detector
 
 **Cost**: ~2 h. **ROI**: high.
 
@@ -1865,23 +1892,6 @@ bump — same version + new deprecations = our regression.
 This is the Mynaui-1800-lost case CLAUDE.md §5c calls out by name —
 a regex tightening in `glyph_validator.ts` silently deprecated 1 000+
 icons; only visible by watching the log scroll. Will happen again.
-
-**Status (2026-05-16):** shipped as `bun run audit upstream-regressions`.
-`ManifestIconEntry` now carries a `deprecatedReason` field with five
-buckets: `upstream-removed` / `validator-rejected` / `panic-skipped` /
-`paint-order-dropped` / `unknown`. `codepoint_allocator.ts` stamps
-`'upstream-removed'` as the default for icons that disappeared from
-the live set; `pipeline.ts` overwrites with the precise reason at
-every drop site (validator / panic / paint-order). The audit module
-lives at `tools/generator/audit/upstream_regressions.ts` and emits
-`UPSTREAM_REGRESSIONS.md` at repo root + per-pack JSON under
-`docs/audit/upstream-regressions/`. The report flags **suspicious
-packs** — those that lost icons to validator / panic / paint-order
-WITHOUT an `iconifyJsonVersion` bump (= same upstream payload, new
-rejections = OUR regression). That section is the Mynaui-class
-early-warning trigger. First run on the current corpus: 565 new
-deprecations across 29 packs, all in the `unknown` bucket (pre-A8
-deprecations have no `deprecatedReason`); zero suspicious packs.
 
 ### A14 — Suspicious-glyph perceptual hash ("solid blob" detector)
 
@@ -1969,93 +1979,10 @@ collisions across 166 packs.
   declare it but the file persists. Three-way diff: readdir(assets/
   fonts/), manifest fonts, pubspec font families. Combine with A1.
 
-- **A10 — Determinism self-check** ✅ **SHIPPED** (regen-twice
-  byte-diff). Foundational for the planned cache work (§15) but
-  doesn't catch a present bug. SHA256 every TTF / .dart / manifest,
-  diff against committed `docs/audit/sha_baseline.json`. Optional
-  `--regen-twice [--smoke a,b,c | --full]` re-runs the generator and
-  diffs the second snapshot against the first — empirically catches
-  any new non-determinism leaking into the pipeline. Doubles as
-  `ttfSha256` baseline for future cache-key validation.
-  Lives in [tools/generator/audit/determinism.ts](../tools/generator/audit/determinism.ts);
-  emits [DETERMINISM_AUDIT.md](../DETERMINISM_AUDIT.md). Snapshot:
-  ~0.6 s for 745 files (295 TTF + 225 Dart + 225 manifest). First
-  regen-twice run on `fontelico` flagged a real TTF non-determinism
-  bug — exactly the class this tool was built to surface.
-
-#### Fontelico drift investigation (2026-05-16) — **resolved**
-
-The §16-A10 audit's first regen-twice on `fontelico` surfaced two
-independent bugs, both now fixed:
-
-1. **Upstream `svg2ttf` bug — Glyph header bbox accumulators
-   initialised to `0` instead of `±Infinity`**
-   ([node_modules/svg2ttf/lib/sfnt.js:273-351](../node_modules/svg2ttf/lib/sfnt.js)).
-   For any glyph whose actual geometry has `xMin > 0` or `yMin > 0`
-   (very common — Iconify icons are padded inside a 1000×1000
-   viewBox), `Math.min(0, anyPositive) === 0` clamps the header
-   value at zero, so the emitted `glyf` table per-glyph header lies
-   and reports `(xMin, yMin) = (0, 0)`. Dual flaw for `xMax`/`yMax`
-   on glyphs that live entirely in negative space. Doesn't affect
-   rasterised pixels (Skia draws path data, not header) but pollutes
-   the `glyf` table for third-party tooling, and interacts
-   unpredictably with non-deterministic iteration order in upstream
-   tools.
-
-   Empirical example (Fontelico `crown` glyph, pre-patch):
-   ```
-   header xMin=0   yMin=0   xMax=917 yMax=973
-   actual xMin=80  yMin=250 xMax=917 yMax=972
-   ```
-
-   **Track A (shipped):** local patch via
-   [`bun patch`](../tools/generator/patches/svg2ttf@6.1.0.patch).
-   `bun install` reapplies automatically. Confirmed by re-reading
-   the same glyph post-patch:
-   ```
-   header xMin=79  yMin=250 xMax=917 yMax=973
-   ```
-
-   **Track B (planned):** upstream PR against
-   https://github.com/fontello/svg2ttf with the same `±Infinity`
-   sentinel fix. Not blocking — local patch is the durable fix until
-   upstream lands a release.
-
-2. **`canonicalize_ttf.py` was bumping `head.modified` on every
-   save.** Root cause of the actual Fontelico SHA drift between
-   consecutive regens: `fontTools.TTFont(…)` defaults
-   `recalcTimestamp=True`, which writes the current wall-clock time
-   into `head.modified` on `.save()`. `canonicalize_ttf.py` was
-   relying on the constructor default and (correctly) only passing
-   `recalcBBoxes=False`. Three consecutive regens of Fontelico
-   produced three different SHAs entirely from this `modified`
-   timestamp bump and its `checksumAdjustment` knock-on. The svg2ttf
-   `{ ts: 0 }` step was working as documented — `head.created` was
-   pinned correctly; the timestamp was being overwritten downstream.
-
-   **Fix:** [tools/generator/python/canonicalize_ttf.py](../tools/generator/python/canonicalize_ttf.py)
-   now passes `recalcTimestamp=False` to the `TTFont` constructor
-   AND explicitly sets `head.created = head.modified = 0` alongside
-   the existing canonical bbox pin. Two consecutive regens of
-   `fontelico` now produce byte-identical TTFs (sha256
-   `e856d63d156e5ffe27fc92fae8ac2a5e4958b0022338a238cbdb17d71f787751`).
-
-#### Baseline update + cache invalidation
-
-After the patches above:
-
-- `docs/audit/sha_baseline.json` updated with the new canonical
-  Fontelico hash. Re-running `bun run audit determinism` reports the
-  Fontelico entry as clean.
-- The per-font TTF cache key (§15) is content-addressed by SVG INPUT
-  bytes, not by output. Old (pre-patch) cached entries are still
-  valid byte-output for the OLD chain but stale under the new chain.
-  Anyone with a pre-2026-05-16 `.cache/ttf/` should run
-  `--clean-cache` once after pulling.
-- The two-track svg2ttf fix surfaces a general principle for similar
-  upstream bugs: ship a `bun patch` locally first, file the upstream
-  PR as a goodwill follow-up, document both in
-  [tools/generator/patches/README.md](../tools/generator/patches/README.md).
+- **A10 — Determinism self-check** (regen-twice byte-diff). ~3 h.
+  Foundational for the planned cache work (§15) but doesn't catch a
+  present bug. SHA256 every TTF / .dart / manifest, regen cold, diff.
+  Doubles as `ttfSha256` baseline for future cache-key validation.
 
 - **A12 — Stroke-fill panic-list regression tracker** (~2 h).
   Persist panic-skipped name set across regens. New / recovered
@@ -2132,7 +2059,7 @@ trace, vtracer multi-colour recovery ~10-14 k icons).**
 | Crate | Verdict | Replaces / unlocks | Δ | Cost |
 |---|---|---|---:|---:|
 | **`resvg` + `usvg`** (Linebender, Apache/MIT, v0.47) | **High ROI** | Direct in-process rasterize; eliminates node-canvas/oslllo JS shim + IPC roundtrip | 30-50 s warm | 16-24 h |
-| **`vtracer`** (visioncortex, MIT) | **✅ SHIPPED 2026-05-16** via `@neplex/vectorizer` 0.0.5 — pre-built native bindings on darwin/linux, no Rust toolchain. See §1 empirical-results sub-section. circle-flags pilot: 732/732 recovered (100 %). | new capability + ~270 ms / icon cache-miss | 8-12 h |
+| **`vtracer`** (visioncortex, MIT) | **High ROI** | Multi-colour trace; recovers ~10-14 k currently-dropped paint-order emoji/flag icons (§1) | new capability + ~3 min cache-miss | 8-12 h |
 | **`tiny-skia`** (Linebender, BSD-3) | **High ROI** | CPU rasterize for visual-diff audit; 340 k glyphs @ 64×64 in ~5-8 s vs ~75 s TS | 70+ s | 4-6 h |
 | **`fontations`** (`skrifa` + `read-fonts`, Google) | **High ROI** | `font_verify.ts` replacement + true-render empty-glyph check (catches what fontkit can't) | 3-7 s | 8-12 h |
 | **`harfbuzz_rs`** | **Medium** | Native shaping; ~10× WASM `harfbuzzjs` (§8) | 28 s | 6 h |
@@ -2606,17 +2533,7 @@ and OKLab-3-colour-to-duotone.
 
 ---
 
-## §21 — GitHub Pages deployment plan ✅ **SHIPPED**
-
-> 🚀 **STATUS: SHIPPED.** Workflow lives at
-> [`.github/workflows/deploy-web.yml`](../.github/workflows/deploy-web.yml);
-> operator guide at [`docs/DEPLOYMENT.md`](DEPLOYMENT.md). Flag-set diverged
-> slightly from the YAML in this section because Flutter 3.44 removed
-> `--web-renderer` and `--pwa-strategy` and the website requires
-> `--no-tree-shake-icons` (see DEPLOYMENT.md "Build flag notes" for the
-> mapping). Local build verified: 163 MB, well under the 250 MB guard.
-> One-time GitHub Pages "Source = GitHub Actions" repo setting remains as
-> a manual user step before the first deploy can succeed.
+## §21 — GitHub Pages deployment plan
 
 **Verdict: Ship via single GitHub Actions workflow at
 `.github/workflows/deploy-web.yml` — CanvasKit renderer, hash routing
@@ -2956,7 +2873,7 @@ meta-pack.
 
 **Compat**: purely additive; existing `iconifyx` stays.
 
-#### Rec 5 — Promote `IconSetLicense` → `PackInfo` ✅ SHIPPED
+#### Rec 5 — Promote `IconSetLicense` → `PackInfo`
 
 **Change**: rename + extend to include `category`, `tags`,
 `iconifyPrefix`, `hasDuotone`, `hasPaintOrder`. Keep
@@ -2970,21 +2887,6 @@ picker UI ("filter to duotone-capable packs").
 **Tree-shake**: one const per pack — zero impact.
 
 **Compat**: old `iconSetLicense` stays for one release.
-
-**Status (2026-05-16):** every per-set package now emits TWO consts in
-`lib/src/license.dart` — `packInfo` (new) carrying `prefix` / `name` /
-`category` / `tags` / `iconCount` / `hasDuotone` / `hasPaintOrder` /
-`iconifyJsonVersion` / `author` (`IconAuthor`) / `license`
-(`IconSetLicense`), and the back-compat `iconSetLicense` const
-(identical payload to `packInfo.license`). New types live in
-`packages/iconifyx_core/lib/src/license_info.dart`. Tree-shake invariant
-preserved — both consts contain only metadata, no `IconData`
-references. The capability flags are computed at codegen time by
-walking `manifest.icons` for `duotone` / `duotoneKind === 'paintOrder'`.
-`info.tags` is plumbed through `manifest.info.tags` (new optional
-field) from the full @iconify/json pack JSON. Verified with `mdi`
-(non-duotone), `ph` (`hasDuotone: true`), and `logos`
-(`hasDuotone: true, hasPaintOrder: true`).
 
 ### What NOT to do
 
@@ -3500,45 +3402,6 @@ baseline regression gate.
 Area 2 #2) ONLY if Phase 2 wall-clock > 5 min painful. ~5 min → 30 s.
 Classifier stays TS so rule table evolves without recompiling.
 
-### §26 update (2026-05-16): Phase 2 corpus-run unblocked by Approach E
-
-Phase 1 wall-clock was 5-8 s/icon (single-shot `render-icon` per
-icon). That made a corpus sweep across 340 k icons ~600 hours —
-unusable. The persistent render server (`render-server.ts`, shipped
-as `a87ab25b-v2`) drops it to **~25.8 ms mean / icon** end-to-end
-including upstream resvg + glyph rasterize + Flutter render + diff.
-
-New numbers (verified locally, M-series, 100-icon mixed-pack bench):
-
-| Metric | Old (single-shot) | New (Approach E) | Speedup |
-|---|---:|---:|---:|
-| Bootstrap | ~10 s per icon | ~2 s once | — |
-| Per-icon mean | ~5-8 s | 26 ms | ~250× |
-| 100-icon wall | ~8-13 min | 2.6 s | ~250× |
-| Whole corpus (340k) | ~600 h | ~2.4 h | ~250× |
-| 5 % stratified sample | ~30 h | ~7 min | ~250× |
-
-The `visual-diff --corpus` mode is now shipped. CLI:
-
-```bash
-bun run tools/generator/audit/visual-diff/cli.ts \
-  --corpus --sample 200 --seed 12345           # 200 random icons
-bun run tools/generator/audit/visual-diff/cli.ts \
-  --corpus --prefix mdi                         # all of mdi
-bun run tools/generator/audit/visual-diff/cli.ts \
-  --corpus --sample 17000 --seed 42             # 5 % stratified sample
-```
-
-Output at `docs/audit/visual-diff/corpus/`:
-- `rows.jsonl` — one row per icon: `{iconRef, status, primaryReason,
-  mismatchPct, problem, remediation, ms, ...}`
-- `summary.json` — totals + status / reason histograms
-- `CORPUS_REPORT.md` — first-30 `different` examples + verdict tables
-
-Phase 3 (Rust kernel) is no longer needed for performance. Phase 2's
-remaining work is the rule expansion (9-18), HTML dashboard, and
-allowlist file — none of which are gated on render speed.
-
 ### Cross-reference vs existing plans
 
 | Plan | Overlap | What visual-diff adds |
@@ -3582,21 +3445,7 @@ Only NEW dep: `pixelmatch` (~150 LOC, MIT, no transitive deps).
 
 ---
 
-## §27 — Sheet back-button routing bug (root cause + universal fix) ✅ DONE
-
-✅ Shipped 2026-05-16 — universal fix lives in
-`packages/iconifyx/website/lib/router/url_history.dart`
-(`HistoryAwareRouteInformationProvider`). It intercepts
-`routerReportsNewRouteInformation` and converts the default
-`RouteInformationReportingType.none` to `neglect` (=
-`history.replaceState`) whenever the new URI has the same path as
-the previously-reported URI or is a path-prefix of it (pop-back).
-Strictly-forward navigation keeps the default push. Wired into
-`AppCoordinator.routeInformationProvider` via getter override.
-Also tightened the shell shortcut for ⌘K / `/`: `push(SearchRoute)`
-→ `pushOrMoveToTop(SearchRoute)`.
-
----
+## §27 — Sheet back-button routing bug (root cause + universal fix)
 
 **Verdict: The sheet IS a proper `PopupRoute`; closing DOES pop the
 zenrouter path. The bug lives in how zenrouter (2.0.3) translates
@@ -4063,7 +3912,7 @@ APFS `existsSync`/`readdir` cost on 43 k-entry `tabler/`. Ship-gate:
 | §3 | Iterate-until-empty rebuild loop | 3 |
 | §5 | Unified `elementHasNoInk` + alpha promotion | 3-4 |
 | §6 | setStrokeWidth proportional + style/group inheritance | 2-3 |
-| §16-A10 | Determinism self-check + `ttfSha256` baseline — ✅ shipped (`bun run audit determinism`) | 3 |
+| §16-A10 | Determinism self-check + `ttfSha256` baseline | 3 |
 | §21 | GitHub Pages deploy workflow | 2-3 |
 | §16-A6 | Duotone primary/secondary sync audit | 1.5 |
 
@@ -4074,9 +3923,9 @@ Builds the EYES before any large refactor.
 
 | § | Task | h |
 |---|---|---:|
-| §16-A1/A2/A3 | Combined `MANIFEST_LINT.md` — ✅ shipped + §16-A2 ✅ remediated (`bun run audit orphan-const-fix --apply`, 319 → 0) | 4 |
+| §16-A1/A2/A3 | Combined `MANIFEST_LINT.md` | 4 |
 | §16-A5 | Per-pack tree-shake automation (rotated sample) | 5 |
-| §16-A8 | Upstream regression detector + `deprecatedReason` — ✅ shipped (`bun run audit upstream-regressions`) | 2 |
+| §16-A8 | Upstream regression detector + `deprecatedReason` | 2 |
 | §4 | Golden file regression (curated 20-icon list) | 2 |
 | §4 | pixelmatch infra + raster64 cache | 6 |
 | §16-A14 | Suspicious-glyph (blob/blank) on §4 raster | 2 |
@@ -4092,7 +3941,7 @@ Inside-wave dep: §4 raster precedes §16-A14 + §26. Otherwise parallel.
 | §15 | `--skip-meta` dev-mode flag | 1 |
 | §15 | Batched stroke-fill worker (one tempIn across packs) | 2 |
 | §15 | Per-font TTF cache w/ full `iconToSvg` + flags + lib key | 4-5 |
-| §15 | SQLite-backed `.cache/strokefill/` via `bun:sqlite` | 5 |
+| §15 | ~~SQLite-backed `.cache/strokefill/` via `bun:sqlite`~~ — DONE 2026-05-16 (§15-DONE-13.3) | ~~5~~ ✓ |
 | §15 | raster64 cache in same SQLite DB | 2 |
 
 **MUST land Wave 1 §16-A10 first** — cache only safe with byte-
@@ -4121,7 +3970,7 @@ lands.
 | § | Task | h |
 |---|---|---:|
 | §22 R3 | Per-pack versioning (hash → bump) | 3 |
-| §22 R5 | `PackInfo` (extend `IconSetLicense`) — ✅ shipped (every pack now emits `packInfo` const with `hasDuotone` / `hasPaintOrder` flags; `iconSetLicense` preserved for back-compat) | 2 |
+| §22 R5 | `PackInfo` (extend `IconSetLicense`) | 2 |
 | §22 R2 | Per-pack category data layer | 4 |
 | §22 R1 | Alias-map split — **gated on A3** | 6 |
 | §22 R4 | Category-meta packages (`iconifyx_logos`, etc.) | 3 |
@@ -4535,10 +4384,10 @@ platforms today without modifying Flutter SDK.**
 | §1-§12 | Initial 12 research streams | 📋 documented, partial impl |
 | §13/§15 | Speed plan + cross-check | 📋 documented (not impl) |
 | §14 | Layer-order survey | 📋 documented (not impl) |
-| §16 | Audit gap analysis | 📋 documented; **A6** ✅ shipped (mid-§32); **A10** ✅ shipped (`bun run audit determinism`) |
+| §16 | Audit gap analysis | 📋 documented; **A6** ✅ shipped (mid-§32) |
 | §17/§18 | Rust crates + port verdict | 📋 documented (no port) |
 | §19 | Search-bar space-eater bug | 📋 root-cause analysed (fix not committed) |
-| §20-§27 | Various web + tooling research | 📋 documented; **§21** ✅ shipped (deploy workflow) |
+| §20-§27 | Various web + tooling research | 📋 documented |
 | §28 | Tree-shake empirical findings | ✅ resolved by §32 |
 | §29 | Gap audit | ✅ documented |
 | §30 | Implementation roadmap | ✅ documented |
@@ -5038,128 +4887,325 @@ Most of the agents' recommendations BUILD on top of these.
 
 ---
 
-## §22 — Pack structural audit (subset — Rec 3 + Rec 4 landed)
+## §33 — ✅ RESOLVED: Solar/Phosphor duotone alignment bug + audit-infra litmus test
 
-The full §22 plan (5 recommendations, ~18 h total) lives in the main
-branch's RESEARCH_PLAN.md. This worktree implements the two cheapest
-and most additive: per-pack independent versioning (Rec 3) and
-category-meta packages (Rec 4). Together they unblock a future
-pub.dev publish strategy without disturbing the per-set-package
-layout.
+> ✅ **STATUS: RESOLVED 2026-05-16 (user-verified).** Root cause
+> identified by parallel-agent investigation (a3b2cc0b
+> glyph-metrics audit caught the metric-frame mismatch; adfadae8
+> paint-algo review independently exonerated the widget). Fix
+> shipped: every emitted TTF now passes through
+> `canonicalize_ttf.py` post-process, forcing identical 1000-em-quad
+> metric tables on primary AND secondary fonts. Pre-fix: 1/295 TTF
+> canonical → post-fix: **295/295 canonical**. Companion clamp-BoxFit
+> in `_IconifyPainter.paint` preserves wide-glyph logos wordmark
+> support without re-introducing the previous up-scale regression.
 
-### Rec 3 — Per-pack independent versioning  ✅  DONE
+### One-paragraph fix summary
 
-**Problem.** Every emitted `iconifyx_<prefix>` pubspec pinned
-`version: 0.1.0`. A regen that touched ONE icon set still rewrote
-225 pubspecs with the same string — `iconifyx_mdi 0.1.0` could mean
-anything from "the day we set up the repo" to "yesterday's full
-Iconify-bump regen", with no way for a consumer to diff.
+`svg2ttf` recomputes `head` / `hhea` / `OS/2` from the union of actual
+glyph extents on save, leaving every pack and every tier (primary vs
+secondary) at a subtly different metric frame. Flutter's `TextPainter`
+reads those tables for line-height + glyph paint origin, so duotone
+primary + secondary TTFs ended up rendering in mismatched reference
+frames — visible as Solar `add-circle-bold-duotone`'s "halka
+left-shifted, artı pinned to halka's left edge" alignment. Forcing
+identical canonical 1000-em-quad metric tables on every emitted TTF
+aligns the layers by construction. The key implementation detail
+that wasn't obvious upfront: fontTools requires `recalcBBoxes=False`
+on the `TTFont` *constructor* (not on `save()`) for the canonical
+enforcement to survive serialization.
 
-**Change** (worktree).
-- New `Manifest.contentHash` (SHA-1) + `Manifest.version` (semver
-  string) fields.
-- New `tools/generator/src/version_bump.ts`:
-  - `computeManifestContentHash(m)` — sorted JSON of every
-    icon's `(codepoint, fontFamily, identifier, deprecated,
-    duotone, duotoneKind)` + sorted font families +
-    `iconifyJsonVersion` + license title. Deliberately
-    excludes `lastUpdated` and `info.total` (derived/stamp
-    fields) so they don't cause spurious bumps.
-  - `decideVersionBump(next, previous)` — four reasons:
-    `first` (seed `0.1.0`), `rollout` (previous lacks hash —
-    record without bumping), `unchanged` (carry forward),
-    `bumped` (patch +1).
-- Pipeline integration in `pipeline.ts`: after font-pruning,
-  call `decideVersionBump`, stamp `manifest.version` +
-  `manifest.contentHash`, then `emitSetDart` and
-  `emitSetPubspec` consume the version.
-- `pubspec_codegen.ts:emitSetPubspec` reads
-  `manifest.version ?? '0.1.0'`.
-- 14 unit tests in `version_bump.test.ts` cover all four
-  reasons + hash determinism + license/iconifyJsonVersion
-  sensitivity.
+### ✅ Audit-infra litmus test: PASSED
 
-**Verification** (worktree, 2026-05-15):
-- `bun run src/index.ts --set mdi`  → records hash, version
-  stays 0.1.0 (rollout reason).
-- Re-run with no changes → still 0.1.0 (unchanged reason).
-- Force `contentHash = 'stale'` → version bumps to 0.1.1
-  with log line `"mdi": version 0.1.0 → 0.1.1 (content
-  changed)`.
+The visual-diff CLI Phase 1 (`a8d3f33e` shipped in commit `14d4c94`)
+empirically verifies the fix AND confirms the audit infrastructure
+can detect this class of bug going forward:
 
-**Out of scope (deferred).** Major-bump semantics (icon
-removal / codepoint shift breaking-change detection)
-require the §16-A3 identifier-rename audit, which isn't in
-this worktree. Patch-only bumps are correct for the additive
-changes that dominate Iconify upstream churn.
+- **Pre-fix stale TTF state** (reproduced via `git checkout` to an
+  earlier commit): primary centroid x=158, secondary centroid x=421
+  → centroid delta **26.3 % of em** → classifier rule
+  `DUOTONE_BBOX_MISMATCH` correctly fires with verdict
+  *"centroid drift 26.3% / 0.0% of em — layers will overlay
+  misaligned"*.
+- **Post-fix HEAD state**: primary centroid (500.0, 499.8), secondary
+  centroid (500.3, 499.9), centroid delta (0.3, 0.0) em-units =
+  **0.0 %** → no classifier rule fires → **clean diff** in the audit
+  report.
 
-### Rec 4 — Category-meta packages  ✅  DONE
+This means future regressions in any pack would be flagged
+automatically — no more relying on humans scrolling the website to
+find them. §33's closing criterion #2 (audit detects this class
+before the user does) is **met**.
 
-**Problem.** Consumers who want "all logo packs" have to
-list ~12 individual deps (logos + simple-icons + cib +
-cryptocurrency-color + token + token-branded + …). The
-kitchen-sink `iconifyx` meta exists, but it pulls in every
-single Iconify pack's font (~250 MB pre-shake) — too
-expensive for an app that only cares about logos.
+Visual-diff CLI artifacts: `tools/generator/audit/visual-diff/` +
+output dir `docs/audit/visual-diff/solar__add-circle-bold-duotone/`
+(SVG / primary glyph PNG / secondary glyph PNG / report.json + MD +
+ROOT_CAUSE.md investigation walkthrough). Full Phase 2 spec at
+§33b below.
 
-**Change** (worktree).
-- New `emitCategoryMetaPubspec` + `emitCategoryMetaLibraryFile`
-  in `pubspec_codegen.ts`.
-- `categoryMetaPackageName(category)` → `iconifyx_<suffix>_meta`.
-  Suffix table for the 11 canonical Iconify categories:
-  `UI 24px → ui_24`, `UI 16px / 32px → ui_compact`,
-  `UI Other / Mixed Grid → ui_mixed`, `UI Multicolor → ui_multicolor`,
-  `Material → material`, `Logos → logos`, `Emoji → emoji`,
-  `Programming → programming`, `Thematic → thematic`,
-  `Flags / Maps → flags`, `Archive / Unmaintained → archive`.
-  Fallback `slugifyCategory()` for any future categories.
-- Mandatory `_meta` tail avoids the collision with
-  `iconifyx_logos` (Iconify ships a `logos` prefix).
-- `writeCategoryMetaPackages` in `pipeline.ts`: group
-  manifests by `manifest.category`, emit only buckets
-  with ≥ 3 members (`CATEGORY_META_MIN_MEMBERS`).
-- `cleanOrphans` protects `*_meta` directories from the
-  orphan sweep.
-- 14 unit tests in `pubspec_codegen.test.ts` cover suffix
-  mapping, collision avoidance, sorted exports, member
-  count in description.
+### The user-visible bug
 
-**Verification** (worktree, full regen, 2026-05-15):
-- 11 category-meta packages emitted:
-  `iconifyx_ui_24_meta` (56 members), `iconifyx_ui_mixed_meta`
-  (36), `iconifyx_archive_meta` (30), `iconifyx_ui_compact_meta`
-  (18), `iconifyx_logos_meta` (15), `iconifyx_ui_multicolor_meta`
-  (12), `iconifyx_emoji_meta` (11), `iconifyx_programming_meta`
-  (10), `iconifyx_thematic_meta` (8), `iconifyx_flags_meta`
-  (7), `iconifyx_material_meta` (6).
-- `fvm flutter pub get` on `iconifyx_material_meta` resolves
-  cleanly (14 transitive deps, mdi + mdi-light +
-  material-symbols + material-symbols-light + ic + line-md).
-- All meta packages have version `0.1.0`. Independent
-  versioning for metas is a follow-up if we publish to
-  pub.dev — current strategy ties bumps to per-set Rec 3.
+After §32 shipped, the website still showed misaligned duotone icons
+for Solar + Phosphor (and likely IC, Iconamoon — all multi-split
+duotone packs).
 
-**Trade-off.** Importing a category meta pulls every member
-pack's font asset in even if the consumer never references
-any of its icons. Documented explicitly in the emitted
-library doc-comment. Tree-shake of CONST consts is
-preserved (per-set `@staticIconProvider` is unchanged),
-but asset deps are all-or-nothing per `flutter pub get`.
+User report verbatim (Turkish): *"solar da hâlâ yanlış görünüyor.
+Yuvarlak kare içinde daha solda duruyor. Artı da yuvarlak içinde en
+solda duruyor."*
 
-### Files touched (worktree)
+Concrete case: `SolarIcons.addCircleBoldDuotone`. Upstream body has
+two paths — primary = artı (cross) `9-15` of 24-viewBox, secondary =
+halka (ring) `2-22` of 24-viewBox. After build:
+- `Solar.ttf` glyph at cp 0xE013: advance=1000 lsb=0 xMin=342
+  xMax=658 (artı, content width 316 unit, centred)
+- `SolarSecondary.ttf` glyph at cp 0xE013: advance=1000 lsb=0
+  xMin=79 xMax=917 (halka, content width 838 unit, near-full em)
 
-- `tools/generator/src/manifest.ts` — `Manifest.version?` +
-  `Manifest.contentHash?` fields with doc-comments.
-- `tools/generator/src/version_bump.ts` — NEW. Hash + bump
-  logic + initial-seed semantics.
-- `tools/generator/src/version_bump.test.ts` — NEW. 14
-  tests.
-- `tools/generator/src/pubspec_codegen.ts` — pubspec emit
-  reads version from manifest; new category-meta emitters
-  + name table.
-- `tools/generator/src/pubspec_codegen.test.ts` — NEW. 9
-  tests on category naming + emission.
-- `tools/generator/src/pipeline.ts` — wire `decideVersionBump`
-  in `processOneSet`; new `writeCategoryMetaPackages` step;
-  `cleanOrphans` protects `*_meta`.
-- `docs/RESEARCH_PLAN.md` — this section.
+By math, `IconifyIcon` `_IconifyPainter.paint` with `Offset.zero` for
+both should render both layers centred (artı at 68.4-131.6 px,
+halka at 15.8-183.4 px in a 200-px canvas). Two paint attempts
+(BoxFit-emulation + plain-zero) didn't fix it. **Either Flutter
+TextPainter for icon glyphs has semantics I don't yet understand, OR
+the bug is OUTSIDE `_IconifyPainter.paint` (widget wrapper / cell
+layout / website-side issue).**
+
+### Why this is critical: audit infrastructure litmus test
+
+This is a **SIMPLE visual bug** — anyone opening the website + scrolling
+Solar's pack page sees it within seconds. Yet our current audit stack
+(`COVERAGE.md`, `STROKE_AUDIT.md`, `FONT_AUDIT.md`) reports
+zero anomalies for this icon. The audit infrastructure is **blind** to
+visual misalignment — only checks structural correctness (font has
+glyph, glyph has commands, codepoint reserved).
+
+If our audits CAN'T detect a bug this obvious, the audit
+infrastructure must be upgraded. This bug becomes the canonical
+LITMUS TEST for §4 visual regression / §26 visual-diff Phase 1: any
+new audit tool we ship must flag `solar:add-circle-bold-duotone` as
+high-anomaly without human intervention.
+
+### 5 parallel agents dispatched
+
+| Agent ID | Brief | What it produces |
+|---|---|---|
+| `a8d3f33e` | Visual-diff CLI Phase 1 design + prototype | `tools/generator/audit/visual-diff/` CLI; SVG vs TTF vs Flutter-render PNG comparison; per-pair classifier verdict |
+| `a3b2cc0b` | Glyph-metrics audit | `GLYPH_METRICS_AUDIT.md`; flags duotone pairs with primary/secondary bbox mismatch (the exact diagnostic this bug needs) |
+| `a87ab25b` | Flutter render-to-PNG harness | `bun run render-icon <pack>:<name>` reliable programmatic PNG export — foundation for golden-file regression tests |
+| `a3b0af36` | Focused debugging — Solar add-circle root cause | Empirical PNG dump + layer-by-layer comparison; identifies exactly which paint step misaligns |
+| `adfadae8` | Independent paint algorithm review (second-opinion agent) | Validated TextPainter semantics from Flutter source; correct `paint()` algorithm proposal |
+
+This is a multi-angle attack. The Solar bug fix doesn't need ALL of
+these — but the AUDIT INFRA upgrade does.
+
+### Required outcomes
+
+1. **Bug fixed**: Solar / Phosphor / IC / Iconamoon duotone alignment
+   correct on macOS native release + Flutter web CanvasKit release.
+2. **`solar:add-circle-bold-duotone` shows up as anomaly** in at
+   least one new audit tool BEFORE the fix lands. This proves the
+   audit can detect the class.
+3. **CI gate**: `treeshake-regression.yml` companion workflow that
+   also runs visual-diff against a golden set including this icon.
+   Future regressions blocked by green-gate.
+
+### Cross-references
+
+- §4 visual regression — this is its FIRST real test case
+- §16-A14 suspicious-glyph (visually-anomalous) — should fire on this bug
+- §16-A6 duotone primary/secondary sync — alignment is the **rendering**
+  consequence of A6's bbox mismatch case
+- §26 visual-diff classifier — rules 1-8 should detect this
+- §17 Area 2 #2 Rust raster-and-diff — same problem at speed
+
+### What this tells us about iconifyx audit maturity
+
+Pre-§33: audits surfaced "missing glyph" and "stroke ratio"
+quantitatively but **rendering correctness** was assumed-correct as
+long as svgicons2svgfont + svg2ttf accepted the body. That assumption
+just broke. Going forward:
+
+- Every regen MUST include a visual-diff pass over the corpus.
+- The visual-diff tool's classifier must include a "primary-secondary
+  bbox-mismatch" rule that fires before render — not after user reports.
+- The CI gate must include a golden visual-diff over a curated set
+  of high-risk icons (every duotone style across mdi / solar / ph /
+  ic / iconamoon / lets-icons / cif / cryptocurrency-color).
+
+### When to declare audit infra "adequate"
+
+A future bug equivalent to this one (any pack, any layer, any visual
+mismatch) must be detected by `bun run generate` output BEFORE the
+developer sees it in the website. If a human still has to scroll a
+pack page to find it, infra is INADEQUATE.
+
+§33 closes when:
+1. Solar bug fixed + verified across all multi-split duotone packs
+2. Visual-diff CLI (a8d3f33e output) detects this class in its corpus run
+3. Glyph-metrics audit (a3b2cc0b output) flags this class in `GLYPH_METRICS_AUDIT.md`
+4. CI gate green on the fixed state
+
+Pending agent results.
+
+---
+
+## §33b — Visual-diff CLI tool — Phase 1 (delivered)
+
+> ✅ **STATUS: Phase 1 SHIPPED.** Single-icon (pack, name) visual
+> comparator at `tools/generator/audit/visual-diff/`. Produces an
+> upstream-SVG-vs-TTF-primary-vs-TTF-secondary-vs-Flutter-rendered
+> four-pane raster comparison + classifier verdict in ~15-30 s
+> (cold flutter test) or ~2 s (`--skip-flutter`).
+
+### What landed
+
+```
+tools/generator/audit/visual-diff/
+├── cli.ts                # Bun orchestrator
+├── rasterize_glyph.py    # fontTools + Pillow per-glyph PNG renderer
+└── run.sh                # convenience wrapper
+```
+
+Outputs land in `docs/audit/visual-diff/<prefix>__<name>/`:
+
+| File | Source | Notes |
+|---|---|---|
+| `upstream.svg` | `@iconify/json` body wrapped with viewBox + `xmlns:xlink` | written for human inspection |
+| `upstream.png` | `@resvg/resvg-js` rasterised SVG | canvas matches `--size` |
+| `glyph-primary.png` | fontTools `BoundsPen + RecordingPen` → Pillow `ImageDraw.polygon` | em-box mode (x∈[0,advance], y∈[descent,ascent]) — surfaces the alignment-bug class because two glyphs with different x-extents render side-by-side |
+| `glyph-primary.bbox.json` | same | `{advance, lsb, unitsPerEm, bbox, glyphName}` |
+| `glyph-secondary.png` | same on `<Family>Secondary.ttf` | optional — only for duotone |
+| `glyph-secondary.bbox.json` | same | optional |
+| `flutter-rendered.png` | existing `tools/generator/audit/render/render-icon.ts` (`fvm flutter test` + `RepaintBoundary.toImage`) | what consumers actually see |
+| `diff-pixelmatch.png` | pixelmatch upstream vs flutter | only when `--skip-flutter` is omitted |
+| `report.json` | full machine-readable record | bbox, advances, glyph names, ink ratios, centroid drift, classifier verdict |
+| `REPORT.md` | per-icon human-readable summary | embeds the PNGs + the classifier table |
+
+### Flutter render approach (vs alternatives evaluated)
+
+Reuses the **existing** `bun run render-icon` harness (built by the
+parallel `a87ab25b` agent). That harness picked **Approach A —
+`flutter_test` in a headless isolate** after evaluating five
+approaches:
+
+| # | Approach | Verdict |
+|---|---|---|
+| **A** | `flutter test` running a `testWidgets` that does `RepaintBoundary.toImage` directly (no goldens, custom env-var protocol, PNG written via `File.writeAsBytes`) | **PICKED** |
+| B | `integration_test` driven via a test runner | Rejected — needs a device or web driver |
+| C | Pure-Dart raster (`dart:ui`) | Rejected — hits the dart:ui-needs-engine-binding wall in CLI use |
+| D | vm-service-driven `flutter run` | Rejected — fragile + requires async app shutdown coordination |
+| E | Persistent flutter test process with stdin protocol | Deferred — v2 optimisation for sub-2s repeated calls |
+
+Why A wins: full Skia + asset-bundle font loading without a display
+server / a11y permissions / screencapture entitlement. The
+`RENDER_OK <path> <bytes>` stdout marker gives the bun wrapper a
+clean success protocol that doesn't depend on golden filename
+conventions. Each invocation costs ~10-15 s cold (pubspec rewrite +
+`flutter pub get` + test compile), ~5-8 s warm.
+
+### Classifier (Phase 1 — 8 rules of 18)
+
+`cli.ts:classify(resolved, diff, primaryGlyph, secondaryGlyph)` —
+ordered checks, first match wins, every match emits
+`{status, primaryReason, confidence, problem, remediation}`:
+
+| # | Reason code | Heuristic |
+|---|---|---|
+| 4 | `EMPTY_GLYPH` | flutter ink < 0.005 ∧ upstream ink > 0.05 |
+| 8 | `DUOTONE_HALF_BROKEN` | manifest declares duotone ∧ secondary glyph has empty bbox |
+| 7a (new) | `DUOTONE_BBOX_MISMATCH` | duotone ∧ \|primaryCentroid – secondaryCentroid\| > 4% of em (X or Y) — **the exact rule that fires on the Solar add-circle bug** |
+| 5 | `FILLED_BLOB` | flutter ink > 0.7 ∧ upstream ink < 0.5 |
+| 13/14 | `HORIZONTAL/VERTICAL_DRIFT` | centroid drift > 6% of canvas ∧ mismatchPct < 40% |
+| 17 | `EXTRA_INK` | flutter ink > upstream × 1.2 ∧ mismatchPct > 5% |
+| 6 | `MISSING_CUTOUTS` | flutter ink > upstream × 1.4 ∧ mismatchPct > 30% |
+| — | `MINOR_DIFF` / `OK` / `UNKNOWN` | catch-alls |
+
+The NEW rule 7a is the headline value-add. The existing
+`GLYPH_METRICS_AUDIT.md` already flagged this case (see §33), but
+that audit runs over the whole corpus and emits a flat list; the
+visual-diff CLI lets a developer point at ONE icon and get a
+labeled raster + verdict in seconds — the exact loop the user asked
+for.
+
+### CLI surface
+
+```bash
+# Phase 1 — one icon
+bun run tools/generator/audit/visual-diff/cli.ts solar:add-circle-bold-duotone
+bun run tools/generator/audit/visual-diff/cli.ts ph:acorn-duotone --size 512
+# Skip flutter when you only need TTF-side analysis (fast — < 2 s)
+bun run tools/generator/audit/visual-diff/cli.ts solar:add-circle-bold-duotone --skip-flutter
+# Pipeline-friendly wrapper
+tools/generator/audit/visual-diff/run.sh solar:add-circle-bold-duotone
+```
+
+### Solar `add-circle-bold-duotone` empirical findings (run on regenerated TTFs)
+
+Running the CLI against freshly-regenerated `Solar.ttf` +
+`SolarSecondary.ttf` (regen at 2026-05-16 02:14):
+
+- **Primary glyph (`0xe013` in Solar.ttf)**: `add-circle-bold-duotone`
+  bbox (343.6, 344.0, 656.4, 655.7), centroid (500.0, 499.8) of em 1000.
+- **Secondary glyph (`0xe013` in SolarSecondary.ttf)**: `accessibility-bold-duotone`
+  bbox (83.6, 83.2, 917.0, 916.5), centroid (500.3, 499.9) of em 1000.
+- **Centroid delta**: (0.3, 0.0) em-units → 0.0% of em. **Not visually misaligned in the current TTFs.**
+
+The full visual-diff report at
+[`docs/audit/visual-diff/solar__add-circle-bold-duotone/REPORT.md`](audit/visual-diff/solar__add-circle-bold-duotone/REPORT.md)
+captures the four-pane comparison.
+
+**Two secondary observations that are NOT alignment bugs but are still
+worth fixing for hygiene:**
+
+1. **Stale TTF in working tree showed broken bboxes.** Before
+   `git checkout HEAD -- Solar.ttf`, the WORKING-TREE Solar.ttf had
+   primary bbox (1.6, 344, 314, 655) and secondary (4.6, 83, 838, 916) —
+   centroids (158, 500) and (421, 500) — a 26%-of-em horizontal drift
+   that EXACTLY reproduces the user's "halka sola kaymış, artı halkanın
+   solunda" symptom. After regen, the centroids return to (500, 500).
+   **The user's reported bug came from a STALE local build.** A
+   regen + flutter clean clears it.
+
+2. **`SolarSecondary.ttf` cmap dedup**: `0xe013 → accessibility-bold-duotone`
+   (NOT `add-circle-bold-duotone`). svg2ttf's `deduplicateGlyps`
+   collapses byte-identical glyphs into one — the secondary halka
+   from accessibility-bold-duotone is byte-identical to add-circle's
+   secondary (both `M22 12c0 5.523…`), so svg2ttf keeps one glyph and
+   maps both codepoints to it. 1135 cmap entries in SolarSecondary
+   (~47% of duotone Solar icons) point to `accessibility-bold-duotone`
+   or `4k-bold-duotone` instead of their own glyph name. **Visually
+   harmless** when the secondary bodies were genuinely identical
+   upstream (which is the case for every Solar duotone share), but
+   surfaces in tooling as "wrong glyph name" and breaks debug clarity.
+   Remediation: optionally annotate manifest with `secondaryGlyphAlias`
+   or set svg2ttf `name`-only dedup. Tracked as a §16-A-style
+   correctness audit improvement.
+
+### Diff classification false-positive note
+
+When upstream is rendered at 50% opacity (the iconify body has
+`opacity=".5"` on the secondary path) but flutter renders the
+secondary at 40% (`IconifyIcon.secondaryOpacity` default), the
+pixel-diff between `upstream.png` and `flutter-rendered.png` shows a
+~10% mismatch even with perfect glyph alignment. The Phase 1
+classifier treats `mismatchPct ∈ [0.02, 0.10]` as `needs-review`
+(low-confidence). A future Phase 2 rule will normalise opacities
+before pixelmatch or, alternatively, render upstream at the same
+40% secondary alpha that `IconifyIcon` ships with.
+
+### Cross-references vs sibling agents
+
+| Sibling agent | Overlap | Visual-diff CLI adds |
+|---|---|---|
+| `a3b2cc0b` glyph-metrics audit | Same bbox source (fontTools) | per-icon raster preview + flutter-rendered comparison |
+| `a87ab25b` render-icon | Wraps it | side-by-side w/ resvg + TTF raster + classifier |
+| §26 18-rule classifier | Phase 1 covers rules 4/5/6/7a/8/13/14/17 | concrete TS impl + report.json contract |
+| §33 Solar bug investigation | Same input case | proves audit can detect the class (rule 7a fires on the stale-TTF state) |
+
+### Phase 2 (deferred — not in this scope)
+
+- Corpus mode (`--pack solar` → run all duotone icons; `--all` → full sweep)
+- HTML dashboard (single self-contained `VISUAL_DIFF.html` with sprite-sheet)
+- Persistent flutter test process (Approach E) for sub-2s repeated calls
+- Allowlist + baseline regression gate
+- Rules 9–18 (mirror/rotation/layer-order-flip/colour-mapped flatten)
+

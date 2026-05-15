@@ -35,6 +35,13 @@ pubspec.lock
 
 # Generator output that is NOT committed:
 tools/generator/.cache/
+# (.cache/ covers both the legacy flat-file strokefill/ tree and the
+# SQLite-backed strokefill.sqlite + strokefill.sqlite-wal / -shm
+# sidecars introduced in RESEARCH_PLAN.md §15 / 13.3. Listed
+# explicitly here for searchability.)
+tools/generator/.cache/strokefill/
+tools/generator/.cache/strokefill.sqlite
+tools/generator/.cache/strokefill.sqlite-*
 tools/generator/tmp/
 
 # Local pub-get-all log dir
