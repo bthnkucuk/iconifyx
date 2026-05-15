@@ -1,0 +1,8 @@
+[project]
+name = "iconifyx-pytools"
+version = "0.0.0"
+description = "Python helpers for the iconifyx generator (fontTools-based TTF merge)."
+requires-python = ">=3.10"
+dependencies = [
+    "fonttools>=4.55.0",
+]
