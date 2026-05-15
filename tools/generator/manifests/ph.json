@@ -23,6 +23,11 @@
       "family": "Ph",
       "nextCodepoint": 63344,
       "iconCount": 9198
+    },
+    {
+      "family": "PhSecondary",
+      "nextCodepoint": 63344,
+      "iconCount": 1528
     }
   ],
   "icons": {

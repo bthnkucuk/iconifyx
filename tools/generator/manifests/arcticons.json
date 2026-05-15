@@ -23,6 +23,11 @@
       "family": "Arcticons",
       "nextCodepoint": 63344,
       "iconCount": 15099
+    },
+    {
+      "family": "ArcticonsSecondary",
+      "nextCodepoint": 63344,
+      "iconCount": 3
     }
   ],
   "icons": {

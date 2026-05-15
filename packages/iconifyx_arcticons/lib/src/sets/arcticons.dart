@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Donnnno
 /// License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-/// Icons: 15099
+/// Icons: 15099 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider

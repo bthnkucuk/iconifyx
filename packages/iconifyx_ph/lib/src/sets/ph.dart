@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Phosphor Icons
 /// License: MIT — https://github.com/phosphor-icons/core/blob/main/LICENSE
-/// Icons: 9198
+/// Icons: 9198 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider

@@ -23,6 +23,11 @@
       "family": "Tabler",
       "nextCodepoint": 63344,
       "iconCount": 25511
+    },
+    {
+      "family": "TablerSecondary",
+      "nextCodepoint": 63344,
+      "iconCount": 4
     }
   ],
   "icons": {

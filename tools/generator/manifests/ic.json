@@ -23,6 +23,11 @@
       "family": "Ic",
       "nextCodepoint": 63344,
       "iconCount": 11908
+    },
+    {
+      "family": "IcSecondary",
+      "nextCodepoint": 63344,
+      "iconCount": 1500
     }
   ],
   "icons": {

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Material Design Authors
 /// License: Apache 2.0 — https://github.com/material-icons/material-icons/blob/master/LICENSE
-/// Icons: 11908
+/// Icons: 11908 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider

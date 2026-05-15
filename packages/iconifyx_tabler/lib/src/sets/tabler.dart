@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Paweł Kuna
 /// License: MIT — https://github.com/tabler/tabler-icons/blob/master/LICENSE
-/// Icons: 25511
+/// Icons: 25511 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider

@@ -20,3 +20,6 @@ flutter:
     - family: Solar
       fonts:
         - asset: assets/fonts/Solar.ttf
+    - family: SolarSecondary
+      fonts:
+        - asset: assets/fonts/SolarSecondary.ttf

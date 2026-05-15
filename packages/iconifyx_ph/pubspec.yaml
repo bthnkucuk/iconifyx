@@ -20,3 +20,6 @@ flutter:
     - family: Ph
       fonts:
         - asset: assets/fonts/Ph.ttf
+    - family: PhSecondary
+      fonts:
+        - asset: assets/fonts/PhSecondary.ttf

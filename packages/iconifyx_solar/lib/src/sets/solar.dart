@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: 480 Design
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 7410
+/// Icons: 7410 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider

@@ -23,6 +23,11 @@
       "family": "Solar",
       "nextCodepoint": 63344,
       "iconCount": 7410
+    },
+    {
+      "family": "SolarSecondary",
+      "nextCodepoint": 63344,
+      "iconCount": 2413
     }
   ],
   "icons": {

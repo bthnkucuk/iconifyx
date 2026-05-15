@@ -422,13 +422,21 @@ export async function mergeSiblingsInManifest(
   }
 
   // Rebuild manifest.fonts: keep ONE entry per base, with total live count.
+  //
+  // `ManifestIconEntry.fontFamily` always names the PRIMARY family — the
+  // secondary side of a duotone is implicit (synthesised at codegen +
+  // runtime as `<primary>Secondary`). So a Secondary base entry's
+  // iconCount = number of duotone icons whose primary lives in the
+  // matching primary base, NOT a direct fontFamily match (no icon entry
+  // has `fontFamily: 'SolarSecondary'`).
   const newFonts: typeof manifest.fonts = [];
   for (const base of baseSet) {
+    const isSecondary = base.endsWith('Secondary');
+    const primaryBase = isSecondary ? base.slice(0, -'Secondary'.length) : base;
     let iconCount = 0;
     for (const e of Object.values(manifest.icons)) {
       if (e.deprecated) continue;
-      if (e.fontFamily !== base) continue;
-      const isSecondary = base.endsWith('Secondary');
+      if (e.fontFamily !== primaryBase) continue;
       if (isSecondary && !e.duotone) continue;
       iconCount++;
     }
