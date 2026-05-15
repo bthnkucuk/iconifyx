@@ -20,9 +20,3 @@ flutter:
     - family: Mdi
       fonts:
         - asset: assets/fonts/Mdi.ttf
-    - family: Mdi_2
-      fonts:
-        - asset: assets/fonts/Mdi_2.ttf
-    - family: Mdi_3
-      fonts:
-        - asset: assets/fonts/Mdi_3.ttf

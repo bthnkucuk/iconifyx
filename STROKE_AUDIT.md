@@ -2,20 +2,18 @@
 
 Generated 2026-05-15. For each set we sample the first 25 icons and measure two ratios: **stroke** (icons with `stroke=` and no fill) and **evenodd** (icons that rely on `fill-rule="evenodd"` for internal cutouts). Both cases need the rasterize+Potrace pre-pass (`oslllo-svg-fixer`) — otherwise stroke icons render as solid discs and evenodd icons lose their holes (the `car` / `bug` gravity-ui glyphs we initially shipped as blobs).
 
-- **Sets receiving raster pre-pass:** 1 / 225
-- **Of those, auto-detected:** 1
+- **Sets receiving raster pre-pass:** 0 / 225
+- **Of those, auto-detected:** 0
 - **Sets with ≥20% raster signal that were NOT processed:** 0
 - **Sets containing duo-tone icons:** 70 (18,114 icons across them)
 - **Sets with ≥20% paint-order risk (multi-fill bodies that would render as monochrome blobs):** 0
-- **Icons proactively dropped this run for paint-order risk:** 623
+- **Icons proactively dropped this run for paint-order risk:** 0
 
 ## Paint-order risk (multi-fill bodies)
 
 Iconify bodies that paint two or more concrete colors (e.g. a light letterform on a dark background rect, like `logos:adobe-after-effects`) cannot be losslessly translated to a monochrome TTF — the foreground shape collapses into the background fill region (same `currentColor`, non-zero winding) and the glyph renders as a featureless filled blob. Rasterize-trace does NOT fix this (Potrace traces the combined silhouette as one filled region). The pipeline now drops such icons at validation so they never appear in the Dart class. Counts below are after duotone-split + stroke-fill, so packs neutralised by the raster pre-pass report 0%.
 
-| Set | Prefix | Paint-order % | Dropped | Raster applied | Spot-check |
-|---|---|---:|---:|:---:|---|
-| SVG Logos | `logos` | 8% | 623 | — | `admob`, `aerogear`, `ai` |
+_No paint-order risk detected._
 
 ## Duotone sets (manual visual check recommended)
 
@@ -98,11 +96,9 @@ Open these sets in the example app and verify the primary / secondary layers of 
 
 Sets where the pack-level sample was below the stroke/evenodd threshold but individual icons still needed rasterize-trace. Without per-icon detection, `oui:check-in-circle-empty` shipped as a solid disc and `oui:chat-left` as a filled speech bubble (the `oui` pack sample showed only 16% evenodd, below the 20% pack threshold).
 
-- **Icons rasterize-traced via per-icon path this run:** 50
+- **Icons rasterize-traced via per-icon path this run:** 0
 
-| Set | Prefix | Icons traced | Stroke % | Evenodd % | Spot-check |
-|---|---|---:|---:|---:|---|
-| SVG Logos | `logos` | 50 | 0% | 0% | `appveyor`, `argo`, `autocode` |
+_No per-icon traces this run._
 
 ## Inverse-mask pattern (resvg-aware trace)
 
@@ -116,7 +112,6 @@ _No mask-pattern icons detected._
 
 | Set | Prefix | Stroke % | Evenodd % | Paint-order % | Per-icon | Duotone | Applied | Source |
 |---|---|---:|---:|---:|---:|---:|:---:|---|
-| Cryptocurrency Color Icons | `cryptocurrency-color` | 0% | 52% | 0% | — | 379 | ✓ | auto |
 | Material Symbols | `material-symbols` | 0% | 0% | 0% | — | — | — | none |
 | Material Symbols Light | `material-symbols-light` | 0% | 0% | 0% | — | — | — | none |
 | Google Material Icons | `ic` | 0% | 0% | 0% | — | 1,500 | — | none |
@@ -254,7 +249,7 @@ _No mask-pattern icons detected._
 | Google Cloud Icons | `gcp` | 0% | 0% | 0% | — | 42 | — | none |
 | UnJS Logos | `unjs` | 0% | 0% | 0% | — | — | — | none |
 | Simple Icons | `simple-icons` | 0% | 0% | 0% | — | — | — | none |
-| SVG Logos | `logos` | 0% | 0% | 8% | 50 | 378 | — | none |
+| SVG Logos | `logos` | 0% | 0% | 0% | — | 378 | — | none |
 | Logos free icons | `streamline-logos` | 0% | 0% | 0% | — | — | — | none |
 | CoreUI Brands | `cib` | 0% | 0% | 0% | — | — | — | none |
 | Font Awesome Brands | `fa7-brands` | 0% | 0% | 0% | — | — | — | none |
@@ -267,6 +262,7 @@ _No mask-pattern icons detected._
 | Web3 Icons | `token` | 0% | 0% | 0% | — | 10 | — | none |
 | Web3 Icons Branded | `token-branded` | 0% | 0% | 0% | — | 205 | — | none |
 | Cryptocurrency Icons | `cryptocurrency` | 0% | 0% | 0% | — | 21 | — | none |
+| Cryptocurrency Color Icons | `cryptocurrency-color` | 0% | 0% | 0% | — | 379 | — | none |
 | OpenMoji | `openmoji` | 0% | 0% | 0% | — | 1 | — | none |
 | Twitter Emoji | `twemoji` | 0% | 0% | 0% | — | 637 | — | none |
 | Noto Emoji | `noto` | 0% | 0% | 0% | — | 58 | — | none |

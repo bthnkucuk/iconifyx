@@ -57,6 +57,27 @@ export interface ManifestIconEntry {
    * carry this field at all.
    */
   duotoneKind?: 'hint' | 'paintOrder' | 'maskInternal';
+  /**
+   * Which Unicode tier the codepoint lives in: `'bmp'` (U+E000-U+F8FF,
+   * BMP PUA) or `'supp'` (U+F0000-U+10FFFF, Supplementary PUA).
+   *
+   * Introduced by the post-build font-merge step (RESEARCH_PLAN §32):
+   * when a pack has > 6000 icons (BMP PUA cap), the generator emits
+   * multiple sibling TTFs first, then merges them into ONE TTF using
+   * cmap format 12. The base sibling's icons stay at their original
+   * BMP codepoints (`tier: 'bmp'`); icons from ex-sibling TTFs get
+   * remapped to supp PUA (`tier: 'supp'`) at NEW codepoints.
+   *
+   * Omitted means `'bmp'` (back-compat default for any manifest written
+   * before §32). All single-TTF packs and the base sibling of split
+   * packs leave this field unset.
+   *
+   * NOTE: changing an icon's tier from `'bmp'` to `'supp'` (or vice
+   * versa) is a BREAKING change for consumers — codepoint changes are
+   * baked into compiled Flutter apps. The §32 migration is a one-time
+   * major version bump per affected pack.
+   */
+  tier?: 'bmp' | 'supp';
 }
 
 export interface ManifestFontEntry {

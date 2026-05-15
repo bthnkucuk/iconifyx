@@ -41,6 +41,7 @@ import {
 } from './manifest.ts';
 import { allocateCodepoints } from './codepoint_allocator.ts';
 import { buildFonts } from './font_builder.ts';
+import { mergeSiblingsInManifest, ensurePythonVenv } from './font_merger.ts';
 import { emitSetDart } from './dart_codegen.ts';
 import {
   emitSetPubspec,
@@ -143,6 +144,10 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
     loadConfig(),
   ]);
   log.info(`@iconify/json v${iconifyVersion}, ${Object.keys(collections).length} sets indexed`);
+
+  // Ensure the Python venv for §32's font-merger is available. First
+  // run creates it (~3 s); subsequent runs no-op.
+  await ensurePythonVenv();
 
   // Decide which sets to process.
   const allPrefixes = Object.keys(collections).filter(
@@ -787,12 +792,28 @@ async function processOneSet(
     if (manifest.fonts[i]!.iconCount === 0) manifest.fonts.splice(i, 1);
   }
 
+  // §32: collapse auto-split sibling TTFs (Mdi + Mdi_2 + Mdi_3) into ONE
+  // TTF with cmap format 12 (BMP + supp PUA). Eliminates the sibling-tax
+  // bundle bloat for consumers that reference any subset of icons across
+  // the pack. Empirically verified to render correctly on macOS, web
+  // CanvasKit, and iOS (RESEARCH_PLAN.md §32).
+  //
+  // Mutates `manifest` in place: ex-sibling icons get a NEW codepoint
+  // (supp PUA range) and `tier: 'supp'`; base sibling icons stay at
+  // their BMP codepoints with `tier: 'bmp'`. `manifest.fonts` is
+  // collapsed: one entry per base family (Mdi, MdiSecondary, ...).
+  //
+  // Single-TTF packs and base-only fonts (no `_2` siblings) pass
+  // through unchanged.
+  const mergeResult = await mergeSiblingsInManifest(manifest, ttfs);
+  const finalTtfs = mergeResult.ttfs;
+
   const dartSource = emitSetDart({
     manifest,
     fontPackage: setPackageName(prefix),
   });
 
-  return { prefix, manifest, ttfs, dartSource };
+  return { prefix, manifest, ttfs: finalTtfs, dartSource };
 }
 
 async function writeSetPackage(r: {
@@ -809,9 +830,22 @@ async function writeSetPackage(r: {
   await mkdir(setPackageFontsDir(prefix), { recursive: true });
   await mkdir(path.join(setPackageSrcDir(prefix), 'sets'), { recursive: true });
 
-  // Fonts
+  // Fonts. Clean out stale `.ttf` files first — after §32's sibling
+  // merge, packs that previously emitted Mdi.ttf + Mdi_2.ttf + Mdi_3.ttf
+  // now emit only Mdi.ttf, so the old siblings must be removed from
+  // disk or `flutter pub get` will complain about declared assets that
+  // are no longer in pubspec.yaml.
+  const fontsDir = setPackageFontsDir(prefix);
+  const declared = new Set([...ttfs.keys()].map((f) => `${f}.ttf`));
+  const existing = await readdir(fontsDir).catch(() => [] as string[]);
+  for (const file of existing) {
+    if (!file.endsWith('.ttf')) continue;
+    if (!declared.has(file)) {
+      await rm(path.join(fontsDir, file));
+    }
+  }
   for (const [family, ttf] of ttfs) {
-    await writeFile(path.join(setPackageFontsDir(prefix), `${family}.ttf`), ttf);
+    await writeFile(path.join(fontsDir, `${family}.ttf`), ttf);
   }
 
   // Set Dart class file
