@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Microsoft Corporation
 /// License: MIT — https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
-/// Icons: 1545
+/// Icons: 1551
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -2436,6 +2436,11 @@ class FluentEmojiHighContrastIcons {
     IconData(0xe1e3, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
   );
 
+  /// `goose`
+  static const IconifyIconData goose = IconifyIconData.solo(
+    IconData(0xe609, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
+  );
+
   /// `gorilla`
   static const IconifyIconData gorilla = IconifyIconData.solo(
     IconData(0xe1e4, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
@@ -2479,6 +2484,11 @@ class FluentEmojiHighContrastIcons {
   /// `green-square`
   static const IconifyIconData greenSquare = IconifyIconData.solo(
     IconData(0xe1ec, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
+  );
+
+  /// `grey-heart`
+  static const IconifyIconData greyHeart = IconifyIconData.solo(
+    IconData(0xe60a, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
   );
 
   /// `grimacing-face`
@@ -2824,6 +2834,11 @@ class FluentEmojiHighContrastIcons {
   /// `hugging-face`
   static const IconifyIconData huggingFace = IconifyIconData.solo(
     IconData(0xe231, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
+  );
+
+  /// `hundred-points`
+  static const IconifyIconData hundredPoints = IconifyIconData.solo(
+    IconData(0xe60b, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
   );
 
   /// `hushed-face`
@@ -3579,6 +3594,11 @@ class FluentEmojiHighContrastIcons {
   /// `man-curly-hair`
   static const IconifyIconData manCurlyHair = IconifyIconData.solo(
     IconData(0xe2c8, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
+  );
+
+  /// `man-dancing`
+  static const IconifyIconData manDancing = IconifyIconData.solo(
+    IconData(0xe60c, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
   );
 
   /// `man-deaf`
@@ -5191,6 +5211,11 @@ class FluentEmojiHighContrastIcons {
     IconData(0xe40a, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
   );
 
+  /// `pink-heart`
+  static const IconifyIconData pinkHeart = IconifyIconData.solo(
+    IconData(0xe60d, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
+  );
+
   /// `pirate-flag`
   static const IconifyIconData pirateFlag = IconifyIconData.solo(
     IconData(0xe40b, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
@@ -5744,6 +5769,11 @@ class FluentEmojiHighContrastIcons {
   /// `round-pushpin`
   static const IconifyIconData roundPushpin = IconifyIconData.solo(
     IconData(0xe479, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
+  );
+
+  /// `rugby-football`
+  static const IconifyIconData rugbyFootball = IconifyIconData.solo(
+    IconData(0xe60e, fontFamily: 'FluentEmojiHighContrast', fontPackage: 'iconifyx_fluent_emoji_high_contrast'),
   );
 
   /// `running-shirt`

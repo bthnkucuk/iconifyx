@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: James Walsh
 /// License: Open Font License — https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-/// Icons: 148
+/// Icons: 149
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -734,6 +734,11 @@ class AcademiconsIcons {
   /// `viaf-square`
   static const IconifyIconData viafSquare = IconifyIconData.solo(
     IconData(0xe08f, fontFamily: 'Academicons', fontPackage: 'iconifyx_academicons'),
+  );
+
+  /// `wiley`
+  static const IconifyIconData wiley = IconifyIconData.solo(
+    IconData(0xe094, fontFamily: 'Academicons', fontPackage: 'iconifyx_academicons'),
   );
 
   /// `zenodo`

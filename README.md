@@ -5,9 +5,10 @@ Type-safe, tree-shake-friendly Flutter access to **every** icon set on [icon-set
 ```dart
 import 'package:iconifyx_mdi/iconifyx_mdi.dart';
 import 'package:iconifyx_lucide/iconifyx_lucide.dart';
+import 'package:iconifyx_core/iconifyx_core.dart';
 
-Icon(MdiIcons.home.data, size: 24);
-Icon(LucideIcons.house.data, color: Colors.blue);
+IconifyIcon(MdiIcons.home, size: 24);
+IconifyIcon(LucideIcons.house, color: Colors.blue);
 ```
 
 **One package per Iconify set.** Depend only on the sets you use; your bundle ships only those fonts. No category packages, no monolithic dep — Material Design alone, FontAwesome alone, Lucide alone, etc.
@@ -46,19 +47,19 @@ dependencies:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:iconifyx_mdi/iconifyx_mdi.dart';
 import 'package:iconifyx_lucide/iconifyx_lucide.dart';
+import 'package:iconifyx_core/iconifyx_core.dart';
 
 class MyButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) => IconButton(
-    icon: Icon(LucideIcons.house.data),
+    icon: IconifyIcon(LucideIcons.house),
     onPressed: () {},
   );
 }
 ```
 
-Every icon constant is an `IconifyIconData`. The underlying Flutter `IconData` is exposed via `.data`. The wrapper is a Dart 3.3 extension type, so it has zero runtime cost — at compile time the `IconifyIconData(...)` wrapper disappears and the const `IconData` it wraps survives. That preservation is what makes tree-shaking work.
+Every icon constant is an `IconifyIconData` — a Dart 3.3 extension type over a `(IconData primary, IconData? secondary)` record. The `IconifyIcon` widget auto-renders both regular and duo-tone icons via a single `CustomPaint` (no `Stack`). At compile time the wrapper disappears and the const `IconData`s survive — tree-shake-friendly. If you must pass a raw `IconData` to a Flutter widget that takes one (e.g. `Icon`), use `.primary`.
 
 ## Available packages
 
@@ -80,7 +81,7 @@ Naming rule: take the Iconify prefix from the URL bar at icon-sets.iconify.desig
 
 - **Flutter Web** has unreliable icon tree-shaking ([flutter#154986](https://github.com/flutter/flutter/issues/154986)). The per-set-package design helps regardless because your web bundle only includes assets from packages you import.
 - Within one icon set, Flutter only subsets fonts that have at least one referenced icon. Other split fonts (e.g. `Mdi.ttf` when you only use icons in `Mdi_2.ttf`) ship at source size. This is a Flutter limitation, not something we can avoid.
-- Always use `Icon(MyIcon.data)` — passing the wrapper directly to widgets that take `IconData` requires `.data` because the extension type is not implicitly assignable.
+- Prefer `IconifyIcon(MyIcon)` — it handles both regular and duotone glyphs and uses `package:` correctly in its `TextStyle`. If you must use Flutter's `Icon` widget, pass the primary half via `Icon(MyIcon.primary)` (the extension type is not implicitly assignable to `IconData`).
 
 ## Repository layout
 
@@ -141,26 +142,35 @@ Browse every bundled set in a paginated drawer view. Filter icons by name. Tap a
 
 ## Coverage
 
-215 of 225 Iconify sets currently build successfully (~166,000 live icons). The 10 sets that don't build are dominated by gradients, filters, or animations (color-emoji sets, `svg-spinners`, etc.) that don't translate to a monochrome TTF; see [CLAUDE.md](CLAUDE.md#known-failures) for the list.
+221 of 225 Iconify sets currently build successfully (~166k non-synthetic live icons; ~338k including synthesised weight variants like Lucide `-thin`/`-light`/`-bold`). The 4 sets that don't build are dominated by gradients, filters, or animations that don't translate to a monochrome TTF (`svg-spinners`, `streamline-kameleon-color`, `fluent-color`, `circle-flags`); see [CLAUDE.md](CLAUDE.md#known-failures) for the list.
 
 **Stroke-only sets** like Lucide, Tabler, Iconoir, Heroicons-outline, mdi-light, Phosphor-thin, Feather — these need their stroked outlines converted to filled outlines before font conversion, otherwise they render as solid blobs in the bundle. The generator handles this automatically for sets listed under `strokeFillSets` in `tools/generator/config.yaml`. First run is slow (~10–20 s per stroke set) because each icon is rasterized + Potrace-traced; subsequent runs are nearly instant thanks to disk-cached results.
 
-**Duo-tone icons** (Phosphor `*-duotone`, Solar `*-bold-duotone`, IC family, ~36 sets total / ~5.9k icons) get split into two separate glyphs per icon — primary (full opacity) and secondary (translucent). The package emits both in a single class:
+Even on packs whose pack-level signal sits below the auto-detect threshold (e.g. `oui` at 16% evenodd), the pipeline runs a **per-icon raster-trace fallback**: any individual icon body with `fill-rule="evenodd"` or stroke-only paint gets traced one-by-one so it doesn't ship as a featureless blob. Roughly 4.6k icons across ~30 packs are quietly rescued this way each regen.
+
+**Duo-tone icons** ship as a single const per icon using `IconifyIconData.duo(primary, secondary)`. Two detection paths feed into this:
+
+1. **Opacity-based** (Phosphor `*-duotone`, Solar `*-bold-duotone`, IC family, …) — bodies with one element at `opacity<1`.
+2. **Two-color paint-order** (`logos`, many 2-color emojis) — bodies with exactly two distinct fills get split into background (primary) + foreground (secondary).
 
 ```dart
 import 'package:iconifyx_ph/iconifyx_ph.dart';
+import 'package:iconifyx_logos/iconifyx_logos.dart';
 import 'package:iconifyx_core/iconifyx_core.dart';
 
-IconifyDuotoneIcon(
-  PhIcons.acornDuotonePrimary,
-  PhIcons.acornDuotoneSecondary,
-  primaryColor: Colors.blue,
-  secondaryColor: Colors.red,
-  secondaryOpacity: 0.5,
+// Default: secondary at 40% opacity — fits phosphor-style "hint layer".
+IconifyIcon(PhIcons.acornDuotone, color: Colors.blue);
+
+// Logo-style: two opaque distinct colors.
+IconifyIcon.duotone(
+  LogosIcons.adobeAfterEffects,
+  color: Color(0xFF00005B),       // background dark navy
+  secondaryColor: Color(0xFF9999FF), // foreground "Ae" letter
+  secondaryOpacity: 1.0,
 )
 ```
 
-Stack-based rendering composes the two `Icon` widgets at runtime. Tree-shake works on each layer independently.
+Both layers render in a single `CustomPaint` (no `Stack`), and tree-shake works on each layer's `IconData` independently.
 
 ## License
 

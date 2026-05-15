@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "material-icon-theme",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Programming",
   "subPackage": "iconifyx_material_icon_theme",
   "info": {
@@ -16,17 +16,17 @@
       "spdx": "MIT",
       "url": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE"
     },
-    "total": 774
+    "total": 780
   },
   "fonts": [
     {
       "family": "MaterialIconTheme",
-      "nextCodepoint": 58130,
-      "iconCount": 774
+      "nextCodepoint": 58136,
+      "iconCount": 780
     },
     {
       "family": "MaterialIconThemeSecondary",
-      "nextCodepoint": 58130,
+      "nextCodepoint": 58136,
       "iconCount": 541
     }
   ],
@@ -847,6 +847,16 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderClineOpen",
       "duotone": true
+    },
+    "folder-cloud-functions": {
+      "codepoint": 58130,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCloudFunctions"
+    },
+    "folder-cloud-functions-open": {
+      "codepoint": 58131,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCloudFunctionsOpen"
     },
     "folder-cloudflare": {
       "codepoint": 57430,
@@ -2313,6 +2323,16 @@
       "identifier": "folderNuxtOpen",
       "duotone": true
     },
+    "folder-obsidian": {
+      "codepoint": 58132,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderObsidian"
+    },
+    "folder-obsidian-open": {
+      "codepoint": 58133,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderObsidianOpen"
+    },
     "folder-organism": {
       "codepoint": 57958,
       "fontFamily": "MaterialIconTheme",
@@ -3696,7 +3716,7 @@
       "identifier": "mjml",
       "duotone": true,
       "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "deprecatedSince": "2026-05-15"
     },
     "moonscript": {
       "codepoint": 57609,
@@ -3905,10 +3925,20 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "powershell"
     },
+    "pre-commit": {
+      "codepoint": 58134,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "preCommit"
+    },
     "prisma": {
       "codepoint": 57644,
       "fontFamily": "MaterialIconTheme",
       "identifier": "prisma"
+    },
+    "processing": {
+      "codepoint": 58135,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "processing"
     },
     "puppet": {
       "codepoint": 57645,
@@ -4173,7 +4203,7 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "stylelint",
       "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "deprecatedSince": "2026-05-15"
     },
     "stylus": {
       "codepoint": 57684,

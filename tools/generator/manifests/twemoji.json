@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "twemoji",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Emoji",
   "subPackage": "iconifyx_twemoji",
   "info": {
@@ -16,17 +16,17 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 707
+    "total": 715
   },
   "fonts": [
     {
       "family": "Twemoji",
-      "nextCodepoint": 58180,
-      "iconCount": 707
+      "nextCodepoint": 58187,
+      "iconCount": 715
     },
     {
       "family": "TwemojiSecondary",
-      "nextCodepoint": 58180,
+      "nextCodepoint": 58187,
       "iconCount": 637
     }
   ],
@@ -1132,6 +1132,11 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-cyprus": {
+      "codepoint": 58180,
+      "fontFamily": "Twemoji",
+      "identifier": "flagCyprus"
+    },
     "flag-denmark": {
       "codepoint": 57446,
       "fontFamily": "Twemoji",
@@ -1220,6 +1225,11 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-cyprus": {
+      "codepoint": 58181,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForCyprus"
+    },
     "flag-for-denmark": {
       "codepoint": 57454,
       "fontFamily": "Twemoji",
@@ -1307,6 +1317,11 @@
       "identifier": "flagForFlagCuracao",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "flag-for-flag-cyprus": {
+      "codepoint": 58182,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagCyprus"
     },
     "flag-for-flag-denmark": {
       "codepoint": 57462,
@@ -2058,6 +2073,11 @@
       "identifier": "flagReunion",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "flag-sark": {
+      "codepoint": 58183,
+      "fontFamily": "Twemoji",
+      "identifier": "flagSark"
     },
     "flag-saudi-arabia": {
       "codepoint": 57548,
@@ -4382,9 +4402,7 @@
     "saxophone": {
       "codepoint": 57764,
       "fontFamily": "Twemoji",
-      "identifier": "saxophone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "saxophone"
     },
     "scarf": {
       "codepoint": 58114,
@@ -4477,6 +4495,11 @@
       "fontFamily": "Twemoji",
       "identifier": "smilingFaceWithHorns",
       "duotone": true
+    },
+    "smiling-face-with-sunglasses": {
+      "codepoint": 58184,
+      "fontFamily": "Twemoji",
+      "identifier": "smilingFaceWithSunglasses"
     },
     "smirking-face": {
       "codepoint": 58123,
@@ -5058,6 +5081,16 @@
       "identifier": "wireless",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "woman-detective": {
+      "codepoint": 58185,
+      "fontFamily": "Twemoji",
+      "identifier": "womanDetective"
+    },
+    "woman-detective-medium-light-skin-tone": {
+      "codepoint": 58186,
+      "fontFamily": "Twemoji",
+      "identifier": "womanDetectiveMediumLightSkinTone"
     },
     "womens-room": {
       "codepoint": 58177,

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "fluent-emoji-high-contrast",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Emoji",
   "subPackage": "iconifyx_fluent_emoji_high_contrast",
   "info": {
@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
     },
-    "total": 1545
+    "total": 1551
   },
   "fonts": [
     {
       "family": "FluentEmojiHighContrast",
-      "nextCodepoint": 58889,
-      "iconCount": 1545
+      "nextCodepoint": 58895,
+      "iconCount": 1551
     }
   ],
   "icons": {
@@ -2446,6 +2446,11 @@
       "fontFamily": "FluentEmojiHighContrast",
       "identifier": "goggles"
     },
+    "goose": {
+      "codepoint": 58889,
+      "fontFamily": "FluentEmojiHighContrast",
+      "identifier": "goose"
+    },
     "gorilla": {
       "codepoint": 57828,
       "fontFamily": "FluentEmojiHighContrast",
@@ -2490,6 +2495,11 @@
       "codepoint": 57836,
       "fontFamily": "FluentEmojiHighContrast",
       "identifier": "greenSquare"
+    },
+    "grey-heart": {
+      "codepoint": 58890,
+      "fontFamily": "FluentEmojiHighContrast",
+      "identifier": "greyHeart"
     },
     "grimacing-face": {
       "codepoint": 57837,
@@ -2835,6 +2845,11 @@
       "codepoint": 57905,
       "fontFamily": "FluentEmojiHighContrast",
       "identifier": "huggingFace"
+    },
+    "hundred-points": {
+      "codepoint": 58891,
+      "fontFamily": "FluentEmojiHighContrast",
+      "identifier": "hundredPoints"
     },
     "hushed-face": {
       "codepoint": 57906,
@@ -3590,6 +3605,11 @@
       "codepoint": 58056,
       "fontFamily": "FluentEmojiHighContrast",
       "identifier": "manCurlyHair"
+    },
+    "man-dancing": {
+      "codepoint": 58892,
+      "fontFamily": "FluentEmojiHighContrast",
+      "identifier": "manDancing"
     },
     "man-deaf": {
       "codepoint": 58057,
@@ -5201,6 +5221,11 @@
       "fontFamily": "FluentEmojiHighContrast",
       "identifier": "pingPong"
     },
+    "pink-heart": {
+      "codepoint": 58893,
+      "fontFamily": "FluentEmojiHighContrast",
+      "identifier": "pinkHeart"
+    },
     "pirate-flag": {
       "codepoint": 58379,
       "fontFamily": "FluentEmojiHighContrast",
@@ -5755,6 +5780,11 @@
       "codepoint": 58489,
       "fontFamily": "FluentEmojiHighContrast",
       "identifier": "roundPushpin"
+    },
+    "rugby-football": {
+      "codepoint": 58894,
+      "fontFamily": "FluentEmojiHighContrast",
+      "identifier": "rugbyFootball"
     },
     "running-shirt": {
       "codepoint": 58490,

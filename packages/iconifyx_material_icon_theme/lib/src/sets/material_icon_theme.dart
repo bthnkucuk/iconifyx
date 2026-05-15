@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Material Extensions
 /// License: MIT — https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE
-/// Icons: 774 (split across 2 fonts)
+/// Icons: 780 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -810,6 +810,16 @@ class MaterialIconThemeIcons {
   static const IconifyIconData folderClineOpen = IconifyIconData.duo(
     IconData(0xe055, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe055, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+  );
+
+  /// `folder-cloud-functions`
+  static const IconifyIconData folderCloudFunctions = IconifyIconData.solo(
+    IconData(0xe312, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
+  );
+
+  /// `folder-cloud-functions-open`
+  static const IconifyIconData folderCloudFunctionsOpen = IconifyIconData.solo(
+    IconData(0xe313, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `folder-cloudflare` (duo-tone)
@@ -2268,6 +2278,16 @@ class MaterialIconThemeIcons {
   static const IconifyIconData folderNuxtOpen = IconifyIconData.duo(
     IconData(0xe265, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe265, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
+  );
+
+  /// `folder-obsidian`
+  static const IconifyIconData folderObsidian = IconifyIconData.solo(
+    IconData(0xe314, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
+  );
+
+  /// `folder-obsidian-open`
+  static const IconifyIconData folderObsidianOpen = IconifyIconData.solo(
+    IconData(0xe315, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `folder-organism` (duo-tone)
@@ -3826,9 +3846,19 @@ class MaterialIconThemeIcons {
     IconData(0xe12b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
+  /// `pre-commit`
+  static const IconifyIconData preCommit = IconifyIconData.solo(
+    IconData(0xe316, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
+  );
+
   /// `prisma`
   static const IconifyIconData prisma = IconifyIconData.solo(
     IconData(0xe12c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
+  );
+
+  /// `processing`
+  static const IconifyIconData processing = IconifyIconData.solo(
+    IconData(0xe317, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `puppet`

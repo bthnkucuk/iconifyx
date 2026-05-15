@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "emojione-monotone",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Emoji",
   "subPackage": "iconifyx_emojione_monotone",
   "info": {
@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 1673
+    "total": 1674
   },
   "fonts": [
     {
       "family": "EmojioneMonotone",
-      "nextCodepoint": 59017,
-      "iconCount": 1673
+      "nextCodepoint": 59018,
+      "iconCount": 1674
     }
   ],
   "icons": {
@@ -4510,6 +4510,11 @@
       "codepoint": 58240,
       "fontFamily": "EmojioneMonotone",
       "identifier": "footprints"
+    },
+    "fork-and-knife": {
+      "codepoint": 59017,
+      "fontFamily": "EmojioneMonotone",
+      "identifier": "forkAndKnife"
     },
     "fork-and-knife-with-plate": {
       "codepoint": 58241,

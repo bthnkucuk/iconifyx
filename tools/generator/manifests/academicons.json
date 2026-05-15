@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "academicons",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Thematic",
   "subPackage": "iconifyx_academicons",
   "info": {
@@ -16,13 +16,13 @@
       "spdx": "OFL-1.1",
       "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
     },
-    "total": 148
+    "total": 149
   },
   "fonts": [
     {
       "family": "Academicons",
-      "nextCodepoint": 57492,
-      "iconCount": 148
+      "nextCodepoint": 57493,
+      "iconCount": 149
     }
   ],
   "icons": {
@@ -745,6 +745,11 @@
       "codepoint": 57487,
       "fontFamily": "Academicons",
       "identifier": "viafSquare"
+    },
+    "wiley": {
+      "codepoint": 57492,
+      "fontFamily": "Academicons",
+      "identifier": "wiley"
     },
     "zenodo": {
       "codepoint": 57488,

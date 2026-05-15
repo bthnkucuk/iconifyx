@@ -1,0 +1,865 @@
+{
+  "schemaVersion": 1,
+  "prefix": "fluent-color",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-15",
+  "category": "UI Multicolor",
+  "subPackage": "iconifyx_fluent_color",
+  "info": {
+    "name": "Fluent UI System Color Icons",
+    "author": {
+      "name": "Microsoft Corporation",
+      "url": "https://github.com/microsoft/fluentui-system-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE"
+    },
+    "total": 167
+  },
+  "fonts": [
+    {
+      "family": "FluentColor",
+      "nextCodepoint": 57511,
+      "iconCount": 167
+    }
+  ],
+  "icons": {
+    "animal-paw-print-20": {
+      "codepoint": 57344,
+      "fontFamily": "FluentColor",
+      "identifier": "animalPawPrint20"
+    },
+    "approvals-app-16": {
+      "codepoint": 57345,
+      "fontFamily": "FluentColor",
+      "identifier": "approvalsApp16"
+    },
+    "approvals-app-20": {
+      "codepoint": 57346,
+      "fontFamily": "FluentColor",
+      "identifier": "approvalsApp20"
+    },
+    "approvals-app-24": {
+      "codepoint": 57347,
+      "fontFamily": "FluentColor",
+      "identifier": "approvalsApp24"
+    },
+    "apps-list-20": {
+      "codepoint": 57348,
+      "fontFamily": "FluentColor",
+      "identifier": "appsList20"
+    },
+    "apps-list-detail-20": {
+      "codepoint": 57349,
+      "fontFamily": "FluentColor",
+      "identifier": "appsListDetail20"
+    },
+    "arrow-sync-20": {
+      "codepoint": 57350,
+      "fontFamily": "FluentColor",
+      "identifier": "arrowSync20"
+    },
+    "arrow-trending-lines-20": {
+      "codepoint": 57351,
+      "fontFamily": "FluentColor",
+      "identifier": "arrowTrendingLines20"
+    },
+    "briefcase-16": {
+      "codepoint": 57352,
+      "fontFamily": "FluentColor",
+      "identifier": "briefcase16"
+    },
+    "briefcase-20": {
+      "codepoint": 57353,
+      "fontFamily": "FluentColor",
+      "identifier": "briefcase20"
+    },
+    "briefcase-24": {
+      "codepoint": 57354,
+      "fontFamily": "FluentColor",
+      "identifier": "briefcase24"
+    },
+    "briefcase-28": {
+      "codepoint": 57355,
+      "fontFamily": "FluentColor",
+      "identifier": "briefcase28"
+    },
+    "briefcase-32": {
+      "codepoint": 57356,
+      "fontFamily": "FluentColor",
+      "identifier": "briefcase32"
+    },
+    "briefcase-48": {
+      "codepoint": 57357,
+      "fontFamily": "FluentColor",
+      "identifier": "briefcase48"
+    },
+    "building-home-16": {
+      "codepoint": 57358,
+      "fontFamily": "FluentColor",
+      "identifier": "buildingHome16"
+    },
+    "building-home-20": {
+      "codepoint": 57359,
+      "fontFamily": "FluentColor",
+      "identifier": "buildingHome20"
+    },
+    "building-home-24": {
+      "codepoint": 57360,
+      "fontFamily": "FluentColor",
+      "identifier": "buildingHome24"
+    },
+    "building-home-32": {
+      "codepoint": 57361,
+      "fontFamily": "FluentColor",
+      "identifier": "buildingHome32"
+    },
+    "building-multiple-24": {
+      "codepoint": 57362,
+      "fontFamily": "FluentColor",
+      "identifier": "buildingMultiple24"
+    },
+    "calendar-cancel-16": {
+      "codepoint": 57363,
+      "fontFamily": "FluentColor",
+      "identifier": "calendarCancel16"
+    },
+    "calendar-cancel-20": {
+      "codepoint": 57364,
+      "fontFamily": "FluentColor",
+      "identifier": "calendarCancel20"
+    },
+    "calendar-checkmark-16": {
+      "codepoint": 57365,
+      "fontFamily": "FluentColor",
+      "identifier": "calendarCheckmark16"
+    },
+    "calendar-checkmark-20": {
+      "codepoint": 57366,
+      "fontFamily": "FluentColor",
+      "identifier": "calendarCheckmark20"
+    },
+    "calendar-checkmark-24": {
+      "codepoint": 57367,
+      "fontFamily": "FluentColor",
+      "identifier": "calendarCheckmark24"
+    },
+    "calendar-clock-16": {
+      "codepoint": 57368,
+      "fontFamily": "FluentColor",
+      "identifier": "calendarClock16"
+    },
+    "calendar-clock-20": {
+      "codepoint": 57369,
+      "fontFamily": "FluentColor",
+      "identifier": "calendarClock20"
+    },
+    "calendar-clock-24": {
+      "codepoint": 57370,
+      "fontFamily": "FluentColor",
+      "identifier": "calendarClock24"
+    },
+    "camera-16": {
+      "codepoint": 57371,
+      "fontFamily": "FluentColor",
+      "identifier": "camera16"
+    },
+    "camera-24": {
+      "codepoint": 57372,
+      "fontFamily": "FluentColor",
+      "identifier": "camera24"
+    },
+    "chart-multiple-24": {
+      "codepoint": 57373,
+      "fontFamily": "FluentColor",
+      "identifier": "chartMultiple24"
+    },
+    "chat-bubbles-question-24": {
+      "codepoint": 57374,
+      "fontFamily": "FluentColor",
+      "identifier": "chatBubblesQuestion24"
+    },
+    "chat-multiple-24": {
+      "codepoint": 57375,
+      "fontFamily": "FluentColor",
+      "identifier": "chatMultiple24"
+    },
+    "checkbox-20": {
+      "codepoint": 57376,
+      "fontFamily": "FluentColor",
+      "identifier": "checkbox20"
+    },
+    "checkbox-person-20": {
+      "codepoint": 57377,
+      "fontFamily": "FluentColor",
+      "identifier": "checkboxPerson20"
+    },
+    "checkmark-circle-20": {
+      "codepoint": 57378,
+      "fontFamily": "FluentColor",
+      "identifier": "checkmarkCircle20"
+    },
+    "clock-alarm-16": {
+      "codepoint": 57379,
+      "fontFamily": "FluentColor",
+      "identifier": "clockAlarm16"
+    },
+    "clock-alarm-20": {
+      "codepoint": 57380,
+      "fontFamily": "FluentColor",
+      "identifier": "clockAlarm20"
+    },
+    "clock-alarm-24": {
+      "codepoint": 57381,
+      "fontFamily": "FluentColor",
+      "identifier": "clockAlarm24"
+    },
+    "clock-alarm-32": {
+      "codepoint": 57382,
+      "fontFamily": "FluentColor",
+      "identifier": "clockAlarm32"
+    },
+    "clock-alarm-48": {
+      "codepoint": 57383,
+      "fontFamily": "FluentColor",
+      "identifier": "clockAlarm48"
+    },
+    "cloud-dismiss-16": {
+      "codepoint": 57384,
+      "fontFamily": "FluentColor",
+      "identifier": "cloudDismiss16"
+    },
+    "cloud-dismiss-20": {
+      "codepoint": 57385,
+      "fontFamily": "FluentColor",
+      "identifier": "cloudDismiss20"
+    },
+    "cloud-dismiss-28": {
+      "codepoint": 57386,
+      "fontFamily": "FluentColor",
+      "identifier": "cloudDismiss28"
+    },
+    "cloud-dismiss-32": {
+      "codepoint": 57387,
+      "fontFamily": "FluentColor",
+      "identifier": "cloudDismiss32"
+    },
+    "design-ideas-16": {
+      "codepoint": 57388,
+      "fontFamily": "FluentColor",
+      "identifier": "designIdeas16"
+    },
+    "design-ideas-20": {
+      "codepoint": 57389,
+      "fontFamily": "FluentColor",
+      "identifier": "designIdeas20"
+    },
+    "design-ideas-24": {
+      "codepoint": 57390,
+      "fontFamily": "FluentColor",
+      "identifier": "designIdeas24"
+    },
+    "design-ideas-28": {
+      "codepoint": 57391,
+      "fontFamily": "FluentColor",
+      "identifier": "designIdeas28"
+    },
+    "design-ideas-32": {
+      "codepoint": 57392,
+      "fontFamily": "FluentColor",
+      "identifier": "designIdeas32"
+    },
+    "design-ideas-48": {
+      "codepoint": 57393,
+      "fontFamily": "FluentColor",
+      "identifier": "designIdeas48"
+    },
+    "dismiss-circle-20": {
+      "codepoint": 57394,
+      "fontFamily": "FluentColor",
+      "identifier": "dismissCircle20"
+    },
+    "document-add-28": {
+      "codepoint": 57395,
+      "fontFamily": "FluentColor",
+      "identifier": "documentAdd28"
+    },
+    "document-add-48": {
+      "codepoint": 57396,
+      "fontFamily": "FluentColor",
+      "identifier": "documentAdd48"
+    },
+    "document-lock-24": {
+      "codepoint": 57397,
+      "fontFamily": "FluentColor",
+      "identifier": "documentLock24"
+    },
+    "document-lock-28": {
+      "codepoint": 57398,
+      "fontFamily": "FluentColor",
+      "identifier": "documentLock28"
+    },
+    "document-lock-48": {
+      "codepoint": 57399,
+      "fontFamily": "FluentColor",
+      "identifier": "documentLock48"
+    },
+    "error-circle-20": {
+      "codepoint": 57400,
+      "fontFamily": "FluentColor",
+      "identifier": "errorCircle20"
+    },
+    "game-chat-20": {
+      "codepoint": 57401,
+      "fontFamily": "FluentColor",
+      "identifier": "gameChat20"
+    },
+    "gift-16": {
+      "codepoint": 57402,
+      "fontFamily": "FluentColor",
+      "identifier": "gift16"
+    },
+    "gift-20": {
+      "codepoint": 57403,
+      "fontFamily": "FluentColor",
+      "identifier": "gift20"
+    },
+    "gift-24": {
+      "codepoint": 57404,
+      "fontFamily": "FluentColor",
+      "identifier": "gift24"
+    },
+    "gift-card-16": {
+      "codepoint": 57405,
+      "fontFamily": "FluentColor",
+      "identifier": "giftCard16"
+    },
+    "gift-card-20": {
+      "codepoint": 57406,
+      "fontFamily": "FluentColor",
+      "identifier": "giftCard20"
+    },
+    "gift-card-24": {
+      "codepoint": 57407,
+      "fontFamily": "FluentColor",
+      "identifier": "giftCard24"
+    },
+    "globe-20": {
+      "codepoint": 57408,
+      "fontFamily": "FluentColor",
+      "identifier": "globe20"
+    },
+    "globe-24": {
+      "codepoint": 57409,
+      "fontFamily": "FluentColor",
+      "identifier": "globe24"
+    },
+    "globe-shield-20": {
+      "codepoint": 57410,
+      "fontFamily": "FluentColor",
+      "identifier": "globeShield20"
+    },
+    "globe-shield-24": {
+      "codepoint": 57411,
+      "fontFamily": "FluentColor",
+      "identifier": "globeShield24"
+    },
+    "globe-shield-48": {
+      "codepoint": 57412,
+      "fontFamily": "FluentColor",
+      "identifier": "globeShield48"
+    },
+    "guest-16": {
+      "codepoint": 57413,
+      "fontFamily": "FluentColor",
+      "identifier": "guest16"
+    },
+    "guest-20": {
+      "codepoint": 57414,
+      "fontFamily": "FluentColor",
+      "identifier": "guest20"
+    },
+    "guest-24": {
+      "codepoint": 57415,
+      "fontFamily": "FluentColor",
+      "identifier": "guest24"
+    },
+    "guest-28": {
+      "codepoint": 57416,
+      "fontFamily": "FluentColor",
+      "identifier": "guest28"
+    },
+    "guest-32": {
+      "codepoint": 57417,
+      "fontFamily": "FluentColor",
+      "identifier": "guest32"
+    },
+    "guest-48": {
+      "codepoint": 57418,
+      "fontFamily": "FluentColor",
+      "identifier": "guest48"
+    },
+    "headphones-24": {
+      "codepoint": 57419,
+      "fontFamily": "FluentColor",
+      "identifier": "headphones24"
+    },
+    "headset-16": {
+      "codepoint": 57420,
+      "fontFamily": "FluentColor",
+      "identifier": "headset16"
+    },
+    "headset-20": {
+      "codepoint": 57421,
+      "fontFamily": "FluentColor",
+      "identifier": "headset20"
+    },
+    "headset-24": {
+      "codepoint": 57422,
+      "fontFamily": "FluentColor",
+      "identifier": "headset24"
+    },
+    "headset-28": {
+      "codepoint": 57423,
+      "fontFamily": "FluentColor",
+      "identifier": "headset28"
+    },
+    "home-16": {
+      "codepoint": 57424,
+      "fontFamily": "FluentColor",
+      "identifier": "home16"
+    },
+    "home-20": {
+      "codepoint": 57425,
+      "fontFamily": "FluentColor",
+      "identifier": "home20"
+    },
+    "home-24": {
+      "codepoint": 57426,
+      "fontFamily": "FluentColor",
+      "identifier": "home24"
+    },
+    "home-28": {
+      "codepoint": 57427,
+      "fontFamily": "FluentColor",
+      "identifier": "home28"
+    },
+    "home-32": {
+      "codepoint": 57428,
+      "fontFamily": "FluentColor",
+      "identifier": "home32"
+    },
+    "home-48": {
+      "codepoint": 57429,
+      "fontFamily": "FluentColor",
+      "identifier": "home48"
+    },
+    "lightbulb-checkmark-20": {
+      "codepoint": 57430,
+      "fontFamily": "FluentColor",
+      "identifier": "lightbulbCheckmark20"
+    },
+    "lightbulb-checkmark-24": {
+      "codepoint": 57431,
+      "fontFamily": "FluentColor",
+      "identifier": "lightbulbCheckmark24"
+    },
+    "lightbulb-checkmark-32": {
+      "codepoint": 57432,
+      "fontFamily": "FluentColor",
+      "identifier": "lightbulbCheckmark32"
+    },
+    "link-multiple-16": {
+      "codepoint": 57433,
+      "fontFamily": "FluentColor",
+      "identifier": "linkMultiple16"
+    },
+    "link-multiple-20": {
+      "codepoint": 57434,
+      "fontFamily": "FluentColor",
+      "identifier": "linkMultiple20"
+    },
+    "link-multiple-24": {
+      "codepoint": 57435,
+      "fontFamily": "FluentColor",
+      "identifier": "linkMultiple24"
+    },
+    "lock-closed-20": {
+      "codepoint": 57436,
+      "fontFamily": "FluentColor",
+      "identifier": "lockClosed20"
+    },
+    "lock-shield-20": {
+      "codepoint": 57437,
+      "fontFamily": "FluentColor",
+      "identifier": "lockShield20"
+    },
+    "megaphone-loud-20": {
+      "codepoint": 57438,
+      "fontFamily": "FluentColor",
+      "identifier": "megaphoneLoud20"
+    },
+    "megaphone-loud-24": {
+      "codepoint": 57439,
+      "fontFamily": "FluentColor",
+      "identifier": "megaphoneLoud24"
+    },
+    "megaphone-loud-28": {
+      "codepoint": 57440,
+      "fontFamily": "FluentColor",
+      "identifier": "megaphoneLoud28"
+    },
+    "megaphone-loud-32": {
+      "codepoint": 57441,
+      "fontFamily": "FluentColor",
+      "identifier": "megaphoneLoud32"
+    },
+    "number-symbol-square-32": {
+      "codepoint": 57442,
+      "fontFamily": "FluentColor",
+      "identifier": "numberSymbolSquare32"
+    },
+    "org-16": {
+      "codepoint": 57443,
+      "fontFamily": "FluentColor",
+      "identifier": "org16"
+    },
+    "org-20": {
+      "codepoint": 57444,
+      "fontFamily": "FluentColor",
+      "identifier": "org20"
+    },
+    "org-24": {
+      "codepoint": 57445,
+      "fontFamily": "FluentColor",
+      "identifier": "org24"
+    },
+    "org-32": {
+      "codepoint": 57446,
+      "fontFamily": "FluentColor",
+      "identifier": "org32"
+    },
+    "paw-20": {
+      "codepoint": 57447,
+      "fontFamily": "FluentColor",
+      "identifier": "paw20"
+    },
+    "people-add-20": {
+      "codepoint": 57448,
+      "fontFamily": "FluentColor",
+      "identifier": "peopleAdd20"
+    },
+    "people-add-28": {
+      "codepoint": 57449,
+      "fontFamily": "FluentColor",
+      "identifier": "peopleAdd28"
+    },
+    "people-add-32": {
+      "codepoint": 57450,
+      "fontFamily": "FluentColor",
+      "identifier": "peopleAdd32"
+    },
+    "people-home-16": {
+      "codepoint": 57451,
+      "fontFamily": "FluentColor",
+      "identifier": "peopleHome16"
+    },
+    "people-home-20": {
+      "codepoint": 57452,
+      "fontFamily": "FluentColor",
+      "identifier": "peopleHome20"
+    },
+    "people-home-24": {
+      "codepoint": 57453,
+      "fontFamily": "FluentColor",
+      "identifier": "peopleHome24"
+    },
+    "people-home-28": {
+      "codepoint": 57454,
+      "fontFamily": "FluentColor",
+      "identifier": "peopleHome28"
+    },
+    "people-home-48": {
+      "codepoint": 57455,
+      "fontFamily": "FluentColor",
+      "identifier": "peopleHome48"
+    },
+    "people-sync-24": {
+      "codepoint": 57456,
+      "fontFamily": "FluentColor",
+      "identifier": "peopleSync24"
+    },
+    "people-sync-32": {
+      "codepoint": 57457,
+      "fontFamily": "FluentColor",
+      "identifier": "peopleSync32"
+    },
+    "person-add-20": {
+      "codepoint": 57458,
+      "fontFamily": "FluentColor",
+      "identifier": "personAdd20"
+    },
+    "person-add-28": {
+      "codepoint": 57459,
+      "fontFamily": "FluentColor",
+      "identifier": "personAdd28"
+    },
+    "person-add-32": {
+      "codepoint": 57460,
+      "fontFamily": "FluentColor",
+      "identifier": "personAdd32"
+    },
+    "person-add-48": {
+      "codepoint": 57461,
+      "fontFamily": "FluentColor",
+      "identifier": "personAdd48"
+    },
+    "person-available-16": {
+      "codepoint": 57462,
+      "fontFamily": "FluentColor",
+      "identifier": "personAvailable16"
+    },
+    "person-available-20": {
+      "codepoint": 57463,
+      "fontFamily": "FluentColor",
+      "identifier": "personAvailable20"
+    },
+    "person-available-24": {
+      "codepoint": 57464,
+      "fontFamily": "FluentColor",
+      "identifier": "personAvailable24"
+    },
+    "person-feedback-20": {
+      "codepoint": 57465,
+      "fontFamily": "FluentColor",
+      "identifier": "personFeedback20"
+    },
+    "person-key-32": {
+      "codepoint": 57466,
+      "fontFamily": "FluentColor",
+      "identifier": "personKey32"
+    },
+    "person-starburst-16": {
+      "codepoint": 57467,
+      "fontFamily": "FluentColor",
+      "identifier": "personStarburst16"
+    },
+    "person-starburst-28": {
+      "codepoint": 57468,
+      "fontFamily": "FluentColor",
+      "identifier": "personStarburst28"
+    },
+    "person-starburst-32": {
+      "codepoint": 57469,
+      "fontFamily": "FluentColor",
+      "identifier": "personStarburst32"
+    },
+    "person-starburst-48": {
+      "codepoint": 57470,
+      "fontFamily": "FluentColor",
+      "identifier": "personStarburst48"
+    },
+    "pin-16": {
+      "codepoint": 57471,
+      "fontFamily": "FluentColor",
+      "identifier": "pin16"
+    },
+    "pin-20": {
+      "codepoint": 57472,
+      "fontFamily": "FluentColor",
+      "identifier": "pin20"
+    },
+    "pin-24": {
+      "codepoint": 57473,
+      "fontFamily": "FluentColor",
+      "identifier": "pin24"
+    },
+    "pin-28": {
+      "codepoint": 57474,
+      "fontFamily": "FluentColor",
+      "identifier": "pin28"
+    },
+    "pin-32": {
+      "codepoint": 57475,
+      "fontFamily": "FluentColor",
+      "identifier": "pin32"
+    },
+    "pin-48": {
+      "codepoint": 57476,
+      "fontFamily": "FluentColor",
+      "identifier": "pin48"
+    },
+    "reward-20": {
+      "codepoint": 57477,
+      "fontFamily": "FluentColor",
+      "identifier": "reward20"
+    },
+    "scan-person-16": {
+      "codepoint": 57478,
+      "fontFamily": "FluentColor",
+      "identifier": "scanPerson16"
+    },
+    "scan-person-20": {
+      "codepoint": 57479,
+      "fontFamily": "FluentColor",
+      "identifier": "scanPerson20"
+    },
+    "scan-person-24": {
+      "codepoint": 57480,
+      "fontFamily": "FluentColor",
+      "identifier": "scanPerson24"
+    },
+    "scan-person-28": {
+      "codepoint": 57481,
+      "fontFamily": "FluentColor",
+      "identifier": "scanPerson28"
+    },
+    "scan-type-20": {
+      "codepoint": 57482,
+      "fontFamily": "FluentColor",
+      "identifier": "scanType20"
+    },
+    "search-visual-16": {
+      "codepoint": 57483,
+      "fontFamily": "FluentColor",
+      "identifier": "searchVisual16"
+    },
+    "search-visual-20": {
+      "codepoint": 57484,
+      "fontFamily": "FluentColor",
+      "identifier": "searchVisual20"
+    },
+    "search-visual-24": {
+      "codepoint": 57485,
+      "fontFamily": "FluentColor",
+      "identifier": "searchVisual24"
+    },
+    "send-clock-20": {
+      "codepoint": 57486,
+      "fontFamily": "FluentColor",
+      "identifier": "sendClock20"
+    },
+    "send-clock-24": {
+      "codepoint": 57487,
+      "fontFamily": "FluentColor",
+      "identifier": "sendClock24"
+    },
+    "send-clock-32": {
+      "codepoint": 57488,
+      "fontFamily": "FluentColor",
+      "identifier": "sendClock32"
+    },
+    "share-android-20": {
+      "codepoint": 57489,
+      "fontFamily": "FluentColor",
+      "identifier": "shareAndroid20"
+    },
+    "shield-checkmark-16": {
+      "codepoint": 57490,
+      "fontFamily": "FluentColor",
+      "identifier": "shieldCheckmark16"
+    },
+    "shield-checkmark-20": {
+      "codepoint": 57491,
+      "fontFamily": "FluentColor",
+      "identifier": "shieldCheckmark20"
+    },
+    "shield-checkmark-24": {
+      "codepoint": 57492,
+      "fontFamily": "FluentColor",
+      "identifier": "shieldCheckmark24"
+    },
+    "shield-checkmark-28": {
+      "codepoint": 57493,
+      "fontFamily": "FluentColor",
+      "identifier": "shieldCheckmark28"
+    },
+    "shifts-16": {
+      "codepoint": 57494,
+      "fontFamily": "FluentColor",
+      "identifier": "shifts16"
+    },
+    "shifts-20": {
+      "codepoint": 57495,
+      "fontFamily": "FluentColor",
+      "identifier": "shifts20"
+    },
+    "slide-text-sparkle-32": {
+      "codepoint": 57496,
+      "fontFamily": "FluentColor",
+      "identifier": "slideTextSparkle32"
+    },
+    "star-settings-32": {
+      "codepoint": 57497,
+      "fontFamily": "FluentColor",
+      "identifier": "starSettings32"
+    },
+    "text-edit-style-16": {
+      "codepoint": 57498,
+      "fontFamily": "FluentColor",
+      "identifier": "textEditStyle16"
+    },
+    "text-edit-style-20": {
+      "codepoint": 57499,
+      "fontFamily": "FluentColor",
+      "identifier": "textEditStyle20"
+    },
+    "text-edit-style-24": {
+      "codepoint": 57500,
+      "fontFamily": "FluentColor",
+      "identifier": "textEditStyle24"
+    },
+    "trophy-16": {
+      "codepoint": 57501,
+      "fontFamily": "FluentColor",
+      "identifier": "trophy16"
+    },
+    "trophy-20": {
+      "codepoint": 57502,
+      "fontFamily": "FluentColor",
+      "identifier": "trophy20"
+    },
+    "trophy-24": {
+      "codepoint": 57503,
+      "fontFamily": "FluentColor",
+      "identifier": "trophy24"
+    },
+    "trophy-28": {
+      "codepoint": 57504,
+      "fontFamily": "FluentColor",
+      "identifier": "trophy28"
+    },
+    "trophy-32": {
+      "codepoint": 57505,
+      "fontFamily": "FluentColor",
+      "identifier": "trophy32"
+    },
+    "trophy-48": {
+      "codepoint": 57506,
+      "fontFamily": "FluentColor",
+      "identifier": "trophy48"
+    },
+    "vault-16": {
+      "codepoint": 57507,
+      "fontFamily": "FluentColor",
+      "identifier": "vault16"
+    },
+    "vault-20": {
+      "codepoint": 57508,
+      "fontFamily": "FluentColor",
+      "identifier": "vault20"
+    },
+    "vault-24": {
+      "codepoint": 57509,
+      "fontFamily": "FluentColor",
+      "identifier": "vault24"
+    },
+    "video-32": {
+      "codepoint": 57510,
+      "fontFamily": "FluentColor",
+      "identifier": "video32"
+    }
+  }
+}

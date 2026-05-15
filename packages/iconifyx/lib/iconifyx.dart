@@ -78,6 +78,7 @@ export 'package:iconifyx_flat_color_icons/iconifyx_flat_color_icons.dart';
 export 'package:iconifyx_flat_ui/iconifyx_flat_ui.dart';
 export 'package:iconifyx_flowbite/iconifyx_flowbite.dart';
 export 'package:iconifyx_fluent/iconifyx_fluent.dart';
+export 'package:iconifyx_fluent_color/iconifyx_fluent_color.dart';
 export 'package:iconifyx_fluent_emoji/iconifyx_fluent_emoji.dart';
 export 'package:iconifyx_fluent_emoji_flat/iconifyx_fluent_emoji_flat.dart';
 export 'package:iconifyx_fluent_emoji_high_contrast/iconifyx_fluent_emoji_high_contrast.dart';
@@ -205,6 +206,7 @@ export 'package:iconifyx_streamline_stickies_color/iconifyx_streamline_stickies_
 export 'package:iconifyx_streamline_ultimate/iconifyx_streamline_ultimate.dart';
 export 'package:iconifyx_streamline_ultimate_color/iconifyx_streamline_ultimate_color.dart';
 export 'package:iconifyx_subway/iconifyx_subway.dart';
+export 'package:iconifyx_svg_spinners/iconifyx_svg_spinners.dart';
 export 'package:iconifyx_system_uicons/iconifyx_system_uicons.dart';
 export 'package:iconifyx_tabler/iconifyx_tabler.dart';
 export 'package:iconifyx_tdesign/iconifyx_tdesign.dart';

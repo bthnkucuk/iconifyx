@@ -125,9 +125,28 @@ The audit MD `STROKE_AUDIT.md` (regenerated each build) reports per-set ratios +
 
 If a set is auto-detected incorrectly (false positive, slow regen for no gain) you can suppress by NOT adding it to `strokeFillSets` (auto-detect is the default; explicit only ADDS, doesn't remove). If a set is missed but should be processed, add it to `strokeFillSets`.
 
+**Per-icon fallback for borderline packs.** Some packs ship below the pack-level threshold but still have individual icons that need tracing — `oui` came in at 16% evenodd (sample) so the whole pack was skipped, yet `oui:check-in-circle-empty` / `chat-left` / `analyze-event` shipped as solid blobs. The pipeline now also runs a **per-icon detector** (`iconNeedsRasterTrace`): for any pack that didn't qualify at the pack level, individual icons whose body uses `fill-rule="evenodd"` or stroke-only paint are routed through `strokeFillBatch` one at a time. Counts surface in `STROKE_AUDIT.md`'s "Per-icon raster-trace fixes" section. ~4,600 icons across ~30 packs are quietly fixed this way each regen.
+
+**`xmlns:xlink` is mandatory in `iconToSvg`'s SVG wrapper.** A handful of Iconify bodies (logos:deploy, logos:google-developers-icon, etc.) reference legacy `xlink:href` attributes. Without the namespace declaration, `oslllo-svg-fixer`'s XML parser aborts the entire stroke-fill batch with "unknown namespace prefix 'xlink'", silently dropping every icon in the set back to its original (broken) form. The declaration is harmless when xlink isn't used. Don't remove it.
+
+### 5a-bis. `oslllo-svg-fixer` runs in a SUBPROCESS — bisect on panic.
+
+`oslllo-svg-fixer` transitively depends on `resvg`, a native Rust crate. Specific malformed bodies — most often the foreground halves of duotone-split emoji glyphs — make resvg panic in `geom.rs:27` with `called Option::unwrap() on a None value`, which abort()s the process via `SIGABRT`. A native panic is **unrecoverable from JavaScript**: a normal try/catch only catches JS exceptions, so without isolation a single bad icon used to kill the entire generator mid-run.
+
+The fix lives in `tools/generator/src/stroke_fill.ts` + `stroke_fill_worker.ts`:
+
+- The fixer call is wrapped in a dedicated `bun` subprocess via `Bun.spawn`.
+- If the worker exits non-zero (including signal-aborted), the parent **bisects** the input batch in two and retries each half in fresh subprocesses, recursing until a single bad icon is isolated.
+- That icon is added to `strokeFillPanicNames` and gets the same deprecated-glyph treatment as a validator failure — codepoint slot stays reserved, but no Dart const and no TTF entry.
+- Everything else in the batch traces normally.
+
+Cost: one extra `bun` startup (~500 ms) per cache-miss batch, plus O(log N) extra spawns per crashing batch. Last full regen had ~14 worker crashes, all bisected down to **2 specific icons** (`noto-v1:hot-beverage`, `noto-v1:lady-beetle`); the other ~25,000 cache-miss icons traced normally. The pipeline now always reaches its final `writeCoverageReport` + `writeStrokeAudit` steps — no more pipeline-killing crashes.
+
 ### 5b. Duotone icons emit a single const + paired Secondary font.
 
-Many Iconify sets ship duo-tone variants (Phosphor `*-duotone`, Solar `*-bold-duotone` / `*-line-duotone`, IC family, Iconamoon, Pepicons-print, etc. — ~36 sets, ~5.9k icons total). The bodies follow a fixed convention:
+Many Iconify sets ship duo-tone variants (Phosphor `*-duotone`, Solar `*-bold-duotone` / `*-line-duotone`, IC family, Iconamoon, Pepicons-print, etc. — ~36 sets natively, plus thousands more produced by the multi-color split path below). Two detection paths feed into the same Primary/Secondary font pair:
+
+**Path 1 — opacity-based duotone** (`isDuotoneBody` + `splitDuotoneBody`). Iconify's canonical convention:
 
 ```html
 <g fill="currentColor">
@@ -136,11 +155,24 @@ Many Iconify sets ship duo-tone variants (Phosphor `*-duotone`, Solar `*-bold-du
 </g>
 ```
 
-The pipeline detects them via `isDuotoneBody` (any element with `opacity<1`) and splits each body into primary + secondary using `splitDuotoneBody` (`svg_preprocess.ts`). For every primary font that contains at least one duotone icon, the generator emits a matching `<Family>Secondary` TTF holding only the secondary layers, at the same codepoints. Dart codegen emits ONE const per duotone icon via `IconifyIconData.duo(primaryIconData, secondaryIconData)` — the consumer-facing identifier stays the bare name (e.g. `PhIcons.acornDuotone`, not `acornDuotonePrimary`).
+Any element with `opacity<1` is the secondary; the rest is primary.
 
-**Pipeline ordering matters:** duotone detection happens BEFORE stroke-fill. Otherwise `oslllo-svg-fixer` rasterizes the whole body and traces it back as a single silhouette, losing the duotone signal — Solar `*-bold-duotone` originally fell through to single-layer rendering for this exact reason.
+**Path 2 — two-color paint-order duotone** (`trySplitTwoColorBody`). Bodies with exactly **two distinct concrete fills** (excluding `none`, `currentColor`, `url(#…)`) — e.g. a dark background rect plus a light foreground letterform, as in `logos:adobe-after-effects` or many 2-color Iconify emojis:
+
+```html
+<rect fill="#00005b" rx="42.5" .../>
+<path fill="#99f" d="…Ae letterform…"/>
+```
+
+The element painting FIRST in source order is assigned to the primary layer (background); the second color → secondary (foreground). Both layers have their `fill` normalised to `currentColor`. Bodies with 3+ distinct fills, gradients, or non-self-closing children can't be cleanly split and fall through to the paint-order drop (§5e).
+
+For every primary font that contains at least one duotone icon (either path), the generator emits a matching `<Family>Secondary` TTF holding only the secondary layers, at the same codepoints. Dart codegen emits ONE const per duotone icon via `IconifyIconData.duo(primaryIconData, secondaryIconData)` — the consumer-facing identifier stays the bare name (e.g. `PhIcons.acornDuotone`, `LogosIcons.adobeAfterEffects`).
+
+**Pipeline ordering matters:** both duotone detection paths run BEFORE stroke-fill. Otherwise `oslllo-svg-fixer` rasterizes the whole body and traces it back as a single silhouette, losing the layering signal. Path 1 (opacity) runs first, then Path 2 (two-color) — Path 2 only considers icons not yet handled by Path 1.
 
 **`centerHorizontally: false`** is mandatory in `font_builder.ts`'s svgicons2svgfont stream options. Iconify SVGs are already designed to fit their viewBox; auto-centring shifts each glyph's content to its own bbox centre, so duotone layers that live in different parts of the viewBox (e.g. `ic/baseline-signal-wifi-1-bar-lock` — lock on the right, wifi bars on the left) end up overlapping in the middle instead of staying in position. Re-enabling centring is a silent visual regression for any positionally-distinct duotone icon.
+
+**Rendering duotone in the consumer app.** `IconifyIcon` auto-detects via `icon.isDuotone` and uses `secondaryOpacity = 0.4` by default — correct for phosphor-style "hint layer" duotones. For paint-order-split icons (logos, 2-color emojis), the secondary IS the meaningful foreground (a letterform, not a hint), so the consumer should pass `secondaryOpacity: 1.0` plus a contrasting `secondaryColor` for full-color rendering. See `IconifyIcon.duotone` constructor.
 
 ### 5c. Per-glyph error tolerance.
 
@@ -162,12 +194,26 @@ Glyphs that fail any layer get `deprecated: true` in the manifest. Their codepoi
 
 ### 5d. Audit reports — read before manual review.
 
-Two markdown reports regenerate on every `bun run generate` at repo root:
+Two markdown reports regenerate on every `bun run generate` at repo root. They always run — even if mid-pipeline subprocess panics dropped specific icons, the pipeline still reaches its final write steps thanks to the subprocess isolation in §5a-bis.
 
-- **`COVERAGE.md`** — per-set Iconify `info.total` upstream count vs. our built (live + non-deprecated, EXCLUDING synthesised weight variants) count. Sorted by % missing. Surfaces sets where the gap warrants investigation.
-- **`STROKE_AUDIT.md`** — per-set stroke/evenodd ratios + raster-fill status + duotone-icon count. Includes a duotone visual-check checklist sorted by duotone count.
+- **`COVERAGE.md`** — per-set Iconify `info.total` upstream count vs. our built (live + non-deprecated, EXCLUDING synthesised weight variants) count. Sorted by % missing. Surfaces sets where the gap warrants investigation. Panic-skipped, paint-order-dropped, and validator-rejected icons all count as missing.
+- **`STROKE_AUDIT.md`** — multi-section audit:
+  - **Paint-order risk** (§5e) — sets shipping multi-fill bodies that would render as monochrome blobs; per-set drop counts.
+  - **Per-icon raster-trace fixes** — packs below the pack-level threshold whose individual icons still needed tracing (oui case, §5a).
+  - **Duotone visual-check checklist** — sets containing duotone icons (either path), sorted by count. Spot-check primary/secondary layer alignment.
+  - **All sets** — every pack with stroke %, evenodd %, paint-order %, per-icon traces, duotone count, raster-applied badge.
 
 Open these BEFORE manually browsing the example app — most rendering issues already show up in the audit.
+
+### 5e. Paint-order risk drop.
+
+Some bodies paint **3+ distinct colors**, or 2 colors that can't be cleanly split (gradients, nested groups, non-self-closing elements). Rasterize-trace doesn't help — Potrace traces the COMBINED silhouette as one filled region, so the foreground letterform / contrast shape gets absorbed into the background's fill. The result is a featureless monochrome blob.
+
+`tools/generator/src/svg_preprocess.ts:isPaintOrderRiskBody()` flags any body with ≥2 distinct concrete fills (`fill="#…"`, not `currentColor` / `none` / `url(#…)`). In `pipeline.ts`, after duotone split (§5b), any remaining flagged icons get **dropped** — added to `paintOrderDroppedNames`, then through the same `droppedGlyphs` path as validator failures. The icon gets `deprecated: true` (codepoint reserved per invariant #3) but never gets a Dart const or TTF entry.
+
+Last full regen dropped ~22k icons this way — mostly the foreground halves of color emoji packs (twemoji 4.5k, noto 4k, fluent-emoji-flat 3k, …). The two-color split in §5b reclaimed ~1.7k 2-color emojis back as duotone icons; the rest fundamentally need a full rasterizer pipeline we don't ship.
+
+The audit report shows per-set paint-order ratio + drop count. If a pack you care about is losing too many icons here, evaluate whether `trySplitTwoColorBody` could be extended (e.g. to handle nested groups), or document the pack as multi-color-only.
 
 ### 6. Per-set package naming convention.
 
@@ -229,29 +275,36 @@ User prefers `fvm` over `flutter` directly.
 2. **For each set** (worker pool, concurrency = min(cpus, 8)):
    - Load existing manifest (or null for first-time).
    - Resolve aliases → flat icon name list.
+   - **Synthesise weight variants** (Lucide / Tabler / Iconoir / … with `-thin`/`-light`/`-bold` suffixes via `setStrokeWidth`).
+   - **Duotone split — opacity path** (`isDuotoneBody` + `splitDuotoneBody`): split bodies with `opacity<1` elements into primary/secondary.
+   - **Duotone split — two-color path** (`trySplitTwoColorBody`): split bodies with exactly 2 distinct concrete fills into primary/secondary (logos, 2-color emojis).
+   - **Stroke-fill via subprocess** (`stroke_fill.ts` → `stroke_fill_worker.ts`):
+     - Pack-level: if `combinedRatio≥0.5` or `evenOddRatio≥0.2` (or explicit in config) → trace every icon.
+     - Per-icon fallback: otherwise, for each icon with `fill-rule="evenodd"` or stroke-only paint → trace individually.
+     - On native panic: bisect to isolate the bad icon; mark it `panicSkipped`; continue with the rest.
+   - **Paint-order drop** (`isPaintOrderRiskBody`): drop any remaining body with ≥2 distinct fills that couldn't be split.
+   - **Pre-validation** (`glyph_validator.ts`): drop unsupported elements, malformed paths, coord overflow.
    - Allocate codepoints (existing kept, new appended; auto-split if >6000 live).
    - Sanitize Dart identifiers (Dart reserved words → suffix `_`; leading digit → prefix `n`; collisions → suffix `_2`).
-   - Build TTF(s) via svgicons2svgfont → svg2ttf (`ts: 0`).
+   - Build TTF(s) via svgicons2svgfont → svg2ttf (`ts: 0`); retry-on-error drops mid-stream failures.
    - Emit per-set package: `pubspec.yaml`, `iconifyx_<prefix>.dart` library, `src/sets/<prefix>.dart`, `src/license.dart`, `LICENSE-3RD-PARTY.md`, fonts.
 3. **Emit meta package** `iconifyx` that depends on every per-set package and re-exports them.
 4. **Emit example app data**: `packages/iconifyx/example/lib/generated_index.dart` + `pubspec.yaml` (depends on every set package directly because Flutter only bundles assets from direct deps).
+5. **Emit website data** + `COVERAGE.md` + `STROKE_AUDIT.md` (always; even if upstream icons were skipped, the reports surface those as deltas).
 
-Total runtime ~80s for all 225 sets, producing ~206 per-set packages.
+Total runtime ~130–185s on first-fresh-cache run; ~80s on warm-cache regens. Subprocess overhead adds ~500 ms per cache-miss batch.
 
 ## Known failures (as of @iconify/json 2.2.472)
 
-After Phase 1 (validator + retry-on-error) and Phase 2 (stroke-fill for stroke-only sets), **215 of 225 sets build successfully (165,718 live icons)**. The 10 remaining failures are sets where every icon body has properties that fundamentally don't translate to a monochrome TTF:
+After all five filtering / recovery passes (validator, retry-on-error, stroke-fill, paint-order drop, two-color duotone split, per-icon raster-trace, subprocess panic isolation), **221 of 225 sets build successfully (~338k live icons across all packs including synthesised weight variants; ~166k non-synthetic icons)**. The 4 remaining failures are sets where every icon body has properties that fundamentally don't translate to a monochrome TTF:
 
-- `fluent-color`, `fluent-emoji` — gradient-heavy multi-color emoji
-- `streamline-emojis`, `streamline-freehand-color`, `streamline-ultimate-color` — gradient/filter-heavy color sets
-- `svg-spinners` — every icon is an `<animate>` element
-- `icon-park-twotone` — gradient overlays
-- `marketeq`, `gcp` — assorted gradient/filter use
-- `unjs` — `<linearGradient>` per icon
+- `svg-spinners` — every icon is an `<animate>` element (validator drops 100%)
+- `streamline-kameleon-color`, `fluent-color` — gradient/filter-heavy color emoji
+- `circle-flags` — 737 country flags, each a multi-color SVG; the two-color split can't reduce them (most are 3+ colors) and paint-order drop removes them all
 
 These would need a true rasterize-and-trace pipeline to "flatten" their visual to a monochrome silhouette, which is out of scope. Users who need them can lift the corresponding Iconify JSON and render via `flutter_svg` at runtime instead.
 
-The pre-validator + retry pipeline turns a single bad glyph from a set-killer into a small per-glyph warning — when an Iconify upstream update fixes the bad glyph, the next regen picks it up automatically.
+The pre-validator + retry + bisect pipeline turns a single bad glyph from a set-killer into a small per-glyph warning — when an Iconify upstream update fixes the bad glyph, the next regen picks it up automatically.
 
 ## File ownership
 

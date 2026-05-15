@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Google Inc
 /// License: Apache 2.0 — https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE
-/// Icons: 380 (split across 2 fonts)
+/// Icons: 579 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -28,10 +28,20 @@ class NotoV1Icons {
     IconData(0xe1d0, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `airplane`
+  static const IconifyIconData airplane = IconifyIconData.solo(
+    IconData(0xe001, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `american-football` (duo-tone)
   static const IconifyIconData americanFootball = IconifyIconData.duo(
     IconData(0xe1d1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1d1, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `amphora`
+  static const IconifyIconData amphora = IconifyIconData.solo(
+    IconData(0xe24e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `anchor`
@@ -42,6 +52,16 @@ class NotoV1Icons {
   /// `anger-symbol`
   static const IconifyIconData angerSymbol = IconifyIconData.solo(
     IconData(0xe005, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `angry-face`
+  static const IconifyIconData angryFace = IconifyIconData.solo(
+    IconData(0xe006, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `anguished-face`
+  static const IconifyIconData anguishedFace = IconifyIconData.solo(
+    IconData(0xe007, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `antenna-bars`
@@ -87,16 +107,51 @@ class NotoV1Icons {
     IconData(0xe010, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `badminton`
+  static const IconifyIconData badminton = IconifyIconData.solo(
+    IconData(0xe24f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `ballot-box-with-ballot`
+  static const IconifyIconData ballotBoxWithBallot = IconifyIconData.solo(
+    IconData(0xe250, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `ballot-box-with-check`
+  static const IconifyIconData ballotBoxWithCheck = IconifyIconData.solo(
+    IconData(0xe014, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `bat`
+  static const IconifyIconData bat = IconifyIconData.solo(
+    IconData(0xe016, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `beating-heart` (duo-tone)
   static const IconifyIconData beatingHeart = IconifyIconData.duo(
     IconData(0xe1d4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1d4, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `bicycle`
+  static const IconifyIconData bicycle = IconifyIconData.solo(
+    IconData(0xe251, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `bikini` (duo-tone)
   static const IconifyIconData bikini = IconifyIconData.duo(
     IconData(0xe018, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe018, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `biohazard`
+  static const IconifyIconData biohazard = IconifyIconData.solo(
+    IconData(0xe019, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `birthday-cake`
+  static const IconifyIconData birthdayCake = IconifyIconData.solo(
+    IconData(0xe01a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `black-heart`
@@ -124,6 +179,16 @@ class NotoV1Icons {
   /// `blue-heart`
   static const IconifyIconData blueHeart = IconifyIconData.solo(
     IconData(0xe01f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `bottle-with-popping-cork`
+  static const IconifyIconData bottleWithPoppingCork = IconifyIconData.solo(
+    IconData(0xe252, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `briefcase`
+  static const IconifyIconData briefcase = IconifyIconData.solo(
+    IconData(0xe253, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `bright-button`
@@ -183,6 +248,11 @@ class NotoV1Icons {
     IconData(0xe1dc, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `camera-with-flash`
+  static const IconifyIconData cameraWithFlash = IconifyIconData.solo(
+    IconData(0xe027, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `cancer`
   static const IconifyIconData cancer = IconifyIconData.solo(
     IconData(0xe028, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -205,6 +275,16 @@ class NotoV1Icons {
     IconData(0xe1de, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `chart-increasing-with-yen`
+  static const IconifyIconData chartIncreasingWithYen = IconifyIconData.solo(
+    IconData(0xe254, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `check-box-with-check`
+  static const IconifyIconData checkBoxWithCheck = IconifyIconData.solo(
+    IconData(0xe02e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `check-mark`
   static const IconifyIconData checkMark = IconifyIconData.solo(
     IconData(0xe02f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -222,6 +302,16 @@ class NotoV1Icons {
     IconData(0xe1e0, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `chestnut`
+  static const IconifyIconData chestnut = IconifyIconData.solo(
+    IconData(0xe255, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `children-crossing`
+  static const IconifyIconData childrenCrossing = IconifyIconData.solo(
+    IconData(0xe032, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `circled-m`
   static const IconifyIconData circledM = IconifyIconData.solo(
     IconData(0xe035, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -231,6 +321,26 @@ class NotoV1Icons {
   static const IconifyIconData clButton = IconifyIconData.duo(
     IconData(0xe1e1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1e1, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `clapping-hands`
+  static const IconifyIconData clappingHands = IconifyIconData.solo(
+    IconData(0xe037, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `clapping-hands-light-skin-tone`
+  static const IconifyIconData clappingHandsLightSkinTone = IconifyIconData.solo(
+    IconData(0xe256, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `clapping-hands-medium-light-skin-tone`
+  static const IconifyIconData clappingHandsMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe257, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `clapping-hands-medium-skin-tone`
+  static const IconifyIconData clappingHandsMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe258, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `clockwise-vertical-arrows`
@@ -267,9 +377,24 @@ class NotoV1Icons {
     IconData(0xe043, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `confused-face`
+  static const IconifyIconData confusedFace = IconifyIconData.solo(
+    IconData(0xe259, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `control-knobs`
+  static const IconifyIconData controlKnobs = IconifyIconData.solo(
+    IconData(0xe25a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `copyright`
   static const IconifyIconData copyright = IconifyIconData.solo(
     IconData(0xe046, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `couch-and-lamp`
+  static const IconifyIconData couchAndLamp = IconifyIconData.solo(
+    IconData(0xe25b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `counterclockwise-arrows-button`
@@ -370,6 +495,11 @@ class NotoV1Icons {
     IconData(0xe061, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `dizzy-face`
+  static const IconifyIconData dizzyFace = IconifyIconData.solo(
+    IconData(0xe062, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `dog-face` (duo-tone)
   static const IconifyIconData dogFace = IconifyIconData.duo(
     IconData(0xe1e4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -404,6 +534,16 @@ class NotoV1Icons {
   /// `droplet`
   static const IconifyIconData droplet = IconifyIconData.solo(
     IconData(0xe06b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `e-mail`
+  static const IconifyIconData eMail = IconifyIconData.solo(
+    IconData(0xe06c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `eagle`
+  static const IconifyIconData eagle = IconifyIconData.solo(
+    IconData(0xe25c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `ear` (duo-tone)
@@ -469,6 +609,11 @@ class NotoV1Icons {
     IconData(0xe074, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `envelope-with-arrow`
+  static const IconifyIconData envelopeWithArrow = IconifyIconData.solo(
+    IconData(0xe075, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `exclamation-mark`
   static const IconifyIconData exclamationMark = IconifyIconData.solo(
     IconData(0xe076, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -489,6 +634,21 @@ class NotoV1Icons {
   static const IconifyIconData eyes = IconifyIconData.duo(
     IconData(0xe07a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe07a, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `face-with-head-bandage`
+  static const IconifyIconData faceWithHeadBandage = IconifyIconData.solo(
+    IconData(0xe25d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `face-with-stuck-out-tongue-and-closed-eyes`
+  static const IconifyIconData faceWithStuckOutTongueAndClosedEyes = IconifyIconData.solo(
+    IconData(0xe25e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `face-with-thermometer`
+  static const IconifyIconData faceWithThermometer = IconifyIconData.solo(
+    IconData(0xe25f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `face-without-mouth` (duo-tone)
@@ -570,6 +730,16 @@ class NotoV1Icons {
     IconData(0xe08d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `flag-for-flag-spain`
+  static const IconifyIconData flagForFlagSpain = IconifyIconData.solo(
+    IconData(0xe260, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `flag-for-spain`
+  static const IconifyIconData flagForSpain = IconifyIconData.solo(
+    IconData(0xe261, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `flag-for-triangular-flag` (duo-tone)
   static const IconifyIconData flagForTriangularFlag = IconifyIconData.duo(
     IconData(0xe08e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -610,6 +780,11 @@ class NotoV1Icons {
   static const IconifyIconData flexedBicepsMediumSkinTone = IconifyIconData.duo(
     IconData(0xe1f0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1f0, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `flushed-face`
+  static const IconifyIconData flushedFace = IconifyIconData.solo(
+    IconData(0xe262, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `fog` (duo-tone)
@@ -668,6 +843,11 @@ class NotoV1Icons {
     IconData(0xe1f3, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `handshake`
+  static const IconifyIconData handshake = IconifyIconData.solo(
+    IconData(0xe263, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `heart-decoration` (duo-tone)
   static const IconifyIconData heartDecoration = IconifyIconData.duo(
     IconData(0xe1f4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -723,6 +903,11 @@ class NotoV1Icons {
     IconData(0xe0b2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `honeybee`
+  static const IconifyIconData honeybee = IconifyIconData.solo(
+    IconData(0xe264, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `hot-springs`
   static const IconifyIconData hotSprings = IconifyIconData.solo(
     IconData(0xe0b5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -733,10 +918,25 @@ class NotoV1Icons {
     IconData(0xe0b6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `hushed-face`
+  static const IconifyIconData hushedFace = IconifyIconData.solo(
+    IconData(0xe0b7, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `ice-skate`
+  static const IconifyIconData iceSkate = IconifyIconData.solo(
+    IconData(0xe265, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `id-button` (duo-tone)
   static const IconifyIconData idButton = IconifyIconData.duo(
     IconData(0xe1f9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1f9, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `incoming-envelope`
+  static const IconifyIconData incomingEnvelope = IconifyIconData.solo(
+    IconData(0xe266, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `information`
@@ -846,6 +1046,16 @@ class NotoV1Icons {
     IconData(0xe0cc, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `joker`
+  static const IconifyIconData joker = IconifyIconData.solo(
+    IconData(0xe267, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `kaaba`
+  static const IconifyIconData kaaba = IconifyIconData.solo(
+    IconData(0xe268, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `key`
   static const IconifyIconData key = IconifyIconData.solo(
     IconData(0xe0cf, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -885,6 +1095,11 @@ class NotoV1Icons {
   static const IconifyIconData kissingFaceWithSmilingEyes = IconifyIconData.duo(
     IconData(0xe0d1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe0d1, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `label`
+  static const IconifyIconData label = IconifyIconData.solo(
+    IconData(0xe269, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `large-blue-diamond`
@@ -1122,9 +1337,210 @@ class NotoV1Icons {
     IconData(0xe207, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `lying-face`
+  static const IconifyIconData lyingFace = IconifyIconData.solo(
+    IconData(0xe26a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `male-sign`
   static const IconifyIconData maleSign = IconifyIconData.solo(
     IconData(0xe0ff, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-bowing` (duo-tone)
+  static const IconifyIconData manBowing = IconifyIconData.duo(
+    IconData(0xe26b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe26b, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-bowing-dark-skin-tone` (duo-tone)
+  static const IconifyIconData manBowingDarkSkinTone = IconifyIconData.duo(
+    IconData(0xe26c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe26c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-bowing-light-skin-tone` (duo-tone)
+  static const IconifyIconData manBowingLightSkinTone = IconifyIconData.duo(
+    IconData(0xe26d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe26d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-bowing-medium-dark-skin-tone` (duo-tone)
+  static const IconifyIconData manBowingMediumDarkSkinTone = IconifyIconData.duo(
+    IconData(0xe26e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe26e, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-bowing-medium-light-skin-tone` (duo-tone)
+  static const IconifyIconData manBowingMediumLightSkinTone = IconifyIconData.duo(
+    IconData(0xe26f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe26f, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-bowing-medium-skin-tone` (duo-tone)
+  static const IconifyIconData manBowingMediumSkinTone = IconifyIconData.duo(
+    IconData(0xe270, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe270, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-farmer`
+  static const IconifyIconData manFarmer = IconifyIconData.solo(
+    IconData(0xe271, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-farmer-dark-skin-tone`
+  static const IconifyIconData manFarmerDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe272, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-farmer-light-skin-tone`
+  static const IconifyIconData manFarmerLightSkinTone = IconifyIconData.solo(
+    IconData(0xe273, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-farmer-medium-dark-skin-tone`
+  static const IconifyIconData manFarmerMediumDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe274, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-farmer-medium-light-skin-tone`
+  static const IconifyIconData manFarmerMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe275, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-farmer-medium-skin-tone`
+  static const IconifyIconData manFarmerMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe276, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-in-business-suit-levitating`
+  static const IconifyIconData manInBusinessSuitLevitating = IconifyIconData.solo(
+    IconData(0xe277, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-in-suit-levitating`
+  static const IconifyIconData manInSuitLevitating = IconifyIconData.solo(
+    IconData(0xe278, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-mountain-biking`
+  static const IconifyIconData manMountainBiking = IconifyIconData.solo(
+    IconData(0xe279, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-mountain-biking-dark-skin-tone`
+  static const IconifyIconData manMountainBikingDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe27a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-mountain-biking-light-skin-tone`
+  static const IconifyIconData manMountainBikingLightSkinTone = IconifyIconData.solo(
+    IconData(0xe27b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-mountain-biking-medium-dark-skin-tone`
+  static const IconifyIconData manMountainBikingMediumDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe27c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-mountain-biking-medium-light-skin-tone`
+  static const IconifyIconData manMountainBikingMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe27d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-mountain-biking-medium-skin-tone`
+  static const IconifyIconData manMountainBikingMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe27e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-playing-water-polo`
+  static const IconifyIconData manPlayingWaterPolo = IconifyIconData.solo(
+    IconData(0xe27f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-playing-water-polo-dark-skin-tone`
+  static const IconifyIconData manPlayingWaterPoloDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe280, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-playing-water-polo-light-skin-tone`
+  static const IconifyIconData manPlayingWaterPoloLightSkinTone = IconifyIconData.solo(
+    IconData(0xe281, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-playing-water-polo-medium-dark-skin-tone`
+  static const IconifyIconData manPlayingWaterPoloMediumDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe282, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-playing-water-polo-medium-light-skin-tone`
+  static const IconifyIconData manPlayingWaterPoloMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe283, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-playing-water-polo-medium-skin-tone`
+  static const IconifyIconData manPlayingWaterPoloMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe284, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-singer`
+  static const IconifyIconData manSinger = IconifyIconData.solo(
+    IconData(0xe285, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-singer-dark-skin-tone`
+  static const IconifyIconData manSingerDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe286, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-singer-light-skin-tone`
+  static const IconifyIconData manSingerLightSkinTone = IconifyIconData.solo(
+    IconData(0xe287, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-singer-medium-dark-skin-tone`
+  static const IconifyIconData manSingerMediumDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe288, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-singer-medium-light-skin-tone`
+  static const IconifyIconData manSingerMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe289, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-singer-medium-skin-tone`
+  static const IconifyIconData manSingerMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe28a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-teacher`
+  static const IconifyIconData manTeacher = IconifyIconData.solo(
+    IconData(0xe28b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-teacher-dark-skin-tone`
+  static const IconifyIconData manTeacherDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe28c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-teacher-light-skin-tone`
+  static const IconifyIconData manTeacherLightSkinTone = IconifyIconData.solo(
+    IconData(0xe28d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-teacher-medium-dark-skin-tone`
+  static const IconifyIconData manTeacherMediumDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe28e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-teacher-medium-light-skin-tone`
+  static const IconifyIconData manTeacherMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe28f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `man-teacher-medium-skin-tone`
+  static const IconifyIconData manTeacherMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe290, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `meat-on-bone` (duo-tone)
@@ -1143,6 +1559,16 @@ class NotoV1Icons {
     IconData(0xe101, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `memo`
+  static const IconifyIconData memo = IconifyIconData.solo(
+    IconData(0xe291, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `mens-room`
+  static const IconifyIconData mensRoom = IconifyIconData.solo(
+    IconData(0xe102, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `microphone` (duo-tone)
   static const IconifyIconData microphone = IconifyIconData.duo(
     IconData(0xe209, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -1157,6 +1583,36 @@ class NotoV1Icons {
   /// `minus-sign`
   static const IconifyIconData minusSign = IconifyIconData.solo(
     IconData(0xe107, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `money-mouth-face`
+  static const IconifyIconData moneyMouthFace = IconifyIconData.solo(
+    IconData(0xe10a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `money-with-wings`
+  static const IconifyIconData moneyWithWings = IconifyIconData.solo(
+    IconData(0xe292, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `motor-boat`
+  static const IconifyIconData motorBoat = IconifyIconData.solo(
+    IconData(0xe293, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `motor-scooter`
+  static const IconifyIconData motorScooter = IconifyIconData.solo(
+    IconData(0xe294, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `motorcycle`
+  static const IconifyIconData motorcycle = IconifyIconData.solo(
+    IconData(0xe10b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `motorway`
+  static const IconifyIconData motorway = IconifyIconData.solo(
+    IconData(0xe295, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `mount-fuji` (duo-tone)
@@ -1176,6 +1632,16 @@ class NotoV1Icons {
     IconData(0xe111, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `nauseated-face`
+  static const IconifyIconData nauseatedFace = IconifyIconData.solo(
+    IconData(0xe112, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `nerd-face`
+  static const IconifyIconData nerdFace = IconifyIconData.solo(
+    IconData(0xe296, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `neutral-face` (duo-tone)
   static const IconifyIconData neutralFace = IconifyIconData.duo(
     IconData(0xe113, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -1192,6 +1658,11 @@ class NotoV1Icons {
   static const IconifyIconData newMoon = IconifyIconData.duo(
     IconData(0xe115, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe115, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `newspaper`
+  static const IconifyIconData newspaper = IconifyIconData.solo(
+    IconData(0xe297, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `next-track-button`
@@ -1269,6 +1740,11 @@ class NotoV1Icons {
   static const IconifyIconData officeBuilding = IconifyIconData.duo(
     IconData(0xe11f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe11f, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `oil-drum`
+  static const IconifyIconData oilDrum = IconifyIconData.solo(
+    IconData(0xe121, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `ok-button` (duo-tone)
@@ -1420,6 +1896,16 @@ class NotoV1Icons {
     IconData(0xe131, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `page-facing-up`
+  static const IconifyIconData pageFacingUp = IconifyIconData.solo(
+    IconData(0xe298, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `page-with-curl`
+  static const IconifyIconData pageWithCurl = IconifyIconData.solo(
+    IconData(0xe299, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `panda` (duo-tone)
   static const IconifyIconData panda = IconifyIconData.duo(
     IconData(0xe133, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -1452,10 +1938,121 @@ class NotoV1Icons {
     IconData(0xe13a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `peace-symbol`
+  static const IconifyIconData peaceSymbol = IconifyIconData.solo(
+    IconData(0xe29a, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `peanuts`
+  static const IconifyIconData peanuts = IconifyIconData.solo(
+    IconData(0xe29b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `pensive-face` (duo-tone)
   static const IconifyIconData pensiveFace = IconifyIconData.duo(
     IconData(0xe13b, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe13b, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-bowing` (duo-tone)
+  static const IconifyIconData personBowing = IconifyIconData.duo(
+    IconData(0xe29c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe29c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-bowing-dark-skin-tone` (duo-tone)
+  static const IconifyIconData personBowingDarkSkinTone = IconifyIconData.duo(
+    IconData(0xe29d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe29d, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-bowing-light-skin-tone` (duo-tone)
+  static const IconifyIconData personBowingLightSkinTone = IconifyIconData.duo(
+    IconData(0xe29e, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe29e, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-bowing-medium-dark-skin-tone` (duo-tone)
+  static const IconifyIconData personBowingMediumDarkSkinTone = IconifyIconData.duo(
+    IconData(0xe29f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe29f, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-bowing-medium-light-skin-tone` (duo-tone)
+  static const IconifyIconData personBowingMediumLightSkinTone = IconifyIconData.duo(
+    IconData(0xe2a0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe2a0, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-bowing-medium-skin-tone` (duo-tone)
+  static const IconifyIconData personBowingMediumSkinTone = IconifyIconData.duo(
+    IconData(0xe2a1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe2a1, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-in-suit-levitating`
+  static const IconifyIconData personInSuitLevitating = IconifyIconData.solo(
+    IconData(0xe2a2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-mountain-biking`
+  static const IconifyIconData personMountainBiking = IconifyIconData.solo(
+    IconData(0xe2a3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-mountain-biking-dark-skin-tone`
+  static const IconifyIconData personMountainBikingDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2a4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-mountain-biking-light-skin-tone`
+  static const IconifyIconData personMountainBikingLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2a5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-mountain-biking-medium-dark-skin-tone`
+  static const IconifyIconData personMountainBikingMediumDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2a6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-mountain-biking-medium-light-skin-tone`
+  static const IconifyIconData personMountainBikingMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2a7, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-mountain-biking-medium-skin-tone`
+  static const IconifyIconData personMountainBikingMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe2a8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-playing-water-polo`
+  static const IconifyIconData personPlayingWaterPolo = IconifyIconData.solo(
+    IconData(0xe2a9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-playing-water-polo-dark-skin-tone`
+  static const IconifyIconData personPlayingWaterPoloDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2aa, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-playing-water-polo-light-skin-tone`
+  static const IconifyIconData personPlayingWaterPoloLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2ab, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-playing-water-polo-medium-dark-skin-tone`
+  static const IconifyIconData personPlayingWaterPoloMediumDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2ac, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-playing-water-polo-medium-light-skin-tone`
+  static const IconifyIconData personPlayingWaterPoloMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2ad, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `person-playing-water-polo-medium-skin-tone`
+  static const IconifyIconData personPlayingWaterPoloMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe2ae, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `pill` (duo-tone)
@@ -1495,6 +2092,11 @@ class NotoV1Icons {
     IconData(0xe146, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `potable-water`
+  static const IconifyIconData potableWater = IconifyIconData.solo(
+    IconData(0xe147, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `poultry-leg` (duo-tone)
   static const IconifyIconData poultryLeg = IconifyIconData.duo(
     IconData(0xe222, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -1518,6 +2120,26 @@ class NotoV1Icons {
     IconData(0xe224, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `pregnant-woman`
+  static const IconifyIconData pregnantWoman = IconifyIconData.solo(
+    IconData(0xe2af, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `pregnant-woman-light-skin-tone`
+  static const IconifyIconData pregnantWomanLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2b0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `pregnant-woman-medium-light-skin-tone`
+  static const IconifyIconData pregnantWomanMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2b1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `pregnant-woman-medium-skin-tone`
+  static const IconifyIconData pregnantWomanMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe2b2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `prohibited` (duo-tone)
   static const IconifyIconData prohibited = IconifyIconData.duo(
     IconData(0xe225, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -1527,6 +2149,11 @@ class NotoV1Icons {
   /// `question-mark`
   static const IconifyIconData questionMark = IconifyIconData.solo(
     IconData(0xe149, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `racing-car`
+  static const IconifyIconData racingCar = IconifyIconData.solo(
+    IconData(0xe14c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `radioactive`
@@ -1630,6 +2257,36 @@ class NotoV1Icons {
     IconData(0xe22f, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `raising-hands`
+  static const IconifyIconData raisingHands = IconifyIconData.solo(
+    IconData(0xe2b3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `raising-hands-dark-skin-tone`
+  static const IconifyIconData raisingHandsDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2b4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `raising-hands-light-skin-tone`
+  static const IconifyIconData raisingHandsLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2b5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `raising-hands-medium-dark-skin-tone`
+  static const IconifyIconData raisingHandsMediumDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2b6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `raising-hands-medium-light-skin-tone`
+  static const IconifyIconData raisingHandsMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2b7, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `raising-hands-medium-skin-tone`
+  static const IconifyIconData raisingHandsMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe2b8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `record-button`
   static const IconifyIconData recordButton = IconifyIconData.solo(
     IconData(0xe156, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -1723,6 +2380,11 @@ class NotoV1Icons {
     IconData(0xe234, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `ring`
+  static const IconifyIconData ring = IconifyIconData.solo(
+    IconData(0xe2b9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `rugby-football` (duo-tone)
   static const IconifyIconData rugbyFootball = IconifyIconData.duo(
     IconData(0xe235, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -1732,6 +2394,11 @@ class NotoV1Icons {
   /// `sagittarius`
   static const IconifyIconData sagittarius = IconifyIconData.solo(
     IconData(0xe169, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `scissors`
+  static const IconifyIconData scissors = IconifyIconData.solo(
+    IconData(0xe2ba, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `scorpio`
@@ -1756,14 +2423,29 @@ class NotoV1Icons {
     IconData(0xe237, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `shrimp`
+  static const IconifyIconData shrimp = IconifyIconData.solo(
+    IconData(0xe2bb, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `shuffle-tracks-button`
   static const IconifyIconData shuffleTracksButton = IconifyIconData.solo(
     IconData(0xe16f, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `skier`
+  static const IconifyIconData skier = IconifyIconData.solo(
+    IconData(0xe2bc, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `skull`
   static const IconifyIconData skull = IconifyIconData.solo(
     IconData(0xe171, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `skull-and-crossbones`
+  static const IconifyIconData skullAndCrossbones = IconifyIconData.solo(
+    IconData(0xe2bd, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `small-blue-diamond`
@@ -1775,6 +2457,11 @@ class NotoV1Icons {
   static const IconifyIconData smilingCatFaceWithOpenMouth = IconifyIconData.duo(
     IconData(0xe238, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe238, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `smiling-face`
+  static const IconifyIconData smilingFace = IconifyIconData.solo(
+    IconData(0xe177, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `snowflake`
@@ -1835,10 +2522,20 @@ class NotoV1Icons {
     IconData(0xe186, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `spider`
+  static const IconifyIconData spider = IconifyIconData.solo(
+    IconData(0xe187, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `spider-web` (duo-tone)
   static const IconifyIconData spiderWeb = IconifyIconData.duo(
     IconData(0xe188, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe188, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `spiral-notepad`
+  static const IconifyIconData spiralNotepad = IconifyIconData.solo(
+    IconData(0xe2be, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `spoon`
@@ -1846,10 +2543,31 @@ class NotoV1Icons {
     IconData(0xe189, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `sports-medal` (duo-tone)
+  static const IconifyIconData sportsMedal = IconifyIconData.duo(
+    IconData(0xe2bf, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe2bf, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `squinting-face-with-tongue`
+  static const IconifyIconData squintingFaceWithTongue = IconifyIconData.solo(
+    IconData(0xe2c0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `stadium`
+  static const IconifyIconData stadium = IconifyIconData.solo(
+    IconData(0xe2c1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `star` (duo-tone)
   static const IconifyIconData star = IconifyIconData.duo(
     IconData(0xe23c, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe23c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `star-of-david`
+  static const IconifyIconData starOfDavid = IconifyIconData.solo(
+    IconData(0xe2c2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `stop-button`
@@ -1868,6 +2586,12 @@ class NotoV1Icons {
     IconData(0xe18d, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `sunglasses` (duo-tone)
+  static const IconifyIconData sunglasses = IconifyIconData.duo(
+    IconData(0xe2c3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe2c3, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `sweat-droplets`
   static const IconifyIconData sweatDroplets = IconifyIconData.solo(
     IconData(0xe193, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -1882,6 +2606,21 @@ class NotoV1Icons {
   static const IconifyIconData telephoneReceiver = IconifyIconData.duo(
     IconData(0xe195, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe195, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `telescope`
+  static const IconifyIconData telescope = IconifyIconData.solo(
+    IconData(0xe196, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `thermometer`
+  static const IconifyIconData thermometer = IconifyIconData.solo(
+    IconData(0xe198, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `thinking-face`
+  static const IconifyIconData thinkingFace = IconifyIconData.solo(
+    IconData(0xe199, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `thought-balloon` (duo-tone)
@@ -1980,6 +2719,11 @@ class NotoV1Icons {
     IconData(0xe1a2, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `trackball`
+  static const IconifyIconData trackball = IconifyIconData.solo(
+    IconData(0xe1a3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `trade-mark`
   static const IconifyIconData tradeMark = IconifyIconData.solo(
     IconData(0xe1a5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -1995,6 +2739,21 @@ class NotoV1Icons {
   static const IconifyIconData tridentEmblem = IconifyIconData.duo(
     IconData(0xe247, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe247, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `tumbler-glass`
+  static const IconifyIconData tumblerGlass = IconifyIconData.solo(
+    IconData(0xe2c4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `unamused-face`
+  static const IconifyIconData unamusedFace = IconifyIconData.solo(
+    IconData(0xe1aa, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `unknown-flag`
+  static const IconifyIconData unknownFlag = IconifyIconData.solo(
+    IconData(0xe2c5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `up-arrow`
@@ -2029,6 +2788,11 @@ class NotoV1Icons {
     IconData(0xe1b1, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `video-game`
+  static const IconifyIconData videoGame = IconifyIconData.solo(
+    IconData(0xe2c6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `videocassette` (duo-tone)
   static const IconifyIconData videocassette = IconifyIconData.duo(
     IconData(0xe1b3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -2052,6 +2816,26 @@ class NotoV1Icons {
     IconData(0xe1bb, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `waving-hand`
+  static const IconifyIconData wavingHand = IconifyIconData.solo(
+    IconData(0xe2c7, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `waving-hand-light-skin-tone`
+  static const IconifyIconData wavingHandLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2c8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `waving-hand-medium-light-skin-tone`
+  static const IconifyIconData wavingHandMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2c9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `waving-hand-medium-skin-tone`
+  static const IconifyIconData wavingHandMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe2ca, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `wavy-dash`
   static const IconifyIconData wavyDash = IconifyIconData.solo(
     IconData(0xe1bd, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -2069,6 +2853,11 @@ class NotoV1Icons {
     IconData(0xe249, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `wheelchair-symbol`
+  static const IconifyIconData wheelchairSymbol = IconifyIconData.solo(
+    IconData(0xe1bf, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `white-circle`
   static const IconifyIconData whiteCircle = IconifyIconData.solo(
     IconData(0xe1c0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
@@ -2077,6 +2866,11 @@ class NotoV1Icons {
   /// `white-exclamation-mark`
   static const IconifyIconData whiteExclamationMark = IconifyIconData.solo(
     IconData(0xe1c1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `white-flower`
+  static const IconifyIconData whiteFlower = IconifyIconData.solo(
+    IconData(0xe2cb, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `white-heavy-check-mark` (duo-tone)
@@ -2122,10 +2916,214 @@ class NotoV1Icons {
     IconData(0xe24c, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
   );
 
+  /// `wind-face`
+  static const IconifyIconData windFace = IconifyIconData.solo(
+    IconData(0xe1c8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
   /// `winking-face` (duo-tone)
   static const IconifyIconData winkingFace = IconifyIconData.duo(
     IconData(0xe1c9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1c9, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-bowing` (duo-tone)
+  static const IconifyIconData womanBowing = IconifyIconData.duo(
+    IconData(0xe2cc, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe2cc, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-bowing-light-skin-tone` (duo-tone)
+  static const IconifyIconData womanBowingLightSkinTone = IconifyIconData.duo(
+    IconData(0xe2cd, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe2cd, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-bowing-medium-light-skin-tone` (duo-tone)
+  static const IconifyIconData womanBowingMediumLightSkinTone = IconifyIconData.duo(
+    IconData(0xe2ce, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe2ce, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-bowing-medium-skin-tone` (duo-tone)
+  static const IconifyIconData womanBowingMediumSkinTone = IconifyIconData.duo(
+    IconData(0xe2cf, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+    IconData(0xe2cf, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-cook-light-skin-tone`
+  static const IconifyIconData womanCookLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2d0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-cook-medium-light-skin-tone`
+  static const IconifyIconData womanCookMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2d1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-cook-medium-skin-tone`
+  static const IconifyIconData womanCookMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe2d2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-farmer`
+  static const IconifyIconData womanFarmer = IconifyIconData.solo(
+    IconData(0xe2d3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-farmer-dark-skin-tone`
+  static const IconifyIconData womanFarmerDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2d4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-farmer-light-skin-tone`
+  static const IconifyIconData womanFarmerLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2d5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-farmer-medium-dark-skin-tone`
+  static const IconifyIconData womanFarmerMediumDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2d6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-farmer-medium-light-skin-tone`
+  static const IconifyIconData womanFarmerMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2d7, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-farmer-medium-skin-tone`
+  static const IconifyIconData womanFarmerMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe2d8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-guard`
+  static const IconifyIconData womanGuard = IconifyIconData.solo(
+    IconData(0xe2d9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-guard-dark-skin-tone`
+  static const IconifyIconData womanGuardDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2da, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-guard-light-skin-tone`
+  static const IconifyIconData womanGuardLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2db, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-guard-medium-dark-skin-tone`
+  static const IconifyIconData womanGuardMediumDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2dc, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-guard-medium-light-skin-tone`
+  static const IconifyIconData womanGuardMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2dd, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-guard-medium-skin-tone`
+  static const IconifyIconData womanGuardMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe2de, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-health-worker`
+  static const IconifyIconData womanHealthWorker = IconifyIconData.solo(
+    IconData(0xe2df, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-health-worker-light-skin-tone`
+  static const IconifyIconData womanHealthWorkerLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2e0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-health-worker-medium-light-skin-tone`
+  static const IconifyIconData womanHealthWorkerMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2e1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-health-worker-medium-skin-tone`
+  static const IconifyIconData womanHealthWorkerMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe2e2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-playing-water-polo`
+  static const IconifyIconData womanPlayingWaterPolo = IconifyIconData.solo(
+    IconData(0xe2e3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-playing-water-polo-dark-skin-tone`
+  static const IconifyIconData womanPlayingWaterPoloDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2e4, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-playing-water-polo-light-skin-tone`
+  static const IconifyIconData womanPlayingWaterPoloLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2e5, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-playing-water-polo-medium-dark-skin-tone`
+  static const IconifyIconData womanPlayingWaterPoloMediumDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2e6, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-playing-water-polo-medium-light-skin-tone`
+  static const IconifyIconData womanPlayingWaterPoloMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2e7, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-playing-water-polo-medium-skin-tone`
+  static const IconifyIconData womanPlayingWaterPoloMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe2e8, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-singer`
+  static const IconifyIconData womanSinger = IconifyIconData.solo(
+    IconData(0xe2e9, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-singer-light-skin-tone`
+  static const IconifyIconData womanSingerLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2ea, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-singer-medium-light-skin-tone`
+  static const IconifyIconData womanSingerMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2eb, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-singer-medium-skin-tone`
+  static const IconifyIconData womanSingerMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe2ec, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-teacher`
+  static const IconifyIconData womanTeacher = IconifyIconData.solo(
+    IconData(0xe2ed, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-teacher-dark-skin-tone`
+  static const IconifyIconData womanTeacherDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2ee, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-teacher-light-skin-tone`
+  static const IconifyIconData womanTeacherLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2ef, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-teacher-medium-dark-skin-tone`
+  static const IconifyIconData womanTeacherMediumDarkSkinTone = IconifyIconData.solo(
+    IconData(0xe2f0, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-teacher-medium-light-skin-tone`
+  static const IconifyIconData womanTeacherMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe2f1, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `woman-teacher-medium-skin-tone`
+  static const IconifyIconData womanTeacherMediumSkinTone = IconifyIconData.solo(
+    IconData(0xe2f2, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
   /// `womans-hat` (duo-tone)
@@ -2138,6 +3136,21 @@ class NotoV1Icons {
   static const IconifyIconData womensRoom = IconifyIconData.duo(
     IconData(0xe1ca, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
     IconData(0xe1ca, fontFamily: 'NotoV1Secondary', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `worried-face`
+  static const IconifyIconData worriedFace = IconifyIconData.solo(
+    IconData(0xe1cc, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `yin-yang`
+  static const IconifyIconData yinYang = IconifyIconData.solo(
+    IconData(0xe2f3, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
+  );
+
+  /// `zipper-mouth-face`
+  static const IconifyIconData zipperMouthFace = IconifyIconData.solo(
+    IconData(0xe1ce, fontFamily: 'NotoV1', fontPackage: 'iconifyx_noto_v1'),
   );
 
 }

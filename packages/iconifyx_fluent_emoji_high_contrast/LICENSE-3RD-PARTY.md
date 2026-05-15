@@ -5,4 +5,4 @@ This package bundles the Iconify icon set "fluent-emoji-high-contrast" (Fluent E
 - Author: Microsoft Corporation (https://github.com/microsoft/fluentui-emoji)
 - License: MIT (SPDX: MIT)
 - License URL: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
-- Icon count: 1545
+- Icon count: 1551

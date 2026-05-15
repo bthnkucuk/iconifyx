@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/stash-ui/icons/blob/master/LICENSE',
-  iconCount: 972,
+  iconCount: 980,
 );

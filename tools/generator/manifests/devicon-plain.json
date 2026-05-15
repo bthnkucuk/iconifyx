@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "devicon-plain",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Programming",
   "subPackage": "iconifyx_devicon_plain",
   "info": {
@@ -16,17 +16,17 @@
       "spdx": "MIT",
       "url": "https://github.com/devicons/devicon/blob/master/LICENSE"
     },
-    "total": 751
+    "total": 758
   },
   "fonts": [
     {
       "family": "DeviconPlain",
-      "nextCodepoint": 58097,
-      "iconCount": 751
+      "nextCodepoint": 58104,
+      "iconCount": 758
     },
     {
       "family": "DeviconPlainSecondary",
-      "nextCodepoint": 58097,
+      "nextCodepoint": 58104,
       "iconCount": 1
     }
   ],
@@ -230,6 +230,11 @@
       "codepoint": 57383,
       "fontFamily": "DeviconPlain",
       "identifier": "arduino"
+    },
+    "arduino-wordmark": {
+      "codepoint": 58097,
+      "fontFamily": "DeviconPlain",
+      "identifier": "arduinoWordmark"
     },
     "argocd": {
       "codepoint": 57384,
@@ -1231,6 +1236,11 @@
       "fontFamily": "DeviconPlain",
       "identifier": "gitlabWordmark"
     },
+    "gitpod": {
+      "codepoint": 58098,
+      "fontFamily": "DeviconPlain",
+      "identifier": "gitpod"
+    },
     "gitpod-wordmark": {
       "codepoint": 57584,
       "fontFamily": "DeviconPlain",
@@ -1856,6 +1866,11 @@
       "fontFamily": "DeviconPlain",
       "identifier": "labviewWordmark"
     },
+    "laravel": {
+      "codepoint": 58099,
+      "fontFamily": "DeviconPlain",
+      "identifier": "laravel"
+    },
     "laraveljetstream-wordmark": {
       "codepoint": 57709,
       "fontFamily": "DeviconPlain",
@@ -2070,6 +2085,11 @@
       "codepoint": 57751,
       "fontFamily": "DeviconPlain",
       "identifier": "mongodb"
+    },
+    "mongodb-wordmark": {
+      "codepoint": 58100,
+      "fontFamily": "DeviconPlain",
+      "identifier": "mongodbWordmark"
     },
     "monogame-wordmark": {
       "codepoint": 57752,
@@ -3381,7 +3401,7 @@
       "fontFamily": "DeviconPlain",
       "identifier": "towergitWordmark",
       "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "deprecatedSince": "2026-05-15"
     },
     "traefikmesh-wordmark": {
       "codepoint": 58014,
@@ -3493,7 +3513,7 @@
       "fontFamily": "DeviconPlain",
       "identifier": "uwsgi",
       "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "deprecatedSince": "2026-05-15"
     },
     "v8": {
       "codepoint": 58036,
@@ -3726,6 +3746,16 @@
       "fontFamily": "DeviconPlain",
       "identifier": "woocommerceWordmark"
     },
+    "wordpress": {
+      "codepoint": 58101,
+      "fontFamily": "DeviconPlain",
+      "identifier": "wordpress"
+    },
+    "wordpress-wordmark": {
+      "codepoint": 58102,
+      "fontFamily": "DeviconPlain",
+      "identifier": "wordpressWordmark"
+    },
     "xcode": {
       "codepoint": 58082,
       "fontFamily": "DeviconPlain",
@@ -3780,6 +3810,11 @@
       "codepoint": 58092,
       "fontFamily": "DeviconPlain",
       "identifier": "zend"
+    },
+    "zend-wordmark": {
+      "codepoint": 58103,
+      "fontFamily": "DeviconPlain",
+      "identifier": "zendWordmark"
     },
     "zig-wordmark": {
       "codepoint": 58093,

@@ -65,20 +65,27 @@ Re-run `bun run generate -- --clean` to remove its previously generated package 
 
 ## Recovering a "failed" set
 
-19 sets currently fail because of non-standard SVG path data. The error looks like:
+After the validator, retry, stroke-fill (with per-icon fallback), duotone split (opacity + 2-color), paint-order drop, and subprocess bisect passes, **only 4 sets currently fail entirely**: `svg-spinners`, `streamline-kameleon-color`, `fluent-color`, `circle-flags`. Everything else builds to at least a partial Dart class with codepoint-stable entries.
+
+Per-icon failure modes you may still see logged during a regen:
 
 ```
-warn Skipped "icon-park": Got an error parsing the glyph "deer": Expected ",", [ \t\r\n], or end of input but "r" found.
+warn   "<prefix>": skipping bad glyph "<name>" (paint-order risk / validator / stroke-fill panic)
 ```
 
-To attempt rescue:
+These are non-fatal — the icon is marked `deprecated: true` in the manifest (codepoint stays reserved for future Iconify fixes) and excluded from the Dart class + TTF. Coverage and audit reports surface them.
+
+To attempt rescue of a fully-failed set:
 
 1. Open `node_modules/@iconify/json/json/<prefix>.json` and inspect `icons.<bad-glyph>.body`.
-2. Most failures are stray `,r` or non-standard SVG path commands (e.g. animated path `N`). A pre-pass through `svgo` or `oslllo-svg-fixer` usually cleans them.
-3. Implement the pre-pass in `tools/generator/src/svg_preprocess.ts` — wrap `iconToSvg` to optionally normalize the body. Run the pre-pass only for known-bad sets to avoid slowing the happy path.
-4. `bun run generate -- --set <prefix>` to verify.
+2. Most failures are non-standard SVG path commands, gradients, or 3+ color paint-order bodies. See `tools/generator/src/svg_preprocess.ts` for the existing detectors:
+   - Opacity-based duotone → handled.
+   - Two distinct fills → handled (split into duotone primary/secondary).
+   - 3+ fills or gradients → dropped at paint-order. Extending `trySplitTwoColorBody` to handle nested groups may rescue a few more icons.
+   - Stroke-only / evenodd → handled via stroke-fill (pack-level + per-icon).
+3. `bun run generate -- --set <prefix>` to verify after any pre-pass change.
 
-Per-icon skip is also an option: catch parse errors inside `font_builder.ts` and mark the offending icon as deprecated. Currently we skip the whole set when any one icon fails.
+If `oslllo-svg-fixer` panics the worker on a specific body, the parent bisects automatically — no manual intervention. The panic-skipped icon is logged as `"<prefix>": skipping bad glyph "<name>" (stroke-fill panic)`.
 
 ## Updating Bun / Flutter
 
@@ -107,11 +114,13 @@ cd tools/generator
 bun test
 ```
 
-Currently:
-- `identifier.test.ts` — 12 tests covering Dart identifier sanitization edge cases (reserved words, leading digits, collisions).
-- `codepoint_allocator.test.ts` — 8 tests covering preservation of existing codepoints, deprecation flagging, auto-split, determinism.
+Currently 47 tests across 4 files:
+- `identifier.test.ts` — Dart identifier sanitization edge cases (reserved words, leading digits, collisions).
+- `codepoint_allocator.test.ts` — preservation of existing codepoints, deprecation flagging, auto-split, determinism.
+- `glyph_validator.test.ts` — element rejection list, coord-bound regex (the `|\.\d+` alternation is invariant — see CLAUDE.md §5c).
+- `svg_preprocess.test.ts` — duotone split (opacity + two-color), paint-order detection, per-icon raster-trace predicate.
 
-Add tests whenever you change either of those files. They are the highest-risk parts of the pipeline.
+Add tests whenever you change any of those files. They are the highest-risk parts of the pipeline.
 
 ## Determinism check (recommended before pushing)
 

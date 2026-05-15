@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "ion",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "UI 16px / 32px",
   "subPackage": "iconifyx_ion",
   "info": {
@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/ionic-team/ionicons/blob/main/LICENSE"
     },
-    "total": 2601
+    "total": 2602
   },
   "fonts": [
     {
       "family": "Ion",
-      "nextCodepoint": 59945,
-      "iconCount": 2601
+      "nextCodepoint": 59946,
+      "iconCount": 2602
     }
   ],
   "icons": {
@@ -11695,6 +11695,11 @@
       "codepoint": 59677,
       "fontFamily": "Ion",
       "identifier": "socialCodepen"
+    },
+    "social-codepen-outline": {
+      "codepoint": 59945,
+      "fontFamily": "Ion",
+      "identifier": "socialCodepenOutline"
     },
     "social-css3": {
       "codepoint": 59678,

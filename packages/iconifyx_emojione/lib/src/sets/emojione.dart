@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Emoji One
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 350 (split across 2 fonts)
+/// Icons: 357 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -114,6 +114,11 @@ class EmojioneIcons {
     IconData(0xe1fa, fontFamily: 'EmojioneSecondary', fontPackage: 'iconifyx_emojione'),
   );
 
+  /// `blossom`
+  static const IconifyIconData blossom = IconifyIconData.solo(
+    IconData(0xe25a, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
+  );
+
   /// `blue-circle`
   static const IconifyIconData blueCircle = IconifyIconData.solo(
     IconData(0xe011, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
@@ -175,6 +180,11 @@ class EmojioneIcons {
     IconData(0xe01d, fontFamily: 'EmojioneSecondary', fontPackage: 'iconifyx_emojione'),
   );
 
+  /// `cherries`
+  static const IconifyIconData cherries = IconifyIconData.solo(
+    IconData(0xe25b, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
+  );
+
   /// `cinema` (duo-tone)
   static const IconifyIconData cinema = IconifyIconData.duo(
     IconData(0xe020, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
@@ -223,6 +233,11 @@ class EmojioneIcons {
     IconData(0xe02e, fontFamily: 'EmojioneSecondary', fontPackage: 'iconifyx_emojione'),
   );
 
+  /// `cow`
+  static const IconifyIconData cow = IconifyIconData.solo(
+    IconData(0xe25c, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
+  );
+
   /// `crescent-moon`
   static const IconifyIconData crescentMoon = IconifyIconData.solo(
     IconData(0xe030, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
@@ -248,6 +263,11 @@ class EmojioneIcons {
   /// `cyclone`
   static const IconifyIconData cyclone = IconifyIconData.solo(
     IconData(0xe034, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
+  );
+
+  /// `department-store`
+  static const IconifyIconData departmentStore = IconifyIconData.solo(
+    IconData(0xe25d, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
   );
 
   /// `diamond-suit`
@@ -880,6 +900,11 @@ class EmojioneIcons {
     IconData(0xe12b, fontFamily: 'EmojioneSecondary', fontPackage: 'iconifyx_emojione'),
   );
 
+  /// `grapes`
+  static const IconifyIconData grapes = IconifyIconData.solo(
+    IconData(0xe25e, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
+  );
+
   /// `green-heart`
   static const IconifyIconData greenHeart = IconifyIconData.solo(
     IconData(0xe12c, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
@@ -1071,6 +1096,11 @@ class EmojioneIcons {
   static const IconifyIconData japaneseServiceChargeButton = IconifyIconData.duo(
     IconData(0xe148, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
     IconData(0xe148, fontFamily: 'EmojioneSecondary', fontPackage: 'iconifyx_emojione'),
+  );
+
+  /// `japanese-symbol-for-beginner`
+  static const IconifyIconData japaneseSymbolForBeginner = IconifyIconData.solo(
+    IconData(0xe149, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
   );
 
   /// `japanese-vacancy-button` (duo-tone)
@@ -1486,6 +1516,11 @@ class EmojioneIcons {
   static const IconifyIconData playOrPauseButton = IconifyIconData.duo(
     IconData(0xe19f, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
     IconData(0xe19f, fontFamily: 'EmojioneSecondary', fontPackage: 'iconifyx_emojione'),
+  );
+
+  /// `poodle`
+  static const IconifyIconData poodle = IconifyIconData.solo(
+    IconData(0xe25f, fontFamily: 'Emojione', fontPackage: 'iconifyx_emojione'),
   );
 
   /// `potable-water` (duo-tone)

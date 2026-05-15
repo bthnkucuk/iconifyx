@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Icons8
 /// License: MIT
-/// Icons: 93 (split across 2 fonts)
+/// Icons: 97 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -44,6 +44,11 @@ class FlatColorIconsIcons {
   static const IconifyIconData automatic = IconifyIconData.duo(
     IconData(0xe055, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
     IconData(0xe055, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+  );
+
+  /// `automotive`
+  static const IconifyIconData automotive = IconifyIconData.solo(
+    IconData(0xe07b, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
   );
 
   /// `bar-chart`
@@ -164,6 +169,11 @@ class FlatColorIconsIcons {
   static const IconifyIconData dvdLogo = IconifyIconData.duo(
     IconData(0xe060, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
     IconData(0xe060, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+  );
+
+  /// `electrical-threshold`
+  static const IconifyIconData electricalThreshold = IconifyIconData.solo(
+    IconData(0xe016, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
   );
 
   /// `electricity`
@@ -330,6 +340,16 @@ class FlatColorIconsIcons {
   static const IconifyIconData news = IconifyIconData.duo(
     IconData(0xe06b, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
     IconData(0xe06b, fontFamily: 'FlatColorIconsSecondary', fontPackage: 'iconifyx_flat_color_icons'),
+  );
+
+  /// `no-video`
+  static const IconifyIconData noVideo = IconifyIconData.solo(
+    IconData(0xe07c, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
+  );
+
+  /// `nook`
+  static const IconifyIconData nook = IconifyIconData.solo(
+    IconData(0xe036, fontFamily: 'FlatColorIcons', fontPackage: 'iconifyx_flat_color_icons'),
   );
 
   /// `numerical-sorting-12` (duo-tone)

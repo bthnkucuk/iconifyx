@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Twitter
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 707 (split across 2 fonts)
+/// Icons: 715 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1019,6 +1019,11 @@ class TwemojiIcons {
     IconData(0xe22e, fontFamily: 'TwemojiSecondary', fontPackage: 'iconifyx_twemoji'),
   );
 
+  /// `flag-cyprus`
+  static const IconifyIconData flagCyprus = IconifyIconData.solo(
+    IconData(0xe344, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
+  );
+
   /// `flag-denmark` (duo-tone)
   static const IconifyIconData flagDenmark = IconifyIconData.duo(
     IconData(0xe066, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
@@ -1079,6 +1084,11 @@ class TwemojiIcons {
     IconData(0xe234, fontFamily: 'TwemojiSecondary', fontPackage: 'iconifyx_twemoji'),
   );
 
+  /// `flag-for-cyprus`
+  static const IconifyIconData flagForCyprus = IconifyIconData.solo(
+    IconData(0xe345, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
+  );
+
   /// `flag-for-denmark` (duo-tone)
   static const IconifyIconData flagForDenmark = IconifyIconData.duo(
     IconData(0xe06e, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
@@ -1137,6 +1147,11 @@ class TwemojiIcons {
   static const IconifyIconData flagForFlagChina = IconifyIconData.duo(
     IconData(0xe23a, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
     IconData(0xe23a, fontFamily: 'TwemojiSecondary', fontPackage: 'iconifyx_twemoji'),
+  );
+
+  /// `flag-for-flag-cyprus`
+  static const IconifyIconData flagForFlagCyprus = IconifyIconData.solo(
+    IconData(0xe346, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
   );
 
   /// `flag-for-flag-denmark` (duo-tone)
@@ -1545,6 +1560,11 @@ class TwemojiIcons {
   static const IconifyIconData flagQatar = IconifyIconData.duo(
     IconData(0xe0ca, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
     IconData(0xe0ca, fontFamily: 'TwemojiSecondary', fontPackage: 'iconifyx_twemoji'),
+  );
+
+  /// `flag-sark`
+  static const IconifyIconData flagSark = IconifyIconData.solo(
+    IconData(0xe347, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
   );
 
   /// `flag-scotland` (duo-tone)
@@ -3573,6 +3593,11 @@ class TwemojiIcons {
     IconData(0xe301, fontFamily: 'TwemojiSecondary', fontPackage: 'iconifyx_twemoji'),
   );
 
+  /// `saxophone`
+  static const IconifyIconData saxophone = IconifyIconData.solo(
+    IconData(0xe1a4, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
+  );
+
   /// `scarf` (duo-tone)
   static const IconifyIconData scarf = IconifyIconData.duo(
     IconData(0xe302, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
@@ -3642,6 +3667,11 @@ class TwemojiIcons {
   static const IconifyIconData smilingFaceWithHorns = IconifyIconData.duo(
     IconData(0xe30a, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
     IconData(0xe30a, fontFamily: 'TwemojiSecondary', fontPackage: 'iconifyx_twemoji'),
+  );
+
+  /// `smiling-face-with-sunglasses`
+  static const IconifyIconData smilingFaceWithSunglasses = IconifyIconData.solo(
+    IconData(0xe348, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
   );
 
   /// `smirking-face` (duo-tone)
@@ -4153,6 +4183,16 @@ class TwemojiIcons {
   static const IconifyIconData winkingFace = IconifyIconData.duo(
     IconData(0xe340, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
     IconData(0xe340, fontFamily: 'TwemojiSecondary', fontPackage: 'iconifyx_twemoji'),
+  );
+
+  /// `woman-detective`
+  static const IconifyIconData womanDetective = IconifyIconData.solo(
+    IconData(0xe349, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
+  );
+
+  /// `woman-detective-medium-light-skin-tone`
+  static const IconifyIconData womanDetectiveMediumLightSkinTone = IconifyIconData.solo(
+    IconData(0xe34a, fontFamily: 'Twemoji', fontPackage: 'iconifyx_twemoji'),
   );
 
   /// `womens-room` (duo-tone)

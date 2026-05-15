@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "prefix": "svg-spinners",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-15",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_svg_spinners",
+  "info": {
+    "name": "SVG Spinners",
+    "author": {
+      "name": "Utkarsh Verma",
+      "url": "https://github.com/n3r4zzurr0/svg-spinners"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/n3r4zzurr0/svg-spinners/blob/main/LICENSE"
+    },
+    "total": 1
+  },
+  "fonts": [
+    {
+      "family": "SvgSpinners",
+      "nextCodepoint": 57345,
+      "iconCount": 1
+    }
+  ],
+  "icons": {
+    "ring-resize": {
+      "codepoint": 57344,
+      "fontFamily": "SvgSpinners",
+      "identifier": "ringResize"
+    }
+  }
+}

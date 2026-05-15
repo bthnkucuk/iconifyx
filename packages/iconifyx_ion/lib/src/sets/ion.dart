@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Ben Sperry
 /// License: MIT — https://github.com/ionic-team/ionicons/blob/main/LICENSE
-/// Icons: 2601
+/// Icons: 2602
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -11684,6 +11684,11 @@ class IonIcons {
   /// `social-codepen`
   static const IconifyIconData socialCodepen = IconifyIconData.solo(
     IconData(0xe91d, fontFamily: 'Ion', fontPackage: 'iconifyx_ion'),
+  );
+
+  /// `social-codepen-outline`
+  static const IconifyIconData socialCodepenOutline = IconifyIconData.solo(
+    IconData(0xea29, fontFamily: 'Ion', fontPackage: 'iconifyx_ion'),
   );
 
   /// `social-css3`

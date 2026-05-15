@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Emoji One
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 1673
+/// Icons: 1674
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -4499,6 +4499,11 @@ class EmojioneMonotoneIcons {
   /// `footprints`
   static const IconifyIconData footprints = IconifyIconData.solo(
     IconData(0xe380, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
+  );
+
+  /// `fork-and-knife`
+  static const IconifyIconData forkAndKnife = IconifyIconData.solo(
+    IconData(0xe689, fontFamily: 'EmojioneMonotone', fontPackage: 'iconifyx_emojione_monotone'),
   );
 
   /// `fork-and-knife-with-plate`

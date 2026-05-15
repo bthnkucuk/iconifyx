@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "stash",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "UI 24px",
   "subPackage": "iconifyx_stash",
   "info": {
@@ -16,17 +16,17 @@
       "spdx": "MIT",
       "url": "https://github.com/stash-ui/icons/blob/master/LICENSE"
     },
-    "total": 972
+    "total": 980
   },
   "fonts": [
     {
       "family": "Stash",
-      "nextCodepoint": 58316,
-      "iconCount": 972
+      "nextCodepoint": 58324,
+      "iconCount": 980
     },
     {
       "family": "StashSecondary",
-      "nextCodepoint": 58316,
+      "nextCodepoint": 58324,
       "iconCount": 193
     }
   ],
@@ -186,6 +186,11 @@
       "codepoint": 57374,
       "fontFamily": "Stash",
       "identifier": "arrowReply"
+    },
+    "arrow-reply-duotone": {
+      "codepoint": 58316,
+      "fontFamily": "Stash",
+      "identifier": "arrowReplyDuotone"
     },
     "arrow-reply-light": {
       "codepoint": 57375,
@@ -2145,20 +2150,40 @@
       "fontFamily": "Stash",
       "identifier": "fileExport"
     },
+    "file-export-duotone": {
+      "codepoint": 58317,
+      "fontFamily": "Stash",
+      "identifier": "fileExportDuotone"
+    },
     "file-export-light": {
       "codepoint": 57755,
       "fontFamily": "Stash",
       "identifier": "fileExportLight"
+    },
+    "file-export-solid": {
+      "codepoint": 58318,
+      "fontFamily": "Stash",
+      "identifier": "fileExportSolid"
     },
     "file-import": {
       "codepoint": 57756,
       "fontFamily": "Stash",
       "identifier": "fileImport"
     },
+    "file-import-duotone": {
+      "codepoint": 58319,
+      "fontFamily": "Stash",
+      "identifier": "fileImportDuotone"
+    },
     "file-import-light": {
       "codepoint": 57757,
       "fontFamily": "Stash",
       "identifier": "fileImportLight"
+    },
+    "file-import-solid": {
+      "codepoint": 58320,
+      "fontFamily": "Stash",
+      "identifier": "fileImportSolid"
     },
     "filter": {
       "codepoint": 57758,
@@ -2535,11 +2560,21 @@
       "fontFamily": "Stash",
       "identifier": "googleDriveSolid"
     },
+    "graduation-cap": {
+      "codepoint": 58321,
+      "fontFamily": "Stash",
+      "identifier": "graduationCap"
+    },
     "graduation-cap-duotone": {
       "codepoint": 57830,
       "fontFamily": "Stash",
       "identifier": "graduationCapDuotone",
       "duotone": true
+    },
+    "graduation-cap-light": {
+      "codepoint": 58322,
+      "fontFamily": "Stash",
+      "identifier": "graduationCapLight"
     },
     "graduation-cap-solid": {
       "codepoint": 57831,
@@ -3171,6 +3206,11 @@
       "codepoint": 57950,
       "fontFamily": "Stash",
       "identifier": "mailboxFull"
+    },
+    "mailbox-full-duotone": {
+      "codepoint": 58323,
+      "fontFamily": "Stash",
+      "identifier": "mailboxFullDuotone"
     },
     "mailbox-full-light": {
       "codepoint": 57951,

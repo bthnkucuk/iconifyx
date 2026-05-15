@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Emoji One
 /// License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-/// Icons: 247 (split across 2 fonts)
+/// Icons: 367 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -61,6 +61,12 @@ class EmojioneV1Icons {
   static const IconifyIconData bButton = IconifyIconData.duo(
     IconData(0xe007, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe007, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `baby` (duo-tone)
+  static const IconifyIconData baby = IconifyIconData.duo(
+    IconData(0xe15b, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+    IconData(0xe15b, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `backhand-index-pointing-down` (duo-tone)
@@ -139,6 +145,11 @@ class EmojioneV1Icons {
     IconData(0xe0ff, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `card-file-box`
+  static const IconifyIconData cardFileBox = IconifyIconData.solo(
+    IconData(0xe15c, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `celtic-cross`
   static const IconifyIconData celticCross = IconifyIconData.solo(
     IconData(0xe016, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
@@ -179,6 +190,11 @@ class EmojioneV1Icons {
     IconData(0xe01d, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `clapping-hands`
+  static const IconifyIconData clappingHands = IconifyIconData.solo(
+    IconData(0xe01e, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `cloud` (duo-tone)
   static const IconifyIconData cloud = IconifyIconData.duo(
     IconData(0xe01f, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
@@ -189,6 +205,16 @@ class EmojioneV1Icons {
   static const IconifyIconData cloudWithLightning = IconifyIconData.duo(
     IconData(0xe020, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe020, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `cloud-with-rain`
+  static const IconifyIconData cloudWithRain = IconifyIconData.solo(
+    IconData(0xe15d, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `cloud-with-snow`
+  static const IconifyIconData cloudWithSnow = IconifyIconData.solo(
+    IconData(0xe15e, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `confounded-face` (duo-tone)
@@ -219,6 +245,16 @@ class EmojioneV1Icons {
   static const IconifyIconData crossMarkButton = IconifyIconData.duo(
     IconData(0xe024, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe024, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `crown`
+  static const IconifyIconData crown = IconifyIconData.solo(
+    IconData(0xe15f, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `customs`
+  static const IconifyIconData customs = IconifyIconData.solo(
+    IconData(0xe025, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `diamond-suit`
@@ -318,10 +354,20 @@ class EmojioneV1Icons {
     IconData(0xe107, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `face-with-steam-from-nose`
+  static const IconifyIconData faceWithSteamFromNose = IconifyIconData.solo(
+    IconData(0xe160, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `fire` (duo-tone)
   static const IconifyIconData fire = IconifyIconData.duo(
     IconData(0xe108, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe108, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-afghanistan`
+  static const IconifyIconData flagForAfghanistan = IconifyIconData.solo(
+    IconData(0xe161, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-albania` (duo-tone)
@@ -330,16 +376,61 @@ class EmojioneV1Icons {
     IconData(0xe109, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-algeria`
+  static const IconifyIconData flagForAlgeria = IconifyIconData.solo(
+    IconData(0xe162, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-andorra`
+  static const IconifyIconData flagForAndorra = IconifyIconData.solo(
+    IconData(0xe163, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-austria` (duo-tone)
   static const IconifyIconData flagForAustria = IconifyIconData.duo(
     IconData(0xe10a, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe10a, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-azerbaijan`
+  static const IconifyIconData flagForAzerbaijan = IconifyIconData.solo(
+    IconData(0xe164, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-bangladesh` (duo-tone)
   static const IconifyIconData flagForBangladesh = IconifyIconData.duo(
     IconData(0xe10b, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe10b, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-barbados`
+  static const IconifyIconData flagForBarbados = IconifyIconData.solo(
+    IconData(0xe165, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-bermuda`
+  static const IconifyIconData flagForBermuda = IconifyIconData.solo(
+    IconData(0xe166, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-bhutan`
+  static const IconifyIconData flagForBhutan = IconifyIconData.solo(
+    IconData(0xe167, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-bolivia`
+  static const IconifyIconData flagForBolivia = IconifyIconData.solo(
+    IconData(0xe168, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-brunei`
+  static const IconifyIconData flagForBrunei = IconifyIconData.solo(
+    IconData(0xe169, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-cambodia`
+  static const IconifyIconData flagForCambodia = IconifyIconData.solo(
+    IconData(0xe16a, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-canada` (duo-tone)
@@ -354,10 +445,35 @@ class EmojioneV1Icons {
     IconData(0xe03b, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-comoros`
+  static const IconifyIconData flagForComoros = IconifyIconData.solo(
+    IconData(0xe16b, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-denmark` (duo-tone)
   static const IconifyIconData flagForDenmark = IconifyIconData.duo(
     IconData(0xe10d, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe10d, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-dominica`
+  static const IconifyIconData flagForDominica = IconifyIconData.solo(
+    IconData(0xe16c, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-eritrea`
+  static const IconifyIconData flagForEritrea = IconifyIconData.solo(
+    IconData(0xe16d, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-ethiopia`
+  static const IconifyIconData flagForEthiopia = IconifyIconData.solo(
+    IconData(0xe16e, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-fiji`
+  static const IconifyIconData flagForFiji = IconifyIconData.solo(
+    IconData(0xe16f, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-finland` (duo-tone)
@@ -366,10 +482,25 @@ class EmojioneV1Icons {
     IconData(0xe10e, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-flag-afghanistan`
+  static const IconifyIconData flagForFlagAfghanistan = IconifyIconData.solo(
+    IconData(0xe170, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-flag-albania` (duo-tone)
   static const IconifyIconData flagForFlagAlbania = IconifyIconData.duo(
     IconData(0xe10f, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe10f, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-algeria`
+  static const IconifyIconData flagForFlagAlgeria = IconifyIconData.solo(
+    IconData(0xe171, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-andorra`
+  static const IconifyIconData flagForFlagAndorra = IconifyIconData.solo(
+    IconData(0xe172, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-flag-austria` (duo-tone)
@@ -378,10 +509,45 @@ class EmojioneV1Icons {
     IconData(0xe110, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-flag-azerbaijan`
+  static const IconifyIconData flagForFlagAzerbaijan = IconifyIconData.solo(
+    IconData(0xe173, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-flag-bangladesh` (duo-tone)
   static const IconifyIconData flagForFlagBangladesh = IconifyIconData.duo(
     IconData(0xe111, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe111, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-barbados`
+  static const IconifyIconData flagForFlagBarbados = IconifyIconData.solo(
+    IconData(0xe174, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-bermuda`
+  static const IconifyIconData flagForFlagBermuda = IconifyIconData.solo(
+    IconData(0xe175, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-bhutan`
+  static const IconifyIconData flagForFlagBhutan = IconifyIconData.solo(
+    IconData(0xe176, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-bolivia`
+  static const IconifyIconData flagForFlagBolivia = IconifyIconData.solo(
+    IconData(0xe177, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-brunei`
+  static const IconifyIconData flagForFlagBrunei = IconifyIconData.solo(
+    IconData(0xe178, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-cambodia`
+  static const IconifyIconData flagForFlagCambodia = IconifyIconData.solo(
+    IconData(0xe179, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-flag-canada` (duo-tone)
@@ -396,16 +562,46 @@ class EmojioneV1Icons {
     IconData(0xe03e, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-flag-comoros`
+  static const IconifyIconData flagForFlagComoros = IconifyIconData.solo(
+    IconData(0xe17a, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-flag-denmark` (duo-tone)
   static const IconifyIconData flagForFlagDenmark = IconifyIconData.duo(
     IconData(0xe113, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe113, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-flag-dominica`
+  static const IconifyIconData flagForFlagDominica = IconifyIconData.solo(
+    IconData(0xe17b, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-eritrea`
+  static const IconifyIconData flagForFlagEritrea = IconifyIconData.solo(
+    IconData(0xe17c, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-ethiopia`
+  static const IconifyIconData flagForFlagEthiopia = IconifyIconData.solo(
+    IconData(0xe17d, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-fiji`
+  static const IconifyIconData flagForFlagFiji = IconifyIconData.solo(
+    IconData(0xe17e, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-flag-finland` (duo-tone)
   static const IconifyIconData flagForFlagFinland = IconifyIconData.duo(
     IconData(0xe114, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe114, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-gibraltar`
+  static const IconifyIconData flagForFlagGibraltar = IconifyIconData.solo(
+    IconData(0xe17f, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-flag-greece` (duo-tone)
@@ -420,10 +616,25 @@ class EmojioneV1Icons {
     IconData(0xe116, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-flag-grenada`
+  static const IconifyIconData flagForFlagGrenada = IconifyIconData.solo(
+    IconData(0xe180, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-haiti`
+  static const IconifyIconData flagForFlagHaiti = IconifyIconData.solo(
+    IconData(0xe181, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-flag-honduras` (duo-tone)
   static const IconifyIconData flagForFlagHonduras = IconifyIconData.duo(
     IconData(0xe117, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe117, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-hong-kong-sar-china`
+  static const IconifyIconData flagForFlagHongKongSarChina = IconifyIconData.solo(
+    IconData(0xe040, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-flag-indonesia` (duo-tone)
@@ -444,10 +655,45 @@ class EmojioneV1Icons {
     IconData(0xe11a, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-flag-kazakhstan`
+  static const IconifyIconData flagForFlagKazakhstan = IconifyIconData.solo(
+    IconData(0xe182, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-kyrgyzstan`
+  static const IconifyIconData flagForFlagKyrgyzstan = IconifyIconData.solo(
+    IconData(0xe041, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-flag-latvia` (duo-tone)
   static const IconifyIconData flagForFlagLatvia = IconifyIconData.duo(
     IconData(0xe11b, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe11b, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-liechtenstein`
+  static const IconifyIconData flagForFlagLiechtenstein = IconifyIconData.solo(
+    IconData(0xe183, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-malawi`
+  static const IconifyIconData flagForFlagMalawi = IconifyIconData.solo(
+    IconData(0xe184, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-malaysia`
+  static const IconifyIconData flagForFlagMalaysia = IconifyIconData.solo(
+    IconData(0xe185, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-maldives`
+  static const IconifyIconData flagForFlagMaldives = IconifyIconData.solo(
+    IconData(0xe186, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-mauritania`
+  static const IconifyIconData flagForFlagMauritania = IconifyIconData.solo(
+    IconData(0xe044, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-flag-micronesia` (duo-tone)
@@ -456,16 +702,46 @@ class EmojioneV1Icons {
     IconData(0xe11c, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-flag-moldova`
+  static const IconifyIconData flagForFlagMoldova = IconifyIconData.solo(
+    IconData(0xe187, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-flag-monaco` (duo-tone)
   static const IconifyIconData flagForFlagMonaco = IconifyIconData.duo(
     IconData(0xe11d, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe11d, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-flag-montenegro`
+  static const IconifyIconData flagForFlagMontenegro = IconifyIconData.solo(
+    IconData(0xe188, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-morocco`
+  static const IconifyIconData flagForFlagMorocco = IconifyIconData.solo(
+    IconData(0xe189, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-mozambique`
+  static const IconifyIconData flagForFlagMozambique = IconifyIconData.solo(
+    IconData(0xe18a, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-nauru`
+  static const IconifyIconData flagForFlagNauru = IconifyIconData.solo(
+    IconData(0xe045, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-flag-nigeria` (duo-tone)
   static const IconifyIconData flagForFlagNigeria = IconifyIconData.duo(
     IconData(0xe11e, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe11e, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-oman`
+  static const IconifyIconData flagForFlagOman = IconifyIconData.solo(
+    IconData(0xe18b, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-flag-palau` (duo-tone)
@@ -480,16 +756,61 @@ class EmojioneV1Icons {
     IconData(0xe120, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-flag-philippines`
+  static const IconifyIconData flagForFlagPhilippines = IconifyIconData.solo(
+    IconData(0xe18c, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-flag-poland` (duo-tone)
   static const IconifyIconData flagForFlagPoland = IconifyIconData.duo(
     IconData(0xe121, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe121, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-flag-portugal`
+  static const IconifyIconData flagForFlagPortugal = IconifyIconData.solo(
+    IconData(0xe18d, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-rwanda`
+  static const IconifyIconData flagForFlagRwanda = IconifyIconData.solo(
+    IconData(0xe18e, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-saudi-arabia`
+  static const IconifyIconData flagForFlagSaudiArabia = IconifyIconData.solo(
+    IconData(0xe046, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-slovakia`
+  static const IconifyIconData flagForFlagSlovakia = IconifyIconData.solo(
+    IconData(0xe18f, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-slovenia`
+  static const IconifyIconData flagForFlagSlovenia = IconifyIconData.solo(
+    IconData(0xe190, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-flag-somalia` (duo-tone)
   static const IconifyIconData flagForFlagSomalia = IconifyIconData.duo(
     IconData(0xe122, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe122, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-spain`
+  static const IconifyIconData flagForFlagSpain = IconifyIconData.solo(
+    IconData(0xe191, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-st-lucia`
+  static const IconifyIconData flagForFlagStLucia = IconifyIconData.solo(
+    IconData(0xe192, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-st-vincent-and-grenadines`
+  static const IconifyIconData flagForFlagStVincentAndGrenadines = IconifyIconData.solo(
+    IconData(0xe193, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-flag-sweden` (duo-tone)
@@ -522,6 +843,11 @@ class EmojioneV1Icons {
     IconData(0xe04b, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-flag-turkmenistan`
+  static const IconifyIconData flagForFlagTurkmenistan = IconifyIconData.solo(
+    IconData(0xe194, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-flag-ukraine` (duo-tone)
   static const IconifyIconData flagForFlagUkraine = IconifyIconData.duo(
     IconData(0xe04c, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
@@ -532,6 +858,16 @@ class EmojioneV1Icons {
   static const IconifyIconData flagForFlagVietnam = IconifyIconData.duo(
     IconData(0xe04d, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe04d, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-flag-zimbabwe`
+  static const IconifyIconData flagForFlagZimbabwe = IconifyIconData.solo(
+    IconData(0xe195, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-gibraltar`
+  static const IconifyIconData flagForGibraltar = IconifyIconData.solo(
+    IconData(0xe196, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-greece` (duo-tone)
@@ -546,10 +882,25 @@ class EmojioneV1Icons {
     IconData(0xe126, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-grenada`
+  static const IconifyIconData flagForGrenada = IconifyIconData.solo(
+    IconData(0xe197, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-haiti`
+  static const IconifyIconData flagForHaiti = IconifyIconData.solo(
+    IconData(0xe198, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-honduras` (duo-tone)
   static const IconifyIconData flagForHonduras = IconifyIconData.duo(
     IconData(0xe127, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe127, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-hong-kong-sar-china`
+  static const IconifyIconData flagForHongKongSarChina = IconifyIconData.solo(
+    IconData(0xe04e, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-indonesia` (duo-tone)
@@ -570,10 +921,45 @@ class EmojioneV1Icons {
     IconData(0xe12a, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-kazakhstan`
+  static const IconifyIconData flagForKazakhstan = IconifyIconData.solo(
+    IconData(0xe199, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-kyrgyzstan`
+  static const IconifyIconData flagForKyrgyzstan = IconifyIconData.solo(
+    IconData(0xe04f, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-latvia` (duo-tone)
   static const IconifyIconData flagForLatvia = IconifyIconData.duo(
     IconData(0xe12b, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe12b, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-liechtenstein`
+  static const IconifyIconData flagForLiechtenstein = IconifyIconData.solo(
+    IconData(0xe19a, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-malawi`
+  static const IconifyIconData flagForMalawi = IconifyIconData.solo(
+    IconData(0xe19b, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-malaysia`
+  static const IconifyIconData flagForMalaysia = IconifyIconData.solo(
+    IconData(0xe19c, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-maldives`
+  static const IconifyIconData flagForMaldives = IconifyIconData.solo(
+    IconData(0xe19d, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-mauritania`
+  static const IconifyIconData flagForMauritania = IconifyIconData.solo(
+    IconData(0xe052, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-micronesia` (duo-tone)
@@ -582,16 +968,46 @@ class EmojioneV1Icons {
     IconData(0xe12c, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-moldova`
+  static const IconifyIconData flagForMoldova = IconifyIconData.solo(
+    IconData(0xe19e, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-monaco` (duo-tone)
   static const IconifyIconData flagForMonaco = IconifyIconData.duo(
     IconData(0xe12d, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe12d, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-montenegro`
+  static const IconifyIconData flagForMontenegro = IconifyIconData.solo(
+    IconData(0xe19f, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-morocco`
+  static const IconifyIconData flagForMorocco = IconifyIconData.solo(
+    IconData(0xe1a0, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-mozambique`
+  static const IconifyIconData flagForMozambique = IconifyIconData.solo(
+    IconData(0xe1a1, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-nauru`
+  static const IconifyIconData flagForNauru = IconifyIconData.solo(
+    IconData(0xe053, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-nigeria` (duo-tone)
   static const IconifyIconData flagForNigeria = IconifyIconData.duo(
     IconData(0xe12e, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe12e, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-oman`
+  static const IconifyIconData flagForOman = IconifyIconData.solo(
+    IconData(0xe1a2, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-palau` (duo-tone)
@@ -606,16 +1022,61 @@ class EmojioneV1Icons {
     IconData(0xe130, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-philippines`
+  static const IconifyIconData flagForPhilippines = IconifyIconData.solo(
+    IconData(0xe1a3, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-poland` (duo-tone)
   static const IconifyIconData flagForPoland = IconifyIconData.duo(
     IconData(0xe131, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe131, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-portugal`
+  static const IconifyIconData flagForPortugal = IconifyIconData.solo(
+    IconData(0xe1a4, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-rwanda`
+  static const IconifyIconData flagForRwanda = IconifyIconData.solo(
+    IconData(0xe1a5, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-saudi-arabia`
+  static const IconifyIconData flagForSaudiArabia = IconifyIconData.solo(
+    IconData(0xe054, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-slovakia`
+  static const IconifyIconData flagForSlovakia = IconifyIconData.solo(
+    IconData(0xe1a6, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-slovenia`
+  static const IconifyIconData flagForSlovenia = IconifyIconData.solo(
+    IconData(0xe1a7, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-somalia` (duo-tone)
   static const IconifyIconData flagForSomalia = IconifyIconData.duo(
     IconData(0xe132, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe132, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-spain`
+  static const IconifyIconData flagForSpain = IconifyIconData.solo(
+    IconData(0xe1a8, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-st-lucia`
+  static const IconifyIconData flagForStLucia = IconifyIconData.solo(
+    IconData(0xe1a9, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-st-vincent-and-grenadines`
+  static const IconifyIconData flagForStVincentAndGrenadines = IconifyIconData.solo(
+    IconData(0xe1aa, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flag-for-sweden` (duo-tone)
@@ -648,6 +1109,11 @@ class EmojioneV1Icons {
     IconData(0xe059, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `flag-for-turkmenistan`
+  static const IconifyIconData flagForTurkmenistan = IconifyIconData.solo(
+    IconData(0xe1ab, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `flag-for-ukraine` (duo-tone)
   static const IconifyIconData flagForUkraine = IconifyIconData.duo(
     IconData(0xe05a, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
@@ -658,6 +1124,11 @@ class EmojioneV1Icons {
   static const IconifyIconData flagForVietnam = IconifyIconData.duo(
     IconData(0xe05b, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe05b, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `flag-for-zimbabwe`
+  static const IconifyIconData flagForZimbabwe = IconifyIconData.solo(
+    IconData(0xe1ac, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `flexed-biceps`
@@ -677,6 +1148,11 @@ class EmojioneV1Icons {
     IconData(0xe05d, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `fork-and-knife-with-plate`
+  static const IconifyIconData forkAndKnifeWithPlate = IconifyIconData.solo(
+    IconData(0xe1ad, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `free-button` (duo-tone)
   static const IconifyIconData freeButton = IconifyIconData.duo(
     IconData(0xe05e, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
@@ -687,6 +1163,11 @@ class EmojioneV1Icons {
   static const IconifyIconData girlsSymbol = IconifyIconData.duo(
     IconData(0xe063, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe063, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `globe-showing-americas`
+  static const IconifyIconData globeShowingAmericas = IconifyIconData.solo(
+    IconData(0xe1ae, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `globe-with-meridians`
@@ -851,6 +1332,11 @@ class EmojioneV1Icons {
     IconData(0xe13f, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `jeans`
+  static const IconifyIconData jeans = IconifyIconData.solo(
+    IconData(0xe1af, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `keycap-0` (duo-tone)
   static const IconifyIconData keycap0 = IconifyIconData.duo(
     IconData(0xe084, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
@@ -977,6 +1463,11 @@ class EmojioneV1Icons {
     IconData(0xe142, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `litter-in-bin-sign`
+  static const IconifyIconData litterInBinSign = IconifyIconData.solo(
+    IconData(0xe09d, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `locked` (duo-tone)
   static const IconifyIconData locked = IconifyIconData.duo(
     IconData(0xe143, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
@@ -987,6 +1478,21 @@ class EmojioneV1Icons {
   static const IconifyIconData mahjongRedDragon = IconifyIconData.duo(
     IconData(0xe144, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe144, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `map-of-japan`
+  static const IconifyIconData mapOfJapan = IconifyIconData.solo(
+    IconData(0xe1b0, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `microphone`
+  static const IconifyIconData microphone = IconifyIconData.solo(
+    IconData(0xe1b1, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `money-with-wings`
+  static const IconifyIconData moneyWithWings = IconifyIconData.solo(
+    IconData(0xe1b2, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `music-ascend` (duo-tone)
@@ -1024,6 +1530,11 @@ class EmojioneV1Icons {
     IconData(0xe0a1, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `muted-speaker`
+  static const IconifyIconData mutedSpeaker = IconifyIconData.solo(
+    IconData(0xe1b3, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `name-badge` (duo-tone)
   static const IconifyIconData nameBadge = IconifyIconData.duo(
     IconData(0xe0a2, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
@@ -1042,10 +1553,25 @@ class EmojioneV1Icons {
     IconData(0xe0a4, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `no-bicycles`
+  static const IconifyIconData noBicycles = IconifyIconData.solo(
+    IconData(0xe1b4, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `no-entry` (duo-tone)
   static const IconifyIconData noEntry = IconifyIconData.duo(
     IconData(0xe0a5, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe0a5, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `no-pedestrians`
+  static const IconifyIconData noPedestrians = IconifyIconData.solo(
+    IconData(0xe1b5, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `non-potable-water`
+  static const IconifyIconData nonPotableWater = IconifyIconData.solo(
+    IconData(0xe1b6, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `o-button` (duo-tone)
@@ -1093,16 +1619,46 @@ class EmojioneV1Icons {
     IconData(0xe0ae, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `party-popper`
+  static const IconifyIconData partyPopper = IconifyIconData.solo(
+    IconData(0xe1b7, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `passport-control`
+  static const IconifyIconData passportControl = IconifyIconData.solo(
+    IconData(0xe0af, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `persevering-face` (duo-tone)
   static const IconifyIconData perseveringFace = IconifyIconData.duo(
     IconData(0xe14b, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe14b, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `person-golfing`
+  static const IconifyIconData personGolfing = IconifyIconData.solo(
+    IconData(0xe1b8, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `pig`
+  static const IconifyIconData pig = IconifyIconData.solo(
+    IconData(0xe1b9, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `play-button` (duo-tone)
   static const IconifyIconData playButton = IconifyIconData.duo(
     IconData(0xe0b2, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe0b2, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `postbox`
+  static const IconifyIconData postbox = IconifyIconData.solo(
+    IconData(0xe1ba, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `potable-water`
+  static const IconifyIconData potableWater = IconifyIconData.solo(
+    IconData(0xe1bb, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `prohibited` (duo-tone)
@@ -1139,6 +1695,11 @@ class EmojioneV1Icons {
     IconData(0xe0b8, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `recycling-symbol`
+  static const IconifyIconData recyclingSymbol = IconifyIconData.solo(
+    IconData(0xe1bc, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `red-circle`
   static const IconifyIconData redCircle = IconifyIconData.solo(
     IconData(0xe0b9, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
@@ -1158,6 +1719,11 @@ class EmojioneV1Icons {
   /// `red-triangle-pointed-up`
   static const IconifyIconData redTrianglePointedUp = IconifyIconData.solo(
     IconData(0xe0bb, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `restroom`
+  static const IconifyIconData restroom = IconifyIconData.solo(
+    IconData(0xe0bd, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `reverse-button` (duo-tone)
@@ -1192,9 +1758,24 @@ class EmojioneV1Icons {
     IconData(0xe0c7, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
+  /// `ringing-bell`
+  static const IconifyIconData ringingBell = IconifyIconData.solo(
+    IconData(0xe1bd, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `rose`
+  static const IconifyIconData rose = IconifyIconData.solo(
+    IconData(0xe1be, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
   /// `rounded-corners`
   static const IconifyIconData roundedCorners = IconifyIconData.solo(
     IconData(0xe0c8, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `running-shoe`
+  static const IconifyIconData runningShoe = IconifyIconData.solo(
+    IconData(0xe1bf, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `scorpio` (duo-tone)
@@ -1218,6 +1799,11 @@ class EmojioneV1Icons {
   /// `small-blue-diamond`
   static const IconifyIconData smallBlueDiamond = IconifyIconData.solo(
     IconData(0xe0d2, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `snail`
+  static const IconifyIconData snail = IconifyIconData.solo(
+    IconData(0xe1c0, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `snowflake` (duo-tone)
@@ -1281,6 +1867,11 @@ class EmojioneV1Icons {
   static const IconifyIconData triangularRuler = IconifyIconData.duo(
     IconData(0xe152, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe152, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `trumpet`
+  static const IconifyIconData trumpet = IconifyIconData.solo(
+    IconData(0xe1c1, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `turned-ok-hand`
@@ -1439,6 +2030,16 @@ class EmojioneV1Icons {
   static const IconifyIconData whiteSquareButton = IconifyIconData.duo(
     IconData(0xe15a, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
     IconData(0xe15a, fontFamily: 'EmojioneV1Secondary', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `womans-sandal`
+  static const IconifyIconData womansSandal = IconifyIconData.solo(
+    IconData(0xe1c2, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
+  );
+
+  /// `world-map`
+  static const IconifyIconData worldMap = IconifyIconData.solo(
+    IconData(0xe1c3, fontFamily: 'EmojioneV1', fontPackage: 'iconifyx_emojione_v1'),
   );
 
   /// `yellow-heart` (duo-tone)

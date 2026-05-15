@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "circle-flags",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Flags / Maps",
   "subPackage": "iconifyx_circle_flags",
   "info": {
@@ -16,780 +16,1091 @@
       "spdx": "MIT",
       "url": "https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE"
     },
-    "total": 153
+    "total": 1
   },
   "fonts": [
     {
       "family": "CircleFlags",
-      "nextCodepoint": 57497,
-      "iconCount": 153
+      "nextCodepoint": 57498,
+      "iconCount": 1
     }
   ],
   "icons": {
     "ae": {
       "codepoint": 57344,
       "fontFamily": "CircleFlags",
-      "identifier": "ae"
+      "identifier": "ae",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "af-emirate": {
       "codepoint": 57345,
       "fontFamily": "CircleFlags",
-      "identifier": "afEmirate"
+      "identifier": "afEmirate",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ag": {
       "codepoint": 57346,
       "fontFamily": "CircleFlags",
-      "identifier": "ag"
+      "identifier": "ag",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "aq": {
       "codepoint": 57347,
       "fontFamily": "CircleFlags",
-      "identifier": "aq"
+      "identifier": "aq",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "aq-true-south": {
       "codepoint": 57348,
       "fontFamily": "CircleFlags",
-      "identifier": "aqTrueSouth"
+      "identifier": "aqTrueSouth",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ar": {
       "codepoint": 57349,
       "fontFamily": "CircleFlags",
-      "identifier": "ar"
+      "identifier": "ar",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "au-act": {
       "codepoint": 57350,
       "fontFamily": "CircleFlags",
-      "identifier": "auAct"
+      "identifier": "auAct",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "au-torres-strait-islands": {
       "codepoint": 57351,
       "fontFamily": "CircleFlags",
-      "identifier": "auTorresStraitIslands"
+      "identifier": "auTorresStraitIslands",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ba": {
       "codepoint": 57352,
       "fontFamily": "CircleFlags",
-      "identifier": "ba"
+      "identifier": "ba",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "bb": {
       "codepoint": 57353,
       "fontFamily": "CircleFlags",
-      "identifier": "bb"
+      "identifier": "bb",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "br": {
       "codepoint": 57354,
       "fontFamily": "CircleFlags",
-      "identifier": "br"
+      "identifier": "br",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "bs": {
       "codepoint": 57355,
       "fontFamily": "CircleFlags",
-      "identifier": "bs"
+      "identifier": "bs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "bw": {
       "codepoint": 57356,
       "fontFamily": "CircleFlags",
-      "identifier": "bw"
+      "identifier": "bw",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "by": {
       "codepoint": 57357,
       "fontFamily": "CircleFlags",
-      "identifier": "by"
+      "identifier": "by",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "bz": {
       "codepoint": 57358,
       "fontFamily": "CircleFlags",
-      "identifier": "bz"
+      "identifier": "bz",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ca-qc": {
       "codepoint": 57359,
       "fontFamily": "CircleFlags",
-      "identifier": "caQc"
+      "identifier": "caQc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "cc": {
       "codepoint": 57360,
       "fontFamily": "CircleFlags",
-      "identifier": "cc"
+      "identifier": "cc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ch-gr": {
       "codepoint": 57361,
       "fontFamily": "CircleFlags",
-      "identifier": "chGr"
+      "identifier": "chGr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "checkered": {
       "codepoint": 57362,
       "fontFamily": "CircleFlags",
-      "identifier": "checkered"
+      "identifier": "checkered",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "chequered": {
       "codepoint": 57363,
       "fontFamily": "CircleFlags",
-      "identifier": "chequered"
+      "identifier": "chequered",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "cn-xj": {
       "codepoint": 57364,
       "fontFamily": "CircleFlags",
-      "identifier": "cnXj"
+      "identifier": "cnXj",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "cw": {
       "codepoint": 57365,
       "fontFamily": "CircleFlags",
-      "identifier": "cw"
+      "identifier": "cw",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "cx": {
       "codepoint": 57366,
       "fontFamily": "CircleFlags",
-      "identifier": "cx"
+      "identifier": "cx",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "cy": {
       "codepoint": 57367,
       "fontFamily": "CircleFlags",
-      "identifier": "cy"
+      "identifier": "cy",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "earth": {
       "codepoint": 57368,
       "fontFamily": "CircleFlags",
-      "identifier": "earth"
+      "identifier": "earth",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ec-w": {
       "codepoint": 57369,
       "fontFamily": "CircleFlags",
-      "identifier": "ecW"
+      "identifier": "ecW",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ee": {
       "codepoint": 57370,
       "fontFamily": "CircleFlags",
-      "identifier": "ee"
+      "identifier": "ee",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "el": {
       "codepoint": 57371,
       "fontFamily": "CircleFlags",
-      "identifier": "el"
+      "identifier": "el",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "eo": {
       "codepoint": 57372,
       "fontFamily": "CircleFlags",
-      "identifier": "eo"
+      "identifier": "eo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "es-cn": {
       "codepoint": 57373,
       "fontFamily": "CircleFlags",
-      "identifier": "esCn"
+      "identifier": "esCn",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "esperanto": {
       "codepoint": 57374,
       "fontFamily": "CircleFlags",
-      "identifier": "esperanto"
+      "identifier": "esperanto",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "eu": {
       "codepoint": 57375,
       "fontFamily": "CircleFlags",
-      "identifier": "eu"
+      "identifier": "eu",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "european-union": {
       "codepoint": 57376,
       "fontFamily": "CircleFlags",
-      "identifier": "europeanUnion"
+      "identifier": "europeanUnion",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "fi": {
       "codepoint": 57377,
       "fontFamily": "CircleFlags",
-      "identifier": "fi"
+      "identifier": "fi",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "fm": {
       "codepoint": 57378,
       "fontFamily": "CircleFlags",
-      "identifier": "fm"
+      "identifier": "fm",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "fr-bre": {
       "codepoint": 57379,
       "fontFamily": "CircleFlags",
-      "identifier": "frBre"
+      "identifier": "frBre",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ga": {
       "codepoint": 57380,
       "fontFamily": "CircleFlags",
-      "identifier": "ga"
+      "identifier": "ga",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "gb-con": {
       "codepoint": 57381,
       "fontFamily": "CircleFlags",
-      "identifier": "gbCon"
+      "identifier": "gbCon",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "gb-sct": {
       "codepoint": 57382,
       "fontFamily": "CircleFlags",
-      "identifier": "gbSct"
+      "identifier": "gbSct",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "gp": {
       "codepoint": 57383,
       "fontFamily": "CircleFlags",
-      "identifier": "gp"
+      "identifier": "gp",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "gr": {
       "codepoint": 57384,
       "fontFamily": "CircleFlags",
-      "identifier": "gr"
+      "identifier": "gr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "gt": {
       "codepoint": 57385,
       "fontFamily": "CircleFlags",
-      "identifier": "gt"
+      "identifier": "gt",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ha": {
       "codepoint": 57386,
       "fontFamily": "CircleFlags",
-      "identifier": "ha"
+      "identifier": "ha",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "hausa": {
       "codepoint": 57387,
       "fontFamily": "CircleFlags",
-      "identifier": "hausa"
+      "identifier": "hausa",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "he": {
       "codepoint": 57388,
       "fontFamily": "CircleFlags",
-      "identifier": "he"
+      "identifier": "he",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "hn": {
       "codepoint": 57389,
       "fontFamily": "CircleFlags",
-      "identifier": "hn"
+      "identifier": "hn",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ho": {
       "codepoint": 57390,
       "fontFamily": "CircleFlags",
-      "identifier": "ho"
+      "identifier": "ho",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ht": {
       "codepoint": 57391,
       "fontFamily": "CircleFlags",
-      "identifier": "ht"
+      "identifier": "ht",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ic": {
       "codepoint": 57392,
       "fontFamily": "CircleFlags",
-      "identifier": "ic"
+      "identifier": "ic",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "id": {
       "codepoint": 57393,
       "fontFamily": "CircleFlags",
-      "identifier": "id"
+      "identifier": "id",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ig": {
       "codepoint": 57394,
       "fontFamily": "CircleFlags",
-      "identifier": "ig"
+      "identifier": "ig",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "il": {
       "codepoint": 57395,
       "fontFamily": "CircleFlags",
-      "identifier": "il"
+      "identifier": "il",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "in-as": {
       "codepoint": 57396,
       "fontFamily": "CircleFlags",
-      "identifier": "inAs"
+      "identifier": "inAs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "it-25": {
       "codepoint": 57397,
       "fontFamily": "CircleFlags",
-      "identifier": "it25"
+      "identifier": "it25",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "it-36": {
       "codepoint": 57398,
       "fontFamily": "CircleFlags",
-      "identifier": "it36"
+      "identifier": "it36",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
+    },
+    "it-67": {
+      "codepoint": 57497,
+      "fontFamily": "CircleFlags",
+      "identifier": "it67"
     },
     "it-77": {
       "codepoint": 57399,
       "fontFamily": "CircleFlags",
-      "identifier": "it77"
+      "identifier": "it77",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "iw": {
       "codepoint": 57400,
       "fontFamily": "CircleFlags",
-      "identifier": "iw"
+      "identifier": "iw",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "jm": {
       "codepoint": 57401,
       "fontFamily": "CircleFlags",
-      "identifier": "jm"
+      "identifier": "jm",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "jolly-roger": {
       "codepoint": 57402,
       "fontFamily": "CircleFlags",
-      "identifier": "jollyRoger"
+      "identifier": "jollyRoger",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "kk": {
       "codepoint": 57403,
       "fontFamily": "CircleFlags",
-      "identifier": "kk"
+      "identifier": "kk",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "kri": {
       "codepoint": 57404,
       "fontFamily": "CircleFlags",
-      "identifier": "kri"
+      "identifier": "kri",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "kv": {
       "codepoint": 57405,
       "fontFamily": "CircleFlags",
-      "identifier": "kv"
+      "identifier": "kv",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "kz": {
       "codepoint": 57406,
       "fontFamily": "CircleFlags",
-      "identifier": "kz"
+      "identifier": "kz",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-as": {
       "codepoint": 57407,
       "fontFamily": "CircleFlags",
-      "identifier": "langAs"
+      "identifier": "langAs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-be": {
       "codepoint": 57408,
       "fontFamily": "CircleFlags",
-      "identifier": "langBe"
+      "identifier": "langBe",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-br": {
       "codepoint": 57409,
       "fontFamily": "CircleFlags",
-      "identifier": "langBr"
+      "identifier": "langBr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-bs": {
       "codepoint": 57410,
       "fontFamily": "CircleFlags",
-      "identifier": "langBs"
+      "identifier": "langBs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-cv": {
       "codepoint": 57411,
       "fontFamily": "CircleFlags",
-      "identifier": "langCv"
+      "identifier": "langCv",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-el": {
       "codepoint": 57412,
       "fontFamily": "CircleFlags",
-      "identifier": "langEl"
+      "identifier": "langEl",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-eo": {
       "codepoint": 57413,
       "fontFamily": "CircleFlags",
-      "identifier": "langEo"
+      "identifier": "langEo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-et": {
       "codepoint": 57414,
       "fontFamily": "CircleFlags",
-      "identifier": "langEt"
+      "identifier": "langEt",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-fi": {
       "codepoint": 57415,
       "fontFamily": "CircleFlags",
-      "identifier": "langFi"
+      "identifier": "langFi",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-gd": {
       "codepoint": 57416,
       "fontFamily": "CircleFlags",
-      "identifier": "langGd"
+      "identifier": "langGd",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-ha": {
       "codepoint": 57417,
       "fontFamily": "CircleFlags",
-      "identifier": "langHa"
+      "identifier": "langHa",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-he": {
       "codepoint": 57418,
       "fontFamily": "CircleFlags",
-      "identifier": "langHe"
+      "identifier": "langHe",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-ho": {
       "codepoint": 57419,
       "fontFamily": "CircleFlags",
-      "identifier": "langHo"
+      "identifier": "langHo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-ht": {
       "codepoint": 57420,
       "fontFamily": "CircleFlags",
-      "identifier": "langHt"
+      "identifier": "langHt",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-id": {
       "codepoint": 57421,
       "fontFamily": "CircleFlags",
-      "identifier": "langId"
+      "identifier": "langId",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-ig": {
       "codepoint": 57422,
       "fontFamily": "CircleFlags",
-      "identifier": "langIg"
+      "identifier": "langIg",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-io": {
       "codepoint": 57423,
       "fontFamily": "CircleFlags",
-      "identifier": "langIo"
+      "identifier": "langIo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-kk": {
       "codepoint": 57424,
       "fontFamily": "CircleFlags",
-      "identifier": "langKk"
+      "identifier": "langKk",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-kri": {
       "codepoint": 57425,
       "fontFamily": "CircleFlags",
-      "identifier": "langKri"
+      "identifier": "langKri",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-kv": {
       "codepoint": 57426,
       "fontFamily": "CircleFlags",
-      "identifier": "langKv"
+      "identifier": "langKv",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-kw": {
       "codepoint": 57427,
       "fontFamily": "CircleFlags",
-      "identifier": "langKw"
+      "identifier": "langKw",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-lv": {
       "codepoint": 57428,
       "fontFamily": "CircleFlags",
-      "identifier": "langLv"
+      "identifier": "langLv",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-mn": {
       "codepoint": 57429,
       "fontFamily": "CircleFlags",
-      "identifier": "langMn"
+      "identifier": "langMn",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-na": {
       "codepoint": 57430,
       "fontFamily": "CircleFlags",
-      "identifier": "langNa"
+      "identifier": "langNa",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-nl": {
       "codepoint": 57431,
       "fontFamily": "CircleFlags",
-      "identifier": "langNl"
+      "identifier": "langNl",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-non": {
       "codepoint": 57432,
       "fontFamily": "CircleFlags",
-      "identifier": "langNon"
+      "identifier": "langNon",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-rm": {
       "codepoint": 57433,
       "fontFamily": "CircleFlags",
-      "identifier": "langRm"
+      "identifier": "langRm",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-so": {
       "codepoint": 57434,
       "fontFamily": "CircleFlags",
-      "identifier": "langSo"
+      "identifier": "langSo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-ss": {
       "codepoint": 57435,
       "fontFamily": "CircleFlags",
-      "identifier": "langSs"
+      "identifier": "langSs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-st": {
       "codepoint": 57436,
       "fontFamily": "CircleFlags",
-      "identifier": "langSt"
+      "identifier": "langSt",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-sv": {
       "codepoint": 57437,
       "fontFamily": "CircleFlags",
-      "identifier": "langSv"
+      "identifier": "langSv",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-tn": {
       "codepoint": 57438,
       "fontFamily": "CircleFlags",
-      "identifier": "langTn"
+      "identifier": "langTn",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-translingual": {
       "codepoint": 57439,
       "fontFamily": "CircleFlags",
-      "identifier": "langTranslingual"
+      "identifier": "langTranslingual",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-ug": {
       "codepoint": 57440,
       "fontFamily": "CircleFlags",
-      "identifier": "langUg"
+      "identifier": "langUg",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-uk": {
       "codepoint": 57441,
       "fontFamily": "CircleFlags",
-      "identifier": "langUk"
+      "identifier": "langUk",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-vo": {
       "codepoint": 57442,
       "fontFamily": "CircleFlags",
-      "identifier": "langVo"
+      "identifier": "langVo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-xx": {
       "codepoint": 57443,
       "fontFamily": "CircleFlags",
-      "identifier": "langXx"
+      "identifier": "langXx",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lang-yi": {
       "codepoint": 57444,
       "fontFamily": "CircleFlags",
-      "identifier": "langYi"
+      "identifier": "langYi",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lc": {
       "codepoint": 57445,
       "fontFamily": "CircleFlags",
-      "identifier": "lc"
+      "identifier": "lc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lgbt-transgender": {
       "codepoint": 57446,
       "fontFamily": "CircleFlags",
-      "identifier": "lgbtTransgender"
+      "identifier": "lgbtTransgender",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ls": {
       "codepoint": 57447,
       "fontFamily": "CircleFlags",
-      "identifier": "ls"
+      "identifier": "ls",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "lv": {
       "codepoint": 57448,
       "fontFamily": "CircleFlags",
-      "identifier": "lv"
+      "identifier": "lv",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "me": {
       "codepoint": 57449,
       "fontFamily": "CircleFlags",
-      "identifier": "me"
+      "identifier": "me",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "mn": {
       "codepoint": 57450,
       "fontFamily": "CircleFlags",
-      "identifier": "mn"
+      "identifier": "mn",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "mp": {
       "codepoint": 57451,
       "fontFamily": "CircleFlags",
-      "identifier": "mp"
+      "identifier": "mp",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "mq-old": {
       "codepoint": 57452,
       "fontFamily": "CircleFlags",
-      "identifier": "mqOld"
+      "identifier": "mqOld",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "nato": {
       "codepoint": 57453,
       "fontFamily": "CircleFlags",
-      "identifier": "nato"
+      "identifier": "nato",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "nf": {
       "codepoint": 57454,
       "fontFamily": "CircleFlags",
-      "identifier": "nf"
+      "identifier": "nf",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ng": {
       "codepoint": 57455,
       "fontFamily": "CircleFlags",
-      "identifier": "ng"
+      "identifier": "ng",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ni": {
       "codepoint": 57456,
       "fontFamily": "CircleFlags",
-      "identifier": "ni"
+      "identifier": "ni",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "nl": {
       "codepoint": 57457,
       "fontFamily": "CircleFlags",
-      "identifier": "nl"
+      "identifier": "nl",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "non": {
       "codepoint": 57458,
       "fontFamily": "CircleFlags",
-      "identifier": "non"
+      "identifier": "non",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "nr": {
       "codepoint": 57459,
       "fontFamily": "CircleFlags",
-      "identifier": "nr"
+      "identifier": "nr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "pg": {
       "codepoint": 57460,
       "fontFamily": "CircleFlags",
-      "identifier": "pg"
+      "identifier": "pg",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "pirate": {
       "codepoint": 57461,
       "fontFamily": "CircleFlags",
-      "identifier": "pirate"
+      "identifier": "pirate",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "pw": {
       "codepoint": 57462,
       "fontFamily": "CircleFlags",
-      "identifier": "pw"
+      "identifier": "pw",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "qa": {
       "codepoint": 57463,
       "fontFamily": "CircleFlags",
-      "identifier": "qa"
+      "identifier": "qa",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "rm": {
       "codepoint": 57464,
       "fontFamily": "CircleFlags",
-      "identifier": "rm"
+      "identifier": "rm",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ru-cu": {
       "codepoint": 57465,
       "fontFamily": "CircleFlags",
-      "identifier": "ruCu"
+      "identifier": "ruCu",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ru-ko": {
       "codepoint": 57466,
       "fontFamily": "CircleFlags",
-      "identifier": "ruKo"
+      "identifier": "ruKo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "se": {
       "codepoint": 57467,
       "fontFamily": "CircleFlags",
-      "identifier": "se"
+      "identifier": "se",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "sl": {
       "codepoint": 57468,
       "fontFamily": "CircleFlags",
-      "identifier": "sl"
+      "identifier": "sl",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "sm": {
       "codepoint": 57469,
       "fontFamily": "CircleFlags",
-      "identifier": "sm"
+      "identifier": "sm",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "so": {
       "codepoint": 57470,
       "fontFamily": "CircleFlags",
-      "identifier": "so"
+      "identifier": "so",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "sr": {
       "codepoint": 57471,
       "fontFamily": "CircleFlags",
-      "identifier": "sr"
+      "identifier": "sr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "sv": {
       "codepoint": 57472,
       "fontFamily": "CircleFlags",
-      "identifier": "sv"
+      "identifier": "sv",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "sz": {
       "codepoint": 57473,
       "fontFamily": "CircleFlags",
-      "identifier": "sz"
+      "identifier": "sz",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "torres-strait-islands": {
       "codepoint": 57474,
       "fontFamily": "CircleFlags",
-      "identifier": "torresStraitIslands"
+      "identifier": "torresStraitIslands",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "translingual": {
       "codepoint": 57475,
       "fontFamily": "CircleFlags",
-      "identifier": "translingual"
+      "identifier": "translingual",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "transnistria": {
       "codepoint": 57476,
       "fontFamily": "CircleFlags",
-      "identifier": "transnistria"
+      "identifier": "transnistria",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "tz": {
       "codepoint": 57477,
       "fontFamily": "CircleFlags",
-      "identifier": "tz"
+      "identifier": "tz",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "tz-zanzibar": {
       "codepoint": 57478,
       "fontFamily": "CircleFlags",
-      "identifier": "tzZanzibar"
+      "identifier": "tzZanzibar",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "ua": {
       "codepoint": 57479,
       "fontFamily": "CircleFlags",
-      "identifier": "ua"
+      "identifier": "ua",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "un": {
       "codepoint": 57480,
       "fontFamily": "CircleFlags",
-      "identifier": "un"
+      "identifier": "un",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "united-nations": {
       "codepoint": 57481,
       "fontFamily": "CircleFlags",
-      "identifier": "unitedNations"
+      "identifier": "unitedNations",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "us-ak": {
       "codepoint": 57482,
       "fontFamily": "CircleFlags",
-      "identifier": "usAk"
+      "identifier": "usAk",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "us-in": {
       "codepoint": 57483,
       "fontFamily": "CircleFlags",
-      "identifier": "usIn"
+      "identifier": "usIn",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "us-mp": {
       "codepoint": 57484,
       "fontFamily": "CircleFlags",
-      "identifier": "usMp"
+      "identifier": "usMp",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "us-or": {
       "codepoint": 57485,
       "fontFamily": "CircleFlags",
-      "identifier": "usOr"
+      "identifier": "usOr",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "us-ri": {
       "codepoint": 57486,
       "fontFamily": "CircleFlags",
-      "identifier": "usRi"
+      "identifier": "usRi",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "us-sc": {
       "codepoint": 57487,
       "fontFamily": "CircleFlags",
-      "identifier": "usSc"
+      "identifier": "usSc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "us-wi": {
       "codepoint": 57488,
       "fontFamily": "CircleFlags",
-      "identifier": "usWi"
+      "identifier": "usWi",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "uy": {
       "codepoint": 57489,
       "fontFamily": "CircleFlags",
-      "identifier": "uy"
+      "identifier": "uy",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "va": {
       "codepoint": 57490,
       "fontFamily": "CircleFlags",
-      "identifier": "va"
+      "identifier": "va",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "vc": {
       "codepoint": 57491,
       "fontFamily": "CircleFlags",
-      "identifier": "vc"
+      "identifier": "vc",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "vo": {
       "codepoint": 57492,
       "fontFamily": "CircleFlags",
-      "identifier": "vo"
+      "identifier": "vo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "xk": {
       "codepoint": 57493,
       "fontFamily": "CircleFlags",
-      "identifier": "xk"
+      "identifier": "xk",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "xx": {
       "codepoint": 57494,
       "fontFamily": "CircleFlags",
-      "identifier": "xx"
+      "identifier": "xx",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "yi": {
       "codepoint": 57495,
       "fontFamily": "CircleFlags",
-      "identifier": "yi"
+      "identifier": "yi",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     },
     "yiddish": {
       "codepoint": 57496,
       "fontFamily": "CircleFlags",
-      "identifier": "yiddish"
+      "identifier": "yiddish",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-15"
     }
   }
 }

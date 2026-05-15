@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "noto",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Emoji",
   "subPackage": "iconifyx_noto",
   "info": {
@@ -16,18 +16,18 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE"
     },
-    "total": 70
+    "total": 328
   },
   "fonts": [
     {
       "family": "Noto",
-      "nextCodepoint": 57536,
-      "iconCount": 70
+      "nextCodepoint": 57785,
+      "iconCount": 328
     },
     {
       "family": "NotoSecondary",
-      "nextCodepoint": 57536,
-      "iconCount": 37
+      "nextCodepoint": 57785,
+      "iconCount": 58
     }
   ],
   "icons": {
@@ -43,6 +43,11 @@
       "fontFamily": "Noto",
       "identifier": "admissionTickets",
       "duotone": true
+    },
+    "alarm-clock": {
+      "codepoint": 57536,
+      "fontFamily": "Noto",
+      "identifier": "alarmClock"
     },
     "alien": {
       "codepoint": 57346,
@@ -63,6 +68,26 @@
       "identifier": "aquarius",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "balloon": {
+      "codepoint": 57537,
+      "fontFamily": "Noto",
+      "identifier": "balloon"
+    },
+    "banjo": {
+      "codepoint": 57538,
+      "fontFamily": "Noto",
+      "identifier": "banjo"
+    },
+    "bar-chart": {
+      "codepoint": 57539,
+      "fontFamily": "Noto",
+      "identifier": "barChart"
+    },
+    "basket": {
+      "codepoint": 57540,
+      "fontFamily": "Noto",
+      "identifier": "basket"
     },
     "bell": {
       "codepoint": 57349,
@@ -103,12 +128,47 @@
       "identifier": "bone",
       "duotone": true
     },
+    "bookmark-tabs": {
+      "codepoint": 57541,
+      "fontFamily": "Noto",
+      "identifier": "bookmarkTabs"
+    },
     "bowl-with-spoon": {
       "codepoint": 57355,
       "fontFamily": "Noto",
       "identifier": "bowlWithSpoon",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "breast-feeding-tone1": {
+      "codepoint": 57542,
+      "fontFamily": "Noto",
+      "identifier": "breastFeedingTone1"
+    },
+    "breast-feeding-tone2": {
+      "codepoint": 57543,
+      "fontFamily": "Noto",
+      "identifier": "breastFeedingTone2"
+    },
+    "breast-feeding-tone3": {
+      "codepoint": 57544,
+      "fontFamily": "Noto",
+      "identifier": "breastFeedingTone3"
+    },
+    "breast-feeding-tone4": {
+      "codepoint": 57545,
+      "fontFamily": "Noto",
+      "identifier": "breastFeedingTone4"
+    },
+    "breast-feeding-tone5": {
+      "codepoint": 57546,
+      "fontFamily": "Noto",
+      "identifier": "breastFeedingTone5"
+    },
+    "bridge-at-night": {
+      "codepoint": 57547,
+      "fontFamily": "Noto",
+      "identifier": "bridgeAtNight"
     },
     "briefs": {
       "codepoint": 57356,
@@ -117,10 +177,26 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "broken-chain": {
+      "codepoint": 57548,
+      "fontFamily": "Noto",
+      "identifier": "brokenChain"
+    },
     "bubbles": {
       "codepoint": 57357,
       "fontFamily": "Noto",
       "identifier": "bubbles",
+      "duotone": true
+    },
+    "bullet-train": {
+      "codepoint": 57549,
+      "fontFamily": "Noto",
+      "identifier": "bulletTrain"
+    },
+    "bus-stop": {
+      "codepoint": 57550,
+      "fontFamily": "Noto",
+      "identifier": "busStop",
       "duotone": true
     },
     "busts-in-silhouette": {
@@ -136,6 +212,16 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "canoe": {
+      "codepoint": 57551,
+      "fontFamily": "Noto",
+      "identifier": "canoe"
+    },
+    "card-index": {
+      "codepoint": 57552,
+      "fontFamily": "Noto",
+      "identifier": "cardIndex"
+    },
     "carp-streamer": {
       "codepoint": 57359,
       "fontFamily": "Noto",
@@ -143,12 +229,44 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "cat-face": {
+      "codepoint": 57553,
+      "fontFamily": "Noto",
+      "identifier": "catFace"
+    },
+    "cat-face-with-tears-of-joy": {
+      "codepoint": 57554,
+      "fontFamily": "Noto",
+      "identifier": "catFaceWithTearsOfJoy",
+      "duotone": true
+    },
+    "cat-face-with-wry-smile": {
+      "codepoint": 57555,
+      "fontFamily": "Noto",
+      "identifier": "catFaceWithWrySmile",
+      "duotone": true
+    },
+    "cat-with-tears-of-joy": {
+      "codepoint": 57556,
+      "fontFamily": "Noto",
+      "identifier": "catWithTearsOfJoy",
+      "duotone": true
+    },
+    "cat-with-wry-smile": {
+      "codepoint": 57557,
+      "fontFamily": "Noto",
+      "identifier": "catWithWrySmile",
+      "duotone": true
+    },
     "chart-decreasing": {
       "codepoint": 57360,
       "fontFamily": "Noto",
-      "identifier": "chartDecreasing",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "chartDecreasing"
+    },
+    "chart-increasing": {
+      "codepoint": 57558,
+      "fontFamily": "Noto",
+      "identifier": "chartIncreasing"
     },
     "check-mark": {
       "codepoint": 57361,
@@ -190,6 +308,17 @@
       "identifier": "chopsticks",
       "duotone": true
     },
+    "clamp": {
+      "codepoint": 57559,
+      "fontFamily": "Noto",
+      "identifier": "clamp"
+    },
+    "clipboard": {
+      "codepoint": 57560,
+      "fontFamily": "Noto",
+      "identifier": "clipboard",
+      "duotone": true
+    },
     "cloud": {
       "codepoint": 57366,
       "fontFamily": "Noto",
@@ -223,6 +352,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "compass": {
+      "codepoint": 57561,
+      "fontFamily": "Noto",
+      "identifier": "compass",
+      "duotone": true
+    },
+    "confounded-face": {
+      "codepoint": 57562,
+      "fontFamily": "Noto",
+      "identifier": "confoundedFace"
+    },
     "cooked-rice": {
       "codepoint": 57370,
       "fontFamily": "Noto",
@@ -244,6 +384,16 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "crazy-face": {
+      "codepoint": 57563,
+      "fontFamily": "Noto",
+      "identifier": "crazyFace"
+    },
+    "credit-card": {
+      "codepoint": 57564,
+      "fontFamily": "Noto",
+      "identifier": "creditCard"
+    },
     "crescent-moon": {
       "codepoint": 57526,
       "fontFamily": "Noto",
@@ -256,6 +406,23 @@
       "identifier": "crossedFlags",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "crutch": {
+      "codepoint": 57565,
+      "fontFamily": "Noto",
+      "identifier": "crutch"
+    },
+    "crying-cat": {
+      "codepoint": 57566,
+      "fontFamily": "Noto",
+      "identifier": "cryingCat",
+      "duotone": true
+    },
+    "crying-cat-face": {
+      "codepoint": 57567,
+      "fontFamily": "Noto",
+      "identifier": "cryingCatFace",
+      "duotone": true
     },
     "cup-with-straw": {
       "codepoint": 57374,
@@ -283,11 +450,66 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "deaf-man": {
+      "codepoint": 57568,
+      "fontFamily": "Noto",
+      "identifier": "deafMan"
+    },
+    "deaf-man-dark-skin-tone": {
+      "codepoint": 57569,
+      "fontFamily": "Noto",
+      "identifier": "deafManDarkSkinTone"
+    },
+    "deaf-man-light-skin-tone": {
+      "codepoint": 57570,
+      "fontFamily": "Noto",
+      "identifier": "deafManLightSkinTone"
+    },
+    "deaf-man-medium-dark-skin-tone": {
+      "codepoint": 57571,
+      "fontFamily": "Noto",
+      "identifier": "deafManMediumDarkSkinTone"
+    },
+    "deaf-man-medium-light-skin-tone": {
+      "codepoint": 57572,
+      "fontFamily": "Noto",
+      "identifier": "deafManMediumLightSkinTone"
+    },
+    "deaf-man-medium-skin-tone": {
+      "codepoint": 57573,
+      "fontFamily": "Noto",
+      "identifier": "deafManMediumSkinTone"
+    },
+    "deaf-person-light-skin-tone": {
+      "codepoint": 57574,
+      "fontFamily": "Noto",
+      "identifier": "deafPersonLightSkinTone"
+    },
+    "deaf-person-medium-dark-skin-tone": {
+      "codepoint": 57575,
+      "fontFamily": "Noto",
+      "identifier": "deafPersonMediumDarkSkinTone"
+    },
+    "deaf-woman-light-skin-tone": {
+      "codepoint": 57576,
+      "fontFamily": "Noto",
+      "identifier": "deafWomanLightSkinTone"
+    },
+    "deaf-woman-medium-dark-skin-tone": {
+      "codepoint": 57577,
+      "fontFamily": "Noto",
+      "identifier": "deafWomanMediumDarkSkinTone"
+    },
     "diamond-suit": {
       "codepoint": 57378,
       "fontFamily": "Noto",
       "identifier": "diamondSuit",
       "duotone": true
+    },
+    "disappointed-but-relieved-face": {
+      "codepoint": 57578,
+      "fontFamily": "Noto",
+      "identifier": "disappointedButRelievedFace"
     },
     "dolphin": {
       "codepoint": 57379,
@@ -308,12 +530,52 @@
       "identifier": "droplet",
       "duotone": true
     },
+    "drum": {
+      "codepoint": 57579,
+      "fontFamily": "Noto",
+      "identifier": "drum"
+    },
     "dumpling": {
       "codepoint": 57381,
       "fontFamily": "Noto",
       "identifier": "dumpling",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "e-mail": {
+      "codepoint": 57580,
+      "fontFamily": "Noto",
+      "identifier": "eMail"
+    },
+    "ear-with-hearing-aid": {
+      "codepoint": 57581,
+      "fontFamily": "Noto",
+      "identifier": "earWithHearingAid"
+    },
+    "ear-with-hearing-aid-dark-skin-tone": {
+      "codepoint": 57582,
+      "fontFamily": "Noto",
+      "identifier": "earWithHearingAidDarkSkinTone"
+    },
+    "ear-with-hearing-aid-light-skin-tone": {
+      "codepoint": 57583,
+      "fontFamily": "Noto",
+      "identifier": "earWithHearingAidLightSkinTone"
+    },
+    "ear-with-hearing-aid-medium-dark-skin-tone": {
+      "codepoint": 57584,
+      "fontFamily": "Noto",
+      "identifier": "earWithHearingAidMediumDarkSkinTone"
+    },
+    "ear-with-hearing-aid-medium-light-skin-tone": {
+      "codepoint": 57585,
+      "fontFamily": "Noto",
+      "identifier": "earWithHearingAidMediumLightSkinTone"
+    },
+    "ear-with-hearing-aid-medium-skin-tone": {
+      "codepoint": 57586,
+      "fontFamily": "Noto",
+      "identifier": "earWithHearingAidMediumSkinTone"
     },
     "eight-spoked-asterisk": {
       "codepoint": 57382,
@@ -324,9 +586,87 @@
     "envelope": {
       "codepoint": 57383,
       "fontFamily": "Noto",
-      "identifier": "envelope",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "envelope"
+    },
+    "expressionless-face": {
+      "codepoint": 57587,
+      "fontFamily": "Noto",
+      "identifier": "expressionlessFace"
+    },
+    "eye-in-speech-bubble": {
+      "codepoint": 57588,
+      "fontFamily": "Noto",
+      "identifier": "eyeInSpeechBubble"
+    },
+    "face-savouring-delicious-food": {
+      "codepoint": 57589,
+      "fontFamily": "Noto",
+      "identifier": "faceSavouringDeliciousFood"
+    },
+    "face-with-cold-sweat": {
+      "codepoint": 57590,
+      "fontFamily": "Noto",
+      "identifier": "faceWithColdSweat"
+    },
+    "face-with-monocle": {
+      "codepoint": 57591,
+      "fontFamily": "Noto",
+      "identifier": "faceWithMonocle"
+    },
+    "face-with-open-mouth-and-cold-sweat": {
+      "codepoint": 57592,
+      "fontFamily": "Noto",
+      "identifier": "faceWithOpenMouthAndColdSweat"
+    },
+    "face-with-stuck-out-tongue": {
+      "codepoint": 57593,
+      "fontFamily": "Noto",
+      "identifier": "faceWithStuckOutTongue"
+    },
+    "face-with-stuck-out-tongue-and-closed-eyes": {
+      "codepoint": 57594,
+      "fontFamily": "Noto",
+      "identifier": "faceWithStuckOutTongueAndClosedEyes"
+    },
+    "face-with-stuck-out-tongue-and-winking-eye": {
+      "codepoint": 57595,
+      "fontFamily": "Noto",
+      "identifier": "faceWithStuckOutTongueAndWinkingEye"
+    },
+    "face-with-symbols-over-mouth": {
+      "codepoint": 57596,
+      "fontFamily": "Noto",
+      "identifier": "faceWithSymbolsOverMouth"
+    },
+    "fairy": {
+      "codepoint": 57597,
+      "fontFamily": "Noto",
+      "identifier": "fairy"
+    },
+    "fairy-dark-skin-tone": {
+      "codepoint": 57598,
+      "fontFamily": "Noto",
+      "identifier": "fairyDarkSkinTone"
+    },
+    "fairy-light-skin-tone": {
+      "codepoint": 57599,
+      "fontFamily": "Noto",
+      "identifier": "fairyLightSkinTone"
+    },
+    "fairy-medium-dark-skin-tone": {
+      "codepoint": 57600,
+      "fontFamily": "Noto",
+      "identifier": "fairyMediumDarkSkinTone"
+    },
+    "fairy-medium-light-skin-tone": {
+      "codepoint": 57601,
+      "fontFamily": "Noto",
+      "identifier": "fairyMediumLightSkinTone"
+    },
+    "fairy-medium-skin-tone": {
+      "codepoint": 57602,
+      "fontFamily": "Noto",
+      "identifier": "fairyMediumSkinTone"
     },
     "family": {
       "codepoint": 57384,
@@ -537,18 +877,31 @@
       "identifier": "femaleSign",
       "duotone": true
     },
+    "ferry": {
+      "codepoint": 57603,
+      "fontFamily": "Noto",
+      "identifier": "ferry"
+    },
+    "file-cabinet": {
+      "codepoint": 57604,
+      "fontFamily": "Noto",
+      "identifier": "fileCabinet"
+    },
     "file-folder": {
       "codepoint": 57414,
       "fontFamily": "Noto",
-      "identifier": "fileFolder",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "fileFolder"
     },
     "fingerprint": {
       "codepoint": 57528,
       "fontFamily": "Noto",
       "identifier": "fingerprint",
       "duotone": true
+    },
+    "fire-extinguisher": {
+      "codepoint": 57605,
+      "fontFamily": "Noto",
+      "identifier": "fireExtinguisher"
     },
     "fish-cake-with-swirl": {
       "codepoint": 57415,
@@ -578,6 +931,16 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flushed-face": {
+      "codepoint": 57606,
+      "fontFamily": "Noto",
+      "identifier": "flushedFace"
+    },
+    "flying-saucer": {
+      "codepoint": 57607,
+      "fontFamily": "Noto",
+      "identifier": "flyingSaucer"
+    },
     "footprints": {
       "codepoint": 57419,
       "fontFamily": "Noto",
@@ -604,6 +967,11 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "fuel-pump": {
+      "codepoint": 57608,
+      "fontFamily": "Noto",
+      "identifier": "fuelPump"
+    },
     "full-moon": {
       "codepoint": 57529,
       "fontFamily": "Noto",
@@ -622,6 +990,68 @@
       "identifier": "goalNet",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "grinning-cat": {
+      "codepoint": 57609,
+      "fontFamily": "Noto",
+      "identifier": "grinningCat"
+    },
+    "grinning-cat-face": {
+      "codepoint": 57610,
+      "fontFamily": "Noto",
+      "identifier": "grinningCatFace"
+    },
+    "grinning-cat-face-with-smiling-eyes": {
+      "codepoint": 57611,
+      "fontFamily": "Noto",
+      "identifier": "grinningCatFaceWithSmilingEyes",
+      "duotone": true
+    },
+    "grinning-cat-with-smiling-eyes": {
+      "codepoint": 57612,
+      "fontFamily": "Noto",
+      "identifier": "grinningCatWithSmilingEyes",
+      "duotone": true
+    },
+    "head-shaking-vertically": {
+      "codepoint": 57613,
+      "fontFamily": "Noto",
+      "identifier": "headShakingVertically"
+    },
+    "headphone": {
+      "codepoint": 57614,
+      "fontFamily": "Noto",
+      "identifier": "headphone"
+    },
+    "health-worker": {
+      "codepoint": 57615,
+      "fontFamily": "Noto",
+      "identifier": "healthWorker"
+    },
+    "health-worker-dark-skin-tone": {
+      "codepoint": 57616,
+      "fontFamily": "Noto",
+      "identifier": "healthWorkerDarkSkinTone"
+    },
+    "health-worker-light-skin-tone": {
+      "codepoint": 57617,
+      "fontFamily": "Noto",
+      "identifier": "healthWorkerLightSkinTone"
+    },
+    "health-worker-medium-dark-skin-tone": {
+      "codepoint": 57618,
+      "fontFamily": "Noto",
+      "identifier": "healthWorkerMediumDarkSkinTone"
+    },
+    "health-worker-medium-light-skin-tone": {
+      "codepoint": 57619,
+      "fontFamily": "Noto",
+      "identifier": "healthWorkerMediumLightSkinTone"
+    },
+    "health-worker-medium-skin-tone": {
+      "codepoint": 57620,
+      "fontFamily": "Noto",
+      "identifier": "healthWorkerMediumSkinTone"
     },
     "heart-suit": {
       "codepoint": 57424,
@@ -642,6 +1072,11 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "high-speed-train-with-bullet-nose": {
+      "codepoint": 57621,
+      "fontFamily": "Noto",
+      "identifier": "highSpeedTrainWithBulletNose"
+    },
     "hook": {
       "codepoint": 57427,
       "fontFamily": "Noto",
@@ -656,6 +1091,11 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "hyacinth": {
+      "codepoint": 57622,
+      "fontFamily": "Noto",
+      "identifier": "hyacinth"
+    },
     "ice-skate": {
       "codepoint": 57429,
       "fontFamily": "Noto",
@@ -666,9 +1106,7 @@
     "incoming-envelope": {
       "codepoint": 57430,
       "fontFamily": "Noto",
-      "identifier": "incomingEnvelope",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "incomingEnvelope"
     },
     "japanese-symbol-for-beginner": {
       "codepoint": 57431,
@@ -689,6 +1127,26 @@
       "identifier": "key",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "kimono": {
+      "codepoint": 57623,
+      "fontFamily": "Noto",
+      "identifier": "kimono"
+    },
+    "kissing-cat": {
+      "codepoint": 57624,
+      "fontFamily": "Noto",
+      "identifier": "kissingCat"
+    },
+    "kissing-cat-face": {
+      "codepoint": 57625,
+      "fontFamily": "Noto",
+      "identifier": "kissingCatFace"
+    },
+    "kissing-cat-face-with-closed-eyes": {
+      "codepoint": 57626,
+      "fontFamily": "Noto",
+      "identifier": "kissingCatFaceWithClosedEyes"
     },
     "kitchen-knife": {
       "codepoint": 57434,
@@ -844,12 +1302,258 @@
       "fontFamily": "Noto",
       "identifier": "letterZ"
     },
+    "level-slider": {
+      "codepoint": 57627,
+      "fontFamily": "Noto",
+      "identifier": "levelSlider"
+    },
+    "light-bulb": {
+      "codepoint": 57628,
+      "fontFamily": "Noto",
+      "identifier": "lightBulb"
+    },
+    "light-rail": {
+      "codepoint": 57629,
+      "fontFamily": "Noto",
+      "identifier": "lightRail"
+    },
     "lime": {
       "codepoint": 57463,
       "fontFamily": "Noto",
       "identifier": "lime",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "love-letter": {
+      "codepoint": 57630,
+      "fontFamily": "Noto",
+      "identifier": "loveLetter"
+    },
+    "man-bowing": {
+      "codepoint": 57631,
+      "fontFamily": "Noto",
+      "identifier": "manBowing"
+    },
+    "man-bowing-dark-skin-tone": {
+      "codepoint": 57632,
+      "fontFamily": "Noto",
+      "identifier": "manBowingDarkSkinTone"
+    },
+    "man-bowing-light-skin-tone": {
+      "codepoint": 57633,
+      "fontFamily": "Noto",
+      "identifier": "manBowingLightSkinTone"
+    },
+    "man-bowing-medium-dark-skin-tone": {
+      "codepoint": 57634,
+      "fontFamily": "Noto",
+      "identifier": "manBowingMediumDarkSkinTone"
+    },
+    "man-bowing-medium-light-skin-tone": {
+      "codepoint": 57635,
+      "fontFamily": "Noto",
+      "identifier": "manBowingMediumLightSkinTone"
+    },
+    "man-bowing-medium-skin-tone": {
+      "codepoint": 57636,
+      "fontFamily": "Noto",
+      "identifier": "manBowingMediumSkinTone"
+    },
+    "man-climbing-tone1": {
+      "codepoint": 57637,
+      "fontFamily": "Noto",
+      "identifier": "manClimbingTone1"
+    },
+    "man-climbing-tone2": {
+      "codepoint": 57638,
+      "fontFamily": "Noto",
+      "identifier": "manClimbingTone2"
+    },
+    "man-climbing-tone3": {
+      "codepoint": 57639,
+      "fontFamily": "Noto",
+      "identifier": "manClimbingTone3"
+    },
+    "man-climbing-tone4": {
+      "codepoint": 57640,
+      "fontFamily": "Noto",
+      "identifier": "manClimbingTone4"
+    },
+    "man-climbing-tone5": {
+      "codepoint": 57641,
+      "fontFamily": "Noto",
+      "identifier": "manClimbingTone5"
+    },
+    "man-fairy": {
+      "codepoint": 57642,
+      "fontFamily": "Noto",
+      "identifier": "manFairy"
+    },
+    "man-fairy-dark-skin-tone": {
+      "codepoint": 57643,
+      "fontFamily": "Noto",
+      "identifier": "manFairyDarkSkinTone"
+    },
+    "man-fairy-light-skin-tone": {
+      "codepoint": 57644,
+      "fontFamily": "Noto",
+      "identifier": "manFairyLightSkinTone"
+    },
+    "man-fairy-medium-dark-skin-tone": {
+      "codepoint": 57645,
+      "fontFamily": "Noto",
+      "identifier": "manFairyMediumDarkSkinTone"
+    },
+    "man-fairy-medium-light-skin-tone": {
+      "codepoint": 57646,
+      "fontFamily": "Noto",
+      "identifier": "manFairyMediumLightSkinTone"
+    },
+    "man-fairy-medium-skin-tone": {
+      "codepoint": 57647,
+      "fontFamily": "Noto",
+      "identifier": "manFairyMediumSkinTone"
+    },
+    "man-fairy-tone1": {
+      "codepoint": 57648,
+      "fontFamily": "Noto",
+      "identifier": "manFairyTone1"
+    },
+    "man-fairy-tone2": {
+      "codepoint": 57649,
+      "fontFamily": "Noto",
+      "identifier": "manFairyTone2"
+    },
+    "man-fairy-tone3": {
+      "codepoint": 57650,
+      "fontFamily": "Noto",
+      "identifier": "manFairyTone3"
+    },
+    "man-fairy-tone4": {
+      "codepoint": 57651,
+      "fontFamily": "Noto",
+      "identifier": "manFairyTone4"
+    },
+    "man-fairy-tone5": {
+      "codepoint": 57652,
+      "fontFamily": "Noto",
+      "identifier": "manFairyTone5"
+    },
+    "man-health-worker": {
+      "codepoint": 57653,
+      "fontFamily": "Noto",
+      "identifier": "manHealthWorker"
+    },
+    "man-health-worker-dark-skin-tone": {
+      "codepoint": 57654,
+      "fontFamily": "Noto",
+      "identifier": "manHealthWorkerDarkSkinTone"
+    },
+    "man-health-worker-light-skin-tone": {
+      "codepoint": 57655,
+      "fontFamily": "Noto",
+      "identifier": "manHealthWorkerLightSkinTone"
+    },
+    "man-health-worker-medium-dark-skin-tone": {
+      "codepoint": 57656,
+      "fontFamily": "Noto",
+      "identifier": "manHealthWorkerMediumDarkSkinTone"
+    },
+    "man-health-worker-medium-light-skin-tone": {
+      "codepoint": 57657,
+      "fontFamily": "Noto",
+      "identifier": "manHealthWorkerMediumLightSkinTone"
+    },
+    "man-health-worker-medium-skin-tone": {
+      "codepoint": 57658,
+      "fontFamily": "Noto",
+      "identifier": "manHealthWorkerMediumSkinTone"
+    },
+    "man-in-manual-wheelchair": {
+      "codepoint": 57659,
+      "fontFamily": "Noto",
+      "identifier": "manInManualWheelchair"
+    },
+    "man-in-manual-wheelchair-light-skin-tone": {
+      "codepoint": 57660,
+      "fontFamily": "Noto",
+      "identifier": "manInManualWheelchairLightSkinTone"
+    },
+    "man-in-manual-wheelchair-medium-dark-skin-tone": {
+      "codepoint": 57661,
+      "fontFamily": "Noto",
+      "identifier": "manInManualWheelchairMediumDarkSkinTone"
+    },
+    "man-in-manual-wheelchair-medium-light-skin-tone": {
+      "codepoint": 57662,
+      "fontFamily": "Noto",
+      "identifier": "manInManualWheelchairMediumLightSkinTone"
+    },
+    "man-in-manual-wheelchair-medium-skin-tone": {
+      "codepoint": 57663,
+      "fontFamily": "Noto",
+      "identifier": "manInManualWheelchairMediumSkinTone"
+    },
+    "man-in-motorized-wheelchair": {
+      "codepoint": 57664,
+      "fontFamily": "Noto",
+      "identifier": "manInMotorizedWheelchair"
+    },
+    "man-in-motorized-wheelchair-light-skin-tone": {
+      "codepoint": 57665,
+      "fontFamily": "Noto",
+      "identifier": "manInMotorizedWheelchairLightSkinTone"
+    },
+    "man-in-motorized-wheelchair-medium-dark-skin-tone": {
+      "codepoint": 57666,
+      "fontFamily": "Noto",
+      "identifier": "manInMotorizedWheelchairMediumDarkSkinTone"
+    },
+    "man-in-motorized-wheelchair-medium-light-skin-tone": {
+      "codepoint": 57667,
+      "fontFamily": "Noto",
+      "identifier": "manInMotorizedWheelchairMediumLightSkinTone"
+    },
+    "man-in-motorized-wheelchair-medium-skin-tone": {
+      "codepoint": 57668,
+      "fontFamily": "Noto",
+      "identifier": "manInMotorizedWheelchairMediumSkinTone"
+    },
+    "man-supervillain": {
+      "codepoint": 57669,
+      "fontFamily": "Noto",
+      "identifier": "manSupervillain"
+    },
+    "man-supervillain-dark-skin-tone": {
+      "codepoint": 57670,
+      "fontFamily": "Noto",
+      "identifier": "manSupervillainDarkSkinTone"
+    },
+    "man-supervillain-light-skin-tone": {
+      "codepoint": 57671,
+      "fontFamily": "Noto",
+      "identifier": "manSupervillainLightSkinTone"
+    },
+    "man-supervillain-medium-dark-skin-tone": {
+      "codepoint": 57672,
+      "fontFamily": "Noto",
+      "identifier": "manSupervillainMediumDarkSkinTone"
+    },
+    "man-supervillain-medium-light-skin-tone": {
+      "codepoint": 57673,
+      "fontFamily": "Noto",
+      "identifier": "manSupervillainMediumLightSkinTone"
+    },
+    "man-supervillain-medium-skin-tone": {
+      "codepoint": 57674,
+      "fontFamily": "Noto",
+      "identifier": "manSupervillainMediumSkinTone"
+    },
+    "memo": {
+      "codepoint": 57675,
+      "fontFamily": "Noto",
+      "identifier": "memo",
+      "duotone": true
     },
     "microbe": {
       "codepoint": 57464,
@@ -861,9 +1565,17 @@
     "money-bag": {
       "codepoint": 57465,
       "fontFamily": "Noto",
-      "identifier": "moneyBag",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "moneyBag"
+    },
+    "motor-boat": {
+      "codepoint": 57676,
+      "fontFamily": "Noto",
+      "identifier": "motorBoat"
+    },
+    "mountain-cableway": {
+      "codepoint": 57677,
+      "fontFamily": "Noto",
+      "identifier": "mountainCableway"
     },
     "mouse": {
       "codepoint": 57466,
@@ -879,11 +1591,26 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "nauseated-face": {
+      "codepoint": 57678,
+      "fontFamily": "Noto",
+      "identifier": "nauseatedFace"
+    },
     "new-moon": {
       "codepoint": 57532,
       "fontFamily": "Noto",
       "identifier": "newMoon",
       "duotone": true
+    },
+    "newspaper": {
+      "codepoint": 57679,
+      "fontFamily": "Noto",
+      "identifier": "newspaper"
+    },
+    "notebook-with-decorative-cover": {
+      "codepoint": 57680,
+      "fontFamily": "Noto",
+      "identifier": "notebookWithDecorativeCover"
     },
     "office-building": {
       "codepoint": 57468,
@@ -892,12 +1619,15 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "oncoming-bus": {
+      "codepoint": 57681,
+      "fontFamily": "Noto",
+      "identifier": "oncomingBus"
+    },
     "open-file-folder": {
       "codepoint": 57469,
       "fontFamily": "Noto",
-      "identifier": "openFileFolder",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "openFileFolder"
     },
     "ophiuchus": {
       "codepoint": 57470,
@@ -905,19 +1635,20 @@
       "identifier": "ophiuchus",
       "duotone": true
     },
+    "orange-book": {
+      "codepoint": 57682,
+      "fontFamily": "Noto",
+      "identifier": "orangeBook"
+    },
     "page-facing-up": {
       "codepoint": 57471,
       "fontFamily": "Noto",
-      "identifier": "pageFacingUp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "pageFacingUp"
     },
     "page-with-curl": {
       "codepoint": 57472,
       "fontFamily": "Noto",
-      "identifier": "pageWithCurl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "pageWithCurl"
     },
     "part-alternation-mark": {
       "codepoint": 57473,
@@ -926,10 +1657,85 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "passenger-ship": {
+      "codepoint": 57683,
+      "fontFamily": "Noto",
+      "identifier": "passengerShip"
+    },
     "paw-prints": {
       "codepoint": 57474,
       "fontFamily": "Noto",
       "identifier": "pawPrints"
+    },
+    "pensive-face": {
+      "codepoint": 57684,
+      "fontFamily": "Noto",
+      "identifier": "pensiveFace"
+    },
+    "person-bowing-light-skin-tone": {
+      "codepoint": 57685,
+      "fontFamily": "Noto",
+      "identifier": "personBowingLightSkinTone"
+    },
+    "person-bowing-medium-dark-skin-tone": {
+      "codepoint": 57686,
+      "fontFamily": "Noto",
+      "identifier": "personBowingMediumDarkSkinTone"
+    },
+    "person-in-manual-wheelchair": {
+      "codepoint": 57687,
+      "fontFamily": "Noto",
+      "identifier": "personInManualWheelchair"
+    },
+    "person-in-manual-wheelchair-light-skin-tone": {
+      "codepoint": 57688,
+      "fontFamily": "Noto",
+      "identifier": "personInManualWheelchairLightSkinTone"
+    },
+    "person-in-manual-wheelchair-medium-dark-skin-tone": {
+      "codepoint": 57689,
+      "fontFamily": "Noto",
+      "identifier": "personInManualWheelchairMediumDarkSkinTone"
+    },
+    "person-in-manual-wheelchair-medium-light-skin-tone": {
+      "codepoint": 57690,
+      "fontFamily": "Noto",
+      "identifier": "personInManualWheelchairMediumLightSkinTone"
+    },
+    "person-in-manual-wheelchair-medium-skin-tone": {
+      "codepoint": 57691,
+      "fontFamily": "Noto",
+      "identifier": "personInManualWheelchairMediumSkinTone"
+    },
+    "person-in-motorized-wheelchair": {
+      "codepoint": 57692,
+      "fontFamily": "Noto",
+      "identifier": "personInMotorizedWheelchair"
+    },
+    "person-in-motorized-wheelchair-light-skin-tone": {
+      "codepoint": 57693,
+      "fontFamily": "Noto",
+      "identifier": "personInMotorizedWheelchairLightSkinTone"
+    },
+    "person-in-motorized-wheelchair-medium-dark-skin-tone": {
+      "codepoint": 57694,
+      "fontFamily": "Noto",
+      "identifier": "personInMotorizedWheelchairMediumDarkSkinTone"
+    },
+    "person-in-motorized-wheelchair-medium-light-skin-tone": {
+      "codepoint": 57695,
+      "fontFamily": "Noto",
+      "identifier": "personInMotorizedWheelchairMediumLightSkinTone"
+    },
+    "person-in-motorized-wheelchair-medium-skin-tone": {
+      "codepoint": 57696,
+      "fontFamily": "Noto",
+      "identifier": "personInMotorizedWheelchairMediumSkinTone"
+    },
+    "petri-dish": {
+      "codepoint": 57697,
+      "fontFamily": "Noto",
+      "identifier": "petriDish"
     },
     "pig-nose": {
       "codepoint": 57475,
@@ -966,6 +1772,28 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "postal-horn": {
+      "codepoint": 57698,
+      "fontFamily": "Noto",
+      "identifier": "postalHorn"
+    },
+    "pouting-cat": {
+      "codepoint": 57699,
+      "fontFamily": "Noto",
+      "identifier": "poutingCat",
+      "duotone": true
+    },
+    "pouting-cat-face": {
+      "codepoint": 57700,
+      "fontFamily": "Noto",
+      "identifier": "poutingCatFace",
+      "duotone": true
+    },
+    "radio": {
+      "codepoint": 57701,
+      "fontFamily": "Noto",
+      "identifier": "radio"
+    },
     "radioactive": {
       "codepoint": 57480,
       "fontFamily": "Noto",
@@ -982,9 +1810,7 @@
     "receipt": {
       "codepoint": 57482,
       "fontFamily": "Noto",
-      "identifier": "receipt",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "receipt"
     },
     "red-envelope": {
       "codepoint": 57483,
@@ -1006,6 +1832,21 @@
       "identifier": "rightAngerBubble",
       "duotone": true
     },
+    "roller-skate": {
+      "codepoint": 57702,
+      "fontFamily": "Noto",
+      "identifier": "rollerSkate"
+    },
+    "running-shoe": {
+      "codepoint": 57703,
+      "fontFamily": "Noto",
+      "identifier": "runningShoe"
+    },
+    "sailboat": {
+      "codepoint": 57704,
+      "fontFamily": "Noto",
+      "identifier": "sailboat"
+    },
     "sake": {
       "codepoint": 57486,
       "fontFamily": "Noto",
@@ -1020,6 +1861,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "satellite-antenna": {
+      "codepoint": 57705,
+      "fontFamily": "Noto",
+      "identifier": "satelliteAntenna",
+      "duotone": true
+    },
+    "scroll": {
+      "codepoint": 57706,
+      "fontFamily": "Noto",
+      "identifier": "scroll"
+    },
     "seedling": {
       "codepoint": 57488,
       "fontFamily": "Noto",
@@ -1032,6 +1884,67 @@
       "identifier": "shamrock",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "shooting-star": {
+      "codepoint": 57707,
+      "fontFamily": "Noto",
+      "identifier": "shootingStar"
+    },
+    "shopping-bags": {
+      "codepoint": 57708,
+      "fontFamily": "Noto",
+      "identifier": "shoppingBags"
+    },
+    "shopping-cart": {
+      "codepoint": 57709,
+      "fontFamily": "Noto",
+      "identifier": "shoppingCart"
+    },
+    "shorts": {
+      "codepoint": 57710,
+      "fontFamily": "Noto",
+      "identifier": "shorts",
+      "duotone": true
+    },
+    "skateboard": {
+      "codepoint": 57711,
+      "fontFamily": "Noto",
+      "identifier": "skateboard"
+    },
+    "smiling-cat-face-with-heart-eyes": {
+      "codepoint": 57712,
+      "fontFamily": "Noto",
+      "identifier": "smilingCatFaceWithHeartEyes"
+    },
+    "smiling-cat-face-with-open-mouth": {
+      "codepoint": 57713,
+      "fontFamily": "Noto",
+      "identifier": "smilingCatFaceWithOpenMouth"
+    },
+    "smiling-cat-with-heart-eyes": {
+      "codepoint": 57714,
+      "fontFamily": "Noto",
+      "identifier": "smilingCatWithHeartEyes"
+    },
+    "smiling-face-with-open-mouth": {
+      "codepoint": 57715,
+      "fontFamily": "Noto",
+      "identifier": "smilingFaceWithOpenMouth"
+    },
+    "smiling-face-with-open-mouth-and-closed-eyes": {
+      "codepoint": 57716,
+      "fontFamily": "Noto",
+      "identifier": "smilingFaceWithOpenMouthAndClosedEyes"
+    },
+    "smiling-face-with-open-mouth-and-cold-sweat": {
+      "codepoint": 57717,
+      "fontFamily": "Noto",
+      "identifier": "smilingFaceWithOpenMouthAndColdSweat"
+    },
+    "smiling-face-with-open-mouth-and-smiling-eyes": {
+      "codepoint": 57718,
+      "fontFamily": "Noto",
+      "identifier": "smilingFaceWithOpenMouthAndSmilingEyes"
     },
     "snowflake": {
       "codepoint": 57490,
@@ -1059,6 +1972,16 @@
       "identifier": "sparkle",
       "duotone": true
     },
+    "speaker-high-volume": {
+      "codepoint": 57719,
+      "fontFamily": "Noto",
+      "identifier": "speakerHighVolume"
+    },
+    "speaker-medium-volume": {
+      "codepoint": 57720,
+      "fontFamily": "Noto",
+      "identifier": "speakerMediumVolume"
+    },
     "speaking-head": {
       "codepoint": 57534,
       "fontFamily": "Noto",
@@ -1069,6 +1992,11 @@
       "codepoint": 57493,
       "fontFamily": "Noto",
       "identifier": "spiderWeb"
+    },
+    "spiral-calendar": {
+      "codepoint": 57721,
+      "fontFamily": "Noto",
+      "identifier": "spiralCalendar"
     },
     "spiral-shell": {
       "codepoint": 57494,
@@ -1090,6 +2018,47 @@
       "identifier": "spoutingWhale",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "stethoscope": {
+      "codepoint": 57722,
+      "fontFamily": "Noto",
+      "identifier": "stethoscope",
+      "duotone": true
+    },
+    "supervillain": {
+      "codepoint": 57723,
+      "fontFamily": "Noto",
+      "identifier": "supervillain"
+    },
+    "supervillain-dark-skin-tone": {
+      "codepoint": 57724,
+      "fontFamily": "Noto",
+      "identifier": "supervillainDarkSkinTone"
+    },
+    "supervillain-light-skin-tone": {
+      "codepoint": 57725,
+      "fontFamily": "Noto",
+      "identifier": "supervillainLightSkinTone"
+    },
+    "supervillain-medium-dark-skin-tone": {
+      "codepoint": 57726,
+      "fontFamily": "Noto",
+      "identifier": "supervillainMediumDarkSkinTone"
+    },
+    "supervillain-medium-light-skin-tone": {
+      "codepoint": 57727,
+      "fontFamily": "Noto",
+      "identifier": "supervillainMediumLightSkinTone"
+    },
+    "supervillain-medium-skin-tone": {
+      "codepoint": 57728,
+      "fontFamily": "Noto",
+      "identifier": "supervillainMediumSkinTone"
+    },
+    "suspension-railway": {
+      "codepoint": 57729,
+      "fontFamily": "Noto",
+      "identifier": "suspensionRailway"
     },
     "swan": {
       "codepoint": 57497,
@@ -1129,11 +2098,82 @@
       "identifier": "ticket",
       "duotone": true
     },
+    "tram": {
+      "codepoint": 57730,
+      "fontFamily": "Noto",
+      "identifier": "tram",
+      "duotone": true
+    },
+    "tram-car": {
+      "codepoint": 57731,
+      "fontFamily": "Noto",
+      "identifier": "tramCar"
+    },
     "transgender-flag": {
       "codepoint": 57502,
       "fontFamily": "Noto",
       "identifier": "transgenderFlag",
       "duotone": true
+    },
+    "treasure-chest": {
+      "codepoint": 57732,
+      "fontFamily": "Noto",
+      "identifier": "treasureChest"
+    },
+    "trident-emblem": {
+      "codepoint": 57733,
+      "fontFamily": "Noto",
+      "identifier": "tridentEmblem"
+    },
+    "trolleybus": {
+      "codepoint": 57734,
+      "fontFamily": "Noto",
+      "identifier": "trolleybus"
+    },
+    "trumpet": {
+      "codepoint": 57735,
+      "fontFamily": "Noto",
+      "identifier": "trumpet"
+    },
+    "vampire": {
+      "codepoint": 57736,
+      "fontFamily": "Noto",
+      "identifier": "vampire"
+    },
+    "vampire-dark-skin-tone": {
+      "codepoint": 57737,
+      "fontFamily": "Noto",
+      "identifier": "vampireDarkSkinTone"
+    },
+    "vampire-light-skin-tone": {
+      "codepoint": 57738,
+      "fontFamily": "Noto",
+      "identifier": "vampireLightSkinTone"
+    },
+    "vampire-medium-dark-skin-tone": {
+      "codepoint": 57739,
+      "fontFamily": "Noto",
+      "identifier": "vampireMediumDarkSkinTone"
+    },
+    "vampire-medium-light-skin-tone": {
+      "codepoint": 57740,
+      "fontFamily": "Noto",
+      "identifier": "vampireMediumLightSkinTone"
+    },
+    "vampire-medium-skin-tone": {
+      "codepoint": 57741,
+      "fontFamily": "Noto",
+      "identifier": "vampireMediumSkinTone"
+    },
+    "videocassette": {
+      "codepoint": 57742,
+      "fontFamily": "Noto",
+      "identifier": "videocassette"
+    },
+    "violin": {
+      "codepoint": 57743,
+      "fontFamily": "Noto",
+      "identifier": "violin"
     },
     "volleyball": {
       "codepoint": 57503,
@@ -1142,12 +2182,30 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "watch": {
+      "codepoint": 57744,
+      "fontFamily": "Noto",
+      "identifier": "watch",
+      "duotone": true
+    },
     "watermelon": {
       "codepoint": 57504,
       "fontFamily": "Noto",
       "identifier": "watermelon",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "weary-cat": {
+      "codepoint": 57745,
+      "fontFamily": "Noto",
+      "identifier": "wearyCat",
+      "duotone": true
+    },
+    "weary-cat-face": {
+      "codepoint": 57746,
+      "fontFamily": "Noto",
+      "identifier": "wearyCatFace",
+      "duotone": true
     },
     "white-circle": {
       "codepoint": 57505,
@@ -1232,12 +2290,202 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "woman-bowing-light-skin-tone": {
+      "codepoint": 57747,
+      "fontFamily": "Noto",
+      "identifier": "womanBowingLightSkinTone"
+    },
+    "woman-bowing-medium-dark-skin-tone": {
+      "codepoint": 57748,
+      "fontFamily": "Noto",
+      "identifier": "womanBowingMediumDarkSkinTone"
+    },
+    "woman-climbing-tone1": {
+      "codepoint": 57749,
+      "fontFamily": "Noto",
+      "identifier": "womanClimbingTone1"
+    },
+    "woman-climbing-tone2": {
+      "codepoint": 57750,
+      "fontFamily": "Noto",
+      "identifier": "womanClimbingTone2"
+    },
+    "woman-climbing-tone3": {
+      "codepoint": 57751,
+      "fontFamily": "Noto",
+      "identifier": "womanClimbingTone3"
+    },
+    "woman-climbing-tone4": {
+      "codepoint": 57752,
+      "fontFamily": "Noto",
+      "identifier": "womanClimbingTone4"
+    },
+    "woman-climbing-tone5": {
+      "codepoint": 57753,
+      "fontFamily": "Noto",
+      "identifier": "womanClimbingTone5"
+    },
+    "woman-fairy": {
+      "codepoint": 57754,
+      "fontFamily": "Noto",
+      "identifier": "womanFairy"
+    },
+    "woman-fairy-dark-skin-tone": {
+      "codepoint": 57755,
+      "fontFamily": "Noto",
+      "identifier": "womanFairyDarkSkinTone"
+    },
+    "woman-fairy-light-skin-tone": {
+      "codepoint": 57756,
+      "fontFamily": "Noto",
+      "identifier": "womanFairyLightSkinTone"
+    },
+    "woman-fairy-medium-dark-skin-tone": {
+      "codepoint": 57757,
+      "fontFamily": "Noto",
+      "identifier": "womanFairyMediumDarkSkinTone"
+    },
+    "woman-fairy-medium-light-skin-tone": {
+      "codepoint": 57758,
+      "fontFamily": "Noto",
+      "identifier": "womanFairyMediumLightSkinTone"
+    },
+    "woman-fairy-medium-skin-tone": {
+      "codepoint": 57759,
+      "fontFamily": "Noto",
+      "identifier": "womanFairyMediumSkinTone"
+    },
+    "woman-fairy-tone1": {
+      "codepoint": 57760,
+      "fontFamily": "Noto",
+      "identifier": "womanFairyTone1"
+    },
+    "woman-fairy-tone2": {
+      "codepoint": 57761,
+      "fontFamily": "Noto",
+      "identifier": "womanFairyTone2"
+    },
+    "woman-fairy-tone3": {
+      "codepoint": 57762,
+      "fontFamily": "Noto",
+      "identifier": "womanFairyTone3"
+    },
+    "woman-fairy-tone4": {
+      "codepoint": 57763,
+      "fontFamily": "Noto",
+      "identifier": "womanFairyTone4"
+    },
+    "woman-fairy-tone5": {
+      "codepoint": 57764,
+      "fontFamily": "Noto",
+      "identifier": "womanFairyTone5"
+    },
+    "woman-farmer-light-skin-tone": {
+      "codepoint": 57765,
+      "fontFamily": "Noto",
+      "identifier": "womanFarmerLightSkinTone"
+    },
+    "woman-farmer-medium-dark-skin-tone": {
+      "codepoint": 57766,
+      "fontFamily": "Noto",
+      "identifier": "womanFarmerMediumDarkSkinTone"
+    },
+    "woman-health-worker-light-skin-tone": {
+      "codepoint": 57767,
+      "fontFamily": "Noto",
+      "identifier": "womanHealthWorkerLightSkinTone"
+    },
+    "woman-health-worker-medium-dark-skin-tone": {
+      "codepoint": 57768,
+      "fontFamily": "Noto",
+      "identifier": "womanHealthWorkerMediumDarkSkinTone"
+    },
+    "woman-in-manual-wheelchair-light-skin-tone": {
+      "codepoint": 57769,
+      "fontFamily": "Noto",
+      "identifier": "womanInManualWheelchairLightSkinTone"
+    },
+    "woman-in-manual-wheelchair-medium-dark-skin-tone": {
+      "codepoint": 57770,
+      "fontFamily": "Noto",
+      "identifier": "womanInManualWheelchairMediumDarkSkinTone"
+    },
+    "woman-in-motorized-wheelchair": {
+      "codepoint": 57771,
+      "fontFamily": "Noto",
+      "identifier": "womanInMotorizedWheelchair"
+    },
+    "woman-in-motorized-wheelchair-light-skin-tone": {
+      "codepoint": 57772,
+      "fontFamily": "Noto",
+      "identifier": "womanInMotorizedWheelchairLightSkinTone"
+    },
+    "woman-in-motorized-wheelchair-medium-dark-skin-tone": {
+      "codepoint": 57773,
+      "fontFamily": "Noto",
+      "identifier": "womanInMotorizedWheelchairMediumDarkSkinTone"
+    },
+    "woman-in-motorized-wheelchair-medium-light-skin-tone": {
+      "codepoint": 57774,
+      "fontFamily": "Noto",
+      "identifier": "womanInMotorizedWheelchairMediumLightSkinTone"
+    },
+    "woman-in-motorized-wheelchair-medium-skin-tone": {
+      "codepoint": 57775,
+      "fontFamily": "Noto",
+      "identifier": "womanInMotorizedWheelchairMediumSkinTone"
+    },
+    "woman-mage-tone3": {
+      "codepoint": 57776,
+      "fontFamily": "Noto",
+      "identifier": "womanMageTone3"
+    },
+    "woman-supervillain": {
+      "codepoint": 57777,
+      "fontFamily": "Noto",
+      "identifier": "womanSupervillain"
+    },
+    "woman-supervillain-dark-skin-tone": {
+      "codepoint": 57778,
+      "fontFamily": "Noto",
+      "identifier": "womanSupervillainDarkSkinTone"
+    },
+    "woman-supervillain-light-skin-tone": {
+      "codepoint": 57779,
+      "fontFamily": "Noto",
+      "identifier": "womanSupervillainLightSkinTone"
+    },
+    "woman-supervillain-medium-dark-skin-tone": {
+      "codepoint": 57780,
+      "fontFamily": "Noto",
+      "identifier": "womanSupervillainMediumDarkSkinTone"
+    },
+    "woman-supervillain-medium-light-skin-tone": {
+      "codepoint": 57781,
+      "fontFamily": "Noto",
+      "identifier": "womanSupervillainMediumLightSkinTone"
+    },
+    "woman-supervillain-medium-skin-tone": {
+      "codepoint": 57782,
+      "fontFamily": "Noto",
+      "identifier": "womanSupervillainMediumSkinTone"
+    },
+    "woozy-face": {
+      "codepoint": 57783,
+      "fontFamily": "Noto",
+      "identifier": "woozyFace"
+    },
     "worm": {
       "codepoint": 57517,
       "fontFamily": "Noto",
       "identifier": "worm",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "yawning-face": {
+      "codepoint": 57784,
+      "fontFamily": "Noto",
+      "identifier": "yawningFace"
     },
     "yellow-circle": {
       "codepoint": 57518,

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: konpa
 /// License: MIT — https://github.com/devicons/devicon/blob/master/LICENSE
-/// Icons: 751 (split across 2 fonts)
+/// Icons: 758 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -214,6 +214,11 @@ class DeviconPlainIcons {
   /// `arduino`
   static const IconifyIconData arduino = IconifyIconData.solo(
     IconData(0xe027, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
+  );
+
+  /// `arduino-wordmark`
+  static const IconifyIconData arduinoWordmark = IconifyIconData.solo(
+    IconData(0xe2f1, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
   );
 
   /// `argocd`
@@ -1216,6 +1221,11 @@ class DeviconPlainIcons {
     IconData(0xe0ef, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
   );
 
+  /// `gitpod`
+  static const IconifyIconData gitpod = IconifyIconData.solo(
+    IconData(0xe2f2, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
+  );
+
   /// `gitpod-wordmark`
   static const IconifyIconData gitpodWordmark = IconifyIconData.solo(
     IconData(0xe0f0, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
@@ -1841,6 +1851,11 @@ class DeviconPlainIcons {
     IconData(0xe16c, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
   );
 
+  /// `laravel`
+  static const IconifyIconData laravel = IconifyIconData.solo(
+    IconData(0xe2f3, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
+  );
+
   /// `laraveljetstream-wordmark`
   static const IconifyIconData laraveljetstreamWordmark = IconifyIconData.solo(
     IconData(0xe16d, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
@@ -2054,6 +2069,11 @@ class DeviconPlainIcons {
   /// `mongodb`
   static const IconifyIconData mongodb = IconifyIconData.solo(
     IconData(0xe197, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
+  );
+
+  /// `mongodb-wordmark`
+  static const IconifyIconData mongodbWordmark = IconifyIconData.solo(
+    IconData(0xe2f4, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
   );
 
   /// `monogame-wordmark`
@@ -3697,6 +3717,16 @@ class DeviconPlainIcons {
     IconData(0xe2e1, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
   );
 
+  /// `wordpress`
+  static const IconifyIconData wordpress = IconifyIconData.solo(
+    IconData(0xe2f5, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
+  );
+
+  /// `wordpress-wordmark`
+  static const IconifyIconData wordpressWordmark = IconifyIconData.solo(
+    IconData(0xe2f6, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
+  );
+
   /// `xcode`
   static const IconifyIconData xcode = IconifyIconData.solo(
     IconData(0xe2e2, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
@@ -3750,6 +3780,11 @@ class DeviconPlainIcons {
   /// `zend`
   static const IconifyIconData zend = IconifyIconData.solo(
     IconData(0xe2ec, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
+  );
+
+  /// `zend-wordmark`
+  static const IconifyIconData zendWordmark = IconifyIconData.solo(
+    IconData(0xe2f7, fontFamily: 'DeviconPlain', fontPackage: 'iconifyx_devicon_plain'),
   );
 
   /// `zig-wordmark`

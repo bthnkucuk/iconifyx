@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Pingback LLC
 /// License: MIT — https://github.com/stash-ui/icons/blob/master/LICENSE
-/// Icons: 972 (split across 2 fonts)
+/// Icons: 980 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -170,6 +170,11 @@ class StashIcons {
   /// `arrow-reply`
   static const IconifyIconData arrowReply = IconifyIconData.solo(
     IconData(0xe01e, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
+  );
+
+  /// `arrow-reply-duotone`
+  static const IconifyIconData arrowReplyDuotone = IconifyIconData.solo(
+    IconData(0xe3cc, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
   );
 
   /// `arrow-reply-light`
@@ -2130,9 +2135,19 @@ class StashIcons {
     IconData(0xe19a, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
   );
 
+  /// `file-export-duotone`
+  static const IconifyIconData fileExportDuotone = IconifyIconData.solo(
+    IconData(0xe3cd, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
+  );
+
   /// `file-export-light`
   static const IconifyIconData fileExportLight = IconifyIconData.solo(
     IconData(0xe19b, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
+  );
+
+  /// `file-export-solid`
+  static const IconifyIconData fileExportSolid = IconifyIconData.solo(
+    IconData(0xe3ce, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
   );
 
   /// `file-import`
@@ -2140,9 +2155,19 @@ class StashIcons {
     IconData(0xe19c, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
   );
 
+  /// `file-import-duotone`
+  static const IconifyIconData fileImportDuotone = IconifyIconData.solo(
+    IconData(0xe3cf, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
+  );
+
   /// `file-import-light`
   static const IconifyIconData fileImportLight = IconifyIconData.solo(
     IconData(0xe19d, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
+  );
+
+  /// `file-import-solid`
+  static const IconifyIconData fileImportSolid = IconifyIconData.solo(
+    IconData(0xe3d0, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
   );
 
   /// `filter`
@@ -2520,10 +2545,20 @@ class StashIcons {
     IconData(0xe1e5, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
   );
 
+  /// `graduation-cap`
+  static const IconifyIconData graduationCap = IconifyIconData.solo(
+    IconData(0xe3d1, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
+  );
+
   /// `graduation-cap-duotone` (duo-tone)
   static const IconifyIconData graduationCapDuotone = IconifyIconData.duo(
     IconData(0xe1e6, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
     IconData(0xe1e6, fontFamily: 'StashSecondary', fontPackage: 'iconifyx_stash'),
+  );
+
+  /// `graduation-cap-light`
+  static const IconifyIconData graduationCapLight = IconifyIconData.solo(
+    IconData(0xe3d2, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
   );
 
   /// `graduation-cap-solid`
@@ -3155,6 +3190,11 @@ class StashIcons {
   /// `mailbox-full`
   static const IconifyIconData mailboxFull = IconifyIconData.solo(
     IconData(0xe25e, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
+  );
+
+  /// `mailbox-full-duotone`
+  static const IconifyIconData mailboxFullDuotone = IconifyIconData.solo(
+    IconData(0xe3d3, fontFamily: 'Stash', fontPackage: 'iconifyx_stash'),
   );
 
   /// `mailbox-full-light`

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "bpmn",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": null,
   "subPackage": "iconifyx_bpmn",
   "info": {
@@ -16,13 +16,13 @@
       "spdx": "OFL-1.1",
       "url": "https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE"
     },
-    "total": 102
+    "total": 106
   },
   "fonts": [
     {
       "family": "Bpmn",
-      "nextCodepoint": 57447,
-      "iconCount": 102
+      "nextCodepoint": 57450,
+      "iconCount": 106
     }
   ],
   "icons": {
@@ -85,6 +85,11 @@
       "codepoint": 57355,
       "fontFamily": "Bpmn",
       "identifier": "dataStore"
+    },
+    "default-flow": {
+      "codepoint": 57447,
+      "fontFamily": "Bpmn",
+      "identifier": "defaultFlow"
     },
     "end-event": {
       "codepoint": 57356,
@@ -399,9 +404,7 @@
     "service": {
       "codepoint": 57418,
       "fontFamily": "Bpmn",
-      "identifier": "service",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "service"
     },
     "service-task": {
       "codepoint": 57419,
@@ -518,6 +521,11 @@
       "fontFamily": "Bpmn",
       "identifier": "subprocessExpanded"
     },
+    "task": {
+      "codepoint": 57448,
+      "fontFamily": "Bpmn",
+      "identifier": "task"
+    },
     "task-none": {
       "codepoint": 57442,
       "fontFamily": "Bpmn",
@@ -532,6 +540,11 @@
       "codepoint": 57444,
       "fontFamily": "Bpmn",
       "identifier": "transaction"
+    },
+    "trash": {
+      "codepoint": 57449,
+      "fontFamily": "Bpmn",
+      "identifier": "trash"
     },
     "user": {
       "codepoint": 57445,

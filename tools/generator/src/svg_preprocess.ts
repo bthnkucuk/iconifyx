@@ -105,6 +105,33 @@ export function isLikelyStrokeSet(icons: readonly ResolvedIcon[]): boolean {
   return rasterFillSignal(icons).strokeRatio >= 0.7;
 }
 
+/**
+ * Per-icon variant of [rasterFillSignal]. Returns true if THIS individual
+ * body would render incorrectly without the rasterize-then-trace pre-pass:
+ *
+ * - **Stroke-only**: `stroke=…` attribute present and no `fill` (or
+ *   `fill="none"`). svgicons2svgfont collapses strokes to zero-width
+ *   geometry → an outlined ring renders as a solid disc.
+ * - **`fill-rule="evenodd"`**: the icon relies on the even-odd fill rule
+ *   to carve out internal cutouts (a ring is "outer disc minus inner
+ *   disc"). TTF glyph rendering uses non-zero winding regardless, so
+ *   the inner disc fills back in → solid silhouette.
+ *
+ * The pack-level [rasterFillSignal] samples the first 25 icons; if fewer
+ * than 20% trip either flag the pack is skipped. But sets like `oui`
+ * (16% of sample) still ship individual broken icons (`analyze-event`,
+ * `chat-left`, `check-in-circle-empty`). This per-icon predicate lets
+ * the pipeline route just those individual icons through rasterize-trace
+ * without touching the rest of the pack.
+ */
+export function iconNeedsRasterTrace(body: string): boolean {
+  const hasStroke = /stroke=/.test(body);
+  const hasFillNone = /fill=["']?none["']?/.test(body) || !/fill=/.test(body);
+  if (hasStroke && hasFillNone) return true;
+  if (/fill-rule\s*=\s*["']?evenodd["']?/.test(body)) return true;
+  return false;
+}
+
 // ============================================================================
 // Paint-order risk
 // ============================================================================

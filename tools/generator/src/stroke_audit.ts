@@ -29,6 +29,14 @@ export interface AuditEntry {
    * appear in `iconCount` because they never received a codepoint.
    */
   paintOrderDropped: number;
+  /**
+   * Count of icons rasterize-traced INDIVIDUALLY because the pack-level
+   * stroke/evenodd sample was below threshold but the specific body still
+   * carried `fill-rule="evenodd"` or stroke-only paint. Surfaced in the
+   * audit so e.g. `oui:check-in-circle-empty` (16% sample, miss → fixed
+   * via per-icon path) becomes visible.
+   */
+  perIconTraced: number;
 }
 
 /**
@@ -183,18 +191,58 @@ export async function writeStrokeAudit(entries: AuditEntry[]): Promise<void> {
   }
   lines.push('');
 
+  // Per-icon raster-trace section. Sets here did NOT trip the pack-level
+  // stroke/evenodd auto-detector (sample under threshold), but specific
+  // icons inside them used `fill-rule="evenodd"` or stroke-only paint and
+  // would have shipped as broken filled blobs. The pipeline now traces
+  // those individual icons; this section surfaces them so a future bump
+  // in the pack-level threshold can be calibrated against real numbers.
+  const perIconRows = [...rows]
+    .filter((r) => r.perIconTraced > 0 && !r.applied)
+    .sort((a, b) => b.perIconTraced - a.perIconTraced);
+  const totalPerIcon = rows.reduce((s, r) => s + r.perIconTraced, 0);
+  lines.push('## Per-icon raster-trace fixes');
+  lines.push('');
+  lines.push(
+    'Sets where the pack-level sample was below the stroke/evenodd threshold ' +
+      'but individual icons still needed rasterize-trace. Without per-icon ' +
+      'detection, `oui:check-in-circle-empty` shipped as a solid disc and ' +
+      '`oui:chat-left` as a filled speech bubble (the `oui` pack sample showed ' +
+      'only 16% evenodd, below the 20% pack threshold).'
+  );
+  lines.push('');
+  lines.push(`- **Icons rasterize-traced via per-icon path this run:** ${totalPerIcon.toLocaleString('en-US')}`);
+  lines.push('');
+  if (perIconRows.length === 0) {
+    lines.push('_No per-icon traces this run._');
+  } else {
+    lines.push('| Set | Prefix | Icons traced | Stroke % | Evenodd % |');
+    lines.push('|---|---|---:|---:|---:|');
+    for (const r of perIconRows) {
+      const pctStroke = (r.sig.strokeRatio * 100).toFixed(0) + '%';
+      const pctEven = (r.sig.evenOddRatio * 100).toFixed(0) + '%';
+      lines.push(
+        `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${r.perIconTraced.toLocaleString('en-US')} | ${pctStroke} | ${pctEven} |`
+      );
+    }
+  }
+  lines.push('');
+
   lines.push('## All sets');
   lines.push('');
-  lines.push('| Set | Prefix | Stroke % | Evenodd % | Paint-order % | Duotone | Applied | Source |');
-  lines.push('|---|---|---:|---:|---:|---:|:---:|---|');
+  lines.push('| Set | Prefix | Stroke % | Evenodd % | Paint-order % | Per-icon | Duotone | Applied | Source |');
+  lines.push('|---|---|---:|---:|---:|---:|---:|:---:|---|');
   for (const r of rows) {
     const pctStroke = (r.sig.strokeRatio * 100).toFixed(0) + '%';
     const pctEven = (r.sig.evenOddRatio * 100).toFixed(0) + '%';
     const pctPaint = (r.paintOrder.paintOrderRatio * 100).toFixed(0) + '%';
+    const perIconCell = r.perIconTraced > 0
+      ? r.perIconTraced.toLocaleString('en-US')
+      : '—';
     const duotoneCell = r.duotoneCount > 0 ? r.duotoneCount.toLocaleString('en-US') : '—';
     const appliedBadge = r.applied ? '✓' : '—';
     lines.push(
-      `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${pctStroke} | ${pctEven} | ${pctPaint} | ${duotoneCell} | ${appliedBadge} | ${r.source} |`
+      `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${pctStroke} | ${pctEven} | ${pctPaint} | ${perIconCell} | ${duotoneCell} | ${appliedBadge} | ${r.source} |`
     );
   }
   lines.push('');

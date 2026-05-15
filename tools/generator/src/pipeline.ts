@@ -24,6 +24,7 @@ import {
   rasterFillSignal,
   paintOrderSignal,
   isPaintOrderRiskBody,
+  iconNeedsRasterTrace,
 } from './svg_preprocess.ts';
 import { secondaryFontFamily } from './manifest.ts';
 import {
@@ -97,6 +98,14 @@ interface RasterFillAuditEntry {
    * monochrome blobs). Surfaced in STROKE_AUDIT.md.
    */
   paintOrderDropped: number;
+  /**
+   * Per-set count of icons that received an INDIVIDUAL rasterize-trace
+   * because the pack-level signal was below threshold but the icon body
+   * itself had `fill-rule="evenodd"` or a stroke-only paint. Surfaced in
+   * the audit so we can see packs (e.g. `oui`) where specific icons are
+   * quietly fixed at icon granularity.
+   */
+  perIconTraced: number;
 }
 const rasterFillSignalCache = new Map<string, RasterFillAuditEntry>();
 
@@ -248,6 +257,7 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
       duotoneCount: live.filter((i) => i.duotone).length,
       paintOrder: cached?.paintOrder ?? { paintOrderRatio: 0 },
       paintOrderDropped: cached?.paintOrderDropped ?? 0,
+      perIconTraced: cached?.perIconTraced ?? 0,
     });
   }
   await writeStrokeAudit(auditEntries);
@@ -356,13 +366,52 @@ async function processOneSet(
       `  "${prefix}": auto-detected stroke/evenodd (stroke=${(sig.strokeRatio * 100).toFixed(0)}%, evenodd=${(sig.evenOddRatio * 100).toFixed(0)}%) — applying rasterize-trace`
     );
   }
+  // Track how many icons get a per-icon trace because the pack-level
+  // detector missed them — surfaced in the audit so we can see which sets
+  // are quietly fixed at icon granularity.
+  let perIconTraced = 0;
+  // Icons whose stroke-fill worker panicked the native rasterizer — bisect
+  // isolated them and the pipeline drops them from the manifest just like
+  // a glyph-validator failure.
+  const strokeFillPanicNames = new Set<string>();
   if (isStrokeFillSet) {
-    await strokeFillBatch(prefix, allResolved);
+    const r1 = await strokeFillBatch(prefix, allResolved);
+    for (const n of r1.panicSkipped) strokeFillPanicNames.add(n);
     if (secondaryByName.size > 0) {
-      await strokeFillBatch(
+      const r2 = await strokeFillBatch(
         `${prefix}-secondary`,
         [...secondaryByName.values()]
       );
+      for (const n of r2.panicSkipped) strokeFillPanicNames.add(n);
+    }
+  } else {
+    // Per-icon fallback: even when the pack-level sample is below threshold,
+    // individual icons may still use `fill-rule="evenodd"` or stroke-only
+    // strokes and would render as broken solid blobs. `oui:check-in-circle-
+    // empty` shipped as a solid disc this way (the pack's evenodd ratio
+    // was 16% — below the 20% pack threshold). Trace just these icons.
+    const perIconNeeded = allResolved.filter((r) => iconNeedsRasterTrace(r.body));
+    if (perIconNeeded.length > 0) {
+      perIconTraced = perIconNeeded.length;
+      log.info(
+        `  "${prefix}": per-icon raster-trace on ${perIconNeeded.length} icon${perIconNeeded.length === 1 ? '' : 's'} (pack sample under threshold)`
+      );
+      const r1 = await strokeFillBatch(prefix, perIconNeeded);
+      for (const n of r1.panicSkipped) strokeFillPanicNames.add(n);
+      // Secondary layers of duotone-split icons that also fall in the
+      // per-icon set need tracing too — their primary half went through
+      // `strokeFillBatch` above, but the secondary lives in
+      // `secondaryByName` and is built into a separate font.
+      const perIconSecondary = [...secondaryByName.values()].filter((r) =>
+        iconNeedsRasterTrace(r.body)
+      );
+      if (perIconSecondary.length > 0) {
+        const r2 = await strokeFillBatch(
+          `${prefix}-secondary`,
+          perIconSecondary
+        );
+        for (const n of r2.panicSkipped) strokeFillPanicNames.add(n);
+      }
     }
   }
 
@@ -404,6 +453,7 @@ async function processOneSet(
     source: explicitlyConfigured ? 'explicit' : autoDetected ? 'auto' : 'none',
     paintOrder: paintSig,
     paintOrderDropped,
+    perIconTraced,
   });
 
   if (paintOrderDropped > 0) {
@@ -422,6 +472,15 @@ async function processOneSet(
   for (const ic of allResolved) {
     if (paintOrderDroppedNames.has(ic.name)) {
       droppedGlyphs.push({ name: ic.name, reason: 'paint-order risk (multi-fill body)' });
+      secondaryByName.delete(ic.name);
+      duotoneNames.delete(ic.name);
+      continue;
+    }
+    if (strokeFillPanicNames.has(ic.name)) {
+      droppedGlyphs.push({
+        name: ic.name,
+        reason: 'stroke-fill worker panicked on this body (native resvg crash)',
+      });
       secondaryByName.delete(ic.name);
       duotoneNames.delete(ic.name);
       continue;

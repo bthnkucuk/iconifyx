@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "vscode-icons",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Programming",
   "subPackage": "iconifyx_vscode_icons",
   "info": {
@@ -16,18 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE"
     },
-    "total": 558
+    "total": 672
   },
   "fonts": [
     {
       "family": "VscodeIcons",
-      "nextCodepoint": 57974,
-      "iconCount": 558
+      "nextCodepoint": 58071,
+      "iconCount": 672
     },
     {
       "family": "VscodeIconsSecondary",
-      "nextCodepoint": 57974,
-      "iconCount": 326
+      "nextCodepoint": 58071,
+      "iconCount": 328
     }
   ],
   "icons": {
@@ -65,6 +65,11 @@
       "identifier": "fileTypeActionscript2",
       "duotone": true
     },
+    "file-type-affinity": {
+      "codepoint": 57974,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeAffinity"
+    },
     "file-type-agda": {
       "codepoint": 57347,
       "fontFamily": "VscodeIcons",
@@ -91,6 +96,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAllcontributors",
       "duotone": true
+    },
+    "file-type-allure": {
+      "codepoint": 57975,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeAllure"
     },
     "file-type-antlers-html": {
       "codepoint": 57351,
@@ -167,6 +177,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeAssemblyScript",
       "duotone": true
+    },
+    "file-type-atom": {
+      "codepoint": 57976,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeAtom"
     },
     "file-type-attw": {
       "codepoint": 57360,
@@ -279,6 +294,16 @@
       "identifier": "fileTypeBuf",
       "duotone": true
     },
+    "file-type-bun": {
+      "codepoint": 57977,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeBun"
+    },
+    "file-type-bunfig": {
+      "codepoint": 57978,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeBunfig"
+    },
     "file-type-c": {
       "codepoint": 57377,
       "fontFamily": "VscodeIcons",
@@ -312,6 +337,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCapnp",
       "duotone": true
+    },
+    "file-type-cargo": {
+      "codepoint": 57979,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeCargo"
     },
     "file-type-casc": {
       "codepoint": 57379,
@@ -365,6 +395,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeCircom",
       "duotone": true
+    },
+    "file-type-clangd": {
+      "codepoint": 57980,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeClangd"
     },
     "file-type-class": {
       "codepoint": 57382,
@@ -586,9 +621,12 @@
     "file-type-docusaurus": {
       "codepoint": 57405,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeDocusaurus",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "fileTypeDocusaurus"
+    },
+    "file-type-doppler": {
+      "codepoint": 57981,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeDoppler"
     },
     "file-type-dotenv": {
       "codepoint": 57406,
@@ -600,6 +638,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeDoxygen",
       "duotone": true
+    },
+    "file-type-drawio": {
+      "codepoint": 57982,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeDrawio"
     },
     "file-type-drone": {
       "codepoint": 57408,
@@ -631,6 +674,11 @@
       "codepoint": 57413,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeEjs"
+    },
+    "file-type-electron": {
+      "codepoint": 57983,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeElectron"
     },
     "file-type-eleventy": {
       "codepoint": 57414,
@@ -701,6 +749,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFitbit"
     },
+    "file-type-flash": {
+      "codepoint": 57984,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeFlash"
+    },
     "file-type-flutter": {
       "codepoint": 57420,
       "fontFamily": "VscodeIcons",
@@ -712,6 +765,11 @@
       "codepoint": 57421,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeFont"
+    },
+    "file-type-formkit": {
+      "codepoint": 57985,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeFormkit"
     },
     "file-type-fortran": {
       "codepoint": 57805,
@@ -795,6 +853,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGit2"
     },
+    "file-type-gitpod": {
+      "codepoint": 57986,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeGitpod"
+    },
     "file-type-gleam": {
       "codepoint": 57810,
       "fontFamily": "VscodeIcons",
@@ -834,6 +897,11 @@
       "codepoint": 57435,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGoBlack"
+    },
+    "file-type-go-gopher": {
+      "codepoint": 57987,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeGoGopher"
     },
     "file-type-go-lightblue": {
       "codepoint": 57436,
@@ -878,6 +946,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeGraphqlConfig",
       "duotone": true
+    },
+    "file-type-gridsome": {
+      "codepoint": 57988,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeGridsome"
     },
     "file-type-grit": {
       "codepoint": 57443,
@@ -945,6 +1018,11 @@
       "codepoint": 57449,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeHusky"
+    },
+    "file-type-hygen": {
+      "codepoint": 57989,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeHygen"
     },
     "file-type-image": {
       "codepoint": 57450,
@@ -1073,9 +1151,7 @@
     "file-type-jsonnet": {
       "codepoint": 57465,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeJsonnet",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "fileTypeJsonnet"
     },
     "file-type-jsr": {
       "codepoint": 57826,
@@ -1087,6 +1163,11 @@
       "codepoint": 57466,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeJss"
+    },
+    "file-type-juice": {
+      "codepoint": 57990,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeJuice"
     },
     "file-type-just": {
       "codepoint": 57467,
@@ -1154,6 +1235,36 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLex",
       "duotone": true
+    },
+    "file-type-libreoffice-base": {
+      "codepoint": 57991,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLibreofficeBase"
+    },
+    "file-type-libreoffice-calc": {
+      "codepoint": 57992,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLibreofficeCalc"
+    },
+    "file-type-libreoffice-draw": {
+      "codepoint": 57993,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLibreofficeDraw"
+    },
+    "file-type-libreoffice-impress": {
+      "codepoint": 57994,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLibreofficeImpress"
+    },
+    "file-type-libreoffice-math": {
+      "codepoint": 57995,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLibreofficeMath"
+    },
+    "file-type-libreoffice-writer": {
+      "codepoint": 57996,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLibreofficeWriter"
     },
     "file-type-light-agda": {
       "codepoint": 57473,
@@ -1225,6 +1336,11 @@
       "codepoint": 57486,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightExpo"
+    },
+    "file-type-light-firebasehosting": {
+      "codepoint": 57997,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLightFirebasehosting"
     },
     "file-type-light-fla": {
       "codepoint": 57833,
@@ -1331,6 +1447,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightMlang"
     },
+    "file-type-light-mustache": {
+      "codepoint": 57998,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLightMustache"
+    },
     "file-type-light-mypy": {
       "codepoint": 57835,
       "fontFamily": "VscodeIcons",
@@ -1377,6 +1498,12 @@
       "identifier": "fileTypeLightPnpm",
       "duotone": true
     },
+    "file-type-light-prettier": {
+      "codepoint": 57999,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLightPrettier",
+      "duotone": true
+    },
     "file-type-light-purescript": {
       "codepoint": 57507,
       "fontFamily": "VscodeIcons",
@@ -1396,9 +1523,7 @@
     "file-type-light-raku": {
       "codepoint": 57510,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeLightRaku",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "fileTypeLightRaku"
     },
     "file-type-light-reactrouter": {
       "codepoint": 57841,
@@ -1507,6 +1632,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightTree"
     },
+    "file-type-light-turbo": {
+      "codepoint": 58000,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLightTurbo"
+    },
     "file-type-light-unibeautify": {
       "codepoint": 57527,
       "fontFamily": "VscodeIcons",
@@ -1516,6 +1646,11 @@
       "codepoint": 57528,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightVash"
+    },
+    "file-type-light-vercel": {
+      "codepoint": 58001,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLightVercel"
     },
     "file-type-light-vsixmanifest": {
       "codepoint": 57845,
@@ -1533,6 +1668,11 @@
       "codepoint": 57529,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeLightYaml"
+    },
+    "file-type-light-zeit": {
+      "codepoint": 58002,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeLightZeit"
     },
     "file-type-log": {
       "codepoint": 57530,
@@ -1561,9 +1701,7 @@
     "file-type-mailing": {
       "codepoint": 57534,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeMailing",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "fileTypeMailing"
     },
     "file-type-makefile": {
       "codepoint": 57847,
@@ -1583,6 +1721,11 @@
       "identifier": "fileTypeMariadb",
       "duotone": true
     },
+    "file-type-markdown": {
+      "codepoint": 58003,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeMarkdown"
+    },
     "file-type-markdownlint": {
       "codepoint": 57849,
       "fontFamily": "VscodeIcons",
@@ -1600,6 +1743,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMarkuplint",
       "duotone": true
+    },
+    "file-type-maxscript": {
+      "codepoint": 58004,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeMaxscript"
     },
     "file-type-mcp": {
       "codepoint": 57536,
@@ -1635,6 +1783,16 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMeteor"
     },
+    "file-type-mise": {
+      "codepoint": 58005,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeMise"
+    },
+    "file-type-mivascript": {
+      "codepoint": 58006,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeMivascript"
+    },
     "file-type-mjml": {
       "codepoint": 57853,
       "fontFamily": "VscodeIcons",
@@ -1660,9 +1818,7 @@
     "file-type-mojo": {
       "codepoint": 57543,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeMojo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "fileTypeMojo"
     },
     "file-type-mojolicious": {
       "codepoint": 57544,
@@ -1681,6 +1837,11 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "file-type-motif": {
+      "codepoint": 58007,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeMotif"
+    },
     "file-type-mson": {
       "codepoint": 57855,
       "fontFamily": "VscodeIcons",
@@ -1691,6 +1852,21 @@
       "codepoint": 57547,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeMustache"
+    },
+    "file-type-mvt": {
+      "codepoint": 58008,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeMvt"
+    },
+    "file-type-mvtcss": {
+      "codepoint": 58009,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeMvtcss"
+    },
+    "file-type-mvtjs": {
+      "codepoint": 58010,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeMvtjs"
     },
     "file-type-mypy": {
       "codepoint": 57548,
@@ -1714,6 +1890,116 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNeo4j",
       "duotone": true
+    },
+    "file-type-nest-adapter-js": {
+      "codepoint": 58011,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestAdapterJs"
+    },
+    "file-type-nest-adapter-ts": {
+      "codepoint": 58012,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestAdapterTs"
+    },
+    "file-type-nest-controller-js": {
+      "codepoint": 58013,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestControllerJs"
+    },
+    "file-type-nest-controller-ts": {
+      "codepoint": 58014,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestControllerTs"
+    },
+    "file-type-nest-decorator-js": {
+      "codepoint": 58015,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestDecoratorJs"
+    },
+    "file-type-nest-decorator-ts": {
+      "codepoint": 58016,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestDecoratorTs"
+    },
+    "file-type-nest-filter-js": {
+      "codepoint": 58017,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestFilterJs"
+    },
+    "file-type-nest-filter-ts": {
+      "codepoint": 58018,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestFilterTs"
+    },
+    "file-type-nest-gateway-js": {
+      "codepoint": 58019,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestGatewayJs"
+    },
+    "file-type-nest-gateway-ts": {
+      "codepoint": 58020,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestGatewayTs"
+    },
+    "file-type-nest-guard-js": {
+      "codepoint": 58021,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestGuardJs"
+    },
+    "file-type-nest-guard-ts": {
+      "codepoint": 58022,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestGuardTs"
+    },
+    "file-type-nest-interceptor-js": {
+      "codepoint": 58023,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestInterceptorJs"
+    },
+    "file-type-nest-interceptor-ts": {
+      "codepoint": 58024,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestInterceptorTs"
+    },
+    "file-type-nest-middleware-js": {
+      "codepoint": 58025,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestMiddlewareJs"
+    },
+    "file-type-nest-middleware-ts": {
+      "codepoint": 58026,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestMiddlewareTs"
+    },
+    "file-type-nest-module-js": {
+      "codepoint": 58027,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestModuleJs"
+    },
+    "file-type-nest-module-ts": {
+      "codepoint": 58028,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestModuleTs"
+    },
+    "file-type-nest-pipe-js": {
+      "codepoint": 58029,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestPipeJs"
+    },
+    "file-type-nest-pipe-ts": {
+      "codepoint": 58030,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestPipeTs"
+    },
+    "file-type-nest-service-js": {
+      "codepoint": 58031,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestServiceJs"
+    },
+    "file-type-nest-service-ts": {
+      "codepoint": 58032,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNestServiceTs"
     },
     "file-type-nextflow": {
       "codepoint": 57551,
@@ -1766,6 +2052,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeNpm",
       "duotone": true
+    },
+    "file-type-nsri-integrity": {
+      "codepoint": 58033,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeNsriIntegrity"
     },
     "file-type-nuget": {
       "codepoint": 57861,
@@ -1834,6 +2125,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeOpenscad"
     },
+    "file-type-orval": {
+      "codepoint": 58034,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeOrval"
+    },
     "file-type-outlook": {
       "codepoint": 57564,
       "fontFamily": "VscodeIcons",
@@ -1849,6 +2145,11 @@
       "codepoint": 57565,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePackship"
+    },
+    "file-type-paket": {
+      "codepoint": 58035,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypePaket"
     },
     "file-type-pandacss": {
       "codepoint": 57566,
@@ -1886,6 +2187,11 @@
       "codepoint": 57572,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePdm"
+    },
+    "file-type-peeky": {
+      "codepoint": 58036,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypePeeky"
     },
     "file-type-perl": {
       "codepoint": 57573,
@@ -1933,6 +2239,11 @@
       "identifier": "fileTypePnpm",
       "duotone": true
     },
+    "file-type-polyglot": {
+      "codepoint": 58037,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypePolyglot"
+    },
     "file-type-postcssconfig": {
       "codepoint": 57869,
       "fontFamily": "VscodeIcons",
@@ -1950,6 +2261,47 @@
       "codepoint": 57870,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypePowerpoint2",
+      "duotone": true
+    },
+    "file-type-powershell": {
+      "codepoint": 58038,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypePowershell"
+    },
+    "file-type-powershell-format": {
+      "codepoint": 58039,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypePowershellFormat"
+    },
+    "file-type-powershell-psd": {
+      "codepoint": 58040,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypePowershellPsd"
+    },
+    "file-type-powershell-psm": {
+      "codepoint": 58041,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypePowershellPsm"
+    },
+    "file-type-powershell-psm2": {
+      "codepoint": 58042,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypePowershellPsm2"
+    },
+    "file-type-powershell-types": {
+      "codepoint": 58043,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypePowershellTypes"
+    },
+    "file-type-powershell2": {
+      "codepoint": 58044,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypePowershell2"
+    },
+    "file-type-prettier": {
+      "codepoint": 58045,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypePrettier",
       "duotone": true
     },
     "file-type-prisma": {
@@ -2021,9 +2373,7 @@
     "file-type-raku": {
       "codepoint": 57587,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeRaku",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "fileTypeRaku"
     },
     "file-type-raml": {
       "codepoint": 57588,
@@ -2062,6 +2412,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeRegistry",
       "duotone": true
+    },
+    "file-type-rego": {
+      "codepoint": 58046,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeRego"
     },
     "file-type-rehype": {
       "codepoint": 57876,
@@ -2212,9 +2567,12 @@
     "file-type-shellcheck": {
       "codepoint": 57611,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeShellcheck",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "fileTypeShellcheck"
+    },
+    "file-type-shuttle": {
+      "codepoint": 58047,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeShuttle"
     },
     "file-type-silverstripe": {
       "codepoint": 57612,
@@ -2340,9 +2698,7 @@
     "file-type-stryker": {
       "codepoint": 57624,
       "fontFamily": "VscodeIcons",
-      "identifier": "fileTypeStryker",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "fileTypeStryker"
     },
     "file-type-stylelint": {
       "codepoint": 57625,
@@ -2552,6 +2908,11 @@
       "identifier": "fileTypeTsdoc",
       "duotone": true
     },
+    "file-type-tsdown": {
+      "codepoint": 58048,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeTsdown"
+    },
     "file-type-tt": {
       "codepoint": 57654,
       "fontFamily": "VscodeIcons",
@@ -2569,6 +2930,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeTuc",
       "duotone": true
+    },
+    "file-type-turbo": {
+      "codepoint": 58049,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeTurbo"
     },
     "file-type-twig": {
       "codepoint": 57655,
@@ -2655,11 +3021,21 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "file-type-vercel": {
+      "codepoint": 58050,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeVercel"
+    },
     "file-type-vhdl": {
       "codepoint": 57666,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeVhdl",
       "duotone": true
+    },
+    "file-type-vim": {
+      "codepoint": 58051,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeVim"
     },
     "file-type-vlang": {
       "codepoint": 57907,
@@ -2734,10 +3110,20 @@
       "identifier": "fileTypeWdio",
       "duotone": true
     },
+    "file-type-webp": {
+      "codepoint": 58052,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeWebp"
+    },
     "file-type-wercker": {
       "codepoint": 57674,
       "fontFamily": "VscodeIcons",
       "identifier": "fileTypeWercker"
+    },
+    "file-type-wgsl": {
+      "codepoint": 58053,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeWgsl"
     },
     "file-type-wikitext": {
       "codepoint": 57675,
@@ -2825,6 +3211,11 @@
       "identifier": "fileTypeYang",
       "duotone": true
     },
+    "file-type-zeit": {
+      "codepoint": 58054,
+      "fontFamily": "VscodeIcons",
+      "identifier": "fileTypeZeit"
+    },
     "file-type-zig": {
       "codepoint": 57685,
       "fontFamily": "VscodeIcons",
@@ -2893,6 +3284,16 @@
       "identifier": "folderTypeBuildkiteOpened",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "folder-type-cargo": {
+      "codepoint": 58055,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeCargo"
+    },
+    "folder-type-cargo-opened": {
+      "codepoint": 58056,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeCargoOpened"
     },
     "folder-type-certificate": {
       "codepoint": 57922,
@@ -2989,6 +3390,11 @@
       "identifier": "folderTypeDatadog",
       "duotone": true
     },
+    "folder-type-datadog-opened": {
+      "codepoint": 58057,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeDatadogOpened"
+    },
     "folder-type-db": {
       "codepoint": 57927,
       "fontFamily": "VscodeIcons",
@@ -3032,6 +3438,11 @@
       "identifier": "folderTypeElectronOpened",
       "duotone": true
     },
+    "folder-type-expo-opened": {
+      "codepoint": 58058,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeExpoOpened"
+    },
     "folder-type-fonts": {
       "codepoint": 57704,
       "fontFamily": "VscodeIcons",
@@ -3043,6 +3454,16 @@
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeFontsOpened",
       "duotone": true
+    },
+    "folder-type-github": {
+      "codepoint": 58059,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeGithub"
+    },
+    "folder-type-github-opened": {
+      "codepoint": 58060,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeGithubOpened"
     },
     "folder-type-gradle": {
       "codepoint": 57706,
@@ -3140,16 +3561,12 @@
     "folder-type-interfaces": {
       "codepoint": 57714,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeInterfaces",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "folderTypeInterfaces"
     },
     "folder-type-interfaces-opened": {
       "codepoint": 57715,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeInterfacesOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "folderTypeInterfacesOpened"
     },
     "folder-type-ios": {
       "codepoint": 57716,
@@ -3214,9 +3631,7 @@
     "folder-type-light-expo-opened": {
       "codepoint": 57719,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeLightExpoOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "folderTypeLightExpoOpened"
     },
     "folder-type-light-fonts": {
       "codepoint": 57720,
@@ -3252,19 +3667,20 @@
       "identifier": "folderTypeLightMeteorOpened",
       "duotone": true
     },
+    "folder-type-light-mysql-opened": {
+      "codepoint": 58061,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeLightMysqlOpened"
+    },
     "folder-type-light-node": {
       "codepoint": 57723,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeLightNode",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "folderTypeLightNode"
     },
     "folder-type-light-node-opened": {
       "codepoint": 57724,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeLightNodeOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "folderTypeLightNodeOpened"
     },
     "folder-type-light-redux": {
       "codepoint": 57949,
@@ -3281,15 +3697,18 @@
     "folder-type-light-sass-opened": {
       "codepoint": 57725,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeLightSassOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "folderTypeLightSassOpened"
     },
     "folder-type-light-zed": {
       "codepoint": 57951,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeLightZed",
       "duotone": true
+    },
+    "folder-type-light-zed-opened": {
+      "codepoint": 58062,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeLightZedOpened"
     },
     "folder-type-log": {
       "codepoint": 57726,
@@ -3305,12 +3724,27 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "folder-type-macos": {
+      "codepoint": 58063,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeMacos"
+    },
+    "folder-type-macos-opened": {
+      "codepoint": 58064,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeMacosOpened"
+    },
     "folder-type-mariadb-opened": {
       "codepoint": 57728,
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMariadbOpened",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "folder-type-mediawiki-opened": {
+      "codepoint": 58065,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeMediawikiOpened"
     },
     "folder-type-meteor": {
       "codepoint": 57952,
@@ -3323,6 +3757,16 @@
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeMeteorOpened",
       "duotone": true
+    },
+    "folder-type-minikube": {
+      "codepoint": 58066,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeMinikube"
+    },
+    "folder-type-minikube-opened": {
+      "codepoint": 58067,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeMinikubeOpened"
     },
     "folder-type-model-opened": {
       "codepoint": 57730,
@@ -3348,16 +3792,12 @@
     "folder-type-mojo": {
       "codepoint": 57733,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeMojo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "folderTypeMojo"
     },
     "folder-type-mojo-opened": {
       "codepoint": 57734,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeMojoOpened",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "folderTypeMojoOpened"
     },
     "folder-type-mypy": {
       "codepoint": 57735,
@@ -3369,9 +3809,12 @@
     "folder-type-mysql": {
       "codepoint": 57736,
       "fontFamily": "VscodeIcons",
-      "identifier": "folderTypeMysql",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "folderTypeMysql"
+    },
+    "folder-type-nix-opened": {
+      "codepoint": 58068,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeNixOpened"
     },
     "folder-type-node": {
       "codepoint": 57737,
@@ -3409,6 +3852,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypePluginOpened",
       "duotone": true
+    },
+    "folder-type-prisma": {
+      "codepoint": 58069,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypePrisma"
     },
     "folder-type-private": {
       "codepoint": 57953,
@@ -3559,6 +4007,11 @@
       "fontFamily": "VscodeIcons",
       "identifier": "folderTypeTypings2Opened",
       "duotone": true
+    },
+    "folder-type-vercel-opened": {
+      "codepoint": 58070,
+      "fontFamily": "VscodeIcons",
+      "identifier": "folderTypeVercelOpened"
     },
     "folder-type-vscode-opened": {
       "codepoint": 57753,

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: HeskeyBaozi
 /// License: MIT — https://github.com/ant-design/ant-design-icons/blob/master/LICENSE
-/// Icons: 1869
+/// Icons: 1870
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -804,6 +804,11 @@ class AntDesignIcons {
   /// `bilibili-filled`
   static const IconifyIconData bilibiliFilled = IconifyIconData.solo(
     IconData(0xe09d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
+  );
+
+  /// `bilibili-outlined`
+  static const IconifyIconData bilibiliOutlined = IconifyIconData.solo(
+    IconData(0xe74d, fontFamily: 'AntDesign', fontPackage: 'iconifyx_ant_design'),
   );
 
   /// `block`

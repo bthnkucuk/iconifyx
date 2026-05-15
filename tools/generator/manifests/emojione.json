@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "emojione",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Emoji",
   "subPackage": "iconifyx_emojione",
   "info": {
@@ -16,17 +16,17 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 350
+    "total": 357
   },
   "fonts": [
     {
       "family": "Emojione",
-      "nextCodepoint": 57946,
-      "iconCount": 350
+      "nextCodepoint": 57952,
+      "iconCount": 357
     },
     {
       "family": "EmojioneSecondary",
-      "nextCodepoint": 57946,
+      "nextCodepoint": 57952,
       "iconCount": 271
     }
   ],
@@ -157,6 +157,11 @@
       "identifier": "blackSquareButton",
       "duotone": true
     },
+    "blossom": {
+      "codepoint": 57946,
+      "fontFamily": "Emojione",
+      "identifier": "blossom"
+    },
     "blue-circle": {
       "codepoint": 57361,
       "fontFamily": "Emojione",
@@ -245,6 +250,11 @@
       "fontFamily": "Emojione",
       "identifier": "checkMarkButton",
       "duotone": true
+    },
+    "cherries": {
+      "codepoint": 57947,
+      "fontFamily": "Emojione",
+      "identifier": "cherries"
     },
     "chicken": {
       "codepoint": 57374,
@@ -357,6 +367,11 @@
       "identifier": "counterclockwiseArrowsButton",
       "duotone": true
     },
+    "cow": {
+      "codepoint": 57948,
+      "fontFamily": "Emojione",
+      "identifier": "cow"
+    },
     "crayon": {
       "codepoint": 57391,
       "fontFamily": "Emojione",
@@ -404,6 +419,11 @@
       "identifier": "dashingAway",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "department-store": {
+      "codepoint": 57949,
+      "fontFamily": "Emojione",
+      "identifier": "departmentStore"
     },
     "diamond-suit": {
       "codepoint": 57399,
@@ -2218,6 +2238,11 @@
       "identifier": "glowingStar",
       "duotone": true
     },
+    "grapes": {
+      "codepoint": 57950,
+      "fontFamily": "Emojione",
+      "identifier": "grapes"
+    },
     "green-heart": {
       "codepoint": 57644,
       "fontFamily": "Emojione",
@@ -2463,9 +2488,7 @@
     "japanese-symbol-for-beginner": {
       "codepoint": 57673,
       "fontFamily": "Emojione",
-      "identifier": "japaneseSymbolForBeginner",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "japaneseSymbolForBeginner"
     },
     "japanese-vacancy-button": {
       "codepoint": 57674,
@@ -3091,6 +3114,11 @@
       "fontFamily": "Emojione",
       "identifier": "playOrPauseButton",
       "duotone": true
+    },
+    "poodle": {
+      "codepoint": 57951,
+      "fontFamily": "Emojione",
+      "identifier": "poodle"
     },
     "potable-water": {
       "codepoint": 57760,

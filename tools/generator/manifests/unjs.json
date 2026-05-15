@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "unjs",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Programming",
   "subPackage": "iconifyx_unjs",
   "info": {
@@ -15,22 +15,25 @@
       "title": "Apache 2.0",
       "spdx": "Apache-2.0"
     },
-    "total": 1
+    "total": 5
   },
   "fonts": [
     {
       "family": "Unjs",
-      "nextCodepoint": 57349,
-      "iconCount": 1
+      "nextCodepoint": 57351,
+      "iconCount": 5
     }
   ],
   "icons": {
     "mkdist": {
       "codepoint": 57344,
       "fontFamily": "Unjs",
-      "identifier": "mkdist",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "mkdist"
+    },
+    "nitro": {
+      "codepoint": 57349,
+      "fontFamily": "Unjs",
+      "identifier": "nitro"
     },
     "scule": {
       "codepoint": 57345,
@@ -46,12 +49,15 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "undocs": {
+      "codepoint": 57350,
+      "fontFamily": "Unjs",
+      "identifier": "undocs"
+    },
     "unpdf": {
       "codepoint": 57347,
       "fontFamily": "Unjs",
-      "identifier": "unpdf",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "unpdf"
     },
     "unwasm": {
       "codepoint": 57348,

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "fluent-emoji-flat",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Emoji",
   "subPackage": "iconifyx_fluent_emoji_flat",
   "info": {
@@ -16,18 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
     },
-    "total": 536
+    "total": 645
   },
   "fonts": [
     {
       "family": "FluentEmojiFlat",
-      "nextCodepoint": 57979,
-      "iconCount": 536
+      "nextCodepoint": 58074,
+      "iconCount": 645
     },
     {
       "family": "FluentEmojiFlatSecondary",
-      "nextCodepoint": 57979,
-      "iconCount": 494
+      "nextCodepoint": 58074,
+      "iconCount": 495
     }
   ],
   "icons": {
@@ -259,9 +259,12 @@
     "backhand-index-pointing-up-light": {
       "codepoint": 57369,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "backhandIndexPointingUpLight",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "backhandIndexPointingUpLight"
+    },
+    "backhand-index-pointing-up-medium": {
+      "codepoint": 57979,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "backhandIndexPointingUpMedium"
     },
     "backhand-index-pointing-up-medium-light": {
       "codepoint": 57370,
@@ -293,6 +296,11 @@
       "identifier": "balanceScale",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "banana": {
+      "codepoint": 57980,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "banana"
     },
     "bar-chart": {
       "codepoint": 57375,
@@ -332,11 +340,26 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "beatingHeart"
     },
+    "beer-mug": {
+      "codepoint": 57981,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "beerMug"
+    },
+    "bicycle": {
+      "codepoint": 57982,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "bicycle"
+    },
     "bikini": {
       "codepoint": 57379,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "bikini",
       "duotone": true
+    },
+    "billed-cap": {
+      "codepoint": 57983,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "billedCap"
     },
     "biohazard": {
       "codepoint": 57380,
@@ -405,12 +428,22 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "blueSquare"
     },
+    "bone": {
+      "codepoint": 57984,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "bone"
+    },
     "bowl-with-spoon": {
       "codepoint": 57392,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "bowlWithSpoon",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "bowling": {
+      "codepoint": 57985,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "bowling"
     },
     "brain": {
       "codepoint": 57393,
@@ -440,6 +473,11 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "broccoli",
       "duotone": true
+    },
+    "broken-chain": {
+      "codepoint": 57986,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "brokenChain"
     },
     "broken-heart": {
       "codepoint": 57396,
@@ -572,9 +610,7 @@
     "chequered-flag": {
       "codepoint": 57409,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "chequeredFlag",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "chequeredFlag"
     },
     "cherries": {
       "codepoint": 57802,
@@ -624,6 +660,11 @@
       "identifier": "clButton",
       "duotone": true
     },
+    "clinking-beer-mugs": {
+      "codepoint": 57987,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "clinkingBeerMugs"
+    },
     "clinking-glasses": {
       "codepoint": 57414,
       "fontFamily": "FluentEmojiFlat",
@@ -636,6 +677,11 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "clockwiseVerticalArrows",
       "duotone": true
+    },
+    "closed-book": {
+      "codepoint": 57988,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "closedBook"
     },
     "cloud": {
       "codepoint": 57416,
@@ -705,6 +751,11 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "confoundedFace",
       "duotone": true
+    },
+    "control-knobs": {
+      "codepoint": 57989,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "controlKnobs"
     },
     "cookie": {
       "codepoint": 57812,
@@ -777,6 +828,11 @@
       "identifier": "crossedFingersMediumLight",
       "duotone": true
     },
+    "crown": {
+      "codepoint": 57990,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "crown"
+    },
     "cucumber": {
       "codepoint": 57816,
       "fontFamily": "FluentEmojiFlat",
@@ -794,6 +850,11 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "customs",
       "duotone": true
+    },
+    "cut-of-meat": {
+      "codepoint": 57991,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "cutOfMeat"
     },
     "deciduous-tree": {
       "codepoint": 57818,
@@ -830,6 +891,11 @@
       "identifier": "dolphin",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "donkey": {
+      "codepoint": 57992,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "donkey"
     },
     "dotted-six-pointed-star": {
       "codepoint": 57434,
@@ -976,9 +1042,12 @@
     "elevator": {
       "codepoint": 57450,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "elevator",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "elevator"
+    },
+    "empty-nest": {
+      "codepoint": 57993,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "emptyNest"
     },
     "evergreen-tree": {
       "codepoint": 57827,
@@ -1107,12 +1176,35 @@
       "identifier": "flexedBicepsMediumLight",
       "duotone": true
     },
+    "flute": {
+      "codepoint": 57994,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "flute"
+    },
     "flying-disc": {
       "codepoint": 57462,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "flyingDisc",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "flyingDisc"
+    },
+    "folded-hands-light": {
+      "codepoint": 57995,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "foldedHandsLight"
+    },
+    "folded-hands-medium-dark": {
+      "codepoint": 57996,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "foldedHandsMediumDark"
+    },
+    "folded-hands-medium-light": {
+      "codepoint": 57997,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "foldedHandsMediumLight"
+    },
+    "folding-hand-fan": {
+      "codepoint": 57998,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "foldingHandFan"
     },
     "foot": {
       "codepoint": 57463,
@@ -1253,6 +1345,11 @@
       "identifier": "hairPick",
       "duotone": true
     },
+    "hamsa": {
+      "codepoint": 57999,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "hamsa"
+    },
     "hand-with-fingers-splayed": {
       "codepoint": 57483,
       "fontFamily": "FluentEmojiFlat",
@@ -1338,6 +1435,16 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "head-shaking-horizontally": {
+      "codepoint": 58000,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "headShakingHorizontally"
+    },
+    "head-shaking-vertically": {
+      "codepoint": 58001,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "headShakingVertically"
+    },
     "headphone": {
       "codepoint": 57847,
       "fontFamily": "FluentEmojiFlat",
@@ -1358,23 +1465,22 @@
     "heart-hands": {
       "codepoint": 57492,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "heartHands",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "heartHands"
     },
     "heart-hands-light": {
       "codepoint": 57493,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "heartHandsLight",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "heartHandsLight"
+    },
+    "heart-hands-medium-dark": {
+      "codepoint": 58002,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "heartHandsMediumDark"
     },
     "heart-hands-medium-light": {
       "codepoint": 57494,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "heartHandsMediumLight",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "heartHandsMediumLight"
     },
     "heart-on-fire": {
       "codepoint": 57495,
@@ -1434,6 +1540,11 @@
       "identifier": "hourglassNotDone",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "house": {
+      "codepoint": 58003,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "house"
     },
     "ice": {
       "codepoint": 57501,
@@ -1639,6 +1750,11 @@
       "identifier": "japanesePassingGradeButton",
       "duotone": true
     },
+    "japanese-post-office": {
+      "codepoint": 58004,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "japanesePostOffice"
+    },
     "japanese-prohibited-button": {
       "codepoint": 57523,
       "fontFamily": "FluentEmojiFlat",
@@ -1687,6 +1803,16 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "jeans",
       "duotone": true
+    },
+    "jellyfish": {
+      "codepoint": 58005,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "jellyfish"
+    },
+    "joker": {
+      "codepoint": 58006,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "joker"
     },
     "keyboard": {
       "codepoint": 57865,
@@ -1804,9 +1930,12 @@
     "lab-coat": {
       "codepoint": 57546,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "labCoat",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "labCoat"
+    },
+    "lacrosse": {
+      "codepoint": 58007,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "lacrosse"
     },
     "ladder": {
       "codepoint": 57868,
@@ -1819,6 +1948,11 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "ladyBeetle",
       "duotone": true
+    },
+    "laptop": {
+      "codepoint": 58008,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "laptop"
     },
     "large-blue-diamond": {
       "codepoint": 57547,
@@ -2038,6 +2172,11 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "lobster": {
+      "codepoint": 58009,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "lobster"
+    },
     "love-letter": {
       "codepoint": 57574,
       "fontFamily": "FluentEmojiFlat",
@@ -2099,6 +2238,131 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "maleSign",
       "duotone": true
+    },
+    "man-facepalming": {
+      "codepoint": 58010,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manFacepalming"
+    },
+    "man-facepalming-dark": {
+      "codepoint": 58011,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manFacepalmingDark"
+    },
+    "man-facepalming-medium-light": {
+      "codepoint": 58012,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manFacepalmingMediumLight"
+    },
+    "man-frowning": {
+      "codepoint": 58013,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manFrowning"
+    },
+    "man-frowning-dark": {
+      "codepoint": 58014,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manFrowningDark"
+    },
+    "man-frowning-medium-light": {
+      "codepoint": 58015,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manFrowningMediumLight"
+    },
+    "man-genie": {
+      "codepoint": 58016,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manGenie"
+    },
+    "man-gesturing-ok": {
+      "codepoint": 58017,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manGesturingOk"
+    },
+    "man-gesturing-ok-dark": {
+      "codepoint": 58018,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manGesturingOkDark"
+    },
+    "man-gesturing-ok-light": {
+      "codepoint": 58019,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manGesturingOkLight"
+    },
+    "man-gesturing-ok-medium-dark": {
+      "codepoint": 58020,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manGesturingOkMediumDark"
+    },
+    "man-gesturing-ok-medium-light": {
+      "codepoint": 58021,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manGesturingOkMediumLight"
+    },
+    "man-golfing": {
+      "codepoint": 58022,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manGolfing"
+    },
+    "man-golfing-light": {
+      "codepoint": 58023,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manGolfingLight"
+    },
+    "man-golfing-medium-light": {
+      "codepoint": 58024,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manGolfingMediumLight"
+    },
+    "man-in-lotus-position": {
+      "codepoint": 58025,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manInLotusPosition"
+    },
+    "man-in-lotus-position-light": {
+      "codepoint": 58026,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manInLotusPositionLight"
+    },
+    "man-in-lotus-position-medium-light": {
+      "codepoint": 58027,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manInLotusPositionMediumLight"
+    },
+    "man-surfing": {
+      "codepoint": 58028,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manSurfing"
+    },
+    "man-surfing-dark": {
+      "codepoint": 58029,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manSurfingDark"
+    },
+    "man-surfing-light": {
+      "codepoint": 58030,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manSurfingLight"
+    },
+    "man-surfing-medium": {
+      "codepoint": 58031,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manSurfingMedium"
+    },
+    "man-surfing-medium-dark": {
+      "codepoint": 58032,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manSurfingMediumDark"
+    },
+    "man-surfing-medium-light": {
+      "codepoint": 58033,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manSurfingMediumLight"
+    },
+    "man-white-hair": {
+      "codepoint": 58034,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "manWhiteHair"
     },
     "mango": {
       "codepoint": 57580,
@@ -2202,6 +2466,11 @@
       "identifier": "moneyBag",
       "duotone": true
     },
+    "monorail": {
+      "codepoint": 58035,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "monorail"
+    },
     "musical-score": {
       "codepoint": 57591,
       "fontFamily": "FluentEmojiFlat",
@@ -2214,6 +2483,11 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "nameBadge",
       "duotone": true
+    },
+    "nest-with-eggs": {
+      "codepoint": 58036,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "nestWithEggs"
     },
     "new-button": {
       "codepoint": 57593,
@@ -2358,9 +2632,7 @@
     "open-book": {
       "codepoint": 57605,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "openBook",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "openBook"
     },
     "open-file-folder": {
       "codepoint": 57606,
@@ -2603,12 +2875,67 @@
       "identifier": "perseveringFace",
       "duotone": true
     },
+    "person-in-lotus-position": {
+      "codepoint": 58037,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "personInLotusPosition"
+    },
+    "person-in-lotus-position-light": {
+      "codepoint": 58038,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "personInLotusPositionLight"
+    },
+    "person-in-lotus-position-medium-light": {
+      "codepoint": 58039,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "personInLotusPositionMediumLight"
+    },
+    "person-taking-bath": {
+      "codepoint": 58040,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "personTakingBath"
+    },
+    "person-white-hair": {
+      "codepoint": 58041,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "personWhiteHair"
+    },
+    "person-white-hair-dark": {
+      "codepoint": 58042,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "personWhiteHairDark"
+    },
+    "person-white-hair-light": {
+      "codepoint": 58043,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "personWhiteHairLight"
+    },
+    "person-white-hair-medium": {
+      "codepoint": 58044,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "personWhiteHairMedium"
+    },
+    "person-white-hair-medium-dark": {
+      "codepoint": 58045,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "personWhiteHairMediumDark"
+    },
+    "person-white-hair-medium-light": {
+      "codepoint": 58046,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "personWhiteHairMediumLight"
+    },
     "petri-dish": {
       "codepoint": 57631,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "petriDish",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "phoenix-bird": {
+      "codepoint": 58047,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "phoenixBird"
     },
     "pick": {
       "codepoint": 57915,
@@ -2621,6 +2948,11 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pigNose",
       "duotone": true
+    },
+    "pile-of-poo": {
+      "codepoint": 58048,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "pileOfPoo"
     },
     "pinched-fingers": {
       "codepoint": 57632,
@@ -2737,6 +3069,11 @@
       "identifier": "plunger",
       "duotone": true
     },
+    "police-car": {
+      "codepoint": 58049,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "policeCar"
+    },
     "potable-water": {
       "codepoint": 57640,
       "fontFamily": "FluentEmojiFlat",
@@ -2755,6 +3092,36 @@
       "identifier": "pouringLiquid",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "pregnant-man": {
+      "codepoint": 58050,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "pregnantMan"
+    },
+    "pregnant-man-dark": {
+      "codepoint": 58051,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "pregnantManDark"
+    },
+    "pregnant-man-light": {
+      "codepoint": 58052,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "pregnantManLight"
+    },
+    "pregnant-man-medium": {
+      "codepoint": 58053,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "pregnantManMedium"
+    },
+    "pregnant-man-medium-dark": {
+      "codepoint": 58054,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "pregnantManMediumDark"
+    },
+    "pregnant-man-medium-light": {
+      "codepoint": 58055,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "pregnantManMediumLight"
     },
     "prohibited": {
       "codepoint": 57929,
@@ -2779,6 +3146,11 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "puzzlePiece",
       "duotone": true
+    },
+    "rabbit": {
+      "codepoint": 58056,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "rabbit"
     },
     "radio-button": {
       "codepoint": 57930,
@@ -2867,9 +3239,7 @@
     "raised-hand": {
       "codepoint": 57652,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "raisedHand",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "raisedHand"
     },
     "raised-hand-dark": {
       "codepoint": 57937,
@@ -3174,6 +3544,12 @@
       "identifier": "sewingNeedle",
       "duotone": true
     },
+    "shaking-face": {
+      "codepoint": 58057,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "shakingFace",
+      "duotone": true
+    },
     "shaved-ice": {
       "codepoint": 57685,
       "fontFamily": "FluentEmojiFlat",
@@ -3243,6 +3619,16 @@
       "identifier": "signOfTheHornsMediumLight",
       "duotone": true
     },
+    "skateboard": {
+      "codepoint": 58058,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "skateboard"
+    },
+    "slightly-smiling-face": {
+      "codepoint": 58059,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "slightlySmilingFace"
+    },
     "small-blue-diamond": {
       "codepoint": 57692,
       "fontFamily": "FluentEmojiFlat",
@@ -3270,16 +3656,12 @@
     "soccer-ball": {
       "codepoint": 57696,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "soccerBall",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "soccerBall"
     },
     "socks": {
       "codepoint": 57697,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "socks",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "socks"
     },
     "sos-button": {
       "codepoint": 57698,
@@ -3395,9 +3777,7 @@
     "sweat-droplets": {
       "codepoint": 57713,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "sweatDroplets",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "sweatDroplets"
     },
     "tangerine": {
       "codepoint": 57961,
@@ -3507,6 +3887,11 @@
       "identifier": "ticket",
       "duotone": true
     },
+    "tired-face": {
+      "codepoint": 58060,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "tiredFace"
+    },
     "toilet": {
       "codepoint": 57723,
       "fontFamily": "FluentEmojiFlat",
@@ -3535,9 +3920,7 @@
     "transgender-flag": {
       "codepoint": 57726,
       "fontFamily": "FluentEmojiFlat",
-      "identifier": "transgenderFlag",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "transgenderFlag"
     },
     "transgender-symbol": {
       "codepoint": 57727,
@@ -3831,6 +4214,11 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "wing": {
+      "codepoint": 58061,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "wing"
+    },
     "wireless": {
       "codepoint": 57767,
       "fontFamily": "FluentEmojiFlat",
@@ -3843,6 +4231,56 @@
       "identifier": "wolf",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "woman-in-lotus-position": {
+      "codepoint": 58062,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "womanInLotusPosition"
+    },
+    "woman-in-lotus-position-light": {
+      "codepoint": 58063,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "womanInLotusPositionLight"
+    },
+    "woman-in-lotus-position-medium": {
+      "codepoint": 58064,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "womanInLotusPositionMedium"
+    },
+    "woman-in-lotus-position-medium-light": {
+      "codepoint": 58065,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "womanInLotusPositionMediumLight"
+    },
+    "woman-white-hair": {
+      "codepoint": 58066,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "womanWhiteHair"
+    },
+    "woman-white-hair-dark": {
+      "codepoint": 58067,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "womanWhiteHairDark"
+    },
+    "woman-white-hair-light": {
+      "codepoint": 58068,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "womanWhiteHairLight"
+    },
+    "woman-white-hair-medium": {
+      "codepoint": 58069,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "womanWhiteHairMedium"
+    },
+    "woman-white-hair-medium-dark": {
+      "codepoint": 58070,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "womanWhiteHairMediumDark"
+    },
+    "woman-white-hair-medium-light": {
+      "codepoint": 58071,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "womanWhiteHairMediumLight"
     },
     "womans-boot": {
       "codepoint": 57769,
@@ -3863,6 +4301,11 @@
       "identifier": "womensRoom",
       "duotone": true
     },
+    "woozy-face": {
+      "codepoint": 58072,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "woozyFace"
+    },
     "wrench": {
       "codepoint": 57772,
       "fontFamily": "FluentEmojiFlat",
@@ -3874,6 +4317,11 @@
       "identifier": "yarn",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "yawning-face": {
+      "codepoint": 58073,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "yawningFace"
     },
     "yellow-circle": {
       "codepoint": 57774,

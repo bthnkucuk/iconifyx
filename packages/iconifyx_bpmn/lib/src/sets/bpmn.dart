@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Camunda Services GmbH
 /// License: Open Font License — https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE
-/// Icons: 102
+/// Icons: 106
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -74,6 +74,11 @@ class BpmnIcons {
   /// `data-store`
   static const IconifyIconData dataStore = IconifyIconData.solo(
     IconData(0xe00b, fontFamily: 'Bpmn', fontPackage: 'iconifyx_bpmn'),
+  );
+
+  /// `default-flow`
+  static const IconifyIconData defaultFlow = IconifyIconData.solo(
+    IconData(0xe067, fontFamily: 'Bpmn', fontPackage: 'iconifyx_bpmn'),
   );
 
   /// `end-event`
@@ -386,6 +391,11 @@ class BpmnIcons {
     IconData(0xe049, fontFamily: 'Bpmn', fontPackage: 'iconifyx_bpmn'),
   );
 
+  /// `service`
+  static const IconifyIconData service = IconifyIconData.solo(
+    IconData(0xe04a, fontFamily: 'Bpmn', fontPackage: 'iconifyx_bpmn'),
+  );
+
   /// `service-task`
   static const IconifyIconData serviceTask = IconifyIconData.solo(
     IconData(0xe04b, fontFamily: 'Bpmn', fontPackage: 'iconifyx_bpmn'),
@@ -501,6 +511,11 @@ class BpmnIcons {
     IconData(0xe061, fontFamily: 'Bpmn', fontPackage: 'iconifyx_bpmn'),
   );
 
+  /// `task`
+  static const IconifyIconData task = IconifyIconData.solo(
+    IconData(0xe068, fontFamily: 'Bpmn', fontPackage: 'iconifyx_bpmn'),
+  );
+
   /// `task-none`
   static const IconifyIconData taskNone = IconifyIconData.solo(
     IconData(0xe062, fontFamily: 'Bpmn', fontPackage: 'iconifyx_bpmn'),
@@ -514,6 +529,11 @@ class BpmnIcons {
   /// `transaction`
   static const IconifyIconData transaction = IconifyIconData.solo(
     IconData(0xe064, fontFamily: 'Bpmn', fontPackage: 'iconifyx_bpmn'),
+  );
+
+  /// `trash`
+  static const IconifyIconData trash = IconifyIconData.solo(
+    IconData(0xe069, fontFamily: 'Bpmn', fontPackage: 'iconifyx_bpmn'),
   );
 
   /// `user`

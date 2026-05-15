@@ -9,12 +9,32 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: UnJS
 /// License: Apache 2.0
-/// Icons: 1
+/// Icons: 5
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
 class UnjsIcons {
   const UnjsIcons._();
+
+  /// `mkdist`
+  static const IconifyIconData mkdist = IconifyIconData.solo(
+    IconData(0xe000, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
+  );
+
+  /// `nitro`
+  static const IconifyIconData nitro = IconifyIconData.solo(
+    IconData(0xe005, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
+  );
+
+  /// `undocs`
+  static const IconifyIconData undocs = IconifyIconData.solo(
+    IconData(0xe006, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
+  );
+
+  /// `unpdf`
+  static const IconifyIconData unpdf = IconifyIconData.solo(
+    IconData(0xe003, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
+  );
 
   /// `unwasm`
   static const IconifyIconData unwasm = IconifyIconData.solo(

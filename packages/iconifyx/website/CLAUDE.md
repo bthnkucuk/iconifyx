@@ -83,6 +83,21 @@ API is drop-in: `IconifyThumb(data, size: X, color: Y)`. Use it everywhere
 in the website that previously used `IconifyIcon`. We left `iconifyx_core`
 itself untouched.
 
+**Duotone rendering nuance.** The pipeline now ships two flavours of
+duotone icons (see top-level CLAUDE.md §5b):
+
+- **Hint-layer duotone** (Phosphor `*-duotone`, Solar, IC family): secondary
+  is a translucent accent. Default `secondaryOpacity = 0.4` looks right.
+- **Two-color paint-order duotone** (logos, 2-color emojis): secondary is
+  the meaningful FOREGROUND (e.g. the "Ae" letter on Adobe After Effects).
+  At default 40% opacity it half-disappears. For these call sites, pass
+  `secondaryOpacity: 1.0` plus a contrasting `secondaryColor` for the
+  intended "two opaque colors" look.
+
+Today the website uses the default 40% everywhere for simplicity. Pack-
+specific rendering (detect `record.prefix == 'logos'` → pass opaque
+secondary) is a follow-up if visual quality calls for it.
+
 ### 6. Slider commits on snap, not on drag pixel
 
 Wrap discrete sliders so each onChanged fires ONLY when the snapped value

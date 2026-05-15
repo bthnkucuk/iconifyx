@@ -150,6 +150,8 @@ dependencies:
     path: ../../iconifyx_flowbite
   iconifyx_fluent:
     path: ../../iconifyx_fluent
+  iconifyx_fluent_color:
+    path: ../../iconifyx_fluent_color
   iconifyx_fluent_emoji:
     path: ../../iconifyx_fluent_emoji
   iconifyx_fluent_emoji_flat:
@@ -404,6 +406,8 @@ dependencies:
     path: ../../iconifyx_streamline_ultimate_color
   iconifyx_subway:
     path: ../../iconifyx_subway
+  iconifyx_svg_spinners:
+    path: ../../iconifyx_svg_spinners
   iconifyx_system_uicons:
     path: ../../iconifyx_system_uicons
   iconifyx_tabler:

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "bi",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "UI 16px / 32px",
   "subPackage": "iconifyx_bi",
   "info": {
@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/twbs/icons/blob/main/LICENSE.md"
     },
-    "total": 2080
+    "total": 2082
   },
   "fonts": [
     {
       "family": "Bi",
-      "nextCodepoint": 59424,
-      "iconCount": 2080
+      "nextCodepoint": 59426,
+      "iconCount": 2082
     }
   ],
   "icons": {
@@ -2435,6 +2435,11 @@
       "codepoint": 57825,
       "fontFamily": "Bi",
       "identifier": "ccCircleFill"
+    },
+    "cc-square": {
+      "codepoint": 59424,
+      "fontFamily": "Bi",
+      "identifier": "ccSquare"
     },
     "cc-square-fill": {
       "codepoint": 57826,
@@ -6860,6 +6865,11 @@
       "codepoint": 58710,
       "fontFamily": "Bi",
       "identifier": "messenger"
+    },
+    "meta": {
+      "codepoint": 59425,
+      "fontFamily": "Bi",
+      "identifier": "meta"
     },
     "mic": {
       "codepoint": 58711,

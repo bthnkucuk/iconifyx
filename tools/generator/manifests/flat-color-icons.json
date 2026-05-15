@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "prefix": "flat-color-icons",
   "iconifyJsonVersion": "2.2.472",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-15",
   "category": "Archive / Unmaintained",
   "subPackage": "iconifyx_flat_color_icons",
   "info": {
@@ -15,17 +15,17 @@
       "title": "MIT",
       "spdx": "MIT"
     },
-    "total": 93
+    "total": 97
   },
   "fonts": [
     {
       "family": "FlatColorIcons",
-      "nextCodepoint": 57467,
-      "iconCount": 93
+      "nextCodepoint": 57469,
+      "iconCount": 97
     },
     {
       "family": "FlatColorIconsSecondary",
-      "nextCodepoint": 57467,
+      "nextCodepoint": 57469,
       "iconCount": 61
     }
   ],
@@ -80,6 +80,11 @@
       "fontFamily": "FlatColorIcons",
       "identifier": "automatic",
       "duotone": true
+    },
+    "automotive": {
+      "codepoint": 57467,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "automotive"
     },
     "bar-chart": {
       "codepoint": 57349,
@@ -253,9 +258,7 @@
     "electrical-threshold": {
       "codepoint": 57366,
       "fontFamily": "FlatColorIcons",
-      "identifier": "electricalThreshold",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "electricalThreshold"
     },
     "electricity": {
       "codepoint": 57367,
@@ -507,12 +510,15 @@
       "identifier": "news",
       "duotone": true
     },
+    "no-video": {
+      "codepoint": 57468,
+      "fontFamily": "FlatColorIcons",
+      "identifier": "noVideo"
+    },
     "nook": {
       "codepoint": 57398,
       "fontFamily": "FlatColorIcons",
-      "identifier": "nook",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "nook"
     },
     "numerical-sorting-12": {
       "codepoint": 57452,

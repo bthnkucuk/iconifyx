@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: The Bootstrap Authors
 /// License: MIT — https://github.com/twbs/icons/blob/main/LICENSE.md
-/// Icons: 2080
+/// Icons: 2082
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -2424,6 +2424,11 @@ class BiIcons {
   /// `cc-circle-fill`
   static const IconifyIconData ccCircleFill = IconifyIconData.solo(
     IconData(0xe1e1, fontFamily: 'Bi', fontPackage: 'iconifyx_bi'),
+  );
+
+  /// `cc-square`
+  static const IconifyIconData ccSquare = IconifyIconData.solo(
+    IconData(0xe820, fontFamily: 'Bi', fontPackage: 'iconifyx_bi'),
   );
 
   /// `cc-square-fill`
@@ -6849,6 +6854,11 @@ class BiIcons {
   /// `messenger`
   static const IconifyIconData messenger = IconifyIconData.solo(
     IconData(0xe556, fontFamily: 'Bi', fontPackage: 'iconifyx_bi'),
+  );
+
+  /// `meta`
+  static const IconifyIconData meta = IconifyIconData.solo(
+    IconData(0xe821, fontFamily: 'Bi', fontPackage: 'iconifyx_bi'),
   );
 
   /// `mic`

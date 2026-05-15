@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'Open Font License',
   licenseSpdx: 'OFL-1.1',
   licenseUrl: 'https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL',
-  iconCount: 148,
+  iconCount: 149,
 );
