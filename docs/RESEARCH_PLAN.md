@@ -1,0 +1,1044 @@
+# iconifyx — Research-driven improvement plan
+
+Consolidated findings from 12 parallel research agents (May 2026). Each
+section is one investigation; sections end with cited file paths and a
+verdict. Top-of-document index lists the work in priority order.
+
+This is a **plan** — most items are not implemented yet. Cross-reference
+against `git log` to see what's landed.
+
+## Priority queue (highest impact / hour first)
+
+### A. Tool — generator pipeline
+
+1. **Iterate-until-empty rebuild loop** (font-build) — 3 h, eliminates all
+   ~570 silent empty glyphs immediately. See §3.
+2. **Area-based duotone classification** (`trySplitTwoColorBody`) — 4 h,
+   recovers ~2 000 streamline-color / flex-color paint-order failures.
+   See §2.
+3. **Inherited-paint resolver via htmlparser2 AST** — 8 h, removes the
+   regex-bug class (Mynaui-1800-lost, `<g fill="none">` miss, style-attr
+   miss). See §7.
+4. **`fill="transparent"` / `rgba(.,.,.,0)` canonical no-ink predicate** —
+   3 h, eliminates the next bpmn-class regression. See §5.
+5. **vtracer multi-colour trace for paint-order drops** — 1-2 days,
+   recovers ~10-14 k of the 22 k dropped multi-colour icons. See §1.
+6. **`setStrokeWidth` + multi-weight proportional scaling** — 2-3 h,
+   improves all synthesised weight variants. See §6.
+7. **picosvg pre-validator subprocess** — 1 day, eliminates ~70 % of the
+   svg2ttf retry pain. See §8.
+8. **opentype.js replacement for svgicons2svgfont + svg2ttf** — 2 days,
+   structural fix for the build pipeline's most fragile component. See §3.
+9. **Visual-regression golden files + audit dashboard** — 5-6 h, catches
+   future regressions automatically. See §4.
+
+### B. Web — website
+
+10. **`IconifyIcon` `ui.Picture` cache** — ~3 h, biggest scroll perf win
+    on 15 k-icon packs. See §9.
+11. **Per-pack JSON shards on jsDelivr + lazy fetch** — 4-6 days end-to-
+    end, drops initial bundle by ~26 ×. See §11.
+12. **`RepaintBoundary` on `_IconCell`** — 1 h, hover doesn't repaint
+    neighbours. See §9.
+13. **Single static `packs.json` on jsDelivr** — 3-4 h, decouples data
+    updates from Flutter redeploys. See §12.
+14. **Selection tray / bulk export flow** — 1 day, biggest user-perceived
+    UX upgrade. See §10.
+15. **Icon-detail page restructure** — 3 h, hides debug knobs behind a
+    disclosure. See §10.
+
+---
+
+## §1 — Vector tracing quality
+
+**Verdict: Adopt `@neplex/vectorizer` (vtracer) for paint-order
+multi-colour drops. Hold Potrace for monochrome.**
+
+22 k icons currently drop to paint-order risk (multi-colour emoji
+bodies, gradient logos). Potrace fundamentally cannot do multi-colour —
+binary in, single silhouette out. vtracer is the only OSS Node-native
+tool that does hierarchical "stacked" multi-colour tracing.
+
+Realistic recovery: **~10-14 k icons** (the multi-colour-flat emoji
+families: twemoji 4.5 k, noto 4 k, fluent-emoji-flat 3 k; `circle-flags`
+737). Gradient-heavy and 3D-emoji packs stay broken.
+
+Architecture: **dual-tracer dispatch** by body class.
+- Stroke-only / evenodd / mask-internal → existing Svg2 + Potrace path.
+- Paint-order-dropped multi-fill → new vtracer path.
+
+Integration:
+- New `tools/generator/src/vtracer_worker.ts` mirroring
+  `stroke_fill_worker.ts` (subprocess isolation, bisect-on-panic).
+- Pre-rasterize via existing `oslllo-svg2` (same panic surface).
+- Pipeline: paint-order-drop branch becomes vtracer dispatch instead of
+  unconditional drop.
+- Cache traced SVG at `.cache/vtrace/<prefix>/<sha1>.svg`.
+- Two configs: `ColorMode.Binary` for monochrome A/B; `ColorMode.Color`
+  with `colorPrecision=6`, `filterSpeckle=6`, `layerDifference=24` for
+  paint-order recovery.
+
+Side fix in `iconNeedsRasterTrace`: detect parent-`<g stroke=…>` paint
+inheritance (regex currently reads child only).
+
+**Files:** `tools/generator/src/vtracer_worker.ts` (new),
+`vtracer_trace.ts` (new), `pipeline.ts`, `svg_preprocess.ts`,
+`stroke_fill_worker.ts` (template), `package.json`.
+
+**Tools:** `@neplex/vectorizer` 0.0.5 (MIT, prebuilt arm64/x64 darwin +
+linux). `oslllo-svg-fixer` can be DROPPED once vtracer lands.
+
+**Cost:** ~2 days. **Estimated icons recovered:** 10-14 k.
+
+---
+
+## §2 — SVG analysis: area-based duotone classification
+
+**Verdict: Adopt — replace source-order with sum-of-paths-bbox area.**
+
+Current `trySplitTwoColorBody` picks the FIRST colour encountered in
+source order as primary. For streamline-color and streamline-flex-color
+this is wrong:
+
+```
+<path fill="#2859c5"/>   <!-- accent 1 (pins/frame) -->
+<path fill="#8fbffa"/>   <!-- BODY (background) -->
+<path fill="#2859c5"/>   <!-- accent 2 (star/plus) -->
+```
+
+Both `#2859c5` paths get grouped as primary; the `#8fbffa` body becomes
+secondary and ends up on top of the foreground accent in paint-order
+render. Foreground vanishes.
+
+**Critical finding**: union-bbox-per-colour is WRONG too. The 8 accent
+paths in `ai-chip-spark-flat` span the whole 14×14 canvas (union area
+194); the body rect is only 100. Right metric is **sum-of-individual-
+path-bboxes per colour group**: accents ~18, body ~100.
+
+```ts
+function elementArea(tag, attrs): number {
+  if (tag === 'rect')   return width × height;
+  if (tag === 'circle') return π r²;
+  if (tag === 'ellipse')return π rx ry;
+  if (tag === 'path') {
+    return new SVGPathData(d).getBounds() → (maxX-minX) × (maxY-minY);
+  }
+}
+
+// In trySplitTwoColorBody after bucketing by colour:
+areas[colorA] = sum of element areas in bucket A;
+areas[colorB] = sum of element areas in bucket B;
+ratio = max / min;
+if (ratio < 1.5) fall back to source-order;
+else larger-area colour → primary (background), other → secondary;
+```
+
+Also add **white-as-foreground rule**: pure white (`#fff`, `white`,
+`rgb(255,255,255)`) is almost never the background. If one of two
+colours is canonical-white, the other is the background regardless of
+area.
+
+**Files:** `tools/generator/src/svg_preprocess.ts` (replace the bucketing
+tail of `trySplitTwoColorBody`), `svg_preprocess.test.ts` (new tests).
+Path-bbox via `svg-pathdata` already in deps.
+
+**Cost:** 3-4 h. **Estimated icons recovered:** 2 000+ across
+streamline-color, streamline-flex-color, fluent-color partial.
+
+Multi-colour (3+) follow-up: gated `multiColorSplitSets` opt-in. Top-2
+colours by area become primary/secondary; 3rd+ drops to currentColor
+flatten. Skip OKLab clustering — RGB-Euclidean nearest-of-top2 is 50×
+cheaper at 95 % accuracy. Risk: 3-colour brand marks where the 3rd
+colour is meaningful (Google's red/yellow/green/blue G). Gate per-pack.
+
+---
+
+## §3 — Font build correctness
+
+**Verdict (immediate): Adopt iterate-until-empty rebuild. Verdict
+(structural): Replace svgicons2svgfont + svg2ttf with opentype.js.**
+
+Current pipeline: SVG body → `svgicons2svgfont` → SVG-font intermediate
+(a 2018-deprecated XML format) → `svg2ttf` → TTF. svg2ttf silently
+coerces some features (open paths, complex curves) producing
+empty-outline glyphs. Last regen: **569 silent empties across 37 fonts**
+— meteocons 157/432 (36 %), devicon 115, token-branded 98.
+
+### Quick fix (3 h): iterate-until-empty
+
+After `buildFonts`, re-inspect via `fontkit`. Mark every empty glyph
+`deprecated: true`, recompute counts, rebuild. Loop until empties = 0
+or no change (bounded MAX_ITER=3). Empty set monotonically shrinks.
+
+```ts
+for (let iter = 0; iter < MAX_ITER; iter++) {
+  const empties = inspectAllFonts(ttfs, manifest);
+  if (empties.length === 0) break;
+  for (const {name} of empties) {
+    icons[name].deprecated = true;
+    icons[name].deprecatedSince = today;
+    icons[name].deprecatedReason = 'empty-outline post-build';
+    secondaryByName.delete(name);
+    resolvedByName.delete(name);
+  }
+  recomputeFontIconCounts(manifest);
+  ttfs = await buildFonts(...);
+}
+```
+
+Codepoint stability: empty glyphs get `deprecated: true`, codepoint
+stays reserved. No consumer-visible blanks.
+
+### Structural fix (2 days): opentype.js
+
+`opentype.js` exposes `new Glyph({...})` + `new Font({...})` +
+`font.toArrayBuffer()`. Assemble `opentype.Path` from each Iconify body
+via `svg-pathdata` (already a dep) → `moveTo/lineTo/curveTo/quadTo/
+close`. Replaces BOTH svgicons2svgfont AND svg2ttf with one library;
+skips the lossy SVG-font middle step.
+
+Determinism: set `font.createdTimestamp = 0` explicitly. Output is
+~3-5 % larger but tree-shake collapses to 6 entries so post-shake size
+is identical.
+
+### Additional glyph-quality metrics (1 h, font_verify.ts)
+
+Beyond "has commands":
+- **moveTo-only**: `commands.filter(c => c.command !== 'moveTo').length === 0`
+- **BBox outside em-square**: `bbox.maxX < 0 || minX > unitsPerEm || …`
+- **Micro-glyph**: `bbox area < 0.5 % of em²` (rounding-error leftover)
+
+### Pre-build validator addition (30 min, glyph_validator.ts)
+
+Catches "no drawable geometry" before build:
+```ts
+const drawables = body.match(/<(path|rect|circle|...)\b/g)?.length ?? 0;
+if (drawables === 0) return { ok: false, reason: 'no drawable primitives' };
+// Also reject <path d=""/> empties
+```
+
+**Files:** `tools/generator/src/font_builder.ts` (opentype.js rewrite),
+`pipeline.ts` (rebuild loop), `font_verify.ts` (metrics + ttfSha256 for
+determinism check), `glyph_validator.ts` (pre-check), `manifest.ts`
+(`ttfSha256?`, `deprecatedReason?`).
+
+**Tools:** `opentype.js` 1.3.x (replaces both), `fontkit` 2.x (keep,
+verify), `fonteditor-core` 2.x (backup if opentype write quality
+regresses).
+
+---
+
+## §4 — Audit + visual regression infrastructure
+
+**Verdict: Adopt pixelmatch + golden files + static HTML dashboard, gated
+by audit-driven sampling.**
+
+Every recent bug surfaced ONLY after the user manually opened a specific
+icon in the website. Audits flagged none upstream. Need automated visual
+regression.
+
+### Golden file regression (~2 h, highest leverage)
+
+For the ~20 already-triaged bugs (bpmn:call-activity, lets-icons:
+alarmclock-duotone-line, line-md:account, streamline-color:ai-chip-
+spark-flat, etc.), store the rendered 64×64 PNG hash. CI fails on hash
+change. Golden render via `fontkit.glyphForCodePoint(cp).path.toSVG()`
+→ wrap in `<svg>` → `oslllo-svg2().png()`. Tests live in
+`tools/generator/test/golden_icons.test.ts` via `bun:test`.
+
+### Pixel-similarity diff (~6 h)
+
+Each icon: rasterize source SVG (already cached via stroke-fill) AND
+TTF glyph (via fontkit + resvg) at 64×64 grayscale. `pixelmatch` with
+`{threshold: 0.1, includeAA: false}` returns mismatched-pixel count.
+Score = `1 - mismatch / 4096`. Flag below 0.92.
+
+```ts
+// tools/generator/src/visual_diff.ts
+const sim = 1 - pixelmatch(srcPng, ttfPng, null, 64, 64, opts) / 4096;
+```
+
+Budget: 30 k icons × 2.5 ms = 75 s single-threaded → 10-12 s with the
+existing 8-worker pool. Cache rasterized source PNGs at
+`.cache/raster64/<prefix>/<sha1>.bin`.
+
+### Audit-driven sampling
+
+100 % of changed-manifest packs (`git diff`), 100 % of `strokeFillSets`
++ duotone packs, 100 % of newly-added icons, 5 % stratified random of
+everything else (seeded by `hash(prefix)` so coverage rotates). Keeps
+budget under 60 s.
+
+### Static HTML dashboard (~3 h)
+
+Single self-contained `VISUAL_AUDIT.html` (≤ 5 MB) with bottom-quartile
+similarity rows + all goldens. Each row: source PNG + TTF PNG embedded
+as `data:image/png;base64,…`. Sortable + filterable. No build step.
+
+### CI workflow
+
+`.github/workflows/regen.yml`:
+```yaml
+- bun install && bun run generate
+- cd tools/generator && bun test  # goldens
+- bun run audit_gate.ts --max-regressions 0
+- upload-artifact: VISUAL_AUDIT.{md,html} + COVERAGE/STROKE/FONT_AUDIT
+```
+
+Per-icon health score: **Hold** — keep score in audit output, NOT in
+manifest. Manifest immutability is contract for codepoint stability;
+score drifts on rasterizer upgrades and risks false-positive auto-
+deprecation.
+
+**Files:** `tools/generator/src/visual_diff.ts` (new),
+`visual_dashboard.ts` (new), `pipeline.ts` (hook after
+verifyFontsAgainstManifests), `test/golden_icons.test.ts` (new),
+`test/goldens.json` (seed list).
+
+**Tools:** `pixelmatch` ^7.x (Mapbox, 150 LOC, MIT, dep-free), fontkit
++ oslllo-svg2 already in deps. No headless browser, no SSIM lib.
+
+---
+
+## §5 — Colour semantics: no-ink predicate + area-aware paint order
+
+**Verdict: Adopt unified no-ink predicate (~3 h) + area-aware
+foreground-vs-background (~4 h, overlaps §2).**
+
+### Canonical "no-ink" forms
+
+Every encoding that means "no visible ink":
+- `fill="none"` / `fill=none`
+- `fill="transparent"`
+- `fill="rgba(*,*,*,0)"` / `fill="rgb(* * * / 0)"` / `fill="hsla(...,0)"`
+- `fill="#XXXXXX00"` (8-digit zero-alpha hex), `fill="#XXX0"` (4-digit)
+- `fill=""` (empty)
+- `fill-opacity="0"`
+- `opacity="0"` (on element or ancestor)
+- `display="none"` / `visibility="hidden"`
+- Inherited `fill="none"` from `<g>` with no override
+- `style="fill: none"` or `style="fill: transparent"` etc.
+
+Single predicate:
+```ts
+function elementHasNoInk(attrs, groupAttrs = ''): boolean {
+  // Walks own attrs + style + ancestor group attrs.
+  // Returns true if BOTH effective fill and stroke are no-ink.
+}
+```
+
+Replaces three separate keyword lists across `iconNeedsRasterTrace`,
+`extractConcreteFills`, `splitDuotoneBody`, `isPaintOrderRiskBody`. Cost
+~3 h including 6-8 new unit tests.
+
+### Alpha at trace time
+
+When source has `fill-opacity="0.5"`, half-tone trace can fail. Rule:
+if ALL elements have opacity<1, promote them all to opacity=1 (avoids
+"all-faint trace returns empty silhouette"). If SOME have <1 and some
+don't, keep duotone split (current behaviour).
+
+### currentColor paint identity
+
+Today `extractConcreteFills` excludes `currentColor` entirely, so
+`<rect fill="#000"/><path fill="currentColor"/>` reports as 1 concrete
+colour → falls through to mono-flatten, collapsing the foreground. Treat
+`currentColor` as its own paint identity, paired with one concrete →
+valid 2-colour duotone candidate. Cost ~2 h.
+
+### Foreground-colour hint on manifest (optional, ~5 h)
+
+```ts
+interface ManifestIconEntry {
+  paintOrderForegroundHint?: string;   // canonical hex
+  paintOrderBackgroundHint?: string;
+}
+```
+
+Consumer renderers can use these as default `secondaryColor`. Surface
+only in website's `icons_index.json` (metadata-rich, no bundle impact),
+not per-set Dart class.
+
+**Files:** `tools/generator/src/svg_preprocess.ts` (unified predicate,
+trySplitTwoColorBody enhancement), `pipeline.ts` (alpha promotion
+pre-pass), `manifest.ts` (hint fields), `@iconify/utils` already in deps
+for colour canonicalisation.
+
+---
+
+## §6 — Stroke handling
+
+**Verdict: Adopt setStrokeWidth fix (~2 h, biggest impact),
+stroke-as-fill skip (~2 h), DOM-based iconNeedsRasterTrace (~half day).
+Hold paper.js stroke-to-path for later.**
+
+### setStrokeWidth: style + group inheritance + proportional scaling
+
+Current `setStrokeWidth` only touches `stroke-width="…"` attrs.
+- Misses `style="stroke-width: 1.5"`.
+- Misses inheriting children (parent `<g stroke-width="2">` only).
+- Multi-weight synthesis does FLAT replace, destroying per-layer width
+  ratios.
+
+Fix: regex over both presentation + style; inject onto outer `<g>` if
+absent; **proportional scale** with `ratio = newWidth / sourcePackBase`
+(Lucide base 2; thin = 1.0 → ratio 0.5).
+
+```ts
+export function scaleStrokeWidths(body, ratio): string {
+  const scale = (w) => Math.max(0.25, +(parseFloat(w) * ratio).toFixed(2));
+  body = body.replace(/stroke-width\s*=\s*["']([^"']+)["']/g, ...);
+  body = body.replace(/style\s*=\s*"([^"]*)"/g, ...);
+  if (!/stroke-width/.test(body) && /stroke=/.test(body)) {
+    // inject onto outer <g>
+  }
+}
+```
+
+Impact: ~100 k icons across Lucide / Tabler / Iconoir / Phosphor /
+Heroicons / Feather multi-weight variants visibly improved.
+
+### Stroke-as-fill skip
+
+```ts
+strokeIsFillLike(body, viewBox): boolean
+// true when maxStrokeWidth * 2 >= minSide * 0.15
+```
+
+When true, skip rasterize-trace (BPMN's 220-unit strokes in 1700-unit
+viewBox are already thick enough). Saves time + keeps sharper geometry.
+Followup: paper.js stroke→path geometric expansion for full fidelity
+(holds for later — 2-3 day work).
+
+### DOM-based iconNeedsRasterTrace
+
+Replace regex with proper AST walk + paint inheritance resolution (see
+§7). Catches:
+- `<g stroke="...">` inheritance
+- `style="stroke: ..."` CSS
+- Open paths (no `Z`)
+- Inherited `fill="none"` from parent
+
+~300-800 icons currently broken from missed detection.
+
+**Files:** `tools/generator/src/svg_preprocess.ts` (`setStrokeWidth`,
+`scaleStrokeWidths`, `strokeIsFillLike`, `iconNeedsRasterTrace`),
+`stroke_fill.ts` (route around stroke-as-fill).
+
+**Tools:** `paper.js` / `paper-jsdom` for future geometric stroke→path
+(2-3 day project, deferred); `fast-xml-parser` or htmlparser2 already
+transitive.
+
+---
+
+## §7 — SVG AST migration (regex → htmlparser2)
+
+**Verdict: Adopt phased migration, zero new direct deps.**
+
+All five required packages already in `bun.lock` via transitive deps:
+- `htmlparser2@10.1.0` (via cheerio → @iconify/tools)
+- `domhandler@5.0.3`, `domutils@3.2.2`, `dom-serializer@2.0.0`
+- `css-tree@2.3.1` (via svgo, not actually needed — 20-line custom parser
+  suffices)
+
+Add them as explicit `dependencies` in `tools/generator/package.json` so
+SVGO/cheerio bumps can't accidentally remove them.
+
+### Foundational helper
+
+```ts
+// dom.ts (~80 LOC)
+export function parseBody(body: string): Element {
+  return parseDocument(`<svg>${body}</svg>`, { xmlMode: true })
+    .children.find(c => c.type === 'tag')!;
+}
+export function serializeBody(root: Element): string { ... }
+
+export function resolvePaint(el: Element): PaintState {
+  // Walk ancestors, merge: style wins per SVG 1.1 spec; opacity is
+  // multiplicative; child wins for concrete-vs-none paint.
+}
+```
+
+`resolvePaint` is the LOAD-BEARING primitive — eliminates the entire
+class of `<g fill="none">` child-miss and style-attr-miss bugs in one
+shot.
+
+### Style attr flatten pass
+
+20-line custom parser (skip css-tree, overkill). Flatten `style="fill:
+none; stroke: ..."` into direct attributes once, then no downstream
+function needs dual-path handling.
+
+### Splitter rewrites
+
+Replace regex-based `splitDuotoneBody`, `trySplitTwoColorBody`,
+`trySplitMaskInternalBody`, `trySplitTwoStrokeColorBody` with AST clone
++ filter pattern:
+
+```ts
+const primary = cloneNode(root, true);
+const secondary = cloneNode(root, true);
+walk(primary, el => { if (resolvePaint(el).opacity < 1) removeElement(el); });
+walk(secondary, el => { if (resolvePaint(el).opacity >= 1) removeElement(el); });
+```
+
+Naturally handles nested `<g>` wrappers (current regex bails to
+"whole-body-primary" on any nesting).
+
+### Performance
+
+htmlparser2 parse ~25 µs, serialize ~15 µs per body. 340 k bodies →
++15 s sequential, +2-3 s with worker concurrency 8. Cache parsed tree
+on `ResolvedIcon._ast` to drop to <5 s.
+
+### Phased rollout (3 weeks)
+
+1. Phase 0 (4 h): foundational helpers + 25-30 unit tests
+2. Phase 1 (3 h): predicates A/B'd behind `--ast-predicates` flag, log
+   divergences
+3. Phase 2 (1 h): cut over predicates, delete regex
+4. Phase 3 (6 h): splitters A/B'd, diff TTF bytes between regex/AST
+   builds
+5. Phase 4: cut over splitters
+
+Total ~15 engineering hours, reversible at every phase.
+
+**Files:** `tools/generator/src/dom.ts` (new),
+`tools/generator/src/svg_preprocess.ts` (migration),
+`svg_preprocess.test.ts` (new test surface),
+`tools/generator/package.json` (promote transitives to explicit).
+
+---
+
+## §8 — Multi-language tools
+
+**Verdict: Adopt picosvg (Python subprocess), Adopt fontTools (Python
+subprocess), Trial Rust sibling crate for trace worker. Reject Lyon /
+WASM rewrites at current scale.**
+
+### picosvg pre-validator (1 day, highest signal-per-hour)
+
+`picosvg` (Google Fonts, Apache-2.0) is the canonical SVG-normaliser
+that resolves `<use>`, flattens transforms, expands clip-paths via
+skia-pathops, drops anything that won't survive a font build. Used as a
+gate: any icon picosvg rejects gets `deprecated: true` directly, no
+retry loop.
+
+Predicts svg2ttf failure with high precision. Eliminates ~70 % of the
+unbounded retry pain + cuts ~570 silent empties to near-zero when
+combined with the iterate-until-empty loop (§3).
+
+Subprocess via `Bun.spawn(["uv", "run", "picosvg_normalize.py"])`.
+Cache by content SHA at `.cache/picosvg/<prefix>/<sha1>.svg`.
+
+### fontTools SVG → TTF (2 days, structural correctness)
+
+`fontTools.svgLib.SVGPath` + `TTGlyphPen` + `fontBuilder` is what Google
+Fonts / Adobe / Apple actually ship. Bypasses SVG-font intermediate
+entirely. Estimated empty-glyph reduction: ~95 % vs current
+svgicons2svgfont + svg2ttf. Cubic→quadratic conversion via
+`fontTools.pens.cu2quPen.Cu2QuPen` (svg2ttf doesn't do this; causes
+curve drift on logo wordmarks).
+
+Subprocess via `Bun.spawn(["uv", "run", "build_ttf.py"])`, fed JSON
+over stdin. Output: TTF bytes on stdout. Deterministic via `head.created
+= modified = 0` + `recalcTimestamp=False`.
+
+**This is the "switch off svgicons2svgfont + svg2ttf together" option
+that the opentype.js plan in §3 also covers.** Pick one — fontTools is
+the industry standard but adds a Python toolchain; opentype.js stays
+in-TS.
+
+### Rust trace worker (1-2 days)
+
+`tools/generator-rust/` Cargo crate with `resvg` + `visioncortex-potrace`
+as **library** calls (not subprocess). Catches `panic!` via
+`catch_unwind` per-icon, eliminating the bisect dance. Single binary
+`iconifyx-trace` invoked from TS via `Bun.spawn`.
+
+Pays for itself by removing ~50 lines of bisect TS + ~14 worker-restart
+cost per regen. Future-friendly: can extend to vtracer (§1) in the same
+crate.
+
+### Polyglot CI
+
+`mise.toml` at repo root:
+```toml
+[tools]
+bun = "1.3"
+python = "3.12"
+rust = "1.85"
+uv = "latest"
+```
+
+GitHub Actions: `jdx/mise-action@v2` (~15 s cold setup, cached). `uv`
+handles Python deps in <2 s. Cargo cached via `Swatinem/rust-cache@v2`.
+Total CI setup ~30 s cold.
+
+### Verification
+
+`harfbuzzjs` (WASM, MIT) replaces fontkit's empty-glyph check with
+`hb_face_get_glyph_extents()` — only library that agrees with what
+Flutter's text engine actually renders. ~700 KB WASM, no subprocess.
+
+### Reject
+
+- `lyon` (Rust path geometry) — TS impl via svg-pathdata is "fine
+  enough" at our scale.
+- `read-fonts` / `write-fonts` (Skrifa) — only marginal verify-side
+  win; bundle into Rust trace crate if anything.
+- `nanoemoji` — overkill (COLRv1 territory; we ship monochrome).
+- WASM-fontkit-rs — Python subprocess simpler for build; harfbuzzjs
+  covers verify.
+
+**Tools:** `fonttools` (Python, MIT), `picosvg` (Python, Apache-2.0),
+`uv` (Rust, MIT/Apache, Python venv manager), `harfbuzzjs` (WASM, MIT),
+`resvg + visioncortex-potrace` (Rust, MPL-2.0 + Apache-2.0).
+
+---
+
+## §9 — Website performance
+
+**Verdict: Adopt TextPainter `ui.Picture` cache, RepaintBoundary, lazy
+font registration. Trial 3-gram search filter.**
+
+### TextPainter + ui.Picture cache (~3 h, biggest win)
+
+Current `_IconifyPainter` constructs + lays out TextPainter every
+rebuild. At 15 k cells × 2 TextPainter constructions + layouts per
+scroll wake. Layout is the dominant cost (text shaping).
+
+Add LRU cache keyed by `(codePoint, fontFamily, fontPackage, color,
+size, secondaryCodePoint, secondaryColor)`. Cache value: pre-baked
+`ui.Picture` of the painted glyph. Bind size to integer rounding
+(size=27.6 → bucket 28). Cap 2 000 entries × ~2 KB = ~4 MB.
+
+```dart
+class _GlyphPictureCache {
+  static final _lru = LinkedHashMap<int, ui.Picture>();
+  static const _cap = 2000;
+  static ui.Picture get(int key, ui.Picture Function() build) {
+    final hit = _lru.remove(key);
+    if (hit != null) { _lru[key] = hit; return hit; }
+    final p = build();
+    _lru[key] = p;
+    if (_lru.length > _cap) _lru.remove(_lru.keys.first);
+    return p;
+  }
+}
+```
+
+Expected: arcticons grid scroll smooth in release; ~60 % paint cost
+reduction for revisited glyphs.
+
+### RepaintBoundary on _IconCell (~1 h)
+
+Hover currently repaints all neighbours sharing the SliverGrid layer.
+Wrap cell's outer container in `RepaintBoundary`. ~150 visible cells →
+~150 layer entries, negligible. Hover, swatch change, slider step
+repaint only changed cell.
+
+### Lazy per-pack FontLoader registration
+
+Stop declaring icon fonts in `FontManifest.json` eagerly. Post-build
+rewrite manifest to empty + bundle `lib/data/font_manifest_by_pack.json`
+mapping prefix → `[{family, asset}]`. Runtime:
+
+```dart
+Future<void> ensurePackFontsLoaded(String prefix) async {
+  if (!_loaded.add(prefix)) return;
+  await Future.wait([
+    for (final f in spec) (FontLoader(f['family']!)
+      ..addFont(rootBundle.load(f['asset']!))).load(),
+  ]);
+}
+```
+
+Gate `PackDetailPage` body on a `FutureBuilder`. Mitigates CanvasKit
+WASM heap growth (font registry grows monotonically; no public
+unregister API).
+
+Companion: clear `imageCache` + glyph LRU on every pack route exit;
+periodic `window.location.reload()` after N pack visits if heap >
+target.
+
+### 3-gram search filter (Trial, ~150 LOC)
+
+`Int32List` of size 26³ mapping every present trigram → bitset chunk
+index. Per query: AND together three letter-trigram presence bitsets;
+skip 80-95 % of icons before substring `contains`. Sub-100 ms goal
+becomes <16 ms steady state. For queries <3 chars fall back to existing
+linear scan.
+
+Memory: packed bitset 340 k × ~17 k live 3-grams worst case 720 MB →
+use Bloom filter over (trigram × pack-bucket-256): 256 × 17 k bits =
+~540 KB.
+
+Alternative: FlexSearch via `package:js` — proven 10 ms over 100 k
+strings, but JS↔Dart interop per keystroke + ~300 KB JS.
+
+### Memory profiling
+
+`performance.measureUserAgentSpecificMemory()` (Chrome only, requires
+COOP/COEP headers — already needed for threaded CanvasKit). Small
+periodic timer probe in debug/profile mode.
+
+**Files:** `iconifyx_core/lib/src/iconify_icon.dart` (cache),
+`pack_detail_page.dart` (RepaintBoundary, font preload),
+`bootstrap/font_registry.dart` (new), `tools/generator/src/
+website_codegen.ts` (font_manifest_by_pack.json emit + FontManifest
+stub).
+
+---
+
+## §10 — Website architecture + UX
+
+**Verdict: Adopt selection-tray + bulk-export, restructure icon-detail
+page, square-default grid with compare toggle.**
+
+### Selection tray + bulk export (~1 day, biggest user-perceived win)
+
+Most icon-site users assemble a set. Without this, iconifyx feels like
+a viewer.
+
+- Cmd/Ctrl+click on cell toggles selection.
+- Sticky bottom Selection Tray: horizontal scrolling thumbs + counter +
+  3 actions:
+  - **Copy import code** — single Dart block with `import 'package:
+    iconifyx_<prefix>/iconifyx_<prefix>.dart';` lines.
+  - **Export package** — sheet with generated `pubspec.yaml` snippet.
+  - **Print sheet** — `window.print()` on a print-friendly `/selection`
+    route (8-col grid; gives free PDF reference).
+- Persist in `localStorage` (via `package:web` / `dart:js_interop`).
+  Optional URL share via `?selected=mdi/home,lucide/heart`.
+
+Files: `lib/shared/bloc/selection_bloc.dart` (new),
+`lib/shared/widgets/selection_tray.dart` (new), `_IconCell` (corner
+badge + checkbox-on-hover), `AppShellLayout` (mount tray after
+`Expanded(buildPath)`).
+
+### Icon-detail restructure (~3 h)
+
+Current: Breadcrumb → PreviewCard → CodeTabs → MetaCard →
+DuotoneLayerDebugStrip → PerIconControls → Related → buttons. Noisy.
+
+New hierarchy:
+1. **Action header** — big "Copy import + usage" button at top.
+2. **Visual** — `_PreviewCard` side-by-side, size grid below in
+   horizontal Wrap.
+3. **Code** — `_CodeTabs`, Dart default + auto-focus.
+4. **Details disclosure** (collapsed) — Metadata, Related, Render
+   settings (PerIconControls + DuotoneLayerDebugStrip only if
+   `record.duotone`).
+
+### Pack-grid layout (~3-4 h)
+
+Square cell with iconifyx-only by default; explicit "Compare with
+Iconify source" toggle in sidebar puts current 1.6-aspect side-by-side
+back. Persist via URL `?compare=1`. Reason: 95 % of time is browse, not
+audit.
+
+### Pack-detail sidebar reorg
+
+Three groups:
+- **DISPLAY**: Style chips, Size slider, Compare-mode toggle, Color
+  swatches.
+- **ADVANCED** (collapsed): Secondary color swatches, Swap layers
+  toggle.
+- **ABOUT THIS PACK**: Author, license, counts.
+
+### Search UX (5 small upgrades)
+
+- Per-pack scope (`?scope=<prefix>` chip)
+- Preview tiles instead of name rows
+- Recent searches (localStorage chips above empty results)
+- Enter key wraps between rows + grid
+- Highlighted substring match via RichText
+
+### Homepage additions
+
+- Expanded install snippet bar with tabs (pub.dev / bun / flutter fvm)
+- "Recently added packs" sliver (sort by `generatedAt`)
+- Top searches chip strip (from localStorage)
+
+### First-visit onboarding
+
+Inline 3-step strip below hero (not modal): Browse → Install → Use.
+Dismiss via `localStorage['iconifyx_visited'] = true`.
+
+### Visual polish
+
+- `height: 1.1, letterSpacing: -0.02` at headlineMedium+ (Plus Jakarta
+  Sans).
+- Mono-everything → mono for LABELS only, sans for VALUES.
+- Unified radius scale (`AppTheme.radius.{xs:6, sm:8, md:10, lg:14}`).
+- Subtle scroll-elevation shadow on pinned title bar when
+  `shrinkOffset > 0`.
+- 120 ms `AnimatedContainer` border-color transition on hover (not
+  instant swap).
+
+**Files:** `lib/features/pack/pack_detail_page.dart`,
+`lib/features/icon_detail/icon_detail_page.dart`,
+`lib/features/search/search_page.dart`,
+`lib/features/home/home_page.dart`,
+`lib/shared/bloc/search_bloc.dart` + new `selection_bloc.dart`,
+`lib/theme/app_theme.dart`.
+
+---
+
+## §11 — `icons_index.json` CDN sharding
+
+**Verdict: Adopt per-pack shards + global names binary on jsDelivr.
+Phased rollout.**
+
+Current: 10 MB raw / 2.1 MB gzip bundled at build time, parsed via
+`compute(_parse)` in background isolate. Forces ALL bytes through main
+thread before search works.
+
+### Shard scheme
+
+- 225 per-pack shards: `cdn/v<sha>/packs/<prefix>.json` (median 25 KB
+  raw, p95 120 KB, max 1 MB = arcticons; gzipped ~5/25/200 KB).
+- One global `names.bin` (~1.3 MB raw, ~450 KB brotli) for search.
+
+### names.bin wire format
+
+```
+magic: "IFXN"
+schemaVersion: u8 = 1
+packCount: u16, packs: [prefixLen u8, prefix utf8, iconCount u32]
+icons: [packIdx u16, codepoint u24, kindCode u8, nameLen u8, name ascii]
+```
+
+Total ~166 k live icons × avg 8 bytes = 1.3 MB. Brotli ~450 KB.
+Decoded into `Uint8List` + offset table. Scanned linearly via
+`indexOfBytes` (hand-rolled byte-level). p95 ~30 ms in WASM.
+
+### CDN: jsDelivr
+
+`https://cdn.jsdelivr.net/gh/Bthn/icons@<sha>/cdn/packs/<prefix>.json`.
+SHA = manifest content hash. Immutable URLs → `max-age=31536000`.
+Brotli auto-negotiated. CORS by default. Backup: raw.githubusercontent
+fallback in client fetcher.
+
+### Generator emit
+
+```ts
+// website_codegen.ts
+buildPerPackShards(input): Map<string, string>
+buildNamesBinary(input): Uint8Array
+buildCdnManifest(shards, namesBin): string
+```
+
+`cdn_manifest.json` (~30 KB) is the ONLY bundled file going forward.
+Carries `cdnVersion` SHA + per-shard integrity SHA.
+
+### Client refactor
+
+```dart
+class IconCatalog {
+  final Map<String, Future<List<IconRecord>>> _packShards = {};
+  final LruCache<String, List<IconRecord>> _hot = LruCache(maxSize: 20);
+  Future<NamesIndex>? _names;
+
+  Future<List<IconRecord>> packIcons(String prefix) { ... }
+  Future<NamesIndex> names() => _names ??= _fetchNames();
+}
+```
+
+`PackBloc` becomes async (`PackLoading` → `PackReady`); pack-detail
+renders shimmer grid sized by `summary.iconCount` while shard loads.
+
+### Phased rollout
+
+1. Phase 1 (1 day): generator emits shards alongside existing
+   `icons_index.json` — no client change.
+2. Phase 2 (2 days): `PackBloc` switches to shards; search still uses
+   bundled index. **Net: ~8 MB doesn't ship at boot for users who never
+   visit a pack.**
+3. Phase 3 (2 days): search swaps to `names.bin`. Drop
+   `icons_index.json` from pubspec. **Net: web build initial download
+   drops from ~12 MB to ~1.5 MB.**
+
+Each phase behind `kUseCdn` const; rollback by flipping false.
+
+### Offline resilience
+
+- `packs.json` stays bundled → home + sidebar work offline.
+- Pack-detail offline → `PackError(retryable: true)` with retry button
+  + exponential backoff.
+- Skip service worker for v1.
+
+**Files:** `tools/generator/src/website_codegen.ts` (new emit
+functions), `pipeline.ts` (write `build/cdn/` tree), `lib/bootstrap/
+icon_catalog.dart` (lazy fetcher rewrite), `bootstrap_bloc.dart` (drop
+eager load), `pack_bloc.dart` (async states), `pack_detail_page.dart`
+(shimmer), `search_bloc.dart` (byte-scan).
+
+**Cost:** ~4-6 dev days end-to-end. **Net savings:** ~26 × reduction
+in initial download.
+
+---
+
+## §12 — `packs.json` CDN strategy
+
+**Verdict: DON'T shard. Single brotli'd file on jsDelivr. Keep previews
+inline.**
+
+200 KB raw, 32 KB gzip, **26 KB brotli**. That's one HTTP/2 frame.
+Keyword sharding `/keyword/<term>.json` would yield 1-3 KB shards —
+smaller than TLS handshake overhead, and re-fetches on every typo.
+
+At 225 packs, in-memory string match against parsed records is
+sub-millisecond. Keyword shards solve a problem that doesn't exist
+here.
+
+### What to do
+
+- Add `tools/generator/src/website_codegen.ts:buildCdnManifest()`
+  emitting a tiny `cdn_manifest.json` (~250 B):
+  ```json
+  {"schemaVersion":1, "commitSha":"abc123", "packsUrl": "...jsdelivr.../packs.json"}
+  ```
+- Bundle that as asset; everything else fetched.
+- Client: bundled `cdn_manifest.json` → HTTP GET `packsUrl` (5 s timeout)
+  → on failure, fall back to bundled `packs.json` (last-known-good,
+  ~26 KB asset cost).
+
+### Why bother
+
+- **Bundle size** -26 KB (modest).
+- **Data update without Flutter rebuild** — new `@iconify/json` ships,
+  regen `packs.json` on jsDelivr, returning users see new packs
+  without app redeploy. **Real reason to do this.**
+  - Caveat: requires `icons_index.json` CDN flow too (§11). Otherwise
+    new previews point at codepoints not in bundled font set.
+- **Edge TTFB** ~30 ms vs ~150 ms from origin.
+
+### Keep previews inline
+
+12 previews × 30 bytes × 225 packs ≈ 80 KB raw / 12 KB brotli. Splitting
+would save 12 KB but add 20 RTTs on first paint. Not worth it. Also:
+previews use TTF codepoints (not Iconify SVG URLs); decoupling would
+visually drift from in-pack rendering.
+
+**Files:** `tools/generator/src/website_codegen.ts` (add
+`buildCdnManifest`, keep `buildPacksJson` unchanged),
+`lib/bootstrap/bootstrap_bloc.dart` (10-line loader with HTTP +
+fallback).
+
+**Cost:** ~3-4 h total. Don't overbuild.
+
+---
+
+## Cross-cutting recommendations
+
+### Tools shortlist (consolidated)
+
+**Adopt (TS-side, npm):**
+- `@neplex/vectorizer` — vtracer multi-color trace (§1)
+- `svg-pathdata` — already in deps; path bbox for area heuristic (§2,5)
+- `htmlparser2 + domhandler + domutils + dom-serializer` — already
+  transitive, promote to explicit (§7)
+- `pixelmatch` — visual regression diff (§4)
+- `opentype.js` — replacement font builder (§3 structural)
+- `fontkit` — already in deps; keep for verification (§3,4)
+
+**Adopt (Python subprocess via uv):**
+- `picosvg` — pre-validator (§8) — highest signal-per-hour Python add
+- `fonttools` — alternative font builder (§3,8) — pick this OR
+  opentype.js, not both
+
+**Adopt (web Dart):**
+- `quiver` — LRU cache (already in pubspec) (§9)
+- `package:http` — CDN fetch (already standard) (§11,12)
+- `package:js` / `dart:js_interop` — localStorage + FlexSearch backup
+  (§9,10)
+
+**Trial:**
+- Rust sibling crate `tools/generator-rust/` with `resvg` +
+  `visioncortex-potrace` for panic-safe in-process trace (§8)
+- `harfbuzzjs` (WASM) for empty-glyph verification (§8)
+- `paper.js` for geometric stroke→path (§6, deferred)
+
+**Reject:**
+- StarVector / ML vectorizers — GPU-only, no deterministic npm
+- nanoemoji — COLRv1 territory, we ship monochrome
+- Lyon (Rust path geom) — TS impl sufficient at our scale
+- OKLab colour clustering — RGB-Euclidean 50× cheaper, 95 % accuracy
+- 3-gram per-keyword CDN shards — combinatorial blowup
+- Service worker for v1 — Flutter web's existing SW handles app shell
+- Cloudflare Pages / Workers — jsDelivr is OSS-flavoured infra,
+  zero auth boundary
+
+### Recommended sequence (12 weeks of incremental work)
+
+**Week 1-2 (correctness quick wins):**
+- Iterate-until-empty rebuild (§3)
+- Canonical no-ink predicate (§5)
+- Area-based duotone classification (§2)
+- setStrokeWidth proportional scaling (§6)
+- Golden file tests for known regressions (§4)
+
+**Week 3-4 (visual + audit):**
+- Visual diff pipeline (§4)
+- Static HTML dashboard (§4)
+- TextPainter + Picture cache (§9)
+- RepaintBoundary on cells (§9)
+
+**Week 5-7 (structural — pick one of two paths):**
+- Path A: opentype.js replacement (§3) — stays in TS
+- Path B: fontTools subprocess + picosvg (§8) — adds Python toolchain
+
+**Week 8-9 (multi-colour recovery):**
+- vtracer integration (§1) — recovers ~10-14 k icons
+
+**Week 10-11 (web infrastructure):**
+- icons_index.json sharding + jsDelivr (§11)
+- packs.json CDN (§12)
+- Lazy per-pack FontLoader (§9)
+
+**Week 12 (UX polish):**
+- Selection tray + bulk export (§10)
+- Icon-detail restructure (§10)
+- Square-default grid with compare toggle (§10)
+
+### Determinism + manifest invariants
+
+ALL changes preserve:
+- Codepoint stability (manifests append-only, never shift existing)
+- Deterministic font output (`ts: 0`, sorted-key emit, hash-content
+  verify via `ttfSha256`)
+- Tree-shake invariants (extension type record, `@staticIconProvider`,
+  const IconData fields)
+
+### CI / repro
+
+Single mise.toml or Dockerfile pinning Bun 1.3 + Python 3.12 + Rust
+1.85 + uv. GitHub Actions setup via `jdx/mise-action@v2` (~15 s cold).
+`bun test` for golden regressions. `audit_gate.ts` fails CI on
+new visual regressions.
+
+---
+
+## Status — what's already landed (May 2026)
+
+These were implemented during the investigation that produced this plan:
+- `iconifyx_core/IconifyIconData` extension type with `kindCode` field
+- Single `IconifyIconData.duo(p, s, kind: ...)` constructor
+- `IconifyIcon` widget with kind-aware composition + CustomPaint
+- 4 duotone split paths in `svg_preprocess.ts` (opacity, two-color,
+  mask-internal, colour-mapped)
+- Animation flattening (`flattenAnimations`) for line-md reveal/
+  transition animations
+- `flattenAnimations` visibility-aware heuristic (min dashoffset, max
+  opacity)
+- `fontkit`-based post-build verification → `FONT_AUDIT.md`
+- Per-icon controls in website (primary / secondary colour, opacity
+  sliders, swap layers)
+- `IconRecord.toIconifyData()` forwards kind from icons_index.json
+  tuple's 4th slot (critical fix — paint-order packs were rendering
+  as hint-layer at runtime)
+
+Most of the agents' recommendations BUILD on top of these.
