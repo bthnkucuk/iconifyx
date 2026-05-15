@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
@@ -10,7 +9,6 @@ import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/icon_detail_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
-import '../../shared/iconify_svg_url.dart';
 import '../../shared/widgets/collapsible_section.dart';
 import '../../shared/widgets/hover_box.dart';
 import '../../shared/widgets/iconify_thumb.dart';
@@ -251,20 +249,15 @@ class _LoadedBody extends StatelessWidget {
         final gridCrossExtent = (pageColumnWidth - 2 * pageContainerPad - 56)
             .clamp(0.0, double.infinity);
         final iconSizeValue = page._iconSize;
-        // Cell now hosts a side-by-side comparison (iconifyx TTF + iconify
-        // CDN SVG), so each cell needs roughly 2× the horizontal room a
-        // square-icon cell would. Bumped from `iconSize + 56` to
-        // `iconSize * 2 + 64`; cols clamp lowered from 3..24 to 2..12.
-        final cellTarget =
-            (iconSizeValue * 2 + 64).clamp(140, 360).toDouble();
-        final cols = (gridCrossExtent / cellTarget).floor().clamp(2, 12);
+        // Square cells — only the TTF render lives in each cell now (the
+        // previous side-by-side SVG comparison was removed, see §23 #1).
+        final cellTarget = (iconSizeValue + 56).clamp(80, 200).toDouble();
+        final cols = (gridCrossExtent / cellTarget).floor().clamp(3, 24);
         const crossAxisSpacing = 10.0;
         final cellWidth =
             (gridCrossExtent - crossAxisSpacing * (cols - 1)) / cols;
-        // Each sub-tile gets half the cell minus internal padding + divider.
-        // Clamped to 16..96 like before — that's the IconifyThumb sweet spot.
-        final iconRenderSize =
-            ((cellWidth - 28) / 2).clamp(16.0, 96.0);
+        // Whole-cell icon, clamped to the IconifyThumb sweet spot.
+        final iconRenderSize = (cellWidth - 16).clamp(16.0, 96.0);
 
         final cardColor = isDark ? AppTheme.cardDark : AppTheme.card;
         final palette = _CellPalette(
@@ -369,10 +362,8 @@ class _LoadedBody extends StatelessWidget {
             page: page,
             allIcons: allIcons,
             cols: cols,
-            // Landscape rectangle: 1.6× wider than tall to fit the
-            // side-by-side TTF + SVG comparison without cramping either
-            // tile.
-            childAspect: 1.6,
+            // Square cells — TTF-only render after §23 #1.
+            childAspect: 1.0,
             palette: palette,
           ),
         );
@@ -532,11 +523,14 @@ class _IconCell extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // During fast scroll the engine reports `recommendDeferredLoading`. Skip
-    // both the IconifyIcon paint AND the Iconify CDN SVG fetch (`SvgPicture
-    // .network` is the bigger cost — a fling across arcticons would
-    // otherwise fire ~15k network requests). Show the cell chrome only;
-    // when scroll velocity drops below the threshold and any new cell
-    // enters the viewport, that cell renders both halves normally.
+    // the IconifyIcon paint and only render the cell chrome (box + label);
+    // when scroll velocity drops below the threshold and any new cell enters
+    // the viewport, that cell renders the icon normally on the next build.
+    //
+    // The previous side-by-side comparison with `SvgPicture.network` against
+    // api.iconify.design was removed — paint-order duotones now render
+    // correctly via `IconifyIcon`'s native composition (palette.surface
+    // ForKnockout knocks out the foreground letterform). See §23 #1.
     final deferred = Scrollable.recommendDeferredLoadingForContext(context);
     final iconData = deferred ? null : record.toIconifyData();
     return HoverBuilder(
@@ -556,40 +550,16 @@ class _IconCell extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             children: [
               Expanded(
-                child: Row(
-                  children: [
-                    Expanded(
-                      child: Center(
-                        child: iconData == null
-                            ? const SizedBox.shrink()
-                            : IconifyThumb(
-                                iconData,
-                                size: palette.iconRenderSize,
-                                color: accent,
-                                secondaryColor: palette.surfaceForKnockout,
-                                swapLayers: palette.swapLayers,
-                              ),
-                      ),
-                    ),
-                    Container(
-                      width: 1,
-                      margin: const EdgeInsets.symmetric(vertical: 6),
-                      color: palette.rule,
-                    ),
-                    Expanded(
-                      child: Center(
-                        child: deferred
-                            ? const SizedBox.shrink()
-                            : SvgPicture.network(
-                                iconifySvgUrlTinted(record, accent),
-                                width: palette.iconRenderSize,
-                                height: palette.iconRenderSize,
-                                placeholderBuilder: (_) =>
-                                    const SizedBox.shrink(),
-                              ),
-                      ),
-                    ),
-                  ],
+                child: Center(
+                  child: iconData == null
+                      ? const SizedBox.shrink()
+                      : IconifyThumb(
+                          iconData,
+                          size: palette.iconRenderSize,
+                          color: accent,
+                          secondaryColor: palette.surfaceForKnockout,
+                          swapLayers: palette.swapLayers,
+                        ),
                 ),
               ),
               const SizedBox(height: 4),
